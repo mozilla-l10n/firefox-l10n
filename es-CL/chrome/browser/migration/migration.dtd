@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY migrationWizard.title "Asistente de importación">
+<!ENTITY importFrom.label "Importar Opciones, Marcadores, Historial, Contraseñas y otros datos de:">
+<!ENTITY importFromUnix.label "Importar Preferencias, Marcadores, Historial, Contraseñas y otros datos de:">
+<!ENTITY importFromBookmarks.label "Importar marcadores de:">
+<!ENTITY importFromIE.label "Internet Explorer">
+<!ENTITY importFromIE.accesskey "">
+<!ENTITY importFromNothing.label "No importar nada">
+<!ENTITY importFromNothing.accesskey "">
+<!ENTITY importFromSafari.label "">
+<!ENTITY importFromSafari.accesskey "">
+<!ENTITY importFromChrome.label "">
+<!ENTITY importFromChrome.accesskey "">
+<!ENTITY importFromFirefox.label "">
+<!ENTITY importFromFirefox.accesskey "">
+<!ENTITY noMigrationSources.label "No se encontraron aplicaciones que contuvieran marcadores, historiales o datos de contraseñas.">
+<!ENTITY importSource.title "Importar configuraciones y datos">
+<!ENTITY importItems.title "Ítems a importar">
+<!ENTITY importItems.label "Seleccione los ítems a importar:">
+<!ENTITY migrating.title "Importando…">
+<!ENTITY migrating.label "Los siguientes ítems están siendo importados…">
+<!ENTITY selectProfile.title "Seleccionar Perfil">
+<!ENTITY selectProfile.label "Los siguientes perfiles están disponibles para ser importados de:">
+<!ENTITY done.title "Importación terminada">
+<!ENTITY done.label "Los siguientes ítems fueron importados exitosamente:">

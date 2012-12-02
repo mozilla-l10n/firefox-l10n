@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width "46em">
+<!ENTITY languages.customize.Header "Idiomas">
+<!ENTITY languages.customize.prefLangDescript "A veces, las páginas Web sonofrecidas en más de un idioma. Elija idiomas para mostrar esas páginas Web, según orden de preferencia.">
+<!ENTITY languages.customize.active.label "Idiomas según orden de preferencia:">
+<!ENTITY languages.customize.moveUp.label "Mover hacia arriba">
+<!ENTITY languages.customize.moveUp.accesskey "">
+<!ENTITY languages.customize.moveDown.label "Mover hacia abajo">
+<!ENTITY languages.customize.moveDown.accesskey "">
+<!ENTITY languages.customize.deleteButton.label "RemoverEliminar">
+<!ENTITY languages.customize.deleteButton.accesskey "">
+<!ENTITY languages.customize.selectLanguage.label "Seleccione un idioma para agregar…">
+<!ENTITY languages.customize.addButton.label "Agregar">
+<!ENTITY languages.customize.addButton.accesskey "">

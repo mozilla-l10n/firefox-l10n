@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Navegación privada">
+<!ENTITY privatebrowsingpage.title.normal "¿Quiere iniciar la navegación privada?">
+<!ENTITY privatebrowsingpage.issueDesc "&brandShortName; no recordará nada en el historial para esta sesión.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; no está actualmente en modo de Navegación Privada.">
+<!ENTITY privatebrowsingpage.description "En una sesión de Navegación Privada, &brandShortName; no mantendrá ningún tipo de historial de navegación, búsquedas, descargas, formularios, cookies o archivos temporales. Sin embargo, los archivos bajados y marcadores se mantendrán.">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Si lo desea, puede empezar también ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner "limpiando su historial reciente">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Iniciar navegación privada">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "">
+<!ENTITY privatebrowsingpage.howToStop2 "Para terminar la navegación privada, seleccione &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; o cierre &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2 "Para iniciar la navegación privada, también puede seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.moreInfo "Aunque este computador no guardará su historial de navegación, su proveedor de servicios de Internet o el personal de la organización podrán seguir realizando el seguimiento de las páginas que usted ha visitado.">
+<!ENTITY privatebrowsingpage.learnMore "Saber más">
