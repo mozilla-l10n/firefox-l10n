@@ -29,7 +29,7 @@
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Por favor contacte a los dueños del sitio web para informales de este problema.</li>
+  <li>Por favor, contacte a los dueños del sitio web para informarles de este problema.</li>
 </ul>
 ">
 <!ENTITY netReset.title "Conexión Interrumpida">
@@ -54,19 +54,19 @@
 <li>Si ha conectado a este servidor con éxito en el pasado, el error podría ser temporal, y podrá volver a intentarlo más tarde.</li>
 </ul>
 ">
-<!ENTITY malwareBlocked.title "¡Sitio sospechoso de ataque!">
+<!ENTITY malwareBlocked.title "¡Sospecha de sitio atacante!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Sitios de ataque intentan instalar programas que roban información privada, usan su computador para atacar a otros, o dañan su sistema.</p>
-<p>Los dueños de sitios web que creen que su sitio ha sido reportado como un sitio de ataque por error debieran <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar una revisión</a>.</p>
+<p>Los sitios maliciosos intentan instalar programas que roban su información privada, utilizan su computador parar atacar otros o dañar su sistema.</p>
+<p>Los dueños de sitios web que crean que su sitio ha sido reportado como un sitio de ataque por error pueden <a href='http://www.stopbadware.org/home/reviewinfo' >solicitar una revisión</a>.</p>
 ">
-<!ENTITY phishingBlocked.title "¡Sitio web sospechoso de suplantación!">
+<!ENTITY phishingBlocked.title "¡Sospecha de sitio web fraudulento!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ingresar cualquier dato personal en esta págian peude resultar en un robo de identidad u otro fraude.</p>
-<p>Este tipo de web falsas son usadas en estadas conocidas como ataques phishing, en los que páginas fraudulentas y correos son usados para imitar fuentes en que usted confía.</p>
+<p>Ingresar cualquier dato personal en este sitio peude resultar en un robo de identidad u otro fraude.</p>
+<p>Esta clase de sitios falsificados son usados en estafas conocidas como ataques de phishing, en el cual los sitios Web fraudulentos y e-mails son usados para imitar sitios en los que usted confia.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 <!ENTITY corruptedContentError.title "Error de contenido corrupto">
 <!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detecto un error en la transmisión de datos.</p><ul><li>Por favor contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte a los dueños del sitio para informarles del problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte a los dueños del sitio para informarles del problema.</li></ul></p>">
