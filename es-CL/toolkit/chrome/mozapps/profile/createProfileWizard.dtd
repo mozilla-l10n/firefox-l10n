@@ -12,7 +12,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text "Para comenzar a crear su perfil, haga clic en Siguiente.">
 <!ENTITY profileCreationIntro.text "Si crea distintos perfiles puede distinguirlos por sus nombres. Puede usar el nombre que le hemos proporcionado o crear uno nuevo por su cuenta.">
 <!ENTITY profilePrompt.label "Ingrese un nuevo nombre de perfil:">
-<!ENTITY profilePrompt.accesskey "e">
+<!ENTITY profilePrompt.accesskey "i">
 <!ENTITY profileDirectoryExplanation.text "Sus configuraciones, preferencias y otros datos relacionados al usuario serán almacenados en:">
 <!ENTITY profileDefaultName "Usuario Predeterminado">
 <!ENTITY button.choosefolder.label "Seleccione Carpeta…">
