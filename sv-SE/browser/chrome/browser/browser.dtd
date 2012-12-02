@@ -358,6 +358,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Öppna länk i nytt fönster">
 <!ENTITY openLinkCmd.accesskey        "Ö">
+<!ENTITY openLinkInPrivateWindowCmd.label "Öppna länk i nytt privat fönster">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "i">
 <!ENTITY openLinkCmdInCurrent.label     "Öppna länk">
 <!ENTITY openLinkCmdInCurrent.accesskey "n">
 <!ENTITY openFrameCmdInTab.label      "Öppna ram i ny flik">
