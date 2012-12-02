@@ -241,7 +241,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      engine. -->
 <!ENTITY suggestions_prompt "Voulez-vous activer les suggestions de recherche &#037;s ?">
 
-<!ENTITY webapp_generic_name "application">
+<!ENTITY webapp_generic_name "Application">
 
 <!ENTITY searchable_description "Marque-pages et historique">
 
