@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Konsola WWW">
 
-<!ENTITY networkPanel.requestURL                  "URL żądania">
-<!ENTITY networkPanel.requestMethod               "Metoda żądania">
-<!ENTITY networkPanel.statusCode                  "Kod stanu">
+<!ENTITY networkPanel.requestURLColon             "URL żądania:">
+<!ENTITY networkPanel.requestMethodColon          "Metoda żądania:">
+<!ENTITY networkPanel.statusCodeColon             "Kod stanu:">
 
 <!ENTITY networkPanel.requestHeaders              "Nagłówki żądania">
 <!ENTITY networkPanel.requestCookie               "Przesłane ciasteczko">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Przesłane dane formularzy">
 
 <!ENTITY networkPanel.responseHeaders             "Nagłówki odpowiedzi">
+<!ENTITY networkPanel.responseCookie              "Ciasteczko z odpowiedzi">
 <!ENTITY networkPanel.responseBody                "Zawartość odpowiedzi">
 <!ENTITY networkPanel.responseBodyCached          "Dane z pamięci podręcznej">
 <!ENTITY networkPanel.responseBodyUnknownType     "Nieznany typ zawartości">
