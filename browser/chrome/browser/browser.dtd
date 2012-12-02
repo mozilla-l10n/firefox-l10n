@@ -76,7 +76,7 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Code source de la page">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "C">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informations sur la page">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fermer la Barre de développement">
 <!ENTITY devToolbarMenu.label              "Barre de développement">
-<!ENTITY devToolbarMenu.accesskey          "B">
+<!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarToolsButton.label       "Boîte à outils">
@@ -239,7 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbox.accesskey              "B">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtenir d'autres outils">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "b">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "O">
 
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
