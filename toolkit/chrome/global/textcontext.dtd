@@ -18,8 +18,8 @@
 <!ENTITY spellAddToDictionary.accesskey "g">
 <!ENTITY spellUndoAddToDictionary.label "Deshacer agregar al diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Revizar ortografía">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckEnable.label "Revisar ortografía">
+<!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
 <!ENTITY spellDictionaries.label "Idiomas">
 <!ENTITY spellDictionaries.accesskey "I">
