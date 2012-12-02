@@ -6,7 +6,7 @@
 <!ENTITY props.value.label "Contenido:">
 <!ENTITY props.domain.label "Servidor:">
 <!ENTITY props.path.label "Ruta:">
-<!ENTITY props.secure.label "Enviada por:">
+<!ENTITY props.secure.label "Enviar para:">
 <!ENTITY props.expires.label "Vence:">
 <!ENTITY button.allow.label "Permitir">
 <!ENTITY button.allow.accesskey "P">
