@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label "Inicio">
+<!ENTITY startupPage.label "Cuando &brandShortName; cargue:">
+<!ENTITY startupPage.accesskey "">
+<!ENTITY startupHomePage.label "Mostrar mi página de inicio">
+<!ENTITY startupBlankPage.label "Mostrar una página en blanco">
+<!ENTITY startupLastSession.label "Mostrar mis ventanas y pestañas de la última sesión">
+<!ENTITY homepage.label "Página de inicio:">
+<!ENTITY homepage.accesskey "">
+<!ENTITY useCurrentPage.label "Usar página actual">
+<!ENTITY useCurrentPage.accesskey "">
+<!ENTITY useMultiple.label "Usar páginas actuales">
+<!ENTITY chooseBookmark.label "Usar un marcador…">
+<!ENTITY chooseBookmark.accesskey "">
+<!ENTITY restoreDefault.label "Restaurar predeterminados">
+<!ENTITY restoreDefault.accesskey "">
+<!ENTITY downloads.label "Descargas">
+<!ENTITY showWhenDownloading.label "Mostrar ventana de Descargas cuando baje un archivo">
+<!ENTITY showWhenDownloading.accesskey "">
+<!ENTITY closeWhenDone.label "Cerrarla cuando todas las descargas hayan terminado">
+<!ENTITY closeWhenDone.accesskey "">
+<!ENTITY saveTo.label "Guardar archivos en">
+<!ENTITY saveTo.accesskey "">
+<!ENTITY chooseFolderWin.label "Examinar…">
+<!ENTITY chooseFolderWin.accesskey "">
+<!ENTITY chooseFolderMac.label "Seleccionar…">
+<!ENTITY chooseFolderMac.accesskey "">
+<!ENTITY alwaysAsk.label "Siempre preguntar donde guardar los archivos">
+<!ENTITY alwaysAsk.accesskey "">

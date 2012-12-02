@@ -1,0 +1,6 @@
+google
+bing
+wikipedia-es
+mercadolibre-cl
+yahoo-cl
+drae

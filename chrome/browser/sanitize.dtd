@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title "Configuraciones para Limpieza de historial">
+<!ENTITY sanitizeDialog2.title "Limpiar historial reciente">
+<!ENTITY clearDataSettings2.label "Cuando cierre &brandShortName;, que borre automáticamente:">
+<!ENTITY clearTimeDuration.label "Rango de tiempo para limpiar: ">
+<!ENTITY clearTimeDuration.accesskey "">
+<!ENTITY clearTimeDuration.lastHour "Última hora">
+<!ENTITY clearTimeDuration.last2Hours "Últimas dos horas">
+<!ENTITY clearTimeDuration.last4Hours "Últimas cuatro horas">
+<!ENTITY clearTimeDuration.today "Hoy">
+<!ENTITY clearTimeDuration.everything "Todo">
+<!ENTITY clearTimeDuration.suffix "">
+<!ENTITY clearTimeDuration.dateColumn "Fecha de visita">
+<!ENTITY clearTimeDuration.nameColumn "Nombre">
+<!ENTITY detailsProgressiveDisclosure.label "Detalles">
+<!ENTITY detailsProgressiveDisclosure.accesskey "">
+<!ENTITY historySection.label "Historial">
+<!ENTITY dataSection.label "Datos">
+<!ENTITY itemHistoryAndDownloads.label "Historial de navegación y búsquedas">
+<!ENTITY itemHistoryAndDownloads.accesskey "">
+<!ENTITY itemBrowsingHistory.label "Historial de navegación">
+<!ENTITY itemBrowsingHistory.accesskey "">
+<!ENTITY itemFormSearchHistory.label "Historial de formularios y búsquedas">
+<!ENTITY itemFormSearchHistory.accesskey "">
+<!ENTITY itemPasswords.label "Contraseñas guardadas">
+<!ENTITY itemPasswords.accesskey "">
+<!ENTITY itemCookies.label "Copias">
+<!ENTITY itemCookies.accesskey "">
+<!ENTITY itemCache.label "Caché">
+<!ENTITY itemCache.accesskey "">
+<!ENTITY itemOfflineApps.label "Datos de sitios web sin conexión">
+<!ENTITY itemOfflineApps.accesskey "">
+<!ENTITY itemDownloadHistory.label "Historial de descargas">
+<!ENTITY itemDownloadHistory.accesskey "">
+<!ENTITY itemActiveLogins.label "Conexiones activas">
+<!ENTITY itemActiveLogins.accesskey "">
+<!ENTITY itemSitePreferences.label "Preferencias del sitio">
+<!ENTITY itemSitePreferences.accesskey "">
+<!ENTITY sanitizeEverythingUndoWarning "Esta acción no puede revertirse.">
+<!ENTITY dialog.width "32em">
+<!ENTITY column.width "">
