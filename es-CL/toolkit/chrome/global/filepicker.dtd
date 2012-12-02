@@ -5,7 +5,7 @@
 <!ENTITY lookInMenuList.label "Buscar en:">
 <!ENTITY lookInMenuList.accesskey "L">
 <!ENTITY textInput.label "Nombre de archivo:">
-<!ENTITY textInput.accesskey "n">
+<!ENTITY textInput.accesskey "N">
 <!ENTITY filterMenuList.label "Archivos de tipo:">
 <!ENTITY filterMenuList.accesskey "t">
 <!ENTITY name.label "Nombre">

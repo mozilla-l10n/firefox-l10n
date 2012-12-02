@@ -67,22 +67,22 @@
 <!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "Modificar Confianza en CA">
 <!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "Agregar">
+<!ENTITY certmgr.add.label "Añadir">
 <!ENTITY certmgr.add.accesskey "A">
 <!ENTITY certmgr.export.label "Exportar…">
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "Eliminar...">
-<!ENTITY certmgr.delete2.accesskey "D">
+<!ENTITY certmgr.delete2.accesskey "E">
 <!ENTITY certmgr.delete_builtin.label "Borrar o desconfiar…">
-<!ENTITY certmgr.delete_builtin.accesskey "D">
+<!ENTITY certmgr.delete_builtin.accesskey "B">
 <!ENTITY certmgr.backup2.label "Hacer un Respaldo…">
-<!ENTITY certmgr.backup2.accesskey "B">
+<!ENTITY certmgr.backup2.accesskey "H">
 <!ENTITY certmgr.backupall2.label "Respaldar Todo...">
-<!ENTITY certmgr.backupall2.accesskey "k">
+<!ENTITY certmgr.backupall2.accesskey "R">
 <!ENTITY certmgr.restore2.label "Importar…">
 <!ENTITY certmgr.restore2.accesskey "m">
 <!ENTITY certmgr.details.label "Campos del certificado">
-<!ENTITY certmgr.details.accesskey "F">
+<!ENTITY certmgr.details.accesskey "f">
 <!ENTITY certmgr.fields.label "Valor del Campo">
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "Jerarquía de Certificado">
@@ -101,4 +101,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert "Ver...">
 <!ENTITY exceptionMgr.certstatus.accesskey "V">
 <!ENTITY exceptionMgr.permanent.label "Almacenar permanentemente esta excepción">
-<!ENTITY exceptionMgr.permanent.accesskey "P">
+<!ENTITY exceptionMgr.permanent.accesskey "p">

@@ -9,9 +9,9 @@
 <!ENTITY props.secure.label "Enviar para:">
 <!ENTITY props.expires.label "Vence:">
 <!ENTITY button.allow.label "Permitir">
-<!ENTITY button.allow.accesskey "A">
+<!ENTITY button.allow.accesskey "P">
 <!ENTITY button.session.label "Permitir por esta sesión">
-<!ENTITY button.session.accesskey "S">
+<!ENTITY button.session.accesskey "s">
 <!ENTITY button.deny.label "Denegar">
 <!ENTITY button.deny.accesskey "D">
 <!ENTITY dialog.title "Confirmar la configuración de la cookie">

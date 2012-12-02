@@ -10,11 +10,11 @@
 <!ENTITY validation.crlautoupdateenabled.label "Actualización automática">
 <!ENTITY validation.crlautoupdatestatus.label "Estado de la actualización automática">
 <!ENTITY validation.deletecrl.label "Eliminar">
-<!ENTITY validation.deletecrl.accesskey "D">
-<!ENTITY validation.updatecrl.label "Actualizar">
-<!ENTITY validation.updatecrl.accesskey "U">
+<!ENTITY validation.deletecrl.accesskey "E">
+<!ENTITY validation.updatecrl.label "Actualización">
+<!ENTITY validation.updatecrl.accesskey "A">
 <!ENTITY validation.advanced.label "Opciones">
-<!ENTITY validation.advanced.accesskey "S">
+<!ENTITY validation.advanced.accesskey "O">
 <!ENTITY validation.crl.autoupdate.title "Preferencias de actualización automática de CRL">
 <!ENTITY validation.crl.autoupdate.enable.label "Habilitar la actualización automática para esta CRL">
 <!ENTITY validation.crl.autoupdate.time.label1 "Actualizar">

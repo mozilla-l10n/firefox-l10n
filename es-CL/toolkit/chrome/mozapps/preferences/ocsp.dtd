@@ -14,4 +14,4 @@
 <!ENTITY signingCA.label "Firmante de la respuesta:">
 <!ENTITY signingCA.accesskey "R">
 <!ENTITY requireOCSP.label "Cuando falle la conexión a un servidor OCSP, tratar el certificado como inválido">
-<!ENTITY requireOCSP.accesskey "W">
+<!ENTITY requireOCSP.accesskey "C">
