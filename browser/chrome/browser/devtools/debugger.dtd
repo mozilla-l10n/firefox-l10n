@@ -8,6 +8,7 @@
 <!ENTITY chromeDebuggerMenu.label "Отладчик браузера">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
+<!ENTITY debuggerUI.panesButton.tooltip "Переключить панели">
 <!ENTITY debuggerUI.optsButton.tooltip "Настройки отладчика">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
@@ -18,6 +19,22 @@
 <!ENTITY debuggerUI.showNonEnums "Показать скрытые свойства">
 <!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
+<!ENTITY debuggerUI.searchFile "Фильтр сценариев">
+<!ENTITY debuggerUI.searchFile.key "P">
+<!ENTITY debuggerUI.searchGlobal "Поиск во всех файлах">
+<!ENTITY debuggerUI.searchGlobal.key "F">
+<!ENTITY debuggerUI.searchToken "Найти">
+<!ENTITY debuggerUI.searchToken.key "F">
+<!ENTITY debuggerUI.searchLine "Перейти к строке…">
+<!ENTITY debuggerUI.searchLine.key "J">
+<!ENTITY debuggerUI.searchVariable "Фильтр переменных">
+<!ENTITY debuggerUI.searchVariable.key "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Эта точка останова прервёт выполнение, только если следующее выражение будет истиной">
 <!ENTITY debuggerUI.seMenuBreak "Добавить точку останова">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 <!ENTITY debuggerUI.seMenuCondBreak "Добавить условную точку останова">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.stepping.resume "VK_F6">
+<!ENTITY debuggerUI.stepping.stepOver "VK_F7">
+<!ENTITY debuggerUI.stepping.stepIn "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOut "VK_F8">
