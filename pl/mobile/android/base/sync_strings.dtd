@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header.label 'Wpisz ten kod na komputerze'>
-<!ENTITY sync.subtitle.connectlocation.label 'Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na komputerze.'>
+<!ENTITY sync.subtitle.header2.label 'Wpisz ten kod na innym urządzeniu'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na innym urządzeniu.'>
 <!ENTITY sync.subtitle.pair.label 'Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
