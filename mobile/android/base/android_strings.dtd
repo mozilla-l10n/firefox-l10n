@@ -72,7 +72,7 @@
 <!ENTITY pref_telemetry "Prestatiegegevens verzenden">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
-<!ENTITY pref_cookies "Cookies">
+<!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ingeschakeld">
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
