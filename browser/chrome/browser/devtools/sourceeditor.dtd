@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY gotoLineCmd.label "Ir a línea…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "J">
+<!ENTITY gotoLineCmd.key "I">
+<!ENTITY gotoLineCmd.accesskey "I">
