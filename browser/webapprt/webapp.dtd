@@ -3,10 +3,10 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "A">
 <!ENTITY quitApplicationCmdWin.label "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey "x">
-<!ENTITY quitApplicationCmd.label "Cerrar">
+<!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "Q">
 <!ENTITY quitApplicationCmdMac.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">

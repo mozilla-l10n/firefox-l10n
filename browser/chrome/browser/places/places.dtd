@@ -23,17 +23,17 @@
 <!ENTITY view.sortAscending.label "Ordenar A > Z">
 <!ENTITY view.sortAscending.accesskey "a">
 <!ENTITY view.sortDescending.label "Ordenar Z > A">
-<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY view.sortDescending.accesskey "">
 <!ENTITY importBookmarksFromHTML.label "Importar marcadores desde HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.accesskey "">
 <!ENTITY exportBookmarksToHTML.label "Exportar marcadores a HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY exportBookmarksToHTML.accesskey "">
 <!ENTITY importOtherBrowser.label "Importar datos de otro navegador…">
-<!ENTITY importOtherBrowser.accesskey "A">
+<!ENTITY importOtherBrowser.accesskey "">
 <!ENTITY cmd.backup.label "Hacer un Respaldo…">
 <!ENTITY cmd.backup.accesskey "H">
 <!ENTITY cmd.restore2.label "Restaurar">
-<!ENTITY cmd.restore2.accesskey "R">
+<!ENTITY cmd.restore2.accesskey "">
 <!ENTITY cmd.restoreFromFile.label "Elija archivo…">
 <!ENTITY cmd.restoreFromFile.accesskey "c">
 <!ENTITY cmd.bookmarkLink.label "Marcar esta página…">

@@ -8,9 +8,9 @@
 <!ENTITY columnLabel.name "Nombre">
 <!ENTITY columnLabel.keyword "Palabra clave">
 <!ENTITY up.label "Mover hacia arriba">
-<!ENTITY up.accesskey "M">
+<!ENTITY up.accesskey "U">
 <!ENTITY dn.label "Mover hacia abajo">
-<!ENTITY dn.accesskey "M">
+<!ENTITY dn.accesskey "D">
 <!ENTITY remove.label "Eliminar">
 <!ENTITY remove.accesskey "r">
 <!ENTITY edit.label "Editar palabra clave…">

@@ -52,6 +52,6 @@
 <!ENTITY reloadAndRun.accesskey "E">
 <!ENTITY reloadAndRun.key "r">
 <!ENTITY executeMenu.label "Ejecutar">
-<!ENTITY executeMenu.accesskey "j">
+<!ENTITY executeMenu.accesskey "X">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY webConsoleCmd.commandkey "k">
