@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Websites vertellen mij niet te volgen">
 <!ENTITY pref_telemetry "Prestatiegegevens verzenden">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
-<!ENTITY pref_cookies "Cookies inschakelen">
+
+<!ENTITY pref_cookies "Cookies">
+<!ENTITY pref_cookies_accept_all "Ingeschakeld">
+<!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
+<!ENTITY pref_cookies_disabled "Uitgeschakeld">
+
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
 <!ENTITY pref_char_encoding_off "Menu niet tonen">
