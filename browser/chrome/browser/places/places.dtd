@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY places.library.title "Biblioteca">
-<!ENTITY places.library.width "">
-<!ENTITY places.library.height "">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label "Organizar">
-<!ENTITY organize.accesskey "">
+<!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip "Organizar sus marcadores">
 <!ENTITY file.close.label "Cerrar">
-<!ENTITY file.close.accesskey "">
+<!ENTITY file.close.accesskey "C">
 <!ENTITY cmd.close.key "w">
 <!ENTITY views.label "Vistas">
-<!ENTITY views.accesskey "">
+<!ENTITY views.accesskey "V">
 <!ENTITY views.tooltip "Cambiar la vista">
 <!ENTITY view.columns.label "Mostrar columnas">
 <!ENTITY view.columns.accesskey "c">
@@ -51,21 +51,21 @@
 <!ENTITY cmd.open_all_in_tabs.label "Abrir todo en pestañas">
 <!ENTITY cmd.open_all_in_tabs.accesskey "o">
 <!ENTITY cmd.properties.label "Propiedades">
-<!ENTITY cmd.properties.accesskey "">
+<!ENTITY cmd.properties.accesskey "i">
 <!ENTITY cmd.sortby_name.label "Ordenar por nombre">
 <!ENTITY cmd.sortby_name.accesskey "O">
-<!ENTITY cmd.context_sortby_name.accesskey "">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
 <!ENTITY cmd.new_bookmark.label "Nuevo marcador…">
 <!ENTITY cmd.new_bookmark.accesskey "N">
 <!ENTITY cmd.new_folder.label "Nueva carpeta…">
 <!ENTITY cmd.new_folder.accesskey "N">
-<!ENTITY cmd.context_new_folder.accesskey "">
+<!ENTITY cmd.context_new_folder.accesskey "F">
 <!ENTITY cmd.new_separator.label "Nuevo separador">
 <!ENTITY cmd.new_separator.accesskey "s">
 <!ENTITY cmd.reloadLivebookmark.label "Recargar marcadores dinámicos">
-<!ENTITY cmd.reloadLivebookmark.accesskey "">
+<!ENTITY cmd.reloadLivebookmark.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey "">
+<!ENTITY cmd.moveBookmarks.accesskey "M">
 <!ENTITY col.name.label "Nombre">
 <!ENTITY col.tags.label "Etiquetas">
 <!ENTITY col.url.label "Dirección">
@@ -79,14 +79,14 @@
 <!ENTITY search.accesskey "s">
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Importar y respaldar">
-<!ENTITY maintenance.accesskey "">
+<!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Importar y respaldar sus marcadores">
 <!ENTITY backButton.tooltip "Ir atrás">
 <!ENTITY forwardButton.tooltip "Ir adelante">
 <!ENTITY detailsPane.more.label "Más">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "">
+<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Selecciona un elemento para ver y editar sus propiedades">
 <!ENTITY find.label "Buscar:">
 <!ENTITY find.accesskey "s">
@@ -101,4 +101,4 @@
 <!ENTITY byLastVisited.label "Por el último visitado">
 <!ENTITY byLastVisited.accesskey "l">
 <!ENTITY byDayAndSite.label "Por fecha y sitio">
-<!ENTITY byDayAndSite.accesskey "">
+<!ENTITY byDayAndSite.accesskey "t">

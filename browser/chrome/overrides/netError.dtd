@@ -7,7 +7,7 @@
 <!ENTITY loadError.label "Problema al cargar la página">
 <!ENTITY retry.label "Intente nuevamente">
 <!ENTITY connectionFailure.title "Imposible conectarse">
-<!ENTITY connectionFailure.longDesc "">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Servidor no encontrado">

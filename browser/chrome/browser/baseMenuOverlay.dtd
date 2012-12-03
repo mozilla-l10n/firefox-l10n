@@ -8,20 +8,20 @@
 <!ENTITY zoomWindow.label "Ampliar">
 <!ENTITY windowMenu.label "Ventana">
 <!ENTITY helpMenu.label "Ayuda">
-<!ENTITY helpMenu.accesskey "u">
+<!ENTITY helpMenu.accesskey "H">
 <!ENTITY helpMenuWin.label "Ayuda">
-<!ENTITY helpMenuWin.accesskey "u">
+<!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct.label "Acerca de &brandShortName;">
-<!ENTITY aboutProduct.accesskey "">
+<!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label "Ayuda de &brandShortName;">
-<!ENTITY productHelp.accesskey "y">
+<!ENTITY productHelp.accesskey "H">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Reiniciar con los complementos deshabilitados…">
-<!ENTITY helpSafeMode.accesskey "">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY helpTroubleshootingInfo.label "Información para resolver problemas">
-<!ENTITY helpTroubleshootingInfo.accesskey "p">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpFeedbackPage.label "Enviar comentarios…">
-<!ENTITY helpFeedbackPage.accesskey "o">
+<!ENTITY helpFeedbackPage.accesskey "S">
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY servicesMenuMac.label "Servicios">

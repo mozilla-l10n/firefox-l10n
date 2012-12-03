@@ -11,7 +11,7 @@
 <!ENTITY networkPanel.requestBody "Cuerpo solicitado">
 <!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
 <!ENTITY networkPanel.responseHeaders "Encabezados de respuesta">
-<!ENTITY networkPanel.responseCookie "Cookie recivida">
+<!ENTITY networkPanel.responseCookie "Cookie recibida">
 <!ENTITY networkPanel.responseBody "Cuerpo de respuesta">
 <!ENTITY networkPanel.responseBodyCached "Datos en caché">
 <!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
@@ -19,19 +19,19 @@
 <!ENTITY networkPanel.responseImage "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
 <!ENTITY saveBodies.label "Registrar cuerpos de petición y respuesta">
-<!ENTITY saveBodies.accesskey "">
+<!ENTITY saveBodies.accesskey "L">
 <!ENTITY openURL.label "Abrir enlace en una nueva pestaña">
-<!ENTITY openURL.accesskey "">
+<!ENTITY openURL.accesskey "T">
 <!ENTITY btnPageNet.label "Red">
 <!ENTITY btnPageNet.tooltip "Registrar accesos de red">
-<!ENTITY btnPageCSS.label "">
+<!ENTITY btnPageCSS.label "CSS">
 <!ENTITY btnPageCSS.tooltip "Registrar análisis de errores CSS">
-<!ENTITY btnPageJS.label "">
+<!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Registrar excepciones JavaScript">
 <!ENTITY btnPageLogging.label "Registrando">
 <!ENTITY btnPageLogging.tooltip "Registrar mensajes enviados al objeto window.console">
 <!ENTITY btnConsoleErrors "Errores">
-<!ENTITY btnConsoleInfo "">
+<!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Advertencias">
 <!ENTITY btnConsoleLog "Registro">
 <!ENTITY btnPosition.label "Posición">
@@ -44,11 +44,11 @@
 <!ENTITY btnClear.tooltip "Limpiar la salida de la consola web">
 <!ENTITY btnClose.tooltip "Cerrar la consola web">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY copyURLCmd.label "Copiar ubicación del enlace">
-<!ENTITY copyURLCmd.accesskey "">
+<!ENTITY copyURLCmd.accesskey "a">
