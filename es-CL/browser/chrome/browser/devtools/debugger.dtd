@@ -23,7 +23,7 @@
 <!ENTITY debuggerUI.searchFile.key "P">
 <!ENTITY debuggerUI.searchGlobal "">
 <!ENTITY debuggerUI.searchGlobal.key "F">
-<!ENTITY debuggerUI.searchToken "Encontrar">
+<!ENTITY debuggerUI.searchToken "Buscar">
 <!ENTITY debuggerUI.searchToken.key "F">
 <!ENTITY debuggerUI.searchLine "Ir a línea…">
 <!ENTITY debuggerUI.searchLine.key "J">

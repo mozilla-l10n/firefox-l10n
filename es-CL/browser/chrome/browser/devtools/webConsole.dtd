@@ -11,7 +11,7 @@
 <!ENTITY networkPanel.requestBody "Cuerpo solicitado">
 <!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
 <!ENTITY networkPanel.responseHeaders "Encabezados de respuesta">
-<!ENTITY networkPanel.responseCookie "Cookie recivida">
+<!ENTITY networkPanel.responseCookie "Cookie recibida">
 <!ENTITY networkPanel.responseBody "Cuerpo de respuesta">
 <!ENTITY networkPanel.responseBodyCached "Datos en caché">
 <!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
