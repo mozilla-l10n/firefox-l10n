@@ -7,9 +7,6 @@
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; не будет запоминать историю для этой сессии.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "В данный момент &brandShortName; не находится в режиме приватного просмотра.">
 <!ENTITY privatebrowsingpage.description "Во время сессии приватного просмотра &brandShortName; не будет вести журнал посещений, журнал поиска, журнал загрузок и журнал веб-форм. Также не будут сохраняться куки и временные файлы интернета. Однако, любые загруженные вами файлы и созданные вами закладки будут сохранены.">
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore "Возможно, вы захотите начать с ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner "очистки своей недавней истории">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Начать приватный просмотр">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "о">
 <!ENTITY privatebrowsingpage.howToStop2 "Чтобы закончить приватный просмотр, выберите &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, или закройте &brandShortName;.">
