@@ -16,7 +16,7 @@
 <!ENTITY clearTimeDuration.dateColumn "Fecha de visita">
 <!ENTITY clearTimeDuration.nameColumn "Nombre">
 <!ENTITY detailsProgressiveDisclosure.label "Detalles">
-<!ENTITY detailsProgressiveDisclosure.accesskey "">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Historial">
 <!ENTITY dataSection.label "Datos">
 <!ENTITY itemHistoryAndDownloads.label "Historial de navegación y búsquedas">
@@ -27,8 +27,8 @@
 <!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemPasswords.label "Contraseñas guardadas">
 <!ENTITY itemPasswords.accesskey "C">
-<!ENTITY itemCookies.label "">
-<!ENTITY itemCookies.accesskey "">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Caché">
 <!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "Datos de sitios web sin conexión">
@@ -41,4 +41,4 @@
 <!ENTITY itemSitePreferences.accesskey "s">
 <!ENTITY sanitizeEverythingUndoWarning "Esta acción no puede revertirse.">
 <!ENTITY dialog.width "32em">
-<!ENTITY column.width "">
+<!ENTITY column.width "14em">

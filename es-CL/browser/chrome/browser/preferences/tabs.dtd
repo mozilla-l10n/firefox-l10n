@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newWindowsAsTabs.label "En vez de abrir nuevas ventanas, hacerlo en pestañas">
-<!ENTITY newWindowsAsTabs.accesskey "">
+<!ENTITY newWindowsAsTabs.accesskey "t">
 <!ENTITY warnCloseMultipleTabs.label "Advertirme cuando se cierren múltiples pestañas">
-<!ENTITY warnCloseMultipleTabs.accesskey "">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
 <!ENTITY warnOpenManyTabs.label "Advertirme cuando la apertura de múltiples pestañas pueda poner lento &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "">
+<!ENTITY warnOpenManyTabs.accesskey "o">
 <!ENTITY showTabBar.label "Siempre mostrar la barra de pestañas">
-<!ENTITY showTabBar.accesskey "">
+<!ENTITY showTabBar.accesskey "b">
 <!ENTITY restoreTabsOnDemand.label "No cargar pestañas hasta que sean seleccionen">
-<!ENTITY restoreTabsOnDemand.accesskey "">
+<!ENTITY restoreTabsOnDemand.accesskey "l">
 <!ENTITY switchToNewTabs.label "Cuando abra un enlace en una nueva pestaña, cambiar a ella inmediatamente">
-<!ENTITY switchToNewTabs.accesskey "">
+<!ENTITY switchToNewTabs.accesskey "s">
 <!ENTITY showTabsInTaskbar.label "Mostrar vista previa de pestañas en la barra de tareas de Windows">
 <!ENTITY showTabsInTaskbar.accesskey "v">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Seleccione carpeta">
-<!ENTITY window.style "">
+<!ENTITY window.style "width: 36em; height: 18em;">
 <!ENTITY moveTo.label "Mover a:">
 <!ENTITY newFolderButton.label "Nueva carpeta">
-<!ENTITY newFolderButton.accesskey "">
+<!ENTITY newFolderButton.accesskey "N">
