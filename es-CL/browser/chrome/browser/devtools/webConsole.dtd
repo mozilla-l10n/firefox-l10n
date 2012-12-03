@@ -49,5 +49,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY copyURLCmd.label "Copiar ubicación de enlace">
+<!ENTITY copyURLCmd.label "Copiar ubicación del enlace">
 <!ENTITY copyURLCmd.accesskey "a">

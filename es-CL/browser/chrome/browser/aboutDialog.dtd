@@ -7,14 +7,14 @@
 <!ENTITY warningDesc.telemetryDesc "Envía automáticamente información sobre rendimiento, hardware, uso y personalizaciones a &vendorShortName; para ayudar a mejorar &brandShortName;.">
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
-<!ENTITY community.exp.middle " is a ">
+<!ENTITY community.exp.middle " es una ">
 <!ENTITY community.exp.creditsLink "comunidad mundial">
-<!ENTITY community.exp.end " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.end " que trabaja unida para mantener la web abierta, pública y accesible para todos, sin ninguna restricción.">
 <!ENTITY community.start2 "&brandShortName; es diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad mundial">
-<!ENTITY community.end3 " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.end3 " que trabaja en conjunto para mantener la web abierta, pública y accesible para todos, sin ninguna restricción.">
 <!ENTITY contribute.start "¿Suena interesante? ">
 <!ENTITY contribute.getInvolvedLink "¡Participe!">
 <!ENTITY contribute.end "">
