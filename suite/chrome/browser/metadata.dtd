@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Largura:">
 <!ENTITY image-height.label    "Altura:">
 <!ENTITY image-filesize.label  "Tamanho do ficheiro:">
+<!ENTITY image-filesize.value  "Desconhecido">
 <!ENTITY insdel-sec.label      "Propriedades de inserir/eliminar">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Data:">
