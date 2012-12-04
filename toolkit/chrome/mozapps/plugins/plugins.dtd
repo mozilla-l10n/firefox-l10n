@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "স্খলন সংবাদ পঠোৱা অসামৰ্থবান কৰা হৈছে।">
 <!ENTITY report.failed                                       "উপস্থাপন ব্যৰ্থ।">
 <!ENTITY report.unavailable                                  "কোনো সংবাদ উপলব্ধ নাই।">
+
+<!ENTITY plugin.file                                         "ফাইল">
+<!ENTITY plugin.mimeTypes                                    "MIME ধৰণসমূহ">
