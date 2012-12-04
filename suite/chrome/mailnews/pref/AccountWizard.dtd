@@ -60,7 +60,7 @@
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Saisissez le nom d'utilisateur pour le serveur de réception donné par votre fournisseur (par exemple, « jsmith »).">
+<!ENTITY incomingUsername.description "Saisissez le nom d'utilisateur pour le serveur de réception donné par votre fournisseur (par exemple, « jcesar »).">
 <!ENTITY incomingUsername.label "Nom d'utilisateur du serveur de réception :">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
