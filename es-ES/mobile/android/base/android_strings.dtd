@@ -42,9 +42,8 @@
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Seguridad del sitio">
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY new_tab "Pestaña nueva">
 <!ENTITY one_tab "1 pestaña">
-<!ENTITY num_tabs "&#037;d pestañas">
+<!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
@@ -106,7 +105,10 @@
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
+<!ENTITY new_tab "Pestaña nueva">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY synced_tabs "Pestañas sincronizadas">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
@@ -171,7 +173,7 @@
 <!ENTITY bookmarkhistory_import_history "Importar historial
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
-<!ENTITY suggestions_prompt "¿Le gustaría activar las sugerencias de búsqueda en &#037;s?">
+<!ENTITY suggestions_prompt2 "¿Le gustaría activar las sugerencias de búsqueda de &formatS;?">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
 <!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
