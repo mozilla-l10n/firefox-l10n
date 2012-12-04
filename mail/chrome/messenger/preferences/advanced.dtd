@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "I">
 <!ENTITY searchIntegration.label       "A(z) &searchIntegration.engineName; kereshet az üzenetek között">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Ellenőrzés">
-<!ENTITY checkNow.accesskey            "E">
+<!ENTITY checkDefaultsNow.label        "Ellenőrzés most…">
+<!ENTITY checkDefaultsNow.accesskey    "E">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
 <!ENTITY configEdit.label              "Konfigurációszerkesztő…">
 <!ENTITY configEdit.accesskey          "B">

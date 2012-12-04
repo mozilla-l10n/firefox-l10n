@@ -30,8 +30,7 @@
 <!ENTITY testpilot.notification.close.tooltip           "Bezárás">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                         "Felhasználói felmérés bekapcsolása
-">
+<!ENTITY testpilot.enable.label                         "Felhasználói felmérés bekapcsolása">
 <!ENTITY testpilot.feedbackbutton.label                 "Visszajelzés">
 <!ENTITY testpilot.happy.label                          "Elégedett vagyok a Firefoxszal, mert…">
 <!ENTITY testpilot.sad.label                            "Nem vagyok elégedett a Firefoxszal, mert…">

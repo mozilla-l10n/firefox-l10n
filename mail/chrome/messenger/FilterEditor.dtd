@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Rendkívül sürgős">
 
 <!ENTITY contextDesc.label "Szűrő alkalmazása:">
-<!ENTITY contextDesc.accesskey "S">
-<!ENTITY contextIncoming.label "Levelek ellenőrzésekor">
+<!ENTITY contextIncomingMail.label "Új levelek letöltése:">
+<!ENTITY contextIncomingMail.accesskey "t">
 <!ENTITY contextManual.label "Kézzel futtatva">
-<!ENTITY contextBoth.label "Levelek ellenőrzésekor vagy kézzel futtatva">
-<!ENTITY contextPostPlugin.label "Levelek ellenőrzésekor (osztályozás után)">
-<!ENTITY contextPostPluginBoth.label "Levelek ellenőrzésekor (osztályozás után) vagy kézzel futtatva">
+<!ENTITY contextManual.accesskey "k">
+<!ENTITY contextBeforeCls.label "Szűrés a levélszemét keresése előtt">
+<!ENTITY contextAfterCls.label "Szűrés a levélszemét keresése után">
+
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
 

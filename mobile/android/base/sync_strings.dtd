@@ -51,12 +51,20 @@
 <!ENTITY sync.subtitle.manage.label1 'A &syncBrand.fullName.label;-fiókja már be van állítva. A Beállítások alatt kezelheti a fiókját, vagy elindíthatja a &brandShortName;-ot.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Próbálja meg újra.'>
+<!ENTITY sync.pair.tryagain.label 'Próbálja újra.'>
 <!ENTITY sync.pair.connectlocation.label 'Új eszközének aktiválásához válassza az eszközön a „Szinkronizálás beállítása”, majd a „Van már fiókom” lehetőséget.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Beállítások'>
 <!ENTITY sync.summary.pair.label 'Másik eszköz csatolása a &syncBrand.shortName.label;-fiókjához'>
+
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Szinkronizálandó elemek'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Szinkronizálandó…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Könyvjelzők'>
+<!ENTITY sync.configure.engines.title.passwords 'Jelszavak'>
+<!ENTITY sync.configure.engines.title.history 'Előzmények'>
+<!ENTITY sync.configure.engines.title.tabs 'Lapok'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Mégse'>
@@ -78,12 +86,13 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>
+<!ENTITY sync.notification.configure.saved 'A beállítások mentve.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Helytelen fióknév vagy jelszó.'>
 <!ENTITY sync.invalidserver.label 'Írjon be egy érvényes kiszolgáló URL-t'>
 <!ENTITY sync.verifying.label 'Ellenőrzés…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'A helyreállítási kulcs helytelen. Próbálja meg újra.'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'A helyreállítási kulcs helytelen. Próbálja újra.'>
 
 <!-- Send tab to device. -->
 <!ENTITY sync.title.send.tab.label 'Lap küldése eszközökre'>

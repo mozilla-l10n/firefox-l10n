@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integrálódás a rendszerbe">
+<!ENTITY acceptIntegration.label  "Legyen ez az alapértelmezett">
+<!ENTITY cancelIntegration.label  "Integráció kihagyása">
 <!ENTITY defaultClient.intro  "A &brandShortName; beállítása alapértelmezett kliensként:">
 
 <!ENTITY email.label "Levelezés">
 <!ENTITY newsgroups.label "Hírcsoportok">
 <!ENTITY feeds.label "Hírforrások">
+
+<!ENTITY unsetDefault.tooltip "Nem lehet a &brandShortName;ból törölni a &brandShortName; beállítását alapértelmezett kliensként. Másik alkalmazás alapértelmezetté tételéhez használja annak „Beállítás alapértelmezettként” ablakát.">
 
 <!ENTITY checkOnStartup.label "Ellenőrzés elvégzése a &brandShortName; minden indításakor">
 <!ENTITY checkOnStartup.accesskey "E">
