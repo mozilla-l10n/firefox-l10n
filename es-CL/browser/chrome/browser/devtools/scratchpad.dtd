@@ -54,4 +54,3 @@
 <!ENTITY executeMenu.label "Ejecutar">
 <!ENTITY executeMenu.accesskey "X">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.commandkey "k">
