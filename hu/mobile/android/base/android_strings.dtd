@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Lap bezárása">
 <!ENTITY new_tab "Új lap">
 <!ENTITY one_tab "1 lap">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d lap">
 <!ENTITY new_tab_opened "Új lap nyílt meg">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Ne kövessenek a webhelyek">
 <!ENTITY pref_telemetry "Teljesítményadatok küldése">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
-<!ENTITY pref_cookies "Sütik engedélyezve">
+
+<!ENTITY pref_cookies_menu "Sütik">
+<!ENTITY pref_cookies_accept_all "Engedélyezve">
+<!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
+<!ENTITY pref_cookies_disabled "Tiltva">
+
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
+<!ENTITY pref_reflow_on_zoom2 "Csippentsen a szöveg újratördeléséhez">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings "Webhely beállításai">
 
+<!ENTITY pref_update_autodownload "Automatikus frissítések">
+<!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
+<!ENTITY pref_update_autodownload_disabled "Tiltva">
+<!ENTITY pref_update_autodownload_enabled "Engedélyezve">
+
 <!ENTITY quit "Kilépés">
 
 <!ENTITY addons "Kiegészítők">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Keresés az oldalon">
 <!ENTITY desktop_mode "Asztali változat kérése">
 <!ENTITY tools "Eszközök">
+<!ENTITY new_pb_tab "Új privát böngészőablak">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "A legutóbbi lapok megjelenítése">
 <!ENTITY abouthome_last_tabs_open "A legutóbbi lapok megnyitása">
 <!ENTITY abouthome_top_sites_title "Népszerű oldalak">
-<!ENTITY abouthome_top_sites_browse "A népszerű oldalainak böngészése">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,12 +252,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_start_select2 "Koppintson a letöltéshez">
- 
+
 <!ENTITY updater_downloading_title2 "A &brandShortName; letöltése">
 <!ENTITY updater_downloading_title_failed2 "Letöltés sikertelen
 ">
 <!ENTITY updater_downloading_select2 "Koppintson a frissítés alkalmazásához a letöltés után">
 <!ENTITY updater_downloading_retry2 "Koppintson az újraindításhoz">
- 
+
 <!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_apply_select2 "Koppintson a frissítéshez">

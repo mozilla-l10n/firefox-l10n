@@ -9,7 +9,7 @@
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
 <!ENTITY  crash_reporter_title "&brandShortName; összeomlás-bejelentő">
-<!ENTITY  crash_message "A &brandShortName; összeomlott. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_message "A &brandShortName; összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
 <!ENTITY  crash_help_message "Segítsen kijavítani a hibát!">
 <!ENTITY  crash_send_report_message "Küldjön hibabejelentést a Mozillának">
 <!ENTITY  crash_include_url "Az oldal címének mellékelése">
