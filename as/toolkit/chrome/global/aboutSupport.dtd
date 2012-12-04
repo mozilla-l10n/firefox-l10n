@@ -46,6 +46,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
+<!ENTITY aboutSupport.userJSDescription "আপোনাৰ আলেখ্য ফোল্ডাৰত এটা <a id='prefs-user-js-link'>user.js file</a> আছে, যি &brandShortName; দ্বাৰা সৃষ্টি নকৰা পছন্দসমূহ অন্তৰ্ভুক্ত কৰে।">
+
 <!ENTITY aboutSupport.graphicsTitle "গ্ৰাফিকসমূহ">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
