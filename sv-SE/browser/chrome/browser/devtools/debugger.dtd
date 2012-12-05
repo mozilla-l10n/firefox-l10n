@@ -53,10 +53,10 @@
 <!ENTITY debuggerUI.showPanesOnInit     "Visa paneler vid start">
 <!ENTITY debuggerUI.showPanesOnInit.key "V">
 
-<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
-  -  checkbox that toggles visibility of a designated variables searchbox. -->
-<!ENTITY debuggerUI.showVarsSearch      "Visa sökruta för variabler">
-<!ENTITY debuggerUI.showVarsSearch.key  "ö">
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
+  -  checkbox that toggles visibility of a designated variables filter box. -->
+<!ENTITY debuggerUI.showVarsFilter      "Visa filterruta för variabler">
+<!ENTITY debuggerUI.showVarsFilter.key  "ö">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
