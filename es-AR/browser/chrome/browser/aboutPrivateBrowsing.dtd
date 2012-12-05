@@ -10,12 +10,6 @@
 
 <!ENTITY privatebrowsingpage.description               "En una sesión de navegación privada, &brandShortName; no guardará el historial de navegación, búsqueda, descargas, formularios, cookies o archivos temporales de internet.  Sin embargo, los archivos que descargue o los marcadores que cree serán preservados.">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Puede querer comenzar también ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "borrando el historial reciente">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
-
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Iniciar navegación privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
