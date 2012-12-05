@@ -10,11 +10,6 @@
 
 <!ENTITY privatebrowsingpage.description               "Under privat surfning kommer &brandShortName; inte att spara information om besökta sidor, sökhistorik, filhämtningslistan, webbformulärdata, kakor eller tillfälliga internetfiler.  Filer du hämtar eller bokmärken du skapar kommer dock att sparas.">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Du kanske vill börja med att ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "rensa ut tidigare historik">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Starta privat surfning">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "t">
