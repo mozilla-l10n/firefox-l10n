@@ -137,7 +137,10 @@ size. -->
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
+<!ENTITY new_tab "Nueva pestaña">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY synced_tabs "Pestañas sincronizadas">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -243,7 +246,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
+<!ENTITY suggestions_prompt2 "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicación">
 
