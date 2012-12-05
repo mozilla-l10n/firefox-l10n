@@ -108,6 +108,21 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Lägg till villkorad brytpunkt">
 <!ENTITY debuggerUI.seMenuCondBreak.key "ä">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
+  -  appears in the source editor context menu for adding an expression. -->
+<!ENTITY debuggerUI.seMenuAddWatch      "Markering som bevakningsuttryck">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "b">
+
+<!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
+  -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch            "Lägg till bevakningsuttryck">
+<!ENTITY debuggerUI.addWatch.key        "b">
+
+<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+  -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch      "Ta bort alla bevakningsuttryck">
+<!ENTITY debuggerUI.removeAllWatch.key  "b">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
