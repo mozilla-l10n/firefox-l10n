@@ -133,7 +133,7 @@ size. -->
 <!ENTITY share_image_failed "Kan inte dela bilden">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY find_in_page "Sök på sidan">
-<!ENTITY desktop_mode "Begär datoranpassad webbplats">
+<!ENTITY desktop_mode "Begär datorwebbplats">
 <!ENTITY tools "Verktyg">
 <!ENTITY new_tab "Ny flik">
 <!ENTITY new_private_tab "Ny privat flik">
