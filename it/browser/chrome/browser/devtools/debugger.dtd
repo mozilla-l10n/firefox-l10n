@@ -14,10 +14,10 @@
 <!ENTITY debuggerUI.pauseExceptions.key "M">
 <!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all'avvio">
 <!ENTITY debuggerUI.showPanesOnInit.key "V">
-<!ENTITY debuggerUI.showVarsSearch "Visualizza campo di ricerca variabili">
-<!ENTITY debuggerUI.showVarsSearch.key "u">
-<!ENTITY debuggerUI.showNonEnums "Visualizza proprietà nascoste">
-<!ENTITY debuggerUI.showNonEnums.key "s">
+<!ENTITY debuggerUI.showVarsFilter "Visualizza sezione filtro variabili">
+<!ENTITY debuggerUI.showVarsFilter.key "z">
+<!ENTITY debuggerUI.showOnlyEnum "Visualizza solo proprietà enumerabili">
+<!ENTITY debuggerUI.showOnlyEnum.key "o">
 <!ENTITY debuggerUI.searchPanelTitle "Operatori">
 <!ENTITY debuggerUI.searchFile "Filtra script">
 <!ENTITY debuggerUI.searchFile.key "s">
@@ -34,6 +34,12 @@
 <!ENTITY debuggerUI.seMenuBreak.key "u">
 <!ENTITY debuggerUI.seMenuCondBreak "Aggiungi punto di interruzione condizionale">
 <!ENTITY debuggerUI.seMenuCondBreak.key "u">
+<!ENTITY debuggerUI.seMenuAddWatch "Espressione di controllo da aggiungere">
+<!ENTITY debuggerUI.seMenuAddWatch.key "a">
+<!ENTITY debuggerUI.addWatch "Aggiungi espressione di controllo">
+<!ENTITY debuggerUI.addWatch.key "c">
+<!ENTITY debuggerUI.removeAllWatch "Elimina tutte le espressioni di controllo">
+<!ENTITY debuggerUI.removeAllWatch.key "E">
 <!ENTITY debuggerUI.stepping.resume "VK_F6">
 <!ENTITY debuggerUI.stepping.stepOver "VK_F7">
 <!ENTITY debuggerUI.stepping.stepIn "VK_F8">
