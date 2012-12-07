@@ -34,7 +34,7 @@
 <!ENTITY debuggerUI.seMenuBreak.key "u">
 <!ENTITY debuggerUI.seMenuCondBreak "Aggiungi punto di interruzione condizionale">
 <!ENTITY debuggerUI.seMenuCondBreak.key "u">
-<!ENTITY debuggerUI.seMenuAddWatch "Espressione di controllo da aggiungere">
+<!ENTITY debuggerUI.seMenuAddWatch "Crea espressione di controllo da selezione">
 <!ENTITY debuggerUI.seMenuAddWatch.key "a">
 <!ENTITY debuggerUI.addWatch "Aggiungi espressione di controllo">
 <!ENTITY debuggerUI.addWatch.key "c">
