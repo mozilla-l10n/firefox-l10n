@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "g">
 <!ENTITY dsnMenu.label "Prašyti laiško pristatymo pažymos">
 <!ENTITY dsnMenu.accesskey "i">
-<!ENTITY outputFormatMenu.label "Siunčiamo teksto tipas">
-<!ENTITY outputFormatMenu.accesskey "u">
+<!ENTITY deliveryFormatMenu.label "Siunčiamo laiško tipas">
+<!ENTITY deliveryFormatMenu.accesskey "u">
 <!ENTITY autoFormatCmd.label "Parenka programa">
 <!ENTITY autoFormatCmd.accesskey "P">
 <!ENTITY plainTextFormatCmd.label "Grynasis tekstas">
