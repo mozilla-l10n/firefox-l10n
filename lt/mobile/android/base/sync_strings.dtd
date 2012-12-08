@@ -59,6 +59,14 @@
 <!ENTITY sync.settings.options.label 'Parinktys'>
 <!ENTITY sync.summary.pair.label 'Su „&syncBrand.shortName.label;“ paskyra susieti kitą įrenginį'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Ką sinchronizuoti'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sinchronizuoti Jūsų…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Adresyną'>
+<!ENTITY sync.configure.engines.title.passwords 'Slaptažodžius'>
+<!ENTITY sync.configure.engines.title.history 'Žurnalą'>
+<!ENTITY sync.configure.engines.title.tabs 'Korteles'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Atsisakyti'>
 <!ENTITY sync.button.connect.label 'Jungtis'>
@@ -79,6 +87,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Galima naudotis tik viena &syncBrand.fullName.label;“ paskyra.'>
+<!ENTITY sync.notification.configure.saved 'Jūsų parinktys įrašytos.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Netinkamas paskyros vardas arba slaptažodis.'>
