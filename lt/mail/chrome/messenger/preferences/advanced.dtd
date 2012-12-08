@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "u">
 <!ENTITY searchIntegration.label       "Leisti „&searchIntegration.engineName;“ ieškoti laiškų">
 <!ENTITY searchIntegration.accesskey   "L">
-<!ENTITY checkNow.label                "Tikrinti dabar">
-<!ENTITY checkNow.accesskey            "d">
+<!ENTITY checkDefaultsNow.label        "Tikrinti dabar…">
+<!ENTITY checkDefaultsNow.accesskey    "d">
 <!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
 <!ENTITY configEdit.label              "Visų parametrų sąrašas…">
 <!ENTITY configEdit.accesskey          "V">
