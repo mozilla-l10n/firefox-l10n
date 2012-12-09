@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label "Użyj protokołu HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "r">
-<!ENTITY prefEnableKeepAlive.label "Włącz aktywne połączenia">
-<!ENTITY prefEnableKeepAlive.accesskey "W">
-<!ENTITY prefEnableKeepAliveProxy.accesskey "a">
 <!ENTITY prefEnablePipelining.label "Użyj przetwarzania potokowego">
 <!ENTITY prefEnablePipelining.accesskey "P">
 <!ENTITY prefEnablePipeliningProxy.accesskey "I">
