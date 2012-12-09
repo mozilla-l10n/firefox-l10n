@@ -13,13 +13,13 @@
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
-<!ENTITY contextDesc.label "Applica il filtro:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "durante il controllo della posta">
-<!ENTITY contextManual.label "manualmente">
-<!ENTITY contextBoth.label "durante il controllo della posta o manualmente">
-<!ENTITY contextPostPlugin.label "durante il controllo della posta (dopo la classificazione)">
-<!ENTITY contextPostPluginBoth.label "durante il controllo della posta (dopo la classificazione) o manualmente">
+<!ENTITY contextDesc.label "Quando applicare il filtro:">
+<!ENTITY contextIncomingMail.label "Scarico la nuova posta:">
+<!ENTITY contextIncomingMail.accesskey "S">
+<!ENTITY contextManual.label "Manualmente">
+<!ENTITY contextManual.accesskey "M">
+<!ENTITY contextBeforeCls.label "Prima del controllo indesiderata">
+<!ENTITY contextAfterCls.label "Dopo il controllo indesiderata">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 <!ENTITY moveMessage.label "Sposta il messaggio in">
