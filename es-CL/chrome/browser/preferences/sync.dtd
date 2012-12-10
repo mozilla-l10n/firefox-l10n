@@ -4,7 +4,7 @@
 
 <!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; permite acceder al historial, marcadores, contraseñas y pestañas abiertas entre todos sus dispositivos.">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; permite acceder al historial, marcadores, contraseñas y pestañas abiertas en todos sus dispositivos.">
 <!ENTITY updatePass.label "Actualizar">
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY manageAccount.label "Administrar cuenta">

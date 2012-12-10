@@ -22,7 +22,7 @@
 <!ENTITY systemDefaults.label "Parámetros por defecto del sistema">
 <!ENTITY alwaysCheckDefault.label "Siempre revisar al inicio si &brandShortName; es el navegador predeterminado">
 <!ENTITY alwaysCheckDefault.accesskey "S">
-<!ENTITY setDefault.label "Hacer &brandShortName; el navegador predeterminado">
+<!ENTITY setDefault.label "Hacer de &brandShortName; el navegador predeterminado">
 <!ENTITY setDefault.accesskey "d">
 <!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY submitCrashes.label "Enviar informes de errores">
@@ -60,7 +60,7 @@
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey "U">
 <!ENTITY updateOthers.label "Actualizar automáticamente:">
-<!ENTITY enableSearchUpdate.label "Motores de Búsqueda">
+<!ENTITY enableSearchUpdate.label "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY offlineNotify.label "Avisarme cuando un sitio web pide almacenar datos para uso sin conexión">
 <!ENTITY offlineNotify.accesskey "t">
