@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "&brandShortName; kan u waarschuwingen geven over de beveiligingsstatus van de webpagina die u bekijkt. Stel &brandShortName; in om een waarschuwing te tonen en om toestemming te vragen tijdens:">
 <!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling ondersteunt">
 <!ENTITY warn.enteringsecure.accesskey      "l">
-<!ENTITY warn.enteringweak                  "Het laden van een pagina die een lage graad van versleuteling gebruikt">
-<!ENTITY warn.enteringweak.accesskey        "d">
 <!ENTITY warn.insecurepost                  "Het verzenden van formuliergegevens van een versleutelde naar een niet-versleutelde pagina">
 <!ENTITY warn.insecurepost.accesskey        "z">
 <!ENTITY warn.leavingsecure                 "Het verlaten van een pagina die versleuteling ondersteunt">
