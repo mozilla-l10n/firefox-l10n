@@ -76,7 +76,7 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Paginabron">
-<!ENTITY pageSourceCmd.accesskey "r">
+<!ENTITY pageSourceCmd.accesskey "P">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Pagina-info">
 <!ENTITY pageInfoCmd.accesskey "i">
@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 <!ENTITY styleeditor.label            "Stijleditor">
-<!ENTITY styleeditor.accesskey        "i">
+<!ENTITY styleeditor.accesskey        "S">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
