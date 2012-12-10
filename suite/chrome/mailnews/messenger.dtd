@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Beantwoorden">
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyListCmd.label "Lijst beantwoorden">
+<!ENTITY replyListCmd.accesskey "i">
+<!ENTITY replyNewsgroupCmd.label "Nieuwsgroep beantwoorden">
+<!ENTITY replyNewsgroupCmd.accesskey	"r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "a">
-<!ENTITY replyNewsgroupCmd.label "Nieuwsgroep beantwoorden">
-<!ENTITY replyNewsgroupCmd.accesskey "r">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
 <!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplyList.label "Lijst beantwoorden">
+<!ENTITY contextReplyList.accesskey "j">
 <!ENTITY contextReplyNewsgroup.label "Nieuwsgroep beantwoorden">
 <!ENTITY contextReplyNewsgroup.accesskey "r">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
