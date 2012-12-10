@@ -5,9 +5,9 @@
 <!ENTITY updateWizard.title "Actualización de Software">
 <!ENTITY checking.title "Buscando Actualizaciones">
 <!ENTITY updateCheck.label "Buscando nuevas versiones de &brandShortName;…">
-<!ENTITY pluginupdatesfound.title "Se encontraron actualizaciones para sus plugins">
-<!ENTITY pluginupdatesfound.label "Se encontraron versiones más nuevas de uno o más de sus plugins.">
-<!ENTITY pluginupdateslink.label "Vea cómo actualizar sus plugins.">
+<!ENTITY pluginupdatesfound.title "Se encontraron actualizaciones para sus complementos">
+<!ENTITY pluginupdatesfound.label "Se encontraron versiones más nuevas de uno o más de sus complementos.">
+<!ENTITY pluginupdateslink.label "Vea cómo actualizar sus complementos.">
 <!ENTITY noupdatesfound.title "No se encontraron actualizaciones">
 <!ENTITY noupdatesautoenabled.intro "No hay actualizaciones disponibles. &brandShortName; revisará
                                            periódicamente si hay actualizaciones.">

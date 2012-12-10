@@ -12,7 +12,7 @@
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label "No se pudo encontrar ningún complemento que coincida">
 <!ENTITY listEmpty.button.label "Conocer más sobre complementos">
-<!ENTITY installAddonFromFile.label "Instalar complementos desde archivo…">
+<!ENTITY installAddonFromFile.label "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 <!ENTITY cmd.back.tooltip "Retroceder una página">
@@ -24,8 +24,8 @@
 <!ENTITY warning.updatesecurity.label "La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar en peligro por las actualizaciones.">
 <!ENTITY warning.updatesecurity.enable.label "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip "Habilitar la verificación de actualizaciones de seguridad">
-<!ENTITY info.plugincheck.label "Verifique si sus plugins están actualizados">
-<!ENTITY info.plugincheck.tooltip "Verifique si sus plugins están actualizados">
+<!ENTITY info.plugincheck.label "Verifique si sus complementos están actualizados">
+<!ENTITY info.plugincheck.tooltip "Verifique si sus complementos están actualizados">
 <!ENTITY view.search.label "Buscar">
 <!ENTITY view.discover.label "Obtener complementos">
 <!ENTITY view.recentUpdates.label "Actualizaciones recientes">
