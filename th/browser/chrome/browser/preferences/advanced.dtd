@@ -82,7 +82,7 @@
 <!ENTITY updateHistory.label "แสดงประวัติการปรับรุ่น">
 <!ENTITY updateHistory.accesskey "ป">
 
-<!ENTITY useService.label                "ติดตั้งการปรับรุ่นแบบเบื้องหลังฃ">
+<!ENTITY useService.label                "ติดตั้งการปรับรุ่นแบบเบื้องหลัง">
 <!ENTITY useService.accesskey            "บ">
 
 <!ENTITY updateOthers.label              "ปรับรุ่นอัตโนมัติ:">
