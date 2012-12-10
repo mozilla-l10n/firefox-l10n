@@ -18,7 +18,7 @@
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>ตรวจสอบว่าคุณพิมพ์ที่อยู่เว็บถูกต้องหรือไม่ อาทิเช่น 
+<li>ตรวจสอบว่าคุณพิมพ์ที่อยู่เว็บถูกต้องหรือไม่ เช่น 
 <strong>ww</strong>.example.com แทนที่จะเป็น 
 <strong>www</strong>.example.com</li> 
 <li>ถ้าคุณยังไม่สามารถโหลดหน้าเว็บใด ๆ ได้เลย

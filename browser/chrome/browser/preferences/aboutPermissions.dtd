@@ -39,6 +39,6 @@
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "ดูแลการจัดเก็บข้อมูลออฟไลน์">
 
-<!ENTITY popup.label                     "เปิดหน้าต่งป๊อปอัป">
+<!ENTITY popup.label                     "เปิดหน้าต่างป๊อปอัป">
 
 <!ENTITY fullscreen.label                "เต็มจอ">
