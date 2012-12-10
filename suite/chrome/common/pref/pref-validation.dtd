@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption                  "OCSP">
 <!ENTITY enableOCSP.label                         "Het Online Certificate Status Protocol (OCSP) gebruiken om de geldigheid van certificaten te verifiëren">
 <!ENTITY enableOCSP.accesskey                     "o">
-<!ENTITY certOCSP2.label                          "Een certificaat valideren als het een OCSP-server specificeert">
-<!ENTITY certOCSP2.accesskey                      "e">
-<!ENTITY proxyOCSP2.label                         "Alle certificaten valideren, gebruikmakend van de volgende OCSP-server:">
-<!ENTITY proxyOCSP2.accesskey                     "u">
-<!ENTITY serviceURL.label                         "Service-URL:">
-<!ENTITY serviceURL.accesskey                     "S">
-<!ENTITY signingCA.label                          "Antwoordondertekenaar:">
-<!ENTITY signingCA.accesskey                      "A">
 <!ENTITY validation.requireOCSP.description       "Wanneer een OCSP-serververbinding mislukt, het certificaat als ongeldig behandelen">
 <!ENTITY validation.requireOCSP.accesskey         "W">
