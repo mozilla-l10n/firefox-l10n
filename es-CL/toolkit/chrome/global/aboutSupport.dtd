@@ -18,7 +18,7 @@
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta de perfil">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "complementos habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de Build">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de fallos">
