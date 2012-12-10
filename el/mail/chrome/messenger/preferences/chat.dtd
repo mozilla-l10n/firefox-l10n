@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Κατά την εκκίνηση του &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "ε">
+<!ENTITY  startupOffline.label        "Να είναι εκτός σύνδεσης οι λογαριασμοί chat">
+<!ENTITY  startupConnectAuto.label    "Να γίνεται αυτόματη σύνδεση των λογαριασμών chat">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Να γνωστοποιείται στις επαφές μου ότι είμαι αδρανής μετά από">
+<!ENTITY  reportIdleAfter.accesskey     "δ">
+<!ENTITY  idleTime                      "λεπτά αδράνειας">
+
+<!ENTITY  andSetStatusToAway.label      "και να ορίζεται η κατάσταση μου σε Μακρυά με αυτό το μήνυμα κατάστασης:">
+<!ENTITY  andSetStatusToAway.accesskey  "υ">
+
+<!ENTITY  sendTyping.label              "Αποστολή ειδοποιήσεων πληκτρολόγησης στις συζητήσεις">
+<!ENTITY  sendTyping.accesskey          "σ">

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Ρύθμιση Filelink">
+<!ENTITY addAccountDialog.menuTitle "Επιλέξτε μια υπηρεσία online αποθηκευτικού χώρου">
+<!ENTITY addAccountDialog.style "width: 44em; min-height: 22em;">
+<!ENTITY addAccountDialog.accountName.label "Όνομα λογαριασμού:">
+<!ENTITY addAccountDialog.noAccountText "Λυπούμαστε, αλλά η τρέχουσα έκδοση του &brandShortName; επιτρέπει μόνο ένα λογαριασμό για κάθε υπηρεσία online αποθηκευτικού χώρου.">
+<!ENTITY addAccountDialog.createAccountText2 "Μπορείτε να στείλετε μεγάλα συνημμένα αρχεία χρησιμοποιώντας μια από τις υπηρεσίες online αποθηκευτικού χώρου. Παρακαλούμε ρυθμίστε έναν υπάρχοντα λογαριασμό, ή δημιουργήστε ένα νέο λογαριασμό.">
+<!ENTITY addAccountDialog.authorizing "Έλεγχος διαπίστευσης...">
+<!ENTITY addAccountDialog.error "Σφάλμα κατά τη ρύθμιση του λογαριασμού σας!">
+<!ENTITY addAccountDialog.acceptButton.label "Ρύθμιση λογαριασμού">
+<!ENTITY addAccountDialog.learnMore "Μάθετε περισσότερα…">
