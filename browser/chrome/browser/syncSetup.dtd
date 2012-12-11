@@ -4,7 +4,7 @@
 <!ENTITY button.haveAccount.label "Ya tengo una cuenta">
 <!ENTITY setup.choicePage.title.label "¿Has utilizado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "Nunca antes he usado &syncBrand.shortName.label; ">
-<!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
+<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
 <!ENTITY server.label "Servidor">
 <!ENTITY serverType.default.label "Predeterminado: Servidor &syncBrand.fullName.label; de Mozilla">
 <!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
@@ -51,17 +51,17 @@
 <!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
 <!ENTITY existingRecoveryKey.description 'Puedes obtener una copia de tu clave de recuperación dirigiendote a Opciones de &syncBrand.shortName.label; en tu otro dispositivo, y seleccionando "Mi clave de recuperación" dentro de "Manejar cuenta".'>
-<!ENTITY verifying.label "Verificando…">
+<!ENTITY verifying.label "Verifying…">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
-<!ENTITY syncComputerName.label "Nombre del equipo:">
-<!ENTITY syncComputerName.accesskey "e">
+<!ENTITY syncDeviceName.label "Device Name:">
+<!ENTITY syncDeviceName.accesskey "c">
 <!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
-<!ENTITY engine.tabs.accesskey "P">
+<!ENTITY engine.tabs.accesskey "T">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.passwords.label "Contraseñas">
@@ -69,15 +69,15 @@
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "C">
-<!ENTITY choice2.merge.main.label "Combinar los datos de este equipo con mis datos de &syncBrand.shortName.label;">
+<!ENTITY engine.addons.accesskey "A">
+<!ENTITY choice2a.merge.main.label "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
-<!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con mis datos de &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label "Reemplazar todos los otros dispositivos con los datos de este equipo">
+<!ENTITY choice2a.client.main.label "Replace all data on this device with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label "Replace all other devices with this device's data">
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ahora mezclará todos los datos del navegador de este equipos en tu cuenta de Sync.">
-<!ENTITY confirm.client2.label "Advertencia: Los siguientes datos de &brandShortName; en esta computadora serán borrados:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; copiará tu información de &syncBrand.fullName.label; a esta computadora.">
+<!ENTITY confirm.merge2.label "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label "Warning: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label "Aviso: La iformación de los siguientes dispositivos se sobrescribirá con los datos locales:">
 <!ENTITY setup.successPage.title "Configuración completa">
 <!ENTITY changeOptions.label "Puedes cambiar esta opción seleccionando Opciones de Sync.">
