@@ -22,7 +22,7 @@
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
 <!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
-<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de agregados…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled "Actualizaciones deshabilitadas por el administrador de sistemas">
 <!ENTITY update.failed.start "Actualización fallida. ">
