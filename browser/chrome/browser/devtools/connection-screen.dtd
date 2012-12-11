@@ -1,0 +1,6 @@
+<!ENTITY title "Conectar">
+<!ENTITY host "Servidor:">
+<!ENTITY port "Port:">
+<!ENTITY connect "Connect">
+<!ENTITY connecting "Connecting…">
+<!ENTITY availability "Available remote objects:">

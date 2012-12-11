@@ -4,7 +4,7 @@
 <!ENTITY updatePass.label "Actualizar">
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY manageAccount.label "Administrar cuenta">
-<!ENTITY manageAccount.accesskey "A">
+<!ENTITY manageAccount.accesskey "n">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword2.label "Cambiar contraseña…">
 <!ENTITY myRecoveryKey.label "Mi clave de recuperación">
