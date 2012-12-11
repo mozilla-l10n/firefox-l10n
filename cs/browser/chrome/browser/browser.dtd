@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
-<!ENTITY bookmarksButton.accesskey "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label "Záložky">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label "Historie">
 <!ENTITY historyButton.tooltip "Zobrazí stránky navštívené v poslední době">
-<!ENTITY historySidebarCmd.accesskey "H">
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Nástroje">
