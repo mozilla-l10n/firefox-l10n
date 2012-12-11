@@ -433,7 +433,6 @@
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "el cual es corrido por">
 <!ENTITY identity.moreInfoLinkText "Más información…">
-<!ENTITY downloadMonitor2.tooltip "Haga click para abrir la ventana de descargas">
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">

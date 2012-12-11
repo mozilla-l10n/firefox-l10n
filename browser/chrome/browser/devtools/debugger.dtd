@@ -14,10 +14,6 @@
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
-<!ENTITY debuggerUI.showVarsSearch "Mostrar caja de búsqueda de variables">
-<!ENTITY debuggerUI.showVarsSearch.key "V">
-<!ENTITY debuggerUI.showNonEnums "Mostrar propiedades ocultas">
-<!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
 <!ENTITY debuggerUI.searchFile "">
 <!ENTITY debuggerUI.searchFile.key "P">
