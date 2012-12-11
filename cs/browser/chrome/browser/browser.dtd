@@ -660,3 +660,4 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Zpět">
 <!ENTITY social.activated.undobutton.accesskey "Z">
+<!ENTITY social.chatBar.commandkey "c">
