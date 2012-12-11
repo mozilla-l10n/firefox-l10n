@@ -15,6 +15,6 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Langkau ke barisan...">
-<!ENTITY gotoLineCmd.key           "J">
-<!ENTITY gotoLineCmd.accesskey     "J">
+<!ENTITY gotoLineCmd.key           "L">
+<!ENTITY gotoLineCmd.accesskey     "L">
 

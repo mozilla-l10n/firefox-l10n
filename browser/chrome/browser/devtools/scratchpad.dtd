@@ -33,18 +33,18 @@
 <!ENTITY openFileCmd.accesskey        "B">
 <!ENTITY openFileCmd.commandkey       "B">
 
-<!ENTITY openRecentMenu.label         "Buka semasa">
-<!ENTITY openRecentMenu.accesskey     "S">
+<!ENTITY openRecentMenu.label         "Buka Terbaru">
+<!ENTITY openRecentMenu.accesskey     "T">
 
 <!ENTITY revertCmd.label              "Berbalik semula…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.accesskey          "a">
 
 <!ENTITY saveFileCmd.label            "Simpan">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "S">
 
 <!ENTITY saveFileAsCmd.label          "Simpan Sebagai…">
-<!ENTITY saveFileAsCmd.accesskey      "a">
+<!ENTITY saveFileAsCmd.accesskey      "S">
 
 <!ENTITY closeCmd.label               "Tutup">
 <!ENTITY closeCmd.key                 "T">
@@ -58,8 +58,8 @@
 <!ENTITY run.key                      "J">
 
 <!ENTITY inspect.label                "Periksa">
-<!ENTITY inspect.accesskey            "i">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.accesskey            "P">
+<!ENTITY inspect.key                  "P">
 
 <!ENTITY display.label                "Paparan">
 <!ENTITY display.accesskey            "P">
@@ -91,9 +91,9 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 <!ENTITY helpMenu.label               "Bantuan">
-<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenu.accesskey           "B">
 <!ENTITY helpMenuWin.label            "Bantuan">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenuWin.accesskey        "B">
 
 <!ENTITY documentationLink.label      "Bantuan Scratchpad pada MDN">
 <!ENTITY documentationLink.accesskey  "D">
@@ -102,14 +102,14 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.label          "Set Semula Pemboleh ubah">
 <!ENTITY resetContext2.accesskey      "S">
 
 <!ENTITY reloadAndRun.label           "Muat Semula dan Jalan">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Lakukan">
+<!ENTITY executeMenu.label            "Laksanakan">
 <!ENTITY executeMenu.accesskey        "L">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches

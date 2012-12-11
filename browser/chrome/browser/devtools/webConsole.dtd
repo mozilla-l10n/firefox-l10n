@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Konsol Web">
 
-<!ENTITY networkPanel.requestURL                  "Minta URL">
-<!ENTITY networkPanel.requestMethod               "Permintaan Kaedah">
-<!ENTITY networkPanel.statusCode                  "Kod Status">
+<!ENTITY networkPanel.requestURLColon             "Permintaan URL :">
+<!ENTITY networkPanel.requestMethodColon          "Kaedah Permintaan :">
+<!ENTITY networkPanel.statusCodeColon             "Status Kod :">
 
 <!ENTITY networkPanel.requestHeaders              "Request Headers">
 <!ENTITY networkPanel.requestCookie               "Penghantaran Cookie">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Penghantaran Bentuk Data">
 
 <!ENTITY networkPanel.responseHeaders             "Response Headers">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Response Body">
 <!ENTITY networkPanel.responseBodyCached          "Cached Data">
 <!ENTITY networkPanel.responseBodyUnknownType     "Jenis Kandungan tidak diketahui">
@@ -53,7 +54,9 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object
+
+">
 <!ENTITY btnConsoleErrors       "Ralat">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Amaran">

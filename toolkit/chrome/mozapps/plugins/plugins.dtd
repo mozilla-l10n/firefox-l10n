@@ -57,3 +57,5 @@
 <!ENTITY report.failed                                       "Penghantaran gagal.">
 <!ENTITY report.unavailable                                  "Tiada laporan yang tersedia.">
 
+<!ENTITY plugin.file                                         "Fail">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

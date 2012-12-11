@@ -12,7 +12,7 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Jangan import apa-apa">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey    "J">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">
@@ -20,9 +20,9 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
-<!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang boleh dijumpai.">
+<!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang dapat dijumpai.">
 
-<!ENTITY importSource.title             "import tetapan dan maklumat">
+<!ENTITY importSource.title             "Import Tetapan dan Data">
 <!ENTITY importItems.title              "Butir untuk Diimport">
 <!ENTITY importItems.label              "Pilih butir yang ingin diimport:">
 
@@ -32,7 +32,7 @@
 <!ENTITY selectProfile.title            "Pilih Profil">
 <!ENTITY selectProfile.label            "Profil-profil berikut tersedia untuk diimport dari:">
 
-<!ENTITY done.title                     "Import Sempurna">
+<!ENTITY done.title                     "Import Selesai">
 <!ENTITY done.label                     "Butir-butir berikut telah berjaya diimport:">
 
 
