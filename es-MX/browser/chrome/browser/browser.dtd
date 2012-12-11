@@ -8,10 +8,10 @@
 <!ENTITY reloadAllTabs.accesskey "t">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY pinAppTab.label "Fijar pestaña">
-<!ENTITY pinAppTab.accesskey "P">
-<!ENTITY unpinAppTab.label "Desanclar pestaña">
-<!ENTITY unpinAppTab.accesskey "D">
+<!ENTITY pinTab.label "Pin Tab">
+<!ENTITY pinTab.accesskey "P">
+<!ENTITY unpinTab.label "Unpin Tab">
+<!ENTITY unpinTab.accesskey "b">
 <!ENTITY moveToGroup.label "Mover a Grupo">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY moveToNewGroup.label "Nuevo Grupo">
@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "c">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -123,7 +123,6 @@
 <!ENTITY feedButton.tooltip "Subcribirse a esta página…">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar tus marcadores">
-<!ENTITY bookmarksButton.accesskey "m">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip "Mostrar tus marcardores">
@@ -134,7 +133,6 @@
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Mostrar las páginas vistas recientemente">
-<!ENTITY historySidebarCmd.accesskey "r">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Herramientas">
 <!ENTITY toolsMenu.accesskey "t">
@@ -158,6 +156,7 @@
 <!ENTITY webConsoleCmd.label "Consola web">
 <!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY remoteWebConsoleCmd.label "Remote Web Console">
 <!ENTITY inspectMenu.label "Inspector">
 <!ENTITY inspectMenu.accesskey "t">
 <!ENTITY inspectMenu.commandkey "I">
@@ -171,18 +170,17 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarOtherToolsButton.label "More Tools">
-<!ENTITY webConsoleButton.label "Consola web">
-<!ENTITY inspectorButton.label "Inspector">
 <!ENTITY inspectorHTMLCopyInner.label "Copiar HTML interno">
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "e">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
 <!ENTITY inspectorHTMLDelete.label "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
@@ -190,7 +188,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "E">
+<!ENTITY styleeditor.accesskey "y">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -200,6 +198,8 @@
 <!ENTITY newNavigatorCmd.label "Ventana nueva">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "v">
+<!ENTITY newPrivateWindow.label "Nueva ventana privada">
+<!ENTITY newPrivateWindow.accesskey "v">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
@@ -222,7 +222,7 @@
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY preferencesCmd2.label "Opciones">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferencias">
@@ -273,7 +273,7 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
-<!ENTITY openLinkCmdInTab.accesskey "t">
+<!ENTITY openLinkCmdInTab.accesskey "p">
 <!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInCurrent.label "Abrir enlace">
@@ -313,10 +313,10 @@
 <!ENTITY bookmarkPageCmd2.label "Agregar esta página a marcadores">
 <!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Añadir este enlace a marcadores">
-<!ENTITY bookmarkThisLinkCmd.accesskey "l">
+<!ENTITY bookmarkThisLinkCmd.accesskey "m">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este marco a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY emailPageCmd.label "Enviar enlace">
+<!ENTITY emailPageCmd.label "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
 <!ENTITY savePageCmd.accesskey "G">
@@ -448,7 +448,7 @@
 <!ENTITY downloadMonitor2.tooltip "Da clic para abrir la ventana de descargas">
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Navegar pestañas">
-<!ENTITY syncTabsMenu.label "Pestañas de otros equipos">
+<!ENTITY syncTabsMenu2.label "Tabs From Other Devices">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
@@ -469,3 +469,4 @@
 <!ENTITY social.toggleNotifications.accesskey "n">
 <!ENTITY social.activated.undobutton.label "Deshacer">
 <!ENTITY social.activated.undobutton.accesskey "D">
+<!ENTITY social.chatBar.commandkey "c">
