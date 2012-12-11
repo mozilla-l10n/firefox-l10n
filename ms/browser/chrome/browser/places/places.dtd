@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Carian:">
 <!ENTITY search.accesskey                          "C">
 
-<!ENTITY search.in.label                           "Cari dalam:">
-<!ENTITY search.scopeFolder.label                  "Fail Terpilih">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "Penandabuku">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "Muat Turun">
-<!ENTITY search.scopeDownloads.accesskey           "M">
-<!ENTITY search.scopeHistory.label                 "Sejarah">
-<!ENTITY search.scopeHistory.accesskey             "h">
-<!ENTITY saveSearch.label                          "Simpan">
-<!ENTITY saveSearch.accesskey                      "S">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Import dan Sandar">

@@ -5,7 +5,6 @@
 <!ENTITY sanitizePrefs2.title          "Tetapan untuk kosongkan sejarah layaran">
 <!ENTITY sanitizeDialog2.title         "Padamkan Sejarah Layaran baru">
 
-<!ENTITY sanitizeItems.label          "Padamkan butir berikut sekarang:">
 <!ENTITY clearDataSettings2.label     "Semasa saya tutup &brandShortName;, ia patut secara automatik padamkan semua:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->

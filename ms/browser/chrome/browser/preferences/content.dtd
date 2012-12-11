@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  blockPopups.label           "Sekat tetingkap pop-up">
-<!ENTITY  blockPopups.accesskey       "H">
+<!ENTITY  blockPopups.accesskey       "S">
 <!ENTITY  popupExceptions.label       "Pengecualian...">
 <!ENTITY  popupExceptions.accesskey   "E">
 

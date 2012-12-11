@@ -12,39 +12,39 @@
 <!ENTITY fileMenu.accesskey                 "F">
 
 <!ENTITY quitApplicationCmdWin.label        "Keluar">
-<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmdWin.accesskey    "e">
 <!ENTITY quitApplicationCmd.label           "Keluar">
-<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!ENTITY quitApplicationCmd.accesskey       "K">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
 <!ENTITY quitApplicationCmdMac.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
-<!ENTITY hideOtherAppsCmdMac.label          "Sorok yang lain-lain">
+<!ENTITY hideOtherAppsCmdMac.label          "Sembunyikan yang Lain-lain">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "Pamer semua">
 
-<!ENTITY editMenu.label                     "ubahsuai">
-<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY editMenu.label                     "Sunting">
+<!ENTITY editMenu.accesskey                 "S">
 <!ENTITY undoCmd.label                      "Kembali Asal">
-<!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "Balik Semula">
-<!ENTITY redoCmd.key                        "Y">
-<!ENTITY redoCmd.accesskey                  "R">
+<!ENTITY undoCmd.key                        "B">
+<!ENTITY undoCmd.accesskey                  "B">
+<!ENTITY redoCmd.label                      "Buat Semula">
+<!ENTITY redoCmd.key                        "B">
+<!ENTITY redoCmd.accesskey                  "B">
 <!ENTITY cutCmd.label                       "Potong">
-<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.key                         "t">
 <!ENTITY cutCmd.accesskey                   "t">
 <!ENTITY copyCmd.label                      "Salin">
-<!ENTITY copyCmd.key                        "C">
-<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY copyCmd.key                        "S">
+<!ENTITY copyCmd.accesskey                  "S">
 <!ENTITY pasteCmd.label                     "Tampal">
-<!ENTITY pasteCmd.key                       "V">
-<!ENTITY pasteCmd.accesskey                 "P">
+<!ENTITY pasteCmd.key                       "T">
+<!ENTITY pasteCmd.accesskey                 "T">
 <!ENTITY deleteCmd.label                    "Padam">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
 <!ENTITY selectAllCmd.label                 "Pilih Semua">
-<!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY selectAllCmd.key                   "S">
+<!ENTITY selectAllCmd.accesskey             "S">
 
