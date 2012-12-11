@@ -1,43 +1,38 @@
-<!ENTITY window.title "Web Console">
-<!ENTITY networkPanel.requestURL "URL de la petición">
-<!ENTITY networkPanel.requestMethod "Método de la petición">
-<!ENTITY networkPanel.statusCode "Código de estado">
+<!ENTITY window.title "Consola web">
+<!ENTITY networkPanel.requestURLColon "Request URL:">
+<!ENTITY networkPanel.requestMethodColon "Request Method:">
+<!ENTITY networkPanel.statusCodeColon "Status Code:">
 <!ENTITY networkPanel.requestHeaders "Cabeceras de la petición">
 <!ENTITY networkPanel.requestCookie "Cookie enviada">
 <!ENTITY networkPanel.requestBody "Cuerpo de la petición">
 <!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
 <!ENTITY networkPanel.responseHeaders "Cabeceras de la respuesta">
+<!ENTITY networkPanel.responseCookie "Received Cookie">
 <!ENTITY networkPanel.responseBody "Cuerpo de la respuesta">
 <!ENTITY networkPanel.responseBodyCached "Datos en caché">
 <!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
 <!ENTITY networkPanel.responseNoBody "La respuesta no tenía cuerpo">
 <!ENTITY networkPanel.responseImage "Imagen recibida">
 <!ENTITY networkPanel.responseImageCached "Imagen en caché">
-<!ENTITY saveBodies.label "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
-<!ENTITY openURL.label "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
-<!ENTITY btnPageNet.label "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY saveBodies.label "Registrar los cuerpos de peticiones y respuestas">
+<!ENTITY saveBodies.accesskey "R">
+<!ENTITY openURL.label "Abrir en una pestaña nueva">
+<!ENTITY openURL.accesskey "p">
+<!ENTITY btnPageNet.label "Red">
+<!ENTITY btnPageNet.tooltip "Registrar acceso a la red">
 <!ENTITY btnPageCSS.label "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "Registrar errores de análisis en el CSS">
 <!ENTITY btnPageJS.label "JS">
-<!ENTITY btnPageJS.tooltip "Log JavaScript exceptions">
-<!ENTITY btnPageLogging.label "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
-<!ENTITY btnConsoleErrors "Errors">
-<!ENTITY btnConsoleInfo "Info">
-<!ENTITY btnConsoleWarnings "Warnings">
-<!ENTITY btnConsoleLog "Log">
-<!ENTITY btnPosition.label "Position">
-<!ENTITY btnPosition.tooltip "Position the Web Console above or below the document">
-<!ENTITY positionMenu.above "Above">
-<!ENTITY positionMenu.below "Below">
-<!ENTITY positionMenu.window "Window">
-<!ENTITY filterBox.placeholder "Filter">
-<!ENTITY btnClear.label "Clear">
-<!ENTITY btnClear.tooltip "Clear the Web Console output">
-<!ENTITY btnClose.tooltip "Close the Web Console">
+<!ENTITY btnPageJS.tooltip "Registrar excepciones JavaScript">
+<!ENTITY btnPageLogging.label "Registro">
+<!ENTITY btnPageLogging.tooltip "Registrar mensajes enviados al objeto window.console">
+<!ENTITY btnConsoleErrors "Errores">
+<!ENTITY btnConsoleInfo "Información">
+<!ENTITY btnConsoleWarnings "Advertencias">
+<!ENTITY btnConsoleLog "Registro">
+<!ENTITY filterBox.placeholder "Filtro">
+<!ENTITY btnClear.label "Limpiar">
+<!ENTITY btnClear.tooltip "Limpiar la salida de la consola web">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
@@ -45,5 +40,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY copyURLCmd.label "Copy Link Location">
-<!ENTITY copyURLCmd.accesskey "a">
+<!ENTITY copyURLCmd.label "Copiar la ruta del enlace">
+<!ENTITY copyURLCmd.accesskey "r">

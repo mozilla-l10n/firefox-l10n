@@ -7,3 +7,5 @@
 <!ENTITY matched "Coincide">
 <!ENTITY parentMatch "Coincide con el padre">
 <!ENTITY unmatched "Sin coincidencia">
+<!ENTITY computedViewTitle "Computed">
+<!ENTITY ruleViewTitle "Rules">

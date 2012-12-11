@@ -33,3 +33,5 @@
 <!ENTITY report.disabled "Reporte de errores deshabilitado.">
 <!ENTITY report.failed "Envío fallido.">
 <!ENTITY report.unavailable "Reporte no disponible.">
+<!ENTITY plugin.file "File">
+<!ENTITY plugin.mimeTypes "MIME Types">
