@@ -16,7 +16,7 @@
 <!ENTITY debuggerMenu.label2 "Debugger">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools meny entry of Debugger that opens the debugger UI. -->
+  -  Tools menu entry of Debugger that opens the debugger UI. -->
 <!ENTITY debuggerMenu.accesskey "D">
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
@@ -61,3 +61,16 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle "Operátor">
+
+<!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
+  -  appears in the conditional breakpoint panel popup as a description. -->
+<!ENTITY debuggerUI.condBreakPanelTitle "Tato zarážka zastaví běh programu, pouze pokud následující výraz je pravdivý">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for adding a breakpoint. -->
+<!ENTITY debuggerUI.seMenuBreak "Přidat zarážku">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
+  -  appears in the source editor context menu for adding a conditional
+  -  breakpoint. -->
+<!ENTITY debuggerUI.seMenuCondBreak "Přidat podmíněnou zarážku">
