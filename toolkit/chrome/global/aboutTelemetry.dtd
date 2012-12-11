@@ -16,15 +16,11 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "   Histogramlar ">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Basit Ölçümler
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Sistem Bilgisi
-">
+<!ENTITY aboutTelemetry.systemInfoSection "   Sistem Bilgisi ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "   Eklentiler tarafından toplanan histogramlar ">
+<!ENTITY aboutTelemetry.addonHistogramsSection "   Eklentiler Tarafından Toplanan Histogramlar ">
 
 <!ENTITY aboutTelemetry.toggleOn "   Bölümü genişletmek için tıklayın ">
 

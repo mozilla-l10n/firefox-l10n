@@ -56,7 +56,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
+<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "Y">
