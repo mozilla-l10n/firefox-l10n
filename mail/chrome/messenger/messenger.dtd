@@ -558,7 +558,7 @@
 <!ENTITY chatButton.tooltip "Afficher l'onglet de messagerie instantanée">
 <!ENTITY tagButton.tooltip "Étiqueter les messages">
 <!ENTITY compactButton.tooltip "Retirer les messages supprimés du dossier sélectionné">
-<!ENTITY appmenuButton.tooltip "Afficher le menu de l'application">
+<!ENTITY appmenuButton1.tooltip "Afficher le menu de &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nouveau message">
