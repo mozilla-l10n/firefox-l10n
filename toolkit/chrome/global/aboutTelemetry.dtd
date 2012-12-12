@@ -4,64 +4,39 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.pageSubtitle "
-  This page shows the performance and feature-use data collected by Telemetry.
-  This information is submitted anonymously to Mozilla to help improve &brandShortName;.
+<!ENTITY aboutTelemetry.pageSubtitle " 
+  Laman ini menunjukkan kemampuan dan ciri-ciri boleh guna pada data yang diambil oleh Telemetry. 
+  Informasi ini telah dihantar tidak dikenali kepada Mozilla untuk membantu penambahbaikan &brandShortName; . ">
+
+<!ENTITY aboutTelemetry.telemetryEnabled " 
+  Telemetry ialah <span>dipasang</span> . ">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.
 ">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry is <span>enabled</span>.
+<!ENTITY aboutTelemetry.slowSqlSection " 
+  Slow SQL Statements ">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "Browser Hangs ">
+
+<!ENTITY aboutTelemetry.histogramsSection "Hikstogram">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
+
+<!ENTITY aboutTelemetry.systemInfoSection "Sistem Informasi">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "Hikstogram dikumpul oleh Addon">
+
+<!ENTITY aboutTelemetry.toggleOn "Klik untuk mengembangkan seksyen">
+
+<!ENTITY aboutTelemetry.toggleOff "Klik untuk collapse seksyen">
+
+<!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)
 ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "Nota: Perlahan SQL debugging telah digunakan. Keseluruhan SQL strings boleh dipamerkan dibawah namun mereka tidak boleh dihantar kepada Telemetry.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.fetchSymbols "Dapatkan fungsi nama untuk hang stacks">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
-
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
-">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
-
-<!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
-">
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
-
-<!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
-">
-
-<!ENTITY aboutTelemetry.toggleOff "
-  Click to collapse section
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
-
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
-
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
-
-<!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
+<!ENTITY aboutTelemetry.hideSymbols "Pamer data mentah daripada hangs">
 

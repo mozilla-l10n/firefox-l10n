@@ -47,8 +47,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Keutamaan user.js">
+<!ENTITY aboutSupport.userJSDescription "Profil folder anda mengandungi satu <a id='prefs-user-js-link'>fail user.js</a>, dimana termasuk tetapan yang tidak dilakukan oleh &brandShortName; .">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
@@ -64,6 +64,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
 <!ENTITY aboutSupport.updateHistoryTitle "Sejarah Kemaskini">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">
 
