@@ -278,8 +278,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Tetingkap Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "Tetingkap Persendirian Baharu">
+<!ENTITY newPrivateWindow.accesskey "B">
 
 <!ENTITY editMenu.label         "Ubah"> 
 <!ENTITY editMenu.accesskey       "U"> 

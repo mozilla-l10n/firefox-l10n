@@ -95,14 +95,14 @@
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "Satukan data peranti ini dengan  data &syncBrand.shortName.label; saya ">
 <!ENTITY choice2.merge.recommended.label "Disyorkan:">
 <!ENTITY choice2a.client.main.label      "Gantikan semua data dalam peranti ini dengan &syncBrand.shortName.label; data">
 <!ENTITY choice2a.server.main.label      "Gantikan semua peranti lain dengan data peranti ini">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Pasti">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; akan disatukan semua peranti data pelayar ini kepada akaun Sync anda.">
 <!ENTITY confirm.client3.label         "Amaran: Data &brandShortName; berikut pada peranti ini akan dipadam:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; akan seterusnya menyalin data &syncBrand.fullName.label; anda ke peranti ini.
 
