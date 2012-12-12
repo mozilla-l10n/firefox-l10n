@@ -47,7 +47,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 <!ENTITY debuggerUI.showPanesOnInit     "Vis paneler ved opstart">
-<!ENTITY debuggerUI.showPanesOnInit.key "O">
+<!ENTITY debuggerUI.showPanesOnInit.key "o">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
   -  checkbox that toggles visibility of a designated variables searchbox. -->
@@ -58,7 +58,7 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. -->
 <!ENTITY debuggerUI.showNonEnums        "Vis skjulte egenskaber">
-<!ENTITY debuggerUI.showNonEnums.key    "E">
+<!ENTITY debuggerUI.showNonEnums.key    "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
