@@ -83,7 +83,7 @@
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
 <!ENTITY pref_plugins_disabled "사용 안 함">
 <!ENTITY pref_text_size "글자 크기">
-<!ENTITY pref_reflow_on_zoom2 "확대/축소 시 줄 바꿈>
+<!ENTITY pref_reflow_on_zoom2 "확대/축소 시 줄 바꿈">
 <!ENTITY pref_font_size_tiny "매우 작게">
 <!ENTITY pref_font_size_small "작게">
 <!ENTITY pref_font_size_medium "중간">
