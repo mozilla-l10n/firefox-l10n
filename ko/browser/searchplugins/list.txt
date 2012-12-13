@@ -1,4 +1,3 @@
-yahoo-kr
 google
 daum-kr
 naver-kr
