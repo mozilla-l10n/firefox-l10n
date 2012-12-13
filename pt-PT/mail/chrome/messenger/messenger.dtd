@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Mostrar o separador de chat">
 <!ENTITY tagButton.tooltip "Etiqueta as mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens eliminadas da pasta seleccionadas">
-<!ENTITY appmenuButton.tooltip "Apresenta o menu de aplicações">
+<!ENTITY appmenuButton1.tooltip "Apresenta o menu do &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
