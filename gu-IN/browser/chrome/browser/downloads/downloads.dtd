@@ -41,7 +41,9 @@ the same access key (though the two access keys can also be different).
 <!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "યાદીને સાફ કરો">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY downloadshistory.label           "બધુ ડાઉનલોડ બતાવો">
-<!ENTITY downloadshistory.accesskey       "S">
+
+<!ENTITY downloads.width                  "65ch">
+
+
 
 
