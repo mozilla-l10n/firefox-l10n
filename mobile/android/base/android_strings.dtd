@@ -114,6 +114,7 @@
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_open_new_private_tab "Abrir enlace en una nueva pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en Lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
