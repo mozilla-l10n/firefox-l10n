@@ -564,12 +564,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullscreenApproval.value "શું પૂર્ણસ્ક્રીનની પરવાનગી આપવાની છે?">
 <!ENTITY fullscreenExitButton.label "નામંજૂર">
 <!ENTITY fullscreenExitHint.value "પૂર્ણસ્ક્રીનમાંથી બહાર નીકાળવા માટે કોઇપણ સમયે ESC ને દબાવો.">
-<!ENTITY inspectOptionButton.tooltiptext    "ઇન્સપેક્ટર વિકલ્પો">
+
 <!ENTITY inspectorButton.label "ઇન્સપેક્ટર">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
-<!ENTITY inspectorToggleInfobar.label       "નોડ જાણકારીને બતાવો">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleVeil.label          "ધૂંધળું પાનું">
+
+
+
+
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
 <!ENTITY markupButton.accesskey          "M">
@@ -591,9 +591,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emailVideoCmd.label          "ઇમેઇલ વીડિયો…">
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY social.notLoggedIn.label   "પ્રવેશેલ નથી">
-<!ENTITY social.sharePopup.ok.accesskey   "O">
-<!ENTITY social.sharePopup.ok.label       "બરાબર">
-<!ENTITY social.sharePopup.undo.accesskey "U">
-<!ENTITY social.sharePopup.undo.label     "વહેંચો નહિ">
+
+
+
+
 <!ENTITY socialToolbar.title        "સામાજિક સાધનપટ્ટી બટન">
 
