@@ -58,6 +58,15 @@
 <!ENTITY sync.settings.options.label '설정'>
 <!ENTITY sync.summary.pair.label '&syncBrand.shortName.label; 계정에 다른 기기 접속'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label '동기화 항목'>
+<!ENTITY sync.configure.engines.sync.my.title.label '동기화 항목'>
+<!ENTITY sync.configure.engines.title.bookmarks '북마크'>
+<!ENTITY sync.configure.engines.title.passwords '암호'>
+<!ENTITY sync.configure.engines.title.history '방문 기록'>
+<!ENTITY sync.configure.engines.title.tabs '탭'>
+
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '취소'>
 <!ENTITY sync.button.connect.label '접속'>
