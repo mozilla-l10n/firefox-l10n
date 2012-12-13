@@ -300,7 +300,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label		"채팅">
 <!ENTITY goChatCmd.accesskey		"c">
-<!ENTITY goChatCmd.commandKey		"C">
+<!ENTITY goChatCmd.key		"C">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">

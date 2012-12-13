@@ -129,8 +129,6 @@
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY returnReceiptMenu.label "수신 확인">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY outputFormatMenu.label "서식">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "자동 선택">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
@@ -269,6 +267,8 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">
+<!ENTITY deliveryFormatMenu.label "전달 서식">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label	"맞춤법 사전 추가…">
