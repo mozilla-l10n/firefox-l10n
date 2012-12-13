@@ -23,7 +23,7 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-<!ENTITY downloads.width                  "70ch">
+<!ENTITY downloadDetails.width            "60ch">
 
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
      Minimum width for the main description of the downloads summary,
@@ -38,7 +38,7 @@
 
      that's 28 characters, so we set the minimum width to 28ch.
      -->
-<!ENTITY downloadsSummary.minWidth        "33ch">
+<!ENTITY downloadsSummary.minWidth        "40ch">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
