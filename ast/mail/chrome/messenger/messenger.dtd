@@ -296,15 +296,15 @@
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Encaboxar mensaxe">
 <!ENTITY cancelNewsMsgCmd.accesskey "C">
-<!ENTITY replyMsgCmd.label "Retrucar">
+<!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Retrucar namái al remitente">
+<!ENTITY replySenderCmd.label "Responder namái al remitente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyToAllMsgCmd.label "Retrucar a toos">
+<!ENTITY replyToAllMsgCmd.label "Responder a toos">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToListMsgCmd.label "Retrucar a la llista">
+<!ENTITY replyToListMsgCmd.label "Responder a la llista">
 <!ENTITY replyToListMsgCmd.accesskey "L">
 <!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Reunviar">
@@ -434,9 +434,9 @@
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY getMsgButton.label "Recibir">
 <!ENTITY newMsgButton.label "Redactar">
-<!ENTITY replyButton.label "Retrucar">
-<!ENTITY replyAllButton.label "Retr. a toos">
-<!ENTITY replyListButton.label "Retrucar a la llista">
+<!ENTITY replyButton.label "Responder">
+<!ENTITY replyAllButton.label "Resp. a toos">
+<!ENTITY replyListButton.label "Responder a la llista">
 <!ENTITY forwardButton.label "Reunviar">
 <!ENTITY fileButton.label "Ficheru">
 <!ENTITY archiveButton.label "Archivar">
@@ -466,9 +466,9 @@
 <!ENTITY getAllNewMsgCmd.label "Recibir tolos mensaxes nuevos">
 <!ENTITY getAllNewMsgCmd.accesskey "R">
 <!ENTITY newMsgButton.tooltip "Crear mensaxe nuevu">
-<!ENTITY replyButton.tooltip "Retrucar al mensaxe">
-<!ENTITY replyAllButton.tooltip "Retrucar al remitente y a tolos destinatarios">
-<!ENTITY replyListButton.tooltip "Retrucar a la llista de corréu">
+<!ENTITY replyButton.tooltip "Responder al mensaxe">
+<!ENTITY replyAllButton.tooltip "Responder al remitente y a tolos destinatarios">
+<!ENTITY replyListButton.tooltip "Responder a la llista de corréu">
 <!ENTITY forwardButton.tooltip "Reunviar mensaxe esbilláu">
 <!ENTITY fileButton.tooltip "Archivar mensaxe esbilláu">
 <!ENTITY archiveButton.tooltip "Archivar mensaxes esbillaos">
@@ -585,11 +585,11 @@
 <!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "h">
-<!ENTITY contextReplySender.label "Retrucar namái al remitente">
+<!ENTITY contextReplySender.label "Responder namái al remitente">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyAll.label "Retrucar a toos">
+<!ENTITY contextReplyAll.label "Responder a toos">
 <!ENTITY contextReplyAll.accesskey "t">
-<!ENTITY contextReplyList.label "Retrucar a la llista">
+<!ENTITY contextReplyList.label "Responder a la llista">
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Reunviar">
 <!ENTITY contextForward.accesskey "n">
@@ -694,7 +694,7 @@
 <!ENTITY showAllAppsCmdMac.label "Amosar too">
 <!ENTITY chatButton.label "Charrar">
 <!ENTITY chatButton.tooltip "Amosar la llingüeta de chat">
-<!ENTITY contextReplyNewsgroup2.label "Retrucar nel grupu de noticies">
+<!ENTITY contextReplyNewsgroup2.label "Responder nel grupu de noticies">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY goChatCmd.label "Charrar">
@@ -713,7 +713,7 @@
 <!ENTITY previousButtonToolbarItem.label "Anterior non lleíu">
 <!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY previousMsgButton.tooltip "Movese al mensaxe anterior">
-<!ENTITY replyNewsgroupCmd2.label "Retrucar nel grupu de noticies">
+<!ENTITY replyNewsgroupCmd2.label "Responder nel grupu de noticies">
 <!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
