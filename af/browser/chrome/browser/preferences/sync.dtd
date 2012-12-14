@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "B">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Toestelnaam:">
+<!ENTITY syncDeviceName.accesskey   "n">
 <!ENTITY unlinkDevice.label           "Dissosieer dié toestel">
 <!-- Footer stuff -->
 

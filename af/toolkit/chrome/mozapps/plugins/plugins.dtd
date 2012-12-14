@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Omvalrapportering gedeaktiveer.">
 <!ENTITY report.failed                                       "Kon nie indien nie.">
 <!ENTITY report.unavailable                                  "Geen verslag beskikbaar nie.">
+
+<!ENTITY plugin.file                                         "Lêer">
+<!ENTITY plugin.mimeTypes                                    "MIME-soorte">
