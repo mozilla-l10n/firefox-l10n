@@ -37,4 +37,4 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Mostra o menu de aplicações">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Mostra o menu do &brandShortName;">
