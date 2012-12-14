@@ -11,7 +11,7 @@
 <!ENTITY compositionGroupTitle.label "Redaición">
 <!ENTITY useHtml.label "Redactar mensaxes en formatu HTML">
 <!ENTITY useHtml.accesskey "R">
-<!ENTITY autoQuote.label "Citar automáticamente el mensaxe orixinal al retrucar">
+<!ENTITY autoQuote.label "Citar automáticamente el mensaxe orixinal al responder">
 <!ENTITY autoQuote.accesskey "C">
 <!ENTITY then.label "entós,">
 <!ENTITY then.accesskey "T">
