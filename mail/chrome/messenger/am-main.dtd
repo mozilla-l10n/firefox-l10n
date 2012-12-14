@@ -9,7 +9,7 @@
 <!ENTITY email.accesskey "D">
 <!ENTITY replyTo.label "Direición de rempuesta:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "Los destinatarios retrucarán a esta otra direición">
+<!ENTITY replyTo.placeholder "Los destinatarios van responder a esta otra direición">
 <!ENTITY organization.label "Organización:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testu de la robla:">

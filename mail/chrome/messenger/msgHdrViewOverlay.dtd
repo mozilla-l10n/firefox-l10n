@@ -3,7 +3,7 @@
 <!ENTITY fromField3.label "De ">
 <!ENTITY senderField3.label "Remitente ">
 <!ENTITY organizationField3.label "Organización ">
-<!ENTITY replyToField3.label "Retrucar a ">
+<!ENTITY replyToField3.label "Responder a ">
 <!ENTITY subjectField3.label "Asuntu ">
 <!ENTITY ccField3.label "Cc ">
 <!ENTITY bccField3.label "Cct ">
@@ -20,13 +20,13 @@
 <!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Archivar">
 <!ENTITY hdrArchiveButton1.tooltip "Archivar esti mensaxe">
-<!ENTITY hdrSmartReplyButton1.label "Retrucar a interesaos">
-<!ENTITY hdrReplyButton1.label "Retrucar">
-<!ENTITY hdrReplyButton2.tooltip "Retrucar al remitente d'esti mensaxe">
-<!ENTITY hdrReplyAllButton1.label "Retrucar a toos">
-<!ENTITY hdrReplyAllButton1.tooltip "Retrucar al remitente y a tolos destinatarios">
-<!ENTITY hdrReplyListButton1.label "Retrucar a la llista">
-<!ENTITY hdrReplyListButton1.tooltip "Retrucar a la llista de corréu">
+<!ENTITY hdrSmartReplyButton1.label "Responder a interesaos">
+<!ENTITY hdrReplyButton1.label "Responder">
+<!ENTITY hdrReplyButton2.tooltip "Responder al remitente d'esti mensaxe">
+<!ENTITY hdrReplyAllButton1.label "Responder a toos">
+<!ENTITY hdrReplyAllButton1.tooltip "Responder al remitente y a tolos destinatarios">
+<!ENTITY hdrReplyListButton1.label "Responder a la llista">
+<!ENTITY hdrReplyListButton1.tooltip "Responder a la llista de corréu">
 <!ENTITY hdrForwardButton1.label "Reunviar">
 <!ENTITY hdrForwardButton1.tooltip "Reunviar esti mensaxe">
 <!ENTITY hdrJunkButton1.label "Puxarra">
@@ -39,7 +39,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "a">
 <!ENTITY hdrViewToolbarShowText.label "Amosar namái testu">
 <!ENTITY hdrViewToolbarShowText.accesskey "e">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Amosar siempre Retrucar al remitente">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Amosar siempre Responder al remitente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 <!ENTITY otherActionsButton1.label "Otres aiciones">
 <!ENTITY otherActionsOpenConversation1.label "Abrir na conversación">
@@ -89,7 +89,7 @@
 <!ENTITY OpenMessageForMsgId.accesskey "m">
 <!ENTITY OpenBrowserWithMsgId.label "Abrir restolador web col Message-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "A">
-<!ENTITY hdrFollowupButton1.label "Retrucar">
+<!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Espublizar una rempuesta a la conversación nesti grupu de noticies">
 
 <!ENTITY startExpandedCmd.label "Al abrir, amosar el panel d'axuntos">
