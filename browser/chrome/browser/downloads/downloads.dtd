@@ -18,7 +18,6 @@
 <!ENTITY cmd.removeFromList.accesskey "D">
 <!ENTITY cmd.clearList.label "Llimpiar llista">
 <!ENTITY cmd.clearList.accesskey "a">
-<!ENTITY downloadsSummary.minWidth "28ch">
 <!ENTITY downloadsHistory.label "Amosar toles descargues">
 <!ENTITY downloadsHistory.accesskey "S">
 <!ENTITY downloadDetails.width "50ch">
