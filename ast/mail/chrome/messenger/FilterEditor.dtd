@@ -21,7 +21,7 @@
 <!ENTITY moveMessage.label "Mover mensaxe a">
 <!ENTITY copyMessage.label "Copiar mensaxe a">
 <!ENTITY forwardTo.label "Reunviar mensaxe a">
-<!ENTITY replyWithTemplate.label "Retrucar con plantía">
+<!ENTITY replyWithTemplate.label "Responder con plantía">
 <!ENTITY markMessageRead.label "Conseñar como lleíu">
 <!ENTITY markMessageUnread.label "Conseñar como non lleíu">
 <!ENTITY markMessageStarred.label "Amestar estrella">
