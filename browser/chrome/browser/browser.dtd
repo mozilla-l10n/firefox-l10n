@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Werk aflyn">
-<!ENTITY goOfflineCmd.accesskey "W">
+<!ENTITY goOfflineCmd.label "Werk vanlyn">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Kieslysbalk">
 <!ENTITY menubarCmd.accesskey "K">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Boekmerke">
 <!ENTITY bookmarksButton.tooltip        "Vertoon u boekmerke">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Geskiedenis">
 <!ENTITY historyButton.tooltip          "Vertoon bladsye wat u onlangs bekyk het">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nutsgoed">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Webkonsole">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Afgeleë webkonsole">
 
 <!ENTITY inspectMenu.label            "Inspekteer">
 <!ENTITY inspectMenu.accesskey        "I">
@@ -215,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspekteer element">
 <!ENTITY inspectContextMenu.accesskey "n">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.label   "Reaktiewe ontwerpsaansig">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -235,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Sluit inspekteur">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Sluit kantbalk">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Sluit ontwikkelingsnutsbalk">
 <!ENTITY devToolbarMenu.label              "Ontwikkelingsnutsbalk">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nuwe venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nuwe privaatvenster">
+<!ENTITY newPrivateWindow.accesskey "v">
 
 <!ENTITY editMenu.label         "Redigeer"> 
 <!ENTITY editMenu.accesskey       "e"> 
@@ -447,8 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Stoor klank as…">
 <!ENTITY saveAudioCmd.accesskey       "o">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "E-pos prent…">
+<!ENTITY emailImageCmd.accesskey      "t">
 <!ENTITY emailVideoCmd.label          "E-pos video…">
 <!ENTITY emailVideoCmd.accesskey      "o">
 <!ENTITY emailAudioCmd.label          "E-pos klank…">
@@ -532,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Open 'n nuwe oortjie">
 <!ENTITY newWindowButton.tooltip        "Open 'n nuwe venster">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Sluit kantbalk">
 
 <!ENTITY cutButton.tooltip              "Knip">
 <!ENTITY copyButton.tooltip             "Kopieer">
@@ -621,7 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Blaaieroortjies">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Oortjies van ander toestelle">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -643,7 +644,7 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY socialToolbar.title        "Knoppie vir sosiale nutsbalk">
 <!ENTITY social.notLoggedIn.label   "Nie aangemeld nie">
 
 <!ENTITY social.ok.label       "OK">
@@ -652,8 +653,10 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Wys kantbalk">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Wys werkskermkennisgewings">
+<!ENTITY social.toggleNotifications.accesskey "k">
 
 <!ENTITY social.activated.undobutton.label "Ontdoen">
 <!ENTITY social.activated.undobutton.accesskey "O">
+
+<!ENTITY social.chatBar.commandkey "c">

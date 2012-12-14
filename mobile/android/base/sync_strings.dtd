@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Opsies">
 <!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks "Boekmerke">
+<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.history "Geskiedenis">
+<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Kanselleer">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
