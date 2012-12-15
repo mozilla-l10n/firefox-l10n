@@ -12,9 +12,9 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "merupakan satu">
+<!ENTITY community.exp.middle       " merupakan satu ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "kominiti globalisasi">
+<!ENTITY community.exp.creditsLink  "kominiti globalisasi ">
 <!ENTITY community.exp.end          "bekerja sama untuk menjaga Web terbuka, awam dan boleh didapati oleh semua.">
 
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
