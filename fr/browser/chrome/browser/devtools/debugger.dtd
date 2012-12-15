@@ -58,11 +58,12 @@
 <!ENTITY debuggerUI.showVarsFilter      "Afficher la boîte de filtrage des variables">
 <!ENTITY debuggerUI.showVarsFilter.key  "V">
 
-<!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
+<!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
-  -  properties in stack views. -->
-<!ENTITY debuggerUI.showNonEnums        "Afficher les propriétés cachées">
-<!ENTITY debuggerUI.showNonEnums.key    "C">
+  -  properties in stack views. The "enumerable" flag is a state of a property
+  -  defined in JavaScript. When in doubt, leave untranslated. -->
+<!ENTITY debuggerUI.showOnlyEnum        "Afficher uniquement les propriétés énumérables">
+<!ENTITY debuggerUI.showOnlyEnum.key    "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
