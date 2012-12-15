@@ -15,8 +15,6 @@
 <!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement et me demander la permission avant :">
 <!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement">
 <!ENTITY warn.enteringsecure.accesskey "e">
-<!ENTITY warn.enteringweak "d'entrer sur un site qui utilise un chiffrement de bas niveau">
-<!ENTITY warn.enteringweak.accesskey "n">
 <!ENTITY warn.insecurepost "d'envoyer des données d'une page non sécurisée à une page non sécurisée">
 <!ENTITY warn.insecurepost.accesskey "v">
 <!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données.">
