@@ -56,4 +56,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Installasjonshistorikk">
 <!ENTITY aboutSupport.updateHistoryTitle "Oppdateringshistorikk">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopier alt til utklippstavla">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopier tekst til utklippstavla">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier råtekst til utklippstavla">
