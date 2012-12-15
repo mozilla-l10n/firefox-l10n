@@ -57,4 +57,4 @@
 <!ENTITY showToday.tooltip "Aller à aujourd'hui">
 <!ENTITY onedayforward.tooltip "Aller au jour suivant">
 <!ENTITY onedaybackward.tooltip "Aller au jour précédent">
-<!ENTITY showselectedday.tooltip "Afficher les événements de la journée sélectionnée">
+<!ENTITY showselectedday.tooltip "Afficher les évènements de la journée sélectionnée">

@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Mot de passe :" >
 
 <!ENTITY custompage.shortdescription  "Personnaliser votre agenda" >
-<!ENTITY custompage.longdescription   "Vous pouvez donner un nom à votre agenda et affecter des couleurs aux événements." >
+<!ENTITY custompage.longdescription   "Vous pouvez donner un nom à votre agenda et affecter des couleurs aux évènements." >
 
 <!ENTITY finishpage.shortdescription  "Agenda créé" >
 <!ENTITY finishpage.longdescription   "Votre agenda a été créé." >

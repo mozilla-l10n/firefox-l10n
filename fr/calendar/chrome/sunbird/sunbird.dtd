@@ -7,14 +7,14 @@
 <!ENTITY sunbird.copy.button.tooltip           "Copier" >
 <!ENTITY sunbird.paste.button.tooltip          "Coller" >
 <!ENTITY sunbird.print.button.tooltip          "Imprimer l'agenda" >
-<!ENTITY sunbird.delete.button.tooltip         "Supprimer l'événement sélectionné" >
+<!ENTITY sunbird.delete.button.tooltip         "Supprimer l'évènement sélectionné" >
 <!ENTITY sunbird.remotereload.button.tooltip   "Actualiser tous les agendas distants" >
-<!ENTITY sunbird.import.button.tooltip         "Importer des événements à partir d'un fichier local" >
-<!ENTITY sunbird.export.button.tooltip         "Exporter des événements vers un fichier local" >
+<!ENTITY sunbird.import.button.tooltip         "Importer des évènements à partir d'un fichier local" >
+<!ENTITY sunbird.export.button.tooltip         "Exporter des évènements vers un fichier local" >
 <!ENTITY sunbird.subscribe.button.tooltip      "S'abonner à un agenda sur une machine distante" >
-<!ENTITY sunbird.publish.button.tooltip        "Publier des événements sur une machine distante" >
-<!ENTITY sunbird.unifinder.button.tooltip      "Rechercher et lister des événements" >
-<!ENTITY sunbird.edit.button.tooltip           "Modifier l'événement sélectionné" >
+<!ENTITY sunbird.publish.button.tooltip        "Publier des évènements sur une machine distante" >
+<!ENTITY sunbird.unifinder.button.tooltip      "Rechercher et lister des évènements" >
+<!ENTITY sunbird.edit.button.tooltip           "Modifier l'évènement sélectionné" >
 
 <!ENTITY sunbird.choosedate.button.label       "Choisir une date" >
 <!ENTITY sunbird.cut.button.label              "Couper" >

@@ -22,7 +22,7 @@
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Événement">
+<!ENTITY lightning.toolbar.newevent.label     "Évènement">
 <!ENTITY lightning.toolbar.newtask.label      "Tâches">
 
 <!-- Calendar and Task Mode Toolbar -->

@@ -48,7 +48,7 @@
 <!-- Menubar -->
 <!ENTITY event.menu.item.new.label "Nouveau">
 <!ENTITY event.menu.item.new.accesskey "N">
-<!ENTITY event.menu.item.new.event.label "Événement">
+<!ENTITY event.menu.item.new.event.label "Évènement">
 <!ENTITY event.menu.item.new.event.accesskey "v">
 <!ENTITY event.menu.item.new.task.label "Tâche">
 <!ENTITY event.menu.item.new.task.accesskey "T">
@@ -88,7 +88,7 @@
 <!ENTITY event.menu.view.accesskey "A">
 <!ENTITY event.menu.view.toolbars.label "Barre d'outils">
 <!ENTITY event.menu.view.toolbars.accesskey "t">
-<!ENTITY event.menu.view.toolbars.event.label "Barre d'outils des événements">
+<!ENTITY event.menu.view.toolbars.event.label "Barre d'outils des évènements">
 <!ENTITY event.menu.view.toolbars.event.accesskey "B">
 <!ENTITY event.menu.view.toolbars.customize.label "Personnaliser">
 <!ENTITY event.menu.view.toolbars.customize.accesskey "P">
@@ -119,11 +119,11 @@
 <!ENTITY event.menu.options.priority.high.accesskey "H">
 <!ENTITY event.menu.options.privacy.label "Confidentialité">
 <!ENTITY event.menu.options.privacy.accesskey "d">
-<!ENTITY event.menu.options.privacy.public.label "Événement public">
+<!ENTITY event.menu.options.privacy.public.label "Évènement public">
 <!ENTITY event.menu.options.privacy.public.accesskey "m">
 <!ENTITY event.menu.options.privacy.confidential.label "N'afficher que la date et l'heure">
 <!ENTITY event.menu.options.privacy.confidential.accesskey "r">
-<!ENTITY event.menu.options.privacy.private.label "Événement privé">
+<!ENTITY event.menu.options.privacy.private.label "Évènement privé">
 <!ENTITY event.menu.options.privacy.private.accesskey "t">
 <!ENTITY event.menu.options.show.time.label "Disponibilité">
 <!ENTITY event.menu.options.show.time.accesskey "o">
@@ -157,7 +157,7 @@
 <!ENTITY event.calendar.accesskey "g">
 <!ENTITY event.attendees.label "Participants :" >
 <!ENTITY event.attendees.accesskey "i" >
-<!ENTITY event.alldayevent.label "Événement sur la journée" >
+<!ENTITY event.alldayevent.label "Évènement sur la journée" >
 <!ENTITY event.alldayevent.accesskey "v">
 <!ENTITY event.from.label "Du :" >
 <!ENTITY event.from.accesskey "D">
