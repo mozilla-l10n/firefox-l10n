@@ -10,7 +10,7 @@
 <!ENTITY event.edit.event.key                   "d">
 <!ENTITY event.edit.event.accesskey             "e">
 
-<!ENTITY event.delete.event                     "Supprimer les événements sélectionnés">
+<!ENTITY event.delete.event                     "Supprimer les évènements sélectionnés">
 <!ENTITY event.delete.event.accesskey           "S">
 
 <!ENTITY event.delete.tasks                     "Supprimer les tâches sélectionnées">

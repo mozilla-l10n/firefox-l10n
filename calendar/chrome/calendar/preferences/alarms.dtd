@@ -21,13 +21,13 @@
 <!ENTITY pref.missedalarms "Afficher les alarmes manquées">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Paramètres d'alarme par défaut">
-<!ENTITY pref.defalarm4events.label "Paramètres d'alarme pour les événements :">
+<!ENTITY pref.defalarm4events.label "Paramètres d'alarme pour les évènements :">
 <!ENTITY pref.defalarm4events.accesskey "r">
 <!ENTITY pref.defalarm4todos.label "Paramètres d'alarme pour les tâches :">
 <!ENTITY pref.defalarm4todos.accesskey "e">
 <!ENTITY pref.alarm.on "Activée">
 <!ENTITY pref.alarm.off "Désactivée">
-<!ENTITY pref.defalarmlen4events.label "Temps de déclenchement d'une alarme avant un événement :">
+<!ENTITY pref.defalarmlen4events.label "Temps de déclenchement d'une alarme avant un évènement :">
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Temps de déclenchement d'une alarme avant une tâche :">
 <!ENTITY pref.defalarmlen4todos.accesskey "s">

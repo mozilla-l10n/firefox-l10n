@@ -4,7 +4,7 @@
 
 <!-- Event Menu -->
 
-<!ENTITY event.new.event                        "Nouvel événement…">
+<!ENTITY event.new.event                        "Nouvel évènement…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
@@ -38,7 +38,7 @@
 <!ENTITY calendar.menu.customize.label          "Personnaliser…">
 <!ENTITY calendar.menu.customize.accesskey      "l">
 
-<!ENTITY showUnifinderCmd.label                 "Recherche d'événements">
+<!ENTITY showUnifinderCmd.label                 "Recherche d'évènements">
 <!ENTITY showUnifinderCmd.accesskey             "c">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Afficher les tâches dans l'agenda">

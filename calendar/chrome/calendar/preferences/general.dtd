@@ -12,7 +12,7 @@
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Long " >
 <!ENTITY pref.dateformat.short "Court "  >
-<!ENTITY pref.defaultlength.label "Durée par défaut des événements :" >
+<!ENTITY pref.defaultlength.label "Durée par défaut des évènements :" >
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">

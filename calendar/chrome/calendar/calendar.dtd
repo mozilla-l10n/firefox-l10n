@@ -6,7 +6,7 @@
 <!ENTITY calendar.calendar.label     "Agendas">
 <!ENTITY calendar.calendar.accesskey "A">
 
-<!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel événement" >
+<!ENTITY calendar.newevent.button.tooltip         "Créer un nouvel évènement" >
 <!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tâches" >
@@ -16,15 +16,15 @@
 <!ENTITY calendar.tomorrow.button.label "Demain">
 <!ENTITY calendar.soon.button.label "Bientôt">
 
-<!ENTITY calendar.events.filter.all.label "Tous les événements">
-<!ENTITY calendar.events.filter.today.label "Événements du jour">
-<!ENTITY calendar.events.filter.future.label "Tous les événements futurs">
+<!ENTITY calendar.events.filter.all.label "Tous les évènements">
+<!ENTITY calendar.events.filter.today.label "Évènements du jour">
+<!ENTITY calendar.events.filter.future.label "Tous les évènements futurs">
 <!ENTITY calendar.events.filter.current.label "Jour courant">
-<!ENTITY calendar.events.filter.currentview.label "Événements dans la vue courante">
-<!ENTITY calendar.events.filter.next7Days.label "Événements des 7 prochains jours">
-<!ENTITY calendar.events.filter.next14Days.label "Événements des 14 prochains jours">
-<!ENTITY calendar.events.filter.next31Days.label "Événements des 31 prochains jours">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Événements du mois en cours">
+<!ENTITY calendar.events.filter.currentview.label "Évènements dans la vue courante">
+<!ENTITY calendar.events.filter.next7Days.label "Évènements des 7 prochains jours">
+<!ENTITY calendar.events.filter.next14Days.label "Évènements des 14 prochains jours">
+<!ENTITY calendar.events.filter.next31Days.label "Évènements des 31 prochains jours">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Évènements du mois en cours">
 
 <!ENTITY calendar.unifinder.tree.done.label              "Terminé">
 <!ENTITY calendar.unifinder.tree.done.tooltip            "Trier par échéance">
@@ -52,7 +52,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Trier par nom de l'agenda">
 <!ENTITY calendar.unifinder.tree.duration.label          "Terminé dans">
 <!ENTITY calendar.unifinder.tree.duration.tooltip        "Trier par temps restant">
-<!ENTITY calendar.unifinder.close.tooltip                "Fermer la liste de recherche d'événements et la liste des événements">
+<!ENTITY calendar.unifinder.close.tooltip                "Fermer la liste de recherche d'évènements et la liste des évènements">
 
 <!ENTITY calendar.today.button.tooltip          "Revenir à la date d'aujourd'hui" >
 <!ENTITY calendar.todaypane.button.tooltip      "Afficher le panneau Aujourd'hui" >
@@ -82,7 +82,7 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Mois suivant" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Mois précédent" >
 
-<!ENTITY calendar.newevent.button.label         "Nouvel événement" >
+<!ENTITY calendar.newevent.button.label         "Nouvel évènement" >
 <!ENTITY calendar.newtask.button.label          "Nouvelle tâche" >
 <!ENTITY calendar.print.button.label            "Imprimer" >
 
@@ -155,13 +155,13 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Ouvrir la tâche…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
-<!ENTITY calendar.context.newevent.label              "Nouvel événement…">
+<!ENTITY calendar.context.newevent.label              "Nouvel évènement…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nouvelle tâche…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
 <!ENTITY calendar.context.deletetask.label            "Supprimer la tâche">
 <!ENTITY calendar.context.deletetask.accesskey        "S">
-<!ENTITY calendar.context.deleteevent.label           "Supprimer l'événement">
+<!ENTITY calendar.context.deleteevent.label           "Supprimer l'évènement">
 <!ENTITY calendar.context.deleteevent.accesskey       "S">
 <!ENTITY calendar.context.cutevent.label              "Couper">
 <!ENTITY calendar.context.cutevent.accesskey          "C">
@@ -244,7 +244,7 @@
 <!ENTITY calendar.context.convertmenu.label "Convertir en">
 <!ENTITY calendar.context.convertmenu.accesskey.mail "C">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "n">
-<!ENTITY calendar.context.convertmenu.event.label "Événement…">
+<!ENTITY calendar.context.convertmenu.event.label "Évènement…">
 <!ENTITY calendar.context.convertmenu.event.accesskey "v">
 <!ENTITY calendar.context.convertmenu.message.label "Message…">
 <!ENTITY calendar.context.convertmenu.message.accesskey "M">
@@ -323,10 +323,10 @@
 <!ENTITY calendar.print.layout.label "Affichage :">
 <!ENTITY calendar.print.range.label "Période à imprimer">
 <!ENTITY calendar.print.currentView2.label "Vue courante">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Tâches et événements sélectionnés">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Tâches et évènements sélectionnés">
 <!ENTITY calendar.print.tasks.label "Tâches">
-<!ENTITY calendar.print.events.label "Événements">
-<!ENTITY calendar.print.selected.label "Événements sélectionnés">
+<!ENTITY calendar.print.events.label "Évènements">
+<!ENTITY calendar.print.selected.label "Évènements sélectionnés">
 <!ENTITY calendar.print.custom.label "Période personnalisée :">
 <!ENTITY calendar.print.from.label "Du :">
 <!ENTITY calendar.print.to.label "Au :">

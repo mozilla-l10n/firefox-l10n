@@ -11,7 +11,7 @@
 <!ENTITY lightning.preferencesLabel "Agenda">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Événement…">
+<!ENTITY lightning.menupopup.new.event.label    "Évènement…">
 <!ENTITY lightning.menupopup.new.event.accesskey "v">
 <!ENTITY lightning.menupopup.new.task.label     "Tâche…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
@@ -33,7 +33,7 @@
 <!ENTITY lightning.menu.view.tasks.accesskey           "T">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Événements et tâches">
+<!ENTITY lightning.menu.eventtask.label                "Évènements et tâches">
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- properties dialog, calendar creation wizard -->
