@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Bredd:">
 <!ENTITY image-height.label    "Höjd:">
 <!ENTITY image-filesize.label  "Filstorlek:">
+<!ENTITY image-filesize.value  "Okänd">
 <!ENTITY insdel-sec.label      "Lägg till/ta bort egenskaper">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Datum:">
