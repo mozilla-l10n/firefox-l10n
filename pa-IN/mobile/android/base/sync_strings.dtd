@@ -37,7 +37,7 @@
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label '&syncBrand.shortName.label; ਸੈਟਅੱਪ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਕੀ ਤੁਸੀਂ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ??'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਕੀ ਤੁਸੀਂ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ?'>
 <!ENTITY sync.button.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ'>
 <!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।'>
@@ -57,6 +57,15 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'ਚੋਣਾਂ'>
 <!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਨੂੰ ਆਪਣੇ &syncBrand.shortName.label; ਅਕਾਊਂਟ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
+
+
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'ਸਿੰਕ ਕਰੋ ਆਪਣੇ…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'ਬੁੱਕਮਾਰਕ'>
+<!ENTITY sync.configure.engines.title.passwords 'ਪਾਸਵਰਡ'>
+<!ENTITY sync.configure.engines.title.history 'ਅਤੀਤ'>
+<!ENTITY sync.configure.engines.title.tabs 'ਟੈਬ'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'ਰੱਦ ਕਰੋ'>

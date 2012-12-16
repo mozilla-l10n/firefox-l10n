@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਮੈਨੂੰ ਟਰੈਕ ਨਾ ਕਰਨ ਲਈ ਕਹੋ">
 <!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pref_cookies "ਕੂਕੀਜ਼ ਚਾਲੂ">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
 <!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਵੇਖਾਓ">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
 <!ENTITY pref_plugins_disabled "ਬੰਦ ਹੈ">
 <!ENTITY pref_text_size "ਟੈਕਸਟ ਆਕਾਰ">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "ਨਿੰਮਾ">
 <!ENTITY pref_font_size_small "ਛੋਟਾ">
 <!ENTITY pref_font_size_medium "ਮੱਧਮ">
@@ -98,11 +104,11 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_show_product_announcements "ਪ੍ਰੋਡੱਕਟ ਐਲਾਨ ਵੇਖਾਓ">
 <!ENTITY pref_sync "ਸਿੰਕ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
-<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_import_android "ਐਡਰਾਇਡ ਤੋਂ ਇੰਪੋਰਟ ਕਰੋ">
 <!ENTITY pref_private_data_history "ਬਰਾਊਜ਼ ਕਰਨ ਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata "ਫਾਰਮ ਤੇ ਖੋਜ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
@@ -110,6 +116,11 @@ size. -->
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings "ਸਾਈਟ ਪਸੰਦ">
+
+<!ENTITY pref_update_autodownload "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਹੀ">
+<!ENTITY pref_update_autodownload_disabled "ਬੰਦ ਹੈ">
+<!ENTITY pref_update_autodownload_enabled "ਚਾਲੂ ਹੈ">
 
 <!ENTITY quit "ਬੰਦ ਕਰੋ">
 
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY desktop_mode "ਡੈਸਕਟਾਪ ਸਾਈਟ ਦੀ ਮੰਗ">
 <!ENTITY tools "ਟੂਲ">
+<!ENTITY new_pb_tab "New Private Browsing Tab">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,14 +194,14 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ">
 <!ENTITY abouthome_last_tabs_open "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਸਭ ਟੈਬਾਂ ਖੋਲ੍ਹੋ">
 <!ENTITY abouthome_top_sites_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਟੈਬਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਸੈਟਅੱਪ ਕਕਰੋ&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "ਫਾਇਰਫਾਸ ਮੰਡੀ ਤੋਂ ਐਪਸ ਲਵੋ ਅਤੇ ਵੈਬ ਰਾਹੀਂ ਮਿਲਣ ਵਾਲੀਆਂ ਵਧੀਆ ਐਪਸ ਪ੍ਰਾਪਤ ਕਰੋ&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -198,9 +210,9 @@ size. -->
 <!ENTITY abouthome_apps_bold_name2 "ਫਾਇਰਫਾਕਸ ਮੰਡੀ">
 
 <!ENTITY filepicker_title "ਫਾਇਲ ਚੁਣੋ">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_audio_title "ਸਾਊਂਡ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
+<!ENTITY filepicker_image_title "ਤਸਵੀਰ ਚੁਣੋ ਜਾਂ ਖਿੱਚੋ">
+<!ENTITY filepicker_video_title "ਵਿਡੀਓ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਜੁੜੇ ਹੋਏ ਹੋ ">
@@ -215,7 +227,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "which is run by">
+<!ENTITY identity_run_by "ਜੋ ਕਿ ਚਲਾਈ ਜਾਂਦੀ ਹੈ">
 
 <!ENTITY private_data_success "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕੀਤਾ ਗਿਆ">
 <!ENTITY private_data_fail "ਕੁਝ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
