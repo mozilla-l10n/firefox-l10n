@@ -153,7 +153,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksButton.tooltip        "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ਬੁੱਕਮਾਰਕ">
@@ -171,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "ਅਤੀਤ">
 <!ENTITY historyButton.tooltip          "ਆਪਣੇ ਵਲੋਂ ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ ਪੇਜ਼ ਵੇਖੋ">
-<!ENTITY historySidebarCmd.accesskey    "s">
+
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ਟੂਲ">
@@ -201,6 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "ਵੈੱਬ ਕਨਸੋਲ">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "ਰਿਮੋ ਵੈੱਬ ਕਨਸੋਲ">
 
 <!ENTITY inspectMenu.label            "ਜਾਂਚ">
 <!ENTITY inspectMenu.accesskey        "T">
@@ -286,6 +286,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label        "ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "ਸੋਧ">
 <!ENTITY editMenu.accesskey       "E">
@@ -681,3 +683,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "ਵਾਪਿਸ">
 <!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
