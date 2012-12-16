@@ -289,6 +289,8 @@
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey	"r">
 <!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyListCmd.label "Svar till lista">
+<!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replySenderCmd.label "Svara endast avsändaren">
 <!ENTITY replySenderCmd.accesskey	"r">
 <!ENTITY replyNewsgroupCmd.label "Svar till diskussionsgruppen">
@@ -459,6 +461,8 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
+<!ENTITY contextReplyList.label "Svar till lista">
+<!ENTITY contextReplyList.accesskey "r">
 <!ENTITY contextReplyNewsgroup.label "Svar till diskussionsgruppen">
 <!ENTITY contextReplyNewsgroup.accesskey "v">
 <!ENTITY contextReplyAll.label "Svar till alla">
