@@ -249,32 +249,7 @@
 <!ENTITY viewAttachmentsInlineCmd.label "ਅਟੈਚਮੈਂਟ ਇਨਲਾਈਨ ਵੇਖਾਓ">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "ਜ਼ੂਮ ਇਨ">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "ਜ਼ੂਮ ਆਉਟ">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "ਮੁੜ-ਸੈੱਟ">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "ਜ਼ੂਮ">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "ਸੁਨੇਹਾ ਸਰੋਤ">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -332,7 +307,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "ਗੱਲਬਾਤ">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "ਤਾਰੇ ਵਾਲਾ ਸੁਨੇਹਾ">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "ਫੋਲਡਰ">

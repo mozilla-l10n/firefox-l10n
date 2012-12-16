@@ -12,13 +12,14 @@
 <!ENTITY highPriorityCmd.label "ਵੱਧ">
 <!ENTITY highestPriorityCmd.label "ਸਭ ਤੋਂ ਵੱਧ">
 
-<!ENTITY contextDesc.label "ਫਿਲਟਰ ਲਾਗੂ ਕਰੋ, ਜਦੋਂ:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "ਮੇਲ ਚੈੱਕ ਕਰੋ">
-<!ENTITY contextManual.label "ਖੁਦ ਚਲਾਓ">
-<!ENTITY contextBoth.label "ਜਦੋਂ ਮੇਲ ਚੈੱਕ ਕਰੋ ਜਾਂ ਖੁਦ ਚਲਾਓ">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
+<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+
 <!ENTITY filterActionDesc.label "ਇਹ ਐਕਸ਼ਨ ਕਰੋ:">
 <!ENTITY filterActionDesc.accesskey "P">
 
