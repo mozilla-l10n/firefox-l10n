@@ -623,3 +623,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "A">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Sélectionner les discussions">
+<!ENTITY social.chatBar.accesskey "S">
