@@ -17,6 +17,7 @@
 <!ENTITY reorderDownButton.accesskey "D">
 <!ENTITY reorderBottomButton "Move to Bottom">
 <!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
 <!ENTITY filterHeader.label "ਹੇਠਾਂ ਦਿੱਤੇ ਕ੍ਰਮ ਵਿੱਚ ਫਿਲਟਰ ਖੁਦ ਹੀ ਚਲਾਉਣੇ ਯੋਗ ਹਨ।">
 <!ENTITY filtersForPrefix.label "ਇਸ ਲਈ ਫਿਲਟਰ:">
 <!ENTITY filtersForPrefix.accesskey "F">
