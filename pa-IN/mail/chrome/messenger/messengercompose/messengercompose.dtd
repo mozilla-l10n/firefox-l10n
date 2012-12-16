@@ -137,8 +137,6 @@
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "ਡਿਲਵਰੀ ਫਾਰਮੈਟ">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY outputFormatMenu.label "ਫਾਰਮੈਟ">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "ਆਟੋਮੈਟਿਕ-ਖੋਜ">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "ਕੇਵਲ ਪਲੇਨ ਟੈਕਸਟ">

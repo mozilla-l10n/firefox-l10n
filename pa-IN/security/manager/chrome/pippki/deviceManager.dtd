@@ -25,7 +25,7 @@
 <!ENTITY loaddevice.modname "ਮੋਡੀਊਲ ਨਾਂ:">
 <!ENTITY loaddevice.modname.default "ਨਵਾਂ PKCS#11 ਮੋਡੀਊਲ">
 <!ENTITY loaddevice.filename "ਮੋਡੀਊਲ  ਫਾਇਲ ਨਾਂ:">
-<!ENTITY loaddevice.browse "ਝਲਕ...">
+<!ENTITY loaddevice.browse "...ਝਲਕ">
 
 <!ENTITY loaddevice.title "PKCS#11 ਜੰਤਰ ਲੋਡ ਕਰੋ">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">

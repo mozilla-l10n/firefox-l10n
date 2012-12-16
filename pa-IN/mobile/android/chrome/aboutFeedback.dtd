@@ -25,13 +25,13 @@
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Want to share the love by giving us a 5 star rating on Google Play?">
+<!ENTITY happy.message             "ਕੀ ਗੂਗਲ ਪਲੇਅ ਉੱਤੇ ਸਾਨੂੰ 5 ਤਾਰੇ ਲਗਾ ਕੇ ਪਿਆਰ ਸਾਂਝਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint           "ਇਸ ਨੂੰ ਮਿੰਟ ਤੋਂ ਘੱਟ ਲੱਗੇਗਾ ਅਤੇ ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਵੇਗੀ।">
 
-<!ENTITY happy.ratingLink          "ਹਾਂ, ਮੈਨੂੰ ਗੂਗਲ ਪਲੇਅ ਵਿੱਚ ਲੈ ਜਾਉ">
+<!ENTITY happy.ratingLink          "ਹਾਂ, ਮੈਨੂੰ ਗੂਗਲ ਪਲੇਅ 'ਚ ਜਾਉ">
 <!ENTITY happy.maybeLater          "ਬਾਅਦ ਵਿੱਚ ਵੇਖਾਂਗੇ">
 <!ENTITY happy.noThanks            "ਨਹੀਂ ਧੰਨਵਾਦ ਜੀ">
 
@@ -66,5 +66,5 @@
      something physical, which is why they can't see it.-->
 <!ENTITY idea.thanksMessageBottom  "You can't see it, but we're giving you a high five right now.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally indentifiable information in your feedback.">
+<!ENTITY feedback.privacy          "ਆਪਣੀ ਪਰਾਈਵੇਸੀ ਲਈ, ਆਪਣੇ ਸੁਝਾਆਵਾਂ ਵਿੱਚ ਕੋਈ ਵੀ ਨਿੱਜੀ ਪਛਾਣਯੋਗ ਜਾਣਕਾਰੀ ਸ਼ਾਮਿਲ ਨਾ ਕਰੋ।">
 <!ENTITY feedback.send             "ਸੁਝਾਅ ਭੇਜੋ">
