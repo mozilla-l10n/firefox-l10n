@@ -86,7 +86,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect 'Clé de récupération incorrecte. Veuillez réessayer.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Envoyer un onglet à tous les appareils'>
+<!ENTITY sync.title.send.tab.label 'Envoyer l\u0027onglet à d\u0027autres appareils'>
 <!ENTITY sync.button.send.label 'Envoyer'>
 <!ENTITY sync.button.set.up.sync.label 'Configurer &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l\u0027envoi d\u0027onglets'>
