@@ -11,8 +11,7 @@
 <!ENTITY blocklist.moreinfo          "Maklumat lanjut">
 
 <!ENTITY blocklist.accept.label      "Mula semula &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "r">
+<!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "Disekat">
 <!ENTITY blocklist.checkbox.label    "Lumpuhkan">
-

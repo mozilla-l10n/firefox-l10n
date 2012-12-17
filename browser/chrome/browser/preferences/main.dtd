@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "tunjukan laman yang kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
-<!ENTITY homepage.label            "laman utama:
-">
+<!ENTITY homepage.label            "laman utama:">
 <!ENTITY homepage.accesskey        "l">
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
 <!ENTITY useCurrentPage.accesskey  "S">
@@ -35,4 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">
-

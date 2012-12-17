@@ -10,7 +10,7 @@
 <!ENTITY     props.expires.label            "Luput:">
 
 <!ENTITY     button.allow.label             "Benarkan">
-<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.allow.accesskey         "a">
 <!ENTITY     button.session.label           "Benarkan Sessi">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Nafi">
@@ -18,5 +18,4 @@
 
 <!ENTITY     dialog.title                   "Pasti tetapan cookie">
 <!ENTITY     dialog.remember.label          "Guna pilihan saya untuk semua cookie daripada laman ini">
-<!ENTITY     dialog.remember.accesskey      "U">
-
+<!ENTITY     dialog.remember.accesskey      "u">

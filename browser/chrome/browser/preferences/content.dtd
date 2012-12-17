@@ -5,10 +5,10 @@
 <!ENTITY  blockPopups.label           "Sekat tetingkap pop-up">
 <!ENTITY  blockPopups.accesskey       "S">
 <!ENTITY  popupExceptions.label       "Pengecualian...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.accesskey   "e">
 
 <!ENTITY  loadImages.label            "Automatik muat imej">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.accesskey        "i">
 <!ENTITY  exceptions.label            "Pengecualian...">
 <!ENTITY  exceptions.accesskey        "n">
 
@@ -39,4 +39,3 @@
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
 <!ENTITY chooseButton.label           "Pilih...">
 <!ENTITY chooseButton.accesskey       "P">
-

@@ -10,7 +10,7 @@
 <!ENTITY  copy.accesskey        "S">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pilih Semua">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Am">
@@ -93,4 +93,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
 
 <!ENTITY  securityView.technical.header                 "Maklumat Teknikal">
-

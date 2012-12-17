@@ -5,7 +5,7 @@
 <!ENTITY lookInMenuList.label   "Cari di:">
 <!ENTITY lookInMenuList.accesskey   "L">
 <!ENTITY textInput.label        "Nama fail:">
-<!ENTITY textInput.accesskey        "n">
+<!ENTITY textInput.accesskey        "N">
 <!ENTITY filterMenuList.label   "Jenis fail:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Nama">
@@ -19,4 +19,3 @@
 <!ENTITY folderUp.tooltiptext   "Pergi satu paras ke atas">
 <!ENTITY folderHome.tooltiptext "Pergi ke laman utama">
 <!ENTITY folderNew.tooltiptext  "Mencipta direktori baru">
-

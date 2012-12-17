@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Umum">
 
@@ -27,7 +27,8 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Kembali ke Piawaian Sistem">
-<!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY setDefault.label                "Membuat &brandShortName; ke pelayar lalai">
 <!ENTITY setDefault.accesskey            "d">
@@ -48,13 +49,13 @@
 <!ENTITY httpCache.label                 "Cached Kandungan Web ">
 
 <!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
 <!ENTITY limitCacheSizeBefore.accesskey  "T">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
@@ -79,7 +80,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "I">
 
 <!ENTITY updateHistory.label             "Pamer Latar Kemaskini">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
@@ -113,11 +114,10 @@
 <!ENTITY certs.ask                       "Tanya saya setiap masa">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Lihat Sijil">
-<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewCRLs.label                  "Senarai TarikBalik">
-<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "tempoh masa sabelum masa tamat">
 <!ENTITY verify2.accesskey               "t">
 <!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
 <!ENTITY viewSecurityDevices.accesskey   "e">
-

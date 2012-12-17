@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from charsetOverlay.xul -->
+
 <!ENTITY charsetMenu.label             "Mengkod Aksara">
 <!ENTITY charsetMenu.accesskey         "M">
 <!ENTITY charsetMenuAutodet.label      "Auto-Kesan">
-<!ENTITY charsetMenuAutodet.accesskey  "a">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "Lagi Pengkodan">
 <!ENTITY charsetMenuMore.accesskey     "m">
 <!ENTITY charsetMenuMore1.label        "West European">
-<!ENTITY charsetMenuMore1.accesskey    "W">
+<!ENTITY charsetMenuMore1.accesskey    "w">
 <!ENTITY charsetMenuMore2.label        "East European">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Asia Timur">
@@ -23,4 +23,3 @@
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Senarai Penyesuaian...">
 <!ENTITY charsetCustomize.accesskey    "c">
-

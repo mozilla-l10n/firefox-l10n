@@ -7,4 +7,3 @@
 <!ENTITY enableOCSP.accesskey         "u">
 <!ENTITY requireOCSP.label            "Apabila penyambungan pelayar OCSP gagal, jadikan sijil tersebut tidak sah">
 <!ENTITY requireOCSP.accesskey        "A">
-

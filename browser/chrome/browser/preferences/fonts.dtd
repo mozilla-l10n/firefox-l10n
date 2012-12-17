@@ -15,7 +15,7 @@
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Berkadaran:">
-<!ENTITY  proportional.accesskey                  "K">
+<!ENTITY  proportional.accesskey                  "k">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.georgian                 "Georgian">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Cambodian">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
@@ -60,8 +60,8 @@
 <!ENTITY minSize.label                            "Saiz font minima:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "tiada">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
@@ -71,4 +71,3 @@
 <!ENTITY languages.customize.Charset.grouplabel         "Pengekodan Aksara">
 <!ENTITY languages.customize.DefaultCharset.label       "Mengkod Aksara Default:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "M">
-
