@@ -10,7 +10,6 @@
 <!ENTITY moveResizePopupWindows.label     "Pindah atau ubah saiz popup tetingkap">
 <!ENTITY moveResizePopupWindows.accesskey "P">
 <!ENTITY raiseLowerWindows.label        "Naikkan atau turunkan tetingkap">
-<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Lumpuhkan atau gantikan menu konteks">
 <!ENTITY disableContextMenus.accesskey  "g">
-

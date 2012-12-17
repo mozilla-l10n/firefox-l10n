@@ -77,15 +77,15 @@
 <!ENTITY certmgr.editca.label                 "Edit Percaya CA">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Tambah">
-<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.add.accesskey                "a">
 <!ENTITY certmgr.export.label                 "Eksport…">
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Hapus...">
 <!ENTITY certmgr.delete2.accesskey            "H">
 <!ENTITY certmgr.delete_builtin.label         "Menyingkirkan atau tidak mempercayai">
 <!ENTITY certmgr.delete_builtin.accesskey     "d">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backup2.label                "Sandar…">
+<!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Backup Semua">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "Import…">
@@ -112,4 +112,3 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "v">
 <!ENTITY exceptionMgr.permanent.label         "Simpan pengecualian ini secara tetap">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
-

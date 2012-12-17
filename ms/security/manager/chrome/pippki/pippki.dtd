@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title  "Tukar Kata laluan Induk">
 <!ENTITY setPassword.tokenName.label "Peranti Sekuriti">
 <!ENTITY setPassword.oldPassword.label "Katalaluan semasa:">
@@ -10,22 +10,22 @@
 <!ENTITY setPassword.reenterPassword.label "Katalaluan baru (lagi):">
 <!ENTITY setPassword.meter.label "Meter kualiti katalaluan">
 <!ENTITY setPassword.meter.loading "Memuat">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Ulang tetap">
 <!ENTITY resetPassword.title  "Ulang tetap Katalaluan Induk">
 <!ENTITY resetPassword.text  "Jika anda ulang tetap katalaluan induk, semua katalaluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kuni peribadi akan dilupakan. Adakah anda pasti untuk mengulangtetap katalaluan induk anda?">
-
 <!-- Values for getpassword.xul -->
+
 <!ENTITY getPassword.title  "Masukkan Katalaluan Induk">
 <!ENTITY getPassword.tokenName2.label "Peranti Keselamatan:">
 <!ENTITY getPassword.password.label "Katalaluan:">
-
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Ralat">
 <!ENTITY pipalert.title "Ralat - gagal dipulihkan">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Sekuriti">
 <!ENTITY pref.security.general.rHeader "Tetapan untuk keselamatan am">
 <!ENTITY pref.security.general.header "Tetapan untuk keselamatan am">
@@ -33,8 +33,8 @@
 <!ENTITY pref.security.general.paranoid.label "Guna tetapan sekuriti paranoid">
 <!ENTITY pref.security.general.certificates.title "Sijil">
 <!ENTITY pref.security.general.manageCert.label "Urus Sijil">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Memuaturun Sijil">
 <!ENTITY downloadCert.message1 "Anda telah ditanya untuk percayakan Autoriti Siil (CA) baru.">
 <!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
@@ -45,18 +45,18 @@
 <!ENTITY downloadCert.viewPolicy.label "Polisi">
 <!ENTITY downloadCert.viewCert.text "Periksa sijil CA">
 <!ENTITY downloadCert.viewPolicy.text "Periksa polis dan prosedur CA">
-
 <!-- Certificate Exists in database -->
+
 <!ENTITY caCertExists.title "Sijil Wujud">
 <!ENTITY caCertExists.message "Sijil sedia wujud.">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Permohonan Pengenalan Pengguna">
 <!ENTITY clientAuthAsk.message1 "Laman ini telah memohon anda untuk memperkenalkan diri dengan sijil:">
 <!ENTITY clientAuthAsk.message2 "Pilih sijil untuk dijadikan sebagai pengenalan:">
 <!ENTITY clientAuthAsk.message3 "Perincian sijil terpilih:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Pilih Sijil">
 <!ENTITY certPicker.info  "Sijil:">
 <!ENTITY certPicker.detailsLabel "Perincian sijil terpilih:">
@@ -81,18 +81,18 @@
 <!ENTITY examineCert.accesskey "V">
 
 <!ENTITY serverCrlNextupdate.message "Sila bertanya pentadbir sistem anda untuk bantuan">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Menjana Kucni Peribadi">
 <!ENTITY createCertInfo.msg1 "Penjanaan Kunci sedang dilakukan... Ini akan mengambil sedikit masa...">
 <!ENTITY createCertInfo.msg2 "Sila tunggu...">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Permohonan Menanda Teks">
 <!ENTITY formSigning.cert "Menanda Sijil">
 <!ENTITY formSigning.confirmPassword "Untuk memastikan yang anda setuju untuk menanda mesej teks ini menggunakan sijil yang dipilih, sila pastikan dengan memasukkan katalaluan induk:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "Token pengesahan dilindungi">
 <!ENTITY protectedAuth.msg "Sila buat pengesahan kepada token. Kaedah pengesahan adalah bergantung kepada jenis token anda.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
@@ -100,4 +100,3 @@
 <!ENTITY certErrorDlg.title "Sambungan yang selamat gagal">
 <!ENTITY certErrorDlg.info1 "Ini adalah mungkin permasalahan melibatkan konfigurasi server atau berkemungkinan juga seseorang sedang mencuba membuat penyamaran sebagai server.">
 <!ENTITY certErrorDlg.info2 "Kalau anda dapat menyambung pelayar ini dengan kejayaan, ralat mungkin telah dilalui dan anda boleh cuba kemudian.">
-

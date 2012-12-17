@@ -1,4 +1,0 @@
-<!ENTITY startDescription.label "Sebuah laman web cuba membuka tetingkap popup tanpa keizinan anda. &brandShortName; telah menutup tetingkap popup tersebut secara automatik.  Apabila &brandShortName; menghalang popup ini, anda akan lihat ikon dalam bar status.">
-<!ENTITY endDescription.label "Anda boleh klik ikon ini untuk melihat laman mana yang dihalang oleh &brandShortName; dan untuk membolehkan popup dibuka sekiranya ia diperlukan agar laman berfungsi dengan baik.">
-<!ENTITY caption.label "Perihal Menghalang Popup">
-<!ENTITY done.label "Selesai">

@@ -28,4 +28,3 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai laman web palsu dan telah dihalang berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Pemalsuan web adalah direka untuk menjerat anda bagi mendedahkan maklumat peribadi atau maklumat kewangan dengan meniru sumber yang anda percaya.</p><p>Segala maklumat yang dimasukkan ke dalam halaman ini boleh menyebabkan kecurian identiti atau lain-lain masalah.</p>">
-

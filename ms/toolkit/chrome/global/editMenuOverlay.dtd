@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "ubahsuai">
-<!ENTITY editMenu.accesskey        "S">
+<!ENTITY editMenu.accesskey        "s">
 <!ENTITY undoCmd.label             "Batalkan">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "u">
@@ -33,4 +33,3 @@
 <!ENTITY findAgainCmd.accesskey    "g">
 <!ENTITY findPreviousCmd.label     "Cari Terdahulu">
 <!ENTITY findPreviousCmd.accesskey "v">
-

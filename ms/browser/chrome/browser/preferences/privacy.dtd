@@ -33,7 +33,7 @@
 <!ENTITY  askEachTime.label             "tanya saya setiap kali">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian...">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "e">
 
 <!ENTITY  showCookies.label             "Tunjuk Cookie...">
 <!ENTITY  showCookies.accesskey         "C">
@@ -46,10 +46,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelungsuran, muaturun, borang, dan pencarian anda serta menyimpan cookies daripada laman Web yang anda layari.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
 <!ENTITY  rememberActions.clearHistory.label  "Hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
@@ -57,9 +57,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "Anda mungkin juga mahu ">
 <!ENTITY  dontrememberActions.clearHistory.label "hapuskan semua sejarah layaran semasa">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -78,4 +78,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Tetapan...">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
-

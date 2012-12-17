@@ -1,7 +1,0 @@
-<!ENTITY phishDlg.title "Terma Servis Perlindungan Phising">
-<!ENTITY phishDlg.height "40em">
-<!ENTITY phishDlg.width "35em">
-<!ENTITY acceptToS.label "Saya terima terma servis Perlindungan Phising ini">
-<!ENTITY declineToS.label "Saya TIDAK terima terma servis Perlindungan Phising ini">
-<!ENTITY accept.label "Terima dan Teruskan">
-<!ENTITY cancel.label "Batal">

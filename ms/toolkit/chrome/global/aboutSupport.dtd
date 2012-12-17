@@ -3,15 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
-
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're 
+trying to solve a problem. If you are looking for answers to common questions 
+about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
+
+<!ENTITY aboutSupport.extensionsTitle "Sambungan">
 <!ENTITY aboutSupport.extensionName "Nama">
 <!ENTITY aboutSupport.extensionEnabled "Bolehkan">
 <!ENTITY aboutSupport.extensionVersion "Versi">
@@ -45,8 +43,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pengubahan rujukan pilihan yang penting">
 <!ENTITY aboutSupport.modifiedPrefsName "Nama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
-
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
 <!ENTITY aboutSupport.userJSTitle "Keutamaan user.js">
 <!ENTITY aboutSupport.userJSDescription "Profil folder anda mengandungi satu <a id='prefs-user-js-link'>fail user.js</a>, dimana termasuk tetapan yang tidak dilakukan oleh &brandShortName; .">
 
@@ -66,4 +64,3 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">
-

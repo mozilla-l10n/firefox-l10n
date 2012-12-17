@@ -32,4 +32,3 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Kegagalan Kemaskini Berturut-turut sebelumnya:">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Perincian mengenai Kegagalan Kemaskini Terakhir :">
 <!ENTITY  edit.button                             "Tetapan">
-

@@ -9,4 +9,3 @@
 <!ENTITY noConfig.label             "Aplikasi ini belum ditetapkan untuk memaparkan laporan-laporan kerosakan. Peraturan <code>breakpad.reportURL</code> mesti ditetapkan.">
 <!ENTITY clearAllReports.label      "Buang Semua Laporan">
 
-

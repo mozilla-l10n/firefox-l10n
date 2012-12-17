@@ -16,7 +16,7 @@
 <!ENTITY deleteCmd.accesskey "d">
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellUndoAddToDictionary.label "Undur telah ditambah ke dalam kamus">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Semak Ejaan">
@@ -24,4 +24,3 @@
 <!ENTITY spellNoSuggestions.label "(Tiada cadangan ejaan)">
 <!ENTITY spellDictionaries.label "Bahasa">
 <!ENTITY spellDictionaries.accesskey "l">
-

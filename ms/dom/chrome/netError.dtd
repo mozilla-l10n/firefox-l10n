@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Ralat Memuatkan Laman">
 <!ENTITY retry.label "Cuba Lagi">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Tidak dapat Menyambung ">
 <!ENTITY connectionFailure.longDesc "<p>Walaupun tapak itu kelihatan sah, tetapi pelungsur tidak dapat mendirikan sambungan.</p><ul><li>Mungkinkah tapak itu tidak wujud buat sementata waktu? Cuba lagi kemudian.</li><li>Adakah anda juga tidak dapat melayari tapak lain?  Periksa sambungan rangkaian komputer anda.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
@@ -32,18 +32,15 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada didalam cache pelayar.</p><ul><li>Untuk langkah keselamatan, dokumen sensitif tidak akan diminta semula oleh pelayar secara automatik. </li><li>sila klik semula untuk meminta dokumen tersebut dari laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod Luar Talian">
-<!ENTITY netOffline.longDesc2 "<p>Browser ini beroperasi dalam mod offline dan tidak boleh disambungkan ke item yang diminta.</p><ul><li>Komputer ini bersambung dengan jaringan aktif?</li><li>Tekan &quot;Cuba Lagi&quot; untuk tukar ke mod di talian dan memuatkan laman kembali.</li></ul>
-
-">
+<!ENTITY netOffline.longDesc2 "<p>Browser ini beroperasi dalam mod offline dan tidak boleh disambungkan ke item yang diminta.</p><ul><li>Komputer ini bersambung dengan jaringan aktif?</li><li>Tekan &quot;Cuba Lagi&quot; untuk tukar ke mod di talian dan memuatkan laman kembali.</li></ul>">
 
 <!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang anda cuba lihat tidak dapat dipaparkan kerana ia menggunakan bentuk pemampatan yang tidak sah atau tidak disokong.</p><ul><li>Sila hubungi pemilik laman untuk memaklumkan masalah ini.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
-<!ENTITY unsafeContentType.longDesc "<ul>
- <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Sambungan Terganggu">
 <!ENTITY netReset.longDesc "<p>Talian rangkaian terganggu ketika perundingan rangkaian. Sila cuba lagi.</p>">
@@ -73,10 +70,8 @@
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li><li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li></ul>">
 
 <!ENTITY malwareBlocked.title "Laman Serangan Disyaki!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Disyaki laman palsu!">
 <!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p> <p>Pemalsuan web ini digunakan oleh komplot tertentu yang dikenali sebagai serangan phishing, di mana pemalsuan laman web dan email digunakan untuk meniru sumber-sumber yang dipercayai.</p>">
@@ -85,17 +80,14 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Ralat Kandungan Rosak">
-<!ENTITY corruptedContentError.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>
-
-">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">
 
 <!ENTITY remoteXUL.title "Capaian jauh XUL">
 <!ENTITY remoteXUL.longDesc "Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini">
-
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
      Please, try to keep this at the end of the file. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-

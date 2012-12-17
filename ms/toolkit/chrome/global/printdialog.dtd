@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printdialog.xul -->
+
 
 <!ENTITY printButton.label "Cetak">
 
@@ -11,7 +11,7 @@
 <!ENTITY fpDialog.title "Simpan Fail">
 
 <!ENTITY fileCheck.label "Cetak ke Fail">
-<!ENTITY fileCheck.accesskey "c">
+<!ENTITY fileCheck.accesskey "C">
 <!ENTITY propertiesButton.label "Ciri...">
 <!ENTITY propertiesButton.accesskey "C">
 <!ENTITY descText.label "Huraian Pencetak:">
@@ -21,25 +21,24 @@
 
 <!ENTITY printrangeGroup.label "Julat Pencetak">
 <!ENTITY allpagesRadio.label "Semua Laman">
-<!ENTITY allpagesRadio.accesskey "s">
+<!ENTITY allpagesRadio.accesskey "S">
 <!ENTITY rangeRadio.label  "Laman">
-<!ENTITY rangeRadio.accesskey  "l">
+<!ENTITY rangeRadio.accesskey  "L">
 <!ENTITY frompageInput.label  "daripada">
 <!ENTITY frompageInput.accesskey  "d">
 <!ENTITY topageInput.label  "kepada">
 <!ENTITY topageInput.accesskey  "k">
 <!ENTITY selectionRadio.label "Pemilihan">
-<!ENTITY selectionRadio.accesskey "p">
+<!ENTITY selectionRadio.accesskey "P">
 
 <!ENTITY copies.label "Salinan">
 <!ENTITY numCopies.label "Bilangan salinan:">
-<!ENTITY numCopies.accesskey "b">
+<!ENTITY numCopies.accesskey "B">
 
 <!ENTITY printframeGroup.label "Cetak Bingkai">
 <!ENTITY aslaidoutRadio.label "Seperti yang dibentangkan pada skrin">
-<!ENTITY aslaidoutRadio.accesskey "s">
+<!ENTITY aslaidoutRadio.accesskey "S">
 <!ENTITY selectedframeRadio.label  "Bingkai terpilih">
-<!ENTITY selectedframeRadio.accesskey  "b">
+<!ENTITY selectedframeRadio.accesskey  "B">
 <!ENTITY eachframesepRadio.label  "Setiap bingkai berasingan">
 <!ENTITY eachframesepRadio.accesskey  "S">
-

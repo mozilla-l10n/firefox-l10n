@@ -8,14 +8,14 @@
 
 <!ENTITY  columnLabel.name          "Nama">
 <!ENTITY  columnLabel.keyword       "Kata kunci">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Pindah Atas">
 <!ENTITY  up.accesskey              "A">
 <!ENTITY  dn.label                  "Pindah Bawah">
 <!ENTITY  dn.accesskey              "B">
 <!ENTITY  remove.label              "Singkir">
-<!ENTITY  remove.accesskey          "R">
+<!ENTITY  remove.accesskey          "r">
 <!ENTITY  edit.label                "Sunting Kata kunci">
 <!ENTITY  edit.accesskey            "t">
 
@@ -27,4 +27,3 @@
 
 <!ENTITY  restoreDefaults.label     "Pulihkan Ke Asal">
 <!ENTITY  restoreDefaults.accesskey "e">
-

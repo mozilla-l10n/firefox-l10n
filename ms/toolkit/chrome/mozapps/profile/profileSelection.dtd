@@ -15,13 +15,13 @@
 <!ENTITY            availprofiles.label    "Profil Yang Ada">
 
 <!ENTITY            newButton.label        "Mencipta Profil...">
-<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            newButton.accesskey    "c">
 <!ENTITY            renameButton.label     "Menamakan Profil...">
-<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Memadam Profil...">
-<!ENTITY            deleteButton.accesskey "D">
-
+<!ENTITY            deleteButton.accesskey "d">
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "&brandShortName; menyimpan maklumat perihal tetapan anda, keutamaan, dan item pengguna lain dalam profil pengguna anda.">
 
 <!ENTITY            offlineState.label    "Bekerja Luar Talian">
@@ -29,4 +29,3 @@
 
 <!ENTITY            autoSelect.label       "Jangan tanya pada permulaan">
 <!ENTITY            autoSelect.accesskey   "J">
-
