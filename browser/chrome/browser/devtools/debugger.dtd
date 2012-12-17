@@ -117,7 +117,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 <!ENTITY debuggerUI.addWatch            "Lägg till bevakningsuttryck">
-<!ENTITY debuggerUI.addWatch.key        "b">
+<!ENTITY debuggerUI.addWatch.key        "L">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
