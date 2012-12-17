@@ -1,4 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
+<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hỗ trợ">
 <!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
@@ -9,10 +16,10 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
 <!ENTITY aboutPage.checkForUpdates.found        "Có cập nhật">
-
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
+
+
 <!ENTITY aboutPage.licenseLink                  "Thông tin giấy phép">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">

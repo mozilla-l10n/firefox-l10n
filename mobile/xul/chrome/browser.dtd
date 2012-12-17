@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "Nhập Tìm kiếm hoặc Địa chỉ">
 
 <!ENTITY back.label            "Lùi">
@@ -7,6 +11,7 @@
 <!ENTITY go.label              "Đi">
 <!ENTITY star.label            "Đánh dấu">
 
+<!ENTITY showTabs.label        "Show Tabs">
 <!ENTITY newtab.label          "Thẻ Mới">
 <!ENTITY closetab.label        "Đóng Thẻ">
 
@@ -15,6 +20,7 @@
 <!ENTITY copyAll.label         "Chép Toàn Bộ">
 <!ENTITY copylink.label        "Chép Địa Chỉ Liên Kết">
 <!ENTITY paste.label           "Dán">
+<!ENTITY pasteAndGo.label      "Paste &amp; Go">
 <!ENTITY delete.label          "Xóa">
 <!ENTITY selectAll.label       "Chọn Toàn Bộ">
 <!ENTITY noSuggestions.label   "(Không có gợi ý)">
@@ -50,7 +56,6 @@
 <!ENTITY addonShowPage.label       "Chuyển đến Trang">
 
 <!ENTITY downloadsHeader.label     "Tải xuống">
-
 <!ENTITY downloadShowPage.label    "Chuyển đến Trang">
 <!ENTITY downloadShow2.label       "Tìm">
 <!ENTITY downloadOpen2.label       "Mở">
@@ -68,6 +73,7 @@
 <!ENTITY bookmarkPopup.label       "Trang đã được Đánh dấu">
 <!ENTITY bookmarkRemove.label      "Xóa">
 <!ENTITY bookmarkEdit.label        "Chỉnh sửa">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
 <!ENTITY identity.connectedTo2 "Kết nối tới">
@@ -91,8 +97,11 @@
 <!ENTITY consoleErrColumn.label    "Cột:">
 
 <!ENTITY contextOpenInNewTab.label    "Mở Liên Kết trong Thẻ Mới">
-<!ENTITY contextSaveLink.label        "Lưu Liên Kết">
 <!ENTITY contextSaveImage.label       "Lưu Ảnh">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
 <!ENTITY contextShareLink.label       "Chia sẻ Liên kết">
 <!ENTITY contextShareImage.label      "Chia sẻ Hình ảnh">
 <!ENTITY contextBookmarkLink.label    "Đánh dấu Liên kết">
@@ -103,10 +112,12 @@
 <!ENTITY contextFullScreen.label      "Toàn màn hình">
 <!ENTITY contextEditBookmark.label    "Chỉnh sửa">
 <!ENTITY contextRemoveBookmark.label  "Xóa">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
 
 <!ENTITY pageactions.saveas.pdf      "Lưu dưới dạng PDF">
 <!ENTITY pageactions.share.page      "Chia sẻ Trang">
 <!ENTITY pageactions.password.forget "Quên mật khẩu">
+<!ENTITY pageactions.quit            "Quit">
 <!ENTITY pageactions.reset           "Xóa trắng Tùy chỉnh của Trang">
 <!ENTITY pageactions.findInPage      "Tìm trong Trang">
 <!ENTITY pageactions.search.addNew   "Thêm Máy Tìm Kiếm">
