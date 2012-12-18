@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 "-"> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 "-"> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Större">
 <!ENTITY increaseFontSize.accesskey "t">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "+"> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "+"> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Storlek">
 <!ENTITY fontSizeMenu.accesskey "o">
