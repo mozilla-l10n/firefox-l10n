@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "網頁主控台">
 
-<!ENTITY networkPanel.requestURL                  "請求 URL">
-<!ENTITY networkPanel.requestMethod               "請求方法">
-<!ENTITY networkPanel.statusCode                  "狀態代碼">
+<!ENTITY networkPanel.requestURLColon             "請求 URL:">
+<!ENTITY networkPanel.requestMethodColon          "請求方法:">
+<!ENTITY networkPanel.statusCodeColon             "狀態代碼:">
 
 <!ENTITY networkPanel.requestHeaders              "請求標頭">
 <!ENTITY networkPanel.requestCookie               "已送出的 Cookie">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "送出的表單資料">
 
 <!ENTITY networkPanel.responseHeaders             "回應標頭">
+<!ENTITY networkPanel.responseCookie              "收到的 Cookie">
 <!ENTITY networkPanel.responseBody                "回應內容">
 <!ENTITY networkPanel.responseBodyCached          "已快取的資料">
 <!ENTITY networkPanel.responseBodyUnknownType     "未知的 Content Type">
@@ -59,30 +60,9 @@
 <!ENTITY btnConsoleWarnings     "警告">
 <!ENTITY btnConsoleLog          "記錄">
 
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-<!ENTITY btnPosition.label     "位置">
-
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "網頁主控台要顯示於網頁內容的上面或下面">
-
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-<!ENTITY positionMenu.above    "上面">
-
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-<!ENTITY positionMenu.below    "下面">
-
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-<!ENTITY positionMenu.window   "視窗">
-
 <!ENTITY filterBox.placeholder "過濾條件">
 <!ENTITY btnClear.label        "清除">
 <!ENTITY btnClear.tooltip      "清除網頁主控台輸出內容">
-<!ENTITY btnClose.tooltip      "關閉網頁主控台">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->

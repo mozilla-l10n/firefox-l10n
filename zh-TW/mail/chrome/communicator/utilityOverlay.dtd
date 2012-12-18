@@ -56,7 +56,7 @@
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "x">
 
-<!ENTITY quitApplicationCmdUnix.label  "結束">
+<!ENTITY quitApplicationCmdUnix.label  "離開">
 <!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
 <!ENTITY quitApplicationCmdMac.label  "結束 &brandShortName;">

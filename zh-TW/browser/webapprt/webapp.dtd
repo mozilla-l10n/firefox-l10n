@@ -13,7 +13,7 @@
 
 <!ENTITY quitApplicationCmdWin.label        "結束">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "結束">
+<!ENTITY quitApplicationCmd.label           "離開">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name

@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the Remove Connection strings.
+  - The Remote Connection window can be start by running the command:
+  - `devtools connect`
+  - -->
+
+<!ENTITY title      "連線">
+<!ENTITY host       "主機:">
+<!ENTITY port       "Port:">
+<!ENTITY connect    "連線">
+<!ENTITY connecting "連線中…">
+<!ENTITY availability "可用的遠端物件:">
+
