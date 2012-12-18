@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "允許 &searchIntegration.engineName; 搜尋郵件">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "立刻檢查">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "立刻檢查…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "進階組態">
 <!ENTITY configEdit.label              "組態編輯器…">
 <!ENTITY configEdit.accesskey          "C">

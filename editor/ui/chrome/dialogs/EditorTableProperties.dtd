@@ -52,7 +52,7 @@
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "儲存格樣式:">
 <!ENTITY cellStyle.accessKey              "C">
-<!ENTITY cellNormal.label                 "正常">
+<!ENTITY cellNormal.label                 "標準">
 <!ENTITY cellHeader.label                 "標頭">
 <!ENTITY cellTextWrap.label               "文字斷行:">
 <!ENTITY cellTextWrap.accessKey           "T">

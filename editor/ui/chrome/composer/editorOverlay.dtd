@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "選擇字型大小">
 <!ENTITY decreaseFontSize.label "減少">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "增加">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "大小">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -289,7 +289,7 @@
 <!ENTITY pasteToolbarCmd.tooltip "貼上">
 <!ENTITY printToolbarCmd.label "列印">
 <!ENTITY printToolbarCmd.tooltip "列印此頁">
-<!ENTITY findToolbarCmd.label "搜尋">
+<!ENTITY findToolbarCmd.label "尋找">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
 <!ENTITY spellToolbarCmd.tooltip "在整頁或選取文字中檢查拼字">

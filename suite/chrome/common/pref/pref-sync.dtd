@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "重設同步">
 <!ENTITY resetSync.accesskey          "R">
-<!ENTITY deactivateDevice.label       "停止同步此裝置">
-<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY unlinkDevice.label           "解除此裝置的連結">
+<!ENTITY unlinkDevice.accesskey       "D">
 <!ENTITY addDevice.label              "新增裝置">
 <!ENTITY addDevice.accesskey          "A">
 
