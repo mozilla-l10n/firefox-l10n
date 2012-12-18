@@ -58,4 +58,4 @@
 <!ENTITY report.unavailable                                  "沒有可用的報表。">
 
 <!ENTITY plugin.file                                         "檔案">
-<!ENTITY plugin.mimeTypes                                    "Telemetry 資料">
+<!ENTITY plugin.mimeTypes                                    "MIME 類型">
