@@ -46,6 +46,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Nimi">
 <!ENTITY aboutSupport.modifiedPrefsValue "Arvo">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js-asetukset">
+<!ENTITY aboutSupport.userJSDescription "Profiilisi sisältää <a id='prefs-user-js-link'>user.js-tiedoston</a>, joka sisältää muiden kuin &brandShortName;in määrittelemät asetukset.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafiikka">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
