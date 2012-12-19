@@ -53,10 +53,10 @@
 <!ENTITY debuggerUI.showPanesOnInit     "Mostrar vistas al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
-  -  checkbox that toggles visibility of a designated variables searchbox. -->
-<!ENTITY debuggerUI.showVarsSearch      "Mostrar búsqueda de variables">
-<!ENTITY debuggerUI.showVarsSearch.key  "V">
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
+  -  checkbox that toggles visibility of a designated variables filter box. -->
+<!ENTITY debuggerUI.showVarsFilter      "Mostrar filtro de variables">
+<!ENTITY debuggerUI.showVarsFilter.key  "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -102,6 +102,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak         "Add breakpoint">
+<!ENTITY debuggerUI.seMenuBreak.key     "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional

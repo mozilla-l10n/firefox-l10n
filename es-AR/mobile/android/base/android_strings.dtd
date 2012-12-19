@@ -54,7 +54,6 @@
 <!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY new_tab "Nueva pestaña">
 <!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -150,6 +149,7 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
+<!ENTITY contextmenu_open_new_private_tab "Abrir en pestaña privada nueva">
 <!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
