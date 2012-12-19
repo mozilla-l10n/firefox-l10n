@@ -16,29 +16,63 @@
 <!ENTITY debuggerMenu.label2          "Virheiden jäljittäjä">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools meny entry of Debugger that opens the debugger UI. -->
+  -  Tools menu entry of Debugger that opens the debugger UI. -->
 <!ENTITY debuggerMenu.accesskey         "V">
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label    "Etävirheiden jäljittäjä">
+<!ENTITY remoteDebuggerMenu.label    	"Virheiden etäjäljittäjä">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label    "Selaimen virheiden jäljittäjä">
+<!ENTITY chromeDebuggerMenu.label    	"Selaimen virheiden jäljittäjä">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey     "S">
+<!ENTITY debuggerMenu.commandkey     	"S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip        "Sulje">
+<!ENTITY debuggerUI.closeButton.tooltip "Sulje">
+
+<!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
+  -  the button that opens up an options context menu for the debugger UI. -->
+<!ENTITY debuggerUI.optsButton.tooltip  "Virheiden jäljittäjän asetukset">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions          "Pysäytä poikkeuksissa">
+<!ENTITY debuggerUI.pauseExceptions     "Pysäytä poikkeuksissa">
+<!ENTITY debuggerUI.pauseExceptions.key "o">
+
+<!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
+  -  checkbox that toggles visibility of panes when opening the debugger. -->
+<!ENTITY debuggerUI.showPanesOnInit     "Näytä paneelit käynnistettäessä">
+<!ENTITY debuggerUI.showPanesOnInit.key "k">
+
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
+  -  checkbox that toggles visibility of a designated variables searchbox. -->
+<!ENTITY debuggerUI.showVarsSearch      "Näytä muuttujien hakukenttä">
+<!ENTITY debuggerUI.showVarsSearch.key  "h">
+
+<!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
+  -  checkbox that toggles visibility of hidden (non-enumerable) variables and
+  -  properties in stack views. -->
+<!ENTITY debuggerUI.showNonEnums        "Näytä piilotetut ominaisuudet">
+<!ENTITY debuggerUI.showNonEnums.key    "t">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operaattorit">
+
+<!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
+  -  appears in the conditional breakpoint panel popup as a description. -->
+<!ENTITY debuggerUI.condBreakPanelTitle "Tämä pysäytyskohta pysäyttää suorituksen kun seuraava lause on tosi">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for adding a breakpoint. -->
+<!ENTITY debuggerUI.seMenuBreak         "Lisää pysäytyskohta">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
+  -  appears in the source editor context menu for adding a conditional
+  -  breakpoint. -->
+<!ENTITY debuggerUI.seMenuCondBreak     "Lisää ehdollinen pysäytyskohta">
