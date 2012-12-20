@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Ilmoita sivustoille, etten halua niiden seuraavan minua">
 <!ENTITY pref_telemetry "Lähetä suorituskykytietoja">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
-<!ENTITY pref_cookies "Salli evästeet">
+
+<!ENTITY pref_cookies_menu "Evästeet">
+<!ENTITY pref_cookies_accept_all "Sallittu">
+<!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
+<!ENTITY pref_cookies_disabled "Estetty">
+
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
 <!ENTITY pref_char_encoding_off "Älä näytä valikkoa">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toista painamalla">
 <!ENTITY pref_plugins_disabled "Pois käytöstä">
 <!ENTITY pref_text_size "Tekstin koko">
+<!ENTITY pref_reflow_on_zoom2 "Asettele teksti uudestaan nipistämällä">
 <!ENTITY pref_font_size_tiny "Todella pieni">
 <!ENTITY pref_font_size_small "Pieni">
 <!ENTITY pref_font_size_medium "Keskikoko">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
 <!ENTITY pref_private_data_siteSettings "Sivustoasetukset">
 
+<!ENTITY pref_update_autodownload "Automaattiset päivitykset">
+<!ENTITY pref_update_autodownload_wifi "Vain Wi-Fi -yhteydellä">
+<!ENTITY pref_update_autodownload_disabled "Pois päältä">
+<!ENTITY pref_update_autodownload_enabled "Päällä">
+
 <!ENTITY quit "Lopeta">
 
 <!ENTITY addons "Lisäosat">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Etsi sivulta">
 <!ENTITY desktop_mode "Sivuston työpöytäversio">
 <!ENTITY tools "Työkalut">
+<!ENTITY new_pb_tab "Uusi yksityisen selauksen välilehti">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Viime kerralla avoimet välilehdet">
 <!ENTITY abouthome_last_tabs_open "Avaa kaikki välilehdet viime kerralta">
 <!ENTITY abouthome_top_sites_title "Useimmin avatut">
-<!ENTITY abouthome_top_sites_browse "Selaa useimmin avattuja sivustoja">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Asetukset'>
 <!ENTITY sync.summary.pair.label 'Liitä uusi laite &syncBrand.shortName.label;-palvelun tiliisi'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Mitä synkronoidaan'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synkronoi…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Kirjanmerkit'>
+<!ENTITY sync.configure.engines.title.passwords 'Salasanat'>
+<!ENTITY sync.configure.engines.title.history 'Sivuhistoria'>
+<!ENTITY sync.configure.engines.title.tabs 'Välilehdet'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Peruuta'>
 <!ENTITY sync.button.connect.label 'Yhdistä'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Tuemme vain yhtä &syncBrand.fullName.label; -tiliä.'>
+<!ENTITY sync.notification.configure.saved 'Asetukset tallennettiin.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Virheellinen käyttäjätunnus tai salasana.'>
