@@ -46,24 +46,24 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pause sur les exceptions">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.pauseExceptions.key "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 <!ENTITY debuggerUI.showPanesOnInit     "Panneaux développés au démarrage">
-<!ENTITY debuggerUI.showPanesOnInit.key "D">
+<!ENTITY debuggerUI.showPanesOnInit.key "d">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 <!ENTITY debuggerUI.showVarsFilter      "Afficher la boîte de filtrage des variables">
-<!ENTITY debuggerUI.showVarsFilter.key  "V">
+<!ENTITY debuggerUI.showVarsFilter.key  "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 <!ENTITY debuggerUI.showOnlyEnum        "Afficher uniquement les propriétés énumérables">
-<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.showOnlyEnum.key    "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
@@ -72,12 +72,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile          "Filtrer les scripts">
-<!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFile.key      "s">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal        "Rechercher dans tous les fichiers">
-<!ENTITY debuggerUI.searchGlobal.key    "F">
+<!ENTITY debuggerUI.searchGlobal.key    "f">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -87,12 +87,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchLine          "Aller à la ligne…">
-<!ENTITY debuggerUI.searchLine.key      "L">
+<!ENTITY debuggerUI.searchLine.key      "A">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable      "Filtrer les variables">
-<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.searchVariable.key  "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -108,6 +108,21 @@
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Ajouter un point d'arrêt conditionnel">
 <!ENTITY debuggerUI.seMenuCondBreak.key "A">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
+  -  appears in the source editor context menu for adding an expression. -->
+<!ENTITY debuggerUI.seMenuAddWatch      "Créer un espion à partir de la sélection">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "e">
+
+<!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
+  -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch            "Ajouter une expression espionne">
+<!ENTITY debuggerUI.addWatch.key        "e">
+
+<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+  -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch      "Supprimer toutes les expressions espionnes">
+<!ENTITY debuggerUI.removeAllWatch.key  "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
