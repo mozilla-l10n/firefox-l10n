@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title			"履歴とブックマークの管理"><!-- (^^; Library/Archive -->
 <!ENTITY places.library.width			"750"><!-- en-US: 700 -->
@@ -6,12 +10,9 @@
 <!ENTITY organize.accesskey			"O">
 <!ENTITY organize.tooltip			"履歴とブックマークを管理します">
 
-<!ENTITY file.accesskey				"F">
 <!ENTITY file.close.label			"ウインドウを閉じる">
 <!ENTITY file.close.accesskey			"C">
 <!ENTITY cmd.close.key				"w">
-<!ENTITY edit.label				"編集">
-<!ENTITY edit.accesskey				"E">
 <!ENTITY views.label				"表示">
 <!ENTITY views.accesskey			"V">
 <!ENTITY views.tooltip				"履歴とブックマークの表示を変更します">
@@ -26,15 +27,12 @@
 <!ENTITY view.sortDescending.label		"降順 (Z &gt; A)">
 <!ENTITY view.sortDescending.accesskey		"Z">
 
-<!ENTITY cmd.findInBookmarks.label		"ブックマークを検索...">
-<!ENTITY cmd.findInBookmarks.accesskey		"F">
-<!ENTITY cmd.findCurrent.label			"表示中の項目から検索...">
-<!ENTITY cmd.findCurrent.accesskey		"i">
-
-<!ENTITY cmd.exportHTML.label			"HTML として書き出す...">
-<!ENTITY cmd.exportHTML.accesskey		"E">
-<!ENTITY cmd.importHTML.label			"HTML から読み込む...">
-<!ENTITY cmd.importHTML.accesskey		"I">
+<!ENTITY importBookmarksFromHTML.label		"HTML から読み込む...">
+<!ENTITY importBookmarksFromHTML.accesskey	"I">
+<!ENTITY exportBookmarksToHTML.label		"HTML として書き出す...">
+<!ENTITY exportBookmarksToHTML.accesskey	"E">
+<!ENTITY importOtherBrowser.label			"他のブラウザからデータを読み込む...">
+<!ENTITY importOtherBrowser.accesskey		"A">
 
 <!ENTITY cmd.backup.label			"バックアップ...">
 <!ENTITY cmd.backup.accesskey			"B">
@@ -76,8 +74,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label		"ライブブックマークを再読み込み">
 <!ENTITY cmd.reloadLivebookmark.accesskey	"R">
-<!ENTITY cmd.reloadMicrosummary.label		"ライブタイトルを再読み込み">
-<!ENTITY cmd.reloadMicrosummary.accesskey	"R">
 
 <!ENTITY cmd.moveBookmarks.label		"移動...">
 <!ENTITY cmd.moveBookmarks.accesskey		"M">
@@ -94,8 +90,8 @@
 
 <!ENTITY search.label				"検索:">
 <!ENTITY search.accesskey			"S">
-<!ENTITY search.in.label			"検索対象:">
 
+<!ENTITY search.in.label			"検索対象:">
 <!ENTITY search.scopeFolder.label		"選択されているフォルダ">
 <!ENTITY search.scopeFolder.accesskey		"r">
 <!ENTITY search.scopeBookmarks.label		"ブックマーク">
@@ -113,17 +109,14 @@
 <!ENTITY maintenance.accesskey			"I">
 <!ENTITY maintenance.tooltip			"ブックマークの読み込みとバックアップができます">
 
-<!ENTITY backCmd.label				"戻る">
 <!ENTITY backButton.tooltip			"フォルダ表示履歴を前に戻ります">
 
-<!ENTITY forwardCmd.label			"進む">
 <!ENTITY forwardButton.tooltip			"フォルダ表示履歴を次に進みます">
 
 <!ENTITY detailsPane.more.label			"詳細を表示">
 <!ENTITY detailsPane.more.accesskey		"e">
 <!ENTITY detailsPane.less.label			"詳細を隠す">
 <!ENTITY detailsPane.less.accesskey		"e">
-<!ENTITY detailsPane.noPreviewAvailable.label	"プレビュー">
 <!ENTITY detailsPane.selectAnItemText.description "各項目を選択すると、名前や詳細情報の表示や編集ができます">
 
 <!ENTITY find.label				"検索:">

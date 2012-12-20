@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights		"あなたの権利について">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy		"プライバシーポリシー">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -56,28 +56,12 @@
 <!ENTITY update.downloading.start	"更新をダウンロード中 — ">
 <!ENTITY update.downloading.end		"">
 
+<!ENTITY update.applying		"更新を適用中...">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start	"現在の更新チャンネルは ">
 <!ENTITY channel.description.end	" です。">
-
-<!ENTITY channel.change			"変更する">
-
-<!ENTITY channel.release.description	"世界中の数多くの人に使用されている最終リリース版をお楽しみください。驚くほどの速さと簡単に行えるカスタマイズ、最新の Web テクノロジーがあなたのものになります。">
-<!ENTITY channel.beta.description	"より安定した先端機能を体験してください。最終リリース版に向けて、洗練され磨き上げられた機能にするためのフィードバックを提供してください。">
-<!ENTITY channel.aurora.description	"最新のイノベーションを体験できますが、バグが多く不安定な環境で使用されるため気弱な人には向きません。最終リリース版に向けて、必要な機能とパフォーマンスを決定するためのフィードバックを提供してください。">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "更新チャンネルを">
-<!ENTITY channel.selector.end            "に切り替える。">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton	"適用して更新">
-<!ENTITY channel.selector.cancelButton	"キャンセル">
 
 <!ENTITY cmdCloseMac.commandKey		"w">
