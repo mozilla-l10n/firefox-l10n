@@ -489,7 +489,7 @@
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "用新郵件視窗開啟">
 <!ENTITY folderContextOpenNewWindow.accesskey "w">
-<!ENTITY folderContextOpenNewTab.label "以新分頁開啟">
+<!ENTITY folderContextOpenNewTab.label "用新分頁開啟">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "重新命名">
 <!ENTITY folderContextRename.accesskey "R">

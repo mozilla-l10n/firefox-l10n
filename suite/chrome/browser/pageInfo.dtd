@@ -17,7 +17,7 @@
 <!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "複製鏈結">
 <!ENTITY  copyLinks.accesskey       "L">
-<!ENTITY  openInNewTab.label        "以新分頁開啟">
+<!ENTITY  openInNewTab.label        "用新分頁開啟">
 <!ENTITY  openInNewTab.accesskey    "T">
 <!ENTITY  openInNewWindow.label     "開啟至新視窗">
 <!ENTITY  openInNewWindow.accesskey "w">
