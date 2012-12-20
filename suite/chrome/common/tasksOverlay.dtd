@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "ブラウザ">
 <!ENTITY navigatorCmd.accesskey "B">
@@ -24,7 +28,7 @@
 <!ENTITY tasksMenu.accesskey "T">
 
 <!ENTITY datamanCmd.label "データマネージャ">
-<!ENTITY datamanCmd.accesskey "M">
+<!ENTITY datamanCmd.accesskey "D">
 
 <!ENTITY passwordManagerCmd.label "パスワードマネージャ">
 <!ENTITY passwordManagerCmd.accesskey "P">
@@ -36,12 +40,12 @@
 <!ENTITY passwordExpireCmd.accesskey "l">
 
 <!ENTITY downloadManagerCmd.label "ダウンロードマネージャ">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "n">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "アドオンマネージャ">
-<!ENTITY addonsManagerCmd.accesskey "A">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "アドオンマネージャ">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "プロファイルの切り換え...">
 <!ENTITY switchProfileCmd.accesskey "h">

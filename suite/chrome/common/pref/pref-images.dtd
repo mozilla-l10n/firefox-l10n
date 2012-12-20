@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.images.title              "画像">
 
 <!ENTITY imageBlocking.label            "画像表示の許可ポリシー">
@@ -9,7 +13,7 @@
 <!ENTITY imageDetails                   "&brandShortName; の画像の取り扱い方法を指定する">
 
 <!ENTITY loadAllImagesRadio.label       "すべての画像を読み込む">
-<!ENTITY loadAllImagesRadio.accesskey   "A">
+<!ENTITY loadAllImagesRadio.accesskey   "L">
 <!ENTITY loadOrgImagesRadio.label       "元のサーバから送られる画像だけを読み込む">
 <!ENTITY loadOrgImagesRadio.accesskey   "n">
 <!ENTITY loadNoImagesRadio.label        "すべての画像を読み込まない">

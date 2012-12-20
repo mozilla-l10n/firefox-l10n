@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "このサイトのポップアップウインドウを自動的に閉じる">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
@@ -51,8 +55,8 @@
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "背景画像を表示">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "壁紙に設定">
-<!ENTITY setWallpaperCmd.accesskey    "A">
+<!ENTITY setDesktopBackgroundCmd.label     "デスクトップの背景に設定...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "ページをブックマーク">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "リンクをブックマーク">
@@ -76,10 +80,6 @@
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "別名でオーディオを保存...">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY copyCmd.label                "コピー">
-<!ENTITY copyCmd.accesskey            "C">
-<!ENTITY selectAllCmd.label           "すべてを選択">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY copyLinkCmd.label            "リンクの URL をコピー">
 <!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "画像をコピー">
@@ -92,16 +92,6 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "メールアドレスをコピー">
 <!ENTITY copyEmailCmd.accesskey       "s">
-<!ENTITY pasteCmd.label               "ペースト">
-<!ENTITY pasteCmd.accesskey           "P">
-<!ENTITY cutCmd.label                 "カット">
-<!ENTITY cutCmd.accesskey             "t">
-<!ENTITY deleteCmd.label              "削除">
-<!ENTITY deleteCmd.accesskey          "D">
-<!ENTITY undoCmd.label                "取り消す">
-<!ENTITY undoCmd.accesskey            "U">
-<!ENTITY redoCmd.label                "やり直す">
-<!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "このフレーム">
 <!ENTITY thisFrameMenu.accesskey      "h">
 <!ENTITY mediaPlay.label              "再生">
@@ -118,6 +108,12 @@
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "フルスクリーン">
 <!ENTITY videoFullScreen.accesskey    "F">
+<!ENTITY videoSaveImage.label         "別名でスナップショットを保存...">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "統計情報を表示">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "統計情報を隠す">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "ページの書記方向を切り換え">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -125,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "辞書に追加">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "辞書への追加を取り消す">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "単語を無視">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "スペルチェックする">
