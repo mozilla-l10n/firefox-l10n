@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "コンテンツ">
@@ -17,3 +21,5 @@
 <!ENTITY textZoomOnly.accesskey                 "Z">
 <!ENTITY blockAutoRefresh.label                 "Web サイトがリダイレクトや再読み込みを繰り返すときに警告する">
 <!ENTITY blockAutoRefresh.accesskey             "W">
+<!ENTITY siteSpecific.label                     "サイト別のズームレベルを記憶する">
+<!ENTITY siteSpecific.accesskey                 "m">

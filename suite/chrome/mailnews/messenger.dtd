@@ -1,42 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-    Karsten Düsterloh <mnyromyr@tprac.de>
-    Jeremy Morton <bugzilla@game-point.net>
-    Ian Neal <iann_bugzilla@blueyonder.co.uk>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerWindow.title                 "メールとニュースグループ">
 <!ENTITY titleModifier.label                   "&brandShortName;">
@@ -107,13 +71,6 @@
 <!ENTITY downloadSelectedCmd.accesskey         "t">
 <!ENTITY downloadFlaggedCmd.label              "フラグを付けたメッセージを受信">
 <!ENTITY downloadFlaggedCmd.accesskey          "G">
-<!ENTITY printCmd.label                        "印刷...">
-<!ENTITY printCmd.accesskey                    "P">
-<!ENTITY printCmd.key                          "p">
-<!ENTITY printPreviewCmd.label                 "印刷プレビュー">
-<!ENTITY printPreviewCmd.accesskey             "v">
-<!ENTITY printSetupCmd.label                   "ページ設定...">
-<!ENTITY printSetupCmd.accesskey               "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label                    "メッセージを削除">
@@ -159,6 +116,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey     "M">
 <!ENTITY showSearchToolbarCmd.label            "検索バー">
 <!ENTITY showSearchToolbarCmd.accesskey        "e">
+<!ENTITY showTabsToolbarCmd.label              "タブツールバー">
+<!ENTITY showTabsToolbarCmd.accesskey          "T">
 
 <!ENTITY messagePaneLayoutStyle.label          "レイアウト">
 <!ENTITY messagePaneLayoutStyle.accesskey      "L">
@@ -252,6 +211,8 @@
 <!ENTITY bodySanitized.accesskey               "S">
 <!ENTITY bodyAsPlaintext.label                 "プレーンテキスト">
 <!ENTITY bodyAsPlaintext.accesskey             "P">
+<!ENTITY bodyAllParts.label                    "すべての本文パーツ">
+<!ENTITY bodyAllParts.accesskey                "A">
 
 <!ENTITY bodyMenuFeed.label                     "フィードの表示形式">
 <!ENTITY bodyMenuFeed.accesskey                 "B">
@@ -263,7 +224,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label         "添付をインラインで表示">
-<!ENTITY viewAttachmentsInlineCmd.accesskey     "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey     "D">
 <!ENTITY reloadCmd.label                        "再読み込み">
 <!ENTITY reloadCmd.accesskey                    "R">
 <!ENTITY stopCmd.label                          "中止">
@@ -273,16 +234,10 @@
 <!ENTITY pageSourceCmd.key                      "u">
 
 <!ENTITY findCmd.label                          "このメッセージを検索...">
-<!ENTITY findCmd.accesskey                      "F">
-<!ENTITY findCmd.key                            "f">
-<!ENTITY findAgainCmd.label                     "次を検索">
-<!ENTITY findAgainCmd.accesskey                 "g">
-<!ENTITY findAgainCmd.key                       "g">
-<!ENTITY findAgainCmd.key2                      "VK_F3">
-<!ENTITY findPrevCmd.label                      "前を検索"><!--Find Previous-->
-<!ENTITY findPrevCmd.accesskey                  "v">
-<!ENTITY findPrevCmd.key                        "g">
-<!ENTITY findPrevCmd.key2                       "VK_F3">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2               "K">
 
 <!-- Go Menu -->
 
@@ -337,9 +292,9 @@
 <!ENTITY replyToAllMsgCmd.label                 "全員に返信">
 <!ENTITY replyToAllMsgCmd.accesskey             "p">
 <!ENTITY replyToAllMsgCmd.key                   "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label     "送受信者全員とニュースグループに返信"><!--Reply to Sender and Newsgroup-->
+<!ENTITY replyToSenderAndNewsgroupCmd.label     "送信者とニュースグループに返信"><!--Reply to Sender and Newsgroup-->
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label          "すべての受取人に返信"><!--Reply to All Recipients-->
+<!ENTITY replyToAllRecipientsCmd.label          "すべての受信者に返信"><!--Reply to All Recipients-->
 <!ENTITY replyToAllRecipientsCmd.accesskey      "a">
 <!ENTITY forwardMsgCmd.label                    "転送">
 <!ENTITY forwardMsgCmd.accesskey                "F">
@@ -383,21 +338,8 @@
 <!ENTITY tagMenu.accesskey                      "g">
 <!ENTITY tagCustomize.label                     "カスタマイズ...">
 <!ENTITY tagCustomize.accesskey                 "C">
-<!ENTITY tagCmd0.key                            "0">
-<!ENTITY tagCmd1.key                            "1">
-<!ENTITY tagCmd2.key                            "2">
-<!ENTITY tagCmd3.key                            "3">
-<!ENTITY tagCmd4.key                            "4">
-<!ENTITY tagCmd5.key                            "5">
-<!ENTITY tagCmd6.key                            "6">
-<!ENTITY tagCmd7.key                            "7">
-<!ENTITY tagCmd8.key                            "8">
-<!ENTITY tagCmd9.key                            "9">
 <!ENTITY markMenu.label                         "マーク">
 <!ENTITY markMenu.accesskey                     "k">
-<!ENTITY markAsReadCmd.label                    "既読にする">
-<!ENTITY markAsReadCmd.accesskey                "R">
-<!ENTITY markAsReadCmd.key                      "m">
 <!ENTITY markThreadAsReadCmd.label              "スレッドを既読にする">
 <!ENTITY markThreadAsReadCmd.accesskey          "T">
 <!ENTITY markThreadAsReadCmd.key                "r">
@@ -407,9 +349,6 @@
 <!ENTITY markAllReadCmd.label                   "すべてを既読にする">
 <!ENTITY markAllReadCmd.accesskey               "A">
 <!ENTITY markAllReadCmd.key                     "c">
-<!ENTITY markFlaggedCmd.label                   "フラグを付ける">
-<!ENTITY markFlaggedCmd.accesskey               "F">
-<!ENTITY markFlaggedCmd.key                     "i">
 <!ENTITY markAsJunkCmd.label                    "迷惑メールとしてマーク">
 <!ENTITY markAsJunkCmd.accesskey                "J">
 <!ENTITY markAsJunkCmd.key                      "j">
@@ -424,9 +363,6 @@
 <!ENTITY markAsNotPhishCmd.label                "フィッシングメールマークを解除">
 <!ENTITY markAsNotPhishCmd.accesskey            "S">
 <!ENTITY markAsNotPhishCmd.key                  "p">
-<!ENTITY openMessageWindowCmd.label             "メッセージを開く">
-<!ENTITY openMessageWindowCmd.accesskey         "O">
-<!ENTITY openMessageWindowCmd.key               "o">
 <!ENTITY openFeedMessage.label                  "フィードメッセージを開く">
 <!ENTITY openFeedMessage.accesskey              "O">
 <!ENTITY openFeedWebPageInWindow.label          "Web ページ形式で新しいウィンドウに開く">
@@ -441,7 +377,7 @@
 <!ENTITY searchMailCmd.accesskey              "M">
 <!ENTITY searchMailCmd.key                    "s">
 <!ENTITY searchAddressesCmd.label             "アドレスの検索...">
-<!ENTITY searchAddressesCmd.accesskey         "S">
+<!ENTITY searchAddressesCmd.accesskey         "c">
 <!ENTITY filtersCmd.label                     "メッセージフィルタ...">
 <!ENTITY filtersCmd.accesskey                 "F">
 <!ENTITY filtersApply.label                   "フォルダにフィルタを適用">
@@ -479,7 +415,6 @@
 <!ENTITY deleteButton.label                  "削除">
 <!ENTITY undeleteButton.label                "削除を元に戻す">
 <!ENTITY markButton.label                    "マーク">
-<!ENTITY printButton.label                   "印刷">
 <!ENTITY stopButton.label                    "中止">
 <!ENTITY junkButton.label                    "迷惑メール">
 <!ENTITY notJunkButton.label                 "非迷惑メール">
@@ -503,7 +438,6 @@
 <!ENTITY deleteButton.tooltip               "メッセージまたはフォルダを削除します">
 <!ENTITY undeleteButton.tooltip             "メッセージの削除を元に戻します">
 <!ENTITY markButton.tooltip                 "メッセージにマークを付けます">
-<!ENTITY printButton.tooltip                "メッセージを印刷します">
 <!ENTITY stopButton.tooltip                 "送受信処理を中止します">
 <!ENTITY throbber.tooltip                   "&vendorShortName; のホームページに移動します">
 <!ENTITY junkButton.tooltip                 "メッセージに迷惑マークを付けます">
@@ -606,6 +540,7 @@
 <!ENTITY removePhishingBarButton.label    "詐欺メールではありません">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label              "送信者はこのメッセージの開封確認を送付するように求めています。送信者に開封確認を送付してもよろしいですか？">
 <!ENTITY mdnBarIgnoreButton.label         "無視する">
+<!ENTITY mdnBarIgnoreButton.accesskey     "I">
 <!ENTITY mdnBarSendButton.label           "開封確認を送付する">
+<!ENTITY mdnBarSendButton.accesskey       "S">

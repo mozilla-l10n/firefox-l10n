@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label				"迷惑メール">
 <!ENTITY itemPhishing.label			"詐欺メール">
 <!ENTITY itemPasswords.label			"パスワード">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey		"D">
 <!ENTITY markAsReadOnSpam.label			"迷惑メールと判断したメッセージを既読にする">
 <!ENTITY markAsReadOnSpam.accesskey		"M">
-<!ENTITY enableJunkLogging.label		"迷惑メールログを有効にする">
-<!ENTITY enableJunkLogging.accesskey		"E">
+<!ENTITY enableAdaptiveJunkLogging.label	"迷惑メール適応フィルタのログを有効にする">
+<!ENTITY enableAdaptiveJunkLogging.accesskey	"E">
 <!ENTITY openJunkLog.label			"ログを表示">
 <!ENTITY openJunkLog.accesskey			"S">
 <!ENTITY resetTrainingData.label		"判別基準データのリセット">
@@ -56,3 +60,7 @@
 <!ENTITY cookieExceptions.accesskey		"E">
 <!ENTITY showCookies.label			"Cookie を表示...">
 <!ENTITY showCookies.accesskey			"S">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label			"トラッキングの拒否を Web サイトに通知する">
+<!ENTITY doNotTrack.accesskey			"d">
