@@ -317,7 +317,7 @@
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "移至">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY copyMessageLocation.label "複製郵件位址">
+<!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "複製到">
 <!ENTITY copyMsgToMenu.accesskey "C">
@@ -489,7 +489,7 @@
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "用新郵件視窗開啟">
 <!ENTITY folderContextOpenNewWindow.accesskey "w">
-<!ENTITY folderContextOpenNewTab.label "以新分頁開啟">
+<!ENTITY folderContextOpenNewTab.label "用新分頁開啟">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "重新命名">
 <!ENTITY folderContextRename.accesskey "R">

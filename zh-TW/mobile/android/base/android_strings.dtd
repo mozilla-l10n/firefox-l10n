@@ -145,7 +145,7 @@ size. -->
 <!ENTITY find_next "下一個">
 <!ENTITY find_close "關閉">
 
-<!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_open_new_tab "用新分頁開啟">
 <!ENTITY contextmenu_open_in_reader "在閱讀器中開啟">
 <!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
@@ -232,12 +232,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "無法清除某些隱私資料">
 
 <!ENTITY bookmarkhistory_button_import "匯入">
-<!ENTITY bookmarkhistory_import_both "正在自 Android 匯入
-                                      書籤與歷史紀錄">
-<!ENTITY bookmarkhistory_import_bookmarks "正在自 Android
-                                           匯入書籤">
-<!ENTITY bookmarkhistory_import_history "正在自 Android
-                                         匯入歷史紀錄">
+<!ENTITY bookmarkhistory_import_both "正在自 Android 匯入書籤與歷史紀錄">
+<!ENTITY bookmarkhistory_import_bookmarks "正在自 Android 匯入書籤">
+<!ENTITY bookmarkhistory_import_history "正在自 Android 匯入歷史紀錄">
 <!ENTITY bookmarkhistory_import_wait "請稍候…">
 
 <!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should

@@ -21,7 +21,7 @@
 <!ENTITY firstButton.label "第一頁">
 <!ENTITY prevButton.label "上一頁">
 <!ENTITY nextButton.label "下一個">
-<!ENTITY lastButton.label "下一頁">
+<!ENTITY lastButton.label "上一頁">
 
 <!ENTITY documentButton.label "文件">
 
