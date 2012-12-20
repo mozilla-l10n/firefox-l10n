@@ -11,7 +11,7 @@
 <!ENTITY newsgroups.label "Keskusteluryhmille">
 <!ENTITY feeds.label "Syötteille">
 
-<!ENTITY unsetDefault.tooltip "&brandShortName;ista ei ole mahdollista poistaa oletusselaintilaa &brandShortName;-järjestelmässä. Aseta toinen selain oletukseksi sen omalla "Aseta oletukseksi" asetuksella.">
+<!ENTITY unsetDefault.tooltip "&brandShortName;ista ei ole mahdollista asettaa toista selainta järjestelmän oletukseksi. Aseta toinen selain oletukseksi sen omalla 'Aseta oletukseksi'-asetuksella.">
 
 <!ENTITY checkOnStartup.label "Tarkista oletusohjelmana olo aina käynnistyksen yhteydessä">
 <!ENTITY checkOnStartup.accesskey "T">
