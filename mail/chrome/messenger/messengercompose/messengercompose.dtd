@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey  "V">
 <!ENTITY dsnMenu.label "Toimitustilan ilmoitukset">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY outputFormatMenu.label  "Muotoilu">
-<!ENTITY outputFormatMenu.accesskey  "u">
+<!ENTITY deliveryFormatMenu.label "Lähetysmuoto">
+<!ENTITY deliveryFormatMenu.accesskey "m">
 <!ENTITY autoFormatCmd.label  "Tunnista automaattisesti">
 <!ENTITY autoFormatCmd.accesskey  "T">
 <!ENTITY plainTextFormatCmd.label  "Vain tavallinen teksti">

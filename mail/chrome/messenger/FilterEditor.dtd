@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label  "Korkein">
 
 <!ENTITY contextDesc.label "Suodata viestit, kun:">
-<!ENTITY contextDesc.accesskey "S">
-<!ENTITY contextIncoming.label "Posteja haetaan">
-<!ENTITY contextManual.label "Suodattimet suoritetaan">
-<!ENTITY contextBoth.label "Suodattimet suoritetaan tai posteja haetaan">
-<!ENTITY contextPostPlugin.label "Posteja haetaan (luokittelun jälkeen)">
-<!ENTITY contextPostPluginBoth.label "Posteja haetaan (luokittelun jälkeen) tai suodattimet suoritetaan">
+<!ENTITY contextIncomingMail.label "Haetaan uusia viestejä:">
+<!ENTITY contextIncomingMail.accesskey "H">
+<!ENTITY contextManual.label "Suorita käsin">
+<!ENTITY contextManual.accesskey "k">
+<!ENTITY contextBeforeCls.label "Suodata ennen roskapostiluokitusta">
+<!ENTITY contextAfterCls.label "Suodata roskapostiluokituksen jälkeen">
+
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "o">
 
