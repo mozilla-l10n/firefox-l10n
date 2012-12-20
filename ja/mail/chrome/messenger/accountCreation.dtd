@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title		"メールアカウント設定">
-<!ENTITY name.label			"あなたの名前:">
+<!ENTITY name.label			"あなたのお名前:">
 <!ENTITY name.accesskey			"n">
 <!ENTITY name.placeholder		"氏名またはニックネーム">
 <!ENTITY name.text			"受信者に表示される名前です。">
@@ -49,6 +53,8 @@
 <!ENTITY half-manual-test.accesskey	"t">
 <!ENTITY manual-edit.label		"手動設定">
 <!ENTITY manual-edit.accesskey		"M">
+<!ENTITY switch-to-provisioner.label	"新しいアカウントを取得">
+<!ENTITY switch-to-provisioner.accesskey	"G">
 
 <!ENTITY warning.label			"警告！">
 <!ENTITY incomingSettings.label		"受信サーバ設定:">
@@ -59,11 +65,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label		"接続する上での危険性を理解しました">
 <!ENTITY confirmWarning.accesskey	"u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label		"アカウント作成">
-<!ENTITY createAccount.accesskey	"C">
+<!ENTITY doneAccount.label		"完了">
+<!ENTITY doneAccount.accesskey		"D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

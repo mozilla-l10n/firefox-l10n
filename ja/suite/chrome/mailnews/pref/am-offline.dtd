@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "次のメッセージはダウンロードしない:">
 <!ENTITY doNotDownloadNntp.label "次のメッセージはオフライン表示用にダウンロードしない:">
 <!ENTITY doNotDownloadImap.label "指定したサイズまたは期間のメッセージをオフライン表示用にダウンロードしてローカルにコピーを保存します。">
@@ -45,7 +49,7 @@
 <!ENTITY allAutosync.label		"すべてのメッセージをローカルに同期する"><!-- en-US: Synchronize all messages locally regardless of age -->
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label	"最近"><!-- en-US: Synchronize the most recent -->
-<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosync.accesskey           "S">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "日">
 <!ENTITY weekAgeInterval.label           "週">
