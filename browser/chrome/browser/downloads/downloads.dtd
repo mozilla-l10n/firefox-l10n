@@ -4,7 +4,7 @@
 
 <!ENTITY downloads.title "Download">
 <!ENTITY downloadDetails.width "65ch">
-<!ENTITY downloadsSummary.minWidth "30ch">
+<!ENTITY downloadsSummary.minWidth2 "26ch">
 <!ENTITY cmd.pause.label "Pausa">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Riprendi">
@@ -20,8 +20,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "w">
 <!ENTITY cmd.copyDownloadLink.label "Copia indirizzo di origine">
 <!ENTITY cmd.copyDownloadLink.accesskey "C">
-<!ENTITY cmd.removeFromList.label "Rimuovi dall'elenco">
-<!ENTITY cmd.removeFromList.accesskey "m">
+<!ENTITY cmd.removeFromHistory.label "Elimina dalla cronologia">
+<!ENTITY cmd.removeFromHistory.accesskey "m">
 <!ENTITY cmd.clearList.label "Cancella elenco">
 <!ENTITY cmd.clearList.accesskey "e">
 <!ENTITY downloadsHistory.label "Visualizza tutti i download">
