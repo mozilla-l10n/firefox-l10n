@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Top de sítios">
 <!ENTITY  awesomebar_bookmarks_title "Marcadores">
 <!ENTITY  awesomebar_history_title "Histórico">
-<!ENTITY  awesomebar_search_engine "Pesquisar por \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
 <!ENTITY  crash_message "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
@@ -55,7 +54,6 @@
 <!ENTITY site_security "Segurança do sítio">
 
 <!ENTITY close_tab "Fechar separador">
-<!ENTITY new_tab "Novo separador">
 <!ENTITY one_tab "1 separador">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -72,16 +70,22 @@
 <!ENTITY pref_do_not_track "Dizer aos sítios para não me seguir">
 <!ENTITY pref_telemetry "Enviar dados do desempenho">
 <!ENTITY pref_remember_signons "Lembrar senhas">
-<!ENTITY pref_cookies "Ativar cookies">
-<!ENTITY pref_char_encoding "Mostrar codificação de caracteres">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Ativado">
+<!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
+<!ENTITY pref_cookies_disabled "Desativado">
+
+<!ENTITY pref_char_encoding "Codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
 <!ENTITY pref_char_encoding_off "Não mostrar menu">
 <!ENTITY pref_clear_private_data "Limpar dados privados">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Ativado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
-<!ENTITY pref_plugins_disabled "Disativado">
+<!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
+<!ENTITY pref_reflow_on_zoom2 "Toque para normalizar o texto">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
@@ -100,6 +104,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
+<!ENTITY pref_show_product_announcements "Mostrar anúncios do produto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
@@ -110,6 +115,11 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
 <!ENTITY pref_private_data_siteSettings "Preferências do sítio">
+
+<!ENTITY pref_update_autodownload "Atualizações automáticas">
+<!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desativado">
+<!ENTITY pref_update_autodownload_enabled "Ativado">
 
 <!ENTITY quit "Desistir">
 
@@ -124,6 +134,11 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Procurar na página">
 <!ENTITY desktop_mode "Pedir sítio do Desktop">
+<!ENTITY tools "Ferramentas">
+<!ENTITY new_tab "Novo separador">
+<!ENTITY new_private_tab "Novo separador privado">
+<!ENTITY synced_tabs "Separadores sincronizados">
+<!ENTITY close_all_tabs "Fechar todos os separadores">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +148,8 @@ size. -->
 <!ENTITY find_close "Fechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
+<!ENTITY contextmenu_open_new_private_tab "Abrir num novo separador privado">
+<!ENTITY contextmenu_open_in_reader "Abrir no leitor">
 <!ENTITY contextmenu_remove_history "Remover">
 <!ENTITY contextmenu_remove_bookmark "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
@@ -142,8 +159,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Página removida">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
@@ -160,7 +175,7 @@ size. -->
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
-<!ENTITY reader_mode "Modo leitor">
+<!ENTITY reader "Leitor">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Remover senha mestra">
@@ -169,21 +184,24 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY button_yes "Sim">
+<!ENTITY button_no "Não">
 <!ENTITY button_clear_data "Limpar dados">
+<!ENTITY button_set "Definir">
+<!ENTITY button_clear "Limpar">
 
 <!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
 <!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Os seus separadores da última vez">
 <!ENTITY abouthome_last_tabs_open "Abrir todos os separadores da última vez">
 <!ENTITY abouthome_top_sites_title "Top de sítios">
-<!ENTITY abouthome_top_sites_browse "Navegar em todos os seus top sítios">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "Â»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos&#x00A0;Â»">
-<!ENTITY abouthome_about_apps2 "Obtenha apps a partir do Mozilla Marketplace e descubra o melhor que a web tem para oferecer&#x00A0;Â»">
+<!ENTITY abouthome_about_apps3 "Obtenha apps a partir do Mozilla Marketplace e descubra o melhor que a web tem para oferecer&#x00A0;Â»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -223,20 +241,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
 
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Deseja ativar &formatS; sugestões de pesquisa?">
+
 <!ENTITY webapp_generic_name "App">
 
+<!ENTITY searchable_description "Marcadores e histórico">
+
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "Disponível atualização para o &brandShortName;">
-<!ENTITY updater_start_select "Selecione para transferir atualização.">
+<!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
+<!ENTITY updater_start_select2 "Toque para transferir.">
 
-<!ENTITY updater_downloading_title "A transferir &brandShortName;">
-<!ENTITY updater_downloading_ticker "A transferir atualização para o &brandShortName;">
-<!ENTITY updater_downloading_ticker_failed "A transferência da atualização do &brandShortName; falhou">
-<!ENTITY updater_downloading_select "Toque para aplicar a atualização após transferência">
-<!ENTITY updater_downloading_retry "Toque para voltar a tentar">
-<!ENTITY updater_downloading_willapply "A aguardar que a transferência termine.">
+<!ENTITY updater_downloading_title2 "A transferir &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "A transferência falhou">
+<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização após transferência">
+<!ENTITY updater_downloading_retry2 "Toque para voltar a tentar">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "Atualização disponível para o &brandShortName;">
-<!ENTITY updater_apply_select "Toque para atualizar.">
+<!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
+<!ENTITY updater_apply_select2 "Toque para atualizar.">
