@@ -57,7 +57,7 @@
 <!ENTITY one_tab "1 separador">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d separadores">
+<!ENTITY num_tabs2 "&#037;d separadores">
 <!ENTITY new_tab_opened "Aberto novo separador">
 
 <!ENTITY settings "Definições">
@@ -207,7 +207,7 @@ size. -->
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Mozilla Marketplace">
 
 <!ENTITY filepicker_title "Escolha um ficheiro">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
