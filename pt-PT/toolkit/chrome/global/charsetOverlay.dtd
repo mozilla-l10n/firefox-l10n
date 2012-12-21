@@ -15,7 +15,5 @@
 <!ENTITY charsetMenuMore4.accesskey "S">
 <!ENTITY charsetMenuMore5.label "Médio Oriente">
 <!ENTITY charsetMenuMore5.accesskey "D">
-<!ENTITY charsetMenuUnicode.label "Unicode">
-<!ENTITY charsetMenuUnicode.accesskey "U">
 <!ENTITY charsetCustomize.label "Personalizar lista...">
 <!ENTITY charsetCustomize.accesskey "p">
