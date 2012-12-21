@@ -16,3 +16,6 @@
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Условите за употреба се достапни на ">
 <!ENTITY syncKey.footer2.label            ". Политиката за приватност е достапна на ">
 <!ENTITY syncKey.footer3.label            ".">
+
+<!ENTITY syncKey.keepItSafe4a.description " ако го загубите. Ќе треба да го внесете овој клуч секој пат кога ќе поврзете нов уред на &syncBrand.fullName.label;.">
+<!ENTITY syncKey.page.description2        "Овој клуч се користи за да се декодираат податоците на Вашата сметка на &syncBrand.fullName.label;. Ќе треба да го внесете овој клуч секој пат кога ќе поврзете нов уред на &syncBrand.fullName.label;.">
