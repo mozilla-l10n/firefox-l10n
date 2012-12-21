@@ -3,8 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title "Connetti">
+<!ENTITY header "Connessione a dispositivo remoto">
 <!ENTITY host "Server:">
 <!ENTITY port "Porta:">
 <!ENTITY connect "Connetti">
 <!ENTITY connecting "Connessione in corso…">
 <!ENTITY availability "Oggetti remoti disponibili:">
+<!ENTITY remoteProcess "processo remoto">
+<!ENTITY connectionError "Errore:">
+<!ENTITY errorTimeout "Errore: tempo esaurito per la connessione.">
+<!ENTITY errorRefused "Errore: connessione rifiutata.">
+<!ENTITY errorUnexpected "Errore imprevisto.">
+<!ENTITY help "Gli strumenti per sviluppatori di Firefox consentono di effettuare il debug su dispositivi remoti (ad esempio Firefox per Android o Firefox OS). Assicurarsi di aver attivato l'opzione 'Debugger Server' sul dispositivo remoto. Per ulteriori informazioni consultare <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>documentation</a>.">
