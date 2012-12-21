@@ -4,3 +4,4 @@
 
 <!ENTITY window.title "Strumenti per sviluppatori">
 <!ENTITY closeCmd.key "W">
+<!ENTITY toolboxCloseButton.tooltip "Chiudi strumenti per sviluppatori">
