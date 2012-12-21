@@ -11,5 +11,5 @@
 <!ENTITY matched "Corrispondenza">
 <!ENTITY parentMatch "Corrisp. genitore">
 <!ENTITY unmatched "Nessuna corrisp.">
-<!ENTITY computedViewTitle "Calcolati">
+<!ENTITY computedViewTitle "Calcolate">
 <!ENTITY ruleViewTitle "Regole">
