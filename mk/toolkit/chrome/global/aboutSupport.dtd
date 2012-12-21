@@ -54,8 +54,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Историја на инсталации">
 <!ENTITY aboutSupport.updateHistoryTitle "Историја на надградби">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Копирај сѐ во таблата со исечоци">
-
 <!ENTITY aboutSupport.a11yActivated "Активирана">
 <!ENTITY aboutSupport.a11yForceDisabled "Сопри пристапност">
 
