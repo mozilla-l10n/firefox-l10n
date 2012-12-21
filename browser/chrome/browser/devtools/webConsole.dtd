@@ -8,10 +8,6 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY networkPanel.requestURL                  "URL на барањето">
-<!ENTITY networkPanel.requestMethod               "Метод на барањето">
-<!ENTITY networkPanel.statusCode                  "Код на статусот">
-
 <!ENTITY networkPanel.requestHeaders              "Заглавја на барањето">
 <!ENTITY networkPanel.requestCookie               "Испратено колаче">
 <!ENTITY networkPanel.requestBody                 "Тело на барањето">
