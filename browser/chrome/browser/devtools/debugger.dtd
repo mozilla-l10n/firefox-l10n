@@ -111,7 +111,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch      "Créer un espion à partir de la sélection">
+<!ENTITY debuggerUI.seMenuAddWatch      "Expression espionne depuis la sélection">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
