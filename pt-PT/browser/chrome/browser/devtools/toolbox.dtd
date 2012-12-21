@@ -5,3 +5,5 @@
 <!ENTITY window.title  "Ferramentas do desenvolvedor">
 
 <!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip  "Fechar ferramentas do desenvolvedor">
