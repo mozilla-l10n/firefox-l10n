@@ -45,3 +45,8 @@
 
 <!ENTITY prefs.tosLink.label        "Услови за употреба">
 <!ENTITY prefs.ppLink.label         "Политика за приватност">
+
+<!ENTITY syncDeviceName.accesskey   "м">
+
+<!-- Device Settings -->
+<!ENTITY syncDeviceName.label       "Име на уред:">

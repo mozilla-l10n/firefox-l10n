@@ -24,3 +24,6 @@
 <!ENTITY spellNoSuggestions.label "(Нема предлози)">
 <!ENTITY spellDictionaries.label "Јазици">
 <!ENTITY spellDictionaries.accesskey "Ј">
+
+<!ENTITY spellCheckToggle.accesskey "п">
+<!ENTITY spellCheckToggle.label "Провери правопис">
