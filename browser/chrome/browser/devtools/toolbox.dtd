@@ -5,3 +5,5 @@
 <!ENTITY window.title  "Utvecklarverktyg">
 
 <!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip  "Stäng utvecklarverkygen">
