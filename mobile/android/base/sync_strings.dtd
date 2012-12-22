@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Aukerak">
 <!ENTITY sync.summary.pair.label "Lotu beste gailu bat zure &syncBrand.shortName.label; kontura">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Zer sinkronizatu">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sinkronizatu zure…">
+<!ENTITY sync.configure.engines.title.bookmarks "Laster-markak">
+<!ENTITY sync.configure.engines.title.passwords "Pasahitzak">
+<!ENTITY sync.configure.engines.title.history "Historia">
+<!ENTITY sync.configure.engines.title.tabs "Etiketak">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Utzi">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">
+<!ENTITY sync.notification.configure.saved "Zure hautapenak gorde egin dira.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Kontu-izen edo pasahitz okerra.">

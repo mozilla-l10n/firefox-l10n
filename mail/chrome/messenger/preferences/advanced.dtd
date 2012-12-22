@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "g">
 <!ENTITY searchIntegration.label       "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
 <!ENTITY searchIntegration.accesskey   "B">
-<!ENTITY checkNow.label                "Egiaztatu orain">
-<!ENTITY checkNow.accesskey            "n">
+<!ENTITY checkDefaultsNow.label        "Egiaztatu orain…">
+<!ENTITY checkDefaultsNow.accesskey    "o">
 <!ENTITY configEditDesc.label          "Konfigurazio aurreratua">
 <!ENTITY configEdit.label              "Konfigurazio-editorea…">
 <!ENTITY configEdit.accesskey          "g">

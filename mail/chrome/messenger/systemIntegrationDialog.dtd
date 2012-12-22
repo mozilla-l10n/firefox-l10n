@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Sistemaren integrazioa">
+<!ENTITY acceptIntegration.label  "Ezarri lehenetsi gisa">
+<!ENTITY cancelIntegration.label  "Saltatu integrazioa">
 <!ENTITY defaultClient.intro  "Erabili &brandShortName; lehenetsitako bezero gisa honentzat:">
 
 <!ENTITY email.label "E-posta">
 <!ENTITY newsgroups.label "Berri-taldeak">
 <!ENTITY feeds.label "Jarioak">
+
+<!ENTITY unsetDefault.tooltip "Ezin da &brandShortName; barruan &brandShortName; lehenetsitako bezero gisa desezarri. Beste aplikazio bat lehenesteko erabili bere 'Ezarri lehenetsitako gisa' elkarrizketa-koadroa.">
 
 <!ENTITY checkOnStartup.label "Egiaztatu beti &brandShortName; abiaraztean">
 <!ENTITY checkOnStartup.accesskey "a">
