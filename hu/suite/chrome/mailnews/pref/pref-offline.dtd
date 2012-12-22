@@ -8,7 +8,7 @@
 <!ENTITY pref.network.title               "Hálózat nélkül és lemezterület">
 <!ENTITY pref.offline.caption             "Kapcsolat nélküli munka">
 <!ENTITY textStartUp                      "Induláskor:">
-<!ENTITY textStartUp.accesskey            "I">
+<!ENTITY textStartUp.accesskey            "n">
 <!ENTITY menuitemRememberPrevState        "Előző online állapot megjegyzése">
 <!ENTITY menuitemAskMe                    "Rákérdezés az online állapotra indításkor">
 <!ENTITY menuitemAlwaysOnline             "Mindig online indulás">
@@ -30,7 +30,7 @@
 <!ENTITY radioAskDownload.accesskey       "d">
 <!ENTITY mailConnections.caption          "Levelező kiszolgáló">
 <!ENTITY mailnewsTimeout.label            "Kapcsolat időtúllépés:">
-<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeout.accesskey        "p">
 <!ENTITY mailnewsTimeoutSeconds.label     "másodperc">
 <!ENTITY Diskspace                        "Lemezterület">
 <!ENTITY offlineCompactFolders.label      "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
