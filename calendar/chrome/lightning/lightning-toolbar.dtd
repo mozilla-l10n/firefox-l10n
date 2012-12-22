@@ -28,4 +28,4 @@
 <!ENTITY lightning.toolbar.month.label "Mese">
 <!ENTITY lightning.toolbar.month.accesskey "M">
 <!ENTITY lightning.toolbar.appmenuButton.label "AppMenu">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip "Visualizza il Menu applicazione">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip "Visualizza il menu di &brandShortName;">

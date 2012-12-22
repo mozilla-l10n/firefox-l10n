@@ -57,12 +57,12 @@
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ",">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Aumenta">
 <!ENTITY increaseFontSize.accesskey "A">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Dimensione">
 <!ENTITY fontSizeMenu.accesskey "D">
 <!ENTITY size-xx-smallCmd.label "Molto piccolo">
