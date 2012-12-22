@@ -4,3 +4,4 @@
 
 <!ENTITY window.title "Инструменты разработки">
 <!ENTITY closeCmd.key "W">
+<!ENTITY toolboxCloseButton.tooltip "Закрыть инструменты разработки">
