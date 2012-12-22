@@ -7,11 +7,11 @@
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 <!ENTITY tabs.context.openTab.label                   "Diesen Tab öffnen">
 <!ENTITY tabs.context.openTab.accesskey               "T">
-<!ENTITY tabs.context.openMultipleTabs.label          "Gewählten Tab öffnen">
+<!ENTITY tabs.context.openMultipleTabs.label          "Diese Tabs öffnen">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "T">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Lesezeichen für diesen Tab hinzufügen…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "L">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Lesezeichen für gewählte Tabs hinzufügen…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Lesezeichen für diese Tabs hinzufügen…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "g">
 <!ENTITY tabs.context.refreshList.label               "Liste aktualisieren">
 <!ENTITY tabs.context.refreshList.accesskey           "a">
