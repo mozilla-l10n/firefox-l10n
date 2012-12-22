@@ -624,3 +624,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "聊天焦點">
 <!ENTITY social.chatBar.accesskey "c">
 
+<!ENTITY getUserMedia.selectCamera.label "要分享的相機:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "要分享的麥克風:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+

@@ -6,3 +6,4 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toolboxCloseButton.tooltip  "關閉開發者工具">
