@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Zobrazí vaše záložky">
-<!ENTITY bookmarksButton.accesskey "Z">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label "Záložky">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label "Historie">
 <!ENTITY historyButton.tooltip "Zobrazí stránky navštívené v poslední době">
-<!ENTITY historySidebarCmd.accesskey "H">
 <!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Nástroje">
@@ -278,6 +276,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label "Nové okno">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPrivateWindow.label "Nové anonymní okno">
+<!ENTITY newPrivateWindow.accesskey "a">
+
 <!ENTITY newPrivateWindow.label "Nové anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
 
@@ -659,3 +660,4 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Zpět">
 <!ENTITY social.activated.undobutton.accesskey "Z">
+<!ENTITY social.chatBar.commandkey "c">
