@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "z">
 <!ENTITY searchIntegration.label       "Aotren &searchIntegration.engineName; da glask e-touez ar c'hemennadennoù">
 <!ENTITY searchIntegration.accesskey   "A">
-<!ENTITY checkNow.label                "Gwiriañ diouzhtu">
-<!ENTITY checkNow.accesskey            "d">
+<!ENTITY checkDefaultsNow.label        "Gwiriañ diouzhtu…">
+<!ENTITY checkDefaultsNow.accesskey    "d">
 <!ENTITY configEditDesc.label          "Kefluniadur kempleshoc'h">
 <!ENTITY configEdit.label              "Embanner kefluniañ…">
 <!ENTITY configEdit.accesskey          "E">

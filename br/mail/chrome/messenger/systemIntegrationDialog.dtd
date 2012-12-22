@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Enframmadur reizhiad">
+<!ENTITY acceptIntegration.label  "Lakaat dre ziouer">
+<!ENTITY cancelIntegration.label  "Leuskel an enframmadur a-gostez">
 <!ENTITY defaultClient.intro  "Arverañ &brandShortName; evel arval dre ziouer evit:">
 
 <!ENTITY email.label "Postel">
 <!ENTITY newsgroups.label "Strolladoù keleier">
 <!ENTITY feeds.label "Lanv">
+
+<!ENTITY unsetDefault.tooltip "N'haller ket lemel &brandShortName; eus an arventenn arval dre ziouer war &brandShortName;. Ret eo deoc'h arverañ ar voest diviz 'Lakaat dre ziouer' eus an arload a fell deoc'h lakat dre ziouer.">
 
 <!ENTITY checkOnStartup.label "Gwiriañ atav pa loc'h &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">

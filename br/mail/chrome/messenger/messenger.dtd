@@ -252,12 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Skrammañ ar c'henstagadurioù a-steud">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY pageSourceCmd.label "Tarzh ar gemennadenn">
 <!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.key "u">
@@ -314,7 +308,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Postelerezh prim">
 <!ENTITY goChatCmd.accesskey "p">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Kemennadenn gant ur steredenn">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Teuliad">
@@ -465,7 +459,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.offline            "Ezlinenn">
 <!ENTITY imStatus.showAccounts       "Diskouez ar c'hontoù…">
 <!ENTITY joinChatCmd.label "Kejañ ouzh ar postelerezh prim…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.accesskey "j">
 <!ENTITY savedFiles.label "Restroù enrollet">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">

@@ -10,19 +10,20 @@
 <!ENTITY junk.label "Lastez">
 <!ENTITY notJunk.label "Prizius">
 
-<!ENTITY lowestPriorityCmd.label "Izellañ">
+<!ENTITY lowestPriorityCmd.label "Izelañ">
 <!ENTITY lowPriorityCmd.label "Izel">
 <!ENTITY normalPriorityCmd.label "Reizh">
 <!ENTITY highPriorityCmd.label "Uhel">
 <!ENTITY highestPriorityCmd.label "Uhelañ">
 
 <!ENTITY contextDesc.label "Arloañ ar sil pa vez:">
-<!ENTITY contextDesc.accesskey "s">
-<!ENTITY contextIncoming.label "Degemeret posteloù">
+<!ENTITY contextIncomingMail.label "Kerc'het kemennadennoù nevez :">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "Lañset dre zorn">
-<!ENTITY contextBoth.label "Degemeret posteloù pe Lañset dre zorn">
-<!ENTITY contextPostPlugin.label "Degemeret posteloù (goude rummadur)">
-<!ENTITY contextPostPluginBoth.label "Degemeret posteloù (goude rummadur) pe Lañset dre zorn">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Silañ a-raok dinoadur ar posteloù lastez">
+<!ENTITY contextAfterCls.label "Silañ goude dinoadur ar posteloù lastez">
+
 <!ENTITY filterActionDesc.label "Lañsañ ar gwezhioù da-heul :">
 <!ENTITY filterActionDesc.accesskey "o">
 
