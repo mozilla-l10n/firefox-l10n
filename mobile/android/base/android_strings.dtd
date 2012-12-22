@@ -109,6 +109,12 @@
 <!ENTITY new_private_tab "Новая приватная вкладка">
 <!ENTITY synced_tabs "Синхронизированные вкладки">
 <!ENTITY close_all_tabs "Закрыть все вкладки">
+<!ENTITY tabs_normal "Вкладки">
+<!ENTITY tabs_private "Приватные">
+<!ENTITY tabs_synced "Синхронизированные">
+<!ENTITY wallpaper_success "Обои обновлены">
+<!ENTITY wallpaper_progress "Установка обоев">
+<!ENTITY wallpaper_fail "Не удалось установить обои">
 <!ENTITY find_text "Найти на странице">
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Далее">
