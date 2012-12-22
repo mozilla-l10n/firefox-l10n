@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Itxi fitxa">
 <!ENTITY new_tab "Fitxa berria">
 <!ENTITY one_tab "fitxa 1">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d fitxa">
 <!ENTITY new_tab_opened "Fitxa berria irekita">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Esan guneei nire jarraipenik ez egiteko">
 <!ENTITY pref_telemetry "Bidali errendimenduaren datuak">
 <!ENTITY pref_remember_signons "Gogoratu pasahitzak">
-<!ENTITY pref_cookies "Gaitu cookie-ak">
+
+<!ENTITY pref_cookies_menu "Cookie-ak">
+<!ENTITY pref_cookies_accept_all "Gaituta">
+<!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
+<!ENTITY pref_cookies_disabled "Desgaituta">
+
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
 <!ENTITY pref_char_encoding_off "Ez erakutsi menua">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_text_size "Testuaren tamaina">
+<!ENTITY pref_reflow_on_zoom2 "Egin atximur testua modu jarraituan berriro jartzeko">
 <!ENTITY pref_font_size_tiny "Txikitxoa">
 <!ENTITY pref_font_size_small "Txikia">
 <!ENTITY pref_font_size_medium "Normala">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
 <!ENTITY pref_private_data_siteSettings "Gunearen hobespenak">
 
+<!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
+<!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
+<!ENTITY pref_update_autodownload_disabled "Desgaituta">
+<!ENTITY pref_update_autodownload_enabled "Gaituta">
+
 <!ENTITY quit "Irten">
 
 <!ENTITY addons "Gehigarriak">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Eskatu mahaigaineko gunea">
 <!ENTITY tools "Tresnak">
+<!ENTITY new_pb_tab "Nabigatze pribatuko fitxa berria">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Azken aldiko fitxak">
 <!ENTITY abouthome_last_tabs_open "Ireki azken saioko fitxa guztiak">
 <!ENTITY abouthome_top_sites_title "Gune erabilienak">
-<!ENTITY abouthome_top_sites_browse "Arakatu zure gunerik erabilienak">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ Android-etik">
 
 <!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
 <!ENTITY updater_start_select2 "Ukitu deskargatzeko">
- 
+
 <!ENTITY updater_downloading_title2 "&brandShortName; deskargatzen">
 <!ENTITY updater_downloading_title_failed2 "Deskargak huts egin du">
 <!ENTITY updater_downloading_select2 "Ukitu eguneraketa aplikatzeko behin deskargatuta">
 <!ENTITY updater_downloading_retry2 "Ukitu berriro saiatzeko">
- 
+
 <!ENTITY updater_apply_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
 <!ENTITY updater_apply_select2 "Ukitu eguneratzeko">

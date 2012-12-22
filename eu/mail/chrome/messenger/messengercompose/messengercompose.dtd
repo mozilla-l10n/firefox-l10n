@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Banaketa egoeraren jakinarazpena">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY outputFormatMenu.label "Formatua">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Banaketa-formatua">
+<!ENTITY deliveryFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Auto-detektatu">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Testu arrunta soilik">
