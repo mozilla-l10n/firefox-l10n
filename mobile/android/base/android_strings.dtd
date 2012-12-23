@@ -71,6 +71,7 @@
 <!ENTITY pref_do_not_track "Nechci být sledován">
 <!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
+
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Povolit">
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
@@ -85,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
+<!ENTITY pref_reflow_on_zoom2 "Stažením prstů formátovat">
 <!ENTITY pref_font_size_tiny "Drobné">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
