@@ -366,7 +366,7 @@
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 ">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.label "Reducir">
 <!ENTITY fullZoomReduceCmd.accesskey "A">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
