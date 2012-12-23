@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey "b">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
 <!ENTITY resetSync.accesskey "m">
-<!ENTITY deactivateDevice.label "Odpojit toto zařízení">
-<!ENTITY deactivateDevice.accesskey "O">
+<!ENTITY unlinkDevice.label "Odpojit toto zařízení">
+<!ENTITY unlinkDevice.accesskey "O">
 <!ENTITY addDevice.label "Přidat zařízení">
 <!ENTITY addDevice.accesskey "P">
 
