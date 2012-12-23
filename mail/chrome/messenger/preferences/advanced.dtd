@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey      	"c">
 <!ENTITY searchIntegration.label			"Lit &searchIntegration.engineName; troch berjochten sykje">
 <!ENTITY searchIntegration.accesskey		"S">
-<!ENTITY checkNow.label             		"No kontrolearje">
-<!ENTITY checkNow.accesskey         		"N">
+<!ENTITY checkDefaultsNow.label             "No kontrolearje…">
+<!ENTITY checkDefaultsNow.accesskey         "N">
 <!ENTITY configEditDesc.label          		"Wiidweidige konfiguraasje">
 <!ENTITY configEdit.label              		"Konfiguraasje-bewurker…">
 <!ENTITY configEdit.accesskey          		"f">
