@@ -109,6 +109,12 @@
 <!ENTITY new_private_tab "Nuova scheda anonima">
 <!ENTITY synced_tabs "Schede sincronizzate">
 <!ENTITY close_all_tabs "Chiudi tutte le schede">
+<!ENTITY tabs_normal "Schede">
+<!ENTITY tabs_private "Anonime">
+<!ENTITY tabs_synced "Sincronizzate">
+<!ENTITY wallpaper_success "Sfondo aggiornato">
+<!ENTITY wallpaper_progress "Impostazione sfondo">
+<!ENTITY wallpaper_fail "Impossibile impostare lo sfondo">
 <!ENTITY find_text "Trova nella pagina">
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
