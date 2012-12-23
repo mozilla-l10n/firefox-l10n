@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Fechar aba">
 <!ENTITY new_tab "Nova aba">
 <!ENTITY one_tab "1 aba">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d abas">
 <!ENTITY new_tab_opened "Aberta nova aba">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Pedir para não ser rastreado">
 <!ENTITY pref_telemetry "Enviar dados sobre desempenho">
 <!ENTITY pref_remember_signons "Memorizar senhas">
-<!ENTITY pref_cookies "Permitir cookies">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Ativados">
+<!ENTITY pref_cookies_not_accept_foreign "Ativados, excluindo os de elementos fora do site visitado">
+<!ENTITY pref_cookies_disabled "Desativados">
+
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Exibir menu">
 <!ENTITY pref_char_encoding_off "Não exibir menu">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
 <!ENTITY pref_plugins_disabled "Desativados">
 <!ENTITY pref_text_size "Tamanho do texto">
+<!ENTITY pref_reflow_on_zoom2 "Ajustar texto com gesto da pinça">
 <!ENTITY pref_font_size_tiny "Minúsculo">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Médio">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings "Preferências de sites">
 
+<!ENTITY pref_update_autodownload "Atualização automática">
+<!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desativada">
+<!ENTITY pref_update_autodownload_enabled "Ativada">
+
 <!ENTITY quit "Sair">
 
 <!ENTITY addons "Complementos">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Localizar na página">
 <!ENTITY desktop_mode "Solicitar site do desktop">
 <!ENTITY tools "Ferramentas">
+<!ENTITY new_pb_tab "Nova aba de navegação privativa">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Suas abas anteriores">
 <!ENTITY abouthome_last_tabs_open "Abrir todas as abas anteriores">
 <!ENTITY abouthome_top_sites_title "Principais">
-<!ENTITY abouthome_top_sites_browse "Todos os sites principais">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -238,11 +249,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para receber">
- 
+
 <!ENTITY updater_downloading_title2 "Recebendo o &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Falha no recebimento">
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for recebida">
 <!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
- 
+
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar">
