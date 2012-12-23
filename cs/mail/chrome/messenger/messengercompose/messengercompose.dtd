@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "p">
 <!ENTITY dsnMenu.label "Potvrzení o doručení">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY outputFormatMenu.label "Formát">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Formát doručení">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automaticky rozpoznat">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Pouze prostý text">
