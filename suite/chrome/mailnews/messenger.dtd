@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
 <!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyListCmd.label "Odpovědět do konference">
+<!ENTITY replyListCmd.accesskey "f">
+<!ENTITY replyNewsgroupCmd.label "Odpovědět do skupiny">
+<!ENTITY replyNewsgroupCmd.accesskey "u">
 <!ENTITY replySenderCmd.label "Odpovědět odesílateli">
 <!ENTITY replySenderCmd.accesskey "l">
-<!ENTITY replyNewsgroupCmd.label "Odpovědět do diskusní skupiny">
-<!ENTITY replyNewsgroupCmd.accesskey "i">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -455,11 +457,13 @@
 <!ENTITY contextEditAsNew.accesskey "n">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
 <!ENTITY contextReplySender.accesskey "L">
-<!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyList.label "Odpovědět do konference">
+<!ENTITY contextReplyList.accesskey "f">
+<!ENTITY contextReplyNewsgroup.label "Odpovědět do skupiny">
+<!ENTITY contextReplyNewsgroup.accesskey "u">
 <!ENTITY contextReplyAll.label "Odpovědět všem">
 <!ENTITY contextReplyAll.accesskey "O">
-<!ENTITY contextReplySenderAndNewsgroup.label "Odpovědět odesílateli a do diskusní skupiny">
+<!ENTITY contextReplySenderAndNewsgroup.label "Odpovědět odesílateli a do skupiny">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "d">
 <!ENTITY contextForward.label "Přeposlat">
 <!ENTITY contextForward.accesskey "P">
