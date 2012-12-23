@@ -13,8 +13,8 @@
 <!ENTITY port       "Puerto:">
 <!ENTITY connect    "Conectar">
 <!ENTITY connecting "Conectando…">
-<!ENTITY availability "Objetos remotos disponibles:">
-<!ENTITY remoteProcess "proceso remoto">
+<!ENTITY availableTabs "Pestañas remotas disponibles:">
+<!ENTITY availableProcesses "Procesos remotos disponibles:">
 <!ENTITY connectionError "Error:">
 <!ENTITY errorTimeout "Error: Tiempo de espera de conexión superado.">
 <!ENTITY errorRefused "Error: conexión rechazada.">
