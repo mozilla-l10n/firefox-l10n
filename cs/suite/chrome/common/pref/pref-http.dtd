@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.http.title "HTTP spojení">
+
 <!-- Network-->
 <!ENTITY prefDirect.label "Volby pro přímé spojení">
 <!ENTITY prefProxy.label "Volby pro spojení přes proxy server">
@@ -12,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label "Použít HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "T">
-<!ENTITY prefEnableKeepAlive.label "Povolit trvalá spojení (Keep-Alive)">
-<!ENTITY prefEnableKeepAlive.accesskey "r">
-<!ENTITY prefEnableKeepAliveProxy.accesskey "s">
 <!ENTITY prefEnablePipelining.label "Povolit proudové zpracování (Pipelining)">
 <!ENTITY prefEnablePipelining.accesskey "o">
 <!ENTITY prefEnablePipeliningProxy.accesskey "z">
