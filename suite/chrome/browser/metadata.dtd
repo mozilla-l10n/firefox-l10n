@@ -12,6 +12,7 @@
 <!ENTITY image-width.label "Šířka:">
 <!ENTITY image-height.label "Výška:">
 <!ENTITY image-filesize.label "Velikost souboru:">
+<!ENTITY image-filesize.value "Neznámá">
 <!ENTITY insdel-sec.label "Vlastnosti vkládání/mazání">
 <!ENTITY insdel-cite.label "Informace:">
 <!ENTITY insdel-date.label "Datum:">
