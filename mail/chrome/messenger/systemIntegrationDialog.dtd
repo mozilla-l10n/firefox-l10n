@@ -11,6 +11,8 @@
 <!ENTITY newsgroups.label "Diskusní skupiny">
 <!ENTITY feeds.label "Kanály">
 
+<!ENTITY unsetDefault.tooltip "Z aplikace &brandShortName; není možné nastavit, aby &brandShortName; nebyl výchozí klient. Pro nastavení jiné aplikace jako výchozí použijte její dialog pro nastavení výchozí aplikace.">
+
 <!ENTITY checkOnStartup.label "Vždy kontrolovat při startu aplikace &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "V">
 
