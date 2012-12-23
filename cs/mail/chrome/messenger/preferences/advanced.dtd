@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "s">
 <!ENTITY searchIntegration.label "Povolit službě &searchIntegration.engineName; prohledávat zprávy">
 <!ENTITY searchIntegration.accesskey "v">
-<!ENTITY checkNow.label "Zkontrolovat">
-<!ENTITY checkNow.accesskey "Z">
+<!ENTITY checkDefaultsNow.label "Zkontrolovat…">
+<!ENTITY checkDefaultsNow.accesskey "Z">
 <!ENTITY configEditDesc.label "Rozšířená konfigurace">
 <!ENTITY configEdit.label "Editor předvoleb…">
 <!ENTITY configEdit.accesskey "E">
