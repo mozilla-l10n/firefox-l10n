@@ -317,7 +317,7 @@
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "移至">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY copyMessageLocation.label "複製郵件位置">
+<!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "複製到">
 <!ENTITY copyMsgToMenu.accesskey "C">
