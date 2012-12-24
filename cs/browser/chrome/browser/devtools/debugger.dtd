@@ -111,6 +111,21 @@
 <!ENTITY debuggerUI.seMenuCondBreak "Přidat podmíněnou zarážku">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
+  -  appears in the source editor context menu for adding an expression. -->
+<!ENTITY debuggerUI.seMenuAddWatch "Z výběru vytvořit sledovaný výraz">
+<!ENTITY debuggerUI.seMenuAddWatch.key "E">
+
+<!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
+  -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch "Přidat sledovaný výraz">
+<!ENTITY debuggerUI.addWatch.key "E">
+
+<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+  -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch "Odebrat všechny sledované výrazy">
+<!ENTITY debuggerUI.removeAllWatch.key "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
