@@ -139,7 +139,9 @@ size. -->
 <!ENTITY new_private_tab "Nový anonymní panel">
 <!ENTITY synced_tabs "Synchronizované panely">
 <!ENTITY close_all_tabs "Zavřít všechny panely">
-
+<!ENTITY tabs_normal "Panely">
+<!ENTITY tabs_private "Anonymní">
+<!ENTITY tabs_synced "Synchronizované">
 <!ENTITY wallpaper_success "Pozadí plochy aktualizováno">
 <!ENTITY wallpaper_progress "Nastavování pozadí plochy">
 <!ENTITY wallpaper_fail "Nastavení pozadí plochy se nezdařilo">
