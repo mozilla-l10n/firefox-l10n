@@ -126,7 +126,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "İ">
-<!ENTITY enableInlineSpellChecker.label "Yazarken imla denetimi yap">
+<!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimi yap">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY quoteCmd.label "İletiyi alıntıla">
 <!ENTITY quoteCmd.accesskey "y">
@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "A">
 <!ENTITY dsnMenu.label "Teslimat durumu bildirimi">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY outputFormatMenu.label "Biçim">
-<!ENTITY outputFormatMenu.accesskey "B">
+<!ENTITY deliveryFormatMenu.label "Teslimat Biçimi">
+<!ENTITY deliveryFormatMenu.accesskey "T">
 <!ENTITY autoFormatCmd.label "Otomatik tanı">
 <!ENTITY autoFormatCmd.accesskey "t">
 <!ENTITY plainTextFormatCmd.label "Sadece düz metin">
@@ -195,7 +195,7 @@
 <!ENTITY quoteButton.label "Alıntı yap">
 <!ENTITY addressButton.label "Kişiler">
 <!ENTITY attachButton.label "Ek">
-<!ENTITY spellingButton.label "İmla denetimi">
+<!ENTITY spellingButton.label "Yazım denetimi">
 <!ENTITY saveButton.label "Kaydet">
 
 <!-- Mail Toolbar Tooltips -->
@@ -204,7 +204,7 @@
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
 <!ENTITY addressButton.tooltip "Adres defterinden alıcı seç">
 <!ENTITY attachButton.tooltip "Dosya ekle">
-<!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin imla denetimini yapar">
+<!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin yazım denetimini yapar">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
