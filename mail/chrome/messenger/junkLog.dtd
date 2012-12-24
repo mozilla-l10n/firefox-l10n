@@ -5,7 +5,7 @@
 <!ENTITY adaptiveJunkLog.title "Uyumlu Gereksiz Posta Günlüğü">
 <!ENTITY adaptiveJunkLogInfo.label "Uyumlu gereksiz posta denetim etkinliği günlüğü.">
 <!ENTITY clearLog.label "Günlüğü temizle">
-<!ENTITY clearLog.accesskey "C">
+<!ENTITY clearLog.accesskey "t">
 <!ENTITY closeLog.label "Kapat">
 <!ENTITY closeLog.accesskey "p">
 

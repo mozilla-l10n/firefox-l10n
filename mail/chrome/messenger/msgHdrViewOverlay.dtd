@@ -69,8 +69,8 @@
 <!ENTITY otherActionsPrint1.accesskey "z">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
-<!ENTITY startExpandedCmd.accesskey    "S">
+<!ENTITY startExpandedCmd.label    "Ek bölmesini daima göster">
+<!ENTITY startExpandedCmd.accesskey    "g">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Aç">

@@ -16,13 +16,14 @@
 <!ENTITY highPriorityCmd.label "Yüksek">
 <!ENTITY highestPriorityCmd.label "En yüksek">
 
-<!ENTITY contextDesc.label "Süzgeçlerin çalışma zamanı:">
-<!ENTITY contextDesc.accesskey "z">
-<!ENTITY contextIncoming.label "Posta denetimi esnasında">
+<!ENTITY contextDesc.label "Süzgecin uygulanma zamanı:">
+<!ENTITY contextIncomingMail.label "Yeni posta alırken:">
+<!ENTITY contextIncomingMail.accesskey "Y">
 <!ENTITY contextManual.label "Elle çalıştır">
-<!ENTITY contextBoth.label "Posta denetimi esnasında veya elle">
-<!ENTITY contextPostPlugin.label "Posta denetimi (sınıflandırma sonrası)">
-<!ENTITY contextPostPluginBoth.label "Posta denetimi (sınıflandırma sonrası) veya elle çalıştırma">
+<!ENTITY contextManual.accesskey "E">
+<!ENTITY contextBeforeCls.label "Gereksiz sınıflandırmasından önce süz">
+<!ENTITY contextAfterCls.label "Gereksiz sınıflandırmasından sonra süz">
+
 <!ENTITY filterActionDesc.label "Bu eylemleri uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
 

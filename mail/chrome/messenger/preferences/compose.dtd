@@ -4,12 +4,12 @@
 
 <!ENTITY itemGeneral.label                   "Genel">
 <!ENTITY itemAutoComplete.label              "Hitap">
-<!ENTITY itemSpellCheck.label                "İmla denetimi">
+<!ENTITY itemSpellCheck.label                "Yazım denetimi">
 
 <!ENTITY forwardMsg.label                     "İletileri">
 <!ENTITY forwardMsg.accesskey                 "İ">
 <!ENTITY inline.label                         "İleti içinde ilet">
-<!ENTITY asAttachment.label                   "Eklenti olarak ilet">
+<!ENTITY asAttachment.label                   "Ek olarak ilet">
 <!ENTITY addExtension.label                   "dosya adına uzantı ekle">
 <!ENTITY addExtension.accesskey               "d">
 
@@ -25,7 +25,7 @@
 <!ENTITY restoreHTMLDefaults.label            "Varsayılanları geri yükle">
 <!ENTITY restoreHTMLDefaults.accesskey        "g">
 
-<!ENTITY spellCheck.label                     "Göndermeden önce imla denetimi yap">
+<!ENTITY spellCheck.label                     "Göndermeden önce yazım denetimi yap">
 <!ENTITY spellCheck.accesskey                 "a">
 <!ENTITY spellCheckInline.label               "Yazma sırasında imla denetimini etkinleştir">
 <!ENTITY spellCheckInline1.accesskey          "k">
@@ -58,5 +58,5 @@
 <!ENTITY attachmentReminder.label              "Eksik ekleri denetle">
 <!ENTITY attachmentReminder.accesskey          "d">
 <!ENTITY attachmentReminderOptions.label       "Anahtar kelimeler…">
-<!ENTITY attachmentReminderOptions.accesskey   "k">
+<!ENTITY attachmentReminderOptions.accesskey   "A">
 

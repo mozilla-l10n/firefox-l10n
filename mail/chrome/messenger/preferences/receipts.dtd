@@ -13,7 +13,7 @@
 <!ENTITY requestMDN.label              "Benden alındı onayı istendiğinde:">
 <!ENTITY never.label                   "Hiçbir zaman alındı onayı gönderme">
 <!ENTITY never.accesskey               "n">
-<!ENTITY returnSome.label              "Bazı ieltiler için alındı onayına izin ver">
+<!ENTITY returnSome.label              "Bazı iletiler için alındı onayına izin ver">
 <!ENTITY returnSome.accesskey          "r">
 <!ENTITY notInToCc.label               "Adresim 'Kime' veya Cc satırında değilse:">
 <!ENTITY notInToCc.accesskey           "n">

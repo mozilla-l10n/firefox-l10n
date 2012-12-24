@@ -22,7 +22,7 @@
 <!ENTITY reorderBottomButton.accessKey "A">
 <!ENTITY reorderBottomButton.toolTip "Filtreyi diğerlerinden sonra çalışacak şekilde yeniden düzenle">
 <!ENTITY filterHeader.label "Etkin süzgeçler aşağıdaki sıralamaya göre otomatik olarak çalıştırılır.">
-<!ENTITY filtersForPrefix.label "Süzgeçlenecek hesap:">
+<!ENTITY filtersForPrefix.label "Süzülecek hesap:">
 <!ENTITY filtersForPrefix.accesskey "S">
 <!ENTITY viewLogButton.label "Süzgeç günlüğü">
 <!ENTITY viewLogButton.accesskey "l">

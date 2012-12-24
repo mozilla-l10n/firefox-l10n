@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sohbet">
 <!ENTITY goChatCmd.accesskey "b">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı ileti">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
 <!ENTITY folderMenu.label "Dizin">

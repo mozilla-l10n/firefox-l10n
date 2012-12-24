@@ -10,7 +10,7 @@
 <!ENTITY convertPlain.label           "İletiyi düz metne çevir">
 <!ENTITY convertPlain.accesskey       "d">
 <!ENTITY sendHTML.label               "Yine de HTML olarak gönder">
-<!ENTITY sendHTML.accesskey           "d">
+<!ENTITY sendHTML.accesskey           "o">
 <!ENTITY sendBoth.label               "İletiyi hem düz metin hem de HTML olarak gönder">
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Not: Alıcılara özel metin biçimlerini ayarlamak için adres defterini kullanın.">
