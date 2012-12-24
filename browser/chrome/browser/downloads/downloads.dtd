@@ -60,8 +60,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey "e">
 <!ENTITY cmd.copyDownloadLink.label "Kopírovat stahovaný odkaz">
 <!ENTITY cmd.copyDownloadLink.accesskey "K">
-<!ENTITY cmd.removeFromList.label "Odebrat ze seznamu">
-<!ENTITY cmd.removeFromList.accesskey "d">
+<!ENTITY cmd.removeFromHistory.label "Odebrat z historie">
+<!ENTITY cmd.removeFromHistory.accesskey "d">
 <!ENTITY cmd.clearList.label "Smazat seznam">
 <!ENTITY cmd.clearList.accesskey "m">
 
