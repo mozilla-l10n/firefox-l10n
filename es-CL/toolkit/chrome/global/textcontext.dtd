@@ -14,8 +14,9 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "E">
+
 <!ENTITY spellAddToDictionary.label "Añadir al diccionario">
-<!ENTITY spellAddToDictionary.accesskey "g">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Deshacer agregar al diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Revizar ortografía">
