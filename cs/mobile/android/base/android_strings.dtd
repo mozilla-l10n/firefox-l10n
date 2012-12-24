@@ -54,7 +54,6 @@
 <!ENTITY site_security "Zabezpečení stránky">
 
 <!ENTITY close_tab "Zavřít panel">
-<!ENTITY new_tab "Nový panel">
 <!ENTITY one_tab "1 panel">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -136,7 +135,11 @@ size. -->
 <!ENTITY find_in_page "Najít ve stránce">
 <!ENTITY desktop_mode "Desktopová verze">
 <!ENTITY tools "Nástroje">
-<!ENTITY new_pb_tab "Nový anonymní panel">
+<!ENTITY new_tab "Nový panel">
+<!ENTITY new_private_tab "Nový anonymní panel">
+<!ENTITY synced_tabs "Synchronizované panely">
+<!ENTITY close_all_tabs "Zavřít všechny panely">
+
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
