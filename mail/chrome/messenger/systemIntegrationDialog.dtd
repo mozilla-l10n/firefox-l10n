@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Sistem tümleştirmesi">
+<!ENTITY acceptIntegration.label  "Varsayılan olarak ayarla">
+<!ENTITY cancelIntegration.label  "Tümleştirmeyi geç">
 <!ENTITY defaultClient.intro  "&brandShortName; aşağıdaki hizmetler için varsayılan istemci olarak kullanılsın:">
 
 <!ENTITY email.label "E-posta">
 <!ENTITY newsgroups.label "Haber grupları">
 <!ENTITY feeds.label "Beslemeler">
+
+<!ENTITY unsetDefault.tooltip "&brandShortName; içinden varsayılan istemciyi &brandShortName; dışında bir istemci yapamazsınız. Başka bir uygulamayı varsayılan yapmak için o uygulamanın 'Varsayılan olarak ayarla' komutunu kullanmalısınız.">
 
 <!ENTITY checkOnStartup.label "Bu denetimi &brandShortName; uygulamasının her açılışında uygula">
 <!ENTITY checkOnStartup.accesskey "B">
