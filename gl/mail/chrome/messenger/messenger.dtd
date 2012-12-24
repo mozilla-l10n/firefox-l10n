@@ -556,8 +556,8 @@
 <!ENTITY addressBookButton.tooltip "Ir á axenda de enderezos">
 <!ENTITY chatButton.tooltip "Amosa a lapela das conversas">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
-<!ENTITY compactButton.tooltip "Eliminar mensaxes eliminadas do cartafol seleccionado">
-<!ENTITY appmenuButton.tooltip "Amosa o menú do aplicativo">
+<!ENTITY compactButton.tooltip "Retira as mensaxes eliminadas do cartafol seleccionado">
+<!ENTITY appmenuButton1.tooltip "Amosa o menú do &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensaxe">
@@ -587,8 +587,8 @@
 <!ENTITY folderContextNew.accesskey "u">
 <!ENTITY folderContextRename.label "Renomear">
 <!ENTITY folderContextRename.accesskey "R">
-<!ENTITY folderContextRemove.label "Borrar">
-<!ENTITY folderContextRemove.accesskey "o">
+<!ENTITY folderContextRemove.label "Eliminar">
+<!ENTITY folderContextRemove.accesskey "m">
 <!ENTITY folderContextCompact.label "Compactar">
 <!ENTITY folderContextCompact.accesskey "p">
 <!ENTITY folderContextEmptyTrash.label "Baleirar a papeleira">
@@ -599,7 +599,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "t">
 <!ENTITY folderContextUnsubscribe.label "Cancelar subscrición">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de noticias como lido">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de novas como lido">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "M">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar o cartafol lido">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
