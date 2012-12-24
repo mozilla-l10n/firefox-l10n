@@ -52,10 +52,11 @@
 <!ENTITY debuggerUI.showPanesOnInit "Po otevření zobrazit panely">
 <!ENTITY debuggerUI.showPanesOnInit.key "o">
 
-<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
-  -  checkbox that toggles visibility of a designated variables searchbox. -->
-<!ENTITY debuggerUI.showVarsSearch "Zobrazit hledací pole proměnných">
-<!ENTITY debuggerUI.showVarsSearch.key "h">
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
+  -  checkbox that toggles visibility of a designated variables filter box. -->
+<!ENTITY debuggerUI.showVarsFilter "Zobrazit filtrovací pole proměnných">
+<!ENTITY debuggerUI.showVarsFilter.key "f">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. -->
