@@ -16,7 +16,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\u0027i kur”u seçin.'>
 <!ENTITY sync.subtitle.header2.label 'Bu kodu diğer aygıtınıza girin'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Diğer cihazınızın Firefox ayarlarındaki &syncBrand.shortName.label; bölümünden “&sync.title.pair.label;”yi seçin.'>
 <!ENTITY sync.subtitle.pair.label 'Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Seçenekler'>
 <!ENTITY sync.summary.pair.label '&syncBrand.shortName.label; hesabınıza başka bir aygıtı bağlayın'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Eşitlenecek ögeler'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Aşağıdakileri eşitle:'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Yer imleri'>
+<!ENTITY sync.configure.engines.title.passwords 'Parolalar'>
+<!ENTITY sync.configure.engines.title.history 'Geçmiş'>
+<!ENTITY sync.configure.engines.title.tabs 'Sekmeler'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'İptal'>
 <!ENTITY sync.button.connect.label 'Bağlan'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>
+<!ENTITY sync.notification.configure.saved 'Seçimleriniz kaydedildi.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Yanlış hesap adı veya parola.'>
