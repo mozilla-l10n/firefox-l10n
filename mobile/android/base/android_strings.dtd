@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Sekmeyi kapat">
 <!ENTITY new_tab "Yeni sekme">
 <!ENTITY one_tab "1 sekme">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d sekme">
 <!ENTITY new_tab_opened "Yeni sekme açıldı">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Siteler beni takip etmesin">
 <!ENTITY pref_telemetry "Performans verilerini gönder">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
-<!ENTITY pref_cookies "Çerezleri etkinleştir">
+
+<!ENTITY pref_cookies_menu "Çerezler">
+<!ENTITY pref_cookies_accept_all "Etkin">
+<!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
+<!ENTITY pref_cookies_disabled "Devre dışı">
+
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
+<!ENTITY pref_reflow_on_zoom2 "Metni yenilemek için sıkıştırın">
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings "Site tercihleri">
 
+<!ENTITY pref_update_autodownload "Otomatik güncellemeler">
+<!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
+<!ENTITY pref_update_autodownload_disabled "Devre dışı">
+<!ENTITY pref_update_autodownload_enabled "Etkin">
+
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Sayfada bul">
 <!ENTITY desktop_mode "Masaüstü sitesini iste">
 <!ENTITY tools "Araçlar">
+<!ENTITY new_pb_tab "Yeni Gizli Tarama Sekmesi">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
 <!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
 <!ENTITY abouthome_top_sites_title "Popüler siteler">
-<!ENTITY abouthome_top_sites_browse "Tüm popüler sitelerinize göz atın">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -238,12 +249,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_start_select2 "İndirmek için dokunun">
- 
+
 <!ENTITY updater_downloading_title2 "&brandShortName; indiriliyor">
 <!ENTITY updater_downloading_title_failed2 "İndirme başarısız oldu">
 <!ENTITY updater_downloading_select2 "İndirildiğinde güncellemeyi uygulamak için dokunun">
 <!ENTITY updater_downloading_retry2 "Yeniden denemek için dokunun">
- 
+
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 
