@@ -47,7 +47,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Bağlantı oluştur…">
 <!ENTITY createLinkCmd.accesskey "B">
-<!ENTITY editLinkCmd.label "Bağlantıyı yeni Düzenleyicide düzenle">
+<!ENTITY editLinkCmd.label "Bağlantıyı yeni düzenleyicide düzenle">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->

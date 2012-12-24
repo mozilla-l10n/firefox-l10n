@@ -6,7 +6,7 @@
 <!ENTITY itemTags.label                   "Etiketler">
 
 <!ENTITY style.label                      "Stil:">
-<!ENTITY style.accesskey                  "t">
+<!ENTITY style.accesskey                  "S">
 <!ENTITY regularStyle.label               "Düzenli">
 <!ENTITY bold.label                       "Kalın">
 <!ENTITY italic.label                     "Eğik">
@@ -36,7 +36,7 @@
 <!ENTITY addTagButton.label        "Ekle">
 <!ENTITY addTagButton.accesskey    "E">
 <!ENTITY editTagButton.label       "Düzenle">
-<!ENTITY editTagButton.accesskey   "e">
+<!ENTITY editTagButton.accesskey   "z">
 <!ENTITY removeTagButton.label     "Sil">
 <!ENTITY removeTagButton.accesskey "l">
 

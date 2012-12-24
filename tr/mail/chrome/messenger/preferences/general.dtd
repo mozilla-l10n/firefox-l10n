@@ -8,7 +8,7 @@
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Varsayılanı yükle">
-<!ENTITY useDefault.accesskey             "g">
+<!ENTITY useDefault.accesskey             "V">
 
 <!ENTITY bounceSystemDockIcon.label       "Dock simgesini oynat">
 <!ENTITY bounceSystemDockIcon.accesskey   "o">
@@ -17,7 +17,7 @@
 <!ENTITY playSound.label                  "Ses dosyası çal">
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
-<!ENTITY showAnimatedAlert.accesskey      "y">
+<!ENTITY showAnimatedAlert.accesskey      "g">
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
@@ -28,7 +28,7 @@
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
-<!ENTITY customsound.accesskey            "u">
+<!ENTITY customsound.accesskey            "s">
 <!ENTITY browse.label                     "Gözat…">
 <!ENTITY browse.accesskey                 "G">
 

@@ -13,12 +13,12 @@
 <!ENTITY submitTelemetry.label         "Performans verilerini gönder">
 <!ENTITY submitTelemetry.accesskey     "P">
 <!ENTITY telemetryInfoLink.label       "Telemetry hakkında daha fazla bilgi">
-<!ENTITY enableGlodaSearch.label       "Global aramayı ve endekslemeyi etkinleştir">
+<!ENTITY enableGlodaSearch.label       "Global aramayı ve dizin oluşturmayı etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 
 <!ENTITY scrolling.label               "Kaydırma">
 <!ENTITY useAutoScroll.label           "Otomatik kaydırmayı kullan">
-<!ENTITY useAutoScroll.accesskey       "y">
+<!ENTITY useAutoScroll.accesskey       "O">
 <!ENTITY useSmoothScrolling.label      "Yumuşak kaydırmayı kullan">
 <!ENTITY useSmoothScrolling.accesskey  "Y">
 
@@ -27,11 +27,11 @@
 <!ENTITY alwaysCheckDefault.accesskey  "h">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Şimdi denetle">
-<!ENTITY checkNow.accesskey            "d">
+<!ENTITY checkDefaultsNow.label        "Şimdi denetle…">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Gelişmiş yapılandırma">
 <!ENTITY configEdit.label              "Yapılandırma düzenleyici…">
-<!ENTITY configEdit.accesskey          "y">
+<!ENTITY configEdit.accesskey          "z">
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını yapın">
 <!ENTITY showReturnReceipts.label      "Alındı onayları…">
 <!ENTITY showReturnReceipts.accesskey  "A">
@@ -57,7 +57,7 @@
 <!ENTITY openMsgInNewTab.accesskey     "s">
 <!ENTITY reuseExpRadio0.label          "Yeni ileti penceresinde aç">
 <!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "Mevcut bir ileti penceresinin içinde aç">
+<!ENTITY reuseExpRadio1.label          "Mevcut bir ileti penceresinde aç">
 <!ENTITY reuseExpRadio1.accesskey      "c">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Taşınınca veya silinince ileti penceresini/sekmesini kapat">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
@@ -68,7 +68,7 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Kurulu eklentiler">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY whenUpdatesFound.label         "&brandShortName; için güncelleme bulunduğunda,">
+<!ENTITY whenUpdatesFound.label         "&brandShortName; için güncelleme bulunduğunda">
 <!ENTITY modeAskMe.label                "Ne yapılacağını bana sor">
 <!ENTITY modeAskMe.accesskey            "a">
 <!ENTITY modeAutomatic.label            "Güncellemeyi otomatik olarak indir ve kur">
@@ -79,7 +79,7 @@
 <!ENTITY showUpdates.accesskey          "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "G">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ayarlar…">
@@ -92,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "d">
 
 <!ENTITY Diskspace                       "Disk alanı">
-<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
-<!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "MB toplam">
+<!ENTITY offlineCompactFolders.label     "Toplam">
+<!ENTITY offlineCompactFolders.accesskey "o">
+<!ENTITY offlineCompactFoldersMB.label   "MB kazanılabileceği zaman tüm dizinleri sıkıştır">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

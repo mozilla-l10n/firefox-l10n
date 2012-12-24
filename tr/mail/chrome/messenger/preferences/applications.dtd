@@ -16,7 +16,7 @@
 <!ENTITY saveTo.label                 "Dosyaları kaydetme konumu">
 <!ENTITY saveTo.accesskey             "k">
 <!ENTITY alwaysAsk.label              "Dosyaların nereye kaydedileceğini her zaman sor">
-<!ENTITY alwaysAsk.accesskey          "K">
+<!ENTITY alwaysAsk.accesskey          "s">
 <!ENTITY chooseFolderWin.label        "Gözat…">
 <!ENTITY chooseFolderWin.accesskey    "G">
 <!ENTITY chooseFolderMac.label        "Seç…">

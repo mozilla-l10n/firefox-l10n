@@ -7,7 +7,7 @@
 <!ENTITY addKeywordButton.label           "Ekle">
 <!ENTITY addKeywordButton.accesskey       "E">
 <!ENTITY editKeywordButton.label          "Düzenle">
-<!ENTITY editKeywordButton.accesskey      "e">
+<!ENTITY editKeywordButton.accesskey      "z">
 <!ENTITY removeKeywordButton.label        "Sil">
 <!ENTITY removeKeywordButton.accesskey    "S">
 
