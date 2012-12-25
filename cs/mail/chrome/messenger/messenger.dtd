@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Zobrazí panel chatu">
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
-<!ENTITY appmenuButton.tooltip "Zobrazí nabídku aplikace">
+<!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová zprávae">
