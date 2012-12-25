@@ -8,10 +8,10 @@
 <!ENTITY port "Порт:">
 <!ENTITY connect "Соединиться">
 <!ENTITY connecting "Соединение…">
-<!ENTITY availability "Доступные удалённые объекты:">
-<!ENTITY remoteProcess "удалённый процесс">
+<!ENTITY availableTabs "Доступные удалённые вкладки:">
+<!ENTITY availableProcesses "Доступные удалённые процессы:">
 <!ENTITY connectionError "Ошибка:">
 <!ENTITY errorTimeout "Ошибка: время ожидания соединения истекло.">
 <!ENTITY errorRefused "Ошибка: в соединении отказано.">
 <!ENTITY errorUnexpected "Неожиданная ошибка.">
-<!ENTITY help "С помощью инструментов разработчика в Firefox вы можете отлаживать удалённые устройства (например, Firefox для Android и Firefox OS). Убедитесь, что вы включили на удалённом устройстве параметр 'Debugger Server'. Прочтите <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>документацию</a>.">
+<!ENTITY help "С помощью инструментов разработчика в Firefox вы можете отлаживать удалённые устройства (например, Firefox для Android и Firefox OS). Убедитесь, что вы включили на удалённом устройстве параметр 'Remote debugging'. Для получения большей информации прочтите <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_debugging'>документацию</a>.">
