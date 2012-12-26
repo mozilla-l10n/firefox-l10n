@@ -18,7 +18,7 @@
 
 <!ENTITY contextDesc.label "Arloañ ar sil pa vez:">
 <!ENTITY contextIncomingMail.label "Kerc'het kemennadennoù nevez :">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "K">
 <!ENTITY contextManual.label "Lañset dre zorn">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Silañ a-raok dinoadur ar posteloù lastez">
