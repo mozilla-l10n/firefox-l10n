@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Form Properties">
+<!ENTITY windowTitle.label "Propiedatz d'o formulario">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Parametros">
 
-<!ENTITY FormName.label "Form Name:">
+<!ENTITY FormName.label "Nombre d'o formulario:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Action URL:">
-<!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Method:">
+<!ENTITY FormAction.label "URL de l'acción:">
+<!ENTITY FormAction.accesskey "U">
+<!ENTITY FormMethod.label "Metodo:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codificación:">
 <!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Target Frame:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.label "Bastida de destín:">
+<!ENTITY FormTarget.accesskey "B">
 
-<!ENTITY RemoveForm.label "Remove Form">
-<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.label "Suprimir o formulario">
+<!ENTITY RemoveForm.accesskey "S">

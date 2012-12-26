@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Opcions">
 <!ENTITY sync.summary.pair.label "Vincule unatro dispositivo a la suya cuenta de &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Qué cosas sincronizar?">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar os suyos...">
+<!ENTITY sync.configure.engines.title.bookmarks "Marcapachinas">
+<!ENTITY sync.configure.engines.title.passwords "Claus">
+<!ENTITY sync.configure.engines.title.history "Historial">
+<!ENTITY sync.configure.engines.title.tabs "Pestanyas">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Cancelar">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Nomás se permite una cuenta de &syncBrand.fullName.label;">
+<!ENTITY sync.notification.configure.saved "S'ha alzau as suyas seleccions">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nombre de cuenta u clau incorrectos.">

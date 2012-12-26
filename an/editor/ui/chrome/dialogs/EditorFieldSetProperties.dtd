@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Field Set Properties">
+<!ENTITY windowTitle.label "Propiedatz d'a configuración d'o campo">
 
-<!ENTITY Legend.label "Legend">
+<!ENTITY Legend.label "Leyenda">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Edit Legend:">
-<!ENTITY EditLegendText.accesskey "T">
-<!ENTITY LegendAlign.label "Align Legend:">
+<!ENTITY EditLegendText.label "Editar a leyenda:">
+<!ENTITY EditLegendText.accesskey "t">
+<!ENTITY LegendAlign.label "Aliniar a leyenda:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Default">
-<!ENTITY AlignLeft.label "Left">
-<!ENTITY AlignCenter.label "Center">
-<!ENTITY AlignRight.label "Right">
+<!ENTITY AlignDefault.label "Por defecto">
+<!ENTITY AlignLeft.label "Cucha">
+<!ENTITY AlignCenter.label "Centro">
+<!ENTITY AlignRight.label "Dreita">
 
-<!ENTITY RemoveFieldSet.label "Remove Field Set">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.label "Suprimir o chuego de campos">
+<!ENTITY RemoveFieldSet.accesskey "S">

@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.title                 "Navegación privada">
 <!ENTITY privatebrowsingpage.title.normal          "Le fería goyo d'empecipiar a navegar de traza privada?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; no recordará brenca de l'historial d'ista sesión.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; no remerará brenca de l'historial d'ista sesión.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; no ye agora en o modo de navegación privada.">
 
 <!ENTITY privatebrowsingpage.description               "En una sesión de navegación privada, &brandShortName; no alzará garra información relacionada con l'historial de navegación, as buscas, l'historial de descargas, cookies u fichers temporals d'Internet. Manimenos, os fichers que alce u os marcadors que haiga creyau sí se conservarán.">
@@ -24,5 +24,5 @@
 <!ENTITY privatebrowsingpage.howToStop2                "Ta salir d'a navegación privada, trigue &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, u zarre &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "Ta empecipiar a navegación privada, puede tamién seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Encara que iste ordinador no conservará garra rechistro d'o suyo historial de navegación, o suya proveidor de servicios d'Internet u a suya interpresa encara podrían seguir o bayo d'as pachinas que haiga visitau.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Encara que iste ordinador no conservará garra rechistro d'o suyo historial de navegación, o suyo furnidor de servicios d'internet u a suya interpresa encara podrían seguir o bayo d'as pachinas que haiga visitau.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ta saber-ne mas">

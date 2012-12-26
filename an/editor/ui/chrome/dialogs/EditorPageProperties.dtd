@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Page Properties">
-<!ENTITY location.label "Location:">
-<!ENTITY lastModified.label "Last Modified:">
-<!ENTITY titleInput.label "Title:">
+<!ENTITY windowTitle.label "Propiedatz d'a pachina">
+<!ENTITY location.label "Ubicación:">
+<!ENTITY lastModified.label "Modificau por zaguera vegada:">
+<!ENTITY titleInput.label "Titol:">
 <!ENTITY titleInput.accessKey "T">
-<!ENTITY authorInput.label "Author:">
+<!ENTITY authorInput.label "Autor:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Description:">
+<!ENTITY descriptionInput.label "Descripción:">
 <!ENTITY descriptionInput.accessKey "D">
-<!ENTITY locationNewPage.label "[New page, not saved yet]">
-<!ENTITY EditHEADSource1.label "Advanced users:">
-<!ENTITY EditHEADSource2.label "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar.">
+<!ENTITY locationNewPage.label "[Pachina nueva, no s'ha alzau encara]">
+<!ENTITY EditHEADSource1.label "Usuarios abanzaus:">
+<!ENTITY EditHEADSource2.label "Ta editar atros contenius d'a sección &lt;head&gt; emplegue &quot;Fuent HTML&quot; en o menú Veyer u en a barra de ferramientas d'o modo d'edición.">

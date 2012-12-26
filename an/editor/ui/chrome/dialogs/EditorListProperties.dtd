@@ -4,17 +4,17 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "List Properties">
+<!ENTITY windowTitle.label "Propiedatz d'a lista">
 
-<!ENTITY ListType.label "List Type">
-<!ENTITY bulletStyle.label "Bullet Style:">
-<!ENTITY startingNumber.label "Start at:">
-<!ENTITY startingNumber.accessKey "S">
-<!ENTITY none.value "None">
-<!ENTITY bulletList.value "Bullet (Unnumbered) List">
-<!ENTITY numberList.value "Numbered List">
-<!ENTITY definitionList.value "Definition List">
-<!ENTITY changeEntireListRadio.label "Change entire list">
+<!ENTITY ListType.label "Tipo de lista">
+<!ENTITY bulletStyle.label "Estilo de vinyeta:">
+<!ENTITY startingNumber.label "Numero inicial:">
+<!ENTITY startingNumber.accessKey "N">
+<!ENTITY none.value "Garra">
+<!ENTITY bulletList.value "Lista de vinyetas (sinde numero):">
+<!ENTITY numberList.value "Lista numerada">
+<!ENTITY definitionList.value "Lista de definicions">
+<!ENTITY changeEntireListRadio.label "Cambiar toda la lista">
 <!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Change just selected items">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.label "Cambiar nomás os elementos seleccionaus">
+<!ENTITY changeSelectedRadio.accessKey "i">

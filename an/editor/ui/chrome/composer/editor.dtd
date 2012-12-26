@@ -10,58 +10,58 @@
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY compositionToolbar.tooltip "Barra de redacción">
+<!ENTITY previewToolbarCmd.label "Navegar">
+<!ENTITY previewToolbarCmd.tooltip "Cargar ista pachina en o navegador">
 <!-- File menu items -->
 
-<!ENTITY exportToTextCmd.label "Export to Text…">
+<!ENTITY exportToTextCmd.label "Exportar como texto,,,">
 <!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY previewCmd.label "Amostrar a pachina">
+<!ENTITY previewCmd.accesskey "n">
+<!ENTITY sendPageCmd.label "Ninviar a pachina,,,">
+<!ENTITY sendPageCmd.accesskey "v">
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
-<!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY compositionToolbarCmd.label "Barra de redacción">
+<!ENTITY compositionToolbarCmd.accesskey "c">
+<!ENTITY formattingToolbarCmd.label "Barra de ferramientas de formato">
+<!ENTITY formattingToolbarCmd.accesskey "f">
+<!ENTITY editmodeToolbarCmd.label "Barra de ferramientas d'o modo d'edición">
+<!ENTITY editmodeToolbarCmd.accesskey "m">
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Page Title and Properties…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY grid.label "Rella de posición">
+<!ENTITY grid.accesskey "R">
+<!ENTITY pageProperties.label "Titol d'a pachina y propiedatz">
+<!ENTITY pageProperties.accesskey "T">
 <!-- Tools menu items -->
 
-<!ENTITY validateCmd.label "Validate HTML">
+<!ENTITY validateCmd.label "Validar l'HTML">
 <!ENTITY validateCmd.accesskey "V">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
-<!ENTITY AllTagsMode.label "HTML Tags">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY NormalMode.label "Modo d'edición normal">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Amostrar os cantos d'as tablas y as ancoras con nombre">
+<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
+<!ENTITY AllTagsMode.label "Etiquetas HTML">
+<!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.tooltip "Amostrar os iconos de todas as etiquetas HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Source">
-<!ENTITY HTMLSourceMode.label "HTML Source">
+<!ENTITY HTMLSourceModeTab.label "Codigo fuent">
+<!ENTITY HTMLSourceMode.label "Codigo fuent HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
-<!ENTITY PreviewModeTab.label "Preview">
-<!ENTITY PreviewMode.label "Preview">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
+<!ENTITY HTMLSourceMode.tooltip "Editar o codigo fuent HTML">
+<!ENTITY PreviewModeTab.label "Anvista previa">
+<!ENTITY PreviewMode.label "Anvista previa">
+<!ENTITY PreviewMode.accesskey "A">
+<!ENTITY PreviewMode.tooltip "WYSIWYG (talqual se i veye)">

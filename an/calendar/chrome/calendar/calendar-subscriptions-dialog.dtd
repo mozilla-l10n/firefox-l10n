@@ -4,11 +4,11 @@
 -->
 <!-- Calendar Subscriptions Dialog -->
 
-<!ENTITY calendar.subscriptions.dialog.title                            "Subscribe Calendars">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Show calendars that contain:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label              "Search">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Select calendars to subscribe to:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscribe">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Unsubscribe">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Search…">
+<!ENTITY calendar.subscriptions.dialog.title                            "Conducir-se a calandarios">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Amostrar os calandarios que contiengan:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Mirar">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Trigar os calandarios a os que conducir-se:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Conducir-se">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Cancelar a conduta">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Mirar…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "No s'ha trobau coincidencias.">

@@ -4,24 +4,24 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Propiedatz d'a linia horizontal">
 
 <!ENTITY dimensionsBox.label "Dimensions">
-<!ENTITY heightEditField.label "Height:">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY heightEditField.label "Altaria:">
+<!ENTITY heightEditField.accessKey "l">
+<!ENTITY widthEditField.label "Amplaria:">
+<!ENTITY widthEditField.accessKey "A">
 <!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Alignment">
-<!ENTITY leftRadio.label "Left">
-<!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Center">
+<!ENTITY alignmentBox.label "Aliniación">
+<!ENTITY leftRadio.label "Cucha">
+<!ENTITY leftRadio.accessKey "C">
+<!ENTITY centerRadio.label "Centro">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Right">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.label "Dreita">
+<!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "3-D Shading">
 <!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Use as Default">
-<!ENTITY saveSettings.accessKey "D">
-<!ENTITY saveSettings.tooltip "Save these settings to use when inserting new horizontal lines">
+<!ENTITY saveSettings.label "Usar como valura por defecto">
+<!ENTITY saveSettings.accessKey "d">
+<!ENTITY saveSettings.tooltip "Alzar istos parametros ta fer-los servir en ficar linias horizontals nuevas">

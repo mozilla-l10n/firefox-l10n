@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Insert HTML">
+<!ENTITY windowTitle.label "Ficar-ie HTML">
 <!ENTITY sourceEditField.label "Introduzca as etiquetas HTML y o texto:">
 <!ENTITY example.label "Eixemplo: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
@@ -11,5 +11,5 @@
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Ola, mundo!">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY insertButton.accesskey "I">
+<!ENTITY insertButton.label "Ficar">
+<!ENTITY insertButton.accesskey "F">

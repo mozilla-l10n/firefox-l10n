@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Page Colors and Background">
-<!ENTITY pageColors.label "Page Colors">
-<!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
-<!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
-<!ENTITY customColorsRadio.label "Use custom colors:">
-<!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "These color settings override the viewer's browser settings">
+<!ENTITY windowTitle.label "Colors y fundo d'a pachina">
+<!ENTITY pageColors.label "Colors d'a pachina">
+<!ENTITY defaultColorsRadio.label "Colors por defecto d'o lector (no fixar as colors d'a pachina)">
+<!ENTITY defaultColorsRadio.accessKey "d">
+<!ENTITY defaultColorsRadio.tooltip "Emplegar nomás os parametros de color d'o navegador d'o lector">
+<!ENTITY customColorsRadio.label "Emplegar as colors personalizadas:">
+<!ENTITY customColorsRadio.accessKey "c">
+<!ENTITY customColorsRadio.tooltip "Istos parametros de colors substituyen a os d'o navegador d'o lector">
 
-<!ENTITY normalText.label "Normal text">
-<!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Link text">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Active link text">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Visited link text">
-<!ENTITY visitedLinkText.accessKey "V">
-<!ENTITY background.label "Background:">
-<!ENTITY background.accessKey "B">
+<!ENTITY normalText.label "Texto normal">
+<!ENTITY normalText.accessKey "n">
+<!ENTITY linkText.label "Texto d'o vinclo">
+<!ENTITY linkText.accessKey "v">
+<!ENTITY activeLinkText.label "Texto d'o vinclo activo">
+<!ENTITY activeLinkText.accessKey "a">
+<!ENTITY visitedLinkText.label "Texto d'o vinclo visitau">
+<!ENTITY visitedLinkText.accessKey "s">
+<!ENTITY background.label "Fundo:">
+<!ENTITY background.accessKey "F">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Background Image:">
+<!ENTITY backgroundImage.label "Imachen de fundo:">
 <!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "Use an image file as the background for your page">
+<!ENTITY backgroundImage.tooltip "Emplegar un fichero d'imachen como fundo ta la pachina">

@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "S'han desactivau os informes de fallo.">
 <!ENTITY report.failed                                       "O ninviamiento ha fallau.">
 <!ENTITY report.unavailable                                  "No i hai garra informe disponible.">
+
+<!ENTITY plugin.file                                         "Fichero">
+<!ENTITY plugin.mimeTypes                                    "Tipos MIME">

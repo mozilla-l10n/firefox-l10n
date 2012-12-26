@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "Site URL:">
-<!ENTITY docSubdir.label       "Page subdirectory:">
-<!ENTITY otherSubdir.label     "Image subdirectory:">
+<!ENTITY siteUrl.label         "URL d'o puesto:">
+<!ENTITY docSubdir.label       "Subdirectorio d'a pachina:">
+<!ENTITY otherSubdir.label     "Subdirectorio d'imachens:">
 
-<!ENTITY status.label          "Publishing…">
-<!ENTITY fileList.label        "Publishing Status">
-<!ENTITY succeeded.label       "Succeeded">
-<!ENTITY failed.label          "Failed">
+<!ENTITY status.label          "Se ye publicando…">
+<!ENTITY fileList.label        "Estau d'a publicación">
+<!ENTITY succeeded.label       "Ha rematau">
+<!ENTITY failed.label          "Ha fallau">
 
-<!ENTITY keepOpen              "Keep this window open after publishing is complete.">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY keepOpen              "Mantener ista finestra ubierta una vegada a publicación haiga rematau.">
+<!ENTITY closeButton.label     "Zarrar">

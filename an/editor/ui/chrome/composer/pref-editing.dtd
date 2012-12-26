@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.editing.title        "New Page Settings">
+<!ENTITY  pref.editing.title        "Parametros d'una pachina nueva">
 
-<!ENTITY  authorName.label          "Author:">
-<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  authorName.label          "Autor:">
+<!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Aparencia predeterminada d'a pachina">
 
-<!ENTITY defaultColors.label        "Reader's default colors (Don't set colors in page)">
+<!ENTITY defaultColors.label        "Colors por defecto d'o lector (no fixar as colors d'a pachina)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Use custom colors:">
+<!ENTITY customColors.label         "Usar as colors personalizadas:">
 <!ENTITY customColors.accesskey     "c">
 
-<!ENTITY normalText.label           "Normal text">
-<!ENTITY normalText.accesskey       "N">
-<!ENTITY linkText.label             "Link text">
-<!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Active link text">
-<!ENTITY activeLinkText.accesskey   "A">
-<!ENTITY visitedLinkText.label      "Visited link text">
-<!ENTITY visitedLinkText.accesskey  "V">
-<!ENTITY background.label           "Background:">
-<!ENTITY background.accesskey       "B">
+<!ENTITY normalText.label           "Texto normal">
+<!ENTITY normalText.accesskey       "n">
+<!ENTITY linkText.label             "Texto d'o vinclo">
+<!ENTITY linkText.accesskey         "T">
+<!ENTITY activeLinkText.label       "Texto d'o vinclo activo">
+<!ENTITY activeLinkText.accesskey   "a">
+<!ENTITY visitedLinkText.label      "Texto d'o vinclo visitau">
+<!ENTITY visitedLinkText.accesskey  "v">
+<!ENTITY background.label           "Fundo:">
+<!ENTITY background.accesskey       "F">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Background image:">
-<!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "Choose File…">
-<!ENTITY chooseFile.accesskey       "o">
+<!ENTITY backgroundImage.label      "Imachen de fundo:">
+<!ENTITY backgroundImage.accesskey  "c">
+<!ENTITY chooseFile.label           "Trigar un fichero…">
+<!ENTITY chooseFile.accesskey       "r">
 

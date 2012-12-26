@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Zarrar a pestanya">
 <!ENTITY new_tab "Pestanya nueva">
 <!ENTITY one_tab "1 pestanya">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestanyas">
 <!ENTITY new_tab_opened "S\'ha ubierto una pestanya nueva">
@@ -71,17 +71,22 @@
 <!ENTITY pref_do_not_track "Indicar que no me sigan o bayo">
 <!ENTITY pref_telemetry "Ninviar datos d\'o rendimiento">
 <!ENTITY pref_remember_signons "Recordar as claus">
-<!ENTITY pref_cookies "Habilitar as cookies">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Activau">
+<!ENTITY pref_cookies_not_accept_foreign "Activadas, fueras d'as de tercers">
+<!ENTITY pref_cookies_disabled "Desactivau">
+
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
 <!ENTITY pref_char_encoding_off "No amostrar o menú">
 <!ENTITY pref_clear_private_data "Limpiar os datos privaus">
 <!ENTITY pref_plugins "Connectors">
-<!ENTITY pref_plugins_enabled "Activau">
+<!ENTITY pref_plugins_enabled "Desactivaus">
 <!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
-<!ENTITY pref_plugins_disabled "Desactivau">
+<!ENTITY pref_plugins_disabled "Desactivaus">
 <!ENTITY pref_text_size "Mida d'a letra">
-<!ENTITY pref_reflow_on_zoom "Activar l'achuste automatico en cambiar a mida">
+<!ENTITY pref_reflow_on_zoom2 "Pizcar ta reformatiar o texto">
 <!ENTITY pref_font_size_tiny "Muit chicota">
 <!ENTITY pref_font_size_small "Chicota">
 <!ENTITY pref_font_size_medium "Meyana">
@@ -112,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos offline d'o puesto web">
 <!ENTITY pref_private_data_siteSettings "Preferencias d'o puesto">
 
+<!ENTITY pref_update_autodownload "Actualizacions automaticas">
+<!ENTITY pref_update_autodownload_wifi "Nomás baixo Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desactivadas">
+<!ENTITY pref_update_autodownload_enabled "Activadas">
+
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
@@ -126,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Trobar en a pachina">
 <!ENTITY desktop_mode "Demandar a versión d'escritorio d'o puesto">
 <!ENTITY tools "Ferramientas">
+<!ENTITY new_pb_tab "Nueva pestanya de navegacion privada">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -183,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "As pestanyas d\'a zaguera vegada">
 <!ENTITY abouthome_last_tabs_open "Ubrir todas as pestanyas d\'a zaguera vegada">
 <!ENTITY abouthome_top_sites_title "Os vuestros puestos">
-<!ENTITY abouthome_top_sites_browse "Amostrar-me os míos puestos web mas habituals">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -242,11 +252,11 @@ dende Android">
 
 <!ENTITY updater_start_title2 "Esvielle disponible ta &brandShortName;">
 <!ENTITY updater_start_select2 "Toque-ie ta baixar-la">
- 
+
 <!ENTITY updater_downloading_title2 "Se ye baixando &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "A baixada ha fallau">
 <!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l'esvielle malas que se baixe">
 <!ENTITY updater_downloading_retry2 "Toque-ie ta tornar a prebar-lo">
- 
+
 <!ENTITY updater_apply_title2 "Esvielle disponible ta &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque-ie ta esviellar">

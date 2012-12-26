@@ -5,13 +5,5 @@
 <!ENTITY ocspDialog.title             "Validación d'os certificaus">
 <!ENTITY enableOCSP.label             "Usar o protocolo d'estau de certificaus en linia (OCSP) ta confirmar a validez actual d'os certificaus">
 <!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "Validar o certificau si especifica un servidor OCSP">
-<!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Validar totz os certificaus usando o servidor OCSP siguient:">
-<!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "URL d'o servicio:">
-<!ENTITY serviceURL.accesskey         "s">
-<!ENTITY signingCA.label              "Sinyador d'a respuesta:">
-<!ENTITY signingCA.accesskey          "r">
 <!ENTITY requireOCSP.label            "Quan a connexión a un servidor OCSP falle, tractar o certificau como no valido">
 <!ENTITY requireOCSP.accesskey        "Q">

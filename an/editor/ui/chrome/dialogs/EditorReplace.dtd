@@ -4,23 +4,23 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "Find and Replace">
-<!ENTITY findField.label "Find text:">
-<!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Replace with:">
-<!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Match exact case">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "Wrap around">
-<!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "Search backwards">
-<!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "Find Next">
-<!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "Replace">
+<!ENTITY replaceDialog.title "Mirar y reemplazar">
+<!ENTITY findField.label "Mirar o texto:">
+<!ENTITY findField.accesskey "t">
+<!ENTITY replaceField.label "Reemplazar por:">
+<!ENTITY replaceField.accesskey "m">
+<!ENTITY caseSensitiveCheckbox.label "Distinguir dentre mayusclas y minusclas">
+<!ENTITY caseSensitiveCheckbox.accesskey "D">
+<!ENTITY wrapCheckbox.label "En rematar, tornar a l'inicio">
+<!ENTITY wrapCheckbox.accesskey "t">
+<!ENTITY backwardsCheckbox.label "Mirar enta zaga">
+<!ENTITY backwardsCheckbox.accesskey "M">
+<!ENTITY findNextButton.label "Mirar o siguient">
+<!ENTITY findNextButton.accesskey "s">
+<!ENTITY replaceButton.label "Reemplazar">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "Replace and Find">
-<!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "Replace All">
-<!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "Close">
+<!ENTITY replaceAndFindButton.label "Reemplazar y mirar">
+<!ENTITY replaceAndFindButton.accesskey "R">
+<!ENTITY replaceAllButton.label "Reemplazar-lo tot">
+<!ENTITY replaceAllButton.accesskey "t">
+<!ENTITY closeButton.label "Zarrar">

@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Window.title        "Table of Contents">
+<!ENTITY Window.title        "Tabla de contenius">
 <!ENTITY buildToc.label      "Build table of contents from:">
-<!ENTITY tag.label           "Tag:">
-<!ENTITY class.label         "Class:">
-<!ENTITY header1.label       "Level 1">
-<!ENTITY header2.label       "Level 2">
-<!ENTITY header3.label       "Level 3">
-<!ENTITY header4.label       "Level 4">
-<!ENTITY header5.label       "Level 5">
-<!ENTITY header6.label       "Level 6">
-<!ENTITY makeReadOnly.label  "Make the table of contents read-only">
-<!ENTITY orderedList.label   "Number all entries in the table of contents">
+<!ENTITY tag.label           "Etiqueta:">
+<!ENTITY class.label         "Clase:">
+<!ENTITY header1.label       "Libel 1">
+<!ENTITY header2.label       "Libel 2">
+<!ENTITY header3.label       "Libel 3">
+<!ENTITY header4.label       "Libel 4">
+<!ENTITY header5.label       "Libel 5">
+<!ENTITY header6.label       "Libel 6">
+<!ENTITY makeReadOnly.label  "Fer que a tabla de contenius siga nomás de lectura">
+<!ENTITY orderedList.label   "Numerar todas as dentradas d'a tabla de contenius">

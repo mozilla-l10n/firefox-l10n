@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Treballar sin connexión">
-<!ENTITY goOfflineCmd.accesskey "x">
+<!ENTITY goOfflineCmd.label "Treballar difuera de linia">
+<!ENTITY goOfflineCmd.accesskey "d">
 
 <!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY bookmarksMenu.label "Marcapachinas">
-<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY bookmarksMenu.accesskey "c">
 <!ENTITY bookmarkThisPageCmd.label "Meter ista pachina en marcapachinas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Marcapachinas">
 <!ENTITY bookmarksButton.tooltip        "Amostrar os suyos marcapachinas">
-<!ENTITY bookmarksButton.accesskey  "c">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapachinas">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Historial">
 <!ENTITY historyButton.tooltip          "Amostrar as pachinas que ha visto en zagueras">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ferramientas">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Consola web">
 <!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
 
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "o">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nueva finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nueva finestra privada">
+<!ENTITY newPrivateWindow.accesskey "p">
 
 <!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Desfer">
 <!ENTITY social.activated.undobutton.accesskey "D">
+
+<!ENTITY social.chatBar.commandkey "c">

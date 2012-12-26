@@ -2,47 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
+<!ENTITY windowTitle.label "Propiedatz d'a lista de selección">
 
-<!ENTITY Select.label "Selection List">
-<!ENTITY SelectName.label "List Name:">
+<!ENTITY Select.label "Lista de selección">
+<!ENTITY SelectName.label "Nombre d'a lista:">
 <!ENTITY SelectName.accesskey "N">
-<!ENTITY SelectSize.label "Height:">
-<!ENTITY SelectSize.accesskey "H">
-<!ENTITY SelectMultiple.label "Multiple Selection">
-<!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "Disabled">
+<!ENTITY SelectSize.label "Altaria:">
+<!ENTITY SelectSize.accesskey "A">
+<!ENTITY SelectMultiple.label "Selección multiple">
+<!ENTITY SelectMultiple.accesskey "S">
+<!ENTITY SelectDisabled.label "Desactivau">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "Tab Index:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.label "Indiz de pestanyas:">
+<!ENTITY SelectTabIndex.accesskey "p">
 
-<!ENTITY OptGroup.label "Option Group">
-<!ENTITY OptGroupLabel.label "Label:">
-<!ENTITY OptGroupLabel.accesskey "L">
-<!ENTITY OptGroupDisabled.label "Disabled">
+<!ENTITY OptGroup.label "Grupo d'opcions">
+<!ENTITY OptGroupLabel.label "Etiqueta:">
+<!ENTITY OptGroupLabel.accesskey "E">
+<!ENTITY OptGroupDisabled.label "Desactivau">
 <!ENTITY OptGroupDisabled.accesskey "D">
 
-<!ENTITY Option.label "Option">
-<!ENTITY OptionText.label "Text:">
+<!ENTITY Option.label "Opción">
+<!ENTITY OptionText.label "Texto:">
 <!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "Value:">
+<!ENTITY OptionValue.label "Valura:">
 <!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "Initially Selected">
-<!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Disabled">
+<!ENTITY OptionSelected.label "Seleccionau inicialment">
+<!ENTITY OptionSelected.accesskey "o">
+<!ENTITY OptionDisabled.label "Desactivau">
 <!ENTITY OptionDisabled.accesskey "D">
 
-<!ENTITY TextHeader.label "Text">
-<!ENTITY ValueHeader.label "Value">
-<!ENTITY SelectedHeader.label "Selected">
+<!ENTITY TextHeader.label "Texto">
+<!ENTITY ValueHeader.label "Valura">
+<!ENTITY SelectedHeader.label "Seleccionau">
 
-<!ENTITY AddOption.label "Add Option">
-<!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
-<!ENTITY AddOptGroup.accesskey "G">
-<!ENTITY RemoveElement.label "Remove">
-<!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "Move Up">
-<!ENTITY MoveElementUp.accesskey "U">
-<!ENTITY MoveElementDown.label "Move Down">
-<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY AddOption.label "Adhibir una opción">
+<!ENTITY AddOption.accesskey "o">
+<!ENTITY AddOptGroup.label "Adhibir un grupo">
+<!ENTITY AddOptGroup.accesskey "A">
+<!ENTITY RemoveElement.label "Suprimir">
+<!ENTITY RemoveElement.accesskey "S">
+<!ENTITY MoveElementUp.label "Mover enta alto">
+<!ENTITY MoveElementUp.accesskey "a">
+<!ENTITY MoveElementDown.label "Mover enta baixo">
+<!ENTITY MoveElementDown.accesskey "b">

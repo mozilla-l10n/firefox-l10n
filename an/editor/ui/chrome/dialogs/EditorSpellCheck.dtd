@@ -3,36 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Check Spelling">
+<!ENTITY windowTitle.label "Revisar a ortografía">
 
-<!ENTITY misspelledWord.label "Misspelled word:">
-<!ENTITY wordEditField.label "Replace with:">
-<!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "Check Word">
-<!ENTITY checkwordButton.accessKey "k">
-<!ENTITY suggestions.label "Suggestions:">
+<!ENTITY misspelledWord.label "Parola mal escrita:">
+<!ENTITY wordEditField.label "Reemplazar por:">
+<!ENTITY wordEditField.accessKey "m">
+<!ENTITY checkwordButton.label "Revisar a parola">
+<!ENTITY checkwordButton.accessKey "R">
+<!ENTITY suggestions.label "Sucherencias:">
 <!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Ignore">
+<!ENTITY ignoreButton.label "Ignorar">
 <!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Ignore All">
+<!ENTITY ignoreAllButton.label "Ignorar-las todas">
 <!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "Replace">
-<!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "Replace All">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Stop">
+<!ENTITY replaceButton.label "Reemplazar">
+<!ENTITY replaceButton.accessKey "m">
+<!ENTITY replaceAllButton.label "Reemplazar-lo tot">
+<!ENTITY replaceAllButton.accessKey "a">
+<!ENTITY stopButton.label "Aturar">
 <!ENTITY stopButton.accessKey "t">
-<!ENTITY userDictionary.label "Personal Dictionary:">
-<!ENTITY moreDictionaries.label "Download more dictionaries…">
-<!ENTITY addToUserDictionaryButton.label "Add Word">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Edit…">
+<!ENTITY userDictionary.label "Diccionario de l'usuario:">
+<!ENTITY moreDictionaries.label "Baixar mas diccionarios…">
+<!ENTITY addToUserDictionaryButton.label "Adhibir una parola">
+<!ENTITY addToUserDictionaryButton.accessKey "b">
+<!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Recheck Page">
-<!ENTITY recheckButton.accessKey "P">
-<!ENTITY closeButton.label "Close">
-<!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "Send">
-<!ENTITY sendButton.accessKey "S">
-<!ENTITY languagePopup.label "Language:">
+<!ENTITY recheckButton.label "Tornar a revisar">
+<!ENTITY recheckButton.accessKey "T">
+<!ENTITY closeButton.label "Zarrar">
+<!ENTITY closeButton.accessKey "Z">
+<!ENTITY sendButton.label "Ninviar">
+<!ENTITY sendButton.accessKey "v">
+<!ENTITY languagePopup.label "Luenga:">
 <!ENTITY languagePopup.accessKey "L">

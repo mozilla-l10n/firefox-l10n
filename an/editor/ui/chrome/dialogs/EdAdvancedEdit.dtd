@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY WindowTitle.label              "Advanced Property Editor">
-<!ENTITY AttName.label                  "Attribute: ">
-<!ENTITY AttValue.label                 "Value: ">
-<!ENTITY PropertyName.label             "Property: ">
-<!ENTITY currentattributesfor.label     "Current attributes for: ">
-<!ENTITY tree.attributeHeader.label     "Attribute">
-<!ENTITY tree.propertyHeader.label      "Property">
-<!ENTITY tree.valueHeader.label         "Value">
-<!ENTITY tabHTML.label                  "HTML Attributes">
-<!ENTITY tabCSS.label                   "Inline Style">
-<!ENTITY tabJSE.label                   "JavaScript Events">
+<!ENTITY WindowTitle.label              "Editor de propiedatz abanzadas">
+<!ENTITY AttName.label                  "Atributo: ">
+<!ENTITY AttValue.label                 "Valura: ">
+<!ENTITY PropertyName.label             "Propiedat: ">
+<!ENTITY currentattributesfor.label     "Atributos actuals para: ">
+<!ENTITY tree.attributeHeader.label     "Atributo">
+<!ENTITY tree.propertyHeader.label      "Propiedat">
+<!ENTITY tree.valueHeader.label         "Valura">
+<!ENTITY tabHTML.label                  "Atributos de l'HTML">
+<!ENTITY tabCSS.label                   "Estilo en linia">
+<!ENTITY tabJSE.label                   "Incidencias d'o Javascript">
 
-<!ENTITY editAttribute.label    "Click on an item above to edit its value">
-<!ENTITY removeAttribute.label  "Remove">
+<!ENTITY editAttribute.label    "Faiga clic dencima d'un elemento ta editar-ne a valura">
+<!ENTITY removeAttribute.label  "Suprimir l'atributo">

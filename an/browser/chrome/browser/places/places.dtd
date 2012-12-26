@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Mirar:">
 <!ENTITY search.accesskey                          "M">
 
-<!ENTITY search.in.label                           "Mirar en:">
-<!ENTITY search.scopeFolder.label                  "Carpeta seleccionada">
-<!ENTITY search.scopeFolder.accesskey              "C">
-<!ENTITY search.scopeBookmarks.label               "Marcapachinas">
-<!ENTITY search.scopeBookmarks.accesskey           "p">
-<!ENTITY search.scopeDownloads.label               "Descargas">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "Historial">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "Alzar">
-<!ENTITY saveSearch.accesskey                      "A">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Importación y copia de seguranza">

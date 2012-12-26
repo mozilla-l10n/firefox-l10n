@@ -4,12 +4,12 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Convert To Table">
-<!ENTITY instructions1.label   "Composer creates a new table row for each paragraph in the selection.">
-<!ENTITY instructions2.label   "Choose the character used to separate the selection into columns:">
-<!ENTITY commaRadio.label      "Comma">
-<!ENTITY spaceRadio.label      "Space">
-<!ENTITY otherRadio.label      "Other Character:">
+<!ENTITY windowTitle.label "Convertir ta tabla">
+<!ENTITY instructions1.label   "O redactor creya una nueva ringlera de tabla ta cada paragrafo d'a selección.">
+<!ENTITY instructions2.label   "Trigue o caracter utilizau ta deseparar a selección en columnas:">
+<!ENTITY commaRadio.label      "Coma">
+<!ENTITY spaceRadio.label      "Espacio">
+<!ENTITY otherRadio.label      "Unatro caracter:">
 <!ENTITY deleteCharCheck.label "Delete separator character">
-<!ENTITY collapseSpaces.label  "Ignore extra spaces">
+<!ENTITY collapseSpaces.label  "Ignorar os espacios adicionals">
 <!ENTITY collapseSpaces.tooltip "Convert adjacent spaces to one separator">

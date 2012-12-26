@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Folder">
@@ -459,7 +459,7 @@
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Show Accounts…">
 <!ENTITY joinChatCmd.label "Join Chat…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Saved Files">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -851,7 +851,7 @@
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyImageAllCmd.label "Copy Image">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Copy Email Address">

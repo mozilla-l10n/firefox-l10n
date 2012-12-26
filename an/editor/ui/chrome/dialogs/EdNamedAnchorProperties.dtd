@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Named Anchor Properties">
-<!ENTITY anchorNameEditField.label "Anchor Name:">
+<!ENTITY windowTitle.label "Propiedatz de l'ancora con nombre">
+<!ENTITY anchorNameEditField.label "Nombre de l'ancora:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Enter a unique name for this named anchor (target)">
+<!ENTITY nameInput.tooltip "Introduzca un nombre unico ta ista ancora (destín)">
 
