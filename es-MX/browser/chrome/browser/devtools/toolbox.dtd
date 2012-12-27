@@ -1,2 +1,3 @@
 <!ENTITY window.title "Herramientas para desarrollador">
 <!ENTITY closeCmd.key "W">
+<!ENTITY toolboxCloseButton.tooltip "Close Developer Tools">
