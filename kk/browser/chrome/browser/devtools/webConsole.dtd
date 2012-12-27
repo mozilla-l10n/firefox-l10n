@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Веб консолі">
 
-<!ENTITY networkPanel.requestURL                  "Сұраным URL-ы">
-<!ENTITY networkPanel.requestMethod               "Сұраным тәсілі">
-<!ENTITY networkPanel.statusCode                  "Қалып-күй коды">
+<!ENTITY networkPanel.requestURLColon                  "Сұраным URL-ы:">
+<!ENTITY networkPanel.requestMethodColon               "Сұраным тәсілі:">
+<!ENTITY networkPanel.statusCodeColon                  "Қалып-күй коды:">
 
 <!ENTITY networkPanel.requestHeaders              "Сұраным тақырыптамалары">
 <!ENTITY networkPanel.requestCookie               "Жіберілген Cookie">
