@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Dopusti da &searchIntegration.engineName; pretražuje poruke">
 <!ENTITY searchIntegration.accesskey   "D">
-<!ENTITY checkNow.label                "Provjeri sada">
-<!ENTITY checkNow.accesskey            "P">
+<!ENTITY checkDefaultsNow.label        "Provjeri sada…">
+<!ENTITY checkDefaultsNow.accesskey    "P">
 <!ENTITY configEditDesc.label          "Napredne postavke">
 <!ENTITY configEdit.label              "Uređivač postavki…">
 <!ENTITY configEdit.accesskey          "U">
