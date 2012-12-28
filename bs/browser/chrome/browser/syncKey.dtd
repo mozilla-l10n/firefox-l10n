@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY syncKey.page.title               "Vaš &syncBrand.fullName.label; ključ">
 <!ENTITY syncKey.page.description         "Ovaj ključ se koristi za dekodiranje podataka u vašem &syncBrand.fullName.label; računu. Morat ćete unijeti ključ svaki put kada konfigurišete &syncBrand.fullName.label; na novom računaru ili uređaju.">
 <!ENTITY syncKey.keepItSecret.heading     "Čuvajte ga tajnim">
