@@ -8,7 +8,6 @@
 
 <!ENTITY setup.choicePage.title.label     "Da li ste ikada prije koristili &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nisam nikada prije koristio &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Već koristim &syncBrand.shortName.label; na drugom računaru">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
@@ -75,8 +74,6 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync opcije">
-<!ENTITY syncComputerName.label       "Naziv računara:">
-<!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Sinhronizuj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
@@ -92,16 +89,10 @@
 <!ENTITY engine.addons.label        "Add-oni">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2.merge.main.label      "Spoji podatke sa ovog računara sa mojim &syncBrand.shortName.label; podacima">
 <!ENTITY choice2.merge.recommended.label "Preporučeno:">
-<!ENTITY choice2.client.main.label     "Zamijeni sve podatke na ovom računaru sa mojim &syncBrand.shortName.label; podacima">
-<!ENTITY choice2.server.main.label     "Zamijeni sve ostale uređaje sa podacima sa ovog računara">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potvrdi">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; će sada spojiti podatke iz browsera sa ovog računara sa vašim Sync računom.">
-<!ENTITY confirm.client2.label         "Upozorenje: Sljedeći &brandShortName; podaci sa ovog računara će biti obrisani:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; će zatim iskopirati vaše &syncBrand.fullName.label; podatke na ovaj računar.">
 <!ENTITY confirm.server2.label         "Upozorenje: Na sljedećim uređajima će biti prepisani podaci sa vašim lokalnim podacima:">
 
 <!-- New & Existing Account: Setup Complete -->

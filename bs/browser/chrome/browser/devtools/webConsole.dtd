@@ -10,10 +10,6 @@
 
 <!ENTITY window.title "Web konzola">
 
-<!ENTITY networkPanel.requestURL                  "URL zahtjeva">
-<!ENTITY networkPanel.requestMethod               "Metod zahtjeva">
-<!ENTITY networkPanel.statusCode                  "Kod statusa">
-
 <!ENTITY networkPanel.requestHeaders              "Zaglavlje zahtjeva">
 <!ENTITY networkPanel.requestCookie               "Poslani cookie">
 <!ENTITY networkPanel.requestBody                 "Tijelo zahtjeva">

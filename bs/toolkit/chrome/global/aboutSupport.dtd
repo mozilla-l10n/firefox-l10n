@@ -54,5 +54,3 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historija instalacije">
 <!ENTITY aboutSupport.updateHistoryTitle "Historijat updatea">
-
-<!ENTITY aboutSupport.copyToClipboard.label "Kopiraj sve na clipboard">

@@ -1,6 +1,3 @@
-<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "Tabovi sa drugih računara">
-
 <!ENTITY tabs.searchText.label                   "Kucajte ovdje da pronađete tabove…">
 
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):

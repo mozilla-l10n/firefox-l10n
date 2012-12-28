@@ -19,15 +19,6 @@
 <!ENTITY  closeOtherTabs.label               "Zatvori ostale tabove">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Zakači kao App Tab">
-<!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Otkači tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Premjesti u grupu">
 <!ENTITY  moveToGroup.accesskey              "m">
 <!ENTITY  moveToNewGroup.label               "Nova grupa">
@@ -156,7 +147,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Zabilješke">
 <!ENTITY bookmarksButton.tooltip        "Prikaz vaših zabilješki">
-<!ENTITY bookmarksButton.accesskey  "b">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
@@ -173,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Historija">
 <!ENTITY historyButton.tooltip          "Prikaži nedavno posjećene stranice">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alati">
@@ -237,9 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Više alata">
-
-<!ENTITY webConsoleButton.label "Web konzola">
-<!ENTITY inspectorButton.label "Inspector">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopiraj unutrašnji HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -605,9 +591,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabovi browsera">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Tabovi sa drugih računara">
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Podesite &syncBrand.shortName.label;…">
@@ -638,11 +621,6 @@ toolbar button -->
      below). -->
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.sharePopup.undo.label     "Ne dijeli">
-<!ENTITY social.sharePopup.undo.accesskey "N">
-<!ENTITY social.sharePopup.shared.label   "Podijelili ste ovu stranicu.">
-<!ENTITY social.sharePopup.portrait.arialabel "Profilna slika korisnika">
 
 <!ENTITY social.toggleSidebar.label "Prikaži bočnu traku">
 <!ENTITY social.toggleSidebar.accesskey "t">

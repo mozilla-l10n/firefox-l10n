@@ -33,8 +33,6 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Pritisnite ovdje da aktivirane plugin.">
 <!ENTITY clickToPlayPlugin                                   "Kliknite ovdje da aktivirate plugin.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Kliknite ovdje da aktivirate ranjivi plugin.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Kliknite ovdje da aktivirate ranjivi plugin (nema dostupnih nadogradnji).">
 <!ENTITY checkForUpdates                                     "Provjeri za nadogradnju…">
 <!ENTITY disabledPlugin                                      "Ovaj plugin je onemogućen.">
 <!ENTITY blockedPlugin.label                                 "Ovaj plugin je blokiran radi vaše zaštite.">
