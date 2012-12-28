@@ -25,21 +25,20 @@
      -->
 <!ENTITY downloadDetails.width            "65ch">
 
-<!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
+<!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
      number of downloads exceeds the limit that the panel can display.
 
-     A good rule of thumb here is to look at the otherDownloads string
+     A good rule of thumb here is to look at the otherDownloads2 string
      in downloads.properties, and make a reasonable estimate of its
      maximum length. For English, this seems like a reasonable limit:
 
-     +999 other current downloads
+     + 999 other downloads
 
-     that's 28 characters, so we set the minimum width to 28ch.
+     that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth        "32ch">
-
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Paŭzigi">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -61,8 +60,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
 <!ENTITY cmd.copyDownloadLink.label       "Kopii la elŝutan ligilon">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "Forigi el la listo">
-<!ENTITY cmd.removeFromList.accesskey     "r">
+<!ENTITY cmd.removeFromHistory.label      "Forigi el la historio">
+<!ENTITY cmd.removeFromHistory.accesskey  "h">
 <!ENTITY cmd.clearList.label              "Viŝi liston">
 <!ENTITY cmd.clearList.accesskey          "v">
 

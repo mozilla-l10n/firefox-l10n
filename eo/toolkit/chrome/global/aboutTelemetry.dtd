@@ -4,11 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datumoj de telemezuro">
 
-<!ENTITY aboutTelemetry.pageSubtitle "
-  Tiu ĉi paĝo montras la datumojn kolektitajn per telemezuro pri efikeco kaj uzado de trajtoj.
-  Tiuj ĉi informoj estas anonime senditaj al Mozilla por helpi plibonigi &brandShortName;.
-">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Telemezuro estas <span>aktiva</span>.
 ">
