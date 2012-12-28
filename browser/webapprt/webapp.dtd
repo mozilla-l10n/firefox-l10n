@@ -24,8 +24,8 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "Montri ĉiujn">
 
-<!ENTITY editMenu.label                     "Modifi">
-<!ENTITY editMenu.accesskey                 "M">
+<!ENTITY editMenu.label                     "Redakti">
+<!ENTITY editMenu.accesskey                 "R">
 <!ENTITY undoCmd.label                      "Malfari">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "M">
