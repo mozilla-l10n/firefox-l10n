@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label         'Sätted'>
 <!ENTITY sync.summary.pair.label             'Liida veel seadmeid oma &syncBrand.shortName.label;i kontoga'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label  'Sünkroniseerimine'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sünkroniseeri oma…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'järjehoidjad'>
+<!ENTITY sync.configure.engines.title.passwords 'paroolid'>
+<!ENTITY sync.configure.engines.title.history 'ajalugu'>
+<!ENTITY sync.configure.engines.title.tabs   'kaardid'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label            'Loobu'>
 <!ENTITY sync.button.connect.label           'Ühenda'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label  'Toetatud on ainult üks &syncBrand.fullName.label;i konto.'>
+<!ENTITY sync.notification.configure.saved   'Sinu valikud on salvestatud.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label               'Vigane konto nimi või parool.'>
