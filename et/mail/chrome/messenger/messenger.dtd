@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey                          "[">
 <!ENTITY goChatCmd.label                               "Kiirsuhtlus">
 <!ENTITY goChatCmd.accesskey                           "r">
-<!ENTITY goChatCmd.commandKey                          "C">
+<!ENTITY goChatCmd.key                                 "I">
 <!ENTITY prevStarredMsgCmd.label                       "Tähistatud kiri">
 <!ENTITY prevStarredMsgCmd.accesskey                   "T">
 <!ENTITY folderMenu.label                              "Kaust">

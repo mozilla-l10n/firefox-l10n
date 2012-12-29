@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title     "Süsteemi integratsioon">
+<!ENTITY acceptIntegration.label     "Määra vaikekliendiks">
+<!ENTITY cancelIntegration.label     "Jäta vahele">
 <!ENTITY defaultClient.intro         "&brandShortName;i kasutatakse vaikimisi rakendusena:">
 
 <!ENTITY email.label                 "E-postile">
 <!ENTITY newsgroups.label            "Uudisgruppidele">
 <!ENTITY feeds.label                 "Uudistevoogudele">
+
+<!ENTITY unsetDefault.tooltip        "&brandShortName;i endaga pole võimalik &brandShortName;i vaikekliendi staatust eemaldada. Mõne teise rakenduse vaikekliendiks tegemiseks pead sa kasutama selle rakenduse vastavat funktsionaalsust.">
 
 <!ENTITY checkOnStartup.label        "See kontroll sooritatakse igal &brandShortName;i käivitumisel">
 <!ENTITY checkOnStartup.accesskey    "S">
