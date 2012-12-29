@@ -16,13 +16,14 @@
 <!ENTITY highPriorityCmd.label       "Kõrge">
 <!ENTITY highestPriorityCmd.label    "Kõrgeim">
 
-<!ENTITY contextDesc.label           "Filtrit rakendatakse kui:">
-<!ENTITY contextDesc.accesskey       "F">
-<!ENTITY contextIncoming.label       "kontrollitakse uusi kirju">
-<!ENTITY contextManual.label         "käivitatakse manuaalselt">
-<!ENTITY contextBoth.label           "kontrollitakse uusi kirju või käivitatakse manuaalselt">
-<!ENTITY contextPostPlugin.label     "kontrollitakse uusi kirju (pärast liigitamist)">
-<!ENTITY contextPostPluginBoth.label "kontrollitakse uusi kirju (pärast liigitamist) või käivitatakse manuaalselt">
+<!ENTITY contextDesc.label           "Filtrit rakendatakse:">
+<!ENTITY contextIncomingMail.label   "uute kirjade hankimisel:">
+<!ENTITY contextIncomingMail.accesskey "h">
+<!ENTITY contextManual.label         "manuaalsel käivitamisel">
+<!ENTITY contextManual.accesskey     "m">
+<!ENTITY contextBeforeCls.label      "enne rämpsposti filtri rakendumist">
+<!ENTITY contextAfterCls.label       "pärast rämsposti filtri rakendumist">
+
 <!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
 <!ENTITY filterActionDesc.accesskey  "R">
 
