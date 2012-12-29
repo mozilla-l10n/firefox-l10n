@@ -26,7 +26,7 @@
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Tellinoù
+  Tellunoù
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
@@ -38,7 +38,7 @@
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Tellinoù dastumet gant an askouezhioù
+  Tellunoù dastumet gant an askouezhioù
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
@@ -54,7 +54,7 @@
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTENN : Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Telemetry.
+  NOTENN : Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Delemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "

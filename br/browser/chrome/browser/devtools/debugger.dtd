@@ -66,7 +66,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Ar poent ehan-mañ a baouezo gant an erounezadur ma'z eo gwir ar riñvenn da-heul nemetken">
+<!ENTITY debuggerUI.condBreakPanelTitle "Ar poent ehan-mañ a baouezo gant an erounezadur mar bez gwir ar riñvenn da-heul nemetken">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
