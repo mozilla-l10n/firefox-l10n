@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Regras de filtraxe">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nome do filtro:">
@@ -13,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "A máis alta">
 
 <!ENTITY contextDesc.label "Aplicar filtro cando:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "se comprobe o correo">
+<!ENTITY contextIncomingMail.label "se reciba o correo novo:">
+<!ENTITY contextIncomingMail.accesskey "b">
 <!ENTITY contextManual.label "se execute manualmente">
-<!ENTITY contextBoth.label "se comprobe o correo ou se execute manualmente">
-<!ENTITY contextPostPlugin.label "se comprobe o correo (despois de clasificalo)">
-<!ENTITY contextPostPluginBoth.label "se comprobe o correo (despois de clasificalo) ou se execute manualmente">
+<!ENTITY contextManual.accesskey "x">
+<!ENTITY contextBeforeCls.label "Filtrar antes de identificar o correo lixo">
+<!ENTITY contextAfterCls.label "Filtrar despois de identificar o correo lixo">
+
 <!ENTITY filterActionDesc.label "Realizar estas accións:">
 <!ENTITY filterActionDesc.accesskey "s">
 
@@ -38,7 +43,7 @@
 <!ENTITY fetchFromPOP.label "Descargar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar fío">
 <!ENTITY ignoreSubthread.label "Ignorar fío secundario">
-<!ENTITY watchThread.label "Mostrar fío">
+<!ENTITY watchThread.label "Amosar fío">
 <!ENTITY stopExecution.label "Deter a execución do filtro">
 
 <!ENTITY addAction.tooltip "Engadir unha nova acción">
