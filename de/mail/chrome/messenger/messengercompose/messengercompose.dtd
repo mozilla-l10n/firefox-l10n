@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Verfassen: (Kein Betreff)">
 
@@ -135,14 +139,14 @@
 <!ENTITY returnReceiptMenu.accesskey "M">
 <!ENTITY dsnMenu.label "Übermittlungsstatus (DSN) anfordern">
 <!ENTITY dsnMenu.accesskey "D">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "E-Mail-Format">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Autom. bestimmen">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Nur Reintext">
-<!ENTITY plainTextFormatCmd.accesskey "T">
+<!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Nur HTML">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Reintext und HTML">
 <!ENTITY bothFormatCmd.accesskey "u">
 <!ENTITY priorityMenu.label "Priorität">

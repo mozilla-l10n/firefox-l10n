@@ -17,14 +17,15 @@
 <!ENTITY highestPriorityCmd.label "Sehr hoch">
 
 <!ENTITY contextDesc.label "Filter anwenden bei:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Nachrichtenabruf">
+<!ENTITY contextIncomingMail.label "Nachrichtenabruf:">
+<!ENTITY contextIncomingMail.accesskey "N">
 <!ENTITY contextManual.label "Manuellem Ausführen">
-<!ENTITY contextBoth.label "Nachrichtenabruf oder manuellem Ausführen">
-<!ENTITY contextPostPlugin.label "Nachrichtenabruf (nach Junk-Filter)">
-<!ENTITY contextPostPluginBoth.label "Nachrichtenabruf (nach Junk-Filter) oder manuellem Ausführen">
+<!ENTITY contextManual.accesskey "u">
+<!ENTITY contextBeforeCls.label "Vor Junk-Erkennung ausführen">
+<!ENTITY contextAfterCls.label "Nach Junk-Erkennung ausführen">
+
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
-<!ENTITY filterActionDesc.accesskey "A">
+<!ENTITY filterActionDesc.accesskey "z">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Verschiebe Nachricht in:">
