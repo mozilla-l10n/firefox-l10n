@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.baltic                   "Прибалтійські">
 <!ENTITY  font.langGroup.el                       "Грецькі">
 <!ENTITY  font.langGroup.turkish                  "Турецькі">
-<!ENTITY  font.langGroup.unicode                  "Інша мова">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "Нетипові">
 <!ENTITY  font.langGroup.thai                     "Тайські">
 <!ENTITY  font.langGroup.hebrew                   "Іврит">

@@ -46,4 +46,5 @@
 <!ENTITY defaultBrowserButton.accesskey "В">
 <!ENTITY alreadyDefaultText             "&brandShortName; вже є типовим переглядачем.">
 <!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натиснете «Гаразд».">
+<!ENTITY wasMadeDefaultText             "&brandShortName; has been set as your default browser.">
 <!ENTITY makeDefaultText                "Встановити &brandShortName; як типовий переглядач.">
