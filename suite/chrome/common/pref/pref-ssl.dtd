@@ -12,11 +12,9 @@
 <!ENTITY enable.tls10.label                 "Activar TLS 1.0">
 <!ENTITY enable.tls10.accesskey             "T">
 
-<!ENTITY warn.description                   "&brandShortName; pode alertalo do estado de seguridade da páxina web que está vendo. Configure &brandShortName; para  que lle mostre unha aviso e solicite permiso antes de:">
+<!ENTITY warn.description                   "&brandShortName; pode alertalo do estado de seguridade da páxina web que está vendo. Configure &brandShortName; para  que lle amose unha aviso e solicite permiso antes de:">
 <!ENTITY warn.enteringsecure                "Cargando unha páxina que admite cifrado">
 <!ENTITY warn.enteringsecure.accesskey      "g">
-<!ENTITY warn.enteringweak                  "Cargando unha páxina que usa cifrado de grao baixo">
-<!ENTITY warn.enteringweak.accesskey        "o">
 <!ENTITY warn.insecurepost                  "Enviando datos do formulario desde unha páxina sen cifrar a outra páxina sen cifrar">
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Deixando unha páxina que admite cifrado">

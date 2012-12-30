@@ -12,7 +12,8 @@
 <!ENTITY image-width.label     "Largura:">
 <!ENTITY image-height.label    "Altura:">
 <!ENTITY image-filesize.label  "Tamaño do ficheiro:">
-<!ENTITY insdel-sec.label      "Propiedades de Inserir/Borrar">
+<!ENTITY image-filesize.value  "Descoñecido">
+<!ENTITY insdel-sec.label      "Propiedades de Inserir/Eliminar">
 <!ENTITY insdel-cite.label     "Información:">
 <!ENTITY insdel-date.label     "Data:">
 <!ENTITY link-sec.label        "Propiedades da ligazón">
