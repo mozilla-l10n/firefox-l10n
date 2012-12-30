@@ -1,1110 +1,1403 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-  
-  <meta http-equiv="Content-Type" content="text/html; charset=windows-1257"><title>Paketo pritaikymas savo poreikiams</title>
-  
-  
-  <link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
-  <body>
-<a name="cust_prad"></a>
-<a name="cust_main"></a> 
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<div class="boilerplate">Šį žinyno skyrių pateikė bendrija „Mozilla“.
-Tai tik informacija, kuri galėtų pagelbėti tiems, kas rūpinasi duomenų
-saugumu internete. Ji neaprėpia visų saugumo aspektų dirbant tinkle ir
-nelaikytina bendrijos „Mozilla“ saugumo internete rekomendacijomis.</div>
 
-<hr>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
-<h1>Programos pritaikymas savo poreikiams</h1>
-<p>Šioje žinyno dalyje aprašoma, kaip pakeisti programos <i>Mozilla</i> išvaizdą,
-pritaikyti savo poreikiams parankinę, adresyną ir mygtukų juostas, nustatyti
-įvairius programos parametrus.</p>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Customizing &brandShortName;</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
+</head>
+<body>
 
-<table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr> 
-<td class="inthissection"> 
-<p><a href="#cust_sidebar">Parankinė</a></p>
-<p><a href="#cust_tabbed">Naršymo kortelės</a></p>
-<p><a href="#cust_font">Šriftų, spalvų bei apvalkalų keitimas</a></p>
-<p><a href="#cust_toolbar">Mygtukų juostos</a></p>
-<p><a href="#cust_bkmk">Adresynas</a></p>
-<p><a href="#cust_page">„Mozilla“ paleidimo nuostatos</a></p>
-<p><a href="cs_nav_prefs_appearance.html#nav_settings">Naršyklės nuostatos</a></p>
-</td>
-</tr>
-</tbody></table>
-<p>&nbsp;</p>
+<div class="boilerPlate">This document is provided for your information
+  only. It may help you take certain steps to protect the privacy and security
+  of your personal information on the Internet. This document does not,
+  however, address all online privacy and security issues, nor does it
+  represent a recommendation about what constitutes adequate privacy and
+  security protection on the Internet.</div>
 
-<hr>
-<a name="cust_sidebar"></a>
-<h1>Parankinė</h1>
-<p> </p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">
-      <p><a href="#cust_sidebar_define">Kas yra parankinė?</a></p>
-      <p><a href="#cust_sidebar_using">Parankinės naudojimas</a></p>
-      <p><a href="#cust_sidebar_adding">Kortelių įtraukimas į parankinę</a></p>
-      <p><a href="#cust_sidebar_indiv">Parankinės kortelių tvarkymas</a></p>
-      <p><a href="#cust_sidebar_reorg">Parankinės kortelių pertvarkymas</a></p>
-      <p><a href="#cust_sidebar_removing">Kortelių šalinimas iš parankinės</a></p>
-      <p><a href="#cust_sidebar_openclose">Parankinės atvėrimas, užvėrimas
-bei dydžio keitimas</a></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p> </p>
-<a name="My_Sidebar:descriptionIDX"></a><a name="cust_sidebar_define"></a>
-<h2>Kas yra parankinė?</h2>
-<p>Parankinė yra individualizuojamas naršyklės kadras, esantis kairėje lango
-pusėje. Joje galima laikyti viską, ko dažniausiai prireikia – naujienas,
-orų prognozes, adresų knygą, biržų naujienas, ieškykles, kalendorių
-ir pan. Visi šie objektai dedami į periodiškai atnaujinamas parankinės korteles.</p>
-<p>Parankinėje yra kelios iš anksto paruoštos kortelės, tačiau jos struktūrą
-galima keisti: pridėti, šalinti arba pertvarkyti korteles.</p>
-<p>[&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;]</p>
-<p>&nbsp;</p>
+<h1 id="customizing_mozilla">Customizing &brandShortName;</h1>
 
-<a name="My_Sidebar:usingIDX"></a><a name="cust_sidebar_using"></a>
-<h2>Parankinės naudojimas</h2>
+<p>You can customize &brandShortName; to better suit your needs using features
+  like Sidebar, bookmarks, Tabbed Browsing, and Add-ons.</p>
 
-<p>Parankinė visada būna naršyklės pagrindinio lango kairėje pusėje, nebent
-ji būtų <a href="#cust_sidebar_openclose">užverta arba suskleista</a>. Norint peržiūrėti parankinės kortelės turinį, reikia:&nbsp;</p>
-<ul>
-  <li>Spustelėti kortelės pavadinimą. Pavyzdžiui, spustelėjus pavadinimą
-    <i>Paieška</i>, kortelėje matomas su naršykle susietų ieškyklių
-sąrašas, laukai ieškiniui surinkti ir radiniams parodyti.</li>
-</ul>
+<p>This section describes the customizable aspects of &brandShortName;&apos;s
+  browser component.</p>
 
-<table summary="image table" cellpadding="5">
-<tbody><tr> 
-<td width="140"> <img src="images/sidebarclosed_small.gif" hspace="0" vspace="0" alt="Parankinė su rankenėle"> 
-</td>
-<td valign="middle" width="820"> 
-<p><b>Parankinės<br>
-rankenėlė</b></p>
-</td>
-</tr>
-<tr> 
-<td colspan="2"> 
-
-<p>Jeigu parankinės nesimato, tai ji suskleista arba užverta.</p>
-      <ol>
-        <li>Suskleistą
-parankinę išskleiskite spustelėję naršyklės lango kairėje pusėje
-esančią rankenėlę – statmeną liniją su rodyklėmis, ties jomis nuvestas
-pelės žymeklis įgauna plaštakos su ištiestu smiliumi pavidalą.</li>
-        <li>Jeigu rankenėlės (statmenos linijos su rodyklėmis) lango kairėje pusėje nėra, tai parankinė užverta. Ją galima atverti iš meniu <i>Rodinys</i> -&gt; <i>Ką rodyti</i> -&gt; <i> Parankinė</i> arba paspaudus klavišą F9.</li>
-      </ol>
-</td>
-</tr>
-</tbody></table>
-
-<p><b><i>Patarimas.</i></b> Parankinės kortelės turinį galima įkelti iš
-naujo: spustelėkite kortelės pavadinimą dešiniuoju pelės klavišu ir iš
-kontekstinio meniu pasirinkite <i>Įkelti iš naujo</i>. </p>
-
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-
-<a name="My_Sidebar:adding_tabsIDX"></a> <a name="cust_sidebar_adding"></a>
-<h2>Kortelių įtraukimas į parankinę</h2>
-<p>Jei norite įtraukti kortelę į parankinę: </p>
-<ol>
-  <li>Parankinės viršuje spustelėkite užrašą <i>Kortelės</i>. Iš išsiskleidusio
-    meniu pasirinkite <i>Tvarkyti parankinę</i>.</li>
-  <li>Dialogo lange <i>Parankinės tvarkymas</i> yra du     kortelių sąrašai:
-viename yra kompiuteryje esamų kortelių, kitame – parankinėje matomų
-kortelių pavadinimai. Pasirinkite kortelės pavadinimą iš sąrašo kairėje.
-Kortelės gali būti sugrupuotos į aplankus, tada aplanką galima atverti,
-spustelėjus nedidelį ženkliuką aplanko pavadinimo kairėje. </li>
-    <li>Spustelėkite <i>Pridėti</i>.</li>
-    <li>Jeigu reikia, pridėkite dar kortelių. </li>
-    <li>Baigę darbą spustelėkite <i>Gerai</i>. </li>
-</ol>
-
-<p><b><i>Pastaba.</i></b> Didžiausias parankinėje rodomų kortelių
-skaičius yra 8. Jei į parankinę įtrauktų kortelių skaičius viršiją šią
-ribą, tai kitos kortelės nerodomos, tačiau parankinės apačioje
-atsiranda rodyklės, kurias spaudant galima pamatyti visas korteles.</p>
-<p><b><i>Patarimai:</i></b> </p>
-<ul>
-<li>Prieš įtraukiant į parankinę kortelę, ją galima
-peržiūrėti. Tam reikia pažymėti kortelės pavadinimą iš sąrašo lango <i>Parankinės
-tvarkymas</i> kairėje ir spustelėti mygtuką <i>Peržiūra</i>. Kortelės turinys
-bus matomas atsivėrusiame lange (tai gali užtrukti kelias sekundes).</li>
-<li>Jei norite peržiūrėti platų, pagal temas suskirstytą
-galimų  parankinės kortelių katalogą, parankinės viršuje spustelėkite užrašą
-<i>Kortelės</i> ir  pasirinkite <i>Parankinės katalogas</i>.</li>
-</ul>
-
-<p>Į parankinę įtrauktas korteles galima slėpti arba vėl rodyti. Tam reikia:</p>
-<ol>
-  <li>Spustelėti užrašą <i>Kortelės</i> parankinės viršuje. Į parankinę
-įtrauktų kortelių pavadinimai būna surašyti apatinėje meniu dalyje.</li>
-  <li>Spaudydami kortelių pavadinimus, pažymėkite varnele tas korteles,
-kurias norėtumėte matyti parankinėje. Pašalinkite varneles šalia pavadinimų
-tų kortelių, kurias norėtumėte paslėpti (šių kortelių pavadinimai sąraše
-    išliks, todėl vėliau jas bus galima pažymėti).</li>
-</ol>
-<p><b><i>Patarimas.</i> </b>Greitesnis būdas paslėpti parankinės kortelę
-yra spustelėti  dešiniuoju pelės klavišu jos pavadinimą ir pasirinkti <i>Paslėpti
-kortelę</i>.</p>
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-
-<a name="My_Sidebar:customizing_tabsIDX"></a> <a name="cust_sidebar_indiv"></a> 
-<h2>Parankinės kortelių tvarkymas</h2>
-<p><b><i>Pastaba.</i></b> Ne visas parankinės korteles galima tvarkyti.</p>
-<ol>
-  <li>Spustelėkite užrašą <i>Kortelės</i> parankinės viršuje ir iš meniu
-pasirinkite <i>Tvarkyti parankinę</i>.</li>
-  <li>Dialogo lange <i>Parankinės tvarkymas</i> pasirinkite kortelės
-pavadinimą iš sąrašo dešinėje.</li>
-    <li> Spustelėkite mygtuką <i>Tvarkyti kortelę</i>. Bus atvertas langas
-su kortelės nuostatomis      ir nurodymais, kaip ją tvarkyti. (Kai kurioms
-kortelėms nenumatyta, kad jas galėtų tvarkyti naršyklės naudotojai.     
-Jei iš sąrašo pasirinkta tokia kortelė, mygtukas <i>Tvarkyti kortelę</i>
-būna neveiksnus.)     
-    <p>Konkrečios kortelės nuostatos priklauso nuo jos autoriaus. Be <i>Mozilla.org</i>
-projekto, parankinės kortelės autorius gali būti bet kokia institucija,
-organizacija arba asmuo.</p>
- </li>
-    <li>Pasinaudoję kortelės autoriaus nurodymais ir parinkę nuostatas, užverkite
-    tvarkymo langą (gali būti, kad kortelės autoriaus instrukcijose bus  
-  nurodyta, kaip tai padaryti).</li>
-  <li>Baigę darbą spustelėkite <i>Gerai</i>. </li>
-</ol>
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-
-<p>&nbsp;</p>
-<a name="My_Sidebar:reorganizing_tabsIDX"></a> <a name="cust_sidebar_reorg"></a> 
-<h2>Parankinės kortelių pertvarkymas</h2>
-<p>Jei norite pakeisti parankinės kortelių tvarką, atlikite šiuos veiksmus:</p>
-<ol>
-    <li>Spustelėkite užrašą <i>Kortelės</i> parankinės viršuje ir iš meniu
-pasirinkite <i>Tvarkyti parankinę</i>.</li>
-  <li>Dialogo lange <i>Parankinės tvarkymas</i> pasirinkite kortelės
-pavadinimą iš sąrašo dešinėje.</li>
-    <li>Spustelėdami mygtukus <i>Pakelti</i> arba <i>Nuleisti</i>, pakelkite arba nuleiskite kortelę.</li>
-    <li>Jeigu reikia, pakartokite 2 ir 3 žingsnius ir kitoms kortelėms.</li>
-    <li>Spustelėkite <i>Gerai</i>.</li>
-</ol>
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="My_Sidebar:removing_tabsIDX"></a> <a name="cust_sidebar_removing"></a> 
-<h2>Kortelių šalinimas iš parankinės</h2>
-<p>Jei norite pašalinti kortelę iš parankinės:</p>
-<ol>
-  <li>Spustelėkite užrašą <i>Kortelės</i> parankinės viršuje ir iš meniu
-pasirinkite <i>Tvarkyti parankinę</i>.</li>
-  <li>Dialogo lange <i>Parankinės tvarkymas</i> pasirinkite kortelės pavadinimą
-iš sąrašo dešinėje.</li>
-  <li>Spustelėkite mygtuką <i>Pašalinti</i>.</li>
-  <li>Taip pašalinkite visas nereikalingas korteles.</li>
-  <li>Baigę darbą spustelėkite <i>Gerai</i>.</li>
-</ol>
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-
-<a name="cust_sidebar_openclose"></a> 
-<h2>Parankinės atvėrimas, užvėrimas bei dydžio keitimas</h2>
-<p>Parankinę galima atverti, suskleisti, užverti arba pakeisti&nbsp;jos dydį:</p>
-
-<table summary="image table" cellpadding="5">
-<tbody><tr> 
-<td width="140"> <img src="images/sidebarclosed_small.gif" hspace="0" vspace="0" alt="Parankinė su rankenėle"> 
-</td>
-<td valign="middle" width="820"> 
-<p><b>Parankinės<br>
-rankenėlė</b></p>
-</td>
-</tr>
-<tr> 
-<td colspan="2"> 
-
-   <ul>
-  <li>Jei parankinės nesimato, bet naršyklės lango kairėje matoma rankenėlė
-– statmena linija su rodyklėmis – vadinasi, parankinė yra suskleista. Suskleistą
-parankinę išskleiskite spustelėję kairėje pusėje esančios statmenos linijos
-rodykles, virš kurių nuvestas pelės žymeklis įgauna plaštakos su ištiestu
-smiliumi pavidalą. Jei paspausite rodykles dar kartą, parankinė vėl bus suskleista.</li>
-  <li>Jei rankenėlės (stačios linijos
-su rodyklėmis) naršyklės lango kairėje nėra, tai parankinė užverta. Ją galima atverti iš pagrindinio
-meniu pasirinkus <i>Rodinys</i>, po to <i>Ką rodyti</i> ir varnele pažymėjus
-užrašą <i>Parankinė</i>.</li>
-  <li>Parankinės dydį (plotį) galima pakeisti taip: atveskite pelės žymeklį
-ant stačios linijos ir    nuvilkite ją (liniją) į norimą vietą.</li>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#sidebar">Sidebar</a></li>
+    <li><a href="#tabbed_browsing">Tabbed Browsing</a></li>
+    <li><a href="#changing_fonts_colors_and_themes">Changing Fonts, Colors, and
+      Themes</a></li>
+    <li><a href="#toolbars">Toolbars</a></li>
+    <li><a href="#bookmarks">Bookmarks</a></li>
+    <li><a href="#add-ons">Add-ons</a></li>
+    <li><a href="#specifying_how_mozilla_starts_up">Specifying How
+      &brandShortName; Starts Up</a></li>
+    <li><a href="cs_nav_prefs_appearance.xhtml">Appearance
+      Preferences</a></li>
+    <li><a href="cs_nav_prefs_navigator.xhtml">Browser
+      Preferences</a></li>
+    <li><a href="cs_nav_prefs_advanced.xhtml">Advanced Preferences</a></li>
   </ul>
-</td>
-</tr>
-</tbody></table>
+</div>
 
-<p>Jei parankinę norite užverti (paslėpti parankinę, statmeną liniją ir rodykles), atlikite bet kurį iš šių veiksmų:</p>
-<ul>
-  <li>Atverkite meniu <i>Rodinys</i> ir pasirinkite <i>Ką rodyti</i>. Išsiskleidusiame
-    meniu pašalinkite varnelę šalia užrašo <i>Parankinė</i>.</li>
-<li>Spustelėkite kryželį (X) parankinės viršutiniame dešiniajame kampe.</li>
-<li>Paspauskite klavišą F9. </li>
-</ul>
-<p> [&nbsp;<a href="#cust_sidebar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<hr>
+<h2 id="sidebar">Sidebar</h2>
 
-<a name="cust_tabbed"></a>
-<a name="multiple_windowsSDX"></a>
-<a name="multiple_pagesSDX"></a>
-<a name="Tabbed_BrowsingIDX"></a>
-<a name="Navigator:Tabbed_BrowsingSDX"></a>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_is_sidebar">What is Sidebar?</a></li>
+    <li><a href="#opening_closing_and_resizing_sidebar">Opening, Closing and
+      Resizing Sidebar</a></li>
+    <li><a href="#viewing_sidebar_tabs">Viewing Sidebar Tabs</a></li>
+    <li><a href="#adding_sidebar_tabs">Adding Sidebar Tabs</a></li>
+    <li><a href="#customizing_individual_sidebar_tabs">Customizing Individual
+      Sidebar Tabs</a></li>
+    <li><a href="#reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</a></li>
+    <li><a href="#removing_sidebar_tabs">Removing Sidebar Tabs</a></li>
+  </ul>
+</div>
 
-<h1>Naršymo kortelės</h1>
+<h3 id="what_is_sidebar">What is Sidebar?</h3>
 
-<p>&nbsp;</p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">        
-      <p><a href="#tabbed_whatis">Kas yra naršymo kortelės?</a></p>
-      <p><a href="#tabbed_setting">Kortelių nuostatos</a></p>
-      <p><a href="#tabbed_opening">Kortelių atvėrimas</a></p>
-      <p><a href="#tabbed_bookmarking">Kortelių grupės įtraukimas į adresyną</a></p>
-      <p><a href="#tabbed_closing">Kortelių užvėrimas</a></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>&nbsp;</p>
+<p>Sidebar is a customizable area in your browser where you can keep items
+  that you need to use all the time&mdash;the latest news and weather, your
+  address book, stock quotes, a calendar&mdash;and many other available
+  options. Sidebar presents these items to you in tabs that are continually
+  updated.</p>
 
-<a name="tabbed_whatis"></a>
-<a name="Tabbed_Browsing:what_isIDX"></a>
-<h2>Kas yra naršymo kortelės?</h2>
-<p><i>Mozillos</i> naršyklėje yra du būdai vienu metu matyti kelis
-tinklalapius: </p>
-<ol>
-  <li>naujam tinklalapiui atverti naują langą (tradicinis būdas),</li>
-  <li>kelis tinklalapius atverti tame pačiame naršyklės lange – kiekvieną
-    savo kortelėje.</li>
-</ol>
-<p>Čia aprašomas antrasis būdas. </p>
-<p>Atvėrus kelis tinklalapius viename lange, tinklalapio peržiūrai skirto
-lauko viršuje atsiranda kortelių juosta su atvertų tinklalapių pavadinimais: </p>
-<table summary="image table" align="center" border="0" cellspacing="0">
-<tbody><tr> 
-<td width="266"> Naujos kortelės sukūrimo mygtukas</td>
-<td width="236">
-  <p align="right">&nbsp;Kortelės užvėrimo mygtukas</p>
-</td>
-</tr>
-<tr> 
-<td colspan="2" width="506"><img src="images/tabbed_browsing_bar.gif" alt="tab bar"> </td>
-</tr>
-<tr> 
-<td align="center" width="266"> 
-<div align="left">&nbsp;</div>
-</td>
-<td align="center" width="236"> 
-Atverta kortelė
-</td>
-</tr>
-<tr> 
-<td align="center" colspan="2" width="506"> 
-<p align="center"><b><i>Kortelių juosta</i></b>
-</p></td>
-</tr>
-</tbody></table>
-<p>Viename lange galima patogiai atverti, užverti tinklalapius,
-atsiųsti juos iš naujo. Šitoks naršymo būdas yra ekonomiškesnis: taupoma
-vieta darbalaukyje ir darbalaukio užduočių juostoje; norint pereiti prie kito
-atverto tinklalapio, nereikia atverti kito lango.&nbsp;</p>
-<p>[&nbsp;<a href="#cust_tabbed">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
+<p>&brandShortName; comes with some Sidebar tabs already set up, but you can
+  customize Sidebar by adding, removing, and rearranging tabs.</p>
 
-<a name="tabbed_setting"></a>
-<a name="Tabbed_Browsing:setting_upIDX"></a>
-<h2>Kortelių nuostatos</h2>
-<p>Galima pasirinkti, kad tam tikrais atvejais atveriant tinklalapį, jam
-automatiškai būtų sukuriama nauja kortelė. Pavyzdžiui, galima nustatyti,
-kad surinkus tinklalapio adresą naršyklės adresų juostoje, jis būtų
-atvertas naujoje kortelėje. Taip pat galima parinkti, kad naujose kortelėse
-atveriami tinklalapiai būtų įkeliami į antrąjį planą (t. y. tinklalapis,
-iš kurio eina saitas į keliamą tinklalapį, išlieka atvertas, kol keliamas
-antrasis). Apie naršymo kortelių nuostatas rašoma sk. <a href="cs_nav_prefs_navigator.html#Tabbed">Naršyklės
-nuostatos. Kortelės</a>.</p>
-<p>[&nbsp;<a href="#cust_tabbed">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
 
-<a name="tabbed_opening"></a>
-<a name="Tabbed_Browsing:opening_tabsIDX"></a>
-<a name="opening_Navigator_tabsSDX"></a>
-<h2>Kortelių atvėrimas</h2>
-<p>Naują naršyklės kortelę galima atverti šiais būdais:</p>
-<p><b><i>Naujos tuščios kortelės atvėrimas</i></b> </p>
-<ul>
-<li><b><i>Iš meniu „Failas“</i></b>: atverkite meniu <i>Failas</i>, pasirinkite
-  <i>Naujas</i>, tada – <i>Naršyklės kortelė</i>.</li>
-<li><b><i>Iš kortelių juostos</i></b>: kortelių juostos kairėje spustelėkite
-  naujos kortelės sukūrimo mygtuką <img src="chrome://global/skin/icons/tab-new.gif" alt="new tab icon"> 
-  (jei jis yra).</li>
-<li><b><i>Iš kontekstinio meniu</i></b>: jei lange matoma kortelių juosta,
-  spustelėkite ją dešiniuoju pelės klavišu ir iš atsivėrusio kontekstinio
-  meniu pasirinkite <i>Nauja kortelė</i>.</li>
-</ul>
-<p><b><i>Tinklalapių atvėrimas naujoje kortelėje</i></b> </p>
-<ul>
-<li><i><b>Iš meniu „Failas“</b></i>: atverkite meniu <i>Failas</i>, pasirinkite
-  <i>Atverti tinklavietę</i>, surinkite tinklalapio URL (arba pasirinkite
-  failą iš disko), iš išskleidžiamojo sąrašo <i>Kur atverti</i>
-  pasirinkite <i>Naujoje naršyklės kortelėje</i> ir spustelėkite mygtuką <i>Atverti</i>. 
-</li>
-<li><b><i>Iš kontekstinio meniu</i></b>: spustelėkite tinklalapyje esantį
-  saitą dešiniuoju pelės klavišu ir iš atsivėrusio kontekstinio meniu
-  pasirinkite <i>Atverti saitą naujoje kortelėje</i> (sistemoje <i>Mac OS</i>
-  kontekstinis meniu iškviečiamas paspaudus pelės klavišą kartu su valdymo
-  klavišu (<i>Ctrl</i>)). 
-</li>
-<li><b><i>Iš adresų juostos</i></b>: surinkite tinklalapio URL adresų
-  juostoje ir paspauskite <i>Vald+Įvesti</i> (sistemoje <i>Mac OS</i> – <i>Cmd+Enter</i>).<br>
-  <i><b>Pastaba.</b></i> Norint atverti tinklalapį naujoje kortelėje iš adresų
-  juostos, reikia parinkti atitinkamas kortelių nuostatas (žr. sk. <a href="cs_nav_prefs_navigator.html#Tabbed">Naršyklės
-  nuostatos. Kortelės</a>).</li>
-</ul>
-<p><b><i>Patarimai</i></b>:</p>
-<ul>
-<li>Naują naršyklės kortelę galima atverti paspaudus klavišų derinį <i>Vald+T</i>.</li>
-<li>Vienos ar kelių kortelių tinklalapius galima atsiųsti iš naujo, bet
-  kurioje kortelės juostos vietoje spustelėjus dešiniuoju pelės klavišu ir
-  iš kontekstinio meniu pasirinkus <i>Atsiųsti kortelės tinklalapį iš naujo</i>
-  arba <i>Atsiųsti visų kortelių tinklalapius iš naujo</i>.</li>
-</ul>
-<p>[&nbsp;<a href="#cust_tabbed">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
+<h3 id="opening_closing_and_resizing_sidebar">Opening, Closing and Resizing
+  Sidebar</h3>
 
-<a name="tabbed_bookmarking"></a>
-<a name="Tabbed_Browsing:bookmarking_tabsIDX"></a> 
-<a name="GroupMarksSDX"></a>
-<a name="bookmark_groupSDX"></a>
-<a name="bookmarking_Navigator_tabsSDX"></a> 
-<h2>Kortelių grupės įtraukimas į adresyną</h2>
-<p>Jei naršyklės lange tuo pat metu yra atverti keli tinklalapiai (keliose
-kortelėse), tai į adresyną galima įtraukti visų atvertų tinklalapių grupę.
-Tam iš pagrindinio naršyklės lango reikia:</p>
-<ol>
-<li> Atverti meniu <i>Adresynas</i>  ir pasirinkti <i>Įrašyti į adresyną šią
-  kortelių grupę</i>.<br>
-</li>
-<li>Atsivėrusio lango lauke <i>Pavadinimas</i> surinkti kortelių grupės
-  pavadinimą, kuris bus matomas adresyne.<br>
-</li>
-<li>Pasirinkti vietą adresyne: 
-<ul>
-<li><i><b>Kur įtraukti</b></i>. Pasirenkamas adresyne esantis aplankas, į
-  kurį įtraukti kortelių grupę.<br>
-</li>
-<li><b><i>Naujas aplankas</i></b>. Sukuriamas naujas adresyno aplankas kortelių
-  grupei įtraukti.<br>
-</li>
-<li><i><b>Įtraukti į numatytąjį</b></i>. Spustelėjus šį mygtuką, kortelių
-  grupė bus įtraukta į numatytąjį adresyno aplanką, skirtą naujiems įrašams.
-  Apie tai, kaip parinkti tokį aplanką, rašoma sk. <a href="customize_help.html#cust_bkmk_organize">Adresyno
-  tvarkymas</a>.<br>
-</li>
-</ul>
-</li>
-<li>Paspausti mygtuką <i>Gerai</i>.</li>
-</ol>
-<p><b><i>Patarimas.</i></b> Galima parinkti, kad, paleidus naršyklę, vietoj
-pradžios tinklalapio, būtų atveriama kortelių grupė. Žr. sk. <a href="cs_nav_prefs_navigator.html#Navigator">Naršyklės
-nuostatos. Naršyklė</a>.
-</p>
-<p>[&nbsp;<a href="#cust_tabbed">Grįžti į skyriaus pradžią</a>&nbsp;]&nbsp;
-</p>
+<p>To open Sidebar, <span class="noMac">press <kbd>F9</kbd> or</span> open the
+  View menu in the browser, choose Show/Hide, and then Sidebar from the
+  submenu.</p>
 
-<a name="tabbed_closing"></a>
-<a name="closing_Navigator_tabsSDX"></a>
-<a name="Tabbed_Browsing:closing_tabsIDX"></a>
-<h2>Kortelių užvėrimas</h2>
-<p>Naršymo korteles galima užverti keliais būdais:</p>
-<p><i><b>Peržiūrimos kortelės užvėrimas</b></i></p>
-<ul>
-<li>Atverkite meniu <i>Failas</i> ir pasirinkite <i>Užverti kortelę</i>.</li>
-<li>Spustelėkite kortelių juostos dešinėje esantį mygtuką „X“.</li>
-</ul>
-<table summary="image table" align="center" border="0" cellspacing="0">
-<tbody><tr> 
-<td width="305"> Spustelėjus šį mygtuką, atveriama nauja kortelė</td>
-<td width="410">
-  <p align="left">&nbsp;Peržiūrimo tinklalapio kortelės užvėrimo mygtukas&nbsp;</p>
-</td>
-</tr>
-<tr> 
-<td colspan="2" width="719"><img src="images/tabbed_browsing_bar.gif" alt="tab bar"> </td>
-</tr>
-<tr> 
-<td align="center" width="305"> 
-<div align="left">&nbsp;</div>
-</td>
-<td align="center" width="410"> 
-Kortelė, kurios tinklalapis peržiūrimas
-</td>
-</tr>
-<tr> 
-<td align="center" colspan="2" width="719">
-<div align="center"> <b><i>Kortelių juosta</i></b></div>
-</td>
-</tr>
-</tbody></table>
-<p><i><b>Patarimai</b></i>:</p>
-<ul>
-<li>Jei reikia užverti kurią nors kortelę (nebūtinai atvertą), spustelėkite
-  jos pavadinimą dešiniuoju pelės klavišu ir iš kontekstinio meniu pasirinkite
-  <i>Užverti kortelę</i>.</li>
-<li>Jei reikia palikti atvertą tik vieną kortelę, o visas kitas
-užverti, tai spustelėkite kortelės pavadinimą dešiniuoju pelės klavišu
-ir iš kontekstinio meniu pasirinkite <i>Užverti kitas korteles</i>.</li>
-</ul>
-<p>[&nbsp;<a href="#cust_tabbed">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
+<p>Once Sidebar is opened, you can use its handle to close, open and resize
+  Sidebar&apos;s frame. Move the mouse pointer up and down along the left edge
+  of the &brandShortName; window. The pointer changes to a hand when it touches
+  the <q>handle</q> for Sidebar, as shown in the picture.</p>
 
-<p>&nbsp;</p>
-<hr>
-
-<a name="cust_font"></a>
-<h1>Šriftų, spalvų bei apvalkalų keitimas</h1>
-<p>&nbsp;</p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">        
-      <p><a href="#cust_fonts">Numatytųjų šriftų keitimas</a></p>
-      
-      <p><a href="#cust_colors">Numatytųjų spalvų keitimas</a></p>
-      
-      <p><a href="#cust_themes">Grafinės sąsajos apvalkalo keitimas</a></p>
+<table summary="Image table">
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+  <tr style="vertical-align: top;">
+    <td><img src="images/sidebar.png" alt="image of sidebar with
+      handle"/></td>
+    <td style="vertical-align: middle;">
+      <p><strong>Sidebar<br/>Handle</strong></p>
     </td>
   </tr>
-  </tbody>
 </table>
-<p>&nbsp;</p>
-<a name="cust_fonts"></a> <a name="serifSDX"></a> <a name="san_serifSDX"></a> <a name="Customizing FontsIDX"></a> <a name="fonts:customizingIDX"></a> <a name="web_pages:customizing_fontsIDX"></a> 
-<h2>Numatytųjų šriftų keitimas</h2>
-<p>Paprastai tinklalapiai rodomi numatytaisiais šriftais, parinktais
-naršyklės nuostatose, arba tinklalapio autoriaus nurodytais šriftais.</p>
-<p>Numatytuosius naršyklės šriftus galima pakeisti šitaip:</p>
+
+<ul>
+  <li>Click the handle to close/open Sidebar&apos;s frame</li>
+  <li>Click and drag the handle to resize Sidebar&apos;s frame</li>
+</ul>
+
+<p>To close Sidebar with its handle, do one of the following:</p>
+
+<ul>
+  <li class="noMac">Press <kbd>F9</kbd></li>
+  <li>Click the X in the upper-right corner of Sidebar</li>
+  <li>Open the View menu, choose Show/Hide, and then Sidebar from the
+    submenu</li>
+</ul>
+
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h3 id="viewing_sidebar_tabs">Viewing Sidebar Tabs</h3>
+
+<p>To view a tab:</p>
+
+<ul>
+  <li>Click a tab&apos;s title; for instance, click the word <q>Search</q>. The
+    Search tab opens, which allows you to search for web pages.</li>
+</ul>
+
+<p><strong>Tip</strong>: To reload a Sidebar tab, right-click on the tab title
+  and choose Reload from the pop-up menu.</p>
+
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h3 id="adding_sidebar_tabs">Adding Sidebar Tabs</h3>
+
+<p>To add a new tab:</p>
+
 <ol>
-  <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Pažymėkite grupės <i>Išvaizda</i> pogrupį <i>Šriftai</i>. (Jei
-    pogrupio <i>Šriftai</i> nesimato, spustelėkite ženkliuką (pliusą arba
-    trikampėlį) šalia grupės pavadinimo.)</li>
-    <li>Iš išskleidžiamojo sąrašo <i>Šriftai</i> pasirinkite kalbų grupę.
-Pavyzdžiui, jei norite pasirinkti šrifto poaibį, atitinkantį Baltijos
-šalių koduotę, pasirinkite <i>Baltijos šalių</i>.</li>
-    <li>Pasirinkite įvairiapločio šrifto tipą: su užraitais (pvz., <i>Times
-New Roman</i>) ar be      jų (pvz., <i>Arial</i>). Įvairiapločio šrifto simboliai
-turi skirtingus pločius,     priklausomai nuo jų piešinio. Tokiu šriftu rašoma
-dauguma tekstų. Čia     taip pat galima&nbsp; nustatyti įvairiapločio šrifto dydį
-(aukštį).</li>
-    <li>Iš išskleidžiamųjų sąrašų parinkite įvairių tipų šriftus (jei pasirinkta
-kalbų grupė      jų turi): su užraitais, be užraitų, rankraštinį, su
-ornamentais ir lygiaplotį. Čia taip      pat nurodykite lygiapločio šrifto
-dydį.</li>
-    <li>Parinkite lygiaplotį šriftą (jeigu ta kalbų grupė jį turi) ir jo
-dydį. Lygiapločiu šriftu      dažniausiai vaizduojamos ypatingo lygiavimo
-reikalaujančios teksto dalys, pavyzdžiui, lygtys,      formulės, algoritmai.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar, and select Customize
+    Sidebar from the menu</li>
+  <li>In the Customize Sidebar dialog box, select a tab from the list on the
+    left. Double-click the folders to open or close folders.</li>
+  <li>Click Add.</li>
+  <li>Continue adding as many tabs as you want.</li>
+  <li>Click OK to finish.</li>
 </ol>
-<p>Tinklalapių autoriai dažnai parenka šriftus bei jų dydžius ir juos įrašo
-į tinklalapį. Jei norite, kad  naršyklė vaizduotų tinklalapius jų autoriaus
-nurodytais šriftais, pašalinkite parinkties <i>Naudoti šriftus iš tinklalapio
-bei čia patikslintus, nepaisant nurodymų lauke „Įvairiaplotis“ </i>.</p>
-<p>Jei norite suderinti (pareguliuoti) šriftų aiškumą, laukelyje <i>Ekrano
-skiriamoji geba</i> surinkite norimą gebą apibrėžiantį skaičių. Numatytoji
-reikšmė yra 96 taškai viename colyje, tačiau šį skaičių galima pakeisti. Jei iš išskleidžiamojo
-sąrašo pasirinksite <i>Kitkas</i>, bus atvertas ekrano skiriamosios gebos testo dialogo
-langas, kuriame, išmatavę atkarpos ilgį, galėsite nustatyti reikiamą gebą.
-Esant didesnei ekrano skiriamajai gebai šriftai lengviau skaitomi.</p>
-<p> [&nbsp;<a href="#cust_font">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="colors:customizing_web_pageIDX"></a> <a name="web_pages:customizing_colorsIDX"></a> <a name="cust_colors"></a> 
-<h2>Numatytųjų spalvų keitimas</h2>
-<p>Tinklalapiams (jų fonui, spalvoms, tekstui, saitams) vaizduoti naudojamos naršyklės nuostatose parinktos (numatytosios) arba
-tinklalapyje nurodytos spalvos.</p>
-<p>Numatytąsias spalvas galima pakeisti taip:</p>
+
+<p><strong>Note</strong>: If you add more than eight tabs to Sidebar,
+  &brandShortName; hides the remaining tabs to reduce clutter. To scroll
+  through the hidden tabs, click the down arrow button at the bottom of Sidebar
+  until you see the desired tab. Click the up arrow button to once again scroll
+  up.</p>
+  
+<p><strong>Tips</strong>:</p>
+
+<ul>
+  <li>To preview a Sidebar tab before adding it, select a tab from the list
+    on the left side of the Customize Sidebar dialog box and click Preview.
+    After a few seconds, the tab displays in the Tab Preview pop-up
+    window.</li>
+  <li>To view an extensive and categorized list of tabs available for Sidebar,
+    click <q>Tabs</q> at the top of Sidebar, and select Sidebar
+    Directory.</li>
+</ul>
+
+<p>You can also turn Sidebar tabs on and off.</p>
+
 <ol>
-  <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Pažymėkite grupės <i>Išvaizda</i> pogrupį <i>Spalvos</i>. (Jei
-    pogrupio <i>Spalvos</i> nesimato, spustelėkite ženkliuką (pliusą arba
-    trikampėlį) šalia grupės pavadinimo.)</li>
-    <li>Jei norite pakeisti numatytąsias tinklalapio teksto, fono, aplankytų
-ir neaplankytų saitų      spalvas, spustelėkite šalia atitinkamų užrašų
-esančius spalvotus stačiakampius ir parinkite      spalvas iš spalvų palečių.
-Jeigu norite, kad tinklalapių saitai būtų       pabraukti, pažymėkite   
- parinktį <i>Saitus pabraukti</i>.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar. Current tabs are listed in
+    the lower part of the menu.</li>
+  <li>Select the tabs you want displayed in Sidebar. Remove the checkmark
+    (deselect) to turn a tab off (it will still be available from the
+    menu).</li>
 </ol>
-<p>Tinklalapių autoriai dažnai parenka spalvas ir jas įrašo į tinklalapį.
-Į tinklalapį įrašytų spalvų galima nepaisyti, parinkčių grupėje <i>Kai  tinklalapyje
-nurodytos spalvos, tai jį rodyti </i>pažymėjus akutę <i>aukščiau pasirinktomis</i>.</p>
-<p>Su <i>Mozilla</i> peržiūrint tinklalapio pirminį tekstą, HTML gaires
-galima paryškinti spalvomis. Tam reikia pažymėti varnele užrašą <i>Spalvas imti iš OS</i>.</p>
-<p> [&nbsp;<a href="#cust_font">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="themes:changingIDX"></a> <a name="cust_themes"></a> <a name="changing_skinsSDX"></a> 
-<h2>Grafinės sąsajos apvalkalo keitimas</h2>
-<p>Grafinis apvalkalas pakeičia paketo <i>Mozilla</i> išvaizdą: mygtukų, dialogo
-langų, meniu juostų ir kitų grafinės sąsajos elementų paveikslus. Jei
-reikia pakeisti grafinį apvalkalą:</p>
+
+<p><strong>Tip</strong>: To quickly turn off a Sidebar tab, right-click on its
+  name and choose Hide Tab.</p>
+  
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h3 id="customizing_individual_sidebar_tabs">Customizing Individual Sidebar
+  Tabs</h3>
+
+<p><strong>Note</strong>: Not all tabs can be customized.</p>
+
 <ol>
-  <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Pažymėkite grupės <i>Išvaizda</i> pogrupį <i>Apvalkalai</i>. (Jei
-    pogrupio <i>Apvalkalai</i> nesimato, spustelėkite ženkliuką (pliusą
-    arba trikampėlį) šalia grupės pavadinimo.)</li>
-  <li>Spustelėkite pavadinimą apvalkalo, kurį norėsite naudoti.</li>
-  <li>Spustelėkite <i>Gerai</i>.</li>
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar
+    from the menu.</li>
+  <li>Select an available tab from the list on the right.</li>
+  <li>Click Customize Tab if it is enabled. A window appears with information
+    and options for customizing the tab.
+    
+    <p>The instructions vary depending on the source of the tab&mdash;in
+      addition to &brandShortName;, tab providers can be any company,
+      organization, or individual who uses the Internet.</p>
+  </li>
+  <li>After you follow the tab provider&apos;s instructions, close the
+    customization window (or follow the provider&apos;s instructions to close
+    it).</li>
+  <li>Click OK to finish.</li>
 </ol>
-<p><b><i>Pastaba.</i> </b>Grafinio apvalkalo pakeitimai pradės veikti paleidus <i>Mozillą</i> iš naujo.</p>
-<p><b><i>Patarimas.</i></b> Apvalkalą galima pakeisti iš meniu <i>Rodinys</i>,
-pasirinkus <i>Grafiniai apvalkalai</i> ir paspaudus pageidaujamo apvalkalo pavadinimą.</p>
-<p>[&nbsp;<a href="#cust_font">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="cust_toolbar"></a> 
-<hr>
-<h1>Mygtukų juostos</h1>
-<p>&nbsp;</p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">        
-      <p><a href="#cust_main">Naršymo juosta</a></p>
-      
-      <p><a href="#cust_personal">Asmeninė mygtukų juosta</a></p>
-      
-      <p><a href="#cust_statusbar">Būsenos juosta</a></p>
-      
-      <p><a href="#cust_taskbar">Darbų mygtukų juosta</a></p>
-      
-      <p><a href="#cust_hide">Juostų slėpimas</a></p>
+
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h3 id="reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</h3>
+
+<ol>
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
+    the menu.</li>
+  <li>Select a tab from the list on the right.</li>
+  <li>Click Up and Down to change the tab&apos;s placement.</li>
+  <li>Repeat steps 1 and 2 to continue reorganizing as many tabs as you
+    like.</li>
+  <li>Click OK to finish.</li>
+</ol>
+
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h3 id="removing_sidebar_tabs">Removing Sidebar Tabs</h3>
+
+<ol>
+  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
+    the menu.</li>
+  <li>Select a tab from the list on the right.</li>
+  <li>Click Remove.</li>
+  <li>Continue removing as many tabs as you like.</li>
+  <li>Click OK to finish.</li>
+</ol>
+
+<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+
+<h2 id="tabbed_browsing">Tabbed Browsing</h2>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_is_tabbed_browsing">What is Tabbed Browsing?</a></li>
+    <li><a href="#setting_up_tabbed_browsing">Setting up Tabbed Browsing</a></li>
+    <li><a href="#opening_tabs">Opening Tabs</a></li>
+    <li><a href="#moving_tabs">Moving Tabs</a></li>
+    <li><a href="#bookmarking_tabs">Bookmarking Tabs</a></li>
+    <li><a href="#closing_tabs">Closing Tabs</a></li>
+  </ul>
+</div>
+
+<h3 id="what_is_tabbed_browsing">What is Tabbed Browsing?</h3>
+
+<p>Tabbed Browsing lets you open more than one web page in a single window.
+  Each web page has its own tab across the top of a single browser window.
+  Each tab appears on the Tab Bar. For example, you can visit mozilla.org,
+  icq.com, and cnn.com within one window instead of three windows.</p>
+
+<table summary="Image table">
+  <tr> 
+    <td>Click this to open a new tab.</td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td colspan="2">
+      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
     </td>
   </tr>
-  </tbody>
+  <tr> 
+    <td style="text-align: left;">Tab being viewed.</td>
+    <td style="text-align: right;">Click this to close the tab being
+      viewed.</td>
+  </tr>
+  <tr> 
+    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
+  </tr>
 </table>
-<p>&nbsp;</p>
-<a name="toolbar:navigation_toolbarIDX"></a> <a name="cust_main"></a> 
-<h2>Naršymo juosta</h2>
-<p>Žemiau esančiame paveiksle parodyta naršymo juosta. Ji padeda naršyti
-saitynį: pereiti prie kitų tinklalapių, grįžti prie aplankytų, valdyti
-tinklalapių atsiuntimą.</p>
-<table>
-  <tbody>
-    <tr>
-      <td colspan="4"> <img src="images/reload.gif" hspace="0" vspace="0"> </td>
+
+<p>You don&apos;t need to have several windows open to visit several web pages;
+  thus, freeing up more space on your desktop. Instead, you can open, close,
+  and reload web pages conveniently in one place without having to switch to
+  another window.</p>
+
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="setting_up_tabbed_browsing">Setting up Tabbed Browsing</h3>
+
+<p>There are several ways to customize Tabbed Browsing. For example, you can
+  change your preferences to open new browser tabs from the Location Bar. You
+  can set up Tabbed Browsing in other ways too, such as loading new browser
+  tabs in the background so the first page is kept on top while the second page
+  is loading. To learn more about setting up Tabbed Browsing in
+  &brandShortName;, see
+  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser Preferences
+  - Tabbed Browsing</a>.</p>
+
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="opening_tabs">Opening Tabs</h3>
+
+<p>You can open a browser tab in the following ways:</p>
+
+<p><strong>Opening a New Blank Browser Tab</strong>:</p>
+
+<ul>
+  <li><strong>From the File menu</strong>: Open the File menu, choose New, and
+    then Browser Tab.</li>
+  <li><strong>From the Tab Bar</strong>: If visible, click the <q>new
+    tab</q> icon
+    <img src="chrome://navigator/skin/icons/tab-new.gif" alt="new tab icon"/>
+    on the left side of the Tab Bar.</li>
+  <li><strong>From a pop-up menu</strong>: If the Tab Bar is visible,
+    right-click on it, and choose New Tab from the pop.</li>
+</ul>
+
+<p><strong>Opening a Web Page Link in a Browser Tab</strong>:</p>
+
+<ul>
+  <li><strong>From a pop-up menu</strong>: Right-click<span class="mac"> or, if
+    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> on a web page
+    link and choose Open Link in New Tab.</li>
+  <li><strong>From the Location Bar</strong>: Type a web page location in the
+    Location Bar and press <kbd class="mac">Cmd</kbd><kbd class="noMac">
+    Ctrl</kbd>+<kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.
+
+    <p><strong>Note</strong>: You must set your Tabbed Browsing preferences to
+      open a browser tab from the Location Bar. See
+      <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser
+      Preferences - Tabbed Browsing</a> for more information.</p>
+  </li>
+</ul>
+
+<p><strong>Tips</strong>:</p>
+
+<ul>
+  <li>To quickly open a new browser tab, press
+    <kbd class="mac">Cmd</kbd>
+    <kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
+  <li>To reload one or all browser tabs, right-click<span class="mac"> or, if
+    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> anywhere on the
+    Tab Bar and select Reload Tab or Reload All Tabs, respectively.</li>
+</ul>
+
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="moving_tabs">Moving Tabs</h3>
+
+<p>Tabs are displayed in the order you open them, which may not always be what
+  you want. To move a tab to a different location within a &brandShortName;
+  window, simply drag it there using your mouse. While you are dragging the
+  tab, &brandShortName; displays an indicator to show where the tab will be
+  moved. Alternately, you can use
+  <a href="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts">keyboard
+  shortcuts</a> to move tabs within a window if desired.</p>
+
+<p><strong>Note</strong>: The keyboard shortcuts don&apos;t work when a text
+  box has focus.</p>
+
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="bookmarking_tabs">Bookmarking Tabs</h3>
+
+<p>A bookmarked group of tabs is called a Groupmark. To bookmark the group of
+  browser tabs in the current window:</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose <q>Bookmark This Group of
+    Tabs</q>.</li>
+  <li>Type a name for the bookmark group in the Name field.</li>
+  <li>Choose a folder in which to create your Groupmark, or click New Folder to
+    create a new folder for your Groupmark.</li>
+  <li>Click OK to add the Groupmark.</li>
+</ol>
+
+<p><strong>Tip</strong>: To learn how to use a group of tabs as your home page,
+  see <a href="cs_nav_prefs_navigator.xhtml#navigator">Browser Preferences -
+  Browser</a>.</p>
+
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
+
+<h3 id="closing_tabs">Closing Tabs</h3>
+
+<p>You can close browser tabs in several ways:</p>
+
+<p><strong>Closing the Browser Tab Being Viewed</strong>:</p>
+
+<ul>
+  <li>Open the File menu and choose Close Tab.</li>
+  <li>Click the <q>X</q> button on the right side of the Tab Bar.</li>
+</ul>
+
+<table summary="Image table">
+  <tr>
+    <td> Click this to open a new tab.</td>
+    <td></td>
   </tr>
   <tr>
-      <td> <b>Atgal</b> </td>
-    <td> <b>Pirmyn</b> </td>
-    <td> <b>Iš naujo</b> </td>
-    <td> <b>Stabdyti</b> </td>
+    <td colspan="2">
+      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
+    </td>
   </tr>
-  </tbody>
+  <tr>
+    <td style="text-align: left;">Tab being viewed.</td>
+    <td style="text-align: right;">Click this to close the tab being
+      viewed.</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
+  </tr>
 </table>
-<p> [&nbsp;<a href="#cust_toolbar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="personal_toolbarSDX"></a><a name="toolbar:personal_toolbarIDX"></a>
-<a name="cust_personal"></a> 
-<h2>Asmeninė mygtukų juosta</h2>
-<p>Asmeninė mygtukų juosta ypatinga tuo, kad ją galima tvarkyti –&nbsp;
-priderinti prie savo poreikių. Šią savybę atspindi ir jos pavadinimas.
-Asmeninėje mygtukų juostoje būna keletas iš anksto įdėtų mygtukų: <i>Pradžia</i>
-(nuoroda į naršyklės pradžios tinklalapį), <i>Adresynas</i> (tinklalapių
-adresyno
-meniu), <i>„Mozilla“ Lietuvoje</i> (informacijos apie paketo <i>Mozilla</i> lietuviškąją
-atmainą tinklalapis) bei <i>Naujausios  versijos</i> (nuoroda į tinklalapį,
-iš kur galima parsisiųsti naujausias paketo versijas).&nbsp;Tačiau ją galima pakeisti:
-pridėti, šalinti mygtukus bei keisti jų išdėstymo tvarką.</p>
-<p><img src="images/personalbar.gif" hspace="0" vspace="0"></p>
-<p> </p>
-<a name="buttononoff"></a>
-<h4>Mygtukų pridėjimas ir šalinimas</h4>
-<p>Jei norite pridėti arba pašalinti mygtukų juostas, atlikite šiuos veiksmus:
-</p><ol>
-  <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Lango kairėje pusėje pažymėkite <i>Naršyklė</i>. </li>
-  <li>Nuostatų lango dalyje <i>Pagrindinio naršyklės lango mygtukai</i>     
-parinkite (pažymėkite varnelėmis), kuriuos mygtukus rodyti naršymo
-juostoje.</li>
-  <li>Spustelėkite <i>Gerai</i>.</li>
-</ol>
-<p> </p>
-<a name="add_bookmarksSDX"></a><a name="add_bookmarkSDX"></a><a name="Adding_Personal_Toolbar_bookmarks"></a>
 
-<h4>Tinklalapių adresų įtraukimas į asmeninę mygtukų juostą</h4>
-<p>Į asmeninę mygtukų juostą galima įtraukti dažniausiai naudojamų tinklalapių
-adresus arba adresų grupes, sudėtas į aplankus. Jei norite į asmeninę mygtukų
-juostą įtraukti tinklalapio adresą:</p>
-<ol>
-  <li>Naršyklės lange atverkite tinklalapį, kurio adresą norite įtraukti
-    į asmeninę juostą.</li>
-    <li>Nuvilkite adresų juostoje tinklalapio adreso kairėje pusėje esantį
-ženkliuką <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt="adreso ženkliukas"> į norimą vietą    asmeninėje mygtukų juostoje. Ženkliuką
-galima nuvilkti tiesiai į asmeninę juostą, arba į       joje esantį aplanką.&nbsp;Jei
-norite rasti daugiau informacijos apie aplanko su    tinklalapių adresais
-įkėlimą į asmeninę mygtukų juostą, žr. sk.&nbsp;<a href="#add_personal_toolbar_folder">Tinklalapių     adresų aplanko įtraukimas
-į asmeninę mygtukų juostą</a>.</li>
-</ol>
-<p><b><i>Pastaba.</i></b>  Jei naršyklės išvaizdos nuostatose pažymėjote
-parinktį <i>Rodyti svetainių ženkliukus</i>, tai šalia tinklalapio adreso, vietoje <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt="image of bookmark icon">  ženkliuko gali būti ir kitoks ženkliukas. Apie šią nuostatą rašoma
-sk. <a href="cs_nav_prefs_appearance.html#appearance">Išvaizdos nuostatos. Išvaizda</a>. </p>
-<p>Kiekvienas asmeninės juostos objektas atrodo kaip mygtukas arba saitas
-su greta esančiu ženkliuku. Kai asmeninėje mygtukų juostoje prisikaupia daug
-objektų, jie gali netilpti lange. Tada gali prireikti padidinti naršyklės
-langą, kad būtų matomi visi mygtukai, o jei ir padidinus langą matomi ne
-visi, tai dalį jų pašalinti arba sudėlioti į aplankus.</p>
-<p>&nbsp;</p>
-<a name="bookmark_folderSDX"></a><a name="folderSDX"></a><a name="add_personal_toolbar_folder"></a>
-<p><b>Tinklalapių adresų aplanko įtraukimas į asmeninę mygtukų juostą </b></p>
-<p>Dažnai būna patogu į asmeninę mygtukų juostą įtraukti tinklalapių adresus,
-sugrupuotus pagal tam tikrus požymius į aplankus. Pavyzdžiui, galima įtraukti
-vieną aplanką su tinklalapiais, susijusiais su darbu, kitą – su laisvalaikio
-pomėgiais ir pan. Jei norite įtraukti naują tinklalapių adresų  aplanką į asmeninę
-mygtukų juostą, atlikite šiuos veiksmus:</p>
-<ol>
-  <li>Spustelėkite dešinįjį pelės klavišą toje mygtukų juostos vietoje,
-kurioje  norite sukurti naują aplanką. Jei naują aplanką norėtumėte sukurti
-šalia jau  esančio, tai &nbsp;tą &nbsp;(esantį) aplanką spustelėkite dešiniuoju pelės klavišu.</li>
-  <li>Iš atsivėrusio kontekstinio meniu pasirinkite <i>Naujas aplankas.</i></li>
-  <li>Atsivėrusiame dialogo lange surinkite aplanko vardą. Numatytasis aplanko
-vardas būna   <i>Naujas aplankas.</i></li>
-  <li>Spustelėkite <i>Gerai</i>.</li>
-</ol>
-<p>&nbsp;</p>
-<h4>Adresyno aplanko įkėlimas į asmeninę mygtukų juostą</h4>
-<p>Jei reikia aplanką iš adresyno įkelti į asmeninę juostą, atlikite šiuos veiksmus:</p>
-<ol>
- <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną.</i></li>
-  <li>Atveskite žymeklį ant pavadinimo aplanko, kurio turinį norėsite įkelti
-į asmeninę mygtukų juostą.</li>
-  <li>Atverkite meniu <i>Rodinys</i> ir&nbsp; pasirinkite <i>Įkelti į asmeninę
-mygtukų juostą</i>.</li>
-</ol>
-<p>Mygtukai arba saitai, atsiradę asmeninėje juostoje, atitiks pasirinkto
-adresyno aplanko turinį (tinklalapių adresus ir poaplankius).</p>
-<p>&nbsp;</p>
-<h4>Tinklalapių adresų šalinimas iš asmeninės mygtukų juostos</h4>
-<p>Jei norite pašalinti saitus iš asmeninės mygtukų juostos  į tinklalapius, atlikite šiuos veiksmus:</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Adresyno lange atverkite aplanką <i>Asmeninės mygtukų juostos aplankas</i>
-arba tą aplanką, kurio turinį prieš tai įkėlėte į asmeninę mygtukų juostą.</li>
-  <li>Atveskite žymeklį ant pavadinimo to tinklalapio (adreso) arba aplanko,
-kurį norėsite pašalinti.</li>
-  <li>Iš adresyno lango meniu <i>Taisa</i> pasirinkite punktą <i>Pašalinti</i>
-arba paspauskite šalinimo    klavišą klaviatūroje.</li>
-  <li>Užverkite adresyno langą.</li>
-</ol>
-<p><b><i>Patarimas.</i> </b>Asmeninės juostos objektą (nuorodą į tinklalapį
-arba aplanką) galima pašalinti spustelėjus jo pavadinimą dešiniuoju pelės
-klavišu ir iš kontekstinio meniu pasirinkus <i>Pašalinti</i>.</p>
-<p> </p>
-<h4>Asmeninės juostos mygtukų pertvarkymas</h4>
-<p>Jei norite pakeisti mygtukų išdėstymo tvarką asmeninėje juostoje:</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną.</i></li>
-  <li>Adresyno lange atverkite aplanką <i>Asmeninės mygtukų juostos aplankas</i>
-arba tą aplanką, kurio turinį prieš tai įkėlėte į asmeninę mygtukų juostą.</li>
-  <li>Pasirinkite tinklalapio pavadinimą (adresą) arba aplanką ir, laikydami
-paspaustą pelės kairįjį  klavišą, nuvilkite pavadinimą į kitą vietą.</li>
-  <li>Jei reikia, pakeiskite ir kitų adresų arba poaplankių tvarką ir užverkite
-    adresyno langą.</li>
-</ol>
-<p><b><i>Pastaba.</i> </b>Naršyklės mygtukų <i>Adresynas</i>, <i>Pradžia</i>,
-<i>Ieškoti</i>, esančių asmeninėje arba naršymo juostose, negalima pertvarkyti,
-tačiau juos galima <a href="#buttononoff">rodyti arba slėpti</a>.</p>
-<p><b><i>Patarimas.</i>  </b>Jei norite greitai perkelti asmeninėje juostoje
-esantį saitą į kitą vietą, spustelėkite jo pavadinimą kairiuoju pelės klavišu
-ir nuvilkite į kitą asmeninės mygtukų juostos vietą ar į joje esantį aplanką.</p>
-<p>[&nbsp;<a href="#cust_toolbar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
+<p><strong>Tips</strong>:</p>
 
-<a name="cust_statusbar"></a> 
-<a name="toolbar:status_barIDX"></a> 
-<a name="work_offlineSDX"></a> 
-<a name="work_onlineSDX"></a> 
-<h2>Būsenos juosta</h2>
-<p>Kiekvieno <i>Mozilla</i> komponento lango apatinėje dalyje yra būsenos
-juosta. Būsenos juostoje yra:</p>
 <ul>
-<li> Darbų mygtukų juosta. Joje yra paketo <i>Mozilla</i> komponentų
-  mygtukai. Paspaudus kurį nors mygtuką, atveriamas atitinkamo komponento
-  langas. Žr. sk. <a href="#cust_taskbar">Darbų mygtukų juosta</a>.</li>
-<li>Informacija apie tinklalapio siuntimo būseną ir jo URL.</li>
-<li>Pranešimo apie slapuką ženklelis. Šis ženklelis rodomas tada, kai
-  svetainė siunčia slapuką, apie kurį pagal nurodytas privatumo nuostatas,
-  reikia pranešti. Žr. sk. <a href="using_priv_help.html#cookie_notify">Slapuko
-  ženklelis</a>.</li>
-<li>Darbo atsijungus nuo tinklo ženkliukas&nbsp; <img src="chrome://communicator/skin/icons/offline.gif" alt="work offline icon">&nbsp;
-  arba darbo prisijungus prie tinklo&nbsp; <img src="chrome://communicator/skin/icons/online.gif" alt="work online icon">&nbsp;
-  ženkliukas. Spustelėjus šį ženkliuką, galima prisijungti arba
-  atsijungti nuo tinklo. Dirbant atsijungus nuo tinklo, neįkeliami tinklalapiai
-  ir paveikslai iš tinklo, automatiškai netikrinamas paštas.</li>
-<li>Spynos ženkliukas (pvz.,&nbsp; <img src="chrome://communicator/skin/icons/lock-insecure.gif" alt="lock icon">).
-  Rodo, ar tinklalapis buvo siunčiamas į kompiuterį užšifruotu pavidalu. Žr.
-  sk. <a href="using_certs_help.html#using_certs_info">Svetainės saugumo
-  tikrinimas</a>.</li>
+  <li>To close any browser tab, even if hidden, right-click on the tab and
+    choose Close Tab from the pop-up menu.</li>
+  <li>To keep only one browser tab open, while closing all other tabs,
+    right-click on the browser tab and choose Close Other Tabs.</li>
 </ul>
-<p> [&nbsp;<a href="#cust_toolbar">Grįžti į skyriaus pradžią</a>&nbsp;] 
-</p>
 
-<a name="cust_taskbar"></a>
-<a name="taskbarSDX"></a> 
-<h2>Darbų mygtukų juosta</h2>
-<p><i>Mozilla</i> lango apatinės pusės kairėje yra darbų mygtukai, kuriuos
-galima panaudoti pereinant prie darbo su kitais&nbsp; paketo <i>Mozilla</i> komponentais
-(pvz., paštu, adresų knyga, hipertekstų rašykle).</p>
-<img src="images/taskbar.gif" hspace="0" vspace="0"> 
-<p> [&nbsp;<a href="#cust_toolbar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
+<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
 
-<a name="toolbar:hiding_a_toolbarIDX"></a> <a name="cust_hide"></a> 
-<h2>Juostų slėpimas</h2>
-<p>Yra du būdai paslėpti bet kurią iš mygtukų juostų: suskleisti arba užverti.</p>
-<p>Jei norite suskleisti juostą:</p>
-<ul>
-  <li>Spustelėkite mažą trikampėlį juostos kairėje pusėje. Jei norite vėl išskleisti juostą
-, spustelėkite trikampėlį dar kartą. (Atkreipkite dėmesį – darbų ir   būsenos
-juostų negalima suskleisti.)</li>
-</ul>
-<p>Jei norite užverti juostą (kartu su jos trikampėliu, kuris matomas, kai juosta
-suskleista):</p>
+<h2 id="changing_fonts_colors_and_themes">Changing Fonts, Colors, and
+  Themes</h2>
+  
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#changing_the_default_fonts">Changing the Default Fonts</a></li>
+    <li><a href="#changing_the_default_colors">Changing the Default
+      Colors</a></li>
+    <li><a href="#changing_the_theme">Changing the Theme</a></li>
+  </ul>
+</div>
+
+<h3 id="changing_the_default_fonts">Changing the Default Fonts</h3>
+
+<p>Normally, web pages are displayed in the default font set by your browser
+  or in a font chosen by the web pages&apos; authors.</p>
+
+<p>To change the default fonts:</p>
+
 <ol>
-  <li>Atverkite meniu <i>Rodinys</i>.</li>
-  <li>Pasirinkite <i>Ką rodyti</i> ir atsivėrusiame meniu pašalinkite varneles
-šalia pavadinimų tų mygtukų  juostų, kurias norėtumėte paslėpti (užverti).</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Appearance category, choose Fonts. (If no options are visible
+    in this category, double-click Appearance to expand the list.)</li>
+  <li>From the "Fonts for" drop-down list, choose a language group/script.
+    For instance, to set default fonts for West European languages/script
+    (Latin), choose <q>Western</q>.</li>
+  <li>Select whether proportional text should be serif (like Times Roman) or
+    sans-serif (like Arial). Then specify the font size you want for
+    proportional text.</li>
+  <li>If an appropriate font is available for your language/script, select
+    fonts for Serif, Sans-Serif, Cursive, Fantasy, and Monospace. You can also
+    specify what font size you want for monospace text.</li>
+  <li>Specify whether the default font should be serif or sans serif.</li>
+  <li>Select a fixed-width font and size. Certain types of text, such as
+    equations and formulas, are displayed in a fixed-width font.</li>
 </ol>
-<p>Jei užvertas mygtukų juostas norite vėl atverti, iš meniu <i>Rodinys</i>
-pasirinkite <i>Ką rodyti</i> ir varnele pažymėkite  mygtukų juostas, kurias
-norėtumėte vėl matyti. </p>
-<p> [&nbsp;<a href="#cust_toolbar">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="cust_bkmk"></a> 
-<hr>
-<h1>Adresynas</h1>
-<p>&nbsp;</p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">        
-      <p><a href="#cust_bkmk_intro">Kas yra adresynas?</a></p>
-      <p><a href="#cust_bkmk_use">Į adresyną įtrauktų tinklalapių lankymas</a></p>
-      <p><a href="#cust_bkmk_create">Adreso įrašymas į adresyną</a></p>
-      <p><a href="#cust_bkmk_organize">Adresyno tvarkymas</a></p>
-      <p><a href="#cust_bkmk_change">Adresyno įrašo savybių keitimas</a></p>
-      <p><a href="#cust_bkmk_search">Paieška adresyne</a></p>
-      <p><a href="#cust_bkmk_multiple">Adresyno eksportas ir importas</a></p>
-      </td>
-    </tr>
-  </tbody>
+
+<p>Many web page authors choose their own fonts and font sizes. To allow fonts
+  other than the ones specified in your preferences, check <q>Allow
+  documents to use other fonts</q>.</p>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
+
+<h3 id="changing_the_default_colors">Changing the Default Colors</h3>
+
+<p>Normally, the background and text colors on web pages are determined by the
+  default colors set by your browser or by the pages&apos; authors.</p>
+
+<p>To change the default colors:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Appearance category, choose Colors. (If no options are visible
+    in this category, click to expand the list.)</li>
+  <li>Click the colored blocks next to Text, Background, Unvisited Links, and
+    Visited Links. Choose a color for each from the color chart. You can also
+    specify that links should be underlined.</li>
+</ol>
+
+<p>Most web page authors choose their own colors. You can override the
+  authors&apos; intentions by selecting <q>Use my chosen colors, ignoring
+  the colors specified</q>.</p>
+
+<p>When viewing the source of a web page, you can see the HTML syntax of the
+  source of a web page highlighted in specific colors by selecting <q>Enable
+  syntax highlighting</q>.</p>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
+
+<h3 id="changing_the_theme">Changing the Theme</h3>
+
+<p>You can change the look and feel of &brandShortName; by using a different
+  theme. Changing the theme can be done either from the View menu or from the
+  Add-on Manager.</p>
+
+<p>From the View menu:</p>
+
+<ol>
+  <li>Open the View menu and choose Apply Theme, and then select a theme from
+    the menu.</li>
+  <li>Quit and restart &brandShortName;.</li>
+</ol>
+
+<p>From the Add-on Manager:</p>
+
+<ol>
+  <li>Open the Tools menu and choose Add-on Manager.</li>
+  <li>Click the Themes button in the toolbar.</li>
+  <li>Select a theme from the list, and then click the Use Theme button.</li>
+  <li>Quit and restart &brandShortName;.</li>
+</ol>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
+  section</a>]</p>
+
+<h2 id="toolbars">Toolbars</h2>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#navigation_toolbar">Navigation Toolbar</a></li>
+    <li><a href="#personal_toolbar">Personal Toolbar</a></li>
+    <li><a href="#status_bar">Status Bar</a></li>
+    <li><a href="#component_bar">Component Bar</a></li>
+    <li><a href="#hiding_a_toolbar">Hiding a Toolbar</a></li>
+  </ul>
+</div>
+
+<h3 id="navigation_toolbar">Navigation Toolbar</h3>
+
+<p>The Navigation Toolbar, pictured here, helps you move around the Web.</p>
+
+<table summary="Image table">
+  <tr>
+    <td colspan="4">
+      <img src="images/reload.gif" alt="navigation toolbar"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back</strong></td>
+    <td><strong>Forward</strong></td>
+    <td><strong>Reload</strong></td>
+    <td><strong>Stop</strong></td>
+  </tr>
 </table>
-<p>&nbsp;</p>
-<a name="bookmarks:what_are_bookmarksIDX"></a> <a name="cust_bkmk_intro"></a>
-<h2>Kas yra adresynas?</h2>
-<p>Universalūs tinklalapių adresai dažnai būna ilgi ir sunkiai
-įsimenami. Laimei, jų galima ir neįsiminti. Naršyklė turi tinklaviečių
-adresyną,
-į kurį galima įrašyti dažniau reikalingus adresus, kad vėliau būtų galima
-greičiau juos rasti.</p>
-<p>Adresyno įrašus galima pasiekti keliais būdais: iš meniu <i>Adresynas</i>,
-parankinėje esančios kortelės <i>Adresynas</i> bei adresyno tvarkymo lango <i>Adresynas</i>.</p>
-<p>&nbsp;</p>
-<a name="bookmarks:using_bookmarksIDX"></a> <a name="cust_bkmk_use"></a>
-<h2>Į adresyną įtrauktų tinklalapių lankymas</h2>
-<p>Naujai įdiegtos naršyklės adresyne jau būna įrašytų adresų. Norint aplankyti
-į adresyną įtrauktą tinklalapį, reikia atlikti šiuos veiksmus: </p>
+
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+
+<h3 id="personal_toolbar">Personal Toolbar</h3>
+
+<p>The Personal Toolbar is completely customizable&mdash;you decide what you
+  want to keep there.</p>
+
+<table summary="Image table">
+  <tr> 
+    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Personal Toolbar</strong></td>
+  </tr>
+</table>
+
+<p>You can easily add, delete, and rearrange items in the Personal Toolbar.</p>
+
+<h4 id="adding_personal_toolbar_bookmarks">Adding Personal Toolbar
+  Bookmarks</h4>
+
+<p>You can add buttons for your favorite bookmarks, or folders containing
+  groups of bookmarks. To create a new bookmark to add to the Personal
+  Toolbar:</p>
+  
 <ol>
-  <li>Atverti meniu <i>Adresynas</i>. Jame rodomi tinklalapių adresai su
-šalia   pavaizduotais jų ženkliukais ir aplankai, kuriuose gali būti laikomi
-adresai   ir kiti aplankai.</li>
-  <li>Iš sąrašo pasirinkti adresą. Gali tekti   pasirinkti ir atverti aplanką,
-ir jame ieškoti adresų arba kitų aplankų.</li>
+  <li>Open a web page you want to bookmark.</li>
+  <li>Drag the bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/>(located to the left of URL in the
+    Location Bar) to a desired place on the Personal Toolbar. You can drag the
+    icon directly to the Personal Toolbar, or to a folder on the Personal
+    Toolbar. For more information, see
+    <a href="#adding_bookmark_folders_to_the_personal_toolbar">Adding Bookmark
+    Folders to the Personal Toolbar</a>.</li>
 </ol>
-<p> [&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="adding_bookmarksSDX"></a> <a name="creating_bookmarksSDX"></a> 
-<a name="Bookmarks_menuSDX"></a><a name="cust_bkmk_create"></a> <a name="bookmarks:creating_bookmarksIDX"></a>
-<h2>Adreso įrašymas į adresyną</h2>
-<p> Į adresyną naudinga surašyti įdomesnių ir dažniau reikalingų tinklalapių adresus.</p>
-<p>Jei norite naršyklėje atvertą tinklalapį įtraukti į adresyną, turite atlikti
-vieną iš šių veiksmų:</p>
+
+<p><strong>Note</strong>: The bookmark icon
+  <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt="image
+  of bookmark icon"/> may appear as another page-specific icon if you have
+  checked Show Website Icons in preferences. See
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
+  Appearance</a> for more information on changing this preferences.</p>
+
+<p>Each item in the Personal Toolbar folder appears as a toolbar button. You
+  may need to enlarge the browser window to see them all.</p>
+
+<p id="adding_bookmark_folders_to_the_personal_toolbar"><strong>Adding
+  Bookmark Folders to the Personal Toolbar</strong></p>
+
+<p>You can add bookmark folders to the Personal Toolbar to sort your favorite
+  bookmarks into categories. For example, you can have one folder on the
+  Personal Toolbar for hobby-related bookmarks and another folder for
+  work-related bookmarks. To add a new bookmark to the Personal Toolbar:</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Select your designated <q>Personal Toolbar Folder</q>.</li>
+  <li>Click New Folder on the toolbar.</li>
+  <li> Type a name for your new bookmark folder. By default, the name is
+    <q>New Folder</q>.</li>
+  <li>Click OK to confirm your new bookmark folder name.</li>
+</ol>
+
+<p>The new bookmark folder will appear at the end of the Personal Toolbar.</p>
+
+<h4>Designating a Bookmark Folder as Your Personal Toolbar Folder</h4>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Select the bookmark folder whose items you want to appear on the
+    toolbar.</li>
+  <li>From the View menu, choose Set as Personal Toolbar Folder.</li>
+</ol>
+
+<p>The buttons in your Personal Toolbar now correspond to the bookmarks in the
+  folder you designated.</p>
+
+<h4>Removing Bookmarks from the Personal Toolbar</h4>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>Click the Personal Toolbar Folder.</li>
+  <li>Select the bookmark or folder you want to delete.</li>
+  <li>Press Delete on your keyboard.</li>
+  <li>Close the Manage Bookmarks window.</li>
+</ol>
+
+<p><strong>Tip</strong>: To quickly remove a bookmark placed on the Personal
+  Toolbar (not in a folder), right-click on the bookmark and select Delete.</p>
+
+<h4>Rearranging the Personal Toolbar</h4>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click the Personal Toolbar Folder.</li>
+  <li>Select a bookmark or folder and drag it to a new location.</li>
+  <li>When you are finished rearranging items, close your Bookmarks
+    window.</li>
+</ol>
+
+<p><strong>Tip</strong>: To move a bookmark placed on the Personal Toolbar
+  quickly, click and drag the bookmark to another location on the Personal
+  Toolbar or to a folder.</p>
+  
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+
+<h3 id="status_bar">Status Bar</h3>
+
+<p>The Status Bar is located at the bottom of any &brandShortName; window. It
+  includes the following:</p>
+
 <ul>
-  <li>Jei norite įtraukti tinklalapį į meniu <i>Adresynas</i>, atverkite
-meniu <i>Adresynas</i>  ir pasirinkite <i>Įrašyti į adresyną</i>.</li>
-  <li>Jei norite įtraukti tinklalapį į vieną iš meniu <i>A</i><i>dresinė</i>
-aplankų, įvardyti adresą  arba pataisyti tinklalapio URL, atlikite šiuos
-veiksmus:   
+  <li>Component Bar: Allows you to switch between components. For more
+    information, see <a href="#component_bar">Component Bar</a>.</li>
+  <li>Status information: Displays information like the web-page URL and load
+    status information.</li>
+  <li>Work Offline
+    <img src="chrome://communicator/skin/icons/offline.png"
+    alt="work offline icon"/> or Work Online
+    <img src="chrome://communicator/skin/icons/online.png"
+    alt="work online icon"/> icon: Click the icon to toggle working
+    offline or online. Working offline prevents &brandShortName; from
+    attempting to connect to the Internet, for example to load images on web
+    pages or automatically check email.</li>
+  <li>Lock icon (Example:
+    <img src="chrome://communicator/skin/icons/lock-insecure.png"
+    alt="lock icon"/>): Indicates whether the entire contents of the page
+    was encrypted while it was being received by your computer. For more
+    information, see
+    <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Checking
+    Security for a Web Page</a>.</li>
+</ul>
+
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+
+<h3 id="component_bar">Component Bar</h3>
+
+<p>Use the Component Bar at the bottom left of any &brandShortName; window to
+  switch between tasks (such as browsing or mail).</p>
+  
+<p><img src="images/taskbar.png" alt="component bar"/></p>
+
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+
+<h3 id="hiding_a_toolbar">Hiding a Toolbar</h3>
+
+<p>There are two ways to hide the toolbars.</p>
+
+<p>To minimize a toolbar:</p>
+
+<ul>
+  <li>Click the small triangle at the left of the toolbar. To show the toolbar,
+    click the triangle again. (Note: You cannot hide the Component Bar using
+    this method.)</li>
+</ul>
+
+<p>To completely hide a toolbar, including its triangle:</p>
+
+<ol>
+  <li>Open the View menu.</li>
+  <li>Choose Show/Hide and uncheck the toolbars you want to hide.</li>
+</ol>
+
+<p>To reverse this action, open the View menu, choose Show, and then select
+  the toolbars you want to show.</p>
+  
+<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+
+<h2 id="bookmarks">Bookmarks</h2>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_are_bookmarks">What Are Bookmarks?</a></li>
+    <li><a href="#using_bookmarks">Using Bookmarks</a></li>
+    <li><a href="#creating_new_bookmarks">Creating New Bookmarks</a></li>
+    <li><a href="#organizing_your_bookmarks">Organizing Your Bookmarks</a></li>
+    <li><a href="#changing_individual_bookmarks">Changing Individual
+      Bookmarks</a></li>
+    <li><a href="#searching_your_bookmarks">Searching Your Bookmarks</a></li>
+    <li><a href="#exporting_or_importing_a_bookmark_list">Exporting or
+      Importing a Bookmark List</a></li>
+  </ul>
+</div>
+
+<h3 id="what_are_bookmarks">What Are Bookmarks?</h3>
+
+<p>Bookmarks are shortcuts to your favorite and most-visited web pages. Rather
+  than typing in long URLs (web addresses), you can create bookmarks that take
+  you directly to the pages you want to see.</p>
+
+<p>You access your bookmarks through the Bookmarks menu, the Bookmarks tab on
+  Sidebar, and the Manage Bookmarks window. You can control what&apos;s listed
+  in the Bookmarks menu by adding bookmarks for your favorite web pages and
+  organizing your list of bookmarks any way you want.</p>
+
+<h3 id="using_bookmarks">Using Bookmarks</h3>
+
+<p>&brandShortName; comes with some bookmarks already available. To use a
+  bookmark:</p>
+
+<ol>
+  <li>Open the Bookmarks menu.</li>
+  <li>Choose a bookmark from the list or from a folder in the list.</li>
+</ol>
+
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h3 id="creating_new_bookmarks">Creating New Bookmarks</h3>
+
+<p>You can bookmark your favorite websites to make it easy to return to
+  them.</p>
+
+<p>To bookmark the current page, perform one of these steps:</p>
+
+<ul>
+  <li>To add a bookmark to the Bookmarks menu, open the Bookmarks menu and
+    choose Bookmark This Page.</li>
+  <li>To add a bookmark to a specific folder on the Bookmarks menu, or to
+    provide a specific name or URL for your bookmark:
     <ol>
-      <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Įrašyti į adresyną
-kaip</i>.        Atsivėrusiame lange parinkite nuostatas:       
+      <li>Open the Bookmarks menu and choose File Bookmark. Choose from any of
+        these options: 
         <ul>
-        <li><b><i>Pavadinimas.</i></b> Surinkite arba pataisykite į adresyną įtraukiamo tinklalapio
-pavadinimą (jei          gautas su tinklalapiu netinka).</li>
-        <li><b><i>Adresas.</i></b> Surinkite tinklalapio URL (jei esamas
-netinka).</li>
-        <li><b><i>Kur įtraukti.</i></b> Pasirinkite aplanką, į kurį reikia įtraukti
-tinklalapio adresą.</li>
-        <li><b><i>Naujas aplankas.</i></b> Spustelėkite šį mygtuką, jei
-norite sukurti naują aplanką, į kurį įtrauksite tinklalapio adresą.</li>
-        <li><b><i>Įtraukti į numatytąjį.</i></b> Vieną iš adresyno aplankų
-galima padaryti numatytuoju          (apie tai žr. <a href="#num_nauj">Naujų adresų
-          aplankas</a>).
-Tuomet spustelėjus šį mygtuką tinklalapio adresas bus įrašytas        
- į numatytąjį aplanką.</li>
-     
+          <li><strong>Name</strong>: Enter a name for the bookmark if you want
+            a different name.</li>
+          <li><strong>Location</strong>: Enter a URL for the bookmark if you
+            want a different URL.</li>
+          <li><strong>Keyword</strong>: Enter a keyword for the bookmark if you
+            want to be able to open the bookmarked page from the Location
+            Bar (see
+            <a href="nav_help.xhtml#custom_keywords">Using Custom Bookmark
+            Keywords</a>).</li>
+          <li><strong>Destination</strong>: Choose a folder in which to create
+            your bookmark.</li>
+          <li><strong>New Folder</strong>: Click this to create a new folder in
+            which to create your bookmark.</li>
         </ul>
-     </li>
-      <li>Spustelėkite <i>Gerai</i>.</li>
+      </li>
+      <li>Click OK to add the bookmark.</li>
     </ol>
+  
+    <p><strong>Tip</strong>: If you have multiple browser tabs open in a
+      window, you can select <q>Bookmark this groups of tabs</q> to add a
+      single bookmark that will open all of the open tabs in the current
+      window.</p>
   </li>
-</ul>
-<ul>
-  <li>Jei norite įtraukti tinklalapio adresą į asmeninę mygtukų juostą, nuvilkite
-  pele adresų juostos kairėje šalia tinklalapio adreso esančią piktogramą <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt="adreso ženkliukas">
-  į asmeninę juostą arba į joje esantį aplanką. Apie tinklalapių adresų  įtraukimą
-į asmeninę mygtukų juostą žr. sk.&nbsp; <a href="#Adding_Personal_Toolbar_bookmarks">Tinklalapių   adresų įtraukimas
-į  asmeninę mygtukų juostą</a>.</li>
-  <li>Jei tinklalapio adresą norite įtraukti į parankinės adresyno kortelę,
-atverkite parankinę,   pasirinkite jos kortelę <i>Adresynas</i> ir nuvilkite
-pele piktogramą <img src="chrome://communicator/skin/bookmarks/bookmark-item.gif" alt="adreso ženkliukas">, kuri yra adresų juostos   kairėje šalia tinklalapio adreso, į norimą vietą
-    adresyno kortelėje.</li>
-</ul>
-<p><b><i>Pastaba.</i></b> Įrašius tinklalapio adresą į adresyną bet kuriuo
-iš aukščiau aprašytų būdų, jis tampa prieinamas iš parankinės adresyno kortelės,
-meniu <i>Adresynas</i> bei adresyno lango (jis iškviečiamas įvykdžius
-komandą <i>Adresynas –&gt; Tvarkyti adresyną</i>).</p>
-<a name="bookmark_groupSDX"></a>
-<a name="bookmarking_Navigator_tabsSDX"></a>
-<p>Jei naršyklės lange tuo pat metu yra atverti keli tinklalapiai (keliose
-kortelėse), tai į adresyną galima įtraukti visų atvertų tinklalapių grupę. Tam
-reikia iš meniu <i>Adresynas</i> pasirinkti <i>Įrašyti į adresyną kaip</i>
-ir atvertame lange varnele pažymėti parinktį <i>Įtraukti adresų grupę</i>
-(ši parinktis matoma tik tuomet, kai naršyklėje atvertos kelios kortelės).
-Šalia tokios adresų grupės, įtrauktos į adresyną, bus nupiešta kitokia piktograma
-(triguba žymelė). Adresų grupė aplankoma tokiu pat būdu, kaip ir pavieniai
-į adresyną įtraukti adresai. Tik spustelėjus adresų grupės pavadinimą atveriami
-iš karto visi grupės tinklalapiai: kiekvienas savo kortelėje.</p>
-<p>[&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="bookmarks:organizing_bookmarksIDX"></a> <a name="cust_bkmk_organize"></a> <a name="delete_bookmarkSDX"></a> 
-<h2>Adresyno tvarkymas</h2>
-<p>Adresyno struktūrą bei jos įrašų savybes galima keisti. Tam reikia atverti
-meniu <i>Adresynas</i> ir pasirinkti <i>Tvarkyti adresyną</i>. Atsivėrusiame
-lange galima atlikti įvairius tvarkymo darbus.</p>
-<p><b><i>Patarimas.</i>  </b>Adresyno langą galite atverti ir
-iš  parankinės kortelės <i>Adresynas</i>. Tam spustelėkite mygtuką <i>Kortelės</i>.</p>
-<p>Jei norite peržiūrėti adresus, esančius adresyno aplankuose:</p>
-<ul>
-  <li>Spustelėkite nedidelius ženklelius, esančius aplankų pavadinimų kairėje
-  (dažniausiai tai būna pliuso ženklas arba mažas trikampėlis). Spustelėję
-  juos galite išplėsti arba suskleisti aplanko turinio sąrašą.</li>
-</ul>
-<p>Jei norite perkelti tinklalapio adresą arba aplanką į kitą sąrašo vietą:</p>
-<ul>
-  <li>Nustatykite pelės žymeklį ant perkeltino adreso arba aplanko pavadinimo.
-  Laikydami paspaustą kairįjį pelės klavišą, nuvilkite pažymėtą objektą  
-į kitą vietą adresyno sąraše arba į kitą aplanką.</li>
-</ul>
-<p>Jei norite sukurti naują aplanką ar skirtuką (horizontalią liniją):</p>
-<ul>
-  <li>Adresyno lango viršuje spustelėkite mygtukus <i>Naujas aplankas</i>
-arba <i>Naujas  skirtukas</i>.</li>
-</ul>
-<p>Jei iš adresyno reikia pašalinti adresą ar aplanką, atlikite šiuos veiksmus:</p>
-<ol>
-  <li>Nustatykite pelės žymeklį ant šalintino tinklalapio adreso ar aplanko
-  pavadinimo.</li>
-  <li>Paspauskite šalinimo klavišą (<i>Šal</i>) klaviatūroje arba spustelėkite
-    adresyno    lango viršuje mygtuką <i>Pašalinti</i>.</li>
-</ol>
-<a name="num_nauj"></a>
-<h4>Naujų adresų aplankas</h4>
-<p>Naršyklėje numatyta, kad į adresyną įtraukiamas naujas
-adresas atsirastų įrašytų adresų sąrašo pabaigoje. Norint, kad į adresyną
-įtraukiamų tinklalapių adresai patektų ne į sąrašo pabaigą, o į tam tikrą
-aplanką, tokį aplanką galima parinkti.</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Adresyno lange pažymėkite aplanką, kurį norėtumėte laikyti numatytuoju,
-įrašant naujų tinklalapių adresus.</li>
-  <li>Atverkite meniu <i>Rodinys</i> ir pasirinkite <i>Naujus adresus  įtraukti
-į šį aplanką</i>.</li>
-</ol>
-<p> [&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="bookmarks:changing_bookmarksIDX"></a> <a name="cust_bkmk_change"></a> 
-<a name="bookmark_propertiesSDX"></a>
-<h2>Adresyno įrašo savybių keitimas</h2>
-<p>Su kiekvienu adresyno įrašu yra siejama tam tikra informacija (pvz., tinklalapio
-pavadinimas, adresas, laikas, kada palyginti tinklalapio podėlyje esančią
-versiją su tinklalapiu tinkle), kurią galima pakeisti.</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Adresyno lange spustelėkite įrašo pavadinimą.</li>
-  <li>Spustelėkite lango viršuje esantį mygtuką <i>Savybės</i>.</li>
-  <li>Atsiradusiame dialogo lange spustelėkite kortelę <i>Informacija</i>.</li>
-</ol>
-<p>Šioje kortelėje galima pakeisti tinklalapio pavadinimą, kuris matomas
-adresyne.
-Galima sukurti tinklalapio aprašą, priskirti jam reikšminį žodį (surinkus
-šį reikšminį žodį naršyklės adresų juostoje bus atsiųstas atitinkamas tinklalapis).</p>
-<p>Galima nustatyti, kad <i>Mozilla</i> praneštų apie į adresyną
-įtraukto tinklalapio pakeitimus. Tam reikia:</p>
-<ol>
-  <li>Atverti meniu <i>Adresynas</i> ir pasirinkti <i>Tvarkyti adresyną</i>.</li>
-  <li>Adresyno lange spustelėti tinklalapio pavadinimą.</li>
-  <li>Spustelėti lango viršuje esantį mygtuką <i>Savybės</i>.</li>
-  <li>Atsiradusiame dialogo lange spustelėti kortelę <i>Tvarkaraštis</i>.</li>
-  <li>Iš išskleidžiamųjų sąrašų parinkti laiko intervalą, kada <i>Mozilla</i>
- tikrins tinklalapio versijos tinkle pasikeitimus.</li>
-  <li>Norint, kad apie pakeitimus būtų pranešta, pasirinkti informavimo
-būdą <i>Pranešimai apie pakeitimus</i> kortelėje.</li>
-</ol>
-<p> [&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="bookmarks:searching_bookmarksIDX"></a> <a name="cust_bkmk_search"></a> 
-<h2>Paieška adresyne</h2>
-<p>Jei norite ieškoti adresyno įrašų, atlikite šiuos veiksmus:</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Adresyno lange atverkite meniu <i>Priemonės</i> ir pasirinkite
-    <i>Ieškoti adresyne</i>. Įvykdžius komandą bus atvertas paieškos langas.</li>
-  <li>Iš išskleidžiamųjų sąrašų parinkite paieškos sąlygas (požymius) ir
-spustelėkite <i>Ieškoti</i>.  Atlikus paiešką bus parodyti visi adresyno
-įrašai, atitinkantys nurodytus paieškos požymius.</li>
-  <li>Jei norite atverti tinklalapį, du kartus spustelėkite jo įrašo pavadinimą.</li>
-  <li>Ieškant galima nurodyti įvairius paieškos požymius:
+  <li>To add a bookmark to the Personal Toolbar, drag the bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/> next to the Location Bar to a place on
+    the Personal Toolbar. You can drag a bookmark to the following places:
     <ul>
-  <li>Jei žinote tik ieškomo tinklalapio pavadinimo, adreso ar kitos jo savybės
-  dalį, pasirinkite&nbsp;požymį <i>turi,</i> <i>prasideda,</i> ar <i>baigiasi</i>.</li>
-  <li>Jei ieškomo tinklalapio pavadinimas, adresas ar kita jo savybė tiksliai
-žinoma, pasirinkite    sąlygą <i>yra</i>.</li>
-  <li>Jei norite, kad į paieškos rezultatus nebūtų įtrauktas įrašas, kurio
-atitinkama savybė turi    ieškomą ženklų seką, pasirinkite požymius <i>nėra</i>
-arba <i>neturi</i>.</li>
-  <li>Paieškos lango dešinėje esančiame lauke surinkite ieškinį (ieškomą
-ženklų seką: tinklalapio    pavadinimą ar jo dalį, adresą ar jo dalį ir pan.).</li>
+      <li>In the Bookmarks folder on the Personal Toolbar.</li>
+      <li>In a bookmarks folder you&apos;ve created on the Personal
+        Toolbar.</li>
+      <li>To the Personal Toolbar itself, on the right side of all bookmarks
+        folders.
+        <p>For more information about adding bookmarks to the Personal Toolbar,
+          see <a href="#adding_personal_toolbar_bookmarks">Adding Personal
+          Toolbar bookmarks</a>.</p>
+      </li>
     </ul>
   </li>
-</ol>
-<p><b><i>Patarimas.</i></b> Jei radinių sąrašą nepatogu peržiūrėti, pabandykite
-padidinti paieškos rezultatų langą.</p>
-<p> [&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="bookmarks:exporting_bookmarksIDX"></a> <a name="bookmarks:importing_bookmarksIDX"></a> <a name="cust_bkmk_multiple"></a> 
-<h2>Adresyno eksportas ir importas</h2>
-<p>Visi adresyno įrašai laikomi faile <i> bookmarks.html</i>. Adresyną galima
-eksportuoti ir jo failo kopiją įrašyti pasirinktame disko kataloge.
-Įrašius, su failu galima elgtis kaip ir su bet kuriuo HTML failu: taisyti, peržiūrėti
-naršyklėje ir pan.</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Tinklaviečių adresyno lange atverkite meniu <i>Priemonės</i> ir pasirinkite
-    <i>Eksportuoti  tinklaviečių adres</i><i>inę</i>.</li>
-  <li>Dialogo lange <i>Eksportuojamų adresų failas</i>,  vaikščiodami po katalogų
-medį, pasirinkite,   į kurį katalogą nukopijuoti adresyno failą <i> bookmarks.html</i>.</li>
-  <li>Spustelėkite <i>Įrašyti</i> (įrašymo langas imamas iš operacinės sistemos,
-todėl jo užrašai gali  būti neišversti į lietuvių kalbą<i>)</i>.</li>
-</ol>
-<p>Eksportavus adresyno failą, „Mozillos“ adresynas išlieka nepakitęs.</p>
-<p>Adresyno failą galima importuoti. Pavyzdžiui, gali būti naudinga importuoti
-ankstesnių „Mozillos“ versijų adresyną, kitų „Mozillos“ naudotojų
-surinktus adresus, adresyną iš naršyklės „Netscape“ ir pan.</p>
-<p>Prieš importuojant adresyno failą, reikia įsitikinti, kad ji yra HTML formato.</p>
-<ol>
-  <li>Atverkite meniu <i>Adresynas</i> ir pasirinkite <i>Tvarkyti adresyną</i>.</li>
-  <li>Tinklaviečių adresyno lange atverkite meniu <i>Priemonės</i> ir pasirinkite
-    <i>Importuoti  tinklaviečių adres</i><i>inę</i>.</li>
-  <li>Dialogo lange <i>Importuojamų adresų failas</i> pasirinkite adresų failą,
-kurį norite  importuoti.</li>
-  <li>Spustelėkite&nbsp; <i>Atverti</i> (failų įrašymo langas imamas iš operacinės sistemos,
-todėl jo  užrašai gali būti  neišversti į lietuvių kalbą<i>)</i>.</li>
-</ol>
-<p>Importuoti adresai, panašiai, kaip ir ankstesniuose skyriuose aprašytu
-būdu į adresyną įtraukiami adresai, pridedami adresyno sąrašo pabaigoje.
-Jei buvo nurodytas specialus naujų adresų aplankas,  importuotieji adresai
-įdedami į jį.</p>
-<p><b><i>Pastaba.</i></b> Adresų failo importo rezultatas yra importuotų
-adresų įtraukimas į bendrą adresyno failą (importavus nesukuriama dviejų failų).</p>
-<p> [&nbsp;<a href="#cust_bkmk">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="cust_page"></a> 
-<hr>
-<h1><i>Mozillos</i> paleidimo nuostatos</h1>
-<p>&nbsp;</p>
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-  <tbody>
-    <tr>
-      <td class="inthissection">        
-      <p><a href="#cust_startpage">Tinklalapis, atveriamas paleidus naršyklę</a></p>
-      <p><a href="#cust_home">Pradžios tinklalapis</a></p>
-      <p><a href="#cust_start">Pasirinkimas komponentų, atveriamų paleidus
-      <i>„</i>Mozillą“</a></p>
-      </td>
-    </tr>
-  </tbody>
+</ul>
+
+<table summary="Image table">
+  <tr>
+    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
+  </tr>
+  <tr>
+    <td><strong>Personal Toolbar</strong></td>
+  </tr>
 </table>
-<p>&nbsp;</p>
-<a name="Navigator:start_pageIDX"></a> <a name="browser:start_pageIDX"></a>
-<a name="cust_startpage"></a> 
-<h2>Tinklalapis, atveriamas paleidus naršyklę</h2>
-<p>Galima pasirinkti tinklalapį, kuris būtų įkeliamas paleidus naršyklę. Tam
-atlikite šiuos veiksmus:</p>
+
+<ul>
+  <li>To add a bookmark to the Bookmarks tab in Sidebar, open Sidebar, select
+    the Bookmarks tab, and drag the bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/> next to the Location Bar to a place on
+    the bookmark list in the Bookmarks tab.
+  </li>
+</ul>
+
+<p><strong>Notes</strong>:</p>
+<ul>
+  <li>The bookmark icon
+    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="image of bookmark icon"/> may appear as another page-specific
+    icon if you have checked Show Website Icons in preferences. See
+    <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
+    Appearance</a> for more information on changing this preferences.</li>
+  <li>After adding a bookmark using any of the methods listed above, it can be
+    accessed using the Sidebar Bookmarks tab, the Manage Bookmarks window, and
+    the Bookmarks menu.</li>
+</ul>
+
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h3 id="organizing_your_bookmarks">Organizing Your Bookmarks</h3>
+
+<p>To organize your bookmarks, open the Bookmarks menu and choose Manage
+  Bookmarks. Perform any of the following tasks in your Manage Bookmarks
+  window.</p>
+
+<p><strong>Tip</strong>: You can open the Manage Bookmarks window from the
+  Bookmarks tab in Sidebar. Click on Manage at the top of the Bookmarks
+  tab.</p>
+
+<p>To view bookmarks inside of folders:</p>
+
+<ul>
+  <li>Double-click a folder to view its contents.</li>
+</ul>
+
+<p>To move a bookmark or a folder to another location in the list:</p>
+
+<ul>
+  <li>Drag the bookmark or folder that you want to move to the new location. To
+    put a bookmark in a folder, drag it to the folder.</li>
+</ul>
+
+<p>To create a new folder or separator:</p>
+
+<ul>
+  <li>Click New Folder or New Separator at the top of the Bookmarks window. The
+    new folder or separator appears below the current selection.</li>
+</ul>
+
+<p>To remove a bookmark or a folder from the list:</p>
+
 <ol>
-  <li>Iš naršyklės pagrindinio lango atverkite meniu <i>Taisa</i> ir pasirinkite
-    <i>Nuostatos</i>.</li>
-  <li>Lango kairėje nustatykite žymeklį ant užrašo <i>Naršyklė</i>. Parinkčių
-grupėje <i>Paleidus  naršyklę bus įkeliamas</i>  pažymėkite vieną iš akučių:
-    <i>tuščias puslapis</i>, <i> pradžios  tinklalapis</i> arba <i> paskiausiai
-aplankytas tinklalapis</i>.</li>
-  <p><i><b>Pastaba</b>.</i> Jei pasirinkote, kad paleidimo metu būtų atveriamas
-pradžios tinklalapis, surinkite jo adresą (URL) žemiau esančios  nuostatų
-grupės <i>Pradžios  tinklalapis</i>  lauke <i>Adresas</i>.</p>
+  <li>Click to highlight the bookmark or folder that you want to remove.</li>
+  <li>Press the Delete key on your keyboard, or click Delete in the Bookmarks
+    window.</li>
 </ol>
-<p> [&nbsp;<a href="#cust_page">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="Navigator:changing_your_home_pageIDX"></a> <a name="browser:changing_your_home_pageIDX"></a> <a name="cust_home"></a>
-<h2>Pradžios tinklalapis</h2>
-<p>Pradžios tinklalapis atveriamas paspaudus  naršyklės asmeninėje juostoje
-mygtuką <i>Pradžia</i>. Priklausomai nuo parinktų nuostatų, tai gali būti
-ir tas pats tinklalapis, kuris atveriamas paleidus „Mozillą“.</p>
-<p>Norint parinkti pradžios tinklalapį, reikia:</p>
+
+<p>To sort your bookmarks in the Manage Bookmarks window:</p>
+
+<ul>
+  <li>Select the folder you want to sort.</li>
+  <li>To sort bookmarks by Name, open the Edit menu and select Sort Folder by
+    Name.</li>
+  <li>To sort bookmarks in other ways, open the Edit menu and select Sort
+    Folder. In the dialog, choose how you want the list sorted.
+
+    <p><strong>Tip</strong>: To add more columns, open the View menu, open
+      <q>Show columns</q>, and select a column header in the list.</p></li>
+</ul>
+
+<h4>Designating a New Bookmark Folder</h4>
+
+<p>When you create a new bookmark, &brandShortName; normally adds it to the
+  bottom of your bookmarks list. If you prefer to file your bookmarks in a
+  folder, you can designate a new bookmarks folder.</p>
+
 <ol>
-  <li>Atverti meniu <i>Taisa</i> ir pasirinkti <i>Nuostatos</i>.</li>
-  <li>Nuostatų lango kairėje spustelėti užrašą <i>Naršyklė</i>.</li>
-  <li>Lango dalyje <i>Pradžios tinklalapis</i> atlikti vieną iš šių veiksmų:
-  
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, select a folder to hold new bookmarks.</li>
+  <li>Open the View menu and choose Set as New Bookmark Folder.</li>
+</ol>
+
+<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h3 id="changing_individual_bookmarks">Changing Individual Bookmarks</h3>
+
+<p>You can change the information for any individual bookmark.</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click a bookmark.</li>
+  <li>Click Properties.</li>
+  <li>In the bookmark Properties dialog box window, click the Info tab.</li>
+</ol>
+
+<p>You can rename the bookmark (the name appears in your bookmark list),
+  add descriptive information, or set a 
+  <a href="nav_help.xhtml#custom_keywords">keyword</a>.</p>
+
+<p>You can also set &brandShortName; to check bookmarked websites for
+  changes.</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, click a bookmark.</li>
+  <li>Click Properties.</li>
+  <li>Use the pull down lists and the textfield under <q>Check this location
+    for updates</q> to specify how often you want &brandShortName; to check the
+    bookmarked page for changes.</li>
+  <li>To be notified when the bookmarked page changes, choose from the options
+    in the <q>Notification</q> section.</li>
+</ol>
+
+<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h3 id="searching_your_bookmarks">Searching Your Bookmarks</h3>
+
+<p>To search the bookmarks list:</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu and choose Search
+    Bookmarks. You see the Find Bookmarks dialog box.</li>
+  <li>In the drop-down lists, choose options to define your search, and then
+    click Find. Bookmarks that match your search criteria are displayed. Choose
+    from the following Search options:
     <ul>
-           <li>Lauke <i>Adresas</i> surinkti pradžios tinklalapio URL (universalų
-adresą internete). </li>
-    <li>Spustelėti <i>Šiuo metu atvertas tinklalapis</i>, jei norima, kad pradžios
-tinklalapiu taptų šiuo      metu naršyklėje rodomas tinklalapis.</li>
-    <li>Spustelėti <i>Parinkti</i> ir atsivėrusiame lange parinkti failą
-iš kompiuterio disko.</li>
-  
+      <li>Choose "contains," "starts with," or "ends with" if you know only
+        part of the word or phrase for which you&apos;re searching.</li>
+      <li>Choose "is" if you know exactly what you&apos;re searching for.</li>
+      <li>Choose "is not" or "doesn&apos;t contain" to exclude pages.</li>
+      <li>Click the fill-in field and type all or part of name or URL
+        (web address) for the bookmarks or history listings that you want to
+        find or exclude.</li>
+      <li>Select <q>Save query in bookmarks</q> to save this search for
+        later use.</li>
     </ul>
   </li>
+  <li>Double-click a bookmark in the list to go to that page.</li>
 </ol>
-<p><b><i>Patarimas.</i></b> Pradžios tinklalapį galima nurodyti ir greičiau.
-Atvėrę norimą tinklalapį, pelės žymeklį nustatykite ant ženkliuko, esančio
-adresų juostos kairėje (šalia tinklalapio adreso) ir, laikydami paspaustą
-kairįjį pelės klavišą, nuvilkite ženkliuką ant asmeninės juostos mygtuko
-<i>Pradžia</i>.</p>
-<p> [&nbsp;<a href="#cust_page">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<p>&nbsp;</p>
-<a name="cust_start"></a> 
-<h2>Pasirinkimas komponentų, atveriamų paleidus <span style="font-weight: bold;">„Mozillą“</span></h2>
-<p>Yra numatyta, kad paleidus paketą <i>Mozilla</i> būtų atveriamas naršyklės komponentas.
-Tačiau šią nuostatą galima pakeisti:</p>
+
+<p><strong>Tip</strong>: If the list is hard to read, try expanding the search
+  results window.</p>
+
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h3 id="exporting_or_importing_a_bookmark_list">Exporting or Importing a
+  Bookmark List</h3>
+
+<p>Your bookmarks are stored in a file named bookmarks.html. You can export a
+  copy of this file and save it in a folder of your choosing. You can then edit
+  it and treat it as you would any HTML file.</p>
+  
 <ol>
-  <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.</li>
-  <li>Nuostatų lango kairėje spustelėkite užrašą <i>Išvaizda</i>.</li>
-  <li>Parinkčių grupėje <i>Paleidus „Mozilla“ bus atverta</i> varnele pažymėkite
-pavadinimus  komponentų, kurių langai bus atveriami paleidus <i>Mozilla</i>.</li>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu, and choose Export.</li>
+  <li>In the <q>Export Bookmarks File</q> dialog box, choose a folder.
+    Your bookmarks.html file will be copied into the folder you designate.</li>
+  <li>Click Save.</li>
 </ol>
-<p> [&nbsp;<a href="#cust_page">Grįžti į skyriaus pradžią</a>&nbsp;] </p>
-<hr>
-<p>Copyright © 1998-2004 The Mozilla Foundation. </p>
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2004</p>
-</body></html>
+
+<p>Your &brandShortName; bookmarks are not altered by this procedure.</p>
+
+<p>You can also import bookmarks from other sources. For example, you can
+  import bookmarks from earlier &brandShortName; versions, other browsers, or
+  from bookmarks files that your friends send you.</p>
+
+<p>Before you start, make sure that the bookmarks file you want to import is an
+  HTML file.</p>
+
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In your Bookmarks window, open the Tools menu and choose Import.</li>
+  <li>In the dialog that appears, choose whether you want to import bookmarks
+    from earlier versions of &brandShortName;, or from a bookmarks file on your
+    computer.</li>
+  <li>Click Continue.</li>
+  <li>If you have chosen to import bookmarks from an earlier version of
+    &brandShortName;, select the profile you want to import bookmarks from,
+    then click Continue. If you have chosen to import bookmarks from a
+    file, navigate to and select the bookmarks file you want to import, then
+    click Open.</li>
+</ol>
+
+<p>The imported bookmarks are treated as a group of new bookmarks and added to
+  the bottom of your bookmarks list. If you have designated a new bookmark
+  folder, the imported bookmarks are added to that folder.</p>
+
+<p><strong>Note</strong>: Importing a bookmarks file imports the bookmarks and
+  folders from that file. It does not create two bookmarks files.</p>
+
+<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
+
+<h2 id="add-ons">Add-ons</h2>
+
+<p>One of the most exciting ways to customize &brandShortName; is through the
+  addition of Add-ons. In this section, you will learn what Add-ons are, how
+  to install them, and how to use the Add-on Manager.</p>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#about_add-ons">About Add-ons</a></li>
+    <li><a href="#installing_add-ons">Installing Add-ons</a></li>
+    <li><a href="#using_the_add-on_manager">Using the Add-on Manager</a></li>
+  </ul>
+</div>
+
+<h3 id="about_add-ons">About Add-ons</h3>
+
+<p>An Add-on is a piece of software that can be added to &brandShortName; to
+  change its appearance, behavior, or to add new features. It can also change
+  the language shown in the user interface. Add-ons can be classified in four
+  types:</p>
+
+<ul>
+  <li><strong>Extensions</strong>: This type of Add-on either changes the way
+    &brandShortName; behaves or adds new features to it. For instance, there
+    are extensions that provide you with weather forecasts, that add a
+    full-featured FTP client, or that block advertisements in web pages. Some
+    extensions are designed to work only with specific websites.</li>
+  <li><strong>Themes</strong>: Themes change the appearance and design of
+    &brandShortName;, but don&apos;t add or change features. They act as a
+    skin. &brandShortName; ships with two themes, Default Theme and Modern
+    Theme, but you can add more to fit your style.</li>
+  <li><strong>Languages</strong>: While you can download &brandShortName; in
+    a number of languages, you may add additional languages to it in the form
+    of language packs. This way, different users may use &brandShortName; in
+    their own language without having to install the program for everyone.
+    This is specially useful if you are going to install &brandShortName; on a
+    computer that is shared by different users in, for example, a computer lab.
+
+    <p><strong>Note</strong>: Language packs only change the user interface
+      language. Web pages, messages, newsgroup and news &amp; blog posts will
+      still be shown in the original language in which they were written.</p>
+  </li>
+  <li><strong>Plugins</strong>: Plugins act as connectors between
+    &brandShortName; and other programs. They enable you to see special content
+    (like Flash movies, or Adobe PDF documents) directly inside the
+    &brandShortName; browser window, instead of opening the target program in a
+    separate window.</li>
+</ul>
+
+<p>Add-ons always come as packages. Each Add-on is a single file with the XPI
+  extension, except in the case of plugins which usually are binaries specific
+  to the target operating system.</p>
+
+<p>[<a href="#add-ons">Return to beginning of section</a>]</p>
+
+<h3 id="installing_add-ons">Installing Add-ons</h3>
+
+<p>There are a number of ways to install Add-ons:</p>
+
+<ul>
+  <li>By clicking a link for an Add-on on a web page. This will trigger
+    a &brandShortName; dialog asking you to confirm or cancel the
+    installation, with the Install button disabled for some seconds in
+    order to avoid accidentally clicking it just as the dialog shows up.
+    
+    <p><strong>Note</strong>: As an additonal security measure,
+      &brandShortName; only allows installing Add-ons from a list of permitted
+      websites in the <a
+      href="cs_nav_prefs_advanced.xhtml#software_installation">Software
+      Installation preferences panel</a>.</p>
+  </li>
+  <li>By opening a previously saved Add-on package, just like you open a
+    regular file that you previously saved on your hard drive: Select Open file
+    from the File menu, or press <span class="mac"><kbd>Cmd</kbd></span><span
+    class="noMac"><kbd>Ctrl</kbd></span>+<kbd>O</kbd>.</li>
+  <li>By using the Get Add-ons panel in the Add-on Manager or clicking the
+    Install button in any of the panels in the Add-on Manager.</li>
+</ul>
+
+<p><strong>Note</strong>: Plugins are usually installed as a separate program
+  while &brandShortName; is closed so both the external program and the
+  corresponding plugin for &brandShortName; get installed correctly.</p>
+
+<p>[<a href="#add-ons">Return to beginning of section</a>]</p>
+
+<h3 id="using_the_add-on_manager">Using the Add-on Manager</h3>
+
+<p>The Add-on Manager enables you to install and uninstall Add-ons, enable and
+  disable them and, in some cases, set preferences for them.</p>
+  
+<p id="accessing_the_add-on_manager">To access the Add-on Manager, follow any
+  of these steps:</p>
+
+<ul>
+  <li>Open the Tools menu, then select Add-on Manager.</li>
+  <li>Open the <span class="mac">&brandShortName;</span><span
+    class="noMac">Edit</span> menu and choose Preferences, expand the Advanced
+    category and click Software Installation.</li>
+</ul>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#the_get_add-ons_panel">The Get Add-ons panel</a></li>
+    <li><a href="#the_extensions_panel">The Extensions panel</a></li>
+    <li><a href="#the_themes_panel">The Themes panel</a></li>
+    <li><a href="#the_languages_panel">The Languages panel</a></li>
+    <li><a href="#the_plugins_panel">The Plugins panel</a></li>
+  </ul>
+</div>
+
+<h4 id="the_get_add-ons_panel">The Get Add-ons panel</h4>
+
+<p>The Get Add-ons panel in the Add-on Manager uses web services provided by
+  the Mozilla Add-ons website to present a list of recommended Add-ons, as
+  well as giving you the option to search all available Mozilla Add-ons
+  directly from the Add-on Manager. After
+  <a href="#accessing_the_add-on_manager">accessing the Add-on Manager</a>,
+  click the Get Add-ons button to show the Get Add-ons panel. There, you can
+  perform the following actions:</p>
+
+<ul>
+  <li>To search for Add-ons based on name, description or tags, use the
+    Search box. Type a word or phrase and press <span
+    class="mac"><kbd>Return</kbd></span><span
+    class="noMac"><kbd>Enter</kbd></span>. You will get a list of matching
+    Add-ons. To clear the search box terms and the result list, click the
+    icon inside the search box.
+
+    <p><strong>Note</strong>: Add-ons that are already installed or
+      incompatible with your current version of &brandShortName; will not be
+      displayed in the list of search results.</p>
+  </li>
+  <li>To open the Mozilla Add-ons website in a new browser window (or a new
+    browser tab, depending on your preferences), click Browse All Add-ons.</li>
+  <li>To get more information about one of the recommended Add-ons in the list
+    displayed by default, click the entry. The entry will expand, displaying
+    a larger image, a full description of the Add-on, and an indication of the
+    Add-on type (extension, theme, etc.). You will also be able to install the
+    Add-on by clicking the Add to &brandShortName; button inside the
+    expanded entry.</li>
+  <li>To display the full list of recommended Add-ons for &brandShortName; in a
+    new browser window (or a new browser tab, depending on your preferences),
+    scroll down the recommended Add-ons list until you see the See All
+    Recommended Add-ons link.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+
+<h4 id="the_extensions_panel">The Extensions panel</h4>
+
+<p>The Extensions panel in the Add-on Manager lists the installed extensions.
+  After <a href="#accessing_the_add-on_manager">accessing the Add-on
+  Manager</a>, click the Extensions button to show the Extensions panel. There,
+  you can perform the following actions:</p>
+
+<ul>
+  <li>To get more information about any of the installed extensions, click the
+    entry in the list. The entry will expand and show the full description of
+    the extension.
+
+    <p><strong>Note</strong>: Disabled extensions will appear greyed out.
+      Incompatible extensions will appear greyed out, since they are also
+      disabled, and with a forbidden sign over the extension icon (incompatible
+      extensions are those which define themselves as not compatible for the
+      version of &brandShortName; you are using).</p>
+  </li>
+  <li>To access preferences of an extension (if the extension features a
+    preferences panel), click the entry corresponding to the desired extension,
+    then click the Preferences button.
+
+    <p><strong>Note</strong>: If the extension does not feature a preferences
+      panel, the Preferences button will be disabled. You can&apos;t access
+      preferences of disabled or incompatible extensions.</p>
+  </li>
+  <li>To disable an extension, click the entry corresponding to the desired
+    extension, then click the Disable button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+  <li>To enable an extension, click the entry corresponding to the desired
+    extension, then click the Enable button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+  <li>To uninstall an extension, click the entry corresponding to the
+    desired extension, then click the Uninstall button. An info bar will
+    appear to remind you that changes will apply once you restart
+    &brandShortName;. The info bar features a Restart &brandShortName;
+    button.</li>
+  <li>To find updates for any extension in the list (including those marked as
+    incompatible), click the Find Updates button at the bottom of the
+    Add-on Manager.
+
+    <p>If updates are found, they will be displayed in a new panel. In the
+      panel, you can choose what extensions you want to update and then use the
+      Install Updates button to retrieve updated Add-ons. Once downloaded, you
+      will need to restart &brandShortName; to apply the updates.</p>
+  </li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+
+<h4 id="the_themes_panel">The Themes panel</h4>
+
+<p>The Themes panel in the Add-on Manager lists the installed themes. After
+  <a href="#accessing_the_add-on_manager">accessing the Add-on Manager</a>,
+  click the Themes button to show the Themes panel. There, you can perform the
+  following actions:</p>
+
+<ul>
+  <li>To get more information and a preview on any of the installed themes,
+    click an entry in the list. The entry will expand and show the full
+    description of the theme, along with a preview in the right side of the
+    Add-on Manager dialog (you may need to resize the dialog to properly see
+    the preview pane).</li>
+  <li>To use a theme, click the entry corresponding to the desired theme, then
+    click the Use Theme button. An info bar will appear to remind you that
+    changes will apply once you restart &brandShortName;. The info bar features
+    a Restart &brandShortName; button.
+    
+    <p><strong>Note</strong>: Contrary to extensions, you only can use one
+    theme at a time.</p>
+  </li>
+  <li>To uninstall a theme, click the entry corresponding to the desired theme,
+    then click the Uninstall button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+</ul>
+
+<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+
+<h4 id="the_languages_panel">The Languages panel</h4>
+
+<p>The Languages panel in the Add-on Manager lists the installed Language
+  Packs. This panel only appears if you have installed a Language Pack.</p>
+
+<p>After <a href="#accessing_the_add-on_manager">accessing the Add-on
+  Manager</a>, click the Languages button to show the Languages panel. There,
+  you can perform the following actions:</p>
+
+<ul>
+  <li>To disable a language pack, click the entry corresponding to the desired
+    language pack, then click the Disable button. An info bar will appear to
+    remind you that changes will apply once you restart &brandShortName;. The
+    info bar features a Restart &brandShortName; button.</li>
+  <li>To enable a language pack, click the entry corresponding to the desired
+    language pack, then click the Enable button. An info bar will appear to
+    remind you that changes will apply once you restart &brandShortName;. The
+    info bar features a Restart &brandShortName; button.</li>
+  <li>To uninstall a language pack, click the entry corresponding to the
+    desired language pack, then click the Uninstall button. An info bar will
+    appear to remind you that changes will apply once you restart
+    &brandShortName;. The info bar features a Restart &brandShortName;
+    button.</li>
+</ul>
+
+<p><strong>Note</strong>: Enabling a language pack in the Language panel
+  doesn&apos;t change the language shown in &brandShortName;&apos;s user
+  interface, it only makes the language available for selection in the
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences
+  panel</a>.</p>
+
+<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+
+<h4 id="the_plugins_panel">The Plugins panel</h4>
+
+<p>The Plugins panel in the Add-on Manager lists the installed Add-ons of type
+  Plugin. After <a href="#accessing_the_add-on_manager">accessing the Add-on
+  Manager</a>, click the Plugins button to show the Plugins panel. There, you
+  can perform the following actions:</p>
+
+<ul>
+  <li>To disable a plugin, click the entry corresponding to the desired plugin,
+    then click the Disable button.</li>
+  <li>To enable a plugin, click the entry corresponding to the desired plugin,
+    then click the Enable button.</li>
+</ul>
+
+<p><strong>Note</strong>: Contrary to other types of Add-ons, enabling and
+  disabling plugins doesn&apos;t require restarting &brandShortName;.</p>
+
+<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+
+<h2 id="specifying_how_mozilla_starts_up">Specifying How &brandShortName;
+  Starts Up</h2>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#specifying_a_starting_page">Specifying a Starting Page</a></li>
+    <li><a href="#session_restore">Session Restore</a></li>
+    <li><a href="#changing_your_home_page">Changing Your Home Page</a></li>
+    <li><a href="#specifying_which_components_open_at_launch">Specifying Which
+      Components Open at Launch</a></li>
+  </ul>
+</div>
+
+<h3 id="specifying_a_starting_page">Specifying a Starting Page</h3>
+
+<p>You can specify the page that loads when the browser starts:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under "Display on Browser Startup" choose whether you want a
+    blank page, your home page, or the last web page visited to open
+    automatically when you launch your browser. Alternatively you can
+    tell &brandShortName; to restore the previous session, i.e. the
+    windows and tabs you had open when you last exited &brandShortName;.
+  <p><strong>Note</strong>: If you selected Home Page, type the URL in the
+    Location Bar.</p></li>
+</ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
+
+<h3 id="session_restore">Session Restore</h3>
+
+<p>&brandShortName; periodically saves your browsing session (open windows
+  and tabs, including form data) to disk. When you start &brandShortName; with
+  Session Restore enabled, the windows and tabs from your previous session
+  will be restored. This is especially useful if your previous browsing session
+  ended unexpectedly (e.g. your computer crashed or a website you visited forced
+  &brandShortName; to terminate). &brandShortName; will automatically restore
+  the previous session if "Restore Previous Session" under "Display on Browser
+  Startup" has been selected. If you chose to not be warned when you close a
+  browser window with multiple tabs open (see <a href="#tabbed_browsing">Tabbed
+  Browsing</a> preference panel), &brandShortName; will open a page from
+  where you can choose which windows/tabs from the previous session you want to
+  restore. The same will happen if &brandShortName; crashes repeatedly.</p>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
+
+<h3 id="changing_your_home_page">Changing Your Home Page</h3>
+
+<p>Your home page is the page that opens when you click the Home button in the
+  Personal Toolbar. Depending on how your preferences are set, it may also be
+  the page that opens automatically when you launch &brandShortName;.</p>
+
+<p>To specify your home page:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Click the Browser category.</li>
+  <li>In the Home page section, perform one of the following:
+    <ul>
+      <li>Type your home page&apos;s URL (web address) in the Location
+        field.</li>
+      <li>Click Use Current Page to make the page currently displayed in the
+        browser window your home page.</li>
+      <li>Click Choose File to select a file from your computer&apos;s hard
+        drive.</li>
+   </ul>
+ </li>
+</ol>
+
+<p><strong>Tip</strong>: To specify your home page quickly, drag the bookmark
+  icon <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+  alt="image of bookmark icon"/> from the Location Bar to the Home Page
+  button on the Personal Toolbar.</p>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
+
+<h3 id="specifying_which_components_open_at_launch">Specifying Which Components
+  Open at Launch</h3>
+
+<p>You can choose components (such as Mail &amp; Newsgroups and Composer) to
+  launch when you start &brandShortName;:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Click the Appearance category.</li>
+  <li>Select the components you want opened automatically each time you start
+    &brandShortName;.</li>
+</ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
+  section</a>]</p>
+
+</body>
+</html>
