@@ -60,9 +60,9 @@
 <!ENTITY btnConsoleWarnings     "Avertissements">
 <!ENTITY btnConsoleLog          "Log">
 
-<!ENTITY filterBox.placeholder "Filtre">
+<!ENTITY filterBox.placeholder "Filtrer">
 <!ENTITY btnClear.label        "Vider la console">
-<!ENTITY btnClear.tooltip      "Vider la Console web">
+<!ENTITY btnClear.tooltip      "Vider la console web">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
