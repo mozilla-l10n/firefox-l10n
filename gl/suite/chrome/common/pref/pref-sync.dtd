@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey      "m">
 <!ENTITY resetSync.label              "Restabelecer sincronización">
 <!ENTITY resetSync.accesskey          "R">
-<!ENTITY deactivateDevice.label       "Desactivar este dispositivo">
-<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY unlinkDevice.label           "Desligar este dispositivo">
+<!ENTITY unlinkDevice.accesskey       "D">
 <!ENTITY addDevice.label              "Engadir un dispositivo">
 <!ENTITY addDevice.accesskey          "a">
 
