@@ -36,6 +36,9 @@
 <!ENTITY openRecentMenu.label         "Відкрити недавній">
 <!ENTITY openRecentMenu.accesskey     "н">
 
+<!ENTITY revertCmd.label              "Відкинути…">
+<!ENTITY revertCmd.accesskey          "т">
+
 <!ENTITY saveFileCmd.label            "Зберегти">
 <!ENTITY saveFileCmd.accesskey        "З">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -101,6 +104,10 @@
   -->
 <!ENTITY resetContext2.label          "Скинути змінні">
 <!ENTITY resetContext2.accesskey      "С">
+
+<!ENTITY reloadAndRun.label           "Перегрузити і запустити">
+<!ENTITY reloadAndRun.accesskey       "е">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Виконати">
 <!ENTITY executeMenu.accesskey        "В">
