@@ -60,4 +60,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Історія встановлень">
 <!ENTITY aboutSupport.updateHistoryTitle "Історія оновлень">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Копіювати все в буфер обміну">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Копіювати текст у буфер">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Копіювати необроблені дані в буфер">
