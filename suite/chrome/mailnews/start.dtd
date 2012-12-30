@@ -15,7 +15,7 @@
 <!ENTITY feat_filters.label "Фільтри листів">
 <!ENTITY feat_htmlmsg.label "Підтримування листів HTML">
 <!ENTITY feat_abook.label "Адресна книга">
-<!ENTITY feat_labels.label "Регульовні мітки і перегляд пошти">
+<!ENTITY feat_tags.label "Customizable Tags and Mail Views">
 <!ENTITY feat_integration.label
 "Тісне інтегрування з комплектом програм &brandShortName;">
 <!ENTITY dict.title "Словники">

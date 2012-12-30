@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Складання">
+<!ENTITY compositionGroupTitle.label          "Складання">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Писати листи у форматі HTML">
 <!ENTITY useHtml.accesskey                    "С">
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "О">
 <!ENTITY includeSigOnForward.label            "Охоплювати підпис у пересланих">
 <!ENTITY includeSigOnForward.accesskey        "х">
+
+<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">
