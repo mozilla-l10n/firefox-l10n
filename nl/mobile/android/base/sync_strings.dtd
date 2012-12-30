@@ -15,7 +15,7 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat om het te activeren.'>
-<!ENTITY sync.subtitle.header2.label 'Voer deze code in op uw apparaat'>
+<!ENTITY sync.subtitle.header2.label 'Voer deze code in op uw andere apparaat'>
 <!ENTITY sync.subtitle.connectlocation2.label 'Selecteer “&sync.title.pair.label;” in de sectie &syncBrand.shortName.label; van de opties van Firefox op uw andere apparaat.'>
 <!ENTITY sync.subtitle.pair.label 'Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
@@ -59,8 +59,8 @@
 <!ENTITY sync.summary.pair.label 'Een ander apparaat aan uw &syncBrand.shortName.label;-account koppelen'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Wat wilt u synchroniseren'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniseer uw…'>
+<!ENTITY sync.configure.engines.title.label 'Wat te synchroniseren'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synchroniseren:'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Bladwijzers'>
 <!ENTITY sync.configure.engines.title.passwords 'Wachtwoorden'>
 <!ENTITY sync.configure.engines.title.history 'Geschiedenis'>
