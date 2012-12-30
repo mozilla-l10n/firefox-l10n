@@ -39,6 +39,7 @@ M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
   mail/chrome/messenger-newsblog/newsblog.properties
+? mail/chrome/messenger/viewZoomOverlay.dtd
 
 smtpDescription.label
 
