@@ -43,6 +43,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Preferencias de user.js">
+<!ENTITY aboutSupport.userJSDescription "O cartafol do seu perfil contén un ficheiro <a id='prefs-user-js-link'>user.js</a>, que inclúe preferencias que non foron creadas polo &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
