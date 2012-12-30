@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption                  "Būsenos paliudijimo tinklu protokolas (OCSP)">
 <!ENTITY enableOCSP.label                         "Tikrinti liudijimų galiojimą OCSP protokolu">
 <!ENTITY enableOCSP.accesskey                     "T">
-<!ENTITY certOCSP2.label                          "Tikrinti liudijimus, nurodančius OCSP serverį">
-<!ENTITY certOCSP2.accesskey                      "T">
-<!ENTITY proxyOCSP2.label                         "Visus liudijimus tikrinti naudojantis šiuo OCSP serveriu:">
-<!ENTITY proxyOCSP2.accesskey                     "V">
-<!ENTITY serviceURL.label                         "Tarnybos URL:">
-<!ENTITY serviceURL.accesskey                     "U">
-<!ENTITY signingCA.label                          "Liudijimų įstaiga:">
-<!ENTITY signingCA.accesskey                      "L">
 <!ENTITY validation.requireOCSP.description       "Nepavykus užmegzti ryšio su OCSP serveriu, laikyti liudijimą negaliojančiu">
 <!ENTITY validation.requireOCSP.accesskey         "N">

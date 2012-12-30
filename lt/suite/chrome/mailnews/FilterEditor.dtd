@@ -18,12 +18,12 @@
 <!ENTITY highestPriorityCmd.label         "aukščiausią">
 
 <!ENTITY contextDesc.label                "Filtrą taikyti, kai:">
-<!ENTITY contextDesc.accesskey            "t">
-<!ENTITY contextIncoming.label            "tikrinamas paštas">
-<!ENTITY contextManual.label              "nurodoma filtruoti laiškus">
-<!ENTITY contextBoth.label                "tikrinamas paštas arba nurodoma filtruoti laiškus">
-<!ENTITY contextPostPlugin.label          "tikrinamas paštas (po laiškų klasifikavimo)">
-<!ENTITY contextPostPluginBoth.label      "tikrinamas paštas (po laiškų klasifikavimo) arba nurodoma filtruoti laiškus">
+<!ENTITY contextIncomingMail.label "tikrinamas paštas:">
+<!ENTITY contextIncomingMail.accesskey "t">
+<!ENTITY contextManual.label "nurodoma filtruoti laiškus">
+<!ENTITY contextManual.accesskey "n">
+<!ENTITY contextBeforeCls.label "prieš atrenkant brukalą">
+<!ENTITY contextAfterCls.label "atrinkus brukalą">
 
 <!ENTITY filterActionDesc.label           "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey       "v">

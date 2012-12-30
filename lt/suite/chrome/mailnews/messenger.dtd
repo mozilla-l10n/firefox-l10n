@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Atsakyti">
 <!ENTITY replyMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "Atsakyti">
-<!ENTITY replySenderCmd.accesskey "A">
+<!ENTITY replyListCmd.label "Atsakyti el. pašto grupei">
+<!ENTITY replyListCmd.accesskey "g">
 <!ENTITY replyNewsgroupCmd.label "Atsakyti naujienų grupei">
 <!ENTITY replyNewsgroupCmd.accesskey	"g">
+<!ENTITY replySenderCmd.label "Atsakyti">
+<!ENTITY replySenderCmd.accesskey "A">
 <!ENTITY replyToAllMsgCmd.label "Atsakyti visiems">
 <!ENTITY replyToAllMsgCmd.accesskey	"v">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "u">
 <!ENTITY contextReplySender.label "Atsakyti">
 <!ENTITY contextReplySender.accesskey "A">
+<!ENTITY contextReplyList.label "Atsakyti el. pašto grupei">
+<!ENTITY contextReplyList.accesskey "g">
 <!ENTITY contextReplyNewsgroup.label "Atsakyti naujienų grupei">
 <!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Atsakyti visiems">
