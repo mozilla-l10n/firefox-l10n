@@ -26,6 +26,9 @@
 <!ENTITY openRecentMenu.label         "Otvori nedavno">
 <!ENTITY openRecentMenu.accesskey     "t">
 
+<!ENTITY revertCmd.label              "Povrati…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Spasi">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -91,6 +94,10 @@
   -->
 <!ENTITY resetContext2.label          "Resetuj varijable">
 <!ENTITY resetContext2.accesskey      "T">
+
+<!ENTITY reloadAndRun.label           "Ponovo učitaj i pokreni">
+<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Izvrši">
 <!ENTITY executeMenu.accesskey        "X">

@@ -10,12 +10,17 @@
 
 <!ENTITY window.title "Web konzola">
 
+<!ENTITY networkPanel.requestURLColon             "URL zahtjeva:">
+<!ENTITY networkPanel.requestMethodColon          "Metod zahtjeva:">
+<!ENTITY networkPanel.statusCodeColon             "Kod statusa:">
+
 <!ENTITY networkPanel.requestHeaders              "Zaglavlje zahtjeva">
 <!ENTITY networkPanel.requestCookie               "Poslani cookie">
 <!ENTITY networkPanel.requestBody                 "Tijelo zahtjeva">
 <!ENTITY networkPanel.requestFormData             "Poslati podaci formulara">
 
 <!ENTITY networkPanel.responseHeaders             "Zaglavlja odgovora">
+<!ENTITY networkPanel.responseCookie              "Primljeni kolačić">
 <!ENTITY networkPanel.responseBody                "Tijelo odgovora">
 <!ENTITY networkPanel.responseBodyCached          "Keširani podaci">
 <!ENTITY networkPanel.responseBodyUnknownType     "Nepoznat tip sadržaja">
@@ -27,6 +32,11 @@
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Zapisuj Request i Response tijela">
 <!ENTITY saveBodies.accesskey "Z">
+
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+<!ENTITY openURL.label     "Otvori URL u novom tabu">
+<!ENTITY openURL.accesskey "t">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -84,3 +94,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "Kopiraj lokaciju linka">
+<!ENTITY copyURLCmd.accesskey "a">
