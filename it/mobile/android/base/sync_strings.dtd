@@ -57,6 +57,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
 <!ENTITY bookmarks.folder.readinglist.label "Elenco lettura">
+<!ENTITY bookmarks.folder.pinned.label "Bloccata">
 <!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Le impostazioni sono state salvate.">
 <!ENTITY sync.invalidcreds.label "Nome utente o password errati">
