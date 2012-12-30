@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Akcia pre koliesko myši">
+<!ENTITY mouseWheelGroup.label           "Vertikálny posun">
+<!ENTITY mouseWheelHorizGroup.label      "Horizontálny posun">
+<!ENTITY sameAsVertical.label            "Rovnaký ako vertikálny posun">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Nerobiť nič">
 <!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothingHoriz.accesskey        "e">
 <!ENTITY scrollDocument.label            "Posunúť dokument">
 <!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY scrollDocumentHoriz.accesskey   "k">
 <!ENTITY history.label                   "Presunúť sa dopredu alebo dozadu v histórii prehliadania">
-<!ENTITY history.accesskey               "r">
+<!ENTITY history.accesskey               "h">
+<!ENTITY historyHoriz.accesskey          "z">
 <!ENTITY zoom.label                      "Priblížiť alebo vzdialiť stránku">
 <!ENTITY zoom.accesskey                  "b">
-<!ENTITY mouseWheelSpeed.label           "Rýchlosť kolieska myši">
-<!ENTITY verticalSpeed.label             "Vertikálny posun:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Opačný smer">
-<!ENTITY verticalReverse.accesskey       "e">
-<!ENTITY horizontalSpeed.label           "Horizontálny posun:">
-<!ENTITY horizontalSpeed.accesskey       "H">
-<!ENTITY horizontalReverse.label         "Opačný smer">
-<!ENTITY horizontalReverse.accesskey     "O">
+<!ENTITY zoomHoriz.accesskey             "d">
+<!ENTITY wheelSpeed.label                "Rýchlosť kolieska myši:">
+<!ENTITY wheelSpeed.accesskey            "R">
+<!ENTITY wheelSpeedHoriz.accesskey       "c">
+<!ENTITY reverseDirection.label          "Opačný smer">
+<!ENTITY reverseDirection.accesskey      "O">
+<!ENTITY reverseDirectionHoriz.accesskey "m">
