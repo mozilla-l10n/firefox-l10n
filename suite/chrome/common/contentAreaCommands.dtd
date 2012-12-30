@@ -6,9 +6,9 @@
 <!ENTITY popupWindowRejectCmd.accesskey "е">
 <!ENTITY popupWindowAllowCmd.label "Разрешить всплывающие окна этого веб-сайта">
 <!ENTITY popupWindowAllowCmd.accesskey "е">
-<!ENTITY openLinkCmd.label "Открыть в новом окне">
+<!ENTITY openLinkCmd.label "Открыть ссылку в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
-<!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
+<!ENTITY openLinkCmdInTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY openLinkCmdInTab.accesskey "к">
 <!ENTITY openLinkInWindowCmd.label "Открыть">
 <!ENTITY openLinkInWindowCmd.accesskey "т">

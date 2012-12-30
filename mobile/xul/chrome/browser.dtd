@@ -77,7 +77,7 @@
 <!ENTITY consoleErrFile.label "Источник:">
 <!ENTITY consoleErrLine.label "Строка:">
 <!ENTITY consoleErrColumn.label "Символ:">
-<!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
+<!ENTITY contextOpenInNewTab.label "Открыть в новой вкладке">
 <!ENTITY contextSaveImage.label "Сохранить изображение">
 <!ENTITY contextCopyLink.label "Копировать ссылку">
 <!ENTITY contextCopyEmail.label "Копировать адрес электронной почты">

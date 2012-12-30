@@ -160,6 +160,9 @@
 <!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
+<!ENTITY abouthome_topsites_edit "Изменить">
+<!ENTITY abouthome_topsites_clear "Очистить">
+<!ENTITY abouthome_topsites_clearall "Очистить всё">
 <!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
 <!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

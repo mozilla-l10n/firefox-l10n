@@ -258,9 +258,9 @@
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
-<!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
+<!ENTITY openLinkCmdInTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY openLinkCmdInTab.accesskey "в">
-<!ENTITY openLinkCmd.label "Открыть в новом окне">
+<!ENTITY openLinkCmd.label "Открыть ссылку в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
 <!ENTITY openLinkInPrivateWindowCmd.label "Открыть ссылку в новом приватном окне">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "ы">

@@ -30,7 +30,7 @@
 <!ENTITY view.groupDayAndSite.accesskey "а">
 <!ENTITY cmd.open.label "Открыть">
 <!ENTITY cmd.open.accesskey "ы">
-<!ENTITY cmd.open_window.label "Открыть в новом окне">
+<!ENTITY cmd.open_window.label "Открыть ссылку в новом окне">
 <!ENTITY cmd.open_window.accesskey "н">
 <!ENTITY cmd.open_tab.label "Открыть ссылку в новой вкладке">
 <!ENTITY cmd.open_tab.accesskey "в">
