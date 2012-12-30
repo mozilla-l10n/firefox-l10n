@@ -160,6 +160,9 @@
 <!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
 <!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY abouthome_top_sites_title "Siti principali">
+<!ENTITY abouthome_topsites_edit "Modifica">
+<!ENTITY abouthome_topsites_clear "Elimina">
+<!ENTITY abouthome_topsites_clearall "Elimina tutti">
 <!ENTITY abouthome_about_sync3 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
 <!ENTITY abouthome_about_apps3 "Scarica nuove app da Firefox Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
