@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Acción da roda do rato">
+<!ENTITY mouseWheelGroup.label           "Desprazamento vertical">
+<!ENTITY mouseWheelHorizGroup.label      "Desprazamento horizontal">
+<!ENTITY sameAsVertical.label            "Igual co desprazamento vertical">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Non facer nada">
 <!ENTITY doNothing.accesskey             "d">
+<!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "Desprazar o documento">
 <!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Moverse adiante ou atrás no historial de navegación">
 <!ENTITY history.accesskey               "M">
+<!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "Aumentar ou reducir o tamaño da páxina">
 <!ENTITY zoom.accesskey                  "t">
-<!ENTITY mouseWheelSpeed.label           "Aceleración da roda do rato">
-<!ENTITY verticalSpeed.label             "Vertical:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Inverter a dirección">
-<!ENTITY verticalReverse.accesskey       "r">
-<!ENTITY horizontalSpeed.label           "Horizontal:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Inverter a dirección">
-<!ENTITY horizontalReverse.accesskey     "e">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Aceleración da roda do rato:">
+<!ENTITY wheelSpeed.accesskey            "l">
+<!ENTITY wheelSpeedHoriz.accesskey       "i">
+<!ENTITY reverseDirection.label          "Inverter a dirección">
+<!ENTITY reverseDirection.accesskey      "R">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
