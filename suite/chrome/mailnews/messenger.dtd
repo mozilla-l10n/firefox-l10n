@@ -256,10 +256,10 @@
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato predefinido">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato predeterminado">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Mostrar os anexos inseridos">
+<!ENTITY viewAttachmentsInlineCmd.label "Amosar os anexos inseridos">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
@@ -321,10 +321,12 @@
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyListCmd.label "Responder á lista">
+<!ENTITY replyListCmd.accesskey "l">
+<!ENTITY replyNewsgroupCmd.label "Responder ao grupo de novas">
+<!ENTITY replyNewsgroupCmd.accesskey	"g">
 <!ENTITY replySenderCmd.label "Responder só ao remitente">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Responder ao grupo de novas">
-<!ENTITY replyNewsgroupCmd.accesskey	"R">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -363,8 +365,8 @@
 <!ENTITY killSubthreadMenu.label "Ignorar fío secundario">
 <!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Mostrar fío">
-<!ENTITY watchThreadMenu.accesskey "M">
+<!ENTITY watchThreadMenu.label "Amosar fío">
+<!ENTITY watchThreadMenu.accesskey "m">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Gardar aquí">
 <!ENTITY fileHereMenu.accesskey "G">
@@ -391,9 +393,9 @@
 <!ENTITY markAsNotJunkCmd.label "Como normal">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Executar controles de correo lixo">
+<!ENTITY recalculateJunkScoreCmd.label "Executar controis de correo lixo">
 <!ENTITY recalculateJunkScoreCmd.accesskey "c">
-<!ENTITY markAsShowRemoteCmd.label "Mostrar contido remoto">
+<!ENTITY markAsShowRemoteCmd.label "Amosar contido remoto">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
 <!ENTITY markAsShowRemoteCmd.key "r">
 <!ENTITY markAsNotPhishCmd.label "Como non fraudulento">
@@ -422,7 +424,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "E">
 <!ENTITY filtersApplyToMessage.label "Executar filtros nas mensaxes">
 <!ENTITY filtersApplyToMessage.accesskey "E">
-<!ENTITY runJunkControls.label "Executar controles de correo lixo no cartafol">
+<!ENTITY runJunkControls.label "Executar controis de correo lixo no cartafol">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Eliminar o correo marcado como lixo do cartafol">
 <!ENTITY deleteJunk.accesskey "E">
@@ -448,7 +450,7 @@
 <!ENTITY nextButton.label "Seguinte">
 <!ENTITY goBackButton.label "Ir atrás">
 <!ENTITY goForwardButton.label "Avanzar">
-<!ENTITY deleteButton.label "Borrar">
+<!ENTITY deleteButton.label "Eliminar">
 <!ENTITY undeleteButton.label "Desfacer Eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY stopButton.label "Deter">
@@ -465,7 +467,7 @@
 <!ENTITY newMsgButton.tooltip "Crear nova mensaxe">
 <!ENTITY replyButton.tooltip "Responder á mensaxe">
 <!ENTITY replyAllButton.tooltip "Responder ao remitente e a todos os destinatarios">
-<!ENTITY replyAllButtonNews.tooltip "Responder ao remitente da rolda">
+<!ENTITY replyAllButtonNews.tooltip "Responder ao remitente da lista">
 <!ENTITY forwardButton.tooltip "Reenviar a mensaxe seleccionada">
 <!ENTITY fileButton.tooltip "Gardar mensaxe seleccionada">
 <!ENTITY nextButton.tooltip "Ir á seguinte mensaxe non lida">
@@ -491,8 +493,10 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "Responder só ao remitente">
 <!ENTITY contextReplySender.accesskey "o">
+<!ENTITY contextReplyList.label "Responder á lista">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextReplyNewsgroup.label "Responder ao grupo de novas">
-<!ENTITY contextReplyNewsgroup.accesskey "R">
+<!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Responder a todos">
 <!ENTITY contextReplyAll.accesskey "R">
 <!ENTITY contextReplySenderAndNewsgroup.label "Responder ao remitente e ao grupo de novas">
@@ -569,7 +573,7 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage.label "Para protexer a súa privacidade, &brandShortName; bloqueou o contido remoto.">
-<!ENTITY loadRemoteContentButton.label "Mostrar contido remoto">
+<!ENTITY loadRemoteContentButton.label "Amosar contido remoto">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; identificou esta mensaxe como posíbel correo electrónico fraudulento.">
