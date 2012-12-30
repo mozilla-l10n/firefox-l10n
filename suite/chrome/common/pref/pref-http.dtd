@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "1">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Išliekantis ryšys">
-<!ENTITY prefEnableKeepAlive.accesskey       "l">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "L">
 <!ENTITY prefEnablePipelining.label          "Konvejerinis duomenų apdorojimas">
 <!ENTITY prefEnablePipelining.accesskey      "K">
 <!ENTITY prefEnablePipeliningProxy.accesskey "I">

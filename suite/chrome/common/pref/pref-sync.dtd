@@ -28,8 +28,8 @@
 <!ENTITY myRecoveryKey.accesskey      "r">
 <!ENTITY resetSync.label              "Šviežiai sinchronizuoti duomenis">
 <!ENTITY resetSync.accesskey          "Š">
-<!ENTITY deactivateDevice.label       "Nebesinchronizuoti šio įrenginio">
-<!ENTITY deactivateDevice.accesskey   "b">
+<!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
+<!ENTITY unlinkDevice.accesskey       "A">
 <!ENTITY addDevice.label              "Pridėti įrenginį">
 <!ENTITY addDevice.accesskey          "d">
 

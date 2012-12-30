@@ -15,8 +15,6 @@
 <!ENTITY warn.description "Naršyklė gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus ir prašyti leidimo prieš:">
 <!ENTITY warn.enteringsecure "įkeliant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.enteringsecure.accesskey      "k">
-<!ENTITY warn.enteringweak "įkeliant tinklalapį, turintį žemo lygio šifravimo priemones">
-<!ENTITY warn.enteringweak.accesskey        "l">
 <!ENTITY warn.insecurepost "persiunčiant formų duomenis tarp dviejų nešifruotų tinklalapių">
 <!ENTITY warn.insecurepost.accesskey        "f">
 <!ENTITY warn.leavingsecure "užveriant tinklalapį, turintį šifravimo priemones">

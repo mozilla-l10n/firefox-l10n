@@ -684,7 +684,7 @@
 <!ENTITY contextReplyAll.label "Atsakyti visiems">
 <!ENTITY contextReplyAll.accesskey "v">
 <!ENTITY contextReplyList.label "Atsakyti el. pašto grupei">
-<!ENTITY contextReplyList.accesskey "e">
+<!ENTITY contextReplyList.accesskey "g">
 
 <!ENTITY contextForward.label "Persiųsti">
 <!ENTITY contextForward.accesskey "p">
