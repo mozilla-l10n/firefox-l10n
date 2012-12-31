@@ -22,7 +22,7 @@
 <!ENTITY contextManual.label         "manuaalsel käivitamisel">
 <!ENTITY contextManual.accesskey     "m">
 <!ENTITY contextBeforeCls.label      "enne rämpsposti filtri rakendumist">
-<!ENTITY contextAfterCls.label       "pärast rämsposti filtri rakendumist">
+<!ENTITY contextAfterCls.label       "pärast rämpsposti filtri rakendumist">
 
 <!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
 <!ENTITY filterActionDesc.accesskey  "R">
