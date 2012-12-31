@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label "z przyciskiem &altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "z przyciskiem &ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "z przyciskiem &shiftKey.label;">
-<!ENTITY mouseWheelAction.label "Podczas przewijania myszką">
+<!ENTITY mouseWheelGroup.label "Przewijanie pionowe">
+<!ENTITY mouseWheelHorizGroup.label "Przewijanie poziome">
+<!ENTITY sameAsVertical.label "Tak samo, jak przy przewijaniu pionowym">
+<!ENTITY sameAsVertical.accesskey "T">
 <!ENTITY doNothing.label "nie rób nic">
 <!ENTITY doNothing.accesskey "n">
+<!ENTITY doNothingHoriz.accesskey "e">
 <!ENTITY scrollDocument.label "przewijaj dokument">
 <!ENTITY scrollDocument.accesskey "r">
+<!ENTITY scrollDocumentHoriz.accesskey "c">
 <!ENTITY history.label "Przejście do następnej/poprzednio odwiedzonej strony">
 <!ENTITY history.accesskey "o">
+<!ENTITY historyHoriz.accesskey "p">
 <!ENTITY zoom.label "Powiększ bądź pomniejsz stronę">
 <!ENTITY zoom.accesskey "k">
-<!ENTITY mouseWheelSpeed.label "Szybkość przewijania myszką">
-<!ENTITY verticalSpeed.label "pionowa:">
-<!ENTITY verticalSpeed.accesskey "w">
-<!ENTITY verticalReverse.label "Odwróć kierunek">
-<!ENTITY verticalReverse.accesskey "d">
-<!ENTITY horizontalSpeed.label "pozioma:">
-<!ENTITY horizontalSpeed.accesskey "z">
-<!ENTITY horizontalReverse.label "Odwróć kierunek">
-<!ENTITY horizontalReverse.accesskey "O">
+<!ENTITY zoomHoriz.accesskey "o">
+<!ENTITY wheelSpeed.label "Szybkość przewijania myszką:">
+<!ENTITY wheelSpeed.accesskey "w">
+<!ENTITY wheelSpeedHoriz.accesskey "z">
+<!ENTITY reverseDirection.label "Odwrotny kierunek">
+<!ENTITY reverseDirection.accesskey "w">
+<!ENTITY reverseDirectionHoriz.accesskey "O">
