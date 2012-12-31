@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d'âge)">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
-<!ENTITY retentionApplyToFlagged.accesskey "c">
+<!ENTITY retentionApplyToFlagged.accesskey "T">
 <!ENTITY nntpRemoveMsgBody.label "Supprimer les corps des messages de plus de">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors connexion…">
@@ -49,7 +49,7 @@
 <!ENTITY allAutosync.label               "Synchroniser tous les messages localement sans critère d'âge">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Synchroniser les plus récents">
-<!ENTITY ageAutosync.accesskey           "r">
+<!ENTITY ageAutosync.accesskey           "l">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "jours">
 <!ENTITY weekAgeInterval.label           "semaines">

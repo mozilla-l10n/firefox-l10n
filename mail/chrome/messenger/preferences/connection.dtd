@@ -38,4 +38,4 @@
 <!ENTITY  noproxy.accesskey             "x">
 <!ENTITY  noproxyExplain.label          "Exemples : .mozilla.org, .asso.org, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utiliser ce serveur proxy pour tous les protocoles">
-<!ENTITY  shareproxy.accesskey          "y">
+<!ENTITY  shareproxy.accesskey          "i">

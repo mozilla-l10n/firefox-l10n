@@ -68,7 +68,7 @@
 <!ENTITY recentWindows.accesskey "c">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Restaurer la session précédente">
-<!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY historyRestoreLastSession.accesskey "t">
 <!ENTITY syncTabsMenu.label "Onglets d'autres ordinateurs">
 <!ENTITY syncTabsMenu.accesskey "O">
 
