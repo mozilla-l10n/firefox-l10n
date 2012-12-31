@@ -6,7 +6,7 @@
 
 <!ENTITY aboutTelemetry.pageSubtitle              "
   See leht näitab Telemetry poolt kogutud jõudluse ja funktsionaalsuse kasutamise andmeid.
-  See teave saadetakse anonüümselt Mozillale, et aidata kaasa &brandShortName;i edasiarendamisel.
+  See teave saadetakse anonüümselt Mozillale, et aidata kaasa &brandShortName;i edasiarendamisele.
 ">
 
 <!ENTITY aboutTelemetry.telemetryEnabled          "
@@ -58,7 +58,7 @@
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols              "
-  Fetch function names for hang stacks
+  Näita hangumisi funktsiooninimede järgi
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols               "
