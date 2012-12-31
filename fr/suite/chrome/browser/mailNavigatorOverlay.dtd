@@ -26,4 +26,4 @@
 <!ENTITY contextSendFrame.accesskey       "c">
 
 <!ENTITY sendLinkCmd.label                "Envoyer le lien…">
-<!ENTITY sendLinkCmd.accesskey            "l">
+<!ENTITY sendLinkCmd.accesskey            "r">
