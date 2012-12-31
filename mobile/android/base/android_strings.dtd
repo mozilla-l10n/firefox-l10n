@@ -54,7 +54,6 @@
 <!ENTITY site_security "Seguranza do sitio">
 
 <!ENTITY close_tab "Pechar lapela">
-<!ENTITY new_tab "Nova lapela">
 <!ENTITY one_tab "1 lapela">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -136,6 +135,10 @@ size. -->
 <!ENTITY find_in_page "Atopar na páxina">
 <!ENTITY desktop_mode "Sitio de escritorio">
 <!ENTITY tools "Ferramentas">
+<!ENTITY new_tab "Nova lapela">
+<!ENTITY new_private_tab "Nova lapela privada">
+<!ENTITY synced_tabs "Lapelas sincronizadas">
+<!ENTITY close_all_tabs "Pechar todas as lapelas">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
