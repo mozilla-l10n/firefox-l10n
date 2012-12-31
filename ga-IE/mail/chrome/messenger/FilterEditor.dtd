@@ -16,13 +16,14 @@
 <!ENTITY highPriorityCmd.label "Ard">
 <!ENTITY highestPriorityCmd.label "Is Airde">
 
-<!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm agus:">
-<!ENTITY contextDesc.accesskey "f">
-<!ENTITY contextIncoming.label "ríomhphost á sheiceáil">
-<!ENTITY contextManual.label "scagaire á rith de láimh">
-<!ENTITY contextBoth.label "ríomhphost á sheiceáil nó an scagaire á rith de láimh">
-<!ENTITY contextPostPlugin.label "ríomhphost á sheiceáil (tar éis rangaithe)">
-<!ENTITY contextPostPluginBoth.label "ríomhphost á sheiceáil (tar éis rangaithe) nó rite le láimh">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
+<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "g">
 <!-- New Style Filter Rule Actions -->

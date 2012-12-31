@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label "Bánaigh">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label "Bainistigh Do Chuntas">
-<!ENTITY manageAccount.accesskey "C">
+<!ENTITY manageAccount.label "Bainistigh mo Chuntas">
+<!ENTITY manageAccount.accesskey "n">
 <!ENTITY viewQuota.label "Féach ar Chuóta">
 <!ENTITY changePassword2.label "Athraigh an Focal Faire…">
 <!ENTITY myRecoveryKey.label "M'Eochair Athshlánaithe">
