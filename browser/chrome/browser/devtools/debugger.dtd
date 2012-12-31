@@ -75,4 +75,4 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-<!ENTITY debuggerUI.seMenuCondBreak     "Tilføj konditionalt breakpoint">
+<!ENTITY debuggerUI.seMenuCondBreak     "Tilføj betinget breakpoint">
