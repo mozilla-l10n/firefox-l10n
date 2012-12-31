@@ -81,7 +81,6 @@
 <!ENTITY pref_plugins_tap_to_play "Pulse para activar">
 <!ENTITY pref_plugins_disabled "Desactivado">
 <!ENTITY pref_text_size "Tamaño do texto">
-<!ENTITY pref_reflow_on_zoom "Activar axuste automático ao cambiar o tamaño">
 <!ENTITY pref_font_size_tiny "Moi pequeno">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Medio">
@@ -190,13 +189,13 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Obteña aplicativos desde Mozilla Marketplace e descubra o mellor que lle pode ofrecer a Web&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Obteña aplicativos desde Firefox Marketplace e descubra o mellor que lle pode ofrecer a Web&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Escoller ficheiro">
 <!ENTITY filepicker_audio_title "Escoller ou gravar un son">
@@ -237,13 +236,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Marcadores e historial">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title "Actualización dispoñíbel para o &brandShortName;">
-<!ENTITY updater_start_select "Seleccione para descargar">
+<!ENTITY updater_start_title2 "Actualización dispoñíbel para o &brandShortName;">
+<!ENTITY updater_start_select2 "Seleccione para descargar">
 
-<!ENTITY updater_downloading_title "Descargando &brandShortName;">
-<!ENTITY updater_downloading_title_failed "Produciuse un fallo ao descargar">
-<!ENTITY updater_downloading_select "Seleccione para aplicar a actualización unha vez descargada.">
-<!ENTITY updater_downloading_retry "Seleccione para reintentar">
+<!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Produciuse un fallo ao descargar">
+<!ENTITY updater_downloading_select2 "Seleccione para aplicar a actualización unha vez descargada.">
+<!ENTITY updater_downloading_retry2 "Seleccione para reintentar">
 
-<!ENTITY updater_apply_title "Actualización dispoñíbel para o &brandShortName;">
-<!ENTITY updater_apply_select "Seleccione para actualizar">
+<!ENTITY updater_apply_title2 "Actualización dispoñíbel para o &brandShortName;">
+<!ENTITY updater_apply_select2 "Seleccione para actualizar">
