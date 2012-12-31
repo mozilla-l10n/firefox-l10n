@@ -139,6 +139,9 @@ size. -->
 <!ENTITY new_private_tab "Nova lapela privada">
 <!ENTITY synced_tabs "Lapelas sincronizadas">
 <!ENTITY close_all_tabs "Pechar todas as lapelas">
+<!ENTITY tabs_normal "Lapelas">
+<!ENTITY tabs_private "Privadas">
+<!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY wallpaper_success "Actualizouse o fondo">
 <!ENTITY wallpaper_progress "Configurar fondo">
 <!ENTITY wallpaper_fail "Foi imposíbel estabelecer o fondo">
