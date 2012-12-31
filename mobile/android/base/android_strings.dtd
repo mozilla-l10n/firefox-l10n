@@ -58,7 +58,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY close_tab "Dún Cluaisín">
 <!ENTITY new_tab "Cluaisín Nua">
 <!ENTITY one_tab "Cluaisín amháin">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d cluaisín">
 <!ENTITY new_tab_opened "Osclaíodh cluaisín nua">
@@ -73,7 +73,12 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_do_not_track "Inis do shuímh gan a bheith do mo lorg">
 <!ENTITY pref_telemetry "Seol sonraí feidhmíochta">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
-<!ENTITY pref_cookies "Cumasaigh fianáin">
+
+<!ENTITY pref_cookies_menu "Fianáin">
+<!ENTITY pref_cookies_accept_all "Cumasaithe">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Díchumasaithe">
+
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
 <!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
 <!ENTITY pref_char_encoding_off "Ná taispeáin an roghchlár">
@@ -83,13 +88,13 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_plugins_tap_to_play "Cnap le seinm">
 <!ENTITY pref_plugins_disabled "Díchumasaithe">
 <!ENTITY pref_text_size "Méid téacs">
-<!ENTITY pref_reflow_on_zoom "Enable Reflow-On-Zoom">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "An-bheag">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Measartha">
 <!ENTITY pref_font_size_large "Mór">
 <!ENTITY pref_font_size_xlarge "An-mhór">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "Socraigh">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -102,7 +107,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Léim an madra rua tapa thar do ríomhaire, agus thug sé luas, solúbthacht, agus slándáil duit. Mar eagraíocht neamhbhrabúis, táimid in ann rudaí nuálacha a chruthú ar do shon, gan aon bhrú seachtrach. Ciallaíonn sé sin go mbainfidh tú níos mó taitneamh as an nGréasán.">
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_show_product_announcements "Taispeáin fógraí faoi tháirgí nua">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
 <!ENTITY pref_import_android "Iompórtáil ó Android">
@@ -113,6 +118,11 @@ size. -->
 <!ENTITY pref_private_data_cache "Taisce">
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
 <!ENTITY pref_private_data_siteSettings "Sainroghanna suímh">
+
+<!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">
+<!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
+<!ENTITY pref_update_autodownload_disabled "Díchumasaithe">
+<!ENTITY pref_update_autodownload_enabled "Cumasaithe">
 
 <!ENTITY quit "Scoir">
 
@@ -128,6 +138,7 @@ size. -->
 <!ENTITY find_in_page "Aimsigh sa Leathanach">
 <!ENTITY desktop_mode "Iarr Suíomh don Ríomhaire">
 <!ENTITY tools "Uirlisí">
+<!ENTITY new_pb_tab "Cluaisín Nua: Brabhsáil Phríobháideach">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -137,7 +148,7 @@ size. -->
 <!ENTITY find_close "Dún">
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_in_reader "Oscail i Léitheoir">
 <!ENTITY contextmenu_remove_history "Bain">
 <!ENTITY contextmenu_remove_bookmark "Bain">
 <!ENTITY contextmenu_add_to_launcher "Cuir leis an Scáileán Baile">
@@ -158,14 +169,14 @@ size. -->
 
 <!ENTITY site_settings_title2 "Socruithe an tSuímh…">
 <!ENTITY site_settings_cancel "Cealaigh">
-<!ENTITY site_settings_clear "Clear">
+<!ENTITY site_settings_clear "Glan">
 <!ENTITY site_settings_no_settings "Níl aon socruithe le glanadh.">
 
 <!ENTITY reading_list "Liosta Léitheoireachta">
 <!ENTITY reading_list_added "Cuireadh le do liosta léitheoireachta é">
 <!ENTITY reading_list_removed "Baineadh ó do liosta léitheoireachta">
 <!ENTITY reading_list_failed "Níor cuireadh an leathanach le do liosta léitheoireachta">
-<!ENTITY reader "Reader">
+<!ENTITY reader "Léitheoir">
 
 <!ENTITY masterpassword_create_title "Cruthaigh Príomhfhocal Faire">
 <!ENTITY masterpassword_remove_title "Bánaigh an Príomhfhocal Faire">
@@ -177,15 +188,14 @@ size. -->
 <!ENTITY button_yes "Tá">
 <!ENTITY button_no "Níl">
 <!ENTITY button_clear_data "Glan na sonraí">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_set "Socraigh">
+<!ENTITY button_clear "Glan">
 
 <!ENTITY abouthome_addons_title "Breiseáin le haghaidh &brandShortName;">
 <!ENTITY abouthome_addons_browse "Brabhsáil gach breiseán &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Do chuid cluaisíní ón uair roimhe seo">
 <!ENTITY abouthome_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY abouthome_top_sites_title "Barrshuímh">
-<!ENTITY abouthome_top_sites_browse "Brabhsáil na suímh is ansa leat">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -235,20 +245,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      be kept in the string; this will be replaced with the name of the search
      engine. -->
 
-<!ENTITY suggestions_prompt "Would you like to turn on &#037;s search suggestions?">
+<!ENTITY suggestions_prompt "An bhfuil fonn ort moltaí cuardaigh a fháil ó &#037;s?">
 
 <!ENTITY webapp_generic_name "Feidhmchlár">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "Leabharmharcanna agus stair">
 <!-- Updater notifications -->
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_start_select2 "Touch to download">
- 
+
 <!ENTITY updater_downloading_title2 "&brandShortName; á íosluchtú">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_title_failed2 "Theip ar íosluchtú">
 <!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
 <!ENTITY updater_downloading_retry2 "Touch to retry">
- 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+
+<!ENTITY updater_apply_title2 "Nuashonrú ar fáil: &brandShortName;">
 <!ENTITY updater_apply_select2 "Touch to update">

@@ -15,7 +15,7 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Chun do ghléas nua a ghníomhachtú, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas.">
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
+<!ENTITY sync.subtitle.header2.label "Cuir an cód seo isteach i do ghléas eile">
 <!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Chun gníomhachtú, roghnaigh “Ceangail gléas” ar do ghléas eile.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Roghanna">
 <!ENTITY sync.summary.pair.label "Nasc gléas eile le do chuntas &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label "Sioncrónaigh do…">
+<!ENTITY sync.configure.engines.title.bookmarks "Leabharmharcanna">
+<!ENTITY sync.configure.engines.title.passwords "Focail Fhaire">
+<!ENTITY sync.configure.engines.title.history "Stair">
+<!ENTITY sync.configure.engines.title.tabs "Cluaisíní">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Cealaigh">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">
+<!ENTITY sync.notification.configure.saved "Sábháladh do chuid roghnúchán.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Ainm cuntais nó focal faire mícheart.">

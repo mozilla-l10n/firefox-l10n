@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Comhrá">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Teachtaireacht Mharcáilte">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Fillteán">
@@ -458,8 +458,8 @@
 <!ENTITY imStatus.unavailable "Níl ar fáil">
 <!ENTITY imStatus.offline "As Líne">
 <!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
-<!ENTITY joinChatCmd.label "Glac Páirt i gComhrá…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -851,7 +851,7 @@
 <!ENTITY saveImageAsCmd.label "Sábháil an Íomhá Mar…">
 <!ENTITY saveImageAsCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY copyImageAllCmd.label "Cóipeáil an Íomhá">
 <!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Cóipeáil an Seoladh Ríomhphoist">

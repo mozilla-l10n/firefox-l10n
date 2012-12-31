@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consól Gréasáin">
 
-<!ENTITY networkPanel.requestURL "URL an Iarratais">
-<!ENTITY networkPanel.requestMethod "Modh an Iarratais">
-<!ENTITY networkPanel.statusCode "Cód Stádais">
+<!ENTITY networkPanel.requestURLColon "URL an iarratais:">
+<!ENTITY networkPanel.requestMethodColon "Modh an iarratais:">
+<!ENTITY networkPanel.statusCodeColon "Cód Stádais:">
 
 <!ENTITY networkPanel.requestHeaders "Ceanntásca an Iarratais">
 <!ENTITY networkPanel.requestCookie "Fianán Seolta">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData "Sonraí Foirme Seolta">
 
 <!ENTITY networkPanel.responseHeaders "Ceanntásca an Fhreagra">
+<!ENTITY networkPanel.responseCookie "Fianán Faighte">
 <!ENTITY networkPanel.responseBody "Corp an Fhreagra">
 <!ENTITY networkPanel.responseBodyCached "Sonraí i dTaisce">
 <!ENTITY networkPanel.responseBodyUnknownType "Cineál Anaithnid Ábhair">
