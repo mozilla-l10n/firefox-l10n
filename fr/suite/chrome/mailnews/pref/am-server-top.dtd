@@ -11,7 +11,7 @@
 <!ENTITY serverName.label "Nom du serveur :">
 <!ENTITY serverName.accesskey "N">
 <!ENTITY userName.label "Nom d'utilisateur :">
-<!ENTITY userName.accesskey "o">
+<!ENTITY userName.accesskey "m">
 <!ENTITY port.label "Port :">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Défaut :">

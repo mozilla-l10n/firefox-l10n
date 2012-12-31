@@ -30,7 +30,7 @@
 <!ENTITY newOtherAccountsCmd.label "Autres comptes…">
 <!ENTITY newOtherAccountsCmd.accesskey "m">
 <!ENTITY newCreateEmailAccountCmd.label "Obtenir un nouveau compte courrier…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "O">
+<!ENTITY newCreateEmailAccountCmd.accesskey "b">
 <!ENTITY newExistingEmailAccountCmd.label "Compte courrier existant…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Compte de messagerie instantanée…">
@@ -61,7 +61,7 @@
 <!ENTITY subscribeCmd.label "S'abonner…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Supprimer le dossier">
-<!ENTITY deleteFolder.accesskey "S">
+<!ENTITY deleteFolder.accesskey "d">
 <!ENTITY renameFolder.label "Renommer le dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2"> 
@@ -227,7 +227,7 @@
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "En-têtes">
-<!ENTITY headersMenu.accesskey "n">
+<!ENTITY headersMenu.accesskey "t">
 <!ENTITY headersAllCmd.label "Complets">
 <!ENTITY headersAllCmd.accesskey "C">
 <!ENTITY headersNormalCmd.label "Normaux">
@@ -311,7 +311,7 @@
 <!ENTITY goBackCmd.accesskey "c">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.accesskey "h">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Message suivi">
 <!ENTITY prevStarredMsgCmd.accesskey "v">
@@ -353,7 +353,7 @@
 <!ENTITY forwardMsgCmd.accesskey "f">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Transférer au format">
-<!ENTITY forwardAsMenu.accesskey "n">
+<!ENTITY forwardAsMenu.accesskey "s">
 <!ENTITY forwardAsInline.label "Intégré">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Pièce jointe">
@@ -430,7 +430,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Ouvrir dans la discussion">
-<!ENTITY openConversationCmd.accesskey "O">
+<!ENTITY openConversationCmd.accesskey "u">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Ouvrir le message du flux">
 <!ENTITY openFeedMessage.accesskey "O">
@@ -457,7 +457,7 @@
 <!ENTITY activitymanager.label "Activités">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "État de messagerie instantanée">
-<!ENTITY imAccountsStatus.accesskey "m">
+<!ENTITY imAccountsStatus.accesskey "d">
 <!ENTITY imStatus.available          "Disponible">
 <!ENTITY imStatus.unavailable        "Occupé">
 <!ENTITY imStatus.offline            "Déconnecté">
@@ -693,7 +693,7 @@
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextReplyList.label "Répondre à la liste">
-<!ENTITY contextReplyList.accesskey "o">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "f">
 <!ENTITY contextForwardAsAttachment.label "Transférer en tant que pièce jointe">
