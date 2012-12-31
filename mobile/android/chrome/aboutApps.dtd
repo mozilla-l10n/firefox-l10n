@@ -9,5 +9,5 @@
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 <!ENTITY aboutApps.noApps.pre "Ningún aplicativo web instalado. Obter algún desde a ">
-<!ENTITY aboutApps.noApps.middle2 "tenda de aplicativos en liña (Mozilla Marketplace)">
+<!ENTITY aboutApps.noApps.middle3 "tenda de aplicativos en liña (Firefox Marketplace)">
 <!ENTITY aboutApps.noApps.post ".">
