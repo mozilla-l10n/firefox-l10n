@@ -23,7 +23,7 @@
     (saisie de <strong>ww</strong>.exemple.com au lieu de
     <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    données ou WiFi de votre appareil&#x00A0;;</li>
+    données ou Wi-Fi de votre appareil&#x00A0;;</li>
 </ul>
 ">
 
@@ -104,7 +104,7 @@
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
-  <li>Vérifiez que la connexion données ou WiFi de votre appareil fonctionne.</li>
+  <li>Vérifiez que la connexion données ou Wi-Fi de votre appareil fonctionne.</li>
 </ul>
 ">
 
@@ -145,10 +145,10 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 
 <!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
+  <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
     tard&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    données ou WiFi de votre appareil.</li>
+    données ou Wi-Fi de votre appareil.</li>
 </ul>
 ">
 
