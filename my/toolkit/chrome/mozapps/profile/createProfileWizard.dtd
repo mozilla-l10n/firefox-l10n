@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newprofile.title             "Create Profile Wizard">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; stores information about your settings and preferences in your personal profile.">
+<!ENTITY profileCreationExplanation_2.text  "If you are sharing this copy of &brandShortName; with other users, you can use profiles to keep each user's information separate. To do this, each user should create his or her own profile.">
+<!ENTITY profileCreationExplanation_3.text  "If you are the only person using this copy of &brandShortName;, you must have at least one profile. If you would like, you can create multiple profiles for yourself to store different sets of settings and preferences. For example, you may want to have separate profiles for business and personal use.">
+<!ENTITY profileCreationExplanation_4.text  "သင့်၏ profile ကို စတင်တည်ဆောက်ရန် Next ကိုနှိပ်ပါ">
+<!ENTITY profileCreationExplanation_4Mac.text  "သင့်၏ profile ကို စတင်တည်ဆောက်ရန် Continue ကိုနှိပ်ပါ">
+<!ENTITY profileCreationExplanation_4Gnome.text  "သင့်၏ profile ကို စတင်တည်ဆောက်ရန် Next ကိုနှိပ်ပါ">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text      "If you create several profiles you can tell them apart by the profile names. You may use the name provided here or use one of your own.">
+<!ENTITY profilePrompt.label            "ပရိုဖိုင်နာမည် အသစ်တစ်ခုရိုက်ထည့်ပါ">
+<!ENTITY profilePrompt.accesskey        "E">
+<!ENTITY profileDirectoryExplanation.text   "သင်၏ အသုံးပြုသူ settings, preferences နှင့် အခြားသော အသုံးပြုနှင့် သက်ဆိုင်ရာ အချက်အလက်များကို သိမ်းဆည်းထားပါသည်။">
+<!ENTITY profileDefaultName             "အမြဲအသုံးပြုသောသူ">
+<!ENTITY button.choosefolder.label      "ဖိုင်တွဲရွေးပါ">
+<!ENTITY button.choosefolder.accesskey  "ဖ">
+<!ENTITY button.usedefault.label        "ပုံသေ ဖိုဒါ အဖြစ်  အသုံးပြုပါ">
+<!ENTITY button.usedefault.accesskey    "U">

@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "ခြေရာခံခြင်း">
+
+<!ENTITY doNotTrack.label               "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!ENTITY  history.label                 "မှတ်တမ်း">
+
+<!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
+
+<!ENTITY  locbar.pre.label              "တည်နေရာ အတန်းကို သုံးစွဲတဲ့အခါ၊ အ​ကြံပြုတာက၊">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "English">
+<!ENTITY  locbar.both.label             "သက်၀င် မှတ်သားချက်များ">
+<!ENTITY  locbar.history.label          "မှတ်တမ်း">
+<!ENTITY  locbar.bookmarks.label        "မှတ်သားချက်များ">
+<!ENTITY  locbar.nothing.label          "ဘာမှ မရှိ">
+
+<!ENTITY  acceptCookies.label           "ကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "အခြား ကွတ်ကီးများကို လက်ခံပါ">
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
+<!ENTITY  keepUntil.label               "သိမ်းဆည်းထားမဲ့ အချိန်၊">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "သူတို့ သက်တမ်းပြီ">
+<!ENTITY  close.label                   "&brandShortName; ကို ပိတ်လိုက်တယ်">
+<!ENTITY  askEachTime.label             "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
+
+<!ENTITY  cookieExceptions.label        "ခြွင်းချက်များ...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "ကွတ်ကီးများကို ​ပြသပါ...">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; က လုပ်ပေးမှာက">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "မှတ်တမ်းကို မှတ်ထားပါ">
+<!ENTITY  historyHeader.dontremember.label "မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားနဲ့">
+<!ENTITY  historyHeader.custom.label       "မှတ်တမ်းအတွက် စိတ်ကြိုက် ဖန်တီးချက် အပြင်အဆင်များကို သုံးစွဲပါ">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; သည်သင်၏ရှာဖွေမှူများကိုမှတ်သားထားပေးမည်ဖြစ်သည်။">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "သင်အလိုရှိနိုင်တာက">
+<!ENTITY  rememberActions.clearHistory.label  "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
+<!ENTITY  rememberActions.middle.label        "၊ (သို့)">
+<!ENTITY  rememberActions.removeCookies.label "သီးခြား ကွတ်ကီးများကို ဖယ်ရှားပါ">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "သင်လည်း အလိုရှိနိုင်တာက">
+<!ENTITY  dontrememberActions.clearHistory.label "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent2.label "အမြဲသီးသန့်ရှာဖွေခြင်းဖြင့်သုံးမည်။">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "ကွျန်ေတာ် ကြည့်ရှုသမျှနှင့် ရယူသမျှ ရာဇဝင်ကို မှတ်ထားပါ">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "ဒီကွန်ရက်များအတွက် စကားဝှက်များကို မှတ်ထားပါ">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "&brandShortName; က သင့်ကို ကာကွယ်တဲ့ ပုံစံ">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "အပြင်အဆင်များ...">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

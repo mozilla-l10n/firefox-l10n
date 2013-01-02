@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
+
+<!ENTITY tabs.otherDevices.label               "အခြားပစ္စည်းများမှ Tab များ ">
+
+<!ENTITY tabs.searchText.label                   "ဖွင့်လက်စစာမျက်နှာများကိုဤ နေရာတွင်ရိုက်ပြီးရှာပါ">
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+
+<!ENTITY tabs.context.openTab.label                   "ဤစာမျက်နှာအားဖွင့်ပါ။">
+<!ENTITY tabs.context.openTab.accesskey               "ဤ">
+<!ENTITY tabs.context.openMultipleTabs.label          "ရွေးချယ်ထားသော စာမျက်နှာများအားဖွင့်မည်။">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "ရ">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "ဤစာမျက်နာလိပ်စာအားမှတ်သိမ်းထားမည်။">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "ဤ">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "ရွေးချယ်ထားသော စာမျက်နှာများအားမှတ်သိမ်းထားမည်။">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "ရ">
+<!ENTITY tabs.context.refreshList.label               "စာရင်းအား ပြန်လည်သစ်ဆန်းမည်။">
+<!ENTITY tabs.context.refreshList.accesskey           "စ">

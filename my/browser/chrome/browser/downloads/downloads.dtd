@@ -1,0 +1,74 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+
+<!ENTITY downloads.title                  "Downloads">
+<!-- LOCALIZATION NOTE (downloadDetails.width):
+     Width of details for a Downloads Panel item (which directly influences the
+     width of the Downloads Panel) expressed using a CSS unit. The longest
+     labels that should fit in the item width are usually those of in-progress
+     downloads and those of blocked downloads.
+
+     A good rule of thumb is to try to determine the longest string possible
+     that an in-progress download could display, and use that value in ch
+     units.
+
+     For example, in English, a long string would be:
+
+     59 minutes, 59 seconds remaining - 1022 of 1023 KB
+
+     That's 50 characters, so we set the width at 50ch.
+     -->
+
+<!ENTITY downloadDetails.width            "50ch">
+<!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
+     Minimum width for the main description of the downloads summary,
+     which is displayed at the bottom of the Downloads Panel if the
+     number of downloads exceeds the limit that the panel can display.
+
+     A good rule of thumb here is to look at the otherDownloads string
+     in downloads.properties, and make a reasonable estimate of its
+     maximum length. For English, this seems like a reasonable limit:
+
+     +999 other current downloads
+
+     that's 28 characters, so we set the minimum width to 28ch.
+     -->
+
+<!ENTITY downloadsSummary.minWidth        "28ch">
+
+<!ENTITY cmd.pause.label                  "ခေတ္တရပ်တန့်တယ်">
+<!ENTITY cmd.pause.accesskey              "ခ">
+<!ENTITY cmd.resume.label                 "ပြန်စပါ">
+<!ENTITY cmd.resume.accesskey             "ပ">
+<!ENTITY cmd.cancel.label                 "ပယ်ဖျက်ပါ">
+<!ENTITY cmd.cancel.accesskey             "ပ">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "ဖိုင်တွဲ ပါရှိတဲ့အရာကို ဖွင့်ပါ">
+<!ENTITY cmd.show.accesskey               "ဖ">
+<!ENTITY cmd.showMac.label                "Show In Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "ထပ်ကြိုးစားပါ">
+<!ENTITY cmd.goToDownloadPage.label       "ကူးဆွဲစာမျက်နှာ ကိုသွားပါ">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "ဆွဲချတဲ့ အချိတ်အဆက်ကို ကူးယူးပါ">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ဆ">
+<!ENTITY cmd.removeFromList.label         "စာရင်းထဲမှ ဖယ်ရှားပါ">
+<!ENTITY cmd.removeFromList.accesskey     "စ">
+<!ENTITY cmd.clearList.label              "စာရင်းကို ရှင်းလင်းပါ">
+<!ENTITY cmd.clearList.accesskey          "စ">
+<!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
+     This string is shown at the bottom of the Downloads Panel when all the
+     downloads fit in the available space, or when there are no downloads in
+     the panel at all.
+     -->
+
+<!ENTITY downloadsHistory.label           "Show All Downloads">
+<!ENTITY downloadsHistory.accesskey       "S">

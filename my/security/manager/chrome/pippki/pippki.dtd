@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title  "ပင်ရင်း စကားဝှက်ကို ပြောင်းလဲပါ">
+<!ENTITY setPassword.tokenName.label "လုံခြုံရေး ကိရိယာ">
+<!ENTITY setPassword.oldPassword.label "လက်ရှိ စကားဝှက် -">
+<!ENTITY setPassword.newPassword.label "စကားဝှက် အသစ် -">
+<!ENTITY setPassword.reenterPassword.label "စကားဝှက် အသစ် (ပြန်ရေးပါ) -">
+<!ENTITY setPassword.meter.label "စကားဝှက် အရည်အသွေးပြ မီတာ">
+<!ENTITY setPassword.meter.loading "ဖွင့်နေတယ်">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "ပြန်ချိန်တယ်">
+<!ENTITY resetPassword.title  "ပင်မ စကားဝှက်ကို ပြန်ချိန်ပါ">
+<!ENTITY resetPassword.text  "သင့်ရဲ့ ပင်မ စကားဝှက်ကို သင်ပြန်ချိန်ထားရင်၊ သင့်ရဲ့ ကွန်ရက်နဲ့ အီးမေးလ် စကားဝှက်များ၊ ဖြည့်စွတ် ပုံစံ၊ တကိုယ်ရေ လက်မှတ်များနဲ့၊ သီးသန့် သော့ချက်များ အားလုံးကို မေ့ပျောက်ခံရလိမ့်မယ်။ သင့်ရဲ့ ပင်မ စကားဝှက်ကို ပြန်ချိန်ဖို့ သေချာသလား။">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title  "ပင်မ စကားဝှက်ကို ရေးထည့်ပါ">
+<!ENTITY getPassword.tokenName2.label "လုံခြုံရေး ကိရိယာ -">
+<!ENTITY getPassword.password.label "စကားဝှက် -">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "အမှား">
+<!ENTITY pipalert.title "အမှား - ပြန်ဖေါ်လို့ မရဘူး">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "လုံခြုံရေး">
+<!ENTITY pref.security.general.rHeader "အထွေထွေ လုံ​ခြုံရေးအတွက် အပြင်အဆင်များ">
+<!ENTITY pref.security.general.header "အထွေထွေ လုံ​ခြုံရေးအတွက် အပြင်အဆင်များ">
+<!ENTITY pref.security.general.level.title "လုံ​ခြုံရေး အဆင့်">
+<!ENTITY pref.security.general.paranoid.label "ပါရာနှတ် လုံခြုံရေး အပြင်အဆင်များကို သုံးစွဲပါ">
+<!ENTITY pref.security.general.certificates.title "အသိအမှတ်ပြုလက်မှတ်များ">
+<!ENTITY pref.security.general.manageCert.label "လက်မှတ်များကို စီမံပါ">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "လက်မှတ် ဆွဲချနေတယ်">
+<!ENTITY downloadCert.message1 "လက်မှတ် အာဏာပိုင် (CA) သစ်တခုကို စိတ်ချဖို့ သင့်ကို တောင်းဆိုခဲ့တယ်။">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
+<!ENTITY downloadCert.trustEmail "အီးမေးလ် သုံးစွဲသူများကို ဖေါ်ထုတ်ဖို့ ဒီ CA ကို စိတ်ချပါ။">
+<!ENTITY downloadCert.trustObjSign "ဆော့ဗ်ဝဲ တည်ဆောက်သူများကို ဖေါ်ထုတ်ဖို့ ဒီ CA ကို စိတ်ချပါ။">
+<!ENTITY downloadCert.message3 "(ဖြစ်နိုင်ရင်) CA ကို ရည်ရွယ်ချက် တစုံတခုအတွက် စိတ်မချခင်၊ ၄င်းရဲ့ လက်မှတ်များနဲ့ ၄င်းရဲ့ မူဝါဒနဲ့ လုပ်ငန်းစဉ်များကို သင် စစ်ဆေးရမယ်။">
+<!ENTITY downloadCert.viewCert.label "ရှုမြင်ချက်">
+<!ENTITY downloadCert.viewPolicy.label "မူဝါဒ">
+<!ENTITY downloadCert.viewCert.text "CA လက်မှတ်ကို စစ်ဆေးပါ">
+<!ENTITY downloadCert.viewPolicy.text "CA မူဝါဒများနဲ့ လုပ်ငန်းစဉ်များကို စစ်ဆေးပါ">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "လက်မှတ် ရှိနေတယ်">
+<!ENTITY caCertExists.message "လက်မှတ် ရှိနေပြီ">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "သုံးစွဲသူ ခွဲခြား ရွေးထုတ်မှု တောင်းဆိုချက်">
+<!ENTITY clientAuthAsk.message1 "ဒီကွန်ရက်က သင့်ကိုသင် လက်မှတ်တခုနဲ့ အထောက်အထားပြဖို့ တောင်းဆိုနေတယ် -">
+<!ENTITY clientAuthAsk.message2 "ခွဲခြား ရွေးထုတ်ချက် အနေနဲ့ တင်ပြဖို့ လက်မှတ်တခုကို ရွေးချယ်ပါ -">
+<!ENTITY clientAuthAsk.message3 "ရွေးချယ်ထားတဲ့ လက်မှတ် အသေးစိတ်များ">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "လက်မှတ်ကို ရွေးချယ်ပါ">
+<!ENTITY certPicker.info  "လက်မှတ် -">
+<!ENTITY certPicker.detailsLabel "ရွေးချယ်ထားတဲ့ လက်မှတ် အသေးစိတ်များ">
+
+<!ENTITY pkcs12.setpassword.title  "လက်မှတ် သိမ်းဆည်းထားတဲ့ စကားဝှက်တခုကို ရွေးချယ်ပါ">
+<!ENTITY pkcs12.setpassword.message  "ဒီမှာ သင် ချမှတ်ထားတဲ့ လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက်က သင် ဖန်တီးမဲ့ သိမ်းဆည်း ဖိုင်များကို ကာကွယ်ပေးတယ်။ ဒီသိမ်းဆည်းချက်ကို ဆက်လုပ်ဖို့ ဒီစကားဝှက်ကို ချမှတ်ရမယ်။">
+<!ENTITY pkcs12.setpassword.label1 "လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် -">
+<!ENTITY pkcs12.setpassword.label2 "လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် (ပြန်ရေးပါ) -">
+<!ENTITY pkcs12.setpassword.reminder "အရေးကြီးချက် - သင့်ရဲံ လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက်ကို မေ့နေရင်၊ ဒီသိမ်းဆည်းချက်ကို နောက်တခါ သင် ပြန်ထားလို့ မရနိုင်ဘူး။">
+
+<!ENTITY pkcs12.getpassword.title  "စကားဝှက် ရေးထည့် အညွှန်း">
+<!ENTITY pkcs12.getpassword.message "ဒီလက်မှတ် သိမ်းဆည်းချက်ကို စာဝှက်ဖို့ သုံးစွဲတဲ့ စကားဝှက်ကို ရေးထည့်ပါ။">
+
+<!ENTITY chooseToken.title  "အမှတ်အသား အညွှန်းကို ရွေးချယ်ပါ">
+<!ENTITY chooseToken.message1 "အမှတ်အသား တခုကို ရွေးချယ်ပါ။">
+
+<!ENTITY escrowWarn.title "စာဝှက် စနစ် သော့ချက် မိတ္တူ">
+<!ENTITY escrowWarn.message1 "အရေးကြီးချက် - ဒီလက်မှတ် အာဏာပိုင်ကို သင့်ရဲ့ စာဝှက်စနစ် သီးသန့် သော့ချက် သိမ်းဆည်းမှု တခုကို ပြုလုပ်ဖို့ တောင်းဆိုထားတယ်။">
+<!ENTITY escrowWarn.benefit1 "အကျိုးကျေးဇူး ကတော့ အကယ်၍ သင့်ရဲ့ စာဝှက်စနစ် သီးသန့်သော့ချက် ၀င်ရောက်မှုကို သင် ဆုံးရှုံးသွားရင် ဒီလက်မှတ် အာဏာပိုင်ထံမှာ မိတ္တူတခုကို သင်တောင်းဆိုနိုင်တယ်။">
+<!ENTITY escrowWarn.message2 "ဒါပေမဲ့၊ သင့်ရဲ့ စာဝှက်စနစ် သီးသန့် သော့ချက်ကို လက်မှတ် အာဏာပိုင်နဲ့ သိုထားမှာ ဖြစ်ပြီး၊ သင့်ရဲ့ စာဝှက်ထားတဲ့ အီးမေးလ် (သို့) စာတမ်းများကို သင့်ရဲ့ ခွင့်ပြုချက် မပါပဲ ဖတ်ရှုနိုင်တယ်။">
+<!ENTITY examineCert.label "လက်မှတ်ကို ရှုမြင်ပါ">
+<!ENTITY examineCert.accesskey "V">
+
+<!ENTITY serverCrlNextupdate.message "အကူအညီအတွင် သင့်ရဲ့ စက် စီမံခန့်ခွဲသူကို မေးမြန်းပါ">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "သီးသန့် သော့ချက်တခုကို ဖန်တီးပါ">
+<!ENTITY createCertInfo.msg1 "သော့ချက် ဖန်တီးခြင်း တိုးတက်မှု... ဒီအရာက မိနစ်အနီးငယ် ကြာနိုင်တယ်...">
+<!ENTITY createCertInfo.msg2 "စောင့်နေပါ...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "စာသား သတ်မှတ်ခြင်း တောင်းဆိုမှု">
+<!ENTITY formSigning.cert "လက်မှတ် ရေးထိုးခြင်း">
+<!ENTITY formSigning.confirmPassword "သင့်ရဲ့ ရွေးချယ်ထားတဲ့ လက်မှတ်ကို အသုံးပြုပြီး ဒီစာသား သတင်းစကား လက်မှတ်ထိုးမှုအတွက် သင့်ရဲ့ သဘောတူမှု အတည်ပြုဖို့၊ သင့်ရဲ့ ပင်မ စကားဝှက်ကို ရေးထည့်ခြင်းဖြင့် အတည်ပြုပါ -">
+<!-- Strings for protectedAuth dialog -->
+
+<!ENTITY protectedAuth.title "ကာကွယ်ထားတဲ့ အမှတ်အသား အတည်ပြုမှု">
+<!ENTITY protectedAuth.msg "အမှတ်အသားကို အတည်ပြုပါ။ အတည်ပြုမှု နည်းလမ်းဟာ သင့်ရဲ့ အမှတ်အသား အမျိုးအစားပေါ်မှာ မူတည်တယ်။">
+<!ENTITY protectedAuth.tokenName.label "အမှတ်အသား -">
+
+<!ENTITY certErrorDlg.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
+<!ENTITY certErrorDlg.info1 "ဒါဟာ ဆာဗာရဲ့ အပြင်အဆင်နဲ့ ဆိုင်တဲ့ ပြဿနာတခုကြောင့် ဖြစ်နိုင်တယ် (သို့) တစုံတယောက်က ဆာ​ဗာကို ထိုး​ဖေါက်ဖို့ ကြိုးစားနေတာ ဖြစ်နိုင်တယ်။">
+<!ENTITY certErrorDlg.info2 "ဒီဆာဗာကို အရင်က အောင်အောင်မြင်မြင် ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တခဏဖြစ်နိုင်ပြီး နောက်တခါ သင်ကြိုးစားနိုင်တယ်။">

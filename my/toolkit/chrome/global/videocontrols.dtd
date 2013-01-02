@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "ဖွင့်ပါ။">
+<!ENTITY playButton.pauseLabel "ခေတ္တရပ်တန့်တယ်">
+<!ENTITY muteButton.muteLabel "အသံပိတ်ထားပါ">
+<!ENTITY muteButton.unmuteLabel "အသံ ပြန်ဖွင့်ပါ">
+<!ENTITY fullscreenButton.enterfullscreenlabel "မျက်နှာပြင်အပြည့်">
+<!ENTITY fullscreenButton.exitfullscreenlabel "ဖန်သားပြင်အပြည့်မှ ထွက်ပါ">
+
+<!ENTITY stats.media "မီဒီယာ">
+<!ENTITY stats.size "အရွယ်အ​စား">
+<!ENTITY stats.activity "Activity">
+<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.activityPlaying "Playing">
+<!ENTITY stats.activityEnded "Ended">
+<!ENTITY stats.activitySeeking "(ရှာဖွေနေပါသည်)">
+<!ENTITY stats.volume "ပမဏ(ထု)">
+<!ENTITY stats.channels "ထုတ်လွှတ်လိုင်းခွဲများ">
+<!ENTITY stats.sampleRate "နမူနာနှူန်း">
+<!ENTITY stats.framesParsed "Frames parsed">
+<!ENTITY stats.framesDecoded "Frames decoded">
+<!ENTITY stats.framesPresented "Frames presented">
+<!ENTITY stats.framesPainted "Frames painted">
+
+<!ENTITY error.aborted "ဗီဒီယို ဆွဲတင်ခြင်း ရပ်သွားပါတယ်။">
+<!ENTITY error.network "ကွန်ရက်အမှား တစ်ခုကြောင့် ဗီဒီယို ပြန်ဖွင့်ခြင်း ရပ်တန့်သွားပါတယ်။">
+<!ENTITY error.decode "ဖိုင်ပျက်နေပါသောကြောင့် ဗီဒီယိုဖွင့်၍ မရနိုင်ပါ။">
+<!ENTITY error.srcNotSupported "ဗီဒီယို ဖောမက် သို့ MIME အမျိုးအစားကို အထောက်အပံ့ မပေးပါ။">
+<!ENTITY error.noSource2 "အထောက်အပံ့ပေးသော ဗီဒီယိုဖောမက်နဲ့ MIME အမျိုးအစားကို မတွေ့ပါ။">
+<!ENTITY error.generic "အမျိုးအမည်မသိသော အမှားတစ်ခုကြောင့် ဗီဒီယို ပြန်ဖွင့်ခြင်း ရပ်တန့်သွားပါတယ်။">
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+
+<!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">

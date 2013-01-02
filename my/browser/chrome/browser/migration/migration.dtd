@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "ဝတ်ဇတ်ကိုတင်သွင်းပါ။">
+
+<!ENTITY importFrom.label               "ရွေးစရာများ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊ ">
+<!ENTITY importFromUnix.label           " အချက်များ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊ ">
+<!ENTITY importFromBookmarks.label      "မှတ်သားချက်များ တင်သွင်းမဲ့ နေရာ၊">
+
+<!ENTITY importFromIE.label             "မိုက်ခရိုဆော့ဖ် အင်တာနက် စူးစမ်းရေးယန္တရား">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "တစုံတခုကို မတင်သွင်းပါနဲ့">
+<!ENTITY importFromNothing.accesskey    "မ">
+<!ENTITY importFromSafari.label         "ဆာဖာရီ">
+<!ENTITY importFromSafari.accesskey     "ဆ">
+<!ENTITY importFromChrome.label         "ခရုမ်း">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "မီးမြေခွေး">
+<!ENTITY importFromFirefox.accesskey    "မ">
+
+<!ENTITY noMigrationSources.label       "မှတ်သားချက်များ၊ မှတ်တမ်း (သို့) စကားဝှက် အချက်အလက်ကြမ်း ပါ၀င်တဲ့ ဘယ် ပရိုဂရမ်များမှ မတွေ့ရဘူး။">
+
+<!ENTITY importSource.title             "အပြင်အဆင်များနဲ့ အချက်အလက်ကြမ်း တင်သွင်းပါ">
+<!ENTITY importItems.title              "တင်သွင်းရန် အချက်‌များ">
+<!ENTITY importItems.label              "တင်သွင်းရန် ဘယ်အချက်များကို ရွေးမလဲ၊">
+
+<!ENTITY migrating.title                "တင်သွင်းပါ...">
+<!ENTITY migrating.label                "အောက်ပါ အချက်များကို လောလောဆယ် တင်သွင်းနေတယ်...">
+
+<!ENTITY selectProfile.title            "ရွေးပိုင်သုံးစွဲမှု ရွေးချယ်ပါ">
+<!ENTITY selectProfile.label            "အောက်ပါ ကိုယ်ရေးမှတ်တမ်းများကို တင်သွင်းလို့ ရနိုင်တဲ့နေရာ၊">
+
+<!ENTITY done.title                     "တင်သွင်းချက် ပြီးသွားပြီ">
+<!ENTITY done.label                     "အောက်ပါ အချက်‌များကို အောင်မြင်စွာ တင်သွင်းခဲ့ပြီ၊">
+

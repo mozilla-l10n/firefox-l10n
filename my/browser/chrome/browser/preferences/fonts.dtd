@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsDialog.title                       "ဖောင့်များ">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "ဖောင့်များ သုံးစွဲမဲ့အရာ၊">
+<!ENTITY  language.accesskey                      "F">
+
+<!ENTITY  size.label                              "အရွယ်အစား၊">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "အချိုးကျသော၊">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "အစွန်းပါတဲ့ ဖောင့်၊">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "အစွန်းမပါတဲ့ ဖောင့်၊">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "နေရာလပ် စာလုံး၊">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "အနောက်တိုင်း စာလုံး">
+<!ENTITY  font.langGroup.latin2                   "ဥရောပ အလယ်‌ပိုင်း စာလုံး">
+<!ENTITY  font.langGroup.japanese                 "ဂျပန်">
+<!ENTITY  font.langGroup.trad-chinese             "တရုတ်ရိုးရာ (ထိုင်ဝမ်) စာလုံး">
+<!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတဲ့ တရုတ်">
+<!ENTITY  font.langGroup.trad-chinese-hk          "တရုတ်ရိုးရာ (ဟောင်ကောင်) စာလုံး">
+<!ENTITY  font.langGroup.korean                   "ကိုးရီးယား">
+<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရိလ်လစ် စာလုံး">
+<!ENTITY  font.langGroup.baltic                   "ဘောလ်တစ် စာလုံး">
+<!ENTITY  font.langGroup.el                       "ဂရိ">
+<!ENTITY  font.langGroup.turkish                  "တာရ်ကူရှ်">
+<!ENTITY  font.langGroup.unicode                  "အခြား ဘာသာ စကားများ">
+<!ENTITY  font.langGroup.user-def                 "သုံးစွဲသူ အဓိပ္ပာယ် ဖော်သည်">
+<!ENTITY  font.langGroup.thai                     "ထိုင်း">
+<!ENTITY  font.langGroup.hebrew                   "ဟေဗြဲ">
+<!ENTITY  font.langGroup.arabic                   "အာရေဗိ">
+<!ENTITY  font.langGroup.devanagari               "ဒေဗာနာဂါရီ စာလုံး">
+<!ENTITY  font.langGroup.tamil                    "တမီးလ်">
+<!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်း">
+<!ENTITY  font.langGroup.bengali                  "ဘန်ဂါလီ">
+<!ENTITY  font.langGroup.canadian                 "ကနေဒါ သင်ရိုး ပေါင်းစည်း စာလုံး">
+<!ENTITY  font.langGroup.ethiopic                 "အီသီယိုပီးယား စာလုံး">
+<!ENTITY  font.langGroup.georgian                 "ဂျော်ဂျီယန်">
+<!ENTITY  font.langGroup.gujarati                 "ဂူဂျာရာတီ">
+<!ENTITY  font.langGroup.gurmukhi                 "ကူရ်မူကီ စာလုံး">
+<!ENTITY  font.langGroup.khmer                    "ခမာ">
+<!ENTITY  font.langGroup.malayalam                "မလေးရာလမ်">
+<!ENTITY  font.langGroup.oriya                    "အိုရီယား">
+<!ENTITY  font.langGroup.telugu                   "တယ်လကူ">
+<!ENTITY  font.langGroup.kannada                  "ကန်နာဒါ">
+<!ENTITY  font.langGroup.sinhala                  "ရှင်ဟာလာ စာလုံး">
+<!ENTITY  font.langGroup.tibetan                  "တီဘက်တန်">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "အသေးဆုံး စာလုံးအရွယ်၊">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "ဘာမျှမရှိ">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "အစွန်းပါ စာလုံး">
+<!ENTITY  useDefaultFontSansSerif.label           "အစွန်းမဲ့ စာလုံး">
+
+<!ENTITY  allowPagesToUse.label                   "အထက်ပါ ကျွန်ပ် ရွေးချယ်ချက်များ အစား၊ သူတို့ ကိုယ်ပိုင် ဖောင့်များ ရွေးထားဖို့ စာမျက်နှာများကို ခွင့်​ပြုပါ">
+<!ENTITY  allowPagesToUse.accesskey               "A">
+
+<!ENTITY languages.customize.Charset.grouplabel         "အက္ခရာ စာဝှက်ရေးသားခြင်း">
+<!ENTITY languages.customize.DefaultCharset.label       "စံထား အက္ခရာ စာဝှက် ရေးသားချက်၊">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">

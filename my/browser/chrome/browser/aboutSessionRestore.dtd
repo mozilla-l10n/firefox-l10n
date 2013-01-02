@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "အပိုင်းကဏ္ဍ ပြန်ထားပါ">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "ဟုတ်ပြီ၊ ဒါဟာ ကတိကအောက်နိုင်တဲ့ အရာပဲ။">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ဟာ သင့်ရဲ့ ၀င်းဒိုးနဲ့ စာအမှတ်များကို ပြန်ဖေါ်ဖို့ အခက်အခဲ ရှိနေတယ်။ ဒါဟာ လတ်တလော ဖွင့်နေတဲ့ ကွန်ရက် စာမျက်နှာ တခုကြောင့် ဖြစ်တယ်။">
+<!ENTITY restorepage.tryThis        "သင် စမ်းကြည့်နိုင်တယ် - ">
+<!ENTITY restorepage.restoreSome    "သင်ဖယ်ရှားဖို့ လုပ်နေတဲ့ စာအမှတ် တခု (သို့) အများ​ကြောင့် ပြဿနာ ဖြစ်နေနိုင်တယ်။">
+<!ENTITY restorepage.startNew       "လှော်လှန်ရေး အခန်းသစ် တခုလုံး စတင်နေတယ်">
+
+<!ENTITY restorepage.tryagainButton "ပြန်​ပေးအပ်ပါ">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "ပိတ်ပါ">
+<!ENTITY restorepage.close.access   "C">
+
+<!ENTITY restorepage.restoreHeader  "ပြန်​ပေးအပ်ပါ">
+<!ENTITY restorepage.listHeader     "၀င်းဒိုးနဲ့ စာအမှတ်များ">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "၀င်းဒိုး &#37;S">

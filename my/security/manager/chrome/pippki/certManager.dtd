@@ -1,0 +1,114 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY certmgr.title                       "လက်မှတ် စီမံခန့်ခွဲသူ">
+
+<!ENTITY certmgr.tab.mine                     "သင့်ရဲ့ လက်မှတ်များ">
+<!ENTITY certmgr.tab.others2                  "လူထု">
+<!ENTITY certmgr.tab.websites3                "ဆာဗာများ">
+<!ENTITY certmgr.tab.ca                       "အာဏာပိုင်များ">
+<!ENTITY certmgr.tab.orphan2                  "အခြားအရာများ">
+
+<!ENTITY certmgr.ca.builtins                  "ထည့်သွင်းထားတဲ့ CAs">
+<!ENTITY certmgr.ca.mycas                     "သင် စီမံထားတဲ့ CAs">
+
+<!ENTITY certmgr.mine                         "သင်ဖေါ်ထုတ်ထားတဲ့ ဒီအဖွဲ့အစည်းများဆီမှ လက်မှတ်များကို သင်ရရှိတယ် -">
+<!ENTITY certmgr.others                       "ဒီလူများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
+<!ENTITY certmgr.websites2                    "ဒီဆာဗားများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
+<!ENTITY certmgr.cas                          "ဒီလက်မှတ်ရ အာဏာပိုင်များကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
+<!ENTITY certmgr.orphans                      "အခြား မျိုးကွဲများ တခုခုနဲ့ မကိုက်ညီတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
+
+<!ENTITY certmgr.detail.general_tab.title     "အထွေထွေ">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "အသေးစိတ်များ">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.pending.label                "လောလောဆယ် အတည်ပြုနေတဲ့ လက်မှတ်...">
+<!ENTITY certmgr.subjectinfo.label            "ထုတ်ပြန်တဲ့နေရာ">
+<!ENTITY certmgr.issuerinfo.label             "ထုတ်ပြန်တဲ့ ပုဂ္ဂိုလ်">
+<!ENTITY certmgr.validity.label               "ခိုင်လုံမှု" >
+<!ENTITY certmgr.fingerprints.label           "လက်ဗွေများ">
+<!ENTITY certmgr.certdetail.title             "လက်မှတ် အသေးစိတ်">
+<!ENTITY certmgr.certdetail.cn                "သုံးနေကျ အမည် (CN)">
+<!ENTITY certmgr.certdetail.o                 "အဖွဲ့အစည်း (O)">
+<!ENTITY certmgr.certdetail.ou                "​အဖွဲ့အစည်းဆိုင်ရာ ယူနစ် (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "အစဉ်လိုက် အမှတ်စဉ်">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 လက်ဗွေ">
+<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 လက်ဗွေ">
+
+<!ENTITY certmgr.editcert.title               "လုံခြုံရေး လက်မှတ် အပြင်အဆင်များကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
+<!ENTITY certmgr.editcert.edittrust           "စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
+<!ENTITY certmgr.editcert.trustemail          "ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။">
+<!ENTITY certmgr.editcert.trustobjsign        "ဒီလက်မှတ်က ကွန်ရက် စာမျက်နှာများကို ဖေါ်ထုတ်နိုင်တယ်။">
+<!ENTITY certmgr.editsslcert.edittrust        "လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editsslcert.dotrust          "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်ချပါ။">
+<!ENTITY certmgr.editsslcert.donttrust        "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်မချပါနဲ့။">
+<!ENTITY certmgr.editemailcert.title          "ဒီအီးမေးလ် လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editemailcert.edittrust      "လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editemailcert.dotrust        "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်ချပါ။">
+<!ENTITY certmgr.editemailcert.donttrust      "ဒီလက်မှတ်ရဲ့ စစ်မှန်မှုကို စိတ်မချပါနဲ့။">
+
+<!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ပယ်ဖျက်ပါ">
+<!ENTITY certmgr.deletecert.beforename        "ဒီလက်မှတ်ကို ပယ်ဖျက်ဖို့ သင်တောင်းဆိုထားတယ် -">
+<!ENTITY certmgr.deletecert.aftername         "ဒီလက်မှတ်ကို သင် ပယ်ဖျက်ဖို့ သေချာသလား။">
+<!ENTITY certmgr.deleteusercert.title         "သင့်ရဲ့ လက်မှတ်ကို ပယ်ဖျက်ပါ">
+<!ENTITY certmgr.deleteusercert.beforename    "လက်မှတ် ပယ်ဖျက်ဖို့ သင်တောင်း​ဆိုထားတယ်။">
+<!ENTITY certmgr.deleteusercert.aftername     "ဒီလက်မှတ်ကို သင် တကြိမ် ပယ်ဖျက်တာနဲ့၊ ၄င်းနဲ့ စာဝှက်ထားတဲ့ စာကို သင် ဖတ်နိုင်မှာ မဟုတ်ဘူး။">
+
+<!ENTITY certmgr.certname                     "လက်မှတ်အမည်">
+<!ENTITY certmgr.certserver                   "ဆာဗာ">
+<!ENTITY certmgr.override_lifetime            "သက်တမ်း">
+<!ENTITY certmgr.tokenname                    "လုံခြုံရေး ကိရိယာ">
+<!ENTITY certmgr.issued                       "ထုတ်ပြန်တဲ့ နေ့စွဲ">
+<!ENTITY certmgr.expires                      "သက်တန်းကုန်တဲ့ နေ့စွဲ">
+<!ENTITY certmgr.email                        "အီးမေးလ် လိပ်စာ">
+<!ENTITY certmgr.serial                       "အစဉ်လိုက် အမှတ်စဉ်">
+
+<!ENTITY certmgr.close.label                  "ပိတ်ပါ ">
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "ရှုမြင်ပါ...">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.editca.label                 "CA စိတ်ချမှုကို တည်းဖြတ်ပါ">
+<!ENTITY certmgr.editca.accesskey             "C">
+<!ENTITY certmgr.add.label                    "ပေါင်းထည့်ပါ">
+<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.export.label                 "တင်ပို့ပါ...">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "ပယ်ဖျက်ပါ...">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "သိမ်းဆည်းပါ...">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "အားလုံး သိမ်းဆည်းပါ...">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "တင်သွင်းပါ">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "လက်မှတ် နေရာကွက်">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "နေရာကွက် တန်ဖိုး">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "လက်မှတ် အဆင့်ဆင့်">
+<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.addException.label           "ချွင်းချက် ထည့်သွင်းပါ...">
+<!ENTITY certmgr.addException.accesskey       "x">
+
+<!ENTITY exceptionMgr.title                   "လုံခြုံရေး ချွင်းချက် ထည့်သွင်းပါ">
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "တရား၀င် ဘဏ်များ၊ စတိုးများနဲ့၊ အခြား လူထု ကွန်ရက်များက ဒီအရာကို ပြုလုပ်ဖို့ တောင်းဆိုမှာ မဟုတ်ဘူး။">
+<!ENTITY exceptionMgr.certlocation.caption2   "ဆာဗာ">
+<!ENTITY exceptionMgr.certlocation.url        "နေရာတစ်ခု - ">
+<!ENTITY exceptionMgr.certlocation.download   "လက်မှတ် ရယူပါ">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "လက်မှတ် အနေအထား">
+<!ENTITY exceptionMgr.certstatus.viewCert     "ရှုမြင်ပါ...">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V ">
+<!ENTITY exceptionMgr.permanent.label         "ဒီချွင်းချက်ကို အမြဲတမ်း သိုထားပါ">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">

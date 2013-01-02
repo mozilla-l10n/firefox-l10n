@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY resetProfile.dialog.title        "&brandShortName; ကို ပြန်စပါ">
+<!ENTITY resetProfile.dialog.description  "&brandShortName; ကို သူ့ရဲ့ မူလအခြေအနေရောက်အောင် ပြန်စမှာ သေချာပါသလား။">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; will try to preserve your:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; သည် restart ပြုလုပ်မည် ဖြစ်ပါသောကြောင့် ၊ အားလုံး ပျောက်ဆုံး ပယ်ဖျက်ပါမည်">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; ကို ပြန်စပါ">
+
+<!ENTITY resetProfile.title               "&brandShortName; ကို သူ့ရဲ့ မူလအခြေအနေရောက်အောင် ပြန်စပါ">
+<!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
+<!ENTITY resetProfile.button.label        "&brandShortName; ကို ပြန်စပါ">
+
+<!ENTITY resetProfile.cleaning.description "​ကျေဇူးပြု၍ &brandShortName; က သင့်ရဲ့ ဒေတာအဟောင်းတွေကို ရှင်းလင်းနေစဉ် ခနစောင့်ပေးပါ">

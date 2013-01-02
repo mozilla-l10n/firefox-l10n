@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pluginWizard.title                                  "Plugin Finder Service">
+<!ENTITY pluginWizard.firstPage.title                        " &pluginWizard.title; မှ ကြိုဆိုပါ၏">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; က ရနိုင်တဲ့ ယန္တရားယ်များကို အခု စစ်ဆေးနေတယ်...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "ရနိုင်တဲ့ ယန္တရား ဆွဲချချက်များ">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "အောက်ပါ ယန္တရားငယ်များကို ရနိုင်တယ် -">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ဒီယန္တရားငယ်များကို တပ်ဆင်ဖို့ နောက်တခု ကို နှိုပ်ပါ">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "တပ်ဆင်နေစဉ် တချို့ ယန္တရားငယ်များဟာ နောက်ထပ် အချက်အလက်ကို တောင်းဆိုနိုင်တယ်။">
+
+<!ENTITY pluginWizard.licensePage.title                      "ယန္တရားငယ် ခွင့်ပြုချက်များ">
+<!ENTITY pluginWizard.licensePage.accept.label               "ကျွန်​ပ် လက်ခံပါတယ်။">
+<!ENTITY pluginWizard.licensePage.deny.label                 "ကျွန်​ပ် လက်မခံဘူး (ယန္တရားငယ်ကို တပ်ဆင်မှာ မဟုတ်ဘူး)။">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "ယန္တရားငယ်များကို တပ်ဆင်ပါ">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ယန္တရားငယ်များကို တပ်ဆင်နေတယ်...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ဟာ ပျောက်နေတဲ့ ယန္တရားငယ်များကို တပ်ဆင်မှု ပြီးသွားတယ် -">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "ယန္တရားငယ်များကို ပိုပြီး ရှာဖွေပါ (သို့)  ပျောက်နေတဲ့ ယန္တရားငယ်များကို လက်နဲ့ ရှာဖွေပါ။">
+<!ENTITY pluginWizard.finalPage.restart.label                "ယန္တရားငယ်များ လုပ်ဆောင်ဖို့ &brandShortName; ကို ပြန်ဖွင့်ဖို့ လိုအပ်တယ်။">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "We're very sorry, but &brandShortName; can't play Flash on this device. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "ဆက်လက်လေ့လာပါ။">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "ပလပ်အင် တွေကို ဖွင့်ဖို့ ဒီနေရာမှာ ကလစ်နှိပ်ပါ။">
+<!ENTITY checkForUpdates                                     "Check for updates…">
+<!ENTITY disabledPlugin                                      "This plugin is disabled.">
+<!ENTITY blockedPlugin.label                                 "သင့်ရဲ့ အကာအကွယ်အတွက် ယန္တရားငယ်ကို ပိတ်ဆို့ထားတယ်။">
+
+<!ENTITY installPlugin                                       "ပလပ်အင်အားတပ်ဆင်မည်">
+<!ENTITY managePlugins                                       "ပလပ်အင်များအားစီမံမည်">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "စာမျက်နှာအားပြန်ဖွင့်မည်">
+<!ENTITY reloadPlugin.post                                   "ထပ်မံကြိုးစားကြည့်ရန်">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "crash အား ရီပို့ပေးပို့ပါ">
+<!ENTITY report.submitting                                   "အကြံပေးချက်အားပေးပို့နေသည်...">
+<!ENTITY report.submitted                                    "ရုတ်ချည်းပိတ်သိမ်းမှူတင်ပြချက်အားပေးပို့ပြီး">
+<!ENTITY report.disabled                                     "ရုတ်ချက်းပိတ်သိမ်းမှူတင်ပြချက်အားပိတ်ထားပြီး">
+<!ENTITY report.failed                                       "Submission failed.">
+<!ENTITY report.unavailable                                  "မည့်သည့်တင်ပြချက်မှမရှိ">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

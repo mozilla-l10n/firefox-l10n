@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "ခြွင်းချက်များ">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "ကွန်ရက်">
+<!ENTITY treehead.status.label        "လက်ရှိအခြေအနေ">
+<!ENTITY removepermission.label       "ကွန်ရက်ကို ဖယ်ရှားပါ">
+<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removeallpermissions.label   "ကွန်ရက်များ အားလုံးကို ဖယ်ရှားပါ">
+<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY address.label                "၀တ်ဆိုက်လိပ်စာ၊">
+<!ENTITY address.accesskey            "၀">
+<!ENTITY block.label                  "ပိတ်ဆို့ပါ">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
+<!ENTITY session.accesskey            "S">
+<!ENTITY allow.label                  "ခွင့်ပြုပါ">
+<!ENTITY allow.accesskey              "A">
+<!ENTITY windowClose.key              "w ">
+
+<!ENTITY button.close.label           "ပိတ်ပါ ">
+<!ENTITY button.close.accesskey       "C">
+

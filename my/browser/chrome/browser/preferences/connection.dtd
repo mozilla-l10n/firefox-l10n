@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  connectionsDialog.title       "ချိတ်ဆက်မှု အပြင်အဆင်များ">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "အင်တာနက်ထဲ ၀င်ရောက်ဖို့ ကြားခံများကို ပြင်ဆင် ဖန်တီးပါ">
+<!ENTITY  noProxyTypeRadio.label        "ကြားခံ မပါ">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "နည်းစနစ် ကြားခံ အပြင်အဆင်များကို သုံးစွဲပါ">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "ဒီကွန်ရက် ချိတ်ဆက်မှုအတွက် အလိုအလျှောက် ရှာ ကြားခံ အပြင်အဆင်များ">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "ကြားခံ ပြုပြင်ဖန်တီးမှု လက်စွဲ">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "အလိုအလျှောက် ကြားခံ ပြုပြင်ဖန်းတီးရေး တည်နေရာ၊">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "ပြန်ဖွင့်ပါ">
+<!ENTITY  reload.accesskey              "e">
+<!ENTITY  ftp.label                     "FTP ကြားခံ၊">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "HTTP ကြားခံ၊">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL ကြားခံ၊">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS အခြေစိုက်ရာ၊">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v၄">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v၅">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "စိုက်ရောက်နေရာ၊">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "၀">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "ကြားခံ မလိုတဲ့၊">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "ဥပမာ-.mozilla.org, .net.nz, ၁၉၂.၁၆၈.၁.၀/၂၄">
+<!ENTITY  shareproxy.label              "စည်းမျဉ်းများ အားလုံးအတွက် ဒီကြားခံ ​ဆာဗာကို သုံးစွဲပါ">
+<!ENTITY  shareproxy.accesskey          "s">
