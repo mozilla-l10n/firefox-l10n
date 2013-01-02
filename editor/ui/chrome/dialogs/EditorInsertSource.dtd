@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Устаўка HTML">
-<!ENTITY sourceEditField.label "Увядзіце тэгі HTML і тэкст:">
+<!ENTITY sourceEditField.label "Увядзіце меціны HTML і тэкст:">
 <!ENTITY example.label "Прыклад:">
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">

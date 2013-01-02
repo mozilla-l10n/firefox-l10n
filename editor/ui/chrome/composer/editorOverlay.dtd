@@ -95,11 +95,12 @@
 <!ENTITY FontSizeSelect.tooltip "Выбраць памер шрыфту">
 <!ENTITY decreaseFontSize.label "Меншы">
 <!ENTITY decreaseFontSize.accesskey "е">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decreaseFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Большы">
 <!ENTITY increaseFontSize.accesskey "Б">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY increaseFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Памер">
 <!ENTITY fontSizeMenu.accesskey "м">
 <!ENTITY size-xx-smallCmd.label "xx-малы">
@@ -315,9 +316,9 @@
 <!ENTITY alignJustifyButton.tooltip "Выраўноваць тэкст да левага і правага прымежкаў">
 <!ENTITY structSelect.label "Вылучыць">
 <!ENTITY structSelect.accesskey "л">
-<!ENTITY structRemoveTag.label "Выдаліць тэг">
+<!ENTITY structRemoveTag.label "Выдаліць меціну">
 <!ENTITY structRemoveTag.accesskey "д">
-<!ENTITY structChangeTag.label "Змяніць тэг">
+<!ENTITY structChangeTag.label "Змяніць меціну">
 <!ENTITY structChangeTag.accesskey "м">
 <!ENTITY insertTOC.label "Уставіць">
 <!ENTITY insertTOC.accesskey "У">

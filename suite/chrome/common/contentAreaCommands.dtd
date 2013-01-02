@@ -50,8 +50,8 @@
 <!ENTITY viewVideoCmd.accesskey "в">
 <!ENTITY viewBGImageCmd.label "Праглядзець выяву фону">
 <!ENTITY viewBGImageCmd.accesskey "ф">
-<!ENTITY setDesktopBackgroundCmd.label "Set Desktop Background…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY setDesktopBackgroundCmd.label "Прызначыць фон працоўнага стала…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "ф">
 <!ENTITY bookmarkPageCmd.label "Закласці старонку…">
 <!ENTITY bookmarkPageCmd.accesskey "З">
 <!ENTITY bookmarkLinkCmd.label "Закласці спасылку…">

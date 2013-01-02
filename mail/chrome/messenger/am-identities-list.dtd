@@ -1,8 +1,10 @@
-<!ENTITY identitiesListDesc.label "Падтрымка шматлікіх адметаў">
+<!ENTITY identitiesListManageDesc.label "Кіраваць адметамі гэтага рахунку. Змоўчна ўжываецца першая адмета.">
 <!ENTITY identitiesListAdd.label "Дадаць…">
 <!ENTITY identitiesListAdd.accesskey "Д">
 <!ENTITY identitiesListEdit.label "Правіць…">
 <!ENTITY identitiesListEdit.accesskey "П">
+<!ENTITY identitiesListDefault.label "Усталяваць як змоўчны">
+<!ENTITY identitiesListDefault.accesskey "з">
 <!ENTITY identitiesListDelete.label "Выдаліць">
 <!ENTITY identitiesListDelete.accesskey "В">
 <!ENTITY identitiesListClose.label "Зачыніць">

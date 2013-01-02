@@ -1,14 +1,8 @@
 <!ENTITY debuggerMenu.label2 "Наладчык">
+<!ENTITY debuggerMenu.accesskey "Н">
 <!ENTITY remoteDebuggerMenu.label "Адлеглы наладчык">
 <!ENTITY chromeDebuggerMenu.label "Наладчык азіральніка">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыць">
 <!ENTITY debuggerUI.pauseExceptions "Прыпыняць падчас выключэнняў">
-<!ENTITY debuggerUI.stepOverButton.tooltip "Пераскочыць">
-<!ENTITY debuggerUI.stepInButton.tooltip "Ускочыць">
-<!ENTITY debuggerUI.stepOutButton.tooltip "Выскачыць">
-<!ENTITY debuggerUI.stackTitle "Стос выклікаў">
-<!ENTITY debuggerUI.scriptTitle "Сцэнар">
-<!ENTITY debuggerUI.propertiesTitle "Зменныя ш абшары">
-<!ENTITY debuggerUI.emptyFilterText "Сітаваць сцэнары">
-<!ENTITY debuggerUI.emptyScriptText "Няма сцэнараў">
+<!ENTITY debuggerUI.searchPanelTitle "Чыннікі">

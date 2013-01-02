@@ -229,23 +229,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
-<!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
-<!ENTITY fullZoomEnlargeCmd.accesskey "в">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Паменшыць">
-<!ENTITY fullZoomReduceCmd.accesskey "м">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Узнавіць">
-<!ENTITY fullZoomResetCmd.accesskey "У">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Павялічваць толькі тэкст">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
-<!ENTITY fullZoom.label "Павялічэнне">
-<!ENTITY fullZoom.accesskey "в">
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
@@ -540,7 +523,7 @@
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
-<!ENTITY manageTags.label "Кіраваць тэгамі…">
+<!ENTITY manageTags.label "Кіраваць мецінамі…">
 <!ENTITY manageTags.accesskey "К">
 <!ENTITY folderColumn.label "Назва">
 <!ENTITY folderSizeColumn.label "Памер">

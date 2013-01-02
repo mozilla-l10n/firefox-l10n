@@ -5,8 +5,8 @@
 <!ENTITY sync.title.adddevice.label "Дадаць рахунак &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Спараванне збудовы">
 <!ENTITY sync.subtitle.connect.label "Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове.">
-<!ENTITY sync.subtitle.header.label "Увядзіце гэты код на вашым кампутары">
-<!ENTITY sync.subtitle.connectlocation.label "Выберыце “&sync.title.pair.label;” у раздезеле &syncBrand.shortName.label; наладжванняў вашага настольнага Firefox.">
+<!ENTITY sync.subtitle.header2.label "Увядзіце гэты код на іншай збудове">
+<!ENTITY sync.subtitle.connectlocation2.label "Выберыце “&sync.title.pair.label;” у раздзеле &syncBrand.shortName.label; наладжванняў Firefox на вашай іншай збудове.">
 <!ENTITY sync.subtitle.pair.label "Каб задзейнічаць, выберыце “Спараваць збудову” на вашай іншай збудове.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -41,7 +41,7 @@
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!ENTITY bookmarks.folder.menu.label "Меню закладак">
 <!ENTITY bookmarks.folder.places.label "">
-<!ENTITY bookmarks.folder.tags.label "Тэгі">
+<!ENTITY bookmarks.folder.tags.label "Меціны">
 <!ENTITY bookmarks.folder.toolbar.label "Прыладапаліца закладак">
 <!ENTITY bookmarks.folder.unfiled.label "Неразмеркаваныя закладкі">
 <!ENTITY bookmarks.folder.desktop.label "Закладкі працоўнага стала.">
@@ -58,4 +58,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Наладка дасылання ўставак праз &syncBrand.shortName.label;">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
 <!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
-<!ENTITY sync.text.tab.not.sent.label "There was a problem sending your tab.">
+<!ENTITY sync.text.tab.not.sent.label "Здарылася праблема падчас дасылання ўстаўкі.">
