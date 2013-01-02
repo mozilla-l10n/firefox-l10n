@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label      "izberi tu za starša">
+<!ENTITY newfolderchoosethis.label      "izberi to za starša">
 <!ENTITY filemessageschoosethis.label   "izberi to mapo">
+<!ENTITY recentfolders.label            "Nedavno">
