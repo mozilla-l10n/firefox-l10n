@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Sistemska integracija">
+<!ENTITY acceptIntegration.label  "Nastavi kot privzeto">
+<!ENTITY cancelIntegration.label  "Preskoči integracijo">
 <!ENTITY defaultClient.intro  "Uporabi &brandShortName; kot privzeti program za:">
 
 <!ENTITY email.label "E-pošto">
 <!ENTITY newsgroups.label "Novičarske skupine">
-<!ENTITY feeds.label "Viri">
+<!ENTITY feeds.label "Vire">
+
+<!ENTITY unsetDefault.tooltip "Programa &brandShortName; ni mogoče odstraniti kot privzetega odjemalca znoraj programa &brandShortName;. Če želite privzeto uporabljati drug program, uporabite njegovo pogovorno okno 'Nastavi kot priveto'.">
 
 <!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "V">
