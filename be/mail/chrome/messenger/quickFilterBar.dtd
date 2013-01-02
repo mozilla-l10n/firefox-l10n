@@ -10,8 +10,8 @@
 <!ENTITY quickFilterBar.starred.tooltip "Паказваць толькі лісты з зоркамі">
 <!ENTITY quickFilterBar.inaddrbook.label "Сувязь">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Паказваць толькі лісты ад людзей, адрасы якіх у вашай адраснай кнізе ">
-<!ENTITY quickFilterBar.tags.label "Тэгі">
-<!ENTITY quickFilterBar.tags.tooltip "Паказваць толькі лісты з тэгамі">
+<!ENTITY quickFilterBar.tags.label "Меціны">
+<!ENTITY quickFilterBar.tags.tooltip "Паказваць толькі лісты з мецінамі">
 <!ENTITY quickFilterBar.attachment.label "Далучэнне">
 <!ENTITY quickFilterBar.attachment.tooltip "Паказваць толькі лісты з далучэннямі">
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ліст;#1 лісты;#1 лістоў">

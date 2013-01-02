@@ -34,4 +34,5 @@
 <!ENTITY defaultBrowserButton.accesskey "з">
 <!ENTITY alreadyDefaultText "&brandShortName; ужо з'яўляецца вашым змоўчным азіральнікам.">
 <!ENTITY defaultPendingText "&brandShortName; будзе прызначаны вашым змоўчным азіральнікам, калі вы пстрыкніце Добра.">
+<!ENTITY wasMadeDefaultText "&brandShortName; прызначаны вашым змоўчным азіральнікам.">
 <!ENTITY makeDefaultText "Прызначыць &brandShortName; вашым змоўчным азіральнікам.">

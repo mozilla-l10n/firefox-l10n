@@ -18,3 +18,5 @@
 <!ENTITY ispHeaders.accesskey "в">
 <!ENTITY junkClassification.label "Вылучэнне">
 <!ENTITY junkActions.label "Прызначэнне і ўтрыманне">
+<!ENTITY globalJunkPrefs.label "Агульныя перавагі вызначэння лухты…">
+<!ENTITY globalJunkPrefs.accesskey "л">

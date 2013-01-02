@@ -10,8 +10,8 @@
 #define bookmarks_title Закладкі
 #define bookmarks_heading Закладкі
 
-#define bookmarks_toolbarfolder Папка прыладапаліца закладак
-#define bookmarks_toolbarfolder_description Дадавайце закладкі ў гэтую папку, каб пабачыць іх на прыладапаліцы закладак.
+#define bookmarks_toolbarfolder Папка прыладапаліцы закладак
+#define bookmarks_toolbarfolder_description Дадавайце закладкі ў гэтую папку, каб пабачыць іх на прыладапаліцы закладак
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
@@ -27,7 +27,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
-#define firefox_customize Уладкаванне Firefox
+#define firefox_customize Уладкаваць Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/

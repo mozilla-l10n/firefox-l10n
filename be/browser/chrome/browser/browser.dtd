@@ -8,10 +8,10 @@
 <!ENTITY reloadAllTabs.accesskey "А">
 <!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
 <!ENTITY closeOtherTabs.accesskey "З">
-<!ENTITY pinAppTab.label "Прышпіліць як устаўку прыстасавання ">
-<!ENTITY pinAppTab.accesskey "П">
-<!ENTITY unpinAppTab.label "Адшпіліць устаўку">
-<!ENTITY unpinAppTab.accesskey "А">
+<!ENTITY pinTab.label "Прышпіліць устаўку">
+<!ENTITY pinTab.accesskey "ш">
+<!ENTITY unpinTab.label "Адшпіліць устаўку">
+<!ENTITY unpinTab.accesskey "А">
 <!ENTITY moveToGroup.label "Перамясціць у купу">
 <!ENTITY moveToGroup.accesskey "м">
 <!ENTITY moveToNewGroup.label "Новая купа">
@@ -171,14 +171,13 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Зачыніць палічку">
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыць прыладапаліцу распрацаўніка">
 <!ENTITY devToolbarMenu.label "Прыладапаліца распрацаўніка">
 <!ENTITY devToolbarMenu.accesskey "р">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolbarOtherToolsButton.label "Іншыя прылады">
-<!ENTITY webConsoleButton.label "Кансоль Сеціва">
-<!ENTITY inspectorButton.label "Назіральнік">
 <!ENTITY inspectorHTMLCopyInner.label "Скапіваць унутраны HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "у">
 <!ENTITY inspectorHTMLCopyOuter.label "Скапіваць вонкавы HTML">
@@ -448,7 +447,7 @@
 <!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">
 <!ENTITY allTabs.filter.emptyText "Пошук уставак">
 <!ENTITY tabsToolbar.label "Устаўкі азіральніка">
-<!ENTITY syncTabsMenu.label "Устаўкі з іншых кампутараў">
+<!ENTITY syncTabsMenu2.label "Устаўкі з іншых збудоваў">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Наладзіць &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey "Y">

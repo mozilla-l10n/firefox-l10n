@@ -64,10 +64,10 @@
 <!ENTITY NormalMode.label "Звычайны рэжым праўкі">
 <!ENTITY NormalMode.accesskey "З">
 <!ENTITY NormalMode.tooltip "Паказваць межы табліцаў і іменаваныя якары">
-<!ENTITY AllTagsModeTab.label "Тэгі HTML">
-<!ENTITY AllTagsMode.label "Тэгі HTML">
+<!ENTITY AllTagsModeTab.label "Меціны HTML">
+<!ENTITY AllTagsMode.label "Меціны HTML">
 <!ENTITY AllTagsMode.accesskey "э">
-<!ENTITY AllTagsMode.tooltip "Паказваць значкі для ўісх тэгаў HTML">
+<!ENTITY AllTagsMode.tooltip "Паказваць значкі для ўсіх мецінаў HTML">
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Зыходнік">
 <!ENTITY HTMLSourceMode.label "Зыходнік HTML">

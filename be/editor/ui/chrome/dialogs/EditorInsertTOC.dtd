@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY Window.title "Табліца зместу">
 <!ENTITY buildToc.label "Пабудаваць табліцу зместу з:">
-<!ENTITY tag.label "Тэг:">
+<!ENTITY tag.label "Меціна:">
 <!ENTITY class.label "Клас:">
 <!ENTITY header1.label "Узровень 1">
 <!ENTITY header2.label "Узровень 2">

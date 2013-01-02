@@ -15,6 +15,8 @@
 <!ENTITY networkPanel.responseImageCached "Прызапашаная выява">
 <!ENTITY saveBodies.label "Запісваць целы запытаў і адказаў">
 <!ENTITY saveBodies.accesskey "З">
+<!ENTITY openURL.label "Адчыніць URL у новай устаўцы">
+<!ENTITY openURL.accesskey "ч">
 <!ENTITY btnPageNet.label "Сетка">
 <!ENTITY btnPageNet.tooltip "Запісваць сеткавыя звароты">
 <!ENTITY btnPageCSS.label "CSS">
@@ -43,3 +45,5 @@
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY copyURLCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyURLCmd.accesskey "К">

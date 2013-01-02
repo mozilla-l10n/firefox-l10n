@@ -23,8 +23,8 @@
 <!ENTITY engine.prefs.accesskey "в">
 <!ENTITY engine.addons.label "Дадаткі">
 <!ENTITY engine.addons.accesskey "Д">
-<!ENTITY syncComputerName.label "Назва кампутара:">
-<!ENTITY syncComputerName.accesskey "к">
+<!ENTITY syncDeviceName.label "Назва збудовы:">
+<!ENTITY syncDeviceName.accesskey "з">
 <!ENTITY unlinkDevice.label "Разлучыцца з гэтай збудовай">
 <!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
 <!ENTITY prefs.ppLink.label "Палітыка адасаблення">
