@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+<!ENTITY title      "Conectar">
+<!ENTITY host       "Servidor:">
+<!ENTITY port       "Porto:">
+<!ENTITY connect    "Conectar">
+<!ENTITY connecting "Conectando…">
+<!ENTITY availability "Obxectos remotos dispoñíbeis:">
