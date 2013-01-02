@@ -15,6 +15,7 @@
 <!ENTITY telemetryInfoLink.label       "Dodatne informacije o telemetriji">
 <!ENTITY enableGlodaSearch.label       "Omogoči globalno iskanje in indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
 <!ENTITY scrolling.label               "Drsenje">
 <!ENTITY useAutoScroll.label           "Uporabljaj avto drsenje">
 <!ENTITY useAutoScroll.accesskey       "U">
@@ -26,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "N">
 <!ENTITY searchIntegration.label       "Dovoli &searchIntegration.engineName;, da preišče sporočila">
 <!ENTITY searchIntegration.accesskey   "D">
-<!ENTITY checkNow.label                "Preveri zdaj">
-<!ENTITY checkNow.accesskey            "I">
+<!ENTITY checkDefaultsNow.label        "Preveri zdaj …">
+<!ENTITY checkDefaultsNow.accesskey    "I">
 <!ENTITY configEditDesc.label          "Napredna nastavitev">
 <!ENTITY configEdit.label              "Urejevalnik nastavitev …">
 <!ENTITY configEdit.accesskey          "U">
