@@ -21,7 +21,7 @@
 <!ENTITY contextIncomingMail.accesskey "P">
 <!ENTITY contextManual.label "Ročni zagon">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Preverjanje pošte pred razvrščanjem"">
+<!ENTITY contextBeforeCls.label "Preverjanje pošte pred razvrščanjem">
 <!ENTITY contextAfterCls.label "Preverjanje pošte po razvrščanju">
 
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
