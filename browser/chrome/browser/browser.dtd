@@ -610,3 +610,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleccionar as conversas">
 <!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
