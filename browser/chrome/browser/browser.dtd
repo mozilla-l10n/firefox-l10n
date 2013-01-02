@@ -357,6 +357,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "h">
 <!ENTITY openLinkCmd.label            "Abrir a ligazón nunha nova xanela">
 <!ENTITY openLinkCmd.accesskey        "x">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir a ligazón nunha nova xanela privada">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir a ligazón">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label      "Abrir o marco nunha nova lapela">
