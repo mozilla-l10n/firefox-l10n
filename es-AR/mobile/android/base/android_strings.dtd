@@ -91,7 +91,6 @@
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
-
 <!ENTITY pref_font_size_set "Juego">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -140,6 +139,12 @@ size. -->
 <!ENTITY new_private_tab "Nueva pestaña privada">
 <!ENTITY synced_tabs "Pestañas sincronizadas">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY tabs_normal "Pestañas">
+<!ENTITY tabs_private "Privadas">
+<!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY wallpaper_success "Fondo de pantalla actualizado">
+<!ENTITY wallpaper_progress "Estableciendo fondo de pantalla">
+<!ENTITY wallpaper_fail "No se pudo cambiar el fondo de pantalla">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -198,6 +203,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
 <!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Más visitados">
+<!ENTITY abouthome_topsites_edit "Editar">
+<!ENTITY abouthome_topsites_clear "Limpiar">
+<!ENTITY abouthome_topsites_clearall "Limpiar todo">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
