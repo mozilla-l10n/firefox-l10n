@@ -7,7 +7,7 @@
 <!ENTITY generalTab.label "Almennt">
 <!ENTITY accessibility.label "Auðveldað aðgengi">
 <!ENTITY useCursorNavigation.label "Alltaf nota örvalykla til að ferðast á síðum">
-<!ENTITY useCursorNavigation.accesskey "r">
+<!ENTITY useCursorNavigation.accesskey "ö">
 <!ENTITY searchStartTyping.label "Leita í texta þegar byrjað er að slá inn orð">
 <!ENTITY searchStartTyping.accesskey "L">
 <!ENTITY blockAutoRefresh.label "Vara við þegar vefsvæði reyna að endurbeina eða endurnýja síðuna">
