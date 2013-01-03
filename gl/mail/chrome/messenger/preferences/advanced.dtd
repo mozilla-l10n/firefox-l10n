@@ -59,7 +59,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "x">
 <!ENTITY reuseExpRadio1.label          "Nunha xanela de mensaxe existente">
 <!ENTITY reuseExpRadio1.accesskey      "u">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/separador da mensaxe ao mover ou borrar">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/lapela da mensaxe ao mover ou borrar">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->
