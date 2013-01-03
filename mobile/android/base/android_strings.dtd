@@ -140,8 +140,8 @@ size. -->
 <!ENTITY synced_tabs "已同步的分頁">
 <!ENTITY close_all_tabs "關閉所有分頁">
 <!ENTITY tabs_normal "分頁">
-<!ENTITY tabs_private "私人">
-<!ENTITY tabs_synced "已同步">
+<!ENTITY tabs_private "隱私">
+<!ENTITY tabs_synced "同步">
 <!ENTITY wallpaper_success "已更新桌面背景">
 <!ENTITY wallpaper_progress "正在設定桌面背景">
 <!ENTITY wallpaper_fail "無法設定桌面背景">
@@ -201,6 +201,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "上一次打開的分頁">
 <!ENTITY abouthome_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY abouthome_top_sites_title "最常瀏覽的網站">
+<!ENTITY abouthome_topsites_edit "編輯">
+<!ENTITY abouthome_topsites_clear "清除">
+<!ENTITY abouthome_topsites_clearall "清除全部">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
