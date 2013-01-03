@@ -415,8 +415,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkCmd.label "Guardar enlace como…">
 <!ENTITY saveLinkCmd.accesskey "l">
-<!ENTITY emailPageCmd.label           "Enlace por email…">
-<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY saveImageCmd.label "Guardar imagen como…">
 <!ENTITY saveImageCmd.accesskey "u">
 <!ENTITY saveVideoCmd.label           "Guardar video como…">
@@ -445,10 +443,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY thisFrameMenu.accesskey "c">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Reproducir">
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mudo">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Unmute">
@@ -461,6 +465,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY videoFullScreen.accesskey   "n">
 <!ENTITY videoSaveImage.label        "Guardar captura como…">
 <!ENTITY videoSaveImage.accesskey    "G">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Mostrar estadísticas">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ocultar estadisticas">
@@ -598,11 +605,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY socialToolbar.title        "Barra de herramientas sociales">
 <!ENTITY social.notLoggedIn.label   "No ingresado">
 
-<!-- LOCALIZATION NOTE (social.ok.label, social.ok.accesskey): this string is
-     used for the "OK" button for two different social panels. One appears when
-     the feature is activated (social.activated.* below), and the other when
-     the user clicks the "Share" button a second time (social.sharePopup.*
-     below). -->
 <!ENTITY social.ok.label       "Aceptar">
 <!ENTITY social.ok.accesskey   "A">
 
@@ -618,3 +620,10 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
+
+
+<!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
