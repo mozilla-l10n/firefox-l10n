@@ -34,7 +34,15 @@
       that's 28 characters, so we set the minimum width to 28ch.
       -->
 <!ENTITY downloadsSummary.minWidth        "28ch">
-   
+
+<!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
+      This string is shown at the bottom of the Downloads Panel when all the
+      downloads fit in the available space, or when there are no downloads in
+      the panel at all.
+      -->
+<!ENTITY downloadsHistory.label           "Барлық жүктемелерді көрсету"> 
+<!ENTITY downloadsHistory.accesskey       "к">
+
    <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
