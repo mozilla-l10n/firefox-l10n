@@ -466,7 +466,7 @@
 <!ENTITY archiveButton.label "Archivia">
 <!ENTITY nextButton.label "Successivo">
 <!ENTITY nextButtonToolbarItem.label "Successivo non letto">
-<!ENTITY nextMsgButton.label "Sucessivo">
+<!ENTITY nextMsgButton.label "Successivo">
 <!ENTITY previousButton.label "Precedente">
 <!ENTITY previousButtonToolbarItem.label "Precedente non letto">
 <!ENTITY previousMsgButton.label "Precedente">
