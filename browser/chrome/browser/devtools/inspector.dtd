@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Ішкі HTML көшіру"> 
+<!ENTITY inspectorHTMLCopyInner.accesskey   "к">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Сыртқы HTML көшіру"> 
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "с">
+
+<!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру"> 
+<!ENTITY inspectorHTMLDelete.accesskey      "ш">
+
+<!ENTITY inspector.selectButton.tooltip     "Элементті тышқанмен таңдау"> 
