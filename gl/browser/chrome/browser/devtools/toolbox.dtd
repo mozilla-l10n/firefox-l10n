@@ -5,3 +5,5 @@
 <!ENTITY window.title  "Ferramentas de desenvolvemento">
 
 <!ENTITY closeCmd.key  "W">
+
+<!ENTITY toolboxCloseButton.tooltip  "Pechar as ferramentas de desenvolvemento">
