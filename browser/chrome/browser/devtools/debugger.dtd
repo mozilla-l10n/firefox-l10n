@@ -108,6 +108,21 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Engadir o punto de quebra condicional">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
+  -  appears in the source editor context menu for adding an expression. -->
+<!ENTITY debuggerUI.seMenuAddWatch      "Selección para expresión a vixiar">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+
+<!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
+  -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch            "Engadir expresión a vixiar">
+<!ENTITY debuggerUI.addWatch.key        "E">
+
+<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+  -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch      "Retirar todas as expresións a vixiar">
+<!ENTITY debuggerUI.removeAllWatch.key  "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
