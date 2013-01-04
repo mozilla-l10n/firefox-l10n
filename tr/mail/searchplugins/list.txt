@@ -1,0 +1,3 @@
+google
+yandex-tr
+wikipedia-tr
