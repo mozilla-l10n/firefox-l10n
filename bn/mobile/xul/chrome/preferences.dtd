@@ -24,5 +24,5 @@
 <!ENTITY homepage.none                             "খালি পৃষ্ঠা">
 <!ENTITY homepage.default                          "&brandShortName; শুরু করুন">
 <!ENTITY homepage.currentpage                      "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে">
-<!ENTITY showCharsetEncoding.title                 "অক্ষরের এনকোডিং (c) প্রর্দশন করুন">
+<!ENTITY showCharsetEncoding.title                 "অক্ষরের এনকোডিং প্রর্দশন করুন">
 <!ENTITY actionbar.default                         "&brandShortName; সেটিং">
