@@ -44,7 +44,7 @@
 <!ENTITY cookies.info.value.label "Contingut:">
 <!ENTITY cookies.info.host.label "Servidor central:">
 <!ENTITY cookies.info.domain.label "Domini:">
-<!ENTITY cookies.info.path.label "Camini:">
+<!ENTITY cookies.info.path.label "Camí:">
 <!ENTITY cookies.info.sendtype.label "S'envia per:">
 <!ENTITY cookies.info.expires.label "Venç:">
 
