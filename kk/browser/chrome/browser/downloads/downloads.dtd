@@ -29,11 +29,11 @@
       in downloads.properties, and make a reasonable estimate of its
       maximum length. For English, this seems like a reasonable limit:
  
-      +999 other current downloads
+      +999 other downloads
  
       that's 28 characters, so we set the minimum width to 28ch.
       -->
-<!ENTITY downloadsSummary.minWidth        "28ch">
+<!ENTITY downloadsSummary.minWidth2        "28ch">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
       This string is shown at the bottom of the Downloads Panel when all the
@@ -68,7 +68,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "Ж">
 <!ENTITY cmd.copyDownloadLink.label       "Жүктеу сілтемесін көшіру">
 <!ENTITY cmd.copyDownloadLink.accesskey   "к">
-<!ENTITY cmd.removeFromList.label         "Тізімнен өшіру">
-<!ENTITY cmd.removeFromList.accesskey     "Т">
+<!ENTITY cmd.removeFromHistory.label      "Тарихпен өшіру">
+<!ENTITY cmd.removeFromHistory.accesskey  "Т">
 <!ENTITY cmd.clearList.label              "Тізімді тазарту">
 <!ENTITY cmd.clearList.accesskey          "Т">

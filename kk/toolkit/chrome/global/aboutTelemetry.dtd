@@ -4,11 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия мәліметтері">
 
-<!ENTITY aboutTelemetry.pageSubtitle "
-  Бұл бет телеметриямен жиналған өнімділік және мүмкіндіктер қолдануы туралы мәліметтерді көрсетеді.
-  Бұл  ақпарат анонимды түрде Mozilla-ға, &brandShortName; жақсарту мақсатымен, жіберіледі.
-">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Телеметрия <span>іске қосылған</span>.
 ">

@@ -202,14 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.accesskey    "к">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Веб консолі">
-<!ENTITY webConsoleCmd.accesskey      "В">
-<!ENTITY webConsoleCmd.commandkey     "c">
 <!ENTITY remoteWebConsoleCmd.label "Қашықтағы веб консолі">
-
-<!ENTITY inspectMenu.label            "Бақылау">
-<!ENTITY inspectMenu.accesskey        "Б">
-<!ENTITY inspectMenu.commandkey       "i">
 
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
@@ -242,36 +235,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Көбірек саймандар">
-
-<!ENTITY inspectorHTMLCopyInner.label       "р">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "р">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Сыртқы HTML көшіру">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "С">
-
-<!ENTITY inspectorHTMLDelete.label          "Ноданы өшіру">
-<!ENTITY inspectorHTMLDelete.accesskey      "Н">
-
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "3D көрінісі">
-<!ENTITY inspect3DViewButton.accesskey "3">
-
-<!ENTITY inspectStyleButton.label     "Стилі">
-<!ENTITY inspectStyleButton.accesskey "С">
-
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Стильдер түзетушісі">
-<!ENTITY styleeditor.accesskey        "С">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
+<!ENTITY devToolbox.accesskey               "с">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Көбірек саймандарды алу">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "а">
 
-<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -613,8 +582,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Көбірек білу…">
 
-<!ENTITY downloadMonitor2.tooltip "Жүктемелер терезесін ашу үшін тышқанды басыңыз">
-
 <!ENTITY allTabs.filter.emptyText "Беттерден іздеу">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -633,15 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Кеңейтулер панелін жабу">
 <!ENTITY toggleAddonBarCmd.key        "/">
-
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-<!ENTITY markupButton.arialabel          "Белгілеу">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Әлеуметтік панель батырмасы">
 <!ENTITY social.notLoggedIn.label   "Кірмеген">
