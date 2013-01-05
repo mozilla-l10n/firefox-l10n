@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY urlbar.emptytext      "ঠিকানার জন্য অনুসন্ধান করুন">
+<!ENTITY urlbar.emptytext      "অনুসন্ধান অথবা ঠিকানা প্রবেশ করান">
 
 <!ENTITY back.label            "পূর্ববর্তী">
 <!ENTITY forward.label         "পরবর্তী">
@@ -15,7 +15,7 @@
 <!ENTITY newtab.label          "নতুন ট্যাব">
 <!ENTITY closetab.label        "ট্যাব বন্ধ করুন">
 
-<!ENTITY cut.label             "কাটা">
+<!ENTITY cut.label             "কাটুন">
 <!ENTITY copy.label            "অনুলিপি">
 <!ENTITY copyAll.label         "সবকিছু অনুলিপি করুন">
 <!ENTITY copylink.label        "লিংকের ঠিকানা অনুলিপি করুন">
@@ -48,7 +48,7 @@
 <!ENTITY addonsSearch.recommended  "সুপারিশকৃত">
 
 <!ENTITY addonOptions.label        "অপশন">
-<!ENTITY addonEnable.label         "সক্রিয় (N)">
+<!ENTITY addonEnable.label         "সক্রিয়">
 <!ENTITY addonDisable.label        "নিষ্ক্রিয়">
 <!ENTITY addonInstall2.label       "&brandShortName; এ সংযোজন">
 <!ENTITY addonUninstall.label      "আনইনস্টল">
@@ -70,7 +70,7 @@
 <!ENTITY noResults.label           "কোন ফলাফল নেই">
 <!ENTITY allBookmarks.label        "সকল বুকমার্ক দেখুন">
 
-<!ENTITY bookmarkPopup.label       "বুকমার্ক যোগ">
+<!ENTITY bookmarkPopup.label       "বুকমার্ককৃত পৃষ্ঠা">
 <!ENTITY bookmarkRemove.label      "অপসারণ">
 <!ENTITY bookmarkEdit.label        "সম্পাদনা">
 <!ENTITY bookmarkShortcut.label    "হোম স্ক্রীনে যোগ করুন">
