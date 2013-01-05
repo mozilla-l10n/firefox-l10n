@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "फिर सेट करें">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "खाता प्रबंधित करें">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "कोटा देखें">
 <!ENTITY changePassword2.label        "कूटशब्द बदलें…">
 <!ENTITY myRecoveryKey.label          "मेरी पुनर्प्राप्ति कुँजी">
@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "युक्ति नाम (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "इस युक्ति को कड़ीविहीन करें">
 <!-- Footer stuff -->
