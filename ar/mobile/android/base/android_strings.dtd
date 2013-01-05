@@ -56,7 +56,7 @@
 <!ENTITY close_tab "أغلق اللسان">
 <!ENTITY new_tab "لسان جديد">
 <!ENTITY one_tab "لسان واحد">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d لسان">
 <!ENTITY new_tab_opened "فُتح لسان جديد">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "أخبِر المواقع ألا تتعقبني">
 <!ENTITY pref_telemetry "أرسِل بيانات الأداء">
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
-<!ENTITY pref_cookies "فعّل الكعكات">
+
+<!ENTITY pref_cookies_menu "الكعكات">
+<!ENTITY pref_cookies_accept_all "مفعّلة">
+<!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
+<!ENTITY pref_cookies_disabled "مُعطّلة">
+
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
+<!ENTITY pref_reflow_on_zoom2 "اقرص لتغيير انسياب النص">
 <!ENTITY pref_font_size_tiny "ضئيل">
 <!ENTITY pref_font_size_small "صغير">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings "تفضيلات الموقع">
 
+<!ENTITY pref_update_autodownload "التحديثات التلقائية">
+<!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
+<!ENTITY pref_update_autodownload_disabled "مُعطّلة">
+<!ENTITY pref_update_autodownload_enabled "مفعّلة">
+
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "ابحث في الصفحة">
 <!ENTITY desktop_mode "اطلب موقع سطح مكتب">
 <!ENTITY tools "أدوات">
+<!ENTITY new_pb_tab "لسان تصفح خاص جديد">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "ألسنتك من المرة السابقة">
 <!ENTITY abouthome_last_tabs_open "افتح كل الألسنة من المرة السابقة">
 <!ENTITY abouthome_top_sites_title "المواقع الأكثر زيارة">
-<!ENTITY abouthome_top_sites_browse "تصفّح كل مواقعك الأكثر زيارة">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_start_select2 "المس لبدء التنزيل">
- 
+
 <!ENTITY updater_downloading_title2 "تنزيل &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "فشل التنزيل">
 <!ENTITY updater_downloading_select2 "المس لتطبيق التحديث بمجرد تنزيله">
 <!ENTITY updater_downloading_retry2 "المس لإعادة المحاولة">
- 
+
 <!ENTITY updater_apply_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_apply_select2 "المس للتحديث">
