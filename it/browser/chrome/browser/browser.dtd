@@ -461,3 +461,5 @@
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY webrtcIndicatorButton.label "Accesso fotocamera/microfono">
+<!ENTITY webrtcIndicatorButton.tooltip "Visualizza i siti con cui sono condivisi fotocamera o microfono">
