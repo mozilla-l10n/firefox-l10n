@@ -233,10 +233,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "Boîte à outils">
-<!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
+<!ENTITY devToolboxMenuItem.label          "Outils">
+<!ENTITY devToolboxMenuItem.accesskey      "t">
 
-<!ENTITY devToolbox.accesskey              "B">
+<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/fermer les outils pour les développeurs">
+
+<!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtenir d'autres outils">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "O">
