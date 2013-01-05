@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consola web">
 
-<!ENTITY networkPanel.requestURLColon             "URL da solicitude">
-<!ENTITY networkPanel.requestMethodColon          "Método da solicitude">
-<!ENTITY networkPanel.statusCodeColon             "Código de estado">
+<!ENTITY networkPanel.requestURLColon             "URL da solicitude:">
+<!ENTITY networkPanel.requestMethodColon          "Método da solicitude:">
+<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
 
 <!ENTITY networkPanel.requestHeaders              "Cabeceiras da solicitude">
 <!ENTITY networkPanel.requestCookie               "Cookie enviada">

@@ -615,3 +615,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Con acceso a cámara / micrófono">
+<!ENTITY webrtcIndicatorButton.tooltip "Amosa os sitios cos que actualmente está compartindo a cámara e o micrófono">
