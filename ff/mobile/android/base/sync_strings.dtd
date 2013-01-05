@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Cuɓe">
 <!ENTITY sync.summary.pair.label "Seŋ kaɓirgol goɗngol e konte maa &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Ko Syncetee">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sync…">
+<!ENTITY sync.configure.engines.title.bookmarks "Maantore maa">
+<!ENTITY sync.configure.engines.title.passwords "Finndeeji">
+<!ENTITY sync.configure.engines.title.history "Aslol">
+<!ENTITY sync.configure.engines.title.tabs "Tabbe">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Haaytu">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">
+<!ENTITY sync.notification.configure.saved "Labanɗe maa ndanndaama.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Innde konte walla finnde peewaani.">
