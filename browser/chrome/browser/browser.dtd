@@ -628,3 +628,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon att dela:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Kamera/mikrofonåtkomst">
+<!ENTITY webrtcIndicatorButton.tooltip "Visar platser som du delar din kamera eller mikrofon med">
