@@ -17,12 +17,12 @@
 <!ENTITY highestPriorityCmd.label "Màxima">
 
 <!ENTITY contextDesc.label "Aplica el filtre quan:">
-<!ENTITY contextDesc.accesskey "q">
-<!ENTITY contextIncoming.label "Es comprovi el correu">
+<!ENTITY contextIncomingMail.label "S'estan obtenint missatges nous:">
+<!ENTITY contextIncomingMail.accesskey "O">
 <!ENTITY contextManual.label "S'executi manualment">
-<!ENTITY contextBoth.label "Es comprovi el correu o s'executi manualment">
-<!ENTITY contextPostPlugin.label "Es comprovi el correu (després de classificar)">
-<!ENTITY contextPostPluginBoth.label "Es comprovi el correu (després de classificar) o s'executi manualment">
+<!ENTITY contextManual.accesskey "E">
+<!ENTITY contextBeforeCls.label "Filtra abans de classificar com a brossa">
+<!ENTITY contextAfterCls.label "Filtra després de classificar com a brossa">
 
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">

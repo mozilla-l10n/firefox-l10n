@@ -41,7 +41,7 @@
 <!ENTITY includeSigOnForward.accesskey        "r">
 
 <!ENTITY globalComposingPrefs.label           "Preferències globals de redacció...">
-<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalComposingPrefs.accesskey       "g">
 
 <!ENTITY globalAddressingPrefs.label          "Preferències globals d'adreçament...">
 <!ENTITY globalAddressingPrefs.accesskey      "P">

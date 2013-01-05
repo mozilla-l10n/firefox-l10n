@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permet al &searchIntegration.engineName; que cerqui missatges">
 <!ENTITY searchIntegration.accesskey   "c">
-<!ENTITY checkNow.label                "Comprova-ho ara">
-<!ENTITY checkNow.accesskey            "h">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Configuració avançada">
 <!ENTITY configEdit.label              "Editor de la configuració…">
 <!ENTITY configEdit.accesskey          "c">

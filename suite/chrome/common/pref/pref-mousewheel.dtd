@@ -14,7 +14,7 @@
 <!ENTITY doNothing.label                 "No fer res">
 <!ENTITY doNothing.accesskey             "f">
 <!ENTITY scrollDocument.label            "Desplaceu-vos pel document">
-<!ENTITY scrollDocument.accesskey        "S">
+<!ENTITY scrollDocument.accesskey        "s">
 <!ENTITY history.label                   "Mou enrere o endavant en l'historial de navegació">
 <!ENTITY history.accesskey               "h">
 <!ENTITY zoom.label                      "Augmenta o redueix la pàgina">
@@ -23,7 +23,7 @@
 <!ENTITY verticalSpeed.label             "Vertical:">
 <!ENTITY verticalSpeed.accesskey         "V">
 <!ENTITY verticalReverse.label           "Direcció inversa">
-<!ENTITY verticalReverse.accesskey       "R">
+<!ENTITY verticalReverse.accesskey       "r">
 <!ENTITY horizontalSpeed.label           "Horitzontal:">
 <!ENTITY horizontalSpeed.accesskey       "o">
 <!ENTITY horizontalReverse.label         "Direcció inversa">

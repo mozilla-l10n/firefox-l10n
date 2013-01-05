@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "El &brandShortName; pot avisar-vos de l'estat de seguretat de la pàgina web que estigueu visitant. Pot fer-se que el &brandShortName; mostri un avís i demani permís abans de:">
 <!ENTITY warn.enteringsecure                "Carregar una pàgina xifrada">
 <!ENTITY warn.enteringsecure.accesskey      "C">
-<!ENTITY warn.enteringweak                  "Carregar una pàgina d'un xifratge feble">
-<!ENTITY warn.enteringweak.accesskey        "b">
 <!ENTITY warn.insecurepost                  "Enviar dades de formulari d'una pàgina sense xifrar a una altra que tampoc ho estigui">
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Abandonar una pàgina amb xifratge">
