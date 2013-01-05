@@ -39,7 +39,7 @@
 <!ENTITY  showCookies.accesskey         "ع">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "ف">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "سيتذكر التأريخ">
 <!ENTITY  historyHeader.dontremember.label "لن يتذكر التأريخ أبدًا">
 <!ENTITY  historyHeader.custom.label       "سيستخدم إعدادات مخصصة للتأريخ">

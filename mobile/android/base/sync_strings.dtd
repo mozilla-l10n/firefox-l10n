@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "الخيارات">
 <!ENTITY sync.summary.pair.label "اربط جهازا آخر بحساب &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "ماذا سيُزامَن">
+<!ENTITY sync.configure.engines.sync.my.title.label "زامِن…">
+<!ENTITY sync.configure.engines.title.bookmarks "العلامات">
+<!ENTITY sync.configure.engines.title.passwords "كلمات السر">
+<!ENTITY sync.configure.engines.title.history "التأريخ">
+<!ENTITY sync.configure.engines.title.tabs "الألسنة">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "ألغِ">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "لا يُدعم إلا حساب &syncBrand.fullName.label; واحد.">
+<!ENTITY sync.notification.configure.saved "حُفظت اختياراتُك.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "اسم الحساب أو كلمة السر خطأ.">
@@ -90,6 +99,6 @@
 <!ENTITY sync.button.send.label "أرسِل">
 <!ENTITY sync.button.set.up.sync.label "اضبط &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; لإرسال الألسنة">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.shortName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "اضبط &syncBrand.fullName.label; على جهازك لإرسال الألسنة إلى الأجهزة الأخرى.">
 <!ENTITY sync.text.tab.sent.label "أُرسِل اللسان.">
 <!ENTITY sync.text.tab.not.sent.label "حدثت مشكلة أثناء إرسال اللسان.">
