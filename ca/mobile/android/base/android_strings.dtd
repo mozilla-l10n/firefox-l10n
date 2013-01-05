@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Tanca la pestanya">
 <!ENTITY new_tab "Pestanya nova">
 <!ENTITY one_tab "1 pestanya">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d pestanyes">
 <!ENTITY new_tab_opened "S\'ha obert una pestanya nova">
@@ -71,8 +71,13 @@
 <!ENTITY pref_do_not_track "Indica que no em segueixin">
 <!ENTITY pref_telemetry "Envia dades del rendiment">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
-<!ENTITY pref_cookies "Habilita les galetes">
-<!ENTITY pref_char_encoding "Mostra la codificació">
+
+<!ENTITY pref_cookies_menu "Galetes">
+<!ENTITY pref_cookies_accept_all "Habilitades">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
+<!ENTITY pref_cookies_disabled "Inhabilitades">
+
+<!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
 <!ENTITY pref_clear_private_data "Neteja les dades privades">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toqueu per engegar">
 <!ENTITY pref_plugins_disabled "Inhabilitat">
 <!ENTITY pref_text_size "Mida de la lletra">
+<!ENTITY pref_reflow_on_zoom2 "Pessigueu per a reajustar el flux del text">
 <!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
 <!ENTITY pref_private_data_siteSettings "Preferències dels lloc web">
 
+<!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
+<!ENTITY pref_update_autodownload_wifi "Només amb Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Inhabilitat">
+<!ENTITY pref_update_autodownload_enabled "Habilitat">
+
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Cerca a la pàgina">
 <!ENTITY desktop_mode "Sol·licita el lloc per a escriptori">
 <!ENTITY tools "Eines">
+<!ENTITY new_pb_tab "Obre una pestanya de navegació privada">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Les pestanyes de l\'última vegada">
 <!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
 <!ENTITY abouthome_top_sites_title "Els vostres llocs">
-<!ENTITY abouthome_top_sites_browse "Mostra\'m els meus llocs més habituals">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ de l\'Android">
 
 <!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_start_select2 "Toqueu per baixar">
- 
+
 <!ENTITY updater_downloading_title2 "S\'està baixant el &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ha fallat la baixada">
 <!ENTITY updater_downloading_select2 "Toqueu per aplicar l\'actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
- 
+
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">

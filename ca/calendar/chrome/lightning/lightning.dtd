@@ -21,9 +21,9 @@
 
 <!ENTITY lightning.menupopup.open.label               "Obre">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Desa el missatge…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "m">
-<!ENTITY lightning.menupopup.open.calendar.label      "Fitxer calendari…">
+<!ENTITY lightning.menupopup.open.message.label       "Missatge desat…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "M">
+<!ENTITY lightning.menupopup.open.calendar.label      "Fitxer de calendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 <!-- View Menu -->
 

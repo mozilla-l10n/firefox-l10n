@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "r">
 <!ENTITY dsnMenu.label "Notificació de l'estat del lliurament">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Format de lliurament">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Detecció automàtica">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Només text net">

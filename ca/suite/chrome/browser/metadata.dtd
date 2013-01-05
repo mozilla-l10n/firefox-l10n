@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Amplada:">
 <!ENTITY image-height.label    "Alçada:">
 <!ENTITY image-filesize.label  "Mida del fitxer:">
+<!ENTITY image-filesize.value  "Desconegut">
 <!ENTITY insdel-sec.label      "Insereix/Suprimeix les propietats">
 <!ENTITY insdel-cite.label     "Informació:">
 <!ENTITY insdel-date.label     "Data:">

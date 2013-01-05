@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integració amb el sistema">
+<!ENTITY acceptIntegration.label  "Set as Default">
+<!ENTITY cancelIntegration.label  "Skip Integration">
 <!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com a client per defecte per:">
 
 <!ENTITY email.label "Correu electrònic">
 <!ENTITY newsgroups.label "Grups de discussió">
 <!ENTITY feeds.label "Canals">
+
+<!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
 
 <!ENTITY checkOnStartup.label "Comprova-ho sempre quan s'inicia el &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "s">
