@@ -10,12 +10,6 @@
 
 <!ENTITY privatebrowsingpage.description               "Жекелік шолу режимінде &brandShortName; браузер, іздеулер, жүктемелер, веб-формалар тарихтарын, cookies пен уақытша интернет файлдарын сақтамайды. Бірақта, сіз жүктеген файлдар мен жасаған бетбелгілер сақталады.">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Соңғы қаралған беттер тарихын өшіру ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "бастасаңыз болады">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
-
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Жекелік шолу режимін бастау">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "Ж">
 

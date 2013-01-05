@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "О">
 <!ENTITY charsetMenuMore5.label        "Орталық Шығыс">
 <!ENTITY charsetMenuMore5.accesskey    "р">
-<!ENTITY charsetMenuUnicode.label      "Юникод">
-<!ENTITY charsetMenuUnicode.accesskey  "Ю">
 <!ENTITY charsetCustomize.label        "Тізімді баптау...">
 <!ENTITY charsetCustomize.accesskey    "Т">
