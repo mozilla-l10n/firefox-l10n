@@ -56,7 +56,7 @@
 <!ENTITY close_tab "टैब बंद करें">
 <!ENTITY new_tab "नया टैब">
 <!ENTITY one_tab "1 टैब">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
@@ -71,16 +71,22 @@
 <!ENTITY pref_do_not_track "साइट को मुझे ट्रैक करने मत कहें">
 <!ENTITY pref_telemetry "कार्यकुशलता आँकड़ा भेजें">
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
-<!ENTITY pref_cookies "कुकीज़ सक्रिय करें">
+
+<!ENTITY pref_cookies_menu "कूकीज">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
 <!ENTITY pref_clear_private_data "निजी आँकड़ा साफ़ करें">
 <!ENTITY pref_plugins "प्लगइन">
-<!ENTITY pref_plugins_enabled "सक्रिय">
+<!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "चलाने के लिए टैप करें">
-<!ENTITY pref_plugins_disabled "निष्क्रिय">
+<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_text_size "पाठ आकार">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "नन्हा">
 <!ENTITY pref_font_size_small "छोटा">
 <!ENTITY pref_font_size_medium "मझोला">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ऑफ़ाइल वेबसाइट आँकड़ा">
 <!ENTITY pref_private_data_siteSettings "साइट वरीयताएँ">
 
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
+
 <!ENTITY quit "निकास">
 
 <!ENTITY addons "सहयुक्ति">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "पृष्ठ में ढूँढें">
 <!ENTITY desktop_mode "डेस्कटॉप साइट के लिए आग्रह करें">
 <!ENTITY tools "Tools">
+<!ENTITY new_pb_tab "New Private Browsing Tab">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -183,7 +195,6 @@ size. -->
 टैब">
 <!ENTITY abouthome_last_tabs_open "पिछली बार के अपने सभी टैब खोलें">
 <!ENTITY abouthome_top_sites_title "टॉप साइटें">
-<!ENTITY abouthome_top_sites_browse "अपनी सभी टॉप साइटों को ब्राउज़ करें">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -242,11 +253,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
 <!ENTITY updater_start_select2 "Touch to download">
- 
+
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड कर रहा है">
 <!ENTITY updater_downloading_title_failed2 "Download failed">
 <!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
 <!ENTITY updater_downloading_retry2 "Touch to retry">
- 
+
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Touch to update">

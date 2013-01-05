@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "हमेशा पूछें">
 <!ENTITY permission.allow                "अनुमति दें">
 <!ENTITY permission.allowForSession      "सत्र के लिए अनुमति दें">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "केवल प्रथम पक्ष स्वीकारें">
 <!ENTITY permission.block                "रोकें">
 
 <!ENTITY password.label                  "कूटशब्द भंडारित करें">
