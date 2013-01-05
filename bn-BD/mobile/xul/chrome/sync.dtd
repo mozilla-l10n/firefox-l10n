@@ -14,8 +14,8 @@
 <!ENTITY sync.setup.title           "সিঙ্কে সংযুক্ত করুন">
 <!ENTITY sync.setup.pair            "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির; &#x0022;Pair a Device#x0022 নির্বাচন করুন।">
 <!ENTITY sync.fallback              "আমি আমার কম্পিউটারের কাছে নেই...">
-<!ENTITY sync.setup.manual          "আপনার সিঙ্ক অ্যাকাউন্ট (a) তথ্য প্রবেশ করান">
-<!ENTITY sync.account               "অ্যাকাউন্ট (a) নাম">
+<!ENTITY sync.setup.manual          "আপনার সিঙ্ক অ্যাকাউন্ট তথ্য প্রবেশ করান">
+<!ENTITY sync.account               "অ্যাকাউন্টের নাম">
 <!ENTITY sync.password              "পাসওয়ার্ড">
 <!ENTITY sync.recoveryKey           "পুনরুদ্ধার কী">
 <!ENTITY sync.customServer          "স্বনির্ধারিত সার্ভার ব্যবহার করুন">

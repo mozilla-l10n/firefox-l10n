@@ -45,7 +45,7 @@
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "নথি মেয়াদউত্তীর্ণ হয়েছে">
+<!ENTITY notCached.title "ডকুমেন্ট মেয়াদউত্তীর্ণ হয়েছে">
 <!ENTITY notCached.longDesc "<p>&brandShortName;' এর ক্যাশে আপনি যে নথিটি চেয়েছেন তা পাওয়া যাচ্ছে না।</p><ul><li>নিরাপত্তার জন্য, &brandShortName; নাজুক নথির জন্য পুনরায় অনুরোধ পাঠাবে না।</li><li>আবার চেষ্টা করুন বাটনে ক্লিক করে ওয়েবসাইট থেকে নথিটি পুনরায় অনুরোধ করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">

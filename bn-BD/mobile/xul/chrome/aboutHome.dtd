@@ -32,4 +32,4 @@
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.syncPairDevice       "যন্ত্র যুগলবন্দি করুন">
+<!ENTITY aboutHome.syncPairDevice       "ডিভাইস পেয়ার করুন">

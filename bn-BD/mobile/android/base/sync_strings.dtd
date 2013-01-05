@@ -11,7 +11,7 @@
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "syncBrand.shortName.label; এ সংযুক্ত করুন">
 <!ENTITY sync.title.adddevice.label "একটি &syncBrand.fullName.label; একাউন্ট সংযুক্ত করুন">
-<!ENTITY sync.title.pair.label "যন্ত্র যুগলবন্দি করুন">
+<!ENTITY sync.title.pair.label "ডিভাইস পেয়ার করুন">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "নতুন ডিভাইস কার্যকর করতে, ডিভাইসের “syncBrand.shortName.label সেটআপ;” নির্বাচন করুন">
@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন।">
 <!ENTITY sync.link.advancedsetup.label "উন্নত সেটআপ…">
-<!ENTITY sync.link.nodevice.label "আমার কাছে ডিভাইসটি নেই…">
+<!ENTITY sync.link.nodevice.label "আমার\ কাছে ডিভাইসটি নেই…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডি‌ভাইসের জন্য অপেক্ষা করুন…">
@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label "ম্যানুয়াল সেটআপ">
 <!ENTITY sync.subtitle.nointernet.label "কোনো নেটওয়ার্ক সংযোগ নেই।">
 <!ENTITY sync.subtitle.failaccount.label "আপনার ডিভাইস অ্যাকাউন্ট সৃষ্টিতে ব্যর্থ হয়েছে।">
-<!ENTITY sync.subtitle.failmultiple.label "আপনার কি একাধিক ফায়ারফক্স ইনস্টল করা আছে? সাম্প্রতিক, &syncBrand.fullName.label; শুধুমাত্র একই সময়ে একটি মাত্র ফায়ারফক্স ইনস্টলেশন সমর্থন করে। syncBrand.shortName.label ব্যবহারের জন্য অনুগ্রহ করে অন্যান্য ইনস্ট্যান্স আনইনস্টল করুন;">
+<!ENTITY sync.subtitle.failmultiple.label "আপনার কি একাধিক ফায়ারফক্স ইনস্টল করা আছে? সাম্প্রতিক, &syncBrand.fullName.label; শুধুমাত্র একই সময়ে একটি মাত্র ফায়ারফক্স ইনস্টলেশন সমর্থন করে। &syncBrand.shortName.label; ব্যবহারের জন্য অনুগ্রহ করে অন্যান্য ইনস্ট্যান্স আনইনস্টল করুন।">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "সেটআপ সম্পন্ন">
@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "অপশন">
 <!ENTITY sync.summary.pair.label "আপনার syncBrand.shortName.label এর সাথে অন্য ডিভাইস লিঙ্ক করুন; একাউন্ট">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "কি সিঙ্ক করতে হবে">
+<!ENTITY sync.configure.engines.sync.my.title.label "সিঙ্ক আপনার...">
+<!ENTITY sync.configure.engines.title.bookmarks "বুকমার্ক">
+<!ENTITY sync.configure.engines.title.passwords "পাসওয়ার্ড">
+<!ENTITY sync.configure.engines.title.history "ইতিহাস">
+<!ENTITY sync.configure.engines.title.tabs "ট্যাব">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "বাতিল">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "শুধুমাত্র একটি &syncBrand.fullName.label; অ্যাকাউন্ট সমর্থিত।">
+<!ENTITY sync.notification.configure.saved "আপনার নির্বাচিত অংশ সংরক্ষণ করা হয়েছে।">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "একাউন্ট নাম বা পাসওয়ার্ডে ভুল।">
