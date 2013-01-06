@@ -154,7 +154,7 @@ size. -->
 <!ENTITY find_close "Pechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
-<!ENTITY contextmenu_open_new_private_tab "Abrir nunha nova lapela privada">
+<!ENTITY contextmenu_open_private_tab "Abrir nunha lapela privada">
 <!ENTITY contextmenu_open_in_reader "Abrir no lector">
 <!ENTITY contextmenu_remove_history "Retirar">
 <!ENTITY contextmenu_remove_bookmark "Retirar">
