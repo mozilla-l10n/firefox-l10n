@@ -1,15 +1,19 @@
-<!ENTITY  blockPopups.label           "Жижиг цонхыг хорих">
-<!ENTITY  blockPopups.accesskey       "Ж">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  blockPopups.label           "Block pop-up windows">
+<!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  popupExceptions.accesskey   "ш">
 
-<!ENTITY  loadImages.label            "Зургийг автоматаар дууд">
-<!ENTITY  loadImages.accesskey        "З">
+<!ENTITY  loadImages.label            "Load images automatically">
+<!ENTITY  loadImages.accesskey        "I">
 <!ENTITY  exceptions.label            "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  exceptions.accesskey        "д">
 
-<!ENTITY  enableJavaScript.label      "Жааваскриптийг зөвшөөр">
-<!ENTITY  enableJavaScript.accesskey  "а">
+<!ENTITY  enableJavaScript.label      "Enable JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Нэмэлт…">
 <!ENTITY  advancedJS.accesskey        "м">
 
@@ -17,18 +21,19 @@
 <!ENTITY  enableJava.accesskey        "ш">
 
 
-<!ENTITY  fontsAndColors.label        "Үсгийн маяг ба Өнгө">
+<!ENTITY  fontsAndColors.label        "Fonts &amp; Colors">
 
 <!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
 <!ENTITY  defaultFont.accesskey       "я">
-<!ENTITY  defaultSize.label           "Хэмжээ:">
-<!ENTITY  defaultSize.accesskey       "э">
+<!ENTITY  defaultSize.label           "Size:">
+<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Нэмэлт…">
 <!ENTITY  advancedFonts.accesskey     "м">
 
-<!ENTITY  colors.label                "Өнгө…">
-<!ENTITY  colors.accesskey            "н">
+<!ENTITY  colors.label                "Colors…">
+<!ENTITY  colors.accesskey            "C">
+
 
 <!ENTITY languages.label              "Хэл">
 <!ENTITY chooseLanguage.label         "Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу">

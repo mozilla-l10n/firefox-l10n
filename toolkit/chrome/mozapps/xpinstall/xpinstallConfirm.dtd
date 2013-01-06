@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title "Програм суулгац">
-<!ENTITY dialog.style            "width: 52em">
-<!ENTITY warningPrimary.label "Зөвхөн итгэмжлэгдсэн зохиогчийн нэмэгдлийг суулгах хэрэгтэй.">
-<!ENTITY warningSecondary.label "Зарим програм нь таны хувийн мэдээллийг илрүүлэх эсвэл компьютер эвдэх чадвартай байдаг.">
-
-<!ENTITY from.label "хаанаас:">
-
