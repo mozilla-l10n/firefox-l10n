@@ -174,9 +174,10 @@
 <!ENTITY devToolbarMenu.accesskey "а">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolbarToolsButton.label "Показать/скрыть инструменты">
+<!ENTITY devToolboxMenuItem.label "Показать/скрыть инструменты">
+<!ENTITY devToolboxMenuItem.accesskey "а">
+<!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработчика">
 <!ENTITY devToolbarOtherToolsButton.label "Другие инструменты">
-<!ENTITY devToolbox.accesskey "а">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
@@ -461,3 +462,5 @@
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
+<!ENTITY webrtcIndicatorButton.label "Доступ к Камере / Микрофону">
+<!ENTITY webrtcIndicatorButton.tooltip "Показать сайты, которые сейчас имеют доступ к вашей камере или микрофону">
