@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "கணக்கை நிர்வகி">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.accesskey      "க">
 <!ENTITY viewQuota.label              "ஒதுக்கீடை பார்">
 <!ENTITY changePassword2.label        "கடவுச்சொல்லை மாற்றவும்...">
 <!ENTITY myRecoveryKey.label          "என் மீட்பு விசை">

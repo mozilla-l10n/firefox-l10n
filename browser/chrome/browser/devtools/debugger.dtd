@@ -15,17 +15,17 @@
 
 <!ENTITY debuggerMenu.label2            "Debugger">
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools meny entry of Debugger that opens the debugger UI. -->
+  -  Tools menu entry of Debugger that opens the debugger UI. -->
 
 <!ENTITY debuggerMenu.accesskey         "D">
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 
-<!ENTITY remoteDebuggerMenu.label       "Remote Debugger">
+<!ENTITY remoteDebuggerMenu.label       "தொலைநிலை வழுநீக்கி">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
 
-<!ENTITY chromeDebuggerMenu.label       "Browser Debugger">
+<!ENTITY chromeDebuggerMenu.label       "உலாவி வழுநீக்கி">
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
 
@@ -33,12 +33,46 @@
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 
-<!ENTITY debuggerUI.closeButton.tooltip "Close">
+<!ENTITY debuggerUI.closeButton.tooltip "மூடு">
+<!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
+  -  the button that opens up an options context menu for the debugger UI. -->
+
+<!ENTITY debuggerUI.optsButton.tooltip  "வழுநீக்கி விருப்பங்கள்">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions     "Pause on exceptions">
+<!ENTITY debuggerUI.pauseExceptions     "விலக்கங்களில் இடைநிறுத்து">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
+  -  checkbox that toggles visibility of panes when opening the debugger. -->
+
+<!ENTITY debuggerUI.showPanesOnInit     "தொடக்கத்தில் பேன்களைக் காண்பி">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!-- LOCALIZATION NOTE (debuggerUI.showVarsSearch): This is the label for the
+  -  checkbox that toggles visibility of a designated variables searchbox. -->
+
+<!ENTITY debuggerUI.showVarsSearch      "மாறிகள் தேடல் பெட்டியைக் காண்பி">
+<!ENTITY debuggerUI.showVarsSearch.key  "V">
+<!-- LOCALIZATION NOTE (debuggerUI.showNonEnums): This is the label for the
+  -  checkbox that toggles visibility of hidden (non-enumerable) variables and
+  -  properties in stack views. -->
+
+<!ENTITY debuggerUI.showNonEnums        "மறைந்துள்ள பண்புகளைக் காண்பி">
+<!ENTITY debuggerUI.showNonEnums.key    "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 
-<!ENTITY debuggerUI.searchPanelTitle    "Operators">
+<!ENTITY debuggerUI.searchPanelTitle    "ஆப்ரேட்டர்கள்">
+<!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
+  -  appears in the conditional breakpoint panel popup as a description. -->
+
+<!ENTITY debuggerUI.condBreakPanelTitle "பின்வரும் தொடர்கள் மெய் என்றபட்சத்தில் மட்டுமே இந்த ப்ரேக்பாயின்ட்டானது செயல்படுத்தலை நிறுத்தும்">
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for adding a breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuBreak         "ப்ரேக்பாயின்ட்டைச் சேர்">
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
+  -  appears in the source editor context menu for adding a conditional
+  -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "நிபந்தனையுள்ள ப்ரேக்பாயின்ட்டைச் சேர்">

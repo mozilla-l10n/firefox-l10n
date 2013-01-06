@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "இணைப்பில்லாமல் வேலைசெய்">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "மெனு பட்டை">
 <!ENTITY menubarCmd.accesskey "M">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "சாளரத்தை மூடு">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "புத்தகக்குறிகள்">
+<!ENTITY bookmarksMenu.label "Bookmarks">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -159,9 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "சந்தாப்படுத்து">
 <!ENTITY feedButton.tooltip           "இந்தப் பக்கத்தை சந்தாப்படுத்தவும்…">
 
-<!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
+<!ENTITY bookmarksButton.label          "Bookmarks">
 <!ENTITY bookmarksButton.tooltip        "உங்கள் புத்தகக்குறிகளை காட்டவும்">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "வரலாறு">
 <!ENTITY historyButton.tooltip          "நீங்கள் சமீபத்தில் பார்த்த பக்கங்களை காட்டு">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "கருவிகள்">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "வலை பணியகம்">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "ஆய்வு செய்">
 <!ENTITY inspectMenu.accesskey        "I">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "திருத்து"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "செயல்நீக்கு">
 <!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">

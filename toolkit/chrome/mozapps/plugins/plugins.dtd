@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "க்ராஷ் அறிக்கையிடுதல் செயல்நீக்கப்பட்டது.">
 <!ENTITY report.failed                                       "சமர்ப்பித்தல் தோல்வியுற்றது.">
 <!ENTITY report.unavailable                                  "அறிக்கை எதுவும் இல்லை.">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">
