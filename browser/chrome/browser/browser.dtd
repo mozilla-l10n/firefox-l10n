@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  closeOtherTabs.label               "आन टैब बंद करू">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "अनुप्रयोग रूपेँ टैब पिन करू">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "टैबक पिन निकालू">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "टैबक पिन निकालू">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "समूहमे घसकाउ">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "नव समूह">
@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "ऑफ़लाइन काम करू">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "विंडो बंद करू">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "पुस्तकचिह्न">
+<!ENTITY bookmarksMenu.label "Bookmarks">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ई पृष्ठ पुस्तकचिह्नित करू">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -159,9 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "सदस्यता लिअ' ">
 <!ENTITY feedButton.tooltip           "ई पृष्ठ क सदस्यता लिअ'…">
 
-<!ENTITY bookmarksButton.label          "पुस्तकचिह्न">
+<!ENTITY bookmarksButton.label          "Bookmarks">
 <!ENTITY bookmarksButton.tooltip        "अपन पुस्तकचिह्न देखाउ">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिह्न">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "इतिहास">
 <!ENTITY historyButton.tooltip          "पृष्ठ देखाउ जकरा अहाँ हाल मे देखने छी">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "अओजार">
@@ -207,9 +205,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "वेब कंसोल">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
-<!ENTITY inspectMenu.label            "जाँचू">
-<!ENTITY inspectMenu.accesskey        "T">
+<!ENTITY inspectMenu.label            "Inspect">
+<!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "तत्व जाँचू">
@@ -235,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "इंस्पेक्टर बन्न करू">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "डेवलेपरक टूलबार बन्न करू">
 <!ENTITY devToolbarMenu.label              "डेवलेपर टूलबार (v)">
@@ -242,9 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
-
-<!ENTITY webConsoleButton.label "वेबक कंसोल">
-<!ENTITY inspectorButton.label "इंस्पेक्टर">
 
 <!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नकल लिअ">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
@@ -279,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "नव विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -450,7 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "एहिना आडियो सहेजू…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Email Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Email Audio…">
@@ -534,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "नव टैब खोलू">
 <!ENTITY newWindowButton.tooltip        "नव विंडो खोलू">
-<!ENTITY sidebarCloseButton.tooltip     "बाज़ू पट्टी बंद करू">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "काटू">
 <!ENTITY copyButton.tooltip             "नकल करू">
@@ -621,9 +620,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ब्राउजर टैब">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "आन कंप्यूटर सँ टैब">
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -659,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Undo">
 <!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
