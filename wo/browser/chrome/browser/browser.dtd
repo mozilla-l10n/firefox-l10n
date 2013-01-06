@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Mandarga xët yi">
 <!ENTITY bookmarksButton.tooltip        "Wone say mandarga xët">
-<!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Jaar jaar">
 <!ENTITY historyButton.tooltip          "Wone xët yi ñu seet bu yaggul">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Jumtukaay yi">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Konsolu Web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Konsolu web bu sori">
 
 <!ENTITY inspectMenu.label            "Seet">
 <!ENTITY inspectMenu.accesskey        "S">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Palanteer bu bees">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newPrivateWindow.label     "Panlanteeru biir bu bees">
+<!ENTITY newPrivateWindow.accesskey "b">
 
 <!ENTITY editMenu.label         "Jagal"> 
 <!ENTITY editMenu.accesskey       "J"> 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Neenal">
 <!ENTITY social.activated.undobutton.accesskey "N">
+
+<!ENTITY social.chatBar.commandkey "c">

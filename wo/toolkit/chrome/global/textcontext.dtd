@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "Y">
 <!ENTITY spellUndoAddToDictionary.label "Neenal yokk ci teere baat bi">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "Settantal mbind mi">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckToggle.label "Settantal mbind mi">
+<!ENTITY spellCheckToggle.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Amul baatu xelal)">
 <!ENTITY spellDictionaries.label "Lammiñ yi">
 <!ENTITY spellDictionaries.accesskey "L">

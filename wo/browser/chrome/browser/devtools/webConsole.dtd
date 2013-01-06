@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Konsolu Web">
 
-<!ENTITY networkPanel.requestURL                  "URL laaj bi">
-<!ENTITY networkPanel.requestMethod               "Yoonu laaj bi">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURLColon             "Laaj URL:">
+<!ENTITY networkPanel.requestMethodColon          "Yoonu laaj:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "Boppi laaj bi">
 <!ENTITY networkPanel.requestCookie               "Kuki bu ñu yónnee">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Rootaani formileer yi ñu yónnee">
 
 <!ENTITY networkPanel.responseHeaders             "Boppi tontu li">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Ëmbu tontu bi">
 <!ENTITY networkPanel.responseBodyCached          "Rootaan yi nëbbu">
 <!ENTITY networkPanel.responseBodyUnknownType     "Ëmb bu ni mel xameesuko">

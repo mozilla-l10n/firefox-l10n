@@ -43,6 +43,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Taamu yu am solo yu ñu soppi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
 <!ENTITY aboutSupport.modifiedPrefsValue "Solo">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "Taamu jëfandikookat.js">
+<!ENTITY aboutSupport.userJSDescription "Sa wayndare jëmm dafa ëmb <a id='prefs-user-js-link'>dencukaay jëfandikookat.js</a>, te am ay taamu yu &brandShortName; sosul.">
 
 <!ENTITY aboutSupport.graphicsTitle "Làbbali">
 

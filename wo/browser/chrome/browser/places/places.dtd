@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Wut:">
 <!ENTITY search.accesskey                          "W">
 
-<!ENTITY search.in.label                           "Wut ci biir:">
-<!ENTITY search.scopeFolder.label                  "Wayndare bi falu">
-<!ENTITY search.scopeFolder.accesskey              "f">
-<!ENTITY search.scopeBookmarks.label               "Mandarga xët">
-<!ENTITY search.scopeBookmarks.accesskey           "M">
-<!ENTITY search.scopeDownloads.label               "Yeb yi">
-<!ENTITY search.scopeDownloads.accesskey           "Y">
-<!ENTITY search.scopeHistory.label                 "Jaar jaar">
-<!ENTITY search.scopeHistory.accesskey             "J">
-<!ENTITY saveSearch.label                          "Aar">
-<!ENTITY saveSearch.accesskey                      "A">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Fat te aar">

@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Tëj koñ bi">
 <!ENTITY new_tab "Koñ bu bees">
 <!ENTITY one_tab "1 koñ">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d koñ">
 <!ENTITY new_tab_opened "Koñ bu bees ubbeekuna">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Waxal ñu bañ ma topp">
 <!ENTITY pref_telemetry "Joxe ngoora rootaan yi">
 <!ENTITY pref_remember_signons "Fattaliku baatu jàll">
-<!ENTITY pref_cookies "Jox ndigal kuki yi">
+
+<!ENTITY pref_cookies_menu "Kuki yi">
+<!ENTITY pref_cookies_accept_all "Suqaliku">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Suuxal">
+
 <!ENTITY pref_char_encoding "Suulale araf yi">
 <!ENTITY pref_char_encoding_on "Wone njël li">
 <!ENTITY pref_char_encoding_off "Nëbb njël li">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Laal mu tàkk">
 <!ENTITY pref_plugins_disabled "Suuxal">
 <!ENTITY pref_text_size "Dayo mbind mi">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Tuuti lool">
 <!ENTITY pref_font_size_small "Tuuti">
 <!ENTITY pref_font_size_medium "Yam ci digg bi">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Rotaani dalub web yu jokkoowul">
 <!ENTITY pref_private_data_siteSettings "Taamu dalub web">
 
+<!ENTITY pref_update_autodownload "Yeesali boppam">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Suuxal">
+<!ENTITY pref_update_autodownload_enabled "Suqali">
+
 <!ENTITY quit "Génn">
 
 <!ENTITY addons "Modilu mottali">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Wut ci biir xët wi">
 <!ENTITY desktop_mode "Xool sumbu ordinatëër bi">
 <!ENTITY tools "Jumtukaay yi">
+<!ENTITY new_pb_tab "New Private Browsing Tab">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Say koñ yi mujj ubbeeku">
 <!ENTITY abouthome_last_tabs_open "Ubbil mandarga yépp">
 <!ENTITY abouthome_top_sites_title "Dalub web yu xejj yi">
-<!ENTITY abouthome_top_sites_browse "Seetal say dal yu xéjj yépp">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ dale ko ci Android">
 
 <!ENTITY updater_start_title2 "Yeesal bu feex bu &brandShortName;">
 <!ENTITY updater_start_select2 "Laal ngir yeb">
- 
+
 <!ENTITY updater_downloading_title2 "Yebum &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Yeb bi lajj na">
 <!ENTITY updater_downloading_select2 "Laal ngir def yeesal bi bu yeb bi paree">
 <!ENTITY updater_downloading_retry2 "Laal ngir jéemaat">
- 
+
 <!ENTITY updater_apply_title2 "Yeesal bu feex bu &brandShortName;">
 <!ENTITY updater_apply_select2 "Laal ngir yeesal">

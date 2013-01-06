@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Raapooru ngiroo bi suux na.">
 <!ENTITY report.failed                                       "Yoonee bi lajj na.">
 <!ENTITY report.unavailable                                  "Amul raapoor bu féex">
+
+<!ENTITY plugin.file                                         "Dencukaay">
+<!ENTITY plugin.mimeTypes                                    "Giiru MIME">

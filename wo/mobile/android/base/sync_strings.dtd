@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Tànneef yi">
 <!ENTITY sync.summary.pair.label "Boole beneen aparey ci sa koont &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks "Mandarga xët yi">
+<!ENTITY sync.configure.engines.title.passwords "Baatu jàll">
+<!ENTITY sync.configure.engines.title.history "Jaar jaar">
+<!ENTITY sync.configure.engines.title.tabs "Etiket">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Neenal">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Benn koont &syncBrand.fullName.label; rekk moon la ñu mëna saytu.">
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Turu koont walla baatu jàll bu jaaduwul.">
