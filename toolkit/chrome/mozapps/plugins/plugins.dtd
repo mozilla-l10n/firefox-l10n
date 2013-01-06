@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Pelaporan crash dimatikan.">
 <!ENTITY report.failed                                       "Pengiriman gagal.">
 <!ENTITY report.unavailable                                  "Tidak ada laporan yang tersedia.">
+
+<!ENTITY plugin.file                                         "Berkas">
+<!ENTITY plugin.mimeTypes                                    "Jenis MIME">

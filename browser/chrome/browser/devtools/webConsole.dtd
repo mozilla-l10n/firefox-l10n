@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Web Console">
 
-<!ENTITY networkPanel.requestURL                  "URL Permintaan">
-<!ENTITY networkPanel.requestMethod               "Metode Permintaan">
-<!ENTITY networkPanel.statusCode                  "Kode Status">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "Header Permintaan">
 <!ENTITY networkPanel.requestCookie               "Kuki Terkirim">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Data Form Terkirim">
 
 <!ENTITY networkPanel.responseHeaders             "Header Balasan">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Isi Balasan">
 <!ENTITY networkPanel.responseBodyCached          "Data dalam Tembolok">
 <!ENTITY networkPanel.responseBodyUnknownType     "Jenis Konten Tidak Dikenal">

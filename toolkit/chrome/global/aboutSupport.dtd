@@ -44,6 +44,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pengaturan Penting yang Diubah">
 <!ENTITY aboutSupport.modifiedPrefsName "Nama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "Preferensi user.js">
+<!ENTITY aboutSupport.userJSDescription "Folder profil Anda berisi sebuah <a id='prefs-user-js-link'>berkas user.js</a>, yang berisi data preferensi yang tidak diciptakan oleh &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 

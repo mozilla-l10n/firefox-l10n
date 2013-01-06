@@ -28,9 +28,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "Jadikan Tab Permanen">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Pindahkan ke Kelompok Tab">
 <!ENTITY  moveToGroup.accesskey              "K">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Markah">
 <!ENTITY bookmarksButton.tooltip        "Menampilkan markah Anda">
-<!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Markah">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Riwayat">
 <!ENTITY historyButton.tooltip          "Menampilkan riwayat laman yang baru saja dilihat">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alat">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Konsol Web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Konsol Web Daring">
 
 <!ENTITY inspectMenu.label            "Inspeksi">
 <!ENTITY inspectMenu.accesskey        "I">
@@ -230,19 +229,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Tutup Inspektur">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Tutup bilah samping">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.label              "Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.accesskey          "P">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarOtherToolsButton.label  "Alat Lainnya">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Salin Kode HTML di Sisi Dalam">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "M">
@@ -277,12 +276,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
+<!ENTITY newPrivateWindow.label     "Jendela Penyamaran Baru">
+<!ENTITY newPrivateWindow.accesskey "y">
 
 <!ENTITY editMenu.label         "Edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Batal">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "B"> 
 <!ENTITY redoCmd.label            "Ulangi">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "U"> 
@@ -646,14 +647,16 @@ toolbar button -->
 <!ENTITY socialToolbar.title        "Tombol Bilah Alat Sosial">
 <!ENTITY social.notLoggedIn.label   "Tidak masuk">
 
-<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.label       "Oke">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
+<!ENTITY social.toggleSidebar.label "Tampilkan bilah samping">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.label "Tampilkan notifikasi desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Undo">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.label "Batal">
+<!ENTITY social.activated.undobutton.accesskey "B">
+
+<!ENTITY social.chatBar.commandkey "o">
