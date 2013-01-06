@@ -16,7 +16,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Máy chủ">
-<!ENTITY serverType.default.label      "Máy chủ mặc định: Mozilla @syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Máy chủ mặc định: Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Dùng một máy chủ tùy biến…">
 <!ENTITY signIn.account2.label      "Tài khoản">
 <!ENTITY signIn.account2.accesskey  "i">
