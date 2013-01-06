@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "Tentang Tentang">
-<!ENTITY aboutAbout.note   "Ini adalah satu senarai “tentang” laman untuk kesenangan anda. 
-<br/>Beberapa...">
+<!ENTITY aboutAbout.note   "Ini adalah satu senarai “tentang” laman untuk kesenangan anda.<br/> 
+Sesetengah daripada mereka mungkin jadi musykil. Beberapa ia untuk tujuan diagnostik sahaja.<br/>Dan beberapa ia dikeluarkan kerana mereka memerlukan rentetan query. ">

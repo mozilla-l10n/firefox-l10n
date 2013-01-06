@@ -78,7 +78,7 @@
 <!ENTITY escrowWarn.benefit1 "Faedahnya adalah jika anda hilang apaian kepada kunci peribadi penyulitan anda, anda boleh memohon salinannya daripada autoriti sijil ini.">
 <!ENTITY escrowWarn.message2 "Bagaimanapun, kunci peribadi akan disimpan oleh autoriti sijil, dan akan digunakan untuk membaca emel dan dokumen tersulit anda tanpa keizinan anda.">
 <!ENTITY examineCert.label "Lihat Sijil">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.accesskey "L">
 
 <!ENTITY serverCrlNextupdate.message "Sila bertanya pentadbir sistem anda untuk bantuan">
 <!-- Strings for the CreateCertInfo dialog  -->

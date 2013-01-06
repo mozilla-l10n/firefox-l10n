@@ -15,15 +15,15 @@
 <!ENTITY devmgr.version.label                   "Versi">
 
 <!ENTITY devmgr.button.changeslotname.label     "Tukar Nama Slot">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
+<!ENTITY devmgr.button.changeslotname.accesskey "T">
 <!ENTITY devmgr.button.login.label              "Log Masuk">
-<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.login.accesskey          "s">
 <!ENTITY devmgr.button.logout.label             "Log Keluar">
 <!ENTITY devmgr.button.logout.accesskey         "o">
 <!ENTITY devmgr.button.changepw.label           "Tukar Katalaluan">
-<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.changepw.accesskey       "K">
 <!ENTITY devmgr.button.load.label               "Muat">
-<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.load.accesskey           "M">
 <!ENTITY devmgr.button.unload.label             "Nyahmuat">
 <!ENTITY devmgr.button.unload.accesskey         "u">
 <!ENTITY devmgr.button.fips.accesskey           "F">

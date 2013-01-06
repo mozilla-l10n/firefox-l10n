@@ -41,11 +41,11 @@
 <!ENTITY downloadsSummary.minWidth        "28ch">
 
 <!ENTITY cmd.pause.label                  "Jeda">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "J">
 <!ENTITY cmd.resume.label                 "Sambung">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Membatalkan">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.resume.accesskey             "S">
+<!ENTITY cmd.cancel.label                 "Batal">
+<!ENTITY cmd.cancel.accesskey             "B">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -56,8 +56,8 @@
 <!ENTITY cmd.showMac.label                "Tunjuk Dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Cuba semula">
-<!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muatturun">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muat turun">
+<!ENTITY cmd.goToDownloadPage.accesskey   "P">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Buang Dari Senarai">

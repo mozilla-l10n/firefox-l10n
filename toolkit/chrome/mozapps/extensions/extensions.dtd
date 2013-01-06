@@ -87,7 +87,7 @@
 <!ENTITY cmd.disableAddon.label               "Lumpuhkan">
 <!ENTITY cmd.disableAddon.accesskey           "L">
 <!ENTITY cmd.enableTheme.label                "Tema Digunakan">
-<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
 <!ENTITY cmd.disableTheme.accesskey           "B">
 <!ENTITY cmd.installAddon.label               "Install">
@@ -114,7 +114,8 @@
 <!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with 
 kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName; 
 anda sendiri.">
-<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke Internet, anak tetingkap ini akan memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba. ">
+<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke Internet, anak tetingkap ini akan 
+ memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba. ">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versi">

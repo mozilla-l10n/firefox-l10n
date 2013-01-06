@@ -11,8 +11,10 @@
 <!ENTITY  pluginupdateslink.label         "Lihat bagaimana untuk menaiktarafkan plugin anda.">
 
 <!ENTITY  noupdatesfound.title            "Tiada Kemaskinian Ditemui">
-<!ENTITY  noupdatesautoenabled.intro      "Tiada penambahbaikan yang boleh digunakan. &brandShortName; akan memeriksa secara berkala bagi penambahbaikan.">
-<!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan &brandShortName;'s penyemakan penambahbaikan automatik">
+<!ENTITY  noupdatesautoenabled.intro      "Tiada penambahbaikan yang boleh digunakan. &brandShortName; akan memeriksa 
+ secara berkala bagi penambahbaikan.">
+<!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan 
+ &brandShortName;'s penyemakan penambahbaikan automatik">
 
 <!ENTITY  manualUpdate.title              "Kemaskini tidak boleh dilakukan">
 <!ENTITY  manualUpdate.desc               "Satu kemaskini perlindungan dan kestabilan yang disyorkan sudah tersedia, tetapi anda 
@@ -81,7 +83,8 @@ boleh mula semula &brandShortName; sekarang atau teruskan bekerja dan mula semul
 dimuat turun dan sedia untuk dipasang.">
 <!ENTITY  finishedBackground.name         "Kemaskini:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Pengemaskinian tersebut akan dipasang pada masa akan datang apabila &brandShortName; dimulakan. Anda boleh mulakan semula &brandShortName; sekarang, atau teruskan pengunaan dan mulakan semula lain kali.">
+<!ENTITY  finishedBackground.more         "Pengemaskinian tersebut akan dipasang pada masa akan datang apabila &brandShortName; dimulakan. Anda 
+ boleh mulakan semula &brandShortName; sekarang, atau teruskan pengunaan dan mulakan semula lain kali.">
 
 <!ENTITY  installed.title                 "Kemaskinian Dipasang">
 <!ENTITY  installed.intro                 "Kemaskinian telah berjaya dipasang.">

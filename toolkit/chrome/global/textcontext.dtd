@@ -5,22 +5,22 @@
 <!ENTITY cutCmd.label "Potong">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "S">
 <!ENTITY pasteCmd.label "Tampal">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "Batalkan">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.label "Kembali Asal">
+<!ENTITY undoCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.label "Padam">
+<!ENTITY deleteCmd.accesskey "P">
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
 <!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellUndoAddToDictionary.label "Undur telah ditambah ke dalam kamus">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Semak Ejaan">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "j">
 <!ENTITY spellNoSuggestions.label "(Tiada cadangan ejaan)">
 <!ENTITY spellDictionaries.label "Bahasa">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.accesskey "B">

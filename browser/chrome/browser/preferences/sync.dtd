@@ -4,7 +4,7 @@
 <!-- The page shown when not logged in... -->
 
 <!ENTITY setupButton.label          "Tubuhkan &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
+<!ENTITY setupButton.accesskey      "T">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua alat.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
@@ -39,7 +39,7 @@
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "m">
 <!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
 <!-- Footer stuff -->
 

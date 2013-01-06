@@ -19,10 +19,10 @@
 <!ENTITY certmgr.cas                          "Anda memiliki sijil pada fail yang mengenal autoriti sijil ini:">
 <!ENTITY certmgr.orphans                      "Anda mempunyai sijil pada fail yang tidak sesuai dalam mana-mana katogori:">
 
-<!ENTITY certmgr.detail.general_tab.title     "Am">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.title     "Umum">
+<!ENTITY certmgr.detail.general_tab.accesskey "U">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Perincian">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "P">
 
 <!ENTITY certmgr.pending.label                "Sijil sedang disahkan...">
 <!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
@@ -69,7 +69,7 @@
 <!ENTITY certmgr.serial                       "Nombor Siri">
 
 <!ENTITY certmgr.close.label                  "Tutup">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.accesskey              "T">
 <!ENTITY certmgr.view2.label                  "Papar...">
 <!ENTITY certmgr.view2.accesskey              "P">
 <!ENTITY certmgr.edit3.label                  "Mengubahkan kepercayaan...">
@@ -90,12 +90,12 @@
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "Import…">
 <!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.details.label                "Medan Sijil">
-<!ENTITY certmgr.details.accesskey            "F">
-<!ENTITY certmgr.fields.label                 "Medan Nilai">
-<!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Hirarki Sijil">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.details.label                "Sijil Bidang">
+<!ENTITY certmgr.details.accesskey            "B">
+<!ENTITY certmgr.fields.label                 "Bidang Nilai">
+<!ENTITY certmgr.fields.accesskey             "N">
+<!ENTITY certmgr.hierarchy.label              "Sijil Hirarki">
+<!ENTITY certmgr.hierarchy.accesskey          "S">
 <!ENTITY certmgr.addException.label           "Tambah Pengecualian...">
 <!ENTITY certmgr.addException.accesskey       "T">
 

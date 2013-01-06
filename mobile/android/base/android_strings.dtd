@@ -6,19 +6,19 @@
 <!ENTITY  splash_settingup "Setting up your &brandShortName;">
 <!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk &brandShortName; memulakan.">
+<!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang memerlukan untuk menjalankan &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Top Sites">
 <!ENTITY  awesomebar_bookmarks_title "Penandabuku">
 <!ENTITY  awesomebar_history_title "Sejarah">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Kerosakan">
 <!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_help_message "Please help us fix this problem!">
 <!ENTITY  crash_send_report_message "Send Mozilla a crash report">
 <!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Mula semula &brandShortName;">
 <!ENTITY  sending_crash_report "Sending crash report\u2026">
 <!ENTITY  exit_label "Keluar">
@@ -27,30 +27,30 @@
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
 <!ENTITY  launcher_shortcuts_empty "No web apps were found">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Pilih Fail">
 
 <!ENTITY awesomebar_default_text "Enter Search or Address">
 
 <!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs_show_all "Pamer semua tab">
 
 <!ENTITY bookmark "Penandabuku">
 <!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
+<!ENTITY bookmark_removed "Penandabuku dikeluarkan">
 <!ENTITY bookmark_updated "Bookmark updated">
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Semalam">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "7 hari yang lepas">
+<!ENTITY history_older_section "Lebih dari 7 hari">
 
 <!ENTITY go "Go">
 <!ENTITY search "Carian">
-<!ENTITY reload "Reload">
+<!ENTITY reload "Muat Semula">
 <!ENTITY forward "Forward">
 <!ENTITY menu "Menu">
 <!ENTITY back "Kembali">
-<!ENTITY stop "Stop">
+<!ENTITY stop "Berhenti">
 <!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Tutup Tab">
@@ -61,30 +61,30 @@
 <!ENTITY num_tabs "&#037;d tabs">
 <!ENTITY new_tab_opened "New tab opened">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
+<!ENTITY settings "Tetapan">
+<!ENTITY settings_title "Tetapan">
+<!ENTITY pref_category_general "Am">
 <!ENTITY pref_category_privacy "Privacy &amp; Security">
 <!ENTITY pref_category_content "Kandungan">
 <!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_about_firefox "Mengenai &brandShortName;">
 <!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_telemetry "Hantarkan prestasi data">
+<!ENTITY pref_remember_signons "Ingat Kata Laluan">
 
 <!ENTITY pref_cookies_menu "Cecikut">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "Bolehkan">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "Dilumpuhkan">
 
-<!ENTITY pref_char_encoding "Character encoding">
+<!ENTITY pref_char_encoding "Pengekodan Aksara">
 <!ENTITY pref_char_encoding_on "Show menu">
 <!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Clear private data">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
+<!ENTITY pref_plugins_enabled "Bolehkan">
 <!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Text size">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Tiny">
@@ -110,22 +110,22 @@ size. -->
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_formdata "Form &amp; latar carian">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_passwords "Kata laluan Disimpan">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
+<!ENTITY pref_private_data_siteSettings "Keutamaan Laman">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload "Kemaskini automatik">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload_disabled "Dilumpuhkan">
+<!ENTITY pref_update_autodownload_enabled "Bolehkan">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "Keluar">
 
 <!ENTITY addons "Add-ons">
-<!ENTITY downloads "Downloads">
+<!ENTITY downloads "Muat turun">
 <!ENTITY apps "Apps">
 <!ENTITY char_encoding "Pengekodan Aksara">
 
@@ -135,7 +135,7 @@ size. -->
 <!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY tools "Tools">
+<!ENTITY tools "Alatan">
 <!ENTITY new_pb_tab "New Private Browsing Tab">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
