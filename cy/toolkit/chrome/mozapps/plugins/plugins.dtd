@@ -36,8 +36,8 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Cliciwch yma i gychwyn yr ategyn.">
 <!ENTITY clickToPlayPlugin                                   "Cliciwch yma i gychwyn yr ategyn.">
-<!ENTITY checkForUpdates                                     "Gwirio am ddiweddariadau...">
-<!ENTITY disabledPlugin                                      "Mae'r ategyn wedi ei anablu.">
+<!ENTITY checkForUpdates                                     "Gwirio am ddiweddariadau…">
+<!ENTITY disabledPlugin                                      "Mae'r ategyn wedi ei analluogi.">
 <!ENTITY blockedPlugin.label                                 "Mae'r ategyn wedi ei rwystro er eich diogelwch.">
 
 <!ENTITY installPlugin                                       "Gosod ategyn…">
@@ -53,6 +53,9 @@
 <!ENTITY report.please                                       "Anfon adroddiad chwalu">
 <!ENTITY report.submitting                                   "Anfon adroddiad…">
 <!ENTITY report.submitted                                    "Adroddiad chwalu wedi mynd.">
-<!ENTITY report.disabled                                     "Adrodd ar chwalu wedi ei anablu.">
+<!ENTITY report.disabled                                     "Adrodd ar chwalu wedi ei analluogi.">
 <!ENTITY report.failed                                       "Cyflwyno wedi methu.">
 <!ENTITY report.unavailable                                  "Dim adroddiad ar gael.">
+
+<!ENTITY plugin.file                                         "Ffeil">
+<!ENTITY plugin.mimeTypes                                    "Math MIME">

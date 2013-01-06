@@ -102,7 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "L">
 <!ENTITY fullscreenAllowButton.label "Caniatáu">
 <!ENTITY fullscreenExitButton.label "Gwrthod">
-<!ENTITY fullscreenApproval.value "Caniatáu sgrin lawn">
+<!ENTITY fullscreenApproval.value "Caniatáu sgrin lawn?">
 
 <!ENTITY fullscreenExitHint.value "Pwyso ESC ar unrhyw adeg i adael sgrin lawn.">
 <!ENTITY leaveDOMFullScreen.label "Gadael Sgrin Lawn">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksButton.tooltip        "Dangos eich nodau tudalen">
-<!ENTITY bookmarksButton.accesskey  "N">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Hanes">
 <!ENTITY historyButton.tooltip          "Dangos tudalennau rydych wedi eu darllen yn ddiweddar">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Offer">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Consol Gwe">
 <!ENTITY webConsoleCmd.accesskey      "G">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Consol Gwe Pell">
 
 <!ENTITY inspectMenu.label            "Arsylwi">
 <!ENTITY inspectMenu.accesskey        "A">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Ffenestr Breifat Newydd">
+<!ENTITY newPrivateWindow.accesskey "B">
 
 <!ENTITY editMenu.label         "Golygu"> 
 <!ENTITY editMenu.accesskey       "G"> 
@@ -428,7 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
-<!ENTITY emailPageCmd.label           "Dolen E-bost">
+<!ENTITY emailPageCmd.label           "Dolen E-bost…">
 <!ENTITY emailPageCmd.accesskey       "D">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
@@ -449,9 +450,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "C">
 <!ENTITY emailImageCmd.label          "Delwedd E-bost...">
 <!ENTITY emailImageCmd.accesskey      "D">
-<!ENTITY emailVideoCmd.label          "Fideo E-bost...">
+<!ENTITY emailVideoCmd.label          "Fideo E-bost…">
 <!ENTITY emailVideoCmd.accesskey      "F">
-<!ENTITY emailAudioCmd.label          "Sain E-bost...">
+<!ENTITY emailAudioCmd.label          "Sain E-bost…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Copïo Lleoliad Dolen">
 <!ENTITY copyLinkCmd.accesskey        "C">
@@ -653,7 +654,9 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.accesskey "D">
 
 <!ENTITY social.toggleNotifications.label "Dangos hysbysiadau'r bwrdd gwaith">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.accesskey "h">
 
 <!ENTITY social.activated.undobutton.label "Dadwneud">
 <!ENTITY social.activated.undobutton.accesskey "D">
+
+<!ENTITY social.chatBar.commandkey "c">

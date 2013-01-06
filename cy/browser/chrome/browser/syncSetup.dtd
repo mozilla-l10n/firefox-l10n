@@ -48,7 +48,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Er mwyn sicrhau eich preifatrwydd llwyr, bydd eich holl ddata yn cael ei amgryptio cyn cael ei lwytho i fyny. Ni fydd eich Allwedd Adfer, syn'n angenrheidiol ar gyfer dadgryptio eich data yn cael ei lwytho i fyny.">
 <!ENTITY recoveryKeyEntry.label        "Eich Allwedd Adfer">
 <!ENTITY recoveryKeyEntry.accesskey    "A">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
+<!ENTITY syncGenerateNewKey.label  "Cynhyrchu allwedd newydd">
 <!ENTITY recoveryKeyBackup.description "Mae angen eich Allwedd Adfer er mwyn cael mynediad at &syncBrand.fullName.label; ar beiriannau eraill. Crewch gopi wrth gefn. Nid ydym yn gallu eich cynorthwyo i adfer eich Allwedd Adfer.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Argraffu…">

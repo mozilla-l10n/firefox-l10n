@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Dangos i mi sut.">
 <!ENTITY sync.link.advancedsetup.label "Gosodiad uwch…">
-<!ENTITY sync.link.nodevice.label "Nid yw’r ddyfais gennyf…">
+<!ENTITY sync.link.nodevice.label "Nid yw\’r ddyfais gennyf…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Aros am y ddyfais arall…">
@@ -41,7 +41,7 @@
 <!ENTITY sync.button.tryagain.label "Ceisio eto">
 <!ENTITY sync.button.manual.label "Gosod gyda Llaw">
 <!ENTITY sync.subtitle.nointernet.label "Dim cysylltiad gwe ar gael.">
-<!ENTITY sync.subtitle.failaccount.label "Methodd creu cyfrif ar eich dyfais">
+<!ENTITY sync.subtitle.failaccount.label "Methodd creu cyfrif ar eich dyfais.">
 <!ENTITY sync.subtitle.failmultiple.label "A oes gennych fwy nag un Firefox wedi ei osod? Ar hyn o bryd mae &syncBrand.fullName.label; yn cynnal dim ond un Firefox ar y tro. Dadosodwch unrhyw engraifft er mwyn defnyddio&syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Dewisiadau">
 <!ENTITY sync.summary.pair.label "Cysylltu dyfais arall i’ch cyfrif &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Beth i\'w gydweddu">
+<!ENTITY sync.configure.engines.sync.my.title.label "Cydweddu eich…">
+<!ENTITY sync.configure.engines.title.bookmarks "Nodau Tudalen">
+<!ENTITY sync.configure.engines.title.passwords "Cyfrineiriau">
+<!ENTITY sync.configure.engines.title.history "Hanes">
+<!ENTITY sync.configure.engines.title.tabs "Tabiau">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Diddymu">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
+<!ENTITY sync.notification.configure.saved "Mae eich dewis wedi eu cadw.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Enw cyfrif neu gyfrinair anghywir.">

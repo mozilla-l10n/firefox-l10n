@@ -23,7 +23,7 @@ cyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ffolder Proffil">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ategion Galluogwyd">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ffurfweddiad Adeiladu">
@@ -43,6 +43,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Dewisiadau Pwysig wedi eu Newid">
 <!ENTITY aboutSupport.modifiedPrefsName "Enw">
 <!ENTITY aboutSupport.modifiedPrefsValue "Gwerth">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "Dewisiadau user.js">
+<!ENTITY aboutSupport.userJSDescription "Mae eich ffolder profil yn cynnwys <a id='prefs-user-js-link'>ffeil user.js</a>, sy'n cynnwys dewisiadau sydd heb eu creu gan &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Graffigau">
 
