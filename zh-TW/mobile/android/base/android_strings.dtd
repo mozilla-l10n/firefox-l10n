@@ -137,7 +137,6 @@ size. -->
 <!ENTITY tools "工具">
 <!ENTITY new_tab "開新分頁">
 <!ENTITY new_private_tab "新增隱私瀏覽分頁">
-<!ENTITY synced_tabs "已同步的分頁">
 <!ENTITY close_all_tabs "關閉所有分頁">
 <!ENTITY tabs_normal "分頁">
 <!ENTITY tabs_private "隱私">
@@ -154,7 +153,7 @@ size. -->
 <!ENTITY find_close "關閉">
 
 <!ENTITY contextmenu_open_new_tab "用新分頁開啟">
-<!ENTITY contextmenu_open_new_private_tab "用新隱私分頁開啟">
+<!ENTITY contextmenu_open_private_tab "開啟於隱私分頁">
 <!ENTITY contextmenu_open_in_reader "在閱讀器中開啟">
 <!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
@@ -202,8 +201,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY abouthome_top_sites_title "最常瀏覽的網站">
 <!ENTITY abouthome_topsites_edit "編輯">
-<!ENTITY abouthome_topsites_clear "清除">
-<!ENTITY abouthome_topsites_clearall "清除全部">
+<!ENTITY abouthome_topsites_pin "釘選網站">
+<!ENTITY abouthome_topsites_unpin "解除釘選網站">
+<!ENTITY abouthome_topsites_unpinall "解除釘選所有網站">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

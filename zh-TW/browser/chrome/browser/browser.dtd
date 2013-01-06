@@ -234,10 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "網頁工具箱">
-<!ENTITY devToolbarOtherToolsButton.label  "其他工具">
+<!ENTITY devToolboxMenuItem.label          "網頁工具箱">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbox.accesskey              "B">
+<!ENTITY devToolbarToolsButton.tooltip     "切換開發者工具">
+<!ENTITY devToolbarOtherToolsButton.label  "其他工具">
 
 <!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -628,4 +629,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "要分享的麥克風:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "存取攝影機 / 麥克風">
+<!ENTITY webrtcIndicatorButton.tooltip "顯示您目前正分享攝影機或麥克風給哪些網站">
 
