@@ -137,7 +137,6 @@ size. -->
 <!ENTITY tools "Verktyg">
 <!ENTITY new_tab "Ny flik">
 <!ENTITY new_private_tab "Ny privat flik">
-<!ENTITY synced_tabs "Synkade flikar">
 <!ENTITY close_all_tabs "Stäng alla flikar">
 <!ENTITY tabs_normal "Flikar">
 <!ENTITY tabs_private "Privata">
