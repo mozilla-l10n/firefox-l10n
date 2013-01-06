@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Dùin an taba">
 <!ENTITY new_tab "Taba ùr">
 <!ENTITY one_tab "1 taba">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d taba(ichean)">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
@@ -71,16 +71,22 @@
 <!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam thracadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
-<!ENTITY pref_cookies "Cuir briosgaidean an comas">
+
+<!ENTITY pref_cookies_menu "Briosgaidean">
+<!ENTITY pref_cookies_accept_all "An comas">
+<!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
+<!ENTITY pref_cookies_disabled "À comas">
+
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
 <!ENTITY pref_plugins "Plugain">
-<!ENTITY pref_plugins_enabled "Air a chur an comas">
+<!ENTITY pref_plugins_enabled "An comas">
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
-<!ENTITY pref_plugins_disabled "Air a chur à comas">
+<!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
+<!ENTITY pref_reflow_on_zoom2 "Dèan gòmag gus an teacsa ath-shruthadh">
 <!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings "Roghainnean na làraich">
 
+<!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
+<!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
+<!ENTITY pref_update_autodownload_disabled "À comas">
+<!ENTITY pref_update_autodownload_enabled "An comas">
+
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
 <!ENTITY tools "Innealan">
+<!ENTITY new_pb_tab "Taba brabhsaidh prìobhaideach ùr">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY abouthome_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
 <!ENTITY abouthome_top_sites_title "Sàr-làraichean">
-<!ENTITY abouthome_top_sites_browse "Brabhsaich gach sàr-làrach agad">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ o Android">
 
 <!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_start_select2 "Suath ris gus a luchdadh a-nuas">
- 
+
 <!ENTITY updater_downloading_title2 "A\' luchdadh a-nuas &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Dh\'fhàillig an luchdadh a-nuas">
 <!ENTITY updater_downloading_select2 "Suath ris gus an t-ùrachadh a chur an gnìomh turas a bhios e air a luchdadh a-nuas">
 <!ENTITY updater_downloading_retry2 "Suath ris gus feuchainn ris a-rithist">
- 
+
 <!ENTITY updater_apply_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_apply_select2 "Suath ris gus ùrachadh">

@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Roghainnean">
 <!ENTITY sync.summary.pair.label "Ceangail uidheam eile ris a’ chunntas &syncBrand.shortName.label; agad">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Na thèid a shioncronachadh">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sioncronaich na leanas…">
+<!ENTITY sync.configure.engines.title.bookmarks "Comharran-lìn">
+<!ENTITY sync.configure.engines.title.passwords "Faclan-faire">
+<!ENTITY sync.configure.engines.title.history "Eachdraidh">
+<!ENTITY sync.configure.engines.title.tabs "Tabaichean">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Sguir dheth">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.configure.saved "Chaidh do roghainnean a shàbhaladh.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Tha ainm a\' chunntais no am facal-faire cearr.">
