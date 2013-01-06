@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "م">
 <!ENTITY spellUndoAddToDictionary.label "لغت میں ڈالیں کلعدم کریں">
 <!ENTITY spellUndoAddToDictionary.accesskey "ک">
-<!ENTITY spellCheckEnable.label "ہجے پڑتال کریں">
-<!ENTITY spellCheckEnable.accesskey "ہ">
+<!ENTITY spellCheckToggle.label "ہجے چیک کریں">
+<!ENTITY spellCheckToggle.accesskey "ہ">
 <!ENTITY spellNoSuggestions.label "(کوئی ہجے کی تجاویز نہیں)">
 <!ENTITY spellDictionaries.label "زبانیں">
 <!ENTITY spellDictionaries.accesskey "ز">

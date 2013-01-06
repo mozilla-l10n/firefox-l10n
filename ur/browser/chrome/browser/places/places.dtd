@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "تلاش:">
 <!ENTITY search.accesskey                          "ت">
 
-<!ENTITY search.in.label                           "تلاش کریں در:">
-<!ENTITY search.scopeFolder.label                  "منتخب پوشہ">
-<!ENTITY search.scopeFolder.accesskey              "پ">
-<!ENTITY search.scopeBookmarks.label               "نشانیاں">
-<!ENTITY search.scopeBookmarks.accesskey           "ن">
-<!ENTITY search.scopeDownloads.label               "ڈاونلوڈز">
-<!ENTITY search.scopeDownloads.accesskey           "ڈ">
-<!ENTITY search.scopeHistory.label                 "سابقات">
-<!ENTITY search.scopeHistory.accesskey             "س">
-<!ENTITY saveSearch.label                          "محفوظ کریں">
-<!ENTITY saveSearch.accesskey                      "م">
-
 <!ENTITY cmd.find.key  "ڈ">
 
 <!ENTITY maintenance.label      "درآمد و پشتارہ">

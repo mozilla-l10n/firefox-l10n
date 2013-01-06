@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "ہمیشہ پوچھیں">
 <!ENTITY permission.allow                "ہونے دیں">
 <!ENTITY permission.allowForSession      "سیشن کے لیے اجازت دیں">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "صرف پہلا فریق ہونے دیں">
 <!ENTITY permission.block                "بلاک کریں">
 
 <!ENTITY password.label                  "پاس ورڈ ذخیرہ کریں">

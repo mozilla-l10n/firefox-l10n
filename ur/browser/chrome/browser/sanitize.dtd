@@ -5,7 +5,6 @@
 <!ENTITY sanitizePrefs2.title          "سابقات صاف کرنے کی سیٹنگیں">
 <!ENTITY sanitizeDialog2.title         "حالیہ سابقات خالی کریں">
 
-<!ENTITY sanitizeItems.label          "مندرجہ ذیل اشیا ابھی صاف کریں:">
 <!ENTITY clearDataSettings2.label     "جب میں &brandShortName; کنارہ کروں تو اسے خود بخود تمام مندرجہ ذیل صاف کر دینے چاہیے:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

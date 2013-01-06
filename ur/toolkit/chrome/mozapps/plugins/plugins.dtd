@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "کریش رپورٹ کاری نا اہل ہے۔">
 <!ENTITY report.failed                                       "حوالگی ناکام۔">
 <!ENTITY report.unavailable                                  "کوئی رپورٹ دستیاب نہیں۔">
+
+<!ENTITY plugin.file                                         "مسل">
+<!ENTITY plugin.mimeTypes                                    "MIME اقسام">
