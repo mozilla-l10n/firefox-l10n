@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Action de la molette">
+<!ENTITY mouseWheelGroup.label           "Défilement vertical">
+<!ENTITY mouseWheelHorizGroup.label      "Défilement horizontal">
+<!ENTITY sameAsVertical.label            "Identique au défilement vertical">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Ne rien faire">
 <!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothingHoriz.accesskey        "r">
 <!ENTITY scrollDocument.label            "Faire défiler le document">
 <!ENTITY scrollDocument.accesskey        "F">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Avancer ou reculer dans l'historique">
 <!ENTITY history.accesskey               "A">
+<!ENTITY historyHoriz.accesskey          "h">
 <!ENTITY zoom.label                      "Zoomer">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY mouseWheelSpeed.label           "Vitesse de la molette">
-<!ENTITY verticalSpeed.label             "Vertical :">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Inverser la direction">
-<!ENTITY verticalReverse.accesskey       "I">
-<!ENTITY horizontalSpeed.label           "Horizontal :">
-<!ENTITY horizontalSpeed.accesskey       "H">
-<!ENTITY horizontalReverse.label         "Inverser la direction">
-<!ENTITY horizontalReverse.accesskey     "n">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Vitesse de la molette :">
+<!ENTITY wheelSpeed.accesskey            "t">
+<!ENTITY wheelSpeedHoriz.accesskey       "m">
+<!ENTITY reverseDirection.label          "Inverser la direction">
+<!ENTITY reverseDirection.accesskey      "I">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
