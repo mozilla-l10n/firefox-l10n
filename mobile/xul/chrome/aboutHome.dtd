@@ -18,11 +18,11 @@
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora       "ดาวน์โหลด Aurora">
+<!ENTITY aboutHome.downloadAurora  "ดาวน์โหลด Aurora">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
-<!ENTITY aboutHome.forAndroid           "สำหรับแอนดรอยด์">
+<!ENTITY aboutHome.forAndroid   "สำหรับแอนดรอยด์">
 <!-- LOCALIZATION NOTE:
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.

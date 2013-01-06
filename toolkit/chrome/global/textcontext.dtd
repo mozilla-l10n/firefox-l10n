@@ -7,7 +7,7 @@
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.accesskey "ค">
 <!ENTITY pasteCmd.label "วาง">
-<!ENTITY pasteCmd.accesskey "แ">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "เรียกคืน">
 <!ENTITY undoCmd.accesskey "ร">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "ป">
 <!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มไปยังพจนานุกรม">
 <!ENTITY spellUndoAddToDictionary.accesskey "ย">
-<!ENTITY spellCheckEnable.label "ตรวจสอบการสะกด">
-<!ENTITY spellCheckEnable.accesskey "ส">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(ไม่มีคำสะกดแนะนำ)">
 <!ENTITY spellDictionaries.label "ภาษา">
 <!ENTITY spellDictionaries.accesskey "ภ">

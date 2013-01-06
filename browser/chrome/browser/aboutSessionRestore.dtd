@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "เรียกคืนวาระ">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "มันช่างน่าอับอายยิ่งนัก">
 <!ENTITY restorepage.problemDesc    "&brandShortName; มีปัญหาในการเรียกคืนหน้าต่างและแท็บของคุณ สาเหตุอาจจะเกิดจากเว็บที่เพิ่งเปิดไปก่อนหน้านี้">
 <!ENTITY restorepage.tryThis        "คุณสามารถลอง:">
@@ -16,7 +16,6 @@
 <!ENTITY restorepage.restore.access "ร">
 <!ENTITY restorepage.closeButton    "ปิด">
 <!ENTITY restorepage.close.access   "ป">
-
 
 <!ENTITY restorepage.restoreHeader  "เรียกคืน">
 <!ENTITY restorepage.listHeader     "หน้าต่างและแท็บ">

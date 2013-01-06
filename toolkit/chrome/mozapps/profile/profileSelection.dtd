@@ -5,27 +5,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowtitle.label "&brandShortName; - เลือกโพรไฟล์ผู้ใช้">
+<!ENTITY            windowtitle.label      "&brandShortName; - เลือกโพรไฟล์ผู้ใช้">
 
-<!ENTITY profilename.label "ชื่อโพรไฟล์ :">
+<!ENTITY            profilename.label      "ชื่อโพรไฟล์ :">
 
-<!ENTITY start.label "เริ่ม &brandShortName;">
-<!ENTITY exit.label "ออก">
+<!ENTITY            start.label            "เริ่ม &brandShortName;">
+<!ENTITY            exit.label             "ออก">
 
-<!ENTITY availprofiles.label "โพรไฟล์ที่มี">
+<!ENTITY            availprofiles.label    "โพรไฟล์ที่มี">
 
-<!ENTITY newButton.label "สร้างโพรไฟล์ใหม่…">
-<!ENTITY newButton.accesskey "ส">
-<!ENTITY renameButton.label "เปลี่ยนชื่อโพรไฟล์…">
-<!ENTITY renameButton.accesskey "ป">
-<!ENTITY deleteButton.label "ลบโพรไฟล์…">
-<!ENTITY deleteButton.accesskey "ล">
+<!ENTITY            newButton.label        "สร้างโพรไฟล์ใหม่…">
+<!ENTITY            newButton.accesskey    "ส">
+<!ENTITY            renameButton.label     "เปลี่ยนชื่อโพรไฟล์…">
+<!ENTITY            renameButton.accesskey "ป">
+<!ENTITY            deleteButton.label     "ลบโพรไฟล์…">
+<!ENTITY            deleteButton.accesskey "ล">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "&brandShortName; เก็บค่าตั้ง ค่าปรับแต่ง และข้อมูลของผู้ใช้ ไว้ในโพรไฟล์ของคุณ">
+<!ENTITY            pmDescription.label    "&brandShortName; เก็บค่าตั้ง ค่าปรับแต่ง และข้อมูลของผู้ใช้ ไว้ในโพรไฟล์ของคุณ">
 
-<!ENTITY offlineState.label "ทำงานออฟไลน์">
-<!ENTITY offlineState.accesskey "ฟ">
+<!ENTITY            offlineState.label    "ทำงานออฟไลน์">
+<!ENTITY            offlineState.accesskey "ฟ">
 
-<!ENTITY autoSelect.label "ไม่ต้องถามขณะเริ่มทำงาน">
-<!ENTITY autoSelect.accesskey "ม">
+<!ENTITY            autoSelect.label       "ไม่ต้องถามขณะเริ่มทำงาน">
+<!ENTITY            autoSelect.accesskey   "ม">
