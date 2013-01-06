@@ -1,9 +1,15 @@
-<!ENTITY title           "Нэмэгдэл суулгах">
-<!ENTITY intro           "Таны компьютер дахь өөр нэгэн програм дараах нэмэгдлийн дагуу &brandShortName; -г өөрчлөх хүсэлтэй байна.:">
-<!ENTITY warning         "Зөвхөн таны итгэдэг зохиогчийн нэмэгдлийг л суулгах.">
-<!ENTITY allow           "Энэ суулгалтыг хүлээн зөвшөөрөх">
-<!ENTITY later           "Та Нэмэгдлийн зохицуулагчийг ашиглан хүссэн үедээ өөрчлөлт хийж болно.">
-<!ENTITY continue        "Үргэлжилүүлэх">
-<!ENTITY restartMessage  "Энэ нэмэгдлийн суулгалтыг дуусгахын тулд &brandShortName; -г дахин эхлүүлэх шаардлагатай.">
-<!ENTITY restartButton   "&brandShortName; -г дахин эхлүүлнэ үү">
-<!ENTITY cancelButton    "Цуцлах">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "Install Add-on">
+<!ENTITY intro           "Another program on your computer would like to modify
+                          &brandShortName; with the following add-on:">
+<!ENTITY warning         "Install add-ons only from authors whom you trust.">
+<!ENTITY allow           "Allow this installation">
+<!ENTITY later           "You can always change your mind at any time by going
+                          to the Add-ons Manager.">
+<!ENTITY continue        "Үргэлжлүүл">
+<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
+<!ENTITY restartButton   "Restart &brandShortName;">
+<!ENTITY cancelButton    "Цуцал">

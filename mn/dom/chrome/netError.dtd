@@ -1,97 +1,103 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Хуудас дуудах алдаа">
 <!ENTITY retry.label "Дахин оролд">
-
 <!-- Specific error messages -->
 
+
 <!ENTITY connectionFailure.title "Холболтын алдаа">
-<!ENTITY connectionFailure.longDesc "<p>Хэдийгээр заагдсан хаяг зөв боловч хуудсанд холбогдож чадсангүй.</p><ul><li> Хуудас түр хугацаагаар хаагдсан байж болзошгүй юу? Дараа дахин оролдоно уу.</li><li>Та өөр хуудсанд зорчиж чадаж байна уу? Компьютерийн сүлжээг шалгана уу.</li><li> Таны компьютер, эсвэл сүлжээ тань галт ханаар эсвэл проксигоор хамгаалагдсана уу? Буруу тохиргоо вэб зорчилтонд нөлөөлж болзошгүй</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Нууцлалын шалтгаанаар порт хязгаарлагдсан">
-<!ENTITY deniedPortAccess.longDesc "<p>Порт заагдсан хүссэн хаяг нь (жишээ. <q>mozilla.org:80</q> нь, порт 80 mozilla.org хаяганд зориулсан гэх мэт) ердийн үед Вэб хөтлөхөөс <em>бусад</em> зориулалтаар хэрэглэгддэг. Хөтлөгч таны нууцлал ба хамгаалалтын тулд хүсэлтийг цуцлав.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
 
 <!ENTITY dnsNotFound.title "Хаяг олдоогүй алдаа">
-<!ENTITY dnsNotFound.longDesc "Энэ хаяганд (URL) мэдэгдсэн хуудас байхгүйгээс дуудаж чадахгүй байна. Энэ нь хаягийн бичиглэлийн алдаа юмуу эсвэл энэ хуудас нь байхгүй байж магадгүй. Хэрэв хаяг зөв бөгөөд энэ алдаа өөр хуудаснууд дээр давтагдаж байвал энэ нь прокси үйлчилгээтэй (хэрэв та хэрэглэж байгаа бол) хамаатай бөгөөд эсвэл санг хайх үйлчилгээтэй бас хамаатай. Энэ тохиолдолд системийн бичиг баримтыг үзэх юм уу, сүлжээ зохицуулагч эсвэл Интернэт үйлчилгээ хангагч байгууллагаас тусламж авна уу.">
+<!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
 
-
-<!ENTITY fileNotFound.longDesc "Заагдсан хаяганд файл олдсонгүй. Файл байгаа эсэхийг эсвэл түүнийг харах эрх танд байгаа эсэхийг шалгана уу.">
 <!ENTITY fileNotFound.title "Файл олдсонгүй Алдаа">
+<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
 
 <!ENTITY generic.title "Хүсэлтийг гүйцээж чадахгүй байна">
 <!ENTITY generic.longDesc "<p>Энэ алдаа эсвэл хүндрэлийн нэмэлт мэдээлэл одоогоор боломжгүй.</p>">
 
-
-<!ENTITY malformedURI.longDesc "Хаяг зөв хэлбэргүй байгаагаас уншигдаж чадахгүй байна. Ердийн хаяг нь &quot;http://&quot;, гэж эхлэх бөгөөд араасаа хаягаа дагуулж (жишээ. www.netscape.com), бүтцээс хамаарч замыг нь (эсвэл &quot;/&quot;) зааж өгдөг. Энгийн тохиолддог алдаа, (/) хашилтын оронд (\) хэрэглэж алдах нь их бий.">
 <!ENTITY malformedURI.title "Буруу хаяг Алдаа">
+<!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
 
 <!ENTITY netInterrupt.title "Өгөгдлийн дамжуулалт тасарсан">
-<!ENTITY netInterrupt.longDesc "<p>Хөтлөгч амжилттай холбогдсон боловч өгөгдөл дамжуулж байх явцад холбоо тасарсан. Дахин оролдоно уу.</p><ul><li>Та өөр хуудас руу зорчиж чадаж байна уу? Компьютерийн сүлжээг шалгана уу.</li><li>Тэгээд ч хэвээрээ юу? Сүлжээ зохицуулагч эсвэл интернэт хангагч байгууллагаас тусламж авна уу.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Салангид байна Алдаа">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Бүтцийн хөрвүүлэлтийн алдаа">
-<!ENTITY contentEncodingError.longDesc "<p>Буруу юмуу эсвэл дэмжигдээгүй төрлийн шахалт хэрэглэсэн байгаа тул таны үзэх гэсэн хуудас харуулагдаж чадахгүй байна. </p><ul><li>Вэб хуудас бүтээсэн хүмүүстэй холбоо тогтоож уг алдааг мэдэгдэнэ үү.</li></ul>">
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Найдваргүй файлын төрөл">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Хуудасны эзэмшигчтэй холбоо барьж уг хүндрэлийг мэдэгдэнэ үү.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY netReset.longDesc "Хуудасны холболт өгөгдөл дамжуулалтын болон холболтын үед унасан. Энэ нь магадгүй таны компьютер ба хуудасны хооронд сүлжээний алдаанаас болсон байж болзошгүй. Хэрэв энэ алдаа байнга давтагдвал системийн бичиг баримт, эсвэл сүлжээ хариуцагч, эсвэл Интернэт хөтлөгч байгууллагатай холбоо барьж тусламж авна уу.">
 <!ENTITY netReset.title "Сүлжээ шинэчлэгдсэн алдаа">
-<!ENTITY netTimeout.longDesc "Заасан хуудсанд холбогдохыг оролдож байх үед цаг дууссан. Энэ хуудсанд олон хандалт хийгдэж байгаагаас удаашралт үүссэн байж магадгүй. Эсвэл сүлжээнд өгөгдлийг хүлээж авахдаа цаг хугацаанд хамааруулсан хүндрэл байж магадгүй. Хэрэв хуудасны хандалт завгүй мэт бол хэсэг хугацааны дараа дахин оролдоно уу.">
+<!ENTITY netReset.longDesc "Хуудасны холболт өгөгдөл дамжуулалтын болон холболтын үед унасан. Энэ нь магадгүй таны компьютер ба хуудасны хооронд сүлжээний алдаанаас болсон байж болзошгүй. Хэрэв энэ алдаа байнга давтагдвал системийн бичиг баримт, эсвэл сүлжээ хариуцагч, эсвэл Интернэт хөтлөгч байгууллагатай холбоо барьж тусламж авна уу.">
+
 <!ENTITY netTimeout.title "Сүлжээний цаг дууссан Алдаа">
-<!ENTITY protocolNotFound.longDesc "Хаягийн өмнө байдаг протокол хөтлөгчид танигдсангүй. Протокол хаягийн өмнө байдаг хэсэг бөгөөд (жишээ: http эсвэл ftp) хөтлөгчид хуудсанд яаж холбогдохыг зааж өгдөг. Энэ тохиолдолд протокол танигдахгүй байгаагаас үргэлжлүүлэх боломжгүй. Дахиж оролдохоосоо өмнө хаягаа зөв эсэхийг шалга.">
+<!ENTITY netTimeout.longDesc "<p>The requested site did not respond to a connection request and the browser has stopped waiting for a reply.</p><ul><li>Could the server be experiencing high demand or a temporary outage?  Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+
 <!ENTITY protocolNotFound.title "Сүлжээний протокол мэдэгдээгүй алдаа">
+<!ENTITY protocolNotFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
-<!ENTITY proxyConnectFailure.longDesc "<p>Хөтлөгч прокси сервер хэрэглэнэ гэж тохируулагдсан ч, сервер холболтоос татгалзлаа.</p><ul><li>Хөтлөгчийн прокси тохиргоо зөв үү? Тохируулгыг шалгаад дахин оролдоно уу.</li><li>Проксигийн үйлчилгээ энэ сүлжээний холболтыг зөвшөөрдөг үү?</li><li>Алдаатай хэвээрээ юу? Сүлжээ зохицуулагч эсвэл интернэт хангагч байгууллагаас тусламж авна уу.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сервер олдсонгүй">
-<!ENTITY proxyResolveFailure.longDesc "<p>Хөтлөгч прокси сервер хэрэглэнэ гэж тохируулагдсан ч, прокси сервер олдсонгүй.</p><ul><li>Хөтлөгчийн прокси тохируулга зөв үү? Тохируулгыг шалгаад дахин оролдоно уу.</li><li>Компьютер холбоотой сүлжээнд холбогдсон уу?</li><li>Тэгээд ч алдаатай хэвээрээ юу? Сүлжээ зохицуулагч эсвэл интернэт хангагч байгууллагаас тусламж авна уу.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
-<!ENTITY redirectLoop.longDesc "Хөтлөгч холболтоо зогсоосон. Учир нь энэ хуудас нь өөрийгөө гүйцэт дуудагдахаас сэргийлж хандалтыг өөр лүүгээ дамжуулж байна.">
 <!ENTITY redirectLoop.title "Дамжуулж давтах Алдаа">
+<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
 
-<!ENTITY unknownSocketType.longDesc "Энэ хуудас Сүлжээний шаардлагаас өөр хариу өгч байна. Энэ нь өгөгдсөн портод хаягийн буруу протокол заасан юм уу эсвэл хуудасны хүлээж буй үйлчилгээнээс өөр стандартын тохиргоо байж магадгүй.">
 <!ENTITY unknownSocketType.title "Мэдэгдэхгүй Socket Алдаа">
+<!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
 
 <!ENTITY nssFailure2.title "Нууцлалын холболтын алдаа">
-<!ENTITY nssFailure2.longDesc "<p>Хүлээж авсан өгөгдлийг таньж шалгаж чадахгүйн учраас уг хуудсыг харуулж чадсангүй.</p><ul><li>Вэб хуудасны зохиогчтой холбоо барьж уг хүндрэлийг мэдэгдэнэ үү.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Нууцлалын холболтын алдаа">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Энэ нь серверийн тохируулгын алдаа байж болох юмуу эсвэл хэн нэгэн серверийг дууриалгаж ижил үйлдэл хийж байж магадгүй.</li>
-<li>Хэрэв та урьд нь энэ сервер лүү амжилттай холбогдож байсан бол энэ алдаа нь түр зуурынх байж болох бөгөөд түр азнаад дахин оролдоно уу.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Энэ нь серверийн тохируулгын алдаа байж болох юмуу эсвэл хэн нэгэн серверийг дууриалгаж ижил үйлдэл хийж байж магадгүй.</li> 
+<li>Хэрэв та урьд нь энэ сервер лүү амжилттай холбогдож байсан бол энэ алдаа нь түр зуурынх байж болох бөгөөд түр азнаад дахин оролдоно уу.</li> 
+</ul>">
+
 <!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Довтлогч хуудас нь хувийн мэдээлэл хулгайлах, таны компьютерийг ашиглаж бусдынх уруу халдах эсвэл таны компьютерийг эвдэх зэрэг хорлонтой үйлдлүүд хийдэг.</p>
-<p>Вэб хуудас эзэмшигчид хэрэв хуудас тань довтлогч хуудас хэмээн мэдэгдсэн байвал <a href='http://www.stopbadware.org/home/reviewinfo' >энэ хаягаас шалгуулаарай</a>.</p>
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Энэ хуудсанд хувийн мэдээллээ оруулбал хулгайлагдах юмуу буруу хэрэглэгдэх аюултай байж болзошгүй.</p>
-<p>Ийм хуудаснууд нь таны итгэлийг ашиглаж захианы хаяг юмуу хуудас хэрэглэж таныг хуурдаг.</p>">
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
 
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-
-<!ENTITY cspFrameAncestorBlocked.title "Контенц хамгаалах бодлогын дагуу хаасан байна.">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Энэ хуудас нь контенц хамгаалах бодлогоор зөвшөөрөгдөөгүй аргаар ажиллаж буй болохоор хаасан байна.</p>">
-
-<!ENTITY remoteXUL.title "Холын XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Энэ асуудалын талаар вэб сайт эрхлэгчд мэдэгдэнэ үү.</li></ul></p>">
-
-<!ENTITY corruptedContentError.title "Контенц илгээхэд гарсан алдаа">
-<!ENTITY corruptedContentError.longDesc "<p>Энэ хуудас нь илгээж байгаа өгөгдөлд алдаа илэрсний улмаас үзэх боломжшүй байна.</p><ul><li>Вэб сайтын эзэмшигчтэй хобоо барьж энэ асуудлын талаар мэдэгдэнэ үү.</li></ul>">
-
-<!ENTITY netOffline.longDesc2 "<p>Браузор нь сүлжээнд ороогүй байдлаас ажиллаж бөгөөд холбогдохыг хүссэн зүйлд холбох боломжгүй байна.</p><ul><li>Компьютер тань идэвхитэй сүлжээнд холбоотой байгаа юу?</li><li>Дахин оролдох гэсэн товч дээр дараад сүлжээнд холбогдоод хуудасыг дахин сэргээнэ үү.</li></ul>">
-
-

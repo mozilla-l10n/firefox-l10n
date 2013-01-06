@@ -1,17 +1,24 @@
-<!ENTITY newWindowsAsTabs.label       "Шинэ цонх нээгдэхээр бол шинэ самбарт нээ">
-<!ENTITY newWindowsAsTabs.accesskey   "Ш">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY warnCloseMultipleTabs.label  "Олон самбар хаах үед надад анхааруул">
-<!ENTITY warnCloseMultipleTabs.accesskey  "б">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "Олон самбар нэг дор нээх үед &brandShortName; удаашрахаар бол надад анхааруул">
 <!ENTITY warnOpenManyTabs.accesskey   "л">
 
-<!ENTITY showTabBar.label             "Самбарын тавцанг үргэлж харуул">
-<!ENTITY showTabBar.accesskey         "м">
+<!ENTITY showTabBar.label             "Always show the tab bar">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "Хэрэв намайг шинэ самбарт холбоос нээвэл тэр самбарт шилж">
-<!ENTITY switchToNewTabs.accesskey    "Х">
+<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY showTabsInTaskbar.label          "Windows taskbar дээрээс тэйбийг урьдчилаг харах">
+<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

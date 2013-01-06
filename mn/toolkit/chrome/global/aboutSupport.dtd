@@ -1,41 +1,68 @@
-<!ENTITY aboutSupport.pageTitle "Асуудал шийдвэрлэх мэдээлэл">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle " Энэ хуудас нь танд тулгарсан асуудалыг шийдвэрлэхэд чинь тус болох мэдээллийг агуулсан байгаа. Хэрэв та &brandShortName;-н асуудалыг шийдвэрлэхээр хариу хайж байгаа бол <a id='supportLink'> хэрэглэгчийг дэмжих сайт</a>д хандахыг хүсье.">
 
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+">
 
-<!ENTITY aboutSupport.extensionsTitle "Өргөтгөх чадвар">
-<!ENTITY aboutSupport.extensionName "Нэр">
-<!ENTITY aboutSupport.extensionEnabled "Ашиглах">
-<!ENTITY aboutSupport.extensionVersion "Хувилбар">
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionEnabled "Enabled">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Хэрэглээгий програмын үндсэн мэдээлэл">
-<!ENTITY aboutSupport.appBasicsName "Нэр">
-<!ENTITY aboutSupport.appBasicsVersion "Хувилбар">
-<!ENTITY aboutSupport.appBasicsProfileDir "Хувийн тохиргоо хадгалах хавтас">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ашиглаж буй plug-in">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Хөрвүүлэлтийн тохиргоо">
-<!ENTITY aboutSupport.appBasicsUserAgent "Хэрэглэгчийн зууч">
+<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 
-<!ENTITY aboutSupport.show.label "Хавтас нээх">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
 
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+
+<!ENTITY aboutSupport.showDir.label "Open Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Хавтасд харуулах">
+<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Show Folder">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Өөрчлөлт тохируулах жагсаалт">
-<!ENTITY aboutSupport.modifiedPrefsName "Нэр">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedPrefsName "Name">
 <!ENTITY aboutSupport.modifiedPrefsValue "Утга">
-<!ENTITY aboutSupport.graphicsTitle "График">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
-<!ENTITY aboutSupport.installationHistoryTitle "Суулгалт тэмдэглэх">
-<!ENTITY aboutSupport.updateHistoryTitle "Шинэчлэл тэмдэглэх">
+<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Clipboard-д хуулах">
+<!ENTITY aboutSupport.graphicsTitle "Graphics">
 
-<!ENTITY aboutSupport.appBasicsCrashIDs "Эвдрэлийн тайлан">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
-<!ENTITY aboutSupport.appBasicsMemoryUse	"Санах ой ашиглах хэмжээ">
+<!ENTITY aboutSupport.a11yTitle "Хандалт">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.updateHistoryTitle "Түүхийг шинэчил">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
