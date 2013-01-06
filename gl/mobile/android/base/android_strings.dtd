@@ -137,7 +137,6 @@ size. -->
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Nova lapela">
 <!ENTITY new_private_tab "Nova lapela privada">
-<!ENTITY synced_tabs "Lapelas sincronizadas">
 <!ENTITY close_all_tabs "Pechar todas as lapelas">
 <!ENTITY tabs_normal "Lapelas">
 <!ENTITY tabs_private "Privadas">
