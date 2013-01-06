@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Cau Tab">
 <!ENTITY new_tab "Tab Newydd">
 <!ENTITY one_tab "1 tab">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d tab">
 <!ENTITY new_tab_opened "Tab newydd wedi ei agor">
@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Dweud wth wefannau i beidio fy nilyn">
 <!ENTITY pref_telemetry "Anfonwch ddata perfformiad">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
-<!ENTITY pref_cookies "Galluogi cwcis">
+
+<!ENTITY pref_cookies_menu "Cwcis">
+<!ENTITY pref_cookies_accept_all "Galluogwyd">
+<!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
+<!ENTITY pref_cookies_disabled "Analluogwyd">
+
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
 <!ENTITY pref_char_encoding_off "Peidio dangos dewislen">
@@ -79,8 +84,9 @@
 <!ENTITY pref_plugins "Ategion">
 <!ENTITY pref_plugins_enabled "Galluogwyd">
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
-<!ENTITY pref_plugins_disabled "Wedi’i Anablu">
+<!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_text_size "Maint testun">
+<!ENTITY pref_reflow_on_zoom2 "Pinsio i ail-lifo testun">
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings "Dewisiadau\'r wefan">
 
+<!ENTITY pref_update_autodownload "Diweddariadau awtomatig">
+<!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
+<!ENTITY pref_update_autodownload_disabled "Analluogwyd">
+<!ENTITY pref_update_autodownload_enabled "Galluogwyd">
+
 <!ENTITY quit "Gadael">
 
 <!ENTITY addons "Ychwanegion">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Canfod yn y Dudalen">
 <!ENTITY desktop_mode "Gofyn am Wefan Lawn">
 <!ENTITY tools "Offer">
+<!ENTITY new_pb_tab "Tab Pori Preifat Newydd">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -153,7 +165,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Lleoliad">
 <!ENTITY bookmark_edit_keyword "Allweddair">
 
-<!ENTITY site_settings_title2       "Gosodiadau Gwefan...">
+<!ENTITY site_settings_title2       "Gosodiadau Gwefan…">
 <!ENTITY site_settings_cancel       "Diddymu">
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY abouthome_last_tabs_open "Agor pob tab ers y tro diwethaf">
 <!ENTITY abouthome_top_sites_title "Hoff wefannau">
-<!ENTITY abouthome_top_sites_browse "Pori eich hoff wefannau">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -227,7 +238,7 @@ gan Android">
 o Android">
 <!ENTITY bookmarkhistory_import_history "Mewnforio hanes
 o Android">
-<!ENTITY bookmarkhistory_import_wait "Arhoswch…">
+<!ENTITY bookmarkhistory_import_wait "Arhoswch...">
 <!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
      be kept in the string; this will be replaced with the name of the search
      engine. -->
@@ -241,11 +252,11 @@ o Android">
 
 <!ENTITY updater_start_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_start_select2 "Cyffwrdd i lwytho i lawr">
- 
+
 <!ENTITY updater_downloading_title2 "Llwytho &brandShortName; i lawr">
 <!ENTITY updater_downloading_title_failed2 "Methodd y llwytho i lawr">
 <!ENTITY updater_downloading_select2 "Cyffwrdd i osod diweddariad wedi ei lwytho i lawr">
 <!ENTITY updater_downloading_retry2 "Cyffwrdd i geisio eto">
- 
+
 <!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">

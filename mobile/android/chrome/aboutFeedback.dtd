@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
 <!ENTITY support.pre               "Os oes angen cymorth arnoch neu mae gennych anhawster gyda &brandShortName;, ewch i ">
-<!ENTITY support.link              "Cychwyn &brandShortName;">
+<!ENTITY support.link              "Cefnogaeth &brandShortName;">
 <!ENTITY support.post              ".">
 
 <!ENTITY happy.header              "Mae hynny'n dda ei glywed!">

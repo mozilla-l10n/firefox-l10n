@@ -5,7 +5,7 @@
 
 <!ENTITY  splash_firstrun "Gosod &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; i gychwyn.">
+<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Adroddwr Gwall &brandShortName;">

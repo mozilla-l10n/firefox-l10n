@@ -36,7 +36,7 @@
 <!ENTITY openRecentMenu.label         "Agor y Diweddar">
 <!ENTITY openRecentMenu.accesskey     "D">
 
-<!ENTITY revertCmd.label              "Dychwelyd...">
+<!ENTITY revertCmd.label              "Dychwelyd…">
 <!ENTITY revertCmd.accesskey          "D">
 
 <!ENTITY saveFileCmd.label            "Cadw">
