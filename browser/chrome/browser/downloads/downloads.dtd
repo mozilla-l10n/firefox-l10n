@@ -74,3 +74,6 @@
      -->
 <!ENTITY downloadsHistory.label           "Afficher tous les téléchargements">
 <!ENTITY downloadsHistory.accesskey       "i">
+
+<!ENTITY clearDownloadsButton.label       "Effacer les téléchargements">
+<!ENTITY clearDownloadsButton.tooltip     "Effacer les téléchargements terminés, annulés et qui ont échoué">
