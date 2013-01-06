@@ -75,3 +75,5 @@
 <!ENTITY downloadsHistory.label           "Amosar todas as descargas">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY clearDownloadsButton.label       "Limpar as descargas">
+<!ENTITY clearDownloadsButton.tooltip     "Limpa as descargas rematadas, canceladas e fallidas">
