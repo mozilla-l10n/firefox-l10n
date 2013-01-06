@@ -63,8 +63,8 @@
 <!ENTITY  permCookie            "Đặt Cookie">
 <!ENTITY  permInstall           "Cài đặt Phần mở rộng hoặc Giao diện">
 <!ENTITY  permGeo               "Chia sẻ Vị trí">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPlugins           "Kích hoạt Plugins">
+<!ENTITY  permFullscreen        "Vào chế độ Toàn màn hình">
 
 <!ENTITY  permIndexedDB              "Duy trì Lưu trữ Ngoại tuyến">
 <!ENTITY  permClearStorage           "Xóa trắng Lưu trữ">

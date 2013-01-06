@@ -28,8 +28,8 @@
 <!ENTITY netInterrupt.title "Truyền tải Dữ liệu bị Ngắt">
 <!ENTITY netInterrupt.longDesc "<p>Trình duyệt đã kết nối thành công, nhưng kết nối đã bị ngắt khi đang trao đổi thông tin. Vui lòng thử lại.</p><ul><li>Bạn cũng không thể duyệt trang khác? Hãy kiểm tra kết nối mạng.</li><li>Vẫn gặp vấn đề? Hỏi ý quản trị mạng hoặc nhà cung cấp Internet của bạn để được trợ giúp.</li><li>Hoặc, có thể truy cập trình đơn 'Trợ giúp' ở trên để tìm hỗ trợ.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Tài liệu đã hết hạn">
+<!ENTITY notCached.longDesc "<p>Tài liệu được yêu cầu không có sẵn trong bộ đệm của trình duyệt.</p><ul><li>Vì lí do bảo mật, trình duyệt không tự động yêu cầu lại các tài liệu nhạy cảm.</li><li>Nhấn Thử Lại để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ Ngoại tuyến">
 <!ENTITY netOffline.longDesc2 "<p>Trình duyệt đang hoạt động trong chế độ ngoại tuyến và không thể kết nối tới mục được yêu cầu.</p><ul><li>Máy tính có được nối tới một mạng đang hoạt động không?</li><li>Ấn &quot;Thử lại&quot; để vào chế độ trực tuyến và tải lại trang.</li></ul>">

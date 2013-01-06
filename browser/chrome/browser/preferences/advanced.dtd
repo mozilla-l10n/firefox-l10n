@@ -30,9 +30,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Luôn kiểm tra xem &brandShortName; có phải là trình duyệt mặc định mỗi khi khởi chạy">
 <!ENTITY alwaysCheckDefault.accesskey    "L">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.label                "Đặt &brandShortName; làm trình duyệt mặc định">
 <!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+<!ENTITY isDefault.label                 "&brandShortName; đang là trình duyệt mặc định">
 <!ENTITY submitCrashes.label             "Gửi báo cáo việc hỏng">
 <!ENTITY submitCrashes.accesskey         "b">
 <!ENTITY submitTelemetry.label           "Gửi dữ liệu về hiệu suất">
@@ -46,9 +46,9 @@
 <!ENTITY connectionSettings.label        "Thiết lập…">
 <!ENTITY connectionSettings.accesskey    "p">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Nội dung web đã được cached">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -61,31 +61,31 @@
 <!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
 <!ENTITY clearCacheNow.label             "Xóa Ngay">
 <!ENTITY clearCacheNow.accesskey         "a">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.label   "Xóa Ngay">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Khống chế việc quản lí bộ đệm tự động">
 <!ENTITY overrideSmartCacheSize.accesskey "K">
 
 <!ENTITY updateTab.label                 "Cập nhật">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateApp.label                 "Cập nhật &brandShortName;:">
+<!ENTITY updateAuto.label                "Tự động cài đặt các cập nhật (nên làm vì tăng tính bảo mật)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateCheck.label               "Kiểm tra các cập nhật, nhưng để tôi lựa chọn có cài đặt chúng hay không">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
+<!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.label       "Cảnh báo tôi nếu điều này làm vô hiệu hóa tiện ích nào đó">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "Hiển thị Lược sử Cập nhật">
 <!ENTITY updateHistory.accesskey         "L">
 
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY updateOthers.label              "Tự động cập nhật:">
 <!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 
@@ -94,7 +94,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Ngoại trừ…">
 <!ENTITY offlineNotifyExceptions.accesskey "N">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Trang dưới đây cho phép lưu dữ liệu để sử dụng ngoại tuyến:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Xóa…">
 <!ENTITY offlineAppsListRemove.accesskey "X">

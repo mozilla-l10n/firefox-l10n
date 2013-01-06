@@ -4,18 +4,18 @@
 <!ENTITY aboutDialog.title          "Thông tin về &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!ENTITY warningDesc.version        "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetryDesc  "Thông tin về việc sử dụng, về hiệu suất, phần cứng và các tùy chỉnh sẽ được tự động gửi tới &vendorShortName; để giúp &brandShortName; tốt hơn.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Thông tin về việc sử dụng, về hiệu suất, phần cứng và các tùy chỉnh sẽ được tự động gửi tới &vendorShortName; để giúp &brandShortName; tốt hơn.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       "là một ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.creditsLink  "cộng đồng toàn cầu">
+<!ENTITY community.exp.end          "cùng chung sức mạnh bảo vệ Web mở và ai cũng truy cập được.">
 
 <!ENTITY community.start2           "&brandShortName; được thiết kế bởi ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -23,12 +23,12 @@
 <!ENTITY community.middle2          ", một ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "cộng đồng toàn cầu">
-<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.end3             "cùng chung sức mạnh bảo vệ Web mở và ai cũng truy cập được.">
 
-<!ENTITY contribute.start           "Thấy thú vị? ">
+<!ENTITY contribute.start           "Nghe hay không? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Hãy tham gia ngay!">
-<!ENTITY contribute.end             "">
+<!ENTITY contribute.end             "Hãy tham gia ngay!">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Thông tin Giấy phép">
@@ -55,14 +55,14 @@
 
 <!ENTITY update.failed.start        "Cập nhật bị thất bại.">
 <!ENTITY update.failed.linkText     "Tải xuống phiên bản mới nhất">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "Tải xuống phiên bản mới nhất">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Cập nhật có tại">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          "Cập nhật có tại">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -70,12 +70,12 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Đang tải cập nhật — ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "Đang tải cập nhật —">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Áp dụng cập nhật…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Bạn hiện đang sử dụng ">
+<!ENTITY channel.description.start  "Bạn hiện đang trên ">
 <!ENTITY channel.description.end    " kênh cập nhật. ">

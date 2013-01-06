@@ -17,11 +17,11 @@
 <!ENTITY manageAccount.label          "Quản lý Tài khoản">
 <!ENTITY manageAccount.accesskey      "Q">
 <!ENTITY viewQuota.label              "Xem Hạn Mức">
-<!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY changePassword2.label        "Đổi mật khẩu...">
+<!ENTITY myRecoveryKey.label          "Key Khôi phục của tôi">
+<!ENTITY resetSync2.label             "Thiết lập lại Sync…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Ghép đối thiết bị">
 
 <!ENTITY syncMy.label               "Đồng Bộ">
 <!ENTITY engine.bookmarks.label     "Trang đánh dấu">
@@ -38,9 +38,9 @@
 <!ENTITY engine.addons.accesskey    "T">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "Tên thiết bị:">
 <!ENTITY syncDeviceName.accesskey   "c">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY unlinkDevice.label           "Bỏ liên kết thiết bị này">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Điều khoản Dịch vụ">

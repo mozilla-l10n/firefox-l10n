@@ -8,10 +8,10 @@
 <!ENTITY syncBrand.shortName.label "Đồng bộ">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
 <!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.pair.label "Ghép đối thiết bị">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
@@ -19,10 +19,10 @@
 <!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Chỉ tôi cách làm.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Tôi không có thiết bị ở đây…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -72,7 +72,7 @@
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
 <!ENTITY bookmarks.folder.menu.label "Trình đơn Đánh dấu">

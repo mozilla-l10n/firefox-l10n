@@ -7,7 +7,7 @@
 
 <!ENTITY allowScripts.label             "Cho phép các đoạn mã:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.label     "Di chuyển hoặc chỉnh kích thước  cửa sổ popup">
 <!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Nâng hoặc hạ cửa sổ">
 <!ENTITY raiseLowerWindows.accesskey    "g">

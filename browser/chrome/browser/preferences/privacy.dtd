@@ -7,15 +7,15 @@
 <!ENTITY doNotTrack.label               "Nói với các trang web rằng tôi không muốn bị theo dõi">
 <!ENTITY doNotTrack.accesskey           "d">
 
-<!ENTITY  history.label                 "Lược sử">
+<!ENTITY  history.label                 "Lịch sử">
 
 <!ENTITY  locationBar.label             "Thanh Địa Chỉ">
 
 <!ENTITY  locbar.pre.label              "Khi sử dụng thanh địa chỉ, đề nghị:">
 <!ENTITY  locbar.pre.accessKey          "a">
-<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.post.label             "Khi sử dụng thanh địa chỉ, đề nghị: (u)">
 <!ENTITY  locbar.both.label             "Lược sử và Đánh dấu">
-<!ENTITY  locbar.history.label          "Lược sử">
+<!ENTITY  locbar.history.label          "Lịch sử">
 <!ENTITY  locbar.bookmarks.label        "Đánh dấu">
 <!ENTITY  locbar.nothing.label          "Không đề nghị">
 
@@ -43,7 +43,7 @@
 <!ENTITY  historyHeader.remember.label     "Ghi nhớ lược sử">
 <!ENTITY  historyHeader.dontremember.label "Không bao giờ ghi nhớ lược sử">
 <!ENTITY  historyHeader.custom.label       "Sử dụng thiết lập tùy biến cho lược sử">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "Sử dụng thiết lập tùy biến cho lịch sử">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sẽ ghi nhớ việc duyệt web, tải xuống, lược sử biểu mẫu và tìm kiếm, và giữ lại cookie của những trang Web mà bạn đã vào.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
@@ -67,7 +67,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Luôn luôn dùng chế độ duyệt web riêng tư">
 <!ENTITY  privateBrowsingPermanent2.accesskey "y">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.label      "Ghi nhớ lịch sử truy cập và tải về của tôi">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Ghi nhớ lược sử biểu mẫu và tìm kiếm">

@@ -26,6 +26,6 @@
 <!ENTITY abouthome.historyButton.label   "Lược sử">
 <!ENTITY abouthome.settingsButton.label  "Thiết lập">
 <!ENTITY abouthome.addonsButton.label    "Tiện ích">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.appsButton.label      "Thương trường">
+<!ENTITY abouthome.downloadsButton.label "Trang tải xuống">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

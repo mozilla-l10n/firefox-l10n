@@ -30,7 +30,7 @@
 <!ENTITY allPagesHeader.label      "Tất cả Các trang">
 <!ENTITY bookmarksHeader.label     "Đánh dấu">
 <!ENTITY historyHeader.label       "Lược sử">
-<!ENTITY desktopHeader.label       "Desktop">
+<!ENTITY desktopHeader.label       "Bàn làm việc">
 
 <!ENTITY editBookmarkDialog.title  "Chỉnh sửa Trang đánh dấu">
 <!ENTITY editBookmarkDone.label    "Xong">

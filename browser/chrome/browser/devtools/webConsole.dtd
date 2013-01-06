@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Web Console">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL yêu cầu:">
+<!ENTITY networkPanel.requestMethodColon          "Phương thức yêu cầu:">
+<!ENTITY networkPanel.statusCodeColon             "Mã trạng thái:">
 
 <!ENTITY networkPanel.requestHeaders              "Đầu đề Yêu cầu">
 <!ENTITY networkPanel.requestCookie               "Cookie đã gửi">
@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Dữ liệu Biểu mẫu Đã gửi">
 
 <!ENTITY networkPanel.responseHeaders             "Đầu đề Phản hồi">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "Cookie đã nhận">
 <!ENTITY networkPanel.responseBody                "Nội dung Phản hồi">
 <!ENTITY networkPanel.responseBodyCached          "Dữ liệu Được đệm">
 <!ENTITY networkPanel.responseBodyUnknownType     "Kiểu nội dung Chưa biết">
@@ -30,51 +30,51 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "Log lại các Request và Response Bodies">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "Mở URL ở thẻ mới">
+<!ENTITY openURL.accesskey "t">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageNet.label   "Mạng">
+<!ENTITY btnPageNet.tooltip "Ghi chép truy cập mạng">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "Ghi lại các lỗi phân tích CSS">
 <!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
+<!ENTITY btnPageJS.tooltip  "Ghi lại các ngoại lệ JavaScript">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.label   "Logging (lưu nhật ký)">
+<!ENTITY btnPageLogging.tooltip "Các thông báo log gửi tới đối tượng window.console">
 <!ENTITY btnConsoleErrors       "Lỗi">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Cảnh báo">
-<!ENTITY btnConsoleLog          "Log">
+<!ENTITY btnConsoleLog          "Lưu nhật ký">
 <!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
   -  allows the user to toggle between the Web Console positioning types. -->
 
-<!ENTITY btnPosition.label     "Position">
+<!ENTITY btnPosition.label     "Vị trí">
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
 
-<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
+<!ENTITY btnPosition.tooltip   "Đặt Bảng kiểm soát Web ở trên hoặc dưới tài liệu">
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->
 
-<!ENTITY positionMenu.above    "Above">
+<!ENTITY positionMenu.above    "Trên">
 <!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
   -  Web Console interface is displayed below the web page. -->
 
-<!ENTITY positionMenu.below    "Below">
+<!ENTITY positionMenu.below    "Dưới">
 <!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
   -  Web Console interface is displayed in a floating panel. -->
 
@@ -82,8 +82,8 @@
 
 <!ENTITY filterBox.placeholder "Bộ lọc">
 <!ENTITY btnClear.label        "Xóa trắng">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY btnClear.tooltip      "Xóa trắng Web Console">
+<!ENTITY btnClose.tooltip      "Đóng Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
