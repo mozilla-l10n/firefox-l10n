@@ -64,6 +64,8 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "Effacer la liste">
 <!ENTITY cmd.clearList.accesskey          "l">
+<!ENTITY cmd.clearDownloads.label         "Effacer les téléchargements">
+<!ENTITY cmd.clearDownloads.accesskey     "t">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
