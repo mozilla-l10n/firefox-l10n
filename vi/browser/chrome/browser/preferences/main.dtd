@@ -15,7 +15,7 @@
 <!ENTITY useCurrentPage.label      "Sử dụng Trang hiện tại">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Dùng các Trang hiện tại">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
+<!ENTITY chooseBookmark.label      "Dùng đánh dấu mới… (B)">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Khôi phục về Mặc định">
 <!ENTITY restoreDefault.accesskey  "M">

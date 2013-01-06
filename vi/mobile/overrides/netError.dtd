@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Không thể kết nối">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Địa chỉ này đã bị chặn">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -45,10 +45,10 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Tài liệu được yêu cầu không có sẵn trong bộ đệm của &brandShortName;.</p><ul><li>Vì lí do bảo mật, &brandShortName; không tự động yêu cầu lại các tài liệu nhạy cảm.</li><li>Nhấn Thử Lại để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
 <!ENTITY netOffline.longDesc2 "
@@ -68,10 +68,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Kết nối bị khởi tạo lại">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Kết nối bị hết thời gian">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Địa chỉ không thể hiểu được">
 <!ENTITY protocolNotFound.longDesc "<ul> 

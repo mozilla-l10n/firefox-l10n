@@ -28,9 +28,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "Ghim thẻ">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "Gỡ thẻ">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Di chuyển vào Nhóm">
 <!ENTITY  moveToGroup.accesskey              "y">
@@ -83,9 +83,9 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.label "Bắt đầu chế độ toàn màn hình">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.label "Thoát chế độ Toàn màn hình">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Toàn màn hình">
 <!ENTITY fullScreenCmd.accesskey "T">
@@ -102,10 +102,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "c">
 <!ENTITY fullscreenAllowButton.label "Cho phép">
 <!ENTITY fullscreenExitButton.label "Từ chối">
-<!ENTITY fullscreenApproval.value "Allow fullscreen?">
+<!ENTITY fullscreenApproval.value "Cho phép toàn màn hình?">
 
-<!ENTITY fullscreenExitHint.value "Press ESC at any time to exit fullscreen.">
-<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY fullscreenExitHint.value "Ấn ESC để thoát khỏi chế đệ toàn màn hình.">
+<!ENTITY leaveDOMFullScreen.label "Thoát chế độ Toàn màn hình">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Đóng Cửa Sổ">
@@ -129,8 +129,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Tiến">
 <!ENTITY forwardCmd.accesskey         "T">
 <!ENTITY forwardButton.tooltip        "Tiến tới trang sau">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+<!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử">
+<!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem lịch sử">
 <!ENTITY reloadCmd.label              "Tải lại">
 <!ENTITY reloadCmd.accesskey          "i">
 <!ENTITY reloadButton.tooltip         "Tải lại trang này">
@@ -205,18 +205,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Bảng kiểm soát Web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "Chế độ dòng lệnh Web từ xa">
 
 <!ENTITY inspectMenu.label            "Giám sát">
 <!ENTITY inspectMenu.accesskey        "G">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "Thăm dò Phân tử">
+<!ENTITY inspectContextMenu.accesskey "T">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.label   "Chế độ Responsive Design">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.commandkey "R">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -229,42 +229,42 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+<!ENTITY inspectCloseButton.tooltiptext "Đóng trình kiểm tra">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Đóng thanh lề">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh Phát triển">
+<!ENTITY devToolbarMenu.label              "Thanh công cụ Phát triển">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarOtherToolsButton.label  "Thêm công cụ">
 
-<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.label       "Sao chép HTML phía trong">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "Sao chép HTML phía ngoài">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 
-<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.label          "Xóa Nút">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
 
-<!ENTITY inspect3DViewButton.label     "3D View">
+<!ENTITY inspect3DViewButton.label     "Xem dưới dạng 3D">
 <!ENTITY inspect3DViewButton.accesskey "W">
 
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStyleButton.label     "Kiểu">
+<!ENTITY inspectStyleButton.accesskey "K">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 
-<!ENTITY styleeditor.label            "Style Editor">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.label            "Trình soạn Kiểu">
+<!ENTITY styleeditor.accesskey        "T">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
@@ -276,14 +276,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Cửa Sổ Mới">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "S">
-<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.label     "Cửa sổ Riêng Tư mới">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Chỉnh sửa"> 
 <!ENTITY editMenu.accesskey       "C"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Hoàn tác">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "H"> 
 <!ENTITY redoCmd.label            "Làm lại">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "L"> 
@@ -429,7 +429,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Đánh Dấu Khung Này">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "u">
-<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.label           "Liên kết Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Lưu Trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey        "r">
@@ -448,12 +448,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Lưu Tiếng Thành…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailImageCmd.label          "Hình Email…">
+<!ENTITY emailImageCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.label          "Gửi Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
-<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Gửi Audio…">
+<!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY copyLinkCmd.label            "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Chép Địa Chỉ Ảnh">
@@ -493,15 +493,15 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "K">
 <!ENTITY videoFullScreen.label       "Toàn màn hình">
 <!ENTITY videoFullScreen.accesskey   "o">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.label        "Lưu ảnh chụp ...">
+<!ENTITY videoSaveImage.accesskey    "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoShowStats.label        "Hiện Thống Kê">
+<!ENTITY videoShowStats.accesskey    "T">
+<!ENTITY videoHideStats.label        "Ẩn Thống Kê">
+<!ENTITY videoHideStats.accesskey    "T">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -514,17 +514,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "=">
 
 <!ENTITY fullZoomReduceCmd.label        "Thu nhỏ">
 <!ENTITY fullZoomReduceCmd.accesskey    "T">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "-">
 
 <!ENTITY fullZoomResetCmd.label         "Mặc định">
 <!ENTITY fullZoomResetCmd.accesskey     "M">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "Chỉ thu phóng Văn bản">
 <!ENTITY fullZoomToggleCmd.accesskey    "V">
@@ -622,7 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Thẻ ở thiết bị khác">
 
 <!ENTITY syncBrand.shortName.label    "Đồng bộ">
 
@@ -639,24 +639,24 @@ located in front of the breadcrumbs display in the inspector toolbar. The button
 doesn't display any label, but exposes a label to screen-readers with "aria-label".
 -->
 
-<!ENTITY markupButton.arialabel          "Markup">
+<!ENTITY markupButton.arialabel          "Mã định dạng">
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY socialToolbar.title        "Nút hiển thị thanh công cụ mạng xã hội">
+<!ENTITY social.notLoggedIn.label   "Chưa đăng nhập">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
+<!ENTITY social.toggleSidebar.label "Hiển thị thanh lề">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.label "Hiển thị thanh thông báo desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.activated.undobutton.label "Hoàn tác">
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">

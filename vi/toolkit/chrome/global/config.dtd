@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton.label "Tôi sẽ cẩn thận. Tôi hứa!">
 <!ENTITY aboutWarningCheckbox.label "Hiện cảnh báo này vào lần sau">
 
-<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.label "Tìm kiếm:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->

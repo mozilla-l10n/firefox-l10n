@@ -22,7 +22,7 @@
 <!ENTITY codeEval.accesskey "M">
 <!ENTITY evaluate.label     "Đánh giá">
 <!ENTITY evaluate.accesskey "g">
-<!ENTITY filter.label       "Filter">
+<!ENTITY filter.label       "Bộ lọc">
 <!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "Chép">  

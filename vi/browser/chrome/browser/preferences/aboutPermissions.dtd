@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Luôn Hỏi">
 <!ENTITY permission.allow                "Cho phép">
 <!ENTITY permission.allowForSession      "Cho phép theo Phiên">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "Chỉ chấp nhận nhà cung cấp thứ nhất">
 <!ENTITY permission.block                "Chặn">
 
 <!ENTITY password.label                  "Lưu giữ Mật khẩu">
@@ -41,4 +41,4 @@
 
 <!ENTITY popup.label                     "Mở Cửa Sổ Pop-up">
 
-<!ENTITY fullscreen.label                "Fullscreen">
+<!ENTITY fullscreen.label                "Toàn màn hình">

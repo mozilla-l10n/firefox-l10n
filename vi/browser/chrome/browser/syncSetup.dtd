@@ -6,24 +6,24 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description2 "Xin chào! Nếu bạn chưa từng sử dụng &syncBrand.fullName.label; trước hết, bạn cần phải tạo một tài khoản mới.">
 <!ENTITY button.createNewAccount.label "Tạo một Tài Khoản Mới">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Tôi Có Tài Khoản">
 
 <!ENTITY setup.choicePage.title.label     "Bạn đã dùng &syncBrand.fullName.label; trước đây chưa?">
 <!ENTITY setup.choicePage.new.label       "Tôi chưa bao giờ dùng &syncBrand.shortName.label; trước đây">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "Tôi đang sử dụng &syncBrand.shortName.label; trên thiết bị khác">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Máy chủ">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY serverType.default.label      "Máy chủ mặc định: Mozilla @syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Dùng một máy chủ tùy biến…">
 <!ENTITY signIn.account2.label      "Tài khoản">
 <!ENTITY signIn.account2.accesskey  "i">
 <!ENTITY signIn.password.label      "Mật khẩu">
 <!ENTITY signIn.password.accesskey  "u">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Từ khóa Khôi phục">
+<!ENTITY signIn.recoveryKey.accesskey   "T">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Chi tiết Tài khoản">
@@ -44,12 +44,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "v">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; quan tâm đến sự riêng tư của bạn">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Để đảm bảo tối đa quyền riêng tư, dữ liệu của bạn sẽ được mã hóa trước khi gửi. Khóa Khôi phục cần để giải mã dữ liệu này và sẽ không được tải lên.">
+<!ENTITY recoveryKeyEntry.label        "Từ khóa Khôi phục của Bạn">
+<!ENTITY recoveryKeyEntry.accesskey    "T">
 <!ENTITY syncGenerateNewKey.label  "Tạo một khóa mới">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY recoveryKeyBackup.description "Khóa Khôi phục cần để truy cập &syncBrand.fullName.label; trên máy tính khác. Hãy sao lưu khóa này vì chúng tôi không thể khôi phục nó.">
 
 <!ENTITY button.syncKeyBackup.print.label     "In…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
@@ -57,28 +57,28 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "u">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Ghép đối thiết bị">
 <!ENTITY addDevice.showMeHow.label          "Chỉ tôi cách làm.">
 <!ENTITY addDevice.dontHaveDevice.label     "Tôi không có thiết bị ở đây">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Để kích hoạt, chọn &#x0022;Ghép đôi thiết bị&#x0022; trên thiết bị khác của bạn.">
 <!ENTITY addDevice.setup.enterCode.label    "Rồi nhập mã sau:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Để kích hoạt thiết bị mới, chọn &#x0022;Cài đặt đồng bộ&#x0022; trên thiết bị.">
 <!ENTITY addDevice.dialog.enterCode.label   "Nhập mã mà thiết bị cung cấp:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Vui lòng thử lại.">
 <!ENTITY addDevice.dialog.successful.label  "Thiết bị đã được thêm vào thành công. Bước đồng bộ ban đầu có thể mất vài phút và sẽ hoàn thành trong phần nền.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Để kích hoạt thiết bị, bạn cần nhập Khóa Khôi phục. Hãy in và cất kỹ khóa này.">
 <!ENTITY addDevice.dialog.connected.label   "Thiết bị Đã được Kết nối">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Đăng nhập">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Bạn có thể xem Khóa Khôi phục trong &syncBrand.shortName.label; Tùy chọn, sau đó chọn  &#x0022; Khóa khôi phục &#x0022; dưới &#x0022;Quản lý Tài khoản &#x0022;.">
 <!ENTITY verifying.label              "Đang xác thực…">
 <!ENTITY resetPassword.label          "Đặt lại Mật khẩu">
 <!ENTITY resetSyncKey.label           "Tôi đã làm mất thiết bị khác của mình.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Tùy chọn Đồng bộ">
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "Tên thiết bị:">
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Đồng Bộ">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Tiện ích">
 <!ENTITY engine.addons.accesskey    "T">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "Hợp nhất dữ liệu trên thiết bị này với dữ liệu &syncBrand.shortName.label; của tôi">
 <!ENTITY choice2.merge.recommended.label "Khuyên dùng:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.client.main.label      "Thay thế toàn bộ dữ liệu trên thiết bị này bằng dữ liệu &syncBrand.shortName.label; của tôi">
+<!ENTITY choice2a.server.main.label      "Thay thế toàn bộ thiết bị khác với dữ liệu của thiết bị này">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Xác nhận">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sẽ hợp nhất toàn bộ dữ liệu trình duyệt trên thiết bị này với tài khoản đồng bộ của bạn.">
+<!ENTITY confirm.client3.label         "Cảnh báo: Dữ liệu của &brandShortName; trên thiết bị này sẽ bị xóa:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; sẽ sao chép dữ liệu &syncBrand.fullName.label; của bạn lên thiết bị này.">
 <!ENTITY confirm.server2.label         "Cảnh báo: Các thiết bị sau sẽ bị ghi đè bằng dữ liệu trong máy của bạn:">
 <!-- New & Existing Account: Setup Complete -->
 

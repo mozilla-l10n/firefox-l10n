@@ -17,9 +17,9 @@
 
 <!ENTITY spellAddToDictionary.label "Thêm vào Từ điển">
 <!ENTITY spellAddToDictionary.accesskey "v">
-<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.label "Hoàn tác Đưa vào từ điển">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.label "Kiểm tra chính tả">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Không có Gợi ý Sửa chính tả)">
 <!ENTITY spellDictionaries.label "Ngôn ngữ">

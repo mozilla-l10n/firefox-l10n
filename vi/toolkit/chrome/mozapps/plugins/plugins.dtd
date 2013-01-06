@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
-<!ENTITY unsupportedPlatform.pre                             "We're very sorry, but &brandShortName; can't play Flash on this device. ">
+<!ENTITY unsupportedPlatform.pre                             "Rất tiếc, &brandShortName; không thể chơi Flash trên thiết bị này.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Tìm hiểu Thêm…">
@@ -34,9 +34,9 @@
 
 <!ENTITY missingPlugin                                       "Cần có một phần bổ trợ để hiển thị nội dung này.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
+<!ENTITY tapToPlayPlugin                                     "Nhấn chuột ở đây để kích hoạt plugin.">
 <!ENTITY clickToPlayPlugin                                   "Chạm đây để kích hoạt phần bổ trợ.">
-<!ENTITY checkForUpdates                                     "Check for updates…">
+<!ENTITY checkForUpdates                                     "Kiểm tra các cập nhật…">
 <!ENTITY disabledPlugin                                      "Phần bổ trợ này đã bị vô hiệu hóa.">
 <!ENTITY blockedPlugin.label                                 "Phần bổ trợ này đã bị chặn để bảo vệ bạn.">
 
@@ -57,5 +57,5 @@
 <!ENTITY report.failed                                       "Việc gửi lên thất bại.">
 <!ENTITY report.unavailable                                  "Hiện không có báo cáo nào.">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "Tệp">
+<!ENTITY plugin.mimeTypes                                    "Kiểu MIME">

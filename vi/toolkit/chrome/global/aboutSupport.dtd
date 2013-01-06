@@ -23,7 +23,7 @@ về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> c�
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Thư mục Hồ sơ">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ Đã kích hoạt">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
@@ -31,22 +31,22 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsCrashIDs "Báo cáo Đổ vỡ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Mở Thư mục">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Hiện trong Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Show Folder">
+<!ENTITY aboutSupport.showWin.label "Hiển thị Thư mục">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Các tùy chọn quan trọng đã được sửa đổi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tên">
 <!ENTITY aboutSupport.modifiedPrefsValue "Giá trị">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Tinh chỉnh user.js">
+<!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tệp <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Đồ họa">
 
@@ -54,13 +54,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
 <!ENTITY aboutSupport.a11yTitle "Tính năng Truy cập">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yActivated "Được kích hoạt">
+<!ENTITY aboutSupport.a11yForceDisabled "Ngăn các tùy chọn về khả năng truy cập">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Phiên bản Thư viện">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Lược sử Cài đặt">
 <!ENTITY aboutSupport.updateHistoryTitle "Lược sử Cập nhật">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Sao chép đoạn chữ vào clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
