@@ -1,12 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "ডাউনল'ডসমূহ">
 
+<!ENTITY downloads.title                  "ডাউনল'ডসমূহ">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -23,8 +22,8 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-<!ENTITY downloadDetails.width            "50ch">
 
+<!ENTITY downloadDetails.width            "50ch">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -38,6 +37,7 @@
 
      that's 28 characters, so we set the minimum width to 28ch.
      -->
+
 <!ENTITY downloadsSummary.minWidth        "28ch">
 
 <!ENTITY cmd.pause.label                  "বিৰাম দিয়ক">
@@ -64,11 +64,11 @@
 <!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "তালিকা পৰিষ্কাৰ কৰক">
 <!ENTITY cmd.clearList.accesskey          "a">
-
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+
 <!ENTITY downloadsHistory.label           "সকলো ডাউনল'ড দেখুৱাওক">
 <!ENTITY downloadsHistory.accesskey       "S">
