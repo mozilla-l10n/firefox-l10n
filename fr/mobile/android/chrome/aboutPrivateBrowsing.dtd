@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navigation privée">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Vous avez ouvert un nouvel onglet de navigation privée.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Cet onglet n'est pas en mode de navigation privée.">
+
+<!ENTITY privatebrowsingpage.description            "Dans les onglets en mode de navigation privée, &brandShortName; ne conservera aucun historique de navigation, de recherche, de téléchargement, de formulaire web, de cookies ou de fichiers temporaires Internet. Cependant, les fichiers téléchargés ou les marque-pages ajoutés seront conservés.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Bien que cet appareil ne conserve aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet peut toujours connaître les pages que vous visitez.">
