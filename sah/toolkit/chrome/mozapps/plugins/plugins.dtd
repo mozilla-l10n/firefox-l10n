@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Саахал туһунан биллэрии араарыллыбыт.">
 <!ENTITY report.failed                                       "Ыытыы табыллыбата.">
 <!ENTITY report.unavailable                                  "Туттуллар кыахтаах сруктар суохтар.">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Көрдөөһүн:">
 <!ENTITY search.accesskey                          "К">
 
-<!ENTITY search.in.label                           "Манна көрдөө:">
-<!ENTITY search.scopeFolder.label                  "Талыллыбыт паапка">
-<!ENTITY search.scopeFolder.accesskey              "л">
-<!ENTITY search.scopeBookmarks.label               "Бэлиэ кыбытыктар">
-<!ENTITY search.scopeBookmarks.accesskey           "л">
-<!ENTITY search.scopeDownloads.label               "Хачайдааһыннар">
-<!ENTITY search.scopeDownloads.accesskey           "Х">
-<!ENTITY search.scopeHistory.label                 "Сурунаал">
-<!ENTITY search.scopeHistory.accesskey             "у">
-<!ENTITY saveSearch.label                          "Бигэргэт">
-<!ENTITY saveSearch.accesskey                      "Б">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Импорт уонна бэкап">

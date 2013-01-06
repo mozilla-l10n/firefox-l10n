@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Хаттаан холбоо">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Бэлиэтэммит ааккын салайыы">
-<!ENTITY manageAccount.accesskey      "Б">
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "Муҥутуур кээмэйи көр">
 <!ENTITY changePassword2.label        "Киирии тылы уларыт...">
 <!ENTITY myRecoveryKey.label          "Сөргүтэр тылым">

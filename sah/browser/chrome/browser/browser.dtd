@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "Б">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Холбоммокко үлэ">
-<!ENTITY goOfflineCmd.accesskey "Х">
+<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Меню хаптаһына">
 <!ENTITY menubarCmd.accesskey "М">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Түннүгү сап">
 <!ENTITY closeWindow.accesskey "с">
 
-<!ENTITY bookmarksMenu.label "Бэлиэлэр">
-<!ENTITY bookmarksMenu.accesskey "Б">
+<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Бу сирэйи бэлиэтээ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -159,9 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "Суруттар">
 <!ENTITY feedButton.tooltip           "Бу сирэйгэ суруттар...">
 
-<!ENTITY bookmarksButton.label          "Бэлиэлэр">
+<!ENTITY bookmarksButton.label          "Bookmarks">
 <!ENTITY bookmarksButton.tooltip        "Бэлиэтээбит сирдэргин көрдөр">
-<!ENTITY bookmarksButton.accesskey  "Б">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Бэлиэлэр">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Сурунаал">
 <!ENTITY historyButton.tooltip          "Соторутааҕыта көрүллүбүт сирэйдэр тиһиктэрин көрдөр">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Үстүрүмүөннэр">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Ситимҥэ үлэни салайыы">
 <!ENTITY webConsoleCmd.accesskey      "С">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "Чинчий">
 <!ENTITY inspectMenu.accesskey        "Ч">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Саҥа түннүк">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "С">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Уларытыы"> 
 <!ENTITY editMenu.accesskey       "У"> 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Төннөр">
 <!ENTITY social.activated.undobutton.accesskey "Т">
+
+<!ENTITY social.chatBar.commandkey "c">
