@@ -91,7 +91,7 @@
 <!ENTITY showAbToolbarCmd.label                         "Barre d'outils carnet d'adresses">
 <!ENTITY showAbToolbarCmd.accesskey                     "t">
 <!ENTITY showTaskbarCmd.label                           "Barre d'état">
-<!ENTITY showTaskbarCmd.accesskey                       "t">
+<!ENTITY showTaskbarCmd.accesskey                       "d">
 <!ENTITY customizeToolbar.label                         "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY layoutMenu.label                               "Disposition">
