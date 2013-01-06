@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "ئ">
 <!ENTITY searchIntegration.label       "اسمح ل‍ &searchIntegration.engineName; بالبحث في الرسائل">
 <!ENTITY searchIntegration.accesskey   "ث">
-<!ENTITY checkNow.label                "تحقق الآن">
-<!ENTITY checkNow.accesskey            "ن">
+<!ENTITY checkDefaultsNow.label        "التمس الآن…">
+<!ENTITY checkDefaultsNow.accesskey    "ت">
 <!ENTITY configEditDesc.label          "الإعدادات المتقدمة">
 <!ENTITY configEdit.label              "محرر الإعدادات…">
 <!ENTITY configEdit.accesskey          "ت">

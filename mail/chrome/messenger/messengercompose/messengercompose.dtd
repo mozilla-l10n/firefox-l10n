@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "ص">
 <!ENTITY dsnMenu.label "تنبيه حالة الاستلام">
 <!ENTITY dsnMenu.accesskey "ه">
-<!ENTITY outputFormatMenu.label "التنسيق">
-<!ENTITY outputFormatMenu.accesskey "ت">
+<!ENTITY deliveryFormatMenu.label "نسق التسليم">
+<!ENTITY deliveryFormatMenu.accesskey "س">
 <!ENTITY autoFormatCmd.label "تعرّف تلقائيّا">
 <!ENTITY autoFormatCmd.accesskey "ع">
 <!ENTITY plainTextFormatCmd.label "نص صِرْف فقط">

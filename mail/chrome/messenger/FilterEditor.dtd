@@ -16,13 +16,14 @@
 <!ENTITY highPriorityCmd.label "عالية">
 <!ENTITY highestPriorityCmd.label "القصوى">
 
-<!ENTITY contextDesc.label "طبّق التصفية عند:">
-<!ENTITY contextDesc.accesskey "ع">
-<!ENTITY contextIncoming.label "فحص البريد">
+<!ENTITY contextDesc.label "طبّق المُرشّح عند:">
+<!ENTITY contextIncomingMail.label "وصول بريد جديد">
+<!ENTITY contextIncomingMail.accesskey "ص">
 <!ENTITY contextManual.label "التشغيل اليدوي">
-<!ENTITY contextBoth.label "فحص البريد أو التشغيل اليدوي">
-<!ENTITY contextPostPlugin.label "التماس البريد (بعد التصنيف)">
-<!ENTITY contextPostPluginBoth.label "التماس البريد (بعد التصنيف) أو التشغيل اليدوي">
+<!ENTITY contextManual.accesskey "ش">
+<!ENTITY contextBeforeCls.label "رشّح قبل فرز السخام">
+<!ENTITY contextAfterCls.label "رشّح بعد فرز السخام">
+
 <!ENTITY filterActionDesc.label "نفذ الإجراءات التالية:">
 <!ENTITY filterActionDesc.accesskey "ن">
 <!-- New Style Filter Rule Actions -->
