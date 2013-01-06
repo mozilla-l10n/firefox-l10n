@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Opcions">
 <!ENTITY sync.summary.pair.label "Associar un autre aparelh a vòstre compte &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar vòstre...">
+<!ENTITY sync.configure.engines.title.bookmarks "Marcapaginas">
+<!ENTITY sync.configure.engines.title.passwords "Senhals">
+<!ENTITY sync.configure.engines.title.history "Istoric">
+<!ENTITY sync.configure.engines.title.tabs "Onglets">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Anullar">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Un sol compte &syncBrand.fullName.label; pòt èsser gerit.">
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nom de compte o senhal incorrècte.">

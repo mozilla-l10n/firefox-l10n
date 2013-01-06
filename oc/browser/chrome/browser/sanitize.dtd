@@ -5,7 +5,6 @@
 <!ENTITY sanitizePrefs2.title          "Paramètres per voidar las donadas privadas">
 <!ENTITY sanitizeDialog2.title         "Voidar l'istoric recent">
 
-<!ENTITY sanitizeItems.label          "Voidar los elements seguents ara :">
 <!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

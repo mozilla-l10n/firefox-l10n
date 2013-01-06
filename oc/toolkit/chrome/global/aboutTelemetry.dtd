@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
+
+<!ENTITY aboutTelemetry.pageSubtitle "  Aquesta pagina aficha las donadas de performàncias e d'utilizacion de las foncionalitats collectadas per telemetria. 
+Aquelas informacions son mandadas d'un biais anonim a Mozilla per ajudar al melhorament de &brandShortName;.">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "  La telemetria es <span>activada</span>.">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Informacions del sistèma">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">
+
+<!ENTITY aboutTelemetry.toggleOn "  Clicatz per desvolopar la seccion">
+
+<!ENTITY aboutTelemetry.toggleOff "  Clicatz per reduire la seccion">
+
+<!ENTITY aboutTelemetry.emptySection "  (Cap de donada pas collectada)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Recuperar los noms de foncions per las pilas dels blocatges">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Afichar las donadas brutas dels blocatges">

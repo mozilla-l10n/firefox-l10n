@@ -56,7 +56,7 @@
 <!ENTITY close_tab "Tampar l\'onglet">
 <!ENTITY new_tab "Onglet novèl">
 <!ENTITY one_tab "1 onglet">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs "&#037;d onglets">
 <!ENTITY new_tab_opened "Novèl onglet dobèrt">
@@ -71,16 +71,22 @@
 <!ENTITY pref_do_not_track "Dire de me pistar pas">
 <!ENTITY pref_telemetry "Mandar donadas de perf.">
 <!ENTITY pref_remember_signons "Enreg. los senhals :">
-<!ENTITY pref_cookies "Autorizar los cookies">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Activat">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Desactivat">
+
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menut">
-<!ENTITY pref_char_encoding_off "Amagar lo menut\">
+<!ENTITY pref_char_encoding_off "Amagar lo menut">
 <!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 <!ENTITY pref_plugins_enabled "Activat">
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
 <!ENTITY pref_plugins_disabled "Desactivat">
 <!ENTITY pref_text_size "Talha del tèxte">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Fòrça pichona">
 <!ENTITY pref_font_size_small "Pichona">
 <!ENTITY pref_font_size_medium "Mejana">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings "Preferéncias del site">
 
+<!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Desactivat">
+<!ENTITY pref_update_autodownload_enabled "Activat">
+
 <!ENTITY quit "Quitar">
 
 <!ENTITY addons "Moduls complementaris">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Recercar dins la pagina">
 <!ENTITY desktop_mode "Veire version ordenador">
 <!ENTITY tools "Aisinas">
+<!ENTITY new_pb_tab "Novel onglet de navigacion privada">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Vòstres darrièrs onglets dobèrts">
 <!ENTITY abouthome_last_tabs_open "Dobrir totes los onglets">
 <!ENTITY abouthome_top_sites_title "Sites favorits">
-<!ENTITY abouthome_top_sites_browse "Percórrer totes vòstres favorits">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,11 +252,11 @@ dempuèi Android">
 
 <!ENTITY updater_start_title2 "Mesa a jorn disponibla per &brandShortName;">
 <!ENTITY updater_start_select2 "Tocar per telecargar">
- 
+
 <!ENTITY updater_downloading_title2 "Telecargament de &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Lo telecargament a fracassat">
 <!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
 <!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
- 
+
 <!ENTITY updater_apply_title2 "Mesa a jorn disponibla per &brandShortName;">
 <!ENTITY updater_apply_select2 "Tocar per metre a jorn">

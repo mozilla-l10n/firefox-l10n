@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consòla Web">
 
-<!ENTITY networkPanel.requestURL                  "URL de la requèsta">
-<!ENTITY networkPanel.requestMethod               "Metòde de la requèsta">
-<!ENTITY networkPanel.statusCode                  "Còde d'estat">
+<!ENTITY networkPanel.requestURLColon             "URL de la requèsta :">
+<!ENTITY networkPanel.requestMethodColon          "Metòde de la requèsta">
+<!ENTITY networkPanel.statusCodeColon             "Còde d'estat">
 
 <!ENTITY networkPanel.requestHeaders              "Entèstas de la requèsta">
 <!ENTITY networkPanel.requestCookie               "Cookie mandat">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Donadas de formulari mandadas">
 
 <!ENTITY networkPanel.responseHeaders             "Entèstas de la responsa">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Contengut de la responsa">
 <!ENTITY networkPanel.responseBodyCached          "Donadas en escondedor">
 <!ENTITY networkPanel.responseBodyUnknownType     "Tipe de contengut desconegut">

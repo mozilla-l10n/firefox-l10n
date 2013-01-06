@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Recercar :">
 <!ENTITY search.accesskey                          "R">
 
-<!ENTITY search.in.label                           "Recercar dins :">
-<!ENTITY search.scopeFolder.label                  "Dorsièr seleccionat">
-<!ENTITY search.scopeFolder.accesskey              "n">
-<!ENTITY search.scopeBookmarks.label               "Marcapaginas">
-<!ENTITY search.scopeBookmarks.accesskey           "c">
-<!ENTITY search.scopeDownloads.label               "Telecargaments">
-<!ENTITY search.scopeDownloads.accesskey           "T">
-<!ENTITY search.scopeHistory.label                 "Istoric">
-<!ENTITY search.scopeHistory.accesskey             "I">
-<!ENTITY saveSearch.label                          "Enregistrar">
-<!ENTITY saveSearch.accesskey                      "g">
-
 <!ENTITY cmd.find.key  "F">
 
 <!ENTITY maintenance.label      "Importacion e salvament">

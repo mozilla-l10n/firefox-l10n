@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Rapòrt de plantatge desactivat.">
 <!ENTITY report.failed                                       "Fracàs del mandadís.">
 <!ENTITY report.unavailable                                  "Pas cap de rapòrt disponible.">
+
+<!ENTITY plugin.file                                         "Fichièr">
+<!ENTITY plugin.mimeTypes                                    "Tipe MIME">

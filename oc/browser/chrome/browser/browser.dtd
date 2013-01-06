@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Marcapaginas">
 <!ENTITY bookmarksButton.tooltip        "Afichar lo panèl dels marcapaginas">
-<!ENTITY bookmarksButton.accesskey  "M">
 <!ENTITY bookmarksCmd.commandkey "m">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Istoric">
 <!ENTITY historyButton.tooltip          "Visualizar las paginas visitadas recentament">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Aisinas">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Consòla Web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "Examinar">
 <!ENTITY inspectMenu.accesskey        "E">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "n">
 <!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newPrivateWindow.label     "Novèla fenèstra privada">
+<!ENTITY newPrivateWindow.accesskey "t">
 
 <!ENTITY editMenu.label         "Edicion"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Anullar">
 <!ENTITY social.activated.undobutton.accesskey "u">
+
+<!ENTITY social.chatBar.commandkey "c">
