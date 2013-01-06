@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
-
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
 <!ENTITY aboutWarningTitle.label "โปรดระวัง แก้แล้วพังเราจะไม่รับผิดชอบนะ">
 <!ENTITY aboutWarningText.label "การเปลี่ยนแปลงการตั้งค่าขั้นสูงอาจจะทำให้โปรแกรมขาดเสถียรภาพ ความปลอดภัยลดลงและลดประสิทธิภาพการทำงานโดยรวม คุณจะดำเนินการต่อก็ได้ หากรู้ว่ากำลังทำอะไรอยู่">
 <!ENTITY aboutWarningButton.label "ตกลง เราจะระมัดระวัง">
@@ -14,18 +14,18 @@
 <!ENTITY searchPrefs.label "ค้นหา :">
 <!ENTITY searchPrefs.accesskey "ห">
 <!ENTITY focusSearch.key "ห">
-
 <!-- Columns -->
+
 <!ENTITY prefColumn.label "ชื่อค่า">
 <!ENTITY lockColumn.label "สถานะ">
 <!ENTITY typeColumn.label "ประเภท">
 <!ENTITY valueColumn.label "ค่า">
-
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "คลิกเพื่อเรียงลำดับ">
-<!ENTITY columnChooser.tooltip "คลิกเพื่อเลือกสดมภ์ที่จะแสดง">
 
+<!ENTITY prefColumnHeader.tooltip "คลิกเพื่อเรียงลำดับ"> 
+<!ENTITY columnChooser.tooltip "คลิกเพื่อเลือกสดมภ์ที่จะแสดง"> 
 <!-- Context Menu -->
+
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "คัดลอก">
 <!ENTITY copyPref.accesskey "ค">

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  splash_settingup "กำลังตั้งค่า &brandShortName; ของคุณ">
 <!ENTITY  splash_bookmarks_history "เรากำลังอัปเดตที่คั่นหน้าและประวัติการท่องเว็บของคุณ ซึ่งอาจใช้เวลาสักครู่">
 
@@ -11,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "เว็บเด่น">
 <!ENTITY  awesomebar_bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  awesomebar_history_title "ประวัติ">
-<!ENTITY  awesomebar_search_engine "ค้นหา \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
 <!ENTITY  crash_message "&brandShortName; เกิดขัดข้อง แท็บที่เปิดไว้จะแสดงเป็นรายการในหน้าแรกของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
@@ -44,10 +44,21 @@
 <!ENTITY history_week_section "7 วันที่ผ่านมา">
 <!ENTITY history_older_section "เก่ากว่า 7 วัน">
 
+<!ENTITY go "ไป">
+<!ENTITY search "ค้นหา">
 <!ENTITY reload "เรียกใหม่">
 <!ENTITY forward "หน้าถัดไป">
+<!ENTITY menu "เมนู">
+<!ENTITY back "ย้อนกลับ">
+<!ENTITY stop "หยุด">
+<!ENTITY site_security "ความปลอดภัยของเว็บไซต์">
 
+<!ENTITY close_tab "ปิดแท็ป">
 <!ENTITY new_tab "แท็บใหม่">
+<!ENTITY one_tab "1 แท็บ">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่">
 
 <!ENTITY settings "การตั้งค่า">
@@ -55,56 +66,115 @@
 <!ENTITY pref_category_general "ทั่วไป">
 <!ENTITY pref_category_privacy "ความเป็นส่วนตัว &amp; ความปลอดภัย">
 <!ENTITY pref_category_content "เนื้อหา">
+<!ENTITY pref_category_importexport "นำเข้าและส่งออก">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_do_not_track "แจ้งเว็บไซต์ไม่ให้ติดตามฉัน">
 <!ENTITY pref_telemetry "ส่งข้อมูลประสิทธิภาพการทำงาน">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
-<!ENTITY pref_cookies "เปิดใช้งานคุกกี้">
+
+<!ENTITY pref_cookies_menu "คุกกี้">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
 <!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
-<!ENTITY pref_clear_history "ล้างประวัติการท่องเว็บ">
-<!ENTITY pref_clear_history_confirm "ประวัติการท่องเว็บจะถูกลบ">
 <!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
-<!ENTITY pref_clear_private_data_confirm "การตั้งค่าการท่องเว็บ รวมทั้ง รหัสผ่านและคุกกี้จะถูกล้าง">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
-<!ENTITY pref_plugins_enabled "เปิดใช้งาน">
+<!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
-<!ENTITY pref_plugins_disabled "ปิดใช้งาน">
+<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_text_size "ขนาดตัวหนังสือ">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
 <!ENTITY pref_font_size_small "เล็ก">
 <!ENTITY pref_font_size_medium "ปกติ">
 <!ENTITY pref_font_size_large "ใหญ่">
 <!ENTITY pref_font_size_xlarge "ใหญ่มาก">
+<!ENTITY pref_font_size_set "ตั้งค่า">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "ก">
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
+<!ENTITY pref_show_product_announcements "แสดงประกาศของผลิตภัณฑ์">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
+<!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
+<!ENTITY pref_private_data_history "ประวัติการท่องเว็บและการดาวน์โหลด">
+<!ENTITY pref_private_data_formdata "ประวัติการกรอกฟอร์มและการค้นหา">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings "Site preferences">
+
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
 
 <!ENTITY quit "ออก">
 
 <!ENTITY addons "ส่วนเสริม">
 <!ENTITY downloads "ดาวน์โหลด">
+<!ENTITY apps "Apps">
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
 <!ENTITY share_title "แบ่งปันโดย">
+<!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
+<!ENTITY find_in_page "Find in Page">
+<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY tools "เครื่องมือ">
+<!ENTITY new_pb_tab "New Private Browsing Tab">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Find in Page">
+<!ENTITY find_prev "ก่อนหน้า">
+<!ENTITY find_next "ถัดไป">
+<!ENTITY find_close "Close">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
+<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_remove_history "Remove">
 <!ENTITY contextmenu_remove_bookmark "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
+<!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
+<!ENTITY contextmenu_paste "วาง">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "แก้ไข">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+
+<!ENTITY history_removed "Page removed">
 
 <!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
 <!ENTITY bookmark_edit_name "ชื่อ">
 <!ENTITY bookmark_edit_location "ตำแหน่ง">
 <!ENTITY bookmark_edit_keyword "คำค้น">
 
-<!ENTITY site_settings_title        "ล้างการตั้งค่าสำหรับเว็บไซต์">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
+
+<!ENTITY reading_list "Reading List">
+<!ENTITY reading_list_added "Page added to your Reading List">
+<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "สร้างรหัสผ่านหลัก">
 <!ENTITY masterpassword_remove_title "ลบรหัสผ่านหลัก">
@@ -113,19 +183,80 @@
 
 <!ENTITY button_ok "ตกลง">
 <!ENTITY button_cancel "ยกเลิก">
+<!ENTITY button_yes "ใช่">
+<!ENTITY button_no "ไม่ยินยอม">
+<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_set "Set">
+<!ENTITY button_clear "Clear">
 
 <!ENTITY abouthome_addons_title "ส่วนเสริมสำหรับ &brandShortName; ของคุณ">
 <!ENTITY abouthome_addons_browse "ดูส่วนเสริมทั้งหมดของ &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY abouthome_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
 <!ENTITY abouthome_top_sites_title "เว็บเด่น">
-<!ENTITY abouthome_top_sites_browse "ดูเว็บเด่นของคุณทั้งหมด">
-<!ENTITY abouthome_no_top_sites "ตอนนี้คุณยังไม่มีเว็บเด่น แตะที่แถบหัวเรื่องเพื่อเริ่มการท่องเว็บ">
-<!ENTITY abouthome_about_sync "ตั้งค่า Firefox Sync เพื่อเข้าถึงที่คั่นหน้า, ประวัติการท่องเว็บ และแท็บจากอุปกรณ์อื่นของคุณ">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "เลือกแฟ้ม">
 <!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
 <!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "กำลังเชื่อมต่อไปยัง">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "ให้บริการโดย">
+
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
+
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+
+<!ENTITY suggestions_prompt "Would you like to turn on &#037;s search suggestions?">
+
+<!ENTITY webapp_generic_name "App">
+
+<!ENTITY searchable_description "Bookmarks and history">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_select2 "Touch to download">
+
+<!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "Touch to retry">
+
+<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_select2 "Touch to update">
