@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY advancedJSDialog.title         "Advanced JavaScript Settings">
+<!ENTITY advancedJSDialog.title         "மேம்பட்ட JavaScript அமைப்புகள்">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "ஸ்கிரிப்ட்களை அனுமதி:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
-<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "பாப்-அப் சாளரங்களை நகர்த்து அல்லது மறுஅளவிடு">
+<!ENTITY moveResizePopupWindows.accesskey "ப">
 <!ENTITY raiseLowerWindows.label        "சாளரங்களை உயர்த்து அல்லது குறை">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "கருத்து மெனுக்களை செயல்நீக்கு அல்லது மாற்று">

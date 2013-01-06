@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "பிழைத்திருத்தம்">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(எழுத்துப்பிழை கருத்து இல்லை)">
 <!ENTITY spellDictionaries.label "மொழி">
 <!ENTITY spellDictionaries.accesskey "l">
