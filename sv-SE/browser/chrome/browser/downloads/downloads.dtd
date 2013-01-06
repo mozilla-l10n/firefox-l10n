@@ -74,3 +74,6 @@
      -->
 <!ENTITY downloadsHistory.label           "Visa alla hämtningar">
 <!ENTITY downloadsHistory.accesskey       "V">
+
+<!ENTITY clearDownloadsButton.label       "Rensa hämtningar">
+<!ENTITY clearDownloadsButton.tooltip     "Rensar bort slutförda, avbrutna och misslyckade hämtningar">
