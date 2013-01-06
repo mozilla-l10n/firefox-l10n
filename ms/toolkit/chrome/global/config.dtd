@@ -32,17 +32,17 @@
 <!ENTITY copyName.label "Salin Nama">
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Salin Nilai">
-<!ENTITY copyValue.accesskey "V">
+<!ENTITY copyValue.accesskey "N">
 <!ENTITY modify.label "Ubahsuai">
-<!ENTITY modify.accesskey "M">
+<!ENTITY modify.accesskey "U">
 <!ENTITY toggle.label "Tuil">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "Ulang tetap">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.label "Set semula">
+<!ENTITY reset.accesskey "S">
 <!ENTITY new.label "Baru">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "u">
 <!ENTITY string.label "Rentetan">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "R">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">

@@ -21,7 +21,7 @@
 <!ENTITY newButton.accesskey        "b">
 <!ENTITY newButton.commandkey       "b">
 
-<!ENTITY importButton.label         "Import…">
+<!ENTITY importButton.label         "Import">
 <!ENTITY importButton.tooltip       "Mengimport dan melampirkan lembaran gaya yang sedia ada kepada dokumen itu">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">

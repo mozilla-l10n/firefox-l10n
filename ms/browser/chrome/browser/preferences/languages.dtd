@@ -8,7 +8,7 @@
 <!ENTITY languages.customize.prefLangDescript           "Laman-laman web kadangkala boleh diperolehi dalam lebih dari satu bahasa. Pilih bahasa untuk memaparkan laman web ini, mengikut keutamaan.">
 <!ENTITY languages.customize.active.label               "Bahasa dalam susunan keutamaan:">
 <!ENTITY languages.customize.moveUp.label               "Pindah Atas">
-<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveUp.accesskey           "A">
 <!ENTITY languages.customize.moveDown.label             "Pindah Bawah">
 <!ENTITY languages.customize.moveDown.accesskey         "d">
 <!ENTITY languages.customize.deleteButton.label         "Singkir">

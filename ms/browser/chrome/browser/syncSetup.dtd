@@ -79,7 +79,7 @@
 
 <!ENTITY setup.optionsPage.title      "Pilihan Sync">
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "m">
 
 <!ENTITY syncMy.label               "Sync Saya">
 <!ENTITY engine.bookmarks.label     "Penandabuku">

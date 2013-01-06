@@ -31,7 +31,7 @@
 <!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY setDefault.label                "Membuat &brandShortName; ke pelayar lalai">
-<!ENTITY setDefault.accesskey            "d">
+<!ENTITY setDefault.accesskey            "p">
 <!ENTITY isDefault.label                 "&brandShortName; pelayar lalai anda">
 <!ENTITY submitCrashes.label             "Hantar laporan-laporan nahas">
 <!ENTITY submitCrashes.accesskey         "s">
@@ -44,7 +44,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Ubah suai">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "b">
 
 <!ENTITY httpCache.label                 "Cached Kandungan Web ">
 
@@ -80,7 +80,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "I">
 
 <!ENTITY updateHistory.label             "Pamer Latar Kemaskini">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "a">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">

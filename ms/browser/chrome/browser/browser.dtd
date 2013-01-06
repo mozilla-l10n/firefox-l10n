@@ -657,6 +657,6 @@ toolbar button -->
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Kembali Asal">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.accesskey "K">
 
 <!ENTITY social.chatBar.commandkey "c">

@@ -18,7 +18,7 @@
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "o">
 
 <!ENTITY noMigrationSources.label       "Tiada program yang mengandungi tandabuku, sejarah atau data kata laluan yang dapat dijumpai.">
 

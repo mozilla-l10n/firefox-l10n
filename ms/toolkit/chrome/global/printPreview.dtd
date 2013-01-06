@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Cetak...">
-<!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Tetapan Laman...">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY print.label          "Cetak">
+<!ENTITY print.accesskey      "C">
+<!ENTITY pageSetup.label      "Tetapan Halaman">
+<!ENTITY pageSetup.accesskey  "T">
 <!ENTITY page.label           "Laman:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "daripada">
@@ -16,7 +16,7 @@
 <!ENTITY landscape.label      "Lanskap">
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "Tutup">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.accesskey      "T">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">

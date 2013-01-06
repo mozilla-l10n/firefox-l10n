@@ -20,13 +20,13 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Mengecil Untuk Muat Lebar Laman">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Mengecil untuk muat Lebar laman">
+<!ENTITY shrinkToFit.accesskey "L">
 
 <!ENTITY optionsGroup.label  "Opsyen">
 
-<!ENTITY printBG.label       "Cetak Latar (warna &amp; imej)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "Cetak Latar (colors &amp; images)">
+<!ENTITY printBG.accesskey   "L">
 
 <!ENTITY advanced.tab        "Margin &amp; Pengepala/Pekaki">
 
@@ -38,9 +38,9 @@
 <!ENTITY marginBottom.label  "Bawah:">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Kiri:">
-<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.accesskey "K">
 <!ENTITY marginRight.label   "Kanan:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginRight.accesskey "K">
 
 <!ENTITY headerFooter.label  "Pengepala &amp; Pekaki">
 

@@ -10,8 +10,8 @@
 <!ENTITY startupBlankPage.label    "tunjukan laman yang kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
-<!ENTITY homepage.label            "laman utama:">
-<!ENTITY homepage.accesskey        "l">
+<!ENTITY homepage.label            "Laman Utama:">
+<!ENTITY homepage.accesskey        "L">
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Gunakan Laman Semasa">
@@ -22,11 +22,11 @@
 
 <!ENTITY downloads.label     "Muat Turun">
 
-<!ENTITY showWhenDownloading.label     "Tunjuk tetingkap Muaturun apabila memuaturun fail">
+<!ENTITY showWhenDownloading.label     "Tunjuk tetingkap Muat Turun apabila memuat turun fail">
 <!ENTITY showWhenDownloading.accesskey "T">
-<!ENTITY closeWhenDone.label "Tutupkannya apabila semua muaturun selesai">
-<!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "Simpan fail kepada">
+<!ENTITY closeWhenDone.label "Tutupkannya apabila semua muat turun selesai">
+<!ENTITY closeWhenDone.accesskey "a">
+<!ENTITY saveTo.label "Simpan fail ke">
 <!ENTITY saveTo.accesskey "f">
 <!ENTITY chooseFolderWin.label        "Lungsur...">
 <!ENTITY chooseFolderWin.accesskey    "L">

@@ -11,6 +11,6 @@
 <!ENTITY add.label          "Tambah">
 <!ENTITY add.accessKey      "T">
 <!ENTITY moveUp.label       "Pindah Atas">
-<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveUp.accessKey   "A">
 <!ENTITY moveDown.label     "Pindah Bawah">
 <!ENTITY moveDown.accessKey "d">

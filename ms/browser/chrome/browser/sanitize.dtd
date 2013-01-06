@@ -39,14 +39,14 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "L">
 <!ENTITY itemBrowsingHistory.label         "Melungsur Sejarah">
 <!ENTITY itemBrowsingHistory.accesskey     "M">
-<!ENTITY itemFormSearchHistory.label       "Borang dan Sejarah Carian Tersimpan">
-<!ENTITY itemFormSearchHistory.accesskey   "B">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; Latar Carian">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Katalaluan Tersimpan">
 <!ENTITY itemPasswords.accesskey           "p">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
-<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Data laman web offline">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Sejarah Muat Turun">

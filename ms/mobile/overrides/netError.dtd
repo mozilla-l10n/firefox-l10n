@@ -77,7 +77,7 @@
 
 <!ENTITY protocolNotFound.title "Alamat tidak difahami">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> </ul>">
+<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li>  </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -114,7 +114,12 @@ Sekuriti Peribadi yang terpasang.</li>
 </ul>">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini mungkin masalah konfigurasi server, atau seseorang cuba meniru jadi server.</li><li>Jika kamu telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin sementara, dan anda boleh cuba lagi kemudian.</li></ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Ini mungkin masalah konfigurasi server, atau 
+ seseorang cuba meniru jadi server.</li>
+<li>Jika kamu telah disambungkan ke server ini dengan jayanya sebelum ini, masalah ini mungkin 
+ sementara, dan anda boleh cuba lagi kemudian.</li>
+</ul>">
 
 <!ENTITY sharedLongDesc2 "
 <ul>
@@ -138,8 +143,11 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Kamu tidak sepatutnya menambah pengecualian jika kamu menggunakan sambungan internet yang kamu tidak percayai sepenuhnya atau kamu tidak biasa lagi melihat amaran untuk server ini.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Kamu tidak sepatutnya menambah pengecualian jika kamu menggunakan sambungan internet yang kamu tidak percayai sepenuhnya atau kamu tidak biasa lagi melihat amaran untuk server ini.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memberitahu mereka mengenai masalah ini.</li></ul></p>">
 

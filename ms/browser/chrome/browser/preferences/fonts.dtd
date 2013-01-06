@@ -21,7 +21,7 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.label                         "Monoruang:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "Western">
@@ -45,9 +45,9 @@
 <!ENTITY  font.langGroup.armenian                 "Armenia">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Ejaan sukuan Kanada Bersatu">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopia">
+<!ENTITY  font.langGroup.georgian                 "Georgia">
+<!ENTITY  font.langGroup.gujarati                 "Gujarat">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cambodian">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">

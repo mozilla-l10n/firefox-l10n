@@ -56,7 +56,7 @@
 <!ENTITY btnPageLogging.label   "Logging">
 <!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object">
 <!ENTITY btnConsoleErrors       "Ralat">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo         "Maklumat">
 <!ENTITY btnConsoleWarnings     "Amaran">
 <!ENTITY btnConsoleLog          "Log">
 <!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which

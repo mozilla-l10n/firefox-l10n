@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY margins.tooltip        "margins">
+<!ENTITY margins.tooltip        "Margin">
 <!ENTITY borders.tooltip        "sempadan">
 <!ENTITY padding.tooltip        "pelapik">
 <!ENTITY content.tooltip        "isi">
