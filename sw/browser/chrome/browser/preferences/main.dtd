@@ -34,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Kila mara niulize mahali pa kuhifadhi faili">
 <!ENTITY alwaysAsk.accesskey "K">
-
-<!ENTITY addonsMgr.label               "Vifaa vya nyongeza">
-<!ENTITY manageAddonsDescWin.label     "Badilisha chaguo kwa vifaa vyako vya nyongeza">
-<!ENTITY manageAddonsDescUnix2.label   "Badilisha upendeleo wa vifaa vyako vya nyongeza">
-<!ENTITY manageAddons.label            "Simamia Vifaa vya nyongeza…">
-<!ENTITY manageAddons.accesskey        "S">

@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Tafutiza:">
 <!ENTITY search.accesskey                          "T">
 
-<!ENTITY search.in.label                           "Tafutiza katika:">
-<!ENTITY search.scopeFolder.label                  "Kabrasha Iililochaguliwa">
-<!ENTITY search.scopeFolder.accesskey              "l">
-<!ENTITY search.scopeBookmarks.label               "Vialamisho">
-<!ENTITY search.scopeBookmarks.accesskey           "s">
-<!ENTITY search.scopeDownloads.label               "Vipakuzi">
-<!ENTITY search.scopeDownloads.accesskey           "V">
-<!ENTITY search.scopeHistory.label                 "Historia">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "Hifadhi">
-<!ENTITY saveSearch.accesskey                      "H">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Leta na Cheleza">

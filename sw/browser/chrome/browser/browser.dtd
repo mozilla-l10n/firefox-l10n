@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "V">
 <!ENTITY  closeOtherTabs.label               "Funga Vichupo Vingine">
 <!ENTITY  closeOtherTabs.accesskey           "V">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Bana kama Kichupo cha App">
-<!ENTITY  pinAppTab.accesskey                "B">
-<!ENTITY  unpinAppTab.label                  "Banua Kichupo">
-<!ENTITY  unpinAppTab.accesskey              "c">
+<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Banua Kichupo">
+<!ENTITY  unpinTab.accesskey                 "c">
 <!ENTITY  moveToGroup.label                  "Hamisha kwa Kundi">
 <!ENTITY  moveToGroup.accesskey              "H">
 <!ENTITY  moveToNewGroup.label               "Kikundi Kipya">
@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Fanya kazi Nje ya Mtandao">
-<!ENTITY goOfflineCmd.accesskey "F">
+<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Pau Menyu">
 <!ENTITY menubarCmd.accesskey "P">
@@ -111,10 +111,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Funga Dirisha">
 <!ENTITY closeWindow.accesskey "s">
 
-<!ENTITY bookmarksMenu.label "Alamisho">
-<!ENTITY bookmarksMenu.accesskey "A">
+<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Alamisha Ukurasa Huu">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Jiunge na Ukurasa Huu">
 <!ENTITY subscribeToPageMenuitem.label "Jisajili katika Ukurasa Huu…">
 <!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote…">
@@ -158,9 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "Andikisha">
 <!ENTITY feedButton.tooltip           "Jisajili kwa ukurasa huu…">
 
-<!ENTITY bookmarksButton.label          "Alamisho">
+<!ENTITY bookmarksButton.label          "Bookmarks">
 <!ENTITY bookmarksButton.tooltip        "Onyesha alamisho zako">
-<!ENTITY bookmarksButton.accesskey  "A">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Alamisho">
@@ -177,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Historia">
 <!ENTITY historyButton.tooltip          "Onyesha kurasa ulizoangalia hivi karibuni">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Zana">
@@ -206,9 +205,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Konsoli ya Wavuti">
 <!ENTITY webConsoleCmd.accesskey      "K">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "Kagua">
-<!ENTITY inspectMenu.accesskey        "a">
+<!ENTITY inspectMenu.accesskey        "K">
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Kagua Elementi">
@@ -234,15 +234,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Funga Kikaguzi">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devToolbar.commandkey             "v">
-
-<!ENTITY webConsoleButton.label "Web Console">
-<!ENTITY inspectorButton.label "Inspector">
-<!ENTITY scriptsButton.label "Scripts">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Nakili HTML ya Ndani">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "H">
@@ -252,16 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectorHTMLDelete.label          "Futa Kitengo">
 <!ENTITY inspectorHTMLDelete.accesskey      "F">
-<!-- LOCALIZATION NOTE (inspectOptionButton.*): The menu in the Inspector
-  -  toolbar.  -->
-
-<!ENTITY inspectOptionButton.tooltiptext    "Inspector Options">
-<!-- LOCALIZATION NOTE: These are for the menu in the Inspector Toolbar -->
-
-<!ENTITY inspectorToggleVeil.label          "Dim The Page">
-<!ENTITY inspectorToggleVeil.accesskey      "D">
-<!ENTITY inspectorToggleInfobar.label       "Show Node Info">
-<!ENTITY inspectorToggleInfobar.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -287,12 +276,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Dirisha Mpya">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Hariri"> 
 <!ENTITY editMenu.accesskey       "H"> 
-<!ENTITY undoCmd.label            "Tendua">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "T"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Rudia">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -438,8 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Alamisha Fremu Hii">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "i">
-<!ENTITY sendPageCmd.label            "Tuma Kiungo…">
-<!ENTITY sendPageCmd.accesskey        "u">
+<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
@@ -451,20 +442,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "C">
 <!ENTITY saveLinkCmd.label            "Hifadhi Kiungo Kama…">
 <!ENTITY saveLinkCmd.accesskey        "n">
-<!ENTITY sendLinkCmd.label            "Tuma Kiungo…"> 
-<!ENTITY sendLinkCmd.accesskey        "m">
 <!ENTITY saveImageCmd.label           "Hifadhi Taswira Kama…">
 <!ENTITY saveImageCmd.accesskey       "d">
 <!ENTITY saveVideoCmd.label           "Hifadhi Video Kama…">
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Hifadhi Sauti Kama…">
 <!ENTITY saveAudioCmd.accesskey       "d">
-<!ENTITY sendImageCmd.label           "Tuma Taswira…">
-<!ENTITY sendImageCmd.accesskey       "m">
-<!ENTITY sendVideoCmd.label           "Tuma Video…">
-<!ENTITY sendVideoCmd.accesskey       "m">
-<!ENTITY sendAudioCmd.label           "Tuma Sauti…">
-<!ENTITY sendAudioCmd.accesskey       "m">
+<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label            "Nakili Mahali pa Kiungo">
 <!ENTITY copyLinkCmd.accesskey        "u">
 <!ENTITY copyImageCmd.label           "Nakili Mahali pa Taswira">
@@ -544,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Fungua kichupo kipya">
 <!ENTITY newWindowButton.tooltip        "Fungua dirisha mpya">
-<!ENTITY sidebarCloseButton.tooltip     "Funga mwambaa upande">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "Kata">
 <!ENTITY copyButton.tooltip             "Nakili">
@@ -631,9 +620,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kivinjari vichupo">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Vichupo Kutoka kwa Kompyuta Zingine">
+<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
 
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
@@ -654,3 +643,20 @@ doesn't display any label, but exposes a label to screen-readers with "aria-labe
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
 <!ENTITY markupButton.accesskey          "M">
+
+<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY social.notLoggedIn.label   "Not logged in">
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "Show sidebar">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">

@@ -33,6 +33,12 @@
 <!ENTITY openFileCmd.accesskey        "F">
 <!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.label         "Open Recent">
+<!ENTITY openRecentMenu.accesskey     "R">
+
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Hifadhi">
 <!ENTITY saveFileCmd.accesskey        "H">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -98,6 +104,10 @@
 
 <!ENTITY resetContext2.label          "Wekaupya Ugeukaji">
 <!ENTITY resetContext2.accesskey      "u">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Tekeleza">
 <!ENTITY executeMenu.accesskey        "k">

@@ -5,7 +5,6 @@
 <!ENTITY sanitizePrefs2.title          "Mipangiliio ya Kuondoa Historia">
 <!ENTITY sanitizeDialog2.title         "Ondoa Historia Iliyopo">
 
-<!ENTITY sanitizeItems.label          "Ondoa vipengee vifuatavyo sasa:">
 <!ENTITY clearDataSettings2.label     "Nikiondoka kwenye &brandShortName;, inafaa kuondoa kila kitu kiotomatiki:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
