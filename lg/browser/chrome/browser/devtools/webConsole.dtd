@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Wokolera Kumutimbagano">
 
-<!ENTITY networkPanel.requestURL                  "Ssaba URL">
-<!ENTITY networkPanel.requestMethod               "Ssaba Engeri">
-<!ENTITY networkPanel.statusCode                  "Koodi era Embeera">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "Ssaba Emitwe">
 <!ENTITY networkPanel.requestCookie               "Kuuki Ewerezeddwa">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Data ali mu Fomu Awerezeddwa">
 
 <!ENTITY networkPanel.responseHeaders             "Emittwe ejje Byokuddamu">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Omubiiri gwe'Byokuddamu">
 <!ENTITY networkPanel.responseBodyCached          "Data Atterekedwa Okumpi">
 <!ENTITY networkPanel.responseBodyUnknownType     "Ekiika kye Byomunda Ekitamanyiddwa">

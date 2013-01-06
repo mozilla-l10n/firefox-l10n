@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Ebyokulondako mu Kutuusa">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Elinya lye Ekyuma:">
+<!ENTITY syncDeviceName.accesskey   "k">
 
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">

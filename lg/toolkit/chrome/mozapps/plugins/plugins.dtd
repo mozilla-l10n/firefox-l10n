@@ -56,3 +56,6 @@
 <!ENTITY report.disabled                                     "Okuweereza lipoota eza amangu kunafuyiziddwa.">
 <!ENTITY report.failed                                       "Okuwayo kulemereddwa.">
 <!ENTITY report.unavailable                                  "Tewali alipoota eriwo.">
+
+<!ENTITY plugin.file                                         "Failo">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

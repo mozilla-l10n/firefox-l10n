@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "Okweroboza">
 <!ENTITY sync.summary.pair.label "Yunga ekyuma ekirala ku akaunta yo eya &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks "Obulambe">
+<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.history "Ebyafaayo">
+<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Sazaamu">
@@ -78,6 +86,7 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Akaunta emu yoka eya &syncBrand.fullName.label; ewagirwa.">
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Elinya lya akaunta oba ekyisumuluzo ebikyamu">

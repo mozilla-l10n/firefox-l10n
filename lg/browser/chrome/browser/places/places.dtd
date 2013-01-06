@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "Noonya:">
 <!ENTITY search.accesskey                          "N">
 
-<!ENTITY search.in.label                           "Noonya mu:">
-<!ENTITY search.scopeFolder.label                  "Etterekero Elilondedwa">
-<!ENTITY search.scopeFolder.accesskey              "E">
-<!ENTITY search.scopeBookmarks.label               "Obulambe">
-<!ENTITY search.scopeBookmarks.accesskey           "l">
-<!ENTITY search.scopeDownloads.label               "Ebiwannulwa">
-<!ENTITY search.scopeDownloads.accesskey           "E">
-<!ENTITY search.scopeHistory.label                 "Ebyafayo">
-<!ENTITY search.scopeHistory.accesskey             "E">
-<!ENTITY saveSearch.label                          "Terekako">
-<!ENTITY saveSearch.accesskey                      "T">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Yingiza era Oterekeko">

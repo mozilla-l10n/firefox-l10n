@@ -62,7 +62,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "F">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Kola nga toli ku Mpewo">
+<!ENTITY goOfflineCmd.label "Kola nga toli ku Mutimbagano">
 <!ENTITY goOfflineCmd.accesskey "K">
 
 <!ENTITY menubarCmd.label "Akabawo Ke'bilondebwako">
@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Obulambe">
 <!ENTITY bookmarksButton.tooltip        "Laba obulambe bwo">
-<!ENTITY bookmarksButton.accesskey  "O">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Obulambe">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Ebyafayo">
 <!ENTITY historyButton.tooltip          "Laga emiko gye waakalaba">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ebikozesebwa">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Kusanyusa kw'omutimbagano">
 <!ENTITY webConsoleCmd.accesskey      "K">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectMenu.label            "Lambula">
 <!ENTITY inspectMenu.accesskey        "L">
@@ -235,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectCloseButton.tooltiptext "Galawo Omukebezi">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
+<!ENTITY inspectSidebarCloseButton.tooltiptext "Ggalawo akabaawo k'omumabali">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Galawo Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.label              "Akabawo ka Abazimbi">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Eddirisa Epya">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "E">
+<!ENTITY newPrivateWindow.label     "Akadirisa Akakusike">
+<!ENTITY newPrivateWindow.accesskey "k">
 
 <!ENTITY editMenu.label         "Longoosa"> 
 <!ENTITY editMenu.accesskey       "L"> 
@@ -447,8 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Ttereka Eddobozzi Nga…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "Wereza Ekifaanyi mu emeyilo…">
+<!ENTITY emailImageCmd.accesskey      "r">
 <!ENTITY emailVideoCmd.label          "Wereza Olutambi mu emeyilo…">
 <!ENTITY emailVideoCmd.accesskey      "z">
 <!ENTITY emailAudioCmd.label          "Wereza eddobozi mu emeyilo…">
@@ -532,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Ggulawo enziririro empya">
 <!ENTITY newWindowButton.tooltip        "Ggulawo eddirisa eppya">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo k'omumabali">
 
 <!ENTITY cutButton.tooltip              "Sala">
 <!ENTITY copyButton.tooltip             "Koppa">
@@ -621,7 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Amapeesa aganonya">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Awaddirira Okuva mu Byuma Ebirala">
 
 <!ENTITY syncBrand.shortName.label    "Kwanaganya">
 
@@ -657,3 +658,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Ddayo">
 <!ENTITY social.activated.undobutton.accesskey "D">
+
+<!ENTITY social.chatBar.commandkey "c">
