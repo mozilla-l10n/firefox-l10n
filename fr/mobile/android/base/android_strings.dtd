@@ -153,7 +153,7 @@ size. -->
 <!ENTITY find_close "Fermer">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
-<!ENTITY contextmenu_open_new_private_tab "Ouvrir dans un onglet de nav. privée">
+<!ENTITY contextmenu_open_private_tab "Ouvrir en navigation privée">
 <!ENTITY contextmenu_open_in_reader "Ouvrir dans le lecteur">
 <!ENTITY contextmenu_remove_history "Supprimer">
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
