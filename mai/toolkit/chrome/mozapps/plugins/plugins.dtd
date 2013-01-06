@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "प्लगिन खोजबाक सेवा">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; मे स्वागत  अछि ">
 
@@ -53,3 +56,6 @@
 <!ENTITY report.disabled                                     "क्रैश रपट निष्क्रिय कएल गेल.">
 <!ENTITY report.failed                                       "जमा कएनाइ विफल.">
 <!ENTITY report.unavailable                                  "कोनो रपट मोजुद नहि.">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

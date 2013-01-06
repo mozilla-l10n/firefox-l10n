@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "वेबक कंसोल">
 
-<!ENTITY networkPanel.requestURL                  "URL क लेल निवेदन  करू ">
-<!ENTITY networkPanel.requestMethod               "निवेदन विधि">
-<!ENTITY networkPanel.statusCode                  "प्रस्थिति कोड">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "शीर्षिका क लेल निवेदन  करू ">
 <!ENTITY networkPanel.requestCookie               "प्रेषित कुकी">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "आँकड़ा सँ प्रेषित">
 
 <!ENTITY networkPanel.responseHeaders             "अनुक्रिया शीर्षिका">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "अनुक्रिया प्रधान अंश">
 <!ENTITY networkPanel.responseBodyCached          "कैश कएल आँकड़ा">
 <!ENTITY networkPanel.responseBodyUnknownType     "अज्ञात अंतर्वस्तु प्रकार">
@@ -31,6 +32,11 @@
 
 <!ENTITY saveBodies.label     "Log Request and Response Bodies">
 <!ENTITY saveBodies.accesskey "L">
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+
+<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -89,3 +95,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "कड़ी स्थानक नकल लिअ'">
+<!ENTITY copyURLCmd.accesskey "a">

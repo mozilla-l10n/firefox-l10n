@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "की अहाँ  कहियो पहिने &syncBrand.fullName.label; क प्रयोग कएल अछि?">
 <!ENTITY setup.choicePage.new.label       "हम कहियो &syncBrand.shortName.label; क पहिने उपयोग नहि कएने छी">
-<!ENTITY setup.choicePage.existing.label  "हम पहिने सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
+<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "सिंक विकल्प">
-<!ENTITY syncComputerName.label       "कंप्यूटर नाम:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "तुल्यकालित  करू ">
 <!ENTITY engine.bookmarks.label     "पुस्तकचिह्न">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "सहयुक्ति">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2.merge.main.label      "ई कंप्यूटरक आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ मिलान करू">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "अनुशंसित:">
-<!ENTITY choice2.client.main.label     "ई कंप्यूटर पर सभटा आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ प्रतिस्थापित  करू ">
-<!ENTITY choice2.server.main.label     "ई कंप्यूटर आँकड़ासँ सभटा आन युक्तिकेँ प्रतिस्थापित करू ">
+<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि करू ">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; आब एहि कंप्यूटरक सभटा ब्राउज़र आँकड़ा केँ अहाँक सिंक खाते सँ मिलैताह.">
-<!ENTITY confirm.client2.label         "चेतावनी: एहि कंप्यूटर पर निम्नलिखित &brandShortName; आँकड़ा मेटायल जएताह:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; तखन अहाँक &syncBrand.fullName.label; आँकड़ा केँ एहि कंप्यूटर पर लेबल करताह.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्ति अहाँक स्थानीय आँकड़ा सँ अधिलिखित कएल जएताह:">
 <!-- New & Existing Account: Setup Complete -->
 
