@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY menuBar.tooltip "Паліца з меню">
 <!ENTITY modeToolbar.tooltip "Паліца з прыладамі ўмоў">
 <!ENTITY entryToolbar.tooltip "Паліца з прыладамі ўвода Javascript">
@@ -14,3 +17,4 @@
 <!ENTITY messages.accesskey "Л">
 <!ENTITY clear.accesskey "ч">
 <!ENTITY evaluate.accesskey "ц">
+<!ENTITY filter.accesskey "с">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext "Увод тэрмінаў для пошуку або адраса">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Наперад">
@@ -25,7 +29,7 @@
 <!ENTITY desktopHeader.label "Працоўны стол">
 <!ENTITY editBookmarkDialog.title "Праўка закладкі">
 <!ENTITY editBookmarkDone.label "Гатова">
-<!ENTITY editBookmarkTags.label "Дадаць тэгі сюды">
+<!ENTITY editBookmarkTags.label "Дадаць меціны тут">
 <!ENTITY selectHelper.done "Гатова">
 <!ENTITY addonsHeader.label "Дадаткі">
 <!ENTITY addonsLocal.label "Вашы дадаткі">

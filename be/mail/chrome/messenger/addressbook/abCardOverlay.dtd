@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Contact.tab "Сувязь">
 <!ENTITY Contact.accesskey "С">
 <!ENTITY Name.box "Імя">
@@ -103,7 +106,7 @@
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
 <!ENTITY Chat.tab "Гутарка">
-<!ENTITY Chat.accesskey "a">
+<!ENTITY Chat.accesskey "">
 <!ENTITY Gtalk.label "Google Talk:">
 <!ENTITY Gtalk.accesskey "G">
 <!ENTITY AIM.label "AIM:">

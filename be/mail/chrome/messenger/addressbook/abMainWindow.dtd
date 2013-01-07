@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Адрасная кніга">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
@@ -16,7 +20,7 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "л">
 <!ENTITY osxAddressBook.label "Ужываць адрасную кнігу Mac OS X">
-<!ENTITY osxAddressBook.accesskey "O">
+<!ENTITY osxAddressBook.accesskey "">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">

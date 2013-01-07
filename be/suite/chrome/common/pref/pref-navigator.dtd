@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.navigator.title "Азіральнік">
 <!ENTITY navRadio.label "Адлюстроўваць на">
 <!ENTITY navRadio.accesskey "н">
@@ -34,4 +38,5 @@
 <!ENTITY defaultBrowserButton.accesskey "з">
 <!ENTITY alreadyDefaultText "&brandShortName; ужо з'яўляецца вашым змоўчным азіральнікам.">
 <!ENTITY defaultPendingText "&brandShortName; будзе прызначаны вашым змоўчным азіральнікам, калі вы пстрыкніце Добра.">
+<!ENTITY wasMadeDefaultText "&brandShortName; прызначаны вашым змоўчным азіральнікам.">
 <!ENTITY makeDefaultText "Прызначыць &brandShortName; вашым змоўчным азіральнікам.">

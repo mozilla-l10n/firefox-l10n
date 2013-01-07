@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.findAsYouType.title "Знаходзіць тое, што вы набіраеце">
 <!ENTITY findAsYouTypeBehavior.label "Знаходзіць тое, што вы набіраеце">
 <!ENTITY findAsYouTypeTip.label "Парада: Каб уручную пачаць Знаходзіць Тое, Што Вы Набіраеце, увядзіце / , каб знайсці тэкст ці ' каб знайсці спасылкі, і, услед, тэкст, які вы хочаце знайсці.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Хуткі пошук">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Паліца хуткага сіта">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "х">
@@ -10,8 +14,8 @@
 <!ENTITY quickFilterBar.starred.tooltip "Паказваць толькі лісты з зоркамі">
 <!ENTITY quickFilterBar.inaddrbook.label "Сувязь">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Паказваць толькі лісты ад людзей, адрасы якіх у вашай адраснай кнізе ">
-<!ENTITY quickFilterBar.tags.label "Тэгі">
-<!ENTITY quickFilterBar.tags.tooltip "Паказваць толькі лісты з тэгамі">
+<!ENTITY quickFilterBar.tags.label "Меціны">
+<!ENTITY quickFilterBar.tags.tooltip "Паказваць толькі лісты з мецінамі">
 <!ENTITY quickFilterBar.attachment.label "Далучэнне">
 <!ENTITY quickFilterBar.attachment.tooltip "Паказваць толькі лісты з далучэннямі">
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ліст;#1 лісты;#1 лістоў">

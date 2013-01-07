@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.formatting.title "Фармат дасылання">
 <!ENTITY sendMaildesc.label "Калі дасылаюцца фарматаваныя лісты (HTML) і адзін ці болей атрымальнікаў не пералічаны як здольныя атрымліваць HTML:">
 <!ENTITY askMe.label "Спытаць мяне, што зрабіць (Пошта прапануе вам выбраць фармат)">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Звесткі для вырашэння праблемаў">
 <!ENTITY aboutSupport.pageSubtitle "
   Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры 
@@ -6,7 +10,7 @@
 ">
 <!ENTITY aboutSupport.extensionsTitle "Пашырэнні">
 <!ENTITY aboutSupport.extensionName "Назва">
-<!ENTITY aboutSupport.extensionEnabled "Дазволена">
+<!ENTITY aboutSupport.extensionEnabled "Дазволены">
 <!ENTITY aboutSupport.extensionVersion "Версія">
 <!ENTITY aboutSupport.extensionId "Вызначальнік">
 <!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
@@ -25,13 +29,16 @@
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
+<!ENTITY aboutSupport.userJSTitle "">
+<!ENTITY aboutSupport.userJSDescription "">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "">
 <!ENTITY aboutSupport.a11yTitle "Даступнасць">
 <!ENTITY aboutSupport.a11yActivated "Задзейнічаны">
 <!ENTITY aboutSupport.a11yForceDisabled "Прадухіліць даступнасць">
 <!ENTITY aboutSupport.libraryVersionsTitle "Версіі бібліятэк">
 <!ENTITY aboutSupport.installationHistoryTitle "Гісторыя ўсталявання">
 <!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
-<!ENTITY aboutSupport.copyToClipboard.label "Скапіяваць усё ў буфер абмену">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Скапіяваць тэкст у буфер абмену">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя здаткі ў буфер абмену">

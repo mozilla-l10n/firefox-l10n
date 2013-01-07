@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY setupButton.label "Уладкаваць &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "У">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
@@ -17,8 +21,8 @@
 <!ENTITY myRecoveryKey.accesskey "М">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
 <!ENTITY resetSync.accesskey "У">
-<!ENTITY deactivateDevice.label "Абяздзейніць гэтую збудову">
-<!ENTITY deactivateDevice.accesskey "б">
+<!ENTITY unlinkDevice.label "Разлучыцца з гэтай збудовай">
+<!ENTITY unlinkDevice.accesskey "Р">
 <!ENTITY addDevice.label "Дадаць збудову">
 <!ENTITY addDevice.accesskey "Д">
 <!ENTITY syncComputerName.label "Назва кампутара:">

@@ -1,7 +1,0 @@
-<!ENTITY webapps.title.placeholder "Увод загалоўка">
-<!ENTITY webapps.permissions "Дазволіць доступ:">
-<!ENTITY webapps.perm.geolocation "Месцазалежнае азіранне">
-<!ENTITY webapps.perm.offline "Захаванне пазасеткавых здаткаў">
-<!ENTITY webapps.perm.notifications "Апавяшчэнні працоўнага стала">
-<!ENTITY webapps.perm.requestedHint "(патрабуецца)">
-<!ENTITY webapps.add-homescreen "Дадаць на хатні экран">

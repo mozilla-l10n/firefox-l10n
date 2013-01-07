@@ -1,24 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.mouseWheel.title "Кола мышы">
 <!ENTITY mouseWheelPanel.label "Вызначыць паводзіны кола мышы, калі яна выкарыстоўваецца з змяняльнай клавішай:">
 <!ENTITY usingJustTheWheel.label "Без змяняльнай клавішы">
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label "Mouse wheel action">
-<!ENTITY doNothing.label "Do nothing">
-<!ENTITY doNothing.accesskey "D">
-<!ENTITY scrollDocument.label "Scroll the document">
-<!ENTITY scrollDocument.accesskey "S">
+<!ENTITY mouseWheelAction.label "Дзеянне кола мышы">
+<!ENTITY doNothing.label "Не рабіць нічога">
+<!ENTITY doNothing.accesskey "н">
+<!ENTITY scrollDocument.label "Пракрутка дакумента">
+<!ENTITY scrollDocument.accesskey "к">
 <!ENTITY history.label "Перайсці назад ці наперад згодна гісторыі азірання">
 <!ENTITY history.accesskey "п">
 <!ENTITY zoom.label "Зрабіць старонку большай ці меншай">
 <!ENTITY zoom.accesskey "З">
-<!ENTITY mouseWheelSpeed.label "Mouse wheel speed">
-<!ENTITY verticalSpeed.label "Вертыкальнае:">
+<!ENTITY mouseWheelSpeed.label "Хуткаць кола мышы">
+<!ENTITY verticalSpeed.label "Вертыкальная:">
 <!ENTITY verticalSpeed.accesskey "В">
-<!ENTITY verticalReverse.label "Reverse direction">
-<!ENTITY verticalReverse.accesskey "R">
-<!ENTITY horizontalSpeed.label "Гарызантальнае:">
-<!ENTITY horizontalSpeed.accesskey "o">
-<!ENTITY horizontalReverse.label "Reverse direction">
-<!ENTITY horizontalReverse.accesskey "e">
+<!ENTITY verticalReverse.label "Адваротны кірунак">
+<!ENTITY verticalReverse.accesskey "в">
+<!ENTITY horizontalSpeed.label "Гарызантальная:">
+<!ENTITY horizontalSpeed.accesskey "">
+<!ENTITY horizontalReverse.label "Адваротны кірунак">
+<!ENTITY horizontalReverse.accesskey "р">

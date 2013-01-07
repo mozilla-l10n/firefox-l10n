@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountManagerTitle.label "Наладжванні рахунку">
 <!ENTITY accountActionsButton.label "Дзеянні рахункаў">
 <!ENTITY accountActionsButton.accesskey "р">
@@ -7,7 +11,7 @@
 <!ENTITY addIMAccountButton.accesskey "г">
 <!ENTITY addOtherAccountButton.label "Дадаць іншы рахунак…">
 <!ENTITY addOtherAccountButton.accesskey "і">
-<!ENTITY setDefaultButton.label "Змоўчны рахунак">
+<!ENTITY setDefaultButton.label "Прызначыць змоўчным">
 <!ENTITY setDefaultButton.accesskey "З">
 <!ENTITY removeButton.label "Выдаліць рахунак">
 <!ENTITY removeButton.accesskey "д">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Наладжванні лухты">
 <!ENTITY trainingDescription.label "Калі дазволіце, вы спачатку мусіце натрэнаваць &brandShortName; вызначаць пошту-лухту з дапамогаю кнопкі Лухта на паліцы прыладаў для пазначэння лістоў лухтою ці не. Вы мусіце пазначаць і лісты-лухту, і не. Пасля гэтага &brandShortName; будзе здольны вызначаць лухту самастойна.">
 <!ENTITY level.label "Дазволіць прыстасоўныя кіроўцы поштай-лухтой для гэтага рахунку">
@@ -18,3 +22,5 @@
 <!ENTITY ispHeaders.accesskey "в">
 <!ENTITY junkClassification.label "Вылучэнне">
 <!ENTITY junkActions.label "Прызначэнне і ўтрыманне">
+<!ENTITY globalJunkPrefs.label "Агульныя перавагі вызначэння лухты…">
+<!ENTITY globalJunkPrefs.accesskey "л">

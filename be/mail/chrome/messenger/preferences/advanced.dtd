@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "Асноўныя">
 <!ENTITY itemDisplay.label "Чытанне і адлюстраванне">
 <!ENTITY itemUpdate.label "Абнаўленне">
@@ -18,8 +22,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "ў">
 <!ENTITY searchIntegration.label "Дазволіць &searchIntegration.engineName; шукаць лісты">
 <!ENTITY searchIntegration.accesskey "Д">
-<!ENTITY checkNow.label "Праверыць зараз">
-<!ENTITY checkNow.accesskey "з">
+<!ENTITY checkDefaultsNow.label "Праверыць зараз…">
+<!ENTITY checkDefaultsNow.accesskey "з">
 <!ENTITY configEditDesc.label "Пашыраная наладка">
 <!ENTITY configEdit.label "Рэдактар наладкі…">
 <!ENTITY configEdit.accesskey "Р">

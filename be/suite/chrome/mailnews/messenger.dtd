@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerWindow.title "Пошта і Навінакупы">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
@@ -256,10 +259,12 @@
 <!ENTITY replyMsgCmd.label "Адказаць">
 <!ENTITY replyMsgCmd.accesskey "А">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Адказаць толькі адпраўніку">
-<!ENTITY replySenderCmd.accesskey "А">
+<!ENTITY replyListCmd.label "Адказаць спісу">
+<!ENTITY replyListCmd.accesskey "А">
 <!ENTITY replyNewsgroupCmd.label "Адказаць навінакупе">
 <!ENTITY replyNewsgroupCmd.accesskey "ь">
+<!ENTITY replySenderCmd.label "Адказаць толькі адпраўніку">
+<!ENTITY replySenderCmd.accesskey "А">
 <!ENTITY replyToAllMsgCmd.label "Адказаць усім">
 <!ENTITY replyToAllMsgCmd.accesskey "з">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -414,6 +419,8 @@
 <!ENTITY contextEditAsNew.accesskey "Р">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
 <!ENTITY contextReplySender.accesskey "т">
+<!ENTITY contextReplyList.label "Адказаць спісу">
+<!ENTITY contextReplyList.accesskey "А">
 <!ENTITY contextReplyNewsgroup.label "Адказаць навінакупе">
 <!ENTITY contextReplyNewsgroup.accesskey "ь">
 <!ENTITY contextReplyAll.label "Адказаць усім">

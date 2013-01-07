@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Правілы сіта">
 <!ENTITY filterEditorDialog.dimensions "width: 115ch;">
 <!ENTITY filterName.label "Назва сіта:">
@@ -11,12 +14,12 @@
 <!ENTITY highPriorityCmd.label "Высокі">
 <!ENTITY highestPriorityCmd.label "Найвышэйшы">
 <!ENTITY contextDesc.label "Ужываць сіта пры:">
-<!ENTITY contextDesc.accesskey "У">
-<!ENTITY contextIncoming.label "Праверцы пошты">
+<!ENTITY contextIncomingMail.label "Атрыманне новай пошты:">
+<!ENTITY contextIncomingMail.accesskey "А">
 <!ENTITY contextManual.label "Ручным выкананні">
-<!ENTITY contextBoth.label "Праверцы пошты і ручным выкананні">
-<!ENTITY contextPostPlugin.label "Праверка пошты (пасля класіфікацыі)">
-<!ENTITY contextPostPluginBoth.label "Праверка пошты (пасля класіфікацыі) або ручны запуск">
+<!ENTITY contextManual.accesskey "Р">
+<!ENTITY contextBeforeCls.label "Сітаваць перад вызначэннем лухты">
+<!ENTITY contextAfterCls.label "Сітаваць пасля вызначэннем лухты">
 <!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
 <!ENTITY filterActionDesc.accesskey "В">
 <!ENTITY moveMessage.label "Рухаць ліст у">
@@ -38,5 +41,5 @@
 <!ENTITY stopExecution.label "Спыніць выкананне сіта">
 <!ENTITY addAction.tooltip "Дадаць новае дзеянне">
 <!ENTITY removeAction.tooltip "Выдаліць гэтае дзеянне">
-<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTypeFlexValue "2">
 <!ENTITY filterActionTargetFlexValue "4">
