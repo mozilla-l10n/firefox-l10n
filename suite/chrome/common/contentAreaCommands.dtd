@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY popupWindowRejectCmd.accesskey "в">
 <!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
@@ -50,8 +54,8 @@
 <!ENTITY viewVideoCmd.accesskey "в">
 <!ENTITY viewBGImageCmd.label "Праглядзець выяву фону">
 <!ENTITY viewBGImageCmd.accesskey "ф">
-<!ENTITY setDesktopBackgroundCmd.label "Set Desktop Background…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY setDesktopBackgroundCmd.label "Прызначыць фон працоўнага стала…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "ф">
 <!ENTITY bookmarkPageCmd.label "Закласці старонку…">
 <!ENTITY bookmarkPageCmd.accesskey "З">
 <!ENTITY bookmarkLinkCmd.label "Закласці спасылку…">

@@ -1,8 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY systemIntegration.title "Узаемадзеянне з сістэмай">
+<!ENTITY acceptIntegration.label "Прызначыць змоўчным">
+<!ENTITY cancelIntegration.label "Прапусціць узаемадзеянне">
 <!ENTITY defaultClient.intro "Ужываць &brandShortName; як змоўчны спажывец:">
 <!ENTITY email.label "Э-пошты">
 <!ENTITY newsgroups.label "Навінакупаў">
 <!ENTITY feeds.label "Жывільнікаў">
+<!ENTITY unsetDefault.tooltip "Немагчыма адмяніць прызначэнне &brandShortName; змоўным спажыўцом у &brandShortName;. Каб зрабіць іншае прыстасаванне змоўчным, вы мусіце скарыстацца яго дыялогам 'Прызначэнне змоўчным'.">
 <!ENTITY checkOnStartup.label "Заўсёды рабіць гэтую праверку падчас запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "ў">
 <!ENTITY searchIntegration.label "Дазволіць &searchIntegration.engineName; шукаць лісты">

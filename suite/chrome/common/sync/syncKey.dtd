@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title "Ваш ключ &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description "Гэты ключ выкарыстоўваецца для дэкадавання здаткаў рахунку &syncBrand.fullName.label;. Вы мусіце ўвесці ключ кожны раз, калі вы наладжваеце &syncBrand.fullName.label; на новым кампутары або збудове.">
 <!ENTITY syncKey.keepItSecret.heading "Захоўвайце яго ў тайне">

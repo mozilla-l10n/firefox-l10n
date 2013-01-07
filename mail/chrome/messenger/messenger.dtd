@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папка…">
@@ -229,28 +233,11 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
-<!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
-<!ENTITY fullZoomEnlargeCmd.accesskey "в">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Паменшыць">
-<!ENTITY fullZoomReduceCmd.accesskey "м">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Узнавіць">
-<!ENTITY fullZoomResetCmd.accesskey "У">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Павялічваць толькі тэкст">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
-<!ENTITY fullZoom.label "Павялічэнне">
-<!ENTITY fullZoom.accesskey "в">
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "Y">
+<!ENTITY getNewMessagesCmd.key "">
+<!ENTITY getAllNewMessagesCmd.key "">
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
@@ -298,7 +285,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Гутарка">
 <!ENTITY goChatCmd.accesskey "г">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -540,7 +527,7 @@
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
-<!ENTITY manageTags.label "Кіраваць тэгамі…">
+<!ENTITY manageTags.label "Кіраваць мецінамі…">
 <!ENTITY manageTags.accesskey "К">
 <!ENTITY folderColumn.label "Назва">
 <!ENTITY folderSizeColumn.label "Памер">
@@ -653,7 +640,7 @@
 <!ENTITY contextForwardAsAttachment.accesskey "Д">
 <!ENTITY contextMoveMsgMenu.label "Перамясціць у">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Апошні">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Апошняя">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "А">
 <!ENTITY contextCopyMsgMenu.label "Капіяваць у">
 <!ENTITY contextCopyMsgMenu.accesskey "К">

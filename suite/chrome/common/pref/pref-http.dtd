@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.http.title "Праца сеткі HTTP">
 <!ENTITY prefDirect.label "Наладжванні прамога злучэння">
 <!ENTITY prefProxy.label "Наладжванні злучэння праз пасярэднік">
@@ -7,9 +11,6 @@
 <!ENTITY prefEnableHTTP11.label "Карыстацца HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "T">
-<!ENTITY prefEnableKeepAlive.label "Дазволіць трывалае злучэнне">
-<!ENTITY prefEnableKeepAlive.accesskey "р">
-<!ENTITY prefEnableKeepAliveProxy.accesskey "ы">
 <!ENTITY prefEnablePipelining.label "Дазволіць тунэляванне">
 <!ENTITY prefEnablePipelining.accesskey "Т">
 <!ENTITY prefEnablePipeliningProxy.accesskey "у">

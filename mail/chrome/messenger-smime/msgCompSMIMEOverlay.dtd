@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY menu_securityEncryptRequire.label "Зашыфраваць гэты ліст">
 <!ENTITY menu_securityEncryptRequire.accesskey "ш">
 <!ENTITY menu_securitySign.label "Лічбава падпісаць гэты ліст">

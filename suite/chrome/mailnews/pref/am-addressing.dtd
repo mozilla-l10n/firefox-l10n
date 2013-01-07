@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressing.label "Укладанне і адрасаванне">
 <!ENTITY addressingGroupTitle.label "Адрасаванне">
 <!ENTITY autocompleteToMyDomain.label "Самастойна дадаваць мой дамен у адрасы">
@@ -28,3 +32,7 @@
 <!ENTITY includeSigOnReply.accesskey "а">
 <!ENTITY includeSigOnForward.label "Уключаць подпіс у перанакіраванні">
 <!ENTITY includeSigOnForward.accesskey "к">
+<!ENTITY globalComposingPrefs.label "Агульныя перавагі ўкладання…">
+<!ENTITY globalComposingPrefs.accesskey "ў">
+<!ENTITY globalAddressingPrefs.label "Агульныя перавагі адрасавання…">
+<!ENTITY globalAddressingPrefs.accesskey "а">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!ENTITY fileExceedsLimit.title "YouSendIt">
 <!ENTITY fileExceedsLimit.thatsBigFile "Дасыланне большых за 50МБ файлаў">
 <!ENTITY fileExceedsLimit.thatsBigFile2 "прэміяльная ўласцівасць">

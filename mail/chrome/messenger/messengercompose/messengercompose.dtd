@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY msgComposeWindow.title "Укладанне: (без тэмы)">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "ф">
@@ -119,8 +123,8 @@
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
 <!ENTITY dsnMenu.accesskey "П">
-<!ENTITY outputFormatMenu.label "Фармат">
-<!ENTITY outputFormatMenu.accesskey "Ф">
+<!ENTITY deliveryFormatMenu.label "">
+<!ENTITY deliveryFormatMenu.accesskey "">
 <!ENTITY autoFormatCmd.label "Сама-вызначэнне">
 <!ENTITY autoFormatCmd.accesskey "С">
 <!ENTITY plainTextFormatCmd.label "Толькі просты тэкст">

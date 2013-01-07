@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tab.cookiesonsystem.label "Захаваныя біркі">
 <!ENTITY tab.bannedservers.label "Сеціўныя пляцоўкі бірак">
 <!ENTITY div.bannedservers.label "Кіраванне сеціўнымі пляцоўкамі, якія могуць ці не захоўваць біркі на вашым кампутары.">

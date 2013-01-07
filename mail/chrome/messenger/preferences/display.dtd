@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label "Фарматаванне">
 <!ENTITY itemTags.label "Меткі">
 <!ENTITY style.label "Стыль:">
@@ -23,7 +27,7 @@
 <!ENTITY backgroundColor.accesskey "ф">
 <!ENTITY convertEmoticons.label "Адлюстроўваць пачуццезнакі графічна">
 <!ENTITY convertEmoticons.accesskey "ч">
-<!ENTITY displayTagsText.label "Меткі могуць ужывацца для размеркавання вашых лістоў па катэгорыям і надання ім прыярытэтаў.">
+<!ENTITY displayTagsText.label "Меціны могуць ужывацца для размеркавання вашых лістоў па катэгорыям і надання ім прыярытэтаў.">
 <!ENTITY addTagButton.label "Дадаць">
 <!ENTITY addTagButton.accesskey "Д">
 <!ENTITY editTagButton.label "Правіць">

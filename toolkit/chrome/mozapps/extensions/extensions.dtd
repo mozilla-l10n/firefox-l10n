@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle "Кіраўнік дадаткаў">
 <!ENTITY search.placeholder "Пошук усіх дадаткаў">
 <!ENTITY search.commandkey "f">
@@ -145,7 +149,7 @@
 <!ENTITY addon.releaseNotes.label "Заўвагі пра выданне:">
 <!ENTITY addon.loadingReleaseNotes.label "Загрузка…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Прабачце, здарылася памылка падчас загрузкі заўвагаў пра выданне.">
-<!ENTITY addon.createdBy.label "By ">
+<!ENTITY addon.createdBy.label "">
 <!ENTITY eula.title "Ліцэнзійнае Пагадненне канчатковага карыстальніка">
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
