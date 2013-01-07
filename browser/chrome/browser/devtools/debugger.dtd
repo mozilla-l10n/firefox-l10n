@@ -8,16 +8,16 @@
 <!ENTITY chromeDebuggerMenu.label "Наладчык азіральніка">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыць">
-<!ENTITY debuggerUI.optsButton.tooltip "">
+<!ENTITY debuggerUI.optsButton.tooltip "Debugger Options">
 <!ENTITY debuggerUI.pauseExceptions "Прыпыняць падчас выключэнняў">
-<!ENTITY debuggerUI.pauseExceptions.key "">
-<!ENTITY debuggerUI.showPanesOnInit "">
-<!ENTITY debuggerUI.showPanesOnInit.key "">
-<!ENTITY debuggerUI.showVarsSearch "">
-<!ENTITY debuggerUI.showVarsSearch.key "">
-<!ENTITY debuggerUI.showNonEnums "">
-<!ENTITY debuggerUI.showNonEnums.key "">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.showPanesOnInit "Show panes on startup">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showVarsSearch "Show variables searchbox">
+<!ENTITY debuggerUI.showVarsSearch.key "V">
+<!ENTITY debuggerUI.showNonEnums "Show hidden properties">
+<!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Чыннікі">
-<!ENTITY debuggerUI.condBreakPanelTitle "">
-<!ENTITY debuggerUI.seMenuBreak "">
-<!ENTITY debuggerUI.seMenuCondBreak "">
+<!ENTITY debuggerUI.condBreakPanelTitle "This breakpoint will stop execution only if the following expression is true">
+<!ENTITY debuggerUI.seMenuBreak "Add breakpoint">
+<!ENTITY debuggerUI.seMenuCondBreak "Add conditional breakpoint">

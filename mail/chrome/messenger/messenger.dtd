@@ -236,8 +236,8 @@
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY getNewMessagesCmd.key "">
-<!ENTITY getAllNewMessagesCmd.key "">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
@@ -285,7 +285,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Гутарка">
 <!ENTITY goChatCmd.accesskey "г">
-<!ENTITY goChatCmd.key "">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">

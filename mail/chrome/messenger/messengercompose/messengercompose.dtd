@@ -123,8 +123,8 @@
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
 <!ENTITY dsnMenu.accesskey "П">
-<!ENTITY deliveryFormatMenu.label "">
-<!ENTITY deliveryFormatMenu.accesskey "">
+<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Сама-вызначэнне">
 <!ENTITY autoFormatCmd.accesskey "С">
 <!ENTITY plainTextFormatCmd.label "Толькі просты тэкст">
