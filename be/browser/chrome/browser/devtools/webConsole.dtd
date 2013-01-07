@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Кансоль Сеціва">
-<!ENTITY networkPanel.requestURLColon "">
-<!ENTITY networkPanel.requestMethodColon "">
-<!ENTITY networkPanel.statusCodeColon "">
+<!ENTITY networkPanel.requestURLColon "Request URL:">
+<!ENTITY networkPanel.requestMethodColon "Request Method:">
+<!ENTITY networkPanel.statusCodeColon "Status Code:">
 <!ENTITY networkPanel.requestHeaders "Загалоўкі запыту">
 <!ENTITY networkPanel.requestCookie "Дасланыя біркі">
 <!ENTITY networkPanel.requestBody "Цела запыту">
 <!ENTITY networkPanel.requestFormData "Дасланыя здаткі формы">
 <!ENTITY networkPanel.responseHeaders "Загалоўкі водгуку">
-<!ENTITY networkPanel.responseCookie "">
+<!ENTITY networkPanel.responseCookie "Received Cookie">
 <!ENTITY networkPanel.responseBody "Цела водгуку">
 <!ENTITY networkPanel.responseBodyCached "Прызапашаныя здаткі">
 <!ENTITY networkPanel.responseBodyUnknownType "Невядомы тып змесціва">

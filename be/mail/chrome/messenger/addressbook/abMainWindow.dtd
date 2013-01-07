@@ -20,7 +20,7 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "л">
 <!ENTITY osxAddressBook.label "Ужываць адрасную кнігу Mac OS X">
-<!ENTITY osxAddressBook.accesskey "">
+<!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Зачыніць">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ч">

@@ -29,11 +29,11 @@
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
-<!ENTITY aboutSupport.userJSTitle "">
-<!ENTITY aboutSupport.userJSDescription "">
+<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 <!ENTITY aboutSupport.a11yTitle "Даступнасць">
 <!ENTITY aboutSupport.a11yActivated "Задзейнічаны">
 <!ENTITY aboutSupport.a11yForceDisabled "Прадухіліць даступнасць">
