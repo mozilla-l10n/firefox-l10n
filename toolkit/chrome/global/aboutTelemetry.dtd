@@ -5,8 +5,8 @@
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-data">
 
 <!ENTITY aboutTelemetry.pageSubtitle "
-  Deze pagina toont de prestatie- en eigenschappengebruik- gegevens verzameld door Telemetry.
-  Deze informatie wordt annoniem verzonden naar Mozilla om &brandShortName; te helpen verbeteren.
+  Deze pagina toont de gegevens over prestaties en functiegebruik, verzameld door Telemetry.
+  Deze informatie wordt anoniem naar Mozilla verzonden om &brandShortName; te helpen verbeteren.
 ">
 
 <!ENTITY aboutTelemetry.telemetryEnabled "
@@ -18,11 +18,11 @@
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
+  Trage SQL-statements
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
+  Browservastlopers
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
@@ -42,11 +42,11 @@
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
+  Klik om sectie uit te vouwen
 ">
 
 <!ENTITY aboutTelemetry.toggleOff "
-  Klik om sectie uit te vouwen
+  Klik om sectie samen te vouwen
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
@@ -54,14 +54,13 @@
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
+  NOOT: debugging van trage SQL is ingeschakeld. Volledige SQL-strings kunnen hieronder worden weergegeven, maar ze zullen niet bij Telemetry worden ingediend.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
+  Functienamen voor hang-stacks ophalen
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
+  Onbewerkte gegevens van vastlopers tonen
 ">
-
