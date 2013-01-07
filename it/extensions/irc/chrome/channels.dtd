@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Collegamento al canale">
-<!ENTITY qsearch.label "Ricerca veloce:">
-<!ENTITY qsearch.accesskey "R">
+<!ENTITY network.label "Rete:">
+<!ENTITY network.accesskey "R">
+<!ENTITY channel.label "Canale:">
+<!ENTITY channel.accesskey "n">
 <!ENTITY topics.label "Ricerca tra gli argomenti oltre ai nomi dei canali">
 <!ENTITY topics.accesskey "R">
 <!ENTITY join.label "Collegati">
@@ -15,6 +17,8 @@
 <!ENTITY maxusers.accesskey "U">
 <!ENTITY refresh.label "Aggiorna ora">
 <!ENTITY refresh.accesskey "A">
+<!ENTITY network.hint.label "Inserire una rete o un nome server (è possibile includere una porta) e un canale a cui collegarsi.">
+<!ENTITY col.network "Rete">
 <!ENTITY col.name "Nome">
 <!ENTITY col.users "Utenti">
 <!ENTITY col.topic "Argomento">
