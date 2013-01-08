@@ -83,8 +83,6 @@
 <!ENTITY bookmarks.folder.desktop.label '來自電腦的書籤'>
 <!ENTITY bookmarks.folder.mobile.label '行動書籤'>
 <!ENTITY bookmarks.folder.readinglist.label '閱讀清單'>
-<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label '釘選網站'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>
