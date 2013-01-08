@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Показать вкладку чата">
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
-<!ENTITY appmenuButton.tooltip "Показывать меню приложения">
+<!ENTITY appmenuButton1.tooltip "Отображать меню &brandShortName;">
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">

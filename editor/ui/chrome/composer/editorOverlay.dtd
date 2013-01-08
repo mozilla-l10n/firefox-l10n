@@ -57,12 +57,12 @@
 <!ENTITY FontSizeSelect.tooltip "Выбор размера шрифта">
 <!ENTITY decreaseFontSize.label "Уменьшить">
 <!ENTITY decreaseFontSize.accesskey "м">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ",">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Увеличить">
 <!ENTITY increaseFontSize.accesskey "в">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 ".">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Размер шрифта">
 <!ENTITY fontSizeMenu.accesskey "м">
 <!ENTITY size-xx-smallCmd.label "крошечный">
