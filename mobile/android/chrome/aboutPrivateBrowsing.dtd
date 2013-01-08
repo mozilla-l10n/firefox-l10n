@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privat surfning">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Du har öppnat en ny privat flik.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Du använder inte en privat flik.">
+
+<!ENTITY privatebrowsingpage.description            "För privata flikar kommer &brandShortName; inte att spara någon webbläsarhistorik, sökhistorik, filhämtningshistorik, formulärhistorik, kakor eller tillfälliga internetfiler. Filer du hämtar och bokmärken du lägger till kommer däremot att bevaras.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Även om den här enheten inte kommer att ha några uppgifter om din webbläsningshistorik, kan din internetleverantör fortfarande ha koll på vilka sidor du besöker.">
