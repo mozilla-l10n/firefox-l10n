@@ -123,8 +123,8 @@
 <!ENTITY returnReceiptMenu.accesskey "R">
 <!ENTITY dsnMenu.label "Notifica dello stato di consegna">
 <!ENTITY dsnMenu.accesskey "d">
-<!ENTITY outputFormatMenu.label "Formato">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Formato di consegna">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Automatico">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Solo testo">

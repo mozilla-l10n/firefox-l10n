@@ -285,7 +285,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Messaggio speciale">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Cartelle di posta">
@@ -466,7 +466,7 @@
 <!ENTITY archiveButton.label "Archivia">
 <!ENTITY nextButton.label "Successivo">
 <!ENTITY nextButtonToolbarItem.label "Successivo non letto">
-<!ENTITY nextMsgButton.label "Sucessivo">
+<!ENTITY nextMsgButton.label "Successivo">
 <!ENTITY previousButton.label "Precedente">
 <!ENTITY previousButtonToolbarItem.label "Precedente non letto">
 <!ENTITY previousMsgButton.label "Precedente">
@@ -709,7 +709,7 @@
 <!ENTITY saveImageAsCmd.label "Salva con nome…">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyImageAllCmd.label "Copia immagine">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Copia indirizzo email">
