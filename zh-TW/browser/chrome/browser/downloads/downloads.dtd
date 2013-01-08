@@ -87,5 +87,5 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "找不到任何符合下載項目。">
+<!ENTITY downloadsListNoMatch.label       "找不到任何符合的下載項目。">
 
