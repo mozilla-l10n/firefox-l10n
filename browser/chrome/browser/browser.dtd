@@ -174,9 +174,10 @@
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolbarToolsButton.label "Attiva/disattiva casella strumenti">
+<!ENTITY devToolboxMenuItem.label "Attiva strumenti">
+<!ENTITY devToolboxMenuItem.accesskey "m">
+<!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti per sviluppatori">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
-<!ENTITY devToolbox.accesskey "m">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
 <!ENTITY fileMenu.label "File">
