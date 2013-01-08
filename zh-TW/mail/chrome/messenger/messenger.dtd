@@ -363,7 +363,7 @@
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "最近開啟">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY copyMessageLocation.label "複製郵件位置">
+<!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "複製到">
 <!ENTITY copyMsgToMenu.accesskey "C">
@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "顯示聊天分頁">
 <!ENTITY tagButton.tooltip "將郵件加上標籤">
 <!ENTITY compactButton.tooltip "從指定資料夾移除已刪郵件">
-<!ENTITY appmenuButton.tooltip "顯示應用程式選單">
+<!ENTITY appmenuButton1.tooltip "顯示 &brandShortName; 選單">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "寫新訊息">
@@ -578,7 +578,7 @@
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "開啟">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "以新分頁開啟">
+<!ENTITY folderContextOpenNewTab.label "用新分頁開啟">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "新增子資料夾…">
 <!ENTITY folderContextNew.accesskey "N">
