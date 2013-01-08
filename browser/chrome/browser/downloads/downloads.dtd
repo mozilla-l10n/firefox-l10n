@@ -24,5 +24,11 @@
 <!ENTITY cmd.removeFromHistory.accesskey "m">
 <!ENTITY cmd.clearList.label "Cancella elenco">
 <!ENTITY cmd.clearList.accesskey "e">
+<!ENTITY cmd.clearDownloads.label "Cancella elenco download">
+<!ENTITY cmd.clearDownloads.accesskey "n">
 <!ENTITY downloadsHistory.label "Visualizza tutti i download">
 <!ENTITY downloadsHistory.accesskey "V">
+<!ENTITY clearDownloadsButton.label "Cancella elenco download">
+<!ENTITY clearDownloadsButton.tooltip "Rimuovi dall'elenco i download completati, annullati o non riusciti">
+<!ENTITY downloadsListEmpty.label "Non sono presenti download.">
+<!ENTITY downloadsListNoMatch.label "Non è stato trovato alcun download corrispondente.">
