@@ -5,7 +5,7 @@
 <!ENTITY sidebar.panels.label           "側邊欄">
 <!ENTITY sidebar.reload.label           "重新載入">
 <!ENTITY sidebar.reload.accesskey       "R">
-<!ENTITY sidebar.picker.label           "標籤">
+<!ENTITY sidebar.picker.label           "分頁">
 <!ENTITY sidebar.customize.label        "自訂側邊欄…">
 <!ENTITY sidebar.customize.accesskey    "u">
 <!ENTITY sidebar.hide.label             "隱藏面板">
