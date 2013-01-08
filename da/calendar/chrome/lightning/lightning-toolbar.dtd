@@ -37,4 +37,4 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
 <!ENTITY lightning.toolbar.appmenuButton.label       "Programmenu">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Viser programmenuen">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Viser menuen for &brandShortName;">
