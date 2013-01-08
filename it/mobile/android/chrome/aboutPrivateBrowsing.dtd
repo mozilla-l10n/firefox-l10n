@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Navigazione anonima">
+<!ENTITY privatebrowsingpage.issueDesc.private "È stata aperta una nuova scheda anonima.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Questa non è una scheda anonima.">
+<!ENTITY privatebrowsingpage.description "In una scheda anonima non verrà conservata in &brandShortName; alcuna cronologia relativa a navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati o segnalibri aggiunti.">
+<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.moreInfo "Anche se questo dispositivo non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagine visitate.">
