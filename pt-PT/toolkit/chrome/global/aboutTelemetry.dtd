@@ -4,7 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados da telemetria">
 
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   A telemetria está <span>ativada</span>.
 ">
@@ -27,6 +26,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medições simples
+">
+
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Escritas atrasadas
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
