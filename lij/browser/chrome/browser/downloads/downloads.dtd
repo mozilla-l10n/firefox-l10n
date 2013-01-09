@@ -31,3 +31,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.accesskey          "c">
 
 <!ENTITY cmd.retry.label                  "Prêuva tórna">
+
+<!ENTITY cmd.clearDownloads.label "Cancèlla elénco descaregaménti">
+<!ENTITY cmd.clearDownloads.accesskey "n">
+<!ENTITY downloadsHistory.label "Fànni védde tùtti i descaregaménti">
+<!ENTITY downloadsHistory.accesskey "v">
+<!ENTITY clearDownloadsButton.label "Cancèlla elénco descaregaménti">
+<!ENTITY clearDownloadsButton.tooltip "Scancèlla da l'elenco i descaregaménti conpletæ, anulæ ò no ariêscîi">
+<!ENTITY downloadsListEmpty.label "No gh'é di descaregaménti.">
+<!ENTITY downloadsListNoMatch.label "No ò trovòu nisciùn descaregaménto.">
+
+
