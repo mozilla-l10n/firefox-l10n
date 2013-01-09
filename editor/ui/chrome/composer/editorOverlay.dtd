@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Tagh meud a' chrutha-chlò">
 <!ENTITY decreaseFontSize.label "Nas lugha">
 <!ENTITY decreaseFontSize.accesskey "N">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Nas motha">
 <!ENTITY increaseFontSize.accesskey "N">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Meud">
 <!ENTITY fontSizeMenu.accesskey "M">
