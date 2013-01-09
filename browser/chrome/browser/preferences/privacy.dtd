@@ -37,12 +37,12 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; podría:">
 <!ENTITY  historyHeader.pre.accesskey      "p">
-<!ENTITY  historyHeader.remember.label     "Remembrar l'historial">
-<!ENTITY  historyHeader.dontremember.label "Nun remembrar historial">
+<!ENTITY  historyHeader.remember.label     "Recordar l'historial">
+<!ENTITY  historyHeader.dontremember.label "Nun recordar historial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal historial">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; remembrará'l to historial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visites.">
+<!ENTITY  rememberDescription.label      "&brandShortName; recordará'l to historial de navegación, descargues, formularios y guetes, y atroxará tamién cookies de los sitios Web que visites.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -53,7 +53,7 @@
 <!ENTITY  rememberActions.removeCookies.label "desaniciar cookies de mou individual">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun remembrará dengún datu del to historial mientres restoles pela Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará la mesma configuración que navegación privao, y nun recordará dengún datu del to historial mientres restoles pela Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -62,7 +62,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 <!ENTITY privateBrowsingPermanent2.label "Usar siempre mou de navegación privao">
 <!ENTITY privateBrowsingPermanent2.accesskey "p">
-<!ENTITY rememberHistory2.label "Remembrar el mio historial de descargues y de navegación">
+<!ENTITY rememberHistory2.label "Recordar el mio historial de descargues y de navegación">
 <!ENTITY rememberHistory2.accesskey "v">
 
 <!-- LOCALIZATION NOTE:
@@ -72,7 +72,7 @@
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
 
-<!ENTITY  rememberSearchForm.label       "Remembrar l'historial de formularios y guetes">
+<!ENTITY  rememberSearchForm.label       "Recordar l'historial de formularios y guetes">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Llimpiar l'historial cuando &brandShortName; se zarre">
