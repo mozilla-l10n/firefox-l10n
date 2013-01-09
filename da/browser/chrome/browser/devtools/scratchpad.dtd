@@ -109,7 +109,7 @@
 <!ENTITY reloadAndRun.accesskey       "G">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Udfør">
+<!ENTITY executeMenu.label            "Eksekver">
 <!ENTITY executeMenu.accesskey        "U">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
