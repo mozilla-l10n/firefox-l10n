@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "As àirde">
 
 <!ENTITY contextDesc.label "Cleachd a' chriathrag nuair:">
-<!ENTITY contextDesc.accesskey "C">
-<!ENTITY contextIncoming.label "A' thathar lorg post ùr">
+<!ENTITY contextIncomingMail.label "A thathar a' faighinn post ùr:">
+<!ENTITY contextIncomingMail.accesskey "t">
 <!ENTITY contextManual.label "A thathar 'ga ruith a làimh">
-<!ENTITY contextBoth.label "A thathar a' lorg post ùr no 'ga ruith a làimh">
-<!ENTITY contextPostPlugin.label "A thathar a' lorg post ùr (às dèidh seòrsachadh)">
-<!ENTITY contextPostPluginBoth.label "A thathar a' lorg post ùr (às dèidh seòrsachadh) no 'ga ruith a làimh">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Criathraich mus comharraichear truilleis">
+<!ENTITY contextAfterCls.label "Criathraich an dèidh comharrachadh na truilleis">
+
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
 <!ENTITY filterActionDesc.accesskey "D">
 
