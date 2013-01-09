@@ -28,10 +28,6 @@
   Medições simples
 ">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Escritas atrasadas
-">
-
 <!ENTITY aboutTelemetry.systemInfoSection "
   Informação do sistema
 ">
