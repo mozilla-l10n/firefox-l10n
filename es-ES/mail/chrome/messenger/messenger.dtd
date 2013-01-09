@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta seleccionada">
-<!ENTITY appmenuButton.tooltip "Muestra el menú de aplicaciones">
+<!ENTITY appmenuButton1.tooltip "Mostrar el menú &brandShortName;">
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
