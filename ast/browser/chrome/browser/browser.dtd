@@ -467,5 +467,12 @@
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY devtoolsConnect.label "Coneutar…">
 <!ENTITY devtoolsConnect.accesskey "e">
-<!ENTITY devToolbox.accesskey "B">
-<!ENTITY devToolbarToolsButton.label "Camudar barra de ferramientes">
+<!ENTITY webrtcIndicatorButton.tooltip "Amuesa los sitios colos que tas compartiendo la to cámara o micrófonu">
+<!ENTITY webrtcIndicatorButton.label "Accesu a la cámara y micrófonu">
+<!ENTITY getUserMedia.selectMicrophone.label "Micrófonu pa compartir:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "Cámara pa compartir:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY devToolboxMenuItem.label "Amosar ferramientes">
+<!ENTITY devToolboxMenuItem.accesskey "T">
+<!ENTITY devToolbarToolsButton.tooltip "Activar les ferramientes pa desendolcadores">
