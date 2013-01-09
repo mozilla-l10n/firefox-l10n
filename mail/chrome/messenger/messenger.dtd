@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Mostra scheda della chat">
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
-<!ENTITY appmenuButton.tooltip "Mostra il menu applicazione">
+<!ENTITY appmenuButton1.tooltip "Mostra il Menu di &brandShortName;">
 <!ENTITY appmenuNewMsgCmd.label "Nuovo messaggio">
 <!ENTITY appmenuNewContactCmd.label "Contatto rubrica…">
 <!ENTITY appmenuEditMenu.label "Modifica">
