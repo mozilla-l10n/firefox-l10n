@@ -8,21 +8,25 @@
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label "Acción de la rueda del ratón">
+<!ENTITY mouseWheelGroup.label "Desplazamiento vertical">
+<!ENTITY mouseWheelHorizGroup.label "Desplazamiento horizontal">
+<!ENTITY sameAsVertical.label "La misma que la del desplazamiento vertical">
+<!ENTITY sameAsVertical.accesskey "L">
 <!ENTITY doNothing.label "No hacer nada">
 <!ENTITY doNothing.accesskey "N">
+<!ENTITY doNothingHoriz.accesskey "N">
 <!ENTITY scrollDocument.label "Desplazar el documento">
 <!ENTITY scrollDocument.accesskey "D">
+<!ENTITY scrollDocumentHoriz.accesskey "c">
 <!ENTITY history.label "Moverse adelante y atrás en el historial de navegación">
 <!ENTITY history.accesskey "M">
+<!ENTITY historyHoriz.accesskey "b">
 <!ENTITY zoom.label "Aumentar o reducir el tamaño de la página">
 <!ENTITY zoom.accesskey "A">
-<!ENTITY mouseWheelSpeed.label "Velocidad de la rueda del ratón">
-<!ENTITY verticalSpeed.label "Vertical:">
-<!ENTITY verticalSpeed.accesskey "V">
-<!ENTITY verticalReverse.label "Invertir dirección">
-<!ENTITY verticalReverse.accesskey "I">
-<!ENTITY horizontalSpeed.label "Horizontal:">
-<!ENTITY horizontalSpeed.accesskey "o">
-<!ENTITY horizontalReverse.label "Invertir dirección">
-<!ENTITY horizontalReverse.accesskey "c">
+<!ENTITY zoomHoriz.accesskey "o">
+<!ENTITY wheelSpeed.label "Velocidad de la rueda del ratón:">
+<!ENTITY wheelSpeed.accesskey "V">
+<!ENTITY wheelSpeedHoriz.accesskey "u">
+<!ENTITY reverseDirection.label "Invertir dirección">
+<!ENTITY reverseDirection.accesskey "I">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
