@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Sanasan air cor an lìbhrigidh">
 <!ENTITY dsnMenu.accesskey "n">
-<!ENTITY outputFormatMenu.label "Fòrmat">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Fòrmat lìbhrigidh">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Mothachadh leis fhèin">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Teacsa lom a-mhàin">

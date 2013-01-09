@@ -308,7 +308,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Cabadaich">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Teachdaireachd le rionnag">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">
@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Seall taba na cabadaich">
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
-<!ENTITY appmenuButton.tooltip "Seallaidh seo clàr-taice na h-aplacaid">
+<!ENTITY appmenuButton1.tooltip "Seall clàr-taice &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Teachdaireachd ùr">
