@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Leig le &searchIntegration.engineName; teachdaireachdan a rannsachadh">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Thoir sùil an-dràsta">
-<!ENTITY checkNow.accesskey            "n">
+<!ENTITY checkDefaultsNow.label        "Thoir sùil an-dràsta…">
+<!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Roghainnean adhartach">
 <!ENTITY configEdit.label              "Deasaichear nan roghainnean…">
 <!ENTITY configEdit.accesskey          "c">

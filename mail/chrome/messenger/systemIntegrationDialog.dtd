@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Co-fhilleadh an t-siostaim">
+<!ENTITY acceptIntegration.label  "Suidhich mar a' bhun-roghainn">
+<!ENTITY cancelIntegration.label  "Gearr leum thairis air a' cho-fhilleadh">
 <!ENTITY defaultClient.intro  "Cleachd &brandShortName; mar an cliant bunaiteach airson:">
 
 <!ENTITY email.label "Post-dealain">
 <!ENTITY newsgroups.label "Buidhnean-naidheachd">
 <!ENTITY feeds.label "Inbhirean">
+
+<!ENTITY unsetDefault.tooltip "Chan urrainn dhut &brandShortName; a thoirt air falbh mar an cliant bunaiteach o bhroinn &brandShortName;. Ma tha thu ag iarraidh aplacaid eile mar bhun-roghainn, feumaidh tu a dhol ann is bun-roghainn a dhèanamh dheth o bhroinn fhèin.">
 
 <!ENTITY checkOnStartup.label "Ceasnaich seo gach turas a thòisicheas &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
