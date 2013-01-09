@@ -557,7 +557,7 @@
 <!ENTITY chatButton.tooltip "Amosa a lapela das conversas">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
 <!ENTITY compactButton.tooltip "Retira as mensaxes eliminadas do cartafol seleccionado">
-<!ENTITY appmenuButton.tooltip "Amosa o menú do aplicativo">
+<!ENTITY appmenuButton1.tooltip "Amosa o menú do &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensaxe">
