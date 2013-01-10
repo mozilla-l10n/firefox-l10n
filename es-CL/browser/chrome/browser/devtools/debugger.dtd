@@ -15,15 +15,8 @@
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
-  -  checkbox that toggles visibility of a designated variables filter box. -->
 <!ENTITY debuggerUI.showVarsFilter      "Mostrar caja de filtrado de variables">
 <!ENTITY debuggerUI.showVarsFilter.key  "V">
-
-<!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
-  -  checkbox that toggles visibility of hidden (non-enumerable) variables and
-  -  properties in stack views. The "enumerable" flag is a state of a property
-  -  defined in JavaScript. When in doubt, leave untranslated. -->
 <!ENTITY debuggerUI.showOnlyEnum        "Mostrar solo propiedades enumerables">
 <!ENTITY debuggerUI.showOnlyEnum.key    "P">
 
@@ -43,22 +36,12 @@
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!ENTITY debuggerUI.seMenuCondBreak "Agregar punto de quiebre condicional">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
-
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
-  -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Selección de expresión de observación">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
-
-<!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
-  -  appears in the watch expressions context menu for adding an expression. -->
 <!ENTITY debuggerUI.addWatch            "Agregar expresión de observación">
 <!ENTITY debuggerUI.addWatch.key        "E">
-
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
-  -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch      "Eliminar todas las expresiones de observación">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
-
 <!ENTITY debuggerUI.stepping.resume "VK_F6">
 <!ENTITY debuggerUI.stepping.stepOver "VK_F7">
 <!ENTITY debuggerUI.stepping.stepIn "VK_F8">

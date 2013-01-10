@@ -4,6 +4,7 @@
 
 <!ENTITY privatebrowsingpage.title "Navegación privada">
 <!ENTITY privatebrowsingpage.title.normal "¿Quiere iniciar la navegación privada?">
+
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; no recordará nada en el historial para esta sesión.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; no está actualmente en modo de Navegación Privada.">
 
@@ -23,7 +24,6 @@
 <!ENTITY privatebrowsingpage.howToStop2 "Para terminar la navegación privada, seleccione &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; o cierre &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2 "Para iniciar la navegación privada, también puede seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStart3               "Para iniciar la navegación privada, usted puede también seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "Para detener la navegación privada, usted puede cerrar esta ventana.">
 

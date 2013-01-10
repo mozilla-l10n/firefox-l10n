@@ -174,9 +174,7 @@
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolbarToolsButton.label "Mostrar caja de herramientas">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
-<!ENTITY devToolbox.accesskey "B">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "m">
 <!ENTITY fileMenu.label "Archivo">
