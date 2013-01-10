@@ -24,5 +24,11 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label "Limpiar lista">
 <!ENTITY cmd.clearList.accesskey "L">
+<!ENTITY cmd.clearDownloads.label         "Limpiar descargas">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!ENTITY downloadsHistory.label "Mostrar todas las descargas">
 <!ENTITY downloadsHistory.accesskey "M">
+<!ENTITY clearDownloadsButton.label       "Limpiar descargas">
+<!ENTITY clearDownloadsButton.tooltip     "Limpia las descargas completadas, canceladas y fallidas">
+<!ENTITY downloadsListEmpty.label         "No hay descargas.">
+<!ENTITY downloadsListNoMatch.label       "No se encontró ninguna coincidencia en las descargas.">
