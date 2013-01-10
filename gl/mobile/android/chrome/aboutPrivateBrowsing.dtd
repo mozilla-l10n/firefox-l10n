@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegación privada">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Abriu unha nova lapela privada.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Non está nunha lapela privada.">
+
+<!ENTITY privatebrowsingpage.description            "Nas lapelas privadas, o &brandShortName; non gardará ningún historial de navegación, buscas, descargas, formularios, cookies ou ficheiros temporais da internet. Con todo, os ficheiros que descargue e os marcadores gardados si permanecerán.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Lembre que aínda que este dispositivo non manteña un rexistro do seu historial de navegación, o seu fornecedor de internet pode saber as páxinas que vostede visita.">
