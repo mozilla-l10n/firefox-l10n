@@ -11,4 +11,6 @@
 <!ENTITY aboutApps.noApps.pre "未安裝網路應用程式。到 ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox 商城">
 <!ENTITY aboutApps.noApps.post "下載一些吧！">
+<!ENTITY aboutApps.uninstall "移除">
+<!ENTITY aboutApps.addToHomescreen "新增至裝置主畫面">
 
