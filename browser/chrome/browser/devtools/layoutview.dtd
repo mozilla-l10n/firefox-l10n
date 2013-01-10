@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY title "Modelo de caja">
-<!ENTITY margins.tooltip "margenes">
+<!ENTITY margins.tooltip "márgenes">
 <!ENTITY borders.tooltip "bordes">
 <!ENTITY padding.tooltip "padding">
 <!ENTITY content.tooltip "contenido">
