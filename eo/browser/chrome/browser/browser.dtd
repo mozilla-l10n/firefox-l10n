@@ -234,10 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "p">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "Montri/Kaŝi ilarujon">
-<!ENTITY devToolbarOtherToolsButton.label  "Pli da iloj">
+<!ENTITY devToolboxMenuItem.label          "Montri/kaŝi ilojn">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbox.accesskey              "i">
+<!ENTITY devToolbarToolsButton.tooltip     "Montri/kaŝi ilojn de disvolvanto">
+<!ENTITY devToolbarOtherToolsButton.label  "Pli da iloj">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Akiri pli da iloj">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -628,3 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
 <!ENTITY getUserMedia.selectMicrophone.label "Dividota mikrofono:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+
+<!ENTITY webrtcIndicatorButton.label "Aliro al filmilo kaj mikrofono">
+<!ENTITY webrtcIndicatorButton.tooltip "Montri la retejojn kun kiuj vi nuntempe dividas vian filmilon aŭ mikrofonon">
