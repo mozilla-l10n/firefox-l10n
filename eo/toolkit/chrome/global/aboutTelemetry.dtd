@@ -28,6 +28,10 @@
   Simplaj mezuroj
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   Sistemaj informoj
 ">
