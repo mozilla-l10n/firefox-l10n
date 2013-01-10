@@ -64,7 +64,7 @@
 <!ENTITY  permPopup             "Åbne pop op-vinduer">
 <!ENTITY  permCookie            "Sætte cookies">
 <!ENTITY  permInstall           "Installere udvidelser eller temaer">
-<!ENTITY  permGeo               "Dele placering">
+<!ENTITY  permGeo               "Dele position">
 <!ENTITY  permPlugins           "Aktivere plugins">
 <!ENTITY  permFullscreen        "Aktivere fuldskærm">
 
