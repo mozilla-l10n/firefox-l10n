@@ -21,6 +21,9 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Mediciones simples
 ">
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Últimas escrituras
+  ">
 <!ENTITY aboutTelemetry.systemInfoSection "
   Información del sistema
 ">

@@ -174,6 +174,9 @@
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolboxMenuItem.label          "Activar herramientas">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolbarToolsButton.tooltip     "Activar las herramientas de desarrollador">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "m">
@@ -456,8 +459,10 @@
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY webrtcIndicatorButton.label "Acceso a la cámara y al micrófono">
+<!ENTITY webrtcIndicatorButton.tooltip "Muestra los sitios a los que actualmente comparte su cámara o micrófono">
+
