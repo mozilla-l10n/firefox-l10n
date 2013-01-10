@@ -41,3 +41,6 @@
 <!ENTITY matched               "Coincidencia">
 <!ENTITY parentMatch           "Coincidencia padre">
 <!ENTITY unmatched             "Sin coincidencia">
+
+<!ENTITY computedViewTitle     "Computado">
+<!ENTITY ruleViewTitle         "Reglas">

@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsConnect.label        "Conectar…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Consola web">
-<!ENTITY webConsoleCmd.accesskey      "w">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
-
-<!ENTITY inspectMenu.label            "Inspeccionar">
-<!ENTITY inspectMenu.accesskey        "n">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "o">
@@ -233,40 +229,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Cerrar barra lateral">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML interno">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Copiar HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
-
-<!ENTITY inspectorHTMLDelete.label          "Eliminar nodo">
-<!ENTITY inspectorHTMLDelete.accesskey      "d">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "Vista 3D">
-<!ENTITY inspect3DViewButton.accesskey "V">
-
-<!ENTITY inspectStyleButton.label     "Estilo">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Editor de estilo">
-<!ENTITY styleeditor.accesskey        "i">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -387,6 +355,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Abrir enlace en nueva ventana">
 <!ENTITY openLinkCmd.accesskey        "A">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir enlace en nueva ventana privada">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir enlace">
 <!ENTITY openLinkCmdInCurrent.accesskey "e">
 <!ENTITY openFrameCmdInTab.label      "Abrir marco en nueva pestaña">
@@ -614,8 +584,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Más información…">
 
-<!ENTITY downloadMonitor2.tooltip "Haga click para abrir la ventana de descargas">
-
 <!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +602,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Cerrar barra de complementos">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Marcado">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Botón de la barra de herramientas social">
 <!ENTITY social.notLoggedIn.label   "No conectado">
@@ -660,3 +619,10 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Concentrarse en los chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
