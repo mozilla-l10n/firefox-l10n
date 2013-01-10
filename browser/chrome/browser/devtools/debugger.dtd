@@ -19,6 +19,7 @@
 <!ENTITY debuggerUI.seMenuBreak.key "u">
 <!ENTITY debuggerUI.seMenuCondBreak.key "u">
 
+<!ENTITY debuggerUI.panesButton.tooltip "Atîva/dizatîva panélli">
 <!ENTITY debuggerUI.seMenuAddWatch "Crêa espresción de contròllo da seleçión">
 <!ENTITY debuggerUI.seMenuAddWatch.key "a">
 <!ENTITY debuggerUI.addWatch "Azónzi espresción de contròllo">
