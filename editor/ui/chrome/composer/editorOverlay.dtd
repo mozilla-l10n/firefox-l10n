@@ -100,11 +100,8 @@
 <!ENTITY FontSizeSelect.tooltip "Esbilla un tamañu de lletra">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "Más grande">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
 <!ENTITY fontSizeMenu.label "Tamañu">
 <!ENTITY fontSizeMenu.accesskey "T">
 <!ENTITY size-xx-smallCmd.label "Estrapequeñu">
@@ -332,4 +329,7 @@
 <!ENTITY removeTOC.accesskey "r">
 <!ENTITY tocMenu.label "Tabla de conteníos…">
 <!ENTITY tocMenu.accesskey "b">
-<!ENTITY decreaseFontSize.key2 ",">
+<!ENTITY incrementFontSize.key2 ".">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY decrementFontSize.key2 ",">
+<!ENTITY decrementFontSize.key "&lt;">
