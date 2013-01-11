@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta actual">
-<!ENTITY appmenuButton.tooltip "Mostrar el menú de aplicaciones">
+<!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
