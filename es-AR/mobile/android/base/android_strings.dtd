@@ -54,11 +54,10 @@
 <!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY new_tab "Nueva pestaña">
 <!ENTITY one_tab "1 pestaña">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d pestañas">
+<!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 
 <!ENTITY settings "Configuración">
@@ -92,7 +91,6 @@
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
-
 <!ENTITY pref_font_size_set "Juego">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -137,7 +135,16 @@ size. -->
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
+<!ENTITY new_tab "Nueva pestaña">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY synced_tabs "Pestañas sincronizadas">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY tabs_normal "Pestañas">
+<!ENTITY tabs_private "Privadas">
+<!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY wallpaper_success "Fondo de pantalla actualizado">
+<!ENTITY wallpaper_progress "Estableciendo fondo de pantalla">
+<!ENTITY wallpaper_fail "No se pudo cambiar el fondo de pantalla">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -147,6 +154,7 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
+<!ENTITY contextmenu_open_new_private_tab "Abrir en pestaña privada nueva">
 <!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
@@ -195,6 +203,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
 <!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Más visitados">
+<!ENTITY abouthome_topsites_edit "Editar">
+<!ENTITY abouthome_topsites_clear "Limpiar">
+<!ENTITY abouthome_topsites_clearall "Limpiar todo">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -241,10 +252,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          desde Android">
 <!ENTITY bookmarkhistory_import_wait "Esperá...">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "¿Querés habilitar las sugerencias de búsqueda de &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "¿Querés habilitar las sugerencias de búsqueda de &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicación">
 
