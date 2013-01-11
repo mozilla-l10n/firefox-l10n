@@ -651,7 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkStatusColumn.label "Spam-status">
 <!ENTITY unreadColumn.label "Ulæste i tråden">
 <!ENTITY totalColumn.label "I alt i tråden">
-<!ENTITY readColumn.label "Læste">
+<!ENTITY readColumn.label "Læst">
 <!ENTITY receivedColumn.label "Modtaget">
 <!ENTITY starredColumn.label "Stjernemarkeret">
 <!ENTITY locationColumn.label "Placering">
