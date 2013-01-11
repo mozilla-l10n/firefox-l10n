@@ -7,3 +7,5 @@
 <!ENTITY aboutApps.noApps.pre "Ни одного веб-приложения не установлено. Вы можете установить их из ">
 <!ENTITY aboutApps.noApps.middle3 "магазина Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Удалить">
+<!ENTITY aboutApps.addToHomescreen "Добавить на домашний экран">

@@ -5,3 +5,10 @@
 <!ENTITY aboutDownloads.title "Загрузки">
 <!ENTITY aboutDownloads.header "Ваши загрузки">
 <!ENTITY aboutDownloads.empty "Нет загрузок">
+<!ENTITY aboutDownloads.open "Открыть">
+<!ENTITY aboutDownloads.remove "Удалить">
+<!ENTITY aboutDownloads.removeAll "Удалить все">
+<!ENTITY aboutDownloads.pause "Приостановить">
+<!ENTITY aboutDownloads.resume "Возобновить">
+<!ENTITY aboutDownloads.cancel "Отменить">
+<!ENTITY aboutDownloads.retry "Повторить">
