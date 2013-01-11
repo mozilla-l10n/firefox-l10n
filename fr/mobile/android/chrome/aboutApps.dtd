@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Aucune application installée. En obtenir sur le ">
 <!ENTITY aboutApps.noApps.middle3 "Marketplace Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Désinstaller">
+<!ENTITY aboutApps.addToHomescreen "Ajouter à l'écran d'accueil">
