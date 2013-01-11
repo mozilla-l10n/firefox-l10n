@@ -731,6 +731,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Mensaxe nuevu">
 <!ENTITY appmenuNewContactCmd.label "Contautu de la llibreta de direiciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
-<!ENTITY appmenuButton.tooltip "Amuesa'l menú d'aplicaciones">
 <!ENTITY appmenuButton.label "AppMenu">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY appmenuButton1.tooltip "Amosar el menú &brandShortName;">
