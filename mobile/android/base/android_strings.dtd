@@ -53,11 +53,10 @@
 <!ENTITY site_security "Svetainės saugumas">
 
 <!ENTITY close_tab "Užverti kortelę">
-<!ENTITY new_tab "Nauja kortelė">
 <!ENTITY one_tab "1 kortelė">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d kortelės (-ių)">
+<!ENTITY num_tabs2 "&formatD; kortelės (-ių)">
 <!ENTITY new_tab_opened "Atverta nauja kortelė">
 
 <!ENTITY settings "Nuostatos">
@@ -135,7 +134,15 @@ size. -->
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
 <!ENTITY desktop_mode "Prašyti svetainės kompiuterio ekranui">
 <!ENTITY tools "Priemonės">
-<!ENTITY new_pb_tab "Nauja privačiojo naršymo kortelė">
+<!ENTITY new_tab "Nauja kortelė">
+<!ENTITY new_private_tab "Nauja privačioji kortelė">
+<!ENTITY close_all_tabs "Užverti visas korteles">
+<!ENTITY tabs_normal "Kortelės">
+<!ENTITY tabs_private "Privačiosios">
+<!ENTITY tabs_synced "Sinchronizuojamos">
+<!ENTITY wallpaper_success "Darbastalio fonas pakeistas">
+<!ENTITY wallpaper_progress "Keičiamas darbastalio fonas">
+<!ENTITY wallpaper_fail "Nepavyko pakeisti darbastalio fono">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -145,6 +152,7 @@ size. -->
 <!ENTITY find_close "Užverti">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
+<!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
 <!ENTITY contextmenu_open_in_reader "Atverti skaityklėje">
 <!ENTITY contextmenu_remove_history "Pašalinti">
 <!ENTITY contextmenu_remove_bookmark "Pašalinti">
@@ -193,6 +201,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Kortelės iš pastarojo seanso">
 <!ENTITY abouthome_last_tabs_open "Visos atvertos kortelės iš pastarojo seanso">
 <!ENTITY abouthome_top_sites_title "Dažniausiai lankomos">
+<!ENTITY abouthome_topsites_edit "Keisti">
+<!ENTITY abouthome_topsites_pin "Įsegti svetainę">
+<!ENTITY abouthome_topsites_unpin "Išsegti svetainę">
+<!ENTITY abouthome_topsites_unpinall "Išsegti visas">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps3): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -240,10 +252,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          iš „Android“">
 <!ENTITY bookmarkhistory_import_wait "Luktelėkite…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Ar norite įgalinti „&#037;s“ paieškos siūlymus?">
+<!-- Localization note (suggestions_prompt2): The placeholder (&formatS;) will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Ar norite įgalinti „&formatS;“ paieškos siūlymus?">
 
 <!ENTITY webapp_generic_name "Programa">
 
