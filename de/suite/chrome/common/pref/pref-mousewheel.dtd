@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Mausrad-Aktion">
+<!ENTITY mouseWheelGroup.label           "Vertikales Scrollen">
+<!ENTITY mouseWheelHorizGroup.label      "Horizontales Scrollen">
+<!ENTITY sameAsVertical.label            "Wie vertikales Scrollen">
+<!ENTITY sameAsVertical.accesskey        "e">
 <!ENTITY doNothing.label                 "Keine Aktion">
-<!ENTITY doNothing.accesskey             "k">
+<!ENTITY doNothing.accesskey             "K">
+<!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "Das Dokument scrollen">
 <!ENTITY scrollDocument.accesskey        "D">
+<!ENTITY scrollDocumentHoriz.accesskey   "a">
 <!ENTITY history.label                   "Vor und zurück in der Browser-Chronik bewegen">
 <!ENTITY history.accesskey               "V">
+<!ENTITY historyHoriz.accesskey          "z">
 <!ENTITY zoom.label                      "Die Seite vergrößern oder verkleinern">
 <!ENTITY zoom.accesskey                  "S">
-<!ENTITY mouseWheelSpeed.label           "Mausrad-Geschwindigkeit">
-<!ENTITY verticalSpeed.label             "Vertikal:">
-<!ENTITY verticalSpeed.accesskey         "e">
-<!ENTITY verticalReverse.label           "u">
-<!ENTITY verticalReverse.accesskey       "Richtung umkehren">
-<!ENTITY horizontalSpeed.label           "Horizontal:">
-<!ENTITY horizontalSpeed.accesskey       "H">
-<!ENTITY horizontalReverse.label         "R">
-<!ENTITY horizontalReverse.accesskey     "Richtung umkehren">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Mausrad-Geschwindigkeit:">
+<!ENTITY wheelSpeed.accesskey            "M">
+<!ENTITY wheelSpeedHoriz.accesskey       "G">
+<!ENTITY reverseDirection.label          "Richtung umkehren">
+<!ENTITY reverseDirection.accesskey      "R">
+<!ENTITY reverseDirectionHoriz.accesskey "u">
