@@ -49,7 +49,7 @@
 
 
 <!ENTITY debuggerUI.searchFile          "Filtrëjë skriptë">
-<!ENTITY debuggerUI.searchFile.key      "s"
+<!ENTITY debuggerUI.searchFile.key      "s">
 
 <!ENTITY debuggerUI.searchGlobal        "Przëszëkôj wszëtczé lopczi">
 <!ENTITY debuggerUI.searchGlobal.key    "r">
@@ -85,5 +85,6 @@
 <!ENTITY debuggerUI.seMenuAddWatch      "Dzél do pòdzéraniô">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "D">
 
-
+<!ENTITY debuggerUI.showPanesOnInit     "Wëskrzëni tôfle przë zrëszanim">
+<!ENTITY debuggerUI.showPanesOnInit.key "z">
 
