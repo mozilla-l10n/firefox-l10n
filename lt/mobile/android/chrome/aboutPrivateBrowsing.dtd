@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privatusis naršymas">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Atverta nauja privačiojo naršymo kortelė.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Šiuo metu Jūs esate ne privačiojo naršymo kortelėje.">
+
+<!ENTITY privatebrowsingpage.description            "Privačiojo naršymo kortelėse „&brandShortName;“ nepildo naršymo ir atsiuntimų žurnalų, neįsimena formų ir paieškos duomenų, slapukų ir kitų laikinųjų failų. Vis dėlto, visi parsiųsti failai ir sukurti adresyno įrašai išlieka.">
+
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Nors šiame įrenginyje ir neišliks duomenų apie Jūsų naršytus tinklalapius, Jūsų interneto paslaugų teikėjas vis tiek gali sekti, ką naršote.">

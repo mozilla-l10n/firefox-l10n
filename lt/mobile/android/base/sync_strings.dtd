@@ -84,6 +84,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Kompiuterio adresynas'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobilusis adresynas'>
 <!ENTITY bookmarks.folder.readinglist.label 'Skaitinių sąrašas'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Įsegtos svetainės'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Galima naudotis tik viena &syncBrand.fullName.label;“ paskyra.'>
