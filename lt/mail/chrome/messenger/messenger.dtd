@@ -550,7 +550,7 @@
 <!ENTITY chatButton.tooltip "Atverti pokalbių kortelę">
 <!ENTITY tagButton.tooltip "Priskirti gaires pažymėtiems laiškams">
 <!ENTITY compactButton.tooltip "Sunaikinti pašalintus laiškus iš pažymėto aplanko">
-<!ENTITY appmenuButton.tooltip "Atverti programos meniu">
+<!ENTITY appmenuButton1.tooltip "Atverti „&brandShortName;“ meniu">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Naujas laiškas">
