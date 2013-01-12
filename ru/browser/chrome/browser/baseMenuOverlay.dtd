@@ -18,6 +18,8 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Перезапустить с отключёнными дополнениями…">
 <!ENTITY helpSafeMode.accesskey "з">
+<!ENTITY healthReport.label "Отчёт о работоспособности &brandShortName;">
+<!ENTITY healthReport.accesskey "о">
 <!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY helpFeedbackPage.label "Отправить отзыв…">
