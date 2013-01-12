@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "B">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; ermöglichen, Nachrichten zu durchsuchen">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Jetzt prüfen">
-<!ENTITY checkNow.accesskey            "J">
+<!ENTITY checkDefaultsNow.label        "Jetzt prüfen…">
+<!ENTITY checkDefaultsNow.accesskey    "J">
 <!ENTITY configEditDesc.label          "Erweiterte Konfiguration">
 <!ENTITY configEdit.label              "Konfiguration bearbeiten…">
 <!ENTITY configEdit.accesskey          "K">

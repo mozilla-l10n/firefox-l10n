@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  splash_settingup "&brandShortName; wird eingerichtet\u2026">
 <!ENTITY  splash_bookmarks_history "Ihre Lesezeichen und Chronik werden aktualisiert, dies kann eine Minute in Anspruch nehmen.">
@@ -67,7 +71,12 @@
 <!ENTITY pref_do_not_track "Website bitten, mich nicht zu verfolgen">
 <!ENTITY pref_telemetry "Performanz-Daten senden">
 <!ENTITY pref_remember_signons "Passwörter speichern">
-<!ENTITY pref_cookies "Cookies akzeptieren">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Erlauben">
+<!ENTITY pref_cookies_not_accept_foreign "Erlauben, aber nicht Drittanbietern">
+<!ENTITY pref_cookies_disabled "Nicht erlauben">
+
 <!ENTITY pref_char_encoding "Zeichenkodierung">
 <!ENTITY pref_char_encoding_on "Im Menü anzeigen">
 <!ENTITY pref_char_encoding_off "Nicht im Menü anzeigen">
@@ -77,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
 <!ENTITY pref_plugins_disabled "Deaktiviert">
 <!ENTITY pref_text_size "Textgröße">
+<!ENTITY pref_reflow_on_zoom2 "Text nach Zoomen anpassen">
 <!ENTITY pref_font_size_tiny "Winzig">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Mittel">
@@ -107,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_siteSettings "Website-Einstellungen">
 <!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 
+<!ENTITY pref_update_autodownload "Automatische Updates">
+<!ENTITY pref_update_autodownload_wifi "Nur über WLAN">
+<!ENTITY pref_update_autodownload_disabled "Deaktiviert">
+<!ENTITY pref_update_autodownload_enabled "Aktiviert">
+
 <!ENTITY quit "Beenden">
 
 <!ENTITY addons "Add-ons">
@@ -121,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "In Seite suchen">
 <!ENTITY desktop_mode "Desktop-Seite">
 <!ENTITY tools "Extras">
+<!ENTITY new_pb_tab "Neuer privater Tab">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -178,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Ihre Tabs der letzten Sitzung">
 <!ENTITY abouthome_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
 <!ENTITY abouthome_top_sites_title "Meistbesuchte Seiten">
-<!ENTITY abouthome_top_sites_browse "Alle häufig besuchten Seiten durchsehen">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -213,14 +228,16 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Diese Seite wird betrieben von">
 
+<!ENTITY private_data_success "Private Daten gelöscht">
+<!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
+
 <!ENTITY bookmarkhistory_button_import "Importieren">
 <!ENTITY bookmarkhistory_import_both "Lesezeichen und Chronik von Android werden importiert">
 <!ENTITY bookmarkhistory_import_bookmarks "Lesezeichen von Android werden importiert">
 <!ENTITY bookmarkhistory_import_history "Chronik von Android wird importiert">
 <!ENTITY bookmarkhistory_import_wait "Bitte warten...">
 
-<!ENTITY private_data_success "Private Daten gelöscht">
-<!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
+
 
 <!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
      be kept in the string; this will be replaced with the name of the search
