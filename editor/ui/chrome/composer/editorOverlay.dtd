@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Schriftgröße wählen">
 <!ENTITY decreaseFontSize.label "Kleiner">
 <!ENTITY decreaseFontSize.accesskey "k">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Größer">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Schriftgrad">
 <!ENTITY fontSizeMenu.accesskey "r">
