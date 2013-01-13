@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Prevzaté súbory">
 <!ENTITY aboutDownloads.header                     "Vaše prevzaté súbory">
 <!ENTITY aboutDownloads.empty                      "Žiadne prevzaté súbory">
+
+<!ENTITY aboutDownloads.open                       "Otvoriť">
+<!ENTITY aboutDownloads.remove                     "Odstrániť">
+<!ENTITY aboutDownloads.removeAll                  "Odstrániť všetky">
+<!ENTITY aboutDownloads.pause                      "Pozastaviť">
+<!ENTITY aboutDownloads.resume                     "Pokračovať">
+<!ENTITY aboutDownloads.cancel                     "Zrušiť">
+<!ENTITY aboutDownloads.retry                      "Znova">

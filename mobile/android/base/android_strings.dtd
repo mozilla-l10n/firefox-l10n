@@ -137,14 +137,13 @@ size. -->
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_private_tab "Nová súkromná karta">
-<!ENTITY synced_tabs "Synchronizované karty">
 <!ENTITY close_all_tabs "Zavrieť všetky karty">
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Súkromné">
 <!ENTITY tabs_synced "Synchronizované">
 <!ENTITY wallpaper_success "Tapeta aktualizovaná">
 <!ENTITY wallpaper_progress "Nastavuje sa tapeta">
-<!ENTITY wallpaper_fail "Tapetu nebolo monžé nastaviť">
+<!ENTITY wallpaper_fail "Tapetu nebolo možné nastaviť">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -154,7 +153,7 @@ size. -->
 <!ENTITY find_close "Zavrieť">
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
-<!ENTITY contextmenu_open_new_private_tab "Otvoriť na novej súkromnej karte">
+<!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
 <!ENTITY contextmenu_remove_history "Odstrániť">
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
@@ -202,8 +201,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
 <!ENTITY abouthome_topsites_edit "Upraviť">
-<!ENTITY abouthome_topsites_clear "Odstrániť">
-<!ENTITY abouthome_topsites_clearall "Odstrániť všetky">
+<!ENTITY abouthome_topsites_pin "Pripnúť stránku">
+<!ENTITY abouthome_topsites_unpin "Zrušiť pripnutie">
+<!ENTITY abouthome_topsites_unpinall "Zrušiť pripnutie všetkých">
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
