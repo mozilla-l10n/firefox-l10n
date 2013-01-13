@@ -25,7 +25,7 @@
 <!ENTITY partnership.description "Nga partneriteti me disa mundësuesa, &brandShortName;-i mund t&apos;ju ofrojë në llogari të re email-i. Që t&apos;ia filloni, thjesht plotësoni emrin dhe mbiemrin tuaj, ose çfarëdo fjale tjetër që do të donit, në fushat e mësipërme.">
 <!ENTITY existing.header "Keni tashmë një adresë të cilën doni ta përdorni?">
 <!ENTITY tinyheader.title "Keni adresë?">
-<!ENTITY tinyheader.existing "Abashkaloje këtë dhe përdor email-in tim ekzistues">
+<!ENTITY tinyheader.existing "Anashkaloje këtë dhe përdor email-in tim ekzistues">
 <!ENTITY content.close "Mendoj ta formësoj llogarinë time më vonë.">
 <!ENTITY successful.title "Përgëzime!">
 <!ENTITY successful.successMessage "E rregulluat me sukses llogarinë tuaj.">
