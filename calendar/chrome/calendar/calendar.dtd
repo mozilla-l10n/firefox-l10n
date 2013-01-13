@@ -114,7 +114,7 @@
 <!ENTITY calendar.list.header.label                 "Kalendar">
 
 <!ENTITY calendar.task.filter.title.label           "Shfaq">
-<!ENTITY calendar.task.filter.all.label             "Tërë">
+<!ENTITY calendar.task.filter.all.label             "Krejt">
 <!ENTITY calendar.task.filter.all.accesskey         "T">
 <!ENTITY calendar.task.filter.today.label           "Sot">
 <!ENTITY calendar.task.filter.today.accesskey       "S">
