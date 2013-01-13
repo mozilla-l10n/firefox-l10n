@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Įdiegtų saityno programų nėra. Įsigykite jų iš ">
 <!ENTITY aboutApps.noApps.middle3 "„Firefox“ krautuvės">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Pašalinti">
+<!ENTITY aboutApps.addToHomescreen "Įtraukti į pradžios ekraną">

@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Atsiuntimai">
 <!ENTITY aboutDownloads.header                     "Jūsų atsiuntimai">
 <!ENTITY aboutDownloads.empty                      "Atsiuntimų nėra">
+
+<!ENTITY aboutDownloads.open                       "Atverti">
+<!ENTITY aboutDownloads.remove                     "Pašalinti">
+<!ENTITY aboutDownloads.removeAll                  "Pašalinti visus">
+<!ENTITY aboutDownloads.pause                      "Pristabdyti">
+<!ENTITY aboutDownloads.resume                     "Pratęsti">
+<!ENTITY aboutDownloads.cancel                     "Atsisakyti">
+<!ENTITY aboutDownloads.retry                      "Kartoti">
