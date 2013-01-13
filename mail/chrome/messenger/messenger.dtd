@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Zobraziť kartu Konverzácie">
 <!ENTITY tagButton.tooltip "Priradiť k správe popis">
 <!ENTITY compactButton.tooltip "Odstrániť vymazané správy z označeného priečinka">
-<!ENTITY appmenuButton.tooltip "Zobraziť hlavnú ponuku aplikácie">
+<!ENTITY appmenuButton1.tooltip "Zobraziť hlavnú ponuku aplikácie &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová správa">

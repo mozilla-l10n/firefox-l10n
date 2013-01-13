@@ -53,11 +53,10 @@
 <!ENTITY site_security "Zabezpečenie stránky">
 
 <!ENTITY close_tab "Zavrieť kartu">
-<!ENTITY new_tab "Nová karta">
 <!ENTITY one_tab "1 karta">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "Počet kariet: &#037;d">
+<!ENTITY num_tabs2 "Počet kariet: &formatD;">
 <!ENTITY new_tab_opened "Nová karta otvorená">
 
 <!ENTITY settings "Nastavenia">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Požiadať plnú verziu stránky">
 <!ENTITY tools "Nástroje">
-<!ENTITY new_pb_tab "Nová karta v režime Súkromné prehliadanie">
+<!ENTITY new_tab "Nová karta">
+<!ENTITY new_private_tab "Nová súkromná karta">
+<!ENTITY close_all_tabs "Zavrieť všetky karty">
+<!ENTITY tabs_normal "Karty">
+<!ENTITY tabs_private "Súkromné">
+<!ENTITY tabs_synced "Synchronizované">
+<!ENTITY wallpaper_success "Tapeta aktualizovaná">
+<!ENTITY wallpaper_progress "Nastavuje sa tapeta">
+<!ENTITY wallpaper_fail "Tapetu nebolo možné nastaviť">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Zavrieť">
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
+<!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_open_in_reader "Otvoriť v čítačke">
 <!ENTITY contextmenu_remove_history "Odstrániť">
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
@@ -156,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Kopírovať adresu">
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Stránka odstránená">
 
 <!ENTITY bookmark_edit_title "Úprava záložky">
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Vaše karty z poslednej relácie">
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
+<!ENTITY abouthome_topsites_edit "Upraviť">
+<!ENTITY abouthome_topsites_pin "Pripnúť stránku">
+<!ENTITY abouthome_topsites_unpin "Zrušiť pripnutie">
+<!ENTITY abouthome_topsites_unpinall "Zrušiť pripnutie všetkých">
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -237,10 +247,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importuje sa história z Androidu">
 <!ENTITY bookmarkhistory_import_wait "Čakajte, prosím…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Chcete zapnúť zobrazovanie návrhov vyhľadávania v module &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Chcete zapnúť zobrazovanie návrhov vyhľadávania v module &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplikácia">
 
