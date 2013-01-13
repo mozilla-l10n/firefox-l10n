@@ -32,10 +32,26 @@
 <!ENTITY setDefault.label                "Skirti „&brandShortName;“ numatytąja naršykle">
 <!ENTITY setDefault.accesskey            "š">
 <!ENTITY isDefault.label                 "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">
-<!ENTITY submitCrashes.label             "Siųsti strigčių pranešimus">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "Siųsti našumo ataskaitas">
-<!ENTITY submitTelemetry.accesskey       "m">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY FHRSection.label                "„&brandShortName;“ sveikatos būklės ataskaitos">
+<!ENTITY FHRDesc.label                   "Padeda Jums įvertinti naršyklės našymą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės sveikatos būklę">
+<!ENTITY enableFHR.label                 "Įgalinti „&brandShortName;“ sveikatos būklės ataskaitas">
+<!ENTITY enableFHR.accesskey             "F">
+<!ENTITY FHRLearnMore.label              "Išsamiau…">
+
+<!ENTITY telemetrySection.label          "Telemetrija">
+<!ENTITY telemetryDesc.label             "Naršyklės „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie naršyklės našumą, naudojamas funkcijas, tinkinimą ir kompiuterio aparatinę įrangą">
+<!ENTITY enableTelemetry.label           "Įgalinti telemetriją">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Išsamiau…">
+
+<!ENTITY crashReporterSection.label      "Strigčių pranešiklis">
+<!ENTITY crashReporterDesc.label         "„&brandShortName;“ juos siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
+<!ENTITY enableCrashReporter.label       "Įgalinti strigčių pranešiklį">
+<!ENTITY enableCrashReporter.accesskey   "S">
+<!ENTITY crashReporterLearnMore.label    "Išsamiau…">
 
 <!ENTITY networkTab.label                "Tinklas">
 
