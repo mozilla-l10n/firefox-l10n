@@ -35,9 +35,9 @@
 
 <!ENTITY dataChoicesTab.label            "Données">
 
-<!ENTITY FHRSection.label                "Rapport sur la santé de Firefox">
+<!ENTITY FHRSection.label                "Bilan de santé de Firefox">
 <!ENTITY FHRDesc.label                   "Vous aide à comprendre les performances de votre navigateur et envoie à &vendorShortName; des informations concernant la santé de votre navigateur">
-<!ENTITY enableFHR.label                 "Activer le rapport sur la santé de Firefox">
+<!ENTITY enableFHR.label                 "Activer le bilan de santé de Firefox">
 <!ENTITY enableFHR.accesskey             "s">
 <!ENTITY FHRLearnMore.label              "En savoir plus">
 
