@@ -234,10 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "V">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "Prepnúť Toolbox">
-<!ENTITY devToolbarOtherToolsButton.label  "Ďalšie nástroje">
+<!ENTITY devToolboxMenuItem.label          "Prepnúť vývojárske nástroje">
+<!ENTITY devToolboxMenuItem.accesskey      "P">
 
-<!ENTITY devToolbox.accesskey              "B">
+<!ENTITY devToolbarToolsButton.tooltip     "Prepnúť vývojárske nástroje">
+<!ENTITY devToolbarOtherToolsButton.label  "Ďalšie nástroje">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Získať ďalšie nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
@@ -627,3 +628,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Zdieľať mikrofón:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+
+<!ENTITY webrtcIndicatorButton.label "Prístup ku kamere a mikrofónu">
+<!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, s ktorými práve zdieľate svoju kameru a mikrofón">
