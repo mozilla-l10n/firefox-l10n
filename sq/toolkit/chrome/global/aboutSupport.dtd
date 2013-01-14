@@ -47,6 +47,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Emër">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vlerë">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Parapëlqime për user.js">
+<!ENTITY aboutSupport.userJSDescription "Dosja juaj e profilit përmban një <a id='prefs-user-js-link'>kartelë user.js</a>, e cila përfshin parapëlqime që nuk janë krijuar nga &brandShortName;-i.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafikë">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
