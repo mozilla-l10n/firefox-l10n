@@ -25,7 +25,7 @@
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Përdor një Fjalëkalim të Përgjithshëm për të koduar fjalëkalimet e depozituar">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Po qe caktuar, Fjalëkalimi i Përgjithshëm mbron tërë fjalëkalimet tuaj, por duhet ta jepni një herë për sesion.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ndërroni Fjalëkalimin e Përgjithshëm…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Ndryshoni Fjalëkalimin e Përgjithshëm…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "N">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Shihni Fjalëkalimet e Ruajtur…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "S">
