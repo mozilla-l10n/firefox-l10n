@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Shiheni Videon">
 <!ENTITY viewVideoCmd.accesskey       "S">
 
-<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së fundmi…">
+<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundmi…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 

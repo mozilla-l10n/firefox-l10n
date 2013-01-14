@@ -15,7 +15,7 @@
 <!ENTITY previewToolbarCmd.tooltip "Ngarkojeni këtë faqe në shfletues">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Eksportoje si Tekst…">
+<!ENTITY exportToTextCmd.label "Eksportojeni si Tekst…">
 <!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY previewCmd.label "Shiheni Faqen">
 <!ENTITY previewCmd.accesskey "S">

@@ -159,7 +159,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filtroji këto mesazhe... #1">
+         "Filtrojini këto mesazhe... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
