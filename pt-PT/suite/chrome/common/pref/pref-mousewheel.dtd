@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Mouse Wheel">
@@ -14,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Ação da roda do rato">
+<!ENTITY mouseWheelGroup.label           "Deslocamento vertical">
+<!ENTITY mouseWheelHorizGroup.label      "Deslocamento horizontal">
+<!ENTITY sameAsVertical.label            "O mesmo que o deslocamento vertical">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Não fazer nada">
 <!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothingHoriz.accesskey        "z">
 <!ENTITY scrollDocument.label            "Deslocar documento">
 <!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Mover para trás e para a frente o histórico de navegação">
 <!ENTITY history.accesskey               "M">
+<!ENTITY historyHoriz.accesskey          "ç">
 <!ENTITY zoom.label                      "Aumentar ou diminuir a página">
 <!ENTITY zoom.accesskey                  "u">
-<!ENTITY mouseWheelSpeed.label           "Velocidade da roda do rato">
-<!ENTITY verticalSpeed.label             "Vertical:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Direção inversa">
-<!ENTITY verticalReverse.accesskey       "r">
-<!ENTITY horizontalSpeed.label           "Horizontal:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Direção inversa">
-<!ENTITY horizontalReverse.accesskey     "e">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Velocidade da roda do rato:">
+<!ENTITY wheelSpeed.accesskey            "r">
+<!ENTITY wheelSpeedHoriz.accesskey       "t">
+<!ENTITY reverseDirection.label          "Direção inversa">
+<!ENTITY reverseDirection.accesskey      "r">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
