@@ -79,7 +79,8 @@
 <!ENTITY clearDownloadsButton.tooltip     "清除失敗、已取消、已完成的下載項目">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
-     This string is shown when there are no items in the Downloads view.
+     This string is shown when there are no items in the Downloads view, when it
+     is displayed inside a browser tab.
      -->
 <!ENTITY downloadsListEmpty.label         "目前沒有已下載的檔案。">
 
