@@ -79,7 +79,8 @@
 <!ENTITY clearDownloadsButton.tooltip     "Rensar bort slutförda, avbrutna och misslyckade hämtningar">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
-     This string is shown when there are no items in the Downloads view.
+     This string is shown when there are no items in the Downloads view, when it
+     is displayed inside a browser tab.
      -->
 <!ENTITY downloadsListEmpty.label         "Det finns inga hämtningar.">
 
