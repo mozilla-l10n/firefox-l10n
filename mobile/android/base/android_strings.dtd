@@ -137,7 +137,6 @@ size. -->
 <!ENTITY tools "Herramientas">
 <!ENTITY new_tab "Nueva pestaña">
 <!ENTITY new_private_tab "Nueva pestaña privada">
-<!ENTITY synced_tabs "Pestañas sincronizadas">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
@@ -154,7 +153,7 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
-<!ENTITY contextmenu_open_new_private_tab "Abrir en pestaña privada nueva">
+ <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
@@ -165,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copiar dirección">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Página eliminada">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
@@ -204,8 +201,9 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Más visitados">
 <!ENTITY abouthome_topsites_edit "Editar">
-<!ENTITY abouthome_topsites_clear "Limpiar">
-<!ENTITY abouthome_topsites_clearall "Limpiar todo">
+<!ENTITY abouthome_topsites_pin "Pegar sitio">
+<!ENTITY abouthome_topsites_unpin "Despegar sitio">
+<!ENTITY abouthome_topsites_unpinall "Despegar todo">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
