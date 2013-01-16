@@ -4,7 +4,7 @@
 
 <!ENTITY abouthealth.locale-direction "ltr">
 <!ENTITY abouthealth.pagetitle "Valutazione integrità di &brandShortName;">
-<!ENTITY abouthealth.header "Valutazione integrità di &brandShortName;">
+<!ENTITY abouthealth.header "Valutazione integrità di &brandFullName;">
 <!ENTITY abouthealth.intro.title "Che cos'è la valutazione integrità di &brandShortName;">
 <!ENTITY abouthealth.intro-enabled "Alcune informazioni relative al computer e all'utilizzo del browser vengono raccolte da &brandFullName; per migliorarne l'utilizzo.">
 <!ENTITY abouthealth.intro-disabled "Attualmente non viene inviato alcun dato a &vendorShortName;. Per contribuire al miglioramento di &brandShortName; è sufficiente fare clic sul pulsante &quot;&abouthealth.optin;&quot;.">
