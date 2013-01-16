@@ -35,11 +35,11 @@
 
 <!ENTITY dataChoicesTab.label            "資料選擇">
 
-<!ENTITY FHRSection.label                "Firefox 健康檢查報告">
-<!ENTITY FHRDesc.label                   "幫助您瞭解您瀏覽器的效能，並將瀏覽器的健康資料分享給 &vendorShortName;">
-<!ENTITY enableFHR.label                 "啟用 Firefox 健康檢查報告">
-<!ENTITY enableFHR.accesskey             "F">
-<!ENTITY FHRLearnMore.label              "更多資訊">
+<!ENTITY healthReportSection.label       "&brandShortName; 健康檢查報告">
+<!ENTITY healthReportDesc.label          "幫助您瞭解您瀏覽器的效能，並將瀏覽器的健康資料分享給 &vendorShortName;">
+<!ENTITY enableHealthReport.label        "啟用 &brandShortName; 健康檢查報告">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "更多資訊">
 
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
