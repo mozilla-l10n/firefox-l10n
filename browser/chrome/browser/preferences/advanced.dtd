@@ -27,7 +27,7 @@
 <!ENTITY isDefault.label "В настоящий момент браузером по умолчанию является &brandShortName;">
 <!ENTITY dataChoicesTab.label "Выбор данных">
 <!ENTITY healthReportSection.label "Отчёт о работоспособности &brandShortName;">
-<!ENTITY healthReportDesc.label "Помогает вам понять скорость работы вашего браузера и делится данными о работоспособности вашего браузера с &vendorShortName;">
+<!ENTITY healthReportDesc.label "Помогает вам получить больше информации о скорости работы вашего браузера и поделится данными о его работоспособности с &vendorShortName;">
 <!ENTITY enableHealthReport.label "Включить отправку Отчёта о работоспособности &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "ю">
 <!ENTITY healthReportLearnMore.label "Подробнее">
