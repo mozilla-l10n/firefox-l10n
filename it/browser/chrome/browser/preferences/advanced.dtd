@@ -26,11 +26,11 @@
 <!ENTITY setDefault.accesskey "o">
 <!ENTITY isDefault.label "&brandShortName; è attualmente il browser predefinito">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
-<!ENTITY FHRSection.label "Valutazione integrità di Firefox">
-<!ENTITY FHRDesc.label "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
-<!ENTITY enableFHR.label "Attiva valutazione integrità di Firefox">
-<!ENTITY enableFHR.accesskey "v">
-<!ENTITY FHRLearnMore.label "Ulteriori informazioni">
+<!ENTITY healthReportSection.label "Valutazione integrità di &brandShortName;">
+<!ENTITY healthReportDesc.label "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
+<!ENTITY enableHealthReport.label "Attiva valutazione integrità di &brandShortName;">
+<!ENTITY enableHealthReport.accesskey "v">
+<!ENTITY healthReportLearnMore.label "Ulteriori informazioni">
 <!ENTITY telemetrySection.label "Telemetria">
 <!ENTITY telemetryDesc.label "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY enableTelemetry.label "Attiva telemetria">
