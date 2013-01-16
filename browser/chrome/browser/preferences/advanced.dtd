@@ -35,11 +35,11 @@
 
 <!ENTITY dataChoicesTab.label            "Dataval">
 
-<!ENTITY FHRSection.label                "Firefox hälsorapport">
-<!ENTITY FHRDesc.label                   "Hjälper dig att förstå webbläsarprestandan samt delar data med &vendorShortName; om webbläsarens status">
-<!ENTITY enableFHR.label                 "Aktivera Firefox hälsorapport">
-<!ENTITY enableFHR.accesskey             "F">
-<!ENTITY FHRLearnMore.label              "Läs mer">
+<!ENTITY healthReportSection.label       "&brandShortName; hälsorapport">
+<!ENTITY healthReportDesc.label          "Hjälper dig att förstå webbläsarprestandan samt delar data med &vendorShortName; om webbläsarens status">
+<!ENTITY enableHealthReport.label        "Aktivera &brandShortName; hälsorapport">
+<!ENTITY enableHealthReport.accesskey    "F">
+<!ENTITY healthReportLearnMore.label     "Läs mer">
 
 <!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY telemetryDesc.label             "Delar webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
