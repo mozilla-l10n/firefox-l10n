@@ -15,7 +15,7 @@
 <!ENTITY abouthealth.show-raw-data "Mostra dettagli">
 <!ENTITY abouthealth.hide-raw-data "Nascondi dettagli">
 <!ENTITY abouthealth.show-report "Visualizza valutazione &brandShortName;">
-<!ENTITY abouthealth.details.description-start "Questi sono i dati inviati da data &brandFullName; e necessari per il corretto funzionamento della valutazione integrità di &brandShortName;. Scopri ">
+<!ENTITY abouthealth.details.description-start "Questi sono i dati inviati da &brandFullName; e necessari per il corretto funzionamento della valutazione integrità di &brandShortName;. Scopri ">
 <!ENTITY abouthealth.details-link "ulteriori informazioni">
-<!ENTITY abouthealth.details.description-end " sui dati raccolti e inviati.">
+<!ENTITY abouthealth.details.description-end " sulle informazioni raccolte e inviate.">
 <!ENTITY abouthealth.no-data-available "Non risulta alcun dato precedentemente inviato. Ricontrollare in seguito.">
