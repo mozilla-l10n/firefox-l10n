@@ -42,9 +42,8 @@
 <!ENTITY stop "Parar">
 <!ENTITY site_security "Seguridad del sitio">
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY new_tab "Pestaña nueva">
 <!ENTITY one_tab "1 pestaña">
-<!ENTITY num_tabs "&#037;d pestañas">
+<!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
@@ -106,12 +105,21 @@
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
+<!ENTITY new_tab "Pestaña nueva">
+<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY close_all_tabs "Cerrar todas las pestañas">
+<!ENTITY tabs_normal "Pestañas">
+<!ENTITY tabs_private "Privadas">
+<!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY wallpaper_success "Fondo de pantalla actualizado">
+<!ENTITY wallpaper_progress "Configurando fondo de pantalla">
+<!ENTITY wallpaper_fail "Imposible configurar el fondo de pantalla">
 <!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en Lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
@@ -151,6 +159,10 @@
 <!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
 <!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Frecuentes">
+<!ENTITY abouthome_topsites_edit "Editar">
+<!ENTITY abouthome_topsites_pin "Fijar sitio">
+<!ENTITY abouthome_topsites_unpin "Eliminar sitio">
+<!ENTITY abouthome_topsites_unpinall "Eliminar todos">
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder a los marcadores, historial y pestañas de sus otros dispositivos »">
 <!ENTITY abouthome_about_apps3 "Consiga aplicaciones desde Firefox Marketplace y descubra lo mejor que la web puede ofrecerle »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
@@ -171,7 +183,7 @@
 <!ENTITY bookmarkhistory_import_history "Importar historial
                                       desde Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
-<!ENTITY suggestions_prompt "¿Le gustaría activar las sugerencias de búsqueda en &#037;s?">
+<!ENTITY suggestions_prompt2 "¿Le gustaría activar las sugerencias de búsqueda de &formatS;?">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">
 <!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
