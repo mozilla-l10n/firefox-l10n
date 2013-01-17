@@ -57,6 +57,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
+<!ENTITY bookmarks.folder.pinned.label "Fijada">
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Sus selecciones han sido guardadas.">
 <!ENTITY sync.invalidcreds.label "Nombre de cuenta o contraseña incorrectos.">
