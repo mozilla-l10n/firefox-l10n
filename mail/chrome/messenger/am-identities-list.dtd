@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "Støtte for fleire identitetar">
+<!ENTITY identitiesListManageDesc.label "Behandle identitetane for denne kontoen. Den fyrste identiteten er standard.">
 <!ENTITY identitiesListAdd.label  "Legg til …">
 <!ENTITY identitiesListAdd.accesskey  "L">
 <!ENTITY identitiesListEdit.label "Rediger …">
 <!ENTITY identitiesListEdit.accesskey "R">
+<!ENTITY identitiesListDefault.label "Sett som standard">
+<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">
 <!ENTITY identitiesListClose.label "Lat att">
