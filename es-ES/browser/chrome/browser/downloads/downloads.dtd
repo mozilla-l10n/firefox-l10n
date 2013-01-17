@@ -30,3 +30,5 @@
 <!ENTITY downloadsHistory.accesskey "S">
 <!ENTITY clearDownloadsButton.label "Limpiar descargas">
 <!ENTITY clearDownloadsButton.tooltip "Limpia las descargas completas, canceladas y fallidas">
+<!ENTITY downloadsListEmpty.label "No hay descargas.">
+<!ENTITY downloadsListNoMatch.label "No se encuentra ninguna descarga que concuerde.">
