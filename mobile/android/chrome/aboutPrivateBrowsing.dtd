@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegación privada">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Abriste una nueva pestaña privada.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "No estás en una pestaña privada.">
+
+<!ENTITY privatebrowsingpage.description            "En pestañas privadas, &brandShortName; no guardará el historial de navegación, búsqueda, historial de descargas, formularios, cookies o archivos temporales de internet.  Sin embargo, los archivos descargados o los marcadores creados serán preservados.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Aunque este dispositivo no lleve un registro del historial de navegación, tu proveedor de internet aún puede rastrear las páginas visitadas.">

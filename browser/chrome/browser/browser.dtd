@@ -234,10 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolbarToolsButton.label       "Intercambiar herramientas">
-<!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
+<!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
+<!ENTITY devToolboxMenuItem.accesskey      "t">
 
-<!ENTITY devToolbox.accesskey              "B">
+<!ENTITY devToolbarToolsButton.tooltip     "Intercambiar herramientas de desarrollador">
+<!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -404,6 +405,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcar este marco…">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+<!ENTITY emailPageCmd.label           "Enlace por correo…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "a">
 <!-- alternate for content area context menu -->
@@ -627,3 +630,5 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
+<!ENTITY webrtcIndicatorButton.label "Acceso a cámara / micrófono">
+<!ENTITY webrtcIndicatorButton.tooltip "Mostrar sitios con los cuales esté compartiendo cámara o micrófono">
