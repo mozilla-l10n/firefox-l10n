@@ -536,7 +536,7 @@
 <!ENTITY chatButton.tooltip "Sýna spjallflipann">
 <!ENTITY tagButton.tooltip "Flokka póst">
 <!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
-<!ENTITY appmenuButton.tooltip "Birta forritavalmynd">
+<!ENTITY appmenuButton1.tooltip "Birta &brandShortName; valmynd">
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
