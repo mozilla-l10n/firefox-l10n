@@ -651,3 +651,5 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "C">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Przenieś zaznaczenie do czatów">
+<!ENTITY social.chatBar.accesskey "c">
