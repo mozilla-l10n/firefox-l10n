@@ -618,3 +618,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon do udostępnienia:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Dostęp do kamery i mikrofonu">
+<!ENTITY webrtcIndicatorButton.tooltip "Wyświetli listę stron, którym udostępniane są kamera lub mikrofon.">
