@@ -366,6 +366,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey "j" >
 <!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie" >
 <!ENTITY openLinkCmd.accesskey "n" >
+<!ENTITY openLinkInPrivateWindowCmd.label "Otwórz odnośnik w nowym oknie w trybie prywatnym">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "w">
 <!ENTITY openLinkCmdInCurrent.label     "Otwórz odnośnik">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Otwórz ramkę w nowej karcie" >
