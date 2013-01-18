@@ -570,8 +570,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Więcej informacji…">
 
-<!ENTITY downloadMonitor2.tooltip "Kliknij, aby otworzyć okno pobierania plików">
-
 <!ENTITY allTabs.filter.emptyText "Szukaj kart">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
