@@ -74,3 +74,6 @@
      -->
 <!ENTITY downloadsHistory.label           "Wyświetl wszystkie pobrania">
 <!ENTITY downloadsHistory.accesskey       "W">
+
+<!ENTITY clearDownloadsButton.label       "Wyczyść pobierania">
+<!ENTITY clearDownloadsButton.tooltip     "Usuwa zakończone, anulowane i nieudane pobierania">
