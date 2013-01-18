@@ -13,10 +13,10 @@
 <!ENTITY port "Port:">
 <!ENTITY connect "Połącz">
 <!ENTITY connecting "Łączenie…">
-<!ENTITY availability "Dostępne zdalne obiekty:">
-<!ENTITY remoteProcess "zdalny proces">
+<!ENTITY availableTabs "Dostępne zdalne karty:">
+<!ENTITY availableProcesses "Dostępne zdalne procesy:">
 <!ENTITY connectionError "Błąd:">
 <!ENTITY errorTimeout "Błąd: przekroczono limit czasu połączenia.">
 <!ENTITY errorRefused "Błąd: połączenie odrzucone.">
 <!ENTITY errorUnexpected "Niespodziewany błąd.">
-<!ENTITY help "Narzędzia dla programistów wbudowane w Firefoksa są w stanie debugować zdalne urządzenia (przykładowo Firefoksa dla Androida lub Firefox OS). Upewnij się, że opcja „Serwer debugowania” jest zaznaczona na zdalnym urządzeniu. Więcej szczegółów można znaleźć w <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>dokumentacji</a>.">
+<!ENTITY help "Narzędzia dla programistów wbudowane w Firefoksa są w stanie debugować zdalne urządzenia (przykładowo Firefoksa dla Androida lub Firefox OS). Upewnij się, że opcja „Zdalne debugowanie” jest zaznaczona na zdalnym urządzeniu. Więcej szczegółów można znaleźć w <a target='_' href='https://developer.mozilla.org/en-US/docs/Tools/Debugger#Remote_Debugging'>dokumentacji</a>.">
