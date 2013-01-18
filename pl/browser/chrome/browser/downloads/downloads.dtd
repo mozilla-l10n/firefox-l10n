@@ -77,3 +77,8 @@
 
 <!ENTITY clearDownloadsButton.label       "Wyczyść pobierania">
 <!ENTITY clearDownloadsButton.tooltip     "Usuwa zakończone, anulowane i nieudane pobierania">
+
+<!-- LOCALIZATION NOTE (downloadsListEmpty.label):
+     This string is shown when there are no items in the Downloads view.
+     -->
+<!ENTITY downloadsListEmpty.label         "Brak pobieranych.">
