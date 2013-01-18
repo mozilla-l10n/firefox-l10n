@@ -5,3 +5,5 @@
 <!ENTITY window.title "Narzędzia dla programistów">
 
 <!ENTITY closeCmd.key "W">
+
+<!ENTITY toolboxCloseButton.tooltip "Zamknij narzędzia dla programistów">
