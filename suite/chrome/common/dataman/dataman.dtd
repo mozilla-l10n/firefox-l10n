@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dataman.windowTitle "Кіраўнік здаткаў">
-<!ENTITY selectAll.key "a">
+<!ENTITY selectAll.key "">
 <!ENTITY select.all.label "Усе тыпы здаткаў">
 <!ENTITY select.cookies.label "Толькі біркі">
 <!ENTITY select.permissions.label "Толькі дазволы">
 <!ENTITY select.preferences.label "Толькі перавагі">
 <!ENTITY select.passwords.label "Толькі паролі">
 <!ENTITY domain.search.placeholder "Пошук даменаў">
-<!ENTITY domain.search.key "f">
+<!ENTITY domain.search.key "">
 <!ENTITY domain.tree.domain.label "Дамен">
 <!ENTITY domain.ctx.forgetdomain.label "Забыць пра гэты дамен">
 <!ENTITY domain.ctx.forgetdomain.accesskey "З">

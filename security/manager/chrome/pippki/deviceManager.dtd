@@ -21,7 +21,7 @@
 <!ENTITY devmgr.button.load.accesskey "г">
 <!ENTITY devmgr.button.unload.label "Выгрузіць">
 <!ENTITY devmgr.button.unload.accesskey "ы">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.fips.accesskey "">
 <!ENTITY loaddevice.info "Увядзіце звесткі пра модуль, які вы хочаце дадаць.">
 <!ENTITY loaddevice.modname "Назва модуля:">
 <!ENTITY loaddevice.modname.accesskey "м">

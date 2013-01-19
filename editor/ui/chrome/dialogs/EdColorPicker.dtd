@@ -7,7 +7,7 @@
 <!ENTITY lastPickedColor.accessKey "А">
 <!ENTITY setColor1.label "Пстрыкніце па колеру ці">
 <!ENTITY setColor2.label "увядзіце радок колеру HTML">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColor2.accessKey "">
 <!ENTITY setColorExample.label "(напрыклад: &quot;#0000ff&quot; або &quot;blue&quot;):">
 <!ENTITY default.label "Змоўчны">
 <!ENTITY default.accessKey "З">

@@ -127,7 +127,7 @@
 <!ENTITY feedButton.tooltip "Падпісацца на гэтую старонку…">
 <!ENTITY bookmarksButton.label "Закладкі">
 <!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
-<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksCmd.commandkey "">
 <!ENTITY bookmarksMenuButton.label "Закладкі">
 <!ENTITY bookmarksMenuButton.tooltip "Паказаць вашы закладкі">
 <!ENTITY bookmarksMenuButton.unsorted.label "Неразмеркаваныя закладкі">
@@ -270,7 +270,7 @@
 <!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Перайсці на пляцоўку Сеціва">
-<!ENTITY urlbar.accesskey "d">
+<!ENTITY urlbar.accesskey "">
 <!ENTITY urlbar.switchToTab.label "Пераключыцца ў устаўку:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
@@ -385,7 +385,7 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.label "Паменшыць">
 <!ENTITY fullZoomReduceCmd.accesskey "м">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey "">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.label "Узнавіць">
 <!ENTITY fullZoomResetCmd.accesskey "У">
