@@ -329,6 +329,10 @@
 <!ENTITY emailVideoCmd.accesskey "а">
 <!ENTITY emailAudioCmd.label "Отправить аудио по почте…">
 <!ENTITY emailAudioCmd.accesskey "а">
+<!ENTITY playPluginCmd.label "Включить этот плагин">
+<!ENTITY playPluginCmd.accesskey "ю">
+<!ENTITY hidePluginCmd.label "Скрыть этот плагин">
+<!ENTITY hidePluginCmd.accesskey "к">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">
