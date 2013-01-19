@@ -8,16 +8,16 @@
 <!ENTITY chromeDebuggerMenu.label "Наладчык азіральніка">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыць">
-<!ENTITY debuggerUI.optsButton.tooltip "Debugger Options">
+<!ENTITY debuggerUI.optsButton.tooltip "Наладжванні наладчыка">
 <!ENTITY debuggerUI.pauseExceptions "Прыпыняць падчас выключэнняў">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
-<!ENTITY debuggerUI.showPanesOnInit "Show panes on startup">
+<!ENTITY debuggerUI.showPanesOnInit "Паказ шыбаў падчас запуску">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
-<!ENTITY debuggerUI.showVarsSearch "Show variables searchbox">
+<!ENTITY debuggerUI.showVarsSearch "Пазаз скрынкі пошуку зменных">
 <!ENTITY debuggerUI.showVarsSearch.key "V">
-<!ENTITY debuggerUI.showNonEnums "Show hidden properties">
+<!ENTITY debuggerUI.showNonEnums "Паказ схаваных уласцівасцяў">
 <!ENTITY debuggerUI.showNonEnums.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Чыннікі">
-<!ENTITY debuggerUI.condBreakPanelTitle "This breakpoint will stop execution only if the following expression is true">
-<!ENTITY debuggerUI.seMenuBreak "Add breakpoint">
-<!ENTITY debuggerUI.seMenuCondBreak "Add conditional breakpoint">
+<!ENTITY debuggerUI.condBreakPanelTitle "Гэты перапыняльнік спыніць выкананне толькі тады, калі наступны выраз праўдзівы">
+<!ENTITY debuggerUI.seMenuBreak "Дадаць перапыняльнік">
+<!ENTITY debuggerUI.seMenuCondBreak "Дадаць умоўны перапыняльнік">

@@ -236,8 +236,8 @@
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "Y">
+<!ENTITY getNewMessagesCmd.key "">
+<!ENTITY getAllNewMessagesCmd.key "">
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">

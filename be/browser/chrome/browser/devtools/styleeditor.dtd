@@ -12,7 +12,7 @@
 <!ENTITY importButton.accesskey "І">
 <!ENTITY importButton.commandkey "i">
 <!ENTITY visibilityToggle.tooltip "Пераключыць бачнасць табліцы стыляў">
-<!ENTITY visibilityToggle.accesskey "V">
+<!ENTITY visibilityToggle.accesskey "">
 <!ENTITY saveButton.label "Захаваць">
 <!ENTITY saveButton.tooltip "Захаваць гэтую табліцу стыляў у файле">
 <!ENTITY saveButton.accesskey "З">

@@ -47,7 +47,7 @@
 <!ENTITY siteUrl.accesskey "А">
 <!ENTITY siteUrl.tooltip "Адрас FTP:// або HTTP:// дадзены вашым ISP ці службай сеціва-утрымання">
 <!ENTITY browseUrl.label "HTTP адрас вашай хатняй старонкі (напрыклад: 'http://www.myisp.com/myusername'):">
-<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.accesskey "">
 <!ENTITY browseUrl.tooltip "Адрас HTTP:// вашай дамашняй дырэкторыі (без назвы файла)">
 <!ENTITY username.label "Імя карыстальніка:">
 <!ENTITY username.accesskey "к">
