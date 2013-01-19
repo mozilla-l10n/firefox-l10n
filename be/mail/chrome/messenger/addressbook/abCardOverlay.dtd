@@ -106,7 +106,7 @@
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
 <!ENTITY Chat.tab "Гутарка">
-<!ENTITY Chat.accesskey "">
+<!ENTITY Chat.accesskey "a">
 <!ENTITY Gtalk.label "Google Talk:">
 <!ENTITY Gtalk.accesskey "G">
 <!ENTITY AIM.label "AIM:">

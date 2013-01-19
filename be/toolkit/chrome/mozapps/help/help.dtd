@@ -5,7 +5,7 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY backButton.label "Назад">
 <!ENTITY backButton.accesskey "д">
 <!ENTITY backButton.tooltip "Вярнуцца на папярэднюю старонку">

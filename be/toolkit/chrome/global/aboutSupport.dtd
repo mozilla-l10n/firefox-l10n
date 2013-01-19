@@ -33,7 +33,7 @@
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 <!ENTITY aboutSupport.a11yTitle "Даступнасць">
 <!ENTITY aboutSupport.a11yActivated "Задзейнічаны">
 <!ENTITY aboutSupport.a11yForceDisabled "Прадухіліць даступнасць">
