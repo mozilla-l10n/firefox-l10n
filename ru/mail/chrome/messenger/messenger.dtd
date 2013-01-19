@@ -490,7 +490,7 @@
 <!ENTITY folderLocationToolbarItem.title "Выбор папки">
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Сжать">
-<!ENTITY appmenuButton.label "Меню">
+<!ENTITY appmenuButton.label "Меню приложения">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска">
 <!ENTITY getMsgButton.tooltip "Получить новые сообщения">
 <!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
