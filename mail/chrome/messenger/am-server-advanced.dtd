@@ -10,7 +10,7 @@
 <!ENTITY dualUseFolders.label "Паслугач падтрымлівае папкі, якія змяшчаюць падпапкі і лісты">
 <!ENTITY dualUseFolders.accesskey "п">
 <!ENTITY useIdle.label "Ужываць загад IDLE (бяздзейнасць), калі паслугач падтрымлівае яго">
-<!ENTITY useIdle.accesskey "">
+<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Найбольшы лік злучэнняў паслугача з запаснікам">
 <!ENTITY maximumConnectionsNumber.accesskey "а">
 <!ENTITY namespaceDesc.label "Гэтыя перавагі вызначаюць назвапрасторы на вашым паслугачы IMAP">
