@@ -490,7 +490,7 @@
 <!ENTITY folderLocationToolbarItem.title "Выбор папки">
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Сжать">
-<!ENTITY appmenuButton.label "Меню приложения">
+<!ENTITY appmenuButton.label "Меню">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска">
 <!ENTITY getMsgButton.tooltip "Получить новые сообщения">
 <!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Показать вкладку чата">
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
-<!ENTITY appmenuButton1.tooltip "Отображать меню &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Открыть меню &brandShortName;">
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
