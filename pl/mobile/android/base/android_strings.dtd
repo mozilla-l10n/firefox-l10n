@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Informuj witryny, że nie chcę być śledzony">
 <!ENTITY pref_telemetry "Przesyłaj informacje o wydajności">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
-<!ENTITY pref_cookies "Akceptuj ciasteczka">
+
+<!ENTITY pref_cookies_menu "Ciasteczka">
+<!ENTITY pref_cookies_accept_all "Akceptuj wszystkie">
+<!ENTITY pref_cookies_not_accept_foreign "Akceptuj, z wyjątkiem ciasteczek zewnętrznych dostawców">
+<!ENTITY pref_cookies_disabled "Nie akceptuj">
+
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
 <!ENTITY pref_char_encoding_off "Nie pokazuj">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
+<!ENTITY pref_reflow_on_zoom2 "Zsuń palce, by zmienić układ tekstu">
 <!ENTITY pref_font_size_tiny "Bardzo mały">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
@@ -94,6 +100,8 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
+<!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie dla ciebie i lepszą przyszłość dla Sieci.">
+
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_show_product_announcements "Pokaż informacje o produktach">
 <!ENTITY pref_sync "Sync">
@@ -106,6 +114,11 @@ size. -->
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings "Ustawienia witryny">
+
+<!ENTITY pref_update_autodownload "Automatyczne aktualizacje">
+<!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Wyłączone">
+<!ENTITY pref_update_autodownload_enabled "Włączone">
 
 <!ENTITY quit "Zakończ">
 
@@ -121,6 +134,7 @@ size. -->
 <!ENTITY desktop_mode "Tryb stacjonarny">
 <!ENTITY find_in_page "Znajdź na stronie">
 <!ENTITY tools "Narzędzia">
+<!ENTITY new_pb_tab "Nowa karta w trybie prywatnym">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -176,7 +190,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Karty z ostatniej sesji">
 <!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
 <!ENTITY abouthome_top_sites_title "Najczęstsze">
-<!ENTITY abouthome_top_sites_browse "Zobacz wszystkie">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

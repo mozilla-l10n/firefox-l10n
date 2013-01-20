@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Ustawienia'>
 <!ENTITY sync.summary.pair.label 'Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Co synchronizować'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizuj…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Zakładki'>
+<!ENTITY sync.configure.engines.title.passwords 'Hasła'>
+<!ENTITY sync.configure.engines.title.history 'Historia przeglądania'>
+<!ENTITY sync.configure.engines.title.tabs 'Karty'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Anuluj'>
 <!ENTITY sync.button.connect.label 'Połącz'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
+<!ENTITY sync.notification.configure.saved 'Ustawienia zapisano.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.new.recoverykey.status.incorrect 'Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.'>
