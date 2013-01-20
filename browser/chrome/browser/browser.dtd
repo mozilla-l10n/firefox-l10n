@@ -234,13 +234,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey "v">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
-<!ENTITY devToolbarToolsButton.label "Nástroje vývoje">
+<!ENTITY devToolboxMenuItem.label "Nástroje vývojáře">
+<!ENTITY devToolboxMenuItem.accesskey "N">
+
+<!ENTITY devToolbarToolsButton.tooltip "Přepne nástroje vývojáře">
 <!ENTITY devToolbarOtherToolsButton.label "Další nástroje">
 
-<!ENTITY devToolbox.accesskey "N">
-
 <!ENTITY getMoreDevtoolsCmd.label "Získat další nástroje">
-<!ENTITY getMoreDevtoolsCmd.accesskey "n">
+<!ENTITY getMoreDevtoolsCmd.accesskey "d">
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
