@@ -154,7 +154,7 @@ size. -->
 <!ENTITY find_close "Zavřít">
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
-<!ENTITY contextmenu_open_new_private_tab "Otevřít v anonymním panelu">
+<!ENTITY contextmenu_open_private_tab "Otevřít v anonymním panelu">
 <!ENTITY contextmenu_open_in_reader "Otevřít ve čtečce">
 <!ENTITY contextmenu_remove_history "Odebrat">
 <!ENTITY contextmenu_remove_bookmark "Odebrat">
