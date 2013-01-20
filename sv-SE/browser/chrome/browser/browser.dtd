@@ -428,6 +428,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "E">
 <!ENTITY emailAudioCmd.label          "E-posta ljud…">
 <!ENTITY emailAudioCmd.accesskey      "E">
+<!ENTITY playPluginCmd.label          "Aktivera insticksmodulen">
+<!ENTITY playPluginCmd.accesskey      "k">
+<!ENTITY hidePluginCmd.label          "Dölj insticksmodulen">
+<!ENTITY hidePluginCmd.accesskey      "ö">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiera bildadress">
