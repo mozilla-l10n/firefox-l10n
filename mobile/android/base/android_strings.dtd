@@ -137,7 +137,6 @@ size. -->
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nový panel">
 <!ENTITY new_private_tab "Nový anonymní panel">
-<!ENTITY synced_tabs "Synchronizované panely">
 <!ENTITY close_all_tabs "Zavřít všechny panely">
 <!ENTITY tabs_normal "Panely">
 <!ENTITY tabs_private "Anonymní">
