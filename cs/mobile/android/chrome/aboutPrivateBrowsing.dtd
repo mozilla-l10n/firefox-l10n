@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Anonymní prohlížení">
+
+<!ENTITY privatebrowsingpage.issueDesc.private "Otevřeli jste nový anonymní panel.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Nejste v anonymním panelu.">
+
+<!ENTITY privatebrowsingpage.description "V anonymních panelech si nebude &brandShortName; zaznamenávat žádnou historii, a to včetně historie stránek, formulářů, historie hledání, cookies a souborů v mezipaměti. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány. ">
+<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo "Ačkoliv toto zařízení nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu může i nadále sledovat, jaké stránky navštěvujete.">
+
