@@ -74,3 +74,7 @@
      -->
 <!ENTITY downloadsHistory.label "Zobrazit všechna stahování">
 <!ENTITY downloadsHistory.accesskey "v">
+
+<!ENTITY clearDownloadsButton.label "Smazat stahování">
+<!ENTITY clearDownloadsButton.tooltip "Smaže dokončená, zrušená či neúspěšná stahování">
+
