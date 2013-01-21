@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "অভ্যন্তরীন HTML অনুলিপি করুন I">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "বাহ্যিক HTML অনুলিপি করুন O">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন D">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "মাউসের দ্বারা উপাদান নির্বাচন">

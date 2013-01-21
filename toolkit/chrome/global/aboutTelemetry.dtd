@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "টেলিমেট্রি ডাটা">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  এই পৃষ্ঠা টেলিমেট্রি দ্বারা সংগৃহীত কার্যকারীতা এবং বৈশিষ্ট্য ব্যবহারের ডাটা প্রদর্শন করে।
-&brandShortName; উন্নয়নে সহায়তার জন্য মোজিলাতে বেনামে এই তথ্য উপস্থাপন করা হয়েছে।">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  টেলিমেট্রি হল <span>সক্রিয়</span>।">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  টেলিমেট্রি হল <span>অকেজো</span>।">
