@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
+<!ENTITY devtoolsConnect.label        "جڑیں...">
+<!ENTITY devtoolsConnect.accesskey    "ج">
+
 <!ENTITY errorConsoleCmd.label        "نقص کنسول">
 <!ENTITY errorConsoleCmd.accesskey    "ک">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ویب کنسول">
-<!ENTITY webConsoleCmd.accesskey      "و">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
-
-<!ENTITY inspectMenu.label            "تحقیق">
-<!ENTITY inspectMenu.accesskey        "ت">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "ایلیمنٹ چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "چ">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F3">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "انسپکٹر بند کریں">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "بغلی بار بند کریں">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
 <!ENTITY devToolbarMenu.accesskey          "ڈ">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "ٹوگل ٹول">
+<!ENTITY devToolboxMenuItem.accesskey      "ٹ">
+
+<!ENTITY devToolbarToolsButton.tooltip     "ڈیولپر ٹول بدلیں">
 <!ENTITY devToolbarOtherToolsButton.label  "مزید ٹول">
-
-<!ENTITY inspectorHTMLCopyInner.label       "اندرونی HTML نقل کریں">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "ا">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "بیرونی HTML نقل کریں">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "ب">
-
-<!ENTITY inspectorHTMLDelete.label          "نوڈ حذف کریں">
-<!ENTITY inspectorHTMLDelete.accesskey      "ح">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D نظارہ">
-<!ENTITY inspect3DViewButton.accesskey "ن">
-
-<!ENTITY inspectStyleButton.label     "طرز:">
-<!ENTITY inspectStyleButton.accesskey "ط">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "سٹائل تدوین کار">
-<!ENTITY styleeditor.accesskey        "س">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "اور ٹول حاصل کریں">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ا">
@@ -377,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey       "ک">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ٹ">
 <!ENTITY openLinkCmd.label            "ربط نئے دریچے میں کھولیں">
 <!ENTITY openLinkCmd.accesskey        "د">
+<!ENTITY openLinkInPrivateWindowCmd.label "ربط نئے نجی دریچے میں کھولیں">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "ن">
 <!ENTITY openLinkCmdInCurrent.label     "ربط کھولیں">
 <!ENTITY openLinkCmdInCurrent.accesskey "ک">
 <!ENTITY openFrameCmdInTab.label      "فریم نئی ٹیب میں کھولیں">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "مزید معلومات ...">
 
-<!ENTITY downloadMonitor2.tooltip "ڈاؤن لوڈ دریچہ کھولنے کے لیے کلک کریں">
-
 <!ENTITY allTabs.filter.emptyText "تلاش کریں ٹیب">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "ایڈ اون بار بند کریں">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "مارک اپ">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "م">
 
 <!ENTITY socialToolbar.title        "سوشل ٹول بار بٹن">
 <!ENTITY social.notLoggedIn.label   "لاگ ان نہیں">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "ک">
 
 <!ENTITY social.chatBar.commandkey "چ">
+<!ENTITY social.chatBar.label "بات چیت پر فوکس لائیں">
+<!ENTITY social.chatBar.accesskey "ف">
+
+<!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
+<!ENTITY getUserMedia.selectCamera.accesskey "ک">
+<!ENTITY getUserMedia.selectMicrophone.label "شیئر کرنے کےلیے مائیکروفون:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "م">
+
+<!ENTITY webrtcIndicatorButton.label "کیمرہ / مائیکروفون رسائی">
+<!ENTITY webrtcIndicatorButton.tooltip "سائٹیں دکھاتا ہے جن کے ساتھ آپ اس وقت اپنا کیمرہ یا مائیکروفون شیئر کر رہے ہیں">

@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "اندرونی HTML نقل کریں">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "ا">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "بیرونی HTML نقل کریں">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ب">
+
+<!ENTITY inspectorHTMLDelete.label          "نوڈ حذف کریں">
+<!ENTITY inspectorHTMLDelete.accesskey      "ح">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
