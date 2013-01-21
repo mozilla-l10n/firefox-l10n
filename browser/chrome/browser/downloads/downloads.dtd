@@ -24,21 +24,21 @@
      -->
 
 <!ENTITY downloadDetails.width            "50ch">
-<!-- LOCALIZATION NOTE (downloadsSummary.minWidth):
+<!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
      number of downloads exceeds the limit that the panel can display.
 
-     A good rule of thumb here is to look at the otherDownloads string
+     A good rule of thumb here is to look at the otherDownloads2 string
      in downloads.properties, and make a reasonable estimate of its
      maximum length. For English, this seems like a reasonable limit:
 
-     +999 other current downloads
+     + 999 other downloads
 
-     that's 28 characters, so we set the minimum width to 28ch.
+     that's 21 characters, so we set the minimum width to 21ch.
      -->
 
-<!ENTITY downloadsSummary.minWidth        "28ch">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Oedi">
 <!ENTITY cmd.pause.accesskey              "O">
@@ -60,10 +60,12 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "M">
 <!ENTITY cmd.copyDownloadLink.label       "Copïo Dolen Llwytho i Lawr">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
-<!ENTITY cmd.removeFromList.label         "Tynnu o'r Rhestr">
-<!ENTITY cmd.removeFromList.accesskey     "T">
+<!ENTITY cmd.removeFromHistory.label      "Remove From History">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "Clirio'r Rhestr">
 <!ENTITY cmd.clearList.accesskey          "l">
+<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
@@ -72,3 +74,17 @@
 
 <!ENTITY downloadsHistory.label           "Dangos Pob Llwyth">
 <!ENTITY downloadsHistory.accesskey       "D">
+
+<!ENTITY clearDownloadsButton.label       "Clear Downloads">
+<!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
+<!-- LOCALIZATION NOTE (downloadsListEmpty.label):
+     This string is shown when there are no items in the Downloads view.
+     -->
+
+<!ENTITY downloadsListEmpty.label         "There are no downloads.">
+<!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
+     This string is shown when some search terms are specified, but there are no
+     results in the Downloads view.
+     -->
+
+<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
