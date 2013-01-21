@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "வலைத்தள டெவலப்பர்">
 <!ENTITY webDeveloperMenu.accesskey   "வ">
 
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "பிழை பணியகம்">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "வலை பணியகம்">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY inspectMenu.label            "ஆய்வு செய்">
-<!ENTITY inspectMenu.accesskey        "I">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "ஆய்வாளரை மூடவும்">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "பக்கப்பட்டையை மூடு">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "டெவலப்பர் கருவிப்பட்டை மூடவும்">
 <!ENTITY devToolbarMenu.label              "டெவலப்பர் கருவிப்பட்டை">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "இதர கருவிகள்">
-
-<!ENTITY inspectorHTMLCopyInner.label       "இன்னர் HTML - ஐ நகலெடு">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "இ">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "வெளிப்புற HTML - ஐ நகலெடு">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "வ">
-
-<!ENTITY inspectorHTMLDelete.label          "கணுவை நீக்கு">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D பார்வையிடு">
-<!ENTITY inspect3DViewButton.accesskey "ய">
-
-<!ENTITY inspectStyleButton.label     "பாணி">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "ஸ்டைல் எடிட்டர்">
-<!ENTITY styleeditor.accesskey        "ட">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "கூடுதல் கருவிகளை பெற">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "புதிய தத்தலில் சட்டத்தைத் திற">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
 <!ENTITY newWindowButton.tooltip        "ஒரு புதிய சாளரத்தைத் திற">
-<!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "வெட்டு">
 <!ENTITY copyButton.tooltip             "நகலெடு">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "இன்னும் தகவல்…">
 
-<!ENTITY downloadMonitor2.tooltip "பதிவிறக்க சாளரங்களை திறக்க சொடுக்கவும்">
-
 <!ENTITY allTabs.filter.emptyText "தத்தல்களை தேடு">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "கூடுதல் இணைப்பு பட்டையை மூடு">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Markup">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Social Toolbar Button">
 <!ENTITY social.notLoggedIn.label   "Not logged in">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

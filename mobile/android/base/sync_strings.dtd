@@ -68,7 +68,7 @@
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "விடு">
-<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.connect.label "இணை">
 <!ENTITY sync.button.ok.label "சரி">
 <!-- Account strings -->
   
@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
 <!ENTITY bookmarks.folder.mobile.label "மொபைல் புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>

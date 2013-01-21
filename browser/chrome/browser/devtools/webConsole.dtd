@@ -8,34 +8,34 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Web Console">
+<!ENTITY window.title "வலை பணிமுனை">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "கோரிக்கை URL:">
+<!ENTITY networkPanel.requestMethodColon          "கோரிக்கை முறை:">
+<!ENTITY networkPanel.statusCodeColon             "நிலை குறியீடு:">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "கோரிக்கை தலைப்புகள்">
+<!ENTITY networkPanel.requestCookie               "அனுப்பிய குக்கி">
+<!ENTITY networkPanel.requestBody                 "கோரிக்கை பிரதான அங்கம்">
+<!ENTITY networkPanel.requestFormData             "அனுப்பிய படிவ தரவு">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "பதிலளிப்பு தலைப்புகள்">
+<!ENTITY networkPanel.responseCookie              "பெற்ற குக்கி">
+<!ENTITY networkPanel.responseBody                "பதிலளிப்பு பிரதான அங்கம்">
+<!ENTITY networkPanel.responseBodyCached          "தேக்ககப்படுத்திய தரவு">
+<!ENTITY networkPanel.responseBodyUnknownType     "தெரியாத உள்ளடக்க வகை">
+<!ENTITY networkPanel.responseNoBody              "பதிலளிப்பு பிரதான அங்கம் இல்லை">
+<!ENTITY networkPanel.responseImage               "பெற்ற படம்">
+<!ENTITY networkPanel.responseImageCached         "தேக்ககப்படுத்திய படம்">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     "பதிவு கோரிக்கை மற்றும் பதிலளிப்பு பிரதான அங்கங்கள்">
+<!ENTITY saveBodies.accesskey "ப">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "URL ஐ புதிஅய் தாவலில் திற (T)">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -43,47 +43,26 @@
   -  filters. -->
 
 <!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageNet.tooltip "பிணைய அணுகலைப் பதிவு செய்">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "CSS பாகுபடுத்தல் பிழைகளைப் பதிவு செய்">
 <!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
+<!ENTITY btnPageJS.tooltip  "JavaScript விலக்கங்களைப் பதிவு செய்">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.label   "பதிவுசெய்தல்">
+<!ENTITY btnPageLogging.tooltip "window.console பொருளுக்கு அனுப்பப்படும் செய்திகளைப் பதிவு செய்">
 <!ENTITY btnConsoleErrors       "பிழைகள்">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo         "தகவல்">
 <!ENTITY btnConsoleWarnings     "எச்சரிக்கைகள்">
-<!ENTITY btnConsoleLog          "Log">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
+<!ENTITY btnConsoleLog          "பதிவு">
 
-<!ENTITY btnPosition.label     "Position">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Above">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Below">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "சாளரம்">
-
-<!ENTITY filterBox.placeholder "வடிகட்டு">
+<!ENTITY filterBox.placeholder "வடிகட்டி">
 <!ENTITY btnClear.label        "துடை">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!ENTITY btnClear.tooltip      "வலை பணிமுனை வெளியீட்டை அழி">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
