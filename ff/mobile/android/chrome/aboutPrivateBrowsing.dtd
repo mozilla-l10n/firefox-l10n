@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Banngagol Suturo">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "A udditii tabbere suturo hesere.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "A wonaani e tabbere suturo.">
+
+<!ENTITY privatebrowsingpage.description            "E tabbe suturo, &brandShortName; mooftataa alsol wanngorde hay gootol, aslol njiilaw, aslol gaawte, aslol formere geese, kukiije walla pille enternet ɓadiiɗe. Kono piille ɗe ngaawti-ɗaa e maantore ɗe mbaɗ-ɗaa maa moofte.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Hay so ngol kaɓirgol mooftaani aslol peeragol maa, jeeyoowo ceŋe enternet maa walla ligginoowo-ma ena waawi rewindaade kelle ɗe njilloto-ɗaa ɗee.">
