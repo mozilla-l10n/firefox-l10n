@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "War bay ka goy nda &syncBrand.fullName.label; han foo?">
 <!ENTITY setup.choicePage.new.label       "Ya na bay ka goy nda &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Ay ga doona ka goy nda &syncBrand.shortName.label; ordinater tana foo ga">
+<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Feršikaw">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync suubarey">
-<!ENTITY syncComputerName.label       "Ordinater maa:">
-<!ENTITY syncComputerName.accesskey   "O">
+<!ENTITY syncDeviceName.label       "Jinaa maaɲoo:">
+<!ENTITY syncDeviceName.accesskey   "n">
 
 <!ENTITY syncMy.label               "Hangandi">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Tontoney">
 <!ENTITY engine.addons.accesskey    "T">
 
-<!ENTITY choice2.merge.main.label      "Wa ordinateroo woo bayhayey marga nda &syncBrand.shortName.label; bayhayey">
+<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Yaamarante:">
-<!ENTITY choice2.client.main.label     "Ordinateroo woo bayhayey kul barmay nda &syncBrand.shortName.label; bayhayey">
-<!ENTITY choice2.server.main.label     "Jinawey jerey kul barmay nda ordinateroo bayhayey">
+<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tabatandi">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ga marga nda ordinateroo woo ceecikaa bayhayey k'i dam war Sync kontoo ra.">
-<!ENTITY confirm.client2.label         "Yaamar: &brandShortName; bayhayey wey ordinateroo woo ga kaa ka tuusandi:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; ga soobay ka war &syncBrand.fullName.label; bayhayey berandi ordinateroo woo.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
 <!ENTITY confirm.server2.label         "Yaamar: War nungu bayhayey ga hantumandi war jinay wala maršin jerey wey boŋ:">
 <!-- New & Existing Account: Setup Complete -->
 

@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Inner HTML berandi">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Outer HTML berandi">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Dobu gam tuusu">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "Haya-izoo suuba nda ncaŋoo">

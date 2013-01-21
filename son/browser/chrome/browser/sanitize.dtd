@@ -5,7 +5,6 @@
 <!ENTITY sanitizePrefs2.title          "Kayandiyaney taariki koonandiyan še">
 <!ENTITY sanitizeDialog2.title         "Taariki taagante koonandi">
 
-<!ENTITY sanitizeItems.label          "Hayiize wey koonandi sohõ:">
 <!ENTITY clearDataSettings2.label     "Waati kaŋ ay na &brandShortName; naŋ, a ga hima ka nga boŋ kul koonandi:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Interneti diji-walha">
 
-<!ENTITY networkPanel.requestURL                  "URL aderesu wiriyan">
-<!ENTITY networkPanel.requestMethod               "Wiriyan dabari">
-<!ENTITY networkPanel.statusCode                  "Assariya tammaasa">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "Wiryan boŋdekey">
 <!ENTITY networkPanel.requestCookie               "Aleewaa sanbandi">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Takari bayhayey sanbandi">
 
 <!ENTITY networkPanel.responseHeaders             "Tuuruyan boŋdekey">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Tuuruyan gaaham">
 <!ENTITY networkPanel.responseBodyCached          "Bayhaya lanbantey">
 <!ENTITY networkPanel.responseBodyUnknownType     "Gundekuna dumi šibayante">
@@ -31,6 +32,11 @@
 
 <!ENTITY saveBodies.label     "Log Request and Response Bodies">
 <!ENTITY saveBodies.accesskey "L">
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+
+<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -53,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "Alhabar">
 <!ENTITY btnConsoleWarnings     "Warnings">
 <!ENTITY btnConsoleLog          "Hantum">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Position">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Interneti diji-walha yee takaddaa še beene wal'a cire">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Beene">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Ganda">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "Zanfun">
 
 <!ENTITY filterBox.placeholder "Sosoguji">
 <!ENTITY btnClear.label        "Clear">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -89,3 +74,6 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY copyURLCmd.label     "Doboo dogoo berandi">
+<!ENTITY copyURLCmd.accesskey "D">

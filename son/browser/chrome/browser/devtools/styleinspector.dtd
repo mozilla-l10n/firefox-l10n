@@ -41,3 +41,7 @@
 <!ENTITY matched               "Tenjante">
 <!ENTITY parentMatch           "Ihayra tenjiyan">
 <!ENTITY unmatched             "Mana tenjandi">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Kabante">
+<!ENTITY ruleViewTitle         "Aššariyawey">

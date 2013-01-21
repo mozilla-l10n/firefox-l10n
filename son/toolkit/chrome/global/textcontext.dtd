@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "g">
 <!ENTITY spellUndoAddToDictionary.label "Tonton kamasu ga taafeeri">
 <!ENTITY spellUndoAddToDictionary.accesskey "t">
-<!ENTITY spellCheckEnable.label "Boŋhantum koroši">
-<!ENTITY spellCheckEnable.accesskey "B">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Boŋhantum honnandi šii)">
 <!ENTITY spellDictionaries.label "Šenney">
 <!ENTITY spellDictionaries.accesskey "n">

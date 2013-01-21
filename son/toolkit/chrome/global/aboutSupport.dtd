@@ -42,6 +42,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ibaayi barmayante šifanteyaŋ">
 <!ENTITY aboutSupport.modifiedPrefsName "Maa">
 <!ENTITY aboutSupport.modifiedPrefsValue "Hinna">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Bii takarey">
 
@@ -57,4 +61,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Taariki sinjiyan">
 <!ENTITY aboutSupport.updateHistoryTitle "Taariki taagandi">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Ikul berandi deeji-walhaa ga">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">

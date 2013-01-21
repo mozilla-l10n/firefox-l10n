@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Nungu kaasey">
 <!ENTITY  awesomebar_bookmarks_title "Doo-šilbawey">
 <!ENTITY  awesomebar_history_title "Taariki">
-<!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; guna">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
 <!ENTITY  crash_message "&brandShortName; kaŋ. War nor lokey ga hima ka bangay &brandShortName; šintin moɲoo ga nd’a ga tun taaga.">
@@ -55,11 +54,10 @@
 <!ENTITY site_security "Nungu saajaw">
 
 <!ENTITY close_tab "Nor lokoo daabu">
-<!ENTITY new_tab "Nor loku taaga">
 <!ENTITY one_tab "1 tab">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "Nor loku &#x25;d">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Nor loku taaga feera">
 
 <!ENTITY settings "Kayandiyaney">
@@ -72,16 +70,22 @@
 <!ENTITY pref_do_not_track "Nee nungey še i ma ši ay gana">
 <!ENTITY pref_telemetry "Teeyan bayhayey sanba">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
-<!ENTITY pref_cookies "Aleewawey tunandi">
+
+<!ENTITY pref_cookies_menu "Aleewawey">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
 <!ENTITY pref_clear_private_data "Sutura bayhayey tuusu">
 <!ENTITY pref_plugins "Sukarey">
-<!ENTITY pref_plugins_enabled "Tunante">
+<!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
-<!ENTITY pref_plugins_disabled "Kayante">
+<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Kaccu">
 <!ENTITY pref_font_size_small "Kayna">
 <!ENTITY pref_font_size_medium "Sasawante">
@@ -100,6 +104,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
+<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Zaa Android ra">
@@ -110,6 +115,11 @@ size. -->
 <!ENTITY pref_private_data_cache "Tugudoo">
 <!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
 <!ENTITY pref_private_data_siteSettings "Nungu ibaayey">
+
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
 
 <!ENTITY quit "Fatta">
 
@@ -124,6 +134,16 @@ size. -->
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY find_in_page "Ceeci moɲoo ra">
 <!ENTITY desktop_mode "Ordinater nungu hãa">
+<!ENTITY tools "Goyjinawey">
+<!ENTITY new_tab "Nor loku taaga">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Nor lokey">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -133,6 +153,8 @@ size. -->
 <!ENTITY find_close "Daabu">
 
 <!ENTITY contextmenu_open_new_tab "Feeri nor loku taaga ra">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_in_reader "Open in Reader">
 <!ENTITY contextmenu_remove_history "Kaa">
 <!ENTITY contextmenu_remove_bookmark "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
@@ -140,9 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Dobu nda koy">
 <!ENTITY contextmenu_paste "Dobu">
 <!ENTITY contextmenu_copyurl "Aderesu berandi">
-<!ENTITY contextmenu_edit_bookmark "Fasal">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Moo tuusante">
 
@@ -153,14 +173,14 @@ size. -->
 
 <!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Naŋ">
-<!ENTITY site_settings_clear        "Tuusu">
+<!ENTITY site_settings_clear        "Clear">
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 
 <!ENTITY reading_list "Caw maašeede">
 <!ENTITY reading_list_added "Moo tontonandi war caw maašeedaa ga">
 <!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reader_mode "Cawyan alhaali">
+<!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Takaddaɲaa šennikufaloo tee">
 <!ENTITY masterpassword_remove_title "Takaddaɲaa šennikufal kaa">
@@ -169,27 +189,34 @@ size. -->
 
 <!ENTITY button_ok "Ayyo">
 <!ENTITY button_cancel "Naŋ">
+<!ENTITY button_yes "Ayyo">
+<!ENTITY button_no "Kalaa">
 <!ENTITY button_clear_data "Bayhayey kaa">
+<!ENTITY button_set "Set">
+<!ENTITY button_clear "Clear">
 
 <!ENTITY abouthome_addons_title "Tontoniyaŋ war &brandShortName; še">
 <!ENTITY abouthome_addons_browse "&brandShortName; tontoney kul guna">
 <!ENTITY abouthome_last_tabs_title "War cee koraa nor lokey">
 <!ENTITY abouthome_last_tabs_open "Cee kora nor lokey kul feeri">
 <!ENTITY abouthome_top_sites_title "Nungu kaasey">
-<!ENTITY abouthome_top_sites_browse "War nungu kaasey kul guna">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
@@ -222,21 +249,23 @@ Android ra">
 <!ENTITY bookmarkhistory_import_history "Taariki zaa 
 Android ra">
 <!ENTITY bookmarkhistory_import_wait "Batu taare...">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "App">
-<!-- Updater notifications -->
 
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
-<!ENTITY updater_start_select "Select to download update.">
+<!ENTITY searchable_description "Bookmarks and history">
+<!-- Updater notifications --> 
 
-<!ENTITY updater_downloading_title "Goo ma &brandShortName; zumandi">
-<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
-<!ENTITY updater_downloading_select "Select to apply update when complete.">
-<!ENTITY updater_downloading_retry "Select to retry update download.">
-<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_select2 "Touch to download">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
-<!ENTITY updater_apply_select "Select to apply downloaded update.">
+<!ENTITY updater_downloading_title2 "Goo ma &brandShortName; zumandi">
+<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "Touch to retry">
+
+<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_select2 "Touch to update">
