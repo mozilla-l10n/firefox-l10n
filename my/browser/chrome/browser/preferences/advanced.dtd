@@ -21,9 +21,9 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ချောမွေ့တဲ့ လိမ့်ဆင်းမှုကို သုံးစွဲပါ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
-<!ENTITY allowHWAccel.accesskey          "ရ">
-<!ENTITY checkSpelling.label             "ရိုက်ထည့်နေတုန်း ကျွန်ပ် စာလုံးပေါင်းကို စစ်ဆေးပါ">
+<!ENTITY allowHWAccel.label              "r ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "t ရိုက်ထည့်နေတုန်း ကျွန်ပ် စာလုံးပေါင်းကို စစ်ဆေးပါ">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "နည်းစနစ် စံထားချက်များ">

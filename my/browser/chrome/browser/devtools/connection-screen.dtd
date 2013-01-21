@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+
+<!ENTITY title      "ချိတ်ဆက်ပါ">
+<!ENTITY header     "အဝေးရှိကိရိယာကိုချိတ်ဆက်ပါ">
+<!ENTITY host       "Host:">
+<!ENTITY port       "စိုက်ရောက်နေရာ၊">
+<!ENTITY connect    "Connect">
+<!ENTITY connecting "ချက်ဆက်နေသည်">
+<!ENTITY availableTabs "အဝေးတွင်ရရှိနိုင်သောတက်ပ်များ">
+<!ENTITY availableProcesses "အဝေးတွင်ရှိသော လုပ်ငန်းစဉ်များ">
+<!ENTITY connectionError "အမှား၊">
+<!ENTITY errorTimeout "ချိတ်ဆက်မှုအချိန်လွန်သွားသောအမှား">
+<!ENTITY errorRefused "ချိတ်ဆက်မှုကိုလက်မခံသောအမှား">
+<!ENTITY errorUnexpected "မမျှော်လင့်တဲ့ အမှား">
+<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">

@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect
-securely to <b>#1</b>, but we can't confirm that your connection is secure.">
+<!ENTITY certerror.introPara1 "&brandShortName; အားသင်သည် 
+<b>#1</b> သို့လုံခြုံစွာ ချိတ်ဆက်ရန်အကြံပြုသည် သို့သော် သင်၏ချိတ်ဆက်မှူလုံခြုံရေးအား မပြောတတ်ပေ။">
 <!ENTITY certerror.introPara2 "သာမန်အားဖြင့်သင်သည်လုံခြုံစွာဆက်သွယ်နိုင်ပါက ဝတ်စာမျက်နှာသည် စိတ်ချရကြောင်းအထောက်အထားများဖြင့် သင်သည်နေရာမှန်ကိုရောက်ရှိနေသည်ဟုပြဆိုမည်ဖြစ်သည်။သို့သော်လက်ရှိဝတ်ဆိုက်၏လုံခြုံစိတ်ချရမှူအထောက်အထားကိုမတွေ့ရှိရပါ.">
 
 <!ENTITY certerror.whatShouldIDo.heading "ဘာဆက်လုပ်သင့်ပါသလဲ?">

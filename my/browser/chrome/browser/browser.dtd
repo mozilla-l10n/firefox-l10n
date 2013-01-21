@@ -136,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "လက်ရှိ စာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
 <!ENTITY stopCmd.label                "ရပ်ပါ">
 <!ENTITY stopCmd.accesskey            "S">
-<!ENTITY stopCmd.macCommandKey        "။">
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ဖွင့်နေတဲ့ ဒီစာမျက်နှာကို ရပ်တန့်ပါ">
 <!ENTITY goEndCap.tooltip             "တည်နေရာ တန်းလျာထဲက လိပ်စာဆီ သွားပါ">
 <!ENTITY printButton.label            "ပုံနှိုပ်ပါ">
@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
 
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "ထိန်းချုပ်ခလုတ်ခုံ အမှား">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "W">
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY inspectMenu.label            "တိုင်းတာမည်">
-<!ENTITY inspectMenu.accesskey        "တ">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "အသေးစိတ်ခွဲခြမ်းစိတ်ဖြာမည်။">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Inspector အားပိတ်မည်">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "ဘေးတန်းကို ပိတ်ပါ">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F၂">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Inner HTML ကိုကူးယူပါ">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "အပြင်ဘက် HTML ကိုကူးပါ">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "အ">
-
-<!ENTITY inspectorHTMLDelete.label          "ဖျက်သိမ်းမည့် မှတ်တမ်း">
-<!ENTITY inspectorHTMLDelete.accesskey      "ဖ">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D အမြင်">
-<!ENTITY inspect3DViewButton.accesskey "3">
-
-<!ENTITY inspectStyleButton.label     "အပြင်အဆင်">
-<!ENTITY inspectStyleButton.accesskey "အ">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "စတိုင် အယ်ဒီတာ">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "နောက်ထပ်ကိရိယာများရယူမည်။">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "န">
@@ -377,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "K">
+<!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "အချိတ်အဆက်ကို ‌ဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "လိပ်စာအားဖွင့်ပါ။">
 <!ENTITY openLinkCmdInCurrent.accesskey "လ">
 <!ENTITY openFrameCmdInTab.label      "ဘောင်ကို စာအမှတ်သစ်မှာ ဖွင့်ပါ">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "စာအမှတ်သစ် တခု ဖွင့်ပါ">
 <!ENTITY newWindowButton.tooltip        "ဝင်းဒိုးသစ် တခု ‌ဖွင့်ပါ">
-<!ENTITY sidebarCloseButton.tooltip     "ဘေးတန်းကို ပိတ်ပါ">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "ဖြတ်ယူပါ ">
 <!ENTITY copyButton.tooltip             "ကူးယူပါ">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "ပိုမို အချက်အလက်...">
 
-<!ENTITY downloadMonitor2.tooltip "ဆွဲယူစရာများ ၀င်းဒိုးကို ဖွင့်ဖို့ နှိုပ်ပါ">
-
 <!ENTITY allTabs.filter.emptyText "စာမျက်နှာများအတွင်းရှာဖွေမည်။">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "အတ်အွန်ဘားအားပိတ်မည်။">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Markup">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "ဆိုရှယ် တူးဘား ခလုပ်">
 <!ENTITY social.notLoggedIn.label   "မ၀င်ရောက်သေးဘူး">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

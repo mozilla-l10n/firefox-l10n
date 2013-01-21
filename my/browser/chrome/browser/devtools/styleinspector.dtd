@@ -41,3 +41,7 @@
 <!ENTITY matched               "ကိုက်ညီပြီ">
 <!ENTITY parentMatch           "မူလကိုက်ညီခြင်း">
 <!ENTITY unmatched             "မကိုက်ညီသော">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "တွက်ချက်မှု">
+<!ENTITY ruleViewTitle         "စည်းမျဉ်း">

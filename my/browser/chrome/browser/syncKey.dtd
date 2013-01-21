@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncKey.page.title               "သင်၏&syncBrand.fullName.label;ချိတ်ဆက်ကီး">
-<!ENTITY syncKey.page.description2        "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new device.">
+<!ENTITY syncKey.page.description2        "ကီးသည်သင်၏ &syncBrand.fullName.label; အကောင့်ဒေတာများအား ဒီကုဒ်လုပ်ရာတွင်သုံးသည်။ သင် &syncBrand.fullName.label; အား ကိရိယာအသစ်တစ်ခုဝင်တိုင်း ကီးအားထည့်ပေးရမည်ဖြစ်သည်။">
 <!ENTITY syncKey.keepItSecret.heading     "ဤအရာအားလျှို့ဝှက်ထိန်းသိမ်းထားပါ။">
 <!ENTITY syncKey.keepItSecret.description "သင်၏&syncBrand.fullName.label;အကောင့်အားလုံခြုံစိတ်ချရစေရန်encryptလုပ်ထားပါသည်။ဤကီးမရှိပါပဲ decode လုပ်ပါက နှစ်ပေါင်းများစွာကြာနိုင်ပါသည်။ သင်သည်သာ ယခုကီးအားပိုင်ဆိုင်သူတစ်ယောက်ဖြစ်ပါသည်။ ဆိုလိုတာကတော့သင်သည်သာ ဤ &syncBrand.fullName.label; အချက်အလက်များကို ရယူနိုင်သူတစ်ဦးထဲဖြစ်သည်။">
 <!ENTITY syncKey.keepItSafe.heading       "ဤအရာအားလုံခြုံအောင်သိမ်းထားပါ">
 <!ENTITY syncKey.keepItSafe1.description  "ဤကီးအားမပျောက်ပါစေနှင့်။">
 <!ENTITY syncKey.keepItSafe2.description  " သင်၏ချိတ်ဆက်ကီးအားသိမ်းထားမည်မဟုတ်ပါ(ဒါပေမယ့်ဒါဟာမလုံခြုံဘူးလို့ဆိုလိုတာမဟုတ်)">
 <!ENTITY syncKey.keepItSafe3.description  "ကျွန်ုပ်တို့သင့်ရဲ့လျှို့ဝှက်စကားလုံးပြန်လည်ရယူရန်မကူညီနိုင်ပါ။">
-<!ENTITY syncKey.keepItSafe4a.description " if it's lost. You'll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description "if it's lost. You'll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; နှင့်သင်၏လုံခြုံရေးအကြောင်းထပ်မံရှာဖွေဖတ်ရှူပါ။">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label;အသုံးပြုခြင်းဆိုင်ရာလိုက်နာရန်အချက်များကိုဤတွင်ဆက်လေ့လာနိုင်ပါသည်။">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at">
 <!ENTITY syncKey.footer3.label            ".">

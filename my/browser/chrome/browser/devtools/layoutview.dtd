@@ -16,6 +16,7 @@
 
 
 
+<!ENTITY title                  "Box Model">
 <!ENTITY margins.tooltip        "မာဂျင်">
 <!ENTITY borders.tooltip        "အနားများ">
 <!ENTITY padding.tooltip        "padding">

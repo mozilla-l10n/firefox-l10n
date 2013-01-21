@@ -6,7 +6,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; သည်စမ်းသပ်ဆဲ ကာလဖြစ်ပြီး မတည်ငြိမ်မှူဖြစ်ကောင်း ဖြစ်နိုင်သည်။">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetryDesc  "၎င်းသည် လုပ်ဆောင်ချက်များ ၊ သုံးစွဲပုံများ ၊ ပြင်ဆင်ချက်များအား &vendorShortName; သို့ &brandShortName; အားပိုကောင်းအောင် လုပ်ခြင်းတွင် ကူညီရန် ပြန်ပို့ပေးသည်။">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -28,7 +28,7 @@
 <!ENTITY contribute.start           "စိတ်ဝင်စားဖို့ကောင်းပါသလား?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "ပါဝင်မည်။">
-<!ENTITY contribute.end             "">
+<!ENTITY contribute.end             "ပြီး">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">

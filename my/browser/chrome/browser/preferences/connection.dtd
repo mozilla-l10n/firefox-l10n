@@ -28,9 +28,9 @@
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS အခြေစိုက်ရာ၊">
 <!ENTITY  socks.accesskey               "C">
-<!ENTITY  socks4.label                  "SOCKS v၄">
+<!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
-<!ENTITY  socks5.label                  "SOCKS v၅">
+<!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "စိုက်ရောက်နေရာ၊">
 <!ENTITY  HTTPport.accesskey            "P">
@@ -39,6 +39,6 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ကြားခံ မလိုတဲ့၊">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "ဥပမာ-.mozilla.org, .net.nz, ၁၉၂.၁၆၈.၁.၀/၂၄">
+<!ENTITY  noproxyExplain.label          "ဥပမာ-.mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "စည်းမျဉ်းများ အားလုံးအတွက် ဒီကြားခံ ​ဆာဗာကို သုံးစွဲပါ">
 <!ENTITY  shareproxy.accesskey          "s">

@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Inner HTML ကိုကူးယူပါ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "အပြင်ဘက် HTML ကိုကူးပါ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "အ">
+
+<!ENTITY inspectorHTMLDelete.label          "ဖျက်သိမ်းမည့် မှတ်တမ်း">
+<!ENTITY inspectorHTMLDelete.accesskey      "ဖ">
+
+<!ENTITY inspector.selectButton.tooltip     "အရာ၀တ္ထုကို မောက်စ်နဲ့ ရွေးမှတ်ပါ။">

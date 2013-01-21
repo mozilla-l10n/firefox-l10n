@@ -4,33 +4,33 @@
 
 <!ENTITY startup.label             "အစပြုခြင်း">
 
-<!ENTITY startupPage.label         "&brandShortName; တဲ့အခါ စတင်လာတဲ့ အရာ၊">
+<!ENTITY startupPage.label         "&brandShortName; တဲ့အခါ s စတင်လာတဲ့ အရာ၊">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "ကျွန်ပ် ပင်မစာမျက်နှာကို ပြသပါ">
 <!ENTITY startupBlankPage.label    "စာမျက်နှာ အလွတ် ‌ပြသပါ">
 <!ENTITY startupLastSession.label  "နောက်ဆုံး အချိန်မှ ကျွန်ပ် ၀င်းဒိုးများနဲ့ စာအမှတ်များကို ​ပြသပါ">
 
-<!ENTITY homepage.label            "ဗဟိုစာမျက်နှာ">
+<!ENTITY homepage.label            "P ဗဟိုစာမျက်နှာ">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "လက်ရှိ စာမျက်နှာကို သုံးစွဲပါ">
+<!ENTITY useCurrentPage.label      "C လက်ရှိ စာမျက်နှာကို သုံးစွဲပါ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "လက်ရှိ စာမျက်နှာများကို သုံးစွဲပါ">
-<!ENTITY chooseBookmark.label      "၀တ်ဆိုက်မှတ်ကိုသုံးပါ။">
+<!ENTITY chooseBookmark.label      "B ၀တ်ဆိုက်မှတ်ကိုသုံးပါ။">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "စံထားချက်အတိုင်း ပြန်ထားပါ">
+<!ENTITY restoreDefault.label      "R စံထားချက်အတိုင်း ပြန်ထားပါ">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "ဆွဲချချက်များ">
 
-<!ENTITY showWhenDownloading.label     "ဖိုင်တခုကို ဆွဲချနေစဉ် ဆွဲချစရာများ ၀င်းဒိုးကို ပြသပါ">
+<!ENTITY showWhenDownloading.label     "D ဖိုင်တခုကို ဆွဲချနေစဉ် ဆွဲချစရာများ ၀င်းဒိုးကို ပြသပါ">
 <!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "ဆွဲချစရာများ အားလုံး ပြီးစီးတဲ့အခါ ၄င်းကို ပိတ်ပါ">
+<!ENTITY closeWhenDone.label "w ဆွဲချစရာများ အားလုံး ပြီးစီးတဲ့အခါ ၄င်းကို ပိတ်ပါ">
 <!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "ဖိုင်များကို သိမ်းဆည်းမဲ့နေရာ">
+<!ENTITY saveTo.label "v ဖိုင်များကို သိမ်းဆည်းမဲ့နေရာ">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "လှော်​လှန်ပါ...">
+<!ENTITY chooseFolderWin.label        "oလှော်​လှန်ပါ...">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "ရွေးပါ...">
+<!ENTITY chooseFolderMac.label        "eရွေးပါ...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ဖိုင်များ သိမ်းဆည်းမဲ့နေရာကို အမြဲ မေးမြန်းပါ">
+<!ENTITY alwaysAsk.label "Aဖိုင်များ သိမ်းဆည်းမဲ့နေရာကို အမြဲ မေးမြန်းပါ">
 <!ENTITY alwaysAsk.accesskey "A">

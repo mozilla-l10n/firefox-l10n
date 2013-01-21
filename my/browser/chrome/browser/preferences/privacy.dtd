@@ -4,14 +4,14 @@
 
 <!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY doNotTrack.label               "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
+<!ENTITY doNotTrack.label               "dသင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
 <!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "မှတ်တမ်း">
 
 <!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
 
-<!ENTITY  locbar.pre.label              "တည်နေရာ အတန်းကို သုံးစွဲတဲ့အခါ၊ အ​ကြံပြုတာက၊">
+<!ENTITY  locbar.pre.label              "uတည်နေရာ အတန်းကို သုံးစွဲတဲ့အခါ၊ အ​ကြံပြုတာက၊">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "English">
 <!ENTITY  locbar.both.label             "သက်၀င် မှတ်သားချက်များ">
@@ -19,23 +19,23 @@
 <!ENTITY  locbar.bookmarks.label        "မှတ်သားချက်များ">
 <!ENTITY  locbar.nothing.label          "ဘာမှ မရှိ">
 
-<!ENTITY  acceptCookies.label           "ကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
+<!ENTITY  acceptCookies.label           "Aကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "အခြား ကွတ်ကီးများကို လက်ခံပါ">
+<!ENTITY  acceptThirdParty.label        "cအခြား ကွတ်ကီးများကို လက်ခံပါ">
 <!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY  keepUntil.label               "သိမ်းဆည်းထားမဲ့ အချိန်၊">
+<!ENTITY  keepUntil.label               "Kသိမ်းဆည်းထားမဲ့ အချိန်၊">
 <!ENTITY  keepUntil.accesskey           "K">
 
 <!ENTITY  expire.label                  "သူတို့ သက်တမ်းပြီ">
 <!ENTITY  close.label                   "&brandShortName; ကို ပိတ်လိုက်တယ်">
 <!ENTITY  askEachTime.label             "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
 
-<!ENTITY  cookieExceptions.label        "ခြွင်းချက်များ...">
+<!ENTITY  cookieExceptions.label        "E ခြွင်းချက်များ...">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "ကွတ်ကီးများကို ​ပြသပါ...">
+<!ENTITY  showCookies.label             "Sကွတ်ကီးများကို ​ပြသပါ...">
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; က လုပ်ပေးမှာက">

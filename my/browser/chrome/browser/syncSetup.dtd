@@ -98,13 +98,13 @@
 <!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "အကြုံပြုထားသည့်အရာများ">
 <!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.server.main.label      "အခြားကိရိယာများ ရှိ အချက်အလက်များအား ယခု ကိရိယာထဲရှိ အချက်အလက်များဖြင့် ဖယ်ရှားမည်။">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "အတည်ပြုပါ">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; သည် ယခုကိရိယာ၏ ဘယောက်ဆာ အချက်အလက်များအား ချိတ်ဆက်အကောင့်သို့ သယ်ယူသွားမည်။">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device will be deleted:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; သည် &syncBrand.fullName.label; မှအချက်အလက်အား ဤကိရိယာသို့ကူးယူမည်။">
 <!ENTITY confirm.server2.label         "သတိပေးချက်၊အောက်ပါကိရိယာများသည်သင်၏မူလအချက်အလက်များအထက်တွင်မှတ်သားသွားမည်ဖြစ်သည်။">
 <!-- New & Existing Account: Setup Complete -->
 
