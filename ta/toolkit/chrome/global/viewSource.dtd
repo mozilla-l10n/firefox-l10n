@@ -79,7 +79,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.label "இணைப்பு இடத்தை நகலெடு">
+<!ENTITY copyLinkCmd.accesskey "இ">
 <!ENTITY copyEmailCmd.label "மின்னஞ்சல் முகவரியை நகலெடு">
 <!ENTITY copyEmailCmd.accesskey "E">

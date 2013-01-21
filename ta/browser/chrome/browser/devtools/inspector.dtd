@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "இன்னர் HTML - ஐ நகலெடு">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "இ">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "வெளிப்புற HTML - ஐ நகலெடு">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "வ">
+
+<!ENTITY inspectorHTMLDelete.label          "கணுவை நீக்கு">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "ம்வுசைக் கொண்டு கூறைத் தேர்ந்தெடுக்கவும்">
