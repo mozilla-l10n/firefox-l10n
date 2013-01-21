@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Brabhsadh prìobhaideach">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Dh'fhosgail thu taba prìobhaideach ùr.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Chan ann air taba prìobhaideach a tha thu.">
+
+<!ENTITY privatebrowsingpage.description            "Cha chum &brandShortName; eachdraidh a' bhrabhsair, eachdraidh nan lorg, eachdraidh luchdaidh, eachdraidh fhoirmean-lìn, briosgaidean no faidhlichean-lìn sealach na chuimhne nuair a bhios tu air taba phrìobhaidich.  Ge-tà, thèid faidhlichean a luchdaicheas tu a-nuas agus comharran-lìn a nì thu a chumail.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Fhad 's nach bi clàr d' eachdraidh brabhsaidh air an uidheam seo, 's urrainn dhan t-solaraiche-lìn agad fios fhaighinn air na duilleagan a thadhail thu air.">
