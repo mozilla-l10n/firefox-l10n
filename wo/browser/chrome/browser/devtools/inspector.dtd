@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Duppi innerHTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Duppi Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Neenal tënk bi">
+<!ENTITY inspectorHTMLDelete.accesskey      "N">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">

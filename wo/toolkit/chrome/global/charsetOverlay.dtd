@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "P">
 <!ENTITY charsetMenuMore5.label        "Diggu penku">
 <!ENTITY charsetMenuMore5.accesskey    "D">
-<!ENTITY charsetMenuUnicode.label      "Unicode">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Solal lim gi…">
 <!ENTITY charsetCustomize.accesskey    "S">

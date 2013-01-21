@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label "Mandarga xëti orddinatëër">
 <!ENTITY bookmarks.folder.mobile.label "Mandarga xëti telefon">
 <!ENTITY bookmarks.folder.readinglist.label "Limu njàng">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Benn koont &syncBrand.fullName.label; rekk moon la ñu mëna saytu.">

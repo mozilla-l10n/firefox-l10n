@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Tàllalkatu web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "Konsol njumte yi">
 <!ENTITY errorConsoleCmd.accesskey    "s">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Konsolu Web">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "Konsolu web bu sori">
-
-<!ENTITY inspectMenu.label            "Seet">
-<!ENTITY inspectMenu.accesskey        "S">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Seetal mbir mii">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Tëja inspektëër bi">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Tëj pano wet gi">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
 <!ENTITY devToolbarMenu.label              "Banqaasu tallal">
 <!ENTITY devToolbarMenu.accesskey          "q">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "Jumtukaay yu gën bari">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Duppi innerHTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Duppi Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "Neenal tënk bi">
-<!ENTITY inspectorHTMLDelete.accesskey      "N">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "Séenu 3D">
-<!ENTITY inspect3DViewButton.accesskey "S">
-
-<!ENTITY inspectStyleButton.label     "Melin">
-<!ENTITY inspectStyleButton.accesskey "M">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Defarkatu melin">
-<!ENTITY styleeditor.accesskey        "k">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Am yeneeni jumtukaay">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Ubbi buum bi ci palanteer bu bees">
 <!ENTITY openLinkCmd.accesskey        "b">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Ubbi buum bi">
 <!ENTITY openLinkCmdInCurrent.accesskey "U">
 <!ENTITY openFrameCmdInTab.label      "Ubbi kaadar bi ci koñ bu bees">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Koñ bu bees">
 <!ENTITY newWindowButton.tooltip        "Palanteer bu bees">
-<!ENTITY sidebarCloseButton.tooltip     "Tëj pano wet gi">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "Dog">
 <!ENTITY copyButton.tooltip             "Duppi">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Yeneen xibaar…">
 
-<!ENTITY downloadMonitor2.tooltip "Cuqal ngir ubbi palanteeru yeb yi">
-
 <!ENTITY allTabs.filter.emptyText "Wut ci biir koñ yi">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Tëj banqaasu modil yi">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Markup">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Butoŋu banqaasu jumtukaay mbooloo">
 <!ENTITY social.notLoggedIn.label   "Jokkoowul">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "N">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
