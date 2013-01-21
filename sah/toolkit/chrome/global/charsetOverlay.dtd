@@ -16,10 +16,8 @@
 <!ENTITY charsetMenuMore3.label        "Илин Азия">
 <!ENTITY charsetMenuMore3.accesskey    "А">
 <!ENTITY charsetMenuMore4.label        "Соҕурууҥу-илин уонна соҕурууҥу-арҕаа Азия">
-<!ENTITY charsetMenuMore4.accesskey    " ">
+<!ENTITY charsetMenuMore4.accesskey    "С">
 <!ENTITY charsetMenuMore5.label        "Киин Азия">
 <!ENTITY charsetMenuMore5.accesskey    "А">
-<!ENTITY charsetMenuUnicode.label      "Юникод">
-<!ENTITY charsetMenuUnicode.accesskey  "Ю">
 <!ENTITY charsetCustomize.label        "Тиһик туруоруута...">
 <!ENTITY charsetCustomize.accesskey    "Т">

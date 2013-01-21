@@ -24,8 +24,8 @@
 <!ENTITY printCmd.label "Бэчээт…">
 <!ENTITY printCmd.accesskey "Б">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Close">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.label "Сап">
+<!ENTITY closeCmd.accesskey "С">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -55,8 +55,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
 <!ENTITY menu_highlightSyntax.accesskey "H">
-<!ENTITY menu_textSize.label "Text Size">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.label "Тиэкис кээмэйэ">
+<!ENTITY menu_textSize.accesskey "э">
 <!ENTITY menu_textEnlarge.label "Increase">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Decrease">
@@ -64,8 +64,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.label     "Бу сирэйгэ бул…">
+<!ENTITY findOnCmd.accesskey "б">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Хат көрдөө">
 <!ENTITY findAgainCmd.accesskey "к">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Tabs From Other Devices">
+<!ENTITY tabs.otherDevices.label               "Атын тэриллэртэн ылыллар кыбытыктар">
 
 <!ENTITY tabs.searchText.label                   "Кыбытыктары көрдөөһүн...">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
@@ -15,7 +15,7 @@
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "б">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Бу кыбытыгы бэлиэтээ...">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "Б">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ыйыллыбыт кыбытыктары бэлиэтээ...">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ыйыллыбыт кыбытыктары бэлиэтээ…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "б">
 <!ENTITY tabs.context.refreshList.label               "Тиһилиги саҥардан биэр">
 <!ENTITY tabs.context.refreshList.accesskey           "Т">

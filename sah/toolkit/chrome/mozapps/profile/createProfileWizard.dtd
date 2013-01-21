@@ -16,7 +16,7 @@
 
 <!ENTITY profileCreationIntro.text      "Хас да профиллээх буоллаххына тус туһунан ааттыаххын сөп. Ааты таларга аллара баары туһаныаххын сөп.">
 <!ENTITY profilePrompt.label            "Саҥа ааты суруй:">
-<!ENTITY profilePrompt.accesskey        " ">
+<!ENTITY profilePrompt.accesskey        "с">
 <!ENTITY profileDirectoryExplanation.text   "Эн туруорууларыҥ манна харалла сытыахтара:">
 <!ENTITY profileDefaultName             "Сүрүн аат">
 <!ENTITY button.choosefolder.label      "Паапканы талыы…">

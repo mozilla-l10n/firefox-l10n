@@ -57,5 +57,5 @@
 <!ENTITY report.failed                                       "Ыытыы табыллыбата.">
 <!ENTITY report.unavailable                                  "Туттуллар кыахтаах сруктар суохтар.">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "Билэ">
+<!ENTITY plugin.mimeTypes                                    "MIME көрүҥэ">

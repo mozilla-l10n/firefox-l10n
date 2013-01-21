@@ -58,7 +58,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Тибиэттии">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Бичик саамай кыра кээмэйэ:">
-<!ENTITY minSize.accesskey                        " ">
+<!ENTITY minSize.accesskey                        "и">
 <!ENTITY minSize.none                             "Суох">
 <!-- default font type -->
 
@@ -66,7 +66,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Эркээйитэ суох">
 
 <!ENTITY  allowPagesToUse.label                   "Ситим сирдэр бэйэлэрин бичиктэрин туруорары көҥүллээ">
-<!ENTITY  allowPagesToUse.accesskey               " ">
+<!ENTITY  allowPagesToUse.accesskey               "к">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Кодировка">
 <!ENTITY languages.customize.DefaultCharset.label       "Сүрүн кодировка:">

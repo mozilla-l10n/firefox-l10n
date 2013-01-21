@@ -12,7 +12,7 @@
 <!ENTITY     button.allow.label             "Көҥүллүүргэ">
 <!ENTITY     button.allow.accesskey         "К">
 <!ENTITY     button.session.label           "Бу сиэссийэҕэ көҥүллээ">
-<!ENTITY     button.session.accesskey       " ">
+<!ENTITY     button.session.accesskey       "с">
 <!ENTITY     button.deny.label              "Туорат">
 <!ENTITY     button.deny.accesskey          "р">
 

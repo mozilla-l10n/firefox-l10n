@@ -11,7 +11,7 @@
 <!ENTITY useCursorNavigation.label       "Курсор клавишаларын сирэйдэри көрөргө куруук туттарга">
 <!ENTITY useCursorNavigation.accesskey   "к">
 <!ENTITY searchStartTyping.label         "Тиэкиһи киллэрэ турдахха көрдөөн киирэн бар">
-<!ENTITY searchStartTyping.accesskey     " ">
+<!ENTITY searchStartTyping.accesskey     "а">
 <!ENTITY blockAutoRefresh.label          "Ситим-сирдэр атын сиргэ ыытаары эбэтэр хос хачайданаары гыннахтарына сэрэтээр">
 <!ENTITY blockAutoRefresh.accesskey      "-">
 
@@ -31,12 +31,12 @@
 <!ENTITY alwaysCheckDefault.label        "&brandShortName; сүрүн браузер буоларын холбуурга куруук тургут">
 <!ENTITY alwaysCheckDefault.accesskey    "р">
 <!ENTITY setDefault.label                "&brandShortName; браузеры куруук холбонор оҥор">
-<!ENTITY setDefault.accesskey            "d">
+<!ENTITY setDefault.accesskey            "е">
 <!ENTITY isDefault.label                 "Билигин куруук холбонор браузер - &brandShortName;">
 <!ENTITY submitCrashes.label             "Алдьаныы туһунан суруктары ыытарга">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.accesskey         "т">
 <!ENTITY submitTelemetry.label           "Хайдах үлэлиирин туһунан суруктары ыытарга">
-<!ENTITY submitTelemetry.accesskey       " ">
+<!ENTITY submitTelemetry.accesskey       "ы">
 
 <!ENTITY networkTab.label                "Ситим">
 
@@ -92,7 +92,7 @@
 <!ENTITY offlineNotify.label             "Ситим-сир холбоммокко үлэлииргэ анаан хачайданаары гыннаҕына биллэрээр">
 <!ENTITY offlineNotify.accesskey         "-">
 <!ENTITY offlineNotifyExceptions.label   "Туорааһыннар...">
-<!ENTITY offlineNotifyExceptions.accesskey ".">
+<!ENTITY offlineNotifyExceptions.accesskey "Т">
 
 <!ENTITY offlineAppsList2.label          "Бу ситим-сирдэр холбоммокко үлэлииргэ анаан хачайданыахтарын сөп:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -114,10 +114,10 @@
 <!ENTITY certs.ask                       "Сырыы аайы ыйыт">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Сэртипикээттэрин көрүү">
-<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCerts.accesskey             "С">
 <!ENTITY viewCRLs.label                  "CRL салайыы">
 <!ENTITY viewCRLs.accesskey              "C">
 <!ENTITY verify2.label                   "Бигэргэтии">
 <!ENTITY verify2.accesskey               "Б">
 <!ENTITY viewSecurityDevices.label       "Көмүскэл тэриллэрэ">
-<!ENTITY viewSecurityDevices.accesskey   " ">
+<!ENTITY viewSecurityDevices.accesskey   "м">

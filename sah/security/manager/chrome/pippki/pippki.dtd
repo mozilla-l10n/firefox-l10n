@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Change Master Password">
+<!ENTITY setPassword.title  "Маастар киирии тылы уларытарга">
 <!ENTITY setPassword.tokenName.label "Security Device">
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "New password:">
@@ -13,11 +13,11 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Хос">
-<!ENTITY resetPassword.title  "Reset Master Password">
+<!ENTITY resetPassword.title  "Маастар киирии тылы уларытарга">
 <!ENTITY resetPassword.text  "If you reset your master password, all your stored web and e-mail passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title  "Enter Master Password">
+<!ENTITY getPassword.title  "Маастар киирии тылын киллэр">
 <!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Password:">
 <!-- These should be common -->
@@ -41,7 +41,7 @@
 <!ENTITY downloadCert.trustEmail "Trust this CA to identify email users.">
 <!ENTITY downloadCert.trustObjSign "Trust this CA to identify software developers.">
 <!ENTITY downloadCert.message3 "Before trusting this CA for any purpose, you should examine its certificate and its policy and procedures (if available).">
-<!ENTITY downloadCert.viewCert.label "View">
+<!ENTITY downloadCert.viewCert.label "Көрүү">
 <!ENTITY downloadCert.viewPolicy.label "Policy">
 <!ENTITY downloadCert.viewCert.text "Examine CA certificate">
 <!ENTITY downloadCert.viewPolicy.text "Examine CA policies and procedures">
@@ -77,8 +77,8 @@
 <!ENTITY escrowWarn.message1 "Important: This certificate authority has asked to make a backup of your encryption private key.">
 <!ENTITY escrowWarn.benefit1 "The benefit is that if you lose access to your encryption private key, you can request a copy from this certificate authority.">
 <!ENTITY escrowWarn.message2 "However, your encryption private key will be stored by the certificate authority, and could be used to read your encrypted email or documents without your permission.">
-<!ENTITY examineCert.label "View Certificate">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.label "Сэртипикээттэрин көрүү">
+<!ENTITY examineCert.accesskey "р">
 
 <!ENTITY serverCrlNextupdate.message "Please ask your system administrator for assistance">
 <!-- Strings for the CreateCertInfo dialog  -->

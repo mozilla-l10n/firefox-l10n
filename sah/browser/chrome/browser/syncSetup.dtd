@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Урут маны &syncBrand.fullName.label; тутта сылдьыбытыҥ дуо?">
 <!ENTITY setup.choicePage.new.label       "Урут маны &syncBrand.shortName.label; туһамматаҕым">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "Маны &syncBrand.shortName.label; атын көмпүүтэргэ туһанабын">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Сиэрбэр">
@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync туруоруулара">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Тэрил аата:">
+<!ENTITY syncDeviceName.accesskey   "р">
 
 <!ENTITY syncMy.label               "Миэннэрин синхроннаа">
 <!ENTITY engine.bookmarks.label     "Бэлиэтээһиннэр">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Эбиискэлэр">
 <!ENTITY engine.addons.accesskey    "Э">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "Бу көмпүүтэр дааннайдарын маны &syncBrand.shortName.label; кытта холбуурга">
 <!ENTITY choice2.merge.recommended.label "Сүбэлэнэр:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.client.main.label      "Бу көмпүүтэр дааннайдарын бу &syncBrand.shortName.label; дааннаайдарынан солбуй">
+<!ENTITY choice2a.server.main.label      "Бу көмпүүтэргэ баар дааннайдарынан атын тэриллэр дааннайдарын солбуй">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Бигэргэт">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; Эн көмпүүтэриҥ браузерыгар баар дааннайдары Sync аккауҥҥун кытта холбуо.">
+<!ENTITY confirm.client3.label         "Сэрэтии: Бу көмпүүтэртэн &brandShortName; дааннайдара сотуллуо:">
+<!ENTITY confirm.client2.moreinfo.label "Онтон &brandShortName; Эн көмпүүтэргиттэн &syncBrand.fullName.label; дааннайдарын сурунуо.">
 <!ENTITY confirm.server2.label         "Сэрэтии: Бу тэриллэр тустарынан дааннайдар уларытыллыахтара:">
 <!-- New & Existing Account: Setup Complete -->
 

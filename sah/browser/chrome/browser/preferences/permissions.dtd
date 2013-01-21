@@ -16,7 +16,7 @@
 <!ENTITY block.label                  "Бүөлээ">
 <!ENTITY block.accesskey              "Б">
 <!ENTITY session.label                "Бу сиэссийэ кэмигэр көҥүллээ">
-<!ENTITY session.accesskey            " ">
+<!ENTITY session.accesskey            "с">
 <!ENTITY allow.label                  "Көҥүллүүргэ">
 <!ENTITY allow.accesskey              "К">
 <!ENTITY windowClose.key              "w">

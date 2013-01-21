@@ -28,8 +28,8 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "Кыбытыгы туттар">
+<!ENTITY  pinTab.accesskey                   "К">
 <!ENTITY  unpinTab.label                     "Кыбытыгы өһүл">
 <!ENTITY  unpinTab.accesskey                 "ы">
 <!ENTITY  moveToGroup.label                  "Бөлөххө көһөр">
@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "Б">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.label "Холбоммокко үлэ">
+<!ENTITY goOfflineCmd.accesskey "л">
 
 <!ENTITY menubarCmd.label "Меню хаптаһына">
 <!ENTITY menubarCmd.accesskey "М">
@@ -83,8 +83,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Толору экраан">
-<!ENTITY enterFullScreenCmd.accesskey "э">
+<!ENTITY enterFullScreenCmd.label "Толору экраанҥа киир">
+<!ENTITY enterFullScreenCmd.accesskey "Т">
 <!ENTITY exitFullScreenCmd.label "Толору экраантан таҕыс">
 <!ENTITY exitFullScreenCmd.accesskey "э">
 <!ENTITY fullScreenCmd.label "Толору экраан">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Түннүгү сап">
 <!ENTITY closeWindow.accesskey "с">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.label "Бэлиэлэр">
+<!ENTITY bookmarksMenu.accesskey "Б">
 <!ENTITY bookmarkThisPageCmd.label "Бу сирэйи бэлиэтээ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "Суруттар">
 <!ENTITY feedButton.tooltip           "Бу сирэйгэ суруттар...">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "Бэлиэлэр">
 <!ENTITY bookmarksButton.tooltip        "Бэлиэтээбит сирдэргин көрдөр">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -195,21 +195,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Э">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Веб-разработка">
-<!ENTITY webDeveloperMenu.accesskey   "б">
+<!ENTITY webDeveloperMenu.label       "Ситим сир оҥорооччу">
+<!ENTITY webDeveloperMenu.accesskey   "С">
+
+<!ENTITY devtoolsConnect.label        "Холбонуу…">
+<!ENTITY devtoolsConnect.accesskey    "н">
 
 <!ENTITY errorConsoleCmd.label        "Алҕастар консоллара">
 <!ENTITY errorConsoleCmd.accesskey    "к">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Ситимҥэ үлэни салайыы">
-<!ENTITY webConsoleCmd.accesskey      "С">
-<!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY inspectMenu.label            "Чинчий">
-<!ENTITY inspectMenu.accesskey        "Ч">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY remoteWebConsoleCmd.label    "Тэйиччи ситим-консоль">
 
 <!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Инспекторы сап">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
-<!ENTITY devToolbarMenu.label              "Сйыннарыы хаптала">
-<!ENTITY devToolbarMenu.accesskey          "й">
+<!ENTITY devToolbarMenu.label              "Сайыннарыы хаптала">
+<!ENTITY devToolbarMenu.accesskey          "а">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "Атын тэриллэр">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Ис HTML-ы төгүллээ">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "т">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Тас HTML-ы төгүллээ">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "т">
-
-<!ENTITY inspectorHTMLDelete.label          "Түмүгү сот">
-<!ENTITY inspectorHTMLDelete.accesskey      "Т">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D көстүү">
-<!ENTITY inspect3DViewButton.accesskey "к">
-
-<!ENTITY inspectStyleButton.label     "Стиль">
-<!ENTITY inspectStyleButton.accesskey "и">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Истиил эрэдээктэрэ">
-<!ENTITY styleeditor.accesskey        "л">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Атын үстүрүмүөннэр">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ү">
@@ -276,8 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Саҥа түннүк">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "С">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "Бүөмнээн көрүү саҥа түннүгэ">
+<!ENTITY newPrivateWindow.accesskey "с">
 
 <!ENTITY editMenu.label         "Уларытыы"> 
 <!ENTITY editMenu.accesskey       "У"> 
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "к">
 <!ENTITY openLinkCmd.label            "Саҥа түннүккэ арый">
 <!ENTITY openLinkCmd.accesskey        "т">
+<!ENTITY openLinkInPrivateWindowCmd.label "Саҥа бүөмнээн көрүү түннүгэр арый">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "т">
 <!ENTITY openLinkCmdInCurrent.label     "Сигэни арый">
 <!ENTITY openLinkCmdInCurrent.accesskey "С">
 <!ENTITY openFrameCmdInTab.label      "Фреймы саҥа кыбытыкка арый">
@@ -420,11 +394,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Видеону арый">
 <!ENTITY viewVideoCmd.accesskey       "н">
 <!ENTITY viewBGImageCmd.label         "Кэтэх ойууну арый">
-<!ENTITY viewBGImageCmd.accesskey     " ">
+<!ENTITY viewBGImageCmd.accesskey     "ы">
 <!ENTITY setDesktopBackgroundCmd.label      "Остуол ойуута гын…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "О">
 <!ENTITY bookmarkPageCmd2.label       "Бу сирэйи бэлиэтээ">
-<!ENTITY bookmarkPageCmd2.accesskey   " ">
+<!ENTITY bookmarkPageCmd2.accesskey   "б">
 <!ENTITY bookmarkThisLinkCmd.label      "Бу сигэни бэлиэтээ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Бу сирэйи бэлиэ-кыбытыктарга эп">
@@ -443,13 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.label            "Сигэни маннык бигэргэт…">
 <!ENTITY saveLinkCmd.accesskey        "б">
 <!ENTITY saveImageCmd.label           "Ойууну маннык бигэргэт…">
-<!ENTITY saveImageCmd.accesskey       " ">
+<!ENTITY saveImageCmd.accesskey       "О">
 <!ENTITY saveVideoCmd.label           "Видеону маннык бигэргэт…">
 <!ENTITY saveVideoCmd.accesskey       "м">
 <!ENTITY saveAudioCmd.label           "Аудиону маннык бигэргэт…">
 <!ENTITY saveAudioCmd.accesskey       "м">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "Ойууну эл. почтанан …">
+<!ENTITY emailImageCmd.accesskey      "н">
 <!ENTITY emailVideoCmd.label          "Email видео…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Email аудио…">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Саҥа кыбытыгы арый">
 <!ENTITY newWindowButton.tooltip        "Саҥа түннүгү арый">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Ойоҕос хапталы көстүбэт гын">
 
 <!ENTITY cutButton.tooltip              "Кырый">
 <!ENTITY copyButton.tooltip             "Төгүллээ">
@@ -614,15 +588,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Сиһилии...">
 
-<!ENTITY downloadMonitor2.tooltip "Маны баттаан хачайдыыры көрдөрөр түннүгү арый">
-
 <!ENTITY allTabs.filter.emptyText "Кыбытыктары көрдөөһүн">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузер кыбытыктара">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Атын тэриллэр кыбытыктара">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Эбиискэ хаптаһынын сап">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Бэлиэтээһин">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Социал-ситимнэр хапталлара">
 <!ENTITY social.notLoggedIn.label   "Бэлиэтэммэтэххин">
@@ -653,10 +616,20 @@ toolbar button -->
 <!ENTITY social.toggleSidebar.label "Ойоҕос хапталы көрдөр">
 <!ENTITY social.toggleSidebar.accesskey "О">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Биллэриилэри көрдөрөр буол">
+<!ENTITY social.toggleNotifications.accesskey "к">
 
 <!ENTITY social.activated.undobutton.label "Төннөр">
 <!ENTITY social.activated.undobutton.accesskey "Т">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Камера / Микрофон холбонуута">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

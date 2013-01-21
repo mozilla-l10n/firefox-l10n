@@ -54,11 +54,10 @@
 <!ENTITY site_security "Ситим-сир көмүскэлэ">
 
 <!ENTITY close_tab "Кыбытыгы сап">
-<!ENTITY new_tab "Саҥа кыбытык">
 <!ENTITY one_tab "1 кыбытык">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d кыбытык">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Саҥа кыбытык аһылынна">
 
 <!ENTITY settings "Туруоруулар">
@@ -69,22 +68,22 @@
 <!ENTITY pref_category_importexport "Импорт уонна экспорт">
 <!ENTITY pref_about_firefox "&brandShortName; туһунан ">
 <!ENTITY pref_do_not_track "Ситим-сирдэр миигин кэтээбэтиннэр">
-<!ENTITY pref_telemetry "Send performance data">
+<!ENTITY pref_telemetry "Хайдах үлэлиирин туһунан суруктары ыытарга">
 <!ENTITY pref_remember_signons "Киирии тылы өйдүүр буол">
 
 <!ENTITY pref_cookies_menu "Куукалар">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "Холбоммуттар">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "Араарыллыбыттар">
 
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Менюну көрдөр">
 <!ENTITY pref_char_encoding_off "Менюну кистээ">
 <!ENTITY pref_clear_private_data "Мин дааннайдарбын сот">
 <!ENTITY pref_plugins "Плагииннар">
-<!ENTITY pref_plugins_enabled "Enabled">
+<!ENTITY pref_plugins_enabled "Холбоммуттар">
 <!ENTITY pref_plugins_tap_to_play "Баттаатахха">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins_disabled "Араарыллыбыттар">
 <!ENTITY pref_text_size "Тиэкис кээмэйэ">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Быычыкаа">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Сирэйтэн бул">
 <!ENTITY desktop_mode "Ситим-сир толору барыла">
 <!ENTITY tools "Тэриллэр">
-<!ENTITY new_pb_tab "New Private Browsing Tab">
+<!ENTITY new_tab "Саҥа кыбытык">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Кыбытыктар">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Сап">
 
 <!ENTITY contextmenu_open_new_tab "Саҥа кыбытыкка арый ">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Ааҕарга арый">
 <!ENTITY contextmenu_remove_history "Сот">
 <!ENTITY contextmenu_remove_bookmark "Сот">
@@ -154,9 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Ук уонна онно бар">
 <!ENTITY contextmenu_paste "Ук">
 <!ENTITY contextmenu_copyurl "Аадырыһы төгүллээ">
-<!ENTITY contextmenu_edit_bookmark "Уларыт">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Сирэй сотуллубут">
 
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Ааспыкка аһыллыбыт кыбытыктар">
 <!ENTITY abouthome_last_tabs_open "Ааспыттааҕы кыбытыктары барытын арый">
 <!ENTITY abouthome_top_sites_title "Ситим-сирдэр топтара">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -237,11 +247,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Көрүү сурунаалын 
  Android-тан ылыы">
 <!ENTITY bookmarkhistory_import_wait "Кэтэһэ түс...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "Would you like to turn on &#037;s search suggestions?">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "App">
 

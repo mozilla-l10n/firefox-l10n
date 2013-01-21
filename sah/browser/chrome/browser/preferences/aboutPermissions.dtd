@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Куруук ыйытар буолаар">
 <!ENTITY permission.allow                "Көҥүллүүргэ">
 <!ENTITY permission.allowForSession      "Сиэссийэҕэ көҥүллүүргэ">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "Туора ситим-сирдэртэн куукаларын ылыма">
 <!ENTITY permission.block                "Бүөлээ">
 
 <!ENTITY password.label                  "Киирии тыллары долоҕойго угар буолаар">

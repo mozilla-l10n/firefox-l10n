@@ -8,21 +8,21 @@
 <!ENTITY content.title                             "Иһинээҕитэ">
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
+<!ENTITY enableJavaScript.title                    "JavaScript холбоо">
 <!ENTITY privacy.title                             "Тус эйгэ уонна көмүскэл">
 <!ENTITY allowCookies.title                        "Allow cookies">
 <!ENTITY doNotTrack.title                          "Ситим-сирдэр миигин кэтээбэтиннэр">
-<!ENTITY masterPassword.title                      "Use master password">
+<!ENTITY masterPassword.title                      "Маастар киири тылы туттарга">
 <!ENTITY clearPrivateData2.title                   "Мин дааннайдарбын сот">
 <!ENTITY clearPrivateData.button                   "Ыраастаа">
 <!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY language.title                            "Тыл">
+<!ENTITY language.auto                             "Бэйэтэ таллын">
 <!ENTITY defaultBrowser.title                      "Куруук туттуллар браузер">
 <!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
 <!ENTITY homepage.title                            "Start page">
 <!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
+<!ENTITY homepage.default                          "&brandShortName; сирэйдэрэ">
+<!ENTITY homepage.currentpage                      "Бу сирэйи туһан">
 <!ENTITY showCharsetEncoding.title                 "Show character encoding">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
+<!ENTITY actionbar.default                         "&brandShortName; көмө">

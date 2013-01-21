@@ -11,8 +11,8 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Көрдөөһүн:">
+<!ENTITY searchPrefs.accesskey "р">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
@@ -37,8 +37,8 @@
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Toggle">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "Reset">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.label "Хаттаан">
+<!ENTITY reset.accesskey "Х">
 <!ENTITY new.label "New">
 <!ENTITY new.accesskey "w">
 <!ENTITY string.label "String">

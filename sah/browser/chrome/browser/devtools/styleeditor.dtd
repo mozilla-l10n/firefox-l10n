@@ -14,16 +14,16 @@
      of the web page it is editing. -->
 
 
-<!ENTITY window.title               "Style Editor">
+<!ENTITY window.title               "Истиил эрэдээктэрэ">
 
 <!ENTITY newButton.label            "New">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "Import…">
+<!ENTITY importButton.label         "Импортааһын…">
 <!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
-<!ENTITY importButton.accesskey     "I">
+<!ENTITY importButton.accesskey     "м">
 <!ENTITY importButton.commandkey    "i">
 
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">

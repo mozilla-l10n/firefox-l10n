@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Хаттаан холбоо">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "Бэлиэтэммит ааккын салайыы">
+<!ENTITY manageAccount.accesskey      "Б">
 <!ENTITY viewQuota.label              "Муҥутуур кээмэйи көр">
 <!ENTITY changePassword2.label        "Киирии тылы уларыт...">
 <!ENTITY myRecoveryKey.label          "Сөргүтэр тылым">
@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "Э">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Тэрил аата:">
+<!ENTITY syncDeviceName.accesskey   "р">
 <!ENTITY unlinkDevice.label           "Бу тэрили араар">
 <!-- Footer stuff -->
 

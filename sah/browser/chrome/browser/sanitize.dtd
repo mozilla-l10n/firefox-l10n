@@ -42,19 +42,19 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.label       "Формалары толоруу уонна көрдөөһүн сурунаала">
 <!ENTITY itemFormSearchHistory.accesskey   "Ф">
 <!ENTITY itemPasswords.label               "Долоҕойго угуллубут киирии тыллар">
-<!ENTITY itemPasswords.accesskey           " ">
+<!ENTITY itemPasswords.accesskey           "р">
 <!ENTITY itemCookies.label                 "Куукалар">
 <!ENTITY itemCookies.accesskey             "у">
 <!ENTITY itemCache.label                   "Кэш">
 <!ENTITY itemCache.accesskey               "э">
 <!ENTITY itemOfflineApps.label             "Ситимэ суох көрдөрүллэр сирдэр">
-<!ENTITY itemOfflineApps.accesskey         " ">
+<!ENTITY itemOfflineApps.accesskey         "м">
 <!ENTITY itemDownloadHistory.label         "Хачайдааһын сурунаала">
 <!ENTITY itemDownloadHistory.accesskey     "с">
 <!ENTITY itemActiveLogins.label            "Аһаҕас бэлиэтэниилэр">
 <!ENTITY itemActiveLogins.accesskey        "б">
 <!ENTITY itemSitePreferences.label         "Ситим-сир туруоруулара">
-<!ENTITY itemSitePreferences.accesskey     " ">
+<!ENTITY itemSitePreferences.accesskey     "С">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->

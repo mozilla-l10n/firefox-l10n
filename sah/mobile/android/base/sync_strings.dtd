@@ -9,7 +9,7 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; холбонуу">
 <!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
 <!ENTITY sync.title.pair.label "Тэрили кытта холбос">
 <!-- J-PAKE Key Screen -->
@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label "Хайдах гынары көрдөр.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Тэрилим бэйэбин кытта суох…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -36,7 +36,7 @@
 <!ENTITY sync.input.server.label 'Server URL'>
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.fail.label "Сатаан &syncBrand.shortName.label; туруорбатым">
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
 <!ENTITY sync.button.tryagain.label 'Try again'>
 <!ENTITY sync.button.manual.label 'Manual Setup'>
@@ -67,7 +67,7 @@
 <!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
-<!ENTITY sync.button.cancel.label 'Cancel'>
+<!ENTITY sync.button.cancel.label "Салҕаама">
 <!ENTITY sync.button.connect.label 'Connect'>
 <!ENTITY sync.button.ok.label "Сөп">
 <!-- Account strings -->
@@ -78,11 +78,13 @@
 <!ENTITY bookmarks.folder.menu.label "Кыбытык-бэлиэлэр менюлара">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
+<!ENTITY bookmarks.folder.toolbar.label "Бэлиэтиир үстүрүмүөн">
 <!ENTITY bookmarks.folder.unfiled.label "Суортамматах бэлиэлэр">
 <!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
 <!ENTITY bookmarks.folder.mobile.label "Мобильнай кыбытык-бэлиэлэр">
 <!ENTITY bookmarks.folder.readinglist.label "Ааҕыы тиһилигэ">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
@@ -97,7 +99,7 @@
 
 <!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
 <!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
+<!ENTITY sync.button.set.up.sync.label "Бэйэҕэ табыгастаах гына туруор &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
 <!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>

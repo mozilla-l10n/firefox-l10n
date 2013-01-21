@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "Error Console">
+<!ENTITY errorConsole.title "Алҕастар консоллара">
 
 <!ENTITY errFile.label   "Төрүт билэ:">
 <!ENTITY errLine.label   "Устуруока:">
 <!ENTITY errColumn.label "Холуоҥка:">
 
-<!ENTITY all.label          "All">
-<!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Errors">
-<!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Warnings">
-<!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label     "Messages">
-<!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Clear">
-<!ENTITY clear.accesskey    "C">
-<!ENTITY codeEval.label     "Code:">
-<!ENTITY codeEval.accesskey "o">
+<!ENTITY all.label          "Барыта">
+<!ENTITY all.accesskey      "а">
+<!ENTITY errors.label       "Алҕастар">
+<!ENTITY errors.accesskey   "А">
+<!ENTITY warnings.label     "Сэрэтиилэр">
+<!ENTITY warnings.accesskey "р">
+<!ENTITY messages.label     "Суруктар">
+<!ENTITY messages.accesskey "С">
+<!ENTITY clear.label        "Ыраастаа">
+<!ENTITY clear.accesskey    "с">
+<!ENTITY codeEval.label     "Куод:">
+<!ENTITY codeEval.accesskey "о">
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
 <!ENTITY filter.label       "Filter">

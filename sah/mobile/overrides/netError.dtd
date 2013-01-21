@@ -117,7 +117,7 @@ be temporary, and you can try again later.</li>
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Куттал суох буоллун диэн хааччахтанна">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
 
 <!ENTITY corruptedContentError.title "Иһинээҕитэ туох эрэ алҕастаах">
 <!ENTITY corruptedContentError.longDesc "<p>Көрөөрү гыммыт сирэйиҥ сатаан хачайдаммата, тоҕо диэтэххэ биэрии кэмигэр туох эрэ алҕас таҕыста.</p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul>">

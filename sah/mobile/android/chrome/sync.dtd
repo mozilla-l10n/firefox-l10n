@@ -21,7 +21,7 @@
 <!ENTITY sync.customServer          "Use custom server">
 <!ENTITY sync.serverURL             "Server URL">
 <!ENTITY sync.setup.connect         "Connect">
-<!ENTITY sync.setup.cancel          "Cancel">
+<!ENTITY sync.setup.cancel          "Салҕаама">
 <!ENTITY sync.setup.tutorial        "Show me how">
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 

@@ -20,7 +20,7 @@
 
 
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "JavaScript судургу эрэдээктэрэ">
 
 <!ENTITY fileMenu.label               "Билэ">
 <!ENTITY fileMenu.accesskey           "Б">
@@ -39,19 +39,19 @@
 <!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "Save">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.label            "Бигэргэт">
+<!ENTITY saveFileCmd.accesskey        "Б">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Маннык бигэргэт…">
+<!ENTITY saveFileAsCmd.accesskey      "б">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "Сап">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "С">
 
-<!ENTITY editMenu.label               "Edit">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Көннөрүү">
+<!ENTITY editMenu.accesskey           "р">
 
 <!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
@@ -75,8 +75,8 @@
 <!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Content">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.label         "Иһинээҕитэ">
+<!ENTITY contentContext.accesskey     "И">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -84,14 +84,14 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "Көрүү">
+<!ENTITY browserContext.accesskey     "р">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenu.label               "Көмө">
+<!ENTITY helpMenu.accesskey           "К">
 <!ENTITY helpMenuWin.label            "Help">
 <!ENTITY helpMenuWin.accesskey        "H">
 
@@ -117,9 +117,3 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
-<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
-  -  the browser WebConsole, the key should be identical to the property of
-  -  the same name in browser.dtd.
-  -->
-
-<!ENTITY webConsoleCmd.commandkey     "k">

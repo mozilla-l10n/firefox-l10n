@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "э">
 <!ENTITY spellUndoAddToDictionary.label "Тылдьыкка эбиини суох гын">
 <!ENTITY spellUndoAddToDictionary.accesskey "б">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "Таба суруйуу">
+<!ENTITY spellCheckToggle.accesskey "с">
 <!ENTITY spellNoSuggestions.label "(барыллар көстүбэтилэр)">
 <!ENTITY spellDictionaries.label "Тыллар">
 <!ENTITY spellDictionaries.accesskey "Т">

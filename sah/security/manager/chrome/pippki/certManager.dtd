@@ -19,10 +19,10 @@
 <!ENTITY certmgr.cas                          "You have certificates on file that identify these certificate authorities:">
 <!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
-<!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.general_tab.title     "Сүрүн">
+<!ENTITY certmgr.detail.general_tab.accesskey "С">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Сиһилии">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "С">
 
 <!ENTITY certmgr.pending.label                "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label            "Issued To">
@@ -65,11 +65,11 @@
 <!ENTITY certmgr.tokenname                    "Security Device">
 <!ENTITY certmgr.issued                       "Issued On">
 <!ENTITY certmgr.expires                      "Expires On">
-<!ENTITY certmgr.email                        "E-Mail Address">
+<!ENTITY certmgr.email                        "Email аадырыһа">
 <!ENTITY certmgr.serial                       "Serial Number">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.label                  "Сап">
+<!ENTITY certmgr.close.accesskey              "а">
 <!ENTITY certmgr.view2.label                  "View…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
@@ -78,8 +78,8 @@
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Эп">
 <!ENTITY certmgr.add.accesskey                "Э">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.export.label                 "Экспортааһын…">
+<!ENTITY certmgr.export.accesskey             "п">
 <!ENTITY certmgr.delete2.label                "Delete…">
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
@@ -88,16 +88,16 @@
 <!ENTITY certmgr.backup2.accesskey            "С">
 <!ENTITY certmgr.backupall2.label             "Backup All…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.restore2.label               "Импортааһын…">
+<!ENTITY certmgr.restore2.accesskey           "м">
 <!ENTITY certmgr.details.label                "Certificate Fields">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Field Value">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.label           "Туорааһыны эп…">
+<!ENTITY certmgr.addException.accesskey       "Т">
 
 <!ENTITY exceptionMgr.title                   "Add Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
@@ -108,7 +108,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
-<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Көр…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

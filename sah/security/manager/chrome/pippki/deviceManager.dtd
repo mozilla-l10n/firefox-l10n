@@ -20,8 +20,8 @@
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Log Out">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "Change Password">
-<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.changepw.label           "Киирии тылы уларыт">
+<!ENTITY devmgr.button.changepw.accesskey       "а">
 <!ENTITY devmgr.button.load.label               "Load">
 <!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Unload">
@@ -34,7 +34,7 @@
 <!ENTITY loaddevice.modname.default             "New PKCS#11 Module">
 <!ENTITY loaddevice.filename                    "Module filename:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse                      "Көрүү…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "Load PKCS#11 Device">

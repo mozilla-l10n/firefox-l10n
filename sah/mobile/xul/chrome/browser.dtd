@@ -109,7 +109,7 @@
 <!ENTITY contextShareVideo.label      "Share Video">
 <!ENTITY contextPlayMedia.label       "Play">
 <!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextFullScreen.label      "Толору экраан">
 <!ENTITY contextEditBookmark.label    "Edit">
 <!ENTITY contextRemoveBookmark.label  "Сот">
 <!ENTITY contextShortcutBookmark.label "Add to Home Screen">

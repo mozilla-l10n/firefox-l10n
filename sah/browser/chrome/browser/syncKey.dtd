@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncKey.page.title               "Эн &syncBrand.fullName.label; күлүүһүҥ">
-<!ENTITY syncKey.page.description2        "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new device.">
+<!ENTITY syncKey.page.description2        "Манна &syncBrand.fullName.label; бэлиэтэммит ааккар киирэргэ туттуллар күлүүс. Бу күлүүһү &syncBrand.fullName.label; туруорууларын уларытаргар, атын көмпүүтэргэ эбэтэр тэрилгэ киирэргэ туттуохтааххын.">
 <!ENTITY syncKey.keepItSecret.heading     "Кистээн уура сырыт">
 <!ENTITY syncKey.keepItSecret.description "Манна &syncBrand.fullName.label; бэлиэтэммит аатыҥ шифрданна. Манна укпут информацияҕын бу күлүүһэ суох расшифровкалыырга сыллар ааһыахтара. Бу күлүүс Эйиэхэ эрэ баар. Ол аата манна &syncBrand.fullName.label; суруллубут дааннайдары Эн эрэ көрөр кыахтааххын.">
 <!ENTITY syncKey.keepItSafe.heading       "Харыстаа">
 <!ENTITY syncKey.keepItSafe1.description  "Сүтэримэ.">
 <!ENTITY syncKey.keepItSafe2.description  "Биһиги Эн күлүүскүн уура сыппаппыт (оччоҕо сатаан кистэниэ суох этэ!) онон ">
 <!ENTITY syncKey.keepItSafe3.description  "биһиги кинини сөргүтэр кыахпыт суох">
-<!ENTITY syncKey.keepItSafe4a.description " if it's lost. You'll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description " сүтэр түгэнигэр. Ханнык баҕарар саҥа көмпүүтэри эбэтэр атын тэрили манна &syncBrand.fullName.label; холбуургар бу күлүүһү киллэриэхтээххин.">
 <!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; туһунан манна билиэххин сөп ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Маны &syncBrand.fullName.label; туһаныы усулуобуйата манна сиһилии суруллубут ">

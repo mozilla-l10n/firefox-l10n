@@ -15,9 +15,9 @@
 <!ENTITY  WPADTypeRadio.label           "Бу ситим прокситын аптамаатынан туруор">
 <!ENTITY  WPADTypeRadio.accesskey       "с">
 <!ENTITY  manualTypeRadio.label         "Прокси туруорууларын бэйэ туруоруута:">
-<!ENTITY  manualTypeRadio.accesskey     " ">
+<!ENTITY  manualTypeRadio.accesskey     "б">
 <!ENTITY  autoTypeRadio.label           "Проксины аптамаатынан туруорар URL:">
-<!ENTITY  autoTypeRadio.accesskey       ":">
+<!ENTITY  autoTypeRadio.accesskey       "а">
 <!ENTITY  reload.label                  "Саҥарт">
 <!ENTITY  reload.accesskey              "ҥ">
 <!ENTITY  ftp.label                     "FTP прокси:">

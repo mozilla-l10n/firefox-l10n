@@ -7,6 +7,6 @@
 <!ENTITY aboutAddons.options                    "Опциялара">
 
 <!ENTITY addonAction.enable                     "Холбоо">
-<!ENTITY addonAction.disable                    "Disable">
+<!ENTITY addonAction.disable                    "Араар">
 <!ENTITY addonAction.uninstall                  "Сот">
 <!ENTITY addonAction.undo                       "Төннөр">

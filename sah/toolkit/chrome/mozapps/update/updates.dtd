@@ -69,14 +69,14 @@
 уга сатыыр. Бука диэн провайдергын кытта ситимнэһэн көмөтө көрдөө.">
 
 <!ENTITY  finishedPage.title              "Саҥардыы туруорарга бэлэм">
-<!ENTITY  finishedPage.text               "Саҥардыы аныгыскы хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
+<!ENTITY  finishedPage.text               "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
 &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; көмүскэлигэр уонна бигэ туруктаах буоларыгар 
 аналлаах саҥардыы хачайданна уонна туруорарга бэлэм.">
 <!ENTITY  finishedBackground.name         "Саҥардыы:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
+<!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин 
  &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
 <!ENTITY  installed.title                 "Саҥардыы туруорулунна">

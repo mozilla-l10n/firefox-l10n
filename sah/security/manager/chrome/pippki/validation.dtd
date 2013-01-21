@@ -11,10 +11,10 @@
 <!ENTITY  validation.crlautoupdatestatus.label    "Auto Update Status">
 <!ENTITY  validation.deletecrl.label              "Сот">
 <!ENTITY  validation.deletecrl.accesskey          "С">
-<!ENTITY  validation.updatecrl.label              "Update">
-<!ENTITY  validation.updatecrl.accesskey          "U">
-<!ENTITY  validation.advanced.label               "Settings">
-<!ENTITY  validation.advanced.accesskey           "S">
+<!ENTITY  validation.updatecrl.label              "Саҥардан биэр">
+<!ENTITY  validation.updatecrl.accesskey          "б">
+<!ENTITY  validation.advanced.label               "Туруоруулар">
+<!ENTITY  validation.advanced.accesskey           "Т">
 
 <!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Update for this CRL">

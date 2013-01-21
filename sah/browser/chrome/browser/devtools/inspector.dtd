@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Ис HTML-ы төгүллээ">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "т">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Тас HTML-ы төгүллээ">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "т">
+
+<!ENTITY inspectorHTMLDelete.label          "Түмүгү сот">
+<!ENTITY inspectorHTMLDelete.accesskey      "Т">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">

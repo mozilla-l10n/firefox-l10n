@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Ситим сирдэр бэйэлэрин өҥнөрүн тутталларын көҥүллээ">
-<!ENTITY  allowPagesToUse.accesskey       " ">
+<!ENTITY  allowPagesToUse.accesskey       "л">
 
 <!ENTITY  color                           "Тиэкис уона фон">
 <!ENTITY  textColor.label                 "Тиэкис:">
