@@ -137,8 +137,8 @@
 <!ENTITY returnReceiptMenu.accesskey "k">
 <!ENTITY dsnMenu.label "Njoftim Gjendjeje Shpërndarjeje">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY deliveryFormatMenu.label "Format Shpërndarjeje">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Vetëzbulo">
 <!ENTITY autoFormatCmd.accesskey "v">
 <!ENTITY plainTextFormatCmd.label "Vetëm Tekst të Thjeshtë">

@@ -27,9 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "G">
 <!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName; të kërkojë në mesazhet">
 <!ENTITY searchIntegration.accesskey   "L">
-
-<!ENTITY checkNow.label                "Kontrolloni Tani…">
-<!ENTITY checkNow.accesskey            "K">
+<!ENTITY checkDefaultsNow.label        "Kontrolloni Tani…">
+<!ENTITY checkDefaultsNow.accesskey    "K">
 <!ENTITY configEditDesc.label          "Formësim i Mëtejshëm">
 <!ENTITY configEdit.label              "Përpunues Formësimesh…">
 <!ENTITY configEdit.accesskey          "P">

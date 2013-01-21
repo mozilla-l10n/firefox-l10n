@@ -17,12 +17,12 @@
 <!ENTITY highestPriorityCmd.label "Më e madhe">
 
 <!ENTITY contextDesc.label "Zbatoje filtrin kur:">
-<!ENTITY contextDesc.accesskey "Z">
-<!ENTITY contextIncoming.label "Kontrollohet për Postë">
+<!ENTITY contextIncomingMail.label "Merret Postë e Re:">
+<!ENTITY contextIncomingMail.accesskey "M">
 <!ENTITY contextManual.label "Xhirohet Dorazi">
-<!ENTITY contextBoth.label "Kontrollohet për Postë ose Xhirohet Dorazi">
-<!ENTITY filterActionDesc.label "Kryej këto veprime:">
-<!ENTITY filterActionDesc.accesskey "K">
+<!ENTITY contextManual.accesskey "D">
+<!ENTITY contextBeforeCls.label "Filtroji përpara Klasifikimit Si të Pavlera">
+<!ENTITY contextAfterCls.label "Filtroji pas Klasifikimit Si të Pavlera">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Kaloje Mesazhin te">
@@ -53,7 +53,3 @@
  -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
-
-
-<!ENTITY contextPostPlugin.label "Kontrollim Poste (pas klasifikimi)">
-<!ENTITY contextPostPluginBoth.label "Kontrollim Poste (pas klasifikimi) ose Xhirim Dorazi">
