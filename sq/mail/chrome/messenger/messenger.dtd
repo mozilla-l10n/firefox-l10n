@@ -314,7 +314,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Fjalosje">
 <!ENTITY goChatCmd.accesskey "F">
-<!ENTITY goChatCmd.Key "I">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Dosje">
