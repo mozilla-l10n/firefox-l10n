@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label "Comharraidhean-lìn air an deasg">
 <!ENTITY bookmarks.folder.mobile.label "Comharran-lìn fòn-làimhe">
 <!ENTITY bookmarks.folder.readinglist.label "An liosta leughaidh">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">

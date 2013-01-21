@@ -54,11 +54,10 @@
 <!ENTITY site_security "Tèarainteachd na làraich">
 
 <!ENTITY close_tab "Dùin an taba">
-<!ENTITY new_tab "Taba ùr">
 <!ENTITY one_tab "1 taba">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d taba(ichean)">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
 
 <!ENTITY settings "Roghainnean">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
 <!ENTITY tools "Innealan">
-<!ENTITY new_pb_tab "Taba brabhsaidh prìobhaideach ùr">
+<!ENTITY new_tab "Taba ùr">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Tabaichean">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Dùin">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Fosgail san leughadair">
 <!ENTITY contextmenu_remove_history "Thoir air falbh">
 <!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
@@ -154,9 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
 <!ENTITY contextmenu_paste "Cuir ann">
 <!ENTITY contextmenu_copyurl "Dèan lethbhreac dhen t-seòladh">
-<!ENTITY contextmenu_edit_bookmark "Deasaich">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Duilleag air a thoirt air falbh">
 
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
 <!ENTITY abouthome_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
 <!ENTITY abouthome_top_sites_title "Sàr-làraichean">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -239,11 +249,10 @@ o Android">
 <!ENTITY bookmarkhistory_import_history "Ag ion-phortadh na h-eachdraidh 
 o Android">
 <!ENTITY bookmarkhistory_import_wait "Fuirich ort…">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "A bheil thu ag iarraidh molaidhean luirg o &#037;?">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "Aplacaid">
 
