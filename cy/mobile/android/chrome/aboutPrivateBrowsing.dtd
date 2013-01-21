@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Pori Preifat">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Rydych wedi agor tab preifat newydd.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Nid ydych mewn tab preifat.">
+
+<!ENTITY privatebrowsingpage.description            "Yn ystod sesiwn Pori Preifat ni fydd &brandShortName; yn cadw unrhyw hanes pori, hanes chwilio, hanes llwytho i lawr, hanes ffurflenni gwe, cwcis ne ffeiliau gwe dros dro. Er hynny, bydd ffeiliau sydd wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Tra na fydd gan y cyfrifiadur hwn gofnod o'ch hanes pori, bydd eich darparwr gwasanaeth rhyngrwyd a chyflogwr yn gallu olrhain y tudalennau fuoch iddynt.">

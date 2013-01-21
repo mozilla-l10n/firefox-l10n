@@ -103,8 +103,7 @@ cwci.</li>
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data a dderbyniwyd.</li> 
-<li>Cysylltwch â pherchnogion y wefan am y broblem hon, neu defnyddiwch y gorchymyn yn y ddewislen cymorth i adrodd ar y wefan yma.</li> 
-</ul>">
+<li>Cysylltwch â pherchnogion y wefan am y broblem hon. Yn lle hynny, defnyddiwch y gorchymyn yn y ddewislen cymorth i adrodd ar y wefan yma.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
