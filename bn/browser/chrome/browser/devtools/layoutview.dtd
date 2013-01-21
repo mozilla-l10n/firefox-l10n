@@ -16,6 +16,7 @@
 
 
 
+<!ENTITY title                  "Box Model">
 <!ENTITY margins.tooltip        "মার্জিন">
 <!ENTITY borders.tooltip        "সীমানা">
 <!ENTITY padding.tooltip        "প্যাডিং">

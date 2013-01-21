@@ -54,11 +54,10 @@
 <!ENTITY site_security "সাইটের নিরাপত্তা">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-<!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY one_tab "১ ট্যাব">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d ট্যাব">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
 
 <!ENTITY settings "সেটিং">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "পৃষ্ঠায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
 <!ENTITY tools "টুল">
-<!ENTITY new_pb_tab "নতুন একান্ত ব্রাউজিং ট্যাব">
+<!ENTITY new_tab "নতুন ট্যাব">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "ট্যাব">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "বন্ধ">
 
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "একটি রিডার খুলুন">
 <!ENTITY contextmenu_remove_history "অপসারণ">
 <!ENTITY contextmenu_remove_bookmark "অপসারণ">
@@ -154,9 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "প্রতিলেপন &amp; অগ্রসর">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
-<!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "পৃষ্ঠা অপসারণ করা হয়েছে">
 
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "শেষবারের মত আপনার ট্যাব">
 <!ENTITY abouthome_last_tabs_open "শেষবারের মত সকল ট্যাব খুলুন">
 <!ENTITY abouthome_top_sites_title "শীর্ষ সাইট">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -239,11 +249,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "এন্ড্রয়েড থেকে ইতিহাস
 ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্রহ করে অপেক্ষা করুন">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "আপনি কি &#037;s চালু করে পরামর্শ অনুসন্ধান করতে চান?">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "অ্যাপ">
 
