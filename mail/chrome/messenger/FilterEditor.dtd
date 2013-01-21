@@ -24,6 +24,9 @@
 <!ENTITY contextBeforeCls.label "Filtroji përpara Klasifikimit Si të Pavlera">
 <!ENTITY contextAfterCls.label "Filtroji pas Klasifikimit Si të Pavlera">
 
+<!ENTITY filterActionDesc.label "Kryej këto veprime:">
+<!ENTITY filterActionDesc.accesskey "K">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Kaloje Mesazhin te">
 <!ENTITY copyMessage.label "Kopjoje Mesazhin te">
