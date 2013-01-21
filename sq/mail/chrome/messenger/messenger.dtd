@@ -314,7 +314,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Fjalosje">
 <!ENTITY goChatCmd.accesskey "F">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.Key "I">
 <!ENTITY prevStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Dosje">
@@ -561,7 +561,7 @@
 <!ENTITY chatButton.tooltip "Shfaq skedën e Fjalosjeve">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
-<!ENTITY appmenuButton.tooltip "Shfaq Menunë e Zbatimeve">
+<!ENTITY appmenuButton1.tooltip "Shfaq Menunë e &brandShortName;-it">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Mesazh i Ri">
