@@ -471,7 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
 <!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.accesskey          "Z">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolbarOtherToolsButton.label  "Më Tepër Mjete">
@@ -562,8 +562,8 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY responsiveDesignTool.label   "Pamje Hartim Reagues">
-<!ENTITY responsiveDesignTool.accesskey "P">
+<!ENTITY responsiveDesignTool.label   "Pamje Hartimi Reagues">
+<!ENTITY responsiveDesignTool.accesskey "H">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 
@@ -577,8 +577,8 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Zhgarravina">
-<!ENTITY scratchpad.accesskey         "Z">
+<!ENTITY scratchpad.label             "Fletë e Papastër">
+<!ENTITY scratchpad.accesskey         "F">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
