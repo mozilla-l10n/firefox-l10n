@@ -39,4 +39,4 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Menu Zbatimesh">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Shfaq Menunë e Zbatimeve">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Shfaq Menunë e &brandShortName;-it">
