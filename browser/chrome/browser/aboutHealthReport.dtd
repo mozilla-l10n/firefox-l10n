@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY abouthealth.locale-direction "ltr">
+<!ENTITY abouthealth.pagetitle "Valutazione integrità di &brandShortName;">
+<!ENTITY abouthealth.header "Valutazione integrità di &brandFullName;">
+<!ENTITY abouthealth.intro.title "Che cos'è la valutazione integrità di &brandShortName;">
+<!ENTITY abouthealth.intro-enabled "Alcune informazioni relative al computer e all'utilizzo del browser vengono raccolte da &brandFullName; per migliorarne l'utilizzo.">
+<!ENTITY abouthealth.intro-disabled "Attualmente non viene inviato alcun dato a &vendorShortName;. Per contribuire al miglioramento di &brandShortName; è sufficiente fare clic sul pulsante &quot;&abouthealth.optin;&quot;.">
+<!ENTITY abouthealth.optin "Aiutaci a migliorare &brandShortName;">
+<!ENTITY abouthealth.optout "Disattiva valutazione integrità">
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Blocco invio informazioni">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Disattivare la valutazione integrità e rimuovere tutti i dati raccolti in forma anonima sui server di &vendorShortName;?">
+<!ENTITY abouthealth.show-raw-data "Mostra dettagli">
+<!ENTITY abouthealth.hide-raw-data "Nascondi dettagli">
+<!ENTITY abouthealth.show-report "Visualizza valutazione &brandShortName;">
+<!ENTITY abouthealth.details.description-start "Questi sono i dati inviati da &brandFullName; e necessari per il corretto funzionamento della valutazione integrità di &brandShortName;. Scopri ">
+<!ENTITY abouthealth.details-link "ulteriori informazioni">
+<!ENTITY abouthealth.details.description-end " sulle informazioni raccolte e inviate.">
+<!ENTITY abouthealth.no-data-available "Non risulta alcun dato precedentemente inviato. Ricontrollare in seguito.">
