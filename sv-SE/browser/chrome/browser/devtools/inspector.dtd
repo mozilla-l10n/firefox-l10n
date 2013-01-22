@@ -8,3 +8,6 @@
 <!ENTITY inspectorHTMLDelete.accesskey      "T">
 
 <!ENTITY inspector.selectButton.tooltip     "Välj element med musen">
+
+<!ENTITY inspectorSearchHTML.label          "Sök HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
