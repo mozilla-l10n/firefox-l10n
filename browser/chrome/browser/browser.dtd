@@ -198,8 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Cysylltu…">
+<!ENTITY devtoolsConnect.accesskey    "y">
 
 <!ENTITY errorConsoleCmd.label        "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey    "C">
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "D">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "Offer Toglo">
+<!ENTITY devToolboxMenuItem.accesskey      "O">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "Toglo offer datblygu">
 <!ENTITY devToolbarOtherToolsButton.label  "Rhagor o Offer">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Estyn Rhagor o Offer">
@@ -359,8 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Agor Dolen mewn Ffenestr Newydd">
 <!ENTITY openLinkCmd.accesskey        "F">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Agor Dolen mewn Ffenestr Breifat">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "F">
 <!ENTITY openLinkCmdInCurrent.label     "Agor Dolen">
 <!ENTITY openLinkCmdInCurrent.accesskey "D">
 <!ENTITY openFrameCmdInTab.label      "Agor Ffrâm mewn Tab Newydd">
@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Agor tab newydd">
 <!ENTITY newWindowButton.tooltip        "Agor Ffenestr Newydd">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Cau'r bar ochr">
 
 <!ENTITY cutButton.tooltip              "Torri">
 <!ENTITY copyButton.tooltip             "Copïo">
@@ -623,13 +623,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "D">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Canolbwynt sgyrsiau">
+<!ENTITY social.chatBar.accesskey "a">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.label "Meicroffon i'w rannu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Mynediad Camera / Meicroffon">
+<!ENTITY webrtcIndicatorButton.tooltip "Dangos gwefannau rydych yn rhannu eich camera â'ch meicroffon gyda nhw ar hyn o bryd">
