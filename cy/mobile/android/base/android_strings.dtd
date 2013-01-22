@@ -57,7 +57,7 @@
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "Tabiau &formatD;">
 <!ENTITY new_tab_opened "Tab newydd wedi ei agor">
 
 <!ENTITY settings "Gosodiadau">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Mae\\'r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\'r We.">
+<!ENTITY pref_font_size_preview_text "Mae\'r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\'r We.">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_show_product_announcements "Dangos cyhoeddiadau cynnyrch">
@@ -136,14 +136,14 @@ size. -->
 <!ENTITY desktop_mode "Gofyn am Wefan Lawn">
 <!ENTITY tools "Offer">
 <!ENTITY new_tab "Tab Newydd">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "Tab Preifat Newydd">
+<!ENTITY close_all_tabs "Cau Pob Tab">
 <!ENTITY tabs_normal "Tabiau">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY tabs_private "Preifat">
+<!ENTITY tabs_synced "Cydweddwyd">
+<!ENTITY wallpaper_success "Diweddarwyd y Papur Wal">
+<!ENTITY wallpaper_progress "Gosod papur wal">
+<!ENTITY wallpaper_fail "Methu gosod y papur wal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -153,7 +153,7 @@ size. -->
 <!ENTITY find_close "Cau">
 
 <!ENTITY contextmenu_open_new_tab "Agor mewn Tab Newydd">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
 <!ENTITY contextmenu_open_in_reader "Agor yn y Darllenydd">
 <!ENTITY contextmenu_remove_history "Tynnu">
 <!ENTITY contextmenu_remove_bookmark "Tynnu">
@@ -162,7 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
 <!ENTITY contextmenu_paste "Gludo">
 <!ENTITY contextmenu_copyurl "Copïo Cyfeiriad">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "Golygu">
 
 <!ENTITY history_removed "Wedi tynnu\'r dudalen">
 
@@ -200,10 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Eich tabiau o’r tro diwethaf">
 <!ENTITY abouthome_last_tabs_open "Agor pob tab ers y tro diwethaf">
 <!ENTITY abouthome_top_sites_title "Hoff wefannau">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_edit "Golygu">
+<!ENTITY abouthome_topsites_pin "Pinio Gwefan">
+<!ENTITY abouthome_topsites_unpin "Dad-binio Gwefan">
+<!ENTITY abouthome_topsites_unpinall "Dad-binio Pob Un">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -252,7 +252,7 @@ o Android">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "Hoffech chi gychwyn awgrymiadau chwilio &formatS;?">
 
 <!ENTITY webapp_generic_name "Ap">
 

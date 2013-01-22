@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Nodau Tudalen Symudol">
 <!ENTITY bookmarks.folder.readinglist.label "Rhestr Ddarllen">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "Piniwyd">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Dim ond un cyfrif &syncBrand.fullName.label; sy’n cael ei gynnal.">
