@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY abouthealth.locale-direction "ltr">
+<!ENTITY abouthealth.pagetitle "Valutaçión da integritæ de &brandShortName;">
+<!ENTITY abouthealth.header "Valutaçión integritæ de &brandFullName;">
+<!ENTITY abouthealth.intro.title "Che cös'o l'é a valutaçión d'integritæ de &brandShortName;">
+<!ENTITY abouthealth.intro-enabled "Gh'é de informaçioìn in sciô computer e a l'ûzo do navegatô che végnan arecogéite da &brandFullName; pe megiorâne l'ûzo.">
+<!ENTITY abouthealth.intro-disabled "Òua o no végne mandòu nisciùn dæto a &vendorShortName;. Pe contribuî a-o megioraménto de &brandShortName;  Bàsta che ti sciàcchi o poméllo &quot;&abouthealth.optin;&quot;.">
+<!ENTITY abouthealth.optin "Agiùttine a megiorâ o &brandShortName;">
+<!ENTITY abouthealth.optout "Dizatîva valutaçión d'integritæ">
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Blòcco trasmisción informaçioìn">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Dizativâ a valutaçión d'integritæ e scancelâ tùtti i dæti arecogéiti in fórma anònima in sci server de &vendorShortName;?">
+<!ENTITY abouthealth.show-raw-data "Fànni védde detàlli">
+<!ENTITY abouthealth.hide-raw-data "Ascóndi detàlli">
+<!ENTITY abouthealth.show-report "Véddi valutaçión de &brandShortName;">
+<!ENTITY abouthealth.details.description-start "Sti chi én i dæti mandæ da &brandFullName; e necesâi pe-o bón fonçionaménto da valutaçión d'integritæ de &brandShortName;. Descòvri ">
+<!ENTITY abouthealth.details-link "âtre informaçioìn">
+<!ENTITY abouthealth.details.description-end " in sce informaçioìn arecogéite a mandæ.">
+<!ENTITY abouthealth.no-data-available "No gh'é nisciùn dæto che t'æ mandòu prìmma de òua. Contròlla dòppo.">
