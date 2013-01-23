@@ -198,25 +198,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label "Forbróir Gréasáin">
 <!ENTITY webDeveloperMenu.accesskey "F">
 
+<!ENTITY devtoolsConnect.label "Ceangail…">
+<!ENTITY devtoolsConnect.accesskey "e">
+
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY webConsoleCmd.label "Consól Gréasáin">
-<!ENTITY webConsoleCmd.accesskey "G">
-<!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY remoteWebConsoleCmd.label "Consól Gréasáin i gCéin">
-
-<!ENTITY inspectMenu.label "Scrúdaigh">
-<!ENTITY inspectMenu.accesskey "S">
-<!ENTITY inspectMenu.commandkey "I">
 
 <!ENTITY inspectContextMenu.label "Scrúdaigh Eilimint">
 <!ENTITY inspectContextMenu.accesskey "S">
 
 <!ENTITY responsiveDesignTool.label "Dearadh Sofhreagrach">
 <!ENTITY responsiveDesignTool.accesskey "D">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.commandkey "B">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Dún an Scrúdaitheoir">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Dún an barra taoibh">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Dún an Barra Uirlisí d'Fhorbróirí">
 <!ENTITY devToolbarMenu.label "Barra Uirlisí d'Fhorbróirí">
 <!ENTITY devToolbarMenu.accesskey "b">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
+<!ENTITY devToolboxMenuItem.label "Scoránaigh Uirlisí">
+<!ENTITY devToolboxMenuItem.accesskey "c">
+
+<!ENTITY devToolbarToolsButton.tooltip "Scoránaigh uirlisí forbartha">
 <!ENTITY devToolbarOtherToolsButton.label "Tuilleadh Uirlisí">
-
-<!ENTITY inspectorHTMLCopyInner.label "Cóipeáil HTML Istigh">
-<!ENTITY inspectorHTMLCopyInner.accesskey "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label "Cóipeáil HTML Amuigh">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "A">
-
-<!ENTITY inspectorHTMLDelete.label "Scrios Nód">
-<!ENTITY inspectorHTMLDelete.accesskey "S">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label "Amharc 3T">
-<!ENTITY inspect3DViewButton.accesskey "c">
-
-<!ENTITY inspectStyleButton.label "Stíl">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label "Eagarthóir Stíle">
-<!ENTITY styleeditor.accesskey "S">
-<!ENTITY styleeditor.keycode "VK_F7">
-<!ENTITY styleeditor.keytext "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label "Faigh Tuilleadh Uirlisí">
 <!ENTITY getMoreDevtoolsCmd.accesskey "T">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey "C">
 <!ENTITY openLinkCmd.label "Oscail an Nasc i bhFuinneog Nua">
 <!ENTITY openLinkCmd.accesskey "F">
+<!ENTITY openLinkInPrivateWindowCmd.label "Oscail an Nasc i bhFuinneog Nua Phríobháideach">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label "Oscail Nasc">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label "Oscail an Fráma i gCluaisín Nua">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Tuilleadh Eolais…">
 
-<!ENTITY downloadMonitor2.tooltip "Cliceáil chun fuinneog na n-íosluchtuithe a oscailt">
-
 <!ENTITY allTabs.filter.emptyText "Cuardaigh Cluaisíní">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip "Dún Barra na mBreiseán">
 <!ENTITY toggleAddonBarCmd.key "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel "Marcáil">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey "M">
 
 <!ENTITY socialToolbar.title "Cnaipe Barra Shóisialta">
 <!ENTITY social.notLoggedIn.label "Níl tú logáilte isteach">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "C">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Cuir comhráite i bhfócas">
+<!ENTITY social.chatBar.accesskey "C">
+
+<!ENTITY getUserMedia.selectCamera.label "Ceamara le comhroinnt:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Micreafón le comhroinnt:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Rochtain ar Cheamara / Micreafón">
+<!ENTITY webrtcIndicatorButton.tooltip "Taispeáin na suímh a bhfuil tú ag comhroinnt do cheamara agus do mhicreafón leo">
