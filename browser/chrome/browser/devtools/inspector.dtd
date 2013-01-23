@@ -11,4 +11,7 @@
 <!ENTITY inspectorHTMLDelete.label          "Supprimer le nœud">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
-<!ENTITY inspector.selectButton.tooltip     "Sélectionner l'élément avec la souris">
+<!ENTITY inspector.selectButton.tooltip     "Sélectionner un élément avec la souris">
+
+<!ENTITY inspectorSearchHTML.label          "Rechercher dans le HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
