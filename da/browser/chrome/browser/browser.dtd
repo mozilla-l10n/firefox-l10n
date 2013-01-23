@@ -631,4 +631,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!ENTITY webrtcIndicatorButton.label "Adgang til kamera / mikrofon">
-<!ENTITY webrtcIndicatorButton.tooltip "Vi de websteder, som du i øjeblikket deler dit kamera og/eller din mikrofon med">
+<!ENTITY webrtcIndicatorButton.tooltip "Vis de websteder, som du i øjeblikket deler dit kamera og/eller din mikrofon med">

@@ -13,7 +13,7 @@
 
 <!ENTITY privatebrowsingpage.description               "I en privat browsing-session vil &brandShortName; ikke gemme informationer om hvor du har været, hvad du har søgt efter, hentet eller indtastet i formularer. Der bliver heller ikke gemt cookies eller midlertidige internetfiler. Hentede filer og nyoprettede bogmærker vil dog blive gemt.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "I et privat browsing-vindue vil &brandShortName; ikke gemme informationer om hvilke hjemmesider du har besøgt, hvad du har søgt efter, hvilke filer du har hentet eller hvad du har indtastet i formularer. Der bliver heller ikke gemt midlertidige cookies eller midlertidige internetfiler. Hentede filer og nyoprettede bogmærker vil dog blive gemt.">
+<!ENTITY privatebrowsingpage.perwindow.description     "I et privat browsing-vindue vil &brandShortName; ikke gemme informationer om, hvilke hjemmesider du har besøgt, hvad du har søgt efter, hvilke filer du har hentet eller hvad du har indtastet i formularer. Der bliver heller ikke gemt midlertidige cookies eller midlertidige internetfiler. Hentede filer og nyoprettede bogmærker vil dog blive gemt.">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat browsing">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
