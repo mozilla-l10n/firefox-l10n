@@ -42,8 +42,3 @@
 
 <!ENTITY openLinkCmd.label "Ouvrir le lien…">
 <!ENTITY openLinkCmd.accesskey "O">
-
-log.today=Aujourd'hui
-log.yesterday=Hier
-log.lastWeek=Ces 7 derniers jours
-log.twoWeeksAgo=Ces 15 derniers jours
