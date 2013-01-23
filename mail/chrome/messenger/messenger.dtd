@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Taispeáin an cluaisín Comhrá">
 <!ENTITY tagButton.tooltip "Clibeáil Teachtaireachtaí">
 <!ENTITY compactButton.tooltip "Bain teachtaireachtaí scriosta den fhillteán roghnaithe">
-<!ENTITY appmenuButton.tooltip "Taispeáin an Roghchlár Feidhmchlár">
+<!ENTITY appmenuButton1.tooltip "Taispeáin an Roghchlár &brandShortName;">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
