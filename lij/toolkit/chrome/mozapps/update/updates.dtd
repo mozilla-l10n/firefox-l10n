@@ -9,7 +9,7 @@
 
 <!ENTITY  noupdatesfound.title            "No ò trovòu i agiornaménti">
 <!ENTITY  noupdatesautoenabled.intro      "No gh'é di agiornaménti. &brandShortName; contròlîa
-                                           periodicamente pe-i agiornaménti.">
+                                           periòdicaménte pe-i agiornaménti.">
 <!ENTITY  noupdatesautodisabled.intro     "No gh'é di agiornaménti. Pe favô contròlla ancón dòppo ò abìlita
                                            o contròllo aotomàtico di agiornaménti de &brandShortName;.">
 
@@ -22,7 +22,7 @@
                                            ma ti no ti gh'æ de spàçio pe instalâlo.">
 <!ENTITY  manualUpdateGetMsg.label        "ti peu de lóngo pigiâ l'ùrtima versción de &brandShortName; in:">
 
-<!ENTITY  incompatibleCheck.title         "Contròllo a compatibilitæ di conponénti azónti">
+<!ENTITY  incompatibleCheck.title         "Contròllo a conpatibilitæ di conponénti azónti">
 <!ENTITY  incompatibleCheck.label         "Çèrco nêuve versción pe-i teu conponénti azónti…">
 
 <!ENTITY  clickHere.label                 "Fànni védde ciù informaçióin in sce agiornaménto">
