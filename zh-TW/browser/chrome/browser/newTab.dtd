@@ -4,4 +4,8 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "新分頁">
+<!ENTITY newtab.undo.removedLabel "已移除縮圖。">
+<!ENTITY newtab.undo.undoButton "還原。">
+<!ENTITY newtab.undo.restoreButton "全部恢復。">
+<!ENTITY newtab.undo.closeTooltip "隱藏">
 
