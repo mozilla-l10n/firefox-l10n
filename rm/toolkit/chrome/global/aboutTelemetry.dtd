@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Datas da 'Telemetry'">
+
+<!ENTITY aboutTelemetry.pageSubtitle "
+  Questa pagina mussa las datas rimnadas da 'Telemetry' davart la prestaziun ed utilisaziun da funcziuns.
+  Questas datas vegnan tramessas anonimamain a Mozilla per gidar a meglierar &brandShortName;.
+">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "
+  Telemetry è <span>activà</span>.
+">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "
+  Telemetry è <span>deactivà</span>.
+">
+
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Statements da SQL plauns
+">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Bloccadas dal navigatur
+">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  Histograms
+">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  Mesiraziuns simplas
+">
+
+<!ENTITY aboutTelemetry.systemInfoSection "
+  Infurmaziuns dal sistem
+">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "
+  Histograms rimnads da supplements
+">
+
+<!ENTITY aboutTelemetry.toggleOn "
+  Clicca per extender la secziun
+">
+
+<!ENTITY aboutTelemetry.toggleOff "
+  Clicca per cumprimer la secziun
+">
+
+<!ENTITY aboutTelemetry.emptySection "
+  (Rimnà naginas datas)
+">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart, ma quests na vegnan betg tramess a Telemetry.
+">
+
+<!ENTITY aboutTelemetry.fetchSymbols "
+  Mussar ils nums da funcziuns per stacks da bloccadas
+">
+
+<!ENTITY aboutTelemetry.hideSymbols "
+  Mussar las datas bruttas da las bloccadas
+">
