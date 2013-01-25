@@ -11,9 +11,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://ka.wikipedia.org/wiki/Special:Search">
+<Url type="text/html" method="GET" template="http://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9E%E1%83%94%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98:%E1%83%AB%E1%83%98%E1%83%94%E1%83%91%E1%83%90">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://ka.wikipedia.org/wiki/Special:Search</SearchForm>
+<SearchForm>http://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9E%E1%83%94%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98:%E1%83%AB%E1%83%98%E1%83%94%E1%83%91%E1%83%90</SearchForm>
 </SearchPlugin>
