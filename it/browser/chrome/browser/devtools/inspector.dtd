@@ -5,3 +5,5 @@
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
 <!ENTITY inspector.selectButton.tooltip "Seleziona un elemento con il mouse">
+<!ENTITY inspectorSearchHTML.label "Cerca in HTML">
+<!ENTITY inspectorSearchHTML.key "F">
