@@ -330,7 +330,7 @@
 <!ENTITY emailAudioCmd.label "Invia audio per email…">
 <!ENTITY emailAudioCmd.accesskey "n">
 <!ENTITY playPluginCmd.label "Attiva questo plugin">
-<!ENTITY playPluginCmd.accesskey "A">
+<!ENTITY playPluginCmd.accesskey "l">
 <!ENTITY hidePluginCmd.label "Nascondi questo plugin">
 <!ENTITY hidePluginCmd.accesskey "N">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
