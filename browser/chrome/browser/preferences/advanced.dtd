@@ -25,10 +25,6 @@
 <!ENTITY systemDefaults.label            "Por defeutu">
 <!ENTITY alwaysCheckDefault.label        "Comprobar nel aniciu si &brandShortName; ye'l restolador por defeutu"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "m">
-<!ENTITY submitCrashes.label             "Unviar informes de fallos">
-<!ENTITY submitCrashes.accesskey         "U">
-<!ENTITY submitTelemetry.label           "Unviar información de rendimientu">
-<!ENTITY submitTelemetry.accesskey "m">
 <!ENTITY networkTab.label                "Rede">
 
 <!ENTITY connection.label                "Conexón">
