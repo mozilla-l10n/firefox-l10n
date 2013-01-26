@@ -36,3 +36,7 @@
 <!ENTITY debuggerUI.panesButton.tooltip "Camudar paneles">
 <!ENTITY debuggerUI.addWatch.key "E">
 <!ENTITY debuggerUI.addWatch "Amestar espresión de vixilancia">
+<!ENTITY debuggerUI.stepping.stepOver "VK_F7">
+<!ENTITY debuggerUI.stepping.stepOut "VK_F8">
+<!ENTITY debuggerUI.stepping.stepIn "VK_F8">
+<!ENTITY debuggerUI.stepping.resume "VK_F6">
