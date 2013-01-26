@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "När mushjulet används">
+<!ENTITY mouseWheelGroup.label           "Vertikal rullning">
+<!ENTITY mouseWheelHorizGroup.label      "Horisontell rullning">
+<!ENTITY sameAsVertical.label            "Samma som vertikal rullning">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Gör ingenting">
 <!ENTITY doNothing.accesskey             "G">
+<!ENTITY doNothingHoriz.accesskey        "i">
 <!ENTITY scrollDocument.label            "Rulla dokumentet">
 <!ENTITY scrollDocument.accesskey        "R">
+<!ENTITY scrollDocumentHoriz.accesskey   "d">
 <!ENTITY history.label                   "Gå bakåt eller framåt i historiken">
 <!ENTITY history.accesskey               "k">
+<!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "Zooma in eller ut sidan">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY mouseWheelSpeed.label           "Mushjulets känslighet">
-<!ENTITY verticalSpeed.label             "Vertikalt:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Omvänd riktning">
-<!ENTITY verticalReverse.accesskey       "r">
-<!ENTITY horizontalSpeed.label           "Horisontellt:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Omvänd riktning">
-<!ENTITY horizontalReverse.accesskey     "m">
+<!ENTITY zoomHoriz.accesskey             "u">
+<!ENTITY wheelSpeed.label                "Mushjulets känslighet">
+<!ENTITY wheelSpeed.accesskey            "k">
+<!ENTITY wheelSpeedHoriz.accesskey       "h">
+<!ENTITY reverseDirection.label          "Omvänd riktning">
+<!ENTITY reverseDirection.accesskey      "m">
+<!ENTITY reverseDirectionHoriz.accesskey "n">
