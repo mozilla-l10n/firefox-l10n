@@ -4,6 +4,6 @@
 
 <!ENTITY newtab.pageTitle "Новая вкладка">
 <!ENTITY newtab.undo.removedLabel "Миниатюрка удалена.">
-<!ENTITY newtab.undo.undoButton "Отменить?">
-<!ENTITY newtab.undo.restoreButton "Восстановить все?">
+<!ENTITY newtab.undo.undoButton "Отменить.">
+<!ENTITY newtab.undo.restoreButton "Восстановить все.">
 <!ENTITY newtab.undo.closeTooltip "Скрыть">

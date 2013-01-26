@@ -5,3 +5,5 @@
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
+<!ENTITY inspectorSearchHTML.label "Поиск HTML">
+<!ENTITY inspectorSearchHTML.key "F">
