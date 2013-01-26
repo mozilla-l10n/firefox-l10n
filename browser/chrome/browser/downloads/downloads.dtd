@@ -26,3 +26,5 @@
 <!ENTITY cmd.clearDownloads.accesskey "D">
 <!ENTITY clearDownloadsButton.tooltip "Llimpia les descargues completes, encaboxaes y fallíes">
 <!ENTITY clearDownloadsButton.label "Llimpiar descargues">
+<!ENTITY downloadsListNoMatch.label "Nun s'atopa denguan descarga que concase.">
+<!ENTITY downloadsListEmpty.label "Nun hai descargues.">
