@@ -4,14 +4,14 @@
 
 <!ENTITY pref.download.title "Download">
 <!ENTITY downloadBehavior.label "All'avvio di un download">
-<!ENTITY focusWhenStarting.label "Fai lampeggiare la gestione download se è già aperta, altrimenti:">
-<!ENTITY focusWhenStarting.accesskey "F">
-<!ENTITY openDM.label "Apri Gestione download">
-<!ENTITY openDM.accesskey "d">
-<!ENTITY openProgressDialog.label "Apri una finestra con lo stato del download">
-<!ENTITY openProgressDialog.accesskey "A">
 <!ENTITY doNothing.label "Non aprire nulla">
 <!ENTITY doNothing.accesskey "o">
+<!ENTITY openProgressDialog.label "Apri una finestra con lo stato del download">
+<!ENTITY openProgressDialog.accesskey "A">
+<!ENTITY openDM.label "Apri Gestione download">
+<!ENTITY openDM.accesskey "d">
+<!ENTITY flashWhenOpen.label "Mostra Gestione download se è già aperta">
+<!ENTITY flashWhenOpen.accesskey "w">
 <!ENTITY downloadLocation.label "Prima di salvare un file">
 <!ENTITY saveTo.label "Salva file in">
 <!ENTITY saveTo.accesskey "v">
