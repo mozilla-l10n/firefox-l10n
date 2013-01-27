@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title "Stahování">
 <!ENTITY aboutDownloads.header "Stahování">
 <!ENTITY aboutDownloads.empty "Žádné stažené položky">
+
+<!ENTITY aboutDownloads.open "Otevřít">
+<!ENTITY aboutDownloads.remove "Smazat">
+<!ENTITY aboutDownloads.removeAll "Smazat vše">
+<!ENTITY aboutDownloads.pause "Pozastavit">
+<!ENTITY aboutDownloads.resume "Obnovit">
+<!ENTITY aboutDownloads.cancel "Zrušit">
+<!ENTITY aboutDownloads.retry "Opakovat">
