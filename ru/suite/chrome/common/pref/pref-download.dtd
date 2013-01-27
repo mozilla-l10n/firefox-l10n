@@ -4,14 +4,14 @@
 
 <!ENTITY pref.download.title "Загрузки">
 <!ENTITY downloadBehavior.label "При начале загрузки">
-<!ENTITY focusWhenStarting.label "Мигнуть окном управления загрузками, если оно уже открыто, иначе:">
-<!ENTITY focusWhenStarting.accesskey "н">
-<!ENTITY openDM.label "Открывать окно управления загрузками">
-<!ENTITY openDM.accesskey "к">
-<!ENTITY openProgressDialog.label "Открывать диалоговое окно состояния загрузки">
-<!ENTITY openProgressDialog.accesskey "в">
 <!ENTITY doNothing.label "Не открывать ничего">
 <!ENTITY doNothing.accesskey "е">
+<!ENTITY openProgressDialog.label "Открывать диалоговое окно состояния загрузки">
+<!ENTITY openProgressDialog.accesskey "в">
+<!ENTITY openDM.label "Открывать окно управления загрузками">
+<!ENTITY openDM.accesskey "к">
+<!ENTITY flashWhenOpen.label "Просто мигнуть окном управления загрузками, если оно уже открыто">
+<!ENTITY flashWhenOpen.accesskey "н">
 <!ENTITY downloadLocation.label "При сохранении файла">
 <!ENTITY saveTo.label "Путь для сохранения файлов">
 <!ENTITY saveTo.accesskey "у">
