@@ -9,3 +9,5 @@
 
 <!ENTITY inspector.selectButton.tooltip "Vybere prvek myší">
 
+<!ENTITY inspectorSearchHTML.label "Hledat HTML">
+<!ENTITY inspectorSearchHTML.key "F">
