@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title "Stahování">
 
 <!ENTITY downloadBehavior.label "Při začátku stahování">
-<!ENTITY focusWhenStarting.label "Zablikat Správcem stahování, pokud je již otevřený. Jinak:">
-<!ENTITY focusWhenStarting.accesskey "Z">
-<!ENTITY openDM.label "Otevřít Správce stahování">
-<!ENTITY openDM.accesskey "S">
-<!ENTITY openProgressDialog.label "Otevřít dialog s průběhem">
-<!ENTITY openProgressDialog.accesskey "d">
 <!ENTITY doNothing.label "Neotevírat nic">
 <!ENTITY doNothing.accesskey "N">
+<!ENTITY openProgressDialog.label "Otevřít dialog s průběhem">
+<!ENTITY openProgressDialog.accesskey "d">
+<!ENTITY openDM.label "Otevřít Správce stahování">
+<!ENTITY openDM.accesskey "S">
+<!ENTITY flashWhenOpen.label "Zablikat Správcem stahování, pokud je již otevřený.">
+<!ENTITY flashWhenOpen.accesskey "Z">
 
 <!ENTITY downloadLocation.label "Při ukládání souboru">
 <!ENTITY saveTo.label "Uložit soubory do">
