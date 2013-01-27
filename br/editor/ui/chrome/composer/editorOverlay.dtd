@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Diuzañ ur vent nodrezh">
 <!ENTITY decreaseFontSize.label "Bihanoc'h">
 <!ENTITY decreaseFontSize.accesskey "B">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Brasoc'h">
 <!ENTITY increaseFontSize.accesskey "s">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "."> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Ment">
 <!ENTITY fontSizeMenu.accesskey "e">

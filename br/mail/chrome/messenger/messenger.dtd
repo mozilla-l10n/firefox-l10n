@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Diskouez an ivinell postelerezh prim">
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
-<!ENTITY appmenuButton.tooltip "Diskouez lañser an arloadoù">
+<!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
