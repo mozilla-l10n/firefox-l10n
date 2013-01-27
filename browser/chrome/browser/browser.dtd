@@ -428,6 +428,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey "e">
 <!ENTITY emailAudioCmd.label "Odeslat audio…">
 <!ENTITY emailAudioCmd.accesskey "e">
+<!ENTITY playPluginCmd.label "Spustit zásuvný modul">
+<!ENTITY playPluginCmd.accesskey "p">
+<!ENTITY hidePluginCmd.label "Skrýt zásuvný modul">
+<!ENTITY hidePluginCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "s">
 <!ENTITY copyImageCmd.label "Kopírovat adresu obrázku">
