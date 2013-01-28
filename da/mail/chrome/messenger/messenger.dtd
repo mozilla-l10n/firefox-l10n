@@ -564,7 +564,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
 
-<!ENTITY appmenuButton.tooltip "Vis programmenuen">
+<!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
