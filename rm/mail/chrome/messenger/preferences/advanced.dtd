@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Permetter a &searchIntegration.engineName; da retschertgar messadis">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Tschertgar uss">
-<!ENTITY checkNow.accesskey            "u">
+<!ENTITY checkDefaultsNow.label        "Tschertgar uss…">
+<!ENTITY checkDefaultsNow.accesskey    "u">
 <!ENTITY configEditDesc.label          "Configuraziun avanzada">
 <!ENTITY configEdit.label              "Editur da configuraziuns…">
 <!ENTITY configEdit.accesskey          "C">

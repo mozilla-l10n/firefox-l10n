@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "m">
 <!ENTITY dsnMenu.label "Dumandar il status da transmissiun (DSN)">
 <!ENTITY dsnMenu.accesskey "D">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Format da transmissiun">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Determinar automaticamain">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Mo text senza formataziun">
