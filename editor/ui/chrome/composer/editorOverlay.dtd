@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Valitse kirjasinten koko">
 <!ENTITY decreaseFontSize.label "Pienempi">
 <!ENTITY decreaseFontSize.accesskey "P">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 "_"> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "-">
+<!ENTITY decrementFontSize.key2 "_"> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Suurempi">
 <!ENTITY increaseFontSize.accesskey "S">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "?"> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "+">
+<!ENTITY incrementFontSize.key2 "?"> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Koko">
 <!ENTITY fontSizeMenu.accesskey "o">
