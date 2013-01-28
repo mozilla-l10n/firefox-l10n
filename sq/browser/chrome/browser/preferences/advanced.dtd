@@ -33,6 +33,8 @@
 <!ENTITY setDefault.accesskey            "K">
 <!ENTITY isDefault.label                 "&brandShortName;-i është shfletuesi juaj parazgjedhje">
 
+<!ENTITY dataChoicesTab.label            "Mundësi Për të Dhënat">
+
 <!ENTITY healthReportSection.label       "Raport Mbi Shëndetin e &brandShortName;-it">
 <!ENTITY healthReportDesc.label          "Ju ndihmon të vlerësoni funksionimin e shfletuesit tuaj dhe të ndani me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj">
 <!ENTITY enableHealthReport.label        "Aktivizoji Raportet Mbi Shëndetin e &brandShortName;-it">
