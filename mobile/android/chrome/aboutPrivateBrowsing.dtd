@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privat browsing">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Du har åbnet et nyt faneblad med privat browsing.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikke på et faneblad med privat browsing.">
+
+
+<!ENTITY privatebrowsingpage.description            "Når du bruger privat browsing vil &brandShortName; ikke gemme historik for besøgte websteder, søgninger, filhentninger og formularer, ligesom cookies og midlertidige internetfiler heller ikke gemmes. Hentede filer og bogmærker vil blive gemt.">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Selvom denne enhed ikke gemmer historikoplysninger, så kan din internetudbyder stadig spore hvilke websteder, du besøger.">
+

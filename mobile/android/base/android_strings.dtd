@@ -56,9 +56,9 @@
 <!ENTITY close_tab "Luk faneblad">
 <!ENTITY new_tab "Nyt faneblad">
 <!ENTITY one_tab "1 faneblad">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d faneblade">
+<!ENTITY num_tabs2 "&formatD; faneblade">
 <!ENTITY new_tab_opened "Et nyt faneblad blev åbnet">
 
 <!ENTITY settings "Indstillinger">
@@ -136,7 +136,14 @@ size. -->
 <!ENTITY find_in_page "Find på siden">
 <!ENTITY desktop_mode "Anmod om desktopversion">
 <!ENTITY tools "Funktioner">
-<!ENTITY new_pb_tab "Nyt faneblad med privat browsing">
+<!ENTITY new_private_tab "Nyt faneblad med privat browsing">
+<!ENTITY close_all_tabs "Luk alle faneblade">
+<!ENTITY tabs_normal "Faneblade">
+<!ENTITY tabs_private "Privat browsing">
+<!ENTITY tabs_synced "Synkroniseret">
+<!ENTITY wallpaper_success "Baggrundsbillede opdateret">
+<!ENTITY wallpaper_progress "Påfører baggrundsbillede">
+<!ENTITY wallpaper_fail "Kunne ikke påføre baggrundsbillede">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Luk">
 
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
+<!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
 <!ENTITY contextmenu_open_in_reader "Åbn i Læser">
 <!ENTITY contextmenu_remove_history "Fjern">
 <!ENTITY contextmenu_remove_bookmark "Fjern">
@@ -194,6 +202,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Dine faneblade fra sidst">
 <!ENTITY abouthome_last_tabs_open "Åbn alle faneblade fra sidst">
 <!ENTITY abouthome_top_sites_title "Hyppige steder">
+<!ENTITY abouthome_topsites_edit "Rediger">
+<!ENTITY abouthome_topsites_pin "Fastgør websted">
+<!ENTITY abouthome_topsites_unpin "Frigør websted">
+<!ENTITY abouthome_topsites_unpinall "Frigør alle">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -240,10 +252,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          fra Android">
 <!ENTITY bookmarkhistory_import_wait "Vent...">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Vil du slå søgeforslag til for &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Vil du slå søgeforslag til for &formatS;?">
 
 <!ENTITY webapp_generic_name "App">
 
