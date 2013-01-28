@@ -61,8 +61,6 @@
 <!ENTITY offlineStorage2.label           "Nesaistes tīmekļa saturs un lietotāja dati">
 
 <!ENTITY updateTab.label "Atjaunināt">
-<!ENTITY submitCrashes.label             "Nosūtīt avārijas ziņojumus">
-<!ENTITY submitCrashes.accesskey         "S">
 
 
 <!ENTITY updateApp.label                 "&brandShortName; atjauninājumi:">
