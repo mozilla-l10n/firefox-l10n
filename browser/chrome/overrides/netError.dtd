@@ -58,7 +58,7 @@
 <!ENTITY netReset.title "Conesción Scancelâ">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "A ræ a no respónde">
+<!ENTITY netTimeout.title "A ræ a no rispónde">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
@@ -82,7 +82,7 @@
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Rispósta sbaliâ da-o server">
-<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in 'na manêa strâna e-o browser no peu continoâ.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>O scîto rispónde in 'na manêa strâna e-o browser no peu continoâ.</p>">
 
 <!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>
@@ -98,9 +98,9 @@
 ">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>O scito o porieiva êse tenporaneaménte inacesìbile ò tròppo traficou. Prêuva tórna tra quàrche moménto.</li>
-  <li>Se no ti riesci a caregâ nisciunn-a pàgina, prêuva a controlâ a conesción do teu computer.</li>
-  <li>Se o teu computer ò a teu conesción en protezûi da 'n firewall ò proxy, açertite che &brandShortName; o l'à o permìsso de acêde a-a Ræ.</li>
+  <li>O scîto o poriéiva êse tenporaneaménte inacesìbile ò tròppo traficou. Prêuva tórna tra quàrche moménto.</li>
+  <li>Se no ti riêsci a caregâ nisciùnn-a pàgina, prêuva a controlâ a conesción do teu computer.</li>
+  <li>Se o teu computer ò a teu conesción en protezûi da 'n firewall ò proxy, açèrtite che &brandShortName; o l'à o permìsso de acêde a-a Ræ.</li>
 </ul>
                    ">
 

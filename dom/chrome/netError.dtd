@@ -43,8 +43,8 @@
 <!ENTITY netReset.title "Conesción Scancelâ">
 <!ENTITY netReset.longDesc "<p>O colegamento o l'é stæto fermòu inta negoçiaçión da conesción. Pe favô prêuva ancón.</p>">
 
-<!ENTITY netTimeout.title "A ræ a no respónde">
-<!ENTITY netTimeout.longDesc "<p>O scîto che t'æ domandòu no respónde e o browser o s'é fermòu de aspetâ a rispósta.</p><ul><li>Fòscia o server gh'à 'n'èrta domànda ò un problêma tenporàneo?  Preuva ancón dòppo.</li><li>No ti riêsci a navegâ inti âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción en protezûi da 'n firewall ò proxy?  Se e teu inpostaçioìn son sbaliæ peuan interferî co-a navegaçión.</li><li>Ti gh'æ ancón di problêmi?  Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY netTimeout.title "A ræ a no rispónde">
+<!ENTITY netTimeout.longDesc "<p>O scîto che t'æ domandòu no rispónde e o browser o s'é fermòu de aspetâ a rispósta.</p><ul><li>Fòscia o server gh'à 'n'èrta domànda ò un problêma tenporàneo?  Preuva ancón dòppo.</li><li>No ti riêsci a navegâ inti âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción en protezûi da 'n firewall ò proxy?  Se e teu inpostaçioìn son sbaliæ peuan interferî co-a navegaçión.</li><li>Ti gh'æ ancón di problêmi?  Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
 <!ENTITY protocolNotFound.longDesc "<p>L'indirìsso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riêscio a conétime a-o scîto.</p><ul><li>Ti prêuvi miga a lêze di contegnûi moltimediali? Contròlla se a-o scîto ghe serve quàrche âtro angæzo.</li><li>Quàrche protocòllo peu domandâ de aplicaçión o plugin de tèrçe parti.</li></ul>">
@@ -59,7 +59,7 @@
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finisciàn mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti rizòlvi o problêma poriéivan êse e inpostaçioìn do server che no van bén e no quélle do teu computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Respósta Sbaliâ">
-<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in 'na manêa strâna e-o browser no peu continoâ.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>O scîto rispónde in 'na manêa strâna e-o browser no peu continoâ.</p>">
 
 <!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>
