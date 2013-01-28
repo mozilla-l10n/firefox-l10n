@@ -71,12 +71,12 @@
 <!ENTITY FontSizeSelect.tooltip "Vælg skriftstørrelse">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
-<!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key ",">
+<!ENTITY decrementFontSize.key2 "&lt;"> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Større">
 <!ENTITY increaseFontSize.accesskey "s">
-<!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key ".">
+<!ENTITY incrementFontSize.key2 "&gt;"> <!-- > is above this key on many keyboards -->
 <!ENTITY fontSizeMenu.label "Størrelse">
 <!ENTITY fontSizeMenu.accesskey "ø">
 <!ENTITY size-xx-smallCmd.label "xx-lille">
