@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "문제 해결 정보">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -34,6 +38,11 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "변경 설정 목록">
 <!ENTITY aboutSupport.modifiedPrefsName "이름">
 <!ENTITY aboutSupport.modifiedPrefsValue "값">
+
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js 환경 설정">
+<!ENTITY aboutSupport.userJSDescription "현재 프로필 폴더에는 <a id='prefs-user-js-link'>user.js 파일</a>이 있습니다. 이는 &brandShortName;에 의해 초기 설정이 아닌 사용자 설정을 담고 있습니다.">
+
 <!ENTITY aboutSupport.graphicsTitle "그래픽">
 
 <!ENTITY aboutSupport.jsTitle			"JavaScript">
@@ -48,4 +57,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "설치 기록">
 <!ENTITY aboutSupport.updateHistoryTitle "업데이트 기록">
 
-<!ENTITY aboutSupport.copyToClipboard.label "클립보드에 복사하기">
+<!ENTITY aboutSupport.copyTextToClipboard.label "클립보드로 텍스트 복사하기">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "클립보드로 원본 복사하기">

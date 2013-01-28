@@ -1,8 +1,12 @@
-<!ENTITY aboutAddons.title                      "부가 기능 관리">
-<!ENTITY aboutAddons.header2                    "부가 기능">
-<!ENTITY aboutAddons.options                    "설정">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addonAction.enable                     "사용">
+<!ENTITY aboutAddons.title2                     "부가 기능">
+<!ENTITY aboutAddons.header2                 "나의 부가 기능">
+<!ENTITY aboutAddons.options                  "설정">
+
+<!ENTITY addonAction.enable                    "사용">
 <!ENTITY addonAction.disable                    "중지">
-<!ENTITY addonAction.uninstall                  "삭제">
+<!ENTITY addonAction.uninstall                   "삭제">
 <!ENTITY addonAction.undo                       "되돌리기">

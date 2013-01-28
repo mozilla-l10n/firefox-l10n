@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY saveCmd.key "s">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
@@ -59,6 +63,7 @@
 <!ENTITY decreaseFontSize.label "작게">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decreaseFontSize.key "-">
+<!ENTITY decreaseFontSize.key2 ","> <!-- 대부분의 키보드에서 < 아래 있음  -->
 <!ENTITY increaseFontSize.label "크게">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">

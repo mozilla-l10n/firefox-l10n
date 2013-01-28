@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "속성">
 
 <!ENTITY generalInfo.label "일반 정보">
@@ -64,3 +68,11 @@
 
 <!ENTITY folderProps.location.label "주소:">
 <!ENTITY folderProps.location.accesskey "L">
+
+<!ENTITY numberOfMessages.label                  "메시지 갯수:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "알 수 없음">
+<!ENTITY sizeOnDisk.label                        "사용중인 디스크 용량:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "알 수 없음">
+

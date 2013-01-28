@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -116,6 +120,8 @@
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey	"j">
+<!ENTITY clearRecentHistory.label "최근 기록 삭제…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "계정 설정…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -243,33 +249,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "첨부 보기">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty. -->
-
-<!ENTITY fullZoomEnlargeCmd.label		"확대">
-<!ENTITY fullZoomEnlargeCmd.accesskey		"I">
-<!ENTITY fullZoomEnlargeCmd.commandkey		"+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2		"="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3		"">
-
-<!ENTITY fullZoomReduceCmd.label		"축소">
-<!ENTITY fullZoomReduceCmd.accesskey		"O">
-<!ENTITY fullZoomReduceCmd.commandkey		"-">
-<!ENTITY fullZoomReduceCmd.commandkey2		"">
-
-<!ENTITY fullZoomResetCmd.label			"원래 크기">
-<!ENTITY fullZoomResetCmd.accesskey		"R">
-<!ENTITY fullZoomResetCmd.commandkey		"0">
-<!ENTITY fullZoomResetCmd.commandkey2		"">
-
-<!ENTITY fullZoomToggleCmd.label		"글자 크기만 변경">
-<!ENTITY fullZoomToggleCmd.accesskey		"T">
-<!ENTITY fullZoom.label				"확대">
-<!ENTITY fullZoom.accesskey			"Z">
-
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
@@ -321,7 +300,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label		"채팅">
 <!ENTITY goChatCmd.accesskey		"c">
-<!ENTITY goChatCmd.commandKey		"C">
+<!ENTITY goChatCmd.key		"C">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">
@@ -715,10 +694,14 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY folderLocationToolbarItem.title "폴더 위치">
 <!ENTITY tagButton.label "태그">
 <!ENTITY compactButton.label "비우기">
+<!ENTITY appmenuButton.label "앱 메뉴">
+<!ENTITY appmenuButton.tooltip "앱 메뉴 표시하기">
 <!ENTITY tagButton.tooltip "태그 메시지">
 <!ENTITY compactButton.tooltip "선택한 폴더에서 삭제 표시된 메시지 지우기">
 <!ENTITY addNewTag.label "새 태그…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "태그 관리하기…">
+<!ENTITY manageTags.accesskey "M">
 <!ENTITY folderContextFavoriteFolder.label "즐겨찾기 폴더">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY tagsColumn.label "태그">
@@ -747,6 +730,13 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "음소거 해제">
 <!ENTITY contextUnmute.accesskey "m">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "새 메시지">
+<!ENTITY appmenuNewContactCmd.label "주소록 연락처…">
+<!ENTITY appmenuEditMenu.label "수정">
+<!ENTITY appmenuQFBMenu.label "빠른 필터 바">
+<!ENTITY appmenuToolbarLayout.label "툴바 레이아웃…">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage2.label "&brandShortName;이 이 메시지를 스팸으로 판단합니다.">

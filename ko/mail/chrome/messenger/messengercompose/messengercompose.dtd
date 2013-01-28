@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY msgComposeWindow.title "메일 쓰기: (제목 없음)">
 
 <!-- File menu items -->
@@ -125,8 +129,6 @@
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY returnReceiptMenu.label "수신 확인">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY outputFormatMenu.label "서식">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "자동 선택">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
@@ -161,8 +163,8 @@
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "계정…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.label "계정 설정…">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "설정…">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -265,6 +267,8 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">
+<!ENTITY deliveryFormatMenu.label "전달 서식">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label	"맞춤법 사전 추가…">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 <!ENTITY addressing.label          "쓰기 및 주소">
 <!ENTITY addressingGroupTitle.label "쓰기 및 주소">
@@ -32,3 +36,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "전달 시에 서명 포함">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "전역 편집 설정…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "전역 주소 설정…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "필터 규칙">
 <!ENTITY filterEditorDialog.dimensions "width:100ch;">
 <!ENTITY filterName.label "필터 이름:">
@@ -11,12 +15,13 @@
 <!ENTITY highestPriorityCmd.label "최상위">
 
 <!ENTITY contextDesc.label "필터 적용:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "메일 확인 시">
+<!ENTITY contextIncomingMail.label "새 메일 받을 때:">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "수동으로 실행">
-<!ENTITY contextBoth.label "메일 확인 시 또는 수동으로 실행">
-<!ENTITY contextPostPlugin.label "메일 확인 시 (분류 후)">
-<!ENTITY contextPostPluginBoth.label "메일 확인 시 (분류 후) 또는 수동으로 실행">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "스팸 분류 전에 적용">
+<!ENTITY contextAfterCls.label "스팸 분류 후에 적용">
+
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -41,3 +46,12 @@
 
 <!ENTITY addAction.tooltip "새로운 동작 추가">
 <!ENTITY removeAction.tooltip "동작 제거">
+
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

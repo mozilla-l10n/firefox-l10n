@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "계정 마법사">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!ENTITY accountSetupInfo2.label "메시지 수신을 위해서는 계정을 설정해야 합니다.">
@@ -28,7 +32,7 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "서버에 메일 남기기">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label			"포토 번호:">
+<!ENTITY portNum.label			"포트 번호:">
 <!ENTITY portNum.accesskey		"o">
 <!ENTITY defaultPortLabel.label		"기본 포트:">
 <!ENTITY defaultPortValue.label		"">

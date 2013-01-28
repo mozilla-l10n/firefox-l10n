@@ -1,6 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lightning.toolbar.calendar.name	"캘린더 도구모음">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name		"ToDo 도구모음">
-<!ENTITY lightning.toolbar.task.accesskey	"T">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label		"동기화">
 <!ENTITY lightning.toolbar.delete.label		"삭제">
@@ -9,11 +14,11 @@
 <!ENTITY lightning.toolbar.print.label		"인쇄">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "메일">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "캘린더">
+<!ENTITY lightning.toolbar.calendar.tooltip     "캘린더 탭으로 전환">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "태스크">
+<!ENTITY lightning.toolbar.task.tooltip         "ToDo 탭으로 전환">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
@@ -30,5 +35,8 @@
 <!ENTITY lightning.toolbar.month.label               "월별">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
-<!ENTITY lightning.toolbar.calendar.tooltip     "캘린더 탭으로 전환">
-<!ENTITY lightning.toolbar.task.tooltip         "ToDo 탭으로 전환">
+
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "앱 메뉴">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "앱 메뉴 표시">

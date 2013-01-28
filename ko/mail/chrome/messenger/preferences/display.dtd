@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label "서식">
 <!ENTITY itemTags.label "태그">
 
@@ -8,7 +12,7 @@
 <!ENTITY italic.label "기울임">
 <!ENTITY boldItalic.label "굵게 기울임">
 <!ENTITY size.label "크기:">
-<!ENTITY size.accesskey "s">
+<!ENTITY size.accesskey "z">
 <!ENTITY regularSize.label "규칙">
 <!ENTITY bigger.label "크게">
 <!ENTITY smaller.label "작게">

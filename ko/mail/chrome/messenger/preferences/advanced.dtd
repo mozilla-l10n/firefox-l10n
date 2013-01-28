@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "일반">
 <!ENTITY itemDisplay.label "읽기 및 표시">
 <!ENTITY itemUpdate.label "업데이트">
@@ -10,13 +14,20 @@
 <!ENTITY telemetryInfoLink.label       "Telemetry에 대한 자세한 정보">
 <!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "스크롤">
+<!ENTITY useAutoScroll.label           "자동스크롤 사용하기">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "부드러운 스크롤 사용하기">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "시스템 통합">
 <!ENTITY alwaysCheckDefault.label      "시작 시 &brandShortName;가 기본 메일 프로그램인지 항상 확인">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "검색 시 &searchIntegration.engineName; 엔진 사용 허가">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "지금 확인">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label                "지금 확인">
+<!ENTITY checkDefaultsNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "고급 설정">
 <!ENTITY configEdit.label              "설정 편집…">
 <!ENTITY configEdit.accesskey          "C">
@@ -80,9 +91,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "디스크 용량">
-<!ENTITY offlineCompact.label "지정된 용량 이상 저장할 때 폴더 압축">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "지정된 용량 이상 저장할 때 폴더 압축">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB (총)">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
