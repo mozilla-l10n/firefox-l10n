@@ -12,7 +12,7 @@
 
 <!ENTITY submitTelemetry.label         "Trametter datas da prestaziun">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart 'Telemetry'">
+<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart telemetria">
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 
@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Permetter a &searchIntegration.engineName; da retschertgar messadis">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Tschertgar uss">
-<!ENTITY checkNow.accesskey            "u">
+<!ENTITY checkDefaultsNow.label        "Tschertgar uss…">
+<!ENTITY checkDefaultsNow.accesskey    "u">
 <!ENTITY configEditDesc.label          "Configuraziun avanzada">
 <!ENTITY configEdit.label              "Editur da configuraziuns…">
 <!ENTITY configEdit.accesskey          "C">

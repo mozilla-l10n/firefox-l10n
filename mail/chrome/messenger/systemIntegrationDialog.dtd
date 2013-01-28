@@ -3,11 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integraziun en il sistem">
+<!ENTITY acceptIntegration.label  "Definir sco standard">
+<!ENTITY cancelIntegration.label  "Sursiglir l'integraziun">
 <!ENTITY defaultClient.intro  "Duvrar &brandShortName; sco applicaziun predefinida per:">
 
 <!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Gruppas da discussiun">
 <!ENTITY feeds.label "Feeds">
+
+<!ENTITY unsetDefault.tooltip "Impussibel dad allontanar &brandShortName; sco applicaziun da standard entaifer &brandShortName;. Per definir in'autra applicaziun sco applicaziun predefinida stos ti utilisar la funcziun 'Definir sco standard' en l'applicaziun correspundenta.">
+
 
 <!ENTITY checkOnStartup.label "Controllar mintga giada che &brandShortName; vegn avià">
 <!ENTITY checkOnStartup.accesskey "A">
