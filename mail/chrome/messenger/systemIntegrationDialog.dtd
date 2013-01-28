@@ -11,7 +11,7 @@
 <!ENTITY newsgroups.label "Gruppas da discussiun">
 <!ENTITY feeds.label "Feeds">
 
-<!ENTITY unsetDefault.tooltip "Impussibel dad allontanar &brandShortName; sco applicaziun da standard entaifer &brandShortName;. Per definir in'autra applicaziun sco applicaziun da standard stos ti utilisar la funcziun 'Definir sco standard' da l'autra applicaziun.">
+<!ENTITY unsetDefault.tooltip "Impussibel dad allontanar &brandShortName; sco applicaziun da standard entaifer &brandShortName;. Per definir in'autra applicaziun sco applicaziun predefinida stos ti utilisar la funcziun 'Definir sco standard' en l'applicaziun correspundenta.">
 
 
 <!ENTITY checkOnStartup.label "Controllar mintga giada che &brandShortName; vegn avià">

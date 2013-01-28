@@ -21,8 +21,8 @@
 <!ENTITY contextIncomingMail.accesskey "R">
 <!ENTITY contextManual.label "Exequir manualmain">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filtrar avant la classificaziun sco (nun)giavischà">
-<!ENTITY contextAfterCls.label "Filtrar suenter la classificaziun sco (nun)giavischà">
+<!ENTITY contextBeforeCls.label "Filtrar avant la classificaziun sco (nun-)giavischà">
+<!ENTITY contextAfterCls.label "Filtrar suenter la classificaziun sco (nun-)giavischà">
 
 <!ENTITY filterActionDesc.label "Exequir questas acziuns:">
 <!ENTITY filterActionDesc.accesskey "E">

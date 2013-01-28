@@ -12,7 +12,7 @@
 
 <!ENTITY submitTelemetry.label         "Trametter datas da prestaziun">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart 'Telemetry'">
+<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart telemetria">
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 

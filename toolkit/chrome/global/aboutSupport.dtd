@@ -47,7 +47,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferenzas en user.js">
-<!ENTITY aboutSupport.userJSDescription "Tes ordinatur da profil cuntegna ina datoteca <a id='prefs-user-js-link'>user.js</a> che cuntegna preferenzas che n'èn betg vegnidas creadas da &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Tes ordinatur da profil cuntegna ina datoteca <a id='prefs-user-js-link'>user.js</a> cun preferenzas che n'èn betg vegnidas creadas da &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 

@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Datas da 'Telemetry'">
+<!ENTITY aboutTelemetry.pageTitle "Datas da telemetria">
 
 <!ENTITY aboutTelemetry.pageSubtitle "
-  Questa pagina mussa las datas rimnadas da 'Telemetry' davart la prestaziun ed utilisaziun da funcziuns.
-  Questas datas vegnan tramessas anonimamain a Mozilla per gidar a meglierar &brandShortName;.
+  Questa pagina mussa las datas davart la prestaziun ed utilisaziun da funcziuns, rimnadas da 'Telemetry'.
+  Questas datas vegnan tramessas en furma anonimisada a Mozilla per gidar a meglierar &brandShortName;.
 ">
 
 <!ENTITY aboutTelemetry.telemetryEnabled "
@@ -26,7 +26,7 @@
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
+  Istograms
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
@@ -34,27 +34,27 @@
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
-  Infurmaziuns dal sistem
+  Infurmaziuns davart il sistem
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms rimnads da supplements
+  Istograms rimnads da supplements
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
-  Clicca per extender la secziun
+  Cliccar per expander la secziun
 ">
 
 <!ENTITY aboutTelemetry.toggleOff "
-  Clicca per cumprimer la secziun
+  Cliccar per reducir la secziun
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (Rimnà naginas datas)
+  (Naginas datas rimnadas)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart, ma quests na vegnan betg tramess a Telemetry.
+  REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart. Quels na vegnan dentant betg tramess a Telemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
