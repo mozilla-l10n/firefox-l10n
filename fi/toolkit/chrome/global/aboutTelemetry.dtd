@@ -4,11 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Mittausdata">
 
-<!ENTITY aboutTelemetry.pageSubtitle "
-  Tällä sivulla näet suorituskyvystä ja ominaisuuksien käyttöuseudesta kerätyt mittaustiedot.
-  Sivulla näkyvät tiedot lähetätään nimettömänä Mozillalle auttomaan &brandShortName;in kehityksessä.
-">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Tietojen mittaus on <span>päällä</span>.
 ">
