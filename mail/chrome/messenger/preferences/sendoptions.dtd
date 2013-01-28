@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "보내기 설정">
 <!ENTITY sendMail.title               "텍스트 형식">
 <!ENTITY sendMaildesc.label           "HTML 형식으로 메시지를 보내고 수신자가 HTML 형식을 받을 수 없는 목록에 있을 때:">

@@ -1,2 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newfolderchoosethis.label "상위 폴더 선택">
 <!ENTITY filemessageschoosethis.label "현재 폴더 선택">
+<!ENTITY recentfolders.label            "최근">

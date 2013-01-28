@@ -27,9 +27,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "찾아보기…">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "부가 기능">
-<!ENTITY manageAddonsDescWin.label        "부가 기능 설정을 변경할 수 있습니다.">
-<!ENTITY manageAddonsDescUnix2.label      "부가 기능 설정을 변경할 수 있습니다.">
-<!ENTITY manageAddons.label               "부가 기능 관리…">
-<!ENTITY manageAddons.accesskey           "M">

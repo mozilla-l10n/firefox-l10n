@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
@@ -11,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label '새로운 기기를 사용하기 위해 [&syncBrand.shortName.label; 설정]을 선택해 주십시오.'>
-<!ENTITY sync.subtitle.header.label '이 코드를 컴퓨터상에서 입력해 주십시오.'>
-<!ENTITY sync.subtitle.connectlocation.label '데스크탑 Firefox 설정 중 &syncBrand.shortName.label;으로부터, [&sync.title.pair.label;]를 선택해 주십시오.'>
+<!ENTITY sync.subtitle.header2.label '아래의 코드를 다른 기기에 입력하세요'>
+<!ENTITY sync.subtitle.connectlocation2.label '다른 기기의 Firefox 설정 중 &syncBrand.shortName.label;으로부터, [&sync.title.pair.label;]를 선택해 주십시오.'>
 <!ENTITY sync.subtitle.pair.label '유효화를 위해 다른 기기상에서 [기기와 연결하기]를 선택해 주십시오.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -54,6 +58,15 @@
 <!ENTITY sync.settings.options.label '설정'>
 <!ENTITY sync.summary.pair.label '&syncBrand.shortName.label; 계정에 다른 기기 접속'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label '동기화 항목'>
+<!ENTITY sync.configure.engines.sync.my.title.label '동기화 항목'>
+<!ENTITY sync.configure.engines.title.bookmarks '북마크'>
+<!ENTITY sync.configure.engines.title.passwords '암호'>
+<!ENTITY sync.configure.engines.title.history '방문 기록'>
+<!ENTITY sync.configure.engines.title.tabs '탭'>
+
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '취소'>
 <!ENTITY sync.button.connect.label '접속'>
@@ -74,6 +87,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label '하나의 &syncBrand.fullName.label; 계정만이 지원되고 있습니다.'>
+<!ENTITY sync.notification.configure.saved '여러분의 선택 사항을 저장했습니다.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label '올바르지 않은 계정 이름 또는 비밀번호입니다.'>
@@ -89,3 +103,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label '탭을 보내기 위해 &syncBrand.shortName.label; 설치'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label '다른 기기로 탭을 보내기 위해 &syncBrand.fullName.label; 설치'>
 <!ENTITY sync.text.tab.sent.label '탭을 보냈습니다!'>
+<!ENTITY sync.text.tab.not.sent.label '탭을 보내는데 문제가 생겼습니다.'>

@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 <!ENTITY copyAndFolderTitle.label "사본과 폴더">
 <!ENTITY sendingPrefix.label "메시지를 보낼 때 자동으로 수행:">
 <!ENTITY fccMailFolder.label "사본 위치:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "답을 보내는 메시지 폴더에 회신 저장하기">
-<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "다음 메일 주소를 Cc에 추가:">
 <!ENTITY ccAddress.accesskey "C">

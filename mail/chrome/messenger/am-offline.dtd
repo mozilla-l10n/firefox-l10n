@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "디스크 용량을 확보하려면 메시지를 저장하지 마십시오.">
 <!ENTITY doNotDownloadNntp.label "디스크 용량을 확보하려면 오프라인 사용을 위한 메시지 저장을 하지 마십시오.">
 <!ENTITY doNotDownloadImap.label "디스크 용량을 확보하려면, 서버에서 받은 메시지와 오프라인을 위한 로컬 복사본 유지에 기간 또는 크기 제한을 하십시오.">

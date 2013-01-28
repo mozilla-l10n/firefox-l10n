@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialogTitle.label "저장 설정">
 <!ENTITY archiveGranularityPrefix.label "보관된 메시지를 다음 위치에 저장합니다 :">
 <!ENTITY archiveFlat.label "일반">
