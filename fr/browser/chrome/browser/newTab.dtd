@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nouvel onglet">
+<!ENTITY newtab.undo.removedLabel "Vignette supprimée.">
+<!ENTITY newtab.undo.undoButton "Annuler.">
+<!ENTITY newtab.undo.restoreButton "Tout restaurer.">
+<!ENTITY newtab.undo.closeTooltip "Masquer">
