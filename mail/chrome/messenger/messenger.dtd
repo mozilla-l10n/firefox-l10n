@@ -554,7 +554,7 @@
 <!ENTITY addressBookButton.tooltip "Adresboek iepenje">
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
-<!ENTITY appmenuButton.tooltip "Tapassingsmenu toane">
+<!ENTITY appmenuButton1.tooltip "&brandShortName;-menu toane">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nij berjocht">
