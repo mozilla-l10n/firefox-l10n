@@ -45,7 +45,7 @@
 <!ENTITY connectionSettings.label        "Innstillingar …">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY httpCache.label                 "Snøgglagra nettinhald">
+<!ENTITY httpCache.label                 "Snøgglagra nettinnhald">
 
 <!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
 

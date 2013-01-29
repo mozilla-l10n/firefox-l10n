@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Tillat &searchIntegration.engineName; å søke i meldingar">
 <!ENTITY searchIntegration.accesskey   "T">
-<!ENTITY checkNow.label                "Kontroller no">
-<!ENTITY checkNow.accesskey            "n">
+<!ENTITY checkDefaultsNow.label        "Kontroller no …">
+<!ENTITY checkDefaultsNow.accesskey    "K">
 <!ENTITY configEditDesc.label          "Avanserte innstillingar">
 <!ENTITY configEdit.label              "Konfigurasjonseditor …">
 <!ENTITY configEdit.accesskey          "o">
