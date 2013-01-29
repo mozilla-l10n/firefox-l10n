@@ -202,7 +202,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Modifier">
 <!ENTITY abouthome_topsites_pin "Épingler le site">
 <!ENTITY abouthome_topsites_unpin "Relâcher le site">
-<!ENTITY abouthome_topsites_unpinall "Relâcher tous les sites">
+
 <!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
