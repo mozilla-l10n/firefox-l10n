@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Tekengrutte kieze">
 <!ENTITY decreaseFontSize.label "Lytser">
 <!ENTITY decreaseFontSize.accesskey "L">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Grutter">
 <!ENTITY increaseFontSize.accesskey "u">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Grutte">
 <!ENTITY fontSizeMenu.accesskey "G">
