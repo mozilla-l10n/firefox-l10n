@@ -10,7 +10,7 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organiser bokmerka">
 
-<!ENTITY file.close.label               "Lat att">
+<!ENTITY file.close.label               "Lukk">
 <!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Vis">
@@ -91,21 +91,9 @@
 <!ENTITY search.label                              "Søk:">
 <!ENTITY search.accesskey                          "ø">
 
-<!ENTITY search.in.label                           "Søk i:">
-<!ENTITY search.scopeFolder.label                  "Vald mappe">
-<!ENTITY search.scopeFolder.accesskey              "V">
-<!ENTITY search.scopeBookmarks.label               "Bokmerke">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "Nedlastingar">
-<!ENTITY search.scopeDownloads.accesskey           "N">
-<!ENTITY search.scopeHistory.label                 "Historikk">
-<!ENTITY search.scopeHistory.accesskey             "s">
-<!ENTITY saveSearch.label                          "Lagre">
-<!ENTITY saveSearch.accesskey                      "L">
-
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import og reservekopi">
+<!ENTITY maintenance.label      "Importer og reservekopier">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importer og tryggleikskopier bokmerka">
 
@@ -127,9 +115,9 @@
 <!ENTITY byDate.accesskey         "a">
 <!ENTITY bySite.label             "Etter nettstad">
 <!ENTITY bySite.accesskey         "n">
-<!ENTITY byMostVisited.label      "Etter mest vitja">
+<!ENTITY byMostVisited.label      "Etter mest besøkt">
 <!ENTITY byMostVisited.accesskey  "m">
-<!ENTITY byLastVisited.label      "Etter sist vitja">
+<!ENTITY byLastVisited.label      "Etter sist besøkt">
 <!ENTITY byLastVisited.accesskey  "s">
 <!ENTITY byDayAndSite.label       "Etter dato og nettstad">
 <!ENTITY byDayAndSite.accesskey   "d">

@@ -8,11 +8,11 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "e">
-<!ENTITY closeTabCmd2.label "Lat att fane">
+<!ENTITY closeTabCmd2.label "Lukk fane">
 <!ENTITY closeTabCmd2.accesskey "L">
-<!ENTITY closeOtherTabsCmd2.label "Lat att andre faner">
+<!ENTITY closeOtherTabsCmd2.label "Lukk andre faner">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!ENTITY recentlyClosedTabsCmd.label "Nyleg attlatne faner">
+<!ENTITY recentlyClosedTabsCmd.label "Nyleg lukka faner">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -308,14 +308,14 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Nettprat">
 <!ENTITY goChatCmd.accesskey "e">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Denne mappa">
 <!ENTITY thisFolder.accesskey "e">
-<!ENTITY goRecentlyClosedTabs.label "Nyleg attlatne faner">
+<!ENTITY goRecentlyClosedTabs.label "Nyleg lukka faner">
 <!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
