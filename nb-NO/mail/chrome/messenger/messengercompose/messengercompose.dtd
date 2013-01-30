@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "v">
 <!ENTITY dsnMenu.label "Leveringsbekreftelse">
 <!ENTITY dsnMenu.accesskey "L">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Leveringsformat">
+<!ENTITY deliveryFormatMenu.accesskey "L">
 <!ENTITY autoFormatCmd.label "Automatisk gjenkjenning">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Bare ren tekst">
