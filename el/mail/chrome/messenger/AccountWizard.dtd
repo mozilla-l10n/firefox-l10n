@@ -14,21 +14,42 @@
 <!ENTITY accountTypeNews.accesskey "ζ">
 <!ENTITY identityTitle.label "Ταυτότητα">
 <!ENTITY identityDesc.label "Ο κάθε λογαριασμός έχει τη δικιά του ταυτότητα, και περιέχει τις πληροφορίες που σας πιστοποιούν στους άλλους όταν λαμβάνουν τα μηνύματα σας.">
+
+<!ENTITY incomingTitle.label "Πληροφορίες διακομιστή εισερχομένων">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
+<!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">
+<!ENTITY incomingServer.accesskey "σ">
+
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Εισάγετε το όνομα χρήστη που σας δόθηκε από τον παροχέα email (για παράδειγμα, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Όνομα χρήστη:">
+<!ENTITY incomingUsername.accesskey "χ">
+
+
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Πληροφορίες διακομιστή εξερχομένων">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Εισάγετε το όνομα του διακομιστή εξερχομένων(SMTP) (για παράδειγμα, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Διακομιστής εξερχομένων:">
+<!ENTITY outgoingServer.accesskey "ξ">
+<!ENTITY outgoingUsername.description "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον παροχέα email (αυτό συνήθως είναι ίδιο με το όνομα χρήστη εισερχομένων).">
+<!ENTITY outgoingUsername.label "Όνομα χρήστη εξερχομένων:">
+<!ENTITY outgoingUsername.accesskey "χ">
+
 <!ENTITY fullnameDesc.label "Εισάγετε το όνομα που θέλετε να εμφανίζεται στο πεδίο &quot;Από&quot; των εξερχομένων μηνυμάτων σας.">
 <!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
 <!ENTITY fullnameLabel.label "Το όνομα σας">
 <!ENTITY fullnameLabel.accesskey "τ">
 <!ENTITY emailLabel.label "Διεύθυνση Email:">
 <!ENTITY emailLabel.accesskey "θ">
-<!ENTITY serverTitle.label "Πληροφορίες διακομιστή">
+
 <!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
-<!ENTITY incomingServerNameDesc.label "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
-<!ENTITY incomingServerLabel.label "Όνομα διακομιστή εισερχομένων:">
-<!ENTITY incomingServerLabel.accesskey "δ">
 <!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
-<!ENTITY smtpServerDesc.label "Εισάγετε το όνομα του διακομιστή εξερχομένων (SMTP) (για παράδειγμα , &quot;smtp.helmug.gr&quot;). ">
-<!ENTITY smtpServerLabel.label "Όνομα διακομιστή εξερχομένων:">
-<!ENTITY smtpServerLabel.accesskey "ξ">
+
+
 <!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
 <!ENTITY newsServerLabel.accesskey "σ">
 <!ENTITY imapType.label "IMAP">
@@ -37,14 +58,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
 
-<!ENTITY loginTitle.label "Ονόματα Χρήστη">
-<!ENTITY usernameDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον πάροχο email">
-<!ENTITY usernameExample.label "(για παράδειγμα, &quot;ptuxidis&quot;).">
-<!ENTITY usernameLabel.label "Όνομα χρήστη εισερχομένων:">
-<!ENTITY usernameLabel.accesskey "μ">
-<!ENTITY usernameSmtpDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον παροχέα email (αυτό συνήθως είναι ίδιο με το όνομα χρήστη εισερχομένων).">
-<!ENTITY usernameSmtpLabel.label "Όνομα χρήστη εξερχομένων:">
-<!ENTITY usernameSmtpLabel.accesskey "ν">
+
+
+
+
 <!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
 <!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
 

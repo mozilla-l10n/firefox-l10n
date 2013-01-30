@@ -5,6 +5,11 @@
 <!ENTITY accountManagerTitle.label "Ρυθμίσεις λογαριασμών αλληλογραφίας">
 <!ENTITY accountActionsButton.label "Ενέργειες λογαριασμού">
 <!ENTITY accountActionsButton.accesskey "ν">
+
+<!ENTITY addIMAccountButton.label "Προσθήκη λογαριασμού chat…">
+
+<!ENTITY addIMAccountButton.accesskey "c">
+
 <!ENTITY addMailAccountButton.label "Προσθήκη λογαριασμού αλληλογραφίας...">
 <!ENTITY addMailAccountButton.accesskey "θ">
 <!ENTITY addOtherAccountButton.label "Προσθήκη άλλου λογαριασμού...">
