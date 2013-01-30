@@ -216,10 +216,6 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Limpiar el historial reciente…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY privateBrowsingCmd.start.label "Iniciar navegación privada">
-<!ENTITY privateBrowsingCmd.start.accesskey "I">
-<!ENTITY privateBrowsingCmd.stop.label "Detener la Navegación Privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey "D">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
@@ -329,6 +325,10 @@
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Enviar audio por correo">
 <!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY playPluginCmd.label          "Activar este complemento">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Ocultar este complemento">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label "Copiar ubicación de enlace">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "Copiar dirección de imagen">
