@@ -216,10 +216,6 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">
 <!ENTITY clearRecentHistory.accesskey "e">
-<!ENTITY privateBrowsingCmd.start.label "Avvia Navigazione anonima">
-<!ENTITY privateBrowsingCmd.start.accesskey "N">
-<!ENTITY privateBrowsingCmd.stop.label "Interrompi Navigazione anonima">
-<!ENTITY privateBrowsingCmd.stop.accesskey "N">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
@@ -468,3 +464,5 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY webrtcIndicatorButton.label "Accesso fotocamera/microfono">
 <!ENTITY webrtcIndicatorButton.tooltip "Visualizza i siti con cui sono condivisi fotocamera o microfono">
+<!ENTITY mixedContentBlocked.helplink "Ulteriori informazioni">
+<!ENTITY mixedContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
