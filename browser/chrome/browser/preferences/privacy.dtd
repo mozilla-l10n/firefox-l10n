@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Tracciamento">
-<!ENTITY doNotTrack.label "Attiva l'opzione antitracciamento dei dati personali">
-<!ENTITY doNotTrack.accesskey "A">
+<!ENTITY dntTrackingNopref.label "Non comunicare alcuna preferenza relativa al tracciamento dei dati personali.">
+<!ENTITY dntTrackingNopref.accesskey "a">
+<!ENTITY dntTrackingNotOkay.label "Richiedi ai siti di non effettuare alcun tracciamento.">
+<!ENTITY dntTrackingNotOkay.accesskey "h">
+<!ENTITY dntTrackingOkay.label "Comunica ai siti la disponibilità ad essere tracciati.">
+<!ENTITY dntTrackingOkay.accesskey "i">
+<!ENTITY doNotTrackInfo.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY locbar.pre.label "Nella barra degli indirizzi visualizza suggerimenti da:">
