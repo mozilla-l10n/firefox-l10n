@@ -84,8 +84,8 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Generando una Llave Privada">
-<!ENTITY createCertInfo.msg1 "Generación de Clave en progreso... Esto podría tomar unos minutos....">
-<!ENTITY createCertInfo.msg2 "Por favor, espere...">
+<!ENTITY createCertInfo.msg1 "Generación de Clave en progreso… Esto podría tomar unos minutos….">
+<!ENTITY createCertInfo.msg2 "Por favor, espere…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Petición de Firmar Texto">

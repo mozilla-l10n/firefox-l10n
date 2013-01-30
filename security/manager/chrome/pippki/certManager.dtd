@@ -24,7 +24,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Verificando ahora el certificado...">
+<!ENTITY certmgr.pending.label                "Verificando ahora el certificado…">
 <!ENTITY certmgr.subjectinfo.label            "Emitido para">
 <!ENTITY certmgr.issuerinfo.label             "Emitido por">
 <!ENTITY certmgr.validity.label               "Validez" >
@@ -70,7 +70,7 @@
 
 <!ENTITY certmgr.close.label                  "Cerrar">
 <!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "Ver...">
+<!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Editar confianza…">
 <!ENTITY certmgr.edit3.accesskey              "E">
@@ -80,13 +80,13 @@
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Eliminar...">
+<!ENTITY certmgr.delete2.label                "Eliminar…">
 <!ENTITY certmgr.delete2.accesskey            "E">
 <!ENTITY certmgr.delete_builtin.label         "Borrar o desconfiar…">
 <!ENTITY certmgr.delete_builtin.accesskey     "B">
 <!ENTITY certmgr.backup2.label                "Hacer un Respaldo…">
 <!ENTITY certmgr.backup2.accesskey            "H">
-<!ENTITY certmgr.backupall2.label             "Respaldar Todo...">
+<!ENTITY certmgr.backupall2.label             "Respaldar Todo…">
 <!ENTITY certmgr.backupall2.accesskey         "R">
 <!ENTITY certmgr.restore2.label               "Importar…">
 <!ENTITY certmgr.restore2.accesskey           "m">
@@ -96,7 +96,7 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Jerarquía de Certificado">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Añadir Excepción...">
+<!ENTITY certmgr.addException.label           "Añadir Excepción…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "Agregar Excepción de Seguridad">
@@ -108,7 +108,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Obtener Certificado">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Estados de Certificado">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Ver...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Almacenar permanentemente esta excepción">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">

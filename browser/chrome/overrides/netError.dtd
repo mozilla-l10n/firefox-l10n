@@ -132,9 +132,9 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detecto un error en la transmisión de datos.</p><ul><li>Por favor contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "O usted puede agregar una excepción...">
+<!ENTITY securityOverride.linkText "O usted puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
-<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción...">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
