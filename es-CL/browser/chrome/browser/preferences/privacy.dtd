@@ -35,7 +35,7 @@
 <!ENTITY  cookieExceptions.label        "Excepciones…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mostrar Cookies...">
+<!ENTITY  showCookies.label             "Mostrar Cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
