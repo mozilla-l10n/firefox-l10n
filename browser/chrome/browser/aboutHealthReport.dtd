@@ -25,7 +25,7 @@
 
 <!ENTITY abouthealth.show-report "Mostrar reporte de &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "Estos son los datos que &brandFullName; con el fin de que el reporte de salud de &brandShortName; funcione.   Usted puede ">
+<!ENTITY abouthealth.details.description-start "Estos son los datos que &brandFullName; envia, con el fin de que el reporte de salud de &brandShortName; funcione.   Usted puede ">
 <!ENTITY abouthealth.details-link "aprender más">
 <!ENTITY abouthealth.details.description-end " sobre qué recolectamos y enviamos.">
 <!ENTITY abouthealth.no-data-available "No hay envios anteriores para mostrar. Por favor, vuelva a revisar más tarde.">
