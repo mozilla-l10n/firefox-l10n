@@ -25,10 +25,22 @@
 <!ENTITY setDefault.label "Hacer de &brandShortName; el navegador predeterminado">
 <!ENTITY setDefault.accesskey "d">
 <!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
-<!ENTITY submitCrashes.label "Enviar informes de errores">
-<!ENTITY submitCrashes.accesskey "s">
-<!ENTITY submitTelemetry.label "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey "r">
+<!ENTITY dataChoicesTab.label            "Elección de datos">
+<!ENTITY healthReportSection.label       "Reporte de salud de &brandShortName;">
+<!ENTITY healthReportDesc.label          "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de su navegador">
+<!ENTITY enableHealthReport.label        "Activar reporte de salud de &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Aprender más">
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizaciones de su navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
+<!ENTITY enableTelemetry.label           "Activar Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Aprender más">
+<!ENTITY crashReporterSection.label      "Reporte de fallos">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envia reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
+<!ENTITY enableCrashReporter.label       "Activar reporte de fallos">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Aprender más">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
