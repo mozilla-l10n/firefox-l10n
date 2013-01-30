@@ -216,10 +216,6 @@
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Limpiar el historial reciente…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY privateBrowsingCmd.start.label "Iniciar navegación privada">
-<!ENTITY privateBrowsingCmd.start.accesskey "v">
-<!ENTITY privateBrowsingCmd.stop.label "Detener navegación privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey "v">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
@@ -329,6 +325,10 @@
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
 <!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY playPluginCmd.label "Activar este plugin">
+<!ENTITY playPluginCmd.accesskey "c">
+<!ENTITY hidePluginCmd.label "Ocultar este plugin">
+<!ENTITY hidePluginCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copiar la ruta del enlace">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "Copiar la ruta de la imagen">
@@ -464,3 +464,5 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY webrtcIndicatorButton.label "Acceso a la cámara y micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Muestra los sitios con los que está actualmente compartiendo su cámara o micrófono">
+<!ENTITY mixedContentBlocked.helplink "Saber más">
+<!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
