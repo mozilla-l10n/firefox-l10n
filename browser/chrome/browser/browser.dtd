@@ -464,3 +464,5 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 <!ENTITY webrtcIndicatorButton.label "Доступ к Камере / Микрофону">
 <!ENTITY webrtcIndicatorButton.tooltip "Показать сайты, которые сейчас имеют доступ к вашей камере или микрофону">
+<!ENTITY mixedContentBlocked.helplink "Подробнее">
+<!ENTITY mixedContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
