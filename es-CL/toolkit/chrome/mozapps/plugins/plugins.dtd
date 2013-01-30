@@ -23,7 +23,7 @@
 <!ENTITY missingPlugin "Se necesita un complemento para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Pulse aquí para activar el complemento">
 <!ENTITY clickToPlayPlugin "Pulse aquí para activar el complemento.">
-<!ENTITY checkForUpdates "Buscar actualizaciones...">
+<!ENTITY checkForUpdates "Buscar actualizaciones…">
 <!ENTITY disabledPlugin "Este complemento ha sido deshabilitado.">
 <!ENTITY blockedPlugin.label "Este complemento ha sido bloqueado para su protección.">
 <!ENTITY installPlugin "Instalar complemento…">
