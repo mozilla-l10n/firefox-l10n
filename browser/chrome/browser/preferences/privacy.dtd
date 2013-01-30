@@ -25,7 +25,7 @@
 <!ENTITY askEachTime.label "pregunte cada vez">
 <!ENTITY cookieExceptions.label "Excepciones…">
 <!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Mostrar Cookies...">
+<!ENTITY showCookies.label "Mostrar Cookies…">
 <!ENTITY showCookies.accesskey "s">
 <!ENTITY historyHeader.pre.label "&brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey "F">
