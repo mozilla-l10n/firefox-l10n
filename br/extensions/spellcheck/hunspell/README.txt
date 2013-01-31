@@ -1,7 +1,7 @@
 Breton spellchecker for Hunspell
 
 Author : An Drouizig (http://www.drouizig.org/)
-Copyright (c) 2001-2011, held by Author
+Copyright (c) 2001-2013, held by Author
 under the terms of the following licenses :
 
 - Mozilla Public License, version 1.1 or later (MPL)

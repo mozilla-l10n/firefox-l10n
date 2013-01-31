@@ -47,6 +47,21 @@ PFX m0 m v m
 PFX m0 d z d
 PFX m0 d t d
 
+# Adanv
+SFX n1 Y 12
+SFX n1 0 añ [^hz]
+SFX n1 0 at [^hz]
+SFX n1 0 oc'h [^hz]
+SFX n1 0 añ [^z]h
+SFX n1 0 at [^z]h
+SFX n1 0 oc'h [^z]h
+SFX n1 z sañ z
+SFX n1 z sat z
+SFX n1 z soc'h z
+SFX n1 zh shañ zh
+SFX n1 zh shat zh
+SFX n1 zh shoc'h zh
+
 # Liesterioù
 SFX p1 Y 1
 SFX p1 0 ed .
