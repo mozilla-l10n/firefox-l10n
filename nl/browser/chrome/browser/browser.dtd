@@ -387,6 +387,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Koppeling openen in nieuw venster">
 <!ENTITY openLinkCmd.accesskey        "v">
+<!ENTITY openLinkInPrivateWindowCmd.label "Koppeling openen in nieuw privévenster">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Koppeling openen">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
 <!ENTITY openFrameCmdInTab.label      "Deelvenster openen in nieuw tabblad">
