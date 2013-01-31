@@ -5,10 +5,10 @@
 <!ENTITY safeModeDialog.title "&brandShortName; en Modo Seguro">
 <!ENTITY window.maxWidth "400">
 <!ENTITY startSafeMode.label "Iniciar en modo seguro">
-<!ENTITY resetProfile.label "Reestablecer &brandShortName;">
+<!ENTITY resetProfile.label "Restablecer &brandShortName;">
 <!ENTITY safeModeDescription3.label "El modo seguro es un modo especial de &brandShortName; que puede ser usado para resolver problemas.">
 <!ENTITY safeModeDescription4.label "Tus complementos y opciones personalizadas serán desactivados temporalmente.">
-<!ENTITY resetProfileInstead.label "También puedes reestablecer &brandShortName; si deceas partir de cero.">
+<!ENTITY resetProfileInstead.label "También puedes Restablecer &brandShortName; si deceas partir de cero.">
 <!ENTITY autoSafeModeDescription2.label "&brandShortName; se cerró de forma inesperada al iniciarse. Esto puede ser causado por complementos u otros problemas. Usted puede intentar resolver el problema restaurando &brandShortName; a su estado inicial o resolver los problemas en el modo seguro.">
 <!ENTITY resetProfileFooter.label "Todo lo demás será restaurado a su configuración de fábrica.">
 <!ENTITY safeModeInstead.label "Si usted no quiere esto, usted puede continuar en modo seguro para hacer su propia resolución de errores con sus complementos y opciones personales temporalmente desactivados.">
