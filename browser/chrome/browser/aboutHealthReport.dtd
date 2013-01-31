@@ -14,7 +14,7 @@
 <!ENTITY abouthealth.intro-enabled "&brandFullName; verzameld een aantal gegevens over computer en gebruik om u een betere browserervaring te geven.">
 <!ENTITY abouthealth.intro-disabled "U vertuurd momenteel geen gebruikersgegevens naar &vendorShortName;. U kunt ons helpen &brandShortName; te verbeteren door te klikken op de &quot;&abouthealth.optin;&quot;-knop.">
 
-<!ENTITY abouthealth.optin "Help&brandShortName; te verbeteren">
+<!ENTITY abouthealth.optin "Help &brandShortName; te verbeteren">
 <!ENTITY abouthealth.optout "Rapportage uitschakelen">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Gegevensverzending stoppen?">
