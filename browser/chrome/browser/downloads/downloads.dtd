@@ -74,3 +74,6 @@
      -->
 <!ENTITY downloadsHistory.label           "Alle downloads tonen">
 <!ENTITY downloadsHistory.accesskey       "A">
+
+<!ENTITY clearDownloadsButton.label       "Downloads wissen">
+<!ENTITY clearDownloadsButton.tooltip     "Wist voltooide, geannuleerde en mislukte downloads">
