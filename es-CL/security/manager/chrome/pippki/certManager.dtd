@@ -62,7 +62,7 @@
 <!ENTITY certmgr.certname                     "Nombre de Certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
 <!ENTITY certmgr.override_lifetime            "Tiempo de vida">
-<!ENTITY certmgr.tokenname                    "Dsipositivo de Seguridad">
+<!ENTITY certmgr.tokenname                    "Dispositivo de seguridad">
 <!ENTITY certmgr.issued                       "Emitido el">
 <!ENTITY certmgr.expires                      "Vence el">
 <!ENTITY certmgr.email                        "Dirección E-Mail">
