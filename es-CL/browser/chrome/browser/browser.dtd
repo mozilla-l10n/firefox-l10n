@@ -466,3 +466,6 @@
 <!ENTITY webrtcIndicatorButton.label "Acceso a la cámara y al micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Muestra los sitios a los que actualmente comparte su cámara o micrófono">
 
+<!ENTITY mixedContentBlocked.helplink "Aprender más">
+<!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web seguirá funcionando correctamente incluso si este contenido es bloqueado.">
+

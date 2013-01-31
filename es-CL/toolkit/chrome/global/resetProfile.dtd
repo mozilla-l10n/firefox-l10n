@@ -9,5 +9,5 @@
 <!ENTITY resetProfile.dialog.button.label "Reestablecer &brandShortName;">
 <!ENTITY resetProfile.title "Restablecer &brandShortName; a su estado original">
 <!ENTITY resetProfile.description "Si está teniendo problemas graves que no puede resolver, puede arrancar de cero solamente manteniendo su información esencial.">
-<!ENTITY resetProfile.button.label "Reestablecer &brandShortName;">
+<!ENTITY resetProfile.button.label2 "Reestablecer &brandShortName;…">
 <!ENTITY resetProfile.cleaning.description "Por favor espere mientras &brandShortName; limpia sus datos antiguos…">
