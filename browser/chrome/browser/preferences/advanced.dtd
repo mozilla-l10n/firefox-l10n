@@ -35,11 +35,11 @@
 
 <!ENTITY dataChoicesTab.label            "Datos">
 
-<!ENTITY FHRSection.label                "Informe de saúde do Firefox">
-<!ENTITY FHRDesc.label                   "Axúdalle a entender o rendemento do seu navegador e comparte datos con &vendorShortName; sobre a saúde do seu navegador">
-<!ENTITY enableFHR.label                 "Activar o informe de saúde do Firefox">
-<!ENTITY enableFHR.accesskey             "F">
-<!ENTITY FHRLearnMore.label              "Obter máis información">
+<!ENTITY healthReportSection.label       "Informe de saúde do &brandShortName;">
+<!ENTITY healthReportDesc.label          "Axúdalle a entender o rendemento do seu navegador e comparte datos con &vendorShortName; sobre a saúde do seu navegador">
+<!ENTITY enableHealthReport.label        "Activar o informe de saúde do &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY healthReportLearnMore.label     "Obter máis información">
 
 <!ENTITY telemetrySection.label          "Telemetría">
 <!ENTITY telemetryDesc.label             "Comparte datos de rendemento, uso, hardware e personalizacións sobre o seu navegador con &vendorShortName; para axudarnos a mellorar &brandShortName;">
