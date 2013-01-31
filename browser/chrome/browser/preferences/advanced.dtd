@@ -35,11 +35,11 @@
 
 <!ENTITY dataChoicesTab.label            "Gegevens keuze">
 
-<!ENTITY FHRSection.label                "Firefox-gezondheidsrapport">
-<!ENTITY FHRDesc.label                   "Helpt u uw browserprestaties te begrijpen en deelt gegevens met &vendorShortName; over uw browsergezondheid">
-<!ENTITY enableFHR.label                 "Firefox-gezondheidsrapport inschakelen">
-<!ENTITY enableFHR.accesskey             "F">
-<!ENTITY FHRLearnMore.label              "Meer info ">
+<!ENTITY healthReportSection.label       "&brandShortName;-gezondheidsrapport">
+<!ENTITY healthReportDesc.label          "Helpt u uw browserprestaties te begrijpen en deelt gegevens met &vendorShortName; over uw browsergezondheid">
+<!ENTITY enableHealthReport.label        "&brandShortName;-gezondheidsrapport inschakelen">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Meer info">
 
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Deelt prestaties-, hardware-, gebruik- en aanpassingen-gegevens over uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
