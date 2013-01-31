@@ -54,11 +54,10 @@
 <!ENTITY site_security "网站安全">
 
 <!ENTITY close_tab "关闭标签页">
-<!ENTITY new_tab "新建标签页">
 <!ENTITY one_tab "1 个标签页">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d 个标签页">
+<!ENTITY num_tabs2 "&formatD; 标签页">
 <!ENTITY new_tab_opened "已打开新标签页">
 
 <!ENTITY settings "设置">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
 <!ENTITY tools "工具">
-<!ENTITY new_pb_tab "新建隐私浏览标签页">
+<!ENTITY new_tab "新建标签页">
+<!ENTITY new_private_tab "新建隐私浏览标签页">
+<!ENTITY close_all_tabs "关闭所有标签">
+<!ENTITY tabs_normal "标签页">
+<!ENTITY tabs_private "私人">
+<!ENTITY tabs_synced "已同步">
+<!ENTITY wallpaper_success "已更新壁纸">
+<!ENTITY wallpaper_progress "正在设置壁纸">
+<!ENTITY wallpaper_fail "无法设置壁纸">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "关闭">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
+<!ENTITY contextmenu_open_private_tab "在隐私浏览标签页打开">
 <!ENTITY contextmenu_open_in_reader "在阅读器中打开">
 <!ENTITY contextmenu_remove_history "移除">
 <!ENTITY contextmenu_remove_bookmark "移除">
@@ -156,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "复制地址">
 <!ENTITY contextmenu_edit_bookmark "编辑">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "页面已移除">
 
 <!ENTITY bookmark_edit_title "编辑书签">
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "上次打开的标签页">
 <!ENTITY abouthome_last_tabs_open "打开上一次的所有标签页">
 <!ENTITY abouthome_top_sites_title "热门网站">
+<!ENTITY abouthome_topsites_edit "编辑">
+<!ENTITY abouthome_topsites_pin "固定网站">
+<!ENTITY abouthome_topsites_unpin "解除网站固定">
+<!ENTITY abouthome_topsites_unpinall "全部解除固定">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -237,10 +247,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史纪录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "您想要打开 &#037;s 搜索建议吗？">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "是否希望启用 &formatS; 搜索建议？">
 
 <!ENTITY webapp_generic_name "应用">
 
