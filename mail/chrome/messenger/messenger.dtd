@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "显示聊天选项卡">
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
-<!ENTITY appmenuButton.tooltip "显示应用程序菜单">
+<!ENTITY appmenuButton1.tooltip "显示 &brandShortName; 菜单">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "新建消息">
