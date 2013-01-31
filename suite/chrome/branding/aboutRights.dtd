@@ -6,7 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "关于您的权利">
-<!ENTITY rights.intro "&brandFullName; 是自由开放的软件，由来自世界各地成千上万的社区志愿者共同完成。如下信息是您需要了解的：">
+<!ENTITY rights.intro "&brandFullName; 是自由软件和开源软件，由来自世界各地成千上万的社区志愿者共同完成。如下信息是您需要了解的：">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -16,23 +16,23 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; 提供给您时是基于">
-<!ENTITY rights.intro-point1b "Mozilla 公共许可证">
-<!ENTITY rights.intro-point1c "。这表示您可以使用、复制以及向他人分发 &brandShortName; 。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。 Mozilla 公共许可证也允许您分发自己修改过的软件。">
+<!ENTITY rights.intro-point1a "我们将 &brandShortName; 基于 ">
+<!ENTITY rights.intro-point1b "Mozilla 公共许可证（MPL）">
+<!ENTITY rights.intro-point1c "提供给您。这表示您可以使用、复制以及向他人分发 &brandShortName;。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。Mozilla 公共许可证也允许您分发自己修改过的软件。">
 
-<!ENTITY rights.intro-point2a "Mozilla不授予您任何的Mozilla和SeaMonkey商标或标志的权利。关于商标的更多信息，可以找到 ">
-<!ENTITY rights.intro-point2b "这里">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2a "Mozilla 不授予您任何关于 Mozilla 和 SeaMonkey 商标或标志的权利。单击">
+<!ENTITY rights.intro-point2b "此处">
+<!ENTITY rights.intro-point2c "了解更多关于商标的信息。">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "欲了解 &vendorShortName; 的隐私条款请参见 ">
-<!ENTITY rights.intro-point3b "这里">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3a "单击">
+<!ENTITY rights.intro-point3b "此处">
+<!ENTITY rights.intro-point3c "了解 &vendorShortName; 的隐私条款。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; 也提供了可选的网站信息服务，例如附加组件更新服务；然而，我们不能保证 100&#037; 的精确或毫无错误。更多信息，包括如何禁用服务，请参见">
+<!ENTITY rights.intro-point4a "&brandShortName; 也提供了可选的网站信息服务，例如附加组件更新服务；然而我们不保证它们运行地 100&#037; 正常、不出错。请单击">
 <!ENTITY rights.intro-point4b "服务条款">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4c "展开更多细节信息，如怎样禁用服务等。">
 
 <!ENTITY rights.webservices-header "&brandFullName; 网站服务">
 
