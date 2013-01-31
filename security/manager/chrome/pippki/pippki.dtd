@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Cambiar la Contraseña Maestra">
-<!ENTITY setPassword.tokenName.label "Dsipositivo de Seguridad">
+<!ENTITY setPassword.title  "Cambiar la Contraseña maestra">
+<!ENTITY setPassword.tokenName.label "Dispositivo de seguridad">
 <!ENTITY setPassword.oldPassword.label "Contraseña actual:">
 <!ENTITY setPassword.newPassword.label "Nueva contraseña:">
 <!ENTITY setPassword.reenterPassword.label "Nueva contraseña (otra vez):">
@@ -13,11 +13,11 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Restablecer">
-<!ENTITY resetPassword.title  "Reestablecer la contraseña maestra">
+<!ENTITY resetPassword.title  "Restablecer la contraseña maestra">
 <!ENTITY resetPassword.text  "Si restablece su contraseña maestra, todas las contraseñas web y de correo electrónico almacenados, los datos de los formularios, certificados personales y llaves privadas serán olvidados. ¿Está seguro de que quiere restablecer su contraseña maestra?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title  "Ingrese Contraseña Maestra">
+<!ENTITY getPassword.title  "Ingrese Contraseña maestra">
 <!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
 <!ENTITY getPassword.password.label "Contraseña:">
 <!-- These should be common -->
