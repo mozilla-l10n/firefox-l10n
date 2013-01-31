@@ -33,6 +33,10 @@
   Eenvoudige metingen
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   Systeeminformatie
 ">
