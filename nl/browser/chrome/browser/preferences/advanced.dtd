@@ -32,10 +32,26 @@
 <!ENTITY setDefault.label                "&brandShortName; de standaardbrowser maken">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; is momenteel uw standaardbrowser">
-<!ENTITY submitCrashes.label             "Crashrapporten verzenden">
-<!ENTITY submitCrashes.accesskey         "C">
-<!ENTITY submitTelemetry.label           "Prestatiegegevens verzenden">
-<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY dataChoicesTab.label            "Gegevens keuze">
+
+<!ENTITY FHRSection.label                "Firefox-gezondheidsrapport">
+<!ENTITY FHRDesc.label                   "Helpt u uw browserprestaties te begrijpen en deelt gegevens met &vendorShortName; over uw browsergezondheid">
+<!ENTITY enableFHR.label                 "Firefox-gezondheidsrapport inschakelen">
+<!ENTITY enableFHR.accesskey             "F">
+<!ENTITY FHRLearnMore.label              "Meer info ">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deelt prestaties-, hardware-, gebruik- en aanpassingen-gegevens over uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
+<!ENTITY enableTelemetry.label           "Telemetry inschakelen">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Meer info ">
+
+<!ENTITY crashReporterSection.label      "Crashreporter ">
+<!ENTITY crashReporterDesc.label         "&brandShortName; verzned crashrapporten om &vendorShortName; te helpen uw browser nog stabieler en veiliger te maken">
+<!ENTITY enableCrashReporter.label       "Crashreporter inschakelen">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Meer info ">
 
 <!ENTITY networkTab.label                "Netwerk">
 
