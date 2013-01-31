@@ -177,7 +177,7 @@ size. -->
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
-<!ENTITY masterpassword_remove_title "Eliminar Contraseña Maestra">
+<!ENTITY masterpassword_remove_title "Eliminar Contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
