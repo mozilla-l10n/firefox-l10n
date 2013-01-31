@@ -666,3 +666,7 @@ toolbar button -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfoon om te delen:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microfoon toegang">
+<!ENTITY webrtcIndicatorButton.tooltip "Toont pagina's waarmee u momenteel uw camera of microfeeon mee deelt">
+
