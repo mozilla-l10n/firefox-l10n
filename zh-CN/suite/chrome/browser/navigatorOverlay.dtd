@@ -77,7 +77,7 @@
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY addCurPageCmd.label "将此页面加为书签">
 <!ENTITY addCurPageCmd.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "书签文件…">
+<!ENTITY addCurPageAsCmd.label "加为书签文件…">
 <!ENTITY addCurPageAsCmd.accesskey "F">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "将此标签组加为书签…">
@@ -87,7 +87,7 @@
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
-<!ENTITY searchInternetCmd.label "搜索互联网 (S)">
+<!ENTITY searchInternetCmd.label "搜索互联网 (b)">
 <!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "翻译页面">
