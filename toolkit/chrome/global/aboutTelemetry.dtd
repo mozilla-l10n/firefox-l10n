@@ -4,11 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-data">
 
-<!ENTITY aboutTelemetry.pageSubtitle "
-  Deze pagina toont de gegevens over prestaties en functiegebruik, verzameld door Telemetry.
-  Deze informatie wordt anoniem naar Mozilla verzonden om &brandShortName; te helpen verbeteren.
-">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Telemetry is <span>ingeschakeld</span>.
 ">
@@ -31,10 +26,6 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Eenvoudige metingen
-">
-
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
