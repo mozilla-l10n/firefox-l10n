@@ -110,7 +110,7 @@
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Eksekver">
-<!ENTITY executeMenu.accesskey        "U">
+<!ENTITY executeMenu.accesskey        "E">
 
 <!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
   -  the browser WebConsole, the key should be identical to the property of

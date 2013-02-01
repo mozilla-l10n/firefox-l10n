@@ -16,7 +16,7 @@
 <!ENTITY availableTabs "Tilgængelige fjern-faneblade:">
 <!ENTITY availableProcesses "Tilgængelige fjern-processer:">
 <!ENTITY connectionError "Fejl:">
-<!ENTITY errorTimeout "Fejl: Forbindelsen udløb.">
+<!ENTITY errorTimeout "Fejl: Forbindelsestiden udløb.">
 <!ENTITY errorRefused "Fejl: Forbindelse nægtet.">
 <!ENTITY errorUnexpected "Uventet fejl.">
-<!ENTITY help "Udvikler-værktøjerne i Firefox kan bruges til at fjern-fejlfinde andre enheder (fx Firefox til Android og Firefox OS). Sørg for at have slået 'Fjernbetjent fejlfinding' til på enheden. Læs mere i <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentationen (på engelsk)</a>"
+<!ENTITY help "Udviklerværktøjerne i Firefox kan bruges til at fjern-fejlfinde andre enheder (fx Firefox til Android og Firefox OS). Sørg for at have slået 'Fjernbetjent fejlfinding' til på enheden. Læs mere i <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentationen (på engelsk)</a>>"
