@@ -162,6 +162,7 @@
 <!ENTITY abouthome_topsites_edit "Modifica">
 <!ENTITY abouthome_topsites_pin "Blocca sito">
 <!ENTITY abouthome_topsites_unpin "Sblocca sito">
+<!ENTITY abouthome_topsites_remove "Rimuovi">
 <!ENTITY abouthome_about_sync3 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
 <!ENTITY abouthome_about_apps3 "Scarica nuove app da Firefox Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
