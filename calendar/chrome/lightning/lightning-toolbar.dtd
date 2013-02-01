@@ -34,8 +34,8 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "k">
 <!ENTITY lightning.toolbar.month.label               "Ay">
 <!ENTITY lightning.toolbar.month.accesskey           "A">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Uygulama Menüsü">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Uygulama menüsünü gösterir">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "&brandShortName; menüsünü göster">
 
