@@ -4,4 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nueva pestaña">
-
+<!ENTITY newtab.undo.removedLabel "Miniatura removida.">
+<!ENTITY newtab.undo.undoButton "Deshacer.">
+<!ENTITY newtab.undo.restoreButton "Restaurar todo.">
+<!ENTITY newtab.undo.closeTooltip "Ocultar">

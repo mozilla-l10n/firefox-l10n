@@ -283,10 +283,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY clearRecentHistory.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Comenzar la navegación privada">
-<!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Dejar la navegación privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Ver">
@@ -430,6 +426,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Audio por email…">
 <!ENTITY emailAudioCmd.accesskey      "A">
+<!ENTITY playPluginCmd.label          "Activar este plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Ocultar este plugin">
+<!ENTITY hidePluginCmd.accesskey      "o">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageCmd.label "Copiar dirección de la imagen">
@@ -632,3 +632,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY webrtcIndicatorButton.label "Acceso a cámara / micrófono">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostrar sitios con los cuales esté compartiendo cámara o micrófono">
+
+<!ENTITY mixedContentBlocked.helplink "Conocer más">
+<!ENTITY mixedContentBlocked.moreinfo "La mayor parte de los sitios web aún funcionan correctamente cunando este contenido es bloqueado.">
