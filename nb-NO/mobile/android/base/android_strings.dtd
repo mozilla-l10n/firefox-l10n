@@ -71,7 +71,12 @@
 <!ENTITY pref_do_not_track "Be nettsider om å ikke spore">
 <!ENTITY pref_telemetry "Send ytelsesdata">
 <!ENTITY pref_remember_signons "Husk passord">
-<!ENTITY pref_cookies "Slå på infokapsler">
+
+<!ENTITY pref_cookies_menu "Infokapsler">
+<!ENTITY pref_cookies_accept_all "Påslått">
+<!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
+<!ENTITY pref_cookies_disabled "Avslått">
+
 <!ENTITY pref_char_encoding "Tegnkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
@@ -81,6 +86,7 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spille av">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
+<!ENTITY pref_reflow_on_zoom2 "Klyp for å oppdatere tekstflyt">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
@@ -111,6 +117,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
 <!ENTITY pref_private_data_siteSettings "Nettstedsinnstillinger">
 
+<!ENTITY pref_update_autodownload "Automatiske oppdateringer">
+<!ENTITY pref_update_autodownload_wifi "Bare over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Avslått">
+<!ENTITY pref_update_autodownload_enabled "Påslått">
+
 <!ENTITY quit "Avslutt">
 
 <!ENTITY addons "Utvidelser">
@@ -125,6 +136,7 @@ size. -->
 <!ENTITY find_in_page "Finn på siden">
 <!ENTITY desktop_mode "Last ned desktop-sider">
 <!ENTITY tools "Verktøy">
+<!ENTITY new_pb_tab "Ny privat nettleserfane">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -182,7 +194,6 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Faner fra forrige gang">
 <!ENTITY abouthome_last_tabs_open "Åpne alle faner fra forrige gang">
 <!ENTITY abouthome_top_sites_title "Toppliste">
-<!ENTITY abouthome_top_sites_browse "Vis alle mest brukte">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -249,4 +260,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatere">
-

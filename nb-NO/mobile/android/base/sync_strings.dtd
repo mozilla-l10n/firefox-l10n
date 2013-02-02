@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Innstillinger'>
 <!ENTITY sync.summary.pair.label 'Koble til &syncBrand.shortName.label;-kontoen med en annen enhet'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Hva skal synkroniseres'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine …'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Bokmerker'>
+<!ENTITY sync.configure.engines.title.passwords 'Passord'>
+<!ENTITY sync.configure.engines.title.history 'Historikk'>
+<!ENTITY sync.configure.engines.title.tabs 'Faner'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Avbryt'>
 <!ENTITY sync.button.connect.label 'Koble til'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Bare en &syncBrand.fullName.label;-konto støttes.'>
+<!ENTITY sync.notification.configure.saved 'Dine valg er lagret.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Feil kontonavn eller passord.'>
