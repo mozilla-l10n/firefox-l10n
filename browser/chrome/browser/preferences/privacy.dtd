@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY doNotTrack.label                "Decirle a los sitios web que no quiero ser rastreado">
-<!ENTITY doNotTrack.accesskey            "D">
+<!ENTITY dntTrackingNopref.label        "No decirle a los sitios mis preferencias de rastreo.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Decirle a los sitios que no quiero ser rastreado.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Decirle a los sitios que quiero ser rastreado.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Conocer más">
 
 <!ENTITY  history.label "Historial">
 
