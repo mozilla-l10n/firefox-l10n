@@ -47,8 +47,8 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Conocer más">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY crashReporterSection.label      "Informe de fallos">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de fallos para ayudar a que &vendorShortName; haga un navegador más estable y seguro">
 <!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Conocer más">
@@ -106,12 +106,12 @@
 <!ENTITY updateHistory.label             "Mostar el historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY offlineNotify.label             "Informarme cuando un sitio web pida guardar datos para usar sin conexión">
+<!ENTITY offlineNotify.label             "Informarme cuando un sitio pida guardar datos para usar sin conexión">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
+<!ENTITY offlineAppsList2.label          "Los siguientes sitios tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
