@@ -29,6 +29,8 @@
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Фильтр переменных">
 <!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.focusVariables "Сфокусироваться на дереве переменных">
+<!ENTITY debuggerUI.focusVariables.key "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Эта точка останова прервёт выполнение, только если следующее выражение будет истиной">
 <!ENTITY debuggerUI.seMenuBreak "Добавить точку останова">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
