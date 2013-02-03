@@ -29,8 +29,8 @@
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
+<!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">

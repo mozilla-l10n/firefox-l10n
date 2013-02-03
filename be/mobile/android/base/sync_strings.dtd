@@ -57,6 +57,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Закладкі працоўнага стала.">
 <!ENTITY bookmarks.folder.mobile.label "Мабільныя закладкі">
 <!ENTITY bookmarks.folder.readinglist.label "Спіс чытання">
+<!ENTITY bookmarks.folder.pinned.label "Прышпіленая">
 <!ENTITY sync.notification.oneaccount.label "Толькі рахунак &syncBrand.fullName.label; падтрымліваецца.">
 <!ENTITY sync.notification.configure.saved "Ваш выбар захаваны.">
 <!ENTITY sync.invalidcreds.label "Няправільная назва рахунку аоб пароль.">

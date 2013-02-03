@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Адасобленае азіранне">
+<!ENTITY privatebrowsingpage.issueDesc.private "Вы адчынілі новую адасобленую ўстаўку.">
+<!ENTITY privatebrowsingpage.issueDesc.normal "Вы не на адасобленай устаўцы.">
+<!ENTITY privatebrowsingpage.description "На адасобленых устаўках &brandShortName; не захоўвае ні гісторыі азірання, ні гісторыі пошуку, ні гісторыі сцягванняў, ні гісторыі формаў сеціва, ні бірак, ні часовых файлаў інтэрнэту.  Тым не менш, сцягнутыя вамі файлы і зробленыя вамі закладкі будуць захованы.">
+<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.moreInfo "Хоць вашая збудова не будзе мець запісу вашай гісторыя азірання, ваш дастаўшчык паслугаў інтэрнэту або ваш наймальнік можа, тым не менш, дагэтуль адсочваць старонкі, якія вы наведваеце.">

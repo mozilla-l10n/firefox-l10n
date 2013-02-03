@@ -57,12 +57,12 @@
 <!ENTITY FontSizeSelect.tooltip "Выбраць памер шрыфту">
 <!ENTITY decreaseFontSize.label "Меншы">
 <!ENTITY decreaseFontSize.accesskey "е">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ",">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ",">
 <!ENTITY increaseFontSize.label "Большы">
 <!ENTITY increaseFontSize.accesskey "Б">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 ".">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Памер">
 <!ENTITY fontSizeMenu.accesskey "м">
 <!ENTITY size-xx-smallCmd.label "xx-малы">

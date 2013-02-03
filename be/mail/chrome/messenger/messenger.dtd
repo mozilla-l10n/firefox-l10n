@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Паказаць устаўку гутаркі">
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
-<!ENTITY appmenuButton.tooltip "Паказвае меню прыстасаванняў">
+<!ENTITY appmenuButton1.tooltip "Адлюстраваць меню &brandShortName; Menu">
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
