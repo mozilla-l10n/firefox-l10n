@@ -63,7 +63,6 @@
 <!ENTITY filterBox.placeholder "Filtrer">
 <!ENTITY btnClear.label        "Ryd">
 <!ENTITY btnClear.tooltip      "Ryd webkonsollen">
-<!ENTITY btnClose.tooltip      "Luk webkonsollen">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
