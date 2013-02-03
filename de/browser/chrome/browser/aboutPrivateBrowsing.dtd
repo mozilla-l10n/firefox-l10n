@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; wird keinerlei Chronik für diese Sitzung anlegen.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ist derzeit nicht im privaten Modus.">
 
-<!ENTITY privatebrowsingpage.description               "Im privaten Modus wird &brandShortName; keinerlei Chronik anlegen. Das enthält besuchte Seiten, Sucheinträge, Formulardaten, Cookies, temporäre Internetdateien und die Download-Chronik. Allerdings werden alle Lesezeichen, die Sie anlegen, oder Dateien, die Sie herunterladen, beibehalten.">
+<!ENTITY privatebrowsingpage.description               "Im privaten Modus wird &brandShortName; keinerlei Chronik anlegen. Dies betrifft besuchte Seiten, Sucheinträge, Formulardaten, Cookies, temporäre Internetdateien und die Download-Chronik. Allerdings werden alle Lesezeichen, die Sie anlegen, oder Dateien, die Sie herunterladen, beibehalten.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
