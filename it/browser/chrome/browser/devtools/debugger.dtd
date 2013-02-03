@@ -29,6 +29,8 @@
 <!ENTITY debuggerUI.searchLine.key "P">
 <!ENTITY debuggerUI.searchVariable "Filtra variabili">
 <!ENTITY debuggerUI.searchVariable.key "F">
+<!ENTITY debuggerUI.focusVariables "Seleziona albero delle variabili">
+<!ENTITY debuggerUI.focusVariables.key "v">
 <!ENTITY debuggerUI.condBreakPanelTitle "Questo punto di interruzione blocca l'esecuzione solo se l'espressione seguente è vera">
 <!ENTITY debuggerUI.seMenuBreak "Aggiungi punto di interruzione">
 <!ENTITY debuggerUI.seMenuBreak.key "u">
