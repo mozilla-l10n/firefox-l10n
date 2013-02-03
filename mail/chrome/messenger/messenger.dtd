@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Chat-Tab öffnen">
 <!ENTITY tagButton.tooltip "Bei gewählten Nachrichten Schlagwörter hinzufügen/entfernen">
 <!ENTITY compactButton.tooltip "Gelöschte Nachrichten endgültig aus dem gewählten Ordner entfernen">
-<!ENTITY appmenuButton.tooltip "Anwendungsmenü anzeigen">
+<!ENTITY appmenuButton1.tooltip "Anwendungsmenü von &brandShortName; anzeigen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Neue Nachricht">
