@@ -20,8 +20,8 @@
 <!ENTITY contextManual.accesskey "а">
 <!ENTITY contextBeforeCls.label "Фильтровать перед анализом на спам">
 <!ENTITY contextAfterCls.label "Фильтровать после анализа на спам">
-<!ENTITY filterActionDesc.label "Выполнять следующие действия:">
-<!ENTITY filterActionDesc.accesskey "ы">
+<!ENTITY filterActionDesc.label "Производить следующие действия:">
+<!ENTITY filterActionDesc.accesskey "и">
 <!ENTITY moveMessage.label "Переместить сообщение в">
 <!ENTITY copyMessage.label "Копировать сообщение в">
 <!ENTITY forwardTo.label "Переслать сообщение на">
