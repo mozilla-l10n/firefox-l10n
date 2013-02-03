@@ -1,3 +1,7 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+
 /*
  * Папраўце гэты файл і захавайце яго як userChrome.css у
  * дырэкторыі chrome/ вашага профілю.
@@ -12,21 +16,21 @@
 /*
  * Не выдаляйце радок @namespace -- ён патрабуецца для правільнага выканання.
  */
-@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* прызначае назвапрастору па змоўчанню для XUL */
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* прызначае змоўчную назвапрастору для XUL */
 
 
 /*
- * Асобныя магчымыя паляпшэнні ёмкасці:
+ * Асобныя магчымыя паляпшэнні даступнасці:
  */
 /*
- * Зрабіць усе памеры па змоўчанню шрыфтоў 20 pt:
+ * Зрабіць усе змоўчныя памеры шрыфтоў 20 pt:
  *
  * * {
  *   font-size: 20pt !important
  * }
  */
 /*
- * Зрабіць памер усіх адзінак меню роўным 15 pt замест памеру па змоўчанню:
+ * Зрабіць памер усіх адзінак меню роўным 15 pt замест змоўчнага памеру:
  *
  * menupopup > * {
  *   font-size: 15pt !important
@@ -49,6 +53,6 @@
  */
 
 /*
- * Наведайце http://www.mozilla.org/unix/customizing.html каб атрымаць больш прыкладаў.
+ * Наведайце http://www.mozilla.org/unix/customizing.html , каб атрымаць больш прыкладаў.
  */
  

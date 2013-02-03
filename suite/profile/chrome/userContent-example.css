@@ -1,43 +1,36 @@
 /*
- * Edit this file and copy it as userContent.css into your
- * profile-directory/chrome/
+ * Папраўце гэты файл і захавайце яго як userContent.css у
+ * дырэкторыі chrome/ вашага профілю.
  */
 
 /*
- * This file can be used to apply a style to all web pages you view
- * Rules without !important are overruled by author rules if the
- * author sets any.  Rules with !important overrule author rules.
+ * Гэты файл можа ўжывацца для надання стылю ўсім старонкам Сеціва,
+ * якія вы праглядаеце.
+ * Правілы без !important перавызначаюцца правіламі аўтара, калі ён
+ * прызначыў іх. Правілы з !important замяняюць правілы аўтара.
  */
 
 /*
- * example: turn off "blink" element blinking
+ * прыклад: выключыць мігаценне адзінкі "blink"
  *
  * blink { text-decoration: none ! important; }
  *
  */
 
 /*
- * example: give all tables a 2px border
+ * прыклад: прызначыць мяжу ў 2 пікселі усім табліцам
  *
  * table { border: 2px solid; }
  */
 
 /*
- * example: turn off "marquee" element
+ * прыклад: выключыць адзінку "marquee"
  *
  * marquee { -moz-binding: none; }
  *
  */
-
-/*
- * example: make search fields on www.mozilla.org black-on-white
- *
- * @-moz-document url-prefix(http://www.mozilla.org/) {
- *   #q { background: white ! important; color: black ! important; }
- * }
- */
  
 /* 
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Наведайце http://www.mozilla.org/unix/customizing.html каб атрымаць больш прыкладаў.
  */
 

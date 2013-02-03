@@ -42,9 +42,8 @@
 <!ENTITY stop "Спыніць">
 <!ENTITY site_security "Бяспека пляцоўкі">
 <!ENTITY close_tab "Зачыніць устаўку">
-<!ENTITY new_tab "Новая ўстаўка">
 <!ENTITY one_tab "1 устаўка">
-<!ENTITY num_tabs "&#037;d устаўкі(-ак)">
+<!ENTITY num_tabs2 "&formatD; уставак">
 <!ENTITY new_tab_opened "Адчынена новая ўстаўка">
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
@@ -106,12 +105,21 @@
 <!ENTITY find_in_page "Знайсці на старонцы">
 <!ENTITY desktop_mode "Запыт настольнай пляцоўкі">
 <!ENTITY tools "Прылады">
-<!ENTITY new_pb_tab "Новая ўстаўка адасобленага азірання">
+<!ENTITY new_tab "Новая ўстаўка">
+<!ENTITY new_private_tab "Новая адасобленая ўстаўка">
+<!ENTITY close_all_tabs "Закрыць усе ўстаўкі">
+<!ENTITY tabs_normal "Устаўкі">
+<!ENTITY tabs_private "Асабістыя">
+<!ENTITY tabs_synced "Сінхранізаваныя">
+<!ENTITY wallpaper_success "Шпалеры абноўлены">
+<!ENTITY wallpaper_progress "Усталяванне шпалераў">
+<!ENTITY wallpaper_fail "Немагчыма ўсталяваць шпалеры">
 <!ENTITY find_text "Знайсці на старонцы">
 <!ENTITY find_prev "Папярэдняя">
 <!ENTITY find_next "Наступная">
 <!ENTITY find_close "Закрыць">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
+<!ENTITY contextmenu_open_private_tab "Адчыніць у адасобленай устаўцы">
 <!ENTITY contextmenu_open_in_reader "Адкрыць у чытачу">
 <!ENTITY contextmenu_remove_history "Выдаліць">
 <!ENTITY contextmenu_remove_bookmark "Прыняць">
@@ -151,6 +159,10 @@
 <!ENTITY abouthome_last_tabs_title "Вашы апошнія ўстаўкі">
 <!ENTITY abouthome_last_tabs_open "Адкрыць усе вашы апошнія ўстаўкі">
 <!ENTITY abouthome_top_sites_title "Найнаведвальныя пляцоўкі">
+<!ENTITY abouthome_topsites_edit "Праўка">
+<!ENTITY abouthome_topsites_pin "Прышпіліць пляцоўку">
+<!ENTITY abouthome_topsites_unpin "Адшпіліць пляцоўку">
+<!ENTITY abouthome_topsites_unpinall "Адшпіліць усе">
 <!ENTITY abouthome_about_sync3 "Наладзіць Firefox Sync, каб даступацца да закладак, гісторыі і ўставак з іншых збудоваў »">
 <!ENTITY abouthome_about_apps3 "Атрымаць прыстасаванні з рынка Firefox і даведацца, што мае Сеціва прапанаваць »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
@@ -171,7 +183,7 @@
 <!ENTITY bookmarkhistory_import_history "Імпартаванне закладак і гісторыі
                                          з Android">
 <!ENTITY bookmarkhistory_import_wait "Пачакайце, калі ласка...">
-<!ENTITY suggestions_prompt "Вы хочаце ўключыць прапановы пошуку &#037;s?">
+<!ENTITY suggestions_prompt2 "Хочаце ўключыць прапановы пошуку &formatS;?">
 <!ENTITY webapp_generic_name "Прыстасаванне">
 <!ENTITY searchable_description "Закладкі і гісторыя">
 <!ENTITY updater_start_title2 "Існуе абнаўленне &brandShortName;">

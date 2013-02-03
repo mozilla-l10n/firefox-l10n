@@ -8,21 +8,25 @@
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label "Дзеянне кола мышы">
+<!ENTITY mouseWheelGroup.label "Вертыкальнае пракручванне">
+<!ENTITY mouseWheelHorizGroup.label "Гарызантальнае пракручванне">
+<!ENTITY sameAsVertical.label "Як і вертыкальнае пракручванне">
+<!ENTITY sameAsVertical.accesskey "в">
 <!ENTITY doNothing.label "Не рабіць нічога">
 <!ENTITY doNothing.accesskey "н">
+<!ENTITY doNothingHoriz.accesskey "н">
 <!ENTITY scrollDocument.label "Пракрутка дакумента">
 <!ENTITY scrollDocument.accesskey "к">
+<!ENTITY scrollDocumentHoriz.accesskey "г">
 <!ENTITY history.label "Перайсці назад ці наперад згодна гісторыі азірання">
 <!ENTITY history.accesskey "п">
+<!ENTITY historyHoriz.accesskey "р">
 <!ENTITY zoom.label "Зрабіць старонку большай ці меншай">
 <!ENTITY zoom.accesskey "З">
-<!ENTITY mouseWheelSpeed.label "Хуткаць кола мышы">
-<!ENTITY verticalSpeed.label "Вертыкальная:">
-<!ENTITY verticalSpeed.accesskey "В">
-<!ENTITY verticalReverse.label "Адваротны кірунак">
-<!ENTITY verticalReverse.accesskey "в">
-<!ENTITY horizontalSpeed.label "Гарызантальная:">
-<!ENTITY horizontalSpeed.accesskey "o">
-<!ENTITY horizontalReverse.label "Адваротны кірунак">
-<!ENTITY horizontalReverse.accesskey "р">
+<!ENTITY zoomHoriz.accesskey "з">
+<!ENTITY wheelSpeed.label "Хуткасць кола мышы:">
+<!ENTITY wheelSpeed.accesskey "к">
+<!ENTITY wheelSpeedHoriz.accesskey "о">
+<!ENTITY reverseDirection.label "Адваротны кірунак:">
+<!ENTITY reverseDirection.accesskey "А">
+<!ENTITY reverseDirectionHoriz.accesskey "д">
