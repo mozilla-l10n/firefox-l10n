@@ -28,7 +28,7 @@
 <!ENTITY  moveToNewGroup.label               "ਨਵਾਂ ਗਰੁੱਪ">
 <!ENTITY  moveToNewWindow.label              "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "...ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
+<!ENTITY  bookmarkAllTabs.label              "…ਸਭ ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -192,19 +192,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsConnect.label        "…ਕੁਨੈਕਟ">
+<!ENTITY devtoolsConnect.accesskey    "e">
+  
 <!ENTITY errorConsoleCmd.label        "ਗਲਤੀ ਕਨਸੋਂਲ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-
-<!ENTITY webConsoleCmd.label          "ਵੈੱਬ ਕਨਸੋਲ">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "ਰਿਮੋ ਵੈੱਬ ਕਨਸੋਲ">
-
-<!ENTITY inspectMenu.label            "ਜਾਂਚ">
-<!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -228,15 +223,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "ਇੰਸਪੈਕਟਰ ਬੰਦ ਕਰੋ">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "ਬਾਹੀ ਬੰਦ ਕਰੋ">
-
-
 <!ENTITY devToolbarCloseButton.tooltiptext "ਡਿਵੈਲਪਰ ਟੂਲਬਾਰ ਬੰਦ ਕਰੋ">
 <!ENTITY devToolbarMenu.label              "ਡਿਵੈਲਪਰ ਮੋਡ">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "ਟੂਲ ਬਦਲੋ">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "ਡਿਵੈਲਪਰ ਟੂਲ ਬਦਲੋ">
 <!ENTITY devToolbarOtherToolsButton.label  "ਹੋਰ ਟੂਲ">
 
 
@@ -249,34 +244,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ਟੈਬ ਅਣ-ਪਿੰਨ ਕਰੋ">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-<!ENTITY inspectorHTMLCopyInner.label       "ਅੰਦਰੂਨੀ HTML ਕਾਪੀ ਕਰੋ">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "ਬਾਹਰੀ HTML ਕਾਪੀ ਕਰੋ">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "ਨੋਡ ਹਟਾਓ">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-
-
-
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "3D ਝਲਕ">
-<!ENTITY inspect3DViewButton.accesskey "W">
-
-<!ENTITY inspectStyleButton.label     "ਸਟਾਈਲ">
-<!ENTITY inspectStyleButton.accesskey "S">
-
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "ਸਟਾਈਲ ਐਡੀਟਰ">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "ਹੋਰ ਟੂਲ ਲਵੋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -335,7 +302,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ਸਾਈਡਬਾਰ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "ਪਸੰਦ…">
+<!ENTITY viewCustomizeToolbar.label       "…ਪਸੰਦ">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "ਟੈਬਾਂ ਉੱਤੇ">
 <!ENTITY viewTabsOnTop.accesskey        "T">
@@ -354,7 +321,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "ਸੋਧ">
 <!ENTITY appMenuCustomize.label "ਪਸੰਦੀਦਾ">
-<!ENTITY appMenuToolbarLayout.label "ਟੂਲਬਾਰ ਲੇਆਉਟ…">
+<!ENTITY appMenuToolbarLayout.label "…ਟੂਲਬਾਰ ਲੇਆਉਟ">
 <!ENTITY appMenuSidebars.label "ਬਾਹੀ">
 <!ENTITY appMenuFind.label "…ਖੋਜ">
 <!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
@@ -398,6 +365,8 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmd.label            "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "ਲਿੰਕ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "ਲਿੰਕ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInTab.label       "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
@@ -433,7 +402,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵੇਖੋ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ…">
+<!ENTITY setDesktopBackgroundCmd.label      "…ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ਇਹ ਪੇਜ਼ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
@@ -499,7 +468,7 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "ਸਨੈਪਸ਼ਾਟ ਇੰਝ ਸੰਭਾਲੋ…">
+<!ENTITY videoSaveImage.label        "…ਸਨੈਪਸ਼ਾਟ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -579,9 +548,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "...ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਪਸੰਦ ਸੋਧ">
+<!ENTITY editPopupSettingsUnix.label "…ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਪਸੰਦ ਸੋਧ">
 
-<!ENTITY editPopupSettings.label "...ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਚੋਣ ਸੋਧ">
+<!ENTITY editPopupSettings.label "…ਪੋਪਅੱਪ ਪਾਬੰਦੀ ਚੋਣ ਸੋਧ">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -591,7 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ਇਸ ਪੇਜ਼ ਉੱਤੇ ਲੱਭੋ...">
+<!ENTITY findOnCmd.label     "…ਇਸ ਪੇਜ਼ ਉੱਤੇ ਲੱਭੋ">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ਮੁੜ ਖੋਜ">
@@ -599,7 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "...ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ">
+<!ENTITY spellAddDictionaries.label "…ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                      "ਮੁਕੰਮਲ">
@@ -623,9 +592,8 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ਜੋ ਕਿ ਚਲਾਈ ਜਾ ਰਹੀ ਹੈ">
 
-<!ENTITY identity.moreInfoLinkText "...ਹੋਰ ਜਾਣਕਾਰੀ">
+<!ENTITY identity.moreInfoLinkText "…ਹੋਰ ਜਾਣਕਾਰੀ">
 
-<!ENTITY downloadMonitor2.tooltip "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਵਾਸਤੇ ਕਲਿੱਕ ਕਰੋ">
 
 <!ENTITY allTabs.filter.emptyText "ਟੈਬ ਖੋਜ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -653,14 +621,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "ਐਡ-ਆਨ ਪੱਟੀ ਬੰਦ ਕਰੋ">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-<!ENTITY markupButton.arialabel          "ਮਾਰਕਅੱਪ">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "ਸਮਾਜਿਕ ਟੂਲਬਾਰ ਬਟਨ">
 <!ENTITY social.notLoggedIn.label   "ਲਾਗਇਨ ਨਹੀਂ ਹੈ">
@@ -685,3 +645,14 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "ਗੱਲਬਾਤ ਫੋਕਸ">
+<!ENTITY social.chatBar.accesskey "c">
+
+
+<!ENTITY getUserMedia.selectCamera.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੈਮਰਾ:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "ਕੈਮਰਾ/ਮਾਈਕਰੋਫੋਨ ਵਰਤੋਂ">
+<!ENTITY webrtcIndicatorButton.tooltip "ਸਾਈਟਾਂ ਵੇਖਾਉਂਦਾ ਹੈ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਤੁਸੀਂ ਆਪਣਾ ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫੋਨ ਇਸ ਸਮੇਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
