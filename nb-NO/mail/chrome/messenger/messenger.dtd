@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Vis nettprat-fanen">
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
-<!ENTITY appmenuButton.tooltip "Viser Applikasjon-menyen">
+<!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
