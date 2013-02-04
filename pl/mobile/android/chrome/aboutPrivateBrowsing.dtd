@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Tryb prywatny">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Otwarto nową kartę w trybie prywatnym.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Karta nie jest otwarta w trybie prywatnym.">
+
+<!ENTITY privatebrowsingpage.description            "W trybie prywatnym przeglądarka &brandShortName; nie zachowuje historii przeglądania, wyszukiwania, pobierania i formularzy oraz nie zachowuje ciasteczek i plików tymczasowych. Pobrane pliki i dodane zakładki zostaną zachowane.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Mimo że historia przeglądania nie zostanie zachowana na tym urządzeniu, dostawca usług internetowych wciąż może prześledzić historię odwiedzanych stron.">
