@@ -38,7 +38,7 @@
 
      that's 28 characters, so we set the minimum width to 28ch.
      -->
-<!ENTITY downloadsSummary.minWidth        "29ch">
+<!ENTITY downloadsSummary.minWidth2       "22ch">
 
 <!ENTITY cmd.pause.label                  "Pausearje">
 <!ENTITY cmd.pause.accesskey              "P">
