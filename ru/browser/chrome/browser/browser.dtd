@@ -215,7 +215,6 @@
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 <!ENTITY clearRecentHistory.label "Стереть недавнюю историю…">
-<!ENTITY clearRecentHistory.accesskey "т">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "В">
