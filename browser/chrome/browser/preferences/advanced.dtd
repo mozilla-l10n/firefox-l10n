@@ -33,7 +33,7 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; er sat som din standardbrowser">
 
-<!ENTITY dataChoicesTab.label            "Indstillinger for deling og brug">
+<!ENTITY dataChoicesTab.label            "Datadeling">
 
 <!ENTITY healthReportSection.label       "&brandShortName; sundhedsrapport">
 <!ENTITY healthReportDesc.label          "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
@@ -49,7 +49,7 @@
 
 <!ENTITY crashReporterSection.label      "Fejlrapportering">
 <!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter for at hjælpe  &vendorShortName; med at gøre din browser mere stabil og sikker">
-<!ENTITY enableCrashReporter.label       "Aktiver Fejlrapportering">
+<!ENTITY enableCrashReporter.label       "Aktiver fejlrapportering">
 <!ENTITY enableCrashReporter.accesskey   "F">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
 

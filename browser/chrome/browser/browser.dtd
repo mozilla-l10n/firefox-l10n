@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Vælg værktøjer">
 <!ENTITY devToolboxMenuItem.accesskey      "V">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Vælg udvikler-værktøjer">
+<!ENTITY devToolbarToolsButton.tooltip     "Vælg udviklerværktøjer">
 <!ENTITY devToolbarOtherToolsButton.label  "Flere værktøjer">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent flere værktøjer">

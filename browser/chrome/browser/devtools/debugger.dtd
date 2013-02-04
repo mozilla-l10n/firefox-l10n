@@ -101,7 +101,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak         "Tilføj breakpoint">
-<!ENTITY debuggerUI.seMenuBreak.key     "b">
+<!ENTITY debuggerUI.seMenuBreak.key     "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
@@ -111,12 +111,12 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
-<!ENTITY debuggerUI.seMenuAddWatch      "Selection to watch expression">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.seMenuAddWatch      "Overvåg markeret udtryk">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "m">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
-<!ENTITY debuggerUI.addWatch            "Tilføj overvågnings-udtryk">
+<!ENTITY debuggerUI.addWatch            "Tilføj udtryk, der skal overvåges">
 <!ENTITY debuggerUI.addWatch.key        "u">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
