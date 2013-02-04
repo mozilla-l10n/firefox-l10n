@@ -11,14 +11,14 @@
 
 <!ENTITY abouthealth.intro.title "Hvad er &brandShortName; sundhedsrapport?">
 
-<!ENTITY abouthealth.intro-enabled "&brandFullName; indsamler data om din computer og brug af &brandnameFullName; for at kunne give dig en bedre browser-oplevelse.">
+<!ENTITY abouthealth.intro-enabled "&brandFullName; indsamler data om din computer og brug af &brandFullName; for at kunne give dig en bedre browser-oplevelse.">
 <!ENTITY abouthealth.intro-disabled "Du indsender ikke brugsdata til &vendorShortName; i øjeblikket. Du kan hjælpe med at gøre &brandShortName; bedre ved at klikke på knappen &quot;&abouthealth.optin;&quot;.">
 
 <!ENTITY abouthealth.optin "Hjælp med at gøre  &brandShortName; bedre">
 <!ENTITY abouthealth.optout "Slå rapportering fra">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Stop med at indsende data?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Er du sikker på at du vil melde dig fra og slette alle dine anonyme data på &vendorShortName;s servere?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Er du sikker på, at du vil melde dig fra og slette alle dine anonyme data på &vendorShortName;s servere?">
 
 <!ENTITY abouthealth.show-raw-data "Vis detaljer">
 <!ENTITY abouthealth.hide-raw-data "Skjul detaljer">
