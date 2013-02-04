@@ -560,7 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Prikaži karticu razgovora">
 <!ENTITY tagButton.tooltip "Označi poruke">
 <!ENTITY compactButton.tooltip "Ukloni obrisane poruke iz odabrane mape">
-<!ENTITY appmenuButton.tooltip "Otvori izbornik">
+<!ENTITY appmenuButton1.tooltip "Otvori &brandShortName; izbornik">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova poruka">
