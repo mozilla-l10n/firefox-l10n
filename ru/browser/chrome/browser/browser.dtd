@@ -247,7 +247,7 @@
 <!ENTITY appMenuSafeMode.label "Перезапустить с отключёнными дополнениями…">
 <!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Перейти на веб-сайт">
+<!ENTITY urlbar.placeholder2 "Введите поисковый запрос или адрес">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
 <!ENTITY searchFocus.commandkey "k">
