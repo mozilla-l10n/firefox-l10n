@@ -54,11 +54,10 @@
 <!ENTITY site_security "Gunearen segurtasuna">
 
 <!ENTITY close_tab "Itxi fitxa">
-<!ENTITY new_tab "Fitxa berria">
 <!ENTITY one_tab "fitxa 1">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d fitxa">
+<!ENTITY num_tabs2 "&formatD; fitxa">
 <!ENTITY new_tab_opened "Fitxa berria irekita">
 
 <!ENTITY settings "Ezarpenak">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Eskatu mahaigaineko gunea">
 <!ENTITY tools "Tresnak">
-<!ENTITY new_pb_tab "Nabigatze pribatuko fitxa berria">
+<!ENTITY new_tab "Fitxa berria">
+<!ENTITY new_private_tab "Fitxa pribatu berria">
+<!ENTITY close_all_tabs "Itxi fitxa guztiak">
+<!ENTITY tabs_normal "Etiketak">
+<!ENTITY tabs_private "Pribatua">
+<!ENTITY tabs_synced "Sinkronizatuak">
+<!ENTITY wallpaper_success "Horma-papera eguneratuta">
+<!ENTITY wallpaper_progress "Horma-papera ezartzen">
+<!ENTITY wallpaper_fail "Ezin da horma-papera ezarri">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Itxi">
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
+<!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
 <!ENTITY contextmenu_open_in_reader "Ireki irakurgailuan">
 <!ENTITY contextmenu_remove_history "Kendu">
 <!ENTITY contextmenu_remove_bookmark "Kendu">
@@ -155,8 +163,6 @@ size. -->
 <!ENTITY contextmenu_paste "Itsatsi">
 <!ENTITY contextmenu_copyurl "Kopiatu helbidea">
 <!ENTITY contextmenu_edit_bookmark "Editatu">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 
 <!ENTITY history_removed "Orria kenduta">
 
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Azken aldiko fitxak">
 <!ENTITY abouthome_last_tabs_open "Ireki azken saioko fitxa guztiak">
 <!ENTITY abouthome_top_sites_title "Gune erabilienak">
+<!ENTITY abouthome_topsites_edit "Editatu">
+<!ENTITY abouthome_topsites_pin "Ainguratu gunea">
+<!ENTITY abouthome_topsites_unpin "Desainguratu gunea">
+<!ENTITY abouthome_topsites_unpinall "Desainguratu denak">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -239,11 +249,10 @@ Android-etik">
 <!ENTITY bookmarkhistory_import_history "Historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_wait "Itxaron mesedez...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "&#037;s(r)en bilaketa-gomendioak gaitu nahi dituzu?">
+<!ENTITY suggestions_prompt2 "&formatS;(r)en bilaketa-gomendioak gaitu nahi dituzu?">
 
 <!ENTITY webapp_generic_name "Apl">
 
