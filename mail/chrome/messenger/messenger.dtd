@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Erakutsi txataren fitxa">
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
-<!ENTITY appmenuButton.tooltip "Aplikazioen menua bistaratzen du">
+<!ENTITY appmenuButton1.tooltip "Bistaratu &brandShortName; menua">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
