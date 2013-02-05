@@ -11,7 +11,7 @@
 <!ENTITY dntTrackingNotOkay.accesskey "н">
 <!ENTITY dntTrackingOkay.label "Я согласен, чтобы меня отслеживали">
 <!ENTITY dntTrackingOkay.accesskey "а">
-<!ENTITY safeBrowsing.label "Safe Browsing">
+<!ENTITY safeBrowsing.label "Безопасный веб-сёрфинг">
 <!ENTITY safeBrowsingIntro.label "&brandShortName; может блокировать веб-сайты, подозреваемые в наличии зловредного содержимого.">
 <!ENTITY blockAttackSites.label "Блокировать сайты, подозреваемые в атаках (вредоносные программы, вирусы)">
 <!ENTITY blockAttackSites.accesskey "к">
