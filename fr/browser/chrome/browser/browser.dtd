@@ -281,7 +281,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "f">
 
 <!ENTITY clearRecentHistory.label               "Supprimer l'historique récent…">
-<!ENTITY clearRecentHistory.accesskey           "h">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
