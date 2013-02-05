@@ -70,14 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Aukeratu letra-tipoaren tamaina">
 <!ENTITY decreaseFontSize.label "Txikiagoa">
 <!ENTITY decreaseFontSize.accesskey "x">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-<!ENTITY decreaseFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Handiagoa">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Tamaina">
 <!ENTITY fontSizeMenu.accesskey "m">

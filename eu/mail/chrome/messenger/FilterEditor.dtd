@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "Posta berria eskuratzea:">
 <!ENTITY contextIncomingMail.accesskey "b">
 <!ENTITY contextManual.label "Exekutatu eskuz">
-<!ENTITY contextManual.accesskey "e">
+<!ENTITY contextManual.accesskey "E">
 <!ENTITY contextBeforeCls.label "Iragazi zaborra sailkatu aurretik">
 <!ENTITY contextAfterCls.label "Iragazi zaborra sailkatu ondoren">
 
