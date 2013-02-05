@@ -215,7 +215,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">
-<!ENTITY clearRecentHistory.accesskey "e">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
@@ -248,7 +247,7 @@
 <!ENTITY appMenuSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Apri un sito web">
+<!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Passa alla scheda:">
 <!ENTITY searchFocus.commandkey "k">
