@@ -50,5 +50,5 @@
 <!ENTITY cookieExceptions.accesskey "к">
 <!ENTITY showCookies.label "Показать куки…">
 <!ENTITY showCookies.accesskey "а">
-<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
+<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы меня отслеживали">
 <!ENTITY doNotTrack.accesskey "щ">
