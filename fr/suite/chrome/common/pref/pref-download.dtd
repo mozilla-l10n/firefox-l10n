@@ -4,15 +4,14 @@
 
 <!ENTITY pref.download.title "Téléchargements">
 <!ENTITY downloadBehavior.label "Au début d'un téléchargement">
-<!ENTITY focusWhenStarting.label "Faire clignoter le gestionnaire de téléchargement s'il est ouvert, autrement :">
-<!ENTITY focusWhenStarting.accesskey "F">
-
+<!ENTITY doNothing.label                "Ne rien ouvrir">
+<!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Ouvrir une boîte de progression">
+<!ENTITY openProgressDialog.accesskey   "u">
 <!ENTITY openDM.label "Ouvrir le gestionnaire de téléchargements">
 <!ENTITY openDM.accesskey "O">
-<!ENTITY openProgressDialog.label "Ouvrir une boîte de progression">
-<!ENTITY openProgressDialog.accesskey "u">
-<!ENTITY doNothing.label "Ne rien ouvrir">
-<!ENTITY doNothing.accesskey "N">
+<!ENTITY flashWhenOpen.label            "Faire seulement clignoter le gestionnaire de téléchargement s'il est ouvert">
+<!ENTITY flashWhenOpen.accesskey        "F">
 
 <!ENTITY downloadLocation.label         "Lors de l'enregistrement d'un fichier">
 <!ENTITY saveTo.label                   "Enregistrer les fichiers sous">
