@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Näytä keskustelu-välilehti">
 <!ENTITY tagButton.tooltip "Aseta viesteihin tunnuksia">
 <!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
-<!ENTITY appmenuButton.tooltip "Avaa sovellusvalikon">
+<!ENTITY appmenuButton1.tooltip "Avaa &brandShortName;-valikko">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Uusi viesti">
