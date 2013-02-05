@@ -321,7 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Se rendre sur un site web">
+<!ENTITY urlbar.placeholder2          "Saisir un terme à rechercher ou une adresse">
 <!-- LOCALIZATION NOTE (urlbar.accesskey): do NOT change this "accesskey"
      this is the ALT+D shortcut from IE -->
 <!ENTITY urlbar.accesskey             "d">
