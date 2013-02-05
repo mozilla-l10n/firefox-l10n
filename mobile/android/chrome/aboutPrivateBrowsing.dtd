@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Nabigatze pribatua">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Fitxa pribatu berria ireki duzu.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Ez zaude fitxa pribatuan.">
+
+<!ENTITY privatebrowsingpage.description            "Fitxa pribatuetan, &brandShortName;(e)k ez du gordeko nabigazioaren, bilaketen, deskargen eta inprimakien historiarik edo cookie edo bestelako behin-behineko fitxategirik. Hala ere, deskargatutako fitxategiak eta laster-markak mantendu egingo dira.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Gailu honetan zure nabigatze-historia gordeko ez bada ere, zure Interneteko zerbitzu-hornitzaileak bisitatzen dituzun orrien jarraipena egin lezake.">
