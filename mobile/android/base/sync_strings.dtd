@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
 <!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
 <!ENTITY bookmarks.folder.readinglist.label "Irakurketa-zerrenda">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Ainguratuak">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu bakarra onartzen da.">
