@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Avattiin uusi yksityinen välilehti.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Yksityistä välilehteä ei ole valittuna.">
 
-<!ENTITY privatebrowsingpage.description            "Yksityisen selauksen välilehdellä ollessa &brandShortName; ei tallenna mitään tietoja sivu-, haku, lataus-, tai verkkolomakehistoriaan eikä evästeitä tai väliaikaistiedostoja. Lataamasi tiedostot ja kirjanmerkit sivustoille säilyvät kuitenkin normaalilla tavalla.">
+<!ENTITY privatebrowsingpage.description            "Yksityinen selaus -välilehdellä &brandShortName; ei tallenna mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät normaalilla tavalla.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
 <!ENTITY privatebrowsingpage.moreInfo               "Tälle laitteella ei tallenneta tietoa selaushistoristasi, mutta Internet-palveluntarjoajasi voi tästä huolimatta seurata, millä sivustoilla vierailet.">
