@@ -695,7 +695,7 @@
 <!ENTITY tagButton.label "태그">
 <!ENTITY compactButton.label "비우기">
 <!ENTITY appmenuButton.label "앱 메뉴">
-<!ENTITY appmenuButton.tooltip "앱 메뉴 표시하기">
+<!ENTITY appmenuButton1.tooltip "앱 메뉴 표시하기">
 <!ENTITY tagButton.tooltip "태그 메시지">
 <!ENTITY compactButton.tooltip "선택한 폴더에서 삭제 표시된 메시지 지우기">
 <!ENTITY addNewTag.label "새 태그…">
