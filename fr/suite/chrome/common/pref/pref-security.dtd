@@ -25,7 +25,7 @@
 <!ENTITY safeBrowsing.label               "Blocage de sites malveillants">
 <!ENTITY safeBrowsingIntro.label          "&brandShortName; peut bloquer les sites web signalés comme possédant du contenu malveillant.">
 
-<!ENTITY blockAttackSites.label           "Bloquer les sites signalés comme étant mailveillants (logiciels malveillants, virus)">
+<!ENTITY blockAttackSites.label           "Bloquer les sites signalés comme étant malveillants (logiciels malveillants, virus)">
 <!ENTITY blockAttackSites.accesskey       "B">
 
 <!ENTITY blockWebForgeries.label          "Bloquer les sites signalés comme étant des contrefaçons (hameçonnage)">
