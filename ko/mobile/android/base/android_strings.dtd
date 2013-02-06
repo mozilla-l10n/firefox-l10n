@@ -52,10 +52,11 @@
 <!ENTITY stop "중지">
 <!ENTITY site_security "보안 정보">
 
-<!ENTITY new_tab "새 탭">
 <!ENTITY close_tab "탭 닫기">
 <!ENTITY one_tab "한 개의 탭">
-<!ENTITY num_tabs "&#037;d 개의 탭">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; 개의 탭">
 <!ENTITY new_tab_opened "열린 새 탭">
 
 <!ENTITY settings "프로그램 설정">
@@ -131,8 +132,15 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY find_in_page "페이지내 검색">
 <!ENTITY desktop_mode "PC웹으로 보기">
 <!ENTITY tools "도구">
-<!ENTITY new_pb_tab "새 사생활 보호 모드 탭">
-
+<!ENTITY new_tab "새 탭">
+<!ENTITY new_private_tab "새 사생활 탭">
+<!ENTITY close_all_tabs "모든 탭 닫기">
+<!ENTITY tabs_normal "탭">
+<!ENTITY tabs_private "사생활">
+<!ENTITY tabs_synced "동기화">
+<!ENTITY wallpaper_success "배경 업데이트">
+<!ENTITY wallpaper_progress "배경 적용 중">
+<!ENTITY wallpaper_fail "배경 적용 실패">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -142,6 +150,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY find_close "닫기">
 
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
+<!ENTITY contextmenu_open_private_tab "사생활 탭 열기">
 <!ENTITY contextmenu_open_in_reader "읽기 모드로 열기">
 <!ENTITY contextmenu_remove_history "삭제">
 <!ENTITY contextmenu_remove_bookmark "삭제">
@@ -189,6 +198,10 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY abouthome_last_tabs_title "마지막 닫은 탭">
 <!ENTITY abouthome_last_tabs_open "마지막 닫은 탭 모두 열기">
 <!ENTITY abouthome_top_sites_title "상위사이트">
+<!ENTITY abouthome_topsites_edit "편집">
+<!ENTITY abouthome_topsites_pin "사이트 고정">
+<!ENTITY abouthome_topsites_unpin "사이트 고정 해제">
+<!ENTITY abouthome_topsites_unpinall "모두 고정 해제">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
       chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
       clicking this text in the promotions box will perform some action. Note
@@ -221,10 +234,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY bookmarkhistory_import_history "방문 기록 가져오는 중">
 <!ENTITY bookmarkhistory_import_wait "잠시 기다리세요…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-      be kept in the string; this will be replaced with the name of the search
-      engine. -->
-<!ENTITY suggestions_prompt "&#037;s 검색 자동완성을 사용하시겠습니까?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "&formatS; 검색 자동완성을 사용하시겠습니까?">
 
 <!ENTITY webapp_generic_name "앱">
 
