@@ -37,4 +37,4 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Sovellusvalikko">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Avaa &brandShortName;-valikon">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Avaa &brandShortName;-valikon">
