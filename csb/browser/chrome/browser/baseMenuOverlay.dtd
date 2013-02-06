@@ -17,6 +17,9 @@
 <!ENTITY zoomWindow.label         "Zwikszenié">
 <!ENTITY windowMenu.label         "Òkno">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpMenu.label           "Pòmòc"> 
 <!ENTITY helpMenu.accesskey       "P"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"

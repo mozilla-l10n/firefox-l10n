@@ -34,11 +34,6 @@
 <!ENTITY systemDefaults.label            "Systemòwé nastôwë">
 <!--XXX--><!ENTITY alwaysCheckDefault.label        "Przë zrëszanim, sprôwdzë czë &brandShortName; je domëslnym przezérnikã">
 <!ENTITY alwaysCheckDefault.accesskey    "p">
-<!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awariach">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "Wëslë pòdôwczi ò wëdajnoscë">
-<!ENTITY submitTelemetry.accesskey       "p">
-
 <!ENTITY networkTab.label                "Séc">
 
 <!ENTITY connection.label                "Sparłãczenié">
@@ -122,3 +117,21 @@
 <!ENTITY isDefault.label                 "&brandShortName; je Twòjim domëslnym przezérnikã">
 <!ENTITY setDefault.label                "Wëbierzë &brandShortName; jakno domëslny przezérnik">
 <!ENTITY setDefault.accesskey            "d">
+
+<!ENTITY crashReporterDesc.label         "&brandShortName; sélô rapòrtë ò felach, bë pòmòc &vendorShortName; i ùgwësnic sã, że przezérnik je stabilniészim i bezpieczniészim">
+<!ENTITY crashReporterLearnMore.label    "Wëwiedzë sã wicy">
+<!ENTITY crashReporterSection.label      "Sélôcz rapòrtów ò awariach">
+<!ENTITY dataChoicesTab.label            "Wëbiérk pòdôwków">
+<!ENTITY enableCrashReporter.accesskey   "a">
+<!ENTITY enableCrashReporter.label       "Włączë sélôcza rapòrtów ò awariach">
+<!ENTITY enableHealthReport.label        "Włączë &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableTelemetry.label           "Włączë telemetriô">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY healthReportDesc.label 		"Pòmòc w zrozmienim ùstawów przezérnika i sélanié pòdôwków do &vendorShortName; ò stanié Twòjégò przezérnika">
+<!ENTITY healthReportLearnMore.label "Wicy wëdowiedzë">
+<caption label="&healthReportSection.label;"/>
+<description>&telemetryDesc.label;</description>
+value="&telemetryLearnMore.label;"/>
+<!ENTITY telemetrySection.label "Telemetriô">
+  
