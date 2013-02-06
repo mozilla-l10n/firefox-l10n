@@ -62,12 +62,12 @@
 <!ENTITY FontSizeSelect.tooltip "글자 크기 선택">
 <!ENTITY decreaseFontSize.label "작게">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- 대부분의 키보드에서 < 아래 있음  -->
+<!ENTITY decrementFontSize.key "-">
+<!ENTITY decrementFontSize.key2 ","> <!-- 대부분의 키보드에서 < 아래 있음  -->
 <!ENTITY increaseFontSize.label "크게">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY incrementFontSize.key "+">
+<!ENTITY incrementFontSize.key2 "=">
 <!ENTITY size-xx-smallCmd.label "아주 작게">
 <!ENTITY size-xx-smallCmd.accesskey "a">
 <!ENTITY size-x-smallCmd.label "조금 작게">
