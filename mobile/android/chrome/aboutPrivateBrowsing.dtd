@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "사행활 보호모드">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "새 사생활 보호 탭을 열었습니다.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "사생활 보호 모드 탭이 아닙니다.">
+
+<!ENTITY privatebrowsingpage.description            "사생활 보호 모드에서 &brandShortName;는 방문 기록, 검색 기록, 다운로드 기록, 웹 양식 저장 및 임시 폴더를 저장하지 않습니다. 그러나 다운로드하거나 북마크한 파일은 유지됩니다.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "현재 기기가 브라우저 방문 기록을 원치 않더라도 서비스 망 사업자가 방문 기록을 추적할 수도 있습니다.">
