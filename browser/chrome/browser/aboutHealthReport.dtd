@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY abouthealth.locale-direction "ltr">
+
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "&brandShortName;in terveydentilaraportti">
+<!ENTITY abouthealth.header "&brandFullName; terveydentila">
+
+<!ENTITY abouthealth.intro.title "Mikä on &brandShortName;in terveydentilaraportti?">
+
+<!ENTITY abouthealth.intro-enabled "&brandFullName; kerää joitain tietoja tietokoneestasi ja käyttötavoistasi, jotta voimme tarjota sinulle paremman selauskokemuksen.">
+<!ENTITY abouthealth.intro-disabled "Tällä hetkellä et lähetä kerättyjä tietoja &vendorShortName;lle. Voit auttaa meitä tekemään &brandShortName;ista parempi napsauttamalla &quot;&abouthealth.optin;&quot; -painiketta.">
+
+<!ENTITY abouthealth.optin "Auta tekemään &brandShortName;ista parempi">
+<!ENTITY abouthealth.optout "Älä enää lähetä tietoja">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Lopetetaanko tietojen lähettäminen?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Haluatko varmasti lopettaa tietojen lähettämisen ja poistattaa kaikki sinusta nimettömänä tallennetut tiedot &vendorShortName;n palvelimilta?">
+
+<!ENTITY abouthealth.show-raw-data "Näytä tiedot">
+<!ENTITY abouthealth.hide-raw-data "Piilota tiedot">
+
+<!ENTITY abouthealth.show-report "Näytä &brandShortName;in raportti">
+
+<!ENTITY abouthealth.details.description-start "Nämä tiedot &brandFullName; lähettää &brandShortName; terveydentilaraportin nimissä.  ">
+<!ENTITY abouthealth.details-link "Lue lisää">
+<!ENTITY abouthealth.details.description-end " kerätyistä ja lähetetyistä tiedoista.">
+<!ENTITY abouthealth.no-data-available "Ei aikaisempia lähetettyjä tietoja, joita näyttää. Tarkista tiedot myöhemmin.">
