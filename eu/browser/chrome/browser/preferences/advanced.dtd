@@ -49,7 +49,7 @@
 <!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
 <!ENTITY crashReporterSection.label      "Hutsegiteen berriemailea">
-<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(r)i nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(r)a nabigatzaile egonkorragoa eta seguruagoa egiten laguntzeko">
 <!ENTITY enableCrashReporter.label       "Gaitu hutsegite-txostenak">
 <!ENTITY enableCrashReporter.accesskey   "h">
 <!ENTITY crashReporterLearnMore.label    "Argibide gehiago">
