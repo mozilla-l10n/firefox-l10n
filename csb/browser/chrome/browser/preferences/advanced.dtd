@@ -126,12 +126,16 @@
 <!ENTITY enableCrashReporter.label       "Włączë sélôcza rapòrtów ò awariach">
 <!ENTITY enableHealthReport.label        "Włączë &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY telemetrySection.label 		"Telemetriô">
 <!ENTITY enableTelemetry.label           "Włączë telemetriô">
 <!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
 <!ENTITY healthReportDesc.label 		"Pòmòc w zrozmienim ùstawów przezérnika i sélanié pòdôwków do &vendorShortName; ò stanié Twòjégò przezérnika">
-<!ENTITY healthReportLearnMore.label "Wicy wëdowiedzë">
-<caption label="&healthReportSection.label;"/>
-<description>&telemetryDesc.label;</description>
-value="&telemetryLearnMore.label;"/>
-<!ENTITY telemetrySection.label "Telemetriô">
+<!ENTITY healthReportLearnMore.label 	"Wicy wëdowiedzë">
+
+<!ENTITY telemetryDesc.label             "Sélôj rapòrtë ò wëdajnocë, ùżëcym, hardwôrze, i ùstawieniach przezérnika z &vendorShortName; bë pòmòc w zrobienim &brandShortName; bëlniészim">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+
+
   
