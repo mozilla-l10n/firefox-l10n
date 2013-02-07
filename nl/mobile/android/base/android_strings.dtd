@@ -54,7 +54,6 @@
 <!ENTITY site_security "Websitebeveiliging">
 
 <!ENTITY close_tab "Tabblad sluiten">
-<!ENTITY new_tab "Nieuw tabblad">
 <!ENTITY one_tab "1 tabblad">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -136,6 +135,10 @@ size. -->
 <!ENTITY find_in_page "Zoeken op pagina">
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
 <!ENTITY tools "Extra">
+<!ENTITY new_tab "Nieuw tabblad ">
+<!ENTITY new_private_tab "Nieuw privétabblad">
+<!ENTITY synced_tabs "Gesynchroniseerde tabbladen">
+<!ENTITY close_all_tabs "Alle tabbladen sluiten">
 <!ENTITY new_pb_tab "Nieuw privénavigatietabblad">
 <!ENTITY wallpaper_success "Achtergrond bijgewerkt">
 <!ENTITY wallpaper_progress "Achtergrond instellen">
