@@ -204,6 +204,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Uw tabbladen van de vorige keer">
 <!ENTITY abouthome_last_tabs_open "Alle tabbladen van de vorige keer openen">
 <!ENTITY abouthome_top_sites_title "Topwebsites">
+<!ENTITY abouthome_topsites_edit "Bewerken">
+<!ENTITY abouthome_topsites_pin "Website vastzetten">
+<!ENTITY abouthome_topsites_unpin "Website losmaken">
+<!ENTITY abouthome_topsites_unpinall "Alle losmaken">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
