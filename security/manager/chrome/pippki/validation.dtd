@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  validation.crlmanager.label             "Manage CRLs">
+<!ENTITY  validation.crlmanager.label             "CRLகளை நிர்வகி">
 <!ENTITY  validation.crlmanager.description       "இந்த Certificate Revocation Lists (CRL) உங்கள் சான்றிதழ் தரவுத்தளத்தில் சேமிக்கப்பட்டுள்ளது:">
 <!ENTITY  validation.crlname.label                "பெயர்">
 <!ENTITY  validation.crllastupdate.label          "கடைசி மேம்படுத்தல்">
