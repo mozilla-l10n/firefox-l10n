@@ -137,6 +137,9 @@ size. -->
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
 <!ENTITY tools "Extra">
 <!ENTITY new_pb_tab "Nieuw privénavigatietabblad">
+<!ENTITY wallpaper_success "Achtergrond bijgewerkt">
+<!ENTITY wallpaper_progress "Achtergrond instellen">
+<!ENTITY wallpaper_fail "Achtergrond instellen niet mogelijk">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
