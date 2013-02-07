@@ -149,6 +149,7 @@ size. -->
 <!ENTITY find_close "Sluiten">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
+<!ENTITY contextmenu_open_private_tab "Openen in privétabblad">
 <!ENTITY contextmenu_open_in_reader "Openen in lezer">
 <!ENTITY contextmenu_remove_history "Verwijderen">
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
