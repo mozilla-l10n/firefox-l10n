@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label "Tunjukkan Caranya.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Perangkat saya sedang tidak di dekat saya…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label "Markah di Desktop">
 <!ENTITY bookmarks.folder.mobile.label "Markah Ponsel">
 <!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
