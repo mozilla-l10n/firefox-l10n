@@ -33,10 +33,26 @@
 <!ENTITY setDefault.label                "&brandShortName; পূর্বনির্ধারিত ব্রাউজার তৈরি করুন d">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার b">
-<!ENTITY submitCrashes.label             "ক্র্যাশ রিপোর্ট জমা দিন S">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "কার্যসম্পাদন তথ্য জমা দিন p">
-<!ENTITY submitTelemetry.accesskey       "p">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "ক্র্যাশ প্রতিবেদক">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "নেটওয়ার্ক">
 
@@ -46,9 +62,9 @@
 <!ENTITY connectionSettings.label        "বৈশিষ্ট্যাবলী... (E)">
 <!ENTITY connectionSettings.accesskey    "E">
 
-<!ENTITY httpCache.label                 "ক্যাশে ওয়েব কনটেন্ট">
+<!ENTITY httpCache.label                 "জমে থাকা ওয়েব কনটেন্ট">
 
-<!ENTITY offlineStorage2.label           "অফলাইন ওয়েব কনটেন্ট এবং ব্যবহারকারীর তথ্য">
+<!ENTITY offlineStorage2.label           "অফলাইন ওয়েব কনটেন্ট এবং ব্যবহারকারীর ডাটা">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -58,7 +74,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "ক্যাশের সীমা L">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "মেগাবাইট পর্যন্ত">
+<!ENTITY limitCacheSizeAfter.label       "মেগাবাইট জায়গা">
 <!ENTITY clearCacheNow.label             "এখনই পরিষ্কার করা হবে C">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "এখনই পরিষ্কার করুন N">
