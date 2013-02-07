@@ -555,6 +555,7 @@
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 <!ENTITY appmenuButton.tooltip "Toepassingsmenu tonen">
+<!ENTITY appmenuButton1.tooltip "Het &brandShortName;-menu weergeven">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
