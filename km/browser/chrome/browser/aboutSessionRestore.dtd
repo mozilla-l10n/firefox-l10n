@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "ស្ដារ​សម័យ">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "នេះ​គួរ​ឲ្យ​ខ្មាសអៀន​ណាស់ ។">
 <!ENTITY restorepage.problemDesc    "&brandShortName; មាន​បញ្ហា​ក្នុង​ការ​សង្គ្រោះ​បង្អួច និង​ផ្ទាំង​របស់​អ្នក ។ នេះ​អាច​បង្ក​ដោយ​ទំព័រ​តំបន់​បណ្ដាញ​ដែល​បើក​ថ្មីៗ ។">
 <!ENTITY restorepage.tryThis        "អ្នក​អាច​សាកល្បង ៖">
@@ -21,4 +21,3 @@
 <!ENTITY restorepage.listHeader     "បង្អួច និង​ផ្ទាំង">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "បង្អួច &#37;S">
-

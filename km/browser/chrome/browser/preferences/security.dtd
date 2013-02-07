@@ -4,7 +4,6 @@
 
 <!ENTITY  warnAddonInstall.label        "ព្រមាន​ខ្ញុំ​ពេល​តំបន់​បណ្ដាញ​ព្យាយាម​ដំឡើង​កម្មវិធី​បន្ថែម">
 <!ENTITY  warnAddonInstall.accesskey    "ន">
-
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
   The methods by which forged (phished) and attack sites will be detected by
   phishing providers will vary from human review to machine-based heuristics to a
@@ -12,6 +11,7 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
+
 <!ENTITY  blockAttackSites.label     "ទប់ស្កាត់​តំបន់​បណ្ដាញ​វាយ​ប្រហារ​ដែល​រាយការណ៍">
 <!ENTITY  blockAttackSites.accesskey "ទ">
 
@@ -35,5 +35,4 @@
 <!ENTITY  changeMasterPassword.accesskey "ស">
 
 <!ENTITY  savedPasswords.label            "Saved Passwords…">
-<!ENTITY  savedPasswords.accesskey        "ល">
-
+<!ENTITY  savedPasswords.accesskey        "P">

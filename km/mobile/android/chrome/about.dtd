@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "អំពី &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ជា​ការ​ធ្វើ​ពិសោធន៍ និង​មិនមាន​ស្ថេរភាព​ទេ ។">
+<!ENTITY aboutPage.telemetryStart               " វា​នឹង​ផ្ញើ​ត្រឡប់​ដោយ​ស្វ័យប្រវត្តិ​នូវ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ដើម្បី​ជួយ​ឲ្យ &brandShortName; ប្រសើរ​ឡើង ។">
+<!ENTITY aboutPage.checkForUpdates.link         "ពិនិត្យមើល​បច្ចុប្បន្នភាព»">
+<!ENTITY aboutPage.checkForUpdates.checking     "កំពុង​រក​មើល​បច្ចុប្បន្នភាព...">
+<!ENTITY aboutPage.checkForUpdates.none         "មិន​មាន​បច្ចុប្បន្នភាព">
+<!ENTITY aboutPage.checkForUpdates.found        "មាន​បច្ចុប្បន្នភាព">
+<!ENTITY aboutPage.faq.label                    "សំណួរ​ដែល​សួរ​រឿយៗ">
+<!ENTITY aboutPage.support.label                "ជំនួយ">
+<!ENTITY aboutPage.privacyPolicy.label          "គោលនយោបាយ​ឯកជន">
+<!ENTITY aboutPage.rights.label                 "ដឹង​ពី​សិទ្ធិ​របស់​អ្នក">
+<!ENTITY aboutPage.relNotes.label               "ឯកសារ​ចេញផ្សាយ">
+<!ENTITY aboutPage.credits.label                "អ្នក​ចូលរួម">
+<!ENTITY aboutPage.license.label                "ព័ត៌មាន​អាជ្ញាប័ណ្ណ">

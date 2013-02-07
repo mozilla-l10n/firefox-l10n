@@ -6,10 +6,10 @@
 
 <!ENTITY sites.search                    "ស្វែងរក​តំបន់បណ្ដាញ">
 <!ENTITY sites.allSites                  "តំបន់បណ្ដាញ​ទាំងអស់">
-
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
+
 <!ENTITY header.site.start               "សិទ្ធិ​សម្រាប់">
 <!ENTITY header.site.end                 "">
 
@@ -34,12 +34,11 @@
 <!ENTITY geo.label                       "ចែក​រំលែក​ទីតាំង">
 
 <!ENTITY plugins.label                   "កម្មវិធី​ជំនួយ">
-
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
 <!ENTITY indexedDB.label                 "ថែទាំ​ការ​ផ្ទុក​ក្រៅ​បណ្ដាញ">
 
 <!ENTITY popup.label                     "បើក​បង្អួច​លេចឡើង">
 
 <!ENTITY fullscreen.label                "ពេញ​អេក្រង់">
-

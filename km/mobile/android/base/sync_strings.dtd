@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "ការ​ធ្វើ​សមកាលកម្ម Firefox">
+<!ENTITY syncBrand.shortName.label "ធ្វើ​សមកាលកម្ម">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "ភ្ជាប់​ទៅ &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "បន្ថែម​គណនី &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "ផ្គូ​ឧបករណ៍">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "ដើម្បី​ធ្វើឲ្យ​ឧបករណ៍​ថ្មី​របស់​អ្នក​សកម្ម អ្នក​ត្រូវ​ជ្រើស “រៀបចំ &syncBrand.shortName.label;” នៅ​លើ​ឧបករណ៍ ។">
+<!ENTITY sync.subtitle.header2.label "បញ្ចូល​កូដ​នេះ​នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក">
+<!ENTITY sync.subtitle.connectlocation2.label "ជ្រើស “&sync.title.pair.label;” នៅ​ក្នុង​ភាគ &syncBrand.shortName.label; នៃ​ជម្រើស device\'s Firefox ​ផ្សេងទៀត​របស់​អ្នក ។">
+<!ENTITY sync.subtitle.pair.label "ដើម្បី​ធ្វើ​ឲ្យ​សកម្ម អ្នក​ត្រូវ​ជ្រើស “ផ្គូ​ឧបករណ៍” នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក ។">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "បង្ហាញ​ខ្ញុំ​ពី​របៀប ។">
+<!ENTITY sync.link.advancedsetup.label "ការ​រៀបចំ​កម្រិតខ្ពស់...">
+<!ENTITY sync.link.nodevice.label "ខ្ញុំ​មិន​មាន\ឧបករណ៍​នៅ​ជាមួយ​ខ្ញុំ​ទេ…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "រង់ចាំ​ឧបករណ៍​ផ្សេងទៀត...">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "បញ្ចូល​ព័ត៌មាន​គណនី &syncBrand.fullName.label; របស់​អ្នក">
+<!ENTITY sync.input.username.label "ឈ្មោះ​គណនី">
+<!ENTITY sync.input.password.label "ពាក្យ​សម្ងាត់">
+<!ENTITY sync.input.key.label "កូនសោ​សង្គ្រោះ">
+<!ENTITY sync.checkbox.server.label "ប្រើ​ម៉ាស៊ីន​មេ​ផ្ទាល់ខ្លួន">
+<!ENTITY sync.input.server.label "​URL​ របស់​ម៉ាស៊ីន​មេ">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "មិន​អាច​រៀបចំ &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; មិន​អាច​តភ្ជាប់​ទៅកាន់​ម៉ាស៊ីន​មេ​បាន​ទេ ។ តើ​អ្នក​ចង់​សាកល្បង​ម្ដងទៀត​ដែរ​ឬទេ ?">
+<!ENTITY sync.button.tryagain.label "ព្យាយាម​ម្ដងទៀត">
+<!ENTITY sync.button.manual.label "ការ​រៀបចំ​ដោយ​ដៃ">
+<!ENTITY sync.subtitle.nointernet.label "មិន​មាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត ។">
+<!ENTITY sync.subtitle.failaccount.label "បាន​បរាជ័យ​ក្នុង​ការ​បង្កើត​គណនី​នៅ​លើ​ឧបករណ៍​របស់​អ្នក ។">
+<!ENTITY sync.subtitle.failmultiple.label "តើ​អ្នក​បាន​ដំឡើង Firefox ច្រើន​ជាង​មួយ​ឬ ? បច្ចុប្បន្ន &syncBrand.fullName.label; គាំទ្រ​តែ Firefox ដែល​បាន​ដំឡើង​នៅ​ពេល​នេះ​ប៉ុណ្ណោះ ។ សូម​លុប​ធាតុ​ផ្សេងទៀត​ដើម្បី​អាច​ប្រើ &syncBrand.shortName.label; បាន ។">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "ការ​រៀបចំ​បញ្ចប់​ទាំងស្រុង">
+<!ENTITY sync.subtitle.success.label1 "ឥឡូវនេះ​ទិន្នន័យ​របស់​អ្នក​កំពុង​ត្រូវ​បាន​ទាញ​យក​នៅ​ក្នុង​ផ្នែក​ខាងក្រោយ ។ អ្នក​អាច​ទៅកាន់​ការ​កំណត់​ដើម្បី​គ្រប់គ្រង​គណនី​របស់​អ្នក ឬ​ចាប់ផ្ដើម​ការ​រុករក​ជាមួយ &brandShortName; ។">
+<!ENTITY sync.settings.label "ការ​កំណត់">
+<!ENTITY sync.subtitle.manage.label1 "គណនី &syncBrand.fullName.label; របស់​អ្នក​បាន​រៀបចំ​រួចហើយ ។ អ្នក​អាច​ចូល​ទៅកាន់​ការ​កំណត់​ដើម្បី​គ្រប់គ្រង​គណនី​របស់​អ្នក ឬ​ចាប់ផ្ដើម &brandShortName;។">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "សូម​ព្យាយាម​ម្ដងទៀត ។">
+<!ENTITY sync.pair.connectlocation.label "ដើម្បី​ធ្វើឲ្យ​ឧបករណ៍​របស់​អ្នក​សកម្ម អ្នក​ត្រូវ​ជ្រើស “រៀបចំ &syncBrand.shortName.label;” នៅ​លលើ​ឧបករណ៍ បន្ទាប់មក​ជ្រើស “ខ្ញុំ​មាន​គណនី” ។">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "ជម្រើស">
+<!ENTITY sync.summary.pair.label "តភ្ជាប់​ឧបករណ៍​ផ្សេងទៀត​ទៅកាន់​គណនី &syncBrand.shortName.label; របស់​អ្នក">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "អ្វី​ដែល​ត្រូវ​ធ្វើ​សមកាល​កម្ម">
+<!ENTITY sync.configure.engines.sync.my.title.label "ធ្វើ​សមកាលកម្ម​របស់​អ្នក...">
+<!ENTITY sync.configure.engines.title.bookmarks "ចំណាំ">
+<!ENTITY sync.configure.engines.title.passwords "ពាក្យ​សម្ងាត់">
+<!ENTITY sync.configure.engines.title.history "ប្រវត្តិ">
+<!ENTITY sync.configure.engines.title.tabs "ផ្ទាំង">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "បោះបង់">
+<!ENTITY sync.button.connect.label "តភ្ជាប់">
+<!ENTITY sync.button.ok.label "យល់ព្រម">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "ម៉ឺនុយ​ចំណាំ">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "ស្លាក">
+<!ENTITY bookmarks.folder.toolbar.label "របារ​ឧបករណ៍​ចំណាំ">
+<!ENTITY bookmarks.folder.unfiled.label "មិន​តម្រៀប​ចំណាំ">
+<!ENTITY bookmarks.folder.desktop.label "ចំណាំ​ផ្ទៃតុ">
+<!ENTITY bookmarks.folder.mobile.label "ចំណាំ​ចល័ត">
+<!ENTITY bookmarks.folder.readinglist.label "បញ្ជី​អាន">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "បាន​ខ្ទាស់">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "មានតែ​គណនី &syncBrand.fullName.label; មួយ​ប៉ុណ្ណោះ​ដែល​ត្រូវ​បាន​គាំទ្រ ។">
+<!ENTITY sync.notification.configure.saved "បាន​រក្សាទុក​ជម្រើស​របស់​អ្នក ។">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "ឈ្មោះ​គណនី ឬ​ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ">
+<!ENTITY sync.invalidserver.label "សូម​បញ្ចូល URL ម៉ាស៊ីន​បម្រើ​ដែល​ត្រឹមត្រូវ">
+<!ENTITY sync.verifying.label "កំពុង​ផ្ទៀងផ្ទាត់...">
+<!ENTITY sync.new.recoverykey.status.incorrect "សោ​ដែល​បាន​សង្គ្រោះ​គឺ​មិន​ត្រឹមត្រូវ ។ សូម​ព្យាយាម​ម្ដងទៀត ។">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "ផ្ញើ​ផ្ទាំង​ទៅ​ឧបករណ៍">
+<!ENTITY sync.button.send.label "ផ្ញើ">
+<!ENTITY sync.button.set.up.sync.label "រៀបចំ &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "រៀបចំ &syncBrand.shortName.label; ដើម្បី​ផ្ញើ​ផ្ទាំង">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "រៀបចំ &syncBrand.fullName.label; នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ដើម្បី​​ផ្ញើ​ផ្ទាំង​ទៅកាន់​ឧបករណ៍​ផ្សេងទៀត ។">
+<!ENTITY sync.text.tab.sent.label "បាន​ផ្ញើ​ផ្ទាំង​របស់​អ្នក !">
+<!ENTITY sync.text.tab.not.sent.label "មាន​បញ្ហា​ក្នុង​ការ​ផ្ញើ​ផ្ទាំង​របស់​អ្នក ។">

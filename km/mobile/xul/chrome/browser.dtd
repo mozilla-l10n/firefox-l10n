@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "បញ្ចូល​អាសយដ្ឋាន ឬ​ការ​ស្វែងរក">
+
+<!ENTITY back.label            "ថយក្រោយ">
+<!ENTITY forward.label         "ទៅមុខ">
+<!ENTITY reload.label          "ផ្ទុក​ឡើងវិញ">
+<!ENTITY stop.label            "បញ្ឈប់">
+<!ENTITY go.label              "ទៅ">
+<!ENTITY star.label            "ផ្កាយ​">
+
+<!ENTITY showTabs.label        "បង្ហាញ​ផ្ទាំង">
+<!ENTITY newtab.label          "ផ្ទាំង​ថ្មី">
+<!ENTITY closetab.label        "បិទ​ផ្ទាំង">
+
+<!ENTITY cut.label             "កាត់">
+<!ENTITY copy.label            "ចម្លង">
+<!ENTITY copyAll.label         "​ចម្លង​ទាំងអស់​">
+<!ENTITY copylink.label        "ចម្លង​ទីតាំង​តំណ">
+<!ENTITY paste.label           "បិទភ្ជាប់">
+<!ENTITY pasteAndGo.label      "បិទភ្ជាប់ &amp; ទៅ">
+<!ENTITY delete.label          "លុប">
+<!ENTITY selectAll.label       "ជ្រើស​ទាំងអស់">
+<!ENTITY noSuggestions.label   "(គ្មាន​ការ​ផ្ដល់​យោបល់)">
+<!ENTITY addToDictionary.label "បន្ថែម​ទៅ​វចនានុក្រម">
+<!ENTITY inputMethod.label     "ជ្រើស​វិធី​សាស្ត្រ​បញ្ចូល">
+
+<!ENTITY allPagesHeader.label      "ទំព័រ​ទាំងអស់">
+<!ENTITY bookmarksHeader.label     "ចំណាំ">
+<!ENTITY historyHeader.label       "ប្រវត្តិ">
+<!ENTITY desktopHeader.label       "ផ្ទៃតុ">
+
+<!ENTITY editBookmarkDialog.title  "កែសម្រួល​ចំណាំ">
+<!ENTITY editBookmarkDone.label    "ធ្វើ​រួច">
+<!ENTITY editBookmarkTags.label    "បន្ថែម​ស្លាក​នៅ​ទីនេះ">
+
+<!ENTITY selectHelper.done         "ធ្វើ​រួច">
+
+<!ENTITY addonsHeader.label        "កម្មវិធី​បន្ថែម">
+<!ENTITY addonsLocal.label         "កម្មវិធី​ជំនួយ​របស់​អ្នក">
+<!ENTITY addonsUpdate.label        "ធ្វើ​បច្ចុប្បន្នភាព">
+<!ENTITY addonsRepo.label          "យក​កម្មវិធី​បន្ថែម">
+<!ENTITY addonsRecommended.label   "បាន​ផ្ដល់​អនុសាសន៍">
+<!ENTITY addonsSearch.label        "ស្វែងរក">
+<!ENTITY addonsSearch2.emptytext   "ស្វែងរក​កាតាឡុក">
+<!ENTITY addonsSearch.recommended  "បាន​ផ្ដល់​អនុសាសន៍">
+
+<!ENTITY addonOptions.label        "ជម្រើស">
+<!ENTITY addonEnable.label         "បើក">
+<!ENTITY addonDisable.label        "បិទ">
+<!ENTITY addonInstall2.label       "បន្ថែម​ទៅ &brandShortName;">
+<!ENTITY addonUninstall.label      "លុប">
+<!ENTITY addonCancel.label         "បោះបង់">
+<!ENTITY addonShowPage.label       "ទៅកាន់​ទំព័រ">
+
+<!ENTITY downloadsHeader.label     "ទាញ​យក">
+<!ENTITY downloadShowPage.label    "ទៅកាន់​ទំព័រ">
+<!ENTITY downloadShow2.label       "រក">
+<!ENTITY downloadOpen2.label       "បើក">
+<!ENTITY downloadCancel.label      "បោះបង់">
+<!ENTITY downloadPause.label       "ផ្អាក">
+<!ENTITY downloadResume.label      "បន្ត">
+<!ENTITY downloadRetry.label       "ព្យាយាម​ម្តង​ទៀត">
+<!ENTITY downloadRemove.label      "យកចេញ">
+<!ENTITY downloadDelete.label      "លុប">
+<!ENTITY downloadFailed.label      "បាន​បរាជ័យ">
+
+<!ENTITY noResults.label           "គ្មាន​លទ្ធផល">
+<!ENTITY allBookmarks.label        "មើល​ចំណាំ​ទាំងអស់">
+
+<!ENTITY bookmarkPopup.label       "ទំព័រ​ដែល​បាន​ចំណាំ">
+<!ENTITY bookmarkRemove.label      "យកចេញ">
+<!ENTITY bookmarkEdit.label        "កែសម្រួល">
+<!ENTITY bookmarkShortcut.label    "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
+
+<!ENTITY identity.unverifiedsite2 "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ ។">
+<!ENTITY identity.connectedTo2 "បាន​តភ្ជាប់​ទៅ">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "ដំណើរការ​ដោយ">
+
+<!ENTITY consoleHeader.label       "កុងសូល​កំហុស">
+<!ENTITY consoleAll.label          "ទាំងអស់">
+<!ENTITY consoleErrors.label       "កំហុស">
+<!ENTITY consoleWarnings.label     "ការ​ព្រមាន">
+<!ENTITY consoleMessages.label     "សារ">
+<!ENTITY consoleCodeEval.label     "កូដ ៖">
+<!ENTITY consoleClear.label        "សម្អាត">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "ឯកសារ​ប្រភព ៖">
+<!ENTITY consoleErrLine.label      "បន្ទាត់ ៖">
+<!ENTITY consoleErrColumn.label    "ជួរឈរ ៖">
+
+<!ENTITY contextOpenInNewTab.label    "បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY contextSaveImage.label       "រក្សាទុក​រូបភាព">
+<!ENTITY contextCopyLink.label        "ចម្លង​តំណ">
+<!ENTITY contextCopyEmail.label       "ចម្លង​អាសយដ្ឋាន​អ៊ីមែល">
+<!ENTITY contextCopyPhone.label       "ចម្លង​លេខ​ទូរស័ព្ទ">
+<!ENTITY contextCopyImageLocation.label       "ចម្លង​ទីតាំង​រូបភាព">
+<!ENTITY contextShareLink.label       "ចែករំលែក​តំណ">
+<!ENTITY contextShareImage.label      "ចែករំលែក​រូបភាព">
+<!ENTITY contextBookmarkLink.label    "ចំណាំ​តំណ">
+<!ENTITY contextSaveVideo.label       "រក្សាទុក​វីដេអូ">
+<!ENTITY contextShareVideo.label      "ចែករំលែក​វីដេអូ">
+<!ENTITY contextPlayMedia.label       "ចាក់">
+<!ENTITY contextPauseMedia.label      "ផ្អាក">
+<!ENTITY contextFullScreen.label      "ពេញ​អេក្រង់">
+<!ENTITY contextEditBookmark.label    "កែសម្រួល">
+<!ENTITY contextRemoveBookmark.label  "យកចេញ">
+<!ENTITY contextShortcutBookmark.label "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
+
+<!ENTITY pageactions.saveas.pdf      "រក្សាទុក​ជា PDF">
+<!ENTITY pageactions.share.page      "ចែករំលែក​ទំព័រ">
+<!ENTITY pageactions.password.forget "ភ្លេច​ពាក្យសម្ងាត់">
+<!ENTITY pageactions.quit            "ចេញ">
+<!ENTITY pageactions.reset           "សម្អាត​ចំណូលចិត្ត​តំបន់បណ្ដាញ">
+<!ENTITY pageactions.findInPage      "រកមើល​ក្នុង​ទំព័រ">
+<!ENTITY pageactions.search.addNew   "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
+<!ENTITY pageactions.charEncoding    "ការ​អ៊ិនកូដ​តួអក្សរ">
+
+<!ENTITY appMenu.siteOptions         "ជម្រើស​តំបន់​បណ្ដាញ">

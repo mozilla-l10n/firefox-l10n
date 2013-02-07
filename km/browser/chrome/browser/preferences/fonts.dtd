@@ -4,7 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "ពុម្ពអក្សរ">
 <!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.macWidth                         "48.38em">
 <!ENTITY  window.unixWidth                        "48.38em">
 
 <!ENTITY  language.label                          "​ពុម្ព​អក្សរ​សម្រាប់ ៖">
@@ -44,7 +44,7 @@
 <!ENTITY  font.langGroup.tamil                    "តាមីល">
 <!ENTITY  font.langGroup.armenian                 "អាមេនី">
 <!ENTITY  font.langGroup.bengali                  "បេន្កាលី">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "តារាង​តួអក្សរ​កាណាដា​​រួបរួម">
 <!ENTITY  font.langGroup.ethiopic                 "អេត្យូពី">
 <!ENTITY  font.langGroup.georgian                 "ហ្សកហ្ស៊ី">
 <!ENTITY  font.langGroup.gujarati                 "ហ្កុយ៉ារាទី">
@@ -60,8 +60,8 @@
 <!ENTITY minSize.label                            "​ទំហំ​ពុម្ព​អក្សរ​អប្បបរិមា ៖">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "គ្មាន">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
@@ -71,4 +71,3 @@
 <!ENTITY languages.customize.Charset.grouplabel         "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY languages.customize.DefaultCharset.label       "ការ​អ៊ិនកូដ​តួអក្សរ​លំនាំដើម">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "ន">
-

@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  blockPopups.label           "ទប់ស្កាត់​បង្អួច​លេចឡើង">
-<!ENTITY  blockPopups.accesskey       "ប">
+<!ENTITY  blockPopups.accesskey       "ត">
 <!ENTITY  popupExceptions.label       "ករណី​លើកលែង…">
-<!ENTITY  popupExceptions.accesskey   "ក">
+<!ENTITY  popupExceptions.accesskey   "រ">
 
 <!ENTITY  loadImages.label            "ផ្ទុក​រូបភាព​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY  loadImages.accesskey        "ព">
+<!ENTITY  loadImages.accesskey        "ប">
 <!ENTITY  exceptions.label            "ករណី​លើកលែង…">
-<!ENTITY  exceptions.accesskey        "ង">
+<!ENTITY  exceptions.accesskey        "ក">
 
 <!ENTITY  enableJavaScript.label      "បើក JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
@@ -18,7 +18,7 @@
 <!ENTITY  advancedJS.accesskey        "ត">
 
 <!ENTITY  enableJava.label            "បើក Java">
-<!ENTITY  enableJava.accesskey        "a">
+<!ENTITY  enableJava.accesskey        "ក">
 
 
 <!ENTITY  fontsAndColors.label        "ពុម្ព​អក្សរ &amp;​ ពណ៌">
@@ -28,15 +28,14 @@
 <!ENTITY  defaultSize.label           "ទំហំ ៖">
 <!ENTITY  defaultSize.accesskey       "ហ">
 
-<!ENTITY  advancedFonts.label         "កម្រិត​ខ្ពស់…">
-<!ENTITY  advancedFonts.accesskey     "ខ">
+<!ENTITY  advancedFonts.label         "កម្រិតខ្ពស់…">
+<!ENTITY  advancedFonts.accesskey     "ត">
 
 <!ENTITY  colors.label                "ពណ៌...">
 <!ENTITY  colors.accesskey            "ព">
 
 
 <!ENTITY languages.label              "ភាសា">
-<!ENTITY chooseLanguage.label         "ជ្រើស​ភាសា​ចំណូល​ចិត្ត​សម្រាប់​បង្ហាញ​ទំព័រ">
+<!ENTITY chooseLanguage.label         "ជ្រើស​ភាសា​ដែល​អ្នក​ចូលចិត្ត​សម្រាប់​បង្ហាញ​ទំព័រ">
 <!ENTITY chooseButton.label           "ជ្រើស…">
 <!ENTITY chooseButton.accesskey       "ស">
-

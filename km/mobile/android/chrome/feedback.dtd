@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "ឧបករណ៍​មតិ​អ្នកប្រើ">
+
+<!ENTITY feedback.communicate.title     "ទាក់ទង​មក​ពួក​យើង !">
+<!ENTITY feedback.feedback.title        "ផ្ដល់​មតិ​អ្នកប្រើ">
+<!ENTITY feedback.feedback.good         "ល្អ">
+<!ENTITY feedback.feedback.bad          "មិន​ល្អ">
+
+<!ENTITY feedback.tools.title           "ឧបករណ៍">
+<!ENTITY feedback.allowTelemetry.title  "ផ្ញើ​ទិន្នន័យ​​ប្រតិបត្តិ">
+<!ENTITY feedback.forceCompat.title     "បង្ខំ​ភាព​ឆបគ្នា​របស់​កម្មវិធី​បន្ថែម">
+<!ENTITY feedback.errorConsole.title    "បើក​កុងសូល​ដែល​មាន​កំហុស">

@@ -18,8 +18,8 @@
 <!ENTITY  panePrivacy.title       "ភាព​ឯកជន">
 <!ENTITY  paneSecurity.title      "សុវត្ថិភាព">
 <!ENTITY  paneAdvanced.title      "កម្រិត​ខ្ពស់">
-
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
 <!ENTITY  paneSync.title          "ធ្វើ​សមកាលកម្ម">
 <!ENTITY  buttonForward.tooltip   "ទៅមុខ​មួយ​ទំព័រ">
 <!ENTITY  buttonBack.tooltip      "ថយក្រោយ​មួយ​ទំព័រ">

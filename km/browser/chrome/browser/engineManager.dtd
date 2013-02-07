@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "ឈ្មោះ">
 <!ENTITY  columnLabel.keyword       "ពាក្យ​គន្លឹះ">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "​ផ្លាស់ទី​ឡើង​លើ">
 <!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "ផ្លាស់ទី​ចុះក្រោម">
@@ -17,14 +17,13 @@
 <!ENTITY  remove.label              "យកចេញ">
 <!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "កែ​សម្រួល​ពាក្យ​គន្លឹះ…">
-<!ENTITY  edit.accesskey            "Փ">
+<!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "យក​ម៉ាស៊ីន​ស្វែងរក​បន្ថែម…">
-<!ENTITY  addEngine.accesskey       "Զ">
+<!ENTITY  addEngine.accesskey       "A">
 
 <!ENTITY  enableSuggest.label       "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY  enableSuggest.accesskey   "S">
 
 <!ENTITY  restoreDefaults.label     "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY  restoreDefaults.accesskey "e">
-

@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "កំពុង​រៀបចំ &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ ។">
+<!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​បាន​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
+
+<!ENTITY  crash_reporter_title "កម្មវិធី​ផ្ដល់​របាយការណ៍​គាំង &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; បាន​គាំង ។ ផ្ទាំង​របស់​អ្នក​គួរ​ត្រូវ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ ។">
+<!ENTITY  crash_help_message "សូម​ជួយ​ពួក​យើង​ដើម្បី​ដោះស្រាយ​បញ្ហា​នេះ !">
+<!ENTITY  crash_send_report_message "ផ្ញើ​របាយការណ៍​គាំង​ទៅ Mozilla">
+<!ENTITY  crash_include_url "រួមបញ្ចូល​អាសយដ្ឋាន​ទំព័រ">
+<!ENTITY  crash_close_label "បិទ">
+<!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY  sending_crash_report "កំពុង​ផ្ញើ​របាយការណ៍​គាំង\u2026">
+<!ENTITY  exit_label "ចេញ">
+<!ENTITY  continue_label "បន្ត">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; កម្មវិធី​បណ្ដាញ">
+<!ENTITY  launcher_shortcuts_empty "រក​មិន​ឃើញ​កម្មវិធី​បណ្ដាញ">
+
+<!ENTITY choose_file "ជ្រើស​ឯកសារ">
