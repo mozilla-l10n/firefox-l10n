@@ -10,10 +10,10 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title புத்தகக்குறிகள்
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading புத்தகக்குறிகள்
 
 
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
@@ -28,7 +28,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
-#define getting_started Getting Started
+#define getting_started தொடங்குதல்
 
 
 # LOCALIZATION NOTE (firefox_heading):

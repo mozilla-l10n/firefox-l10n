@@ -85,8 +85,8 @@ can reach it easily. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Enter Full Screen">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "முழுத்திரை முறைமைக்கு செல்">
-<!ENTITY exitFullScreenCmd.accesskey "ழ">
+<!ENTITY exitFullScreenCmd.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
