@@ -1,17 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
-
 <!-- These strings are used in the about:home page -->
+
 
 <!ENTITY abouthome.pageTitle "&brandFullName; - почетна страница">
 
 <!ENTITY abouthome.searchEngineButton.label "Претрага">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
+
 <!ENTITY abouthome.defaultSnippet1.v1 "Хвала Вам што сте изабрали фајерфокс! Да бисте добили највише из вашег прегледача, сазнајте више о  <a>најновијим могућностима</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -25,4 +29,3 @@
 <!ENTITY abouthome.appsButton.label      "Пијаца">
 <!ENTITY abouthome.downloadsButton.label "Преузимања">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
-

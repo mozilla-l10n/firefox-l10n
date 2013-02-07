@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
 <!ENTITY places.library.title  "Библиотека">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -23,15 +27,6 @@
 <!ENTITY view.sortDescending.label      "Опадајући редослед">
 <!ENTITY view.sortDescending.accesskey  "О">
 
-<!ENTITY cmd.findInBookmarks.label      "Нађи међу забелешкама…">
-<!ENTITY cmd.findInBookmarks.accesskey  "б">
-<!ENTITY cmd.findCurrent.label          "Нађи у текућој збирци…">
-<!ENTITY cmd.findCurrent.accesskey      "т">
-
-<!ENTITY cmd.exportHTML.label           "Извоз ХТМЛа…">
-<!ENTITY cmd.exportHTML.accesskey       "И">
-<!ENTITY cmd.importHTML.label           "Увоз ХТМЛа…">
-<!ENTITY cmd.importHTML.accesskey       "У">
 <!ENTITY importBookmarksFromHTML.label     "Увезите забелешке из ХТМЛ-а (HTML)…">
 <!ENTITY importBookmarksFromHTML.accesskey "ш">
 <!ENTITY exportBookmarksToHTML.label       "Извези забелешке у HTML…">
@@ -96,18 +91,6 @@
 <!ENTITY search.label                              "Нађи:">
 <!ENTITY search.accesskey                          "Н">
 
-<!ENTITY search.in.label                           "Тражи у:">
-<!ENTITY search.scopeFolder.label                  "Изабрани директоријум">
-<!ENTITY search.scopeFolder.accesskey              "И">
-<!ENTITY search.scopeBookmarks.label               "Забелешке">
-<!ENTITY search.scopeBookmarks.accesskey           "З">
-<!ENTITY search.scopeDownloads.label               "Пријеми">
-<!ENTITY search.scopeDownloads.accesskey           "П">
-<!ENTITY search.scopeHistory.label                 "Историјат">
-<!ENTITY search.scopeHistory.accesskey             "И">
-<!ENTITY saveSearch.label                          "Сачувај">
-<!ENTITY saveSearch.accesskey                      "С">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Увоз и архивирање">
@@ -127,7 +110,7 @@
 <!ENTITY find.label               "Нађи:">
 <!ENTITY find.accesskey           "Н">
 <!ENTITY view.label               "Преглед">
-<!ENTITY view.accesskey           "P">
+<!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "По датуму">
 <!ENTITY byDate.accesskey         "д">
 <!ENTITY bySite.label             "По месту">

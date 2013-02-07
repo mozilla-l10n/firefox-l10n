@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Опште">
 
@@ -23,14 +27,32 @@
 <!ENTITY checkSpelling.accesskey         "П">
 
 <!ENTITY systemDefaults.label            "Изворне системске вредности">
-<!ENTITY alwaysCheckDefault.label        "При покретању провери да ли је &brandShortName; подразумевани прегледач"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "У">
-<!ENTITY checkNow.label                  "Провери сад">
-<!ENTITY checkNow.accesskey              "П">
-<!ENTITY submitCrashes.label             "Пошаљи извештај о рушењу">
-<!ENTITY submitCrashes.accesskey         "р">
-<!ENTITY submitTelemetry.label           "Слање података о перформансама">
-<!ENTITY submitTelemetry.accesskey       "ф">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "При покретању провери да ли је &brandShortName; подразумевани прегледач">
+<!ENTITY alwaysCheckDefault.accesskey    "у">
+<!ENTITY setDefault.label                "Постави &brandShortName; као свој подразумевани веб прегледач">
+<!ENTITY setDefault.accesskey            "п">
+<!ENTITY isDefault.label                 "&brandShortName; је тренутно Ваш подразумевани веб прегледач">
+
+<!ENTITY dataChoicesTab.label            "Избор података">
+
+<!ENTITY healthReportSection.label       "Извештач о здрављу програма &brandShortName;">
+<!ENTITY healthReportDesc.label          "Помаже Вам да разумете перформансе свог прегледача и поделите податке са &vendorShortName; о здрављу свог прегледача">
+<!ENTITY enableHealthReport.label        "Омогући извештај о здрављу програма &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Сазнајте више">
+
+<!ENTITY telemetrySection.label          "Телеметрија">
+<!ENTITY telemetryDesc.label             "Делите податке о перформансама, коришћењу, чврстим компонентама и подешавању које се тичу Вашег прегледача са &vendorShortName; да бисте нам помогли да учинимо &brandShortName; бољим">
+<!ENTITY enableTelemetry.label           "Омогући Телеметрију">
+<!ENTITY enableTelemetry.accesskey       "л">
+<!ENTITY telemetryLearnMore.label        "Сазнајте више">
+
+<!ENTITY crashReporterSection.label      "Извештај о рушењу">
+<!ENTITY crashReporterDesc.label         "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName; да учини Ваш прегледач још стабилнијим и још сигурнијим.">
+<!ENTITY enableCrashReporter.label       "Омогући извештаје о рушењу">
+<!ENTITY enableCrashReporter.accesskey   "р">
+<!ENTITY crashReporterLearnMore.label    "Сазнајте више">
 
 <!ENTITY networkTab.label                "Мрежа">
 
@@ -43,13 +65,13 @@
 <!ENTITY httpCache.label                 "Кеширан веб садржај">
 
 <!ENTITY offlineStorage2.label           "Ванмрежни веб садржај и кориснички подаци">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Ограничи кеш на">
 <!ENTITY limitCacheSizeBefore.accesskey  "О">
 <!ENTITY limitCacheSizeAfter.label       "МБ простора">
@@ -74,7 +96,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "з">
 
 <!ENTITY updateHistory.label             "Прикажи историјат унапређења">
-<!ENTITY updateHistory.accesskey         "И">
+<!ENTITY updateHistory.accesskey         "и">
 
 <!ENTITY useService.label                "Употреба позадинских сервиса за инсталацију доградњи">
 <!ENTITY useService.accesskey            "з">

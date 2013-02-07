@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Неуспешно учитавање странице">
 <!ENTITY retry.label "Пробај опет">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Неуспешно повезивање">
 <!ENTITY connectionFailure.longDesc "<p>Иако сајт изгледа легитимно, прегледач није могао да успостави везу.</p><ul><li>Ако је сајт привремено недоступан, можете покушати касније.</li><li>Ако имате исти проблем са другим сајтовима, проверите да ли је рачунар повезан на мрежу.</li><li>Ако је рачунар заштићен посредником (proxy) или ватробраном (firewall), проверите да ли су исправно подешени.</li></ul>">
@@ -66,9 +70,8 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ово може да буде проблем са подешавањем сервера, или неко можда покушава да се представи као тај сервер.</li> <li>Ако сте се успешно повезали на овај сервер у прошлости, ова грешка може бити привремена па има смисла да касније покушате поново.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
-<!ENTITY malwareBlocked.longDesc " <p>Злонамерни сајтови покушавају да украду личне податке, искористе ваш рачунар за нападе на други, или нанесу штету вашем рачунару.</p>
-<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc " <p>Злонамерни сајтови покушавају да украду личне податке, искористе ваш рачунар за нападе на други, или нанесу штету вашем рачунару.</p> 
+<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Могућ мрежни фалсификат!">
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
@@ -82,11 +85,10 @@
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Молимо Вас контактирајте власнике Веб сајта како би сте им указали на овај проблем.</li></ul></p>">
-
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
      Please, try to keep this at the end of the file. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-

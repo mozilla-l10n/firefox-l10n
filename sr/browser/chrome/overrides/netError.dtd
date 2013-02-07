@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "Грешка при учитавању стране">
 <!ENTITY retry.label "Пробај опет">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -14,8 +18,8 @@
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Проверите адресу на грешке у куцању, попут
-<strong>ww</strong>.example.com уместо
+<li>Проверите адресу на грешке у куцању, попут 
+<strong>ww</strong>.example.com уместо 
 <strong>www</strong>.example.com</li> 
 <li>Ако не можете да учитате ниједну страну, проверите да ли је веза рачунара са мрежом активна.</li> 
 <li>Ако су рачунар или мрежа заштићени ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа мрежи.</li> 
@@ -41,11 +45,9 @@
 <!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, програм, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Пробај поново“ да бисте поново добавили документ са веб сајта.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Изаберите „Пробај опет“ да почнете повезан начин рада и поново учитате страну.</li>
-</ul>
-   ">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Изаберите „Пробај опет“ да почнете повезан начин рада и поново учитате страну.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -93,11 +95,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Безбедна веза није успостављена">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Страна коју желите да читате не може бити приказана јер није могуће проверити аутентичност примљених података..</li>
-  <li>Молимо да контактирате власнике веб сајта и обавестите их о овом проблему.  Или, користите команду у менију за помоћ да пријавите овај сајт.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Страна коју желите да читате не може бити приказана јер није могуће проверити аутентичност примљених података..</li> 
+<li>Молимо да контактирате власнике веб сајта и обавестите их о овом проблему.  Или, користите команду у менију за помоћ да пријавите овај сајт.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Безбедна веза није успостављена">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -112,9 +113,8 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
-<!ENTITY malwareBlocked.longDesc " <p>Злонамерни сајтови покушавају да украду личне податке, искористе ваш рачунар за нападе на други, или нанесу штету вашем рачунару.</p>
-<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc " <p>Злонамерни сајтови покушавају да украду личне податке, искористе ваш рачунар за нападе на други, или нанесу штету вашем рачунару.</p> 
+<p>Власници веб сајтова који сматрају да су њихови сајтови грешком пријављени као злонамерни могу <a href='http://www.stopbadware.org/home/reviewinfo' >да траже преиспитивање</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Могућ мрежни фалсификат!">
 <!ENTITY phishingBlocked.longDesc "<p>Уношење ма каквих личних података на овој страни може да буде узрок крађе идентитета или друге врсте преваре.</p> 
@@ -130,17 +130,16 @@
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Не бисте требали да додајете изузетак ако користите Интернетску везу којој не верујете потпуно или ако нисте навикли да виђате упозорења за овај сервер.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Не бисте требали да додајете изузетак ако користите Интернетску везу којој не верујете потпуно или ако нисте навикли да виђате упозорења за овај сервер.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Молимо да обавестите власнике веб сајта о овом проблему.</li></ul></p>">

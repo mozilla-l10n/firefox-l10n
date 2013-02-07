@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "у">
 <!ENTITY minimizeWindow.label     "Умањи">
 <!ENTITY bringAllToFront.label    "Стави све у први план">
@@ -18,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Поново покрени са искљученим додацима">
 <!ENTITY helpSafeMode.accesskey   "н">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "Подаци о решавању проблема">
 <!ENTITY helpTroubleshootingInfo.accesskey  "П">
 
@@ -36,4 +43,3 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "П">
 
 <!ENTITY showAllAppsCmdMac.label        "Прикажи све">
-

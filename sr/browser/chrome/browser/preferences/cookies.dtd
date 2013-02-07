@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width                       "46em">
 
 <!ENTITY     cookiesonsystem.label          "Ово је списак колачића који се чувају на Вашем рачунару:">
@@ -26,4 +30,3 @@
 
 <!ENTITY     button.close.label             "Затвори">
 <!ENTITY     button.close.accesskey         "C">
-
