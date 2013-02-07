@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  validation.crlmanager.label             "Manage CRLs">
-<!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
+<!ENTITY  validation.crlmanager.label             "CRL-ы салайыы">
+<!ENTITY  validation.crlmanager.description       "Төннөрүллүбүт сэртипикээттэр (CRL) тустарынан Эн баазаҕар маннык тиһиктэр харалла сыталлар:">
 <!ENTITY  validation.crlname.label                "Аат">
-<!ENTITY  validation.crllastupdate.label          "Last Update">
-<!ENTITY  validation.crlnextupdate.label          "Next Update">
-<!ENTITY  validation.crlautoupdateenabled.label   "Auto Update">
-<!ENTITY  validation.crlautoupdatestatus.label    "Auto Update Status">
+<!ENTITY  validation.crllastupdate.label          "Бүтэһик саҥардыы">
+<!ENTITY  validation.crlnextupdate.label          "Аныгыскы саҥардыы">
+<!ENTITY  validation.crlautoupdateenabled.label   "Аптамаатынан саҥардыы">
+<!ENTITY  validation.crlautoupdatestatus.label    "Аптамаатынан саҥардыы туруга">
 <!ENTITY  validation.deletecrl.label              "Сот">
 <!ENTITY  validation.deletecrl.accesskey          "С">
 <!ENTITY  validation.updatecrl.label              "Саҥардан биэр">
@@ -16,8 +16,8 @@
 <!ENTITY  validation.advanced.label               "Туруоруулар">
 <!ENTITY  validation.advanced.accesskey           "Т">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Update for this CRL">
+<!ENTITY  validation.crl.autoupdate.title         "CRL-ы аптамаатынан саҥардыы туруоруулара">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Бу CRL аптамаатынан саҥардыллыытын холбоо">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Update">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Update every">

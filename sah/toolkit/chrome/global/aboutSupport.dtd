@@ -44,7 +44,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js туруоруулара">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Профилиҥ паапкатыгар  &brandShortName; оҥорботох туруоруулардаах <a id='prefs-user-js-link'>user.js билэ</a> сытар эбит.">
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 
@@ -53,12 +53,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Киирэргэ дөбөҥө, өйдөнүмтүөтэ">
 <!ENTITY aboutSupport.a11yActivated "Холбоо">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yForceDisabled "Холбоммот гын">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Бибилитиэкэлэр барыллара">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Туруоруу сурунаала">
 <!ENTITY aboutSupport.updateHistoryTitle "Саҥардыы сурунаала">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Тиэкси долоҕойго (буфер обмена) төгүллээ">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Таҥастамматах дааннайдары долоҕойго хатаа">

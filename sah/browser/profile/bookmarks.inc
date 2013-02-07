@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Кыбытык-бэлиэлэр
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Кыбытык-бэлиэлэр
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder Кыбытык бэлиэлэр хапталларын паапката
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description Кыбытык-бэлиэлэр хапталларыгар угарга бу паапкаҕа ук
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -28,7 +28,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
-#define getting_started Getting Started
+#define getting_started Саҕалааһын
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -46,7 +46,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help Көмө уонна ыйыылар-кэрдиилэр
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize Firefox туруоруулара
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
 
-#define firefox_community Get Involved
+#define firefox_community Кыттыһыҥ!
 
 
 # LOCALIZATION NOTE (firefox_about):

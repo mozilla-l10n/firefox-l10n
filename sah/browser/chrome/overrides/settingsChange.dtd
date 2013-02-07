@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Settings can be changed using the Applications tab in &brandShortName;'s Preferences.">
-<!ENTITY  settingsChangeOptions.label      "Settings can be changed using the Applications tab in &brandShortName;'s Options.">
+<!ENTITY  settingsChangePreferences.label  "Туруорууларын уларытарга &brandShortName; «Эбиискэлэр» кыбытыгар киир.">
+<!ENTITY  settingsChangeOptions.label      "Туруорууларын уларытарга &brandShortName; «Эбиискэлэр» кыбытыгар киир.">

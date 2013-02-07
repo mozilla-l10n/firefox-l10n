@@ -16,13 +16,13 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Эн &brandShortName;-ка манна холбон диэбиккин <b>#1</b>, ол эрэн бу холбонуу көмүскэллээх холбонуу буоларын бигэргэтэр кыахпыт суох.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely,
-sites will present trusted identification to prove that you are
-going to the right place. However, this site's identity can't be verified.">
+<!ENTITY certerror.introPara2 "Үксүн, көмүскэллээх холбонууну оҥоро сатаатахха, 
+ситим-сирдэр тургутуллубут идентификаторы көрдөрөллөр. 
+Кини сөптөөх сиргэ бараргын бигэргэтэр. Ол эрээри бу ситим-сир идентификатора биллибэтэ.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Хайыыбыный?">
 <!ENTITY certerror.whatShouldIDo.content "Өскө бу ситим-сири кытта урут туох да эҥкилэ суох ситимнэһэр эбит буоллаххына бу алҕас ким эрэ ситим-сири атынынан уларыта сатыырыттан буолуон сөп. Оннук буоллаҕына салгыы үлэлиириҥ кутталлаах.">
-<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
+<!ENTITY certerror.getMeOutOfHere.label "Мантан тахсыах!">
 
 <!ENTITY certerror.expert.heading "Куттал суоһуурун толору өйдүүбүн">
 <!ENTITY certerror.expert.content "Туох буола турарын толору өйдүүр түгэҥҥэр 
