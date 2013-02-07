@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Tekengrootte kiezen">
 <!ENTITY decreaseFontSize.label "Kleiner">
 <!ENTITY decreaseFontSize.accesskey "n">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Groter">
 <!ENTITY increaseFontSize.accesskey "o">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Grootte">
 <!ENTITY fontSizeMenu.accesskey "G">
