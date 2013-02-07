@@ -139,6 +139,9 @@ size. -->
 <!ENTITY new_private_tab "Nieuw privétabblad">
 <!ENTITY synced_tabs "Gesynchroniseerde tabbladen">
 <!ENTITY close_all_tabs "Alle tabbladen sluiten">
+<!ENTITY tabs_normal "Tabbladen">
+<!ENTITY tabs_private "Privé">
+<!ENTITY tabs_synced "Gesynchroniseerde">
 <!ENTITY new_pb_tab "Nieuw privénavigatietabblad">
 <!ENTITY wallpaper_success "Achtergrond bijgewerkt">
 <!ENTITY wallpaper_progress "Achtergrond instellen">
