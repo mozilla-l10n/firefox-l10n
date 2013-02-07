@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Праћење">
 
 <!ENTITY doNotTrack.label               "Обавести веб сајтове да не желим да ме прате">
@@ -8,7 +12,7 @@
 <!ENTITY  locationBar.label             "Трака са местом">
 
 <!ENTITY  locbar.pre.label              "При употреби адресне линије, предложи:">
-<!ENTITY  locbar.pre.accessKey          "п">
+<!ENTITY  locbar.pre.accessKey          "П">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Историјат и забелешке">
 <!ENTITY  locbar.history.label          "Историјат">
@@ -42,10 +46,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат читања, пријема, формулара и претраге, и чуваће колачиће са веб сајтова које посећујете.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "Можта желите да ">
 <!ENTITY  rememberActions.clearHistory.label  "очистите историјат">
 <!ENTITY  rememberActions.middle.label        ", или ">
@@ -53,9 +57,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Програм &brandShortName; ће користити иста подршавања као за поверљиво читање, и неће памтити историјат читања веб страница.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "Можда такође желите да ">
 <!ENTITY  dontrememberActions.clearHistory.label "очистите тренутни историјат">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -65,9 +69,6 @@
 
 <!ENTITY  rememberHistory2.label      "Запамти мој историјат читања и пријема">
 <!ENTITY  rememberHistory2.accesskey  "З">
-
-<!ENTITY  rememberDownload.label         "Памти историјат пријема">
-<!ENTITY  rememberDownload.accesskey     "П">
 
 <!ENTITY  rememberSearchForm.label       "Запамти историјат образаца и претраге">
 <!ENTITY  rememberSearchForm.accesskey   "f">

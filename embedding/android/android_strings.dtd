@@ -1,6 +1,10 @@
-<!ENTITY  splash_screen_label "учитава се">
-<!ENTITY  splash_screen_installing "инсталација библиотека\u2026">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY  splash_firstrun "Успостављање програма &brandShortName;\u2026">
+
 <!ENTITY  no_space_to_start_error "Нема довољно простора да би се програм &brandShortName; покренуо.">
 <!ENTITY  error_loading_file "Дошло је до грешке при учитавању датотека неопходних за рад програма &brandShortName;">
 
@@ -14,3 +18,8 @@
 <!ENTITY  sending_crash_report "Извештај о рушењу се шаље\u2026">
 <!ENTITY  exit_label "Крај">
 <!ENTITY  continue_label "Даље">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+
+<!ENTITY choose_file "Избор датотеке">

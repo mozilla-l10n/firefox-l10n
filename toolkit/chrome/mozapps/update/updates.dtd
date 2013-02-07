@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Доградња програма">
 
 <!ENTITY  checking.title                  "Провера доградњи">
@@ -13,13 +16,13 @@
 аутоматску проверу у програму &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Доградња није могућа">
-<!ENTITY  manualUpdate.desc               "Доступна је препоручена доградња за безбедност и стабилност, али
-не поседујете права приступа потребна да је инсталирате.  Молимо да
-се обратите администратору система, или да инсталацију пробате поново
-уз употребу корисничког налога који има дозволу да инсталира програме
+<!ENTITY  manualUpdate.desc               "Доступна је препоручена доградња за безбедност и стабилност, али 
+не поседујете права приступа потребна да је инсталирате.  Молимо да 
+се обратите администратору система, или да инсталацију пробате поново 
+уз употребу корисничког налога који има дозволу да инсталира програме 
 на овај рачунар.">
-<!ENTITY  manualUpdate.space.desc         "Препоручена доградња безбедности и стабилности је доступна,
-                                           али немате довољно простора да је инсталирате.">
+<!ENTITY  manualUpdate.space.desc         "Препоручена доградња безбедности и стабилности је доступна, 
+али немате довољно простора да је инсталирате.">
 <!ENTITY  manualUpdateGetMsg.label        "Најсвежије издање програма &brandShortName; можете набавити на адреси:">
 
 <!ENTITY  incompatibleCheck.title         "Провера сагласности додатака">
@@ -27,10 +30,10 @@
 
 <!ENTITY  clickHere.label                 "Погледајте више података о овој доградњи">
 
-<!ENTITY  evangelism.desc                 "Препоручује се да примените ову доградњу за
+<!ENTITY  evangelism.desc                 "Препоручује се да примените ову доградњу за 
 &brandShortName; што је пре могуће.">
 
-<!ENTITY  license.instructions            "Ако сте сагласни са условима овог споразума, притисните „Саглашавам се‟
+<!ENTITY  license.instructions            "Ако сте сагласни са условима овог споразума, притисните „Саглашавам се‟ 
 испод како бисте инсталирали ову доградњу.">
 
 <!ENTITY  license.titleText               "Споразум о лиценцирању">
@@ -46,7 +49,7 @@
 <!ENTITY  downloadPage.title              "Преузимање програма &brandShortName;">
 <!ENTITY  downloading.intro               "Пријем доградње је у току…">
 <!ENTITY  connecting.label                "Повезивање са сервером за дограду…">
-<!ENTITY  verificationFailedText.label    "Програм &brandShortName; није могао да утврди интегритет
+<!ENTITY  verificationFailedText.label    "Програм &brandShortName; није могао да утврди интегритет 
 доградње коју је примио, тако да сада прима цео пакет.">
 
 <!ENTITY  viewDetails.tooltip             "Прегледај детаље ове доградње">
@@ -55,30 +58,30 @@
 
 <!ENTITY  error.title                     "Унапређење није успело">
 
-<!ENTITY  error.label                     "Дошло је до проблема при тражењи, пријему или иснталацији ове доградње.
+<!ENTITY  error.label                     "Дошло је до проблема при тражењи, пријему или иснталацији ове доградње. 
 Програм &brandShortName; није дограђен из наредних разлога:">
                                            
-<!ENTITY  errorManual.label               "Програм &brandShortName; можете да доградите ручно, посећивањем ове
+<!ENTITY  errorManual.label               "Програм &brandShortName; можете да доградите ручно, посећивањем ове 
 везе и пријемом најновијег издања:">
                                            
-<!ENTITY  errorpatching.intro             "Делимична доградња није могла да се доврши.
+<!ENTITY  errorpatching.intro             "Делимична доградња није могла да се доврши. 
 Програм &brandShortName; ће поново да покуша пријем целе доградње.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступне доградње.
-                                           Проверите да ли имате најновију верзију &brandShortName;а са:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Нешто спречава &brandShortName; да се безбедно догради.
-                                           Проверите да ли имате најновију верзију &brandShortName;а са:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Нешто покушава на превари &brandShortName; прихватањем несигурне доградње.
-                                           Контактирајте свог добављача преже за помоћ.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступне доградње. 
+Проверите да ли имате најновију верзију &brandShortName;а са:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Нешто спречава &brandShortName; да се безбедно догради. 
+Проверите да ли имате најновију верзију &brandShortName;а са:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Нешто покушава на превари &brandShortName; прихватањем несигурне доградње. 
+Контактирајте свог добављача преже за помоћ.">
 
 <!ENTITY  finishedPage.title              "Доградња је спремна за инсталацију">
 <!ENTITY  finishedPage.text               "Доградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете одмах да поново покренете програм &brandShortName; или да наставите рад и то урадите касније.">
 
-<!ENTITY  finishedBackgroundPage.text     "Доградња за безбедност и стабилност за  &brandShortName; је примљена
+<!ENTITY  finishedBackgroundPage.text     "Доградња за безбедност и стабилност за  &brandShortName; је примљена 
 и спремна је за инсталацију.">
 <!ENTITY  finishedBackground.name         "Доградња:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Доградња ће бити инсталирана при наредном покретању програма &brandShortName; starts. Можете
+<!ENTITY  finishedBackground.more         "Доградња ће бити инсталирана при наредном покретању програма &brandShortName; starts. Можете 
 да одмах поново покренете &brandShortName; или да наставите са радом и то урадите касније.">
 
 <!ENTITY  installed.title                 "Доградња је инсталирана">
@@ -88,4 +91,3 @@
 <!ENTITY  update.details.label            "Детаљи">
 <!ENTITY  update.installedOn.label        "Инсталирано на:">
 <!ENTITY  update.status.label             "Стање:">
-

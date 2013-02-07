@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/openLocation.xul -->
+
 
 <!ENTITY enter.label "Унесите адресу са интернета (URL) или име датотеке на диску које желите да отворите:">  
 <!ENTITY chooseFile.label "Избор датотеке…">
@@ -8,4 +12,3 @@
 <!ENTITY caption.label "Отварање веб адресе">
 <!ENTITY openWhere.label "Отвори у:">
 <!ENTITY openBtn.label "Отвори">
-

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.warning.title "Сумња се на мрежни фалсификат">
 
 <!ENTITY safeb.palm.message.p1 "Овај сајт је пријављен као мрежни фалсификат, направљен како би кориснике навео да открију личне или финансијске податке. Унос ма каквих личних података у ову страницу може да доведе до крађе идентитета или другог облика преваре. &#160;">
@@ -24,4 +28,3 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Веб страница на <span id='phishing_sitename'/> је пријављена као фалсификат, па је блокирана, на основу Ваших безбедносних подешавања.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Мрежни фалсификати су направљени како би Вас навели да откријете личне или финансијске податке тако што опонашају сајтове којима верујете.</p><p>Остављање података на овој страни може да као последицу има крађу идентитета или неку другу превару.</p>">
-

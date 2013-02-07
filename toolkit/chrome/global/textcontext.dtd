@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.accesskey "И">
 <!ENTITY copyCmd.label "Копирај">
@@ -15,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "Д">
 <!ENTITY spellUndoAddToDictionary.label "Опозови додавање у речник">
 <!ENTITY spellUndoAddToDictionary.accesskey "з">
-<!ENTITY spellCheckEnable.label "Провери правопис">
-<!ENTITY spellCheckEnable.accesskey "П">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(нема предлога)">
 <!ENTITY spellDictionaries.label "Језици">
 <!ENTITY spellDictionaries.accesskey "Ј">
