@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Tandika kompyuta buto nga ojjeko Ebyokwongerako…">
 <!ENTITY helpSafeMode.accesskey   "T">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "Amawulire ku kugonjoola obuzibu">
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">
 

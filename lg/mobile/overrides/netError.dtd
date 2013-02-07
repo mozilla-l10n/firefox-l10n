@@ -56,14 +56,12 @@
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> 
-</ul>
-">
+</ul>">
 
 <!ENTITY unsafeContentType.title "Ekika kya'Fayiro Ekyomutawaana">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino..</li> 
-</ul>
-">
+<li>Bambi tukirira bannanyini kibanja obabuulire kukizibu kino.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Okuyungibwa kwaddiddwamu okuteekebwa natte">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">

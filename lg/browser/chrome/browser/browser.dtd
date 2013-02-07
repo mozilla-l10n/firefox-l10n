@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Omuzimbi w'emitimbagano">
 <!ENTITY webDeveloperMenu.accesskey   "O">
 
+<!ENTITY devtoolsConnect.label        "Yunga…">
+<!ENTITY devtoolsConnect.accesskey    "g">
+
 <!ENTITY errorConsoleCmd.label        "Ensobi Mu byuma">
 <!ENTITY errorConsoleCmd.accesskey    "M">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Kusanyusa kw'omutimbagano">
-<!ENTITY webConsoleCmd.accesskey      "K">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY inspectMenu.label            "Lambula">
-<!ENTITY inspectMenu.accesskey        "L">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Wetegereze Ekintu">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Galawo Omukebezi">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Ggalawo akabaawo k'omumabali">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Galawo Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.label              "Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.accesskey          "b">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Ffula Ebikosebwa">
+<!ENTITY devToolboxMenuItem.accesskey      "F">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Ffula ebikozesebwa ebyabazimbi">
 <!ENTITY devToolbarOtherToolsButton.label  "Ekikozesebwa Ebirala">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Koppa Inner HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Koppa Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "Sangula Kanodi">
-<!ENTITY inspectorHTMLDelete.accesskey      "S">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "Endabika mu 3D">
-<!ENTITY inspect3DViewButton.accesskey "b">
-
-<!ENTITY inspectStyleButton.label     "Nkola">
-<!ENTITY inspectStyleButton.accesskey "N">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Wokyusiza Enfanana">
-<!ENTITY styleeditor.accesskey        "k">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Funna Ebikola Ebisingawo">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "A">
 <!ENTITY openLinkCmd.label            "Ggulawo Akayungiro mu Ddirisa Epya">
 <!ENTITY openLinkCmd.accesskey        "D">
+<!ENTITY openLinkInPrivateWindowCmd.label "Ggulawo Akayungiro mu Ddirisa eryekusifu Eppya">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "D">
 <!ENTITY openLinkCmdInCurrent.label     "Ggulawo omukutu">
 <!ENTITY openLinkCmdInCurrent.accesskey "G">
 <!ENTITY openFrameCmdInTab.label      "Ggulawo Olugo mu Wadirira Awapya">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Ggulawo enziririro empya">
 <!ENTITY newWindowButton.tooltip        "Ggulawo eddirisa eppya">
-<!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo k'omumabali">
+<!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo kebbali">
 
 <!ENTITY cutButton.tooltip              "Sala">
 <!ENTITY copyButton.tooltip             "Koppa">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Obubaka obulala…">
 
-<!ENTITY downloadMonitor2.tooltip "Koona oggulewo omuko gwebiwanuddwa">
-
 <!ENTITY allTabs.filter.emptyText "Nnonya Awaddirira">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Galawo Omuti gwe'byongerwako">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Markup">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Epesa lya akabaawo ke byo kwetaaba">
 <!ENTITY social.notLoggedIn.label   "Tona yingira">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "D">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Kkamera y'okugabana">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectMicrophone.label "Akazindaalo k'okugabana/Omuzindaalo gw'okugabana">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "A">
+
+<!ENTITY webrtcIndicatorButton.label "Okufuna Kkamera/omuzindaalo">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

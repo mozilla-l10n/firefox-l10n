@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Koppa Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Koppa Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Sangula Kanodi">
+<!ENTITY inspectorHTMLDelete.accesskey      "S">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">

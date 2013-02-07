@@ -1,37 +1,37 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Ebikwataku &brandFullName;">
+<!ENTITY aboutDialog.title          "Ebikwata ku &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 <!ENTITY warningDesc.version        "&brandShortName; yakugezesa era eyinza okuba nga sintebenkevu.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Kiwereza obubaka okubbaka obukwata ku nkola, ebyuma, enkozesa ne e'entereza eri &vendorShortName; okuyamba mu kulungiya &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Kiwereza obubaka kulwakyo obukwata ku nkola, ebyuma, enkozesa n'entereeza eri &vendorShortName; okuyamba mu kulungiya &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "  nga yo ">
+<!ENTITY community.exp.middle       "  ya  ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "bantu munsiyoona">
-<!ENTITY community.exp.end          " abaakolera awaamu okukuma Omutimbagano nga mugule  era nga gutukibwako bulyomu.">
+<!ENTITY community.exp.creditsLink  "bantu munsi yonna">
+<!ENTITY community.exp.end          " abakolera awamu okukuuma Omutimbagano nga muggule  era nga gutukibwako buli omu.">
 
-<!ENTITY community.start2           "&brandShortName; ezimbiddwa ">
+<!ENTITY community.start2           "&brandShortName; ezimbiiddwa ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "Abantu munsiyoona">
-<!ENTITY community.end3             " abakoolera awaamu okukuma Omutimbagano nga mugule era nga guyingirwa bulyoomu.">
+<!ENTITY community.creditsLink      "bantu munsi yonna">
+<!ENTITY community.end3             " abaakolera awamu okukuuma Omutimbagano nga muggule era nga gutukiibwako buli omu.">
 
-<!ENTITY contribute.start           "Kiwulikika bulungi? ">
+<!ENTITY contribute.start           "Kiwulikika ngakinyuma? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Wenyigiremu!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Ebikwata ku Lisensi">
+<!ENTITY bottomLinks.license        "Ebikwata ku Layisensi ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Eddembe Ly'omukozesa">

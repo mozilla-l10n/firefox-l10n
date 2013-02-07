@@ -41,3 +41,7 @@
 <!ENTITY matched               "Kifananyiziddwa">
 <!ENTITY parentMatch           "Okufananya Omuzadde">
 <!ENTITY unmatched             "Tekifanyiziddwa">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Kibalidwa">
+<!ENTITY ruleViewTitle         "Amateka">
