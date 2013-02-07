@@ -50,7 +50,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
-<!ENTITY debuggerUI.showPanesOnInit     "Show panes on startup">
+<!ENTITY debuggerUI.showPanesOnInit     "ဘရောက်ဇာဖွင့်ဖွင့်ချင်းအတွင်းမျက်နှာပြင်များပြသခြင်း">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
@@ -67,16 +67,16 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 
-<!ENTITY debuggerUI.searchPanelTitle    "Operators">
+<!ENTITY debuggerUI.searchPanelTitle    "အော်ပရေတာများ">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile          "Filter scripts">
+<!ENTITY debuggerUI.searchFile          "စစ်ဆေးခြင်းကုဒ်">
 <!ENTITY debuggerUI.searchFile.key      "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal        "ဖိုင်အားလုံးတွင်ရှာပါ">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->

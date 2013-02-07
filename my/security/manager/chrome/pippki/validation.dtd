@@ -19,7 +19,7 @@
 <!ENTITY  validation.crl.autoupdate.title         "အလိုအလျှောက်  CRL မွမ်းမံချက် ဦးစားပေးချက်များ">
 <!ENTITY  validation.crl.autoupdate.enable.label  "CRL အတွက် အလိုအလျှောက်  မွမ်းမံချက်ကို ဖွင့်ပါ">
 <!ENTITY  validation.crl.autoupdate.time.label1   "မွမ်းမံချက်">
-<!ENTITY  validation.crl.autoupdate.time.label2   "နောက် မွမ်းမံတဲ့ နေ့ မတိုင်ခင် နေ့ရက်(များ)">
+<!ENTITY  validation.crl.autoupdate.time.label2   "နောက်အသစ်မထွက်ခင် ကြားခံနေမည့်ရက်များ(s)">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "မွမ်းမံမဲ့ အရာများ">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "နေ့ရက်(များ)">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL ကို တင်သွင်းမဲ့ နေရာ -">

@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "&brandShortName; တဲ့အခါ s စတင်လာတဲ့ အရာ၊">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "ကျွန်ပ် ပင်မစာမျက်နှာကို ပြသပါ">
+<!ENTITY startupHomePage.label     "ကျွန်တော့် ပင်မစာမျက်နှာကို ပြသပါ">
 <!ENTITY startupBlankPage.label    "စာမျက်နှာ အလွတ် ‌ပြသပါ">
 <!ENTITY startupLastSession.label  "နောက်ဆုံး အချိန်မှ ကျွန်ပ် ၀င်းဒိုးများနဲ့ စာအမှတ်များကို ​ပြသပါ">
 

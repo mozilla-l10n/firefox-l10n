@@ -4,18 +4,18 @@
 
 <!ENTITY  blockPopups.label           "B ပွင့်ထွက် စာမျက်နှာများကို ပိတ်ဆို့ပါ">
 <!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "E ခြွင်းချက်များ...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label       " ခြွင်းချက်များ...">
+<!ENTITY  popupExceptions.accesskey   " ">
 
-<!ENTITY  loadImages.label            "$iရုပ်ပုံများကို အလိုအလျှောက် ဖွင့်ပါ">
+<!ENTITY  loadImages.label            "ရုပ်ပုံများကို အလိုအလျှောက် ဖွင့်ပါ">
 <!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "$xခြွင်းချက်များ...">
+<!ENTITY  exceptions.label            "xခြွင်းချက်များ...">
 <!ENTITY  exceptions.accesskey        "x">
 
 <!ENTITY  enableJavaScript.label      "JavaScript ကို ဖွင့်ထားပါ">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "v အဆင့်မြင့်သော...">
-<!ENTITY  advancedJS.accesskey        "v">
+<!ENTITY  advancedJS.label            " အဆင့်မြင့်သော...">
+<!ENTITY  advancedJS.accesskey        " ">
 
 <!ENTITY  enableJava.label            "Java ကို ဖွင့်ထားပါ">
 <!ENTITY  enableJava.accesskey        "J">
@@ -25,17 +25,17 @@
 
 <!ENTITY  defaultFont.label           "D စံထား ဖောင့်၊">
 <!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "S အရွယ်အစား၊">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultSize.label           " အရွယ်အစား၊">
+<!ENTITY  defaultSize.accesskey       " ">
 
-<!ENTITY  advancedFonts.label         "A အဆင့်မြင့်သော...">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.label         " အဆင့်မြင့်သော...">
+<!ENTITY  advancedFonts.accesskey     " ">
 
-<!ENTITY  colors.label                "C အရောင်များ ...">
-<!ENTITY  colors.accesskey            "C">
+<!ENTITY  colors.label                " အရောင်များ ...">
+<!ENTITY  colors.accesskey            " ">
 
 
-<!ENTITY languages.label              "ဘာသာ စကားများ">
+<!ENTITY languages.label              "ဘာသာစကားများ">
 <!ENTITY chooseLanguage.label         "စာမျက်နှာများ ပြသဖို့ နှစ်သက်ရာ ဘာသာစကားကို ရွေးပါ">
 <!ENTITY chooseButton.label           "o ရွေးပါ...">
 <!ENTITY chooseButton.accesskey       "o">

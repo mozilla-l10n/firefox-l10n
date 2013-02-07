@@ -4,5 +4,5 @@
 
 <!ENTITY appManager.title     "လုပ်ငန်းသုံး ကိရိယာများ အသေးစိတ်">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Rဖယ်ရှားပါ">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY remove.label         "ဖယ်ရှားပါ">
+<!ENTITY remove.accesskey     "ဖ">

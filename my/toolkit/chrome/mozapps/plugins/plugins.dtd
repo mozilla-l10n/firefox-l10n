@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ဟာ ပျောက်နေတဲ့ ယန္တရားငယ်များကို တပ်ဆင်မှု ပြီးသွားတယ် -">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ယန္တရားငယ်များကို ပိုပြီး ရှာဖွေပါ (သို့)  ပျောက်နေတဲ့ ယန္တရားငယ်များကို လက်နဲ့ ရှာဖွေပါ။">
-<!ENTITY pluginWizard.finalPage.restart.label                "ယန္တရားငယ်များ လုပ်ဆောင်ဖို့ &brandShortName; ကို ပြန်ဖွင့်ဖို့ လိုအပ်တယ်။">
+<!ENTITY pluginWizard.finalPage.restart.label                "ယန္တရားငယ်(များ) လုပ်ဆောင်ဖို့ &brandShortName; ကို ပြန်ဖွင့်ဖို့ လိုအပ်တယ်။">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 

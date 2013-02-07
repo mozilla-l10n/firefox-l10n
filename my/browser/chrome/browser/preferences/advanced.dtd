@@ -33,10 +33,26 @@
 <!ENTITY setDefault.label                "&brandShortName; ကိုအမြဲသုံးဘရောက်ဇာ အနေနဲ့ ထားပါ">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; က လက်ရှိ သင့်ရဲ့ အမြဲသုံးဘရောက်ဇာ ဖြစ်ပါတယ်">
-<!ENTITY submitCrashes.label             "ပျက်ဆီးမှု သတင်းပို့ချက်ကို ပေးပို့ပါ">
-<!ENTITY submitCrashes.accesskey         "ပ">
-<!ENTITY submitTelemetry.label           "လုပ်ဆောက်ချက်ဆိုင်ရာအချက်လက်များကိုပို့ပါ။">
-<!ENTITY submitTelemetry.accesskey       "လ">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
+<!ENTITY healthReportDesc.label          "သင့်ဘယောက်ဆာ ၏ ကျန်းမာရေးအကြောင်း အား &vendorShortName; မှ မည်သို့မျှဝေ သုံးသပ်သည် ကိုနားလည်အောင် ကူညီပေးသည်">
+<!ENTITY enableHealthReport.label        "&brandShortName; ကျန်မာရေး အစီရင်ခံခြင်းအား လုပ်မည်">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "ပျက်ဆီးချက်တင်ပြသူ">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "ကွန်ရက် ချိတ်ဆက်မှု">
 

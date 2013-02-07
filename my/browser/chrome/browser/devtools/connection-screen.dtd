@@ -9,9 +9,9 @@
 
 <!ENTITY title      "ချိတ်ဆက်ပါ">
 <!ENTITY header     "အဝေးရှိကိရိယာကိုချိတ်ဆက်ပါ">
-<!ENTITY host       "Host:">
+<!ENTITY host       "လက်ခံရာနေရာ">
 <!ENTITY port       "စိုက်ရောက်နေရာ၊">
-<!ENTITY connect    "Connect">
+<!ENTITY connect    "ချိတ်ဆက်ပါ">
 <!ENTITY connecting "ချက်ဆက်နေသည်">
 <!ENTITY availableTabs "အဝေးတွင်ရရှိနိုင်သောတက်ပ်များ">
 <!ENTITY availableProcesses "အဝေးတွင်ရှိသော လုပ်ငန်းစဉ်များ">

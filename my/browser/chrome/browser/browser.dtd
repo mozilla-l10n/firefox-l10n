@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "eချိတ်ဆက်ပါ...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "ထိန်းချုပ်ခလုတ်ခုံ အမှား">
@@ -359,7 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "အချိတ်အဆက်ကို ‌ဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.label "အချိတ်အဆက်ကို ‌P ဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "လိပ်စာအားဖွင့်ပါ။">
 <!ENTITY openLinkCmdInCurrent.accesskey "လ">
@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "စာအမှတ်သစ် တခု ဖွင့်ပါ">
 <!ENTITY newWindowButton.tooltip        "ဝင်းဒိုးသစ် တခု ‌ဖွင့်ပါ">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "ဘေးတန်းကို ပိတ်ပါ">
 
 <!ENTITY cutButton.tooltip              "ဖြတ်ယူပါ ">
 <!ENTITY copyButton.tooltip             "ကူးယူပါ">
@@ -623,13 +623,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.label "cချက်အားရွေးပါ">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.label "Cကင်မရာအားရှယ်">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.label "Mမိုက်ကရိုဖုန်းအားရှယ်:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.label "ကင်မရာ/မိုက်ကရိုဖုန်းသုံးခွင့်">
 <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

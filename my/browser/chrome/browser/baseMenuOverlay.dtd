@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
 <!ENTITY helpSafeMode.accesskey   "A">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
 <!ENTITY helpTroubleshootingInfo.accesskey  "အ">
 
