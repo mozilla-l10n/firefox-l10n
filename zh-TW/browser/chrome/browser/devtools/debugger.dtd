@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "過濾變數">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "聚焦於變數樹">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "此中斷點將只會在下列表達式值為真時才停止執行">

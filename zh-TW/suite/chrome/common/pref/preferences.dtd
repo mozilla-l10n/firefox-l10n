@@ -18,6 +18,7 @@
 <!ENTITY links.label "鏈結行為">
 <!ENTITY offline.label "離線模式">
 <!ENTITY security.label "個人隱私與安全">
+<!ENTITY privatedata.label "隱私資料">
 <!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "圖片">
 <!ENTITY popups.label "彈出型視窗 (Popup)">
