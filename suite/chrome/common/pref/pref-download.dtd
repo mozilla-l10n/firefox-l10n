@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "下載">
 
 <!ENTITY downloadBehavior.label         "當開始下載時">
-<!ENTITY focusWhenStarting.label        "如果已經打開下載管理員就讓它閃爍，否則:">
-<!ENTITY focusWhenStarting.accesskey    "F">
-<!ENTITY openDM.label                   "開啟下載管理員">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "開啟進度顯示窗">
-<!ENTITY openProgressDialog.accesskey   "O">
 <!ENTITY doNothing.label                "不開啟任何視窗">
 <!ENTITY doNothing.accesskey            "D">
+<!ENTITY openProgressDialog.label       "開啟進度顯示窗">
+<!ENTITY openProgressDialog.accesskey   "O">
+<!ENTITY openDM.label                   "開啟下載管理員">
+<!ENTITY openDM.accesskey               "m">
+<!ENTITY flashWhenOpen.label            "若已開啟下載管理員，僅閃爍視窗">
+<!ENTITY flashWhenOpen.accesskey        "f">
 
 <!ENTITY downloadLocation.label         "下載檔案存放設定">
 <!ENTITY saveTo.label                   "儲存全部檔案到">
