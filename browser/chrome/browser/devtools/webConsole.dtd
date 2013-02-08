@@ -60,30 +60,9 @@
 <!ENTITY btnConsoleWarnings     "Varoitukset">
 <!ENTITY btnConsoleLog          "Loki">
 
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-<!ENTITY btnPosition.label     "Asettelu">
-
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "Näytä konsoli dokumentin ala- tai yläreunassa">
-
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-<!ENTITY positionMenu.above    "Yläreunassa">
-
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-<!ENTITY positionMenu.below    "Alareunassa">
-
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-<!ENTITY positionMenu.window   "Omassa ikkunassa">
-
 <!ENTITY filterBox.placeholder "Suodata">
 <!ENTITY btnClear.label        "Tyhjennä">
 <!ENTITY btnClear.tooltip      "Tyhjennä konsoli-ikkuna">
-<!ENTITY btnClose.tooltip      "Sulje konsoli">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
