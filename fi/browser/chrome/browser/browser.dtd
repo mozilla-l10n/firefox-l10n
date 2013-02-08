@@ -210,8 +210,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Tutki elementtiä">
 <!ENTITY inspectContextMenu.accesskey "T">
 
-<!ENTITY responsiveDesignTool.label   "Joustava suunnittelunäkymä">
-<!ENTITY responsiveDesignTool.accesskey "J">
+<!ENTITY responsiveDesignTool.label   "Mukautuva suunnittelunäkymä">
+<!ENTITY responsiveDesignTool.accesskey "s">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
