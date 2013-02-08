@@ -55,9 +55,9 @@
 
 <!ENTITY close_tab "Tabblad sluiten">
 <!ENTITY one_tab "1 tabblad">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d tabbladen">
+<!ENTITY num_tabs2 "&formatD; tabbladen">
 <!ENTITY new_tab_opened "Nieuw tabblad geopend">
 
 <!ENTITY settings "Instellingen">
@@ -141,7 +141,6 @@ size. -->
 <!ENTITY tabs_normal "Tabbladen">
 <!ENTITY tabs_private "Privé">
 <!ENTITY tabs_synced "Gesynchroniseerde">
-<!ENTITY new_pb_tab "Nieuw privénavigatietabblad">
 <!ENTITY wallpaper_success "Achtergrond bijgewerkt">
 <!ENTITY wallpaper_progress "Achtergrond instellen">
 <!ENTITY wallpaper_fail "Achtergrond instellen niet mogelijk">
@@ -165,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Pagina verwijderd">
 
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
@@ -253,10 +250,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          uit Android">
 <!ENTITY bookmarkhistory_import_wait "Een moment geduld…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Wilt u &#037;s-zoeksuggesties aanzetten?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Wilt u &formatS;-zoeksuggesties aanzetten?">
 
 <!ENTITY webapp_generic_name "App">
 
