@@ -89,6 +89,7 @@
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
 <!ENTITY pref_private_data_siteSettings "Preferenze dei siti">
+<!ENTITY pref_private_data_downloadFiles "File scaricati">
 <!ENTITY pref_update_autodownload "Aggiornamento automatico">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Disattivato">
