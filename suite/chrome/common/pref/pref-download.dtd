@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Downloads">
 
 <!ENTITY downloadBehavior.label         "Beim Starten eines Downloads">
-<!ENTITY focusWhenStarting.label        "Den Download Manager in den Vordergrund bringen, wenn er bereits offen ist, ansonsten:">
-<!ENTITY focusWhenStarting.accesskey    "a">
-<!ENTITY openDM.label                   "Download-Manager öffnen">
-<!ENTITY openDM.accesskey               "M">
-<!ENTITY openProgressDialog.label       "Fortschritts-Dialog öffnen">
-<!ENTITY openProgressDialog.accesskey   "F">
 <!ENTITY doNothing.label                "Nichts öffnen">
 <!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Fortschritts-Dialog öffnen">
+<!ENTITY openProgressDialog.accesskey   "F">
+<!ENTITY openDM.label                   "Download-Manager öffnen">
+<!ENTITY openDM.accesskey               "M">
+<!ENTITY flashWhenOpen.label            "Download-Manager nur aufblinken lassen, wenn er schon offen ist">
+<!ENTITY flashWhenOpen.accesskey        "u">
 
 <!ENTITY downloadLocation.label         "Speicherort von Dateien">
 <!ENTITY saveTo.label                   "Dateien speichern in">
