@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksButton.tooltip        "Показати ваші закладки">
-<!ENTITY bookmarksButton.accesskey  "З">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Історія">
 <!ENTITY historyButton.tooltip          "Показати список недавно переглянутих сторінок">
-<!ENTITY historySidebarCmd.accesskey    "с">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Інструменти">
@@ -207,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webConsoleCmd.label          "Веб-консоль">
 <!ENTITY webConsoleCmd.accesskey      "В">
 <!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Віддалена веб-консоль">
 
 <!ENTITY inspectMenu.label            "Дослідити">
 <!ENTITY inspectMenu.accesskey        "Д">
@@ -277,6 +276,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
+<!ENTITY newPrivateWindow.label     "Нове потайливе вікно">
+<!ENTITY newPrivateWindow.accesskey "в">
 
 <!ENTITY editMenu.label         "Правка"> 
 <!ENTITY editMenu.accesskey       "П"> 
@@ -656,3 +657,5 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Скасувати">
 <!ENTITY social.activated.undobutton.accesskey "С">
+
+<!ENTITY social.chatBar.commandkey "c">
