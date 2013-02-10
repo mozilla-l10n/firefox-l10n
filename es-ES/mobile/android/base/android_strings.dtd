@@ -89,6 +89,7 @@
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
+<!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desactivadas">
@@ -162,6 +163,7 @@
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Fijar sitio">
 <!ENTITY abouthome_topsites_unpin "Eliminar sitio">
+<!ENTITY abouthome_topsites_remove "Eliminar">
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder a los marcadores, historial y pestañas de sus otros dispositivos »">
 <!ENTITY abouthome_about_apps3 "Consiga aplicaciones desde Firefox Marketplace y descubra lo mejor que la web puede ofrecerle »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

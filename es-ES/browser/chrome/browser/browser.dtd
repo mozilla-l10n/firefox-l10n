@@ -215,7 +215,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Limpiar el historial reciente…">
-<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
@@ -248,7 +247,7 @@
 <!ENTITY appMenuSafeMode.label "Reiniciar con los complementos desactivados…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Ir a un sitio web">
+<!ENTITY urlbar.placeholder2 "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la pestaña:">
 <!ENTITY searchFocus.commandkey "k">
