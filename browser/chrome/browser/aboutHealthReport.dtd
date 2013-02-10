@@ -15,7 +15,7 @@
 <!ENTITY abouthealth.show-raw-data "Mostrar detalles">
 <!ENTITY abouthealth.hide-raw-data "Ocultar detalles">
 <!ENTITY abouthealth.show-report "Mostrar el reporte de &brandShortName;">
-<!ENTITY abouthealth.details.description-start "Estos son los datos que &brandFullName; está enviadndo para que el reporte de salud de &brandShortName; funcione.   Puede ">
+<!ENTITY abouthealth.details.description-start "Estos son los datos que &brandFullName; está enviando para que el reporte de salud de &brandShortName; funcione.   Puede ">
 <!ENTITY abouthealth.details-link "saber más">
 <!ENTITY abouthealth.details.description-end " sobre lo que podemos registrar y enviar.">
 <!ENTITY abouthealth.no-data-available "Aún no se han enviado datos que puedan ser mostrados. Pruebe de nuevo más tarde.">
