@@ -4,6 +4,9 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; wird keinerlei Chronik für diese Sitzung anlegen.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ist derzeit nicht im privaten Modus.">
 
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; legt keine Chronik für dieses Fenster an.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Sie befinden sich derzeit nicht in einem privaten Fenster.">
+
 <!ENTITY privatebrowsingpage.description               "Im privaten Modus wird &brandShortName; keinerlei Chronik anlegen. Dies betrifft besuchte Seiten, Sucheinträge, Formulardaten, Cookies, temporäre Internetdateien und die Download-Chronik. Allerdings werden alle Lesezeichen, die Sie anlegen, und Dateien, die Sie herunterladen, beibehalten.">
 
 <!ENTITY privatebrowsingpage.perwindow.description     "Im einem privaten Fenster wird &brandShortName; keinerlei Chronik anlegen. Das enthält besuchte Seiten, Sucheinträge, Formulardaten, Cookies, temporäre Internetdateien und die Download-Chronik. Allerdings werden alle Lesezeichen, die Sie anlegen, und Dateien, die Sie herunterladen, beibehalten.">
