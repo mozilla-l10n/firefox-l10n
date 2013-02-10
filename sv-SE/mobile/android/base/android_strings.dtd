@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
+<!ENTITY pref_private_data_downloadFiles "Hämtade filer">
 
 <!ENTITY pref_update_autodownload "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
