@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; kommer inte spara någon historik för det här fönstret.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Du är nu inte i ett privat fönster.">
 
-<!ENTITY privatebrowsingpage.description               "Under privat surfning kommer &brandShortName; inte att spara information om besökta sidor, sökhistorik, filhämtningslistan, webbformulärdata, kakor eller tillfälliga internetfiler.  Filer du hämtar eller bokmärken du skapar kommer dock att sparas.">
+<!ENTITY privatebrowsingpage.perwindow.description     "I ett privat surffönster kommer &brandShortName; inte att spara information om besökta sidor, sökhistorik, filhämtningslistan, webbformulärdata, kakor eller tillfälliga internetfiler.  Filer du hämtar eller bokmärken du skapar kommer dock att sparas.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Öppna ett privat fönster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
