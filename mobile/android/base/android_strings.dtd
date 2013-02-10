@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
+<!ENTITY pref_private_data_downloadFiles "Archivos descargados">
 
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
