@@ -42,7 +42,7 @@
 <!ENTITY healthReportLearnMore.label     "Læs mere">
 
 <!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Deler browserdata om ydelse, brug, hardware og tilpasninger til &vendorShortName; for at hjælpe os med at gøre &brandShortName; bedre">
+<!ENTITY telemetryDesc.label             "Deler browserdata om ydelse, brug, hardware og tilpasninger med &vendorShortName; for at hjælpe os med at gøre &brandShortName; bedre">
 <!ENTITY enableTelemetry.label           "Aktiver Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Læs mere">
