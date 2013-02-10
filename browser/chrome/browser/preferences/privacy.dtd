@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Spårning">
 
-<!ENTITY doNotTrack.label               "Be webbplatser att inte spåra mig">
-<!ENTITY doNotTrack.accesskey           "e">
+<!ENTITY dntTrackingNopref.label        "Säg inget till webbplatser om min inställning till spårning.">
+<!ENTITY dntTrackingNopref.accesskey    "ä">
+<!ENTITY dntTrackingNotOkay.label       "Be webbplatser att inte spåra mig.">
+<!ENTITY dntTrackingNotOkay.accesskey   "e">
+<!ENTITY dntTrackingOkay.label          "Tillåt webbplatser att spåra mig.">
+<!ENTITY dntTrackingOkay.accesskey      "l">
+<!ENTITY doNotTrackInfo.label           "Läs mer">
 
 <!ENTITY  history.label                 "Historik">
 
