@@ -18,17 +18,17 @@
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Revice la dirección por errores de escritura como 
+<li>revise la dirección por errores de escritura como 
 <strong>ww</strong>.ejemplo.cl en lugar de 
 <strong>www</strong>.ejemplo.cl</li> 
-<li>Si usted no puede cargar ninguna página, revice la conexión de red de su computador.</li> 
+<li>Si usted no puede cargar ninguna página, revise la conexión de red de su computador.</li> 
 <li>Si su computador o red están protegisdos por un muro de fuego o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Revice el nombre del archivo por mayúsculas u otro tipo de errores de tipeo.</li> 
-<li>Revice si elarchivo fue movido, renombrado o eliminado.</li> 
+<li>revise el nombre del archivo por mayúsculas u otro tipo de errores de tipeo.</li> 
+<li>revise si elarchivo fue movido, renombrado o eliminado.</li> 
 </ul>">
 
 
@@ -77,14 +77,14 @@
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando conexiones">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Revice los ajustes del proxy para asegurarse de que son correctos.</li> 
+<li>revise los ajustes del proxy para asegurarse de que son correctos.</li> 
 <li>Contacte a su administrador de red para asegurarse de que el servidor proxy está funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Imposible encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Revice los ajustes del servidor proxy para asegurarse de que son correctos.</li> 
-<li>Revice para asegurarse de que su computador tiene una conección de red funcionando.</li> 
+<li>revise los ajustes del servidor proxy para asegurarse de que son correctos.</li> 
+<li>revise para asegurarse de que su computador tiene una conección de red funcionando.</li> 
 <li>Si su computador o red están protegidos por un corta fuegos o proxy, asegúrese de que &brandShortName; tiene permitido el acceso a la web.</li> 
 </ul>">
 
@@ -95,7 +95,7 @@
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Revice para asegurarse de que su sistema tiene el administrador de seguridad personal instalado.</li> 
+<li>revise para asegurarse de que su sistema tiene el administrador de seguridad personal instalado.</li> 
 <li>Esto puede ocurrir por una configuración no estándar en el servidor.</li> 
 </ul>">
 
@@ -112,8 +112,8 @@
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>El sitio está temporalmente no disponible o muy ocupado. Intente denuevo en unos isntantes.</li> 
-<li>Si usted no puede cargar ninguna página, revice la conexión de red de su computador.</li> 
+<li>El sitio está temporalmente no disponible o muy ocupado. Intente denuevo en unos instantes.</li> 
+<li>Si usted no puede cargar ninguna página, revise la conexión de red de su computador.</li> 
 <li>Si su computador está protegido por un corta fuegos o proxy, asegúrese de que &brandShortName; tiene permitido acceder a la web.</li> 
 </ul>">
 

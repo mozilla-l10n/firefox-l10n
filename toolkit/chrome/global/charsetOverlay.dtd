@@ -5,7 +5,7 @@
 
 <!ENTITY charsetMenu.label             "Codificación de caracteres">
 <!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "Auto-Detección">
+<!ENTITY charsetMenuAutodet.label      "Auto-detección">
 <!ENTITY charsetMenuAutodet.accesskey  "A">
 <!ENTITY charsetMenuMore.label         "Más codificaciones">
 <!ENTITY charsetMenuMore.accesskey     "M">
@@ -21,5 +21,5 @@
 <!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetMenuUnicode.label      "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "Personalizar Lista…">
+<!ENTITY charsetCustomize.label        "Personalizar lista…">
 <!ENTITY charsetCustomize.accesskey    "P">
