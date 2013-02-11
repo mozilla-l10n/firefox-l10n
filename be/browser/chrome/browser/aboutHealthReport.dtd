@@ -4,7 +4,7 @@
 
 <!ENTITY abouthealth.locale-direction "ltr">
 <!ENTITY abouthealth.pagetitle "Справаздача пра стан &brandShortName;">
-<!ENTITY abouthealth.header "Справаздача пра стан &brandShortName;">
+<!ENTITY abouthealth.header "Справаздача пра стан &brandFullName;">
 <!ENTITY abouthealth.intro.title "Што паказвае справаздача пра стан &brandShortName;?">
 <!ENTITY abouthealth.intro-enabled "&brandFullName; збірае здаткі пра ваш кампутар і яго выкарыстанне, каб забяспечыць вам лепшы досвед азірання.">
 <!ENTITY abouthealth.intro-disabled "Вы яшчэ не падавалі здаткі пра выкарыстанне &vendorShortName;. Вы можаце дапамагчы нам зрабіць &brandShortName; лепшым, калі пстрыкніце кнопку &quot;&abouthealth.optin;&quot;.">
