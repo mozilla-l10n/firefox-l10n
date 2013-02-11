@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "A' chonsoil-lìn">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL an iarrtais:">
+<!ENTITY networkPanel.requestMethodColon          "Modh an iarrtais:">
+<!ENTITY networkPanel.statusCodeColon             "Còd na h-inbhe:">
 
 <!ENTITY networkPanel.requestHeaders              "Bannan-cinn an iarrtais">
 <!ENTITY networkPanel.requestCookie               "A' bhriosgaid a chaidh a chur">

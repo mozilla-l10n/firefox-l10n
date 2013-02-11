@@ -23,7 +23,7 @@
 <!ENTITY sync.setup.connect         "Ceangail">
 <!ENTITY sync.setup.cancel          "Sguir dheth">
 <!ENTITY sync.setup.tutorial        "Seall dhomh mar a nì mi seo">
-<!ENTITY sync.setup.waiting2        "A' feitheamh ris an dàrna uidheam...">
+<!ENTITY sync.setup.waiting2        "A' feitheamh ris an dàrna uidheam…">
 
 <!ENTITY sync.pair.title            "Paidhrich uidheam">
 <!ENTITY sync.pair.description      "Gus an t-uidheam ùr agad a chur an gnìomh, tagh &#x0022;Suidhich an sioncronachadh&#x0022; air an uidheam ud.">
