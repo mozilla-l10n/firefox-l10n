@@ -173,6 +173,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Powtarzaj:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label "Zakończ powtarzanie:">
+<!ENTITY event.until.accesskey "e">
 <!ENTITY event.reminder.label                             "Przypomnij:" >
 <!ENTITY event.reminder.accesskey                         "y">
 <!ENTITY event.description.label                          "Opis:" >
