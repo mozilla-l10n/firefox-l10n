@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "သင်&syncBrand.fullName.label;အား ယခင်က သုံးဘူးပါသလား?">
 <!ENTITY setup.choicePage.new.label       " &syncBrand.shortName.label; အားယခင်ကမသုံးဘူးပါ။">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "အခြားစက်တွင် &syncBrand.shortName.label; အားသုံးပြီးဖြစ်သည်။">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "ဆာဗာ">

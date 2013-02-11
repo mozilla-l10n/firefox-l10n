@@ -113,8 +113,10 @@
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ (သို့) တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​ ဖြစ်နိုင်တယ်။ </li> 
-<li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
+<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ (သို့) တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​
+ ဖြစ်နိုင်တယ်။ </li> 
+<li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ 
+ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc2 "
@@ -139,7 +141,10 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">

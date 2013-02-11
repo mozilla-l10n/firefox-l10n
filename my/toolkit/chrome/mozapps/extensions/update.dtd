@@ -23,7 +23,8 @@
 
 <!ENTITY  found.wizard.title               "လိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များကို တွေ့ရှိတယ်">
 <!ENTITY  found.top.label                 "သင်တပ်ဆင်လိုတဲ့ ပေါင်းထည့်ချက်များကို ရွေးပါ -">
-<!ENTITY  found.disabledXPinstall.label   "လောလောဆယ် ဆော့ဗ်ဝဲ တပ်ဆင်မှုကို ပိတ်ထားတဲ့အတွက် ဒီမွမ်းမံချက်များကို တပ်ဆင်လို့ မရနိုင်ဘူး။ ဒီအောက်က အပြင်အဆင်ကိုသင်ပြင်ဆင်နိုင်တယ်။">
+<!ENTITY  found.disabledXPinstall.label   "လောလောဆယ် ဆော့ဗ်ဝဲ တပ်ဆင်မှုကို ပိတ်ထားတဲ့အတွက် ဒီမွမ်းမံချက်များ 
+ကို တပ်ဆင်လို့ မရနိုင်ဘူး။ ဒီအောက်က အပြင်အဆင်ကိုသင်ပြင်ဆင်နိုင်တယ်။">
 <!ENTITY  found.enableXPInstall.label     "ဝဘ်ဆိုက်တွေကို ဆော့ဖ်ဝဲထည့်သွင်းခွင့်ပြုတယ်">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
@@ -39,10 +40,10 @@
 
 <!ENTITY  finished.wizard.title           "လိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်ကို တပ်ဆင်ထားတယ်">
 <!ENTITY  finished.top.label              "&brandShortName; က သင့်ပေါင်းထည့်ချက်များအတွက် မွမ်းမံချက်များကို တပ်ဆင်ပေးတယ်။">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; can check periodically and inform you
-                                           when updates for add-ons are found.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
-                                           when updates for add-ons are found.">
+<!ENTITY  finished.checkDisabled.desc     "ပေါင်းထည့်ချက်များအတွက် မွမ်းမံချက်တွေ တွေ့ရှိတဲ့အချိန်ကို 
+&brandShortName; က အချိန်မှန် စစ်ဆေးပေးပြီး သင့်ကို အသိပေးနိုင်တယ်။">
+<!ENTITY  finished.checkEnabled.desc      "ပေါင်းထည့်ချက်များအတွက် မွမ်းမံချက်တွေ တွေ့ရှိတဲ့အချိန်ကို 
+&brandShortName; က အချိန်မှန် စစ်ဆေးပေးပြီး သင့်ကို အသိပေးလိမ့်မယ်။">
 
 <!ENTITY  adminDisabled.wizard.title      "မွမ်းမံချက်များကို မစစ်ဆေးနိုင်ဘူး">
 <!ENTITY  adminDisabled.warning.label     "&brandShortName; အတွက် ဆော့ဗ်ဝဲ တပ်ဆင်မှုကို ပိတ်ထားတဲ့အတွက် လိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များအတွက် 

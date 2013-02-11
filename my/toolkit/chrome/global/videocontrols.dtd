@@ -11,10 +11,10 @@
 
 <!ENTITY stats.media "မီဒီယာ">
 <!ENTITY stats.size "အရွယ်အ​စား">
-<!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
-<!ENTITY stats.activityPlaying "Playing">
-<!ENTITY stats.activityEnded "Ended">
+<!ENTITY stats.activity "လှုပ်ရှားမှု">
+<!ENTITY stats.activityPaused "ခတ္တရပ်ထားပြီးပြီ">
+<!ENTITY stats.activityPlaying "ဖွင့်ထားသည်">
+<!ENTITY stats.activityEnded "ပြီးဆုံးပြီ">
 <!ENTITY stats.activitySeeking "(ရှာဖွေနေပါသည်)">
 <!ENTITY stats.volume "ပမဏ(ထု)">
 <!ENTITY stats.channels "ထုတ်လွှတ်လိုင်းခွဲများ">

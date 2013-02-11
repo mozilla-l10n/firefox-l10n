@@ -54,8 +54,8 @@
 <!ENTITY report.submitting                                   "အကြံပေးချက်အားပေးပို့နေသည်...">
 <!ENTITY report.submitted                                    "ရုတ်ချည်းပိတ်သိမ်းမှူတင်ပြချက်အားပေးပို့ပြီး">
 <!ENTITY report.disabled                                     "ရုတ်ချက်းပိတ်သိမ်းမှူတင်ပြချက်အားပိတ်ထားပြီး">
-<!ENTITY report.failed                                       "Submission failed.">
+<!ENTITY report.failed                                       "ပေးပို့ခြင်းမအောင်မြင်">
 <!ENTITY report.unavailable                                  "မည့်သည့်တင်ပြချက်မှမရှိ">
 
-<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.file                                         "ဖိုင်">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F၂">
+<!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
@@ -632,4 +632,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!ENTITY webrtcIndicatorButton.label "ကင်မရာ/မိုက်ကရိုဖုန်းသုံးခွင့်">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.tooltip "သင်လောလောဆယ် ရုပ်မြင်ကင်မရာနှင့် မိုက်ကရိုဖုန်းမျှပေးထားသော ဆိုဒ်များအား ပြမည် ">

@@ -52,7 +52,8 @@ that &brandShortName; is permitted to access the Web.</li>
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-<!ENTITY netOffline.longDesc2 "<ul><li>အွန်လိုင်းချိတ်ဆက်အနေဖြင့်အသုံးပြုရန်အတွက်တဖန်ကြိုးစားမည်  &quot; အားနှိပ်ပါ  &quot;</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
@@ -112,20 +113,24 @@ installed.</li>
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ (သို့) တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​ ဖြစ်နိုင်တယ်။ </li> 
-<li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
+<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ (သို့) တစုံတယောက်က ဆာဗာကို 
+အယောင်ဆောင်ဖို့ ကြိုးစားတာ​ ဖြစ်နိုင်တယ်။ </li> 
+<li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊
+ ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>သင်ကြည့်ရှုလိုသောဝတ်ဆိုက်သည်လောလောဆယ်ကြည့်ရှူမရနိုင်ပါ။အလွန်အလုပ်များနေသောကြောင့်ဖြစ်ပါလိမ့်မည်။</li> 
-<li>အကယ်လိုပြန်လည်ကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာနက်ဝပ်ချိတ်ဆက်မှူကိုစစ်ကြည့်ပါ။.</li> 
-<li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName; အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> </ul>">
+<li>သင်ကြည့်ရှုလိုသောဝတ်ဆိုက်သည်လောလောဆယ်ကြည့်ရှူမရနိုင်ပါ။ 
+အလွန်အလုပ်များနေသောကြောင့်ဖြစ်ပါလိမ့်မည်။</li> 
+<li>အကယ်လိုပြန်လည်ကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာနက်ဝပ် 
+ချိတ်ဆက်မှူကိုစစ်ကြည့်ပါ။.</li> 
+<li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName;  
+အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "သံသယ ဖြစ်ဖွယ် တိုက်ခိုက်တဲ့ ကွန်ရက်။">
 <!ENTITY malwareBlocked.longDesc "<p>တိုက်ခိုက်ခံထားရသော၀တ်ဆိုက်များသည်သင့်ကွန်ပျူတာအားအသုံးပြုပြီးအခြားသူများအားတိုက်ခိုက်တတ်သောပရိုဂရမ်များကိုထည့်သွင်းတတ်သည်။</p> 
-<p> 
-တိုက်ခိုက်ခံဆိုက်များမှာပိုင်ရှင်များအနေဖြင့်၄င်းတို့၀တ်ဆိုက်အားကြည့်ရှူပေးရန် <a href='http://www.stopbadware.org/home/reviewinfo' >ဤတွင်တောင်းဆိုင်နိုင်သည်။</a> 
-</p>">
+<p>တိုက်ခိုက်ခံဆိုက်များမှာပိုင်ရှင်များအနေဖြင့်၄င်းတို့၀တ်ဆိုက်အားကြည့်ရှူပေးရန် <a href='http://www.stopbadware.org/home/reviewinfo' >ဤတွင်တောင်းဆိုနိုင်သည်။</a></p>">
 
 <!ENTITY phishingBlocked.title "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
 <!ENTITY phishingBlocked.longDesc "<p>ဒီစာမျက်နှာပေါ်မှာ ကိုယ်ရေး အချက်အလက် တခုခု ရေးထည့်လိုက်ခြင်းကြောင့် တူညီတဲ့ ခိုးယူမှု (သို့) အခြား လိမ်လည်မှု ကို ဖြစ်စေနိုင်တယ်။</p> 
@@ -147,7 +152,10 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">

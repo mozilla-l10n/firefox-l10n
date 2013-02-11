@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.button.label               "အက်အွန်တွေ အကြောင်း လေ့လာကြမယ်">
 <!ENTITY installAddonFromFile.label           "အက်အွန်တွေ ကို ဖိုင်မှတဆင့် သွင်းပါ">
 <!ENTITY installAddonFromFile.accesskey       "အ">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY toolsMenu.tooltip                    "အတ်အွန်အားလုံးအတွက် အသုံးချပစ္စည်းများ">
 
 <!ENTITY cmd.back.tooltip                     "နောက် တမျက်နှာ သွားပါ">
 <!ENTITY cmd.forward.tooltip                  "ရှေ့ တမျက်နှာ သွားပါ">
@@ -39,7 +39,7 @@
 <!ENTITY view.search.label                    "ရှာဖွေပါ">
 <!ENTITY view.discover.label                  "အက်အွန်ရယူပါ">
 <!ENTITY view.recentUpdates.label             "လက်ရှိ အသစ်">
-<!ENTITY view.availableUpdates.label          "Available Updates">
+<!ENTITY view.availableUpdates.label          "ရရှိနိုင်သော အဆင့်မြင်တင်မှု">
 <!-- addon updates -->
 
 <!ENTITY updates.checkForUpdates.label        "အဆင့်မြှင့်တင်ရန်လိုအပ်နေလားစစ်ကြည့်မည်။">
@@ -114,7 +114,8 @@
 <!ENTITY discover.description2                "အတ်အွန်များ သည် သင်၏ &brandShortName; အားတစ်ကိုယ်ရေသုံးဆန်စေရန် ပြုလုပ်ပေးသော 
 ထပ်တိုးလုပ်ဆောင်ချက်များနှင့် အက်ပလီကေးရှင်းများဖြစ်သည်။ ဘေးဘက်ဘား သို့ ရာသီဥတုအချက်ပေးအစီအစဉ် သို့ သမ်းပုံစုံတစ်ခုခုကို သုံးပြီး 
 &brandShortName; အားသင့်ပုံစံအဖြစ်ပြောင်းလဲပါ။">
-<!ENTITY discover.footer                      "သင့်ကွန်ပျူတာ အင်တာနက်နဲ့ ချိတ်ဆက်မှုရတဲ့အခါ၊ ဒီဘက်ခြမ်းမှာ သင့်အတွက် အကောင်းဆုံးနဲ့ အကျော်ကြားဆုံးသော အက်အွန်အချို့ကို စမ်းသပ်ကြည့်နိုင်ဖို့ ဖော်ပြပေးထားပါမယ်။">
+<!ENTITY discover.footer                      "သင့်ကွန်ပျူတာ အင်တာနက်နဲ့ ချိတ်ဆက်မှုရတဲ့အခါ၊ ဒီဘက်ခြမ်းမှာ သင့်အတွက် အကောင်းဆုံးနဲ့ 
+အကျော်ကြားဆုံးသော အက်အွန်အချို့ကို စမ်းသပ်ကြည့်နိုင်ဖို့ ဖော်ပြပေးထားပါမယ်။">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "မူအဆင့်">
@@ -203,7 +204,7 @@
 <!ENTITY addon.createdBy.label                "ဖြင့်">
 
 <!ENTITY eula.title                           "သုံးစွဲသူ ခွင့်ပြုမှု သဘောတူညီချက်">
-<!ENTITY eula.width                           "560px">
+<!ENTITY eula.width                           "600px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "လက်ခံပြီး တပ်ဆင်ပါ...">
 

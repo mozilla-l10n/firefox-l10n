@@ -16,7 +16,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "ကြားခံ ပြုပြင်ဖန်တီးမှု လက်စွဲ">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "အလိုအလျှောက် ကြားခံ ပြုပြင်ဖန်းတီးရေး တည်နေရာ၊">
+<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "ပြန်ဖွင့်ပါ">
 <!ENTITY  reload.accesskey              "e">

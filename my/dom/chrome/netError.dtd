@@ -67,13 +67,14 @@
 <!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>ဆာဗာအပြင်အဆင်ကြောင့်သော်လည်းကောင်သို့မဟုတ်ဆာဗာအားတစ်စုံတစ်ယောက်မှမှားယွင်းအောင်လုပ်နေခြင်းကြောင့်သော်လည်းကောင်းဖြစ်နိုင်သည်</li><li>အတိတ်တုန်းကသင်သည်ဆာဗာအားအောင်မြင်စွာချိတ်ဆက်ဘူးပါကယခုဖြစ်ရပ်သည်ခဏတစ်ဖြုတ်ဖြစ်ခြင်းမျိုးဖြစ်လိမ့်မည်။</li></ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li> 
+<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "သံသယ ဖြစ်ဖွယ် တိုက်ခိုက်တဲ့ ကွန်ရက်။">
-<!ENTITY malwareBlocked.longDesc "<p>တိုက်ခိုက်ခံထားရသော၀တ်ဆိုက်များသည်သင့်ကွန်ပျူတာအားအသုံးပြုပြီးအခြားသူများအားတိုက်ခိုက်တတ်သောပရိုဂရမ်များကိုထည့်သွင်းတတ်သည်။</p> 
-<p> 
-တိုက်ခိုက်ခံဆိုက်များမှာပိုင်ရှင်များအနေဖြင့်၄င်းတို့၀တ်ဆိုက်အားကြည့်ရှူပေးရန် <a href='http://www.stopbadware.org/home/reviewinfo' >ဤတွင်တောင်းဆိုင်နိုင်သည်။</a> 
-</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
 <!ENTITY phishingBlocked.title "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
 <!ENTITY phishingBlocked.longDesc "<p>ဒီစာမျက်နှာပေါ်မှာ ကိုယ်ရေး အချက်အလက် တခုခု ရေးထည့်လိုက်ခြင်းကြောင့် တူညီတဲ့ ခိုးယူမှု (သို့) အခြား လိမ်လည်မှု ကို ဖြစ်စေနိုင်တယ်။</p> 

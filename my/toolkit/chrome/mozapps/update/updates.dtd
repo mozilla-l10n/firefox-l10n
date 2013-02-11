@@ -13,7 +13,8 @@
 <!ENTITY  noupdatesfound.title            "မွမ်းမံချက်များ မတွေ့ရဘူး">
 <!ENTITY  noupdatesautoenabled.intro      "မွမ်းမံချက်များ မရှိဘူး။ &brandShortName; က မွမ်းမံချက်များကို 
 အချိန်တိုင်း စစ်ဆေးပေးမယ်။">
-<!ENTITY  noupdatesautodisabled.intro     "မွမ်းမံချက်များ မရှိဘူး။ နောက်တခါ ထပ်ကြိုးစားပါ (သို့) &brandShortName;ရဲ့ အလိုအလျှောက် မွမ်းမံချက် စစ်ဆေးမှုကို ဖွင့်ထားပါ။">
+<!ENTITY  noupdatesautodisabled.intro     "မွမ်းမံချက်များ မရှိဘူး။ နောက်တခါ ထပ်ကြိုးစားပါ သို့ &brandShortName; 
+ ရဲ့ အလိုအလျှောက် မွမ်းမံချက် စစ်ဆေးမှုကို ဖွင့်ထားပါ။">
 
 <!ENTITY  manualUpdate.title              "မွမ်းမံလို့ မရနိုင်ဘူး">
 <!ENTITY  manualUpdate.desc               "အကြံပြုထားတဲ့ လုံခြုံရေးနဲ့ ကြံ့ခိုင်တဲ့ မွမ်းမံချက် တခု ရနိုင်တယ်၊ 
@@ -48,8 +49,9 @@
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "မွမ်းမံချက်ကို ဆွဲချနေတယ်...">
 <!ENTITY  connecting.label                "မွမ်းမံတဲ့ ဆာဗာကို ချိတ်ဆက်နေတယ်...">
-<!ENTITY  verificationFailedText.label    "&brandShortName; ဟာ ၄င်းဆွဲချလိုက်တဲ့ တိုးပွား မွမ်းမံချက်ရဲ့ ခိုင်မြဲမှုကို အတည်မပြုနိုင်ဘူး၊ 
-ဒါကြောင့် ပြည့်စုံတဲ့ မွမ်းမံချက် ကုန်ထုတ် ပစ္စည်းကို အခု ဆွဲချနေတယ်။">
+<!ENTITY  verificationFailedText.label    "&brandShortName; ဟာ ၄င်းဆွဲချလိုက်တဲ့ တိုးပွား မွမ်းမံချက်ရဲ့
+ခိုင်မြဲမှုကို အတည်မပြုနိုင်ဘူး၊ဒါကြောင့် ပြည့်စုံတဲ့ မွမ်းမံချက်
+ကုန်ထုတ် ပစ္စည်းကို အခု ဆွဲချနေတယ်။">
 
 <!ENTITY  viewDetails.tooltip             "ဒီမွမ်းမံချက်ရဲ့ အသေးစိတ်များကို ရှုမြင်ပါ">
 
@@ -60,7 +62,8 @@
 <!ENTITY  error.label                     "ဒီမွမ်းမံချက်အတွက် ဆွဲချနေမှု (သို့) တပ်ဆင်နေမှု စစ်ဆေးချက်မှာ ပြဿနာများ ရှိနေတယ် 
 &brandShortName; ကို မွမ်းမံလို့ မနိုင်တဲ့ အကြောင်းရင်းက -">
                                            
-<!ENTITY  errorManual.label               "ဒီအချိတ်အဆက်ကို လည်ပတ်ပြီး နောက်ဆုံးထွက် မူအဆင့်ကို ဆွဲချခြင်းဖြင့် &brandShortName; ကို လက်ဖြင့် သင်မွမ်းမံနိုင်တယ် -">
+<!ENTITY  errorManual.label               "ဒီအချိတ်အဆက်ကို လည်ပတ်ပြီး နောက်ဆုံးထွက် မူအဆင့်ကို 
+ဆွဲချခြင်းဖြင့် &brandShortName; ကို လက်ဖြင့် သင်မွမ်းမံနိုင်တယ်:">
                                            
 <!ENTITY  errorpatching.intro             "တပိုင်းတစ မွမ်းမံချက်ကို အသုံးချလို့ မရနိုင်ဘူး။ 
 ပြည့်စုံတဲ့ မွမ်းမံချက်တခုကို ဆွဲချပြီး &brandShortName; က ထပ်ကြိုးစားမယ်။">
@@ -76,7 +79,8 @@
 <!ENTITY  finishedPage.text               "နောက်တခါ &brandShortName; စတင်တဲ့အခါ မွမ်းမံချက်ကို တပ်ဆင်လိမ့်မယ်။ 
 &brandShortName; ကို ယခု သင် ပြန်ဖွင်နိုင်တယ်၊ (သို့) ဆက်လက် လုပ်ဆောင်ပြီး နောက်တခါမှ ပြန်ဖွင့်လိုက်ပါ။">
 
-<!ENTITY  finishedBackgroundPage.text     "&brandShortName; အတွက် လုံခြုံရေးနဲ့ ကြံ့ခိုင်တဲ့ မွမ်းမံချက် တခုကို ဆွဲချထားပြီး တပ်ဆင်ဖို့ အသင့် ဖြစ်နေပြီ။">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; အတွက် လုံခြုံရေးနဲ့ ကြံ့ခိုင်တဲ့ မွမ်းမံချက် တခုကို 
+ဆွဲချထားပြီး တပ်ဆင်ဖို့ အသင့် ဖြစ်နေပြီ။">
 <!ENTITY  finishedBackground.name         "မွမ်းမံချက် -">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "မွမ်းမံချက်ကို နောက်တကြိမ် &brandShortName; စတင်တဲ့အခါ တပ်ဆင်လိမ့်မယ်။ 
