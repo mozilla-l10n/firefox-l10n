@@ -98,11 +98,11 @@
 
 <!ENTITY contextOpenInNewTab.label "Åbn link i nyt faneblad">
 <!ENTITY contextSaveImage.label       "Gem billede">
-<!ENTITY contextCopyLink.label        "Kopier linkadresse">
+<!ENTITY contextCopyLink.label        "Kopier link">
 <!ENTITY contextCopyEmail.label       "Kopier mailadresse">
 <!ENTITY contextCopyPhone.label       "Kopier telefonnummer">
 <!ENTITY contextCopyImageLocation.label       "Kopier billedadresse">
-<!ENTITY contextShareLink.label       "Del linkadresse">
+<!ENTITY contextShareLink.label       "Del link">
 <!ENTITY contextShareImage.label      "Del billede">
 <!ENTITY contextBookmarkLink.label    "Bogmærk link">
 <!ENTITY contextSaveVideo.label       "Gem video">

@@ -62,7 +62,7 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-<!ENTITY debuggerUI.showOnlyEnum        "Show only enumerable properties">
+<!ENTITY debuggerUI.showOnlyEnum        "Vis kun enumerable egenskaber">
 <!ENTITY debuggerUI.showOnlyEnum.key    "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
