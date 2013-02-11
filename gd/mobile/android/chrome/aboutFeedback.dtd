@@ -50,7 +50,7 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Air neo...">
+<!ENTITY sad.thanksMessageBottom   "Air neo.">
 <!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->

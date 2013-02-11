@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenExitButton.label "Diùlt e">
 <!ENTITY fullscreenApproval.value "A bheil thu airson cead a thoirt dhan làn-sgrìn?">
 
-<!ENTITY fullscreenExitHint.value "Fàgaidh tu an làn-sgrìn uair sam bith 's tu a' brùthadh ESC">
+<!ENTITY fullscreenExitHint.value "Fàgaidh tu an làn-sgrìn uair sam bith 's tu a' brùthadh ESC.">
 <!ENTITY leaveDOMFullScreen.label "Fàg an làn-sgrìn">
 <!ENTITY leaveDOMFullScreen.accesskey "F">
 
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
 <!ENTITY webDeveloperMenu.accesskey   "L">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "Ceangail…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "Consol nam mearachd">
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "B">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "Toglaich na h-innealan">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "Toglaich innealan an luchd-leasachaidh">
 <!ENTITY devToolbarOtherToolsButton.label  "Barrachd innealan">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Faigh barrachd innealan">
@@ -359,8 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Fosgail an ceangal ann an uinneag ùr">
 <!ENTITY openLinkCmd.accesskey        "F">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Fosgail an ceangal ann an uinneag phrìobhaideach ùr">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Fosgail ceangal">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
 <!ENTITY openFrameCmdInTab.label      "Fosgail am frèam ann an taba ùr">
@@ -403,7 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d...">
+<!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
 <!ENTITY emailPageCmd.accesskey       "C">
 <!ENTITY savePageCmd.label            "Sàbhail an duilleag mar…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -424,9 +424,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "S">
 <!ENTITY emailImageCmd.label          "Cuir an dealbh air a' phost-d…">
 <!ENTITY emailImageCmd.accesskey      "d">
-<!ENTITY emailVideoCmd.label          "Cuir a' video air a' phost-d...">
+<!ENTITY emailVideoCmd.label          "Cuir a' video air a' phost-d…">
 <!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY emailAudioCmd.label          "Cuir an fhuaim air a' phost-d...">
+<!ENTITY emailAudioCmd.label          "Cuir an fhuaim air a' phost-d…">
 <!ENTITY emailAudioCmd.accesskey      "u">
 <!ENTITY copyLinkCmd.label            "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Fosgail taba ùr">
 <!ENTITY newWindowButton.tooltip        "Fosgail uinneag ùr">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Dùin am bàr-taoibh">
 
 <!ENTITY cutButton.tooltip              "Gearr às">
 <!ENTITY copyButton.tooltip             "Dèan lethbhreac">
@@ -623,13 +623,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "N">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Cuir fòcas air a' chabadaich">
+<!ENTITY social.chatBar.accesskey "C">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "An camara a thèid a cho-roinneadh:">
+<!ENTITY getUserMedia.selectCamera.accesskey "c">
+<!ENTITY getUserMedia.selectMicrophone.label "Am micreofon a thèid a cho-roinneadh:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Inntrigeadh dhan chamara/mhicreofon">
+<!ENTITY webrtcIndicatorButton.tooltip "Seall na làraichean a tha thu a' co-roinneadh a' chamara no a' mhicreofoin agad leotha an-dràsta">
