@@ -17,6 +17,8 @@ security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 ? toolkit/chrome/global/devtools/debugger.properties
 ? toolkit/chrome/global/webapps.properties
 
+toolkit/chrome/global/aboutTelemetry*
+
 
 M editor/ui/chrome/composer/editor.dtd
 M editor/ui/chrome/composer/editorOverlay.dtd
