@@ -99,7 +99,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Gem alle">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Gem alle vedhæftede filer">
 
-<!ENTITY copyLinkCmd.label "Kopier link">
+<!ENTITY copyLinkCmd.label "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey "K">
 
 <!ENTITY CopyMessageId.label "Kopier meddelelse-ID">
