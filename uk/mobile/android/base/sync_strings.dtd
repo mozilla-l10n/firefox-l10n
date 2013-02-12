@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Щоб активувати ваш новий пристрій, виберіть “Налаштувати &syncBrand.shortName.label;” на пристрої.'>
-<!ENTITY sync.subtitle.header.label 'Введіть цей код на вашому комп’ютері'>
-<!ENTITY sync.subtitle.connectlocation.label 'Виберіть “&sync.title.pair.label;” в розділі &syncBrand.shortName.label; налаштувань вашого настільного Firefox.'>
+<!ENTITY sync.subtitle.header2.label 'Введіть цей код на вашому іншому пристрої'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Виберіть «&sync.title.pair.label;» в розділі &syncBrand.shortName.label; у налаштуваннях Firefox на вашому іншому пристрої.'>
 <!ENTITY sync.subtitle.pair.label 'Щоб активувати, виберіть “Під’єднати пристрій” на вашому іншому пристрої.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Настройки'>
 <!ENTITY sync.summary.pair.label 'Підєднати ще один пристрій до вашого акаунту &syncBrand.shortName.label;'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'Що синхронізувати'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Синхронізувати ваші…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Закладки'>
+<!ENTITY sync.configure.engines.title.passwords 'Паролі'>
+<!ENTITY sync.configure.engines.title.history 'Історію'>
+<!ENTITY sync.configure.engines.title.tabs 'Вкладки'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Скасувати'>
 <!ENTITY sync.button.connect.label 'Під’єднати'>
@@ -78,6 +86,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Підтримується лише один акаунт &syncBrand.fullName.label;.'>
+<!ENTITY sync.notification.configure.saved 'Ваш вибір збережено було збережено.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Неправильне ім’я акаунту або пароль.'>
