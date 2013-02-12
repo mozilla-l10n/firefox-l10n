@@ -11,7 +11,7 @@
 <!ENTITY newsgroups.label "Груп новин">
 <!ENTITY feeds.label "Стрічок">
 
-<!ENTITY unsetDefault.tooltip "&brandShortName; не може розвибрати &brandShortName; з позиції типового клієнта. Щоб встановити іншу програму типовою, вам треба скористатись її діалогом «Встановити типовою».>
+<!ENTITY unsetDefault.tooltip "&brandShortName; не може розвибрати &brandShortName; з позиції типового клієнта. Щоб встановити іншу програму типовою, вам треба скористатись її діалогом «Встановити типовою».">
 
 <!ENTITY checkOnStartup.label "Завжди виконувати цю перевірку при запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "З">
