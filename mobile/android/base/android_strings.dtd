@@ -171,7 +171,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Schlüsselwort">
 
-<!ENTITY site_settings_title2       "Seiteneinstellungen…">
+<!ENTITY site_settings_title2       "Seiteneinstellungen">
 <!ENTITY site_settings_cancel       "Abbrechen">
 <!ENTITY site_settings_clear        "Löschen">
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar">
