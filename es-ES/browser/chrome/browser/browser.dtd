@@ -433,7 +433,6 @@
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "que pertenece a">
 <!ENTITY identity.moreInfoLinkText "Más información…">
-<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
