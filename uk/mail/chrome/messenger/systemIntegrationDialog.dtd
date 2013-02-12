@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Системна інтеграція">
+<!ENTITY acceptIntegration.label  "Встановити типовим">
+<!ENTITY cancelIntegration.label  "Пропустити інтеграцію">
 <!ENTITY defaultClient.intro  "Використовувати &brandShortName; як типовий клієнт для:">
 
 <!ENTITY email.label "Електронної пошти">
 <!ENTITY newsgroups.label "Груп новин">
 <!ENTITY feeds.label "Стрічок">
+
+<!ENTITY unsetDefault.tooltip "&brandShortName; не може розвибрати &brandShortName; з позиції типового клієнта. Щоб встановити іншу програму типовою, вам треба скористатись її діалогом «Встановити типовою».>
 
 <!ENTITY checkOnStartup.label "Завжди виконувати цю перевірку при запуску &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "З">
