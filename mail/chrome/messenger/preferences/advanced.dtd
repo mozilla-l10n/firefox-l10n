@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "ш">
 <!ENTITY searchIntegration.label       "Дозволити &searchIntegration.engineName; шукати листи">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Перевірити зараз…">
-<!ENTITY checkNow.accesskey            "т">
+<!ENTITY checkDefaultsNow.label        "Перевірити зараз…">
+<!ENTITY checkDefaultsNow.accesskey    "з">
 <!ENTITY configEditDesc.label          "Додаткові налаштування">
 <!ENTITY configEdit.label              "Редактор налаштувань">
 <!ENTITY configEdit.accesskey          "Р">
