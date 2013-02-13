@@ -4,14 +4,16 @@
 
 <!ENTITY pref.security.title "Privacidad y seguridad">
 <!ENTITY tracking.label "Rastreo de usuarios">
-<!ENTITY doNotTrack.label "Indicar a los sitios web que no quiero ser rastreado">
-<!ENTITY doNotTrack.accesskey "I">
-<!ENTITY privateData.label "Datos privados">
-<!ENTITY alwaysClear.label "Limpiar siempre mis datos privados cuando cierre &brandShortName;">
-<!ENTITY alwaysClear.accesskey "L">
-<!ENTITY askBeforeClear.label "Preguntarme antes de borrar datos privados">
-<!ENTITY askBeforeClear.accesskey "P">
-<!ENTITY clearDataSettings.label "Cuando pida a &brandShortName; que limpie los datos privados, deberia borrar:">
-<!ENTITY clearDataDialog.label "Limpiar ahora…">
-<!ENTITY clearDataSilent.label "Limpiar ahora">
-<!ENTITY clearDataDialog.accesskey "a">
+<!ENTITY trackingIntro.label "Los sitios web pueden rastrear cómo son usados, afectando a la privacidad del visitante.">
+<!ENTITY dntTellSites.label "Informar a los sitios web sobre mi preferencia de seguimiento">
+<!ENTITY dntTellSites.accesskey "I">
+<!ENTITY dntTrackingNotOkay.label "No quiero ser rastreado">
+<!ENTITY dntTrackingNotOkay.accesskey "N">
+<!ENTITY dntTrackingOkay.label "Consiento en ser rastreado">
+<!ENTITY dntTrackingOkay.accesskey "C">
+<!ENTITY safeBrowsing.label "Navegación segura">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; puede bloquear los sitios web señalados por contener contenido malicioso.">
+<!ENTITY blockAttackSites.label "Bloquear los sitios señalados como atacantes (malware, virus)">
+<!ENTITY blockAttackSites.accesskey "B">
+<!ENTITY blockWebForgeries.label "Bloquear sitios señalados como falsificaciones web (phishing)">
+<!ENTITY blockWebForgeries.accesskey "a">
