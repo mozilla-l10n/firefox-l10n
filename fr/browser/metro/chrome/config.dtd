@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Rechercher">
+<!ENTITY newpref.label          "Ajouter une nouvelle option">
+<!ENTITY addpref.name           "Nom">
+<!ENTITY addpref.value          "Valeur">
+
+<!ENTITY cancel.label           "Annuler">
+<!ENTITY reset.label            "Réinitialiser">
+<!ENTITY done.label             "Terminé">
+
+<!ENTITY integer.label          "Nombre entier">
+<!ENTITY string.label           "Chaîne de caractères">
+<!ENTITY boolean.label          "Valeur booléenne">

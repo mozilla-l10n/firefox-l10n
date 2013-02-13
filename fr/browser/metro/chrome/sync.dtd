@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Non connecté">
+<!ENTITY sync.connect               "Connecter">
+<!ENTITY sync.connected             "Connecté">
+<!ENTITY sync.details               "Détails">
+<!ENTITY sync.deviceName            "Cet appareil">
+<!ENTITY sync.disconnect            "Déconnecter">
+<!ENTITY sync.syncNow               "Synchroniser">
+
+<!ENTITY sync.setup.title           "Se connecter à Sync">
+<!ENTITY sync.setup.pair            "Pour activer, sélectionnez « Associer un appareil » sur votre autre appareil">
+<!ENTITY sync.fallback              "Je n'ai pas accès à mon ordinateur pour l'instant…">
+<!ENTITY sync.setup.manual          "Saisissez vos informations de compte Sync">
+<!ENTITY sync.account               "Nom du compte">
+<!ENTITY sync.password              "Mot de passe">
+<!ENTITY sync.recoveryKey           "Clé de récupération">
+<!ENTITY sync.customServer          "Utiliser un serveur personnalisé">
+<!ENTITY sync.serverURL             "URL du serveur">
+<!ENTITY sync.setup.connect         "Connexion">
+<!ENTITY sync.setup.cancel          "Annuler">
+<!ENTITY sync.setup.tutorial        "Guide">
+<!ENTITY sync.setup.waiting2        "En attente de l'autre appareil…">
+
+<!ENTITY sync.pair.title            "Associer un appareil">
+<!ENTITY sync.pair.description      "Pour activer votre nouvel appareil, choisissez «&#x00A0;Configurer la synchronisation&#x00A0;» sur celui-ci.">
+<!ENTITY sync.setup.close           "Fermer">
+<!ENTITY sync.setup.waitingdownload "Vos données sont téléchargées en arrière-plan. Vous pouvez fermer ce dialogue quand vous le désirez.">
