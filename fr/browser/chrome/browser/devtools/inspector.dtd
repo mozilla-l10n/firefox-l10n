@@ -8,6 +8,9 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copier outerHTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copier le sélecteur unique">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "r">
+
 <!ENTITY inspectorHTMLDelete.label          "Supprimer le nœud">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
