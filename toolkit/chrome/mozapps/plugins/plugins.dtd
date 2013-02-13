@@ -22,7 +22,7 @@
 <!ENTITY unsupportedPlatform.post "">
 <!ENTITY missingPlugin "Se necesita un plugin para mostrar este contenido.">
 <!ENTITY tapToPlayPlugin "Toque aquí para activar el plugin.">
-<!ENTITY clickToPlayPlugin "Pulse aquí para activar el plugin.">
+<!ENTITY clickToActivatePlugin "Activar plugin.">
 <!ENTITY checkForUpdates "Buscar actualizaciones…">
 <!ENTITY disabledPlugin "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label "Se ha bloqueado este plugin para su protección.">
