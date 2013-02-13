@@ -2,6 +2,8 @@
 <!ENTITY inspectorHTMLCopyInner.accesskey "п">
 <!ENTITY inspectorHTMLCopyOuter.label "Копировать внешний HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "о">
+<!ENTITY inspectorCopyUniqueSelector.label "Копировать уникальный селектор">
+<!ENTITY inspectorCopyUniqueSelector.accesskey "и">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "д">
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
