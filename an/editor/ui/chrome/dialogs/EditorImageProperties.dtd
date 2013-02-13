@@ -5,74 +5,74 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Image Properties">
+<!ENTITY windowTitle.label "Propiedatz d'a imachen">
 
 <!ENTITY pixelsPopup.value "pixels">
 <!-- These are in the Location tab panel -->
 
-<!ENTITY locationEditField.label "Image Location:">
-<!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Type the image's filename or location">
-<!ENTITY title.label "Tooltip:">
-<!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "The html 'title' attribute that displays as a tooltip">
-<!ENTITY altText.label "Alternate text:">
-<!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Type text to display in place of the image">
-<!ENTITY noAltText.label "Don't use alternate text">
-<!ENTITY noAltText.accessKey "D">
+<!ENTITY locationEditField.label "URL d'a imachen:">
+<!ENTITY locationEditField.accessKey "U">
+<!ENTITY locationEditField.tooltip "Introduzca o nombre u a ubicación d'a imachen">
+<!ENTITY title.label "Indicador de función:">
+<!ENTITY title.accessKey "I">
+<!ENTITY title.tooltip "L'atributo HTML 'title' que s'amuestra como indicador de función">
+<!ENTITY altText.label "Texto alternativo:">
+<!ENTITY altText.accessKey "a">
+<!ENTITY altTextEditField.tooltip "Introduzca o texto ta amostrar en o puesto d'a imachen">
+<!ENTITY noAltText.label "No usar texto alternativo">
+<!ENTITY noAltText.accessKey "N">
 
-<!ENTITY previewBox.label "Image Preview">
+<!ENTITY previewBox.label "Previsualización d'a imachen">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
-<!ENTITY actualSize.label "Actual Size:">
-<!ENTITY actualSizeRadio.label "Actual Size">
-<!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "Revert to the image's actual size">
-<!ENTITY customSizeRadio.label "Custom Size">
-<!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Change the image's size as displayed in the page">
-<!ENTITY heightEditField.label "Height:">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY constrainCheckbox.label "Constrain">
-<!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Maintain the image's aspect ratio">
+<!ENTITY actualSize.label "Mida real:">
+<!ENTITY actualSizeRadio.label "Mida real">
+<!ENTITY actualSizeRadio.accessKey "M">
+<!ENTITY actualSizeRadio.tooltip "Tornar a la mida real d'a imachen">
+<!ENTITY customSizeRadio.label "Mida personalizada">
+<!ENTITY customSizeRadio.accessKey "p">
+<!ENTITY customSizeRadio.tooltip "Cambiar a mida d'a imachen ta como se visualiza en a pachina">
+<!ENTITY heightEditField.label "Altaria:">
+<!ENTITY heightEditField.accessKey "a">
+<!ENTITY widthEditField.label "Amplaria:">
+<!ENTITY widthEditField.accessKey "m">
+<!ENTITY constrainCheckbox.label "Restrinchir">
+<!ENTITY constrainCheckbox.accessKey "R">
+<!ENTITY constrainCheckbox.tooltip "Mantener a ratio d'aspecto d'a imachen">
 <!-- These controls are in the Image Map box of the expanded area -->
 
-<!ENTITY imagemapBox.label "Image Map">
-<!ENTITY removeImageMapButton.label "Remove">
-<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY imagemapBox.label "Mapa d'a imachen">
+<!ENTITY removeImageMapButton.label "Suprimir">
+<!ENTITY removeImageMapButton.accessKey "r">
 <!-- These are the options for image alignment -->
 
-<!ENTITY alignment.label "Align Text to Image">
-<!ENTITY bottomPopup.value "At the bottom">
-<!ENTITY topPopup.value "At the top">
-<!ENTITY centerPopup.value "In the center">
-<!ENTITY wrapRightPopup.value "Wrap to the right">
-<!ENTITY wrapLeftPopup.value "Wrap to the left">
+<!ENTITY alignment.label "Aliniar o texto con a imachen">
+<!ENTITY bottomPopup.value "En o cobaixo">
+<!ENTITY topPopup.value "En o cobalto">
+<!ENTITY centerPopup.value "En o centro">
+<!ENTITY wrapRightPopup.value "Achustar a la dreita">
+<!ENTITY wrapLeftPopup.value "Achustar a la cucha">
 <!-- These controls are in the Spacing Box -->
 
-<!ENTITY spacingBox.label "Spacing">
-<!ENTITY leftRightEditField.label "Left and Right:">
-<!ENTITY leftRightEditField.accessKey "L">
-<!ENTITY topBottomEditField.label "Top and Bottom:">
-<!ENTITY topBottomEditField.accessKey "T">
-<!ENTITY borderEditField.label "Solid Border:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY spacingBox.label "Espaciau">
+<!ENTITY leftRightEditField.label "Cucha y dreita:">
+<!ENTITY leftRightEditField.accessKey "C">
+<!ENTITY topBottomEditField.label "Cobalto y cobaixo:">
+<!ENTITY topBottomEditField.accessKey "b">
+<!ENTITY borderEditField.label "Canto solido:">
+<!ENTITY borderEditField.accessKey "a">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Amostrar o borde arredol d'a imachen vinculada">
-<!ENTITY showImageLinkBorder.accessKey "b">
-<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
-<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
+<!ENTITY showImageLinkBorder.label "Amostrar o canto arredol d'a imachen enlazada">
+<!ENTITY showImageLinkBorder.accessKey "c">
+<!ENTITY LinkAdvancedEditButton.label "Edición abanzada de l'enlaz…">
+<!ENTITY LinkAdvancedEditButton.accessKey "b">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adhibir u modificar os atributos HTML, o estilo y o Javascript">
 <!-- These tabs are currently used in the image input dialog -->
 
-<!ENTITY imageInputTab.label "Form">
-<!ENTITY imageLocationTab.label "Location">
+<!ENTITY imageInputTab.label "Formulario">
+<!ENTITY imageLocationTab.label "Ubicación">
 <!ENTITY imageDimensionsTab.label "Dimensions">
 <!ENTITY imageAppearanceTab.label "Aparencia">
-<!ENTITY imageLinkTab.label "Link">
+<!ENTITY imageLinkTab.label "Vinclo">

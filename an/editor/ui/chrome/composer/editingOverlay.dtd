@@ -3,36 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Open File…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Open Web Location…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Recent Pages">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY saveCmd.label "Save">
-<!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "Save As…">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
+<!ENTITY openFileCmd.label "Ubrir un fichero">
+<!ENTITY openFileCmd.accesskey "U">
+<!ENTITY openFileCmd.key "U">
+<!ENTITY openRemoteCmd.label "Ubrir un puesto web">
+<!ENTITY openRemoteCmd.accesskey "p">
+<!ENTITY openRemoteCmd.key "P">
+<!ENTITY fileRecentMenu.label "Pachinas recients">
+<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY saveCmd.label "Alzar">
+<!ENTITY saveCmd.accesskey "A">
+<!ENTITY saveAsCmd.label "Alzar-ne una copia como...">
+<!ENTITY saveAsCmd.accesskey "c">
+<!ENTITY saveAsChangeEncodingCmd.label "Alzar y cambiar a codificación d'os caracters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY publishCmd.label "Publish">
+<!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publish As…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY fileRevert.label "Revert">
-<!ENTITY fileRevert.accesskey "t">
+<!ENTITY publishAsCmd.label "Publicar como...">
+<!ENTITY publishAsCmd.accesskey "m">
+<!ENTITY fileRevert.label "Tornar ta la zaguera versión almagazenada">
+<!ENTITY fileRevert.accesskey "T">
 <!-- Edit menu items -->
 
-<!ENTITY publishSettings.label "Publishing Site Settings…">
+<!ENTITY publishSettings.label "Parametros d'a publicación">
 <!ENTITY publishSettings.accesskey "b">
 <!-- Toolbar buttons/items -->
 
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
-<!ENTITY openToolbarCmd.label "Open">
-<!ENTITY openToolbarCmd.tooltip "Open a local file">
-<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
-<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY newToolbarCmd.label "Nueva">
+<!ENTITY newToolbarCmd.tooltip "Creyar una pachina nueva con o Composer">
+<!ENTITY openToolbarCmd.label "Ubrir">
+<!ENTITY openToolbarCmd.tooltip "Ubrir un fichero local">
+<!ENTITY saveToolbarCmd.tooltip "Alzar o fichero en una ubicación local">
+<!ENTITY publishToolbarCmd.tooltip "Puyar o fichero ta una ubicación remota">

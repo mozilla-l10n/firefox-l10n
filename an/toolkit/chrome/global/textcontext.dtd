@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Desfer l'acción d'adhibir a o diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "Revisar ortografía">
-<!ENTITY spellCheckEnable.accesskey "s">
+<!ENTITY spellCheckToggle.label "Comprebar a ortografía">
+<!ENTITY spellCheckToggle.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(No i hai garra sucherencia d'ortografía)">
 <!ENTITY spellDictionaries.label "Luengas">
 <!ENTITY spellDictionaries.accesskey "L">

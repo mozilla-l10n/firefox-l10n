@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Text Area Properties">
+<!ENTITY windowTitle.label "Propiedatz de l'aria de texto">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Parametros">
 
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY TextAreaName.label "Nombre d'o campo:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Rows:">
+<!ENTITY TextAreaRows.label "Ringleras:">
 <!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columns:">
-<!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
-<!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Disabled">
+<!ENTITY TextAreaCols.label "Columnas:">
+<!ENTITY TextAreaCols.accessKey "o">
+<!ENTITY TextAreaReadOnly.label "Nomás de lectura">
+<!ENTITY TextAreaReadOnly.accessKey "o">
+<!ENTITY TextAreaDisabled.label "Desactivau">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Text:">
+<!ENTITY TextAreaTabIndex.label "Indiz de pestanyas:">
+<!ENTITY TextAreaTabIndex.accessKey "z">
+<!ENTITY TextAreaAccessKey.label "Clau d'acceso:">
+<!ENTITY TextAreaAccessKey.accessKey "a">
+<!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Default">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
+<!ENTITY TextAreaWrap.label "Modo d'achuste:">
+<!ENTITY TextAreaWrap.accessKey "M">
+<!ENTITY WrapDefault.value "Por defecto">
+<!ENTITY WrapOff.value "Inactiu">
+<!ENTITY WrapHard.value "Fuerte">
+<!ENTITY WrapSoft.value "Leu">
+<!ENTITY WrapPhysical.value "Fisico">
 <!ENTITY WrapVirtual.value "Virtual">

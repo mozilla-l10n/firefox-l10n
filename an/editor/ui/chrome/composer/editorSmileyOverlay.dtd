@@ -3,56 +3,56 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Smiley Menu items -->
 
-<!ENTITY insertSmiley.label "Smiley">
-<!ENTITY insertSmiley.accesskey "S">
+<!ENTITY insertSmiley.label "Emoticono">
+<!ENTITY insertSmiley.accesskey "E">
 
-<!ENTITY smiley1Cmd.label "Smile">
-<!ENTITY smiley1Cmd.accesskey "S">
-<!ENTITY smiley1Cmd.tooltip "Insert a smiley face">
-<!ENTITY smiley2Cmd.label "Frown">
-<!ENTITY smiley2Cmd.accesskey "F">
-<!ENTITY smiley2Cmd.tooltip "Insert a frown face">
-<!ENTITY smiley3Cmd.label "Wink">
-<!ENTITY smiley3Cmd.accesskey "W">
-<!ENTITY smiley3Cmd.tooltip "Insert a wink face">
-<!ENTITY smiley4Cmd.label "Tongue-out">
-<!ENTITY smiley4Cmd.accesskey "T">
-<!ENTITY smiley4Cmd.tooltip "Insert a tongue-out face">
-<!ENTITY smiley5Cmd.label "Laughing">
-<!ENTITY smiley5Cmd.accesskey "L">
-<!ENTITY smiley5Cmd.tooltip "Insert a laughing face">
-<!ENTITY smiley6Cmd.label "Embarrassed">
-<!ENTITY smiley6Cmd.accesskey "E">
-<!ENTITY smiley6Cmd.tooltip "Insert an embarrassed face">
-<!ENTITY smiley7Cmd.label "Undecided">
-<!ENTITY smiley7Cmd.accesskey "U">
-<!ENTITY smiley7Cmd.tooltip "Insert an undecided face">
-<!ENTITY smiley8Cmd.label "Surprise">
+<!ENTITY smiley1Cmd.label "Fer a rialleta">
+<!ENTITY smiley1Cmd.accesskey "F">
+<!ENTITY smiley1Cmd.tooltip "Ficar-ie un cara fendo a rialleta">
+<!ENTITY smiley2Cmd.label "Encarranyau">
+<!ENTITY smiley2Cmd.accesskey "E">
+<!ENTITY smiley2Cmd.tooltip "Ficar-ie una cara encarranyada">
+<!ENTITY smiley3Cmd.label "Clucadeta">
+<!ENTITY smiley3Cmd.accesskey "C">
+<!ENTITY smiley3Cmd.tooltip "Ficar-ie una cara que fa a clucadeta">
+<!ENTITY smiley4Cmd.label "Luenga difuera">
+<!ENTITY smiley4Cmd.accesskey "L">
+<!ENTITY smiley4Cmd.tooltip "Ficar-ie una cara que tien a luenga difuera">
+<!ENTITY smiley5Cmd.label "Carcallada">
+<!ENTITY smiley5Cmd.accesskey "l">
+<!ENTITY smiley5Cmd.tooltip "Ficar-ir una cara redindo">
+<!ENTITY smiley6Cmd.label "Avergonyau">
+<!ENTITY smiley6Cmd.accesskey "A">
+<!ENTITY smiley6Cmd.tooltip "Ficar-ie una cara de avergonyada">
+<!ENTITY smiley7Cmd.label "Dandaloso">
+<!ENTITY smiley7Cmd.accesskey "D">
+<!ENTITY smiley7Cmd.tooltip "Ficar-ie una cara dandalosa">
+<!ENTITY smiley8Cmd.label "Sorpresa">
 <!ENTITY smiley8Cmd.accesskey "p">
-<!ENTITY smiley8Cmd.tooltip "Insert a surprised face">
-<!ENTITY smiley9Cmd.label "Kiss">
-<!ENTITY smiley9Cmd.accesskey "K">
-<!ENTITY smiley9Cmd.tooltip "Insert a kiss face">
-<!ENTITY smiley10Cmd.label "Yell">
-<!ENTITY smiley10Cmd.accesskey "Y">
-<!ENTITY smiley10Cmd.tooltip "Insert a yelling face">
+<!ENTITY smiley8Cmd.tooltip "Ficar-ie una cara de sorpresa">
+<!ENTITY smiley9Cmd.label "Pochón">
+<!ENTITY smiley9Cmd.accesskey "P">
+<!ENTITY smiley9Cmd.tooltip "Ficar-ie una cara que fa un pochón">
+<!ENTITY smiley10Cmd.label "Chilo">
+<!ENTITY smiley10Cmd.accesskey "C">
+<!ENTITY smiley10Cmd.tooltip "Ficar-ie una cara chilando">
 <!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley11Cmd.accesskey "C">
 <!ENTITY smiley11Cmd.tooltip "Insert a cool face">
-<!ENTITY smiley12Cmd.label "Money-Mouth">
-<!ENTITY smiley12Cmd.accesskey "M">
-<!ENTITY smiley12Cmd.tooltip "Insert a money-mouth face">
-<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
-<!ENTITY smiley13Cmd.accesskey "o">
-<!ENTITY smiley13Cmd.tooltip "Insert a foot-in-mouth face">
+<!ENTITY smiley12Cmd.label "Boca plena de diners">
+<!ENTITY smiley12Cmd.accesskey "B">
+<!ENTITY smiley12Cmd.tooltip "Ficar-ie una cara con a boca plena de diners">
+<!ENTITY smiley13Cmd.label "Piet en a boca">
+<!ENTITY smiley13Cmd.accesskey "P">
+<!ENTITY smiley13Cmd.tooltip "Ficar-ie una cara con un piet en a boca">
 <!ENTITY smiley14Cmd.label "Innocent">
 <!ENTITY smiley14Cmd.accesskey "I">
-<!ENTITY smiley14Cmd.tooltip "Insert an innocent face">
-<!ENTITY smiley15Cmd.label "Cry">
-<!ENTITY smiley15Cmd.accesskey "r">
-<!ENTITY smiley15Cmd.tooltip "Insert a crying face">
+<!ENTITY smiley14Cmd.tooltip "Ficar-ie una cara innocent">
+<!ENTITY smiley15Cmd.label "Plorar">
+<!ENTITY smiley15Cmd.accesskey "l">
+<!ENTITY smiley15Cmd.tooltip "Ficar-ie una cara plorando">
 <!ENTITY smiley16Cmd.label "Lips-are-Sealed">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
-<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY SmileButton.tooltip "Ficar-ie un emoticono">
 

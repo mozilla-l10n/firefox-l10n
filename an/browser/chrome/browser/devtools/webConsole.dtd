@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consola web">
 
-<!ENTITY networkPanel.requestURL                  "URL de demanda">
-<!ENTITY networkPanel.requestMethod               "Metodo de demanda">
-<!ENTITY networkPanel.statusCode                  "Codigo d'estau">
+<!ENTITY networkPanel.requestURLColon             "URL d'a demanda">
+<!ENTITY networkPanel.requestMethodColon          "Metodo d'a demanda">
+<!ENTITY networkPanel.statusCodeColon             "Codigo de estau">
 
 <!ENTITY networkPanel.requestHeaders              "Cabecera d'a demanda">
 <!ENTITY networkPanel.requestCookie               "Cookie ninviada">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Datos d'o formulario ninviau">
 
 <!ENTITY networkPanel.responseHeaders             "Cabeceras d'a respuesta">
+<!ENTITY networkPanel.responseCookie              "Cookie recibida">
 <!ENTITY networkPanel.responseBody                "Cuerpo d'a respuesta">
 <!ENTITY networkPanel.responseBodyCached          "Datos en a caché">
 <!ENTITY networkPanel.responseBodyUnknownType     "Tipo de conteniu desconoixiu">

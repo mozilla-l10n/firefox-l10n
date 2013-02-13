@@ -2,49 +2,49 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Form Field Properties">
-<!ENTITY windowTitleImage.label "Form Image Properties">
+<!ENTITY windowTitle.label "Propiedatz d'o campo d'o formulario">
+<!ENTITY windowTitleImage.label "Propiedatz d'a imachen d'o formulario">
 
-<!ENTITY InputType.label "Field Type">
+<!ENTITY InputType.label "Tipo d'o campo">
 <!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "Text">
-<!ENTITY password.value "Password">
-<!ENTITY checkbox.value "Check Box">
-<!ENTITY radio.value "Radio Button">
-<!ENTITY submit.value "Submit Button">
-<!ENTITY reset.value "Reset Button">
-<!ENTITY file.value "File">
-<!ENTITY hidden.value "Hidden">
-<!ENTITY image.value "Image">
-<!ENTITY button.value "Button">
+<!ENTITY text.value "Texto">
+<!ENTITY password.value "Clau d'acceso">
+<!ENTITY checkbox.value "Caixeta de selección">
+<!ENTITY radio.value "Botón d'opción">
+<!ENTITY submit.value "Botón de ninvio">
+<!ENTITY reset.value "Botón de reinicio">
+<!ENTITY file.value "Fichero">
+<!ENTITY hidden.value "Amagau">
+<!ENTITY image.value "Imachen">
+<!ENTITY button.value "Botón">
 
-<!ENTITY InputSettings.label "Field Settings">
-<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputSettings.label "Parametros d'o campo">
+<!ENTITY InputName.label "Nombre d'o campo:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Group Name:">
+<!ENTITY GroupName.label "Nombre d'o grupo:">
 <!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.label "Valura d'o campo:">
 <!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY InitialValue.label "Valura inicial:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
-<!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
-<!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Read Only">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "Disabled">
+<!ENTITY InputChecked.label "Verificau inicialment">
+<!ENTITY InputChecked.accesskey "f">
+<!ENTITY InputSelected.label "Trigau en iniciar">
+<!ENTITY InputSelected.accesskey "T">
+<!ENTITY InputReadOnly.label "Nomás de lectura">
+<!ENTITY InputReadOnly.accesskey "l">
+<!ENTITY InputDisabled.label "Desactivau">
 <!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Tab Index:">
-<!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Field Size:">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
+<!ENTITY tabIndex.label "Indiz de pestanyas:">
+<!ENTITY tabIndex.accesskey "p">
+<!ENTITY TextSize.label "Mida d'o campo:">
+<!ENTITY TextSize.accesskey "M">
+<!ENTITY TextLength.label "Longaria maxima:">
 <!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
+<!ENTITY AccessKey.label "Clau d'acceso:">
+<!ENTITY AccessKey.accesskey "C">
+<!ENTITY Accept.label "Acceptar os tipos:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Image Properties…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label "Propiedatz d'a imachen…">
+<!ENTITY ImageProperties.accesskey "c">

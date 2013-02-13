@@ -7,7 +7,7 @@
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "Composer">
-<!ENTITY editing.label "New Page Settings">
-<!ENTITY toolbars.label "Toolbars">
-<!ENTITY publish.label "Publishing">
+<!ENTITY compose.label "Redactor">
+<!ENTITY editing.label "Parametros d'una pachina nueva">
+<!ENTITY toolbars.label "Barras de ferramientas">
+<!ENTITY publish.label "Publicación">

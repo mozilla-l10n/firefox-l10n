@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Restablir">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Administrar a cuenta">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.label          "Chestionar a cuenta">
+<!ENTITY manageAccount.accesskey      "C">
 <!ENTITY viewQuota.label              "Veyer a quota">
 <!ENTITY changePassword2.label        "Cambiar a clau…">
 <!ENTITY myRecoveryKey.label          "A mío clau de recuperación">

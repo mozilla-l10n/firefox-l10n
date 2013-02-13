@@ -4,16 +4,16 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Insert Character">
-<!ENTITY category.label "Category">
-<!ENTITY letter.label "Letter:">
+<!ENTITY windowTitle.label "Ficar-ie un caracter">
+<!ENTITY category.label "Categoría">
+<!ENTITY letter.label "Letra:">
 <!ENTITY letter.accessKey "L">
-<!ENTITY character.label "Character:">
+<!ENTITY character.label "Caracter:">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Accent Uppercase">
-<!ENTITY accentLower.label "Accent Lowercase">
-<!ENTITY otherUpper.label "Other Uppercase">
-<!ENTITY otherLower.label "Other Lowercase">
-<!ENTITY commonSymbols.label "Common Symbols">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY closeButton.label "Close">
+<!ENTITY accentUpper.label "Accentuar as mayusclas">
+<!ENTITY accentLower.label "Accentuar as minusclas">
+<!ENTITY otherUpper.label "Atras mayusclas">
+<!ENTITY otherLower.label "Atras minusclas">
+<!ENTITY commonSymbols.label "Símbolos comuns">
+<!ENTITY insertButton.label "Ficar">
+<!ENTITY closeButton.label "Zarrar">

@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
+<!ENTITY AdvancedEditButton.label "Edición abanzada…">
 <!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
-<!ENTITY chooseFileButton.label "Choose File...">
-<!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
-<!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL is relative to page location">
-<!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Change between relative and absolute URL. You must first save the page to change this.">
+<!ENTITY AdvancedEditButton.tooltip "Adhiba u modifique os atributos HTML, os atributos d'estilo y o Javascript">
+<!ENTITY chooseFileButton.label "Trigar un fichero...">
+<!ENTITY chooseFileButton.accessKey "f">
+<!ENTITY chooseFileLinkButton.label "Trigar un fichero...">
+<!ENTITY chooseFileLinkButton.accessKey "r">
+<!ENTITY makeUrlRelative.label "L'URL ye relativo a la ubicación d'a pachina">
+<!ENTITY makeUrlRelative.accessKey "R">
+<!ENTITY makeUrlRelative.tooltip "Cambiar dentre URL relativo y absoluto. Ta cambiar-lo, cal que alce a pachina previament.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "w">
+<!ENTITY LinkURLEditField.label "Introduzca una adreza d'una pachina web, un fichero local, u trigue una ancora con nombre u capitero d'a lista emerchent:">
+<!ENTITY LinkURLEditField.accessKey "I">

@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Button Properties">
+<!ENTITY windowTitle.label "Propiedatz d'o botón">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Parametros">
 
-<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.label "Tipo">
 <!ENTITY ButtonType.accesskey "T">
-<!ENTITY submit.value "Submit">
-<!ENTITY reset.value "Reset">
-<!ENTITY button.value "Button">
+<!ENTITY submit.value "Tramitar">
+<!ENTITY reset.value "Restablir">
+<!ENTITY button.value "Botón">
 
-<!ENTITY ButtonName.label "Name:">
+<!ENTITY ButtonName.label "Nombre:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Value:">
+<!ENTITY ButtonValue.label "Valura:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "Tab Index:">
-<!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY tabIndex.label "Indiz de pestanyas:">
+<!ENTITY tabIndex.accesskey "p">
+<!ENTITY ButtonDisabled.label "Desactivau">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.label "Clau d'acceso:">
+<!ENTITY AccessKey.accesskey "C">
 
-<!ENTITY RemoveButton.label "Remove Button">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.label "Suprimir o botón">
+<!ENTITY RemoveButton.accesskey "S">

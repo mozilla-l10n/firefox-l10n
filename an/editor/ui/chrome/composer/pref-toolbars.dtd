@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Toolbars">
+<!ENTITY pref.toolbars.title    "Barras de ferramientas">
 
-<!ENTITY composition.caption    "Show these buttons in the Composition Toolbar:">
+<!ENTITY composition.caption    "Amostrar istos botons en a barra de ferramientas de redacción:">
 
-<!ENTITY new.label              "New">
-<!ENTITY open.label             "Open">
-<!ENTITY save.label             "Save">
-<!ENTITY publish.label          "Publish">
-<!ENTITY preview.label          "Browse">
-<!ENTITY cut.label              "Cut">
-<!ENTITY copy.label             "Copy">
-<!ENTITY paste.label            "Paste">
-<!ENTITY print.label            "Print">
-<!ENTITY find.label             "Find">
-<!ENTITY image.label            "Image">
-<!ENTITY hline.label            "H. Line">
-<!ENTITY table.label            "Table">
-<!ENTITY link.label             "Link">
-<!ENTITY anchor.label           "Anchor">
+<!ENTITY new.label              "Nuevo">
+<!ENTITY open.label             "Ubrir">
+<!ENTITY save.label             "Alzar">
+<!ENTITY publish.label          "Publicar">
+<!ENTITY preview.label          "Navegar">
+<!ENTITY cut.label              "Retallar">
+<!ENTITY copy.label             "Copiar">
+<!ENTITY paste.label            "Apegar">
+<!ENTITY print.label            "Imprentar">
+<!ENTITY find.label             "Mirar">
+<!ENTITY image.label            "Imachen">
+<!ENTITY hline.label            "Linia horiz.">
+<!ENTITY table.label            "Tabla">
+<!ENTITY link.label             "Vinclo">
+<!ENTITY anchor.label           "Ancora">
 
-<!ENTITY formatting.caption     "Show these buttons in the Formatting Toolbar:">
+<!ENTITY formatting.caption     "Amostrar istos botons en a barra de ferramientas de formato:">
 
-<!ENTITY smaller.label          "Smaller">
-<!ENTITY larger.label           "Larger">
-<!ENTITY bold.label             "Bold">
-<!ENTITY bullets.label          "Bullets">
-<!ENTITY numbers.label          "Numbers">
-<!ENTITY italic.label           "Italic">
-<!ENTITY outdent.label          "Outdent">
-<!ENTITY indent.label           "Indent">
-<!ENTITY underline.label        "Underline">
+<!ENTITY smaller.label          "Mas chicot">
+<!ENTITY larger.label           "Mas gran">
+<!ENTITY bold.label             "Negreta">
+<!ENTITY bullets.label          "Vinyetas">
+<!ENTITY numbers.label          "Numeros">
+<!ENTITY italic.label           "Cursiva">
+<!ENTITY outdent.label          "Reducir o sangrau">
+<!ENTITY indent.label           "Sangrar">
+<!ENTITY underline.label        "Subrayau">
 
-<!ENTITY absolutePosition.label "Absolute positioning">
-<!ENTITY decreaseZIndex.label   "Send to back">
-<!ENTITY increaseZIndex.label   "Bring to front">
+<!ENTITY absolutePosition.label "Posicionamiento absoluto">
+<!ENTITY decreaseZIndex.label   "Ninviar a o fundo">
+<!ENTITY increaseZIndex.label   "Portar a o primer plan">

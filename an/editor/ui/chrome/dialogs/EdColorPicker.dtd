@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Color">
-<!ENTITY lastPickedColor.label "Last-picked color">
-<!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "Click on a color or">
-<!ENTITY setColor2.label "enter an HTML color string">
+<!ENTITY lastPickedColor.label "Zaguera color trigada">
+<!ENTITY lastPickedColor.accessKey "Z">
+<!ENTITY setColor1.label "Faiga clic en una color u">
+<!ENTITY setColor2.label "introduzca una cadena HTML de color">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):">
-<!ENTITY default.label "Default">
-<!ENTITY default.accessKey "D">
-<!ENTITY palette.label "Palette:">
-<!ENTITY standardPalette.label "Standard">
-<!ENTITY webPalette.label "All web colors">
-<!ENTITY background.label "Background for:">
-<!ENTITY background.accessKey "B">
-<!ENTITY table.label "Table">
+<!ENTITY setColorExample.label "(p. eix.: &quot;#0000ff&quot; u &quot;blue&quot;):">
+<!ENTITY default.label "Por defecto">
+<!ENTITY default.accessKey "d">
+<!ENTITY palette.label "Paleta:">
+<!ENTITY standardPalette.label "Estandar">
+<!ENTITY webPalette.label "Todas as colors web">
+<!ENTITY background.label "Fundo ta:">
+<!ENTITY background.accessKey "F">
+<!ENTITY table.label "Tabla">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Cell(s)">
+<!ENTITY cell.label "Celda(s)">
 <!ENTITY cell.accessKey "C">
