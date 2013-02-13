@@ -433,7 +433,6 @@
 <!ENTITY identity.connectedTo "Si è connessi con">
 <!ENTITY identity.runBy "Questo sito è gestito da">
 <!ENTITY identity.moreInfoLinkText "Altre informazioni su questo sito…">
-<!ENTITY allTabs.filter.emptyText "Cerca tra le schede">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu2.label "Schede da altri dispositivi">
 <!ENTITY syncBrand.shortName.label "Sync">
