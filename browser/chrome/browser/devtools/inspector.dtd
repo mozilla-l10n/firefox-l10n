@@ -2,6 +2,8 @@
 <!ENTITY inspectorHTMLCopyInner.accesskey "T">
 <!ENTITY inspectorHTMLCopyOuter.label "Copia HTML esterno">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "M">
+<!ENTITY inspectorCopyUniqueSelector.label "Copia selettore univoco">
+<!ENTITY inspectorCopyUniqueSelector.accesskey "u">
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
 <!ENTITY inspector.selectButton.tooltip "Seleziona un elemento con il mouse">
