@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title "Синхронизация">
+<!ENTITY sync.notconnected "Не соединён">
+<!ENTITY sync.connect "Соединиться">
+<!ENTITY sync.connected "Соединён">
+<!ENTITY sync.details "Подробности">
+<!ENTITY sync.deviceName "Это устройство">
+<!ENTITY sync.disconnect "Разъединиться">
+<!ENTITY sync.syncNow "Синхронизировать">
+<!ENTITY sync.setup.title "Соединение с Sync">
+<!ENTITY sync.setup.pair "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
+<!ENTITY sync.fallback "Я не рядом с моим компьютером…">
+<!ENTITY sync.setup.manual "Введите данные вашей учётной записи синхронизации">
+<!ENTITY sync.account "Имя учётной записи">
+<!ENTITY sync.password "Пароль">
+<!ENTITY sync.recoveryKey "Ключ восстановления">
+<!ENTITY sync.customServer "Использовать свой сервер">
+<!ENTITY sync.serverURL "URL сервера">
+<!ENTITY sync.setup.connect "Соединиться">
+<!ENTITY sync.setup.cancel "Отмена">
+<!ENTITY sync.setup.tutorial "Показать мне как">
+<!ENTITY sync.setup.waiting2 "Ожидание другого устройства…">
+<!ENTITY sync.pair.title "Соединение с устройством">
+<!ENTITY sync.pair.description "Для активации вашего нового устройства выберите на устройстве «Настроить синхронизацию».">
+<!ENTITY sync.setup.close "Закрыть">
+<!ENTITY sync.setup.waitingdownload "Ваши данные сейчас загружаются в фоновом режиме. Вы можете закрыть это окно в любое время.">
