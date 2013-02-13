@@ -84,6 +84,6 @@
 <!ENTITY pageactions.password.forget "Dimentica password">
 <!ENTITY pageactions.quit "Esci">
 <!ENTITY pageactions.reset "Cancella preferenze dei siti">
-<!ENTITY pageactions.findInPage "Cerca nella pagina">
+<!ENTITY pageactions.findInPage "Trova nella pagina">
 <!ENTITY pageactions.search.addNew "Aggiungi motore di ricerca">
 <!ENTITY pageactions.charEncoding "Codifica caratteri">
