@@ -38,7 +38,7 @@
 <!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Faidhle…">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "Dreach">
+<!ENTITY saveAsDraftCmd.label "Dreachd">
 <!ENTITY saveAsDraftCmd.accesskey "D">
 <!ENTITY saveAsTemplateCmd.label "Teamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
