@@ -50,13 +50,13 @@
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
+  <li>Pe piaxéi ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Tîpo de file no segûo">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
+  <li>Pe piaxéi ciàmma o propiêtâio do scîto pe informâlo do problêma.</li>
 </ul>
 ">
 
@@ -102,7 +102,7 @@
 <!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>
   <li>A pàgina che ti prêuvi a védde a no se peu vizoalizâ perché l'aotentiçitæ a no se peu verificâ.</li>
-  <li>Pe favô ciàmma o propietâio do scîto pe informâlo do problêma. Ti peu ascì uzâ o menu agiùtto pe fâ un report in sciô scîto che gh'à o problêma.</li>
+  <li>Pe piaxéi ciàmma o propietâio do scîto pe informâlo do problêma. Ti peu ascì uzâ o menu agiùtto pe fâ un report in sciô scîto che gh'à o problêma.</li>
 </ul> ">
 
 <!ENTITY nssBadCert.title "Conesción segûa no riêscia">
@@ -139,6 +139,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
  ">
 
 <!ENTITY remoteXUL.title "XUL Remòto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Pe piaxéi ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">
 
 

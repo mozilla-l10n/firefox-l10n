@@ -16,7 +16,7 @@
 
 <!ENTITY  crash_reporter_title "Report di ciànti do &brandShortName;">
 <!ENTITY  crash_message "O &brandShortName; o se ciantòu. I teu féuggi doven êse inta pagina iniçiâ de &brandShortName; quànde ti reavîi.">
-<!ENTITY  crash_help_message "Pe favô danni un agiùtto pe scistemâ sto problêma!">
+<!ENTITY  crash_help_message "Pe piaxéi danni un agiùtto pe scistemâ sto problêma!">
 <!ENTITY  crash_send_report_message "Mànda a Mozilla \'n report do ciànto">
 <!ENTITY  crash_include_url "Mettighe l\'indirìsso da pagina">
 <!ENTITY  crash_close_label "Særa">
