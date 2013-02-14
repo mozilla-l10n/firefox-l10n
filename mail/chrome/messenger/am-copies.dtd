@@ -21,12 +21,12 @@
 <!ENTITY saveMessageDlg.label "Seall an conaltradh dearbhachaidh nuair a thèid teachdaireachdan a shàbhaladh">
 <!ENTITY saveMessageDlg.accesskey "S">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Pasgan a' phuist &quot;chuirte&quot; air:">
+<!ENTITY sentFolderOn.label "Pasgan a' phuist &quot;chuirte&quot; anns:">
 <!ENTITY sentFolderOn.accesskey "s">
 <!ENTITY sentInOtherFolder.label "Eile:">
 <!ENTITY sentInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Pasgan nan &quot;dreach&quot; air:">
+<!ENTITY draftsFolderOn.label "Pasgan nan &quot;dreachdan&quot; anns:">
 <!ENTITY draftsFolderOn.accesskey "d">
 <!ENTITY draftInOtherFolder.label "Eile:">
 <!ENTITY draftInOtherFolder.accesskey "E">
@@ -44,7 +44,7 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Eile:">
 <!ENTITY templateInOtherFolder.accesskey "E">
-<!ENTITY specialFolders.label "Dreachan, tasg-lannan is teamplaidean">
-<!ENTITY keepDrafts.label "Cum dreachan de theachdaireachdan ann an:">
+<!ENTITY specialFolders.label "Dreachdan, tasg-lannan is teamplaidean">
+<!ENTITY keepDrafts.label "Cum dreachdan de theachdaireachdan ann an:">
 <!ENTITY keepArchives.label "Cum tasg-lannan de theachdaireachdan ann an:">
 <!ENTITY keepTemplates.label "Cum teamplaidean de theachdaireachdan ann an:">
