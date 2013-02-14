@@ -56,11 +56,8 @@
 <!ENTITY close_tab "Zamknij kartę">
 <!ENTITY new_tab "Nowa karta">
 <!ENTITY one_tab "Kart: 1">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
-     We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "Kart: &#037;d">
 <!ENTITY new_tab_opened "Otwarto nową kartę">
-<!ENTITY new_private_tab "Nowa karta w trybie prywatnym">
+<!ENTITY new_private_tab "Nowa karta prywatna">
 
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
@@ -245,8 +242,6 @@ size. -->
 <!ENTITY bookmarkhistory_import_history "Importowanie historii
                                          z systemu Android">
 <!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
-
-<!ENTITY suggestions_prompt "Czy chcesz włączyć podpowiedzi wyszukiwania?">
 
 <!ENTITY webapp_generic_name "Aplikacja">
 
