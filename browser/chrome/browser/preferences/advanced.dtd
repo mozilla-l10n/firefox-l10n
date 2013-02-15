@@ -21,8 +21,8 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "স্মুথ-স্ক্রলিং ব্যবহার করা হবে M">
 <!ENTITY useSmoothScrolling.accesskey    "M">
-<!ENTITY allowHWAccel.label              " হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে h">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              " হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey         "T">
 
@@ -37,8 +37,8 @@
 <!ENTITY dataChoicesTab.label            "ডাটা পছন্দ">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "আপনার ব্রাউজারের-হেল্থ সম্পর্কে আপনাকে ব্রাউজারের কার্যকারিতা বুঝতে সহায়তা করে এবং &vendorShortName; এর সাথে তথ্যাদি শেয়ার করে  ">
+<!ENTITY enableHealthReport.label        "&brandShortName; হেল্থ প্রতিবেদন সক্রিয় করা হবে R">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Learn More">
 
@@ -89,7 +89,7 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "হালনাগাদকরণ পরীক্ষা করুন, কিন্তু ইনস্টলের পূর্বে আমাকে নিশ্চিত করতে দিন C">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (উচিত নয়: নিরাপত্তা ঝুঁকি)">
+<!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "আমাকে সতর্ক করুন যদি এটি আমার কোন অ্যাডঅনে নিষ্ক্রিয় থাকে W">
@@ -110,7 +110,7 @@
 <!ENTITY offlineNotifyExceptions.label   "ব্যতিক্রম… (X)">
 <!ENTITY offlineNotifyExceptions.accesskey "X">
 
-<!ENTITY offlineAppsList2.label          "নিম্নলিখিত ওয়েবসাইটের অফলাইনে ব্যবহারের জন্য তথ্য সংরক্ষণের জন্য অনুমোদিত:">
+<!ENTITY offlineAppsList2.label          "নিম্নলিখিত ওয়েবসাইট অফলাইনে ব্যবহারের তথ্য সংরক্ষণের জন্য অনুমোদিত:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "অপসারণ করা হবে… R">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -125,9 +125,9 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "সনদপত্র">
 <!ENTITY certSelection.description       "কোনো সার্ভার আমার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
-<!ENTITY certs.auto                      "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে (L)">
+<!ENTITY certs.auto                      "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "প্রতিবার জিজ্ঞেস করা হবে (I)">
+<!ENTITY certs.ask                       "প্রতিবার জিজ্ঞেস করা হবে">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন করুন S">
 <!ENTITY viewCerts.accesskey             "S">
