@@ -34,7 +34,7 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার b">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "ডাটা পছন্দ">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
 <!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
