@@ -84,7 +84,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'ਡੈਸਕਟਾਪ ਬੁੱਕਮਾਰਕ'>
 <!ENTITY bookmarks.folder.mobile.label 'ਮੋਬਾਇਲ ਬੁੱਕਮਾਰਕ'>
 <!ENTITY bookmarks.folder.readinglist.label 'ਪੜ੍ਹਨ ਸੂਚੀ'>
-
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'ਪਿੰਨ ਕੀਤਾ'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਸਹਾਇਕ ਹੈ'>
