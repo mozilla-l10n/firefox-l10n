@@ -6,7 +6,7 @@
 
 <!ENTITY downloadBehavior.label         "Ao iniciar uma transferência">
 <!ENTITY doNothing.label                "Não abrir nada">
-<!ENTITY doNothing.accesskey            "d"><!ENTITY focusWhenStarting.accesskey    "F">
+<!ENTITY doNothing.accesskey            "d">
 <!ENTITY openProgressDialog.label       "Abrir um diálogo de progresso">
 <!ENTITY openProgressDialog.accesskey   "o">
 <!ENTITY openDM.label                   "Abrir o gestor de transferências">
