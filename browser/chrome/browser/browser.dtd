@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "त्रुटि कंसोल">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "वेब कंसोल">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY inspectMenu.label            "जाँचें (I)">
-<!ENTITY inspectMenu.accesskey        "I">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "तत्व जाँचें">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "इंस्पेक्टर बंद करें">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "बाज़ू पट्टी बंद करें">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "डेवलेपर टूलबार बंद करें">
 <!ENTITY devToolbarMenu.label              "डेवलेपर टूलबार (v)">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "अधिक औज़ार">
-
-<!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नक़ल लें">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "बाहरी HTML की नक़ल लें">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "नोड मिटाएँ">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D दृश्य">
-<!ENTITY inspect3DViewButton.accesskey "W">
-
-<!ENTITY inspectStyleButton.label     "शैली">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "शैली संपादक">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "और औज़ार पाएँ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "नए विंडो में कड़ी खोलें">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "कड़ी खोलें">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "नए टैब में फ्रेम खोलें">
@@ -533,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "नया टैब खोलें">
 <!ENTITY newWindowButton.tooltip        "नया विंडो खोलें">
-<!ENTITY sidebarCloseButton.tooltip     "बाज़ू पट्टी बंद करें">
+<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
 <!ENTITY cutButton.tooltip              "काटें">
 <!ENTITY copyButton.tooltip             "नक़ल करें">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "अधिक सूचना…">
 
-<!ENTITY downloadMonitor2.tooltip "डाउनलोड विंडो खोलने के लिए क्लिक करें">
-
 <!ENTITY allTabs.filter.emptyText "खोज टैब">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "सहयुक्ति पट्टी बंद करें">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "मार्कअप">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "सामाजिक औज़ारपट्टी बटन">
 <!ENTITY social.notLoggedIn.label   "लॉगिन नहीं किया हुआ">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">

@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "फिर सेट करें">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "खाता प्रबंधित करें (n)">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "कोटा देखें">
 <!ENTITY changePassword2.label        "कूटशब्द बदलें…">
