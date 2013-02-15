@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  Dié bladsy wys die werkverrigting en data wat deur Telemetry versamel word volgens funksie.
-Dié inligting word anoniem ingedien na Mozilla om te help om &brandShortName; te verbeter.">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry is <span>geaktiveer</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry is <span>gedeaktiveer</span>.">
