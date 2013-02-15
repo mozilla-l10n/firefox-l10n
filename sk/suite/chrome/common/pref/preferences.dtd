@@ -20,6 +20,7 @@
 <!ENTITY links.label "Správanie sa odkazov">
 <!ENTITY offline.label "Režim Offline">
 <!ENTITY security.label "Súkromie a bezpečnosť">
+<!ENTITY privatedata.label "Súkromné údaje">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Obrázky">
 <!ENTITY popups.label "Vyskakovacie okná">

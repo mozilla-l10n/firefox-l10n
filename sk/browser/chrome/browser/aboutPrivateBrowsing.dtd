@@ -5,26 +5,13 @@
 <!ENTITY privatebrowsingpage.title                 "Súkromné prehliadanie">
 <!ENTITY privatebrowsingpage.title.normal          "Chcete prejsť do režimu Súkromné prehliadanie?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; si nebude pre túto reláciu pamätať históriu prehliadania.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; momentálne nepracuje v režime Súkromné prehliadanie.">
-
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; si nebude pre toto okno pamätať históriu prehliadania.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Momentálne sa nenachádzate v okne režimu Súkromné prehliadanie.">
 
-<!ENTITY privatebrowsingpage.description               "Počas práce v režime Súkromné prehliadanie nebude prehliadač &brandShortName; zaznamenávať históriu navštívených stránok a vyhľadávania, záznamy o prevzatých súboroch, údaje zadané do formulárov, cookies a dočasné internetové súbory. Prevzaté súbory a vytvorené záložky však ostanú zachované.">
-
 <!ENTITY privatebrowsingpage.perwindow.description     "Počas práce v okne režimu Súkromné prehliadanie nebude prehliadač &brandShortName; zaznamenávať históriu navštívených stránok a vyhľadávania, záznamy o prevzatých súboroch, údaje zadané do formulárov, cookies a dočasné internetové súbory. Prevzaté súbory a vytvorené záložky však ostanú zachované.">
-
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Spustiť režim Súkromné prehliadanie">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "k">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvoriť okno v režime Súkromné prehliadanie">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "v">
-
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "Režim Súkromné prehliadanie zrušíte pomocou voľby &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, prípadne ukončením prehliadača &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Režim Súkromné prehliadanie spustíte aj pomocou voľby &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStart3               "Režim Súkromné prehliadanie spustíte aj pomocou voľby &basePBMenu.label; &gt; &newPrivateWindow.label;.">

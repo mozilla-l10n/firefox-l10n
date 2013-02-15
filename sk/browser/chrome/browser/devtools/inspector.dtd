@@ -8,3 +8,6 @@
 <!ENTITY inspectorHTMLDelete.accesskey      "d">
 
 <!ENTITY inspector.selectButton.tooltip     "Výber prvku pomocou myši">
+
+<!ENTITY inspectorSearchHTML.label          "Hľadať v HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
