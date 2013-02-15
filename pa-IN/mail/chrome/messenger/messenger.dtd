@@ -548,7 +548,7 @@
 <!ENTITY chatButton.tooltip "ਗੱਲਬਾਤ ਟੈਬ ਵੇਖਾਓ">
 <!ENTITY tagButton.tooltip "ਸੁਨੇਹੇ ਟੈਗ ਕਰੋ">
 <!ENTITY compactButton.tooltip "ਚੁਣੇ ਫੋਲਡਰ ਤੋਂ ਹਟਾਏ ਗਏ ਸੁਨੇਹੇ ਹਟਾਓ">
-<!ENTITY appmenuButton.tooltip "Displays the Application Menu">
+<!ENTITY appmenuButton1.tooltip "&brandShortName; ਮੇਨੂ ਵੇਖਾਓ">
 
 
 <!-- AppMenu Popup -->
