@@ -1,7 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Monitorização">
 
-<!ENTITY doNotTrack.label                "Informar sítios web que não quero ser vigiado">
-<!ENTITY doNotTrack.accesskey            "I">
+<!ENTITY dntTrackingNopref.label        "Não izer aos sítios web sobre a minha preferência de localização">
+<!ENTITY dntTrackingNopref.accesskey    "T">
+<!ENTITY dntTrackingNotOkay.label       "Não autorizo a ser seguido">
+<!ENTITY dntTrackingNotOkay.accesskey   "N">
+<!ENTITY dntTrackingOkay.label          "Eu autorizo a ser seguido">
+<!ENTITY dntTrackingOkay.accesskey      "s">
+<!ENTITY doNotTrackInfo.label           "Saber mais">
 
 <!ENTITY  history.label                 "Histórico">
 
