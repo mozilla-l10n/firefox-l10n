@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+
+<!ENTITY title      "Connectar">
+<!ENTITY header     "Connectar con un dispositivo remoto">
+<!ENTITY host       "Servidor:">
+<!ENTITY port       "Puerto:">
+<!ENTITY connect    "Connectar">
+<!ENTITY connecting "Se ye connectando…">
+<!ENTITY availableTabs "Pestanyas remotas disponibles:">
+<!ENTITY availableProcesses "Procesos remotos disponibles:">
+<!ENTITY connectionError "Error:">
+<!ENTITY errorTimeout "Error: s'ha acorau o tiempo d'a connexión.">
+<!ENTITY errorRefused "Error: s'ha refusau a connexión.">
+<!ENTITY errorUnexpected "Error desconoixiu.">
+<!ENTITY help "Con as ferramientas ta desembolicadors se puede depurar os dispositivos remotos (como por eixemplo, o Firefox ta Android y ta Firefox OS). Comprebe que ha activau a opción 'Depuración remota' en o suyo dispositivo remoto. Mire-se a <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentación</a> ta saber-ne mas.">

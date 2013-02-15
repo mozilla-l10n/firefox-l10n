@@ -21,8 +21,8 @@
 <!ENTITY tableBorderWidth.accessKey       "C">
 <!ENTITY tableSpacing.label               "Espaciau:">
 <!ENTITY tableSpacing.accessKey           "E">
-<!ENTITY tablePadding.label               "Padding:">
-<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePadding.label               "Repleno:">
+<!ENTITY tablePadding.accessKey           "R">
 <!ENTITY tablePxBetwCells.label           "pixels dentre as celdas">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixels dentre o canto d'a celda y o suyo conteniu">
 <!ENTITY tableAlignment.label             "Aliniación d'a tabla:">

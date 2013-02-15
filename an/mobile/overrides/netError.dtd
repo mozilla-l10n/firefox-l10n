@@ -37,7 +37,7 @@
 <!ENTITY malformedURI.title "L'adreza no ye valida">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>As adrezas web normalment s'escriben asinas 
-<strong>http://www.ejemplo.com/</strong></li> 
+<strong>http://www.eixemplo.com/</strong></li> 
 <li>Asegure-se que ye emplegando barras inclinadas enta debant (ye dicir, 
 <strong>/</strong>).</li> 
 </ul>">
@@ -71,12 +71,13 @@
 
 <!ENTITY protocolNotFound.title "No s'ha replecau l'adreza">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li> </ul>">
+<li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li>  </ul>">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy ye refusando as connexions">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Comprebe a configuración d'o servidor proxy ta asegurar-se de que ye correcta.</li> 
-<li>Meta-se en contacto con l'administrador d'o ret ta asegurar-se de que o servidor proxy ye funcionando.</li> 
+<li>Meta-se en contacto con l'administrador d'o ret ta asegurar-se de que o servidor proxy 
+ye funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No s'ha puesto trobar o servidor proxy">
@@ -87,14 +88,16 @@
 
 <!ENTITY redirectLoop.title "A pachina no ye reendrezando adequadament">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Ixo podría pasar en haber desactivau u refusau l'acceptación de cookies.</li> 
+<li>Ixo podría pasar en haber desactivau u refusau l'acceptación 
+de cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta inasperada d'o servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Asegure-se de que o suyo sistema tiene un chestor de seguranza personal 
 instalau.</li> 
-<li>Puestar se tracte de una configuración no estandar en o servidor.</li> </ul>">
+<li>Puestar se tracte de una configuración no estandar en o servidor.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Ha fallau a connexión segura">
 <!ENTITY nssFailure2.longDesc "<ul> 

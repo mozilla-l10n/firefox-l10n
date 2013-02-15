@@ -27,7 +27,7 @@
 <!ENTITY error.aborted "S'ha aturau a descarga d'o video.">
 <!ENTITY error.network "S'ha abortau a reproducción d'o video por un problema con o ret.">
 <!ENTITY error.decode "O video no se puede reproducir porque o fichero ye corrompiu.">
-<!ENTITY error.srcNotSupported "O formato d'o video u o tipo MIMO no son compatibles.">
+<!ENTITY error.srcNotSupported "O formato d'o video u o tipo MIME no son compatibles.">
 <!ENTITY error.noSource2 "No s'ha trobau garra video con un formato u un tipo MIME compatibles.">
 <!ENTITY error.generic "S'ha abortau a reproducción d'o video por un problema desconoixiu.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current

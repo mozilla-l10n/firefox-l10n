@@ -65,7 +65,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Preferences/Options on your other device and select &#x0022;Add a Device&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Preferences/Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "Ta activar o suyo nuevo dispositivo, vaiga a las preferencias/opciones de &syncBrand.shortName.label; en o dispositivo y trigue &#x0022;Connectar.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">

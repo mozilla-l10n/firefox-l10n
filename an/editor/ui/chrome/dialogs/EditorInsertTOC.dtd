@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "Tabla de contenius">
-<!ENTITY buildToc.label      "Build table of contents from:">
+<!ENTITY buildToc.label      "Construir a tabla de contenius dende:">
 <!ENTITY tag.label           "Etiqueta:">
 <!ENTITY class.label         "Clase:">
 <!ENTITY header1.label       "Libel 1">

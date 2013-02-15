@@ -24,15 +24,13 @@ como <strong>ww</strong>.eixemplo.com en cuenta de
 <li>Si no puede cargar garra pachina, comprebe a connexión 
 de ret d'o suyo equipo.</li> 
 <li>Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se 
-que &brandShortName; tiene permiso 
-ta accedir ta la web.</li> 
+que &brandShortName; tiene permiso ta accedir ta la web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobau o fichero">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Comprebe que o nombre de fichero no tiene errors d'escritura u de l'uso de mayusclas.</li> 
-<li>Comprebe si o fichero s'ha tresladau, renombrau u 
-borrau.</li> 
+<li>Comprebe si o fichero s'ha tresladau, renombrau u borrau.</li> 
 </ul>">
 
 
@@ -89,9 +87,7 @@ o servidor proxy ye funcionando.</li>
 <!ENTITY proxyResolveFailure.title "No se puede trobar o servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Comprebe que os parametros de configuración d'o proxy son correctos.</li> 
-<li>Comprebe que o suyo ordinador tiene una connexión de ret 
-operativa.</li> 
-<li>Si o suyo ordinador u o suyo ret son protechius por un tallafuegos u proxy,  
+<li>Comprebe que o suyo ordinador tiene una connexión de ret operativa.</li> <li>Si o suyo ordinador u o suyo ret son protechius por un tallafuegos u proxy, 
 asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> 
 </ul>">
 
@@ -111,7 +107,7 @@ de seguranza instalau.</li>
 <!ENTITY nssFailure2.title "Ha fallau a connexión segura">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>A pachina que ye mirando de visualizar no se puet amostrar porque no se puet comprebar l'autenticidat d'os datos recibius.</li> 
-<li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'o problema.  Como alternativa, faiga servir a orden que se troba en o menú d'aduya ta informar d'iste puesto web trencau.</li> 
+<li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'o problema. Como alternativa, faiga servir a orden que se troba en o menú d'aduya ta informar d'iste puesto web trencau.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "A connexión segura ha fallau">

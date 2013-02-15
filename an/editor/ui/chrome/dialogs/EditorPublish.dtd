@@ -12,7 +12,7 @@
 
 <!ENTITY siteList.label               "Nombre d'o puesto:">
 <!ENTITY siteList.accesskey           "p">
-<!ENTITY siteList.tooltip             "Choose the site that you want to publish to">
+<!ENTITY siteList.tooltip             "Trigue o puesto a on que quiere publicar">
 <!ENTITY newSiteButton.label          "Adhibir un puesto">
 <!ENTITY newSiteButton.accesskey      "n">
 <!ENTITY docDirList.label             "Subdirectorio d'a pachina web:">
@@ -20,14 +20,14 @@
 <!ENTITY docDirList.tooltip           "Trigue u introduzca o nombre d'o subdirectorio remoto ta ista pachina">
 <!ENTITY publishImgCheckbox.label     "Incluir-ie imachens y atros fichers">
 <!ENTITY publishImgCheckbox.accesskey "I">
-<!ENTITY publishImgCheckbox.tooltip   "Publish images and other files referenced by this page">
+<!ENTITY publishImgCheckbox.tooltip   "Publicar as imachens y atros fichers a os quals ista pachina fa referencia">
 <!ENTITY sameLocationRadio.label      "Usar a mesma ubicación como pachina">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publica os fichers en a mesma ubicación que a pachina">
 <!ENTITY useSubdirRadio.label         "Usar iste subdirectorio d'o puesto:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publicar os fichers en o subdirectorio remoto seleccionau">
-<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY otherDirList.tooltip         "Trigue u introduzca o nombre d'un subdirectorio remoto a on que se publicarán os fichers">
 <!ENTITY pageTitle.label              "Titol d'a pachina:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introduzca un titol ta identificar a pachina en a finestra y en os marcapachinas">
@@ -48,7 +48,7 @@
 <!ENTITY siteName.label               "Nombre d'o puesto:">
 <!ENTITY siteName.accesskey           "o">
 <!ENTITY siteName.tooltip             'Una embotada que identifica iste puesto de publicación (por eixemplo, "OMíoPuesto")'>
-<!ENTITY siteUrl.label                'Ubicación d&apos;a publicación (por eixemplo, "ftp://ftp.omíofsi.com/omíonombredeusuario"):'>
+<!ENTITY siteUrl.label                'Ubicación d&apos;a publicación (por eixemplo, "ftp://ftp.omiofsi.com/omionombredeusuario"):'>
 <!ENTITY siteUrl.accesskey            "U">
 <!ENTITY siteUrl.tooltip              "L'adreza ftp:// u http:// proporcionada por o suyo FSI u servicio d'aloch web">
 <!ENTITY browseUrl.label              "L'adreza http d'a suya pachina d'inicio (p. eix.: 'http://www.omiofsi.com/omionombredeusuario'):">

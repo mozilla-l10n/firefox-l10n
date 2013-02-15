@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Copiar l'HTML interno">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copiar l'HTML externo">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Eliminar o nodo">
+<!ENTITY inspectorHTMLDelete.accesskey      "d">
+
+<!ENTITY inspector.selectButton.tooltip     "Seleccionar un elemento con o ratet">

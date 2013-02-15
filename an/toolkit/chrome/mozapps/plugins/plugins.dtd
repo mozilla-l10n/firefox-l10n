@@ -28,15 +28,15 @@
 <!ENTITY unsupportedPlatform.pre                             "O &brandShortName; no puede reproducir o Flash en iste dispositivo. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "Saber-ne mas...">
+<!ENTITY unsupportedPlatform.learnMore                       "Saber-ne mas…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "S'amenista un plugin ta amostrar iste conteniu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector">
+<!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector.">
 <!ENTITY clickToPlayPlugin                                   "Faiga click aquí ta activar o complemento.">
-<!ENTITY checkForUpdates                                     "Mirar actualizacions...">
+<!ENTITY checkForUpdates                                     "Mirar actualizacions…">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">
 
@@ -51,7 +51,7 @@
 <!ENTITY reloadPlugin.post                                   " ta tornar a prebar-lo.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Ninviar un informe de l'error">
-<!ENTITY report.submitting                                   "Se ye ninviando un informe...">
+<!ENTITY report.submitting                                   "Se ye ninviando un informe…">
 <!ENTITY report.submitted                                    "S'ha ninviau l'informe de fallo.">
 <!ENTITY report.disabled                                     "S'han desactivau os informes de fallo.">
 <!ENTITY report.failed                                       "O ninviamiento ha fallau.">

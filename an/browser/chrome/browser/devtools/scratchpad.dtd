@@ -29,7 +29,7 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Ubrir un fichero...">
+<!ENTITY openFileCmd.label            "Ubrir un fichero…">
 <!ENTITY openFileCmd.accesskey        "U">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -43,7 +43,7 @@
 <!ENTITY saveFileCmd.accesskey        "l">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Alzar como...">
+<!ENTITY saveFileAsCmd.label          "Alzar como…">
 <!ENTITY saveFileAsCmd.accesskey      "c">
 
 <!ENTITY closeCmd.label               "Zarrar">
@@ -117,9 +117,3 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
-<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
-  -  the browser WebConsole, the key should be identical to the property of
-  -  the same name in browser.dtd.
-  -->
-
-<!ENTITY webConsoleCmd.commandkey     "k">

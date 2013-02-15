@@ -70,14 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Esleiga una mida de letra">
 <!ENTITY decreaseFontSize.label "Mas chicota">
 <!ENTITY decreaseFontSize.accesskey "c">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-<!ENTITY decreaseFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Mas gran">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY incrementFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -116,13 +116,13 @@
 <!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Sin blinco de linia">
 <!ENTITY styleNonbreakingCmd.accesskey "n">
-<!ENTITY styleEm.label "Emphasis">
-<!ENTITY styleEm.accesskey "E">
-<!ENTITY styleStrong.label "Stronger Emphasis">
-<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleEm.label "Enfasi">
+<!ENTITY styleEm.accesskey "f">
+<!ENTITY styleStrong.label "Enfasi mas fuerte">
+<!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Citación">
 <!ENTITY styleCite.accesskey "C">
-<!ENTITY styleAbbr.label "Abbreviation">
+<!ENTITY styleAbbr.label "Abreviatura">
 <!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acronimo">
 <!ENTITY styleAcronym.accesskey "r">
@@ -274,7 +274,7 @@
      But value must be set here for accesskey to draw properly
 -->
 
-<!ENTITY tableJoinCells.label " j">
+<!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Trestallar a celda">
 <!ENTITY tableSplitCell.accesskey "c">

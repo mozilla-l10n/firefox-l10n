@@ -84,7 +84,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Se ye chenerando una clau privada">
-<!ENTITY createCertInfo.msg1 "Se ye chenerando a clau… Puede tardar bells minutos…">
+<!ENTITY createCertInfo.msg1 "Se ye chenerando a clau… Puede tardar bells minutos….">
 <!ENTITY createCertInfo.msg2 "Aspere…">
 <!-- Form Signing confirmation prompt -->
 

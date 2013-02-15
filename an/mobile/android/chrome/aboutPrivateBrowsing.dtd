@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegación privada">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Ha ubierto una nueva pestanya de navegación privada.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "No ye en una pestanya de navegación privada.">
+
+<!ENTITY privatebrowsingpage.description            "En as pestanyas de navegación privada, o &brandShortName; no alzará cosa en l'historial de navegación, l'historial de buscas, l'historial de baixadas, l'historial d'os formularios web, as cookies, ni en atros fichers temporals d'Internet. D'atra man, sí que se conservarán os fichers que baixe y os marcapachinas que haiga creyau.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Encara que l'ordinador no tendrá garra rechistro d'o suyo historial de navegación, o suyo provedidor d'Internet u a suya intepresa sí que podrían conoixer as pachinas que vesita.">

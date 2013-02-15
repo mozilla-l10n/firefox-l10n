@@ -36,9 +36,9 @@
 <!ENTITY smiley10Cmd.label "Chilo">
 <!ENTITY smiley10Cmd.accesskey "C">
 <!ENTITY smiley10Cmd.tooltip "Ficar-ie una cara chilando">
-<!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley11Cmd.accesskey "C">
-<!ENTITY smiley11Cmd.tooltip "Insert a cool face">
+<!ENTITY smiley11Cmd.label "Guai">
+<!ENTITY smiley11Cmd.accesskey "G">
+<!ENTITY smiley11Cmd.tooltip "Ficar-ie una cara guai">
 <!ENTITY smiley12Cmd.label "Boca plena de diners">
 <!ENTITY smiley12Cmd.accesskey "B">
 <!ENTITY smiley12Cmd.tooltip "Ficar-ie una cara con a boca plena de diners">
@@ -51,8 +51,8 @@
 <!ENTITY smiley15Cmd.label "Plorar">
 <!ENTITY smiley15Cmd.accesskey "l">
 <!ENTITY smiley15Cmd.tooltip "Ficar-ie una cara plorando">
-<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
-<!ENTITY smiley16Cmd.accesskey "a">
-<!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
+<!ENTITY smiley16Cmd.label "Labios sellaus">
+<!ENTITY smiley16Cmd.accesskey "L">
+<!ENTITY smiley16Cmd.tooltip "Ficar-ie una cara con os labios sellaus">
 <!ENTITY SmileButton.tooltip "Ficar-ie un emoticono">
 

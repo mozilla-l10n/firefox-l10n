@@ -15,10 +15,12 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Ha pediu a o &brandShortName; que se connecte de traza segura a #1 <b></b>, pero no podemos confirmar que a connexión sía segura.">
+<!ENTITY certerror.introPara1 "Ha pediu a o &brandShortName; que se connecte de traza segura a <b>#1</b>, 
+pero no podemos confirmar que a connexión sía segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Qué habría de fer?">
-<!ENTITY certerror.whatShouldIDo.content "Si por un regular accedeixe ta iste puesto sin problemas, ista error puede estar ocurrindo porque belún ye intentando suplantar a o puesto, y no habría de continar.">
+<!ENTITY certerror.whatShouldIDo.content "Si por un regular accedeixe ta iste puesto sin problemas, 
+ista error puede estar ocurrindo porque belún ye intentando suplantar a o puesto, y no habría de continar.">
 <!ENTITY certerror.getMeOutOfHere.label "Saca-me d'aquí!">
 
 <!ENTITY certerror.expert.heading "Entiendo os risgos">
@@ -26,8 +28,9 @@ was trying to connect. -->
 o &brandShortName; a confiar en a identificación d'iste puesto. 
 <b>Mesmo si confía en iste puesto, ista error puede significar 
 que belún sía interferindo en a suya connexión.</b>">
-<!ENTITY certerror.expert.contentPara2 "No adhiba garra excepción de no estar que sepa que i hai una razón seria por a qual iste puesto no faiga servir una identificación confiable.">
-<!ENTITY certerror.addTemporaryException.label "Visitar o puesto ">
+<!ENTITY certerror.expert.contentPara2 "No adhiba garra excepción de no estar que sepa 
+que i hai una razón seria por a qual iste puesto no faiga servir una identificación confiable.">
+<!ENTITY certerror.addTemporaryException.label "Visitar o puesto">
 <!ENTITY certerror.addPermanentException.label "Adhibir una excepción permanent">
 
 <!ENTITY certerror.technical.heading "Detalles tecnicos">

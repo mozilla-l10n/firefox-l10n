@@ -21,7 +21,7 @@
 <!ENTITY  showPublishDialog.accesskey   "s">
 <!ENTITY  composerEditing.label         "Edición">
 <!ENTITY  maintainStructure.label       "Mantener o formato d'a tabla quen se i fiquen u se'n borren celdas">
-<!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
+<!ENTITY  maintainStructure.tooltip     "Mantener a forma rectangular d'a tabla adhibindo-ie celdas automaticament dimpués de ficar-ne u suprimir-ne">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Usar os estilos CSS en cuenta d'elementos y atributos HTML">
 <!ENTITY  useCSS.accesskey              "U">

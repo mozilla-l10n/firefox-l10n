@@ -16,6 +16,7 @@
 
 
 
+<!ENTITY title                  "Modelo de caixa">
 <!ENTITY margins.tooltip        "marguins">
 <!ENTITY borders.tooltip        "cantos">
 <!ENTITY padding.tooltip        "espaciau">
