@@ -66,7 +66,7 @@
 <!ENTITY contextCopyLink.label "Copia link">
 <!ENTITY contextCopyEmail.label "Copia indirizzo email">
 <!ENTITY contextCopyPhone.label "Copia numero di telefono">
-<!ENTITY contextCopyImageLocation.label "Copia indirizzo immagine">
+<!ENTITY contextCopyImage.label "Copia immagine">
 <!ENTITY contextShareLink.label "Condividi link">
 <!ENTITY contextShareImage.label "Condividi immagine">
 <!ENTITY contextBookmarkLink.label "Aggiungi link nei segnalibri">
@@ -79,11 +79,6 @@
 <!ENTITY contextEditBookmark.label "Modifica">
 <!ENTITY contextRemoveBookmark.label "Rimuovi">
 <!ENTITY contextShortcutBookmark.label "Aggiungi alla schermata principale">
-<!ENTITY pageactions.pin.site "Blocca sito">
-<!ENTITY pageactions.share.page "Condividi">
 <!ENTITY pageactions.password.forget "Dimentica password">
-<!ENTITY pageactions.quit "Esci">
 <!ENTITY pageactions.reset "Cancella preferenze dei siti">
-<!ENTITY pageactions.findInPage "Trova nella pagina">
-<!ENTITY pageactions.search.addNew "Aggiungi motore di ricerca">
 <!ENTITY pageactions.charEncoding "Codifica caratteri">
