@@ -41,3 +41,7 @@
 <!ENTITY matched               "मेल खाता">
 <!ENTITY parentMatch           "पैरेंट मेल">
 <!ENTITY unmatched             "बेमेल">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "गणना किया हुआ">
+<!ENTITY ruleViewTitle         "नियम ">

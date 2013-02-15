@@ -59,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "सूचना">
 <!ENTITY btnConsoleWarnings     "चेतावनी">
 <!ENTITY btnConsoleLog          "लॉग">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "स्थिति">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "दस्तावेज़ के ऊपर या नीचे वेब कंसोल को रखें">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "ऊपर">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "नीचे">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "विंडो">
 
 <!ENTITY filterBox.placeholder "फिल्टर">
 <!ENTITY btnClear.label        "साफ़ करें">
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट को साफ़ करें">
-<!ENTITY btnClose.tooltip      "वेब कंसोल बंद करें">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

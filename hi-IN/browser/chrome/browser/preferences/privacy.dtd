@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.label               "Tell websites I do not want to be tracked">
 <!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "इतिहास">

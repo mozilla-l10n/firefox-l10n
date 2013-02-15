@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "आंतरिक HTML की नक़ल लें">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "बाहरी HTML की नक़ल लें">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "नोड मिटाएँ">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "माउस से तत्व चुनें">
