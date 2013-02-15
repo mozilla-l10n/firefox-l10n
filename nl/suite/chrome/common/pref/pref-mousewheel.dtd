@@ -10,21 +10,26 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Muiswielactie">
+<!ENTITY mouseWheelGroup.label           "Verticaal scrollen">
+<!ENTITY mouseWheelHorizGroup.label      "Horizontaal scrollen">
+<!ENTITY sameAsVertical.label            "Hetzelfde als verticaal scrollen">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Doe niks">
 <!ENTITY doNothing.accesskey             "D">
+<!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "Document scrollen">
 <!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Voor- en achteruit door de navigatiegeschiedenis bladeren">
 <!ENTITY history.accesskey               "V">
+<!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "De pagina in- of uitzoomen">
 <!ENTITY zoom.accesskey                  "z">
-<!ENTITY mouseWheelSpeed.label           "Muiswielsnelheid">
-<!ENTITY verticalSpeed.label             "Verticaal:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Tegengestelde richting">
-<!ENTITY verticalReverse.accesskey       "T">
-<!ENTITY horizontalSpeed.label           "Horizontaal:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Tegengestelde richting">
-<!ENTITY horizontalReverse.accesskey     "e">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Muiswielsnelheid:">
+<!ENTITY wheelSpeed.accesskey            "w">
+<!ENTITY wheelSpeedHoriz.accesskey       "u">
+<!ENTITY reverseDirection.label          "Tegengestelde richting ">
+<!ENTITY reverseDirection.accesskey      "r">
+<!ENTITY reverseDirectionHoriz.accesskey "e">
+
