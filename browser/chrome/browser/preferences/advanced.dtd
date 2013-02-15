@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "ئ">
 <!ENTITY isDefault.label                 "‏&brandShortName; هو المتصفح المبدئي حاليا">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "اختيارات البيانات">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportSection.label       "تقرير حالة &brandShortName;">
+<!ENTITY healthReportDesc.label          "يساعدك في تفحص أداء متصفحك ومشاركة بيانات حالة المتصفح مع &vendorShortName; ">
+<!ENTITY enableHealthReport.label        "فعّل تقرير حالة &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "ت">
+<!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetrySection.label          "تليمتري">
+<!ENTITY telemetryDesc.label             "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
+<!ENTITY enableTelemetry.label           "فعّل أداة تليمتري">
+<!ENTITY enableTelemetry.accesskey       "ت">
+<!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
 <!ENTITY crashReporterSection.label      "مُبلّغ الانهيار">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterDesc.label         "يُرسل &brandShortName; بلاغات الانهيار إلى &vendorShortName; للمساعدة في تحسين أداء متصفحك و استقراره">
+<!ENTITY enableCrashReporter.label       "فعّل مبلّغ الانهيار">
+<!ENTITY enableCrashReporter.accesskey   "ن">
+<!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
 
 <!ENTITY networkTab.label                "الشبكة">
 
