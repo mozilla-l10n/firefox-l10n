@@ -31,6 +31,8 @@
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Filtrar variables">
 <!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.focusVariables      "Centrar árbol de variables">
+<!ENTITY debuggerUI.focusVariables.key  "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Este punto de quiebre detendrá la ejecución solo si la siguiente expresión es verdadera">
 <!ENTITY debuggerUI.seMenuBreak "Agregar punto de quiebre">
 <!ENTITY debuggerUI.seMenuBreak.key "B">

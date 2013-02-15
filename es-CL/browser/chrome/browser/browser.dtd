@@ -215,7 +215,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Limpiar el historial reciente…">
-<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
@@ -248,7 +247,7 @@
 <!ENTITY appMenuSafeMode.label "Reiniciar con los complementos deshabilitados…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Ir a un sitio web">
+<!ENTITY urlbar.placeholder2          "Buscar o ingresar dirección">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a pestaña:">
 <!ENTITY searchFocus.commandkey "k">
@@ -434,7 +433,6 @@
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "el cual es corrido por">
 <!ENTITY identity.moreInfoLinkText "Más información…">
-<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
