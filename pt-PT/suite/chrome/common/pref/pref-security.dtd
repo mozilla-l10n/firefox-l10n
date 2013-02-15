@@ -6,23 +6,27 @@
 <!ENTITY pref.security.title              "Privacidade &amp; Segurança">
 
 <!ENTITY tracking.label                   "Localização do utilizador">
-<!ENTITY doNotTrack.label                 "Dizer aos sítios web que não quero ser localizado">
-<!ENTITY doNotTrack.accesskey             "t">
+<!ENTITY trackingIntro.label              "Os sítios web +podem seguir a sua utilização neles, reduzindo a sua privacidade.">
 
-<!ENTITY privateData.label                "Dados privados">
+<!ENTITY dntTellSites.label               "Dizer aos sítios web sobre a minha preferência de localização">
+<!ENTITY dntTellSites.accesskey           "T">
+<!ENTITY dntTrackingNotOkay.label         "Não autorizo a ser seguido">
+<!ENTITY dntTrackingNotOkay.accesskey     "N">
+<!ENTITY dntTrackingOkay.label            "Eu autorizo a ser seguido">
+<!ENTITY dntTrackingOkay.accesskey        "s">
 
-<!ENTITY alwaysClear.label                "Limpar sempre os meus dados privados quendo fechar o &brandShortName;">
-<!ENTITY alwaysClear.accesskey            "s">
 
-<!ENTITY askBeforeClear.label             "Perguntar-me antes de limpar os dados privados">
-<!ENTITY askBeforeClear.accesskey         "P">
-
-<!ENTITY clearDataSettings.label          "Quando pedir ao &brandShortName; para limpar os dados privados, deve apagar:">
-
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 -->
-<!ENTITY clearDataDialog.label            "Limpar agora…">
-<!ENTITY clearDataSilent.label            "Limpar agora">
-<!ENTITY clearDataDialog.accesskey        "a">
+<!ENTITY safeBrowsing.label               "Navegação segura">
+<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os sítios web indicados como contendo conteúdo malicioso.">
+
+<!ENTITY blockAttackSites.label           "Bloquear os sítios de ataque indicados (malware, virús)">
+<!ENTITY blockAttackSites.accesskey       "B">
+
+<!ENTITY blockWebForgeries.label          "Bloquear os sítios de engodo web indicados (Phishing)">
+<!ENTITY blockWebForgeries.accesskey      "P">
