@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Preberanie súborov">
 
 <!ENTITY downloadBehavior.label         "Pri spustení preberania">
-<!ENTITY focusWhenStarting.label        "Zvýrazniť okno správcu preberania súborov, ak je otvorené. V opačnom prípade:">
-<!ENTITY focusWhenStarting.accesskey    "Z">
-<!ENTITY openDM.label                   "Otvoriť správcu preberania súborov">
-<!ENTITY openDM.accesskey               "c">
-<!ENTITY openProgressDialog.label       "Otvoriť okno s priebehom preberania">
-<!ENTITY openProgressDialog.accesskey   "O">
 <!ENTITY doNothing.label                "Nič neotvárať">
 <!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Otvoriť okno s priebehom preberania">
+<!ENTITY openProgressDialog.accesskey   "O">
+<!ENTITY openDM.label                   "Otvoriť správcu preberania súborov">
+<!ENTITY openDM.accesskey               "c">
+<!ENTITY flashWhenOpen.label            "Zvýrazniť okno správcu preberania súborov, ak je otvorené">
+<!ENTITY flashWhenOpen.accesskey        "Z">
 
 <!ENTITY downloadLocation.label         "Pri ukladaní súboru">
 <!ENTITY saveTo.label                   "Uložiť súbory do">

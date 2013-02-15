@@ -25,7 +25,7 @@
 
 <!ENTITY abouthealth.show-report "Zobraziť správu pre &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "Toto sú údaje, ktoré &brandFullName; odosiela pre správnu funkčnosť funkcie Správa o kondícii prehliadača &brandShortName;.">
-<!ENTITY abouthealth.details-link "Na tejto stránke">
+<!ENTITY abouthealth.details.description-start "Toto sú údaje, ktoré &brandFullName; odosiela pre správne fungovanie funkcie Správa o kondícii prehliadača &brandShortName;. Na ">
+<!ENTITY abouthealth.details-link "tejto stránke">
 <!ENTITY abouthealth.details.description-end " nájdete podrobnejšie informácie o tom, aké údaje sa odosielajú a prečo.">
 <!ENTITY abouthealth.no-data-available "Zatiaľ neboli odoslané žiadne údaje. Skúste to neskôr.">

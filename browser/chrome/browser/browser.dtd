@@ -282,11 +282,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY clearRecentHistory.label            "Vymazať históriu prehliadania…">
 <!ENTITY clearRecentHistory.accesskey        "h">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Spustiť režim Súkromné prehliadanie">
-<!ENTITY privateBrowsingCmd.start.accesskey     "k">
-<!ENTITY privateBrowsingCmd.stop.label          "Ukončiť režim Súkromné prehliadanie">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "k">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Zobraziť">
@@ -325,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Prejsť na webovú stránku">
+<!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
 
@@ -427,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY emailAudioCmd.label          "Odoslať zvuk…">
 <!ENTITY emailAudioCmd.accesskey      "v">
+<!ENTITY playPluginCmd.label          "Aktivovať tento zásuvný modul">
+<!ENTITY playPluginCmd.accesskey      "A">
+<!ENTITY hidePluginCmd.label          "Skryť tento zásuvný modul">
+<!ENTITY hidePluginCmd.accesskey      "m">
 <!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
@@ -586,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Ďalšie informácie…">
 
-<!ENTITY allTabs.filter.emptyText "Hľadať v kartách">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">

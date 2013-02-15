@@ -35,11 +35,11 @@
 
 <!ENTITY dataChoicesTab.label            "Odosielanie údajov">
 
-<!ENTITY FHRSection.label                "Správa o kondícii Firefoxu">
-<!ENTITY FHRDesc.label                   "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
-<!ENTITY enableFHR.label                 "Povoliť správy o kondícii Firefoxu">
-<!ENTITY enableFHR.accesskey             "F">
-<!ENTITY FHRLearnMore.label              "Ďalšie informácie">
+<!ENTITY healthReportSection.label       "Správa o kondícii prehliadača &brandShortName;">
+<!ENTITY healthReportDesc.label          "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
+<!ENTITY enableHealthReport.label        "Povoliť správy o prehliadača &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "o">
+<!ENTITY healthReportLearnMore.label     "Ďalšie informácie">
 
 <!ENTITY telemetrySection.label          "Telemetria">
 <!ENTITY telemetryDesc.label             "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
