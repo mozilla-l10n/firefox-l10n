@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip                            "Kuva kiirsuhtluse kaarti">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
-<!ENTITY appmenuButton.tooltip                         "Kuva rakenduse menüüd">
+<!ENTITY appmenuButton1.tooltip                        "Kuva rakenduse &brandShortName; menüüd">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
