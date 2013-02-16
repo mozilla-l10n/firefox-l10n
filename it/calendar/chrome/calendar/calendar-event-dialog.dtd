@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY event.title.label "Modifica elemento">
 <!ENTITY event.dialog.keepDurationButton.tooltip "Mantieni la durata quando viene cambiata la data di fine">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
@@ -153,6 +154,8 @@
 <!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Ricorrenza:">
 <!ENTITY event.repeat.accesskey "R">
+<!ENTITY event.until.label "Fino a:">
+<!ENTITY event.until.accesskey "F">
 <!ENTITY event.reminder.label "Promemoria:">
 <!ENTITY event.reminder.accesskey "P">
 <!ENTITY event.description.label "Descrizione:">
