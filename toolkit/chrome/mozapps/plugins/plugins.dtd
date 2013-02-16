@@ -37,5 +37,7 @@
 <!ENTITY report.disabled "Invio segnalazioni disattivato.">
 <!ENTITY report.failed "Invio segnalazione non riuscito.">
 <!ENTITY report.unavailable "Nessuna segnalazione disponibile.">
+<!ENTITY report.comment "Aggiungi un commento (i commenti sono visibili pubblicamente)">
+<!ENTITY report.pageURL "Includi URL della pagina">
 <!ENTITY plugin.file "File">
 <!ENTITY plugin.mimeTypes "Tipi MIME">
