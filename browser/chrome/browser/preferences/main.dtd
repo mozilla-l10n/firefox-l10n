@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "ආරම්භය">
 
 <!ENTITY startupPage.label         "&brandShortName; ආරම්භ කිරීමේදී:">
@@ -5,6 +9,9 @@
 <!ENTITY startupHomePage.label     "මගේ මුල් පිටුව පෙන්වන්න">
 <!ENTITY startupBlankPage.label    "හිස් පිටුවක් පෙන්වන්න">
 <!ENTITY startupLastSession.label  "අවසන් වරට තිබූ කවුළු සහ ටැබ් පෙන්වන්න">
+
+<!ENTITY homepage.label            "මුල් පිටුව:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "දැන් පවතින පිටුව">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "දැන් පවතින පිටුව">
@@ -27,29 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ගොනු සුරකින්නේ කොතනටද යන්න සැමවිටම විමසන්න">
 <!ENTITY alwaysAsk.accesskey "A">
-<!ENTITY addonsMgr.label               "ඇඩෝන">
-<!ENTITY manageAddonsDescWin.label     "ඔබගේ ඇඩෝන සඳහා විකල්ප වෙනස් කරන්න">
-<!ENTITY manageAddonsDescUnix2.label   "ඔබගේ ඇඩෝන සඳහා අභිප්‍රේත වෙනස් කරන්න">
-<!ENTITY manageAddons.label            "ඇඩෝන කළමනාකරණය…">
-<!ENTITY manageAddons.accesskey        "M">
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY homepage.label "මුල් පිටුව:">
-<!ENTITY homepage.accesskey "P">

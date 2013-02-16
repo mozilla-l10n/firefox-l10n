@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newWindowsAsTabs.label       "නව කවුළු නව තැබ් තළ විවෘත කරන්න">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
+
 <!ENTITY warnCloseMultipleTabs.label  "ටැබ් කිහිපයක් වසා දැමීමේදී අනතුරු අගවන්න">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
@@ -9,11 +14,11 @@
 <!ENTITY showTabBar.label             "සෑම විටම ටැබ් තීරුව පෙන්වන්න">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "මම සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න">
-<!ENTITY switchToNewTabs.accesskey    "s">
-
 <!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY showTabsInTaskbar.accesskey "k">
-<!ENTITY showTabsInTaskbar.label "ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න">
+<!ENTITY switchToNewTabs.label        "මම සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

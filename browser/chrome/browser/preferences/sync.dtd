@@ -1,39 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; සකසන්න">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "ඔබගේ සියළු උපාංග තුළ පෙරදෑ, පිටුසළකුණු, රහස්පද, සහ විවෘත කළ ටැබ් වෙත ප්‍රවේශ වීමට &syncBrand.fullName.label; lඉඩ ලබා දේ.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
 
-<!ENTITY syncMy.label "Sync My">
+
+<!ENTITY updatePass.label             "යාවත්කාලීන කරන්න">
+<!ENTITY resetPass.label              "ප්‍රත්‍යාරම්භ (Reset) කරන්න">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY viewQuota.label              "කොටා (Quota) පෙන්වන්න">
+<!ENTITY changePassword2.label        "රහස්පදය වෙනස්කරන්න">
+<!ENTITY myRecoveryKey.label          "මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
+<!ENTITY resetSync2.label             "සම්මුහුර්තය ප්‍රත්‍යාරම්භ (Reset) කරන්න">
+
+<!ENTITY pairDevice.label             "Pair a Device">
+
+<!ENTITY syncMy.label               "Sync My">
+<!ENTITY engine.bookmarks.label     "පිටුසළකුණු">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY updatePass.label "යාවත්කාලීන කරන්න">
-<!ENTITY engine.bookmarks.label "පිටුසළකුණු">
-<!ENTITY setupButton.accesskey "S">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.history.label "පෙරදෑ">
-<!ENTITY resetSync2.label "සම්මුහුර්තය ප්‍රත්‍යාරම්භ (Reset) කරන්න">
-<!ENTITY prefs.tosLink.label "සේවා කොන්දේසි">
-
-<!ENTITY pairDevice.label       "Pair a Device">
-
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY resetPass.label "ප්‍රත්‍යාරම්භ (Reset) කරන්න">
-<!ENTITY manageAccount.label "ගිණුම් කළමනාකරණය">
-<!ENTITY syncComputerName.accesskey "c">
-<!ENTITY setupButton.label "&syncBrand.fullName.label; සකසන්න">
-<!ENTITY manageAccount.accesskey "A">
-<!ENTITY viewQuota.label "කොටා (Quota) පෙන්වන්න">
-<!ENTITY myRecoveryKey.label	"මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
-<!ENTITY engine.passwords.label "රහස්පද">
-<!ENTITY engine.prefs.label "මනාපයන්">
+<!ENTITY engine.tabs.label          "ටැබ්">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "පෙරදෑ">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "රහස්පද">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "මනාපයන්">
+<!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "ඇඩෝන">
 <!ENTITY engine.addons.accesskey    "A">
+<!-- Device Settings -->
 
-<!ENTITY weaveDesc.label "ඔබගේ සියළු උපාංග තුළ පෙරදෑ, පිටුසළකුණු, රහස්පද, සහ විවෘත කළ ටැබ් වෙත ප්‍රවේශ වීමට &syncBrand.fullName.label; lඉඩ ලබා දේ.">
-<!ENTITY engine.prefs.accesskey "S">
-<!ENTITY engine.tabs.label "ටැබ්">
-<!ENTITY changePassword2.label "රහස්පදය වෙනස්කරන්න">
-<!ENTITY prefs.ppLink.label "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
-<!ENTITY syncComputerName.label "පරිගණක නම:">
-<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "මෙම උපාංගය අසබැඳි කරන්න">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "සේවා කොන්දේසි">
+<!ENTITY prefs.ppLink.label         "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">

@@ -1,7 +1,8 @@
-<!-- -*- Mode: Java; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "ඔබ විවෘත කිරීමට තෝරන ලද:">
+<!ENTITY  intro2.label                "You have chosen to open:">
 <!ENTITY  from.label                  "සිට:">
 <!ENTITY  actionQuestion.label        "&brandShortName; මෙ ගොනුව සමග කුමක් කළ යුතුද?">
 
@@ -11,9 +12,9 @@
 
 <!ENTITY  saveFile.label              "ගොනුව සුරකින්න">
 <!ENTITY  saveFile.accesskey          "s">
+
 <!ENTITY  rememberChoice.label        "මෙවැනි ගොනු සඳහා දැන් පටන් මෙය ඉබේ කරන්න.">
 <!ENTITY  rememberChoice.accesskey    "a">
-
 
 <!ENTITY  whichIsA.label              "එය වනුයේ:">
 
