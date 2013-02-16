@@ -22,8 +22,8 @@
 <!ENTITY helpSafeMode.label       "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey   "n">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "Laporan Kebugaran &brandShortName;">
+<!ENTITY healthReport.accesskey   "o">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "M">
