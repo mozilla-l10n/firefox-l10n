@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "تنظیم حساب کاربری">
-<!ENTITY manageAccount.accesskey      "ح">
+<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "مشاهدهٔ فضای مصرفی">
 <!ENTITY changePassword2.label        "تغییر گذرواژه">
 <!ENTITY myRecoveryKey.label          "کلید بازیابی من">

@@ -33,7 +33,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "پروندۀ منقضی">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc '<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ "تلاش دوباره" کلیک کنید.<li></ul/>'>
 
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc2 '<ul><li>دکمۀ &quot; "تلاش دوباره" را فشار دهید &quot; تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>'>
