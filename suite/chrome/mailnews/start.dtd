@@ -16,7 +16,7 @@
 <!ENTITY feat_filters.label "წერილების ფილტრები">
 <!ENTITY feat_htmlmsg.label "HTML წერილების მხარდაჭერა">
 <!ENTITY feat_abook.label "მისამართების წიგნაკი">
-<!ENTITY feat_labels.label "წერილებისა და იარლიყების ჩვენების მორგება">
+<!ENTITY feat_tags.label "ჭდეებისა და წერილების ჩვენების მორგება">
 <!ENTITY feat_integration.label
 "მჭიდრო ინტეგრაცია &brandShortName;-ს სხვა პროგრამებთან">
 <!ENTITY dict.title "ლექსიკონები">

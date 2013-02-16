@@ -5,13 +5,5 @@
 <!ENTITY ocspDialog.title             "სერთიფიკატის შემოწმება">
 <!ENTITY enableOCSP.label                         "სერთიფიკატების  მიმდინარე უფლებამოსილების დასადასტურებლად ისარგებლეთ სერთიფიკატების სტატუსის პირდაპირი ოქმით (OCSP)">
 <!ENTITY enableOCSP.accesskey                     "U">
-<!ENTITY certOCSP2.label                          "სერთიფიკატის შემოწმება თუ იგი OCSP სერვერს მიუთითებს">
-<!ENTITY certOCSP2.accesskey                      "V">
-<!ENTITY proxyOCSP2.label                         "ყველა სერთიფიკატის შემოწმება შემდეგი OCSP სერვერით:">
-<!ENTITY proxyOCSP2.accesskey                     "a">
-<!ENTITY serviceURL.label                         "მომსახურების მისამართი:">
-<!ENTITY serviceURL.accesskey         "S">
-<!ENTITY signingCA.label              "პასუხისმგებელი:">
-<!ENTITY signingCA.accesskey          "R">
 <!ENTITY requireOCSP.label            "თუ OCSP სერვერთან დაკავშირება ვერ ხერხდება, სერთიფიკატის უმართებლოდ მიჩნევა">
 <!ENTITY requireOCSP.accesskey        "W">

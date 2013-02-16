@@ -45,23 +45,23 @@
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ინფორმაცია ბლოკის შესახებ">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY fitImageCmd.label            "ნახატის მასშტაბირება სარკმლის ზომაზე">
+<!ENTITY fitImageCmd.label            "გამოსახულების მორგება სარკმლის ზომაზე">
 <!ENTITY fitImageCmd.accesskey        "F">
-<!ENTITY reloadImageCmd.label         "ნახატის განახლება">
+<!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ნახატის ჩვენება">
+<!ENTITY viewImageCmd.label           "გამოსახულების ჩვენება">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "ფონის ნახატის ჩვენება">
+<!ENTITY viewBGImageCmd.label         "ფონის გამოსახულების ჩვენება">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "შპალიერად გამოყენება">
-<!ENTITY setWallpaperCmd.accesskey    "A">
-<!ENTITY bookmarkPageCmd.label        "გვერდის სანიშნეებში შეტანა">
+<!ENTITY setDesktopBackgroundCmd.label     "სამუშაო ფონის მითითება…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "a">
+<!ENTITY bookmarkPageCmd.label        "გვერდის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
-<!ENTITY bookmarkLinkCmd.label        "ბმის სანიშნეებში შეტანა">
+<!ENTITY bookmarkLinkCmd.label        "ბმის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkLinkCmd.accesskey    "B">
-<!ENTITY bookmarkFrameCmd.label       "ბლოკის სანიშნეებში შეტანა">
+<!ENTITY bookmarkFrameCmd.label       "ბლოკის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა…">
@@ -73,8 +73,8 @@
 <!ENTITY saveLinkAsCmd.label          "ბმის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.label            "ბმის შენახვა…">
 <!ENTITY saveLinkCmd.accesskey        "S">
-<!ENTITY saveImageAsCmd.label         "ნახატის შენახვა როგორც…">
-<!ENTITY saveImageCmd.label           "ნახატის შენახვა…">
+<!ENTITY saveImageAsCmd.label         "გამოსახულების შენახვა როგორც…">
+<!ENTITY saveImageCmd.label           "გამოსახულების შენახვა">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც…">
 <!ENTITY saveVideoCmd.accesskey       "v">
@@ -121,6 +121,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY spellAddToDictionary.label     "ლექსიკონში ჩამატება">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label      "ლექსიკონში ჩამატების გაუქმება">
+<!ENTITY spellUndoAddToDictionary.accesskey  "i">
 <!ENTITY spellIgnoreWord.label          "სიტყვის გამოტოვება">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "მართლწერის შემოწმება">

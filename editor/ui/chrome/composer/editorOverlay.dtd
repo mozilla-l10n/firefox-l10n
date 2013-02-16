@@ -1,5 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -46,12 +45,7 @@
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(შემოთავაზებები ვერ მოიძებნა)">
-<!ENTITY spellCheckIgnoreWord.label "სიტყვის გამოტოვება">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ლექსიკონში დამატება">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY createLinkCmd.label "ბმის შექმნა…">
+<!ENTITY createLinkCmd.label "Create Link…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ბმის რედაქტირება ახალ ფანჯარაში">
 <!ENTITY editLinkCmd.accesskey "i">
@@ -76,11 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "შრიფტის ზომის არჩევა">
 <!ENTITY decreaseFontSize.label "შემცირება">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "გაზრდა">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "ზომა">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -289,12 +284,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "მენიუს პანელი">
 <!ENTITY formatToolbar.tooltip "დაფორმატების პულტი">
-<!ENTITY newToolbarCmd.label "ახალი">
-<!ENTITY newToolbarCmd.tooltip "ახალი გვერდის შექმნა რედაქტორში">
-<!ENTITY openToolbarCmd.label "გახსნა">
-<!ENTITY openToolbarCmd.tooltip "ადგილობრივი ფაილის გახსნა">
-<!ENTITY saveToolbarCmd.tooltip "ფაილის ადგილობრივად ჩაწერა">
-<!ENTITY publishToolbarCmd.tooltip "ფაილის განახლება გარე მისამართიდან">
 <!ENTITY cutToolbarCmd.tooltip "ამოჭრა">
 <!ENTITY copyToolbarCmd.tooltip "ასლი">
 <!ENTITY pasteToolbarCmd.tooltip "გასმა">
@@ -304,8 +293,8 @@
 <!ENTITY findToolbarCmd.tooltip "ძიება ამ გვერდზე">
 <!ENTITY spellToolbarCmd.label "მართლწერა">
 <!ENTITY spellToolbarCmd.tooltip "მონიშნული ტექსტის ან გვერდის მართლწერის შემოწმება">
-<!ENTITY imageToolbarCmd.label "ნახატი">
-<!ENTITY imageToolbarCmd.tooltip "ახალი ნახატის ჩამატება ან მონიშნული ნახატის რედაქტირება">
+<!ENTITY imageToolbarCmd.label "გამოსახულება">
+<!ENTITY imageToolbarCmd.tooltip "ახალი ნახატის ჩამატება ან მონიშნული გამოსახულების რედაქცია">
 <!ENTITY hruleToolbarCmd.label "ჰ.ხაზი">
 <!ENTITY hruleToolbarCmd.tooltip "ჰორიზონტული ხაზის ჩამატება ან მონიშნული ხაზის პარამეტრების რედაქტირება">
 <!ENTITY tableToolbarCmd.label "ცხრილი">

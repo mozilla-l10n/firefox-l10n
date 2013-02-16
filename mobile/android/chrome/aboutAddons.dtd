@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "მოდულები">
+<!ENTITY aboutAddons.header2                    "თქვენი მოდულები">
+<!ENTITY aboutAddons.options                    "პარამეტრები">
+
+<!ENTITY addonAction.enable                     "ჩართვა">
+<!ENTITY addonAction.disable                    "ამორთვა">
+<!ENTITY addonAction.uninstall                  "ამოღება">
+<!ENTITY addonAction.undo                       "დაბრუნება">

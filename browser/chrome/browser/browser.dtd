@@ -23,16 +23,16 @@
 <!ENTITY  closeOtherTabs.label               "სხვა დაფების დახურვა">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "დაფის დამაგრება">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "დაფის მოხსნა">
-<!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "ფადატანა ჯგუფში">
+<!ENTITY  pinTab.label                       "დაფის დამაგრება">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "დაფის მოხსნა">
+<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  moveToGroup.label                  "გადატანა ჯგუფში">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "ახალი ჯგუფი">
 <!ENTITY  moveToNewWindow.label              "გადატანა ახალ სარკმელში">
@@ -81,7 +81,13 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "ვებგვერდის მონაცემები">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "მთელ ეკრანზე">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "სრული ეკრანის რეჟიმში შესვლა">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "სრული ეკრანის რეჟიმიდან გამოსვლა">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "სრულ ეკრანზე">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Show ყველა დაფა">
@@ -94,7 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "სრული ეკრანის რეჟიმიდან გასვლა">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY domFullScreenWarning.label "ESC - სრული ეკრანის რეჟიმიდან გამოსვლა">
+<!ENTITY fullscreenAllowButton.label "ნებართვა">
+<!ENTITY fullscreenExitButton.label "უარყოფა">
+<!ENTITY fullscreenApproval.value "სრული ეკრანის რეჟიმის ნებართვა?">
+
+<!ENTITY fullscreenExitHint.value "ESC - სრული ეკრანის რეჟიმიდან გამოსასვლელად.">
+<!ENTITY leaveDOMFullScreen.label "სრული ეკრანის რეჟიმიდან გამოსვლა">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "სარკმლის დახურვა">
 <!ENTITY closeWindow.accesskey "d">
@@ -103,6 +115,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ამ გვერდის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "ხელმოწერა ამ გვერდზე">
 <!ENTITY subscribeToPageMenuitem.label "ხელმოწერა ამ გვერდზე…">
 <!ENTITY addCurPagesCmd.label "ყველა დაფის ჩანიშვნა…">
@@ -148,7 +161,6 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label          "სანიშნეები">
 <!ENTITY bookmarksButton.tooltip        "თქვენი სანიშნეების ჩვენება">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "სანიშნეები">
@@ -165,7 +177,6 @@ can reach it easily. -->
 
 <!ENTITY historyButton.label            "ისტორია">
 <!ENTITY historyButton.tooltip          "ბოლოს მონახულებული ვებგვერდების ჩვენება">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
@@ -187,20 +198,21 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "ვებ პროგრამისტი">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsConnect.label        "დაკავშირება…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "შეცდომათა კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ვებ კონსოლი">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY inspectMenu.label            "კვლევა">
-<!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY remoteWebConsoleCmd.label    "გარე ვებ კონსოლი">
 
 <!ENTITY inspectContextMenu.label     "ელემენტის გამოკვლევა">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "მოქნილი დიზაინის ეკრანი">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -217,12 +229,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "კვლევა">
-<!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "მკვლევარის დახურვა">
-<!ENTITY inspectStyleButton.label     "სტილი">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY devToolbarCloseButton.tooltiptext "მკვლევარის პულტის დახურვა">
+<!ENTITY devToolbarMenu.label              "მკვლევარის პულტი">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "ხელსაწყოთა გადართვა">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "მკვლევარის გადართვა">
+<!ENTITY devToolbarOtherToolsButton.label  "სხვა ხელსაწყოები">
 
 <!ENTITY getMoreDevtoolsCmd.label        "სხვა სამარჯვები">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -232,6 +248,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label        "ახალი სარკმელი">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "ახალი პირადი სარკმელი">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "რედაქტირება"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -244,7 +262,7 @@ can reach it easily. -->
 <!ENTITY cutCmd.label           "ამოჭრა">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "კოპირება">  
+<!ENTITY copyCmd.label            "ასლი">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ჩასმა">  
@@ -341,6 +359,8 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "ბმის ახალ სრკმელში გახსნა">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "ბმის ახალ პირად სარკმელში გახსნა">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "ბმის გახსნა">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "ბლოკის ახალ დაფაზე გახსნა">
@@ -367,13 +387,13 @@ can reach it easily. -->
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label           "გამოსახულების განახლება">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ნახატის ჩვენება">
+<!ENTITY viewImageCmd.label           "გამოსახულების ჩვენება">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "ფონის ნახატის ჩვენება">
+<!ENTITY viewBGImageCmd.label         "ფონის გამოსახულების ჩვენება">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
@@ -383,8 +403,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey    "L">
 <!ENTITY bookmarkThisFrameCmd.label       "ბლოკის სანიშნეებში შეტანა…">
 <!ENTITY bookmarkThisFrameCmd.accesskey   "m">
-<!ENTITY sendPageCmd.label            "ბმის გაგზავნა…">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY emailPageCmd.label           "ბმის გაგზავნა…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -396,44 +416,51 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "ბმის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "ბმის გაგზავნა…"> 
-<!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
+<!ENTITY saveImageCmd.label           "გამოსახულების შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "ნახატის გაგზავნა…">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "ვიდეოს გაგზავნა…">
-<!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "აუდიოს გაგზავნა…">
-<!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "ბმის კოპირება">
+<!ENTITY emailImageCmd.label          "გამოსახულების გაგზავნა…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY copyLinkCmd.label            "ბმის ასლი">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "ნახატის მისამართის კოპირება">
+<!ENTITY copyImageCmd.label           "გამოსახულების მისამართის ასლი">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "ნახატის კოპირება">
+<!ENTITY copyImageContentsCmd.label   "გამოსახულების ასლი">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის ასლი">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის კოპირება">
+<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის ასლი">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
+<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის ასლი">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ეს ბლოკი">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "დაკვრა">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "პაუზა">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ხმის ამორთვა">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ხმის ჩართვა">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "პულტის ჩვენება">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "პულტის დამალვა">
@@ -442,6 +469,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "ანაბეჭდის შენახვა როგორც…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "სტატისტიკის ჩვენება">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "სტატისტიკის დამალვა">
@@ -479,7 +509,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
 
 <!ENTITY cutButton.tooltip              "ამოჭრა">
-<!ENTITY copyButton.tooltip             "კოპირება">
+<!ENTITY copyButton.tooltip             "ასლი">
 <!ENTITY pasteButton.tooltip            "ჩასმა">
 
 <!ENTITY fullScreenButton.tooltip       "სარკმლის რულ ეკრანზე გახსნა">
@@ -557,15 +587,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "დაწვრილებით…">
 
-<!ENTITY downloadMonitor2.tooltip "დაწკაპეთ ორმაგად ჩამოტვირთვების სარკმლის გასახსნელად">
-
 <!ENTITY allTabs.filter.emptyText "ძიება დაფებში">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის დაფები">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "დაფები სხვა კომპიუტერიდან">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "დაფები სხვა მოწყობილობებიდან">
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზაცია">
 
@@ -577,3 +605,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "მოდულების პანელის დახურვა">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY socialToolbar.title        "სოციალური ღილაკების პულტი">
+<!ENTITY social.notLoggedIn.label   "არ შემოსულხართ">
+
+<!ENTITY social.ok.label       "კეთილი">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "სტენდის ჩვენება">
+<!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.toggleNotifications.label "სამუშაო დაფის გზავნილთა ჩვენება">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "დაბრუნება">
+<!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "გადასვლა ჩათებზე">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "საზიარო კამერა:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "საზიარო მიკროფონი:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "კამერის / მიკროფონის წვდომა">
+<!ENTITY webrtcIndicatorButton.tooltip "საიტების ასახვა თქვენი საზიარო კამერით ანდა მიკროფონით">

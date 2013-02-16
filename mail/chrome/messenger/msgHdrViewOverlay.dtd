@@ -1,5 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -28,11 +27,13 @@
 <!ENTITY hdrArchiveButton1.tooltip "ამ წერილის დაარქივება">
 <!ENTITY hdrSmartReplyButton1.label "სხარტი პასუხი">
 <!ENTITY hdrReplyButton1.label "პასუხი">
-<!ENTITY hdrReplyButton1.tooltip "პასუხი ამ წერილზე">
+<!ENTITY hdrReplyButton2.tooltip "პასუხი ამ წერილის გამომგზავნს">
 <!ENTITY hdrReplyAllButton1.label "პასუხი ყველას">
 <!ENTITY hdrReplyAllButton1.tooltip "პასუხი გამომგზავნს და ყველა ადრესატს">
 <!ENTITY hdrReplyListButton1.label "პასუხი ჯგუფს">
 <!ENTITY hdrReplyListButton1.tooltip "პასუხი დაგზავნის სიაზე">
+<!ENTITY hdrFollowupButton1.label "ადევნება">
+<!ENTITY hdrFollowupButton1.tooltip "გამოხმაურება სიახლეთა ამ ჯგუფს">
 <!ENTITY hdrForwardButton1.label "გადაგზავნა">
 <!ENTITY hdrForwardButton1.tooltip "ამ წერილის გადაგზავნა">
 <!ENTITY hdrJunkButton1.label "ჯართი">
@@ -67,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "ამობეჭდვა…">
 <!ENTITY otherActionsPrint1.accesskey "P">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "თავიდანვე ჩანართების პანელის ჩვენება">
+<!ENTITY startExpandedCmd.accesskey    "S">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "გახსნა">
 <!ENTITY openAttachmentCmd.accesskey		"O">  
@@ -97,5 +102,8 @@
 <!ENTITY copyLinkCmd.accesskey		"C">  
 
 <!ENTITY CopyMessageId.label "წერილის კოდის კოპირება">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "წერილის გახსნა კოდისთვის">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "წერილის გახსნა კოდით">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

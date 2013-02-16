@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "წერილების ასახვის წესები">
+<!ENTITY mailViewListTitle.label "წერილების ჩვენების მორგება">
 <!ENTITY viewName.label "ჩვენების ხედის სახელი">
 

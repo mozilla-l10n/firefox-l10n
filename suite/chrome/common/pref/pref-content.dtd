@@ -6,14 +6,14 @@
 
 <!ENTITY pref.content.title                     "შიგთავსი">
 <!ENTITY pref.content.description               "ეს პარამეტრები განსაზღვრავენ თუ როგორ აისახება ვებსაიტი პროგრამაში &brandShortName;.">
-<!ENTITY siteIcons.label                        "ვებსაიტის პიქტოგრამები">
-<!ENTITY useSiteIcons.label                     "ვებსაიტის პიქტოგრამების ჩვენება">
+<!ENTITY siteIcons.label                        "ვებსაიტის ხატულები">
+<!ENTITY useSiteIcons.label                     "ვებსაიტის ხატულების ჩვენება">
 <!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY useFavIcons.label                      "ვებსაიტის პიქტოგრამების დაჯინებული ძიება როცა ისინი გვერდზე არ მითითებულა">
+<!ENTITY useFavIcons.label                      "ვებსაიტის ხატულების დაჯინებით ძიება როცა ისინი გვერდზე არ მითითებულა">
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის სარკმლის ზომაზე მორგება">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "გლუვი გადახვევის გამოყენება">
+<!ENTITY useSmoothScroll.label                  "მდორე გადახვევის გამოყენება">
 <!ENTITY useSmoothScroll.accesskey              "U">
 <!ENTITY allowHWAccel.label                     "შეძლებისდაგვარად, აპარატული დამაჩქარებლებით სარგებლობა">
 <!ENTITY allowHWAccel.accesskey                 "e">

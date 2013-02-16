@@ -19,12 +19,11 @@
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
 <!ENTITY  locbar.nothing.label          "არაფერი">
 
-
 <!ENTITY  acceptCookies.label           "ნაჭდევების მიღება საიტებიდან">
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "მესამე მხარის ნაჭდევების მიღება">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "შენახვის ვადა:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -68,11 +67,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "ყოველთვის კონფიდენციალური რეჟიმით სარგებლობა">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "ჩემი სეანსების ისტორიის დამახსოვრება">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "ჩამოტვირთვის ისტორიის დამახსოვრება">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "ჩემი სეანსების და ჩამოტვირთვების ისტორიის დამახსოვრება">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "ძიებისა და ფორმების ისტორიის დამახსოვრება">
 <!ENTITY  rememberSearchForm.accesskey   "f">

@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY webapps.title.placeholder "შეიტანეთ სათაური">
+<!ENTITY webapps.permissions "წვდომის ნებართვა:">
+<!ENTITY webapps.perm.geolocation "ადგილმდებარეობის განსაზღვრა">
+<!ENTITY webapps.perm.offline "მონაცემთა ლოკალურად შენახვა">
+<!ENTITY webapps.perm.notifications "სამუშაო დაფის გზავნილები">
+<!ENTITY webapps.perm.requestedHint "(მოთხოვნილია)">
+<!ENTITY webapps.add-homescreen "დამატება თავფურცელზე">

@@ -6,7 +6,7 @@
 
 <!ENTITY addressing.label          "წერილების შედგენა და მისამართები">
 <!ENTITY addressingGroupTitle.label "მისამართები">
-<!ENTITY autocompleteToMyDomain.label     "ჩემი დომენის ავტომატური თანდართვა მისამართებში">
+<!ENTITY autocompleteToMyDomain.label     "ჩემი დომენის ავტომატური დამატება მისამართებისთვის">
 <!ENTITY autocompleteToMyDomain.accesskey "o">
 <!ENTITY addressingText.label      "მისამართების ძებნისას:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -41,3 +41,9 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "ხელმოწერის თანდართვა გადაგზავნისას">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "შექმნის გლობალური პარამეტრები…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "დამისამართების გლობალური პარამეტრები…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

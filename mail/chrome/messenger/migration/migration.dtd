@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿
-<!ENTITY migrationWizard.title          "იმპორტის მმართველი">
+
+<!ENTITY migrationWizard.title          "იმპორტის მეგზური">
 
 <!ENTITY importFromWin.label               "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
 <!ENTITY importFromNonWin.label           "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
 
 <!ENTITY importFromNothing.label        "იმპორტის გარეშე">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x or SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ან უფრო ახალი">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

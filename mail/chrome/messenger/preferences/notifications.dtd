@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title       "ახალი წერილის შეტუობინების მორგება">
-<!ENTITY window.width                     "32em">
+<!ENTITY notificationsDialog2.title       "ახალი წერილის შეტყობინების მორგება">
+<!ENTITY window.width                     "36em">
 
 <!ENTITY alertCustomization.intro         "მიუთითეთ სასურველი ველები შეტყობინებებში საჩვენებლად:">
 <!ENTITY previewText.label                "წერილის ესკიზის ტექსტი">

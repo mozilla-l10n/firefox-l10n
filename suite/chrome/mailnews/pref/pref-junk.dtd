@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "ჯართი">
+<!ENTITY pref.junk.title "ჯართი და საეჭვო წერილები">
 <!ENTITY junkSettings.caption "ჯართის გლობალური პარამეტრები">
 <!ENTITY junkMail.intro "გადასვლა ანგარიშის პარამეტრებზე ჯართის სპეციფიური პარამეტრების მისათითებლად.">
 

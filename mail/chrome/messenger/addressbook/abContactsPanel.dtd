@@ -9,14 +9,19 @@
 <!ENTITY SearchNameOrEmail.label            "წერილის სახელი">
 
 <!ENTITY deleteAddrBookCard.label           "წაშლა">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "პარამეტრები">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "დამატება ველში">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "დამატება ასლის ველში">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "დამატება ფარული ასლის ველში">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "დამატება ველში - ვის:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "დამატება ველში - ასლი:">
-<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "ფარულ ასლებში დამატება:">
 <!ENTITY bccButton.accesskey                "B">

@@ -1,5 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -46,8 +45,7 @@
 <!ENTITY PlainText.label                "ტექსტი">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
-<!ENTITY ScreenName.label               "ეკრანული სახელი:">
-<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY chatName.label                 "ეკრანული სახელი:">
 
 <!ENTITY allowRemoteContent1.label      "გარე მონაცემების ნებართვა.">
 <!ENTITY allowRemoteContent1.accesskey   "r">
@@ -127,6 +125,25 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                      "შენიშვნები:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "სასაუბრო">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "ფოტო">
 <!ENTITY Photo.accesskey                "o">

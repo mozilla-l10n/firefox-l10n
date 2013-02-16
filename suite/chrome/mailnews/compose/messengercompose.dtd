@@ -83,6 +83,9 @@
 
 <!ENTITY returnReceiptMenu.label "მიღების დასტური">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "მიწოდების სტატუსის გზავნილი">
+<!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "ფორმატი">
 <!ENTITY outputFormatMenu.accesskey  "f">
 <!ENTITY autoFormatCmd.label "თვითამოცნობა">
@@ -119,12 +122,6 @@
 <!ENTITY stopButton.tooltip "მიმდინარე გადაცემის შეწყვეტა"> 
 
 <!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "შემოთავაზება ვერ მოიძებნა">
-<!ENTITY spellCheckIgnoreWord.label "სიტყვის გამოტოვება">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "ლექსიკონში დამატება">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-
 <!ENTITY openAttachment.label "გახსნა">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "გადარქმევა…">

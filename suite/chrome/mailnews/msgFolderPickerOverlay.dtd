@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label			"მიმდინარის ძირეულისთვის არჩევა">
-<!ENTITY filemessageschoosethis.label			"ამ დასტის არჩევა">
+<!ENTITY newfolderchoosethis.label      "არჩევა როგორც ძირეულის">
+<!ENTITY filemessageschoosethis.label   "ამ დასტის არჩევა">
+<!ENTITY recentfolders.label            "ბოლოს გახსნილები">

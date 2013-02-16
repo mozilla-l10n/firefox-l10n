@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "მრავალი პირის მომსახურების შესაძლებლობა">
+<!ENTITY identitiesListManageDesc.label "ამ ანგარიშთან დაკავშირებული ელფოსტების მართვა. ნაგულისხმებად გამოიყენება პირველი.">
 <!ENTITY identitiesListAdd.label  "დამატება…">
 <!ENTITY identitiesListAdd.accesskey  "A">
-<!ENTITY identitiesListEdit.label "რედაქტირება…">
+<!ENTITY identitiesListEdit.label "რედაქცია…">
 <!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDefault.label "ნაგულისხმები">
+<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListDelete.label "წაშლა">
 <!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "დახურვა">
+<!ENTITY identitiesListClose.accesskey "C">

@@ -16,5 +16,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "თავსართები">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "დარჩენილი თავსართების წაკითხულად მონიშვნა">
+<!ENTITY mark.label         "დანარჩენი თავსართების წაკითხულად მონიშვნა">
 <!ENTITY mark.accesskey     "M">

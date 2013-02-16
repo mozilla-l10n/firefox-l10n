@@ -8,7 +8,6 @@
 <!ENTITY     props.path.label               "გეზი:">
 <!ENTITY     props.secure.label             "დანიშნულება:">
 <!ENTITY     props.expires.label            "ვადა:">
-<!ENTITY     props.policy.label             "წესები:"> 
 
 <!ENTITY     button.allow.label             "დაშვება">
 <!ENTITY     button.allow.accesskey         "A">

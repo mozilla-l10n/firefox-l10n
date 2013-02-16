@@ -18,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "მათი მონიშვნა წაკითხულად">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "ჯართის გაფილტვრის დავთრის ჩართვა">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "ჯართის მოქნილი გაფილტვრის დავთრის ჩართვა">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "დავთრის ჩვენება">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "სწავლების მონაცემთა განულება">
@@ -61,3 +61,6 @@
 <!ENTITY showCookies.label              "ნაჭდევების ჩვენება…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "ვებსაიტებისთვის თვალთვალის მოხსნის მოთხოვნა">
+<!ENTITY doNotTrack.accesskey           "d">

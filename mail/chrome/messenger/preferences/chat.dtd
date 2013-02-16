@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "&brandShortName; პროგრამის გახსნისას:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "ჩათის ანგარიშის ამორთვა">
+<!ENTITY  startupConnectAuto.label    "ჩათის ანგარიშთან ავტომატური დაკავშირება">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "ჩემი საკონტაქტო პირებისთვის ჩემი სტატუსის შეტყობინება">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "უქმი წუთის შემდეგ">
+
+<!ENTITY  andSetStatusToAway.label      "და ჩემი სტატუსის მითითება, როგორც -გასულია-, გზავნილით:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
+
+<!ENTITY  sendTyping.label              "შეტანის სტატუსის გაზავნა დიალოგისას">
+<!ENTITY  sendTyping.accesskey          "t">

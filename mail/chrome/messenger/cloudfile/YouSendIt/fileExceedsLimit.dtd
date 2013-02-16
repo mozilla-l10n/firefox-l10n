@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsLimit.title   "YouSendIt">
+<!ENTITY fileExceedsLimit.thatsBigFile   "50 მბ-ზე დიდი ფაილების გაგზავნა მიუღებელია">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "ბრწყინვალე შესაძლებლობაა.">
+<!ENTITY fileExceedsLimit.accept "განახლება">
+<!ENTITY fileExceedsLimit.cancel "გაუქმება">
+<!ENTITY fileExceedsLimit.style "width: 50em; min-height: 20em;">
+<!ENTITY fileExceedsLimit.proIncludes "განახლება ამ ფაილის გასაგზავნად და:">
+<!ENTITY fileExceedsLimit.pros1 "2 გბ-მდე ზომის ფაილებისა და დასტების გაგზავნა">
+<!ENTITY fileExceedsLimit.pros2 "შეუზღუდავი რაოდენობის ფაილთა შენახვა">
+<!ENTITY fileExceedsLimit.pros3 "ფაილების წვდომა და გაზიარება ნებისმიერი ადგილიდან">

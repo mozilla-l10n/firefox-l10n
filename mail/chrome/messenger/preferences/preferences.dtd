@@ -4,13 +4,14 @@
 
 <!ENTITY  prefWindow.titleWin     "პარამეტრები">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; პარამეტრები">
-<!ENTITY  prefWindow.styleWindows "width: 50em; min-height: 44em;">
-<!ENTITY  prefWindow.styleMac     "width: 50em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 50em; min-height: 44em;">
+<!ENTITY  prefWindow.styleWindows "width: 56em; min-height: 40em;">
+<!ENTITY  prefWindow.styleMac     "width: 560em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 58em; min-height: 40em;">
 
 <!ENTITY paneGeneral.title        "ზოგადი">
 <!ENTITY paneDisplay.title        "ჩვენება">
 <!ENTITY paneComposition.title    "შექმნა">
+<!ENTITY paneChat.title           "ჩათი">
 <!ENTITY paneAttachments.title    "ჩანართები">
 <!ENTITY paneSecurity.title       "უსაფრთხოება">
 <!ENTITY paneAdvanced.title       "დეტალები">

@@ -5,15 +5,23 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "წიგნაკში ჩამატება…">
 <!ENTITY AddToAddressBook.accesskey        "B">
+<!ENTITY EditContact.label                 "კონტაქტის რედაქცია…">
+<!ENTITY EditContact.accesskey             "E">
+<!ENTITY ViewContact.label                 "კონტაქტის ჩვენება">
+<!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "წერილის შექმნა…">
 <!ENTITY SendMailTo.accesskey              "s">
-<!ENTITY CopyEmailAddress.label            "ელფოსტის მისამართის კოპირება">
+<!ENTITY CopyEmailAddress.label            "ელფოსტის მისამართის ასლი">
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "ფილტრის შექმნა…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY copyLinkCmd.label                 "ბმის მისამართის კოპირება">
+<!ENTITY openInBrowser.label               "გახსნა ბრაუზერში">
+<!ENTITY openInBrowser.accesskey           "O">
+<!ENTITY bookmarkLinkCmd.label             "ამ ბმის ჩანიშვნა…">
+<!ENTITY bookmarkLinkCmd.accesskey         "B">
+<!ENTITY copyLinkCmd.label                 "ბმის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey             "C">
-<!ENTITY CopyMessageId.label               "გზავნილის კოპირება კოდით (ID)">
+<!ENTITY CopyMessageId.label               "გზავნილის ასლი კოდით (ID)">
 <!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "გზავნილის გახსნა კოდით (ID)">
 <!ENTITY OpenMessageForMsgId.accesskey     "O">

@@ -7,4 +7,5 @@
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "ახლა თქვენ ხართ განახლების არხზე ">
-<!ENTITY channel.description.end    ".">
+<!ENTITY channel.description.end    " არხის განახლება.">
+<!ENTITY about.userAgent            "პროგრამა: ">

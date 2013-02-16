@@ -4,7 +4,7 @@
 
 <!ENTITY sunbird.choosedate.button.tooltip                 "სასურველი თარიღის მითითება" >
 <!ENTITY sunbird.cut.button.tooltip                        "ამოჭრა" >
-<!ENTITY sunbird.copy.button.tooltip                       "კოპირება" >
+<!ENTITY sunbird.copy.button.tooltip                       "ასლი" >
 <!ENTITY sunbird.paste.button.tooltip                      "ჩასმა" >
 <!ENTITY sunbird.print.button.tooltip                      "კალენდრის დაბეჭდვა" >
 <!ENTITY sunbird.delete.button.tooltip                     "შერჩეული მოვლენის წაშლა" >

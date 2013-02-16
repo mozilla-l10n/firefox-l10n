@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.baltic                   "ბალტიური">
 <!ENTITY  font.langGroup.el                       "ბერძნული">
 <!ENTITY  font.langGroup.turkish                  "თურქული">
-<!ENTITY  font.langGroup.unicode                  "სხვა ენები">
+<!ENTITY  font.langGroup.unicode1                 "უნიკოდი">
 <!ENTITY  font.langGroup.user-def                 "საკუთარი">
 <!ENTITY  font.langGroup.thai                     "ტაილანდური">
 <!ENTITY  font.langGroup.hebrew                   "ებრაული">

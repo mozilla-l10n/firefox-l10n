@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY doNotDownloadPop3Movemail.label "დისკზე ადგილის ეკონომიისთვის არ გადმოწერო:">
+<!ENTITY doNotDownloadPop3Movemail.label "დისკზე ადგილის ეკონომიისთვის არ გადმოწერო:">
 <!ENTITY doNotDownloadNntp.label "დისკზე ადგილის ეკონომიისთვის ნუ გადმოწერთ ავტონომიური რეჟიმისთვის:">
 <!ENTITY doNotDownloadImap.label "დისკზე ადგილის ეკონომიისთვის, სერვერიდან წერილების ჩამოტვირთვისა და ლოკალურად შენახვის შეზღუდვა შესაძლებელია ასაკით ან ზომით.">
 <!ENTITY allFoldersOffline.label "ამ ანგარიშის წერილების ამ კომპიუტერში შენარჩუნება">

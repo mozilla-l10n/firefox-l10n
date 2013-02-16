@@ -6,8 +6,8 @@
 
 <!ENTITY dialog.title "პროგრამის ჩადგმა">
 <!ENTITY dialog.style            "width: 50em">
-<!ENTITY warningPrimary.label       "ჩადგით მოდულები მხოლოდ იმ ავტორებისგან რომელთაც ენდობით.">
-<!ENTITY warningSecondary.label  "მავნე პროგრამას შეუძლია თქვენს კომპიუტერს ან კონფიდენციალობას ზიან მიაყენოს.">
+<!ENTITY warningPrimary.label    "ჩადგით მოდულები მხოლოდ იმ ავტორებისგან რომელთაც ენდობით.">
+<!ENTITY warningSecondary.label  "მავნე პროგრამას შეუძლია თქვენი კომპიუტერი დააზიანოს ან საფრთხე შეუქმნას თქვენს კონფიდენციალობას.">
 
 <!ENTITY from.label "აქედან:">
 

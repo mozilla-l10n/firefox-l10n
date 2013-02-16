@@ -34,10 +34,12 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "პარამეტრები">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "მოდულები">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "კომპიუტერის სახელი:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "მოწყობილობის სახელი:">
+<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "მოწყობილობის ამორთვა">
 
 <!-- Footer stuff -->

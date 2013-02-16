@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "წერილების შედგენა და მისამართები">
+<!ENTITY addressing.label          "წერილების შექმნა და მისამართები">
 <!ENTITY addressingGroupTitle.label "მისამართები">
 <!ENTITY addressingText.label      "მისამართების ძებნისას:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "წერილების შედგენა">
+<!ENTITY compositionGroupTitle.label "წერილების შექმნა">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "წერილების შედგენა HTML ფორმატში">
 <!ENTITY useHtml.accesskey                    "C">
@@ -36,6 +36,12 @@
 <!ENTITY belowText.label                      "ციტირების ქვემოთ (რეკომენდებულია)">
 <!ENTITY aboveText.label                      "ჩემი პასუხის ქვემოთ (ციტირების ზემოთ)">
 <!ENTITY includeSigOnReply.label              "ხელმოწერის თანდართვა პასუხებზე">
-<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "ხელმოწერის თანდართვა გადაგზავნისას">
 <!ENTITY includeSigOnForward.accesskey        "w">
+
+<!ENTITY globalComposingPrefs.label           "წერილთა შექმნის გლობალური პარამეტრები…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "დამისამართების გლობალური პარამეტრები…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

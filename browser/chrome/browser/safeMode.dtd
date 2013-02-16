@@ -2,26 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
-<!ENTITY window.width                 "45em">
+<!ENTITY safeModeDialog.title         "&brandShortName; უსაფრთხო რეჟიმი">
+<!ENTITY window.maxWidth              "540">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; უსაფრთხო რეჟიმში მუშაობს, რომლის დროსაც დროებით ამორთულია თქვენი პარამეტრები, თემები და მოდულები.">
-<!ENTITY safeModeDescription2.label   "შეგიძლიათ ყველა ეს ცვლილება მუდმივად დააფიქსიროთ:">
+<!ENTITY startSafeMode.label          "გახსბა უსაფრთხო რეჟიმში">
+<!ENTITY resetProfile.label           "&brandShortName; აღდგენა">
 
-<!ENTITY disableAddons.label          "ყველა მოდულის ამორთვა">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY safeModeDescription3.label   "უსაფრთხო რეჟიმი &brandShortName; ბრაუზერის სპეციალური რეჟიმია არსებული პრობლემების აღმოსაფხვრელად.">
+<!ENTITY safeModeDescription4.label   "თქვენი მოდულები და საკუთარი პარამეტრები დროებით ამოირთვება.">
 
-<!ENTITY resetToolbars.label          "პულტისა და კონტროლის აღდგენა">
-<!ENTITY resetToolbars.accesskey      "R">
+<!ENTITY resetProfileInstead.label    "ახლიდან დაწყების სურვილის შემთხვევაში შეგიძლიათ აღადგინოთ &brandShortName; ბრაუზერი.">
 
-<!ENTITY deleteBookmarks.label        "ყველა სანიშნის წაშლა მარქაფების გარდა">
-<!ENTITY deleteBookmarks.accesskey    "b">
-
-<!ENTITY resetUserPrefs.label         "მომხმარებლის ყველა პარამეტრის აღდგენა &brandShortName; ნაგულისხმებამდე">
-<!ENTITY resetUserPrefs.accesskey     "p">
-
-<!ENTITY restoreSearch.label          "ნაგულისხმები საძიებო სისტემების აღდგენა">
-<!ENTITY restoreSearch.accesskey      "s">
-
-<!ENTITY changeAndRestartButton.label "ცვლილებების შეტანა და ხელახლა გადატვირთვა">
-<!ENTITY continueButton.label         "გაგრძელება უსაფრთხო რეჟიმში">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; მოულოდნელად დაიხურა დაწყებისთანავე. ამის მიზეზი რომელიმე მოდული ან სხვა პრობლემა შეიძლება იყოს. ამ პრობლემის გადაწყვეტა შეგიძლიათ სცადოთ &brandShortName; ბრაუზერის აღდგენით ნაგულისხმები პარამეტრებით ან უსაფრთხო რეჟიმში.">
+<!ENTITY resetProfileFooter.label       "ყველა დანარჩენი ნაგულისხმებ მნიშვნელობამდე აღდგება.">
+<!ENTITY safeModeInstead.label          "თუ ეს არ გსურთ, შეგიძლიათ თავად სცადოთ პრობლემის გადაწყვეტის გაგრძელება უსაფრთხო რეჟიმში ამორთული მოდულებით და საკუთარი პარამეტრებით.">

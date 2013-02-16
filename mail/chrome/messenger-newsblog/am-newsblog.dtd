@@ -2,9 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
-
-<!ENTITY biffStart.label "ახალი სტატიების შემოწმება ყოველ ">
+<!ENTITY biffStart.label "Check for new articles every ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "წუთში">
 

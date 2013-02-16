@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "&brandShortName; - პარამეტრები\u2026">
+
+<!ENTITY  no_space_to_start_error "&brandShortName; ბრაუზერის გასახსნელად საკმარისი ადგილი არაა.">
+<!ENTITY  error_loading_file "შეცდომა &brandShortName; გახსნისთვის აუცილებელი ფაილის ჩატვირთვისას">
+
+<!ENTITY  crash_reporter_title "&brandShortName; შეცდომების მოპატაკე">
+<!ENTITY  crash_message "&brandShortName; ბრაუზერის მუშაობა შეწყდა. ხელახლა გახსნისას თქვენი დაფები &brandShortName; თავფურცელზე უნდა აისახოს.">
+<!ENTITY  crash_help_message "გთხოვთ დაგვეხმაროთ ამ პრობლემის აღმოფხვრაში!">
+<!ENTITY  crash_send_report_message "შეცდომის პატაკი Mozilla-ს">
+<!ENTITY  crash_include_url "გვერდის მისამართის ჩათვლით">
+<!ENTITY  crash_close_label "დახურვა">
+<!ENTITY  crash_restart_label "&brandShortName; - ხელახლა გახსნა">
+<!ENTITY  sending_crash_report "შეცდომის პატაკის გაგზავნა\u2026">
+<!ENTITY  exit_label "გამოსვლა">
+<!ENTITY  continue_label "გაგრძელება">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ვებ პროგრამები">
+<!ENTITY  launcher_shortcuts_empty "ვებ პროგრამები ვერ მოიძებნა">
+
+<!ENTITY choose_file "ფაილის შერჩევა">

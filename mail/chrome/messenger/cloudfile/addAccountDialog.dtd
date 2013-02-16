@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "გამართვა - Filelink">
+<!ENTITY addAccountDialog.menuTitle "საცავის მომსახურების შერჩევა">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "ანგარიშის სახელი:">
+<!ENTITY addAccountDialog.noAccountText "უკაცრავად, მიმდინარე &brandShortName; ვერსიისთვის დასაშვებია მხოლოდ ერთი ანგარიში თითოეული მომსახურებისთვის.">
+<!ENTITY addAccountDialog.createAccountText2 "შეგიძლიათ დიდი ზომის ჩანართების გაგზავნა ერთი ან რამდენიმე საცავის ანგარიშით. გთხოვთ გამართოთ უკვე არსებული ან შექმნათ ახალი ანგარიში.">
+<!ENTITY addAccountDialog.authorizing "ავტორიზაცია...">
+<!ENTITY addAccountDialog.error "შეცდომა ახალი ანგარიშის შექმნისას!">
+<!ENTITY addAccountDialog.acceptButton.label "ანგარიშის შექმნა">
+<!ENTITY addAccountDialog.learnMore "დაწვრილებით…">

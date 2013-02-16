@@ -2,17 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "თავფურცელი">
+<!ENTITY startup.label             "დაწყება">
 
 <!ENTITY startupPage.label         "&brandShortName; სეანსის დაწყებისას:">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "გადასვლა ჩემს საწყის გვერდზე">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის გახსნა">
-<!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და დაფების ჩვენება">
-<!ENTITY restoreOnDemand.label     "დაფების დამალვა მოთხოვნამდე">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY startupLastSession.label  "ბოლო სეანსის სარკმლებისა და დაფების ჩვენება">
 
-<!ENTITY homepage.label            "თავფურცელი გვერდი:">
+<!ENTITY homepage.label            "თავფურცლის გვერდი:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "C">
@@ -28,7 +26,7 @@
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "დახურვა ყველა ჩამოტვირთვის დასრულებისას">
 <!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "ფაილების შენახვა -">
+<!ENTITY saveTo.label "ფაილების შენახვის გეზი">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ნუსხა…">
 <!ENTITY chooseFolderWin.accesskey    "o">
@@ -36,9 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ყოველთვის დამეკითხე ფაილების შენახვის ადგილს">
 <!ENTITY alwaysAsk.accesskey "A">
-
-<!ENTITY addonsMgr.label            "მოდულები">
-<!ENTITY manageAddonsDescWin.label     "თქვენი მოდულების პარამეტრების შეცვლა.">
-<!ENTITY manageAddonsDescUnix2.label "თქვენი მოდულების პარამეტრების შეცვლა.">
-<!ENTITY manageAddons.label         "მოდულების მართვა…">
-<!ENTITY manageAddons.accesskey     "M">

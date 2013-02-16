@@ -5,18 +5,33 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "ხელმოწერები არხზე">
 <!ENTITY subscriptionDesc.label "შენიშვნა: სიახლეების არხის დასტის ამოღება ან შეცვლა ადრე ჩამოტვირთულ სტატიებს არ შეეხება.">
-<!ENTITY feedTitle.label "სათაური:">
-<!ENTITY location.label  "მისამართი:">
 
-<!ENTITY button.addFeed.label       "დამატება">
+<!ENTITY feedTitle.label             "სათაური:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "არხის URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "მიუთითეთ დასამატებელი არხის მართებული URL">
+
+<!ENTITY feedFolder.label            "სტატიების შენახვა დასტაში:">
+<!ENTITY feedFolder.accesskey        "S">
+
+<!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
+<!ENTITY quickMode.accesskey         "h">
+
+<!ENTITY locationValidate.label      "შემოწმება">
+<!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
+
+<!ENTITY button.addFeed.label        "დამატება">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "რედაქტირება">
-<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.editFeed.label      "განახლება">
+<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label "ამოღება">
 <!ENTITY button.removeFeed.accesskey   "R">
 <!ENTITY button.importOPML.label "იმპორტი">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "ექსპორტი">
 <!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი დასტების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების სიის სხაით ექსპორტისთვის">
 
 <!ENTITY cmd.close.commandKey             "w">

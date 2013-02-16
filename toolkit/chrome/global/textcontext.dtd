@@ -15,10 +15,12 @@
 <!ENTITY deleteCmd.label "წაშლა">
 <!ENTITY deleteCmd.accesskey "d">
 
-<!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
+<!ENTITY spellAddToDictionary.label "ლექსიკონში ჩამატება">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellCheckEnable.label "მართლწერის შემოწმება">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellUndoAddToDictionary.label "ლექსიკონში ჩამატების გაუქმება">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "მართლწერის შემოწმება">
+<!ENTITY spellCheckToggle.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(მართლწერის შემოთავაზებები არაა)">
 <!ENTITY spellDictionaries.label "ენები">
 <!ENTITY spellDictionaries.accesskey "l">

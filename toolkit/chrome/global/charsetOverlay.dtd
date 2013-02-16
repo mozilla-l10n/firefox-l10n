@@ -15,11 +15,9 @@
 <!ENTITY charsetMenuMore2.accesskey				"E">
 <!ENTITY charsetMenuMore3.label				"შორეულ აღმოსავლური">
 <!ENTITY charsetMenuMore3.accesskey				"A">
-<!ENTITY charsetMenuMore4.label				"ქართული და სხვა...">
+<!ENTITY charsetMenuMore4.label				"სამხრეთ აზიური">
 <!ENTITY charsetMenuMore4.accesskey				"S">
 <!ENTITY charsetMenuMore5.label				"მცირე აზიური">
 <!ENTITY charsetMenuMore5.accesskey				"M">
-<!ENTITY charsetMenuUnicode.label				"უნიკოდი">
-<!ENTITY charsetMenuUnicode.accesskey				"U">
 <!ENTITY charsetCustomize.label				"ნუსხის მორგება…">
 <!ENTITY charsetCustomize.accesskey				"c">

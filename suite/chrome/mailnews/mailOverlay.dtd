@@ -4,9 +4,11 @@
 
 
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "წერილი">
+<!ENTITY  newMessageCmd.label             "გზავნილი">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
-<!ENTITY  newContactCmd.label             "კონტაქტი…">
+<!ENTITY  newContactCmd.label             "წიგნაკის კონტაქტი…">
 <!ENTITY  newContactCmd.accesskey         "C">
  
+<!ENTITY printButton.label "ამობეჭდვა">
+<!ENTITY printButton.tooltip "ამ წერილის ამობეჭდვა">

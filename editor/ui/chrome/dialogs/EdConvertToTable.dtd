@@ -12,4 +12,4 @@
 <!ENTITY otherRadio.label      "სხვა სიმბოლო:">
 <!ENTITY deleteCharCheck.label "გამყოფი სიმბოლოს წაშლა">
 <!ENTITY collapseSpaces.label  "ზედმეტი ხარეს იგნორირება">
-<!ENTITY collapseSpaces.tooltip "რამდენიმე ხარეს ერთ გამყოფად გარდაქმნა">
+<!ENTITY collapseSpaces.tooltip "რამდენიმე შორისის ერთ გამყოფად გარდაქმნა">

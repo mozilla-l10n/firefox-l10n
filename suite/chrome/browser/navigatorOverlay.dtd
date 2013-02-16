@@ -88,7 +88,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "ძიება ინტერენტში">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "გვერდის თარგმნა">
 <!ENTITY translateMenu.accesskey "T">

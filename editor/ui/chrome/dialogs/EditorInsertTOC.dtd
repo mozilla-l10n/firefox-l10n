@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "შინაარსი">
-<!ENTITY buildToc.label      "შინაარსის შექმნა:">
+<!ENTITY buildToc.label      "შინაარსის შექმნა აქედან:">
 <!ENTITY tag.label           "ჭდე:">
 <!ENTITY class.label         "კლასი:">
 <!ENTITY header1.label       "საფეხური 1">

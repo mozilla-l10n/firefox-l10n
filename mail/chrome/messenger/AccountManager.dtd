@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- extracted from AccountManager.xul -->
+<!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "ფოსტისა და ჯგუფების ანგარიშის პარამეტრები">
 
@@ -10,6 +10,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "საფოსტო ანგარიშის დამატება…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "ჩათის ანგარიშის დამატება…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "სხვა ანგარიშის დამატება…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "მითითება როგორც ძირითადი">
@@ -26,5 +28,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 128ch; height: 64em;">
-<!ENTITY accountTree.width "width: 40ch;">
+<!ENTITY accountManager.size "width: 120ch; height: 60em;">
+<!ENTITY accountTree.width "width: 36ch;">

@@ -12,13 +12,5 @@
 <!ENTITY validation.ocsp.caption                  "ოქმი (OCSP)">
 <!ENTITY enableOCSP.label                         "სერთიფიკატების სტატუსის ოქმით (OCSP) სარგებლობა სერთიფიკატების მიმდინარე სტატუსის დასადასტურებლად">
 <!ENTITY enableOCSP.accesskey                     "U">
-<!ENTITY certOCSP2.label                          "სერთიფიკატების შემოწმება თუ იგი OCSP სერვერს იმოწმებს">
-<!ENTITY certOCSP2.accesskey                      "V">
-<!ENTITY proxyOCSP2.label                         "ყველა სერთიფიკატის შემოწმება შემდეგი OCSP სერვერის საშუალებით:">
-<!ENTITY proxyOCSP2.accesskey                     "a">
-<!ENTITY serviceURL.label                         "მომსახურების მისამართი:">
-<!ENTITY serviceURL.accesskey                     "S">
-<!ENTITY signingCA.label                          "პასუხისმგებელი ხელმომწერი:">
-<!ENTITY signingCA.accesskey                      "R">
 <!ENTITY validation.requireOCSP.description       "თუ OCSP სერვერთან კავშირი ვერ დამყარდა, სერთიფიკატის უარყოფა">
 <!ENTITY validation.requireOCSP.accesskey         "W">

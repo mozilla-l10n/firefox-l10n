@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- Entities for AccountWizard -->
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "ანგარიშის მმართველი">
 <!ENTITY accountWizard.size "width: 50em; height: 45em;">
@@ -36,22 +36,10 @@
 <!ENTITY emailLabel.label "ელფოსტა:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "სერვერის მონაცემები">
+<!ENTITY incomingTitle.label "შემომავალი სერვერის მონაცემები">
 <!ENTITY incomingServerTypeDesc.label "მიუთითეთ შემომავალი ფოსტის სერვერის ტიპი.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "მიუთითეთ სახელი თქვენი შემომავალი ფოსტის სერვერისათვის (მაგალითად, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "შემომავალი ფოსტის სერვერი:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "მიუთითეთ სახელი თქვენი ჯგუფების (NNTP) სერვერისათვის (მაგალითად, &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "მიუთითეთ სახელი თქვენი გამავალი ფოსტის (SMTP) სერვერისათვის (მაგალითად, &quot;smtp.example.net&quot;).">
-<!ENTITY smtpServerLabel.label "გამავალი ფოსტის სერვერი:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "ჯგუფების სერვერი:">
-<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,38 +48,56 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "წერილების სერვერზე დატოვება">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "პორტი:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "ნაგულისხმები:">
+<!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "მიუთითეთ შემომავალი სერვერის სახელი (მაგალითად, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "შემომავალი სერვერი:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "მიუთითეთ პროვაიდერის მიერ თქვენთვის მონიჭებული სახელი (მაგალითად, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "სახელი:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "მიუთითეთ თქვენი სიახლეთა ჯგუფის სერვერის (NNTP) სახელი (მაგალითად, &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "სიახლეთა ჯგუფის სერვერი:">
+<!ENTITY newsServerLabel.accesskey "S">
 
+<!-- Entities for Outgoing Server page -->
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!ENTITY outgoingTitle.label "გამავალი სერვერის მონაცემები">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "მიუთითეთ გამავალი სერვერის (SMTP) სახელი (მაგალითად, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "გამავალი სერვერი:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "მიუთითეთ პროვაიდერის მიერ თქვენთვის მონიჭებული სახელი (ჩვეულებრივ, იგივეა, რაც შემომავალი სერვერისთვის).">
+<!ENTITY outgoingUsername.label "სახელი:">
+<!ENTITY outgoingUsername.accesskey "U">
+
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY haveSmtp1.prefix "გამოიყენება არსებული გამავალი ფოსტის (SMTP) სერვერი - «">
-<!ENTITY haveSmtp1.suffix2 "». გამავალი სერვერის პარამეტრების შეცვლა შეცვლა შეგიძლიათ ანგარიშის პარამეტრებიდან.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "სახელები">
-<!ENTITY usernameDesc.label "მიუთითეთ ელფოსტის პროვაიდერის მიერ მონიჭებული სახელი ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(მაგალითად, &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "სახელი შემომავალი ფოსტისთვის:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "მიუთითეთ ელფოსტის პროვაიდერის მიერ მონიჭებული სახელი გამავალი ფოსტისთვის (როგორც წესი, იგივე).">
-<!ENTITY usernameSmtpLabel.label "სახელი გამავალი ფოსტისთვის:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!ENTITY modifyOutgoing.suffix "გამავალი სერვერის პარამეტრების შეცვლა შეცვლა შეგიძლიათ ანგარიშის პარამეტრებიდან.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "გამოიყენება თქვენი არსებული სახელი გამავალი ფოსტისთვის (SMTP) —  «">
-<!ENTITY haveSmtp2.suffix2 "». გამავალი სერვერის პარამეტრების შეცვლა შეცვლა შეგიძლიათ ანგარიშის პარამეტრებიდან.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp1.prefix "გამოიყენება თქვენი არსებული გამავალი ფოსტის (SMTP) სერვერი, &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "თქვენი გამავალი ფოსტის (SMTP) სერვერი —  «">
-<!ENTITY haveSmtp3.suffix2 "» შემომავალი სერვერის იდენტურია და წვდომისთვის იგივე სახელი გამოიყენება.  გამავალი სერვერის პარამეტრების შეცვლა შეცვლა შეგიძლიათ ანგარიშის პარამეტრებიდან.">
+<!ENTITY haveSmtp2.prefix "გამოიყენება  სახელი თქვენი არსებული გამავალი ფოსტისთვის (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "თქვენი გამავალი ფოსტის (SMTP) სერვერი, &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot;, შემომავალი სერვერის იდენტურია, სახელიც იგივე გამოიყენება.">
 
 <!-- Entities for Account name page -->
 

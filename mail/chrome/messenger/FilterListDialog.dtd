@@ -11,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "თავში">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "ფილტრის გადატანა, რათა იგი ყველა სხვაზე ადრე შესრულდეს">
 <!ENTITY reorderUpButton.label "აწევა">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "ჩამოწევა">
 <!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "ბოლოში">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "ფილტრის გადატანა, რათა იგი ყველა სხვაზე გვიან შესრულდეს">
 <!ENTITY filterHeader.label "ჩართული ფილტრები ავტომატურად იმოქმედებენ შემდეგი რიგით.">
 <!ENTITY filtersForPrefix.label "ფილტრები:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -31,3 +37,7 @@
 <!ENTITY helpButton.label "დახმარება">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "ფილტრის მოძიება სახელით…">
+
+
+

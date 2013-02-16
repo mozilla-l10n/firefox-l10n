@@ -29,12 +29,29 @@
 <!ENTITY systemDefaults.label            "სისტემის ნაგულისხმები">
 <!ENTITY alwaysCheckDefault.label        "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმობაზე"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "შემოწმება ახლავე">
-<!ENTITY checkNow.accesskey              "N">
-<!ENTITY submitCrashes.label             "შეცდომათა პატაკის გაგზავნა">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "წარმადობის მონაცემთა გაგზავნა">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY setDefault.label                "ნაგულისხმებად &brandShortName; ბრაუზერის მითითება">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; თქვენი ნაგუულისხმები ბრაუზერია">
+
+<!ENTITY dataChoicesTab.label            "არჩევანი">
+
+<!ENTITY healthReportSection.label       "&brandShortName; დიაგნოსტიკა">
+<!ENTITY healthReportDesc.label          "გვეხმარება განვსაზღვროთ თქვენი ბრაუზერის წარმადობა და უგზავნის შესაბამის მონაცმებს &vendorShortName;-ს">
+<!ENTITY enableHealthReport.label        "&brandShortName; დიაგნოსტიკის ჩართვა">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "ვრცლად">
+
+<!ENTITY telemetrySection.label          "ტელემეტრია">
+<!ENTITY telemetryDesc.label             "უზიარებს წარმადობის, სარგებლობის, კომპიუტერისა და საკუთარი პარამეტრების მონაცემებს &vendorShortName;-ს რათა უკეთესი გავხადოთ &brandShortName; ბრაუზერი">
+<!ENTITY enableTelemetry.label           "ტელემეტრიის ჩართვა">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "ვრცლად">
+
+<!ENTITY crashReporterSection.label      "შეცდომის პატაკი">
+<!ENTITY crashReporterDesc.label         "&brandShortName; პატაკს გაუგზავნის &vendorShortName;-ს რათა თქვენი ბრაუზერის უფრო სტაბილური და უსაფრთხო გავხადოთ">
+<!ENTITY enableCrashReporter.label       "შეცდომების პატაკის ჩართვა">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "ვრცლად">
 
 <!ENTITY networkTab.label                "ქსელი">
 
@@ -44,7 +61,9 @@
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "გარე ბუფერი">
+<!ENTITY httpCache.label                 "ინტერნეტ გვერდების ბუფერი">
+
+<!ENTITY offlineStorage2.label           "ლოკალური ინტერნეტ გვერდებისა და მონაწილის მონაცემები">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -57,6 +76,8 @@
 <!ENTITY limitCacheSizeAfter.label             "მბ-მდე გამოყენება">
 <!ENTITY clearCacheNow.label             "გასუფთავება ახლავე">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება ახლავე">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "ბუფერის თვითმართვის ჩანაცვლება">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -80,8 +101,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "თვითგანახლება:">
-<!ENTITY enableAddonsUpdate3.label       "მოდულები">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
@@ -90,7 +109,7 @@
 <!ENTITY offlineNotifyExceptions.label   "გამონაკლისები…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "მოცემულ ვებსაიტებს გააჩნიათ გარე მონაცემები:">
+<!ENTITY offlineAppsList2.label           "მოცემულ ვებსაიტებს გარე მონაცემები ლოკალურად შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

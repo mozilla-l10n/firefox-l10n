@@ -10,7 +10,7 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails                   "გამოსახულებებთან მოპყრობის წესების მითითება &brandShortName;–სთვის.">
+<!ENTITY imageDetails                   "გამოსახულებებთან მოპყრობის წესების მითითება &brandShortName;–თვის.">
 
 <!ENTITY loadAllImagesRadio.label        "ყველა გამოსახულებია ჩატვირთვა">
 <!ENTITY loadAllImagesRadio.accesskey   "L">

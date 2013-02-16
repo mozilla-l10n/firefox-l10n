@@ -27,10 +27,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "ჩამოწევა">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
-
-<!ENTITY spelling.label                                 "მართლწერა">
-<!ENTITY checkSpelling.label                            "მართლწერის შემოწმება ტექსტის შეტანისას:">
-<!ENTITY checkSpelling.accesskey                        "W">
-<!ENTITY dontCheckSpelling.label                        "არასოდეს">
-<!ENTITY multilineCheckSpelling.label                   "მრავალსტრიქონიან სარკმლებში">
-<!ENTITY alwaysCheckSpelling.label                      "ყველა სარკმელში">

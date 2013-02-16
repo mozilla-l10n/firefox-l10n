@@ -4,6 +4,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label     "ნახატისა და ბმის მისამართების შემოწმება">
-<!ENTITY succeeded.label       "წარმატებულია">
+<!ENTITY succeeded.label       "განხორციელდა">
 <!ENTITY failed.label          "ვერ მოხერხდა">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY closeButton.label     "დახურვა">

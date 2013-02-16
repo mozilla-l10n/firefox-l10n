@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "&brandShortName; პროგრამის შესახებ">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ექსპერიმენტული და შესაძლოა არასტაბილურიცაა.">
+<!ENTITY aboutPage.telemetryStart               " იგი ავტომატურად უბრუნებს ინფორმაციას წარმადობის, კომპიუტერის, მოხმარებისა და მორგების შესახებ ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;-ს">
+<!ENTITY aboutPage.telemetryEnd                 " რათა &brandShortName; უკეთესი გახდეს.">
+<!ENTITY aboutPage.faq.label                    "ფ.ა.კ.">
+<!ENTITY aboutPage.support.label                "მხარდაჭერა">
+<!ENTITY aboutPage.privacyPolicy.label          "კონფიდენციალობა">
+<!ENTITY aboutPage.rights.label                 "იცოდეთ თქვენი უფლებები">
+<!ENTITY aboutPage.relNotes.label               "ვერსიის მონაცემები">
+<!ENTITY aboutPage.credits.label                "მადლობები">
+<!ENTITY aboutPage.checkForUpdates.button       "შემოწმება სიახლეებზე">
+<!ENTITY aboutPage.checkForUpdates.checking     "განახლებების მოძიება…">
+<!ENTITY aboutPage.checkForUpdates.none         "განახლებები ვერ მოიძებნა">
+<!ENTITY aboutPage.checkForUpdates.found        "განახლება შესაძლებელია">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "ლიცენზიის შესახებ">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "დამეკითხე ყოველთვის">
 <!ENTITY permission.allow                "ნებართვა">
 <!ENTITY permission.allowForSession      "ნებართვა ამ სეანსზე">
+<!ENTITY permission.allowFirstPartyOnly  "ნებართვა მხოლოდ პირველადი წყაროსთვის">
 <!ENTITY permission.block                "დაბლოკვა">
 
 <!ENTITY password.label                  "პაროლების შენახვა">
@@ -32,8 +33,12 @@
 
 <!ENTITY geo.label                       "ადგილის გაზიარება">
 
+<!ENTITY plugins.label                   "მოდულები">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "ლოკალური საცავის მართვა">
 
-<!ENTITY popup.label                     "ჩამოშლადი სარკმლების გახსნა">
+<!ENTITY popup.label                     "Oჩამოშლადი სარკმლების გახსნა">
+
+<!ENTITY fullscreen.label                "სრული ეკრანი">

@@ -8,7 +8,7 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.preferencesLabel "კალენდარი">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "მოვლენა…">
@@ -36,31 +36,7 @@
 <!ENTITY lightning.menu.eventtask.label                "მოვლენები და ამოცანები">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label      "ფოსტა">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label  "კალენდარი">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label      "ამოცანები">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "მოვლენა">
-<!ENTITY lightning.toolbar.newtask.label      "ამოცანა">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "დღე">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "კვირა">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "მრავალი კვირა">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "თვე">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "მოვლენების ჩვენება დღის სტენდზე">
-<!ENTITY lightning.calendarproperties.showtasks.label           "ამოცანების ჩვენება დღის სტენდზე და ამოცანების რეჟიმში">
 <!ENTITY lightning.calendarproperties.email.label               "ელფოსტა:">
 
 <!-- iMIP Bar (meeting support) -->

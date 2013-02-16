@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+<!ENTITY title      "დაკავშირება">
+<!ENTITY header     "დაკავშირება გარე მოწყობილობასთან">
+<!ENTITY host       "ჰოსტი:">
+<!ENTITY port       "პორტი:">
+<!ENTITY connect    "დაკავშირება">
+<!ENTITY connecting "დაკავშირება…">
+<!ENTITY availableTabs "არსებული გარე დაფები:">
+<!ENTITY availableProcesses "შესაძლო გარე პროცესები:">
+<!ENTITY connectionError "შეცდომა:">
+<!ENTITY errorTimeout "შეცდომა: კავშირის ვადა გავიდა.">
+<!ENTITY errorRefused "შეცდომა: კავშირი უარუოფილია.">
+<!ENTITY errorUnexpected "გაუთვალისწინებელი შეცდომა.">
+<!ENTITY help "Firefox დაპროგრამების სამარჯვს შეუძლია გარე მოწყობილობის გამართვა (მაგალითად, Firefox Android და OS). გადაამოწმეთ, რომ გარე მოწყობილობაზე პარამეტრი 'Remote debugging' გართულია. დამატებითი ინფორმაციისთვის იხილეთ <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>დოკუმენტაცია</a> (ინგლისურ ენაზე).">

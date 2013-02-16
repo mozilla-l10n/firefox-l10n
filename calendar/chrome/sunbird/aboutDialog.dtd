@@ -9,7 +9,7 @@
 <!ENTITY aboutLink.label        "&lt; &brandFullName; - ინფორმაცია">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "ვერსია">
-<!ENTITY copyrightText          "&#169;1998-2009 შემმუშავებლები. ყველა უფლება
+<!ENTITY copyrightText          "&#169;1998-2010 შემმუშავებლები. ყველა უფლება
                                  დაცულია. Mozilla Sunbird, Sunbird, და
                                  Sunbird ლოგოები Mozilla ფონდის სავაჭრო ნიშნებია.
                                  ყველა უფლება დაცულია.">
@@ -22,7 +22,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>გაქართულება:</h3><ul><li>გია შერვაშიძე</li></ul>">
+<!ENTITY credit.translation "<h3>ქართული ვერსია:</h3><ul><li>გია შერვაშიძე</li><li>http://giasher.com</li></ul>">
 
 <!ENTITY credit.powered     "ძრავი">
 <!ENTITY license.and        "და">

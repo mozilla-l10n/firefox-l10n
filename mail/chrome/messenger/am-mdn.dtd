@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "მიღების დასტური">
 <!ENTITY useGlobalPrefs.label         "ამ ანგარიშისათვის ძირითადი პარამეტრების გამოყენება">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "გლობალური პარამეტრები…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "მიღების დასტურის მორგება ამ ანგარიშისათვის">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "წერილის გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა">

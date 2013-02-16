@@ -1,5 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -46,8 +45,6 @@
 <!ENTITY imagemapBox.label "ნახატის მართვა">
 <!ENTITY removeImageMapButton.label "ამოღება">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "რედაქტირება…">
-<!ENTITY editImageMapButton.tooltip "ამ ნახატისათვის დასაწკაპი დეტალის შექმნა">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "ტექსტის მიბმა ნახატზე">

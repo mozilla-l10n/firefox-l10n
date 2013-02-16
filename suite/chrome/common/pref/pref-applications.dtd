@@ -4,6 +4,7 @@
 
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
 <!ENTITY pref.applications.title        "დახმარების პროგრამები">
+
 <!ENTITY typeColumn.label        "შიგთავსის ტიპი">
 <!ENTITY typeColumn.accesskey    "T">
 

@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "YouSendIt">
+<!ENTITY fileExceedsQuota.storageLimitReached   "საცავი გადაივსო">
+<!ENTITY fileExceedsQuota.accept "განახლება">
+<!ENTITY fileExceedsQuota.cancel "გაუქმება">
+<!ENTITY fileExceedsQuota.description "2 გბ-ზე გათვალისწინებული თქვენი საცავი გადაივსო.">
+<!ENTITY fileExceedsQuota.description1 "თქვენს საცავში ახლა გამოყენებულია #XXX გბ.">
+<!ENTITY fileExceedsQuota.description2 "განაახლეთ ახლავე Pro Plus ანგარიშამდე და მიიღეთ მეტი ადგილი.">
+<!ENTITY fileExceedsQuota.description3 "ასევე, შეგიძლიათ წაშალოთ სხვა ფაილები ადგილის გამოსათავისუფლებლად.">

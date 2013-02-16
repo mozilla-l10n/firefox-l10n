@@ -20,8 +20,8 @@
 
 <!ENTITY navbarCmd.label "ნავიგაციის პულტი">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "პირადი პულტი">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "სანიშნეთა პულტი">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "სარკმლის დახურვა">
 <!ENTITY closeWindow.accesskey "W">
@@ -33,7 +33,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "მენიუს პანელი">
-<!ENTITY personalToolbar.tooltip          "პირადი პულტი">
+<!ENTITY bookmarksToolbar.tooltip         "სანიშნეთა პულტი">
 <!ENTITY navigationToolbar.tooltip        "ნავიგაციის პულტი">
 
 <!-- Toolbar items --> 

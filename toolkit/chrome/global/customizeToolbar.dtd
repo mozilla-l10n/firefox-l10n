@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "პულტის მორგება">
-<!ENTITY dialog.style "width: 680px; height: 400px;">
+<!ENTITY dialog.title             "პულტის მორგება">
+<!ENTITY dialog.dimensions        "width: 98ch; height: 36em;">
 <!ENTITY instructions.description "ელემენტების დამატება და ამოღება შეგიძლიათ პულტში ან პულტიდან მათი გადაჩოჩებით.">
 <!ENTITY show.label               "ჩვენება:">
 <!ENTITY iconsAndText.label       "ხატულები და ტექსტი">

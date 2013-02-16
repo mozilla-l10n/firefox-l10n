@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "რედაქტირება">
+<!ENTITY editMenu.label            "რედაქცია">
 <!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "დაბრუნება">
 <!ENTITY undoCmd.key               "Z">
@@ -13,7 +13,7 @@
 <!ENTITY cutCmd.label              "ამოჭრა">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "კოპირება">
+<!ENTITY copyCmd.label             "ასლი">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "c">
 <!ENTITY pasteCmd.label            "ჩასმა">

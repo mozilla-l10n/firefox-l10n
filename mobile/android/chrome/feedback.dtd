@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "უკუკავშირ">
+
+<!ENTITY feedback.communicate.title     "დაგვიკავშირდით!">
+<!ENTITY feedback.feedback.title        "გამოგვეხმაურეთ">
+<!ENTITY feedback.feedback.good         "კარგი">
+<!ENTITY feedback.feedback.bad          "ცუდი">
+
+<!ENTITY feedback.tools.title           "ხელსაწყოები">
+<!ENTITY feedback.allowTelemetry.title  "გამოგზავნეთ წარმადობის მონაცემები">
+<!ENTITY feedback.forceCompat.title     "მოდულების იძულებითი თავსებადობა">
+<!ENTITY feedback.errorConsole.title    "შეცდომების კონსოლის ჩართვა">

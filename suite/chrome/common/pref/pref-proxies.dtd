@@ -28,4 +28,4 @@
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "პროქსი არაა:">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .nekeri.net, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .giasher.com, 192.168.1.0/24">

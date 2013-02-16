@@ -3,52 +3,54 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "გამართვა - &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ყველა მოწყობილობიდან ისტორიის, სანიშნეების, პაროლებისა და ყველა გახსნილი დაფის წვდომის საშუალებას გაძლევთ.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY accountName.label            "Account Name:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ანგარიში">
+<!ENTITY accountName.label            "ანგარიშის სახელი:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
+<!ENTITY updatePass.label             "განახლება">
 <!ENTITY updatePass.accesskey         "U">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY resetPass.label              "განულება">
 <!ENTITY resetPass.accesskey          "R">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY manageAccount.label          "ანგარიშის მართვა">
+<!ENTITY manageAccount.accesskey      "M">
+<!ENTITY viewQuota.label              "ქვოტის ჩვენება">
 <!ENTITY viewQuota.accesskey          "V">
-<!ENTITY changePassword.label         "Change Password">
+<!ENTITY changePassword.label         "პაროლის შეცვლა">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY myRecoveryKey.label          "ჩემი აღდგენის კოდი">
 <!ENTITY myRecoveryKey.accesskey      "M">
-<!ENTITY resetSync.label              "Reset Sync">
+<!ENTITY resetSync.label              "რესინქრონიზაცია">
 <!ENTITY resetSync.accesskey          "R">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
-<!ENTITY deactivateDevice.accesskey   "D">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY unlinkDevice.label           "მოწყობილობის ამორთვა">
+<!ENTITY unlinkDevice.accesskey       "D">
+<!ENTITY addDevice.label              "მოწყობილობის დამატება">
 <!ENTITY addDevice.accesskey          "A">
 
 <!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.label       "კომპიუტერის სახელი:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy2.label              "Sync My:">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy2.label              "სინქრონიზაცია:">
+<!ENTITY engine.addons.label        "მოდულები">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.label          "დაფები">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "პაროლები">
 <!ENTITY engine.passwords.accesskey "w">
-<!ENTITY engine.prefs.label         "Preferences">
+<!ENTITY engine.prefs.label         "პარამეტრები">
 <!ENTITY engine.prefs.accesskey     "P">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "მომსახურების პირობები">
+<!ENTITY prefs.ppLink.label         "კონფიდენციალობა">

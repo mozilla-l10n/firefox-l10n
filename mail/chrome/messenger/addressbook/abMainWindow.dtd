@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY addressbookWindow.title                        "წიგნაკი">
+<!ENTITY addressbookWindow.title                        "წიგნაკი">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "ფაილი">
@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "ელფოსტა">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "ეკრანული სახელი">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "ეკრანული სახელი">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "ორგანიზაცია">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "მეტსახელია">
@@ -198,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "კონტაქტი">
 <!ENTITY home.heading                                   "ბინა">
 <!ENTITY other.heading                                  "სხვა">
+<!ENTITY chat.heading                                   "სასაუბრო">
 <!ENTITY phone.heading                                  "ტელეფონი">
 <!ENTITY work.heading                                   "სამსახური">
 <!-- Special Box Headings, for mailing lists -->

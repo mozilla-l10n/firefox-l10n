@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lightning.toolbar.calendar.name "კალენდრის პულტი">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
+<!ENTITY lightning.toolbar.task.name "ამოცანათა პულტი">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
+
+<!ENTITY lightning.toolbar.sync.label "სინქრონიზაცია">
+<!ENTITY lightning.toolbar.delete.label "წაშლა">
+<!ENTITY lightning.toolbar.edit.label "რედაქცია">
+<!ENTITY lightning.toolbar.gototoday.label "დღეს">
+<!ENTITY lightning.toolbar.print.label "ამობეჭდვა">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.calendar.label  "კალენდარი">
+<!ENTITY lightning.toolbar.calendar.tooltip   "გადასვლა კალენდრის დაფაზე">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "ამოცანები">
+<!ENTITY lightning.toolbar.task.tooltip       "გადასვლა ამოცანათა დაფაზე">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "მოვლენა">
+<!ENTITY lightning.toolbar.newtask.label      "ამოცანა">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "დღე">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "კვირა">
+<!ENTITY lightning.toolbar.week.accesskey            "W">
+<!ENTITY lightning.toolbar.multiweek.label           "მრავალი კვირა">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "თვე">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "გარე მენიუ">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "&brandShortName; მენიუს ჩვენება">

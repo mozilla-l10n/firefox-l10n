@@ -9,6 +9,9 @@
 <!ENTITY newsSectionHdr.label         "ჯგუფები"> 
 <!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე"> 
 
+<!ENTITY feedsSectionHdr.label        "არხები">
+<!ENTITY subscribeFeeds.label         "ხელმოწერათა მართვა">
+
 <!ENTITY accountsSectionHdr.label     "ანგარიშები"> 
 <!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
 <!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება"> 
@@ -19,6 +22,3 @@
 <!ENTITY filtersLink.label            "წერილების ფილტრები">
 <!ENTITY junkSettings.label           "ჯართის პარამეტრები">
 <!ENTITY offlineLink.label            "ავტონომიური რეჟიმის პარამეტრები">
-
-<!ENTITY feedsSectionHdr.label        "არხები">
-<!ENTITY subscribeFeeds.label         "ხელმოწერების მართვა">

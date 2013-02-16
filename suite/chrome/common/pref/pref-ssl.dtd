@@ -7,21 +7,19 @@
 <!ENTITY  SSLClientAuthMethod.caption       "კლიენტის სერთიფიკატის შერჩევა">
 
 <!ENTITY pref.ssl.title                     "ბუდის უსაფრთხო ფენა(SSL)">
-<!ENTITY enable.ssl3                        "SSL 3ვერსიის ჩართვა">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "TLS-ის ჩართვა">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY enable.ssl30.label                 "SSL 3.0-ის გააქტივება">
+<!ENTITY enable.ssl30.accesskey             "3">
+<!ENTITY enable.tls10.label                 "TLS 1.0-ის ჩართვა">
+<!ENTITY enable.tls10.accesskey             "T">
 
 <!ENTITY warn.description                   "&brandShortName; ბრაუზერს შეუძლია გაგაფრთხილოთ ვებგვერდის უსაფრთხოების სტატუსის შესახებ. ამისათვის მიუთითეთ &brandShortName;-ს გიჩვენოთ შეტყობინებები და გთხოვოთ ნებართვა:">
 <!ENTITY warn.enteringsecure                "დაშიფვრადი გვერდის ჩატვირთვა">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "მცირე სიძლიერით დაშიფვრადი გვერდის ჩატვირთვა">
-<!ENTITY warn.enteringweak.accesskey        "o">
 <!ENTITY warn.insecurepost                  "ფორმის მონაცემთა დაუშიფრავი გვერდიდან დაშიფვრად გვერდზე გაგზავნა">
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "დაშიფვრადი გვერდიდან გამოსვლა">
 <!ENTITY warn.leavingsecure.accesskey       "a">
-<!ENTITY warn.viewmixed                     "გვერდის შერეული - დაშიფრული/დაუშიფრავი ჩვენება">
+<!ENTITY warn.viewmixed                     "გვერდის შერეულად, დაშიფრული/დაუშიფრავი, ჩვენება">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
 <!ENTITY certselect.description             "მიუთითეთ როგორ შეარჩიოს &brandShortName; უსაფრთხოების სერთიფიკატები გვერდებისთვის, რომლებიც მას საჭიროებენ:">

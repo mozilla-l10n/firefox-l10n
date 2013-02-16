@@ -8,15 +8,15 @@
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "&brandShortName; სეანსის დაწყებისას გახსენი">
-<!ENTITY navCheck.label                         "ბრაუზერი">
+<!ENTITY onStartLegend.label                    "&brandShortName; სეანსის დაწყებისას">
+<!ENTITY navCheck.label                         "ბრაუზერის გახსნა">
 <!ENTITY navCheck.accesskey                     "B">
-<!ENTITY showToolsLegend.label                  "პულტების ჩვენების წესი -">
-<!ENTITY picsNtextRadio.label                   "ნახატები და ტექსტი">
+<!ENTITY showToolsLegend.label                  "პულტების ჩვენებ ">
+<!ENTITY picsNtextRadio.label                   "ხატულებით და ტექსტით">
 <!ENTITY picsNtextRadio.accesskey               "P">
-<!ENTITY picsOnlyRadio.label                    "მხოლოდ ნახატები">
+<!ENTITY picsOnlyRadio.label                    "მხოლოდ ხატულებით">
 <!ENTITY picsOnlyRadio.accesskey                "o">
-<!ENTITY textonlyRadio.label                    "მხოლოდ ტექსტი">
+<!ENTITY textonlyRadio.label                    "მხოლოდ ტექსტით">
 <!ENTITY textonlyRadio.accesskey                "x">
 <!ENTITY showHideTooltips.label                 "მინიშნებების ჩვენება">
 <!ENTITY showHideTooltips.accesskey             "T">

@@ -116,6 +116,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label		"ძიების პანელი">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY showTabsToolbarCmd.label "დაფების პულტი">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "განთავსება">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -233,6 +235,10 @@
 
 <!ENTITY findCmd.label "ძებნა ამ წერილში…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "გადასვლა">
@@ -279,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "პასუხი">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "პასუხი მხოლოდ გამომგზავნს">
-<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyListCmd.label "პასუხი სიას">
+<!ENTITY replyListCmd.accesskey "y">
 <!ENTITY replyNewsgroupCmd.label "პასუხი ჯგუფს">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replySenderCmd.label "პასუხი მხოლოდ გამომგზავნს">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "პასუხი ყველას">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -371,7 +379,7 @@
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "მისამართების ძიება…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "c">
 <!ENTITY filtersCmd.label "წერილების ფილტრები…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "დასტებისთვის გაფილტვრა">
@@ -409,7 +417,6 @@
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY undeleteButton.label "აღდგენა">
 <!ENTITY markButton.label "მონიშვნა">
-<!ENTITY printButton.label "ბეჭდვა">
 <!ENTITY stopButton.label "შეჩერება">
 <!ENTITY junkButton.label "ჯართი">
 <!ENTITY notJunkButton.label "არა ჯართი">
@@ -433,7 +440,6 @@
 <!ENTITY deleteButton.tooltip "მონიშნული წერილის ან დასტის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
-<!ENTITY printButton.tooltip "წერილის დაბეჭდვა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
 <!ENTITY throbber.tooltip "გადასვლა &vendorShortName;-ს სათაო გვერდზე">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
@@ -451,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextReplySender.label "პასუხი მხოლოდ გამომგზავნს">
 <!ENTITY contextReplySender.accesskey "O">
+<!ENTITY contextReplyList.label "პასუხი სიას">
+<!ENTITY contextReplyList.accesskey "y">
 <!ENTITY contextReplyNewsgroup.label "პასუხი ჯგუფს">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "პასუხი ყველას">
@@ -536,6 +544,7 @@
 <!ENTITY removePhishingBarButton.label "არაა შემოჭრა">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "ამ წერილის გამოგზავნი ითხოვს ამ წერილის წაკითხვის დასტურს. გნებავთ წერილის ავტორისთვის დასტურის გაგზავნა?">
 <!ENTITY mdnBarIgnoreButton.label "მოთხოვნის იგნორირება">
+<!ENTITY mdnBarIgnoreButton.accesskey "I">
 <!ENTITY mdnBarSendButton.label "დასტურის გაგზავნა">
+<!ENTITY mdnBarSendButton.accesskey "S">

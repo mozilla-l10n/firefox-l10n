@@ -1,5 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
-   - This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -29,3 +28,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "გამოქვეყნების საიტის პარამეტრები…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "ახალი">
+<!ENTITY newToolbarCmd.tooltip "ახალი გვერდის შექმნა">
+<!ENTITY openToolbarCmd.label "გახსნა">
+<!ENTITY openToolbarCmd.tooltip "ლოკალური ფაილის გახსნა">
+<!ENTITY saveToolbarCmd.tooltip "ფაილის შენახვა კომპიუტერში">
+<!ENTITY publishToolbarCmd.tooltip "ფაილის ატვირთვა გარე სერვერზე">

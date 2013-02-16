@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "სისტემური ინტეგრაცია">
+<!ENTITY acceptIntegration.label  "მითითება ნაგულისხმებად">
+<!ENTITY cancelIntegration.label  "ინტეგრაციის გამოტოვება">
 <!ENTITY defaultClient.intro  "&brandShortName; პროგრამის ნაგულისხმებ კლიენტად გამოყენება:">
 
 <!ENTITY email.label "ელფოსტა">
 <!ENTITY newsgroups.label "სიახლეთა ჯგუფები">
 <!ENTITY feeds.label "არხები">
+
+<!ENTITY unsetDefault.tooltip "შეუძლებელია ნაგულისხმების სტატუსის გაუქმება &brandShortName; პროგრამიდანვე როცა თავად &brandShortName; პროგრამა გახსნილია. ნაგულისხმებად სხვა პროგრამის მისათითებლად თავად იმ პროგრამით უნდა სცადოთ.">
 
 <!ENTITY checkOnStartup.label "ყოველთვის შემოწმება &brandShortName; პროგრამის გახსნისას">
 <!ENTITY checkOnStartup.accesskey "A">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY messengerWindow.title "ფოსტა და ჯგუფები">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -31,6 +30,10 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "არსებული საფოსტო ანგარიშები…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "სასაუბროს ანგარიში…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "შენახული წერილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ჩანართები">
@@ -95,7 +98,7 @@
 <!ENTITY deleteFolderCmd.label "დასტის წაშლა">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "ხელმოწერის გაუქმება">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "შერჩევა">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "ყველა">
@@ -249,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "ჩანართების წერილშივე ჩვენება">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label "გაზრდა">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label "შემცირება">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "განულება">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "მხოლოდ ტექსტი">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "მასშტაბი">
-<!ENTITY fullZoom.accesskey             "Z">
-
 <!ENTITY pageSourceCmd.label "წერილის დედანი">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
@@ -330,6 +306,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "უკან">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "სასაუბრო">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "დასტა">
@@ -337,6 +316,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "ეს დასტა">
 <!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "ბოლოს დახურული დაფები">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "ფოსტის საწყისი გვერდი">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -357,8 +337,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "პასუხი მხოლოდ გამომგზავნს">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "პასუხი ჯგუფს">
-<!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replyNewsgroupCmd2.label "ჯგუფის ადევნება">
+<!ENTITY replyNewsgroupCmd2.accesskey	"u">
 <!ENTITY replyToAllMsgCmd.label "პასუხი ყველას">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -472,6 +452,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "აქტიობების მართვა">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "სასაუბროს სტატუსი">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "მისაწვდომი">
+<!ENTITY imStatus.unavailable        "მიუწვდომელი">
+<!ENTITY imStatus.offline            "არაა ხაზზე">
+<!ENTITY imStatus.showAccounts       "ანგარიშების ჩვენება…">
+<!ENTITY joinChatCmd.label "შესვლა სასაუბროში…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "შენახული ფაილები">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -491,6 +479,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "კონსოლის შეცდომა">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "უახლესი ისტორიის გასუფთავება…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd.label "ანგარიშის პარამეტრები…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -507,7 +498,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "ფაილი">
 <!ENTITY archiveButton.label "არქივი">
 <!ENTITY nextButton.label "შემდეგი">
+<!ENTITY nextButtonToolbarItem.label "შემდეგი წასაკითხი">
+<!ENTITY nextMsgButton.label "შემდეგი">
 <!ENTITY previousButton.label "წინა">
+<!ENTITY previousButtonToolbarItem.label "წინა წასაკითხი">
+<!ENTITY previousMsgButton.label "წინა">
 <!ENTITY backButton1.label "უკან დაბრუნება">
 <!ENTITY goForwardButton1.label "წინ გადასვლა">
 <!ENTITY deleteItem.title "წაშლა">
@@ -521,12 +516,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "ჯართი">
 <!ENTITY notJunkButton.label "არა ჯართი">
 <!ENTITY addressBookButton.label "წიგნაკი">
+<!ENTITY chatButton.label "სასაუბრო">
 <!ENTITY glodaSearch.title "გლობალური ძიება">
 <!ENTITY searchItem.title "სწრაფი ძიება">
 <!ENTITY mailViewsToolbarItem.title "წერილებში ჩვენება">
 <!ENTITY folderLocationToolbarItem.title "დასტის მისამართი">
 <!ENTITY tagButton.label "ჭდე">
 <!ENTITY compactButton.label "შეკუმშვა">
+<!ENTITY appmenuButton.label "გარე მენიუ">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "წერილების დეტალური ძიება">
@@ -541,7 +538,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "შერჩეული წერილის შენახვა">
 <!ENTITY archiveButton.tooltip "შერჩეული წერილის დაარქივება">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
+<!ENTITY nextMsgButton.tooltip "გადასვლა შემდეგ წერილზე">
 <!ENTITY previousButton.tooltip "გადასვლა წინა წასაკითხ წერილზე">
+<!ENTITY previousMsgButton.tooltip "გადასვლა წინა წერილზე">
 <!ENTITY goForwardButton.tooltip "წინ გადასვლა ერთი წერილით">
 <!ENTITY goBackButton.tooltip "უკან დაბრუნება ერთი წერილით">
 <!ENTITY deleteButton.tooltip "მონიშნული წერილის ან დასტის წაშლა">
@@ -552,12 +551,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების არაჯართად მონიშვნა">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
+<!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების ამოღება შერჩეული დასტიდან">
+<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "ახალი წერილი">
+<!ENTITY appmenuNewContactCmd.label "კონტაქტი წიგნაკიდან…">
+<!ENTITY appmenuEditMenu.label "რედაქცია">
+<!ENTITY appmenuQFBMenu.label "სწრაფი გაფილტვრა">
+<!ENTITY appmenuToolbarLayout.label "მართვის პულტი…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ახალი ჭდე…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "ჭდეების მართვა…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "სახელი">
@@ -592,8 +602,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "ხელმოწერა…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "წერილების ძიება…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "წერილების ძიება…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "პარამეტრები…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "რჩეულების დასტა">
@@ -677,8 +687,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "პასუხი მხოლოდ გამომგზავნს">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "პასუხი ჯგუფს">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyNewsgroup2.label "ჯგუფის ადევნება">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "პასუხი ყველას">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "პასუხი ჯგუფს">
@@ -758,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "&brandShortName;-ის ვარაუდით ეს წერილი ჯართია">
+<!ENTITY junkBarMessage2.label "&brandShortName; ვარაუდობს, რომ ეს წერილი ჯართია">
 <!ENTITY junkBarButton1.label "ეს ჯართი არაა">
 <!ENTITY junkInfoButton.label "?">
 
@@ -784,28 +794,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "ყველა წერილის შერჩევა… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "ძიება… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "წიგნაკში დამატება…">
