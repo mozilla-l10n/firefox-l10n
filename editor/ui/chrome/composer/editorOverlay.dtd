@@ -70,14 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "اختر حجم الخط">
 <!ENTITY decreaseFontSize.label "أصغر">
 <!ENTITY decreaseFontSize.accesskey "ر">
-<!ENTITY decreaseFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-<!ENTITY decreaseFontSize.key2 "ج"> 
+<!ENTITY decrementFontSize.key2 "ج"> 
 <!ENTITY increaseFontSize.label "أكبر">
 <!ENTITY increaseFontSize.accesskey "ك">
-<!ENTITY increaseFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "د"> 
+<!ENTITY incrementFontSize.key2 "د"> 
 
 <!ENTITY fontSizeMenu.label "الحجم">
 <!ENTITY fontSizeMenu.accesskey "ج">

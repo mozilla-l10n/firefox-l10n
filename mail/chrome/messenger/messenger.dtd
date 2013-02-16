@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "أظهر لسان الدردشة">
 <!ENTITY tagButton.tooltip "سِمْ الرسائل">
 <!ENTITY compactButton.tooltip "أزِل الرسائل المحذوفة من المجلد المحدد">
-<!ENTITY appmenuButton.tooltip "يعرض قائمة التطبيق">
+<!ENTITY appmenuButton1.tooltip "اعرض قائمة &brandShortName;">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
