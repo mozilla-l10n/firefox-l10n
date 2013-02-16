@@ -28,7 +28,7 @@
 <!ENTITY tasksMenu.accesskey "T"> 
 
 <!ENTITY datamanCmd.label "მონაცემთა მმართველი">
-<!ENTITY datamanCmd.accesskey "M">
+<!ENTITY datamanCmd.accesskey "D">
 
 <!ENTITY passwordManagerCmd.label "პაროლების მმართველი">
 <!ENTITY passwordManagerCmd.accesskey "P">
@@ -40,7 +40,7 @@
 <!ENTITY passwordExpireCmd.accesskey "l">
 
 <!ENTITY downloadManagerCmd.label "ჩამოტვირთვის მმართველი">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "n">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "მოდულების მმართველი">

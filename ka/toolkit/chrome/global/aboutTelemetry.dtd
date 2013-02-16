@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "ტელემეტრიის მონაცემები">
+
+<!ENTITY aboutTelemetry.telemetryEnabled "
+  ტელემეტრია <span>ჩართულია</span>.
+">
+
+<!ENTITY aboutTelemetry.telemetryDisabled "
+  ტელემეტრია <span>ამორთულია</span>.
+">
+
+<!ENTITY aboutTelemetry.slowSqlSection "
+  ნელი SQL მოთხოვნები
+">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  ბრაუზერი გაშეშდა
+">
+
+<!ENTITY aboutTelemetry.histogramsSection "
+  ჰისტოგრამები
+">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  მარტივი გაზომვები
+">
+
+<!ENTITY aboutTelemetry.systemInfoSection "
+  სისტემური ინფორმაცია
+">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "
+  მოდულების შეგროვილი ჰისტოგრამები
+">
+
+<!ENTITY aboutTelemetry.toggleOn "
+  დაწკაპეთ სექციის ჩამოსაშლელად
+">
+
+<!ENTITY aboutTelemetry.toggleOff "
+  დაწკაპეთ სექციის ასაკეცად
+">
+
+<!ENTITY aboutTelemetry.emptySection "
+  (მონაცემები არ შეგროვილა)
+">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  შენიშვნა: ნელი SQL გამართვის რეჟიმი ჩაღტულია. ქვემოთ შეიძლება აისახოს სრული SQL მოთხოვნები, თუმცა ისინი ტელემეტრიას არ გადაეგზავნება.
+">
+
+<!ENTITY aboutTelemetry.fetchSymbols "
+  ფუნქციათ სახელების ჩამოტვირთვა გაშეშების მჭიდებიდან
+">
+
+<!ENTITY aboutTelemetry.hideSymbols "
+  ნედლ მონაცემთა ჩვენება გაშეშებიდან
+">

@@ -14,8 +14,8 @@
 
 <!ENTITY restorepage.tryagainButton  "აღდგენა">
 <!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "ახალი სეანსის დაწყება">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.closeButton    "დახურვა">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "აღდგენა">
 <!ENTITY restorepage.listHeader     "სარკმლები და დაფები">

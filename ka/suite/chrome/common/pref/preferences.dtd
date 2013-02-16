@@ -30,6 +30,7 @@
 <!ENTITY advance.label "დამტებით">
 <!ENTITY down.label "ჩამოტვირთვა">
 <!ENTITY cache.label "ბუფერი">
+<!ENTITY offlineApps.label "ლოკალური პროგრამა">
 <!ENTITY proxies.label "პროქსი სერვერები">
 <!ENTITY httpnetworking.label "HTTP პარამეტრები">
 <!ENTITY smart.label "პროგრამების ჩადგმა">
@@ -40,5 +41,6 @@
 <!ENTITY policies.label "უსაფრთხოების პირობები">
 <!ENTITY mousewheel.label "თაგუნას ბორბალი">
 <!ENTITY scriptsAndWindows.label "სცენარები და მოდულები">
+<!ENTITY spellingPane.label  "მართლწერა">
 
 <!ENTITY focusSearch.key "f">

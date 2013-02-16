@@ -20,27 +20,49 @@
 <!ENTITY aboutSupport.appBasicsTitle "ძირითადი მონაცემები">
 <!ENTITY aboutSupport.appBasicsName "სახელი">
 <!ENTITY aboutSupport.appBasicsVersion "ვერსია">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დასტა">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "გართული მოდულები">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "პროფილის დასტა">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ჩართული მოდულები">
 <!ENTITY aboutSupport.appBasicsBuildConfig "აგების კონფიგურაცია">
 <!ENTITY aboutSupport.appBasicsUserAgent "პროგრამა">
 <!ENTITY aboutSupport.appBasicsCrashIDs "შეცდომათა პატაკები">
 <!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერება">
 
-<!ENTITY aboutSupport.show.label "დასტის გახსნა">
-
+<!ENTITY aboutSupport.showDir.label "დასტის გახსნა">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "ჩვენება Finder-ში">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ჩვენება დასტაში">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "შეცვლილი პარამეტრებუ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "შეცვლილი პარამეტრები">
 <!ENTITY aboutSupport.modifiedPrefsName "სახელი">
 <!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js პარამეტრები">
+<!ENTITY aboutSupport.userJSDescription "თქვენი პროფილის დასტაში შეიცავს <a id='prefs-user-js-link'>user.js ფაილია</a>, რომლის პარამეტრებიც არ შექმნილა &brandShortName; ბრაუზერის მიერ.">
+
 <!ENTITY aboutSupport.graphicsTitle "გრაფიკა">
 
-<!ENTITY aboutSupport.installationHistoryTitle "გადგმის ისტორია">
-<!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "ზრდადი GC">
 
-<!ENTITY aboutSupport.copyToClipboard.label "ყველას ასლი ბუფერში">
+<!ENTITY aboutSupport.a11yTitle "მისაწვდომობა">
+<!ENTITY aboutSupport.a11yActivated "გააქტივდა">
+<!ENTITY aboutSupport.a11yForceDisabled "მისაწვდომი რეჟიმის ამორთვა">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "ბიბლიოთეკის ვერსიები">
+
+<!ENTITY aboutSupport.installationHistoryTitle "ჩადგმის ისტორია">
+<!ENTITY aboutSupport.updateHistoryTitle "ისტორიის განახლება">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ასლის ბუფერში გადატანა">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ასლის ბუფერში გადატანა">

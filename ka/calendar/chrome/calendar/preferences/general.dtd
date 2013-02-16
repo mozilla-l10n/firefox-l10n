@@ -16,3 +16,7 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "სიგნალის ნაგულისხმები სიგრძე:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "დამხმარე საშუალებები" >
+<!ENTITY pref.systemcolors.label "ფერების ოპტიმიზაცია" >
+<!ENTITY pref.systemcolors.accesskey "c">

@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label "ჩვენება:">
+<!ENTITY viewPicker.label "ხედი:">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "ყველა">
 <!ENTITY viewAll.accesskey "A">

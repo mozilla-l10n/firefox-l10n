@@ -2,42 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "პარამეტრები">
 
 <!ENTITY generalInfo.label                       "ზოგადი ინფორმაცია">
 <!ENTITY folderCharsetTab.label                  "ძირითადი ენა - კოდირება:">
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "ძირითადი პარამეტრების გამოყენება დასტის ყველა წერილისათვის (თითოეული წერილის კოდირება და თვითამოცნობა არ გათვალისწინდება)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label       "შეჯამების ფაილის ხელახლა აგება">
+<!ENTITY folderRebuildSummaryFileTip2.label      "შეჯამების ფაილის ხელახლა ინდექსაცია">
 <!ENTITY folderRebuildSummaryFile2.label         "დასტის აღდგენა">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "ზოგჯერ დასტის საძიებელი (.msf) ზიანდება და შესაძლოა ზოგი წერილი არ აისახოს ან კვლავ გამოჩნდეს წაშლილი წერილები; დასტის აღდგენამ შესაძლოა მოხსნას ეს პრობლემა.">
-<!ENTITY folderIncludeInGlobalSearch.label       "ამ დასტის წერილების გლობალური ძიების შედეგებში ასახვა">
+<!ENTITY folderRebuildSummaryFile.explanation    "ზოგჯერ დასტის ინდექსის (.msf) ფაილი ზიანდება და წერილები შესაძლოა არ აისახოს ან აისახოს წაშლილად; დასტის აღდგენამ შესაძლოა მოხსნას ეს პრობლემა.">
+<!ENTITY folderIncludeInGlobalSearch.label       "ამ დასტის წერილების გათვალისწინება გლობალური ძიების შედეგებში">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "შენარჩუნების პირობები">
-<!ENTITY retentionUseAccount.label "ჩემი ანგარიშის პარამეტრების გამოყენება">
+<!ENTITY retentionUseAccount.label  "ჩემი ანგარიშის პარამეტრების გამოყენება">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "დღე">
-<!ENTITY message.label "წერილი">
-<!ENTITY retentionCleanup.label "შენარჩუნება:">
-<!ENTITY retentionCleanupImap.label "წერილების შენარჩუნება, ლოკალური ასლებისაც და მათი დედნებისაც სერვერზე:">
-<!ENTITY retentionCleanupPop.label "წერილების შენარჩუნება, მათი დედნების ჩათვლით სერვერზე:">
+<!ENTITY message.label "წერილები">
+<!ENTITY retentionCleanup.label "დისკზე ადგილის გასათავისუფლებლად ძველი წერილების შეუქცევადი წაშლა შეგიძლიათ.">
+<!ENTITY retentionCleanupImap.label "დისკზე ადგილის გასათავისუფლებლად შესაძლებელია ძველი გზავნილების შეუქცევადად წაშლა ორივეგან - ადგილობრივად და დაშორებულ სერვერზე.">
+<!ENTITY retentionCleanupPop.label "დისკზე ადგილის გასათავისუფლებლად შესაძლებელია ძველი გზავნილების შეუქცევადად წაშლა ადგილობრივად და დაშორებულ სერვერზეც.">
 <!ENTITY retentionDeleteMsg.label "წერილების წაშლა რომელთა ასაკიც მეტია ვიდრე">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "წერილების არ წაშლა">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "უახლესი">
-<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionKeepRecent.label "ყველას წაშლა უახლესების გარდა">
+<!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "წაკითხული წერილების ყოველთვის წაშლა (ასაკის მიუხედავად)">
-<!ENTITY retentionApplyToFlagged.label "ალმიანი წერილების ყოველთვის შენარჩუნება">
+<!ENTITY retentionKeepUnreadHidden.label "წაკითხული წერილების ყოველთვის წაშლა (გადაეწერება ასაკის პარამეტრებს)">
+<!ENTITY retentionApplyToFlagged.label "ვარსკვლავიანი გზავნილების შენარჩუნება">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "სინქრონიზაცია">
-<!ENTITY folderCheckForNewMessages2.label         "ამ ანგარიშზე ახალი წერილების მიღებისას ყოველთვის ამ დასტის შემოწმება">
-<!ENTITY folderCheckForNewMessages2.accesskey    "c">
+<!ENTITY folderCheckForNewMessages2.label        "ამ დასტის ახალ წერილებზე შემოწმება">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "დასტის არჩევა ავტონომიური მოხმარებისათვის">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "ქვოტა:">
 <!ENTITY folderQuotaUsage.label                  "გამოყენება:">
 <!ENTITY folderQuotaStatus.label                 "სტატუსი:">
+
+<!ENTITY numberOfMessages.label                  "წერილთა რაოდენობა:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "უცნობია">
+<!ENTITY sizeOnDisk.label                        "ადგილი დისკზე:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "უცნობია">

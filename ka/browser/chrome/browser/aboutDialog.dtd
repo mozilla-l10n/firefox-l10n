@@ -1,4 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title      "&brandFullName; ბრაუზერის შესახებ">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; საცდელი ვერსია და შესაძლოა არასტაბილური იყოს.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "ავტომატურად გაუგზავნის გამოცდის მონაცმებს &vendorShortName;-ს, რათა &brandShortName; კიდევ უფრო დასახვეწად.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " გახლავთ ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "გლობალური საზოგადოება">
+<!ENTITY community.exp.end          ", რომელიც ერთად მუშაობს იმისათვის, რომ ინტერნეტი ყველასთვის მიმზიდველი და მისაწვდომი გახდეს.">
 
 <!ENTITY community.start2           "&brandShortName; შექმნილია ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,9 +23,9 @@
 <!ENTITY community.middle2          ", - ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "გლობალური საზოგადოების მიერ">
-<!ENTITY community.end2             " , რომლის მიზანიც ინტერნეტის გაუმჯობესებაა. ჩვენ გვჯერა, რომ ინტერნეტი უნდა იყოს ღია, საზოგადო და ყველასთვის მისაწვდომი ყოვლეგვარი შეზღუდვის გარეშე.">
+<!ENTITY community.end3             " , რომლის მიზანია ინტერნეტი იყოს ყველასთვის ღია და მისაწვდომი.">
 
-<!ENTITY contribute.start           "საინტერესოდ ჟღერს? ">
+<!ENTITY contribute.start           "დაგაინტერესათ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "შემოგვიერთდით!">
 <!ENTITY contribute.end             "">
@@ -54,6 +71,8 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "განახლების ჩამოტვირთვა — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "განახლების ჩადგმა…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

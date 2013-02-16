@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY event.title.label                  "ელემენტის რედაქტირება" >
+<!ENTITY event.title.label                  "ელემენტის რედაქცია" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "ამ ხანგრძლიობის შენარჩუნება მოვლენის დასრულების შემდეგ">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
@@ -69,7 +69,7 @@
 <!ENTITY  event.menu.item.print.label                     "დაბეჭდვა">
 <!ENTITY  event.menu.item.print.accesskey                 "P">
 
-<!ENTITY  event.menu.edit.label                           "რედაქტირება">
+<!ENTITY  event.menu.edit.label                           "რედაქცია">
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "დაბრუნება">
 <!ENTITY  event.menu.edit.undo.accesskey                  "U">
@@ -97,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                        "პარამეტრები">
 <!ENTITY  event.menu.options.accesskey                    "O">
-<!ENTITY  event.menu.options.attachments.label                "ვებგვერდის თანდართვა…">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label              "დამსწრეთა მოწვევა…">
 <!ENTITY  event.menu.options.attendees.accesskey          "I">
 <!ENTITY  event.menu.options.spellcheck.label             "მართლწერის შემოწმება…">
@@ -107,8 +105,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey  "S">
 <!ENTITY  event.menu.options.link.label                   "ბმის დამატება…">
 <!ENTITY  event.menu.options.link.accesskey               "L">
-<!ENTITY  event.menu.options.timezone.label               "საათობრივი ზონა">
-<!ENTITY  event.menu.options.timezone.accesskey           "z">
+<!ENTITY  event.menu.options.timezone2.label               "საათობრივი ზონები">
+<!ENTITY  event.menu.options.timezone2.accesskey           "z">
 <!ENTITY  event.menu.options.priority2.label                  "პრიორიტეტი">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "არ მითითებულა">
@@ -147,11 +145,10 @@
 <!ENTITY  event.toolbar.attendees.label                   "დამსწრეთა მოწვევა">
 <!ENTITY  event.toolbar.spellcheck.label                  "მართლწერა">
 <!ENTITY  event.toolbar.privacy.label                     "კონფიდენციალობა">
-<!ENTITY  event.toolbar.attachments.label                 "თანდართვა">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "სათაური:" >
-<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.title.textbox.accesskey                    "I">
 <!ENTITY event.location.label                             "ადგილი:" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "კატეგორია:">
@@ -180,6 +177,10 @@
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "დანართები:" >
 <!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "თანდართვა">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "ვებგვერდი…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "ამოღება" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "გახსნა" >
@@ -207,7 +208,7 @@
 <!ENTITY event.reminder.multiple.label                    "მრავალჯერადი შეხსენებები…" >
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "გამეორების რედაქტირება">
+<!ENTITY recurrence.title.label                         "გამეორების რედაქცია">
 
 <!ENTITY event.repeat.does.not.repeat.label             "გამეორების გარეშე">
 <!ENTITY event.repeat.daily.label                       "ყოვლ დღეს">
@@ -319,20 +320,23 @@
 <!ENTITY event.freebusy.next.slot        "შემდეგი სარკმელი " >
 <!ENTITY event.freebusy.previous.slot    " წინა სარკმელი" >
 <!ENTITY event.freebusy.zoom             "მასშტაბი:">
-<!ENTITY event.freebusy.plus             "შემდეგი საათი" >
-<!ENTITY event.freebusy.minus            "წინა საათი" >
 <!ENTITY event.freebusy.legend.free      "თავისუფალია" >
 <!ENTITY event.freebusy.legend.busy      "დაკავებულია" >
 <!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
 <!ENTITY event.freebusy.legend.busy_unavailable "ოფისის გარეთ" >
 <!ENTITY event.freebusy.legend.unknown   "ინფორმაცია არაა" >
-<!ENTITY event.attendee.role.required           "აუცილებელი დამსწრე">
-<!ENTITY event.attendee.role.optional           "არააუცილებელი დამსწრე">
+<!ENTITY event.attendee.role.required           "სავალდებულო დამსწრე">
+<!ENTITY event.attendee.role.optional           "არასავალდებულო დამსწრე">
 <!ENTITY event.attendee.role.chair              "ორგანიზატორი">
 <!ENTITY event.attendee.role.nonparticipant     "სტუმარი">
+<!ENTITY event.attendee.usertype.individual     "ინდივიდი">
+<!ENTITY event.attendee.usertype.group          "ჯგუფი">
+<!ENTITY event.attendee.usertype.resource       "რესურსი">
+<!ENTITY event.attendee.usertype.room           "ოთახი">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "გთხოვთ მიუთითოთ საათობრივი ზონა">
+<!ENTITY event.timezone.custom.label     "სხვა საათობრივი ზონები…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ზოგადი">

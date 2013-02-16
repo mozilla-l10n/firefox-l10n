@@ -6,8 +6,8 @@
 
 <!ENTITY enter.label "მიუთითეთ ვებ მისამართი (URL) ან ადგილობრივი ფაილი, რომლის გახსნაც გსურთ:">  
 <!ENTITY chooseFile.label "ფაილის არჩევა…">
-<!ENTITY newWindow.label "ახალი ფანჯარა">
 <!ENTITY newTab.label "ახალი დაფა">
+<!ENTITY newWindow.label "ახალი სარკმელი">
 <!ENTITY topTab.label "აქტიური დაფა">
 <!ENTITY caption.label "ვებ მისამართის გახსნა">
 <!ENTITY openWhere.label "გახსნა აქ:">

@@ -21,8 +21,12 @@
 <!ENTITY allowContextmenuDisable.label   "კონტექსტური მენიუს გამორთვა ან შეცვლა">
 <!ENTITY allowHideStatusBar.label        "სტატუსის პანელის დამალვა">
 
-<!ENTITY enablePlugin.label              "მოდულების გააქტივება">
+<!ENTITY enablePlugins.label             "მოდულების გააქტივება">
+<!ENTITY enablePluginForSuite.label      "სრული პაკეტისთვის">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPluginsRequired.label       "დამატებითი მოდულების საჭიროებისას">
-<!ENTITY displayNotification.label       "შეტყობინების პანელის ჩვენება შიგთავსის არის ზემოთ">
-<!ENTITY displayNotification.accesskey   "N">
+<!ENTITY whenPageRequiresPlugins.label   "გვერდისთვის მოდულების საჭიროებისას">
+<!ENTITY activateAllPlugins.label        "ყველა მოდულის ნაგულისხმებად გააქტივება">
+<!ENTITY activateAllPlugins.accesskey    "d">
+<!ENTITY warnPluginsRequired.label       "გაფრთხილება, თუ ახალი მოდულის ჩადგმაა საჭირო">
+<!ENTITY warnPluginsRequired.accesskey   "W">

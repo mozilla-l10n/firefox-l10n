@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY prefsHeader.label                         "პარამეტრები">
+<!ENTITY about.title                               "&brandShortName; მონაცემები">
+<!ENTITY about.button                              "გადასვლა გვერდზე">
+<!ENTITY content.title                             "შიგთავსი">
+<!ENTITY reflowZoom.title                          "ტექსტი ეკრანის სიგანეზე">
+<!ENTITY showImages.title                          "გამოსახულებათა ჩვენება">
+<!ENTITY enableJavaScript.title                    "JavaScript-ის ჩართვა">
+<!ENTITY privacy.title                             "კონფიდენციალობა და უსაფრთხოება">
+<!ENTITY allowCookies.title                        "ნაჭდევების მიღება">
+<!ENTITY doNotTrack.title                          "საიტებისთვის თხოვნა არ მითვალთვალონ">
+<!ENTITY masterPassword.title                      "ძირითადი პაროლის გამოყენება">
+<!ENTITY clearPrivateData2.title                   "პირად მონაცემთა გასუფთავება">
+<!ENTITY clearPrivateData.button                   "გასუფთავება">
+<!ENTITY rememberPasswords.title                   "პაროლების შენახვა">
+<!ENTITY language.title                            "ენა">
+<!ENTITY language.auto                             "თვითამოცნობა">
+<!ENTITY defaultBrowser.title                      "ნაგულისხმები ბრაუზერი">
+<!ENTITY defaultBrowser.description                "&brandShortName; ბრაუზერის ნაგულისხმებად მითითება">
+<!ENTITY homepage.title                            "თავფურცელი">
+<!ENTITY homepage.none                             "ცარიელი გვერდი">
+<!ENTITY homepage.default                          "&brandShortName; ტავფურცელი">
+<!ENTITY homepage.currentpage                      "მიმდინარე გვერდის გამოყენება">
+<!ENTITY showCharsetEncoding.title                 "სიმბოლოთა კოდირების ჩვენება">
+<!ENTITY actionbar.default                         "&brandShortName; პარამეტრები">

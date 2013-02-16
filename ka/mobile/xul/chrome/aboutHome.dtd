@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>თავფურცელი</span>">
+<!ENTITY aboutHome.recentTabs                   "თქვენი ბოლოს გახსნილი დაფები">
+<!ENTITY aboutHome.remoteTabs                   "დაფები თქვენი სხვა კომპიუტერებიდან">
+<!ENTITY aboutHome.recommendedAddons2           "თქვენი &brandShortName; მოდულები">
+<!ENTITY aboutHome.giveFeedback                 "გამოგვეხმაურეთ">
+<!ENTITY aboutHome.getHelp                      "მიიღეთ დახმარება">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "ყველას დაფებზე გახსნა">
+<!ENTITY aboutHome.noTabs                       "წინა სეანსიდან დაფები ვერ მოიძებნა">
+<!ENTITY aboutHome.noAddons                     "რეკომენდებული მოდულები არაა">
+<!ENTITY aboutHome.getLocale                    "ენის შეცვლა">
+<!ENTITY aboutHome.getInBeforeBeta              "ნუ დაელოდებით ბეტა ვერსიას.">
+<!ENTITY aboutHome.tryAurora                    "სცადეთ Firefox Aurora და დაგვეხმარეთ შევქმნათ მომავალი Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Aurora-ს ჩამოტვირთვა">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"Android-ისთვის">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "სინქრონიზაცია">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "შეწყვილება">

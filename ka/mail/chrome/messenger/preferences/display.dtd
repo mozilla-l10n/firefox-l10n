@@ -12,7 +12,7 @@
 <!ENTITY italic.label                     "კურსივი">
 <!ENTITY boldItalic.label                 "მუქი კურსივი">
 <!ENTITY size.label                       "ზომა:">
-<!ENTITY size.accesskey                   "s">
+<!ENTITY size.accesskey                   "z">
 <!ENTITY regularSize.label                "ჩვეულებრივი">
 <!ENTITY bigger.label                     "მოზრდილი">
 <!ENTITY smaller.label                    "მომცრო">
@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "მიმიკების გრაფიკულად ჩვენება">
-<!ENTITY convertEmoticons.accesskey    "D">
+<!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label    "ჭდეები გამოიყენება თქვენი წერილების კატეგორიზებისა და პრიორიტეტიზებისთვის.">

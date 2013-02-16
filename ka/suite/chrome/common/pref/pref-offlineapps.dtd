@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/pref-offlineapps.xul -->
+
+<!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "ლოკალური ვებ პროგრამა">
+<!ENTITY pref.offlineCache.caption          "ლოკალური მასალა და საკუთარი მონაცემები ">
+
+<!ENTITY clearOfflineAppCache.label         "გასუფთავება">
+<!ENTITY clearOfflineAppCache.accesskey     "C">
+
+<!ENTITY offlineNotify.label                "გაფრთხილება, როცა ვებსაიტი მონაცემთა ლოკალურად შენახვას ცდილობა.">
+<!ENTITY offlineNotify.accesskey            "N">
+<!ENTITY offlineNotifyPermissions.label     "უფლებების მართვა">
+<!ENTITY offlineNotifyPermissions.accesskey "P">
+
+<!ENTITY offlineAppsList.label              "შემდეგ ვებსაიტებს მონაცემთა ლოკალურად შენახვას უფლება გააჩნია:">
+<!ENTITY offlineAppsListRemove.label        "მონაცემთა გასუფთავება…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">

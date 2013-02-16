@@ -22,9 +22,9 @@
 <!ENTITY calendar.subscribe.label               "ხელმოწერა გარე კალენდარზე">
 <!ENTITY calendar.subscribe.accesskey           "R">
 
-<!ENTITY calendar.reloadserver.label            "გარე კალენდრების განახლება">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "R">
+<!ENTITY calendar.synccalendars.label                      "კალენდრების სინქრონიზაცია">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label        "კალენდრის გამოქვეყნება…">
 <!ENTITY calendar.publish.calendar.accesskey    "b">
@@ -51,7 +51,7 @@
 <!ENTITY calendar.cut.key                       "X">
 <!ENTITY calendar.cut.accesskey                 "t">
 
-<!ENTITY calendar.copy.label                    "კოპირება">
+<!ENTITY calendar.copy.label                    "ასლი">
 <!ENTITY calendar.copy.key                      "C">
 <!ENTITY calendar.copy.accesskey                "C">
 

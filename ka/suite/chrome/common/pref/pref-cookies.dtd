@@ -1,6 +1,6 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 <!ENTITY pref.cookies.title             "ნაჭდევები">
 
@@ -29,7 +29,7 @@
 <!ENTITY acceptforNDays.accesskey       "f">
 <!ENTITY days.label                     "დღე">
 
-<!ENTITY warnAboutCookies.label         "თანხმობა ნაჭდევების მიღებაზე">
+<!ENTITY warnAboutCookies.label         "თანხმობის მოთხოვნა თითოეულ ნაჭდევზე">
 <!ENTITY warnAboutCookies.accesskey     "A">
 <!ENTITY forCurrentSession.label        "გარდა სეანსის ნაჭდევებისა">
 <!ENTITY forCurrentSession.accesskey    "e">

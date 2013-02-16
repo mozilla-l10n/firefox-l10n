@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "ფილტრის წესები">
-<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "ფილტრის სახელი:">
 <!ENTITY filterName.accesskey "i">
 
@@ -16,23 +16,24 @@
 <!ENTITY highPriorityCmd.label "მაღალი">
 <!ENTITY highestPriorityCmd.label "უმაღლესი">
 
-<!ENTITY contextDesc.label "ფილტრის გამოყენება:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "ფოსტის შემოწმებისას">
+<!ENTITY contextDesc.label "ფილტრებით სარგებლობა:">
+<!ENTITY contextIncomingMail.label "ახალი ფოსტის მიღებისას">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "ხელით შესრულებისას">
-<!ENTITY contextBoth.label "ფოსტის შემოწმების ან ხელით შესრულებისას">
-<!ENTITY contextPostPlugin.label "ფოსტის შემოწმებისას (კლასიფიკაციის შემდეგ)">
-<!ENTITY contextPostPluginBoth.label "ფოსტის შემოწმებისას (კლასიფიკაციის შემდეგ) ან ხელით შესრულებისას">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "გაფილტვრა კლასიფიკაციამდე">
+<!ENTITY contextAfterCls.label "გაფილტვრა კლასიფიკაციის შემდეგ">
 
-<!ENTITY filterActionDesc.label "ამ ქმედებების შესრულება:">
+<!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "P">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "წერილის გადატანა -">
-<!ENTITY copyMessage.label "ერილის კოპირება -">
-<!ENTITY forwardTo.label "ერილის გადაგზავნა -">
+<!ENTITY copyMessage.label "წერილის კოპირება -">
+<!ENTITY forwardTo.label "წერილის გადაგზავნა -">
 <!ENTITY replyWithTemplate.label "პასუხი თარგით">
 <!ENTITY markMessageRead.label "მონიშვნა წაკითხულად">
+<!ENTITY markMessageUnread.label "მონიშვნა წასაკითხად">
 <!ENTITY markMessageStarred.label "მონიშვნა ალმით">
 <!ENTITY setPriority.label "პრიორიტეტის მითითება -">
 <!ENTITY addTag.label "წერილის დაჭდევება">
@@ -41,6 +42,16 @@
 <!ENTITY deleteFromPOP.label "წაშლა POP სერვერიდან">
 <!ENTITY fetchFromPOP.label "მიღება POP სერვერიდან">
 <!ENTITY ignoreThread.label "საქაღალდის იგნორირება">
-<!ENTITY ignoreSubthread.label "ქვესაქაღალდის იგნორირება">
+<!ENTITY ignoreSubthread.label "ქვეთემის იგნორირება">
 <!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
 <!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">
+
+<!ENTITY addAction.tooltip "ახალი ქმედების დამატება">
+<!ENTITY removeAction.tooltip "ამ ქმედების ამოღება">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

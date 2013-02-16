@@ -8,11 +8,14 @@
 <!ENTITY warnCloseMultipleTabs.label  "გაფრთხილება მრავალი დაფის დახურვისას">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "გაფრთხილება თუ მრავალი დაფის გახსნამ შესაძლოა &brandShortName; შეანელოს">
+<!ENTITY warnOpenManyTabs.label       "გაფრთხილება თუ მრავალი დაფის გახსნამ შესაძლოა შეანელოს &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
 <!ENTITY showTabBar.label             "დაფების ზოლის ყოველთვის ჩვენება">
 <!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY restoreTabsOnDemand.label        "არ ჩაიტვირთოს დაფები მოთხოვნამდე">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "ბმის ახალ დაფაზე გახსნისას მასზე დაუყოვნებლივ გადასვლა">
 <!ENTITY switchToNewTabs.accesskey    "s">

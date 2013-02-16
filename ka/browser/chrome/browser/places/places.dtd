@@ -18,19 +18,14 @@
 <!ENTITY views.tooltip                  "ჩვენების სქემა">
 <!ENTITY view.columns.label             "სვეტების ჩვენება">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "სორტირება">
+<!ENTITY view.sort.label                "დახარისხება">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "უწესრიგოდ">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "ა > ჰ სორტირება">
+<!ENTITY view.sortAscending.label       "ა > ჰ დალაგება">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "ჰ > ა სორტირება">
+<!ENTITY view.sortDescending.label      "ჰ > ა დალაგება">
 <!ENTITY view.sortDescending.accesskey  "Z">
-
-<!ENTITY cmd.findInBookmarks.label      "ძებნა სანიშნეებში/ისტორიაში…">
-<!ENTITY cmd.findInBookmarks.accesskey  "F">
-<!ENTITY cmd.findCurrent.label          "ძებნა მიმდინარე კოლექციაში…">
-<!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY importBookmarksFromHTML.label     "სანიშნეების იმპორტი HTML ფაილიდან…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
@@ -95,18 +90,6 @@
 
 <!ENTITY search.label                              "ძიება:">
 <!ENTITY search.accesskey                          "S">
-
-<!ENTITY search.in.label                           "ძიება აქ:">
-<!ENTITY search.scopeFolder.label                  "მონიშნული დასტა">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "სანიშნეები">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "ჩამოტვირთვები">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "ისტორია">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "შენახვა">
-<!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">
 

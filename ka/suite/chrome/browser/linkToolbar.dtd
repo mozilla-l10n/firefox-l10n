@@ -5,6 +5,7 @@
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "საიტის ნავიგაციის პანელი">
 <!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.tooltip "საიტის ნავიგაციის პანელი">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "აჩვენე ყოველთვის">

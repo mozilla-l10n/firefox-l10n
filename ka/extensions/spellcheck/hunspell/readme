@@ -1,6 +1,7 @@
-This are en-US and is NOT ka (Georgian) spellcheck files indeed
-included for 2 main purposes only:
-1. There is no spellcheck dictionaries for Georgian yet 
-   and it'll give at least English spellcheck possibility
-2. That could be useful to resolve some error in builds (e.g. Seamonkey)
+These are en-US and is NOT ka (Georgian) spellcheck files indeed
+included for some purposes:
+
+- there are no hunspell dictionaries for Georgian yet
+- could be useful to resolve some error in builds
+- would be useful for English spellchecking at least
  

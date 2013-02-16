@@ -8,7 +8,7 @@
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "გვერდი:">
 <!ENTITY page.accesskey       "a">
-<!ENTITY of.label             "of">
+<!ENTITY of.label             ", სულ">
 <!ENTITY scale.label          "მასშტაბი:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "პორტრეტი">

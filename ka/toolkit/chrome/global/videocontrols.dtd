@@ -6,6 +6,8 @@
 <!ENTITY playButton.pauseLabel "პაუზა">
 <!ENTITY muteButton.muteLabel "ხმის ამორთვა">
 <!ENTITY muteButton.unmuteLabel "ხმის ჩართვა">
+<!ENTITY fullscreenButton.enterfullscreenlabel "სრული ეკრანი">
+<!ENTITY fullscreenButton.exitfullscreenlabel "გამოსვლა სრული ეკრანიდან">
 
 <!ENTITY stats.media "მედია">
 <!ENTITY stats.size "ზომა">
@@ -21,6 +23,13 @@
 <!ENTITY stats.framesDecoded "გარდაქმნილი კადრები">
 <!ENTITY stats.framesPresented "წარმოდგენილი კადრები">
 <!ENTITY stats.framesPainted "ასახული კადრები">
+
+<!ENTITY error.aborted "ვიდეოს ჩატვირთვა შეწყდა.">
+<!ENTITY error.network "ვიდეოს ჩვენება შეწყდა ქსელის შეცდომის გამო.">
+<!ENTITY error.decode "ვიდეოს გახსნა ვერ ხერხდება, რადგან ფაილი დაზიანებულია.">
+<!ENTITY error.srcNotSupported "ვიდეოს ფორმატი ან MIME ტიპი მიუღებელია.">
+<!ENTITY error.noSource2 "ვიდეო მისაღები ფორმატით ან MIME ტიპით ვერ მოიძებნა.">
+<!ENTITY error.generic "ვიდეოს ჩვენება შეწყდა გაურკვეველი შეცდომის გამო.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "ამ გზავნილის დახურვა">
 
 <!ENTITY closeNotificationItem.label "არა ახლა">
+
+<!ENTITY checkForUpdates "შემოწმება განახლებებზე…">

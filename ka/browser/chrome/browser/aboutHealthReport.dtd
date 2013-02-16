@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY abouthealth.locale-direction "ltr">
+
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "&brandShortName; დიაგნოსტიკა">
+<!ENTITY abouthealth.header "&brandFullName; დიაგნოსტიკა">
+
+<!ENTITY abouthealth.intro.title "რა არის &brandShortName; დიაგნოსტიკა?">
+
+<!ENTITY abouthealth.intro-enabled "&brandFullName; ბრაუზერი შეაგროვებს ზოგ მონაცემს რათა უზრუნველყოს უკეთესი წარმადობა კონკრეტულად თქვენი კომპიუტერისთვის.">
+<!ENTITY abouthealth.intro-disabled "ამ დროისთვის თქვენ არ უგზავნით მონაცმებს &vendorShortName;-ს. შეგიძლიათ დაგვეხმაროთ რათა &brandShortName; ბრაუზერი უკეთესი გახდეს. დაწკაპეთ ღილაკი &quot;&abouthealth.optin;&quot;.">
+
+<!ENTITY abouthealth.optin "დაგვეხმარეთ უკეთესი გავხადოთ &brandShortName; ბრაუზერი">
+<!ENTITY abouthealth.optout "პატაკის ამორთვა">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "შევწყვიტო მონაცემთა გაგზავნა">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "ნამდვილად გსურთ თქვენი ყველა ანონიმური მონაცემის წაშლა &vendorShortName;-ს სერვერებიდან?">
+
+<!ENTITY abouthealth.show-raw-data "დეტალების ჩვენება">
+<!ENTITY abouthealth.hide-raw-data "დეტალების დამალვა">
+
+<!ENTITY abouthealth.show-report "&brandShortName; პატაკის ჩვენება">
+
+<!ENTITY abouthealth.details.description-start "ეს &brandFullName;-ს გამოგზავნილი მონაცემებია &brandShortName; დიაგნოსტიკისთვის.   შეგიძლიათ ">
+<!ENTITY abouthealth.details-link "გაეცნოთ დოკუმენტაციას">
+<!ENTITY abouthealth.details.description-end " იმის შესახებ თუ რა მონაცმები გროვდება და იგზავნება.">
+<!ENTITY abouthealth.no-data-available "ადრეული მონაცემები ვერ მოიძებნა. გთხოვთ სცადოთ მოგვიანებით.">

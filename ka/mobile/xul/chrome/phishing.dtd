@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.warning.title "ეჭვი ვებ ყალთაბანდობაზე">
+
+<!ENTITY safeb.palm.message.p1 "ეს გვერდი ცნობილია როგორც ვებ ყალთაბანდი და რომ იგი შექმნილია მომხმარებელთაგან პირადი და ფინანსური ინფორმაციის გამოსატყუებლად. ამ გვერდზე პირადი მონაცემების შეტანას შესაძლოა თქვენი პირადი მონაცემების ბოორტად გამოყენება მოჰყვეს. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "დაწვრილებით - &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "დაწვრილებით - &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "ასეთი ტიპის ყალთაბანდური გვერდები თავსმოხვევის ტაქტიკას ირჩევენ, რომელიც ანკესობის სახელითაა ცნობილი.  ამ დროს იქმნება მავნე ვებ გვერდები და ელფოსტის წერილები რომლებშიც თითქოსდა სანდო და კანონიერი წყაროა განთავსებული. აქ შეგიძლიათ იხილოთ ">
+<!ENTITY safeb.palm.message.p2.linkText "როგორ გიცავთ &brandShortName;">
+<!ENTITY safeb.palm.message.p2.end " ანკესობის შეტევებისგან.">
+
+<!ENTITY safeb.palm.accept.label "გამიყვანეთ აქედან!">
+<!ENTITY safeb.palm.accept.statustext "გადასვლა ჩემს სათაო გვერდზე">
+<!ENTITY safeb.palm.decline.label "გაფრთხილების იგნორირება">
+<!ENTITY safeb.palm.decline.statustext "გაფრთხილების დახურვა" >
+<!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
+<!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
+
+<!ENTITY safeb.blocked.malwarePage.title "მოიერიშე გვერდის პატაკი!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებ გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "ვებ ყალთაბანდობის პატაკი!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "ეს ვებ გვერდი <span id='phishing_sitename'/> ცნობილია როგორც ვებ ყალთაბანდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ვებ ყალთაბანდი გვერდი შექმნილია რათა თაღლითურად გამოგტყუონ თქვენი პირადი და ფინანსური ინფორმაცია თქვენთვის სანდო წყაროების იმიტაციით.</p><p>რაიმე ინფორმაციის შეტანა ასეთ ვებ გვერდზე შესაძლებელია თქვენი იდენტურობის მოპარვის ან სხვა თაღლითობის მიზეზი გახდეს.</p>">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY itemGeneral.label       "ზოგადი">
+<!ENTITY itemGeneral.label       "ზოგადი">
 <!ENTITY itemDisplay.label       "წაკითხვა და ჩვენება">
 <!ENTITY itemUpdate.label        "განახლება">
 <!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
@@ -15,13 +15,20 @@
 <!ENTITY telemetryInfoLink.label       "ვრცლად ტელემეტრიის შესახებ">
 <!ENTITY enableGlodaSearch.label             "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+
+<!ENTITY scrolling.label               "გადახვევა">
+<!ENTITY useAutoScroll.label           "თვითგადახვევა">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "მდორე გადახვევა">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "სისტემური ინტეგრაცია">
 <!ENTITY alwaysCheckDefault.label      "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმებ საფოსტო პროგრამად">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; სისტემისთვის წერილებში ძიების ნებართვა">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "შემოწმება ახლავე">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "შემოწმება ახლავე…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "დეტალური გამართვა">
 <!ENTITY configEdit.label              "გამართვის რედაქტორი…">
 <!ENTITY configEdit.accesskey          "C">
@@ -71,6 +78,9 @@
 <!ENTITY showUpdates.label              "განახლების ისტორიის ჩვენება">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "ფონური მოსახურებით სარგებლობა განახლებათა ჩადგმისას">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "პარამეტრები…">
 <!ENTITY showSettings.accesskey        "S">
@@ -82,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "ადგილი დისკზე">
-<!ENTITY offlineCompact.label "დაასტების შემჭიდროვება როცა გამოთავისუფლდება">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "მბ">
+<!ENTITY offlineCompactFolders.label "დასტების შემჭიდროება თუ გამოთავისუფლდება">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "მბ მაინც">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY testpilot.brand.label                      "საცდელი ტესტი">
+<!ENTITY testpilot.brand.label                      "საცდელი ტესტი">
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "პარამეტრები">
 <!ENTITY testpilot.settings.dataSubmission.label    "მონაცემთა გაგზავნა">

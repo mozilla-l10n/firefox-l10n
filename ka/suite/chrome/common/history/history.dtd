@@ -44,7 +44,7 @@
 
 <!ENTITY bookmarkLinkCmd.label          "ამ ბმის ჩანიშვნა…">
 <!ENTITY bookmarkLinkCmd.accesskey      "B">
-<!ENTITY bookmarkLinksCmd.label         "ამ ბმების ჩანიშვნა">
+<!ENTITY bookmarkLinksCmd.label         "ამ ბმების ჩანიშვნა…">
 <!ENTITY bookmarkLinksCmd.accesskey          "B">
 
 <!ENTITY col.title.label                "სათაური">

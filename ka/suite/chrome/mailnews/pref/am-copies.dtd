@@ -6,45 +6,45 @@
 
 <!ENTITY copyAndFolderTitle.label "ასლები და დასტები">
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
-<!ENTITY fccMailFolder.label "ასლის ავტომატური განთავსება:">
-<!ENTITY fccMailFolder.accesskey "u">
-<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება პასუხგაცემული წერილის დასტაში">
-<!ENTITY fccReplyFollowsParent.accesskey "P">
+<!ENTITY fccMailFolder.label "ასლი გადაწერე:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის დასტაში">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "ასლების გადაგზავნა მისამართებზე:">
+<!ENTITY ccAddress.label "ასლის გაგზავნა (Cc) ამ მისამართებზე:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "დაყავით მისამართები მძიმეებით">
+<!ENTITY ccAddressList.placeholder "დაყავით მისამართები მძიმით">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "ფარული ასლები ამ მისამართებზე:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "დაყავით მისამართები მძიმეებით">
+<!ENTITY bccAddressList.placeholder "დაყავით მისამართები მძიმით">
 <!ENTITY saveMessageDlg.label "თანხმობის დიალოგის ჩვენება წერილების შენახვისას">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "დასტა «გასული»:">
+<!ENTITY sentFolderOn.label "&quot;გასული&quot; დასტა:">
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "სხვა დასტა:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "წერილთა არქივები">
-<!ENTITY keepArchives.label "წერილთა არქივების საცავი:">
+<!ENTITY keepArchives.label "წერილთა არქივების შენახვა აქ:">
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "არქივის პარამეტრები…">
-<!ENTITY archiveHierarchyButton.accesskey "n">
-<!ENTITY archivesFolderOn.label "დასტა «არქივები»:">
-<!ENTITY archivesFolderOn.accesskey "v">
-<!ENTITY archiveInOtherFolder.label "სხვა დასტა:">
-<!ENTITY archiveInOtherFolder.accesskey "l">
-<!ENTITY specialFolders.label "ესკიზები და თარგები">
-<!ENTITY keepDrafts.label "წერილთა ესკიზების საცავი:">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "დასტაში «არქივი»:">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "სხვა:">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "ესკიზები, არქივები და თარგები">
+<!ENTITY keepDrafts.label "წერილების ესკიზების დასტა:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "დასტა «ესკიზები»:">
+<!ENTITY draftsFolderOn.label "დასტაში «ესკიზები»:">
 <!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "სხვა დასტა:">
+<!ENTITY draftInOtherFolder.label "Oსხვა:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "წერილთა თარგების საცავი:">
+<!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "დასტა «თარგები»:">
+<!ENTITY templatesFolderOn.label "დასტაში «თარგები»:">
 <!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "სხვა დასტა:">
+<!ENTITY templateInOtherFolder.label "სხვა:">
 <!ENTITY templateInOtherFolder.accesskey "e">

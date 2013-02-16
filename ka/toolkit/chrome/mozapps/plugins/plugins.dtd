@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "მოდულების ძებნა">
 <!ENTITY pluginWizard.firstPage.title                        "მოგესალმებათ &pluginWizard.title;">
 
@@ -20,8 +23,20 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "მიიღეთ ინფორმაცია მოდულების შესახებ ან ხელით მოძებნეთ მცდარი მოდულები.">
 <!ENTITY pluginWizard.finalPage.restart.label                "მოდულ(ებ)ის გასააქტივებლად &brandShortName; უნდა დაიხუროს და ხელახლა გაიხსნას.">
 
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "ვწუხვართ, მაგრამ &brandShortName; ვერ შეძლებს Flash-ის გახსნას ამ მოწყობილობაზე . ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "დაწვრილებით…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
 <!ENTITY missingPlugin                                       "მოდული აუცილებელია ამ მონაცემთა ჩვენებისთვის.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "გააჭირეთ აქ ამ მოდულის გასააქტივებლად.">
 <!ENTITY clickToPlayPlugin                                   "დაწკაპეთ აქ მოდულის გასააქტივებლად.">
+<!ENTITY checkForUpdates                                     "შემოწმება განახლებაზე…">
 <!ENTITY disabledPlugin                                      "ეს მოდული ამორთულია.">
 <!ENTITY blockedPlugin.label                                 "ეს მოდული დაიბლოკა თქვენი უსაფრთხოების მიზნით.">
 
@@ -34,10 +49,13 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "გვერდის განახლება">
 <!ENTITY reloadPlugin.post                                   " ხელახლა მცდელობა.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…და შეცდომის პატაკი გაგზავნა">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "შეცდომის პატაკის გაგზავნა">
 <!ENTITY report.submitting                                   "პატაკის გაგზავნა…">
 <!ENTITY report.submitted                                    "შეცდომის პატაკი გაიგზავნა.">
 <!ENTITY report.disabled                                     "შეცდომათა პატაკი ამორთულია.">
 <!ENTITY report.failed                                       "გაგზავნა ვერ ხერხდება.">
 <!ENTITY report.unavailable                                  "პატაკი მიუწვდომელია.">
+
+<!ENTITY plugin.file                                         "ფაილი">
+<!ENTITY plugin.mimeTypes                                    "MIME ტიპები">

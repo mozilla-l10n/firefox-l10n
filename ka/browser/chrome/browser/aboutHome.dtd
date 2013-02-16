@@ -2,17 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; თავფურცელი">
 
 <!ENTITY abouthome.searchEngineButton.label "Search">
-
-<!ENTITY abouthome.aboutMozilla "Mozilla-ს შესახებ">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -23,5 +22,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "იოლად შეგიძლიათ მიანიჭოთ სასურველი იერსახე Firefox ბრაუზერს. <a>შეარჩიეთ ათასობით მზა მოდულიდან</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "სინქრონიზაციის გამართვა">
-<!ENTITY abouthome.pairDevice.label  "მოწყობილობასთან დაწყვილება">
+<!ENTITY abouthome.bookmarksButton.label "სანიშნეები">
+<!ENTITY abouthome.historyButton.label   "ისტორია">
+<!ENTITY abouthome.settingsButton.label  "პარამეტრები">
+<!ENTITY abouthome.addonsButton.label    "მოდულები">
+<!ENTITY abouthome.appsButton.label      "ბაზარი">
+<!ENTITY abouthome.downloadsButton.label "ჩამოტვირთვები">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "ქვოტა:">
 <!ENTITY folderQuotaUsage.label                  "გამოყენება:">
 <!ENTITY folderQuotaStatus.label                 "სტატუსი:">
+
+<!ENTITY numberOfMessages.label                  "წერილთა რაოდენობა:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "უცნობია">
+<!ENTITY sizeOnDisk.label                        "ადგილი დისკზე:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "უცნობია">

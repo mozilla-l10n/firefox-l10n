@@ -4,15 +4,15 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "არქივის პარამეტრები">
-<!ENTITY archiveGranularityPrefix.label "წერილთა დაარქივებისას მათი შენახვა:">
-<!ENTITY archiveFlat.label "ერთიან დასტაში">
+<!ENTITY dialogTitle.label "არქივაციის პარამეტრები">
+<!ENTITY archiveGranularityPrefix.label "წერილების არქივაციისას მათი მოთავსება დასტაში:">
+<!ENTITY archiveFlat.label "ერთ დასტაში">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "დასტებში წლების მიხედვით">
 <!ENTITY archiveYearly.accesskey "Y">
 <!ENTITY archiveMonthly.label "დასტებში თვეების მიხედვით">
 <!ENTITY archiveMonthly.accesskey "M">
-<!ENTITY keepFolderStructure.label "დასტების არსებული სტრუქტურის შენარჩუნება წერილთა არქივებისთვის">
+<!ENTITY keepFolderStructure.label "დასტების სტრუქტურის შენარჩუნება არქივებში">
 <!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "მაგალითი">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default

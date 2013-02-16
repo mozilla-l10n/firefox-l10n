@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "ჯართის პარამეტრები">
-<!ENTITY trainingWarning.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავრჯიშოთ კჯართის მითითებით ჯართის პულტის ღილაკის საშუალებით. უნდ ამიუთითოთ ორივე, ჯარათისა და არა ჯართის წერილები.">
+<!ENTITY trainingDescription.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავრჯიშოთ კჯართის მითითებით ჯართის პულტის ღილაკის საშუალებით. უნდ ამიუთითოთ ორივე, ჯართისა და არა ჯართის წერილები. ამის შემდეგ &brandShortName; ჯართს ავტომატურად მონიშნავს.">
 <!ENTITY level.label "ჯართის მოქნილი კონტროლის ჩართვა ამ ანგარიშისთვის">
 <!ENTITY level.accesskey "E">
 
@@ -17,8 +17,15 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "დღე">
 
-<!ENTITY whitelist.label "წერილის ჯართად არ მონიშვნა თუ გამომგზავნი აქაა: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelistHeader.label "წერილის ჯართად ავტომატურად მონიშვნის გაუქმება თუ გამომგზავნი აქაა: ">
+<!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "თუ ჩართულია, &brandShortName; ამ გარე კლასიფიკატორის გზავნილებს ავტომატურად მიიჩნევს ჯართად.">
 <!ENTITY ispHeaders.label "ჯართის თავსართების ნდობა თუ მითითებულია: ">
 <!ENTITY ispHeaders.accesskey "T">
+
+<!ENTITY junkClassification.label "მონიშნული">
+<!ENTITY junkActions.label "სამიზნე დასტა და პირობები">
+
+<!ENTITY globalJunkPrefs.label "Global Junk პარამეტრები…">
+<!ENTITY globalJunkPrefs.accesskey "G">

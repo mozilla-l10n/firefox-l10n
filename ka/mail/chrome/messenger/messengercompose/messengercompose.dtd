@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "ჩაწერა: (თემის გარეშე)">
 
 <!-- File Menu -->
@@ -21,6 +21,8 @@
 <!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "ფაილის ბმა">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "ვებ გვერდი…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -72,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "გადაფორმატება">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "წაშლა">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "გადაფორმატება">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "ჩანართის გადარქმევა…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "სრული მონიშვნა">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -135,9 +139,9 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "მიღების სტატუსის შეტყობინება">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "ფორმატი">
-<!ENTITY outputFormatMenu.accesskey "f">
-<!ENTITY autoFormatCmd.label "ავტოდეტექცია">
+<!ENTITY deliveryFormatMenu.label "მიწოდების ფორმატი">
+<!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "თვითამოცნობა">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "მხოლოდ ტექსტი">
 <!ENTITY plainTextFormatCmd.accesskey "p">
@@ -172,7 +176,7 @@
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "ანგარიშის პარამეტრები…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "ოპციები…">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -222,7 +226,7 @@
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "მიმიკის ჩამატება">
@@ -272,7 +276,15 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "ფაილ(ებ)ის მიმაგრება…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "ვებ-გვერდის მიმაგრება…">
+<!ENTITY attachCloud.label "ფაილის ბმა…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "გარდაქმნა…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "ატვირთვის გაუქმება">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "ჩვეულებრივი ჩანართი">
+<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY attachPage.label "ვებგვერდის თანდართვა…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->

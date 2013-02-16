@@ -27,12 +27,16 @@
 <!ENTITY autoCompleteMatchWords                "მხოლოდ სიტყვის კიდეებში">
 <!ENTITY autoCompleteMatchStart                "მხოლოდ მისამართის ან სათაურის დასაწყისში">
 
+<!ENTITY formatting.label                      "დაფორმატება">
+<!ENTITY domainFormatting.label                "დომენის გამოკვეთა ვებსაიტებისა და FTP სერვერებისთვის">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "ინტერნეტის საძიებო სისტემა">
 <!ENTITY showSearchEngine.label                "ნაგულისხმები საძიებო სისტემის ჩვენება">
 <!ENTITY showSearchEngine.accesskey            "e">
 
 <!ENTITY unknownLocations.label                "უცნობი მისამართები">
 <!ENTITY domainGuessing.label                  "მისამართებისთვის &quot;www.&quot; და &quot;.com&quot; დამატება თუ ვებგვერდი ვერ მოიძებნა">
-<!ENTITY domainGuessing.accesskey              "d">
+<!ENTITY domainGuessing.accesskey              "w">
 <!ENTITY keywords.label                        "ინტერნეტ ძიება როც ტექსტი ვებ მისამართი არ გახლავთ">
 <!ENTITY keywords.accesskey                    "P">

@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY resetProfile.dialog.title        "&brandShortName; აღდგენა">
+<!ENTITY resetProfile.dialog.description  "ნამდივლად გსურთ აღადგინოთ &brandShortName; საწყისი მდგომარეობა?">
+<!ENTITY resetProfile.dialog.items2.label  "&brandShortName; შეეცდება შეინარჩუნოს თქვენი:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; ხელახლა გაიხსნება და ყველა დანარჩენი ამოიშლება.">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; აღდგენა">
+
+<!ENTITY resetProfile.title               "&brandShortName; აღდგენა პირვანდელ მდგომარეობაში">
+<!ENTITY resetProfile.description         "თუ გაქვთ პრობლემები, რომელთა გადაჭრასაც ვერ ახერხებთ, დაიწყეთ თავიდან მხოლოდ უმნიშვნელოვანესი მონაცემებით.">
+<!ENTITY resetProfile.button.label        "&brandShortName; აღდგენა">
+
+<!ENTITY resetProfile.cleaning.description "გთხოვთ დაიცადოთ ვიდრე &brandShortName; თქვენს ძველ მონაცემებს გაასუფთავებს…">

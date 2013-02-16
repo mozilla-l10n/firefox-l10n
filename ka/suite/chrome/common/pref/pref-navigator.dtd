@@ -19,7 +19,18 @@
 <!ENTITY restoreSessionRadio.label      "წინა სეანსის აღდგენა">
 <!ENTITY restoreSessionRadio.accesskey  "P">
 
-<!ENTITY  header2.label             "თავფურცლით">
+<!ENTITY restoreSessionIntro.label      "სეანსებისა და სარკმლების აღდგენისას">
+<!ENTITY restoreImmediately.label       "ყველა დაფის დაუყოვნებლივ აღდგენა">
+<!ENTITY restoreImmediately.accesskey   "e">
+<!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to
+     "Restore [___] tab(s) at a time",
+     using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
+<!ENTITY restoreTabs.label              "აღდგენა">
+<!ENTITY restoreTabs.accesskey          "s">
+<!ENTITY restoreTabsAtATime.label       "დაფა ერთ ჯერზე">
+<!ENTITY restoreDeferred.label          "დაფების აღდგენა მხოლოდ მოთხოვნისას">
+<!ENTITY restoreDeferred.accesskey      "O">
+
 <!ENTITY  homePageIntro.label       "ტავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
 <!ENTITY  useCurrent.label          "გამოიყენე მიმდინარე გვერდი">
 <!ENTITY  useCurrent.accesskey      "U">
@@ -35,4 +46,5 @@
 <!ENTITY defaultBrowserButton.accesskey "D">
 <!ENTITY alreadyDefaultText             "&brandShortName; უკვე თქვენი ნაგულისხმები ბრაუზერია.">
 <!ENTITY defaultPendingText             "&brandShortName; მიეთითება როგორც ნაგულისხმები ბრაუზერი, როცა დაწკაპავთ ღილაკს - დიახ.">
+<!ENTITY wasMadeDefaultText             "&brandShortName; მითითებულია როგორც ნაგულისხმები ბარუზერი.">
 <!ENTITY makeDefaultText                "&brandShortName; პროგრამის ნაგულისხმებ ბრაუზერად მითითება.">

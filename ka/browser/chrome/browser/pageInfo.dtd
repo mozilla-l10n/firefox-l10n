@@ -1,14 +1,12 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "600">
-<!ENTITY  pageInfoWindow.height "500">
+<!ENTITY  pageInfoWindow.width  "720">
+<!ENTITY  pageInfoWindow.height "640">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "კოპირება">
+<!ENTITY  copy.label            "ასლი">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "სრული მონიშვნა">
@@ -65,6 +63,8 @@
 <!ENTITY  permCookie            "ნაჭდევების მითითება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
 <!ENTITY  permGeo               "ადგილმდებარეობის გაზიარება">
+<!ENTITY  permPlugins           "მოდულების გააქტივება">
+<!ENTITY  permFullscreen        "სრული ეკრანის რეჟიმი">
 
 <!ENTITY  permIndexedDB              "ლოკალური საცავის მართვა">
 <!ENTITY  permClearStorage           "საცავის გასუფთავება">

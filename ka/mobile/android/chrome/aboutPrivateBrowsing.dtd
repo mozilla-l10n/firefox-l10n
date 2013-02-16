@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "პირადი სეანსი">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "თქვენ გახსენით ახალი პირადი სეანსის დაფა.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "თქვენ არ ხართ პირადი სეანსის დაფაზე.">
+
+<!ENTITY privatebrowsingpage.description            "პირადი სეანსის დაფაზე, &brandShortName; ბრაუზერი არ შეინახავს გვერდების, ძიების, გამოტვირთვებისა და ფორმების ისტორიას, ნაჭდევებს ან დროებით ინტერენტ ფაილებს. თუმცა, თქვენი ჩამოტვირთული ფაილები და სანიშნეები შეინახება.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "თუმც ეს მოწყობილობა ისტორიის ჩანაწერებს არ აკეთებს, მაგრამ თქვენი ინტერნეტ სერვისის პროვაიდერს მაინც შეუძლია თქვენი მონახულებული გვერდების ნახვა.">

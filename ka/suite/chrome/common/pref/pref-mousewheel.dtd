@@ -10,23 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "მართობული გადაფურცვლა">
-<!ENTITY mousewheelHorizGroup.label      "განივი გადაფურცვლა">
-<!ENTITY scroll.label                    "დოკუმენტის გადაფურცვლა ">
-<!ENTITY scroll.accesskey                "S">
-<!ENTITY scrollHoriz.accesskey           "c">
-<!ENTITY scrollLines.label               " სტრიქონით ">
-<!ENTITY scrollChars.label               " სიმბოლოთი ">
-<!ENTITY useSystemDefault.label          "სისტემური პარამეტრების გამოყენება">
-<!ENTITY useSystemDefault.accesskey      "U">
-<!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY scrollPgUpPgDn.label            "გვერდის ზევით ან ქვევით გადაფურცვლა">
-<!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "გვერდის მარცხნივ ან მარჯვნივ გადაფურცვლა">
-<!ENTITY scrollPgLtPgRt.accesskey        "r">
-<!ENTITY history.label                   "ისტორიის ნუსხის წინ და უკან გადაფურცვლა">
+<!ENTITY mouseWheelGroup.label           "მართობული გადახვევა">
+<!ENTITY mouseWheelHorizGroup.label      "განივი გადახვევა">
+<!ENTITY sameAsVertical.label            "იგივე, რაც მართობული გადახვევისთვის">
+<!ENTITY sameAsVertical.accesskey        "v">
+<!ENTITY doNothing.label                 "დატოვება როგორც არის">
+<!ENTITY doNothing.accesskey             "D">
+<!ENTITY doNothingHoriz.accesskey        "n">
+<!ENTITY scrollDocument.label            "დოკუმენტის გადაფურცვლა">
+<!ENTITY scrollDocument.accesskey        "S">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
+<!ENTITY history.label                   "ისტორიის ნუსხის წინ და უკან გადახვევა">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "გვერდის გაზრდა ან შემცირება">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "თაგუნას ბორბლის სიჩქარე:">
+<!ENTITY wheelSpeed.accesskey            "w">
+<!ENTITY wheelSpeedHoriz.accesskey       "u">
+<!ENTITY reverseDirection.label          "უკუმიმართულებით">
+<!ENTITY reverseDirection.accesskey      "R">
+<!ENTITY reverseDirectionHoriz.accesskey "e">

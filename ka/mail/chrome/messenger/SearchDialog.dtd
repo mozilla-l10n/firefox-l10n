@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "წერილების ძებნის არე:">
+<!ENTITY searchHeading.label         "წერილების ძიების არე:">
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
 <!ENTITY searchSubfolders.accesskey  "e">

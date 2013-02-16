@@ -4,6 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
+<!ENTITY messageStorage.label "წერილების საცავი">
 <!ENTITY securitySettings.label "უსაფრთხოების პარამეტრები">
 <!ENTITY serverSettings.label "სერვერის პარამეტრები">
 <!ENTITY serverType.label "სერვერის ტიპი:">
@@ -67,16 +68,19 @@
 <!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას აუთენტიფიცირების ყოველთვის მოთხოვნა">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
-<!ENTITY localPath.label "ადგილობრივი დასტა:">
+<!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
 <!ENTITY abbreviate.label "წერილების დასტების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "დეტალები…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "ნაგულისხმები კოდირება:">
+<!ENTITY localPath.label "ლოკალური დასტა:">
 <!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
 <!ENTITY browseFolder.label "ნუსხა…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
 <!ENTITY browseNewsrc.label "ნუსხა…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
+<!ENTITY accountSettingsDesc.label "ეს სპეციალური ანგარიშია.  იგი პიროვნულად არავის ეხება.">

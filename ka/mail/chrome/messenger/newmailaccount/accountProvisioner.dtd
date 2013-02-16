@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY window.title "მოგესალმებათ &brandShortName;">
-<!ENTITY header.label "გნებავთ ახალი ელფოსტის მისამართი &brandShortName;-ში?">
+<!ENTITY window.title "მოგესალმებათ &brandShortName;">
+<!ENTITY header2.label "გნებავთ ახალი ელფოსტის მისამართი?">
 <!ENTITY other.languages "ჩვენ გიჩვენებთ ელფოსტის მხოლოდ პროვაიდერებს თქვენი რეგიონიდან.  ყველა პროვაიდერის საჩვენებლად დაწკაპეთ აქ.">
 <!ENTITY error.line1 "უკაცრავად, ვერ მოვიძიეთ ვერცერთი შემოთავაზებული ელფოსტის მისამართი.">
 <!ENTITY error.line2 "ძიება შეგიძლიათ განახორციელოთ მეტსახელით ან სხვა საძიებო ტერმინით">

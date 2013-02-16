@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "სიგანე">
 <!ENTITY image-height.label    "სიმაღლე:">
 <!ENTITY image-filesize.label  "ფაილის ზომა:">
+<!ENTITY image-filesize.value  "უცნობია">
 <!ENTITY insdel-sec.label      "პარამეტრების დამატება/ამოშლაs">
 <!ENTITY insdel-cite.label     "ინფო:">
 <!ENTITY insdel-date.label     "თარიღი:">

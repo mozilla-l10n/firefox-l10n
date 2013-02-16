@@ -2,14 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
-<!ENTITY accountSettingsDesc.label "წარმოდგენილია სპეციალური ანგარიში.  მასთან ასოცირებული ანგარიში არ იძებნება.">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "წერილების შენახვა">
-<!ENTITY emptyTrashOnExit.label "ურნის გასუფთავება გასვლისას">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY localPath.label "ადგილობრივი დასტა:">
-<!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
-<!ENTITY browseFolder.label "ნუსხა…">
-<!ENTITY browseFolder.accesskey "B">

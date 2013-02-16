@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "შრიფტები და კოდირებები">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.width                            "55em">
+<!ENTITY  window.macWidth                         "59em">
+<!ENTITY  window.unixWidth                        "57em">
 
 <!ENTITY  language.label                          "შრიფტები:">
 <!ENTITY  language.accesskey                      "t">
@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "ბალტიური">
 <!ENTITY  font.langGroup.el                       "ბერძნული">
 <!ENTITY  font.langGroup.turkish                  "თურქული">
-<!ENTITY  font.langGroup.unicode                  "სხვა ენები">
+<!ENTITY  font.langGroup.unicode1                 "უნიკოდი">
 <!ENTITY  font.langGroup.user-def                 "საკუთარი მითითებული">
 <!ENTITY  font.langGroup.thai                     "ტაი">
 <!ENTITY  font.langGroup.hebrew                   "ებრაული">

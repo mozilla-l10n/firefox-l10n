@@ -11,9 +11,9 @@
 <!ENTITY aboutWarningButton.label "გპირდებით, ფრთხილად ვიქნები!">
 <!ENTITY aboutWarningCheckbox.label "ამ გაფრთხილების ჩვენება შემდგომ">
 
-<!ENTITY filterPrefs.label "ფილტრი:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "ძიება:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "პარამეტრი">

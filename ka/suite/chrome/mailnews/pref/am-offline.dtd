@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "დისკზე ადგილის ეკონომიისთვის არ გადმოწერო:">
-<!ENTITY doNotDownloadNntp.label "დისკზე ადგილის ეკონომიისთვის ავტონომიური რეჟიმისთვის არ გადმოწერო:">
-<!ENTITY doNotDownloadImap.label "დისკზე ადგილის ეკონომიისთვის შესაძლებელია წერილების სერვერიდან ჩამოტვირთვა და ლოკალურად შენახვის შეზღუდვა ზომით ან ასაკით.">
+<!ENTITY doNotDownloadNntp.label "დისკზე ადგილის ეკონომიისთვის ნუ გადმოწერთ ავტონომიური რეჟიმისთვის:">
+<!ENTITY doNotDownloadImap.label "დისკზე ადგილის ეკონომიისთვის, სერვერიდან წერილების ჩამოტვირთვისა და ლოკალურად შენახვის შეზღუდვა შესაძლებელია ასაკით ან ზომით.">
 <!ENTITY allFoldersOffline.label "ამ ანგარიშის წერილების ამ კომპიუტერში შენარჩუნება">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "წერილები რომელთა ზომა მეტია ვიდრე">
+<!ENTITY offlineNotDownload.label "წერილები, რომელთა ზომა მეტია ვიდრე">
 <!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "არ ჩამოიტვირთოს წერილები, ზომით მეტი ვიდრე">
+<!ENTITY autosyncNotDownload.label "არ ჩამოიტვირთოს წერილები, რომელთა ზომა მეტია ვიდრე">
 <!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "კბ">
-<!ENTITY daysOld.label "დღე">
-<!ENTITY message.label "წერილი">
+<!ENTITY kb.label "კბ-ზე">
+<!ENTITY daysOld.label "დღის წინა">
+<!ENTITY message.label "წერილები">
 <!ENTITY nntpNotDownloadRead.label "წაკითხული წერილები">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
-<!ENTITY nntpDownloadMsg.label "წერილები, ასაკით მეტი, ვიდრე">
+<!ENTITY nntpDownloadMsg.label "წერილები, რომელთა ასაკი გადასცდა">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "დისკზე ადგილის გასათავისუფლებლად შეიძლება ძველი წერილების რეგულარულად წაშლა.">
 <!ENTITY retentionCleanupImap.label "დისკზე ადგილის გასათავისუფლებლად შესაძლებელია ძველი გზავნილების შეუქცევადად წაშლა ორივეგან - ადგილობრივად და დაშორებულ სერვერზე.">
 <!ENTITY retentionCleanupPop.label "დისკზე ადგილის გასათავისუფლებლად შესაძლებელია ძველი გზავნილების შეუქცევადად წაშლა ადგილობრივად და დაშორებულ სერვერზეც.">
-<!ENTITY retentionKeepMsg.label "წერილთა წაშლა რომელთა ასაკი მეტია ვიდრე">
+<!ENTITY retentionKeepMsg.label "წერილთა წაშლა რომელთ ასაკი მეტია ვიდრე">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "ყველა წერილის შენარჩუნება">
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "ყველას წაშლა უახლესების გარდა">
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "წაკითხული წერილების ყოველთვის წაშლა (ასაკის მიუხედავად)">
-<!ENTITY retentionApplyToFlagged.label "ალმიანი გზავნილების ყოველთვის შენარჩუნება">
+<!ENTITY retentionKeepUnreadHidden.label "წაკითხული წერილების ყოველთვის წაშლა (გადაეწერება ასაკის პარამეტრებს)">
+<!ENTITY retentionApplyToFlagged.label "ვარსკვლავიანი წერილების ყოველთვის შენარჩუნება">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "წერილების წაშლა რომელთა ზომა ნაკლებია ვიდრე">
+<!ENTITY nntpRemoveMsgBody.label "წერილების შიგთავსის წაშლა რომელთა ზომა მეტია ვიდრე">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "ჯგუფების შერჩევა ავტონომიური რეჟიმისთვის…">
 <!ENTITY offlineSelectNntp.accesskey "S">
@@ -48,11 +48,11 @@
 -->
 <!ENTITY allAutosync.label               "ყველა წერილის ლოკალური სინქრონიზაცია ასაკის მიუხედავად">
 <!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "უახლესი წერილების სინქრონიზაცია">
-<!ENTITY ageAutosync.accesskey           "S">
+<!ENTITY ageAutosyncBefore.label         "უახლესი ფოსტის სინქრონიზაცია">
+<!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "დღე">
-<!ENTITY weekAgeInterval.label           "კვირა">
-<!ENTITY monthAgeInterval.label          "თვე">
-<!ENTITY yearAgeInterval.label           "წელი">
-<!ENTITY ageAutosyncAfter.label          "">
+<!ENTITY dayAgeInterval.label               "დღის">
+<!ENTITY weekAgeInterval.label              "კვირის">
+<!ENTITY monthAgeInterval.label             "თვის">
+<!ENTITY yearAgeInterval.label              "წლის">
+<!ENTITY ageAutosyncAfter.label          "განმავლობაში">

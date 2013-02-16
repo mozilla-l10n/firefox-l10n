@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "უმაღლესი">
 
 <!ENTITY contextDesc.label "ფილტრებით სარგებლობა:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "ფოსტის შემოწმებისას">
+<!ENTITY contextIncomingMail.label "ახალი ფოსტის მიღებისას">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "ხელით შესრულებისას">
-<!ENTITY contextBoth.label "ფოსტის შემოწმების ან ხელით შესრულებისას">
-<!ENTITY contextPostPlugin.label "ფოსტის შემოწმება (კლასიფიკაციის შემდეგ)">
-<!ENTITY contextPostPluginBoth.label "ფოსტის შემოწმება (კლასიფიკაციის შემდეგ) ან უშუალოდ">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "გაფილტვრა კლასიფიკაციამდე">
+<!ENTITY contextAfterCls.label "გაფილტვრა კლასიფიკაციის შემდეგ">
+
 <!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -32,6 +33,7 @@
 <!ENTITY forwardTo.label "წერილის გადაგზავნა -">
 <!ENTITY replyWithTemplate.label "პასუხი თარგით">
 <!ENTITY markMessageRead.label "მონიშვნა წაკითხულად">
+<!ENTITY markMessageUnread.label "მონიშვნა წასაკითხად">
 <!ENTITY markMessageStarred.label "მონიშვნა ალმით">
 <!ENTITY setPriority.label "პრიორიტეტის მითითება -">
 <!ENTITY addTag.label "წერილის დაჭდევება">
@@ -43,3 +45,14 @@
 <!ENTITY ignoreSubthread.label "ქვეთემის იგნორირება">
 <!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
 <!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">
+
+<!ENTITY addAction.tooltip "ახალი ქმედების დამატება">
+<!ENTITY removeAction.tooltip "ამ ქმედების ამოღება">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

@@ -15,4 +15,4 @@
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "მიუთითეთ ვებგვერდის მისამართი, ლოკალური ფაილი, ან აირჩიეთ სახელობითი ღუზა ან თავსართი ჩამოშლადი სიიდან:">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "w">
