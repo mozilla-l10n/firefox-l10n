@@ -5,7 +5,7 @@
 <!ENTITY     props.name.label               "Nama:">
 <!ENTITY     props.value.label              "Isi:">
 <!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
+<!ENTITY     props.path.label               "Direktori:">
 <!ENTITY     props.secure.label             "Kirim Untuk:">
 <!ENTITY     props.expires.label            "Kedaluwarsa:">
 

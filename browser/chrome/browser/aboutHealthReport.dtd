@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+
+<!ENTITY abouthealth.locale-direction "ltr">
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+
+<!ENTITY abouthealth.pagetitle "Laporan Kebugaran &brandShortName;">
+<!ENTITY abouthealth.header "Laporan Kebugaran &brandFullName;">
+
+<!ENTITY abouthealth.intro.title "Apa itu Laporan Kebugaran &brandShortName;?">
+
+<!ENTITY abouthealth.intro-enabled "&brandFullName; mengumpulkan beberapa data tentang komputer Anda untuk dapat meningkatkan pengalaman penjelajahan Anda.">
+<!ENTITY abouthealth.intro-disabled "Saat ini Anda tidak sedang mengirimkan data penggunakan ke &vendorShortName;. Anda dapat membantu menyempurnakan &brandShortName; dengan mengeklik tombol &quot;&abouthealth.optin;&quot;.">
+
+<!ENTITY abouthealth.optin "Bantu menyempurnakan &brandShortName;">
+<!ENTITY abouthealth.optout "Nonaktifkan Pelaporan">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Hentikan pengiriman data?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Yakin tidak ingin mengirimkan data dan menghapus data produk yang bersifat anonim yang tersimpan di server &vendorShortName;?">
+
+<!ENTITY abouthealth.show-raw-data "Tampilkan Detail">
+<!ENTITY abouthealth.hide-raw-data "Sembunyikan Detail">
+
+<!ENTITY abouthealth.show-report "Tampilkan Laporan &brandShortName;">
+
+<!ENTITY abouthealth.details.description-start "Berikut adalah data &brandFullName; yang dikirimkan untuk &brandShortName; Health Report. Anda dapat ">
+<!ENTITY abouthealth.details-link "mempelajari lebih lanjut">
+<!ENTITY abouthealth.details.description-end " tentang data yang dikumpulkan dan dikirimkan.">
+<!ENTITY abouthealth.no-data-available "Tidak ada pengiriman data yang pernah dilakukan. Silakan kembali lagi dalam beberapa saat.">

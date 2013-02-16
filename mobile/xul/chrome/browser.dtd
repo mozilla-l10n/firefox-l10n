@@ -10,6 +10,7 @@
 <!ENTITY stop.label            "Stop">
 <!ENTITY go.label              "Buka">
 <!ENTITY star.label            "Markah">
+
 <!ENTITY showTabs.label        "Tampilkan Tab">
 <!ENTITY newtab.label          "Tab Baru">
 <!ENTITY closetab.label        "Tutup Tab">
@@ -55,7 +56,6 @@
 <!ENTITY addonShowPage.label       "Buka Beranda">
 
 <!ENTITY downloadsHeader.label     "Unduhan">
-
 <!ENTITY downloadShowPage.label    "Buka Laman">
 <!ENTITY downloadShow2.label       "Cari">
 <!ENTITY downloadOpen2.label       "Buka">
@@ -77,6 +77,11 @@
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
 <!ENTITY identity.connectedTo2 "Tersambung ke">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "yang dijalankan oleh">
 
 <!ENTITY consoleHeader.label       "Konsol Kesalahan">
@@ -92,9 +97,11 @@
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
 <!ENTITY contextOpenInNewTab.label    "Buka Tautan di Tab Baru">
-<!ENTITY contextSaveLink.label        "Simpan Tautan">
 <!ENTITY contextSaveImage.label       "Simpan Gambar">
 <!ENTITY contextCopyLink.label        "Salin Tautan">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
 <!ENTITY contextShareLink.label       "Bagi Tautan">
 <!ENTITY contextShareImage.label      "Bagi Gambar">
 <!ENTITY contextBookmarkLink.label    "Markahi Tautan">
@@ -115,6 +122,5 @@
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">
 <!ENTITY pageactions.charEncoding    "Pengodean Karakter">
-<!ENTITY pageactions.webapps.install "Pasang sebagai Apl">
 
 <!ENTITY appMenu.siteOptions         "Opsi Situs">

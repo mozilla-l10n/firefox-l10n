@@ -6,10 +6,10 @@
 
 <!ENTITY sites.search                    "Cari Situs">
 <!ENTITY sites.allSites                  "Semua Situs">
-
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
+
 <!ENTITY header.site.start               "Izin untuk">
 <!ENTITY header.site.end                 "">
 
@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Selalu Tanyakan">
 <!ENTITY permission.allow                "Izinkan">
 <!ENTITY permission.allowForSession      "Izinkan untuk Sesi">
+<!ENTITY permission.allowFirstPartyOnly  "Hanya Izinkan dari Pihak Pertama">
 <!ENTITY permission.block                "Blokir">
 
 <!ENTITY password.label                  "Simpan Sandi">
@@ -33,9 +34,9 @@
 <!ENTITY geo.label                       "Berbagi Lokasi">
 
 <!ENTITY plugins.label                   "Plugin">
-
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
 <!ENTITY indexedDB.label                 "Kelola Penyimpanan Luring">
 
 <!ENTITY popup.label                     "Buka Jendela Sembulan">

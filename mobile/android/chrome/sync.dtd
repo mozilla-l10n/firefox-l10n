@@ -7,20 +7,25 @@
 <!ENTITY sync.connect               "Sambungkan">
 <!ENTITY sync.connected             "Tersambung">
 <!ENTITY sync.details               "Detail">
-<!ENTITY sync.synchronize           "Aktifkan Sync">
 <!ENTITY sync.deviceName            "Perangkat ini">
 <!ENTITY sync.disconnect            "Putuskan">
 <!ENTITY sync.syncNow               "Sinkronkan Skrg">
 
 <!ENTITY sync.setup.title           "Sambungkan ke Sync">
-<!ENTITY sync.setup.jpake           "Dari komputer yang telah tersambung dengan Sync pada Firefox-nya, buka pengaturan Sync dan pilih &#x0022;Tambahkan perangkat&#x0022;">
+<!ENTITY sync.setup.pair            "Untuk mengaktifkan, pilih &#x0022;Pasangkan Perangkat&#x0022; pada perangkat Anda.">
 <!ENTITY sync.fallback              "Komputer saya tidak sedang di dekat saya…">
 <!ENTITY sync.setup.manual          "Masukkan informasi akun Sync Anda">
 <!ENTITY sync.account               "Nama Akun">
 <!ENTITY sync.password              "Sandi">
-<!ENTITY sync.syncKey               "Kunci Sinkronisasi">
+<!ENTITY sync.recoveryKey           "Recovery Key">
 <!ENTITY sync.customServer          "Gunakan server khusus">
 <!ENTITY sync.serverURL             "URL Server">
 <!ENTITY sync.setup.connect         "Sambungkan">
 <!ENTITY sync.setup.cancel          "Batal">
 <!ENTITY sync.setup.tutorial        "Lihat caranya">
+<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+
+<!ENTITY sync.pair.title            "Pasangkan Perangkat">
+<!ENTITY sync.pair.description      "Untuk mengaktifkan perangkat baru Anda, pilih &#x0022;Setel Sync&#x0022; pada perangkatnya.">
+<!ENTITY sync.setup.close           "Tutup">
+<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

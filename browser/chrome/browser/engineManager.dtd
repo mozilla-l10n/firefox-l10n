@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "Nama">
 <!ENTITY  columnLabel.keyword       "Kata Kunci">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Geser Atas">
 <!ENTITY  up.accesskey              "A">
 <!ENTITY  dn.label                  "Geser Bawah">
