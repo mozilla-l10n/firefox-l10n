@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label      'Töölaua järjehoidjad'>
 <!ENTITY bookmarks.folder.mobile.label       'Mobiilsed järjehoidjad'>
 <!ENTITY bookmarks.folder.readinglist.label  'Lugemise nimekiri'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label       'Kinnitatud'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label  'Toetatud on ainult üks &syncBrand.fullName.label;i konto.'>
