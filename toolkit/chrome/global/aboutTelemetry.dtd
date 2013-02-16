@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dữ liệu Telemetry">
 
-<!ENTITY aboutTelemetry.pageSubtitle "   Trang này hiển thị dữ liệu hiệu năng và tính năng sử dụng được Telemetry thu thập. 
-Thông tin này được chuyển nặc danh tới Mozilla giúp cải tiến &brandShortName;.">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry đã <span>bật</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry đã <span>tắt</span>.">

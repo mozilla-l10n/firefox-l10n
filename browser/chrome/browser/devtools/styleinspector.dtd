@@ -41,3 +41,7 @@
 <!ENTITY matched               "Matched (đã khớp)">
 <!ENTITY parentMatch           "Khớp với cha">
 <!ENTITY unmatched             "Không khớp">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Computed (được tính toán)">
+<!ENTITY ruleViewTitle         "Các quy tắc">
