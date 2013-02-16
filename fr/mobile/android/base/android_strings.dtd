@@ -78,13 +78,13 @@
 <!ENTITY pref_char_encoding "Encodage de caractères">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
-<!ENTITY pref_clear_private_data "Supprimer les données personnelles">
+<!ENTITY pref_clear_private_data "Effacer mes traces">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activés">
 <!ENTITY pref_plugins_tap_to_play "Toucher pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
-<!ENTITY pref_reflow_on_zoom2 "Adapter le texte en zoomant">
+<!ENTITY pref_reflow_on_zoom2 "Adapter le texte au zoom">
 <!ENTITY pref_font_size_tiny "Très petite">
 <!ENTITY pref_font_size_small "Petite">
 <!ENTITY pref_font_size_medium "Moyenne">
@@ -191,7 +191,7 @@ size. -->
 <!ENTITY button_cancel "Annuler">
 <!ENTITY button_yes "Oui">
 <!ENTITY button_no "Non">
-<!ENTITY button_clear_data "Effacer les données">
+<!ENTITY button_clear_data "Effacer mes traces">
 <!ENTITY button_set "Valider">
 <!ENTITY button_clear "Effacer">
 
