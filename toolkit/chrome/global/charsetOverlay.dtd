@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "З">
 <!ENTITY charsetMenuMore5.label        "Дундад Ази">
 <!ENTITY charsetMenuMore5.accesskey    "з">
-<!ENTITY charsetMenuUnicode.label      "Юникод">
-<!ENTITY charsetMenuUnicode.accesskey  "Ю">
 <!ENTITY charsetCustomize.label        "Customize List…">
 <!ENTITY charsetCustomize.accesskey    "c">

@@ -7,21 +7,21 @@
 <!ENTITY  popupExceptions.label       "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  popupExceptions.accesskey   "ш">
 
-<!ENTITY  loadImages.label            "Load images automatically">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.label            "Зургийг автоматаар ачаал">
+<!ENTITY  loadImages.accesskey        "З">
 <!ENTITY  exceptions.label            "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  exceptions.accesskey        "д">
 
-<!ENTITY  enableJavaScript.label      "Enable JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  enableJavaScript.label      "Жаваскриптийг идэвхжүүлэх">
+<!ENTITY  enableJavaScript.accesskey  "Ж">
 <!ENTITY  advancedJS.label            "Нэмэлт…">
 <!ENTITY  advancedJS.accesskey        "м">
 
-<!ENTITY  enableJava.label            "Жааваг зөвшөөр">
-<!ENTITY  enableJava.accesskey        "ш">
+<!ENTITY  enableJava.label            "Жааваг идэвхжүүлэх">
+<!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "Fonts &amp; Colors">
+<!ENTITY  fontsAndColors.label        "Фонт ба Өнгөнүүд">
 
 <!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
 <!ENTITY  defaultFont.accesskey       "я">
