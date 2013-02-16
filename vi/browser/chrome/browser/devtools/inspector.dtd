@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Sao chép HTML phía trong">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Sao chép HTML phía ngoài">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Xóa Nút">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "Dùng chuột chọn phần tử">

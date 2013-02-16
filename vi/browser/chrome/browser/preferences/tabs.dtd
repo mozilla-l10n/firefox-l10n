@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Mở các cửa sổ mới trong một thẻ">
-<!ENTITY newWindowsAsTabs.accesskey   "s">
+<!ENTITY newWindowsAsTabs.label       "Mở các cửa sổ mới trong một thẻ (t)">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Cảnh báo khi đóng nhiều thẻ">
 <!ENTITY warnCloseMultipleTabs.accesskey  "b">
