@@ -252,7 +252,7 @@ dale ko ci Android">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Ndax bëgg nga sajj xelal yi ci wut &forat;s ?">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "Jëfekaay">
 
