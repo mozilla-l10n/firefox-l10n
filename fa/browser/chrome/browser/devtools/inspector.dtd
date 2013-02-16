@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "کپی HTML داخلی">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "کپی HTML خارجی">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "حذف گره‌">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">

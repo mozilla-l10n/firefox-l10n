@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "جست‌وجو:">
 <!ENTITY search.accesskey                          "ج">
 
-<!ENTITY search.in.label                           "جست‌وجو در:">
-<!ENTITY search.scopeFolder.label                  "پوشهٔ انتخاب شده">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "نشانک‌ها">
-<!ENTITY search.scopeBookmarks.accesskey           "ش">
-<!ENTITY search.scopeDownloads.label               "بارگیری‌ها">
-<!ENTITY search.scopeDownloads.accesskey           "ب">
-<!ENTITY search.scopeHistory.label                 "تاریخچه">
-<!ENTITY search.scopeHistory.accesskey             "ت">
-<!ENTITY saveSearch.label                          "ذخیره">
-<!ENTITY saveSearch.accesskey                      "ذ">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "وارد کردن و پشتیبان‌گیری">

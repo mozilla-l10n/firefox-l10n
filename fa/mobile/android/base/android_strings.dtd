@@ -54,11 +54,10 @@
 <!ENTITY site_security "امنیت سایت">
 
 <!ENTITY close_tab "بستن زبانه">
-<!ENTITY new_tab "زبانهٔ جدید">
 <!ENTITY one_tab "1 زبانه">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d زبانه">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "زبانۀ جدید باز شد">
 
 <!ENTITY settings "تنظیمات">
@@ -71,16 +70,22 @@
 <!ENTITY pref_do_not_track "Tell sites not to track me">
 <!ENTITY pref_telemetry "ارسال داده‌های اجرایی">
 <!ENTITY pref_remember_signons "به خاطر سپردن گذرواژه‌ها">
-<!ENTITY pref_cookies "فعال‌سازی کوکی‌ها‌">
+
+<!ENTITY pref_cookies_menu "کوکی‌ها">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
 <!ENTITY pref_char_encoding_off "عدم نمایش منو">
 <!ENTITY pref_clear_private_data "پاک‌سازی اطلاعات خصوصی">
 <!ENTITY pref_plugins "افزونه‌ها">
-<!ENTITY pref_plugins_enabled "فعال شد">
+<!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "برای اجرا، فشار دهید">
-<!ENTITY pref_plugins_disabled "غیر فعال">
+<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_text_size "اندازهٔ متن">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "ریز">
 <!ENTITY pref_font_size_small "کوچک">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -111,6 +116,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
 <!ENTITY pref_private_data_siteSettings "اولویت وب‌گاه‌">
 
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
+
 <!ENTITY quit "خروج">
 
 <!ENTITY addons "افزودنی‌ها">
@@ -125,6 +135,15 @@ size. -->
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "درخواست وب‌سایت دسکتاپ">
 <!ENTITY tools "ابزارها">
+<!ENTITY new_tab "زبانهٔ جدید">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "زبانه‌ها">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -134,6 +153,7 @@ size. -->
 <!ENTITY find_close "بستن">
 
 <!ENTITY contextmenu_open_new_tab "باز کردن در زبانهٔ جدید">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "باز کردن در Reader">
 <!ENTITY contextmenu_remove_history "حذف">
 <!ENTITY contextmenu_remove_bookmark "Remove">
@@ -142,9 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "چسباندن">
 <!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "ویرایش">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Page removed">
 
@@ -182,7 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Your tabs from last time">
 <!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
 <!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "مرور همۀ صفحات برتر">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -228,11 +249,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "وارد کردن تاریخچه 
 از اندروید">
 <!ENTITY bookmarkhistory_import_wait "لطفاً صبر کنید...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "آیا می‌خواهید پیشنهادهای جستجوی &#037;s را روشن کنید؟">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "برنامه">
 
@@ -241,11 +261,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
 <!ENTITY updater_start_select2 "Touch to download">
- 
+
 <!ENTITY updater_downloading_title2 "در حال بارگیری &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Download failed">
 <!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
 <!ENTITY updater_downloading_retry2 "Touch to retry">
- 
+
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Touch to update">

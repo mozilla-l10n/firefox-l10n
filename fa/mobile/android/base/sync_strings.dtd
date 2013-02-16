@@ -57,6 +57,14 @@
 
 <!ENTITY sync.settings.options.label "گزینه‌ها">
 <!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks "نشانک‌ها">
+<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.history "تاریخچه">
+<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "انصراف">
@@ -75,9 +83,12 @@
 <!ENTITY bookmarks.folder.desktop.label "نشانک‌های رایانهٴ شخصی">
 <!ENTITY bookmarks.folder.mobile.label "نشانک‌های همراه">
 <!ENTITY bookmarks.folder.readinglist.label "لیست خواندن">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
