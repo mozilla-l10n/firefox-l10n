@@ -27,7 +27,7 @@
 <!ENTITY  crl.import.success.message              "Daftar Pencabutan Seritifikat (CRL) sukses diimpor.">
 <!ENTITY  crl.issuer.label                        "CRL Diterbitkan Oleh:">
 <!ENTITY  crl.issuer.org.label                    "Organisasi: ">
-<!ENTITY  crl.issuer.orgunit.label                "Unit: ">
+<!ENTITY  crl.issuer.orgunit.label                "Unit:">
 <!ENTITY  crl.import.nextupdate.label             "Pemutakhiran Selanjutnya Pada: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Kegagalan Rangkaian Pemutakhiran Sebelumnya: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Keterangan Kegagalan Pemutakhiran Terakhir: ">

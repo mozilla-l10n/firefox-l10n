@@ -18,11 +18,11 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "f">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Tanpa-serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Spasi tetap:">
-<!ENTITY  monospace.accesskey                     "S">
+<!ENTITY  monospace.accesskey                     "e">
 
 <!ENTITY  font.langGroup.latin1                   "Barat">
 <!ENTITY  font.langGroup.latin2                   "Eropa Tengah">
@@ -60,8 +60,8 @@
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
 <!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Tidak Ada">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
 
@@ -70,4 +70,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Pengodean Karakter">
 <!ENTITY languages.customize.DefaultCharset.label       "Pengodean Karakter Default:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "e">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "f">

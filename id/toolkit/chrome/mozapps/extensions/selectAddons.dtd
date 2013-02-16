@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Installed By">
+<!ENTITY select.source               "Diinstal oleh">
 <!ENTITY select.name                 "Nama">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in

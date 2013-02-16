@@ -1,4 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tentang &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; bersifat eksperimental dan mungkin tidak stabil.">
+<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Layanan Dukungan">
 <!ENTITY aboutPage.privacyPolicy.label          "Kebijakan Privasi">
@@ -9,10 +16,10 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari versi baru…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tidak ada versi baru tersedia">
 <!ENTITY aboutPage.checkForUpdates.found        "Versi baru tersedia">
-
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
+-->
+
+
 <!ENTITY aboutPage.licenseLink                  "Informasi Lisensi">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
