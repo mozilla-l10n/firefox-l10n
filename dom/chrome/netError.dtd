@@ -46,7 +46,18 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>The requested site did not respond to a connection request and the browser has stopped waiting for a reply.</p><ul><li>Could the server be experiencing high demand or a temporary outage?  Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a 
+arrestat d'esperar una responsa.</p> 
+<ul> 
+<li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? 
+ensajatz pus tard.</li> 
+<li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la 
+ret de vòstre ordenador.</li> 
+<li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un 
+proxy ? De paramètres incorrèctes pòdon interferir amb la navigacion sus 
+lo Web.</li> 
+<li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer de l'ajuda.</li> 
+</ul>">
 
 <!ENTITY protocolNotFound.title "Unknown Protocol">
 <!ENTITY protocolNotFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navigador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navigador los pòsca reconéisser.</li></ul>">
@@ -60,8 +71,8 @@
 <!ENTITY redirectLoop.title "Redirect Loop">
 <!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Incorrect Response">
-<!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
+<!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
+<!ENTITY unknownSocketType.longDesc "<p>Lo site a respondut a la requèsta de la ret d'una faiçon inesperada e lo navigador pòt pas contunhar.</p>">
 
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
 <!ENTITY nssFailure2.longDesc "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">

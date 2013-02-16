@@ -8,21 +8,27 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; memorizarà pas pu l'istoric d'aqueste sesilha.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; es pas en mòde de navigacion privada.">
 
-<!ENTITY privatebrowsingpage.description               "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marca-paginas seràn gardats.">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; memorizarà pas pus l'istoric d'aqueste sesilha.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Pel moment, sètz pas dins una fenèstra de navigacion privada.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Benlèu que volètz tanben començar ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "en netejant l'istoric recent">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+<!ENTITY privatebrowsingpage.description               "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marca-paginas seràn gardats.">
+
+<!ENTITY privatebrowsingpage.perwindow.description     "Dins una sesilha de navigacion privada, &brandShortName; memoriza pas l'istoric del navigador, l'istoric de recèrca, l'istoric dels formularis web, los cookies o los fichièrs temporaris d'internet. Ça que la, los fichièrs que telecargatz e los marcapaginas seràn gardats.">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Començar la navigacion privada">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "p">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Dobrir una fenèstra de navigacion privada">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
 <!ENTITY privatebrowsingpage.howToStop2                "Per arrestar la navigacion privada, seleccionatz &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; o tampatz &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY privatebrowsingpage.howToStart3               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Per arrestar la navigacion privada, podètz tampar aquesta fenèstra.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ne saber mai">

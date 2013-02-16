@@ -11,5 +11,5 @@
 <!ENTITY moveResizePopupWindows.accesskey "D">
 <!ENTITY raiseLowerWindows.label        "Passar las fenèstras a l'avant o al rèire plan">
 <!ENTITY raiseLowerWindows.accesskey    "r">
-<!ENTITY disableContextMenus.label      "Desactivar o remplaçar los menuts contextuals">
+<!ENTITY disableContextMenus.label      "Desactivar o remplaçar los menús contextuals">
 <!ENTITY disableContextMenus.accesskey  "D">

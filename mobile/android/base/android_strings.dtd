@@ -48,17 +48,16 @@
 <!ENTITY search "Recercar">
 <!ENTITY reload "Tornar cargar">
 <!ENTITY forward "Pagina seguenta">
-<!ENTITY menu "Menut">
+<!ENTITY menu "Menú">
 <!ENTITY back "Retorn">
 <!ENTITY stop "Arrestar">
 <!ENTITY site_security "Seguretat del site">
 
 <!ENTITY close_tab "Tampar l\'onglet">
-<!ENTITY new_tab "Onglet novèl">
 <!ENTITY one_tab "1 onglet">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d onglets">
+<!ENTITY num_tabs2 "&formatD; onglets">
 <!ENTITY new_tab_opened "Novèl onglet dobèrt">
 
 <!ENTITY settings "Paramètres">
@@ -74,19 +73,19 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activat">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
-<!ENTITY pref_char_encoding_on "Afichar lo menut">
-<!ENTITY pref_char_encoding_off "Amagar lo menut">
+<!ENTITY pref_char_encoding_on "Afichar lo menú">
+<!ENTITY pref_char_encoding_off "Amagar lo menú">
 <!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 <!ENTITY pref_plugins_enabled "Activat">
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
 <!ENTITY pref_plugins_disabled "Desactivat">
 <!ENTITY pref_text_size "Talha del tèxte">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
+<!ENTITY pref_reflow_on_zoom2 "Adaptar lo tèxte en zoomant">
 <!ENTITY pref_font_size_tiny "Fòrça pichona">
 <!ENTITY pref_font_size_small "Pichona">
 <!ENTITY pref_font_size_medium "Mejana">
@@ -118,7 +117,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings "Preferéncias del site">
 
 <!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desactivat">
 <!ENTITY pref_update_autodownload_enabled "Activat">
 
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Recercar dins la pagina">
 <!ENTITY desktop_mode "Veire version ordenador">
 <!ENTITY tools "Aisinas">
-<!ENTITY new_pb_tab "Novel onglet de navigacion privada">
+<!ENTITY new_tab "Onglet novèl">
+<!ENTITY new_private_tab "Onglet de nav. privada">
+<!ENTITY close_all_tabs "Tampar totes los onglets">
+<!ENTITY tabs_normal "Onglets">
+<!ENTITY tabs_private "Privats">
+<!ENTITY tabs_synced "Sincronizats">
+<!ENTITY wallpaper_success "Fons d\u0027ecran remplaçat">
+<!ENTITY wallpaper_progress "Remplaçament del fons d\u0027ecran">
+<!ENTITY wallpaper_fail "Impossible de remplaçar lo fons d\u0027ecran">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Tampar">
 
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
+<!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
 <!ENTITY contextmenu_open_in_reader "Dobrir dins lo lector">
 <!ENTITY contextmenu_remove_history "Suprimir">
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
@@ -155,8 +163,6 @@ size. -->
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\'adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 
 <!ENTITY history_removed "Pagina suprimida">
 
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Vòstres darrièrs onglets dobèrts">
 <!ENTITY abouthome_last_tabs_open "Dobrir totes los onglets">
 <!ENTITY abouthome_top_sites_title "Sites favorits">
+<!ENTITY abouthome_topsites_edit "Modificar">
+<!ENTITY abouthome_topsites_pin "Espingolar lo site">
+<!ENTITY abouthome_topsites_unpin "Daissar anar lo site">
+<!ENTITY abouthome_topsites_unpinall "Daissar anar totes los sites">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -239,11 +249,10 @@ dempuèi Android">
 <!ENTITY bookmarkhistory_import_history "Importacion de l\'istoric 
 dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "Volètz activar las suggestions de recèrca &#037;s ?">
+<!ENTITY suggestions_prompt2 "Volètz activar las suggestions de recèrca &formatS; ?">
 
 <!ENTITY webapp_generic_name "App">
 

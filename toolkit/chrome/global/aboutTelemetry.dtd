@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  Aquesta pagina aficha las donadas de performàncias e d'utilizacion de las foncionalitats collectadas per telemetria. 
-Aquelas informacions son mandadas d'un biais anonim a Mozilla per ajudar al melhorament de &brandShortName;.">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  La telemetria es <span>activada</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  La telemetria es <span>desactivada</span>.">
