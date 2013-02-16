@@ -34,7 +34,7 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; adalah peramban baku Anda">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Pelaporan Data">
 
 <!ENTITY healthReportSection.label       "Laporan Kebugaran &brandShortName;">
 <!ENTITY healthReportDesc.label          "Bantu kami memahami kinerja dengan berbagi data kebugaran peramban Anda bersama &vendorShortName;">
@@ -51,8 +51,8 @@
 <!ENTITY crashReporterSection.label      "Pelapor Kerusakan">
 <!ENTITY crashReporterDesc.label         "&brandShortName; mengirimkan laporan kerusakan untuk membantu &vendorShortName; membuat peramban Anda lebih stabil dan aman">
 <!ENTITY enableCrashReporter.label       "Aktifkan Pelapor Kerusakan">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY enableCrashReporter.accesskey   "K">
+<!ENTITY crashReporterLearnMore.label    "Pelajari Selengkapnya">
 
 <!ENTITY networkTab.label                "Jaringan">
 
