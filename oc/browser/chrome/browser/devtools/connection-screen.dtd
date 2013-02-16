@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+
+<!ENTITY title      "Se connectar">
+<!ENTITY header     "Se connectar a un aparelh distant">
+<!ENTITY host       "Òste :">
+<!ENTITY port       "Pòrt :">
+<!ENTITY connect    "Se connectar">
+<!ENTITY connecting "Connexion…">
+<!ENTITY availableTabs "Onglets distants disponibles :">
+<!ENTITY availableProcesses "Processus distants disponibles :">
+<!ENTITY connectionError "Error :">
+<!ENTITY errorTimeout "Error : relambi d'espèra de la connexion depassat.">
+<!ENTITY errorRefused "Error : connexion refusada.">
+<!ENTITY errorUnexpected "Error inesperada &#x25;S">
+<!ENTITY help "Las aisinas pels desvolopaires integrats a Firefox pòdon desbugar d'aparelhs distants (Firefox per Android e Firefox OS, per exemple). Asseguratz-vos qu'avètz activat l'opcion « Remote debugging » sus l'aparelh distant. <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>Consultar la documentacion</a> per mai d'informacions.">

@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "R">
 <!ENTITY menu_highlightSyntax.label "Coloracion sintaxica">
 <!ENTITY menu_highlightSyntax.accesskey "C">
-<!ENTITY menu_textSize.label "Talha de tèxt">
+<!ENTITY menu_textSize.label "Talha de tèxte">
 <!ENTITY menu_textSize.accesskey "x">
 <!ENTITY menu_textEnlarge.label "Pus granda">
 <!ENTITY menu_textEnlarge.accesskey "g">

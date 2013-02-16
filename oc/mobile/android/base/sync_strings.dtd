@@ -46,9 +46,9 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Configuracion acabada">
-<!ENTITY sync.subtitle.success.label1 "Ara, vòstras donadaes son sincronizadas en rèire plan. Podètz anar dins lo menut Paramètres per gerir vòstre compte, o començar de navigar amb &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Ara, vòstras donadaes son sincronizadas en rèire plan. Podètz anar dins lo menú Paramètres per gerir vòstre compte, o començar de navigar amb &brandShortName;.">
 <!ENTITY sync.settings.label "Paramètres">
-<!ENTITY sync.subtitle.manage.label1 "Vòstre compte &syncBrand.fullName.label; es ja configurat. Podètz anar dins lo menut Paramètres per gerir vòstre compte, o aviar &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "Vòstre compte &syncBrand.fullName.label; es ja configurat. Podètz anar dins lo menú Paramètres per gerir vòstre compte, o aviar &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Ensajatz tornarmai.">
@@ -59,7 +59,7 @@
 <!ENTITY sync.summary.pair.label "Associar un autre aparelh a vòstre compte &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.title.label "De qué sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar vòstre...">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcapaginas">
 <!ENTITY sync.configure.engines.title.passwords "Senhals">
@@ -75,7 +75,7 @@
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Menut dels marcapaginas">
+<!ENTITY bookmarks.folder.menu.label "Menú dels marcapaginas">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra personala">
@@ -83,10 +83,12 @@
 <!ENTITY bookmarks.folder.desktop.label "Marcapaginas ordenador">
 <!ENTITY bookmarks.folder.mobile.label "Marcapaginas mobils">
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Espingolat">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Un sol compte &syncBrand.fullName.label; pòt èsser gerit.">
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.configure.saved "Vòstras seleccions son estadas enregistradas.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nom de compte o senhal incorrècte.">

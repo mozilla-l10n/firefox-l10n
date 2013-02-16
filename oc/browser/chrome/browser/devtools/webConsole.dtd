@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Donadas de formulari mandadas">
 
 <!ENTITY networkPanel.responseHeaders             "Entèstas de la responsa">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "Cookie recebut">
 <!ENTITY networkPanel.responseBody                "Contengut de la responsa">
 <!ENTITY networkPanel.responseBodyCached          "Donadas en escondedor">
 <!ENTITY networkPanel.responseBodyUnknownType     "Tipe de contengut desconegut">
@@ -59,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Avertiments">
 <!ENTITY btnConsoleLog          "Log">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Posicion">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Posicion de la consòla Web en dessús o en dejós del document">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "En dessús">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "En dejós">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "Fenèstra">
 
 <!ENTITY filterBox.placeholder "Filtre">
 <!ENTITY btnClear.label        "Netejar">
-<!ENTITY btnClear.tooltip      "Viodar la Consòla Web">
-<!ENTITY btnClose.tooltip      "Tampar la consòla">
+<!ENTITY btnClear.tooltip      "Voidar la Consòla Web">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

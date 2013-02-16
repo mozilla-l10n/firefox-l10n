@@ -46,7 +46,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "preféréncias de user.js">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Vòtre dorsièr de perfil possedís un <a id='prefs-user-js-link'>fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Acceleracion grafica">
 

@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Copiar innerHTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "C">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copiar outerHTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Suprimir lo nosèl">
+<!ENTITY inspectorHTMLDelete.accesskey      "S">
+
+<!ENTITY inspector.selectButton.tooltip     "Seleccionar l'element amb la mirga">

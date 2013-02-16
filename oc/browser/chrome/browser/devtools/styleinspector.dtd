@@ -41,3 +41,7 @@
 <!ENTITY matched               "Correspondéncia">
 <!ENTITY parentMatch           "Correspondéncia d'un parent">
 <!ENTITY unmatched             "Pas de correspondéncia">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Calcultat">
+<!ENTITY ruleViewTitle         "Règlas">
