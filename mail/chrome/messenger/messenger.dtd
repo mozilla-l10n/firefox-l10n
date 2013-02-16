@@ -519,7 +519,7 @@
 <!ENTITY chatButton.tooltip "Mostra scheda della chat">
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
-<!ENTITY appmenuButton.tooltip "Mostra il menu applicazione">
+<!ENTITY appmenuButton1.tooltip "Mostra il Menu di &brandShortName;">
 <!ENTITY appmenuNewMsgCmd.label "Nuovo messaggio">
 <!ENTITY appmenuNewContactCmd.label "Contatto rubrica…">
 <!ENTITY appmenuEditMenu.label "Modifica">
@@ -675,7 +675,7 @@
 <!ENTITY mdnBarIgnoreButton2.label "Ignora">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
 <!ENTITY mdnBarSendButton2.label "Inviare Ricevuta di Ritorno">
-<!ENTITY mdnBarSendButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.accesskey "R">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Ricerca… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
