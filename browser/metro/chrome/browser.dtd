@@ -66,7 +66,7 @@
 <!ENTITY contextCopyLink.label "Копировать ссылку">
 <!ENTITY contextCopyEmail.label "Копировать адрес эл. почты">
 <!ENTITY contextCopyPhone.label "Копировать номер телефона">
-<!ENTITY contextCopyImageLocation.label "Копировать ссылку на изображение">
+<!ENTITY contextCopyImage.label "Копировать изображение">
 <!ENTITY contextShareLink.label "Поделиться ссылкой">
 <!ENTITY contextShareImage.label "Поделиться изображением">
 <!ENTITY contextBookmarkLink.label "Заложить ссылку">
@@ -79,11 +79,6 @@
 <!ENTITY contextEditBookmark.label "Правка">
 <!ENTITY contextRemoveBookmark.label "Удалить">
 <!ENTITY contextShortcutBookmark.label "Добавить на домашний экран">
-<!ENTITY pageactions.pin.site "Закрепить сайт">
-<!ENTITY pageactions.share.page "Поделиться страницей">
 <!ENTITY pageactions.password.forget "Забыть пароль">
-<!ENTITY pageactions.quit "Выход">
 <!ENTITY pageactions.reset "Сбросить настройки сайта">
-<!ENTITY pageactions.findInPage "Найти на странице">
-<!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY pageactions.charEncoding "Кодировка">
