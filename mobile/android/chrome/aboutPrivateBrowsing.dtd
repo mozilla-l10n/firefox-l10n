@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privaatne veebilehitsemine">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Sa avasid uue privaatse kaardi.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Sa pole privaatses kaardis.">
+
+<!ENTITY privatebrowsingpage.description            "Privaatsetes kaartides ei säilita &brandShortName; veebilehitsemise, otsingute ja allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile. Siiski säilitatakse lisatud järjehoidjad ja allalaaditud failid.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Kuigi sellesse seadmesse ei jää jälge sinu veebilehitsemise ajaloost, võib sinu interneti teenusepakkuja siiski sinu poolt külastatavaid lehti jälgida.">
