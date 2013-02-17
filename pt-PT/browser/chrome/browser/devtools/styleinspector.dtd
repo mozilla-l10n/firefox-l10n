@@ -8,10 +8,10 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "Apenas estilos do utilizador">
+<!ENTITY browserStylesLabel    "Estilos do navegador">
 
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
@@ -36,5 +36,5 @@
 <!ENTITY parentMatch           "Correspondência similar">
 
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Computed">
+<!ENTITY computedViewTitle     "Computado">
 <!ENTITY ruleViewTitle         "Regras">
