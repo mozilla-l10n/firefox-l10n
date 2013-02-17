@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Eg har aldri brukt &syncBrand.shortName.label; før">
-<!ENTITY setup.choicePage.existing.label  "Eg brukar allereie &syncBrand.shortName.label; på ei anna datamaskin">
+<!ENTITY setup.choicePage.existing2.label "Eg brukar &syncBrand.shortName.label; på ei anna eining">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tenar">
@@ -78,8 +78,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-innstillingar">
-<!ENTITY syncComputerName.label       "Datamaskinnamn:">
-<!ENTITY syncComputerName.accesskey   "D">
+<!ENTITY syncDeviceName.label       "Einingsnamn:">
+<!ENTITY syncDeviceName.accesskey   "E">
 
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerke">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Utvidingar">
 <!ENTITY engine.addons.accesskey    "U">
 
-<!ENTITY choice2.merge.main.label      "Flett saman data på denne datamaskina med &syncBrand.shortName.label; sine data">
+<!ENTITY choice2a.merge.main.label       "Flett saman data på denne eininga med &syncBrand.shortName.label; sine data">
 <!ENTITY choice2.merge.recommended.label "Tilrådd:">
-<!ENTITY choice2.client.main.label     "Byt ut alle data på denne datamaskina med data fra &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Byt ut data på alle andre einingar med data på denne datamaskina">
+<!ENTITY choice2a.client.main.label      "Erstatt alle data på denne eininga med data frå &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Erstatt data på alle andre einingar med data frå denne eininga">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Stadfest">
-<!ENTITY confirm.merge.label    "Du har valt å flette saman data frå denne datamaskina med data i Sync-kontoen.">
-<!ENTITY confirm.client2.label         "Åtvaring: Følgande &brandShortName;-data på denne datamaskina vert sletta:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil deretter kopiere dine &syncBrand.fullName.label;-data til denne datamaskina.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; vil no flette saman nettlesardata på denne eininga med Sync-kontoen.">
+<!ENTITY confirm.client3.label         "Åtvaring: Følgande &brandShortName;-data på denne eininga vert sletta:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; vil deretter kopiere &syncBrand.fullName.label;-data dine til denne eininga.">
 <!ENTITY confirm.server2.label         "Åtvaring: Følgande einingar vert overskrivne med lokale data:">
 
 <!-- New & Existing Account: Setup Complete -->

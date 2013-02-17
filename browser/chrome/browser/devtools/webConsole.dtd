@@ -8,18 +8,19 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY window.title "Vevkonsoll">
+<!ENTITY window.title "Webkonsoll">
 
-<!ENTITY networkPanel.requestURL                  "Førespurd URL">
-<!ENTITY networkPanel.requestMethod               "Metode">
-<!ENTITY networkPanel.statusCode                  "Statuskode">
+<!ENTITY networkPanel.requestURLColon             "Forespurt URL:">
+<!ENTITY networkPanel.requestMethodColon          "Metode:">
+<!ENTITY networkPanel.statusCodeColon             "Statuskode:">
 
 <!ENTITY networkPanel.requestHeaders              "Førespurnadshovud">
-<!ENTITY networkPanel.requestCookie               "Infokapslar som er sende">
+<!ENTITY networkPanel.requestCookie               "Send infokapsel">
 <!ENTITY networkPanel.requestBody                 "Førespurnadskropp">
 <!ENTITY networkPanel.requestFormData             "Skjemadata som er sende">
 
 <!ENTITY networkPanel.responseHeaders             "Responshovud">
+<!ENTITY networkPanel.responseCookie              "Mottatt infokapsel">
 <!ENTITY networkPanel.responseBody                "Responskropp">
 <!ENTITY networkPanel.responseBodyCached          "Mellomlagra data">
 <!ENTITY networkPanel.responseBodyUnknownType     "Ukjend innhaldstype">
@@ -65,7 +66,7 @@
 
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "Plasser vevkonsollen over eller under dokumentet">
+<!ENTITY btnPosition.tooltip   "Plasser webkonsollen over eller under dokumentet">
 
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->
@@ -81,8 +82,8 @@
 
 <!ENTITY filterBox.placeholder "Filter">
 <!ENTITY btnClear.label        "Tøm">
-<!ENTITY btnClear.tooltip      "Tøm innhaldet i vevkonsollen">
-<!ENTITY btnClose.tooltip      "Lat att vevkonsollen">
+<!ENTITY btnClear.tooltip      "Tøm innhaldet i webkonsollen">
+<!ENTITY btnClose.tooltip      "Lat att webkonsollen">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
