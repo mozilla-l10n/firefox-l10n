@@ -31,19 +31,19 @@
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "အမည် ကူးယူပါ">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "တန်ဖိုး ကူးယူပါ">
+<!ENTITY copyValue.label "Vတန်ဖိုးကူးယူ">
 <!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "ပြုပြင်ပါ">
+<!ENTITY modify.label "Mပြုပြင်">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "အထန်းခလုတ်">
+<!ENTITY toggle.label "Tအထိန်းခုံ">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "ပြန်ချိန်တယ်">
+<!ENTITY reset.label "Rပြန်ချိန်">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "အသစ်">
+<!ENTITY new.label "wအသစ်">
 <!ENTITY new.accesskey "w">
-<!ENTITY string.label "အတန်း">
+<!ENTITY string.label "Sစာတန်း">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "ကိန်းပြည့်">
+<!ENTITY integer.label "Iကိန်းပြည့်">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "ယုတ္တိတန် ပေါင်းစပ်မှု နည်းစနှစ်">
+<!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">

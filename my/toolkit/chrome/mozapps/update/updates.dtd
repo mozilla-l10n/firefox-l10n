@@ -8,7 +8,7 @@
 
 <!ENTITY  pluginupdatesfound.title        "Pluginsအတွက်အဆင့်မြင်တင်မှုအသစ်တွေ့ရှိပါသည်">
 <!ENTITY  pluginupdatesfound.label        "သင်၏ Pluginsများ အတွက် တခု သို့မဟုတ် တခုထက်ပိုသော versions အသစ်များကို ရှာဖွေတွေ့ရှိထားပါသည်။">
-<!ENTITY  pluginupdateslink.label         "သင်၏  plugins အား မည်သို့ အဆင်မြင်တင်ကြာင်း ကြည့်ရှုပါ">
+<!ENTITY  pluginupdateslink.label         "ပလပ်အင် အားမည်သို့အဆင့်မြှင့်တင်ရန် ကြည့်ပါ">
 
 <!ENTITY  noupdatesfound.title            "မွမ်းမံချက်များ မတွေ့ရဘူး">
 <!ENTITY  noupdatesautoenabled.intro      "မွမ်းမံချက်များ မရှိဘူး။ &brandShortName; က မွမ်းမံချက်များကို 
@@ -41,7 +41,7 @@
 <!ENTITY  license.instructionText         "အောက်ပါ ခွင့်ပြုမှု သဘောတူညီချက်ကို ဖတ်ရှုပါ။ ကျန်တဲ့ ဒီခွင့်ပြုချက်ကို ရှုမြင်ဖို့ လှိမ့်ဆင်း တန်းလျာကို သုံးစွဲပါ။">
 <!ENTITY  license.accept                  "ခွင့်ပြုမှု သဘောတူညီချက် စကားရပ်ကို ကျွန်ပ် လက်ခံတယ်">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "ခွင့်ပြုမှု သဘောတူညီချက် စကားရပ်များကို ကျွန်ပ် လက်မခံဘူး။">
+<!ENTITY  license.decline                 "သဘောတူညီမှု ခွင့်ပြုချက်တွင် စကားရပ်များ NOT လက်မခံပါ">
 <!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "မလိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များကို တွေ့ရှိတယ်">

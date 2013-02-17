@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_siteSettings "ဆိုဒ်အထိန်းအချုပ်များ">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
@@ -187,7 +187,7 @@ size. -->
 <!ENTITY masterpassword_password "စကားဝှက်">
 <!ENTITY masterpassword_confirm "Confirm password">
 
-<!ENTITY button_ok "ကောင်းပြီ">
+<!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancel">
 <!ENTITY button_yes "ကောင်းပြီ">
 <!ENTITY button_no "မလုပ်ဘူး">
@@ -241,7 +241,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Private data cleared">
 <!ENTITY private_data_fail "Some private data could not be cleared">
 
-<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_button_import "ပြန်ရယူ">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
                                       from Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks

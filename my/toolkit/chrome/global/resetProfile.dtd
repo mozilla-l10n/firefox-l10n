@@ -12,4 +12,4 @@
 <!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
 <!ENTITY resetProfile.button.label        "&brandShortName; ကို ပြန်စပါ">
 
-<!ENTITY resetProfile.cleaning.description "​ကျေဇူးပြု၍ &brandShortName; က သင့်ရဲ့ ဒေတာအဟောင်းတွေကို ရှင်းလင်းနေစဉ် ခနစောင့်ပေးပါ">
+<!ENTITY resetProfile.cleaning.description "Please wait while &brandShortName; cleans up your old data…">

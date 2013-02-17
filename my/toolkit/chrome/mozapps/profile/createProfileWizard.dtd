@@ -15,11 +15,11 @@
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text      "သင့်တွင် ပရိုင်ဖိုင်များ စွာရှိပါက ယခုသည်သင် နာမည်များအား မတူအောင်ပေးထားနိုင်ပါသည်။ သို့မဟုတ် ဤတွင်ပေးထားသော နာမည်အားသုံးလိုကသုံး မသုံးလိုက သင်ကိုယ်တိုင်ပေးပြီးသုံး။">
-<!ENTITY profilePrompt.label            "ပရိုဖိုင်နာမည် အသစ်တစ်ခုရိုက်ထည့်ပါ">
+<!ENTITY profilePrompt.label            "Eပရိုဖိုင်နာမည် အသစ်တစ်ခုရိုက်ထည့်ပါ:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "သင်၏ အသုံးပြုသူ settings, preferences နှင့် အခြားသော အသုံးပြုနှင့် သက်ဆိုင်ရာ အချက်အလက်များကို သိမ်းဆည်းထားပါသည်။">
 <!ENTITY profileDefaultName             "အမြဲအသုံးပြုသောသူ">
 <!ENTITY button.choosefolder.label      "ဖိုင်တွဲရွေးပါ">
 <!ENTITY button.choosefolder.accesskey  "ဖ">
-<!ENTITY button.usedefault.label        "ပုံသေ ဖိုဒါ အဖြစ်  အသုံးပြုပါ">
+<!ENTITY button.usedefault.label        "U စံဖိုဒါအဖြစ်သုံး">
 <!ENTITY button.usedefault.accesskey    "U">

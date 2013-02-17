@@ -7,13 +7,13 @@
 
 <!ENTITY treehead.sitename.label      "ကွန်ရက်">
 <!ENTITY treehead.status.label        "လက်ရှိအခြေအနေ">
-<!ENTITY removepermission.label       "ကွန်ရက်ကို ဖယ်ရှားပါ">
+<!ENTITY removepermission.label       "Rကွန်ရက်ကိုဖယ်ရှားပါ">
 <!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "ကွန်ရက်များ အားလုံးကို ဖယ်ရှားပါ">
+<!ENTITY removeallpermissions.label   "eဝတ်ဆိုဒ်အားလုံးကို ဖယ်ရှားပါ">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "၀တ်ဆိုက်လိပ်စာ၊">
 <!ENTITY address.accesskey            "၀">
-<!ENTITY block.label                  "ပိတ်ဆို့ပါ">
+<!ENTITY block.label                  "Bပိတ်ဆို့ပါ">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
 <!ENTITY session.accesskey            "S">

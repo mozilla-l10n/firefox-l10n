@@ -38,7 +38,7 @@
 <!ENTITY  showCookies.label             "Sကွတ်ကီးများကို ​ပြသပါ...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; က လုပ်ပေးမှာက">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "မှတ်တမ်းကို မှတ်ထားပါ">
 <!ENTITY  historyHeader.dontremember.label "မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားနဲ့">
@@ -64,17 +64,17 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "အမြဲသီးသန့်ရှာဖွေခြင်းဖြင့်သုံးမည်။">
+<!ENTITY  privateBrowsingPermanent2.label "အမြဲ p သီးသန့်ရှာဖွေခြင်းဖြင့်သုံးမည်">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "ကွျန်ေတာ် ကြည့်ရှုသမျှနှင့် ရယူသမျှ ရာဇဝင်ကို မှတ်ထားပါ">
+<!ENTITY  rememberHistory2.label      "b ကြည့်ရှုသမျှနှင့် ရယူသမျှ ရာဇဝင်ကို မှတ်ထားပါ">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "ဒီကွန်ရက်များအတွက် စကားဝှက်များကို မှတ်ထားပါ">
+<!ENTITY  rememberSearchForm.label       "ဒီကွန်ရက်များအတွက် စကားဝှက်များကို မှတ်ထားပါ f">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; က သင့်ကို ကာကွယ်တဲ့ ပုံစံ">
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "အပြင်အဆင်များ...">
+<!ENTITY  clearOnCloseSettings.label     "t အပြင်အဆင်များ...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

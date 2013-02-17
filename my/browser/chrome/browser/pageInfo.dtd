@@ -19,7 +19,7 @@
 <!ENTITY  generalType           "အမျိုးအစား၊">
 <!ENTITY  generalMode           "လုပ်ဆောင်နေလျှက်အခြေအနေ၊">
 <!ENTITY  generalSize           "အရွယ်အစား၊">
-<!ENTITY  generalReferrer       "ညွှန်းဆိုလာသောလိပ်စာ၊">
+<!ENTITY  generalReferrer       "အညွန်း URL:">
 <!ENTITY  generalSource         "ကေရှ် ဇစ်မြစ်၊">
 <!ENTITY  generalModified       "ပြုပြင်ချက်၊">
 <!ENTITY  generalEncoding       "စာမြှပ်ဝှက်အမျိုးအစား၊">

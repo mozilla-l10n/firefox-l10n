@@ -27,10 +27,10 @@
 <!ENTITY view.sortDescending.label      "အ > က အစဉ်လိုက် မျိုးတူစု ">
 <!ENTITY view.sortDescending.accesskey  "အ">
 
-<!ENTITY importBookmarksFromHTML.label     "Htmlဖိုင်တစ်ခုမှဝတ်ဆိုက်အမှတ်များကိုသွင်းယူမည်။">
-<!ENTITY importBookmarksFromHTML.accesskey "H">
-<!ENTITY exportBookmarksToHTML.label       "ဝတ်ဆိုက်အမှတ်များကိုhtml ဖြင့်ထုတ်ယူမည်။">
-<!ENTITY exportBookmarksToHTML.accesskey   "ဝ">
+<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "အခြားဘယောက်ဆာတစ်ခုမှအချက်အလက်များကိုသွင်းယူမည်။">
 <!ENTITY importOtherBrowser.accesskey      "အ">
 

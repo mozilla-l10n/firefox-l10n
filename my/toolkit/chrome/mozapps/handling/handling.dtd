@@ -5,5 +5,5 @@
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseApp.description "လုပ်ငန်းသုံးကိရိယာကို ရွေးချယ်ပါ">
-<!ENTITY ChooseApp.label "ရွေးပါ...">
+<!ENTITY ChooseApp.label "Cရွေးပါ...">
 <!ENTITY ChooseApp.accessKey "C">

@@ -55,7 +55,7 @@
 <!ENTITY footerRight.tip     "ညာဖက် အောက်ခြေစာတမ်း">
 
 <!ENTITY hfTitle             "ခေါင်းစဉ်">
-<!ENTITY hfURL               "ကွန်ရက် လိပ်စာ">
+<!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "နေ့စွဲ/အချိန်">
 <!ENTITY hfPage              "စာမျက်နှာ #">
 <!ENTITY hfPageAndTotal      "စာမျက်နှာ # မှ #">

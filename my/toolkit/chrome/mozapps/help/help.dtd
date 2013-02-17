@@ -8,7 +8,7 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "နောက်သို့">
+<!ENTITY backButton.label               "Bနောက်သို့">
 <!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "နောက် တမျက်နှာ သွားပါ">
 <!ENTITY forwardButton.label            "ရှေ့သို့">

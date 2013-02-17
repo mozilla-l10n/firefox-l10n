@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct.label       "&brandShortName; အကြောင်း">
 <!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName;  ပတ်သတ်သောအကူအညီများ">
+<!ENTITY productHelp.label        "&brandShortName; အကူအညီများH">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">

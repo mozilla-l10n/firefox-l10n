@@ -21,10 +21,10 @@
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ပုံနှိုပ်ရန် အစမ်းမြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ပုံနှိုပ်ပါ...">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.label "ပရင့်ထုတ်ပါ...">
+<!ENTITY printCmd.accesskey "ပ">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "ပိတ်ပါ ">
+<!ENTITY closeCmd.label "Cပိတ်ပါ ">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
@@ -42,22 +42,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "လိုင်းဆီ သွားပါ...">
+<!ENTITY goToLineCmd.label "Gလိုင်းဆီ သွားပါ...">
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "ရှုမြင်ချက်">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.label           "ကြည့်ပါ">
+<!ENTITY viewMenu.accesskey       "က">
 <!ENTITY reloadCmd.label "ပြန်ဖွင့်ပါ">
-<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.accesskey "ပ">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "လိုင်းရှည်များကို ထုပ်ထားပါ"> 
+<!ENTITY menu_wrapLongLines.title "Wစာကြောင်းများကိုထုပ်ပေးပါ"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
-<!ENTITY menu_highlightSyntax.label "ဝါကျဖွဲ့ထုံး အရောင်တားပါ">
-<!ENTITY menu_highlightSyntax.accesskey "H">
-<!ENTITY menu_textSize.label "စာသား အရွယ်အစား">
-<!ENTITY menu_textSize.accesskey "Z">
-<!ENTITY menu_textEnlarge.label "တိုးပါ">
+<!ENTITY menu_highlightSyntax.label "Syntax  Highlighting">
+<!ENTITY menu_highlightSyntax.accesskey " ">
+<!ENTITY menu_textSize.label "Text Size">
+<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textEnlarge.label "Increase">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "လျှော့ပါ">
 <!ENTITY menu_textReduce.accesskey "D">

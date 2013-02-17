@@ -12,10 +12,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "တစ်ခုဖြစ်ပါတယ်">
+<!ENTITY community.exp.middle       "is a">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ">
-<!ENTITY community.exp.end          "ဝတ်အား အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ပြီးတော့ သုံးစွဲနိုင်ရန် အတူတူ လုပ်ကြပါစို့">
+<!ENTITY community.exp.end          "ဝတ်အား အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ သုံးဆွဲနိုင်ရန် လုပ်ဆောင်လျက်">
 
 <!ENTITY community.start2           "&brandShortName; ကိုဒီဇိုင်းထုတ်သူမှာ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -23,7 +23,7 @@
 <!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ">
-<!ENTITY community.end3             "ဝတ် အား အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာမှူရှိရန် နှင့် အားလုံးသုံးစွဲနိုင်ရန် အတူတူလုပ်ဆောင်ကြပါစို့">
+<!ENTITY community.end3             "အင်တာနက် အား အများပိုင်ဖြစ်ရန်၊ ပွင့်လင်းမြင်သာမှူရှိရန် သုံးဆွဲနိုင်ရန်လုပ်ဆောင်လျက်">
 
 <!ENTITY contribute.start           "စိတ်ဝင်စားဖို့ကောင်းပါသလား?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -78,4 +78,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "သင်ဟာယခုရှိနေသောနေရာမှာ">
-<!ENTITY channel.description.end    "ဤလိုင်းအားအဆင့်ထပ်မြှင့်မည်။">
+<!ENTITY channel.description.end    "အဆင့်မြှင့်တင်မည်">

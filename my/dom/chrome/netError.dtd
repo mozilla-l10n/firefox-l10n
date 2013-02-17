@@ -8,13 +8,13 @@
 
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်မှု မအောင်မြင်ပါ">
-<!ENTITY connectionFailure.longDesc "<p>ဝတ်ဆိုဒ်သည်တည်ရှိနေသည်ဟုထင်ရသော်လည်းဘယောင်ဆာသည်၎င်းနှင့်ချိတ်ဆက်ခြင်းမပြုလုပ်နိုင်ပါ။</p><ul><li>ဝတ်ဆိုဒ်အားခေတ္တခဏပိတ်ထားခြင်းမျိုးလား?နောင်အခါ ပြန်လည်ဖွင့်ပါ။</li><li>သင်အခြားဝတ်ဆိုဒ်တွေကိုကော ဖွင့်လို့ရရဲ့လား?သင်၏ကွန်ပျူတာ ကွန်ယက်ချိတ်ဆက်မှူအား စစ်ဆေးကြည့်ပါ။</li><li> သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါများဖြင့်ကာကွယ်ထားပါသလား သို့ပရောက်ဆီတစ်မျိုးသုံးထားပါသလား?မှားယွင်းနေသော အပြင်အဆင်များသည် အင်တာနက်နက်ဝတ်ဆိုဒ်ကြည့်ရှူနိုင်ခြင်းမပြုနိုင်ပါ။</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "လုံခြုံရေး ကိစ္စများကြောင့်တားမြစ်ထားတဲ့ Port">
 <!ENTITY deniedPortAccess.longDesc "<p>ဖွင့်ကြည့်လိုသောလိပ်စာသည် Port တစ်ခုအား ညွှန်းနေသည် (ဥပမာ <q>mozilla.org:80</q> သည် port 80ဖြင့်မော်ဇီလာဝတ်ဆိုဒ်အားဖွင့်ရန်ဖြစ်ပြီး) များသောအားဖြင့်၎င်းသည် ဝတ်ဆိုဒ်ကြည့်ရှူခြင်းထက်<em>ပိုသော</em>အသုံးချခြင်းအတွက်သုံးသည်။ဘယောင်ဆာသည်သင်၏ တောင်းဆိုလိပ်စာအား လုံခြုံရေးနှင့်စိတ်ချရရေးအတွက်ပြုလုပ်မပေးနိုင်ပါ</p>">
 
 <!ENTITY dnsNotFound.title "ကွန်ရက် လိပ်စာ မတွေ့ရပါ">
-<!ENTITY dnsNotFound.longDesc "<p>ဘယောက်ဆာသည်ပေးထားသောလိပ်စာဖြင့်ဆာဗာအားရှာမတွေ့နိုင်ပါ။</p><ul><li>ဒိုမိန်းနာမည်အားရိုက်စဉ်သင်အမှားများပြုလုပ်ခဲ့သေးလား(e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>ဤလိပ်စာတည်ရှိနေသည်ကိုသင်သေချာပါသလား။သို့မဟုတ်၎င်း၏မှတ်ပုံတင်ကာလကုန်ဆုံးသွားလို့လား။</li><li>သင်ဝတ်ဆိုက်အားကြည့်ရှုမရပါက သင်၏နက်ဝပ်ချိတ်ဆက်မှူအားစစ်ဆေးပြီး DNS ဆာဗာအပြင်အဆင်များကိုပါစစ်ဆေးကြည့်ပါ</li><li>သင်၏ကွန်ပျူတာအား ဖိုင်းယားဝေါသို့မဟုတ်တစ်ခုခုကနက်ဝပ်မှချိတ်ဆက်ခြင်းကိုကာကွယ်ထားပါသလား။အပြင်အဆင်အမှားအယွင်းများသည်လဲ ဆိုက်ကြည့်ရှူခြင်းအားအနှောက်အယှက်ပေးနိုင်သည်။</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရပါ">
 <!ENTITY fileNotFound.longDesc "<ul><li>သင်ရှည်သည့်ပစ္စည်းအားအမည်ပြောင်းလိုက်ခြင်းသော်လည်ကောင်းရွေးလိုက်ခြင်းသော်လည်းကောင်းလုပ်လိုက်သေးလား။</li><li>လိပ်စာရေးရာတွင်စာလုံးပေါင်းအကြီးအသေးသို့မဟုတ်တိုက်ပိုအမှားများရှိနေလား</li><li>သို့မဟုတ်သင့်မှာ လုံလောက်သောခွင့်ပြုချက်ရရှိထားပါသလား</li></ul>">
@@ -86,7 +86,7 @@
 <!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
 <!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
-<!ENTITY remoteXUL.title "အားဖယ်ပါ">
+<!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

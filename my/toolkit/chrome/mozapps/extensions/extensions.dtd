@@ -64,7 +64,7 @@
 <!ENTITY updates.updating.label               "အက်အွန်တွေကို အသစ်ပြန်တင်မယ်">
 <!ENTITY updates.installed.label              "သင့်၏အက်အွန်အား အဆင့်မြင့်တင်ပြီးပါပြီ">
 <!ENTITY updates.downloaded.label             "သင်၏ အက်အွန် အဆင့်မြင်တင်မှုအား download ချထားပြီးပါပြီ။">
-<!ENTITY updates.restart.label                "ပြီးပြည့်စုံသော သွင်းယူမှုပြီးမြောက်ပြီးနောက် Restart  ချပါ">
+<!ENTITY updates.restart.label                "တပ်ဆင်ခြင်းပြီးမြောက်သွားအောင် Restart လုပ်လိုက်ပါ">
 <!ENTITY updates.noneFound.label              "အသစ်မတွေ့ပါ">
 <!ENTITY updates.manualUpdatesFound.label     "ရရှိနိုင်သော အဆင့်မြင်တင်မှုအား ကြည့်ရှုပါ">
 <!ENTITY updates.updateSelected.label         "လုပ်ဆောင်ချက် အသစ်ထည့်ခြင်း">

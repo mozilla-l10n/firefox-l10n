@@ -28,4 +28,4 @@
 <!ENTITY abouthome.addonsButton.label    "ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY abouthome.appsButton.label      "စျေးကွက်">
 <!ENTITY abouthome.downloadsButton.label "ဆွဲချစရာများ">
-<!ENTITY abouthome.syncButton.label      " &syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

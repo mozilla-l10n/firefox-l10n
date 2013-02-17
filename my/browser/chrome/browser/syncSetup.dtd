@@ -11,12 +11,12 @@
 <!ENTITY button.haveAccount.label      "ကျွန်ုပ်တွင်အကောင့်တစ်ခုရှိပြီးဖြစ်သည်">
 
 <!ENTITY setup.choicePage.title.label     "သင်&syncBrand.fullName.label;အား ယခင်က သုံးဘူးပါသလား?">
-<!ENTITY setup.choicePage.new.label       " &syncBrand.shortName.label; အားယခင်ကမသုံးဘူးပါ။">
+<!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; အားယခင်ကမသုံးဘူးပါ။">
 <!ENTITY setup.choicePage.existing2.label "အခြားစက်တွင် &syncBrand.shortName.label; အားသုံးပြီးဖြစ်သည်။">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "ဆာဗာ">
-<!ENTITY serverType.default.label      "မူလ - မော်ဇီလာ  &syncBrand.fullName.label; ဆာဗာ">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
 <!ENTITY serverType.custom2.label   "ကိုယ်တိုင်ဆာဗာရွေးချယ်မည်">
 <!ENTITY signIn.account2.label      "အကောင့်">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -49,7 +49,7 @@
 <!ENTITY recoveryKeyEntry.label        "သင်ရဲ့ရီကာဗာကီး">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "ကီးအသစ်တစ်ခုအားထုတ်ပေးပါ။">
-<!ENTITY recoveryKeyBackup.description " သင်၏ရီကာဗာကီးသည်&syncBrand.fullName.label;အားကိရိယာများတွင်ခွင့်ပြုချက်ရရှိရမည်ဖြစ်သည်။နောက်သုံးရန်အတွက်ကော်ပီကူးထားစေလိုသည်။အကယ်လို့ပျောက်သွားကကူညီမှဓမပေးနိုင်ပါ။">
+<!ENTITY recoveryKeyBackup.description "သင်၏ရီကာဗာကီးသည်&syncBrand.fullName.label;အားကိရိယာများတွင်ခွင့်ပြုချက်ရရှိရမည်ဖြစ်သည်။နောက်သုံးရန်အတွက်ကော်ပီကူးထားစေလိုသည်။အကယ်လို့ပျောက်သွားကကူညီမှဓမပေးနိုင်ပါ။">
 
 <!ENTITY button.syncKeyBackup.print.label     "ပုံနှိုပ်ပါ...">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -71,7 +71,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "၀င်ပါ">
-<!ENTITY existingRecoveryKey.description "&syncBrand.shortName.label; ပြင်ဆင်ချက်&#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.ထဲသို့သွားကာရီကာဗာကီး အားကော်ပီကူးယူနိုင်ပါသည်။ ">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "စစ်ဆေးအတည်ပြုနေသည်။">
 <!ENTITY resetPassword.label          "ပတ်စ်၀တ်အားပြန်လည်ရယူမည်။">
 <!ENTITY resetSyncKey.label           "အခြားထပ်တူပြုကီးသုံးကိရိယာလဲပျောက်သွားပြီးဖြစ်သည်။">
@@ -103,7 +103,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "အတည်ပြုပါ">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; သည် ယခုကိရိယာ၏ ဘယောက်ဆာ အချက်အလက်များအား ချိတ်ဆက်အကောင့်သို့ သယ်ယူသွားမည်။">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device will be deleted:">
+<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; သည် &syncBrand.fullName.label; မှအချက်အလက်အား ဤကိရိယာသို့ကူးယူမည်။">
 <!ENTITY confirm.server2.label         "သတိပေးချက်၊အောက်ပါကိရိယာများသည်သင်၏မူလအချက်အလက်များအထက်တွင်မှတ်သားသွားမည်ဖြစ်သည်။">
 <!-- New & Existing Account: Setup Complete -->

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title           " အတ်အွန်အားတပ်ဆင်ပါ">
+<!ENTITY title           "အတ်အွန်အားတပ်ဆင်">
 <!ENTITY intro           "အောက်ပါအတ်အွန်ဖြင့် သင်၏ကွန်ပျူတာအတွင်းမှ ပရိုဂရမ်တစ်ခုသည် 
 &brandShortName; အားပြင်ဆင်ရန်ရှိနေသည် :">
 <!ENTITY warning         "ပေါင်းထည့်ချက်များကို သင်စိတ်ချတဲ့ ရေးသားသူများ ထံမှသာ ​တပ်ဆင်ပါ။">

@@ -11,7 +11,7 @@
 <!ENTITY name.label             "အမည်">
 <!ENTITY size.label             "အရွယ်အ​စား">
 <!ENTITY lastModified.label     "နောက်ဆုံး မွမ်းမံချိန်">
-<!ENTITY showHiddenFiles.label  "​ဖျောက်ထားတဲ့ ဖိုင်များနဲ့ ဖိုင်တွဲများကို ဖေါ်ပြပါ">
+<!ENTITY showHiddenFiles.label  "S​ဖျောက်ထားတဲ့ ဖိုင်များနဲ့ ဖိုင်တွဲများကို ဖေါ်ပြပါ">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
 <!ENTITY noPermissionError.label "ဒီဖိုင်တွဲကို ရှုမြင်ဖို့ သင့်မှာ လိုအပ်တဲ့ ခွင့်ပြုချက်တွေ မရှိဘူး။">

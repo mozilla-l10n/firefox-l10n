@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Burmese(my)
+#define MOZ_LANG_TITLE English (US)

@@ -6,6 +6,6 @@
      should go into netError.dtd -->
 
 
-<!ENTITY securityOverride.linkText "(သို့မဟုတ်ပါက) ခြွင်းချက်တခုကို သင် ထည့်သွင်းနိုင်တယ်..">
+<!ENTITY securityOverride.linkText "Or you can add an exception...">
 <!ENTITY securityOverride.warningContent "<p>ဤဆာဗာသည်ယခင်ယခုကဲ့သို့သတိပေးမှူများပြသခြင်းမရှိပါကသင်သည်ယခု ချွင်းချက်အား ထည့်သွင်းခြင်းမပြုသင့်ပါ။</p> 
 <p>အကယ်လို့များသင်ဆက်လုပ်လိုပါကအသေးစိတ်အပြင်အဆင်များတွင်ပြုပြင်နိုင်ပါသည်</p>">

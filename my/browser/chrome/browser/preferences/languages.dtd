@@ -7,13 +7,13 @@
 <!ENTITY languages.customize.Header                     "ဘာသာ စကားများ">
 <!ENTITY languages.customize.prefLangDescript           "တခါတရံ ကွန်ရက် စာမျက်နှာများကို ဘာသာ စကား တခုထက် ပိုပြီး ပံ့ပိုးပေးတယ်။ ဦးစားပေးချက်နဲ့ အညီ ကွန်ရက် စာမျက်နှာများပေါ် ​ဖေါ်ပြဖို့ ဘာသာ စကားများကို ရွေးပါ။">
 <!ENTITY languages.customize.active.label               "ဦးစားပေးချက်နဲ့ညီတဲ့ ဘာသာ စကားများ">
-<!ENTITY languages.customize.moveUp.label               "အထက်ကို ရွေ့ပါ">
+<!ENTITY languages.customize.moveUp.label               "ရွေ့ပါ Uအထက်">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
-<!ENTITY languages.customize.moveDown.label             "အောက်ကို ရွေ့ပါ">
+<!ENTITY languages.customize.moveDown.label             "ရွေ့ပါ Dအောက်">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
-<!ENTITY languages.customize.deleteButton.label         "ဖယ်ရှားပါ ">
+<!ENTITY languages.customize.deleteButton.label         "Rဖယ်ရှားပါ">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "ထည့်သွင်းဖို့ ဘာသာ စကား တခုကို ရွေးချယ်ပါ...">
-<!ENTITY languages.customize.addButton.label            "ပေါင်းထည့်ပါ">
+<!ENTITY languages.customize.addButton.label            "Aပေါင်းထည့်ပါ">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 

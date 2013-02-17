@@ -124,7 +124,7 @@ installed.</li>
 အလွန်အလုပ်များနေသောကြောင့်ဖြစ်ပါလိမ့်မည်။</li> 
 <li>အကယ်လိုပြန်လည်ကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာနက်ဝပ် 
 ချိတ်ဆက်မှူကိုစစ်ကြည့်ပါ။.</li> 
-<li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName;  
+<li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName; 
 အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> 
 </ul>">
 
@@ -133,8 +133,8 @@ installed.</li>
 <p>တိုက်ခိုက်ခံဆိုက်များမှာပိုင်ရှင်များအနေဖြင့်၄င်းတို့၀တ်ဆိုက်အားကြည့်ရှူပေးရန် <a href='http://www.stopbadware.org/home/reviewinfo' >ဤတွင်တောင်းဆိုနိုင်သည်။</a></p>">
 
 <!ENTITY phishingBlocked.title "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
-<!ENTITY phishingBlocked.longDesc "<p>ဒီစာမျက်နှာပေါ်မှာ ကိုယ်ရေး အချက်အလက် တခုခု ရေးထည့်လိုက်ခြင်းကြောင့် တူညီတဲ့ ခိုးယူမှု (သို့) အခြား လိမ်လည်မှု ကို ဖြစ်စေနိုင်တယ်။</p> 
-<p>ဒီပုံစံ ကွန်ရက် လိမ်လည်မှုများဟာ လိမ်လည်တိုက်ခိုက်မှုလို့ ခေါ်တဲ့ ရိုက်စားမှုများမှာ အသုံးပြုကြတယ်၊ အဲဒီမှာ ကွန်ရက် စာမျက်နှာတုများနဲ့ အီးမေးလ်များကို သင်စိတ်ချမဲ့ အရင်းအမြစ်တွေ တုပပြီး သုံးစွဲကြတယ်။</p>">
+<!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
@@ -143,7 +143,7 @@ installed.</li>
 <!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "(သို့) ခြွင်းချက်တခုကို သင် ထည့်သွင်းနိုင်တယ်...">
+<!ENTITY securityOverride.linkText "Or you can add an exception...">
 <!ENTITY securityOverride.getMeOutOfHereButton "ဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။">
 <!ENTITY securityOverride.exceptionButtonLabel "ချွင်းချက် ထည့်သွင်းပါ...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -157,5 +157,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "အားဖယ်ပါ">
+<!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">

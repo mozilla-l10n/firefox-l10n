@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "ကြံ့ခိုင်မှုနဲ့ လုံခြုံရေး ပြဿနာများ ဖြစ်စေတဲ့ ကြီးမားတဲ့ အန္တရယ်တခု ဖြစ်တဲ့ ပေါင်းထည့်ချက်များကို ပိတ်ဆို့ထားတယ်။ တခြားတွေကတော့ အန္တရာယ် သိပ်မရှိဘူး၊ ဒါပေမဲ့ သင့်အနေနဲ့ ၄င်းတို့ကို ပြန်ဖွင့်ဖို့ အထူး အကြံပြုအပ်ပါတယ်။">
 <!ENTITY blocklist.moreinfo          "ပိုမို အချက်အလက်">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; ကို ပြန်ဖွင့်ပါ">
+<!ENTITY blocklist.accept.label      "R &brandShortName; ကိုပြန်စ">
 <!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "ပိတ်ဆို့ထားပါသည်">

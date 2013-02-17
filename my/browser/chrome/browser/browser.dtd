@@ -100,7 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "မျက်နှာပြင် အပြည့်စနစ်ကို ပိတ်ပါ">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "ခွင့်ပြုပါ (A)">
+<!ENTITY fullscreenAllowButton.label "Allow">
 <!ENTITY fullscreenExitButton.label "ငြင်းပယ်ပါ">
 <!ENTITY fullscreenApproval.value "ဖန်သားပြင်အပြည့် နဲ့အသုံးပြုလိုပါသလား။">
 
@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
-<!ENTITY syncSetup.label              " &syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; အားတပ်ဆင်ပါ...">
 <!ENTITY syncSetup.accesskey          "s">
 <!ENTITY syncSyncNowItem.label        "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 <!ENTITY syncSyncNowItem.accesskey    "ယ">

@@ -8,7 +8,7 @@
 <!ENTITY     cookiename.label               "ကွတ်ကီး အမည်">
 <!ENTITY     cookiedomain.label             "ကွန်ရက်"> 
 <!ENTITY     button.removecookies.label     "ကွတ်ကီးများကို ဖယ်ထုတ်ပါ">
-<!ENTITY     button.removecookie.label      "ကွတ်ကီးကို ဖယ်ရှားပါ">
+<!ENTITY     button.removecookie.label      "Rကွတ်ကီးဖျက်ပါ">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "ကွတ်ကီးများ အားလုံးကို ဖယ်ရှားပါ">
 <!ENTITY     button.removeallcookies.accesskey "A">

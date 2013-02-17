@@ -69,5 +69,5 @@
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Charset.grouplabel         "အက္ခရာ စာဝှက်ရေးသားခြင်း">
-<!ENTITY languages.customize.DefaultCharset.label       "စံထား အက္ခရာ စာဝှက် ရေးသားချက်၊">
+<!ENTITY languages.customize.DefaultCharset.label       "စံထား အက္ခရာ C စာဝှက် ရေးသားချက်:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">

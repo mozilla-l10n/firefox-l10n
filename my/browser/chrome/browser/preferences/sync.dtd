@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; အားတပ်ဆင်မည်။">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; S အားတပ်ဆင်မည်">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; သည်သင့်အား လျှို့ ၀က်သောစကားလုံးများ၊မှတ်ဉာဏ်များ ၀တ်ဆိုဒ်များအား သင်၏စက်ကိရိယားအားလုံးတွင်သုံးစွဲရယူနိုင်စေသည်။">
 <!-- The page shown when logged in... -->
@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "ပြန်ချိန်တယ်">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "အကောင့်အားပြင်ဆင်မည်">
+<!ENTITY manageAccount.label          "n အကောင့်အားပြင်ဆင်မည်">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "Quotaအားကြည့်မည်">
 <!ENTITY changePassword2.label        "ပတ်စ်၀တ်ပြောင်းမည်...">
@@ -24,13 +24,13 @@
 <!ENTITY pairDevice.label             "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
 
 <!ENTITY syncMy.label               "ထပ်တူပြုမည့်ကျွန်ုပ်">
-<!ENTITY engine.bookmarks.label     "မှတ်သားချက်များ">
+<!ENTITY engine.bookmarks.label     "m မှတ်သားချက်များ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ခလုပ်ပြားများ">
+<!ENTITY engine.tabs.label          "T ခလုပ်ပြားများ">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "မှတ်တမ်း">
+<!ENTITY engine.history.label       "rမှတ်တမ်း">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "စကားဝှက်များ">
+<!ENTITY engine.passwords.label     "P စကားဝှက်များ">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ဦးစားပေး အချက်များ">
 <!ENTITY engine.prefs.accesskey     "S">
@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "ပ">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "စက်ပစ္စည်းအမည်၊">
+<!ENTITY syncDeviceName.label       "c စက်ပစ္စည်းအမည်:">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "ဤကိရိယားအားဖြုတ်မည်">
 <!-- Footer stuff -->

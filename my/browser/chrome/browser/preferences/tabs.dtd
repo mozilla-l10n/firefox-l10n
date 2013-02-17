@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "အစားထိုးပြီး ၀င်းဒိုးအသစ်ထဲက စာအမှတ်သစ် တခုထဲ ဖွင့်ရမှာက">
+<!ENTITY newWindowsAsTabs.label       "t တဗ်တစ်ခု မဖွင့်ပဲ ဝင်းဒိုးတစ်ခုဖွင့်ပါ ">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "စာအမှတ်အများကို ပိတ်တဲ့အခါ သတိပေးပါ">
+<!ENTITY warnCloseMultipleTabs.label  "m စာအမှတ်အများကို ပိတ်တဲ့အခါ သတိပေးပါ">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "စာအမှတ်အများ ဖွင့်တဲ့အခါ &brandShortName; ကို နှေးကွေးစေမယ် ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
+<!ENTITY warnOpenManyTabs.label       "o စာအမှတ်အများ ဖွင့်တဲ့အခါ &brandShortName; ကို နှေးကွေးစေမယ် ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "စာအမှတ် အတန်းကို အမြဲ ပြသပါ။">
+<!ENTITY showTabBar.label             "bစာအမှတ် အတန်းကို အမြဲ ပြသပါ။">
 <!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY restoreTabsOnDemand.label        "တပ်ဗ်များအားမရွေးပါက မဖွင့်ပါနှင့်။">
+<!ENTITY restoreTabsOnDemand.label        "lတပ်ဗ်များအားမရွေးပါက မဖွင့်ပါနှင့်။">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label        "အချိတ်အဆက် တခုကို စာအမှတ်သစ် တခုထဲ ဖွင့်တဲ့အခါ။ ၄င်းနေရာဆီ ချက်ခြင်း ကူးပြောင်းသွားပါ">
+<!ENTITY switchToNewTabs.label        "s တဗ်တစ်ခုအားဖွင့်လိုက်ပါက ၎င်းတဗ်သို့ ချက်ခြင်းပြောင်းသွားပါ ">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "၀င်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
+<!ENTITY showTabsInTaskbar.label          "kဝင်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

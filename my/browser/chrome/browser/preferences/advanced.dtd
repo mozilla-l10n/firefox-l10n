@@ -10,16 +10,16 @@
 
 <!ENTITY useCursorNavigation.label       "စာမျက်နှာများထဲမှာ ကူးသန်းဖို့ cursor သော့ချက်များကို အမြဲသုံးစွဲပါ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "စတင် ရိုက်ထည့်တဲ့အခါ စာသားကို ရှာဖွေပါ">
+<!ENTITY searchStartTyping.label         "စတင် x ရိုက်ထည့်တဲ့အခါ စာသားကို ရှာဖွေပါ">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "၀တ်ဆိုက်သည် ညွှန်းဆိုသို့ပြန်လည် ရယူပြသချင်လိုပါက ကျွန်ုပ်အားသတိပေးပါ။">
 <!ENTITY blockAutoRefresh.accesskey      "၀">
 
 <!ENTITY browsing.label                  "လှော်လှန်ခြင်း">
 
-<!ENTITY useAutoScroll.label             "အလိုအလျှောက် လိမ့်ဆင်းမှုကို သုံးစွဲပါ">
+<!ENTITY useAutoScroll.label             "a အလိုအလျောက်စနစ်ကိုသုံးပါ">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "ချောမွေ့တဲ့ လိမ့်ဆင်းမှုကို သုံးစွဲပါ">
+<!ENTITY useSmoothScrolling.label        "ချောမွေ့တဲ့mလိမ့်ဆင်းမှုကို သုံးစွဲပါ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "r ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
 <!ENTITY allowHWAccel.accesskey          "r">
@@ -30,7 +30,7 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "စတင်ချိန်တိုင်းမှာ &brandShortName; ဟာ စံထား ကွန်ရက်ကြည့် ယန္တရား ဟုတ်မဟုတ် အမြဲ စစ်ဆေးပါ">
 <!ENTITY alwaysCheckDefault.accesskey    "စ">
-<!ENTITY setDefault.label                "&brandShortName; ကိုအမြဲသုံးဘရောက်ဇာ အနေနဲ့ ထားပါ">
+<!ENTITY setDefault.label                "&brandShortName; ကိုအမြဲသုံးdဘရောက်ဇာအဖြစ်သုံး">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; က လက်ရှိ သင့်ရဲ့ အမြဲသုံးဘရောက်ဇာ ဖြစ်ပါတယ်">
 
@@ -38,7 +38,7 @@
 
 <!ENTITY healthReportSection.label       "&brandShortName; ကျန်းမာရေးအစီရင်ခံစာ">
 <!ENTITY healthReportDesc.label          "သင့်ဘယောက်ဆာ ၏ ကျန်းမာရေးအကြောင်း အား &vendorShortName; မှ မည်သို့မျှဝေ သုံးသပ်သည် ကိုနားလည်အောင် ကူညီပေးသည်">
-<!ENTITY enableHealthReport.label        "&brandShortName; ကျန်မာရေး အစီရင်ခံခြင်းအား လုပ်မည်">
+<!ENTITY enableHealthReport.label        "&brandShortName; ကျန်မာရေး Rအစီရင်ခံခြင်းအား လုပ်မည်">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "ဆက်လက်ဖတ်ရှူရန်">
 
@@ -89,25 +89,25 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "ပြုပြင်ချင်းများစုံစမ်းစစ်ဆေး၊ ဒါပေမယ့် တစ်ခုမဟုတ်တစ်ခု တပ်ဆင်ပါ">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "ပြုပြင်ချင်းများမစုံစမ်းစစ်ဆေးမှုမပြု (မကြံမပေးပါ၊ လုံခြုံရေးထိခိုက်နိုင်)">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "ကျွန်ပ်ရဲ့ ပေါင်းထည့်ချက်များ တခုခုကို ပိတ်မယ်ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
 <!ENTITY updateAutoAddonWarn.accesskey   "က">
 
-<!ENTITY updateHistory.label             "မွမ်းမံချက် မှတ်တမ်းကို ပြသပါ">
+<!ENTITY updateHistory.label             "pမွမ်းမံချက် မှတ်တမ်းကို ပြသပါ">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "နောက်ခံမှအလုပ်လုပ်သောဝန်ဆောင်မှူအားအသုံးပြုပြီးအဆင့်မြှင့်ခြင်းများအားပြုလုပ်မည်။">
+<!ENTITY useService.label                "bအဆင့်မြှင့်ရင် နောက်ခံဆားဗစ် တစ်ခုအာ အသုံးပြုမည်">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "အလိုအလျှောက်အဆင့်မြှင့်မည်-">
-<!ENTITY enableSearchUpdate.label        "ရှာဖွေရေး ယန္တရားများ">
+<!ENTITY enableSearchUpdate.label        "E ရှာဖွေရေး ယန္တရားများ">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "ကွန်ရက် စာမျက်နှာတခုက ချိတ်ဆက်မဲ့ သုံးစွဲရန် အချက်အလက်ကြမ်း သိုလှောင်ဖို့ တောင်းဆိုတဲ့အခါ ကျွန်ပ်ကို ပြောပါ">
+<!ENTITY offlineNotify.label             "T ဝတ်ဆိုဒ်တစ်ခု အင်တာနက်မဲ့သုံးရန် ဖိုင်သိမ်းဖို့တောင်းဆိုလာပါက ပြောပါ">
 <!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "ခြွင်းချက်များ...">
+<!ENTITY offlineNotifyExceptions.label   "xခြွင်းချက်များ...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "အော့ဖ်လိုင်း အသုံးပြုနိုင်ဖို့အတွက် အောက်ပါ ဝက်ဘ်ဆိုက်များမှာ ဒေတာတွေကို သိုလှောင်ခွင့်ပြုတယ်။">
@@ -129,11 +129,11 @@
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
 <!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "လက်မှတ်များကို ရှုမြင်ပါ">
+<!ENTITY viewCerts.label                 "sလုံခြုံရေးလက်မှတ်များကိုကြည့်မည်">
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewCRLs.label                  "ပြန်လည်ရုတ်သိမ်းခြင်း စာရင်းများ">
 <!ENTITY viewCRLs.accesskey              "R">
-<!ENTITY verify2.label                   "တရား၀င်မှု">
+<!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "လုံခြုံရေး ကိရိယာများ">
 <!ENTITY viewSecurityDevices.accesskey   "y">

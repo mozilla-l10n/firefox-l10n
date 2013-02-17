@@ -22,7 +22,7 @@
 
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "ဖိုင်">
+<!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "ဝင်းဒိုးသစ်">
@@ -39,11 +39,11 @@
 <!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "သိမ်းဆည်းပါ">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.label            "သိမ်း">
+<!ENTITY saveFileCmd.accesskey        "သ">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "ဤသို့သိမ်းတော့မည်..">
+<!ENTITY saveFileAsCmd.label          "ဤသို့ Aသိမ်း...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "ပိတ်ပါ">
@@ -95,7 +95,7 @@
 <!ENTITY helpMenuWin.label            "အကူအညီ">
 <!ENTITY helpMenuWin.accesskey        "အ">
 
-<!ENTITY documentationLink.label      "Scratchpad  ၏အသေးစိတ် အကူအညီကို  MDNမှာ">
+<!ENTITY documentationLink.label      "MDN ရှိ Scratchpad အကူ">
 <!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

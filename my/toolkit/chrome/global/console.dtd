@@ -8,7 +8,7 @@
 <!ENTITY errLine.label   "လိုင်း၊">
 <!ENTITY errColumn.label "ကော်လံ၊">
 
-<!ENTITY all.label          "အားလုံး">
+<!ENTITY all.label          "Aအားလုံး">
 <!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "အမှားများ">
 <!ENTITY errors.accesskey   "E">

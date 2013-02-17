@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Bad">
 
 <!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "Send performance data">
+<!ENTITY feedback.allowTelemetry.title  "လုပ်ဆောက်ချက်မှတ်တမ်းပို့">
 <!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
 <!ENTITY feedback.errorConsole.title    "Enable the Error Console">

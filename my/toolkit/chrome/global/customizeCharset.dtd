@@ -5,12 +5,12 @@
 
 <!ENTITY title.label        "အက္ခရာ စာဝှက် ရေးသားခြင်း စိတ်ကြိုက် ဖန်တီးပါ">
 <!ENTITY current.label      "သက်၀င်တဲ့ အက္ခရာ စာဝှက် ရေးသားခြင်းများ -">
-<!ENTITY remove.label       "ဖယ်ရှားပါ ">
-<!ENTITY remove.accessKey   "R">
+<!ENTITY remove.label       "ဖယ်ရှားပါ">
+<!ENTITY remove.accessKey   "ဖ">
 <!ENTITY additional.label   "ရနိုင်တဲ့ အက္ခရာ စာဝှက် ရေးသားခြင်းများ -">
-<!ENTITY add.label          "ပေါင်းထည့်ပါ">
+<!ENTITY add.label          "Aပေါင်းထည့်ပါ">
 <!ENTITY add.accessKey      "A">
-<!ENTITY moveUp.label       "အထက်ကို ရွေ့ပါ">
+<!ENTITY moveUp.label       "ရွေ့ပါ Uအထက်">
 <!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "အောက်ကို ရွေ့ပါ">
+<!ENTITY moveDown.label     "ရွေ့ပါ Dအောက်">
 <!ENTITY moveDown.accessKey "D">

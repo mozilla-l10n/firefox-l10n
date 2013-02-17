@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "ဝတ်ဇတ်ကိုတင်သွင်းပါ။">
 
 <!ENTITY importFrom.label               "ရွေးစရာများ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊ ">
-<!ENTITY importFromUnix.label           " အချက်များ၊ မှတ်သားချက်များ၊ မှတ်တမ်း၊ စကားဝှက်များနဲ့ အ​ခြား အချက်အလက်ကြမ်း တင်သွင်းမဲ့ နေရာ၊ ">
+<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
 <!ENTITY importFromBookmarks.label      "မှတ်သားချက်များ တင်သွင်းမဲ့ နေရာ၊">
 
 <!ENTITY importFromIE.label             "မိုက်ခရိုဆော့ဖ် အင်တာနက် စူးစမ်းရေးယန္တရား">
@@ -20,7 +20,7 @@
 <!ENTITY importFromFirefox.label        "မီးမြေခွေး">
 <!ENTITY importFromFirefox.accesskey    "မ">
 
-<!ENTITY noMigrationSources.label       "မှတ်သားချက်များ၊ မှတ်တမ်း (သို့) စကားဝှက် အချက်အလက်ကြမ်း ပါ၀င်တဲ့ ဘယ် ပရိုဂရမ်များမှ မတွေ့ရဘူး။">
+<!ENTITY noMigrationSources.label       "မှတ်သားချက်များ၊ မှတ်တမ်း သို့ စကားဝှက် အချက်အလက်ကြမ်း ပါ၀င်တဲ့ ဘယ် ပရိုဂရမ်များမှ မတွေ့ရဘူး။">
 
 <!ENTITY importSource.title             "အပြင်အဆင်များနဲ့ အချက်အလက်ကြမ်း တင်သွင်းပါ">
 <!ENTITY importItems.title              "တင်သွင်းရန် အချက်‌များ">

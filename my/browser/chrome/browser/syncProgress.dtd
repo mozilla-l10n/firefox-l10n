@@ -10,5 +10,5 @@
 <!ENTITY syncProgress.textBlurb    "သင်၏အချက်အလက်များအား encrypt ပြုလုပ်ပြီးနောက် နောက်ခံတင်ပေးပို့နေပါသည်။သင်ယခုဖွင့်ထားသောဝင်းဒိုးအားပိတ်ပြိး &brandShortName; ကို ဆက်လက်အသုံးပြုနိုင်ပါသည်။">
 <!ENTITY syncProgress.closeButton  "ပိတ်ပါ">
 <!ENTITY syncProgress.logoAltText  "&brandShortName; လိုဂို">
-<!ENTITY syncProgress.diffText     "&brandShortName; သည်ယခုအခါနောက်ခံတွင်ထပ်တူပြုချိတ်ဆက်နေလိမ့်မည်။သင်သည်ယခုဖွင့်ထားသောဝင်းဒိုးအားပိတ်ပြီး &brandShortName; အားဆက်လက်အသုံးပြုနိုင်ပါသည်။">
+<!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
 

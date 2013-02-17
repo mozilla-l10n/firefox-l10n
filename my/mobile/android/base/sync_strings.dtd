@@ -9,7 +9,7 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
 <!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
 <!ENTITY sync.title.pair.label 'Pair a Device'>
 <!-- J-PAKE Key Screen -->
@@ -17,7 +17,7 @@
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
 <!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
 <!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.pair.label "အသုံးပြုရန်အတွက် “Pair a device” အားရွေးလိုက်ပါ">
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
@@ -36,7 +36,7 @@
 <!ENTITY sync.input.server.label 'Server URL'>
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
+<!ENTITY sync.title.fail.label "&syncBrand.shortName.label; အားမတပ်ဆင်နိုင်">
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
 <!ENTITY sync.button.tryagain.label "ထပ်ကြိုးစားကြည့်ပါ">
 <!ENTITY sync.button.manual.label 'Manual Setup'>
@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "ပယ်​ဖျက်ပါ">
 <!ENTITY sync.button.connect.label "ချိတ်ဆက်ပါ">
-<!ENTITY sync.button.ok.label "ကောင်းပြီ">
+<!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
@@ -91,15 +91,15 @@
 <!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
-<!ENTITY sync.invalidserver.label "မှန်ကန်သောဆာဗာလိပ်စာအားဖြည့်ပေးပါရန်။">
+<!ENTITY sync.invalidcreds.label "အမည် သို့ လျှို့ဝှက်စကားလုံး မှားနေသည်">
+<!ENTITY sync.invalidserver.label "မှန်ကန်သောဆာဗာလိပ်စာ URL အားဖြည့်ပေးပါရန်။">
 <!ENTITY sync.verifying.label "စစ်ဆေးအတည်ပြုနေသည်။">
 <!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
 <!-- Send tab to device. -->
 
 <!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
 <!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; အားတပ်ဆင်တော့မည်။">
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
 <!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>

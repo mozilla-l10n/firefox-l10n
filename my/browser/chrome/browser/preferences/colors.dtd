@@ -22,5 +22,5 @@
 <!ENTITY  links                           "အချိတ်အဆက် အရောင်များ">
 <!ENTITY  linkColor.label                 "လည်ပတ်ခြင်းမပြုတဲ့ အချိတ်အဆက်များ၊">
 <!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "လည်ပတ်ခဲ့တဲ့ အချိတ်အဆက်များ၊">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.label          "Visited Links:">
+<!ENTITY  visitedLinkColor.accesskey      "V">

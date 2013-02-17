@@ -8,7 +8,7 @@
 <!ENTITY content.title                             "ပါဝင်ပစ္စည်း">
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
+<!ENTITY enableJavaScript.title                    "ဂျာဗားစခရစ်အလုပ်ပေးလုပ်/မလုပ်">
 <!ENTITY privacy.title                             "Privacy &amp; Security">
 <!ENTITY allowCookies.title                        "Allow cookies">
 <!ENTITY doNotTrack.title                          "Tell sites not to track me">

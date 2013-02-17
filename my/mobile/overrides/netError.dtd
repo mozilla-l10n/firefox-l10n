@@ -59,7 +59,8 @@
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်အား ပြသာနာအကြောင်းကြားရန်ဆက်သွယ်ပါ။</li> </ul>">
+<li>ကျေးဇူးပြုပြီး ဝတ်ဆိုဒ်ပိုင်ရှင်အား ပြသာနာအကြောင်းကြားရန်ဆက်သွယ်ပါ။</li>  
+</ul>">
 
 <!ENTITY unsafeContentType.title "အန္တရာယ်မကင်းတဲ့ ဖိုင်အမျိုးအစား">
 <!ENTITY unsafeContentType.longDesc "<ul> 
@@ -113,7 +114,7 @@
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ (သို့) တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​
+<li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ သို့မဟုတ် တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​
  ဖြစ်နိုင်တယ်။ </li> 
 <li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ 
 ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> 
@@ -132,7 +133,7 @@
 <!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
 <!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
-<!ENTITY securityOverride.linkText "(သို့) ခြွင်းချက်တခုကို သင် ထည့်သွင်းနိုင်တယ်...">
+<!ENTITY securityOverride.linkText "သို့မဟုတ်ပါက သင်ခြွင်းချက်တစ်ခုထားနိုင်သည်">
 <!ENTITY securityOverride.getMeOutOfHereButton "ဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။">
 <!ENTITY securityOverride.exceptionButtonLabel "ချွင်းချက် ထည့်သွင်းပါ...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -146,6 +147,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "အားဖယ်ပါ">
+<!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
 

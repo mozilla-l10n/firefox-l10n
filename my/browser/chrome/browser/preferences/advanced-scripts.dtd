@@ -7,9 +7,9 @@
 
 <!ENTITY allowScripts.label             "Script များကို ခွင့်ပြုမဲ့အရာက၊">
 
-<!ENTITY moveResizePopupWindows.label     "M အသစ်ထွက်ဝင်းဒိုးများအားရွေ့မည်(သို့)">
+<!ENTITY moveResizePopupWindows.label     "Mရွေ့မည့် သို့ ဆိုဒ်ပြောင်းမည် ">
 <!ENTITY moveResizePopupWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label        "R ဝင်းဒိုးများကို မြှင့်တင် (သို့) နှိမ့်ချပါ">
+<!ENTITY raiseLowerWindows.label        "Rမြှင့်တင်သို့ နှိမ့်ချပါ">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "အကြောင်းအရာ စာရင်းများကို ပိတ် Disable (သို့) အစားထိုးပါ">
 <!ENTITY disableContextMenus.accesskey  "D">

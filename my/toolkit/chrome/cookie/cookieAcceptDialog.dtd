@@ -9,13 +9,13 @@
 <!ENTITY     props.secure.label             "ပို့ရမဲ့အရာ၊">
 <!ENTITY     props.expires.label            "သက်တမ်းကုန်တယ်၊">
 
-<!ENTITY     button.allow.label             "ခွင့်ပြုပါ">
+<!ENTITY     button.allow.label             "Aခွင့်ပြုပါ">
 <!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
+<!ENTITY     button.session.label           "Sအခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
 <!ENTITY     button.session.accesskey       "S">
-<!ENTITY     button.deny.label              "ငြင်းပယ်ပါ">
+<!ENTITY     button.deny.label              "Dငြင်းပယ်ပါ">
 <!ENTITY     button.deny.accesskey          "D">
 
 <!ENTITY     dialog.title                   "ကွတ်ကီး အပြင်အဆင် အတည်ပြုပါ">
-<!ENTITY     dialog.remember.label          "ဒီကွန်ရက်မှ ကွတ်ကီးများအားလုံးအတွက် ကျွန်ပ် ရွေးချယ်ချက်ကို သုံးစွဲပါ">
+<!ENTITY     dialog.remember.label          "Uဒီကွန်ရက်မှ ကွတ်ကီးများအားလုံးအတွက် ယခု ရွေးချယ်ချက်ကို သုံးစွဲပါ">
 <!ENTITY     dialog.remember.accesskey      "U">
