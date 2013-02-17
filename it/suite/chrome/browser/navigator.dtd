@@ -5,6 +5,7 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindow.titleprivate "Navigazione anonima">
 <!ENTITY editPageCmd.label "Modifica pagina">
 <!ENTITY editPageCmd.accesskey "o">
 <!ENTITY editPageCmd.commandkey "e">
