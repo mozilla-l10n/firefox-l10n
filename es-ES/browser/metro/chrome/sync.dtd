@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title "Sync">
+<!ENTITY sync.notconnected "Sin conectar">
+<!ENTITY sync.connect "Conectar">
+<!ENTITY sync.connected "Conectado">
+<!ENTITY sync.details "Detalles">
+<!ENTITY sync.deviceName "Este dispositivo">
+<!ENTITY sync.disconnect "Desconectar">
+<!ENTITY sync.syncNow "Sincronizar ahora">
+<!ENTITY sync.setup.title "Conectar a Sync">
+<!ENTITY sync.setup.pair 'Para activarlo, seleccione "Emparejar un dispositivo" en su otro dispositivo.'>
+<!ENTITY sync.fallback "No estoy cerca de mi ordenador…">
+<!ENTITY sync.setup.manual "Escriba la información de su cuenta de Sync">
+<!ENTITY sync.account "Nombre de cuenta">
+<!ENTITY sync.password "Contraseña">
+<!ENTITY sync.recoveryKey "Clave de recuperación">
+<!ENTITY sync.customServer "Usar un servidor personalizado">
+<!ENTITY sync.serverURL "URL del servidor">
+<!ENTITY sync.setup.connect "Conectar">
+<!ENTITY sync.setup.cancel "Cancelar">
+<!ENTITY sync.setup.tutorial "Muéstrame cómo">
+<!ENTITY sync.setup.waiting2 "Esperando al otro dispositivo…">
+<!ENTITY sync.pair.title "Emparejar un dispositivo">
+<!ENTITY sync.pair.description 'Para activar su nuevo dispositivo, seleccione "Configurar Sync" en su dispositivo.'>
+<!ENTITY sync.setup.close "Cerrar">
+<!ENTITY sync.setup.waitingdownload "Sus datos están ahora siendo descargados en segundo plano. Puede cerrar esta ventana en cualquier momento.">
