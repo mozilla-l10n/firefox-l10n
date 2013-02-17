@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Sök">
+<!ENTITY newpref.label          "Lägg till ny inställning">
+<!ENTITY addpref.name           "Namn">
+<!ENTITY addpref.value          "Värde">
+
+<!ENTITY cancel.label           "Avbryt">
+<!ENTITY reset.label            "Återställ">
+<!ENTITY done.label             "Klar">
+
+<!ENTITY integer.label          "Heltal">
+<!ENTITY string.label           "Sträng">
+<!ENTITY boolean.label          "Boolesk">
