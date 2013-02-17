@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \\'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \\'s gun luaidh air brùthadh eaconamach. \\'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
+<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \'s gun luaidh air brùthadh eaconamach. \'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_show_product_announcements "Seall naidheachdan bathar">
