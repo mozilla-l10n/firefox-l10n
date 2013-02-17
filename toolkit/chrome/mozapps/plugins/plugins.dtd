@@ -57,6 +57,8 @@
 <!ENTITY report.disabled                                     "Kraschrapportering är inaktiverad.">
 <!ENTITY report.failed                                       "Inskickningen misslyckades.">
 <!ENTITY report.unavailable                                  "Ingen rapport är tillgänglig.">
+<!ENTITY report.comment                                      "Lägg till en kommentar (kommentarer visas offentligt)">
+<!ENTITY report.pageURL                                      "Inkludera sidans URL">
 
 <!ENTITY plugin.file                                         "Fil">
 <!ENTITY plugin.mimeTypes                                    "MIME-typer">
