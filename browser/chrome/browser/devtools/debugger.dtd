@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Filtrovať premenné">
 <!ENTITY debuggerUI.searchVariable.key  "F">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Prejsť na strom premenných">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Tento bod prerušenia zastaví vykonávanie kódu len ak je nasledujúci výraz pravdivý">

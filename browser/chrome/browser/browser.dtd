@@ -280,7 +280,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
 <!ENTITY clearRecentHistory.label            "Vymazať históriu prehliadania…">
-<!ENTITY clearRecentHistory.accesskey        "h">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -629,3 +628,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Prístup ku kamere a mikrofónu">
 <!ENTITY webrtcIndicatorButton.tooltip "Zobrazí stránky, s ktorými práve zdieľate svoju kameru a mikrofón">
+
+<!ENTITY mixedContentBlocked.helplink "Ďalšie informácie">
+<!ENTITY mixedContentBlocked.moreinfo "Väčšina stránok bude aj po zablokovaní tohto obsahu fungovať naďalej správne.">
