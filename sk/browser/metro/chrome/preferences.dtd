@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label                       "Možnosti">
+<!ENTITY aboutHeader.label                         "O prehliadači">
+<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label                  "Autor: &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label                   "Prečítajte si Zásady ochray súkromia &brandShortName; na webe">
+<!ENTITY privacy.title                             "Súkromie a bezpečnosť">
+<!ENTITY doNotTrack.title                          "Požiadať stránky, aby nesledovali moju aktivitu">
+<!ENTITY masterPassword.title                      "Použiť hlavné heslo">
+<!ENTITY clearPrivateData2.title                   "Vymazať súkromné údaje">
+<!ENTITY clearPrivateData.button                   "Vymazať">
+<!ENTITY rememberPasswords.title                   "Zapamätať si heslá">
+<!ENTITY startup.title                             "Spustenie">
+<!ENTITY homepage.title                            "Pri spustení prehliadača &brandShortName; zobraziť">
+<!ENTITY homepage.startPage                        "úvodnú stránku">
+<!ENTITY homepage.sessionRestore                   "karty z poslednej relácie">
