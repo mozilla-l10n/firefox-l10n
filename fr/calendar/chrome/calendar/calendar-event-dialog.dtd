@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Répétition :" >
 <!ENTITY event.repeat.accesskey "i">
+<!ENTITY event.until.label "Jusqu'à :">
+<!ENTITY event.until.accesskey "q">
 <!ENTITY event.reminder.label "Rappel :" >
 <!ENTITY event.reminder.accesskey "R">
 <!ENTITY event.description.label "Description :" >
