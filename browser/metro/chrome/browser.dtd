@@ -83,7 +83,7 @@
 <!ENTITY contextCopyLink.label        "Copier le lien">
 <!ENTITY contextCopyEmail.label       "Copier l'adresse électronique">
 <!ENTITY contextCopyPhone.label       "Copier le numéro de téléphone">
-<!ENTITY contextCopyImageLocation.label "Copier l'adresse de l'image">
+<!ENTITY contextCopyImage.label       "Copier l'image">
 <!ENTITY contextShareLink.label       "Partager le lien">
 <!ENTITY contextShareImage.label      "Partager l'image">
 <!ENTITY contextBookmarkLink.label    "Marquer le lien">
