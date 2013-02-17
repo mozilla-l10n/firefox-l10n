@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Systemintegrasjon">
+<!ENTITY acceptIntegration.label  "Vel som standard">
+<!ENTITY cancelIntegration.label  "Hopp over integrasjon">
 <!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
 
 <!ENTITY email.label "E-post">
-<!ENTITY newsgroups.label "Nyhendegrupper">
-<!ENTITY feeds.label "Nyhendekjelder">
+<!ENTITY newsgroups.label "Nyheitsgrupper">
+<!ENTITY feeds.label "Nyheitskjelder">
+
+<!ENTITY unsetDefault.tooltip "Det er ikkje muleg å fjerne &brandShortName; som standardklient i sjølve &brandShortName;. For å velje eit anna program som standard må du bruke dette programmet sin 'Vel som standard'-dialog.">
 
 <!ENTITY checkOnStartup.label "Alltid sjekk dette ved oppstart av &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">

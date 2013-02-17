@@ -17,12 +17,13 @@
 <!ENTITY highestPriorityCmd.label "Høgast">
 
 <!ENTITY contextDesc.label "Bruk filteret ved:">
-<!ENTITY contextDesc.accesskey "B">
-<!ENTITY contextIncoming.label "Henting av e-post">
+<!ENTITY contextIncomingMail.label "Hentar ny e-post::">
+<!ENTITY contextIncomingMail.accesskey "H">
 <!ENTITY contextManual.label "Manuell filtrering">
-<!ENTITY contextBoth.label "Henting av e-post eller manuell filtrering">
-<!ENTITY contextPostPlugin.label "Henting av e-post (etter klassifisering)">
-<!ENTITY contextPostPluginBoth.label "Henting av e-post (etter klassifisering) eller manuell køyring">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filtrer før søppelpost-klassifisering">
+<!ENTITY contextAfterCls.label "Filtrer etter søppelpost-klassifisering">
+
 <!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
 
