@@ -33,10 +33,26 @@
 <!ENTITY setDefault.label                "&brandShortName; ক অবিকল্পিত ব্ৰাউছাৰ বনাওক">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ">
-<!ENTITY submitCrashes.label             "স্খলন সংবাদ জমা কৰক">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "পৰিৱেশন তথ্য জমা দিয়ক">
-<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "নেটৱাৰ্ক">
 

@@ -14,15 +14,15 @@
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proportional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.label                      "সমানুপাতিক ():">
+<!ENTITY  proportional.accesskey                  ")">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif.label                             "Serif ():">
+<!ENTITY  serif.accesskey                         ")">
+<!ENTITY  sans-serif.label                        "Sans-serif ():">
+<!ENTITY  sans-serif.accesskey                    ")">
+<!ENTITY  monospace.label                         "Monospace ():">
+<!ENTITY  monospace.accesskey                     ")">
 
 <!ENTITY  font.langGroup.latin1                   "ৱেষ্টাৰ্ণ">
 <!ENTITY  font.langGroup.latin2                   "ছেন্ট্ৰেল ইউৰোপীয়ান">

@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title পত্ৰচিহ্নসমূহ
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading পত্ৰচিহ্নসমূহ
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder পত্ৰচিহ্নসমূহ টুলবাৰৰ ফোল্ডাৰ
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description পত্ৰচিহ্নসমূহক পত্ৰচিহ্ন টুলবাৰত চাবলে এই ফোল্ডাৰত যোগ কৰক
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -46,7 +46,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help সহায় আৰু শিক্ষা
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize Firefox স্বনিৰ্বাচন কৰক
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
 
-#define firefox_community Get Involved
+#define firefox_community জড়িত হওক
 
 
 # LOCALIZATION NOTE (firefox_about):
@@ -73,7 +73,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/about/
 
 
-#define firefox_about About Us
+#define firefox_about আমাৰ বিষয়ে
 
 
 #unfilter emptyLines
