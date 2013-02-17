@@ -17,6 +17,7 @@
 <!ENTITY links.label "Comportamento link">
 <!ENTITY offline.label "Non in linea">
 <!ENTITY security.label "Privacy e Sicurezza">
+<!ENTITY privatedata.label "Dati personali">
 <!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "Immagini">
 <!ENTITY popups.label "Finestre pop-up">
