@@ -198,18 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ৱেব উন্নয়নকাৰী">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsConnect.label        "সংযোগ কৰক ()...">
+<!ENTITY devtoolsConnect.accesskey    ")">
+
 <!ENTITY errorConsoleCmd.label        "ত্ৰুটি কনচৌল">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ৱেব কনচৌল">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY remoteWebConsoleCmd.label    "দূৰৱৰ্তী ৱেব কনচৌল">
-
-<!ENTITY inspectMenu.label            "নীৰিক্ষণ কৰক">
-<!ENTITY inspectMenu.accesskey        "I">
-<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "উপাদান নীৰিক্ষণ কৰক">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -233,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "বন্ধ নীৰিক্ষক">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "কাষবাৰ বন্ধ কৰক">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "উন্নয়নকাৰী টুলবাৰ বন্ধ কৰক">
 <!ENTITY devToolbarMenu.label              "উন্নয়নকাৰী টুলবাৰ">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "সঁজুলিসমূহ ট'গল কৰক (T)">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "উন্নয়নকাৰী সঁজুলিসমূহ ট'গল কৰক">
 <!ENTITY devToolbarOtherToolsButton.label  "অধিক সঁজুলি">
-
-<!ENTITY inspectorHTMLCopyInner.label       "অভ্যান্তৰীক HTML কপি কৰক">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "বহিৰ্তম HTML কপি কৰক">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-
-<!ENTITY inspectorHTMLDelete.label          "ন'ড মচি পেলাওক">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "3D দৰ্শন">
-<!ENTITY inspect3DViewButton.accesskey "W">
-
-<!ENTITY inspectStyleButton.label     "শৈলী">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "শৈলী সম্পাদক">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "অধিক সঁজুলিসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -387,6 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "এটা নতুন উইন্ডোত লিঙ্ক খোলক">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "এটা নতুন ব্যক্তিগত উইন্ডোত লিঙ্ক খোলক (P)">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "লিঙ্ক খোলক">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "এটা নতুন টেবত লিঙ্ক খোলক">
@@ -614,8 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "অধিক তথ্য…">
 
-<!ENTITY downloadMonitor2.tooltip "ডাউনল'ড উইন্ডো খুলিবলে ক্লিক কৰক">
-
 <!ENTITY allTabs.filter.emptyText "টেবসমূহ সন্ধান কৰক">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -634,15 +606,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "এড-অন বাৰ বন্ধ কৰক">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "মাৰ্কআপ">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "সামাজিক টুলবাৰ বুটাম">
 <!ENTITY social.notLoggedIn.label   "লগিন অৱস্থাত নাই">
@@ -660,3 +623,13 @@ toolbar button -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "চেটসমূহত ফকাচ কৰক (c)">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "অংশীদাৰী কৰিবলে কেমেৰা (C):">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "অংশীদাৰী কৰিবলে মাইক্ৰফোন (M):">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "কেমেৰা/মাইক্ৰফোনৰ অভিগম">
+<!ENTITY webrtcIndicatorButton.tooltip "ছাইটবোৰ যাৰ সৈতে আপুনি বৰ্তমানে আপোনাৰ কেমেৰা অথবা মাইক্ৰফোন অংশীদাৰী কৰি আছে প্ৰদৰ্শন কৰে">
