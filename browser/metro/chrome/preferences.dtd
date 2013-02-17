@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label                       "Alternativ">
+<!ENTITY aboutHeader.label                         "Om">
+<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label                  "Av &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label                   "Läs &brandShortName; integritetspolicy på nätet">
+<!ENTITY privacy.title                             "Sekretess och säkerhet">
+<!ENTITY doNotTrack.title                          "Be platser att inte spåra mig">
+<!ENTITY masterPassword.title                      "Använd huvudlösenord">
+<!ENTITY clearPrivateData2.title                   "Rensa ut känslig data">
+<!ENTITY clearPrivateData.button                   "Rensa">
+<!ENTITY rememberPasswords.title                   "Spara lösenord">
+<!ENTITY startup.title                             "Start">
+<!ENTITY homepage.title                            "När &brandShortName; startar, visa">
+<!ENTITY homepage.startPage                        "Startsida">
+<!ENTITY homepage.sessionRestore                   "Flikar från senast">
