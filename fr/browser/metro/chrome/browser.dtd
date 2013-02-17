@@ -97,11 +97,6 @@
 <!ENTITY contextRemoveBookmark.label  "Supprimer">
 <!ENTITY contextShortcutBookmark.label "Ajouter à l'écran d'accueil">
 
-<!ENTITY pageactions.pin.site        "Épingler le site">
-<!ENTITY pageactions.share.page      "Partager la page">
 <!ENTITY pageactions.password.forget "Oublier le mot de passe">
-<!ENTITY pageactions.quit            "Fermer">
 <!ENTITY pageactions.reset           "Effacer les préférences de site">
-<!ENTITY pageactions.findInPage      "Rechercher dans la page">
-<!ENTITY pageactions.search.addNew   "Ajouter un moteur de recherche">
 <!ENTITY pageactions.charEncoding    "Encodage des caractères">
