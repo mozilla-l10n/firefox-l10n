@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "No conectado">
+<!ENTITY sync.connect               "Conectar">
+<!ENTITY sync.connected             "Conectado">
+<!ENTITY sync.details               "Detalles">
+<!ENTITY sync.deviceName            "Este dispositivo">
+<!ENTITY sync.disconnect            "Desconectar">
+<!ENTITY sync.syncNow               "Sincronizar ahora">
+
+<!ENTITY sync.setup.title           "Conectar a Sync">
+<!ENTITY sync.fallback              "No estoy cerca de mi computador…">
+<!ENTITY sync.setup.manual          "Ingrese la información de su cuenta de Sync">
+<!ENTITY sync.account               "Nombre de la cuenta">
+<!ENTITY sync.password              "Contraseña">
+<!ENTITY sync.recoveryKey           "Contraseña de recuperación">
+<!ENTITY sync.customServer          "Usar servidor personalizado">
+<!ENTITY sync.serverURL             "URL del servidor">
+<!ENTITY sync.setup.connect         "Conectar">
+<!ENTITY sync.setup.cancel          "Cancelar">
+<!ENTITY sync.setup.tutorial        "Mostrarme como">
+<!ENTITY sync.setup.waiting2        "Esperando por otro dispositivo…">
+
+<!ENTITY sync.setup.close           "Cerrar">
