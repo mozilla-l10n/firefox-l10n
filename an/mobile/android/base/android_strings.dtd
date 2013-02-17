@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "A raboseta narancha blinca as suyas expectativas con mas rapideza, mas flexibilidat y mas seguranza. Como no tenemos animo de lucro, somo libre d\\'innovar sin garra presión ni compromiso. Isto significa una millor experiencia ta vusté y un millor esdevenidor ta la Web.">
+<!ENTITY pref_font_size_preview_text "A raboseta narancha blinca as suyas expectativas con mas rapideza, mas flexibilidat y mas seguranza. Como no tenemos animo de lucro, somos libres d\\'innovar sin garra presión ni compromiso. Isto significa una millor experiencia ta vusté y un millor esdevenidor ta la Web.">
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_show_product_announcements "Amostrar anuncios de productos">

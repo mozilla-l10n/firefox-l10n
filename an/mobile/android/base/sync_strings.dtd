@@ -14,7 +14,7 @@
 <!ENTITY sync.title.pair.label "Vincular un dispositivo">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Ta activar un nuevo dispositivo, seleccione «Configurar &syncBrand.shortName.label;» en l\'atro dispositivo.">
+<!ENTITY sync.subtitle.connect.label "Ta activar un nuevo dispositivo, seleccione \\&quot;Configurar &syncBrand.shortName.label;\\&quot; en l\'atro dispositivo.">
 <!ENTITY sync.subtitle.header2.label "Introduzca iste codigo en o suyo dispositivo">
 <!ENTITY sync.subtitle.connectlocation2.label "Seleccione “&sync.title.pair.label;” en a sección &syncBrand.shortName.label; d\\'as opcions de Firefox en l\\'atro dispositivo.">
 <!ENTITY sync.subtitle.pair.label "Ta activar-lo, seleccione «Vincular un dispositivo» en l\'atro dispositivo.">
