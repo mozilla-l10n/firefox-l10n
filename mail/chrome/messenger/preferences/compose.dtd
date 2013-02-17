@@ -10,7 +10,7 @@
 <!ENTITY forwardMsg.accesskey                 "L">
 <!ENTITY inline.label                         "Beágyazva">
 <!ENTITY asAttachment.label                   "Mellékletként">
-<!ENTITY addExtension.label                   "kiterjesztés hozzáadása a fájlnévhez">
+<!ENTITY addExtension.label                   "Kiterjesztés hozzáadása a fájlnévhez">
 <!ENTITY addExtension.accesskey               "k">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
