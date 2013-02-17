@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Maantore Cinndel">
 <!ENTITY bookmarks.folder.readinglist.label "Nana Tara Doggol">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "Ñippaaɗe">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ko konte &syncBrand.fullName.label; goote tan tammbitaa.">

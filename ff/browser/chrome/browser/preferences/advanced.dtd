@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
+<!ENTITY enableHealthReport.label        "Hurmin &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportLearnMore.label     "Ɓeydu humpito">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY telemetrySection.label          "Telemeetiri">
+<!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
+<!ENTITY enableTelemetry.label           "Daaƴtu Telemeetiri">
 <!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetryLearnMore.label        "Ɓeydu Humpito">
 
 <!ENTITY crashReporterSection.label      "Jaŋtorde Kooke">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterDesc.label         "&brandShortName; naatnoytu jaŋte kooke ngam wallude &vendorShortName; ɓeydude yamɗinde e hisnude wanngorde maa">
+<!ENTITY enableCrashReporter.label       "Hurmin Jaŋtorde Kookɗ">
+<!ENTITY enableCrashReporter.accesskey   "J">
+<!ENTITY crashReporterLearnMore.label    "Ɓeydu Humpito">
 
 <!ENTITY networkTab.label                "Laylaytol">
 

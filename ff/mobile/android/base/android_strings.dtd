@@ -57,7 +57,7 @@
 <!ENTITY one_tab "tabbere 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "tabbe &formatD;">
 <!ENTITY new_tab_opened "Tabbere hesere udditaama">
 
 <!ENTITY settings "Teelte">
@@ -136,14 +136,14 @@ size. -->
 <!ENTITY desktop_mode "Ɗaɓɓit Lowre Biro">
 <!ENTITY tools "Kuutorɗe">
 <!ENTITY new_tab "Tabbere Hesere">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
+<!ENTITY close_all_tabs "Uddu Tabbe Fofo">
 <!ENTITY tabs_normal "Tabbe">
-<!ENTITY tabs_private "Private">
+<!ENTITY tabs_private "Cuuriɗum">
 <!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY wallpaper_success "Wutte ɓalal hesɗitinaama">
+<!ENTITY wallpaper_progress "Teeltagol wutte ɓalal">
+<!ENTITY wallpaper_fail "Horiima teeltaade wutte ɓalal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -153,7 +153,7 @@ size. -->
 <!ENTITY find_close "Uddu">
 
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
 <!ENTITY contextmenu_open_in_reader "Uddit e Tarirde">
 <!ENTITY contextmenu_remove_history "Momtu">
 <!ENTITY contextmenu_remove_bookmark "Momtu">
@@ -162,7 +162,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Ɗakku &amp; Yah">
 <!ENTITY contextmenu_paste "Ɗakku">
 <!ENTITY contextmenu_copyurl "Natto Ñiiɓirde">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "Taƴto">
 
 <!ENTITY history_removed "Hello momtaama">
 
@@ -200,10 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Tabbe maa laawol ɓennungol">
 <!ENTITY abouthome_last_tabs_open "Uddit tabbe cakkitiiɗe fof">
 <!ENTITY abouthome_top_sites_title "Lowe dowrowe">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_edit "Taƴto">
+<!ENTITY abouthome_topsites_pin "Ñippu Lowre">
+<!ENTITY abouthome_topsites_unpin "Ñippit Lowre">
+<!ENTITY abouthome_topsites_unpinall "Ñippit Fof">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -252,7 +252,7 @@ iwde e Android">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "Aɗa yiɗi hurminde basiye njiilaw &formatS;?">
 
 <!ENTITY webapp_generic_name "Jaaɓngal">
 

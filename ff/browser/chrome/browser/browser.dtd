@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Dokkotooɗo Geese">
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "Seŋondir…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "Ginorde Juume">
@@ -212,7 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Jiytol Ŋeñto Nootoro">
 <!ENTITY responsiveDesignTool.accesskey "J">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.commandkey "N">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "o">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "Toggilo Kuutorɗe">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "Toggilo kuutorɗe topayɓe">
 <!ENTITY devToolbarOtherToolsButton.label  "Kuutorɗe Goɗɗe">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Heɓ Kuutorɗe Goɗɗe">
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey       "t">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -359,8 +359,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Uddit Jokkol e Henorde Hesere">
 <!ENTITY openLinkCmd.accesskey        "H">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Uddit Jokkol e Henorde Suuriinde Hesere">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "H">
 <!ENTITY openLinkCmdInCurrent.label     "Uddit Jokkol">
 <!ENTITY openLinkCmdInCurrent.accesskey "U">
 <!ENTITY openFrameCmdInTab.label      "Uddit Kaarewol e Tabbere Hesere">
@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Uddit tabbere hesere">
 <!ENTITY newWindowButton.tooltip        "Uddit henorde hesere">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Uddu palal sawndo">
 
 <!ENTITY cutButton.tooltip              "Dottu">
 <!ENTITY copyButton.tooltip             "Natto">
@@ -623,13 +623,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "F">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Toɓɓu jeewte">
+<!ENTITY social.chatBar.accesskey "o">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikkoroo lollinteeɗo:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Keɓgol Kameraa / Mikkoroo">
+<!ENTITY webrtcIndicatorButton.tooltip "Hollir lowe ɗe ngon-ɗaa e lollinde kameraa e mikkoroo maa e mum'en">
