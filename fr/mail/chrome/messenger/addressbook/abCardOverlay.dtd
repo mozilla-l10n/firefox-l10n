@@ -144,6 +144,8 @@ dans les messages HTML de ce contact.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID Jabber :">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Pseudo IRC :">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Photo">
 <!ENTITY Photo.accesskey                "h">
