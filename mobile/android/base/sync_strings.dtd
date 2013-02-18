@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label 'Mobiel-bladwijzers'>
 <!ENTITY bookmarks.folder.readinglist.label 'Leeslijst'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Vastgezet'>
+<!ENTITY bookmarks.folder.pinned.label 'Vastgemaakt'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>

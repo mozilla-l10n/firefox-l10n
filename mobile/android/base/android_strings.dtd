@@ -135,12 +135,12 @@ size. -->
 <!ENTITY find_in_page "Zoeken op pagina">
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
 <!ENTITY tools "Extra">
-<!ENTITY new_tab "Nieuw tabblad ">
+<!ENTITY new_tab "Nieuw tabblad">
 <!ENTITY new_private_tab "Nieuw privétabblad">
 <!ENTITY close_all_tabs "Alle tabbladen sluiten">
 <!ENTITY tabs_normal "Tabbladen">
 <!ENTITY tabs_private "Privé">
-<!ENTITY tabs_synced "Gesynchroniseerde">
+<!ENTITY tabs_synced "Gesynchroniseerd">
 <!ENTITY wallpaper_success "Achtergrond bijgewerkt">
 <!ENTITY wallpaper_progress "Achtergrond instellen">
 <!ENTITY wallpaper_fail "Achtergrond instellen niet mogelijk">
@@ -201,7 +201,7 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Alle tabbladen van de vorige keer openen">
 <!ENTITY abouthome_top_sites_title "Topwebsites">
 <!ENTITY abouthome_topsites_edit "Bewerken">
-<!ENTITY abouthome_topsites_pin "Website vastzetten">
+<!ENTITY abouthome_topsites_pin "Website vastmaken">
 <!ENTITY abouthome_topsites_unpin "Website losmaken">
 <!ENTITY abouthome_topsites_unpinall "Alle losmaken">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
