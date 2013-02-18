@@ -18,7 +18,7 @@
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>revise la dirección por errores de tipeo como 
+<li>Revise la dirección por errores de tipeo como 
 <strong>ww</strong>.ejemplo.cl en vez de <strong>www</strong>.ejemplo.cl</li> 
 <li>Si usted no puede cargar ninguna página, revise los datos de su dispositivo o la conexión Wi-Fi.</li> 
 </ul>">
