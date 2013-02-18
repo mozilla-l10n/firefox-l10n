@@ -54,11 +54,10 @@
 <!ENTITY site_security "Segurança do site">
 
 <!ENTITY close_tab "Fechar aba">
-<!ENTITY new_tab "Nova aba">
 <!ENTITY one_tab "1 aba">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d abas">
+<!ENTITY num_tabs2 "&formatD; abas">
 <!ENTITY new_tab_opened "Aberta nova aba">
 
 <!ENTITY settings "Configurações">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "Localizar na página">
 <!ENTITY desktop_mode "Solicitar site do desktop">
 <!ENTITY tools "Ferramentas">
-<!ENTITY new_pb_tab "Nova aba de navegação privativa">
+<!ENTITY new_tab "Nova aba">
+<!ENTITY new_private_tab "Nova aba privativa">
+<!ENTITY close_all_tabs "Fechar todas as abas">
+<!ENTITY tabs_normal "Abas">
+<!ENTITY tabs_private "Privativas">
+<!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY wallpaper_success "Papel de parede atualizado">
+<!ENTITY wallpaper_progress "Configurando o papel de parede">
+<!ENTITY wallpaper_fail "Não foi possível definir o papel de parede">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Fechar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
+<!ENTITY contextmenu_open_private_tab "Abrir em aba privativa">
 <!ENTITY contextmenu_open_in_reader "Abrir no leitor">
 <!ENTITY contextmenu_remove_history "Excluir">
 <!ENTITY contextmenu_remove_bookmark "Excluir">
@@ -156,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Página excluída">
 
 <!ENTITY bookmark_edit_title "Editar favorito">
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Suas abas anteriores">
 <!ENTITY abouthome_last_tabs_open "Abrir todas as abas anteriores">
 <!ENTITY abouthome_top_sites_title "Principais">
+<!ENTITY abouthome_topsites_edit "Editar">
+<!ENTITY abouthome_topsites_pin "Afixar site">
+<!ENTITY abouthome_topsites_unpin "Desafixar site">
+<!ENTITY abouthome_topsites_unpinall "Desafixar tudo">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -237,10 +247,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importando histórico do Android">
 <!ENTITY bookmarkhistory_import_wait "Por favor, aguarde…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Gostaria de ativar as sugestões de pesquisa do &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Deseja ativar as sugestões de pesquisa do &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicativo">
 

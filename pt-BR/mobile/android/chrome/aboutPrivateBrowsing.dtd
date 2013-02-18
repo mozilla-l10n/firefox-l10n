@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegação privativa">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Você abriu uma nova aba privativa.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Você não está em uma aba privativa.">
+
+<!ENTITY privatebrowsingpage.description            "Em uma aba privativa, o &brandShortName; não memoriza histórico, dados fornecidos a páginas e à barra de pesquisa, lista de downloads, cookies e arquivos temporários. Serão preservados arquivos salvos por downloads e novos favoritos.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Este dispositivo não possuirá o seu histórico. Entretanto, o seu provedor de internet pode registrar as páginas visitadas.">
