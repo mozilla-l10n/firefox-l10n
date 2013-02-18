@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Фильтровать после анализа на спам">
 <!ENTITY filterActionDesc.label "Производить следующие действия:">
 <!ENTITY filterActionDesc.accesskey "и">
+<!ENTITY filterActionOrderWarning.label "Примечание: Действия фильтра будут запускаться в другом порядке.">
+<!ENTITY filterActionOrder.label "Посмотреть порядок выполнения">
 <!ENTITY moveMessage.label "Переместить сообщение в">
 <!ENTITY copyMessage.label "Копировать сообщение в">
 <!ENTITY forwardTo.label "Переслать сообщение на">
