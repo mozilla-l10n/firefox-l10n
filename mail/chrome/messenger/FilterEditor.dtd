@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Filtrar tras identificar el correo basura">
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY filterActionDesc.accesskey "R">
+<!ENTITY filterActionOrderWarning.label "Nota: las acciones del filtro se ejecutarán en un orden diferente.">
+<!ENTITY filterActionOrder.label "Ver orden de ejecución">
 <!ENTITY moveMessage.label "Mover mensaje a">
 <!ENTITY copyMessage.label "Copiar mensaje a">
 <!ENTITY forwardTo.label "Reenviar mensaje a">
