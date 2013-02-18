@@ -4,13 +4,13 @@
 
 <!ENTITY pref.security.title "Privacy e Sicurezza">
 <!ENTITY tracking.label "Tracciamento utente">
-<!ENTITY trackingIntro.label "I siti web possono tracciare come vengono utilizzati, influenzando la propria privacy.">
-<!ENTITY dntTellSites.label "Comunica ai siti web le mie preferenze relative al tracciamento dei dati personali">
+<!ENTITY trackingIntro.label "I siti web possono tracciare il comportamento dei visitatori; questo comporta problemi relativi alla privacy.">
+<!ENTITY dntTellSites.label "Comunica ai siti web le proprie preferenze relative al tracciamento dei dati personali">
 <!ENTITY dntTellSites.accesskey "C">
-<!ENTITY dntTrackingNotOkay.label "Non voglio essere tracciato">
+<!ENTITY dntTrackingNotOkay.label "Non consentire il tracciamento dei dati">
 <!ENTITY dntTrackingNotOkay.accesskey "N">
-<!ENTITY dntTrackingOkay.label "Acconsento ad essere tracciato">
-<!ENTITY dntTrackingOkay.accesskey "A">
+<!ENTITY dntTrackingOkay.label "Consenti il tracciamento dei dati">
+<!ENTITY dntTrackingOkay.accesskey "o">
 <!ENTITY safeBrowsing.label "Safe Browsing">
 <!ENTITY safeBrowsingIntro.label "&brandShortName; può bloccare i siti web che sono stati segnalati come contenenti contenuto dannoso.">
 <!ENTITY blockAttackSites.label "Blocca i siti segnalati come minaccia (malware, virus)">
