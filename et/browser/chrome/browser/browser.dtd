@@ -625,8 +625,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey   "V">
 
 <!ENTITY social.chatBar.commandkey               "c">
-<!ENTITY social.chatBar.label                    "Fookusta vestlused">
-<!ENTITY social.chatBar.accesskey                "F">
+<!ENTITY social.chatBar.label                    "Too vestlused fookusse">
+<!ENTITY social.chatBar.accesskey                "f">
 
 <!ENTITY getUserMedia.selectCamera.label         "Jagatav kaamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey     "J">
