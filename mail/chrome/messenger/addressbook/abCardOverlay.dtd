@@ -143,6 +143,8 @@ a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID de Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Alcume do IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
