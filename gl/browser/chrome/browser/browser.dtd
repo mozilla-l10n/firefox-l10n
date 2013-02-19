@@ -281,11 +281,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY clearRecentHistory.label               "Limpar historial recente…">
 <!ENTITY clearRecentHistory.accesskey           "h">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Iniciar a navegación privada">
-<!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Deter navegación privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "D">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Ver"> 
