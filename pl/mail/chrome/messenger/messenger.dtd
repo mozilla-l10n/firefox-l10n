@@ -558,6 +558,8 @@
 <!ENTITY appmenuEditMenu.label "Edycja">
 <!ENTITY appmenuQFBMenu.label "Pasek szybkiego filtrowania">
 <!ENTITY appmenuToolbarLayout.label "Dostosuj pasek narzędzi…">
+<!ENTITY appmenuSelectThread.label "Zaznacz wątek">
+<!ENTITY appmenuSelectFlagged.label "Zaznacz oznaczone gwiazdką">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label     "Nowa etykieta…">
