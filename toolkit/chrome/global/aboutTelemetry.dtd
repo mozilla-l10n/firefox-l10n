@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dades de telemesura">
 
-<!ENTITY aboutTelemetry.pageSubtitle "Aquesta pàgina mostra les dades de rendiment i ús de funcions recollides per la telemesura. 
-Aquesta informació s'envia anònimament a Mozilla per ajudar a millorar el &brandShortName;.">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemesura <span>habilitada</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "  Telemesura <span>inhabilitada</span>.">

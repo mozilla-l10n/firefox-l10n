@@ -5,7 +5,7 @@
 
 
 <!ENTITY editorCheck.label "Composer">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "r">
 
 <!ENTITY compose.label "Redactor">
 <!ENTITY editing.label "Paràmetres d'una pàgina nova">

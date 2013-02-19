@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Acció de roda del ratolí">
+<!ENTITY mouseWheelGroup.label           "Desplaçament vertical">
+<!ENTITY mouseWheelHorizGroup.label      "Desplaçament horitzontal">
+<!ENTITY sameAsVertical.label            "Idèntic al desplaçament vertical">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "No fer res">
 <!ENTITY doNothing.accesskey             "f">
+<!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "Desplaceu-vos pel document">
 <!ENTITY scrollDocument.accesskey        "s">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Mou enrere o endavant en l'historial de navegació">
 <!ENTITY history.accesskey               "h">
+<!ENTITY historyHoriz.accesskey          "v">
 <!ENTITY zoom.label                      "Augmenta o redueix la pàgina">
 <!ENTITY zoom.accesskey                  "t">
-<!ENTITY mouseWheelSpeed.label           "Velocitat de la roda del ratolí">
-<!ENTITY verticalSpeed.label             "Vertical:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Direcció inversa">
-<!ENTITY verticalReverse.accesskey       "r">
-<!ENTITY horizontalSpeed.label           "Horitzontal:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Direcció inversa">
-<!ENTITY horizontalReverse.accesskey     "e">
+<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY wheelSpeed.label                "Velocitat de la roda del ratolí:">
+<!ENTITY wheelSpeed.accesskey            "o">
+<!ENTITY wheelSpeedHoriz.accesskey       "a">
+<!ENTITY reverseDirection.label          "Direcció inversa">
+<!ENTITY reverseDirection.accesskey      "D">
+<!ENTITY reverseDirectionHoriz.accesskey "i">

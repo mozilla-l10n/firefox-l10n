@@ -41,3 +41,7 @@
 <!ENTITY matched               "Coincideix">
 <!ENTITY parentMatch           "Coincideix el pare">
 <!ENTITY unmatched             "No coincideix">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Computada">
+<!ENTITY ruleViewTitle         "Regles">
