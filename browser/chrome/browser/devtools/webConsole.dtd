@@ -60,7 +60,7 @@
 <!ENTITY btnConsoleWarnings     "警告">
 <!ENTITY btnConsoleLog          "記錄">
 
-<!ENTITY filterBox.placeholder "過濾條件">
+<!ENTITY filterBox.placeholder "篩選條件">
 <!ENTITY btnClear.label        "清除">
 <!ENTITY btnClear.tooltip      "清除網頁主控台輸出內容">
 

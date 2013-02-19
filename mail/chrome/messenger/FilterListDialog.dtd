@@ -22,7 +22,7 @@
 <!ENTITY reorderBottomButton.accessKey "B">
 <!ENTITY reorderBottomButton.toolTip "重新整理篩選條件，讓它最晚執行">
 <!ENTITY filterHeader.label "下列是會依序自動執行的篩選條件 (Filter)。">
-<!ENTITY filtersForPrefix.label "篩選帳號:">
+<!ENTITY filtersForPrefix.label "篩選:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "篩選記錄">
 <!ENTITY viewLogButton.accesskey "l">

@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "匯入精靈">
 
 <!ENTITY importFromWin.label            "匯入選項、帳號設定、通訊錄、篩選器以及其它資料從：">
-<!ENTITY importFromNonWin.label         "匯入偏好設定、帳號設定、通訊錄、過濾器以及其它資料從：">
+<!ENTITY importFromNonWin.label         "匯入偏好設定、帳號設定、通訊錄、篩選條件以及其它資料從：">
 
 <!ENTITY importFromNothing.label        "不要匯入任何東西">
 <!ENTITY importFromNothing.accesskey    "D">
