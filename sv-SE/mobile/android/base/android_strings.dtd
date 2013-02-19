@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings "Platsinställningar">
+<!ENTITY pref_private_data_downloadFiles "Hämtade filer">
 
 <!ENTITY pref_update_autodownload "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
@@ -203,7 +204,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Redigera">
 <!ENTITY abouthome_topsites_pin "Fäst plats">
 <!ENTITY abouthome_topsites_unpin "Lösgör plats">
-<!ENTITY abouthome_topsites_unpinall "Lösgör alla">
+<!ENTITY abouthome_topsites_remove "Ta bort">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

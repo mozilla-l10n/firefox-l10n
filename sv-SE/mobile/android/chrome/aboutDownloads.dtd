@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Hämtningar">
 <!ENTITY aboutDownloads.header                     "Dina hämtningar">
 <!ENTITY aboutDownloads.empty                      "Inga hämtningar">
+
+<!ENTITY aboutDownloads.open                       "Öppna">
+<!ENTITY aboutDownloads.remove                     "Ta bort">
+<!ENTITY aboutDownloads.removeAll                  "Ta bort alla">
+<!ENTITY aboutDownloads.pause                      "Pausa">
+<!ENTITY aboutDownloads.resume                     "Återuppta">
+<!ENTITY aboutDownloads.cancel                     "Avbryt">
+<!ENTITY aboutDownloads.retry                      "Försök igen">
