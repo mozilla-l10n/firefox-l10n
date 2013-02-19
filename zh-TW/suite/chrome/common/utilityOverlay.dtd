@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "瀏覽器視窗">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newPrivateWindowCmd.label "隱私視窗">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "頁面設定…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "預覽列印">

@@ -20,7 +20,7 @@
 <!ENTITY manualMarkAsRead.label         "當我手動將其標示為垃圾信時">
 <!ENTITY manualMarkAsRead.accesskey     "k">
 
-<!ENTITY enableJunkLogging.label        "啟動垃圾郵件過濾記錄">
+<!ENTITY enableJunkLogging.label        "啟動垃圾郵件篩選記錄">
 <!ENTITY enableJunkLogging.accesskey    "E">
 <!ENTITY openJunkLog.label              "顯示記錄">
 <!ENTITY openJunkLog.accesskey          "S">

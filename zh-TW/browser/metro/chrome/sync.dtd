@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "同步">
+<!ENTITY sync.notconnected          "未連線">
+<!ENTITY sync.connect               "連線">
+<!ENTITY sync.connected             "已連線">
+<!ENTITY sync.details               "詳細資訊">
+<!ENTITY sync.deviceName            "此裝置">
+<!ENTITY sync.disconnect            "取消連線">
+<!ENTITY sync.syncNow               "立刻同步">
+
+<!ENTITY sync.setup.title           "連線到 Sync">
+<!ENTITY sync.setup.pair            "請在您的另一台裝置選擇「與裝置配對」以啟用同步功能。">
+<!ENTITY sync.fallback              "我不在電腦旁邊…">
+<!ENTITY sync.setup.manual          "請輸入您的 Sync 帳號資訊">
+<!ENTITY sync.account               "帳號名稱">
+<!ENTITY sync.password              "密碼">
+<!ENTITY sync.recoveryKey           "救援金鑰">
+<!ENTITY sync.customServer          "使用自訂伺服器">
+<!ENTITY sync.serverURL             "伺服器網址">
+<!ENTITY sync.setup.connect         "連線">
+<!ENTITY sync.setup.cancel          "取消">
+<!ENTITY sync.setup.tutorial        "告訴我如何作">
+<!ENTITY sync.setup.waiting2        "正在等待另一台裝置…">
+
+<!ENTITY sync.pair.title            "與裝置配對">
+<!ENTITY sync.pair.description      "請在您的裝置上選擇「設定 Sync」以啟用您的新裝置。">
+<!ENTITY sync.setup.close           "關閉">
+<!ENTITY sync.setup.waitingdownload "您的資料即將在背景中被下載，現在可以關閉這個視窗了。">
+
