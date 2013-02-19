@@ -70,14 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Trieu una mida de lletra">
 <!ENTITY decreaseFontSize.label "Més petita">
 <!ENTITY decreaseFontSize.accesskey "p">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-<!ENTITY decreaseFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Més gran">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">

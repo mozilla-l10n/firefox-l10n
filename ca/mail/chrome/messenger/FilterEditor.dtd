@@ -18,7 +18,7 @@
 
 <!ENTITY contextDesc.label "Aplica el filtre quan:">
 <!ENTITY contextIncomingMail.label "S'estan obtenint missatges nous:">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "g">
 <!ENTITY contextManual.label "S'executi manualment">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtra abans de classificar com a brossa">

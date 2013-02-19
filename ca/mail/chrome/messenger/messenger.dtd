@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Mostra la pestanya de xat">
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
-<!ENTITY appmenuButton.tooltip "Mostra el menú d'aplicacions">
+<!ENTITY appmenuButton1.tooltip "Mostra el menú del &brandShortName;">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Missatge nou">
