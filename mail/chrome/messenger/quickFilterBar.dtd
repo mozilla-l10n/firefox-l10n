@@ -7,14 +7,14 @@
      the quick filter bar.
      -->
 <!ENTITY quickFilterBar.qfbShowFilterBar.label
-         "快速過濾器">
+         "快速篩選">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "快速過濾列">
+         "快速篩選列">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
@@ -28,7 +28,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "啟用或停用快速過濾列。">
+         "啟用或停用快速篩選列。">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -38,14 +38,14 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "切換資料夾時仍然套用過濾條件？">
+         "切換資料夾時仍然套用篩選條件？">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
      ideally be as short as possible.
      -->
 <!ENTITY quickFilterBar.barLabel.label
-         "快速過濾:">
+         "快速篩選:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -159,7 +159,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "過濾這些訊息… #1">
+         "篩選這些訊息… #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -206,7 +206,7 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "過濾訊息透過:">
+         "篩選訊息透過:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
