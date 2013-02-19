@@ -18,6 +18,9 @@
 <!ENTITY newNavigatorCmd.label "Окно браузера">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "к">
+<!ENTITY newPrivateWindowCmd.label "Приватное окно">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "е">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "м">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
