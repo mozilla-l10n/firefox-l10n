@@ -92,7 +92,7 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-<!ENTITY  event.menu.view.showlink.label                  "Mostrar ligazón relacionada">
+<!ENTITY  event.menu.view.showlink.label                  "Amosar ligazón relacionada">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Opcións">
@@ -105,7 +105,7 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Engadir ligazón…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone2.label                  "Mostrar fusos horarios">
+<!ENTITY  event.menu.options.timezone2.label                  "Amosar fusos horarios">
 <!ENTITY  event.menu.options.timezone2.accesskey              "F">
 <!ENTITY  event.menu.options.priority2.label                  "Prioridade">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
@@ -121,11 +121,11 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
 <!ENTITY  event.menu.options.privacy.public.label             "Evento público">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "E">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Mostrar só a data e a hora">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Amosar só a data e a hora">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "s">
 <!ENTITY  event.menu.options.privacy.private.label            "Evento privado">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "Mostrar hora como">
+<!ENTITY  event.menu.options.show.time.label                  "Amosar hora como">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
 <!ENTITY  event.menu.options.show.time.busy.label             "Ocupado">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
@@ -171,8 +171,10 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repetir:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Ata:">
+<!ENTITY event.until.accesskey                            "t">
 <!ENTITY event.reminder.label                             "Recordatorio:" >
-<!ENTITY event.reminder.accesskey                         "t">
+<!ENTITY event.reminder.accesskey                         "i">
 <!ENTITY event.description.label                          "Descrición:" >
 <!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Anexos:" >
