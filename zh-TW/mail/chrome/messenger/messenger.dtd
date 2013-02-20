@@ -21,7 +21,7 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "移動到新視窗">
-<!ENTITY moveToNewWindow.accesskey "w">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "即時搜尋…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "其他帳號…">
@@ -69,7 +69,7 @@
 <!ENTITY offlineMenu.label "離線">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "離線模式">
-<!ENTITY offlineGoOfflineCmd.accesskey "W">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "立刻下載／同步…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "離線模式設定…">
@@ -170,7 +170,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "已加星號">
 <!ENTITY sortByStarCmd.accesskey "S">
-<!ENTITY sortByAttachmentsCmd.label "附件">
+<!ENTITY sortByAttachmentsCmd.label "內含附件">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "重要性">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -221,7 +221,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "含有未讀訊息的已追蹤討論串">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "被忽略的討論串">
-<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "郵件資訊">
 <!ENTITY headersMenu.accesskey "H">
@@ -250,7 +250,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label "直接檢視附件">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "郵件原始內容">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -277,11 +277,11 @@
 <!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "前往">
+<!ENTITY goMenu.label "衝">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "下一封">
 <!ENTITY nextMenu.accesskey "N">
-<!ENTITY nextMsgCmd.label "郵件">
+<!ENTITY nextMsgCmd.label "訊息">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "未讀郵件">
@@ -294,7 +294,7 @@
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一封">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "郵件">
+<!ENTITY prevMsgCmd.label "訊息">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "未讀郵件">
@@ -307,12 +307,12 @@
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "聊天">
-<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "已加星號郵件">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "資料夾">
-<!ENTITY folderMenu.accesskey "o">
+<!ENTITY folderMenu.accesskey "O">
 <!ENTITY thisFolder.label "此資料夾">
 <!ENTITY thisFolder.accesskey "F">
 <!ENTITY goRecentlyClosedTabs.label "最近關閉的分頁">
@@ -321,11 +321,11 @@
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "郵件">
+<!ENTITY msgMenu.label "訊息">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "寫新訊息">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "郵件">
+<!ENTITY newNewMsgCmd.label "訊息">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "備存">
 <!ENTITY archiveMsgCmd.accesskey "A">
@@ -343,7 +343,7 @@
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "回覆至清單">
-<!ENTITY replyToListMsgCmd.accesskey  "l">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "轉寄">
 <!ENTITY forwardMsgCmd.accesskey "F">
@@ -361,7 +361,7 @@
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移至">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY moveCopyMsgRecentMenu.label "最近">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -406,7 +406,7 @@
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "已讀 (依日期指定)…">
-<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "全部郵件已讀">
 <!ENTITY markAllReadCmd.accesskey "A">
@@ -469,7 +469,7 @@
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "篩選選取的郵件">
 <!ENTITY filtersApplyToSelection.accesskey "u">
-<!ENTITY filtersApplyToMessage.label "過濾此郵件">
+<!ENTITY filtersApplyToMessage.label "篩選郵件">
 <!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "執行垃圾郵件控制">
 <!ENTITY runJunkControls.accesskey "C">
@@ -560,7 +560,7 @@
 <!ENTITY appmenuNewMsgCmd.label "寫新訊息">
 <!ENTITY appmenuNewContactCmd.label "通訊錄連絡人…">
 <!ENTITY appmenuEditMenu.label "編輯">
-<!ENTITY appmenuQFBMenu.label "快速過濾列">
+<!ENTITY appmenuQFBMenu.label "快速篩選列">
 <!ENTITY appmenuToolbarLayout.label "工具列配置…">
 
 <!-- Tags Menu Popup -->
@@ -672,7 +672,7 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "用新視窗開啟郵件">
-<!ENTITY contextOpenNewWindow.accesskey "w">
+<!ENTITY contextOpenNewWindow.accesskey "W">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
@@ -692,14 +692,14 @@
 <!ENTITY contextReplyAll.label "回覆給所有人">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "回覆至清單">
-<!ENTITY contextReplyList.accesskey "l">
+<!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "轉寄">
 <!ENTITY contextForward.accesskey "F">
 <!ENTITY contextForwardAsAttachment.label "以附件方式轉寄">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "移至">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "最近">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "複製到">
 <!ENTITY contextCopyMsgMenu.accesskey "C">

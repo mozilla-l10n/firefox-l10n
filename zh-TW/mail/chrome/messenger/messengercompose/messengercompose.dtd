@@ -156,7 +156,7 @@
 <!ENTITY lowestPriorityCmd.accesskey "L">
 <!ENTITY lowPriorityCmd.label "低">
 <!ENTITY lowPriorityCmd.accesskey "o">
-<!ENTITY normalPriorityCmd.label "正常">
+<!ENTITY normalPriorityCmd.label "標準">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "高">
 <!ENTITY highPriorityCmd.accesskey "i">
@@ -164,7 +164,7 @@
 <!ENTITY highestPriorityCmd.accesskey "H">
 <!ENTITY fileCarbonCopyCmd.label "寄送副本到">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "歸檔此處">
+<!ENTITY fileHereMenu.label "歸檔至此">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
