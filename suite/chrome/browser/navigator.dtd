@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
@@ -9,6 +13,8 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY mainWindow.titleprivate "Navegación privada">
 
 <!ENTITY editPageCmd.label "Editar páxina">
 <!ENTITY editPageCmd.accesskey "E">
@@ -61,7 +67,7 @@
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
 <!ENTITY homeButton.label             "Inicio">
 <!ENTITY bookmarksToolbarItem.label   "Elementos da barra de marcadores">
-<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
