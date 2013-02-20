@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Informe de erros desactivado.">
 <!ENTITY report.failed                                       "Produciuse un fallo no envío.">
 <!ENTITY report.unavailable                                  "Ningún informe dispoñíbel.">
+<!ENTITY report.comment                                      "Engadir un comentario (os comentarios son visíbeis publicamente)">
+<!ENTITY report.pageURL                                      "Incluír o URL da páxina">
 
 <!ENTITY plugin.file                                         "Ficheiro">
 <!ENTITY plugin.mimeTypes                                    "Tipos MIME">
