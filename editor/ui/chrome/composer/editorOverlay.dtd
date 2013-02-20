@@ -288,8 +288,8 @@
 <!ENTITY copyToolbarCmd.tooltip "複製">
 <!ENTITY pasteToolbarCmd.tooltip "貼上">
 <!ENTITY printToolbarCmd.label "列印">
-<!ENTITY printToolbarCmd.tooltip "列印此頁">
-<!ENTITY findToolbarCmd.label "搜尋">
+<!ENTITY printToolbarCmd.tooltip "列印頁面">
+<!ENTITY findToolbarCmd.label "尋找">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
 <!ENTITY spellToolbarCmd.tooltip "在整頁或選取文字中檢查拼字">

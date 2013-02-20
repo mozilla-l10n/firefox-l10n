@@ -17,7 +17,7 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜尋郵件或文章">
 <!ENTITY results.label               "結果">
-<!ENTITY fileHereMenu.label          "歸檔此處">
+<!ENTITY fileHereMenu.label          "歸檔至此">
 <!ENTITY fileHereMenu.accesskey      "F">
 <!ENTITY fileButton.label            "檔案">
 <!ENTITY fileButton.accesskey        "i">
@@ -47,20 +47,20 @@
 <!ENTITY accountColumn.label "帳號">
 <!ENTITY statusColumn.label "狀態">
 <!ENTITY sizeColumn.label "大小">
-<!ENTITY junkStatusColumn.label "垃圾信">
+<!ENTITY junkStatusColumn.label "垃圾信狀態">
 <!ENTITY unreadColumn.label "未讀">
 <!ENTITY totalColumn.label "全部">
-<!ENTITY readColumn.label "已讀取">
+<!ENTITY readColumn.label "已讀">
 <!ENTITY receivedColumn.label "已接收">
 <!ENTITY starredColumn.label "已標星號">
 <!ENTITY locationColumn.label "地點">
 <!ENTITY idColumn.label "收件順序">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "按一下選擇要顯示的欄位">
-<!ENTITY threadColumn.tooltip "點選以顯示同主題郵件串"> 
+<!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位">
+<!ENTITY threadColumn.tooltip "點此顯示同主題的討論串"> 
 <!ENTITY fromColumn.tooltip "點選依照寄件者排序">
-<!ENTITY recipientColumn.tooltip "點選以照收件者排序">
+<!ENTITY recipientColumn.tooltip "點選以依收件者排序">
 <!ENTITY subjectColumn.tooltip "點選以照標題排序">
 <!ENTITY dateColumn.tooltip "點選以照日期排序">
 <!ENTITY priorityColumn.tooltip "點選以照優先權排序">
@@ -69,11 +69,11 @@
 <!ENTITY statusColumn.tooltip "點選以照狀態排序">
 <!ENTITY sizeColumn.tooltip "點選以照大小排序">
 <!ENTITY junkStatusColumn.tooltip "點選以照垃圾信狀態排序">
-<!ENTITY unreadColumn.tooltip "主題中未讀郵件數">
-<!ENTITY totalColumn.tooltip "主題中所有郵件數">
+<!ENTITY unreadColumn.tooltip "討論串中未讀訊息數量">
+<!ENTITY totalColumn.tooltip "主題中所有郵件數量">
 <!ENTITY readColumn.tooltip "點選以照已讀排序">
 <!ENTITY receivedColumn.tooltip "點選依照收件者排序">
 <!ENTITY starredColumn.tooltip "點選以照星號排序">
-<!ENTITY locationColumn.tooltip "點選以照網址排序">
+<!ENTITY locationColumn.tooltip "點選以依網址排序">
 <!ENTITY idColumn.tooltip "點選以照接收時間排序">
 

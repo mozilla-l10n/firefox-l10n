@@ -16,7 +16,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "發新郵件">
+<!ENTITY newMessage.label "寫新訊息">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "資料夾…">
 <!ENTITY newFolderCmd.accesskey "F">
@@ -49,7 +49,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "下載所有新郵件">
 <!ENTITY getAllNewMsgCmd2.key "d">
-<!ENTITY getNextNMsgCmd.label "下載 500 封新聞群組文章">
+<!ENTITY getNextNMsgCmd.label "下載下 500 封新聞群組文章">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "寄出未寄郵件">
 <!ENTITY sendUnsentCmd.accesskey "d">
@@ -67,7 +67,7 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "離線模式設定…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "下載已選取的郵件">
+<!ENTITY downloadSelectedCmd.label "下載選取的郵件">
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "下載已標幟的郵件">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
@@ -79,7 +79,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY cancelNewsMsgCmd.label "取消郵件">
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
-<!ENTITY deleteMsgsCmd.label "刪除已選的郵件">
+<!ENTITY deleteMsgsCmd.label "刪除選擇的郵件">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "救回已選郵件">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
@@ -102,8 +102,8 @@
 <!ENTITY accountManagerCmd.accesskey "M">
 <!ENTITY undoDeleteMsgCmd.label "取消刪除郵件">
 <!ENTITY redoDeleteMsgCmd.label "重作刪除郵件">
-<!ENTITY undoMoveMsgCmd.label "取消搬移郵件">
-<!ENTITY redoMoveMsgCmd.label "重作搬移郵件">
+<!ENTITY undoMoveMsgCmd.label "取消移動郵件">
+<!ENTITY redoMoveMsgCmd.label "重作移動郵件">
 <!ENTITY undoCopyMsgCmd.label "取消複製郵件">
 <!ENTITY redoCopyMsgCmd.label "重作複製郵件">
 <!ENTITY undoMarkAllCmd.label "取消全部設定為已讀取">
@@ -112,7 +112,7 @@
 <!ENTITY redoDefaultCmd.label "取消「復原」">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "顯示信件工具列">
+<!ENTITY showMessengerToolbarCmd.label "郵件工具列">
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label "搜尋工具列">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
@@ -160,7 +160,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "收件者">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByUnreadCmd.label "已讀取">
+<!ENTITY sortByUnreadCmd.label "已讀">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "收件順序">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
@@ -170,22 +170,22 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "由大到小">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "主題式">
+<!ENTITY sortThreaded.label "討論串">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "非主題式">
+<!ENTITY sortUnthreaded.label "非討論串">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "依排序分組閱讀">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY msgsMenu.label "郵件">
+<!ENTITY msgsMenu.label "訊息">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "主題式(Thread)">
+<!ENTITY threads.label "討論串">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "全部">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "展開所有主題">
+<!ENTITY expandAllThreadsCmd.label "展開所有討論串">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "收起所有主題">
+<!ENTITY collapseAllThreadsCmd.label "收起所有討論串">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "未讀">
@@ -194,7 +194,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "含有未讀訊息的已追蹤討論串">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "忽略主題">
+<!ENTITY ignoredThreadsCmd.label "被忽略的討論串">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "郵件資訊">
@@ -203,7 +203,7 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "標準">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "寄送郵件內容方式">
+<!ENTITY bodyMenu.label "內文顯示方式">
 <!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "原始 HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
@@ -253,7 +253,7 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "已標幟郵件">
 <!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnreadThread.label "未讀">
+<!ENTITY nextUnreadThread.label "未讀討論串">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一封">
@@ -278,7 +278,7 @@
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "郵件">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "發新郵件">
+<!ENTITY newMsgCmd.label "寫新訊息">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "郵件">
 <!ENTITY newNewMsgCmd.accesskey "M">
@@ -289,9 +289,9 @@
 <!ENTITY replyListCmd.accesskey "y">
 <!ENTITY replyNewsgroupCmd.label "回覆到新聞群組">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
-<!ENTITY replySenderCmd.label "回信給寄件者">
+<!ENTITY replySenderCmd.label "只回覆給寄件者">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyToAllMsgCmd.label "回信給所有人">
+<!ENTITY replyToAllMsgCmd.label "回覆給所有人">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "回覆給寄件者與新聞群組">
@@ -323,18 +323,18 @@
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "最近">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY killThreadMenu.label "忽略主題">
+<!ENTITY killThreadMenu.label "忽略討論串">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "忽略回覆討論串">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "追蹤主題">
+<!ENTITY watchThreadMenu.label "追蹤討論串">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "存入此處">
+<!ENTITY fileHereMenu.label "歸檔至此">
 <!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "複製於此">
+<!ENTITY copyHereMenu.label "複製至此">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "標籤">
 <!ENTITY tagMenu.accesskey "g">
@@ -342,13 +342,13 @@
 <!ENTITY tagCustomize.accesskey "C">
 <!ENTITY markMenu.label "標記">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markThreadAsReadCmd.label "已讀主題">
+<!ENTITY markThreadAsReadCmd.label "討論串為已讀">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "已讀 (依日期指定)…">
 <!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "全部信件已讀">
+<!ENTITY markAllReadCmd.label "全部郵件已讀">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markAsJunkCmd.label "垃圾信">
@@ -357,7 +357,7 @@
 <!ENTITY markAsNotJunkCmd.label "非垃圾信">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "執行垃圾信自動控制">
+<!ENTITY recalculateJunkScoreCmd.label "執行垃圾郵件控制">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY markAsShowRemoteCmd.label "顯示遠端內容">
 <!ENTITY markAsShowRemoteCmd.accesskey "e">
@@ -382,15 +382,15 @@
 <!ENTITY searchAddressesCmd.accesskey "c">
 <!ENTITY filtersCmd.label "管理篩選條件…">
 <!ENTITY filtersCmd.accesskey "F">
-<!ENTITY filtersApply.label "篩選此郵件匣:">
+<!ENTITY filtersApply.label "篩選此資料夾">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "篩選選取的郵件">
 <!ENTITY filtersApplyToSelection.accesskey "g">
 <!ENTITY filtersApplyToMessage.label "篩選郵件">
 <!ENTITY filtersApplyToMessage.accesskey "g">
-<!ENTITY runJunkControls.label "對郵件匣執行垃圾郵件控制">
+<!ENTITY runJunkControls.label "執行垃圾郵件控制">
 <!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "刪除郵件匣中已標為垃圾的郵件">
+<!ENTITY deleteJunk.label "刪除標為垃圾信的郵件">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "匯入…">
 <!ENTITY importCmd.accesskey "I">
@@ -429,21 +429,21 @@
 <!ENTITY advancedButton.tooltip "進階郵件搜尋">
 <!ENTITY getMsgButton.tooltip "下載新郵件">
 <!ENTITY newMsgButton.tooltip "建立新郵件">
-<!ENTITY replyButton.tooltip "回此封信">
+<!ENTITY replyButton.tooltip "回覆此信">
 <!ENTITY replyAllButton.tooltip "回信給寄件者及所有收件者">
 <!ENTITY replyAllButtonNews.tooltip "回覆給寄件者與新聞群組">
 <!ENTITY forwardButton.tooltip "轉寄選取郵件">
-<!ENTITY fileButton.tooltip "存入所選的郵件">
+<!ENTITY fileButton.tooltip "歸檔所選的訊息">
 <!ENTITY nextButton.tooltip "移至下一封未讀郵件">
 <!ENTITY goBackButton.tooltip "上一封郵件">
 <!ENTITY goForwardButton.tooltip "下一封郵件">
-<!ENTITY deleteButton.tooltip "刪除已選取的信件或資料夾">
+<!ENTITY deleteButton.tooltip "刪除已選取的訊息或資料夾">
 <!ENTITY undeleteButton.tooltip "還原選取的郵件">
-<!ENTITY markButton.tooltip "標記郵件">
+<!ENTITY markButton.tooltip "標示訊息">
 <!ENTITY stopButton.tooltip "停止傳送">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY junkButton.tooltip "標記已選取的郵件為垃圾信">
-<!ENTITY notJunkButton.tooltip "標記所選郵件為非垃圾信">
+<!ENTITY junkButton.tooltip "標示所選訊息為垃圾信">
+<!ENTITY notJunkButton.tooltip "標示所選訊息為非垃圾信">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "完成">
@@ -453,15 +453,15 @@
 <!ENTITY contextOpenNewWindow.accesskey "w">
 <!ENTITY contextOpenNewTab.label "用新分頁開啟郵件">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "另編新檔">
+<!ENTITY contextEditAsNew.label "另編新檔…">
 <!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextReplySender.label "回信給寄件者">
+<!ENTITY contextReplySender.label "只回覆給寄件者">
 <!ENTITY contextReplySender.accesskey "o">
 <!ENTITY contextReplyList.label "回覆至清單">
 <!ENTITY contextReplyList.accesskey "y">
 <!ENTITY contextReplyNewsgroup.label "回覆到新聞群組">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
-<!ENTITY contextReplyAll.label "回信給所有人">
+<!ENTITY contextReplyAll.label "回覆給所有人">
 <!ENTITY contextReplyAll.accesskey "R">
 <!ENTITY contextReplySenderAndNewsgroup.label "回覆給寄件者與新聞群組">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
@@ -505,9 +505,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "取消訂閱">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
-<!ENTITY folderContextMarkNewsgroupRead.label "將新聞群組設為已讀">
+<!ENTITY folderContextMarkNewsgroupRead.label "標示新聞群組為已讀">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "標記郵件匣為已讀">
+<!ENTITY folderContextMarkMailFolderRead.label "標記資料夾為已讀">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextNew.label "新增子資料夾…">
 <!ENTITY folderContextNew.accesskey "N">
