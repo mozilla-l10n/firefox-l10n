@@ -140,6 +140,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber 帳號:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC 暱稱:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "相片">
 <!ENTITY Photo.accesskey                "o">

@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "執行以下動作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "註: 篩選條件將以不同的順序執行。">
+<!ENTITY filterActionOrder.label "檢視執行順序">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "移動郵件到">
 <!ENTITY copyMessage.label "複製到">

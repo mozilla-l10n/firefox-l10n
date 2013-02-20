@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "追蹤">
 
-<!ENTITY doNotTrack.label               "告訴網站我不想被追蹤">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "不要告訴網站我是否要被追蹤的偏好。">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "告訴網站我不想被追蹤。">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "告訴網站我想要被追蹤。">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "更多資訊">
 
 <!ENTITY  history.label                 "歷史記錄">
 
