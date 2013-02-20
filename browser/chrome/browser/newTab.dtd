@@ -4,4 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Novo Separador">
-
+<!ENTITY newtab.undo.removedLabel "Miniatura removida.">
+<!ENTITY newtab.undo.undoButton "Anular.">
+<!ENTITY newtab.undo.restoreButton "Restaurar tudo.">
+<!ENTITY newtab.undo.closeTooltip "Ocultar">

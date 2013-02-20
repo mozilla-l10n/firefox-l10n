@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey "f">
 
 <!ENTITY clearRecentHistory.label "Limpar Histórico recente">
-<!ENTITY clearRecentHistory.accesskey "L">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Iniciar navegação privada">
-<!ENTITY privateBrowsingCmd.start.accesskey     "I">
-<!ENTITY privateBrowsingCmd.stop.label          "Parar navegação privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label "Ver">
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey 		  "l">
-<!ENTITY urlbar.placeholder           "Ir para o sítio web">
+<!ENTITY urlbar.placeholder2          "Pesquisar ou escrever o endereço">
 <!ENTITY urlbar.accesskey 			  "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "e">
 <!ENTITY emailAudioCmd.label          "Enviar  aúdio…">
 <!ENTITY emailAudioCmd.accesskey      "e">
+<!ENTITY playPluginCmd.label          "Ativar este plugin">
+<!ENTITY playPluginCmd.accesskey      "t">
+<!ENTITY hidePluginCmd.label          "Ocultar este plugin">
+<!ENTITY hidePluginCmd.accesskey      "u">
 <!ENTITY copyLinkCmd.label            "Copiar endereço da ligação">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
@@ -587,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Mais informação…">
 
-<!ENTITY allTabs.filter.emptyText "Procurar Separadores">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Separadores do navegador">
@@ -632,3 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Acesso à Camera / Microfone">
 <!ENTITY webrtcIndicatorButton.tooltip "Mostra os sítios com que a camera ou o microfone estão partilhados">
+
+<!ENTITY mixedContentBlocked.helplink "Saber mais">
+<!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar bem mesmo quando este conteúdo é bloqueado.">
