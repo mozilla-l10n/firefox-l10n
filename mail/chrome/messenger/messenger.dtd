@@ -469,7 +469,7 @@
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "篩選選取的郵件">
 <!ENTITY filtersApplyToSelection.accesskey "u">
-<!ENTITY filtersApplyToMessage.label "過濾此郵件">
+<!ENTITY filtersApplyToMessage.label "篩選郵件">
 <!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "執行垃圾郵件控制">
 <!ENTITY runJunkControls.accesskey "C">
@@ -560,8 +560,10 @@
 <!ENTITY appmenuNewMsgCmd.label "寫新訊息">
 <!ENTITY appmenuNewContactCmd.label "通訊錄連絡人…">
 <!ENTITY appmenuEditMenu.label "編輯">
-<!ENTITY appmenuQFBMenu.label "快速過濾列">
+<!ENTITY appmenuQFBMenu.label "快速篩選列">
 <!ENTITY appmenuToolbarLayout.label "工具列配置…">
+<!ENTITY appmenuSelectThread.label "選擇討論串">
+<!ENTITY appmenuSelectFlagged.label "選擇加上星號的郵件">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "新標籤…">
