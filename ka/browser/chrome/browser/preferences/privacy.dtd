@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "თვალმიდევნება">
 
-<!ENTITY doNotTrack.label               "ვებსაიტებისთვის თვალმიდევნების გაუქმების მოთხოვნა">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "საიტებისთვის არაფრის თქმა თვალთვალის პოლიტიკის შესახებ.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "საიტებისთვის მოთხოვნა - არ მითვალთვალონ.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "საიტებისთვის მოთხოვნა - მითვალთვალონ.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "დაწვრილებით">
 
 <!ENTITY  history.label                 "ისტორია">
 

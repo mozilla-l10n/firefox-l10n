@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label                       "პარამეტრები">
+<!ENTITY aboutHeader.label                         "ინფორმაცია">
+<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label                  "- &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label                   "გაეცანით &brandShortName; კონფიდენციალობის პოლიტიკას">
+<!ENTITY privacy.title                             "კონფიდენციალობა და უსაფრთხოება">
+<!ENTITY doNotTrack.title                          "თხოვნა საიტებისთვის - არ მითვალთვალონ">
+<!ENTITY masterPassword.title                      "ძირითადი პაროლის გამოყენება">
+<!ENTITY clearPrivateData2.title                   "პირად მონაცემთა გასუფთავება">
+<!ENTITY clearPrivateData.button                   "გასუფთავება">
+<!ENTITY rememberPasswords.title                   "პაროლების შენახვა">
+<!ENTITY startup.title                             "გახსნა">
+<!ENTITY homepage.title                            "&brandShortName; ბრაუზერის გახსნისას">
+<!ENTITY homepage.startPage                        "თავფურცლის ჩვენება">
+<!ENTITY homepage.sessionRestore                   "ბოლო სეანსის დაფების ჩვენება">

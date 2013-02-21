@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "ჩამოტვირთვები">
 
 <!ENTITY downloadBehavior.label         "ჩამოტვირთვის დაწყებისას">
-<!ENTITY focusWhenStarting.label        "ჩამოტვირთვის მმართველის გაელვება თუ გახსნილია, წინააღმდეგ შემთხვევაში:">
-<!ENTITY focusWhenStarting.accesskey    "F">
-<!ENTITY openDM.label                   "ჩამოტვირთვის მმართველის გახსნა">
-<!ENTITY openDM.accesskey               "m">
+<!ENTITY doNothing.label                "რაიმეს გახსნის გარეშე">
+<!ENTITY doNothing.accesskey            "D">
 <!ENTITY openProgressDialog.label       "მიმდინარეობის დიალოგის გახსნა">
 <!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY doNothing.label                "არცერთი ქმედება">
-<!ENTITY doNothing.accesskey            "D">
+<!ENTITY openDM.label                   "ჩამოტვირთვის მმართველის გახსნა">
+<!ENTITY openDM.accesskey               "m">
+<!ENTITY flashWhenOpen.label            "ჩამოტვირთვის მმართველის გაელვება თუ უკვე გახსნილია">
+<!ENTITY flashWhenOpen.accesskey        "f">
 
 <!ENTITY downloadLocation.label         "ფაილის შენახვისას">
 <!ENTITY saveTo.label                   "Save files to">

@@ -1,27 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pluginWizard.title                                  "მოდულების ძებნა">
+<!ENTITY pluginWizard.title                                  "პაკეტების ძებნა">
 <!ENTITY pluginWizard.firstPage.title                        "მოგესალმებათ &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ამოწმებს შესაძლო მოდულებს…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ამოწმებს შესაძლო პაკეტებს…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "არსებული ჩადგმების გადმოწერა">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "არსებობს შემდეგი მოდულები:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ამ მოდულების ჩასადგმელად დაწკაპეთ შემდეგ.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "ზოგიერთ მოდულს ჩადგმის განმავლობაში შესაძლოა თქვენგან დამატებითი ინფორმაცია დაჭირდეს.">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "არსებობს შემდეგი პაკეტები:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ამ პაკეტების ჩასადგმელად დაწკაპეთ შემდეგ.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "ზოგიერთ პაკეტს ჩადგმის განმავლობაში შესაძლოა თქვენგან დამატებითი ინფორმაცია დაჭირდეს.">
 
-<!ENTITY pluginWizard.licensePage.title                      "მოდულის ლიცენზია">
+<!ENTITY pluginWizard.licensePage.title                      "პაკეტის ლიცენზია">
 <!ENTITY pluginWizard.licensePage.accept.label               "ვეთანხმები.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "არ ვეთანხმები (მოდული არ ჩაიდგმება).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "არ ვეთანხმები (პაკეტი არ ჩაიდგმება).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "მოდულების ჩადგმა">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; დგამს მოდულებს…">
+<!ENTITY pluginWizard.installPluginsPage.title               "პაკეტების ჩადგმა">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; დგამს პაკეტებს…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ბრაუზერმა დაასრულა მოდულების ჩადგმა:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ბრაუზერმა დაასრულა პაკეტების ჩადგმა:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "მიიღეთ ინფორმაცია მოდულების შესახებ ან ხელით მოძებნეთ მცდარი მოდულები.">
-<!ENTITY pluginWizard.finalPage.restart.label                "მოდულ(ებ)ის გასააქტივებლად &brandShortName; უნდა დაიხუროს და ხელახლა გაიხსნას.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "მიიღეთ ინფორმაცია პაკეტების შესახებ ან ხელით მოძებნეთ მცდარი პაკეტები.">
+<!ENTITY pluginWizard.finalPage.restart.label                "პაკეტ(ებ)ის გასააქტივებლად &brandShortName; უნდა დაიხუროს და ხელახლა გაიხსნას.">
 
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
@@ -32,16 +32,16 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
-<!ENTITY missingPlugin                                       "მოდული აუცილებელია ამ მონაცემთა ჩვენებისთვის.">
+<!ENTITY missingPlugin                                       "პაკეტი აუცილებელია ამ მონაცემთა ჩვენებისთვის.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "გააჭირეთ აქ ამ მოდულის გასააქტივებლად.">
-<!ENTITY clickToPlayPlugin                                   "დაწკაპეთ აქ მოდულის გასააქტივებლად.">
+<!ENTITY tapToPlayPlugin                                     "გააჭირეთ აქ ამ პაკეტის გასააქტივებლად.">
+<!ENTITY clickToActivatePlugin                               "პაკეტის გააქტივება.">
 <!ENTITY checkForUpdates                                     "შემოწმება განახლებაზე…">
-<!ENTITY disabledPlugin                                      "ეს მოდული ამორთულია.">
-<!ENTITY blockedPlugin.label                                 "ეს მოდული დაიბლოკა თქვენი უსაფრთხოების მიზნით.">
+<!ENTITY disabledPlugin                                      "ეს პაკეტი ამორთულია.">
+<!ENTITY blockedPlugin.label                                 "ეს პაკეტი დაიბლოკა თქვენი უსაფრთხოების მიზნით.">
 
-<!ENTITY installPlugin                                       "მოდულის ჩადგმა…">
-<!ENTITY managePlugins                                       "მოდულების მართვა…">
+<!ENTITY installPlugin                                       "პაკეტის ჩადგმა…">
+<!ENTITY managePlugins                                       "პაკეტების მართვა…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "შეცდომათა პატაკი ამორთულია.">
 <!ENTITY report.failed                                       "გაგზავნა ვერ ხერხდება.">
 <!ENTITY report.unavailable                                  "პატაკი მიუწვდომელია.">
+<!ENTITY report.comment                                      "კომენტარის დამატება (კომენტარები საზოგადოდ ხილულია)">
+<!ENTITY report.pageURL                                      "გვერდის URL-ს ასახვა">
 
 <!ENTITY plugin.file                                         "ფაილი">
 <!ENTITY plugin.mimeTypes                                    "MIME ტიპები">

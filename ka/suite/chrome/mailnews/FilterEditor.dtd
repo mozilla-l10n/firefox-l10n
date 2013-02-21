@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "შენიშვნა: გამოხშირვის ქმედებები სხვა რიგით შესრულდება.">
+<!ENTITY filterActionOrder.label "შესრულების რიგის ჩვენება">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "წერილის გადატანა -">
 <!ENTITY copyMessage.label "წერილის კოპირება -">

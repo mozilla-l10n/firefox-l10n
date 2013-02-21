@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label            "უახლესი ისტორიის გასუფთავება">
-<!ENTITY clearRecentHistory.accesskey        "H">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "პირადი სეანსის დაწყება">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "პირადი სეანსის შექყვეტა">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "ჩვენება"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "გადასვლა ვებსაიტზე">
+<!ENTITY urlbar.placeholder2          "მისამართის მოძიება ან შეტანა">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "გადასვლა დაფაზე:">
 
@@ -428,7 +422,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY copyLinkCmd.label            "ბმის ასლი">
+<!ENTITY playPluginCmd.label          "პაკეტის გააქტივება">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "ამ პაკეტის დამალვა">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "ბმის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "გამოსახულების მისამართის ასლი">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -587,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "დაწვრილებით…">
 
-<!ENTITY allTabs.filter.emptyText "ძიება დაფებში">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის დაფები">
@@ -632,3 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "კამერის / მიკროფონის წვდომა">
 <!ENTITY webrtcIndicatorButton.tooltip "საიტების ასახვა თქვენი საზიარო კამერით ანდა მიკროფონით">
+
+<!ENTITY mixedContentBlocked.helplink "დაწვრილებით">
+<!ENTITY mixedContentBlocked.moreinfo "საიტების უმეტესობა გამართულად იმუშავებს მაშინაც თუ მასალა დაბლოკილია.">

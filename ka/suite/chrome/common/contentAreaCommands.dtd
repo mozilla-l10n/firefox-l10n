@@ -4,13 +4,15 @@
 
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "ამ საიტიდან ფირნიშების აკრძალვა">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ფირნიშების დაშვება">
-<!ENTITY popupWindowAllowCmd.accesskey  "">
-<!ENTITY openLinkCmd.label            "ბმის ახალ სარკმელში გახსნა">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "ბმის ახალ სარკმლეში გახსნა">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInPrivateWindow.label     "ბმის პირად სარკმელში გახსნა">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "გახსნა">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label           "ბლოკის ახალ სარკმელში გახსნა">

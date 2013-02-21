@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "საძიებო კონტექსტი ან მისამართი">
+<!ENTITY urlbar.accesskey      "d">
+
+<!ENTITY back.label            "უკან">
+<!ENTITY forward.label         "წინ">
+<!ENTITY reload.label          "განახლება">
+<!ENTITY stop.label            "შეჩერება">
+<!ENTITY go.label              "გასწი">
+<!ENTITY star.label            "ვარსკვლავი">
+
+<!ENTITY toggleTabsOnly.label  "დაფების ყოველთვის ჩვენება">
+<!ENTITY showTabs.label        "დაფების ჩვენება">
+<!ENTITY newtab.label          "ახალი დაფა">
+<!ENTITY closetab.label        "დაფის დახურვა">
+<!ENTITY undoclosetab.label    "დაფის ხელახლა გახსნა">
+
+<!ENTITY cut.label             "ამოჭრა">
+<!ENTITY copy.label            "ასლი">
+<!ENTITY copyAll.label         "ყველას ასლი">
+<!ENTITY copylink.label        "ბმის ასლი">
+<!ENTITY paste.label           "ჩასმა">
+<!ENTITY pasteAndGo.label      "ჩასმა და გადასვლა">
+<!ENTITY delete.label          "წაშლა">
+<!ENTITY selectAll.label       "ყველას მონიშვნა">
+
+<!ENTITY appbarFindInPage.label    "პოვნა გვერდზე">
+<!ENTITY appbarViewOnDesktop.label "ჩვენება სამუშაო დაფაზე">
+
+<!ENTITY startTopSitesHeader.label        "პოპულარული საიტები">
+<!ENTITY startBookmarksHeader.label       "სანიშნეები">
+<!ENTITY startHistoryHeader.label         "უახლესი ისტორია">
+<!ENTITY startRemoteTabsHeader.label      "დაფები სხვა მოწყობილობებიდან">
+
+<!ENTITY autocompleteResultsHeader.label  "თქვენი შედეგები">
+<!ENTITY autocompleteSearchesHeader.label "ინტერნეტ ძიება"> 
+
+<!ENTITY selectHelper.done         "მზადაა">
+
+<!ENTITY downloadsHeader.label     "ჩამოტვირთვები">
+<!ENTITY downloadShowPage.label    "გადასვლა გვერდზე">
+<!ENTITY downloadShow2.label       "პოვნა">
+<!ENTITY downloadOpen2.label       "გახსნა">
+<!ENTITY downloadCancel.label      "ოაუქმება">
+<!ENTITY downloadPause.label       "პაუზა">
+<!ENTITY downloadResume.label      "გაგრძლება">
+<!ENTITY downloadRetry.label       "ხელახლა">
+<!ENTITY downloadRemove.label      "ამოღება">
+<!ENTITY downloadDelete.label      "წაშლა">
+<!ENTITY downloadFailed.label      "ვერ მოხერხდა">
+
+<!ENTITY bookmarksHeader.label     "სანიშნეები">
+<!ENTITY allBookmarks.label        "ყველა სანიშნის ჩვენება">
+
+<!ENTITY identity.unverifiedsite2 "ეს ვებსაიტი იდენტობის მონაცემებს არ იძლევა.">
+<!ENTITY identity.connectedTo2 "კავშირი -">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "მფლობელი">
+
+<!ENTITY consoleHeader.label       "შეცდომის კონსოლი">
+<!ENTITY consoleAll.label          "ყველა">
+<!ENTITY consoleErrors.label       "შეცდომები">
+<!ENTITY consoleWarnings.label     "გაფრთხილებები">
+<!ENTITY consoleMessages.label     "გზავნილები">
+<!ENTITY consoleCodeEval.label     "კოდი:">
+<!ENTITY consoleClear.label        "გასუფთავება">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "დედანი:">
+<!ENTITY consoleErrLine.label      "სტრიქონი:">
+<!ENTITY consoleErrColumn.label    "სვეტი:">
+
+<!ENTITY contextOpenInNewTab.label    "ბმის ახალ დაფაზე გახსნა">
+<!ENTITY contextViewInNewTab.label    "გახსნა ახალ დაფაზე">
+<!ENTITY contextSaveImage.label       "გამოსახულების შენახვა">
+<!ENTITY contextSaveImageTo.label     "გამოსახულების შენახვა სახელით">
+<!ENTITY contextCopyLink.label        "ბმის ასლი">
+<!ENTITY contextCopyEmail.label       "ელფოსტის ასლი">
+<!ENTITY contextCopyPhone.label       "ტელეფონის ნომრის ასლი">
+<!ENTITY contextCopyImage.label       "გამოსახულების ასლი">
+<!ENTITY contextShareLink.label       "ბმის გაზიარება">
+<!ENTITY contextShareImage.label      "გამოსახულების გაზიარება">
+<!ENTITY contextBookmarkLink.label    "სანიშნის ბმა">
+<!ENTITY contextSaveVideo.label       "ვიდეოს შენახვა">
+<!ENTITY contextSaveVideoTo.label       "ვიდეოს შენახვა სახელით">
+<!ENTITY contextShareVideo.label      "ვიდეოს გაზიარება">
+<!ENTITY contextPlayMedia.label       "ჩვენება">
+<!ENTITY contextPauseMedia.label      "პაუზა">
+<!ENTITY contextVideoTab.label        "გახსნა ახალ დაფაზე">
+<!ENTITY contextEditBookmark.label    "რედაქცია">
+<!ENTITY contextRemoveBookmark.label  "ამოღება">
+<!ENTITY contextShortcutBookmark.label "დამატება თავფურცელზე">
+
+<!ENTITY pageactions.password.forget "პაროლის აღდგენა">
+<!ENTITY pageactions.reset           "საიტის პარამეტრების გასუფთავება">
+<!ENTITY pageactions.charEncoding    "სიმბოლოთა კოდირება">
