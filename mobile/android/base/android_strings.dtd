@@ -89,6 +89,7 @@
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайтов">
+<!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
 <!ENTITY pref_update_autodownload "Автоматическое обновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
@@ -162,7 +163,7 @@
 <!ENTITY abouthome_topsites_edit "Изменить">
 <!ENTITY abouthome_topsites_pin "Закрепить сайт">
 <!ENTITY abouthome_topsites_unpin "Открепить сайт">
-<!ENTITY abouthome_topsites_unpinall "Открепить все">
+<!ENTITY abouthome_topsites_remove "Удалить">
 <!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
 <!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

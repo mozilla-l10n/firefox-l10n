@@ -17,6 +17,7 @@
 <!ENTITY links.label "Поведение ссылок">
 <!ENTITY offline.label "Автономная работа">
 <!ENTITY security.label "Приватность и защита">
+<!ENTITY privatedata.label "Личные данные">
 <!ENTITY cookies.label "Куки">
 <!ENTITY images.label "Изображения">
 <!ENTITY popups.label "Всплывающие окна">
