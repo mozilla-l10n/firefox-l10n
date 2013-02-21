@@ -5,6 +5,7 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY mainWindow.titleprivate "Приватный просмотр">
 <!ENTITY editPageCmd.label "Редактировать страницу">
 <!ENTITY editPageCmd.accesskey "е">
 <!ENTITY editPageCmd.commandkey "e">

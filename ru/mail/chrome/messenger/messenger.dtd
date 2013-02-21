@@ -525,6 +525,8 @@
 <!ENTITY appmenuEditMenu.label "Правка">
 <!ENTITY appmenuQFBMenu.label "Панель быстрого фильтра">
 <!ENTITY appmenuToolbarLayout.label "Панель инструментов…">
+<!ENTITY appmenuSelectThread.label "Выбрать обсуждение">
+<!ENTITY appmenuSelectFlagged.label "Выбрать сообщения со звёздочкой">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
 <!ENTITY manageTags.label "Управление метками…">

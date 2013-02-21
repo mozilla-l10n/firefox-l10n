@@ -6,6 +6,7 @@
 <!ENTITY enter.accesskey "В">
 <!ENTITY chooseFile.label "Выбрать файл…">
 <!ENTITY chooseFile.accesskey "ы">
+<!ENTITY newPrivate.label "Новое приватное окно">
 <!ENTITY newWindow.label "В новом окне браузера">
 <!ENTITY newTab.label "В новой вкладке браузера">
 <!ENTITY currentTab.label "В этой вкладке браузера">

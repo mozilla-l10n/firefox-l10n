@@ -4,14 +4,16 @@
 
 <!ENTITY pref.security.title "Приватность и защита">
 <!ENTITY tracking.label "Отслеживание пользователя">
-<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
-<!ENTITY doNotTrack.accesskey "б">
-<!ENTITY privateData.label "Личные данные">
-<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
-<!ENTITY alwaysClear.accesskey "з">
-<!ENTITY askBeforeClear.label "Спрашивать перед стиранием личных данных">
-<!ENTITY askBeforeClear.accesskey "п">
-<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; стереть мои личные данные, он должен удалить:">
-<!ENTITY clearDataDialog.label "Стереть сейчас…">
-<!ENTITY clearDataSilent.label "Стереть сейчас">
-<!ENTITY clearDataDialog.accesskey "т">
+<!ENTITY trackingIntro.label "Веб-сайты могут отслеживать то, как вы их используете, что влияет на вашу приватность.">
+<!ENTITY dntTellSites.label "Сообщать веб-сайтам о моей настройке отслеживания">
+<!ENTITY dntTellSites.accesskey "о">
+<!ENTITY dntTrackingNotOkay.label "Я не хочу, чтобы меня отслеживали">
+<!ENTITY dntTrackingNotOkay.accesskey "н">
+<!ENTITY dntTrackingOkay.label "Я согласен, чтобы меня отслеживали">
+<!ENTITY dntTrackingOkay.accesskey "а">
+<!ENTITY safeBrowsing.label "Безопасный веб-сёрфинг">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; может блокировать веб-сайты, подозреваемые в наличии зловредного содержимого.">
+<!ENTITY blockAttackSites.label "Блокировать сайты, подозреваемые в атаках (вредоносные программы, вирусы)">
+<!ENTITY blockAttackSites.accesskey "к">
+<!ENTITY blockWebForgeries.label "Блокировать сайты, подозреваемые в мошенничестве (фишинге)">
+<!ENTITY blockWebForgeries.accesskey "и">

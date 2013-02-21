@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Приватный просмотр">
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; в данный момент является экспериментальной функцией.">
+<!ENTITY privatebrowsingpage.description "При работе в окне &privatebrowsingpage.title; &brandShortName; не будет хранить кэш на диске, сохранять куки или вести журналы посещений, поиска, загрузок или веб-форм. Однако, загруженные вами файлы и созданные вами закладки будут сохранены.">
+<!ENTITY privatebrowsingpage.moreinfo "Хотя этот компьютер не будет вести журнал посещаемых вами сайтов, ваш работодатель или интернет-провайдер могут следить за тем, какие страницы вы посещаете.">
+<!ENTITY privatebrowsingpage.learnmore.label "Подробнее">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "о">
+<!ENTITY privatebrowsingpage.private "&brandShortName; не будет запоминать историю для этого окна. Закройте окно, чтобы остановить &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label "Переключиться в нормальное окно">
+<!ENTITY privatebrowsingpage.switch.accesskey "е">
+<!ENTITY privatebrowsingpage.normal "Сейчас вы не используете &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label "Открыть новое приватное окно">
+<!ENTITY privatebrowsingpage.private.accesskey "к">
+<!ENTITY privatebrowsingpage.info "Чтобы начать &privatebrowsingpage.title;, вы можете также выбрать Файл ― Создать ― Приватное окно.">
