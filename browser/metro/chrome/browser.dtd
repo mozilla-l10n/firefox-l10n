@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Zadajte adresu alebo výraz vyhľadávania">
+<!ENTITY urlbar.accesskey      "d">
+
+<!ENTITY back.label            "Naspäť">
+<!ENTITY forward.label         "Dopredu">
+<!ENTITY reload.label          "Obnoviť">
+<!ENTITY stop.label            "Zastaviť">
+<!ENTITY go.label              "Prejsť">
+<!ENTITY star.label            "Označiť hviezdou">
+
+<!ENTITY toggleTabsOnly.label  "Vždy zobrazovať karty">
+<!ENTITY showTabs.label        "Zobraziť karty">
+<!ENTITY newtab.label          "Nová karta">
+<!ENTITY closetab.label        "Zavrieť kartu">
+<!ENTITY undoclosetab.label    "Otvoriť zatvorenú kartu">
+
+<!ENTITY cut.label             "Vystrihnúť">
+<!ENTITY copy.label            "Kopírovať">
+<!ENTITY copyAll.label         "Kopírovať všetko">
+<!ENTITY copylink.label        "Kopírovať adresu odkazu">
+<!ENTITY paste.label           "Prilepiť">
+<!ENTITY pasteAndGo.label      "Prilepiť a prejsť">
+<!ENTITY delete.label          "Odstrániť">
+<!ENTITY selectAll.label       "Vybrať všetko">
+
+<!ENTITY appbarFindInPage.label    "Hľadať na stránke">
+<!ENTITY appbarViewOnDesktop.label "Zobraziť na Ploche">
+
+<!ENTITY startTopSitesHeader.label        "Naj stránky">
+<!ENTITY startBookmarksHeader.label       "Záložky">
+<!ENTITY startHistoryHeader.label         "Nedávna história">
+<!ENTITY startRemoteTabsHeader.label      "Karty z iných zariadení">
+
+<!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
+<!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete"> 
+
+<!ENTITY selectHelper.done         "Hotovo">
+
+<!ENTITY downloadsHeader.label     "Prevzaté">
+<!ENTITY downloadShowPage.label    "Prejsť na stránku">
+<!ENTITY downloadShow2.label       "Hľadať">
+<!ENTITY downloadOpen2.label       "Otvoriť">
+<!ENTITY downloadCancel.label      "Zrušiť">
+<!ENTITY downloadPause.label       "Pozastaviť">
+<!ENTITY downloadResume.label      "Pokračovať">
+<!ENTITY downloadRetry.label       "Znova">
+<!ENTITY downloadRemove.label      "Odstrániť">
+<!ENTITY downloadDelete.label      "Vymazať">
+<!ENTITY downloadFailed.label      "Zlyhalo">
+
+<!ENTITY bookmarksHeader.label     "Záložky">
+<!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
+
+<!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o identite.">
+<!ENTITY identity.connectedTo2 "Pripojené k">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "Spravuje ju">
+
+<!ENTITY consoleHeader.label       "Chybová konzola">
+<!ENTITY consoleAll.label          "Všetko">
+<!ENTITY consoleErrors.label       "Chyby">
+<!ENTITY consoleWarnings.label     "Upozornenia">
+<!ENTITY consoleMessages.label     "Správy">
+<!ENTITY consoleCodeEval.label     "Kód:">
+<!ENTITY consoleClear.label        "Vymazať">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Zdrojový súbor:">
+<!ENTITY consoleErrLine.label      "Riadok:">
+<!ENTITY consoleErrColumn.label    "Stĺpec:">
+
+<!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
+<!ENTITY contextViewInNewTab.label    "Zobraziť na novej karte">
+<!ENTITY contextSaveImage.label       "Uložiť obrázok">
+<!ENTITY contextSaveImageTo.label     "Uložiť obrázok ako">
+<!ENTITY contextCopyLink.label        "Kopírovať odkaz">
+<!ENTITY contextCopyEmail.label       "Kopírovať e-mailovú adresu">
+<!ENTITY contextCopyPhone.label       "Kopírovať telefónne číslo">
+<!ENTITY contextCopyImage.label       "Kopírovať obrázok">
+<!ENTITY contextShareLink.label       "Zdieľať odkaz">
+<!ENTITY contextShareImage.label      "Zdieľať obrázok">
+<!ENTITY contextBookmarkLink.label    "Pridať medzi záložky">
+<!ENTITY contextSaveVideo.label       "Uložiť video">
+<!ENTITY contextSaveVideoTo.label     "Uložiť video ako">
+<!ENTITY contextShareVideo.label      "Zdieľať video">
+<!ENTITY contextPlayMedia.label       "Prehrať">
+<!ENTITY contextPauseMedia.label      "Pozastaviť">
+<!ENTITY contextVideoTab.label        "Otvoriť na novej karte">
+<!ENTITY contextEditBookmark.label    "Upraviť">
+<!ENTITY contextRemoveBookmark.label  "Odstrániť">
+<!ENTITY contextShortcutBookmark.label "Pridať na úvodnú stránku">
+
+<!ENTITY pageactions.password.forget "Zabudnúť heslo">
+<!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
+<!ENTITY pageactions.charEncoding    "Kódovanie znakov">

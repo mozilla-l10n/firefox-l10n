@@ -6,23 +6,29 @@
 <!ENTITY pref.security.title              "Súkromie a bezpečnosť">
 
 <!ENTITY tracking.label                   "Sledovanie používateľov">
-<!ENTITY doNotTrack.label                 "Požiadať webové stránky, aby nesledovali moju aktivitu">
-<!ENTITY doNotTrack.accesskey             "n">
+<!ENTITY trackingIntro.label              "Webové stránky môžu sledovať ako ich používate, čo ovplyvňuje vaše súkromie.">
 
-<!ENTITY privateData.label                "Súkromné údaje">
+<!ENTITY dntTellSites.label               "Povedzte stránkam, či chcete byť sledovaný">
+<!ENTITY dntTellSites.accesskey           "o">
+<!ENTITY dntTrackingNotOkay.label         "Nechcem byť sledovaný">
+<!ENTITY dntTrackingNotOkay.accesskey     "N">
+<!ENTITY dntTrackingOkay.label            "Môžem byť sledovaný">
+<!ENTITY dntTrackingOkay.accesskey        "M">
 
-<!ENTITY alwaysClear.label                "Pri ukončení programu &brandShortName; vždy odstrániť súkromné údaje">
-<!ENTITY alwaysClear.accesskey            "k">
 
-<!ENTITY askBeforeClear.label             "Pred odstránením súkromných údajov sa vždy opýtať">
-<!ENTITY askBeforeClear.accesskey         "o">
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 
-<!ENTITY clearDataSettings.label          "Pri odstraňovaní súkromných údajov programu &brandShortName; odstrániť:">
-
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
 -->
-<!ENTITY clearDataDialog.label            "Odstrániť teraz…">
-<!ENTITY clearDataSilent.label            "Odstrániť teraz">
-<!ENTITY clearDataDialog.accesskey        "d">
+<!ENTITY safeBrowsing.label               "Bezpečné prehliadanie">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; dokáže blokovať webové stránky, ktoré podľa hlásení obsahujú nebezpečný obsah.">
+
+<!ENTITY blockAttackSites.label           "Blokovať nahlásené útočné stránky">
+<!ENTITY blockAttackSites.accesskey       "B">
+
+<!ENTITY blockWebForgeries.label          "Blokovať nahlásené podvodné stránky">
+<!ENTITY blockWebForgeries.accesskey      "k">
+

@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Nie sú nainštalované žiadne webové aplikácie. Nainštalovať si ich môžete z archívu">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Odinštalovať">
+<!ENTITY aboutApps.addToHomescreen "Pridať na úvodnú stránku">

@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "k">
 <!ENTITY popupWindowAllowCmd.label      "Povoliť vyskakovacie okná z tejto stránky">
 <!ENTITY popupWindowAllowCmd.accesskey  "k">
-<!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
-<!ENTITY openLinkCmd.accesskey        "O">
 <!ENTITY openLinkCmdInTab.label       "Otvoriť odkaz na novej karte">
 <!ENTITY openLinkCmdInTab.accesskey   "k">
+<!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
+<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Otvoriť odkaz v Súkromnom okne">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "S">
 <!ENTITY openLinkInWindowCmd.label    "Otvoriť">
 <!ENTITY openLinkInWindowCmd.accesskey "O">
 <!ENTITY openFrameCmd.label           "Otvoriť rámec v novom okne">
