@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Synchronizácia">
+<!ENTITY sync.notconnected          "Nepripojené">
+<!ENTITY sync.connect               "Pripojiť">
+<!ENTITY sync.connected             "Pripojené">
+<!ENTITY sync.details               "Podrobnosti">
+<!ENTITY sync.deviceName            "Toto zariadenie">
+<!ENTITY sync.disconnect            "Odpojiť">
+<!ENTITY sync.syncNow               "Synchronizovať">
+
+<!ENTITY sync.setup.title           "Víta vás služba Sync">
+<!ENTITY sync.setup.pair            "Na aktiváciu zvoľte položku &#x0022;Spárovať zariadenie&#x0022; na svojom ďalšom zariadení.">
+<!ENTITY sync.fallback              "Nie som pri svojom počítači…">
+<!ENTITY sync.setup.manual          "Zadajte údaje o svojom účte služby Sync">
+<!ENTITY sync.account               "Názov účtu">
+<!ENTITY sync.password              "Heslo">
+<!ENTITY sync.recoveryKey           "Obnovovací kľúč">
+<!ENTITY sync.customServer          "Použiť vlastný server">
+<!ENTITY sync.serverURL             "Adresa servera">
+<!ENTITY sync.setup.connect         "Pripojiť">
+<!ENTITY sync.setup.cancel          "Zrušiť">
+<!ENTITY sync.setup.tutorial        "Ako na to">
+<!ENTITY sync.setup.waiting2        "Čaká sa na zariadenie…">
+
+<!ENTITY sync.pair.title            "Spárovanie zariadenia">
+<!ENTITY sync.pair.description      "Ak chcete aktivovať vaše nové zariadenie, zvoľte v tomto zariadení položku &#x0022;Nastaviť synchronizáciu&#x0022;.">
+<!ENTITY sync.setup.close           "Zavrieť">
+<!ENTITY sync.setup.waitingdownload "Vaše údaje sú teraz preberané na pozadí. Toto okno môžete kedykoľvek zavrieť.">
