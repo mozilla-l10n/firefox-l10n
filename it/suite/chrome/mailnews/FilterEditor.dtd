@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Filtra dopo la classificazione dello spam">
 <!ENTITY filterActionDesc.label "Esegui le seguenti azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
+<!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro verranno eseguite in un ordine diverso.">
+<!ENTITY filterActionOrder.label "Visualizza ordine di esecuzione">
 <!ENTITY moveMessage.label "Sposta messaggio in">
 <!ENTITY copyMessage.label "Copia messaggio a">
 <!ENTITY forwardTo.label "Inoltra messaggio a:">

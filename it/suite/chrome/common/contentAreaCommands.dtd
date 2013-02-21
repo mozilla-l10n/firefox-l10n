@@ -10,6 +10,8 @@
 <!ENTITY openLinkCmd.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "h">
+<!ENTITY openLinkCmdInPrivateWindow.label "Apri in finestra anonima">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "r">
 <!ENTITY openLinkInWindowCmd.label "Apri">
 <!ENTITY openLinkInWindowCmd.accesskey "r">
 <!ENTITY openFrameCmd.label "Apri riquadro in nuova finestra">
