@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "გამიყვანე აქედან!">
+<!ENTITY safeb.palm.decline.label "ამ გაფრთხილების იგნორირება">
+<!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
+
+<!ENTITY safeb.blocked.malwarePage.title "ნაპატაკები შემტევი გვერდი!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებგვერდი <span id='malware_sitename'/> ნაპატაკებია, როგორც შემტევი გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების მიხედვით.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>შემტევი გვერდები ცდილობენ ჩადგან პროგრამები, რომლებიც პირად მონაცემებს იპარავენ, იყენებენ თქვენს კომპიუტერს სხვაზე შეტევებისთვის ან სულაც აზიანებენ თქვენს სისტემას.</p><p>ზოგი შემტევი გვერდი წინასწარი განზრახვით ავრცელებს მავნე პროგრამებს, თუმცა ხშირია შემთხვევა, როცა საიტის მფლობელებმა ამის შესახებ არც იციან.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "ნაპატაკები ვებ ყალთაბანდობა!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "ეს ვებგვერდი <span id='phishing_sitename'/> ნაპატაკებია, როგორც ვებ ყალთაბანდობა და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების მიხედვით.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ვებ ყალთაბანდები შექმნილია რათა გამოგტყუონ პირადი ან ფინანსური მონაცემები თქვენთვის შესაძლო სანდო წყაროს იმიტაციით.</p><p>რაიმე მონაცემთა შეტანა ასეთ გვერდებზე შესაძლოა თქვენი მონაცემების გადინების ან აფერაში გახვევის მიზეზი გახდეს.</p>">
+
+<!ENTITY reportPhishSite.label         "ვებ ყალთაბანდობის პატაკი…">
+<!ENTITY reportPhishSite.accesskey     "F">
+<!ENTITY notAForgery.label             "ეს არაა ვებ ყალთაბანდობა…">
+<!ENTITY notAForgery.accesskey         "f">

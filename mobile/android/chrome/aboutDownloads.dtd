@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "ჩამოტვირთვები">
 <!ENTITY aboutDownloads.header                     "თქვენი ჩამოტვირთვები">
 <!ENTITY aboutDownloads.empty                      "ჩამოტვირთვები არაა">
+
+<!ENTITY aboutDownloads.open                       "გახსნა">
+<!ENTITY aboutDownloads.remove                     "წაშლა">
+<!ENTITY aboutDownloads.removeAll                  "ყველას წაშლა">
+<!ENTITY aboutDownloads.pause                      "პაუზა">
+<!ENTITY aboutDownloads.resume                     "გაგრძელება">
+<!ENTITY aboutDownloads.cancel                     "გაუქმება">
+<!ENTITY aboutDownloads.retry                      "ხელახლა">

@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 <!ENTITY fileMenu.label					"ფაილი"> 
-<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY fileMenu.accesskey               "F">
 <!ENTITY newMenu.label						"ახალი">
 <!ENTITY newMenu.accesskey					"N">
 <!ENTITY newBlankPageCmd.label "რედაქტორის გვერდი">
@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "ბრაუზერის სარკმელი">
 <!ENTITY newNavigatorCmd.key				"N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newPrivateWindowCmd.label "პირადი სარკმელი">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">

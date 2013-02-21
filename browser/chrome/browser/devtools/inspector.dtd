@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "გარე HTML-ის ასლი">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "უნიკალური სელექტორის ასლი">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "კვანძის წაშლა">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
-<!ENTITY inspector.selectButton.tooltip     "ელემენტსი შერჩევა თაგუნათი">
+<!ENTITY inspector.selectButton.tooltip     "ელემენტის შერჩევა თაგუნათი">
+
+<!ENTITY inspectorSearchHTML.label          "ძიება HTML კოდში">
+<!ENTITY inspectorSearchHTML.key            "F">

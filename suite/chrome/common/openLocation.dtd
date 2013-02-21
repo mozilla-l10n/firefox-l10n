@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "E">
 <!ENTITY chooseFile.label "ფაილის არჩევა…">
 <!ENTITY chooseFile.accesskey "C">
+<!ENTITY newPrivate.label "ახალი პირადი სარკმელი">
 <!ENTITY newWindow.label "ნავიგატორის ახალ სარკმელში">
 <!ENTITY newTab.label "ნავიგატორის ახალ დაფაზე">
 <!ENTITY currentTab.label "ბრაუზერის აქტიურ დაფაზე">

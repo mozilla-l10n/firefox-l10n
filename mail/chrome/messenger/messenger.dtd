@@ -196,7 +196,7 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "დაღმავალი">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "ჩალაგებული">
+<!ENTITY sortThreaded.label "აკინძული">
 <!ENTITY sortThreaded.accesskey "T">
 <!ENTITY sortUnthreaded.label "გაბნეული">
 <!ENTITY sortUnthreaded.accesskey "h">
@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "რედაქცია">
 <!ENTITY appmenuQFBMenu.label "სწრაფი გაფილტვრა">
 <!ENTITY appmenuToolbarLayout.label "მართვის პულტი…">
+<!ENTITY appmenuSelectThread.label "საქაღალდის შერჩევა">
+<!ENTITY appmenuSelectFlagged.label "ვარსკვლავიანი წერილის შერჩევა">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ახალი ჭდე…">

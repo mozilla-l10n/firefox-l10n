@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "პირადი სეანსი">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; ამ დროისთვის ექსპერიმენტულ სტადიაშია.">
+<!ENTITY privatebrowsingpage.description  "&privatebrowsingpage.title; სარკმელში, &brandShortName; ბრაუზერი არ შეინახავს ბუფერის მონაცემებს, ნაჭდევებს ან საიტების, ძიების, ჩამოტვირთვუსა და ფორმების ისტორიას. თუმცა ჩამოტვირთული ფაილები და შენახული სანიშნეები შენარჩუნდება.">
+<!ENTITY privatebrowsingpage.moreinfo     "კომპიუტერში თქვენი საიტების ისტორია არ ჩაიწერება, თუმცა თქვენს ინტერნეტ პროვაიდერს ან ქსელის ადმინს მაინც შეუძლია თქვენი მონახულებული საიტების თვალმიდევნება.">
+<!ENTITY privatebrowsingpage.learnmore.label     "ვრცლად">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; არ დაიმახსოვრებს ამ სარკმლის ისტორიას. დახურეთ სარკმელი &privatebrowsingpage.title; რეჟიმიდან გამოსასვლელად.">
+<!ENTITY privatebrowsingpage.switch.label        "გადასვლა ჩვეულებრივ სარკმელზე">
+<!ENTITY privatebrowsingpage.switch.accesskey    "S">
+<!ENTITY privatebrowsingpage.normal       "ამ დროისთვის ხართ რეჟიმში &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label       "ახალი პირადი სარკმლის გახსნა">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
+<!ENTITY privatebrowsingpage.info         "სეანსის &privatebrowsingpage.title; დაწყება შეგეძლიათ აქედანაც: ფაილი ― ახალი ― პირადი სარკმელი.">

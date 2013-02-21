@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "&brandShortName; აღდგენა პირვანდელ მდგომარეობაში">
 <!ENTITY resetProfile.description         "თუ გაქვთ პრობლემები, რომელთა გადაჭრასაც ვერ ახერხებთ, დაიწყეთ თავიდან მხოლოდ უმნიშვნელოვანესი მონაცემებით.">
-<!ENTITY resetProfile.button.label        "&brandShortName; აღდგენა">
+<!ENTITY resetProfile.button.label2       "&brandShortName; აღდგენა">
 
 <!ENTITY resetProfile.cleaning.description "გთხოვთ დაიცადოთ ვიდრე &brandShortName; თქვენს ძველ მონაცემებს გაასუფთავებს…">

@@ -27,15 +27,15 @@
 <!ENTITY rights.intro-point2.5 "&brandShortName;, ბრაუზერის ზოგი პარამეტრი, მაგალითად შეცდომების მოპატაკე, &vendorShortName; ბრაუზერთან უკუკავშირის საშუალებას იძლევა. უკუკავშირით &vendorShortName; ბრაუზერს უფლებას აძლევთ გამოაქვეყნოს და გაავრცელოს თქვენი პატაკი ვებსაიტებზე.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "&vendorShortName;-ს პროდუქტების კონფიდენციალობის პოლიტიკას შეგიძლიათ გაეცნოთ ">
-<!ENTITY rights.intro-point3b "ამ საიტზე">
+<!ENTITY rights2.intro-point3a "&vendorShortName;-ს პროდუქტების კონფიდენციალობის პოლიტიკას შეგიძლიათ გაეცნოთ ">
+<!ENTITY rights2.intro-point3b "ამ საიტზე">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "ნებისმიერი კონფიდენციალობის პირობები ამ პროდუქტისთვის აქ უნდა აისახოს.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; ასევე, დამატებით გთავაზობთ საინფორმაციო მომსახურებას ინტერნეტით, როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება; თუმცა, ჩვენ ვერ მოგცემთ 100&#37; გარანტიას სიზუსტესა და უშეცდომობაზე. უფრო დაწვრილებით, იმის ჩათვლით თუ როგორ შეგიძლიათ ამორთოთ ეს მომსახურებები შეგიძლიათ იხილოთ ">
+<!ENTITY rights2.intro-point4a "&brandShortName; ასევე, დამატებით გთავაზობთ საინფორმაციო მომსახურებას ინტერნეტით, როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება; თუმცა, ჩვენ ვერ მოგცემთ 100&#37; გარანტიას სიზუსტესა და უშეცდომობაზე. უფრო დაწვრილებით, იმის ჩათვლით თუ როგორ შეგიძლიათ ამორთოთ ეს მომსახურებები შეგიძლიათ იხილოთ ">
 <!ENTITY rights.intro-point4b "მომსახურების პირობებში">
 <!ENTITY rights.intro-point4c ".">
 
@@ -51,7 +51,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; სარგებლობს ვებსაიტების ისეთი საინფორმაციო მომსახურებებით (შემდგომში «მომსახურებები»), როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება, და რომელიც თქვენთვის მისაწვდომია &brandShortName; ბრაუზერის ამ ვერსიით, იხილეთ ქვემოთ. თუ არ გსურთ «მომსახურებებით» სარგებლობა ქვემოთ მოტანილი პირობებით, შეგიძლიათ ამორთოთ  უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება თუ გახსნით პროგრამის პარამეტრების ">
+<!ENTITY rights2.webservices-a "&brandFullName; სარგებლობს ვებსაიტების ისეთი საინფორმაციო მომსახურებებით (შემდგომში «მომსახურებები»), როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება, და რომელიც თქვენთვის მისაწვდომია &brandShortName; ბრაუზერის ამ ვერსიით, იხილეთ ქვემოთ. თუ არ გსურთ «მომსახურებებით» სარგებლობა ქვემოთ მოტანილი პირობებით, შეგიძლიათ ამორთოთ  უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება თუ გახსნით პროგრამის პარამეტრების ">
 <!ENTITY rights2.webservices-b "ამ გვერდს">
 <!ENTITY rights2.webservices-c ".">
 

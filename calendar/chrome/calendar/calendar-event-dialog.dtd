@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "გამეორება:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "ვიდრე:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "შეხსენება:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "აღწერილობა:" >

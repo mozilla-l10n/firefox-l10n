@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "სინქრონიზაცია">
+<!ENTITY sync.notconnected          "კავშირი არაა">
+<!ENTITY sync.connect               "დაკავშირება">
+<!ENTITY sync.connected             "დაკავშირებულია">
+<!ENTITY sync.details               "დაწვრილებით">
+<!ENTITY sync.deviceName            "ეს მოწტობილობა">
+<!ENTITY sync.disconnect            "კავშირის გაწყვეტა">
+<!ENTITY sync.syncNow               "სინქრონიზაცია">
+
+<!ENTITY sync.setup.title           "დაკავშირება Sync-თან">
+<!ENTITY sync.setup.pair            "გასააქტივებლად თქვენს სხვა მოწყობილობაზე მიუთითეთ «შეწყვილება მოწყობილობასთან».">
+<!ENTITY sync.fallback              "არ ვარ კომპიუტერთან…">
+<!ENTITY sync.setup.manual          "შეიტანეთ თქვენი Sync ანგარიშის მონაცემები">
+<!ENTITY sync.account               "ანგარიშის სახელი">
+<!ENTITY sync.password              "პაროლი">
+<!ENTITY sync.recoveryKey           "აღდგენის კოდი">
+<!ENTITY sync.customServer          "საკუთარი სერვერით სარგგებლობა">
+<!ENTITY sync.serverURL             "სერვერის URL">
+<!ENTITY sync.setup.connect         "დაკავშირება">
+<!ENTITY sync.setup.cancel          "გაუქმება">
+<!ENTITY sync.setup.tutorial        "მაჩვენე">
+<!ENTITY sync.setup.waiting2        "სხვა მოწყობილობის ლოდინი…">
+
+<!ENTITY sync.pair.title            "შეწყვილება">
+<!ENTITY sync.pair.description "თქვენი ახალი მოწყობილობის გასააქტივებლად მიუთითეთ «სინქრონიზაციის გამართვა» მოწყობილობაზა.">
+<!ENTITY sync.setup.close           "დახურვა">
+<!ENTITY sync.setup.waitingdownload "თქვენი მონაცემები ფონურად იტვირთება. ამ სარკმლის დახურვა ნებისმიერ დროს შეგიძლიათ.">

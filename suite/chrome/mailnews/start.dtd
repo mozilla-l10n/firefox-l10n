@@ -5,7 +5,7 @@
 <!ENTITY startpage.title "მოგესალმებათ &brandShortName; საფოსტო და ჯგუფების პროგრამაში">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
-'მოგესალმებათ <a href="&vendorURL;">&brandShortName;-ს</a> საფოსტო და ჯგუფების პროგრამაში!'>
+'მოგესალმებათ <a id="vendorURL" href="">&brandShortName;</a> საფოსტო და ჯგუფების პროგრამაში!'>
 <!ENTITY description.label
 "&brandShortName; ამავე დროს ღია კოდების ძლიერი საფოსტო და ჯგუფების კლიენტი პროგრამაა,
 რომელსაც უსარგებლო წერილების ამოცნობისა და სხვა უამრავი შესაძლებლობა გააჩნია.">
@@ -29,6 +29,6 @@
 <!ENTITY info.title "დამატებითი ინფორმაცია">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">ჩვენ</a> მივესალმებით თქვენს გამოგზავნილ
-შეცდომის პატაკებს და მოთხოვნებს, გადაიკითხეთ <a href="&releaseURL;">ინფორმაცია</a> და მოთხოვნა ჯერ აქ
-<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> გამოაგზავნეთ.'>
+'<a href="http://www.mozilla.org/mailnews/">ჩვენ</a> მადლიერი ვართ თქვენი გამოგზავნილი
+შეცდომის პატაკებისა და მოთხოვნებსთვის, მაგრამ გთხოვთ ჯერ გაეცნოთ <a id="releaseNotesURL" href="">ვერსიის მონაცემებს</a> და ჯერ აქ
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> მოიძიოთ.'>

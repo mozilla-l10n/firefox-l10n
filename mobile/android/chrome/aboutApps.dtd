@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "პროგრამები არ ჩადგმულა. ზოგის ჩადგმა შეგიძლიათ აქედან ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox მაღაზია">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "ამოღება">
+<!ENTITY aboutApps.addToHomescreen "დამატება თავფურცელზე">

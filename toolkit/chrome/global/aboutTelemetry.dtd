@@ -28,6 +28,9 @@
   მარტივი გაზომვები
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  ბოლო ჩანაწერები
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   სისტემური ინფორმაცია
 ">

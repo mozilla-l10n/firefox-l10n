@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "ახალი დაფა">
+<!ENTITY newtab.undo.removedLabel "მინიატურა ამოღებულია.">
+<!ENTITY newtab.undo.undoButton "დაბრუნება.">
+<!ENTITY newtab.undo.restoreButton "ყველას აღდგენა.">
+<!ENTITY newtab.undo.closeTooltip "დამალვა">

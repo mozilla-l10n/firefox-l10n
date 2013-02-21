@@ -18,6 +18,7 @@
 <!ENTITY links.label "ბმების ქცევა">
 <!ENTITY offline.label "ავტონომიური რეჟიმი">
 <!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
+<!ENTITY privatedata.label "პირადი მონაცემები">
 <!ENTITY cookies.label "ნაჭდევები">
 <!ENTITY images.label "გამოსახულებები">
 <!ENTITY popups.label "ფირნიშები">
