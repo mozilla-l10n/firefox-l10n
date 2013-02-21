@@ -18,6 +18,9 @@
 <!ENTITY newNavigatorCmd.label "Finestra browser">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "b">
+<!ENTITY newPrivateWindowCmd.label "Finestra anonima">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY printPreviewCmd.label "Anteprima di stampa">

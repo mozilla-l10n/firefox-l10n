@@ -17,7 +17,7 @@
 <!ENTITY allowHWAccel.accesskey "t">
 <!ENTITY textZoomOnly.label "Fai lo zoom del solo testo invece di intere pagine">
 <!ENTITY textZoomOnly.accesskey "F">
-<!ENTITY blockAutoRefresh.label "Avvisami quando i siti web provano a rindirizzare o ricaricare la pagina">
+<!ENTITY blockAutoRefresh.label "Avvisami quando i siti web provano a reindirizzare o ricaricare la pagina">
 <!ENTITY blockAutoRefresh.accesskey "v">
 <!ENTITY siteSpecific.label "Ricorda livello di zoom per ogni sito">
 <!ENTITY siteSpecific.accesskey "R">
