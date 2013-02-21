@@ -143,6 +143,8 @@ načítavanie externého obsahu, ak sú vo formáte HTML.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Prezývka na IRC:">
+<!ENTITY IRC.accesskey                  "P">
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "F">

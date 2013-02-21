@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Opakovať:" >
 <!ENTITY event.repeat.accesskey                           "O">
+<!ENTITY event.until.label                                "Do:">
+<!ENTITY event.until.accesskey                            "D">
 <!ENTITY event.reminder.label                             "Pripomenúť:" >
 <!ENTITY event.reminder.accesskey                         "r">
 <!ENTITY event.description.label                          "Popis:" >
