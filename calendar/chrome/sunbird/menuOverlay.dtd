@@ -42,33 +42,33 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label               "Abrir ficheiro do Calendário…">
+<!ENTITY calendar.open.file.label               "Abrir ficheiro de calendário…">
 <!ENTITY calendar.open.file.key                 "O">
 <!ENTITY calendar.open.file.accesskey           "f">
 
-<!ENTITY event.edit.event                       "Editar Selecção...">
+<!ENTITY event.edit.event                       "Editar seleção...">
 <!ENTITY event.edit.event.key                   "E">
 <!ENTITY event.edit.event.accesskey             "E">
 
-<!ENTITY event.delete.event                     "Apagar Eventos Seleccionados">
+<!ENTITY event.delete.event                     "Eliminar eventos selecionados">
 <!ENTITY event.delete.event.accesskey           "A">
 
-<!ENTITY event.delete.tasks                     "Apagar Tarefas Seleccionadas">
+<!ENTITY event.delete.tasks                     "Eliminar tarefas selecionadas">
 <!ENTITY event.delete.tasks.accesskey           "T">
 
-<!ENTITY calendar.pagesetup.label               "Configurar Página…">
+<!ENTITY calendar.pagesetup.label               "Configurar página…">
 <!ENTITY calendar.pagesetup.accesskey           "u">
 
-<!ENTITY calendar.subscribe.label               "Subscrever Calendário Remoto…">
+<!ENTITY calendar.subscribe.label               "Subscrever calendário remoto…">
 <!ENTITY calendar.subscribe.accesskey           "R">
 
-<!ENTITY calendar.reloadserver.label            "Recarregar Calendários Remotos">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "c">
+<!ENTITY calendar.synccalendars.label                      "Sincronizar calendários">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
-<!ENTITY calendar.publish.calendar.label        "Publicar Calendário…">
+<!ENTITY calendar.publish.calendar.label        "Publicar calendário…">
 <!ENTITY calendar.publish.calendar.accesskey    "b">
-<!ENTITY calendar.publish.selection.label       "Publicar Selecção…">
+<!ENTITY calendar.publish.selection.label       "Publicar seleção…">
 <!ENTITY calendar.publish.selection.accesskey   "c">
 
 <!ENTITY calendar.quit.label                    "Sair">
@@ -99,20 +99,20 @@
 <!ENTITY calendar.paste.key                     "V">
 <!ENTITY calendar.paste.accesskey               "o">
 
-<!ENTITY calendar.selectall.label               "Seleccionar Tudo">
+<!ENTITY calendar.selectall.label               "Selecionar tudo">
 <!ENTITY calendar.selectall.key                 "A">
 <!ENTITY calendar.selectall.accesskey           "T">
 
-<!ENTITY toolbarsMenu.label                     "Barras de Ferramentas">
+<!ENTITY toolbarsMenu.label                     "Barras de ferramentas">
 <!ENTITY toolbarsMenu.accesskey                 "t">
 
-<!ENTITY showStatusBarCmd.label                 "Barra de Estado">
+<!ENTITY showStatusBarCmd.label                 "Barra de estado">
 <!ENTITY showStatusBarCmd.accesskey             "B">
 
-<!ENTITY showTaskBoxCmd.label                   "Lista de Tarefas">
+<!ENTITY showTaskBoxCmd.label                   "Lista de tarefas">
 <!ENTITY showTaskBoxCmd.accesskey               "L">
 
-<!ENTITY calendar.fullscreen.label              "Ecrã Inteiro">
+<!ENTITY calendar.fullscreen.label              "Ecrã completo">
 <!ENTITY calendar.fullscreen.accesskey          "E">
 
 <!ENTITY calendar.addons.label                  "Extras">
@@ -126,10 +126,8 @@
 
 <!ENTITY toolsMenu.label                        "Ferramentas">
 <!ENTITY toolsMenu.accesskey                    "r">
-
-<!ENTITY errorConsoleCmd.label                  "Consola de Erro">
+<!ENTITY errorConsoleCmd.label                  "Consola de erros">
 <!ENTITY errorConsoleCmd.accesskey              "C">
-
 <!ENTITY helpMenu.label                         "Ajuda">
 <!ENTITY helpMenu.accesskey                     "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -150,36 +148,36 @@
 <!ENTITY preferencesCmd.accesskey               "n">
 <!ENTITY preferencesCmdMac.label                "Preferências…">
 <!ENTITY preferencesCmdMac.commandkey           ",">
-<!ENTITY preferencesCmdMac.modifiers            "accel">
+<!ENTITY preferencesCmdMac.modifiers            "acel">
 
 <!ENTITY viewMenu.label                         "Ver">
 <!ENTITY viewMenu.accesskey                     "V">
 
-<!ENTITY releaseCmd.label                       "Notas da Versão">
+<!ENTITY releaseCmd.label                       "Notas da versão">
 <!ENTITY releaseCmd.accesskey                   "R">
 
 <!ENTITY aboutCmd.label                         "Sobre o &brandFullName;">
 <!ENTITY aboutCmd.accesskey                     "S">
 
-<!ENTITY updateCmd.label                        "Procurar por actualizações…">
+<!ENTITY updateCmd.label                        "Procurar atualizações…">
 <!ENTITY updateCmd.accesskey                    "p">
 
-<!ENTITY sunbird.export.calendar.label                     "Exportar Calendarário…">
+<!ENTITY sunbird.export.calendar.label                     "Exportar calendário…">
 <!ENTITY sunbird.export.calendar.accesskey                 "E">
 
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "Janela">
 <!ENTITY minimizeWindow.label                   "Minimizar">
-<!ENTITY zoomWindow.label                       "Zoom">
+<!ENTITY zoomWindow.label                       "Ampliação">
 <!ENTITY minimizeWindow.key                     "M">
-<!ENTITY bringAllToFront.label                  "Trazer todos para a frente">
+<!ENTITY bringAllToFront.label                  "Trazer tudo para a frente">
 
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label          "Serviços">
-<!ENTITY hideThisAppCmdMac.label        "Esconder o &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Esconder Outros">
+<!ENTITY hideThisAppCmdMac.modifiers    "acel">
+<!ENTITY hideOtherAppsCmdMac.label      "Ocultar outros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Mostrar Tudo">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "acel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">

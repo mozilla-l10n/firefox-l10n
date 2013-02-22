@@ -42,21 +42,21 @@
 <!ENTITY aboutLink.label        "&lt; Sobre o &brandFullName;">
 <!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "versão">
-<!ENTITY copyrightText          "&#169;1998-2008 Colaboradores. Todos os Direitos
+<!ENTITY copyrightText          "&#169;1998-2008 Colaboradores. Todos os direitos
                                  reservados. Mozilla Sunbird, Sunbird, e os logos
                                  Sunbird são marcas registadas da Fundação Mozilla.
                                  Todos os direitos reservados.">
 
 <!ENTITY brandMotto       "já era tempo">
-<!ENTITY credit.thanks    "Um obrigado especial a">
+<!ENTITY credit.thanks    "Um especial obrigado a">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Carlos Simão</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Tradutores</h3><ul><li>Carlos Simão</li><li>André Pinto</li><li>João Miguel Neves</li></ul>">
+<!ENTITY credit.translation "<h3>Tradutores</h3><ul><li>Carlos Simão</li><li>André Pinto</li><li>João Miguel Neves</li><li>Sérgio Marques</li></ul>">
 
-<!ENTITY credit.powered     "Powered by">
+<!ENTITY credit.powered     "Disponibilizado por">
 <!ENTITY license.and        "e">
-<!ENTITY cmdClose.macKey  "W">
+<!ENTITY cmdClose.macKey  "D">
