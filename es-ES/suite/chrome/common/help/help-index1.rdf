@@ -10,6 +10,11 @@
 <rdf:Description about="help-indexAZ.rdf#a">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:updating_add-ons"
+         nc:name="Actualizar complementos"
+         nc:link="customize_help.xhtml#updating_add-ons"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="return_receipts"
          nc:name="acuses de recibo"
          nc:link="mailnews_account_settings.xhtml#return_receipts"/>
@@ -186,6 +191,11 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="toolbar"
          nc:name="barra de herramientas" />
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:searching_for_add-ons"
+         nc:name="Buscar complementos"
+         nc:link="customize_help.xhtml#searching_for_add-ons"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="search"
@@ -487,6 +497,11 @@
 <rdf:Description about="#add-ons:manager">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:searching_for_add-ons"
+         nc:name="Buscar complementos"
+         nc:link="customize_help.xhtml#searching_for_add-ons"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="add-ons:get_add-ons"
          nc:name="Panel Obtener complementos"
          nc:link="customize_help.xhtml#the_get_add-ons_panel"/>
@@ -502,14 +517,19 @@
          nc:link="customize_help.xhtml#the_appearance_panel"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="add-ons:plugins_panel"
+         nc:name="Panel Plugins"
+         nc:link="customize_help.xhtml#the_plugins_panel"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="add-ons:languages_panel"
          nc:name="Panel Idiomas"
          nc:link="customize_help.xhtml#the_languages_panel"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="add-ons:plugins_panel"
-         nc:name="Panel Plugins"
-         nc:link="customize_help.xhtml#the_plugins_panel"/>
+       <rdf:Description ID="add-ons:updating_add-ons"
+         nc:name="Actualizar complementos"
+         nc:link="customize_help.xhtml#updating_add-ons"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
