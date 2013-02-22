@@ -29,6 +29,8 @@
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Filtrar variables">
 <!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.focusVariables "Enfocar árbol de variables">
+<!ENTITY debuggerUI.focusVariables.key "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Este punto de ruptura parará la ejecución sólo si la siguiente expresión devuelve verdadero">
 <!ENTITY debuggerUI.seMenuBreak "Punto de ruptura añadido">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
