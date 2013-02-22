@@ -6,23 +6,11 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY back.label "Indietro">
 <!ENTITY forward.label "Avanti">
-<!ENTITY reload.label "Ricarica">
-<!ENTITY stop.label "Stop">
-<!ENTITY go.label "Vai">
-<!ENTITY star.label "Stella">
 <!ENTITY toggleTabsOnly.label "Visualizza sempre le schede">
 <!ENTITY showTabs.label "Visualizza schede">
 <!ENTITY newtab.label "Nuova scheda">
 <!ENTITY closetab.label "Chiudi scheda">
 <!ENTITY undoclosetab.label "Riapri scheda chiusa">
-<!ENTITY cut.label "Taglia">
-<!ENTITY copy.label "Copia">
-<!ENTITY copyAll.label "Copia tutto">
-<!ENTITY copylink.label "Copia indirizzo">
-<!ENTITY paste.label "Incolla">
-<!ENTITY pasteAndGo.label "Incolla e vai">
-<!ENTITY delete.label "Elimina">
-<!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY appbarFindInPage.label "Trova nella pagina">
 <!ENTITY appbarViewOnDesktop.label "Visualizza sul desktop">
 <!ENTITY startTopSitesHeader.label "Siti principali">
@@ -31,7 +19,6 @@
 <!ENTITY startRemoteTabsHeader.label "Schede da altri dispositivi">
 <!ENTITY autocompleteResultsHeader.label "Risultati">
 <!ENTITY autocompleteSearchesHeader.label "Ricerche su Internet">
-<!ENTITY selectHelper.done "Fatto">
 <!ENTITY downloadsHeader.label "Download">
 <!ENTITY downloadShowPage.label "Vai alla pagina">
 <!ENTITY downloadShow2.label "Trova">
@@ -59,26 +46,21 @@
 <!ENTITY consoleErrFile.label "File sorgente:">
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
-<!ENTITY contextOpenInNewTab.label "Apri in nuova scheda">
-<!ENTITY contextViewInNewTab.label "Visualizza in nuova scheda">
-<!ENTITY contextSaveImage.label "Salva immagine">
-<!ENTITY contextSaveImageTo.label "Salva immagine in">
-<!ENTITY contextCopyLink.label "Copia link">
-<!ENTITY contextCopyEmail.label "Copia indirizzo email">
-<!ENTITY contextCopyPhone.label "Copia numero di telefono">
+<!ENTITY contextTextCopy.label "Copia">
+<!ENTITY contextTextPaste.label "Incolla">
+<!ENTITY contextTextPasteAndGo.label "Incolla e vai">
+<!ENTITY contextTextSelect.label "Seleziona">
+<!ENTITY contextTextSelectAll.label "Seleziona tutto">
+<!ENTITY contextOpenLinkTab.label "Apri link in una nuova scheda">
+<!ENTITY contextCopyLinkHref.label "Copia link">
+<!ENTITY contextBookmarkLinkHref.label "Aggiungi ai segnalibri">
+<!ENTITY contextSaveImageLib.label "Salva in raccolta immagini">
 <!ENTITY contextCopyImage.label "Copia immagine">
-<!ENTITY contextShareLink.label "Condividi link">
-<!ENTITY contextShareImage.label "Condividi immagine">
-<!ENTITY contextBookmarkLink.label "Aggiungi link nei segnalibri">
-<!ENTITY contextSaveVideo.label "Salva video">
-<!ENTITY contextSaveVideoTo.label "Salva video in">
-<!ENTITY contextShareVideo.label "Condividi video">
-<!ENTITY contextPlayMedia.label "Riproduci">
-<!ENTITY contextPauseMedia.label "Pausa">
-<!ENTITY contextVideoTab.label "Apri in nuova scheda">
-<!ENTITY contextEditBookmark.label "Modifica">
-<!ENTITY contextRemoveBookmark.label "Rimuovi">
-<!ENTITY contextShortcutBookmark.label "Aggiungi alla schermata principale">
+<!ENTITY contextCopyImageLocation.label "Copia indirizzo immagine">
+<!ENTITY contextOpenImageTab.label "Apri immagine in una nuova scheda">
+<!ENTITY contextSaveVideoLib.label "Salva in raccolta video">
+<!ENTITY contextCopyVideoLocation.label "Copia indirizzo video">
+<!ENTITY contextOpenVideoTab.label "Apri video in una nuova scheda">
 <!ENTITY pageactions.password.forget "Dimentica password">
 <!ENTITY pageactions.reset "Cancella preferenze dei siti">
 <!ENTITY pageactions.charEncoding "Codifica caratteri">
