@@ -5,3 +5,10 @@
 <!ENTITY aboutDownloads.title "Descargas">
 <!ENTITY aboutDownloads.header "Sus descargas">
 <!ENTITY aboutDownloads.empty "Sin descargas">
+<!ENTITY aboutDownloads.open "Abrir">
+<!ENTITY aboutDownloads.remove "Eliminar">
+<!ENTITY aboutDownloads.removeAll "Eliminar todas">
+<!ENTITY aboutDownloads.pause "Pausar">
+<!ENTITY aboutDownloads.resume "Continuar">
+<!ENTITY aboutDownloads.cancel "Cancelar">
+<!ENTITY aboutDownloads.retry "Reintentar">

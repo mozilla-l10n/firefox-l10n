@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Rastreo">
-<!ENTITY doNotTrack.label "Decir a los sitios web que no quiero ser rastreado">
-<!ENTITY doNotTrack.accesskey "D">
+<!ENTITY dntTrackingNopref.label "No decir a los sitios nada sobre mis preferencias de seguimiento.">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label "Decir a los sitios que no quiero ser rastreado.">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label "Decir a los sitios que quiero ser rastreado.">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Saber más">
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY locbar.pre.label "Cuando se use la barra de direcciones, sugerir:">
