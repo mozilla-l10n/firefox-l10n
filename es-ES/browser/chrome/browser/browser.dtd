@@ -127,7 +127,7 @@
 <!ENTITY feedButton.tooltip "Suscribirse a esta página…">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Mostrar sus marcadores">
-<!ENTITY bookmarksCmd.commandkey "d">
+<!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip "Mostrar sus marcadores">
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
