@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "Ներմուծել տվյալներ այլ դիտարկիչից">
 <!ENTITY importOtherBrowser.accesskey      "Ն">
 
-<!ENTITY cmd.backup.label               "Պահել կրկնորինակը…">
+<!ENTITY cmd.backup.label               "Պահուստացնել…">
 <!ENTITY cmd.backup.accesskey           "Պ">
 <!ENTITY cmd.restore2.label             "Վերականգնել">
 <!ENTITY cmd.restore2.accesskey         "R">
@@ -57,7 +57,7 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Բացել Բոլորը Ներդիրներում">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
-<!ENTITY cmd.properties.label      "Հատկանիշներ">
+<!ENTITY cmd.properties.label      "Հատկությունները">
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Դասավորել ըստ անունների">
@@ -91,21 +91,9 @@
 <!ENTITY search.label                              "Փնտրել.">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY search.in.label                           "Փնտրել՝ ">
-<!ENTITY search.scopeFolder.label                  "Նշված պնակ">
-<!ENTITY search.scopeFolder.accesskey              "Ն">
-<!ENTITY search.scopeBookmarks.label               "Էջանիշեր">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "Բեռնումներ">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "Պատմություն">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "Պահպանել">
-<!ENTITY saveSearch.accesskey                      "s">
-
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Ներմուծել և ռեզերվացնել">
+<!ENTITY maintenance.label      "Ներմուծել և Պահուստացնել">
 <!ENTITY maintenance.accesskey  "Ն">
 <!ENTITY maintenance.tooltip    "Ներմուծեք և պահպանեք ձեր էջանշերը">
 
@@ -121,7 +109,7 @@
 
 <!ENTITY find.label               "Փնտրել.">
 <!ENTITY find.accesskey           "Փ">
-<!ENTITY view.label               "Տեսք">
+<!ENTITY view.label               "Տեսքը">
 <!ENTITY view.accesskey           "Տ">
 <!ENTITY byDate.label             "Ըստ ամսաթվի">
 <!ENTITY byDate.accesskey         "Ը">

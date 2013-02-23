@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Հետևում">
 
-<!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
-<!ENTITY doNotTrack.accesskey           "Տ">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Մանրամասն">
 
 <!ENTITY  history.label                 "Պատմություն">
 
@@ -50,7 +55,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Դուք կարող է ուզեք ">
+<!ENTITY  rememberActions.pre.label           "Կարող եք">
 <!ENTITY  rememberActions.clearHistory.label  "մաքրել վերջին պատմությունը">
 <!ENTITY  rememberActions.middle.label        ", կամ ">
 <!ENTITY  rememberActions.removeCookies.label "ջնջել անձնական քուուկիները">

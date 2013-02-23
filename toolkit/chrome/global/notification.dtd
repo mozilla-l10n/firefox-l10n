@@ -5,3 +5,5 @@
 <!ENTITY closeNotification.tooltip "Փակել հաղորդագրությունը">
 
 <!ENTITY closeNotificationItem.label "Ոչ հիմա">
+
+<!ENTITY checkForUpdates "Ստուգել թարմացումները...">

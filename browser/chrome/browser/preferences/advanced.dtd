@@ -29,13 +29,29 @@
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
 <!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "Մ">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.label                "Հաստատել &brandShortName;-ը որպես հիմնական դիտարկիչ">
 <!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
-<!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
-<!ENTITY submitCrashes.accesskey         "t">
-<!ENTITY submitTelemetry.label           "Ուղղարկել արդյունավետության տվյալները">
-<!ENTITY submitTelemetry.accesskey       "Ո">
+<!ENTITY isDefault.label                 "&brandShortName;-ը այժմ հիմնական դիտարկիչն է">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Մանրամասն">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Մանրամասն">
+
+<!ENTITY crashReporterSection.label      "Վթարների ցեկուցող">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Մանրամասն">
 
 <!ENTITY networkTab.label                "Ցանց">
 
@@ -67,15 +83,15 @@
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateApp.label                 "&brandShortName; թարմացումներ.">
+<!ENTITY updateAuto.label                "Թարմացումների ինքնավար տեղակայում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "ստուգել թարմացումները բայց տեղակայման ընտրությունը թողնել ինձ">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում: անվտանգության վտանգ)">
+<!ENTITY updateManual.label              "երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում. անվտանգության վտանգ)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
+<!ENTITY updateAutoAddonWarn.label       "Զգուշացնել, եթե սա պետք է պասիվացնի որևէ հավելում">
 <!ENTITY updateAutoAddonWarn.accesskey   "Զ">
 
 <!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">

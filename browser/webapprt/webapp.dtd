@@ -44,6 +44,6 @@
 <!ENTITY deleteCmd.label                    "Ջնջել">
 <!ENTITY deleteCmd.key                      "Ջ">
 <!ENTITY deleteCmd.accesskey                "Ջ">
-<!ENTITY selectAllCmd.label                 "Նշել Ամբողջը">
+<!ENTITY selectAllCmd.label                 "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key                   "Ն">
 <!ENTITY selectAllCmd.accesskey             "Ն">
