@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Սինք">
+<!ENTITY sync.notconnected          "Միացած չէ">
+<!ENTITY sync.connect               "Միանալ">
+<!ENTITY sync.connected             "Միացված է">
+<!ENTITY sync.details               "Մանրամասներ">
+<!ENTITY sync.deviceName            "Այս սարքը">
+<!ENTITY sync.disconnect            "Անջատվել">
+<!ENTITY sync.syncNow               "Սինք այժմ">
+
+<!ENTITY sync.setup.title           "Միանալ Սինքին">
+<!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &#x0022;Սարքի միացում&#x0022; Ձեր սարքում։">
+<!ENTITY sync.fallback              "Ես իմ համակարգչի կողքին չեմ...">
+<!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվեկշռի ինֆոն">
+<!ENTITY sync.account               "Փոստարկղի անունը">
+<!ENTITY sync.password              "Գաղտնաբառը">
+<!ENTITY sync.recoveryKey           "Վերականգնել բանալին">
+<!ENTITY sync.customServer          "Օգտ. ընտրված սպասարկիչը">
+<!ENTITY sync.serverURL             "Սպասարկիչի URL-ն">
+<!ENTITY sync.setup.connect         "Միանալ">
+<!ENTITY sync.setup.cancel          "Չեղարկել">
+<!ENTITY sync.setup.tutorial        "Ցուցադրել, ինչպես">
+<!ENTITY sync.setup.waiting2        "Սպասում է այլ սարքի...">
+
+<!ENTITY sync.pair.title            "Կցված սարք">
+<!ENTITY sync.pair.description      "Ակտիվացնելու համար նոր սարքը, ընտրեք &#x0022;Կարգ. Սինքը&#x0022; Ձեր սարքում։">
+<!ENTITY sync.setup.close           "Փակել">
+<!ENTITY sync.setup.waitingdownload "Տվյալները այժմ կբեռնվեն խորապատկերում։ Կարող եք փակել այս պատուհանը։">
