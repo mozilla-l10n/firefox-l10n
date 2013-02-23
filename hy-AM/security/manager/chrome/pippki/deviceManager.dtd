@@ -34,7 +34,7 @@
 <!ENTITY loaddevice.modname.default             "Նոր PKCS#11 Բաղադիր">
 <!ENTITY loaddevice.filename                    "Բաղադրի Ֆայլի Անունը">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Զննել…">
+<!ENTITY loaddevice.browse                      "Ընտրել…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "PKCS#11 Սարքը Բեռնավորել">

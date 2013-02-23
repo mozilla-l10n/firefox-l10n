@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY playButton.playLabel "Միացնել">
-<!ENTITY playButton.pauseLabel "Սպասել">
+<!ENTITY playButton.pauseLabel "Ընդմիջել">
 <!ENTITY muteButton.muteLabel "Սսկել">
 <!ENTITY muteButton.unmuteLabel "Ձայն">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Ամբողջ էկրանով">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Ամբողջ էկրանից">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Ամբողջ էկրանով վիճակից">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Չափը">
@@ -36,4 +36,4 @@ media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-<!ENTITY scrubberScale.nameFormat "#2-ից #1-ը թռել են">
+<!ENTITY scrubberScale.nameFormat "#2-ից #1-ը ավարտվել է">

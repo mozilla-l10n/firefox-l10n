@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY permissionsManager.title        "Permissions Manager">
+<!ENTITY permissionsManager.title        "Լիազորումների կառավարիչ">
 
 <!ENTITY sites.search                    "Փնտրել կայքեր">
 <!ENTITY sites.allSites                  "Բոլոր կայքերը">
@@ -20,6 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Միշտ հարցնել">
 <!ENTITY permission.allow                "Թույլատրել">
 <!ENTITY permission.allowForSession      "Թույ տալ նիստի ընթացքում">
+<!ENTITY permission.allowFirstPartyOnly  "թույլատրել միայն առաջին մասը">
 <!ENTITY permission.block                "Արգելել">
 
 <!ENTITY password.label                  "Դասավորել գաղտնաբառերը">
@@ -36,8 +37,8 @@
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Պահպանել օֆլայն պահոցը">
+<!ENTITY indexedDB.label                 "Պահպանել անցանց պահոցը">
 
 <!ENTITY popup.label                     "Բացել Pop-up Պատուհանները">
 
-<!ENTITY fullscreen.label                "Fullscreen">
+<!ENTITY fullscreen.label                "Ամբողջ Էկրանով">

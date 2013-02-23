@@ -5,8 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Էջի բեռնման պռոբլեմ">
-<!ENTITY retry.label "Կրկին փորձեք">
+<!ENTITY loadError.label "Էջի բացման խնդիր">
+<!ENTITY retry.label "Կրկին փորձել">
 
 <!-- Specific error messages -->
 
@@ -52,7 +52,7 @@
 <!ENTITY notCached.title "Ավարտվել է">
 <!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
-<!ENTITY netOffline.title "Օֆֆլայն ռեժիմ">
+<!ENTITY netOffline.title "Անցանց եղանակ">
 <!ENTITY netOffline.longDesc2 "<ul>
   <li>Սեղմեք&quot;Կրկին փորձել&quot;` անցնելու համար առցանց եղանակի և էջը վերաբացելու համար:</li>
 </ul>

@@ -25,7 +25,7 @@
 <!ENTITY filter.label       "Ֆիլտր">
 <!ENTITY filter.accesskey   "F">
 
-<!ENTITY copyCmd.label       "Կրկնակել">  
+<!ENTITY copyCmd.label       "Պատճենել">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Դասավորման կարգը Առաջինից > Վերջին">

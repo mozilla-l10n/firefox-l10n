@@ -14,9 +14,9 @@
 <!ENTITY forwardButton.label            "Առաջ">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "Մեկ էջ առաջ">
-<!ENTITY copyCmd.label                  "Կրկնակել">
+<!ENTITY copyCmd.label                  "Պատճենել">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Նշել Բոլորը">
+<!ENTITY selectAllCmd.label             "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">

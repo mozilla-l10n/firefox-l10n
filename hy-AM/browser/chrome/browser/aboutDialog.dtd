@@ -15,7 +15,7 @@
 <!ENTITY community.exp.middle       " is a ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "գլոբալ համայնք">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.end          ", որը աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
 <!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -23,7 +23,7 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "գլոբալ համայնք">
-<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.end3             ", որը աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
 <!ENTITY contribute.start           "Հետաքրքրե՞ց։">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -77,5 +77,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Դուք այժմ գտնվում եք՝ ">
-<!ENTITY channel.description.end    " թարմացնել աղբյուրը.  ">
+<!ENTITY channel.description.start  "Այժմ գործում է՝">
+<!ENTITY channel.description.end    " թարմացումների աղբյուրում:  ">
