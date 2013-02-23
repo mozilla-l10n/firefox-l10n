@@ -116,6 +116,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Gemte adgangskoder">
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings "Webstedsindstillinger">
+<!ENTITY pref_private_data_downloadFiles "Hentede filer">
 
 <!ENTITY pref_update_autodownload "Automatiske opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
@@ -205,7 +206,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Rediger">
 <!ENTITY abouthome_topsites_pin "Fastgør websted">
 <!ENTITY abouthome_topsites_unpin "Frigør websted">
-<!ENTITY abouthome_topsites_unpinall "Frigør alle">
+<!ENTITY abouthome_topsites_remove "Fjern">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
