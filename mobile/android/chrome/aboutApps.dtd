@@ -10,3 +10,5 @@
 <!ENTITY aboutApps.noApps.pre "Ingen webapplikationer installeret. Find dem på ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Afinstaller">
+<!ENTITY aboutApps.addToHomescreen "Føj til startskærm">
