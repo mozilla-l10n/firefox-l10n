@@ -572,6 +572,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "Rediger">
 <!ENTITY appmenuQFBMenu.label "Lynfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Tilpas værktøjslinje…">
+<!ENTITY appmenuSelectThread.label "Vælg tråd">
+<!ENTITY appmenuSelectFlagged.label "Vælg stjernemarkerede meddelelser">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nyt mærkat…">
