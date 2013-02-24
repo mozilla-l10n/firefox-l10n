@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label       "Գլխավորը">
+<!ENTITY itemGeneral.label       "Ընդհանուր">
 <!ENTITY itemDisplay.label       "Կարդալու &amp; ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
 <!ENTITY itemNetworking.label    "Ցանցի &amp; ազատ տեղը">
@@ -15,13 +15,20 @@
 <!ENTITY telemetryInfoLink.label       "Մանրամասն Telemetry-ի մասին">
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Օգտագործել էջր ավտոմատ թերթում">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Օգտագործել կոկիկ սահքաթերթումը">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Համակարգային ինտեգրում">
 <!ENTITY alwaysCheckDefault.label      "Բացելիս միշտ ստուգել, թե արդյոք &brandShortName;-ը փոստային հիմնական ծրագիրն է">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkNow.label                "Ստուգել հիմա">
-<!ENTITY checkNow.accesskey            "N">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Ընդլայնված կարգավորում">
 <!ENTITY configEdit.label              "Խմբագրիչի կարգ...">
 <!ENTITY configEdit.accesskey          "C">
@@ -71,6 +78,9 @@
 <!ENTITY showUpdates.label              "Ցուցադրել թարմացումների պատմությունը">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "օգտվել ֆոնային ծառայությունից թարմացումները տեղակայելիս">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Կարգավորումներ...">
 <!ENTITY showSettings.accesskey        "S">
@@ -81,10 +91,10 @@
 <!ENTITY showOffline.label             "Անցանց...">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Ազատ տեղ">
-<!ENTITY offlineCompact.label "Կոմպակտ թղթապանակներ, եթե կխնայվի՝">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "ՄԲ">
+<!ENTITY Diskspace                       "Ազատ տեղ">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

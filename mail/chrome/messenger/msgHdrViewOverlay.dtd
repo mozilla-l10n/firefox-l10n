@@ -27,7 +27,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
 <!ENTITY hdrSmartReplyButton1.label "Խելացի պատ.">
 <!ENTITY hdrReplyButton1.label "Պատասխանել">
-<!ENTITY hdrReplyButton1.tooltip "Պատասխանել">
+<!ENTITY hdrReplyButton2.tooltip "Reply to the sender of this message">
 <!ENTITY hdrReplyAllButton1.label "Պատասխանել բոլորին">
 <!ENTITY hdrReplyAllButton1.tooltip "Պատ. ուղարկողին և մյուսներին">
 <!ENTITY hdrReplyListButton1.label "Պատաս-ի ցանկը">
@@ -67,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "Ն">
 <!ENTITY otherActionsPrint1.label "Տպել…">
 <!ENTITY otherActionsPrint1.accesskey "Տ">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Բացել">

@@ -6,7 +6,7 @@
 <!ENTITY fileExceedsLimit.thatsBigFile2   "is a premium feature.">
 <!ENTITY fileExceedsLimit.accept "Թարմացնել">
 <!ENTITY fileExceedsLimit.cancel "Չեղարկել">
-<!ENTITY fileExceedsLimit.style "width: 40em; height: 20em;">
+<!ENTITY fileExceedsLimit.style "լայն-ը. 40em; նվ. բարձր-ը. 20em;">
 <!ENTITY fileExceedsLimit.proIncludes "Upgrade now to send this file plus:">
 <!ENTITY fileExceedsLimit.pros1 "Send files and folders up to 2GB">
 <!ENTITY fileExceedsLimit.pros2 "Store unlimited files online">
