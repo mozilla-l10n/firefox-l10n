@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Exécuter ces actions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
+<!ENTITY filterActionOrderWarning.label "Note : les actions des filtres sont exécutées dans un ordre différent.">
+<!ENTITY filterActionOrder.label "Voir l'ordre d'exécution">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Déplacer le message vers">
 <!ENTITY copyMessage.label "Copier le message vers">
