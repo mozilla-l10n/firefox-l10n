@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Accepter les cookies">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Accepter les cookies tiers">
-<!ENTITY  acceptThirdParty.accesskey    "t">
+<!ENTITY  acceptThirdParty.pre.label      "Accepter les cookies tiers :">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.always.label   "toujours">
+<!ENTITY  acceptThirdParty.never.label    "jamais">
+<!ENTITY  acceptThirdParty.visited.label  "depuis les sites visités">
 
 <!ENTITY  keepUntil.label               "Les conserver jusqu'à :">
 <!ENTITY  keepUntil.accesskey           "L">
