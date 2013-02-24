@@ -1,0 +1,102 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Նշեք Որոնում կամ հասցեն">
+<!ENTITY urlbar.accesskey      "d">
+
+<!ENTITY back.label            "Հետ">
+<!ENTITY forward.label         "Փոխանցել">
+<!ENTITY reload.label          "Վերբեռնել">
+<!ENTITY stop.label            "Կանգնեցնել">
+<!ENTITY go.label              "Անցնել">
+<!ENTITY star.label            "Աստղ">
+
+<!ENTITY toggleTabsOnly.label  "Always show tabs">
+<!ENTITY showTabs.label        "Ցուցադրել Էջերը">
+<!ENTITY newtab.label          "Նոր Ներդիր">
+<!ENTITY closetab.label        "Փակել Էջը">
+<!ENTITY undoclosetab.label    "Վերականգնել փակված էջը">
+
+<!ENTITY cut.label             "Կտրել">
+<!ENTITY copy.label            "Պատճենել">
+<!ENTITY copyAll.label         "Պատճենել բոլորը">
+<!ENTITY copylink.label        "Պատճենել հղման հասցեն">
+<!ENTITY paste.label           "Տեղադրել">
+<!ENTITY pasteAndGo.label      "Տեղադրել և&amp; Առաջ">
+<!ENTITY delete.label          "Ջնջել">
+<!ENTITY selectAll.label       "Նշել բոլորը">
+
+<!ENTITY appbarFindInPage.label    "Գտնել էջում">
+<!ENTITY appbarViewOnDesktop.label "View on Desktop">
+
+<!ENTITY startTopSitesHeader.label        "Հայտնի կայքերը">
+<!ENTITY startBookmarksHeader.label       "Էջանիշներ">
+<!ENTITY startHistoryHeader.label         "Recent History">
+<!ENTITY startRemoteTabsHeader.label      "Tabs from Other Devices">
+
+<!ENTITY autocompleteResultsHeader.label  "Your Results">
+<!ENTITY autocompleteSearchesHeader.label "Internet Searches"> 
+
+<!ENTITY selectHelper.done         "Պատրաստ է">
+
+<!ENTITY downloadsHeader.label     "Բեռնումներ">
+<!ENTITY downloadShowPage.label    "Անցնել էջին">
+<!ENTITY downloadShow2.label       "Փնտրել">
+<!ENTITY downloadOpen2.label       "Բացել">
+<!ENTITY downloadCancel.label      "Չեղարկել">
+<!ENTITY downloadPause.label       "Դադար">
+<!ENTITY downloadResume.label      "Շարունակել">
+<!ENTITY downloadRetry.label       "Կրկնել">
+<!ENTITY downloadRemove.label      "Հեռացնել">
+<!ENTITY downloadDelete.label      "Ջնջել">
+<!ENTITY downloadFailed.label      "Ձախողվեց">
+
+<!ENTITY bookmarksHeader.label     "Էջանիշներ">
+<!ENTITY allBookmarks.label        "Նայել բոլոր էջանիշները">
+
+<!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում ին նույնացման ինֆորմացիան:">
+<!ENTITY identity.connectedTo2 "Միացված է՝">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "բացել ըստ">
+
+<!ENTITY consoleHeader.label       "Սխալների կոնսոլ">
+<!ENTITY consoleAll.label          "Բոլորը">
+<!ENTITY consoleErrors.label       "Սխալմունքներ">
+<!ENTITY consoleWarnings.label     "Զգուշացումներ">
+<!ENTITY consoleMessages.label     "Նամակներ">
+<!ENTITY consoleCodeEval.label     "Կոդ`">
+<!ENTITY consoleClear.label        "Մաքրել">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Ֆայլ Աղբյուր.">
+<!ENTITY consoleErrLine.label      "Տող.">
+<!ENTITY consoleErrColumn.label    "Սյուն.">
+
+<!ENTITY contextOpenInNewTab.label    "Հղումը Բացել Նոր Ներդիրում">
+<!ENTITY contextViewInNewTab.label    "View in New Tab">
+<!ENTITY contextSaveImage.label       "Պահպանել Նկարը">
+<!ENTITY contextSaveImageTo.label     "Save Image To">
+<!ENTITY contextCopyLink.label        "Պատճենել հղումը">
+<!ENTITY contextCopyEmail.label       "Պատճենել Էլ. փոստի հասցեն">
+<!ENTITY contextCopyPhone.label       "Պատճենել հեռախոսի համարը">
+<!ENTITY contextCopyImage.label       "Պատճենել նկարը">
+<!ENTITY contextShareLink.label       "Տարածել հղումը">
+<!ENTITY contextShareImage.label      "Տարածել նկարը">
+<!ENTITY contextBookmarkLink.label    "Էջանիշի հղումը">
+<!ENTITY contextSaveVideo.label       "Պահել տեսագրությունը">
+<!ENTITY contextSaveVideoTo.label       "Save Video To">
+<!ENTITY contextShareVideo.label      "Տարածել տեսանյութը">
+<!ENTITY contextPlayMedia.label       "Խաղարկել">
+<!ENTITY contextPauseMedia.label      "Դադար">
+<!ENTITY contextVideoTab.label        "Open In New Tab">
+<!ENTITY contextEditBookmark.label    "Խմբագրել">
+<!ENTITY contextRemoveBookmark.label  "Հեռացնել">
+<!ENTITY contextShortcutBookmark.label "Ավելացնել Առաջին էջում">
+
+<!ENTITY pageactions.password.forget "Գաղտնաբառը մոռացել եմ">
+<!ENTITY pageactions.reset           "Մաքրել կայքի կարգավորումները">
+<!ENTITY pageactions.charEncoding    "Գրանշանների Կոդավորումը">
