@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Բեռնումներ">
 <!ENTITY aboutDownloads.header                     "Ձեր բեռնումները">
 <!ENTITY aboutDownloads.empty                      "Չկան բեռնումներ">
+
+<!ENTITY aboutDownloads.open                       "Բացել">
+<!ENTITY aboutDownloads.remove                     "Ջնջել">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Դադար">
+<!ENTITY aboutDownloads.resume                     "Շարունակել">
+<!ENTITY aboutDownloads.cancel                     "Չեղարկել">
+<!ENTITY aboutDownloads.retry                      "Կրկնել">

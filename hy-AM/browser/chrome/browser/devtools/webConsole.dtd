@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Վեբ կոնսոլ">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURL                  "Պահանջվող URL">
+<!ENTITY networkPanel.requestMethod               "Հարցուման մեթոդ">
+<!ENTITY networkPanel.statusCode                  "Կարգավիճակի Կոդ">
 
 <!ENTITY networkPanel.requestHeaders              "Հարցման գլխամաս">
 <!ENTITY networkPanel.requestCookie               "Ուղարկված քուուկի">
@@ -20,7 +20,6 @@
 <!ENTITY networkPanel.requestFormData             "Ուղարկված ձևի տվյալները">
 
 <!ENTITY networkPanel.responseHeaders             "Արձագանքման գլխամաս">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Արձագանքման մարմին">
 <!ENTITY networkPanel.responseBodyCached          "Պահված տվյալներ">
 <!ENTITY networkPanel.responseBodyUnknownType     "Բովանդակության անհայտ տիպ">
@@ -32,11 +31,6 @@
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Log Request and Response Bodies">
 <!ENTITY saveBodies.accesskey "L">
-
-<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
-   - Console context menu. -->
-<!ENTITY openURL.label     "Վեբ հղումը բացել նոր ներդիրում">
-<!ENTITY openURL.accesskey "T">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -60,9 +54,30 @@
 <!ENTITY btnConsoleWarnings     "Զգուշացումներ">
 <!ENTITY btnConsoleLog          "Մատյանը">
 
+<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
+  -  allows the user to toggle between the Web Console positioning types. -->
+<!ENTITY btnPosition.label     "Դիրքը">
+
+<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
+  -  hovers the Position button in the Web Console toolbar. -->
+<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
+
+<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
+  -  Web Console interface is displayed above the web page. -->
+<!ENTITY positionMenu.above    "Վերևում">
+
+<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
+  -  Web Console interface is displayed below the web page. -->
+<!ENTITY positionMenu.below    "ստորեւ">
+
+<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
+  -  Web Console interface is displayed in a floating panel. -->
+<!ENTITY positionMenu.window   "Պատուհան">
+
 <!ENTITY filterBox.placeholder "Ֆիլտր">
 <!ENTITY btnClear.label        "Մաքրել">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClose.tooltip      "Close the Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -73,6 +88,3 @@
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY copyURLCmd.label     "Պատճենել հղման հասցեն">
-<!ENTITY copyURLCmd.accesskey "a">

@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "Ներմուծման Հարցուկ">
 
-<!ENTITY importFrom.label               "Ներմուծել Ընտրանքները, Էջանիշները, Պատմությունը, Գաղտնաբառերը և այլ տվյալներ այստեղից՝">
+<!ENTITY importFrom.label               "Ներմուծել հատկանիշները, Էջանիշները, Մատյանը, Ծածկաբառերը և այլ տվյալները այստեղից՝">
 <!ENTITY importFromUnix.label           "Ներմուծել նախընտրանքները, էջանիշները, ծածկագրերը եվ այլ տվյալներ՝">
 <!ENTITY importFromBookmarks.label      "Ներմուծել էջանիշներ՝">
 
@@ -13,7 +13,7 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Չներմուծել ոչինչ">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "Safari­-ից">
+<!ENTITY importFromSafari.label         "Safari­ից">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Քրոմ">
 <!ENTITY importFromChrome.accesskey     "Ք">

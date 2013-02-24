@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Հայտնի կայքերը">
 <!ENTITY  awesomebar_bookmarks_title "Էջանիշներ">
 <!ENTITY  awesomebar_history_title "Պատմություն">
-<!ENTITY  awesomebar_search_engine "Փնտրել \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-ի Վթարի Զեկուցիչ">
 <!ENTITY  crash_message "&brandShortName;-ը ձախողվել է։ Ձեր էջերը կերևան &brandShortName;-ում Մեկնարկային էջը վերագործարկելիս։">
@@ -55,11 +54,10 @@
 <!ENTITY site_security "Կայքի անվտանգությունը">
 
 <!ENTITY close_tab "Փակել Էջը">
-<!ENTITY new_tab "Նոր էջ">
 <!ENTITY one_tab "1 tab">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d էջեր">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Նոր էջ է բացվել">
 
 <!ENTITY settings "Կարգավորումներ">
@@ -72,7 +70,12 @@
 <!ENTITY pref_do_not_track "Հաղորդել կայքերի մասին">
 <!ENTITY pref_telemetry "Ուղարկել արտադրողականության տվյալը">
 <!ENTITY pref_remember_signons "Հիշել գաղտնաբառը">
-<!ENTITY pref_cookies "Միացնել cookie-ները">
+
+<!ENTITY pref_cookies_menu "Cookie-ներ">
+<!ENTITY pref_cookies_accept_all "Միացված">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Անջատված է">
+
 <!ENTITY pref_char_encoding "Ցուցադրել գրանշանի կոդավորումը">
 <!ENTITY pref_char_encoding_on "Ցուցադրել ընտրացանկը">
 <!ENTITY pref_char_encoding_off "Չցուցադրե\լ ընտրացանկը">
@@ -82,6 +85,7 @@
 <!ENTITY pref_plugins_tap_to_play "Խաղարկել">
 <!ENTITY pref_plugins_disabled "Անջատված">
 <!ENTITY pref_text_size "Տեքստի չափը">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Փոքրիկ">
 <!ENTITY pref_font_size_small "Փոքր">
 <!ENTITY pref_font_size_medium "Միջին">
@@ -100,6 +104,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Օգտ. գաղտնաբառերի պահոցը">
+<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Սինք">
 <!ENTITY pref_search_suggestions "Ցուցադրել որոնման հուշումներ">
 <!ENTITY pref_import_android "Ներմուծել Android-ից">
@@ -110,6 +115,12 @@ size. -->
 <!ENTITY pref_private_data_cache "Պահոցը">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Անջատված է">
+<!ENTITY pref_update_autodownload_enabled "Միացված է">
 
 <!ENTITY quit "Փակել">
 
@@ -124,6 +135,16 @@ size. -->
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
 <!ENTITY find_in_page "Գտնել էջում">
 <!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY tools "Գործիքներ">
+<!ENTITY new_tab "Նոր էջ">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Ներդիրներ">
+<!ENTITY tabs_private "Անձնական">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -133,6 +154,8 @@ size. -->
 <!ENTITY find_close "Փակել">
 
 <!ENTITY contextmenu_open_new_tab "Բացել նոր էջում">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_in_reader "Open in Reader">
 <!ENTITY contextmenu_remove_history "Ջնջել">
 <!ENTITY contextmenu_remove_bookmark "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Ավելացնել Առաջին էջում">
@@ -142,8 +165,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Խմբագրել">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Էջը ջնջվել է">
 
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
@@ -160,7 +181,7 @@ size. -->
 <!ENTITY reading_list_added "Page added to your Reading List">
 <!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reader_mode "Reader Mode">
+<!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
 <!ENTITY masterpassword_remove_title "Հեռացնել Հիմնական Գաղտնաբառը">
@@ -169,27 +190,35 @@ size. -->
 
 <!ENTITY button_ok "ԼԱՎ">
 <!ENTITY button_cancel "Չեղարկել">
+<!ENTITY button_yes "Այո">
+<!ENTITY button_no "Ոչ">
 <!ENTITY button_clear_data "Clear data">
+<!ENTITY button_set "Set">
+<!ENTITY button_clear "Մաքրել">
 
 <!ENTITY abouthome_addons_title "&brandShortName;-ի Հավելումները">
 <!ENTITY abouthome_addons_browse "Նայել &brandShortName;-ի  բոլոր հավելումները ">
 <!ENTITY abouthome_last_tabs_title "Ձեր բացած վերջին էջերը">
 <!ENTITY abouthome_last_tabs_open "Բացել վերջին բոլոր էջերը">
 <!ENTITY abouthome_top_sites_title "Հայտնի կայքերը">
-<!ENTITY abouthome_top_sites_browse "Բացել բոլոր հայտնի կայքերը">
+<!ENTITY abouthome_topsites_edit "Խմբագրել">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_remove "Հեռացնել">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps2 "Get apps from the Mozilla Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Սինք">
-<!ENTITY abouthome_apps_bold_name "Mozilla Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Ընտրել Ֆայլը">
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք ձայն">
@@ -223,20 +252,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          from Android">
 <!ENTITY bookmarkhistory_import_wait "Please wait...">
 
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+
 <!ENTITY webapp_generic_name "App">
 
-<!-- Updater notifications -->
-<!ENTITY updater_start_title "&brandShortName;">
-<!ENTITY updater_start_ticker "&brandShortName; update available&#8230;">
-<!ENTITY updater_start_select "Select to download update.">
+<!ENTITY searchable_description "Bookmarks and history">
 
-<!ENTITY updater_downloading_title "&brandShortName;-ը բեռնվում է">
-<!ENTITY updater_downloading_ticker "Downloading &brandShortName; update&#8230;">
-<!ENTITY updater_downloading_ticker_failed "Failed to download &brandShortName; update&#8230;">
-<!ENTITY updater_downloading_select "Select to apply update when complete.">
-<!ENTITY updater_downloading_retry "Select to retry update download.">
-<!ENTITY updater_downloading_willapply "Waiting for download to complete.">
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_select2 "Touch to download">
 
-<!ENTITY updater_apply_title "&brandShortName;">
-<!ENTITY updater_apply_ticker "&brandShortName; update available&#8230;">
-<!ENTITY updater_apply_select "Select to apply downloaded update.">
+<!ENTITY updater_downloading_title2 "&brandShortName;-ը բեռնվում է">
+<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "Touch to retry">
+
+<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_select2 "Touch to update">
