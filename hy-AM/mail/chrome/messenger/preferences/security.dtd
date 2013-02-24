@@ -61,3 +61,6 @@
 <!ENTITY showCookies.label              "Ցուցադրել Cookie-ները...">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
+<!ENTITY doNotTrack.accesskey           "d">

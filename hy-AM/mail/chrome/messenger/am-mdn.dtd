@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Պահանջել ստացական">
 <!ENTITY useGlobalPrefs.label         "Օգտ. ստացականի ուղարկման հիմնական կարգավորումները">
 <!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY globalReceipts.label         "Global Preferences…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Ստացականի կարգավորումներ այս փոստարկղի համար">
 <!ENTITY useCustomPrefs.accesskey     "C">
 <!ENTITY requestReceipt.label         "Նամակներ ուղարկելիս պահանջել ստացական">

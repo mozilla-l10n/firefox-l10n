@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "Ժպտիկ">
+<!ENTITY insertSmiley.label "Ժպիտ">
 <!ENTITY insertSmiley.accesskey "S">
 
 <!ENTITY smiley1Cmd.label "Ժպիտ">

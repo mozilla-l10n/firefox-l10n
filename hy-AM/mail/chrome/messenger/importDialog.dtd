@@ -15,6 +15,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "E">
 <!ENTITY importMail.label         "Նամակ">
 <!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Բաժանորդագրություններ">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Հասցեագիրք">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Կարգավորումներ">
@@ -32,7 +34,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Երբ ներմուծվեն, Դուք կկարողանաք մուտք գործել &brandShortName;-ի միջոցով։">
 
 <!ENTITY selectDescription.label  "Ընտրեք, թե ի՞նչ եք ցանկանում ներմուծել.">
+<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
 <!ENTITY selectDescription.accesskey "P">
+<!ENTITY acctName.label           "Անունը.">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY back.label               "&lt; Հետ">
 <!ENTITY forward.label            "Առաջ &gt;">

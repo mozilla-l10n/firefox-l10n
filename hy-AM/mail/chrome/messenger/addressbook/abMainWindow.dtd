@@ -164,8 +164,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Էլ-Փոստ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Էկրանի անունը">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Կազմակերպությունը">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Մականունը">
@@ -198,6 +198,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Կապնվել">
 <!ENTITY home.heading                                   "Տուն">
 <!ENTITY other.heading                                  "Այլ">
+<!ENTITY chat.heading                                   "Զրույց">
 <!ENTITY phone.heading                                  "Հեռախոս">
 <!ENTITY work.heading                                   "Աշխատանքային">
 <!-- Special Box Headings, for mailing lists -->

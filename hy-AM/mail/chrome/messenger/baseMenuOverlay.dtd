@@ -17,8 +17,6 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ի՞նչն է նոր">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "Միգրացիայի օգնական">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "Օգնության բովանդակությունը">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "Օ">

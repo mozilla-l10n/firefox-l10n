@@ -31,9 +31,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Ընտրել…">
 <!ENTITY browse.accesskey                 "B">
-
-<!ENTITY addonsMgr.label                  "Հավելումներ">
-<!ENTITY manageAddonsDescWin.label        "Փոխել հավելումների ընտրանքները">
-<!ENTITY manageAddonsDescUnix2.label      "Փոփոխել հավելումների կարգավորումները">
-<!ENTITY manageAddons.label               "Կարգավորել Հավելումները...">
-<!ENTITY manageAddons.accesskey           "M">

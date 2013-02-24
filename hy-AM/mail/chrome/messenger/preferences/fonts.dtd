@@ -35,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "Բալթյան">
 <!ENTITY  font.langGroup.el                       "Հունարեն">
 <!ENTITY  font.langGroup.turkish                  "Թրքերեն">
-<!ENTITY  font.langGroup.unicode                  "Այլ լեզուներ">
+<!ENTITY  font.langGroup.unicode1                 "Յունիկոդ">
 <!ENTITY  font.langGroup.user-def                 "Ձեր ընտրվածը">
 <!ENTITY  font.langGroup.thai                     "Թաի">
 <!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
