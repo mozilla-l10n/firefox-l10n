@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Navegación privada">
+<!ENTITY privatebrowsingpage.experimental "La &privatebrowsingpage.title; es en este momento una característica experimental.">
+<!ENTITY privatebrowsingpage.description "En una ventana de &privatebrowsingpage.title;, &brandShortName;">
+<!ENTITY privatebrowsingpage.moreinfo "Aunque este equipo no conservará un registro de su historial de navegación, su supervisor laboral o su proveedor de servicios de Internet aún podrían rastrear las páginas que visita.">
+<!ENTITY privatebrowsingpage.learnmore.label "Saber más">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "S">
+<!ENTITY privatebrowsingpage.private "&brandShortName; no recordará el historial de esta ventana. Cierre la ventana para detener la  &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label "Cambiar a una ventana normal">
+<!ENTITY privatebrowsingpage.switch.accesskey "C">
+<!ENTITY privatebrowsingpage.normal "En este momento no está usando la &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label "Abrir una nueva ventana privada">
+<!ENTITY privatebrowsingpage.private.accesskey "A">
+<!ENTITY privatebrowsingpage.info "Para iniciar la &privatebrowsingpage.title;, también puede seleccionar Archivo - Nuevo - Ventana privada.">
