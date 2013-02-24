@@ -54,11 +54,10 @@
 <!ENTITY site_security "Site-Sicherheit">
 
 <!ENTITY close_tab "Tab schließen">
-<!ENTITY new_tab "Neuer Tab">
 <!ENTITY one_tab "1 Tab">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d Tabs">
+<!ENTITY num_tabs2 "&formatD; Tabs">
 <!ENTITY new_tab_opened "Neuer Tab geöffnet">
 
 <!ENTITY settings "Einstellungen">
@@ -136,7 +135,15 @@ size. -->
 <!ENTITY find_in_page "In Seite suchen">
 <!ENTITY desktop_mode "Desktop-Seite">
 <!ENTITY tools "Extras">
-<!ENTITY new_pb_tab "Neuer privater Tab">
+<!ENTITY new_tab "Neuer Tab">
+<!ENTITY new_private_tab "Neuer privater Tab">
+<!ENTITY close_all_tabs "Alle Tabs schließen">
+<!ENTITY tabs_normal "Normal">
+<!ENTITY tabs_private "Privat">
+<!ENTITY tabs_synced "Sync">
+<!ENTITY wallpaper_success "Hintergrundbild geändert">
+<!ENTITY wallpaper_progress "Hintergrundbild wird geändert…">
+<!ENTITY wallpaper_fail "Konnte Hintergrundbild nicht ändern">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +153,7 @@ size. -->
 <!ENTITY find_close "Schließen">
 
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
+<!ENTITY contextmenu_open_private_tab "In privatem Tab öffnen">
 <!ENTITY contextmenu_open_in_reader "Im Lesemodus öffnen">
 <!ENTITY contextmenu_remove_history "Löschen">
 <!ENTITY contextmenu_remove_bookmark "Löschen">
@@ -156,8 +164,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Adresse kopieren">
 <!ENTITY contextmenu_edit_bookmark "Bearbeiten">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Seite vergessen">
 
 <!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
@@ -165,7 +171,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Schlüsselwort">
 
-<!ENTITY site_settings_title2       "Seiteneinstellungen…">
+<!ENTITY site_settings_title2       "Seiteneinstellungen">
 <!ENTITY site_settings_cancel       "Abbrechen">
 <!ENTITY site_settings_clear        "Löschen">
 <!ENTITY site_settings_no_settings  "Keine Einstellungen zum Löschen verfügbar">
@@ -194,6 +200,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Ihre Tabs der letzten Sitzung">
 <!ENTITY abouthome_last_tabs_open "Alle Tabs der letzten Sitzung öffnen">
 <!ENTITY abouthome_top_sites_title "Meistbesuchte Seiten">
+<!ENTITY abouthome_topsites_edit "Ändern">
+<!ENTITY abouthome_topsites_pin "Immer auf Startseite anzeigen">
+<!ENTITY abouthome_topsites_unpin "Von Startseite entfernen">
+<!ENTITY abouthome_topsites_unpinall "Alle von Startseite entfernen">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -239,10 +249,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Sollen Suchvorschläge von &#037;s angezeigt werden?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Sollen Suchvorschläge von &formatS; angezeigt werden?">
 
 <!ENTITY webapp_generic_name "App">
 
