@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Privater Modus">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; ist derzeit eine experimentelle Funktion.">
+<!ENTITY privatebrowsingpage.description  "Im privaten Modus wird &brandShortName; keinerlei Cache, Cookies, oder Browser-, Such-, Download- oder Webformular-Chronik anlegen. Allerdings werden alle Lesezeichen, die Sie anlegen, oder Dateien, die Sie herunterladen, beibehalten.">
+<!ENTITY privatebrowsingpage.moreinfo     "Während auf diesem Computer keine Spuren Ihrer Browserchronik gespeichert werden, kann Ihr Internetanbieter oder Ihr Arbeitgeber trotzdem nachverfolgen, welche Seiten Sie besuchen.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Weitere Informationen">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "W">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; wird keinerlei Chronik für diese Sitzung anlegen. Schließen Sie das Fenster, um den privaten Modus zu beenden.">
+<!ENTITY privatebrowsingpage.switch.label        "Auf ein normales Fenster umschalten">
+<!ENTITY privatebrowsingpage.switch.accesskey    "n">
+<!ENTITY privatebrowsingpage.normal       "Sie verwenden den privaten Modus derzeit nicht.">
+<!ENTITY privatebrowsingpage.private.label       "Ein neues privates Fenster öffnen">
+<!ENTITY privatebrowsingpage.private.accesskey   "p">
+<!ENTITY privatebrowsingpage.info         "Um den privaten Modus zu starten, können Sie auch Datei ― Neu ― Privates Fenster wählen.">

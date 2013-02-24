@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Browser-Fenster">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "F">
+<!ENTITY newPrivateWindowCmd.label "Privates Fenster">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Druckvorschau">
