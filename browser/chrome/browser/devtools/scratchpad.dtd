@@ -33,8 +33,11 @@
 <!ENTITY openFileCmd.accesskey        "Բ">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
+<!ENTITY openRecentMenu.label         "Բացել վերջինը">
 <!ENTITY openRecentMenu.accesskey     "R">
+
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Պահպանել">
 <!ENTITY saveFileCmd.accesskey        "Պ">
@@ -102,6 +105,10 @@
 <!ENTITY resetContext2.label          "Reset Variables">
 <!ENTITY resetContext2.accesskey      "T">
 
+<!ENTITY reloadAndRun.label           "Վերաբացել">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
+
 <!ENTITY executeMenu.label            "կատարել">
 <!ENTITY executeMenu.accesskey        "X">
 
@@ -110,9 +117,3 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY errorConsoleCmd.commandkey   "Ս">
-
-<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
-  -  the browser WebConsole, the key should be identical to the property of
-  -  the same name in browser.dtd.
-  -->
-<!ENTITY webConsoleCmd.commandkey     "Վ">
