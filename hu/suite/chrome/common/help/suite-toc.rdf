@@ -714,11 +714,11 @@ rdf:Description about="#mail-doc-blogs">
         <rdf:li> <rdf:Description ID="cust-font" nc:name="A betűkészletek, a színek és a témák megváltoztatása"  nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Eszköztárak"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Könyvjelzők"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-addons" nc:name="Add-ons"  nc:link="customize_help.xhtml#add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons" nc:name="Kiegészítők"  nc:link="customize_help.xhtml#add-ons"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-page" nc:name="A &brandShortName; indításának beállítása"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Appearance Preferences" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Megjelenés beállításai" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="A böngésző beállításai"  nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Advanced Preferences" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Haladó beállítások" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -789,9 +789,9 @@ rdf:Description about="#mail-doc-blogs">
 <rdf:Description about="#cust-addons">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="About Add-ons"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Installing Add-ons"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Using the Add-on Manager"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="A kiegészítőkről"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Kiegészítők telepítése"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Kiegészítőkezelő használata"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -941,7 +941,7 @@ rdf:Description about="#mail-doc-blogs">
         <rdf:li><rdf:Description ID="master-prefs-change" nc:name="A mesterjelszó megváltoztatása" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="A mesterjelszó lejárata" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="A mesterjelszó törlése" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Choosing a Good Password" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
+        <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Hogyan válasszunk biztonságos jelszót" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
