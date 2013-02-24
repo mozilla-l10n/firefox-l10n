@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY testpilot.brand.label                      "Փորձարար">
-<!ENTITY testpilot.settings.label                   "Հատկանիշներ">
+<!ENTITY testpilot.settings.label                   "Կարգավորումները">
 <!ENTITY testpilot.settings.dataSubmission.label    "Տվյալների ուղարկում">
 <!ENTITY testpilot.settings.notifications.label     "Տեղեկացումներ">
 <!ENTITY testpilot.settings.notifyWhen.label        "Տեղեկացնել ինձ երբ…">
@@ -19,7 +19,7 @@
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Ընթացիկ ուսումնասիրություններ">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավարտված հետաղոտություններ">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Ուսումնասիրության արդյունքները">
-<!ENTITY testpilot.studiesWindow.settings.label         "Հատկանիշներ">
+<!ENTITY testpilot.studiesWindow.settings.label         "Կարգավորումները">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
 
 <!-- raw data dialog -->

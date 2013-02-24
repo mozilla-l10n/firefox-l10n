@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "Հատկանիշներ">
+<!ENTITY  prefWindow.titleWin     "Ընտրանքները">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-ի Նախընտրանքները">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
@@ -13,7 +13,7 @@
 
 <!ENTITY  paneGeneral.title       "Ընդհանուր">
 <!ENTITY  paneTabs.title          "Ներդիրներ">
-<!ENTITY  paneContent.title       "Պարունակություն">
+<!ENTITY  paneContent.title       "Պարունակությունը">
 <!ENTITY  paneApplications.title  "Ծրագրեր">
 <!ENTITY  panePrivacy.title       "Գաղտնիություն">
 <!ENTITY  paneSecurity.title      "Անվտանգություն">

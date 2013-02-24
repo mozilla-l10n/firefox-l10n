@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Նախընտրանքնեը կարող են փոփոխվել &brandShortName;ի նախընտրանքների ծրագրերի բաժնում:">
-<!ENTITY  settingsChangeOptions.label      "Նախընտրանքնեը կարող են փոփոխվել &brandShortName;ի հատկանիշների ծրագրերի բաժնում:">
+<!ENTITY  settingsChangeOptions.label      "Կարգավորումները կարող են փոփոխվել &brandShortName;-ի ընտրանքներում:">
