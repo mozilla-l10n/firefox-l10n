@@ -581,26 +581,31 @@
   <h3 id="changing_the_theme">Cambiar de tema</h3>
 
 <p>Puede cambiar la apariencia y textura de &brandShortName; usando un tema
-    diferente. Puede cambiar el tema desde el menú Ver o desde el administrador
-    de complementos.</p>
+  diferente. Puede cambiar el tema desde el menú Ver o desde el administrador
+  de complementos.</p>
   
 <p>Desde el menú Ver:</p>
 
   
-  <ol>
-    <li>Abra el menú Ver y escoja Aplicar tema, y luego seleccione un tema del
-      menú.</li>
-    <li>Cierre y reinicie &brandShortName;.</li>
-  </ol>
+<ol>
+  <li>Abra el menú Ver y escoja Aplicar tema, y luego seleccione un tema del
+    menú.</li>
+  <li>Cierre y reinicie &brandShortName;.</li>
+</ol>
   
 <p>Desde el administrador de complementos:</p>
  
-  <ol>
-    <li>Abra el menú Herramientas y escoja Administrador de complementos.</li>
-    <li>Pulse el botón Temas en la barra de herramientas.</li>
-    <li>Seleccione un tema de la lista, y luego pulse el botón Usar tema.</li>
-    <li>Cierre y reinicie &brandShortName;.</li>
-  </ol>
+<ol>
+  <li>Abra el menú Herramientas y escoja Administrador de complementos.</li>
+  <li>Pulse el botón Apariencia en la barra de herramientas.</li>
+  <li>Seleccione un tema de la lista y luego pulse el botón Activar.</li>
+  <li>Reinicie &brandShortName; pulsando <q>Reiniciar ahora</q> en la entrada
+    del tema.</li>
+</ol>
+
+<p><strong>Nota</strong>: &brandShortName; no necesita ser reiniciado si está
+  cambiando entre temas ligeros (Personas) o entre Personas y el tema
+  predeterminado.</p>.</li>
  
 <p><strong>Atajo</strong>: también puede cambiar los temas con
     sólo abrir el menú Ver, elegir Aplicar tema y, a
@@ -1186,7 +1191,7 @@
   <ul>
     <li><a href="#about_add-ons">Sobre los complementos</a></li>
     <li><a href="#installing_add-ons">Instalar complementos</a></li>
-    <li><a href="#using_the_add-on_manager">Usar el administrador de
+    <li><a href="#using_the_add-ons_manager">Usar el administrador de
       complementos</a></li>
   </ul>
 </div>
@@ -1209,8 +1214,15 @@
   <li><strong>Temas</strong>: los temas cambian la apariencia y diseño de
     &brandShortName;, pero no añaden o cambian funcionalidades. Actúan como
     <em>una piel</em>. &brandShortName; viene de serie con dos temas, el tema
-    <em>predeterminado</em> y el tema <em>moderno</em>, pero pueduen añadirse
-    más para ajustarse a su estilo.</li>
+    <em>predeterminado</em> y el tema <em>moderno</em>, pero pueden añadirse
+    más para ajustarse a su estilo. <strong>Personas</strong> son temas ligeros
+    que, a diferencia de los temas ligeros, cambian únicamente el fondo de la
+    interfaz de usuario.</li>
+  <li><strong>Plugins</strong>: los plugins actúan como conectores entre
+    &brandShortName; y otros programas. Le permiten ver contenido especial
+    (como animaciones en Flash, o documentos PDF de Adobe) directamente dentro
+    la ventana del navegador de &brandShortName;, en lugar de abrir el programa
+    de destino en una ventana separada.</li>
   <li><strong>Idiomas</strong>: aunque puede descargar &brandShortName; en su
     idioma preferido de entre una amplia lista, puede añadirle idiomas
     adicionales en forma de paquetes de idioma. De esta manera, distintos
@@ -1224,11 +1236,6 @@
       de noticias y los artículos de noticias y blos continuarán mostrándose
       en el idioma original en el que fueron escritos.</p>
   </li>
-  <li><strong>Plugins</strong>: los plugins actúan como conectores entre
-    &brandShortName; y otros programas. Le permiten ver contenido especial
-    (como animaciones en Flash, o documentos PDF de Adobe) directamente dentro
-    la ventana del navegador de &brandShortName;, en lugar de abrir el programa
-    de destino en una ventana separada.</li>
 </ul>
 
 <p>Los complementos siempre vienen en paquetes. Cada complemento es un único
@@ -1242,41 +1249,53 @@
 <p>Hay varias maneras de instalar complementos:</p>
 
 <ul>
-  <li>Haciendo clic en un enlace a un complemento en una página web. Esto hará
-    que se muestre un diálogo de &brandShortName; pidiéndole que confieme o
-    cancele la instalación, con el botón Instalar desactivado durante algunos
-    segundos para evitar que haga clic en él accidentalmente justo al mostrarse
-    el diálogo.
-    
-    <p><strong>Nota</strong>: como medida de seguridad adicional,
-      &brandShortName; sólo permite instalar complementos de una lista de sitios
-      web permitidos en el <a
-      href="cs_nav_prefs_advanced.xhtml#software_installation">panel de
-      preferencias de instalación de software</a>.</p>
-  </li>
+  <li>Haciendo clic en un enlace o un botón de un complemento en una página
+    web. Esto hará que se muestre un diálogo de &brandShortName; pidiéndole
+    que confirme o cancele la instalación, con el botón Instalar desactivado
+    durante algunos segundos para evitar que haga clic en él accidentalmente
+    justo al mostrarse el diálogo.</li>
   <li>Abriendo un paquete de complemento previamente guardado, exactamente
     igual que cuando abre un archivo normal guardado anteriormente en su dico
     duro: seleccione Abrir archivo del menú Archivo, o pulse <span
     class="mac"><kbd>Cmd</kbd></span><span
-    class="noMac"><kbd>Ctrl</kbd></span>+<kbd>O</kbd>.</li>
+    class="noMac"><kbd>Ctrl</kbd></span>+<kbd>O</kbd>; también puede abrir el
+    menú Herramientas en el administrador de complementos (junto a la caja de
+    búsqueda) y seleccionar <q>Instalar complemento desde archivo&hellip;</q>,
+    o simplemente arrastrar y soltar el archivo del instalador en la pestaña o
+    ventana del administrador de complementos.</li>
+  <li>Usando la función de búsqueda o el panel Obtener complementos del
+    administrador de complementos, como se describe en la siguiente
+    sección.</li>
   <li>Usando el panel Obtener complementos del administrador de complementos o
     haciendo clic en el botón Instalar de cualquiera de sus paneles.</li>
 </ul>
 
-<p><strong>Nota</strong>: los plugins se instalan normalmente como un programa
-  separado mientras &brandShortName; está cerrado para que tanto el programa
-  externo como el plugin correspondiente para &brandShortName; se instalen
-  correctamente.</p>
+<p><strong>Notas</strong>:</p>
+<ul>
+  <li>Por seguridad, &brandShortName; sólo permite instalar complementos desde
+    una lista de sitios web permitidos en el
+    <a href="cs_nav_prefs_advanced.xhtml#software_installation">panel de
+    preferencias de instalación de software</a>.</li>
+  <li>Además, si ha desmarcado en ese panel <q>Permitir a los sitios web
+    instalar complementos y actualizaciones</q>, se le pedirá que active esa
+    función antes de que suceda nada más. Éste <em>no</em> es un cambio
+    temporal, tendría que desmarcar esa casilla de nuevo para impedir
+    instalaciones y actualizaciones en el futuro.</li>
+  <li>Los plugins se instalan normalmente como un programa separado mientras
+    &brandShortName; está cerrado, de modo que tanto el programa externo como
+    el plugin correspondiente para &brandShortName; se instalen
+    correctamente.</li>
+</ul>
 
-<p>[<a href="#add-ons">Volver al principio de la sección</a>]</p>
+   <p>[<a href="#add-ons">Volver al principio de la sección</a>]</p>
 
-<h3 id="using_the_add-on_manager">Usar el administrador de complementos</h3>
+<h3 id="using_the_add-ons_manager">Usar el administrador de complementos</h3>
 
 <p>El administrador de complementos le permite instalar y desinstalar
   complementos, activarlos y desactivarlos y, en algunos casos, configurar
   sus preferencias.</p>
   
-<p id="accessing_the_add-on_manager">Para acceder al administrador de
+<p id="accessing_the_add-ons_manager">Para acceder al administrador de
   complementos, siga cualquiera de estos pasos:</p>
 
 <ul>
@@ -1284,59 +1303,82 @@
     complementos.</li>
   <li>Abra el menú <span class="mac">&brandShortName;</span><span
     class="noMac">Editar</span> y elija Preferencias, expanda la categoría
-    Avanzadas y haga clic en Instalación de software.</li>
+    Avanzadas, haga clic en Instalación de software y luego en Administrar
+    complementos.</li>
 </ul>
 
 <div class="contentsBox">En esta sección:
   <ul>
+    <li><a href="#searching_for_add-ons">Buscar complementos</a></li>
     <li><a href="#the_get_add-ons_panel">El panel Obtener complementos</a></li>
     <li><a href="#the_extensions_panel">El panel Extensiones</a></li>
-    <li><a href="#the_themes_panel">El panel Temas</a></li>
-    <li><a href="#the_languages_panel">El panel Idiomas</a></li>
+    <li><a href="#the_appearance_panel">El panel Apariencia</a></li>
     <li><a href="#the_plugins_panel">El panel Plugins</a></li>
+    <li><a href="#the_languages_panel">El panel Idiomas</a></li>
+    <li><a href="#updating_add-ons">Actualizar complementos</a></li>
   </ul>
 </div>
+
+<h4 id="searching_for_add-ons">Buscar complementos</h4>
+
+<p>Tras <a href="#accessing_the_add-ons_manager">acceder al administrador de
+  complementos</a>, puede buscar entre todos los complementos disponibles de
+  Mozilla directamente desde el administrador de complementos e instalarlos
+  a su discreción:</p>
+
+<ul>
+  <li>Para buscar complementos por su nombre, descripción o etiquets, escriba
+    una palabra o frase en la caja de búsqueda y pulse
+    <span class="mac"><kbd>Return</kbd></span><span
+    class="noMac"><kbd>Enter</kbd></span>. El panel de búsqueda se abrirá y
+    mostrará una lista de complementos coincidentes que sean compatibles con su
+    versión actual de &brandShortName;. Puede ordenar los resultados por nombre
+    o fecha de la versión más reciente. También puede buscar entre sus
+    complementos instalados pulsando <q>Mis complementos</q>.</li>
+  <li>Para obtener información adicional sobre un complemento concreto de la
+    lista, pulse <q>Más</q> en esa entrada.</li>
+  <li>Para instalar un complemento de la lista, pulse su botón Instalar.</li>
+</ul>
+
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
 <h4 id="the_get_add-ons_panel">El panel Obtener complementos</h4>
 
 <p>El panel Obtener complementos en el administrador de complementos usa
   servicios web proporcionados por el sitio web Mozilla Add-ons para presentar
   una lista de complementos recomendados, así como para darle la opción de
-  buscar todos los complementos Mozilla disponibles directamente desde el
-  administrador de complementos. Tras <a
-  href="#accessing_the_add-on_manager">acceder al administrador de
+  examinar todos los complementos Mozilla disponibles. Tras <a
+  href="#accessing_the_add-ons_manager">acceder al administrador de
   complementos</a>, pulse el botón Obtener complementos para mostrar el panel
-  del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
+  del mismo nombre:</p>
 
 <ul>
-  <li>Para buscar complementos basándose en su nombre, descripción o etiquetas,
-    use la caja de búsqueda. Escriba una palabra o frase y pulse <span
-    class="mac"><kbd>Return</kbd></span><span
-    class="noMac"><kbd>Enter</kbd></span>. Obtendrá una lista de complementos
-    coincidentes. Para limpiar los términos de la caja de búsqueda y la lista
-    de resultados, haga clic en el icono que hay dentro de la caja de búsqueda.
-
-    <p><strong>Nota</strong>: los complementos que ya están instalados o son
-      incompatibles con su versión actual de &brandShortName; no se mostrarán
-      en la lista de resultados de búsquedas.</p>
-  </li>
-  <li>Para abrir el sitio web Mozilla Add-ons en una nueva ventana del
-    navegador (o una nueva pestaña del navegador, dependiendo de sus
-    preferencias), pulse en Examinar todos los complementos.</li>
   <li>Para obtener más información sobre uno de los complementos recomendados
-    en la lista mostrada por defecto, pulse en la entrada. La entrada se
-    expandirá, mostrando una imagen mayor, una descripción completa del
-    complemento y una indicación del tipo de complemento (extensión, tema,
-    etc.). También podrá instalar el complemento haciendo clic en el botón
-    Añadir a SeaMonkey que hay dentro de la entrada expandida.</li>
-  <li>Para mostrar la lista completa de complementos recomendados para
-    &brandShortName; en una nueva ventana del navegador (o una nueva pestaña
-    del navegador, dependiendo de sus preferencias), desplace la lista de
-    complementos recomendados hacia abajo hasta que vea el enlace Ver todos
-    los complementos recomendados.</li>
+    en la lista mostrada por defecto, pulse esa entrada. La entrada se expandirá
+    para usar la pestaña completa, mostrando capturas de pantalla, una
+    descripción del complemento y las valoraciones disponibles. También podrá
+    instalar directamente el complemento pulsando el botón Añadir a
+    &brandShortName; que hay dentro de la entrada expandida.
+    <p><strong>Nota</strong>: si ha impedido a los sitios web instalar
+      complementos y actualizaciones en el <a
+      href="cs_nav_prefs_advanced.xhtml#software_installation">panel de
+      preferencias de instalación de software</a>, se le pedirá que active esta
+      función antes de que suceda nada más. Éste <em>no</em> es un cambio
+      temporal, tendrá que desmarcar esa casilla de nuevo para impedir
+      instalaciones y actualizaciones en el futuro.</p>
+  </li>
+  <li>El panel Obtener complementos también le permite abrir el sitio web de
+    Mozilla Add-ons en una nueva ventana del navegador (o una nueva pestaña,
+    dependiendo de sus preferencias) para examinar extensiones y temas.</li>
 </ul>
+<p><strong>Nota</strong>: las recomendaciones personalizadas de complementos
+  requieren que se envíe una lista de sus complementos actualmente instalados
+  al sitio web de Mozilla Add-ons. Si le preocupa su privacidad, esta función
+  puede desactivarse en el <a
+  href="cs_nav_prefs_advanced.xhtml#software_installation">panel de preferencias
+  de instalación de software</a>.</p>
 
-<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
 <h4 id="the_extensions_panel">El panel Extensiones</h4>
 
@@ -1348,8 +1390,9 @@
 
 <ul>
   <li>Para obtener más información sobre cualquiera de las extensiones
-    instaladas, haga clic en su entrada en la lista. La entrada se expandirá y
-    mostrará la descripción completa de la extensión.
+      instaladas, haga clic en <q>Más</q> en la entrada de la lista. La entrada
+      se expandirá en toda la pestaña y mostrará la descripción completa de la
+      extensión junto con las opciones de actualización.
 
     <p><strong>Nota</strong>: las extensiones desactivadas aparecerán
       difuminadas. Las extensiones incompatibles aparecerán difuminadas, ya que
@@ -1358,74 +1401,93 @@
       definen a sí mismas como no compatibles con la versión de
       &brandShortName; que se está usando).</p>
   </li>
-  <li>Para acceder a las preferencias de una extensión (si la extensión incluye
-    un panel de preferencias), pulse en la entrada correspondiente a la
-    extensión deseada y luego haga clic en el botón Preferencias.
+  <li>Para acceder a las opciones de una extensión (si la extensión incluye
+    un panel de preferencias), pulse en el botón Opciones de la entrada
+    correspondiente a la extensión deseada.
 
     <p><strong>Nota</strong>: si la extensión no incluye un panel de
-      preferencias, el botón Preferencias estará desactivado. No puede acceder
+      preferencias, el botón Opciones estará desactivado. No puede acceder
       a las preferencias de extensiones desactivadas o incompatibles.</p>
   </li>
-  <li>Para desactivar una extensión, haga clic en la entrada correspondiente a
-    la extensión deseada, y luego haga clic en el botón Desactivar. Aparecerá
-    una barra de información para recordarle que los cambios sólo se aplicarán
-    tras reiniciar &brandShortName;. La barra de información incluye un botón
-    Reiniciar &brandShortName;.</li>
-  <li>Para activar una extensión, haga clic en la entrada correspondiente a
-    la extensión deseada, y luego haga clic en el botón Activar. Aparecerá una
-    barra de información para recordarle que los cambios sólo se aplicarán
-    tras reiniciar &brandShortName;. La barra de información incluye un botón
-    Reiniciar &brandShortName;.</li>
-  <li>Para desinstalar una extensión, haga clic en la entrada correspondiente a
-    la extensión deseada, y luego haga clic en el botón Desinstalar. Aparecerá
-    una barra de información para recordarle que los cambios sólo se aplicarán
-    tras reiniciar &brandShortName;. La barra de información incluye un botón
-    Reiniciar &brandShortName;.</li>
-  <li>Para encontrar actualizaciones para cualquier extensión en la lista
-    (incluyendo las marcadas como incompatibles), pulse el botón Buscar
-    actualizaciones en la parte inferior del administrador de complementos.
-
-    <p>Si se encuentran actualizaciones, se mostrarán en un nuevo panel. En el
-      panel, puede elegir qué extensiones quiere actualizar y luego usar el
-      botón Instalar actualizaciones para recuperar los complementos
-      actualizados. Una vez descargados, necesitará reiniciar &brandShortName;
-      para aplicar las actualizaciones.</p>
-  </li>
+  <li>Para desactivar una extensión, haga clic en el botón Desactivar de la
+    entrada correspondiente a la extensión deseada. Aparecerá una barra de
+    información si los cambios sólo se aplicarán tras reiniciar
+    &brandShortName;. La barra de información incluye una opción
+    <q>Reiniciar ahora</q>.</li>
+  <li>Para activar una extensión, haga clic en el botón Activar de la entrada
+    correspondiente a la extensión deseada. Aparecerá una barra de información
+    si los cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra
+    de información incluye una opción <q>Reiniciar ahora</q>.</li>
+  <li>Para desinstalar una extensión, haga clic en el botón Desinstalar de la
+    entrada correspondiente a la extensión deseada. Aparecerá una barra de
+    información si los cambios sólo se aplicarán tras reiniciar
+    &brandShortName;. La barra de información incluye una opción
+    <q>Reiniciar ahora</q>.</li>
 </ul>
 
-<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
-<h4 id="the_themes_panel">El panel Temas</h4>
+<h4 id="the_appearance_panel">El panel Apariencia</h4>
 
-<p>El panel Temas en el administrador de complementos lista los temas
-  instalados. Tras <a href="#accessing_the_add-on_manager">acceder al
-  administrador de complementos</a>, pulse el botón Temas para mostrar el panel
+<p>El panel Apariencia en el administrador de complementos lista los temas
+  instalados. Tras <a href="#accessing_the_add-ons_manager">acceder al
+  administrador de complementos</a>, pulse el botón Apariencia para mostrar el panel
   del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
 
 <ul>
-  <li>Para obtener más información y una vista preliminar de cualquiera de los
-    temas instalados, haga clic en una entrada de la lista. La entrada se
-    expandirá y mostrará la descripción completa del tema, junto con una vista
-    preliminar en el lado derecho del diálogo del administrador de complementos
-    (puede que necesite redimensionar el diálogo para ver adecuadamente el
-    panel de vista preliminar).</li>
-  <li>Para usar un tema, haga clic en la entrada correspondiente al tema
-    deseado y luego en el botón Usar tema. Aparecerá una barra de información
-    para recordarle que los cambios sólo se aplicarán tras reiniciar
-    &brandShortName;. La barra de información incluye un botón Reiniciar
-    &brandShortName;.
+  <li>Para obtener más información de cualquiera de los temas instalados, haga
+    clic en <q>Más</q> de su entrada en la lista. La entrada se expandirá en
+    la pestaña completa y mostrará la descripción del tema, junto con la
+    información de su versión.</li>
+  <li>Para usar un tema, haga clic en el botón Activar de la entrada
+    correspondiente al tema deseado. Aparecerá una barra de información
+    si los cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra
+    de información incluye una opción <q>Reiniciar ahora</q>.
     
     <p><strong>Nota</strong>: al contrario que con las extensiones, sólo puede
       usar un tema a la vez.</p>
   </li>
-  <li>Para desinstalar un tema, haga clic en la entrada correspondiente al tema
-    deseado y luego en el botón Desinstalar. Aparecerá una barra de información
-    para recordarle que los cambios sólo se aplicarán tras reiniciar
-    &brandShortName;. La barra de información incluye un botón Reiniciar
-    &brandShortName;.</li>
+  <li>Para desinstalar un tema, haga clic en el botón Desinstalar de la entrada
+    correspondiente al tema deseado. Aparecerá una barra de información
+    si los cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra
+    de información incluye una opción <q>Reiniciar ahora</q>.</li>
 </ul>
 
-<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
+
+<h4 id="the_plugins_panel">El panel Plugins</h4>
+
+<p>El panel Plugins en el administrador de complementos lista los plugins
+  encontrados. Tras <a href="#accessing_the_add-ons_manager">acceder al
+  administrador de complementos</a>, pulse el botón Plugins para mostrar el
+  panel del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
+
+<ul>
+  <li>Para obtener más información de cualquiera de los plugins encontrados,
+    pulse <q>Más</q> en la entrada de la lista. La entrada se expandirá en la
+    pestaña completa y mostrará la descripción del plugin junto con la
+    información de su versión.</li>
+  <li>Pulse <q>Pulse aquí para ver si sus plugins están actualizados</q> para
+    abrir una nueva pestaña o ventana que conectará con el sitio web de Mozilla
+    para comprobar el estado y la información de actualización de todos sus
+    plugins activados.</li>
+  <li>Para desactivar un plugin, pulse el botón Desactivar de la entrada
+    correspondiente al plugin deseado.</li>
+  <li>Para activar un plugin, pulse el botón Activar de la entrada
+    correspondiente al plugin deseado.</li>
+</ul>
+
+<p><strong>Notas</strong>:</p>
+
+<ul>
+  <li>Al contrario que con otros tipos de complementos, activar y desactivar
+    plugins no requiere reiniciar &brandShortName;.</li>
+  <li>Pueden aparecer barras de información para los plugins que se
+    identifiquen como obsoletos, incompatibles o bloqueados por razones de
+    seguridad.</li>
+</ul>
+
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
 <h4 id="the_languages_panel">El panel Idiomas</h4>
 
@@ -1433,26 +1495,19 @@
   idioma instalados. Este panel sólo aparece si ha instalado un paquete de
   idioma.</p>
   
-<p>Tras <a href="#accessing_the_add-on_manager">acceder
+<p>Tras <a href="#accessing_the_add-ons_manager">acceder
   al administrador de complementos</a>, pulse el botón Idiomas para mostrar
   el panel del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
 
 <ul>
-  <li>Para desactivar un paquete de idioma, haga clic en la entrada
-    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
-    Desactivar. Aparecerá una barra de información para recordarle que los
-    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
-    información incluye un botón Reiniciar &brandShortName;.</li>
-  <li>Para activar un paquete de idioma, haga clic en la entrada
-    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
-    Activar. Aparecerá una barra de información para recordarle que los
-    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
-    información incluye un botón Reiniciar &brandShortName;.</li>
-  <li>Para desinstalar un paquete de idioma, haga clic en la entrada
-    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
-    Desinstalar. Aparecerá una barra de información para recordarle que los
-    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
-    información incluye un botón Reiniciar &brandShortName;.</li>
+<li>Para obtener más información sobre cualquiera de los paquetes de idioma,
+  pulse <q>Más</q> en la entrada de la lista. La entrada se expandirá en la
+  pestaña completa y mostrará la descripción del paquete de idioma junto con
+  sus opciones de actualización.</li>
+<li>Para desactivar un paquete de idioma, pulse el botón Desactivar de la
+  entrada correspondiente al paquete de idioma deseado.</li>
+<li>Para activar un paquete de idioma, pulse el botón Activar de la entrada
+  correspondiente al paquete de idioma deseado.</li>
 </ul>
 
 <p><strong>Nota</strong>: activar un paquete de idioma en el panel Idiomas no
@@ -1461,26 +1516,37 @@
   <a href="cs_nav_prefs_appearance.xhtml#appearance">panel de preferencias de
   apariencia</a>.</p>
 
-<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
-<h4 id="the_plugins_panel">El panel Plugins</h4>
+<h4 id="updating_add-ons">Actualizar complementos</h4>
 
-<p>El panel Plugins en el administrador de complementos lista los plugins
-  instalados. Tras <a href="#accessing_the_add-on_manager">acceder al
-  administrador de complementos</a>, pulse el botón Plugins para mostrar el
-  panel del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
+<p>Las actualizaciones se realizan automáticamente por defecto para todos los
+  complementos instalados a través de los paneles Buscar y Obtener complementos
+  si tales actualizaciones se ofrecen a través del sitio web de Mozilla Add-ons.
+  Las opciones generales pueden encontrarse en el <a
+  href="cs_nav_prefs_advanced.xhtml#software_installation">panel de preferencias
+  de instalación de software</a>. Puede reemplazarlas en complementos
+  concretos pulsando <q>Más</q> y seleccionando luego la opción deseada.</p>
+
+<p>Las funciones de actualización también se ofrecen en el menú de herramientas
+  del administrador de complementos que hay junto a la caja de búsqueda:</p>
 
 <ul>
-  <li>Para desactivar un plugin, haga clic en la entrada correspondiente al
-    plugin deseado y luego en el botón Desactivar.</li>
-  <li>Para activar un plugin, haga clic en la entrada correspondiente al plugin
-    deseado y luego en el botón Activar.</li>
+  <li>Puede buscar actualizaciones para todos los complementos instalados
+    manualmente y activar o desactivar la actualización automática de todos los
+    complementos.</li>
+  <li>Si aparecen nuevas actualizaciones para uno o más complementos, se
+    muestra un botón Actualizar ahora para cada complemento. También se listan
+    en un nuevo panel Actualizaciones disponibles. En lugar de actualizar cada
+    complemento por separado, puede usarse la casilla Incluir en las
+    actualizaciones para seleccionar las actualizaciones que se llevarán a cabo
+    y luego pulsar el botón Instalar actualizaciones.</li>
+  <li>Ver actualizaciones recientes abre un panel de actualizaciones recientes
+    que lista los complementos de todos los tipos para los cuales se han
+    efectuado actualizaciones, junto con la fecha de esa actualización.</li>
 </ul>
 
-<p><strong>Nota</strong>: Al contrario que con otros tipos de complementos,
-  activar y desactivar plugins no requiere reiniciar &brandShortName;.</p>
-
-<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+<p>[<a href="#using_the_add-ons_manager">Volver al principio de la sección</a>]</p>
 
 <h2 id="specifying_how_mozilla_starts_up">Configuración del modo de
   inicio de &brandShortName;</h2>

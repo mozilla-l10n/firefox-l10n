@@ -6,10 +6,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "R">
 <!ENTITY popupWindowAllowCmd.label "Permitir ventanas emergentes de este sitio web">
 <!ENTITY popupWindowAllowCmd.accesskey "P">
-<!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
-<!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
+<!ENTITY openLinkCmd.accesskey "v">
+<!ENTITY openLinkCmdInPrivateWindow.label "Abrir enlace en una ventana privada">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "c">
 <!ENTITY openLinkInWindowCmd.label "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
 <!ENTITY openFrameCmd.label "Abrir el marco en una ventana nueva">

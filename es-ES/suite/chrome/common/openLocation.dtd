@@ -6,6 +6,7 @@
 <!ENTITY enter.accesskey "E">
 <!ENTITY chooseFile.label "Elegir archivo…">
 <!ENTITY chooseFile.accesskey "C">
+<!ENTITY newPrivate.label "Nueva ventana privada">
 <!ENTITY newWindow.label "Ventana del navegador nueva">
 <!ENTITY newTab.label "Pestaña del navegador nueva">
 <!ENTITY currentTab.label "Pestaña actual del navegador">
