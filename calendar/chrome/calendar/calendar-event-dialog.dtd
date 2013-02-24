@@ -154,6 +154,8 @@
 <!ENTITY task.status.accesskey "s">
 <!ENTITY event.repeat.label "Repetir:">
 <!ENTITY event.repeat.accesskey "p">
+<!ENTITY event.until.label "Hasta:">
+<!ENTITY event.until.accesskey "H">
 <!ENTITY event.reminder.label "Recordatorio:">
 <!ENTITY event.reminder.accesskey "R">
 <!ENTITY event.description.label "Descripción:">
