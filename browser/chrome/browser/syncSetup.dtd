@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing2.label "Ես արդեն օգտագործում եմ &syncBrand.shortName.label;-ը այլ սարքում">
+<!ENTITY setup.choicePage.existing.label  "Ես օգտագործում եմ &syncBrand.shortName.label; մեկ այլ համակարգչում:">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Սպասարկչ">
@@ -64,7 +64,7 @@
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
 <!ENTITY pairDevice.dialog.description.label "Ակտիվացնելու համար նոր սարքը, ընտրեք &#x0022;Կարգ. Սինքը&#x0022; Ձեր սարքում։">
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
-<!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձել:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
 <!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է: Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Սարքը ակտիվացնելու համար պետք է մուտքագրեք Վերականգնման բանալին։ Տպեք կամ պահպանեք բանալին։">
 <!ENTITY addDevice.dialog.connected.label   "Սարքը միացված է">
@@ -78,8 +78,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
-<!ENTITY syncDeviceName.label       "Սարքի անունը.">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
+<!ENTITY syncComputerName.accesskey   "Հ">
 
 <!ENTITY syncMy.label               "Իմ Sync">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Հավելումներ">
 <!ENTITY engine.addons.accesskey    "Հ">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Միացնել այս համակարգչի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
 <!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Փոխարինել բոլոր այլ սարքերը սարքի տվյալներով">
+<!ENTITY choice2.client.main.label     "Փոխարինել այս համակարգչի ողջ տվյալները &syncBrand.shortName.label;-ի տվյալներով">
+<!ENTITY choice2.server.main.label     "Փոխարինել բոլոր մյուս սարքերը այս համակարգչի տվյալներով">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Հաստատել">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Զգուշացեք. &brandShortName;-ի տվյալը այս սարքում կջնջվի։">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName;-ը կպատճենի &syncBrand.fullName.label;-ի Ձեր տվյալը այս սարքում։">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label;ը հիմա կընկղմի համակարգչի բրաուզերի այս բոլոր տվյալները ձեր Sync հաշվի մեջ: ">
+<!ENTITY confirm.client2.label         "Զգուշացում` հետևյալ &brandShortName;-ի տվյալները այս համակարգչում կջնջվեն:">
+<!ENTITY confirm.client.moreinfo.label "Հետո &brandShortName;-ը կկրկնակի ձեր &syncBrand.fullName.label; տվյալները այս համակարգչում:">
 <!ENTITY confirm.server2.label         "Զգուշացում` հետևյալ սարքերը կվերագրանցվեն ձեր տեղային տվյալների միջոցով:">
 
 <!-- New & Existing Account: Setup Complete -->

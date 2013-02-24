@@ -6,10 +6,10 @@
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Պատճենել">
+<!ENTITY  copy.label            "Կրկնակել">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Ընտրել բոլորը">
+<!ENTITY  selectall.label       "Բոլորն Ընտրել">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
@@ -63,10 +63,10 @@
 <!ENTITY  permCookie            "Տեղադրել Քուուկի">
 <!ENTITY  permInstall           "Տեղակայել Ընդլայնումներ կամ Թեմաներ">
 <!ENTITY  permGeo               "Հայտնել գտնվելուս վայրը">
-<!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
-<!ENTITY  permFullscreen        "Բացել Ամբողջ Էկրանով">
+<!ENTITY  permPlugins           "Activate Plugins">
+<!ENTITY  permFullscreen        "Enter Fullscreen">
 
-<!ENTITY  permIndexedDB              "Պահպանել անցանց պահոցը">
+<!ENTITY  permIndexedDB              "Պահպանել օֆլայն պահոցը">
 <!ENTITY  permClearStorage           "Մաքրել պահոցը">
 <!ENTITY  permClearStorage.accesskey "Մ">
 

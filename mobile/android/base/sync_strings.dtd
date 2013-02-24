@@ -15,8 +15,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Ակտիվացնելու համար նոր սարքը, ընտրեք “Կարգավորել &syncBrand.shortName.label;” Ձեր սարքում։'>
-<!ENTITY sync.subtitle.header.label 'Մուտքագրեք այս կոդը Ձեր համակարգչում'>
-<!ENTITY sync.subtitle.connectlocation.label 'Ընտրեք “&sync.title.pair.label;” &syncBrand.shortName.label;-ում համակարգչային Firefox-ի ընտրանքներում:'>
+<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label 'Ակտիվացնելու համար ընտրեք “Կցված սարք” Ձեր այլ սարքում:'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -58,6 +58,14 @@
 <!ENTITY sync.settings.options.label 'Ընտրանքներ'>
 <!ENTITY sync.summary.pair.label 'Կցել այլ սարք Ձեր &syncBrand.shortName.label; հաշվեկշռին'>
 
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Էջանիշներ'>
+<!ENTITY sync.configure.engines.title.passwords 'Գաղտնաբառեր'>
+<!ENTITY sync.configure.engines.title.history 'Պատմություն'>
+<!ENTITY sync.configure.engines.title.tabs 'Ներդիրներ'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Չեղարկել'>
 <!ENTITY sync.button.connect.label 'Միանալ'>
@@ -75,9 +83,12 @@
 <!ENTITY bookmarks.folder.desktop.label 'Էջանիշներ'>
 <!ENTITY bookmarks.folder.mobile.label 'Բջջային էջանիշեր'>
 <!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Հնարավոր է միայն մեկ &syncBrand.fullName.label; հաշվեկշիռ:'>
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>

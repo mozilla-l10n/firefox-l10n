@@ -12,7 +12,7 @@
 <!ENTITY  exceptions.label            "Բացառություններ…">
 <!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "Միացնել JavaScript-­ը ">
+<!ENTITY  enableJavaScript.label      "JavaScript­ը միացնել">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Խորացված…">
 <!ENTITY  advancedJS.accesskey        "v">
@@ -21,7 +21,7 @@
 <!ENTITY  enableJava.accesskey        "Ա">
 
 
-<!ENTITY  fontsAndColors.label        "Տառատեսակները և Գույները">
+<!ENTITY  fontsAndColors.label        "Ֆոնտեր և Գույներ">
 
 <!ENTITY  defaultFont.label           "Ըստ Լռելայն Տառատեսակ.">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -36,6 +36,6 @@
 
 
 <!ENTITY languages.label              "Լեզուներ">
-<!ENTITY chooseLanguage.label         "Ընտրեք ձեր նախընտրելի լեցուն՝ էջերը ցուցադրելու համար">
+<!ENTITY chooseLanguage.label         "Ընտրեք ձեր նախնտրելի լեցուն էջերը ցուցադրելու համար">
 <!ENTITY chooseButton.label           "Ընտրել…">
 <!ENTITY chooseButton.accesskey       "o">

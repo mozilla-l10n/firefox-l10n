@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; փորձնական է և ստաբիլ չի աշխատի:">
 <!ENTITY aboutPage.telemetryStart               "Միանգամից տեղեկություն է ուղարկվում արտադրողականության, սարքակազմի, օգտագործման և կարգավորումների մասին՝">

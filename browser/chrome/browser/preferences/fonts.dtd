@@ -19,7 +19,7 @@
 
 <!ENTITY  serif.label                             "Գծիկավոր.">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Հստակ-գծիկավոր.">
+<!ENTITY  sans-serif.label                        "Հստակ.">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Համաչափ.">
 <!ENTITY  monospace.accesskey                     "M">

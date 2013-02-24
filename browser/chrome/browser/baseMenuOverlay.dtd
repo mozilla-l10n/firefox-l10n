@@ -22,10 +22,7 @@
 <!ENTITY helpSafeMode.label       "Վերագործարկել հավելումներն անջատված…">
 <!ENTITY helpSafeMode.accesskey   "Վ">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
-
-<!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվությունը">
+<!ENTITY helpTroubleshootingInfo.label      "Դիագնոստիկական տեղեկություն">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Դ">
 
 <!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">

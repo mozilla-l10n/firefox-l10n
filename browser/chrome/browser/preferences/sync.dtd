@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "Հ">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Սարքի անունը.">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
+<!ENTITY syncComputerName.accesskey   "Հ">
 <!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 
 <!-- Footer stuff -->

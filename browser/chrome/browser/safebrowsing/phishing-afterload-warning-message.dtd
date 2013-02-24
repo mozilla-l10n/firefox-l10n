@@ -12,7 +12,7 @@
 <!ENTITY safeb.palm.message.p2.linkText "ինչպես է &brandShortName;-ը ձեզ պաշտպանում">
 <!ENTITY safeb.palm.message.p2.end " խաբեբաների հարձակումներից:">
 
-<!ENTITY safeb.palm.accept.label "Դուրս բեր ինձ այստեղից:">
+<!ENTITY safeb.palm.accept.label "Դուրս բեր ինձ այստեղից!">
 <!ENTITY safeb.palm.accept.statustext "Գնալ հիմնական էջ">
 <!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
 <!ENTITY safeb.palm.decline.statustext "Փակել զգուշացումը" >
