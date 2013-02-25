@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Dopo il controllo indesiderata">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
+<!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro saranno eseguite in un ordine differente.">
+<!ENTITY filterActionOrder.label "Mostra l'ordine di esecuzione">
 <!ENTITY moveMessage.label "Sposta il messaggio in">
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
