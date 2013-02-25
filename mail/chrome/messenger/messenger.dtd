@@ -525,6 +525,8 @@
 <!ENTITY appmenuEditMenu.label "Modifica">
 <!ENTITY appmenuQFBMenu.label "Barra filtro veloce">
 <!ENTITY appmenuToolbarLayout.label "Personalizza barra degli strumenti…">
+<!ENTITY appmenuSelectThread.label "Seleziona la discussione">
+<!ENTITY appmenuSelectFlagged.label "Seleziona i messaggi speciali">
 <!ENTITY addNewTag.label "Nuova etichetta…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Gestisci i Tag…">
