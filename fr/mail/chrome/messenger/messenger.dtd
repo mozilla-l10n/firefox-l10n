@@ -566,6 +566,8 @@
 <!ENTITY appmenuEditMenu.label "Éditer">
 <!ENTITY appmenuQFBMenu.label "Barre de filtre rapide">
 <!ENTITY appmenuToolbarLayout.label "Personnaliser les barres d'outils…">
+<!ENTITY appmenuSelectThread.label "Sélectionner la discussion">
+<!ENTITY appmenuSelectFlagged.label "Sélectionner les messages suivis">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nouvelle étiquette…">
