@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Navigation privée">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "La navigation privée est actuellement une fonctionnalité expérimentale.">
+<!ENTITY privatebrowsingpage.description  "Dans une fenêtre de navigation privée, &brandShortName; ne conservera aucun historique de navigation, de recherche, de téléchargement, de formulaire web, de cookies ou de fichiers temporaires Internet. Cependant, les fichiers téléchargés ou les marque-pages ajoutés seront conservés.">
+<!ENTITY privatebrowsingpage.moreinfo     "Bien que cet ordinateur ne conserve aucun enregistrement de votre historique de navigation, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
+<!ENTITY privatebrowsingpage.learnmore.label     "En savoir plus">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "E">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; ne conservera aucun historique pour cette fenêtre. Fermez la fenêtre pour arrêter la navigation privée.">
+<!ENTITY privatebrowsingpage.switch.label        "Basculer vers une fenêtre normale">
+<!ENTITY privatebrowsingpage.switch.accesskey    "B">
+<!ENTITY privatebrowsingpage.normal       "Vous n'êtes actuellement pas en mode de navigation privée.">
+<!ENTITY privatebrowsingpage.private.label       "Ouvrir une nouvelle fenêtre de navigation privée">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
+<!ENTITY privatebrowsingpage.info         "Pour démarrer la navigation privée, vous pouvez aussi sélectionner Fichier ― Nouveau ― Fenêtre de navigation privée.">
