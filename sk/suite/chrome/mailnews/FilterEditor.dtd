@@ -29,7 +29,7 @@
 <!ENTITY filterActionDesc.accesskey "V">
 
 <!ENTITY filterActionOrderWarning.label "Poznámka: akcie filtra budú spustené v inom poradí.">
-<!ENTITY filterActionOrder.label "Pozrieť sa na poradia akcií">
+<!ENTITY filterActionOrder.label "Pozrieť sa na poradie akcií">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Presunúť do priečinka">
