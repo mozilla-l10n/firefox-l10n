@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Preferencias">
 <!ENTITY categoryHeader "Categoría">
@@ -14,6 +18,7 @@
 <!ENTITY links.label "Comportamento das ligazóns">
 <!ENTITY offline.label "Sen conexión">
 <!ENTITY security.label "Privacidade &amp; Seguranza">
+<!ENTITY privatedata.label "Datos privados">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imaxes">
 <!ENTITY popups.label "Xanelas emerxentes">
