@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Tracio">
 
-<!ENTITY doNotTrack.label               "Dweud wrth wefannau: dim tracio">
-<!ENTITY doNotTrack.accesskey           "D">
+<!ENTITY dntTrackingNopref.label        "Peidio dweud dim wrth wefannau am fy newisiadau tracio.">
+<!ENTITY dntTrackingNopref.accesskey    "P">
+<!ENTITY dntTrackingNotOkay.label       "Dweud wrth wefannau: dim tracio">
+<!ENTITY dntTrackingNotOkay.accesskey   "D">
+<!ENTITY dntTrackingOkay.label          "Dweud wrth wefannau: croeso i chi dracio">
+<!ENTITY dntTrackingOkay.accesskey      "w">
+<!ENTITY doNotTrackInfo.label           "Dysgu Rhagor">
 
 <!ENTITY  history.label                 "Hanes">
 

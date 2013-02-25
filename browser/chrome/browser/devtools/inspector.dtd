@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copïo HTML Allannol">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "A">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copïo'r Dewisydd Unigryw">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "D">
+
 <!ENTITY inspectorHTMLDelete.label          "Dileu Nod">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "Dewis elfen gyda llygoden">
+
+<!ENTITY inspectorSearchHTML.label          "Chwilio HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

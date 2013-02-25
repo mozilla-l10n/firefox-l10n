@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Heb osod unrhyw apiau gwe. Estyn rhai o'r ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Dadosod">
+<!ENTITY aboutApps.addToHomescreen "Ychwanegu i'r Sgrin Cartref">
