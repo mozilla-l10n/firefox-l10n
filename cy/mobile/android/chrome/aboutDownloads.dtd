@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Llwythi">
 <!ENTITY aboutDownloads.header                     "Eich Llwythi">
 <!ENTITY aboutDownloads.empty                      "Dim Llwythi">
+
+<!ENTITY aboutDownloads.open                       "Agor">
+<!ENTITY aboutDownloads.remove                     "Dileu">
+<!ENTITY aboutDownloads.removeAll                  "Dileu Popeth">
+<!ENTITY aboutDownloads.pause                      "Oedi">
+<!ENTITY aboutDownloads.resume                     "Ailgychwyn">
+<!ENTITY aboutDownloads.cancel                     "Diddymu">
+<!ENTITY aboutDownloads.retry                      "Ceisio eto">

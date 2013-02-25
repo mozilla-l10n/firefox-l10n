@@ -4,3 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Tab Newydd">
+<!ENTITY newtab.undo.removedLabel "Tynnwyd y llun bach.">
+<!ENTITY newtab.undo.undoButton "Dadwneud.">
+<!ENTITY newtab.undo.restoreButton "Adfer Popeth.">
+<!ENTITY newtab.undo.closeTooltip "Cuddio">

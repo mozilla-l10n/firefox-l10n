@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "w"> 
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
-<!ENTITY clearRecentHistory.accesskey           "H">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label         "Dechrau Pori Preifat">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "Dechrau Pori Preifat">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "a">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Golwg"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Mynd i'r Wefan">
+<!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "F">
 <!ENTITY emailAudioCmd.label          "Sain E-bost…">
 <!ENTITY emailAudioCmd.accesskey      "S">
+<!ENTITY playPluginCmd.label          "Gweithredu'r ategyn">
+<!ENTITY playPluginCmd.accesskey      "G">
+<!ENTITY hidePluginCmd.label          "Cuddio'r ategyn">
+<!ENTITY hidePluginCmd.accesskey      "C">
 <!ENTITY copyLinkCmd.label            "Copïo Lleoliad Dolen">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copïo Lleoliad Delwedd">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "sy'n cael ei redeg gan">
 
 <!ENTITY identity.moreInfoLinkText "Rhagor o Wybodaeth…">
-
-<!ENTITY allTabs.filter.emptyText "Tabiau Chwilio">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Tabiau porwyr">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Mynediad Camera / Meicroffon">
 <!ENTITY webrtcIndicatorButton.tooltip "Dangos gwefannau rydych yn rhannu eich camera â'ch meicroffon gyda nhw ar hyn o bryd">
+
+<!ENTITY mixedContentBlocked.helplink "Dysgu Rhagor">
+<!ENTITY mixedContentBlocked.moreinfo "Mae'r rhan fwyaf o wefannau'n parhau i weithio pan mae'r cynnwys hwn wedi ei rwystro.">

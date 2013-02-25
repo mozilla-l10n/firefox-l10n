@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings "Dewisiadau\'r wefan">
+<!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
 
 <!ENTITY pref_update_autodownload "Diweddariadau awtomatig">
 <!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Golygu">
 <!ENTITY abouthome_topsites_pin "Pinio Gwefan">
 <!ENTITY abouthome_topsites_unpin "Dad-binio Gwefan">
-<!ENTITY abouthome_topsites_unpinall "Dad-binio Pob Un">
+<!ENTITY abouthome_topsites_remove "Tynnu">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Estynnwch apiau o\'r Mozilla Marketplace a darganfod y gorau sydd gan y We ei gynnig&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
