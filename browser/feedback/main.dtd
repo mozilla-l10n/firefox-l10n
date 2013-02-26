@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY testpilot.brand.label                      "I-Test Pilot">
+<!ENTITY testpilot.settings.label                   "Settings">
+<!ENTITY testpilot.settings.dataSubmission.label    "Unikezelo kweengcombolo">
+<!ENTITY testpilot.settings.notifications.label     "Notifications">
+<!ENTITY testpilot.settings.notifyWhen.label        "Ndazise xa...">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Imfunalwazi ilungele ukunikezela">
+<!ENTITY testpilot.settings.newStudy.label          "Kukho imfunalwazi entsha">
+<!ENTITY testpilot.settings.hasNewResults.label     "Imfunalwazi ineziphumo ezitsha">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Nikezela iingcombolo zam ngokuzenzekela (sukundibuza)">
+<!ENTITY testpilot.allYourStudies.label             "Yonke imfunalwazi yomsebenzisi wakho">
+<!ENTITY testpilot.about.label                      "Mayela neTest Pilot">
+<!-- all studies window -->
+
+<!ENTITY testpilot.studiesWindow.title                  "Imfunalwazi kaTest Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Imfunalwazi eqhubayo">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Imfunalwazi eqoshelisiweyo">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Okufumanisekileyo ngemfunalwazi">
+<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Kuyakhutshelwa, nceda ulinde...">
+<!-- raw data dialog -->
+
+<!ENTITY testpilot.rawDataWindow.title                  "UTest Pilot: Iingcombolo ezingahlelwanga">
+<!-- notification -->
+
+<!ENTITY testpilot.notification.close.tooltip            "Vala">
+<!-- Firefox 4 beta version UI -->
+
+<!ENTITY testpilot.enable.label                        "Vula imfunalwazi yomsebenzisi">
+<!ENTITY testpilot.feedbackbutton.label                "Ingxelo">
+<!ENTITY testpilot.happy.label        "I-Firefox indonwabisile kuba...">
+<!ENTITY testpilot.sad.label          "I-Firefox indiphoxile kuba ...">
+<!ENTITY testpilot.broken.label      "Nika ingxelo ngale webhusayithi njengeyaphukileyo...">
+<!ENTITY testpilot.idea.label        "Sinike ingcamango...">

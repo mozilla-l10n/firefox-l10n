@@ -1,22 +1,26 @@
-<!ENTITY colorsDialog.title "Imibala">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowPagesToUse.label "Vumela amakhasi ukuba akhethe imibala eyiyeyawo, endaweni yekhethwe ndim engentla">
-<!ENTITY allowPagesToUse.accesskey "V">
+<!ENTITY  colorsDialog.title              "Imibala">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY color "Isiqendu Nokungasemva Eskrinini">
-<!ENTITY textColor.label "Isiqendu:">
-<!ENTITY textColor.accesskey "i">
-<!ENTITY backgroundColor.label "Okungasemva eskrinini:">
-<!ENTITY backgroundColor.accesskey "o">
-<!ENTITY useSystemColors.label "Sebenzisa imibala yezixokelelwano">
-<!ENTITY useSystemColors.accesskey "b">
+<!ENTITY  allowPagesToUse.label           "Vumela amakhasi akhethe eyawo imibala endaweni yekhethwe ndim ngasentla">
+<!ENTITY  allowPagesToUse.accesskey       "V">
 
-<!ENTITY underlineLinks.label "Krwela umgca ngezantsi kweendawo zonxulumano">
-<!ENTITY underlineLinks.accesskey "k">
-<!ENTITY links "Nxulumanisa Imibala">
-<!ENTITY linkColor.label "Iindawo Zonxulumano Ezingatyelelwayo:">
-<!ENTITY linkColor.accesskey "z">
-<!ENTITY visitedLinkColor.label "Iindawo Zonxulumano Ezityelelwayo:">
-<!ENTITY visitedLinkColor.accesskey "i">
+<!ENTITY  color                           "Umbhalo nokungasemva eskrinini">
+<!ENTITY  textColor.label                 "Umbhalo:">
+<!ENTITY  textColor.accesskey             "U">
+<!ENTITY  backgroundColor.label           "Okungasemva eskrinini:">
+<!ENTITY  backgroundColor.accesskey       "O">
+<!ENTITY  useSystemColors.label           "Sebenzisa imibala yezixokelelwano">
+<!ENTITY  useSystemColors.accesskey       "b">
+
+<!ENTITY  underlineLinks.label            "Krwela umgca phantsi kwamakhonkco">
+<!ENTITY  underlineLinks.accesskey        "K">
+<!ENTITY  links                           "Nxulumanisa imibala">
+<!ENTITY  linkColor.label                 "Amakhonkco angatyelelwayo:">
+<!ENTITY  linkColor.accesskey             "A">
+<!ENTITY  visitedLinkColor.label          "Amakhonkco atyelelwayo:">
+<!ENTITY  visitedLinkColor.accesskey      "A">

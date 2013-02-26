@@ -1,51 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title "Thatha Ngaphandle Umncedi">
 
-<!ENTITY importFrom.label "Thatha Ngaphandle Ekukhethwa Kuko, Izalathisi Eziphawulayo, Imbali, Amagama Okugqithisa nezinye iinkcukacha ezivela:">
-<!ENTITY importFromUnix.label "Thatha Ngaphandle Izikhethwa, Izalathi Eziphawulayo, Imbali, Amagama Okugqithisa nezinye iinkcukacha ezivela:">
-<!ENTITY importFromBookmarks.label "Thatha Ngaphandle Izalathisi Eziphawulayo ezivela:">
+<!ENTITY migrationWizard.title          "Thatha Ngaphandle Umncedi">
 
-<!ENTITY importFromIE.label "I-Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "I">
-<!ENTITY importFromPhoenix.label "I-Firefox 0.8, i-Firebird okanye i-Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "Musa ukuthatha nantoni ngaphandle">
-<!ENTITY importFromNothing.accesskey "M">
-<!ENTITY importFromSeamonkey.label "I-Netscape 6, 7 okanye i-Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "I-Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "I-Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "I-Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "I-Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "I-OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "I-iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "I-Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "I-Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "I-Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromFile.label "Ukusuka Kwifayili">
-<!ENTITY importFromFile.accesskey "U">
+<!ENTITY importFrom.label               "Thumela ekunokukhethwa kuko, iibhukhmakhi, imbali, ipasiwedi nezinye iingcombolo kwi-:">
+<!ENTITY importFromUnix.label           "Thumela iipriferensi, iibhukhmakhi, imbali, ipasiwedi nezinye iingcombolo kwi-:">
+<!ENTITY importFromBookmarks.label      "Thatha Ngaphandle Izalathisi Eziphawulayo ezivela:">
 
-<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY importFromIE.label             "I-Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "I">
+<!ENTITY importFromNothing.label        "Musa ukuthatha nantoni ngaphandle">
+<!ENTITY importFromNothing.accesskey    "M">
+<!ENTITY importFromSafari.label         "I-Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "I-Chrome">
+<!ENTITY importFromChrome.accesskey     "I">
+<!ENTITY importFromFirefox.label        "I-Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
 
-<!ENTITY importSource.title "Import Settings and Data">
-<!ENTITY importItems.title "Amanqaku afanele Ukuthathwa Ngaphandle">
-<!ENTITY importItems.label "Khetha ukuba ngawaphi amanqaku anokuthathwa ngaphandle:">
+<!ENTITY noMigrationSources.label       "Akukho ziprogram ziqulethe iibhukhmakhi, imbali okanye iingcombolo zepasiwedi zifumanekayo.">
 
-<!ENTITY migrating.title "Kuthathwa ngaphandle...">
-<!ENTITY migrating.label "Amanqaku alandelayo athathwa ngaphandle okwangoku...">
+<!ENTITY importSource.title             "Import Settings and Data">
+<!ENTITY importItems.title              "Amanqaku afanele Ukuthathwa Ngaphandle">
+<!ENTITY importItems.label              "Khetha ukuba ngawaphi amanqaku anokuthathwa ngaphandle:">
 
-<!ENTITY selectProfile.title "Khetha Inkangeleko Yesimo">
-<!ENTITY selectProfile.label "Iinkangeleko zesimo ezilandelayo ziyafumaneka kwaye zinokuthathwa ngaphandle zivela:">
+<!ENTITY migrating.title                "Kuthathwa ngaphandle…">
+<!ENTITY migrating.label                "Amanqaku alandelayo athathwa ngaphandle okwangoku…">
 
-<!ENTITY done.title "Ukuthatha Ngaphandle Kugqityiwe">
-<!ENTITY done.label "Amanqaku alandelayo athathwe ngaphandle ngempumelelo:">
+<!ENTITY selectProfile.title            "Khetha Inkangeleko Yesimo">
+<!ENTITY selectProfile.label            "Ezi profayile zilandelayo ziyafumaneka ukuba zingathunyelwa kwi-:">
+
+<!ENTITY done.title                     "Ukuthatha Ngaphandle Kugqityiwe">
+<!ENTITY done.label                     "Amanqaku alandelayo athathwe ngaphandle ngempumelelo:">
 

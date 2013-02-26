@@ -1,11 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Ngenisa indawo olukuyo uthungelwano (URL), okanye xela ifayili yalapho onqwenela ukuyivula:">
-<!ENTITY chooseFile.label "Khetha Ifayili...">
-<!ENTITY newWindow.label "Ifestile Entsha">
+
+<!ENTITY enter.label "Faka indawo yewebhu (URL) okanye ucacise ifayile yalapha ofuna ukuyivula:">  
+<!ENTITY chooseFile.label "Khetha Ifayili…">
 <!ENTITY newTab.label "Isilungelelanisi Semigca Esitsha">
-<!ENTITY topWindow.label "Ifestile Yangoku">
+<!ENTITY newWindow.label "Ifestile Entsha">
+<!ENTITY topTab.label "Ithebhu ekhoyo">
 <!ENTITY caption.label "Vula Indawo Yothungelwano">
 <!ENTITY openWhere.label "Vulela ngaphakathi:">
-<!ENTITY example.label "Umzekelo: &vendorURL;">
 <!ENTITY openBtn.label "Vula">

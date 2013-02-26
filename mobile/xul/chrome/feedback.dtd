@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "Izixhobo zengxelo">
+
+<!ENTITY feedback.communicate.title     "Nxibelelana nathi">
+<!ENTITY feedback.feedback.title        "Nika ingxelo">
+<!ENTITY feedback.feedback.good         "Kuhle">
+<!ENTITY feedback.feedback.bad          "Kubi">
+
+<!ENTITY feedback.tools.title           "Tools">
+<!ENTITY feedback.allowTelemetry.title  "Thumela iingcombolo zomsebenzi">
+<!ENTITY feedback.forceCompat.title     "Nyanzela ukuhambelana kwezongezelelo">
+<!ENTITY feedback.errorConsole.title    "Vumela uthuthuzelo lwemposiso">

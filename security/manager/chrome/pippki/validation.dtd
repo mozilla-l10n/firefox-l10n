@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  validation.crlmanager.label             "Lawula ii-CRL">
+<!ENTITY  validation.crlmanager.description       "Ezi Certificate Revocation Lists (CRL) zigcinwe kwidathabheyisi yakho yesatifikhethi:">
+<!ENTITY  validation.crlname.label                "Igama">
+<!ENTITY  validation.crllastupdate.label          "Uhlaziyo Lokugqibela">
+<!ENTITY  validation.crlnextupdate.label          "Uhlaziyo Olulandelayo">
+<!ENTITY  validation.crlautoupdateenabled.label   "Uhlaziyo Oluzenzekelayo">
+<!ENTITY  validation.crlautoupdatestatus.label    "Isimo Sohlaziyo Oluzenzekelayo">
+<!ENTITY  validation.deletecrl.label              "Cima">
+<!ENTITY  validation.deletecrl.accesskey          "C">
+<!ENTITY  validation.updatecrl.label              "Hlaziya">
+<!ENTITY  validation.updatecrl.accesskey          "H">
+<!ENTITY  validation.advanced.label               "Imimiselo">
+<!ENTITY  validation.advanced.accesskey           "I">
+
+<!ENTITY  validation.crl.autoupdate.title         "Izikhethwa Zohlaziyo lwe-CRL Oluzenzekelayo">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Kunikwa Isakhono Kuhlaziyo Oluzenzekelayo lwale CRL">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Hlaziya">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Iintsuku phambi komhla Wohlaziyo Olandelayo">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Hlaziya Konke">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Iintsuku">
+<!ENTITY  validation.crl.autoupdate.url.label     "I-CRL iya kuthatyathwa Ukusuka:">
+<!ENTITY  crl.import.status.title                 "Isimo Sokuthatyathwa Ngaphandle kwe-CRL">
+<!ENTITY  crl.import.success.message              "I-Certificate Revocation List (CRL) ithunyelwe ngempumelelo.">
+<!ENTITY  crl.issuer.label                        "I-CRL Inikelwe Ngu:">
+<!ENTITY  crl.issuer.org.label                    "Umbutho: ">
+<!ENTITY  crl.issuer.orgunit.label                "Icandelo: ">
+<!ENTITY  crl.import.nextupdate.label             "Uhlaziyo Olulandelayo Selusebenza: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Iintsilelo Zohlaziyo Ezilandelelanayo Zangaphambili: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Iinkcukacha Zokusilela Kohlaziyo Lokugqibela: ">
+<!ENTITY  edit.button                             "Imimiselo">

@@ -1,58 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "Umiselo Lwekhasi">
 
-<!ENTITY basic.tab "Ulungiselelo &amp; Ekukhethwa kuko">
+<!ENTITY printSetup.title    "Umiselo Lwekhasi">
 
-<!ENTITY formatGroup.label "Ulungiselelo">
+<!ENTITY basic.tab           "Ulungiselelo &amp; Ekukhethwa kuko">
 
-<!ENTITY orientation.label "Uqhelaniso:">
-<!ENTITY portrait "Umfanekiso">
-<!ENTITY landscape "Imbonakalo-mhlaba">
+<!ENTITY formatGroup.label   "Ufomatho">
 
-<!ENTITY scale.label "Isikali:">
-<!ENTITY scalePercent "&#037;">
+<!ENTITY orientation.label   "Uqhelaniso:">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Imbonakalo-mhlaba">
+<!ENTITY landscape.accesskey "I">
 
-<!ENTITY shrinkToFit.label "Finyeza Ukuze Kulingane Ububanzi Bekhasi">
+<!ENTITY scale.label         "Isikali:">
+<!ENTITY scale.accesskey     "I">
+<!ENTITY scalePercent        "&#037;">
 
-<!ENTITY optionsGroup.label "Ekunokukhethwa kuko">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY printBG.label "Shicilela Okungasemva Eskrinini (imibala &amp; imifuziselo)">
+<!ENTITY optionsGroup.label  "Ekunokukhethwa kuko">
 
-<!ENTITY advanced.tab "Imida &amp; Okubhalwe Ngasentla/Okubhalwe Ngasezantsi Ekhasini">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY marginGroup.label "Imida (#1)">
-<!ENTITY marginUnits.inches "ii-intshi">
-<!ENTITY marginUnits.metric "iimilimitha">
-<!ENTITY marginTop.label "Kumphezulu:">
-<!ENTITY marginBottom.label "Emazantsi:">
-<!ENTITY marginLeft.label "Ekhohlo:">
-<!ENTITY marginRight.label "Ekunene:">
+<!ENTITY advanced.tab        "Imida &amp; Okubhalwe Ngasentla/Okubhalwe Ngasezantsi Ekhasini">
 
-<!ENTITY headerFooter.label "Okubhalwe ngasentla ekhasini &amp; Okubhalwe Ngasezantsi Ekhasini">
+<!ENTITY marginGroup.label   "Imida (#1)">
+<!ENTITY marginUnits.inches  "ii-intshi">
+<!ENTITY marginUnits.metric  "iimilimitha">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
 
-<!ENTITY hfLeft.label "Ekhohlo:">
-<!ENTITY hfCenter.label "Esizikithini:">
-<!ENTITY hfRight.label "Ekunene:">
-<!ENTITY headerLeft.tip "Okubhalwe Ngasentla Ekhasini Ngasekhohlo">
-<!ENTITY headerCenter.tip "Okubhalwe Ngasentla Ekhasini Esizikithini">
-<!ENTITY headerRight.tip "Okubhalwe Ngasentla Ekhasini Ngasekunene">
-<!ENTITY footerLeft.tip "Okubhalwe Ngasezantsi Ekhasini Ngasekhohlo">
-<!ENTITY footerCenter.tip "Okubhalwe Ngasezantsi Ekhasini Esizikithini">
-<!ENTITY footerRight.tip "Okubhalwe Ngasezantsi Ekhasini Ngasekunene">
+<!ENTITY headerFooter.label  "Okubhalwe ngasentla ekhasini &amp; Okubhalwe Ngasezantsi Ekhasini">
 
-<!ENTITY hfTitle "Isihloko">
-<!ENTITY hfTitle.code "[&amp;T]">
-<!ENTITY hfURL "URL">
-<!ENTITY hfURL.code "[&amp;U]">
-<!ENTITY hfDateAndTime "Umhla/Ixesha">
-<!ENTITY hfDateAndTime.code "&amp;D">
-<!ENTITY hfPage "Ikhasi #">
-<!ENTITY hfPage.code "[&amp;P]">
-<!ENTITY hfPageAndTotal "Ikhasi # le-#">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
-<!ENTITY hfBlank "--akubhalwanga nto--">
-<!ENTITY hfCustom "Lungiselela...">
+<!ENTITY hfLeft.label        "Ekhohlo:">
+<!ENTITY hfCenter.label      "Esizikithini:">
+<!ENTITY hfRight.label       "Ekunene:">
+<!ENTITY headerLeft.tip      "Okubhalwe Ngasentla Ekhasini Ngasekhohlo">
+<!ENTITY headerCenter.tip    "Okubhalwe Ngasentla Ekhasini Esizikithini">
+<!ENTITY headerRight.tip     "Okubhalwe Ngasentla Ekhasini Ngasekunene">
+<!ENTITY footerLeft.tip      "Okubhalwe Ngasezantsi Ekhasini Ngasekhohlo">
+<!ENTITY footerCenter.tip    "Okubhalwe Ngasezantsi Ekhasini Esizikithini">
+<!ENTITY footerRight.tip     "Okubhalwe Ngasezantsi Ekhasini Ngasekunene">
 
-<!ENTITY customPrompt.title "Lungiselela...">
-<!ENTITY customPrompt.prompt "Ngenisa isiqendu osilungiselele okubhalwe ngasentla/ngasezantsi ekhasini">
+<!ENTITY hfTitle             "Isihloko">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Umhla/Ixesha">
+<!ENTITY hfPage              "Ikhasi #">
+<!ENTITY hfPageAndTotal      "Ikhasi # le-#">
+<!ENTITY hfBlank             "--akubhalwanga nto--">
+<!ENTITY hfCustom            "Lungiselela…">
+
+<!ENTITY customPrompt.title  "Lungiselela…">
+<!ENTITY customPrompt.prompt "Faka umbhalo wesiqhelo kumantla/kumazantsi">

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Ungqamaniso">
+<!ENTITY sync.notconnected          "Ayinxibelelekanga">
+<!ENTITY sync.connect               "Nxibelela">
+<!ENTITY sync.connected             "Inxibelelekile">
+<!ENTITY sync.details               "Iinkcukacha">
+<!ENTITY sync.deviceName            "Esi sixhobo">
+<!ENTITY sync.disconnect            "Khupha unxibelelo">
+<!ENTITY sync.syncNow               "Ngqamanisa ngoku">
+
+<!ENTITY sync.setup.title           "Nxibelelanisa kungqamaniso">
+<!ENTITY sync.setup.pair            "Ukwenza isebenze, khetha &#x0022;Pair a Device&#x0022; kwisixhobo sakho.">
+<!ENTITY sync.fallback              "Andikho kufutshane nekhompyutha...">
+<!ENTITY sync.setup.manual          "Faka inkcazelo yeakhawunti yoNgqamaniso">
+<!ENTITY sync.account               "Igama Leakhawunti">
+<!ENTITY sync.password              "Igama lokugqithisa">
+<!ENTITY sync.recoveryKey           "Iqhosha lobuyiselo">
+<!ENTITY sync.customServer          "Sebenzisa iseva eqhelekileyo">
+<!ENTITY sync.serverURL             "I-URL yeseva">
+<!ENTITY sync.setup.connect         "Nxibelela">
+<!ENTITY sync.setup.cancel          "Rhoxisa">
+<!ENTITY sync.setup.tutorial        "Ndibonise yenzeka njani">
+<!ENTITY sync.setup.waiting2        "Ilindele esinye isixhobo...">
+
+<!ENTITY sync.pair.title            "Beka ngazibini izixhobo">
+<!ENTITY sync.pair.description      "Ukwenza isixhobo esitsha sisebenze, khetha &#x0022;Set Up Sync&#x0022; kwisixhobo.">
+<!ENTITY sync.setup.close           "Vala">
+<!ENTITY sync.setup.waitingdownload "Iingcombolo ziyakhutshelwa ngoku ngemva. Ungayivala le festile nanini na.">

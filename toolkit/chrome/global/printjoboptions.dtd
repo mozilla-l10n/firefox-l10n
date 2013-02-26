@@ -1,28 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printJobOptions.title "Iinkcazelo Ngeempawu Zezishicileli">
 
-<!ENTITY paperInput.label "Ubukhulu Bephepha:">
+<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Imo yokusebenza ye-plex:">
+<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Iskrini esibonakalyo/Umgangatho:">
+<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Umyalelo Woshicilelo:">
+<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Isihloko Somdebenzi:">
+<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Umbala:">
-<!ENTITY grayRadio.label "Umlinganiselo Oboniswayo">
-<!ENTITY colorRadio.label "Umbala">
+<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Isithuba sombala:">
+<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Iifonti:">
-<!ENTITY downloadFonts.label "Uthobela umthwalo weefonti kwisishicileli?">
+<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Isithuba ukusuka ekupheleni kwephepha ukuya kuMda">
-<!ENTITY topInput.label "Kumphezulu:">
-<!ENTITY bottomInput.label "Emazantsi:">
-<!ENTITY leftInput.label "Ekhohlo:">
-<!ENTITY rightInput.label "Ekunene:">
+<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "Bottom:">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "Left:">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.accesskey "R">

@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+
+<!ENTITY pageTitle                 "&brandShortName; Feedback">
+
+<!ENTITY intro.header              "Unawo umzuzu?">
+<!ENTITY intro.message             "Sixelele okucingayo nge-&brandShortName; kwi-Android ukuza kuthi ga ngoku.">
+<!ENTITY intro.happyLink           "Ndiyayithanda">
+<!ENTITY intro.sadLink             "Ndigaxeleke kwiingxaki">
+<!ENTITY intro.ideaLink            "Ndiyayiqonda">
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
+<!ENTITY support.pre               "Ukuba ufuna uncedo okanye unengxaki nge-&brandShortName;, nceda utyelele ">
+<!ENTITY support.link              "&brandShortName; Support">
+<!ENTITY support.post              ".">
+
+<!ENTITY happy.header              "Kuhle ukuva ngoko!">
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "Ufuna ukwabelana ngothando ngokusinika umyinge weenkwenkwezi ezi-5 kwi-Google Play?">
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+
+<!ENTITY happy.finePrint           "Uthatha ngaphantsi komzuzu kwaye uyaneliseka.">
+
+<!ENTITY happy.ratingLink          "Ewe, yiya kwi-Google Play">
+<!ENTITY happy.maybeLater          "Mhlawumbi ngelinye ixesha">
+<!ENTITY happy.noThanks            "Uxolo, enkosi">
+
+<!ENTITY sad.message               "Siyaxolisa ngokuba ube neengxaki nge-&brandShortName; Sixelele okwenzekileyo ukuze sibe nokukulungisa.">
+<!ENTITY sad.placeholder           "Faka ingxelo yakho apha">
+<!ENTITY sad.lastSite              "Ukugqibela kwakho ukutyelela isayithi (akunyanzelekanga)">
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Enkosi ngokusazisa.">
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+
+<!ENTITY sad.thanksMessageTop      "Sisoloko sisebenzela ukwenza ngcono i-&brandShortName; Qiniseka ukuba abantu benene baya kuyiqwalasela ingxelo yakho baze benze konke abanakho ukukwenza ukusombulula ingxaki yakho.">
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+
+<!ENTITY sad.thanksMessageBottom   "Kungenjalo.">
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+
+<!ENTITY idea.message              "Siyathanda ukuva izimvo zakho! Nceda uchaze iingcinga zakho ngezantsi. (ezinge-&brandShortName; kuphela.)">
+<!ENTITY idea.placeholder          "Faka uluvo lwakho apha">
+<!ENTITY idea.thanksHeader         "Thanks!">
+
+<!ENTITY idea.thanksMessageTop     "Siyayivuyela into yokuba wabelane nathi ngeengcinga zakho. Sisoloko sisebenzela ukwenza ngcono i-&brandShortName; kwaye igalelo lakho lingakhokelela kwizinto ezintle.">
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+
+<!ENTITY idea.thanksMessageBottom  "Nangani ungenakubona, kodwa sikuhloniphe kakhulu khona ngoku.">
+
+<!ENTITY feedback.privacy          "Ukuze ungabi nakwaziwa, musa ukufaka nayiphi na inkcazelo enokukufanisa kwingxelo yakho.">
+<!ENTITY feedback.send             "Thumela ingxelo">

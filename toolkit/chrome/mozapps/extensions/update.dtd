@@ -1,62 +1,65 @@
-<!ENTITY updateWizard.title "&brandShortName; Uhlaziyo">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offline.title "&brandShortName; is working offline">
-<!ENTITY offline.description "&brandShortName; needs to go online in order to see if updates
-                                           are available for your add-ons to make them compatible with this
-                                           version.">
-<!ENTITY offline.toggleOffline.label "Go online now.">
-<!ENTITY offline.toggleOffline.accesskey "G">
+<!ENTITY  updateWizard.title              "&brandShortName; Hlaziya">
 
-<!ENTITY mismatch.win.title "Incompatible Add-ons">
-<!ENTITY mismatch.top.label "The following add-ons are not compatible with this version of
-                                           &brandShortName; and have been disabled:">
-<!ENTITY mismatch.bottom.label "&brandShortName; can check if there are compatible versions
-                                           of these add-ons available.">
+<!ENTITY  offline.title                   "&brandShortName; isebenza ngaphandle kweintanethi">
+<!ENTITY  offline.description             "&brandShortName; idinga ukuya kwi-intanethi ukuze ibone ukuba ingaba izihlaziyi 
+ziyafumaneka na kwizongezelelo zakho ukwenza zihambelane nolu 
+hlelo">
+<!ENTITY  offline.toggleOffline.label     "Yiya kwi-intanethi ngoku.">
+<!ENTITY  offline.toggleOffline.accesskey "Y">
 
-<!ENTITY checking.wizard.title "Checking for Compatible Add-ons">
-<!ENTITY checking.top.label "Checking your incompatible add-ons for updates...">
-<!ENTITY checking.status "Oku kusenokuthatha imizuzu embalwa...">
+<!ENTITY  mismatch.win.title              "Izongezelelo ezingahambelaniyo">
+<!ENTITY  mismatch.top.label              "Izongezelelo ezilandelayo azihambelani nolu hlelo lwe- 
+&brandShortName; kwaye yenziwe ayasebenza:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; ingakhangela ukuba kukho iintlelo ezihambelanayo na 
+zezi zongezelelo zifumanekayo.">
 
-<!ENTITY found.wizard.title "Found Compatible Add-ons">
-<!ENTITY found.top.label "Select the add-ons you would like to install:">
-<!ENTITY found.disabledXPinstall.label "These updates can't be installed because software installation is currently
-                                           disabled. You can change this setting below.">
-<!ENTITY found.enableXPInstall.label "Allow web sites to install software">
-<!ENTITY found.enableXPInstall.accesskey "A">
+<!ENTITY  checking.wizard.title           "Ikhangela iZongezelelo zoHambelwano">
+<!ENTITY  checking.top.label              "Ikhangela izongezelelo zakho zokungahambelani ukwenzela uhlaziyo…">
+<!ENTITY  checking.status                 "Oku kunokuthatha imizuzu embalwa...">
 
-<!ENTITY installing.wizard.title "Installing Compatible Add-ons">
-<!ENTITY installing.top.label "Downloading and installing updates to your add-ons...">
+<!ENTITY  found.wizard.title               "Ifumene iZongezelelo zoHambelwano">
+<!ENTITY  found.top.label                 "Khetha izongezelelo ongathanda ukuzifakela:">
+<!ENTITY  found.disabledXPinstall.label   "Ezi zihlaziyi azinakufakelwa ngenxa yokuba ufakelo lwesoftwe lweziwe alwasebenza  
+ngokunje. Ungayitshintsha le setingi ingaphantsi.">
+<!ENTITY  found.enableXPInstall.label     "Vumela iiwebhusayithi ukufakela isoftwe">
+<!ENTITY  found.enableXPInstall.accesskey "V">
 
-<!ENTITY noupdates.wizard.title "No Compatible Add-ons Found">
-<!ENTITY noupdates.intro.desc "&brandShortName; was unable to find updates to your
+<!ENTITY  installing.wizard.title         "Ifakela iZongezelelo zoHambelwano">
+<!ENTITY  installing.top.label            "Ikhuphela kwaye ifakela izihlaziyi kwizongezelelo zakho…">
+
+<!ENTITY  noupdates.wizard.title          "Akukho Zongezelelo zoHambelwano zifunyenweyo">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
                                            incompatible add-ons.">
-<!ENTITY noupdates.error.desc "Some problems were encountered when trying to find updates.">
-<!ENTITY noupdates.checkEnabled.desc "&brandShortName; will check periodically and inform you
-                                           when compatible updates for these add-ons are found.">
+<!ENTITY  noupdates.error.desc            "Ezinye iingxaki kuhlangatyenwe nazo xa bekuzanywa ukufumana izihlaziyi.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
+xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
-<!ENTITY finished.wizard.title "Compatible Add-ons Installed">
-<!ENTITY finished.top.label "&brandShortName; has installed the updates to your add-ons.">
-<!ENTITY finished.checkDisabled.desc "&brandShortName; can check periodically and inform you
-                                           when updates for add-ons are found.">
-<!ENTITY finished.checkEnabled.desc "&brandShortName; will check periodically and inform you
-                                           when updates for add-ons are found.">
+<!ENTITY  finished.wizard.title           "IZongezelelo zoHambelwano ziFakelwe">
+<!ENTITY  finished.top.label              "&brandShortName; ifakele izihlaziyi kwizongezelelo zakho.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; inokukhangela amaxesha ngamaxesha ize ikwazise 
+xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
+xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
-<!ENTITY adminDisabled.wizard.title "Unable to Check for Updates">
-<!ENTITY adminDisabled.warning.label "It is not possible to check for updates to incompatible add-ons
-                                           because software installation for &brandShortName; has been disabled.
-                                           Please contact your System Administrator for assistance.">
+<!ENTITY  adminDisabled.wizard.title      "Ayikwazi ukuKhangela iziHlaziyi">
+<!ENTITY  adminDisabled.warning.label     "Akukwazeki ukukhangela izihlaziyi kwizongezelelo ezingahambelaniyo 
+ngenxa yokuba ufakelo lwesoftwe lwe-&brandShortName; lwenziwe alwasebenza. 
+Nceda uqhagamshelane noMlawuli weSistim yakho ukufumana uncedo. ">
 
-<!ENTITY versioninfo.wizard.title "Checking Compatibility of Add-ons">
-<!ENTITY versioninfo.top.label "Checking your add-ons for compatibility with this
-                                           version of &brandShortName;.">
-<!ENTITY versioninfo.waiting "Oku kusenokuthatha imizuzu embalwa...">
+<!ENTITY  versioninfo.wizard.title        "Ikhangela iZongezelelo zoHambelwano">
+<!ENTITY  versioninfo.top.label           "Ikhangela izongezelelo zakho zohambelwano ngolu 
+hlelo lwe-&brandShortName;.">
+<!ENTITY  versioninfo.waiting             "This may take a few minutes…">
 
-<!ENTITY installerrors.wizard.title "Problems Installing Updates">
-<!ENTITY installerrors.intro.label "&brandShortName; encountered problems when updating
-                                           some of your add-ons.">
+<!ENTITY  installerrors.wizard.title      "Iingxaki zokuFakela iziHlaziyi">
+<!ENTITY  installerrors.intro.label       "&brandShortName; ihlangabezene neengxaki xa ihlaziya 
+ezinye zezongezelelo zakho.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY clickFinish.label "Nqomfa ku-Kugqityiwe ukuze uqhube ngokuqalisa i-&brandShortName;.">
-<!ENTITY enableChecking.label "Vumela i-&brandShortName; ukuba iqwalasele iziganeko zohlaziyo.">
-<!ENTITY details.label "Details...">
-<!ENTITY details.accesskey "D">
+<!ENTITY  clickFinish.label               "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa i-&brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  enableChecking.label            "Vumela i-&brandShortName; ukuba iqwalasele iziganeko zohlaziyo.">

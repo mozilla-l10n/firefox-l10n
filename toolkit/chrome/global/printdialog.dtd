@@ -1,29 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printdialog.xul -->
+
 
 <!ENTITY printButton.label "Shicilela">
 
 <!ENTITY printDialog.title "Shicilela">
 
-<!ENTITY fpDialog.title "Gcina Ifayili">
+<!ENTITY fpDialog.title "Gcina Ifayile">
 
-<!ENTITY fileCheck.label "Shicilela Ukuya Kwifayili">
-<!ENTITY propertiesButton.label "Iinkcazelo ngeempawu...">
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
+<!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Inkcazo Ngesishicileli:">
 <!ENTITY printer.label "Isishicileli">
-<!ENTITY printerInput.label "Igama Lesishicileli:">
+<!ENTITY printerInput.label "Printer Name:">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Uluhlu Loshicilelo">
-<!ENTITY allpagesRadio.label "Onke Amakhasi">
-<!ENTITY rangeRadio.label "Amakhasi">
-<!ENTITY frompageInput.label "ukusuka">
-<!ENTITY topageInput.label "ukuya">
-<!ENTITY selectionRadio.label "Okukhethwayo">
+<!ENTITY allpagesRadio.label "All Pages">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "ukuya">
+<!ENTITY topageInput.accesskey  "u">
+<!ENTITY selectionRadio.label "Selection">
+<!ENTITY selectionRadio.accesskey "S">
 
 <!ENTITY copies.label "Iikopi">
-<!ENTITY numCopies.label "Inani leekopi:">
+<!ENTITY numCopies.label "Number of copies:">
+<!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "Shicilela Izakhelo">
-<!ENTITY aslaidoutRadio.label "Njengoko kumiswe kakuhle eskrinini">
-<!ENTITY selectedframeRadio.label "Isakhelo esikhethiweyo">
-<!ENTITY eachframesepRadio.label "Isakhelo ngasinye sihambe sodwa">
-
+<!ENTITY printframeGroup.label "Iifreyim zokuprinta">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Isakhelo ngasinye sihambe sodwa">
+<!ENTITY eachframesepRadio.accesskey  "I">

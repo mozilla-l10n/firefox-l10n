@@ -1,22 +1,63 @@
-<!ENTITY pluginWizard.title "Inkonzo Yokufumanisa i-Plugin">
-<!ENTITY pluginWizard.firstPage.title "Wamkelekile kwi-&pluginWizard.title;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pluginWizard.title                                  "Inkonzo Yokufumanisa i-Plugin">
+<!ENTITY pluginWizard.firstPage.title                        "Wamkelekile kwi-&pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "I-&brandShortName; ngoku iqwalasela ii-plugin ezikhoyo...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "I-&brandShortName; ngoku iqwalasela ii-plugin ezikhoyo…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Ukuthotywa Kwemithwalo yeePlugin Okukhoyo">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Ii-plugin ezilandelayo zikhona:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cinezela u-Okulandelayo ukuze uhlohle ezi plugin.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Ezinye ii-plugin zisenokufuna ulwazi olufakelweyo kuwe ngethuba lokuhlohla.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Okukhutshelwayo kwesoftwe encedisayo kuyafumaneka">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Iisoftwe ezincedisayo ezilandelayo ziyafumaneka">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cinezela u-Okulandelayo ukuze ufakele ezi softwe zincedisayo.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Ezinye iisoftwe ezincedisayo zingafuna inkcazelo eyongezelelweyo kuwe ngethuba lokufakela">
 
-<!ENTITY pluginWizard.licensePage.title "Iilayisensi ze-Plugin">
-<!ENTITY pluginWizard.licensePage.accept.label "Ndiyavuma.">
-<!ENTITY pluginWizard.licensePage.deny.label "Andivumi (i-plugin ayisayi kuhlohlwa).">
+<!ENTITY pluginWizard.licensePage.title                      "Iilayisensi zesoftwe encedisayo">
+<!ENTITY pluginWizard.licensePage.accept.label               "Ndiyavuma.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Andivumi (i-plugin ayisayi kuhlohlwa).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "Kuhlohlwa ii-Plugin">
-<!ENTITY pluginWizard.installPluginsPage.description.label "I-&brandShortName; ihlohla ii-plugin...">
+<!ENTITY pluginWizard.installPluginsPage.title               "Kufakelwa iisoftwe ezincedisayo">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "I-&brandShortName; ifakela iisoftwe ezincedisayo…">
 
-<!ENTITY pluginWizard.finalPage.description.label "I-&brandShortName; igqibile ukuhlohla ii-plugin ezilahlekileyo:">
+<!ENTITY pluginWizard.finalPage.description.label            "I-&brandShortName; igqibile ukufakela iisoftwe ezincedisayo ezilahlekileyo:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Fumanisa ngaphezulu ngee-Plugin okanye fumanisa ngokwenza ngesandla ii-plugin ezilahlekileyo.">
-<!ENTITY pluginWizard.finalPage.restart.label "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze ii-plugin zisebenze.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Fumana okungaphezulu ngeesoftwe ezincedisayo okanye fumana ngesandla iisoftwe ezincedisayo ezingabonakaliyo.">
+<!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze ii-plugin zisebenze.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
 
+<!ENTITY unsupportedPlatform.pre                             "Uxolo, i-&brandShortName; ayinakho ukudlala ifleshi kwesi sixhobo. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Funda ngaphezulu...">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!ENTITY missingPlugin                                       "Isoftwe encedisayo iyafuneka ukuze ibonise lo mxholo.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Cinezela apha ukusebenzisa isoftwe encedisayo.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY checkForUpdates                                     "Check for updates…">
+<!ENTITY disabledPlugin                                      "Isoftwe encedisayo iqhwalelisiwe.">
+<!ENTITY blockedPlugin.label                                 "Isoftwe encedisayo ithintelwe ukukhusela wena.">
+
+<!ENTITY installPlugin                                       "Install plugin…">
+<!ENTITY managePlugins                                       "Lawula iisoftwe ezincedisayo...">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Layisha kwakhona ikhasi">
+<!ENTITY reloadPlugin.post                                   " ukuzama kwakhona.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Thumela ingxelo yokonakala">
+<!ENTITY report.submitting                                   "Sending report…">
+<!ENTITY report.submitted                                    "Ingxelo yokonakala ithunyelwe">
+<!ENTITY report.disabled                                     "Ukunika ingxelo yokonakala kuqhwalelisiwe.">
+<!ENTITY report.failed                                       "Ukuthunyelwa kwayo akuphumelelanga.">
+<!ENTITY report.unavailable                                  "No report available.">
+<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

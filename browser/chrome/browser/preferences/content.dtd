@@ -1,52 +1,41 @@
-<!ENTITY blockPopups.label "Block pop-up windows">
-<!ENTITY blockPopups.accesskey "B">
-<!ENTITY popupExceptions.label "Exceptions...">
-<!ENTITY popupExceptions.accesskey "E">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadImages.label "Load images automatically">
-<!ENTITY loadImages.accesskey "I">
-<!ENTITY exceptions.label "Exceptions...">
-<!ENTITY exceptions.accesskey "x">
+<!ENTITY  blockPopups.label           "Block pop-up windows">
+<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  popupExceptions.label       "Exceptions…">
+<!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY enableJavaScript.label "Enable JavaScript">
-<!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "Kwinqanaba Eseliphambili...">
-<!ENTITY advancedJS.accesskey "n">
+<!ENTITY  loadImages.label            "Layisha imifuziselo ngokuzenzekelayo">
+<!ENTITY  loadImages.accesskey        "i">
+<!ENTITY  exceptions.label            "Exceptions…">
+<!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY enableJava.label "Enable Java">
-<!ENTITY enableJava.accesskey "n">
+<!ENTITY  enableJavaScript.label      "Enable JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Kwinqanaba eseliphambili…">
+<!ENTITY  advancedJS.accesskey        "n">
 
-
-<!ENTITY fontsAndColors.label "Iifonti &amp; Imibala">
-
-<!ENTITY defaultFont.label "Default font:">
-<!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "Size:">
-<!ENTITY defaultSize.accesskey "i">
-
-<!ENTITY advancedFonts.label "Kwinqanaba Eseliphambili...">
-<!ENTITY advancedFonts.accesskey "k">
-
-<!ENTITY colors.label "Imibala...">
-<!ENTITY colors.accesskey "I">
+<!ENTITY  enableJava.label            "Enable Java">
+<!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY feeds.label "Feeds">
+<!ENTITY  fontsAndColors.label        "Iifonti &amp; Imibala">
 
-<!ENTITY feedReader.label "Feed Reader:">
-<!ENTITY feedReader.accesskey "F">
+<!ENTITY  defaultFont.label           "Default font:">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "Ubungakanani:">
+<!ENTITY  defaultSize.accesskey       "U">
 
-<!ENTITY feedClick.label "When I click on a web feed:">
-<!ENTITY ask.label "Ask me what to use">
-<!ENTITY ask.accesskey "A">
-<!ENTITY subLiveBookmark.label "Always subscribe with a Live Bookmark">
-<!ENTITY subLiveBookmark.accesskey "L">
-<!ENTITY subReader.label "Always subscribe using the Feed Reader">
-<!ENTITY subReader.accesskey "R">
+<!ENTITY  advancedFonts.label         "Advanced…">
+<!ENTITY  advancedFonts.accesskey     "A">
+
+<!ENTITY  colors.label                "Imibala…">
+<!ENTITY  colors.accesskey            "I">
 
 
-<!ENTITY fileTypes.label "File Types">
-
-<!ENTITY configureFileTypes.label "Configure how &brandShortName; handles certain types of files">
-<!ENTITY manage.label "Manage...">
-<!ENTITY manage.accesskey "M">
+<!ENTITY languages.label              "Iilwimi">
+<!ENTITY chooseLanguage.label         "Khetha ulwimi oluthandayo lokubonisa amakhasi">
+<!ENTITY chooseButton.label           "Choose…">
+<!ENTITY chooseButton.accesskey       "o">

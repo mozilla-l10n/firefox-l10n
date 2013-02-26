@@ -1,0 +1,106 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "I-Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Ungqamaniso">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "i-&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Nxibelelana kwi-syncBrand.shortName.label">
+<!ENTITY sync.title.adddevice.label "Yongeza i-&syncBrand.fullName.label; Account">
+<!ENTITY sync.title.pair.label "Hambisa ngambini iSixhobo">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Ukusenza sisebenze isixhobo sakho esitsha, khetha “Useto &syncBrand.shortName.label;” kwisixhobo.">
+<!ENTITY sync.subtitle.header2.label "Ngenisa le khowudi kwesinye isixhobo sakho">
+<!ENTITY sync.subtitle.connectlocation2.label "Khetha “&sync.title.pair.label;” kwicandelo le-&syncBrand.shortName.label; lendlela yokhetho yesinye isixhobo sakho\ se-Firefox.">
+<!ENTITY sync.subtitle.pair.label "Ukuvuselela, khetha “Hambisa ngambini isixhobo” kwesinye isixhobo sakho.">
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Ndibonise ukuba kanjani na.">
+<!ENTITY sync.link.advancedsetup.label "Useto oluqhubele phambili...">
+<!ENTITY sync.link.nodevice.label "Andina\\u0027so isixhobo kum…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Ilindele esinye isixhobo…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Ngenisa inkcazelo yeakhawunti yakho ye-&syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Igama Leakhawunti">
+<!ENTITY sync.input.password.label "Iphaswedi">
+<!ENTITY sync.input.key.label "IQhosha lokuFumana">
+<!ENTITY sync.checkbox.server.label "Sebenzisa iseva yekhastom">
+<!ENTITY sync.input.server.label "Iseva URL">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Ayinakuseta i-&syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "I-&syncBrand.fullName.label; ayikwazanga ukunxibelela kwiseva. Ungathanda ukuzama kwakhona?">
+<!ENTITY sync.button.tryagain.label 'Try again'>
+<!ENTITY sync.button.manual.label "Useto lweManyuwali">
+<!ENTITY sync.subtitle.nointernet.label "Alufumaneki unxibelelwano lweintanethi.">
+<!ENTITY sync.subtitle.failaccount.label "Uyilo lweakhawunti kwisixhobo sakho aluphumelelanga">
+<!ENTITY sync.subtitle.failmultiple.label "Ingaba une-Firefox engaphaya kwenye efakelweyo? Ngokunje, i-&syncBrand.fullName.label; ixhasa kuphela ufakelo lwe-Firefox enye ngexesha. Nceda ukhuphe ufakelo lwezinye iimeko usebenzise i-&syncBrand.shortName.label;.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Useto lugqityiwe">
+<!ENTITY sync.subtitle.success.label1 "Ingcombolo yakho ngoku iyalayishwa ngasemva. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye uqalise ukubhrawuza nge-&brandShortName;.">
+<!ENTITY sync.settings.label "Iisetingi">
+<!ENTITY sync.subtitle.manage.label1 "I-akhawunti yakho ye-&syncBrand.fullName.label; sele isetiwe. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanyer ukulontsha i-brandShortName">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Nceda uzame kwakhona.">
+<!ENTITY sync.pair.connectlocation.label "Ukuvuselela isixhobo sakho esitsha, khetha “Seta i-&syncBrand.shortName.label;” kwisixhobo, uze ukhethe “Ndinayo iAkhawunti.”">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Iindlela zokhetho">
+<!ENTITY sync.summary.pair.label "Dibanisa esinye isixhobo kwiakhawunti yakho ye-&syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "Into emayingqanyaniswe">
+<!ENTITY sync.configure.engines.sync.my.title.label "Ungqamaniso lwakho...">
+<!ENTITY sync.configure.engines.title.bookmarks "Izalathisi eziphawulayo">
+<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.history "Imbali">
+<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Rhoxisa">
+<!ENTITY sync.button.connect.label "Nxibelelanisa">
+<!ENTITY sync.button.ok.label "Kulungile">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "i-&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Imenyu yeZalathisi eziphawulayo">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Tags'>
+<!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
+<!ENTITY bookmarks.folder.unfiled.label "IZalathisi eziphawulayo ezingalungiswanga">
+<!ENTITY bookmarks.folder.desktop.label "IZalathisi eziphawulayo zedesktop">
+<!ENTITY bookmarks.folder.mobile.label "IZalathisi eziphawulayo zemobhayile">
+<!ENTITY bookmarks.folder.readinglist.label "ULuhlu lokufunda">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Okuqhotyoshelweyo">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Inye kuphela iakhawunti ye-&syncBrand.fullName.label; exhasiweyo.">
+<!ENTITY sync.notification.configure.saved "Ukhetho lwakho lugciniwe.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "Igama leakhawunti okanye iphaswedi">
+<!ENTITY sync.invalidserver.label "Nceda ungenise iseva URL esebenzayo">
+<!ENTITY sync.verifying.label "Iyangqinisekisa...">
+<!ENTITY sync.new.recoverykey.status.incorrect "IQhosha lokuFumana alichanekanga. Nceda uzame kwakhona.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "Thumela iThebhu kwiZixhobo">
+<!ENTITY sync.button.send.label "Thumela">
+<!ENTITY sync.button.set.up.sync.label "Seta i-&syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Seta i-&syncBrand.shortName.label; ukuthumela iithebhu">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Seta i-&syncBrand.fullName.label; kwisixhobo sakho ukuthumela iithebhu kwezinye izixhobo.">
+<!ENTITY sync.text.tab.sent.label "Ithebhu yakho ithunyelwe!">
+<!ENTITY sync.text.tab.not.sent.label "Kubekho ingxaki ekuthumeleni ithebhu yakho.">

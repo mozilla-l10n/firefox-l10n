@@ -1,20 +1,24 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newPagesIn.label "New pages should be opened in:">
-<!ENTITY inNewWindow.label "ifestile enntsha">
-<!ENTITY inNewWindow.accesskey "n">
-<!ENTITY inNewTab.label "a new tab">
-<!ENTITY inNewTab.accesskey "t">
+<!ENTITY newWindowsAsTabs.label       "Vula iifestile ezintsha kwithebhu entsha">
+<!ENTITY newWindowsAsTabs.accesskey   "k">
 
-<!ENTITY warnCloseMultipleTabs.label "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "Warn me when opening multiple tabs might slow down &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi zingacothisa i-&brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "u">
 
-<!ENTITY showTabBar.label "Always show the tab bar">
-<!ENTITY showTabBar.accesskey "b">
+<!ENTITY showTabBar.label             "Soloko ubonisa ibha yethebhu">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label "When I open a link in a new tab, switch to it immediately">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY restoreTabsOnDemand.label        "Musa ukulayisha iithebhu de zibe zikhethiwe">
+<!ENTITY restoreTabsOnDemand.accesskey    "u">
+
+<!ENTITY switchToNewTabs.label        "Xa ndivula ikhonkco kwithebhu entsha, tshintshela kuyo ngokukhawuleza">
+<!ENTITY switchToNewTabs.accesskey    "t">
+
+<!ENTITY showTabsInTaskbar.label          "Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
