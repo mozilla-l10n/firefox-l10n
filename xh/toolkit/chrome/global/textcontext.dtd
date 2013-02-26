@@ -1,19 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Sika">
 <!ENTITY cutCmd.accesskey "k">
 <!ENTITY copyCmd.label "Kopa">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Ncamathelisa">
-<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.accesskey "N">
 <!ENTITY undoCmd.label "Qhaqha okwenzileyo">
-<!ENTITY undoCmd.accesskey "q">
+<!ENTITY undoCmd.accesskey "Q">
 <!ENTITY selectAllCmd.label "Khetha Konke">
-<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY selectAllCmd.accesskey "K">
 <!ENTITY deleteCmd.label "Cima">
-<!ENTITY deleteCmd.accesskey "c">
-<!ENTITY spellAddToDictionary.label "Add to dictionary">
-<!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Spell check this field">
-<!ENTITY spellEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
+<!ENTITY deleteCmd.accesskey "C">
+
+<!ENTITY spellAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Rhoxisa ukongeza kwisichazimagama">
+<!ENTITY spellUndoAddToDictionary.accesskey "x">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Akukho zingcamango zopelo)">
 <!ENTITY spellDictionaries.label "Languages">
 <!ENTITY spellDictionaries.accesskey "l">

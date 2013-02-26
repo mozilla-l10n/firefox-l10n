@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Ukubhrawuza kwangasese">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Uvule ithebhu yangasese entsha.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Awukho kwithebhu yangasese.">
+
+<!ENTITY privatebrowsingpage.description            "Kwithebhu zangasese, i-&brandShortName; ayiyi kugcina nayiphi na imbali yebhrawuza, imbali yokukhangela, imbali yokukhutshelwayo, imbali yefom yewebhu, iikhukhi okanye iifayile zeintanethi zethutyana. Kodwa ke iifayile ozikhuphelayo neebhukmakhi ozenzayo ziya kugcinwa.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Ngelixa esi sixhobo singayi kuba narekhodi yembali yokubhrawuza kwakho, umnikezeli wenkonzo yeintanethi uya kuba nakho ukulanda umkhondo wamakhasi owatyelelayo. ">

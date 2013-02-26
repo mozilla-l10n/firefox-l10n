@@ -1,47 +1,57 @@
-<!ENTITY printCmd.commandkey "p">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY backButton.label "Emva">
-<!ENTITY backButton.accesskey "E">
-<!ENTITY backButton.tooltip "Buya umva ngekhasi elinye">
-<!ENTITY forwardButton.label "Gqithisela phambili">
-<!ENTITY forwardButton.accesskey "G">
-<!ENTITY forwardButton.tooltip "Yiya phambili ngekhasi elinye">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Ekhaya">
-<!ENTITY homeButton.tooltip "Yiya Kwikhasi Lomqalisi Woncedo">
-<!ENTITY printButton.label "Shicilela">
-<!ENTITY printButton.tooltip "Shicilela eli khasi">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY throbberItem.title "Umalathisi Womsebenzi">
-<!ENTITY throbber.tooltip "Yiya Kuncedo kwicandelo Lokunceda">
+<!ENTITY backButton.label               "Emva">
+<!ENTITY backButton.accesskey           "E">
+<!ENTITY backButton.tooltip             "Buya umva ngekhasi elinye">
+<!ENTITY forwardButton.label            "Gqithisela phambili">
+<!ENTITY forwardButton.accesskey        "G">
+<!ENTITY forwardButton.tooltip          "Yiya phambili ngekhasi elinye">
+<!ENTITY copyCmd.label                  "Kopa">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Khetha Konke">
+<!ENTITY selectAllCmd.accesskey         "K">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Ekhaya">
+<!ENTITY homeButton.tooltip             "Yiya Kwikhasi Lomqalisi Woncedo">
+<!ENTITY printButton.label              "Shicilela">
+<!ENTITY printButton.tooltip            "Shicilela eli khasi">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY searchtab.label "Zingela">
-<!ENTITY searchtab.accesskey "Z">
-<!ENTITY toctab.label "Iziqulatho">
-<!ENTITY toctab.accesskey "I">
+<!ENTITY search.emptytext               "Search">
+<!ENTITY searchHeader.label             "Search results">
+<!ENTITY toctab.label                   "Iziqulatho">
+<!ENTITY toctab.accesskey               "I">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "Soloko ingaPhezulu">
-<!ENTITY zLevel.accesskey "P">
+<!ENTITY zLevel.label                   "Soloko ingaPhezulu">
+<!ENTITY zLevel.accesskey               "P">
 
-<!ENTITY textZoomReduceBtn.label "Nciphisa Ubukhulu Besiqendu">
-<!ENTITY textZoomReduceBtn.accesskey "N">
-<!ENTITY textZoomEnlargeBtn.label "Yandisa Ubukhulu Besiqendu">
-<!ENTITY textZoomEnlargeBtn.accesskey "Y">
+<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

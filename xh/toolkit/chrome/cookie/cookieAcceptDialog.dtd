@@ -1,20 +1,21 @@
-<!ENTITY props.box.label "Malunga nale cookie">
-<!ENTITY props.name.label "Igama:">
-<!ENTITY props.value.label "Isiqulatho:">
-<!ENTITY props.domain.label "Umamkeli:">
-<!ENTITY props.path.label "Indlela yothungelwano:">
-<!ENTITY props.secure.label "Thumela Apha:">
-<!ENTITY props.expires.label "Kuphelelwa lixesha:">
-<!ENTITY props.policy.label "Umgaqonkqubo:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY button.allow.label "Vumela">
-<!ENTITY button.allow.accesskey "V">
-<!ENTITY button.session.label "Vumela Iseshoni">
-<!ENTITY button.session.accesskey "I">
-<!ENTITY button.deny.label "Khanyela">
-<!ENTITY button.deny.accesskey "K">
+<!ENTITY     props.name.label               "Igama:">
+<!ENTITY     props.value.label              "Isiqulatho:">
+<!ENTITY     props.domain.label             "Umsindleki:">
+<!ENTITY     props.path.label               "Indlela yothungelwano:">
+<!ENTITY     props.secure.label             "Thumela Apha:">
+<!ENTITY     props.expires.label            "Kuphelelwa lixesha:">
 
-<!ENTITY dialog.title "Qinisekisa i-cookie emiselwayo">
-<!ENTITY dialog.remember.label "Sebenzisa okukhethwe ndim malunga nazo zonke ii-cookie ezivela kwesi siza">
-<!ENTITY dialog.remember.accesskey "S">
+<!ENTITY     button.allow.label             "Vumela">
+<!ENTITY     button.allow.accesskey         "V">
+<!ENTITY     button.session.label           "Vumela iseshoni">
+<!ENTITY     button.session.accesskey       "i">
+<!ENTITY     button.deny.label              "Khanyela">
+<!ENTITY     button.deny.accesskey          "K">
 
+<!ENTITY     dialog.title                   "Qinisekisa ukusetwa kwekhukhi">
+<!ENTITY     dialog.remember.label          "Sebenzisa zonke iikhukhi ezikhethwe ndim kule sayithi">
+<!ENTITY     dialog.remember.accesskey      "S">

@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+
+<!ENTITY fileMenu.label                     "Ifayili">
+<!ENTITY fileMenu.accesskey                 "I">
+
+<!ENTITY quitApplicationCmdWin.label        "Exit">
+<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmd.label           "Yeka">
+<!ENTITY quitApplicationCmd.accesskey       "Y">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "Fihla ezinye">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Show All">
+
+<!ENTITY editMenu.label                     "Hlela">
+<!ENTITY editMenu.accesskey                 "H">
+<!ENTITY undoCmd.label                      "Qhaqha okwenzileyo">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "Q">
+<!ENTITY redoCmd.label                      "Phinda wenze">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "P">
+<!ENTITY cutCmd.label                       "Sika">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "k">
+<!ENTITY copyCmd.label                      "Kopa">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "K">
+<!ENTITY pasteCmd.label                     "Ncamathelisa">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "N">
+<!ENTITY deleteCmd.label                    "Cima">
+<!ENTITY deleteCmd.key                      "U">
+<!ENTITY deleteCmd.accesskey                "C">
+<!ENTITY selectAllCmd.label                 "Khetha Konke">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "K">

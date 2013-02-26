@@ -1,15 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY history.title "Imbali Yohlaziyo">
-<!ENTITY history.intro "Iziganeko zohlaziyo ezilandelayo zihlohliwe:">
-<!ENTITY closebutton.label "Vala">
+
+<!ENTITY  history.title             "Imbali yohlaziyo">
+<!ENTITY  history.intro             "Uhlaziyo olulandelayo lufakelwe:">
+<!ENTITY  closebutton.label         "Vala">
                                      
-<!ENTITY detailsButton.label "Iinkcukacha">
-<!ENTITY detailsButton.accesskey "I">
+<!ENTITY  noupdates.label           "Akukho luhlaziyo selufakelwe">
 
-<!ENTITY noupdates.label "Akukho ziganeko zohlaziyo esezihlohliwe">
-
-<!ENTITY name.header "Igama Lohlaziyo">
-<!ENTITY date.header "Umhla Wokuhlohla">
-<!ENTITY type.header "Isimbo">
-<!ENTITY state.header "Umbuso">
+<!ENTITY  name.header               "Igama lohlaziyo">
+<!ENTITY  date.header               "Umhla wokufakela">
+<!ENTITY  type.header               "Udidi">
+<!ENTITY  state.header              "Ilizwe">
 

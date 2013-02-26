@@ -1,11 +1,9 @@
-<!ENTITY window.width "38em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ocspDialog.title "Ukunyanisekiswa">
-<!ENTITY validation.ocsp.description "I-&brandShortName; isenokusebenzisa Inkqubo Yomthetho Yesimo Sesatifikethi Esisekhompyutheni (OCSP) ukuqinisekisa izatifikethi. Misela i-&brandShortName; ukuze usebenzise i-OCSP ngale ndlela ilandelayo:">
-<!ENTITY disableOCSP.label "Musa ukusebenzisa i-OCSP ukunyanisekisa izatifikethi">
-<!ENTITY certOCSP.label "Sebenzisa i-OCSP ukunyanisekisa izatifikethi kuphela ezixela inkonzo ye-URL ye-OCSP">
-<!ENTITY proxyOCSP.label "Sebenzisa i-OCSP ukunyanisekisa zonke izatifikethi ngokusebenzisa le-URL nomsayini:">
-<!ENTITY serviceURL.label "I-Nkonzo ye-URL:">
-<!ENTITY serviceURL.accesskey "N">
-<!ENTITY signingCA.label "Umsayini Wempendulo:">
-<!ENTITY signingCA.accesskey "U">
+<!ENTITY ocspDialog.title             "Certificate Validation">
+<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey         "U">
+<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY requireOCSP.accesskey        "W">

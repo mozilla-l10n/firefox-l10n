@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -25,7 +29,7 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Ifayili ayifunyenwanga">
+<!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Check the file name for capitalization or other typing errors.</li>
@@ -34,8 +38,8 @@
 ">
 
 
-<!ENTITY generic.title "Yhoo.">
-<!ENTITY generic.longDesc "<p>i-&brandShortName; ayikwazi kulayisha eli khasi ngenxa yesizathu esithile.</p>">
+<!ENTITY generic.title "Oops">
+<!ENTITY generic.longDesc "<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "
@@ -47,15 +51,26 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Umdibaniso uphazamisekile">
+<!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Uxwebhu luphelelwe">
+<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
+
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Uncheck &quot;Work Offline&quot; in the File menu, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Cinezela &quot; Zama kwakhona&quot; ukutshintshela kwimo yenethiwekhi uze ulayishe ikhasi.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Udidi lwefayile engakhuselekanga">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Umdibaniso uphinde wamiselwa">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -70,7 +85,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Iseva engummeli yala imidibaniso">
+<!ENTITY proxyConnectFailure.title "Iseva yommeli ayiluvumeli unxibelelwano">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Check the proxy settings to make sure that they are correct.</li>
@@ -79,7 +94,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Akuphumelelanga ukufumana iseva yommeli">
+<!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Check the proxy settings to make sure that they are correct.</li>
@@ -89,7 +104,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Eli khasi aliyiguquli intsingiselo ngokufanelekileyo">
+<!ENTITY redirectLoop.title "Ikhasi alithumeli kwenye indawo kakuhle">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>This problem can sometimes be caused by disabling or refusing to accept
@@ -97,7 +112,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Impendulo engalindelekanga evela kwiseva">
+<!ENTITY unknownSocketType.title "Impendulo engalindelekanga kwiseva">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Check to make sure your system has the Personal Security Manager
@@ -105,6 +120,20 @@
   <li>This might be due to a non-standard configuration on the server.</li>
 </ul>
 ">
+
+<!ENTITY nssFailure2.title "Unxibelelwano lokhuseleko aluphumelelanga">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ikhasi ozama ukulijonga alinakuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li> 
+<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki. Kungenjalo, sebenzisa umyalelo ofunyanwa kwimenyu yoncedo ukunika ingxelo ngesayithi eyonakeleyo.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Unxibelelwano lokhuseleko aluphumelelanga">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Oku kusenokuba yingxaki kulungiselelo lweseva okanye 
+mntu uthile uzama ukuzenza umnini weseva.</li> 
+<li>Ukuba wawunxityelelwe kule seva ngempumelelo ngaphambili, imposiso ise
+nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
+</ul>">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -116,3 +145,34 @@
     that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
+
+<!ENTITY malwareBlocked.title "Isayithi yohlaselo ekrokrelekayo!">
+<!ENTITY malwareBlocked.longDesc "<p>Iisayithi zohlaselo zizama ukufakela iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlazela ezinye okanye zonakalise ikhompyutha yakho.</p> 
+<p>Abanini bewebhusayithi abakholelwa ukuba isayithi yabo ichazwe njengesayithi yohlaselo ngempazamo  <a href='http://www.stopbadware.org/home/reviewinfo' >bangacela ukuba ijongwe kwakhona</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Inkohliso yewebhu ekrokrelekayo!">
+<!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
+<p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "I-<p>&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
+
+<!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
+<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">
+<!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini...">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p> Akumele kongeza ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembi ncam okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p>  
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Susa i-XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">

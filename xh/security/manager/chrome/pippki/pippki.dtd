@@ -1,43 +1,10 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Terry Hayes <thayes@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title "Guqula Igama Lokugqithisa Elingumalathindlela">
-<!ENTITY setPassword.tokenName.label "Isixhobo Sokhuseleko">
+<!ENTITY setPassword.title  "Guqula Igama Lokugqithisa Elingumalathindlela">
+<!ENTITY setPassword.tokenName.label "Security Device">
 <!ENTITY setPassword.oldPassword.label "Igama lokugqithisa langoku:">
 <!ENTITY setPassword.newPassword.label "Igama lokugqithisa elitsha:">
 <!ENTITY setPassword.reenterPassword.label "Igama lokugqithisa (kwakhona):">
@@ -46,12 +13,12 @@
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Phinda umisele">
-<!ENTITY resetPassword.title "Phinda Umisele Igama Lokugqithisa Elingumalathindlela">
-<!ENTITY resetPassword.text "Ukuba uphinda umisele igama lokugqithisa elingumalathindlela, onke amagama akho okugqithisa othungelwano nawemeyile alondoloziweyo, enza iinkcukacha, izatifikethi zobuqu bomntu, namaqhosha abucala aya kulityalwa. Uqinisekile ufuna ukuphinda umisele igama lakho lokugqithisa elingumalathindlela?">
+<!ENTITY resetPassword.title  "Phinda Umisele Igama Lokugqithisa Elingumalathindlela">
+<!ENTITY resetPassword.text  "Ukuba uphinda umisele igama lokugqithisa elingumalathindlela, onke amagama akho okugqithisa othungelwano nawemeyile alondoloziweyo, enza iinkcukacha, izatifikethi zobuqu bomntu, namaqhosha abucala aya kulityalwa. Uqinisekile ufuna ukuphinda umisele igama lakho lokugqithisa elingumalathindlela?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title "Ngenisa Igama Lokugqithisa Elingumalathindlela">
-<!ENTITY getPassword.tokenName.label "Isixhobo Sokhuseleko">
+<!ENTITY getPassword.title  "Ngenisa Igama Lokugqithisa Elingumalathindlela">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Igama lokugqithisa:">
 <!-- These should be common -->
 
@@ -70,7 +37,7 @@
 
 <!ENTITY downloadCert.title "Kuthotywa Umthwalo Wesatifikethi">
 <!ENTITY downloadCert.message1 "Ucelwe ukuba uthembe Ugunyaziwe Wesatifikethi omtsha (CA).">
-<!ENTITY downloadCert.trustSSL "Themba le-CA ukuchonga iziza zothungelwano.">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
 <!ENTITY downloadCert.trustEmail "Themba le-CA ukuchonga abasebenzisi bemeyile.">
 <!ENTITY downloadCert.trustObjSign "Themba le-CA ukuchonga abaphuhlisi benkqubo.">
 <!ENTITY downloadCert.message3 "Phambi kokuyithemba le-CA ngaso nasiphi isizathu, kufuneka uqale uhlole isatifikethi sayo nomgaqonkqubo kunye neendlela zokuqhuba (ukuba zikhona).">
@@ -82,15 +49,6 @@
 
 <!ENTITY caCertExists.title "Isatifikethi Sikhona">
 <!ENTITY caCertExists.message "Isatifikethi sesikhona.">
-<!-- Strings for the MismatchDomain dialog  -->
-
-<!ENTITY domainMismatch.title "Imposiso Yokhuseleko: Igama Lommandla Alihambelani">
-<!ENTITY examineCert.label "Isatifikethi Sokujonwa">
-<!ENTITY examineCert.accesskey "I">
-<!-- Strings for the Server cert expired dialog  -->
-
-<!ENTITY serverCertExpired.continue "Ingaba unqwenela ukuqhuba nokuba kunjalo?">
-<!ENTITY serverCertExpired.accept.label "Qhuba">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Isicelo Sokuchongeka Somsebenzisi">
@@ -100,34 +58,45 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Khetha Isatifikethi">
-<!ENTITY certPicker.info "Isatifikethi:">
+<!ENTITY certPicker.info  "Isatifikethi:">
 <!ENTITY certPicker.detailsLabel "Iinkcukacha zesatifikethi esikhethiweyo:">
 
-<!ENTITY pkcs12.setpassword.title "Khetha Isatifikethi Segama Lokugqithisa Lekopi Egciniweyo">
-<!ENTITY pkcs12.setpassword.message "Igama lokugqithisa lekopi yesatifikethi osimiselayo apho sikhusela ifayili yekopi eciniweyo oza kuyiyila msinyane.  Kufuneka umisele eli gama lokugqithisa ukuze uqhube ngekopi egcinwayo.">
+<!ENTITY pkcs12.setpassword.title  "Khetha Isatifikethi Segama Lokugqithisa Lekopi Egciniweyo">
+<!ENTITY pkcs12.setpassword.message  "Igama lokugqithisa lekopi yesatifikethi osimiselayo apho sikhusela ifayili yekopi eciniweyo oza kuyiyila msinyane.  Kufuneka umisele eli gama lokugqithisa ukuze uqhube ngekopi egcinwayo.">
 <!ENTITY pkcs12.setpassword.label1 "Igama lokugqithisa lekopi egcinwayo yesatifikethi:">
 <!ENTITY pkcs12.setpassword.label2 "Igama lokugqithisa lekopi egcinwayo yesatifikethi (kwakhona):">
 <!ENTITY pkcs12.setpassword.reminder "Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi egcinwayo yesatifikethi sakho, akusayi kukwazi ukubuyisela ikopi egcinwayo emva kwethuba.  Nceda yigcine ngokuyibhala kwindawo yokugcina ekhuselekileyo.">
 
-<!ENTITY pkcs12.getpassword.title "Ingxoxo Yongeniso Lwegama Lokugqithisa">
+<!ENTITY pkcs12.getpassword.title  "Ingxoxo Yongeniso Lwegama Lokugqithisa">
 <!ENTITY pkcs12.getpassword.message "Nceda ngenisa igama lokugqithisa ebelisetyenziswa xa kusenziwa uguqulelo oluntsonkothileyo ngekopi egcinwayo yesi satifikethi.">
 
-<!ENTITY chooseToken.title "Khetha Ingxoxo Yomqondiso">
+<!ENTITY chooseToken.title  "Khetha Ingxoxo Yomqondiso">
 <!ENTITY chooseToken.message1 "Nceda khetha umqondiso.">
 
 <!ENTITY escrowWarn.title "Ikopi yeqhosha Loguqulelo Oluntsonkothileyo">
 <!ENTITY escrowWarn.message1 "Okubalulekileyo: Lo gunyaziwe wesatifikethi ucele ukwenza ikopi egcinwayo yeqhosha labucala loguqulelo oluntsonkothileyo lwakho.">
 <!ENTITY escrowWarn.benefit1 "Inzuzo kukuba xa unokulahlekelwa lufikelelo lweqhosha labucala loguqulelo oluntsonkothileyo lwakho, usenokucela ikopi kulo gunyaziwe wesatifikethi.">
 <!ENTITY escrowWarn.message2 "Naxa kunjalo, iqhosha labucala loguqulelo oluntsonkothileyo liya kulondolozwa ngugunyaziwe wesatifikethi, kwaye lisenokusetyenziselwa ukufunda imeyile yakho yoguqulelo oluntsonkothileyo okanye amaxwebhu ngaphandle kwemvume yakho.">
+<!ENTITY examineCert.label "Isatifikethi Sokujonwa">
+<!ENTITY examineCert.accesskey "I">
 
 <!ENTITY serverCrlNextupdate.message "Nceda cela ulawulo lwesixokelelwano sakho ngoncedo">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kudalwa Iqhosha Labucala">
-<!ENTITY createCertInfo.msg1 "Ukudalwa Kweqhosha kuyaqhuba... Oku kunokuthatha imizuzu embalwa....">
-<!ENTITY createCertInfo.msg2 "Nceda linda...">
+<!ENTITY createCertInfo.msg1 "Ukudalwa Kweqhosha kuyaqhuba… Oku kunokuthatha imizuzu embalwa….">
+<!ENTITY createCertInfo.msg2 "Nceda linda…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Isicelo Sokusayina Isiqendu">
 <!ENTITY formSigning.cert "Kusayinwa Isatifikethi">
 <!ENTITY formSigning.confirmPassword "Ukuqinisekisa ukuba uyavuma ukusayina lo myalezo wesiqendu ngokusebenzisa isatifikethi esikhethiweyo sakho, nceda qinisekisa ngokungenisa igama lokugqithisa elingumalathindlela:">
+<!-- Strings for protectedAuth dialog -->
+
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

@@ -1,44 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Imimiselo Yomdibaniso">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
 
-<!ENTITY proxyTitle.label "Yenza Ubumbeko Lwabameli ukuze Ufikelele Kunxibelelwano">
-<!ENTITY directTypeRadio.label "Umdibaniso ongqale Kunxibelelwano">
-<!ENTITY directTypeRadio.accesskey "u">
-<!ENTITY WPADTypeRadio.label "Kuboniswa ngokuzenzekela imimiselo yommeli ukwenzela lo msebenzi wothungelwano">
-<!ENTITY WPADTypeRadio.accesskey "t">
-<!ENTITY manualTypeRadio.label "Ubumbeko olumele olunye olwenziwa ngesandla:">
-<!ENTITY manualTypeRadio.accesskey "u">
-<!ENTITY autoTypeRadio.label "Ubumbeko lwe-URL olumele olunye noluzenzekelayo:">
-<!ENTITY autoTypeRadio.accesskey "n">
-<!ENTITY configAutoconfigText.label "Indawo olukuyo ubumbeko lwe-(URL):">
-<!ENTITY configAutoconfigText.accesskey "u">
-<!ENTITY reload.label "Phinda ulayishe">
-<!ENTITY reload.accesskey "l">
-<!ENTITY ftp.label "Ummeli we-FTP:">
-<!ENTITY ftp.accesskey "U">
-<!ENTITY gopher.label "Ummeli we-Gopher:">
-<!ENTITY gopher.accesskey "U">
-<!ENTITY http.label "Ummeli we-HTTP:">
-<!ENTITY http.accesskey "l">
-<!ENTITY ssl.label "Ummeli we-SSL:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Umamkeli we-SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "I-SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "I-SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Isiqhagamshelisi:">
-<!ENTITY HTTPport.accesskey "q">
-<!ENTITY SSLport.accesskey "g">
-<!ENTITY FTPport.accesskey "s">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "l">
-<!ENTITY noproxy.label "Akukho mmeli woku:">
-<!ENTITY noproxy.accesskey "a">
-<!ENTITY noproxyExplain.label "Umzekelo: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Sebenzisa lo mmeli weseva kuzo zonke iinkqubo zomthetho">
-<!ENTITY shareproxy.accesskey "m">
+<!ENTITY  connectionsDialog.title       "Iisethingi zonxibelelwano">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Lungisa iiproksi ukungena kwi-intanethi">
+<!ENTITY  noProxyTypeRadio.label        "Akukho proksi">
+<!ENTITY  noProxyTypeRadio.accesskey    "s">
+<!ENTITY  systemTypeRadio.label         "Sebenzisa iisethingi zeproksi yekhompyutha">
+<!ENTITY  systemTypeRadio.accesskey     "S">
+<!ENTITY  WPADTypeRadio.label           "Ukuzifumanela iisethingi zeproksi yale nethiwekhi">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Ulungiso lwepeoksi olwenziwa ngesandla:">
+<!ENTITY  manualTypeRadio.accesskey     "U">
+<!ENTITY  autoTypeRadio.label           "I-URL yolungiso lweproksi oluzenzekelayo:">
+<!ENTITY  autoTypeRadio.accesskey       "o">
+<!ENTITY  reload.label                  "Khuphela kwakhona">
+<!ENTITY  reload.accesskey              "u">
+<!ENTITY  ftp.label                     "Iproksi ye-FTP:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.accesskey                "x">
+<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "Umsindleki we-SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "I-SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "I-SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Isiqhagamshelisi:">
+<!ENTITY  HTTPport.accesskey            "I">
+<!ENTITY  SSLport.accesskey             "q">
+<!ENTITY  FTPport.accesskey             "g">
+<!ENTITY  SOCKSport.accesskey           "l">
+<!ENTITY  noproxy.label                 "Akukho proksi ye:">
+<!ENTITY  noproxy.accesskey             "A">
+<!ENTITY  noproxyExplain.label          "Umzekelo: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  shareproxy.accesskey          "s">

@@ -1,12 +1,16 @@
-<!ENTITY dialog.title "Lungiselela Umgca wezixhobo zemiyalezo">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
-<!ENTITY instructions.description "Unako ukufakela okanye ukususa amanqaku ngokuwarhuqela kwimigca yezixhobo zemiyalezo okanye ngokuwasusa kuzo.">
-<!ENTITY show.label "Bonisa:">
-<!ENTITY iconsAndText.label "Imiqondiso yokuqulathiweyo Nesiqendu">
-<!ENTITY icons.label "Imiqondiso yokuqulathiweyo">
-<!ENTITY text.label "Isiqendu">
-<!ENTITY useSmallIcons.label "Sebenzisa Imiqondiso Yokuqulathiweyo Emincinci">
-<!ENTITY restoreDefaultSet.label "Buyisela Ummiselo Ohlala Ukho">
-<!ENTITY addNewToolbar.label "Fakela Umgca Wezixhobo Zemiyalezo Omtsha">
-<!ENTITY saveChanges.label "Kwenziwe">
-<!ENTITY undoChanges.label "Qhaqha Iinguquko Ezenziweyo">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Lungiselela ithulbha">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Ungongeza okanye ususe iiayithem ngokuzirhuqela okanye ngokuzisusa kwithulbha">
+<!ENTITY show.label               "Bonisa:">
+<!ENTITY iconsAndText.label       "Iayikhon nombhalo">
+<!ENTITY icons.label              "Iiayikhon">
+<!ENTITY text.label               "Umbhalo">
+<!ENTITY useSmallIcons.label      "Sebenzisa iiayikhon ezincinci">
+<!ENTITY restoreDefaultSet.label  "Buyisela iseti esisiseko">
+<!ENTITY addNewToolbar.label      "Fakela ithulbha entsha">
+<!ENTITY saveChanges.label        "Kwenziwe">
+<!ENTITY undoChanges.label        "Rhoxisa utshintsho olwenzekileyo">

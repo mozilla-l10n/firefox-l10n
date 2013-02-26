@@ -1,20 +1,25 @@
-<!ENTITY newprofile.title "Yila Uncedo Lwenkangeleko Yesimo">
-<!ENTITY window.size "width: 45em; height: 32em;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newprofile.title             "Yenza igcisa leprofayile">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
-<!ENTITY profileCreationExplanation_1.text "I-&brandShortName; ilondoloza ulwazi ngemimiselo yakho nangezikhethwa ezikwinkangeleko yesimo esisesakho.">
-<!ENTITY profileCreationExplanation_2.text "Ukuba wabelana ngale kopi ye-&brandShortName; nabanye abasebenzisi, unako ukusebenzisa iinkangeleko zesimo ukuze ugcine ulwazi lomsebenzisi ngamnye luhamba lodwa. Ukuze ukwenze oku, umsebenzisi ngamnye makayile inkangeleko yesimo eyiyeyakhe.">
-<!ENTITY profileCreationExplanation_3.text "Ukuba nguwe wedwa umntu osebenzisa le kopi ye-&brandShortName;, obona buncinci unenkangeleko yesimo enye. Xa unokuba nomnqweno, unokuziyilela iinkangeleko ezininzi uze ulondoloze iiseti ezahlukahlukeneyo nezikhethwa. Umzekelo, usenokufuna ukuba neenkangeleko zesimo ezihamba zodwa ukwenzela ushishino nokuzisebenzisela ubuqu bakho.">
-<!ENTITY profileCreationExplanation_4.text "Ukuqalisa ukuyila inkangeleko yesimo yakho, nqomfa ku-Okulandelayo.">
-<!ENTITY profileCreationExplanation_4Mac.text "To begin creating your profile, click Continue.">
+<!ENTITY profileCreationExplanation_1.text  "I-&brandShortName; igcina inkcazelo engeesethingi zakho neepriferensi kwiprofayile yakho.">
+<!ENTITY profileCreationExplanation_2.text  "Ukuba wabelana ngale kopi ye-&brandShortName; nabanye abasebenzisi, ungasebenzisa iiprofayile ukugcina inkcazelo yomsebenzisi ngamnye ngokwahlukeneyo. Ukwenza oku, umsebenzisi ngamnye kufanele enze iprofayile yakhe.">
+<!ENTITY profileCreationExplanation_3.text  "Ukuba nguwe kuphela osebenzisa le kopi ye-&brandShortName;, kufuneka ube neprofayile enye. Ukuba uyathanda, ungazenzela iiprofayile ezininzi ukugcina iiseti ezahlukeneyo zeesethingi neepriferensi. Umzekelo, usenokufuna ukuba neeprofayile ezahlukeneyo zoshishino nezinto zakho.">
+<!ENTITY profileCreationExplanation_4.text  "To begin creating your profile, click Next.">
+<!ENTITY profileCreationExplanation_4Mac.text  "To begin creating your profile, click Continue.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "To begin creating your profile, click Next.">
 <!-- Second wizard page -->
 
-<!ENTITY profileCreationIntro.text "Ukuba uyila iinkangeleko zesimo eziliqela unokuzixela ngokwahlukana kwazo ngokwamagama eenkangeleko zesimo. Usenokusebenzisa igama elinikwe apha okanye usebenzise elilelakho.">
-<!ENTITY profilePrompt.label "Ngenisa igama elitsha lenkangeleko yesimo:">
-<!ENTITY profilePrompt.accesskey "N">
-<!ENTITY profileDirExplanation.text "Imimiselo yakho yomsebenzisi, izikhethwa, iimpawu zesalathisi nemeyile ziya kulondolozwa apha:">
-<!ENTITY profileDefaultName "Umsebenzisi Ohlala Ekho">
-<!ENTITY button.choosefolder.label "Khetha Isiqulathi Seefayili...">
-<!ENTITY button.choosefolder.accesskey "K">
-<!ENTITY button.usedefault.label "Sebenzisa Isiqulathi Seefayili Esihlala Sikho">
-<!ENTITY button.usedefault.accesskey "S">
+<!ENTITY profileCreationIntro.text      "Ukuba wenza iiprofayile ezininzi ungazixelela ngokwahlukeneyo ngamagama eeprofayile.  Ungasebenzisa igama elikhoyo apha okanye usebenzise elakho">
+<!ENTITY profilePrompt.label            "Faka igama elitsha leprofayile:">
+<!ENTITY profilePrompt.accesskey        "F">
+<!ENTITY profileDirectoryExplanation.text   "Iisethingi zomsebenzisi, iipriferensi nezinye iingcombolo zomsebenzisi ziya kugcina.">
+<!ENTITY profileDefaultName             "Umsebenzisi osisiseko">
+<!ENTITY button.choosefolder.label      "Khetha ifolda…">
+<!ENTITY button.choosefolder.accesskey  "K">
+<!ENTITY button.usedefault.label        "Sebenzisa ifolda esisiseko">
+<!ENTITY button.usedefault.accesskey    "S">

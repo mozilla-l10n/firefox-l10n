@@ -1,30 +1,32 @@
-<!ENTITY window.width "36em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cookiesonsystem.label "Ii-cookies ezilandelayo zilondolozwe ekhompyutheni yakho:">
-<!ENTITY cookiename.label "Igama le-Cookie">
-<!ENTITY cookiedomain.label "Isiza">
-<!ENTITY button.removecookie.label "Susa i-Cookie">
-<!ENTITY button.removecookie.accesskey "S">
-<!ENTITY button.removeallcookies.label "Susa Zonke ii-Cookies">
-<!ENTITY button.removeallcookies.accesskey "Z">
+<!ENTITY window.width                       "36em">
 
-<!ENTITY props.name.label "Igama:">
-<!ENTITY props.value.label "Isiqulatho:">
-<!ENTITY props.domain.label "Umamkeli:">
-<!ENTITY props.path.label "Indlela Yothungelwano:">
-<!ENTITY props.secure.label "Thumela Apha:">
-<!ENTITY props.expires.label "Kuphelelwa lixesha:">
+<!ENTITY     cookiesonsystem.label          "Ezi khukhi zilandelayo zigcinwe kwikhompyutha:">
+<!ENTITY     cookiename.label               "Igama lekhukhi">
+<!ENTITY     cookiedomain.label             "Isayithi"> 
+<!ENTITY     button.removecookies.label     "Remove Cookies">
+<!ENTITY     button.removecookie.label      "Susa ikhukhi">
+<!ENTITY     button.removecookie.accesskey  "S">
+<!ENTITY     button.removeallcookies.label  "Susa zonke iikhukhi">
+<!ENTITY     button.removeallcookies.accesskey "z">
 
-<!ENTITY window.title "Ii-Cookies">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY     props.name.label               "Igama:">
+<!ENTITY     props.value.label              "Isiqulatho:">
+<!ENTITY     props.domain.label             "Umsindleki:">
+<!ENTITY     props.path.label               "Indlela yothungelwano:">
+<!ENTITY     props.secure.label             "Thumela Apha:">
+<!ENTITY     props.expires.label            "Kuphelelwa lixesha:">
 
-<!ENTITY filter.label "Zingela:">
-<!ENTITY filter.accesskey "Z">
-<!ENTITY clear.label "Sula">
-<!ENTITY clear.accesskey "u">
+<!ENTITY     window.title                   "Iikhukhi">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY button.close.label "Vala">
-<!ENTITY button.close.accesskey "V">
+<!ENTITY     filter.label                   "Khangela:">
+<!ENTITY     filter.accesskey               "K">
 
+<!ENTITY     button.close.label             "Vala">
+<!ENTITY     button.close.accesskey         "V">

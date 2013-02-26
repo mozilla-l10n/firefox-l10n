@@ -1,49 +1,45 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Nciphisa">
-<!ENTITY bringAllToFront.label "Zisa Konke Ngaphambili">
-<!ENTITY zoomWindow.label "Yandisa Unciphise">
-<!ENTITY windowMenu.label "Ifestile">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY helpMenu.label "Uncedo">
-<!ENTITY helpMenu.accesskey "U">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Nciphisa">
+<!ENTITY bringAllToFront.label    "Zisa konke ngaphambili">
+<!ENTITY zoomWindow.label         "Yandisa unciphise">
+<!ENTITY windowMenu.label         "Ifestile">
+
+<!ENTITY helpMenu.label           "Uncedo"> 
+<!ENTITY helpMenu.accesskey       "U"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Uncedo">
-<!ENTITY helpMenuWin.accesskey "U">
-<!ENTITY aboutCmd.label "Malunga ne-&brandFullName;">
-<!ENTITY aboutCmd.accesskey "M">
-<!ENTITY helpContents.label "Iziqulatho Zoncedo">
-<!ENTITY helpContents.accesskey "I">
-<!ENTITY helpContentsMac.label "I-&brandShortName; Uncedo">
-<!ENTITY helpForIEUsers.label "Kwenzelwe Abasebenzisi be-Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpMenuWin.label        "Uncedo"> 
+<!ENTITY helpMenuWin.accesskey    "U">
+<!ENTITY aboutProduct.label       "Malunga ne-&brandShortName;">
+<!ENTITY aboutProduct.accesskey   "M">
+<!ENTITY productHelp.label        "I-&brandShortName; Uncedo">
+<!ENTITY productHelp.accesskey    "U">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe ...">
+<!ENTITY helpSafeMode.accesskey   "Q">
 
-<!ENTITY helpReleaseNotes.label "Khulula Iingongoma">
-<!ENTITY helpReleaseNotes.accesskey "I">
-<!ENTITY updateCmd.label "Qwalasela Iziganeko Zohlaziyo...">
-<!ENTITY updateCmd.accesskey "g">
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY preferencesCmdMac.label "Preferences...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Inkcazelo yesisombululi-ngxaki">
+<!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
-<!ENTITY servicesMenuMac.label "Services">
+<!ENTITY helpFeedbackPage.label      "Thumela ingxelo ...">
+<!ENTITY helpFeedbackPage.accesskey  "T">
 
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY servicesMenuMac.label          "Iinkonzo">
+
+<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Fihla ezinye">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Show All">
+<!ENTITY showAllAppsCmdMac.label        "Show All">

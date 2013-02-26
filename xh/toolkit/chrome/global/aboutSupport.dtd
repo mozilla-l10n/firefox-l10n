@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Inkcazelo yesisombululi-ngxaki">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Eli khasi liqulethe inkcazelo yobuchwepheshe enokuba luncedo xa 
+uzama ukusombulula ingxaki. Ukuba ufuna iimpendulo kwimibuzo eqhelekileyo 
+enge-brandShortName;, khangela kwisiza sethu <a id='supportLink'>support website</a>.">
+
+<!ENTITY aboutSupport.extensionsTitle "Izandiso">
+<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionEnabled "Ezivunyelweyo">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Iziseko zeaplikheshini">
+<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Isalathiso seprofayile">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ifolda yeprofayile">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Isoftwe encedisayo evunyelweyo">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Iingxelo zomonakalo">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
+
+<!ENTITY aboutSupport.showDir.label "Isalathiso esivulekileyo">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Bonisa kwisifumanisi">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Bonisa ifolda">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Iipriferensi ezilungisiweyo ezibalulekileyo">
+<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsValue "Ixabiso">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "Iipriferensi ze-user.js">
+<!ENTITY aboutSupport.userJSDescription "Ifolda yakho yeprofayile iqulethea ifayile <a id='prefs-user-js-link'>user.js </a>, equlethe iipriferensi ezingenziwanga yi- &brandShortName;. ">
+
+<!ENTITY aboutSupport.graphicsTitle "Iigrafikhi">
+
+<!ENTITY aboutSupport.jsTitle "I-JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "I-GC eyandayo">
+
+<!ENTITY aboutSupport.a11yTitle "Ufikeleleko">
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Thintela ufikelelo">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Iinguqulelo zelayibhrari">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Imbali yofakelo">
+<!ENTITY aboutSupport.updateHistoryTitle "Imbali yohlaziyo">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "khuphela umbhalo kwiklipbhodi">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Khuphela iingcombolo ezingahlelwanga kwiklipbhodi">

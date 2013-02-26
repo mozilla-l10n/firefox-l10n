@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Ngenisa uKhangela okanye idilesi">
+
+<!ENTITY back.label            "Emva">
+<!ENTITY forward.label         "Gqithisela phambili">
+<!ENTITY reload.label          "Reload">
+<!ENTITY stop.label            "Nqumama">
+<!ENTITY go.label              "Hamba">
+<!ENTITY star.label            "Inkwenkwezi">
+
+<!ENTITY showTabs.label        "Bonisa iithebhu">
+<!ENTITY newtab.label          "New Tab">
+<!ENTITY closetab.label        "Vala iithebhu">
+
+<!ENTITY cut.label             "Sika">
+<!ENTITY copy.label            "Kopa">
+<!ENTITY copyAll.label         "Kopa konke">
+<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY paste.label           "Ncamathelisa">
+<!ENTITY pasteAndGo.label      "Ncamathisela &amp; Hamba">
+<!ENTITY delete.label          "Delete">
+<!ENTITY selectAll.label       "Select All">
+<!ENTITY noSuggestions.label   "(Akukho zingcamango)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY inputMethod.label     "Khetha indlela yegalelo">
+
+<!ENTITY allPagesHeader.label      "Onke amakhasi">
+<!ENTITY bookmarksHeader.label     "Izalathisi eziphawulayo">
+<!ENTITY historyHeader.label       "Imbali">
+<!ENTITY desktopHeader.label       "Idesktop">
+
+<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkTags.label    "Yongeza iithegi apha">
+
+<!ENTITY selectHelper.done         "Done">
+
+<!ENTITY addonsHeader.label        "Izongezelelo">
+<!ENTITY addonsLocal.label         "Izongezelelo zakho">
+<!ENTITY addonsUpdate.label        "Hlaziya">
+<!ENTITY addonsRepo.label          "Fumana izongezelelo">
+<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsSearch.label        "Khangela">
+<!ENTITY addonsSearch2.emptytext   "Ikhathalogi yokukhangela">
+<!ENTITY addonsSearch.recommended  "Recommended">
+
+<!ENTITY addonOptions.label        "Options">
+<!ENTITY addonEnable.label         "Enable">
+<!ENTITY addonDisable.label        "Disable">
+<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonUninstall.label      "Khupha okufakelweyo">
+<!ENTITY addonCancel.label         "Cancel">
+<!ENTITY addonShowPage.label       "Yiya kwikhasi">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Yiya kwikhasi">
+<!ENTITY downloadShow2.label       "Fumana">
+<!ENTITY downloadOpen2.label       "Vula">
+<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Buyela kwakhona">
+<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadFailed.label      "Ayiphumelelanga">
+
+<!ENTITY noResults.label           "Akukho ziphumo">
+<!ENTITY allBookmarks.label        "Jonga zonke iibhukhmakhi">
+
+<!ENTITY bookmarkPopup.label       "Ikhasi lifakwe ibhukhmakhi">
+<!ENTITY bookmarkRemove.label      "Remove">
+<!ENTITY bookmarkEdit.label        "Edit">
+<!ENTITY bookmarkShortcut.label    "Yongeza kwisikrini sasekhaya">
+
+<!ENTITY identity.unverifiedsite2 "Le webhusayithi ayiyinikezeli inkcazelo yesazisi.">
+<!ENTITY identity.connectedTo2 "Idityeniswe kwi">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "hamba nge">
+
+<!ENTITY consoleHeader.label       "Uthuthuzelo lwemposiso">
+<!ENTITY consoleAll.label          "Konke">
+<!ENTITY consoleErrors.label       "Iimposiso">
+<!ENTITY consoleWarnings.label     "Warnings">
+<!ENTITY consoleMessages.label     "Imiyalezo">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Clear">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Ifayili yomthombo:">
+<!ENTITY consoleErrLine.label      "Umgca:">
+<!ENTITY consoleErrColumn.label    "Ikholam:">
+
+<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextSaveImage.label       "Gcina umfuziselo">
+<!ENTITY contextCopyLink.label        "Kopa ikhonkco">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Kopa inombolo yefowuni">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Ikhonkco lebhukhmakhi">
+<!ENTITY contextSaveVideo.label       "Gcina ividiyo">
+<!ENTITY contextShareVideo.label      "Yabelana ngevidiyo">
+<!ENTITY contextPlayMedia.label       "Dlala">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextShortcutBookmark.label "Yongeza kwisikrini sasekhaya">
+
+<!ENTITY pageactions.saveas.pdf      "Gcina njenge-PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Ulibele ipasiwedi">
+<!ENTITY pageactions.quit            "Yeka">
+<!ENTITY pageactions.reset           "Coca iipriferensi zesayithi">
+<!ENTITY pageactions.findInPage      "Fumana kwikhasi">
+<!ENTITY pageactions.search.addNew   "Yongeza injini yokukhangela">
+<!ENTITY pageactions.charEncoding    "Ukufakwa kwekhowudi kwikharakhtha">
+
+<!ENTITY appMenu.siteOptions         "Site Options">
