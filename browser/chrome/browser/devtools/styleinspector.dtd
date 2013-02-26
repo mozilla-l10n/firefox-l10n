@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY userStylesLabel    "Tikai mainītie stili">
-
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 <!ENTITY userStylesSearch      "Meklēt">
@@ -13,6 +11,12 @@
   -  tree. -->
 <!ENTITY selectedElementLabel  "Atlasītais elements:">
 
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
+  -  that specifies whether the styles that are not from the user's stylesheet
+  -  should be displayed or not. -->
+<!ENTITY browserStylesLabel    "Pārlūka stili">
+
+
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
@@ -21,11 +25,10 @@
 <!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Neatpazīti selektori">
+
 <!ENTITY bestMatch             "Labākā atbilstība">
 <!ENTITY matched               "Atbilst">
 <!ENTITY parentMatch           "Atbilst vecāks">
-<!ENTITY unmatched             "Neatbilst">
 <!-- FIXME: notes -->
 <!ENTITY computedViewTitle     "Aprēķinātais">
 <!ENTITY ruleViewTitle         "Likumi">
