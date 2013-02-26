@@ -13,8 +13,6 @@
 -->
 <!ENTITY tracking.label                 "Szlachòwanié">
 
-<!ENTITY doNotTrack.label               "Wëłączë szlachòwanié z ti stronë">
-<!ENTITY doNotTrack.accesskey           "W">
 
 <!ENTITY  history.label                 "Historiô">
 
@@ -89,3 +87,14 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nastôwë…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
+
+
+<!ENTITY dntTrackingNopref.label        "Nie dôwôj stronów wiedzë ò mòjich wëbiérkach szlachòwaniô.">
+<!ENTITY dntTrackingNopref.accesskey    "d">
+<!ENTITY dntTrackingNotOkay.label       "Doniesë stronóm, że nie chcã szlochòwaniô.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY dntTrackingOkay.label          "Doniesë stronóm, że chcã szlachòwaniô.">
+<!ENTITY dntTrackingOkay.accesskey      "s">
+
+<!ENTITY doNotTrackInfo.label           "Wicy wëdowiedzë">

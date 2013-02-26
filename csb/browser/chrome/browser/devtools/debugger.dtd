@@ -54,7 +54,7 @@
 <!ENTITY debuggerUI.searchGlobal        "Przëszëkôj wszëtczé lopczi">
 <!ENTITY debuggerUI.searchGlobal.key    "r">
 
-<!ENTITY debuggerUI.searchLine          "Przekòkni do striżczi...">
+<!ENTITY debuggerUI.searchLine          "Przekòkni do sztrichù...">
 <!ENTITY debuggerUI.searchLine.key      "P">
 
 <!ENTITY debuggerUI.searchToken         "Nalezë">
@@ -87,4 +87,7 @@
 
 <!ENTITY debuggerUI.showPanesOnInit     "Wëskrzëni tôfle przë zrëszanim">
 <!ENTITY debuggerUI.showPanesOnInit.key "z">
+
+<!ENTITY debuggerUI.focusVariables      "Pòdczorchni drzewò zmiennëch">
+<!ENTITY debuggerUI.focusVariables.key  "d">
 

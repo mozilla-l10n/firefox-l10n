@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Nie sparłãczony">
+<!ENTITY sync.connect               "Sparłãczë">
+<!ENTITY sync.connected             "Sparłãczony">
+<!ENTITY sync.details               "Detale">
+<!ENTITY sync.deviceName            "To ùrządzenié">
+<!ENTITY sync.disconnect            "Rozłączë">
+<!ENTITY sync.syncNow               "Synchronizëjë">
+
+<!ENTITY sync.setup.title           "Sparłãczë sã z Sync">
+<!ENTITY sync.setup.pair            "Bë aktiwizowac, wëbierzë &#x0022;Pôrëjë ùrządzenié&#x0022; na drëdżim ùrządzeniu.">
+<!ENTITY sync.fallback              "Nie jem krótkò swòjégò kòmpùtra…">
+<!ENTITY sync.setup.manual          "Wpiszë infòrmacje kònta Sync">
+<!ENTITY sync.account               "Mion kònta">
+<!ENTITY sync.password              "Parola">
+<!ENTITY sync.recoveryKey           "Klucz òdzwëskù">
+<!ENTITY sync.customServer          "Jiny serwer">
+<!ENTITY sync.serverURL             "Adres URL serwera">
+<!ENTITY sync.setup.connect         "Sparłãczë">
+<!ENTITY sync.setup.cancel          "Òprzestóń">
+<!ENTITY sync.setup.tutorial        "Pòkôżë jak">
+<!ENTITY sync.setup.waiting2        "Żdajã na drëdżé ùrządzenié…">
+
+<!ENTITY sync.pair.title            "Pôrëjë ùrządzenié">
+<!ENTITY sync.pair.description      "Bë aktiwizowac, wëbierzë &#x0022;Kònfigùrëjë Sync&#x0022; na tim ùrządzeniu.">
+<!ENTITY sync.setup.close           "Zamkni">
+<!ENTITY sync.setup.waitingdownload "Pòdôwczi sã scygóné w tle. Mòżesz zamknąc to òkno.">

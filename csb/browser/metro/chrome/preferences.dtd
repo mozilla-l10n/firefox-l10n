@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label                       "Òptacje">
+<!ENTITY aboutHeader.label                         "Ò programie">
+<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label                  "Przedôwôcz &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label                   "Czëtôj ò pòlitice priwatnoscë &brandShortName; na stronie">
+<!ENTITY privacy.title                             "Priwatnosc &amp; Bezpiek">
+<!ENTITY doNotTrack.title                          "Doniesë stronóm, że nie chcã szlochòwaniô">
+<!ENTITY masterPassword.title                      "Ùżëjë przédny parolë">
+<!ENTITY clearPrivateData2.title                   "Wëczëszczë priwatné pòdôwczi">
+<!ENTITY clearPrivateData.button                   "Wëczëszczë">
+<!ENTITY rememberPasswords.title                   "Spamiãtiwôj parolë">
+<!ENTITY startup.title                             "Zrëszanié">
+<!ENTITY homepage.title                            "Czej &brandShortName; sã zrësziwô, wëskrzëni">
+<!ENTITY homepage.startPage                        "Startowô stronã">
+<!ENTITY homepage.sessionRestore                   "Òstatnio òtemkłé kôrtë">

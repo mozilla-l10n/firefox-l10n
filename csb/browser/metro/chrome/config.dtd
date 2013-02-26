@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label            "Szëkba">
+<!ENTITY newpref.label          "Dodôj nową swòjiznã">
+<!ENTITY addpref.name           "Miono">
+<!ENTITY addpref.value          "Wôrtnota">
+
+<!ENTITY cancel.label           "Òprzestóń">
+<!ENTITY reset.label            "Doprowôdzë nazôd">
+<!ENTITY done.label             "Parôt">
+
+<!ENTITY integer.label          "Całô liczba">
+<!ENTITY string.label           "Tekst">
+<!ENTITY boolean.label          "Boolean">

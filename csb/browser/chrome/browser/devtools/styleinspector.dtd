@@ -1,8 +1,3 @@
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
-  -  that specifies whether the styles that are not from the user's stylesheet
-  -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "Blós sztéle brëkòwnika">
-
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 <!ENTITY userStylesSearch      "Szëkôj">
@@ -17,10 +12,6 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Nie nalôzł pasownëch swòjiznów CSS.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Niedopasowóné selektorë">
 
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
@@ -30,7 +21,9 @@
 <!ENTITY bestMatch             "Nôlepszé dopasowanié">
 <!ENTITY matched               "Dopasowóny">
 <!ENTITY parentMatch           "Dopasowóny nadleżny">
-<!ENTITY unmatched             "Niedopasowóny">
+
 
 <!ENTITY computedViewTitle     "Wëliczony">
 <!ENTITY ruleViewTitle         "Regle">
+
+<!ENTITY browserStylesLabel    "Sztéle przezérnika">

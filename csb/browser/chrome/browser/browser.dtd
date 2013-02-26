@@ -271,13 +271,12 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "r"> 
 
 <!ENTITY clearRecentHistory.label               "Wëczëszczë historiã przezéraniô…">
-<!ENTITY clearRecentHistory.accesskey           "h">
+
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Zrëszë priwatné przezéranié">
-<!ENTITY privateBrowsingCmd.start.accesskey     "r">
-<!ENTITY privateBrowsingCmd.stop.label          "Zatrzëmôj priwatné przezéranié">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "t">
+
+
+
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Wëzdrzatk"> 
@@ -316,7 +315,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Z">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Biéj do stronë">
+
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Przełączë na kôrtã:">
 
@@ -547,7 +546,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "czerowónô przez">
 <!ENTITY identity.moreInfoLinkText "Wicy wëdowiédzë…">
 
-<!ENTITY allTabs.filter.emptyText "Szëkba w kôrtach">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kôrtë przezérnika">
@@ -632,3 +631,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Kamera / mikrofón">
 <!ENTITY webrtcIndicatorButton.tooltip "Wëskrzëniwô stronë, chtërnym môsz ùprzistãpnioné kamerã abò mikrofón">
+
+<!ENTITY hidePluginCmd.label          "Zatacë dodôwk">
+<!ENTITY hidePluginCmd.accesskey      "d">
+
+<!ENTITY mixedContentBlocked.helplink "Wicy wëdowiedzë">
+<!ENTITY mixedContentBlocked.moreinfo "Pò zablokòwaniô ti zamkłoscë, wikszosc stronów bãdze dali robiło.">
+
+<!ENTITY playPluginCmd.label          "Włączë nen dodôwk">
+<!ENTITY playPluginCmd.accesskey      "W">
+
+<!ENTITY urlbar.placeholder2          "Szëkôj za, abò wpiszë adres">
+
