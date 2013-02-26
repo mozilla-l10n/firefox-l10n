@@ -9,3 +9,11 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Izvēlieties elementu ar peli">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Kopēt unikālo selektoru">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorSearchHTML.label          "Meklēt HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
+
+
+

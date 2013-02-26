@@ -272,7 +272,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey "m">
 
 <!ENTITY clearRecentHistory.label               "Dzēst neseno vēsturi…">
-<!ENTITY clearRecentHistory.accesskey           "D">
 
 <!ENTITY viewMenu.label "Skats">
 <!ENTITY viewMenu.accesskey "S">
@@ -296,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.accesskey "d">
-<!ENTITY urlbar.placeholder           "Iet uz mājas lapu">
+<!ENTITY urlbar.placeholder2           "Ieraksti meklējamo tekstu vai mājas lapas adresi">
 
 <!ENTITY  pinTab.label                    "Pielīmēt cilni">
 <!ENTITY  pinTab.accesskey                "P">
@@ -561,17 +560,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Paslēpt statistiku">
 <!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY playPluginCmd.label          "Aktivizēt šo spraudni">
+<!ENTITY playPluginCmd.accesskey      "a">
+<!ENTITY hidePluginCmd.label          "Paslēpt šo spraudni">
+<!ENTITY hidePluginCmd.accesskey      "p">
+
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">
 
 <!ENTITY privateBrowsingCmd.commandkey        "P">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Sākt privāto pārlūkošanu">
-<!ENTITY privateBrowsingCmd.start.accesskey     "S">
-<!ENTITY privateBrowsingCmd.stop.label          "Pārtraukt privāto pārlūkošanu">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "r">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 <!ENTITY feedButton.tooltip           "Pierakstīties uz šo lapu…">
 
@@ -590,7 +589,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emailAudioCmd.label          "Nosūtīt audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 
-<!ENTITY allTabs.filter.emptyText "Meklēt cilnes">
 <!ENTITY fullScreenButton.tooltip       "Parādīt logu pa visu ekrānu">
 
 <!ENTITY showAllTabsCmd.label "Rādīt visas cilnes">
@@ -625,5 +623,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Piekļuve kamerai un mikrofonam">
 <!ENTITY webrtcIndicatorButton.tooltip "Attēlo lapas, kurām ir piekļuve jūsu kamerai vai mikrofonam">
+
+<!ENTITY mixedContentBlocked.helplink "Uzzināt vairāk">
+<!ENTITY mixedContentBlocked.moreinfo "Lielākā daļa mājas lapu joprojām darbosies korekti pat tad, kad šis saturs ir bloķēts.">
+
 
 

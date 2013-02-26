@@ -105,6 +105,10 @@
 <!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
 <!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokusēt mainīgo koku">
+<!ENTITY debuggerUI.focusVariables.key  "m">
 
 
 
