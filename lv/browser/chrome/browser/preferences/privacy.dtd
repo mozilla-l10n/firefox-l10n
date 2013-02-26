@@ -20,8 +20,13 @@
 <!ENTITY  rememberHistory2.accesskey  "p">
 
 <!ENTITY tracking.label                 "Uzskaite internetā">
-<!ENTITY doNotTrack.label                "Teikt mājas lapām, ka nevēlos, lai tās mani uzskaita">
-<!ENTITY doNotTrack.accesskey            "t">
+<!ENTITY dntTrackingNopref.label        "Neteikt lapām neko par maniem uzskaites iestatījumiem.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Teikt lapām, ka nevēlos, lai mani uzskaita.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Teikt lapām, lai uzskaita mani.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Uzzināt vairāk">
 
 <!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
 <!ENTITY  rememberSearchForm.accesskey   "f">
