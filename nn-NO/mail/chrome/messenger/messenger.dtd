@@ -554,13 +554,13 @@
 <!ENTITY chatButton.tooltip "Vis nettprat-fana">
 <!ENTITY tagButton.tooltip "Merk meldingar">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
-<!ENTITY appmenuButton.tooltip "Viser applikasjons-menyen">
+<!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebok-kontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuQFBMenu.label "Snøggfilterhjelpelinje">
+<!ENTITY appmenuQFBMenu.label "Snøggfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Verktøylinje-utsjånad …">
 
 <!-- Tags Menu Popup -->
