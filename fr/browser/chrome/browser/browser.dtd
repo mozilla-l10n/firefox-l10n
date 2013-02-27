@@ -625,13 +625,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
 <!ENTITY social.chatBar.accesskey "S">
 
-<!ENTITY getUserMedia.selectCamera.label "Webcam à partager :">
+<!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphone à partager :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Accès webcam/microphone">
-<!ENTITY webrtcIndicatorButton.tooltip "Afficher les sites avec lesquels vous partagez actuellement votre webcam ou votre microphone">
+<!ENTITY webrtcIndicatorButton.label "Accès caméra/microphone">
+<!ENTITY webrtcIndicatorButton.tooltip "Afficher les sites avec lesquels vous partagez actuellement votre caméra ou votre microphone">
 
 <!ENTITY mixedContentBlocked.helplink "En savoir plus">
 <!ENTITY mixedContentBlocked.moreinfo "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
