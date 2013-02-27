@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nova langeto">
+<!ENTITY newtab.undo.removedLabel "Forigita miniaturo.">
+<!ENTITY newtab.undo.undoButton "Malfari.">
+<!ENTITY newtab.undo.restoreButton "Restarigi ĉiujn.">
+<!ENTITY newtab.undo.closeTooltip "Kaŝi">
