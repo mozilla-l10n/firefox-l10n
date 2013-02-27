@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Actualización de software">
 
 <!ENTITY  checking.title                  "Comprebación d'actualizacions">
-<!ENTITY  updateCheck.label               "Se son mirando versions mas nuevas de &brandShortName;...">
+<!ENTITY  updateCheck.label               "Se son mirando versions mas nuevas de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "S'han trobau actualizacions d'os suyos plugins">
 <!ENTITY  pluginupdatesfound.label        "S'han trobau nuevas versions d'un u mas d'os suyos plugins.">
@@ -41,7 +41,7 @@ mas abaixo ta continar instalando ista actualización.'>
 <!ENTITY  license.instructionText         "Leiga o l'alcuerdo de licencia siguient. Emplegue a barra de desplazamiento ta veyer a resta de l'alcuerdo.">
 <!ENTITY  license.accept                  "Accepto os termins de l'alcuerdo de licencia">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "No accepto os termins de l'alcuerdo de licencia">
+<!ENTITY  license.decline                 "NO accepto os termins de l'alcuerdo de licencia">
 <!ENTITY  license.decline.accesskey       "N">
 
 <!ENTITY  incompatibleList.title          "S'han trobau complementos incompatibles">

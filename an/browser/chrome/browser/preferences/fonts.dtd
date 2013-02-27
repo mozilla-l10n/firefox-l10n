@@ -21,7 +21,7 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospacio (amplaria fixa):">
+<!ENTITY  monospace.label                         "Monospaciau:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">

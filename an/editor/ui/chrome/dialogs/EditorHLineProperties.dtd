@@ -20,8 +20,8 @@
 <!ENTITY rightRadio.label "Dreita">
 <!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "3-D Shading">
-<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.label "Ombreyau en 3-D">
+<!ENTITY threeDShading.accessKey "O">
 <!ENTITY saveSettings.label "Usar como valura por defecto">
 <!ENTITY saveSettings.accessKey "d">
 <!ENTITY saveSettings.tooltip "Alzar istos parametros ta fer-los servir en ficar linias horizontals nuevas">

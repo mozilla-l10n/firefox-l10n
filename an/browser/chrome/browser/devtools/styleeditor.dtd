@@ -21,7 +21,7 @@
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "Importar...">
+<!ENTITY importButton.label         "Importar…">
 <!ENTITY importButton.tooltip       "Importar y adhibir una fuella d'estilo nueva a o documento">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">

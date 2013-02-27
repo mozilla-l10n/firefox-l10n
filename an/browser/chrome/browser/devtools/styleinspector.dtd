@@ -41,3 +41,7 @@
 <!ENTITY matched               "Coincide">
 <!ENTITY parentMatch           "Coincide o pai">
 <!ENTITY unmatched             "No coincide">
+<!-- FIXME: notes -->
+
+<!ENTITY computedViewTitle     "Calculada">
+<!ENTITY ruleViewTitle         "Regles">

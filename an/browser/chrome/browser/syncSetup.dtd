@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "Bienplegau! Si nunca no ha feito servir &syncBrand.fullName.label;, cal que creye una cuenta nueva">
+<!ENTITY setup.pickSetupType.description2 "Bienplegau! Si nunca no ha feito servir &syncBrand.fullName.label;, cal que creye una cuenta nueva.">
 <!ENTITY button.createNewAccount.label "Creyar una nueva cuenta">
 <!ENTITY button.haveAccount.label      "Tiengo una cuenta">
 
@@ -78,10 +78,10 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Opcions de sincronización">
-<!ENTITY syncDeviceName.label       "Nombre  d'o dispositivo:">
+<!ENTITY syncDeviceName.label       "Nombre d'o dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sincronizar:">
+<!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcapachinas">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Pestanyas">

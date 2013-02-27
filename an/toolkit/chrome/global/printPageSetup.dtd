@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "Imprentar o fondo (colors y imachens)">
 <!ENTITY printBG.accesskey   "f">
 
-<!ENTITY advanced.tab        "Marguins y encabezau/piet de pachina">
+<!ENTITY advanced.tab        "Marguins y capitero/piet de pachina">
 
 <!ENTITY marginGroup.label   "Marguins (#1)">
 <!ENTITY marginUnits.inches  "pulzadas">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "Dreita:">
 <!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Encabezaus y pietz">
+<!ENTITY headerFooter.label  "Capiters y pietz">
 
 <!ENTITY hfLeft.label        "Cucha:">
 <!ENTITY hfCenter.label      "Centro:">
@@ -55,7 +55,7 @@
 <!ENTITY footerRight.tip     "Piet dreito">
 
 <!ENTITY hfTitle             "Titol">
-<!ENTITY hfURL               "Adreza">
+<!ENTITY hfURL               "Adreza URL">
 <!ENTITY hfDateAndTime       "Calendata/hora">
 <!ENTITY hfPage              "Pachina #">
 <!ENTITY hfPageAndTotal      "Pachina # de #">

@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Consola web">
 
-<!ENTITY networkPanel.requestURLColon             "URL d'a demanda">
-<!ENTITY networkPanel.requestMethodColon          "Metodo d'a demanda">
-<!ENTITY networkPanel.statusCodeColon             "Codigo de estau">
+<!ENTITY networkPanel.requestURLColon             "URL demandada:">
+<!ENTITY networkPanel.requestMethodColon          "Metodo d'a demanda:">
+<!ENTITY networkPanel.statusCodeColon             "Codigo de estau:">
 
 <!ENTITY networkPanel.requestHeaders              "Cabecera d'a demanda">
 <!ENTITY networkPanel.requestCookie               "Cookie ninviada">
@@ -59,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Alvertencias">
 <!ENTITY btnConsoleLog          "Rechistro">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Posición">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Posición d'a Consola web alto u debaixo d'o documento">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Alto">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Debaixo">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "Finestra">
 
 <!ENTITY filterBox.placeholder "Filtro">
 <!ENTITY btnClear.label        "Borrar">
 <!ENTITY btnClear.tooltip      "Borrar a salida d'a Consola web">
-<!ENTITY btnClose.tooltip      "Zarrar a Consola web">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

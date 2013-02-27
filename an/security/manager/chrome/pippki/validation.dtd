@@ -17,7 +17,7 @@
 <!ENTITY  validation.advanced.accesskey           "P">
 
 <!ENTITY  validation.crl.autoupdate.title         "Preferencias d'actualización automatica d'a CRL">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Habilitar l'actualización automatica ta ista CRL">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Activar l'actualización automatica ta ista CRL">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Actualizar">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Día(s) antes d'a siguient calendata d'actualización">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Actualizar cada">

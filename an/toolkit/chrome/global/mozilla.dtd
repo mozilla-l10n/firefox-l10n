@@ -4,7 +4,12 @@
 
 <!ENTITY mozilla.title "O Libro de Mozilla, 11:9">
 
-<!ENTITY mozilla.quote 'Mammon s&apos;adurmió. Y la <em>bestia renaixió</em>, propagando-se por toda la Tierra, y los suyos seguidors estioron lechión. Y proclamoron os nuevos tiempos y <em>sacrificoron</em> cullitas con fuego, con a <em>estucia d&apos;as rabosas</em>. Y construyoron un nuevo mundo a la suya propia imachen como prometeban las <em><a href="http://www.mozilla.org/about/mozilla-manifesto.html">parolas sagradas</a></em>, y <em><a href="http://wiki.mozilla.org/About:mozilla">la parola 
-</a></em> de la bestia y las suyas crías. Mammon se dispertó, y de sopetón no yera que un seguidor.'>
+<!ENTITY mozilla.quote 'Mammon s&apos;adurmió. Y la <em>bestia renaixió</em>, propagando-se por toda la Tierra, 
+y los suyos seguidors estioron lechión. Y proclamoron os nuevos tiempos y <em>sacrificoron</em> 
+cullitas con fuego, con a <em>estucia d&apos;as rabosas</em>. Y construyoron un nuevo mundo 
+a la suya propia imachen como prometeban las <em><a href="http://www.mozilla.org/about/mozilla-manifesto.html"> 
+parolas sagradas</a></em>, y <em><a href="http://wiki.mozilla.org/About:mozilla">la parola 
+</a></em> de la bestia y las suyas crías. Mammon se dispertó, y de sopetón 
+no yera que un <em>seguidor</em>.'>
 
 <!ENTITY mozilla.from "d'o <strong>Libro de Mozilla,</strong> 11:9<br/><small>(10ª edición)</small>">

@@ -23,7 +23,7 @@
 
 <!ENTITY pairDevice.label             "Vincular un dispositivo">
 
-<!ENTITY syncMy.label               "Sincronizar:">
+<!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcapachinas">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Pestanyas">

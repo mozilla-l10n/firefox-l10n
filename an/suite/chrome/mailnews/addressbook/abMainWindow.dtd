@@ -8,15 +8,15 @@
 <!-- File Menu -->
 
 
-<!ENTITY newContact.label                               "Contact…">
+<!ENTITY newContact.label                               "Contacto…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
-<!ENTITY newListCmd.label                               "Mailing List…">
+<!ENTITY newListCmd.label                               "Lista de correu…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "L">  
 <!ENTITY newAddressBookCmd.label                        "Address Book…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "o">  
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Directorio LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
@@ -39,7 +39,7 @@
 <!ENTITY deleteItemsCmd.label                           "Delete Selected Items">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">  
-<!ENTITY propertiesCmd.label                            "Properties…">
+<!ENTITY propertiesCmd.label                            "Propiedatz…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY propertiesCmd.accesskey                        "i">  
 <!ENTITY propertiesCmd.key                              "i">  

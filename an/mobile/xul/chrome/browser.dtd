@@ -85,7 +85,7 @@
 <!ENTITY identity.runBy2 "chestionato por">
 
 <!ENTITY consoleHeader.label       "Consola d'errors">
-<!ENTITY consoleAll.label          "Tot ">
+<!ENTITY consoleAll.label          "Tot">
 <!ENTITY consoleErrors.label       "Errors">
 <!ENTITY consoleWarnings.label     "Alvertencias">
 <!ENTITY consoleMessages.label     "Mensaches">

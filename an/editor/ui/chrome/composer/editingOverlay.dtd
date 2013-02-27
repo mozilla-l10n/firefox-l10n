@@ -16,7 +16,7 @@
 <!ENTITY saveAsCmd.label "Alzar-ne una copia como...">
 <!ENTITY saveAsCmd.accesskey "c">
 <!ENTITY saveAsChangeEncodingCmd.label "Alzar y cambiar a codificación d'os caracters">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
