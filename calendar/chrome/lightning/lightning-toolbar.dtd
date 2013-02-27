@@ -34,7 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "F">
 <!ENTITY lightning.toolbar.month.label               "Månad">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMeny">
-<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Viser applikasjonsmenyen">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Viser &brandShortName;-menyen">

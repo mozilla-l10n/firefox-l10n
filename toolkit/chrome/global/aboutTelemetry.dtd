@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetri-data">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  Denne sida viser all ytings- og funksjonsbrukdata samla inn av Telemetry. 
-  Denne informasjonen blir send anonymt til Mozilla for å forbetre &brandShortName;.">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry er <span>påslått</span>.
 ">
 
