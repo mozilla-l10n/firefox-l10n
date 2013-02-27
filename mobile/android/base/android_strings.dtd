@@ -153,7 +153,7 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
- <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
+<!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_open_in_reader "Abrir en lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
@@ -203,7 +203,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Pegar sitio">
 <!ENTITY abouthome_topsites_unpin "Despegar sitio">
-<!ENTITY abouthome_topsites_unpinall "Despegar todo">
+<!ENTITY abouthome_topsites_remove "Eliminar">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
