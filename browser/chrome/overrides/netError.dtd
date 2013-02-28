@@ -153,7 +153,7 @@ functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>Peidiwch ychwanegu eithriad os ydych yn defnyddio cysylltiad gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer â gweld rhybudd ar y gweinydd hwn.</p> 
-  
+ 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
