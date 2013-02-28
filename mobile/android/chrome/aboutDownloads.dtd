@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Luchdaidhean a-nuas">
 <!ENTITY aboutDownloads.header                     "Na luchdaich thu a-nuas">
 <!ENTITY aboutDownloads.empty                      "Cha deach dad a luchdadh a-nuas">
+
+<!ENTITY aboutDownloads.open                       "Fosgail">
+<!ENTITY aboutDownloads.remove                     "Sguab às">
+<!ENTITY aboutDownloads.removeAll                  "Sguab às a h-uile">
+<!ENTITY aboutDownloads.pause                      "Cuir 'na stad">
+<!ENTITY aboutDownloads.resume                     "Lean air">
+<!ENTITY aboutDownloads.cancel                     "Sguir dheth">
+<!ENTITY aboutDownloads.retry                      "Feuch ris a-rithist">

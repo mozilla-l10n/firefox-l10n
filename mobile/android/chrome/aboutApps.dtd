@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Chan eil aplacaid sam bith air stàladh agad. Faigh feadhainn o ">
 <!ENTITY aboutApps.noApps.middle3 "Margaid Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Dì-stàlaich">
+<!ENTITY aboutApps.addToHomescreen "Cuir ris an sgrìn mhòr">

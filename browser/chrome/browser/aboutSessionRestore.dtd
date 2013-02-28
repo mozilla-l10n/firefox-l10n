@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Aisig">
 <!ENTITY restorepage.listHeader     "Uinneagan is tabaichean">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Uinneag &#37;S">
+<!ENTITY restorepage.windowLabel    "Uinneag &#037;S">

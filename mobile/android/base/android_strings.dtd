@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "A\' suidheachadh am &brandShortName; agad">
+<!ENTITY  splash_settingup "A\u0027 suidheachadh am &brandShortName; agad">
 <!ENTITY  splash_bookmarks_history "Tha sinn ag ùrachadh nan comharran-lìn agad agus faodaidh gum feum sinn mionaid no dhà.">
 
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
-<!ENTITY  error_loading_file "Thachair mearachd fhad \'s a dh\'fheuchar na faidhlichean a luchdadh a dh\'fheumas &brandShortName;">
+<!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Sàr-làraichean">
 <!ENTITY  awesomebar_bookmarks_title "Comharran-lìn">
@@ -20,7 +20,7 @@
 <!ENTITY  crash_include_url "Gabh a-steach seòladh na duilleige">
 <!ENTITY  crash_close_label "Dùin">
 <!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
-<!ENTITY  sending_crash_report "A\' cur aithisg an tuislidh\u2026">
+<!ENTITY  sending_crash_report "A\u0027 cur aithisg an tuislidh\u2026">
 <!ENTITY  exit_label "Fàg an-seo">
 <!ENTITY  continue_label "Lean air adhart">
 
@@ -67,7 +67,7 @@
 <!ENTITY pref_category_content "Susbaint">
 <!ENTITY pref_category_importexport "Ion-phortaich ⁊ às-phortaich">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
-<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam thracadh">
+<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \u0027gam thracadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 
@@ -101,20 +101,21 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \'s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \'s gun luaidh air brùthadh eaconamach. \'S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
+<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte \u0027s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth \u0027s gun luaidh air brùthadh eaconamach. \u0027S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_show_product_announcements "Seall naidheachdan bathar">
 <!ENTITY pref_sync "Co-shioncronachadh">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
-<!ENTITY pref_private_data_history "Eachdraidh a\' bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
+<!ENTITY pref_private_data_history "Eachdraidh a\u0027 bhrabhsaidh ⁊ nan rudan a chaidh a luchdadh a-nuas">
 <!ENTITY pref_private_data_formdata "Eachdraidh nam foirm ⁊ nan lorg">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings "Roghainnean na làraich">
+<!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
 
 <!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
@@ -142,7 +143,7 @@ size. -->
 <!ENTITY tabs_private "Prìobhaideach">
 <!ENTITY tabs_synced "Sioncronaichte">
 <!ENTITY wallpaper_success "Chaidh am pàipear-balla ùrachadh">
-<!ENTITY wallpaper_progress "A\' suidheachadh a\' phàipeir-bhalla">
+<!ENTITY wallpaper_progress "A\u0027 suidheachadh a\u0027 phàipeir-bhalla">
 <!ENTITY wallpaper_fail "Cha ghabh am pàipear-balla a shuidheachadh">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -179,7 +180,7 @@ size. -->
 <!ENTITY reading_list "An liosta leughaidh">
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
-<!ENTITY reading_list_failed "Cha b\' urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
+<!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
 <!ENTITY reader "An leughadair">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
@@ -203,13 +204,14 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Deasaich">
 <!ENTITY abouthome_topsites_pin "Prìnich an làrach">
 <!ENTITY abouthome_topsites_unpin "Neo-phrìnich an làrach">
-<!ENTITY abouthome_topsites_unpinall "Neo-phrìnich na h-uile">
+<!ENTITY abouthome_topsites_remove "Thoir air falbh">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \'s na tabaichean agad o uidheaman eile agad&#x00A0;»">
+
+<!ENTITY abouthome_about_sync3 "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \u0027s na tabaichean agad o uidheaman eile agad&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Faigh aplacaidean o mhargaid Mozilla agus feuch gràinnean-mullaich an lìn&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
@@ -236,10 +238,10 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "a tha \'ga ruith le">
+<!ENTITY identity_run_by "a tha \u0027ga ruith le">
 
 <!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
-<!ENTITY private_data_fail "Cha b\' urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
+<!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
 
 <!ENTITY bookmarkhistory_button_import "Ion-phortaich">
 <!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
@@ -262,8 +264,8 @@ o Android">
 <!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_start_select2 "Suath ris gus a luchdadh a-nuas">
 
-<!ENTITY updater_downloading_title2 "A\' luchdadh a-nuas &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Dh\'fhàillig an luchdadh a-nuas">
+<!ENTITY updater_downloading_title2 "A\u0027 luchdadh a-nuas &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Dh\u0027fhàillig an luchdadh a-nuas">
 <!ENTITY updater_downloading_select2 "Suath ris gus an t-ùrachadh a chur an gnìomh turas a bhios e air a luchdadh a-nuas">
 <!ENTITY updater_downloading_retry2 "Suath ris gus feuchainn ris a-rithist">
 
