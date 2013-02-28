@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Glan an eachdraidh faisg ort…">
-<!ENTITY clearRecentHistory.accesskey           "h">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label         "Tòisich air brabhsadh prìobhaideach">
-<!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Sguir dhen brabhsadh phrìobhaideach">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Sealladh"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Rach gu làrach-lìn">
+<!ENTITY urlbar.placeholder2          "Lorg seòladh no cuir fear a-steach">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Atharraich gu taba:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY emailAudioCmd.label          "Cuir an fhuaim air a' phost-d…">
 <!ENTITY emailAudioCmd.accesskey      "u">
+<!ENTITY playPluginCmd.label          "Gnìomhaich am plugan seo">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Falaich am plugan seo">
+<!ENTITY hidePluginCmd.accesskey      "h">
 <!ENTITY copyLinkCmd.label            "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Dèan lethbhreac de sheòladh an deilbh">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "a tha 'ga ruith le">
 
 <!ENTITY identity.moreInfoLinkText "Barrachd fiosrachaidh…">
-
-<!ENTITY allTabs.filter.emptyText "Lorg anns na tabaichean">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Tabaichean a' bhrabhsair">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Inntrigeadh dhan chamara/mhicreofon">
 <!ENTITY webrtcIndicatorButton.tooltip "Seall na làraichean a tha thu a' co-roinneadh a' chamara no a' mhicreofoin agad leotha an-dràsta">
+
+<!ENTITY mixedContentBlocked.helplink "Barrachd fiosrachaidh">
+<!ENTITY mixedContentBlocked.moreinfo "Obraichidh a' mhòrchuid de làraichean-lìn mar bu chòir fhathast fiù ma tha casg air an t-susbaint seo.">

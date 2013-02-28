@@ -4,3 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Taba ùr">
+<!ENTITY newtab.undo.removedLabel "Chaidh an dealbhag a thoirt air falbh.">
+<!ENTITY newtab.undo.undoButton "Neo-dhèan.">
+<!ENTITY newtab.undo.restoreButton "Aisig na h-uile.">
+<!ENTITY newtab.undo.closeTooltip "Cuir am falach">

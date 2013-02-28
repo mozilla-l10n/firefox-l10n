@@ -25,11 +25,11 @@
 <!ENTITY sync.link.nodevice.label "Chan eil an t-uidheam agam an-seo…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "A\' feitheamh ris an dàrna uidheam…">
+<!ENTITY sync.jpake.subtitle.waiting.label "A\u0027 feitheamh ris an dàrna uidheam…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Cuir a-steach fiosrachadh a\' chunntais &syncBrand.fullName.label; agad">
-<!ENTITY sync.input.username.label "Ainm a\' chunntais">
+<!ENTITY sync.subtitle.account.label "Cuir a-steach fiosrachadh a\u0027 chunntais &syncBrand.fullName.label; agad">
+<!ENTITY sync.input.username.label "Ainm a\u0027 chunntais">
 <!ENTITY sync.input.password.label "Facal-faire">
 <!ENTITY sync.input.key.label "An iuchair aisig">
 <!ENTITY sync.checkbox.server.label "Cleachd frithealaichte gnàthaichte">
@@ -37,18 +37,18 @@
 <!-- Setup Fail -->
   
 <!ENTITY sync.title.fail.label "Cha ghabh &syncBrand.shortName.label; a shuidheachadh">
-<!ENTITY sync.subtitle.fail.label "Cha b\' urrainn do &syncBrand.fullName.label; ceangal a dhèanamh ris an fhrithealaiche. A bheil thu airson feuchainn ris a-rithist?">
+<!ENTITY sync.subtitle.fail.label "Cha b\u0027 urrainn do &syncBrand.fullName.label; ceangal a dhèanamh ris an fhrithealaiche. A bheil thu airson feuchainn ris a-rithist?">
 <!ENTITY sync.button.tryagain.label "Feuch ris a-rithist">
 <!ENTITY sync.button.manual.label "Suidheachadh a làimh">
 <!ENTITY sync.subtitle.nointernet.label "Chan eil ceangal ris an lìon ann.">
-<!ENTITY sync.subtitle.failaccount.label "Dh\'fhàillig cruthachadh a\' chunntais air an uidheam agad.">
-<!ENTITY sync.subtitle.failmultiple.label "A bheil barrachd air aon Firefox air stàladh agad? Chan eil &syncBrand.fullName.label; a\' cur taic ach ri aon stàladh de Firefox aig an aon àm. Thoir air falbh an fheadhainn eile mus cleachd thu &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failaccount.label "Dh\u0027fhàillig cruthachadh a\u0027 chunntais air an uidheam agad.">
+<!ENTITY sync.subtitle.failmultiple.label "A bheil barrachd air aon Firefox air stàladh agad? Chan eil &syncBrand.fullName.label; a\u0027 cur taic ach ri aon stàladh de Firefox aig an aon àm. Thoir air falbh an fheadhainn eile mus cleachd thu &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Tha an suidheachadh deiseil">
-<!ENTITY sync.subtitle.success.label1 "Tha an dàta \'ga luchdadh a-nuas sa chùlaibh a-nis. \'S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no tòiseachadh air brabhsadh le &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Tha an dàta \u0027ga luchdadh a-nuas sa chùlaibh a-nis. \u0027S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no tòiseachadh air brabhsadh le &brandShortName;.">
 <!ENTITY sync.settings.label "Roghainnean">
-<!ENTITY sync.subtitle.manage.label1 "Tha an cunntas &syncBrand.fullName.label; air a shuidheachadh mu thràth. \'S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no &brandShortName; a chur gu dol.">
+<!ENTITY sync.subtitle.manage.label1 "Tha an cunntas &syncBrand.fullName.label; air a shuidheachadh mu thràth. \u0027S urrainn dhut a dhol dha na Roghainnean gus an cunntas agad a stiùireadh no &brandShortName; a chur gu dol.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Saoil am feuch thu ris a-rithist?">
@@ -87,13 +87,13 @@
 <!ENTITY bookmarks.folder.pinned.label "Prìnichte">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">
+<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\u0027aon chunntas &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Chaidh do roghainnean a shàbhaladh.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "Tha ainm a\' chunntais no am facal-faire cearr.">
+<!ENTITY sync.invalidcreds.label "Tha ainm a\u0027 chunntais no am facal-faire cearr.">
 <!ENTITY sync.invalidserver.label "Cuir a-steach URL frithealaiche dligheach">
-<!ENTITY sync.verifying.label "\'Ga dhearbhadh…">
+<!ENTITY sync.verifying.label "\u0027Ga dhearbhadh…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Tha an iuchair aisig cearr. Feuch ris a-rithist.">
 <!-- Send tab to device. -->
 
