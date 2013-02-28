@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Xanela do navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "X">
+<!ENTITY newPrivateWindowCmd.label "Xanela privada">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "Configuración da páxina…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Previsualización da impresión">
@@ -54,14 +57,14 @@
      search bar equivalent to the url bar's "Paste & Go"  -->
 <!ENTITY pasteSearchCmd.label             "Pegar e buscar">
 <!ENTITY pasteSearchCmd.accesskey         "e">
-<!ENTITY deleteCmd.label                  "Borrar">
-<!ENTITY deleteCmd.accesskey              "B">
+<!ENTITY deleteCmd.label                  "Eliminar">
+<!ENTITY deleteCmd.accesskey              "m">
 <!ENTITY selectAllCmd.label               "Seleccionar todo">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "a">
 <!ENTITY clearHistoryCmd.label				"Limpar historial de buscas">  
 <!ENTITY clearHistoryCmd.accesskey			"h"> 
-<!ENTITY showSuggestionsCmd.label			"Mostrar suxestións">  
+<!ENTITY showSuggestionsCmd.label			"Amosar suxestións">  
 <!ENTITY showSuggestionsCmd.accesskey		"s"> 
 <!ENTITY preferencesCmd.label				"Preferencias…">
 <!ENTITY preferencesCmd.key					"E">  
@@ -87,7 +90,7 @@
 
 <!ENTITY viewMenu.label					"Ver"> 
 <!ENTITY viewMenu.accesskey               "V">
-<!ENTITY viewToolbarsMenu.label				"Mostrar/Ocultar"> 
+<!ENTITY viewToolbarsMenu.label				"Amosar/Agochar"> 
 <!ENTITY viewToolbarsMenu.accesskey			"M"> 
 <!ENTITY showTaskbarCmd.label					"Barra de estado">  
 <!ENTITY showTaskbarCmd.accesskey				"s"> 
@@ -139,7 +142,7 @@
 <!ENTITY customizeToolbar.text.accesskey          "T">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Usar iconas pequenas">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
-<!ENTITY customizeToolbar.labelAlignEnd.label     "Mostrar texto ao lado das iconas">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Amosar texto ao lado das iconas">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "M">
 <!ENTITY customizeToolbar.useDefault.label        "Usar configuración predeterminada">
 <!ENTITY customizeToolbar.useDefault.accesskey    "U">
@@ -148,7 +151,7 @@
 <!ENTITY allowPopups.accesskey        "p">
 <!ENTITY showPopupManager.label       "Xestionar xanelas emerxentes">
 <!ENTITY showPopupManager.accesskey   "m">
-<!ENTITY dontShowMessage.label        "Non mostrar esta mensaxe se as xanelas emerxentes están bloqueadas">
+<!ENTITY dontShowMessage.label        "Non amosar esta mensaxe se as xanelas emerxentes están bloqueadas">
 <!ENTITY dontShowMessage.accesskey    "d">
 
 <!ENTITY syncToolbarButton.label "Sync">

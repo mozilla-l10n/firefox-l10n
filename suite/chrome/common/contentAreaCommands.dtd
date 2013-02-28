@@ -7,10 +7,13 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir xanelas emerxentes deste sitio web">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
-<!ENTITY openLinkCmd.label            "Abrir a ligazón nunha nova xanela">
-<!ENTITY openLinkCmd.accesskey        "x">
 <!ENTITY openLinkCmdInTab.label       "Abrir a ligazón nunha nova lapela">
 <!ENTITY openLinkCmdInTab.accesskey   "h">
+
+<!ENTITY openLinkCmd.label            "Abrir a ligazón nunha nova xanela">
+<!ENTITY openLinkCmd.accesskey        "x">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir a ligazón nunha xanela privada">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
 <!ENTITY openFrameCmd.label           "Abrir o marco nunha nova xanela">
@@ -19,7 +22,7 @@
 <!ENTITY openFrameCmdInTab.accesskey  "h">
 <!ENTITY keywordfield.label           "Engadir unha palabra chave para esta busca…">
 <!ENTITY keywordfield.accesskey       "E">
-<!ENTITY showOnlyThisFrameCmd.label     "Mostrar só este marco">
+<!ENTITY showOnlyThisFrameCmd.label     "Amosar só este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY goBackCmd.label              "Atrás">
 <!ENTITY goBackCmd.accesskey          "A">
@@ -102,17 +105,17 @@
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Desenmudecer">
 <!ENTITY mediaUnmute.accesskey        "m">
-<!ENTITY mediaShowControls.label      "Mostrar controles de medios">
+<!ENTITY mediaShowControls.label      "Amosar controis de medios">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Ocultar controles de medios">
+<!ENTITY mediaHideControls.label      "Agochar controis de medios">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey    "P">
 <!ENTITY videoSaveImage.label         "Gardar a captura como…">
 <!ENTITY videoSaveImage.accesskey     "u">
-<!ENTITY videoShowStats.label         "Mostrar as estatísticas">
+<!ENTITY videoShowStats.label         "Amosar as estatísticas">
 <!ENTITY videoShowStats.accesskey     "t">
-<!ENTITY videoHideStats.label         "Ocultar as estatísticas">
+<!ENTITY videoHideStats.label         "Agochar as estatísticas">
 <!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar a orientación da páxina">
@@ -125,8 +128,8 @@
 <!ENTITY spellUndoAddToDictionary.accesskey  "f">
 <!ENTITY spellIgnoreWord.label          "Ignorar a palabra">
 <!ENTITY spellIgnoreWord.accesskey      "I">
-<!ENTITY spellCheckEnable.label         "Verificación ortográfica">
-<!ENTITY spellCheckEnable.accesskey     "V">
+<!ENTITY spellCheckEnable.label         "Corrección ortográfica">
+<!ENTITY spellCheckEnable.accesskey     "g">
 <!ENTITY spellNoSuggestions.label       "(Non hai suxestións ortográficas)">
 <!ENTITY spellDictionaries.label        "Idiomas">
 <!ENTITY spellDictionaries.accesskey    "I">
