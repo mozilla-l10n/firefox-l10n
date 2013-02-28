@@ -1,10 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pane.title                   "Tértivevények">
 <!ENTITY useGlobalPrefs.label         "A globális tértivevény-beállítások használata erre a postafiókra">
 <!ENTITY useGlobalPrefs.accesskey     "A">
+<!ENTITY globalReceipts.label         "Globális beállítások…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Tértivevényekkel kapcsolatos beállítások ehhez a postafiókhoz">
 <!ENTITY useCustomPrefs.accesskey     "T">
 <!ENTITY requestReceipt.label         "Tértivevény kérése minden elküldött üzenethez">
-<!ENTITY requestReceipt.accesskey     "m">
+<!ENTITY requestReceipt.accesskey     "d">
 <!ENTITY receiptArrive.label          "Tértivevények érkezésekor:">
 <!ENTITY leaveIt.label                "Megtartás a Beérkezett üzenetek mappában">
 <!ENTITY leaveIt.accesskey            "B">
@@ -19,7 +25,7 @@
 <!ENTITY notInToCc.label              "Ha nem vagyok a címzettek vagy a másolatot kapók között:">
 <!ENTITY notInToCc.accesskey          "H">
 <!ENTITY outsideDomain.label          "Ha a feladó a tartományomon kívül van:">
-<!ENTITY outsideDomain.accesskey      "a">
+<!ENTITY outsideDomain.accesskey      "f">
 <!ENTITY otherCases.label             "Minden más esetben:">
 <!ENTITY otherCases.accesskey         "M">
 <!ENTITY askMe.label                  "Kérdés">
