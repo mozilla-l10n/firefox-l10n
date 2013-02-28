@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "A lemezterület megtakarítása érdekében nem töltődnek le:">
 <!ENTITY doNotDownloadNntp.label "A lemezterület megtakarítása érdekében nem töltődnek le kapcsolat nélküli munkához:">
 <!ENTITY doNotDownloadImap.label "A lemezhellyel való takarékoskodás céljából az üzenetek kiszolgálóról letöltése és a helyben tárolása korlátozható méret és kor szerint.">
@@ -26,13 +30,13 @@
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Olvasott üzenetek törlése mindig (kor nem számít)">
 <!ENTITY retentionApplyToFlagged.label "Csillagozott üzenetek megtartása">
-<!ENTITY retentionApplyToFlagged.accesskey "C">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Üzenettörzsek törlése, ha régebbiek, mint">
 <!ENTITY nntpRemoveMsgBody.accesskey "t">
-<!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához...">
+<!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához…">
 <!ENTITY offlineSelectNntp.accesskey "k">
-<!ENTITY offlineImapAdvancedOffline.label "Haladó...">
-<!ENTITY offlineImapAdvancedOffline.accesskey "H">
+<!ENTITY offlineImapAdvancedOffline.label "Speciális…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "c">
 <!ENTITY syncGroupTitle.label "Üzenetek szinkronizálása">
 <!ENTITY diskspaceGroupTitle.label "Lemezterület">
 
@@ -43,7 +47,7 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 <!ENTITY allAutosync.label               "Minden üzenet szinkronizálása helyben kortól függetlenül">
-<!ENTITY allAutosync.accesskey           "M">
+<!ENTITY allAutosync.accesskey           "h">
 <!ENTITY ageAutosyncBefore.label         "A legutóbbi">
 <!ENTITY ageAutosync.accesskey           "l">
 <!ENTITY ageAutosyncMiddle.label         "">
@@ -51,4 +55,4 @@
 <!ENTITY weekAgeInterval.label           "hét">
 <!ENTITY monthAgeInterval.label          "hónap">
 <!ENTITY yearAgeInterval.label           "év">
-<!ENTITY ageAutosyncAfter.label          "üzeneteinek szinkronizálása">
+<!ENTITY ageAutosyncAfter.label          "">

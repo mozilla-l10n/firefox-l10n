@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountsWindow.title                "Azonnali üzenetküldés állapota">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
+<!ENTITY accountManager.newAccount.label     "Új fiók">
+<!ENTITY accountManager.newAccount.accesskey "f">
+<!ENTITY accountManager.close.label          "Bezárás">
+<!ENTITY accountManager.close.accesskey      "b">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Még nincs beállítva fiók">
+<!ENTITY accountManager.noAccount.description "Kattintson az &accountManager.newAccount.label; gombra, és a &brandShortName; végigvezeti a fiók beállításán. ">
+<!ENTITY account.autoSignOn.label     "Bejelentkezés indításkor">
+<!ENTITY account.autoSignOn.accesskey "d">
+<!ENTITY account.connect.label        "Kapcsolódás">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Leválás">
+<!ENTITY account.disconnect.accesskey "L">
+<!ENTITY account.edit.label           "Tulajdonságok">
+<!ENTITY account.edit.accesskey       "u">
+<!ENTITY account.moveup.label         "Fel">
+<!ENTITY account.movedown.label       "Le">
+<!ENTITY account.cancelReconnection.label         "Újracsatlakozás megszakítása">
+<!ENTITY account.cancelReconnection.accesskey     "r">
+<!ENTITY account.connecting           "Csatlakozás…">
+<!ENTITY account.disconnecting        "Szétkapcsolás…">
+<!ENTITY account.disconnected         "Nincs csatlakoztatva">

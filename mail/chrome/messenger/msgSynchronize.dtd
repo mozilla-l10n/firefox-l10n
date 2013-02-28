@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Az üzenetek letöltése és szinkronizálása">
@@ -12,7 +16,7 @@
 <!ENTITY sendMessage.accesskey "P">
 <!ENTITY workOffline.label "Kapcsolat nélküli üzemmód a letöltés/szinkronizálás befejezése után">
 <!ENTITY workOffline.accesskey "K">
-<!ENTITY selectButton.label "Kiválasztás...">
+<!ENTITY selectButton.label "Kiválasztás…">
 <!ENTITY selectButton.accesskey "v">
 <!ENTITY MsgSelectDesc.label "Válassza ki, hogy mely levél mappákat és hírcsoportokat szeretné használni a kapcsolat nélküli munkához. Több elem kiválasztása megnöveli a letöltési időt.">
 <!ENTITY MsgSelectInd.label "Letöltés">
