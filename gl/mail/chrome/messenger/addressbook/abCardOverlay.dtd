@@ -29,9 +29,9 @@
 <!ENTITY NameField2.accesskey           "p">
 <!ENTITY PhoneticField1.label           "Nome fonético:">
 <!ENTITY PhoneticField2.label           "Nome fonético:">
-<!ENTITY DisplayName.label              "Mostrar:">
+<!ENTITY DisplayName.label              "Amosar:">
 <!ENTITY DisplayName.accesskey          "M">
-<!ENTITY preferDisplayName.label        "Preferir sempre o nome mostrado ao da cabeceira da mensaxe">
+<!ENTITY preferDisplayName.label        "Preferir sempre o nome amosado ao da cabeceira da mensaxe">
 <!ENTITY preferDisplayName.accesskey    "f">
 <!ENTITY NickName.label                 "Alcume:">
 <!ENTITY NickName.accesskey             "A">
@@ -126,11 +126,11 @@ a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 <!ENTITY Notes.accesskey                "o">
 
 <!ENTITY Chat.tab                       "Conversas">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "v">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -143,13 +143,15 @@ a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID de Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Alcume do IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
 <!ENTITY PhotoDesc.label                "Seleccione unha das seguintes:">
 <!ENTITY GenericPhoto.label             "Foto xenérica">
 <!ENTITY GenericPhoto.accesskey         "x">
-<!ENTITY DefaultPhoto.label             "Predefinida">
+<!ENTITY DefaultPhoto.label             "Predeterminada">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "N">
 <!ENTITY BrowsePhoto.label              "Explorar">
