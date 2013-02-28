@@ -24,12 +24,14 @@
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.nothing.label          "Nada">
 
-
 <!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Aceptar as cookies de terceiros">
-<!ENTITY  acceptThirdParty.accesskey    "k">
+<!ENTITY  acceptThirdParty.pre.label        "Aceptar as cookies de terceiros:">
+<!ENTITY  acceptThirdParty.pre.accesskey    "k">
+<!ENTITY  acceptThirdParty.always.label   "Sempre">
+<!ENTITY  acceptThirdParty.never.label    "Nunca">
+<!ENTITY  acceptThirdParty.visited.label  "De sitios visitados">
 
 <!ENTITY  keepUntil.label               "Conservar ata:">
 <!ENTITY  keepUntil.accesskey           "C">
