@@ -37,7 +37,7 @@
 
 <!ENTITY healthReportSection.label       "Správa o kondícii prehliadača &brandShortName;">
 <!ENTITY healthReportDesc.label          "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
-<!ENTITY enableHealthReport.label        "Povoliť správy o prehliadača &brandShortName;">
+<!ENTITY enableHealthReport.label        "Povoliť správy o kondícii prehliadača &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "o">
 <!ENTITY healthReportLearnMore.label     "Ďalšie informácie">
 
