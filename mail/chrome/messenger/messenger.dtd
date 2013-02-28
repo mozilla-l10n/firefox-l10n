@@ -565,6 +565,8 @@
 <!ENTITY appmenuEditMenu.label "Editar">
 <!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
 <!ENTITY appmenuToolbarLayout.label "Disposición da barra de ferramentas…">
+<!ENTITY appmenuSelectThread.label "Seleccionar fío">
+<!ENTITY appmenuSelectFlagged.label "Seleccionar as mensaxes con estrela">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta…">
