@@ -8,6 +8,6 @@
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Aucune application installée. En obtenir sur le ">
-<!ENTITY aboutApps.noApps.middle3 "Marketplace Firefox">
+<!ENTITY aboutApps.noApps.pre "Aucune application installée. Vous pouvez en obtenir sur le ">
+<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
