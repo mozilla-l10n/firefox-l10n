@@ -1,16 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  splash_firstrun "A &brandShortName; beállítása\u2026">
+
+<!ENTITY  splash_settingup "A &brandShortName; beállítása">
+<!ENTITY  splash_bookmarks_history "Frissítjük könyvjelzőit és előzményeit, ez eltarthat egy percig is.">
 
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_all_pages_title "Népszerű oldalak">
 <!ENTITY  awesomebar_bookmarks_title "Könyvjelzők">
 <!ENTITY  awesomebar_history_title "Előzmények">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; összeomlás-bejelentő">
-<!ENTITY  crash_message "A &brandShortName; összeomlott. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_message "A &brandShortName; összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
 <!ENTITY  crash_help_message "Segítsen kijavítani a hibát!">
 <!ENTITY  crash_send_report_message "Küldjön hibabejelentést a Mozillának">
 <!ENTITY  crash_include_url "Az oldal címének mellékelése">
@@ -27,19 +31,34 @@
 
 <!ENTITY awesomebar_default_text "Keresés vagy cím">
 
+<!ENTITY remote_tabs "Szinkronizált lapok">
+<!ENTITY remote_tabs_show_all "Minden lap megjelenítése">
+
 <!ENTITY bookmark "Könyvjelző">
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
 <!ENTITY bookmark_removed "Könyvjelző törölve">
+<!ENTITY bookmark_updated "Könyvjelző frissítve">
 
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
 <!ENTITY history_week_section "7 napja">
 <!ENTITY history_older_section "7 napnál régebben">
 
+<!ENTITY go "Ugrás">
+<!ENTITY search "Keresés">
 <!ENTITY reload "Frissítés">
 <!ENTITY forward "Előre">
+<!ENTITY menu "Menü">
+<!ENTITY back "Vissza">
+<!ENTITY stop "Leállítás">
+<!ENTITY site_security "Webhely biztonsága">
 
+<!ENTITY close_tab "Lap bezárása">
 <!ENTITY new_tab "Új lap">
+<!ENTITY one_tab "1 lap">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d lap">
 <!ENTITY new_tab_opened "Új lap nyílt meg">
 
 <!ENTITY settings "Beállítások">
@@ -47,49 +66,115 @@
 <!ENTITY pref_category_general "Általános">
 <!ENTITY pref_category_privacy "Adatvédelem és biztonság">
 <!ENTITY pref_category_content "Tartalom">
+<!ENTITY pref_category_importexport "Importálás és exportálás">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_do_not_track "Ne kövessenek a webhelyek">
 <!ENTITY pref_telemetry "Teljesítményadatok küldése">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
-<!ENTITY pref_cookies "Sütik engedélyezve">
+
+<!ENTITY pref_cookies_menu "Sütik">
+<!ENTITY pref_cookies_accept_all "Engedélyezve">
+<!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
+<!ENTITY pref_cookies_disabled "Tiltva">
+
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
-<!ENTITY pref_clear_history "Előzmények törlése">
-<!ENTITY pref_clear_history_confirm "A böngészési előzmények törölve">
 <!ENTITY pref_clear_private_data "Személyes adatok törlése">
-<!ENTITY pref_clear_private_data_confirm "Törli a böngészési előzményeit és beállításait a jelszavakkal és a sütikkel együtt.">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
+<!ENTITY pref_reflow_on_zoom2 "Csippentsen a szöveg újratördeléséhez">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
 <!ENTITY pref_font_size_large "Nagy">
 <!ENTITY pref_font_size_xlarge "Óriási">
+<!ENTITY pref_font_size_set "Beállítás">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "A gyors narancssárga róka sebességben, rugalmasságban és biztonságban is megugorja várakozásait. Non-profit szervezetként szabadon innoválhatunk az Ön érdekében, nem kell semmilyen kompromisszumot kötnünk. Ez Önnek jobb élményt, a webnek pedig fényesebb jövőt jelent.">
+
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
+<!ENTITY pref_show_product_announcements "Termékbejelentések megjelenítése">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Keresési javaslatok megjelenítése">
+<!ENTITY pref_import_android "Importálás Androidról">
+<!ENTITY pref_private_data_history "Böngészési és letöltési előzmények">
+<!ENTITY pref_private_data_formdata "Űrlap- és keresési előzmények">
+<!ENTITY pref_private_data_cookies2 "Sütik és aktív bejelentkezések">
+<!ENTITY pref_private_data_passwords "Mentett jelszavak">
+<!ENTITY pref_private_data_cache "Gyorsítótár">
+<!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
+<!ENTITY pref_private_data_siteSettings "Webhely beállításai">
+
+<!ENTITY pref_update_autodownload "Automatikus frissítések">
+<!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
+<!ENTITY pref_update_autodownload_disabled "Tiltva">
+<!ENTITY pref_update_autodownload_enabled "Engedélyezve">
 
 <!ENTITY quit "Kilépés">
 
 <!ENTITY addons "Kiegészítők">
 <!ENTITY downloads "Letöltések">
+<!ENTITY apps "Alkalmazások">
 <!ENTITY char_encoding "Karakterkódolás">
 
 <!ENTITY share "Megosztás">
+<!ENTITY share_title "Megosztás ezen:">
+<!ENTITY share_image_failed "Nem lehet megosztani ezt a képet">
 <!ENTITY save_as_pdf "Mentés PDF-ként">
+<!ENTITY find_in_page "Keresés az oldalon">
+<!ENTITY desktop_mode "Asztali változat kérése">
+<!ENTITY tools "Eszközök">
+<!ENTITY new_pb_tab "Új privát böngészőablak">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Keresés az oldalon">
+<!ENTITY find_prev "Előző">
+<!ENTITY find_next "Következő">
+<!ENTITY find_close "Bezárás">
 
 <!ENTITY contextmenu_open_new_tab "Megnyitás új lapon">
+<!ENTITY contextmenu_open_in_reader "Megnyitás az Olvasóban">
+<!ENTITY contextmenu_remove_history "Eltávolítás">
 <!ENTITY contextmenu_remove_bookmark "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
 <!ENTITY contextmenu_share "Megosztás">
+<!ENTITY contextmenu_pasteandgo "Beillesztés és ugrás">
+<!ENTITY contextmenu_paste "Beillesztés">
+<!ENTITY contextmenu_copyurl "Cím másolása">
+<!ENTITY contextmenu_edit_bookmark "Szerkesztés">
 
-<!ENTITY site_settings_title        "Webhelybeállítások törlése">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Oldal eltávolítva">
+
+<!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
+<!ENTITY bookmark_edit_name "Név">
+<!ENTITY bookmark_edit_location "Hely">
+<!ENTITY bookmark_edit_keyword "Kulcsszó">
+
+<!ENTITY site_settings_title2       "Webhely beállításai…">
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
+
+<!ENTITY reading_list "Olvasási lista">
+<!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
+<!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
+<!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
+<!ENTITY reader "Olvasó">
 
 <!ENTITY masterpassword_create_title "Mesterjelszó létrehozása">
 <!ENTITY masterpassword_remove_title "Mesterjelszó törlése">
@@ -98,13 +183,81 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Mégse">
+<!ENTITY button_yes "Igen">
+<!ENTITY button_no "Nem">
+<!ENTITY button_clear_data "Adatok törlése">
+<!ENTITY button_set "Beállítás">
+<!ENTITY button_clear "Törlés">
 
 <!ENTITY abouthome_addons_title "Kiegészítők a &brandShortName;hoz">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_addons_browse "Minden &brandShortName; kiegészítő böngészése">
 <!ENTITY abouthome_last_tabs_title "A legutóbbi lapok megjelenítése">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_last_tabs_open "A legutóbbi lapok megnyitása">
+<!ENTITY abouthome_top_sites_title "Népszerű oldalak">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Állítsa be a Firefox Syncet a más eszközökön használt könyvjelzői, előzményei és lapjai eléréséhez&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Szerezzen be alkalmazásokat a Firefox Marketplace-ről, és fedezze fel a web kínálatának legjavát&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+
+<!ENTITY filepicker_title "Fájlválasztás">
+<!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
+<!ENTITY filepicker_image_title "Válasszon vagy készítsen egy képet">
+<!ENTITY filepicker_video_title "Válasszon vagy vegyen fel egy videót">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "A következőhöz csatlakozott:">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "Működtetője:">
+
+<!ENTITY private_data_success "A privát adatok törölve">
+<!ENTITY private_data_fail "Egyes privát adatok nem törölhetők">
+
+<!ENTITY bookmarkhistory_button_import "Importálás">
+<!ENTITY bookmarkhistory_import_both "Könyvjelzők és előzmények importálása
+                                      Androidról">
+<!ENTITY bookmarkhistory_import_bookmarks "Könyvjelzők importálása
+                                      Androidról">
+<!ENTITY bookmarkhistory_import_history "Előzmények importálása
+                                      Androidról">
+<!ENTITY bookmarkhistory_import_wait "Kis türelmet…">
+
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
+<!ENTITY suggestions_prompt "Szeretné bekapcsolni &#037;s keresési javaslatait?">
+
+<!ENTITY webapp_generic_name "Alkalmazás">
+
+<!ENTITY searchable_description "Könyvjelzők és előzmények">
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_start_select2 "Koppintson a letöltéshez">
+
+<!ENTITY updater_downloading_title2 "A &brandShortName; letöltése">
+<!ENTITY updater_downloading_title_failed2 "Letöltés sikertelen
+">
+<!ENTITY updater_downloading_select2 "Koppintson a frissítés alkalmazásához a letöltés után">
+<!ENTITY updater_downloading_retry2 "Koppintson az újraindításhoz">
+
+<!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_apply_select2 "Koppintson a frissítéshez">

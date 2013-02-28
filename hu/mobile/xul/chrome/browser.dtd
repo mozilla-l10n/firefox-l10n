@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY urlbar.emptytext      "Keresés vagy cím">
 
 <!ENTITY back.label            "Vissza">
@@ -46,7 +50,7 @@
 <!ENTITY addonOptions.label        "Beállítások">
 <!ENTITY addonEnable.label         "Engedélyezés">
 <!ENTITY addonDisable.label        "Letiltás">
-<!ENTITY addonInstall2.label       "Hozzáadás a &brandShortName; programhoz...">
+<!ENTITY addonInstall2.label       "Hozzáadás a &brandShortName; programhoz…">
 <!ENTITY addonUninstall.label      "Eltávolítás">
 <!ENTITY addonCancel.label         "Mégse">
 <!ENTITY addonShowPage.label       "Ugrás az oldalra">
@@ -87,7 +91,7 @@
 <!ENTITY consoleMessages.label     "Üzenetek">
 <!ENTITY consoleCodeEval.label     "Kód:">
 <!ENTITY consoleClear.label        "Törlés">
-<!ENTITY consoleEvaluate.label     "...">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Forrásfájl:">
 <!ENTITY consoleErrLine.label      "Sor:">
 <!ENTITY consoleErrColumn.label    "Oszlop:">
