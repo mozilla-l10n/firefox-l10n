@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Kivágás">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Másolás">
@@ -13,8 +17,10 @@
 
 <!ENTITY spellAddToDictionary.label "Hozzáadás a szótárhoz">
 <!ENTITY spellAddToDictionary.accesskey "H">
-<!ENTITY spellCheckEnable.label "Helyesírás-ellenőrzés">
-<!ENTITY spellCheckEnable.accesskey "e">
+<!ENTITY spellUndoAddToDictionary.label "Törlés a szótárból">
+<!ENTITY spellUndoAddToDictionary.accesskey "T">
+<!ENTITY spellCheckToggle.label "Helyesírás-ellenőrzés">
+<!ENTITY spellCheckToggle.accesskey "e">
 <!ENTITY spellNoSuggestions.label "(Nincs javaslat)">
 <!ENTITY spellDictionaries.label "Nyelvek">
 <!ENTITY spellDictionaries.accesskey "N">
