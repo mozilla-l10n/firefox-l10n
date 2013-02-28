@@ -5,7 +5,7 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Navn:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresse:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "P">
+<!ENTITY editBookmarkOverlay.location.accesskey              "A">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Adresse på feed:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresse på side:">
