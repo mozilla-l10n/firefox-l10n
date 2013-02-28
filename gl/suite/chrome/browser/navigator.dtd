@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Navegación privada">
+
 <!ENTITY editPageCmd.label "Editar páxina">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
@@ -65,7 +67,7 @@
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
 <!ENTITY homeButton.label             "Inicio">
 <!ENTITY bookmarksToolbarItem.label   "Elementos da barra de marcadores">
-<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
