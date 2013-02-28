@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Rhaid rhestri unrhyw bolisïau preifatrwydd perthnasol yma.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Mae rhai nodweddion &brandShortName; yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100&#37; yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr ">
+<!ENTITY rights2.intro-point4a "Mae rhai nodweddion &brandShortName; yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100&#037; yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr ">
 <!ENTITY rights.intro-point4b "amodau gwasanaeth">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->

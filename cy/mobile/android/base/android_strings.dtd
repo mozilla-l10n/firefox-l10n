@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Mae\'r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\'r We.">
+<!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff dim er elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_show_product_announcements "Dangos cyhoeddiadau cynnyrch">
@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
-<!ENTITY pref_private_data_siteSettings "Dewisiadau\'r wefan">
+<!ENTITY pref_private_data_siteSettings "Dewisiadau\u0027r wefan">
 <!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
 
 <!ENTITY pref_update_autodownload "Diweddariadau awtomatig">
@@ -131,7 +131,7 @@ size. -->
 
 <!ENTITY share "Rhannu">
 <!ENTITY share_title "Rhannu drwy">
-<!ENTITY share_image_failed "Methu rhannu\'r ddelwedd">
+<!ENTITY share_image_failed "Methu rhannu\u0027r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY find_in_page "Canfod yn y Dudalen">
 <!ENTITY desktop_mode "Gofyn am Wefan Lawn">
@@ -165,7 +165,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copïo Cyfeiriad">
 <!ENTITY contextmenu_edit_bookmark "Golygu">
 
-<!ENTITY history_removed "Wedi tynnu\'r dudalen">
+<!ENTITY history_removed "Wedi tynnu\u0027r dudalen">
 
 <!ENTITY bookmark_edit_title "Golygu Nod Tudalen">
 <!ENTITY bookmark_edit_name "Enw">
@@ -179,8 +179,8 @@ size. -->
 
 <!ENTITY reading_list "Rhestr Ddarllen">
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
-<!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\'ch Rhestr Ddarllen">
-<!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\'ch Rhestr Darllen">
+<!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
+<!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
 <!ENTITY reader "Darllenydd">
 
 <!ENTITY masterpassword_create_title "Creu Prif Gyfrinair">
@@ -212,7 +212,7 @@ size. -->
      character and the remainder of the string to prevent word wrap. -->
 
 <!ENTITY abouthome_about_sync3 "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a thabiau eich dyfeisiau eraill&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Estynnwch apiau o\'r Mozilla Marketplace a darganfod y gorau sydd gan y We ei gynnig&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Estynnwch apiau o\u0027r Mozilla Marketplace a darganfod y gorau sydd gan y We ei gynnig&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -238,7 +238,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "sy\'n cael ei redeg gan">
+<!ENTITY identity_run_by "sy\u0027n cael ei redeg gan">
 
 <!ENTITY private_data_success "Clirio data preifat">
 <!ENTITY private_data_fail "Nid oedd modd clirio peth data preifat">
