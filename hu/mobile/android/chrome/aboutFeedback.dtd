@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+<!ENTITY pageTitle                 "&brandShortName; visszajelzés">
+
+<!ENTITY intro.header              "Van egy perce?">
+<!ENTITY intro.message             "Mondja el, mit gondol eddig a &brandShortName; for Android alkalmazásról.">
+<!ENTITY intro.happyLink           "Szeretem">
+<!ENTITY intro.sadLink             "Problémákba ütköztem">
+<!ENTITY intro.ideaLink            "Van egy ötletem">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "Ha segítségre van szüksége, vagy problémája van a &brandShortName; alkalmazással, keresse fel a ">
+<!ENTITY support.link              "&brandShortName; támogatás">
+<!ENTITY support.post              " oldalt.">
+
+<!ENTITY happy.header              "Örömmel halljuk!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+<!ENTITY happy.message             "Adjon 5 csillagos értékelést a Google Playen!">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+<!ENTITY happy.finePrint           "Csak egy perc, és nagyszerű érzés.">
+
+<!ENTITY happy.ratingLink          "Igen, felkeresem a Google Playt">
+<!ENTITY happy.maybeLater          "Talán később">
+<!ENTITY happy.noThanks            "Köszönöm, nem">
+
+<!ENTITY sad.message               "Sajnáljuk, hogy problémákkal találkozott a &brandShortName; használatakor. Mondja el, mi történt, hogy kijavíthassuk.">
+<!ENTITY sad.placeholder           "Írja be ide a visszajelzést">
+<!ENTITY sad.lastSite              "Utoljára felkeresett oldal (elhagyható)">
+
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "Köszönjük, hogy elmondta véleményét.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+<!ENTITY sad.thanksMessageTop      "Folyamatosan dolgozunk azon, hogy a &brandShortName; jobb legyen. Nyugodjon meg, valódi emberek fogják elolvasni visszajelzését, és mindent megtesznek a probléma javításáért.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+<!ENTITY sad.thanksMessageBottom   "A saját érdekükben...">
+
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+<!ENTITY idea.message              "Szívesen vesszük ötleteit! Ossza meg gondolatait alább. (De csak a &brandShortName;-közelieket.)">
+<!ENTITY idea.placeholder          "Írja be ide az ötletét">
+<!ENTITY idea.thanksHeader         "Köszönjük!">
+
+<!ENTITY idea.thanksMessageTop     "Nagyra becsüljük, hogy megosztja gondolatait. Folyamatosan dolgozunk azon, hogy a &brandShortName; jobb legyen, és az ehhez hasonló hozzájárulások nagyszerű dolgokhoz vezethetnek.">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+<!ENTITY idea.thanksMessageBottom  "Ugyan nem látja, de most nagyon büszkék vagyunk Önre.">
+
+<!ENTITY feedback.privacy          "Magánszférájának védelme érdekében ne adjon meg a visszajelzésében azonosítható személyes adatokat.">
+<!ENTITY feedback.send             "Visszajelzés küldése">
