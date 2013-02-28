@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Ningún aplicativo web instalado. Obter algún desde a ">
 <!ENTITY aboutApps.noApps.middle3 "tenda de aplicativos en liña (Firefox Marketplace)">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Desinstalar">
+<!ENTITY aboutApps.addToHomescreen "Engadir á pantalla de inicio">
