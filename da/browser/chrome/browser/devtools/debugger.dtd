@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pause ved exceptions">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.pauseExceptions.key "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -63,7 +63,7 @@
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 <!ENTITY debuggerUI.showOnlyEnum        "Vis kun enumerable egenskaber">
-<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.showOnlyEnum.key    "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
@@ -96,8 +96,8 @@
 
 <!-- localization note (debuggerui.focusvariables): this is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerui.focusvariables      "focus variables tree">
-<!ENTITY debuggerui.focusvariables.key  "v">
+<!ENTITY debuggerui.focusvariables      "Fokuser på variabel-træ">
+<!ENTITY debuggerui.focusvariables.key  "t">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
