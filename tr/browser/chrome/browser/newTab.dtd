@@ -4,4 +4,8 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Yeni sekme">
+<!ENTITY newtab.undo.removedLabel "Küçük resim kaldırıldı.">
+<!ENTITY newtab.undo.undoButton "Geri al.">
+<!ENTITY newtab.undo.restoreButton "Tümünü geri yükle.">
+<!ENTITY newtab.undo.closeTooltip "Gizle">
 

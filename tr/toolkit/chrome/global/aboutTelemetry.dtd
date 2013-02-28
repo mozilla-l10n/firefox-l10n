@@ -16,6 +16,8 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "   Geç Yazmalar ">
+
 <!ENTITY aboutTelemetry.systemInfoSection "   Sistem Bilgisi ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Eklentiler Tarafından Toplanan Histogramlar ">
