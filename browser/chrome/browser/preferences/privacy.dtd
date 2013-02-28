@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Követés">
 
 <!ENTITY doNotTrack.label               "Nem akarom, hogy a webhelyek kövessenek">
@@ -15,7 +19,6 @@
 <!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
 <!ENTITY  locbar.nothing.label          "Egyik sem">
 
-
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY acceptCookies.accesskey       "e">
 
@@ -29,11 +32,11 @@
 <!ENTITY  close.label                   "a &brandShortName; bezárásáig">
 <!ENTITY  askEachTime.label             "megerősítés minden alkalommal">
 
-<!ENTITY  cookieExceptions.label        "Kivételek...">
+<!ENTITY  cookieExceptions.label        "Kivételek…">
 <!ENTITY cookieExceptions.accesskey    "v">
 
-<!ENTITY  showCookies.label             "Sütik megtekintése...">
-<!ENTITY showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Sütik megtekintése…">
+<!ENTITY showCookies.accesskey         "t">
 
 <!ENTITY  historyHeader.pre.label          "A &brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey      "F">
@@ -64,11 +67,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Mindig a privát böngészési módot használja">
 <!ENTITY privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Böngészési előzmények megőrzése">
-<!ENTITY rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Letöltési előzmények megőrzése">
-<!ENTITY rememberDownload.accesskey     "L">
+<!ENTITY  rememberHistory2.label      "Böngészési és letöltési előzmények megőrzése">
+<!ENTITY rememberHistory2.accesskey  "l">
 
 <!ENTITY  rememberSearchForm.label       "Keresőmezők és űrlapmezők előzményeinek megőrzése">
 <!ENTITY rememberSearchForm.accesskey   "K">
@@ -76,5 +76,5 @@
 <!ENTITY  clearOnClose.label             "Előzmények törlése a &brandShortName; bezárásakor">
 <!ENTITY clearOnClose.accesskey         "E">
 
-<!ENTITY  clearOnCloseSettings.label     "Beállítások...">
+<!ENTITY  clearOnCloseSettings.label     "Beállítások…">
 <!ENTITY clearOnCloseSettings.accesskey "B">
