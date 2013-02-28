@@ -421,6 +421,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Enviar o ficheiro de son por correo…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activar este engadido">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Agochar este engadido">
+<!ENTITY hidePluginCmd.accesskey      "h">
 <!ENTITY copyLinkCmd.label            "Copiar a localización da ligazón">
 <!ENTITY copyLinkCmd.accesskey        "l">
 <!ENTITY copyImageCmd.label           "Copiar a localización da imaxe">
