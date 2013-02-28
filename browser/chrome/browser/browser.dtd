@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la Barre de développement">
+<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la barre de développement">
 <!ENTITY devToolbarMenu.label              "Barre de développement">
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Outils">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/fermer les outils pour les développeurs">
+<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils développeurs">
 
 <!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
@@ -628,10 +628,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
 <!ENTITY social.chatBar.accesskey "S">
 
-<!ENTITY getUserMedia.selectCamera.label "Webcam à partager :">
+<!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphone à partager :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Accès webcam/microphone">
-<!ENTITY webrtcIndicatorButton.tooltip "Afficher les sites avec lesquels vous partagez actuellement votre webcam ou votre microphone">
+<!ENTITY webrtcIndicatorButton.label "Accès caméra/microphone">
+<!ENTITY webrtcIndicatorButton.tooltip "Afficher les sites avec lesquels vous partagez actuellement votre caméra ou votre microphone">

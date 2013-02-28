@@ -28,7 +28,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Afficher/masquer la barre de filtre rapide.">
+         "Afficher/Masquer la barre de filtre rapide.">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
