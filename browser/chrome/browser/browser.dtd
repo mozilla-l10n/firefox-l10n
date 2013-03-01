@@ -249,13 +249,8 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Scancèlla a stöia ciù nêuva…">
-<!ENTITY clearRecentHistory.accesskey           "S">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Coménsa 'na navegaçión privâ">
-<!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Fèrma a navegaçión privâ">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Fànni védde"> 
@@ -282,6 +277,10 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Fànni védde tùtta a stöia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY hidePluginCmd.label "Ascóndi sto plugin">
+<!ENTITY hidePluginCmd.accesskey "n">
+
+
 <!ENTITY appMenuEdit.label "Càngia">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuToolbarLayout.label "Aparénsa da bâra…">
@@ -294,7 +293,8 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Vànni into Scîto">
+<!ENTITY urlbar.placeholder2 "Scrîvi 'n indirìsso ò inìçia 'na riçèrca">
+
 <!ENTITY urlbar.accesskey             "S">
 <!ENTITY urlbar.switchToTab.label     "Vanni a-o féuggio:">
 
@@ -556,7 +556,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Ciù informaçioìn…">
 
-<!ENTITY allTabs.filter.emptyText "Bâra de Ricèrca">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Féuggio do navegatô">
@@ -634,5 +634,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Seleçiónn-a chat">
 <!ENTITY webrtcIndicatorButton.label "Acèsso fòtocàmera/micròfono">
 <!ENTITY webrtcIndicatorButton.tooltip "Fànni védde i scîti co-i quâæ én condivîzi fòtocàmera ò micròfono">
+
+<!ENTITY mixedContentBlocked.helplink "Âtre informaçioìn">
+<!ENTITY mixedContentBlocked.moreinfo "I ciù tànti scîti web fonçioniàn bén ànche se végne blocòu sto contegnûo.">
+<!ENTITY playPluginCmd.label "Atîva sto plugin">
+<!ENTITY playPluginCmd.accesskey "l">
 
 

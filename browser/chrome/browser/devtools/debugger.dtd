@@ -44,3 +44,9 @@
 <!ENTITY debuggerUI.showVarsFilter.key "d">
 <!ENTITY debuggerUI.showOnlyEnum "Fànni védde sôlo e proprietæ che ti peu contâ">
 <!ENTITY debuggerUI.showOnlyEnum.key "o">	
+
+<!ENTITY debuggerUI.searchVariable.key "F">
+<!ENTITY debuggerUI.focusVariables "Seleçiónn-a 'n èrbo de-e variàbili">
+
+
+
