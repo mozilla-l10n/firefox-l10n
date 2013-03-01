@@ -11,4 +11,6 @@
 <!ENTITY aboutApps.noApps.pre "Hiç web uygulaması yüklenmemiş. ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post " üzerinden uygulama edinebilirsiniz.">
+<!ENTITY aboutApps.uninstall "Kaldır">
+<!ENTITY aboutApps.addToHomescreen "Ana ekrana ekle">
 
