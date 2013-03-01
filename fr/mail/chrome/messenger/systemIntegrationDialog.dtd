@@ -19,3 +19,4 @@
 
 <!ENTITY acceptIntegration.label  "Définir par défaut">
 <!ENTITY cancelIntegration.label  "Ignorer l'intégration">
+<!ENTITY cancelIntegration2.label  "Annuler">
