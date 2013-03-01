@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Descargas">
 
 <!ENTITY downloadBehavior.label         "Cuando comience una descarga">
-<!ENTITY focusWhenStarting.label        "Parpadear el administrador de descargas si ya está abierto, de no ser así:">
-<!ENTITY focusWhenStarting.accesskey    "P">
-<!ENTITY openDM.label                   "Abrir el administrador de descargas">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Abrir un diálogo de progreso">
-<!ENTITY openProgressDialog.accesskey   "o">
 <!ENTITY doNothing.label                "No abrir nada">
 <!ENTITY doNothing.accesskey            "d">
+<!ENTITY openProgressDialog.label       "Abrir un diálogo de progreso">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY openDM.label                   "Abrir el administrador de descargas">
+<!ENTITY openDM.accesskey               "m">
+<!ENTITY flashWhenOpen.label            "Parpadear el administrador de descargas si ya está abierto">
+<!ENTITY flashWhenOpen.accesskey        "P">
 
 <!ENTITY downloadLocation.label         "Cuando guarda un archivo">
 <!ENTITY saveTo.label                   "Guardar archivos en">
