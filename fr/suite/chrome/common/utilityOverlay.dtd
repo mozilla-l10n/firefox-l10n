@@ -13,7 +13,7 @@
 <!ENTITY newMenu.label "Nouveau">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Page blanche">
-<!ENTITY newBlankPageCmd.accesskey "P">
+<!ENTITY newBlankPageCmd.accesskey "b">
 <!ENTITY newBlankPageCmd.key "N">
 <!ENTITY newPageFromTemplateCmd.label "Page utilisant un modèle">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
@@ -23,6 +23,9 @@
 <!ENTITY newNavigatorCmd.label "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPrivateWindowCmd.label "Fenêtre de navigation privée">
+<!ENTITY newPrivateWindowCmd.key "p">
+<!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
