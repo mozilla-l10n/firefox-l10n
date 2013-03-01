@@ -257,7 +257,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Marque-pages et historique">
 
 <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Mise à jour disponible pour &brandShortName;">
+<!ENTITY updater_start_title2 "Mise à jour de &brandShortName; disponible">
 <!ENTITY updater_start_select2 "Toucher pour télécharger">
 
 <!ENTITY updater_downloading_title2 "Téléchargement de &brandShortName;">
@@ -265,5 +265,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toucher pour appliquer la mise à jour une fois téléchargée">
 <!ENTITY updater_downloading_retry2 "Toucher pour réessayer">
 
-<!ENTITY updater_apply_title2 "Mise à jour disponible pour &brandShortName;">
+<!ENTITY updater_apply_title2 "Mise à jour de &brandShortName; disponible">
 <!ENTITY updater_apply_select2 "Toucher pour mettre à jour">
