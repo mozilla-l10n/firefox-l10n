@@ -106,6 +106,7 @@ size. -->
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_show_product_announcements "Produktankündigungen anzeigen">
 <!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
 <!ENTITY pref_import_android "Import aus Android">
 <!ENTITY pref_private_data_history "Besuchte Seiten &amp; Download-Chronik">
 <!ENTITY pref_private_data_formdata "Eingegebene Suchbegriffe &amp; Formulardaten">
@@ -114,7 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
 <!ENTITY pref_private_data_siteSettings "Website-Einstellungen">
-<!ENTITY pref_search_suggestions "Suchvorschläge anzeigen">
+<!ENTITY pref_private_data_downloadFiles "Heruntergeladene Dateien">
 
 <!ENTITY pref_update_autodownload "Automatische Updates">
 <!ENTITY pref_update_autodownload_wifi "Nur über WLAN">
@@ -203,7 +204,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Ändern">
 <!ENTITY abouthome_topsites_pin "Immer auf Startseite anzeigen">
 <!ENTITY abouthome_topsites_unpin "Von Startseite entfernen">
-<!ENTITY abouthome_topsites_unpinall "Alle von Startseite entfernen">
+<!ENTITY abouthome_topsites_remove "Entfernen">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
