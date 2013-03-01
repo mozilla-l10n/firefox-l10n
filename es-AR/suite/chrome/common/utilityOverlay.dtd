@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Ventana del navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
+<!ENTITY newPrivateWindowCmd.label "Ventana privada">
+<!ENTITY newPrivateWindowCmd.key "p">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista previa">
