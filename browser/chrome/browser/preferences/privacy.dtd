@@ -7,7 +7,7 @@
 <!ENTITY dntTrackingNopref.accesskey "a">
 <!ENTITY dntTrackingNotOkay.label "Richiedi ai siti di non effettuare alcun tracciamento.">
 <!ENTITY dntTrackingNotOkay.accesskey "h">
-<!ENTITY dntTrackingOkay.label "Comunica ai siti la disponibilità ad essere tracciati.">
+<!ENTITY dntTrackingOkay.label "Comunica ai siti la disponibilità a essere tracciati.">
 <!ENTITY dntTrackingOkay.accesskey "i">
 <!ENTITY doNotTrackInfo.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
