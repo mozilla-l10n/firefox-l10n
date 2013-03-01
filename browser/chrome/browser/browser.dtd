@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la Barre de développement">
+<!ENTITY devToolbarCloseButton.tooltiptext "Fermer la barre de développement">
 <!ENTITY devToolbarMenu.label              "Barre de développement">
 <!ENTITY devToolbarMenu.accesskey          "r">
 <!ENTITY devToolbar.keycode                "VK_F2">
