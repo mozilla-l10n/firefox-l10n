@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "a">
 <!ENTITY chooseFile.label "Choisir un fichier…">
 <!ENTITY chooseFile.accesskey "C">
+<!ENTITY newPrivate.label "Nouvelle fenêtre de navigation privée">
 <!ENTITY newWindow.label "Nouvelle fenêtre du navigateur">
 <!ENTITY newTab.label "Nouvel onglet du navigateur">
 <!ENTITY currentTab.label "Onglet actuel du navigateur">
