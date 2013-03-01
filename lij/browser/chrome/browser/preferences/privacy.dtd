@@ -4,9 +4,6 @@
 
 <!ENTITY tracking.label                 "Traciaménto">
 
-<!ENTITY doNotTrack.label               "Dìnni a-i scîti che mi no véuggio êse traciòu">
-<!ENTITY doNotTrack.accesskey           "u">
-
 <!ENTITY  history.label                 "Stöia">
 
 <!ENTITY  locationBar.label             "Bâra di indìrissi">
@@ -79,4 +76,13 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Inpostaçioìn…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY dntTrackingNopref.label "No comunicâ nisciùnn-a preferénsa in sciô al traciaménto di dæti personâli.">
+<!ENTITY dntTrackingNopref.accesskey "a">
+<!ENTITY dntTrackingNotOkay.label "Domànda a-i scîti de no fâ nisciùn traciaménto.">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label "Comùnica a-i scîti a disponibilitæ a êse traciæ.">
+<!ENTITY dntTrackingOkay.accesskey "i">
+<!ENTITY doNotTrackInfo.label "Âtre informaçioìn">
+
 

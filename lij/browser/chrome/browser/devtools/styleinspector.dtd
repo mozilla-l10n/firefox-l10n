@@ -8,11 +8,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
-  -  that specifies whether the styles that are not from the user's stylesheet
-  -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "Sôlo stîli de l'utilizatô">
-
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 <!ENTITY userStylesSearch      "Riçèrca">
@@ -27,10 +22,6 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Nisciùnn-a propietæ CSS atrovâ.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Seletoî no corispondenti">
 
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
@@ -40,6 +31,6 @@
 <!ENTITY bestMatch             "A mêgio corispondensa">
 <!ENTITY matched               "Corispondente">
 <!ENTITY parentMatch           "Corispondensa do poæ">
-<!ENTITY unmatched             "No corispondente">
 <!ENTITY computedViewTitle 		"Calcolæ">
 <!ENTITY ruleViewTitle 			"Régole">
+<!ENTITY browserStylesLabel "Stîli do navegatô">
