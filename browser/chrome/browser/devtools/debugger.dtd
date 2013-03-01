@@ -94,10 +94,10 @@
 <!ENTITY debuggerUI.searchVariable      "Filtrer variabler">
 <!ENTITY debuggerUI.searchVariable.key  "v">
 
-<!-- localization note (debuggerui.focusvariables): this is the text that appears
+<!-- localization note (debuggerUI.focusVariables): this is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerui.focusvariables      "Fokuser på variabel-træ">
-<!ENTITY debuggerui.focusvariables.key  "t">
+<!ENTITY debuggerUI.focusVariables      "Fokuser på variabel-træ">
+<!ENTITY debuggerUI.focusVariables.key  "t">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
