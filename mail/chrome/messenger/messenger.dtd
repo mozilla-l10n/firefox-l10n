@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Editar">
 <!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
 <!ENTITY appmenuToolbarLayout.label "Diseño de la barra…">
+<!ENTITY appmenuSelectThread.label "Seleccionar conversación">
+<!ENTITY appmenuSelectFlagged.label "Seleccionar mensajes destacados">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nueva etiqueta…">
