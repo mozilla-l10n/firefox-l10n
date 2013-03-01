@@ -6,7 +6,7 @@
 <!ENTITY remoteDebuggerMenu.label "Debug remòtto">
 <!ENTITY debuggerUI.searchPanelTitle    "Operatoî">
 <!ENTITY debuggerMenu.accesskey         "D">
-
+<!ENTITY debuggerUI.focusVariables.key "v">
 <!ENTITY debuggerUI.optsButton.tooltip "Opçioìn debugger">
 
 <!ENTITY debuggerUI.pauseExceptions.key "M">
