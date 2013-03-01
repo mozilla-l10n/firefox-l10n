@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Masaüstü yer imleri'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobil yer imleri'>
 <!ENTITY bookmarks.folder.readinglist.label 'Okuma listesi'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Sabitlenmiş'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>

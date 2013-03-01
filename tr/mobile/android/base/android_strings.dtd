@@ -54,11 +54,10 @@
 <!ENTITY site_security "Site Güvenliği">
 
 <!ENTITY close_tab "Sekmeyi kapat">
-<!ENTITY new_tab "Yeni sekme">
 <!ENTITY one_tab "1 sekme">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d sekme">
+<!ENTITY num_tabs2 "&formatD; sekme">
 <!ENTITY new_tab_opened "Yeni sekme açıldı">
 
 <!ENTITY settings "Ayarlar">
@@ -116,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings "Site tercihleri">
+<!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
 
 <!ENTITY pref_update_autodownload "Otomatik güncellemeler">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
@@ -136,7 +136,15 @@ size. -->
 <!ENTITY find_in_page "Sayfada bul">
 <!ENTITY desktop_mode "Masaüstü sitesini iste">
 <!ENTITY tools "Araçlar">
-<!ENTITY new_pb_tab "Yeni Gizli Tarama Sekmesi">
+<!ENTITY new_tab "Yeni sekme">
+<!ENTITY new_private_tab "Yeni gizli sekme">
+<!ENTITY close_all_tabs "Tüm sekmeleri kapat">
+<!ENTITY tabs_normal "Sekmeler">
+<!ENTITY tabs_private "Özel">
+<!ENTITY tabs_synced "Eşitlenen">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +154,7 @@ size. -->
 <!ENTITY find_close "Kapat">
 
 <!ENTITY contextmenu_open_new_tab "Yeni sekmede aç">
+<!ENTITY contextmenu_open_private_tab "Gizli sekmede aç">
 <!ENTITY contextmenu_open_in_reader "Okuyucuda aç">
 <!ENTITY contextmenu_remove_history "Kaldır">
 <!ENTITY contextmenu_remove_bookmark "Kaldır">
@@ -156,8 +165,6 @@ size. -->
 <!ENTITY contextmenu_copyurl "Adresi kopyala">
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Sayfa silindi">
 
 <!ENTITY bookmark_edit_title "Yer imini düzenle">
@@ -194,6 +201,11 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
 <!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
 <!ENTITY abouthome_top_sites_title "Popüler siteler">
+<!ENTITY abouthome_topsites_edit "Düzenle">
+<!ENTITY abouthome_topsites_pin "Siteyi sabitle">
+<!ENTITY abouthome_topsites_unpin "Sabitlenmesini kaldır">
+<!ENTITY abouthome_topsites_remove "Kaldır">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -237,10 +249,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Android\'den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "&#037;s arama önerilerini açmak ister misiniz?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "&formatS; arama önerilerini açmak ister misiniz?">
 
 <!ENTITY webapp_generic_name "Uygulama">
 
