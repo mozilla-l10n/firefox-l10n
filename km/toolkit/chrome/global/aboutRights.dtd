@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "គោលការណ៍​ឯកជន​ដែល​អាច​អនុវត្ត​បាន​ណាមួយ​សម្រាប់​ផលិតផល​នេះ គួរតែ​ត្រូវ​បាន​រាយ​នៅ​ទីនេះ ។">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "លក្ខណៈ​ពិសេស​របស់ &brandShortName; មួយ​ចំនួន ទាញ​យក​ប្រយោជន៍​ពី​សេវា​ព័ត៌មាន​ផ្អែកលើ​បណ្ដាញ ក៏ប៉ុន្តែ​យើង​មិន​អាច​ធានា​ថា​ពួកវា​ត្រឹមត្រូវ ឬ​គ្មាន​កំហុស 100&#37; ឡើយ ។ ព័ត៌មាន​លម្អិត​បន្ថែម រួមមាន​ព័ត៌មាន​ពី​របៀប​បិទ​លក្ខណៈ​ពិសេស​ដែល​ប្រើ​សេវា​ទាំងនេះ អាច​រក​បាន​នៅ​ក្នុង ">
+<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
 <!ENTITY rights.intro-point4b "លក្ខខ័ណ្ឌ​សេវាកម្ម">
 <!ENTITY rights.intro-point4c "។">
 <!-- point 4 text for unbranded builds -->

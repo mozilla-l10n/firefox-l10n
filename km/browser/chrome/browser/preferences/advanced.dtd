@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "ជម្រើស​ទិន្នន័យ">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportSection.label       "&brandShortName; របាយការណ៍​សុខភាព">
+<!ENTITY healthReportDesc.label          "ជួយ​អ្នក​ឲ្យ​យល់​អំពី​ដំណើរការ​នៃ​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក និង​ការ​ចែករំលែក​ទិន្នន័យ​អំពី​សុខភាព​កម្មវិធី​រុករក​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName;">
+<!ENTITY enableHealthReport.label        "បើក &brandShortName; របាយការណ៍​សុខភាព">
+<!ENTITY enableHealthReport.accesskey    "រ">
+<!ENTITY healthReportLearnMore.label     "សិក្សា​​បន្ថែម">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetrySection.label          "ទូរមាត្រ​វិធី">
+<!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​បំណង​អំពី​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
+<!ENTITY enableTelemetry.label           "បើក ​ទូរមាត្រ​វិធី">
+<!ENTITY enableTelemetry.accesskey       "​">
+<!ENTITY telemetryLearnMore.label        "សិក្សា​​បន្ថែម">
 
 <!ENTITY crashReporterSection.label      "កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ផ្ញើ​របាយការណ៍​គាំង​ដើម្បីឲ្យ &vendorShortName; ជួយ​ធ្វើឲ្យ​កម្មវិធី​រុករក​របស់​អ្នក​កាន់តែ​មាន​ស្ថិរភាព និង​សុវត្ថិភាព">
+<!ENTITY enableCrashReporter.label       "បើក​កម្មវិធី​ផ្ញើ​របាយការណ៍គាំង">
+<!ENTITY enableCrashReporter.accesskey   "គ">
+<!ENTITY crashReporterLearnMore.label    "សិក្សា​​បន្ថែម">
 
 <!ENTITY networkTab.label                "បណ្តាញ">
 

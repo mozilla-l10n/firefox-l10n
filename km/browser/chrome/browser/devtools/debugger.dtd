@@ -93,6 +93,11 @@
 
 <!ENTITY debuggerUI.searchVariable      "តម្រង​ដែល​​អាច​ប្រែប្រួល">
 <!ENTITY debuggerUI.searchVariable.key  "V">
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables      "មែកធាង​អថេរ​ផ្ដោត">
+<!ENTITY debuggerUI.focusVariables.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 

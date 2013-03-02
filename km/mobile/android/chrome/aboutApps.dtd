@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "មិន​បាន​ដំឡើង​កម្មវិធី​បណ្ដាញ ។ យក​វា​ខ្លះៗ​ចេញពី">
 <!ENTITY aboutApps.noApps.middle3 "កន្លែង​ផ្ទុក​កម្មវិធី​របស់ Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "លុប">
+<!ENTITY aboutApps.addToHomescreen "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">

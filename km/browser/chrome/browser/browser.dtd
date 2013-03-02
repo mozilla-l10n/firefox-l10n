@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ចំណូលចិត្ត">
 <!ENTITY preferencesCmdUnix.accesskey     "ល"> 
 
-<!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​បច្ចុប្បន្ន...">
-<!ENTITY clearRecentHistory.accesskey           "ស">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
-<!ENTITY privateBrowsingCmd.start.label         "ចាប់ផ្ដើម​ការ​រកមើល​ឯកជន">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ម">
-<!ENTITY privateBrowsingCmd.stop.label          "បញ្ឈប់​ការ​រកមើល​ឯកជន">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "ន">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "មើល"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "ទៅកាន់​តំបន់​បណ្ដាញ">
+<!ENTITY urlbar.placeholder2          "Search or enter address">
 <!ENTITY urlbar.accesskey             "ប">
 <!ENTITY urlbar.switchToTab.label     "ប្ដូរ​ទៅ​ផ្ទាំង ៖">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែល​អូឌីយ៉ូ...">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "ចម្លង​ទីតាំង​តំណ">
 <!ENTITY copyLinkCmd.accesskey        "ណ">
 <!ENTITY copyImageCmd.label           "ចម្លង​ទីតាំង​រូបភាព">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ដែល​រត់​ដោយ">
 
 <!ENTITY identity.moreInfoLinkText "ព័ត៌មាន​បន្ថែម...">
-
-<!ENTITY allTabs.filter.emptyText "ផ្ទាំង​ស្វែងរក">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "ផ្ទាំង​រុករក">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "ការ​ចូល​ប្រើ​ម៉ាស៊ីន​ថត/មីក្រូហ្វូន">
 <!ENTITY webrtcIndicatorButton.tooltip "បង្ហាញ​តំបន់​បណ្ដាញ​ដែល​អ្នក​កំពុង​ចែករំលែក​ម៉ាស៊ីន​ថត និង​មីក្រូហ្វូន​ជាមួយ">
+
+<!ENTITY mixedContentBlocked.helplink "ស្វែងយល់​បន្ថែម">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">

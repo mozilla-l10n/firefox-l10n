@@ -6,26 +6,26 @@
 <!ENTITY abouthealth.locale-direction "ltr">
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
-<!ENTITY abouthealth.pagetitle "&brandShortName; Health Report">
-<!ENTITY abouthealth.header "&brandFullName; Health Report">
+<!ENTITY abouthealth.pagetitle "&brandShortName; របាយការណ៍​សុខភាព">
+<!ENTITY abouthealth.header "&brandFullName; របាយការណ៍​សុខភាព">
 
-<!ENTITY abouthealth.intro.title "What is &brandShortName; Health Report?">
+<!ENTITY abouthealth.intro.title "តើ​អ្វី​ជា​របាយការណ៍​សុខភាព &brandShortName; ?">
 
-<!ENTITY abouthealth.intro-enabled "&brandFullName; collects some data about your computer and usage in order to provide you with a better browser experience.">
-<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
+<!ENTITY abouthealth.intro-enabled "&brandFullName; ប្រមូល​ទិន្នន័យ​មួយ​ចំនួន​អំពី​កុំព្យូទ័រ និង​ការ​ប្រើប្រាស់​របស់​អ្នក​ដើម្បី​ផ្ដល់ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​កម្មវិធី​រុករក​ប្រសើរ​ឡើង ។">
+<!ENTITY abouthealth.intro-disabled "បច្ចុប្បន្ន​អ្នក​មិន​បាន​ដាក់​ស្នើ​ទិន្នន័យ​អំពី​ការ​ប្រើប្រាស់​ទៅកាន់ &vendorShortName;​ ទេ ។ អ្នក​អាច​ជួយ​យើង​ដើម្បី​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង​បាន ដោយ​ចុច​ប៊ូតុង &quot;&abouthealth.optin;&quot; ។">
 
-<!ENTITY abouthealth.optin "Help make &brandShortName; better">
-<!ENTITY abouthealth.optout "Turn Off Reporting">
+<!ENTITY abouthealth.optin "ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
+<!ENTITY abouthealth.optout "បិទ​ការ​រាយការណ៍">
 
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Stop data submission?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+<!ENTITY abouthealth.optout.confirmationPrompt.title "បញ្ឈប់​ការ​ដាក់​ស្នើ​ទិន្នន័យ ?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "តើ​អ្នក​ពិតជា​ចង់​មិន​ចូលរួម និង​លុប​ទិន្នន័យ​ផលិតផល​អនាមិក​របស់​អ្នក​ដែល​បាន​ទុក​នៅ​លើ​ម៉ាស៊ីន​មេ &vendorShortName; មែន​ឬ ?">
 
 <!ENTITY abouthealth.show-raw-data "បង្ហាញ​ព័ត៌មាន​លម្អិត">
 <!ENTITY abouthealth.hide-raw-data "លាក់​ព័ត៌មាន​លម្អិត">
 
-<!ENTITY abouthealth.show-report "Show &brandShortName; Report">
+<!ENTITY abouthealth.show-report "បង្ហាញ​របាយការណ៍ &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
-<!ENTITY abouthealth.details-link "learn more">
-<!ENTITY abouthealth.details.description-end " about what we collect and submit.">
-<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+<!ENTITY abouthealth.details.description-start "នេះ​ជា​ទិន្នន័យ &brandFullName; ដែល​កំពុង​ត្រូវ​បាន​ផ្ញើ​តាម​លំដាប់លំដោយ​ដើម្បីឲ្យ​របាយការណ៍​សុខភាព &brandShortName; អនុវត្ត​មុខងារ ។ អ្នក​អាច">
+<!ENTITY abouthealth.details-link "សិក្សា​បន្ថែម">
+<!ENTITY abouthealth.details.description-end " អំពី​អ្វី​ដែល​យើង​បាន​ប្រមូល និង​ដាក់​ស្នើ ។">
+<!ENTITY abouthealth.no-data-available "មិន​មាន​ការ​ដាក់​ស្នើ​ពី​មុន​ដែល​ត្រូវ​បង្ហាញ​ទេ ។ សូម​ពិនិត្យមើល​វា​ឡើងវិញ​នៅ​ពេល​ក្រោយ ។">
