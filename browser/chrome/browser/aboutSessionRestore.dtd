@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "পুনৰুদ্ধাৰ কৰক">
 <!ENTITY restorepage.listHeader     "উইন্ডো আৰু টেববোৰ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "উইন্ডো &#37;S">
+<!ENTITY restorepage.windowLabel    "Window &#37;S">
