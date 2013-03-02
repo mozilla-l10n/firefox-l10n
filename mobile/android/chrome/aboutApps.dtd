@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Cap d'aplicacion pas installada. N'obténer sul ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Desinstallar">
+<!ENTITY aboutApps.addToHomescreen "Apondre a l'ecran d'acuèlh">

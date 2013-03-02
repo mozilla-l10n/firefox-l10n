@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Pistatge">
 
-<!ENTITY doNotTrack.label               "Indicar als sites Web de me pistar pas">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Indicar pas res als sites a prepaus de mas preferéncias de pistatge.">
+<!ENTITY dntTrackingNopref.accesskey    "m">
+<!ENTITY dntTrackingNotOkay.label       "Indicar als sites Web de que vòli pas èsser pistat.">
+<!ENTITY dntTrackingNotOkay.accesskey   "d">
+<!ENTITY dntTrackingOkay.label          "Indicar als sites Web que vòli pas èsser pistat.">
+<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY doNotTrackInfo.label           "Ne saber mai…">
 
 <!ENTITY  history.label                 "Istoric">
 

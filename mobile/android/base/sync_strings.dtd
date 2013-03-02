@@ -16,16 +16,16 @@
 
 <!ENTITY sync.subtitle.connect.label "Per activar vòstre novèl aparelh, seleccionar « Configurar &syncBrand.shortName.label; » sus aqueste.">
 <!ENTITY sync.subtitle.header2.label "Picatz aqueste còde sus vòstre aparelh">
-<!ENTITY sync.subtitle.connectlocation2.label "Seleccionatz « &sync.title.pair.label; » dins la seccion &syncBrand.shortName.label; de las opcions de Firefox sus vòstre aparelh\.">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Per activar, seleccionatz « Associar un aparelh » sus vòstre aparelh.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Me far veire cossí">
 <!ENTITY sync.link.advancedsetup.label "Configuracion avançada…">
-<!ENTITY sync.link.nodevice.label "Ai pas l\u0027aparelh amb ieu…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "En espèra de l\'autre aparelh…">
+<!ENTITY sync.jpake.subtitle.waiting.label "En espèra de l\u0027autre aparelh…">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "Picatz vòstres identificants de compte per &syncBrand.fullName.label;">
@@ -41,8 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Ensajar tornarmai">
 <!ENTITY sync.button.manual.label "Configuracion manuala">
 <!ENTITY sync.subtitle.nointernet.label "Connexion a Internet indisponibla.">
-<!ENTITY sync.subtitle.failaccount.label "La creacion d\'un compte sus vòstre aparelh a fracassat.">
-<!ENTITY sync.subtitle.failmultiple.label "Avètz mai d\'un Firefox installat ? Actualament, &syncBrand.fullName.label; pren pas en carga qu\'una sola installacion de Firefox a l\'encòp. Desinstallatz las autras instàncias per poder utilizar &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failaccount.label "La creacion d\u0027un compte sus vòstre aparelh a fracassat.">
+<!ENTITY sync.subtitle.failmultiple.label "Avètz mai d\u0027un Firefox installat ? Actualament, &syncBrand.fullName.label; pren pas en carga qu\u0027una sola installacion de Firefox a l\u0027encòp. Desinstallatz las autras instàncias per poder utilizar &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Configuracion acabada">
@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Anullar">
 <!ENTITY sync.button.connect.label "Se connectar">
-<!ENTITY sync.button.ok.label "D\'acòrdi">
+<!ENTITY sync.button.ok.label "D\u0027acòrdi">
 <!-- Account strings -->
   
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
@@ -100,7 +100,7 @@
 <!ENTITY sync.title.send.tab.label "Mandar un onglet als aparelhs">
 <!ENTITY sync.button.send.label "Mandar">
 <!ENTITY sync.button.set.up.sync.label "Installar &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\'onglets">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\'onglets a d\'autres aparelhs.">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\u0027onglets">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\u0027onglets a d\u0027autres aparelhs.">
 <!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
-<!ENTITY sync.text.tab.not.sent.label "Un problèma s\'es produch al moment del mandadís de vòstre onglet.">
+<!ENTITY sync.text.tab.not.sent.label "Un problèma s\u0027es produch al moment del mandadís de vòstre onglet.">
