@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ج"> 
 
-<!ENTITY clearRecentHistory.label               "حالیہ سابقات خالی کریں...">
-<!ENTITY clearRecentHistory.accesskey           "س">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "حالیہ سابقات خالی کریں…">
 
-<!ENTITY privateBrowsingCmd.start.label         "نجی براوزنگ شروع کریں">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ن">
-<!ENTITY privateBrowsingCmd.stop.label          "نجی براوزنگ ختم کریں">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "ن">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "نظارہ"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "پ">
 
 <!ENTITY openCmd.commandkey           "ک">
-<!ENTITY urlbar.placeholder           "کسی ویب سائٹ پر جائیں">
+<!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "ا">
 <!ENTITY emailAudioCmd.label          "آڈیو ای میل کریں...">
 <!ENTITY emailAudioCmd.accesskey      "ا">
+<!ENTITY playPluginCmd.label          "اس پلگ ان کو متحرک کریں">
+<!ENTITY playPluginCmd.accesskey      "م">
+<!ENTITY hidePluginCmd.label          "اس پلگ ان کو چھپائیں">
+<!ENTITY hidePluginCmd.accesskey      "چ">
 <!ENTITY copyLinkCmd.label            "ربط محل وقوع نقل کریں">
 <!ENTITY copyLinkCmd.accesskey        "ق">
 <!ENTITY copyImageCmd.label           "نقش محل وقوع نقل کریں">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "جو جلائی جا رہی ہے بر">
 
 <!ENTITY identity.moreInfoLinkText "مزید معلومات ...">
-
-<!ENTITY allTabs.filter.emptyText "تلاش کریں ٹیب">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "براؤزر کے ٹیب">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "کیمرہ / مائیکروفون رسائی">
 <!ENTITY webrtcIndicatorButton.tooltip "سائٹیں دکھاتا ہے جن کے ساتھ آپ اس وقت اپنا کیمرہ یا مائیکروفون شیئر کر رہے ہیں">
+
+<!ENTITY mixedContentBlocked.helplink "اور سیکھیں">
+<!ENTITY mixedContentBlocked.moreinfo "زیادہ تر ویب سائٹیں اس مواد کے بلاک ہونے کے بوجود بھی ٹھیک سے کام کریں گی۔">

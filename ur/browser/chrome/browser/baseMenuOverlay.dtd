@@ -22,8 +22,8 @@
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "&brandShortName; تندرستی رپورٹ">
+<!ENTITY healthReport.accesskey   "ت">
 
 <!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ا">
