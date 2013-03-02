@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "Okutandika ekyuma ekipya, londa “Tegeka &syncBrand.shortName.label;” ku kyuma.">
 <!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label "Londa “&sync.title.pair.label;” mu kitundu kya &syncBrand.shortName.label; ekye bilondebwako bya Firefox.">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Okutandika, londa “Yunga a ekyuma” ku kyuma kyo ekirala.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Ndaga nga.">
 <!ENTITY sync.link.advancedsetup.label "Okutegeka Okwawagulu…">
-<!ENTITY sync.link.nodevice.label "Sirina ekyuma wano nange…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Okulindirira ekyuma ekyirala…">
@@ -77,7 +77,7 @@
   
 <!ENTITY bookmarks.folder.menu.label "Obulambe Obulondwako">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "Ta\'aga">
+<!ENTITY bookmarks.folder.tags.label "Ta\u0027aga">
 <!ENTITY bookmarks.folder.toolbar.label "Akabawo Kebikola">
 <!ENTITY bookmarks.folder.unfiled.label "Obulambe Obutannasunsulwa">
 <!ENTITY bookmarks.folder.desktop.label "Obulambe bwo Kumeza">
@@ -92,7 +92,7 @@
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Elinya lya akaunta oba ekyisumuluzo ebikyamu">
-<!ENTITY sync.invalidserver.label "Bambi tekamu URL ye\'ngabizi entufu">
+<!ENTITY sync.invalidserver.label "Bambi tekamu URL ye\u0027ngabizi entufu">
 <!ENTITY sync.verifying.label "Okukakasa…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Akasumuluzoko Akokuzawo kakyamu. Bambi gezako natte.">
 <!-- Send tab to device. -->

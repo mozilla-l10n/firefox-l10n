@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Ekyongerwako kyetagisa okulaga ebirimuno.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Koona wano okutandika ekyongerwamu.">
-<!ENTITY clickToPlayPlugin                                   "Koona wano okutandika ekyongerwamu.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Kebera ku Bituusa…">
 <!ENTITY disabledPlugin                                      "Ekyongerwamu kigiddwako.">
 <!ENTITY blockedPlugin.label                                 "Ekyongerwamu kyino kyiziyiziddwa kulw'obukumi bwo.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Okuweereza lipoota eza amangu kunafuyiziddwa.">
 <!ENTITY report.failed                                       "Okuwayo kulemereddwa.">
 <!ENTITY report.unavailable                                  "Tewali alipoota eriwo.">
+<!ENTITY report.comment                                      "Gatttawo endowooza yo (endowooza zirabibwa buli omu)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "Failo">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

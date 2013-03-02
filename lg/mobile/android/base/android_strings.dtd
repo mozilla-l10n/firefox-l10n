@@ -17,10 +17,10 @@
 <!ENTITY  crash_message "&brandShortName; ezikiridde. Awadirira wo walina okuba ku lukala lwa &brandShortName; Tandika omuko nga kompyuta etandise nate.">
 <!ENTITY  crash_help_message "Bambi tuyambe okutereeza ensobi!">
 <!ENTITY  crash_send_report_message "Wereeza Mozilla alipota yokuzikirira">
-<!ENTITY  crash_include_url "Tekamu endagiriro y\'omuko">
+<!ENTITY  crash_include_url "Tekamu endagiriro y\u0027omuko">
 <!ENTITY  crash_close_label "Ggalawo">
 <!ENTITY  crash_restart_label "Tandikka buto &brandShortName;">
-<!ENTITY  sending_crash_report "Okuweereza alipota yo\'kuziikirira\u2026">
+<!ENTITY  sending_crash_report "Okuweereza alipota yo\u0027kuziikirira\u2026">
 <!ENTITY  exit_label "Fulumamu">
 <!ENTITY  continue_label "Weyongereyo">
 
@@ -48,7 +48,7 @@
 <!ENTITY search "Noonya">
 <!ENTITY reload "Ddamu otikke">
 <!ENTITY forward "Mumasso">
-<!ENTITY menu "Eby\'okulondako">
+<!ENTITY menu "Eby\u0027okulondako">
 <!ENTITY back "Back">
 <!ENTITY stop "Yimiriza">
 <!ENTITY site_security "Site Security">
@@ -68,7 +68,7 @@
 <!ENTITY pref_category_importexport "Import &amp; Export">
 <!ENTITY pref_about_firefox "Ebikwata ku &brandShortName;">
 <!ENTITY pref_do_not_track "Gamba ebibanja bileme okunumba">
-<!ENTITY pref_telemetry "Wwayo data we\'enkola">
+<!ENTITY pref_telemetry "Wwayo data we\u0027enkola">
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
 
 <!ENTITY pref_cookies_menu "Kukki">
@@ -78,13 +78,13 @@
 
 <!ENTITY pref_char_encoding "Ennyukuta enkusike">
 <!ENTITY pref_char_encoding_on "Laga Enyanjula">
-<!ENTITY pref_char_encoding_off "Tolaga enyanjula">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Jjamu bwino owobwananyini">
 <!ENTITY pref_plugins "Ebyongerwako">
 <!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "Konna okuzanya">
 <!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Obunene bw\'enukuta">
+<!ENTITY pref_text_size "Obunene bw\u0027enukuta">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Ntononyo">
 <!ENTITY pref_font_size_small "Entono">
@@ -106,15 +106,16 @@ size. -->
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
 <!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Tusaganya">
-<!ENTITY pref_search_suggestions "Laga ebirowoozo by\'okunoonya">
+<!ENTITY pref_search_suggestions "Laga ebirowoozo by\u0027okunoonya">
 <!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Ebifudeyo mu\'kunoonya &amp; mu\'kutikula">
+<!ENTITY pref_private_data_history "Ebifudeyo mu\u0027kunoonya &amp; mu\u0027kutikula">
 <!ENTITY pref_private_data_formdata "Ebifudeyo ku fomu &amp; okunoonya">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
-<!ENTITY pref_private_data_offlineApps "Bwiino we\'ekibanja ekitayungiddwa ku Mutimbangano">
-<!ENTITY pref_private_data_siteSettings "Eby\'okweroboza ku Kibanja">
+<!ENTITY pref_private_data_offlineApps "Bwiino we\u0027ekibanja ekitayungiddwa ku Mutimbangano">
+<!ENTITY pref_private_data_siteSettings "Eby\u0027okweroboza ku Kibanja">
+<!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Tegeka Firefox Sync okutuka mu bulambe, ebifudeyo na awadirira okuyita mu byuma ebirala&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):

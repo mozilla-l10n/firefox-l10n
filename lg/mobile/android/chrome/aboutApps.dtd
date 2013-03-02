@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Tewali pulogulamu zakumutimbagan zitekeddwamu. Funna ezimu okuva ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Uninstall">
+<!ENTITY aboutApps.addToHomescreen "Yongera ku Sikulini Yeka">

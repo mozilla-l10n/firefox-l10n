@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Okkuza obujja">
 <!ENTITY restorepage.listHeader     "Amaddirisa era Awadiriira">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Eddirisa &#37;S">
+<!ENTITY restorepage.windowLabel    "Eddirisa &#037;S">
