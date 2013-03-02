@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Tietosuojattu selaus">
+
 <!ENTITY editPageCmd.label "Muokkaa sivua">
 <!ENTITY editPageCmd.accesskey "v">
 <!ENTITY editPageCmd.commandkey "e">

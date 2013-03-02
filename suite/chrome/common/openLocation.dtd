@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "K">
 <!ENTITY chooseFile.label "Valitse tiedosto…">
 <!ENTITY chooseFile.accesskey "V">
+<!ENTITY newPrivate.label "Uuteen yksityisikkunaan">
 <!ENTITY newWindow.label "Uuteen ikkunaan">
 <!ENTITY newTab.label "Uuteen välilehteen">
 <!ENTITY currentTab.label "Nykyiseen välilehteen">

@@ -18,6 +18,7 @@
 <!ENTITY links.label "Linkkien avautuminen">
 <!ENTITY offline.label "Yhteydetön tila">
 <!ENTITY security.label "Tietoturva">
+<!ENTITY privatedata.label "Yksityistiedot">
 <!ENTITY cookies.label "Evästeet">
 <!ENTITY images.label "Kuvat">
 <!ENTITY popups.label "Ponnahdusikkunat">

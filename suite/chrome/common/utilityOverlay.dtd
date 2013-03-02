@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Selainikkuna">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "S">
+<!ENTITY newPrivateWindowCmd.label "Yksityisikkuna">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "Y">
 <!ENTITY printSetupCmd.label "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey "e">
 <!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">

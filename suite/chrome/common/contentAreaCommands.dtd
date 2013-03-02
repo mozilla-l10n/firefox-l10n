@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "E">
 <!ENTITY popupWindowAllowCmd.label      "Salli tämän sivuston ponnahdusikkunat">
 <!ENTITY popupWindowAllowCmd.accesskey  "S">
-<!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
-<!ENTITY openLinkCmd.accesskey        "i">
 <!ENTITY openLinkCmdInTab.label       "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
+<!ENTITY openLinkCmd.accesskey        "i">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Avaa linkki yksityisikkunaan">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "l">
 <!ENTITY openLinkInWindowCmd.label    "Avaa">
 <!ENTITY openLinkInWindowCmd.accesskey "A">
 <!ENTITY openFrameCmd.label           "Avaa kehys uuteen ikkunaan">
