@@ -35,23 +35,23 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 
-<!ENTITY itemHistoryAndDownloads.label     "လှော်လှန်ခြင်းနဲ့ ဆွဲချ မှတ်တမ်း">
+<!ENTITY itemHistoryAndDownloads.label     "Bလှော်လှန်ခြင်းနဲ့&amp;ဆွဲချ မှတ်တမ်း">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "လှော်လှန်ခြင်း မှတ်တမ်း">
 <!ENTITY itemBrowsingHistory.accesskey     "လ">
-<!ENTITY itemFormSearchHistory.label       "သိမ်းဆည်းထားတံ ဖြည့်စွတ်ပုံစံနဲ့ ရှာဖွေရေး မှတ်တမ်း">
+<!ENTITY itemFormSearchHistory.label       "Fဖြည့်စွတ်ပုံစံနဲ့ ရှာဖွေရေး မှတ်တမ်း">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "သိမ်းဆည်းထားတဲ့ စကားဝှက်များ">
 <!ENTITY itemPasswords.accesskey           "စ">
-<!ENTITY itemCookies.label                 "ကွတ်ကီးများ">
+<!ENTITY itemCookies.label                 "Cကွတ်ကီးများ">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ယာယီသိမ်းဆည်းခန်း">
 <!ENTITY itemCache.accesskey               "ယ">
-<!ENTITY itemOfflineApps.label             "ချိတ်ဆက်မဲ့ ကွန်ရက် စာမျက်နှာ အချက်အလက်ကြမ်း">
+<!ENTITY itemOfflineApps.label             "Oချိတ်ဆက်မဲ့သုံးအချက်အလက်">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemDownloadHistory.label         "ဆွဲချ မှတ်တမ်း">
 <!ENTITY itemDownloadHistory.accesskey     "ဆ">
-<!ENTITY itemActiveLogins.label            "သက်၀င်နေတဲ့ ၀င်ရောက်ချက်များ">
+<!ENTITY itemActiveLogins.label            "Lအလုပ်လုပ်နေသောယူဇာအကောင့်များ">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "ကွန်ရက် ဦးစားပေးအချက်များ">
 <!ENTITY itemSitePreferences.accesskey     "က">

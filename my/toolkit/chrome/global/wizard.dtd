@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  button-back-mac.label        "ပြန်ဆုတ်ပါ">
+<!ENTITY  button-back-mac.label        "Bနောက်ဆုတ်">
 <!ENTITY  button-back-mac.accesskey    "B">
-<!ENTITY  button-next-mac.label        "ဆက်လုပ်ပါ">
+<!ENTITY  button-next-mac.label        "Cဆက်လုပ်">
 <!ENTITY  button-next-mac.accesskey    "C">
 <!ENTITY  button-finish-mac.label      "ပြီးသွားပြီ">
 <!ENTITY  button-cancel-mac.label      "ပယ်​ဖျက်ပါ">
 
-<!ENTITY  button-back-unix.label       "နောက်သို့">
+<!ENTITY  button-back-unix.label       "Bနောက်သို့">
 <!ENTITY  button-back-unix.accesskey   "B">
-<!ENTITY  button-next-unix.label       "နောက်တခု">
+<!ENTITY  button-next-unix.label       "Nရှေ့">
 <!ENTITY  button-next-unix.accesskey   "N">
 <!ENTITY  button-finish-unix.label     "ပြီးသွားပြီ">
 <!ENTITY  button-cancel-unix.label     "ပယ်​ဖျက်ပါ">
 
-<!ENTITY  button-back-win.label        "&lt; နောက်သို့">
+<!ENTITY  button-back-win.label        "&lt; Bနောက်သို့">
 <!ENTITY  button-back-win.accesskey    "B">
-<!ENTITY  button-next-win.label        "နောက်တခု &gt;">
+<!ENTITY  button-next-win.label        "Nရှေ့ &gt;">
 <!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "ပြီးသွားပြီ">
 <!ENTITY  button-cancel-win.label      "ပယ်​ဖျက်ပါ">

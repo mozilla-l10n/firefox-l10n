@@ -59,7 +59,7 @@
 <!ENTITY connection.label                "အချိတ်အဆက်‌">
 
 <!ENTITY connectionDesc.label            "&brandShortName;က အင်တာနက် ချိတ်ဆက်မဲ့ ပုံစံကို ပြင်ဆင်ဖန်တီးပါ">
-<!ENTITY connectionSettings.label        "အပြင်အဆင်များ...">
+<!ENTITY connectionSettings.label        "eအပြင်အဆင်များ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Cached Web Content">
@@ -75,7 +75,7 @@
 <!ENTITY limitCacheSizeBefore.label      "အရန်သိမ်းဆည်းမှုကို နေရာလပ်">
 <!ENTITY limitCacheSizeBefore.accesskey  "အ">
 <!ENTITY limitCacheSizeAfter.label       "MB ဖြင့် ကန့်သတ်ထားပါ">
-<!ENTITY clearCacheNow.label             "အခု ရှင်းလင်းပါ">
+<!ENTITY clearCacheNow.label             "Cအခုရှင်း">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "အခု ရှင်းလင်းပါ">
 <!ENTITY clearOfflineAppCacheNow.accesskey "အ">
@@ -85,9 +85,9 @@
 <!ENTITY updateTab.label                 "မွမ်းမံချက်">
 
 <!ENTITY updateApp.label                 "&brandShortName; ပြုပြင်ချင်းများ">
-<!ENTITY updateAuto.label                "အလိုအလျောက် ပြုပြင်ချင်းများ (အကြံပြုထားသော၊ လုံခြုံရေးမြှင့်ထားသော)">
+<!ENTITY updateAuto.label                "Aအလိုအလျောက် ပြုပြင်ချင်းများ (အကြံပြုထားသော၊ လုံခြုံရေးမြှင့်ထားသော)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "ပြုပြင်ချင်းများစုံစမ်းစစ်ဆေး၊ ဒါပေမယ့် တစ်ခုမဟုတ်တစ်ခု တပ်ဆင်ပါ">
+<!ENTITY updateCheck.label               "Cပြုပြင်ချင်းများစုံစမ်းစစ်ဆေး၊ ဒါပေမယ့် တစ်ခုမဟုတ်တစ်ခု တပ်ဆင်ပါ">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
@@ -131,9 +131,9 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "sလုံခြုံရေးလက်မှတ်များကိုကြည့်မည်">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "ပြန်လည်ရုတ်သိမ်းခြင်း စာရင်းများ">
+<!ENTITY viewCRLs.label                  "Rပြန်လည်ရုတ်သိမ်းခြင်း စာရင်းများ">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "လုံခြုံရေး ကိရိယာများ">
+<!ENTITY viewSecurityDevices.label       "yလုံခြုံရေး ကိရိယာများ">
 <!ENTITY viewSecurityDevices.accesskey   "y">

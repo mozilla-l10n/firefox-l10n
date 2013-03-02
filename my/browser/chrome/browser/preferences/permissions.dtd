@@ -15,12 +15,12 @@
 <!ENTITY address.accesskey            "၀">
 <!ENTITY block.label                  "Bပိတ်ဆို့ပါ">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
+<!ENTITY session.label                "Sဤအခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
 <!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "ခွင့်ပြုပါ">
+<!ENTITY allow.label                  "Aခွင့်ပြုပါ">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w ">
 
-<!ENTITY button.close.label           "ပိတ်ပါ ">
+<!ENTITY button.close.label           "Cပိတ်ပါ ">
 <!ENTITY button.close.accesskey       "C">
 

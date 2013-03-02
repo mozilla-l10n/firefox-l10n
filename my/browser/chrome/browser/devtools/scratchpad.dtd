@@ -46,7 +46,7 @@
 <!ENTITY saveFileAsCmd.label          "ဤသို့ Aသိမ်း...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "ပိတ်ပါ">
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 

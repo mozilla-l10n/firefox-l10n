@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "ချုံ့/ချဲ့ပါ">
 <!ENTITY windowMenu.label         "ဝင်းဒိုး">
 
-<!ENTITY helpMenu.label           "အကူအညီ"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.label           "အကူ"> 
+<!ENTITY helpMenu.accesskey       "အ"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "အကူအညီ"> 
+<!ENTITY helpMenuWin.label        "Help"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct.label       "&brandShortName; အကြောင်း">
 <!ENTITY aboutProduct.accesskey   "A">

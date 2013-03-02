@@ -11,12 +11,12 @@
 <!ENTITY backButton.label               "Bနောက်သို့">
 <!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "နောက် တမျက်နှာ သွားပါ">
-<!ENTITY forwardButton.label            "ရှေ့သို့">
+<!ENTITY forwardButton.label            "Fရှေ့ဆက်လုပ်">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "ရှေ့ တမျက်နှာ သွားပါ">
-<!ENTITY copyCmd.label                  "ကူးယူပါ">
+<!ENTITY copyCmd.label                  "Cကူး">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "အားလုံး ရွေးချယ်ပါ">
+<!ENTITY selectAllCmd.label             "Aအားလုံးရွေး">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
@@ -28,7 +28,7 @@
 
 <!ENTITY search.emptytext               "ရှာဖွေပါ">
 <!ENTITY searchHeader.label             "ရှာဖွေမှု ရလဒ်များ">
-<!ENTITY toctab.label                   "ပါဝင်မှုများ">
+<!ENTITY toctab.label                   "Contents">
 <!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "အမြဲ အပေါ်ဆုံးမှာထားပါ">
 <!ENTITY zLevel.accesskey               "အ">
 
-<!ENTITY fullZoomReduceBtn.label        "ချုံ့ပါ">
+<!ENTITY fullZoomReduceBtn.label        "Oချဲ့">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "ချဲ့ပါ">
+<!ENTITY fullZoomEnlargeBtn.label       "Iချုံ့">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

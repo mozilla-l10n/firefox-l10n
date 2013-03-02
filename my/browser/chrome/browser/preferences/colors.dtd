@@ -6,21 +6,21 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "ကျွန်ုပ် ရွေးချယ်မှုများအစား‌ သူတို့ ကိုယ်ပိုင် အရောင်များ ရွေးဖို့ စာမျက်နှာများကို ခွင့်ပြုပါ">
+<!ENTITY  allowPagesToUse.label           "Aကျွန်ုပ် ရွေးချယ်မှုများအစား‌ သူတို့ ကိုယ်ပိုင် အရောင်များ ရွေးဖို့ စာမျက်နှာများကို ခွင့်ပြုပါ">
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
 <!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
-<!ENTITY  textColor.label                 "စာသား၊">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "နောက်ခံ၊">
-<!ENTITY  backgroundColor.accesskey       "b">
-<!ENTITY  useSystemColors.label           "နည်းစနစ် အရောင်များကို ‌သုံးစွဲပါ">
+<!ENTITY  textColor.label                 "Tစာသား|">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "Bနောက်ခံ၊">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "sနည်းစနစ် အရောင်များကို ‌သုံးစွဲပါ">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "အချိတ်အဆက်များကို မျဉ်းသားပါ">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.label            "Underline links">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "အချိတ်အဆက် အရောင်များ">
-<!ENTITY  linkColor.label                 "လည်ပတ်ခြင်းမပြုတဲ့ အချိတ်အဆက်များ၊">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.label                 "Lလည်ပတ်ခြင်းမပြုတဲ့ အချိတ်အဆက်များ၊">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Visited Links:">
 <!ENTITY  visitedLinkColor.accesskey      "V">

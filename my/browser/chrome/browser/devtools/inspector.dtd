@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "အပြင်ဘက် HTML ကိုကူးပါ">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "အ">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "ဖျက်သိမ်းမည့် မှတ်တမ်း">
 <!ENTITY inspectorHTMLDelete.accesskey      "ဖ">
 
 <!ENTITY inspector.selectButton.tooltip     "အရာ၀တ္ထုကို မောက်စ်နဲ့ ရွေးမှတ်ပါ။">
+
+<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

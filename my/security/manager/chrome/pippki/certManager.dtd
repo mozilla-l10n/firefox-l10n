@@ -78,25 +78,25 @@
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "ပေါင်းထည့်ပါ">
 <!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "တင်ပို့ပါ...">
+<!ENTITY certmgr.export.label                 "Export...">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "ပယ်ဖျက်ပါ...">
+<!ENTITY certmgr.delete2.label                "Delete...">
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "သိမ်းဆည်းပါ...">
+<!ENTITY certmgr.backup2.label                "Backup...">
 <!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "အားလုံး သိမ်းဆည်းပါ...">
+<!ENTITY certmgr.backupall2.label             "Backkup All...">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "တင်သွင်းပါ">
+<!ENTITY certmgr.restore2.label               "Import...">
 <!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.details.label                "လက်မှတ် နေရာကွက်">
+<!ENTITY certmgr.details.label                "Certificate Fields">
 <!ENTITY certmgr.details.accesskey            "F">
-<!ENTITY certmgr.fields.label                 "နေရာကွက် တန်ဖိုး">
+<!ENTITY certmgr.fields.label                 "Field Value">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "လက်မှတ် အဆင့်ဆင့်">
+<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "ချွင်းချက် ထည့်သွင်းပါ...">
+<!ENTITY certmgr.addException.label           "xချွင်းချက်ထည့်...">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "လုံခြုံရေး ချွင်းချက် ထည့်သွင်းပါ">
@@ -110,5 +110,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "လက်မှတ် အနေအထား">
 <!ENTITY exceptionMgr.certstatus.viewCert     "ရှုမြင်ပါ...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V ">
-<!ENTITY exceptionMgr.permanent.label         "ဒီချွင်းချက်ကို အမြဲတမ်း သိုထားပါ">
+<!ENTITY exceptionMgr.permanent.label         "Pချွင်းချက်အမြဲသိမ်း">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

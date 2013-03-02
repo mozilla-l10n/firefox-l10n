@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "&brandShortName; ကို သူ့ရဲ့ မူလအခြေအနေရောက်အောင် ပြန်စပါ">
 <!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
-<!ENTITY resetProfile.button.label        "&brandShortName; ကို ပြန်စပါ">
+<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "Please wait while &brandShortName; cleans up your old data…">

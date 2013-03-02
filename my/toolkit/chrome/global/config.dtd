@@ -27,9 +27,9 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "ကူးယူပါ">
+<!ENTITY copyPref.label "Cကူး">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "အမည် ကူးယူပါ">
+<!ENTITY copyName.label "နာမည်Nကူး">
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Vတန်ဖိုးကူးယူ">
 <!ENTITY copyValue.accesskey "V">

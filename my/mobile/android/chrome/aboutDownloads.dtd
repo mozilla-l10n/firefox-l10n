@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "ဖွင့်ပါ">
+<!ENTITY aboutDownloads.remove                     "ပယ်ဖျက်ပါ">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "ခေတ္တရပ်တန့်တယ်">
+<!ENTITY aboutDownloads.resume                     "ပြန်စပါ">
+<!ENTITY aboutDownloads.cancel                     "ပယ်​ဖျက်ပါ">
+<!ENTITY aboutDownloads.retry                      "ထပ်ကြိုးစားပါ">

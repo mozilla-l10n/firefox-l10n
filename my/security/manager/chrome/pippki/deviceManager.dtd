@@ -14,17 +14,17 @@
 <!ENTITY devmgr.status.label                    "လက်ရှိအခြေအနေ">
 <!ENTITY devmgr.version.label                   "မူအဆင့်">
 
-<!ENTITY devmgr.button.changeslotname.label     "အကွက်အမည် ပြောင်းလဲပါ">
+<!ENTITY devmgr.button.changeslotname.label     "C Slotအမည်ပြောင်း">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label              "၀င်ရောက်ပါ">
+<!ENTITY devmgr.button.login.label              "အဝင်n">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "ထွက်ခွါပါ">
+<!ENTITY devmgr.button.logout.label             "အထွက်O">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "စကားဝှက် ပြောင်းလဲပါ">
+<!ENTITY devmgr.button.changepw.label           "Pစကားဝှက်ပြောင်း">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
-<!ENTITY devmgr.button.load.label               "ဖွင့်ပါ">
+<!ENTITY devmgr.button.load.label               "Lပြန်ဖွင့်">
 <!ENTITY devmgr.button.load.accesskey           "L">
-<!ENTITY devmgr.button.unload.label             "ရပ်တန့်ပါ">
+<!ENTITY devmgr.button.unload.label             "Uပြန်မလုပ်">
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F ">
 

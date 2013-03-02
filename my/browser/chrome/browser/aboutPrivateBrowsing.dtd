@@ -5,26 +5,13 @@
 <!ENTITY privatebrowsingpage.title                 "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
 <!ENTITY privatebrowsingpage.title.normal          "သီးသန့် လှော်လှန်ကြည့်ခြင်းကို စတင်လိုသလား။">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ဒီအခန်းကဏ္ဍရဲ့ ဘယ်မှတ်တမ်းကိုမျှ မှတ်ထားမှာ မဟုတ်ဘူး။">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ဟာ လက်ရှိအချိန်မှာ သီးသန့် လှော်လှန်ခြင်း စနစ်မှာ မရှိဘူး။">
-
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; သည် မည်သည့်မှတ်တမ်းကိုမျှ မှတ်ထားမှာ မဟုတ်ဘူး။">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "သင်သည် ယခုအခါ လုံခြုံမှူအထူးစနစ်ဖြင့် မဟုတ်ပါ။">
 
-<!ENTITY privatebrowsingpage.description               "သီးသန့် လှော်လှန်ခြင်း အခန်းကဏ္ဍ တခုမှာ၊ &brandShortName; က ဘယ် လှော်လှန်ခြင်း မှတ်တမ်း၊ ရှာဖွေရေး မှတ်တမ်း၊ ဆွဲချ မှတ်တမ်း၊ ကွန်ရက် ဖြည့်စွတ်ပုံစံ မှတ်တမ်း၊ ကုပ်ကီးများ (သို့) ခေတ္တ အင်တာနက် ဖိုင်များကိုမျှ သိမ်းထားမှာ မဟုတ်ဘူး။ ဒါပေမဲ့၊ သင် ဆွဲချ​တဲ့ ဖိုင်းများနဲ့ မှတ်သားချက်များကို သိမ်းထားလိမ့်မယ်။">
-
 <!ENTITY privatebrowsingpage.perwindow.description     "သီးသန့် လှော်လှန်ခြင်း အခန်းကဏ္ဍ တခုမှာ၊ &brandShortName; က ဘယ် လှော်လှန်ခြင်း မှတ်တမ်း၊ ရှာဖွေရေး မှတ်တမ်း၊ ဆွဲချ မှတ်တမ်း၊ ကွန်ရက် ဖြည့်စွတ်ပုံစံ မှတ်တမ်း၊   ကုပ်ကီးများ (သို့) ခေတ္တ အင်တာနက် ဖိုင်များကိုမျှ သိမ်းထားမှာ မဟုတ်ဘူး။ ဒါပေမဲ့၊ သင် ဆွဲချ​တဲ့ ဖိုင်းများနဲ့ မှတ်သားချက်များကို သိမ်းထားလိမ့်မယ်။">
-
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "သီးသန့် လှော်​လှန်ခြင်းကို စတင်ပါ">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStop2                "လုံခြုံစိတ်ချရသောရှာဖွေကြည့်ရှူမှူအားရပ်တည့်လိုပါက &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;,  အားရွေးပါ သို့မဟုတ် &brandShortName; အားပိတ်ပါ။">
-<!ENTITY privatebrowsingpage.howToStart2               "လုံခြုံစိတ်ချရသောရှာဖွေမှူစတင်ရန် &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; ကိုလဲရွေးချယ်ထားနိုင်ပါတယ်။">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 <!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">

@@ -10,7 +10,7 @@
 <!ENTITY     button.removecookies.label     "ကွတ်ကီးများကို ဖယ်ထုတ်ပါ">
 <!ENTITY     button.removecookie.label      "Rကွတ်ကီးဖျက်ပါ">
 <!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "ကွတ်ကီးများ အားလုံးကို ဖယ်ရှားပါ">
+<!ENTITY     button.removeallcookies.label  "Aကွတ်ကီးများ အားလုံးကို ဖယ်ရှားပါ">
 <!ENTITY     button.removeallcookies.accesskey "A">
 
 <!ENTITY     props.name.label               "အမည်၊">
@@ -25,8 +25,8 @@
 <!ENTITY     focusSearch1.key               "f ">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "ရှာဖွေပါ -">
+<!ENTITY     filter.label                   "Sရှာဖွေပါ:">
 <!ENTITY     filter.accesskey               "S">
 
-<!ENTITY     button.close.label             "ပိတ်ပါ ">
+<!ENTITY     button.close.label             "Cပိတ်ပါ ">
 <!ENTITY     button.close.accesskey         "C">

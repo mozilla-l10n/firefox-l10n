@@ -7,21 +7,21 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "ဖောင့်များ သုံးစွဲမဲ့အရာ၊">
+<!ENTITY  language.label                          "Fonts for:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "အရွယ်အစား၊">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "အချိုးကျသော၊">
+<!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "အစွန်းပါတဲ့ ဖောင့်၊">
+<!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "အစွန်းမပါတဲ့ ဖောင့်၊">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "နေရာလပ် စာလုံး၊">
+<!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "အနောက်တိုင်း စာလုံး">
@@ -57,7 +57,7 @@
 <!ENTITY  font.langGroup.sinhala                  "ရှင်ဟာလာ စာလုံး">
 <!ENTITY  font.langGroup.tibetan                  "တီဘက်တန်">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "အသေးဆုံး စာလုံးအရွယ်၊">
+<!ENTITY minSize.label                            "oအသေးဆုံးစာလုံးဆိုဒ်၊">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "ဘာမျှမရှိ">
 <!-- default font type -->
@@ -65,7 +65,7 @@
 <!ENTITY  useDefaultFontSerif.label               "အစွန်းပါ စာလုံး">
 <!ENTITY  useDefaultFontSansSerif.label           "အစွန်းမဲ့ စာလုံး">
 
-<!ENTITY  allowPagesToUse.label                   "အထက်ပါ ကျွန်ပ် ရွေးချယ်ချက်များ အစား၊ သူတို့ ကိုယ်ပိုင် ဖောင့်များ ရွေးထားဖို့ စာမျက်နှာများကို ခွင့်​ပြုပါ">
+<!ENTITY  allowPagesToUse.label                   "Aအထက်ပါ ကျွန်ပ် ရွေးချယ်ချက်များ အစား၊ သူတို့ ကိုယ်ပိုင် ဖောင့်များ ရွေးထားဖို့ စာမျက်နှာများကို ခွင့်​ပြုပါ">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Charset.grouplabel         "အက္ခရာ စာဝှက်ရေးသားခြင်း">

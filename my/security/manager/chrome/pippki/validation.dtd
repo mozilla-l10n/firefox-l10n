@@ -11,9 +11,9 @@
 <!ENTITY  validation.crlautoupdatestatus.label    "Auto Update Status">
 <!ENTITY  validation.deletecrl.label              "Dပယ်ဖျက်">
 <!ENTITY  validation.deletecrl.accesskey          "D">
-<!ENTITY  validation.updatecrl.label              "မွမ်းမံချက်">
+<!ENTITY  validation.updatecrl.label              "Uအဆင့်မြှင့်">
 <!ENTITY  validation.updatecrl.accesskey          "U">
-<!ENTITY  validation.advanced.label               "အပြင်အဆင်များ">
+<!ENTITY  validation.advanced.label               "Sဆက်တင်များ">
 <!ENTITY  validation.advanced.accesskey           "S">
 
 <!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">

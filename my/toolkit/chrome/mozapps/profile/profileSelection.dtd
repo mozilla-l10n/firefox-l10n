@@ -14,18 +14,18 @@
 
 <!ENTITY            availprofiles.label    "ရနိုင်တဲ့ ကိုယ်ရေးမှတ်တမ်း">
 
-<!ENTITY            newButton.label        "ကိုယ်ရေးမှတ်တမ်း ဖန်တီးပါ...">
+<!ENTITY            newButton.label        "Cယူဇာအကောင့်ဖန်တီးပါ...">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "ကိုယ်ရေးမှတ်တမ်း အမည်ပြောင်းပါ...">
+<!ENTITY            renameButton.label     "Rယူဇာအကောင့်အားနာမည်ပြောင်း">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "ကိုယ်ရေးမှတ်တမ်း ပယ်ဖျက်ပါ...">
+<!ENTITY            deleteButton.label     "Dယူဇာအကောင့်ပယ်ဖျက်ပါ...">
 <!ENTITY            deleteButton.accesskey "D">
 <!-- manager entities -->
 
 <!ENTITY            pmDescription.label    "&brandShortName; က သင့်ရဲ့ အပြင်အဆင်များ၊ ဦးစားပေးချက်များနဲ့ အခြား သုံးစွဲသူ အချက်များကို သင့်ရဲ့ သုံးစွဲသူ ကိုယ်ရေးမှတ်တမ်းထဲမှာ သိုထားတယ်။">
 
-<!ENTITY            offlineState.label    "ချိတ်ဆက်မဲ့ လုပ်ဆောင်ပါ">
+<!ENTITY            offlineState.label    "oအင်တာနက်မဲ့">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "အစပြုတဲ့အခါ မမေးပါနဲ့">
+<!ENTITY            autoSelect.label       "sအစပြုတဲ့အခါ မမေးပါနဲ့">
 <!ENTITY            autoSelect.accesskey   "s">

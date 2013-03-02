@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY doNotTrack.label               "dသင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY  history.label                 "မှတ်တမ်း">
 

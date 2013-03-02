@@ -9,13 +9,13 @@
 <!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
 <!ENTITY importFromBookmarks.label      "မှတ်သားချက်များ တင်သွင်းမဲ့ နေရာ၊">
 
-<!ENTITY importFromIE.label             "မိုက်ခရိုဆော့ဖ် အင်တာနက် စူးစမ်းရေးယန္တရား">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "တစုံတခုကို မတင်သွင်းပါနဲ့">
 <!ENTITY importFromNothing.accesskey    "မ">
 <!ENTITY importFromSafari.label         "ဆာဖာရီ">
 <!ENTITY importFromSafari.accesskey     "ဆ">
-<!ENTITY importFromChrome.label         "ခရုမ်း">
+<!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "မီးမြေခွေး">
 <!ENTITY importFromFirefox.accesskey    "မ">
