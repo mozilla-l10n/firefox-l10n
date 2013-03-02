@@ -16,6 +16,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "  Informacions del sistèma">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">

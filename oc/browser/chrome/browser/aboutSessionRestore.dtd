@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Fenèstras e onglets">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Fenèstra &#37;S">
+<!ENTITY restorepage.windowLabel    "Fenèstra &#037;S">
