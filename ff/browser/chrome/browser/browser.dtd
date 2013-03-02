@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "ɗ"> 
 
 <!ENTITY clearRecentHistory.label               "Momtu Aslol Sakketl…">
-<!ENTITY clearRecentHistory.accesskey           "A">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label         "Fuɗɗo Peeragol Suturo">
-<!ENTITY privateBrowsingCmd.start.accesskey     "S">
-<!ENTITY privateBrowsingCmd.stop.label          "Dartin Peeragol Suturo">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Hollir"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Yay to Lowre Geese">
+<!ENTITY urlbar.placeholder2          "Yiylo walla naatnu ñiiɓirde">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Yah to tabbere:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "W">
 <!ENTITY emailAudioCmd.label          "Neldu Ojoo e Iimeel…">
 <!ENTITY emailAudioCmd.accesskey      "O">
+<!ENTITY playPluginCmd.label          "Hurmin ndee seŋre">
+<!ENTITY playPluginCmd.accesskey      "r">
+<!ENTITY hidePluginCmd.label          "Suuɗ ndee seŋre">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Natto Nokkuure Jokkol">
 <!ENTITY copyLinkCmd.accesskey        "u">
 <!ENTITY copyImageCmd.label           "Natto Nokkuure Natal">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "yuɓɓini ɗum ko">
 
 <!ENTITY identity.moreInfoLinkText "Ɓeydu Humpito…">
-
-<!ENTITY allTabs.filter.emptyText "Tabbe Jiilogol">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Tabbe wanngorde">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Keɓgol Kameraa / Mikkoroo">
 <!ENTITY webrtcIndicatorButton.tooltip "Hollir lowe ɗe ngon-ɗaa e lollinde kameraa e mikkoroo maa e mum'en">
+
+<!ENTITY mixedContentBlocked.helplink "Ɓeydu humpito">
+<!ENTITY mixedContentBlocked.moreinfo "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">

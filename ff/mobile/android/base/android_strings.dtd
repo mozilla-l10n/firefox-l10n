@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
-<!ENTITY pref_char_encoding_off "Hoto hollu dosol">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Momtu keɓe sirluuje">
 <!ENTITY pref_plugins "Ceŋe">
 <!ENTITY pref_plugins_enabled "Daaƴtaaɗo">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Ɗaɓɓooɓe ƴedoɗe ñaamii ɓurɓaññe, ñaamminii ƴakkooɓe ƴulɓe ƴamooɓe koɗɗaaɗi. Tawde min ɗaɓɓaani dañal, amin kisi e addude kesamhesamaagu e innde maa tawa alaa mo min kuli hay gooto. Ɗuum firti ko kuutorgol ɓurngol moƴƴude e janngo ɓurɗo moƴƴude e Geese.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
 <!ENTITY pref_show_product_announcements "Hollu ">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings "Cuɓoraaɗe lowre">
+<!ENTITY pref_private_data_downloadFiles "Piille gaawtaaɗe">
 
 <!ENTITY pref_update_autodownload "Kesɗitine jaajol">
 <!ENTITY pref_update_autodownload_wifi "E Wifi tan">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Taƴto">
 <!ENTITY abouthome_topsites_pin "Ñippu Lowre">
 <!ENTITY abouthome_topsites_unpin "Ñippit Lowre">
-<!ENTITY abouthome_topsites_unpinall "Ñippit Fof">
+<!ENTITY abouthome_topsites_remove "Ittu">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Teelto Firefox Sync ngam naatde e maantore, aslol e tabbe ummoraade e kaɓirɗi goɗɗi&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Heɓ jaaɓɗe iwɗe e Mozilla Marketplace tee njytaa ko ɓuri yuɓɓude ko Geese addan-maa&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):

@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Gaawte">
 <!ENTITY aboutDownloads.header                     "Gaawte Maa">
 <!ENTITY aboutDownloads.empty                      "Alaa Gaawte">
+
+<!ENTITY aboutDownloads.open                       "Uddit">
+<!ENTITY aboutDownloads.remove                     "Momtu">
+<!ENTITY aboutDownloads.removeAll                  "Momtu Fof">
+<!ENTITY aboutDownloads.pause                      "Sabbo">
+<!ENTITY aboutDownloads.resume                     "Jokku">
+<!ENTITY aboutDownloads.cancel                     "Haaytu">
+<!ENTITY aboutDownloads.retry                      "Fuɗɗito">

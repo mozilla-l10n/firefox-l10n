@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Artir">
 <!ENTITY restorepage.listHeader     "Kenorɗe e Tabbe">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Henorde &#37;S">
+<!ENTITY restorepage.windowLabel    "Henorde &#037;S">
