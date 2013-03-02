@@ -68,7 +68,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom2 "Перерисовка после увеличения">
+<!ENTITY pref_reflow_on_zoom2 "Щипок для обновления">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -78,9 +78,9 @@
 <!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
-<!ENTITY pref_show_product_announcements "Показывать анонсы продукта">
+<!ENTITY pref_show_product_announcements "Анонсы продукта">
 <!ENTITY pref_sync "Синхронизация">
-<!ENTITY pref_search_suggestions "Поисковые предложения">
+<!ENTITY pref_search_suggestions "Поиск. предложения">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_private_data_history "Журнал посещений и загрузок">
 <!ENTITY pref_private_data_formdata "Журнал форм и поиска">
@@ -90,7 +90,7 @@
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
-<!ENTITY pref_update_autodownload "Автоматическое обновление">
+<!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
 <!ENTITY pref_update_autodownload_enabled "Включено">
@@ -107,7 +107,7 @@
 <!ENTITY desktop_mode "Полная версия сайта">
 <!ENTITY tools "Инструменты">
 <!ENTITY new_tab "Новая вкладка">
-<!ENTITY new_private_tab "Новая приватная вкладка">
+<!ENTITY new_private_tab "Приватная вкладка">
 <!ENTITY close_all_tabs "Закрыть все вкладки">
 <!ENTITY tabs_normal "Вкладки">
 <!ENTITY tabs_private "Приватные">
