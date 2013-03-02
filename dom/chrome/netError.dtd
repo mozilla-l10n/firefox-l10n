@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Idilesi eceliweyo icacise intambo yekhompyutha (umz.<q>mozilla.org:80</q> for port 80 on mozilla.org) edla ngokusetyenziselwa i-<em>other</em> kunokubhrawuza kwewebhu. Ibhrawuza isirhoxisile isicelo ngesizathu sokhuselo nokhuseleko lwakho.</p>">
 
 <!ENTITY dnsNotFound.title "Idilesi Ayifunyenwanga">
-<!ENTITY dnsNotFound.longDesc "</p>Ibhrawuza ayiyifumani iseva engumsindleki kwidilesi enikiweyo.</p><ul><li>Ingaba wenze impazamo xa ubuchwetheza idomeyini? (e.g. <q><strong>ww</strong>.mozilla.org</q> endaweni ye-<q><strong>www</strong>.mozilla.org</q>)</li><li>Uqinisekile ukuba le dilesi yedomeyini ikhona?  Ubhaliso lwayo lusenokuba lwaphelelwa.</li><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi?  Khangela unxibelelwano lwenethiwekhi kunye neesethingi zeseva ze-DNS.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli?  Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Ibhrawuza ayiyifumani iseva engumsindleki kwidilesi enikiweyo.</p><ul><li>Ingaba wenze impazamo xa ubuchwetheza idomeyini? (e.g. <q><strong>ww</strong>.mozilla.org</q> endaweni ye-<q><strong>www</strong>.mozilla.org</q>)</li><li>Uqinisekile ukuba le dilesi yedomeyini ikhona?  Ubhaliso lwayo lusenokuba lwaphelelwa.</li><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi?  Khangela unxibelelwano lwenethiwekhi kunye neesethingi zeseva ze-DNS.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli?  Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li></ul>">
 
 <!ENTITY fileNotFound.title "Ifayili Ayifunyenwanga">
 <!ENTITY fileNotFound.longDesc "<ul><li>ingaba iayithem ithiywe ngokutsha, isusiwe okanye isiwe kwenye indawo?</li><li>Ingaba kukho ukungasetyenziswa kakuhle kopelo, konoobumba abakhulu okanye naluphi na ubhalo olungekho mgaqweni kwidilesi?</li><li>Ingaba unemvume eyaneleyo yokungena kwiayithem eceliweyo?</li></ul>">
@@ -43,7 +43,7 @@
 </ul>">
 
 <!ENTITY netReset.title "Unxibelelwano luphazanyisiwe">
-<!ENTITY netReset.longDesc "<p>Ikhonkco lenethiwekhi liphazanyisiwe xa bekuzanywa unxibelelwano. Nceda uzame kwakhona.<p>">
+<!ENTITY netReset.longDesc "<p>Ikhonkco lenethiwekhi liphazanyisiwe xa bekuzanywa unxibelelwano. Nceda uzame kwakhona.</p>">
 
 <!ENTITY netTimeout.title "Umsebenzi wothungelwano Ugqithelwe Lixesha">
 <!ENTITY netTimeout.longDesc "<p>Isayithi ecelwayo ayiphendulanga kwisicelo sonxibelelwano kwane nebhrawuza iyekile ukulindela impendulo. </p><ul><li>Ingaba iseva ifumana umthwalo ongaphaya okanye ukucima kwethutyana?  Nceda uzame kamva.</li><li>ingaba akukwazi ukubhrawuza ezinye iisayithi? Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi ikhuselwe ludonga-mlilo okanye ngummeli?  Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">

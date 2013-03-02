@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
-<!ENTITY pref_char_encoding_off "Mus\a ukubonisa imenyu">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Clear private data">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Enabled">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Impungutye ekhawulezayo eorenji itsiba ngaphezu kobukulindele ngesantya esingaphezulu, ngokuthamba okungaphezulu nangokhuseleko olungaphezulu. Njengabangenzi ngeniso, si\nelungelo lokuqamba egameni lakho ngaphandle koxinzelelo lokuhlangabeza. Oko kuthetha amava angcono kuwe nekamva eliqaqambileyo kwiwebhu.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Use master password">
 <!ENTITY pref_show_product_announcements "Bonisa izaziso zemveliso">
@@ -254,7 +254,7 @@ kwi-Android">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&fomathiS; khangela iingcamango?">
+<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi-&formatS; khangela iingcamango?">
 
 <!ENTITY webapp_generic_name "I-app">
 

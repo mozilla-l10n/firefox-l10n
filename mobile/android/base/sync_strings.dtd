@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "Ukusenza sisebenze isixhobo sakho esitsha, khetha “Useto &syncBrand.shortName.label;” kwisixhobo.">
 <!ENTITY sync.subtitle.header2.label "Ngenisa le khowudi kwesinye isixhobo sakho">
-<!ENTITY sync.subtitle.connectlocation2.label "Khetha “&sync.title.pair.label;” kwicandelo le-&syncBrand.shortName.label; lendlela yokhetho yesinye isixhobo sakho\ se-Firefox.">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Ukuvuselela, khetha “Hambisa ngambini isixhobo” kwesinye isixhobo sakho.">
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Ndibonise ukuba kanjani na.">
 <!ENTITY sync.link.advancedsetup.label "Useto oluqhubele phambili...">
-<!ENTITY sync.link.nodevice.label "Andina\\u0027so isixhobo kum…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Ilindele esinye isixhobo…">
