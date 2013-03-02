@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Aflaaie">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "Open">
+<!ENTITY aboutDownloads.remove                     "Skrap">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Laat wag">
+<!ENTITY aboutDownloads.resume                     "Hervat">
+<!ENTITY aboutDownloads.cancel                     "Kanselleer">
+<!ENTITY aboutDownloads.retry                      "Retry">
