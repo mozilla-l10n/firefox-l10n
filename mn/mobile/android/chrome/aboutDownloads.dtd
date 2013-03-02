@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "Нээ">
+<!ENTITY aboutDownloads.remove                     "Del">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Завсарла">
+<!ENTITY aboutDownloads.resume                     "Шинээр нэгтгэ">
+<!ENTITY aboutDownloads.cancel                     "Цуцал">
+<!ENTITY aboutDownloads.retry                      "Retry">

@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Сэргээх">
 <!ENTITY restorepage.listHeader     "Цонх болон самбарууд">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#37;S цонх">
+<!ENTITY restorepage.windowLabel    "&#037;S цонх">
