@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "Отвори">
+<!ENTITY aboutDownloads.remove                     "Уклони ставку">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Пауза">
+<!ENTITY aboutDownloads.resume                     "Настави">
+<!ENTITY aboutDownloads.cancel                     "Откажи">
+<!ENTITY aboutDownloads.retry                      "Покушај поново">

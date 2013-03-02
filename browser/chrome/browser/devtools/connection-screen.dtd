@@ -7,16 +7,16 @@
   - -->
 
 
-<!ENTITY title      "Connect">
-<!ENTITY header     "Connect to remote device">
-<!ENTITY host       "Host:">
+<!ENTITY title      "Повежи се">
+<!ENTITY header     "Повежи се са удаљеним уређајем">
+<!ENTITY host       "Домаћин:">
 <!ENTITY port       "Порт:">
-<!ENTITY connect    "Connect">
+<!ENTITY connect    "Повежи се">
 <!ENTITY connecting "Повезивање…">
 <!ENTITY availableTabs "Available remote tabs:">
-<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY availableProcesses "Доступни удаљени процеси:">
 <!ENTITY connectionError "Грешка:">
 <!ENTITY errorTimeout "Error: connection timeout.">
-<!ENTITY errorRefused "Error: connection refused.">
-<!ENTITY errorUnexpected "Unexpected error.">
-<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">
+<!ENTITY errorRefused "Грешка: веза је одбијена.">
+<!ENTITY errorUnexpected "Неочекивана грешка.">
+<!ENTITY help "Развојни алати Фајерфокса могу уклањати грешке на урђајима (Фајерфокс за Андроид, и Фајерфокс ОС, на пример). Проверите да ли сте укључили могућност „Даљинско уклањање грешака“ на удаљеном уређају. Погледајте <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>упутство</a> за више података.">

@@ -68,7 +68,7 @@
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Откажи">
-<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.connect.label "Повежи се">
 <!ENTITY sync.button.ok.label "У реду">
 <!-- Account strings -->
   

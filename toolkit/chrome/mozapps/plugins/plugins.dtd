@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Потребан је прикључак за приказ овог садржаја.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Притисните овде да активирате прикључак.">
-<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Check for updates…">
 <!ENTITY disabledPlugin                                      "Овај прикључак је искључен.">
 <!ENTITY blockedPlugin.label                                 "Овај прикључак је блокиран ради ваше безбедности.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Слање извештаја о рушењу је онемогућено.">
 <!ENTITY report.failed                                       "Не могу да пошаљем.">
 <!ENTITY report.unavailable                                  "Извештај није доступан.">
+<!ENTITY report.comment                                      "Додајте коментар (коментари су свима видљиви)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
