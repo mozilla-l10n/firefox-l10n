@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "பதிவிறக்கங்கள்">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "திற">
+<!ENTITY aboutDownloads.remove                     "அழி">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Pause">
+<!ENTITY aboutDownloads.resume                     "தொடரவும்">
+<!ENTITY aboutDownloads.cancel                     "விடு">
+<!ENTITY aboutDownloads.retry                      "Retry">

@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
-<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "மேம்படுத்தல்கள் உள்ளதா என காண்க...">
 <!ENTITY disabledPlugin                                      "This plugin is disabled.">
 <!ENTITY blockedPlugin.label                                 "உங்கள் பாதுகாப்புக்காக இந்த கூடுதல் இணைப்பு தடுக்கப்பட்டுள்ளது.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "க்ராஷ் அறிக்கையிடுதல் செயல்நீக்கப்பட்டது.">
 <!ENTITY report.failed                                       "சமர்ப்பித்தல் தோல்வியுற்றது.">
 <!ENTITY report.unavailable                                  "அறிக்கை எதுவும் இல்லை.">
+<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
