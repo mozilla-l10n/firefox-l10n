@@ -5,24 +5,28 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Tietoturva">
 
-<!ENTITY tracking.label                   "Käyttäjän toimien jäljitys">
-<!ENTITY doNotTrack.label                 "Pyydä sivustoja olemaan jäljittämättä minua">
-<!ENTITY doNotTrack.accesskey             "P">
+<!ENTITY tracking.label                   "Käyttäjän seuranta">
+<!ENTITY trackingIntro.label              "Verkkosivut voivat seurata, miten käytät niitä. Tämä voi vaikuttaa tietosuojaasi.">
 
-<!ENTITY privateData.label                "Yksityistiedot">
+<!ENTITY dntTellSites.label               "Välitä alla oleva valinta verkkosivuille">
+<!ENTITY dntTellSites.accesskey           "V">
+<!ENTITY dntTrackingNotOkay.label         "En suostu seurattavaksi">
+<!ENTITY dntTrackingNotOkay.accesskey     "E">
+<!ENTITY dntTrackingOkay.label            "Suostun seurattavaksi">
+<!ENTITY dntTrackingOkay.accesskey        "S">
 
-<!ENTITY alwaysClear.label                "Tyhjennä valitut yksityistiedot aina kun &brandShortName; suljetaan">
-<!ENTITY alwaysClear.accesskey            "n">
 
-<!ENTITY askBeforeClear.label             "Kysy lupa tietojen poistamiseen">
-<!ENTITY askBeforeClear.accesskey         "p">
-
-<!ENTITY clearDataSettings.label          "Seuraavat yksityistiedot pitäisi pyydettäessä poistaa:">
-
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 -->
-<!ENTITY clearDataDialog.label            "Tyhjennä heti…">
-<!ENTITY clearDataSilent.label            "Tyhjennä heti">
-<!ENTITY clearDataDialog.accesskey        "ä">
+<!ENTITY safeBrowsing.label               "Suojattu selaus">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; pystyy estämään verkkosivustot, joilla on ilmoitettu olevan haitallista sisältöä.">
+
+<!ENTITY blockAttackSites.label           "Estä ilmiannetut hyökkäyssivustot (malware, viruksia)">
+<!ENTITY blockAttackSites.accesskey       "i">
+
+<!ENTITY blockWebForgeries.label          "Estä ilmiannetut huijaussivustot (tietojen kalastelu)">
+<!ENTITY blockWebForgeries.accesskey      "l">

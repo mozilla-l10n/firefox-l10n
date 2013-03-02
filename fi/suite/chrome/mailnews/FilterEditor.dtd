@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Suodatusehdot">
+<!ENTITY window.title "Suodatussäännöt">
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Suodattimen nimi:">
 <!ENTITY filterName.accesskey "S">
@@ -26,6 +26,9 @@
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "u">
+
+<!ENTITY filterActionOrderWarning.label "Huom. Suodatintoiminnot suoritetaan eri järjestuksessä.">
+<!ENTITY filterActionOrder.label "Näytä suoritusjärjestys">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Siirrä kansioon">

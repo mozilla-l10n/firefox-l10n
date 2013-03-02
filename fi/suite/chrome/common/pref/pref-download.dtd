@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Lataukset">
 
 <!ENTITY downloadBehavior.label         "Aloitettaessa tiedoston latausta">
-<!ENTITY focusWhenStarting.label        "Välkytä latausikkunaa, jos se on valmiiksi auki, muussa tapauksessa:">
-<!ENTITY focusWhenStarting.accesskey    "ä">
-<!ENTITY openDM.label                   "Avaa latausikkuna">
-<!ENTITY openDM.accesskey               "l">
-<!ENTITY openProgressDialog.label       "Avaa edistymisdialogi">
-<!ENTITY openProgressDialog.accesskey   "e">
 <!ENTITY doNothing.label                "Älä avaa mitään">
 <!ENTITY doNothing.accesskey            "m">
+<!ENTITY openProgressDialog.label       "Avaa edistymisikkuna">
+<!ENTITY openProgressDialog.accesskey   "e">
+<!ENTITY openDM.label                   "Avaa latausikkuna">
+<!ENTITY openDM.accesskey               "l">
+<!ENTITY flashWhenOpen.label            "Välkytä latausikkunaa, jos se on jo auki">
+<!ENTITY flashWhenOpen.accesskey        "f">
 
 <!ENTITY downloadLocation.label         "Tallennettaessa tiedostoa">
 <!ENTITY saveTo.label                   "Tallenna se kansioon">

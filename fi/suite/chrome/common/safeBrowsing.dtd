@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Siirry pois sivulta!">
+<!ENTITY safeb.palm.decline.label "Ohita tämä varoitus">
+<!ENTITY safeb.palm.reportPage.label "Miksi tämä sivu on estetty?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Ilmiannettu hyökkäyssivusto!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Tämä verkkosivu, <span id='malware_sitename'/>, on ilmiannettu hyökkäyssivustoksi ja estetty turvallisuusasetustesi perusteella.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hyökkäyssivustot yrittävät asentaa ohjelmia, jotka voivat varastaa yksityisiä tietoja, hyökätä muihin tietokoneisiin sinun koneeltasi käsin tai vahingoittaa järjestelmääsi.</p><p>Joillakin hyökkäyssivustoilla jaellaan haitallisia ohjelmia määrätietoisesti, mutta monet sivustot ovat muuttuneet vaarallisiksi ilman niiden omistajien tietoa tai lupaa.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Ilmiannettu huijaussivusto!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Tämä verkkosivu, <span id='phishing_sitename'/>, on ilmiannettu huijaussivustoksi ja estetty turvallisuusasetustesi perusteella.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Huijaussivustot on suunniteltu näyttämään luotettavilta sivustoilta niin, että suostuisit antamaan sille henkilökohtaisia tai taloudellisia tietoja.</p><p>Minkä tahansa tietojen antaminen tällä verkkosivulla saattaa johtaa identiteettivarkauteen tai muuhun petokseen.</p>">
+
+<!ENTITY reportPhishSite.label         "Ilmianna huijaussivusto…">
+<!ENTITY reportPhishSite.accesskey     "h">
+<!ENTITY notAForgery.label             "Tämä ei ole huijaussivusto…">
+<!ENTITY notAForgery.accesskey         "h">
