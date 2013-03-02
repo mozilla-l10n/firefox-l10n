@@ -92,7 +92,7 @@
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
-<!ENTITY sync.invalidserver.label "Tik \'n geldige bediener-URL in">
+<!ENTITY sync.invalidserver.label "Tik \u0027n geldige bediener-URL in">
 <!ENTITY sync.verifying.label "Verifieer tans…">
 <!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
 <!-- Send tab to device. -->
