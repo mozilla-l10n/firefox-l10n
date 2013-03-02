@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Restore">
 <!ENTITY restorepage.listHeader     "I-Windows neethebhu">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Ifestile &#37;S">
+<!ENTITY restorepage.windowLabel    "Ifestile &#037;S">

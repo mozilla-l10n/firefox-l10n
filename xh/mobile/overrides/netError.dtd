@@ -34,7 +34,7 @@
 
 
 <!ENTITY generic.title "Oops">
-<!ENTITY generic.longDesc "p>&brandShortName; ayikwazi ukulayisha eli khasi ngesizathu esithile.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; ayikwazi ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "
@@ -135,7 +135,7 @@ isenokuba yeyethutyana, kwaye ungazama kwakhona kamva.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "I-<p>&brandShortName; ilithintele eli khasi ekulayisheni ngolu hlobo kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo ongalivumeliyo.</p>">
 
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
-<!ENTITY corruptedContentError.longDesc "</p>Ikhasi ozama ukulijonga alinakubonakaliswa kuba kubhaqwe imposiso ekuhanjisweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakubonakaliswa kuba kubhaqwe imposiso ekuhanjisweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">

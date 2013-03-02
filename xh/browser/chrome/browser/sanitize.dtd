@@ -35,12 +35,12 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 
-<!ENTITY itemHistoryAndDownloads.label     "I-amp &yokubhrawuza; imbali yokukhutshelwayo">
-<!ENTITY itemHistoryAndDownloads.accesskey "I">
+<!ENTITY itemHistoryAndDownloads.label     "Browsing &amp; Download History">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "Kukhangelwa Imbali">
 <!ENTITY itemBrowsingHistory.accesskey     "K">
-<!ENTITY itemFormSearchHistory.label       "I-amp &yefom; Imbali yokukhangela">
-<!ENTITY itemFormSearchHistory.accesskey   "I">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; Search History">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Amagama Okugqithisa Agciniweyo">
 <!ENTITY itemPasswords.accesskey           "O">
 <!ENTITY itemCookies.label                 "Iikhukhi">
