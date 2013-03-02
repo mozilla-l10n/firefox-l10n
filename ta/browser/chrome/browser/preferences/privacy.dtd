@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
 
-<!ENTITY doNotTrack.label               " நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY doNotTrack.accesskey           "வ">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "இன்னும் கற்க">
 
 <!ENTITY  history.label                 "வரலாறு">
 

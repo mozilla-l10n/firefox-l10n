@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "மறுசேமிப்பு">
 <!ENTITY restorepage.listHeader     "சாளரங்கள் மற்றும் தத்தல்கள்">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "சாளரம் &#37;S">
+<!ENTITY restorepage.windowLabel    "Window &#37;S">
