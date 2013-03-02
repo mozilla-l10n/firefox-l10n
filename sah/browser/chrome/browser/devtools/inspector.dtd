@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Тас HTML-ы төгүллээ">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "т">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "Түмүгү сот">
 <!ENTITY inspectorHTMLDelete.accesskey      "Т">
 
 <!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
+
+<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

@@ -23,9 +23,9 @@
 <!ENTITY abouthealth.show-raw-data "Сиһилии">
 <!ENTITY abouthealth.hide-raw-data "Сиһилиитин кистээ">
 
-<!ENTITY abouthealth.show-report "Show &brandShortName; Report">
+<!ENTITY abouthealth.show-report "&brandShortName; отчуоту көрдөр">
 
 <!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
-<!ENTITY abouthealth.details-link "learn more">
+<!ENTITY abouthealth.details-link "Сиһилии">
 <!ENTITY abouthealth.details.description-end " about what we collect and submit.">
 <!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">

@@ -5,26 +5,13 @@
 <!ENTITY privatebrowsingpage.title                 "Саһан көрөөһүн">
 <!ENTITY privatebrowsingpage.title.normal          "Бүөмнээн көрөөрү гынаҕын дуо?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; бу сиэссийэ устуоруйатын долоҕойугар хатыа суоҕа.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "Билигин &brandShortName; бүөмнээн көрүү туругар киирбэккэ турар.">
-
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; бу сиэссийэ устуоруйатын долоҕойугар хатыа суоҕа.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Билигин бүөм түннүккэ буолбатаххын.">
 
-<!ENTITY privatebrowsingpage.description               "Бүөмнээн көрүү кэмигэр &brandShortName; киирии, көрдөөһүн, хачайдааһын туһунан сибидиэнньэлэри уонна ситим-фуорматын толорууну сурунуо суоҕа. Ону тэҥэ куукалар уонна интэриниэт быстах кэмҥэ суруллар билэлэрэ эмиэ суруллуохтара суоҕа. Ол гынан баран хачайдаабыт билэлэриҥ уонна оҥорбут кыбытык-бэлиэлэриҥ хаалыахтара.">
-
 <!ENTITY privatebrowsingpage.perwindow.description     "Бүөмнээн көрүү кэмигэр &brandShortName; киирии, көрдөөһүн, хачайдааһын туһунан сибидиэнньэлэри уонна ситим-фуорматын толорууну сурунуо суоҕа. Ону тэҥэ куукалар уонна интэриниэт быстах кэмҥэ суруллар билэлэрэ эмиэ суруллуохтара суоҕа. Ол гынан баран хачайдаабыт билэлэриҥ уонна оҥорбут кыбытык-бэлиэлэриҥ хаалыахтара.">
-
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Кистээн көрүүнү саҕалаа">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "к">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Бүөм түннүгү арый">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "т">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStop2                "Бүөмнээн көрүүнү тохтоторго маны тал &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, эбэтэр маны сап &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Бүөмнээн көрүүнү саҕалыырга өссө маны талыаххын сөп &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 <!ENTITY privatebrowsingpage.howToStart3               "Бүөмнээн көрүүнү саҕалыырга өссө маны талыаххын сөп &basePBMenu.label; &gt; &newPrivateWindow.label;.">

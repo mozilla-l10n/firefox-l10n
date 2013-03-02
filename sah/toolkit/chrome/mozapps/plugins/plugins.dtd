@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Маны көрдөрөргө плагиин ирдэнэр эбит.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Маны баттаан плагиины холбоо.">
-<!ENTITY clickToPlayPlugin                                   "Маны баттаан плагины холбоо.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Саҥардыы баарын көр...">
 <!ENTITY disabledPlugin                                      "Бу плагиин араарыллыбыт.">
 <!ENTITY blockedPlugin.label                                 "Бу плагиин куттал суох буоллун диэн бүөлэммит.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Саахал туһунан биллэрии араарыллыбыт.">
 <!ENTITY report.failed                                       "Ыытыы табыллыбата.">
 <!ENTITY report.unavailable                                  "Туттуллар кыахтаах сруктар суохтар.">
+<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "Билэ">
 <!ENTITY plugin.mimeTypes                                    "MIME көрүҥэ">

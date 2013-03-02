@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Сөргүт">
 <!ENTITY restorepage.listHeader     "Түннүктэр уонна кыбытыктар">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Түннүк &#37;S">
+<!ENTITY restorepage.windowLabel    "Түннүк &#037;S">
