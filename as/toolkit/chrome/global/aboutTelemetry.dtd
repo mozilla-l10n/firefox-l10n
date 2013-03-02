@@ -16,6 +16,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  সাধাৰণ জোখমাখ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "  চিস্টেমৰ তথ্য">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  এড-অনসমূহ দ্বাৰা সংগ্ৰহ কৰা হিস্টোগ্ৰামসমূহ">

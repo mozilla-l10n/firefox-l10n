@@ -7,7 +7,7 @@
 <!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
 <!ENTITY  no_space_to_start_error "&brandShortName; আৰম্ভ হবলে পৰ্যাপ্ত স্থান নাই।">
-<!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল\'ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
+<!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল\u0027ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
 
 <!ENTITY  awesomebar_all_pages_title "Top Sites">
 <!ENTITY  awesomebar_bookmarks_title "পত্ৰচিহ্নসমূহ">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
@@ -126,7 +127,7 @@ size. -->
 <!ENTITY addons "এড-অনসমূহ">
 <!ENTITY downloads "Downloads">
 <!ENTITY apps "Apps">
-<!ENTITY char_encoding "আখৰ এনক\'ডিং">
+<!ENTITY char_encoding "আখৰ এনক\u0027ডিং">
 
 <!ENTITY share "Share">
 <!ENTITY share_title "Share via">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
