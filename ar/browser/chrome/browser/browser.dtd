@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey     "ف"> 
 
-<!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
-<!ENTITY clearRecentHistory.accesskey           "س">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
-<!ENTITY privateBrowsingCmd.start.label         "ابدأ التصفح الخاص">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ب">
-<!ENTITY privateBrowsingCmd.stop.label          "أوقف التصفح الخاص">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "ف">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "عرض"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "ش">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "اذهب إلى موقع وب">
+<!ENTITY urlbar.placeholder2          "Search or enter address">
 <!ENTITY urlbar.accesskey             "و">
 <!ENTITY urlbar.switchToTab.label     "انتقل إلى اللسان:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "ف">
 <!ENTITY emailAudioCmd.label          "أرسل الصوت بالبريد…">
 <!ENTITY emailAudioCmd.accesskey      "ت">
+<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "انسخ مكان الوصلة">
 <!ENTITY copyLinkCmd.accesskey        "م">
 <!ENTITY copyImageCmd.label           "انسخ مكان الصورة">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "والذي يعمل ب‍">
 
 <!ENTITY identity.moreInfoLinkText "المزيد من المعلومات…">
-
-<!ENTITY allTabs.filter.emptyText "ابحث في الألسنة">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "ألسنة المتصفح">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "الوصول إلى الكمرة\الميكروفون">
 <!ENTITY webrtcIndicatorButton.tooltip "اعرض المواقع التي أشارك كمرتي أو ميكروفوني معها حاليا">
+
+<!ENTITY mixedContentBlocked.helplink "اطّلع على المزيد">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">

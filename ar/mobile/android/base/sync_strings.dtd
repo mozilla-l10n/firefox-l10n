@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "لتفعيل جهازك الجديد اختر ”إعداد &syncBrand.shortName.label;“ على الجهاز.">
 <!ENTITY sync.subtitle.header2.label "أدخل هذا الكود في جهازك الآخر">
-<!ENTITY sync.subtitle.connectlocation2.label "اختر ”&sync.title.pair.label;“ من قسم &syncBrand.shortName.label; في خيارات فيَرفُكس على جهازك الآخر.">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "للتفعيل، اختر ”اربط جهازًا“ في جهازك الآخر.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "أرني كيف.">
 <!ENTITY sync.link.advancedsetup.label "الإعداد المتقدم…">
-<!ENTITY sync.link.nodevice.label "الجهاز ليس معي الآن…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "ينتظر الجهاز الآخر…">

@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "استرجع">
 <!ENTITY restorepage.listHeader     "النوافذ والألسنة">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "النافذة &#37;S">
+<!ENTITY restorepage.windowLabel    "النافذة &#037;S">
