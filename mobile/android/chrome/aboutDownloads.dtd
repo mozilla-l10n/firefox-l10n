@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "التنزيلات">
 <!ENTITY aboutDownloads.header                     "تنزيلاتك">
 <!ENTITY aboutDownloads.empty                      "لا تنزيلات">
+
+<!ENTITY aboutDownloads.open                       "افتح">
+<!ENTITY aboutDownloads.remove                     "حذف">
+<!ENTITY aboutDownloads.removeAll                  "احذف الكل">
+<!ENTITY aboutDownloads.pause                      "ألبِث">
+<!ENTITY aboutDownloads.resume                     "Resume">
+<!ENTITY aboutDownloads.cancel                     "ألغِ">
+<!ENTITY aboutDownloads.retry                      "Retry">
