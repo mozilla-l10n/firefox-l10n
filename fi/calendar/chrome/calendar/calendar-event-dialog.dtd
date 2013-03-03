@@ -171,22 +171,18 @@
 <!ENTITY task.status.accesskey                            "T">
 <!ENTITY event.repeat.label                               "Toista:" >
 <!ENTITY event.repeat.accesskey                           "i">
+<!ENTITY event.until.label                                "Kunnes:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Muistuta:" >
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Kuvaus:" >
 <!ENTITY event.description.accesskey                      "v">
 <!ENTITY event.attachments.label                          "Liitteet:" >
 <!ENTITY event.attachments.accesskey                      "L" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Lisää liite">
 <!ENTITY event.attachments.menubutton.accesskey           "L">
 <!ENTITY event.attachments.url.label                      "Verkkosivu…">
 <!ENTITY event.attachments.url.accesskey                  "V">
-
 <!ENTITY event.attachments.popup.remove.label             "Poista" >
 <!ENTITY event.attachments.popup.remove.accesskey         "P" >
 <!ENTITY event.attachments.popup.open.label               "Avaa" >
