@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Privat surfning">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; är än så länge en funktion under utveckling.">
+<!ENTITY privatebrowsingpage.description  "I ett fönster för &privatebrowsingpage.title; kommer, &brandShortName; inte att behålla någon disk cache, några kakor eller historik från surfning, sök, nedladdning eller formular. Däremot sparas fortfarande nedladdade filer och bokmärken.">
+<!ENTITY privatebrowsingpage.moreinfo     "Fastän denna dator inte kommer att behålla din surfhistorik, är det möjligt att din arbetsgivare eller internetleverantör fortfarande kan spåra de sidor du besöker.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Läs mer">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; kommer inte spara någon historia för detta fönster. Stäng fönstret för att avsluta &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label        "Växla till ett normalt fönster">
+<!ENTITY privatebrowsingpage.switch.accesskey    "V">
+<!ENTITY privatebrowsingpage.normal       "Du använder nu inte &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label       "Öppna ett nytt privat fönster">
+<!ENTITY privatebrowsingpage.private.accesskey   "p">
+<!ENTITY privatebrowsingpage.info         "För att starta &privatebrowsingpage.title;, kan du också välja Arkiv ― Nytt ― Privat fönster.">

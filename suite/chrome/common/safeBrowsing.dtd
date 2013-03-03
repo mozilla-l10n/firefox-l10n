@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Ta mig härinfrån!">
+<!ENTITY safeb.palm.decline.label "Ignorera denna varning">
+<!ENTITY safeb.palm.reportPage.label "Varför blockerades denna sida?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Rapporterad attackerade sida!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Denna webbsida på <span id='malware_sitename'/> har rapporterats som en attackerande sida och har blockerats enligt dina säkerhetsinställningar.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attackerande sidor försöker installera program som stjäl personlig information, använder din dator för att attackera andras, eller förstör ditt system.</p><p>Vissa attackerande sidor distribuerar medvetet skadlig programvara, men många är också komprometterade utan ägarens kännedom eller tillåtelse.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Rapporterad webbförfalskning!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Denna webbsida på <span id='phishing_sitename'/> har rapporterats som en webbförfalskning och har blockerats enligt dina säkerhetsinställningar.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webbförfalskningar är utformade för att lura dig att avslöja personlig eller finansiell information genom att efterlikna sidor som du litar på.</p><p>Att lämna information på denna webbsida kan leda till identitetsstöld eller andra bedrägerier.</p>">
+
+<!ENTITY reportPhishSite.label         "Rapportera webbförfalskning…">
+<!ENTITY reportPhishSite.accesskey     "f">
+<!ENTITY notAForgery.label             "Detta är inte en webbförfalskning…">
+<!ENTITY notAForgery.accesskey         "f">

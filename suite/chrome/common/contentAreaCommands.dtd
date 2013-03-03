@@ -11,6 +11,8 @@
 <!ENTITY openLinkCmd.accesskey        "Ö">
 <!ENTITY openLinkCmdInTab.label       "Öppna länken i en ny flik">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Öppna länken i ett privat fönster">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "v">
 <!ENTITY openLinkInWindowCmd.label    "Öppna">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label           "Öppna ramen i ett nytt fönster">
