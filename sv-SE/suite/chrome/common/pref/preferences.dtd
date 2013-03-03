@@ -18,6 +18,7 @@
 <!ENTITY links.label "Länkar">
 <!ENTITY offline.label "Nedkopplat läge">
 <!ENTITY security.label "Integritet och säkerhet">
+<!ENTITY privatedata.label "Personliga data">
 <!ENTITY cookies.label "Kakor">
 <!ENTITY images.label "Bilder">
 <!ENTITY popups.label "Extrafönster">

@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Privat surfning">
+
 <!ENTITY editPageCmd.label					"Redigera sida">
 <!ENTITY editPageCmd.accesskey				"d">
 <!ENTITY editPageCmd.commandkey "e">
