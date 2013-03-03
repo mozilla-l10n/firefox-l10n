@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title "Hämtning av filer">
 
 <!ENTITY downloadBehavior.label "När en fil hämtas">
-<!ENTITY focusWhenStarting.label        "Blinka filhämtaren om den redan är öppen, annars:">
-<!ENTITY focusWhenStarting.accesskey    "B">
 <!ENTITY openDM.label "Öppna Filhämtaren">
 <!ENTITY openDM.accesskey "Ö">
 <!ENTITY openProgressDialog.label "Öppna ett förloppsfönster">
 <!ENTITY openProgressDialog.accesskey "f">
 <!ENTITY doNothing.label "Öppna inte någonting">
 <!ENTITY doNothing.accesskey "i">
+<!ENTITY flashWhenOpen.label            "Blinka filhämtaren om den redan är öppen">
+<!ENTITY flashWhenOpen.accesskey        "B">
 
 <!ENTITY downloadLocation.label         "När en fil sparas">
 <!ENTITY saveTo.label                   "Spara filer till">

@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label				"Fönster i webbläsaren">
 <!ENTITY newNavigatorCmd.key				"N">
 <!ENTITY newNavigatorCmd.accesskey			"F">
+<!ENTITY newPrivateWindowCmd.label "Privat fönster">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "r">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Förhandsgranska">

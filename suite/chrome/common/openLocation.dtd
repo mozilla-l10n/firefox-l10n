@@ -11,6 +11,7 @@
      openLocation.properties -->
 <!ENTITY chooseFile.label "Välj fil…">
 <!ENTITY chooseFile.accesskey "V">
+<!ENTITY newPrivate.label "Nytt privat fönster">
 <!ENTITY newWindow.label "Nytt fönster">
 <!ENTITY newTab.label "Ny flik">
 <!ENTITY currentTab.label "Aktuell flik">
