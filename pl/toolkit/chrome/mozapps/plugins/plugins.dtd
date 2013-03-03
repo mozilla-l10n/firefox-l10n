@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "Wyszukiwarka wtyczek">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; - witamy!">
 
@@ -33,7 +36,7 @@
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Stuknij tutaj, by aktywować wtyczkę.">
-<!ENTITY clickToPlayPlugin                                   "Kliknij tutaj, by aktywować wtyczkę.">
+<!ENTITY clickToActivatePlugin                               "Aktywuj wtyczkę.">
 <!ENTITY checkForUpdates                                     "Poszukaj aktualizacji…">
 <!ENTITY disabledPlugin                                      "Ta wtyczka jest wyłączona">
 <!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">
@@ -54,6 +57,8 @@
 <!ENTITY report.disabled                                     "Zgłaszanie awarii wyłączone.">
 <!ENTITY report.failed                                       "Przesłanie się nie powiodło.">
 <!ENTITY report.unavailable                                  "Brak dostępnych zgłoszeń.">
+<!ENTITY report.comment                                      "Dodaj komentarz (komentarze są widoczne publicznie)">
+<!ENTITY report.pageURL                                      "Dołącz adres URL strony">
 
 <!ENTITY plugin.file                                         "Plik">
 <!ENTITY plugin.mimeTypes                                    "Typy MIME">
