@@ -4,4 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nowa karta">
-
+<!ENTITY newtab.undo.removedLabel "Miniaturka usunięta.">
+<!ENTITY newtab.undo.undoButton "Cofnij.">
+<!ENTITY newtab.undo.restoreButton "Przywróć wszystkie.">
+<!ENTITY newtab.undo.closeTooltip "Ukryj">
