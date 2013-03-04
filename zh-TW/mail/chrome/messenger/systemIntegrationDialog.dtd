@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "系統整合">
 <!ENTITY acceptIntegration.label  "設為預設帳號">
 <!ENTITY cancelIntegration.label  "略過整合">
+<!ENTITY cancelIntegration2.label  "取消">
 <!ENTITY defaultClient.intro  "使用 &brandShortName; 作為預設用戶端:">
 
 <!ENTITY email.label "電子郵件">
