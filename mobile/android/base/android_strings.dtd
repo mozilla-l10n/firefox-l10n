@@ -79,7 +79,7 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_private_data "清除隱私資訊">
+<!ENTITY pref_clear_private_data "清除隱私資料">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
@@ -204,7 +204,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "編輯">
 <!ENTITY abouthome_topsites_pin "釘選網站">
 <!ENTITY abouthome_topsites_unpin "解除釘選網站">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_topsites_remove "移除">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
