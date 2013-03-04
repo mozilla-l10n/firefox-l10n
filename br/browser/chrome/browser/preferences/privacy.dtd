@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Heuliañ ho roudoù">
 
-<!ENTITY doNotTrack.label               "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
-<!ENTITY doNotTrack.accesskey           "v">
+<!ENTITY dntTrackingNopref.label        "Na lavarout tra ebet d'al lec'hiennoù a-zivout ma gwellvezioù heuliañ.">
+<!ENTITY dntTrackingNopref.accesskey    "N">
+<!ENTITY dntTrackingNotOkay.label       "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
+<!ENTITY dntTrackingNotOkay.accesskey   "a">
+<!ENTITY dntTrackingOkay.label          "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Gouzout hiroc'h">
 
 <!ENTITY  history.label                 "Roll istor">
 

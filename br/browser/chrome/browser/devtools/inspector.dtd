@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Eilañ an HTML diavaez">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "v">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Eilañ an diuzer unel">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "Dilemel ar c'hlom">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "Diuzañ un elfenn gant al logodenn">
+
+<!ENTITY inspectorSearchHTML.label          "Klask e-barzh an destenn HTML">
+<!ENTITY inspectorSearchHTML.key            "K">
