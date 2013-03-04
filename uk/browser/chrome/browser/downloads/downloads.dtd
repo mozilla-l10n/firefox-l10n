@@ -75,7 +75,7 @@
 <!ENTITY downloadsHistory.label           "Показати всі завантаження">
 <!ENTITY downloadsHistory.accesskey       "в">
 
-<!ENTITY clearDownloadsButton.label       "Вистити завантаження">
+<!ENTITY clearDownloadsButton.label       "Вичистити завантаження">
 <!ENTITY clearDownloadsButton.tooltip     "Вичищає завершені, скасовані та невдалі завантаження">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
