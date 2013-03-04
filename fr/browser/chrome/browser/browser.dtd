@@ -629,7 +629,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "S">
 
 <!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
-<!ENTITY getUserMedia.selectCamera.accesskey "W">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphone à partager :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
