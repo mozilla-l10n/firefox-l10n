@@ -144,6 +144,8 @@
 <!ENTITY Photo.tab                      "Luc'hskeudenn">
 <!ENTITY Photo.accesskey                "u">
 <!ENTITY PhotoDesc.label                "Diuzit unan eus ar re da heul :">
+<!ENTITY IRC.label                      "Lesanv IRC :">
+<!ENTITY IRC.accesskey                  "L">
 <!ENTITY GenericPhoto.label             "Luc'hskeudenn rumm">
 <!ENTITY GenericPhoto.accesskey         "r">
 <!ENTITY DefaultPhoto.label             "Diouer">

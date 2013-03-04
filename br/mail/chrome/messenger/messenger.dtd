@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Embann">
 <!ENTITY appmenuQFBMenu.label "Barrenn siloù prim">
 <!ENTITY appmenuToolbarLayout.label "Aozadur ar varrenn ostilhoù…">
+<!ENTITY appmenuSelectThread.label "Diuzañ an neudenn">
+<!ENTITY appmenuSelectFlagged.label "Diuzañ ar c'hemennadennoù steredek">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Merk nevez…">

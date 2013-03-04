@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Silañ an argemmennoù">
 <!ENTITY debuggerUI.searchVariable.key  "a">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Diuzañ argemmennoù ar wezenn">
+<!ENTITY debuggerUI.focusVariables.key  "i">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Ar poent ehan-mañ a baouezo gant an erounezadur mar bez gwir ar riñvenn da-heul nemetken">

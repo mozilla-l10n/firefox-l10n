@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Lañsañ ar gwezhioù da-heul :">
 <!ENTITY filterActionDesc.accesskey "o">
 
+<!ENTITY filterActionOrderWarning.label "Notenn : Loc'het e vo gwezhioù ar siloù dre un urzh disheñvel.">
+<!ENTITY filterActionOrder.label "Gwelout urzh loc'hañ ar gwezhioù">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Dilec'hiañ ar gemennadenn etrezek">
 <!ENTITY copyMessage.label "Eilañ ar gemennadenn e">
