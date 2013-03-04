@@ -277,7 +277,7 @@
 <!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "衝">
+<!ENTITY goMenu.label "前往">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "下一封">
 <!ENTITY nextMenu.accesskey "N">
