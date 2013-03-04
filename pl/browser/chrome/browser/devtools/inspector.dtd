@@ -8,7 +8,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label "Kopiuj zewnętrzny HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "z">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Kopiuj unikalny selektor">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label "Usuń węzeł">
 <!ENTITY inspectorHTMLDelete.accesskey "U">
 
 <!ENTITY inspector.selectButton.tooltip "Zaznacz element myszą">
+
+<!ENTITY inspectorSearchHTML.label          "Przeszukaj HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
