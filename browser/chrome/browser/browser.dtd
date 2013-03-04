@@ -658,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
   -  in the Tools menu. -->
 
 
-<!ENTITY inspectStyleButton.accesskey "Σ">
+
 <!ENTITY videoSaveImage.label        "Αποθήκευση στιγμιότυπου ως…">
 <!ENTITY videoSaveImage.accesskey    "ς">
 <!ENTITY videoShowStats.label        "Εμφάνιση στατιστικών">
