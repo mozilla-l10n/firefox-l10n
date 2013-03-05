@@ -56,6 +56,8 @@
 <!ENTITY report.disabled "Hlášení o pádu je zakázáno.">
 <!ENTITY report.failed "Hlášení skončilo chybou.">
 <!ENTITY report.unavailable "Hlášení není dostupné.">
+<!ENTITY report.comment "Přidat komentář. Upozornění: Komentáře jsou veřejně dostupné.">
+<!ENTITY report.pageURL "Zahrnout adresu stránky">
 
 <!ENTITY plugin.file "Soubor">
 <!ENTITY plugin.mimeTypes "Typ MIME">
