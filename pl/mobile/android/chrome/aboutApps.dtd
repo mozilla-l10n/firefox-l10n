@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Brak zainstalowanych aplikacji. Przejdź do ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ", aby pobrać aplikacje.">
+<!ENTITY aboutApps.addToHomescreen "Dodaj do ekranu głównego">
+<!ENTITY aboutApps.uninstall "Odinstaluj">
