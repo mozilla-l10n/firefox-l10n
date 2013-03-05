@@ -164,6 +164,6 @@
 <!ENTITY telemetrySection.label          "Τηλεμετρία">
 
 
-
+<!ENTITY healthReportSection.label       "Αναφορά υγείας &brandShortName;">
 
 
