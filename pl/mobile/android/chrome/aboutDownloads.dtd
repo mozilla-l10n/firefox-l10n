@@ -13,3 +13,11 @@
 <!ENTITY aboutDownloads.resume                     "Wznów">
 <!ENTITY aboutDownloads.cancel                     "Anuluj">
 <!ENTITY aboutDownloads.retry                      "Spróbuj ponownie">
+
+<!ENTITY aboutDownloads.open                       "Otwórz">
+<!ENTITY aboutDownloads.remove                     "Usuń">
+<!ENTITY aboutDownloads.removeAll                  "Usuń wszystko">
+<!ENTITY aboutDownloads.pause                      "Zatrzymaj">
+<!ENTITY aboutDownloads.resume                     "Wznów">
+<!ENTITY aboutDownloads.cancel                     "Anuluj">
+<!ENTITY aboutDownloads.retry                      "Spróbuj ponownie">
