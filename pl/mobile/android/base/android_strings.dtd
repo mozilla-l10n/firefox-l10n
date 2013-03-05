@@ -112,6 +112,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings "Ustawienia witryny">
+<!ENTITY pref_private_data_downloadFiles "Pobrane pliki">
 
 <!ENTITY pref_update_autodownload "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
@@ -206,7 +207,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edytuj">
 <!ENTITY abouthome_topsites_pin "Przypnij stronę">
 <!ENTITY abouthome_topsites_unpin "Odepnij stronę">
-<!ENTITY abouthome_topsites_unpinall "Odepnij wszystkie">
+<!ENTITY abouthome_topsites_remove "Usuń">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
