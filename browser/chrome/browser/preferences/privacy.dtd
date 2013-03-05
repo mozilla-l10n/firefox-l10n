@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label "Sledování">
 
-<!ENTITY doNotTrack.label "Informovat servery, že nechci být sledován">
-<!ENTITY doNotTrack.accesskey "I">
+<!ENTITY dntTrackingNopref.label "Servery o mé volbě neinformovat.">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label "Informovat servery, že nechci být sledován.">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingOkay.label "Informovat servery, že můžu být sledován.">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Zjistit více">
 
 <!ENTITY history.label "Historie">
 
