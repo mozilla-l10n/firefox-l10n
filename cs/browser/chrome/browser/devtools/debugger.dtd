@@ -93,6 +93,11 @@
 <!ENTITY debuggerUI.searchVariable "Filtrovat proměnné">
 <!ENTITY debuggerUI.searchVariable.key "V">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables "Skočit do stromu proměnných">
+<!ENTITY debuggerUI.focusVariables.key "S">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Tato zarážka zastaví běh programu, pouze pokud následující výraz je pravdivý">
