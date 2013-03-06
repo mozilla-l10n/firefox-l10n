@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Fylgjast með">
-<!ENTITY doNotTrack.label "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
-<!ENTITY doNotTrack.accesskey "ð">
+<!ENTITY dntTrackingNopref.label "Ekki segja vefsvæðum neitt um hvaða kosti ég hef valið í að láta fylgjast með mér.">
+<!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY dntTrackingNotOkay.label "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér.">
+<!ENTITY dntTrackingNotOkay.accesskey "m">
+<!ENTITY dntTrackingOkay.label "Segja vefsvæðum að ég vilji láta fylgjast með mér.">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY doNotTrackInfo.label "Fræðast meira">
 <!ENTITY history.label "Ferill">
 <!ENTITY locationBar.label "Staðsetningarslá">
 <!ENTITY locbar.pre.label "Þegar ég nota staðsetningarslá, stinga upp á:">

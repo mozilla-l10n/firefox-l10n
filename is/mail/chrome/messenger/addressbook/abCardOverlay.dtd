@@ -135,6 +135,8 @@ hvort pósturinn sé lesinn. Ef þú hakar við þetta leyfirðu svoleiðis efni
 <!ENTITY ICQ.accesskey "I">
 <!ENTITY XMPP.label "Jabber ID:">
 <!ENTITY XMPP.accesskey "J">
+<!ENTITY IRC.label "IRC gælunafn:">
+<!ENTITY IRC.accesskey "R">
 <!ENTITY Photo.tab "Mynd">
 <!ENTITY Photo.accesskey "M">
 <!ENTITY PhotoDesc.label "Veldu eina af eftirfarandi:">

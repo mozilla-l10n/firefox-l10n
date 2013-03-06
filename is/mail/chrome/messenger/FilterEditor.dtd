@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Sía eftir ruslpóstflokkun">
 <!ENTITY filterActionDesc.label "Framkvæma þessar aðgerðir:">
 <!ENTITY filterActionDesc.accesskey "F">
+<!ENTITY filterActionOrderWarning.label "Athugaðu: Síu aðgerðir verða keyrðar í annarri röð.">
+<!ENTITY filterActionOrder.label "Sjá keyrsluröð">
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Færa póst í">
 <!ENTITY copyMessage.label "Afrita póst í">

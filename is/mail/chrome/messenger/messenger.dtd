@@ -543,6 +543,8 @@
 <!ENTITY appmenuEditMenu.label "Breyta">
 <!ENTITY appmenuQFBMenu.label "Flýtisíuslá">
 <!ENTITY appmenuToolbarLayout.label "Útlit tækjaslár…">
+<!ENTITY appmenuSelectThread.label "Velja umræðu">
+<!ENTITY appmenuSelectFlagged.label "Velja stjörnumerkt skilaboð">
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nýr flokkur…">
 <!ENTITY addNewTag.accesskey "N">

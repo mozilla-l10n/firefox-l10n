@@ -273,12 +273,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  
 
 <!ENTITY clearRecentHistory.label "Hreinsa nýlega ferla…">
-<!ENTITY clearRecentHistory.accesskey "H">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label "Byrja einkavöfrun">
-<!ENTITY privateBrowsingCmd.start.accesskey "B">
-<!ENTITY privateBrowsingCmd.stop.label "Stöðva einkavöfrun">
-<!ENTITY privateBrowsingCmd.stop.accesskey "S">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Skoða">
  
@@ -317,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.label "Endurræsa með viðbætur óvirkar…">
 <!ENTITY appMenuSafeMode.accesskey "r">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Fara á vefsvæði">
+<!ENTITY urlbar.placeholder2 "Leita eða sláðu inn veffang">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Fara á flipa:">
 <!-- 
@@ -417,6 +411,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Senda hljóðskrá…">
 <!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY playPluginCmd.label "Gera þessa viðbót virka">
+<!ENTITY playPluginCmd.accesskey "G">
+<!ENTITY hidePluginCmd.label "Fela þetta tengiforrit">
+<!ENTITY hidePluginCmd.accesskey "F">
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "r">
 <!ENTITY copyImageCmd.label "Afrita staðsetningu myndar">
@@ -561,7 +559,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "sem er í eigu">
 <!ENTITY identity.moreInfoLinkText "Nánari upplýsingar…">
-<!ENTITY allTabs.filter.emptyText "Leita í flipum">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Vafraflipa">
@@ -594,3 +591,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY webrtcIndicatorButton.label "Myndavél / Hljóðnema aðgangur">
 <!ENTITY webrtcIndicatorButton.tooltip "Birta þau vefsvæði þar sem þú deilir með þeim myndavél eða hljóðnema">
+<!ENTITY mixedContentBlocked.helplink "Frekari upplýsingar">
+<!ENTITY mixedContentBlocked.moreinfo "Flest vefsvæði munu halda áfram að virka jafnvel þótt lokað sé á þetta innihald.">
