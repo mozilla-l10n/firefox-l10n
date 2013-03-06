@@ -631,3 +631,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Camera-/microfoontoegang">
 <!ENTITY webrtcIndicatorButton.tooltip "Websites waarmee u momenteel uw camera of microfoon deelt weergeven">
+
+<!ENTITY mixedContentBlocked.helplink "Meer info ">
+<!ENTITY mixedContentBlocked.moreinfo "De meeste websites zullen juist blijven werken zelfs als deze inhoud is geblokkeerd.">
