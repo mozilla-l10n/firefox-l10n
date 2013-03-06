@@ -4,9 +4,13 @@
 
 <!ENTITY tracking.label                 "Seguimento">
 
-
-<!ENTITY doNotTrack.label                "Dicirlle aos sitios que non quero ser seguido">
-<!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY dntTrackingNopref.label        "Non informar aos sitios sobre as miñas preferencias de seguimento.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Dicirlle aos sitios que non quero ser seguido.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Dicirlle aos sitios que quero que me sigan.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Obter máis información">
 
 <!ENTITY  history.label                 "Historial">
 
@@ -24,7 +28,7 @@
 <!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Aceptar cookies de terceiros">
+<!ENTITY  acceptThirdParty.label        "Aceptar as cookies de terceiros">
 <!ENTITY  acceptThirdParty.accesskey    "k">
 
 <!ENTITY  keepUntil.label               "Conservar ata:">
@@ -37,7 +41,7 @@
 <!ENTITY  cookieExceptions.label        "Excepcións…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Mostrar cookies…">
+<!ENTITY  showCookies.label             "Amosar as cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
 
@@ -56,15 +60,15 @@
 <!ENTITY  rememberActions.pre.label           "Tamén pode querer ">
 <!ENTITY  rememberActions.clearHistory.label  "limpar o seu historial recente">
 <!ENTITY  rememberActions.middle.label        ", ou ">
-<!ENTITY  rememberActions.removeCookies.label "eliminar as cookies de xeito individual">
+<!ENTITY  rememberActions.removeCookies.label "retirar as cookies de xeito individual">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; usará a mesma configuración que na navegación privada, e non gardará ningún historial mentras navega pola Internet.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Tamén pode querer ">
-<!ENTITY  dontrememberActions.clearHistory.label "borrar todo o historial actual">
+<!ENTITY  dontrememberActions.clearHistory.label "limpar todo o historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Usar sempre o modo de navegación privada">
