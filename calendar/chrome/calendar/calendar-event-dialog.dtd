@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Wiederholen:">
 <!ENTITY event.repeat.accesskey                           "W">
+<!ENTITY event.until.label                                "Serienende:">
+<!ENTITY event.until.accesskey                            "d">
 <!ENTITY event.reminder.label                             "Erinnerung:">
 <!ENTITY event.reminder.accesskey                         "r">
 <!ENTITY event.description.label                          "Beschreibung:">
