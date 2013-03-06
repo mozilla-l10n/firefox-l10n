@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Geen webapps geïnstalleerd. Ga naar de ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "De-installeren">
+<!ENTITY aboutApps.addToHomescreen "Toevoegen aan startscherm">
