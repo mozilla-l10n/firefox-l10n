@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "C">
 <!ENTITY event.repeat.label                               "Dèan a-rithist:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Gu ruige:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Cuir 'nam chuimhne:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Tuairisgeul:" >
