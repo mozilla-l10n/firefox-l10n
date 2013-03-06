@@ -159,6 +159,8 @@
 <!ENTITY task.status.accesskey "a">
 <!ENTITY event.repeat.label "Endurtaka:">
 <!ENTITY event.repeat.accesskey "r">
+<!ENTITY event.until.label "Þangað til:">
+<!ENTITY event.until.accesskey "i">
 <!ENTITY event.reminder.label "Áminning:">
 <!ENTITY event.reminder.accesskey "m">
 <!ENTITY event.description.label "Lýsing:">

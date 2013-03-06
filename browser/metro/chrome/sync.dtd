@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title "Samkeyra">
+<!ENTITY sync.notconnected "Ekki tengdur">
+<!ENTITY sync.connect "Tengjast">
+<!ENTITY sync.connected "Tengdur">
+<!ENTITY sync.details "Nánar">
+<!ENTITY sync.deviceName "Þetta tæki">
+<!ENTITY sync.disconnect "Aftengja">
+<!ENTITY sync.syncNow "Samstilla núna">
+<!ENTITY sync.setup.title "Tengjast við Sync">
+<!ENTITY sync.setup.pair "Til að virkja, veldu &#x0022;Para saman tæki&#x0022; á hinu tækinu.">
+<!ENTITY sync.fallback "Ég er ekki nálægt tölvunni…">
+<!ENTITY sync.setup.manual "Sláðu inn upplýsingar um Sync reikninginn þinn">
+<!ENTITY sync.account "Heiti reiknings">
+<!ENTITY sync.password "Lykilorð">
+<!ENTITY sync.recoveryKey "Endurheimtunarlykill">
+<!ENTITY sync.customServer "Nota sérsniðinn netþjón">
+<!ENTITY sync.serverURL "Slóð þjóns">
+<!ENTITY sync.setup.connect "Tengjast">
+<!ENTITY sync.setup.cancel "Hætta við">
+<!ENTITY sync.setup.tutorial "Sýndu mér hvernig">
+<!ENTITY sync.setup.waiting2 "Bíð eftir tæki…">
+<!ENTITY sync.pair.title "Para saman tæki">
+<!ENTITY sync.pair.description "Til að virkja nýja tækið þitt, veldu &#x0022;Setja upp Sync&#x0022; á tækinu.">
+<!ENTITY sync.setup.close "Loka">
+<!ENTITY sync.setup.waitingdownload "Verið er að niðurhala gögnunum í bakgrunni. Þú getur lokað þessum glugga hvenær sem er.">

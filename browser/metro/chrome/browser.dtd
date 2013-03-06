@@ -1,0 +1,92 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext "Sláðu inn leitarorð eða veffang">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY back.label "Til baka">
+<!ENTITY forward.label "Áfram">
+<!ENTITY reload.label "Endurnýja">
+<!ENTITY stop.label "Stöðva">
+<!ENTITY go.label "Fara til">
+<!ENTITY star.label "Stjörnumerkt">
+<!ENTITY toggleTabsOnly.label "Alltaf sýna flipa">
+<!ENTITY showTabs.label "Sýna flipa">
+<!ENTITY newtab.label "Nýr flipi">
+<!ENTITY closetab.label "Loka flipa">
+<!ENTITY undoclosetab.label "Afturkalla loka flipa">
+<!ENTITY cut.label "Klippa">
+<!ENTITY copy.label "Afrita">
+<!ENTITY copyAll.label "Afrita allt">
+<!ENTITY copylink.label "Afrita tengil">
+<!ENTITY paste.label "Líma">
+<!ENTITY pasteAndGo.label "Líma og hoppa">
+<!ENTITY delete.label "Eyða">
+<!ENTITY selectAll.label "Velja allt">
+<!ENTITY appbarFindInPage.label "Leita á síðu">
+<!ENTITY appbarViewOnDesktop.label "Skoða á skjáborði">
+<!ENTITY startTopSitesHeader.label "Efstu vefsvæði">
+<!ENTITY startBookmarksHeader.label "Bókamerki">
+<!ENTITY startHistoryHeader.label "Nýlegir ferlar">
+<!ENTITY startRemoteTabsHeader.label "Flipar frá öðrum tækjum">
+<!ENTITY autocompleteResultsHeader.label "Þínar niðurstöður">
+<!ENTITY autocompleteSearchesHeader.label "Internet leitir">
+ 
+
+<!ENTITY selectHelper.done "Ljúka">
+<!ENTITY downloadsHeader.label "Niðurhal">
+<!ENTITY downloadShowPage.label "Fara á síðu">
+<!ENTITY downloadShow2.label "Leita">
+<!ENTITY downloadOpen2.label "Opna">
+<!ENTITY downloadCancel.label "Hætta við">
+<!ENTITY downloadPause.label "Í bið">
+<!ENTITY downloadResume.label "Halda áfram">
+<!ENTITY downloadRetry.label "Reyna aftur">
+<!ENTITY downloadRemove.label "Fjarlægja">
+<!ENTITY downloadDelete.label "Eyða">
+<!ENTITY downloadFailed.label "Mistókst
+">
+<!ENTITY bookmarksHeader.label "Bókamerki">
+<!ENTITY allBookmarks.label "Sýna öll bókamerki">
+<!ENTITY identity.unverifiedsite2 "Þetta vefsvæði hefur ekki sent upplýsingar um eiganda.">
+<!ENTITY identity.connectedTo2 "Tengdur við">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "keyrt af">
+<!ENTITY consoleHeader.label "Villugluggi">
+<!ENTITY consoleAll.label "Allir">
+<!ENTITY consoleErrors.label "Villur">
+<!ENTITY consoleWarnings.label "Aðvaranir">
+<!ENTITY consoleMessages.label "Skilaboð">
+<!ENTITY consoleCodeEval.label "Kóði:">
+<!ENTITY consoleClear.label "Hreinsa">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Upprunarskrá:">
+<!ENTITY consoleErrLine.label "Lína:">
+<!ENTITY consoleErrColumn.label "Dálkur:">
+<!ENTITY contextOpenInNewTab.label "Opna tengil í nýjum flipa">
+<!ENTITY contextViewInNewTab.label "Skoða í nýjum flipa">
+<!ENTITY contextSaveImage.label "Vista mynd">
+<!ENTITY contextSaveImageTo.label "Vista mynd á">
+<!ENTITY contextCopyLink.label "Afrita tengil">
+<!ENTITY contextCopyEmail.label "Afrita póstfang">
+<!ENTITY contextCopyPhone.label "Afrita símanúmer">
+<!ENTITY contextCopyImage.label "Afrita mynd">
+<!ENTITY contextShareLink.label "Deila tengli">
+<!ENTITY contextShareImage.label "Deila mynd">
+<!ENTITY contextBookmarkLink.label "Setja tengil í bókamerki">
+<!ENTITY contextSaveVideo.label "Vista myndband">
+<!ENTITY contextSaveVideoTo.label "Vista myndband á">
+<!ENTITY contextShareVideo.label "Deila myndbandi">
+<!ENTITY contextPlayMedia.label "Spila">
+<!ENTITY contextPauseMedia.label "Í bið">
+<!ENTITY contextVideoTab.label "Opna í nýjum flipa">
+<!ENTITY contextEditBookmark.label "Breyta">
+<!ENTITY contextRemoveBookmark.label "Fjarlægja">
+<!ENTITY contextShortcutBookmark.label "Bæta við á heimasvæði">
+<!ENTITY pageactions.password.forget "Gleyma lykilorði">
+<!ENTITY pageactions.reset "Hreinsa stillingar vefsvæðis">
+<!ENTITY pageactions.charEncoding "Stafatöflur">
