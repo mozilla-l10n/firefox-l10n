@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Deasaich">
 <!ENTITY appmenuQFBMenu.label "Bàr a' ghrad-chriathraidh">
 <!ENTITY appmenuToolbarLayout.label "Co-dhealbhachd a' bhàr-inneal…">
+<!ENTITY appmenuSelectThread.label "Tagh snàithlean">
+<!ENTITY appmenuSelectFlagged.label "Tagh teachdaireachdan ris a bheil bratach">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Taga ùr…">

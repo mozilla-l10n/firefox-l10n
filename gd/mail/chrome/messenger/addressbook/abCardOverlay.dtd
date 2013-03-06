@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Caraid">
+<!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "Ainm">
+<!ENTITY Name.box                        "Name">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -49,7 +49,11 @@
 
 <!ENTITY allowRemoteContent1.label      "Ceadaich susbaint chèin.">
 <!ENTITY allowRemoteContent1.accesskey  "C">
-<!ENTITY allowRemoteContent1.tooltip    "Gabhaidh susbaint o thùsan cian leabachadh a-steach ann an teachdaireachdan HTML. Nuair a dh'fhosglar teachdaireachd d' a leithid, thèid ceangal a dhèanamh ris an tùs chèin seo. Dh'fhaodar an teachdaireachd a thathar a' leughadh a' lorgachadh leis. Ma chuireas tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an teachdaireachdan HTML on charaid seo.">
+<!ENTITY allowRemoteContent1.tooltip    "Gabhaidh susbaint o thùsan cian leabachadh
+a-steach ann an teachdaireachdan HTML. Nuair a dh'fhosglar teachdaireachd 
+d' a leithid, thèid ceangal a dhèanamh ris an tùs chèin seo. Dh'fhaodar 
+an teachdaireachd a thathar a' leughadh a' lorgachadh leis. Ma chuireas 
+tu cromag sa bhogsa seo, ceadaichidh seo susbaint chèin d' a leithid ann an teachdaireachdan HTML on charaid seo.">
 
 <!ENTITY WorkPhone.label                "Obair:">
 <!ENTITY WorkPhone.accesskey            "O">
@@ -140,6 +144,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Far-ainm IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Fotograf">
 <!ENTITY Photo.accesskey                "o">

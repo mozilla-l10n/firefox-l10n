@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Dèan na leanas:">
 <!ENTITY filterActionDesc.accesskey "D">
 
+<!ENTITY filterActionOrderWarning.label "An aire: Thèid gnìomhan criathradh a chur an gnìomh ann an òrdugh eadar-dhealaichte.">
+<!ENTITY filterActionOrder.label "Faic òrdugh a' ghnìomhachaidh">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Gluais an teachdaireachd gu">
 <!ENTITY copyMessage.label "Cuir lethbhreac dhen teachdaireachd gu">
