@@ -599,6 +599,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Amosar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Xestionar servizos…">
+
 <!ENTITY social.toggleNotifications.label "Amosar notificacións de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
