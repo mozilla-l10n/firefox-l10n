@@ -6,7 +6,7 @@
 <!ENTITY about.title                               "Quant al &brandShortName;">
 <!ENTITY about.button                              "Vés a la pàgina">
 <!ENTITY content.title                             "Contingut">
-<!ENTITY reflowZoom.title                          "Canvia el format del text en fer zoom">
+<!ENTITY reflowZoom.title                          "Reformata el text en fer zoom">
 <!ENTITY showImages.title                          "Mostra les imatges">
 <!ENTITY enableJavaScript.title                    "Habilita el JavaScript">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
@@ -19,10 +19,10 @@
 <!ENTITY language.title                            "Llengua">
 <!ENTITY language.auto                             "Detecta automàticament">
 <!ENTITY defaultBrowser.title                      "Navegador per defecte">
-<!ENTITY defaultBrowser.description                "Fes el &brandShortName; navegador per defecte">
+<!ENTITY defaultBrowser.description                "Defineix el &brandShortName; com a navegador per defecte">
 <!ENTITY homepage.title                            "Pàgina d'inici">
 <!ENTITY homepage.none                             "Pàgina en blanc">
 <!ENTITY homepage.default                          "Inici del &brandShortName;">
 <!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
-<!ENTITY showCharsetEncoding.title                 "Mostra els caràcters de codificació">
+<!ENTITY showCharsetEncoding.title                 "Mostra la codificació de caràcters">
 <!ENTITY actionbar.default                         "Configuració del &brandShortName;">

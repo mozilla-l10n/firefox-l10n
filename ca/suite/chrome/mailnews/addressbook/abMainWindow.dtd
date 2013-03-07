@@ -81,7 +81,7 @@
 <!ENTITY deleteItemButton.accesskey                     "u">
 <!ENTITY newimButton.label                              "Missatgeria instantània">  
 <!ENTITY newimButton.accesskey                          "M">  
-<!ENTITY searchNameAndEmail.placeholder                 "Cerca el nom i l'adreça de correu">
+<!ENTITY searchNameAndEmail.placeholder                 "Cerca el nom i l'adreça electrònica">
 <!ENTITY searchBox.title                                "Cerca">
 <!-- Tooltips -->
 
@@ -109,7 +109,7 @@
 <!ENTITY description.heading                            "Descripció">
 <!ENTITY addresses.heading                              "Adreces">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Aconsegueix el mapa">
+<!ENTITY mapItButton.label                              "Mostra el mapa">
 <!ENTITY mapIt.tooltip                                  "Mostra un mapa d'aquesta adreça del web">
 <!-- Status Bar -->  
 

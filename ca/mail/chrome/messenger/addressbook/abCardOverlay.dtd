@@ -142,7 +142,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY MSN.accesskey                  "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.label                     "ID del Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
 
 <!ENTITY Photo.tab                      "Fotografia">

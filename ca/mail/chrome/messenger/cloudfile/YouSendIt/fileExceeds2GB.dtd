@@ -3,4 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceeds2GB.title   "YouSendIt">
 <!ENTITY fileExceeds2GB.cancel "D'acord">
-<!ENTITY fileExceeds2GB.description "No es pot enviar fitxers de més de 2 GB.">
+<!ENTITY fileExceeds2GB.description "No es poden enviar fitxers de més de 2 GB.">
