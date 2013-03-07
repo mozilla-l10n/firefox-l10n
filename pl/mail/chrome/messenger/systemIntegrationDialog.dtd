@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Integracja z systemem operacyjnym">
 <!ENTITY acceptIntegration.label "Ustaw jako domyślny">
 <!ENTITY cancelIntegration.label "Pomiń integrację">
+<!ENTITY cancelIntegration2.label "Anuluj">
 <!ENTITY defaultClient.intro     "&brandShortName; ma być domyślnym klientem:">
 
 <!ENTITY email.label      "poczty">
