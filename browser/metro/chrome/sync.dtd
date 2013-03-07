@@ -2,11 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title "Sync">
+<!ENTITY syncHeader.title "Sync">
 <!ENTITY sync.notconnected "Sin conectar">
 <!ENTITY sync.connect "Conectar">
 <!ENTITY sync.connected "Conectado">
-<!ENTITY sync.details "Detalles">
 <!ENTITY sync.deviceName "Este dispositivo">
 <!ENTITY sync.disconnect "Desconectar">
 <!ENTITY sync.syncNow "Sincronizar ahora">

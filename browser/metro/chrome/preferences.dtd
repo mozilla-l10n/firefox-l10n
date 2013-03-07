@@ -2,18 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.label "Opciones">
-<!ENTITY aboutHeader.label "Acerca de">
-<!ENTITY aboutHeaderProduct.label "&brandShortName;">
-<!ENTITY aboutHeaderCompany.label "Por &vendorShortName;">
-<!ENTITY aboutHeaderPolicy.label "Leer la política de privacidad de &brandShortName; en línea">
-<!ENTITY privacy.title "Privacidad y seguridad">
-<!ENTITY doNotTrack.title "No quiero ser rastreado">
-<!ENTITY masterPassword.title "Usar contraseña maestra">
-<!ENTITY clearPrivateData2.title "Limpiar datos privados">
-<!ENTITY clearPrivateData.button "Limpiar">
-<!ENTITY rememberPasswords.title "Recordar contraseñas">
-<!ENTITY startup.title "Inicio">
-<!ENTITY homepage.title "Cuando se inicie &brandShortName;:">
-<!ENTITY homepage.startPage "Página de inicio">
-<!ENTITY homepage.sessionRestore "Pestañas de la última sesión">
+<!ENTITY aboutHeader.title "Acerca de">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "Por &vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Lea la política de privacidad de &brandShortName; en línea">
+<!ENTITY optionsHeader.title "Opciones">
+<!ENTITY optionsHeader.startup.title "Inicio">
+<!ENTITY optionsHeader.homepage.title "Cuando se inicie &brandShortName;, mostrar">
+<!ENTITY optionsHeader.homepage.startPage.button "página de inicio">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "pestañas de la última vez">
+<!ENTITY optionsHeader.tabs.title "Siempre mostrar las pestañas">
+<!ENTITY optionsHeader.char.title "Codif. caracteres">
+<!ENTITY optionsHeader.char.autodetect.label "Autodetectar">
+<!ENTITY optionsHeader.char.options.label "Mostrar la codificación de caracteres en la barra de la aplicación">
+<!ENTITY optionsHeader.privacy.clearPrivateData.title "Limpiar datos privados">
+<!ENTITY optionsHeader.privacy.clearPrivateData.label "Limpiar su historial de navegación, contraseñas, cookies y datos de formularios de este dispositivo">
+<!ENTITY optionsHeader.privacy.clearPrivateData.button "Limpiar">
+<!ENTITY optionsHeader.privacy.passwords.label "Recordar contraseñas">
+<!ENTITY optionsHeader.privacy.doNotTrack.title "Rastreo">
+<!ENTITY optionsHeader.privacy.doNotTrack.label "No quiero ser rastreado">
+<!ENTITY optionsHeader.privacy.masterPassword.label "Usar contraseña maestra">

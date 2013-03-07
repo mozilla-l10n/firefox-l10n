@@ -6,7 +6,6 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY back.label "Anterior">
 <!ENTITY forward.label "Siguiente">
-<!ENTITY toggleTabsOnly.label "Siempre mostrar pestañas">
 <!ENTITY showTabs.label "Mostrar pestañas">
 <!ENTITY newtab.label "Pestaña nueva">
 <!ENTITY closetab.label "Cerrar pestaña">
