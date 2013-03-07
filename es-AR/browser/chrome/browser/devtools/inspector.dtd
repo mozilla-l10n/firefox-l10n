@@ -4,6 +4,9 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copiar Outer HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copiar selector único">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "s">
+
 <!ENTITY inspectorHTMLDelete.label          "Borrar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey      "B">
 
