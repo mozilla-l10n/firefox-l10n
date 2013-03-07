@@ -10,9 +10,9 @@
 <!-- General Settings -->
 
 
-<!ENTITY submitTelemetry.label         "Envia dades del rendiment ">
+<!ENTITY submitTelemetry.label         "Tramet dades del rendiment">
 <!ENTITY submitTelemetry.accesskey     "r">
-<!ENTITY telemetryInfoLink.label       "Més informació sobre el Telemetry">
+<!ENTITY telemetryInfoLink.label       "Més informació sobre la telemesura">
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
@@ -92,7 +92,7 @@
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace                       "Espai de disc">
-<!ENTITY offlineCompactFolders.label     "Compacta totes les carpetes quan es desarà">
+<!ENTITY offlineCompactFolders.label     "Compacta totes les carpetes quan l'estalvi sigui superior a">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB en total">
 <!-- LOCALIZATION NOTE:

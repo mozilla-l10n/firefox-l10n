@@ -11,11 +11,11 @@
 <!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc aquestes adreces de correu:">
+<!ENTITY ccAddress.label "Cc a aquestes adreces electròniques:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separeu les adreces amb comes">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Cco aquestes adreces de correu:">
+<!ENTITY bccAddress.label "Cco a aquestes adreces electròniques:">
 <!ENTITY bccAddress.accesskey "o">
 <!ENTITY bccAddressList.placeholder "Separeu les adreces amb comes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">

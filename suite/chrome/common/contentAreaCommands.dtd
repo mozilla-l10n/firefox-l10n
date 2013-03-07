@@ -61,7 +61,7 @@
 <!ENTITY bookmarkPageCmd.accesskey    "p">
 <!ENTITY bookmarkLinkCmd.label        "Afegeix aquest enllaç a les adreces d'interès…">
 <!ENTITY bookmarkLinkCmd.accesskey    "l">
-<!ENTITY bookmarkFrameCmd.label       "Desa aquest marc com a adreça d'interès">
+<!ENTITY bookmarkFrameCmd.label       "Desa aquest marc com a adreça d'interès…">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "Anomena i desa la pàgina…">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina">

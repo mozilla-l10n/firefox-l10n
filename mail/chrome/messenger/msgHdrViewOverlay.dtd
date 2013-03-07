@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "a">
-<!ENTITY fromField3.label "De">
-<!ENTITY senderField3.label "Remitent">
-<!ENTITY organizationField3.label "Organització">
-<!ENTITY replyToField3.label "Respon a">
+<!ENTITY toField3.label "A ">
+<!ENTITY fromField3.label "De ">
+<!ENTITY senderField3.label "Remitent ">
+<!ENTITY organizationField3.label "Organització ">
+<!ENTITY replyToField3.label "Respon a ">
 
-<!ENTITY subjectField3.label "Assumpte">
-<!ENTITY ccField3.label "Cc">
-<!ENTITY bccField3.label "Cco">
-<!ENTITY newsgroupsField3.label "Grups de discussió">
-<!ENTITY followupToField3.label "Segueix a">
-<!ENTITY tagsHdr3.label "Etiquetes">
-<!ENTITY dateField3.label "Data">
-<!ENTITY userAgentField3.label "Agent">
-<!ENTITY referencesField3.label "Referències">
-<!ENTITY messageIdField3.label "ID del missatge">
+<!ENTITY subjectField3.label "Assumpte ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Cco ">
+<!ENTITY newsgroupsField3.label "Grups de discussió ">
+<!ENTITY followupToField3.label "Segueix a ">
+<!ENTITY tagsHdr3.label "Etiquetes ">
+<!ENTITY dateField3.label "Data ">
+<!ENTITY userAgentField3.label "Agent d'usuari ">
+<!ENTITY referencesField3.label "Referències ">
+<!ENTITY messageIdField3.label "ID del missatge ">
 <!ENTITY inReplyToField3.label "En resposta a ">
-<!ENTITY originalWebsite3.label "Pàgina web">
+<!ENTITY originalWebsite3.label "Pàgina web ">
 
 <!ENTITY editMessageDescription.label "Esteu en un esborrany">
 <!ENTITY editMessageButton.label "Edita…">
@@ -27,7 +27,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arxiva aquest missatge">
 <!ENTITY hdrSmartReplyButton1.label "Resposta intel·ligent">
 <!ENTITY hdrReplyButton1.label "Respon">
-<!ENTITY hdrReplyButton2.tooltip "Respon al remitent d'aquest missatge.">
+<!ENTITY hdrReplyButton2.tooltip "Respon al remitent d'aquest missatge">
 <!ENTITY hdrReplyAllButton1.label "Respon a tots">
 <!ENTITY hdrReplyAllButton1.tooltip "Respon al remitent i a tots els destinataris">
 <!ENTITY hdrReplyListButton1.label "Respon a la llista">

@@ -12,7 +12,7 @@
 <!ENTITY star.label            "Destaca">
 
 <!ENTITY showTabs.label        "Mostra les pestanyes">
-<!ENTITY newtab.label          "Crea una pestanya">
+<!ENTITY newtab.label          "Pestanya nova">
 <!ENTITY closetab.label        "Tanca la pestanya">
 
 <!ENTITY cut.label             "Retalla">
@@ -73,7 +73,7 @@
 <!ENTITY bookmarkPopup.label       "Pàgina a les adreces d'interès">
 <!ENTITY bookmarkRemove.label      "Suprimeix">
 <!ENTITY bookmarkEdit.label        "Edita">
-<!ENTITY bookmarkShortcut.label    "Afegeix a la finestra principal">
+<!ENTITY bookmarkShortcut.label    "Afegeix a la pantalla d'inici">
 
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
 <!ENTITY identity.connectedTo2 "Connectat a">
@@ -112,7 +112,7 @@
 <!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
-<!ENTITY contextShortcutBookmark.label "Afegeix a la finestra principal">
+<!ENTITY contextShortcutBookmark.label "Afegeix a la pantalla d'inici">
 
 <!ENTITY pageactions.saveas.pdf      "Desa com a PDF">
 <!ENTITY pageactions.share.page      "Comparteix la pàgina">

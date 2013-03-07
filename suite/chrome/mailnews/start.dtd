@@ -13,7 +13,7 @@
 <!ENTITY feat_filters.label "Filtres de missatge">
 <!ENTITY feat_htmlmsg.label "Missatges HTML">
 <!ENTITY feat_abook.label "Llibreta d'adreces">
-<!ENTITY feat_tags.label "Etiquetes Personalitzables i Vistes de Correu">
+<!ENTITY feat_tags.label "Etiquetes i vistes de missatge personalitzables">
 <!ENTITY feat_integration.label "Estreta integració amb el conjunt d'aplicacions del &brandShortName;">
 <!ENTITY dict.title "Diccionaris">
 <!ENTITY dict_intro.label "Els diccionaris serveixen per comprovar l'ortografia dels vostres missatges.">
