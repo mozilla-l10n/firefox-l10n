@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "S'amenista un plugin ta amostrar iste conteniu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Toca aquí ta activar o connector.">
-<!ENTITY clickToPlayPlugin                                   "Faiga click aquí ta activar o complemento.">
+<!ENTITY clickToActivatePlugin                               "Activar o plugin.">
 <!ENTITY checkForUpdates                                     "Mirar actualizacions…">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "S'han desactivau os informes de fallo.">
 <!ENTITY report.failed                                       "O ninviamiento ha fallau.">
 <!ENTITY report.unavailable                                  "No i hai garra informe disponible.">
+<!ENTITY report.comment                                      "Adhibir un comentario (os comentario son visibles)">
+<!ENTITY report.pageURL                                      "Incluiga a URL d'a pachina">
 
 <!ENTITY plugin.file                                         "Fichero">
 <!ENTITY plugin.mimeTypes                                    "Tipos MIME">

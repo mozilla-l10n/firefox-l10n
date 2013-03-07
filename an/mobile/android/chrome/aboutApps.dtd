@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "No s'ha instalau garra aplicación web. Aconsiga-ne beluna en ">
 <!ENTITY aboutApps.noApps.middle3 "Mercau de Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Desinstalar">
+<!ENTITY aboutApps.addToHomescreen "Adhibir ta la pantalla d'inicio">

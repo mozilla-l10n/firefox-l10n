@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Seguimiento">
 
-<!ENTITY doNotTrack.label               "Decir a os puestos web que no quiero que me sigan o bayo">
-<!ENTITY doNotTrack.accesskey           "D">
+<!ENTITY dntTrackingNopref.label        "No decir brenca a los puestos sobre as mías preferencias de seguimiento.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Decir a los puestos que no quiero que me sigan o bayo.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Decir a os puestos que quiero que me sigan o bayo.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Saber-ne mas">
 
 <!ENTITY  history.label                 "Historial">
 
