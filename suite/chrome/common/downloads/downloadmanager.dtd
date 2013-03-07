@@ -49,9 +49,9 @@
 <!ENTITY col.endtime.label               "Lopetusaika">
 <!ENTITY col.endtime.accesskey           "p">
 <!ENTITY col.endtime.tooltip             "Lopetusaika">
-<!ENTITY col.progresstext.label          "Prosenttia">
-<!ENTITY col.progresstext.accesskey      "r">
-<!ENTITY col.progresstext.tooltip        "Edistyminen prosentteina">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Edistyminen (&#37;)">
 <!ENTITY col.source.label                "Lähde">
 <!ENTITY col.source.accesskey            "h">
 <!ENTITY col.source.tooltip              "Lähde">
