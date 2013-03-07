@@ -51,7 +51,7 @@
 <!ENTITY defaultPortLabel.label "Predeterminat:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Introduïu el nom del servidor d'entrada (per exemple, «mail.example.net»).">
+<!ENTITY incomingServer.description "Introduïu el nom del servidor d'entrada (per exemple, «mail.exemple.net»).">
 <!ENTITY incomingServer.label "Servidor d'entrada:">
 <!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Deixa els missatges al servidor">
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Informació del servidor de sortida">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Introduïu el nom del servidor de sortida (SMTP) (per exemple, «;smtp.example.net»).">
+<!ENTITY outgoingServer.description "Introduïu el nom del servidor de sortida (SMTP) (per exemple, «smtp.exemple.net»).">
 <!ENTITY outgoingServer.label "Servidor de sortida:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Introduïu el nom d'usuari de sortida proporcionat pel vostre proveïdor de correu (normalment és el mateix que el nom d'usuari d'entrada).">
@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Marqueu aquesta casella de selecció per emmagatzemar el correu d'aquest compte en la safata d'entrada global de les carpetes locals. Altrament, el compte apareixerà com un de nivell superior i el seu correu s'emmagatzemarà en el seu propi directori.">
 <!ENTITY deferStorage.label "Utilitza la safata d'entrada global (emmagatzema el correu a les carpetes locals)">
 <!ENTITY deferStorage.accesskey "g">
-<!ENTITY clickFinish.label "Feu un clic a Finalitza per desar aquests paràmetres i sortir de l'auxiliar de comptes.">
-<!ENTITY clickFinish.labelMac "Feu un clic a Fet per desar aquests paràmetres i sortir de l'auxiliar de comptes.">
+<!ENTITY clickFinish.label "Feu clic a Finalitza per desar aquests paràmetres i sortir de l'auxiliar de comptes.">
+<!ENTITY clickFinish.labelMac "Feu clic a Fet per desar aquests paràmetres i sortir de l'auxiliar de comptes.">

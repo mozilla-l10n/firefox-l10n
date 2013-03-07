@@ -65,7 +65,7 @@
 <!ENTITY perm.NeverSave "Mai ho desis">
 <!ENTITY perm.Allow "Permet">
 <!ENTITY perm.AllowSameDomain "Permetre pel mateix domini">
-<!ENTITY perm.AllowSession "Permet per a la sessió">
+<!ENTITY perm.AllowSession "Permet durant la sessió">
 <!ENTITY perm.Block "Bloca">
 
 <!ENTITY perm.host.placeholder "Introduïu un nom de servidor central">

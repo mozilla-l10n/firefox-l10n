@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Quant al &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; és experimental i pot ser inestable.">
-<!ENTITY aboutPage.telemetryStart               " Envia automàticament informació sobre el rendiment, maquinari, ús i personalització a">
+<!ENTITY aboutPage.warningVersion               "El &brandShortName; és experimental i pot ser inestable.">
+<!ENTITY aboutPage.telemetryStart               " Envia automàticament informació sobre el rendiment, maquinari, ús i personalització a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " ajudeu a millorar &brandShortName;.">
+<!ENTITY aboutPage.telemetryEnd                 " per ajudar a millorar el &brandShortName;.">
 <!ENTITY aboutPage.faq.label                    "PMF">
 <!ENTITY aboutPage.support.label                "Assistència">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privadesa">
@@ -13,7 +13,7 @@
 <!ENTITY aboutPage.relNotes.label               "Notes de la versió">
 <!ENTITY aboutPage.credits.label                "Crèdits">
 <!ENTITY aboutPage.checkForUpdates.button       "Comprova si hi ha actualitzacions">
-<!ENTITY aboutPage.checkForUpdates.checking     "Comprovació d'actualitzacions…">
+<!ENTITY aboutPage.checkForUpdates.checking     "S'estan cercant actualitzacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">
 <!ENTITY aboutPage.checkForUpdates.found        "Hi ha una actualització">
 <!-- LOCALIZATION NOTE:

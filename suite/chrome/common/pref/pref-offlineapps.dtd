@@ -15,6 +15,6 @@
 <!ENTITY offlineNotifyPermissions.label     "Gestiona els permisos">
 <!ENTITY offlineNotifyPermissions.accesskey "p">
 
-<!ENTITY offlineAppsList.label              "Els llocs web següents estan autoritzats a emmagatzemar dades per el seu ús fora de línia:">
+<!ENTITY offlineAppsList.label              "Els llocs web següents estan autoritzats a emmagatzemar dades per al seu ús fora de línia:">
 <!ENTITY offlineAppsListRemove.label        "Neteja les dades…">
 <!ENTITY offlineAppsListRemove.accesskey    "N">

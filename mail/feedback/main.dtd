@@ -4,8 +4,8 @@
 
 <!ENTITY testpilot.brand.label                          "Test Pilot">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                       "Opcions">
-<!ENTITY testpilot.settings.dataSubmission.label        "Data d'enviament">
+<!ENTITY testpilot.settings.label                       "Paràmetres">
+<!ENTITY testpilot.settings.dataSubmission.label        "Tramesa de dades">
 <!ENTITY testpilot.settings.notifications.label         "Notificacions">
 <!ENTITY testpilot.settings.notifyWhen.label            "Avisa'm quan...">
 <!ENTITY testpilot.settings.readyToSubmit.label         "Es pugui enviar un estudi">

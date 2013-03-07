@@ -544,7 +544,7 @@
 <!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY goBackButton.tooltip "Vés enrere un missatge">
 <!ENTITY deleteButton.tooltip "Suprimeix el missatge o carpeta seleccionada">
-<!ENTITY undeleteButton.tooltip "Dessuprimeix el missatge seleccionat">
+<!ENTITY undeleteButton.tooltip "Recupera el missatge suprimit seleccionat">
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY printButton.tooltip "Imprimeix aquest missatge">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
@@ -785,7 +785,7 @@
 
 <!ENTITY mdnBarIgnoreButton2.label "Ignora">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Envia la notificació">
+<!ENTITY mdnBarSendButton2.label "Envia la confirmació de recepció">
 <!ENTITY mdnBarSendButton2.accesskey "E">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
