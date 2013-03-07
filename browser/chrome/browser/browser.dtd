@@ -585,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Más información…">
 
-<!ENTITY allTabs.filter.emptyText "Buscar pestañas">
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
@@ -612,6 +611,8 @@ The word "toolbar" is appended automatically and should not be contained below! 
 
 <!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
+
+<!ENTITY social.addons.label "Administrar servicios…">
 
 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
