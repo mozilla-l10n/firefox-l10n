@@ -22,15 +22,6 @@
 <!ENTITY privatebrowsingpage.learnMore                 "Μάθετε περισσότερα">
 
 
-<!ENTITY privatebrowsingpage.description              "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιήγησης, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία που κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
-
-<!ENTITY privatebrowsingpage.howToStart2               "Για να ξεκινήσετε την Ιδιωτική περιήγηση μπορείτε ακόμα να επιλέξετε &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-
-<!ENTITY privatebrowsingpage.howToStop2                "Για να διακόψετε την Ιδιωτική περιήγηση, επιλέξτε &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, ή κλείστε τον &brandShortName;.">
-
-<!ENTITY privatebrowsingpage.issueDesc                 "Ο &brandShortName; δεν θα αποθηκεύει ιστορικό για αυτή τη συνεδρία.">
-
-<!ENTITY privatebrowsingpage.issueDesc.normal          "Ο &brandShortName; δεν είναι σε λειτουργία ιδιωτικής περιήγησης.">
 
 
 

@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+
+
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "Μόνο στυλ χρήστη">
+<!ENTITY browserStylesLabel    "Browser styles">
+
 
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
@@ -21,10 +24,7 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Δεν βρέθηκαν ιδιότητες CSS.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Μη ταιριασμένοι επιλογείς">
+ς">
 
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
@@ -34,7 +34,7 @@
 <!ENTITY bestMatch             "Καλύτερο ταίριασμα">
 <!ENTITY matched               "Ταιριασμένο">
 <!ENTITY parentMatch           "Γονικό ταίριασμα">
-<!ENTITY unmatched             "Μη ταιριασμένο">
+
 
 <!ENTITY computedViewTitle     "Computed">
 <!ENTITY ruleViewTitle         "Rules">

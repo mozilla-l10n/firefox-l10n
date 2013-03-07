@@ -11,6 +11,13 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
+
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+
+
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label2            "Debugger">

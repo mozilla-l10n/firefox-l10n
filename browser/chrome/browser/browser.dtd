@@ -341,7 +341,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY undoCmd.accesskey "Α">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY urlbar.placeholder           "Μετάβαση σε μια ιστοσελίδα">
 <!ENTITY urlbar.accesskey "">
 <!ENTITY viewBGImageCmd.accesskey "β">
 <!ENTITY viewBGImageCmd.label "Προβολή εικόνας παρασκηνίου">
@@ -504,10 +503,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewVideoCmd.accesskey       "β">
 
 
-<!ENTITY privateBrowsingCmd.start.label         "Έναρξη ιδιωτικής περιήγησης">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ξ">
-<!ENTITY privateBrowsingCmd.stop.label          "Διακοπή ιδιωτικής περιήγησης">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "Δ">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -516,7 +511,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
-<!ENTITY allTabs.filter.emptyText "Αναζήτηση καρτελών">
+
 <!ENTITY feedButton.tooltip           "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY fullScreenButton.tooltip       "Προβολή του παραθύρου σε πλήρη οθόνη">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -536,7 +531,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
-<!ENTITY clearRecentHistory.accesskey           "ι">
+
 
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "ω">
@@ -650,9 +645,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullscreenExitButton.label "Άρνηση">
 <!ENTITY fullscreenApproval.value "Να επιτρέπεται η πλήρης οθόνη;">
 
+<!ENTITY playPluginCmd.label          "Ενεργοποίηση αυτής της πρόσθετης λειτουργίας">
+<!ENTITY playPluginCmd.accesskey      "γ">
 
-
-
+<!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
@@ -667,7 +663,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoHideStats.accesskey    "ψ">
 
 
+<!ENTITY hidePluginCmd.label          "Απόκρυψη αυτής της πρόσθετης λειτουργίας">
+<!ENTITY hidePluginCmd.accesskey      "π">
 
+<!ENTITY mixedContentBlocked.helplink "Διαβάστε περισσότερα">
+<!ENTITY mixedContentBlocked.moreinfo "Οι περισσότερες ιστοσελίδες θα λειτουργούν ακόμα και αν γίνει φραγή αυτού του περιεχομένου.">
 
 
 
