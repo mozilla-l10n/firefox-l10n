@@ -166,8 +166,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "e">
 <!ENTITY ChatName.label                                 "Nom de xat">
 <!ENTITY ChatName.accesskey                             "x">
-<!ENTITY Company.label                                  "Empresa">
-<!ENTITY Company.accesskey                              "m">
+<!ENTITY Company.label                                  "Organització">
+<!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Sobrenom">
 <!ENTITY NickName.accesskey                             "S">
 <!ENTITY SecondEmail.label                              "Adreça electrònica alternativa">
@@ -205,7 +205,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Descripció">
 <!ENTITY addresses.heading                              "Adreces">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Obtingues el mapa">
+<!ENTITY mapItButton.label                              "Mostra el mapa">
 <!ENTITY mapIt.tooltip                                  "Mostra un mapa d'aquesta adreça del Web">
 <!-- Status Bar -->
 

@@ -71,12 +71,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile          "scripts de filtres">
+<!ENTITY debuggerUI.searchFile          "Filtra els scripts">
 <!ENTITY debuggerUI.searchFile.key      "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Cerca a tots els fitxers">
+<!ENTITY debuggerUI.searchGlobal        "Cerca en tots els fitxers">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -91,7 +91,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
-<!ENTITY debuggerUI.searchVariable      "Variables de filtres">
+<!ENTITY debuggerUI.searchVariable      "Filtra les variables">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -111,17 +111,17 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.seMenuAddWatch      "Selecció de l'expressió a mostrar">
+<!ENTITY debuggerUI.seMenuAddWatch      "Selecció de l'expressió de vigilància">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "S">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "Afegeix una expressió a mostrar">
+<!ENTITY debuggerUI.addWatch            "Afegeix una expressió de vigilància">
 <!ENTITY debuggerUI.addWatch.key        "A">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch      "Suprimeix totes les expressions">
+<!ENTITY debuggerUI.removeAllWatch      "Suprimeix totes les expressions de vigilància">
 <!ENTITY debuggerUI.removeAllWatch.key  "T">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,

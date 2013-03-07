@@ -18,7 +18,7 @@
 <!ENTITY purge2.label "dies">
 
 <!ENTITY whitelistHeader.label "No marquis automàticament com a brossa si el remitent és a: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Si està habilitat, &brandShortName; considerarà automàticament els missatges marcats per aquest classificador extern com a correu brossa.">
 <!ENTITY ispHeaders.label "Confia en les capçaleres de missatge brossa definides per: ">

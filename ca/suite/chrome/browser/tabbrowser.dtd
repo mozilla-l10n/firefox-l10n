@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  untitledTab            "(Sense títol)">
-<!ENTITY  newTab.label           "Obre una pestanya">
+<!ENTITY  newTab.label           "Pestanya nova">
 <!ENTITY  newTab.accesskey       "n">
 <!ENTITY  closeTab.label         "Tanca la pestanya">
 <!ENTITY  closeTab.accesskey         "c">

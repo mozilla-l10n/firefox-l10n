@@ -438,7 +438,7 @@
 <!ENTITY goBackButton.tooltip "Vés enrere un missatge">
 <!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY deleteButton.tooltip "Suprimeix el missatge o carpeta seleccionada">
-<!ENTITY undeleteButton.tooltip "Recupera els missatges suprimits seleccionats">
+<!ENTITY undeleteButton.tooltip "Recupera el missatge suprimit seleccionat">
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
 <!ENTITY throbber.tooltip "Vés a la pàgina d'inici de &vendorShortName;">
@@ -546,5 +546,5 @@
 
 <!ENTITY mdnBarIgnoreButton.label "Ignora la sol·licitud">
 <!ENTITY mdnBarIgnoreButton.accesskey "l">
-<!ENTITY mdnBarSendButton.label "Envia la notificació">
+<!ENTITY mdnBarSendButton.label "Envia la confirmació">
 <!ENTITY mdnBarSendButton.accesskey "v">

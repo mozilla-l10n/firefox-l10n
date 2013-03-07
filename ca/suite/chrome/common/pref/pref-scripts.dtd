@@ -25,8 +25,8 @@
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 
-<!ENTITY whenPageRequiresPlugins.label   "Quan una pàgina necessita extensions">
-<!ENTITY activateAllPlugins.label        "Activa totes les extensions per defecte">
+<!ENTITY whenPageRequiresPlugins.label   "Quan una pàgina necessiti connectors">
+<!ENTITY activateAllPlugins.label        "Activa tots els connectors per defecte">
 <!ENTITY activateAllPlugins.accesskey    "d">
-<!ENTITY warnPluginsRequired.label       "Avisa'm si cal instal·lar extensions addicionals">
+<!ENTITY warnPluginsRequired.label       "Avisa'm si cal instal·lar connectors addicionals">
 <!ENTITY warnPluginsRequired.accesskey   "v">

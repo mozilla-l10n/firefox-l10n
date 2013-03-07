@@ -4,9 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dades de telemesura">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemesura <span>habilitada</span>.">
+<!ENTITY aboutTelemetry.telemetryEnabled "  La telemesura està <span>habilitada</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemesura <span>inhabilitada</span>.">
+<!ENTITY aboutTelemetry.telemetryDisabled "  La telemesura està <span>inhabilitada</span>.">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Sentències SQL lentes">
 
@@ -26,8 +26,8 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (No s'han recollit dades)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuració de SQL lent està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a telemesura.">
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Obtén els noms de les funcions per les piles de bloqueig">
+<!ENTITY aboutTelemetry.fetchSymbols "  Obtén els noms de les funcions per a les piles de bloqueig">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Mostra les dades sense processar dels bloquejos">

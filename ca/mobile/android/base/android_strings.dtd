@@ -81,11 +81,11 @@
 <!ENTITY pref_char_encoding_off "No mostris el menú">
 <!ENTITY pref_clear_private_data "Neteja les dades privades">
 <!ENTITY pref_plugins "Connectors">
-<!ENTITY pref_plugins_enabled "Habilitat">
-<!ENTITY pref_plugins_tap_to_play "Toqueu per engegar">
-<!ENTITY pref_plugins_disabled "Inhabilitat">
+<!ENTITY pref_plugins_enabled "Habilitats">
+<!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
+<!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida de la lletra">
-<!ENTITY pref_reflow_on_zoom2 "Pessigueu per a reajustar el flux del text">
+<!ENTITY pref_reflow_on_zoom2 "Reajusta el text en pessigar">
 <!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -114,19 +114,19 @@ size. -->
 <!ENTITY pref_private_data_passwords "Contrasenyes desades">
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
-<!ENTITY pref_private_data_siteSettings "Preferències dels lloc web">
+<!ENTITY pref_private_data_siteSettings "Preferències dels llocs">
 
 <!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
-<!ENTITY pref_update_autodownload_wifi "Només amb Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Inhabilitat">
-<!ENTITY pref_update_autodownload_enabled "Habilitat">
+<!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
+<!ENTITY pref_update_autodownload_disabled "Inhabilitades">
+<!ENTITY pref_update_autodownload_enabled "Habilitades">
 
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
 <!ENTITY downloads "Baixades">
 <!ENTITY apps "Aplicacions">
-<!ENTITY char_encoding "Codificació dels caràcters">
+<!ENTITY char_encoding "Codificació de caràcters">
 
 <!ENTITY share "Comparteix">
 <!ENTITY share_title "Comparteix mitjançant">
@@ -136,7 +136,7 @@ size. -->
 <!ENTITY desktop_mode "Sol·licita el lloc per a escriptori">
 <!ENTITY tools "Eines">
 <!ENTITY new_tab "Pestanya nova">
-<!ENTITY new_private_tab "Pestanya de navegació privada nova">
+<!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY tabs_normal "Pestanyes">
 <!ENTITY tabs_private "Privada">
@@ -153,11 +153,11 @@ size. -->
 <!ENTITY find_close "Tanca">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
-<!ENTITY contextmenu_open_private_tab "Obre en una pestanya de navegació privada nova">
+<!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
 <!ENTITY contextmenu_open_in_reader "Obre en el Lector">
 <!ENTITY contextmenu_remove_history "Suprimeix">
 <!ENTITY contextmenu_remove_bookmark "Suprimeix">
-<!ENTITY contextmenu_add_to_launcher "Afegeix-ho a la pantalla inicial">
+<!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\'\inici">
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_pasteandgo "Enganxa-ho i vés-hi">
 <!ENTITY contextmenu_paste "Enganxa">
@@ -199,11 +199,11 @@ size. -->
 <!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Les pestanyes de l\'última vegada">
 <!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
-<!ENTITY abouthome_top_sites_title "Els vostres llocs">
+<!ENTITY abouthome_top_sites_title "Habituals">
 <!ENTITY abouthome_topsites_edit "Edita">
-<!ENTITY abouthome_topsites_pin "Fixa la pestanya">
-<!ENTITY abouthome_topsites_unpin "Allibera la pestanya">
-<!ENTITY abouthome_topsites_unpinall "Allibera-ho tot">
+<!ENTITY abouthome_topsites_pin "Fixa el lloc">
+<!ENTITY abouthome_topsites_unpin "No fixis el lloc">
+<!ENTITY abouthome_topsites_unpinall "No fixis cap lloc">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "segons">
 <!ENTITY Diskspace                        "Espai de disc">
-<!ENTITY offlineCompactFolders.label      "Compacta totes les carpetes quan es desarà">
+<!ENTITY offlineCompactFolders.label      "Compacta totes les carpetes quan l'estalvi sigui superior a">
 <!ENTITY offlineCompactFolders.accesskey  "C">
 <!ENTITY offlineCompactFoldersMB.label    "MB en total">

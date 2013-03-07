@@ -66,7 +66,7 @@
 <!ENTITY  mediaAddress          "Adreça">
 <!ENTITY  mediaType             "Tipus">
 <!ENTITY  mediaSize             "Mida">
-<!ENTITY  mediaCount            "Compte">
+<!ENTITY  mediaCount            "Recompte">
 <!ENTITY  mediaDimensions       "Dimensions:">
 <!ENTITY  mediaPhysDimensions   "Dimensions reals:">
 <!ENTITY  mediaTitle            "Atribut títol:">
@@ -87,7 +87,7 @@
 <!ENTITY  permUseDefault        "Utilitza els per defecte">
 <!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
-<!ENTITY  permAllowSession      "Permet per aquesta sessió">
+<!ENTITY  permAllowSession      "Permet durant la sessió">
 <!ENTITY  permBlock             "Bloca">
 <!ENTITY  permissionsFor        "Permisos per:">
 <!ENTITY  permImage             "Carregar imatges">

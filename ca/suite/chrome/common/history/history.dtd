@@ -37,14 +37,14 @@
 
 <!ENTITY cmd.open.label                 "Obre">
 <!ENTITY cmd.open.accesskey             "O">
-<!ENTITY cmd.open_window.label          "Obre l'enllaç en una nova finestra">
+<!ENTITY cmd.open_window.label          "Obre l'enllaç en una finestra nova">
 <!ENTITY cmd.open_window.accesskey      "n">
-<!ENTITY cmd.open_tab.label             "Obre l'enllaç en una nova pestanya">
+<!ENTITY cmd.open_tab.label             "Obre l'enllaç en una pestanya nova">
 <!ENTITY cmd.open_tab.accesskey         "t">
 
 <!ENTITY bookmarkLinkCmd.label          "Afegeix aquest enllaç a les adreces d'interès…">
 <!ENTITY bookmarkLinkCmd.accesskey      "f">
-<!ENTITY bookmarkLinksCmd.label         "Afegeix aquests enllaços">
+<!ENTITY bookmarkLinksCmd.label         "Afegeix aquests enllaços a les adreces d'interès…">
 <!ENTITY bookmarkLinksCmd.accesskey     "f">
 
 <!ENTITY col.title.label                "Títol">

@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY email.placeholder               "email@exemple.com">
 <!ENTITY password.label                  "Contrasenya:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasenya">
@@ -81,7 +81,7 @@
 <!ENTITY contactYourProvider.description "El &brandShortName; us podrà donar accés al vostre correu amb les opcions que heu configurat. Tot i així, hauríeu de comentar a l'administrador o al proveïdor de correu que les connexions no estan bé així. Per a més informació consulteu les PMF del Thunderbird.">
 
 <!ENTITY insecureServer.tooltip.title    "Atenció! Aquest servidor no és segur.">
-<!ENTITY insecureServer.tooltip.details  "Per a més informació feu un clic al cercle.">
+<!ENTITY insecureServer.tooltip.details  "Per a més informació feu clic al cercle.">
 
 <!ENTITY insecureUnencrypted.description "El correu s'envia desencriptat, per tant la vostra contrasenya (i el vostre missatge) es poden llegir fàcilment. El &brandShortName; us deixarà que utilitzeu el vostre correu, però hauríeu de contactar amb el vostre proveïdor perquè configuri una connexió segura al servidor.">
 <!ENTITY insecureSelfSigned.description  "El servidor utilitza un certificat que no és de confiança, per tant no podem estar segurs que ningú estigui interceptant les comunicacions entre el &brandShortName; i el vostre servidor. El &brandShortName; us permetrà accedir al vostre correu, però hauríeu de comentar al vostre proveïdor que configuri el servidor amb un certificat que sigui de confiança.">
