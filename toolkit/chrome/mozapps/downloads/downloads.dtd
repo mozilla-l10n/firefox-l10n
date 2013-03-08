@@ -33,14 +33,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar l'adreça d'origina del telecargament">
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
-<!ENTITY cmd.removeFromList.label         "Levar de la tièra">
+<!ENTITY cmd.removeFromList.label         "Levar de la lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Voidar la tièra">
-<!ENTITY cmd.clearList.tooltip            "Lèva los telecargaments acabats, anullats o infructuoses de la tièra">
+<!ENTITY cmd.clearList.label              "Voidar la lista">
+<!ENTITY cmd.clearList.tooltip            "Lèva los telecargaments acabats, anullats o infructuoses de la lista">
 <!ENTITY cmd.clearList.accesskey          "V">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

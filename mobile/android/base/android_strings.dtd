@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "Amagar lo menú">
 <!ENTITY pref_clear_private_data "Suprimir las donadas personalas">
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 <!ENTITY pref_plugins_enabled "Activat">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Lo pandà rós, rapid coma un  lhauç, rebombís de delà de vòstras espèras amb mai de velocitat, mai de soplesa e mai de seguretat. En tant que fondacion de tòca non lucrativa, sèm liures d\u0027innovar per vos sens cap de pression ni cap de compromés. Aquò significa una melhora experiéncia per vos e un melhor avenidor pel Web.">
 
 <!ENTITY pref_use_master_password "Senhal principal">
 <!ENTITY pref_show_product_announcements "Anoncis del produch">
@@ -115,7 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings "Preferéncias del site">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "Fichièrs telecargats">
 
 <!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
 <!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
@@ -204,7 +204,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Modificar">
 <!ENTITY abouthome_topsites_pin "Espingolar lo site">
 <!ENTITY abouthome_topsites_unpin "Daissar anar lo site">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_topsites_remove "Suprimir">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

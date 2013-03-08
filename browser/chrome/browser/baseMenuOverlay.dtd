@@ -22,8 +22,8 @@
 <!ENTITY helpSafeMode.label       "Reaviar amb los moduls desactivats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "Bilanç de santat de &brandShortName;">
+<!ENTITY healthReport.accesskey   "B">
 
 <!ENTITY helpTroubleshootingInfo.label      "Entresenhas de despanatge">
 <!ENTITY helpTroubleshootingInfo.accesskey  "d">
