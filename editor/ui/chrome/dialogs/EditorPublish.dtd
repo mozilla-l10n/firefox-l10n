@@ -1,98 +1,65 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Publicar Página">
-<!ENTITY windowTitleSettings.label "Definições de Publicação">
+<!ENTITY windowTitle.label "Publicar página">
+<!ENTITY windowTitleSettings.label "Definições de publicação">
 <!ENTITY publishTab.label "Publicar">
 <!ENTITY settingsTab.label "Definições">
 <!ENTITY publishButton.label "Publicar">
 
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label "Nome do Sítio:">
+<!ENTITY siteList.label "Nome do sítio:">
 <!ENTITY siteList.accesskey "e">
-<!ENTITY siteList.tooltip "Escolha o sítio em que quer publicar">
-<!ENTITY newSiteButton.label "Novo Sítio">
+<!ENTITY siteList.tooltip "Escolha o sítio de publicação">
+<!ENTITY newSiteButton.label "Novo sítio">
 <!ENTITY newSiteButton.accesskey "N">
-<!ENTITY docDirList.label "Sub-directoria do Sítio para esta página:">
+<!ENTITY docDirList.label "Subdiretório do sítio desta página:">
 <!ENTITY docDirList.accesskey "S">
-<!ENTITY docDirList.tooltip "Escolher ou introduzir nome da subdirectoria remota a publicar para">
+<!ENTITY docDirList.tooltip "Escolha ou introduza o nome dp subdiretório remoto desta pasta">
 <!ENTITY publishImgCheckbox.label "Incluir imagens e outros ficheiros">
 <!ENTITY publishImgCheckbox.accesskey "u">
 <!ENTITY publishImgCheckbox.tooltip "Publicar imagens e outros ficheiros referenciados por esta página">
 <!ENTITY sameLocationRadio.label "Utilizar a mesma localização da página">
 <!ENTITY sameLocationRadio.accesskey "U">
 <!ENTITY sameLocationRadio.tooltip "Publicar ficheiros para a mesma localização da página">
-<!ENTITY useSubdirRadio.label "Utilizar a sub-directoria deste sítio:">
+<!ENTITY useSubdirRadio.label "Utilizar este subdiretório:">
 <!ENTITY useSubdirRadio.accesskey "d">
-<!ENTITY useSubdirRadio.tooltip "Publicar ficheiros para a sub-directoria remota seleccionada">
-<!ENTITY otherDirList.tooltip "Escolha ou introduza o nome da subdirectoria remota onde os ficheiros serão publicados">
-<!ENTITY pageTitle.label "Título da Página:">
+<!ENTITY useSubdirRadio.tooltip "Publicar ficheiros no subdiretório remoto escolhido">
+<!ENTITY otherDirList.tooltip "Escolha ou introduza o nome do subdiretório remoto para a publicação dos ficheiros">
+<!ENTITY pageTitle.label "Título da página:">
 <!ENTITY pageTitle.accesskey "T">
-<!ENTITY pageTitle.tooltip "Introduza um título para identificar a página na janela e nos marcadores">
+<!ENTITY pageTitle.tooltip "Introduza o título para identificar a página na janela e nos marcadores">
 <!ENTITY pageTitleExample.label "ex.: &quot;A minha página web&quot;">
-<!ENTITY filename.label "Nome do ficheiro:">
-<!ENTITY filename.accesskey "F">
+<!ENTITY filename.label "Nome de ficheiro:">
+<!ENTITY filename.accesskey "f">
 <!ENTITY filename.tooltip "Introduza um nome para este ficheiro, incluindo'.html' para páginas web">
-<!ENTITY filenameExample.label "e.g,: &quot;minhapagina.html&quot;">
-<!ENTITY setDefaultButton.label "Aplicar como Pré-Definição">
+<!ENTITY filenameExample.label "ex.:: &quot;minhapagina.html&quot;">
+<!ENTITY setDefaultButton.label "Aplicar como pré-definição">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Remover Sítio">
+<!ENTITY removeButton.label "Remover sítio">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label "Sites de Publicação">
-<!ENTITY serverInfo.label "Informação do Servidor">
+<!ENTITY publishSites.label "Sítios de publicação">
+<!ENTITY serverInfo.label "Informação do servidor">
 <!ENTITY loginInfo.label "Informação de inicio de sessão">
-<!ENTITY siteName.label "Nome do Sítio:">
+<!ENTITY siteName.label "Nome do sítio:">
 <!ENTITY siteName.accesskey "e">
 <!ENTITY siteName.tooltip "Uma alcunha que identifique este sítio de publicação (ex.: 'MeuSítio')">
-<!ENTITY siteUrl.label "Endereço de Publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
-<!ENTITY siteUrl.accesskey "ç">
-<!ENTITY siteUrl.tooltip "O endereço FTP:// ou HTTP://  fornecido pelo seu ISP ou servidor de serviço web">
+<!ENTITY siteUrl.label "Endereço de publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
+<!ENTITY siteUrl.accesskey "u">
+<!ENTITY siteUrl.tooltip "O endereço FTP:// ou HTTP:// fornecido pelo seu ISP ou servidor web">
 <!ENTITY browseUrl.label "Endereço HTTP da sua página pessoal (ex.: 'http://www.meuisp.com/meunodedeutilizador'):">
 <!ENTITY browseUrl.accesskey "T">
-<!ENTITY browseUrl.tooltip "O endereço HTTP:// da sua directoria (não incluir o nome do ficheiro)">
+<!ENTITY browseUrl.tooltip "O endereço HTTP:// do seu diretório pessoal (não incluir o nome do ficheiro)">
 <!ENTITY username.label "Nome de utilizador:">
-<!ENTITY username.accesskey "U">
-<!ENTITY username.tooltip "O nome de utilizador que usa para iniciar sessão no seu ISP ou servidor de serviço web">
+<!ENTITY username.accesskey "u">
+<!ENTITY username.tooltip "O nome de utilizador que usa para iniciar sessão no seu ISP ou servidor web">
 <!ENTITY password.label "Senha:">
 <!ENTITY password.accesskey "n">
-<!ENTITY password.tooltip "A Senha associada ao seu nome de utilizador">
-<!ENTITY savePassword.label "Guardar Senha">
+<!ENTITY password.tooltip "A senha associada ao nome de utilizador">
+<!ENTITY savePassword.label "Guardar senha">
 <!ENTITY savePassword.accesskey "S">
-<!ENTITY savePassword.tooltip "Seleccione isto para guardar a sua senha em segurança utilizando o Gestor de Senhas">
+<!ENTITY savePassword.tooltip "Selecione isto para proteger a sua senha com o gestor de senhas">

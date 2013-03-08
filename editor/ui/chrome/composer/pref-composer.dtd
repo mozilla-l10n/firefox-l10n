@@ -1,25 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/pref-composer.xul -->
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY pref.composer.title "Compositor">
-<!ENTITY recentFiles.title "Menu de Páginas Recentes">
-<!ENTITY documentsInMenu.label "Número Máximo de Páginas na Lista:">
+<!ENTITY recentFiles.title "Menu de páginas recentes">
+<!ENTITY documentsInMenu.label "Número páximo de páginas na lista:">
 <!ENTITY documentsInMenu.accesskey "n">
-<!ENTITY savingFiles.title "Ao Guardar ou Publicar Páginas">
+<!ENTITY savingFiles.title "Ao guardar ou publicar páginas">
 <!ENTITY preserveExisting.label "Preservar a formatação original">
 <!ENTITY preserveExisting.accesskey "P">
-<!ENTITY preserveExisting.tooltip "Preservar as quebras de linha e a formatação original da página">
-<!ENTITY saveAssociatedFiles.label "Ao guardar páginas guardar imagens e ficheiros associados">
+<!ENTITY preserveExisting.tooltip "Manter quebras de linha e formatação original da página">
+<!ENTITY saveAssociatedFiles.label "Gravar imagens e conteúdo associado ao gravar páginas">
 <!ENTITY saveAssociatedFiles.accesskey "G">
-<!ENTITY showPublishDialog.label "Mostrar sempre o diálogo de Publicação quando publicar páginas">
-<!ENTITY showPublishDialog.accesskey "A">
-<!ENTITY composerEditing.label "Ao Editar">
-<!ENTITY maintainStructure.label "Manter o esquema da tabela ao inserir ou eliminar células">
-<!ENTITY maintainStructure.tooltip "Preservar a forma rectangular da tabela adicionando células automaticamente ao inserir ou apagar células">
-<!ENTITY maintainStructure.accesskey "R">
+<!ENTITY showPublishDialog.label "Mostrar sempre o diálogo de publicação ao publicar páginas">
+<!ENTITY showPublishDialog.accesskey "o">
+<!ENTITY composerEditing.label "Editar">
+<!ENTITY maintainStructure.label "Manter esquema da tabela ao inserir ou eliminar células">
+<!ENTITY maintainStructure.tooltip "Manter forma retangular da tabela ao adicionar células automaticamente ao inserir ou eliminar células">
+<!ENTITY maintainStructure.accesskey "r">
 <!ENTITY useCSS.label "Utilizar estilos CSS em vez de elementos e atributos HTML">
 <!ENTITY useCSS.accesskey "U">
-<!ENTITY crInPCreatesNewP.label "Retornar um Parágrafo sempre que cria um novo parágrafo">
+<!ENTITY crInPCreatesNewP.label "Retornar um parágrafo ao criar um novo parágrafo">
 <!ENTITY crInPCreatesNewP.accesskey "R">

@@ -1,80 +1,48 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Input Tag Properties Dialog.
-   -
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    - The Initial Developer of the Original Code is
    - Neil Rashbrook.
    - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
-   -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY windowTitle.label "Propriedades da Lista de Selecção">
-
-<!ENTITY Select.label "Lista de Selecção">
-<!ENTITY SelectName.label "Listar Nome:">
+ 
+<!ENTITY windowTitle.label "Propriedades da lista de seleção">
+<!ENTITY Select.label "Lista de seleção">
+<!ENTITY SelectName.label "Nome da lista:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Altura:">
 <!ENTITY SelectSize.accesskey "A">
-<!ENTITY SelectMultiple.label "Selecção Múltipla">
-<!ENTITY SelectMultiple.accesskey "M">
-<!ENTITY SelectDisabled.label "Desactivado">
-<!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "Index do Separador:">
-<!ENTITY SelectTabIndex.accesskey "I">
-
-<!ENTITY OptGroup.label "Opções de Grupo">
+<!ENTITY SelectMultiple.label "Seleção múltipla">
+<!ENTITY SelectMultiple.accesskey "m">
+<!ENTITY SelectDisabled.label "Inativo">
+<!ENTITY SelectDisabled.accesskey "v">
+<!ENTITY SelectTabIndex.label "Índice de tabulação:">
+<!ENTITY SelectTabIndex.accesskey "i">
+<!ENTITY OptGroup.label "Opções de grupo">
 <!ENTITY OptGroupLabel.label "Etiqueta:">
-<!ENTITY OptGroupLabel.accesskey "T">
-<!ENTITY OptGroupDisabled.label "Desactivado">
-<!ENTITY OptGroupDisabled.accesskey "D">
-
+<!ENTITY OptGroupLabel.accesskey "t">
+<!ENTITY OptGroupDisabled.label "Inativo">
+<!ENTITY OptGroupDisabled.accesskey "I">
 <!ENTITY Option.label "Opções">
 <!ENTITY OptionText.label "Texto:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Valor:">
 <!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "Seleccionado Inicialmente">
+<!ENTITY OptionSelected.label "Selecionado inicialmente">
 <!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Desactivado">
-<!ENTITY OptionDisabled.accesskey "D">
-
+<!ENTITY OptionDisabled.label "Inativo">
+<!ENTITY OptionDisabled.accesskey "I">
 <!ENTITY TextHeader.label "Texto">
 <!ENTITY ValueHeader.label "Valor">
-<!ENTITY SelectedHeader.label "Seleccionado">
-
-<!ENTITY AddOption.label "Adicionar Opções">
-<!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Adicionar Grupo">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY SelectedHeader.label "Selecionado">
+<!ENTITY AddOption.label "Adicionar opção">
+<!ENTITY AddOption.accesskey "o">
+<!ENTITY AddOptGroup.label "Adicionar grupo">
+<!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Remover">
 <!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "Mover para Cima">
-<!ENTITY MoveElementUp.accesskey "C">
-<!ENTITY MoveElementDown.label "Mover para Baixo">
-<!ENTITY MoveElementDown.accesskey "B">
+<!ENTITY MoveElementUp.label "Mover para cima">
+<!ENTITY MoveElementUp.accesskey "c">
+<!ENTITY MoveElementDown.label "Mover para baixo">
+<!ENTITY MoveElementDown.accesskey "b">
