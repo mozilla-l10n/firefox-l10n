@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_clear_private_data "សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
 <!ENTITY pref_plugins_enabled "បាន​បើក">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "កញ្ជ្រោង​ពណ៌​ទឹកក្រូច​នឹង​ធ្វើ​​បាន​លើស​ពី​ការ​រំពឹង​ទុក​របស់​អ្នក​ទៅទៀត ដូចជា​ការ​បង្កើន​ល្បឿន ការ​បត់បែន និង​សុវត្ថិភាព ។ ដោយសារតែ​ការ​មិន​រក​ប្រាក់​ចំណេញ\យើង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ការ​កែប្រែ​ដោយ​សេរី និង​ដោយ​មិន​មាន​ការ​ដាក់​កម្រិត​លើ​ការ​ខូចខាត​ឡើយ ។ មានន័យថា​វា​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​ដ៏​ល្អ និង​អនាគត​ដ៏​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ ។">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_show_product_announcements "បង្ហាញ​សេចក្ដី​ប្រកាស​ផលិតផល">
@@ -115,7 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY pref_private_data_siteSettings "ចំណូល​ចិត្ត​តំបន់​បណ្ដាញ">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "ទាញ​យក​ឯកសារ">
 
 <!ENTITY pref_update_autodownload "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_update_autodownload_wifi "តាម Wi-Fi តែប៉ុណ្ណោះ">
