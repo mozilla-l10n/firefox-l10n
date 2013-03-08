@@ -22,7 +22,7 @@
 <!ENTITY helpSafeMode.label       "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.label       "&brandShortName; ఆరోగ్య నివేదిక (e)">
 <!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "సమస్యాపరిష్కారపు సమాచారము">

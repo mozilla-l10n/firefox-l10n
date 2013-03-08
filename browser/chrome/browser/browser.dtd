@@ -591,7 +591,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "ఇతర పరికరాల నుండి ట్యాబులు">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
