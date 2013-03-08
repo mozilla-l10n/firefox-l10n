@@ -21,12 +21,12 @@
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "Фонт ба Өнгөнүүд">
+<!ENTITY  fontsAndColors.label        "Фонт ба Өнгө">
 
 <!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
 <!ENTITY  defaultFont.accesskey       "я">
-<!ENTITY  defaultSize.label           "Size:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultSize.label           "Хэмжээ:">
+<!ENTITY  defaultSize.accesskey       "м">
 
 <!ENTITY  advancedFonts.label         "Нэмэлт…">
 <!ENTITY  advancedFonts.accesskey     "м">
