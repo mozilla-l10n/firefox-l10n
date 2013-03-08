@@ -6,65 +6,65 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "&brandShortName; Feedback">
+<!ENTITY pageTitle                 "&brandShortName;  प्रतिक्रिया">
 
-<!ENTITY intro.header              "Have a minute?">
-<!ENTITY intro.message             "Tell us what you think about &brandShortName; for Android so far.">
-<!ENTITY intro.happyLink           "I love it">
-<!ENTITY intro.sadLink             "I ran into some problems">
-<!ENTITY intro.ideaLink            "I have an idea">
+<!ENTITY intro.header              "एक मिनट है?">
+<!ENTITY intro.message             "हमें बताएँ आपको क्या लगता है &brandShortName; के बारे में एंड्रॉयड के लिए इतनी दूर है.">
+<!ENTITY intro.happyLink           "मैं इसे प्यार करता हूँ">
+<!ENTITY intro.sadLink             "मैं कुछ समस्याओं में फस गया">
+<!ENTITY intro.ideaLink            "मेरे पास एक विचार है">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "If you need help or have a problem with &brandShortName;, please visit ">
-<!ENTITY support.link              "&brandShortName; Support">
+<!ENTITY support.pre               "यदि आपको मदद की जरूरत है या &brandShortName; साथ एक समस्या है , कृपया यहाँ जाएँ ">
+<!ENTITY support.link              "&brandShortName; समर्थन">
 <!ENTITY support.post              ".">
 
-<!ENTITY happy.header              "That's great to hear!">
+<!ENTITY happy.header              "यह बहुत अच्छी बात है सुनने के लिए!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Want to share the love by giving us a 5 star rating on Google Play?">
+<!ENTITY happy.message             "हम Google Play पर एक 5 सितारा रेटिंग देकर प्यार को साझा करना चाहते हैं?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "It takes less than a minute and feels great.">
+<!ENTITY happy.finePrint           "इसमें एक मिनट से भी कम समय लगता है और बहुत अच्छा लगता है.">
 
-<!ENTITY happy.ratingLink          "Yes, go to Google Play">
-<!ENTITY happy.maybeLater          "Maybe Later">
-<!ENTITY happy.noThanks            "No thanks">
+<!ENTITY happy.ratingLink          "हाँ, Google Play पर जाओ">
+<!ENTITY happy.maybeLater          "बाद में">
+<!ENTITY happy.noThanks            "नहीं धन्यवाद">
 
-<!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
-<!ENTITY sad.placeholder           "Enter your feedback here">
-<!ENTITY sad.lastSite              "Last visited site (optional)">
+<!ENTITY sad.message               "हमें खेद है कि आपको &brandShortName; के साथ कुछ समस्या थी. कृपया हमें बताओ कि क्या ऐसा हुआ है कि हम इसे ठीक कर सकते हैं.">
+<!ENTITY sad.placeholder           "यहाँ अपने प्रतिक्रिया दर्ज करें">
+<!ENTITY sad.lastSite              "अंतिम दौरा किया साइट (वैकल्पिक)">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+<!ENTITY sad.thanksHeader          "हमें बताने के लिए धन्यवाद">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "We're always working to make &brandShortName; better. Rest assured that real people will look at your feedback and do their very best to resolve your issue.">
+<!ENTITY sad.thanksMessageTop      "हम हमेशा &brandShortName; बेहतर बनाने के लिए काम कर रहे हैं. बाकी का आश्वासन दिया है कि असली लोगों को अपने प्रतिक्रिया को देखो और उनके बहुत अच्छा करने के लिए अपने मुद्दे को हल करेंगे.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
-<!ENTITY sad.thanksMessageBottom   "Or else.">
+<!ENTITY sad.thanksMessageBottom   "वरना.">
 <!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
 
-<!ENTITY idea.message              "We love hearing your ideas! Please share your thoughts below. (Just the ones about &brandShortName;, please.)">
-<!ENTITY idea.placeholder          "Enter your idea here">
+<!ENTITY idea.message              "हम अपने विचारों को सुनना पसंद करते हैं!कृपया अपने विचारों को नीचे साक्षा करें. (बस &brandShortName; के बारे में लोगों को, कृपया.)">
+<!ENTITY idea.placeholder          "अपने विचार यहां लिखें">
 <!ENTITY idea.thanksHeader         "शुक्रिया!">
 
-<!ENTITY idea.thanksMessageTop     "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
+<!ENTITY idea.thanksMessageTop     "हम आपको समय लेने के लिए अपने विचारों को साझा करने की सराहना करते हैं. हम हमेशा के लिए &brandShortName; बनाने के लिए काम कर रहे हैं, बेहतर और तुम्हारी तरह योगदान महान बातें करने के लिए नेतृत्व कर सकते हैं.">
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
 
-<!ENTITY idea.thanksMessageBottom  "You can't see it, but we're giving you a high five right now.">
+<!ENTITY idea.thanksMessageBottom  "आप इसे देख नहीं सकते हैं, हम आपको एक उच्चा स्थान दे रहे हैं">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
-<!ENTITY feedback.send             "Send Feedback">
+<!ENTITY feedback.privacy          "आपकी गोपनीयता के लिए, अपनी प्रतिक्रिया में किसी भी व्यक्तिगत रूप से पहचान योग्य जानकारी शामिल नहीं हैं.">
+<!ENTITY feedback.send             "फ़ीडबैक भेजें">

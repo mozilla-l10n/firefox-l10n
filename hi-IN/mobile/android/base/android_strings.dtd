@@ -4,10 +4,10 @@
 
 
 <!ENTITY  splash_settingup "&brandShortName; का सेटअप">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_bookmarks_history "हम आपके पुस्तचिह्न और इतिहास अपडेट कर रहे हैं, इसमें एक से अधिक मिनट लग सकता हैं.">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "BrandShortName और के लिए पर्याप्त स्थान उपलब्ध नहीं है; शुरू करने के लिए.">
+<!ENTITY  error_loading_file "brandShortName को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुइ;">
 
 <!ENTITY  awesomebar_all_pages_title "टॉप साइटें">
 <!ENTITY  awesomebar_bookmarks_title "पुस्तचिह्न">
@@ -45,7 +45,7 @@
 <!ENTITY history_older_section "7 दिन से पुरानी">
 
 <!ENTITY go "Go">
-<!ENTITY search "Search">
+<!ENTITY search "खोजें">
 <!ENTITY reload "फिर लोड करें">
 <!ENTITY forward "अग्रेषित करें">
 <!ENTITY menu "मेन्यू">
@@ -57,7 +57,7 @@
 <!ENTITY one_tab "1 टैब">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
 
 <!ENTITY settings "सेटिंग">
@@ -72,26 +72,26 @@
 <!ENTITY pref_remember_signons "कूटशब्द याद रखें">
 
 <!ENTITY pref_cookies_menu "कूकीज">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_accept_all "सक्षम">
+<!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरे पार्टी को छोड़कर">
+<!ENTITY pref_cookies_disabled "अक्षम">
 
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
 <!ENTITY pref_clear_private_data "निजी आँकड़ा साफ़ करें">
 <!ENTITY pref_plugins "प्लगइन">
-<!ENTITY pref_plugins_enabled "Enabled">
+<!ENTITY pref_plugins_enabled "सक्षम">
 <!ENTITY pref_plugins_tap_to_play "चलाने के लिए टैप करें">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins_disabled "अक्षम">
 <!ENTITY pref_text_size "पाठ आकार">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
+<!ENTITY pref_reflow_on_zoom2 "पुनःप्राप्ति पाठ करने के लिए चुटकी">
 <!ENTITY pref_font_size_tiny "नन्हा">
 <!ENTITY pref_font_size_small "छोटा">
 <!ENTITY pref_font_size_medium "मझोला">
 <!ENTITY pref_font_size_large "बड़ा">
 <!ENTITY pref_font_size_xlarge "बहुत बड़ा">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "स्थापित करें">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -101,25 +101,26 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "त्वरित नारंगी लोमड़ी और अधिक गति, और अधिक लचीलापन और अधिक सुरक्षा के साथ आपके उम्मीदों पर खरा उतरेगा. एक गैर लाभ के रूप में, हम किसी भी दबाव के बिना समझौता करने के लिए अपनी ओर से कुछ नया करने के लिए स्वतंत्र हैं..यह आपके लिए एक बेहतर अनुभव और वेब के लिए एक उज्जवल भविष्य का मतलब है.">
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_show_product_announcements "उत्पाद घोषणाओं दिखाएं">
 <!ENTITY pref_sync "सिंक">
 <!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
 <!ENTITY pref_import_android "एंड्रायड से आयात">
 <!ENTITY pref_private_data_history "ब्राउज़िंग और डाउनलोड इतिहास">
 <!ENTITY pref_private_data_formdata "फॉर्म व खोज इतिहास">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_cookies2 "कूकीज &amp; सक्रिय लॉगिन">
 <!ENTITY pref_private_data_passwords "सहेजा कूटशब्द">
 <!ENTITY pref_private_data_cache "कैश">
 <!ENTITY pref_private_data_offlineApps "ऑफ़ाइल वेबसाइट आँकड़ा">
 <!ENTITY pref_private_data_siteSettings "साइट वरीयताएँ">
+<!ENTITY pref_private_data_downloadFiles "डाउनलोड किया हुआ फ़ाइल">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload "स्वचालित अद्यतन">
+<!ENTITY pref_update_autodownload_wifi "केवल Wi-Fi पर">
+<!ENTITY pref_update_autodownload_disabled "अक्षम">
+<!ENTITY pref_update_autodownload_enabled "सक्षम">
 
 <!ENTITY quit "निकास">
 
@@ -136,14 +137,14 @@ size. -->
 <!ENTITY desktop_mode "डेस्कटॉप साइट के लिए आग्रह करें">
 <!ENTITY tools "Tools">
 <!ENTITY new_tab "नया टैब">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "नया निजी टैब">
+<!ENTITY close_all_tabs "सभी टैब बन्द करें">
 <!ENTITY tabs_normal "टैब">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY tabs_private "निजी ">
+<!ENTITY tabs_synced "सिंक किया">
+<!ENTITY wallpaper_success "वॉलपेपर अपडेट किया">
+<!ENTITY wallpaper_progress "वॉलपेपर सेट किया ">
+<!ENTITY wallpaper_fail "वॉलपेपर सेट करने में असमर्थ">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -153,8 +154,8 @@ size. -->
 <!ENTITY find_close "बंद करें">
 
 <!ENTITY contextmenu_open_new_tab "नए टैब में खोलें">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_private_tab "निजी टैब में खोलें">
+<!ENTITY contextmenu_open_in_reader "रीडर में खोलें">
 <!ENTITY contextmenu_remove_history "हटाएँ">
 <!ENTITY contextmenu_remove_bookmark "हटाएँ">
 <!ENTITY contextmenu_add_to_launcher "घर स्क्रीन में जोड़ें">
@@ -162,7 +163,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "चिपकाएँ">
 <!ENTITY contextmenu_copyurl "पता नक़ल करें">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "संपादन">
 
 <!ENTITY history_removed "पृष्ठ हटाया गया">
 
@@ -171,16 +172,16 @@ size. -->
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
 
-<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_title2       "साइट सेटिंग्स ...">
 <!ENTITY site_settings_cancel       "रद्द करें">
-<!ENTITY site_settings_clear        "Clear">
+<!ENTITY site_settings_clear        "साफ करें">
 <!ENTITY site_settings_no_settings  "साफ़ करने के लिए कोई सेटिंग नहीं.">
 
 <!ENTITY reading_list "पठन सूची">
 <!ENTITY reading_list_added "आपकी पठन सूची में पृष्ठ जोड़ा गया">
 <!ENTITY reading_list_removed "आपकी पठन सूची से पृष्ठ हटाया गया">
 <!ENTITY reading_list_failed "आपकी पठन सूची में पृष्ठ जोड़ने में विफल">
-<!ENTITY reader "Reader">
+<!ENTITY reader "रीडर ">
 
 <!ENTITY masterpassword_create_title "प्रधान कूटशब्द बनाएँ">
 <!ENTITY masterpassword_remove_title "प्रधान कूटशब्द हटायें">
@@ -192,8 +193,8 @@ size. -->
 <!ENTITY button_yes "Yes">
 <!ENTITY button_no "नहीं">
 <!ENTITY button_clear_data "आँकड़ा साफ करें">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_set "स्थापित करें">
+<!ENTITY button_clear "साफ करें">
 
 <!ENTITY abouthome_addons_title "&brandShortName; के लिए सहयुक्तियाँ">
 <!ENTITY abouthome_addons_browse "सभी &brandShortName; सहयुक्तियाँ ब्राउज़ करें">
@@ -201,23 +202,24 @@ size. -->
 टैब">
 <!ENTITY abouthome_last_tabs_open "पिछली बार के अपने सभी टैब खोलें">
 <!ENTITY abouthome_top_sites_title "टॉप साइटें">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_edit "संपादन">
+<!ENTITY abouthome_topsites_pin "साइट को पिन करें ">
+<!ENTITY abouthome_topsites_unpin "साइट को अनपिन करें">
+<!ENTITY abouthome_topsites_remove "हटाएँ">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+
+<!ENTITY abouthome_about_sync3 "पुस्तचिह्न, इतिहास, और टैब की पहुँच के लिए फ़ायरफ़ॉक्स सिंक सेटअप करें आपकी अन्य युक्तियों से &#x00A0;»">
+<!ENTITY abouthome_about_apps3 "फ़ायरफ़ॉक्स बाज़ार से ऐप्लिकेशन प्राप्त करें और सबसे अच्छा वेब के लिए प्रस्ताव दिया है की खोज करें &#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "फ़ायरफ़ॉक्स सिंक">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY abouthome_apps_bold_name2 "फ़ायरफ़ॉक्स बाज़ार">
 
 <!ENTITY filepicker_title "फ़ाइल चुनें">
 <!ENTITY filepicker_audio_title "कोई आवाज़ चुनें या रिकार्ड करें">
@@ -253,20 +255,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "आप खोज सुझाव &formatS; को शुरू करना चाहेंगे?">
 
 <!ENTITY webapp_generic_name "एप्प">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "बुकमार्क और इतिहास">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
+<!ENTITY updater_start_select2 "डाउनलोड करने के लिए स्पर्श करें">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड कर रहा है">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_title_failed2 "डाउनलोड विफल">
+<!ENTITY updater_downloading_select2 "एक बार डाउनलोड होने पर अद्यतन को लागू करने के लिए लिए स्पर्श करें">
+<!ENTITY updater_downloading_retry2 "पुनःप्रयास के लिए स्पर्श करें">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
+<!ENTITY updater_apply_select2 "पुनःप्रयास के लिए स्पर्श करें">

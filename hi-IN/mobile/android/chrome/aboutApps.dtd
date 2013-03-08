@@ -9,5 +9,7 @@
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 
 <!ENTITY aboutApps.noApps.pre "No web apps installed. Get some from the ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
+<!ENTITY aboutApps.noApps.middle3 "फ़ायरफ़ॉक्स बाज़ार">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "विसंस्थापित करें">
+<!ENTITY aboutApps.addToHomescreen "Add to Home Screen">

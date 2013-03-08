@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "वेब कंसोल">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL के लिए निवेदन करें:">
+<!ENTITY networkPanel.requestMethodColon          "निवेदन विधि:">
+<!ENTITY networkPanel.statusCodeColon             "प्रस्थिति कोड:">
 
 <!ENTITY networkPanel.requestHeaders              "शीर्षिका के लिए निवेदन करें">
 <!ENTITY networkPanel.requestCookie               "प्रेषित कुकी">
@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "आँकड़ा से प्रेषित">
 
 <!ENTITY networkPanel.responseHeaders             "अनुक्रिया शीर्षिका">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "प्राप्त कुकी">
 <!ENTITY networkPanel.responseBody                "अनुक्रिया प्रधान अंश">
 <!ENTITY networkPanel.responseBodyCached          "कैश किया आँकड़ा">
 <!ENTITY networkPanel.responseBodyUnknownType     "अज्ञात अंतर्वस्तु प्रकार">

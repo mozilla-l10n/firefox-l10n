@@ -9,38 +9,38 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Connect to &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Add a &syncBrand.fullName.label; Account">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; से जुड़ें">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; खाता जोड़ें">
 <!ENTITY sync.title.pair.label "युक्ति युग्मित करें">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.">
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label "To activate, select “Pair a device” on your other device.">
+<!ENTITY sync.subtitle.connect.label "अपनी नई युक्ति को सक्रिय करने के लिए, “Set up &syncBrandshortName.label;” को इस युक्ति पर चुनें.">
+<!ENTITY sync.subtitle.header2.label "अपने अन्य डिवाइस पर इस कोड को दर्ज करें">
+<!ENTITY sync.subtitle.connectlocation2.label "अपने डेस्कटॉप फ़ायरफ़ॉक्स विकल्पों में से अनुभाग &syncBrand.shortName.label; में “&sync.title.pair.label;” पर चुनें.">
+<!ENTITY sync.subtitle.pair.label "सक्रिय करने के लिए, अपने अन्य डिवाइस पर \&quot;एक युक्ति जोड़ी\&quot; को चुनें.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "मुझे दिखाएँ कि कैसे.">
-<!ENTITY sync.link.advancedsetup.label "Advanced setup…">
-<!ENTITY sync.link.nodevice.label "मेरे पास युक्ति नहीं है">
+<!ENTITY sync.link.advancedsetup.label "उन्नत सेटअप ...">
+<!ENTITY sync.link.nodevice.label "मेरे पास युक्ति नहीं है...">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "Waiting for other device…">
+<!ENTITY sync.jpake.subtitle.waiting.label "अन्य उपकरण के लिए प्रतीक्षा कर रहा है ...">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Enter your &syncBrand.fullName.label; account information">
-<!ENTITY sync.input.username.label "Account Name">
+<!ENTITY sync.subtitle.account.label "अपने  &syncBrand.fullName.label; खाते की जानकारी दर्ज करें">
+<!ENTITY sync.input.username.label "खाता नाम">
 <!ENTITY sync.input.password.label "कूटशब्द">
-<!ENTITY sync.input.key.label "Recovery Key">
-<!ENTITY sync.checkbox.server.label "Use custom server">
-<!ENTITY sync.input.server.label "Server URL">
+<!ENTITY sync.input.key.label "पुनर्पाप्ति कुँजी">
+<!ENTITY sync.checkbox.server.label "मनपसंद सर्वर का उपयोग करें">
+<!ENTITY sync.input.server.label "सर्वर यूआरएल">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; could not connect to the server. Would you like to try again?">
+<!ENTITY sync.title.fail.label " &syncBrand.shortName.label; सेट अप नहीं कर सकते">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; सर्वर से कनेक्ट नहीं कर सकता. आप फिर से प्रयास करना चाहेंगे?">
 <!ENTITY sync.button.tryagain.label "फिर कोशिश करें">
-<!ENTITY sync.button.manual.label "Manual Setup">
-<!ENTITY sync.subtitle.nointernet.label "No internet connection available.">
+<!ENTITY sync.button.manual.label "मैनुअल सेटअप">
+<!ENTITY sync.subtitle.nointernet.label "कोई इंटरनेट कनेक्शन उपलब्ध नहीं है.">
 <!ENTITY sync.subtitle.failaccount.label "आपके डिवायस पर खाता निर्माण विफल रहा.">
 <!ENTITY sync.subtitle.failmultiple.label "क्या आपके पास एक से अधिक फ़ायरफ़ॉक्स संस्थापित है? अभी, &syncBrand.fullName.label; केवल एक फ़ायरफ़ॉक्स का संस्थापन का समर्थन करता है. कृपया &syncBrand.shortName.label; के उपयोग के लिए दूसरे का उपयोग करें.">
 <!-- Setup Success -->
@@ -56,15 +56,15 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "विकल्प">
-<!ENTITY sync.summary.pair.label "Link another device to your &syncBrand.shortName.label; account">
+<!ENTITY sync.summary.pair.label "अपने &syncBrand.shortName.label; खाते में एक और युक्ति लिंक करें">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.label "तुल्यकालित करने के लिए क्या">
+<!ENTITY sync.configure.engines.sync.my.title.label "अपना समन्वयन करें...">
 <!ENTITY sync.configure.engines.title.bookmarks "पुस्तचिह्न">
-<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.passwords "कूटशब्द">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.tabs "टैब">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "रद्द करें">
@@ -84,11 +84,11 @@
 <!ENTITY bookmarks.folder.mobile.label "मोबाइल पुस्तचिह्न">
 <!ENTITY bookmarks.folder.readinglist.label "पठन सूची">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "टांगा हुआ">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Only one &syncBrand.fullName.label; account is supported.">
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.configure.saved "आपके चयन को सहेजा गया है.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "गलत खाता नाम या कूटशब्द.">
@@ -103,4 +103,4 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "टैब भेजने के लिए &syncBrand.shortName.label; सेटअप करें">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; को अपने डिवायस पर सेटअप करें ताकि दूसरे डिवायस में टैब भेजे जा सकें.">
 <!ENTITY sync.text.tab.sent.label "आपका टैब भेजा गया!">
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.text.tab.not.sent.label "अपने टैब भेजने में कोई समस्या आ रही थी.">
