@@ -460,7 +460,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Audible">
 <!ENTITY mediaUnmute.accesskey       "u">
 <!ENTITY mediaPlaybackRate.label     "Vitesse de lecture">
-<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate.accesskey "d">
 <!ENTITY mediaPlaybackRate050x.label "Au ralenti (×0,5)">
 <!ENTITY mediaPlaybackRate050x.accesskey "A">
 <!ENTITY mediaPlaybackRate100x.label "Vitesse normale">
@@ -471,7 +471,7 @@ items are mutually exclusive. -->
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x.label "Vitesse démesurée (×2)">
-<!ENTITY mediaPlaybackRate200x.accesskey "g">
+<!ENTITY mediaPlaybackRate200x.accesskey "d">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
