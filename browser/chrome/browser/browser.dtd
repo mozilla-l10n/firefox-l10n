@@ -350,6 +350,16 @@
 <!ENTITY mediaMute.accesskey "D">
 <!ENTITY mediaUnmute.label "Attiva audio">
 <!ENTITY mediaUnmute.accesskey "A">
+<!ENTITY mediaPlaybackRate.label "Velocità riproduzione">
+<!ENTITY mediaPlaybackRate.accesskey "V">
+<!ENTITY mediaPlaybackRate050x.label "Lenta (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "L">
+<!ENTITY mediaPlaybackRate100x.label "Normale">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Alta (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "A">
+<!ENTITY mediaPlaybackRate200x.label "Smodata (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "S">
 <!ENTITY mediaShowControls.label "Mostra controlli">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label "Nascondi controlli">
