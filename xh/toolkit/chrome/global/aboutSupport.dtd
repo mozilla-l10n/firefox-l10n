@@ -54,7 +54,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "I-GC eyandayo">
 
 <!ENTITY aboutSupport.a11yTitle "Ufikeleleko">
-<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yActivated "Ihlaziyiwe">
 <!ENTITY aboutSupport.a11yForceDisabled "Thintela ufikelelo">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Iinguqulelo zelayibhrari">

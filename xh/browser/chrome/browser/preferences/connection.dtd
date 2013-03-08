@@ -34,9 +34,9 @@
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Isiqhagamshelisi:">
 <!ENTITY  HTTPport.accesskey            "I">
-<!ENTITY  SSLport.accesskey             "q">
-<!ENTITY  FTPport.accesskey             "g">
-<!ENTITY  SOCKSport.accesskey           "l">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "z">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Akukho proksi ye:">
 <!ENTITY  noproxy.accesskey             "A">
 <!ENTITY  noproxyExplain.label          "Umzekelo: .mozilla.org, .net.nz, 192.168.1.0/24">

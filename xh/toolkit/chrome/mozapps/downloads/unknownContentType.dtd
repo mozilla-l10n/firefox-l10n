@@ -10,8 +10,8 @@
 <!ENTITY  openWith.accesskey          "K">
 <!ENTITY  other.label                 "Okunye…">
 
-<!ENTITY  saveFile.label              "Save File">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "Gcina Ifayile">
+<!ENTITY  saveFile.accesskey          "G">
 
 <!ENTITY  rememberChoice.label        "Yenza oku ngokuzenzekela kwiifayile ezifana nezi ukususela ngoku.">
 <!ENTITY  rememberChoice.accesskey    "n">

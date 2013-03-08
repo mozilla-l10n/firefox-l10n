@@ -68,10 +68,10 @@ kunye nokukhuphela uguqulelo lwamva nje:">
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. 
 i-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
 
-<!ENTITY  genericBackgroundError.label    "
-i-&brandShortName; iya kuzama kwakhona ngokukhuphela uHlaziyo olupheleleyo. Nceda 
+<!ENTITY  genericBackgroundError.label    "i-&brandShortName; iya kuzama kwakhona ngokukhuphela uHlaziyo olupheleleyo. Nceda 
 uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo i-&brandShortName; ekuhlaziyeni ngokukhuselekileyo. Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo i-&brandShortName; ekuhlaziyeni ngokukhuselekileyo. 
+Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Kukho into ezama ukubhida i-&brandShortName; ekwamkeleni 
 uhlaziyo olungakhuselekanga. Nceda uqhagamshelane nomboneleli wenethiwekhi yakho uze ufune uncedo.">
 

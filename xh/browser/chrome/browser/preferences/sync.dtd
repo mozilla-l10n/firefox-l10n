@@ -18,7 +18,7 @@
 <!ENTITY manageAccount.accesskey      "w">
 <!ENTITY viewQuota.label              "Jonga ubuninzi">
 <!ENTITY changePassword2.label        "Guqula Igama Lokugqithisa…">
-<!ENTITY myRecoveryKey.label          "Iqhosha lobuyiselo lam">
+<!ENTITY myRecoveryKey.label          "IQhosha lokuFumana lam">
 <!ENTITY resetSync2.label             "Seta kwakhona ungqamaniso...">
 
 <!ENTITY pairDevice.label             "Beka ngazibini isixhobo">
@@ -44,4 +44,4 @@
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Imiqathango yenkonzo">
-<!ENTITY prefs.ppLink.label         "Umgaqonkqubo Womba Wabucala">
+<!ENTITY prefs.ppLink.label         "noMgaqo-nkqubo Wabucala">

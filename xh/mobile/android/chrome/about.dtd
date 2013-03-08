@@ -4,7 +4,7 @@
 <!ENTITY aboutPage.title                        "Malunga ne-&brandShortName;">
 <!ENTITY aboutPage.warningVersion               "I-&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
 <!ENTITY aboutPage.telemetryStart               " Ithumela inkcazelo ngokwayo engomsebenzi, ngehadiwe, ngokusetyenziswa nangoqhelaniso ">
-<!ENTITY aboutPage.telemetryMozillaLink         "kwi-&vendorShortName;">
+<!ENTITY aboutPage.telemetryMozillaLink         "I-&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
@@ -12,7 +12,7 @@
 <!ENTITY aboutPage.checkForUpdates.found        "Update available">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
-<!ENTITY aboutPage.privacyPolicy.label          "Umgaqonkqubo Womba Wabucala">
+<!ENTITY aboutPage.privacyPolicy.label          "Malunga ne-&brandShortName;">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
 <!ENTITY aboutPage.relNotes.label               "Release Notes">
 <!ENTITY aboutPage.credits.label                "Amatyala">

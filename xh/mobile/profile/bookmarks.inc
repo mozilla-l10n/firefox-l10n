@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser I-Firefox: Malunga nebhrawuza yakho
+#define bookmarks_aboutBrowser Firefox: Malunga nebhrawuza yakho
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons I-Firefox: Qhelanisa nezongezelelo
+#define bookmarks_addons Firefox: Qhelanisa nezongezelelo
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support I-Firefox: Inkxaso
+#define bookmarks_support Firefox: Inkxaso
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_aboutHome I-Firefox: Isiqalo
+#define bookmarks_aboutHome Firefox: Isiqalo
 
 
 

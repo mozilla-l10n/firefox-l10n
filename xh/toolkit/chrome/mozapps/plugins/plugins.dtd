@@ -56,8 +56,8 @@
 <!ENTITY report.disabled                                     "Ukunika ingxelo yokonakala kuqhwalelisiwe.">
 <!ENTITY report.failed                                       "Ukuthunyelwa kwayo akuphumelelanga.">
 <!ENTITY report.unavailable                                  "No report available.">
-<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.comment                                      "Yongeza ikhomenti (iikhomenti zibonakala ngokuphandle)">
+<!ENTITY report.pageURL                                      "Quka i-URL yephepha">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

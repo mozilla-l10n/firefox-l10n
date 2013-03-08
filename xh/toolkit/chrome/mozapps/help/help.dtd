@@ -26,7 +26,7 @@
 <!ENTITY printButton.tooltip            "Shicilela eli khasi">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Search">
+<!ENTITY search.emptytext               "Zingela">
 <!ENTITY searchHeader.label             "Search results">
 <!ENTITY toctab.label                   "Iziqulatho">
 <!ENTITY toctab.accesskey               "I">

@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "Ukulanda umkhondo">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.label        "Musa ukuxelela iisayithi nangayo nantoni na emalunga neepriferensi zam zokulandela umkhondo. ">
+<!ENTITY dntTrackingNopref.accesskey    "s">
 <!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">

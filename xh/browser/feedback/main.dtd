@@ -31,7 +31,7 @@
 
 <!ENTITY testpilot.enable.label                        "Vula imfunalwazi yomsebenzisi">
 <!ENTITY testpilot.feedbackbutton.label                "Ingxelo">
-<!ENTITY testpilot.happy.label        "I-Firefox indonwabisile kuba...">
-<!ENTITY testpilot.sad.label          "I-Firefox indiphoxile kuba ...">
+<!ENTITY testpilot.happy.label        "Firefox indonwabisile kuba...">
+<!ENTITY testpilot.sad.label          "Firefox indiphoxile kuba ...">
 <!ENTITY testpilot.broken.label      "Nika ingxelo ngale webhusayithi njengeyaphukileyo...">
 <!ENTITY testpilot.idea.label        "Sinike ingcamango...">

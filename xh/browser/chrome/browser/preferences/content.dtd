@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "Block pop-up windows">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.label           "Thintela iiwindow ezizivelelayo">
+<!ENTITY  blockPopups.accesskey       "T">
 <!ENTITY  popupExceptions.label       "Exceptions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -12,19 +12,19 @@
 <!ENTITY  exceptions.label            "Exceptions…">
 <!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "Enable JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  enableJavaScript.label      "Yenza isebenze i-JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "i">
 <!ENTITY  advancedJS.label            "Kwinqanaba eseliphambili…">
 <!ENTITY  advancedJS.accesskey        "n">
 
-<!ENTITY  enableJava.label            "Enable Java">
-<!ENTITY  enableJava.accesskey        "n">
+<!ENTITY  enableJava.label            "Yenza isebenze i-Java">
+<!ENTITY  enableJava.accesskey        "e">
 
 
 <!ENTITY  fontsAndColors.label        "Iifonti &amp; Imibala">
 
-<!ENTITY  defaultFont.label           "Default font:">
-<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultFont.label           "Ifonti yesiseko:">
+<!ENTITY  defaultFont.accesskey       "I">
 <!ENTITY  defaultSize.label           "Ubungakanani:">
 <!ENTITY  defaultSize.accesskey       "U">
 

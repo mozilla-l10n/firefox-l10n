@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "U">
 <!ENTITY aboutProduct.label       "Malunga ne-&brandShortName;">
 <!ENTITY aboutProduct.accesskey   "M">
-<!ENTITY productHelp.label        "I-&brandShortName; Uncedo">
+<!ENTITY productHelp.label        "&brandShortName; Uncedo">
 <!ENTITY productHelp.accesskey    "U">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe ...">

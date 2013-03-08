@@ -12,7 +12,7 @@
 <!ENTITY star.label            "Inkwenkwezi">
 
 <!ENTITY showTabs.label        "Bonisa iithebhu">
-<!ENTITY newtab.label          "New Tab">
+<!ENTITY newtab.label          "Isilungelelanisi Semigca Esitsha">
 <!ENTITY closetab.label        "Vala iithebhu">
 
 <!ENTITY cut.label             "Sika">
@@ -28,7 +28,7 @@
 <!ENTITY inputMethod.label     "Khetha indlela yegalelo">
 
 <!ENTITY allPagesHeader.label      "Onke amakhasi">
-<!ENTITY bookmarksHeader.label     "Izalathisi eziphawulayo">
+<!ENTITY bookmarksHeader.label     "Iibhukhmakhi">
 <!ENTITY historyHeader.label       "Imbali">
 <!ENTITY desktopHeader.label       "Idesktop">
 
@@ -109,7 +109,7 @@
 <!ENTITY contextShareVideo.label      "Yabelana ngevidiyo">
 <!ENTITY contextPlayMedia.label       "Dlala">
 <!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextFullScreen.label      "Isikrini esiZeleyo">
 <!ENTITY contextEditBookmark.label    "Edit">
 <!ENTITY contextRemoveBookmark.label  "Remove">
 <!ENTITY contextShortcutBookmark.label "Yongeza kwisikrini sasekhaya">
