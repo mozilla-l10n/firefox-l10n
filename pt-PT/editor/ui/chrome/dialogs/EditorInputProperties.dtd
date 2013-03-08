@@ -1,82 +1,48 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Input Tag Properties Dialog.
-   -
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Propriedades do Campo do Formulário">
-<!ENTITY windowTitleImage.label "Propriedades da Imagem do Formulário">
-
+<!ENTITY windowTitle.label "Propriedades de campo do formulário">
+<!ENTITY windowTitleImage.label "Propriedades de imagem do formulário">
 <!ENTITY InputType.label "Tipo">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
 <!ENTITY password.value "Senha">
-<!ENTITY checkbox.value "Caixa de Verificação">
-<!ENTITY radio.value "Botão Rádio">
-<!ENTITY submit.value "Botão Submeter">
-<!ENTITY reset.value "Botão Reiniciar">
+<!ENTITY checkbox.value "Caixa de verificação">
+<!ENTITY radio.value "Botão de opção">
+<!ENTITY submit.value "Botão de submissão">
+<!ENTITY reset.value "Botão de reposição">
 <!ENTITY file.value "Ficheiro">
 <!ENTITY hidden.value "Oculto">
 <!ENTITY image.value "Imagem">
 <!ENTITY button.value "Botão">
-
-<!ENTITY InputSettings.label "Configurações do Campo">
-<!ENTITY InputName.label "Nome do Campo:">
+<!ENTITY InputSettings.label "Definições do campo">
+<!ENTITY InputName.label "Nome do campo:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nome do Grupo:">
+<!ENTITY GroupName.label "Nome do grupo:">
 <!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Valor do Campo:">
+<!ENTITY InputValue.label "Valor do campo:">
 <!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Valor Inicial:">
+<!ENTITY InitialValue.label "Valor inicial:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Verificado Inicialmente">
-<!ENTITY InputChecked.accesskey "E">
-<!ENTITY InputSelected.label "Seleccionado Inicialmente">
+<!ENTITY InputChecked.label "Verificado inicialmente">
+<!ENTITY InputChecked.accesskey "e">
+<!ENTITY InputSelected.label "Selecionado inicialmente">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Apenas de Leitura">
-<!ENTITY InputReadOnly.accesskey "L">
-<!ENTITY InputDisabled.label "Desactivado">
-<!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Index do Separador:">
-<!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Tamanho do Campo:">
+<!ENTITY InputReadOnly.label "Apenas leitura">
+<!ENTITY InputReadOnly.accesskey "l">
+<!ENTITY InputDisabled.label "Inativo">
+<!ENTITY InputDisabled.accesskey "I">
+<!ENTITY tabIndex.label "Índice de tabulação:">
+<!ENTITY tabIndex.accesskey "c">
+<!ENTITY TextSize.label "Tamanho do campo:">
 <!ENTITY TextSize.accesskey "C">
-<!ENTITY TextLength.label "Comprimento Máximo:">
-<!ENTITY TextLength.accesskey "M">
-<!ENTITY AccessKey.label "Chave de Acesso:">
-<!ENTITY AccessKey.accesskey "H">
-<!ENTITY Accept.label "Tipos Aceites:">
-<!ENTITY Accept.accesskey "A">
-
-<!ENTITY ImageProperties.label "Propriedades da Imagem...">
+<!ENTITY TextLength.label "Comprimento máximo:">
+<!ENTITY TextLength.accesskey "m">
+<!ENTITY AccessKey.label "Chave de acesso:">
+<!ENTITY AccessKey.accesskey "h">
+<!ENTITY Accept.label "Tipos aceites:">
+<!ENTITY Accept.accesskey "a">
+<!ENTITY ImageProperties.label "Propriedades da imagem...">
 <!ENTITY ImageProperties.accesskey "R">
