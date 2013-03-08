@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Volgen">
 
-<!ENTITY doNotTrack.label               "Websites laten weten dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey           "v">
+<!ENTITY dntTrackingNopref.label        "Websites niks vertellen over mijn volg instellingen.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Websites laten weten dat ik niet gevolgd wil worden.">
+<!ENTITY dntTrackingNotOkay.accesskey   "v">
+<!ENTITY dntTrackingOkay.label          "Websites laten weten dat ik gevolgd wil worden.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Meer info ">
 
 <!ENTITY  history.label                 "Geschiedenis">
 
