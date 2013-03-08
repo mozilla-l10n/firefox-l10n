@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "আপোনাৰ &brandShortName; সংস্থাপন কৰা">
+<!ENTITY  splash_bookmarks_history "আমি আপোনাৰ পত্ৰচিহ্নসমূহ আৰু ইতিহাস আপডেইট কৰি আছো, যাক সম্পূৰ্ণ হবলে এক মিনিটমান সময় লাগিব।">
 
 <!ENTITY  no_space_to_start_error "&brandShortName; আৰম্ভ হবলে পৰ্যাপ্ত স্থান নাই।">
 <!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল\u0027ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_all_pages_title "উচ্চতম ছাইটবোৰ">
 <!ENTITY  awesomebar_bookmarks_title "পত্ৰচিহ্নসমূহ">
 <!ENTITY  awesomebar_history_title "ইতিহাস">
 
@@ -18,7 +18,7 @@
 <!ENTITY  crash_help_message "অনুগ্ৰহ কৰি আমাক এই সমস্যা সমাধান কৰিবলে সহায় কৰক!">
 <!ENTITY  crash_send_report_message "Mozilla -ক এটা স্খলন সংবাদ পঠাওক">
 <!ENTITY  crash_include_url "পৃষ্ঠা ঠিকনা অন্তৰ্ভুক্ত কৰক">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_close_label "বন্ধ কৰক">
 <!ENTITY  crash_restart_label "&brandShortName; পুনৰাম্ভ কৰক">
 <!ENTITY  sending_crash_report "স্খলন সংবাদ\u2026 পঠোৱা হৈ আছে ">
 <!ENTITY  exit_label "প্ৰস্থান কৰক">
@@ -27,7 +27,7 @@
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ৱেব এপ্লিকেচনসমূহ">
 <!ENTITY  launcher_shortcuts_empty "কোনো ৱেব এপ্লিকেচন পোৱা নগল">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "ফাইল বাছক">
 
 <!ENTITY awesomebar_default_text "Enter Search or Address">
 
@@ -44,20 +44,20 @@
 <!ENTITY history_week_section "7 days ago">
 <!ENTITY history_older_section "Older than 7 days">
 
-<!ENTITY go "Go">
-<!ENTITY search "Search">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
+<!ENTITY go "যাওক">
+<!ENTITY search "সন্ধান কৰক">
+<!ENTITY reload "পুনৰ ল\u0027ড কৰক">
+<!ENTITY forward "আগলৈ">
 <!ENTITY menu "মেনু">
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
+<!ENTITY back "পিছলৈ">
+<!ENTITY stop "বন্ধ কৰক">
+<!ENTITY site_security "ছাইটৰ সুৰক্ষা">
 
 <!ENTITY close_tab "টেব বন্ধ কৰক">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "১ টেব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; টেবসমূহ">
 <!ENTITY new_tab_opened "New tab opened">
 
 <!ENTITY settings "Settings">
@@ -66,18 +66,18 @@
 <!ENTITY pref_category_privacy "Privacy &amp; Security">
 <!ENTITY pref_category_content "Content">
 <!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_about_firefox "&brandShortName; ৰ বিষয়ে">
+<!ENTITY pref_do_not_track "ছাইটসমূহক মোক অনুসৰণ নকৰিবলে কওক">
+<!ENTITY pref_telemetry "পৰিৱেশন তথ্য পঠাওক">
+<!ENTITY pref_remember_signons "পাছৱাৰ্ডসমূহ মনত ৰাখক">
 
 <!ENTITY pref_cookies_menu "কুকিসমূহ">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_accept_all "সামৰ্থবান কৰক">
+<!ENTITY pref_cookies_not_accept_foreign "সামৰ্থবান কৰা আছে, তৃতীয় দল বাদ দিয়া হৈছে">
+<!ENTITY pref_cookies_disabled "অসামৰ্থবান">
 
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
+<!ENTITY pref_char_encoding "আখৰ এনক\u0027ডিং">
+<!ENTITY pref_char_encoding_on "মেনু দেখাওক">
 <!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Clear private data">
 <!ENTITY pref_plugins "প্লাগিনসমূহ">
@@ -88,10 +88,10 @@
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Tiny">
 <!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_medium "মধ্যম">
+<!ENTITY pref_font_size_large "ডাঙৰ">
+<!ENTITY pref_font_size_xlarge "অতি বৃহৎ">
+<!ENTITY pref_font_size_set "ছেট">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -101,12 +101,12 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "দ্ৰুত সুমথিৰা শিয়ালে আপোনাৰ প্ৰত্যাশাক অধিক গতি, অধিক স্থিতিস্থাপকতা আৰু অধিক সুৰক্ষাৰ সৈতে অতিক্ৰম কৰিছে। এটা লাভ-বিহিন হিচাপে, আমি কোনো আপোচৰ চাপ নথকাকৈ আপোনাৰ বাবে উদ্ভাৱন কৰিবলে মুক্ত। যাৰ অৰ্থ আপোনাৰ বাবে এটা উন্নত অনুভৱ আৰু ৱেবৰ বাবে এটা দীপ্ত ভৱিষ্যত।">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_use_master_password "প্ৰমুখ পাছৱাৰ্ড ব্যৱহাৰ কৰক">
+<!ENTITY pref_show_product_announcements "উৎপাদনৰ ঘোষণাসমূহ দেখুৱাওক">
 <!ENTITY pref_sync "সংমিহলি কৰক">
-<!ENTITY pref_search_suggestions "Show search suggestions">
+<!ENTITY pref_search_suggestions "সন্ধানৰ পৰামৰ্শসমূহ দেখুৱাওক">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_private_data_history "Browsing &amp; download history">
 <!ENTITY pref_private_data_formdata "Form &amp; search history">
@@ -117,20 +117,20 @@ size. -->
 <!ENTITY pref_private_data_siteSettings "Site preferences">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload "স্বচালিত আপডেইটসমূহ">
+<!ENTITY pref_update_autodownload_wifi "কেৱল Wi-Fi ৰে">
+<!ENTITY pref_update_autodownload_disabled "অসামৰ্থবান">
+<!ENTITY pref_update_autodownload_enabled "সামৰ্থবান">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "প্ৰস্থান কৰক">
 
 <!ENTITY addons "এড-অনসমূহ">
-<!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
+<!ENTITY downloads "ডাউনল\u0027ডসমূহ">
+<!ENTITY apps "এপ্লিকেচনসমূহ">
 <!ENTITY char_encoding "আখৰ এনক\u0027ডিং">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
+<!ENTITY share "অংশীদাৰী কৰক">
+<!ENTITY share_title "চিহ্নিত বস্তুৰ সহায়ত অংশীদাৰী কৰক">
 <!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY find_in_page "Find in Page">
@@ -141,21 +141,21 @@ size. -->
 <!ENTITY close_all_tabs "Close All Tabs">
 <!ENTITY tabs_normal "Tabs">
 <!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY tabs_synced "সংমিহলিত">
+<!ENTITY wallpaper_success "ৱালপেপাৰ আপডেইট কৰা হৈছে">
+<!ENTITY wallpaper_progress "ৱালপেপাৰ সংহতি কৰা">
+<!ENTITY wallpaper_fail "ৱালপেপাৰ সংহতি কৰিবলে অক্ষম">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Find in Page">
+<!ENTITY find_text "পৃষ্ঠাত সন্ধান কৰক">
 <!ENTITY find_prev "পূৰ্বৱৰ্তী">
 <!ENTITY find_next "পৰৱৰ্তী">
-<!ENTITY find_close "Close">
+<!ENTITY find_close "বন্ধ কৰক">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_new_tab "নতুন টেবত খোলক">
+<!ENTITY contextmenu_open_private_tab "ব্যক্তিগত টেবত খোলক">
+<!ENTITY contextmenu_open_in_reader "ৰিডাৰত খোলক">
 <!ENTITY contextmenu_remove_history "Remove">
 <!ENTITY contextmenu_remove_bookmark "Remove">
 <!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
@@ -169,18 +169,18 @@ size. -->
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
 <!ENTITY bookmark_edit_name "নাম">
-<!ENTITY bookmark_edit_location "Location">
+<!ENTITY bookmark_edit_location "অৱস্থান">
 <!ENTITY bookmark_edit_keyword "মূলশব্দ">
 
-<!ENTITY site_settings_title2       "Site Settings…">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_title2       "ছাইট সংহতিসমূহ…">
+<!ENTITY site_settings_cancel       "বাতিল কৰক">
+<!ENTITY site_settings_clear        "পৰিষ্কাৰ কৰক">
+<!ENTITY site_settings_no_settings  "পৰিষ্কাৰ কৰিবলে কোনো সংহতি নাই।">
 
-<!ENTITY reading_list "Reading List">
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list "পঢ়াৰ তালিকা">
+<!ENTITY reading_list_added "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰা হৈছে">
+<!ENTITY reading_list_removed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকাৰ পৰা আতৰোৱা হৈছে">
+<!ENTITY reading_list_failed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰিবলে ব্যৰ্থ হল">
 <!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Create Master Password">
@@ -197,14 +197,14 @@ size. -->
 <!ENTITY button_clear "Clear">
 
 <!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_addons_browse "সকলো &brandShortName; এড-অনসমূহ ব্ৰাউছ কৰক">
+<!ENTITY abouthome_last_tabs_title "সৰ্বশেষ সময়ৰ পৰা আপোনাৰ টেবসমূহ">
+<!ENTITY abouthome_last_tabs_open "সৰ্বশেষ সময়ৰ পৰা সকলো টেব খোলক">
+<!ENTITY abouthome_top_sites_title "উচ্চমানৰ ছাইটসমূহ">
+<!ENTITY abouthome_topsites_edit "সম্পাদনা কৰক">
+<!ENTITY abouthome_topsites_pin "ছাইট পিন কৰক">
+<!ENTITY abouthome_topsites_unpin "ছাইট আনপিন কৰক">
+<!ENTITY abouthome_topsites_remove "আতৰাওক">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

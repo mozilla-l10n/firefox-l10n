@@ -8,7 +8,7 @@
 <!ENTITY forward.label         "Forward">
 <!ENTITY reload.label          "Reload">
 <!ENTITY stop.label            "Stop">
-<!ENTITY go.label              "Go">
+<!ENTITY go.label              "যাওক">
 <!ENTITY star.label            "Star">
 
 <!ENTITY showTabs.label        "Show Tabs">
