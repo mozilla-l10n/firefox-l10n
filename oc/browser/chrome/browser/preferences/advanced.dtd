@@ -37,21 +37,21 @@
 <!ENTITY dataChoicesTab.label            "Donadas">
 
 <!ENTITY healthReportSection.label       "Bilanç de santat de &brandShortName;">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY healthReportDesc.label          "Vos ajuda a comprene las performàncias de vòstre navigador e manda a &vendorShortName; d'informacions a prepaus de la santat de vòstre navigador">
 <!ENTITY enableHealthReport.label        "Activar lo bilanç de santat de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "c">
 <!ENTITY healthReportLearnMore.label     "Ne saber mai">
 
 <!ENTITY telemetrySection.label          "Telemetria">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY telemetryDesc.label             "Manda d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
 <!ENTITY enableTelemetry.label           "Activar la telemetria">
 <!ENTITY enableTelemetry.accesskey       "A">
 <!ENTITY telemetryLearnMore.label        "Ne saber mai">
 
 <!ENTITY crashReporterSection.label      "Raportador de plantatge">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterDesc.label         "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
+<!ENTITY enableCrashReporter.label       "Activar los rapòrts de plantatge">
+<!ENTITY enableCrashReporter.accesskey   "t">
 <!ENTITY crashReporterLearnMore.label    "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">

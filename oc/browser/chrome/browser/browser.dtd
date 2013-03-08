@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
 <!ENTITY  closeTab.accesskey                 "T">
 
-<!ENTITY  listAllTabs.label      "Far la tièra de totes los onglets">
+<!ENTITY  listAllTabs.label      "Far la lista de totes los onglets">
 
 <!ENTITY tabCmd.label "Onglet novèl">
 <!ENTITY tabCmd.accesskey "O">
@@ -56,7 +56,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Mesa en pagina...">
 <!ENTITY printSetupCmd.accesskey "M">
-<!ENTITY printPreviewCmd.label "Apercebut abans estampatge">
+<!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Estampar...">
 <!ENTITY printCmd.accesskey "p">
@@ -65,7 +65,7 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Trabalhar desconnectat">
 <!ENTITY goOfflineCmd.accesskey "c">
 
-<!ENTITY menubarCmd.label "Barra de menuts">
+<!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navigacion">
 <!ENTITY navbarCmd.accesskey "n">
@@ -139,8 +139,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Arrestar de cargar la pagina">
 <!ENTITY goEndCap.tooltip             "Anar a l'adreça que i a dins la barra d'emplaçament">
-<!ENTITY printButton.label            "Estampar">
-<!ENTITY printButton.tooltip          "Estampar la pagina">
+<!ENTITY printButton.label            "Imprimir">
+<!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
 <!ENTITY backForwardItem.title        "Pagina precedenta/seguenta">
 <!ENTITY locationItem.title           "Emplaçament">
@@ -149,8 +149,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksItem.title          "Marcapaginas">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menut">
-<!ENTITY appMenuButton.tooltip        "Dobrir lo menut &brandShortName;">
+<!ENTITY appMenuButton.label          "Menú">
+<!ENTITY appMenuButton.tooltip        "Dobrir lo menú &brandShortName;">
 <!ENTITY homeButton.label             "Acuèlh">
 
 <!ENTITY tabGroupsButton.label        "Gropes d'onglets">
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Picar un tèrme de recercar o una adreça">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
 <!-- 
@@ -406,8 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Enregistrar lo quadre jos...">
 <!ENTITY saveFrameCmd.accesskey       "E">
-<!ENTITY printFrameCmd.label          "Estampar lo quadre...">
-<!ENTITY printFrameCmd.accesskey      "E">
+<!ENTITY printFrameCmd.label          "Imprimir lo quadre...">
+<!ENTITY printFrameCmd.accesskey      "I">
 <!ENTITY saveLinkCmd.label            "Enregistrar la cibla del ligam jos...">
 <!ENTITY saveLinkCmd.accesskey        "E">
 <!ENTITY saveImageCmd.label           "Enregistrar l'imatge jos...">
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Mandar lo document Àudio per mail...">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "Activar aqueste plugin">
+<!ENTITY playPluginCmd.accesskey      "t">
+<!ENTITY hidePluginCmd.label          "Amagar aqueste plugin">
+<!ENTITY hidePluginCmd.accesskey      "g">
 <!ENTITY copyLinkCmd.label            "Copiar l'adreça del ligam">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar l'adreça de l'imatge">
@@ -632,4 +632,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "Afichar los sites amb los quals partejatz actualament vòstre webcam o vòstre microfòn">
 
 <!ENTITY mixedContentBlocked.helplink "Ne saber mai…">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">

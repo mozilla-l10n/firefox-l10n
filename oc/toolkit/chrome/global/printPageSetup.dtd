@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "Opcions">
 
-<!ENTITY printBG.label       "Estampar lo fons de pagina (colors &amp; imatges)">
+<!ENTITY printBG.label       "Imprimir lo fons de pagina (colors &amp; imatges)">
 <!ENTITY printBG.accesskey   "f">
 
 <!ENTITY advanced.tab        "Marges, entèstas &amp; pès de pagina">

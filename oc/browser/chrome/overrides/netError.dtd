@@ -108,7 +108,7 @@ vòstre sistèma.</li>
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> 
-<li>Contactatz los proprietaris del site Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menut d'ajuda per senhalar un site pas foncional.</li> 
+<li>Contactatz los proprietaris del site Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
