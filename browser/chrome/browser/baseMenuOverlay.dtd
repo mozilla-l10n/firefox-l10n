@@ -22,7 +22,7 @@
 <!ENTITY helpSafeMode.label       "এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.label       "&brandShortName; স্বাস্থ্য সংবাদ (e)">
 <!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "তথ্যৰ সমস্যসমূহ ঠিক কৰা হৈ আছে">

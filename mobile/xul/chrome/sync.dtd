@@ -27,5 +27,5 @@
 
 <!ENTITY sync.pair.title            "এটা ডিভাইচ সংযুক্ত কৰক">
 <!ENTITY sync.pair.description      "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত  &#x0022;Set আপ সংমিহলি&#x0022; নিৰ্বাচন কৰক।">
-<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.setup.close           "বন্ধ কৰক">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

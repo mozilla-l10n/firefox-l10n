@@ -11,7 +11,7 @@
 <!ENTITY enableJavaScript.title                    "Enable JavaScript">
 <!ENTITY privacy.title                             "Privacy &amp; Security">
 <!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
+<!ENTITY doNotTrack.title                          "ছাইটসমূহক মোক অনুসৰণ নকৰিবলে কওক">
 <!ENTITY masterPassword.title                      "Use master password">
 <!ENTITY clearPrivateData2.title                   "Clear private data">
 <!ENTITY clearPrivateData.button                   "পৰিষ্কাৰ কৰক">
