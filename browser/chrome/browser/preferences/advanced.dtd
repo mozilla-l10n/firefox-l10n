@@ -84,8 +84,8 @@
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
-<!ENTITY updateApp.label                 " brandShortName; புதுப்பித்தல்கள்:">
-<!ENTITY updateAuto.label                "தானாக புதுப்பிப்புகளை நிறுவு (பரிந்துரைக்கப்பட்டது: மேம்படுத்தப்பட்ட பாதுகாப்பு) ">
+<!ENTITY updateApp.label                 " brandShortName; மேம்படுத்தல்கள்:">
+<!ENTITY updateAuto.label                "தானாக புதுப்பிப்புகளை நிறுவு (பரிந்துரைக்கப்பட்டது: பாதுகாப்பை  மேம்படுத்த) ">
 <!ENTITY updateAuto.accesskey            "த">
 <!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் பார், ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
 <!ENTITY updateCheck.accesskey           "ப">
@@ -110,7 +110,7 @@
 <!ENTITY offlineNotifyExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "பின்வரும் இணைய தளங்கள் இணைப்பில்லாத பயனுக்கு தரவை சேமிக்க அனுப்பப்படுகின்றன:">
+<!ENTITY offlineAppsList2.label          "பின்வரும் இணைய தளங்கள் இணைப்பில்லாத பயனுக்கு தரவை சேமிக்க அனுமதிக்கப்படுபவை:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "நீக்கு…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
