@@ -142,8 +142,8 @@
 <!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Reçu">
 <!ENTITY sortByReceivedCmd.accesskey "R">
-<!ENTITY sortByFlagCmd.label "Cochage">
-<!ENTITY sortByFlagCmd.accesskey "g">
+<!ENTITY sortByFlagCmd.label "Suivi">
+<!ENTITY sortByFlagCmd.accesskey "v">
 <!ENTITY sortByPriorityCmd.label "Priorité">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Taille">

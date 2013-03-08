@@ -184,7 +184,7 @@
 <!ENTITY sortByTagsCmd.label "Étiquettes">
 <!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Statut indésirable">
-<!ENTITY sortByJunkStatusCmd.accesskey "e">
+<!ENTITY sortByJunkStatusCmd.accesskey "b">
 <!ENTITY sortBySubjectCmd.label "Sujet">
 <!ENTITY sortBySubjectCmd.accesskey "S">
 <!ENTITY sortByFromCmd.label "Expéditeur">
@@ -203,8 +203,8 @@
 <!ENTITY sortThreaded.accesskey "c">
 <!ENTITY sortUnthreaded.label "Discussions non groupées">
 <!ENTITY sortUnthreaded.accesskey "g">
-<!ENTITY groupBySort.label "Groupé par critère de tri">
-<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySort.label "Groupées par critère de tri">
+<!ENTITY groupBySort.accesskey "e">
 <!ENTITY msgsMenu.label "Message">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Discussions">
