@@ -87,8 +87,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "e">
 <!ENTITY exitFullScreenCmd.label "Phuma kwisikrin esizeleyo">
 <!ENTITY exitFullScreenCmd.accesskey "e">
-<!ENTITY fullScreenCmd.label "Full Screen">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Isikrini esiZeleyo">
+<!ENTITY fullScreenCmd.accesskey "I">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Bonisa zonke iithebhu">
 <!ENTITY showAllTabsCmd.accesskey "z">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.commandkey          "p">
 
 <!ENTITY viewMenu.label         "Jonga"> 
 <!ENTITY viewMenu.accesskey       "J"> 
@@ -314,12 +314,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuFind.label "Find…">
 <!ENTITY appMenuUnsorted.label "Iibhukhmakhi ezingalandelelaniswanga">
 <!ENTITY appMenuWebDeveloper.label "Umphuhlisi wewebhu">
-<!ENTITY appMenuGettingStarted.label "Ukuqalisa">
+<!ENTITY appMenuGettingStarted.label "Qalisa">
 <!ENTITY appMenuSafeMode.label "Qalisa kwakhona ngezongezelelo eziqhwalelisiweyo ...">
 <!ENTITY appMenuSafeMode.accesskey "Q">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
 <!-- 
@@ -361,9 +361,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Vula ifreyim kwifestile entsha">
 <!ENTITY openFrameCmd.accesskey       "k">
-<!ENTITY showOnlyThisFrameCmd.label     "Bonisa Kuphela Esi Sakhelo">
+<!ENTITY showOnlyThisFrameCmd.label     "Bonisa Esi Sakhelo Kuphela">
 <!ENTITY showOnlyThisFrameCmd.accesskey "B">
-<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadCmd.commandkey         "z">
 <!ENTITY reloadFrameCmd.label         "Layisha kwakhona ifreyim">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Jonga umthombo wokhetho">
@@ -392,21 +392,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Seta Njengokungasemva eskrinini…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Faka Isalathisi Esiphawulayo Kweli Khasi">
-<!ENTITY bookmarkPageCmd2.accesskey   "p">
+<!ENTITY bookmarkPageCmd2.accesskey   "t">
 <!ENTITY bookmarkThisLinkCmd.label      "Faka Isalathisi Esiphawulayo Kolu Nxulumaniso">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "N">
-<!ENTITY bookmarkThisFrameCmd.label      "Faka Isalathisi Esiphawulayo kwesi Sakhelo Seenkcukacha">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "t">
+<!ENTITY bookmarkThisFrameCmd.label      "Phawula ngokubalulekileyo Esi Sakhelo">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "u">
 <!ENTITY emailPageCmd.label           "Ikhonkco leimeyile ...">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gcina ikhasi njenge…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "p">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Gcina ifreyim njenge…">
 <!ENTITY saveFrameCmd.accesskey       "i">
-<!ENTITY printFrameCmd.label          "Print Frame…">
+<!ENTITY printFrameCmd.label          "Printa iSakhelo…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Gcina ikhonkco njenge…">
 <!ENTITY saveLinkCmd.accesskey        "c">
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "e">
 <!ENTITY emailAudioCmd.label          "Imeyila okunesandi...">
 <!ENTITY emailAudioCmd.accesskey      "o">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "Vuselela le softwe incedisayo">
+<!ENTITY playPluginCmd.accesskey      "u">
+<!ENTITY hidePluginCmd.label          "Fihla le softwe incedisayo">
+<!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopa indawo yomfuziselo">
@@ -463,8 +463,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "i">
 <!ENTITY mediaHideControls.label     "Tshonisa izixhobo zolawulo">
 <!ENTITY mediaHideControls.accesskey "i">
-<!ENTITY videoFullScreen.label       "Full Screen">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.label       "Isikrini esiZeleyo">
+<!ENTITY videoFullScreen.accesskey   "I">
 <!ENTITY videoSaveImage.label        "Gcina isnepshothi njenge...">
 <!ENTITY videoSaveImage.accesskey    "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -593,13 +593,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "Iithebhu zezinye izixhobo">
 
-<!ENTITY syncBrand.shortName.label    "Ngqamanisa">
+<!ENTITY syncBrand.shortName.label    "Ungqamaniso">
 
 <!ENTITY syncSetup.label              "Seta i-&syncBrand.shortName.label; ...">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
-<!ENTITY syncToolbarButton.label      "Ngqamanisa">
+<!ENTITY syncToolbarButton.label      "Ungqamaniso">
 
 <!ENTITY addonBarCloseButton.tooltip  "Vala ibha yezongezelelo">
 <!ENTITY toggleAddonBarCmd.key        "/">
@@ -632,4 +632,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "Bonisa iisayithi obolekisana nazo ngekhamera okanye imayikhrofowuni yakho ">
 
 <!ENTITY mixedContentBlocked.helplink "Funda ngaphezulu">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho. ">

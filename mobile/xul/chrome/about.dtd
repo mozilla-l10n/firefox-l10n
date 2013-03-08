@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Malunga ne-&brandShortName;">
 <!ENTITY aboutPage.warningVersion               "I-&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
-<!ENTITY aboutPage.telemetryStart               " Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo ">
-<!ENTITY aboutPage.telemetryMozillaLink         "kwi-&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " ukuze ibe nokwenza i-&brandShortName; ngcono">
+<!ENTITY aboutPage.telemetryStart               " Ithumela inkcazelo ngokwayo engomsebenzi, ngehadiwe, ngokusetyenziswa nangoqhelaniso ">
+<!ENTITY aboutPage.telemetryMozillaLink         "I-&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
 <!ENTITY aboutPage.privacyPolicy.label          "Umgaqonkqubo Womba Wabucala">

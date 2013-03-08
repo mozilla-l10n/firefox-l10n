@@ -73,7 +73,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/about/
 
 
-#define firefox_about About Us
+#define firefox_about Malunga Nathi
 
 
 #unfilter emptyLines

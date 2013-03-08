@@ -13,7 +13,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "e">
 <!ENTITY languages.customize.deleteButton.label         "Susa">
 <!ENTITY languages.customize.deleteButton.accesskey     "S">
-<!ENTITY languages.customize.selectLanguage.label       "Select a language to add…">
+<!ENTITY languages.customize.selectLanguage.label       "Khetha ulwimi ukongeza…">
 <!ENTITY languages.customize.addButton.label            "Yongeza">
 <!ENTITY languages.customize.addButton.accesskey        "Y">
 

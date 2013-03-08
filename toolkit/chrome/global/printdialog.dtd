@@ -16,8 +16,8 @@
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Inkcazo Ngesishicileli:">
 <!ENTITY printer.label "Isishicileli">
-<!ENTITY printerInput.label "Printer Name:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.label "Igama lePrinta:">
+<!ENTITY printerInput.accesskey "I">
 
 <!ENTITY printrangeGroup.label "Uluhlu Loshicilelo">
 <!ENTITY allpagesRadio.label "All Pages">
@@ -32,8 +32,8 @@
 <!ENTITY selectionRadio.accesskey "S">
 
 <!ENTITY copies.label "Iikopi">
-<!ENTITY numCopies.label "Number of copies:">
-<!ENTITY numCopies.accesskey "c">
+<!ENTITY numCopies.label "Inani leekopi:">
+<!ENTITY numCopies.accesskey "k">
 
 <!ENTITY printframeGroup.label "Iifreyim zokuprinta">
 <!ENTITY aslaidoutRadio.label "As laid out on the screen">

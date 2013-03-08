@@ -24,45 +24,41 @@
 <li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela iingcombolo zesixhobo sakho okanye unxibelelwano lwe-Wi-Fi.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Ifayile ayifunyanwa">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
-</ul>
-">
+<!ENTITY fileNotFound.title "Ifayile ayifumaneki">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha. </li> 
+<li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na. </li> 
+</ul>">
 
 
 <!ENTITY generic.title "Oops">
-<!ENTITY generic.longDesc "<p>&brandShortName; ayikwazi ukulayisha eli khasi ngesizathu esithile.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-  <li>Make sure that you're using forward slashes (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Iidilesi zewebhu zidla ngokubhalwa kanje 
+<strong>http://www.example.com/</strong></li> 
+<li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. 
+<omelele>/</omelele>).</li> 
+</ul>">
 
-<!ENTITY netInterrupt.title "Unxibelelwano luphazamisekile">
+<!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Uxwebhu luphelile">
-<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhupheli ye-&brandShortName;.</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiziceleli ngokwayo ngokutsha amaxwebhu anobuzaza.</li><li>Click Zama kwakhona ukucela ngokutsha uxwebhu kwiwebhusayithi.</li></ul>">
+<!ENTITY notCached.title "Uxwebhu luphelelwe">
+<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Zama kwakhona. I-&brandShortName; iza kuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "Imposiso yokukhowuda yomxholo">
+<!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
 </ul>">
 
-<!ENTITY unsafeContentType.title "Udidi lwefayile olungakhuselekanga">
+<!ENTITY unsafeContentType.title "Udidi lwefayile engakhuselekanga">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> 
 </ul>">
@@ -74,56 +70,48 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Idilesi ayiqondwanga">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Kunokudingeka ukuba ufakele enye isoftwe ukuze uvule le dilesi.</li> 
+</ul>">
 
-<!ENTITY proxyConnectFailure.title "Iseva engummeli ayiluvumi unxibelelwano">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.title "Iseva yommeli ayiluvumeli unxibelelwano">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> 
+<li>Qhagamshelana nomlawuli wakho wenethiwekhi ukuqinisekisa ukuba iseva yeproksi i
+yasebenza.</li> 
+</ul>">
 
-<!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva engummeli">
+<!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> 
 <li>khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano lweengcombolo ezisebenzayo okanye i-Wi-Fi.</li> 
 </ul>">
 
-<!ENTITY redirectLoop.title "Ikhasi alikhombisi ngokutsha ngokufanelekileyo">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
-
-<!ENTITY unknownSocketType.title "Impendulo engalindelekanga kwiseva">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
-</ul>
-">
-
-<!ENTITY nssFailure2.title "Unxibelelwano olukhuselekileyo aluphumelelanga">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ikhasi ozama ukulijonga alinakuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li> 
-<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki. Kungenjalo, sebenzisa umyalelo ofunyanwa kwimenyu yoncedo ukunika ingxelo ngale sayithi yonakeleyo.</li> 
+<!ENTITY redirectLoop.title "Ikhasi alithumeli kwenye indawo kakuhle">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Le ngxaki maxa wambi ingabangelwa ngokungasebenzisi okanye ngokwala ukwamkela 
+iikhuki.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Unxibelelwano olukhuselekileyo aluphumelelanga">
+<!ENTITY unknownSocketType.title "Impendulo engalindelekanga kwiseva">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Khangela ukuqinisekisa ukuba isistim yakho ine-Personal Security Manager 
+efakelweyo.</li> 
+<li>Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva. </li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Unxibelelwano lokhuseleko aluphumelelanga">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ikhasi ozama ukulijonga alinakuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li> 
+<li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki. Kungenjalo, sebenzisa umyalelo ofunyanwa kwimenyu yoncedo ukunika ingxelo ngesayithi eyonakeleyo.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Unxibelelwano lokhuseleko aluphumelelanga">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Oku kungaba yingxaki kulungiselelo lweseva, okanye isenokuba 
-ngumntu wumbi ozama ukuzenza umnini weseva.</li> 
-<li>Ukuba ubunxibeleleke kule seva ngempumelelo ngaphambili, ingxaki 
-isenokuba yeyethutyana, kwaye ungazama kwakhona kamva.</li> 
+<li>Oku kusenokuba yingxaki kulungiselelo lweseva okanye 
+mntu uthile uzama ukuzenza umnini weseva.</li> 
+<li>Ukuba wawunxityelelwe kule seva ngempumelelo ngaphambili, imposiso ise
+nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc2 "<ul> 
@@ -132,10 +120,10 @@ isenokuba yeyethutyana, kwaye ungazama kwakhona kamva.</li>
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "I-<p>&brandShortName; ilithintele eli khasi ekulayisheni ngolu hlobo kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo ongalivumeliyo.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
-<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakubonakaliswa kuba kubhaqwe imposiso ekuhanjisweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">
@@ -146,11 +134,11 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Umele ungayongezi ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembanga ngokugqibeleleyo okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p> 
+<!ENTITY securityOverride.warningContent "<p> Akumele kongeza ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembi ncam okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "I-XUL emgama">
+<!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
 

@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Ukudibanisa akuphumelelanga">
-<!ENTITY connectionFailure.longDesc "<p>Nangona isayithi ikhangeleka isebenza, ibhrawuza ayikwazanga ukufumana unxibelelwano.</p><ul><li>Ingaba isayithi ayifumaneki okwethutyana? Zama kwakhona kamva.</li><li> Ingaba akukwazi ukubhrawuza ezinye iisayithi?  Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli? Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Nangona isayithi ikhangeleka isebenza, ibhrawuza ayikwazanga ukufumana unxibelelwano.</p><ul><li>Ingaba isayithi ayifumaneki okwethutyana? Nceda uzame kamva.</li><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi?  Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli? Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Isiqhagamshelanisi Sithintelwe ngenxa Yezizathu Zokhuseleko">
 <!ENTITY deniedPortAccess.longDesc "<p>Idilesi eceliweyo icacise intambo yekhompyutha (umz.<q>mozilla.org:80</q> for port 80 on mozilla.org) edla ngokusetyenziselwa i-<em>other</em> kunokubhrawuza kwewebhu. Ibhrawuza isirhoxisile isicelo ngesizathu sokhuselo nokhuseleko lwakho.</p>">
@@ -26,10 +26,10 @@
 <!ENTITY malformedURI.longDesc "<p>Idilesi enikiweyo ayiyofomathi yamkelekileyo. Nceda ukhangele ibha yendawo kwiimpazamo uze uzame kwakhona.</p>">
 
 <!ENTITY netInterrupt.title "Kuphazamiseke Uthutho Lweenkcukacha">
-<!ENTITY netInterrupt.longDesc "<p>Ibhrawuza inxityelelwe ngempumelelo kodwa unxibelelwano luphazanyisiwe xa bekuthunyelwa inkcazelo.  Nceda uzame kwakhona.</p><ul><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi? Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Ibhrawuza inxityelelwe ngempumelelo kodwa unxibelelwano luphazanyisiwe xa bekuthunyelwa inkcazelo.  Nceda uzame kwakhona.</p><ul><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi? Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
 
 <!ENTITY notCached.title "Uxwebhu luphelelwe">
-<!ENTITY notCached.longDesc "<p>Uxwebhu olucelwayo alufumaneki kwimemori esisikhupheli yebhrawuza.</p><ul><li>Njengelinge lokhuseleko, ibhrawuza ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela uxwebhu kwiwebhusayithi.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Uxwebhu olucelwayo alufumaneki kwimemori esisikhupheli yebhrawuza.</p><ul><li>Njengelinge lokhuseleko, ibhrawuza ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo Engeyo Yakusebenza">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
@@ -46,13 +46,13 @@
 <!ENTITY netReset.longDesc "<p>Ikhonkco lenethiwekhi liphazanyisiwe xa bekuzanywa unxibelelwano. Nceda uzame kwakhona.</p>">
 
 <!ENTITY netTimeout.title "Umsebenzi wothungelwano Ugqithelwe Lixesha">
-<!ENTITY netTimeout.longDesc "<p>Isayithi ecelwayo ayiphendulanga kwisicelo sonxibelelwano kwane nebhrawuza iyekile ukulindela impendulo. </p><ul><li>Ingaba iseva ifumana umthwalo ongaphaya okanye ukucima kwethutyana?  Nceda uzame kamva.</li><li>ingaba akukwazi ukubhrawuza ezinye iisayithi? Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi ikhuselwe ludonga-mlilo okanye ngummeli?  Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Isayithi ecelwayo ayiphendulanga kwisicelo sonxibelelwano kwane nebhrawuza iyekile ukulindela impendulo. </p><ul><li>Ingaba iseva ifumana umthwalo ongaphaya okanye ukucima kwethutyana?  Nceda uzame kamva.</li><li>ingaba akukwazi ukubhrawuza ezinye iisayithi? Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli?  Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Yinkqubo Yomthetho Engaziwayo">
 <!ENTITY protocolNotFound.longDesc "<p>Idilesi icacise iprothokhol (umz. <q>wxyz://</q>) engamkelwayo yibhrawuza, ngoko ke ibhrawuza ayikwazi ukungena kakuhle kwisayithi. </p><ul><li>Ingaba uzama ukufikelela kwimalthimidiya okanye kwezinye iinkonzo ezingengombhalo? Khangela isayithi ngeemfuno ezingaphezulu.</li><li>Ezinye iiprothokhol zingafuna isoftwe okanye iisoftwe ezincedisayo zeqela lesithathu phambi kokuba zibe nokwamkelwa yibhrawuza.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Iseva Engummeli Yale Umdibaniso">
-<!ENTITY proxyConnectFailure.longDesc "<p>Ibhrawuza ilungiselelwe ukusebenzisa iseva yommeli kodwa ummeli ulwalile unxibelelwano.</p><ul><li>Ingaba ulungiselelo lommeli webhrawuza lumi kakuhle? Khangela iisethingi uze uqale kwakhona.</li><li>Ingaba inkonzo yommeli iyaluvumela unxibelelwano kule nethiwekhi?</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Ibhrawuza ilungiselelwe ukusebenzisa iseva yommeli kodwa ummeli ulwalile unxibelelwano.</p><ul><li>Ingaba ulungiselelo lommeli webhrawuza lulungile? Khangela iisethingi uze uzame kwakhona.</li><li>Ingaba inkonzo yommeli iyaluvumela unxibelelwano kule nethiwekhi?</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Iseva Yommeli Ayifunyenwanga">
 <!ENTITY proxyResolveFailure.longDesc "<p>Ibhrawuza ilungiselelwe ukusebenzisa iseva yommeli kodwa ummeli akafumaneki.</p><ul><li>Ingaba ulungiselelo lommeli webhrawuza lulungile? Khangela iisethingi uze uzame kwakhona.</li><li>Ingaba ikhompyutha inxibeleleke kwinethiwekhi esebenzayo?</li><li>Usenengxaki? Dibana nomlawuli wenethiwekhi okanye umnikezeli weintanethi ufumane uncedo.</li></ul>">
@@ -72,19 +72,19 @@
 <li>Ukuba wakha wanxibelelana kule seva ngempumelelo ngaphambili, imposiso isenokuba yeyethutyana kwaye ungazama kwakhona kamva.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Isayithi yohlaselo ekrokrelwayo!">
-<!ENTITY malwareBlocked.longDesc "<p>Iisayithi zohlaselo zizama ukufakela iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlasela ezinye okanye zonakalise ikhompyutha yakho.</p> 
-<p>Abanini beewebhusayithi abakholelwa ukuba isayithi yabo ichazwe njengesayithi yohlaselo ngempazamo  <a href='http://www.stopbadware.org/home/reviewinfo' >bangcela ukuba ihlolwe kwakhona</a>.</p>">
+<!ENTITY malwareBlocked.title "Isayithi yohlaselo ekrokrelekayo!">
+<!ENTITY malwareBlocked.longDesc "<p>Iisayithi zohlaselo zizama ukufakela iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlazela ezinye okanye zonakalise ikhompyutha yakho.</p> 
+<p>Abanini bewebhusayithi abakholelwa ukuba isayithi yabo ichazwe njengesayithi yohlaselo ngempazamo  <a href='http://www.stopbadware.org/home/reviewinfo' >bangacela ukuba ijongwe kwakhona</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Inkohliso yewebhu ekrokrelwayo!">
-<!ENTITY phishingBlocked.longDesc "<p>Ukungeniswa kweenkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
-<p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kubuqhinga obaziwa njengohlaselo lokwenza ubuqhinga, apho amakhasi ewebhu neeimeyile zobuqhetseba zisetyenziswa njengezinokuthenjwa.</p>">
+<!ENTITY phishingBlocked.title "Inkohliso yewebhu ekrokrelekayo!">
+<!ENTITY phishingBlocked.longDesc "<p>Ukungenisa naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.</p> 
+<p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengeqhinga lokufumana iinkcukacha apho amakhasi ewebhu neeimeyile zisetyenziswa ngokufana nemithombo onokuyithemba.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Ithintelwe ngumGaqonkqubo woKhuselo lomXholo">
+<!ENTITY cspFrameAncestorBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ibhrawuza ilithintele eli khasi ekulayisheni ngale ndlela kuba ikhasi linomgaqo wokhuselo lomxholo elingakuvumeliyo.</p>">
 
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
-<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso  ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">

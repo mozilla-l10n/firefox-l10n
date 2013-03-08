@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "Umiselo Lwekhasi">
 
-<!ENTITY basic.tab           "Ulungiselelo &amp; Ekukhethwa kuko">
+<!ENTITY basic.tab           "Fomatha &amp; Ekukhethwa kuko">
 
 <!ENTITY formatGroup.label   "Ufomatho">
 
@@ -20,15 +20,15 @@
 <!ENTITY scale.accesskey     "I">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Nciphisa ukulinganisela uBubanzi bePhepha">
+<!ENTITY shrinkToFit.accesskey "b">
 
 <!ENTITY optionsGroup.label  "Ekunokukhethwa kuko">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "Printa indawo engaseMva (imibala &amp; imifanekiso)">
+<!ENTITY printBG.accesskey   "i">
 
-<!ENTITY advanced.tab        "Imida &amp; Okubhalwe Ngasentla/Okubhalwe Ngasezantsi Ekhasini">
+<!ENTITY advanced.tab        "Imida &amp; iiHeda/iiFuta">
 
 <!ENTITY marginGroup.label   "Imida (#1)">
 <!ENTITY marginUnits.inches  "ii-intshi">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "Right:">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Okubhalwe ngasentla ekhasini &amp; Okubhalwe Ngasezantsi Ekhasini">
+<!ENTITY headerFooter.label  "Iiheda &amp; iiFuta">
 
 <!ENTITY hfLeft.label        "Ekhohlo:">
 <!ENTITY hfCenter.label      "Esizikithini:">

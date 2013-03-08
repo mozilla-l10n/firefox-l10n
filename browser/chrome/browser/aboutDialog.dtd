@@ -19,7 +19,7 @@
 
 <!ENTITY community.start2           "I-&brandShortName; iyilwe ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "yi-vendorShortName">
+<!ENTITY community.mozillaLink      "yi-&vendorShortName;">
 <!ENTITY community.middle2          ", uluntu ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "lwehlabathi">
@@ -53,7 +53,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Update failed. ">
+<!ENTITY update.failed.start        "Uhlaziyo aluphumelelanga. ">
 <!ENTITY update.failed.linkText     "Khuphela inguqulelo yamva">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end

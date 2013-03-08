@@ -17,8 +17,8 @@
 
 <!ENTITY browsing.label                  "Ukubhrawuza">
 
-<!ENTITY useAutoScroll.label             "Use autoscrolling">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.label             "Sebenzisa ukusikrola ngokuzenzekelayo">
+<!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukuhambahamba kokubhaliweyo okugudileyo">
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka">
@@ -34,24 +34,24 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Okukhethwayo kwengcombolo">
 
 <!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho nge-&vendorShortName; malungi nempilo yebhrawuza yakho">
 <!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Learn More">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY telemetrySection.label          "Ithelemetri">
+<!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ene-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
 <!ENTITY enableTelemetry.label           "Enable Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Learn More">
 
 <!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ingenisa iingxelo zokonakala ukunceda i-&vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
+<!ENTITY enableCrashReporter.label       "Yenza sisebenze isiNiki-Ngxelo soMonakalo">
+<!ENTITY enableCrashReporter.accesskey   "i">
 <!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
@@ -102,8 +102,8 @@
 <!ENTITY useService.accesskey            "y">
 
 <!ENTITY updateOthers.label              "Uhlaziyo oluzenzekelayo:">
-<!ENTITY enableSearchUpdate.label        "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+<!ENTITY enableSearchUpdate.label        "IiNjini zokukhangela">
+<!ENTITY enableSearchUpdate.accesskey    "N">
 
 <!ENTITY offlineNotify.label             "Ndixelele xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
 <!ENTITY offlineNotify.accesskey         "N">
@@ -114,7 +114,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Remove…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Susa iingcombolo zangaphandle kwenethiwekhi">
+<!ENTITY offlineAppRemove.confirm        "Shenxisa ingcombolo yangaphandle kweintanethi">
 
 <!ENTITY encryptionTab.label             "Uguqulelo oluntsonkothileyo">
 
@@ -126,7 +126,7 @@
 <!ENTITY certificates.label              "Izatifikethi">
 <!ENTITY certSelection.description       "Xa iseva icela isatifikethi sam">
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
-<!ENTITY certs.auto.accesskey            "1">
+<!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Ndibuze ngawo onke amaxesha">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "View Certificates">

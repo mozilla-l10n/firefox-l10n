@@ -8,7 +8,7 @@
 <!ENTITY content.title                             "Isiqulatho">
 <!ENTITY reflowZoom.title                          "Fomatha kwakhona umbhalo kwizum">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
+<!ENTITY enableJavaScript.title                    "Yenza isebenze i-JavaScript">
 <!ENTITY privacy.title                             "Privacy &amp; Security">
 <!ENTITY allowCookies.title                        "Vumela iikhukhi">
 <!ENTITY doNotTrack.title                          "Xelela iisayithi zingalandi umkhondo wam">
@@ -17,12 +17,12 @@
 <!ENTITY clearPrivateData.button                   "Clear">
 <!ENTITY rememberPasswords.title                   "Remember passwords">
 <!ENTITY language.title                            "Ulwimi">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY language.auto                             "Fumana ngokuzenzekelayo">
 <!ENTITY defaultBrowser.title                      "Isikhangeli Esihlala Sikho">
 <!ENTITY defaultBrowser.description                "Yenza i-&brandShortName; ibhrawuza esisiseko yakho">
 <!ENTITY homepage.title                            "Qalisa ikhasi">
 <!ENTITY homepage.none                             "Ikhasi elingenanto">
 <!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
+<!ENTITY homepage.currentpage                      "Sebenzisa iPhepha Langoku">
 <!ENTITY showCharsetEncoding.title                 "Bonisa ukukhowuda kwekharakhtha">
 <!ENTITY actionbar.default                         "Iisethingi ze-&brandShortName;">

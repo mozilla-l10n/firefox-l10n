@@ -7,8 +7,8 @@
 
 <!ENTITY allowScripts.label             "Vumela izikript oku:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
-<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "Hambisa okanye uzisayize ngokutsha iiwindow ezizivelelayo">
+<!ENTITY moveResizePopupWindows.accesskey "H">
 <!ENTITY raiseLowerWindows.label        "Nyusa okanye thoba iifestile">
 <!ENTITY raiseLowerWindows.accesskey    "N">
 <!ENTITY disableContextMenus.label      "Qhwalelisa okanye faka nto yimbi endaweni yeemenyu zomxholo">

@@ -6,33 +6,33 @@
 
 <!ENTITY printJobOptions.title "Iinkcazelo Ngeempawu Zezishicileli">
 
-<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.label "Ubungakanani bePhepha:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex mode:">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY plexInput.label "Imowudi yePleksi:">
+<!ENTITY plexInput.accesskey "I">
 
-<!ENTITY resolutionInput.label "Resolution/Quality:">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY resolutionInput.label "IRizolushini/iKhwalithi:">
+<!ENTITY resolutionInput.accesskey "i">
 
-<!ENTITY cmdInput.label "Print Command:">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.label "Umyalelo wePrinta:">
+<!ENTITY cmdInput.accesskey "y">
 
 <!ENTITY jobTitleInput.label "Job Title:">
 <!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Umbala:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.label "iGreysikali">
+<!ENTITY grayRadio.accesskey "i">
 <!ENTITY colorRadio.label "Color">
 <!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
-<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY colorspaceInput.label "Umbala wesithuba:">
+<!ENTITY colorspaceInput.accesskey "w">
 
 <!ENTITY fontsGroup.label "Iifonti:">
-<!ENTITY downloadFonts.label "Download fonts to printer">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.label "Khuphela iifonti kwiprinta">
+<!ENTITY downloadFonts.accesskey "K">
 
 <!ENTITY edgeMarginInput.label "Isithuba ukusuka ekupheleni kwephepha ukuya kuMda">
 <!ENTITY topInput.label "Top:">

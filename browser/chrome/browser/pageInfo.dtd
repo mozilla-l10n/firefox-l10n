@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "I-URL Ebhekisayo:">
 <!ENTITY  generalSource         "Umthombo kavimba wethutyana:">
 <!ENTITY  generalModified       "Uhlengahlengisiwe:">
-<!ENTITY  generalEncoding       "Kufakwa iikhowudi:">
+<!ENTITY  generalEncoding       "Ukujikela kumbhalo wekhowudi:">
 <!ENTITY  generalMetaName       "Igama">
 <!ENTITY  generalMetaContent    "Isiqulatho">
 <!ENTITY  generalSecurityDetails   "Iinkcukacha">
@@ -34,7 +34,7 @@
 <!ENTITY  mediaText             "Umbhalo onxulumeneyo">
 <!ENTITY  mediaAltHeader        "Isiqendu Esisesinye">
 <!ENTITY  mediaAddress          "Idilesi">
-<!ENTITY  mediaType             "Isimbo">
+<!ENTITY  mediaType             "Chwetheza">
 <!ENTITY  mediaSize             "Size">
 <!ENTITY  mediaCount            "Bala">
 <!ENTITY  mediaDimension        "Dimensions:">
@@ -83,7 +83,7 @@
 <!ENTITY  securityView.identity.domain   "Website:">
 <!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
-<!ENTITY  securityView.privacy.header                   "Ii-amp zobungasese: imbali">
+<!ENTITY  securityView.privacy.header                   "Ubungasese amp: imbali">
 <!ENTITY  securityView.privacy.history                  "Ndikhe ndayityelela le webhusayithi phambi kwanamhlanje?">
 <!ENTITY  securityView.privacy.cookies                  "Ingaba le webhusayithi igcina inkcazelo (iikhukhi) kwikhompyutha yam?">
 <!ENTITY  securityView.privacy.viewCookies              "View Cookies">

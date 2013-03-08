@@ -16,9 +16,7 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Imilinganiselo elula">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "  Mva ibhala">
 
 <!ENTITY aboutTelemetry.systemInfoSection "  Inkcazelo yenkqubo">
 

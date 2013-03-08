@@ -6,12 +6,12 @@
 <!ENTITY playButton.pauseLabel "Isiqabu">
 <!ENTITY muteButton.muteLabel "Thulisa isandi">
 <!ENTITY muteButton.unmuteLabel "Vuselela isandi">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Isikrini esiZeleyo">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Phuma kwisikrin esipheleleyo">
 
 <!ENTITY stats.media "Izilondolozi">
 <!ENTITY stats.size "Ubukhulu">
-<!ENTITY stats.activity "Activity">
+<!ENTITY stats.activity "Umsebenzi">
 <!ENTITY stats.activityPaused "Paused">
 <!ENTITY stats.activityPlaying "Ukudlala">
 <!ENTITY stats.activityEnded "Yaphela">
