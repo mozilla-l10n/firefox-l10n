@@ -22,7 +22,7 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "मूल्यांकित करें">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter.label       "Filter">
+<!ENTITY filter.label       "फ़िल्टर (F)">
 <!ENTITY filter.accesskey   "F">
 
 <!ENTITY copyCmd.label       "नक़ल करें">  
