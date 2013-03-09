@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Sidens titel:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Angiv sidens titel. Titlen bruges bl.a. i bogmærker og på faneblade.">
-<!ENTITY pageTitleExample.label       "f.eks. &quot;Min hjemmeside&quot;">
+<!ENTITY pageTitleExample.label       "fx &quot;Min hjemmeside&quot;">
 <!ENTITY filename.label               "Filnavn:">
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Angiv et filnavn, inklusive filtype">
-<!ENTITY filenameExample.label        "f.eks. &quot;Min hjemmeside.html&quot;">
+<!ENTITY filenameExample.label        "fx &quot;Min hjemmeside.html&quot;">
 <!ENTITY setDefaultButton.label       "Brug som standard">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Fjern sted">
@@ -47,11 +47,11 @@
 <!ENTITY loginInfo.label              "Log-in-information">
 <!ENTITY siteName.label               "Stedets navn:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "Et valgfrit navn til at identificere stedet, f.eks. &quot;Familiesiden&quot;">
-<!ENTITY siteUrl.label                "Overførselsadresse (f.eks. &quot;ftp://ftp.minhjemmeside.dk&quot;):">
+<!ENTITY siteName.tooltip             "Et valgfrit navn til at identificere stedet, fx &quot;Familiesiden&quot;">
+<!ENTITY siteUrl.label                "Overførselsadresse (fx &quot;ftp://ftp.minhjemmeside.dk&quot;):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Den FTP://- eller HTTP://-adresse som du har fået oplyst af dit webhotel">
-<!ENTITY browseUrl.label              "Din hjemmesides adresse (f.eks. &quot;http://www.minhjemmeside.dk&quot;):">
+<!ENTITY browseUrl.label              "Din hjemmesides adresse (fx &quot;http://www.minhjemmeside.dk&quot;):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "HTTP://-adressen til din mappe på serveren">
 <!ENTITY username.label               "Brugernavn:">

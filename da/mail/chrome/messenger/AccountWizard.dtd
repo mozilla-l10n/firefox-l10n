@@ -23,7 +23,7 @@
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
 <!ENTITY fullnameDesc.label "Indtast det navn du gerne vil have vist i &quot;Fra&quot; feltet i de meddelelser du sender">
-<!ENTITY fullnameExample.label "(f.eks. &quot;Jens Hansen&quot;).">
+<!ENTITY fullnameExample.label "(fx &quot;Jens Hansen&quot;).">
 <!ENTITY fullnameLabel.label "Dit navn:">
 <!ENTITY fullnameLabel.accesskey "n">
 <!ENTITY emailLabel.label "Mailadresse:">
@@ -32,16 +32,16 @@
 <!-- Entities for Server page -->
 <!ENTITY incomingTitle.label "Oplysninger om indgående server">
 <!ENTITY incomingServerTypeDesc.label "Vælg typen på din indgående server.">
-<!ENTITY incomingServer.description "Indtast navnet på din indgående server (f.eks. &quot;mail.eksempel.dk&quot;).">
+<!ENTITY incomingServer.description "Indtast navnet på din indgående server (fx &quot;mail.eksempel.dk&quot;).">
 <!ENTITY incomingServer.label "Indgående server:">
 <!ENTITY incomingServer.accesskey "S">
 
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Indtast det brugernavn for indgående server, som din mailudbyder har oplyst dig (f.eks., &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.description "Indtast det brugernavn for indgående server, som din mailudbyder har oplyst dig (fx &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Indgående brugernavn:">
 <!ENTITY incomingUsername.accesskey "b">
 
-<!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (f.eks. &quot;news.eksempel.dk&quot;).">
+<!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (fx &quot;news.eksempel.dk&quot;).">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -96,7 +96,7 @@
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Kontonavn">
-<!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (f.eks. &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
+<!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (fx &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
 <!ENTITY accnameLabel.label "Kontonavn:">
 <!ENTITY accnameLabel.accesskey "n">
 

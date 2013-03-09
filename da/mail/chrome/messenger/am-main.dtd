@@ -20,7 +20,7 @@
 <!ENTITY signatureFile.accesskey "f">
 <!ENTITY signatureText.label "Tekstsignatur:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "Brug HTML (f.eks. &lt;b&gt;fed&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Brug HTML (fx &lt;b&gt;fed&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY edit.label "Rediger…">
 <!ENTITY choose.label "Vælg…">
