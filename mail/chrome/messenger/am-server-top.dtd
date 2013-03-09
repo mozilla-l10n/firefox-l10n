@@ -59,8 +59,8 @@
 <!ENTITY newsrcFilePath.label "newsrc fil:">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY abbreviate.label "Vis nyhedsgruppenavne i mappeoversigten som:">
-<!ENTITY abbreviateOn.label "Fulde navne (f.eks. &quot;netscape.public.mozilla.mail-news&quot;)">
-<!ENTITY abbreviateOff.label "Forkortede navne (f.eks. &quot;n.p.m.mail-news&quot;)">
+<!ENTITY abbreviateOn.label "Fulde navne (fx &quot;netscape.public.mozilla.mail-news&quot;)">
+<!ENTITY abbreviateOff.label "Forkortede navne (fx &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Avanceret…">
 <!ENTITY serverDefaultCharset.label "Standardtegnkodning:">
 <!ENTITY advancedButton.accesskey "A">

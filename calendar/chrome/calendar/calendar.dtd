@@ -323,7 +323,7 @@
 <!ENTITY calendar.publish.publish.button "Udgiv">
 <!ENTITY calendar.publish.close.button "Luk">
 
-<!ENTITY calendar.publish.example.url.description "F.eks. http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description "Fx http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title "Vælg kalender">
