@@ -351,7 +351,7 @@
 <!ENTITY mediaUnmute.label "Attiva audio">
 <!ENTITY mediaUnmute.accesskey "A">
 <!ENTITY mediaPlaybackRate.label "Velocità riproduzione">
-<!ENTITY mediaPlaybackRate.accesskey "V">
+<!ENTITY mediaPlaybackRate.accesskey "z">
 <!ENTITY mediaPlaybackRate050x.label "Lenta (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "L">
 <!ENTITY mediaPlaybackRate100x.label "Normale">
