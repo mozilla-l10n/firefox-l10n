@@ -18,6 +18,7 @@
 <!ENTITY links.label "Chování odkazů">
 <!ENTITY offline.label "Režim offline">
 <!ENTITY security.label "Soukromí a zabezpečení">
+<!ENTITY privatedata.label "Důvěrná data">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Obrázky">
 <!ENTITY popups.label "Vyskakovací okna">
