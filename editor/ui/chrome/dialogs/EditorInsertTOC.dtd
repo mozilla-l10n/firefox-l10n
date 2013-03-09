@@ -1,14 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - The Original Code is TOCMaker.
-   - The Initial Developer of the Original Code is
-   - Daniel Glazman.
-   - Portions created by the Initial Developer are Copyright (C) 2002
-   - the Initial Developer. All Rights Reserved.
-   - Contributor(s):
-   -   Original author: Daniel Glazman (daniel@glazman.org)
- 
+
 <!ENTITY Window.title "Índice de conteúdo">
 <!ENTITY buildToc.label "Construir índice a partir de:">
 <!ENTITY tag.label "Etiqueta:">

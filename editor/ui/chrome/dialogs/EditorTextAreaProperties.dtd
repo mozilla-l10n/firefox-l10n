@@ -1,14 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
 
 <!ENTITY windowTitle.label "Propriedades da área de texto">
+
 <!ENTITY Settings.label "Definições">
+
 <!ENTITY TextAreaName.label "Nome do campo:">
 <!ENTITY TextAreaName.accessKey "N">
 <!ENTITY TextAreaRows.label "Linhas:">
@@ -25,6 +22,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "h">
 <!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
+
 <!ENTITY TextAreaWrap.label "Translineação:">
 <!ENTITY TextAreaWrap.accessKey "s">
 <!ENTITY WrapDefault.value "Pré-definido">

@@ -1,13 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
- 
+
 <!ENTITY windowTitle.label "Propriedades da lista de seleção">
+
 <!ENTITY Select.label "Lista de seleção">
 <!ENTITY SelectName.label "Nome da lista:">
 <!ENTITY SelectName.accesskey "N">
@@ -19,11 +15,13 @@
 <!ENTITY SelectDisabled.accesskey "v">
 <!ENTITY SelectTabIndex.label "Índice de tabulação:">
 <!ENTITY SelectTabIndex.accesskey "i">
+
 <!ENTITY OptGroup.label "Opções de grupo">
 <!ENTITY OptGroupLabel.label "Etiqueta:">
 <!ENTITY OptGroupLabel.accesskey "t">
 <!ENTITY OptGroupDisabled.label "Inativo">
 <!ENTITY OptGroupDisabled.accesskey "I">
+
 <!ENTITY Option.label "Opções">
 <!ENTITY OptionText.label "Texto:">
 <!ENTITY OptionText.accesskey "T">
@@ -33,9 +31,11 @@
 <!ENTITY OptionSelected.accesskey "S">
 <!ENTITY OptionDisabled.label "Inativo">
 <!ENTITY OptionDisabled.accesskey "I">
+
 <!ENTITY TextHeader.label "Texto">
 <!ENTITY ValueHeader.label "Valor">
 <!ENTITY SelectedHeader.label "Selecionado">
+
 <!ENTITY AddOption.label "Adicionar opção">
 <!ENTITY AddOption.accesskey "o">
 <!ENTITY AddOptGroup.label "Adicionar grupo">

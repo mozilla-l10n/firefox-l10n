@@ -1,18 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - The Original Code is Mozilla.org.
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2003
-   - the Initial Developer. All Rights Reserved.
-   - Contributor(s):
-   -   Daniel Glazman (glazman@netscape.com) (Original author)
- 
+
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Alinhar à grelha">
+
 <!ENTITY enableSnapToGrid.label "Ativar alinhamento à grelha">
 <!ENTITY enableSnapToGrid.accessKey "A">
+
 <!ENTITY sizeEditField.label "Tamanho:">
 <!ENTITY sizeEditField.accessKey "T">
-<!ENTITY pixelsLabel.value "pixeis">
+
+<!ENTITY pixelsLabel.value "pixéis">
