@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Ljud på">
 <!ENTITY mediaUnmute.accesskey       "L">
+<!ENTITY mediaPlaybackRate.label     "Uppspelningshastighet">
+<!ENTITY mediaPlaybackRate.accesskey "U">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "M">
+<!ENTITY mediaPlaybackRate100x.label "Normal">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Snabb (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "b">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Löjligt snabb (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "ö">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
