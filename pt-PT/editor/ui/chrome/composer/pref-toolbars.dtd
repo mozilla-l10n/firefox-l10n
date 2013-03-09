@@ -1,10 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
 
 <!ENTITY pref.toolbars.title "Barras de ferramentas">
+
 <!ENTITY composition.caption "Mostrar estes botões na barra de ferramentas de composição:">
+
 <!ENTITY new.label "Nova">
 <!ENTITY open.label "Abrir">
 <!ENTITY save.label "Guardar">
@@ -20,7 +21,9 @@
 <!ENTITY table.label "Tabela">
 <!ENTITY link.label "Ligação">
 <!ENTITY anchor.label "Âncora">
+
 <!ENTITY formatting.caption "Mostrar estes botões na barra de ferramentas de formatação:">
+
 <!ENTITY smaller.label "Menor">
 <!ENTITY larger.label "Maior">
 <!ENTITY bold.label "Negrito">
@@ -30,6 +33,7 @@
 <!ENTITY outdent.label "Recuar">
 <!ENTITY indent.label "Avançar">
 <!ENTITY underline.label "Sublinhado">
+
 <!ENTITY absolutePosition.label "Posicionamento absoluto">
 <!ENTITY decreaseZIndex.label "Enviar para trás">
 <!ENTITY increaseZIndex.label "Enviar para frente">

@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
 
 <!ENTITY windowTitle.label "Propriedades de campo do formulário">
 <!ENTITY windowTitleImage.label "Propriedades de imagem do formulário">
+
 <!ENTITY InputType.label "Tipo">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
@@ -17,6 +17,7 @@
 <!ENTITY hidden.value "Oculto">
 <!ENTITY image.value "Imagem">
 <!ENTITY button.value "Botão">
+
 <!ENTITY InputSettings.label "Definições do campo">
 <!ENTITY InputName.label "Nome do campo:">
 <!ENTITY InputName.accesskey "N">
@@ -44,5 +45,6 @@
 <!ENTITY AccessKey.accesskey "h">
 <!ENTITY Accept.label "Tipos aceites:">
 <!ENTITY Accept.accesskey "a">
+
 <!ENTITY ImageProperties.label "Propriedades da imagem...">
 <!ENTITY ImageProperties.accesskey "R">

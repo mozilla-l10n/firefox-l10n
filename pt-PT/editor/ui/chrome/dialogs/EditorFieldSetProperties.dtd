@@ -1,15 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - The Initial Developer of the Original Code is
-   - Neil Rashbrook.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
 
 <!ENTITY windowTitle.label "Propriedades dos campos">
+
 <!ENTITY Legend.label "Legenda">
 <!ENTITY Legend.accesskey "L">
+
 <!ENTITY EditLegendText.label "Editar legenda:">
 <!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Alinhar legenda:">
@@ -18,5 +15,6 @@
 <!ENTITY AlignLeft.label "Esquerda">
 <!ENTITY AlignCenter.label "Centro">
 <!ENTITY AlignRight.label "Direita">
+
 <!ENTITY RemoveFieldSet.label "Remover campo">
 <!ENTITY RemoveFieldSet.accesskey "R">

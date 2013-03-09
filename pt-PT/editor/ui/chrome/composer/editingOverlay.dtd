@@ -1,14 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -   Charles Manske (cmanske@netscape.com)
-   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
 
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Abrir Ficheiro...">
