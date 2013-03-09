@@ -6,10 +6,10 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Permetti pop-up da questo sito">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
-<!ENTITY openLinkCmd.label "Apri in nuova finestra">
-<!ENTITY openLinkCmd.accesskey "A">
 <!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "h">
+<!ENTITY openLinkCmd.label "Apri in nuova finestra">
+<!ENTITY openLinkCmd.accesskey "A">
 <!ENTITY openLinkCmdInPrivateWindow.label "Apri in finestra anonima">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "r">
 <!ENTITY openLinkInWindowCmd.label "Apri">

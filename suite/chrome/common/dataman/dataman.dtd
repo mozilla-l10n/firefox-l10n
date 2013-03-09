@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dataman.windowTitle "Gestione dati moduli">
 <!ENTITY selectAll.key "u">
 <!ENTITY select.all.label "Tutti i tipi di dato">
@@ -8,6 +9,7 @@
 <!ENTITY select.permissions.label "Solo permessi">
 <!ENTITY select.preferences.label "Solo preferenze">
 <!ENTITY select.passwords.label "Solo password">
+<!ENTITY select.storage.label "">
 <!ENTITY domain.search.placeholder "Cerca nei domini">
 <!ENTITY domain.search.key "d">
 <!ENTITY domain.tree.domain.label "Dominio">
@@ -20,6 +22,7 @@
 <!ENTITY tab.permissions.label "Permessi">
 <!ENTITY tab.preferences.label "Preferenze">
 <!ENTITY tab.passwords.label "Password">
+<!ENTITY tab.storage.label "">
 <!ENTITY tab.formdata.label "Dati moduli">
 <!ENTITY tab.forget.label "Dimentica">
 <!ENTITY cookies.description "Questo dominio ha memorizzato i seguenti cookie sul tuo computer:">
@@ -74,6 +77,16 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "S">
 <!ENTITY pwd.button.remove.label "Elimina">
 <!ENTITY pwd.button.remove.accesskey "E">
+<!ENTITY storage.description "">
+<!ENTITY storage.tree.host.label "">
+<!ENTITY storage.tree.type.label "">
+<!ENTITY storage.tree.size.label "">
+<!ENTITY storage.ctx.remove.label "">
+<!ENTITY storage.ctx.remove.accesskey "">
+<!ENTITY storage.ctx.selectAll.label "">
+<!ENTITY storage.ctx.selectAll.accesskey "">
+<!ENTITY storage.button.remove.label "">
+<!ENTITY storage.button.remove.accesskey "">
 <!ENTITY fdata.search.placeholder "Cerca nei dati dei moduli">
 <!ENTITY fdata.tree.fieldname.label "Nome campo">
 <!ENTITY fdata.tree.value.label "Valore inserito">
@@ -94,6 +107,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Password">
 <!ENTITY forget.passwords.accesskey "P">
+<!ENTITY forget.storage.label "">
+<!ENTITY forget.storage.accesskey "">
 <!ENTITY forget.formdata.label "Dati moduli">
 <!ENTITY forget.formdata.accesskey "D">
 <!ENTITY forget.button.label "Dimentica questi dati">
