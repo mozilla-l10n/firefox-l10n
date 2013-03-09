@@ -5,16 +5,17 @@
 <!ENTITY systemIntegration.title  "Integração do sistema">
 <!ENTITY acceptIntegration.label  "Definir como padrão">
 <!ENTITY cancelIntegration.label  "Saltar integração">
+<!ENTITY cancelIntegration2.label  "Cancelar">
 <!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente pré-definido para:">
 
-<!ENTITY email.label "Correio electrónico">
+<!ENTITY email.label "Correio eletrónico">
 <!ENTITY newsgroups.label "Grupos de discussão">
 <!ENTITY feeds.label "Fontes">
 
-<!ENTITY unsetDefault.tooltip "Não é possível anulara seleção do &brandShortName; como o cliente pré-definido do &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o seu diálogo de 'Definir como pré-definido'.">
+<!ENTITY unsetDefault.tooltip "Não é possível anular a seleção do &brandShortName; como o cliente pré-definido do &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o seu diálogo de 'Definir como pré-definido'.">
 
 <!ENTITY checkOnStartup.label "Fazer sempre esta verificação ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "F">
 
-<!ENTITY searchIntegration.label "Permitir a &searchIntegration.engineName; para pesquisar mensagens">
+<!ENTITY searchIntegration.label "Autorizar o &searchIntegration.engineName; para pesquisar mensagens">
 <!ENTITY searchIntegration.accesskey "P">
