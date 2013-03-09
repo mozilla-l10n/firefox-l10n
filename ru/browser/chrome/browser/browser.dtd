@@ -350,6 +350,16 @@
 <!ENTITY mediaMute.accesskey "т">
 <!ENTITY mediaUnmute.label "Восстановить звук">
 <!ENTITY mediaUnmute.accesskey "т">
+<!ENTITY mediaPlaybackRate.label "Скорость воспроизведения">
+<!ENTITY mediaPlaybackRate.accesskey "к">
+<!ENTITY mediaPlaybackRate050x.label "Замедленное движение (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "м">
+<!ENTITY mediaPlaybackRate100x.label "Нормальная скорость">
+<!ENTITY mediaPlaybackRate100x.accesskey "о">
+<!ENTITY mediaPlaybackRate150x.label "Высокая скорость (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "ы">
+<!ENTITY mediaPlaybackRate200x.label "Безумная скорость (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "з">
 <!ENTITY mediaShowControls.label "Показать пульт управления">
 <!ENTITY mediaShowControls.accesskey "п">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
