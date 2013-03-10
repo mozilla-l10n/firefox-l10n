@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "Synchronizácia">
+
+<!ENTITY syncHeader.title           "Synchronizácia">
 <!ENTITY sync.notconnected          "Nepripojené">
 <!ENTITY sync.connect               "Pripojiť">
 <!ENTITY sync.connected             "Pripojené">
-<!ENTITY sync.details               "Podrobnosti">
 <!ENTITY sync.deviceName            "Toto zariadenie">
 <!ENTITY sync.disconnect            "Odpojiť">
 <!ENTITY sync.syncNow               "Synchronizovať">

@@ -24,7 +24,7 @@
 
 <!ENTITY downloadHistory.label          "História prevzatých súborov">
 <!ENTITY removeEntries.label            "Záznamy o preberaných súboroch odstraňovať:">
-<!ENTITY removeEntries.accesskey        "r">
+<!ENTITY removeEntries.accesskey        "m">
 <!ENTITY whenCompleted.label            "po ich prevzatí">
 <!ENTITY whenQuittingApp.label          "pri ukončení &brandShortName;">
 <!ENTITY neverRemove.label              "nikdy">
