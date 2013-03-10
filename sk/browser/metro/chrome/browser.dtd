@@ -7,8 +7,6 @@
 
 <!ENTITY back.label            "Naspäť">
 <!ENTITY forward.label         "Dopredu">
-
-<!ENTITY toggleTabsOnly.label  "Vždy zobrazovať karty">
 <!ENTITY showTabs.label        "Zobraziť karty">
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
@@ -39,15 +37,6 @@
 
 <!ENTITY bookmarksHeader.label     "Záložky">
 <!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
-
-<!ENTITY identity.unverifiedsite2 "Táto webová stránka neposkytuje informácie o identite.">
-<!ENTITY identity.connectedTo2 "Pripojené k">
-<!-- Localization note (identity.runBy2)
- The layout of the identity dialog prevents combining this into a single string with
- substitution variables.  If it is difficult to translate the sense of the string
- with that structure, consider a translation which ignores the preceding domain and
- just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "Spravuje ju">
 
 <!ENTITY consoleHeader.label       "Chybová konzola">
 <!ENTITY consoleAll.label          "Všetko">
@@ -86,7 +75,3 @@
 <!ENTITY contextSaveVideoLib.label         "Uložiť video do Knižnice">
 <!ENTITY contextCopyVideoLocation.label    "Kopírovať umiestnenie videa">
 <!ENTITY contextOpenVideoTab.label         "Otvoriť video na novej karte">
-
-<!ENTITY pageactions.password.forget "Zabudnúť heslo">
-<!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
-<!ENTITY pageactions.charEncoding    "Kódovanie znakov">

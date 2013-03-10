@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Zásady akceptovania cookies">
 
-<!ENTITY accAllCookiesRadio.label       "Povoliť všetky cookies">
-<!ENTITY accAllCookiesRadio.accesskey   "v">
-
-<!ENTITY accOrgCookiesRadio.label       "Povoliť len cookies z pôvodného servera">
-<!ENTITY accOrgCookiesRadio.accesskey   "e">
-
 <!ENTITY disableCookies.label           "Blokovať cookies">
 <!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY accNo3rdPartyCookies.label     "Povoliť len cookies z pôvodného servera (nie cookies tretích strán)">
+<!ENTITY accNo3rdPartyCookies.accesskey "e">
+
+<!ENTITY acc3rdPartyVisited.label       "Povoliť cookies tretích strán len pre v minulosti navštívené stránky">
+<!ENTITY acc3rdPartyVisited.accesskey   "m">
+
+<!ENTITY accAllCookies.label            "Povoliť všetky cookies">
+<!ENTITY accAllCookies.accesskey        "v">
 
 <!ENTITY cookieRetentionPolicy.label    "Zásady odmietnutia cookies">
 

@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Len povolenia">
 <!ENTITY select.preferences.label "Len nastavenia">
 <!ENTITY select.passwords.label "Len heslá">
+<!ENTITY select.storage.label "Len úložisko">
 
 <!ENTITY domain.search.placeholder "Hľadať v doménach">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Povolenia">
 <!ENTITY tab.preferences.label "Nastavenia">
 <!ENTITY tab.passwords.label "Heslá">
+<!ENTITY tab.storage.label "Úložisko">
 <!ENTITY tab.formdata.label "Údaje formulárov">
 <!ENTITY tab.forget.label "Zabudnúť">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Odstrániť">
 <!ENTITY pwd.button.remove.accesskey "d">
 
+<!-- storage -->
+<!ENTITY storage.description "Táto doména používa v tomto počítači nasledujúce webové úložiská:">
+
+<!ENTITY storage.tree.host.label "Webová stránka">
+<!ENTITY storage.tree.type.label "Typ">
+<!ENTITY storage.tree.size.label "Veľkosť">
+
+<!ENTITY storage.ctx.remove.label "Odstrániť">
+<!ENTITY storage.ctx.remove.accesskey "d">
+<!ENTITY storage.ctx.selectAll.label "Vybrať všetko">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Odstrániť">
+<!ENTITY storage.button.remove.accesskey "O">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Hľadať v poliach formulárov">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "N">
 <!ENTITY forget.passwords.label "Heslá">
 <!ENTITY forget.passwords.accesskey "H">
+<!ENTITY forget.storage.label "Úložisko">
+<!ENTITY forget.storage.accesskey "o">
 <!ENTITY forget.formdata.label "Údaje formulárov">
 <!ENTITY forget.formdata.accesskey "d">
 
