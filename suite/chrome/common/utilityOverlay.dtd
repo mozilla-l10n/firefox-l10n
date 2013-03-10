@@ -24,7 +24,7 @@
 <!ENTITY newNavigatorCmd.accesskey "O">
 <!ENTITY newPrivateWindowCmd.label "Súkromné okno">
 <!ENTITY newPrivateWindowCmd.key "P">
-<!ENTITY newPrivateWindowCmd.accesskey "S">
+<!ENTITY newPrivateWindowCmd.accesskey "m">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
