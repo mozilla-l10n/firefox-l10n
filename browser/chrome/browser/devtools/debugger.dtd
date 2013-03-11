@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Filtruoti kintamuosius">
 <!ENTITY debuggerUI.searchVariable.key  "k">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokusuoti kintamųjų medį">
+<!ENTITY debuggerUI.focusVariables.key  "k">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Šis stabdos taškas suveiks tik tuomet, jei bus tenkinama sąlyga">
