@@ -18,6 +18,7 @@
 <!ENTITY tabWindows.label            "Kortelės">
 <!ENTITY offline.label               "Darbas neprisijungus">
 <!ENTITY security.label              "Privatumas ir saugumas">
+<!ENTITY privatedata.label           "Privatieji duomenys">
 <!ENTITY cookies.label               "Slapukai">
 <!ENTITY images.label                "Paveikslai">
 <!ENTITY popups.label                "Iškylantieji langai">
