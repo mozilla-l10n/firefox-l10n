@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Başlangıç">
+
+<!ENTITY startupPage.label         "&brandShortName; açılanda:">
+<!ENTITY startupPage.accesskey     "a">
+<!ENTITY startupHomePage.label     "Giriş sayfamı göster">
+<!ENTITY startupBlankPage.label    "Boş bir səhifə göstər">
+<!ENTITY startupLastSession.label  "Son seansdakı pəncərə və vərəqləri göstər">
+
+<!ENTITY homepage.label            "Giriş sayfası:">
+<!ENTITY homepage.accesskey        "G">
+<!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
+<!ENTITY useCurrentPage.accesskey  "H">
+<!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
+<!ENTITY chooseBookmark.label      "Əlfəçin istifadə et">
+<!ENTITY chooseBookmark.accesskey  "e">
+<!ENTITY restoreDefault.label      "Standart vəziyyətə qaytar">
+<!ENTITY restoreDefault.accesskey  "S">
+
+<!ENTITY downloads.label     "Yükləmə">
+
+<!ENTITY showWhenDownloading.label     "Fayl yüklənərkən yükləmə səhifəsini göstər">
+<!ENTITY showWhenDownloading.accesskey "y">
+<!ENTITY closeWhenDone.label "Yükləmələr başa çatanda yükləmə pəncərəsini bağla">
+<!ENTITY closeWhenDone.accesskey "b">
+<!ENTITY saveTo.label "Faylların saxlandığı yer">
+<!ENTITY saveTo.accesskey "y">
+<!ENTITY chooseFolderWin.label        "Bax…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Seçin…">
+<!ENTITY chooseFolderMac.accesskey    "S">
+<!ENTITY alwaysAsk.label "Faylların saxlanacağı yeri həmişə soruş">
+<!ENTITY alwaysAsk.accesskey "h">

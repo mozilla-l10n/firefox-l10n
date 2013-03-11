@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY advancedJSDialog.title         "Geniş JavaScript seçimləri">
+<!ENTITY window.width                   "46em">
+
+<!ENTITY allowScripts.label             "Skriptlərin aşağıdakıları etməsinə icazə ver:">
+
+<!ENTITY moveResizePopupWindows.label     "Avtomatik açılan pəncərələri köçür və ya yenidən ölçüləndir">
+<!ENTITY moveResizePopupWindows.accesskey "t">
+<!ENTITY raiseLowerWindows.label        "Pəncərəni ön və ya arxa plana çəkməyə">
+<!ENTITY raiseLowerWindows.accesskey    "r">
+<!ENTITY disableContextMenus.label      "Məzmun menyusunu söndürməyinə və ya dəyiştirməyinə">
+<!ENTITY disableContextMenus.accesskey  "e">

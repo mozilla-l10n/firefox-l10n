@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncKey.page.title               "&syncBrand.fullName.label; açarınız">
+<!ENTITY syncKey.page.description2        "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new device.">
+<!ENTITY syncKey.keepItSecret.heading     "Yaxşı qoruyun">
+<!ENTITY syncKey.keepItSecret.description "&syncBrand.fullName.label; hesabınız gizliliyinizi qorumaq üçün şifrələnir. Şəxsi məlumatlarınızı bu açar olmadan açmaq başqasının illərini alacaq qədər çətindir. Bu açarın tək sahibi sizsiniz. Bu da &syncBrand.fullName.label; məlumatlarına baxmaq icazəsi olan tək şəxs sizsiniz deməkdir.">
+<!ENTITY syncKey.keepItSafe.heading       "Onu qoruyun">
+<!ENTITY syncKey.keepItSafe1.description  "Bu açarı itirməyin.">
+<!ENTITY syncKey.keepItSafe2.description  " Açarınızın kopyasını saxlamırıq (Yoxsa təhlükəsiz olmazdı!), buna görə də onu itirsəniz ">
+<!ENTITY syncKey.keepItSafe3.description  "sizə köməkçi ola bilmərik">
+<!ENTITY syncKey.keepItSafe4a.description " if it's lost. You'll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; və gizliliyiniz haqqında daha çox məlumat almaq üçün ">
+<!ENTITY syncKey.findOutMore2.label       "açıqlanmışdır.">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; xidmət şərtləri ">
+<!ENTITY syncKey.footer2.label            " ünvanında mövcuddur. Məxfilik siyasəti ">
+<!ENTITY syncKey.footer3.label            "açıqlanmışdır.">

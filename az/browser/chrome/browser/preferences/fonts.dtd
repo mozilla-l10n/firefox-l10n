@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsDialog.title                       "Yazı tipləri">
+<!ENTITY  window.width                            "43em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "43em">
+
+<!ENTITY  language.label                          "Yazı tipləri:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  size.label                              "Boyut:">
+<!ENTITY  sizeProportional.accesskey              "o">
+<!ENTITY  sizeMonospace.accesskey                 "a">
+
+<!ENTITY  proportional.label                      "Orantılı:">
+<!ENTITY  proportional.accesskey                  "O">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "S">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Qərbi avropa">
+<!ENTITY  font.langGroup.latin2                   "Orta Avropa">
+<!ENTITY  font.langGroup.japanese                 "Yapon dili">
+<!ENTITY  font.langGroup.trad-chinese             "Geleneksel Çince (Tayvan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Sadə Çincə">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Ənənəvi Çincə (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Koreya dilində">
+<!ENTITY  font.langGroup.cyrillic                 "Slavyanca">
+<!ENTITY  font.langGroup.baltic                   "Baltikyanı">
+<!ENTITY  font.langGroup.el                       "Greek">
+<!ENTITY  font.langGroup.turkish                  "Türkçe">
+<!ENTITY  font.langGroup.unicode                  "Digər Dillər">
+<!ENTITY  font.langGroup.user-def                 "İstifadəçi təyini ilə">
+<!ENTITY  font.langGroup.thai                     "Tay dili">
+<!ENTITY  font.langGroup.hebrew                   "İvrit dili">
+<!ENTITY  font.langGroup.arabic                   '"rəbcə'>
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil dili">
+<!ENTITY  font.langGroup.armenian                 "ermənicə">
+<!ENTITY  font.langGroup.bengali                  "Benqal dili">
+<!ENTITY  font.langGroup.canadian                 "Birləşmiş Kanada heca yazısı">
+<!ENTITY  font.langGroup.ethiopic                 "Etiyopik">
+<!ENTITY  font.langGroup.georgian                 "Gürcü dili">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati dili">
+<!ENTITY  font.langGroup.gurmukhi                 "Qurmuki">
+<!ENTITY  font.langGroup.khmer                    "Kamboca dili">
+<!ENTITY  font.langGroup.malayalam                "Malayalam dili">
+<!ENTITY  font.langGroup.oriya                    "Oriya Dili">
+<!ENTITY  font.langGroup.telugu                   "Teluqu dili">
+<!ENTITY  font.langGroup.kannada                  "Kanada dili">
+<!ENTITY  font.langGroup.sinhala                  "Seylonca">
+<!ENTITY  font.langGroup.tibetan                  "Tibet Dili">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Ən kiçik yazı tipi ölçüsü:">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "Yoxdur">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  allowPagesToUse.label                   "Səhifələrə mənim seçdiklərimdən əlavə öz yazı tiplərini seçmə icazəsi ver">
+<!ENTITY  allowPagesToUse.accesskey               "S">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Simvol kodlaşdırması">
+<!ENTITY languages.customize.DefaultCharset.label       "Standart simvol kodlaşdırması:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "k">

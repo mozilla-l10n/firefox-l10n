@@ -1,0 +1,16 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Daxili HTML-i kopyala">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "H">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Xarici HTML-i kopyala">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorHTMLDelete.label          "Etiketi sil">
+<!ENTITY inspectorHTMLDelete.accesskey      "s">
+
+<!ENTITY inspector.selectButton.tooltip     "Siçanla bir element seçin">
+
+<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

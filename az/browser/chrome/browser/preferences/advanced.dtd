@@ -1,0 +1,139 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Genel">
+
+<!ENTITY accessibility.label             "Əlçatanlıq">
+
+<!ENTITY useCursorNavigation.label       "Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et">
+<!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY searchStartTyping.label         "Yazmağa başlayan kimi axtar">
+<!ENTITY searchStartTyping.accesskey     "z">
+<!ENTITY blockAutoRefresh.label          "Saytlar səhifəni yönləndirmək və ya yenidən yükləmək istəyən zaman məni xəbərdar et">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY browsing.label                  "Tarama">
+
+<!ENTITY useAutoScroll.label             "Avtomatik sürüşdürmədən istifadə et">
+<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useSmoothScrolling.label        "Axıcı sürüşdürmədən istifadə et">
+<!ENTITY useSmoothScrolling.accesskey    "c">
+<!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt Təchizat sürətlənməsindən istifadə et">
+<!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY checkSpelling.label             "Yazarkən hərf səhvlərini yoxla">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Standart sistem nizamları">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Açılışda &brandShortName; brauzerinin standart olub olmadığını yoxla">
+<!ENTITY alwaysCheckDefault.accesskey    "b">
+<!ENTITY setDefault.label                "&brandShortName; brauzerini standart et">
+<!ENTITY setDefault.accesskey            "s">
+<!ENTITY isDefault.label                 "&brandShortName; hazırda standart brauzerinizdir">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "Çökmə Məlumatcısı">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
+
+<!ENTITY networkTab.label                "Ağ">
+
+<!ENTITY connection.label                "Connection">
+
+<!ENTITY connectionDesc.label            "&brandShortName;un internetə necə bağlanacağını nizamlayın">
+<!ENTITY connectionSettings.label        "Nizamlar…">
+<!ENTITY connectionSettings.accesskey    "a">
+
+<!ENTITY httpCache.label                 "Yaddaşda saxlanılmış web məzmunu">
+
+<!ENTITY offlineStorage2.label           "Offline web məzmunu və istifadəçi məlumatları">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Saxlama yaddaşı">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ilə sərhədlə">
+<!ENTITY clearCacheNow.label             "İndi təmizlə">
+<!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY clearOfflineAppCacheNow.label   "İndi təmizlə">
+<!ENTITY clearOfflineAppCacheNow.accesskey "t">
+<!ENTITY overrideSmartCacheSize.label    "Avtomatik saxlama yaddaşı nəzarətini söndür">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
+<!ENTITY updateTab.label                 "Yeniləmə">
+
+<!ENTITY updateApp.label                 "&brandShortName; yeniləmələri:">
+<!ENTITY updateAuto.label                "Yeniləmələri avtomatik quraşdır (tövsiyyə edilir: gücləndirilmiş təhlükəsizlik)">
+<!ENTITY updateAuto.accesskey            "o">
+<!ENTITY updateCheck.label               "Yeniləmələri yoxla, amma quraşdırmaq qərarını mən verim">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Yeniləmələri heç vaxt yoxlama (tövsiyyə edilmir: təhlükəsizlik riski)">
+<!ENTITY updateManual.accesskey          "h">
+
+<!ENTITY updateAutoAddonWarn.label       "Bu əməliyyat, əlavələrdən birini söndürəcəksə mənə bildir">
+<!ENTITY updateAutoAddonWarn.accesskey   "m">
+
+<!ENTITY updateHistory.label             "Yeniləmə keçmişini göstər">
+<!ENTITY updateHistory.accesskey         "g">
+
+<!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Avtomatik yenilə:">
+<!ENTITY enableSearchUpdate.label        "Axtarış motorları">
+<!ENTITY enableSearchUpdate.accesskey    "m">
+
+<!ENTITY offlineNotify.label             "Bir sayt offline istifadə üçün məlumat saxlamaq istəsə mənə bildir">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "İstisnalar…">
+<!ENTITY offlineNotifyExceptions.accesskey "a">
+
+<!ENTITY offlineAppsList2.label          "Aşağıdakı saytların offline istifadə üçün məlumat saxlamasına icazə verilib:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Sil …">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Offline məlumatlarını sil">
+
+<!ENTITY encryptionTab.label             "Şifrələmə">
+
+<!ENTITY protocols.label                 "Əlaqə protokolları">
+<!ENTITY useSSL3.label                   "SSL 3.0 kullan">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 kullan">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Təsdiq sənədləri">
+<!ENTITY certSelection.description       "Server şəxsi sertifikat istəyəndə:">
+<!ENTITY certs.auto                      "Birini avtomatik seç">
+<!ENTITY certs.auto.accesskey            "B">
+<!ENTITY certs.ask                       "Hər dəfə soruş">
+<!ENTITY certs.ask.accesskey             "b">
+<!ENTITY viewCerts.label                 "Sertifikatları göstər">
+<!ENTITY viewCerts.accesskey             "g">
+<!ENTITY viewCRLs.label                  "Ləğv siyahısı">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                   "Təsdiqləmə">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Təhlükəsizlik cihazları">
+<!ENTITY viewSecurityDevices.accesskey   "y">

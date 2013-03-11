@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "Siz açmaq üçün seçdiniz:">
+<!ENTITY  from.label                  "ünvan:">
+<!ENTITY  actionQuestion.label        "&brandShortName; bu dosya ile ne yapsın?">
+
+<!ENTITY  openWith.label              "Bununla aç">
+<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  other.label                 "Digər…">
+
+<!ENTITY  saveFile.label              "Fərqli saxla">
+<!ENTITY  saveFile.accesskey          "s">
+
+<!ENTITY  rememberChoice.label        "Bu cür faylları yükləyərkən həmişə bunu et.">
+<!ENTITY  rememberChoice.accesskey    "B">
+
+<!ENTITY  whichIsA.label              "Format:">
+
+<!ENTITY  chooseHandlerMac.label      "Seçin…">
+<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandler.label         "Bax…">
+<!ENTITY  chooseHandler.accesskey     "B">
+
+<!ENTITY  unknownPromptText.label     "Bu dosyayı kaydetmek ister misiniz?">

@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "Aşağıdakı cookielər sisteminizdə saxlanılıb:">
+<!ENTITY     cookiename.label               "Cookie adı">
+<!ENTITY     cookiedomain.label             "Web səhifəsi"> 
+<!ENTITY     button.removecookies.label     "Cookieləri sil">
+<!ENTITY     button.removecookie.label      "Cookieni sil">
+<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removeallcookies.label  "Bütün cookieləri sil">
+<!ENTITY     button.removeallcookies.accesskey "t">
+
+<!ENTITY     props.name.label               "İsim:">
+<!ENTITY     props.value.label              "Məlumat:">
+<!ENTITY     props.domain.label             "Server:">
+<!ENTITY     props.path.label               "Qısayol:">
+<!ENTITY     props.secure.label             "Server təhlükəsizliyi:">
+<!ENTITY     props.expires.label            "Sona çatma tarixi:">
+
+<!ENTITY     window.title                   "Cookielər">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "Axtar:">
+<!ENTITY     filter.accesskey               "A">
+
+<!ENTITY     button.close.label             "Kapat">
+<!ENTITY     button.close.accesskey         "K">

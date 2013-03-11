@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY testpilot.brand.label                      "Test Pilotu">
+<!ENTITY testpilot.settings.label                   "Seçimlər">
+<!ENTITY testpilot.settings.dataSubmission.label    "Məlumat göndərilməsi">
+<!ENTITY testpilot.settings.notifications.label     "Xəbərdarlıqlar">
+<!ENTITY testpilot.settings.notifyWhen.label        "Bu hallarda məni xəbərdar et:">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Bir araşdırma göndərilməyə hazır olduqda">
+<!ENTITY testpilot.settings.newStudy.label          "Yeni bir araşdırma varsa">
+<!ENTITY testpilot.settings.hasNewResults.label     "Bir tədqiqatın nəticələri açıqlanıbsa">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Məlumatları avtomatik göndər (məndən soruşma)">
+<!ENTITY testpilot.allYourStudies.label             "Bütün istifadəçi araşdırmalarınız…">
+<!ENTITY testpilot.about.label                      "Test Pilotu haqqında">
+<!-- all studies window -->
+
+<!ENTITY testpilot.studiesWindow.title                  "Test pilotu araşdırmalarınız">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Hal-hazırki araşdırmalar">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Sona çatan araşdırmalar">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Araşdırmanın nəticələri">
+<!ENTITY testpilot.studiesWindow.settings.label         "Seçimlər">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Yüklənir, lütfən gözləyin…">
+<!-- raw data dialog -->
+
+<!ENTITY testpilot.rawDataWindow.title                  "Test pilotu: Analiz edilməmiş məlumat">
+<!-- notification -->
+
+<!ENTITY testpilot.notification.close.tooltip            "Kapat">
+<!-- Firefox 4 beta version UI -->
+
+<!ENTITY testpilot.enable.label                        "İstifadəçi araşdırmalarını aktivləşdir">
+<!ENTITY testpilot.feedbackbutton.label                "Bizimlə əlaqə">
+<!ENTITY testpilot.happy.label        "Firefox məni sevindirdi, çünki…">
+<!ENTITY testpilot.sad.label          "Firefox məni kədərləndirdi, çünki…">
+<!ENTITY testpilot.broken.label      "Bu saytın işləmədiyini məlumat ver…">
+<!ENTITY testpilot.idea.label        "Bizə təkliflər verin…">

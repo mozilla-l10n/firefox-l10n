@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "&syncBrand.fullName.label;-i quraşdır">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəçinlərinizdən, şifrələrinizdən və açıq səhifələrinizdən istifadə edə bilərsiniz.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Yeniləmə">
+<!ENTITY resetPass.label              "Reset">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Hesabı idarə et">
+<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY viewQuota.label              "Limiti göstər">
+<!ENTITY changePassword2.label        "Şifrəni dəyiş…">
+<!ENTITY myRecoveryKey.label          "Bərpa açarım">
+<!ENTITY resetSync2.label             "Sync-i sıfırla…">
+
+<!ENTITY pairDevice.label             "Cihazları sinxronizasiya et">
+
+<!ENTITY syncMy.label               "Sinxronizasiya ediləcəklər:">
+<!ENTITY engine.bookmarks.label     "Əlfəçinlər">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Vərəqlər">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Keçmiș">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Şifrələr">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Nizamlamalar">
+<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "Eklentiler">
+<!ENTITY engine.addons.accesskey    "E">
+<!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "Bu cihazın bağlantısını kəs">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "İstifadə Şərtləri">
+<!ENTITY prefs.ppLink.label         "Gizlilik Razılaşması">

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; başlanğıc səhifəsi">
+
+<!ENTITY abouthome.searchEngineButton.label "Axtar">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefoxu seçdiyiniz üçün təşəkkürlər! Brazuerinizdən ən yaxşı səviyyədə yararlanmaq üçün <a>yeni xüsusiyyətlər</a> haqqında daha çox məlumat alın.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefoxu istədiyiniz şəkilində özünüzə uyğunlaşdırmaq çox asandı. <a>Minlərcə əlavədən istədiyinizi seçin</a>.">
+
+<!ENTITY abouthome.bookmarksButton.label "Əlfəçinlər">
+<!ENTITY abouthome.historyButton.label   "Keçmiș">
+<!ENTITY abouthome.settingsButton.label  "Seçimlər">
+<!ENTITY abouthome.addonsButton.label    "Eklentiler">
+<!ENTITY abouthome.appsButton.label      "Satış">
+<!ENTITY abouthome.downloadsButton.label "Yükləmə">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

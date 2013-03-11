@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
+
+
+<!ENTITY fileMenu.label                     "Dosya">
+<!ENTITY fileMenu.accesskey                 "F">
+
+<!ENTITY quitApplicationCmdWin.label        "Çıxış">
+<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmd.label           "Çık">
+<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "K">
+<!ENTITY hideOtherAppsCmdMac.label          "Digərlərini gizlə">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "Hamısını göstər">
+
+<!ENTITY editMenu.label                     "Nizam">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "Ləğv et">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY redoCmd.label                      "Təkrarla">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "r">
+<!ENTITY cutCmd.label                       "Kes">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY copyCmd.label                      "Kopyala">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY pasteCmd.label                     "Yapıştır">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "p">
+<!ENTITY deleteCmd.label                    "Delete">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "D">
+<!ENTITY selectAllCmd.label                 "Hamısını Seç">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "a">

@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- entities split out from browser.dtd -->
+
+
+<!ENTITY next.label "Növbətini tap">
+<!ENTITY next.accesskey "N">
+<!ENTITY next.tooltip "Bir sonrakı uyğun gələn sözü tapır">
+<!ENTITY previous.label "Əvvəlkini tap">
+<!ENTITY previous.accesskey "P">
+<!ENTITY previous.tooltip "Bir öncəki uyğun gələn sözü tapır">
+<!ENTITY findCloseButton.tooltip "Axtarış sətirini bağlayır">
+<!ENTITY highlight.label "İşarələ">
+<!ENTITY highlight.accesskey "a">
+<!ENTITY highlight.tooltiptext "Tapılan sözlərin hamısını işarələyir">
+<!ENTITY caseSensitiveCheckbox.label "Böyük/kiçik hərfə həssaslıq">
+<!ENTITY caseSensitiveCheckbox.accesskey "h">

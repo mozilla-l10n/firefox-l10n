@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "İsim:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Ünvan:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Axın ünvanı:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Sayt ünvanı:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.folder.label                    "Dizin:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bütün əlfəçin qovluqlarını göstərir">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gizləyir">
+<!ENTITY editBookmarkOverlay.tags.label                      "Etiketlər:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Etiketləri vergüllə ayırın">
+<!ENTITY editBookmarkOverlay.description.label               "Təfərrüat:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Anahtar kelime:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Bütün etikətləri göstərir">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Əlfəçinləri kənar panelə yüklə">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "Seçin…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Qovluq əlavə et">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

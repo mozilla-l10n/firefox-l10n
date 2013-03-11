@@ -1,0 +1,85 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "İzleme">
+
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Daha çox məlumat alın">
+
+<!ENTITY  history.label                 "Keçmiș">
+
+<!ENTITY  locationBar.label             "Ünvan sətiri">
+
+<!ENTITY  locbar.pre.label              "Ünvan sətirindən istifadə edərkən xatırlanacaqlər:">
+<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Keçmiş və əlfəçinlər">
+<!ENTITY  locbar.history.label          "Keçmiș">
+<!ENTITY  locbar.bookmarks.label        "Əlfəçinlər">
+<!ENTITY  locbar.nothing.label          "Heçnə">
+
+<!ENTITY  acceptCookies.label           "Saytlardan cookie qəbul et">
+<!ENTITY  acceptCookies.accesskey       "k">
+
+<!ENTITY  acceptThirdParty.label        "Üçüncü tərəf cookilərini qəbul et">
+<!ENTITY  acceptThirdParty.accesskey    "e">
+
+<!ENTITY  keepUntil.label               "Saxlama limiti:">
+<!ENTITY  keepUntil.accesskey           "t">
+
+<!ENTITY  expire.label                  "vaxtı bitənədək">
+<!ENTITY  close.label                   "&brandShortName; kapatılana dek">
+<!ENTITY  askEachTime.label             "hər dəfə məndən soruş">
+
+<!ENTITY  cookieExceptions.label        "İstisnalar…">
+<!ENTITY  cookieExceptions.accesskey    "a">
+
+<!ENTITY  showCookies.label             "Cookieləri göstər…">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; proqramı:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "Keçmişi xatırlayacaq">
+<!ENTITY  historyHeader.dontremember.label "Keçmişi heç vaxt xatırlamaycaq">
+<!ENTITY  historyHeader.custom.label       "Xüsusi nizamlamalar istifadə ediləcək">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; baxış, yükləmə, form və axtarış keçmişlərinizi xatırlamayacaq; baxdığınız web saytlarının cookielərini saxlayacaq.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "İstəsəniz ">
+<!ENTITY  rememberActions.clearHistory.label  "yaxın keçmişinizi silin">
+<!ENTITY  rememberActions.middle.label        " və ya ">
+<!ENTITY  rememberActions.removeCookies.label "cookieləri tək-tək silin">
+<!ENTITY  rememberActions.post.label          "açıqlanmışdır.">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz internetdə gəzişərkən keçmişlə bağlı heçnə xatırlamayacaq.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "Əlavə olaraq">
+<!ENTITY  dontrememberActions.clearHistory.label "bütün keçmişinizi də silə bilirsiniz">
+<!ENTITY  dontrememberActions.post.label         "açıqlanmışdır.">
+
+<!ENTITY  privateBrowsingPermanent2.label "Həmişə gizli baxış rejimindən istifadə et">
+<!ENTITY  privateBrowsingPermanent2.accesskey "g">
+
+<!ENTITY  rememberHistory2.label      "Yükləmə və Baxış keçmişini xatırla">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "Axtarış və form keçmişini xatırla">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "&brandShortName; bağlananda keçmişi sil">
+<!ENTITY  clearOnClose.accesskey         "s">
+
+<!ENTITY  clearOnCloseSettings.label     "Nizamlar…">
+<!ENTITY  clearOnCloseSettings.accesskey "a">

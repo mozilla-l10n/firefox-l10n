@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "k">
+<!ENTITY minimizeWindow.label     "Kiçilt">
+<!ENTITY bringAllToFront.label    "Hamısını ön plana çək">
+<!ENTITY zoomWindow.label         "Yaxınlaşdırma">
+<!ENTITY windowMenu.label         "Pencere">
+
+<!ENTITY helpMenu.label           "Yardım"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Yardım"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "&brandShortName; hakkında">
+<!ENTITY aboutProduct.accesskey   "h">
+<!ENTITY productHelp.label        "&brandShortName; köməyi">
+<!ENTITY productHelp.accesskey    "k">
+<!ENTITY helpMac.commandkey       "istəyərsiniz?">
+<!ENTITY helpSafeMode.label       "Əlavələri  söndürüb başlat…">
+<!ENTITY helpSafeMode.accesskey   "b">
+
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "Problem həll etmə məlumatları">
+<!ENTITY helpTroubleshootingInfo.accesskey  "P">
+
+<!ENTITY helpFeedbackPage.label      "Geri məlumat göndər...">
+<!ENTITY helpFeedbackPage.accesskey  "G">
+
+<!ENTITY preferencesCmdMac.label        "Seçimlər…">
+<!ENTITY preferencesCmdMac.commandkey   "S">
+
+<!ENTITY servicesMenuMac.label          "Servislər">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; proqramını gizlə">
+<!ENTITY hideThisAppCmdMac.commandkey   "G">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Digərlərini gizlə">
+<!ENTITY hideOtherAppsCmdMac.commandkey "G">
+
+<!ENTITY showAllAppsCmdMac.label        "Hamısını göstər">

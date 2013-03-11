@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ocspDialog.title             "Təsdiqləmə">
+<!ENTITY enableOCSP.label             "Təsdiq sənədlərinin hal hazırki etibarlılığını təsdiqləmək üçün online Təsdiq sənədi statusu əlaqə qaydası (OCSP)-dən istifadə edin">
+<!ENTITY enableOCSP.accesskey         "u">
+<!ENTITY requireOCSP.label            "OCSP serveri ilə  əlaqə kəsilsə, təsdiq sənədini etibarsız say">
+<!ENTITY requireOCSP.accesskey        "k">

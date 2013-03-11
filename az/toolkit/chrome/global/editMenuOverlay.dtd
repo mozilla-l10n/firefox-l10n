@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editMenu.label            "Nizam">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label             "Ləğv et">
+<!ENTITY undoCmd.key               "z">
+<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY redoCmd.label             "Təkrarla">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY cutCmd.label              "Kes">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY copyCmd.label             "Kopyala">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "K">
+<!ENTITY pasteCmd.label            "Yapıştır">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "Y">
+<!ENTITY deleteCmd.label           "Delete">
+<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY selectAllCmd.label        "Hamısını Seç">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "a">
+<!ENTITY findCmd.label             "Axtar">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "Sonrakını tap">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "o">
+<!ENTITY findPreviousCmd.label     "Əvvəlkini tap">
+<!ENTITY findPreviousCmd.accesskey "n">

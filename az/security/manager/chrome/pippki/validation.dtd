@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  validation.crlmanager.label             "CRL-ləri idarə et">
+<!ENTITY  validation.crlmanager.description       "Təsdiq sənədi Ləğv siyahısı (CRL) təsdiq sənədi bazasında saxlanılır:">
+<!ENTITY  validation.crlname.label                "Ad">
+<!ENTITY  validation.crllastupdate.label          "Son yeniləmə">
+<!ENTITY  validation.crlnextupdate.label          "Növbəti yeniləmə">
+<!ENTITY  validation.crlautoupdateenabled.label   "Avtomatik yeniləmə">
+<!ENTITY  validation.crlautoupdatestatus.label    "Avtomatik yeniləmə statusu">
+<!ENTITY  validation.deletecrl.label              "Delete">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.updatecrl.label              "Yeniləmə">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY  validation.advanced.label               "Seçimlər">
+<!ENTITY  validation.advanced.accesskey           "S">
+
+<!ENTITY  validation.crl.autoupdate.title         "CRL avtomatik yeniləmə parametrləri">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Bu CRL üçün avtomatik yeniləməni aktivləşdir">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Yeniləmə">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Növbəti yeniləməyə qalan gün">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Yeniləmə sıxlığı">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "gün">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL-nin idxal ediləcəyi yer:">
+<!ENTITY  crl.import.status.title                 "CRL idxal etmə statusu">
+<!ENTITY  crl.import.success.message              "Təsdiq sənədi Ləğv siyahısı (CRL) uğurla idxal edildi.">
+<!ENTITY  crl.issuer.label                        "CRL yayımçısı:">
+<!ENTITY  crl.issuer.org.label                    "Qurum:">
+<!ENTITY  crl.issuer.orgunit.label                "Birim:">
+<!ENTITY  crl.import.nextupdate.label             "Növbəti yeniləmə:">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Əvvəlki ardıcıl yeniləmə səhvləri:">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Son yeniləmə səhvinin detalları:">
+<!ENTITY  edit.button                             "Seçimlər">
