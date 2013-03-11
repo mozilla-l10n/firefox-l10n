@@ -1,102 +1,149 @@
-<!-- saved from url=(0022)http://internet.e-mail -->
-<html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
-<title>Mozillos iðkylanèiøjø langø blokavimo þinynas</title>
-
-<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css">
-<!-- <link rel="stylesheet" href="../style.css" type="text/css"> -->
-
+<title>&brandShortName; Popup Blocking Help</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
-<a name="blocking_popups"></a>
-<a name="Navigator:controlling_popupsIDX"></a>
-<a name="popupsIDX"></a>
-<a name="blocking_popupsSDX"></a>
-<a name="popup_windowsSDX"></a>
-<div class="boilerplate">Tai
-tik informacija, kuri galëtø pagelbëti tiems, kas rûpinasi duomenø saugumu
-internete. Ji neaprëpia visø saugumo aspektø dirbant tinkle, taip pat nelaikytina
-bendrijos „Mozilla“ saugumo internete rekomendacijomis.</div>
 
-<hr>
-<h1>Iðkylanèiøjø langø valdymas</h1>
-<p><b>Kas yra iðkylantieji langai?</b></p>
-<p>Iðkylantieji langai – tai be Jûsø þinios pasirodantys langai. Jie gali bûti ávairaus dydþio, bet paprastai nedengia viso 
-ekrano. Kai kurie iðkylantieji langai iðkyla virð aktyvaus narðyklës lango, tuo tarpu kiti langai pasirodo uþ narðyklës lango (fone).</p>
-<p><i>Mozilla</i> leidþia valdyti ir iðkylanèiuosius, ir atveriamus fone langus. 
-Numatytoji nuostata – neblokuoti iðkylanèiøjø langø. Todël norint valdyti iðkylanèius langus,
-reikia parinkti nuostatas <a href="#popup_prefs">iðkylanèiøjø langø nuostatø</a> skydelyje. 
-</p>
-<p>Neleidusi iðkylanèiajam langui atsirasti, <i>Mozilla</i> gali praneðti apie tai garsu arba
-rodyti piktogramà <img src="chrome://navigator/skin/icons/popup-blocked.png"> 
-bûsenos juostoje. Spustelëjus ðià piktogramà, þvalgomà svetainæ galima átraukti 
-á iðimèiø sàraðà (t. y. leisti ðiai svetainei rodyti iðkylanèiuosius langus).</p>
-<p><b><i>Iðkylanèiøjø langø blokavimas gali kliudyti kai kurioms svetainëms</i></b>. Kai kurios svetainës,
-(pvz., bankø, el. parduotuviø), iðkylanèiuosius langus naudoja svarbiems veiksmams atlikti.
-Uþblokavus visus iðkylanèius langus, nebebus galima naudotis kai kuriomis tø svetainiø priemonëmis. 
-Jei norite iðkylanèiuosius langus leisti tik tam tikroms svetainëms, o visoms kitoms – neleisti, tai tas svetaines
-galite átraukti á specialø svetainiø
-sàraðà. Þr. sk. <a href="#popup_prefs">Privatumo ir saugumo nuostatos. Iðkylantieji langai</a>.</p>
-<p><b><i>Iðkylanèiøjø langø blokavimas ne visuomet veikia</i></b>. Nors <i>Mozilla</i> blokuoja daugelá iðkylanèiøjø langø, 
-kai kurios svetainës gali naudoti kitus metodus iðkylantiems langams atverti.</p>
-<p><b><i>Iðkylanèiøjø langø ið tam tikrø svetainiø leidimas</i></b>. Uþblokavus iðkylanèius langus, atskiroms svetainëms 
-galima leisti rodyti tokius langus. Tam atverkite svetainæ, ið meniu <i>Priemonës</i> pasirinkite <i>Iðkylanèiøjø langø valdymas</i>, o 
-tada pasirinkite <i>Leisti ðios svetainës iðkylanèiuosius langus</i>.</p>
+<div class="boilerPlate">This document is provided for your information only.
+  It may help you take certain steps to protect the privacy and security of
+  your personal information on the Internet. This document does not, however,
+  address all online privacy and security issues, nor does it represent a
+  recommendation about what constitutes adequate privacy and security
+  protection on the Internet.</div>
+  
+<h1 id="controlling_popups">Controlling Popups</h1>
 
-<p>&nbsp;</p>
-<a name="popup_prefs"></a>
-<hr>
-<a name="preferences:popup_windowsIDX"></a> 
-<a name="popup_windows:preferencesIDX"></a> 
+<p><strong>What are Popups?</strong></p>
 
-<a name="popup_preferencesSDX"></a> 
-<h2>Privatumo ir saugumo nuostatos. Iðkylantieji langai</h2>
-<p>Èia apraðoma, kaip parinkti iðkylanèiøjø langø nuostatas. 
-Jei iðkylanèiøjø langø nuostatø langas dar neatvertas, tai: 
-<p> 1. Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.<br>
-2. Spustelëkite nuostatø grupës <i>Privatumas ir saugumas</i> pogrupá <i>Iðkylantieji langai</i>. 
- (Jei pogrupio <i>Iðkylantieji langai</i> nesimato, spustelëkite þenkliukà (pliusà
-    arba trikampëlá) ðalia grupës pavadinimo.)</p>
+<p>Pop-up windows, or popups, are windows that appear automatically and without
+  your permission. They vary in size, but usually don&apos;t cover the whole
+  screen. Some popups open on top of the current browser window, thus popping
+  up, while others appear underneath the browser (popunders).</p>
+
+<p>&brandShortName; allows you to control both popups and popunders through the
+  <a href="#privacy_and_security_preferences_popup_windows">Popup Windows
+  preferences panel</a>. Since popup blocking is turned off by default, you
+  must enable it to prevent popups from appearing in the browser.</p>
+
+<p>When blocking a popup, &brandShortName; can be set up to play a sound or
+  display an icon
+  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+  icon"/> in the status bar or a notification bar at the top of the website
+  content area, or any combination of the above. You can use the icon or the
+  bar to add a website you&apos;re viewing to an exceptions list so that the
+  website is allowed to again display popups.</p>
+
+<p><strong>Blocking popups may interfere with some websites</strong>: Some
+  websites, including some banking sites, use popups for important features.
+  Blocking all popups disables such features. To allow specific websites to
+  use popups, while blocking all others, you can add specific websites to the
+  list of allowed websites. For more information, see
+  <a href="#privacy_and_security_preferences_popup_windows">Privacy &amp;
+  Security Preferences - Popup Windows</a>.</p>
+
+<p><strong>Blocking popups doesn&apos;t always work</strong>: Although
+  &brandShortName; blocks most popups, some websites, even when blocked, may
+  use other methods to show popups.</p>
+
+<p><strong>Allowing popups from certain websites</strong>: After you&apos;ve
+  enabled popup blocking, you can still allow specific websites to display
+  popups. Browse to the website, and then from the Tools menu, choose Popup
+  Manager, and then choose Allow Popups From This Website.</p>
+
+<p>The next section describes how to control popups through preferences and
+  through the popup control icon.</p>
+
+<h2 id="privacy_and_security_preferences_popup_windows">Privacy &amp; Security
+  Preferences - Popup Windows</h2>
+
+<p>This section describes how to use the Popup Windows preferences panel. If
+  you&apos;re not already viewing it, follow these steps:</p>
+
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security Preferences category, click Popup
+    Windows. (If no subcategories are visible, double-click Privacy &amp;
+    Security to expand the list.)</li>
+</ol>
+
 <ul>
-<li><b><i>Uþblokuoti iðkylanèius langus.</i></b> Paþymëkite ðià nuostatà, jei norite uþdrausti svetainiø iðkylanèius langus. </li>
-<li><b><i>Tvarkyti leidimus.</i></b> Spustelëkite ðá mygtukà, jei reikia perþiûrëti arba taisyti svetainiø, kuriø iðkylantiems langams leidþiama atsirasti, sàraðà. </li>
-<ul>
-<li><b><i>Leisti iðkylanèius langus ið ðiø svetainiø.</i></b> Þemiau iðvardytos svetainës, kurioms leidþiama naudoti iðkylanèius langus. Galima papildyti sàraðà kitø svetainiø adresais arba paðalinti esamus.</li>
-<li><b><i>Pridëti.</i></b> Surinkæ svetainës adresà, spustelëkite ðá mygtukà, kad svetainë bûtø átraukta á sàraðà.</li>
+  <li><strong>Block unrequested popup windows</strong>: Select this to prevent
+    popups from appearing in the browser.</li>
+  <li><strong>Allowed Websites</strong>: Click this to view and edit the list of
+    websites that you want to allow to display popups.
+    <ul>
+      <li><strong>Allowed Websites - Popups</strong>: The list of allowed
+        websites appears when you click <q>Allowed Sites</q>. You can add or
+        remove websites that should be allowed to show popups.</li>
+      <li><strong>Allow</strong>: Click this after typing in a website that you
+        want to add to the list.</li>
+      <li><strong>Remove Website</strong>: Click this to remove a selected
+        website.</li>
+      <li><strong>Remove All Websites</strong>: Click this to remove all of the
+        websites in the current list.</li>
+    </ul>
+  </li>
+</ul>
 
-<li><b><i>Paðalinti.</i></b> Spustelëkite ðá mygtukà, jei ið sàraðo reikia paðalinti paþymëtà svetainæ.</li>
-<li> 
-<p><b><i>Paðalinti viskà.</i></b> Spustelëkite ðá mygtukà, jei ið sàraðo reikia paðalinti visas svetaines.</p>
-</li>
-</ul>
-</ul>
-<h3>Kai narðyklë neleido iðkylanèiajam langui atsirasti:</h3>
-<ul>
-<li> 
-<p><b><i>Garsas.</i></b> Jei norite, kad kiekvienà kartà narðyklei uþblokavus iðkylantájá langà, bûtø 
-praneðama apie tai garsu, paþymëkite ðià parinktá ir nurodykite garso failo vietà. </p>
+<h3>When a popup window has been blocked</h3>
 
-</li>
 <ul>
-<li><b><i>Parinkti.</i></b> Spustelëkite ðá mygtukà ir ið katalogø medþio parinkite 
-garso failà.</li>
-<li><b><i>Perklausyti.</i></b> Spustelëjus ðá mygtukà galima perklausyti parinktà garsà.</li>
-</ul>
-<li><b><i>Rodyti áspëjamàjà piktogramà narðyklës bûsenos juostoje.</i></b> Paþymëjus ðià parinktá, 
-piktograma <img src="chrome://navigator/skin/icons/popup-blocked.png"> narðyklës bûsenos 
-juostoje parodys, kad iðkylantysis langas buvo uþblokuotas.<br>
-<b><i>Pastaba.</i></b> Iðkylanèiøjø langø valdymo piktograma <img src="chrome://navigator/skin/icons/popup-blocked.png"> 
-lieka matoma, kol nebus aplankyta kita svetainë. </li>
-</ul>
-<p><b><i>Iðkylanèiøjø langø valdymo piktograma ir svetainiø átraukimas á leidþiamøjø sàraðà.</i></b> Veikiamàjà svetainæ galima greitai átraukti á svetainiø, kurioms galima 
-atverti iðkylanèius langus, sàraðà. Ðis sàraðas atveriamas spustelëjus piktogramà <img src="chrome://navigator/skin/icons/popup-blocked.png">. Svetainiø adreso lauke jau nurodytas veikiamosios svetainës
-adresas. Spustelëkite <i>Pridëti</i> ir patvirtindami ðá veiksmà spustelëkite <i>Gerai</i>.</p>
-<p>&nbsp;</p>
-<hr>
+  <li><strong>Play a sound</strong>: If you want a sound to play each time
+    the browser blocks a popup, select this option and choose System beep
+    or Custom sound file. Selecting Custom sound file enables the following two
+    buttons:
+    <ul>
+      <li><strong>Browse</strong>: Click this to choose a sound file.</li>
+      <li><strong>Play</strong>: Click this to listen to the chosen
+        sound.</li>
+    </ul>
+  </li>
+  <li><strong>Display an icon in the browser status bar</strong>: Select this
+    to display an icon
+    <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+    icon"/> in the browser status bar to indicate that a popup is blocked.
 
-<p>&copy; 1998-2003 The Mozilla Organization.</p>
-<p>© Vertimas á lietuviø kalbà ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2004</p>
+    <p><strong>Note</strong>: After the popup control icon
+      <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup
+      control icon"/> appears, it remains visible until you visit another
+      website.</p>
+  </li>
+  <li><strong>Display a notification bar at the top of the content area</strong>:
+    Select this to display a notification bar above the website content area
+    whenever a popup is blocked. In the bar, use the Preferences button to choose
+    how to handle popups from that website.
+  </li>
+</ul>
+
+<p><strong>Using the popup control icon or notification bar to add allowed
+  websites</strong>: You can use the popup control icon or notification bar to
+  quickly add a website to the list of allowed websites. Click the icon
+  <img src="chrome://navigator/skin/icons/popup-blocked.png" alt="Popup control
+  icon"/> to open the list of allowed websites. The current website is
+  already filled in. Click Allow and then click OK to confirm your addition.
+  Similarly you can use the notification bar to allow popups from the current
+  website or open the list of allowed websites through Manage Popups. Just
+  click the Preferences button at the right end of the notification bar.</p>
+
+<p><strong>Note</strong>: Blocking popups may not always work and may interfere
+  with some websites. For more information about blocking popups, see
+  <a href="#controlling_popups">Controlling Popups</a>.</p>
+
 </body>
 </html>
