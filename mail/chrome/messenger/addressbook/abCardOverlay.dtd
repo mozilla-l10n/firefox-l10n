@@ -143,6 +143,8 @@ Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laišku
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC slapyvardis:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Nuotrauka">
 <!ENTITY Photo.accesskey                "N">
