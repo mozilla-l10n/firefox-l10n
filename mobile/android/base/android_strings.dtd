@@ -114,6 +114,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings "Svetainių nuostatos">
+<!ENTITY pref_private_data_downloadFiles "Parsiųsti failai">
 
 <!ENTITY pref_update_autodownload "Automatiniai naujinimai">
 <!ENTITY pref_update_autodownload_wifi "Tik belaidžiu ryšiu">
@@ -204,7 +205,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Keisti">
 <!ENTITY abouthome_topsites_pin "Įsegti svetainę">
 <!ENTITY abouthome_topsites_unpin "Išsegti svetainę">
-<!ENTITY abouthome_topsites_unpinall "Išsegti visas">
+<!ENTITY abouthome_topsites_remove "Pašalinti">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps3): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
