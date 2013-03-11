@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY userStylesLabel       "Tik naudotojo stiliai">
+<!ENTITY browserStylesLabel    "Rodyti naršyklės stilius">
 
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
@@ -21,11 +21,6 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Paiešką tenkinančių stiliaus savybių nėra.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Neatitikę selektoriai">
-
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
@@ -34,7 +29,6 @@
 <!ENTITY bestMatch             "Geriausias atitikmuo">
 <!ENTITY matched               "Atitikmuo">
 <!ENTITY parentMatch           "Tėvinio elemento atitikmuo">
-<!ENTITY unmatched             "Taisyklė netaikoma">
 
 <!-- FIXME: notes -->
 <!ENTITY computedViewTitle     "Rezultatas">

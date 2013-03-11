@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey   "N"> 
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
-<!ENTITY clearRecentHistory.accesskey           "V">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Pradėti privatųjį naršymą">
-<!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Baigti privatųjį naršymą">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label                   "Rodymas"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey     "r">
 
 <!ENTITY openCmd.commandkey            "l">
-<!ENTITY urlbar.placeholder            "Atverti svetainę">
+<!ENTITY urlbar.placeholder2           "Įveskite adresą arba paieškos žodžius">
 <!ENTITY urlbar.accesskey              "d">
 <!ENTITY urlbar.switchToTab.label      "Pereiti į kortelę:">
 
@@ -427,6 +421,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "s">
 <!ENTITY emailAudioCmd.label          "Išsiųsti garso įrašą el. paštu…">
 <!ENTITY emailAudioCmd.accesskey      "s">
+<!ENTITY playPluginCmd.label          "Aktyvinti šį papildinį">
+<!ENTITY playPluginCmd.accesskey      "A">
+<!ENTITY hidePluginCmd.label          "Slėpti šį papildinį">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
@@ -574,8 +572,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Daugiau informacijos apie šią svetainę…">
 
-<!ENTITY allTabs.filter.emptyText "Paieška kortelėse">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label            "Kortelių juosta">
@@ -620,3 +616,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Prieiga prie kameros arba mikrofono">
 <!ENTITY webrtcIndicatorButton.tooltip "Parodyti svetaines, kurioms leidžiate prieiti prie savo kompiuoterio kameros arba mikrofono">
+
+<!ENTITY mixedContentBlocked.helplink "Sužinoti daugiau">
+<!ENTITY mixedContentBlocked.moreinfo "Dauguma svetainių veikia korektiškai net ir užblokavus šį turinį.">

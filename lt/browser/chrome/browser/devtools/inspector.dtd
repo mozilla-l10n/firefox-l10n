@@ -8,7 +8,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Kopijuoti išorinį HTML kodą">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "i">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Kopijuoti unikalų selektorių">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "u">
+
 <!ENTITY inspectorHTMLDelete.label          "Šalinti elementą">
 <!ENTITY inspectorHTMLDelete.accesskey      "š">
 
 <!ENTITY inspector.selectButton.tooltip     "Rinktis elementą pele">
+
+<!ENTITY inspectorSearchHTML.label          "Ieškoti HTML kode">
+<!ENTITY inspectorSearchHTML.key            "F">

@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Sekimas">
 
-<!ENTITY doNotTrack.label               "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
-<!ENTITY doNotTrack.accesskey           "s">
+<!ENTITY dntTrackingNopref.label        "Neinformuoti svetainių apie Jūsų nuomonę sekimo klausimu.">
+<!ENTITY dntTrackingNopref.accesskey    "e">
+<!ENTITY dntTrackingNotOkay.label       "Informuoti svetaines, jog nenorite, kad jos Jus sektų.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Informuoti svetaines, jog sutinkate, kad jos Jus sektų.">
+<!ENTITY dntTrackingOkay.accesskey      "s">
+<!ENTITY doNotTrackInfo.label           "Sužinoti daugiau">
 
 <!ENTITY  history.label                 "Žurnalas">
 
