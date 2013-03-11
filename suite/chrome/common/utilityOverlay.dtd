@@ -19,10 +19,12 @@
 <!ENTITY newPageFromTemplateCmd.accesskey           "š">
 <!ENTITY newPageFromDraftCmd.label                  "Tinklalapis iš juodraščio">
 <!ENTITY newPageFromDraftCmd.accesskey              "j">
-<!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
 <!ENTITY newNavigatorCmd.label                      "Naršyklės langas">
 <!ENTITY newNavigatorCmd.key                        "N">
 <!ENTITY newNavigatorCmd.accesskey                  "r">
+<!ENTITY newPrivateWindowCmd.label                  "Privataus naršymo langas">
+<!ENTITY newPrivateWindowCmd.key                    "P">
+<!ENTITY newPrivateWindowCmd.accesskey              "P">
 <!ENTITY printSetupCmd.label "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey "P">
 <!ENTITY printPreviewCmd.label "Spaudinio peržiūra">

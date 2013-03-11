@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "e">
 <!ENTITY chooseFile.label "Parinkti…">
 <!ENTITY chooseFile.accesskey "r">
+<!ENTITY newPrivate.label "naujame privačiojo naršymo lange">
 <!ENTITY newWindow.label "naujame naršyklės lange">
 <!ENTITY newTab.label "naujoje naršyklės kortelėje">
 <!ENTITY currentTab.label "aktyvioje naršyklės kortelėje">

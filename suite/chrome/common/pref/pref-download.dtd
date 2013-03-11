@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Atsiuntimai">
 
 <!ENTITY downloadBehavior.label         "Prasidėjus siuntimui">
-<!ENTITY focusWhenStarting.label        "Atkreipti dėmesį į atsiuntimų tvarkytuvės langą, jei jis jau atvertas. Priešingu atveju:">
-<!ENTITY focusWhenStarting.accesskey    "d">
+<!ENTITY doNothing.label                "Nieko neatverti">
+<!ENTITY doNothing.accesskey            "N">
 <!ENTITY openDM.label                   "Atverti atsiuntimo tvarkytuvę">
 <!ENTITY openDM.accesskey               "t">
 <!ENTITY openProgressDialog.label       "Atverti eigos langą">
 <!ENTITY openProgressDialog.accesskey   "e">
-<!ENTITY doNothing.label                "Nieko neatverti">
-<!ENTITY doNothing.accesskey            "N">
+<!ENTITY flashWhenOpen.label            "Mirktelėti atsiuntimų tvarkytuvės langą, jei jis jau atvertas">
+<!ENTITY flashWhenOpen.accesskey        "M">
 
 <!ENTITY downloadLocation.label         "Įrašant failą">
 <!ENTITY saveTo.label                   "Atsiunčiamus failus įrašyti į">

@@ -11,6 +11,8 @@
 <!ENTITY openLinkCmd.accesskey        "t">
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Atverti saitą privačiojo naršymo lange">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label    "Atverti">
 <!ENTITY openLinkInWindowCmd.accesskey "A">
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">

@@ -28,6 +28,9 @@
 <!ENTITY filterActionDesc.label           "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey       "v">
 
+<!ENTITY filterActionOrderWarning.label "Pastaba: filtrai bus vykdomi kita tvarka.">
+<!ENTITY filterActionOrder.label "Parodyti vykdymo tvarką">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label                "Perkelti į aplanką:">
 <!ENTITY copyMessage.label                "Nukopijuoti į aplanką:">
