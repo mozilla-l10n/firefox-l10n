@@ -558,6 +558,8 @@
 <!ENTITY appmenuEditMenu.label "Taisa">
 <!ENTITY appmenuQFBMenu.label "Sparčiojo filtro juosta">
 <!ENTITY appmenuToolbarLayout.label "Tvarkyti priemonių juostas…">
+<!ENTITY appmenuSelectThread.label "Pažymėti giją">
+<!ENTITY appmenuSelectFlagged.label "Pažymėti laiškus su žvaigždute">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nauja gairė…">
