@@ -482,7 +482,7 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "Plein écran">
 <!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Enregistrer un instantané sous…">
-<!ENTITY videoSaveImage.accesskey    "s">
+<!ENTITY videoSaveImage.accesskey    "n">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
