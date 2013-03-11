@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "B">
 <!ENTITY event.repeat.label                               "Kartojimasis:" >
 <!ENTITY event.repeat.accesskey                           "t">
+<!ENTITY event.until.label                                "Iki:">
+<!ENTITY event.until.accesskey                            "I">
 <!ENTITY event.reminder.label                             "Priminimas:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Aprašas:" >
