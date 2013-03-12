@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Mushjulhandling">
+<!ENTITY mouseWheelGroup.label           "Vertikal rulling">
+<!ENTITY mouseWheelHorizGroup.label      "Horisontal rulling">
+<!ENTITY sameAsVertical.label            "Samme som vertikal rulling">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Gjør ingenting">
 <!ENTITY doNothing.accesskey             "G">
+<!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "Rull i dokumentet">
 <!ENTITY scrollDocument.accesskey        "R">
+<!ENTITY scrollDocumentHoriz.accesskey   "c">
 <!ENTITY history.label                   "Flytt tilbake og frem i nettleserhistorikken">
 <!ENTITY history.accesskey               "F">
+<!ENTITY historyHoriz.accesskey          "b">
 <!ENTITY zoom.label                      "Zoom siden inn eller ut">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY mouseWheelSpeed.label           "Musrullehjulhastighet">
-<!ENTITY verticalSpeed.label             "Vertikalt:">
-<!ENTITY verticalSpeed.accesskey         "V">
-<!ENTITY verticalReverse.label           "Motsatt retning">
-<!ENTITY verticalReverse.accesskey       "M">
-<!ENTITY horizontalSpeed.label           "Horisontalt:">
-<!ENTITY horizontalSpeed.accesskey       "o">
-<!ENTITY horizontalReverse.label         "Motsatt retning">
-<!ENTITY horizontalReverse.accesskey     "t">
+<!ENTITY zoomHoriz.accesskey             "o">
+<!ENTITY wheelSpeed.label                "Mushjulhastighet:">
+<!ENTITY wheelSpeed.accesskey            "h">
+<!ENTITY wheelSpeedHoriz.accesskey       "s">
+<!ENTITY reverseDirection.label          "Motsatt retning">
+<!ENTITY reverseDirection.accesskey      "R">
+<!ENTITY reverseDirectionHoriz.accesskey "e">

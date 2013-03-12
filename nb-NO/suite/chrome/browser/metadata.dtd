@@ -12,6 +12,7 @@
 <!ENTITY image-width.label     "Bredde:">
 <!ENTITY image-height.label    "Høyde:">
 <!ENTITY image-filesize.label  "Filstørrelse:">
+<!ENTITY image-filesize.value  "Ukjent">
 <!ENTITY insdel-sec.label      "Sett inn/slett egenskaper">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Dato:">

@@ -15,8 +15,6 @@
 <!ENTITY warn.description                   "&brandShortName; kan varsle deg når sikkerhetsstatusen til nettsiden du viser endres. Sett &brandShortName; til å vise en advarsel og be om tillatelse før:">
 <!ENTITY warn.enteringsecure                "Innlasting av en side som støtter kryptering">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "Innlasting av en side som bruker lavgradskryptering">
-<!ENTITY warn.enteringweak.accesskey        "o">
 <!ENTITY warn.insecurepost                  "Sending av skjemadata fra en ukryptert side til en ukryptert side">
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Du forlater en side som støtter kryptering">

@@ -285,10 +285,12 @@
 <!ENTITY replyMsgCmd.label "Svar">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key	"r">
-<!ENTITY replySenderCmd.label "Svar til avsender">
-<!ENTITY replySenderCmd.accesskey "v">
+<!ENTITY replyListCmd.label "Svar til listen">
+<!ENTITY replyListCmd.accesskey "s">
 <!ENTITY replyNewsgroupCmd.label "Svar til nyhetsgruppe">
 <!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replySenderCmd.label "Svar bare til avsender">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey	"a">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -455,6 +457,8 @@
 <!ENTITY contextEditAsNew.accesskey "R">
 <!ENTITY contextReplySender.label "Svar til avsender">
 <!ENTITY contextReplySender.accesskey "r">
+<!ENTITY contextReplyList.label "Svar til liste">
+<!ENTITY contextReplyList.accesskey "v">
 <!ENTITY contextReplyNewsgroup.label "Svar til nyhetsgruppe">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Svar til alle">
