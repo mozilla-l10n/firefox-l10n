@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "注：过滤器操作将以不同的顺序运行。">
+<!ENTITY filterActionOrder.label "见执行顺序">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "移动消息至">
 <!ENTITY copyMessage.label "复制消息至">

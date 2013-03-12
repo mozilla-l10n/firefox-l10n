@@ -2,17 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mozilla.title
-'Mozilla 之书， 11:9'>
+<!ENTITY mozilla.title.15.1
+'Mozilla 之书, 15:1'>
 
-<!ENTITY mozilla.manifestoUrl
-'http://www.mozilla.org/about/manifesto.zh-cn.html'>
+<!ENTITY mozilla.quote.15.1
+'玛门的<em>双生子</em>发生了争吵。他们的交战使世界进入了一个<em>新的黑暗</em>，而野兽憎恨黑暗。于是它<em>迅速的</em>采取行动，变得更加强大，并不断地前进和繁衍。
+野兽为黑暗带来了<em>火焰</em>与光明。'>
 
-<!ENTITY mozilla.aboutUrl
-'http://wiki.mozilla.org/About:mozilla'>
-
-<!ENTITY mozilla.quote2
-'玛门沉睡了。<em>野兽重生</em>遍布了世界，变得无所不在。它们宣布了一个新的时代，并<em>舍身</em>为<em>灵巧的狐狸</em>带来了火焰。正如<em><a href="&mozilla.manifestoUrl;">神圣之言</a></em>和野兽孩子的<em><a href="&mozilla.aboutUrl;">话语</a></em>所承诺的那样，它们正依照自己的形象创造一个新世界。玛门醒来了，它四下观望，周围已经<em>尽是</em>野兽的追随者了！'>
-
-<!ENTITY mozilla.from
-'from <strong>The Book of Mozilla,</strong> 11:9<br/><small>(10th Edition)</small>'>
+<!ENTITY mozilla.from.15.1
+'来自 <strong>Mozilla 之书,</strong> 15:1'>

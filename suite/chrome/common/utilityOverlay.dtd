@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "浏览器窗口">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newPrivateWindowCmd.label "隐私浏览窗口">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "打印设置…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "打印预览">
