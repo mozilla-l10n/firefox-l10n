@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "隐私浏览">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; 目前是一个实验性功能。">
+<!ENTITY privatebrowsingpage.description  "在 &privatebrowsingpage.title; 窗口, &brandShortName; 不会保留任何磁盘高速缓存，Cookie，浏览、搜索、下载和网络表单历史。但下载的文件和保存的书签仍将被保留。">
+<!ENTITY privatebrowsingpage.moreinfo     "虽然这台计算机将不会保留有你的浏览历史纪录，您的雇主或互联网服务提供商可能仍然能够跟踪您访问过的网页。">
+<!ENTITY privatebrowsingpage.learnmore.label     "详细了解">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; 不会记录此窗口的任何历史。关闭窗口即可停止 &privatebrowsingpage.title;。">
+<!ENTITY privatebrowsingpage.switch.label        "切换到普通窗口">
+<!ENTITY privatebrowsingpage.switch.accesskey    "S">
+<!ENTITY privatebrowsingpage.normal       "您目前没有使用 &privatebrowsingpage.title;。">
+<!ENTITY privatebrowsingpage.private.label       "打开一个新的隐私浏览窗口">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
+<!ENTITY privatebrowsingpage.info         "要开始 &privatebrowsingpage.title;，您也可以选择文件 - 新建 - 隐私浏览窗口。">
