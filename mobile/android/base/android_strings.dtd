@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Katxea">
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
 <!ENTITY pref_private_data_siteSettings "Gunearen hobespenak">
+<!ENTITY pref_private_data_downloadFiles "Deskargatutako fitxategiak">
 
 <!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Editatu">
 <!ENTITY abouthome_topsites_pin "Ainguratu gunea">
 <!ENTITY abouthome_topsites_unpin "Desainguratu gunea">
-<!ENTITY abouthome_topsites_unpinall "Desainguratu denak">
+<!ENTITY abouthome_topsites_remove "Kendu">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Konfiguratu Firefox Sync zure beste gailuetatik laster-markak, historia eta fitxak atzitzeko&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Eskuratu aplikazioak Firefox Marketplace-tik eta deskubritu webak eskaintzeko daukan onena&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):

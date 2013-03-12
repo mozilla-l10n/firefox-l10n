@@ -4,3 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Fitxa berria">
+<!ENTITY newtab.undo.removedLabel "Koadro txikia kenduta.">
+<!ENTITY newtab.undo.undoButton "Desegin.">
+<!ENTITY newtab.undo.restoreButton "Berrezarri dena.">
+<!ENTITY newtab.undo.closeTooltip "Ezkutatu">

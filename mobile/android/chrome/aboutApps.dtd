@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Web aplikaziorik ez instalatuta. Eskura itzazu ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post "-tik.">
+<!ENTITY aboutApps.uninstall "Desinstalatu">
+<!ENTITY aboutApps.addToHomescreen "Gehitu hasierako pantailara">
