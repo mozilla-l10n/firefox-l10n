@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "跟踪">
 
-<!ENTITY doNotTrack.label               "告诉网站我不想被跟踪">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "不要告诉网站我对跟踪的任何偏好。">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "告诉网站我不想被跟踪。">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "告诉网站我想被跟踪。">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "了解更多">
 
 <!ENTITY  history.label                 "历史">
 
@@ -50,10 +55,10 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "您有可能想 ">
+<!ENTITY  rememberActions.pre.label           "您也许想 ">
 <!ENTITY  rememberActions.clearHistory.label  "清空近期历史记录">
 <!ENTITY  rememberActions.middle.label        "，或者 ">
-<!ENTITY  rememberActions.removeCookies.label "删除私人 Cookie">
+<!ENTITY  rememberActions.removeCookies.label "删除个人 Cookie">
 <!ENTITY  rememberActions.post.label          "。">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; 会在隐私浏览时使用相同的设置，且不会记录你浏览的任何网页。">
