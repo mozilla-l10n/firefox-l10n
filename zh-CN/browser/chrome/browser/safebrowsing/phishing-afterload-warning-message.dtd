@@ -22,7 +22,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "已报告的攻击页面！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "位于 <span id='malware_sitename'/> 的此网页曾被举报为恶意网页，已经被您所设置的安全策略阻挡。">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>攻击页面会尝试安装盗取私人信息的，或者利用您的计算机攻击他人或损害您系统的程序。</p><p>有些攻击页面还会故意散布有害软件，这些软件大多会在未告知所有者并获得允许的情况下安装。</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>攻击页面会尝试安装盗取个人信息，或者利用您的计算机攻击他人或损害您的系统的程序。</p><p>有些攻击页面还会故意散布有害的软件，这些软件大多会在未告知所有者并获得允许的情况下安装。</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "已报告的欺诈网站！">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
