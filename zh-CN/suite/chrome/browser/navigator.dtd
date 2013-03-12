@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "隐私浏览">
+
 <!ENTITY editPageCmd.label "编辑页面">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">

@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "重复：" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "直到：">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "提醒：" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "描述：" >

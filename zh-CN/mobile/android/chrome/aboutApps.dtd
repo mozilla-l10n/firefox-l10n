@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "还未安装 Web 应用。获取一些，从 ">
 <!ENTITY aboutApps.noApps.middle3 "火狐市场">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "卸载">
+<!ENTITY aboutApps.addToHomescreen "添加到主屏幕">

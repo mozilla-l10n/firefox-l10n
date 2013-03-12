@@ -6,23 +6,27 @@
 <!ENTITY pref.security.title              "隐私 &amp; 安全">
 
 <!ENTITY tracking.label                   "用户追踪">
-<!ENTITY doNotTrack.label                 "告诉网站我不希望被追踪">
-<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY trackingIntro.label              "网站可能跟踪您如何使用它们，从而影响您的隐私权。">
 
-<!ENTITY privateData.label                "隐私数据">
+<!ENTITY dntTellSites.label               "告诉网站有关我的跟踪偏好">
+<!ENTITY dntTellSites.accesskey           "T">
+<!ENTITY dntTrackingNotOkay.label         "我不想被跟踪">
+<!ENTITY dntTrackingNotOkay.accesskey     "n">
+<!ENTITY dntTrackingOkay.label            "我同意被跟踪">
+<!ENTITY dntTrackingOkay.accesskey        "c">
 
-<!ENTITY alwaysClear.label                "退出 &brandShortName; 时自动清除我的隐私数据">
-<!ENTITY alwaysClear.accesskey            "w">
 
-<!ENTITY askBeforeClear.label             "清除隐私数据之前询问我">
-<!ENTITY askBeforeClear.accesskey         "A">
-
-<!ENTITY clearDataSettings.label          "当要求 &brandShortName; 清除隐私数据时, 将清除:">
-
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 -->
-<!ENTITY clearDataDialog.label            "立即清除…">
-<!ENTITY clearDataSilent.label            "立即清空">
-<!ENTITY clearDataDialog.accesskey        "N">
+<!ENTITY safeBrowsing.label               "安全浏览">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; 可以阻止已被报告包含恶意内容的网站。">
+
+<!ENTITY blockAttackSites.label           "阻止已被报告的攻击站点（恶意软件，病毒）">
+<!ENTITY blockAttackSites.accesskey       "B">
+
+<!ENTITY blockWebForgeries.label          "阻止已被报告的伪造网站（钓鱼网站）">
+<!ENTITY blockWebForgeries.accesskey      "P">

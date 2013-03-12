@@ -9,7 +9,7 @@
 <!ENTITY pageTitle                 "&brandShortName; 反馈">
 
 <!ENTITY intro.header              "能占用您一分钟吗？">
-<!ENTITY intro.message             "请告诉我们您对安卓版 &brandShortName; 的看法。">
+<!ENTITY intro.message             "请告诉我们您对 Android 版 &brandShortName; 的看法。">
 <!ENTITY intro.happyLink           "我超喜欢">
 <!ENTITY intro.sadLink             "我遇到一些问题">
 <!ENTITY intro.ideaLink            "我有个建议">
