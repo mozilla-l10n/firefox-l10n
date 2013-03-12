@@ -107,7 +107,7 @@ size. -->
 <!ENTITY pref_show_product_announcements "显示产品公告">
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_search_suggestions "显示搜索建议">
-<!ENTITY pref_import_android "从安卓系统导入">
+<!ENTITY pref_import_android "从 Android 导入">
 <!ENTITY pref_private_data_history "浏览和下载历史">
 <!ENTITY pref_private_data_formdata "表单和搜索历史">
 <!ENTITY pref_private_data_cookies2 "Cookie 以及活动登录会话">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings "网站偏好">
+<!ENTITY pref_private_data_downloadFiles "已下载文件">
 
 <!ENTITY pref_update_autodownload "自动更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
@@ -203,7 +204,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "编辑">
 <!ENTITY abouthome_topsites_pin "固定网站">
 <!ENTITY abouthome_topsites_unpin "解除网站固定">
-<!ENTITY abouthome_topsites_unpinall "全部解除固定">
+<!ENTITY abouthome_topsites_remove "移除">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -242,7 +244,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "一些私人数据不能被清除">
 
 <!ENTITY bookmarkhistory_button_import "导入">
-<!ENTITY bookmarkhistory_import_both "从安卓系统导入书签和历史记录">
+<!ENTITY bookmarkhistory_import_both "从 Android 导入书签和历史记录">
 <!ENTITY bookmarkhistory_import_bookmarks "正在从 Android 导入书签">
 <!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史纪录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
