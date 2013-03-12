@@ -27,7 +27,7 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Wydarzenia w tym miesiącu kalendarzowym">
 
 <!ENTITY calendar.unifinder.tree.done.label              "Wykonane">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Kliknij, by posortować według Wykonane">
+<!ENTITY calendar.unifinder.tree.done.tooltip "Kliknij, by posortować według wykonanych zadań">
 <!ENTITY calendar.unifinder.tree.priority.label          "Priorytet">
 <!ENTITY calendar.unifinder.tree.priority.tooltip        "Kliknij, by posortować według priorytetu">
 <!ENTITY calendar.unifinder.tree.title.label             "Nazwa">
@@ -51,7 +51,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label      "Nazwa kalendarza">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Kliknij, by posortować według nazwy kalendarza">
 <!ENTITY calendar.unifinder.tree.duration.label          "Pozostało">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Kliknij, by posortować według Pozostało">
+<!ENTITY calendar.unifinder.tree.duration.tooltip "Kliknij, by posortować według pozostałego czasu">
 <!ENTITY calendar.unifinder.close.tooltip                "Zamknij wyszukiwanie i listę zdarzeń">
 
 
