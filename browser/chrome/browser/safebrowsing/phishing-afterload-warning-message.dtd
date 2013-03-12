@@ -1,5 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeb.palm.accept.label "Tirem-me daqui!">
-<!ENTITY safeb.palm.accept.statustext "Ir para a minha página inicial">
+<!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!ENTITY safeb.palm.notforgery.label2 "Não é uma tentativa de falsificação...">
 <!ENTITY safeb.palm.reportPage.label "Porque é que este sítio foi bloqueado?">
 
