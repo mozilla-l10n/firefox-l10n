@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Jarraipena">
 
-<!ENTITY doNotTrack.label               "Esan webguneei nire jarraipenik ez egiteko">
-<!ENTITY doNotTrack.accesskey           "w">
+<!ENTITY dntTrackingNopref.label        "Ez eman guneei nire jarraipen-hobespenen berri.">
+<!ENTITY dntTrackingNopref.accesskey    "z">
+<!ENTITY dntTrackingNotOkay.label       "Esan guneei nire jarraipenik ez egiteko.">
+<!ENTITY dntTrackingNotOkay.accesskey   "i">
+<!ENTITY dntTrackingOkay.label          "Esan guneei nire jarraipena egiteko.">
+<!ENTITY dntTrackingOkay.accesskey      "j">
+<!ENTITY doNotTrackInfo.label           "Argibide gehiago">
 
 <!ENTITY  history.label                 "Historia">
 

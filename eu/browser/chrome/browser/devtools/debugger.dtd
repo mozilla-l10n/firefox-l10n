@@ -93,6 +93,11 @@
 
 <!ENTITY debuggerUI.searchVariable      "Iragazi aldagaiak">
 <!ENTITY debuggerUI.searchVariable.key  "a">
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables      "Eraman fokua aldagaien zuhaitzera">
+<!ENTITY debuggerUI.focusVariables.key  "d">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 

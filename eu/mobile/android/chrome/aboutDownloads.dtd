@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Deskargak">
 <!ENTITY aboutDownloads.header                     "Zure deskargak">
 <!ENTITY aboutDownloads.empty                      "Deskargarik ez">
+
+<!ENTITY aboutDownloads.open                       "Ireki">
+<!ENTITY aboutDownloads.remove                     "Ezabatu">
+<!ENTITY aboutDownloads.removeAll                  "Ezabatu denak">
+<!ENTITY aboutDownloads.pause                      "Pausarazi">
+<!ENTITY aboutDownloads.resume                     "Berrekin">
+<!ENTITY aboutDownloads.cancel                     "Utzi">
+<!ENTITY aboutDownloads.retry                      "Saiatu berriro">
