@@ -35,4 +35,4 @@
 <!ENTITY lightning.toolbar.month.label               "Miesiąc">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!ENTITY lightning.toolbar.appmenuButton.label "Menu">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip "Wyświetla menu programu &brandShortName;">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">

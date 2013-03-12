@@ -550,7 +550,7 @@
 <!ENTITY chatButton.tooltip "Wyświetl kartę czatów">
 <!ENTITY tagButton.tooltip         "Oznacz wiadomości etykietą">
 <!ENTITY compactButton.tooltip     "Porządkuj folder, aby wyczyścić pozostałości po usuniętych wiadomościach">
-<!ENTITY appmenuButton1.tooltip "Wyświetla menu programu &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
