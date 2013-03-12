@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "Palauta &brandShortName; alkutilaansa">
 <!ENTITY resetProfile.description         "Jos olet kohdannut vakavia, ei ratkaistavia ongelmia, voit palauttaa &brandShortName;in alkutilaan säilyttäen vain keskeisimmät tietosi.">
-<!ENTITY resetProfile.button.label        "Nollaa &brandShortName;…">
+<!ENTITY resetProfile.button.label2       "Nollaa &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "Odota hetki kun &brandShortName; siivoaa vanhoja tietojasi…">
