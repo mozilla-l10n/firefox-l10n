@@ -13,9 +13,6 @@
 <!ENTITY prefEnableHTTP11.label              "Bruk HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Tillat Keep-Alive">
-<!ENTITY prefEnableKeepAlive.accesskey       "T">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "p">
 <!ENTITY prefEnablePipelining.label          "Tillat pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "p">
 <!ENTITY prefEnablePipeliningProxy.accesskey "l">
