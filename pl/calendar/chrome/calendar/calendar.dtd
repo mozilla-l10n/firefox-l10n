@@ -272,7 +272,7 @@
 <!ENTITY calendar.alarm.details.label               "Szczegóły…">
 <!ENTITY calendar.alarm.snoozefor.label             "Przypomnij za" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Przypomnij o wszystkich za" >
-<!ENTITY calendar.alarm.title.label                 "Przypomnienie kalendarza" >
+<!ENTITY calendar.alarm.title.label "Przypomnienia kalendarza">
 <!ENTITY calendar.alarm.dismiss.label               "Wyłącz" >
 <!ENTITY calendar.alarm.dismissall.label            "Wyłącz wszystkie przypomnienia" >
 
