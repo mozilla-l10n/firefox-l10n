@@ -2,7 +2,7 @@
 <!ENTITY inspectorHTMLCopyInner.accesskey   "b">
 
 <!ENTITY inspectorHTMLCopyOuter.label       "Kopiatu kanpoko HTMLa">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "k">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "K">
 
 <!ENTITY inspectorHTMLDelete.label          "Ezabatu nodoa">
 <!ENTITY inspectorHTMLDelete.accesskey      "E">
