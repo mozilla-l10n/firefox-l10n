@@ -26,6 +26,9 @@
 
 <!ENTITY filterActionDesc.label "Burutu ekintza hauek:">
 <!ENTITY filterActionDesc.accesskey "B">
+
+<!ENTITY filterActionOrderWarning.label "Oharra: iragazte-ekintzak beste ordena batean exekutatuko dira.">
+<!ENTITY filterActionOrder.label "Ikusi exekuzio-ordena">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Mugitu mezua hona:">

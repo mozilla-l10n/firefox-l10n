@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Editatu">
 <!ENTITY appmenuQFBMenu.label "Iragazki bizkorren barra">
 <!ENTITY appmenuToolbarLayout.label "Tresna-barraren diseinua…">
+<!ENTITY appmenuSelectThread.label "Hautatu haria">
+<!ENTITY appmenuSelectFlagged.label "Hautatu mezu izardunak">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Etiketa berria…">

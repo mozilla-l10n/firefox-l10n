@@ -145,6 +145,8 @@ jatorri horien txertatzea onartuko da.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC goitizena:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Argazkia">
 <!ENTITY Photo.accesskey                "A">
