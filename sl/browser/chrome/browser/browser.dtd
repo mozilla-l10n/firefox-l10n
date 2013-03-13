@@ -201,8 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label        "Poveži …">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY errorConsoleCmd.label "Konzola JavaScript">
-<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.label "Konzola napak">
+<!ENTITY errorConsoleCmd.accesskey "N">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Oddaljena spletna konzola">
