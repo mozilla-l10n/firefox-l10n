@@ -34,7 +34,7 @@
 <!ENTITY calendar.unifinder.tree.title.tooltip "Cliceáil chun sórtáil de réir: Teideal">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Déanta">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Cliceáil chun sórtáil de réir: &#37; Déanta">
-<!ENTITY calendar.unifinder.tree.startdate.label "Tús">
+<!ENTITY calendar.unifinder.tree.startdate.label "Tosaigh">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip "Cliceáil chun sórtáil de réir: Tús">
 <!ENTITY calendar.unifinder.tree.enddate.label "Deireadh">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip "Cliceáil chun sórtáil de réir: Críoch">

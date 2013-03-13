@@ -16,7 +16,7 @@
 
 <!ENTITY sync.subtitle.connect.label "Chun do ghléas nua a ghníomhachtú, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas.">
 <!ENTITY sync.subtitle.header2.label "Cuir an cód seo isteach i do ghléas eile">
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.connectlocation2.label "Roghnaigh “&sync.title.pair.label;” sa rannán &syncBrand.shortName.label; sna roghanna Firefox ar do ghléas eile.">
 <!ENTITY sync.subtitle.pair.label "Chun gníomhachtú, roghnaigh “Ceangail gléas” ar do ghléas eile.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
@@ -84,7 +84,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
 <!ENTITY bookmarks.folder.readinglist.label "Liosta Léitheoireachta">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "Feistithe">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">

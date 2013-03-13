@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title "Íosluchtú">
 <!ENTITY aboutDownloads.header "Do Chuid Íosluchtuithe">
 <!ENTITY aboutDownloads.empty "Gan Íosluchtú">
+
+<!ENTITY aboutDownloads.open "Oscail">
+<!ENTITY aboutDownloads.remove "Scrios">
+<!ENTITY aboutDownloads.removeAll "Scrios Uile">
+<!ENTITY aboutDownloads.pause "Cuir ar Shos">
+<!ENTITY aboutDownloads.resume "Lean">
+<!ENTITY aboutDownloads.cancel "Cealaigh">
+<!ENTITY aboutDownloads.retry "Atriail">

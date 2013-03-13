@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title "Comhtháthú Córais">
-<!ENTITY acceptIntegration.label "Set as Default">
-<!ENTITY cancelIntegration.label "Skip Integration">
+<!ENTITY acceptIntegration.label "Socraigh mar réamhshocrú">
+<!ENTITY cancelIntegration.label "Ná Bac le Comhtháthú">
 <!ENTITY defaultClient.intro "Úsáid &brandShortName; mar chliant réamhshocraithe le haghaidh:">
 
 <!ENTITY email.label "R-Phost">
 <!ENTITY newsgroups.label "Grúpaí-Nuachta">
 <!ENTITY feeds.label "Fothaí">
 
-<!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
+<!ENTITY unsetDefault.tooltip "Ní féidir &brandShortName; a dhíshocrú mar chliant réamhshocraithe taobh istigh de &brandShortName;. Chun feidhmchlár eile a roghnú, caithfidh tú an dialóg 'Socraigh mar réamhshocrú' san fheidhmchlár sin a úsáid.">
 
 <!ENTITY checkOnStartup.label "Seiceáil mar seo i gcónaí agus &brandShortName; á thosú">
 <!ENTITY checkOnStartup.accesskey "a">

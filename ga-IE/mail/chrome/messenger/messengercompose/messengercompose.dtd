@@ -139,7 +139,7 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Fógairt Stádais Sheachadta">
 <!ENTITY dsnMenu.accesskey "F">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY deliveryFormatMenu.label "Formáid Seachadta">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Uath-Bhrathadóireacht">
 <!ENTITY autoFormatCmd.accesskey "a">

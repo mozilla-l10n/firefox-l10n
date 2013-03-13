@@ -59,7 +59,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY one_tab "Cluaisín amháin">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; cluaisín">
 <!ENTITY new_tab_opened "Osclaíodh cluaisín nua">
 
 <!ENTITY settings "Socruithe">
@@ -75,7 +75,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 
 <!ENTITY pref_cookies_menu "Fianáin">
 <!ENTITY pref_cookies_accept_all "Cumasaithe">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
 <!ENTITY pref_char_encoding "Ionchódú carachtar">
@@ -117,6 +117,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Taisce">
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
 <!ENTITY pref_private_data_siteSettings "Sainroghanna suímh">
+<!ENTITY pref_private_data_downloadFiles "Comhaid íosluchtaithe">
 
 <!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
@@ -138,14 +139,14 @@ size. -->
 <!ENTITY desktop_mode "Iarr Suíomh don Ríomhaire">
 <!ENTITY tools "Uirlisí">
 <!ENTITY new_tab "Cluaisín Nua">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "Cluaisín Nua Príobháideach">
+<!ENTITY close_all_tabs "Dún Gach Cluaisín">
 <!ENTITY tabs_normal "Cluaisíní">
 <!ENTITY tabs_private "Príobháideach">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY tabs_synced "Sioncrónaithe">
+<!ENTITY wallpaper_success "Cúlbhrat nuashonraithe">
+<!ENTITY wallpaper_progress "Cúlbhrat á shocrú">
+<!ENTITY wallpaper_fail "Ní féidir cúlbhrat a shocrú">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -155,7 +156,7 @@ size. -->
 <!ENTITY find_close "Dún">
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_private_tab "Oscail i gCluaisín Príobháideach">
 <!ENTITY contextmenu_open_in_reader "Oscail i Léitheoir">
 <!ENTITY contextmenu_remove_history "Bain">
 <!ENTITY contextmenu_remove_bookmark "Bain">
@@ -164,7 +165,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Greamaigh agus Téigh">
 <!ENTITY contextmenu_paste "Greamaigh">
 <!ENTITY contextmenu_copyurl "Cóipeáil Seoladh">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "Eagar">
 
 <!ENTITY history_removed "Leathanach bainte">
 
@@ -202,15 +203,16 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Do chuid cluaisíní ón uair roimhe seo">
 <!ENTITY abouthome_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY abouthome_top_sites_title "Barrshuímh">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_edit "Eagar">
+<!ENTITY abouthome_topsites_pin "Feistigh an suíomh seo">
+<!ENTITY abouthome_topsites_unpin "Dífheistigh an suíomh seo">
+<!ENTITY abouthome_topsites_remove "Bain">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Socraigh Firefox Sync chun do stair, leabharmharcanna, agus cluaisíní a rochtain ar gach gléas atá agat&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Faigh feidhmchláir ó Mhargadh Fhirefox agus aimsigh na rudaí is fearr ar an nGréasán&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
@@ -254,7 +256,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "An bhfuil fonn ort moltaí cuardaigh &formatS; a chur ar siúl?">
 
 <!ENTITY webapp_generic_name "Feidhmchlár">
 
@@ -262,12 +264,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications -->
 
 <!ENTITY updater_start_title2 "Nuashonrú ar fáil: &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_select2 "Tapáil chun íosluchtú">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; á íosluchtú">
 <!ENTITY updater_downloading_title_failed2 "Theip ar íosluchtú">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_select2 "Tapáil chun an nuashonrú a chur i bhfeidhm tar éis íosluchtaithe">
+<!ENTITY updater_downloading_retry2 "Tapáil chun iarracht eile a dhéanamh">
 
 <!ENTITY updater_apply_title2 "Nuashonrú ar fáil: &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_select2 "Tapáil chun nuashonrú">

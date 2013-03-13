@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "a">
 <!ENTITY searchIntegration.label "Ceadaigh do &searchIntegration.engineName; teachtaireachtaí a chuardach">
 <!ENTITY searchIntegration.accesskey "C">
-<!ENTITY checkDefaultsNow.label "Check Now…">
-<!ENTITY checkDefaultsNow.accesskey "N">
+<!ENTITY checkDefaultsNow.label "Seiceáil Anois…">
+<!ENTITY checkDefaultsNow.accesskey "n">
 <!ENTITY configEditDesc.label "Cumraíocht Chasta">
 <!ENTITY configEdit.label "Eagarthóir Cumraíochta…">
 <!ENTITY configEdit.accesskey "C">

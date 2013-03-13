@@ -458,7 +458,7 @@
 <!ENTITY imStatus.unavailable "Níl ar fáil">
 <!ENTITY imStatus.offline "As Líne">
 <!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
-<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.label "Glac Páirt sa Chomhrá…">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Eagar">
 <!ENTITY appmenuQFBMenu.label "Barra Mearscagairí">
 <!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
+<!ENTITY appmenuSelectThread.label "Roghnaigh Snáithe">
+<!ENTITY appmenuSelectFlagged.label "Roghnaigh Teachtaireachtaí Marcáilte">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Clib Nua…">
