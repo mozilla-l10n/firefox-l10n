@@ -16,16 +16,19 @@
 <!ENTITY highPriorityCmd.label "Ard">
 <!ENTITY highestPriorityCmd.label "Is Airde">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextIncomingMail.label "Getting New Mail:">
-<!ENTITY contextIncomingMail.accesskey "G">
-<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm agus:">
+<!ENTITY contextIncomingMail.label "Ríomhphost Nua á Fháil:">
+<!ENTITY contextIncomingMail.accesskey "F">
+<!ENTITY contextManual.label "Rith de láimh">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
-<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+<!ENTITY contextBeforeCls.label "Scagadh roimh Aicmiú Dramhphoist">
+<!ENTITY contextAfterCls.label "Scagadh tar éis Aicmiú Dramhphoist">
 
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "g">
+
+<!ENTITY filterActionOrderWarning.label "Nóta: Cuirfear na scagairí i bhfeidhm in ord difriúil.">
+<!ENTITY filterActionOrder.label "Féach ar ord curtha i bhfeidhm">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Bog an teachtaireacht go">

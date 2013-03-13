@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey "d">
 <!ENTITY isDefault.label "Is é &brandShortName; do bhrabhsálaí réamhshocraithe faoi láthair">
 
-<!ENTITY dataChoicesTab.label "Data Choices">
+<!ENTITY dataChoicesTab.label "Roghanna Sonraí">
 
 <!ENTITY healthReportSection.label "Tuairisc Shláinte &brandShortName;">
 <!ENTITY healthReportDesc.label "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey "R">
-<!ENTITY healthReportLearnMore.label "Learn More">
+<!ENTITY enableHealthReport.label "Cumasaigh Tuairisc Shláinte &brandShortName;">
+<!ENTITY enableHealthReport.accesskey "T">
+<!ENTITY healthReportLearnMore.label "Tuilleadh Eolais">
 
-<!ENTITY telemetrySection.label "Telemetry">
-<!ENTITY telemetryDesc.label "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label "Enable Telemetry">
+<!ENTITY telemetrySection.label "Teiliméadracht">
+<!ENTITY telemetryDesc.label "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
+<!ENTITY enableTelemetry.label "Cumasaigh Teiliméadracht">
 <!ENTITY enableTelemetry.accesskey "T">
-<!ENTITY telemetryLearnMore.label "Learn More">
+<!ENTITY telemetryLearnMore.label "Tuilleadh Eolais">
 
 <!ENTITY crashReporterSection.label "Tuairisceoir na gClistí">
 <!ENTITY crashReporterDesc.label "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.label "Cumasaigh Tuairisceoir na gClistí">
 <!ENTITY enableCrashReporter.accesskey "C">
-<!ENTITY crashReporterLearnMore.label "Learn More">
+<!ENTITY crashReporterLearnMore.label "Tuilleadh Eolais">
 
 <!ENTITY networkTab.label "Líonra">
 

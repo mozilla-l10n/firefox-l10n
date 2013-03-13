@@ -54,7 +54,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label "Logáil">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Scríobh teachtaireachtaí seolta chuig window.console i logchomhad">
 <!ENTITY btnConsoleErrors "Earráidí">
 <!ENTITY btnConsoleInfo "Eolas">
 <!ENTITY btnConsoleWarnings "Rabhaidh">

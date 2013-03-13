@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Athdhéan:">
 <!ENTITY event.repeat.accesskey "A">
+<!ENTITY event.until.label "Go dtí:">
+<!ENTITY event.until.accesskey "d">
 <!ENTITY event.reminder.label "Meabhrúchán:">
 <!ENTITY event.reminder.accesskey "M">
 <!ENTITY event.description.label "Cur Síos:">

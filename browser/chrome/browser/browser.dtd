@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
-<!ENTITY clearRecentHistory.accesskey "S">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label "Tosaigh Brabhsáil Phríobháideach">
-<!ENTITY privateBrowsingCmd.start.accesskey "P">
-<!ENTITY privateBrowsingCmd.stop.label "Stop Brabhsáil Phríobháideach">
-<!ENTITY privateBrowsingCmd.stop.accesskey "P">
 <!ENTITY privateBrowsingCmd.commandkey "R">
 
 <!ENTITY viewMenu.label "Amharc">
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Téigh go Suíomh Gréasáin">
+<!ENTITY urlbar.placeholder2 "Cuardaigh nó cuir seoladh isteach">
 <!ENTITY urlbar.accesskey "m">
 <!ENTITY urlbar.switchToTab.label "Téigh go cluaisín:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey "a">
 <!ENTITY emailAudioCmd.label "Seol an Fhuaim trí Ríomhphost…">
 <!ENTITY emailAudioCmd.accesskey "a">
+<!ENTITY playPluginCmd.label "Cuir an forlíontán seo i ngníomh">
+<!ENTITY playPluginCmd.accesskey "C">
+<!ENTITY hidePluginCmd.label "Folaigh an forlíontán seo">
+<!ENTITY hidePluginCmd.accesskey "h">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "p">
 <!ENTITY copyImageCmd.label "Cóipeáil Suíomh na hÍomhá">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "atá á reáchtáil ag">
 
 <!ENTITY identity.moreInfoLinkText "Tuilleadh Eolais…">
-
-<!ENTITY allTabs.filter.emptyText "Cuardaigh Cluaisíní">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Cluaisíní brabhsálaí">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Rochtain ar Cheamara / Micreafón">
 <!ENTITY webrtcIndicatorButton.tooltip "Taispeáin na suímh a bhfuil tú ag comhroinnt do cheamara agus do mhicreafón leo">
+
+<!ENTITY mixedContentBlocked.helplink "Tuilleadh eolais">
+<!ENTITY mixedContentBlocked.moreinfo "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">

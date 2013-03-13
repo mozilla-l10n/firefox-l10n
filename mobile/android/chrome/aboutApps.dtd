@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Níl aon fheidhmchláir suiteáilte agat. Faigh feidhmchláir ón">
 <!ENTITY aboutApps.noApps.middle3 "Margadh Fhirefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Díshuiteáil">
+<!ENTITY aboutApps.addToHomescreen "Cuir leis an Scáileán Baile">
