@@ -32,7 +32,7 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip        "Egin klik lehentasunaren arabera ordenatzeko">
 <!ENTITY calendar.unifinder.tree.title.label             "Izenburua">
 <!ENTITY calendar.unifinder.tree.title.tooltip           "Egin klik izenburuaren arabera ordenatzeko">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; osatua">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#037; osatua">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Egin klik osatatuako ehunekoaren arabera ordenatzeko">
 <!ENTITY calendar.unifinder.tree.startdate.label         "Hasiera">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip       "Egin klik hasierako dataren arabera ordenatzeko">

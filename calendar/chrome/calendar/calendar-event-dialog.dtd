@@ -28,7 +28,7 @@
 <!ENTITY newevent.status.completed.label          "Noiz osatuko" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#37; osatua">
+<!ENTITY newtodo.percentcomplete.label      "&#037; osatua">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "E">
 <!ENTITY event.repeat.label                               "Errepikatu:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Noiz arte:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Gogorarazlea:" >
 <!ENTITY event.reminder.accesskey                         "G">
 <!ENTITY event.description.label                          "Deskribapena:" >
