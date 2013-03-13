@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Diese Seite abonnieren">
 <!ENTITY subscribeToPageMenuitem.label "Diese Seite abonnieren…">
 <!ENTITY addCurPagesCmd.label "Lesezeichen für alle Tabs hinzufügen…">
-<!ENTITY showAllBookmarks2.label "Alle Lesezeichen anzeigen">
+<!ENTITY showAllBookmarks2.label "Lesezeichen verwalten">
 <!ENTITY unsortedBookmarksCmd.label "Unsortierte Lesezeichen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
