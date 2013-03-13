@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Preklopi orodja">
 <!ENTITY devToolboxMenuItem.accesskey      "P">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Preklopi orodja za razvoj">
+<!ENTITY devToolbarToolsButton.tooltip     "Preklopi razvojna orodja">
 <!ENTITY devToolbarOtherToolsButton.label  "Več orodij">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
