@@ -85,7 +85,7 @@
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_text_size "Testuaren tamaina">
-<!ENTITY pref_reflow_on_zoom2 "Egin atximur testua modu jarraituan berriro jartzeko">
+<!ENTITY pref_reflow_on_zoom2 "Egin atximur testua pantailara egokitzeko">
 <!ENTITY pref_font_size_tiny "Txikitxoa">
 <!ENTITY pref_font_size_small "Txikia">
 <!ENTITY pref_font_size_medium "Normala">
