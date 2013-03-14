@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Filter spremenljivk">
 <!ENTITY debuggerUI.searchVariable.key  "S">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Osredotoči drevo spremenljivk">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Ta prekinitvena točka bo izvajanje ustavila le v primeru, da je naslednja izjava resnična">
