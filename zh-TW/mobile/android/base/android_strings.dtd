@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
-<!ENTITY pref_private_data_siteSettings "網站偏好設定">
+<!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
 
 <!ENTITY pref_update_autodownload "自動更新">
