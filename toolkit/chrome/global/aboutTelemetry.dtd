@@ -16,6 +16,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  সহজ পরিমাপ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "  সিস্টেম সংক্রান্ত তথ্য">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  অ্যাড-অন দ্বারা হিস্টোগ্রাম সংগৃহীত">

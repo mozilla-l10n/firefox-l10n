@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "ডাউনলোড">
 <!ENTITY aboutDownloads.header                     "আপনার ডাউনলোড">
 <!ENTITY aboutDownloads.empty                      "কোন ডাউনলোড নেই">
+
+<!ENTITY aboutDownloads.open                       "খুলুন">
+<!ENTITY aboutDownloads.remove                     "মুছে ফেলুন">
+<!ENTITY aboutDownloads.removeAll                  "সবকিছু মুছে ফেলুন">
+<!ENTITY aboutDownloads.pause                      "বিরতি">
+<!ENTITY aboutDownloads.resume                     "পুনরায় শুরু">
+<!ENTITY aboutDownloads.cancel                     "বাতিল">
+<!ENTITY aboutDownloads.retry                      "পুনরায় চেষ্টা করুন">

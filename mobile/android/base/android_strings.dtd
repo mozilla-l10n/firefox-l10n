@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "অক্ষর এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
-<!ENTITY pref_char_encoding_off "মেনু প্রদর্শিত হবে না">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "ব্যাক্তিগত ডাটা মুছে ফেলা হবে">
 <!ENTITY pref_plugins "প্লাগইন">
 <!ENTITY pref_plugins_enabled "সক্রিয়">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "আপনার প্রত্যাশার চাইতে আরো দ্রুত গতিতে একটি কমলা শিয়াল অনেক উঁচুতে লাফাতে পারে। আরো  নমনীয় ভাবে এবং আরো নিরাপদে। অলাভজনক হিসেবে, আপনার তরফ থেকে কোনো ধরনের আপোষের চাপ ছাড়াই আমরা\ বিনামূল্যে পরিবর্তন করে দিচ্ছি।এটার মানে হচ্ছে যে এটা আপনার জন্য একটি ভাল অভিজ্ঞতা এবং একটি ওয়েবের জন্য উজ্জ্বল ভবিষ্যত।">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_show_product_announcements "পণ্যের ঘোষণা প্রদর্শন করুন">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings "সাইটের পছন্দসমূহ">
+<!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "স্বয়ংক্রিয় হালনাগাদ">
 <!ENTITY pref_update_autodownload_wifi "শুধু ওয়াইফাই নির্ভর">
@@ -136,14 +137,14 @@ size. -->
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
+<!ENTITY close_all_tabs "সবগুলি ট্যাব বন্ধ করুন">
 <!ENTITY tabs_normal "ট্যাব">
-<!ENTITY tabs_private "Private">
+<!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY wallpaper_success "ওয়ালপেপার আপডেট করা হয়েছে">
+<!ENTITY wallpaper_progress "ওয়ালপেপার সেটিং">
+<!ENTITY wallpaper_fail "ওয়ালপেপার সেট করতে ব্যার্থ হয়েছে">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -153,7 +154,7 @@ size. -->
 <!ENTITY find_close "বন্ধ">
 
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
+<!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_open_in_reader "একটি রিডার খুলুন">
 <!ENTITY contextmenu_remove_history "অপসারণ">
 <!ENTITY contextmenu_remove_bookmark "অপসারণ">
@@ -203,12 +204,13 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "বুকমার্কে প্রবেশ করতে ফায়ারফক্স সিঙ্ক সেটআপ করুন,ইতিহাস এবং ট্যাব আপনার অন্যান্য ডিভাইস থেকে &#x00A0;»">
 <!ENTITY abouthome_about_apps3 "মোজিলা মার্কেটপ্লেস থেকে অ্যাপ্লিকেশন পান এবং শ্রেষ্ঠ ওয়েব অফার&#x00A0;» আবিষ্কার করুন">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
