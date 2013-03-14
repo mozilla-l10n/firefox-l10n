@@ -12,7 +12,7 @@
 <!ENTITY abouthealth.intro.title "Dè th' ann an aithisg slàinte &brandShortName;?">
 
 <!ENTITY abouthealth.intro-enabled "Cruinnichidh &brandFullName; beagan dàta mun choimpiutair agad agus mar a chleachdas tu e airson 's gum bi am brabhsair ag obair nas fhearr dhut.">
-<!ENTITY abouthealth.intro-disabled "Chan eil thu a' cur dàta mun chleachdadh agad gu &vendorShortName;. 'S urrainn dhut ar cuideachadh a leasachadh &brandShortName; 's tu a' briogadh air a' phutan &quot;&abouthealth.optin;&quot;.">
+<!ENTITY abouthealth.intro-disabled "Chan eil thu a&apos; cur dàta mun chleachdadh agad gu &vendorShortName;. &apos;S urrainn dhut ar cuideachadh a leasachadh &brandShortName; &apos;s tu a&apos; briogadh air a&apos; phutan &quot;&abouthealth.optin;&quot;.">
 
 <!ENTITY abouthealth.optin "Cuidich leinn a' leasachadh &brandShortName;">
 <!ENTITY abouthealth.optout "Cuir dheth na h-aithisgean">
