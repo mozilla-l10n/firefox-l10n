@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "পুনরুদ্ধার">
 <!ENTITY restorepage.listHeader     "উইন্ডো এবং ট্যাব">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "উইন্ডো &#37;S">
+<!ENTITY restorepage.windowLabel    "Window &#37;S">

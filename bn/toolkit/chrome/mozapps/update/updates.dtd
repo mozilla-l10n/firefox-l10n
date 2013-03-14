@@ -33,8 +33,8 @@
 <!ENTITY  evangelism.desc                 "যত তাড়াতাড়ি সম্ভব &brandShortName; এর এই হালনাগাদটি 
 কার্যকর করার সুপারিশ করা হচ্ছে।">
 
-<!ENTITY  license.instructions            'আপনি চুক্তির শর্তাবলীতে সম্মত হলে, নীচে অবস্থিত "আমি সম্মত" ক্লিক করে 
-হালনাগাদ ইনস্টল করুন।'>
+<!ENTITY  license.instructions            "আপনি চুক্তির শর্তাবলীতে সম্মত হলে, নীচে অবস্থিত &quot;আমি সম্মত&quot; ক্লিক করে 
+হালনাগাদ ইনস্টল করুন।">
 
 <!ENTITY  license.titleText               "সফটওয়্যার লাইসেন্স চুক্তি">
 <!ENTITY  license.introText               "এই সফটওয়্যার ব্যবহারের শর্তাবলী।">
