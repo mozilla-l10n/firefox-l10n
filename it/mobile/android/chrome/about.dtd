@@ -10,7 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Controlla aggiornamenti »">
 <!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
 <!ENTITY aboutPage.checkForUpdates.none "Nessun agg. disponibile">
-<!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
+<!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile, tocca per scaricare">
+<!ENTITY aboutPage.checkForUpdates.downloading "Download aggiornamento…">
+<!ENTITY aboutPage.checkForUpdates.downloaded "Aggiornamento scaricato, tocca per installare">
 <!ENTITY aboutPage.faq.label "FAQ">
 <!ENTITY aboutPage.support.label "Supporto">
 <!ENTITY aboutPage.privacyPolicy.label "Informativa sulla privacy">
