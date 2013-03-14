@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "কোন ওয়েব অ্যাপ ইনস্টল করা নেই। এখান থেকে সংগ্রহ করুন ">
 <!ENTITY aboutApps.noApps.middle3 "ফায়ারফক্স মার্কেটপ্লেস">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "আনইনস্টল">
+<!ENTITY aboutApps.addToHomescreen "হোম স্ক্রীনে যোগ করা হবে">

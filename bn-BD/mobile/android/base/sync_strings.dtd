@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন।">
 <!ENTITY sync.link.advancedsetup.label "উন্নত সেটআপ…">
-<!ENTITY sync.link.nodevice.label "আমার\ কাছে ডিভাইসটি নেই…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "অন্য ডি‌ভাইসের জন্য অপেক্ষা করুন…">
