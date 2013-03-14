@@ -6,7 +6,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Vérifier les mises à jour »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Recherche de mises à jour…">
 <!ENTITY aboutPage.checkForUpdates.none         "Aucune mise à jour disponible">
-<!ENTITY aboutPage.checkForUpdates.found        "Mise à jour disponible">
+<!ENTITY aboutPage.checkForUpdates.available    "Mise à jour disponible ; cliquer pour la télécharger">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Téléchargement de la mise à jour…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Mise à jour téléchargée ; cliquer pour l'installer">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Assistance">
 <!ENTITY aboutPage.privacyPolicy.label          "Politique de confidentialité">
