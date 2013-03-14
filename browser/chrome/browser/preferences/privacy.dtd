@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Sledenje">
 
-<!ENTITY doNotTrack.label               "Spletnim stranem sporoči, naj mi ne sledijo">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Spletnim stranem ne sporočaj mojih nastavitev sledenja.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Spletnim stranem sporoči, naj mi ne sledijo.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Spletnim stranem sporoči, naj mi sledijo.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Več o tem">
 
 <!ENTITY  history.label "Zgodovina">
 

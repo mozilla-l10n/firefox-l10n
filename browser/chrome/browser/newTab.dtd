@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nov zavihek">
+<!ENTITY newtab.undo.removedLabel "Sličica odstranjena.">
+<!ENTITY newtab.undo.undoButton "Razveljavi.">
+<!ENTITY newtab.undo.restoreButton "Obnovi vse.">
+<!ENTITY newtab.undo.closeTooltip "Skrij">
