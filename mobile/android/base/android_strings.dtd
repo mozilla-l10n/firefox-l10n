@@ -55,9 +55,9 @@
 
 <!ENTITY close_tab "Lukk fane">
 <!ENTITY one_tab "1 fane">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d faner">
+<!ENTITY num_tabs2 "&formatD; faner">
 <!ENTITY new_tab_opened "Ny fane åpnet">
 
 <!ENTITY settings "Innstillinger">
