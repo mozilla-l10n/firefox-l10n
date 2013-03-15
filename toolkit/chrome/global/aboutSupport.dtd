@@ -33,8 +33,6 @@
 <!ENTITY aboutSupport.installationHistoryTitle "સ્થાપન ઇતિહાસ">
 <!ENTITY aboutSupport.updateHistoryTitle "ઇતિહાસને સુધારો">
 
-<!ENTITY aboutSupport.copyToClipboard.label "ક્લિપબોર્ડમાં બધાની નકલ કરો">
-
 <!ENTITY aboutSupport.appBasicsCrashIDs "ભંગાણ અહેવાલો">
 <!ENTITY aboutSupport.appBasicsMemoryUse "મેમરી વપરાશ">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "અગત્યની સુધારા પસંદગીઓ">

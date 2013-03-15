@@ -33,13 +33,6 @@
 <!ENTITY alwaysAsk.label "ફાઈલો ક્યાં સંગ્રહવી છે તેના માટે હંમેશા મને પૂછો">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY addonsMgr.label            "એડ-ઓન">
-<!ENTITY manageAddons.label         "એડ-ઓનની વ્યવસ્થા કરો...">
-<!ENTITY manageAddons.accesskey     "M">
-
-<!ENTITY manageAddonsDescWin.label     "તમારા એડ-ઓન માટેના વિકલ્પો બદલો">
-<!ENTITY manageAddonsDescUnix2.label   "તમારા એડ-ઓન માટેની પસંદગી બદલો">
-
 <!ENTITY chooseBookmark.label      "બુકમાર્ક વાપરો…">
 <!ENTITY chooseBookmark.accesskey  "B">
 
