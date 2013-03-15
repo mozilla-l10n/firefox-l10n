@@ -52,10 +52,10 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Vula ifolda enento">
-<!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show In Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Retry">
+<!ENTITY cmd.show.accesskey               "f">
+<!ENTITY cmd.showMac.label                "Bonisa KwiSifumanisi">
+<!ENTITY cmd.showMac.accesskey            "S">
+<!ENTITY cmd.retry.label                  "Phinda uzame">
 <!ENTITY cmd.goToDownloadPage.label       "Yiya kwikhasi lokukhutshelwayo">
 <!ENTITY cmd.goToDownloadPage.accesskey   "Y">
 <!ENTITY cmd.copyDownloadLink.label       "Khuphela iqhosha lokukhutshelwayo">

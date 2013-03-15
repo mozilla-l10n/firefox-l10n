@@ -4,6 +4,6 @@
 
 <!ENTITY window.title              "Khetha Isiqulathi Seefayili">
 <!ENTITY window.style              "width: 36em; height: 18em;">
-<!ENTITY moveTo.label              "Move to:">
-<!ENTITY newFolderButton.label     "New Folder">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY moveTo.label              "Fudusela kwi-:">
+<!ENTITY newFolderButton.label     "Ifolda entsha">
+<!ENTITY newFolderButton.accesskey "I">

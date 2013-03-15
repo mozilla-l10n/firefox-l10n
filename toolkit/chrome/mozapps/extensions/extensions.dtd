@@ -8,14 +8,14 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Loading…">
+<!ENTITY loading.label                        "Kuyalayishwa…">
 <!ENTITY listEmpty.installed.label            "Akunazo izongezelelo zolu didi ezifakelweyo">
-<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.availableUpdates.label     "Akukho zihlaziyi zifumanekayo">
 <!ENTITY listEmpty.recentUpdates.label        "Akuhlaziyanga naziphi na izongezelelo kutshanje">
-<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.findUpdates.label          "Khangela iZihlaziyi">
 <!ENTITY listEmpty.search.label               "Ayifumani naziphi na izongezelelo ezihambelanayo">
 <!ENTITY listEmpty.button.label               "Funda ngokungaphezulu ngezongezelelo">
-<!ENTITY installAddonFromFile.label           "Fakela izongezelelo ezisuka kule fayile...">
+<!ENTITY installAddonFromFile.label           "Fakela izongezelelo ezisuka kule fayile…">
 <!ENTITY installAddonFromFile.accesskey       "F">
 <!ENTITY toolsMenu.tooltip                    "Izixhobo zazo zonke izongezelelo">
 
@@ -25,10 +25,10 @@
 
 <!ENTITY warning.safemode.label                    "Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.">
 <!ENTITY warning.checkcompatibility.label          "Isongezelelo sokukhangela uhambelwanosiqhwalelisiwe. Usenokuba nezongezelelo ezingahambelaniyo.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.label   "Vumela">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Vumela isongezelelo sokukhangela uhambelwano">
 <!ENTITY warning.updatesecurity.label              "Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.label       "Vumela">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Vumela uhlaziyo lwesongezelelo sokukhangela ukhuseleko">
 <!-- global informations -->
 
@@ -42,15 +42,15 @@
 <!ENTITY view.availableUpdates.label          "Uhlaziyo olufumanekayo">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Check for Updates">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.label        "Khangela iZihlaziyi">
+<!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Jonga uhlaziyo lwakutshanje">
 <!ENTITY updates.viewUpdates.accesskey        "J">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Uhlaziyo nezongezelelo ngokuzenzekelayo">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "n">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -65,22 +65,22 @@
 <!ENTITY updates.installed.label              "Izongezelelo zakho zihlaziyiwe.">
 <!ENTITY updates.downloaded.label             "Uhlaziyo lwezongezelelo zakho zikhutshelwe.">
 <!ENTITY updates.restart.label                "Qalisa kwakhona ukugqibezela ufakelo">
-<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.noneFound.label              "Akukho zihlaziyi zifumanekayo">
 <!ENTITY updates.manualUpdatesFound.label     "Jonga uhlaziyo olufumanekayo">
-<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.label         "Fakela iZihlaziyi">
 <!ENTITY updates.updateSelected.tooltip       "Fakela uhlaziyo olufumanekayo kolu ludwe">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Bonisa inkcazelo engaphezulu">
 <!ENTITY cmd.showDetails.accesskey            "B">
-<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.label                "Fumana iZihlaziyi">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Options">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferences">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "About">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.preferencesWin.label             "Ekunokukhethwa kuko">
+<!ENTITY cmd.preferencesWin.accesskey         "E">
+<!ENTITY cmd.preferencesUnix.label            "Izikhethwa">
+<!ENTITY cmd.preferencesUnix.accesskey        "I">
+<!ENTITY cmd.about.label                      "Malunga">
+<!ENTITY cmd.about.accesskey                  "M">
 
 <!ENTITY cmd.enableAddon.label                "Vumela">
 <!ENTITY cmd.enableAddon.accesskey            "V">
@@ -88,10 +88,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "Q">
 <!ENTITY cmd.enableTheme.label                "Umxholo wokuguga">
 <!ENTITY cmd.enableTheme.accesskey            "w">
-<!ENTITY cmd.disableTheme.label               "Nqumamisa umxholo wokuguga ">
+<!ENTITY cmd.disableTheme.label               "Nqumamisa umxholo wokuguga">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-<!ENTITY cmd.installAddon.label               "Install">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.label               "Fakela">
+<!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Ekunokukhethwa kuko">
@@ -119,37 +119,37 @@ ezingcono nezibalulekileyo ukuba ulinge zona.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Uguqulelo">
-<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.lastupdated.label             "Uhlaziyo lokuGqibela">
 <!ENTITY detail.creator.label                 "Umphuhlisi">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.homepage.label                "Ikhasi lasekhaya">
 <!ENTITY detail.numberOfDownloads.label       "Okukhutshelwayo">
 
 <!ENTITY detail.contributions.description     "Umphuhlisi wesi songezelelo ucela ukuba uxhase uphuhliso lwaso oluqhubayo ngokwenza igalelo elincinane.">
 
-<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateType                    "IZihlaziyi ezizenzekelayo">
 <!ENTITY detail.updateDefault.label           "Isiseko">
 <!ENTITY detail.updateDefault.tooltip         "Fakela uhlaziyo ngokuzenzekela kuphela ukuba oko kusisiseko">
 <!ENTITY detail.updateAutomatic.label         "Ivulile">
 <!ENTITY detail.updateAutomatic.tooltip       "Fakela uhlaziyo ngokuzenzekela">
 <!ENTITY detail.updateManual.label            "Icimile">
 <!ENTITY detail.updateManual.tooltip          "Ungalufakeli uhlaziyo ngokuzenzekelayo">
-<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.home                          "Ikhasi lasekhaya">
 <!ENTITY detail.repository                    "Iprofayile yesongezelelo">
 <!ENTITY detail.size                          "Ubungakanani">
 
-<!ENTITY detail.checkForUpdates.label         "Check for Updates">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "Khangela iZihlaziyi">
+<!ENTITY detail.checkForUpdates.accesskey     "i">
 <!ENTITY detail.checkForUpdates.tooltip       "Khangela uhlaziyo lwesi songezelelo">
-<!ENTITY detail.showPreferencesWin.label      "Options">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.label      "Ekunokukhethwa kuko">
+<!ENTITY detail.showPreferencesWin.accesskey  "E">
 <!ENTITY detail.showPreferencesWin.tooltip    "Tshintsha ekunokukhethwa kuko kwesi songezelelo">
-<!ENTITY detail.showPreferencesUnix.label     "Preferences">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.label     "Izikhethwa">
+<!ENTITY detail.showPreferencesUnix.accesskey "I">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Tshintsha iipriferensi zesi songezelelo">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Ukuthelekelela ">
+<!ENTITY rating2.label                        "Ukuthelekelel">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip               "Isiqabu">
@@ -158,21 +158,21 @@ ezingcono nezibalulekileyo ukuba ulinge zona.">
 
 
 <!ENTITY sort.name.label                      "Igama">
-<!ENTITY sort.name.tooltip                    "Sort by name">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.name.tooltip                    "Lungisa ngegama">
+<!ENTITY sort.dateUpdated.label               "Uhlaziyo lokuGqibela">
 <!ENTITY sort.dateUpdated.tooltip             "Landelelanisa ngokomhla wohlaziyo">
 <!ENTITY sort.relevance.label                 "Uhambelwano olungcono">
 <!ENTITY sort.relevance.tooltip               "Landelelanisa ngokokufaneleka">
 <!ENTITY sort.price.label                     "Ixabiso">
 <!ENTITY sort.price.tooltip                   "Landelelanisa ngokwexabiso">
 
-<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.label                 "Khangela:">
 <!ENTITY search.filter2.installed.label       "Izongezelelo zam">
 <!ENTITY search.filter2.installed.tooltip     "Bonisa izongezelelo ezifakelweyo">
 <!ENTITY search.filter2.available.label       "Izongezelelo ezifumanekayo">
 <!ENTITY search.filter2.available.tooltip     "Bonisa izongezelelo ezifumanekayo ukuba zingafakelwa">
 
-<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.homepage                       "Ikhasi lasekhaya">
 <!ENTITY addon.details.label                  "Ngaphezulu">
 <!ENTITY addon.details.tooltip                "Bonisa iinkcukacha ezingaphezulu ngesi songezelelo">
 <!ENTITY addon.unknownDate                    "Akwaziwa">
@@ -185,27 +185,27 @@ ezingcono nezibalulekileyo ukuba ulinge zona.">
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Hlaziya">
-<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.label               "Qhaqha okwenzileyo">
 <!ENTITY addon.undoAction.tooltip             "Rhoxisa eli nyathelo">
-<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.label               "Qhaqha okwenzileyo">
 <!ENTITY addon.undoRemove.tooltip             "Gcina esi songezelelo sifakelwe">
 <!ENTITY addon.restartNow.label               "Qalisa kwakhona ngoku">
-<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.label                  "Fakela">
 <!ENTITY addon.install.tooltip                "Fakela esi songezelelo">
 <!ENTITY addon.updateNow.label                "Hlaziya ngoku">
 <!ENTITY addon.updateNow.tooltip              "Fakela uhlaziyo kwesi songezelelo">
 <!ENTITY addon.includeUpdate.label            "Quka kuhlaziyo">
 <!ENTITY addon.updateAvailable.label          "Uhlaziyo luyafumaneka">
-<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
-<!ENTITY addon.releaseNotes.label             "Release Notes:">
-<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Uxolo, kwenzeke imposiso ekulayishweni kwamanqaku okukhulula">
+<!ENTITY addon.checkingForUpdates.label       "Ikhangela izihlaziyi…">
+<!ENTITY addon.releaseNotes.label             "Khulula Iingongoma:">
+<!ENTITY addon.loadingReleaseNotes.label      "Kuyalayishwa…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Uxolo, kwenzeke imposiso ekulayishweni kwamanqaku okukhulula.">
 
 <!ENTITY addon.createdBy.label                "ngu ">
 
 <!ENTITY eula.title                           "Sisivumelwano selayisensi yomsebenzisi">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Yamnkela uze ufakele ...">
+<!ENTITY eula.accept                          "Yamnkela uze ufakele…">
 
 <!ENTITY settings.path.button.label           "Bhrawuza…">

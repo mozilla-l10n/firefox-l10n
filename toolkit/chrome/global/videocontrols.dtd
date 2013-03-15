@@ -12,7 +12,7 @@
 <!ENTITY stats.media "Izilondolozi">
 <!ENTITY stats.size "Ubukhulu">
 <!ENTITY stats.activity "Umsebenzi">
-<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.activityPaused "Inqumamile">
 <!ENTITY stats.activityPlaying "Ukudlala">
 <!ENTITY stats.activityEnded "Yaphela">
 <!ENTITY stats.activitySeeking "(ukufuna)">
@@ -28,7 +28,7 @@
 <!ENTITY error.network "Ukudlala ubuyela umva kwevidiyo kuyekisiwe ngenxa yemposiso yenethiwekhi.">
 <!ENTITY error.decode "Ividiyo ayinakudlalwa kuba ifayile yonakalisiwe.">
 <!ENTITY error.srcNotSupported "Ifomathi yevidiyo okanye udidi lwe-MIME aluxhaswa.">
-<!ENTITY error.noSource2 "Akukho vidiyo enefomathi exhaswayo nenodidi lwe-MIME efumanekayo">
+<!ENTITY error.noSource2 "Akukho vidiyo enefomathi exhaswayo nenodidi lwe-MIME efumanekayo.">
 <!ENTITY error.generic "Ukudlala ubuyela umva kwevidiyo kuyekisiwe ngenxa yemposiso engaziwayo.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -19,27 +19,27 @@
 <!ENTITY productHelp.label        "&brandShortName; Uncedo">
 <!ENTITY productHelp.accesskey    "U">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe ...">
+<!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY helpSafeMode.accesskey   "Q">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "i-&brandShortName; iNgxelo yeMpilo">
+<!ENTITY healthReport.accesskey   "p">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inkcazelo yesisombululi-ngxaki">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
-<!ENTITY helpFeedbackPage.label      "Thumela ingxelo ...">
+<!ENTITY helpFeedbackPage.label      "Thumela ingxelo…">
 <!ENTITY helpFeedbackPage.accesskey  "T">
 
-<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.label        "Izikhethwa…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Iinkonzo">
 
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "Fihla i-&brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla ezinye">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!ENTITY showAllAppsCmdMac.label        "Bonisa Konke">

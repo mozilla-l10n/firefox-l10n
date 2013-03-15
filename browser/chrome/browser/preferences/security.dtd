@@ -18,21 +18,21 @@
 <!ENTITY  blockWebForgeries.label     "Thintela iinkohliso zewebhu ezixeliweyo">
 <!ENTITY  blockWebForgeries.accesskey "T">
 
-<!ENTITY  addonExceptions.label         "Exceptions…">
-<!ENTITY  addonExceptions.accesskey     "E">
+<!ENTITY  addonExceptions.label         "Izinxaxhi…">
+<!ENTITY  addonExceptions.accesskey     "I">
 
 
-<!ENTITY  passwords.label               "Passwords">
+<!ENTITY  passwords.label               "Iiphaswedi">
 
 <!ENTITY  rememberPasswords.label       "Khumbula iipasiwedi zeesayithi">
 <!ENTITY  rememberPasswords.accesskey   "K">
-<!ENTITY  passwordExceptions.label      "Exceptions…">
-<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  passwordExceptions.label      "Izinxaxhi…">
+<!ENTITY  passwordExceptions.accesskey  "n">
 
-<!ENTITY  useMasterPassword.label        "Use a master password">
-<!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Change Master Password…">
-<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  useMasterPassword.label        "Sebenzisa iphaswedi eyimasta">
+<!ENTITY  useMasterPassword.accesskey    "S">
+<!ENTITY  changeMasterPassword.label     "Guqula iPhaswedi eyiMasta…">
+<!ENTITY  changeMasterPassword.accesskey "i">
 
-<!ENTITY  savedPasswords.label            "Saved Passwords…">
-<!ENTITY  savedPasswords.accesskey        "P">
+<!ENTITY  savedPasswords.label            "Amagama Okugqithisa Agciniweyo…">
+<!ENTITY  savedPasswords.accesskey        "O">

@@ -6,7 +6,7 @@
 
 <!ENTITY warningDesc.version        "I-&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&vendorShortName; ukuze ibe nokwenza i-&brandShortName; ngcono">
+<!ENTITY warningDesc.telemetryDesc  "Ithumela ngokwayo inkcazelo engomsebenzi, ihadiwe, usetyenziso nolungiselelo kwi-&vendorShortName; ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -27,7 +27,7 @@
 
 <!ENTITY contribute.start           "Ivakala inomdla? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Zibandakanye nawe.">
+<!ENTITY contribute.getInvolvedLink "Zibandakanye nawe!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -40,9 +40,9 @@
 <!ENTITY bottomLinks.privacy        "Umgaqonkqubo Womba Wabucala">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Checking for updates…">
+<!ENTITY update.checkingForUpdates  "Ikhangela izihlaziyi…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Ukukhangela uvumelwano lwezongezelelo ---">
+<!ENTITY update.checkingAddonCompat "Ukukhangela uvumelwano lwezongezelelo…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "i-&brandShortName; igqibelele">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -69,10 +69,10 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Downloading update — ">
+<!ENTITY update.downloading.start   "Ikhuphela isihlaziyi — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Ukwenza uhlaziyo">
+<!ENTITY update.applying            "Ukwenza uhlaziyo…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

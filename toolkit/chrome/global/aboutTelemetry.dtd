@@ -28,7 +28,7 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (Akukho zingcombolo ziqokelelweyo)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: I-SQL ephelisa ubuzaza ecothayo ivunyelwe. Uluhlu lweekharakhtha e-SQL azeleyo anokuboniswa ngezantsi kodwa akayi kuthunyelwa kwiThelemetri">
+<!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: I-SQL ephelisa ubuzaza ecothayo ivunyelwe. Uluhlu lweekharakhtha e-SQL azeleyo anokuboniswa ngezantsi kodwa akayi kuthunyelwa kwiThelemetri.">
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Zisa amagama omsebenzi ocazululo olujingayo">
 

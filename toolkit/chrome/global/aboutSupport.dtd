@@ -7,17 +7,17 @@
 
 <!ENTITY aboutSupport.pageSubtitle "  Eli khasi liqulethe inkcazelo yobuchwepheshe enokuba luncedo xa 
 uzama ukusombulula ingxaki. Ukuba ufuna iimpendulo kwimibuzo eqhelekileyo 
-enge-brandShortName;, khangela kwisiza sethu <a id='supportLink'>support website</a>.">
+enge-&brandShortName;, khangela kwisiza sethu <a id='supportLink'>support website</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Izandiso">
-<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionName "Igama">
 <!ENTITY aboutSupport.extensionEnabled "Ezivunyelweyo">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionVersion "Uguqulelo">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Iziseko zeaplikheshini">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsName "Igama">
+<!ENTITY aboutSupport.appBasicsVersion "Uguqulelo">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Isalathiso seprofayile">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -26,8 +26,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ifolda yeprofayile">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Isoftwe encedisayo evunyelweyo">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Yakha uLungiselelo">
+<!ENTITY aboutSupport.appBasicsUserAgent "IArhente yomsebenzisi">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Iingxelo zomonakalo">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
 
@@ -41,12 +41,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Bonisa ifolda">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Iipriferensi ezilungisiweyo ezibalulekileyo">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsName "Igama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Ixabiso">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Iipriferensi ze-user.js">
-<!ENTITY aboutSupport.userJSDescription "Ifolda yakho yeprofayile iqulethea ifayile <a id='prefs-user-js-link'>user.js </a>, equlethe iipriferensi ezingenziwanga yi- &brandShortName;. ">
+<!ENTITY aboutSupport.userJSDescription "Ifolda yakho yeprofayile iqulethea ifayile <a id='prefs-user-js-link'>user.js </a>, equlethe iipriferensi ezingenziwanga yi- &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Iigrafikhi">
 

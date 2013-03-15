@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "Ukuhlohla Inkqubo">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Fakela kuphela izongezelelo zababhali obathembileyo">
+<!ENTITY warningPrimary.label    "Fakela kuphela izongezelelo zababhali obathembileyo.">
 <!ENTITY warningSecondary.label  "Isoftwe enobungozi ingayonakalisa ikhompyutha yakho okanye ikuphazamise kubungasese bakho.">
 
 <!ENTITY from.label "ukusuka:">

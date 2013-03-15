@@ -18,7 +18,7 @@
 <!ENTITY importFromChrome.label         "I-Chrome">
 <!ENTITY importFromChrome.accesskey     "I">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "x">
 
 <!ENTITY noMigrationSources.label       "Akukho ziprogram ziqulethe iibhukhmakhi, imbali okanye iingcombolo zepasiwedi zifumanekayo.">
 

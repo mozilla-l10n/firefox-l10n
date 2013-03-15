@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
-<!ENTITY places.library.title  "Ilayibhrari ">
+<!ENTITY places.library.title  "Ilayibhrari">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Ququzelela">
@@ -13,11 +13,11 @@
 <!ENTITY file.close.label               "Vala">
 <!ENTITY file.close.accesskey           "V">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Views">
-<!ENTITY views.accesskey                "V">
+<!ENTITY views.label                    "Iimbono">
+<!ENTITY views.accesskey                "I">
 <!ENTITY views.tooltip                  "Tshintsha uluvo lwakho">
-<!ENTITY view.columns.label             "Show Columns">
-<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.columns.label             "Bonisa iiKholam">
+<!ENTITY view.columns.accesskey         "i">
 <!ENTITY view.sort.label                "Landelelanisa">
 <!ENTITY view.sort.accesskey            "L">
 <!ENTITY view.unsorted.label            "Akuhlelahlelwanga">
@@ -27,22 +27,22 @@
 <!ENTITY view.sortDescending.label      "Ulandelelwano Lokuhlelahlela lwe-Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Ngenisa iibhukhmakhi kwi-HTML...">
+<!ENTITY importBookmarksFromHTML.label     "Ngenisa izalathisi eziphawulweyo ezivela ku-HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "N">
+<!ENTITY exportBookmarksToHTML.label       "Ngenisa iibhukhmakhi kwi-HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "N">
-<!ENTITY importOtherBrowser.label          "Thumela iingcombolo kwenye ibhrawuza...">
+<!ENTITY importOtherBrowser.label          "Thumela iingcombolo kwenye ibhrawuza…">
 <!ENTITY importOtherBrowser.accesskey      "k">
 
 <!ENTITY cmd.backup.label               "Ilalela…">
 <!ENTITY cmd.backup.accesskey           "I">
 <!ENTITY cmd.restore2.label             "Buyisela isimo">
 <!ENTITY cmd.restore2.accesskey         "B">
-<!ENTITY cmd.restoreFromFile.label      "Choose File…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.label      "Khetha Ifayili…">
+<!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.bookmarkLink.label         "Faka Isalathisi Esiphawulayo Kweli Khasi…">
+<!ENTITY cmd.bookmarkLink.accesskey     "F">
 <!ENTITY cmd.delete.label               "Cima eli khasi">
 <!ENTITY cmd.delete.accesskey           "C">
 <!ENTITY cmd.deleteDomainData.label     "Libala ngale sayithi">
@@ -50,18 +50,18 @@
 
 <!ENTITY cmd.open.label                  "Vula">
 <!ENTITY cmd.open.accesskey              "V">
-<!ENTITY cmd.open_window.label           "Open in a New Window">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_tab.label              "Open in a New Tab">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_window.label           "Vula kwiWindow entsha">
+<!ENTITY cmd.open_window.accesskey       "k">
+<!ENTITY cmd.open_tab.label              "Vula kwiThebhu eNtsha">
+<!ENTITY cmd.open_tab.accesskey          "t">
 <!ENTITY cmd.open_all_in_tabs.label      "Vula zonke iithebhu">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "V">
 
 <!ENTITY cmd.properties.label      "Iinkcazelo ngeempawu">
 <!ENTITY cmd.properties.accesskey  "w">
 
-<!ENTITY cmd.sortby_name.label              "Sort By Name">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.label              "Lungisa ngeGama">
+<!ENTITY cmd.sortby_name.accesskey          "L">
 <!ENTITY cmd.context_sortby_name.accesskey  "z">
 
 <!ENTITY cmd.new_bookmark.label            "Isalathisi Esiphawulayo Esitsha…">
@@ -69,27 +69,27 @@
 <!ENTITY cmd.new_folder.label              "Isiqulathi Seefayili Esitsha…">
 <!ENTITY cmd.new_folder.accesskey          "i">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "New Separator">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.label           "Isihlukanisi esitsha">
+<!ENTITY cmd.new_separator.accesskey       "I">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadLivebookmark.label      "Phinda ulayishe Isalathisi esiphawulayo esiphilayo">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "P">
 
-<!ENTITY cmd.moveBookmarks.label                  "Move…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
+<!ENTITY cmd.moveBookmarks.label                  "Hambisa…">
+<!ENTITY cmd.moveBookmarks.accesskey              "H">
 
 <!ENTITY col.name.label          "Igama">
-<!ENTITY col.tags.label          "Tags">
+<!ENTITY col.tags.label          "Iithegi">
 <!ENTITY col.url.label           "Indawo">
 <!ENTITY col.lastvisit.label     "Umhla wotyelelo">
 <!ENTITY col.visitcount.label    "Ubalo lotyelelo">
-<!ENTITY col.keyword.label       "Keyword">
+<!ENTITY col.keyword.label       "Igama eliphambili">
 <!ENTITY col.description.label   "Inkcazelo">
-<!ENTITY col.dateadded.label     "Added">
+<!ENTITY col.dateadded.label     "Okongeziweyo">
 <!ENTITY col.lastmodified.label  "Ihlengahlengiswe Okokugqibela">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.label                              "Zingela:">
+<!ENTITY search.accesskey                          "Z">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -97,18 +97,18 @@
 <!ENTITY maintenance.accesskey  "T">
 <!ENTITY maintenance.tooltip    "Thumela uze ulalelisele iibhukhmakhi zakho">
 
-<!ENTITY backButton.tooltip  "Go back">
+<!ENTITY backButton.tooltip  "Yiya emva">
 
 <!ENTITY forwardButton.tooltip  "Yiya phambili">
 
-<!ENTITY detailsPane.more.label "More">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.more.label "Okuninzi">
+<!ENTITY detailsPane.more.accesskey "n">
+<!ENTITY detailsPane.less.label "Okuncinci">
+<!ENTITY detailsPane.less.accesskey "n">
 <!ENTITY detailsPane.selectAnItemText.description "Khetha iayithem uyijonge uze uhlele iipropati zayo">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY find.label               "Zingela:">
+<!ENTITY find.accesskey           "Z">
 <!ENTITY view.label               "Jonga">
 <!ENTITY view.accesskey           "g">
 <!ENTITY byDate.label             "Ngalo Mhla">

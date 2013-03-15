@@ -25,7 +25,7 @@
 <!ENTITY  monospace.accesskey                     "I">
 
 <!ENTITY  font.langGroup.latin1                   "Ngokwasentshona">
-<!ENTITY  font.langGroup.latin2                   "NgokwaseYurophu eseMbindini ">
+<!ENTITY  font.langGroup.latin2                   "NgokwaseYurophu eseMbindini">
 <!ENTITY  font.langGroup.japanese                 "NgokwesiJapan">
 <!ENTITY  font.langGroup.trad-chinese             "NgokwesiTshayina Somthonyama (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "IsiTshayina Esenziwe Lula">

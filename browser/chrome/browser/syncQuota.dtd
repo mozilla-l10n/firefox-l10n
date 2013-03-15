@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY quota.dialogTitle.label    "Ubuninzi beseva">
-<!ENTITY quota.retrievingInfo.label "Ifumana inkcazelo yobuninzi...">
+<!ENTITY quota.retrievingInfo.label "Ifumana inkcazelo yobuninzi…">
 <!ENTITY quota.typeColumn.label     "Chwetheza">
 <!ENTITY quota.sizeColumn.label     "Ubukhulu">

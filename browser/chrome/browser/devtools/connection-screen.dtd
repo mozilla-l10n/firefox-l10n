@@ -12,7 +12,7 @@
 <!ENTITY host       "Umamkeli:">
 <!ENTITY port       "Isiqhagamshelisi:">
 <!ENTITY connect    "Connect">
-<!ENTITY connecting "Connecting…">
+<!ENTITY connecting "Umdibaniso…">
 <!ENTITY availableTabs "Available remote tabs:">
 <!ENTITY availableProcesses "Available remote processes:">
 <!ENTITY connectionError "Imposiso:">
