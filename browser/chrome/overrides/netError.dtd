@@ -51,7 +51,7 @@
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>অনলাইন অৱস্থালে গৈ পৃষ্ঠা পুনৰ ল'ড কৰিবলে &quot;পুনৰ চেষ্ঠা কৰক&quot; টিপক।</li> 
+<li>অনলাইন অৱস্থালে গৈ পৃষ্ঠা পুনৰ ল&apos;ড কৰিবলে &quot;পুনৰ চেষ্ঠা কৰক&quot; টিপক।</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তু এনক'ডিংত ভুল">
