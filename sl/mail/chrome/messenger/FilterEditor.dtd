@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "I">
 
+<!ENTITY filterActionOrderWarning.label "Opomba: dejanja filtra se bodo izvajala v drugačnem vrstnem redu.">
+<!ENTITY filterActionOrder.label "Vrstni red izvajanja">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Prestavi sporočilo v">
 <!ENTITY copyMessage.label "Kopiraj sporočilo v">
