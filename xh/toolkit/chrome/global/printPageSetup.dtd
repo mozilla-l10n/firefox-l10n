@@ -11,8 +11,8 @@
 <!ENTITY formatGroup.label   "Ufomatho">
 
 <!ENTITY orientation.label   "Uqhelaniso:">
-<!ENTITY portrait.label      "Portrait">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.label      "Iphotreyithi">
+<!ENTITY portrait.accesskey  "I">
 <!ENTITY landscape.label     "Imbonakalo-mhlaba">
 <!ENTITY landscape.accesskey "I">
 
@@ -33,14 +33,14 @@
 <!ENTITY marginGroup.label   "Imida (#1)">
 <!ENTITY marginUnits.inches  "ii-intshi">
 <!ENTITY marginUnits.metric  "iimilimitha">
-<!ENTITY marginTop.label     "Top:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginTop.label     "Phezulu:">
+<!ENTITY marginTop.accesskey "P">
+<!ENTITY marginBottom.label  "Phantsi:">
+<!ENTITY marginBottom.accesskey "P">
+<!ENTITY marginLeft.label    "Ekhohlo:">
+<!ENTITY marginLeft.accesskey "E">
+<!ENTITY marginRight.label   "Ekunene:">
+<!ENTITY marginRight.accesskey "E">
 
 <!ENTITY headerFooter.label  "Iiheda &amp; iiFuta">
 

@@ -4,15 +4,15 @@
 
 <!ENTITY tracking.label                 "Ukulanda umkhondo">
 
-<!ENTITY dntTrackingNopref.label        "Musa ukuxelela iisayithi nangayo nantoni na emalunga neepriferensi zam zokulandela umkhondo. ">
+<!ENTITY dntTrackingNopref.label        "Musa ukuxelela iisayithi nangayo nantoni na emalunga neepriferensi zam zokulandela umkhondo.">
 <!ENTITY dntTrackingNopref.accesskey    "s">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNotOkay.label       "Xelela iisayithi ukuba andifuni kulandwa mkhondo.">
+<!ENTITY dntTrackingNotOkay.accesskey   "f">
+<!ENTITY dntTrackingOkay.label          "Xelela iisayithi ukuba ndifuna ukulandwa mkhondo.">
+<!ENTITY dntTrackingOkay.accesskey      "X">
 <!ENTITY doNotTrackInfo.label           "Funda ngaphezulu">
 
-<!ENTITY  history.label                 "History">
+<!ENTITY  history.label                 "Imbali">
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
 
@@ -20,7 +20,7 @@
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Imbali neebhukhmakhi">
-<!ENTITY  locbar.history.label          "History">
+<!ENTITY  locbar.history.label          "Imbali">
 <!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
 <!ENTITY  locbar.nothing.label          "Akukho nto">
 
@@ -34,17 +34,17 @@
 <!ENTITY  keepUntil.accesskey           "G">
 
 <!ENTITY  expire.label                  "ziphelelwe">
-<!ENTITY  close.label                   "I close &brandShortName;">
+<!ENTITY  close.label                   "Ndivala i-&brandShortName;">
 <!ENTITY  askEachTime.label             "ndibuze ngawo onke amaxesha">
 
-<!ENTITY  cookieExceptions.label        "Exceptions…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.label        "Izinxaxhi…">
+<!ENTITY  cookieExceptions.accesskey    "I">
 
-<!ENTITY  showCookies.label             "Bonisa iikhukhi...">
+<!ENTITY  showCookies.label             "Bonisa iikhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.label          "i-&brandShortName; iya:">
+<!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Khumbula imbali">
 <!ENTITY  historyHeader.dontremember.label "Ungaze ukhumbule imbali">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa iisethingi zesiqhelo kwimbali">
@@ -75,11 +75,11 @@
 <!ENTITY  rememberHistory2.label      "Khumbula imbali yokubhrawuza nokukhuphela kwam">
 <!ENTITY  rememberHistory2.accesskey  "a">
 
-<!ENTITY  rememberSearchForm.label       "Khumbula imbali yokukhangela  neyefom">
-<!ENTITY  rememberSearchForm.accesskey   " ">
+<!ENTITY  rememberSearchForm.label       "Khumbula imbali yokukhangela neyefom">
+<!ENTITY  rememberSearchForm.accesskey   "i">
 
 <!ENTITY  clearOnClose.label             "Susa imbali xa i-&brandShortName; ivala">
-<!ENTITY  clearOnClose.accesskey         " ">
+<!ENTITY  clearOnClose.accesskey         "s">
 
 <!ENTITY  clearOnCloseSettings.label     "Imimiselo…">
 <!ENTITY  clearOnCloseSettings.accesskey "m">

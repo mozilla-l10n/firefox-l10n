@@ -12,7 +12,7 @@
 
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
 <!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. I-&brandShortName; iya kukhangela 
-izihlaziyi ngamaxesha ngamaxesha.">
+izihlaziyi ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
 kwe-&brandShortName; okuzenzekelayo.">
 
@@ -26,22 +26,22 @@ awunaso isithuba esaneleyo sokuyifakela.">
 <!ENTITY  manualUpdateGetMsg.label        "Ungasoloko ulufumana uguqulelo lwangoku lwe-&brandShortName; ku-:">
 
 <!ENTITY  incompatibleCheck.title         "Ikhangela uHambelwano lweSongezelelo">
-<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho...">
+<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho…">
 
 <!ENTITY  clickHere.label                 "Jonga ulwazi olungaphaya kolunikiweyo malunga nolu hlaziyo">
 
 <!ENTITY  evangelism.desc                 "Kucetyiswa kakhulu ukuba usebenzise olu 
 hlaziyo lwe-&brandShortName; ngokukhawuleza kangangoko.">
 
-<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi  sivumelwano, cofa Ndiyavuma 
-ngaphantsi ukuqhubeka nokufakela olu hlaziyo. ">
+<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma 
+ngaphantsi ukuqhubeka nokufakela olu hlaziyo.">
 
 <!ENTITY  license.titleText               "ISivumelwano seLayisensi yeSoftwe">
 <!ENTITY  license.introText               "Imiqathango nemimiselo yokusebenzisa le softwe.">
 <!ENTITY  license.instructionText         "Nceda ufunde isivumelwano selayisensi esilandelayo. Sebenzisa ibha yokusikrola ukusibona sonke esi sivumelwano.">
-<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
+<!ENTITY  license.accept                  "Mna ndiyayamkela imiqathango kwiSivumelwano seLayisensi">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
+<!ENTITY  license.decline                 "Mna Andiyamkeli imiqathango kwiSivumelwano seLayisensi">
 <!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "IZongezelelo ezingahambelaniyo ziFunyenwe">
@@ -68,7 +68,7 @@ kunye nokukhuphela uguqulelo lwamva nje:">
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. 
 i-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
 
-<!ENTITY  genericBackgroundError.label    "i-&brandShortName; iya kuzama kwakhona ngokukhuphela uHlaziyo olupheleleyo. Nceda 
+<!ENTITY  genericBackgroundError.label    "i-&brandShortName; ayikwazi ukumisela ukuba ingaba kukho uhlaziyo olufumanekayo na. Nceda 
 uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Kukho into eyithintelayo i-&brandShortName; ekuhlaziyeni ngokukhuselekileyo. 
 Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusuka:">

@@ -12,7 +12,7 @@
 <!ENTITY            start.label            "Qalisa i-&brandShortName;">
 <!ENTITY            exit.label             "Phuma">
 
-<!ENTITY            availprofiles.label    "Iiprofayile ezifumanekayo ">
+<!ENTITY            availprofiles.label    "Iiprofayile ezifumanekayo">
 
 <!ENTITY            newButton.label        "Yila iprofayile…">
 <!ENTITY            newButton.accesskey    "Y">

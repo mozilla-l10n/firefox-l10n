@@ -10,10 +10,10 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Iibhukhmakhi
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Izalathisi eziphawulayo
 
 
 #define bookmarks_toolbarfolder Ifolda yethulbha yeebhukhmakhi

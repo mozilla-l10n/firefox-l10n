@@ -4,13 +4,13 @@
 
 <!ENTITY  blockPopups.label           "Thintela iiwindow ezizivelelayo">
 <!ENTITY  blockPopups.accesskey       "T">
-<!ENTITY  popupExceptions.label       "Exceptions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label       "Izinxaxhi…">
+<!ENTITY  popupExceptions.accesskey   "I">
 
 <!ENTITY  loadImages.label            "Layisha imifuziselo ngokuzenzekelayo">
 <!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Exceptions…">
-<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  exceptions.label            "Izinxaxhi…">
+<!ENTITY  exceptions.accesskey        "n">
 
 <!ENTITY  enableJavaScript.label      "Yenza isebenze i-JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "i">
@@ -28,8 +28,8 @@
 <!ENTITY  defaultSize.label           "Ubungakanani:">
 <!ENTITY  defaultSize.accesskey       "U">
 
-<!ENTITY  advancedFonts.label         "Advanced…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.label         "Kwinqanaba Eseliphambili…">
+<!ENTITY  advancedFonts.accesskey     "K">
 
 <!ENTITY  colors.label                "Imibala…">
 <!ENTITY  colors.accesskey            "I">
@@ -37,5 +37,5 @@
 
 <!ENTITY languages.label              "Iilwimi">
 <!ENTITY chooseLanguage.label         "Khetha ulwimi oluthandayo lokubonisa amakhasi">
-<!ENTITY chooseButton.label           "Choose…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.label           "Khetha…">
+<!ENTITY chooseButton.accesskey       "e">

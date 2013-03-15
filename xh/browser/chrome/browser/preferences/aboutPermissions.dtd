@@ -23,22 +23,22 @@
 <!ENTITY permission.allowFirstPartyOnly  "Vumela iqela lokuqala kuphela">
 <!ENTITY permission.block                "Thintela">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY password.label                  "Gcina iiPhaswedi">
+<!ENTITY password.manage                 "Lawula iiPhaswedi…">
 
 <!ENTITY cookie.label                    "Misela iikhukhi">
 <!ENTITY cookie.remove                   "Susa ii-Cookies">
-<!ENTITY cookie.manage                   "Lawula iikhukhi ...">
+<!ENTITY cookie.manage                   "Lawula iikhukhi…">
 <!ENTITY cookie.removeAll                "Susa zonke iikhukhi">
 
-<!ENTITY geo.label                       "Share Location">
+<!ENTITY geo.label                       "Yabelana ngeNdawo">
 
-<!ENTITY plugins.label                   "Plugins">
+<!ENTITY plugins.label                   "Iisoftwe ezincedisayo">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
 <!ENTITY indexedDB.label                 "Londoloza i-Offline Storage">
 
-<!ENTITY popup.label                     "Vula iiwindowu ze-Pop-up ">
+<!ENTITY popup.label                     "Vula iiwindowu ze-Pop-up">
 
 <!ENTITY fullscreen.label                "Iskkrini esizeleyo">

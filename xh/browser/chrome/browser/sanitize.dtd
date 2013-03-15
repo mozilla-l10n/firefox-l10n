@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizePrefs2.title          "Iisethingi zokususa imbali">
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizeDialog2.title         "Susa iMbali Yakutshanje">
 
 <!ENTITY clearDataSettings2.label     "Xa ndishiya i-&brandShortName;, imele isuse konke ngokwayo:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -26,20 +26,20 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "Details">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.label     "Iinkcukacha">
+<!ENTITY detailsProgressiveDisclosure.accesskey "u">
 
 <!ENTITY historySection.label         "Imbali">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY dataSection.label            "iingcombolo">
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 
-<!ENTITY itemHistoryAndDownloads.label     "Browsing &amp; Download History">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.label     "Ibhrawuza &amp; imbali yokukhutshelwayo">
+<!ENTITY itemHistoryAndDownloads.accesskey "I">
 <!ENTITY itemBrowsingHistory.label         "Kukhangelwa Imbali">
 <!ENTITY itemBrowsingHistory.accesskey     "K">
-<!ENTITY itemFormSearchHistory.label       "Form &amp; Search History">
+<!ENTITY itemFormSearchHistory.label       "Fomu &amp; Imbali yokukhangela">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Amagama Okugqithisa Agciniweyo">
 <!ENTITY itemPasswords.accesskey           "O">

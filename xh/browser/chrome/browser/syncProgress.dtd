@@ -9,6 +9,6 @@
 <!ENTITY syncProgress.pageTitle    "Ungqamaniso lwakho lokuqala">
 <!ENTITY syncProgress.textBlurb    "Iingcombolo zakho zijikelwa kwikhowudi kwaye ziyalayishwa ngemva. Ungayivala le thebhu uze uqhube usebenzisa i-&brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Vala">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
+<!ENTITY syncProgress.logoAltText  "ilogo ye-&brandShortName; logo">
 <!ENTITY syncProgress.diffText     "I-&brandShortName; ngoku iza kungqamanisa ngokuzenzekelayo ngemva.  Ungayivala le thebhu uze uqhube usebenzisa i-&brandShortName;">
 

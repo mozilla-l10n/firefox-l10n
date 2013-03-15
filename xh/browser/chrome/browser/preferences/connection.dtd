@@ -22,9 +22,9 @@
 <!ENTITY  reload.accesskey              "u">
 <!ENTITY  ftp.label                     "Iproksi ye-FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  http.label                    "IProksi ye-HTTP:">
+<!ENTITY  http.accesskey                "k">
+<!ENTITY  ssl.label                     "IProksi ye-SSL:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Umsindleki we-SOCKS:">
 <!ENTITY  socks.accesskey               "C">
@@ -40,5 +40,5 @@
 <!ENTITY  noproxy.label                 "Akukho proksi ye:">
 <!ENTITY  noproxy.accesskey             "A">
 <!ENTITY  noproxyExplain.label          "Umzekelo: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
-<!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  shareproxy.label              "Usetyenziso lwale proksi kuzo zonke iiprotokholi">
+<!ENTITY  shareproxy.accesskey          "t">

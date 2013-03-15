@@ -15,6 +15,6 @@
 <!ENTITY findCloseButton.tooltip "Vala Fumanisa isixwexwe somgca">
 <!ENTITY highlight.label "Khanyisa konke">
 <!ENTITY highlight.accesskey "k">
-<!ENTITY highlight.tooltiptext "Highlight all occurrences of the phrase">
+<!ENTITY highlight.tooltiptext "Qaqambisa zonke izenzeko zebinza">
 <!ENTITY caseSensitiveCheckbox.label "Ngqamanisa unobumba">
 <!ENTITY caseSensitiveCheckbox.accesskey "n">

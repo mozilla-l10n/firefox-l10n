@@ -11,8 +11,8 @@
 <!ENTITY fileMenu.label                     "Ifayili">
 <!ENTITY fileMenu.accesskey                 "I">
 
-<!ENTITY quitApplicationCmdWin.label        "Exit">
-<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmdWin.label        "Phuma">
+<!ENTITY quitApplicationCmdWin.accesskey    "h">
 <!ENTITY quitApplicationCmd.label           "Yeka">
 <!ENTITY quitApplicationCmd.accesskey       "Y">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
@@ -22,7 +22,7 @@
 <!ENTITY hideThisAppCmdMac.key              "H">
 <!ENTITY hideOtherAppsCmdMac.label          "Fihla ezinye">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Show All">
+<!ENTITY showAllAppsCmdMac.label            "Bonisa Konke">
 
 <!ENTITY editMenu.label                     "Hlela">
 <!ENTITY editMenu.accesskey                 "H">

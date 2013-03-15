@@ -11,7 +11,7 @@
 <!ENTITY removepermission.accesskey   "S">
 <!ENTITY removeallpermissions.label   "Susa Zonke Iziza">
 <!ENTITY removeallpermissions.accesskey "u">
-<!ENTITY address.label                "Address of website:">
+<!ENTITY address.label                "Idilesi yewebhusayithi:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Nqanda">
 <!ENTITY block.accesskey              "N">

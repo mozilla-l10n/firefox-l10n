@@ -5,7 +5,7 @@
 <!ENTITY newWindowsAsTabs.label       "Vula iifestile ezintsha kwithebhu entsha">
 <!ENTITY newWindowsAsTabs.accesskey   "k">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
+<!ENTITY warnCloseMultipleTabs.label  "Ndilumkise xa ndiivala iithebhu ezininzi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi zingacothisa i-&brandShortName;">
