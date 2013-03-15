@@ -22,8 +22,8 @@
 <!ENTITY helpSafeMode.label       "Эбиилэрин арааран баран хат холбоо…">
 <!ENTITY helpSafeMode.accesskey   "х">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "&brandShortName; туругун отчуота">
+<!ENTITY healthReport.accesskey   "г">
 
 <!ENTITY helpTroubleshootingInfo.label      "Кыһалҕаны быһаарар туһунан">
 <!ENTITY helpTroubleshootingInfo.accesskey  "К">

@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandShortName; бинаар барылыгар туһаныллар сорох кыахтары туһанарга &brandFullName; биллэрэр-иһитиннэрэр сулууспалары (кылгастык «Сулууспалары») туттар. Усулуобуйалара аллара бэриллэллэр. Өскө бу Сулууспалартан биирдэстэрин эбэтэр барыларын туттуоххун баҕарбат эбэтэр туһаныы усулуобуйатын кытта сөбүлэспэт буоллаххына араарыаххын сөп. Ол туһунан сиһилии ">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "манна ааҕыаххын сөп">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
@@ -59,8 +59,8 @@
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Safe Browsing үлэтин тохтоттоххо, онтон сылтаан кутталлаах ситим-сирдэргэ тиийэн хаалыахха сөп. Сэрэппит үрдүнэн араарыаххын баҕардаххына манна этиллибит дьайыылары оҥор:">
 <!ENTITY rights.safebrowsing-term1 "Приложение туруорууларын арый">
-<!ENTITY rights.safebrowsing-term2 '"Көмүскэл" салааны тал'>
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; уонна &quot;&blockWebForgeries.label;&quot; чыычаахтарын уһул">
+<!ENTITY rights.safebrowsing-term2 "&quot;Көмүскэл&quot; салааны тал">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing араарылынна">
 <!-- location aware browsing points for branded builds -->
 
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; уонна кини үлэһиттэрэ, лицензиардара уонна партнёрдара Сулууспалар нөҥүө чопчу уонна тиһэх информацияны биэрэргэ кыһаллаллар. Ол гынан баран барыта толору уонна сөптөөх буоларын эрэннэрэр кыахпыт суох. Холобур, Safe Browsing сорох куттааллаах ситим-сирдэри булуо суоҕун, оттон куттала суох ситим-сирдэри алҕас куттааллаах курдук бэлиэтиэн сөп, эбэтэр Баар сири булар Сулууспа баар сири алҕастаах эбэтэр чопчута суох быһаарыан сөп.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; Сулууспалары хаһан баҕарар тохтотуон уонна бэйэтэ билэринэн уларытыан сөп.">
 <!ENTITY rights2.webservices-term3 "Бу Сулууспалары &brandShortName; сөп түбэһэр барылын кытта туһаныаххын сөп, &vendorShortName; онно эйиэхэ көҥүл биэрэр. &vendorShortName; уонна кини лицензиардара Сулууспаны бас билии хаалбыт атын бырааптарын барытын бэйэлэригэр хааллараллар.  Бу усулуобуйа &brandShortName; бырагырааммаҕа уонна &brandShortName; барылларыгар сыһыаннаах аһаҕас лиссиэнсиэйни хааччахтаабат. ">
-<!ENTITY rights.webservices-term4 "Бу сулууспалар «баарын курдук» усулуобуйаҕа туһанылаллар.  &vendorShortName;, кини үлэһиттэрэ, лицензиардара уонна дистрибьютордара туохха да эрэннэрэртэн батыналлар, ол иһигэр Сулууспалар атыыга-эргиэҥҥэ баралларыгар уонна эн соруккар сөп түбэһэллэригэр эмиэ эрэннэрбэттэр. Сулууспаны талбыт эппиэтинэһиҥ барыта эйиэхэ сүктэриллэр.  Сорох дойдуларга маннык туорааһын көҥүллэммэт, онон бу бүк охсунуу эйиэхэ дьайбат буолуон сөп.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term5 "Сокуон ирдээбэт түгэнигэр, &vendorShortName; уонна кини үлэһиттэрэ, лицензиардара уонна дистрибьютордара &brandShortName; уонна Сулууспалары туһаныыттан тахсыбыт ханнык баҕарар хоромньуга эппиэтинэһи сүкпэттэр. Бөлөххө сүктэриллэр эппиэтинэс $500 (АХШ биэс сүүс дуолларыттан) тахсыбат. Сорох дойдуларга маннык туорааһын көҥүллэммэт, онон бу бүк охсунуу эйиэхэ дьайбат буолуон сөп.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; сөбүн көрөн кэмиттэн кэмигэр бу усулуобуйаны саҥардан биэриэн сөп. Бу усулуобуйа &vendorShortName; суругунан көҥүллээбэтэх буоллаҕына уларытыллар уонна суох оҥоһуллар кыаҕа суох.">
 <!ENTITY rights.webservices-term7 "Бу усулуобуйа Калифорния штаат (АХШ) сокуоннарыгар эппиэттиир (коллизия быраабыттан уратыта). Өскө бу усулуобуйа сорҕото быраап өттүттэн дьайара сатаммата билиннэҕинэ, атын усулуобуйалара син биир оннунан хаалаллар. Өскө бу усулуобуйа тылбааһа уонна ааҥыллыы барыла уратылаах буоллахтарына, ааҥыллыы барылын туһаныллыахтаах.">

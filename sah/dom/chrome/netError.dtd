@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Көрдөммүт дөкүмүөн кэшкэ суох.</p><ul><li>Куттал суоһаабатын диэн браузер аптамаатынан хос көрдөбүлү ыыппат.</li><li>Ситим-сиргэ хос көрдөбүл оҥорорго «Хатылаан көр» диэни баттыахтааххын.</li></ul>">
 
 <!ENTITY netOffline.title "Холбоммокко үлэлээһин">
-<!ENTITY netOffline.longDesc2 "<p>Браузер ситимҥэ холбоммокко үлэлии турар онон көрдөөбүт сиргин көрдөрөр кыаҕа суох.</p><ul><li>Көмпүүтэриҥ үлэлиир ситимҥэ холбонон турар дуо?</li><li>&quot;Хатылаа&quot; тимэҕи баттаан сирэйи хат көрдөтөн көр.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Иһинээҕитин куода алҕастаах">
 <!ENTITY contentEncodingError.longDesc "<p>Эн киирэ сатаабыт сирэйгэр киирэр табыллыбата, тоҕо диэтэххэ кини компрессиятын формаата алҕастаах эбэтэр өйөммөт эбит. </p><ul><li>Бука диэн ол ситим-сир дьаһабылыгар бу туһунан эт.</li></ul>">
