@@ -8,7 +8,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "دستیاب پلگ ان ڈاؤن لوڈ">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "مندرجہ ذیل پلگ ان دستیاب ہیں:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label 'یہ پلگ ان تنصیب کرنے کے لیے "آگے" دبائیں۔'>
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "یہ پلگ ان تنصیب کرنے کے لیے &quot;آگے&quot; دبائیں۔">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "کچھ پلگ ان تنصیب کے دوران آپ سے اضافی معلومات طلب کر سکتے ہیں۔">
 
 <!ENTITY pluginWizard.licensePage.title                      "پلگ ان لائسنس">

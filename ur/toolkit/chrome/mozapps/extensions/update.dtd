@@ -48,6 +48,6 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; کو آپ کے کچھ ایڈ اون تازہ کرتے /nہوئے مسائل درپیش آئے۔">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               '&brandShortName; کو شروع کرنا جاری رکھنے کے لیے "تکمیل کریں" کو کلک کریں۔'>
-<!ENTITY  clickFinish.labelMac            '&brandShortName; کو شروع کرنا جاری رکھنے کے لیے "ختم" کو کلک کریں۔'>
+<!ENTITY  clickFinish.label               "&brandShortName; کو شروع کرنا جاری رکھنے کے لیے &quot;تکمیل کریں&quot; کو کلک کریں۔">
+<!ENTITY  clickFinish.labelMac            "&brandShortName; کو شروع کرنا جاری رکھنے کے لیے &quot;ختم&quot; کو کلک کریں۔">
 <!ENTITY  enableChecking.label            "&brandShortName; کو تازہ کاریوں کے لیے چیک کرنے کی اجازت دیں۔">
