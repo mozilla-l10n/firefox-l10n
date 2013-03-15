@@ -17,10 +17,6 @@
 <!ENTITY viewQuota.label              "ક્વોટાને દર્શાવો">
 
 <!-- Sync Settings -->
-
-<!ENTITY syncComputerName.label       "કમ્પ્યૂટર નામ:">
-<!ENTITY syncComputerName.accesskey   "c">
-
 <!ENTITY syncMy.label               "મને સુમેળ કરો">
 <!ENTITY engine.bookmarks.label     "બુકમાર્કો">
 <!ENTITY engine.bookmarks.accesskey "m">

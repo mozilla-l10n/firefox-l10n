@@ -4,12 +4,6 @@
 
 - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!-- LOCALIZATION NOTE (indicator.tooltiptext):
-
-Tooltip for the indicator that displays the progress of ongoing downloads.
-
--->
-<!ENTITY indicator.tooltiptext            "Downloads">
 <!-- LOCALIZATION NOTE (downloads.title):
 
 Used by screen readers to describe the Downloads Panel.
@@ -37,13 +31,8 @@ the same access key (though the two access keys can also be different).
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ડાઉનલોડ કડીની નકલ કરો">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "યાદીમાંથી દૂર કરો">
-<!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "યાદીને સાફ કરો">
 <!ENTITY cmd.clearList.accesskey          "a">
-
-<!ENTITY downloads.width                  "65ch">
-
 
 
 

@@ -8,11 +8,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
-  -  that specifies whether the styles that are not from the user's stylesheet
-  -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "માત્ર વપરાશકર્તા શૈલીઓ">
-
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 <!ENTITY userStylesSearch      "શોધો">
@@ -27,11 +22,6 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "કોઇ CSS ગુણધર્મો મળ્યા નહિં.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "નહિં બંધબેસતા પસંદગીકારકો">
-
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
@@ -40,4 +30,3 @@
 <!ENTITY bestMatch             "શ્રેષ્ઠ જોડણી">
 <!ENTITY matched               "બંધબેસેલ">
 <!ENTITY parentMatch           "પિતૃ જોડણી">
-<!ENTITY unmatched             "નહિં બંધબેસેલ">

@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey "S">
 <!ENTITY charsetMenuMore5.label "મધ્ય પૂર્વીય">
 <!ENTITY charsetMenuMore5.accesskey "M">
-<!ENTITY charsetMenuUnicode.label "યુનિકોડ">
-<!ENTITY charsetMenuUnicode.accesskey "U">
 <!ENTITY charsetCustomize.label "પોતાની યાદી...">
 <!ENTITY charsetCustomize.accesskey "c">

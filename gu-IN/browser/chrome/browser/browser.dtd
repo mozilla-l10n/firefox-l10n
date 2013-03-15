@@ -97,7 +97,6 @@
 
 <!ENTITY historyButton.label            "ઈતિહાસ">
 <!ENTITY historyButton.tooltip          "તમે છેલ્લે જુએલા પાનાંઓ દર્શાવો">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "સાધનો">
@@ -346,7 +345,6 @@
 <!ENTITY showAllHistoryCmd2.label "બધો ઈતિહાસ બતાવો…">
 
 <!ENTITY fullZoomToggleCmd.label        "માત્ર લખાણ નાનુંમોટું કરો">
-<!ENTITY downloadMonitor2.tooltip "ડાઉનલોડ વિન્ડો ખોલવા માટે ક્લિક કરો">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
 
@@ -408,10 +406,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ખાનગી બ્રાઉઝીંગ)">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.start.label         "ખાનગી બ્રાઉઝીંગ શરૂ કરો">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
-<!ENTITY privateBrowsingCmd.stop.label          "ખાનગી બ્રાઉઝીંગ અટકાવો">
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
@@ -419,7 +413,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addonBarCmd.label "ઍડ-ઑન પટ્ટી">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY allTabs.filter.emptyText "ટૅબને શોધો">
 <!ENTITY appMenuButton.label          "મેનુ">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; મેનુને શોધો">
 <!ENTITY appMenuCustomize.label "વૈવિધ્યપૂર્ણ બનાવો">
@@ -435,14 +428,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardItem.title        "પાછા જાઓ/આગળ ધપાવો">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "બધા ટૅબને બુકમાર્ક કરો…">
-<!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksMenuButton.label          "બુકમાર્કો">
 <!ENTITY bookmarksMenuButton.tooltip        "તમારા બુકમાર્કોને દર્શાવો">
 <!ENTITY bookmarksMenuButton.unsorted.label "ક્રમ ન થયેલ બુકમાર્કો">
 <!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY clearRecentHistory.accesskey           "H">
 <!ENTITY clearRecentHistory.label               "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
@@ -454,13 +445,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY historyRestoreLastSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
 
-
-<!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectMenu.label            "તપાસો">
-
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStyleButton.label     "શૈલી">
 <!ENTITY  listAllTabs.label      "બધા ટૅબની યાદી કરો">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "મેનુ પટ્ટી">
@@ -471,8 +455,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  moveToNewWindow.label              "નવી વિન્ડોમાં ખસેડો">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openLinkCmdInCurrent.label     "કડીને ખોલો">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  pinAppTab.label                    "કાર્યક્રમ ટૅબ પ્રમાણે પિન કરો">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  reloadAllTabs.label                "બધા ટૅબને પુન:લોડ કરો">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -485,17 +467,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; સુયોજિત કરો…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncSyncNowItem.label        "હવે સુમેળ કરો">
-<!ENTITY syncTabsMenu.label     "બીજા કમ્પ્યૂટરોમાંથી ટૅબ">
 <!ENTITY syncToolbarButton.label      "સુમેળ">
 <!ENTITY tabGroupsButton.label        "ટૅબ જૂથો">
 <!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબનું જૂથ બનાવો">
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ">
-<!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  undoCloseTab.label                 "બંધ કરેલ ટૅબને ફરીથી શરૂ કરો">
-<!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  unpinAppTab.label                  "અનપિન ટૅબ">
-<!ENTITY urlbar.placeholder           "વેબ સાઇટમાં જાઓ">
+<!ENTITY undoCloseTab.accesskey             "U">
+<!ENTITY undoCloseTab.label                 "બંધ કરેલ ટૅબને ફરીથી શરૂ કરો">
 <!ENTITY urlbar.switchToTab.label     "ટૅબને ખસેડો:">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoFullScreen.label       "સંપૂર્ણ સ્ક્રીન">
@@ -507,9 +485,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabGroups.label            "ટૅબ જૂથો">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 <!ENTITY viewTabsOnTop.label            "ઊંચે ટૅબ">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY webConsoleCmd.label          "વેબ કન્સોલ">
 <!ENTITY zoomControls.label             "નાનું મોટુ કરવા માટે નિયંત્રણો">
 <!ENTITY zoomInButton.tooltip           "મોટુ કરો">
 <!ENTITY zoomOutButton.tooltip          "નાનું કરો">
@@ -531,28 +506,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardButtonMenu.tooltip "ઈતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો">
 <!ENTITY backForwardButtonMenuMac.tooltip "ઈતિહાસ બતાવવા માટે નીચે ખેંચો">
 
-<!ENTITY inspect3DViewButton.label     "3D દેખાવ">
-<!ENTITY inspect3DViewButton.accesskey "W">
-<!ENTITY inspectCloseButton.tooltiptext "પરીક્ષક બંધ કરો">
 <!ENTITY inspectContextMenu.accesskey "Q">
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
 <!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
-<!ENTITY styleeditor.label            "શૈલી સંપાદક">
 <!ENTITY videoHideStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "પરિસ્થિતિ છુપાવો">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!ENTITY videoSaveImage.label        "ચિત્ર આ પ્રમાણે સંગ્રહો…">
 <!ENTITY videoShowStats.label        "પરિસ્થિતિ બતાવો">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
-<!ENTITY inspectorHTMLCopyInner.label       "ઇનર HTML ની નકલ કરો">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
-<!ENTITY inspectorHTMLCopyOuter.label       "આઉટર HTML ની નકલ કરો">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!ENTITY inspectorHTMLDelete.label          "નોડને કાઢી નાંખો">
 <!ENTITY devToolbarCloseButton.tooltiptext "ડેવલપર સાધનપટ્ટીને બંધ કરો">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbarMenu.label              "ડેવલપર સાધનપટ્ટી">
@@ -565,16 +527,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullscreenExitButton.label "નામંજૂર">
 <!ENTITY fullscreenExitHint.value "પૂર્ણસ્ક્રીનમાંથી બહાર નીકાળવા માટે કોઇપણ સમયે ESC ને દબાવો.">
 
-<!ENTITY inspectorButton.label "ઇન્સપેક્ટર">
-
-
-
-
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
-<!ENTITY markupButton.accesskey          "M">
-<!ENTITY markupButton.arialabel          "માર્કઅપ">
-<!ENTITY webConsoleButton.label "વેબ કન્સોલ">
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY responsiveDesignTool.label   "પ્રતિયોગી રચના જુઓ">

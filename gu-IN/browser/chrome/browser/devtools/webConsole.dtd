@@ -8,10 +8,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY networkPanel.requestURL                  "અરજી URL">
-<!ENTITY networkPanel.requestMethod               "અરજી પદ્ધતિ">
-<!ENTITY networkPanel.statusCode                  "પરિસ્થિતિ કોડ">
-
 <!ENTITY networkPanel.requestHeaders              "અરજી હેડરો">
 <!ENTITY networkPanel.requestCookie               "મોકલાયેલ કુકી">
 <!ENTITY networkPanel.requestBody                 "અરજી ભાગ">
@@ -27,7 +23,6 @@
 
 <!ENTITY btnClear.label        "સાફ કરો">
 <!ENTITY btnClear.tooltip      "વેબ કન્સોલ આઉટપુટને સાફ કરો">
-<!ENTITY btnClose.tooltip      "વેબ કન્સોલને બંધ કરો">
 <!ENTITY btnConsoleErrors       "ભૂલો">
 <!ENTITY btnConsoleInfo         "જાણકારી">
 <!ENTITY btnConsoleWarnings     "ચેતવણી">
@@ -40,8 +35,6 @@
 <!ENTITY btnPageLogging.tooltip "window.console ઑબ્જેક્ટમાં મોકલેલ લૉગ સંદેશાઓ">
 <!ENTITY btnPageNet.label   "નેટ">
 <!ENTITY btnPageNet.tooltip "નેટવર્ક પ્રવેશનો લૉગ લો">
-<!ENTITY btnPosition.label     "સ્થાન">
-<!ENTITY btnPosition.tooltip   "દસ્તાવેજની ઉપર અથવા નીચે વેબ કન્સોલનું સ્થાન કરો">
 <!ENTITY filterBox.placeholder "ફિલ્ટર">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -54,10 +47,6 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY positionMenu.above    "ઉપર">
-<!ENTITY positionMenu.below    "નીચે">
-
-<!ENTITY positionMenu.window   "વિન્ડો">
 <!ENTITY saveBodies.accesskey "L">
 <!ENTITY saveBodies.label     "સૂચનાનો લૉગ કરો અને તેનો જવાબ આપો">
 <!ENTITY window.title "વેબ કન્સોલ">
