@@ -83,6 +83,7 @@
 <!ENTITY bookmarks.folder.desktop.label 'Asztali könyvjelzők'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobil könyvjelzők'>
 <!ENTITY bookmarks.folder.readinglist.label 'Olvasási lista'>
+<!ENTITY bookmarks.folder.pinned.label 'Rögzített'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>
