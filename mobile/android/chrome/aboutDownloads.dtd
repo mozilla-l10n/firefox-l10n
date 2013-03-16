@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Allalaadimised">
 <!ENTITY aboutDownloads.header                     "Allalaadimised">
 <!ENTITY aboutDownloads.empty                      "Allalaadimised puuduvad">
+
+<!ENTITY aboutDownloads.open                       "Ava">
+<!ENTITY aboutDownloads.remove                     "Kustuta">
+<!ENTITY aboutDownloads.removeAll                  "Kustuta kõik">
+<!ENTITY aboutDownloads.pause                      "Peata">
+<!ENTITY aboutDownloads.resume                     "Jätka">
+<!ENTITY aboutDownloads.cancel                     "Katkesta">
+<!ENTITY aboutDownloads.retry                      "Proovi uuesti">

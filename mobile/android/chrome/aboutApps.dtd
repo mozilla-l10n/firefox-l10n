@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre     "Ühtki veebirakendust pole paigaldatud. Võid neid hankida ">
 <!ENTITY aboutApps.noApps.middle3 "Firefoxi veebipoest">
 <!ENTITY aboutApps.noApps.post    ".">
+<!ENTITY aboutApps.uninstall      "Eemalda">
+<!ENTITY aboutApps.addToHomescreen "Lisa avaekraanile">
