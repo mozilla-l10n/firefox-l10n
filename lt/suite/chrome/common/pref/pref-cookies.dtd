@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Slapukų priėmimo politika">
 
-<!ENTITY accAllCookiesRadio.label       "Leisti įrašyti visus slapukus">
-<!ENTITY accAllCookiesRadio.accesskey   "s">
-
-<!ENTITY accOrgCookiesRadio.label       "Leisti įrašyti slapukus tik iš pirminių svetainių">
-<!ENTITY accOrgCookiesRadio.accesskey   "u">
-
 <!ENTITY disableCookies.label           "Neleisti įrašyti slapukų">
 <!ENTITY disableCookies.accesskey       "N">
+
+<!ENTITY accNo3rdPartyCookies.label     "Leisti įrašyti tik lankomos svetainės slapukus (drausti trečiųjų šalių)">
+<!ENTITY accNo3rdPartyCookies.accesskey "s">
+
+<!ENTITY acc3rdPartyVisited.label       "Leisti įrašyti trečiųjų šalių slapukus tik anksčiau lankytoms svetainėms">
+<!ENTITY acc3rdPartyVisited.accesskey   "t">
+
+<!ENTITY accAllCookies.label            "Leisti visus slapukus">
+<!ENTITY accAllCookies.accesskey        "v">
 
 <!ENTITY cookieRetentionPolicy.label    "Slapukų priėmimo politika">
 
