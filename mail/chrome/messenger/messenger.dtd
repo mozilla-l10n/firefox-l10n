@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label                         "Redigeerimine">
 <!ENTITY appmenuQFBMenu.label                          "Kiirfiltri riba">
 <!ENTITY appmenuToolbarLayout.label                    "Kohanda tööriistariba…">
+<!ENTITY appmenuSelectThread.label                     "Vali lõim">
+<!ENTITY appmenuSelectFlagged.label                    "Vali tähistatud kirjad">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label                               "Uus silt…">

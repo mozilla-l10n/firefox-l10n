@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label      "Sooritatakse järgnev tegevus:">
 <!ENTITY filterActionDesc.accesskey  "R">
 
+<!ENTITY filterActionOrderWarning.label "Märkus: filtri tegevused käivituvad teistsuguses järjekorras.">
+<!ENTITY filterActionOrder.label        "Vaata käivitumise järjekorda">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label           "kiri tõstetakse kausta">
 <!ENTITY copyMessage.label           "kiri kopeeritakse kausta">
