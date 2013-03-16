@@ -6,6 +6,8 @@
 <!ENTITY pref.security.title              "Personvern og sikkerhet">
 
 <!ENTITY tracking.label                   "Brukersporing">
+<!ENTITY trackingIntro.label              "Nettsider kan spore hvordan du bruker dem, og på den måten påvirke personvernet ditt.">
+
 <!ENTITY doNotTrack.label                 "Fortell nettsteder at jeg ikke ønsker å spores">
 <!ENTITY doNotTrack.accesskey             "F">
 

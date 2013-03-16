@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Nedlastinger">
 
 <!ENTITY downloadBehavior.label         "Når en ny nedlasting starter">
-<!ENTITY focusWhenStarting.label        "Blink nedlastingsvinduet dersom det allerede er åpent, ellers:">
-<!ENTITY focusWhenStarting.accesskey    "B">
-<!ENTITY openDM.label                   "Åpne nedlastingslisten">
-<!ENTITY openDM.accesskey               "n">
-<!ENTITY openProgressDialog.label       "Åpne egen fremdriftsdialog">
-<!ENTITY openProgressDialog.accesskey   "f">
 <!ENTITY doNothing.label                "Ikke åpne noe">
 <!ENTITY doNothing.accesskey            "I">
+<!ENTITY openProgressDialog.label       "Åpne egen fremdriftsdialog">
+<!ENTITY openProgressDialog.accesskey   "f">
+<!ENTITY openDM.label                   "Åpne nedlastingslisten">
+<!ENTITY openDM.accesskey               "n">
+<!ENTITY flashWhenOpen.label            "Blink nedlastingsvinduet dersom det allerede er åpent">
+<!ENTITY flashWhenOpen.accesskey        "B">
 
 <!ENTITY downloadLocation.label         "Ved lagring av en fil">
 <!ENTITY saveTo.label                   "Lagre filer til">

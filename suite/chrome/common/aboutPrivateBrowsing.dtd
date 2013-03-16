@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                 "Privat nettlesing">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; er en eksperimentell funksjon.">
+<!ENTITY privatebrowsingpage.description  "I et &privatebrowsingpage.title;-vindu vil ikke &brandShortName; beholde hurtiglager på disk, infokapsler, nettleserhistorikk, søke- og nedlastingshistorikk, eller skjemahistorikk. Filer som lastes ned eller bokmerker som du lager vil likevel beholdes.">
+<!ENTITY privatebrowsingpage.moreinfo     "Selv om denne datamaskinen ikke vil registrere nettleserhistorikken din, kan din arbeidsgiver eller Internett-tilbyder fortsatt være i stand til å spore hvilke nettsider du besøker.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Les mer">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; vil ikke huske noen historikk for dette vinduet. Lukk vinduet for å avslutte &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label        "Bytt til normalt vindu">
+<!ENTITY privatebrowsingpage.switch.accesskey    "B">
+<!ENTITY privatebrowsingpage.normal       "Du bruker for tiden ikke &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label       "Åpne et nytt privat vindu">
+<!ENTITY privatebrowsingpage.private.accesskey   "Å">
+<!ENTITY privatebrowsingpage.info         "For å starte &privatebrowsingpage.title; kan du også velge Fil ― Ny ― Privat vindu.">
