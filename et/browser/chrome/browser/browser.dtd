@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey            "E">
 
 <!ENTITY clearRecentHistory.label                "Kustuta hiljutine ajalugu…">
-<!ENTITY clearRecentHistory.accesskey            "t">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label          "Alusta privaatset veebilehitsemist">
-<!ENTITY privateBrowsingCmd.start.accesskey      "A">
-<!ENTITY privateBrowsingCmd.stop.label           "Lõpeta privaatne veebilehitsemine">
-<!ENTITY privateBrowsingCmd.stop.accesskey       "L">
 <!ENTITY privateBrowsingCmd.commandkey           "P">
 
 
@@ -326,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey               "T">
 
 <!ENTITY openCmd.commandkey                      "l">
-<!ENTITY urlbar.placeholder                      "Mine veebilehele">
+<!ENTITY urlbar.placeholder2                     "Otsi või sisesta aadress">
 <!ENTITY urlbar.accesskey                        "d">
 <!ENTITY urlbar.switchToTab.label                "Vaheta kaardile:">
 
@@ -430,6 +424,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey                 "i">
 <!ENTITY emailAudioCmd.label                     "Saada audio e-postiga...">
 <!ENTITY emailAudioCmd.accesskey                 "u">
+<!ENTITY playPluginCmd.label                     "Aktiveeri see plugin">
+<!ENTITY playPluginCmd.accesskey                 "u">
+<!ENTITY hidePluginCmd.label                     "Peida see plugin">
+<!ENTITY hidePluginCmd.accesskey                 "d">
 <!ENTITY copyLinkCmd.label                       "Kopeeri lingi aadress">
 <!ENTITY copyLinkCmd.accesskey                   "o">
 <!ENTITY copyImageCmd.label                      "Kopeeri pildi aadress">
@@ -590,7 +588,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText               "Rohkem infot...">
 
-<!ENTITY allTabs.filter.emptyText                "Otsi kaarte">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label                       "Brauseri kaardid">
@@ -635,3 +632,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label             "Ligipääs kaamerale/mikrofonile">
 <!ENTITY webrtcIndicatorButton.tooltip           "Kuva saite, millel on hetkel sinu kaamera või mikrofoni kasutamine lubatud">
+
+<!ENTITY mixedContentBlocked.helplink            "Rohkem teavet">
+<!ENTITY mixedContentBlocked.moreinfo            "Enamus saite töötavad korralikult edasi ka siis, kui see sisu on blokitud.">
