@@ -144,6 +144,8 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC-kallenavn:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
