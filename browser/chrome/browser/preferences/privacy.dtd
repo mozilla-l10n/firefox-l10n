@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Sporing">
 
-<!ENTITY doNotTrack.label               "Informer nettsteder at jeg ikke ønsker å spores">
-<!ENTITY doNotTrack.accesskey           "n">
+<!ENTITY dntTrackingNopref.label        "Ikke fortell nettsteder noe om mine sporingsønsker.">
+<!ENTITY dntTrackingNopref.accesskey    "k">
+<!ENTITY dntTrackingNotOkay.label       "Fortell nettsted at jeg ikke ønsker å spores.">
+<!ENTITY dntTrackingNotOkay.accesskey   "o">
+<!ENTITY dntTrackingOkay.label          "Fortell nettsted at jeg ønsker å spores.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Les mer">
 
 <!ENTITY  history.label                 "Historikk">
 

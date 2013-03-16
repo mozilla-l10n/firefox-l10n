@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Få meg bort herfra!">
+<!ENTITY safeb.palm.decline.label "Ignorer denne advarselen">
+<!ENTITY safeb.palm.reportPage.label "Hvorfor ble dette nettstedet blokkert?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Rapportert som angrepsnettsted!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette nettstedet på <span id='malware_sitename'/> er rapportert som et angrepsnettsted og er blokkert basert på dine sikkerhetsinnstillinger.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Angrepsnettsted forsøker installere programmer som stjeler din personlige informasjon, bruker datamaskinen din for å angripe andre, eller skader systemet ditt.</p><p>Noen angrepsnettsted sprer skadelig programvare med forsett, men mange gjør det også uten at de selv vet det, eller uten tillatelsen til eierne av nettstedet.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Rapportert forfalskning!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Dette nettstedet på <span id='phishing_sitename'/> er rapportert som en nettsvindel og er blokkert basert på sikkerhetsinnstillingene dine.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Nettsvindler er designet for å lure deg til å oppgi personlig eller finansiell informasjon ved å etterligne kilder som du stoler på.</p><p>Dersom du skriver inn personlig informasjon på dette nettstedet kan det føre til identitetstyveri eller annen svindel.</p>">
+
+<!ENTITY reportPhishSite.label         "Rapporter nettsvindel …">
+<!ENTITY reportPhishSite.accesskey     "n">
+<!ENTITY notAForgery.label             "Dette er ikke en forfalskning …">
+<!ENTITY notAForgery.accesskey         "f">
