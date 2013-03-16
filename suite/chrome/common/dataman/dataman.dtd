@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Tik leidimai">
 <!ENTITY select.preferences.label "Tik nuostatos">
 <!ENTITY select.passwords.label "Tik slaptažodžiai">
+<!ENTITY select.storage.label "Tik saugykla">
 
 <!ENTITY domain.search.placeholder "Ieškoti srities">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Leidimai">
 <!ENTITY tab.preferences.label "Nuostatos">
 <!ENTITY tab.passwords.label "Slaptažodžiai">
+<!ENTITY tab.storage.label "Saugykla">
 <!ENTITY tab.formdata.label "Formų duomenys">
 <!ENTITY tab.forget.label "Užmiršimas">
 
@@ -103,6 +105,21 @@
 <!ENTITY pwd.button.remove.label "Pašalinti">
 <!ENTITY pwd.button.remove.accesskey "š">
 
+<!-- storage -->
+<!ENTITY storage.description "Kompiuteryje yra laikomos šios srities svetainių šios saugyklos:">
+
+<!ENTITY storage.tree.host.label "Svetainė">
+<!ENTITY storage.tree.type.label "Tupas">
+<!ENTITY storage.tree.size.label "Dydis">
+
+<!ENTITY storage.ctx.remove.label "Pašalinti">
+<!ENTITY storage.ctx.remove.accesskey "š">
+<!ENTITY storage.ctx.selectAll.label "Pažymėti viską">
+<!ENTITY storage.ctx.selectAll.accesskey "v">
+
+<!ENTITY storage.button.remove.label "Pašalinti">
+<!ENTITY storage.button.remove.accesskey "š">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Ieškoti formos lauko reikšmės">
 
@@ -129,6 +146,8 @@
 <!ENTITY forget.preferences.accesskey "n">
 <!ENTITY forget.passwords.label "slaptažodžius">
 <!ENTITY forget.passwords.accesskey "o">
+<!ENTITY forget.storage.label "saugyklas">
+<!ENTITY forget.storage.accesskey "a">
 <!ENTITY forget.formdata.label "formų duomenis">
 <!ENTITY forget.formdata.accesskey "m">
 
