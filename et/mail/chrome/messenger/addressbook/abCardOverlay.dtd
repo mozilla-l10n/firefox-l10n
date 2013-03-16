@@ -143,6 +143,8 @@ lubatakse selline väline sisu selle kontakti HTML-kirjades.">
 <!ENTITY ICQ.accesskey                 "C">
 <!ENTITY XMPP.label                    "Jabberi ID:">
 <!ENTITY XMPP.accesskey                "J">
+<!ENTITY IRC.label                     "IRC hüüdnimi:">
+<!ENTITY IRC.accesskey                 "R">
 
 <!ENTITY Photo.tab                     "Pilt">
 <!ENTITY Photo.accesskey               "i">
