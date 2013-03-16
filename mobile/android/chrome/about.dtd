@@ -10,7 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Проверить обновления »">
 <!ENTITY aboutPage.checkForUpdates.checking "Поиск обновлений…">
 <!ENTITY aboutPage.checkForUpdates.none "Обновления отсутствуют">
-<!ENTITY aboutPage.checkForUpdates.found "Доступно обновление">
+<!ENTITY aboutPage.checkForUpdates.found "Доступно обновление; щёлкните для загрузки">
+<!ENTITY aboutPage.checkForUpdates.downloading "Загрузка обновления…">
+<!ENTITY aboutPage.checkForUpdates.downloaded "Обновление загружено; щёлкните для установки">
 <!ENTITY aboutPage.faq.label "FAQ">
 <!ENTITY aboutPage.support.label "Поддержка">
 <!ENTITY aboutPage.privacyPolicy.label "Политика приватности">
