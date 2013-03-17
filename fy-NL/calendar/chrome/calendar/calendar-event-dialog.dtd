@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Werhelje:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Oant:">
+<!ENTITY event.until.accesskey                            "t">
 <!ENTITY event.reminder.label                             "Warskôging:" >
 <!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Beskriuwing:" >
