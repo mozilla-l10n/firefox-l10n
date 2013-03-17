@@ -32,9 +32,9 @@
 <!ENTITY missingPlugin 		                                "der is in ynstekker nedich om dizze ynhâld te toanen.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tik hjir om de ynstekker te aktivearjen.">
-<!ENTITY clickToPlayPlugin                                   "Klik hjir om de ynstekker te aktivearjen.">
+<!ENTITY clickToActivatePlugin                                   "Ynstekker aktivearje.">
 <!ENTITY checkForUpdates                                     "Kontrolearje op fernijingen…">
-<!ENTITY disabledPlugin		                               "Dizze ynstekker is útskeakelje.">
+<!ENTITY disabledPlugin		                               "Dizze ynstekker is útskeakele.">
 <!ENTITY blockedPlugin.label                               "Dizze ynstekker is blokkearre foar jo beskerming.">
 
 <!ENTITY installPlugin                                       "Ynstekker ynstallearje…">
