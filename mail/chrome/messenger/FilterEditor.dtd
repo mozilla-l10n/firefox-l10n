@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filterregels">
+<!ENTITY window.title "Filterrigels">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filternamme:">
 <!ENTITY filterName.accesskey "F">
@@ -26,6 +26,9 @@
 
 <!ENTITY filterActionDesc.label "Dizze aksjes útfiere:">
 <!ENTITY filterActionDesc.accesskey "f">
+
+<!ENTITY filterActionOrderWarning.label "Noat: filteraksjes wurde útfierd yn in oare folchoarder.">
+<!ENTITY filterActionOrder.label "Sjoch útfierfolchoarder">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Berjocht ferpleatse nei">
