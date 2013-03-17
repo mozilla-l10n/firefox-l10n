@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
 <!ENTITY filterActionDesc.accesskey "G">
 
+<!ENTITY filterActionOrderWarning.label "Merk: Filterhandlinger vil utføres i en annen rekkefølge.">
+<!ENTITY filterActionOrder.label "Se utførelsesrekkefølge">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytt melding til">
 <!ENTITY copyMessage.label "Kopier melding til">

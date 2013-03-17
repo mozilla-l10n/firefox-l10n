@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "S">
 <!ENTITY chooseFile.label "Velg fil …">
 <!ENTITY chooseFile.accesskey "V">
+<!ENTITY newPrivate.label "Nytt privat vindu">
 <!ENTITY newWindow.label "Nytt vindu">
 <!ENTITY newTab.label "Ny fane">
 <!ENTITY currentTab.label "Aktiv nettleserfane">
