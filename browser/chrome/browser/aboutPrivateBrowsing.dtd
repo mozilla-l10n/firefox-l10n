@@ -5,26 +5,13 @@
 <!ENTITY privatebrowsingpage.title                     "Privee sneupe">
 <!ENTITY privatebrowsingpage.title.normal              "Wolle jo graach starte mei Privee sneupe?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; sil gjin skiednis byhâlde fan dizze sesje.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; is op dit stuit net yn Privee sneupe-moadus.">
-
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; sil gjin skiednis byhâlde fan dit finster.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Jo binne no net yn in priveefinster.">
 
-<!ENTITY privatebrowsingpage.description               "&brandShortName; sil yn in Priveenavigaasjesesje gjin browserskiednis, sykskiednis, ynlaadskiednis, webformulierskiednis, cookies, en tydlike ynternetbestannen bewarje.  Allinnich bestannen dy't jo ynlade of blêdwizers dy't jo oanmeitsje sille bewarre wurde.">
-
 <!ENTITY privatebrowsingpage.perwindow.description     "&brandShortName; sil yn in Privenavigaasjefinster. gjin browserskiednis, sykskiednis, ynlaadskiednis, webformulierskiednis, cookies, en tydlike ynternetbestannen bewarje.  Allinnich bestannen dy't jo ynlade of blêdwizers dy't jo oanmeitsje sille bewarre wurde.">
-
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start Priveenavigaasjee">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Iepenje in Priveefinster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2	             "Om te stoppen mei Privee sneupen, selektearje &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, of slút &brandShortName; ôf.">
-<!ENTITY privatebrowsingpage.howToStart2                "Om te starten mei Privee sneupen, kinne jo ek &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; selektearje.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStart3               "Om Privatenavigaasje te starten kinne jo ek &basePBMenu.label; &gt; &newPrivateWindow.label; selektearje.">
