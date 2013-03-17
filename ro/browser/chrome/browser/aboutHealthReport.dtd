@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -17,7 +29,7 @@
 <!ENTITY abouthealth.optin "Help make &brandShortName; better">
 <!ENTITY abouthealth.optout "Turn Off Reporting">
 
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Stop data submission?">
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Opriți trimiterea de date?">
 <!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
 
 <!ENTITY abouthealth.show-raw-data "Show Details">
@@ -26,7 +38,7 @@
 <!ENTITY abouthealth.show-report "Show &brandShortName; Report">
 
 <!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
-<!ENTITY abouthealth.details-link "learn more">
-<!ENTITY abouthealth.details.description-end " about what we collect and submit.">
+<!ENTITY abouthealth.details-link "află mai multe">
+<!ENTITY abouthealth.details.description-end " despre datele pe care le colectăm și trimitem.">
 <!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
 
