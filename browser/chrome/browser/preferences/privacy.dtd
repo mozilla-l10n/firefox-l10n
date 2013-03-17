@@ -20,11 +20,11 @@
 
 <!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.label        "Nu spune saiturilor nimic despre preferințele mele de urmărire.">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.label       "Spune saiturilor că nu vreau să fiu urmărit.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.label          "Spune saiturilor că vreau să fiu urmărit.">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Learn More">
 
