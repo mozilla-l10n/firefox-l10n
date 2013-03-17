@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Integración con el sistema">
 <!ENTITY acceptIntegration.label "Definir como predet.">
 <!ENTITY cancelIntegration.label "Omitir integración">
+<!ENTITY cancelIntegration2.label "Cancelar">
 <!ENTITY defaultClient.intro "Usar &brandShortName; como cliente por omisión para:">
 <!ENTITY email.label "Correo-e">
 <!ENTITY newsgroups.label "Grupos de noticias">
