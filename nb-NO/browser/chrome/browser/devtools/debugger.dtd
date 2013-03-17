@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Filtrer variabler">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokus variabeltre">
+<!ENTITY debuggerUI.focusVariables.key  "v">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "Dette avbruddet vil stoppe utføringen bare hvis følgende uttrykk er sant">

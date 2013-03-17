@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Ingen webapps er installert. Du kan laste ned noen fra ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Avinstaller">
+<!ENTITY aboutApps.addToHomescreen "Legg til i Hjem-skjermen">

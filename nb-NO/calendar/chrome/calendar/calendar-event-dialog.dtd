@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Gjenta:" >
 <!ENTITY event.repeat.accesskey                           "G">
+<!ENTITY event.until.label                                "Inntil:">
+<!ENTITY event.until.accesskey                            "I">
 <!ENTITY event.reminder.label                             "Husk:" >
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Beskrivelse:" >

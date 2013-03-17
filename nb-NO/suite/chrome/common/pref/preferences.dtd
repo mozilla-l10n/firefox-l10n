@@ -18,6 +18,7 @@
 <!ENTITY links.label "Lenkeoppførsel">
 <!ENTITY offline.label "Frakoblet">
 <!ENTITY security.label "Personvern og sikkerhet">
+<!ENTITY privatedata.label "Private data">
 <!ENTITY cookies.label "Infokapsler">
 <!ENTITY images.label "Bilder">
 <!ENTITY popups.label "Sprettoppvinduer">
