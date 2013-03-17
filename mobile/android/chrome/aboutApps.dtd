@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "설치한 앱이 없습니다. ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post " 받을 수 있습니다.">
+<!ENTITY aboutApps.uninstall "제거">
+<!ENTITY aboutApps.addToHomescreen "홈 화면에 추가">
