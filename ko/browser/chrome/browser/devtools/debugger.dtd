@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "변수 필터">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "변수 트리로 포커스">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "다음 표현이 참이면 이 중단점에서 실행을 중지할 것입니다.">

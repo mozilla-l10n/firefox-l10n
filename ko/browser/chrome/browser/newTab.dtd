@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle	"새 탭">
+<!ENTITY newtab.undo.removedLabel "미리보기가 삭제되었습니다.">
+<!ENTITY newtab.undo.undoButton "취소합니다.">
+<!ENTITY newtab.undo.restoreButton "모두 복원합니다.">
+<!ENTITY newtab.undo.closeTooltip "숨기기">

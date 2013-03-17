@@ -2,7 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY history.label "방문 기록">
+<!ENTITY tracking.label                 "추적 기능">
+
+<!ENTITY dntTrackingNopref.label        "웹 사이트에 내 방문자 추적 설정을 아무것도 알려주지 않습니다.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "웹 사이트에 방문자 추적 중지를 요청합니다.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "웹 사이트에 방문자 추적을 요청합니다.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "더 알아보기">
+
+<!ENTITY history.label                  "방문 기록">
+
 <!ENTITY  locationBar.label             "주소창">
 
 <!ENTITY  locbar.pre.label		"주소창에 표시할 추천 항목:">
@@ -13,19 +24,25 @@
 <!ENTITY  locbar.bookmarks.label	"북마크만">
 <!ENTITY  locbar.nothing.label		"추천 항목 표시 안 함">
 
-<!ENTITY acceptCookies.label "웹 사이트에서 제공하는 쿠키 허용">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.label "제3자 쿠키 허용">
-<!ENTITY acceptThirdParty.accesskey "A">
-<!ENTITY keepUntil.label "유지 시간:">
-<!ENTITY keepUntil.accesskey "K">
-<!ENTITY expire.label "만료 될 때까지">
-<!ENTITY close.label "&brandShortName; 닫을 때">
-<!ENTITY askEachTime.label "항상 물어 보기">
-<!ENTITY cookieExceptions.label "예외 목록…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "쿠키 보기…">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY acceptCookies.label            "웹 사이트에서 제공하는 쿠키 허용">
+<!ENTITY acceptCookies.accesskey        "A">
+
+<!ENTITY acceptThirdParty.label         "제3자 쿠키 허용">
+<!ENTITY acceptThirdParty.accesskey     "c">
+
+<!ENTITY keepUntil.label                "유지 시간:">
+<!ENTITY keepUntil.accesskey            "K">
+
+<!ENTITY expire.label                   "만료 될 때까지">
+<!ENTITY close.label                    "&brandShortName;를 닫을 때">
+<!ENTITY askEachTime.label              "항상 물어 보기">
+
+<!ENTITY cookieExceptions.label         "예외 목록…">
+<!ENTITY cookieExceptions.accesskey     "E">
+
+<!ENTITY showCookies.label              "쿠키 보기…">
+<!ENTITY showCookies.accesskey          "S">
+
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 작업 사항:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "방문 기록 저장">
@@ -48,9 +65,9 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "선택 사항: ">
-<!ENTITY  dontrememberActions.clearHistory.label "모든 방문 기록 삭제">
-<!ENTITY  dontrememberActions.post.label         ".">
+<!ENTITY  dontrememberActions.pre.label           "선택 사항: ">
+<!ENTITY  dontrememberActions.clearHistory.label  "모든 방문 기록 삭제">
+<!ENTITY  dontrememberActions.post.label          ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "사생활 보호 모드로만 이용">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
@@ -66,8 +83,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-<!ENTITY tracking.label                 "추적 기능">
-
-<!ENTITY doNotTrack.label                "웹 사이트에 방문자 추적 중지 요청">
-<!ENTITY doNotTrack.accesskey            "d">
