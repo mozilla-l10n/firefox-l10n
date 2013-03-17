@@ -71,7 +71,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile "Filter scripts">
+<!ENTITY debuggerUI.searchFile "Scag scripteanna">
 <!ENTITY debuggerUI.searchFile.key "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
@@ -96,7 +96,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-<!ENTITY debuggerUI.focusVariables "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables "Cuir crann na n-athróg i bhfócas">
 <!ENTITY debuggerUI.focusVariables.key "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -116,7 +116,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.seMenuAddWatch "Selection to watch expression">
+<!ENTITY debuggerUI.seMenuAddWatch "Roghnaigh slonn faire">
 <!ENTITY debuggerUI.seMenuAddWatch.key "S">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
