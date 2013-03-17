@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "Du har åpnet en ny privat fane.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikke i en privat fane.">
 
-<!ENTITY privatebrowsingpage.description            "I en privat fane vil ikke &brandShortName; registrere nettleserhistorikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapsler eller midlertidige Internett-filer. Filer du laster ned og bokmerker som du lager vil beholdes.">
+<!ENTITY privatebrowsingpage.description            "I en privat fane vil ikke &brandShortName; registrere historikk for nettlesing, søk, nedlastinger eller skjemaer, infokapsler, eller midlertidige Internett-filer. Filer du laster ned og bokmerker som du lager vil likevel beholdes.">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Selv om denne enheten ikke vil ha en oversikt over nettlesingen din, kan Internett-tilbyderen din fortsatt spore hvilke nettsider du besøker.">
+<!ENTITY privatebrowsingpage.moreInfo               "Selv om denne enheten ikke vil ha oversikt over nettlesingen din, kan Internett-tilbyderen din fortsatt spore hvilke nettsider du besøker.">
