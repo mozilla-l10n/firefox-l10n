@@ -279,14 +279,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label     "Foarkarren…">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
-<!ENTITY clearRecentHistory.label            "Resinte skiednis wiskje…">
 <!ENTITY clearRecentHistory.accesskey        "R">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label      "Priveesneupe starte">
-<!ENTITY privateBrowsingCmd.start.accesskey  "P">
-<!ENTITY privateBrowsingCmd.stop.label          "Priveesneupe stopje">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label               "Byld"> 
@@ -325,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "W">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "In webside iepenje">
+<!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Skeakel nei ljepblêd:">
 
@@ -428,6 +423,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Audio e-maile…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Dizze ynstekker aktivearje">
+<!ENTITY playPluginCmd.accesskey      "k">
+<!ENTITY hidePluginCmd.label          "Dizze ynstekker ferstoppe">
+<!ENTITY hidePluginCmd.accesskey      "f">
 <!ENTITY copyLinkCmd.label            "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyImageCmd.label           "Ofbyldingslokaasje kopiearje">
@@ -587,7 +586,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Mear ynformaasje…">
 
-<!ENTITY allTabs.filter.emptyText "Sykljepblêden">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browserljepblêden">
@@ -637,3 +635,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Kamera / Mikrofoan tagong">
 <!ENTITY webrtcIndicatorButton.tooltip "Toan websites wêrmei't jo no jo kamera of mikrofoan mei diele">
+
+<!ENTITY mixedContentBlocked.helplink "Mear ynfo ">
+<!ENTITY mixedContentBlocked.moreinfo "De measte websites sille korrekt wurkje bliuwe sels as dizze ynhâld blokkearre is.">
