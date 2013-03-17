@@ -67,7 +67,7 @@
 <!ENTITY pref_category_content "Innhold">
 <!ENTITY pref_category_importexport "Import og eksport">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_do_not_track "Be nettsider om å ikke spore">
+<!ENTITY pref_do_not_track "Be nettsted ikke spore">
 <!ENTITY pref_telemetry "Send ytelsesdata">
 <!ENTITY pref_remember_signons "Husk passord">
 
@@ -80,12 +80,12 @@
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
 <!ENTITY pref_clear_private_data "Slett private data">
-<!ENTITY pref_plugins "Utvidelser">
+<!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
-<!ENTITY pref_plugins_tap_to_play "Trykk for å spille av">
+<!ENTITY pref_plugins_tap_to_play "Trykk for å starte">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom2 "Klyp for å oppdatere tekstflyt">
+<!ENTITY pref_reflow_on_zoom2 "Klyp oppdaterer tekstflyt">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
@@ -133,7 +133,7 @@ size. -->
 <!ENTITY share_image_failed "Klarte ikke dele dette bildet">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY find_in_page "Finn på siden">
-<!ENTITY desktop_mode "Last ned desktop-sider">
+<!ENTITY desktop_mode "Hent side som desktop">
 <!ENTITY tools "Verktøy">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
