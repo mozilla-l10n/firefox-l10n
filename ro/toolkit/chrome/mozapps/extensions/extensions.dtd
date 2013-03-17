@@ -143,7 +143,7 @@
 <!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii vă cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
 
 <!ENTITY detail.updateType                    "Actualizări automate">
-<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.label           "Implicit">
 <!ENTITY detail.updateDefault.tooltip         "Instalează automat actualizări doar dacă aceasta e setarea implicită">
 <!ENTITY detail.updateAutomatic.label         "Activată">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">

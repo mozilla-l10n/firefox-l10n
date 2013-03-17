@@ -31,8 +31,8 @@
 <!ENTITY spellAddToDictionary.accesskey "u">
 <!ENTITY spellUndoAddToDictionary.label "Anulează adăugarea la dicționar">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "Verifică ortografia">
-<!ENTITY spellCheckEnable.accesskey "o">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(nicio sugestie de ortografie)">
 <!ENTITY spellDictionaries.label "Limbi">
 <!ENTITY spellDictionaries.accesskey "L">
