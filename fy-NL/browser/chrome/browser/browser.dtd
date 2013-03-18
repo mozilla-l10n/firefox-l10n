@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label     "Foarkarren…">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
-<!ENTITY clearRecentHistory.accesskey        "R">
+<!ENTITY clearRecentHistory.label               "Resinte skiednis wiskje…">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.commandkey          "P">
