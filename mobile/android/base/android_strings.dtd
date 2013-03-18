@@ -76,7 +76,7 @@
 <!ENTITY pref_cookies_disabled "Zakázané">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
-<!ENTITY pref_char_encoding_on "Zobraziť ponuku">
+<!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
 <!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
 <!ENTITY pref_plugins "Zásuvné moduly">
@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
-<!ENTITY pref_private_data_siteSettings "Nastavenia stránok">
+<!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizácie">
@@ -134,7 +134,7 @@ size. -->
 <!ENTITY share_image_failed "Nie je možné zdieľať tento obrázok">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY find_in_page "Hľadať na stránke">
-<!ENTITY desktop_mode "Požiadať plnú verziu stránky">
+<!ENTITY desktop_mode "Plná verzia stránky">
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nová karta">
 <!ENTITY new_private_tab "Nová súkromná karta">

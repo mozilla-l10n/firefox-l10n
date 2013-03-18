@@ -24,7 +24,7 @@
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamätať si heslá">
 <!ENTITY optionsHeader.privacy.doNotTrack.title                  "Sledovanie">
 <!ENTITY optionsHeader.privacy.doNotTrack.label                  "Požiadať stránky, aby nesledovali moju aktivitu">
-<!ENTITY optionsHeader.privacy.masterPassword.label              "Použiť hlavné heslo">
+<!ENTITY optionsHeader.privacy.masterPassword.label              "Používať hlavné heslo">
 
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
