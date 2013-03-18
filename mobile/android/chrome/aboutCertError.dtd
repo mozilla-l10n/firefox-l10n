@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Se ti te conétti sénpre a questo scîto sénsa dificoltæ, quest'erô o veu dî fòscia che gh'é quarchedùn ch'o fa fìnta d'êse o scîto, e no ti doviésci continoâ.">
 <!ENTITY certerror.getMeOutOfHere.label "Pòrtime fêua de chi!">
 
-<!ENTITY certerror.expert.heading "Capìscio i rìschi">
+<!ENTITY certerror.expert.heading "Capìscio i réizeghi">
 <!ENTITY certerror.expert.content "Se ti ti conpréndi cöse sucêde, ti peu domandâ a &brandShortName; de comensâ 'na identificaçión do scîto.<b>Âtriménti se ti crèddi ch'o scîto o segge segûo, alôa sto erô o peu voéi dî che gh'é quarchedùn ch'o l'é aprêuvo à falsificâ a teu conesción.</b>">
 <!ENTITY certerror.expert.contentPara2 "No azónze 'na eceçión se ti no sæ che gh'é 'na bónn-a raxón do perché sto scîto o no dêuvia 'na identificaçión segûa.">
 <!ENTITY certerror.addTemporaryException.label "Vànni a védde o scîto">
