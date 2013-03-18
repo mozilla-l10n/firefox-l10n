@@ -12,7 +12,7 @@
 <!ENTITY community.exp.middle       " a l'é 'na ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunitæ globâle">
-<!ENTITY community.exp.end          " ch'a travàggia asémme pe mantegnî a Ræ avèrta, pùblica e acesìbile a tùtti.">
+<!ENTITY community.exp.end          " ch'a travàggia insémme pe mantegnî a Ræ avèrta, pùblica e acesìbile a tùtti.">
 
 <!ENTITY community.start2           "&brandShortName; o l'é fæto da ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -20,7 +20,7 @@
 <!ENTITY community.middle2          ", 'na ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitæ globâle">
-<!ENTITY community.end3             " ch'a travàggia asémme pe mantegnî a Ræ avèrta, pùblica e acesìbile a tùtti.">
+<!ENTITY community.end3             " ch'a travàggia insémme pe mantegnî a Ræ avèrta, pùblica e acesìbile a tùtti.">
 
 <!ENTITY contribute.start           "O t'interèssa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
