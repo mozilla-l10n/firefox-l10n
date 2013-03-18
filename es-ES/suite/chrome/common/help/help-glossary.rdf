@@ -115,7 +115,7 @@
         <rdf:li> <rdf:Description nc:name="renovaci&#243;n de certificados" nc:link="glossary.xhtml#certificate_renewal"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="RSS" nc:link="glossary.xhtml#rss"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="servidor" nc:link="glossary.xhtml#server"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="sitio web" nc:link="glossary.xhtml#web_site"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="sitio web" nc:link="glossary.xhtml#website"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="spoofing" nc:link="glossary.xhtml#spoofing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SMTP (protocolo de transferencia simple de correo)" nc:link="glossary.xhtml#smtp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="SSL (capa de conexiones seguras)" nc:link="glossary.xhtml#ssl"/> </rdf:li>

@@ -9,6 +9,7 @@
 <!ENTITY select.permissions.label "Sólo permisos">
 <!ENTITY select.preferences.label "Sólo preferencias">
 <!ENTITY select.passwords.label "Sólo contraseñas">
+<!ENTITY select.storage.label "Sólo almacenamiento">
 <!ENTITY domain.search.placeholder "Buscar dominios">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Dominio">
@@ -21,6 +22,7 @@
 <!ENTITY tab.permissions.label "Permisos">
 <!ENTITY tab.preferences.label "Preferencias">
 <!ENTITY tab.passwords.label "Contraseñas">
+<!ENTITY tab.storage.label "Almacenamiento">
 <!ENTITY tab.formdata.label "Datos de formularios">
 <!ENTITY tab.forget.label "Olvidar">
 <!ENTITY cookies.description "Este dominio ha guardado las siguientes cookies en su equipo:">
@@ -75,6 +77,16 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "S">
 <!ENTITY pwd.button.remove.label "Eliminar">
 <!ENTITY pwd.button.remove.accesskey "E">
+<!ENTITY storage.description "Este dominio usa los siguientes almacenamientos web en su equipo:">
+<!ENTITY storage.tree.host.label "Sitio web">
+<!ENTITY storage.tree.type.label "Tipo">
+<!ENTITY storage.tree.size.label "Tamaño">
+<!ENTITY storage.ctx.remove.label "Eliminar">
+<!ENTITY storage.ctx.remove.accesskey "a">
+<!ENTITY storage.ctx.selectAll.label "Seleccionar todo">
+<!ENTITY storage.ctx.selectAll.accesskey "S">
+<!ENTITY storage.button.remove.label "Eliminar">
+<!ENTITY storage.button.remove.accesskey "E">
 <!ENTITY fdata.search.placeholder "Buscar datos de campos">
 <!ENTITY fdata.tree.fieldname.label "Nombre del campo">
 <!ENTITY fdata.tree.value.label "Valor introducido">
@@ -95,6 +107,8 @@
 <!ENTITY forget.preferences.accesskey "e">
 <!ENTITY forget.passwords.label "Contraseñas">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Almacenamiento">
+<!ENTITY forget.storage.accesskey "m">
 <!ENTITY forget.formdata.label "Datos de formularios">
 <!ENTITY forget.formdata.accesskey "D">
 <!ENTITY forget.button.label "Olvidar estos datos">

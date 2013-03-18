@@ -642,6 +642,228 @@
 <p>[<a href="#using_the_password_manager">Volver al principio de la
   sección</a>]</p>
 
+<h1 id="clearing_private_data">Limpiar datos privados</h1>
+
+<p>Al navegar por la web pueden ser recogidos y almacenados por
+  &brandShortName; diversos elementos de información potencialmente privada.
+  Esta sección describe los tipos de tales datos privados y las opciones para
+  eliminarlos ya sea manualmente bajo petición o automáticamente al cerrar
+  &brandShortName;.</p>
+
+<div class="contentsBox">En esta sección:
+  <ul>
+    <li><a href="#types_of_private_data">Tipos de datos privados</a></li>
+    <li><a href="#private_data_prefs">Preferencias sobre datos privados</a></li>
+    <li><a href="#clear_private_data_now">Limpiar datos privados ahora</a></li>
+  </ul>
+</div>
+
+<h2 id="types_of_private_data">Tipos de datos privados</h2>
+
+<p>Diferentes tipos de información son recogidos y conservados por
+  &brandShortName; mientras está navegando por Internet. Algunos de estos datos
+  son necesarios para que esos sitios funcionen correctamente o de modo más
+  eficiente, otros se recogen para su comodidad.</p>
+
+<p>Las implicaciones de privacidad varían de un tipo a otro. Por ejemplo, el
+  historial de navegación y la caché de contenido proporcionan una instantánea
+  de su actividad de navegación reciente que es local a su equipo; las cookies
+  o el contenido web sin conexión pueden ser usados por un sitio web para
+  rastrear a un usuario en diferentes visitas (por ejemplo, para propósitos
+  estadísticos o para anuncios dirigidos).</p>
+
+<p>&brandShortName; puede guardar localmente la siguiente información
+  privada:</p>
+
+<table class="defaultTable">
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Explicación</th>
+    </tr>
+  </thead>
+  <tbody class="tbody-default">
+    <tr>
+      <td>Historial de navegación</td>
+      <td>Si se activa en las 
+        <a href="cs_nav_prefs_navigator.xhtml#history">preferencias del
+        historial</a>, se conserva un historial de todas las páginas de
+        cualquier sitio web que haya <em>visitado</em> y pueden ser
+        sugeridas para completar direcciones en la barra de direcciones.</td>
+    </tr>
+    <tr>
+      <td>Historial de la barra de direcciones</td>
+      <td>Éste es un historial de direcciones web que fueron
+        <em>introducidas</em> manualmente o copiadas y pegadas en la barra
+        de direcciones del navegador. Esta lista está disponible en el menú
+        de la barra de direcciones.</td>
+    </tr>
+    <tr>
+      <td>Historial de descargas</td>
+      <td>Dependiendo de las opciones seleccionadas en las
+        <a href="cs_nav_prefs_navigator.xhtml#downloads">preferencias
+        de descargas</a>, se mantiene un historial de <em>archivos
+        descargados</em> de los sitios web en el administrador de
+        descargas.</td>
+    </tr>
+    <tr>
+      <td>Historial de formularios y búsquedas guardados</td>
+      <td>Si se activa en las
+        <a href="cs_nav_prefs_navigator.xhtml#history">preferencias del
+        historial</a>, el texto introducido en los <em>elementos de
+        formularios</em> (p.e., nombres de usuario, pero no contraseñas) será
+        guardado durante un número de días especificado; las coincidencias se
+        sugieren en una lista cuando vuelve a visitar esa página. Si pone la
+        caja de búsqueda en su barra de herramientas, el historial de los
+        <em>términos de búsqueda</em> también se guardará.</td>
+    </tr>
+    <tr>
+      <td>Caché</td>
+      <td>La caché es un <em>almacenamiento de corto plazo</em> de páginas web
+        y otros datos (como adjuntos de correo de cuentas IMAP o imágenes
+        remotas en mensajes) para evitar tener que volver a solicitar esos
+        elementos del servidor si se acaba de acceder a ellos. La caché en
+        su disco puede contener datos hasta el límite específicado en las
+        <a href="cs_nav_prefs_advanced.xhtml#cache">preferencias de
+        caché</a>.</td>
+    </tr>
+    <tr>
+      <td>Cookies</td>
+      <td>Las cookies son <em>pequeños trozos de información</em> que los
+        sitios web usan para realizar un seguimiento de usuarios y sesiones,
+        o para guardar preferncias del sitio web. Use las
+        <a href="using_priv_help.xhtml#cookies">preferencias de cookies</a>
+        para especificar hasta qué punto se permiten las coookies y por cuánto
+        tiempo se conservan.</td>
+    </tr>
+    <tr>
+      <td>Datos de sitios web sin conexión</td>
+      <td>Los sitios web pueden tener permitido guardar el contenido de sus
+        páginas y los datos relacionados localmente para que estén disponibles
+        para su uso <em>sin una conexión de red</em>. Vea las
+        <a href="cs_nav_prefs_advanced.xhtml#offline_apps">preferencias de
+        aplicaciones sin conexión</a> para saber las opciones disponibles para
+        controlar este comportamiento e inspeccionar el contenido de los datos
+        de sitios web sin conexión guardados.</td>
+    </tr>
+    <tr>
+      <td>Contraseñas guardadas</td>
+      <td>Si se activa en las
+        <a href="passwords_help.xhtml#passwords">preferencias de contraseñas</a>,
+        &brandShortName; conserva <em>contraseñas introducidas</em> para su uso
+        posterior, de manera que no tenga que reescribirlo cada vez que visita
+        un sitio web.</td>
+    </tr>
+    <tr>
+      <td>Sesiones iniciadas</td>
+      <td>Los sitios web pueden necesitar una <em>identificación</em> (nombre
+        de usuario y contraseña solicitados mediante un diálogo emergente) y
+        pueden llevar la lista de tales sesiones identificadas. Un sitio le
+        preguntará sus credenciales nuevamente cuando pase a la siguiente página
+        una vez se limpie esta información.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>[<a href="#clearing_private_data">Volver al principio de la sección</a>]</p>
+
+<h2 id="private_data_prefs">Preferencias de privacidad y seguridad - Datos
+  privados</h2>
+
+<p>Esta sección describe cómo usar el panel de preferencias de datos privados
+  para determinar cuándo y qué tipo de datos privados deben ser eliminados. Si
+  no está ya viéndolo, siga estos pasos:</p>
+
+<ol>
+  <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija Preferencias.</li>
+  <li>Bajo la categoría Privacidad y seguridad, haga clic en Datos privados
+    (si no hay subcategorías visibles, haga doble clic en Privacidad y
+    seguridad para expandir la lista).</li>
+</ol>
+
+<p>La sección <strong>Limpiar datos privados</strong> proporciona las
+  siguientes opciones:</p>
+
+<ul>
+  <li><strong>Limpiar siempre mis datos privados cuando cierre
+    &brandShortName;</strong>: marque esta casilla para iniciar siempre la
+    limpieza de los datos privados seleccionados cuando se cierre la
+    aplicación.</li>
+  <li><strong>Preguntarme antes de borrar datos privados</strong>: marque esta
+    casilla para que &brandShortName; le presente un cuadro de diálogo antes de
+    limpiar los datos privados seleccionados. El cuadro de diálogo también le
+    permite cambiar la selección, en lugar de limpiarlos sin ninguna
+    interacción.</li>
+  <li><strong>Cuando pida a &brandShortName; limpiar mis datos privados,
+    debería borrar</strong>: para cada <a href="#types_of_private_data">tipo
+    de datos privados</a>, se proporciona una opción separada sobre si limpiar
+    o no los elementos guardados de ese tipo específico. Marque la casilla
+    respectiva para cada elemento que debe eliminarse por defecto cuando se
+    solicite por usted o al iniciarse el cierre.</li>
+  <li><strong>Limpiar ahora</strong>: pulse este botón para iniciar la limpieza
+    de los datos privados inmediatamente, dependiendo de las preferencias
+    seleccionadas en este panel:
+    <ul>
+      <li>Cuando está marcada la opción <q>Preguntarme antes de borrar datos
+        privados</q>, &brandShortName; abre un cuadro de diálogo donde puede
+        confirmar y cambiar los elementos que serán eliminados.</li>
+      <li>Cuando <q>Preguntarme antes de borrar datos privados</q> <em>no</em>
+        está marcada, se limpiarán inmediatamente todos los tipos marcados
+        para ser eliminados por defecto, sin que se muestre el cuadro de
+        diálogo.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- link up "Data Manager" below once bug 599097 has been taken care of -->
+
+<p><strong>Nota</strong>: considere también otras alternativas más selectivas
+  para eliminar datos privados. Por ejemplo los paneles de preferencias
+  individuales para cada tipo pueden proporcionar opciones adicionales y el
+  administrador de datos permite limpiar datos privados por tipo y dominio
+  específico de un sitio web. En lugar de limpiar todas las cookies al cerrar
+  &brandShortName;, podría especificar permitir sólo las cookies de sesión,
+  dándole la oportunidad de establecer excepciones para sitios web concretos
+  para los que quiere retener las cookies.</p>
+
+<p>[<a href="#clearing_private_data">Volver al principio de la sección</a>]</p>
+
+<h2 id="clear_private_data_now">Limpiar datos privados ahora</h2>
+
+<p>Los datos privados pueden eliminarse en cualquier momento, ya sea desde las
+  <a href="#private_data_prefs">preferencias de datos privados</a> al pulsar el
+  botón Limpiar ahora, o seleccionando Limpiar datos privados del menú
+  Herramientas de una ventana del navegador. Esto inicia una de las siguientes
+  acciones:</p>
+
+<ul>
+  <li>Cuando está marcada la <q>Preguntarme antes de borrar datos privados</q>
+    en el <a href="#private_data_prefs">panel de preferencias de datos
+    privados</a>, &brandShortName; abre una ventana de diálogo donde puede
+    confirmar y cambiar los <a href="#types_of_private_data">tipos de datos
+    privados</a> que se deben eliminar, de la siguiente forma:
+    <ul>
+      <li>Los valores por defecto de cada tipo individual se determinan por
+        las <a href="#private_data_prefs">preferencias de datos privados</a>.
+        Observe que las casillas puden estar desactivadas individualmente si
+        no hay elementos disponibles para su eliminación.</li>
+      <li>Marque o desmarque casillas según desee si quiere limpiar una
+        combinación diferente de datos privados.</li>
+      <li>Pulse <q>Limpiar datos privados ahora</q> para limpiar los elementos
+        seleccionados, o Cancelar para salir del diálogo.</li>
+    </ul>
+  </li>
+  <li>Cuando <q>Preguntarme antes de borrar datos privados</q> <em>no</em>
+    está marcada, todos los tipos marcados en las
+    <a href="#private_data_prefs">preferencias de datos privados</a> para ser
+    eliminados por defecto se limpiarán inmediatamente, sin que se muestre el
+    cuadro de diálogo.</li>
+</ul>
+
+<p>[<a href="#clearing_private_data">Volver al principio de la
+  sección</a>]</p>
+
   <h1 id="encrypting_stored_sensitive_information">Cifrar la
   información confidencial guardada</h1>
 
