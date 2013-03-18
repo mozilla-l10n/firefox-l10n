@@ -20,7 +20,8 @@
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
 
-
+<!ENTITY healthReport.label       "&brandShortName; આરોગ્ય અહેવાલ">
+<!ENTITY healthReport.accesskey   "e">
 
 
 <!ENTITY preferencesCmdMac.label        "પસંદગીઓ...">

@@ -546,8 +546,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY social.notLoggedIn.label   "પ્રવેશેલ નથી">
 
-
-
-
 <!ENTITY socialToolbar.title        "સામાજિક સાધનપટ્ટી બટન">
+
+<!ENTITY devToolbarToolsButton.tooltip     "વિકાસ સાધનો બદલો">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "સાધનો બદલો">
+<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "જોડો…">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectCamera.label "વહેંચવા માટે કૅમેરા:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectMicrophone.label "વહેંચવા માટે માઇક્રોફોન:">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.label          "આ પ્લગઇન છુપાવો">
+<!ENTITY mixedContentBlocked.helplink "વધુ શીખો">
+<!ENTITY mixedContentBlocked.moreinfo "આ વિષયવસ્તુ અટકાવવામાં આવશે છતાંય મોટા ભાગની વેબસાઇટો યોગ્ય રીતે કામ કરશે.">
+<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "નવી ખાનગી વિન્ડો">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "કડીને નવી ખાનગી વિન્ડોમાં ખોલો">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "ટેબને જોડો">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.label          "આ પ્લગઇન સક્રિય કરો">
+<!ENTITY remoteWebConsoleCmd.label    "દૂરસ્થ વેબ કન્સોલ">
+<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.label "રદ કરો">
+<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "સંવાદો પર ફોકસ કરો">
+<!ENTITY social.ok.accesskey   "O">
+<!ENTITY social.ok.label       "બરાબર">
+<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "ડેસ્કટોપ સૂચનો બતાવો">
+<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "બાજુપટ્ટી બતાવો">
+<!ENTITY syncTabsMenu2.label     "અન્ટ ઉપકરણોમાંથી ટૅબો">
+<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.label                     "ટેબ છોડો">
+<!ENTITY urlbar.placeholder2          "સરનામું શોધો અથવા દાખલ કરો">
+<!ENTITY webrtcIndicatorButton.label "કૅમેરા / માઇક્રોફોન વપરાશ">
+<!ENTITY webrtcIndicatorButton.tooltip "તમારા કૅમેરા કે માઇક્રોફોન સાથે તમે વહેંચેલી સાઇટો દર્શાવે છે">
 
