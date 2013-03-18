@@ -144,6 +144,8 @@ tämän kontaktin lähettämissä sähköposteissa.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber-tunnus:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC-tunnus:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Kuva">
 <!ENTITY Photo.accesskey                "K">
