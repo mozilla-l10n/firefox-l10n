@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nij ljepblêd">
+<!ENTITY newtab.undo.removedLabel "Miniatuer fuortsmite.">
+<!ENTITY newtab.undo.undoButton "Ungedien meitsje .">
+<!ENTITY newtab.undo.restoreButton "Alles werstelle.">
+<!ENTITY newtab.undo.closeTooltip "Ferstoppe">
