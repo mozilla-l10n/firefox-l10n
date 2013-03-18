@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY abouthealth.locale-direction "ltr">
+
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "&brandShortName; આરોગ્ય અહેવાલ">
+<!ENTITY abouthealth.header "&brandFullName; આરોગ્ય અહેવાલ">
+
+<!ENTITY abouthealth.intro.title "&brandShortName; આરોગ્ય અહેવાલ શું છે?">
+
+<!ENTITY abouthealth.intro-enabled "તમને વધુ સારો બ્રાઉઝીંગ અનુભવ પૂરો પાડવા માટે &brandFullName; તમારા કમ્પ્યૂટર અને તેના માહિતી વપરાશ વિશેની અમુક માહિતી ભેગી કરે છે.">
+<!ENTITY abouthealth.intro-disabled "હાલમાં તમે માહિતી વપરાશની વિગતો &vendorShortName; માં જમા કરતા નથી. &quot;&abouthealth.optin;&quot; બટન પર ક્લિક કરીને તમે અમને &brandShortName; ને વધુ સારું બનાવવામાં મદદ કરી શકો છો.">
+
+<!ENTITY abouthealth.optin "&brandShortName; ને વધુ સારું બનાવવામાં મદદ કરો">
+<!ENTITY abouthealth.optout "અહેવાલ આપવાનું બંધ કરો">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "માહિતી જમા કરવાનું અટકાવવું છે?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "શું તમે ખરેખર આ પ્રક્રિયામાંથી બહાર નીકળવા માંગો છો અને &vendorShortName; સર્વરોમાં સંગ્રહાયેલી તમારી બધી અનામિક પ્રોડક્ટ માહિતી કાઢવા માંગો છો?">
+
+<!ENTITY abouthealth.show-raw-data "વિગતો બતાવો">
+<!ENTITY abouthealth.hide-raw-data "વિગતો છુપાવો">
+
+<!ENTITY abouthealth.show-report "&brandShortName; અહેવાલ બતાવો">
+
+<!ENTITY abouthealth.details.description-start "આ એ માહિતી છે કે જેને &brandFullName; જમા કરી રહ્યું હતું &brandShortName; ના આરોગ્ય અહેવાલને ચલાવવા માટે.   તમે ">
+<!ENTITY abouthealth.details-link "વધુ શીખી શકો છો">
+<!ENTITY abouthealth.details.description-end " અમે શું ભેગું કરી શકીએ અને જમા કરી શકીએ તેના વિશે.">
+<!ENTITY abouthealth.no-data-available "દર્શાવવા માટે પહેલાંનુ જમા કંઇ નથી. મહેરબાની કરીને પછી ચકાસો.">

@@ -5,5 +5,17 @@
 <!ENTITY privatebrowsingpage.title                 "ખાનગી બ્રાઉઝીંગ">
 <!ENTITY privatebrowsingpage.title.normal          "શું તમે ખાનગી બ્રાઉઝીંગ શરૂ કરવા માંગો છો?">
 
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; આ વિન્ડોનો કોઇ ઇતિહાસ યાદ રાખશે નહિં.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "તમે હાલમાં ખાનગી વિન્ડોમાં છો.">
+
+<!ENTITY privatebrowsingpage.perwindow.description     "ખાનગી બ્રાઉઝીંગ વિન્ડોમાં, &brandShortName; કોઇપણ બ્રાઉઝીંગ ઇતિહાસ, શોધ ઇતિહાસ, ડાઉનલોડ ઇતિહાસ, વેબ ફૉર્મ ઇતિહાસ, કુકીઓ, કે કામચલાઉ ઇન્ટરનેટ ફાઇલો રાખશે નહિ. છતાંય, તમે ડાઉનલોડ કરો તે ફાઇલો અને તમે કરેલી બુકમાર્કો રહેશે.">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "ખાનગી વિન્ડો ખોલો">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "ખાનગી બ્રાઉઝીંગ શરુ કરવા માટે, તમે &basePBMenu.label; &gt; &newPrivateWindow.label; પણ પસંદ કરી શકો છો.">
+<!ENTITY privatebrowsingpage.howToStop3                "ખાનગી બ્રાઉઝીંગ અટકાવવા માટે, તમે આ વિન્ડો બંધ કરી શકો છો.">
+
 <!ENTITY privatebrowsingpage.moreInfo                  "આ કમ્પ્યૂટર પાસે તમારા બ્રાઉઝીંગ ઈતિહાસનો કોઈ રેકોર્ડ નહિં હોવા છતાં, તમારા ઈન્ટરનેટ સેવા પ્રોવાઈડર કે તમારો એમ્પ્લોયર તમે મુલાકાત લીધેલ પાનાંઓનો ટ્રેક રાખી શકે છે.">
 <!ENTITY privatebrowsingpage.learnMore                 "વધુ શીખો">
