@@ -35,4 +35,4 @@
 
 <!ENTITY loaddevice.title                       "PKCS#11 ઉપકરણ લાવો">
 
-<!ENTITY devmgr.style                           "પહોળાઇ: 52em; ઊંચાઇ: 32em;">
+<!ENTITY devmgr.style                           "width: 52em; height: 32em;">
