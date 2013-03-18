@@ -34,10 +34,10 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; si môže zapamätať prihlasovacie údaje pre všetky vaše kontá.">
-<!ENTITY useMasterPassword.label        "Použiť Hlavné heslo">
+<!ENTITY useMasterPassword.label        "Používať hlavné heslo">
 <!ENTITY useMasterPassword.accesskey    "P">
 <!ENTITY masterPassword.intro           "Hlavné heslo slúži na ochranu všetkých vašich hesiel, musíte ho však zadať počas každej relácie.">
-<!ENTITY changeMasterPassword.label     "Zmeniť Hlavné heslo…">
+<!ENTITY changeMasterPassword.label     "Zmeniť hlavné heslo…">
 <!ENTITY changeMasterPassword.accesskey "Z">
 <!ENTITY savedPasswords.label           "Uložené heslá…">
 <!ENTITY savedPasswords.accesskey       "U">

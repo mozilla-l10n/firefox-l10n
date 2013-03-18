@@ -7,13 +7,11 @@
 
 <!ENTITY back.label            "Naspäť">
 <!ENTITY forward.label         "Dopredu">
-<!ENTITY showTabs.label        "Zobraziť karty">
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
-<!ENTITY undoclosetab.label    "Otvoriť zatvorenú kartu">
 
-<!ENTITY appbarFindInPage.label    "Hľadať na stránke">
-<!ENTITY appbarViewOnDesktop.label "Zobraziť na Ploche">
+<!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
+<!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 
 <!ENTITY startTopSitesHeader.label        "Naj stránky">
 <!ENTITY startBookmarksHeader.label       "Záložky">
@@ -51,6 +49,7 @@
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
 
 <!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Vystrihnúť">
 <!ENTITY contextTextCopy.label             "Kopírovať">
 <!ENTITY contextTextPaste.label            "Prilepiť">
 <!-- unique item that is only added to the url bar context menu -->
