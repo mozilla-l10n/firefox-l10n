@@ -4,12 +4,14 @@
 
 <!ENTITY pref.cookies.title "Cookies">
 <!ENTITY cookiePolicy.label "Política de aceptación de cookies">
-<!ENTITY accAllCookiesRadio.label "Permitir todas las cookies">
-<!ENTITY accAllCookiesRadio.accesskey "c">
-<!ENTITY accOrgCookiesRadio.label "Permitir cookies sólo para el sitio web original.">
-<!ENTITY accOrgCookiesRadio.accesskey "o">
 <!ENTITY disableCookies.label "Bloquear cookies">
 <!ENTITY disableCookies.accesskey "B">
+<!ENTITY accNo3rdPartyCookies.label "Permitir cookies únicamente del sitio web originario (no cookies de terceros)">
+<!ENTITY accNo3rdPartyCookies.accesskey "P">
+<!ENTITY acc3rdPartyVisited.label "Permitir cookies de terceras partes sólo para sitios web visitados previamente">
+<!ENTITY acc3rdPartyVisited.accesskey "c">
+<!ENTITY accAllCookies.label "Permitir todas las cookies">
+<!ENTITY accAllCookies.accesskey "k">
 <!ENTITY cookieRetentionPolicy.label "Política de retención de cookies">
 <!ENTITY acceptNormally.label "Aceptar cookies normalmente">
 <!ENTITY acceptNormally.accesskey "n">

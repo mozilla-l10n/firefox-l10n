@@ -36,6 +36,7 @@
     <li><a href="#keyboard_navigation">Navegación con el teclado</a></li>
     <li><a href="#fayt">Encontrar a medida que escribe</a></li>
     <li><a href="#cache">Caché</a></li>
+    <li><a href="#offline_apps">Aplicaciones sin conexión</a></li>
     <li><a href="#proxies">Proxies</a></li>
     <li><a href="#http_networking">Protocolo HTTP</a></li>
     <li><a href="#software_installation">Instalación de software</a></li>
@@ -318,6 +319,86 @@ de disco y memoria de &brandShortName;:</p>
     href="http://www.mozilla.org/projects/netlib/Link_Prefetching_FAQ.html"><abbr
     title="Frequently Answered Questions, Preguntas frecuentemente contestadas">FAQ</abbr>
     sobre precarga de enlaces</a>.</li>
+</ul>
+
+<p>[<a href="#advanced_preferences">Volver al principio de la sección</a>]</p>
+
+<h2 id="offline_apps">Preferencias avanzadas - Aplicaciones sin conexión</h2>
+
+<p>Esta sección describe cómo usar el panel de preferencias de aplicaciones
+  web sin conexión. Si no lo está viendo ya, siga estos pasos:</p>
+
+<ol>
+  <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija Preferencias.</li>
+   <li>Bajo la categoría Avanzadas, pulse Aplicaciones sin conexión (si no hay
+     subcategorías visibles, haga doble clic en Avanzadas para expandir la
+     lista).</li>
+</ol>
+
+<p>El panel de aplicaciones web sin conexión le permite controlar y monitorizar
+  cómo usan los sitios web el almacenamiento sin conexión de &brandShortName;.
+  En general, los sitios web le obligan a estar conectado para poder usarlos,
+  por lo que no funcionarán si está desconectado de la red. Si se permite, los
+  sitios web pueden guardar su contenido y cualquier dato que se haya
+  introducido localmente en &brandShortName;. De esta manera, pueden ser usados
+  incluso sin una conexión de red.</p>
+
+<p>La sección <strong>Contenido web y datos del usuario sin conexión</strong>
+  proporciona las siguientes funciones:</p>
+
+<ul>
+  <li><strong>Su caché de aplicación está usando actualmente [__] de espacio en
+    disco</strong>: esta entrada es informativa y le proporciona una estimación
+    de los datos sin conexión usados actualmente por todas las aplicaciones web
+    juntas.</li>
+  <li><strong>Limpiar</strong>: limpia inmediatamente los datos que han sido
+    guardados por todos los sitios web para su uso sin conexión.</li>
+  <li><strong>Avisarme cuando un sitio web quiere guardar datos para su uso sin
+    conexión</strong>: marque esta casilla si quiere ser notificado cuando un
+    sitio web quiera utilizar la característica sin conexión pero no tenga
+    los permisos para hacerlo. Aparecerá una barra de información para este
+    sitio con las siguientes opciones:
+    <ul>
+      <li><strong>Permitir</strong>: permitir permanentemente a este sitio el
+        uso del almacenamiento sin conexión para éste y los futuros accesos.</li>
+      <li><strong>Nunca para este sitio</strong>: denegar permanentemente a
+        este sitio el uso del almacenamiento sin conexión para éste y los
+        futuros accesos.</li>
+      <li><strong>Ahora no</strong>: denegar a este sitio el uso del
+        almacenamiento sin conexión para esta petición, pero preguntar de
+        nuevo en futuros accesos.</li>
+    </ul>
+    <p><strong>Nota</strong>: si la caja de notificación <em>no</em> está
+      seleccionada, &brandShortName; procederá como si se hubiera seleccionado
+      <q>Ahora no</q>.</p>
+  </li>
+  <!-- NOTE: link "Data Manager" below once bug 599097 has been fixed -->
+  <li><strong>Administrar permisos</strong>: abre el administrador de datos
+    en una nueva pestaña o ventana en la que se puede modificar los permisos
+    de las aplicaciones web sin conexión para cada dominio:
+    <ul>
+      <li><strong>Usar valores predeterminados</strong>: marque esta casilla
+        para volver al comportamiento por defecto, es decir, presentar la
+        barra de información con la siguiente petición de un sitio de cada
+        dominio si se ha elegido la opción de notificación (en la práctica,
+        elimina la entrada de esta lista).</li>
+      <li><strong>Permitir</strong>: seleccione esta opción para permitir a
+        este sitio el uso del almacenamiento sin conexión para todos los
+        accesos.</li>
+      <li><strong>Bloquear</strong>: seleccione esta opción para denegar a
+        este sitio el uso del almacenamiento sin conexión para todos los
+        accesos.</li>
+    </ul>
+  </li>
+  <li><strong>Los siguientes sitios web tienen permitido guardar datos para
+    su uso sin conexión</strong>: lista los dominios de todos los sitios web
+    que han guardado datos sin conexión, junto con la cantidad de datos usados
+    actualmente por este dominio.</li>
+  <li><strong>Limpiar datos</strong>: seleccione un dominio de sitio web y
+    pulse este botón para eliminar todos los datos sin conexión del dominio
+    especificado. Pulse <q>Eliminar datos sin conexión</q> cuando se le
+    pida confirmación para ello.</li>
 </ul>
 
 <p>[<a href="#advanced_preferences">Volver al principio de la sección</a>]</p>

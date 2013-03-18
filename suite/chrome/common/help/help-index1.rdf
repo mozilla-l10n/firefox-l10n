@@ -54,6 +54,11 @@
          nc:link="nav_help.xhtml#plugins_and_downloads"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="Offline:offline_apps"
+         nc:name="aplicaciones web sin conexión"
+         nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Filing_messages"
          nc:name="archivar mensajes"
          nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/>
@@ -1506,8 +1511,13 @@
 	 nc:link="customize_help.xhtml#tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="safe_browsing"
+         nc:name="navegación segura"
+         nc:link="privsec_help.xhtml#safe_browsing"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="browser"
-         nc:name="navegador  "
+         nc:name="navegador"
 	 nc:link="nav_help.xhtml"/>
      </rdf:li>
      <rdf:li>
@@ -2074,6 +2084,11 @@
 <rdf:Description about="help-indexAZ.rdf#r">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="user_tracking"
+         nc:name="rastreo del usuario"
+         nc:link="privsec_help.xhtml#privacy_and_security"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="resetting_master_password"
          nc:name="reiniciar la contrase&#241;a maestra"
 	 nc:link="passwords_help.xhtml#reset_master_password"/>
