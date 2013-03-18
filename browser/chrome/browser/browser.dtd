@@ -634,4 +634,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip           "Kuva saite, millel on hetkel sinu kaamera või mikrofoni kasutamine lubatud">
 
 <!ENTITY mixedContentBlocked.helplink            "Rohkem teavet">
-<!ENTITY mixedContentBlocked.moreinfo            "Enamik saite töötab korralikult edasi ka siis, kui see sisu on blokitud.">
+<!ENTITY mixedContentBlocked.moreinfo            "Enamik saite töötab korralikult edasi ka siis, kui see sisu on blokeeritud.">
