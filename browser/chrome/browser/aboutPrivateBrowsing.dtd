@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.title.normal                   "Kas soovid alustada privaatset veebilehitsemist?">
 
 <!ENTITY privatebrowsingpage.perwindow.issueDesc            "&brandShortName; ei säilita selle akna kohta mingit ajalugu.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal     "Sa pole hetkel privaatses aknas.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal     "Sa pole praegu privaatses aknas.">
 
 <!ENTITY privatebrowsingpage.perwindow.description          "Privaatse veebilehitsemise aknas ei salvesta &brandShortName; veebilehitsemise, otsingute ja allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile.  Siiski säilitatakse lisatud järjehoidjad ja allalaaditud failid.">
 

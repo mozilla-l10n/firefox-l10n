@@ -12,7 +12,7 @@
 <!ENTITY abouthealth.intro.title "Mis on &brandShortName;i terviseraport?">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; kogub teatud andmeid sinu arvuti ja brauseri kasutamise kohta, et pakkuda edaspidi paremat kasutuskogemust.">
-<!ENTITY abouthealth.intro-disabled "Hetkel sinu kasutusandmeid &vendorShortName;le ei saadeta. Et aidata meil &brandShortName;i paremaks teha, klõpsa nupul &quot;&abouthealth.optin;&quot;.">
+<!ENTITY abouthealth.intro-disabled "Praegu sinu kasutusandmeid &vendorShortName;le ei saadeta. Et aidata meil &brandShortName;i paremaks teha, klõpsa nupul &quot;&abouthealth.optin;&quot;.">
 
 <!ENTITY abouthealth.optin "Aita &brandShortName;i paremaks teha">
 <!ENTITY abouthealth.optout "Lülita raporteerimine välja">
