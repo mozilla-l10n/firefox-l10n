@@ -6,7 +6,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Controleren op updates »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Updates zoeken…">
 <!ENTITY aboutPage.checkForUpdates.none         "Geen updates beschikbaar">
-<!ENTITY aboutPage.checkForUpdates.found        "Update beschikbaar">
+<!ENTITY aboutPage.checkForUpdates.available    "Update beschikbaar; Klik om deze te downloaden">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Update downloaden…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update is gedownload; Klik om deze te installeren">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Ondersteuning">
 <!ENTITY aboutPage.privacyPolicy.label          "Privacybeleid">
