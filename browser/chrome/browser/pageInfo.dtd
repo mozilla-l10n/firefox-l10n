@@ -56,6 +56,7 @@
 <!ENTITY permImage "Caricare immagini">
 <!ENTITY permPopup "Aprire finestre pop-up">
 <!ENTITY permCookie "Impostare cookie">
+<!ENTITY permNotifications "Visualizzare notifiche">
 <!ENTITY permInstall "Installare estensioni o temi">
 <!ENTITY permGeo "Comunicare posizione attuale">
 <!ENTITY permPlugins "Attivare plugin">
