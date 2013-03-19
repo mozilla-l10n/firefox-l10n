@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption "Versions du protocole SSL">
 <!ENTITY  SSLWarnings.caption "Avertissements SSL">
+<!ENTITY  SSLMixedContent.caption "Contenu mixte">
 <!ENTITY  SSLClientAuthMethod.caption "Sélection du certificat client">
 
 <!ENTITY pref.ssl.title "Protocole SSL">
@@ -13,14 +14,23 @@
 <!ENTITY enable.tls10.accesskey "T">
 
 <!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement et me demander la permission avant :">
-<!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement">
+<!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement des données">
 <!ENTITY warn.enteringsecure.accesskey "e">
 <!ENTITY warn.insecurepost "d'envoyer des données d'une page non sécurisée à une page non sécurisée">
 <!ENTITY warn.insecurepost.accesskey "v">
-<!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données.">
+<!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données">
 <!ENTITY warn.leavingsecure.accesskey "u">
 <!ENTITY warn.viewmixed "de voir une page contenant un mélange de données chiffrées et non chiffrées">
 <!ENTITY warn.viewmixed.accesskey "o">
+
+<!ENTITY warn.mixedactivecontent            "M'avertir lorsque des pages chiffrées possèdent du contenu non sécurisé">
+<!ENTITY warn.mixedactivecontent.accesskey  "M">
+<!ENTITY block.activecontent                "Ne pas charger du contenu non sécurisé sur des pages chiffrées">
+<!ENTITY block.activecontent.accesskey      "p">
+<!ENTITY warn.mixeddisplaycontent           "M'avertir lorsque des pages possèdent d'autres types de contenu mixte">
+<!ENTITY warn.mixeddisplaycontent.accesskey "a">
+<!ENTITY block.displaycontent               "Ne pas charger les autres types de contenu mixte sur des pages chiffrées">
+<!ENTITY block.displaycontent.accesskey     "c">
 
 <!ENTITY certselect.description "Veuillez décider comment &brandShortName; sélectionne un certificat de sécurité à présenter aux sites web qui en requièrent un :">
 <!ENTITY certselect.auto "sélectionner automatiquement">
