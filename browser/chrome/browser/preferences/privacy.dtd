@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Seurantatiedot">
 
-<!ENTITY doNotTrack.label               "Ilmoita sivustoille, etten halua niiden seuraavan minua">
-<!ENTITY doNotTrack.accesskey           "I">
+<!ENTITY dntTrackingNopref.label        "Älä kerro sivustoille mitään seuranta-asetuksistani.">
+<!ENTITY dntTrackingNopref.accesskey    "Ä">
+<!ENTITY dntTrackingNotOkay.label       "Ilmoita sivustoille, etten halua niiden seuraavan minua.">
+<!ENTITY dntTrackingNotOkay.accesskey   "I">
+<!ENTITY dntTrackingOkay.label          "Ilmoita sivustoille, että haluan niiden seuraavan minua.">
+<!ENTITY dntTrackingOkay.accesskey      "m">
+<!ENTITY doNotTrackInfo.label           "Lue lisää">
 
 <!ENTITY  history.label                 "Historiatiedot">
 

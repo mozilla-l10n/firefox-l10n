@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Ei asennettuja verkkosovelluksia. Lataa sovelluksia ">
 <!ENTITY aboutApps.noApps.middle3 "sovelluskauppa Firefox Marketplacesta">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Poista">
+<!ENTITY aboutApps.addToHomescreen "Lisää aloitusruutuun">
