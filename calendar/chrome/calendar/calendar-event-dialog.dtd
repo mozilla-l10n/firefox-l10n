@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Herhalen:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Tot:">
+<!ENTITY event.until.accesskey                            "t">
 <!ENTITY event.reminder.label                             "Herinnering:" >
 <!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Beschrijving:" >
