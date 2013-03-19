@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Uusi välilehti">
+<!ENTITY newtab.undo.removedLabel "Välilehti poistettiin.">
+<!ENTITY newtab.undo.undoButton "Kumoa.">
+<!ENTITY newtab.undo.restoreButton "Palauta kaikki.">
+<!ENTITY newtab.undo.closeTooltip "Piilota">
