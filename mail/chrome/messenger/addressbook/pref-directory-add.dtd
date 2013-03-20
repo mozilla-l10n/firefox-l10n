@@ -1,76 +1,40 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-2002
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY newDirectoryTitle.label "Directoria das Propriedades do Servidor">
-<!ENTITY directoryName.label "Nome: ">
-<!ENTITY directoryName.accesskey "n">
-<!ENTITY directoryHostname.label "Nome do Servidor: ">
-<!ENTITY directoryHostname.accesskey "s">
-<!ENTITY directoryBaseDN.label "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "Procurar">
-<!ENTITY findButton.accesskey "o">
-<!ENTITY directorySecure.label "Usar ligação segura (SSL)">
-<!ENTITY directorySecure.accesskey "U">
-<!ENTITY directoryLogin.label "Bind DN: ">
-<!ENTITY directoryLogin.accesskey "i">
-<!ENTITY General.tab "Geral">
-<!ENTITY Offline.tab "Modo Desligado">
-<!ENTITY Advanced.tab "Avançadas">
-<!ENTITY portNumber.label "Número da porta: ">
-<!ENTITY portNumber.accesskey "m">
-<!ENTITY searchFilter.label "Procurar Filtro: ">
-<!ENTITY searchFilter.accesskey "p">
-<!ENTITY scope.label "Scope: ">
-<!ENTITY scope.accesskey "c">
-<!ENTITY scopeOneLevel.label "Um nível">
-<!ENTITY scopeOneLevel.accesskey "V">
-<!ENTITY scopeSubtree.label "Subtree">
-<!ENTITY scopeSubtree.accesskey "S">
-<!ENTITY return.label "Não retornar mais do que">
-<!ENTITY return.accesskey "r">
-<!ENTITY results.label "resultados">
-<!ENTITY offlineText.label "Pode fazer a transferência de uma cópia desta directoria para que esteja disponível quando trabalhar no modo desligado.">
-<!ENTITY saslMechanism.label               "Método de início de sessão: ">
-<!ENTITY saslMechanism.accesskey           "M">
-<!ENTITY saslOff.label                     "Simples">
-<!ENTITY saslOff.accesskey                 "l">
-<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey              "K">
+<!ENTITY newDirectoryTitle.label 		"Propriedades do servidor de diretório">
+<!ENTITY directoryName.label 			  "Nome: ">
+<!ENTITY directoryName.accesskey 		"N">
+<!ENTITY directoryHostname.label 		"Nome do servidor: ">
+<!ENTITY directoryHostname.accesskey"o">
+<!ENTITY directoryBaseDN.label 			"Base DN: ">
+<!ENTITY directoryBaseDN.accesskey 	"B">
+<!ENTITY findButton.label 				  "Localizar">
+<!ENTITY findButton.accesskey 			"L">
+<!ENTITY directorySecure.label 			"Utilizar ligação segura (SSL)">
+<!ENTITY directorySecure.accesskey 	"U">
+<!ENTITY directoryLogin.label 			"Associar DN: ">
+<!ENTITY directoryLogin.accesskey 	"i">
+<!ENTITY General.tab 					      "Geral">
+<!ENTITY Offline.tab 				    	  "Desligado">
+<!ENTITY Advanced.tab 					    "Avançado">
+<!ENTITY portNumber.label 				  "Número da porta: ">
+<!ENTITY portNumber.accesskey 			"m">
+<!ENTITY searchFilter.label 			  "Filtro de procura: ">
+<!ENTITY searchFilter.accesskey 		"F>
+<!ENTITY scope.label 					      "Âmbito: ">
+<!ENTITY scope.accesskey 				    "b">
+<!ENTITY scopeOneLevel.label 			  "Um nível">
+<!ENTITY scopeOneLevel.accesskey 		"v">
+<!ENTITY scopeSubtree.label 			  "Subdiretório">
+<!ENTITY scopeSubtree.accesskey 		"S">
+<!ENTITY return.label 					    "Não devolver mais do que">
+<!ENTITY return.accesskey			 	    "r">
+<!ENTITY results.label 					    "resultados">
+<!ENTITY offlineText.label 				  "Pode transferir uma cópia deste diretório para que fique disponível se estver no modo desligado.">
+<!ENTITY saslMechanism.label        "Método de início de sessão: ">
+<!ENTITY saslMechanism.accesskey    "M">
+<!ENTITY saslOff.label              "Simples">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely

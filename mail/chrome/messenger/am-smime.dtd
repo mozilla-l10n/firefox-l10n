@@ -1,28 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Segurança">
 <!ENTITY securityTab.label "Segurança">
-<!ENTITY securityHeading.label "Para enviar ou receber mensagens cifradas, você deve especificar um certificado assinando digitalmente e um certificado de cifra.">
+<!ENTITY securityHeading.label "Para enviar ou receber mensagens cifradas, deve especificar um certificado digital e um certificado de cifra.">
 <!ENTITY encryptionGroupTitle.label "Cifra">
-<!ENTITY encryptionChoiceLabel.label "Configuração da cifra pré-definida quando enviar mensagens:">
+<!ENTITY encryptionChoiceLabel.label "Cifra pré-definida ao enviar mensagens:">
 <!ENTITY neverEncrypt.label "Nunca (não usar cifra)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Requerido (impossível enviar mensagens a menos que os receptores tenham um certificado)">
+<!ENTITY alwaysEncryptMessage.label "Necessário (incapaz de enviar mensagens a menos que os destinatários possuam um certificado)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Usar este Certificado para cifrar/decifrar mensagens enviadas para si:">
-<!ENTITY digitalSign.certificate.button "Seleccionar...">
+<!ENTITY encryptionCert.message "Utilizar este certificado para cifrar/decifrar mensagens enviadas para si:">
+<!ENTITY digitalSign.certificate.button "Selecionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
 <!ENTITY digitalSign.certificate_clear.accesskey "L">
-<!ENTITY encryption.certificate.button "Seleccionar…">
+<!ENTITY encryption.certificate.button "Selecionar…">
 <!ENTITY encryption.certificate.accesskey "c">
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "i">
-<!ENTITY signingGroupTitle.label "Assinar Digitalmente">
-<!ENTITY signMessage.label "Assinar mensagens Digitalmente (pré-definição)">
-<!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "Usar este certificado para assinar digitalmente as mensagens que envia:">
-
+<!ENTITY signingGroupTitle.label "Assinatura digital">
+<!ENTITY signMessage.label "Assinar mensagens digitalmente (pré-definição)">
+<!ENTITY signMessage.accesskey "A">
+<!ENTITY signingCert.message "Utilizar este certificado para assinar digitalmente as mensagens enviadas:">
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.label "Ver Certificados">
-<!ENTITY manageCerts.accesskey "E">
-<!ENTITY manageDevices.label "Dispositivos de Segurança ">
-<!ENTITY manageDevices.accesskey "ç">
+<!ENTITY manageCerts.label "Ver certificados">
+<!ENTITY manageCerts.accesskey "e">
+<!ENTITY manageDevices.label "Dispositivos de segurança ">
+<!ENTITY manageDevices.accesskey "D">

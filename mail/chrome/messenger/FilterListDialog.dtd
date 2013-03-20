@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Filtros de mensagens">
-<!ENTITY nameColumn.label "Nome do Filtro">
-<!ENTITY activeColumn.label "Activado">
+<!ENTITY nameColumn.label "Nome do filtro">
+<!ENTITY activeColumn.label "Ativo">
 <!ENTITY newButton.label "Novo...">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Editar...">
@@ -13,29 +13,28 @@
 <!ENTITY deleteButton.accesskey "l">
 <!ENTITY reorderTopButton "Mover para o topo">
 <!ENTITY reorderTopButton.accessKey "o">
-<!ENTITY reorderTopButton.toolTip "Rearranjar filtro para que execute antes de todos os outros">
-<!ENTITY reorderUpButton.label "Mover para Cima">
-<!ENTITY reorderUpButton.accesskey "C">
-<!ENTITY reorderDownButton.label "Mover para Baixo">
-<!ENTITY reorderDownButton.accesskey "B">
-<!ENTITY reorderBottomButton "Mover para o fundo">
-<!ENTITY reorderBottomButton.accessKey "B">
-<!ENTITY reorderBottomButton.toolTip "Rearranjar filtro para que execute depois de todos os outros">
-<!ENTITY filterHeader.label "Os filtros ligados estão a funcionar automaticamente na ordem mostrada em baixo.">
+<!ENTITY reorderTopButton.toolTip "Rearranjar filtro para que seja executado antes de todos os outros">
+<!ENTITY reorderUpButton.label "Mover para cima">
+<!ENTITY reorderUpButton.accesskey "c">
+<!ENTITY reorderDownButton.label "Mover para baixo">
+<!ENTITY reorderDownButton.accesskey "b">
+<!ENTITY reorderBottomButton "Mover para a base">
+<!ENTITY reorderBottomButton.accessKey "M">
+<!ENTITY reorderBottomButton.toolTip "Rearranjar filtro para que seja executado depois de todos os outros">
+<!ENTITY filterHeader.label "Os filtros ativos são executados pela ordem exibida abaixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
-<!ENTITY filtersForPrefix.accesskey "O">
-<!ENTITY viewLogButton.label "Registo do Filtro">
-<!ENTITY viewLogButton.accesskey "G">
-<!ENTITY runFilters.label "Ligar Agora">
-<!ENTITY runFilters.accesskey "R">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Registo do filtro">
+<!ENTITY viewLogButton.accesskey "g">
+<!ENTITY runFilters.label "Executar agora">
+<!ENTITY runFilters.accesskey "E">
 <!ENTITY stopFilters.label "Parar">
 <!ENTITY stopFilters.accesskey "P">
-<!ENTITY folderPickerPrefix.label "Ligar o(s) filtro(s) seleccionado(s) para:">
-<!ENTITY folderPickerPrefix.accesskey "f">
-<!ENTITY choosethis.label "Escolher esta pasta">
-<!ENTITY choosethisnewsserver.label "Escolher este servidor de notícias">
+<!ENTITY folderPickerPrefix.label "Executar o(s) filtro(s) selecionado(s) em:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "escolher esta pasta">
+<!ENTITY choosethisnewsserver.label "escolher este servidor de notícias">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "U">
 <!ENTITY closeCmd.key "W">
-<!ENTITY searchBox.emptyText "Pesquisar filtros pelo nome…">
-
+<!ENTITY searchBox.emptyText "Procurar filtros por nome…">
