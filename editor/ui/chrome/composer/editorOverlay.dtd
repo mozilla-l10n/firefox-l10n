@@ -47,24 +47,24 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Criar ligação...">
 <!ENTITY createLinkCmd.accesskey "ç">
-<!ENTITY editLinkCmd.label "Editar ligação emm novo ompositor">
+<!ENTITY editLinkCmd.label "Editar ligação em novo compositor">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Escolha um tipo de letra">
 <!ENTITY fontfaceMenu.label "Tipo de letra">
-<!ENTITY fontfaceMenu.accesskey "L">
+<!ENTITY fontfaceMenu.accesskey "l">
 <!ENTITY fontVarWidth.label "Largura variável">
-<!ENTITY fontVarWidth.accesskey "V">
+<!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Largura fixa">
-<!ENTITY fontFixedWidth.accesskey "F">
+<!ENTITY fontFixedWidth.accesskey "f">
 <!ENTITY fontFixedWidth.key "t">
 <!ENTITY fontHelvetica.label "Helvética, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontCourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Escolha o tamanho do tipo de letra">

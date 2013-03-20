@@ -26,7 +26,7 @@
 <!ENTITY fileRevert.accesskey "v">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Definiçõess do sítio de publicação...">
+<!ENTITY publishSettings.label "Definições do sítio de publicação...">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
