@@ -1,8 +1,9 @@
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.appBasicsAppBuildID 		    		"ID da aplicação">
+
 <!ENTITY aboutSupport.accountsTitle 					        "Contas de correio e notícias">
 <!ENTITY aboutSupport.showPrivateData.mainText 			  "Incluir nome de contas">
 <!ENTITY aboutSupport.showPrivateData.explanationText	"(pode incluir informações de identificação)">
@@ -14,4 +15,5 @@
 <!ENTITY aboutSupport.accountsConnSecurity 				    "Segurança da ligação">
 <!ENTITY aboutSupport.accountsAuthMethod 				      "Método de autenticação">
 <!ENTITY aboutSupport.accountsDefault 					      "Pré-definido?">
+
 <!ENTITY aboutSupport.sendViaEmail.label 				      "Enviar por correio eletrónico">
