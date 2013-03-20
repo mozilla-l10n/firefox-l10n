@@ -1,20 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
-
-<!ENTITY accountManagerTitle.label "Configuração de Conta">
-
-<!ENTITY accountActionsButton.label "Acções da conta">
+<!ENTITY accountManagerTitle.label "Definições da Conta">
+<!ENTITY accountActionsButton.label "Ações da conta">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Adicionar conta de correio…">
+<!ENTITY addMailAccountButton.label "Adicionar conta de correio">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Adicionar conta de chat…">
+<!ENTITY addIMAccountButton.label "Adicionar conta de conversação">
 <!ENTITY addIMAccountButton.accesskey "c">
-<!ENTITY addOtherAccountButton.label "Adicionar outra conta…">
+<!ENTITY addOtherAccountButton.label "Adicionar outra conta">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Pré-Definir">
-<!ENTITY setDefaultButton.accesskey "d">
-<!ENTITY removeButton.label "Eliminar conta">
-<!ENTITY removeButton.accesskey "E">
-
+<!ENTITY setDefaultButton.label "Utilizar como pré-definida">
+<!ENTITY setDefaultButton.accesskey "U">
+<!ENTITY removeButton.label "Remover conta">
+<!ENTITY removeButton.accesskey "R">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
