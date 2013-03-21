@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "V">
 <!ENTITY chooseFile.label "Bestand kiezen…">
 <!ENTITY chooseFile.accesskey "B">
+<!ENTITY newPrivate.label "Nieuw privévenster">
 <!ENTITY newWindow.label "Nieuw browservenster">
 <!ENTITY newTab.label "Nieuw browsertabblad">
 <!ENTITY currentTab.label "Huidige browsertabblad">
