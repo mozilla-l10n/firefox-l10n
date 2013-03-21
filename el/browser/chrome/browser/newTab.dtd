@@ -4,5 +4,9 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Νέα καρτέλα">
+<!ENTITY newtab.undo.removedLabel "Η μικρογραφία απομακρύνθηκε.">
+<!ENTITY newtab.undo.undoButton "Αναίρεση.">
+<!ENTITY newtab.undo.restoreButton "Επαναφορά όλων.">
+<!ENTITY newtab.undo.closeTooltip "Απόκρυψη">
 
 

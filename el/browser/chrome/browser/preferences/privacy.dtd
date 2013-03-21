@@ -7,6 +7,15 @@
 <!ENTITY doNotTrack.label               "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου">
 <!ENTITY doNotTrack.accesskey           "ω">
 
+<!ENTITY dntTrackingNopref.label        "Να μην γνωστοποιούνται στις σελίδες οι προτιμήσεις καταγραφής της συμπεριφοράς περιήγησης μου.">
+<!ENTITY dntTrackingNopref.accesskey    "ω">
+<!ENTITY dntTrackingNotOkay.label       "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου.">
+<!ENTITY dntTrackingNotOkay.accesskey   "ν">
+<!ENTITY dntTrackingOkay.label          "Γνωστοποίηση στις ιστοσελίδες ότι επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου.">
+<!ENTITY dntTrackingOkay.accesskey      "τ">
+<!ENTITY doNotTrackInfo.label           "Μάθετε περισσότερα">
+
+
 
 <!ENTITY  history.label "Ιστορικό">
 
