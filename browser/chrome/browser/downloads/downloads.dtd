@@ -35,11 +35,11 @@
      maximum length. For English, this seems like a reasonable limit:
 
      + 999 other downloads
-	 + 999 autras telechargiadas
+     + 999 autras telechargiadas
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth        "27ch">
+<!ENTITY downloadsSummary.minWidth2       "27ch">
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
