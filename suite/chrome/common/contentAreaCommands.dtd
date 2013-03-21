@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "">
 <!ENTITY popupWindowAllowCmd.label      "Pop-upvensters van deze website toestaan">
 <!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmdInTab.label       "Koppeling openen in nieuw tabblad ">
+<!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label              "Koppeling openen in nieuw venster">
 <!ENTITY openLinkCmd.accesskey          "v">
-<!ENTITY openLinkCmdInTab.label         "Koppeling openen in nieuw tabblad">
-<!ENTITY openLinkCmdInTab.accesskey     "t">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Koppeling openen in privévenster ">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label      "Openen">
 <!ENTITY openLinkInWindowCmd.accesskey  "O">
 <!ENTITY openFrameCmd.label             "Deelvenster openen in nieuw venster">
