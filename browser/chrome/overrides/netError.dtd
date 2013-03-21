@@ -13,11 +13,11 @@
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>revise la dirección por errores de escritura como
+  <li>Revise la dirección por errores de escritura como
     <strong>ww</strong>.ejemplo.cl en lugar de
     <strong>www</strong>.ejemplo.cl</li>
   <li>Si usted no puede cargar ninguna página, revise la conexión de red de su computador.</li>
-  <li>Si su computador o red están protegisdos por un muro de fuego o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li>
+  <li>Si su computador o red están protegidos por un muro de fuego o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
