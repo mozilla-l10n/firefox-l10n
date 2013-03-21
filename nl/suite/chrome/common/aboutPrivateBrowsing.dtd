@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Privénavigatie">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; is momenteel een experimentele eiegenschap.">
+<!ENTITY privatebrowsingpage.description  "In een &privatebrowsingpage.title;-venter, zal &brandShortName; geen schijfbuffer, cookies of browser-, zoek-, download- of webformulier-geschiedenis onthouden. Maar gedownloade bestanden en bladwijzers worden wel opgeslagen.">
+<!ENTITY privatebrowsingpage.moreinfo     "Hoewel deze computer geen navigatiegeschiedenis van u zal bewaren, kan uw internetserviceprovider of werkgever toch volgen welke pagina’s u bezoekt.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Meer info">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "i">
+<!ENTITY privatebrowsingpage.private      "&brandShortName; zal geen geschiedenis van dit venster bijhouden. Om &privatebrowsingpage.title; te stoppen sluit het venster.">
+<!ENTITY privatebrowsingpage.switch.label        "Schakel naar een normale venster">
+<!ENTITY privatebrowsingpage.switch.accesskey    "S">
+<!ENTITY privatebrowsingpage.normal       "U gebruikt &privatebrowsingpage.title; momenteel niet.">
+<!ENTITY privatebrowsingpage.private.label       "Een nieuw privévenster openen">
+<!ENTITY privatebrowsingpage.private.accesskey   "o">
+<!ENTITY privatebrowsingpage.info         "Om &privatebrowsingpage.title; te starten, kunt ook Bestand ― Nieuw ― privévenster selecteren.">
+
