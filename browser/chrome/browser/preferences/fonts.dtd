@@ -61,4 +61,4 @@
 <!ENTITY languages.customize.Fallback.grouplabel "Codificación de caracteres para contenido antiguo">
 <!ENTITY languages.customize.Fallback.label "Codificación de caracteres secundaria:">
 <!ENTITY languages.customize.Fallback.accesskey "C">
-<!ENTITY languages.customize.Fallback.desc "Esta codificación de caracteres es usada para contenido antiguo que no declara su codificación">
+<!ENTITY languages.customize.Fallback.desc "Esta codificación de caracteres es usada para contenido antiguo que no declara su codificación.">

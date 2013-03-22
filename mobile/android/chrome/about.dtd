@@ -10,7 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Buscar actualizaciones »">
 <!ENTITY aboutPage.checkForUpdates.checking "Buscando actualizaciones…">
 <!ENTITY aboutPage.checkForUpdates.none "No hay actualizaciones">
-<!ENTITY aboutPage.checkForUpdates.found "Actualización disponible">
+<!ENTITY aboutPage.checkForUpdates.available "Actualización disponible; pulse para descargar">
+<!ENTITY aboutPage.checkForUpdates.downloading "Descargando actualización…">
+<!ENTITY aboutPage.checkForUpdates.downloaded "Actualización descargada; pulse para instalar">
 <!ENTITY aboutPage.faq.label "PUF">
 <!ENTITY aboutPage.support.label "Asistencia">
 <!ENTITY aboutPage.privacyPolicy.label "Política de privacidad">
