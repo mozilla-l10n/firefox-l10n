@@ -1,62 +1,66 @@
-<!ENTITY itemJunk.label          "Lixo Eletrónico">
-<!ENTITY itemPhishing.label      "Mensagens de Engodo">
-<!ENTITY itemPasswords.label     "Senhas">
-<!ENTITY itemAntiVirus.label     "Anti-vírus">
-<!ENTITY itemCookies.label       "Conteúdo web">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label "Lixo eletrónico">
+<!ENTITY itemPhishing.label "Mensagens de engodo">
+<!ENTITY itemPasswords.label "Senhas">
+<!ENTITY itemAntiVirus.label "Anti-vírus">
+<!ENTITY itemCookies.label "Conteúdo web">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Configure as suas pré-definições para o lixo eletrónico. Configurações específicas de lixo eletrónico podem ser efectuadas nas configurações de conta.">
-<!ENTITY manualMark.label "Quando marcar uma mensagem como lixo:">
-<!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Movê-las para a pasta &quot;Lixo&quot; da conta">
+<!ENTITY junkMail.intro "Configure as pré-definições para o lixo eletrónico. As definições específicas de lixo eletrónico podem ser efetuadas nas definições da conta.">
+<!ENTITY manualMark.label "Ao marcar uma mensagem como lixo eletrónico:">
+<!ENTITY manualMark.accesskey "A">
+<!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Lixo eletrónico&quot; da conta">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Apagá-los">
+<!ENTITY manualMarkModeDelete.label "Eliminar">
 <!ENTITY manualMarkModeDelete.accesskey "l">
-<!ENTITY markAsReadOnSpam.label "Marcar as mensagens marcadas como lixo, como lidas">
+<!ENTITY markAsReadOnSpam.label "Marcar mensagens consideradas lixo eletrónico como lidas">
 <!ENTITY markAsReadOnSpam.accesskey "m">
-<!ENTITY enableAdaptiveJunkLogging.label "Ativar o registo inteligente do filtro do lixo">
+<!ENTITY enableAdaptiveJunkLogging.label "Ativar registo inteligente do filtro do lixo eletrónico">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "x">
-<!ENTITY openJunkLog.label "Mostrar Registo">
-<!ENTITY openJunkLog.accesskey "g">
+<!ENTITY openJunkLog.label "Mostrar registo">
+<!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Reiniciar dados de treino">
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "O &brandShortName; pode verificar se mensagens são possíveis engodos (também conhecidas como phishing scam), detectando as técnicas de falsificação mais comuns.">
-<!ENTITY enablePhishingDetector1.label "Alertar se a mensagem apresentada é um possível engodo">
+<!ENTITY phishingDetector1.intro "O &brandShortName; pode analisar se as mensagens são possíveis engodos (também conhecidas como phishing), detetando as técnicas de falsificação mais comuns.">
+<!ENTITY enablePhishingDetector1.label "Avisar se a mensagem que estou a ler  pode ser um engodo">
 <!ENTITY enablePhishingDetector1.accesskey "a">
-<!ENTITY useDownloadedList.label "Receber e utilizar uma lista de possíveis fraudes de correio">
+<!ENTITY useDownloadedList.label "Utilizar uma lista de possíveis fraudes de correio">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro "O &brandShortName; pode guardar os nomes de utilizador e senhas de todas as suas contas. Não é necessário re-escrever as suas informações.">
-<!ENTITY useMasterPassword.label "Usar uma Senha Mestra">
-<!ENTITY useMasterPassword.accesskey "u">
-<!ENTITY masterPassword.intro "Ao ser definida, a Senha Mestra protege todas as suas senhas - mas terá que que a fornecer uma vez por sessão.">
-<!ENTITY changeMasterPassword.label     "Mudar Senha Mestra…">
+<!ENTITY savedPasswords.intro "O &brandShortName; pode guardar as senhas de todas as suas contas.">
+<!ENTITY useMasterPassword.label "Utilizar uma senha-mestre">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY masterPassword.intro "A senha-mestre protege todas as suas senhas, mas terá que a indicar uma vez por sessão.">
+<!ENTITY changeMasterPassword.label "Mudar senha-mestre…">
 <!ENTITY changeMasterPassword.accesskey "M">
-<!ENTITY savedPasswords.label           "Senhas guardadas…">
-<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.label "Senhas guardadas…">
+<!ENTITY savedPasswords.accesskey "S">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro "O &brandShortName; pode facilitar a análise de novas mensagens por programas anti-vírus antes que sejam armazenadas localmente.">
-<!ENTITY antiVirus.label "Os Programas anti-vírus podem colocar uma mensagem recebida em quarentena">
-<!ENTITY antiVirus.accesskey "p">
+<!ENTITY antiVirus.intro "O &brandShortName; pode facilitar a análise de novas mensagens por programas anti-vírus antes que estas sejam guardadas localmente.">
+<!ENTITY antiVirus.label "Permitir que o anti-vírus coloque as mensagem recebidas em quarentena">
+<!ENTITY antiVirus.accesskey "P">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "O &brandShortName; deixa-o especificar que blogs, fontes de notícias, e outros sítios web são autorizados a usar cookies.">
-<!ENTITY acceptCookies.label            "Aceitar cookies de sítios">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "Manter até:">
-<!ENTITY keepUntil.accesskey            "M">
-<!ENTITY expire.label                   "que expirem">
-<!ENTITY close.label                    "eu fechar o &brandShortName;">
-<!ENTITY askEachTime.label              "perguntar-me sempre">
-<!ENTITY cookieExceptions.label         "Exceções…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "Mostrar cookies…">
-<!ENTITY showCookies.accesskey          "s">
+<!ENTITY cookies.intro "O &brandShortName; deixa-o especificar os blogues, fontes de notícias e outros sítios web que são autorizados a definir cookies.">
+<!ENTITY acceptCookies.label "Aceitar cookies de sítios">
+<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY keepUntil.label "Manter até:">
+<!ENTITY keepUntil.accesskey "M">
+<!ENTITY expire.label "que expirem">
+<!ENTITY close.label "fechar o &brandShortName;">
+<!ENTITY askEachTime.label "perguntar sempre">
+<!ENTITY cookieExceptions.label "Exceções…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostrar cookies…">
+<!ENTITY showCookies.accesskey "s">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Dizer aos sítios web que não quero ser seguido">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label "Informar os sítios web que não quero ser monitorizado">
+<!ENTITY doNotTrack.accesskey "d">
