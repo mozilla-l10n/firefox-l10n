@@ -2,34 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Tipos de Letra e Codificações">
+<!ENTITY  fontsAndEncodingsDialog.title           "Tipos de letra e codificação">
 <!ENTITY  window.width                            "55em">
 <!ENTITY  window.macWidth                         "46em">
 <!ENTITY  window.unixWidth                        "46em">
-
 <!ENTITY  language.label                          "Tipo de letra para:">
 <!ENTITY  language.accesskey                      "T">
-
 <!ENTITY  size.label                              "Tamanho">
 <!ENTITY  proportionalSize.accesskey              "h">
 <!ENTITY  sizeMono.accesskey                      "n">
-
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
-
-<!ENTITY  serif.label                             "Serifada:">
+<!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Não serifada:">
-<!ENTITY  sans-serif.accesskey                    "r">
+<!ENTITY  sans-serif.label                        "Sem serifa:">
+<!ENTITY  sans-serif.accesskey                    "m">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "M">
-
 <!ENTITY  font.langGroup.latin1                   "Ocidental">
-<!ENTITY  font.langGroup.latin2                   "Centro-Europeu">
+<!ENTITY  font.langGroup.latin2                   "Centro Europeu">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
-<!ENTITY  font.langGroup.trad-chinese             "Chinês Tradicional (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Chinês Simplificado">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Chinês Tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese             "Mandarim tradicional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Mandarim simplificado">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Mandarim tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
 <!ENTITY  font.langGroup.baltic                   "Báltico">
@@ -58,23 +53,22 @@
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serifada">
-<!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
+<!ENTITY  useDefaultFontSerif.label               "Serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Não serifa">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Controlo da letra">
-<!ENTITY  useFixedWidthForPlainText.label         "Usar letra com largura fixa para mensagens em texto simples">
+<!ENTITY  fontControl.label                       "Controlo de letras">
+<!ENTITY  useFixedWidthForPlainText.label         "Utilizar largura fixa para mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                   "Permitir que as Mensagens usem outros tipos de letra">
-<!ENTITY  useDocumentFonts.accesskey               "g">
+<!ENTITY  useDocumentFonts.label                  "Permitir que as mensagens usem outros tipos de letra">
+<!ENTITY  useDocumentFonts.accesskey              "g">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey     "v">
-<!ENTITY languagesTitle1.label            "Codificações pré-definidas">
-<!ENTITY composingDescription.label       "Definir as codificações pré-definidas para receber e enviar mensagens.">
-
-<!ENTITY viewDefaultCharsetList.label     "Para mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY replyInDefaultCharset2.label     "Usar a codificação pré-definida em respostas">
-<!ENTITY replyInDefaultCharset2.accesskey "U">
+<!ENTITY sendDefaultCharset.label         		 "Mensagens enviadas:">
+<!ENTITY sendDefaultCharset.accesskey            "v">
+<!ENTITY languagesTitle1.label            		 "Codificaçãos pré-definida">
+<!ENTITY composingDescription.label       		 "Defina a codificação pré-definida para receção e envio de mensagens.">
+<!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
+<!ENTITY viewDefaultCharsetList.accesskey  		 "a">
+<!ENTITY replyInDefaultCharset2.label     		 "Se possível, utilizar a codificação pré-definida nas respostas">
+<!ENTITY replyInDefaultCharset2.accesskey 		 "u">
