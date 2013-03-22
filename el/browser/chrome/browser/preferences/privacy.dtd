@@ -4,8 +4,6 @@
 
 <!ENTITY tracking.label                 "Καταγραφή συμπεριφοράς περιήγησης">
 
-<!ENTITY doNotTrack.label               "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου">
-<!ENTITY doNotTrack.accesskey           "ω">
 
 <!ENTITY dntTrackingNopref.label        "Να μην γνωστοποιούνται στις σελίδες οι προτιμήσεις καταγραφής της συμπεριφοράς περιήγησης μου.">
 <!ENTITY dntTrackingNopref.accesskey    "ω">

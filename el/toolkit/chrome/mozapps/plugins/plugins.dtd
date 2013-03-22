@@ -24,7 +24,6 @@
 
 <!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για να ενεργοποιήσετε την πρόσθετη λειτουργία.">
 
-<!ENTITY clickToPlayPlugin                                   "Πατήστε εδώ για να ενεργοποιήσετε την πρόσθετη λειτουργία">
 
 <!ENTITY blockedPlugin.label                                 "Για την προστασία σας αυτή η πρόσθετη λειτουργία έχει φραγεί.">
 
@@ -50,6 +49,9 @@
 
 <!ENTITY clickToPlayPlugin                                   "Πατήστε για την ενεργοποίηση της πρόσθετης λειτουργίας.">
 
+<!ENTITY clickToActivatePlugin                               "Ενεργοποίηση πρόσθετης λειτουργίας.">
+<!ENTITY report.comment                                      "Προσθέστε ένα σχόλιο (τα σχόλια είναι ορατά σε όλους)">
+<!ENTITY report.pageURL                                      "Να συμπεριλαμβάνεται το URL της σελίδας">
 
 <!ENTITY checkForUpdates                                     "Έλεγχος για ενημερώσεις…">
 
