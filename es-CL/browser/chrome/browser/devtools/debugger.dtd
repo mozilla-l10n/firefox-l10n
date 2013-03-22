@@ -1,13 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE This file contains the Debugger strings -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
-<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
-  - keep it in English, or another language commonly spoken among web developers.
-  - You want to make that choice consistent across the developer tools.
-  - A good criteria is the language in which you'd find the best
-  - documentation on web development on the web. -->
 
 <!ENTITY debuggerMenu.label2 "Depurador">
 <!ENTITY debuggerMenu.accesskey "D">
@@ -38,6 +31,8 @@
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Filtrar variables">
 <!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.focusVariables      "Centrar árbol de variables">
+<!ENTITY debuggerUI.focusVariables.key  "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Este punto de quiebre detendrá la ejecución solo si la siguiente expresión es verdadera">
 <!ENTITY debuggerUI.seMenuBreak "Agregar punto de quiebre">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
