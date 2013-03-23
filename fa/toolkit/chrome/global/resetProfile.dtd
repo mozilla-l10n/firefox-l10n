@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "&brandShortName; را به حالت اولیه بازگردان">
 <!ENTITY resetProfile.description         "اگر مشکلات بزرگی را تجربه میکنید که قابل رفع نیستند، سعی کنید فقط اطلاعات مهم خود را وارد نمایید.">
-<!ENTITY resetProfile.button.label        "راه‌اندازی مجدد &brandShortName;">
+<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "لطفا کمی صبر کنید تا &brandShortName; داده‌های قدیمی شمارا پاک کند...">

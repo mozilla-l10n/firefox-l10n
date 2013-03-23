@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "برای نمایش این محتوا، افزونه مورد نیاز است.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "برای فعال‌سازی افزونه، فشار دهید.">
-<!ENTITY clickToPlayPlugin                                   "برای فعال‌سازی افزونه، کلیک کنید.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "گشتن به دنبال به‌روزرسانی‌ها">
 <!ENTITY disabledPlugin                                      "این افزونه غیرفعال است.">
 <!ENTITY blockedPlugin.label                                 "این متصل‌شونده به منظور محافظت از شما باز داشته شده است.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "ارسال گزارش غیرفعال است.">
 <!ENTITY report.failed                                       "ارسال به مشکل برخورد.">
 <!ENTITY report.unavailable                                  "گزارشی وجود ندارد.">
+<!ENTITY report.comment                                      "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

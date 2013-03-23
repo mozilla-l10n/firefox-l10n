@@ -33,10 +33,14 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "پروندۀ منقضی">
-<!ENTITY notCached.longDesc '<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ "تلاش دوباره" کلیک کنید.<li></ul/>'>
+<!ENTITY notCached.longDesc "<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ &quot;تلاش دوباره&quot; کلیک کنید.<li></ul/>">
 
 <!ENTITY netOffline.title "حالت منفصل">
-<!ENTITY netOffline.longDesc2 '<ul><li>دکمۀ &quot; "تلاش دوباره" را فشار دهید &quot; تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>'>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> 

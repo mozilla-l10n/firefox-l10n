@@ -5,26 +5,13 @@
 <!ENTITY privatebrowsingpage.title                 "مرور خصوصی">
 <!ENTITY privatebrowsingpage.title.normal          "آیا مایل به شروع مرور خصوصی هستید؟">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; از این نشست هیچ تاریخچه‌ای نگه نمی‌دارد.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; هم‌اکنون در حالت مرور خصوصی نیست.">
-
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; won't remember any history for this window.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "You are not currently in a private window.">
 
-<!ENTITY privatebrowsingpage.description               "در یک نشست مرور خصوصی، &brandShortName; هیج تاریخچه‌ای از مرور، جست‌وجوها، بارگیری‌ها، فرم‌های وبی، کوکی‌ها یا پرونده‌های موقتی اینترنتی نگه نخواهد داشت.  با این حال، پرونده‌هایی که بارگیری کنید یا نشانک‌هایی که ایجاد کنید نگه داشته خواهند شد.">
-
 <!ENTITY privatebrowsingpage.perwindow.description     "In a Private Browsing window, &brandShortName; won't keep any browser history, search history, download history, web form history, cookies, or temporary internet files.  However, files you download and bookmarks you make will be kept.">
-
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "شروع مرور خصوصی">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "م">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Open a Private Window">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStop2                "برای خروج از حالت مرور خصوصی، از منوی &basePBMenu.label;، گزینهٔ &privateBrowsingCmd.stop.label; را انتخاب کنید، یا &brandShortName; را ببندید.">
-<!ENTITY privatebrowsingpage.howToStart2               "برای شروع مرور خصوصی، از منوی &basePBMenu.label;، گزینهٔ &privateBrowsingCmd.start.label; را انتخاب کنید.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 <!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">
