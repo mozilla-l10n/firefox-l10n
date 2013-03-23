@@ -610,8 +610,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "సరే">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "పక్కపట్టీని చూపించు (S)">
+<!ENTITY social.toggleSidebar.accesskey "S">
 
 <!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">

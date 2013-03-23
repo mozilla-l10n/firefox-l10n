@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "క్రింది ఇవ్వబడిన షరతులు లోబడి &brandFullName; యొక్క బైనరీ  విడుదలతో  వుపయోగించుట కొరకు సౌలభ్యములను అందించుటకు &brandFullName; వెబ్-ఆధారిత సమాచార సేవలను (&quot;సేవలు&quot;) వుపయోగించును. మీరు యీ సేవలలో వొకటి లేదా అంతకన్నా యెక్కువ వాటిని వాడుటకు యిష్టపడకపోయినా లేక కింది షరతులు అమోదయోగ్యం కాకున్నా, మీరు సౌలభ్యమును లేక సేవ(ల)ను అచేతనము చేయవచ్చును. ఫలానా సౌలభ్యము లేదా సేవ యెలా అచేతనము చేయవలెను అనునది యిక్కడ కనుగొనవచ్చు ">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "యిక్కడ">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "రక్షిత బ్రౌజింగ్ సౌలభ్యమును అచేతనము చేయుట సిఫార్సు చేయుటలేదు యెంచేతంటే అది మీరు సురక్షితంకాని సైటులకు వెళ్ళుటకు కారణం కావచ్చును. మీరు యీ సౌలభ్యమును పూర్తిగా అచేతనము చేయవలెనంటే, యీ కింది అంచెలను అనుసరించుము:">
 <!ENTITY rights.safebrowsing-term1 "అనువర్తనము అభీష్టాలను తెరువుము">
 <!ENTITY rights.safebrowsing-term2 "రక్షమ యెంపికను యెంపికచేయుము">
-<!ENTITY rights.safebrowsing-term3 "ఐచ్ఛికములను &quot;&blockAttackSites.label;&quot; కు మరియు &quot;&blockWebForgeries.label;&quot; కు అన్‌చెక్ చేయుము">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది">
 <!-- location aware browsing points for branded builds -->
 
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; మరియు దాని సహాయకులు, లైసెన్సర్స్ మరియు భాగస్వామ్యులు అత్యంత ఖచ్చితమైన మరియు నవీకృత సేవలను అందించుటకు పనిచేస్తున్నారు. ఏమైనప్పటికి, యీ సమాచారమును దోష-రహితమని మేము హామీ యీయలేము. ఉదాహరణకు, రక్షిత బ్రౌజింగ్ సేవ కొన్ని సమస్యాత్మక సైట్లను గుర్తించ లేక పోవచ్చును మరియు కొన్ని సురక్షిత సైట్లను దోష పూరితంగా గుర్తించవచ్చును లొకేషన్ యెవేర్ సర్వీస్ ద్వారా అందించబడిన అన్ని స్థానములు అంచనాలు మాత్రమే మేము కాని మా సేవా వుత్పాదకులుగాని స్థానముల ఖచ్చితత్వముపై హామీ యిచ్చుట లేదు.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; ఇచ్ఛాపూర్వకంగా  ఈ సేవలను నిలిపి  వేయవచ్చు లేక మార్పు చేయవచ్చు.">
 <!ENTITY rights2.webservices-term3 "మీరు యీ సేవలను &brandShortName; యొక్క వర్షన్‌తో వుపయోగించవచ్చును, మరియు &vendorShortName; అలా చేయుటకు మీకు హక్కులను యిచ్చును. &vendorShortName; మరియు దాని లైసెన్సర్స్ అన్ని యితర హక్కులను సేవలనందు కలిగివుందురు. ఈ షరతులు &brandShortName;కు మరియు సంభందిత &brandShortName; సోర్స్ కోడ్ వర్షన్‌లకు వర్తించు వోపెన్ సోర్స్ లైసెన్సెస్ కిందని యే హక్కులను పరిమితం చేయుటకు వద్దేశించినవి కావు.">
-<!ENTITY rights.webservices-term4 " ఈ  సేవలను   &quot;యధాస్థితిగా &quot; అందచేయబడుతున్నవి.     &vendorShortName;, దాని  సహాయకులు, లైసెన్సు దారులు, పంపిణీ దారులు   , ఇవి వ్యాపారానికి  సరి అయినవని , మీ అవసరాలకు సరిపోతాయని , వీటి నాణ్యత గురించి  వివరించబడిన, లేక అనుకొనబడిన హామీలకు  ఏ హద్దు లేకుండా భాద్యత వహించరు.  సేవలను ఎంచుకోవటంవలన , వాటి నాణ్యతవలన కలిగే లాభనష్టాలకి మొత్తము బాధ్యత   మీదే . కొన్ని ప్రాంతాలలో  అనుకోబడిన హామీలను  తీసివేయటానికి, లేక భాద్యత గ్గించటానికి  అనుమతి లేకపోతే, ఈ  షరతు మీకు వర్తించదు.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term5 "చట్ట పరిధికి  అవసరమైనవి మినహాయించి &vendorShortName;, దాని  సహాయకులు, లైసెన్సు దారులు మరియు  పంపిణీ దారులు,  ఈ సేవలను  వాడుటం వలన  కలిగిన    అన్ని  రకాల  నష్టాలకు  భాద్యత  వహించరు. సమీష్ఠి భాద్యత   $500 (ఐదు వందల డాలర్లు) లోబడి వుంటుంది. కొన్ని ప్రాంతాలలో   సష్టాల భాద్యతను  తీసివేయటానికి, లేక భాద్యత గ్గించటానికి  అనుమతి లేకపోతే, ఈ షరతు  మీకు వర్తించదు.">
 <!ENTITY rights.webservices-term6 " ఈషరతులను  కాలానుగుణంగా  , అవసరానికి తగినంతగా  &vendorShortName; మార్చువచ్చు. &vendorShortName; వారితో   వ్రాతపూర్వకమైన ఒప్పందం లేకుండా   వీటిలో మార్పు కాని, వీటిని రద్దు చేయడం కాని జరగదు.">
 <!ENTITY rights.webservices-term7 " అమెరికా  సంయుక్త రాష్ట్రాలలోని, కాలిఫోర్నియా రాష్ట్ర  చట్టాల ప్రకారం   (చట్టాల భేదాల విధానాలు మినహాయించి)  ఈ షరతులు   అమలుజరుపబడతాయి. 
