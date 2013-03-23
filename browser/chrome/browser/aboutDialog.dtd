@@ -6,10 +6,10 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; হচ্ছে পরীক্ষামূলক এবং সম্ভবত পরিবর্তনশীল।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; উন্নত করার জন্য এটা স্বয়ংক্রিয়ভাবে &vendorShortName; এ পারদর্শিতা, হার্ডওয়্যার, ব্যবহার এবং স্বনির্ধারণ সম্পর্কে তথ্য প্রেরণ করে।">
+<!ENTITY warningDesc.telemetryDesc  "It automatically sends information about performance, hardware, usage and customizations back to &vendorShortName; to help make &brandShortName; better.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "দেখান">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "হচ্ছে">
@@ -27,7 +27,7 @@
 
 <!ENTITY contribute.start           "আকর্ষণীয় মনে হচ্ছে? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink " তাহলে এখনই যোগ দিন!">
+<!ENTITY contribute.getInvolvedLink "এখনই যোগ দিন!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

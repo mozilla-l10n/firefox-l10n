@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "অ্যাপ্লিকেশনের বিবরণ">
-<!ENTITY appManager.style     "চওড়া: 30em; সর্বনিম্ন-উচ্চতা: 20em;">
+<!ENTITY appManager.style     "প্রস্থ: 30em; সর্বনিম্ন-উচ্চতা: 20em;">
 <!ENTITY remove.label         "অপসারণ করুন R">
 <!ENTITY remove.accesskey     "R">

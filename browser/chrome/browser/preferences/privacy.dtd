@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "অনুসরণ">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.label        "আমার ট্র্যাকিং বৈশিষ্ট্যাবলী সম্পর্কে সাইটকে কিছু বলা হবে না o।">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.label       "ওয়েব সাইটগুলোকে বলা হোক, আমাকে যেনো অনুসরণ করা না হয় n।">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingOkay.label          "ওয়েব সাইটগুলোকে বলা হোক, আমাকে যেনো অনুসরণ করা হয় T।">
+<!ENTITY dntTrackingOkay.accesskey      "T">
 <!ENTITY doNotTrackInfo.label           "আরও জানুন">
 
 <!ENTITY  history.label                 "ইতিহাস">
@@ -48,7 +48,7 @@
 <!ENTITY  historyHeader.remember.label     "ইতিহাস মনে রাখবে">
 <!ENTITY  historyHeader.dontremember.label "কখনোই ইতিহাস মনে রাখবে না">
 <!ENTITY  historyHeader.custom.label       "ইতিহাসের জন্য স্বনির্বাচিত সেটিং ব্যবহার করবে">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "ইতিহাস">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধানের ইতিহাস মনে রাখবে এবং পরিদর্শিত ওয়েবসাইটের কুকি সংরক্ষণ করবে।">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->

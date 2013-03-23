@@ -22,7 +22,7 @@
 <!ENTITY helpSafeMode.label       "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু… (R)">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.label       "&brandShortName; ক্র্যাশ প্রতিবেদক">
 <!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "সমাধান করার তথ্য (T)">

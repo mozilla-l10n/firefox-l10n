@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "সব">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "সময়">
 <!ENTITY clearTimeDuration.dateColumn     "পরিদর্শনের তারিখ">
 <!ENTITY clearTimeDuration.nameColumn     "নাম">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys

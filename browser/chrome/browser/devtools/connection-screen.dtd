@@ -8,15 +8,15 @@
 
 
 <!ENTITY title      "সংযুক্ত করুন">
-<!ENTITY header     "Connect to remote device">
+<!ENTITY header     "দূরবর্তী ডিভাইসের সাথে সংযুক্ত করুন">
 <!ENTITY host       "হোস্ট:">
 <!ENTITY port       "পোর্ট (P):">
-<!ENTITY connect    "Connect">
+<!ENTITY connect    "সংযুক্ত করুন">
 <!ENTITY connecting "সংযুক্ত করা হচ্ছে …">
-<!ENTITY availableTabs "Available remote tabs:">
-<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY availableTabs "সম্ভাব্য রিমোট ট্যাবসমূহ:">
+<!ENTITY availableProcesses "বিদ্যমান দূরবর্তী প্রক্রিয়া:">
 <!ENTITY connectionError "ত্রুটি:">
-<!ENTITY errorTimeout "Error: connection timeout.">
-<!ENTITY errorRefused "Error: connection refused.">
-<!ENTITY errorUnexpected "Unexpected error.">
-<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">
+<!ENTITY errorTimeout "ত্রুটি: সংযোগের সময় শেষ।">
+<!ENTITY errorRefused "ত্রুটি: সংযোগ বাতিল করা হয়েছে।">
+<!ENTITY errorUnexpected "অপ্রত্যাশিত ত্রুটি &#037;S।">
+<!ENTITY help "ফায়ারফক্স ডেভলপার টুলস রিমোট ডিভাইস ডিবাগ করতে পারে (যেমন, ফায়ারফক্স ওএস এবং অ্যান্ড্রয়েডের জন্যে ফায়ারফক্স)। দূরবর্তী ডিভাইসটিতে 'Remote debugging' অপশন সচল রয়েছে কিনা, নিশ্চিত করুন। বিস্তারিত জানতে <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>সহায়িকা</a> দেখুন।">

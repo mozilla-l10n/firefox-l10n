@@ -10,7 +10,7 @@
 
 <!ENTITY window.title "ওয়েব কনসোল">
 
-<!ENTITY networkPanel.requestURLColon             "অনুরোধের URL:">
+<!ENTITY networkPanel.requestURLColon             "অনুরোধকৃত URL:">
 <!ENTITY networkPanel.requestMethodColon          "অনুরোধের পদ্ধতি:">
 <!ENTITY networkPanel.statusCodeColon             "স্ট্যাটাস কোড:">
 
@@ -70,10 +70,10 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "বড়-ছোট">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "পূর্বাবস্থা">
 
 <!ENTITY copyURLCmd.label     "লিংকের ঠিকানা অনুলিপি (a)">
 <!ENTITY copyURLCmd.accesskey "a">
