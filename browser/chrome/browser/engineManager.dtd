@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "İsim">
 <!ENTITY  columnLabel.keyword       "Anahtar kelime">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Yukarıya taşı">
 <!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Aşağıya taşı">
@@ -27,4 +27,3 @@
 
 <!ENTITY  restoreDefaults.label     "Varsayılanları geri getir">
 <!ENTITY  restoreDefaults.accesskey "e">
-

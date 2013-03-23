@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "İzleme">
 
-<!ENTITY doNotTrack.label               "Sitelere izlenmek istemediğimi söyle">
-<!ENTITY doNotTrack.accesskey           "z">
+<!ENTITY dntTrackingNopref.label        "Sitelere izlenme tercihlerim hakkında hiçbir şey söyleme.">
+<!ENTITY dntTrackingNopref.accesskey    "ö">
+<!ENTITY dntTrackingNotOkay.label       "Sitelere izlenmek istemediğimi söyle.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Sitelere izlenmek istediğimi söyle.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Daha fazla bilgi">
 
 <!ENTITY  history.label                 "Geçmiş">
 
@@ -46,10 +51,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; tarama, indirme, form ve arama geçmişlerinizi hatırlayacak; ziyaret ettiğiniz web sitelerinin çerezlerini saklayacak.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "İsterseniz ">
 <!ENTITY  rememberActions.clearHistory.label  "yakın geçmişinizi silebilir">
 <!ENTITY  rememberActions.middle.label        " veya ">
@@ -57,9 +62,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; gizli taramadaki ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "Ayrıca ">
 <!ENTITY  dontrememberActions.clearHistory.label "tüm mevcut geçmişinizi de silebilirsiniz">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -78,4 +83,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ayarlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
-

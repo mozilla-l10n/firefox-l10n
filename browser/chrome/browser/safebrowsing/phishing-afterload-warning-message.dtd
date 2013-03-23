@@ -28,4 +28,3 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> konumundaki sayfanın sahtekârlık amaçlı olduğu bildirilmiştir. Sayfa, güvenlik tercihlerinize dayanılarak engellendi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bu tür sahtekârlık girişimleriyle güvenebileceğiniz kuruluşlar taklit edilerek sizden kişisel veya mali bilgileriniz sızdırılmaya çalışılır.</p><p>Bu sayfada gerçekleşecek herhangi bir bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla son bulabilir.</p>">
-
