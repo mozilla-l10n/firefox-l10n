@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Berätta vad du tycker om &brandShortName; för Android hittills.">
 <!ENTITY intro.happyLink           "Jag gillar den">
 <!ENTITY intro.sadLink             "Jag stötte på vissa problem">
-<!ENTITY intro.ideaLink            "Jag har en idé">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Vi lyssnar gärna på dina idéer! Dela med dig av dina tankar här nedan. (Men bara dom som handlar om &brandShortName; tack.)">
-<!ENTITY idea.placeholder          "Skriv in dina idéer här">
-<!ENTITY idea.thanksHeader         "Tack!">
-
-<!ENTITY idea.thanksMessageTop     "Vi uppskattar att du tar dig tid att dela med dig av dina synpunkter. Vi arbetar ständigt för att förbättra &brandShortName; och bidrag som ditt kan vara till stor hjälp.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Det syns kanske inte, men här får du en high five.">
 
 <!ENTITY feedback.privacy          "Av integritetsskäl bör du inte inkludera några uppgifter som identifierar dig personligen i dina synpunkter.">
 <!ENTITY feedback.send             "Skicka synpunkter">
