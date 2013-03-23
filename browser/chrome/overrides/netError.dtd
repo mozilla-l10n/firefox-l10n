@@ -40,7 +40,7 @@
 
 <!ENTITY netOffline.title "وضع اللا اتصال">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>اضغط على &quot;جرّب مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> 
+<li>اضغط على ”جرّب مجددًا“ للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">

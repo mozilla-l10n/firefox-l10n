@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "التعقب">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNopref.label        "لا تخبر المواقع بأي شيء عن خياراتي الخاصة بالتعقُّب.">
+<!ENTITY dntTrackingNopref.accesskey    "ت">
+<!ENTITY dntTrackingNotOkay.label       "أخبر المواقع أنني لا أريدها أن تتعقبني.">
+<!ENTITY dntTrackingNotOkay.accesskey   "ه">
+<!ENTITY dntTrackingOkay.label          "أخبر المواقع أنني لا أريدها أن تتعقبني.">
+<!ENTITY dntTrackingOkay.accesskey      "خ">
 <!ENTITY doNotTrackInfo.label           "اطّلع على المزيد">
 
 <!ENTITY  history.label                 "التأريخ">

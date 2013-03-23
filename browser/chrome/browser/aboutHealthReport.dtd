@@ -12,7 +12,7 @@
 <!ENTITY abouthealth.intro.title "ما هو تقرير حالة &brandShortName;؟">
 
 <!ENTITY abouthealth.intro-enabled "يجمع &brandFullName; بعض البيانات عن حاسوبك واستخداماتك للمساعد في تحسين استخدامك للمتصفح.">
-<!ENTITY abouthealth.intro-disabled "لست ترسل حاليًا بيانات الاستخدام إلى &vendorShortName;. يمكنك مساعدتنا في جعل &brandShortName; أفضل بالنقر على زر &quot;&abouthealth.optin;&quot;.">
+<!ENTITY abouthealth.intro-disabled "لا ترسل حاليًا بيانات الاستخدام إلى &vendorShortName;. يمكنك مساعدتنا في جعل &brandShortName; أفضل بالنقر على زر &quot;&abouthealth.optin;&quot;.">
 
 <!ENTITY abouthealth.optin "ساعد على جعل &brandShortName; أفضل">
 <!ENTITY abouthealth.optout "عطّل إرسال التقرير">
