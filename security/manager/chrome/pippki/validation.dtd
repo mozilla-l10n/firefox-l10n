@@ -16,7 +16,7 @@
 <!ENTITY  validation.advanced.label               "Tetapan">
 <!ENTITY  validation.advanced.accesskey           "T">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
+<!ENTITY  validation.crl.autoupdate.title         "Keutamaan Kemas Kini CRL Automatik">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Bolehkan Kemas kini Automatik bagi CRL ini">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Kemaskini">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Hari sebelum tarikh Pengemaskinian Berikutnya">
