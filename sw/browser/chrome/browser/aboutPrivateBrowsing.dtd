@@ -5,24 +5,17 @@
 <!ENTITY privatebrowsingpage.title                 "Kuvinjari kwa Kibinafsi">
 <!ENTITY privatebrowsingpage.title.normal          "Ungependa kuanza Kuvinjari Kibinafsi?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; haitakumbuka historia yoyote ya kikao hiki.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; kwa sasa iko kwenye hali tumizi ya Kuvinjari Kibinafsi.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "Jina Fupi la chapa; haitakumbuka historia yoyote ya dirisha hii.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Kwasasa hauko kwenye dirisha ya kibinafsi.">
 
-<!ENTITY privatebrowsingpage.description               "Katika kikao cha Kuvinjari Kibinafsi, &brandShortName; haitaweka historia yoyote ya kivinjari, historia ya tafutizo, historia ya vipakuzi, historia ya umbo la tovuti, vidakuzi au faili za muda za mtandao.  Hata hivyo, faili unazopakua na vialamisho unavyounda vitawekwa.">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.perwindow.description     "Katika dirisha ya Kuvinjari ya Kibinafsi, Jina Fupi la chapa; haitaweka historia yoyote ya kivinjari, historia ya kutafuta, historia ya vipakuzi, historia ya umbo la tovuti, vidakuzi au faili za muda za mtandao.  Hata hivyo, faili unazopakua na vialamisho unavyounda vitawekwa.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Ungependa kuanzisha pia kwa ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "kuondoa historia yako ya hivi sasa">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Fungua Window ya Kibinaafsi">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "K">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Anza Kuvinjari Kibinafsi">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "K">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStop2                "Kuacha Kuvinjari Kibinafsi, chagua &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, au funga &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Kuanza Kuvinjari Kibinafsi, unaweza pia kuchagua &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStart3               "Ili kuanza Kuvinjari kwa Kibinafsi, unaweza pia kuteua &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Ili kukomesha Kuvinjari kwa Kibinafsi, unaweza kufunga dirisha hii.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Wakati tarakilishi hii haitakuwa na historia ya kuvinjari kwako, mtoaji huduma yako ya mtandao au mwajiri wako anaweza bado fuatilia kurasa unazotembelea.">
 <!ENTITY privatebrowsingpage.learnMore                 "Jifunze Zaidi">

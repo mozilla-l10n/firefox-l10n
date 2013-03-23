@@ -4,3 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Kichupo Kipya">
+<!ENTITY newtab.undo.removedLabel "Kijipicha Kimeondolewa.">
+<!ENTITY newtab.undo.undoButton "Tendua.">
+<!ENTITY newtab.undo.restoreButton "Rejesha Zote.">
+<!ENTITY newtab.undo.closeTooltip "Ficha">

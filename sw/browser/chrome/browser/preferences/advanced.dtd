@@ -30,13 +30,29 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Kila mara angalia kuona kama &brandShortName; ndiyo kivinjari chaguo msingi wakati wa kuanza">
 <!ENTITY alwaysCheckDefault.accesskey    "l">
-<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
-<!ENTITY submitCrashes.label             "Fikisha ripoti za kukwama">
-<!ENTITY submitCrashes.accesskey         "F">
-<!ENTITY submitTelemetry.label           "Wasilisha data ya utendakazi">
-<!ENTITY submitTelemetry.accesskey       "u">
+<!ENTITY setDefault.label                "Fanya Jina Fupi la chapa; kivinjari msingi">
+<!ENTITY setDefault.accesskey            "J">
+<!ENTITY isDefault.label                 "Jina Fupi la chapa; kwa sasa ni kivinjari chako msingi">
+
+<!ENTITY dataChoicesTab.label            "Chaguo za Data">
+
+<!ENTITY healthReportSection.label       "Jina Fupi la chapa; Ripoti ya Hali">
+<!ENTITY healthReportDesc.label          "Hukusaidia kuelewa utendaji wa kivinjari chako na hushirikisha data na Jina Fupi ya mchuuzi; kuhusu hali ya kivinjari chako.">
+<!ENTITY enableHealthReport.label        "Wezesha Jina Fupi la chapa; Ripoti ya Hali">
+<!ENTITY enableHealthReport.accesskey    "J">
+<!ENTITY healthReportLearnMore.label     "Jifunze Zaidi">
+
+<!ENTITY telemetrySection.label          "Telemeta">
+<!ENTITY telemetryDesc.label             "Hushiriki utendaji, utumizi, maunzi na ugeuzaji wa data kuhusu kivinjari chako na Jina Fupi la mchuuuzi; ili kutusaidia kufanya Jina Fupi la chapa; bora.">
+<!ENTITY enableTelemetry.label           "Wezesha Telemeta">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Jifunze Zaidi">
+
+<!ENTITY crashReporterSection.label      "Ripoti za Mvurugo">
+<!ENTITY crashReporterDesc.label         "Jina Fupi ya chapa; huwakilisha ripoti za kishindo ili kusaidia Jina Fupi la mchuuzi; kufanya kivinjari chako thabiti na salama zaidi.">
+<!ENTITY enableCrashReporter.label       "Wezesha Kiripoti cha Kishindo">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Jifunze Zaidi">
 
 <!ENTITY networkTab.label                "Mtandao">
 

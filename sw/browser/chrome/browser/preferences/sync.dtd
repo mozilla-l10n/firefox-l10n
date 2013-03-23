@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Seti upya">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "Dhibiti Akaunti">
+<!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Angalia Kwota">
 <!ENTITY changePassword2.label        "Badilisha Neno la Siri...">
 <!ENTITY myRecoveryKey.label          "Ufunguo Wangu wa Afueni">
@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "V">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Jina la Kifaa:">
+<!ENTITY syncDeviceName.accesskey   "a">
 <!ENTITY unlinkDevice.label           "Tenganisha Kifaa Hiki">
 <!-- Footer stuff -->
 

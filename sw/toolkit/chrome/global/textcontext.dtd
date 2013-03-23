@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "w">
 <!ENTITY spellUndoAddToDictionary.label "Tngua Kuongeza Kwa Kamusi">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "Kagua Tahajia">
+<!ENTITY spellCheckToggle.accesskey "T">
 <!ENTITY spellNoSuggestions.label "(Hakuna Maoni ya Tahajia)">
 <!ENTITY spellDictionaries.label "Lugha">
 <!ENTITY spellDictionaries.accesskey "L">

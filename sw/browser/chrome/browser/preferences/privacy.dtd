@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY doNotTrack.label               "Ambia nyavuti sitaki kufuatiliwa">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Usieleze tovuti hizi kitu chochote kuhusu pendeleo zangu za ufuatiliaji">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Ambia nyavuti sitaki kufuatiliwa.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Ambia nyavuti sitaki kufuatiliwa.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Jifunze Zaidi">
 
 <!ENTITY  history.label                 "Historia">
 

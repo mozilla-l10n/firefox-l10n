@@ -78,8 +78,8 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Chaguo za Ulandanishi">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Jina la Kifaa:">
+<!ENTITY syncDeviceName.accesskey   "a">
 
 <!ENTITY syncMy.label               "Ulandanishi Wangu">
 <!ENTITY engine.bookmarks.label     "Vialamisho">

@@ -53,7 +53,7 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 
 <!ENTITY netOffline.title "Modi ya nje ya mtandao">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bofya &quot;Jaribu Tena&quot; kuswichi kwenye modi ya mtandaoni na upakie ukurasa.</li> 
+<li>Bonyeza &quot;Jaribu tena&quot; Ili kubadili kwa hali ya mtandaoni na kupakia upya ukurasa.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbuaji Yaliyomo">
@@ -106,12 +106,10 @@ vidukizo.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Muunganisho Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ukurasa unajaribu kuona haiwezi kuonyeshwa kwasababu uthibitisho wa data iliyopokewa inaweza kuwa haijathibitishwa.</li> 
+<li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwajulisha tatizo hili. Badala yake, tumia amri inayopatikana katika menyu ya usaidizi ili kuripoti tovuti hii iliyovunjwa.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

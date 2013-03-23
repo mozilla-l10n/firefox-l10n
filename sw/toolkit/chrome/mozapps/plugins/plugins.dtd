@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Programu-jalizi inahitajika ili kuonyesha maudhui haya.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Gonga hapa kuamilisha programu jalizi.">
-<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Check for updates…">
 <!ENTITY disabledPlugin                                      "Programu-jalizi hii imelemazwa.">
 <!ENTITY blockedPlugin.label                                 "Programu-jalizi hii imezuiliwa kwa ulinzi wako.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Kutuma ripoti ya kukwama kumelemazwa.">
 <!ENTITY report.failed                                       "Ufikishaji umeshindwa.">
 <!ENTITY report.unavailable                                  "Hakuna ripoti inapatikana.">
+<!ENTITY report.comment                                      "Ongeza maoni (maoni yanaonekana kwa umma)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

@@ -1,0 +1,16 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Nakili HTML ya Ndani">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "H">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Nakili HTML ya Nje">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "H">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorHTMLDelete.label          "Futa Kitengo">
+<!ENTITY inspectorHTMLDelete.accesskey      "F">
+
+<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
+
+<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

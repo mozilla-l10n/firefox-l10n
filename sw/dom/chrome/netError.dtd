@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika kache ya kivinjari.</p><ul><li>Kama hadhari ya usalama, kivinjari hakiombi tena kiotomatiki nyaraka zilizo na hisia.</li><li>Bofya Kujaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul> ">
 
 <!ENTITY netOffline.title "Hali tumizi ya Nje ya Mtandao">
-<!ENTITY netOffline.longDesc2 "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot; Jaribu tena &quot; ili kuwasha modi ya mtandao na kupakia ukurasa.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p><p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Je, kompyuta imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot;Jaribu tena&quot; ili kubadili kwa hali ya mtandao na kupakia upya ukurasa.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbaji Maudhui">
 <!ENTITY contentEncodingError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Tovuti iliitikia ombi la mtandao katika njia ambayo haikutarajiwa na kivinjari hakiwezi kuendelea.</p>">
 
 <!ENTITY nssFailure2.title "Muungao Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Ukurasa unayojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

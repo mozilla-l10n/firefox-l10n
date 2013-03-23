@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
 <!ENTITY helpSafeMode.accesskey   "A">
 
+<!ENTITY healthReport.label       "Jina fupi la Chapa; Ripoti ya Hali">
+<!ENTITY healthReport.accesskey   "J">
+
 <!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
 

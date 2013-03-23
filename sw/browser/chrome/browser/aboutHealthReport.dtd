@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+
+<!ENTITY abouthealth.locale-direction "ltr">
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+
+<!ENTITY abouthealth.pagetitle "Ripoti ya Hali ya Jina Fupi la chapa;">
+<!ENTITY abouthealth.header "Ripoti ya Hali ya Jina Fupi la chapa;">
+
+<!ENTITY abouthealth.intro.title "Je, Ripoti ya Hali ya Jina Fupi la chapa; ni nini?">
+
+<!ENTITY abouthealth.intro-enabled "Jina Fupi la chapa; hukusanya baadhi ya data kuhusu kompyuta yako na utumiaji ili kukuauni na uzoefu wa kuvinjari bora.">
+<!ENTITY abouthealth.intro-disabled "Kwa sasa hauwasilishi utumiaji wa data kwa Jina Fupi la mchuuzi;. Unaweza kutusaidia kufanya Jina Fupi la chapa; bora kwa kubofya kitufe cha &quot;kuhusu chaguo la hali;&quot;.">
+
+<!ENTITY abouthealth.optin "Saidia kufanya Jina Fupi la chapa; bora">
+<!ENTITY abouthealth.optout "Zima Kuripoti">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Je, komesha uwasilishaji wa data?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Je, unauhakika unataka kutoka na kufuta data yako yote ya bidhaa isiyojulikana iliyohifadhiwa kwenye wahudumu wa Jina Fupi la mchuuzi?">
+
+<!ENTITY abouthealth.show-raw-data "Onyesha Maelezo">
+<!ENTITY abouthealth.hide-raw-data "Ficha Maelezo">
+
+<!ENTITY abouthealth.show-report "Onyesha Ripoti ya Jina Fupi la chapa;">
+
+<!ENTITY abouthealth.details.description-start "Hiyo ndiyo data ya Jina Fupi la chapa; inawasilisha ili Ripoti ya Hali ya Jina Fupi la chapa; kufanya kazi. Unaweza">
+<!ENTITY abouthealth.details-link "Jifunze zaidi">
+<!ENTITY abouthealth.details.description-end "   kuhusu tunachokusanya na kuwasilisha.">
+<!ENTITY abouthealth.no-data-available "Hakuna uwasilishaji wa awali wa kuonyesha. Tafadhali angalia tena baadaye.">
