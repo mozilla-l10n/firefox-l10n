@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Суоллааһын">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNopref.label        "Мин кэтиир туруорууларым туһунан ситим-сирдэргэ биллэримэ.">
+<!ENTITY dntTrackingNopref.accesskey    "т">
+<!ENTITY dntTrackingNotOkay.label       "Миигин сонордуулларын баҕарбатым туһунан ситим-сирдэргэ этэргэ.">
+<!ENTITY dntTrackingNotOkay.accesskey   "э">
+<!ENTITY dntTrackingOkay.label          "Миигин сонордуулларын утарбатым туһунан ситим-сирдэргэ этэргэ.">
+<!ENTITY dntTrackingOkay.accesskey      "э">
 <!ENTITY doNotTrackInfo.label           "Сиһилии">
 
 <!ENTITY  history.label                 "Сурунаал">
