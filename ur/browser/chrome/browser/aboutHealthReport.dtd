@@ -12,20 +12,20 @@
 <!ENTITY abouthealth.intro.title "&brandShortName; تندرستی رپورٹ کیا ہے؟">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; آپ کو ایک بہتر براؤزر تجربہ دینے کے لیے آپ کے کمپیوٹر اور استعمال کے بارے میں کچھ کوائف جمع کرتا ہے۔">
-<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
+<!ENTITY abouthealth.intro-disabled "آپ فی الحال &vendorShortName; کو استعمال کوائف ارسال نہیں کر رہے۔ آپ &quot;&abouthealth.optin;&quot; بٹن کو کلک کر کے ہمیں &brandShortName; کو بہتر بنانے میں مدد کر سکتے ہیں۔">
 
 <!ENTITY abouthealth.optin "&brandShortName; کو بہتر بنانے میں مدد کریں">
 <!ENTITY abouthealth.optout "رپورٹ کاری آف کردیں">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "کوائف کی حوالگی روک دیں؟">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "کیا آپ واقعی باہر نکلنا اور &vendorShortName; پیش کاروں پر ذخیرہ شدہ اہنے تمام گمنام کوائف حذف کرنا چاہتے ہیں؟">
 
 <!ENTITY abouthealth.show-raw-data "تفصیلات نمائش کریں">
 <!ENTITY abouthealth.hide-raw-data "تفصیلات چھپائیں">
 
 <!ENTITY abouthealth.show-report "&brandShortName; رپورٹ دکھائیں">
 
-<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
-<!ENTITY abouthealth.details-link "learn more">
-<!ENTITY abouthealth.details.description-end " about what we collect and submit.">
-<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+<!ENTITY abouthealth.details.description-start "یہ وہ کوائف ہیں جو &brandFullName; ارسال کر رہا ہے تاکہ &brandShortName; صحت رپورٹ کام کر سکے۔  آپ  ">
+<!ENTITY abouthealth.details-link "اور سیکھیں">
+<!ENTITY abouthealth.details.description-end " ہمارے جمع اور ارسال کرنے کے بارے میں۔">
+<!ENTITY abouthealth.no-data-available "دکھانے کے لیے کوئی پچھلی حوالگی نہیں ہے۔ بعد میں پھر چیک کیجیے۔">

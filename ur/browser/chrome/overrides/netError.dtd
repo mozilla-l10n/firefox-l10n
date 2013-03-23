@@ -129,10 +129,8 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "اٹیک سائٹ کا شبہ!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>اٹیک سائٹیں ایسے پروگرام تنصیب کرنے کی کوشش کرتی ہیں جو نجی معلومات چراتے ہیں، آپ کا کپمیوٹر دوسروں پر ہملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کا نظام خراب کرتے ہیں۔</p> 
+<p>ویب سائٹ مالکین جن کو لگتا ہے کہ ان کی سائٹ غلطی سے اٹیک سائٹ کے طور پر رپورٹ کر دی گَی ہے، ایک <a href='http://www.stopbadware.org/home/reviewinfo' >ریویو کی درخواست</a> کر سکتے ہیں۔</p>">
 
 <!ENTITY phishingBlocked.title "ویب نقل کا شبہ!">
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 

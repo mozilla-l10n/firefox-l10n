@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNopref.label        "سائٹوں کو میرےسراغ کاری ترجیحات کے بارے میں میں کچھ بھی نہیں بتائیں۔">
+<!ENTITY dntTrackingNopref.accesskey    "ن">
+<!ENTITY dntTrackingNotOkay.label       "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا۔">
+<!ENTITY dntTrackingNotOkay.accesskey   "ن">
+<!ENTITY dntTrackingOkay.label          "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا۔">
+<!ENTITY dntTrackingOkay.accesskey      "ن">
 <!ENTITY doNotTrackInfo.label           "اور سیکھیں">
 
 <!ENTITY  history.label                 "سابقات">

@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS ورژن 5">
 <!ENTITY  socks5.accesskey              "و">
-<!ENTITY  port.label                    "دہانہ:">
+<!ENTITY  port.label                    "پورٹ:">
 <!ENTITY  HTTPport.accesskey            "پ">
 <!ENTITY  SSLport.accesskey             "س">
 <!ENTITY  FTPport.accesskey             "ف">

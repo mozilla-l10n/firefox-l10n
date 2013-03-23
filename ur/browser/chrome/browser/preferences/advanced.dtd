@@ -34,15 +34,15 @@
 <!ENTITY setDefault.accesskey            "ط">
 <!ENTITY isDefault.label                 "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "کوائف پسند">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportSection.label       "&brandShortName; تندرستی رپورٹ">
+<!ENTITY healthReportDesc.label          "آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے اور &vendorShortName; کے ساتھ آپ کے براؤزر کی تندرستی کے کوائف شیئر کرتا ہے">
+<!ENTITY enableHealthReport.label        "&brandShortName; تندرستی رپورٹ اہل بنائیں">
+<!ENTITY enableHealthReport.accesskey    "ر">
 <!ENTITY healthReportLearnMore.label     "Learn More">
 
-<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetrySection.label          "ٹیلیمٹری">
 <!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY enableTelemetry.label           "Enable Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">

@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; نیچے دی گَی شرائط کے تحت &brandShortName; کی اس بائنری ورژن کے ساتھ آپ کے استعمال کے لیے کچھ فیچر مہیا کرنے کے لیے ویب پر مبنی معلوماتی خدمات (&quot;خدمات&quot;) استعمال کرتا ہے۔ اگر آپ خدمات میں سے ایک یا زیادہ نہیں استعمال کرنا چاہتے یا آپ کو شرائط قبول نہیں تو آپ فیچر یا خدمت نااہل بنا سکتے ہیں۔ کوئی مخصوص فیچر یا خدمت نااہل بنانے کا طریقہ آپ کو ملے گا ">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "یہاں">
 <!ENTITY rights2.webservices-c "-">
 <!-- safe browsing points for branded builds -->
@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "محفوظ براؤزنگ فیچر نا اہل کرنا تجویز کردہ نہیں ہے کیونکہ اس کے نتیجے میں آپ غیر محفوظ سائٹوں پر پہنچ سکتے ہیں۔  اگر آپ اس فیچر کو پوری طرح سے نااہل کرنا چاہتے ہیں، تو یہ مرحلہ پورے کیجیے:">
 <!ENTITY rights.safebrowsing-term1 "ایپلی کیشن کی ترجیحات کھولیں">
 <!ENTITY rights.safebrowsing-term2 "سلامتی انتخاب منتخب کریں">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; اور &quot;&blockWebForgeries.label;&quot; کو بے نشان کریں">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "محفوظ براؤزنگ اب نا اہل ہے">
 <!-- location aware browsing points for branded builds -->
 
