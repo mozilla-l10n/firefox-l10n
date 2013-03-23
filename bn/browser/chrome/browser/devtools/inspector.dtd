@@ -4,7 +4,7 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "বাহ্যিক HTML অনুলিপি করুন O">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.label       "অনুলিপি এবং সতন্ত্র নির্বাচক U">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
 <!ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন D">
@@ -12,5 +12,5 @@
 
 <!ENTITY inspector.selectButton.tooltip     "মাউসের দ্বারা উপাদান নির্বাচন">
 
-<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.label          "HTML অনুসন্ধান">
 <!ENTITY inspectorSearchHTML.key            "F">

@@ -53,7 +53,7 @@
 <!ENTITY editMenu.label               "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "চালান (R)">
+<!ENTITY run.label                    "চালান R">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
