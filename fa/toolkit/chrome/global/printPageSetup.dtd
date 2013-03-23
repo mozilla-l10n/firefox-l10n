@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "مقیاس:">
 <!ENTITY scale.accesskey     "م">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scalePercent        "٪">
 
 <!ENTITY shrinkToFit.label   "کوچک کردن به اندازهٔ عرض صفحه">
 <!ENTITY shrinkToFit.accesskey "ک">
