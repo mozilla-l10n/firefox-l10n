@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey     "ف"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "ش">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "ابحث أو أدخل عنوانا">
 <!ENTITY urlbar.accesskey             "و">
 <!ENTITY urlbar.switchToTab.label     "انتقل إلى اللسان:">
 <!-- 
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "ف">
 <!ENTITY emailAudioCmd.label          "أرسل الصوت بالبريد…">
 <!ENTITY emailAudioCmd.accesskey      "ت">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "فعّل هذا المُلحق">
+<!ENTITY playPluginCmd.accesskey      "ف">
+<!ENTITY hidePluginCmd.label          "أخفِ هذه المُلحق">
+<!ENTITY hidePluginCmd.accesskey      "خ">
 <!ENTITY copyLinkCmd.label            "انسخ مكان الوصلة">
 <!ENTITY copyLinkCmd.accesskey        "م">
 <!ENTITY copyImageCmd.label           "انسخ مكان الصورة">
@@ -632,4 +632,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "اعرض المواقع التي أشارك كمرتي أو ميكروفوني معها حاليا">
 
 <!ENTITY mixedContentBlocked.helplink "اطّلع على المزيد">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "أغلب المواقع ستستمر في العمل كما ينبغي حتى بعد منع هذا المحتوى.">

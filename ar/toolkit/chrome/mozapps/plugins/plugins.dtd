@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "تحتاج تثبيت ملحق لمشاهدة هذا المحتوى.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "اضغط هنا لتفعيل الملحق.">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY clickToActivatePlugin                               "فعّل المُلحق.">
 <!ENTITY checkForUpdates                                     "التمس التحديثات…">
 <!ENTITY disabledPlugin                                      "هذا الملحق معطل.">
 <!ENTITY blockedPlugin.label                                 "لقد مُنع هذا الملحق من أجل حمايتك.">
@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "فشل الإرسال.">
 <!ENTITY report.unavailable                                  "لا بلاغ متاح.">
 <!ENTITY report.comment                                      "أضِف تعليقًا. ملحوظة: التعليقات متاحة للعموم">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "ضمِّن مسار الصفحة">
 
 <!ENTITY plugin.file                                         "الملف">
 <!ENTITY plugin.mimeTypes                                    "أنواع MIME">
