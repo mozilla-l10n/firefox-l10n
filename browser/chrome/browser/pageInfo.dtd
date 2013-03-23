@@ -61,6 +61,7 @@
 <!ENTITY  permImage             "Hämta bilder">
 <!ENTITY  permPopup             "Öppna popup-fönster">
 <!ENTITY  permCookie            "Sätta kakor">
+<!ENTITY  permNotifications     "Visa notifieringar">
 <!ENTITY  permInstall           "Installera tillägg eller teman">
 <!ENTITY  permGeo               "Uppge position">
 <!ENTITY  permPlugins           "Aktivera insticksmoduler">
