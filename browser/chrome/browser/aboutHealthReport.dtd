@@ -11,21 +11,21 @@
 
 <!ENTITY abouthealth.intro.title "Qu'es aquò lo bilanç de santat de brandShortName ?">
 
-<!ENTITY abouthealth.intro-enabled "&brandFullName; collects some data about your computer and usage in order to provide you with a better browser experience.">
+<!ENTITY abouthealth.intro-enabled "&brandFullName; collècta d'unas donadas a prepaus de vòstre ordenador e vòstra utilizacion per tal de provesir una melhora experiéncia de navigacion.">
 <!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
 
 <!ENTITY abouthealth.optin "Ajudar a melhorar &brandShortName;.">
 <!ENTITY abouthealth.optout "Desactivar lo bilanç de santat">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Arrestar lo mandadís de las donadas ?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Afichar lo bilanç de &brandShortName;">
 
 <!ENTITY abouthealth.show-raw-data "Afichar los detalhs">
 <!ENTITY abouthealth.hide-raw-data "Amagar los detalhs">
 
-<!ENTITY abouthealth.show-report "Show &brandShortName; Report">
+<!ENTITY abouthealth.show-report "Afichar lo bilanç de &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
+<!ENTITY abouthealth.details.description-start "Aquí las donadas que &brandFullName; manda per que lo bilanç de santat de &brandShortName; foncione.   Podètz ">
 <!ENTITY abouthealth.details-link "ne saber mai">
-<!ENTITY abouthealth.details.description-end " about what we collect and submit.">
-<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+<!ENTITY abouthealth.details.description-end " sus çò que collectam e mandam.">
+<!ENTITY abouthealth.no-data-available "I a pas cap de mandadís precedent d'afichar. Verificatz tornarmai pus tard.">

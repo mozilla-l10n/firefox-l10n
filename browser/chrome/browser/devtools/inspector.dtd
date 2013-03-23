@@ -4,8 +4,8 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copiar outerHTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+<!ENTITY inspectorCopyUniqueSelector.label       "Copiar lo selector unic">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "r">
 
 <!ENTITY inspectorHTMLDelete.label          "Suprimir lo nosèl">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
