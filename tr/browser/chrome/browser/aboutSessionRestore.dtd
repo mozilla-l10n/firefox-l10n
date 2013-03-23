@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Oturumu kurtar">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Söylemekten utanıyoruz ama...">
 <!ENTITY restorepage.problemDesc    "&brandShortName; pencerelerinizi ve sekmelerinizi kurtarma konusunda sorun yaşıyor. Bu da genelde daha yeni açılan bir sayfadan kaynaklanır.">
 <!ENTITY restorepage.tryThis        "Bunları yapmayı deneyebilirsiniz:">
@@ -20,5 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Kurtarma">
 <!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#37;S. pencere">
-
+<!ENTITY restorepage.windowLabel    "&#037;S. pencere">

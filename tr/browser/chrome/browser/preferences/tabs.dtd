@@ -18,8 +18,7 @@
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
 <!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
-<!ENTITY switchToNewTabs.accesskey    "b">
+<!ENTITY switchToNewTabs.accesskey    "B">
 
 <!ENTITY showTabsInTaskbar.label          "Sekme ön izlemelerini Windows görev çubuğunda göster">
 <!ENTITY showTabsInTaskbar.accesskey      "e">
-

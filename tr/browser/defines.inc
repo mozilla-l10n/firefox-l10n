@@ -6,7 +6,9 @@
 #define MOZ_LANGPACK_CREATOR mozilla.org.tr
 
 # If non-English locales wish to credit multiple contributors, uncomment this
+
 # variable definition and use the format specified.
+
 #define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Türkiye Yerelleştirme Takımı</em:contributor>
 
 #unfilter emptyLines

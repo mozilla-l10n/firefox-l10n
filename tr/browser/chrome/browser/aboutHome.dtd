@@ -6,16 +6,16 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
-
 <!-- These strings are used in the about:home page -->
+
 
 <!ENTITY abouthome.pageTitle "&brandFullName; başlangıç sayfası">
 
 <!ENTITY abouthome.searchEngineButton.label "Arama">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
+
 <!ENTITY abouthome.defaultSnippet1.v1 "Firefox'u seçtiğiniz için teşekkürler! Tarayıcınızdan en üst düzeyde yararlanmak için <a>yeni özellikler</a> hakkında daha fazla bilgi alın.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -29,4 +29,3 @@
 <!ENTITY abouthome.appsButton.label      "Pazar yeri">
 <!ENTITY abouthome.downloadsButton.label "İndirilenler">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
-
