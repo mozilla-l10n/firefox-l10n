@@ -53,7 +53,7 @@ ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li
 
 <!ENTITY netOffline.title "Modd all-lein">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Press &quot;Ceisio newid eto&quot; i'r modd ar-lein ac ail lwytho'r dudalen.</li> 
+<li>Clicio &quot;Ceisio newid eto&quot; i newid i&apos;r modd ar-lein ac ail lwytho&apos;r dudalen.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Gwall Amgodio Cynnwys">
