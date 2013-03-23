@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title2                          "Apps">
+<!ENTITY aboutApps.title2                          "நிரலிகள்">
 <!ENTITY aboutApps.header                          "Your Apps">
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
@@ -11,5 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "No web apps installed. Get some from the ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
-<!ENTITY aboutApps.uninstall "Uninstall">
-<!ENTITY aboutApps.addToHomescreen "Add to Home Screen">
+<!ENTITY aboutApps.uninstall "நிறுவுல் நீக்கு">
+<!ENTITY aboutApps.addToHomescreen "முகப்பு திரையில் சேர்">

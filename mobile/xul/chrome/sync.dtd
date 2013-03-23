@@ -4,8 +4,8 @@
 
 <!ENTITY sync.title                 "ஒத்திசை">
 <!ENTITY sync.notconnected          "Not connected">
-<!ENTITY sync.connect               "Connect">
-<!ENTITY sync.connected             "Connected">
+<!ENTITY sync.connect               "இணை">
+<!ENTITY sync.connected             "இணைக்கப்பட்டது">
 <!ENTITY sync.details               "விவரங்கள்">
 <!ENTITY sync.deviceName            "This device">
 <!ENTITY sync.disconnect            "Disconnect">
@@ -15,17 +15,17 @@
 <!ENTITY sync.setup.pair            "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் &#x0022;ஒரு சாதனத்தை இணைசேர்&#x0022; என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
-<!ENTITY sync.account               "Account Name">
-<!ENTITY sync.password              "Password">
-<!ENTITY sync.recoveryKey           "Recovery Key">
-<!ENTITY sync.customServer          "Use custom server">
+<!ENTITY sync.account               "கணக்கு பெயர்">
+<!ENTITY sync.password              "கடவுச்சொல்">
+<!ENTITY sync.recoveryKey           "மீட்பு விசை">
+<!ENTITY sync.customServer          "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து">
 <!ENTITY sync.serverURL             "Server URL">
-<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.setup.connect         "இணை">
 <!ENTITY sync.setup.cancel          "விடு">
-<!ENTITY sync.setup.tutorial        "Show me how">
+<!ENTITY sync.setup.tutorial        "எவ்வாறு என காட்டு">
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "ஒரு சாதனத்தை இணைசேர்">
 <!ENTITY sync.pair.description      "உங்கள் புதிய சாதனத்தைச் செயல்படுத்த,  சாதனத்தில் &#x0022;ஒத்திசைவை அமை&#x0022; என்பதைத் தேர்ந்தெடுக்கவும்.">
-<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.setup.close           "மூடு">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

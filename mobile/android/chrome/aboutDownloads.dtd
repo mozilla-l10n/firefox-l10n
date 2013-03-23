@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "பதிவிறக்கங்கள்">
-<!ENTITY aboutDownloads.header                     "Your Downloads">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+<!ENTITY aboutDownloads.header                     "உங்கள் பதிவிறக்கங்கள்">
+<!ENTITY aboutDownloads.empty                      "பதிவிறக்கங்கள் இல்லை">
 
 <!ENTITY aboutDownloads.open                       "திற">
 <!ENTITY aboutDownloads.remove                     "அழி">
 <!ENTITY aboutDownloads.removeAll                  "Delete All">
-<!ENTITY aboutDownloads.pause                      "Pause">
+<!ENTITY aboutDownloads.pause                      "இடைநிறுத்து">
 <!ENTITY aboutDownloads.resume                     "தொடரவும்">
 <!ENTITY aboutDownloads.cancel                     "விடு">
-<!ENTITY aboutDownloads.retry                      "Retry">
+<!ENTITY aboutDownloads.retry                      "மறுமுயற்சி">

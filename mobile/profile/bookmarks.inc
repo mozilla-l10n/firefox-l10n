@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title கைபேசி
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: உங்கள் உலவியை பற்றி
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox:  கூடுடல் இணைப்புகளுடன் விருப்பமைவு செய்
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox:  ஆதரவு
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_aboutHome Firefox  துவக்கம்
 
 
 

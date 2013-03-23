@@ -9,7 +9,7 @@
 <!ENTITY feedback.feedback.good         "Good">
 <!ENTITY feedback.feedback.bad          "Bad">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "Send performance data">
+<!ENTITY feedback.tools.title           "கருவிகள்">
+<!ENTITY feedback.allowTelemetry.title  "செயல்திறன் தரவைச் சமர்ப்பி">
 <!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
 <!ENTITY feedback.errorConsole.title    "Enable the Error Console">

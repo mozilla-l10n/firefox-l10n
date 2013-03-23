@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "Search">
+<!ENTITY empty.label            "தேடு">
 <!ENTITY newpref.label          "Add a New Preference">
 <!ENTITY addpref.name           "பெயர்">
 <!ENTITY addpref.value          "மதிப்பு">
 
 <!ENTITY cancel.label           "விடு">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY reset.label            "மறுஅமை">
+<!ENTITY done.label             "முடிந்தது">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "முழுஎண்">
+<!ENTITY string.label           "சரம்">
+<!ENTITY boolean.label          "பூலியன்">
