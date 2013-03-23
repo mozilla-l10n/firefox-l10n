@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY urlbar.emptytext      "Ngenisa uKhangela okanye idilesi">
+<!ENTITY urlbar.emptytext      "Faka ukhangelo okanye idilesi">
 
 <!ENTITY back.label            "Emva">
 <!ENTITY forward.label         "Gqithisela phambili">
-<!ENTITY reload.label          "Reload">
+<!ENTITY reload.label          "Layisha kwakhona">
 <!ENTITY stop.label            "Nqumama">
 <!ENTITY go.label              "Hamba">
 <!ENTITY star.label            "Inkwenkwezi">
 
 <!ENTITY showTabs.label        "Bonisa iithebhu">
 <!ENTITY newtab.label          "Isilungelelanisi Semigca Esitsha">
-<!ENTITY closetab.label        "Vala iithebhu">
+<!ENTITY closetab.label        "Close Tab">
 
 <!ENTITY cut.label             "Sika">
-<!ENTITY copy.label            "Kopa">
-<!ENTITY copyAll.label         "Kopa konke">
+<!ENTITY copy.label            "Copy">
+<!ENTITY copyAll.label         "Khuphela konke">
 <!ENTITY copylink.label        "Copy Link Location">
 <!ENTITY paste.label           "Ncamathelisa">
 <!ENTITY pasteAndGo.label      "Ncamathisela &amp; Hamba">
 <!ENTITY delete.label          "Delete">
 <!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(Akukho zingcamango)">
+<!ENTITY noSuggestions.label   "(No suggestions)">
 <!ENTITY addToDictionary.label "Add to Dictionary">
 <!ENTITY inputMethod.label     "Khetha indlela yegalelo">
 
-<!ENTITY allPagesHeader.label      "Onke amakhasi">
+<!ENTITY allPagesHeader.label      "All Pages">
 <!ENTITY bookmarksHeader.label     "Iibhukhmakhi">
 <!ENTITY historyHeader.label       "Imbali">
-<!ENTITY desktopHeader.label       "Idesktop">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDialog.title  "Hlela isalathisi esiphawulayo">
 <!ENTITY editBookmarkDone.label    "Done">
-<!ENTITY editBookmarkTags.label    "Yongeza iithegi apha">
+<!ENTITY editBookmarkTags.label    "Add tags here">
 
 <!ENTITY selectHelper.done         "Done">
 
@@ -43,39 +43,39 @@
 <!ENTITY addonsUpdate.label        "Hlaziya">
 <!ENTITY addonsRepo.label          "Fumana izongezelelo">
 <!ENTITY addonsRecommended.label   "Recommended">
-<!ENTITY addonsSearch.label        "Khangela">
-<!ENTITY addonsSearch2.emptytext   "Ikhathalogi yokukhangela">
+<!ENTITY addonsSearch.label        "Search">
+<!ENTITY addonsSearch2.emptytext   "Search Catalog">
 <!ENTITY addonsSearch.recommended  "Recommended">
 
-<!ENTITY addonOptions.label        "Options">
-<!ENTITY addonEnable.label         "Enable">
-<!ENTITY addonDisable.label        "Disable">
+<!ENTITY addonOptions.label        "Iindlela zokhetho">
+<!ENTITY addonEnable.label         "Vumela">
+<!ENTITY addonDisable.label        "Qhwalelisa">
 <!ENTITY addonInstall2.label       "Add to &brandShortName;">
-<!ENTITY addonUninstall.label      "Khupha okufakelweyo">
+<!ENTITY addonUninstall.label      "Uninstall">
 <!ENTITY addonCancel.label         "Cancel">
-<!ENTITY addonShowPage.label       "Yiya kwikhasi">
+<!ENTITY addonShowPage.label       "Go to Page">
 
 <!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadShowPage.label    "Yiya kwikhasi">
+<!ENTITY downloadShowPage.label    "Go to Page">
 <!ENTITY downloadShow2.label       "Fumana">
 <!ENTITY downloadOpen2.label       "Vula">
 <!ENTITY downloadCancel.label      "Cancel">
 <!ENTITY downloadPause.label       "Pause">
-<!ENTITY downloadResume.label      "Buyela kwakhona">
-<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadResume.label      "Resume">
+<!ENTITY downloadRetry.label       "Phinda uzame">
 <!ENTITY downloadRemove.label      "Remove">
 <!ENTITY downloadDelete.label      "Delete">
-<!ENTITY downloadFailed.label      "Ayiphumelelanga">
+<!ENTITY downloadFailed.label      "Akuphumelelanga">
 
-<!ENTITY noResults.label           "Akukho ziphumo">
+<!ENTITY noResults.label           "No results">
 <!ENTITY allBookmarks.label        "Jonga zonke iibhukhmakhi">
 
-<!ENTITY bookmarkPopup.label       "Ikhasi lifakwe ibhukhmakhi">
+<!ENTITY bookmarkPopup.label       "Ikhasi libhukhimakhiwe">
 <!ENTITY bookmarkRemove.label      "Remove">
 <!ENTITY bookmarkEdit.label        "Edit">
-<!ENTITY bookmarkShortcut.label    "Yongeza kwisikrini sasekhaya">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
 
-<!ENTITY identity.unverifiedsite2 "Le webhusayithi ayiyinikezeli inkcazelo yesazisi.">
+<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
 <!ENTITY identity.connectedTo2 "Idityeniswe kwi">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
@@ -90,20 +90,20 @@
 <!ENTITY consoleWarnings.label     "Warnings">
 <!ENTITY consoleMessages.label     "Imiyalezo">
 <!ENTITY consoleCodeEval.label     "Code:">
-<!ENTITY consoleClear.label        "Clear">
+<!ENTITY consoleClear.label        "Sula">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Ifayili yomthombo:">
+<!ENTITY consoleErrFile.label      "Ifayili Yentsusa:">
 <!ENTITY consoleErrLine.label      "Umgca:">
-<!ENTITY consoleErrColumn.label    "Ikholam:">
+<!ENTITY consoleErrColumn.label    "Umqolo owehlayo:">
 
-<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
-<!ENTITY contextSaveImage.label       "Gcina umfuziselo">
-<!ENTITY contextCopyLink.label        "Kopa ikhonkco">
-<!ENTITY contextCopyEmail.label       "Copy Email Address">
-<!ENTITY contextCopyPhone.label       "Kopa inombolo yefowuni">
-<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
-<!ENTITY contextShareLink.label       "Share Link">
-<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextOpenInNewTab.label    "Vula iKhonkco kwiThebhu Entsha">
+<!ENTITY contextSaveImage.label       "Save Image">
+<!ENTITY contextCopyLink.label        "Khuphela ikhonkco">
+<!ENTITY contextCopyEmail.label       "Kopa iDilesi yeImeyile">
+<!ENTITY contextCopyPhone.label       "Khuphela inani lomnxeba">
+<!ENTITY contextCopyImageLocation.label       "Kopa uMfanekiso weNdawo">
+<!ENTITY contextShareLink.label       "Yabelana ngeKhonkco">
+<!ENTITY contextShareImage.label      "Yabelana ngoMfanekiso">
 <!ENTITY contextBookmarkLink.label    "Ikhonkco lebhukhmakhi">
 <!ENTITY contextSaveVideo.label       "Gcina ividiyo">
 <!ENTITY contextShareVideo.label      "Yabelana ngevidiyo">
@@ -112,15 +112,15 @@
 <!ENTITY contextFullScreen.label      "Isikrini esiZeleyo">
 <!ENTITY contextEditBookmark.label    "Edit">
 <!ENTITY contextRemoveBookmark.label  "Remove">
-<!ENTITY contextShortcutBookmark.label "Yongeza kwisikrini sasekhaya">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
 
-<!ENTITY pageactions.saveas.pdf      "Gcina njenge-PDF">
+<!ENTITY pageactions.saveas.pdf      "Gcina njengePDF">
 <!ENTITY pageactions.share.page      "Share Page">
 <!ENTITY pageactions.password.forget "Ulibele ipasiwedi">
 <!ENTITY pageactions.quit            "Yeka">
 <!ENTITY pageactions.reset           "Coca iipriferensi zesayithi">
-<!ENTITY pageactions.findInPage      "Fumana kwikhasi">
-<!ENTITY pageactions.search.addNew   "Yongeza injini yokukhangela">
-<!ENTITY pageactions.charEncoding    "Ukufakwa kwekhowudi kwikharakhtha">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "Add Search Engine">
+<!ENTITY pageactions.charEncoding    "Character Encoding">
 
 <!ENTITY appMenu.siteOptions         "Site Options">

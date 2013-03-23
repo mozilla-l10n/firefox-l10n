@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHome.header                       "<i-span>i-&brandShortName; </i-span><i-span id='iheda-isimamva'>Qalisa</i-span>">
+<!ENTITY aboutHome.header                       "<span>i-&brandShortName; </span><span id='header-suffix'>Qalisa</span>">
 <!ENTITY aboutHome.recentTabs                   "Iithebhu zakho kwixesha lokugqibela">
 <!ENTITY aboutHome.remoteTabs                   "Iithebhu zakho zenye ikhompyutha yakho">
 <!ENTITY aboutHome.recommendedAddons2           "Izongezelelo ze-&brandShortName; yakho">
@@ -18,11 +18,11 @@
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora  "Download Aurora">
+<!ENTITY aboutHome.downloadAurora  "Khuphela iAurora">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
-<!ENTITY aboutHome.forAndroid   "ka-Android ">
+<!ENTITY aboutHome.forAndroid   "ka-Android">
 <!-- LOCALIZATION NOTE:
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.

@@ -4,12 +4,12 @@
 
 <!ENTITY aboutDownloads.title                      "Okukhutshelwayo">
 <!ENTITY aboutDownloads.header                     "Okukhutshelwayo kwakho">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+<!ENTITY aboutDownloads.empty                      "Akukho zinto zikhutshelwayo">
 
 <!ENTITY aboutDownloads.open                       "Vula">
 <!ENTITY aboutDownloads.remove                     "Cima">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.removeAll                  "Cima Konke">
 <!ENTITY aboutDownloads.pause                      "Isiqabu">
 <!ENTITY aboutDownloads.resume                     "Buyela enkomeni">
 <!ENTITY aboutDownloads.cancel                     "Rhoxisa">
-<!ENTITY aboutDownloads.retry                      "Retry">
+<!ENTITY aboutDownloads.retry                      "Phinda uzame">

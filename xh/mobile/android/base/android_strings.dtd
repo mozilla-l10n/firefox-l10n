@@ -18,35 +18,35 @@
 <!ENTITY  crash_help_message "Nceda usincede silungise le ngxaki!">
 <!ENTITY  crash_send_report_message "Thumela iMozilla ingxelo yokonakala">
 <!ENTITY  crash_include_url "Quka idilesi yekhasi">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
-<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala ">
+<!ENTITY  crash_close_label "Vala">
+<!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
+<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
 <!ENTITY  exit_label "Phuma">
 <!ENTITY  continue_label "Qhuba">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_title "i-&brandShortName; ii-Web Apps">
 <!ENTITY  launcher_shortcuts_empty "Akukho zi-apps zewebhu zifumanekayo">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Khetha Ifayili">
 
 <!ENTITY awesomebar_default_text "Faka ukhangelo okanye idilesi">
 
 <!ENTITY remote_tabs "Iithebhu ezingqamanisiweyo">
 <!ENTITY remote_tabs_show_all "Bonisa zonke iithebhu">
 
-<!ENTITY bookmark "Bookmark">
+<!ENTITY bookmark "Isalathisi esiphawulayo">
 <!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
-<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe ">
+<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
 
 <!ENTITY history_today_section "Namhlanje">
 <!ENTITY history_yesterday_section "Izolo">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "Iintsuku ezi-7 ezadlulayo">
+<!ENTITY history_older_section "Indala kuneentsuku ezi-7">
 
 <!ENTITY go "Hamba">
 <!ENTITY search "Khangela">
-<!ENTITY reload "Reload">
+<!ENTITY reload "Layisha kwakhona">
 <!ENTITY forward "Gqithisela phambili">
 <!ENTITY menu "Imenyu">
 <!ENTITY back "Emva">
@@ -60,38 +60,38 @@
 <!ENTITY num_tabs2 "I-&formatD; iithebhu">
 <!ENTITY new_tab_opened "Iithebhu ezintsha zivuliwe">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
+<!ENTITY settings "Iisetingi">
+<!ENTITY settings_title "Iisetingi">
 <!ENTITY pref_category_general "Jikelele">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
+<!ENTITY pref_category_privacy "Ubungasese &amp; uKhuseleko">
 <!ENTITY pref_category_content "Isiqulatho">
 <!ENTITY pref_category_importexport "Ngenisa ngaphakathi &amp; Thumela ngaphandle">
 <!ENTITY pref_about_firefox "Malunga ne-&brandShortName;">
 <!ENTITY pref_do_not_track "Xelela iisayithi zingalandi umkhondo wam">
 <!ENTITY pref_telemetry "Thumela iingcombolo zomsebenzi">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_remember_signons "Khumbula iiphaswedi">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
 <!ENTITY pref_cookies_accept_all "Ezivunyelweyo">
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "Kwaphulwe isakhono">
 
-<!ENTITY pref_char_encoding "Character encoding">
+<!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Clear private data">
-<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_char_encoding_off "Musa ukubonisa imenyu">
+<!ENTITY pref_clear_private_data "Sula iingcombolo zabucala">
+<!ENTITY pref_plugins "Iisoftwe ezincedisayo">
 <!ENTITY pref_plugins_enabled "Ezivunyelweyo">
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
+<!ENTITY pref_plugins_disabled "Kwaphulwe isakhono">
+<!ENTITY pref_text_size "Ubukhulu bombhalo">
 <!ENTITY pref_reflow_on_zoom2 "Cofa kancinci ukuhambisa umbhalo">
 <!ENTITY pref_font_size_tiny "Ncinane">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
+<!ENTITY pref_font_size_small "Mncinci">
+<!ENTITY pref_font_size_medium "Uphakathi">
+<!ENTITY pref_font_size_large "Mkhulu">
 <!ENTITY pref_font_size_xlarge "Nkulu kakhulu">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_font_size_set "Isethi">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -101,9 +101,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Impungutye ekhawulezayo eorenji itsiba ngaphezu kobukulindele ngesantya esingaphezulu, ngokuthamba okungaphezulu nangokhuseleko olungaphezulu. Njengabangenzi ngeniso, sikhululekile ukungenisa okutsha egameni lakho ngaphandle koxinzelelo lokuhlangabeza. Oko kuthetha amava angcono kuwe nekamva eliqaqambileyo kwiwebhu.">
 
-<!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_use_master_password "Sebenzisa iphaswedi eyimasta">
 <!ENTITY pref_show_product_announcements "Bonisa izaziso zemveliso">
 <!ENTITY pref_sync "Ngqamanisa">
 <!ENTITY pref_search_suggestions "Bonisa iingcamango zokukhangela">
@@ -111,15 +111,15 @@ size. -->
 <!ENTITY pref_private_data_history "Ibhrawuza &amp; imbali yokukhutshelwayo">
 <!ENTITY pref_private_data_formdata "Fomu &amp; imbali yokukhangela">
 <!ENTITY pref_private_data_cookies2 "Iikhukhi &amp; ukungena okusebenzayo">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+<!ENTITY pref_private_data_passwords "Iiphaswedi ezigciniweyo">
 <!ENTITY pref_private_data_cache "Imemori esisikhupheli">
 <!ENTITY pref_private_data_offlineApps "ngcombolo zewebhusayithi ezingekho kwinethiwekhi">
 <!ENTITY pref_private_data_siteSettings "Iipriferensi zesayithi">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "Iifayile ezikhutshelweyo">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_disabled "Kwaphulwe isakhono">
 <!ENTITY pref_update_autodownload_enabled "Ezivunyelweyo">
 
 <!ENTITY quit "Yeka">
@@ -138,8 +138,8 @@ size. -->
 <!ENTITY tools "Izixhobo zemiyalelo">
 <!ENTITY new_tab "Isilungelelanisi Semigca Esitsha">
 <!ENTITY new_private_tab "Iithebhu zangasese ezintsha">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Tabs">
+<!ENTITY close_all_tabs "Vala Zonke iiThebhu">
+<!ENTITY tabs_normal "Iithebhu">
 <!ENTITY tabs_private "Ngasese">
 <!ENTITY tabs_synced "Ngqamanisiweyo">
 <!ENTITY wallpaper_success "Umhombiso wedesktop uhlaziyiwe">
@@ -151,60 +151,60 @@ size. -->
 <!ENTITY find_text "Fumana kwikhasi">
 <!ENTITY find_prev "Okwangaphambili">
 <!ENTITY find_next "Okulandelayo">
-<!ENTITY find_close "Close">
+<!ENTITY find_close "Vala">
 
 <!ENTITY contextmenu_open_new_tab "Vula Kwisilungelelanisi Semigca Esitsha">
 <!ENTITY contextmenu_open_private_tab "Vula kwithebhu yangasese">
 <!ENTITY contextmenu_open_in_reader "Vula kumfundi">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
+<!ENTITY contextmenu_remove_history "Susa">
+<!ENTITY contextmenu_remove_bookmark "Susa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwi-Home Screen">
 <!ENTITY contextmenu_share "Yabelana">
-<!ENTITY contextmenu_pasteandgo "Ncamathisela amp: Hamba">
+<!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; Hamba">
 <!ENTITY contextmenu_paste "Ncamathelisa">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_copyurl "Kopa iDilesi">
+<!ENTITY contextmenu_edit_bookmark "Hlela">
 
 <!ENTITY history_removed "Ikhasi lisusiwe">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_title "Hlela isalathisi esiphawulayo">
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY bookmark_edit_keyword "Igama eliphambili">
 
-<!ENTITY site_settings_title2       "Iisethingi zesayithi">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "Akukho zisethingi zinokususwa">
+<!ENTITY site_settings_title2       "Iisethingi zesayithi…">
+<!ENTITY site_settings_cancel       "Rhoxisa">
+<!ENTITY site_settings_clear        "Sula">
+<!ENTITY site_settings_no_settings  "Akukho zisethingi zinokususwa.">
 
 <!ENTITY reading_list "ULuhlu lokufunda">
 <!ENTITY reading_list_added "Ikhasi longezwe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_removed "Ikhasi lisuswe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_failed "Ayiphumelelanga ukongeza ikhasi kuludwe lwakho lokufunda">
-<!ENTITY reader "Reader">
+<!ENTITY reader "Isifundi">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_create_title "Yila iPhaswedi eyiMasta">
 <!ENTITY masterpassword_remove_title "Susa ipasiwedi esisiseko">
 <!ENTITY masterpassword_password "Iphaswedi">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_confirm "Qinisekisa iphaswedi">
 
 <!ENTITY button_ok "KULUNGILE">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "Rhoxisa">
 <!ENTITY button_yes "Ewe">
 <!ENTITY button_no "Hayi">
 <!ENTITY button_clear_data "susa iingcombolo">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_set "Isethi">
+<!ENTITY button_clear "Sula">
 
 <!ENTITY abouthome_addons_title "Izongezelelo ze-&brandShortName; yakho">
 <!ENTITY abouthome_addons_browse "Bhrawuza zonke ii-&brandShortName; izongezelelo">
 <!ENTITY abouthome_last_tabs_title "Iithebhu zakho kwixesha lokugqibela">
 <!ENTITY abouthome_last_tabs_open "Vula zonke iithebhu zexesha lokugqibela">
 <!ENTITY abouthome_top_sites_title "Iisayithi eziphambili">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Qhobosha isayithi ">
+<!ENTITY abouthome_topsites_edit "Hlela">
+<!ENTITY abouthome_topsites_pin "Qhobosha isayithi">
 <!ENTITY abouthome_topsites_unpin "Khulula isayithi">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_topsites_remove "Susa">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -217,10 +217,10 @@ size. -->
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Ungqamaniso lweFirefox">
-<!ENTITY abouthome_apps_bold_name2 "kwi-Firefox Marketplace">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
-<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_title "Khetha Ifayili">
 <!ENTITY filepicker_audio_title "Khetha okanye rekhoda isandi">
 <!ENTITY filepicker_image_title "Khetha okanye thatha umfanekiso">
 <!ENTITY filepicker_video_title "Khetha okanye rekhoda ividiyo">
@@ -254,7 +254,7 @@ kwi-Android">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&fomathiS; khangela iingcamango?">
+<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&formatS; khangela iingcamango?">
 
 <!ENTITY webapp_generic_name "I-app">
 

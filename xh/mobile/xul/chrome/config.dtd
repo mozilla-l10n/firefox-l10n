@@ -11,6 +11,6 @@
 <!ENTITY reset.label            "Phinda umisele">
 <!ENTITY done.label             "Kwenziwe">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Inani elipheleleyo">
+<!ENTITY string.label           "Umtya">
+<!ENTITY boolean.label          "I-Boolean">
