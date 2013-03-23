@@ -71,7 +71,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ورود">
-<!ENTITY existingRecoveryKey.description 'برای دریافت کپی از کلید بازیابی خود، به &syncBrand.shortName.label; تنظیمات دستگاه رفته، و &#x0022; "کلید بازیابی من"&#x0022; را در زیر "مدیریت حساب"&#x0022;. انتخاب کنید.'>
+<!ENTITY existingRecoveryKey.description "برای دریافت کپی از کلید بازیابی خود، به &syncBrand.shortName.label; تنظیمات دستگاه رفته، و &#x0022; &quot;کلید بازیابی من&quot;&#x0022; را در زیر &quot;مدیریت حساب&quot;&#x0022;. انتخاب کنید.">
 <!ENTITY verifying.label              "در حال وارسی…">
 <!ENTITY resetPassword.label          "پاک‌سازی گذرواژه">
 <!ENTITY resetSyncKey.label           "رایانهٔ دیگر خود را گم کرده‌ام.">

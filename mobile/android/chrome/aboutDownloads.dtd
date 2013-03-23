@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "باز کردن">
+<!ENTITY aboutDownloads.remove                     "حذف">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "مکث">
+<!ENTITY aboutDownloads.resume                     "ازسرگیری">
+<!ENTITY aboutDownloads.cancel                     "انصراف">
+<!ENTITY aboutDownloads.retry                      "تلاش مجدد">

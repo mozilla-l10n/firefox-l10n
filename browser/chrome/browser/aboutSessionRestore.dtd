@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "برگرداندن">
 <!ENTITY restorepage.listHeader     "پنجره‌ها و زبانه‌ها">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "پنجرهٔ &#37;S">
+<!ENTITY restorepage.windowLabel    "Window &#37;S">

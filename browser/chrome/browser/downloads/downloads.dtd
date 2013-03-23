@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "بارگیری‌ها">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -23,7 +23,7 @@
      That's 50 characters, so we set the width at 50ch.
      -->
 
-<!ENTITY downloadDetails.width            "50ch">
+<!ENTITY downloadDetails.width            "50نویسه">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -55,7 +55,7 @@
 <!ENTITY cmd.show.accesskey               "پ">
 <!ENTITY cmd.showMac.label                "نمایش در یابنده">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "تلاش مجدد">
+<!ENTITY cmd.retry.label                  "کوشش دوباره">
 <!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحهٔ بارگیری">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "رونوشت برداشتن از پیوند بارگیری">

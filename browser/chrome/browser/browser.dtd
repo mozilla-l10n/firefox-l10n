@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "وصل شدن...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "پیشانهٔ خطاها">
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "ابزارها">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "ابزارهای گسترش دهنده">
 <!ENTITY devToolbarOtherToolsButton.label  "ابزار بیشتر">
 
 <!ENTITY getMoreDevtoolsCmd.label        "دریافت ابزار بیشتر">
@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "ح"> 
 
 <!ENTITY clearRecentHistory.label               "پاک‌سازی تاریخچهٔ اخیر…">
-<!ENTITY clearRecentHistory.accesskey           "پ">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label         "شروع مرور خصوصی">
-<!ENTITY privateBrowsingCmd.start.accesskey     "م">
-<!ENTITY privateBrowsingCmd.stop.label          "پایان مرور خصوصی">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "م">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "نما"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "م">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "به یک وب‌گاه بروید">
+<!ENTITY urlbar.placeholder2          "جست‌و‌جو کنید یا آدرس را وارد کنید">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "پرش به زبانه:">
 <!-- 
@@ -359,8 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 <!ENTITY openLinkCmd.label            "باز کردن پیوند در پنجرهٔ جدید">
 <!ENTITY openLinkCmd.accesskey        "پ">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "باز کردن پیوند در پنجرهٔ جدید">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "پ">
 <!ENTITY openLinkCmdInCurrent.label     "باز کردن پیوند">
 <!ENTITY openLinkCmdInCurrent.accesskey "ب">
 <!ENTITY openFrameCmdInTab.label      "باز کردن چارچوب در زبانهٔ جدید">
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "ایمیل کردن صدا...">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "پنهان کردن این افزونه">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey        "ن">
 <!ENTITY copyImageCmd.label           "رونوشت برداشتن از مکان تصویر">
@@ -507,7 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "باز کردن یک زبانهٔ جدید">
 <!ENTITY newWindowButton.tooltip        "باز کردن یک پنجرهٔ جدید">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "بستن نوار کناری">
 
 <!ENTITY cutButton.tooltip              "بریدن">
 <!ENTITY copyButton.tooltip             "رونوشت برداشتن">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "اداره کننده:">
 
 <!ENTITY identity.moreInfoLinkText "اطلاعات بیشتر…">
-
-<!ENTITY allTabs.filter.emptyText "جست‌وجو در زبانه‌ها">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
 <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+
+<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">

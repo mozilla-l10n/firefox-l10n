@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "ره‌گیری">
 
-<!ENTITY doNotTrack.label               "درخواست از وب‌گاه‌ها برای عدم ره‌گیری فعالیت‌های من">
-<!ENTITY doNotTrack.accesskey           "ع">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "بیشتر بدانید">
 
 <!ENTITY  history.label                 "تاریخچه">
 
@@ -64,7 +69,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "تمام تاریخچهٔ موجود را پاک کنید">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label 'همیشه از حالت "مرور مخفیانه" استفاده کن'>
+<!ENTITY  privateBrowsingPermanent2.label "همیشه از حالت &quot;مرور مخفیانه&quot; استفاده کن">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "مرور و بارگذاری های مرا به خاطر بسپار">
