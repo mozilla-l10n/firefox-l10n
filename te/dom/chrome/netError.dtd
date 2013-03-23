@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము విహరణి క్యాచీనందు లేదు.</p><ul><li>ముందస్తు భద్రత దృష్ట్యా, విహరణి సున్నితమైన పత్రములను స్వయంచాలకంగా తిరిగి-అభ్యర్దించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్దించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్  రీతి">
-<!ENTITY netOffline.longDesc2 "<p>విహారిణి  ఆఫ్‌లైన్  రీతినందు పనిచేస్తున్నది  మరియు  అభ్యర్దించిన  అంశముకు అనుసంధానింపలేదు.</p><ul><li>కంప్యూటర్ చేతనంగా  ఉన్న  నెట్వర్క్ కు  అనుసంధానింపబడివుందా?</li><li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడు చేయుటకుృ &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడదు ఎంచేతంటే అదిసరికాని లేదా మద్దతీయని కుదింపు(కంప్రెషన్) విధానాన్ని వుపయోగిస్తోంది.</p><ul><li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి ఈ సమస్యగురించి తెలియజెప్పండి.</li></ul>">

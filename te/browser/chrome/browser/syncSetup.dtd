@@ -78,7 +78,7 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "సింక్ ఐచ్ఛికములు">
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "పరికరం పేరు (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "నావి యివి సింక్ చేయి">

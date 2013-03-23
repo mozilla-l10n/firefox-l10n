@@ -49,9 +49,11 @@
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> 

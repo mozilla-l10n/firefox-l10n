@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "పరికరం పేరు (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "ఈ పరికరం లంకెతీయి">
 <!-- Footer stuff -->
