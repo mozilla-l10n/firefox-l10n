@@ -4,26 +4,26 @@
 
 <!ENTITY safeb.palm.warning.title "Inkohliso yewebhu ekrokrelekayo">
 
-<!ENTITY safeb.palm.message.p1 "Eli khasi lichazwe njengenkohliso yewebhu elenzelwe ukuqhatha abasebenzisi ekubeni babelane ngeenkcukacha okanye ngenkcazelo yemali. Ukungeniswa kwazo naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba &#160;">
+<!ENTITY safeb.palm.message.p1 "Eli khasi lichazwe njengenkohliso yewebhu elenzelwe ukuqhatha abasebenzisi ekubeni babelane ngeenkcukacha okanye ngenkcazelo yemali. Ukungeniswa kwazo naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Funda ngaphezulu &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "Funda ngaphezulu &#133;">
 
 <!ENTITY safeb.palm.message.p2.start "Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengokufunyanwa kweenkcukacha ngobuqhetseba apho amakhasi ewebhu neeimeyile zisetyenziswa ukulinganisa amaxwebhu onokuwathemba. Ungafumana ngaphezulu nge ">
 <!ENTITY safeb.palm.message.p2.linkText "indlela i-&brandShortName; ekukhusela ngayo">
-<!ENTITY safeb.palm.message.p2.end " kubuqhetseba bokubiwa kweenkcukacha">
+<!ENTITY safeb.palm.message.p2.end " kubuqhetseba bokubiwa kweenkcukacha.">
 
 <!ENTITY safeb.palm.accept.label "Ndikhuphe apha!">
 <!ENTITY safeb.palm.accept.statustext "Yiya kwikhasi lam lasekhaya">
 <!ENTITY safeb.palm.decline.label "Sukusihoya esi silumkiso">
 <!ENTITY safeb.palm.decline.statustext "Vala isilumkiso" >
-<!ENTITY safeb.palm.notforgery.label2 "Asiyonkohliso yewebhu le...">
+<!ENTITY safeb.palm.notforgery.label2 "Asiyonkohliso yewebhu le…">
 <!ENTITY safeb.palm.reportPage.label "Kwakutheni ukuze lithintelwe eli khasi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ikhasi lohlaselo elichaziweyo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Eli khasi lewebhu kwi-<span id='malware_sitename'/> lichazwe njengekhasi lohlaselo kwaye lithintelwe ngokweepriferensi zakho zokhuseleko. ">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p> Amakhasi ohlaselo azama ukufaka iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlasela ezinye okanye ukonakalisa ikhompyutha yakho.</p><p>Amanye amakhasi ohlaselo asasaza ngenjongo isoftwe enobungozi, kodwa amaninzi ayadlelelelwa ngaphandle kolwazi okanye imvume yabaniniwo</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Eli khasi lewebhu kwi-<span id='malware_sitename'/> lichazwe njengekhasi lohlaselo kwaye lithintelwe ngokweepriferensi zakho zokhuseleko.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Amakhasi ohlaselo azama ukufaka iiprogram eziba inkcazelo yangasese, zisebenzise ikhompyutha yakho ukuhlasela ezinye okanye ukonakalisa ikhompyutha yakho.</p><p>Amanye amakhasi ohlaselo asasaza ngenjongo isoftwe enobungozi, kodwa amaninzi ayadlelelelwa ngaphandle kolwazi okanye imvume yabaniniwo</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Inkohliso yewebhu ekrokrelekayo!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ukufaka naziphi na iinkcukacha kweli khasi kungakhokelela ekubiweni kwazo okanye kobunye ubuqhetseba.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengokufunyanwa kweenkcukacha ngobuqhetseba apho amakhasi ewebhu obuqhetseba neeimeyile zisetyenziswa njengezixhobo onokuzithemba..</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ezi ndidi zenkohliso zewebhu zisetyenziswa kwiqhinga elaziwa njengokufunyanwa kweenkcukacha ngobuqhetseba apho amakhasi ewebhu obuqhetseba neeimeyile zisetyenziswa njengezixhobo onokuzithemba..</p>">

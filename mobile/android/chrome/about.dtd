@@ -6,14 +6,14 @@
 <!ENTITY aboutPage.telemetryStart               " Ithumela inkcazelo ngokwayo engomsebenzi, ngehadiwe, ngokusetyenziswa nangoqhelaniso ">
 <!ENTITY aboutPage.telemetryMozillaLink         "I-&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ukuze ibe nokwenza i-&brandShortName; ngcono.">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
+<!ENTITY aboutPage.checkForUpdates.link         "Khangela iZihlaziyi »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
+<!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
+<!ENTITY aboutPage.checkForUpdates.found        "Uhlaziyo lukhona">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
-<!ENTITY aboutPage.privacyPolicy.label          "Malunga ne-&brandShortName;">
+<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.relNotes.label               "Khulula Iingongoma">
 <!ENTITY aboutPage.credits.label                "Amatyala">
 <!ENTITY aboutPage.license.label                "Inkcazelo yonikezelo lwephepha-mvume">

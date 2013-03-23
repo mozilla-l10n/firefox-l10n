@@ -10,16 +10,16 @@
 <!ENTITY aboutPage.support.label                "Inkxaso">
 <!ENTITY aboutPage.privacyPolicy.label          "Umgaqonkqubo Womba Wabucala">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.relNotes.label               "Khulula Iingongoma">
 <!ENTITY aboutPage.credits.label                "Amatyala">
-<!ENTITY aboutPage.checkForUpdates.button       "Check for Updates">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
+<!ENTITY aboutPage.checkForUpdates.button       "Khangela iZihlaziyi">
+<!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
+<!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
+<!ENTITY aboutPage.checkForUpdates.found        "Uhlaziyo lukhona">
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
 
 
-<!ENTITY aboutPage.licenseLink                  "Inkcazelo yonikezelo lwephepha-mvume ">
+<!ENTITY aboutPage.licenseLink                  "Inkcazelo yonikezelo lwephepha-mvume">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">

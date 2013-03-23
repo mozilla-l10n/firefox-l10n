@@ -6,7 +6,7 @@
 <!ENTITY aboutAddons.header2                    "Izongezelelo zakho">
 <!ENTITY aboutAddons.options                    "Ekunokukhethwa kuko">
 
-<!ENTITY addonAction.enable                     "Enable">
-<!ENTITY addonAction.disable                    "Disable">
+<!ENTITY addonAction.enable                     "Vumela">
+<!ENTITY addonAction.disable                    "Qhwalelisa">
 <!ENTITY addonAction.uninstall                  "Khupha okufakiweyo">
-<!ENTITY addonAction.undo                       "Undo">
+<!ENTITY addonAction.undo                       "Qhaqha okwenzileyo">

@@ -14,12 +14,12 @@
 <!ENTITY  crash_send_report_message "Thumela uMozilla ingxelo yokonakala">
 <!ENTITY  crash_include_url "quka idilesi yekhasi">
 <!ENTITY  crash_close_label "Vala">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
+<!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
 <!ENTITY  sending_crash_report "Ukuthumela ingxelo yokonakala\u2026">
 <!ENTITY  exit_label "Phuma">
 <!ENTITY  continue_label "Qhuba">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_title "i-&brandShortName; ii-Web Apps">
 <!ENTITY  launcher_shortcuts_empty "Akukho apps zifunyenweyo">
 
 <!ENTITY choose_file "Khetha ifayili">

@@ -13,7 +13,7 @@
 
 <!ENTITY sync.setup.title           "Nxibelelanisa kungqamaniso">
 <!ENTITY sync.setup.pair            "Ukwenza isebenze, khetha &#x0022;Beka isixhobo ngazibini&#x0022; kwezinye izixhobo zakho.">
-<!ENTITY sync.fallback              "Andikho kufutshane nekhompyutha yam...">
+<!ENTITY sync.fallback              "Andikho kufutshane nekhompyutha yam…">
 <!ENTITY sync.setup.manual          "Faka inkcazelo yeakhawunti yongqamaniso">
 <!ENTITY sync.account               "Igama Leakhawunti">
 <!ENTITY sync.password              "Igama lokugqithisa">
@@ -23,9 +23,9 @@
 <!ENTITY sync.setup.connect         "Nxibelela">
 <!ENTITY sync.setup.cancel          "Rhoxisa">
 <!ENTITY sync.setup.tutorial        "Ndibonise yenzeka njani">
-<!ENTITY sync.setup.waiting2        "Ilindele esinye isixhobo...">
+<!ENTITY sync.setup.waiting2        "Ilindele esinye isixhobo…">
 
 <!ENTITY sync.pair.title            "Beka isixhobo ngazibini">
-<!ENTITY sync.pair.description      "Ukwenza isixhobo esitsha sisebenze, khetha &#x0022;Seta ungqamaniso&#x0022;">
+<!ENTITY sync.pair.description      "Ukwenza isixhobo esitsha sisebenze, khetha &#x0022;Seta ungqamaniso&#x0022;.">
 <!ENTITY sync.setup.close           "Vala">
-<!ENTITY sync.setup.waitingdownload "Iingcombolo ziyakhutshelwa ngoku ngemva Ungayivala le festile nanini na.">
+<!ENTITY sync.setup.waitingdownload "Iingcombolo ziyakhutshelwa ngoku ngemva. Ungayivala le festile nanini na.">
