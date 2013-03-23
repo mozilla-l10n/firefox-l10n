@@ -36,8 +36,8 @@
 <!ENTITY openRecentMenu.label         "افتح الحديث">
 <!ENTITY openRecentMenu.accesskey     "د">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.label              "استرجع…">
+<!ENTITY revertCmd.accesskey          "س">
 
 <!ENTITY saveFileCmd.label            "احفظ">
 <!ENTITY saveFileCmd.accesskey        "ظ">
