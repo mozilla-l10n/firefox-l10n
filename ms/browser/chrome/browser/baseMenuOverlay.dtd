@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon">
 <!ENTITY helpSafeMode.accesskey   "M">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "M">
 

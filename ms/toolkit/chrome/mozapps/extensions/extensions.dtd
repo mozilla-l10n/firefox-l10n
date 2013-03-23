@@ -90,8 +90,8 @@
 <!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
 <!ENTITY cmd.disableTheme.accesskey           "B">
-<!ENTITY cmd.installAddon.label               "Install">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.label               "Pasang">
+<!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Singkir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
@@ -129,9 +129,9 @@ anda sendiri.">
 <!ENTITY detail.updateType                    "Kemaskini automatik">
 <!ENTITY detail.updateDefault.label           "Lalai">
 <!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik jika ianya secara asal">
-<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.label         "Hidupkan">
 <!ENTITY detail.updateAutomatic.tooltip       "Pasang kemas kini secara automatik">
-<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.label            "Matikan">
 <!ENTITY detail.updateManual.tooltip          "Jangan pasan kemas kini secara automatik">
 <!ENTITY detail.home                          "Homepage">
 <!ENTITY detail.repository                    "Profil add-on">

@@ -52,8 +52,8 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Sekali Lagi untuk meminta dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luat talian">
-<!ENTITY netOffline.longDesc2 "<ul>
-<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Tekan &quot;Try Again&quot; untuk menukar kepada mod dalam talian dan muat kembali laman.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
@@ -74,7 +74,8 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 
 <!ENTITY protocolNotFound.title "Alamat tidak difahami">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li>  </ul>">
+<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> 
+  </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 

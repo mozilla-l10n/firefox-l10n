@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "Sekat tetingkap pop-up">
+<!ENTITY  blockPopups.label           "Sekat tetingkap timbul">
 <!ENTITY  blockPopups.accesskey       "S">
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "e">
@@ -17,19 +17,19 @@
 <!ENTITY  advancedJS.label            "Lanjutan…">
 <!ENTITY  advancedJS.accesskey        "L">
 
-<!ENTITY  enableJava.label            "Bolehkan Java">
+<!ENTITY  enableJava.label            "Hidupkan Java">
 <!ENTITY  enableJava.accesskey        "n">
 
 
 <!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 
-<!ENTITY  defaultFont.label           "Fon Default:">
-<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultFont.label           "Fon asal:">
+<!ENTITY  defaultFont.accesskey       "a">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Lanjutan...">
-<!ENTITY  advancedFonts.accesskey     "u">
+<!ENTITY  advancedFonts.accesskey     "a">
 
 <!ENTITY  colors.label                "Warna...">
 <!ENTITY  colors.accesskey            "W">
@@ -38,4 +38,4 @@
 <!ENTITY languages.label              "Bahasa">
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
 <!ENTITY chooseButton.label           "Pilih...">
-<!ENTITY chooseButton.accesskey       "P">
+<!ENTITY chooseButton.accesskey       "i">

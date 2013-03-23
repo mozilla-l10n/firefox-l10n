@@ -4,9 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  Laman ini menunjukkan kemampuan dan ciri-ciri boleh guna pada data yang diambil oleh Telemetry. 
-Informasi ini telah dihantar tidak dikenali kepada Mozilla untuk membantu penambahbaikan &brandShortName; . ">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry ialah <span>dipasang</span> . ">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.">
@@ -22,6 +19,10 @@ Informasi ini telah dihantar tidak dikenali kepada Mozilla untuk membantu penamb
 <!ENTITY aboutTelemetry.histogramsSection "Hikstogram">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
+
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
 
 <!ENTITY aboutTelemetry.systemInfoSection "Sistem Informasi">
 
