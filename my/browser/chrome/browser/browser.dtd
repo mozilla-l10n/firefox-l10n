@@ -58,36 +58,36 @@ can reach it easily. -->
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "vပရင့်အစမ်းမြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "ပုံနှိုပ်ပါ...">
+<!ENTITY printCmd.label "Pပုံနှိပ်...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "ချိတ်ဆက်မဲ့ လုပ်ဆောင်ပါ">
+<!ENTITY goOfflineCmd.label "kချိတ်ဆက်မဲ့ သုံး">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "မီနူးစာရင်း">
 <!ENTITY menubarCmd.accesskey "မ">
-<!ENTITY navbarCmd.label "ကူးသန်းရန် ခလုတ်တမ်း">
+<!ENTITY navbarCmd.label "Nကူးသန်းရန် ခလုတ်တမ်း">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "မှတ်သားချက်များ ခလုတ်တန်း">
+<!ENTITY personalbarCmd.label "Bမှတ်သားချက်များ ခလုတ်တန်း">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
 <!ENTITY addonBarCmd.label "အတ်အွန်ဘား">
 <!ENTITY addonBarCmd.accesskey "အ">
 
-<!ENTITY pageSourceCmd.label "စာမျက်နှာ အရင်းအမြစ်">
+<!ENTITY pageSourceCmd.label "Page Source">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "စာမျက်နှာ အချက်အလက်">
+<!ENTITY pageInfoCmd.label "Page Info">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "ဖန်သားပြင်အပြည့် ကိုနှိပ်ပါ">
+<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "ဖန်သားပြင်အပြည့်မှ ထွက်ပါ">
+<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "မျက်နှာပြင် အပြည့်">
+<!ENTITY fullScreenCmd.label "Full Screen">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f ">
 <!ENTITY showAllTabsCmd.label "ဖွင့်လက်စ စာမျက်နှာအားလုံးကိုပြပါ။">
@@ -184,14 +184,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Kအဓိကစာလုံးတစ်လုံးရိုက်ထည့်ရှာ...">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "ကွန်ရက် ရှာဖွေပါ">
+<!ENTITY search.label                 "Sဝတ်တွင်ရှာ">
 <!ENTITY search.accesskey             "S">
-<!ENTITY downloads.label              "ဆွဲချချက်များ">
+<!ENTITY downloads.label              "Dဒေါင်းလုဒ်ရယူမှူများ">
 <!ENTITY downloads.tooltip            "ဆွဲချနေမှုများ တိုးတက်တဲ့ အနေအထားကို ပြသပါ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "ပေါင်းထည့် ဆော့ဗ်ဝဲများ">
+<!ENTITY addons.label                 "Aအတ်အွန်များ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l ">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်း">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ထိုစာမျက်နှာသို့ပြောင်းကြည့်မည်။">
 <!-- 
@@ -349,35 +349,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "အချိတ်အဆက်ကို စာအမှတ်သစ်မှာ ဖွင့်ပါ">
+<!ENTITY openLinkCmdInTab.label       "အချိတ်အဆက်ကို Tစာအမှတ်သစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "အချိတ်အဆက်ကို ‌ဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
+<!ENTITY openLinkCmd.label            "အချိတ်အဆက်ကို ‌Wဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "အချိတ်အဆက်ကို ‌P ဝင်းဒိုးသစ်မှာ ဖွင့်ပါ">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "လိပ်စာအားဖွင့်ပါ။">
 <!ENTITY openLinkCmdInCurrent.accesskey "လ">
-<!ENTITY openFrameCmdInTab.label      "ဘောင်ကို စာအမှတ်သစ်မှာ ဖွင့်ပါ">
+<!ENTITY openFrameCmdInTab.label      "Tဘောင်ကို စာအမှတ်သစ်မှာ ဖွင့်ပါ">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Wဝင်းဒိုးအသစ်တွင်ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY showOnlyThisFrameCmd.label     "ဒီဘောင်ကိုပဲ ပြပါ">
+<!ENTITY showOnlyThisFrameCmd.label     "Sဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "ဘောင်ကို ပြန်ဖွင်ပါ">
+<!ENTITY reloadFrameCmd.label         "Rဘောင်ကို ပြန်ဖွင်ပါ">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ရွေးထားချက် အရင်းအမြစ်ကို ရှုမြင်ပါ">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML အရင်းအမြစ်ကို ရှုမြင်ပါ">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "စာမျက်နှာ အရင်းအမြစ်ကို ရှုမြင်ပါ">
+<!ENTITY viewPageSourceCmd.label      "View Page Source">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "ဘောင် အရင်းအမြစ်ကို ရှုမြင်ပါ">
+<!ENTITY viewFrameSourceCmd.label     "View Frame Source">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "စာမျက်နှာ အချက်အလက်ကို ရှုမြင်ပါ">
+<!ENTITY viewPageInfoCmd.label        "View Page Info">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "ဘောင် အချက်အလက်ကို ရှုမြင်ပါ">
+<!ENTITY viewFrameInfoCmd.label       "View Frame Info">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "ရုပ်ပုံကို ပြန်ဖွင့်ပါ">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -399,16 +399,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "အီးမေးလ် လင့်...">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "စာမျက်နှာ သိမ်းဆည်းမဲ့ ပုံစံ...">
+<!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "ဘောင် ‌သိမ်းဆည်းမဲ့ ပုံစံ">
+<!ENTITY saveFrameCmd.label           "Save Frame As…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "ဘောင်ကို ပုံနှိုပ်ပါ ...">
+<!ENTITY printFrameCmd.label          "Print Frame…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "အချိတ်အဆက် ‌သိမ်းဆည်းမဲ့ ပုံစံ...">
+<!ENTITY saveLinkCmd.label            "Save Link As…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ရုပ်ပုံ သိမ်းဆည်းမဲ့ ပုံစံ...">
 <!ENTITY saveImageCmd.accesskey       "v">
@@ -422,9 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "အသံဖိုင်အားမေလ်းပို့မည်...">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.label          "c ယခု ဖြည့်စွက် ပရိုဂရမ် ကို အသက်သွင်းစေ">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.label          "H ယခု ဖြည့်စွက်ပရိုဂရမ် ကို ဖုံးကွယ်">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "အချိတ်အဆက် တည်နေရာ ကူးယူပါ">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -632,4 +632,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "သင်လောလောဆယ် ရုပ်မြင်ကင်မရာနှင့် မိုက်ကရိုဖုန်းမျှပေးထားသော ဆိုဒ်များအား ပြမည် ">
 
 <!ENTITY mixedContentBlocked.helplink "Learn more">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">

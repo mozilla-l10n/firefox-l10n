@@ -19,9 +19,9 @@
 <!ENTITY certmgr.cas                          "ဒီလက်မှတ်ရ အာဏာပိုင်များကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
 <!ENTITY certmgr.orphans                      "အခြား မျိုးကွဲများ တခုခုနဲ့ မကိုက်ညီတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
 
-<!ENTITY certmgr.detail.general_tab.title     "အထွေထွေ">
+<!ENTITY certmgr.detail.general_tab.title     "Gအထွေထွေ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "အသေးစိတ်များ">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Dအသေးစိတ်">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "လောလောဆယ် အတည်ပြုနေတဲ့ လက်မှတ်...">
@@ -68,15 +68,15 @@
 <!ENTITY certmgr.email                        "အီးမေးလ် လိပ်စာ">
 <!ENTITY certmgr.serial                       "အစဉ်လိုက် အမှတ်စဉ်">
 
-<!ENTITY certmgr.close.label                  "ပိတ်ပါ ">
+<!ENTITY certmgr.close.label                  "Cပိတ် ">
 <!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "ရှုမြင်ပါ...">
-<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.view2.label                  "ကြည့်...">
+<!ENTITY certmgr.view2.accesskey              "က">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA စိတ်ချမှုကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editca.accesskey             "C">
-<!ENTITY certmgr.add.label                    "ပေါင်းထည့်ပါ">
+<!ENTITY certmgr.add.label                    "Aပေါင်း">
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Export...">
 <!ENTITY certmgr.export.accesskey             "x">

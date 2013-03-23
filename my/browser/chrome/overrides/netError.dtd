@@ -52,9 +52,11 @@ that &brandShortName; is permitted to access the Web.</li>
 <!ENTITY notCached.longDesc "<p>တောင်းဆိုထားသောဒေါ့ကုမန့်သည် &brandShortName;၏ခေတ္တသိမ်းမှတ်ဉာဏ်ထဲတွင်မရှိတော့ပါ</p><ul><li>လုံခြုံရေးကာကွယ်မှူအရ &brandShortName; သည် အချို့သောဒေါ့ကုမန့်များအားသိမ်းထားလေ့မရှိပါ.</li><li>ဝတ်ဆိုဒ်မှပြန်လည်တောင်းဆိုရန်အတွက် နောက်ထပ် ကိုနှိပ်ပါ။</li></ul>">
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
 <!ENTITY contentEncodingError.longDesc "<ul> 
