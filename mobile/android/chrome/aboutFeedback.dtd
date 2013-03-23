@@ -8,7 +8,6 @@
 <!ENTITY intro.message             "Dites-nous ce que vous pensez jusque-là de &brandShortName; pour Android.">
 <!ENTITY intro.happyLink           "Je l'adore">
 <!ENTITY intro.sadLink             "Je rencontre quelques problèmes">
-<!ENTITY intro.ideaLink            "J'ai une idée">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -35,15 +34,6 @@
      strings will appear as separate paragraphs but make up one message. -->
 <!ENTITY sad.thanksMessageTop      "Nous travaillons sans relâche pour améliorer &brandShortName;. Soyez assurés que des êtres humains vont lire votre retour et faire leur maximum pour résoudre votre problème.">
 <!ENTITY sad.thanksMessageBottom   "Ou sinon.">
-
-<!ENTITY idea.message              "Nous adorons écouter vos idées ! Partagez vos pensées ci-dessous. (Juste celles qui concernent &brandShortName;, s'il vous plaît.)">
-<!ENTITY idea.placeholder          "Rédigez votre idée ici">
-<!ENTITY idea.thanksHeader         "Merci !">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageTop, idea.thanksMessageBottom): These two
-     strings will appear as separate paragraphs but make up one message. -->
-<!ENTITY idea.thanksMessageTop     "Nous apprécions que vous preniez le temps de partager vos idées. Nous travaillons sans relâche pour améliorer &brandShortName; et les contributions comme la vôtre peuvent conduire à de grandes choses.">
-<!ENTITY idea.thanksMessageBottom  "Vous ne pouvez pas le voir, mais en ce moment même nous vous donnons une tape de la main pour vous remercier.">
 
 <!ENTITY feedback.privacy          "Afin de préserver votre vie privée, veuillez ne pas inclure d'informations personnelles identifiables dans votre retour.">
 <!ENTITY feedback.send             "Envoyer le retour">
