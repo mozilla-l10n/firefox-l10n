@@ -3,94 +3,94 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "&brandShortName; அமைக்கப்படுகிறது">
+<!ENTITY  splash_bookmarks_history "நாங்கள் உங்கள் புத்தககுறிகளையும் வரலாற்றையும் புதுபிக்கிறோம், இது சுமார் ஒரு நிமிடம் ஆகலாம்.">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "&brandShortName;ஐ துவங்க போதிய காலி இடம் இல்லை.">
+<!ENTITY  error_loading_file "&brandShortName;ஐ இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_all_pages_title "முதன்மையான தளங்கள்">
 <!ENTITY  awesomebar_bookmarks_title "புத்தகக்குறிகள்">
 <!ENTITY  awesomebar_history_title "வரலாறு">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  crash_reporter_title "&brandShortName; சிதைவு அறிக்கையாளர்">
+<!ENTITY  crash_message "&brandShortName; சிதைவடைந்துள்ளது. &brandShortName;ஐ மறுதுவங்கும் போது உங்கள் தத்தல்கள் துவக்கப் பக்கத்தில் பட்டியலிடப்பட்டுருக்கும்.">
+<!ENTITY  crash_help_message "இந்த பிரச்னையை தீர்க்க எங்களுக்கு உதவுங்கள்!">
+<!ENTITY  crash_send_report_message "மொசில்லாவிற்கு ஒரு சிதைவு அறிக்கை அனுப்பு">
+<!ENTITY  crash_include_url "பக்க முகவரியை சேர்">
+<!ENTITY  crash_close_label "மூடு">
+<!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
+<!ENTITY  sending_crash_report "சிதைவு அறிக்கை அனுப்பப்படுகிறது\u2026">
 <!ENTITY  exit_label "வெளியேறு">
 <!ENTITY  continue_label "தொடரவும்">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; வலை நிரலிகள்">
+<!ENTITY  launcher_shortcuts_empty "எந்த வலை நிரலிகளும் காணப்படவில்லை">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "கோப்பினை தேர்வு செய்">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "தேடு அல்லது முகவரியை உள்ளிடு">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "ஒத்திசைக்கப்பட்ட தத்தல்கள்">
+<!ENTITY remote_tabs_show_all "அனைத்து தத்தல்களையும் காட்டு">
 
 <!ENTITY bookmark "புத்தகக்குறி">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_added "புத்தகக்குறி சேர்க்கப்பட்டது">
+<!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
+<!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
 
 <!ENTITY history_today_section "இன்று">
 <!ENTITY history_yesterday_section "நேற்று">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "7 நாட்களுக்கு முன்">
+<!ENTITY history_older_section "7 நாட்களுக்கும் பழமையானது">
 
 <!ENTITY go "Go">
-<!ENTITY search "Search">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
+<!ENTITY search "தேடு">
+<!ENTITY reload "மீளேற்று">
+<!ENTITY forward "முன்னால்">
 <!ENTITY menu "மெனு">
 <!ENTITY back "பின்னோக்கு">
-<!ENTITY stop "Stop">
+<!ENTITY stop "நிறுத்து">
 <!ENTITY site_security "Site Security">
 
-<!ENTITY close_tab "Close Tab">
+<!ENTITY close_tab "தத்தலை மூடவும்">
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "New tab opened">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
+<!ENTITY settings "அமைப்புகள்">
+<!ENTITY settings_title "அமைப்புகள்">
+<!ENTITY pref_category_general "பொது">
 <!ENTITY pref_category_privacy "Privacy &amp; Security">
 <!ENTITY pref_category_content "உள்ளடக்கம்">
 <!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
 <!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY pref_telemetry "செயல்திறன் தரவைச் சமர்ப்பி">
+<!ENTITY pref_remember_signons "கடவுச்சொற்களை நினைவில் வைத்திரு">
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
-<!ENTITY pref_char_encoding "Character encoding">
+<!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Clear private data">
+<!ENTITY pref_char_encoding_off "பட்டியலை காட்ட வேண்டாம்">
+<!ENTITY pref_clear_private_data "தனிபயன் தரவை நீக்கவும்">
 <!ENTITY pref_plugins "செருகுநிரல்கள்">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_plugins_enabled "செயல்படுத்தப்பட்டது">
+<!ENTITY pref_plugins_tap_to_play "இயக்க தட்டவும்">
+<!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
+<!ENTITY pref_text_size "உரை அளவு">
+<!ENTITY pref_reflow_on_zoom2 "உரையை சீராக்க கிள்ளவும்">
+<!ENTITY pref_font_size_tiny "நுண்ணிய">
+<!ENTITY pref_font_size_small "சிறிய">
+<!ENTITY pref_font_size_medium "நடுத்தரம்">
+<!ENTITY pref_font_size_large "பெரிய">
+<!ENTITY pref_font_size_xlarge "மிகப் பெரிய">
 <!ENTITY pref_font_size_set "Set">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -103,42 +103,42 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
 <!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "ஒத்திசை">
-<!ENTITY pref_search_suggestions "Show search suggestions">
+<!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_history "உலாவும் &amp; பதிவிறக்க வரலாறு">
+<!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
+<!ENTITY pref_private_data_cache "இடையகம்">
+<!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
+<!ENTITY pref_private_data_siteSettings "இணையதள முன்னுரிமைகள்">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload "தானியாக்க புதுப்பித்தல்கள்">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload_disabled "முடக்கப்பட்டது">
+<!ENTITY pref_update_autodownload_enabled "செயல்படுத்தப்பட்டது">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "வெளியேறு">
 
-<!ENTITY addons "Add-ons">
+<!ENTITY addons "கூடுதல் இணைப்புகள்">
 <!ENTITY downloads "பதிவிறக்கங்கள்">
-<!ENTITY apps "Apps">
+<!ENTITY apps "நிரலிகள்">
 <!ENTITY char_encoding "எழுத்து குறிமுறை">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY tools "Tools">
+<!ENTITY share "பகிர்">
+<!ENTITY share_title "இதன்வழியாக பகிரவும்">
+<!ENTITY share_image_failed "இந்த படத்தை பகிரமுடியவில்லை">
+<!ENTITY save_as_pdf "பிடிஎப் ஆக செமி">
+<!ENTITY find_in_page "பக்கத்தில் கண்டுபிடி">
+<!ENTITY desktop_mode "கணினி தளத்தை வேண்டு">
+<!ENTITY tools "கருவிகள்">
 <!ENTITY new_tab "புதிய தத்தல்">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY new_private_tab "புதிய தனிப்பயன் தத்தல்">
+<!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
 <!ENTITY tabs_normal "தத்தல்கள்">
 <!ENTITY tabs_private "Private">
 <!ENTITY tabs_synced "Synced">
@@ -149,62 +149,62 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
+<!ENTITY find_prev "முந்தையது">
+<!ENTITY find_next "அடுத்து">
 <!ENTITY find_close "Close">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
+<!ENTITY contextmenu_open_new_tab "புதிய தத்தலில் திறக்கவும்">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Open in Reader">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
+<!ENTITY contextmenu_remove_history "நீக்கு">
+<!ENTITY contextmenu_remove_bookmark "நீக்கு">
+<!ENTITY contextmenu_add_to_launcher "முகப்பு திரையில் சேர்">
+<!ENTITY contextmenu_share "பகிர்">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "ஒட்டு">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_copyurl "முகவரியை  நகல் எடு">
+<!ENTITY contextmenu_edit_bookmark "திருத்து">
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY history_removed "பக்கம் நீக்கப்பட்டது">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_title "புத்தகக்குறியை திருத்து">
 <!ENTITY bookmark_edit_name "பெயர்">
 <!ENTITY bookmark_edit_location "இடம்">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
 
-<!ENTITY site_settings_title2       "Site Settings…">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_title2       "தள அமைப்புகள்...">
+<!ENTITY site_settings_cancel       "ரத்துசெய்">
+<!ENTITY site_settings_clear        "துடை">
+<!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை">
 
-<!ENTITY reading_list "Reading List">
+<!ENTITY reading_list "படிக்கும் பட்டியல்">
 <!ENTITY reading_list_added "Page added to your Reading List">
 <!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reader "Reader">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_create_title "முதன்மை கடவுச்சொல்லை அமை">
 <!ENTITY masterpassword_remove_title "முதன்மை கடவுச்சொல் நீக்கு">
 <!ENTITY masterpassword_password "கடவுச்சொல்">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_confirm "கடவுச்சொல்லை உறுதிசெய்">
 
 <!ENTITY button_ok "சரி">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "ரத்துசெய்">
 <!ENTITY button_yes "ஆம்">
 <!ENTITY button_no "இல்லை">
 <!ENTITY button_clear_data "Clear data">
 <!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_clear "துடை">
 
 <!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
 <!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
 <!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
+<!ENTITY abouthome_top_sites_title "முதன்மையான தளங்கள்">
+<!ENTITY abouthome_topsites_edit "திருத்து">
+<!ENTITY abouthome_topsites_pin "தளத்தை சொருகு">
+<!ENTITY abouthome_topsites_unpin "தளத்தை சொருகல் நீக்கு">
+<!ENTITY abouthome_topsites_remove "நீக்கு">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -220,9 +220,9 @@ size. -->
 <!ENTITY abouthome_sync_bold_name "Firefox ஒத்திசைவு">
 <!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
-<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_title "கோப்பினை தேர்வு செய்">
 <!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_image_title "தேர்ந்தெடு அல்லது ஒரு படத்தை எடு">
 <!ENTITY filepicker_video_title "Choose or record a video">
 <!-- Site identity popup -->
 
@@ -243,14 +243,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Private data cleared">
 <!ENTITY private_data_fail "Some private data could not be cleared">
 
-<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_button_import "இறக்கு">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
                                       from Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
                                            from Android">
 <!ENTITY bookmarkhistory_import_history "Importing history
                                          from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_import_wait "தயவு செய்து காத்திருக்கவும்...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
@@ -258,16 +258,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webapp_generic_name "App">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_title2 "&brandShortName;இற்கு புதுபித்தல் கிடைக்கிறது">
+<!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
 
 <!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_title_failed2 "பதிவிறக்கம் தோல்வியடைந்தது">
 <!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
 
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Touch to update">

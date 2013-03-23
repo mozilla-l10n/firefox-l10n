@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY prefsHeader.label                         "விருப்பங்கள்">
-<!ENTITY about.title                               "About &brandShortName;">
+<!ENTITY about.title                               "&brandShortName;ஐ பற்றி">
 <!ENTITY about.button                              "Go to Page">
 <!ENTITY content.title                             "உள்ளடக்கம்">
 <!ENTITY reflowZoom.title                          "Reformat text on zoom">
 <!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
+<!ENTITY enableJavaScript.title                    "JavaScriptஐ செயல்படுத்து">
 <!ENTITY privacy.title                             "Privacy &amp; Security">
 <!ENTITY allowCookies.title                        "Allow cookies">
 <!ENTITY doNotTrack.title                          "Tell sites not to track me">
-<!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY masterPassword.title                      "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
+<!ENTITY clearPrivateData2.title                   "தனிபயன் தரவை நீக்கவும்">
 <!ENTITY clearPrivateData.button                   "துடை">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY rememberPasswords.title                   "கடவுசொல்லை நினைவுப்படுத்து">
+<!ENTITY language.title                            "மொழி">
+<!ENTITY language.auto                             "தானாக கண்டறி">
 <!ENTITY defaultBrowser.title                      "இயல்பான உலாவி">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
+<!ENTITY defaultBrowser.description                "&brandShortName; ஐ உங்கள் முன்னிருப்பு உலாவியாக்கவும்">
 <!ENTITY homepage.title                            "Start page">
 <!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
+<!ENTITY homepage.default                          "&brandShortName; துவக்கம்">
+<!ENTITY homepage.currentpage                      "நடப்பு பக்கத்தை பயன்படுத்து">
 <!ENTITY showCharsetEncoding.title                 "Show character encoding">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
+<!ENTITY actionbar.default                         "&brandShortName; அமைப்புகள்">

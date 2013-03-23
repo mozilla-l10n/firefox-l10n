@@ -52,18 +52,14 @@
 ">
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> 
+</ul>">
 
 <!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -137,5 +133,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>இந்த பிரச்னையை தெரியபடுத்த வலைதள உரிமையாளரை தொடர்புகொள்ளவும்.</li></ul></p>">
 

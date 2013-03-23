@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "brandShortName ஐ தயார்செய்யப்படுகிறது;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "&brandShortName;ஐ துவங்க போதிய காலி இடம் இல்லை.">
+<!ENTITY  error_loading_file "&brandShortName;ஐ இயக்க தேவையான கோப்புகளை ஏற்றும்போது ஒரு பிழை ஏற்பட்டுள்ளது">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  crash_reporter_title "&brandShortName; விழ்ச்சி அறிவிப்பாளர்">
+<!ENTITY  crash_message "&brandShortName; விழ்ச்சியடைந்தது. நீங்கள் மறுதுவக்கும் போது உங்கள் தத்தல்கள் &brandShortName;இன் துவங்க பக்கத்தில் பட்டியலிடப்பட்டுருக்கவேண்டும்.">
+<!ENTITY  crash_help_message "இந்த பிரச்சனையை சரி செய்வதற்கு உதவுங்கள்!">
+<!ENTITY  crash_send_report_message "மொசில்லாவிற்கு ஒரு விழ்ச்சி அறிக்கையை அனுப்பு">
+<!ENTITY  crash_include_url "பக்க முகவரியை சேர்த்துக்கொள்">
+<!ENTITY  crash_close_label "மூடு">
+<!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
+<!ENTITY  sending_crash_report "விழ்ச்சி அறிக்கை அனுப்பப்படுகிறது\u2026">
 <!ENTITY  exit_label "வெளியேறு">
 <!ENTITY  continue_label "தொடரவும்">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; வலை செயலிகள்">
+<!ENTITY  launcher_shortcuts_empty "எந்த வலை செயலியும் காணப்படவில்லை">
 
 <!ENTITY choose_file "கோப்பினை தேர்வு செய்">

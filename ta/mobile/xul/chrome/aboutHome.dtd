@@ -9,7 +9,7 @@
 <!ENTITY aboutHome.giveFeedback                 "Give Feedback">
 <!ENTITY aboutHome.getHelp                      "Get Help">
 <!ENTITY aboutHome.footerWidth                  "10em">
-<!ENTITY aboutHome.openAllTabs                  "Open all in tabs">
+<!ENTITY aboutHome.openAllTabs                  "அனைத்தையும் தத்தல்களில் திற">
 <!ENTITY aboutHome.noTabs                       "No tabs from last time">
 <!ENTITY aboutHome.noAddons                     "No recommended add-ons">
 <!ENTITY aboutHome.getLocale                    "Change Language">
@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora  "Download Aurora">
+<!ENTITY aboutHome.downloadAurora  "Auroraவை பதிவிறக்கு">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->

@@ -24,6 +24,6 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "இந்த இணைய தளம் <span id='malware_sitename'/> இல் தாக்கப்பட்டுள்ள தளம் என அறிக்கையிடப்பட்டுள்ளது மற்றும் உங்கள் பாதுகாப்பு முன்னுரிமையைக் கொண்டு தடுக்கப்பட்டுள்ளது.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>தாக்கப்பட்ட தளங்கள் நிரல்களை நிறுவி தனிப்பட்ட தகவல்களை திருடும், உங்கள் கணினியை பயன்படுத்தி மற்றவர்களை தாக்கும் அல்லது உங்கள் கணினியை சேதப்படுத்தும்.</p><p>சில தாக்குதல் வேண்டுமென்றே பாதிப்படைய செய்யும் மென்பொருளை விநியோகிக்கும், ஆனால் சில உரிமையாளரின் அனுமதியில்லாமல் செயல்படும்.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Suspected Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title2 "சந்தேகப்படதக்க இணைய மோசடி!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "இந்த வகை இணைய மோசடிகள் ஃபிஷிங் தாக்குதல் எனப்படுகிறது, அதாவது நம்பகமான இணைய பக்கம் அல்லது மின்னஞ்சல்கள் போலவே ஜோடிக்கப்படும்.">
