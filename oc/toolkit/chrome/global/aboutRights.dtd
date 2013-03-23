@@ -42,7 +42,7 @@
 
 <!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
 <!ENTITY rights.intro-point4b-unbranded "Servicis de sites Web">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4c-unbranded " seccion.">
 
 <!ENTITY rights2.webservices-header "Servicis d'informacions Web de &brandFullName;">
 <!-- Note that this paragraph references a couple of entities from
@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; utiliza de servicis d'informacions Web (&quot;Los Servicis&quot;) per provesir certanas de las foncionalitats que son mesas a vòstra disposicion dins aquesta version binària de &brandShortName; coma descrich çaijós. Se volètz pas utilizar un o l'autre d'aqueles Servicis o se vos sembla que las modalitats çaijós son pas acceptablas, podètz desactivar la foncionalitat o lo Servici. Per aquò far, consultatz aquelas ">
+<!ENTITY rights2.webservices-a "&brandFullName; utiliza de servicis d&apos;informacions Web (&quot;Los Servicis&quot;) per provesir certanas de las foncionalitats que son mesas a vòstra disposicion dins aquesta version binària de &brandShortName; coma descrich çaijós. Se volètz pas utilizar un o l&apos;autre d&apos;aqueles Servicis o se vos sembla que las modalitats çaijós son pas acceptablas, podètz desactivar la foncionalitat o lo Servici. ">
 <!ENTITY rights2.webservices-b "instruccions">
 <!ENTITY rights2.webservices-c " que descrivon lo biais de desactivar un Servici o una foncionalitat en particular.">
 <!-- safe browsing points for branded builds -->
