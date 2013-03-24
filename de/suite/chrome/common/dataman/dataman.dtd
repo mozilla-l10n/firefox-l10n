@@ -11,7 +11,7 @@
 <!ENTITY select.permissions.label "Nur Berechtigungen">
 <!ENTITY select.preferences.label "Nur Einstellungen">
 <!ENTITY select.passwords.label "Nur Passwörter">
-<!ENTITY select.storage.label "Storage only">
+<!ENTITY select.storage.label "Nur Speicher">
 
 <!ENTITY domain.search.placeholder "Domains durchsuchen">
 <!ENTITY domain.search.key "f">
@@ -29,7 +29,7 @@
 <!ENTITY tab.permissions.label "Berechtigungen">
 <!ENTITY tab.preferences.label "Einstellungen">
 <!ENTITY tab.passwords.label "Passwörter">
-<!ENTITY tab.storage.label "Storage">
+<!ENTITY tab.storage.label "Speicher">
 <!ENTITY tab.formdata.label "Formulardaten">
 <!ENTITY tab.forget.label "Vergessen">
 
@@ -107,19 +107,19 @@
 <!ENTITY pwd.button.remove.accesskey "E">
 
 <!-- storage -->
-<!ENTITY storage.description "This domain uses the following web storages on your computer:">
+<!ENTITY storage.description "Diese Domain verwendet die folgenden Web-Speicher auf Ihrem Computer:">
 
 <!ENTITY storage.tree.host.label "Website">
-<!ENTITY storage.tree.type.label "Type">
-<!ENTITY storage.tree.size.label "Size">
+<!ENTITY storage.tree.type.label "Typ">
+<!ENTITY storage.tree.size.label "Größe">
 
-<!ENTITY storage.ctx.remove.label "Remove">
-<!ENTITY storage.ctx.remove.accesskey "R">
-<!ENTITY storage.ctx.selectAll.label "Select All">
+<!ENTITY storage.ctx.remove.label "Entfernen">
+<!ENTITY storage.ctx.remove.accesskey "E">
+<!ENTITY storage.ctx.selectAll.label "Alles auswählen">
 <!ENTITY storage.ctx.selectAll.accesskey "A">
 
-<!ENTITY storage.button.remove.label "Remove">
-<!ENTITY storage.button.remove.accesskey "R">
+<!ENTITY storage.button.remove.label "Entfernen">
+<!ENTITY storage.button.remove.accesskey "E">
 
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Felddaten durchsuchen">
@@ -147,7 +147,7 @@
 <!ENTITY forget.preferences.accesskey "E">
 <!ENTITY forget.passwords.label "Passwörter">
 <!ENTITY forget.passwords.accesskey "P">
-<!ENTITY forget.storage.label "Storage">
+<!ENTITY forget.storage.label "Speicher">
 <!ENTITY forget.storage.accesskey "S">
 <!ENTITY forget.formdata.label "Formulardaten">
 <!ENTITY forget.formdata.accesskey "F">
