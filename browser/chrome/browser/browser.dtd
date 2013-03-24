@@ -188,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Pokreni Privatno pretraživanje">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "Zaustavi Privatno pretraživanje">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "Z">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Pogled"> 
@@ -214,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder2          "Pretražite ili upišite adresu">
 <!ENTITY urlbar.accesskey             "r">
 
 <!-- 
@@ -314,6 +311,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
 <!ENTITY emailPageCmd.accesskey       "e">
 
+<!ENTITY playPluginCmd.label          "Aktiviraj ovaj priključak">
+<!ENTITY playPluginCmd.accesskey      "k">
+<!ENTITY hidePluginCmd.label          "Sakrij ovaj priključak">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Kopiraj lokaciju poveznice">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopiraj lokaciju slike">
@@ -449,11 +450,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Više informacija…">
 
-<!ENTITY allTabs.filter.emptyText "Kartice pretraživanja">
-
-
-
-
 <!ENTITY tabsToolbar.label "Kartice preglednika">
 
 <!ENTITY addonBarCmd.label "Traka dodataka">
@@ -484,7 +480,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
 <!ENTITY bookmarksMenuButton.tooltip        "Prikazuje sve zabilješke">
 <!ENTITY bookmarksMenuButton.unsorted.label "Neorganizirane zabilješke">
-<!ENTITY clearRecentHistory.accesskey           "v">
 <!ENTITY clearRecentHistory.label               "Obriši nedavnu povijest…">
 
 <!ENTITY  closeOtherTabs.label               "Zatvori ostale kartice">
@@ -577,7 +572,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY zoomInButton.tooltip           "Umanji">
 <!ENTITY zoomControls.label             "Zumiranje">
 
-<!ENTITY urlbar.placeholder           "Idi na web stranicu">
 <!ENTITY urlbar.switchToTab.label     "Prebaci na karticu:">
 
 <!ENTITY videoFullScreen.label       "Cijeli zaslon">
@@ -626,3 +620,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Pristup kameri/mikrofonu">
 <!ENTITY webrtcIndicatorButton.tooltip "Prikaži stranice s kojima se trenutno dijele kamera ili mikrofon">
+
+<!ENTITY mixedContentBlocked.helplink "Saznajte više">
+<!ENTITY mixedContentBlocked.moreinfo "Većina web stranica će nastaviti ispravno raditi čak i ako je ova vrsta sadržaja isključena.">
