@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "Napomena: akcije filtera će biti pokrenute drugačijim redoslijedom.">
+<!ENTITY filterActionOrder.label "Prikaži redoslijed izvršavanja">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Premjesti poruku u">
 <!ENTITY copyMessage.label "Kopiraj poruku u">
