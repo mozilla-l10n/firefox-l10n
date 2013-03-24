@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Innkomande tenar:">
 <!ENTITY incomingServer.accesskey "t">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Skriv inn innkomande brukarnamn som vart gitt til deg av e-posttilbydaren (til dømes «onordmann»).">
+<!ENTITY incomingUsername.description "Skriv inn innkomande brukarnamn som vart gjeve til deg av e-posttilbydaren (til dømes «onordmann»).">
 <!ENTITY incomingUsername.label "Brukarnamn:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -72,7 +72,7 @@
 <!ENTITY outgoingServer.description "Skriv inn namnet på den utgåande tenaren (SMTP) (til dømes «smtp.eksempel.net»).">
 <!ENTITY outgoingServer.label "Utgåande tenar:">
 <!ENTITY outgoingServer.accesskey "U">
-<!ENTITY outgoingUsername.description "Skriv inn det utgåande brukarnamnet gitt til deg av e-posttilbydaren (dette er vanlegvis det same som innkomande brukarnamn).">
+<!ENTITY outgoingUsername.description "Skriv inn det utgåande brukarnamnet gjeve til deg av e-posttilbydaren (dette er vanlegvis det same som innkomande brukarnamn).">
 <!ENTITY outgoingUsername.label "Utgåande brukarnamn">
 <!ENTITY outgoingUsername.accesskey "n">
 

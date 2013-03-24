@@ -9,13 +9,13 @@
 <!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
 
 <!ENTITY deleteAddrBookCard.label           "Slett">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY deleteAddrBookCard.accesskey       "S">
 <!ENTITY addrBookCardProperties.label       "Eigenskapar">
-<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addrBookCardProperties.accesskey   "E">
 <!ENTITY addtoToFieldMenu.label             "Legg til i Til-feltet">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoToFieldMenu.accesskey         "L">
 <!ENTITY addtoCcFieldMenu.label             "Legg til i Kopi-feltet">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.accesskey         "K">
 <!ENTITY addtoBccFieldMenu.label            "Legg til i Blindkopi-feltet">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 
