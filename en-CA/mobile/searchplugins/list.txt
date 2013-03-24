@@ -1,0 +1,4 @@
+amazon-en-GB
+google
+twitter
+wikipedia
