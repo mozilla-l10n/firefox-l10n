@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Ponavljanje:" >
 <!ENTITY event.repeat.accesskey                           "j">
+<!ENTITY event.until.label                                "Do:">
+<!ENTITY event.until.accesskey                            "o">
 <!ENTITY event.reminder.label                             "Podsjetnik:" >
 <!ENTITY event.reminder.accesskey                         "e">
 <!ENTITY event.description.label                          "Opis:" >
