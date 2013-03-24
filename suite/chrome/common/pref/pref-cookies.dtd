@@ -11,14 +11,14 @@
 <!ENTITY disableCookies.label           "Keine Cookies akzeptieren">
 <!ENTITY disableCookies.accesskey       "K">
 
-<!ENTITY accNo3rdPartyCookies.label     "Allow cookies for the originating website only (no third-party cookies)">
-<!ENTITY accNo3rdPartyCookies.accesskey "o">
+<!ENTITY accNo3rdPartyCookies.label     "Cookies nur von direkt aufgerufener Website erlauben (keine Cookies von Drittanbietern)">
+<!ENTITY accNo3rdPartyCookies.accesskey "d">
 
-<!ENTITY acc3rdPartyVisited.label       "Allow third-party cookies for previously visited websites only">
-<!ENTITY acc3rdPartyVisited.accesskey   "v">
+<!ENTITY acc3rdPartyVisited.label       "Cookies von Drittanbietern nur für zuvor besuchte Webseiten zulassen">
+<!ENTITY acc3rdPartyVisited.accesskey   "C">
 
-<!ENTITY accAllCookies.label            "Allow all cookies">
-<!ENTITY accAllCookies.accesskey        "c">
+<!ENTITY accAllCookies.label            "Alle Cookies deaktivieren">
+<!ENTITY accAllCookies.accesskey        "A">
 
 <!ENTITY cookieRetentionPolicy.label    "Regeln für Cookie-Lebensdauer">
 
@@ -29,7 +29,7 @@
 <!ENTITY acceptForSession.accesskey     "S">
 
 <!ENTITY acceptforNDays.label           "Cookies akzeptieren für">
-<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY acceptforNDays.accesskey       "o">
 <!ENTITY days.label                     "Tage.">
 
 <!ENTITY warnAboutCookies.label         "Bei jedem Cookie fragen">
