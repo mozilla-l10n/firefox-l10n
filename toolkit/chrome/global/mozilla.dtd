@@ -1,7 +1,5 @@
-<!ENTITY mozilla.title
 'El llibru de Mozilla, 11:9'>
 
-<!ENTITY mozilla.quote
 'Mammon durmióse. Y la <em>bestia resurdió</em> enantándose sobre la Tierra, y los sos
 siguidores fexeron lexones. Y proclamaron nuevos tiempos y <em>sacrificaron</em> colleches nel
 fueu cola <em>astucia de les rapiegues</em>. Y construyeron un mundu nuevu a la so propia imaxe
@@ -10,5 +8,7 @@ pallabres sagraes</a></em>, y <em><a href="http://wiki.mozilla.org/About:mozilla
 </a></em> de la bestia colos sos fíos. Mammon esconsoñó, y de sópitu, namái yera
 un <em>rezagáu</em>.'>
 
-<!ENTITY mozilla.from
 'd&apos;<strong>El Llibru de Mozilla,</strong> 11:9<br/><small>(10ª edición)</small>'>
+<!ENTITY mozilla.title.15.1 "El llibru de Mozilla, 15:1">
+<!ENTITY mozilla.quote.15.1 "Los <em>ximielgos</em> de Mammon llucharon. La so llucha somorguió al mundu nuna <em>nueva escuridá</em>, y la bestia tarrecía la escuridá. Asina qu'entamó a movese <em>xagazmente</em>, fízose más poderosa, foi más allá, y multiplicóse. Y les besties traxeron <em>fueu</em> y lluz a la escuridá.">
+<!ENTITY mozilla.from.15.1 "de <strong>El llibru de Mozilla,</strong> 15:1">

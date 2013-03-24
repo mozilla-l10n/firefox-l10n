@@ -193,11 +193,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferencies">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!ENTITY clearRecentHistory.label "Llimpiar l'historial reciente…">
-<!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY privateBrowsingCmd.start.label "Aniciar navegación privao">
-<!ENTITY privateBrowsingCmd.start.accesskey "v">
-<!ENTITY privateBrowsingCmd.stop.label "Detener navegación privao">
-<!ENTITY privateBrowsingCmd.stop.accesskey "v">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
@@ -230,7 +225,6 @@
 <!ENTITY appMenuSafeMode.label "Reaniciar colos complementos desactivaos…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Dir a un sitiu web">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la llingüeta:">
 <!ENTITY searchFocus.commandkey "k">
@@ -408,7 +402,6 @@
 <!ENTITY identity.connectedTo "Tas coneutáu a">
 <!ENTITY identity.runBy "que pertenez a">
 <!ENTITY identity.moreInfoLinkText "Más información…">
-<!ENTITY allTabs.filter.emptyText "Guetar llingüetes">
 <!ENTITY tabsToolbar.label "Llingüetes del restolador">
 <!ENTITY syncTabsMenu2.label "Llingüetes d'otros equipos">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -477,3 +470,10 @@
 <!ENTITY devToolboxMenuItem.label "Amosar ferramientes">
 <!ENTITY devToolboxMenuItem.accesskey "T">
 <!ENTITY devToolbarToolsButton.tooltip "Activar les ferramientes pa desendolcadores">
+<!ENTITY urlbar.placeholder2 "Términu de gueta o direición">
+<!ENTITY playPluginCmd.label "Activar esti plugin">
+<!ENTITY playPluginCmd.accesskey "c">
+<!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web funcionen correutamente inclusu con esti conteníu bloquiáu.">
+<!ENTITY mixedContentBlocked.helplink "Deprender más">
+<!ENTITY hidePluginCmd.label "Anubrir esti plugin">
+<!ENTITY hidePluginCmd.accesskey "t">
