@@ -1,6 +1,4 @@
 <!ENTITY tracking.label                 "Siguir">
-<!ENTITY doNotTrack.label               "Dicir a los sitios web que nun quiero ser siguíu">
-<!ENTITY doNotTrack.accesskey           "g">
 
 <!ENTITY  history.label                 "Historial">
 
@@ -82,3 +80,10 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
+<!ENTITY doNotTrackInfo.label "Deprender más">
+<!ENTITY dntTrackingOkay.label "Dicir a los sitios que quiero que me rastrexen.">
+<!ENTITY dntTrackingOkay.accesskey "t">
+<!ENTITY dntTrackingNotOkay.label "Dicir a los sitios que nun quiero que me rastrexen.">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY dntTrackingNopref.label "Nun dicir un res a los sitios tocante a les mios preferencies de siguimientu.">
+<!ENTITY dntTrackingNopref.accesskey "o">

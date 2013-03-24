@@ -40,3 +40,5 @@
 <!ENTITY debuggerUI.stepping.stepOut "VK_F8">
 <!ENTITY debuggerUI.stepping.stepIn "VK_F8">
 <!ENTITY debuggerUI.stepping.resume "VK_F6">
+<!ENTITY debuggerUI.focusVariables.key "V">
+<!ENTITY debuggerUI.focusVariables "Enfocar árbol de variables">

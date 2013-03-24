@@ -5,3 +5,7 @@
 <!ENTITY inspectorHTMLDelete.label "Desaniciar nodu">
 <!ENTITY inspectorHTMLDelete.accesskey "D">
 <!ENTITY inspector.selectButton.tooltip "Seleicionar un elementu col mur">
+<!ENTITY inspectorSearchHTML.label "Guetar HTML">
+<!ENTITY inspectorSearchHTML.key "F">
+<!ENTITY inspectorCopyUniqueSelector.label "Copiar seleutor únicu">
+<!ENTITY inspectorCopyUniqueSelector.accesskey "s">
