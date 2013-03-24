@@ -568,6 +568,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "Uredi">
 <!ENTITY appmenuQFBMenu.label "Traka brzog filtriranja">
 <!ENTITY appmenuToolbarLayout.label "Raspored alatne trake…">
+<!ENTITY appmenuSelectThread.label "Označi skup poruka">
+<!ENTITY appmenuSelectFlagged.label "Označi poruke sa zvijezdicom">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova oznaka…">
