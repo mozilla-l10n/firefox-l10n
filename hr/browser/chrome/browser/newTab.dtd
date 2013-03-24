@@ -4,3 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nova kartica">
+<!ENTITY newtab.undo.removedLabel "Sličica uklonjena.">
+<!ENTITY newtab.undo.undoButton "Poništi.">
+<!ENTITY newtab.undo.restoreButton "Vrati sve.">
+<!ENTITY newtab.undo.closeTooltip "Sakrij">

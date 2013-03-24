@@ -88,6 +88,11 @@
 <!ENTITY debuggerUI.searchVariable      "Filtriraj varijable">
 <!ENTITY debuggerUI.searchVariable.key  "v">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokusiraj stablo varijabli">
+<!ENTITY debuggerUI.focusVariables.key  "F">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak         "Dodaj točku prekida">
