@@ -27,7 +27,7 @@
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY filterActionOrderWarning.label "Napomena: akcije filtera će biti pokrenute drugačijim redoslijedom.">
+<!ENTITY filterActionOrderWarning.label "Napomena: radnje filtera će biti pokrenute drugačijim redoslijedom.">
 <!ENTITY filterActionOrder.label "Prikaži redoslijed izvršavanja">
 
 <!-- New Style Filter Rule Actions -->
