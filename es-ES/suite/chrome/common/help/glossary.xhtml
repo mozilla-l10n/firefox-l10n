@@ -58,6 +58,15 @@
   navegador, pero se pueden ejecutar desde el cuadro de diálogo al efectuar una
   descarga.</dd>
 
+<dt id="web_application">aplicación web</dt><dd>Una aplicación que no se está
+  ejecutando en su equipo sino remotamente en un <a href="#website">sitio web</a>.
+  Los ejemplos incluyen sistemas de correo web o sistemas basados en web en los
+  que introduce información en un formulario y recibe una respuesta en forma de
+  una <a href="#web_page">página web</a>. Una aplicación web <i>sin conexión</i>
+  puede funcionar sin una conexión activa a <a href="#internet">Internet</a>
+  guardando las páginas relevantes localmente antes de ejecutar la
+  aplicación.</dd>
+
 <dt id="subject">asunto.</dt><dd>La entidad (persona, organización, o router)
   identificada por medio de un <a href="#certificate">certificado</a>. En
   particular, el campo asunto de un certificado contiene el <a
@@ -288,7 +297,8 @@
   href="#cookie">cookies</a> y formularios en línea) a menos que se niegue
   explícitamente a dar su consentimiento seleccionando una opción en la página
   web que el sitio proporciona para ese fin. Mientras la información se recoge,
-  puede que no se solicite ningún consentimiento.</dd>
+  puede que no se solicite ningún consentimiento. Vea también
+  <a href="#user_tracking">rastreo del usuario</a></dd>
 
 <dt id="certificate_backup_password">contraseña de copia de seguridad para
   certificados.</dt><dd>Una contraseña que protege un certificado del que se
@@ -319,19 +329,20 @@
   las páginas web a guardar información acerca de usted, como el contenido de
   un carro de la compra. Se puede controlar en las preferencias cómo se usan las
   cookies y cuánta información deseamos que los sitios web puedan almacenar en
-  ellas. Ver también <a href="#foreign_cookie">cookie externa</a>.</dd>
+  ellas. Ver también <a href="#third-party_cookie">cookie externa</a>.</dd>
 
-<dt id="foreign_cookie">cookie externa.</dt><dd>Una <a
+<dt id="foreign_cookie">cookie externa.</dt><dd>Vea <a
+  href="#foreign_cookie">cookie externa</a>.</dd>
+
+<dt id="third-party_cookie">cookie de terceros.</dt><dd>Una <a
   href="#cookie">cookie</a> de un sitio web que se almacena en el ordenador
   cuando se visita un sitio web distinto. A veces un <a href="#website">sitio
   web</a> muestra contenido que es albergado en otro sitio web. Ese contenido
-  puede ser cualquier cosa desde una imagen a texto o un anuncio. El segundo
+  puede ser cualquier cosa, desde una imagen a texto o un anuncio. El segundo
   sitio web que alberga tales elementos también tiene la capacidad de guardar
   cookies en su navegador, incluso si Vd. no lo visita directamente. Las
-  cookies externas también se conocen como <q>cookies de terceros</q>.</dd>
+  cookies de terceros también se conocen como <q>cookies externas</q>.</dd>
 
-<dt id="third-party_cookie">cookie de terceros.</dt><dd>Vea <a
-  href="#foreign_cookie">cookie externa</a>.</dd>
 
 <dt id="cryptography">criptografía.</dt><dd>El arte y práctica de ensamblar
   (cifrar) y desensamblar (descifrar) información. Por ejemplo, las técnicas
@@ -398,6 +409,15 @@
   Name).</dt><dd>Un nombre indicado de una manera especial que identifica de
   manera única el asunto de un <a href="#certificate">certificado</a>.</dd>
 
+<dt id="do_not_track">Do Not Track</dt><dd>Un mecanismo que permite a los
+  usuarios informar a los <a href="#website">sitios web</a> que no quieren
+  ser <a href="#user_tracking">rastreados</a> por sitios web de terceros y
+  <a href="#web_application">aplicaciones web</a>. Se añade una preferencia
+  sobre el rastreo del usuario en la cabecera <a href="#http">HTTP</a> y se
+  envía al sitio web. &brandShortName; permite enviar solicitudes <q>Do Not
+  Track</q>, pero los sitios web no están obligados a respetar lo indicado
+  en ella.</dd>
+
 <dt id="extension">extensión</dt><dd>Un tipo de <a
   href="#add-on">complemento</a> que cambia el comportamiento de
   &brandShortName; o le añade nuevas funcionalidaes.</dd>
@@ -452,8 +472,14 @@
   (como la información de tarjetas de crédito) mientras se
   transmiten por <a href="#internet">Internet</a>.</dd>
     
-<dt id="fingerprint">huella.</dt><dd>Ver <a href=
+<dt id="fingerprint">huella (certificado).</dt><dd>Ver <a href=
   "#certificate_fingerprint">huella de un certificado</a>.</dd>
+
+<dt id="fingerprinting">huella (navegador)</dt><dd>Un método de
+  <a href="#user_tracking">rastreo de usuarios</a> por el cual se identifica
+  a un usuario basándose en características del navegador como las versiones
+  del navegador y del sistema operativo, las preferencias de idioma
+  establecidas o los <a href="#plugin">plugins</a> instalados.</dd>
 
 <dt id="certificate_fingerprint">huella de un certificado.</dt>
   <dd>Un número único asociado con un
@@ -575,6 +601,15 @@
   las noticias para usar un servidor de directorio LDAP para
   autocompletar direcciones de correo electrónico.</dd>
 
+<dt id="malware">Malware</dt><dd>Abreviatura de <q>Soft<u>ware</u>
+  <u>Mal</u>icioso</q> y un término general para una variedad de software
+  diseñado para dificultar la operación del equipo, recopilar información
+  confidencial u obtener acceso a su equipo. Pueden ser distribuidos por
+  <a href="#web_page">páginas web</a> infectadas o como adjunto de mensajes
+  de correo. Entre los ejemplos se incluyen virus, gusanos, troyanos, spyware
+  o adware. El malware puede redistribuirse a sí mismo enviando mensajes para
+  infectar otros equipos.</dd>
+
 <dt id="bookmark">marcador.</dt><dd>Una dirección de
   <a href="#web_page">página web</a>
   almacenada (<a href="#url">URL</a>) a la que se puede
@@ -587,14 +622,6 @@
   dentro de una <q>meta</q> página que las mantiene
   coordinadas. A menudo se les conoce por su término en inglés,
   <em><q>frame</q></em>.</dd>
-
-<dt id="caret_browsing">navegación con cursor</dt><dd>Una característica de
-  &brandShortName; que le permite desplazarse por el texto en las páginas web y
-  los mensajes de correo (o esta ventana de ayuda) con un cursor. Usando su
-  teclado, puede desplazarse y seleccionar texto como lo haría en un editor de
-  textos. Puede activar y desactivar el modo del cursor pulsando la tecla
-  <kbd>F7</kbd>. El modo de navegación con cursor también puede activarse y
-  desactivarse en las preferencias Avanzadas - Navegación con teclado.</dd>
 
 <dt id="security_module">módulo de seguridad.</dt><dd>Ver
   <a href="#pkcs_11_module">módulo PKCS #11</a>.</dd>
@@ -628,6 +655,21 @@
   palabra o una frase, también llamada consulta, en un cuadro de
   búsquedas, y el motor de búsqueda muestra los enlaces a las
   páginas web relevantes.</dd>
+
+<dt id="caret_browsing">navegación con cursor</dt><dd>Una característica de
+  &brandShortName; que le permite desplazarse por el texto en las páginas web y
+  los mensajes de correo (o esta ventana de ayuda) con un cursor. Usando su
+  teclado, puede desplazarse y seleccionar texto como lo haría en un editor de
+  textos. Puede activar y desactivar el modo del cursor pulsando la tecla
+  <kbd>F7</kbd>. El modo de navegación con cursor también puede activarse y
+  desactivarse en las preferencias Avanzadas - Navegación con teclado.</dd>
+
+<dt id="safe_browsing">navegación segura</dt><dd>Protección contra amenazas
+  habituales de <a href="#malware">malware</a> y <a href="#phishing">phishing</a>
+  mediante la comprobación de cada <a href="#web_page">página web</a> contra
+  una lista de sitios web identificados como tales. Si la página web que está a
+  punto de visitar ha sido identificada como contenedora de contenido malicioso,
+  &brandShortName; evita su carga y muestra en su lugar una advertencia.</dd>
 
 <dt id="nonrepudiation">no repudio.</dt><dd>Característica del correo
   electrónico seguro que asegura que el remitente de un mensaje no puede negar
@@ -706,7 +748,7 @@
   correo electrónico. Macromedia Flash Player y Java son ejemplos de
   plugin.</dd>
 
-  <dt id="pop">POP (protocolo de oficina postal).</dt>
+<dt id="pop">POP (protocolo de oficina postal).</dt>
   <dd>Un protocolo estándar en servidores de correo
   que requiere que se descarguen los mensajes nuevos al disco duro; aunque se
   puede elegir dejar las copias en el servidor. Con POP, se pueden almacenar
@@ -718,17 +760,28 @@
   mayoría de los <a href="#isp">ISPs</a> admiten el uso de
   POP.</dd>
 
-  <dt id="proxy">proxy.</dt><dd>Es un programa intermediario que
+<dt id="proxy">proxy.</dt><dd>Es un programa intermediario que
   actúa tanto como <a href="#server">servidor</a> como <a href=
   "#client">cliente</a>, con la finalidad de realizar peticiones en el nombre
   de otros clientes.</dd>
 
-  <dt id="slot">ranura.</dt><dd>Una parte del hardware, o su
+<dt id="slot">ranura.</dt><dd>Una parte del hardware, o su
   equivalente en software, controlada por un <a href=
   "#pkcs_11_module">módulo PKCS #11</a> y diseñada para contener
   un <a href="#security_device">dispositivo de seguridad</a>.</dd>
 
-  <dt id="certificate_renewal">renovación de certificados.</dt>
+<dt id="user_tracking">rastreo de usuario</dt><dd>Métodos que algunos
+  <a href="#website">sitios web</a>, incluyendo anunciantes y servicios de
+  análisis, emplean para determinar patrones de cómo navega usted por la web
+  (p.e., qué sitios web ha visitado, qué preferencias ha hecho públicas al
+  usar botones incrustados por redes sociales y su historial de compras). Esta
+  información se usa principalmente para mostrar ofertas o anuncios de
+  productos o servicios dirigidos. Los mecanismos de rastreo de usuario
+  incluyen <a href="#cookie">cookies</a> y
+  <a href="#fingerprinting">huella del navegador</a>. Vea también
+  <a href="#do_not_track">Do Not Track</a>.</dd>
+
+<dt id="certificate_renewal">renovación de certificados.</dt>
   <dd>El proceso de renovar un <a href=
   "#certificate">certificado</a> que está a punto de caducar.</dd>
 

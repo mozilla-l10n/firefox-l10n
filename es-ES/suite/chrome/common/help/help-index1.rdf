@@ -742,11 +742,6 @@
 	 nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:foreign"
-         nc:name="cookies externas"
-	 nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:managing_per_site"
          nc:name="administrar cookies sitio web por sitio web"
 	 nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
@@ -760,6 +755,11 @@
        <rdf:Description ID="cookies:removing"
          nc:name="eliminar cookies"
 	 nc:link="using_priv_help.xhtml#removing_cookies"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="cookies:foreign"
+         nc:name="cookies de terceros"
+	 nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:viewing"
@@ -1511,11 +1511,6 @@
 	 nc:link="customize_help.xhtml#tabbed_browsing"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="safe_browsing"
-         nc:name="navegación segura"
-         nc:link="privsec_help.xhtml#safe_browsing"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="browser"
          nc:name="navegador"
 	 nc:link="nav_help.xhtml"/>
@@ -1727,6 +1722,16 @@
      <rdf:li>
        <rdf:Description ID="preferences"
          nc:name="preferencias" />
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="safe_browsing"
+         nc:name="preferencias de navegación segura"
+         nc:link="privsec_help.xhtml#safe_browsing"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="user_tracking"
+         nc:name="preferencias de rastreo del usuario"
+         nc:link="privsec_help.xhtml#privacy_and_security"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="keyboard_preferences"
@@ -2084,11 +2089,6 @@
 <rdf:Description about="help-indexAZ.rdf#r">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="user_tracking"
-         nc:name="rastreo del usuario"
-         nc:link="privsec_help.xhtml#privacy_and_security"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="resetting_master_password"
          nc:name="reiniciar la contrase&#241;a maestra"
 	 nc:link="passwords_help.xhtml#reset_master_password"/>
