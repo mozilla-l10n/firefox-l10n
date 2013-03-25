@@ -650,3 +650,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "En savoir plus">
 <!ENTITY mixedContentBlocked.moreinfo "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
+
+<!ENTITY pointerLock.notification.message "Appuyez sur Échap à tout moment pour l'afficher à nouveau.">
