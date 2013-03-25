@@ -12,7 +12,7 @@
 <!ENTITY abouthealth.intro.title "क्या है &brandShortName; स्वास्थ्य रिपोर्ट?">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; अपने कंप्यूटर और प्रयोग के बारे में कुछ आँकड़ा जमा करें ताकि बेहतर ब्राउज़र अनुभव पाया जा  सके.">
-<!ENTITY abouthealth.intro-disabled "आप अभी &vendorShortName; में प्रयोग डाटा को सौंपने नहीं जा रहे हैं. आप हमें &brandShortName; को बेहतर बनाने में &quot;&abouthealth.optin;&quot; बटन पर क्लकि करके मदद कर सकते हैं.">
+<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
 
 <!ENTITY abouthealth.optin "&brandShortName; को बेहतर बनाने में मदद करें">
 <!ENTITY abouthealth.optout "रिपोर्टिंग बंद करें">
