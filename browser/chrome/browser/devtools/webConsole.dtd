@@ -59,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "ข้อมูล">
 <!ENTITY btnConsoleWarnings     "คำเตือน">
 <!ENTITY btnConsoleLog          "บันทึก">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "ตำแหน่ง">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "จัดตำแหน่งของเว็บคอนโซลให้อยู่บนหรือล่างของเอกสาร">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "ด้านบน">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "ด้านล่าง">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "แยกหน้าต่าง">
 
 <!ENTITY filterBox.placeholder "ค้นหา">
 <!ENTITY btnClear.label        "ล้าง">
 <!ENTITY btnClear.tooltip      "ล้างข้อมูลที่แสดงในเว็บคอนโซล">
-<!ENTITY btnClose.tooltip      "ปิดเว็บคอนโซล">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey   "ร">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "ข้อมูลการแก้ไขปัญหา">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ป">
 
