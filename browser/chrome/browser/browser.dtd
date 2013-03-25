@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!ENTITY closeWindow.label "Fenster schließen">
-<!ENTITY closeWindow.accesskey "c">
+<!ENTITY closeWindow.accesskey "h">
 
 <!ENTITY bookmarksMenu.label "Lesezeichen">
 <!ENTITY bookmarksMenu.accesskey "L">
