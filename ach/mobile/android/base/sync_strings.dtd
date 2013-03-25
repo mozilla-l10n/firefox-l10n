@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Nyuta yore mene.">
 <!ENTITY sync.link.advancedsetup.label "Ter me rwom ma lamal…">
-<!ENTITY sync.link.nodevice.label "Ape ki jami tic bota…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene…">
@@ -52,11 +52,19 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Tim ber item doki.">
-<!ENTITY sync.pair.connectlocation.label "Pi miyo jami tic mamegi manyen, yer,\'\'Tero &syncBrand.shortName.label;” I kom jami tic, ci dong I yer “Atye ki Akaunti”">
+<!ENTITY sync.pair.connectlocation.label "Pi miyo jami tic mamegi manyen, yer,\u0027\u0027Tero &syncBrand.shortName.label;” I kom jami tic, ci dong I yer “Atye ki Akaunti”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Me ayera">
 <!ENTITY sync.summary.pair.label "Kub jami tic mukene i akaunti me &syncBrand.shortName.label;">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.bookmarks "Alama">
+<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.history "Lok macon">
+<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Jwik">
@@ -75,9 +83,12 @@
 <!ENTITY bookmarks.folder.desktop.label "Alama buk me Cal ma i kompiuta">
 <!ENTITY bookmarks.folder.mobile.label "Alama me pot buk ma kiwoto kwede">
 <!ENTITY bookmarks.folder.readinglist.label "Nying jami me kwan">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">
+<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nying akaunt ki mung mape tye kakare.">

@@ -54,11 +54,10 @@
 <!ENTITY site_security "Ber bedo me Dyer bar">
 
 <!ENTITY close_tab "Lor Dirica matidi">
-<!ENTITY new_tab "Tab Manyen">
 <!ENTITY one_tab "dirica matidi 1">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d dirica matidi">
+<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "Kiyabo Tab manyen">
 
 <!ENTITY settings "Tero">
@@ -71,16 +70,22 @@
 <!ENTITY pref_do_not_track "Waci kakube pe maka">
 <!ENTITY pref_telemetry "Cwal tic me jami">
 <!ENTITY pref_remember_signons "Poyo I cwil me donyo">
-<!ENTITY pref_cookies "Mii kakube tii">
+
+<!ENTITY pref_cookies_menu "Kakube me intanet">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
-<!ENTITY pref_char_encoding_off "Pe\ i nyut cako">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Ywe tic pa dano">
 <!ENTITY pref_plugins "Rwaki iyie">
-<!ENTITY pref_plugins_enabled "Mi tii">
+<!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play "Gwet wek tuki">
-<!ENTITY pref_plugins_disabled "Kijuko woko">
+<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_text_size "Dit pa nyig Coc">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Tino">
 <!ENTITY pref_font_size_small "Tidi">
 <!ENTITY pref_font_size_medium "Dyere dyere">
@@ -96,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Orange fox pye me oyoto iwi byeka mamegi kwede dwiro mapol, bedo yot ki gwoko ber bedo mabup. Macalo labongo magoba, Wan\watye agonya pi cako ikakari labongo kit bura mo keken pi jalo. Man te loke ni diro mamwonya piri ci anyim maleng pi Web.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_show_product_announcements "Nyut kwena me jami ma kato">
@@ -110,6 +115,12 @@ size. -->
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
 <!ENTITY pref_private_data_siteSettings "Gin ma imito i di bar">
+<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
 
 <!ENTITY quit "Wek woko">
 
@@ -125,6 +136,15 @@ size. -->
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
 <!ENTITY tools "Gitic">
+<!ENTITY new_tab "Tab Manyen">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Tabs">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -134,6 +154,7 @@ size. -->
 <!ENTITY find_close "Close">
 
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
+<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Yab ki I gin kwano">
 <!ENTITY contextmenu_remove_history "Remove">
 <!ENTITY contextmenu_remove_bookmark "Remove">
@@ -142,9 +163,7 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Ceti">
 <!ENTITY contextmenu_paste "Dani">
 <!ENTITY contextmenu_copyurl "Lok Address">
-<!ENTITY contextmenu_edit_bookmark "Yubi">
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Kikwanyo woko pot buk">
 
@@ -182,12 +201,16 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Lanyik megi ki kare mukato angec">
 <!ENTITY abouthome_last_tabs_open "Yab Tab weng ki i kare mukato">
 <!ENTITY abouthome_top_sites_title "Kakube maloyo">
-<!ENTITY abouthome_top_sites_browse "Yeny kakube megi lung maloyo">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
+
 <!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
@@ -228,11 +251,10 @@ ki Android">
 <!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato 
 ki Android">
 <!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt "Would you like to turn on &#037;s search suggestions?">
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
 <!ENTITY webapp_generic_name "Purugram">
 
@@ -241,11 +263,11 @@ ki Android">
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
 <!ENTITY updater_start_select2 "Touch to download">
- 
+
 <!ENTITY updater_downloading_title2 "Golo &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Download failed">
 <!ENTITY updater_downloading_select2 "Gud wek ket ngec ka dong gikwanyo oko">
 <!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
- 
+
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
 <!ENTITY updater_apply_select2 "Gudi wek imi ngec">
