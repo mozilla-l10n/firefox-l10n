@@ -9,7 +9,7 @@
 <!ENTITY abouthealth.pagetitle "&brandShortName;-Statusbericht">
 <!ENTITY abouthealth.header "&brandFullName;-Statusbericht">
 
-<!ENTITY abouthealth.intro.title "Was ist &brandShortName;-Statusbericht?">
+<!ENTITY abouthealth.intro.title "Was ist der &brandShortName;-Statusbericht?">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; erfasst einige Daten über Ihren Computer und dessen Nutzung, um den Browser zu verbessern.">
 <!ENTITY abouthealth.intro-disabled "Derzeit übermitteln Sie keine Nutzungsdaten an &vendorShortName;. Sie können uns beim Verbessern von &brandShortName; helfen, indem Sie auf die Schaltfläche &quot;&abouthealth.optin;&quot; klicken.">
@@ -25,7 +25,7 @@
 
 <!ENTITY abouthealth.show-report "&brandShortName;-Bericht anzeigen">
 
-<!ENTITY abouthealth.details.description-start "Dies sind die Daten, welche &brandFullName; übermittelt, damit &brandShortName;-Statusbericht funktioniert. Sie können sich über die gesammelten und übermittelten Daten ausführlich">
+<!ENTITY abouthealth.details.description-start "Dies sind die Daten, welche &brandFullName; übermittelt, damit der &brandShortName;-Statusbericht funktioniert. Sie können sich über die gesammelten und übermittelten Daten ausführlich">
 <!ENTITY abouthealth.details-link "informieren">
 <!ENTITY abouthealth.details.description-end " lassen.">
 <!ENTITY abouthealth.no-data-available "Es wurde bisher nichts übermittelt und daher nichts darzustellen. Bitte schauen Sie später erneut nach.">
