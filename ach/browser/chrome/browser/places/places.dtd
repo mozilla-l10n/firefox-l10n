@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "yeny:">
 <!ENTITY search.accesskey                          "y">
 
-<!ENTITY search.in.label                           "yeny iyee:">
-<!ENTITY search.scopeFolder.label                  "Boc ma giyero">
-<!ENTITY search.scopeFolder.accesskey              "c">
-<!ENTITY search.scopeBookmarks.label               "Alama me pot buk">
-<!ENTITY search.scopeBookmarks.accesskey           "m">
-<!ENTITY search.scopeDownloads.label               "Kopo">
-<!ENTITY search.scopeDownloads.accesskey           "K">
-<!ENTITY search.scopeHistory.label                 "Mukato">
-<!ENTITY search.scopeHistory.accesskey             "M">
-<!ENTITY saveSearch.label                          "Gwok">
-<!ENTITY saveSearch.accesskey                      "G">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Kel ki woko ci I gwok mukene">

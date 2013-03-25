@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Tiyo ma pe ikubo iyamo">
-<!ENTITY goOfflineCmd.accesskey "T">
+<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Lanyut Gin Matye">
 <!ENTITY menubarCmd.accesskey "L">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Lor Dirica">
 <!ENTITY closeWindow.accesskey "c">
 
-<!ENTITY bookmarksMenu.label "Alama Pot Buk">
-<!ENTITY bookmarksMenu.accesskey "A">
+<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Ket Alama i Pot Buk Man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -159,9 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "Cone">
 <!ENTITY feedButton.tooltip           "Cone i pot buk man…">
 
-<!ENTITY bookmarksButton.label          "Alama">
+<!ENTITY bookmarksButton.label          "Bookmarks">
 <!ENTITY bookmarksButton.tooltip        "Yar alama ni">
-<!ENTITY bookmarksButton.accesskey  "A">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Alama">
@@ -178,7 +177,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "Ginmukato">
 <!ENTITY historyButton.tooltip          "Yar pot buk ma i nenogi cok-coki">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Gitic">
@@ -200,17 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Ladong Web">
 <!ENTITY webDeveloperMenu.accesskey   "L">
 
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
+
 <!ENTITY errorConsoleCmd.label        "Bal ki ka yubone">
 <!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Coc me Web">
-<!ENTITY webConsoleCmd.accesskey      "C">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY inspectMenu.label            "Ngiyo matut">
-<!ENTITY inspectMenu.accesskey        "N">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
 <!ENTITY inspectContextMenu.label     "Ngiyo gin moni">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -234,40 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Langic Matut">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Close sidebar">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Lor Gin tic pa Luyub">
 <!ENTITY devToolbarMenu.label              "Luyub Bar me gin tic">
 <!ENTITY devToolbarMenu.accesskey          "y">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
-
-<!ENTITY inspectorHTMLCopyInner.label       "Lok HTML ma iyie">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "H">
-
-<!ENTITY inspectorHTMLCopyOuter.label       "Lok HTML ma woko">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "H">
-
-<!ENTITY inspectorHTMLDelete.label          "Jwa woko coc">
-<!ENTITY inspectorHTMLDelete.accesskey      "J">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
-
-<!ENTITY inspect3DViewButton.label     "Nen 3D">
-<!ENTITY inspect3DViewButton.accesskey "n">
-
-<!ENTITY inspectStyleButton.label     "Kit">
-<!ENTITY inspectStyleButton.accesskey "K">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Layub Kit">
-<!ENTITY styleeditor.accesskey        "t">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Nong Gitic Mapol">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "G">
@@ -277,6 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Dirica Manyen">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "Yub"> 
 <!ENTITY editMenu.accesskey       "Y"> 
@@ -306,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Ma imaroo">
 <!ENTITY preferencesCmdUnix.accesskey     "o"> 
 
-<!ENTITY clearRecentHistory.label               "Ruc gin Mukato Angec Manok…">
-<!ENTITY clearRecentHistory.accesskey           "M">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
-<!ENTITY privateBrowsingCmd.start.label         "Cak Yenyo piri keni">
-<!ENTITY privateBrowsingCmd.start.accesskey     "Y">
-<!ENTITY privateBrowsingCmd.stop.label          "Juk Yenyo piri keni">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "Y">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Nen"> 
@@ -352,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "C">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Ceti i kakube me Web">
+<!ENTITY urlbar.placeholder2          "Search or enter address">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Kobe i dirica matidi:">
 <!-- 
@@ -386,6 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "D">
 <!ENTITY openLinkCmd.label            "Yab kakube i Diric ma Manyen">
 <!ENTITY openLinkCmd.accesskey        "r">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Yab Kakube">
 <!ENTITY openLinkCmdInCurrent.accesskey "Y">
 <!ENTITY openFrameCmdInTab.label      "Yab Purem i Dirica manyen">
@@ -453,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Email Audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Lok Kabedo me Kakube">
 <!ENTITY copyLinkCmd.accesskey        "e">
 <!ENTITY copyImageCmd.label           "Lok Kabedo me Cal">
@@ -612,12 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "En tiyo ki">
 
 <!ENTITY identity.moreInfoLinkText "Ngec Mapol…">
-
-<!ENTITY downloadMonitor2.tooltip "Dii wek oyab yabo Dirica">
-
-<!ENTITY allTabs.filter.emptyText "Yeny Dirica matino">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Yeny Dirica weng">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,15 +603,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Lor gin tic ma Medo">
 <!ENTITY toggleAddonBarCmd.key        "/">
-<!-- LOCALIZATION NOTE (markupButton.arialabel): The markup button is the button
-located in front of the breadcrumbs display in the inspector toolbar. The button
-doesn't display any label, but exposes a label to screen-readers with "aria-label".
--->
-
-<!ENTITY markupButton.arialabel          "Ket coc">
-<!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
-toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
 
 <!ENTITY socialToolbar.title        "Mapeca me Gin tic me Kube pa lwak">
 <!ENTITY social.notLoggedIn.label   "Not logged in">
@@ -657,3 +618,18 @@ toolbar button -->
 
 <!ENTITY social.activated.undobutton.label "Undo">
 <!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+
+<!ENTITY mixedContentBlocked.helplink "Nong ngec mapol">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">

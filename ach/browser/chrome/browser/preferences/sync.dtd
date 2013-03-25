@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Nwo tero">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Lo Akaunti">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "Nen Ngap">
 <!ENTITY changePassword2.label        "Lok Icwil me donyo…">
 <!ENTITY myRecoveryKey.label          "Lagony mega me Nongo">

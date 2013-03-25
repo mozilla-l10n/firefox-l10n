@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Dokcen Med I Buk me nukuta">
 <!ENTITY spellUndoAddToDictionary.accesskey "c">
-<!ENTITY spellCheckEnable.label "Rot Nyig coc">
-<!ENTITY spellCheckEnable.accesskey "N">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Tam amia me Nukkuta bene peke)">
 <!ENTITY spellDictionaries.label "Leb">
 <!ENTITY spellDictionaries.accesskey "L">

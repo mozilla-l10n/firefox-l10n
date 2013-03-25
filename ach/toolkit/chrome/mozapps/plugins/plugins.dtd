@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Gin arwaka mite me yaro gin manonge iye kamaleng.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Gwet kany me mino gin arwaka cak tic.">
-<!ENTITY clickToPlayPlugin                                   "Click here to activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Rot pi Ngec…">
 <!ENTITY disabledPlugin                                      "Gin arwaka ma eni ni kikwanyo woko.">
 <!ENTITY blockedPlugin.label                                 "Gin arwaka ma eni ni ki gengo woko pi konyi gwoko.">
@@ -56,3 +56,8 @@
 <!ENTITY report.disabled                                     "Ngec me bal kikwanyo woko.">
 <!ENTITY report.failed                                       "Cwalo pe olare.">
 <!ENTITY report.unavailable                                  "Pe tye ngec mo matye.">
+<!ENTITY report.comment                                      "Med tami (tam romo nonge bot lwak)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

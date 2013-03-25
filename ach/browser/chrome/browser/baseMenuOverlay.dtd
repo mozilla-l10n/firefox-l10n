@@ -22,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Cak ki medo, Lamed-ikom gi ma Kijuko…">
 <!ENTITY helpSafeMode.accesskey   "C">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "Gec me niang Peko">
 <!ENTITY helpTroubleshootingInfo.accesskey  "G">
 

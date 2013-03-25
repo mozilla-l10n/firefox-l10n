@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Web Console">
 
-<!ENTITY networkPanel.requestURL                  "Kwa URL">
-<!ENTITY networkPanel.requestMethod               "Kwa Yore">
-<!ENTITY networkPanel.statusCode                  "Kit Nyig coc">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "Kwa Luwiye">
 <!ENTITY networkPanel.requestCookie               "Kakube ma kicwalo">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Kicwalo Tic me Fom">
 
 <!ENTITY networkPanel.responseHeaders             "Dwok lok ma Lawiye">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "Kom Dwoko lok">
 <!ENTITY networkPanel.responseBodyCached          "Tic ma kigwoko">
 <!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">
@@ -58,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "Ngec">
 <!ENTITY btnConsoleWarnings     "Cik">
 <!ENTITY btnConsoleLog          "Ket">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Kabedo">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Ket kabedo me Coc me Web imalu onyo piny ite coc acoya">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Malu">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Ite">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "Dirija">
 
 <!ENTITY filterBox.placeholder "Filter">
 <!ENTITY btnClear.label        "Clear">
 <!ENTITY btnClear.tooltip      "Ruc oko Kacoc me Web ma kato woko">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

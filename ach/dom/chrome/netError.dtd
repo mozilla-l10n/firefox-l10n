@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Coc acoya ma kikwayo pe nonge i gwok pa layeny.</p><ul><li>Macalo cik me gwoko kuc me bal, Layeny pe romo kwayo coc acoya nitit pire kene.</li><li>Dii tem doki me nwoyo kwayo coc acoya ki kakube me Web.</li></ul>">
 
 <!ENTITY netOffline.title "Peke iwiyamo">
-<!ENTITY netOffline.longDesc2 "<p>Layeny tye katic i kit ne mape iwiyamo ki pe romo kkube i jami ma kikwayo.</p><ul><li> Komputa okube ki i kakube me wiyam ma kiti? </li><li> Dii &quot;Tem doki&quot; me kobo i kit matye iwiyamo ki nwo pango pot buk.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye kajogo Bal">
 <!ENTITY contentEncodingError.longDesc "<p>Pot buk ma itye kaneno ne pe romo nyutu pien tiyo ki mung ma pe tiyo onyo kit dic ma pe kicwako ne.</p><ul><li>Tim ber ikube ki wegi di bar me Web me mino gi ngec pi peko man.</li></ul>">

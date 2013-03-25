@@ -52,9 +52,11 @@ Kube.</li>
 <!ENTITY notCached.longDesc "<p>gin acoya ma ikwayo pire ni pe nonge i &brandShortName;'s cache.</p><ul><li>Macalo bal, &brandShortName; pe romo dok mede kwayo coc acoya ma poo pire kene.</li><li>Dii tem doki wek i kwa coc acoya ki kakube me Web nitit.</li></ul>">
 
 <!ENTITY netOffline.title "Kit ma pe i wiyamo">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Dii &quot;Tem doki&quot; me kobo i kit matye iwi yamo ki nwo cano pot buk.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye kajogo Bal">
 <!ENTITY contentEncodingError.longDesc "<ul> 

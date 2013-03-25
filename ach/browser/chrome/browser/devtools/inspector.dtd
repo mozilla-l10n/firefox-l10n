@@ -1,0 +1,16 @@
+<!ENTITY inspectorHTMLCopyInner.label       "Lok HTML ma iyie">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "H">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Lok HTML ma woko">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "H">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorHTMLDelete.label          "Jwa woko coc">
+<!ENTITY inspectorHTMLDelete.accesskey      "J">
+
+<!ENTITY inspector.selectButton.tooltip     "Yer jami ki ladi">
+
+<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
