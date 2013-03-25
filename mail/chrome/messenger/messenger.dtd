@@ -737,6 +737,8 @@
 <!ENTITY appmenuEditMenu.label "수정">
 <!ENTITY appmenuQFBMenu.label "빠른 필터 바">
 <!ENTITY appmenuToolbarLayout.label "툴바 레이아웃…">
+<!ENTITY appmenuSelectThread.label "글타래 선택">
+<!ENTITY appmenuSelectFlagged.label "별표 메시지 선택">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage2.label "&brandShortName;이 이 메시지를 스팸으로 판단합니다.">
