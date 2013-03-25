@@ -39,7 +39,7 @@
 
 <!ENTITY  finished.wizard.title           "ส่วนเสริมที่เข้ากันได้ติดตั้งแล้ว">
 <!ENTITY  finished.top.label              "&brandShortName; ได้ติดตั้งการปรับรุ่นส่วนเสริมของคุณ">
-<!ENTITY  finished.checkDisabled.desc     '&brandShortName;สามารถตรวจสอบและแจ้งเตือนคุณเป็นระยะ"nเมื่อพบรายการปรับรุ่นสำหรับส่วนเสริม'>
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName;สามารถตรวจสอบและแจ้งเตือนคุณเป็นระยะ&quot;nเมื่อพบรายการปรับรุ่นสำหรับส่วนเสริม">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName;จะตรวจสอบและแจ้งคุณเป็นระยะเมื่อพบรายการ 
 ปรับรุ่นสำหรับส่วนเสริม">
 

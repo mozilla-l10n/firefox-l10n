@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "ต้องใช้โปรแกรมเสริมเพื่อดูเนื้อหานี้">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "แตะที่นี่เพือเปิดใช้งานโปรแกรมเสริม">
-<!ENTITY clickToPlayPlugin                                   "คลิกที่นี่เพือเปิดใช้งานโปรแกรมเสริม">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "ตรวจสอบการปรับปรุง…">
 <!ENTITY disabledPlugin                                      "โปรแกรมเสริมนี้ถูกปิดการใช้งาน">
 <!ENTITY blockedPlugin.label                                 "โปรแกรมเสริมนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "ปิดใช้งานรายงานความผิดพลาด">
 <!ENTITY report.failed                                       "ไม่สามารถส่งรายงานได้">
 <!ENTITY report.unavailable                                  "ไม่มีรายงาน">
+<!ENTITY report.comment                                      "แสดงความเห็น (ความเห็นจะถูกเผยแพร่ต่อสาธารณะ)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

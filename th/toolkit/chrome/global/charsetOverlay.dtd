@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "ต">
 <!ENTITY charsetMenuMore5.label        "ตะวันออกกลาง">
 <!ENTITY charsetMenuMore5.accesskey    "อ">
-<!ENTITY charsetMenuUnicode.label      "ยูนิโค้ด">
-<!ENTITY charsetMenuUnicode.accesskey  "ย">
 <!ENTITY charsetCustomize.label        "กำหนดเอง…">
 <!ENTITY charsetCustomize.accesskey    "ก">
