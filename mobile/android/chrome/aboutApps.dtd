@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "ไม่มีเว็บแอปติดตั้งไว้ หามาติดตั้งได้จาก ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "ถอนการติดตั้ง">
+<!ENTITY aboutApps.addToHomescreen "เพิ่มลงหน้าจอแรก">
