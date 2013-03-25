@@ -25,6 +25,9 @@
 <!ENTITY filterActionDesc.label "다음 방식으로 처리:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "참고: 필터는 다른 순서대로 적용됩니다.">
+<!ENTITY filterActionOrder.label "실행 순서를 참고하세요.">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "메시지 이동 위치:">
 <!ENTITY copyMessage.label "메시지 복사 위치:">

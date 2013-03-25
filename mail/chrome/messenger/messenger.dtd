@@ -695,7 +695,7 @@
 <!ENTITY tagButton.label "태그">
 <!ENTITY compactButton.label "비우기">
 <!ENTITY appmenuButton.label "앱 메뉴">
-<!ENTITY appmenuButton.tooltip "앱 메뉴 표시하기">
+<!ENTITY appmenuButton1.tooltip "앱 메뉴 표시하기">
 <!ENTITY tagButton.tooltip "태그 메시지">
 <!ENTITY compactButton.tooltip "선택한 폴더에서 삭제 표시된 메시지 지우기">
 <!ENTITY addNewTag.label "새 태그…">
@@ -737,6 +737,8 @@
 <!ENTITY appmenuEditMenu.label "수정">
 <!ENTITY appmenuQFBMenu.label "빠른 필터 바">
 <!ENTITY appmenuToolbarLayout.label "툴바 레이아웃…">
+<!ENTITY appmenuSelectThread.label "글타래 선택">
+<!ENTITY appmenuSelectFlagged.label "별표 메시지 선택">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage2.label "&brandShortName;이 이 메시지를 스팸으로 판단합니다.">
