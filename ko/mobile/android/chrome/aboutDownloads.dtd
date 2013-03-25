@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "다운로드">
 <!ENTITY aboutDownloads.header                     "다운로드한 파일">
 <!ENTITY aboutDownloads.empty                      "다운로드한 파일이 없음">
+
+<!ENTITY aboutDownloads.open                       "열기">
+<!ENTITY aboutDownloads.remove                     "삭제">
+<!ENTITY aboutDownloads.removeAll                  "모두 삭제">
+<!ENTITY aboutDownloads.pause                      "중단">
+<!ENTITY aboutDownloads.resume                     "다시 시작">
+<!ENTITY aboutDownloads.cancel                     "취소">
+<!ENTITY aboutDownloads.retry                      "재시도">

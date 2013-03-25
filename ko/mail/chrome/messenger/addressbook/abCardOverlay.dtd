@@ -146,4 +146,6 @@
 <!ENTITY ICQ.accesskey			"I">
 <!ENTITY XMPP.label			"Jabber ID:">
 <!ENTITY XMPP.accesskey			"J">
+<!ENTITY IRC.label                      "IRC 닉네임:">
+<!ENTITY IRC.accesskey                  "R">
 <!ENTITY chatName.label "이름">

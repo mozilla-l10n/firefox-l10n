@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
+     fun and playful. Please feel free to adjust the tone as works best in
+     your language and/or locale. More detailed notes below. -->
+
+<!ENTITY pageTitle                 "&brandShortName; 의견보내기">
+
+<!ENTITY intro.header              "잠깐 시간을 내주시겠습니까?">
+<!ENTITY intro.message             "&brandShortName; 모바일 버전에 대해 여러분의 의견을 듣습니다.">
+<!ENTITY intro.happyLink           "정말 좋아요!">
+<!ENTITY intro.sadLink             "문제 있어요!">
+<!ENTITY intro.ideaLink            "의견 있어요">
+
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+<!ENTITY support.pre               "만약 &brandShortName;에 대한 질문이나 문제가 있으면,">
+<!ENTITY support.link              "&brandShortName; 고객 지원">
+<!ENTITY support.post              "을 살펴봐 주십시오.">
+
+<!ENTITY happy.header              "정말 좋아요!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love"  This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
+<!ENTITY happy.message             "여러분의 느낌을 다른 분에게 알려 주기 위해  Google Play에 별점 평가를 해주시겠습니까?">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great"  Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+<!ENTITY happy.finePrint           "평가에 시간은 걸리지 않습니다. 다른 분들에게 도움이 됩니다.">
+
+<!ENTITY happy.ratingLink          "Google Play 이동">
+<!ENTITY happy.maybeLater          "나중에">
+<!ENTITY happy.noThanks            "아니오">
+
+<!ENTITY sad.message               "&brandShortName;에 문제가 있어 죄송합니다. 문제 해결을 위해서 어떠한 문제가 일어났는지 가르쳐 주세요.">
+<!ENTITY sad.placeholder           "여기에 당신의 의견을 입력해 주세요!">
+<!ENTITY sad.lastSite              "마지막 방문한 사이트 (임의)">
+
+<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+<!ENTITY sad.urlPlaceholder        "http://">
+<!ENTITY sad.thanksHeader          "알려 주셔서 감사합니다.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people"  We're stating that an actual human will look at the feedback
+     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
+<!ENTITY sad.thanksMessageTop      "우리는 항상 &brandShortName; 의 개선에 최선을 다하고 있습니다. 당신의 의견은 실제로 프로그램을 만드는 사람들에게 전달되어  반드시 문제 해결을 위해서 노력할 것입니다.">
+
+<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
+     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
+     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+<!ENTITY sad.thanksMessageBottom   "">
+
+<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
+     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
+     to tell us anything they're thinking about. -->
+<!ENTITY idea.message              "제안을 환영합니다! &brandShortName;에 관한 여러분의 생각을 들려주세요.">
+<!ENTITY idea.placeholder          "여기에 제안을 입력해 주세요">
+<!ENTITY idea.thanksHeader         "감사합니다!">
+
+<!ENTITY idea.thanksMessageTop     "의견을 들려 주셔서 매우 감사합니다.우리는 항상 &brandShortName; 개선에 최선을 다하고 있으며, 여러분의 협력은 매우 큰 도움이 됩니다.">
+
+<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five"  This is a celebratory or congratulatory gesture.
+     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
+     something physical, which is why they can't see it.-->
+<!ENTITY idea.thanksMessageBottom  "안보이는 곳에서도 여러분과 계속 의견을 나누는 중입니다!">
+
+<!ENTITY feedback.privacy          "개인 정보 보호 때문에 의견 속에 어떠한 개인정보도 포함하지 않기를 부탁합니다.">
+<!ENTITY feedback.send             "의견 보내기">

@@ -121,7 +121,7 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
 <!ENTITY  event.menu.options.privacy.public.label             "공개 이벤트">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "날자와 시간만 공개">
+<!ENTITY  event.menu.options.privacy.confidential.label       "날짜와 시간만 공개">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
 <!ENTITY  event.menu.options.privacy.private.label            "비공개 이벤트">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
@@ -165,12 +165,14 @@
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "종료:" >
 <!ENTITY event.to.accesskey                               "n">
-<!ENTITY task.to.label                                    "종료 날자:" >
+<!ENTITY task.to.label                                    "종료 날짜:" >
 <!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "상태:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "되풀이:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "종료일:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "알림:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "설명:" >
