@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "ดาวน์โหลด">
 <!ENTITY aboutDownloads.header                     "การดาวน์โหลดของคุณ">
 <!ENTITY aboutDownloads.empty                      "ไม่มีการดาวน์โหลด">
+
+<!ENTITY aboutDownloads.open                       "เปิด">
+<!ENTITY aboutDownloads.remove                     "ลบ">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "หยุด">
+<!ENTITY aboutDownloads.resume                     "Resume">
+<!ENTITY aboutDownloads.cancel                     "ยกเลิก">
+<!ENTITY aboutDownloads.retry                      "ลองใหม่">
