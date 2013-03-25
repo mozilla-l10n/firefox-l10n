@@ -26,6 +26,9 @@
 
 <!ENTITY filterActionDesc.label "نفذ الإجراءات التالية:">
 <!ENTITY filterActionDesc.accesskey "ن">
+
+<!ENTITY filterActionOrderWarning.label "ملاحظة: ستُنفّذ إجراءات المرشِّح بترتيب مختلف.">
+<!ENTITY filterActionOrder.label "اطّلع على ترتيب التنفيذ">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "انقل الرسالة إلى">

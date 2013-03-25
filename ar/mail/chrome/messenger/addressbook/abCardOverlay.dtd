@@ -140,6 +140,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "معرّف جابِّر:">
 <!ENTITY XMPP.accesskey                 "م">
+<!ENTITY IRC.label                      "كنية IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "صورة">
 <!ENTITY Photo.accesskey                "ة">
