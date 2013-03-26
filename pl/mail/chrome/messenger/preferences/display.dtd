@@ -16,21 +16,14 @@
 <!ENTITY regularSize.label          "Normalny">
 <!ENTITY bigger.label               "Większy">
 <!ENTITY smaller.label              "Mniejszy">
-<!ENTITY color.label                "Kolor:">
-<!ENTITY color.accesskey            "K">
+<!ENTITY quotedTextColor.label "Kolor:">
+<!ENTITY quotedTextColor.accesskey "o">
 <!ENTITY displayWidth.label         "Wiadomości tekstowe">
 <!ENTITY displayText.label          "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
-<!ENTITY colors.label               "Kolory">
-<!ENTITY overrideColors.label       "Podczas wyświetlania wiadomości używaj następujących kolorów:">
-<!ENTITY  textColor.label           "Kolor tekstu:">
-<!ENTITY  textColor.accesskey       "u">
-<!ENTITY  backgroundColor.label     "Kolor tła:">
-<!ENTITY  backgroundColor.accesskey "a">
 
 <!ENTITY convertEmoticons.label     "Wyświetlaj emotikony jako grafikę">
 <!ENTITY convertEmoticons.accesskey "W">
 
-<!-- labels -->
 <!ENTITY displayTagsText.label     "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
 <!ENTITY addTagButton.label        "Dodaj">
 <!ENTITY addTagButton.accesskey    "D">
@@ -39,11 +32,12 @@
 <!ENTITY removeTagButton.label     "Usuń">
 <!ENTITY removeTagButton.accesskey "U">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label  "Czcionki">
+<!ENTITY fontsAndColors1.label "Czcionki i kolory">
 <!ENTITY defaultFont.label     "Domyślna czcionka:">
 <!ENTITY defaultFont.accesskey "D">
 <!ENTITY defaultSize.label     "Rozmiar:">
 <!ENTITY defaultSize.accesskey "R">
 <!ENTITY fontOptions.label     "Zaawansowane…">
 <!ENTITY fontOptions.accesskey "Z">
+<!ENTITY colorButton.label "Kolory…">
+<!ENTITY colorButton.accesskey "K">
