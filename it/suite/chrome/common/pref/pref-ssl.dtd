@@ -4,6 +4,7 @@
 
 <!ENTITY SSLProtocolVersions.caption "Versioni protocollo SSL">
 <!ENTITY SSLWarnings.caption "Avvisi SSL">
+<!ENTITY SSLMixedContent.caption "Contenuto misto">
 <!ENTITY SSLClientAuthMethod.caption "Selezione certificato lato client">
 <!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
 <!ENTITY enable.ssl30.label "Abilita SSL 3.0">
@@ -19,6 +20,14 @@
 <!ENTITY warn.leavingsecure.accesskey "U">
 <!ENTITY warn.viewmixed "Visualizzare una pagina con parti sicure miste a parti non sicure">
 <!ENTITY warn.viewmixed.accesskey "V">
+<!ENTITY warn.mixedactivecontent "Avvisa quando le pagine cifrate contengono contenuto non sicuro">
+<!ENTITY warn.mixedactivecontent.accesskey "A">
+<!ENTITY block.activecontent "Non caricare contenuto non sicuro nelle pagine cifrate">
+<!ENTITY block.activecontent.accesskey "N">
+<!ENTITY warn.mixeddisplaycontent "Avvisa quando le pagine cifrate contengono altri tipi di contenuto misto">
+<!ENTITY warn.mixeddisplaycontent.accesskey "v">
+<!ENTITY block.displaycontent "Non caricare altri tipi di contenuto misto nelle pagine cifrate">
+<!ENTITY block.displaycontent.accesskey "o">
 <!ENTITY certselect.description "Decidere come &brandShortName; selezionerà un certificato di sicurezza da offrire quando un sito lo richieda:">
 <!ENTITY certselect.auto "Seleziona automaticamente">
 <!ENTITY certselect.auto.accesskey "S">
