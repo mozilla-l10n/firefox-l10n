@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label     "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "s">
 
+<!ENTITY showTrayIcon.label "wyświetlaj ikonę w obszarze powiadomień">
+<!ENTITY showTrayIcon.accesskey "t">
+
 <!ENTITY play.label               "Odtwórz">
 <!ENTITY play.accesskey           "r">
 <!ENTITY systemsound.label        "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
