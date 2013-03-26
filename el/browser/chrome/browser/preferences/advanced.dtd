@@ -155,11 +155,11 @@
 
 <!ENTITY enableTelemetry.label           "Ενεργοποίηση τηλεμετρίας">
 <!ENTITY enableTelemetry.accesskey       "Τ">
-<!ENTITY healthReportDesc.label          "Σας βοηθάει να κατανοήσετε την συμπεριφορά του περιηγητή σας και μοιράζεται δεδομένα με το &vendorShortName; για την υγεία του περιηγητή σας">
+<!ENTITY healthReportDesc.label          "Σας βοηθάει να κατανοήσετε την συμπεριφορά του περιηγητή σας και αποστέλλει δεδομένα στον &vendorShortName; σχετικά με την σταθερότητα της εφαρμογής">
 <!ENTITY enableHealthReport.accesskey    "ν">
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
-<!ENTITY telemetryDesc.label             "Μοιράζετε τα δεδομένα συμπεριφοράς, χρήσης, υλικού και προσαρμογών του περιηγητή σας με τον &vendorShortName; για να μας βοηθήσετε να κάνουμε τον &brandShortName; καλύτερο">
+<!ENTITY telemetryDesc.label             "Αποστολή των δεδομένων συμπεριφοράς, χρήσης, υλικού και προσαρμογών του περιηγητή σας στον &vendorShortName; για να  βοηθήσετε να κάνουμε τον &brandShortName; καλύτερο">
 <!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
 <!ENTITY telemetrySection.label          "Τηλεμετρία">
 
