@@ -7,7 +7,6 @@
 <!ENTITY intro.message "Расскажите нам, что вы думаете о &brandShortName; для Android.">
 <!ENTITY intro.happyLink "Мне нравится">
 <!ENTITY intro.sadLink "Я столкнулся с некоторыми проблемами">
-<!ENTITY intro.ideaLink "У меня есть идея">
 <!ENTITY support.pre "Если вам нужна помощь или у вас возникла проблема с &brandShortName;, пожалуйста, посетите ">
 <!ENTITY support.link "сайт поддержки &brandShortName;">
 <!ENTITY support.post ".">
@@ -24,10 +23,5 @@
 <!ENTITY sad.thanksHeader "Спасибо, что дали нам знать.">
 <!ENTITY sad.thanksMessageTop "Мы постоянно работаем над тем, чтобы сделать &brandShortName; ещё лучше. Будьте уверены, что ваш отзыв увидят живые люди, которые сделают всё возможное, чтобы решить вашу проблему.">
 <!ENTITY sad.thanksMessageBottom "Иначе им не поздоровится.">
-<!ENTITY idea.message "Мы с радостью выслушаем ваши идеи! Вы можете поделиться ими через размещённое ниже поле (но только теми, что относятся к &brandShortName;).">
-<!ENTITY idea.placeholder "Напишите здесь свою идею">
-<!ENTITY idea.thanksHeader "Спасибо!">
-<!ENTITY idea.thanksMessageTop "Мы очень ценим то, что вы нашли время поделиться своими мыслями. Мы постоянно работаем над тем, чтобы сделать &brandShortName; ещё лучше, и ваши идеи всегда могут привести нас к чему-то новому.">
-<!ENTITY idea.thanksMessageBottom "Хотя вы этого не видите, прямо сейчас мы жмём вам руку.">
 <!ENTITY feedback.privacy "Для обеспечения вашей приватности, пожалуйста, не включайте в отзыв любую идентифицирующую вас информацию.">
 <!ENTITY feedback.send "Отправить отзыв">
