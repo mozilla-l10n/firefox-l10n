@@ -648,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.helplink "詳細資訊">
 <!ENTITY mixedContentBlocked.moreinfo "大部分的網站在此內容被封鎖時還是能正常使用。">
 
+<!ENTITY pointerLock.notification.message "隨時按下 ESC 以再次顯示游標。">
+
