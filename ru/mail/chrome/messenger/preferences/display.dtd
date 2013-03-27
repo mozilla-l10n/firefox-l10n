@@ -15,16 +15,10 @@
 <!ENTITY regularSize.label "Обычный">
 <!ENTITY bigger.label "Больше">
 <!ENTITY smaller.label "Меньше">
-<!ENTITY color.label "Цвет:">
-<!ENTITY color.accesskey "в">
+<!ENTITY quotedTextColor.label "Цвет:">
+<!ENTITY quotedTextColor.accesskey "в">
 <!ENTITY displayWidth.label "Простые текстовые сообщения">
 <!ENTITY displayText.label "При отображении цитат в простых текстовых сообщениях:">
-<!ENTITY colors.label "Цвета">
-<!ENTITY overrideColors.label "При отображении сообщений использовать следующие цвета:">
-<!ENTITY textColor.label "Цвет текста:">
-<!ENTITY textColor.accesskey "т">
-<!ENTITY backgroundColor.label "Цвет фона:">
-<!ENTITY backgroundColor.accesskey "ф">
 <!ENTITY convertEmoticons.label "Отображать смайлики как графику">
 <!ENTITY convertEmoticons.accesskey "б">
 <!ENTITY displayTagsText.label "Метки могут быть использованы для классификации и изменения приоритета сообщений.">
@@ -34,10 +28,12 @@
 <!ENTITY editTagButton.accesskey "е">
 <!ENTITY removeTagButton.label "Удалить">
 <!ENTITY removeTagButton.accesskey "и">
-<!ENTITY fontsAndColors.label "Шрифты">
+<!ENTITY fontsAndColors1.label "Шрифты и цвета">
 <!ENTITY defaultFont.label "Шрифт по умолчанию:">
 <!ENTITY defaultFont.accesskey "и">
 <!ENTITY defaultSize.label "Размер:">
 <!ENTITY defaultSize.accesskey "м">
 <!ENTITY fontOptions.accesskey "о">
 <!ENTITY fontOptions.label "Дополнительно…">
+<!ENTITY colorButton.label "Цвета…">
+<!ENTITY colorButton.accesskey "а">

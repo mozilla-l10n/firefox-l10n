@@ -475,3 +475,4 @@
 <!ENTITY webrtcIndicatorButton.tooltip "Показать сайты, которые сейчас имеют доступ к вашей камере или микрофону">
 <!ENTITY mixedContentBlocked.helplink "Подробнее">
 <!ENTITY mixedContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
+<!ENTITY pointerLock.notification.message "Нажмите ESC в любой момент, чтобы показать его снова.">
