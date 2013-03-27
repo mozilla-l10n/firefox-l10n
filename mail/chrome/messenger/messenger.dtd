@@ -403,12 +403,12 @@
 <!ENTITY openConversationCmd.label "Открыть в разговоре">
 <!ENTITY openConversationCmd.accesskey "т">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Открыть сообщение ленты новостей">
-<!ENTITY openFeedMessage.accesskey "т">
-<!ENTITY openFeedWebPageInWindow.label "Веб-страницу в новом окне">
-<!ENTITY openFeedWebPageInWindow.accesskey "е">
-<!ENTITY openFeedSummaryInWindow.label "Сводку в новом окне">
-<!ENTITY openFeedSummaryInWindow.accesskey "в">
+<!ENTITY openFeedMessage1.label "При открытии сообщений из ленты новостей">
+<!ENTITY openFeedMessage1.accesskey "и">
+<!ENTITY openFeedWebPage.label "Открыть как веб-страницу">
+<!ENTITY openFeedWebPage.accesskey "е">
+<!ENTITY openFeedSummary.label "Открыть как сводку">
+<!ENTITY openFeedSummary.accesskey "в">
 <!ENTITY openFeedWebPageInMP.label "Переключиться между веб-страницей и сводкой в области просмотра сообщения">
 <!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY windowMenu.label "Окно">

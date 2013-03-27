@@ -8,16 +8,18 @@
 <!ENTITY location.label "Адрес:">
 <!ENTITY location1.accesskey "д">
 <!ENTITY useDefault.label "Восстановить">
-<!ENTITY useDefault.accesskey "т">
+<!ENTITY useDefault.accesskey "н">
 <!ENTITY bounceSystemDockIcon.label "Анимация значка в доке">
-<!ENTITY bounceSystemDockIcon.accesskey "д">
+<!ENTITY bounceSystemDockIcon.accesskey "и">
 <!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
 <!ENTITY playSound.label "Подавать звуковой сигнал">
 <!ENTITY playSound1.accesskey "в">
 <!ENTITY showAnimatedAlert.label "Показывать уведомление">
-<!ENTITY showAnimatedAlert.accesskey "у">
+<!ENTITY showAnimatedAlert.accesskey "к">
 <!ENTITY customizeMailAlert.label "Настроить…">
-<!ENTITY customizeMailAlert.accesskey "т">
+<!ENTITY customizeMailAlert.accesskey "а">
+<!ENTITY showTrayIcon.label "Показать значок в трее">
+<!ENTITY showTrayIcon.accesskey "о">
 <!ENTITY play.label "Прослушать">
 <!ENTITY play.accesskey "ш">
 <!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
@@ -25,6 +27,6 @@
 <!ENTITY systemsoundMac.accesskey "м">
 <!ENTITY systemsound.accesskey "м">
 <!ENTITY customsound.label "Использовать следующий звуковой файл">
-<!ENTITY customsound.accesskey "в">
+<!ENTITY customsound.accesskey "з">
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">
