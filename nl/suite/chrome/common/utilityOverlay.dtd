@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label                  "Browservenster">
 <!ENTITY newNavigatorCmd.key                    "N">
 <!ENTITY newNavigatorCmd.accesskey              "v">
+<!ENTITY newPrivateWindowCmd.label "Privévenster">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "P">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
