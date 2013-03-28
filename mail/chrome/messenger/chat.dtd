@@ -13,8 +13,8 @@
 <!ENTITY chat.noAccount.description       "O &brandShortName; pode conduzir o processo de configuração da sua conta de bate-papo.">
 <!ENTITY chat.accountWizard.button       "Começar">
 <!ENTITY chat.noConnectedAccount.title             "Suas contas de bate-papo não estão conectadas.">
-<!ENTITY chat.noConnectedAccount.description       "Você pode conectá-las pela janela “Status do bate-papo”:">
-<!ENTITY chat.showAccountManager.button       "Exibir status do bate-papo">
+<!ENTITY chat.noConnectedAccount.description       "Você pode conectá-las pela janela “Contas de bate-papo”:">
+<!ENTITY chat.showAccountManager.button       "Contas de bate-papo">
 
 <!ENTITY chat.participants             "Participantes:">
 <!ENTITY chat.previousConversations    "Conversas anteriores:">

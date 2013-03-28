@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integração com o sistema">
+<!ENTITY acceptIntegration.label  "Definir como padrão">
+<!ENTITY cancelIntegration.label  "Pular integração">
 <!ENTITY defaultClient.intro  "Tornar o &brandShortName; o aplicativo padrão para:">
 
 <!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Newsgroups">
 <!ENTITY feeds.label "RSS">
+
+<!ENTITY unsetDefault.tooltip "Não é possível remover o &brandShortName; como o cliente padrão dentro do &brandShortName;. Para tornar outra aplicação o cliente padrão você deve usar a configuração 'Tornar padrão' da própria aplicação.">
 
 <!ENTITY checkOnStartup.label "Sempre verificar ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "S">
