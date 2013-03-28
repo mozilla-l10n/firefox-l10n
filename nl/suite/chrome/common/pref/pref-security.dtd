@@ -1,28 +1,33 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privacy &amp; beveiliging">
 
 <!ENTITY tracking.label                   "Gebruikersanalyse">
-<!ENTITY doNotTrack.label                 "Vertel websites dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey             "V">
+<!ENTITY trackingIntro.label              "Websites kunnen volgen hoe u ze gebruikt en dat heeft effect op uw privacy.">
 
-<!ENTITY  privateData.label               "Privégegevens">
+<!ENTITY dntTellSites.label               "Websites mijn volginstellingen laten weten">
+<!ENTITY dntTellSites.accesskey           "W">
+<!ENTITY dntTrackingNotOkay.label         "Ik wil niet gevolgd worden">
+<!ENTITY dntTrackingNotOkay.accesskey     "n">
+<!ENTITY dntTrackingOkay.label            "Ik geeft toestemming om gevolgd te worden">
+<!ENTITY dntTrackingOkay.accesskey        "t">
 
-<!ENTITY  alwaysClear.label               "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">
-<!ENTITY  alwaysClear.accesskey           "A">
 
-<!ENTITY  askBeforeClear.label            "Mij vragen alvorens privégegevens te wissen">
-<!ENTITY  askBeforeClear.accesskey        "M">
-
-<!ENTITY clearDataSettings.label          "Als ik &brandShortName; vraag mijn privégegevens te wissen, moet het volgende worden verwijderd:">
-
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 -->
-<!ENTITY clearDataDialog.label            "Nu wissen…">
-<!ENTITY clearDataSilent.label            "Nu wissen">
-<!ENTITY clearDataDialog.accesskey        "u">
+<!ENTITY safeBrowsing.label               "Veilig surfen">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; kan gerapporteerde websites met kwaadwillende inhoud blokkeren.">
+
+<!ENTITY blockAttackSites.label           "Gerapporteerde aanvalsites blokkeren (malware, virussen)">
+<!ENTITY blockAttackSites.accesskey       "b">
+
+<!ENTITY blockWebForgeries.label          "Gerapporteerde webvervalsingen blokkeren (phishing)">
+<!ENTITY blockWebForgeries.accesskey      "p">
+
