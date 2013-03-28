@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "Sync">
+
+<!ENTITY syncHeader.title           "Sync">
 <!ENTITY sync.notconnected          "Ej ansluten">
 <!ENTITY sync.connect               "Anslut">
 <!ENTITY sync.connected             "Ansluten">
-<!ENTITY sync.details               "Detaljer">
 <!ENTITY sync.deviceName            "Den här enheten">
 <!ENTITY sync.disconnect            "Koppla bort">
-<!ENTITY sync.syncNow               "Synka nu">
+<!ENTITY sync.syncNow2              "Synka nu">
 
 <!ENTITY sync.setup.title           "Anslut till Sync">
-<!ENTITY sync.setup.pair            "Aktivera genom att välja ”Para ihop enheter” på din andra enhet.">
+<!ENTITY sync.setup.pair2           "Aktivera genom att välja ”Para ihop enheter” på din andra enhet.">
 <!ENTITY sync.fallback              "Jag har inte enheten med mig …">
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">
@@ -26,6 +26,7 @@
 <!ENTITY sync.setup.waiting2        "Väntar på den andra enheten …">
 
 <!ENTITY sync.pair.title            "Para ihop enheter">
+<!ENTITY sync.pair.button           "Para ihop enheter">
 <!ENTITY sync.pair.description      "Aktivera en ny enhet genom att välja ”Ställ in Sync” på enheten.">
 <!ENTITY sync.setup.close           "Stäng">
 <!ENTITY sync.setup.waitingdownload "Din data hämtas nu i bakgrunden. Du kan stänga det här fönstret om du vill.">
