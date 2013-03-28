@@ -17,14 +17,18 @@
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
 <!ENTITY contextDesc.label "Aplicar filtro ao:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Receber">
+<!ENTITY contextIncomingMail.label "Receber novas mensagens:">
+<!ENTITY contextIncomingMail.accesskey "R">
 <!ENTITY contextManual.label "Aplicar manualmente">
-<!ENTITY contextBoth.label "Receber ou aplicar manualmente">
-<!ENTITY contextPostPlugin.label "Verificar mensagens (depois da classificação)">
-<!ENTITY contextPostPluginBoth.label "Verificar mensagens (depois da classificação) ou aplicar manualmente">
+<!ENTITY contextManual.accesskey "A">
+<!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
+<!ENTITY contextAfterCls.label "Filtrar após aplicar o Antispam">
+
 <!ENTITY filterActionDesc.label "Executar estas ações:">
-<!ENTITY filterActionDesc.accesskey "x">
+<!ENTITY filterActionDesc.accesskey "X">
+
+<!ENTITY filterActionOrderWarning.label "Observação: os filtros serão aplicados em uma ordem diferente.">
+<!ENTITY filterActionOrder.label "Ver ordem de execução">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover para">
@@ -55,3 +59,4 @@
  -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
+

@@ -51,6 +51,10 @@
 <!ENTITY allowRemoteContent1.accesskey  "N">
 <!ENTITY allowRemoteContent1.tooltip    "Em mensagens HTML é possível embutir conteúdo de fontes remotas. Ao ser aberta, uma mensagem dessas irá realizar uma conexão para estas fontes. Isto pode permitir o rastreamento da leitura da mensagem. Marque esta opção para permitir conteúdos externos em mensagens HTML deste contato.">
 
+
+
+
+
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "C">
 <!ENTITY HomePhone.label                "Residencial:">
@@ -140,6 +144,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Usuário XMPP:">
 <!ENTITY XMPP.accesskey                 "X">
+<!ENTITY IRC.label                      "Apelido IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
