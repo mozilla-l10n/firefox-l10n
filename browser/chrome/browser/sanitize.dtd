@@ -58,5 +58,5 @@ that require it.  -->
      Clear History on Shutdown dialogs.  Should be large enough to contain
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
-<!ENTITY dialog.width2                 "34em">
-<!ENTITY column.width2                 "17em">
+<!ENTITY dialog.width2                 "40em">
+<!ENTITY column.width2                 "22em">
