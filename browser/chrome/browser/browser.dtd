@@ -161,7 +161,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Console web remota">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
-<!ENTITY inspectContextMenu.accesskey "t">
+<!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
 <!ENTITY responsiveDesignTool.accesskey "u">
 <!ENTITY responsiveDesignTool.commandkey "M">
@@ -293,7 +293,7 @@
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
 <!ENTITY viewBGImageCmd.accesskey "V">
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "k">
+<!ENTITY setDesktopBackgroundCmd.accesskey "p">
 <!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri…">
 <!ENTITY bookmarkPageCmd2.accesskey "b">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link nei segnalibri…">
@@ -435,7 +435,7 @@
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "z">
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.cancel.label "Annulla">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
