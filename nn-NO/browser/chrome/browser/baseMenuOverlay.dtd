@@ -22,7 +22,10 @@
 <!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar …">
 <!ENTITY helpSafeMode.accesskey   "S">
 
-<!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
+<!ENTITY healthReport.label       "&brandShortName; helserapport">
+<!ENTITY healthReport.accesskey   "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
 <!ENTITY helpFeedbackPage.label      "Gje tilbakemelding …">
