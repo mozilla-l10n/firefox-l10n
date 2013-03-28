@@ -475,3 +475,4 @@
 <!ENTITY webrtcIndicatorButton.tooltip "Visualizza i siti con cui sono condivisi fotocamera o microfono">
 <!ENTITY mixedContentBlocked.helplink "Ulteriori informazioni">
 <!ENTITY mixedContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
