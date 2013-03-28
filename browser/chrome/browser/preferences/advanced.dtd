@@ -143,7 +143,7 @@
 
 <!ENTITY setDefault.accesskey            "ρ">
 
-<!ENTITY crashReporterDesc.label         "Ο &brandShortName; υποβάλλει αναφορές καταρρεύσεων για να βοηθηθεί ο &vendorShortName; να βελτιώσει την σταθερότητα και την ασφάλεια του περιηγητή σας">
+<!ENTITY crashReporterDesc.label         "Ο &brandShortName; υποβάλλει αναφορές καταρρεύσεων στον &vendorShortName; για την βελτίωση της σταθερότητας και της ασφάλειας του περιηγητή σας">
 
 <!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
 <!ENTITY crashReporterSection.label      "Εφαρμογή αναφοράς καταρρεύσεων">
