@@ -66,6 +66,7 @@
 <!ENTITY  permGeo               "Uppge position">
 <!ENTITY  permPlugins           "Aktivera insticksmoduler">
 <!ENTITY  permFullscreen        "Visa i helskärm">
+<!ENTITY  permPointerLock       "Dölja muspekaren">
 
 <!ENTITY  permIndexedDB              "Lagra för nedkopplat läge">
 <!ENTITY  permClearStorage           "Rensa lagring">
