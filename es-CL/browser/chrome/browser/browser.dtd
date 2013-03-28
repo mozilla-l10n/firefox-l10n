@@ -478,3 +478,5 @@
 <!ENTITY mixedContentBlocked.helplink "Aprender más">
 <!ENTITY mixedContentBlocked.moreinfo "La mayoría de los sitios web seguirá funcionando correctamente incluso si este contenido es bloqueado.">
 
+<!ENTITY pointerLock.notification.message "Presiona ESC en cualquier momento para mostrarlo nuevamente.">
+
