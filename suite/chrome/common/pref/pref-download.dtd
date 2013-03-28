@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Downloads">
 
 <!ENTITY downloadBehavior.label         "Wanneer het downloaden wordt gestart">
-<!ENTITY focusWhenStarting.label        "De downloadbeheerder laten knipperen als deze al is geopend, en anders:">
-<!ENTITY focusWhenStarting.accesskey    "k">
-<!ENTITY openDM.label                   "De downloadbeheerder openen">
-<!ENTITY openDM.accesskey               "d">
-<!ENTITY openProgressDialog.label       "Een voortgangsdialoogvenster openen">
-<!ENTITY openProgressDialog.accesskey   "o">
 <!ENTITY doNothing.label                "Niets openen">
 <!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Een voortgangsdialoogvenster openen">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY openDM.label                   "De downloadbeheerder openen">
+<!ENTITY openDM.accesskey               "d">
+<!ENTITY flashWhenOpen.label            "Knipper de downloadbeheerder als deze al open is">
+<!ENTITY flashWhenOpen.accesskey        "K">
 
 <!ENTITY downloadLocation.label         "Bij het opslaan van een bestand">
 <!ENTITY saveTo.label                   "Bestanden opslaan in">
