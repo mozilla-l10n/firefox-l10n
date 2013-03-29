@@ -18,7 +18,7 @@
 <!ENTITY abouthealth.optout "Desactivar lo bilanç de santat">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Arrestar lo mandadís de las donadas ?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Afichar lo bilanç de &brandShortName;">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
 
 <!ENTITY abouthealth.show-raw-data "Afichar los detalhs">
 <!ENTITY abouthealth.hide-raw-data "Amagar los detalhs">
