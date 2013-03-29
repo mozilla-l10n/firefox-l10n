@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_firstrun "S\'està configurant el &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "S\u0027està configurant el &brandShortName;\u2026">
 
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
-<!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
+<!ENTITY  error_loading_file "S\u0027ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Informe de fallades del &brandShortName;">
-<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\'inici del &brandShortName; en reiniciar.">
+<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\u0027inici del &brandShortName; en reiniciar.">
 <!ENTITY  crash_help_message "Ajudeu-nos a solucionar aquest problema!">
 <!ENTITY  crash_send_report_message "Envia un informe de fallada a Mozilla">
-<!ENTITY  crash_include_url "Inclou l\'adreça de la pàgina">
+<!ENTITY  crash_include_url "Inclou l\u0027adreça de la pàgina">
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
-<!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
+<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
 <!ENTITY  continue_label "Continua">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Aplicacions web">
-<!ENTITY  launcher_shortcuts_empty "No s\'ha trobat cap aplicació Web">
+<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació Web">
 
 <!ENTITY choose_file "Trieu un fitxer">

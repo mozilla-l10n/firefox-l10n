@@ -5,5 +5,5 @@
 <!ENTITY migration.title "&brandFullName;: Importació de dades">
 <!ENTITY migration.welcome "Us donem la benvinguda">
 <!ENTITY migration.importing "S'està important">
-<!ENTITY migration.list.description "El &brandShortName; pot importar les dades de calendari de moltes aplicacions populars. Les dades de les aplicacions següents poden trobar-se en el vostre ordinador. Seleccioneu-ne les que voleu importar.">
+<!ENTITY migration.list.description "El &brandShortName; pot importar les dades de calendari de moltes aplicacions conegudes. S'han trobat les aplicacions següents a l'ordinador. Seleccioneu de quines aplicacions voleu importar les dades.">
 <!ENTITY migration.progress.description "S'estan important les dades seleccionades">

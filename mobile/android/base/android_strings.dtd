@@ -3,29 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "S\'està configurant el vostre &brandShortName;">
-<!ENTITY  splash_bookmarks_history "S\'estan actualitzant les adreces d\'interès i l\'historial; això pot trigar una estona.">
+<!ENTITY  splash_settingup "S\u0027està configurant el vostre &brandShortName;">
+<!ENTITY  splash_bookmarks_history "S\u0027estan actualitzant les adreces d\u0027interès i l\u0027historial; això pot trigar una estona.">
 
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
-<!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar els fitxers necessaris per executar el &brandShortName;">
+<!ENTITY  error_loading_file "S\u0027ha produït un error quan es provava de carregar els fitxers necessaris per executar el &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Habituals">
-<!ENTITY  awesomebar_bookmarks_title "D\'interès">
+<!ENTITY  awesomebar_bookmarks_title "D\u0027interès">
 <!ENTITY  awesomebar_history_title "Historial">
 
 <!ENTITY  crash_reporter_title "Informe de fallades del &brandShortName;">
-<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\'inici del &brandShortName; en reiniciar.">
+<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\u0027inici del &brandShortName; en reiniciar.">
 <!ENTITY  crash_help_message "Ajudeu-nos a solucionar aquest problema!">
 <!ENTITY  crash_send_report_message "Envia un informe de fallada a Mozilla">
-<!ENTITY  crash_include_url "Inclou l\'adreça de la pàgina">
+<!ENTITY  crash_include_url "Inclou l\u0027adreça de la pàgina">
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
-<!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
+<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
 <!ENTITY  continue_label "Continua">
 
 <!ENTITY  launcher_shortcuts_title "Aplicacions web del &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "No s\'ha trobat cap aplicació Web">
+<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació Web">
 
 <!ENTITY choose_file "Trieu un fitxer">
 
@@ -34,10 +34,10 @@
 <!ENTITY remote_tabs "Pestanyes sincronitzades">
 <!ENTITY remote_tabs_show_all "Mostra totes les pestanyes">
 
-<!ENTITY bookmark "Adreça d\'interès">
-<!ENTITY bookmark_added "S\'ha afegit l\'adreça d\'interès">
-<!ENTITY bookmark_removed "S\'ha suprimit l\'adreça d\'interès">
-<!ENTITY bookmark_updated "S\'ha actualitzat l\'adreça d\'interès">
+<!ENTITY bookmark "Adreça d\u0027interès">
+<!ENTITY bookmark_added "S\u0027ha afegit l\u0027adreça d\u0027interès">
+<!ENTITY bookmark_removed "S\u0027ha suprimit l\u0027adreça d\u0027interès">
+<!ENTITY bookmark_updated "S\u0027ha actualitzat l\u0027adreça d\u0027interès">
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
@@ -58,7 +58,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestanyes">
-<!ENTITY new_tab_opened "S\'ha obert una pestanya nova">
+<!ENTITY new_tab_opened "S\u0027ha obert una pestanya nova">
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
@@ -101,13 +101,13 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\'innovar en el vostre nom sense cap tipus de pressió a l\'hora de comprometre\'ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
+<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
 <!ENTITY pref_show_product_announcements "Mostra notícies de producte">
 <!ENTITY pref_sync "Sincronitza">
 <!ENTITY pref_search_suggestions "Mostra els suggeriments de cerca">
-<!ENTITY pref_import_android "Importa de l\'Android">
+<!ENTITY pref_import_android "Importa de l\u0027Android">
 <!ENTITY pref_private_data_history "Historial de navegació i baixades">
 <!ENTITY pref_private_data_formdata "Historial de formularis i cerques">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
 <!ENTITY pref_private_data_siteSettings "Preferències dels llocs">
+<!ENTITY pref_private_data_downloadFiles "Fitxers baixats">
 
 <!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
 <!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
@@ -141,9 +142,9 @@ size. -->
 <!ENTITY tabs_normal "Pestanyes">
 <!ENTITY tabs_private "Privada">
 <!ENTITY tabs_synced "Sincronitzada">
-<!ENTITY wallpaper_success "Fons d\'escriptori actualitzat">
-<!ENTITY wallpaper_progress "Configuració del fons d\'escriptori">
-<!ENTITY wallpaper_fail "No s\'ha pogut establir el fons d\'escriptori">
+<!ENTITY wallpaper_success "Fons d\u0027escriptori actualitzat">
+<!ENTITY wallpaper_progress "Configuració del fons d\u0027escriptori">
+<!ENTITY wallpaper_fail "No s\u0027ha pogut establir el fons d\u0027escriptori">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -157,16 +158,16 @@ size. -->
 <!ENTITY contextmenu_open_in_reader "Obre en el Lector">
 <!ENTITY contextmenu_remove_history "Suprimeix">
 <!ENTITY contextmenu_remove_bookmark "Suprimeix">
-<!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\'\inici">
+<!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\u0027inici">
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_pasteandgo "Enganxa-ho i vés-hi">
 <!ENTITY contextmenu_paste "Enganxa">
-<!ENTITY contextmenu_copyurl "Copia l\'adreça">
+<!ENTITY contextmenu_copyurl "Copia l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Edita">
 
-<!ENTITY history_removed "S\'ha suprimit la pàgina">
+<!ENTITY history_removed "S\u0027ha suprimit la pàgina">
 
-<!ENTITY bookmark_edit_title "Edita l\'adreça d\'interès">
+<!ENTITY bookmark_edit_title "Edita l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
@@ -177,9 +178,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
 
 <!ENTITY reading_list "Llista de lectura">
-<!ENTITY reading_list_added "S\'ha afegit a la vostra pàgina de lectura">
-<!ENTITY reading_list_removed "S\'ha suprimit de la vostra pàgina de lectura">
-<!ENTITY reading_list_failed "No s\'ha pogut afegir la pàgina a la vostra llista de lectura">
+<!ENTITY reading_list_added "S\u0027ha afegit a la vostra pàgina de lectura">
+<!ENTITY reading_list_removed "S\u0027ha suprimit de la vostra pàgina de lectura">
+<!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
@@ -187,7 +188,7 @@ size. -->
 <!ENTITY masterpassword_password "Contrasenya">
 <!ENTITY masterpassword_confirm "Confirmeu la contrasenya">
 
-<!ENTITY button_ok "D\'acord">
+<!ENTITY button_ok "D\u0027acord">
 <!ENTITY button_cancel "Cancel·la">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
@@ -197,19 +198,20 @@ size. -->
 
 <!ENTITY abouthome_addons_title "Els complements del &brandShortName;">
 <!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Les pestanyes de l\'última vegada">
-<!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
+<!ENTITY abouthome_last_tabs_title "Les pestanyes de l\u0027última vegada">
+<!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
 <!ENTITY abouthome_top_sites_title "Habituals">
 <!ENTITY abouthome_topsites_edit "Edita">
 <!ENTITY abouthome_topsites_pin "Fixa el lloc">
 <!ENTITY abouthome_topsites_unpin "No fixis el lloc">
-<!ENTITY abouthome_topsites_unpinall "No fixis cap lloc">
+<!ENTITY abouthome_topsites_remove "Elimina">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Configureu el Firefox Sync per accedir a les adreces d\'interès, l\'historial i les pestanyes dels vostres altres dispositius&#x00A0;»">
+
+<!ENTITY abouthome_about_sync3 "Configureu el Firefox Sync per accedir a les adreces d\u0027interès, l\u0027historial i les pestanyes dels vostres altres dispositius&#x00A0;»">
 <!ENTITY abouthome_about_apps3 "Aconseguiu aplicacions al Marketplace del Firefox i descobriu el millor que el Web us pot oferir&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
@@ -238,16 +240,16 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "funciona mitjançant">
 
-<!ENTITY private_data_success "S\'han netejat les dades privades">
-<!ENTITY private_data_fail "No s\'han pogut netejar algunes dades privades">
+<!ENTITY private_data_success "S\u0027han netejat les dades privades">
+<!ENTITY private_data_fail "No s\u0027han pogut netejar algunes dades privades">
 
 <!ENTITY bookmarkhistory_button_import "Importa">
-<!ENTITY bookmarkhistory_import_both "S\'estan important les adreces d\'interès i historial 
-de l\'Android">
-<!ENTITY bookmarkhistory_import_bookmarks "S\'estan important les adreces d\'interès 
-de l\'Android">
-<!ENTITY bookmarkhistory_import_history "S\'està important l\'historial 
-de l\'Android">
+<!ENTITY bookmarkhistory_import_both "S\u0027estan important les adreces d\u0027interès i historial 
+de l\u0027Android">
+<!ENTITY bookmarkhistory_import_bookmarks "S\u0027estan important les adreces d\u0027interès 
+de l\u0027Android">
+<!ENTITY bookmarkhistory_import_history "S\u0027està important l\u0027historial 
+de l\u0027Android">
 <!ENTITY bookmarkhistory_import_wait "Espereu…">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
@@ -256,15 +258,15 @@ de l\'Android">
 
 <!ENTITY webapp_generic_name "Aplicacions">
 
-<!ENTITY searchable_description "Adreces d\'interès i historial">
+<!ENTITY searchable_description "Adreces d\u0027interès i historial">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_start_select2 "Toqueu per baixar">
 
-<!ENTITY updater_downloading_title2 "S\'està baixant el &brandShortName;">
+<!ENTITY updater_downloading_title2 "S\u0027està baixant el &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ha fallat la baixada">
-<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\'actualització un cop baixada">
+<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
 
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">

@@ -14,9 +14,9 @@
 <!ENTITY pref.dateformat.short "Curt"  >
 <!ENTITY pref.defaultlength.label "Durada per defecte de les cites:" >
 <!ENTITY pref.defaultlength.accesskey "e">
-<!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels silencis:" >
+<!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels ajornaments:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
 
 <!ENTITY pref.accessibility.label "Accessibilitat" >
-<!ENTITY pref.systemcolors.label "Optimitza els colors per l'accessibilitat" >
+<!ENTITY pref.systemcolors.label "Optimitza els colors per a l'accessibilitat" >
 <!ENTITY pref.systemcolors.accesskey "c">

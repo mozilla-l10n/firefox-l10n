@@ -8,7 +8,7 @@
 <!ENTITY event.dialog.keepDurationButton.accesskey "d">
 
 <!ENTITY newevent.from.label                "Des de" >
-<!ENTITY newevent.to.label                  "fins a" >
+<!ENTITY newevent.to.label                  "Fins a" >
 <!ENTITY newevent.attendees.notify.label    "Notifica els assistents">
 
 <!ENTITY newevent.status.label                    "Estat" >
@@ -25,10 +25,10 @@
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "Necessita una acció" >
 <!ENTITY newevent.status.inprogress.label         "En curs" >
-<!ENTITY newevent.status.completed.label          "Finalitzada el dia" >
+<!ENTITY newevent.status.completed.label          "Acabada el dia" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#37; realitzat">
+<!ENTITY newtodo.percentcomplete.label      "&#37; acabat">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -88,7 +88,7 @@
 <!ENTITY  event.menu.view.accesskey                       "V">
 <!ENTITY  event.menu.view.toolbars.label                  "Barres d'eines">
 <!ENTITY  event.menu.view.toolbars.accesskey              "B">
-<!ENTITY  event.menu.view.toolbars.event.label            "Barra de cites">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barra d'eines de cites">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "c">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalitza…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
@@ -105,12 +105,12 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Afegeix un enllaç…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone2.label                  "Mostra el fus horari">
+<!ENTITY  event.menu.options.timezone2.label                  "Mostra els fusos horaris">
 <!ENTITY  event.menu.options.timezone2.accesskey              "h">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritat">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
-<!ENTITY  event.menu.options.priority.notspecified.label      "No especificada">
-<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Sense especificar">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "S">
 <!ENTITY  event.menu.options.priority.low.label               "Baixa">
 <!ENTITY  event.menu.options.priority.low.accesskey           "B">
 <!ENTITY  event.menu.options.priority.normal.label            "Normal">
@@ -125,9 +125,9 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "s">
 <!ENTITY  event.menu.options.privacy.private.label            "Cita privada">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "Mostra l'hora com">
+<!ENTITY  event.menu.options.show.time.label                  "Mostra l'hora com a">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
-<!ENTITY  event.menu.options.show.time.busy.label             "Ocupada">
+<!ENTITY  event.menu.options.show.time.busy.label             "Ocupat">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
 <!ENTITY  event.menu.options.show.time.free.label             "Lliure">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
@@ -165,12 +165,14 @@
 <!ENTITY task.from.accesskey                              "I">
 <!ENTITY event.to.label                                   "Fi:" >
 <!ENTITY event.to.accesskey                               "F">
-<!ENTITY task.to.label                                    "Fi:" >
-<!ENTITY task.to.accesskey                                "F">
+<!ENTITY task.to.label                                    "Venciment:" >
+<!ENTITY task.to.accesskey                                "V">
 <!ENTITY task.status.label                                "Estat:" >
 <!ENTITY task.status.accesskey                            "E">
 <!ENTITY event.repeat.label                               "Repetició:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Fins:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Recordatori:" >
 <!ENTITY event.reminder.accesskey                         "e">
 <!ENTITY event.description.label                          "Descripció:" >
@@ -210,10 +212,10 @@
 
 <!ENTITY recurrence.title.label                         "Edita la repetició">
 
-<!ENTITY event.repeat.does.not.repeat.label             "No es repeteix mai">
+<!ENTITY event.repeat.does.not.repeat.label             "No es repeteix">
 <!ENTITY event.repeat.daily.label                       "Diàriament">
 <!ENTITY event.repeat.weekly.label                      "Setmanalment">
-<!ENTITY event.repeat.every.weekday.label               "Cada dia laboral">
+<!ENTITY event.repeat.every.weekday.label               "Cada dia feiner">
 <!ENTITY event.repeat.bi.weekly.label                   "Cada dues setmanes">
 <!ENTITY event.repeat.monthly.label                     "Mensualment">
 <!ENTITY event.repeat.yearly.label                      "Anualment">
@@ -227,15 +229,15 @@
 <!ENTITY event.recurrence.year.label                    "anualment" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Cada" >
-<!ENTITY repeat.units.days.both                         "Dia/es" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "Cada dia de la setmana" >
+<!ENTITY repeat.units.days.both                         "dia/es" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Cada dia feiner" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Cada" >
-<!ENTITY repeat.units.weeks.both                        "Setmana/es" >
-<!ENTITY event.recurrence.on.label                      "Al:" >
+<!ENTITY repeat.units.weeks.both                        "setmana/es" >
+<!ENTITY event.recurrence.on.label                      "El:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Cada" >
-<!ENTITY repeat.units.months.both                       "Mes/os" >
+<!ENTITY repeat.units.months.both                       "mes/os" >
 <!ENTITY event.recurrence.monthly.every.label           "Cada" >
 <!ENTITY event.recurrence.monthly.first.label           "El primer">
 <!ENTITY event.recurrence.monthly.second.label          "El segon">
@@ -254,7 +256,7 @@
 <!ENTITY event.recurrence.repeat.recur.label            "Es repeteix els dies">
 
 <!ENTITY event.recurrence.every.label                        "Cada:" >
-<!ENTITY repeat.units.years.both                             "Any/s" >
+<!ENTITY repeat.units.years.both                             "any/s" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cada" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -306,22 +308,22 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Novembre" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Desembre" >
 
-<!ENTITY event.recurrence.range.label                   "Marge de repetició">
+<!ENTITY event.recurrence.range.label                   "Interval de repetició">
 <!ENTITY event.recurrence.forever.label                 "Sense data de finalització" >
 <!ENTITY event.recurrence.repeat.for.label              "Crea" >
 <!ENTITY event.recurrence.appointments.label            "Cites" >
-<!ENTITY event.repeat.until.label                       "Es repeteixen fins" >
+<!ENTITY event.repeat.until.label                       "Es repeteix fins" >
 <!ENTITY event.recurrence.preview.label                 "Previsualització">
 <!-- Attendees dialog -->
 
 <!ENTITY invite.title.label                     "Invita assistents">
 <!ENTITY event.organizer.label                  "Organitzador">
 <!ENTITY event.freebusy.suggest.slot            "Franja horària suggerida:">
-<!ENTITY event.freebusy.next.slot               "Franja següent" >
-<!ENTITY event.freebusy.previous.slot           "Franja anterior" >
+<!ENTITY event.freebusy.next.slot               "Franja següent " >
+<!ENTITY event.freebusy.previous.slot           " Franja anterior" >
 <!ENTITY event.freebusy.zoom                    "Escala:">
 <!ENTITY event.freebusy.legend.free             "Lliure" >
-<!ENTITY event.freebusy.legend.busy             "Ocupada" >
+<!ENTITY event.freebusy.legend.busy             "Ocupat" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Intent" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Fora de l'oficina" >
 <!ENTITY event.freebusy.legend.unknown          "Sense informació" >
@@ -332,10 +334,10 @@
 <!ENTITY event.attendee.usertype.individual     "Individual">
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Recurs">
-<!ENTITY event.attendee.usertype.room           "Habitació">
+<!ENTITY event.attendee.usertype.room           "Sala">
 <!-- Timezone dialog -->
 
-<!ENTITY timezone.title.label            "Especifiqueu el fus horari">
+<!ENTITY timezone.title.label            "Indiqueu el fus horari">
 <!ENTITY event.timezone.custom.label     "Més fusos horaris…">
 <!-- Read-Only dialog -->
 

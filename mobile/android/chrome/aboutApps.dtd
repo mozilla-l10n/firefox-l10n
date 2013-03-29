@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "No s'ha instal·lat cap aplicació web. Aconseguiu-ne de ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Desinstal·la">
+<!ENTITY aboutApps.addToHomescreen "Afegeix a la pantalla d'inici">

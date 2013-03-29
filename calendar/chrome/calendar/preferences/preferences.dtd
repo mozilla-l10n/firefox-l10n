@@ -9,7 +9,7 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 53em; height: 39.5em;">
 
 <!ENTITY  paneGeneral.title       "General">
-<!ENTITY  paneAlarms.title        "Alarmes">
+<!ENTITY  paneAlarms.title        "Recordatoris">
 <!ENTITY  paneCategories.title    "Categories">
 <!ENTITY  paneViews.title         "Vistes">
 <!ENTITY  paneTimezones.title     "Fus horari">

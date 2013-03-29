@@ -7,15 +7,17 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permet les finestres emergents d'aquest lloc">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
-<!ENTITY openLinkCmd.label            "Obre l'enllaç en una nova finestra">
-<!ENTITY openLinkCmd.accesskey        "O">
-<!ENTITY openLinkCmdInTab.label       "Obre en una nova pestanya">
+<!ENTITY openLinkCmdInTab.label       "Obre l'enllaç en una pestanya nova">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
+<!ENTITY openLinkCmd.label            "Obre l'enllaç en una finestra nova">
+<!ENTITY openLinkCmd.accesskey        "f">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Obre l'enllaç en una finestra privada">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Obre">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
-<!ENTITY openFrameCmd.label           "Obre el marc en una nova finestra">
+<!ENTITY openFrameCmd.label           "Obre el marc en una finestra nova">
 <!ENTITY openFrameCmd.accesskey       "O">
-<!ENTITY openFrameCmdInTab.label      "Obre el marc en una nova pestanya">
+<!ENTITY openFrameCmdInTab.label      "Obre el marc en una pestanya nova">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY keywordfield.label           "Afegeix una paraula clau per a la cerca…">
 <!ENTITY keywordfield.accesskey       "l">
@@ -34,7 +36,7 @@
 <!ENTITY stopCmd.accesskey            "r">
 <!ENTITY reloadFrameCmd.label         "Actualitza el marc">
 <!ENTITY reloadFrameCmd.accesskey     "r">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Mostra la font de la selecció">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Codi font de la selecció">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Mostra la font MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Visualitza el codi font de la pàgina">

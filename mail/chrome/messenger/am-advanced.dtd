@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Paràmetres del servidor de sortida (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
-<!ENTITY smtpDescription.label 'Quan gestioneu les seues identitats podeu utilitzar un servidor d&apos;aquesta llista seleccionant-lo com a servidor d&apos;eixida (SMTP), o podeu utilitzar el servidor predeterminat d&apos;aquesta llista seleccionant "Utilitza el servidor predeterminat"'>
+<!ENTITY smtpDescription.label "Quan gestioneu les seues identitats podeu utilitzar un servidor d&apos;aquesta llista seleccionant-lo com a servidor d&apos;eixida (SMTP), o podeu utilitzar el servidor predeterminat d&apos;aquesta llista seleccionant &quot;Utilitza el servidor predeterminat&quot;">
 
 <!ENTITY smtpListAdd.label  "Afegeix…">
 <!ENTITY smtpListAdd.accesskey  "f">

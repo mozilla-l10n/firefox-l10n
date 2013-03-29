@@ -18,6 +18,7 @@
 <!ENTITY links.label "Comportament dels enllaços">
 <!ENTITY offline.label "Fora de línia">
 <!ENTITY security.label "Privadesa i seguretat">
+<!ENTITY privatedata.label "Dades privades">
 <!ENTITY cookies.label "Galetes">
 <!ENTITY images.label "Imatges">
 <!ENTITY popups.label "Finestres emergents">

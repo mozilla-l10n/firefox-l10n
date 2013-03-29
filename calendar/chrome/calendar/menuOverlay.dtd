@@ -11,7 +11,7 @@
 <!ENTITY event.new.task.key                     "T">
 <!ENTITY event.new.task.accesskey               "t">
 
-<!ENTITY calendar.new.server.label              "Nou calendari…">
+<!ENTITY calendar.new.server.label              "Calendari nou…">
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "d">
 
@@ -56,5 +56,5 @@
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Propietats del calendar…">
+<!ENTITY calendar.properties.label              "Propietats del calendari…">
 <!ENTITY calendar.properties.accesskey          "P">
