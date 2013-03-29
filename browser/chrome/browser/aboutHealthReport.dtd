@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY abouthealth.locale-direction "ltr">
+
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "&brandShortName; Helserapport">
+<!ENTITY abouthealth.header "&brandFullName; Helserapport">
+
+<!ENTITY abouthealth.intro.title "Kva er &brandShortName; Helserapport?">
+
+<!ENTITY abouthealth.intro-enabled "&brandFullName; samlar saman info om datamaskina di og bruk av programmet for å gje deg ei betre oppleving av nettet.">
+<!ENTITY abouthealth.intro-disabled "Du sender no ikkje bruksdata til &vendorShortName;. Du kan hjelpe oss å gjere &brandShortName; betre ved å trykke på &quot;&abouthealth.optin;&quot;-knappen.">
+
+<!ENTITY abouthealth.optin "Hjelp oss å gjere &brandShortName; betre">
+<!ENTITY abouthealth.optout "Skru av rapportering">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Stoppe sending av data?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Er du sikker på at du vil melde deg ut og slette alle anonyme produktdata lagra på &vendorShortName;-tenarane?">
+
+<!ENTITY abouthealth.show-raw-data "Vis detaljar">
+<!ENTITY abouthealth.hide-raw-data "Skjul detaljar">
+
+<!ENTITY abouthealth.show-report "Vis &brandShortName;/rapport">
+
+<!ENTITY abouthealth.details.description-start "Dette er dataa som &brandFullName; sender for at &brandShortName;-helserapporten skal fungere. Du kan ">
+<!ENTITY abouthealth.details-link "lese meir">
+<!ENTITY abouthealth.details.description-end " om kva vi samlar inn og sender.">
+<!ENTITY abouthealth.no-data-available "Det er ingen tidlegare innsendingar å vise. Kom tilbake seinare.">

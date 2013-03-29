@@ -8,21 +8,27 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; vil ikkje loggføre historikk for denne nettlesarøkta.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; er no ikkje i moduset privat nettlesing.">
 
-<!ENTITY privatebrowsingpage.description               "I ei økt med privat nettlesing vil ikkje &brandShortName; loggføre nettlesarhistorikk, søkjehistorikk, nedlastingshistorikk, skjemahistorikk, infokapslar eller mellombelse Internett-filer. Merk at filer du laster ned og bokmerke du lagar vert tekne vare på.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; vil ikkje hugse historikk for dette vindauget.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Du er ikkje i eit privat vindauge no.">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Du kan òg starte med å">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "fjerne den nyaste historikken">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+<!ENTITY privatebrowsingpage.description               "I ei privat nettlesing-økt vil ikkje &brandShortName; lagre historikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapsler eller midlertidige Internett-filer. Men filer du lastar ned og bokmerke du lagar vert tekne vare på.">
+
+<!ENTITY privatebrowsingpage.perwindow.description     "I eit privat nettlaservindauge vil &brandShortName; ikkje registrere nettlesarhistorikk, søkehistorikk, nedlastingshistorikk, skjemahistorikk, infokapslar eller mellombelse internettfiler. Men filer du laster ned og bokmerke du lagar vert tekne vare på.">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Start privat nettlesing">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "a">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Opne eit privat vindauge">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStop2                "For å avslutte privat nettlesing, vel &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, eller avslutt &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "For å starte privat nettlesing kan du òg velje &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Sjølv om denne datamaskina ikkje vil ha spor frå nettlesarhistorikken, kan det hende at Internett-leverandør eller arbeidsgjevar likevel kan spore nettsider som du vitjar.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "For å starte privat nettlesing kan du òg velje &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "For å avslutte privat nettlesing kan du også lukke dette vindauget.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Sjølv om det ikkje vil vere spor av nettlesarhistorikk på denne datamaskina, kan det hende at Internett-leverandør eller arbeidsgjevar likevel kan spore nettsider som du besøker.">
 <!ENTITY privatebrowsingpage.learnMore                 "Les meir">
