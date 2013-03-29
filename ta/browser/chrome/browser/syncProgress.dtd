@@ -8,7 +8,7 @@
 
 <!ENTITY syncProgress.pageTitle    "Your First Sync">
 <!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
-<!ENTITY syncProgress.closeButton  "Close">
+<!ENTITY syncProgress.closeButton  "மூடு">
 <!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
 <!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
 

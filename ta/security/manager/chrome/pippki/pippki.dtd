@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Change Master Password">
+<!ENTITY setPassword.title  "முதன்மை கடவுச்சொல்லை மாற்று">
 <!ENTITY setPassword.tokenName.label "பாதுகாப்பு சாதனம்">
 <!ENTITY setPassword.oldPassword.label "தற்போதைய கடவுச்சொல்:">
 <!ENTITY setPassword.newPassword.label "புதிய கடவுச்சொல்:">

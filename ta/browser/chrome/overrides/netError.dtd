@@ -86,14 +86,12 @@
 </ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li> இந்த சர்வரின் கட்டமைப்பு சிக்கல் இருக்க வேண்டும், அல்லது அது 
+ யாராவது சர்வர் ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள். </li> 
+<li> நீங்கள் இதற்கு முன்பு வெற்றிகரமாக இந்த சர்வர்ருடன் இணைந்து இருந்தால், இந்த பிழை 
+தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பின்னர் மீண்டும் முயற்சி செய்யலாம். </li> 
+</ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> <li>If you are unable to load any pages, check your computer's network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
@@ -106,7 +104,7 @@ be temporary, and you can try again later.</li>
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p> &brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
 
 <!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
@@ -129,4 +127,4 @@ functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p> <ul> <li> இந்த பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க. </li></ul></p>">
