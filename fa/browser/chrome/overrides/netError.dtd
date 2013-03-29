@@ -33,7 +33,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "پروندۀ منقضی">
-<!ENTITY notCached.longDesc "<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ &quot;تلاش دوباره&quot; کلیک کنید.<li></ul/>">
+<!ENTITY notCached.longDesc "<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ &quot;تلاش دوباره&quot; کلیک کنید.</li></ul>">
 
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc2 "
