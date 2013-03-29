@@ -4,4 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Novi tab">
-
+<!ENTITY newtab.undo.removedLabel "Thumbnail uklonjen.">
+<!ENTITY newtab.undo.undoButton "Povrati.">
+<!ENTITY newtab.undo.restoreButton "Povrati sve.">
+<!ENTITY newtab.undo.closeTooltip "Sakrij">

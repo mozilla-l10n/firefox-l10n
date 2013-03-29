@@ -2,30 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY abouthealth.locale-direction "ltr">
-
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 <!ENTITY abouthealth.pagetitle "&brandShortName; izvještaj o zdravlju">
-<!ENTITY abouthealth.header "&brandFullName; izvještaj o zdravlju">
 
-<!ENTITY abouthealth.intro.title "Šta je &brandShortName; izvještaj o zdravlju?">
-
-<!ENTITY abouthealth.intro-enabled "&brandFullName; prikuplja neke podatke o vašem računaru i upotrebi kako bi vam omogućio što bolje iskustvo surfanja.">
-<!ENTITY abouthealth.intro-disabled "Vi trenutno ne šaljete podatke o upotrebi ka &vendorShortName;-i. Možete nam pomoći da učinimo &brandShortName; boljim tako što ćete kliknuti &quot;&abouthealth.optin;&quot; dugme.">
-
-<!ENTITY abouthealth.optin "Pomozite nam da poboljšamo &brandShortName;">
-<!ENTITY abouthealth.optout "Ugasi izvještavanje">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Zaustavi slanje podataka?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Da li ste sigurni da više ne želite slati podatke te da želite obrisati sve vaše anonimno poslane podatke o proizvodi na &vendorShortName; serverima?">
-
-<!ENTITY abouthealth.show-raw-data "Prikaži detalje">
-<!ENTITY abouthealth.hide-raw-data "Sakrij detalje">
-
-<!ENTITY abouthealth.show-report "Prikaži &brandShortName; izvještaj">
-
-<!ENTITY abouthealth.details.description-start "Ovo su podaci koje &brandFullName; šalje kako bi &brandShortName; izvještaji o zdravlju funkcionisali.   Možete ">
-<!ENTITY abouthealth.details-link "naučiti više">
-<!ENTITY abouthealth.details.description-end " o tome koje podatke prikupljamo i šaljemo.">
-<!ENTITY abouthealth.no-data-available "Ne postoje ranije poslati podaci za prikaz. Molimo da ponovo provjerite kasnije.">

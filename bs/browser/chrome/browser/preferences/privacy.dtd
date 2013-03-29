@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Pratim">
 
-<!ENTITY doNotTrack.label               "Reci web stranicama da ne želim da me prate">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Ne reci ništa stranicama o mojim opcijama za praćenje.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Reci stranicama da ne želim da me prate.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Reci stranicama da želim da me prate.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Saznajte više">
 
 <!ENTITY  history.label                 "Historija">
 
