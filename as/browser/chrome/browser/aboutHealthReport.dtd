@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
 <!ENTITY abouthealth.pagetitle "&brandShortName; স্বাস্থ্য সংবাদ">
-<!ENTITY abouthealth.header "&brandShortName; স্বাস্থ্য সংবাদ">
+<!ENTITY abouthealth.header "&brandFullName; স্বাস্থ্য সংবাদ">
 
 <!ENTITY abouthealth.intro.title "&brandShortName; স্বাস্থ্য সংবাদ কি হয়?">
 
