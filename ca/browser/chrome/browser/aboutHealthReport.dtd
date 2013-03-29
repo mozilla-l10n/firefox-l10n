@@ -3,29 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 
-<!ENTITY abouthealth.locale-direction "ltr">
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
 <!ENTITY abouthealth.pagetitle "&brandShortName; Health Report">
-<!ENTITY abouthealth.header "&brandFullName; Health Report">
 
-<!ENTITY abouthealth.intro.title "Què és el &brandShortName; Health Report?">
-
-<!ENTITY abouthealth.intro-enabled "&brandFullName; recull algunes dades sobre el vostre ordinador i l'ús que en feu per oferir-vos una experiència de navegació millor.">
-<!ENTITY abouthealth.intro-disabled "No esteu trametent dades d'ús a &vendorShortName;. Podeu ajudar-nos a millorar el &brandShortName; si feu click al botó de &quot;&abouthealth.optin;&quot;.">
-
-<!ENTITY abouthealth.optin "Ajudeu-nos a millorar el &brandShortName;">
-<!ENTITY abouthealth.optout "Desactiva la tramesa de dades">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Voleu aturar la tramesa de dades?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Esteu segur que voleu deixar de participar-hi i esborrar totes les vostres dades anònimes del producte desades als servidors de &vendorShortName;?">
-
-<!ENTITY abouthealth.show-raw-data "Mostra detalls">
-<!ENTITY abouthealth.hide-raw-data "Amaga detalls">
-
-<!ENTITY abouthealth.show-report "Mostra l'informe de &brandShortName;">
-
-<!ENTITY abouthealth.details.description-start "Aquestes són les dades que el &brandFullName; està trametent per fer que el &brandShortName; funcioni.   Podeu ">
-<!ENTITY abouthealth.details-link "obtenir més informació">
-<!ENTITY abouthealth.details.description-end " sobre què recollim i trametem.">
-<!ENTITY abouthealth.no-data-available "No hi ha cap tramesa anterior per mostrar. Torneu-ho a provar més tard.">
