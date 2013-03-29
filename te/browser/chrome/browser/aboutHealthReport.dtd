@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
 <!ENTITY abouthealth.pagetitle "&brandShortName; ఆరోగ్య నివేదిక (e)">
-<!ENTITY abouthealth.header "&brandShortName; ఆరోగ్య నివేదిక">
+<!ENTITY abouthealth.header "&brandFullName; ఆరోగ్య నివేదిక">
 
 <!ENTITY abouthealth.intro.title "&brandShortName; ఆరోగ్య నివేదిక అంటే ఏమిటి?">
 
