@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Kordub:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Kuni:">
+<!ENTITY event.until.accesskey                            "n">
 <!ENTITY event.reminder.label                             "Meeldetuletus:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Kirjeldus:" >
