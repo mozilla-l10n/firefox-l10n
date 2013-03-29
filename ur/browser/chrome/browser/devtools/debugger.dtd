@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal        "تمام مسلوں میں تلاش کریں">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->

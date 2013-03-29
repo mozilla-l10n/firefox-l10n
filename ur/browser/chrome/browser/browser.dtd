@@ -249,7 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ن">
 <!ENTITY newPrivateWindow.label     "نیا نجی دریچہ">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "د">
 
 <!ENTITY editMenu.label         "تدوین"> 
 <!ENTITY editMenu.accesskey       "ت"> 
@@ -614,7 +614,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.accesskey "د">
 
 <!ENTITY social.toggleNotifications.label "ڈیسک ٹاپ اطلاعات دکھائیں">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.accesskey "ا">
 
 <!ENTITY social.activated.undobutton.label "کالعدم کریں">
 <!ENTITY social.activated.undobutton.accesskey "ک">

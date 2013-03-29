@@ -79,7 +79,7 @@
 
 <!ENTITY setup.optionsPage.title      "Sync اختیارات">
 <!ENTITY syncDeviceName.label       "آلہ نام:">
-<!ENTITY syncDeviceName.accesskey   "آ">
+<!ENTITY syncDeviceName.accesskey   "ل">
 
 <!ENTITY syncMy.label               "انہیں سنک کریں">
 <!ENTITY engine.bookmarks.label     "نشانیاں">

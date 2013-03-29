@@ -48,7 +48,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "دستاویز زائدالمدت">
-<!ENTITY notCached.longDesc '<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے "پھر کوشش کریں" پر کلک کریں۔</li></ul>'>
+<!ENTITY notCached.longDesc "<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے &quot;پھر کوشش کریں&quot; پر کلک کریں۔</li></ul>">
 
 <!ENTITY netOffline.title "آف لائن موڈ">
 <!ENTITY netOffline.longDesc2 "

@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "اکاؤنٹ منظم کیجیئے">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.accesskey      "م">
 <!ENTITY viewQuota.label              "کوٹا نظارہ کریں">
 <!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں ...">
 <!ENTITY myRecoveryKey.label          "میری بازیافت کلید">
