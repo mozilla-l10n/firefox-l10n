@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "ដើម្បី​ធ្វើឲ្យ​ឧបករណ៍​ថ្មី​របស់​អ្នក​សកម្ម អ្នក​ត្រូវ​ជ្រើស “រៀបចំ &syncBrand.shortName.label;” នៅ​លើ​ឧបករណ៍ ។">
 <!ENTITY sync.subtitle.header2.label "បញ្ចូល​កូដ​នេះ​នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក">
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.connectlocation2.label "ជ្រើស​ផ្នែក “&sync.title.pair.label;” in the &syncBrand.shortName.label; នៃ​ជម្រើស​ Firefox របស់​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។">
 <!ENTITY sync.subtitle.pair.label "ដើម្បី​ធ្វើ​ឲ្យ​សកម្ម អ្នក​ត្រូវ​ជ្រើស “ផ្គូ​ឧបករណ៍” នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក ។">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "បង្ហាញ​ខ្ញុំ​ពី​របៀប ។">
 <!ENTITY sync.link.advancedsetup.label "ការ​រៀបចំ​កម្រិតខ្ពស់...">
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "ខ្ញុំ​មិនមាន​ឧបករណ៍​​ជា​មួយ​ខ្ញុំ​ទេ">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "រង់ចាំ​ឧបករណ៍​ផ្សេងទៀត...">

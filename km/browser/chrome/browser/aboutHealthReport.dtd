@@ -12,7 +12,7 @@
 <!ENTITY abouthealth.intro.title "តើ​អ្វី​ជា​របាយការណ៍​សុខភាព &brandShortName; ?">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; ប្រមូល​ទិន្នន័យ​មួយ​ចំនួន​អំពី​កុំព្យូទ័រ និង​ការ​ប្រើប្រាស់​របស់​អ្នក​ដើម្បី​ផ្ដល់ឲ្យ​អ្នក​នូវ​បទពិសោធន៍​កម្មវិធី​រុករក​ប្រសើរ​ឡើង ។">
-<!ENTITY abouthealth.intro-disabled "បច្ចុប្បន្ន​អ្នក​មិន​បាន​ដាក់​ស្នើ​ទិន្នន័យ​អំពី​ការ​ប្រើប្រាស់​ទៅកាន់ &vendorShortName;​ ទេ ។ អ្នក​អាច​ជួយ​យើង​ដើម្បី​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង​បាន ដោយ​ចុច​ប៊ូតុង &quot;&abouthealth.optin;&quot; ។">
+<!ENTITY abouthealth.intro-disabled "បច្ចុប្បន្ន​អ្នក​មិន​កំពុង​ដាក់​ស្នើ​ទិន្នន័យ​ទៅ &vendorShortName; ។ អ្នក​អាច​ជួយ​យើង​ធ្វើ​ឲ្យ &brandShortName; កាន់​តែ​ល្អ ដោយ​ចុច​ប៊ូតុង &quot;&abouthealth.optin;&quot; ។">
 
 <!ENTITY abouthealth.optin "ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
 <!ENTITY abouthealth.optout "បិទ​ការ​រាយការណ៍">
