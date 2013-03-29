@@ -7,7 +7,7 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Quan una alarma s'apagui:">
+<!ENTITY pref.alarmgoesoff.label "Quan arribi l'hora d'un recordatori:">
 <!ENTITY pref.playasound "Reprodueix un so">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilitza el so per defecte">
@@ -16,20 +16,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Prova">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
-<!ENTITY pref.showalarmbox "Mostra un quadre d'alarma">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "q">
-<!ENTITY pref.missedalarms "Mostra les alarmes perdudes">
+<!ENTITY pref.showalarmbox "Mostra el diàleg del recordatori">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
+<!ENTITY pref.missedalarms "Mostra els recordatoris perduts">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Paràmetres per defecte de les alarmes">
-<!ENTITY pref.defalarm4events.label "Alarma per a les cites:">
+<!ENTITY pref.calendar.alarms.defaults.label "Paràmetres per defecte dels recordatoris">
+<!ENTITY pref.defalarm4events.label "Recordatori per defecte per a les cites:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Alarma per a les tasques:">
-<!ENTITY pref.defalarm4todos.accesskey "A">
-<!ENTITY pref.alarm.on "Activada">
-<!ENTITY pref.alarm.off "Desactivada">
-<!ENTITY pref.defalarmlen4events.label "Temps per defecte en el qual s'apagarà l'alarma abans d'una cita:">
+<!ENTITY pref.defalarm4todos.label "Recordatori per defecte per a les tasques:">
+<!ENTITY pref.defalarm4todos.accesskey "a">
+<!ENTITY pref.alarm.on "Activat">
+<!ENTITY pref.alarm.off "Desactivat">
+<!ENTITY pref.defalarmlen4events.label "Temps per defecte que es definirà als recordatoris abans d'una cita:">
 <!ENTITY pref.defalarmlen4events.accesskey "c">
-<!ENTITY pref.defalarmlen4todos.label "Temps per defecte en el qual s'apagarà l'alarma abans d'una tasca:">
+<!ENTITY pref.defalarmlen4todos.label "Temps per defecte que es definirà als recordatoris abans d'una tasca:">
 <!ENTITY pref.defalarmlen4todos.accesskey "T">
-<!ENTITY pref.defaultemail.label "Adreça on enviar-hi les alarmes:">
-<!ENTITY pref.defaulttext.label "Text per a les alarmes:">
+<!ENTITY pref.defaultemail.label "Adreça per defecte on s'enviaran els recordatoris:">
+<!ENTITY pref.defaulttext.label "Text per defecte dels recordatoris:">

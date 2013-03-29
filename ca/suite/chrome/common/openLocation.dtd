@@ -11,10 +11,11 @@
 <!ENTITY enter.accesskey "I">
 <!ENTITY chooseFile.label "Trieu un fitxer...">
 <!ENTITY chooseFile.accesskey "T">
-<!ENTITY newWindow.label "Nova finestra del Navegador">
-<!ENTITY newTab.label "Nova pestanya del navegador">
+<!ENTITY newPrivate.label "Finestra privada nova">
+<!ENTITY newWindow.label "Finestra nova del navegador">
+<!ENTITY newTab.label "Pestanya nova del navegador">
 <!ENTITY currentTab.label "Pestanya actual del navegador">
-<!ENTITY editNewWindow.label "Nova finestra del redactor">
+<!ENTITY editNewWindow.label "Finestra nova del redactor">
 <!ENTITY open.label "Obre">
 <!ENTITY caption.label "Obre una ubicació web">
 <!ENTITY openWhere.label "Obre a:">

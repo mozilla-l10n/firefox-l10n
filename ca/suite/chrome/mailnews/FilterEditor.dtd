@@ -26,6 +26,9 @@
 
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
+
+<!ENTITY filterActionOrderWarning.label "Nota: les accions del filtre s'executaran en un altre ordre.">
+<!ENTITY filterActionOrder.label "Mostra l'ordre d'execució">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Mou el missatge a">

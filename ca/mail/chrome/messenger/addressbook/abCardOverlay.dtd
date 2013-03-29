@@ -144,6 +144,8 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID del Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Sobrenom de l'IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "F">

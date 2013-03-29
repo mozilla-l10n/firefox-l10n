@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY providerUninstall.title                           "Baixa d'un proveïdor">
+<!ENTITY providerUninstall.title                           "Desinstal·la un proveïdor">
 <!ENTITY providerUninstall.accept.label                    "Cancel·la la subscripció seleccionada">
 <!ENTITY providerUninstall.accept.accesskey                "b">
 <!ENTITY providerUninstall.cancel.label                    "Conserva el complement">

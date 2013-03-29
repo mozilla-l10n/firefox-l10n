@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Edita">
 <!ENTITY appmenuQFBMenu.label "Barra del filtre ràpid">
 <!ENTITY appmenuToolbarLayout.label "Format de la barra d'eines…">
+<!ENTITY appmenuSelectThread.label "Selecciona la conversa">
+<!ENTITY appmenuSelectFlagged.label "Selecciona els missatges amb estrella">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Afegeix una etiqueta…">

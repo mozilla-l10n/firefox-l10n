@@ -5,7 +5,7 @@
 
 <!ENTITY msgComposeWindow.title "Redacta: (sense assumpte)">
 
-<!ENTITY fromAddr.label "Des de:">
+<!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY subject.label  "Assumpte:">
 <!ENTITY subject.accesskey "s">

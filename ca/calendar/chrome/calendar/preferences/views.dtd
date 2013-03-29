@@ -8,11 +8,11 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "General">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistes diàries i setmanals">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistes diària i setmanal">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multisetmanal">
 <!ENTITY pref.calendar.view.workweek.caption "Setmana laboral">
 
-<!ENTITY pref.weekstarts.label "Inicia la setmana el:">
+<!ENTITY pref.weekstarts.label "La setmana s'inicia el:">
 <!ENTITY pref.weekstarts.accesskey "n">
 <!ENTITY pref.daysoff.label "Inclou aquests dies a la setmana laboral:">
 
@@ -24,7 +24,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "hores de cop">
 
-<!ENTITY pref.numberofweeks.label "Setmanes que es mostraran per defecte (incloent-hi les setmanes anteriors):">
+<!ENTITY pref.numberofweeks.label "Setmanes que es mostraran (incloses les setmanes anteriors):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Setmanes anteriors que es mostraran:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "a">

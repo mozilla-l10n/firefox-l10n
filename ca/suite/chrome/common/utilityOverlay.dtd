@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Finestra del Navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPrivateWindowCmd.label "Finestra privada">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina...">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">

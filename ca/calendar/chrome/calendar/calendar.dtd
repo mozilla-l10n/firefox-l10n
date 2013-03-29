@@ -10,7 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crea una tasca nova" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques finalitzades">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques acabades">
 
 <!ENTITY calendar.today.button.label       "Avui">
 <!ENTITY calendar.tomorrow.button.label       "Demà">
@@ -20,47 +20,47 @@
 <!ENTITY calendar.events.filter.today.label "Cites d'avui">
 <!ENTITY calendar.events.filter.future.label "Totes les cites futures">
 <!ENTITY calendar.events.filter.current.label "Dia seleccionat actualment">
-<!ENTITY calendar.events.filter.currentview.label "Cites a la vista actual">
-<!ENTITY calendar.events.filter.next7Days.label "Cites en els propers 7 dies">
-<!ENTITY calendar.events.filter.next14Days.label "Cites en els propers 14 dies">
-<!ENTITY calendar.events.filter.next31Days.label "Cites en els propers 31 dies">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Cites en aquest mes del calendari">
+<!ENTITY calendar.events.filter.currentview.label "Cites de la vista actual">
+<!ENTITY calendar.events.filter.next7Days.label "Cites dels propers 7 dies">
+<!ENTITY calendar.events.filter.next14Days.label "Cites dels propers 14 dies">
+<!ENTITY calendar.events.filter.next31Days.label "Cites dels propers 31 dies">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Cites d'aquest mes del calendari">
 
-<!ENTITY calendar.unifinder.tree.done.label              "Acabada">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Feu clic per organitzar per completat">
+<!ENTITY calendar.unifinder.tree.done.label              "Feta">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Feu clic per ordenar per tasques fetes">
 <!ENTITY calendar.unifinder.tree.priority.label          "Prioritat">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Feu clic per organitzar per prioritat">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Feu clic per ordenar per prioritat">
 <!ENTITY calendar.unifinder.tree.title.label             "Títol">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Feu clic per organitzar per títol">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; realitzat">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Feu clic per organitzar per &#37; Completat">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Feu clic per ordenar per títol">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; acabat">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Feu clic per ordenar per &#37; acabat">
 <!ENTITY calendar.unifinder.tree.startdate.label         "Inici">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Feu clic per organitzar per la data d'inici">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Feu clic per ordenar per data d'inici">
 <!ENTITY calendar.unifinder.tree.enddate.label           "Fi">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Feu clic per organitzar per la data de finalització">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Fi">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Feu clic per organitzar per la data d'expiració">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Finalització">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Feu clic per organitzar per completat">
-<!ENTITY calendar.unifinder.tree.categories.label        "Categories">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Feu clic per organitzar per categories">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Feu clic per ordenar per data de finalització">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Venciment">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Feu clic per ordenar per data de venciment">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Acabada">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Feu clic per ordenar per data d'acabament">
+<!ENTITY calendar.unifinder.tree.categories.label        "Categoria">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Feu clic per ordenar per categoria">
 <!ENTITY calendar.unifinder.tree.location.label          "Ubicació">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Feu clic per organitzar per ubicació">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Feu clic per ordenar per ubicació">
 <!ENTITY calendar.unifinder.tree.status.label            "Estat">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Feu clic per organitzar per l'estat">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Feu clic per ordenar per estat">
 <!ENTITY calendar.unifinder.tree.calendarname.label      "Nom del calendari">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Feu clic per organitzar pel nom del calendari">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Feu clic per ordenar per nom del calendari">
 <!ENTITY calendar.unifinder.tree.duration.label          "Temps restant">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Feu clic per organitzar pel temps restant">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Feu clic per ordenar per temps restant">
 <!ENTITY calendar.unifinder.close.tooltip                "Tanca la llista i la cerca de cites">
 
 <!ENTITY calendar.today.button.tooltip          "Vés a avui" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui" >
 
-<!ENTITY calendar.day.button.tooltip            "Canvia a vista diària" >
-<!ENTITY calendar.week.button.tooltip           "Canvia a vista setmanal" >
-<!ENTITY calendar.month.button.tooltip          "Canvia a vista mensual" >
-<!ENTITY calendar.multiweek.button.tooltip      "Canvia a vista multisetmanal" >
+<!ENTITY calendar.day.button.tooltip            "Canvia a la vista diària" >
+<!ENTITY calendar.week.button.tooltip           "Canvia a la vista setmanal" >
+<!ENTITY calendar.month.button.tooltip          "Canvia a la vista mensual" >
+<!ENTITY calendar.multiweek.button.tooltip      "Canvia a la vista multisetmanal" >
 
 <!ENTITY calendar.nextday.label                 "Dia següent" >
 <!ENTITY calendar.prevday.label                 "Dia anterior" >
@@ -88,16 +88,16 @@
 
 <!ENTITY calendar.export.calendar                "Exporta el calendari…" >
 
-<!ENTITY calendar.day.button.label              "Vista diària" >
-<!ENTITY calendar.week.button.label             "Vista setmanal" >
-<!ENTITY calendar.month.button.label            "Vista mensual" >
-<!ENTITY calendar.multiweek.button.label        "Vista multisetmanal" >
+<!ENTITY calendar.day.button.label              "Dia" >
+<!ENTITY calendar.week.button.label             "Setmana" >
+<!ENTITY calendar.month.button.label            "Mes" >
+<!ENTITY calendar.multiweek.button.label        "Multisetmana" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Només els dies feiners" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "d" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Tasques visualitzades" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Tasques de la vista" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "q" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Mostra les tasques finalitzades" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "f" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mostra les tasques acabades" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "Gira la vista" >
 <!ENTITY calendar.orientation.accesskey "G" >
@@ -114,13 +114,13 @@
 <!ENTITY calendar.task.filter.next7days.label       "Els pròxims 7 dies">
 <!ENTITY calendar.task.filter.next7days.accesskey   "7">
 <!ENTITY calendar.task.filter.notstarted.label      "Tasques sense començar">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "c">
-<!ENTITY calendar.task.filter.overdue.label         "Tasques sobreposades">
-<!ENTITY calendar.task.filter.overdue.accesskey     "s">
-<!ENTITY calendar.task.filter.completed.label       "Tasques finalitzades">
-<!ENTITY calendar.task.filter.completed.accesskey   "f">
-<!ENTITY calendar.task.filter.open.label            "Tasques en procés">
-<!ENTITY calendar.task.filter.open.accesskey        "p">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "o">
+<!ENTITY calendar.task.filter.overdue.label         "Tasques endarrerides">
+<!ENTITY calendar.task.filter.overdue.accesskey     "e">
+<!ENTITY calendar.task.filter.completed.label       "Tasques acabades">
+<!ENTITY calendar.task.filter.completed.accesskey   "c">
+<!ENTITY calendar.task.filter.open.label            "Tasques inacabades">
+<!ENTITY calendar.task.filter.open.accesskey        "b">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
@@ -129,7 +129,7 @@
 
 <!ENTITY calendar.task.filter.current.label         "Tasques actuals">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Tasques repetitives">
+<!ENTITY calendar.task.filter.repeating.label       "Tasques periòdiques">
 <!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label           "títol">
@@ -150,7 +150,7 @@
 <!ENTITY calendar.task.priority.button.tooltip  "Canvia la prioritat">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtra les tasques... #1">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Maj+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Statusbar -->
 
@@ -160,11 +160,11 @@
 <!ENTITY calendar.context.modifyorviewitem.label      "Obre">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Obre la tasca…">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "b">
 <!ENTITY calendar.context.newevent.label              "Cita nova…">
-<!ENTITY calendar.context.newevent.accesskey          "C">
+<!ENTITY calendar.context.newevent.accesskey          "i">
 <!ENTITY calendar.context.newtodo.label               "Tasca nova…">
-<!ENTITY calendar.context.newtodo.accesskey           "o">
+<!ENTITY calendar.context.newtodo.accesskey           "n">
 <!ENTITY calendar.context.deletetask.label            "Suprimeix la tasca">
 <!ENTITY calendar.context.deletetask.accesskey        "S">
 <!ENTITY calendar.context.deleteevent.label           "Suprimeix la cita">
@@ -178,33 +178,33 @@
 <!ENTITY calendar.context.button.label                "Plafó d'avui" >
 <!ENTITY calendar.context.button.accesskey            "a" >
 <!ENTITY calendar.context.attendance.menu.label       "Assistència" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "s" >
-<!ENTITY calendar.context.attendance.occurrence.label "Aquesta cita" >
-<!ENTITY calendar.context.attendance.all.label        "Totes les cites" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "A" >
+<!ENTITY calendar.context.attendance.occurrence.label "Aquesta ocurrència" >
+<!ENTITY calendar.context.attendance.all.label        "Totes les ocurrències" >
 <!-- Task Context Menu -->
 
-<!ENTITY calendar.context.progress.label              "En curs">
-<!ENTITY calendar.context.progress.accesskey          "E">
+<!ENTITY calendar.context.progress.label              "Progrés">
+<!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritat">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "Postposa la tasca">
-<!ENTITY calendar.context.postpone.accesskey          "s">
+<!ENTITY calendar.context.postpone.label              "Ajorna la tasca">
+<!ENTITY calendar.context.postpone.accesskey          "o">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;" >
 
-<!ENTITY calendar.context.markcompleted.label     "Marca finalitzada">
-<!ENTITY calendar.context.markcompleted.accesskey "f">
+<!ENTITY calendar.context.markcompleted.label     "Marca com a acabada">
+<!ENTITY calendar.context.markcompleted.accesskey "d">
 
-<!ENTITY progress.level.0             "0&percnt; finalitzat">
+<!ENTITY progress.level.0             "0&percnt; acabat">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "25&percnt; finalitzat">
+<!ENTITY progress.level.25            "25&percnt; acabat">
 <!ENTITY progress.level.25.accesskey  "2">
-<!ENTITY progress.level.50            "50&percnt; finalitzat">
+<!ENTITY progress.level.50            "50&percnt; acabat">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "75&percnt; finalitzat">
+<!ENTITY progress.level.75            "75&percnt; acabat">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100            "100&percnt; finalitzat">
+<!ENTITY progress.level.100            "100&percnt; acabat">
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Sense especificar">
@@ -269,14 +269,14 @@
 <!-- Calendar Alarm Dialog -->
 
 
-<!ENTITY calendar.alarm.location.label              "Lloc:" >
+<!ENTITY calendar.alarm.location.label              "Ubicació:" >
 <!ENTITY calendar.alarm.details.label               "Detalls…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Torna'm a avisar d'aquí " >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Torna'm a avisar de tot d'aquí " >
-<!ENTITY calendar.alarm.title.label                 "Alarma del calendari" >
-<!ENTITY calendar.alarm.dismiss.label               "Para l'alarma" >
-<!ENTITY calendar.alarm.dismissall.label            "Para totes les alarmes" >
+<!ENTITY calendar.alarm.snoozefor.label             "Ajorna fins d'aquí" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Ajorna-ho tot fins d'aquí" >
+<!ENTITY calendar.alarm.title.label                 "Recordatoris del calendari" >
+<!ENTITY calendar.alarm.dismiss.label               "Atura l'alarma" >
+<!ENTITY calendar.alarm.dismissall.label            "Atura totes les alarmes" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuts" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuts" >
@@ -291,7 +291,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel               "Cancel·la l'avís">
+<!ENTITY calendar.alarm.snooze.cancel               "Cancel·la l'ajornament">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Edita el calendari">
@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
 <!ENTITY calendarproperties.name.label                     "Nom:">
 <!ENTITY calendarproperties.readonly.label                 "Només de lectura">
-<!ENTITY calendarproperties.firealarms.label               "Mostra les alertes">
+<!ENTITY calendarproperties.firealarms.label               "Mostra els recordatoris">
 <!ENTITY calendarproperties.cache3.label                   "Funcionament fora de línia">
 <!ENTITY calendarproperties.enabled.label                  "Mostra aquest calendari">
 <!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han inhabilitat o s'han desinstal·lat complements.">
@@ -330,14 +330,14 @@
 <!ENTITY calendar.print.window.title "Imprimeix un calendari">
 <!ENTITY calendar.print.title.label "Títol:">
 <!ENTITY calendar.print.layout.label "Format:">
-<!ENTITY calendar.print.range.label "Què imprimir:">
+<!ENTITY calendar.print.range.label "Què s'imprimirà:">
 <!ENTITY calendar.print.currentView2.label "Vista actual">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Cites i tasques seleccionades">
 <!ENTITY calendar.print.tasks.label "Tasques">
 <!ENTITY calendar.print.events.label "Cites">
 <!ENTITY calendar.print.selected.label "Cites seleccionades">
 <!ENTITY calendar.print.custom.label "Interval de dates personalitzat:">
-<!ENTITY calendar.print.from.label "De:">
+<!ENTITY calendar.print.from.label "Des de:">
 <!ENTITY calendar.print.to.label "Fins:">
 <!ENTITY calendar.print.settingsGroup.label "Paràmetres d'impressió">
 <!ENTITY calendar.print.optionsGroup.label "Opcions">

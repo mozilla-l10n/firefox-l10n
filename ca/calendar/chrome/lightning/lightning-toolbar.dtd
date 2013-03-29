@@ -10,7 +10,7 @@
 <!ENTITY lightning.toolbar.sync.label "Sincronitza">
 <!ENTITY lightning.toolbar.delete.label "Suprimeix">
 <!ENTITY lightning.toolbar.edit.label "Edita">
-<!ENTITY lightning.toolbar.gototoday.label "Vés al dia">
+<!ENTITY lightning.toolbar.gototoday.label "Vés a avui">
 <!ENTITY lightning.toolbar.print.label "Imprimeix">
 <!-- Mode Toolbar -->
 

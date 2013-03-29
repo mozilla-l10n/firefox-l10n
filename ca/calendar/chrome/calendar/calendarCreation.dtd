@@ -4,19 +4,19 @@
 
 <!ENTITY wizard.title             "Crea un calendari nou" >
 <!ENTITY wizard.label             "Crea un calendari nou" >
-<!ENTITY wizard.description       "Trobeu el vostre calendari" >
+<!ENTITY wizard.description       "Ubicació del calendari" >
 
-<!ENTITY initialpage.description    "El vostre calendari pot emmagatzemar-se al vostre ordinador o en un servidor per poder accedir-hi remotament o compartir-lo amb els vostres amics o companys de feina." >
+<!ENTITY initialpage.description    "Podeu emmagatzemar el calendari a l'ordinador o en un servidor per poder accedir-hi remotament o compartir-lo amb els vostres amics o companys de feina." >
 <!ENTITY initialpage.computer.label  "Al meu ordinador">
 <!ENTITY initialpage.network.label  "A la xarxa">
 
-<!ENTITY locationpage.description         "Proporcioneu la informació que calgui per accedir al vostre calendari remot" >
+<!ENTITY locationpage.description         "Proporcioneu la informació que calgui per accedir al calendari remot" >
 <!ENTITY locationpage.login.description   "Opcional: introduïu un nom d'usuari i contrasenya" >
 <!ENTITY locationpage.username.label      "Nom d'usuari:" >
 <!ENTITY locationpage.password.label      "Contrasenya:" >
 
-<!ENTITY custompage.shortdescription  "Personalitzeu el vostre calendari" >
-<!ENTITY custompage.longdescription   "Podeu donar un àlies al vostre calendari i acolorir-hi les vostres cites" >
+<!ENTITY custompage.shortdescription  "Personalitzeu el calendari" >
+<!ENTITY custompage.longdescription   "Podeu assignar un sobrenom al calendari i seleccionar el color de les cites." >
 
 <!ENTITY finishpage.shortdescription  "S'ha creat el calendari" >
-<!ENTITY finishpage.longdescription   "S'ha creat el vostre calendari" >
+<!ENTITY finishpage.longdescription   "S'ha creat el calendari." >

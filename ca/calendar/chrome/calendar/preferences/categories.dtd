@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Color">
 <!ENTITY pref.categories.usecolor.label "Utilitza el color">
 <!ENTITY pref.categories.none.label "(cap)">
-<!ENTITY pref.categories.overwrite "Ja existeix una categoria amb aqueix nom. \n Voleu sobreescriure-la?">
+<!ENTITY pref.categories.overwrite "Ja existeix una categoria amb aquest nom. \n Voleu sobreescriure-la?">
 <!ENTITY pref.categories.overwrite.title "Avís: Nom duplicat">
 <!ENTITY pref.categories.noBlankCategories "Heu d'introduir un nom de categoria.">

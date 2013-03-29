@@ -9,23 +9,23 @@
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Connecta\'t al &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "Connecta\u0027t al &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Afegeix un compte de &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Vincula un dispositiu">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Per activar un nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» a l\'altre dispositiu">
-<!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\'altre dispositiu">
-<!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\'altre dispositiu.">
-<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\'altre dispositiu. ">
+<!ENTITY sync.subtitle.connect.label "Per activar un nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» a l\u0027altre dispositiu">
+<!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\u0027altre dispositiu">
+<!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\u0027altre dispositiu.">
+<!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\u0027altre dispositiu. ">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Mostra\'m com.">
+<!ENTITY sync.link.show.label "Mostra\u0027m com.">
 <!ENTITY sync.link.advancedsetup.label "Configuració avançada...">
 <!ENTITY sync.link.nodevice.label "No tinc el dispositiu aquí...">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label "S\'està esperant l\'altre dispositiu...">
+<!ENTITY sync.jpake.subtitle.waiting.label "S\u0027està esperant l\u0027altre dispositiu...">
 <!-- Account Login Screen -->
 
 <!ENTITY sync.subtitle.account.label "Introduïu la informació del vostre altre compte de &syncBrand.fullName.label;">
@@ -36,17 +36,17 @@
 <!ENTITY sync.input.server.label "URL del servidor">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label "No s\'ha pogut configurar el &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "El &syncBrand.fullName.label; no s\'ha pogut connectar al servidor. Voleu que ho provi una altra vegada?">
+<!ENTITY sync.title.fail.label "No s\u0027ha pogut configurar el &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "El &syncBrand.fullName.label; no s\u0027ha pogut connectar al servidor. Voleu que ho provi una altra vegada?">
 <!ENTITY sync.button.tryagain.label "Torna-ho a provar">
 <!ENTITY sync.button.manual.label "Configuració manual">
 <!ENTITY sync.subtitle.nointernet.label "No hi ha cap connexió a Internet disponible.">
 <!ENTITY sync.subtitle.failaccount.label "Ha fallat la creació del compte al dispositiu.">
-<!ENTITY sync.subtitle.failmultiple.label "Teniu més d\'un Firefox instal·lat? Actualment, el &syncBrand.fullName.label; només permet una instal·lació del Firefox alhora. Desinstal·leu les altres instàncies per poder utilitzar el &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "Teniu més d\u0027un Firefox instal·lat? Actualment, el &syncBrand.fullName.label; només permet una instal·lació del Firefox alhora. Desinstal·leu les altres instàncies per poder utilitzar el &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
-<!ENTITY sync.title.success.label "S\'ha finalitzat la configuració">
-<!ENTITY sync.subtitle.success.label1 "Les vostres dades s\'estan baixant en segon pla. Podeu anar a les Opcions per gestionar el vostre compte, o començar a navegar amb el &brandShortName;.">
+<!ENTITY sync.title.success.label "S\u0027ha finalitzat la configuració">
+<!ENTITY sync.subtitle.success.label1 "Les vostres dades s\u0027estan baixant en segon pla. Podeu anar a les Opcions per gestionar el vostre compte, o començar a navegar amb el &brandShortName;.">
 <!ENTITY sync.settings.label "Opcions">
 <!ENTITY sync.subtitle.manage.label1 "El vostre compte &syncBrand.fullName.label; ja està configurat. Podeu anar a les opcions per gestionar el vostre compte, o iniciar el &brandShortName;.">
 <!-- Pair Device -->
@@ -61,7 +61,7 @@
 
 <!ENTITY sync.configure.engines.title.label "Què sincronitzar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronitza…">
-<!ENTITY sync.configure.engines.title.bookmarks "Adreces d\'interès">
+<!ENTITY sync.configure.engines.title.bookmarks "Adreces d\u0027interès">
 <!ENTITY sync.configure.engines.title.passwords "Contrasenyes">
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestanyes">
@@ -69,18 +69,18 @@
 
 <!ENTITY sync.button.cancel.label "Cancel·la">
 <!ENTITY sync.button.connect.label "Connecta">
-<!ENTITY sync.button.ok.label "D\'acord">
+<!ENTITY sync.button.ok.label "D\u0027acord">
 <!-- Account strings -->
   
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Menú de les adreces d\'interès">
+<!ENTITY bookmarks.folder.menu.label "Menú de les adreces d\u0027interès">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetes">
-<!ENTITY bookmarks.folder.toolbar.label "Barra d\'eines de les adreces">
+<!ENTITY bookmarks.folder.toolbar.label "Barra d\u0027eines de les adreces">
 <!ENTITY bookmarks.folder.unfiled.label "Adreces desordenades">
-<!ENTITY bookmarks.folder.desktop.label "Adreces d\'escriptori">
+<!ENTITY bookmarks.folder.desktop.label "Adreces d\u0027escriptori">
 <!ENTITY bookmarks.folder.mobile.label "Adreces del mòbil">
 <!ENTITY bookmarks.folder.readinglist.label "Llista de lectura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -88,12 +88,12 @@
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Només es permet un compte de &syncBrand.fullName.label;">
-<!ENTITY sync.notification.configure.saved "Les vostres seleccions s\'han desat.">
+<!ENTITY sync.notification.configure.saved "Les vostres seleccions s\u0027han desat.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "El nom del compte o de la contrasenya són incorrectes.">
 <!ENTITY sync.invalidserver.label "Introduïu un URL de servidor vàlid">
-<!ENTITY sync.verifying.label "S\'està verificant…">
+<!ENTITY sync.verifying.label "S\u0027està verificant…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Clau de recuperació incorrecta. Torneu-ho a provar.">
 <!-- Send tab to device. -->
 
@@ -101,6 +101,6 @@
 <!ENTITY sync.button.send.label "Envia">
 <!ENTITY sync.button.set.up.sync.label "Configura el &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configura el &syncBrand.shortName.label; per enviar pestanyes">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d\'altres.">
-<!ENTITY sync.text.tab.sent.label "S\'ha enviat la pestanya.">
-<!ENTITY sync.text.tab.not.sent.label "S\'ha produït un problema en enviar la pestanya.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d\u0027altres.">
+<!ENTITY sync.text.tab.sent.label "S\u0027ha enviat la pestanya.">
+<!ENTITY sync.text.tab.not.sent.label "S\u0027ha produït un problema en enviar la pestanya.">
