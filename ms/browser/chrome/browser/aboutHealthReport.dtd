@@ -6,26 +6,26 @@
 <!ENTITY abouthealth.locale-direction "ltr">
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
-<!ENTITY abouthealth.pagetitle "&brandShortName; Health Report">
-<!ENTITY abouthealth.header "&brandFullName; Health Report">
+<!ENTITY abouthealth.pagetitle "&brandShortName; Laporan Kesihatan">
+<!ENTITY abouthealth.header "&brandFullName; Laporan Kesihatan">
 
-<!ENTITY abouthealth.intro.title "What is &brandShortName; Health Report?">
+<!ENTITY abouthealth.intro.title "&brandShortName; Laporan Kesihatan?">
 
-<!ENTITY abouthealth.intro-enabled "&brandFullName; collects some data about your computer and usage in order to provide you with a better browser experience.">
-<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
+<!ENTITY abouthealth.intro-enabled "&brandFullName; kumpul beberapa data tentang komputer anda dan kegunaannya, untuk memberikan pengalaman pelayar web yang lebih baik.">
+<!ENTITY abouthealth.intro-disabled "Pada masa ini anda tidak menghantar data pengunaan ke &vendorShortName;. Anda boleh membantu kami menjadikan &brandShortName; lebih baik dengan mengketik butang &quot;&abouthealth.optin;&quot;">
 
-<!ENTITY abouthealth.optin "Help make &brandShortName; better">
-<!ENTITY abouthealth.optout "Turn Off Reporting">
+<!ENTITY abouthealth.optin "Bantu jadikan &brandShortName; lebih baik">
+<!ENTITY abouthealth.optout "Matikan Pelaporan">
 
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Stop data submission?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Hentikan penghantaran data?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Anda pasti anda mahu keluar dan padam semua data anonimus produk yang disimpan dalam &vendorShortName; pelayan?">
 
 <!ENTITY abouthealth.show-raw-data "Tunjuk Perincian">
 <!ENTITY abouthealth.hide-raw-data "Sorok Perincian">
 
-<!ENTITY abouthealth.show-report "Show &brandShortName; Report">
+<!ENTITY abouthealth.show-report "Tunjuk &brandShortName; Laporan">
 
-<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
-<!ENTITY abouthealth.details-link "learn more">
-<!ENTITY abouthealth.details.description-end " about what we collect and submit.">
-<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+<!ENTITY abouthealth.details.description-start "Ini adalah data &brandFullName; dihantar untuk &brandShortName; Laporan Kesihatan untuk berfungsi. Anda boleh">
+<!ENTITY abouthealth.details-link "ketahui lebih Lanjut">
+<!ENTITY abouthealth.details.description-end "Tentang apa yang kami simpan dan hantar">
+<!ENTITY abouthealth.no-data-available "Tiada penghantaran sebelumnya untuk dipaparkan. Sila semak semula kemudian.">

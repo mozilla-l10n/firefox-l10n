@@ -10,14 +10,14 @@
 <!ENTITY charsetMenuMore.label         "Lagi Pengkodan">
 <!ENTITY charsetMenuMore.accesskey     "L">
 <!ENTITY charsetMenuMore1.label        "West European">
-<!ENTITY charsetMenuMore1.accesskey    "w">
+<!ENTITY charsetMenuMore1.accesskey    "W">
 <!ENTITY charsetMenuMore2.label        "East European">
 <!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Asia Timur">
 <!ENTITY charsetMenuMore3.accesskey    "A">
 <!ENTITY charsetMenuMore4.label        "SE &amp; SW Asian">
 <!ENTITY charsetMenuMore4.accesskey    "S">
-<!ENTITY charsetMenuMore5.label        "Middle Eastern">
-<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuMore5.label        "Tengah Timur">
+<!ENTITY charsetMenuMore5.accesskey    "T">
 <!ENTITY charsetCustomize.label        "Senarai Penyesuaian">
 <!ENTITY charsetCustomize.accesskey    "S">

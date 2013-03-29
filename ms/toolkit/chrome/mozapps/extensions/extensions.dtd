@@ -190,7 +190,7 @@ anda sendiri.">
 <!ENTITY addon.undoRemove.label               "Kembali Asal">
 <!ENTITY addon.undoRemove.tooltip             "Kekalkan pemasangan add-on ini">
 <!ENTITY addon.restartNow.label               "Mulakan semula sekarang">
-<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang add-on ini">
 <!ENTITY addon.updateNow.label                "Kemaskini Sekarang">
 <!ENTITY addon.updateNow.tooltip              "Pasang kemas kini bagi add-on ini">

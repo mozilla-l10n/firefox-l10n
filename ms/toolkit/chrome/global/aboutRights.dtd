@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-a "Kesedaran Lokasi Pelayaran:">
 <!ENTITY rights.locationawarebrowsing-b "sentiasa opt-in. Maklumat tentang lokasi anda tidak pernah dihantar tanpa kebenaran anda. Jika anda mahu mematikan ciri ini secara keseluruhan, ikut arahan berikut:">
 <!ENTITY rights.locationawarebrowsing-term1a "Di bar URL, taip ">
-<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term1b "tentang:konfig">
 <!ENTITY rights.locationawarebrowsing-term2 "Taip geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dwi klik pada keutamaan geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Layaran Imbasan-Lokasi telah kehilangan upaya">

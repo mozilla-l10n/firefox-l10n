@@ -24,7 +24,7 @@
 <!ENTITY networkPanel.responseBody                "Badan Respon ">
 <!ENTITY networkPanel.responseBodyCached          "Data Cache">
 <!ENTITY networkPanel.responseBodyUnknownType     "Jenis Kandungan tidak diketahui">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
+<!ENTITY networkPanel.responseNoBody              "Tiada Respon Body">
 <!ENTITY networkPanel.responseImage               "Imej yang diterima">
 <!ENTITY networkPanel.responseImageCached         "Imej Cache">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web

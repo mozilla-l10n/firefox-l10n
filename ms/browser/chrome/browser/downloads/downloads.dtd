@@ -60,8 +60,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
-<!ENTITY cmd.removeFromHistory.label      "Remove From History">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "Buang Daripada Latar">
+<!ENTITY cmd.removeFromHistory.accesskey  "u">
 <!ENTITY cmd.clearList.label              "Kosongkan Senarai">
 <!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "Padam Muat turun">
@@ -75,7 +75,7 @@
 <!ENTITY downloadsHistory.label           "Pamer Semua Muat turun">
 <!ENTITY downloadsHistory.accesskey       "P">
 
-<!ENTITY clearDownloadsButton.label       "Clear Downloads">
+<!ENTITY clearDownloadsButton.label       "Padam Muat turun">
 <!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
@@ -88,4 +88,4 @@
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY downloadsListNoMatch.label       "Tidak dapat menemui persamaan muat turun.">

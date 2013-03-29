@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Penandabuku Tidak Terisih">
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
 
 <!ENTITY backCmd.label                "Kembali">
@@ -198,8 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Pembangun Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Sambung…">
+<!ENTITY devtoolsConnect.accesskey    "b">
 
 <!ENTITY errorConsoleCmd.label        "Masalah Konsol">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -225,7 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "simple discardable text editor". -->
 
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "M">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tukar ke tab:">
 <!-- 
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buka Pautan dalam Tetingkap Baru">
 <!ENTITY openLinkCmd.accesskey        "n">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.label "Buka Pautan dalam Tetingkap Privasi Baru">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Buka Pautan">
 <!ENTITY openLinkCmdInCurrent.accesskey "B">
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "V">
 <!ENTITY emailAudioCmd.label          "Audio Email">
 <!ENTITY emailAudioCmd.accesskey      "A">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.label          "Activate plugin ini">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.label          "Sorokkan plugin ini">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Salin Lokasi Pautan">
 <!ENTITY copyLinkCmd.accesskey        "S">
 <!ENTITY copyImageCmd.label           "Salin Lokasi Imej">
@@ -505,7 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Buka tab baharu">
 <!ENTITY newWindowButton.tooltip        "Buka tingkap baharu">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Tutup bar sisi">
 
 <!ENTITY cutButton.tooltip              "Potong">
 <!ENTITY copyButton.tooltip             "Salin">
@@ -623,13 +623,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Akses Kamera/Mikrofon">
+<!ENTITY webrtcIndicatorButton.tooltip "Tunjukkan laman yang anda berkongsi kamera dan mikrofon pada masa sekarang">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.helplink "Ketahui Lanjut">
+<!ENTITY mixedContentBlocked.moreinfo "Kebanyakan laman web masih lagi akan berfungsi walapun jika kandungan ini terhalang.">
