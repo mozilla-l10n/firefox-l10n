@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStart3               "Per aviar la navigacion privada, podètz tanben seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "Per arrestar la navigacion privada, podètz tampar aquesta fenèstra.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
