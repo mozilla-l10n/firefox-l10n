@@ -52,9 +52,11 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY notCached.longDesc "<p>Ekiwandiko ekisabbidwa tekiriwo mu terekero lya &brandShortName;.</p><ul><li>Okuwabulwa mu byokwerinda, &brandShortName; tedamu kusaba nate ebiwandiko ebirimu bwino akumibwa.</li><li>Koona ku Gezako Nate okusaba ekiwandiko okuva ku kyapa kweva.</li></ul>">
 
 <!ENTITY netOffline.title "Toli ku lutimbe">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Nyiiga &quot;Gezako Natte&quot; okudda yungibwa nate odemu otike omuko.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "<ul> 

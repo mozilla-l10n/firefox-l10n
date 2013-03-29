@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Ebyerobozebwa">
 <!ENTITY preferencesCmdUnix.accesskey     "z"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "Jjawo Ebifudeyo Ebiyiiseko...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
