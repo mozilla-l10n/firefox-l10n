@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Kerro meille mielipiteesi &brandShortName;ista Android.">
 <!ENTITY intro.happyLink           "Rakastan sitä">
 <!ENTITY intro.sadLink             "Ajauduin ongelmiin">
-<!ENTITY intro.ideaLink            "Minulla on ajatus">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -45,26 +44,12 @@
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Yritämme aina tehdä &brandShortName;ista kaikin tavoin parempaa. Voit olla varma, että ihminen lukee palautteesi tarkkaan ja tekee parhaansa ratkaistakseen ongelmasi.">
+<!ENTITY sad.thanksMessageTop      "Yritämme aina tehdä &brandShortName;ista kaikin tavoin parempaa. Voit olla varma, että ihminen lukee palautteesi tarkkaan ja tekee parhaansa ratkaistaakseen ongelmasi.">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Tai mörökölli meidät vieköön...">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Kuulemme mielellämme ideoistasi! Kirjoita alle mietintäsi. (Kerro kuitenkin vain &brandShortName;ia koskevista ideoistasi.)">
-<!ENTITY idea.placeholder          "Kirjoita ideasi tähän">
-<!ENTITY idea.thanksHeader         "Kiitti!">
-
-<!ENTITY idea.thanksMessageTop     "Kiitämme käyttämästäsi ajasta. Yritämme aina tehdä &brandShortName;ista kaikin tavoin parempaa ja tekemäsi kaltaiset kädenojennukset voivat johtaa hienoihin asioihin.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Et näe sitä, mutta heitämme just yläfemmaa sulle.">
 
 <!ENTITY feedback.privacy          "Varmistaaksesi yksityisyydensuojasi älä kirjoita antamaasi palautteeseen mitään sinut henkilökohtaisesti tunnistavia tietoja.">
 <!ENTITY feedback.send             "Lähetä palaute">
