@@ -6,26 +6,26 @@
 <!ENTITY abouthealth.locale-direction "ltr">
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
-<!ENTITY abouthealth.pagetitle "Ripoti ya Hali ya Jina Fupi la chapa;">
-<!ENTITY abouthealth.header "Ripoti ya Hali ya Jina Fupi la chapa;">
+<!ENTITY abouthealth.pagetitle "Ripoti ya Hali ya &brandShortName;">
+<!ENTITY abouthealth.header "Ripoti ya Hali ya &brandFullName;">
 
-<!ENTITY abouthealth.intro.title "Je, Ripoti ya Hali ya Jina Fupi la chapa; ni nini?">
+<!ENTITY abouthealth.intro.title "Je, Ripoti ya Hali ya &brandShortName; ni nini?">
 
-<!ENTITY abouthealth.intro-enabled "Jina Fupi la chapa; hukusanya baadhi ya data kuhusu kompyuta yako na utumiaji ili kukuauni na uzoefu wa kuvinjari bora.">
-<!ENTITY abouthealth.intro-disabled "Kwa sasa hauwasilishi utumiaji wa data kwa Jina Fupi la mchuuzi;. Unaweza kutusaidia kufanya Jina Fupi la chapa; bora kwa kubofya kitufe cha &quot;kuhusu chaguo la hali;&quot;.">
+<!ENTITY abouthealth.intro-enabled "&brandFullName; hukusanya baadhi ya data kuhusu kompyuta yako na utumiaji ili kukuauni na uzoefu wa kuvinjari bora.">
+<!ENTITY abouthealth.intro-disabled "Kwa sasa hauwasilishi utumiaji wa data kwa &vendorShortName;. Unaweza kutusaidia kufanya &brandShortName; bora kwa kubofya kitufe cha &quot;&abouthealth.optin;&quot;.">
 
-<!ENTITY abouthealth.optin "Saidia kufanya Jina Fupi la chapa; bora">
+<!ENTITY abouthealth.optin "Saidia kufanya &brandShortName; bora">
 <!ENTITY abouthealth.optout "Zima Kuripoti">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Je, komesha uwasilishaji wa data?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Je, unauhakika unataka kutoka na kufuta data yako yote ya bidhaa isiyojulikana iliyohifadhiwa kwenye wahudumu wa Jina Fupi la mchuuzi?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Je, unauhakika unataka kutoka na kufuta data yako yote ya bidhaa isiyojulikana iliyohifadhiwa kwenye wahudumu wa &vendorShortName;?">
 
 <!ENTITY abouthealth.show-raw-data "Onyesha Maelezo">
 <!ENTITY abouthealth.hide-raw-data "Ficha Maelezo">
 
-<!ENTITY abouthealth.show-report "Onyesha Ripoti ya Jina Fupi la chapa;">
+<!ENTITY abouthealth.show-report "Onyesha Ripoti ya &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "Hiyo ndiyo data ya Jina Fupi la chapa; inawasilisha ili Ripoti ya Hali ya Jina Fupi la chapa; kufanya kazi. Unaweza">
+<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
 <!ENTITY abouthealth.details-link "Jifunze zaidi">
 <!ENTITY abouthealth.details.description-end "   kuhusu tunachokusanya na kuwasilisha.">
 <!ENTITY abouthealth.no-data-available "Hakuna uwasilishaji wa awali wa kuonyesha. Tafadhali angalia tena baadaye.">

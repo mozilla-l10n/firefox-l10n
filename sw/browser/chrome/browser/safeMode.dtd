@@ -5,15 +5,15 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Hali tumizi Salama">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "Start in Safe Mode">
-<!ENTITY resetProfile.label           "Reset &brandShortName;">
+<!ENTITY startSafeMode.label          "Anza katika Hali Salama">
+<!ENTITY resetProfile.label           "Anzisha upya &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Safe Mode is a special mode of &brandShortName; that can be used to troubleshoot issues.">
-<!ENTITY safeModeDescription4.label   "Your add-ons and custom settings will be temporarily disabled.">
+<!ENTITY safeModeDescription3.label   "Hali Salama ni hali ya kipekee ya &brandShortName; ambayo inaweza kutumika kusuluhisha masuala.">
+<!ENTITY safeModeDescription4.label   "Vifaa vya nyongesa na mipangilio yako maalum yatalemazwa kwa muda.">
 
-<!ENTITY resetProfileInstead.label    "You can also Reset &brandShortName; if you want to start fresh.">
+<!ENTITY resetProfileInstead.label    "Pia unaweza Kuweka upya &brandShortName; kama unataka kuanza upya">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by resetting &brandShortName; to its default state or troubleshooting in Safe Mode.">
-<!ENTITY resetProfileFooter.label       "Everything else will be reset to factory defaults.">
-<!ENTITY safeModeInstead.label          "If you don't want this, you can continue in Safe Mode to do your own troubleshooting with your add-ons and custom settings temporarily disabled.">
+<!ENTITY autoSafeModeDescription2.label "&brandShortName; ilifunga kwa ghafla wakati wa kuanza. Hii inaweza kuwa imesababishwa na vifaa vya nyongesa au matatizo mengine. Unaweza jaribu kutatua tatizo kwa kuweka upya &brandShortName; katika hali yake msingi au kutatua katika Hali Salama.">
+<!ENTITY resetProfileFooter.label       "Kila kitu kitawekwa upya kwa kiwanda msingi.">
+<!ENTITY safeModeInstead.label          "Kama hutaki hii, unaweza kuendelea katika Hali Salama ili kufanya usulihisho wako mwenyewe na vifaa vyako vya nyongesa na mipangilio maalum kulemazwa kwa muda.">

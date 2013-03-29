@@ -198,8 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Mtengenezaji wa Wavuti">
 <!ENTITY webDeveloperMenu.accesskey   "M">
 
-<!ENTITY devtoolsConnect.label        "Unganisha">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Unganisha...">
+<!ENTITY devtoolsConnect.accesskey    "n">
 
 <!ENTITY errorConsoleCmd.label        "Kosa Konsoli">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -416,11 +416,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Hifadhi Sauti Kama…">
 <!ENTITY saveAudioCmd.accesskey       "d">
-<!ENTITY emailImageCmd.label          "Taswira ya Barua pepe...">
+<!ENTITY emailImageCmd.label          "Taswira ya Barua pepe…">
 <!ENTITY emailImageCmd.accesskey      "w">
-<!ENTITY emailVideoCmd.label          "Video ya Barua pepe...">
+<!ENTITY emailVideoCmd.label          "Video ya Barua pepe…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Tuma Sauti Kwenye Barua pepe...">
+<!ENTITY emailAudioCmd.label          "Tuma Sauti Kwenye Barua pepe…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Amilisha programu jalizi hii">
 <!ENTITY playPluginCmd.accesskey      "l">
@@ -465,7 +465,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "V">
 <!ENTITY videoFullScreen.label       "Skrini Nzima">
 <!ENTITY videoFullScreen.accesskey   "S">
-<!ENTITY videoSaveImage.label        "Hifadhi Picha iliyopigwa haraka Kama...">
+<!ENTITY videoSaveImage.label        "Hifadhi Picha iliyopigwa haraka Kama…">
 <!ENTITY videoSaveImage.accesskey    "H">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu

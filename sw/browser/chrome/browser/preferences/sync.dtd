@@ -17,9 +17,9 @@
 <!ENTITY manageAccount.label          "Dhibiti Akaunti">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Angalia Kwota">
-<!ENTITY changePassword2.label        "Badilisha Neno la Siri...">
+<!ENTITY changePassword2.label        "Badilisha Neno la Siri…">
 <!ENTITY myRecoveryKey.label          "Ufunguo Wangu wa Afueni">
-<!ENTITY resetSync2.label             "Weka Upya Ulandanishi...">
+<!ENTITY resetSync2.label             "Weka Upya Ulandanishi…">
 
 <!ENTITY pairDevice.label             "Jozi Kifaa">
 

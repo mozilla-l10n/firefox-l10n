@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncKey.page.title               "Ufunguo wako wa &syncBrand.fullName.label;">
-<!ENTITY syncKey.page.description2        "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new device.">
+<!ENTITY syncKey.page.description2        "Kibonye hiki kinatumika kusimbua data katika akaunti yako ya &syncBrand.fullName.label;. Utahitaji kubonyeza kila mara unasanidi &syncBrand.fullName.label; kwenye kifaa kipya.">
 <!ENTITY syncKey.keepItSecret.heading     "Iweke siri">
 <!ENTITY syncKey.keepItSecret.description "Akaunti yako ya &syncBrand.fullName.label; imefichika kukinga faragha yako. Bila ufunguo huu, itachukua miaka kwa mtu kufichua maelezo yako ya kibinafsi. Ni wewe pekee yako uliye na ufunguo huu. Hii ni kumaanisha kuwa ni wewe tu uliye na ufikivu wa data yako ya &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading       "Iweke salama">
 <!ENTITY syncKey.keepItSafe1.description  "Usipoteze ufunguo huu.">
 <!ENTITY syncKey.keepItSafe2.description  " Hatuhitaji kuweka nakala ya ufunguo wako (hiyo haingekuwa kuweka siri!) kwa hivyo ">
 <!ENTITY syncKey.keepItSafe3.description  "hatuwezi kukusaidia kuirejesha">
-<!ENTITY syncKey.keepItSafe4a.description " if it's lost. You'll need to use this key any time you connect a new device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description "  kama imepotea. Utahitajika kutumia kibonye hiki wakati wowote unaunganisha kifaa kipya kwa &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Jijulishe zaidi kuhusu &syncBrand.fullName.label; na faragha yako kwa ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Masharti ya Huduma yanapatikana kwa ">

@@ -23,7 +23,7 @@ kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidi
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Folda ya Maelezo mafupi">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Wezesha Programu-jalizi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Jenga Usanidi">
@@ -45,22 +45,22 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Thamani">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Pendeleo za mtumiaji.js">
+<!ENTITY aboutSupport.userJSDescription "Folda ya maelezo mafupi yako ina faili ya <a id='prefs-user-js-link'>mtumiaji.id</a>, ambayo inajumuisha pendeleo ambazo hazikuundwa na &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Sanaa">
 
-<!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsTitle "Hati ya java">
+<!ENTITY aboutSupport.jsIncrementalGC "GC ya Nyongesa">
 
 <!ENTITY aboutSupport.a11yTitle "Ufikikaji">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yActivated "Imeamilishwa">
+<!ENTITY aboutSupport.a11yForceDisabled "Zuia Upatikanaji">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Toleo za Maktaba">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historia ya Usakinishaji">
 <!ENTITY aboutSupport.updateHistoryTitle "Historia ya Usasaisho">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Nakili matini katika ubao">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Nakili data ghafi kwa ubao">

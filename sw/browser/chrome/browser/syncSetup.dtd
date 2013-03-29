@@ -12,12 +12,12 @@
 
 <!ENTITY setup.choicePage.title.label     "Umetumia &syncBrand.fullName.label; awali?">
 <!ENTITY setup.choicePage.new.label       "Sijatumia &syncBrand.shortName.label; hapo awali">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "Tayari ninatumia &syncBrand.shortName.label; kwenye kifaa kingine">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Sava">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
-<!ENTITY serverType.custom2.label   "Tumia sava maalum...">
+<!ENTITY serverType.default.label      "Msingi: Seva ya Mozilla ya &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Tumia sava maalum…">
 <!ENTITY signIn.account2.label      "Akaunti">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Nywila">
@@ -51,9 +51,9 @@
 <!ENTITY syncGenerateNewKey.label  "Unda kitufe kipya">
 <!ENTITY recoveryKeyBackup.description "Ufunguo wako wa Uokoaji unahitajika kufikia &syncBrand.fullName.label; kwa mashine zingine. Tafadhali unda nakala ya chelezo. Hatuwezi kukusaidia kurejesha Ufunguo wako wa Uokoaji.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Chapisha...">
+<!ENTITY button.syncKeyBackup.print.label     "Chapisha…">
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
-<!ENTITY button.syncKeyBackup.save.label      "Hifadhi...">
+<!ENTITY button.syncKeyBackup.save.label      "Hifadhi…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "H">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
@@ -72,14 +72,14 @@
 
 <!ENTITY setup.signInPage.title.label "Ingia">
 <!ENTITY existingRecoveryKey.description "Unaweza kupata nakala yako ya Ufunguo wa Uokoaji kwa kwenda kwa &syncBrand.shortName.label;Chaguo kwenye kifaa chako kingine, na kuchagua  &#x0022;Ufunguo Wangu wa Uokoaji &#x0022; chini ya &#x0022;Dhibiti Akaunti&#x0022;">
-<!ENTITY verifying.label              "Kudhibitisha...">
+<!ENTITY verifying.label              "Kudhibitisha…">
 <!ENTITY resetPassword.label          "Weka upya Nywila">
 <!ENTITY resetSyncKey.label           "Nimepoteza kifaa changu kingine.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Chaguo za Ulandanishi">
 <!ENTITY syncDeviceName.label       "Jina la Kifaa:">
-<!ENTITY syncDeviceName.accesskey   "a">
+<!ENTITY syncDeviceName.accesskey   "f">
 
 <!ENTITY syncMy.label               "Ulandanishi Wangu">
 <!ENTITY engine.bookmarks.label     "Vialamisho">
@@ -95,16 +95,16 @@
 <!ENTITY engine.addons.label        "Vifaa vya nyongeza">
 <!ENTITY engine.addons.accesskey    "V">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "Changanya data ya kifaa hiki na data yangu ya &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Imependekezwa:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.client.main.label      "Badilisha data yote kwenye kifaa hiki na data ya &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Badilisha vifaa vingine vyote na data za kifaa hiki">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Thibitisha">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sasa itachanganya data ya yote ya kivinjari ya kifaa hiki katika akaunti yako ya Ulandanishi.">
+<!ENTITY confirm.client3.label         "Onyo: Data ya &brandShortName; ifuatayo kwenye kifaa hiki kitafutwa:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; kisha itanakili data yako ya &syncBrand.fullName.label; kwa kifaa hiki.">
 <!ENTITY confirm.server2.label         "Onyo: Vifaa vifuatavyo vitaandikwa juu na data yako ya kienyeji:">
 <!-- New & Existing Account: Setup Complete -->
 

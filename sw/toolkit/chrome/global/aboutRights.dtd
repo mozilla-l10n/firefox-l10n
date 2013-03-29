@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Sera zozote za faragha zinazotumika kwa bidhaa hii zinafaa kuorodheshwa hapa.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
+<!ENTITY rights2.intro-point4a "Baadhi ya Vipengee vya &brandShortName; hutumia huduma za maelezo zilizojikita kwenye tovuti, hata hivyo, hatuwezi kudhamini kuwa ni 100&#037; sahihi au hazina makosa. Maelezo zaidi, ikijumulisha maelezo kuhusu jinsi ya kulemaza vipengee vinavyotumia huduma hizi, yanaweza patikana kwenye ">
 <!ENTITY rights.intro-point4b "masharti ya huduma">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
+<!ENTITY rights2.webservices-a "&brandFullName; hutumia huduma za maelezo yaliyojikita kwenye wavuti (&quot;Huduma&quot;) ili kutoa baadhi ya  vipengee vilivyotolewa kwa matumizi yako na toleo hili la uwili la &brandShortName; chini ya masharti yaliyoelezwa hapa chini. Kama hutaki kutumia moja au zaidi ya Huduma hizi au masharti yaliyo hapa chini hayakubaliki, unaweza kulemaza kipengee au Huduma. Maagizo kuhusu jinsi ya kulemaza kipengee fulani au Huduma yaweza kupatikana ">
 <!ENTITY rights2.webservices-b "hapa">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "Kulemaza vipengee vya Kuvinjari Salama hakupendekezwi kwani kunaweza kusababisha kwenda kwenye tovuti ambazo sio salama.   Kama ungependa kulemaza kipengee kikamilifu, fuata hatua hizi:">
 <!ENTITY rights.safebrowsing-term1 "Fungua mapendeleo ya programu">
 <!ENTITY rights.safebrowsing-term2 "Fungua chaguo za Usalama">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Kagua tena chaguo kwa &quot;&blockAttackSites.label;&quot; na &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Kuvinjari Salama sasa kumelemazwa">
 <!-- location aware browsing points for branded builds -->
 
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; na wachangiaji wake, waleseni na wenzi hufanya kazi kutoa Huduma sahihi zaidi na za kisasa. Hata hivyo, hatuwezi kudhamini kuwa maelezo haya ni ya kuaminika na hayana makosa.    Kwa mfano, Huduma ya Kuvinjari Salama haiwezi kutambua tovuti zingine na inaweza kutambua tovuti zingine kimakosa na Huduma ya Mahali Kujua mahali pote kumerudishwa na watoaji huduma ni kisio tu na watoaji huduma hudhamini usahihi wa mahali walipotoa.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; yaweza kukatiza au kubadilisha Huduma kwa hiari yake.">
 <!ENTITY rights2.webservices-term3 "Unakaribishwa kutumia Huduma hizi na matoleo yanayoandamana ya &brandShortName; na &vendorShortName; inakupa haki ya kufanya hivyo.   &vendorShortName; na waleseni wake huhifadhi haki zingine zote katika Huduma.   Masharti haya hayakusudiwi kuzuia haki zozote zilizotolewa chini ya leseni zilizofunguliwa kutumiwa na &brandShortName; na kuandikiana na matoleo ya chanzo cha &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term4 "Huduma zinatolewa &quot;kama-ni&quot;.   &vendorShortName;, wachangiaji wake, waleseni, na wagawanyaji, wanakataa kumiliki udhamini, ulio wa moja kwa moja au uliokusudiwa, ikijumulisha bila kuzuia, udhamini ambao Huduma zinaweza kuuzwa na kukidhi matumizi fulani.   Unachukua hararii kubwa ya kuchagua Huduma kwa matumizi yako na kwa ubora na ufanya kazi wa Huduma hizo. Ugawaji mwingine hauruhusu utenganisho au uzuizi wa udhamini, kwa hivyo kutodai kwako hakukuhusu.">
 <!ENTITY rights.webservices-term5 "Isipokuwa inavyohitajika na sheria, &vendorShortName;, wachangiaji wake, waleseni na wagawanyaji hawatawajibika kwa madhara ya moja kwa moja, maalum, ya matukio, yenye madhara, au madhara yasiyo ya kawaida yanayotokana kwa njia yoyote yakihusiana na utumizi wa &brandShortName; na Huduma hiyo.   Uwajibikaji wa pamoja chini ya masharti haya hautakiuka $500 (dol mia tano). Mamlaka mengine hayaruhusu utenagaji au uzuiaji wa madhara, kwa hivyo utengaji na uzuiaji haukuhusu.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; yaweza kusasaisha masharti haya kama inavyohitajika kupitia wakati. Masharti haya hayabadilishwi au kukatizwa bila makubaliano yaliyoandikwa ya &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "Masharti haya yanatawaliwa na sheria za taifa la Califonia, U.S.A., ikitenga mgogoro wa utoaji wa sheria. Kama kipande chochote cha masharti haya kitachukuliwa kuwa batili au hakiwezi kutekelezwa, sehemu zilizobaki zitakuwa na nguvu na athari. Wakati ambapo kuna mgogoro kati ya toleo lililotafsiriwa la masharti na toleo la Kiingereza, toleo la Kiingereza litakuwa na udhibiti.">

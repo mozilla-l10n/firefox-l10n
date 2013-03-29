@@ -21,7 +21,7 @@
 <!ENTITY newButton.accesskey        "M">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "Leta...">
+<!ENTITY importButton.label         "Leta…">
 <!ENTITY importButton.tooltip       "Leta na uambatishe jalada ya mtindo iliyopo kwa waraka">
 <!ENTITY importButton.accesskey     "L">
 <!ENTITY importButton.commandkey    "i">

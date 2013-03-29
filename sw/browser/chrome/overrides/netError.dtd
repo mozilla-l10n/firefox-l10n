@@ -143,9 +143,9 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 <!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Au unaweza kuongeza jambo la pekee...">
+<!ENTITY securityOverride.linkText "Au unaweza kuongeza jambo la pekee…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Niondoe hapa!">
-<!ENTITY securityOverride.exceptionButtonLabel "Ongeza Jambo la pekee...">
+<!ENTITY securityOverride.exceptionButtonLabel "Ongeza Jambo la pekee…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

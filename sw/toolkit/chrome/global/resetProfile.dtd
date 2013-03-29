@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Reset &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Are you sure you want to reset &brandShortName; to its initial state?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; will try to preserve your:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; will restart and everything else will be removed.">
-<!ENTITY resetProfile.dialog.button.label "Reset &brandShortName;">
+<!ENTITY resetProfile.dialog.title        "Weka upya &brandShortName;">
+<!ENTITY resetProfile.dialog.description  "Je, una uhakika unataka kuweka upya &brandShortName; katika hali yake ya awali?">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; itaweka:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; itaanza upya na kila kitu kitaondolwa.">
+<!ENTITY resetProfile.dialog.button.label "Weka upya &brandShortName;">
 
-<!ENTITY resetProfile.title               "Reset &brandShortName; to its default state">
-<!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
-<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
+<!ENTITY resetProfile.title               "Weka upya &brandShortName; katika hali yake msingi">
+<!ENTITY resetProfile.description         "Kama unamatatizo kubwa ambayo huwezi kutatua, anza upya na maelezo yako muhimu tu.">
+<!ENTITY resetProfile.button.label2       "Weka upya &brandShortName;...">
 
-<!ENTITY resetProfile.cleaning.description "Please wait while &brandShortName; cleans up your old data…">
+<!ENTITY resetProfile.cleaning.description "Tafadhali subiri wakati &brandShortName; inafuta data yako nzee...">

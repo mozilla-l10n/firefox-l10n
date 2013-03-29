@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika kache ya kivinjari.</p><ul><li>Kama hadhari ya usalama, kivinjari hakiombi tena kiotomatiki nyaraka zilizo na hisia.</li><li>Bofya Kujaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul> ">
 
 <!ENTITY netOffline.title "Hali tumizi ya Nje ya Mtandao">
-<!ENTITY netOffline.longDesc2 "<p><p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Je, kompyuta imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot;Jaribu tena&quot; ili kubadili kwa hali ya mtandao na kupakia upya ukurasa.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Je, kompyuta imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot;Jaribu tena&quot; ili kubadili kwa hali ya mtandao na kupakia upya ukurasa.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbaji Maudhui">
 <!ENTITY contentEncodingError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">

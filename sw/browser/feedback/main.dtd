@@ -6,12 +6,12 @@
 <!ENTITY testpilot.settings.label                   "Mipangilio">
 <!ENTITY testpilot.settings.dataSubmission.label    "Uwasilishaji wa Data">
 <!ENTITY testpilot.settings.notifications.label     "Taarifa">
-<!ENTITY testpilot.settings.notifyWhen.label        "Niarifu wakati...">
+<!ENTITY testpilot.settings.notifyWhen.label        "Niarifu wakati…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Uchunguzi uko tayari kuwasilishwa">
 <!ENTITY testpilot.settings.newStudy.label          "Kuna uchunguzi upya">
 <!ENTITY testpilot.settings.hasNewResults.label     "Uchunguzi una matokeo mapya">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Fikisha data yangu kiotomatiki (usiniulize)">
-<!ENTITY testpilot.allYourStudies.label             "Chunguzi Zako Zote za Mtumiaji...">
+<!ENTITY testpilot.allYourStudies.label             "Chunguzi Zako Zote za Mtumiaji…">
 <!ENTITY testpilot.about.label                      "Kuhusu Jaribio">
 <!-- all studies window -->
 
@@ -20,7 +20,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Chunguzi Zilizokamilika">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Matokeo ya Uchunguzi">
 <!ENTITY testpilot.studiesWindow.settings.label         "Mipangilio">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Inapakia, tafadhali subiri...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Inapakia, tafadhali subiri…">
 <!-- raw data dialog -->
 
 <!ENTITY testpilot.rawDataWindow.title                  "Jaribio:: Data Ghafi">

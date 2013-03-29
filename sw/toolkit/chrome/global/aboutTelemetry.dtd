@@ -2,64 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "Data ya Telemeta">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry is <span>enabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "      Telemeta <span>imewezeshwa</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "       Telemeta <span>imelemazwa</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection "      Chelewesha Kauli za SQL">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "       Vikwamaji vya Kivinjari">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramia">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "       Vipimo Rahisi">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "       Viandiko Vilivyochelewa">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
-">
+<!ENTITY aboutTelemetry.systemInfoSection "       Maelezo ya Mfumo">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "       Histogramia Zilizokusanywa na vifaa vya nyongesa">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
-">
+<!ENTITY aboutTelemetry.toggleOn "       Bonyeza ili kupanua sehemu">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Click to collapse section
-">
+<!ENTITY aboutTelemetry.toggleOff "       Bonyeza ili kupoteza sehemu">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
+<!ENTITY aboutTelemetry.emptySection "  (Hakuna data iliyokusanywa)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  DOKEZO: Ueuaji wa SQL ya ucheleweshaji umewezeshwa. Tungo za SQL nzima zinaweza onyeshwa hapa chini lakini hazitawasilishwa kwa Telemeta.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Leta majina ya fomula saidizi za kwama ya omekezo">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
+<!ENTITY aboutTelemetry.hideSymbols "  Onyesha data ghafi kutoka kwa vikwamaji">

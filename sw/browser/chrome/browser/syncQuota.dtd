@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY quota.dialogTitle.label    "Sehemu ya Seva">
-<!ENTITY quota.retrievingInfo.label "Kurejesha maelezo ya sehemu...">
+<!ENTITY quota.retrievingInfo.label "Kurejesha maelezo ya sehemu…">
 <!ENTITY quota.typeColumn.label     "Aina">
 <!ENTITY quota.sizeColumn.label     "Ukubwa">

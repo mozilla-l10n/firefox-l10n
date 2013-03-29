@@ -55,9 +55,9 @@
 <!ENTITY cmd.show.accesskey               "I">
 <!ENTITY cmd.showMac.label                "Onyesha Katila Kipataji">
 <!ENTITY cmd.showMac.accesskey            "K">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.goToDownloadPage.label       "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.retry.label                  "Jaribu tena">
+<!ENTITY cmd.goToDownloadPage.label       "Nenda kwa Ukurasa wa Upakuzi">
+<!ENTITY cmd.goToDownloadPage.accesskey   "N">
 <!ENTITY cmd.copyDownloadLink.label       "Nakili Kiungo cha Kupakua">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Ondoa Kutoka kwa Historia">

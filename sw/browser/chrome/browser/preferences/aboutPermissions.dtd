@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Kila wakati Uliza">
 <!ENTITY permission.allow                "Ruhusu">
 <!ENTITY permission.allowForSession      "Ruhusu kwa Kipindi">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "Ruhusu Wahusika wa Kwanza Pekee">
 <!ENTITY permission.block                "Zuia">
 
 <!ENTITY password.label                  "Hifadhi Nywila">
@@ -41,4 +41,4 @@
 
 <!ENTITY popup.label                     "Fungua Dirisha Ibukizi">
 
-<!ENTITY fullscreen.label                "Fullscreen">
+<!ENTITY fullscreen.label                "Skrini Nzima">
