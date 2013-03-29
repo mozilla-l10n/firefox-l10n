@@ -2,8 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY safeb.palm.warning.title "Podejrzenie oszustwa internetowego">
+
+<!ENTITY safeb.palm.message.p1 "Ta strona została zgłoszona jako oszustwo, którego celem jest wyłudzenie od użytkowników ich danych osobistych i finansowych. Wprowadzając osobiste informacje na tej stronie, możesz paść ofiarą kradzieży tożsamości lub innego oszustwa. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Więcej &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Więcej &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Takie strony są wykorzystywane w rodzaju oszustw, który nazywa się phishingiem. Podrobione strony internetowe i adresy poczty elektronicznej mają imitować źródła, którym ufasz. Dowiedz się więcej o tym, ">
+<!ENTITY safeb.palm.message.p2.linkText "jak &brandShortName; broni Cię">
+<!ENTITY safeb.palm.message.p2.end " przed phishingiem.">
+
 <!ENTITY safeb.palm.accept.label "Zabierz mnie stąd!">
+<!ENTITY safeb.palm.accept.statustext "Powrót na stronę domową">
 <!ENTITY safeb.palm.decline.label "Zignoruj to ostrzeżenie">
+<!ENTITY safeb.palm.decline.statustext "Zamknij ostrzeżenie" >
 <!ENTITY safeb.palm.notforgery.label2 "To nie jest oszustwo…">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
 
