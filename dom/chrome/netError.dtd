@@ -29,7 +29,7 @@
 <!ENTITY netInterrupt.longDesc "[p]The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.[/p][ul][li]Are you unable to browse other sites? Check the computer's network connection.[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
 
 <!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>கோரிய ஆவணம் உலாவியின் தற்காலிக சேமிப்பில் கிடைக்கவில்லை.</p><ul><li> பாதுகாப்பு முன்னெச்சரிக்கையாக, உலாவி தானாக மீண்டும் முக்கியமான ஆவணங்ககளை கோருவது இல்லை.</li><li>இந்த ஆவணத்தை வலைதலத்தில் இருந்து மீண்டும் கோர &quot;மீண்டும் முயற்சிக்கவும்&quot; பொத்தானை சொடுக்கவும்.</li></ul>">
 
 <!ENTITY netOffline.title "இணையத்தில் இல்லை பிழை">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">

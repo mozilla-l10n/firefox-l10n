@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "சமீபத்திய வரலாற்றைத் துடை">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.label "புதிய தனிப்பட்ட உலாவுதல் சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -416,8 +416,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ஆடியோவை இப்படி சேமி…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "படத்தை மின்னஞ்சல் செய்...">
+<!ENTITY emailImageCmd.accesskey      "ப">
 <!ENTITY emailVideoCmd.label          "மின்னஞ்சல் வீடியோ...">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "மின்னஞ்சல் ஆடியோ...">
@@ -472,7 +472,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "புள்ளிவிவரம் காட்டு">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.label        "புள்ளிவிபரத்தை மறைக்க">
 <!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -505,7 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
 <!ENTITY newWindowButton.tooltip        "ஒரு புதிய சாளரத்தைத் திற">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
 
 <!ENTITY cutButton.tooltip              "வெட்டு">
 <!ENTITY copyButton.tooltip             "நகலெடு">
@@ -605,7 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY social.notLoggedIn.label   "உள்நுழையவில்லை">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -631,5 +631,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
 <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.helplink "மேலும் அறிய">
 <!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
