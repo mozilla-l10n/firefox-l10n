@@ -5,8 +5,8 @@
 <!ENTITY privatebrowsingpage.title                 "Privatno surfanje">
 <!ENTITY privatebrowsingpage.title.normal          "Da li želite započeti Privatno surfanje?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; neće pamtiti bilo kakvu historiju za ovu sesiju.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; trenutno nije u režimu Privatnog surfanja.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; neće pamtiti historiju za ovaj prozor.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Trenutno niste u privatnom prozoru.">
 
 <!ENTITY privatebrowsingpage.perwindow.description     "U prozoru Privatnog surfanja, &brandShortName; neće pamtiti bilo kakvu historiju surfanja, historiju pretraga, historiju preuzimanja, historiju web formi, kolačiće, ili privremene internet fajlove.  Međutim, fajlovi koje preuzmete i zabilješke koje napravite bit će sačuvani.">
 
