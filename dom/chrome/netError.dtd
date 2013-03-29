@@ -81,7 +81,7 @@ Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba men
  <p>Pemalsuan web ini digunakan oleh komplot tertentu yang dikenali sebagai serangan phishing, di mana pemalsuan laman web dan email digunakan untuk meniru sumber-sumber yang dipercayai.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Pelayar menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentError.title "Ralat Kandungan Rosak">
 <!ENTITY corruptedContentError.longDesc "<p>Laman yang anda ingin mencuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam transmisi data telah disyaki.</p><ul><li>Sila hubungi pemilik laman web ini untuk memberitahu mereka mengenai masalah ini.</li></ul>">

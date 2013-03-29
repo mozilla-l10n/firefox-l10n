@@ -22,7 +22,7 @@
 <!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon">
 <!ENTITY helpSafeMode.accesskey   "M">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.label       "&brandShortName; Pelapor Kerosakan">
 <!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">

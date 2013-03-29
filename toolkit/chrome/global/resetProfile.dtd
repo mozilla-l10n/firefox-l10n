@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "Set semula &brandShortName; untuk kembali kepada asal">
 <!ENTITY resetProfile.description         "Jika anda mengalami masalah besar dimana anda tidak dapat selesai, mula dengan segar informasi penting anda.">
-<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
+<!ENTITY resetProfile.button.label2       "Set semula &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "Sila tunggu sementara &brandShortName; Bersihkan data lama anda...">
