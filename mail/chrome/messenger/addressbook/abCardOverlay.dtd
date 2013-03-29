@@ -131,3 +131,5 @@
 <!ENTITY XMPP.label "ID de Jabber:">
 <!ENTITY XMPP.accesskey "J">
 <!ENTITY chatName.label "Nome nel chat:">
+<!ENTITY IRC.label "Nomatu en IRC:">
+<!ENTITY IRC.accesskey "R">

@@ -734,3 +734,5 @@
 <!ENTITY appmenuButton.label "AppMenu">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY appmenuButton1.tooltip "Amosar el menú &brandShortName;">
+<!ENTITY appmenuSelectThread.label "Seleicionar conversación">
+<!ENTITY appmenuSelectFlagged.label "Seleicionar mensaxes con estrella">

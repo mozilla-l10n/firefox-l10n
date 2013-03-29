@@ -39,3 +39,5 @@
 <!ENTITY contextIncomingMail.accesskey "A">
 <!ENTITY contextBeforeCls.label "Peñerar enantes d'identificar el corréu puxarra">
 <!ENTITY contextAfterCls.label "Peñerar tres d'identificar el corréu puxarra">
+<!ENTITY filterActionOrderWarning.label "Nota: les aiciones del filtru van executase nun orde distintu.">
+<!ENTITY filterActionOrder.label "Ver orde d'execución">
