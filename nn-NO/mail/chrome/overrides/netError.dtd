@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tenar ikkje funnen">
-<!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.døme.no istadenfor <strong>www</strong>.døme.no</li>  <li>Dersom du ikkje klarer å laste nokre nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul> ">
+<!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.døme.no istadenfor <strong>www</strong>.døme.no</li>  <li>Dersom du ikkje greier å laste nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul> ">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul>
