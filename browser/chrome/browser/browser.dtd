@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "విండో మూయి">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.label "ఇష్టాంశాలు (B)">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
