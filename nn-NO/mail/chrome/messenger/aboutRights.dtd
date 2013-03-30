@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Om rettane dine">
@@ -45,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ynskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velje ">
+<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester (&quot;Tenester&quot;), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruke Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velje ">
 <!ENTITY rights.webservices-b "Avansert">
 <!ENTITY rights.webservices-c "-seksjonen, og deretter ">
 <!ENTITY rights.webservices-d "Oppdatering">
