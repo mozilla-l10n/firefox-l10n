@@ -18,7 +18,7 @@
 <!ENTITY stats.activitySeeking "(se ye posicionando)">
 <!ENTITY stats.volume "Volumen">
 <!ENTITY stats.channels "Canals">
-<!ENTITY stats.sampleRate "Freqüencia de muestreyo">
+<!ENTITY stats.sampleRate "Freqüencia d'escandallo">
 <!ENTITY stats.framesParsed "Fotogramas analisaus">
 <!ENTITY stats.framesDecoded "Fotogramas descodificaus">
 <!ENTITY stats.framesPresented "Fotogramas presentaus">

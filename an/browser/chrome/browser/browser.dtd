@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Porgar l'historial recient…">
-<!ENTITY clearRecentHistory.accesskey           "h">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Borrar l'historial recient…">
 
-<!ENTITY privateBrowsingCmd.start.label         "Empecipiar a navegación privada">
-<!ENTITY privateBrowsingCmd.start.accesskey     "v">
-<!ENTITY privateBrowsingCmd.stop.label          "Aturar a navegación privada">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "v">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Veyer"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "I">
-<!ENTITY urlbar.placeholder           "Ir ta un puesto web">
+<!ENTITY urlbar.placeholder2          "Termen a mirar u adreza">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Ninviar l'audio por correu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activar iste plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Amagar iste plugin">
+<!ENTITY hidePluginCmd.accesskey      "g">
 <!ENTITY copyLinkCmd.label            "Copiar l'adreza d'o vinclo">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copiar l'adreza d'a imachen">
@@ -587,10 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que perteneixe a">
 
 <!ENTITY identity.moreInfoLinkText "Mas información…">
-
-<!ENTITY allTabs.filter.emptyText "Mirar pestanyas">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Pestanyas d'o navegador">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -633,3 +630,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Acceso ta o microfono/camara">
 <!ENTITY webrtcIndicatorButton.tooltip "Amuestra os puestos a on se ye compartindo a camara u o microfono">
+
+<!ENTITY mixedContentBlocked.helplink "Saber-ne mas">
+<!ENTITY mixedContentBlocked.moreinfo "A mas gran parte d'os puestos web funcionarán bien mesmo con iste conteniu blocau.">
