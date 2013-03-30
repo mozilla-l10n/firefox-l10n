@@ -43,7 +43,7 @@
 <!ENTITY healthReportLearnMore.label     "Les meir">
 
 <!ENTITY telemetrySection.label          "Telemetri">
-<!ENTITY telemetryDesc.label             "Deler data om yting, bruksmønster, maskinvare og utvidingar med &vendorShortName;, for å hjelpe oss gjere &brandShortName; betre">
+<!ENTITY telemetryDesc.label             "Deler data om yting, bruksmønster, maskinvare og utvidingar med &vendorShortName;, for å hjelpe oss å gjere &brandShortName; betre">
 <!ENTITY enableTelemetry.label           "Slå på telemetri">
 <!ENTITY enableTelemetry.accesskey       "l">
 <!ENTITY telemetryLearnMore.label        "Les meir">

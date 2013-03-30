@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Uynskt e-post">
+<!ENTITY itemJunk.label          "Uønskt e-post">
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 <!ENTITY itemCookies.label       "Nettinnhald">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Vel standard-innstilling for uynskt e-post. Konto-spesifikke innstillingar for uynskt e-post kan stillast inn i Konto-innstillingar.">
-<!ENTITY manualMark.label "Når eg merkar meldingar som uynskte:">
+<!ENTITY junkMail.intro "Vel standard-innstilling for uønskt e-post. Konto-spesifikke innstillingar for uønskt e-post kan stillast inn i Konto-innstillingar.">
+<!ENTITY manualMark.label "Når eg merkar meldingar som uønskte:">
 <!ENTITY manualMark.accesskey "N">
-<!ENTITY manualMarkModeMove.label "Flytt dei til «Uynskt»-mappa på kontoen">
+<!ENTITY manualMarkModeMove.label "Flytt dei til «Uønskt»-mappa på kontoen">
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slett dei">
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Merk uønskt-meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Slå på logging for adaptiv filter for uynsket e-post">
+<!ENTITY enableAdaptiveJunkLogging.label "Slå på logging for adaptiv filter for uønskt e-post">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "l">
 <!ENTITY openJunkLog.label "Vis logg">
 <!ENTITY openJunkLog.accesskey "V">
@@ -51,10 +51,10 @@
 <!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyhendekjelder og andre nettsider som har lov til å bruke infokapslar.">
 <!ENTITY acceptCookies.label            "Godta infokapslar frå netstader">
 <!ENTITY acceptCookies.accesskey        "G">
-<!ENTITY keepUntil.label                "Ta vare på til:">
-<!ENTITY keepUntil.accesskey            "a">
+<!ENTITY keepUntil.label                "Behald dei til:">
+<!ENTITY keepUntil.accesskey            "B">
 <!ENTITY expire.label                   "dei går ut på dato">
-<!ENTITY close.label                    "eg lèt att &brandShortName;">
+<!ENTITY close.label                    "eg lukkar &brandShortName;">
 <!ENTITY askEachTime.label              "spør meg kvar gong">
 <!ENTITY cookieExceptions.label         "Unntak …">
 <!ENTITY cookieExceptions.accesskey     "U">
@@ -62,5 +62,5 @@
 <!ENTITY showCookies.accesskey          "V">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ynskjer å bli spora">
+<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ønskjer å bli spora">
 <!ENTITY doNotTrack.accesskey           "d">

@@ -5,7 +5,7 @@
 <!ENTITY newWindowsAsTabs.label       "Opne nye vindauge i faner">
 <!ENTITY newWindowsAsTabs.accesskey   "O">
 
-<!ENTITY warnCloseMultipleTabs.label  "Åtvar meg ved attlating av fleire faner">
+<!ENTITY warnCloseMultipleTabs.label  "Åtvar meg ved lukking av fleire faner">
 <!ENTITY warnCloseMultipleTabs.accesskey  "Å">
 
 <!ENTITY warnOpenManyTabs.label       "Åtvar meg når opning av mange faner samstundes kan gjere &brandShortName; treg">

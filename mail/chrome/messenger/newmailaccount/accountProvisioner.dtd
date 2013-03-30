@@ -22,8 +22,8 @@
 <!ENTITY success.title.before "Hei">
 <!ENTITY success.title.after ", følgande e-postadresser er tilgjengelege for deg:">
 <!ENTITY success.tip "(Du kan óg prøve å søke etter kallenamn eller andre søkjeord for å finne fleire e-postadresser)">
-<!ENTITY partnership.description "I partnerskap med fleire tilbydarar kan &brandShortName; tilby deg ein ny e-postkonto. Berre fyll inn fornamn og etternamn, og evt. andre ord du ynskjer, i felta nedanfor for å kome i gang.">
-<!ENTITY existing.header "Har du allereie ei adresse du ynskjer å nytte?">
+<!ENTITY partnership.description "I partnerskap med fleire tilbydarar kan &brandShortName; tilby deg ein ny e-postkonto. Berre fyll inn fornamn og etternamn, og evt. andre ord du ønskjer, i felta nedanfor for å kome i gang.">
+<!ENTITY existing.header "Har du allereie ei adresse du ønskjer å nytte?">
 <!ENTITY tinyheader.title "Har du ei adresse?">
 <!ENTITY tinyheader.existing "Bruk den eksisterande e-postadressa mi i staden">
 <!ENTITY content.close "Eg konfigurerer kontoen seinare i staden.">
