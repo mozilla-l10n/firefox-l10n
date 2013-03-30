@@ -648,4 +648,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.helplink "Läs mer">
 <!ENTITY mixedContentBlocked.moreinfo "De flesta webbplatser kommer fortfarande att fungera som vanligt även om det här innehållet blockeras.">
 
-<!ENTITY pointerLock.notification.message "Tryck ESC när du vill visa det igen.">
+<!ENTITY pointerLock.notification.message "Tryck ESC när du vill visa den igen.">
