@@ -26,9 +26,9 @@
 <!ENTITY setDefault.accesskey "o">
 <!ENTITY isDefault.label "&brandShortName; è attualmente il browser predefinito">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
-<!ENTITY healthReportSection.label "Valutazione integrità di &brandShortName;">
+<!ENTITY healthReportSection.label "Analisi integrità di &brandShortName;">
 <!ENTITY healthReportDesc.label "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
-<!ENTITY enableHealthReport.label "Attiva valutazione integrità di &brandShortName;">
+<!ENTITY enableHealthReport.label "Attiva analisi integrità di &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "v">
 <!ENTITY healthReportLearnMore.label "Ulteriori informazioni">
 <!ENTITY telemetrySection.label "Telemetria">
