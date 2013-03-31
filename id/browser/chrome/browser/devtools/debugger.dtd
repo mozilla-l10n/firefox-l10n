@@ -92,7 +92,13 @@
   -  in the source editor's context menu for the variables search operation. -->
 
 <!ENTITY debuggerUI.searchVariable      "Filter variabel">
-<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.searchVariable.key  "v">
+
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Fokus pada pohon variabel">
+<!ENTITY debuggerUI.focusVariables.key  "v">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
