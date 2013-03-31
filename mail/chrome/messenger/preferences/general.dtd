@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Personnaliser…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
+<!ENTITY showTrayIcon.label               "Afficher une icône dans la barre de notification">
+<!ENTITY showTrayIcon.accesskey           "e">
+
 <!ENTITY play.label                       "Jouer le son">
 <!ENTITY play.accesskey                   "o">
 <!ENTITY systemsound.label                "Son système pour « nouveau message »">
