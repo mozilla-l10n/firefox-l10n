@@ -169,7 +169,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "V">
-<!ENTITY messengerCmd.label "E-post og nyhendegrupper">
+<!ENTITY messengerCmd.label "E-post og nyheitsgrupper">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adressebok">
@@ -220,7 +220,7 @@
 <!ENTITY ccAddr.label "Kopi til:">
 <!ENTITY bccAddr.label "Blindkopi til:">
 <!ENTITY replyAddr.label "Svar til:">
-<!ENTITY newsgroupsAddr.label "Nyhendegruppe:">
+<!ENTITY newsgroupsAddr.label "Nyheitsgruppe:">
 <!ENTITY followupAddr.label "Oppfølging til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">

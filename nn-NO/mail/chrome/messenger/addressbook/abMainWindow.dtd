@@ -85,8 +85,8 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "e"> 
 <!ENTITY menubarCmd.label                               "Menylinje">
 <!ENTITY menubarCmd.accesskey                           "M">
-<!ENTITY showAbToolbarCmd.label                         "Verktøylinje for adressebok">
-<!ENTITY showAbToolbarCmd.accesskey                     "r">
+<!ENTITY showAbToolbarCmd.label                         "Adresseboklinje">
+<!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Tilpass …">
@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Verktøy">
 <!ENTITY tasksMenu.accesskey                            "r">
-<!ENTITY messengerCmd.label                             "E-post og nyhendegrupper">
+<!ENTITY messengerCmd.label                             "E-post og nyheitsgrupper">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Søk i adresser …">

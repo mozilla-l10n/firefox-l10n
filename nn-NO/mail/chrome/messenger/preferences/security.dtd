@@ -48,7 +48,7 @@
 <!ENTITY antiVirus.accesskey  "T">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyhendekjelder og andre nettsider som har lov til å bruke infokapslar.">
+<!ENTITY cookies.intro                  "&brandShortName; lèt deg spesifisere kva for bloggar, nyheitskjelder og andre nettsider som har lov til å bruke infokapslar.">
 <!ENTITY acceptCookies.label            "Godta infokapslar frå netstader">
 <!ENTITY acceptCookies.accesskey        "G">
 <!ENTITY keepUntil.label                "Behald dei til:">

@@ -47,7 +47,7 @@
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
-<!ENTITY junkStatusColumn.label "uynskt">
+<!ENTITY junkStatusColumn.label "uønskt">
 <!ENTITY unreadColumn.label "Ikkje lese">
 <!ENTITY totalColumn.label "Til saman">
 <!ENTITY readColumn.label "Lese">
@@ -68,7 +68,7 @@
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
-<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Meldingar i tråden til saman">
 <!ENTITY readColumn.tooltip "Trykk her for å sortere etter lese-tilstand">

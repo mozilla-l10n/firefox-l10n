@@ -51,7 +51,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "D">
-<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyhendegruppa">
+<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyheitsgruppa">
 <!ENTITY getNextNMsgCmd.accesskey "H">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "F">
 <!ENTITY folderPropsCmd.label "Eigenskapar …">
 <!ENTITY folderPropsFolderCmd.label "Mappeeigenskapar …">
-<!ENTITY folderPropsNewsgroupCmd.label "Innstillingar for nyhendegrupper">
+<!ENTITY folderPropsNewsgroupCmd.label "Innstillingar for nyheitsgrupper">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
@@ -180,7 +180,7 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Merkelappar">
 <!ENTITY sortByTagsCmd.accesskey "k">
-<!ENTITY sortByJunkStatusCmd.label "Uynskt-status">
+<!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "y">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
@@ -240,7 +240,7 @@
 <!ENTITY bodyAllParts.label "Alle Bod-delar">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Vis nyhendekjelde-meldingskroppen som">
+<!ENTITY bodyMenuFeed.label "Vis nyheitskjelde-meldingskroppen som">
 <!ENTITY bodyMenuFeed.accesskey "s">
 <!ENTITY viewFeedWebPage.label "Nettside">
 <!ENTITY viewFeedWebPage.accesskey "N">
@@ -337,7 +337,7 @@
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Svar til avsendaren">
 <!ENTITY replySenderCmd.accesskey "v">
-<!ENTITY replyNewsgroupCmd2.label "Oppfølging til nyhendegruppe">
+<!ENTITY replyNewsgroupCmd2.label "Oppfølging til nyheitsgruppe">
 <!ENTITY replyNewsgroupCmd2.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey  "t">
@@ -414,13 +414,13 @@
 <!ENTITY markStarredCmd.label "Merk med stjerne">
 <!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Som uynskt">
+<!ENTITY markAsJunkCmd.label "Som uønskt">
 <!ENTITY markAsJunkCmd.accesskey "o">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Som ynskt">
+<!ENTITY markAsNotJunkCmd.label "Som ønskt">
 <!ENTITY markAsNotJunkCmd.accesskey "m">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uynskt e-post">
+<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uønskt e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -428,7 +428,7 @@
 <!ENTITY openConversationCmd.label "Opne i samtale">
 <!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Opne nyhendekjelde-melding">
+<!ENTITY openFeedMessage.label "Opne nyheitskjelde-melding">
 <!ENTITY openFeedMessage.accesskey "e">
 <!ENTITY openFeedWebPageInWindow.label "Nettside i nytt vindauge">
 <!ENTITY openFeedWebPageInWindow.accesskey "N">
@@ -443,7 +443,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e">
-<!ENTITY messengerCmd.label "E-post og nyhendegrupper">
+<!ENTITY messengerCmd.label "E-post og nyheitsgrupper">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
@@ -471,9 +471,9 @@
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
-<!ENTITY runJunkControls.label "Køyr kontroll av uynskt e-post på mappe">
+<!ENTITY runJunkControls.label "Køyr kontroll av uønskt e-post på mappe">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Slett all uynskt e-post i denne mappa">
+<!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
 <!ENTITY deleteJunk.accesskey "S">
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "m">
@@ -513,8 +513,8 @@
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
 <!ENTITY junkItem.title "Søppel">
-<!ENTITY junkButton.label "Uynskt">
-<!ENTITY notJunkButton.label "Ynskt">
+<!ENTITY junkButton.label "Uønskt">
+<!ENTITY notJunkButton.label "Ønskt">
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY chatButton.label "Nettprat">
 <!ENTITY glodaSearch.title "Globalt søk">
@@ -548,8 +548,8 @@
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
-<!ENTITY junkButton.tooltip "Merk dei valde meldingane som uynskte">
-<!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ynskt">
+<!ENTITY junkButton.tooltip "Merk dei valde meldingane som uønskte">
+<!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ønskt">
 <!ENTITY addressBookButton.tooltip "Gå til adresseboka">
 <!ENTITY chatButton.tooltip "Vis nettprat-fana">
 <!ENTITY tagButton.tooltip "Merk meldingar">
@@ -596,7 +596,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
 <!ENTITY folderContextUnsubscribe.label "Meld ut">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyhendegruppe som lest">
+<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyheitsgruppe som lest">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lest">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
@@ -638,7 +638,7 @@
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
-<!ENTITY junkStatusColumn.label "Uynskt-status">
+<!ENTITY junkStatusColumn.label "Uønskt-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lest">
@@ -660,7 +660,7 @@
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
-<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
 <!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
@@ -687,7 +687,7 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
 <!ENTITY contextReplySender.accesskey "S">
-<!ENTITY contextReplyNewsgroup2.label "Oppfølging til nyhendegruppe">
+<!ENTITY contextReplyNewsgroup2.label "Oppfølging til nyheitsgruppe">
 <!ENTITY contextReplyNewsgroup2.accesskey "ø">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
@@ -768,8 +768,8 @@
 <!ENTITY contextUnmute.accesskey "å">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; trur denne meldinga er uynskt.">
-<!ENTITY junkBarButton1.label "Ynskt">
+<!ENTITY junkBarMessage2.label "&brandShortName; trur denne meldinga er uønskt.">
+<!ENTITY junkBarButton1.label "Ønskt">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
@@ -826,15 +826,15 @@
 <!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Abonner på nyhendegruppe">
+<!ENTITY SubscribeToNewsgroup.label "Abonner på nyheitsgruppe">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Skriv melding til">
 <!ENTITY SendMessageTo.accesskey "k">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CopyNewsgroupName.label "Kopier nyhendegruppenamn">
+<!ENTITY CopyNewsgroupName.label "Kopier nyheitsgruppenamn">
 <!ENTITY CopyNewsgroupName.accesskey "o">
-<!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyhendegruppe">
+<!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyheitsgruppe">
 <!ENTITY CopyNewsgroupURL.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Lag filter …">
 <!ENTITY CreateFilterFrom.accesskey "L">
