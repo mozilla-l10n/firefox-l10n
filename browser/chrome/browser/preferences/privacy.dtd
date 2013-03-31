@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Pelacakan">
 
-<!ENTITY doNotTrack.label               "Beritahukan situs web agar tidak melacak jejak saya">
-<!ENTITY doNotTrack.accesskey           "j">
+<!ENTITY dntTrackingNopref.label        "Jangan beri tahu situs tentang pengaturan pelacakan saya.">
+<!ENTITY dntTrackingNopref.accesskey    "j">
+<!ENTITY dntTrackingNotOkay.label       "Beritahukan situs bahwa saya tidak ingin dilacak.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Beritahukan situs bahwa saya ingin dilacak.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Pelajari Selengkapnya">
 
 <!ENTITY  history.label                 "Riwayat">
 

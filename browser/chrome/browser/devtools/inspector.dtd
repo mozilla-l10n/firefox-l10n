@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Salin Kode HTML di Sisi Luar">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "L">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Salin Selektor Unik">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "Hapus Simpul">
 <!ENTITY inspectorHTMLDelete.accesskey      "H">
 
 <!ENTITY inspector.selectButton.tooltip     "Pilih elemen dengan mouse">
+
+<!ENTITY inspectorSearchHTML.label          "Cari HTML">
+<!ENTITY inspectorSearchHTML.key            "F">
