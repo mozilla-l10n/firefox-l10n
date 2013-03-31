@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "このサイトのポップアップウィンドウを許可する">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
-<!ENTITY openLinkCmd.label            "リンクを新しいウィンドウで開く">
-<!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkCmdInTab.label       "リンクを新しいタブで開く">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "リンクを新しいウィンドウで開く">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInPrivateWindow.label     "リンクをプライベートウィンドウで開く">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "開く">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label           "フレームを新しいウィンドウで開く">
