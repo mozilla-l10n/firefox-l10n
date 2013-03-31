@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privat nettlesing">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Du har opna ei ny privat fane.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikkje i ei privat fane.">
+
+<!ENTITY privatebrowsingpage.description            "I ei privat fane vil ikkje &brandShortName; registrere historikk for nettlesing, søk, nedlastingar eller skjema, infokapslar, eller mellombelse Internett-filer. Filer du lastar ned og bokmerke som du lagar vil likevel bli tekne vare på">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Sjølv om denne eininga ikkje vil ha oversikt over nettlesinga din, kan Internett-tilbydaren din framleis spore kva for nettsider du besøker.">
