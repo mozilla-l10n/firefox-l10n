@@ -6,12 +6,12 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
+<!ENTITY browserStylesLabel    "Gaya peramban">
 
-
-<!ENTITY userStylesLabel    "Hanya gaya pengguna">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
@@ -26,11 +26,7 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Tidak ada properti CSS ditemukan.">
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
 
-<!ENTITY unmatchedSelectors    "Selektor tidak cocok">
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
@@ -40,7 +36,6 @@
 <!ENTITY bestMatch             "Paling Cocok">
 <!ENTITY matched               "Cocok">
 <!ENTITY parentMatch           "Kecocokan Induk">
-<!ENTITY unmatched             "Tidak Cocok">
 <!-- FIXME: notes -->
 
 <!ENTITY computedViewTitle     "Komputasi">
