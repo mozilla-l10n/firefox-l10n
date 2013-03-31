@@ -432,12 +432,12 @@
 <!ENTITY openConversationCmd.label "Ouvrir dans la discussion">
 <!ENTITY openConversationCmd.accesskey "u">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Ouvrir le message du flux">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Page web dans une nouvelle fenêtre">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Résumé dans une nouvelle fenêtre">
-<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedMessage1.label "À l'ouverture des messages de flux">
+<!ENTITY openFeedMessage1.accesskey "x">
+<!ENTITY openFeedWebPage.label "Ouvrir en tant que page web">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Ouvrir en tant que résumé">
+<!ENTITY openFeedSummary.accesskey "t">
 <!ENTITY openFeedWebPageInMP.label "Basculer entre page web et résumé dans le panneau de message">
 <!ENTITY openFeedWebPageInMP.accesskey "B">
 
