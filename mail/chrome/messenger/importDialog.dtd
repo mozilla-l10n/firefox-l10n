@@ -15,7 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "a">
 <!ENTITY importMail.label         "E-post">
 <!ENTITY importMail.accesskey     "E">
-<!ENTITY importFeeds.label        "Nyhendekjelde-abonnentar">
+<!ENTITY importFeeds.label        "Nyheitskjelde-abonnentar">
 <!ENTITY importFeeds.accesskey    "N">
 <!ENTITY importAddressbook.label  "Adressebøker">
 <!ENTITY importAddressbook.accesskey "A">
@@ -31,7 +31,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Importer e-post, adressebøker, innstillingar og filter frå andre program">
 
 <!ENTITY importDescription1.label "Denne vegvisaren hjelper deg å importere e-post, adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
-<!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyhendegrupper og/eller adressebok.">
+<!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyheitsgrupper og/eller adressebok.">
 
 <!ENTITY selectDescription.label  "Vel filtypen du ønskjer å importere:">
 <!ENTITY selectDescriptionB.label "Vel ein eksisterande konto eller lag ein ny konto:">

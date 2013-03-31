@@ -6,11 +6,11 @@
 <!ENTITY readMsgsLink.label           "Les meldingar">
 <!ENTITY composeMsgLink.label         "Skriv ny melding">
 
-<!ENTITY newsSectionHdr.label         "Nyhendegrupper">
-<!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyhendegrupper">
+<!ENTITY newsSectionHdr.label         "Nyheitsgrupper">
+<!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyheitsgrupper">
 
-<!ENTITY feedsSectionHdr.label        "Kjelder">
-<!ENTITY subscribeFeeds.label         "Handsam abonnement">
+<!ENTITY feedsSectionHdr.label        "Nyheits- og bloggkjelder">
+<!ENTITY subscribeFeeds.label         "Behandle abonnement">
 
 <!ENTITY accountsSectionHdr.label     "Kontoar">
 <!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
@@ -20,5 +20,5 @@
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjonar">
 <!ENTITY searchMsgsLink.label         "Søk i meldingar">
 <!ENTITY filtersLink.label            "Opprett meldingsfilter">
-<!ENTITY junkSettings.label           "Innstillingar for uynskt e-post">
+<!ENTITY junkSettings.label           "Innstillingar for uønskt e-post">
 <!ENTITY offlineLink.label            "Innstillingar for fråkopla tilstand">

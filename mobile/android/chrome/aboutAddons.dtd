@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title                      "Utvidingshandsaming">
+<!ENTITY aboutAddons.title2                     "Utvidingar">
 <!ENTITY aboutAddons.header2                    "Dine utvidingar">
 <!ENTITY aboutAddons.options                    "Innstillingar">
 
-<!ENTITY addonAction.enable                     "Påslått">
-<!ENTITY addonAction.disable                    "Avslått">
+<!ENTITY addonAction.enable                     "Slå på">
+<!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.undo                       "Angre">

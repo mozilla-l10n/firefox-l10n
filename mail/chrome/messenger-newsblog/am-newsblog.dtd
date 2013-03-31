@@ -12,11 +12,11 @@
 <!ENTITY useQuickMode.label "Vis artikkeloppsummering i staden for å laste nettsida"> 
 <!ENTITY useQuickMode.accesskey "V">
 
-<!ENTITY manageSubscriptions.label "Handsame abonnement …"> 
-<!ENTITY manageSubscriptions.accesskey "H">
+<!ENTITY manageSubscriptions.label "Behandle abonnement …"> 
+<!ENTITY manageSubscriptions.accesskey "B">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Bloggar og nyhendekjelder">
-<!ENTITY feeds.wizardShortName "Nyhendekjelder">
-<!ENTITY feeds.wizardLongName "Bloggar og nyhendekjelder ">
+<!ENTITY feeds.accountName "Bloggar og nyheitskjelder">
+<!ENTITY feeds.wizardShortName "Nyheitskjelder">
+<!ENTITY feeds.wizardLongName "Bloggar og nyheitskjelder ">
 <!ENTITY feeds.wizardLongName.accesskey "B">

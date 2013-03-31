@@ -2,11 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title "Dine appar">
+<!ENTITY aboutApps.title2                          "Appar">
+<!ENTITY aboutApps.header                          "Appar">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
-<!ENTITY aboutApps.noApps.pre "Ingen vevappar er installerte. Du kan laste nd nokre frå ">
-<!ENTITY aboutApps.noApps.middle "app-butikken">
+<!ENTITY aboutApps.noApps.pre "Ingen vevappar er installerte. Du kan laste ned frå ">
+<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">

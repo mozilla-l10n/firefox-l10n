@@ -44,7 +44,7 @@
 <!ENTITY offlineFolder.button.label              "Last ned no">
 <!ENTITY offlineFolder.button.accesskey          "L">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Vel denne nyhendegruppa for fråkopla bruk">
+<!ENTITY selectofflineNewsgroup.check.label      "Vel denne nyheitsgruppa for fråkopla bruk">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "V">
 <!ENTITY offlineNewsgroup.button.label           "Last ned no">
 <!ENTITY offlineNewsgroup.button.accesskey       "L">

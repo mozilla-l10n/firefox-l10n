@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 <!ENTITY nntpRemoveMsgBody.label "Fjern brødtekst frå meldingar meir enn">
 <!ENTITY nntpRemoveMsgBody.accesskey "F">
-<!ENTITY offlineSelectNntp.label "Vel nyhendegrupper som skal lesast fråkopla">
+<!ENTITY offlineSelectNntp.label "Vel nyheitsgrupper som skal lesast fråkopla">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Avansert …">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

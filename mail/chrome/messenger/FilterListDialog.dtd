@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Meldingsfilter">
 <!ENTITY nameColumn.label "Filternamn">
-<!ENTITY activeColumn.label "Slått på">
+<!ENTITY activeColumn.label "Påslått">
 <!ENTITY newButton.label "Nytt …">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Rediger …">
@@ -30,10 +30,10 @@
 <!ENTITY runFilters.accesskey "K">
 <!ENTITY stopFilters.label "Stopp">
 <!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "Køyr vald(e) filter på:">
+<!ENTITY folderPickerPrefix.label "Køyr valde filter på:">
 <!ENTITY folderPickerPrefix.accesskey "v">
 <!ENTITY choosethis.label "vel denne mappa">
-<!ENTITY choosethisnewsserver.label "vel denne nyhendegruppetenaren">
+<!ENTITY choosethisnewsserver.label "vel denne nyheitsgruppetenaren">
 <!ENTITY helpButton.label "Hjelp">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Abonnement på nyhendekjelder">
-<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
+<!ENTITY feedSubscriptions.label     "Abonnement på nyheitskjelder">
+<!ENTITY subscriptionDesc.label      "Merk: Sletting eller endring av ei mappe for ei nyheitskjelde vil ikkje påverke tidlegare nedlasta artiklar.">
 
 <!ENTITY feedTitle.label             "Tittel:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -32,6 +32,6 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY button.exportOPML.tooltip   "Eksporter nyhendekjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere nyhendekjelder som ei liste">
+<!ENTITY button.exportOPML.tooltip   "Eksporter nyheitskjelder med mappestruktur; ctrl+klikk eller ctrl+enter for å eksportere nyheitskjelder som ei liste">
 
 <!ENTITY cmd.close.commandKey        "w">

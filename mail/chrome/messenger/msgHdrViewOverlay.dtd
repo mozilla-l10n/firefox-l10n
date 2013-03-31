@@ -11,7 +11,7 @@
 <!ENTITY subjectField3.label "Emne">
 <!ENTITY ccField3.label "Kopi">
 <!ENTITY bccField3.label "Blindkopi">
-<!ENTITY newsgroupsField3.label "Nyhenderupper">
+<!ENTITY newsgroupsField3.label "Nyheitsgrupper">
 <!ENTITY followupToField3.label "Oppfølging">
 <!ENTITY tagsHdr3.label "Merkelappar">
 <!ENTITY dateField3.label "Dato">
@@ -33,11 +33,11 @@
 <!ENTITY hdrReplyListButton1.label "Svar til liste">
 <!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
 <!ENTITY hdrFollowupButton1.label "Følg opp">
-<!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyhendegruppa">
+<!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyheitsgruppa">
 <!ENTITY hdrForwardButton1.label "Vidaresend">
 <!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
-<!ENTITY hdrJunkButton1.label "Uynskt">
-<!ENTITY hdrJunkButton1.tooltip "Merk denne meldinga som uynskt">
+<!ENTITY hdrJunkButton1.label "Uønskt">
+<!ENTITY hdrJunkButton1.tooltip "Merk denne meldinga som uønskt">
 <!ENTITY hdrTrashButton1.label "Slett">
 <!ENTITY hdrTrashButton1.tooltip "Slett denne meldinga">
 
