@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "e">
 <!ENTITY searchDialogTitle.label     "Recherche avancée dans le courrier">
 <!ENTITY results.label               "Résultats">
-<!ENTITY fileHereMenu.label          "Classer ici">
-<!ENTITY fileHereMenu.accesskey      "C">
-<!ENTITY fileButton.label            "Classer">
-<!ENTITY fileButton.accesskey        "l">
+<!ENTITY moveHereMenu.label          "Classer ici">
+<!ENTITY moveHereMenu.accesskey      "C">
+<!ENTITY moveButton.label            "Classer">
+<!ENTITY moveButton.accesskey        "l">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Ouvrir dans le dossier">
 <!ENTITY openInFolder.accesskey      "l">
