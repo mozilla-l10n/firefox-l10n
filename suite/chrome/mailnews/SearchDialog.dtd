@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Recherche avancée dans le courrier">
 <!ENTITY results.label "Résultats">
-<!ENTITY fileHereMenu.label "Classer ici">
-<!ENTITY fileHereMenu.accesskey "C">
-<!ENTITY fileButton.label "Classer">
-<!ENTITY fileButton.accesskey "l">
+<!ENTITY moveHereMenu.label "Classer ici">
+<!ENTITY moveHereMenu.accesskey "C">
+<!ENTITY moveButton.label "Classer">
+<!ENTITY moveButton.accesskey "l">
 <!ENTITY goToFolderButton.label "Aller au dossier du message">
 <!ENTITY goToFolderButton.accesskey "l">
 <!ENTITY saveAsVFButton.label "Enregistrer comme dossier virtuel">
