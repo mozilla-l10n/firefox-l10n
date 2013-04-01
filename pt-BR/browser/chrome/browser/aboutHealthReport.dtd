@@ -2,30 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY abouthealth.locale-direction "ltr">
-
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
-<!ENTITY abouthealth.pagetitle "&brandShortName; Health Report">
-<!ENTITY abouthealth.header "&brandFullName; Health Report">
-
-<!ENTITY abouthealth.intro.title "O que é o &brandShortName; Health Report?">
-
-<!ENTITY abouthealth.intro-enabled "O &brandFullName; coleta alguns dados sobre o seu computador e padrões de uso para proporcionar a você uma melhor experiência de navegação.">
-<!ENTITY abouthealth.intro-disabled "No momento você não está enviando seus dados de uso para a &vendorShortName;. Ajude-nos a tornar o &brandShortName; melhor clicando no botão “&abouthealth.optin;”.">
-
-<!ENTITY abouthealth.optin "Ajudar a tornar o &brandShortName; melhor">
-<!ENTITY abouthealth.optout "Desativar envio de relatórios">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Interromper envio de dados?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Tem certeza que deseja desativar e excluir dos servidores da &vendorShortName; todos os seus dados anônimos do produto?">
-
-<!ENTITY abouthealth.show-raw-data "Exibir detalhes">
-<!ENTITY abouthealth.hide-raw-data "Ocultar detalhes">
-
-<!ENTITY abouthealth.show-report "Exibir &brandShortName; Report">
-
-<!ENTITY abouthealth.details.description-start "Estes são os dados que o &brandFullName; envia para o funcionamento do &brandShortName; Health Report. Você pode ">
-<!ENTITY abouthealth.details-link "saber mais">
-<!ENTITY abouthealth.details.description-end " sobre o que é recolhido e enviado.">
-<!ENTITY abouthealth.no-data-available "Nenhum envio anterior a exibir. Por favor, tente mais tarde.">
+<!ENTITY abouthealth.pagetitle "Relatório de Integridade do &brandShortName;">
