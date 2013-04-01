@@ -5,30 +5,30 @@
 <!ENTITY searchHeading.label "Искать в папке:">
 <!ENTITY searchHeading.accesskey "с">
 <!ENTITY searchSubfolders.label "Включая вложенные папки">
-<!ENTITY searchSubfolders.accesskey "в">
+<!ENTITY searchSubfolders.accesskey "ю">
 <!ENTITY searchOnServer.label "Запустить поиск на сервере">
 <!ENTITY searchOnServer.accesskey "п">
 <!ENTITY resetButton.label "Очистить">
-<!ENTITY resetButton.accesskey "О">
+<!ENTITY resetButton.accesskey "и">
 <!ENTITY openButton.label "Открыть">
 <!ENTITY openButton.accesskey "т">
 <!ENTITY deleteButton.label "Удалить">
-<!ENTITY deleteButton.accesskey "У">
+<!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Поиск сообщений…">
 <!ENTITY results.label "Результаты">
-<!ENTITY fileHereMenu.label "Поместить сюда">
-<!ENTITY fileHereMenu.accesskey "П">
-<!ENTITY fileButton.label "Поместить">
-<!ENTITY fileButton.accesskey "м">
+<!ENTITY moveHereMenu.label "Переместить сюда">
+<!ENTITY moveHereMenu.accesskey "е">
+<!ENTITY moveButton.label "Переместить в">
+<!ENTITY moveButton.accesskey "м">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "Открыть в папке">
-<!ENTITY openInFolder.accesskey "а">
+<!ENTITY openInFolder.accesskey "ы">
 <!ENTITY saveAsVFButton.label "Сохранить как виртуальную папку">
-<!ENTITY saveAsVFButton.accesskey "в">
+<!ENTITY saveAsVFButton.accesskey "х">
 <!ENTITY abSearchHeading.label "Место поиска:">
-<!ENTITY abSearchHeading.accesskey "М">
+<!ENTITY abSearchHeading.accesskey "с">
 <!ENTITY propertiesButton.label "Свойства">
-<!ENTITY propertiesButton.accesskey "С">
+<!ENTITY propertiesButton.accesskey "о">
 <!ENTITY composeButton.label "Создать">
 <!ENTITY composeButton.accesskey "з">
 <!ENTITY abSearchDialogTitle.label "Расширенный режим поиска в адресной книге">
