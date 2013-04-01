@@ -15,16 +15,10 @@
 <!ENTITY regularSize.label "Normal">
 <!ENTITY bigger.label "Maior">
 <!ENTITY smaller.label "Menor">
-<!ENTITY color.label "Cor:">
-<!ENTITY color.accesskey "C">
+<!ENTITY quotedTextColor.label "Cor:">
+<!ENTITY quotedTextColor.accesskey "C">
 <!ENTITY displayWidth.label "Mensagens sem formatação">
 <!ENTITY displayText.label "Ao mostrar texto citado:">
-<!ENTITY colors.label "Cores">
-<!ENTITY overrideColors.label "Ao mostrar mensagens, utilizar estas cores:">
-<!ENTITY textColor.label "Texto:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Cor de fundo:">
-<!ENTITY backgroundColor.accesskey "u">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Mostrar ícones emotivos como imagens">
@@ -40,10 +34,12 @@
 <!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label "Tipos de letra">
+<!ENTITY fontsAndColors1.label "Tipos de letra">
 <!ENTITY defaultFont.label "Letra pré-definida:">
 <!ENTITY defaultFont.accesskey "d">
 <!ENTITY defaultSize.label "Tamanho:">
 <!ENTITY defaultSize.accesskey "T">
 <!ENTITY fontOptions.accesskey "A">
 <!ENTITY fontOptions.label "Avançado...">
+<!ENTITY colorButton.label "Cores…">
+<!ENTITY colorButton.accesskey "C">
