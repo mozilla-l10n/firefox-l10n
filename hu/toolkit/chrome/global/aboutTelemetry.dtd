@@ -28,6 +28,10 @@
   Egyszerű mérési eszközök
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+Késői írások
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   Rendszerinformációk
 ">

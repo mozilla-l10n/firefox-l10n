@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Letöltések">
 <!ENTITY aboutDownloads.header                     "Letöltései">
 <!ENTITY aboutDownloads.empty                      "Nincsenek letöltések">
+
+<!ENTITY aboutDownloads.open                       "Megnyitás">
+<!ENTITY aboutDownloads.remove                     "Törlés">
+<!ENTITY aboutDownloads.removeAll                  "Összes törlése">
+<!ENTITY aboutDownloads.pause                      "Szünet">
+<!ENTITY aboutDownloads.resume                     "Folytatás">
+<!ENTITY aboutDownloads.cancel                     "Mégse">
+<!ENTITY aboutDownloads.retry                      "Újra">

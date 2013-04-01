@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Gyorsítótár">
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings "Webhely beállításai">
+<!ENTITY pref_private_data_downloadFiles "Letöltött fájlok">
 
 <!ENTITY pref_update_autodownload "Automatikus frissítések">
 <!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
@@ -203,7 +204,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Szerkesztés">
 <!ENTITY abouthome_topsites_pin "Oldal rögzítése">
 <!ENTITY abouthome_topsites_unpin "Rögzítés feloldása">
-<!ENTITY abouthome_topsites_unpinall "Összes feloldása">
+<!ENTITY abouthome_topsites_remove "Eltávolítás">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

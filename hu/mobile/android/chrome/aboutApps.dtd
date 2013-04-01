@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Nincsenek webalkalmazásai. Töltsön le párat a(z) ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post "-ről.">
+<!ENTITY aboutApps.uninstall "Eltávolítás">
+<!ENTITY aboutApps.addToHomescreen "Kezdőképernyőhöz adás">
