@@ -22,4 +22,4 @@
 <!ENTITY junk.label                       "Levélszemét kezelése">
 <!ENTITY tags.label                       "Címkék">
 <!ENTITY characterEncoding.label          "Karakterkódolás">
-<!ENTITY networkStorage.label             "Network &amp; Storage">
+<!ENTITY networkStorage.label             "Hálózat nélkül és lemezterület">

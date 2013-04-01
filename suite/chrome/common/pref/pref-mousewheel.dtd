@@ -10,21 +10,25 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mouseWheelAction.label          "Egérgörgő művelet">
+<!ENTITY mouseWheelGroup.label           "Függőleges görgetés">
+<!ENTITY mouseWheelHorizGroup.label      "Vízszintes görgetés">
+<!ENTITY sameAsVertical.label            "Megegyezik a függőleges görgetéssel">
+<!ENTITY sameAsVertical.accesskey        "v">
 <!ENTITY doNothing.label                 "Nincs művelet">
 <!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothingHoriz.accesskey        "i">
 <!ENTITY scrollDocument.label            "Dokumentum görgetése">
 <!ENTITY scrollDocument.accesskey        "g">
+<!ENTITY scrollDocumentHoriz.accesskey   "r">
 <!ENTITY history.label                   "Előre/Vissza az előzmények közt">
-<!ENTITY history.accesskey               "m">
+<!ENTITY history.accesskey               "E">
+<!ENTITY historyHoriz.accesskey          "l">
 <!ENTITY zoom.label                      "Nagyítás és kicsinyítés">
 <!ENTITY zoom.accesskey                  "N">
-<!ENTITY mouseWheelSpeed.label           "Egérgörgő-sebesség">
-<!ENTITY verticalSpeed.label             "Függőleges:">
-<!ENTITY verticalSpeed.accesskey         "F">
-<!ENTITY verticalReverse.label           "Fordított irány">
-<!ENTITY verticalReverse.accesskey       "o">
-<!ENTITY horizontalSpeed.label           "Vízszintes:">
-<!ENTITY horizontalSpeed.accesskey       "e">
-<!ENTITY horizontalReverse.label         "Fordított irány">
-<!ENTITY horizontalReverse.accesskey     "d">
+<!ENTITY zoomHoriz.accesskey             "k">
+<!ENTITY wheelSpeed.label                "Egérgörgő-sebesség">
+<!ENTITY wheelSpeed.accesskey            "b">
+<!ENTITY wheelSpeedHoriz.accesskey       "e">
+<!ENTITY reverseDirection.label           "Fordított irány">
+<!ENTITY reverseDirection.accesskey      "o">
+<!ENTITY reverseDirectionHoriz.accesskey "t">
