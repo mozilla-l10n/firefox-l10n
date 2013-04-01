@@ -17,8 +17,8 @@
 <!ENTITY useSmoothScroll.accesskey              "F">
 <!ENTITY allowHWAccel.label                     "Hardveres gyorsítás használata, ha lehetséges">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY textZoomOnly.label                     "csak a szöveg nagyítása a teljes oldal helyett">
-<!ENTITY textZoomOnly.accesskey                 "c">
+<!ENTITY textZoomOnly.label                     "Csak a szöveg nagyítása a teljes oldal helyett">
+<!ENTITY textZoomOnly.accesskey                 "C">
 <!ENTITY blockAutoRefresh.label                 "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
 <!ENTITY blockAutoRefresh.accesskey             "F">
 <!ENTITY siteSpecific.label                     "Minden webhely egyedi nagyításának megjegyzése">

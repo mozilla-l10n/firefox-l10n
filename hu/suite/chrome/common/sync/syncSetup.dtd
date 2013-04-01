@@ -99,7 +99,7 @@
 <!ENTITY engine.prefs.accesskey     "B">
 
 <!ENTITY choice2.merge.main.label      "A számítógép adatainak összefésülése a &syncBrand.shortName.label; adataival">
-<!ENTITY choice2.merge.recommended.label "Ajánlott:">
+<!ENTITY choice2.merge.recommended.label "(ajánlott)">
 <!ENTITY choice2.client.main.label     "Minden adat felülírása ezen a számítógépen a &syncBrand.shortName.label; adataival">
 <!ENTITY choice2.server.main.label     "Minden más eszköz adatának a helyi adatokra cseréje">
 <!-- Confirm Merge Options -->

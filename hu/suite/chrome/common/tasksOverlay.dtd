@@ -8,7 +8,7 @@
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label     "HTML-szerkesztő">
-<!ENTITY editorCmd.accesskey    "s">
+<!ENTITY editorCmd.accesskey    "e">
 <!ENTITY editorCmd.commandkey    "4">
 
 <!ENTITY errorConsoleCmd.label                                  "Hibakonzol">
