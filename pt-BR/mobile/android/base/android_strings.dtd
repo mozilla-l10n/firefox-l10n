@@ -29,7 +29,7 @@
 
 <!ENTITY choose_file "Selecionar arquivo">
 
-<!ENTITY awesomebar_default_text "Forneça um endereço/pesquisa">
+<!ENTITY awesomebar_default_text "Digite uma pesquisa ou endereço">
 
 <!ENTITY remote_tabs "Abas sincronizadas">
 <!ENTITY remote_tabs_show_all "Exibir todas as abas">
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings "Preferências de sites">
+<!ENTITY pref_private_data_downloadFiles "Downloads concluídos">
 
 <!ENTITY pref_update_autodownload "Atualização automática">
 <!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
@@ -203,7 +204,8 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Afixar site">
 <!ENTITY abouthome_topsites_unpin "Desafixar site">
-<!ENTITY abouthome_topsites_unpinall "Desafixar tudo">
+<!ENTITY abouthome_topsites_remove "Excluir">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
