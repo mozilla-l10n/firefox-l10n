@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "l">
 <!ENTITY event.repeat.label                               "Ismétlés:" >
 <!ENTITY event.repeat.accesskey                           "I">
+<!ENTITY event.until.label                                "Eddig:">
+<!ENTITY event.until.accesskey                            "d">
 <!ENTITY event.reminder.label                             "Emlékeztető:" >
 <!ENTITY event.reminder.accesskey                         "E">
 <!ENTITY event.description.label                          "Leírás:" >
