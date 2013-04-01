@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenExitButton.label "Negar">
 <!ENTITY fullscreenApproval.value "Permitir tela inteira?">
 
-<!ENTITY fullscreenExitHint.value "Tecle ESC quando quiser sair.">
+<!ENTITY fullscreenExitHint.value "Tecle ESC para sair.">
 <!ENTITY leaveDOMFullScreen.label "Sair da tela inteira">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
 
@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
 
 <!ENTITY clearRecentHistory.label               "Limpar dados de navegação…">
-<!ENTITY clearRecentHistory.accesskey           "L">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Iniciar navegação privativa">
-<!ENTITY privateBrowsingCmd.start.accesskey     "I">
-<!ENTITY privateBrowsingCmd.stop.label          "Encerrar navegação privativa">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "E">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Exibir"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "L">
-<!ENTITY urlbar.placeholder           "Abrir uma página web">
+<!ENTITY urlbar.placeholder2          "Digite uma pesquisa ou endereço">
 <!ENTITY urlbar.accesskey             "D">
 <!ENTITY urlbar.switchToTab.label     "Selecionar a aba:">
 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "r">
 <!ENTITY emailAudioCmd.label          "Enviar áudio por email…">
 <!ENTITY emailAudioCmd.accesskey      "r">
+<!ENTITY playPluginCmd.label          "Ativar este plugin">
+<!ENTITY playPluginCmd.accesskey      "t">
+<!ENTITY hidePluginCmd.label          "Ocultar este plugin">
+<!ENTITY hidePluginCmd.accesskey      "c">
 <!ENTITY copyLinkCmd.label            "Copiar link">
 <!ENTITY copyLinkCmd.accesskey        "o">
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
@@ -587,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Mais informações…">
 
-<!ENTITY allTabs.filter.emptyText "Localizar abas">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Abas do navegador">
@@ -632,3 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Acesso a câmera/microfone">
 <!ENTITY webrtcIndicatorButton.tooltip "Exibir os sites com os quais você está compartilhando sua câmera ou microfone">
+
+<!ENTITY mixedContentBlocked.helplink "Saiba mais">
+<!ENTITY mixedContentBlocked.moreinfo "A maioria dos sites ainda funcionará corretamente mesmo com este conteúdo bloqueado.">
