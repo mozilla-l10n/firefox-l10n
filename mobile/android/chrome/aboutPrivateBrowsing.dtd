@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Privát böngészés">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Új privát lapot nyitott.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Jelenleg nincs privát lapon.">
+
+<!ENTITY privatebrowsingpage.description            "A privát lapokon a &brandShortName; nem tartja meg a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Bár ezen az eszközön nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">

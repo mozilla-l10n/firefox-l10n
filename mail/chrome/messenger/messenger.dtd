@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "A Csevegés lap megjelenítése">
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
-<!ENTITY appmenuButton.tooltip "Megjeleníti az alkalmazásmenüt">
+<!ENTITY appmenuButton1.tooltip "A &brandShortName; menü megjelenítése">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
