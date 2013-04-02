@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
 <!ENTITY MsgSelect.label "Itens para utilização no modo desligado">
-<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou grupos de notícias para utilizar no modo desligado, pode transferir e sincronizar as mensagens. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher os itens que devem ser utilizados neste modo.">">
+<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou grupos de notícias para utilizar no modo desligado, pode transferir e sincronizar as mensagens. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher os itens que devem ser utilizados neste modo.">
 <!ENTITY MsgSyncDirections.label "Transferir e/ou sincronizar estes itens:">
 <!ENTITY syncTypeMail.label "Mensagens eletrónicas">
 <!ENTITY syncTypeMail.accesskey "e">
