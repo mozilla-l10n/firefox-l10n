@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
 <!ENTITY MsgSelect.label "Itens para utilização no modo desligado">
 <!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou grupos de notícias para utilizar no modo desligado, pode transferir e sincronizar as mensagens. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher os itens que devem ser utilizados neste modo.">">
