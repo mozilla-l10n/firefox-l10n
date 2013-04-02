@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Opções de envio">
 <!ENTITY sendMail.title "Formato de texto">
 <!ENTITY sendMaildesc.label "Ao enviar mensagens no formato HTML e um ou mais destinatários não estão indicados como aptos a receber em HTML:">
@@ -9,7 +10,7 @@
 <!ENTITY convertPlain.label "Converter a mensagem para formato de texto">
 <!ENTITY convertPlain.accesskey "C">
 <!ENTITY sendHTML.label "Enviar mensagem em HTML">
-<!ENTITY sendHTML.accesskey "E>
+<!ENTITY sendHTML.accesskey "E">
 <!ENTITY sendBoth.label "Enviar mensagem em formato de texto e em HTML">
 <!ENTITY sendBoth.accesskey "m">
 <!ENTITY override.label "Nota: utilize o livro de endereços para especificar o formato de texto preferido para os destinatários.">
