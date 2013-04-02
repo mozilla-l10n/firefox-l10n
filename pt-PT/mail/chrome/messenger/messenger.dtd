@@ -557,7 +557,7 @@
 <!ENTITY appmenuQFBMenu.label "Barra de filtro rápido">
 <!ENTITY appmenuToolbarLayout.label "Esquema da barra de ferramentas…">
 <!ENTITY appmenuSelectThread.label "Selecionar tópico">
-<!ENTITY appmenuSelectFlagged.label "Selecionar mensagens com estrela>
+<!ENTITY appmenuSelectFlagged.label "Selecionar mensagens com estrela">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova etiqueta...">
