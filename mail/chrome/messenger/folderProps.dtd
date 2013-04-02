@@ -53,7 +53,7 @@
 <!ENTITY permissionsDesc.label "Tem estas permissões:">
 <!ENTITY folderType.label "Tipo de pasta:">
 <!ENTITY folderQuotaTab.label "Cota">
-<!ENTITY folderQuotaRoot.label Cota de root:">
+<!ENTITY folderQuotaRoot.label "Cota de root:">
 <!ENTITY folderQuotaUsage.label "Utilização:">
 <!ENTITY folderQuotaStatus.label "Estado:">
 <!ENTITY numberOfMessages.label "Número de mensagens:">
