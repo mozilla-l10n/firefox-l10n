@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Abrir como conversa">
 <!ENTITY openConversationCmd.accesskey "r">
 <!ENTITY openConversationCmd.key "O">
-<!ENTITY openFeedMessage.label "Abrir mensagem RSS">
-<!ENTITY openFeedMessage.accesskey "b">
-<!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
-<!ENTITY openFeedWebPageInWindow.accesskey "P">
-<!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
-<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedMessage1.label "Ao abrir mensagens RSS">
+<!ENTITY openFeedMessage1.accesskey "b">
+<!ENTITY openFeedWebPage.label "Abrir como página web">
+<!ENTITY openFeedWebPage.accesskey "P">
+<!ENTITY openFeedSummary.label "Abrir resumo">
+<!ENTITY openFeedSummary.accesskey "R">
 <!ENTITY openFeedWebPageInMP.label "Alternar entre página web e resumo no painel de mensagens">
 <!ENTITY openFeedWebPageInMP.accesskey "A">
 

@@ -15,11 +15,14 @@
 
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
 <!ENTITY playSound.label                  "Tocar um som">
-<!ENTITY playSound1.accesskey              "c">
+<!ENTITY playSound1.accesskey             "c">
 <!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
 <!ENTITY customizeMailAlert.label         "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey     "z">
+
+<!ENTITY showTrayIcon.label               "Exibir ícone na bandeja">
+<!ENTITY showTrayIcon.accesskey           "N">
 
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">

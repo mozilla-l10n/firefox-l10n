@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Integração com o sistema">
 <!ENTITY acceptIntegration.label  "Definir como padrão">
 <!ENTITY cancelIntegration.label  "Pular integração">
+<!ENTITY cancelIntegration2.label  "Cancelar">
 <!ENTITY defaultClient.intro  "Tornar o &brandShortName; o aplicativo padrão para:">
 
 <!ENTITY email.label "E-mail">
