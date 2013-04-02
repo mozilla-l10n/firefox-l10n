@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Opgeslagen wachtwoorden">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
-<!ENTITY pref_private_data_siteSettings "Websitevoorkeuren">
+<!ENTITY pref_private_data_siteSettings2 "Website-instellingen">
 <!ENTITY pref_private_data_downloadFiles "Gedownloade bestanden">
 
 <!ENTITY pref_update_autodownload "Automatische updates">
