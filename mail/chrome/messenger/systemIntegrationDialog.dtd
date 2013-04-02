@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Systemintegration">
 <!ENTITY acceptIntegration.label  "Ange som standard">
 <!ENTITY cancelIntegration.label  "Hoppa över integrationen">
+<!ENTITY cancelIntegration2.label  "Avbryt">
 <!ENTITY defaultClient.intro  "Använd &brandShortName; som standardklient för:">
 
 <!ENTITY email.label "E-post">

@@ -2,18 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.label                       "Alternativ">
-<!ENTITY aboutHeader.label                         "Om">
-<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
-<!ENTITY aboutHeaderCompany.label                  "Av &vendorShortName;">
-<!ENTITY aboutHeaderPolicy.label                   "Läs &brandShortName; integritetspolicy på nätet">
-<!ENTITY privacy.title                             "Sekretess och säkerhet">
-<!ENTITY doNotTrack.title                          "Be platser att inte spåra mig">
-<!ENTITY masterPassword.title                      "Använd huvudlösenord">
-<!ENTITY clearPrivateData2.title                   "Rensa ut känslig data">
-<!ENTITY clearPrivateData.button                   "Rensa">
-<!ENTITY rememberPasswords.title                   "Spara lösenord">
-<!ENTITY startup.title                             "Start">
-<!ENTITY homepage.title                            "När &brandShortName; startar, visa">
-<!ENTITY homepage.startPage                        "Startsida">
-<!ENTITY homepage.sessionRestore                   "Flikar från senast">
+<!-- ## About Flyout Panel ## -->
+<!ENTITY aboutHeader.title                                       "Om">
+<!ENTITY aboutHeader.product.label                               "&brandShortName;">
+<!ENTITY aboutHeader.company.label                               "Av &vendorShortName;">
+<!ENTITY aboutHeader.policy.label                                "Läs &brandShortName; integritetspolicy på nätet">
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Alternativ">
+<!ENTITY optionsHeader.startup.title                             "Start">
+<!ENTITY optionsHeader.homepage.title                            "När &brandShortName; startar, visa">
+<!ENTITY optionsHeader.homepage.startPage.button                 "startsida">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "senaste flikarna">
+<!ENTITY optionsHeader.tabs.title                                "Visa alltid flikar">
+<!ENTITY optionsHeader.char.title                                "Teckenkodning">
+<!ENTITY optionsHeader.char.autodetect.label                     "Autoigenkänning">
+<!ENTITY optionsHeader.char.options.label                        "Visa kodningsalternativ i Appfältet">
+
+<!ENTITY clearPrivateData.title                                  "Rensa ut känslig data">
+<!ENTITY clearPrivateData.label                                  "Rensar ut din webbläsarhistorik, lösenord, kakor och formulärdata på enheten">
+<!ENTITY clearPrivateData.button                                 "Rensa">
+<!ENTITY clearPrivateData.done                                   "Klar!">
+<!ENTITY clearPrivateData.history                                "Webbläsarhistorik">
+<!ENTITY clearPrivateData.otherdata                              "Annan data (lösenord, cache, kakor osv)">
+<!ENTITY clearPrivateData.downloadHist                           "Filhämtningshistorik">
+<!ENTITY clearPrivateData.cookies                                "Kakor">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Platsinställningar">
+<!ENTITY clearPrivateData.formSearchHist                         "Formulär- och sökhistorik">
+<!ENTITY clearPrivateData.passwords                              "Sparade lösenord">
+<!ENTITY clearPrivateData.offline                                "Nedkopplad webbplatsdata">
+<!ENTITY clearPrivateData.logins                                 "Aktiva inloggningar">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Spara lösenord">
+<!ENTITY optionsHeader.privacy.doNotTrack.title                  "Spårning">
+<!ENTITY optionsHeader.privacy.doNotTrack.label                  "Be platser att inte spåra mig">
+
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->

@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Sök efter uppdateringar »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Söker efter uppdateringar…">
 <!ENTITY aboutPage.checkForUpdates.none         "Finns inga uppdateringar">
-<!ENTITY aboutPage.checkForUpdates.found        "Uppdatering finns">
+<!ENTITY aboutPage.checkForUpdates.available    "Uppdatering finns; klicka för att hämta">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Hämtar uppdatering …">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Uppdatering hämtad; klicka för att installera">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Sekretesspolicy">

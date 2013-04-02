@@ -7,28 +7,11 @@
 
 <!ENTITY back.label            "Bakåt">
 <!ENTITY forward.label         "Framåt">
-<!ENTITY reload.label          "Uppdatera">
-<!ENTITY stop.label            "Stopp">
-<!ENTITY go.label              "Gå">
-<!ENTITY star.label            "Stjärna">
-
-<!ENTITY toggleTabsOnly.label  "Visa alltid flikar">
-<!ENTITY showTabs.label        "Visa flikar">
 <!ENTITY newtab.label          "Ny flik">
 <!ENTITY closetab.label        "Stäng flik">
-<!ENTITY undoclosetab.label    "Ångra Stäng flik">
 
-<!ENTITY cut.label             "Klipp ut">
-<!ENTITY copy.label            "Kopiera">
-<!ENTITY copyAll.label         "Kopiera allt">
-<!ENTITY copylink.label        "Kopiera länkadress">
-<!ENTITY paste.label           "Klistra in">
-<!ENTITY pasteAndGo.label      "Klistra in och gå">
-<!ENTITY delete.label          "Ta bort">
-<!ENTITY selectAll.label       "Markera allt">
-
-<!ENTITY appbarFindInPage.label    "Sök på sidan">
-<!ENTITY appbarViewOnDesktop.label "Visa på skrivbordet">
+<!ENTITY appbarFindInPage2.label    "Sök på sidan">
+<!ENTITY appbarViewOnDesktop2.label "Visa på skrivbordet">
 
 <!ENTITY startTopSitesHeader.label        "Mest besökta">
 <!ENTITY startBookmarksHeader.label       "Bokmärken">
@@ -37,8 +20,6 @@
 
 <!ENTITY autocompleteResultsHeader.label  "Dina resultat">
 <!ENTITY autocompleteSearchesHeader.label "Internetsökningar"> 
-
-<!ENTITY selectHelper.done         "Klar">
 
 <!ENTITY downloadsHeader.label     "Filhämtningar">
 <!ENTITY downloadShowPage.label    "Gå till sida">
@@ -55,15 +36,6 @@
 <!ENTITY bookmarksHeader.label     "Bokmärken">
 <!ENTITY allBookmarks.label        "Se alla bokmärken">
 
-<!ENTITY identity.unverifiedsite2 "Den här webbplatsen har inte presenterat några identitetsuppgifter.">
-<!ENTITY identity.connectedTo2 "Ansluten till">
-<!-- Localization note (identity.runBy2)
- The layout of the identity dialog prevents combining this into a single string with
- substitution variables.  If it is difficult to translate the sense of the string
- with that structure, consider a translation which ignores the preceding domain and
- just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "driven av">
-
 <!ENTITY consoleHeader.label       "Felkonsol">
 <!ENTITY consoleAll.label          "Alla">
 <!ENTITY consoleErrors.label       "Fel">
@@ -76,27 +48,29 @@
 <!ENTITY consoleErrLine.label      "Rad:">
 <!ENTITY consoleErrColumn.label    "Kolumn:">
 
-<!ENTITY contextOpenInNewTab.label    "Öppna länk i ny flik">
-<!ENTITY contextViewInNewTab.label    "Visa i ny flik">
-<!ENTITY contextSaveImage.label       "Spara bild">
-<!ENTITY contextSaveImageTo.label     "Spara bild till">
-<!ENTITY contextCopyLink.label        "Kopiera länk">
-<!ENTITY contextCopyEmail.label       "Kopiera e-postadress">
-<!ENTITY contextCopyPhone.label       "Kopiera telefonnummer">
-<!ENTITY contextCopyImage.label       "Kopiera bild">
-<!ENTITY contextShareLink.label       "Dela länk">
-<!ENTITY contextShareImage.label      "Dela bild">
-<!ENTITY contextBookmarkLink.label    "Bokmärk länk">
-<!ENTITY contextSaveVideo.label       "Spara video">
-<!ENTITY contextSaveVideoTo.label       "Spara video till">
-<!ENTITY contextShareVideo.label      "Dela video">
-<!ENTITY contextPlayMedia.label       "Spela upp">
-<!ENTITY contextPauseMedia.label      "Pausa">
-<!ENTITY contextVideoTab.label        "Öppna i ny flik">
-<!ENTITY contextEditBookmark.label    "Redigera">
-<!ENTITY contextRemoveBookmark.label  "Ta bort">
-<!ENTITY contextShortcutBookmark.label "Lägg till på hemskärm">
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Klipp ut">
+<!ENTITY contextTextCopy.label             "Kopiera">
+<!ENTITY contextTextPaste.label            "Klistra in">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Klistra in och gå">
+<!ENTITY contextTextSelect.label           "Markera">
+<!ENTITY contextTextSelectAll.label        "Markera allt">
 
-<!ENTITY pageactions.password.forget "Glöm lösenord">
-<!ENTITY pageactions.reset           "Rensa platsinställningar">
-<!ENTITY pageactions.charEncoding    "Teckenkodning">
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Öppna länk i ny flik">
+<!ENTITY contextCopyLinkHref.label         "Kopiera länk">
+<!ENTITY contextBookmarkLinkHref.label     "Bokmärk länk">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Spara till bildbiblioteket">
+<!ENTITY contextCopyImage.label            "Kopiera bild">
+<!ENTITY contextCopyImageLocation.label    "Kopiera bildadress">
+<!ENTITY contextOpenImageTab.label         "Öppna bild i ny flik">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Spara till filmbiblioteket">
+<!ENTITY contextCopyVideoLocation.label    "Kopiera videoadress">
+<!ENTITY contextOpenVideoTab.label         "Öppna video i ny flik">
