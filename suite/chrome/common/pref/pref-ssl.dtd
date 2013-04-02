@@ -4,6 +4,7 @@
 
 <!ENTITY SSLProtocolVersions.caption "Версии протокола SSL">
 <!ENTITY SSLWarnings.caption "Предупреждения SSL">
+<!ENTITY SSLMixedContent.caption "Смешанное содержимое">
 <!ENTITY SSLClientAuthMethod.caption "Выбор сертификата клиента">
 <!ENTITY pref.ssl.title "Протокол защищённых сокетов (SSL)">
 <!ENTITY enable.ssl30.label "Использовать SSL 3.0">
@@ -19,8 +20,16 @@
 <!ENTITY warn.leavingsecure.accesskey "у">
 <!ENTITY warn.viewmixed "просмотром страницы со смешанным содержанием">
 <!ENTITY warn.viewmixed.accesskey "м">
+<!ENTITY warn.mixedactivecontent "Предупреждать, когда зашифрованные страницы содержат небезопасное содержимое">
+<!ENTITY warn.mixedactivecontent.accesskey "е">
+<!ENTITY block.activecontent "Не загружать небезопасное содержимое на зашифрованных страницах">
+<!ENTITY block.activecontent.accesskey "ж">
+<!ENTITY warn.mixeddisplaycontent "Предупреждать, когда зашифрованные страницы содержат другие типы смешанного содержимого">
+<!ENTITY warn.mixeddisplaycontent.accesskey "а">
+<!ENTITY block.displaycontent "Не загружать другие типы смешанного содержимого на зашифрованных страницах">
+<!ENTITY block.displaycontent.accesskey "и">
 <!ENTITY certselect.description "Определите, как &brandShortName; будет выбирать сертификат при его запросе веб-сайтом:">
 <!ENTITY certselect.auto "Автоматически">
-<!ENTITY certselect.auto.accesskey "а">
+<!ENTITY certselect.auto.accesskey "в">
 <!ENTITY certselect.ask "Спрашивать каждый раз">
 <!ENTITY certselect.ask.accesskey "к">

@@ -88,7 +88,7 @@
 <!ENTITY pref_private_data_passwords "Сохранённые пароли">
 <!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
-<!ENTITY pref_private_data_siteSettings "Настройки сайтов">
+<!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
 <!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
