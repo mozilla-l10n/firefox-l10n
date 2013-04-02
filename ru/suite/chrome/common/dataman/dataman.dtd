@@ -9,6 +9,7 @@
 <!ENTITY select.permissions.label "Только разрешения">
 <!ENTITY select.preferences.label "Только настройки">
 <!ENTITY select.passwords.label "Только пароли">
+<!ENTITY select.storage.label "Только хранилище">
 <!ENTITY domain.search.placeholder "Поиск доменов">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Домен">
@@ -21,6 +22,7 @@
 <!ENTITY tab.permissions.label "Разрешения">
 <!ENTITY tab.preferences.label "Настройки">
 <!ENTITY tab.passwords.label "Пароли">
+<!ENTITY tab.storage.label "Хранилище">
 <!ENTITY tab.formdata.label "Данные форм">
 <!ENTITY tab.forget.label "Забыть">
 <!ENTITY cookies.description "Этот домен сохранил на вашем компьютере следующие куки:">
@@ -75,6 +77,16 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "ы">
 <!ENTITY pwd.button.remove.label "Удалить">
 <!ENTITY pwd.button.remove.accesskey "д">
+<!ENTITY storage.description "Этот домен использует следующие веб-хранилища на вашем компьютере:">
+<!ENTITY storage.tree.host.label "Веб-сайт">
+<!ENTITY storage.tree.type.label "Тип">
+<!ENTITY storage.tree.size.label "Размер">
+<!ENTITY storage.ctx.remove.label "Удалить">
+<!ENTITY storage.ctx.remove.accesskey "д">
+<!ENTITY storage.ctx.selectAll.label "Выделить всё">
+<!ENTITY storage.ctx.selectAll.accesskey "ы">
+<!ENTITY storage.button.remove.label "Удалить">
+<!ENTITY storage.button.remove.accesskey "д">
 <!ENTITY fdata.search.placeholder "Поиск данных полей">
 <!ENTITY fdata.tree.fieldname.label "Имя поля">
 <!ENTITY fdata.tree.value.label "Введённое значение">
@@ -95,6 +107,8 @@
 <!ENTITY forget.preferences.accesskey "с">
 <!ENTITY forget.passwords.label "Пароли">
 <!ENTITY forget.passwords.accesskey "а">
+<!ENTITY forget.storage.label "Хранилище">
+<!ENTITY forget.storage.accesskey "и">
 <!ENTITY forget.formdata.label "Данные форм">
 <!ENTITY forget.formdata.accesskey "ф">
 <!ENTITY forget.button.label "Забыть эти данные">
