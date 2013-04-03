@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "r">
 <!ENTITY searchDialogTitle.label     "Hľadanie v správach">
 <!ENTITY results.label               "Výsledky">
-<!ENTITY fileHereMenu.label          "Uložiť sem">
-<!ENTITY fileHereMenu.accesskey      "U">
-<!ENTITY fileButton.label            "Uložiť">
-<!ENTITY fileButton.accesskey        "U">
+<!ENTITY moveHereMenu.label          "Presunúť sem">
+<!ENTITY moveHereMenu.accesskey      "P">
+<!ENTITY moveButton.label            "Presunúť do">
+<!ENTITY moveButton.accesskey        "d">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Otvoriť v priečinku">
 <!ENTITY openInFolder.accesskey      "O">

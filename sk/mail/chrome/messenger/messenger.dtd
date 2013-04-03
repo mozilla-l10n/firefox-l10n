@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Otvoriť ako konverzáciu">
 <!ENTITY openConversationCmd.accesskey "c">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Správy informačného kanála otvárať ako">
-<!ENTITY openFeedMessage.accesskey "h">
-<!ENTITY openFeedWebPageInWindow.label "Webová stránka v novom okne">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Stručný súhrn v novom okne">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "Pri otváraní správ informačného kanála">
+<!ENTITY openFeedMessage1.accesskey "f">
+<!ENTITY openFeedWebPage.label "Otvoriť ako webovú stránku">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Otvoriť ako stručný súhrn">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Prepínať medzi stránkou a súhrnom v paneli správy">
 <!ENTITY openFeedWebPageInMP.accesskey "P">
 
