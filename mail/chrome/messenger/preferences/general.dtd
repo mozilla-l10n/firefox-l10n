@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Prispôsobiť…">
 <!ENTITY customizeMailAlert.accesskey     "o">
 
+<!ENTITY showTrayIcon.label               "Zobraziť ikonu v oznamovacej oblasti systémového panela úloh">
+<!ENTITY showTrayIcon.accesskey           "k">
+
 <!ENTITY play.label                       "Ukážka">
 <!ENTITY play.accesskey                   "U">
 <!ENTITY systemsound.label                "Predvolený systémový zvuk pre novú správu">
