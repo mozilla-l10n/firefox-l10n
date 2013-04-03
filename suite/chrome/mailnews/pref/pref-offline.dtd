@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.network.title "Red y almacenamiento">
-<!ENTITY pref.offline.caption "Desconectado">
+<!ENTITY pref.offline.caption "Sin conexión">
 <!ENTITY textStartUp "Al iniciar:">
 <!ENTITY textStartUp.accesskey "A">
 <!ENTITY menuitemRememberPrevState "Recordar el modo de conexión previo">

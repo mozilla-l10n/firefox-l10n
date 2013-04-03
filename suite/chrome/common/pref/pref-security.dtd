@@ -9,11 +9,11 @@
 <!ENTITY dntTellSites.accesskey "I">
 <!ENTITY dntTrackingNotOkay.label "No quiero ser rastreado">
 <!ENTITY dntTrackingNotOkay.accesskey "N">
-<!ENTITY dntTrackingOkay.label "Consiento en ser rastreado">
+<!ENTITY dntTrackingOkay.label "Consiento ser rastreado">
 <!ENTITY dntTrackingOkay.accesskey "C">
 <!ENTITY safeBrowsing.label "Navegación segura">
 <!ENTITY safeBrowsingIntro.label "&brandShortName; puede bloquear los sitios web señalados por contener contenido malicioso.">
 <!ENTITY blockAttackSites.label "Bloquear los sitios señalados como atacantes (malware, virus)">
 <!ENTITY blockAttackSites.accesskey "B">
-<!ENTITY blockWebForgeries.label "Bloquear sitios señalados como falsificaciones web (phishing)">
+<!ENTITY blockWebForgeries.label "Bloquear los sitios señalados como falsificaciones web (phishing)">
 <!ENTITY blockWebForgeries.accesskey "a">
