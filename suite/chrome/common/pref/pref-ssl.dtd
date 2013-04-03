@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "Verzie protokolu SSL">
 <!ENTITY  SSLWarnings.caption               "Upozornenia SSL">
+<!ENTITY  SSLMixedContent.caption           "Zmiešaný obsah">
 <!ENTITY  SSLClientAuthMethod.caption       "Výber klientskeho certifikátu">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "u">
 <!ENTITY warn.viewmixed                     "zobrazí stránku so zmiešaným zašifrovaným/nezašifrovaným obsahom">
 <!ENTITY warn.viewmixed.accesskey           "z">
+
+<!ENTITY warn.mixedactivecontent            "Upozorniť ma, ak zabezpečená stránka obsahuje nezabezpečený obsah">
+<!ENTITY warn.mixedactivecontent.accesskey  "b">
+<!ENTITY block.activecontent                "Nenačítavať nezabezpečený obsah na zabezpečených stránkach">
+<!ENTITY block.activecontent.accesskey      "s">
+<!ENTITY warn.mixeddisplaycontent           "Upozorniť ma, ak zabezpečená stránka obsahuje iné typy zmiešaného obsahu">
+<!ENTITY warn.mixeddisplaycontent.accesskey "h">
+<!ENTITY block.displaycontent               "Nenačítavať iné typy zmiešaného obsahu na zabezpečených stránkach">
+<!ENTITY block.displaycontent.accesskey     "e">
 
 <!ENTITY certselect.description             "Rozhodnite, ako má &brandShortName; vyberať certifikát, ktorý poskytne serverom, ktoré ho vyžadujú:">
 <!ENTITY certselect.auto                    "Vybrať automaticky">

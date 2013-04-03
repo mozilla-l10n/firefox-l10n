@@ -27,6 +27,6 @@
 
 <!ENTITY sync.pair.title            "Spárovanie zariadenia">
 <!ENTITY sync.pair.button           "Spárovať zariadenie">
-<!ENTITY sync.pair.description2     "Ak chcete aktivovať vaše nové zariadenie, zvoľte v tomto zariadení položku &#x0022;Nastaviť synchronizáciu&#x0022;.">
+<!ENTITY sync.pair.description      "Ak chcete aktivovať vaše nové zariadenie, zvoľte v tomto zariadení položku &#x0022;Nastaviť synchronizáciu&#x0022;.">
 <!ENTITY sync.setup.close           "Zavrieť">
 <!ENTITY sync.setup.waitingdownload "Vaše údaje sú teraz preberané na pozadí. Toto okno môžete kedykoľvek zavrieť.">

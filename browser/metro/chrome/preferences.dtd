@@ -18,13 +18,24 @@
 <!ENTITY optionsHeader.char.title                                "Kódovanie znakov">
 <!ENTITY optionsHeader.char.autodetect.label                     "Automatické rozpoznávanie">
 <!ENTITY optionsHeader.char.options.label                        "Zobraziť možnosti kódovania v paneli Aplikácie">
-<!ENTITY optionsHeader.privacy.clearPrivateData.title            "Vymazať súkromné údaje">
-<!ENTITY optionsHeader.privacy.clearPrivateData.label            "Vymaže vašu históriu prehliadania, heslá, cookies a údaje formulárov v tomto zariadení">
-<!ENTITY optionsHeader.privacy.clearPrivateData.button           "Vymazať">
+
+<!ENTITY clearPrivateData.title                                  "Vymazať súkromné údaje">
+<!ENTITY clearPrivateData.label                                  "Vymaže vašu históriu prehliadania, heslá, cookies a údaje formulárov v tomto zariadení">
+<!ENTITY clearPrivateData.button                                 "Vymazať">
+<!ENTITY clearPrivateData.done                                   "Hotovo">
+<!ENTITY clearPrivateData.history                                "História prehliadania">
+<!ENTITY clearPrivateData.otherdata                              "Iné údaje (heslá, vyrovnávacia pamäť, cookies, atď)">
+<!ENTITY clearPrivateData.downloadHist                           "Zoznam prevzatých súborov">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Vyrovnávacia pamäť">
+<!ENTITY clearPrivateData.sitePref                               "Nastavenia stránok">
+<!ENTITY clearPrivateData.formSearchHist                         "Položky formulárov a vyhľadávania">
+<!ENTITY clearPrivateData.passwords                              "Uložené heslá">
+<!ENTITY clearPrivateData.offline                                "Údaje stránok v režime offline">
+<!ENTITY clearPrivateData.logins                                 "Aktívne prihlásenia">
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamätať si heslá">
 <!ENTITY optionsHeader.privacy.doNotTrack.title                  "Sledovanie">
 <!ENTITY optionsHeader.privacy.doNotTrack.label                  "Požiadať stránky, aby nesledovali moju aktivitu">
-<!ENTITY optionsHeader.privacy.masterPassword.label              "Používať hlavné heslo">
 
 <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->

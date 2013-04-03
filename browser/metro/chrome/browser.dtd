@@ -63,8 +63,8 @@
 <!ENTITY contextBookmarkLinkHref.label     "Pridať odkaz medzi záložky">
 
 <!-- IMAGE CONTEXT MENU -->
-<!-- l10n: contextSaveImageLib saves an image to the users "pictures library"
-     (Explorer -> left hand side navigation ppane -> Libraries -> Pictures) -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
 <!ENTITY contextSaveImageLib.label         "Uložiť obrázky do Knižnice">
 <!ENTITY contextCopyImage.label            "Kopírovať obrázok">
 <!ENTITY contextCopyImageLocation.label    "Kopírovať umiestnenie obrázka">
