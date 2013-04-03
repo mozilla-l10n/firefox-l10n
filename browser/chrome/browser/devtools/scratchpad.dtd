@@ -46,14 +46,14 @@
 <!ENTITY saveFileAsCmd.label          "Lagre som …">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
-<!ENTITY closeCmd.label               "Lat att">
+<!ENTITY closeCmd.label               "Lukk">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "a">
+<!ENTITY closeCmd.accesskey           "u">
 
 <!ENTITY editMenu.label               "Rediger">
 <!ENTITY editMenu.accesskey           "R">
 
-<!ENTITY run.label                    "Kjøyr">
+<!ENTITY run.label                    "Køyr">
 <!ENTITY run.accesskey                "K">
 <!ENTITY run.key                      "r">
 
@@ -105,7 +105,7 @@
 <!ENTITY resetContext2.label          "Tilbakestill variablar">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Last på nytt og kjør">
+<!ENTITY reloadAndRun.label           "Last på nytt og køyr">
 <!ENTITY reloadAndRun.accesskey       "L">
 <!ENTITY reloadAndRun.key             "r">
 

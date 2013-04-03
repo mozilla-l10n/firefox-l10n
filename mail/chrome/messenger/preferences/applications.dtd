@@ -22,12 +22,12 @@
 <!ENTITY chooseFolderMac.label        "Vel …">
 <!ENTITY chooseFolderMac.accesskey    "V">
 
-<!ENTITY attachments.incoming.label   "Innkomande">
-<!ENTITY attachments.outgoing.label   "Utgåande">
+<!ENTITY attachments.incoming.label   "Inn">
+<!ENTITY attachments.outgoing.label   "Ut">
 
 <!ENTITY addCloudFileAccount.label        "Legg til">
 <!ENTITY addCloudFileAccount.accesskey    "L">
-<!ENTITY addCloudFileAccount.description  "Legg til ei Filelink lagringsteneste">
+<!ENTITY addCloudFileAccount.description  "Legg til ei Filelink-lagringsteneste">
 <!ENTITY removeCloudFileAccount.label     "Fjern">
 <!ENTITY removeCloudFileAccount.accesskey "F">
 <!ENTITY authRequired.description         "Din autorisasjon er nødvendig for å sjå innstillingane for denne lagringstenesta.">
