@@ -16,3 +16,7 @@
 <!ENTITY server.label "Conta:">
 <!ENTITY server.accesskey "a">
 <!ENTITY subscribedHeader.label "Subscrever">
+<!-- commenting out until bug 38906 is fixed 
+<!ENTITY messagesHeader.label "Mensagens"> -->
+<!ENTITY namefield.label "Mostrar itens que possuam:">
+<!ENTITY namefield.accesskey "o">
