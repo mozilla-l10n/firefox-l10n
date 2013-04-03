@@ -4,7 +4,7 @@
 
 <!ENTITY privatebrowsingpage.title "Navegación privada">
 <!ENTITY privatebrowsingpage.experimental "La &privatebrowsingpage.title; es en este momento una característica experimental.">
-<!ENTITY privatebrowsingpage.description "En una ventana de &privatebrowsingpage.title;, &brandShortName; no guardará ningún caché de disco, cookies ni historial del navegador, búsquedas, descargas o formularios web. Sin embargo, los archivos  y marcadores descargados se seguirán guardando.">
+<!ENTITY privatebrowsingpage.description "En una ventana de &privatebrowsingpage.title;, &brandShortName; no guardará ningún caché de disco, cookies ni historial del navegador, búsquedas, descargas o formularios web. Sin embargo, los archivos y marcadores descargados se seguirán guardando.">
 <!ENTITY privatebrowsingpage.moreinfo "Aunque este equipo no conservará un registro de su historial de navegación, su supervisor laboral o su proveedor de servicios de Internet aún podrían rastrear las páginas que visita.">
 <!ENTITY privatebrowsingpage.learnmore.label "Saber más">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "S">
