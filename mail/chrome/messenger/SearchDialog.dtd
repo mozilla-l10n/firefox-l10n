@@ -14,13 +14,13 @@
 <!ENTITY openButton.label            "Öppna">
 <!ENTITY openButton.accesskey        "Ö">
 <!ENTITY deleteButton.label          "Ta bort">
-<!ENTITY deleteButton.accesskey      "T">
+<!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
 <!ENTITY results.label               "Sökresultat">
-<!ENTITY fileHereMenu.label          "Arkivera här">
-<!ENTITY fileHereMenu.accesskey      "h">
-<!ENTITY fileButton.label            "Arkivera">
-<!ENTITY fileButton.accesskey        "v">
+<!ENTITY moveHereMenu.label          "Flytta hit">
+<!ENTITY moveHereMenu.accesskey      "h">
+<!ENTITY moveButton.label            "Flytta till">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Öppna i mapp">
 <!ENTITY openInFolder.accesskey      "p">
