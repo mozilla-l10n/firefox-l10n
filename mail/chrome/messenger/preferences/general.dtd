@@ -18,6 +18,8 @@
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey "P">
+<!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
+<!ENTITY showTrayIcon.accesskey "a">
 <!ENTITY play.label "Reproducir">
 <!ENTITY play.accesskey "r">
 <!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
