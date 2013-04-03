@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Anpassa…">
 <!ENTITY customizeMailAlert.accesskey     "n">
 
+<!ENTITY showTrayIcon.label               "Visa ikon i aktivitetsfältet">
+<!ENTITY showTrayIcon.accesskey           "a">
+
 <!ENTITY play.label                       "Spela upp">
 <!ENTITY play.accesskey                   "e">
 <!ENTITY systemsound.label                "Systemets standardljud">

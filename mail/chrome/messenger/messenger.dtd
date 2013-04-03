@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Öppna i konversationen">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Öppna flödets meddelande som">
-<!ENTITY openFeedMessage.accesskey "Ö">
-<!ENTITY openFeedWebPageInWindow.label "Webbsida i nytt fönster">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Sammanfattning i nytt fönster">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "När du öppnar RSS-meddelanden">
+<!ENTITY openFeedMessage1.accesskey "ö">
+<!ENTITY openFeedWebPage.label "Öppna som webbsida">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Öppna som sammanfattning">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Växla webbsida och sammanfattning i meddelandepanelen">
 <!ENTITY openFeedWebPageInMP.accesskey "V">
 
