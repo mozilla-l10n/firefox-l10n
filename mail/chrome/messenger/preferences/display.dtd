@@ -35,7 +35,7 @@
 <!ENTITY removeTagButton.accesskey "x">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fontes">
+<!ENTITY fontsAndColors1.label   "Fontes">
 <!ENTITY defaultFont.label       "Fonte padrão:">
 <!ENTITY defaultFont.accesskey   "F">
 <!ENTITY defaultSize.label       "Tam.:">
