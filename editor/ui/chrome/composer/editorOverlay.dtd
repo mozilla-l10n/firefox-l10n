@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Betűméret beállítása">
 <!ENTITY decreaseFontSize.label "Kisebb">
 <!ENTITY decreaseFontSize.accesskey "K">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Nagyobb">
 <!ENTITY increaseFontSize.accesskey "N">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Méret">
 <!ENTITY fontSizeMenu.accesskey "r">
