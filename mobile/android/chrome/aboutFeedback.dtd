@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Ako sa Vám páči nový &brandShortName; pre Android?">
 <!ENTITY intro.happyLink           "Je super">
 <!ENTITY intro.sadLink             "Vyskytli sa nejaké problémy">
-<!ENTITY intro.ideaLink            "Mám nápad">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Alebo inak.">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Milujeme vaše nápady! A preto sa s nimi podeľte (ale len o tie ohľadne &brandShortName;u).">
-<!ENTITY idea.placeholder          "Sem zadajte svoje nápady">
-<!ENTITY idea.thanksHeader         "Ďakujeme.">
-
-<!ENTITY idea.thanksMessageTop     "Ceníme si Váš čas strávený písaním komentáru. Neustále sa snažíme &brandShortName; vylepšovať a príspevky ako ten Váš nám v tom pomáhajú.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Nevidíte to, ale práve teraz Vám ukazujeme palec hore...">
 
 <!ENTITY feedback.privacy          "Kvôli ochrane Vášho súkromia nepíšte do komentáru žiadne osobné údaje.">
 <!ENTITY feedback.send             "Odoslať komentár">
