@@ -16,10 +16,10 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Buscar mensajes">
 <!ENTITY results.label "Resultados">
-<!ENTITY fileHereMenu.label "Archivar aquí">
-<!ENTITY fileHereMenu.accesskey "h">
-<!ENTITY fileButton.label "Archivar">
-<!ENTITY fileButton.accesskey "v">
+<!ENTITY moveHereMenu.label "Mover aquí">
+<!ENTITY moveHereMenu.accesskey "o">
+<!ENTITY moveButton.label "Mover a">
+<!ENTITY moveButton.accesskey "v">
 <!ENTITY goToFolderButton.label "Abrir carpeta mensajes">
 <!ENTITY goToFolderButton.accesskey "n">
 <!ENTITY saveAsVFButton.label "Guardar como carp. búsqueda">

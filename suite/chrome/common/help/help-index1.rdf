@@ -757,7 +757,7 @@
 	 nc:link="using_priv_help.xhtml#removing_cookies"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:foreign"
+       <rdf:Description ID="cookies:third-party"
          nc:name="cookies de terceros"
 	 nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
      </rdf:li>
