@@ -289,7 +289,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Âtri segnalìbbri">
 <!ENTITY appMenuWebDeveloper.label "Svilupatô Web">
 <!ENTITY appMenuGettingStarted.label "Pe Iniçiâ">
-<!ENTITY appMenuSafeMode.label "Àevi tórna co-i conponénti azónti dizabilitæ">
+<!ENTITY appMenuSafeMode.label "Àrvi tórna co-i conponénti azónti dizabilitæ">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
