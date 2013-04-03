@@ -2,19 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY systemIntegration.title  "Integração do sistema">
-<!ENTITY acceptIntegration.label  "Definir como padrão">
-<!ENTITY cancelIntegration.label  "Saltar integração">
-<!ENTITY defaultClient.intro  "Usar o &brandShortName; como cliente pré-definido para:">
-
-<!ENTITY email.label "Correio electrónico">
-<!ENTITY newsgroups.label "Grupos de discussão">
+<!ENTITY systemIntegration.title "Integração de sistemas">
+<!ENTITY acceptIntegration.label "Definir como pré-definido">
+<!ENTITY cancelIntegration.label "Ignorar integração">
+<!ENTITY cancelIntegration2.label  "Cancelar">
+<!ENTITY defaultClient.intro "Utilizar o &brandShortName; como aplicação pré-definida para:">
+<!ENTITY email.label "Correio eletrónico">
+<!ENTITY newsgroups.label "Grupos de notícias">
 <!ENTITY feeds.label "Fontes">
-
-<!ENTITY unsetDefault.tooltip "Não é possível anulara seleção do &brandShortName; como o cliente pré-definido do &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o seu diálogo de 'Definir como pré-definido'.">
-
-<!ENTITY checkOnStartup.label "Fazer sempre esta verificação ao iniciar o &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "F">
-
-<!ENTITY searchIntegration.label "Permitir a &searchIntegration.engineName; para pesquisar mensagens">
+<!ENTITY unsetDefault.tooltip "Não pode cancelar a seleção do &brandShortName; como aplicação pré-definida no &brandShortName;. Para tornar outra aplicação a pré-definida tem de utilizar o diálogo de 'Definir como pré-definido'.">
+<!ENTITY checkOnStartup.label "Efetuar sempre esta verificação ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; procure as mensagens">
 <!ENTITY searchIntegration.accesskey "P">
