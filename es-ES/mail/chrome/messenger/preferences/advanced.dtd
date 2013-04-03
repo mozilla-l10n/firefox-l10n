@@ -70,7 +70,7 @@
 <!ENTITY showSettings.accesskey "C">
 <!ENTITY proxiesConfigure.label "Configurar cómo se conecta &brandShortName; a Internet">
 <!ENTITY connectionsInfo.caption "Conexión">
-<!ENTITY offlineInfo.caption "Desconectado">
+<!ENTITY offlineInfo.caption "Sin conexión">
 <!ENTITY offlineInfo.label "Configurar modo sin conexión">
 <!ENTITY showOffline.label "Sin conexión…">
 <!ENTITY showOffline.accesskey "S">
