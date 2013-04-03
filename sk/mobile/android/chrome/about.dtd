@@ -10,7 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Vyhľadať aktualizácie »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Vyhľadávajú sa aktualizácie…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nie sú dostupné žiadne aktualizácie">
-<!ENTITY aboutPage.checkForUpdates.found        "Aktualizácia je dostupná">
+<!ENTITY aboutPage.checkForUpdates.available    "Aktualizácia je dostupná. Ťuknutím sem ju prevezmete.">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Preberá sa aktualizácia…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Aktualizácia je prevzatá. Ťuknutím sem ju nainštalujete.">
 <!ENTITY aboutPage.faq.label                    "Často kladené otázky">
 <!ENTITY aboutPage.support.label                "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label          "Zásady ochrany súkromia">
