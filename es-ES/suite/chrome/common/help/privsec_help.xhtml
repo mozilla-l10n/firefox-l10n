@@ -17,7 +17,7 @@
 </head>
 <body>
 
-<h1>Preferencias de privacidad y seguridad</h1>
+<h1 id="privsec_preferences">Preferencias de privacidad y seguridad</h1>
 
 <p>Las secciones mostradas a continuación describen las preferencias de
 privacidad y seguridad. Para ver los paneles de preferencias, siga estos
@@ -37,16 +37,160 @@ haga clic en el enlace correspondiente de entre los siguientes:</p>
 
 <div class="contentsBox">Secciones relacionadas:
   <ul>
+    <li><a href="#privacy_and_security">Privacidad y seguridad</a></li>
     <li><a href="using_priv_help.xhtml#cookie">Cookies</a></li>
     <li><a href="using_priv_help.xhtml#images">Imágenes</a></li>
-    <li><a href="passwords_help.xhtml">Contraseñas</a></li>
+    <li><a href="cs_priv_prefs_popup.xhtml#privacy_and_security_preferences_popup_windows">Ventanas emergentes</a></li>
+    <li><a href="passwords_help.xhtml#passwords">Contraseñas</a></li>
     <li><a href="passwords_help.xhtml#master_passwords">Contraseñas
     maestras</a></li>
-    <li><a href="ssl_help.xhtml">SSL</a></li>
-    <li><a href="certs_prefs_help.xhtml">Certificados</a></li>
-    <li><a href="validation_help.xhtml">Validación</a></li>
+    <li><a href="ssl_help.xhtml#privacy_and_security_preferences_ssl">SSL</a></li>
+    <li><a href="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates">Certificados</a></li>
+    <li><a href="validation_help.xhtml#privacy_and_security_preferences_validation">Validación</a></li>
   </ul>
 </div>
 
+<h2 id="privacy_and_security">Preferencias de privacidad y seguridad -
+  Privacidad y seguridad</h2>
+
+<p>Esta sección describe cómo usar el panel principal de preferencias de
+  privacidad y seguridad. Si no está viéndolo, siga estos pasos:</p>
+
+<ol>
+  <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija Preferencias.</li>
+  <li>Haga clic en la categoría Privacidad y seguridad.</li>
+</ol>
+
+<h3>Rastreo de usuarios</h3>
+
+<p>Estas opciones le permiten comunicar sus preferencias de rastreo a los
+  sitios web. El <a href="glossary.xhtml#user_tracking">rastreo</a>
+  se refiere a que los sitios web (incluyendo anunciantes, proveedores de
+  analíticas y sitios sociales) recogen y analizan datos comprensivos sobre
+  sus patrones de navegación web, afectando por tanto a su privacidad. Para
+  más información sobre este tema, vea
+  <a href="privacy_help.xhtml#why_and_how_are_websites_tracking_me">¿Por qué
+  y cómo me están rastreando los sitios web?</a> La tecnología
+  <a href="glossary.xhtml#do_not_track">Do Not Track</a> le permite
+  indicar a los sitios web si está de acuerdo en ser rastreado. En esta
+  sección están disponibles las siguientes opciones:</p>
+
+<ul>
+  <li><strong>Anunciar a los sitios web mis preferencias de
+    rastreo</strong>: marque esta casilla para indicar a &brandShortName;
+    que informe a cada sitio web que visite explícitamente (junto con cualquier
+    proveedor de contenido de terceros incrustado en sus páginas) si quiere o
+    no que se rastree sus hábitos de navegación:
+    <ul>
+      <li><strong>No quiero ser rastreado</strong>: seleccione esta opción
+        para enviar una solicitud Do not track a cada sitio web visitado.</li>
+      <li><strong>Consiento ser rastreado</strong>: seleccione esta opción
+        para indicar explícitamente a cada sitio web visitado que está de
+        acuerdo con que se rastreen sus hábitos de navegación.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Notas</strong>:</p>
+
+<ul>
+  <li>Respetar una solicitud Do not track es voluntario, por lo que los sitios
+    web <em>no están obligados</em> a obedecerla. Los sitios y servicios web
+    que siguen la política deberían dejar de recopilar y usar información
+    sobre su patrón de navegación web para toda la actividad para la cual se
+    selecciona Do Not Track.</li>
+  <li>Solicitar Do not track de un sitio web no debería afectar a su capacidad
+    de usar el sitio web correctamente (p.e., al usar una
+    <a href="glossary.xhtml#web_application">aplicación web</a> o al añadir
+    elementos en un carrito mientras compra).</li>
+  <li>Observe que Do Not Track no <em>impide</em> que se le muestren anuncios
+    mientras navega. Puesto que el sitio web no tiene permitido recopilar y
+    utilizar información sobre usted, el contenido de los anuncios serán menos
+    específicos si no tiene la opción Do Not Track seleccionada.</li>
+</ul>
+
+<h3 id="safe_browsing">Navegación segura</h3>
+
+<p>Algunos sitios web incluyen contenido potencialmente peligroso y pueden
+  haber sido identificados como maliciosos. Las preferencias localizadas en
+  la parte inferior del panel <a href="#privacy_and_security">Privacidad y
+  seguridad</a> le permiten seleccionar qué tipos de sitios identificados
+  de esta forma serán bloqueados. Si se activan &brandShortName; compara
+  la dirección de cada sitio web que vaya a visitar contra listas actualizadas
+  periódicamente. Se emite una advertencia previa a la carga real del sitio
+  identificado, dándole de esta manera la oportunidad de cancelar el proceso
+  de carga. En esta sección están disponibles las siguientes opciones:</p>
+
+<ul>
+  <li><strong>Bloquear los sitios señalados como atacantes</strong>:
+    marque esta casilla si quiere que &brandShortName; le avise si el sitio web
+    que está a punto de visitar ha sido identificado como uno que intenta
+    infectar su equipo con software malicioso. Este tipo de
+    <q><a href="glossary.xhtml#malware">malware</a></q> puede interferir con
+    las funciones de su equipo o robar su información personal. También es
+    usado frecuentemente para enviar correo spam o para distribuir más
+    malware.</li>
+  <li><strong>Bloquear los sitios señalados como falsificaciones web</strong>:
+    marque esta casilla si quiere que &brandShortName; le avise si el sitio web
+    que está a punto de visitar ha sido identificado como un sitio que finge
+    ser un sitio web legítimo de alguna organización o servicio conocidos. Los
+    sitios web como este se crean a menudo para engañarle para que proporcione
+    un nombre de usuario y una contraseña u otra información personal
+    confidencial (conocido normalmente como
+    <q><a href="glossary.xhtml#phishing">phishing</a></q>).</li>
+</ul>
+
+<p>Cuando intenta visitar un sitio web que ha sido identificado como malicioso
+  (y esta característica está activada), verá una de las siguientes
+  advertencias:</p>
+
+<ul>
+  <li><strong>¡Página identificada como ataque!</strong> Este sitio web ha sido
+    identificado como un sitio web que intenta infectar su equipo con
+    malware.</li>
+  <li><strong>¡Falsificación web identificada!</strong> Este sitio web ha sido
+    identificado como un sitio web que intenta robar tu información
+    personal.</li>
+</ul>
+
+<p>En este punto no se ha producido ningún daño. Seleccione una de las opciones
+  siguientes:</p>
+
+<ul>
+  <li><strong>¡Sácame de aquí!</strong> <em>No</em> cargar este sitio web. En
+    su lugar, dirigirse a la página de inicio por defecto de
+    &brandShortName;.</li>
+  <li><strong>¿Por qué se ha bloqueado esta página?</strong> Abre una página
+    web que le muestra la información enviada sobre este sitio web concreto
+    (ésta es una página web ubicada en el proveedor de este servicio). Si no
+    existen estos datos del informe, se muestra una página con información
+    general.</li>
+  <li><strong>Ignorar esta advertencia</strong>: continuar con la carga de la
+    página. Use esta opción sólo cuando esté <em>seguro</em> de que la página
+    seleccionada es auténtica y visitarla sea seguro. Aparecerá una barra de
+    notificación en la parte superior de la página, dándole la opción de
+    informar al proveedor de este servicio en caso de que se trate de un error:
+    <ul>
+      <li><strong>Éste no es un sitio atacante…</strong> o <strong>Ésta no es
+        una falsificación web…</strong>: pulse este botón para abrir una nueva
+        pestaña que le permita informar de advertencias erróneas (ésta es una
+        página externa).</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Importante</strong>: la característica de navegación segura está
+  activada por defecto. <em>No</em> se recomienda desactivar ninguna de las dos
+  funciones ya que puede dar lugar a visitar sitios no seguros.</p>
+
+<p><strong>Nota</strong>: si no se muestra una advertencia para un sitio web,
+  esto no <em>garantiza</em> que un sitio sea confiable; sólo quiere decir que
+  no se ha informado de él. Los sitios web maliciosos pueden <em>parecer</em>
+  seguros pero estar intentando atacarle o robar su información personal en
+  secreto. El propietario del sitio web o su proveedor pueden no saber que
+  el sitio ha sido comprometido.</p>
+
+<p>[<a href="#privsec_preferences">Volver al principio de al sección</a>]</p>
 </body>
 </html>
