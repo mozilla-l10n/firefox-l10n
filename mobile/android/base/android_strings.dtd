@@ -164,6 +164,7 @@ size. -->
 <!ENTITY contextmenu_paste "Klistra in">
 <!ENTITY contextmenu_copyurl "Kopiera adress">
 <!ENTITY contextmenu_edit_bookmark "Redigera">
+<!ENTITY contextmenu_subscribe "Prenumerera på sidan">
 
 <!ENTITY history_removed "Sidan borttagen">
 
