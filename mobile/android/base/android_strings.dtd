@@ -130,6 +130,7 @@
 <!ENTITY contextmenu_paste "Вставить">
 <!ENTITY contextmenu_copyurl "Копировать адрес">
 <!ENTITY contextmenu_edit_bookmark "Изменить">
+<!ENTITY contextmenu_subscribe "Подписаться на страницу">
 <!ENTITY history_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
