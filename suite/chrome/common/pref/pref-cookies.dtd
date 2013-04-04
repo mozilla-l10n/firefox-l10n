@@ -11,7 +11,7 @@
 <!ENTITY accAllCookiesRadio.label       "所有網站都可使用 Cookie">
 <!ENTITY accAllCookiesRadio.accesskey   "C">
 
-<!ENTITY accOrgCookiesRadio.label       "只接受把資料送回原網站的 Cookie">
+<!ENTITY accOrgCookiesRadio.label       "只接受把資料送回原網站的 Cookies">
 <!ENTITY accOrgCookiesRadio.accesskey   "o">
 
 <!ENTITY disableCookies.label           "拒絕 Cookie">

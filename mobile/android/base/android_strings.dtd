@@ -79,7 +79,7 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_private_data "清除隱私資訊">
+<!ENTITY pref_clear_private_data "清除隱私資料">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
@@ -122,7 +122,7 @@ size. -->
 <!ENTITY pref_update_autodownload_disabled "停用">
 <!ENTITY pref_update_autodownload_enabled "啟用">
 
-<!ENTITY quit "結束">
+<!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載項目">

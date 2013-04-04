@@ -27,7 +27,7 @@
 <!ENTITY  acceptCookies.label           "允許網站設定 Cookie">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "接受來自第三方的 Cookie">
+<!ENTITY  acceptThirdParty.label        "接受來自第三方的 Cookies">
 <!ENTITY  acceptThirdParty.accesskey    "C">
 
 <!ENTITY  keepUntil.label               "保留 Cookie 直到:">

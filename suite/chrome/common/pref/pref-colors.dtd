@@ -5,23 +5,23 @@
 <!-- extracted from content/pref-colors.xul -->
 
 <!-- LOCALIZATION NOTE : FILE Color management prefs -->
-<!ENTITY pref.colors.title                 "顏色設定">
-<!ENTITY color                             "顏色">
+<!ENTITY pref.colors.title                 "顏色">
+<!ENTITY color                             "文字與背景">
 <!ENTITY textColor.label                   "文字:">
 <!ENTITY textColor.accesskey               "T">
 <!ENTITY backgroundColor.label             "背景:">
 <!ENTITY backgroundColor.accesskey         "B">
-<!ENTITY useSystemColors.label             "使用系統顏色">
+<!ENTITY useSystemColors.label             "使用系統色彩">
 <!ENTITY useSystemColors.accesskey         "s">
 
 <!ENTITY underlineLinks.label              "鏈結加底線">
 <!ENTITY underlineLinks.accesskey          "U">
 <!ENTITY links                             "鏈結顏色">
-<!ENTITY linkColor.label                   "未拜訪鏈結">
+<!ENTITY linkColor.label                   "未拜訪鏈結:">
 <!ENTITY linkColor.accesskey               "L">
 <!ENTITY activeLinkColor.label             "使用中的鏈結:">
 <!ENTITY activeLinkColor.accesskey         "c">
-<!ENTITY visitedLinkColor.label            "已拜訪鏈結">
+<!ENTITY visitedLinkColor.label            "已拜訪鏈結:">
 <!ENTITY visitedLinkColor.accesskey        "V">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "當網頁指定它本身的色彩和背景時:">

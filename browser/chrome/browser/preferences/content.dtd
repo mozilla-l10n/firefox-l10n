@@ -21,7 +21,7 @@
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "字型與色彩">
+<!ENTITY  fontsAndColors.label        "字型與顏色">
 
 <!ENTITY  defaultFont.label           "預設字型:">
 <!ENTITY  defaultFont.accesskey       "D">
@@ -31,7 +31,7 @@
 <!ENTITY  advancedFonts.label         "進階…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "色彩…">
+<!ENTITY  colors.label                "顏色…">
 <!ENTITY  colors.accesskey            "C">
 
 

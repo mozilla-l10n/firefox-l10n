@@ -2,31 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY abouthealth.locale-direction "ltr">
-
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 <!ENTITY abouthealth.pagetitle "&brandShortName; 健康檢查報告">
-<!ENTITY abouthealth.header "&brandFullName; 健康檢查報告">
-
-<!ENTITY abouthealth.intro.title "&brandShortName; 健康檢查報告是什麼？">
-
-<!ENTITY abouthealth.intro-enabled "&brandFullName; 會收集一些關於您的電腦與使用的資訊，以讓您有更好的上網瀏覽體驗。">
-<!ENTITY abouthealth.intro-disabled "您目前並沒有送出使用資訊給 &vendorShortName;。您可以透過點下「&abouthealth.optin;」的按鈕，幫助我們讓 &brandShortName; 變得更好。">
-
-<!ENTITY abouthealth.optin "幫助讓 &brandShortName; 變得更好">
-<!ENTITY abouthealth.optout "關閉回報功能">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "停止送出資料？">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "您確定您要停止送出資訊，並從 &vendorShortName; 伺服器上刪除所有您匿名送出的產品資料？">
-
-<!ENTITY abouthealth.show-raw-data "顯示細節">
-<!ENTITY abouthealth.hide-raw-data "隱藏細節">
-
-<!ENTITY abouthealth.show-report "顯示 &brandShortName; 報告">
-
-<!ENTITY abouthealth.details.description-start "以下是 &brandFullName; 將為 &brandShortName; 健康檢查報告功能送出的資料，您可以了解更多">
-<!ENTITY abouthealth.details-link "關於我們收集、送出哪些資料">
-<!ENTITY abouthealth.details.description-end "的資訊。">
-<!ENTITY abouthealth.no-data-available "目前沒有已送出的資料可以顯示，請稍後再回來看看。">
 

@@ -20,7 +20,7 @@
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "純文字郵件">
 <!ENTITY displayText.label                "顯示引用的純文字郵件時:">
-<!ENTITY colors.label                     "色彩">
+<!ENTITY colors.label                     "顏色">
 <!ENTITY overrideColors.label             "用下列色彩顯示郵件:">
 <!ENTITY textColor.label                  "文字色彩:">
 <!ENTITY textColor.accesskey              "T">
