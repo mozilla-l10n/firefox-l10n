@@ -140,7 +140,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopButton.tooltip           "停止載入此網頁">
 <!ENTITY goEndCap.tooltip             "按此瀏覽位址列中的網址">
 <!ENTITY printButton.label            "列印">
-<!ENTITY printButton.tooltip          "列印此頁">
+<!ENTITY printButton.tooltip          "列印頁面">
 
 <!ENTITY backForwardItem.title        "上一頁／下一頁">
 <!ENTITY locationItem.title           "位址">
@@ -520,7 +520,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "結束"> 
+<!ENTITY quitApplicationCmd.label       "離開"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac.label    "結束 &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">

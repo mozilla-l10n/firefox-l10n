@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "請告訴我們您使用 Android 版 &brandShortName; 到現在有什麼感想。">
 <!ENTITY intro.happyLink           "我愛它">
 <!ENTITY intro.sadLink             "我遇到一些問題">
-<!ENTITY intro.ideaLink            "我有個點子">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "或者，">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "我們熱愛聽到您的意見！請在下面分享您的想法。（請只列出與 &brandShortName; 產品本身有關的就好。）">
-<!ENTITY idea.placeholder          "請在此輸入您的點子">
-<!ENTITY idea.thanksHeader         "感謝您！">
-
-<!ENTITY idea.thanksMessageTop     "感謝您花時間分享您的意見。我們努力讓 &brandShortName; 變得更好，像您這樣的貢獻能幫助我們做出更棒的產品。">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "雖然您看不到，但我們正向您擊掌歡呼。">
 
 <!ENTITY feedback.privacy          "為了您的隱私安全，請勿在回饋內容中包含任何可認出您的個人資訊。">
 <!ENTITY feedback.send             "傳送意見回饋">
