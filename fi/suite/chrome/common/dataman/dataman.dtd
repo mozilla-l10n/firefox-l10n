@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Vain oikeudet">
 <!ENTITY select.preferences.label "Vain asetukset">
 <!ENTITY select.passwords.label "Vain salasanat">
+<!ENTITY select.storage.label "Vain tietovarastot">
 
 <!ENTITY domain.search.placeholder "Etsi verkkoalueista">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Oikeudet">
 <!ENTITY tab.preferences.label "Asetukset">
 <!ENTITY tab.passwords.label "Salasanat">
+<!ENTITY tab.storage.label "Tietovarastot">
 <!ENTITY tab.formdata.label "Lomaketiedot">
 <!ENTITY tab.forget.label "Unohda">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Poista">
 <!ENTITY pwd.button.remove.accesskey "P">
 
+<!-- storage -->
+<!ENTITY storage.description "Tämä verkkoalue käyttää seuraavia tietokoneellesi tallennettuja tietovarastoja:">
+
+<!ENTITY storage.tree.host.label "Sivusto">
+<!ENTITY storage.tree.type.label "Tyyppi">
+<!ENTITY storage.tree.size.label "Koko">
+
+<!ENTITY storage.ctx.remove.label "Poista">
+<!ENTITY storage.ctx.remove.accesskey "o">
+<!ENTITY storage.ctx.selectAll.label "Valitse kaikki">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Poista">
+<!ENTITY storage.button.remove.accesskey "o">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Hakukenttätiedot">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "S">
 <!ENTITY forget.passwords.label "Salasanat">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Tietovarastot">
+<!ENTITY forget.storage.accesskey "T">
 <!ENTITY forget.formdata.label "Lomaketiedot">
 <!ENTITY forget.formdata.accesskey "L">
 

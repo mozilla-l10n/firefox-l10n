@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Etsi viesteistä">
 <!ENTITY results.label               "Tulokset">
-<!ENTITY fileHereMenu.label          "Siirrä tänne">
-<!ENTITY fileHereMenu.accesskey      "S">
-<!ENTITY fileButton.label            "Siirrä">
-<!ENTITY fileButton.accesskey        "S">
+<!ENTITY moveHereMenu.label          "Siirrä tänne">
+<!ENTITY moveHereMenu.accesskey      "S">
+<!ENTITY moveButton.label            "Siirrä">
+<!ENTITY moveButton.accesskey        "S">
 <!ENTITY goToFolderButton.label      "Avaa viestikansio">
 <!ENTITY goToFolderButton.accesskey  "v">
 <!ENTITY saveAsVFButton.label      "Tallenna hakukansiona">
