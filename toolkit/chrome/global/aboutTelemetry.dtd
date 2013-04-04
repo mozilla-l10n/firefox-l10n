@@ -29,6 +29,10 @@
   ਨਮੂਨੇ ਮਾਪ
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  ਦੇਰ ਨਾਲ ਲਿਖਣਾ
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   ਸਿਸਟਮ ਜਾਣਕਾਰੀ
 ">
