@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "自訂…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "顯示工具列圖示">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "播放">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "系統預設音效">

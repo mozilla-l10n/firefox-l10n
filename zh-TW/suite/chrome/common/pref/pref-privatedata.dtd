@@ -8,7 +8,7 @@
 <!ENTITY pref.privatedata.title           "隱私資料">
 
 
-<!ENTITY clearPrivateData.label           "清除隱私資訊">
+<!ENTITY clearPrivateData.label           "清除隱私資料">
 
 <!ENTITY alwaysClear.label                "結束 &brandShortName; 時清除隱私資料">
 <!ENTITY alwaysClear.accesskey            "w">

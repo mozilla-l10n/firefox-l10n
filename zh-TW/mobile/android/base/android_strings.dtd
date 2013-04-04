@@ -79,7 +79,7 @@
 <!ENTITY pref_char_encoding "語言及字元編碼">
 <!ENTITY pref_char_encoding_on "顯示選單">
 <!ENTITY pref_char_encoding_off "不顯示選單">
-<!ENTITY pref_clear_private_data "清除隱私資訊">
+<!ENTITY pref_clear_private_data "清除隱私資料">
 <!ENTITY pref_plugins "外掛程式">
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "已存密碼">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
-<!ENTITY pref_private_data_siteSettings "網站偏好設定">
+<!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
 
 <!ENTITY pref_update_autodownload "自動更新">

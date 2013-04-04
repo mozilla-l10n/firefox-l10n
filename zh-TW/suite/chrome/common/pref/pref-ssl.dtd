@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL">
 <!ENTITY  SSLWarnings.caption               "SSL 警告">
+<!ENTITY  SSLMixedContent.caption           "混合內容">
 <!ENTITY  SSLClientAuthMethod.caption       "客戶端認證方式選擇">
 
 <!ENTITY pref.ssl.title                     "安全連線（SSL）">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "檢視有加密與未編碼資料混合出現的網頁時">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "加密頁面中包含不安全內容時警告我">
+<!ENTITY warn.mixedactivecontent.accesskey  "W">
+<!ENTITY block.activecontent                "不要在加密頁面中載入不安全的內容">
+<!ENTITY block.activecontent.accesskey      "D">
+<!ENTITY warn.mixeddisplaycontent           "加密頁面中包含其他類型的混和內容時警告我">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "不要在加密頁面中載入其他類型的混和內容">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "決定 &brandShortName; 如何選取安全憑證以代表需要的網站:">
 <!ENTITY certselect.auto                    "自動選擇">
