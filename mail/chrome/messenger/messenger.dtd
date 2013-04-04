@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "以討論串檢視模式開啟">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "開啟來源郵件">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "網頁於新視窗">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "摘要於新視窗">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "開啟資訊來源的訊息時">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "開啟為網頁">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "開啟為摘要">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "切換郵件面板的網頁/摘要">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 

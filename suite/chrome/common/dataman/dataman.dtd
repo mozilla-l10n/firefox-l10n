@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "只有權限">
 <!ENTITY select.preferences.label "只有偏好設定">
 <!ENTITY select.passwords.label "只有密碼">
+<!ENTITY select.storage.label "僅儲存空間">
 
 <!ENTITY domain.search.placeholder "搜尋網域">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "權限">
 <!ENTITY tab.preferences.label "偏好設定">
 <!ENTITY tab.passwords.label "密碼">
+<!ENTITY tab.storage.label "儲存空間">
 <!ENTITY tab.formdata.label "表單資料">
 <!ENTITY tab.forget.label "忘記">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "移除">
 <!ENTITY pwd.button.remove.accesskey "R">
 
+<!-- storage -->
+<!ENTITY storage.description "此網域在您的電腦上使用下列網頁儲存空間:">
+
+<!ENTITY storage.tree.host.label "網站">
+<!ENTITY storage.tree.type.label "類型">
+<!ENTITY storage.tree.size.label "大小">
+
+<!ENTITY storage.ctx.remove.label "移除">
+<!ENTITY storage.ctx.remove.accesskey "R">
+<!ENTITY storage.ctx.selectAll.label "全選">
+<!ENTITY storage.ctx.selectAll.accesskey "A">
+
+<!ENTITY storage.button.remove.label "移除">
+<!ENTITY storage.button.remove.accesskey "R">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "搜尋欄位資料">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "密碼">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "儲存空間">
+<!ENTITY forget.storage.accesskey "S">
 <!ENTITY forget.formdata.label "表單資料">
 <!ENTITY forget.formdata.accesskey "D">
 

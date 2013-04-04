@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "正常">
 <!ENTITY bigger.label                     "增大">
 <!ENTITY smaller.label                    "減少">
-<!ENTITY color.label                      "顏色:">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY quotedTextColor.label            "顏色:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "純文字郵件">
 <!ENTITY displayText.label                "顯示引用的純文字郵件時:">
-<!ENTITY colors.label                     "色彩">
-<!ENTITY overrideColors.label             "用下列色彩顯示郵件:">
-<!ENTITY textColor.label                  "文字色彩:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "背景色彩:">
-<!ENTITY backgroundColor.accesskey        "B">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "顯示表情符號圖片">
@@ -40,12 +34,14 @@
 <!ENTITY removeTagButton.label     "刪除">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "字型">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "字型與顏色">
 <!ENTITY defaultFont.label       "預設字型:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "大小:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "進階…">
+<!ENTITY colorButton.label       "顏色…">
+<!ENTITY colorButton.accesskey   "C">
 
