@@ -1,5 +1,8 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
-<!ENTITY tabs.otherComputers.label               "অন্যান্য কম্পিউটারের ট্যাব">
+<!-- <!ENTITY tabs.otherComputers.label               "অন্যান্য কম্পিউটারের ট্যাব"> -->
+
+<!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
+<!ENTITY tabs.otherDevices.label               "অন্যান্য ডিভাইসের ট্যাব">
 
 <!ENTITY tabs.searchText.label                   "ট্যাব অনুসন্ধানের জন্য এইখানে লিখুনType here to find tabs…">
 
