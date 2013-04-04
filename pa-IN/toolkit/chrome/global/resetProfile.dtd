@@ -4,13 +4,16 @@
 
 <!ENTITY resetProfile.dialog.title        "&brandShortName; ਮੁੜ-ਸੈੱਟ">
 <!ENTITY resetProfile.dialog.description  "ਕੀ ਤੁਸੀਂ &brandShortName; ਨੂੰ ਇਸ ਦੀ ਮੁੱਢਲੀ ਸਟੇਜ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; will try to preserve your:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; will restart and everything else will be removed.">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; ਤੁਹਾਡੀ ਅੱਜ 
+ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਨੂੰ ਬਚਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਹੋਵੇਗਾ 
+ਅਤੇ ਬਾਕੀ ਰਹਿ ਗਈ ਹਰ ਚੀਜ਼ ਨੂੰ ਹਟਾਏਗਾ।">
 <!ENTITY resetProfile.dialog.button.label "&brandShortName; ਮੁੜ-ਸੈੱਟ">
 
 <!ENTITY resetProfile.title               "&brandShortName; ਨੂੰ ਇਸ ਦੀ ਮੁੱਢਲੀ ਹਾਲਤ ਵਿੱਚ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
-<!ENTITY resetProfile.description         "If you're having major problems which you can't resolve, start fresh with only your essential information.">
-<!ENTITY resetProfile.button.label        "&brandShortName; ਮੁੜ-ਸੈੱਟ">
-
+<!ENTITY resetProfile.description         "ਜੇ ਤੁਹਾਨੂੰ ਗੰਭੀਰ ਸਮੱਸਆਵਾਂ ਆ ਰਹੀਆਂਹ, 
+ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਹੱਲ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਕੇਵਲ ਲੋੜੀਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖ ਕੇ 
+ਤਾਜ਼ਾ ਸ਼ੁਰਆਤ ਕਰ ਸਕਦੇ ਹੋ।">
+<!ENTITY resetProfile.button.label2       "&brandShortName; ਮੁੜ-ਸੈੱਟ…">
 <!ENTITY resetProfile.cleaning.description "&brandShortName; ਵਲੋਂ ਤੁਹਾਡੇ ਪੁਰਾਣਾ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਤੱਕ ਉਡੀਕੋ ਜੀ...">
 
