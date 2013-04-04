@@ -9,7 +9,7 @@
 <!ENTITY playSound.accesskey              "P">
 <!ENTITY showAnimatedAlert.label          "顯示警告視窗">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY showTrayIcon.label               "顯示工具列圖是">
+<!ENTITY showTrayIcon.label               "顯示工具列圖示">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "動態 Dock 圖示">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">

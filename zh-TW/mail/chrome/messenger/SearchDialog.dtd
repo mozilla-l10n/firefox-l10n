@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜尋郵件或文章">
 <!ENTITY results.label               "結果">
-<!ENTITY fileHereMenu.label          "歸檔至此">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "檔案">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "移動至此">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "移至">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "在資料夾開啟">
 <!ENTITY openInFolder.accesskey      "r">
