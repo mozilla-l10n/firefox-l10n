@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "Yhteyskäytännöt">
 <!ENTITY  SSLWarnings.caption               "Varoitusviestit">
+<!ENTITY  SSLMixedContent.caption           "Yhdistelmäsisältö">
 <!ENTITY  SSLClientAuthMethod.caption       "Asiakkaan varmenteen valinta">
 
 <!ENTITY pref.ssl.title                     "Salaus">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "S">
 <!ENTITY warn.viewmixed                     "Avattaessa salattua sivua, jolla on salaamattomia osia">
 <!ENTITY warn.viewmixed.accesskey           "e">
+
+<!ENTITY warn.mixedactivecontent            "Näytä varoitus, jos salatulla sivulla on suojaamatonta sisältöä">
+<!ENTITY warn.mixedactivecontent.accesskey  "N">
+<!ENTITY block.activecontent                "Älä lataa salatulla sivulla olevaa suojaamatonta sisältöä">
+<!ENTITY block.activecontent.accesskey      "u">
+<!ENTITY warn.mixeddisplaycontent           "Näytä varoitus, jos salatulla sivulla on muunlaista yhdistelmäsisältöä">
+<!ENTITY warn.mixeddisplaycontent.accesskey "r">
+<!ENTITY block.displaycontent               "Älä lataa muunlaista salatulla sivulla olevaa yhdistelmäsisältöä">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Valitse miten &brandShortName; valitsee turvallisuusvarmenteen sivustoille, jotka sitä vaativat:">
 <!ENTITY certselect.auto                    "Valitse automaattisesti">

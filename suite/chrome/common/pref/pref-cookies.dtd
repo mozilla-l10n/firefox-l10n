@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Evästeiden hyväksymiskäytäntö">
 
-<!ENTITY accAllCookiesRadio.label       "Salli kaikki evästeet">
-<!ENTITY accAllCookiesRadio.accesskey   "a">
-
-<!ENTITY accOrgCookiesRadio.label       "Salli vain samalta palvelimelta peräisin olevat evästeet">
-<!ENTITY accOrgCookiesRadio.accesskey   "S">
-
 <!ENTITY disableCookies.label           "Estä kaikki evästeet">
 <!ENTITY disableCookies.accesskey       "E">
+
+<!ENTITY accNo3rdPartyCookies.label     "Salli vain alkuperäiseltä palvelimelta peräisin olevat evästeet (ei kolmannen osapuolen evästeitä)">
+<!ENTITY accNo3rdPartyCookies.accesskey "a">
+
+<!ENTITY acc3rdPartyVisited.label       "Salli kolmannen osapuolen evästeet vain aiemmin avatuille sivustoille">
+<!ENTITY acc3rdPartyVisited.accesskey   "m">
+
+<!ENTITY accAllCookies.label            "Salli kaikki evästeet">
+<!ENTITY accAllCookies.accesskey        "a">
 
 <!ENTITY cookieRetentionPolicy.label    "Evästeiden säilyttämiskäytäntö">
 
