@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Samþætting kerfis">
 <!ENTITY acceptIntegration.label "Setja sem sjálfgefinn">
 <!ENTITY cancelIntegration.label "Sleppa samþættingu">
+<!ENTITY cancelIntegration2.label "Hætta við">
 <!ENTITY defaultClient.intro "Nota &brandShortName; sem sjálfgefið forrit fyrir:">
 <!ENTITY email.label "Tölvupóst">
 <!ENTITY newsgroups.label "Fréttahópa">
