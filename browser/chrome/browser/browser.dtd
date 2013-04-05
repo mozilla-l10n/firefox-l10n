@@ -452,12 +452,12 @@
 <!ENTITY social.activated.undobutton.accesskey "f">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY remoteWebConsoleCmd.label "Consola web remota">
-<!ENTITY newPrivateWindow.label "Nueva ventana privada">
+<!ENTITY newPrivateWindow.label "Ventana nueva privada">
 <!ENTITY newPrivateWindow.accesskey "P">
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
-<!ENTITY openLinkInPrivateWindowCmd.label "Abrir enllaz nuna ventana privada nueva">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir enllaz nuna ventana nueva privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY devtoolsConnect.label "Coneutar…">
 <!ENTITY devtoolsConnect.accesskey "e">
