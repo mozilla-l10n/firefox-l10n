@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutApps.title2                          "Apps">
 <!ENTITY aboutApps.header                          "Ihre Apps">
 
@@ -7,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Keine Web-Apps installiert. Laden Sie welche aus dem ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox-Marketplace">
 <!ENTITY aboutApps.noApps.post " herunter.">
+<!ENTITY aboutApps.uninstall "Deinstallieren">
+<!ENTITY aboutApps.addToHomescreen "Zu Startbildschirm hinzufügen">
