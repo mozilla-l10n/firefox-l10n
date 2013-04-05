@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do computador'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores do Mobile'>
 <!ENTITY bookmarks.folder.readinglist.label 'Lista de leitura'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Apenas é suportada uma conta do &syncBrand.fullName.label;.'>
