@@ -1,7 +1,16 @@
-<!ENTITY tracking.label                 "ਟਰੈਕਿੰਗ">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotTrack.label               "ਵੈੱਬ ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Learn More">
 
 <!ENTITY  history.label                 "ਅਤੀਤ">
 
