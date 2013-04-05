@@ -52,7 +52,7 @@
 
 <!ENTITY  permTab               "Hak Akses">
 <!ENTITY  permTab.accesskey     "a">
-<!ENTITY  permUseDefault        "Gunakan Pengaturan Default">
+<!ENTITY  permUseDefault        "Gunakan Pengaturan Bawaan">
 <!ENTITY  permAskAlways         "Selalu tanyakan">
 <!ENTITY  permAllow             "Izinkan">
 <!ENTITY  permAllowSession      "Izinkan selama Sesi">

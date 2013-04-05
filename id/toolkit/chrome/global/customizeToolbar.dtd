@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "Ikon">
 <!ENTITY text.label               "Teks">
 <!ENTITY useSmallIcons.label      "Gunakan Ikon Kecil">
-<!ENTITY restoreDefaultSet.label  "Kembalikan Kelompok Default">
+<!ENTITY restoreDefaultSet.label  "Kembalikan ke Kelompok Bawaan">
 <!ENTITY addNewToolbar.label      "Tambah Bilah Alat Baru">
 <!ENTITY saveChanges.label        "Selesai">
 <!ENTITY undoChanges.label        "Batalkan Perubahan">
