@@ -94,6 +94,11 @@
 <!ENTITY debuggerUI.searchVariable      "Variablen filtern">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 
+<!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
+  -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables      "Variablenbaum fokussieren">
+<!ENTITY debuggerUI.focusVariables.key  "f">
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 <!ENTITY debuggerUI.condBreakPanelTitle "An diesem Haltepunkt wird nur angehalten, falls die folgende Bedingung wahr ist">
