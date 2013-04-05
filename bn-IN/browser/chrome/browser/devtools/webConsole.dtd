@@ -9,9 +9,9 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Web Console">
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!--ENTITY networkPanel.requestURL                  "Request URL"-->
+<!--ENTITY networkPanel.requestMethod               "Request Method"-->
+<!--ENTITY networkPanel.statusCode                  "Status Code"-->
 
 <!ENTITY networkPanel.requestHeaders              "Request Headers">
 <!ENTITY networkPanel.requestCookie               "Sent Cookie">
@@ -33,20 +33,20 @@
 
 <!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
   -  Web Console interface is displayed above the web page. -->
-<!ENTITY positionMenu.above    "Above">
+<!--ENTITY positionMenu.above    "Above"-->
 
 <!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
   -  Web Console interface is displayed below the web page. -->
-<!ENTITY positionMenu.below    "Below">
+<!--ENTITY positionMenu.below    "Below"-->
 
 <!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
   -  Web Console interface is displayed in a floating panel. -->
-<!ENTITY positionMenu.window   "Window">
+<!--ENTITY positionMenu.window   "Window"-->
 
 <!ENTITY filterBox.placeholder "Filter">
 <!ENTITY btnClear.label        "Clear">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
+<!--ENTITY btnClose.tooltip      "Close the Web Console"-->
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -71,11 +71,11 @@
 
 <!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
   -  allows the user to toggle between the Web Console positioning types. -->
-<!ENTITY btnPosition.label     "Position">
+<!--ENTITY btnPosition.label     "Position"-->
 
 <!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
   -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
+<!--ENTITY btnPosition.tooltip   "Position the Web Console above or below the document"-->
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -87,5 +87,13 @@
 <!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
+<!ENTITY copyURLCmd.label     "Copy Link Location">
+<!ENTITY copyURLCmd.accesskey "a">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.accesskey "T">
 
 
