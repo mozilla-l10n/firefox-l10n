@@ -6,25 +6,10 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY back.label "Til baka">
 <!ENTITY forward.label "Áfram">
-<!ENTITY reload.label "Endurnýja">
-<!ENTITY stop.label "Stöðva">
-<!ENTITY go.label "Fara til">
-<!ENTITY star.label "Stjörnumerkt">
-<!ENTITY toggleTabsOnly.label "Alltaf sýna flipa">
-<!ENTITY showTabs.label "Sýna flipa">
 <!ENTITY newtab.label "Nýr flipi">
 <!ENTITY closetab.label "Loka flipa">
-<!ENTITY undoclosetab.label "Afturkalla loka flipa">
-<!ENTITY cut.label "Klippa">
-<!ENTITY copy.label "Afrita">
-<!ENTITY copyAll.label "Afrita allt">
-<!ENTITY copylink.label "Afrita tengil">
-<!ENTITY paste.label "Líma">
-<!ENTITY pasteAndGo.label "Líma og hoppa">
-<!ENTITY delete.label "Eyða">
-<!ENTITY selectAll.label "Velja allt">
-<!ENTITY appbarFindInPage.label "Leita á síðu">
-<!ENTITY appbarViewOnDesktop.label "Skoða á skjáborði">
+<!ENTITY appbarFindInPage2.label "Finna á síðu">
+<!ENTITY appbarViewOnDesktop2.label "Skoða á skjáborði">
 <!ENTITY startTopSitesHeader.label "Efstu vefsvæði">
 <!ENTITY startBookmarksHeader.label "Bókamerki">
 <!ENTITY startHistoryHeader.label "Nýlegir ferlar">
@@ -33,7 +18,6 @@
 <!ENTITY autocompleteSearchesHeader.label "Internet leitir">
  
 
-<!ENTITY selectHelper.done "Ljúka">
 <!ENTITY downloadsHeader.label "Niðurhal">
 <!ENTITY downloadShowPage.label "Fara á síðu">
 <!ENTITY downloadShow2.label "Leita">
@@ -48,14 +32,6 @@
 ">
 <!ENTITY bookmarksHeader.label "Bókamerki">
 <!ENTITY allBookmarks.label "Sýna öll bókamerki">
-<!ENTITY identity.unverifiedsite2 "Þetta vefsvæði hefur ekki sent upplýsingar um eiganda.">
-<!ENTITY identity.connectedTo2 "Tengdur við">
-<!-- Localization note (identity.runBy2)
- The layout of the identity dialog prevents combining this into a single string with
- substitution variables.  If it is difficult to translate the sense of the string
- with that structure, consider a translation which ignores the preceding domain and
- just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "keyrt af">
 <!ENTITY consoleHeader.label "Villugluggi">
 <!ENTITY consoleAll.label "Allir">
 <!ENTITY consoleErrors.label "Villur">
@@ -67,26 +43,26 @@
 <!ENTITY consoleErrFile.label "Upprunarskrá:">
 <!ENTITY consoleErrLine.label "Lína:">
 <!ENTITY consoleErrColumn.label "Dálkur:">
-<!ENTITY contextOpenInNewTab.label "Opna tengil í nýjum flipa">
-<!ENTITY contextViewInNewTab.label "Skoða í nýjum flipa">
-<!ENTITY contextSaveImage.label "Vista mynd">
-<!ENTITY contextSaveImageTo.label "Vista mynd á">
-<!ENTITY contextCopyLink.label "Afrita tengil">
-<!ENTITY contextCopyEmail.label "Afrita póstfang">
-<!ENTITY contextCopyPhone.label "Afrita símanúmer">
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label "Klippa">
+<!ENTITY contextTextCopy.label "Afrita">
+<!ENTITY contextTextPaste.label "Líma">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label "Líma og hoppa">
+<!ENTITY contextTextSelect.label "Velja">
+<!ENTITY contextTextSelectAll.label "Velja allt">
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label "Opna tengil í nýjum flipa">
+<!ENTITY contextCopyLinkHref.label "Afrita tengil">
+<!ENTITY contextBookmarkLinkHref.label "Setja tengil í bókamerki">
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label "Vista mynd í myndasafn">
 <!ENTITY contextCopyImage.label "Afrita mynd">
-<!ENTITY contextShareLink.label "Deila tengli">
-<!ENTITY contextShareImage.label "Deila mynd">
-<!ENTITY contextBookmarkLink.label "Setja tengil í bókamerki">
-<!ENTITY contextSaveVideo.label "Vista myndband">
-<!ENTITY contextSaveVideoTo.label "Vista myndband á">
-<!ENTITY contextShareVideo.label "Deila myndbandi">
-<!ENTITY contextPlayMedia.label "Spila">
-<!ENTITY contextPauseMedia.label "Í bið">
-<!ENTITY contextVideoTab.label "Opna í nýjum flipa">
-<!ENTITY contextEditBookmark.label "Breyta">
-<!ENTITY contextRemoveBookmark.label "Fjarlægja">
-<!ENTITY contextShortcutBookmark.label "Bæta við á heimasvæði">
-<!ENTITY pageactions.password.forget "Gleyma lykilorði">
-<!ENTITY pageactions.reset "Hreinsa stillingar vefsvæðis">
-<!ENTITY pageactions.charEncoding "Stafatöflur">
+<!ENTITY contextCopyImageLocation.label "Afrita staðsetningu myndar">
+<!ENTITY contextOpenImageTab.label "Opna mynd í nýjum flipa">
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label "Vista myndband í myndbandasafn">
+<!ENTITY contextCopyVideoLocation.label "Afrita myndbandatengil">
+<!ENTITY contextOpenVideoTab.label "Opna myndband í nýjum flipa">

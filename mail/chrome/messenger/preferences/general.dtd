@@ -18,6 +18,8 @@
 <!ENTITY showAnimatedAlert.accesskey "g">
 <!ENTITY customizeMailAlert.label "Sérsníða…">
 <!ENTITY customizeMailAlert.accesskey "S">
+<!ENTITY showTrayIcon.label "Sýna sem táknmynd í bakka">
+<!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY play.label "Spila">
 <!ENTITY play.accesskey "S">
 <!ENTITY systemsound.label "Sjálfgefið hljóð fyrir nýjan póst">

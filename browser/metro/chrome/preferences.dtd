@@ -2,18 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.label "Valkostir">
-<!ENTITY aboutHeader.label "Um">
-<!ENTITY aboutHeaderProduct.label "&brandShortName;">
-<!ENTITY aboutHeaderCompany.label "Eftir &vendorShortName;">
-<!ENTITY aboutHeaderPolicy.label "Lesa &brandShortName; friðhelgisreglur á netinu">
-<!ENTITY privacy.title "Friðhelgi og öryggi">
-<!ENTITY doNotTrack.title "Segja vefsvæðum að fylgjast ekki með mér">
-<!ENTITY masterPassword.title "Nota aðallykilorð">
-<!ENTITY clearPrivateData2.title "Hreinsa persónuleg gögn">
+<!-- ## About Flyout Panel ## -->
+<!ENTITY aboutHeader.title "Um">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "Eftir &vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Lesa &brandShortName; friðhelgisreglur á netinu">
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title "Valkostir">
+<!ENTITY optionsHeader.startup.title "Ræsing">
+<!ENTITY optionsHeader.homepage.title "Þegar &brandShortName; ræsist upp, sýna">
+<!ENTITY optionsHeader.homepage.startPage.button "upphafssíða">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "flipar frá seinasta skipti">
+<!ENTITY optionsHeader.tabs.title "Alltaf sýna flipa">
+<!ENTITY optionsHeader.char.title "Stafatöflur">
+<!ENTITY optionsHeader.char.autodetect.label "Skynja sjálfkrafa">
+<!ENTITY optionsHeader.char.options.label "Sýna stafakóðun í forritsflipa">
+<!ENTITY clearPrivateData.title "Hreinsa persónuleg gögn">
+<!ENTITY clearPrivateData.label "Hreinsa vefferil, lykilorð, smákökur, og gögn eyðublaða fyrir tæki">
 <!ENTITY clearPrivateData.button "Hreinsa">
-<!ENTITY rememberPasswords.title "Muna lykilorð">
-<!ENTITY startup.title "Ræsing">
-<!ENTITY homepage.title "Þegar &brandShortName; ræsist upp, sýna">
-<!ENTITY homepage.startPage "Upphafssíða">
-<!ENTITY homepage.sessionRestore "Flipar frá seinasta skipti">
+<!ENTITY clearPrivateData.done "Lokið!">
+<!ENTITY clearPrivateData.history "Vefferill">
+<!ENTITY clearPrivateData.otherdata "Önnur gögn (lykilorð, skyndiminni, smákökur, og fleira)">
+<!ENTITY clearPrivateData.downloadHist "Ferill niðurhals">
+<!ENTITY clearPrivateData.cookies "Smákökur">
+<!ENTITY clearPrivateData.cache "Biðminni">
+<!ENTITY clearPrivateData.sitePref "Stillingar vefsvæðis">
+<!ENTITY clearPrivateData.formSearchHist "Eyðublaða og leitarferill">
+<!ENTITY clearPrivateData.passwords "Vistuð lykilorð">
+<!ENTITY clearPrivateData.offline "Ónettengd vefgögn">
+<!ENTITY clearPrivateData.logins "Virkar innskráningar">
+<!ENTITY optionsHeader.privacy.passwords.label "Muna lykilorð">
+<!ENTITY optionsHeader.privacy.doNotTrack.title "Fylgjast með">
+<!ENTITY optionsHeader.privacy.doNotTrack.label "Segja vefsvæðum að fylgjast ekki með mér">
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->

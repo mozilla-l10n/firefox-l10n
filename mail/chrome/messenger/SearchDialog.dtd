@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Leita í póstum">
 <!ENTITY results.label "Niðurstöður">
-<!ENTITY fileHereMenu.label "Setja skrá hérna">
-<!ENTITY fileHereMenu.accesskey "S">
-<!ENTITY fileButton.label "Skrá">
-<!ENTITY fileButton.accesskey "S">
+<!ENTITY moveHereMenu.label "Flytja hingað">
+<!ENTITY moveHereMenu.accesskey "h">
+<!ENTITY moveButton.label "Færa í">
+<!ENTITY moveButton.accesskey "æ">
 <!ENTITY closeCmd.key "W">
  
 <!ENTITY openInFolder.label "Opna í möppu">
