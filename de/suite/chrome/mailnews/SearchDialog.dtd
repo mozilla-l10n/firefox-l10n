@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "L">
 <!ENTITY searchDialogTitle.label     "Nachrichten durchsuchen">
 <!ENTITY results.label               "Ergebnisse">
-<!ENTITY fileHereMenu.label          "Hier ablegen">
-<!ENTITY fileHereMenu.accesskey      "H">
-<!ENTITY fileButton.label            "Ablegen">
-<!ENTITY fileButton.accesskey        "b">
+<!ENTITY moveHereMenu.label          "Hierher verschieben">
+<!ENTITY moveHereMenu.accesskey      "e">
+<!ENTITY moveButton.label            "Verschieben in">
+<!ENTITY moveButton.accesskey        "V">
 <!ENTITY goToFolderButton.label      "Nachrichten-Ordner öffnen">
 <!ENTITY goToFolderButton.accesskey  "O">
 <!ENTITY saveAsVFButton.label      "Als Suchordner speichern">

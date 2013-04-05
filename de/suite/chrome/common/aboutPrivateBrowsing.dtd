@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.title        "Privater Modus">
 <!-- LOCALIZATION NOTE: The experimental title is temporary -->
 <!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; ist derzeit eine experimentelle Funktion.">
-<!ENTITY privatebrowsingpage.description  "Im privaten Modus wird &brandShortName; keinerlei Cache, Cookies, oder Browser-, Such-, Download- oder Webformular-Chronik anlegen. Allerdings werden alle Lesezeichen, die Sie anlegen, oder Dateien, die Sie herunterladen, beibehalten.">
+<!ENTITY privatebrowsingpage.description  "In einem privaten Fenster wird &brandShortName; keinerlei Festplatten-Cache, Cookies, oder Browser-, Such-, Download- oder Webformular-Chronik anlegen. Allerdings werden heruntergeladene Dateien und Lesezeichen weiterhin gespeichert.">
 <!ENTITY privatebrowsingpage.moreinfo     "Während auf diesem Computer keine Spuren Ihrer Browserchronik gespeichert werden, kann Ihr Internetanbieter oder Ihr Arbeitgeber trotzdem nachverfolgen, welche Seiten Sie besuchen.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Weitere Informationen">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "W">
