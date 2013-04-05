@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegação privada">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Abriu um novo separador privado.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Não tem um separador privado.">
+
+<!ENTITY privatebrowsingpage.description            "Nos separadores privados, o &brandShortName; não guarda qualquer histórico de navegação, histórico de pesquisa, histórico de transferências, histórico de formulários web, cookies, ou ficheiros temporários da internet. No entanto, os ficheiros que transferir ou adicionar aos marcadores serão mantidos.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Embora este dispositivo não tenha uma gravação do seu histórico de navegação, o seu fornecedor de internet pode ainda assim seguir as páginas que visitou.">
