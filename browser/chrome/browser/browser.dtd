@@ -455,6 +455,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Keraskan">
 <!ENTITY mediaUnmute.accesskey       "K">
+<!ENTITY mediaPlaybackRate.label     "Kecepatan Putar">
+<!ENTITY mediaPlaybackRate.accesskey "k">
+<!ENTITY mediaPlaybackRate050x.label "Gerak Lambat (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "L">
+<!ENTITY mediaPlaybackRate100x.label "Normal">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Gerak Cepat (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "C">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Cepaat Sekali (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "a">
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -612,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Tampilkan bilah samping">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Kelola Layanan…">
+
 <!ENTITY social.toggleNotifications.label "Tampilkan notifikasi desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -632,3 +648,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Pelajari lebih lanjut">
 <!ENTITY mixedContentBlocked.moreinfo "Banyak situs web masih dapat bekerja dengan baik walaupun konten ini diblokir.">
+
+
+<!ENTITY pointerLock.notification.message "Tekan ESC kapan saja untuk menampilkannya kembali.">
