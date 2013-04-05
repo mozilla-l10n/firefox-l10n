@@ -65,3 +65,5 @@
 <!-- ENTITY openHelpMac.modifiers            "accel,shift" -->
 <!-- ENTITY openHelpMac.frontendCommandkey   "?" -->
 <!-- ENTITY openHelpMac.frontendModifiers    "accel" -->
+<!ENTITY healthReport.label       "&brandShortName;  স্বাস্থ্য রিপোর্ট">
+<!ENTITY healthReport.accesskey   "e">
