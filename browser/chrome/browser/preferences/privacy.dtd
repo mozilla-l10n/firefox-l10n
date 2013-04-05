@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "ਟਰੈਕਿੰਗ">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.label        "ਸਾਈਟਾਂ ਨੂੰ ਮੇਰੀ ਟਰੈਕ ਹੋਣ ਦੀ ਪਸੰਦ ਬਾਰੇ ਕੁਝ ਨਾ ਦੱਸੋ।">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.label       "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਹੈ।">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.label          "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਹੋਣਾ ਹੈ">
 <!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Learn More">
+<!ENTITY doNotTrackInfo.label           "ਹੋਰ ਜਾਣੋ">
 
 <!ENTITY  history.label                 "ਅਤੀਤ">
 
@@ -82,6 +82,6 @@
 <!ENTITY  clearOnClose.label             "ਜਦੋਂ &brandShortName; ਬੰਦ ਹੋਵੇ ਤਾਂ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  clearOnClose.accesskey         "w">
 
-<!ENTITY  clearOnCloseSettings.label     "ਸੈਟਿੰਗ…">
+<!ENTITY  clearOnCloseSettings.label     "…ਸੈਟਿੰਗ">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 

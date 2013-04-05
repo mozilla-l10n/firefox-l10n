@@ -284,8 +284,8 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY clearRecentHistory.label               "…ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearRecentHistory.accesskey           "H">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
@@ -320,12 +320,12 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "ਬਿਨ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ">
 <!ENTITY appMenuWebDeveloper.label "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY appMenuGettingStarted.label "ਸ਼ੁਰੂਆਤ">
-<!ENTITY appMenuSafeMode.label "ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ ਚਲਾਓ…">
+<!ENTITY appMenuSafeMode.label "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ ਚਲਾਓ">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈੱਸ ਦਿਉ">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ਟੈਬ ਉੱਤੇ ਜਾਓ:">
 
@@ -430,9 +430,9 @@ can reach it easily. -->
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "…ਆਡੀਓ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.label          "ਇਹ ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰੋ">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.label          "ਇਹ ਪਲੱਗਇਨ ਓਹਲੇ ਕਰੋ">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -591,8 +591,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "…ਹੋਰ ਜਾਣਕਾਰੀ">
 
-
-<!ENTITY allTabs.filter.emptyText "ਟੈਬ ਖੋਜ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਟੈਬ">
@@ -654,5 +652,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "ਕੈਮਰਾ/ਮਾਈਕਰੋਫੋਨ ਵਰਤੋਂ">
 <!ENTITY webrtcIndicatorButton.tooltip "ਸਾਈਟਾਂ ਵੇਖਾਉਂਦਾ ਹੈ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਤੁਸੀਂ ਆਪਣਾ ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫੋਨ ਇਸ ਸਮੇਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.helplink "ਹੋਰ ਜਾਣੋ">
+<!ENTITY mixedContentBlocked.moreinfo "ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨਾ ਜਾਰੀ ਰੱਖਦੀਆਂ ਹਨ, ਭਾਵੇਂ ਕਿ ਇਹ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾਵੇ।">
