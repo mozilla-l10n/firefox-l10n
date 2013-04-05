@@ -135,11 +135,15 @@
 
 <!-- ENTITY webConsoleCmd.label          "ওয়েব কনসোল" -->
 <!-- ENTITY webConsoleCmd.accesskey      "W" -->
-<!ENTITY webConsoleCmd.commandkey     "k">
+<!--ENTITY webConsoleCmd.commandkey     "k"-->
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 <!-- ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display." -->
-
+<!ENTITY reloadAndRun.label           "পুনঃ লোড করুন এবং চালান">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
+<!ENTITY revertCmd.label              "প্রত্যাবর্তন করুন…">
+<!ENTITY revertCmd.accesskey          "t">
