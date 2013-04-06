@@ -130,10 +130,11 @@
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copiar dirección">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Suscribirse a la página">
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
-<!ENTITY bookmark_edit_location "Ubicación">
+<!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY site_settings_title2 "Configuración del sitio…">
 <!ENTITY site_settings_cancel "Cancelar">
