@@ -6,7 +6,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Søg efter opdateringer »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">
-<!ENTITY aboutPage.checkForUpdates.found        "Opdatering klar">
+<!ENTITY aboutPage.checkForUpdates.available    "Opdatering klar; klik for at hente">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Henter opdatering…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Opdatering hentet; klik for at installere">
 <!ENTITY aboutPage.faq.label                    "Ofte stillede spørgsmål">
 <!ENTITY aboutPage.support.label                "Support">
 <!ENTITY aboutPage.privacyPolicy.label          "Privatlivspolitik">
