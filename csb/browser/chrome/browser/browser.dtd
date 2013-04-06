@@ -653,6 +653,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mediaPlaybackRate150x.accesskey "h">
 <!ENTITY pointerLock.notification.message "Wcësnij ESC bë wëskrzënic wiadło jesz rôz.">
 
+<!ENTITY mediaPlaybackRate200x.label "Szalonô chùtkòsc (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "z">
+
 
 
 
