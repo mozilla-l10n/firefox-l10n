@@ -12,11 +12,11 @@
 <!ENTITY caseSensitiveCheckbox.label "Coincidencia de mayúsculas/minúsculas">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">
 <!ENTITY wrapCheckbox.label "Buscar en todo el documento">
-<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY wrapCheckbox.accesskey "t">
 <!ENTITY backwardsCheckbox.label "Buscar hacia atrás">
 <!ENTITY backwardsCheckbox.accesskey "B">
 <!ENTITY findNextButton.label "Buscar siguiente">
-<!ENTITY findNextButton.accesskey "B">
+<!ENTITY findNextButton.accesskey "s">
 <!ENTITY replaceButton.label "Reemplazar">
 <!ENTITY replaceButton.accesskey "R">
 <!ENTITY replaceAndFindButton.label "Reemplazar y buscar">

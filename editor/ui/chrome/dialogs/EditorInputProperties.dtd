@@ -38,13 +38,13 @@
 <!ENTITY tabIndex.label "Índice de tabulación:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY TextSize.label "Tamaño de campo:">
-<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextSize.accesskey "m">
 <!ENTITY TextLength.label "Longitud máxima:">
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "Tecla de acceso:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "T">
 <!ENTITY Accept.label "Accept Types:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Propiedades de imagen...">
+<!ENTITY ImageProperties.label "Propiedades de imagen…">
 <!ENTITY ImageProperties.accesskey "E">
