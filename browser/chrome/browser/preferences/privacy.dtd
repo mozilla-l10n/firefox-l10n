@@ -27,7 +27,7 @@
 <!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-<!ENTITY  acceptThirdParty.pre.label      "Terima kukih dari pihak ketiga:">
+<!ENTITY  acceptThirdParty.pre.label      "Terima kuki dari pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "d">
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
 <!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
