@@ -13,4 +13,4 @@
 <!ENTITY restoreDefaultSet.label  "Kembalikan ke Kelompok Bawaan">
 <!ENTITY addNewToolbar.label      "Tambah Bilah Alat Baru">
 <!ENTITY saveChanges.label        "Selesai">
-<!ENTITY undoChanges.label        "Batalkan Perubahan">
+<!ENTITY undoChanges.label        "Urungkan Perubahan">
