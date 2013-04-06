@@ -7,7 +7,7 @@
 <!ENTITY dntTrackingNopref.label        "Jangan beri tahu situs tentang pengaturan pelacakan saya.">
 <!ENTITY dntTrackingNopref.accesskey    "j">
 <!ENTITY dntTrackingNotOkay.label       "Beritahukan situs bahwa saya tidak ingin dilacak.">
-<!ENTITY dntTrackingNotOkay.accesskey   "e">
+<!ENTITY dntTrackingNotOkay.accesskey   "s">
 <!ENTITY dntTrackingOkay.label          "Beritahukan situs bahwa saya ingin dilacak.">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Pelajari Selengkapnya">
