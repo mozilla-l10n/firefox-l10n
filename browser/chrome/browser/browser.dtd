@@ -306,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Sunting">
+<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Ubahsuai">
 <!ENTITY appMenuToolbarLayout.label "Tata Letak Bilah Alat…">
 <!ENTITY appMenuSidebars.label "Bilah Samping">
