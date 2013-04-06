@@ -56,10 +56,12 @@
 <!ENTITY permImage "Cargar imágenes">
 <!ENTITY permPopup "Abrir ventanas emergentes">
 <!ENTITY permCookie "Establecer cookies">
+<!ENTITY permNotifications "Mostrar notificaciones">
 <!ENTITY permInstall "Instalar extensiones o temas">
 <!ENTITY permGeo "Compartir ubicación">
 <!ENTITY permPlugins "Activar plugins">
 <!ENTITY permFullscreen "Entrar a la pantalla completa">
+<!ENTITY permPointerLock "Ocultar el cursor del ratón">
 <!ENTITY permIndexedDB "Mantener almacenamiento en modo sin conexión">
 <!ENTITY permClearStorage "Limpiar almacenamiento">
 <!ENTITY permClearStorage.accesskey "c">

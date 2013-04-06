@@ -88,7 +88,7 @@
 <!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
-<!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
+<!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
@@ -133,7 +133,7 @@
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
-<!ENTITY bookmark_edit_location "Ubicación">
+<!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY site_settings_title2 "Configuración del sitio…">
 <!ENTITY site_settings_cancel "Cancelar">
