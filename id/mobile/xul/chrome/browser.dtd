@@ -72,7 +72,7 @@
 
 <!ENTITY bookmarkPopup.label       "Laman ini dimarkahi">
 <!ENTITY bookmarkRemove.label      "Hapus">
-<!ENTITY bookmarkEdit.label        "Sunting">
+<!ENTITY bookmarkEdit.label        "Edit">
 <!ENTITY bookmarkShortcut.label    "Tambahkan ke Layar Beranda">
 
 <!ENTITY identity.unverifiedsite2 "Situs web ini tidak menyediakan informasi identitas.">
