@@ -31,7 +31,7 @@
 
 <!ENTITY saveButton.label           "Guardar">
 <!ENTITY saveButton.tooltip         "Guardar esta hoja de estilo en un archivo">
-<!ENTITY saveButton.accesskey       "s">
+<!ENTITY saveButton.accesskey       "G">
 <!ENTITY saveButton.commandkey      "s">
 
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item

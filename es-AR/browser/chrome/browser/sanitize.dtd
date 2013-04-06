@@ -36,13 +36,13 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Historial de descargas y navegación">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemBrowsingHistory.label         "Historial de navegación">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
+<!ENTITY itemBrowsingHistory.accesskey     "H">
 <!ENTITY itemFormSearchHistory.label       "Historial de búsquedas y formularios">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Contraseñas guardadas">
-<!ENTITY itemPasswords.accesskey           "P">
+<!ENTITY itemPasswords.accesskey           "g">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Caché">
@@ -52,9 +52,9 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.label         "Historial de descargas">
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemActiveLogins.label            "Sesiones activas">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "e">
 <!ENTITY itemSitePreferences.label         "Configuración específica del sitio">
-<!ENTITY itemSitePreferences.accesskey     "S">
+<!ENTITY itemSitePreferences.accesskey     "s">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
