@@ -280,13 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
 <!ENTITY clearRecentHistory.label               "Slett nyleg historikk …">
-<!ENTITY clearRecentHistory.accesskey           "e">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Start privat nettlesing">
-<!ENTITY privateBrowsingCmd.start.accesskey     "a">
-<!ENTITY privateBrowsingCmd.stop.label          "Avslutt privat nettlesing">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "A">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "S">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Gå til ein nettstad">
+<!ENTITY urlbar.placeholder2          "Search or enter address">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "n">
 <!ENTITY emailAudioCmd.label          "Send lyd …">
 <!ENTITY emailAudioCmd.accesskey      "n">
+<!ENTITY playPluginCmd.label          "Aktiver dette programtillegget">
+<!ENTITY playPluginCmd.accesskey      "A">
+<!ENTITY hidePluginCmd.label          "Skjul dette programtillegget">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
@@ -587,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Meir informasjon …">
 
-<!ENTITY allTabs.filter.emptyText "Søkefaner">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettlesarfaner">
@@ -632,3 +629,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Kamera/mikrofontilgang">
 <!ENTITY webrtcIndicatorButton.tooltip "Viser nettstad som du deler kamera eller mikrofonen med">
+
+<!ENTITY mixedContentBlocked.helplink "Les meir">
+<!ENTITY mixedContentBlocked.moreinfo "Dei fleste nettstadar vil framleis fungere rett sjølv om dette innhaldet er blokkert.">

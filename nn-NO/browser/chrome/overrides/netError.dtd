@@ -142,8 +142,8 @@ mellombels, og du kan prøve på nytt seinare.</li>
 ">
 
 <!ENTITY malwareBlocked.title "Mistenkt åtaksnettstad!">
-<!ENTITY malwareBlocked.longDesc "<p>Åtaksnettstader kan prøve å installere program som stel privat informasjon, brukar datamaskina di til å angripe andre, eller skade datamaskina di.</p>
-<p>Eigarar av nettstader som meiner at sida deira feilaktig er rapportert som ei åtaksside, kan <a href='http://www.stopbadware.org/home/reviewinfo' >krevje ei ny vurdering</a>.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Åtaksnettstadar kan prøve å installere program som stel privat informasjon, brukar datamaskina di til å angripe andre, eller skade datamaskina di.</p>
+<p>Eigarar av nettstadar som meiner at sida deira feilaktig er rapportert som ei åtaksside, kan <a href='http://www.stopbadware.org/home/reviewinfo' >krevje ei ny vurdering</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
