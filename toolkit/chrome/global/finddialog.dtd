@@ -14,7 +14,7 @@
 <!ENTITY findButton.label "Søk">
 <!ENTITY findButton.accesskey "S">
 <!ENTITY cancelButton.label "Avbryt">
-<!ENTITY closeButton.label "Lat att">
+<!ENTITY closeButton.label "Lukk">
 <!ENTITY up.label "Oppover">
 <!ENTITY up.accesskey "O">
 <!ENTITY down.label "Nedover">

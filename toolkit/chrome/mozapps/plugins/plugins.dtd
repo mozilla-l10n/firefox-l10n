@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Eit programtillegg trengs for å vise dette innhaldet.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Trykk her for å aktivere programtillegg.">
-<!ENTITY clickToPlayPlugin                                   "Trykk her for å aktivere programtillegg.">
+<!ENTITY clickToActivatePlugin                               "Aktiver programtillegg.">
 <!ENTITY checkForUpdates                                     "Sjå etter oppdateringar …">
 <!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Krasjrapportering er avslått.">
 <!ENTITY report.failed                                       "Sending feila.">
 <!ENTITY report.unavailable                                  "Ingen rapport er tilgjengeleg.">
+<!ENTITY report.comment                                      "Legg til ein kommentar (kommentarar er offentleg synlege)">
+<!ENTITY report.pageURL                                      "Inkluder URL-en til denne sida">
 
 <!ENTITY plugin.file                                         "Fil">
-<!ENTITY plugin.mimeTypes                                    "MIME typar">
+<!ENTITY plugin.mimeTypes                                    "MIME-typar">

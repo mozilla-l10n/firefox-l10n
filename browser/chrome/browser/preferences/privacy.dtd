@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Sporing">
 
-<!ENTITY doNotTrack.label               "Informer nettstader om at eg ikkje ønskjer å bli spora">
-<!ENTITY doNotTrack.accesskey           "o">
+<!ENTITY dntTrackingNopref.label        "Ikkje fortel nettstadar noko om sporingsønskja mine.">
+<!ENTITY dntTrackingNopref.accesskey    "k">
+<!ENTITY dntTrackingNotOkay.label       "Fortel nettstadar at eg ikkje ønskjer å verte spora.">
+<!ENTITY dntTrackingNotOkay.accesskey   "o">
+<!ENTITY dntTrackingOkay.label          "Fortel nettstadar at eg ønskjer å verte spora.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Les meir">
 
 <!ENTITY  history.label                 "Historikk">
 
@@ -25,7 +30,7 @@
 <!ENTITY  acceptThirdParty.label        "Tillat tredjeparts infokapslar">
 <!ENTITY  acceptThirdParty.accesskey    "r">
 
-<!ENTITY  keepUntil.label               "Behald til:">
+<!ENTITY  keepUntil.label               "Behald dei til:">
 <!ENTITY  keepUntil.accesskey           "e">
 
 <!ENTITY  expire.label                  "dei går ut på dato">

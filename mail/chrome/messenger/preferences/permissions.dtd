@@ -21,6 +21,6 @@
 <!ENTITY allow.accesskey              "T">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Lat att">
+<!ENTITY button.close.label           "Lukk">
 <!ENTITY button.close.accesskey       "L">
 

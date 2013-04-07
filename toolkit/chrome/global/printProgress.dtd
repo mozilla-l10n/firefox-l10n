@@ -10,7 +10,7 @@
 <!ENTITY printComplete "Utskrifta er ferdig.">
 
 <!ENTITY dialogCancel.label "Avbryt"> 
-<!ENTITY dialogClose.label "Lat att">
+<!ENTITY dialogClose.label "Lukk">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 

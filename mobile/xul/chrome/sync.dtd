@@ -27,5 +27,5 @@
 
 <!ENTITY sync.pair.title            "Knyt til ei eining">
 <!ENTITY sync.pair.description      "For å aktivere den andre eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
-<!ENTITY sync.setup.close           "Lat att">
+<!ENTITY sync.setup.close           "Lukk">
 <!ENTITY sync.setup.waitingdownload "Dine data vert no lasta ned i bakgrunnen. Du kan lukke dette vindauget når som helst.">

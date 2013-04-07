@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
 
+<!ENTITY filterActionOrderWarning.label "Merk: Filterhandlingar vert køyrd i ei anna rekkjefølgje">
+<!ENTITY filterActionOrder.label "Sjå utføringsrekkjefølgje">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Flytt melding til">
 <!ENTITY copyMessage.label "Kopier melding til">

@@ -17,4 +17,4 @@
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "Tillat &searchIntegration.engineName; å søke i meldingar">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.accesskey "T">
