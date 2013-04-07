@@ -33,7 +33,7 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; ist derzeit der Standardbrowser">
 
-<!ENTITY dataChoicesTab.label            "Datenübermittelung">
+<!ENTITY dataChoicesTab.label            "Datenübermittlung">
 
 <!ENTITY healthReportSection.label       "&brandShortName;-Statusbericht">
 <!ENTITY healthReportDesc.label          "Hilft beim Verstehen Ihrer Browser-Leistung und übermittelt Daten über den Browserstatus an &vendorShortName;.">
