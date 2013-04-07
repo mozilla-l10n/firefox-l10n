@@ -13,7 +13,7 @@
 
 <!ENTITY showTabs.label        "Vis faner">
 <!ENTITY newtab.label          "Ny fane">
-<!ENTITY closetab.label        "Lat att fane">
+<!ENTITY closetab.label        "Lukk fane">
 
 <!ENTITY cut.label             "Klipp ut">
 <!ENTITY copy.label            "Kopier">

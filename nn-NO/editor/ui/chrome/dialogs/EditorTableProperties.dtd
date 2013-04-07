@@ -5,7 +5,7 @@
 <!ENTITY tableWindow.title                "Tabelleigenskapar">
 <!ENTITY applyButton.label                "Bruk">
 <!ENTITY applyButton.accesskey            "B">
-<!ENTITY closeButton.label                "Lat att">
+<!ENTITY closeButton.label                "Lukk">
 <!ENTITY tableTab.label                   "Tabell">
 <!ENTITY cellTab.label                    "Celler">
 <!ENTITY tableRows.label                  "Rader:">

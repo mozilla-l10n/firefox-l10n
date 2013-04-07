@@ -318,7 +318,7 @@
 <!ENTITY calendar.publish.dialog.title              "Publiser kalender">
 <!ENTITY calendar.publish.url.label                 "Adresse">
 <!ENTITY calendar.publish.publish.button      "Publiser">
-<!ENTITY calendar.publish.close.button      "Lat att">
+<!ENTITY calendar.publish.close.button      "Lukk">
 
 <!ENTITY calendar.publish.example.url.description   "til dømes http://www.myserver.com/webdav/test.ics">
 

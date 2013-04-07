@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Fjern avkryssinga i denne boksen om du vil lagre e-post i eiga mappe. Kontoen vil då vere synleg i mappelista øvst oppe. Dersom det er kryssa av i boksen vil kontoen vere ein del av «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "B">
-<!ENTITY clickFinish.label "Trykk Fullfør for å lagre innstillingane og late att konto-vegvisaren.">
-<!ENTITY clickFinish.labelMac "Trykk Fullfør for å lagre innstillingane og late att konto-vegvisaren.">
+<!ENTITY clickFinish.label "Trykk Fullfør for å lagre innstillingane og lukke konto-vegvisaren.">
+<!ENTITY clickFinish.labelMac "Trykk Fullfør for å lagre innstillingane og lukke konto-vegvisaren.">

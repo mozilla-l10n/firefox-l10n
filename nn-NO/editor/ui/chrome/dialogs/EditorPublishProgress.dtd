@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL-en til området:">
+<!ENTITY siteUrl.label         "Område-URL:">
 <!ENTITY docSubdir.label       "Undermappe for sider:">
 <!ENTITY otherSubdir.label     "Undermappe for bilde:">
 
@@ -12,5 +12,5 @@
 <!ENTITY succeeded.label       "Lykkast">
 <!ENTITY failed.label          "Mislykkast">
 
-<!ENTITY keepOpen              "Hald dette vindauget ope etter at publiseringa er fullført.">
-<!ENTITY closeButton.label     "Lat att">
+<!ENTITY keepOpen              "Ikkje lukk dette vindauget etter at publiseringa er fullført.">
+<!ENTITY closeButton.label     "Lukk">
