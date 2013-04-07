@@ -48,7 +48,7 @@
 <!ENTITY proxy.label                                    "Innstillingar for mellomtenar …">
 <!ENTITY proxy.accesskey                                "m">
 
-<!ENTITY closeCmd.label      "Lat att">
+<!ENTITY closeCmd.label      "Lukke">
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "L">
 

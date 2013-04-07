@@ -8,5 +8,5 @@
 <!ENTITY clearLog.accesskey "T">
 <!ENTITY enableLog.label "Slå på filterlogg">
 <!ENTITY enableLog.accesskey "S">
-<!ENTITY closeLog.label "Lat att">
+<!ENTITY closeLog.label "Lukk">
 <!ENTITY closeLog.accesskey "L">

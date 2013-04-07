@@ -18,7 +18,7 @@
 
 <!ENTITY calendar.events.filter.all.label "Alle hendingar">
 <!ENTITY calendar.events.filter.today.label "Hendingar i dag">
-<!ENTITY calendar.events.filter.future.label "Alle hendingar i framtida">
+<!ENTITY calendar.events.filter.future.label "Alle framtidige hendingar">
 <!ENTITY calendar.events.filter.current.label "Vald dag">
 <!ENTITY calendar.events.filter.currentview.label "Hendingar i denne visinga">
 <!ENTITY calendar.events.filter.next7Days.label "Hendingar dei neste 7 dagane">
@@ -47,15 +47,15 @@
 <!ENTITY calendar.unifinder.tree.location.label          "Stad">
 <!ENTITY calendar.unifinder.tree.location.tooltip        "Trykk for å sortere etter stad">
 <!ENTITY calendar.unifinder.tree.status.label            "Status">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Click to sort by Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Trykk for å sortere etter status">
 <!ENTITY calendar.unifinder.tree.calendarname.label      "Kalendernamn">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Trykk for å sortere etter kalendernamn">
-<!ENTITY calendar.unifinder.tree.duration.label          "Forfell om">
+<!ENTITY calendar.unifinder.tree.duration.label          "Forfall om">
 <!ENTITY calendar.unifinder.tree.duration.tooltip        "Trykk for å sortere etter forfall">
-<!ENTITY calendar.unifinder.close.tooltip                "Lèt att hendingssøk og hendingsliste">
+<!ENTITY calendar.unifinder.close.tooltip                "Lukkar hendingssøk og hendingsliste">
 
 <!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
-<!ENTITY calendar.todaypane.button.tooltip      "Vis i dag-ruta" >
+<!ENTITY calendar.todaypane.button.tooltip      "Vis i dagvisinga" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
@@ -69,7 +69,7 @@
 <!ENTITY calendar.nextweek.label                "Neste veke" >
 <!ENTITY calendar.prevweek.label                "Førre veke" >
 <!ENTITY calendar.nextweek.accesskey            "e" >
-<!ENTITY calendar.prevweek.accesskey            "ø" >
+<!ENTITY calendar.prevweek.accesskey            "i" >
 <!ENTITY calendar.nextmonth.label               "Neste månad" >
 <!ENTITY calendar.prevmonth.label               "Førre månad" >
 <!ENTITY calendar.nextmonth.accesskey           "s" >
@@ -129,7 +129,7 @@
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Gjeldande oppgåver">
 <!ENTITY calendar.task.filter.current.accesskey     "G">
-<!ENTITY calendar.task.filter.repeating.label       "Gjentakande oppgåver">
+<!ENTITY calendar.task.filter.repeating.label       "Repeterande oppgåver">
 <!ENTITY calendar.task.filter.repeating.accesskey   "e">
 
 <!ENTITY calendar.task-details.title.label           "tittel">
@@ -146,7 +146,7 @@
 <!ENTITY calendar.task-details.due.label             "innan">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
-<!ENTITY calendar.task.complete.button.tooltip  "Merk valde oppgåver som fullførde">
+<!ENTITY calendar.task.complete.button.tooltip  "Merk valde oppgåver som fullførte">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgåver … #1">
@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.refreshInterval.label          "Oppdater kalenderen:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manuelt">
 <!ENTITY calendarproperties.name.label                     "Namn:">
-<!ENTITY calendarproperties.readonly.label                 "Skriveverna">
+<!ENTITY calendarproperties.readonly.label                 "Skrivebeskytta">
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
 <!ENTITY calendarproperties.cache3.label                   "Fråkopla støtte">
 <!ENTITY calendarproperties.enabled.label                  "Slå på denne kalenderen">

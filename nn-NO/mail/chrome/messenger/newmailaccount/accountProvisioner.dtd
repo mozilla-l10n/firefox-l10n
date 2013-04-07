@@ -35,7 +35,7 @@
 <!ENTITY successful.customize.desc "Der finst tusenvis av utvidingar som lèt deg tilpasse &brandShortName; til dine behov.">
 <!ENTITY successful.attach "Legg ved ein personleg signatur i e-posten">
 <!ENTITY successful.attach.desc "Du kan automatisk leggje ved eit sitat eller informasjon om deg sjølv på slutten av kvar melding du sender.">
-<!ENTITY successful.close "Lat att dete vindauget.">
+<!ENTITY successful.close "Lukk dete vindauget.">
 <!ENTITY input.namePlaceholder "Namnet ditt, eller kallenamnet">
 <!ENTITY input.search "Søk">
 <!ENTITY search_engine.title "Tilpass søkjemotor">

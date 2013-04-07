@@ -12,7 +12,6 @@
 <!ENTITY  awesomebar_all_pages_title "Øvste nettstad">
 <!ENTITY  awesomebar_bookmarks_title "Bokmerke">
 <!ENTITY  awesomebar_history_title "Historikk">
-<!ENTITY  awesomebar_search_engine "Søk etter \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message "&brandShortName; har krasja. Faner vil listast opp på startsida til &brandShortName; når du startar på nytt.">
@@ -45,6 +44,8 @@
 <!ENTITY history_week_section "7 dagar sidan">
 <!ENTITY history_older_section "Eldre enn 7 dagar">
 
+<!ENTITY go "Go">
+<!ENTITY search "Søk">
 <!ENTITY reload "Last på nytt">
 <!ENTITY forward "Fram">
 <!ENTITY menu "Meny">
@@ -52,12 +53,11 @@
 <!ENTITY stop "Stopp">
 <!ENTITY site_security "Nettstadstryggleik">
 
-<!ENTITY close_tab "Lat att fane">
-<!ENTITY new_tab "Ny fane">
+<!ENTITY close_tab "Lukk fane">
 <!ENTITY one_tab "1 fane">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d faner">
+<!ENTITY num_tabs2 "&formatD; faner">
 <!ENTITY new_tab_opened "Ny fane opna">
 
 <!ENTITY settings "Innstillingar">
@@ -70,7 +70,12 @@
 <!ENTITY pref_do_not_track "Be nettsider om å ikkje spore meg">
 <!ENTITY pref_telemetry "Send ytingsdata">
 <!ENTITY pref_remember_signons "Hugs passord">
-<!ENTITY pref_cookies "Slå på infokapslar">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_disabled "Disabled">
+
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
@@ -80,23 +85,41 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spele av">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststorleik">
+<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
 <!ENTITY pref_font_size_large "Stor">
 <!ENTITY pref_font_size_xlarge "Ekstra stor">
+<!ENTITY pref_font_size_set "Set">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
+<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
 <!ENTITY pref_import_android "Import frå Android">
 <!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
-<!ENTITY pref_private_data_cookies "Infokapslar">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Lagra passord">
 <!ENTITY pref_private_data_cache "Snøgglager">
-<!ENTITY pref_private_data_sessions "Aktive innloggingar">
 <!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
 <!ENTITY pref_private_data_siteSettings "Nettstadinnstillingar">
+
+<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_enabled "Enabled">
 
 <!ENTITY quit "Avslutt">
 
@@ -111,15 +134,27 @@
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY find_in_page "Finn på sida">
 <!ENTITY desktop_mode "Be om desktop-nettstad">
+<!ENTITY tools "Tools">
+<!ENTITY new_tab "Ny fane">
+<!ENTITY new_private_tab "New Private Tab">
+<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY tabs_normal "Tabs">
+<!ENTITY tabs_private "Private">
+<!ENTITY tabs_synced "Synced">
+<!ENTITY wallpaper_success "Wallpaper updated">
+<!ENTITY wallpaper_progress "Setting wallpaper">
+<!ENTITY wallpaper_fail "Unable to set wallpaper">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Finn på sida">
 <!ENTITY find_prev "Førre">
 <!ENTITY find_next "Neste">
-<!ENTITY find_close "Lat att">
+<!ENTITY find_close "Lukk">
 
 <!ENTITY contextmenu_open_new_tab "Opne i ny fane">
+<!ENTITY contextmenu_open_private_tab "Opne i privat fane">
+<!ENTITY contextmenu_open_in_reader "Opne i Reader">
 <!ENTITY contextmenu_remove_history "Slett">
 <!ENTITY contextmenu_remove_bookmark "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
@@ -129,8 +164,6 @@
 <!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Sida fjerna">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
@@ -138,7 +171,7 @@
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nøkkelord">
 
-<!ENTITY site_settings_title        "Tøm nettstadsinnstillingar">
+<!ENTITY site_settings_title2       "Site Settings…">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerne.">
@@ -147,7 +180,7 @@
 <!ENTITY reading_list_added "Sida er lagt til i leselista">
 <!ENTITY reading_list_removed "Sida er fjerna frå leselista">
 <!ENTITY reading_list_failed "Klarte ikkje å legge til sida i lesestilen">
-<!ENTITY reader_mode "Lesemodus">
+<!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Lag eit hovudpassord">
 <!ENTITY masterpassword_remove_title "Fjern hovudpassordet">
@@ -156,17 +189,34 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
+<!ENTITY button_yes "Yes">
+<!ENTITY button_no "No">
 <!ENTITY button_clear_data "Tøm data">
+<!ENTITY button_set "Set">
+<!ENTITY button_clear "Clear">
 
 <!ENTITY abouthome_addons_title "Utvidingar for din &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bla gjennom alle &brandShortName;-utvidingane">
 <!ENTITY abouthome_last_tabs_title "Faner frå førre gong">
 <!ENTITY abouthome_last_tabs_open "Opne alle faner frå førre gong">
 <!ENTITY abouthome_top_sites_title "Øvste nettstad">
-<!ENTITY abouthome_top_sites_browse "Bla gjennom alle dei øvste nettstadene">
-<!ENTITY abouthome_no_top_sites "Du har ingen øvste nettstader enno. Trykk på tittellinja for å starte og bruke nettet.">
-<!ENTITY abouthome_about_sync "Sett opp Firefox Sync for å hente bokmerke, historikk og faner frå dei andre einingane dine">
+<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_pin "Pin Site">
+<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
+     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
+     clicking this text in the promotions box will perform some action. Note
+     that a non-breaking space (unicode= U+00A0) should be used between this
+     character and the remainder of the string to prevent word wrap. -->
+<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
+     These strings are accentuated as bold text in the "abouthome_about_..."
+     strings above. These strings should be a subset of the strings above and
+     generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Vel fil">
 <!ENTITY filepicker_audio_title "Vel eller spel inn ein lyd">
@@ -200,4 +250,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          frå Android">
 <!ENTITY bookmarkhistory_import_wait "Vent …">
 
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+
 <!ENTITY webapp_generic_name "App">
+
+<!ENTITY searchable_description "Bookmarks and history">
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Update available for &brandShortName;">
+<!ENTITY updater_start_select2 "Touch to download">
+
+<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Download failed">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "Touch to retry">
+
+<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
+<!ENTITY updater_apply_select2 "Touch to update">

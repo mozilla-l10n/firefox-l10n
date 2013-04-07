@@ -11,5 +11,5 @@
 <!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">
-<!ENTITY identitiesListClose.label "Lat att">
+<!ENTITY identitiesListClose.label "Lukk">
 <!ENTITY identitiesListClose.accesskey "a">

@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Bruk Mac OS X adressebok">
 <!ENTITY osxAddressBook.accesskey                       "r">
-<!ENTITY closeCmd.label                                 "Lat att">
+<!ENTITY closeCmd.label                                 "Lukk">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "L">
 <!ENTITY printSetupCmd.label                            "Utskriftsformat …">

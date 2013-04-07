@@ -59,7 +59,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Lat att meldingsvindauge/fane ved flytting eller sletting">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Lukk meldingsvindauge/fane ved flytting eller sletting">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
