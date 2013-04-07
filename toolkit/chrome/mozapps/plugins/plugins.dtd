@@ -27,7 +27,7 @@
 <!ENTITY missingPlugin                                       "ਇਹ ਸਮੱਗਰੀ ਵੇਖਾਉਣ ਲਈ ਪਲੱਗਇਨ ਦੀ ਲੋੜ ਹੈ।">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ।">
-<!ENTITY clickToPlayPlugin                                   "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">
+<!ENTITY clickToActivatePlugin                               "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰੋ">
 <!ENTITY checkForUpdates                                     "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
 <!ENTITY disabledPlugin                                      "ਇਹ ਪਲੱਗਇਨ ਬੰਦ ਕੀਤੀ ਹੈ।">
 <!ENTITY blockedPlugin.label                                 "ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ  ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
@@ -60,6 +60,7 @@
 <!ENTITY report.disabled                                     "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਣੀ ਆਯੋਗ ਹੈ।">
 <!ENTITY report.failed                                       "ਭੇਜਣ ਲਈ ਫੇਲ੍ਹ ਹੈ।">
 <!ENTITY report.unavailable                                  "ਰਿਪੋਰਟ ਉਪਲੱਬਧ ਨਹੀਂ">
-
+<!ENTITY report.comment                                      "ਟਿੱਪਣੀ ਕਰੋ (ਟਿੱਪਣੀਆਂ ਪਬਲਿਕ ਹੁੰਦੀਆਂ ਹਨ)">
+<!ENTITY report.pageURL                                      "ਸਫ਼ਾ URL ਸਮੇਤ">
 <!ENTITY plugin.file                                         "ਫਾਇਲ">
 <!ENTITY plugin.mimeTypes                                    "MIME ਕਿਸਮਾਂ">
