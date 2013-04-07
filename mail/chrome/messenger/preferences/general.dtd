@@ -20,6 +20,9 @@
 <!ENTITY customizeMailAlert.label         "Tilpas…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
+<!ENTITY showTrayIcon.label               "Vis ikon i systembakken">
+<!ENTITY showTrayIcon.accesskey           "V">
+
 <!ENTITY play.label                       "Afspil">
 <!ENTITY play.accesskey                   "A">
 <!ENTITY systemsound.label                "Standard systemlyd ved modtagelse af ny mail">

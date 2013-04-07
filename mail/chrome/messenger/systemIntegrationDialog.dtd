@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Systemintegration">
 <!ENTITY acceptIntegration.label  "Angiv som standard">
 <!ENTITY cancelIntegration.label  "Undlad integration">
+<!ENTITY cancelIntegration2.label  "Fortryd">
 <!ENTITY defaultClient.intro  "Brug &brandShortName; som standardprogram til:">
 
 <!ENTITY email.label "Mail">

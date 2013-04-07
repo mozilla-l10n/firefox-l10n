@@ -437,12 +437,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Vis korrespondance i tråd">
 <!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "å">
-<!ENTITY openFeedMessage.label "Åbn feed-meddelelse">
-<!ENTITY openFeedMessage.accesskey "b">
-<!ENTITY openFeedWebPageInWindow.label "Som hjemmeside i et nyt vindue">
-<!ENTITY openFeedWebPageInWindow.accesskey "h">
-<!ENTITY openFeedSummaryInWindow.label "Som sammendrag i et nyt vindue">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "Ved åbning af feed-meddelelser">
+<!ENTITY openFeedMessage1.accesskey "b">
+<!ENTITY openFeedWebPage.label "Åbn som hjemmeside">
+<!ENTITY openFeedWebPage.accesskey "h">
+<!ENTITY openFeedSummary.label "Åbn som sammendrag">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Skift mellem hjemmeside og sammendrag i meddelelsesruden">
 <!ENTITY openFeedWebPageInMP.accesskey "k">
 
