@@ -13,7 +13,7 @@
 <!ENTITY  crash_help_message "Hjelp oss å løyse problemet!">
 <!ENTITY  crash_send_report_message "Send krasjrapport til Mozilla">
 <!ENTITY  crash_include_url "Legg ved sideadresse">
-<!ENTITY  crash_close_label "Lat att">
+<!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
 <!ENTITY  sending_crash_report "Sender krasjrapport\u2026">
 <!ENTITY  exit_label "Avslutt">

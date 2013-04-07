@@ -22,7 +22,7 @@
 
 <!ENTITY openConversationCmd.label     "Start ein samtale">
 <!ENTITY openConversationCmd.accesskey "t">
-<!ENTITY closeConversationCmd.label    "Lat att samtale">
+<!ENTITY closeConversationCmd.label    "Lukk samtale">
 <!ENTITY closeConversationCmd.accesskey "L">
 <!ENTITY aliasCmd.label                "Endre namn">
 <!ENTITY aliasCmd.accesskey            "E">
@@ -30,7 +30,7 @@
 <!ENTITY deleteCmd.accesskey           "S">
 
 <!ENTITY openConversationButton.tooltip  "Start ein samtale">
-<!ENTITY closeConversationButton.tooltip "Lat att samtale">
+<!ENTITY closeConversationButton.tooltip "Lukk samtale">
 
 <!ENTITY addBuddyButton.label          "Legg til ein kontakt">
 <!ENTITY joinChatButton.label          "Start nettprat">

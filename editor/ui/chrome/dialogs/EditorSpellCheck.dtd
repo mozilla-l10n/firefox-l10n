@@ -30,7 +30,7 @@
 <!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton.label "Kontroller sida på nytt">
 <!ENTITY recheckButton.accessKey "o">
-<!ENTITY closeButton.label "Lat att">
+<!ENTITY closeButton.label "Lukk">
 <!ENTITY closeButton.accessKey "L">
 <!ENTITY sendButton.label "Send">
 <!ENTITY sendButton.accessKey "d">

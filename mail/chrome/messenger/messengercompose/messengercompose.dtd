@@ -28,7 +28,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personleg adressekort (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY closeCmd.label "Lat att">
+<!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
 <!ENTITY saveCmd.label "Lagre">

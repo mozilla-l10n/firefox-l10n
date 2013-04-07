@@ -26,7 +26,7 @@
 <!ENTITY testpilot.rawDataWindow.title                  "Testpilot: Rådata">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Lat att">
+<!ENTITY testpilot.notification.close.tooltip            "Lukk">
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Slå av brukarstudiar">

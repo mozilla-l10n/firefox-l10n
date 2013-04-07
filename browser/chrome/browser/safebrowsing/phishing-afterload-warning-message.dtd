@@ -15,7 +15,7 @@
 <!ENTITY safeb.palm.accept.label "Få meg ut herifrå!">
 <!ENTITY safeb.palm.accept.statustext "Gå til startsida">
 <!ENTITY safeb.palm.decline.label "Ignorer åtvaringa">
-<!ENTITY safeb.palm.decline.statustext "Lat att åtvaringa" >
+<!ENTITY safeb.palm.decline.statustext "Lukk åtvaring" >
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ein nettsvindel …">
 <!ENTITY safeb.palm.reportPage.label "Kvifor vart denne nettstaden blokkert?">
 
