@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Gordetako pasahitzak">
 <!ENTITY pref_private_data_cache "Katxea">
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
-<!ENTITY pref_private_data_siteSettings "Gunearen hobespenak">
+<!ENTITY pref_private_data_siteSettings2 "Gunearen ezarpenak">
 <!ENTITY pref_private_data_downloadFiles "Deskargatutako fitxategiak">
 
 <!ENTITY pref_update_autodownload "Eguneraketa automatikoak">
@@ -134,7 +134,7 @@ size. -->
 <!ENTITY share_image_failed "Ezin da irudia partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
 <!ENTITY find_in_page "Bilatu orrian">
-<!ENTITY desktop_mode "Eskatu mahaigaineko gunea">
+<!ENTITY desktop_mode "Mahaigaineko gunea">
 <!ENTITY tools "Tresnak">
 <!ENTITY new_tab "Fitxa berria">
 <!ENTITY new_private_tab "Fitxa pribatu berria">

@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Esaiguzu Androiderako &brandShortName;(r)i buruz pentsatzen duzuna.">
 <!ENTITY intro.happyLink           "Gustoko dut">
 <!ENTITY intro.sadLink             "Arazotxo batzuk izan ditut">
-<!ENTITY intro.ideaLink            "Ideia bat daukat">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "Edo bestela...">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "Gustuko dugu zure ideiak entzutea! Partekatu azpian zure pentsamenduak. (&brandShortName;(r)i buruzkoak soilik, mesedez).">
-<!ENTITY idea.placeholder          "Idatzi zure ideia hemen">
-<!ENTITY idea.thanksHeader         "Eskerrik asko!">
-
-<!ENTITY idea.thanksMessageTop     "Zure pentsamenduak partekatzeko hartu duzun denbora eskertzen dizugu. &brandShortName; hobetzeko lanean gaude beti eta zurea bezalako ekarpenek gauza onetara garamatzate.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "Ezin dezakezu ikusi, baina bostekoa ari gatzaizu ematen oraintxe bertan.">
 
 <!ENTITY feedback.privacy          "Zure pribatutasunerako, ez sartu inolako informazio pertsonalik zure iritzian.">
 <!ENTITY feedback.send             "Bidali iritzia">

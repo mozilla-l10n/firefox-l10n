@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Bilatu eguneraketak »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Eguneraketen bila…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ez dago eguneraketarik eskura">
-<!ENTITY aboutPage.checkForUpdates.found        "Eguneraketa eskuragarri">
+<!ENTITY aboutPage.checkForUpdates.available    "Eguneraketa erabilgarri; egin klik deskargatzeko">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Eguneraketa deskargatzen…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Eguneraketa deskargatuta; egin klik instalatzeko">
 <!ENTITY aboutPage.faq.label                    "FAQa">
 <!ENTITY aboutPage.support.label                "Laguntza">
 <!ENTITY aboutPage.privacyPolicy.label          "Pribatutasun-politika">
