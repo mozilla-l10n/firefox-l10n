@@ -9,7 +9,7 @@
 <!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "Ein feil oppstod ved forsøk på å laste nødvendige filer for å køyre &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Øvste nettstad">
+<!ENTITY  awesomebar_all_pages_title "Toppliste">
 <!ENTITY  awesomebar_bookmarks_title "Bokmerke">
 <!ENTITY  awesomebar_history_title "Historikk">
 
@@ -22,7 +22,7 @@
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
 <!ENTITY  sending_crash_report "Sender krasjrapport\u2026">
 <!ENTITY  exit_label "Avslutt">
-<!ENTITY  continue_label "Hald fram">
+<!ENTITY  continue_label "Fortset">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; nett-appar">
 <!ENTITY  launcher_shortcuts_empty "Fann ingen nett-appar">
@@ -72,9 +72,9 @@
 <!ENTITY pref_remember_signons "Hugs passord">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "påslått">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "Avslått">
 
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
@@ -101,29 +101,30 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Den kjappe oransje reven overgår forventningane dine med meir fart, fleksibilitet og tryggleik. Som ein ideell organisasjon er vi frie til å kome med nye ting på dine vegne utan noko press om å kompromisse. Det tyder ei betre oppleving for deg og ei lysare framtid for nettet.">
 
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_show_product_announcements "Vis produktnyheiter">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Vis søkeforslag">
-<!ENTITY pref_import_android "Import frå Android">
+<!ENTITY pref_import_android "Importer frå Android">
 <!ENTITY pref_private_data_history "Nettlesing og nedlastingshistorikk">
 <!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_cookies2 "Infokapslar og aktive innloggingar">
 <!ENTITY pref_private_data_passwords "Lagra passord">
 <!ENTITY pref_private_data_cache "Snøgglager">
 <!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
 <!ENTITY pref_private_data_siteSettings "Nettstadinnstillingar">
+<!ENTITY pref_private_data_downloadFiles "Nedlasta filer">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload "Automatiske oppdateringar">
+<!ENTITY pref_update_autodownload_wifi "Berre over Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Avslått">
+<!ENTITY pref_update_autodownload_enabled "Påslått">
 
 <!ENTITY quit "Avslutt">
 
-<!ENTITY addons "Add-ons">
+<!ENTITY addons "Utvidingar">
 <!ENTITY downloads "Nedlastingar">
 <!ENTITY apps "Appar">
 <!ENTITY char_encoding "Teiknkoding">
@@ -133,17 +134,17 @@ size. -->
 <!ENTITY share_image_failed "Klarte ikkje å dele dette bildet">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY find_in_page "Finn på sida">
-<!ENTITY desktop_mode "Be om desktop-nettstad">
-<!ENTITY tools "Tools">
+<!ENTITY desktop_mode "Hent side som desktop">
+<!ENTITY tools "Verktøy">
 <!ENTITY new_tab "Ny fane">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Tabs">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY new_private_tab "Ny privat fane">
+<!ENTITY close_all_tabs "Lukk alle faner">
+<!ENTITY tabs_normal "Faner">
+<!ENTITY tabs_private "Privat">
+<!ENTITY tabs_synced "Synkronisert">
+<!ENTITY wallpaper_success "Skrivebordsbakgrunn oppdatert">
+<!ENTITY wallpaper_progress "Veljer skrivebordsbakgrunn">
+<!ENTITY wallpaper_fail "Klarte ikkje å velje skrivebordsbakgrunn">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -171,7 +172,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nøkkelord">
 
-<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_title2       "Nettstadsinnstillingar …">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerne.">
@@ -189,28 +190,29 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Avbryt">
-<!ENTITY button_yes "Yes">
-<!ENTITY button_no "No">
+<!ENTITY button_yes "Ja">
+<!ENTITY button_no "Nei">
 <!ENTITY button_clear_data "Tøm data">
 <!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_clear "Tøm">
 
 <!ENTITY abouthome_addons_title "Utvidingar for din &brandShortName;">
 <!ENTITY abouthome_addons_browse "Bla gjennom alle &brandShortName;-utvidingane">
 <!ENTITY abouthome_last_tabs_title "Faner frå førre gong">
 <!ENTITY abouthome_last_tabs_open "Opne alle faner frå førre gong">
-<!ENTITY abouthome_top_sites_title "Øvste nettstad">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY abouthome_top_sites_title "Toppliste">
+<!ENTITY abouthome_topsites_edit "Rediger">
+<!ENTITY abouthome_topsites_pin "Fest nettstad">
+<!ENTITY abouthome_topsites_unpin "Løys frå nettstad">
+<!ENTITY abouthome_topsites_remove "Fjern">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Set opp Firefox Sync for å få tilgang til bokmerke, historikk og faner frå andre einingar&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Last ned appar frå Firefox Marketplace og oppdag det beste nettet har å tilby&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -252,20 +254,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "Vil du skru på &formatS; søkeforslag?">
 
 <!ENTITY webapp_generic_name "App">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "Bokmerke og historikk">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_title2 "Oppdateringar er tilgjengelege for &brandShortName;">
+<!ENTITY updater_start_select2 "Trykk for å laste ned">
 
-<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Nedlasting feila">
+<!ENTITY updater_downloading_select2 "Trykk for å installere når ferdig nedlasta">
+<!ENTITY updater_downloading_retry2 "Trykk for å prøve igjen">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_title2 "Oppdatering tilgjengeleg for &brandShortName;">
+<!ENTITY updater_apply_select2 "Trykk for å oppdatere">
