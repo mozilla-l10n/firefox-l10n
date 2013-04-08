@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "اقبل الكعكات من المواقع">
 <!ENTITY  acceptCookies.accesskey       "ق">
 
-<!ENTITY  acceptThirdParty.label        "اقبل الكعكات من أطراف أخرى">
-<!ENTITY  acceptThirdParty.accesskey    "ب">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "دائمًا">
+<!ENTITY  acceptThirdParty.never.label    "أبدًا">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "احتفظ بها حتى:">
 <!ENTITY  keepUntil.accesskey           "ظ">
