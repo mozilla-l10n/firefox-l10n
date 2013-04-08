@@ -6,7 +6,7 @@
 
 
 <!ENTITY title "الخطوط">
-<!ENTITY showAllFonts "See all the fonts used in the page">
-<!ENTITY usedAs "Used as: ">
-<!ENTITY system "system">
-<!ENTITY remote "remote">
+<!ENTITY showAllFonts "أظهر كل الخطوط المُستخدمة في الصفحة">
+<!ENTITY usedAs "طريقة الاستخدام: ">
+<!ENTITY system "خط نظام">
+<!ENTITY remote "عن بُعد">

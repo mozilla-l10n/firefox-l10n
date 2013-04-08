@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
   -  Tools menu entry of Debugger that opens the debugger UI. -->
 
-<!ENTITY debuggerMenu.accesskey         "D">
+<!ENTITY debuggerMenu.accesskey         "ن">
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
 
