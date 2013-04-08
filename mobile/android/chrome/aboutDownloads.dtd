@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Nedlastingar">
 <!ENTITY aboutDownloads.header                     "Dine nedlastingar">
 <!ENTITY aboutDownloads.empty                      "Ingen nedlastingar">
+
+<!ENTITY aboutDownloads.open                       "Opne">
+<!ENTITY aboutDownloads.remove                     "Slett">
+<!ENTITY aboutDownloads.removeAll                  "Slett alle">
+<!ENTITY aboutDownloads.pause                      "Pause">
+<!ENTITY aboutDownloads.resume                     "Fortset">
+<!ENTITY aboutDownloads.cancel                     "Avbryt">
+<!ENTITY aboutDownloads.retry                      "Prøv igjen">
