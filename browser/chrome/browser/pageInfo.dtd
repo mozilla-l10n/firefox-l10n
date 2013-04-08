@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "ছবি লোড করা">
 <!ENTITY  permPopup             "পপ-আপ উইন্ডো খোলা">
 <!ENTITY  permCookie            "কুকি নির্ধারণ">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "এক্সটেনশন বা থীম ইনস্টলেশন">
 <!ENTITY  permGeo               "শেয়ার অবস্থান">
 <!ENTITY  permPlugins           "প্লাগইন সক্রিয় করুন">
 <!ENTITY  permFullscreen        "পূর্ণপর্দায় প্রবেশ করুন">
+<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
 
 <!ENTITY  permIndexedDB              "অফলাইন সংরক্ষন ব্যবস্থাপনা">
 <!ENTITY  permClearStorage           "সংরক্ষন অপসারন">

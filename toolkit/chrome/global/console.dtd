@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "মান নির্ণয় (v)">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter.label       "ফিল্টার F">
-<!ENTITY filter.accesskey   "F">
+<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "অনুলিপি (C)">  
 <!ENTITY copyCmd.accesskey   "C"> 
