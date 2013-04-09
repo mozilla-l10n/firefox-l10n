@@ -10,6 +10,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -57,8 +58,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoare">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Preferințe user.js">
+<!ENTITY aboutSupport.userJSDescription "Dosarul profilului conține un <a id='prefs-user-js-link'>fișier user.js</ a>, care include preferințe ce nu au fost create de &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafică">
 
@@ -74,6 +75,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiază textul în memoria temporară">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele raw în memoria temporară">
 

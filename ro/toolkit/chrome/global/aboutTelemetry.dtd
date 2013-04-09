@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -17,11 +19,11 @@
 <!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
 
 <!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry is <span>enabled</span>.
+  Telemetria este <span>activată</span>.
 ">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry is <span>disabled</span>.
+  Telemetria este <span>dezactivată</span>.
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
@@ -33,11 +35,11 @@
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
+  Histograme
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
+  Măsurători simple
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
@@ -45,7 +47,7 @@
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
+  Informații sistem
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
@@ -60,9 +62,8 @@
   Click to collapse section
 ">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
+<!ENTITY aboutTelemetry.emptySection " 
+ (Nu sunt date colectate) ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.

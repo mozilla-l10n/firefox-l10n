@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -51,8 +52,8 @@
 <!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Nume dispozitiv:">
+<!ENTITY syncDeviceName.accesskey   "d">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 
 <!-- Footer stuff -->

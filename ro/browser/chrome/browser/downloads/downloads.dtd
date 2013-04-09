@@ -67,8 +67,8 @@
      -->
 <!ENTITY cmd.show.label                   "Deschide dosarul conținător">
 <!ENTITY cmd.show.accesskey               "D">
-<!ENTITY cmd.showMac.label                "Show In Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.label                "Afișare în Finder">
+<!ENTITY cmd.showMac.accesskey            "f">
 <!ENTITY cmd.retry.label                  "Încearcă din nou">
 <!ENTITY cmd.goToDownloadPage.label       "Mergi la pagina de descărcare">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
@@ -86,8 +86,8 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Show All Downloads">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.label           "Arată toate descărcările">
+<!ENTITY downloadsHistory.accesskey       "d">
 
 <!ENTITY clearDownloadsButton.label       "Curăță descărcările">
 <!ENTITY clearDownloadsButton.tooltip     "Curăță descărcările încheiate, anulate și eșuate">
@@ -102,5 +102,5 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY downloadsListNoMatch.label       "Nu am putut găsi nicio descărcare.">
 
