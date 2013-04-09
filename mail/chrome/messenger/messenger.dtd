@@ -19,15 +19,15 @@
      -->
 <!ENTITY moveToNewWindow.label "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ">
 <!ENTITY moveToNewWindow.accesskey "W">
-<!ENTITY newVirtualFolderCmd.label "ਖੋਜ ਸੰਭਾਲੋ…">
+<!ENTITY newVirtualFolderCmd.label "…ਖੋਜ ਸੰਭਾਲੋ">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "ਹੋਰ ਅਕਾਊਂਟ…">
+<!ENTITY newOtherAccountsCmd.label "…ਹੋਰ ਅਕਾਊਂਟ">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
+<!ENTITY newIMAccountCmd.label "…ਗੱਲਬਾਤ ਅਕਾਊਂਟ">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newIMContactCmd.label "Chat Contact…">
 <!ENTITY newIMContactCmd.accesskey "h">
@@ -67,9 +67,9 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸਿੰਕ ਕਰੋ…">
+<!ENTITY synchronizeOfflineCmd.label "…ਹੁਣੇ ਡਾਊਨਲੋਡ/ਸਿੰਕ ਕਰੋ">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "ਆਫਲਾਈਨ ਸੈਟਿੰਗ…">
+<!ENTITY settingsOfflineCmd.label "…ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "ਚੁਣੇ ਸੁਨੇਹੇ ਲਵੋ">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -100,7 +100,7 @@
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "ਸਭ">
 <!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "ਥਰਿੱਡ">
+<!ENTITY selectThreadCmd.label "ਮਾਮਲਾ">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "ਤਾਰਾ ਲਗਾਏ ਸੁਨੇਹੇ">
@@ -193,19 +193,19 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "ਘੱਟਦਾ ਕ੍ਰਮ">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "ਥਰਿੱਡ">
+<!ENTITY sortThreaded.label "ਮਾਮਲਾ">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "ਬਿਨ-ਥਰਿੱਡ">
+<!ENTITY sortUnthreaded.label "ਬਿਨ-ਮਾਮਲਾ">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Grouped By Sort">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "ਸੁਨੇਹੇ">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "ਥਰਿੱਡ">
+<!ENTITY threads.label "ਮਾਮਲੇ">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "ਸਭ">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "ਸਭ ਥਰਿੱਡ ਫੈਲਾਓ">
+<!ENTITY expandAllThreadsCmd.label "ਸਭ ਮਾਮਲੇ ਫੈਲਾਓ">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Collapse All Threads">
@@ -217,7 +217,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "ਅਣਡਿੱਠੇ ਕੀਤੇ ਥਰਿੱਡ">
+<!ENTITY ignoredThreadsCmd.label "ਅਣਡਿੱਠੇ ਕੀਤੇ ਮਾਮਲੇ">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "ਹੈੱਡਰ">
@@ -260,7 +260,7 @@
 <!-- Search Menu -->
 <!ENTITY findMenu.label "ਖੋਜ">
 <!ENTITY findMenu.accesskey "F">
-<!ENTITY findCmd.label "ਇਹ ਸੁਨੇਹੇ ਵਿੱਚ ਲੱਭੋ…">
+<!ENTITY findCmd.label "…ਇਹ ਸੁਨੇਹੇ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "ਮੁੜ ਲੱਭੋ">
@@ -269,10 +269,10 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "ਸੁਨੇਹੇ ਲੱਭੋ…">
+<!ENTITY searchMailCmd.label "…ਸੁਨੇਹੇ ਲੱਭੋ">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "ਐਡਰੈਸ ਲੱਭੋ…">
+<!ENTITY searchAddressesCmd.label "…ਐਡਰੈਸ ਲੱਭੋ">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
@@ -288,7 +288,7 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "ਤਾਰਾ ਲੱਗਾ ਸੁਨੇਹਾ">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "ਨਾ-ਪੜ੍ਹੇ ਥਰੈੱਡ">
+<!ENTITY nextUnreadThread.label "ਨਾ-ਪੜ੍ਹਿਆ ਮਾਮਲਾ">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "ਪਿੱਛੇ">
@@ -369,10 +369,10 @@
 <!ENTITY moveToFolderAgain.label "ਫੇਰ ਭੇਜੋ">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "ਥਰਿੱਡ ਅਣਡਿੱਠਾ">
+<!ENTITY killThreadMenu.label "ਮਾਮਲਾ ਅਣਡਿੱਠਾ">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "ਅਧੀਨ-ਥਰਿੱਡ ਅਣਡਿੱਠਾ ਕਰੋ">
+<!ENTITY killSubthreadMenu.label "ਅਧੀਨ-ਮਾਮਲਾ ਅਣਡਿੱਠਾ ਕਰੋ">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Watch Thread">
@@ -456,8 +456,8 @@
 <!ENTITY imStatus.available          "ਉਪਲੱਬਧ">
 <!ENTITY imStatus.unavailable        "ਨਾ-ਉਪਲੱਬਧ">
 <!ENTITY imStatus.offline            "ਆਫਲਾਈਨ">
-<!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
-<!ENTITY imStatus.showAccounts       "ਅਕਾਊਂਟ ਵੇਖਾਓ…">
+<!ENTITY imStatus.showAccounts       "…ਅਕਾਊਂਟ ਵੇਖਾਓ">
+<!ENTITY imStatus.showAccounts       "…ਅਕਾਊਂਟ ਵੇਖਾਓ">
 <!ENTITY joinChatCmd.label "…ਗੱਲਬਾਤ ਵਿੱਚ ਭਾਗ ਲਵੋ">
 <!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "ਸੰਭਾਲੀਆਂ ਫਾਇਲਾਂ">
@@ -557,9 +557,11 @@
 <!ENTITY appmenuEditMenu.label "ਸੋਧ">
 <!ENTITY appmenuQFBMenu.label "ਤੁਰੰਤ ਫਿਲਟਰ ਪੱਟੀ">
 <!ENTITY appmenuToolbarLayout.label "…ਟੂਲਬਾਰ ਲੇਆਉਟ">
+<!ENTITY appmenuSelectThread.label "ਮਾਮਲਾ ਚੁਣੋ">
+<!ENTITY appmenuSelectFlagged.label "ਤਾਰੇ ਲਗਾਏ ਸੁਨੇਹੇ ਚੁਣੋ">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
+<!ENTITY addNewTag.label "…ਨਵਾਂ ਟੈਗ">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "…ਟੈਗ ਪਰਬੰਧ">
 <!ENTITY manageTags.accesskey "M">
@@ -597,13 +599,13 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "ਮੈਂਬਰ ਬਣੋ…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.label "…ਸੁਨੇਹੇ ਖੋਜ">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY folderContextProperties.label "…ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "ਸੈਟਿੰਗ…">
+<!ENTITY folderContextSettings.label "…ਸੈਟਿੰਗ">
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
@@ -611,7 +613,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "ਸੁਨੇਹੇ ਖੋਜੋ…">
+<!ENTITY glodaSearchBar.placeholder "…ਸੁਨੇਹੇ ਖੋਜੋ">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "ਵਿਸ਼ਾ">
@@ -710,7 +712,7 @@
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
-<!ENTITY columnPicker.resetToInbox.label "ਕਾਲਮ ਨੂੰ ਡਿਫਾਲਟ ਵਜੋਂ ਮੁੜ-ਸੈੱਟ ਕਰੋeset columns to default">
+<!ENTITY columnPicker.resetToInbox.label "ਕਾਲਮ ਨੂੰ ਡਿਫਾਲਟ ਵਜੋਂ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -719,7 +721,7 @@
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "ਕਾਲਮ ਲਾਗੂ ਕਰੋ…">
+<!ENTITY columnPicker.applyTo.label "…ਕਾਲਮ ਲਾਗੂ ਕਰੋ">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -728,7 +730,7 @@
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "ਫੋਲਡਰ…">
+<!ENTITY columnPicker.applyToFolder.label "…ਫੋਲਡਰ">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -737,7 +739,7 @@
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "ਫੋਲਡਰ ਅਤੇ ਇਸ ਦੇ ਅੰਦਰ…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "…ਫੋਲਡਰ ਅਤੇ ਇਸ ਦੇ ਅੰਦਰ">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -763,7 +765,7 @@
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
+<!ENTITY junkBarMessage2.label "&brandShortName; ਨੂੰ ਇਹ ਸੁਨੇਹਾ ਜੰਕ ਮੇਲ ਜਾਪਦਾ ਹੈ।">
 <!ENTITY junkBarButton1.label "ਜੰਕ ਨਹੀਂ">
 <!ENTITY junkInfoButton.label "?">
 
@@ -772,8 +774,8 @@
 <!ENTITY loadRemoteContentButton3.label "ਰਿਮੋਟ ਸਮੱਗਰੀ ਵੇਖਾਓ">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "This message may be a scam.">
-<!ENTITY removePhishingBarButton1.label "Ignore Warning">
+<!ENTITY phishingBarMessage2.label "ਇਹ ਸੁਨੇਹਾ ਘਪਲਾ ਹੋ ਸਕਦਾ ਹੈ।">
+<!ENTITY removePhishingBarButton1.label "ਚੇਤਾਵਨੀ ਅਣਡਿੱਠੀ">
 <!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "This message doesn't appear to be a scam.">
 
@@ -836,13 +838,13 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ ਕਰੋ…">
+<!ENTITY spellAddDictionaries.label "…ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ ਕਰੋ">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ…">
+<!ENTITY saveImageAsCmd.label "…ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copyLinkCmd.accesskey "C">
@@ -869,7 +871,7 @@
 <!ENTITY zoomWindow.label "ਜ਼ੂਮ">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ…">
+<!ENTITY preferencesCmdMac.label        "…ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">
@@ -883,13 +885,13 @@
 
 
 <!ENTITY previousMsgButton.label "ਪਿੱਛੇ">
-<!ENTITY previousButtonToolbarItem.label "Previous Unread">
+<!ENTITY previousButtonToolbarItem.label "ਪਿਛਲਾ ਨਾ-ਪੜ੍ਹਿਆ">
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 
 <!ENTITY nextMsgButton.label "ਅੱਗੇ">
 <!ENTITY nextMsgButton.tooltip "Move to the next message">
 
-<!ENTITY nextButtonToolbarItem.label "Next Unread">
+<!ENTITY nextButtonToolbarItem.label "ਅੱਗੇ ਨਾ-ਪੜ੍ਹਿਆ">
 
 
 
