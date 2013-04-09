@@ -58,7 +58,7 @@
 <!ENTITY one_tab "1 ਟੈਬ">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; ਟੈਬਾਂ">
 <!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੁੱਲ੍ਹੀ">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
@@ -116,6 +116,7 @@ size. -->
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings "ਸਾਈਟ ਪਸੰਦ">
+<!ENTITY pref_private_data_downloadFiles "ਡਾਊਨਲੋਡ ਫਾਇਲਾਂ">
 
 <!ENTITY pref_update_autodownload "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਹੀ">
@@ -206,7 +207,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "ਸੋਧ">
 <!ENTITY abouthome_topsites_pin "ਸਾਈਟ ਪਿੰਨ">
 <!ENTITY abouthome_topsites_unpin "ਸਾਈਟ ਅਣ-ਪਿੰਨ">
-<!ENTITY abouthome_topsites_unpinall "ਸਭ ਅਣ-ਪਿੰਨ">
+<!ENTITY abouthome_topsites_remove "ਹਟਾਓ">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
