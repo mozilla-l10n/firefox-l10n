@@ -71,9 +71,9 @@
 <!ENTITY report.disabled                                     "Raportarea defecțiunilor e dezactivată.">
 <!ENTITY report.failed                                       "Trimitere eșuată.">
 <!ENTITY report.unavailable                                  "Niciun raport disponibil.">
-<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.comment                                      "Adăugați un comentariu (comentariile sunt vizibile publicului)">
 <!ENTITY report.pageURL                                      "Include adresa paginii">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "Fișier">
+<!ENTITY plugin.mimeTypes                                    "Tipuri MIME">
 

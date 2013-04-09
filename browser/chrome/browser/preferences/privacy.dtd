@@ -12,6 +12,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -26,7 +27,7 @@
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label          "Spune saiturilor că vreau să fiu urmărit.">
 <!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Learn More">
+<!ENTITY doNotTrackInfo.label           "Află mai multe">
 
 <!ENTITY  history.label                 "Istoric">
 

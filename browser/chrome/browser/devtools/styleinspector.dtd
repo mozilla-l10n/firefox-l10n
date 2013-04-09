@@ -2,12 +2,15 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# alexef <alex@eftimie.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -23,7 +26,7 @@
 <!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY browserStylesLabel    "Browser styles">
+<!ENTITY browserStylesLabel    "Stiluri navigator">
 
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
@@ -48,6 +51,6 @@
 <!ENTITY parentMatch           "Potrivire cu părintele">
 
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Computed">
-<!ENTITY ruleViewTitle         "Rules">
+<!ENTITY computedViewTitle     "Calculat">
+<!ENTITY ruleViewTitle         "Reguli">
 

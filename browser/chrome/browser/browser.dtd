@@ -52,8 +52,8 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "Fixare filă">
+<!ENTITY  pinTab.accesskey                   "f">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Mută în grup">
@@ -222,8 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Conectare…">
+<!ENTITY devtoolsConnect.accesskey    "c">
 
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
@@ -421,8 +421,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Pune semn de carte la acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Email Link…">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.label           "Email cu legătura…">
+<!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Salvează pagina ca...">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -440,14 +440,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "Email cu imaginea…">
+<!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Email Video…">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY emailAudioCmd.label          "Email Audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.label          "Activați plugin">
+<!ENTITY playPluginCmd.accesskey      "g">
 <!ENTITY hidePluginCmd.label          "Ascunde acest modul">
 <!ENTITY hidePluginCmd.accesskey      "l">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
@@ -627,16 +627,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Închide bara de suplimente">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
+<!ENTITY socialToolbar.title        "Bară butoane rețele sociale">
 <!ENTITY social.notLoggedIn.label   "Nu ești autenficat">
 
 <!ENTITY social.ok.label       "Bine">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "Arată bara laterală">
+<!ENTITY social.toggleSidebar.accesskey "b">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.label "Arată notificările pe ecran">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.undobutton.label "Anulează">
@@ -654,6 +654,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "Acces la cameră / microfon">
 <!ENTITY webrtcIndicatorButton.tooltip "Afișează saiturile cărora le permiteți să vă folosească camera sau microfonul">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.helplink "Află mai multe">
 <!ENTITY mixedContentBlocked.moreinfo "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 

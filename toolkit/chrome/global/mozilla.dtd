@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -23,5 +25,5 @@ abhorred the darkness. So it began to move <em>swiftly</em>, and grew more power
 And the beasts brought <em>fire</em> and light to the darkness.'>
 
 <!ENTITY mozilla.from.15.1
-'from <strong>The Book of Mozilla,</strong> 15:1'>
+'din <strong>Cartea Mozillei,</strong> 15:1'>
 
