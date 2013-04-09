@@ -11,4 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "ਕੋਈ ਵੈੱਬ ਐਪਸ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ। ਕੁਝ ">
 <!ENTITY aboutApps.noApps.middle3 "ਫਾਇਰਫਾਕਸ ਮੰਡੀ">
 <!ENTITY aboutApps.noApps.post " ਵਿੱਚੋਂ ਲਵੋ।">
-
+<!ENTITY aboutApps.uninstall "ਅਣ-ਇੰਸਟਾਲ">
+<!ENTITY aboutApps.addToHomescreen "ਹੋਮ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
