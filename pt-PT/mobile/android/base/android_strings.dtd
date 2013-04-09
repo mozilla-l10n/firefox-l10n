@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Senhas guardadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
-<!ENTITY pref_private_data_siteSettings2 "Preferências do sítio">
+<!ENTITY pref_private_data_siteSettings "Preferências do sítio">
 <!ENTITY pref_private_data_downloadFiles "Ficheiros transferidos">
 
 <!ENTITY pref_update_autodownload "Atualizações automáticas">
@@ -164,7 +164,6 @@ size. -->
 <!ENTITY contextmenu_paste "Colar">
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
-<!ENTITY contextmenu_subscribe "Subscrever para a página">
 
 <!ENTITY history_removed "Página removida">
 
