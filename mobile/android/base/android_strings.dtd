@@ -11,7 +11,7 @@
 <!ENTITY  awesomebar_all_pages_title "Les + visités">
 <!ENTITY  awesomebar_bookmarks_title "Marque-pages">
 <!ENTITY  awesomebar_history_title "Historique">
-<!ENTITY  awesomebar_switch_to_tab "Aller à l'onglet">
+<!ENTITY  awesomebar_switch_to_tab "Aller à l\u0027onglet">
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
@@ -164,7 +164,7 @@ size. -->
 <!ENTITY contextmenu_paste "Coller">
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
-<!ENTITY contextmenu_subscribe "S'abonner à la page">
+<!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
 
 <!ENTITY history_removed "Page supprimée">
 
