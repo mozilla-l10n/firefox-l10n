@@ -633,8 +633,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "Tjänster från <label/> har aktiverats. Du kan ändra inställningarna för tjänsterna i fliken <label class='text-link'>Tillägg</label>.">
-<!ENTITY social.activated.undobutton.label "Ångra">
-<!ENTITY social.activated.undobutton.accesskey "Å">
+<!ENTITY social.activated.undo.label "Ångra">
+<!ENTITY social.activated.undo.accesskey "Å">
 <!ENTITY social.learnMore.label "Läs mer …">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Inte nu">
