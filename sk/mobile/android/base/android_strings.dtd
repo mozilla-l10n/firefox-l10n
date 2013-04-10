@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
-<!ENTITY pref_private_data_siteSettings "Nastavenia stránok">
+<!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizácie">
