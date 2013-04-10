@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "v">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Prílohy">
-<!ENTITY openAttachmentCmd.accesskey "P">
 <!ENTITY saveAsMenu.label "Uložiť ako">
 <!ENTITY saveAsMenu.accesskey "U">
 <!ENTITY saveAsFileCmd.label "Súbor">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Otvoriť ako konverzáciu">
 <!ENTITY openConversationCmd.accesskey "c">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Prílohy">
+<!ENTITY openAttachmentListCmd.accesskey "l">
 <!ENTITY openFeedMessage1.label "Pri otváraní správ informačného kanála">
 <!ENTITY openFeedMessage1.accesskey "f">
 <!ENTITY openFeedWebPage.label "Otvoriť ako webovú stránku">
