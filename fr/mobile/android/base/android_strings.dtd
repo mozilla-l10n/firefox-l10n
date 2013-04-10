@@ -11,6 +11,7 @@
 <!ENTITY  awesomebar_all_pages_title "Les + visités">
 <!ENTITY  awesomebar_bookmarks_title "Marque-pages">
 <!ENTITY  awesomebar_history_title "Historique">
+<!ENTITY  awesomebar_switch_to_tab "Aller à l'onglet">
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
