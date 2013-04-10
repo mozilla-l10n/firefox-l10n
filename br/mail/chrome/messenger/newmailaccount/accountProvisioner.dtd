@@ -32,7 +32,7 @@
 <!ENTITY successful.write "Skrivañ kemennadennoù">
 <!ENTITY successful.write.desc "Kelaouit ho mignoned hag ho familh a-zivout ho chomlec'h nevez<br/> Setu perak hoc'h eus ar gont nevez-mañ, n'eo ket ?">
 <!ENTITY successful.customize "Personelait &brandShortName; gant askouezhioù plijus">
-<!ENTITY successful.customize.desc "Bez ez euz miliadoù a askouezhioù a ro tro deoc'h personelaat &brandShortName; a-benn lakaat anezhañ da genglotañ gant hoc'h ezhommoù.">
+<!ENTITY successful.customize.desc "Bez ez eus miliadoù a askouezhioù a ro tro deoc'h personelaat &brandShortName; a-benn lakaat anezhañ da genglotañ gant hoc'h ezhommoù.">
 <!ENTITY successful.attach "Stagañ ur sinadur personel ouzh ma fostel">
 <!ENTITY successful.attach.desc "Gallout a rit stagañ ent emgefreek ur meneg pe ditouroù diwar ho penn ouzh pep kemennadenn a zo kaset ganeoc'h.">
 <!ENTITY successful.close "Serriñ ar prenestr-mañ.">

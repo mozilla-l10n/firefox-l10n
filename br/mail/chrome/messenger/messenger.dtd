@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Digeriñ e-barzh ar gaozeadenn">
 <!ENTITY openConversationCmd.accesskey "D">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Digeriñ kemennadenn al lanv">
-<!ENTITY openFeedMessage.accesskey "D">
-<!ENTITY openFeedWebPageInWindow.label "Pajennad web e-barzh ur prenestr nevez">
-<!ENTITY openFeedWebPageInWindow.accesskey "w">
-<!ENTITY openFeedSummaryInWindow.label "Krennadur e-barzh ur prenestr nevez">
-<!ENTITY openFeedSummaryInWindow.accesskey "K">
+<!ENTITY openFeedMessage1.label "Pa vez digoret kemennadennoù lanvioù">
+<!ENTITY openFeedMessage1.accesskey "l">
+<!ENTITY openFeedWebPage.label "Digeriñ evel ur bajenn genrouedad">
+<!ENTITY openFeedWebPage.accesskey "g">
+<!ENTITY openFeedSummary.label "Digeriñ evel ur krennadur">
+<!ENTITY openFeedSummary.accesskey "n">
 <!ENTITY openFeedWebPageInMP.label "Dazeilañ etre ar bajennad web hag ar c'hrennadur er penel kemennadenn">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 

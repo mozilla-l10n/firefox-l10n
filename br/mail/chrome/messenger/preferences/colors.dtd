@@ -6,10 +6,10 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Aotren ar pajennadoù da zibab o livioù o-unan, e-lec'h ma diuzadoù din a-us">
+<!ENTITY  allowPagesToUse.label           "Aotren an endalc'hadoù da zibab o livioù o-unan, e-lec'h ma diuzadoù din a-us">
 <!ENTITY  allowPagesToUse.accesskey       "A">
 
-<!ENTITY  color                           "Testenn ha Drekleur">
+<!ENTITY  color                           "Testenn ha drekleur">
 <!ENTITY  textColor.label                 "Testenn :">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Drekleur :">
@@ -17,10 +17,10 @@
 <!ENTITY  useSystemColors.label           "Arverañ livioù ar reizhiad">
 <!ENTITY  useSystemColors.accesskey       "r">
 
-<!ENTITY  underlineLinks.label            "Islinennañ an Ereoù ">
+<!ENTITY  underlineLinks.label            "Islinennañ an ereoù">
 <!ENTITY  underlineLinks.accesskey        "I">
 <!ENTITY  links                           "Livioù an ereoù">
 <!ENTITY  linkColor.label                 "Ereoù diweladennet :">
-<!ENTITY  linkColor.accesskey             "E">
+<!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Ereoù gweladennet :">
-<!ENTITY  visitedLinkColor.accesskey      "o">
+<!ENTITY  visitedLinkColor.accesskey      "E">

@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Enframmadur reizhiad">
 <!ENTITY acceptIntegration.label  "Lakaat dre ziouer">
 <!ENTITY cancelIntegration.label  "Leuskel an enframmadur a-gostez">
+<!ENTITY cancelIntegration2.label  "Nullañ">
 <!ENTITY defaultClient.intro  "Arverañ &brandShortName; evel arval dre ziouer evit:">
 
 <!ENTITY email.label "Postel">

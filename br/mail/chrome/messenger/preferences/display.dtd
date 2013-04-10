@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Ingal">
 <!ENTITY bigger.label                     "Brasoc'h">
 <!ENTITY smaller.label                    "Bihanoc'h">
-<!ENTITY color.label                      "Liv :">
-<!ENTITY color.accesskey                  "L">
+<!ENTITY quotedTextColor.label            "Liv :">
+<!ENTITY quotedTextColor.accesskey        "L">
 <!ENTITY displayWidth.label               "Kemennadennoù testenn eeun">
 <!ENTITY displayText.label                "Pa 'z emañ o skrammañ kemennadennoù gant testenn eeun meneget :">
-<!ENTITY colors.label                     "Livioù">
-<!ENTITY overrideColors.label             "Pa 'z emañ o skrammañ kemennadennoù, arverañ al livioù da heul :">
-<!ENTITY textColor.label                  "Liv an destenn :">
-<!ENTITY textColor.accesskey              "t">
-<!ENTITY backgroundColor.label            "Liv an drekleur :">
-<!ENTITY backgroundColor.accesskey        "L">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Diskouez fromarlunioù evel kevregadoù">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label     "Dilemel">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Nodrezhoù…">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Nodrezhoù ha livioù">
 <!ENTITY defaultFont.label       "Nodrezh dre ziouer:">
 <!ENTITY defaultFont.accesskey   "z">
 <!ENTITY defaultSize.label       "Ment:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "K">
 <!ENTITY fontOptions.label       "Kempleshoc'h…">
+<!ENTITY colorButton.label       "Livioù…">
+<!ENTITY colorButton.accesskey   "i">

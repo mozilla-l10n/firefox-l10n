@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Personelaat…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
+<!ENTITY showTrayIcon.label               "Diskouez un arlun er varrenn rebuziñ">
+<!ENTITY showTrayIcon.accesskey           "a">
+
 <!ENTITY play.label                       "Lenn">
 <!ENTITY play.accesskey                   "e">
 <!ENTITY systemsound.label                "Son ar reizhiad dre ziouer evit ur postel nevez">

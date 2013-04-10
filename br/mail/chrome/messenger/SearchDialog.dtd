@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Klask er c'hemennadennoù">
 <!ENTITY results.label               "Disoc'hoù">
-<!ENTITY fileHereMenu.label          "Restr amañ">
-<!ENTITY fileHereMenu.accesskey      "m">
-<!ENTITY fileButton.label            "Restr">
-<!ENTITY fileButton.accesskey        "s">
+<!ENTITY moveHereMenu.label          "Dilec'hiañ amañ">
+<!ENTITY moveHereMenu.accesskey      "m">
+<!ENTITY moveButton.label            "Dilec'hiañ etrezek">
+<!ENTITY moveButton.accesskey        "e">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Digeriñ en teuliad">
 <!ENTITY openInFolder.accesskey      "r">
