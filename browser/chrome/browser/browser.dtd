@@ -160,6 +160,7 @@
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Удалённая веб-консоль">
+<!ENTITY browserConsoleCmd.label "Консоль браузера">
 <!ENTITY inspectContextMenu.label "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
 <!ENTITY responsiveDesignTool.label "Адаптивный дизайн">
@@ -463,8 +464,8 @@
 <!ENTITY social.toggleNotifications.label "Отображать уведомления на десктопе">
 <!ENTITY social.toggleNotifications.accesskey "а">
 <!ENTITY social.activated.description "Были включены службы от <label/>. Вы можете изменить параметры служб в <label class='text-link'>окне управления дополнениями</label>.">
-<!ENTITY social.activated.undobutton.label "Ой, отменить это!">
-<!ENTITY social.activated.undobutton.accesskey "м">
+<!ENTITY social.activated.undo.label "Ой, отменить это!">
+<!ENTITY social.activated.undo.accesskey "м">
 <!ENTITY social.learnMore.label "Подробнее…">
 <!ENTITY social.learnMore.accesskey "о">
 <!ENTITY social.closeNotificationItem.label "Не сейчас">

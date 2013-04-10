@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Веб-консоль">
+<!ENTITY browserConsole.title "Консоль браузера">
 <!ENTITY networkPanel.requestURLColon "URL запроса:">
 <!ENTITY networkPanel.requestMethodColon "Метод запроса:">
 <!ENTITY networkPanel.statusCodeColon "Код состояния:">
@@ -34,7 +35,7 @@
 <!ENTITY btnConsoleInfo "Инфо">
 <!ENTITY btnConsoleWarnings "Предупреждения">
 <!ENTITY btnConsoleLog "Лог">
-<!ENTITY filterBox.placeholder "Фильтр">
+<!ENTITY filterOutput.placeholder "Вывод фильтра">
 <!ENTITY btnClear.label "Очистить">
 <!ENTITY btnClear.tooltip "Очистить вывод веб-консоли">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -46,3 +47,4 @@
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY copyURLCmd.label "Копировать адрес ссылки">
 <!ENTITY copyURLCmd.accesskey "и">
+<!ENTITY closeCmd.key "W">
