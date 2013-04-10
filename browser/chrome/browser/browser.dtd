@@ -207,6 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Vzdialená webová konzola">
 
+<!ENTITY browserConsoleCmd.label      "Konzola prehliadača">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -629,8 +631,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Zobrazovať upozornenia">
 <!ENTITY social.toggleNotifications.accesskey "r">
 
-<!ENTITY social.activated.undobutton.label "Vrátiť späť">
-<!ENTITY social.activated.undobutton.accesskey "V">
+<!ENTITY social.activated.description "Služby z <label/> boli povolené. Služby môžete spravovať v okne <label class='text-link'>Správcu doplnkov</label>.">
+<!ENTITY social.activated.undo.label "Vrátiť späť">
+<!ENTITY social.activated.undo.accesskey "V">
+<!ENTITY social.learnMore.label "Ďalšie informácie…">
+<!ENTITY social.learnMore.accesskey "a">
+<!ENTITY social.closeNotificationItem.label "Teraz nie">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">

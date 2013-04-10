@@ -164,6 +164,7 @@ size. -->
 <!ENTITY contextmenu_paste "Prilepiť">
 <!ENTITY contextmenu_copyurl "Kopírovať adresu">
 <!ENTITY contextmenu_edit_bookmark "Upraviť">
+<!ENTITY contextmenu_subscribe "Prihlásiť k odberu">
 
 <!ENTITY history_removed "Stránka odstránená">
 
@@ -212,7 +213,7 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
+<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
