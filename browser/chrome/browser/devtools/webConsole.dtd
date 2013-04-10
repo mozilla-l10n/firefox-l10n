@@ -60,7 +60,7 @@
 <!ENTITY btnConsoleWarnings     "Varningar">
 <!ENTITY btnConsoleLog          "Logg">
 
-<!ENTITY filterBox.placeholder "Filter">
+<!ENTITY filterOutput.placeholder "Filtrera utdata">
 <!ENTITY btnClear.label        "Rensa">
 <!ENTITY btnClear.tooltip      "Rensa webbkonsolen">
 
