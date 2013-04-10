@@ -17,7 +17,7 @@
 <!ENTITY bigger.label "Større">
 <!ENTITY smaller.label "Mindre">
 <!ENTITY quotedTextColor.label            "Farve:">
-<!ENTITY quotedTextColor.accesskey        "f">
+<!ENTITY quotedTextColor.accesskey        "e">
 <!ENTITY displayWidth.label "Meddelelser i ren tekst">
 <!ENTITY displayText.label "Ved visning af citerede meddelelser i ren tekst-format:">
 
