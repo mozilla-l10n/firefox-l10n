@@ -160,6 +160,7 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Console web remota">
+<!ENTITY browserConsoleCmd.label "Console del browser">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY responsiveDesignTool.label "Visualizzazione flessibile">
