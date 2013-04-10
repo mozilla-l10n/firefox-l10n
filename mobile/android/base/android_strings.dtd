@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Uložené heslá">
 <!ENTITY pref_private_data_cache "Vyrovnávacia pamäť">
 <!ENTITY pref_private_data_offlineApps "Údaje stránok v režime offline">
-<!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
+<!ENTITY pref_private_data_siteSettings "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizácie">
@@ -212,7 +212,7 @@ size. -->
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 <!ENTITY abouthome_about_sync3 "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»»">
+<!ENTITY abouthome_about_apps3 "Získajte aplikácie z archívu Firefox Marketplace a objavte to najlepšie, čo môže web poskytnúť&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
