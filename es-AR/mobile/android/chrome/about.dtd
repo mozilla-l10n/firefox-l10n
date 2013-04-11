@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Acerca de &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental y puede ser inestable.">
 <!ENTITY aboutPage.telemetryStart               " Automáticamente envía información sobre rendimiento, hardware, uso y personalizaciones de vuelta a ">
@@ -6,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Buscar actualizaciones »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Buscando actualizaciones…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hay actualizaciones disponibles">
-<!ENTITY aboutPage.checkForUpdates.found        "Actualización disponible">
+<!ENTITY aboutPage.checkForUpdates.available    "Actualización disponible; clic para descargar">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Descargando actualización…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Actualización descargada; clic para instalar">
 <!ENTITY aboutPage.faq.label                    "Preguntas frecuentes">
 <!ENTITY aboutPage.support.label                "Soporte">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidad">
