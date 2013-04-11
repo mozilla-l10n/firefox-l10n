@@ -50,10 +50,11 @@
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName;-in yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Online rejimə keçib səhifəni yeniləməkçün &quot;Yenidən yoxla&quot; düyməsinə basın.
-</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<ul>

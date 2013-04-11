@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Şifrəni təsdiqləyin">
 <!ENTITY setup.confirmPassword.accesskey "d">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Bunları qəbul edirim">
 <!ENTITY setup.tosAgree1.accesskey  "q">
 <!ENTITY setup.tosLink.label        "İstifadə Şərtləri">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Cihazları sinxronizasiya et">
 <!ENTITY addDevice.showMeHow.label          "Necə ediləcəyini göstər.">
 <!ENTITY addDevice.dontHaveDevice.label     "Cihaz yanımda deyil">
-<!ENTITY pairDevice.setup.description.label  "Aktivləşdirmək üçün digər cihazda &#x0022;Sinxronizasiya et&#x0022;i seçin.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Sonra bu kodu daxil edin:">
-<!ENTITY pairDevice.dialog.description.label "Yeni cihazı aktivləşdirmək üçün, digər cihazdan  &#x0022;sinxronizasiyanı quraşdır&#x0022;ı seçin.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Cihazın verdiyi kodu daxil edin:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Lütfən tekrar yoxlayın.">
 <!ENTITY addDevice.dialog.successful.label  "Cihaz uğurla əlavə edildi. Arxaplanda aparılacaq ilk sinxronlaşdırma bir neçə dəqiqə çəkə bilər.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Hesabını aç">
-<!ENTITY existingRecoveryKey.description "Bərpa açarınızın bir kopyasını əldə etmək üçün digər cihazınızda &syncBrand.shortName.label; Seçimlərinə girin və &#x0022; Hesabı idarə et&#x0022; altından &#x0022;Bərpa açarım&#x0022;ı seçin.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Təsdiqlənir…">
 <!ENTITY resetPassword.label          "Şifrəni sıfırla">
 <!ENTITY resetSyncKey.label           "Diğer aygıtımı kaybettim.">

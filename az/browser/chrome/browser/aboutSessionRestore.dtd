@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Geri qaytar">
 <!ENTITY restorepage.listHeader     "Pəncərələr və vərəqlər">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#37;S. pəncərə">
+<!ENTITY restorepage.windowLabel    "&#037;S. pəncərə">

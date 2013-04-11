@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Şəkilləri yüklə">
 <!ENTITY  permPopup             "İstənməyən pəncərələri aç">
 <!ENTITY  permCookie            "Cookie saxla">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Əlavə və ya tema quraşdır">
 <!ENTITY  permGeo               "Ünvanımı paylaş">
 <!ENTITY  permPlugins           "Əlavəni aktivləşdir">
 <!ENTITY  permFullscreen        "Tam ekrana keç">
+<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
 
 <!ENTITY  permIndexedDB              "Offline fayl saxlamanı idarə et">
 <!ENTITY  permClearStorage           "Saxlananları təmizlə">

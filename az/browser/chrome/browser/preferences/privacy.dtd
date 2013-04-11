@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "İzleme">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.label        "Saytlara mənim izlənmə nizamlamalarım haqqında məlumat vermə">
+<!ENTITY dntTrackingNopref.accesskey    "m">
 <!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Saytlardan cookie qəbul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-<!ENTITY  acceptThirdParty.label        "Üçüncü tərəf cookilərini qəbul et">
-<!ENTITY  acceptThirdParty.accesskey    "e">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Hər zaman">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Saxlama limiti:">
 <!ENTITY  keepUntil.accesskey           "t">

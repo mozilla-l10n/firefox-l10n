@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Bu məhsulla  bağlı bütün məxfilik qanunları burada göstərilməlidir.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Bəzi &brandShortName; funksiyaları web əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların tamamən doğru və səhvsiz olduğuna zəmanət verə bilmərik. Bu xidmətləri istifadə edən funksiyaların söndürülməsi ilə bağlı məlumata ">
+<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
 <!ENTITY rights.intro-point4b "xidmət şərtləri">
 <!ENTITY rights.intro-point4c "açıqlanmışdır.">
 <!-- point 4 text for unbranded builds -->
@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; bu cütlük &brandShortName; versiyasında istifadənizə verilən bəzi funksiyalar üçün, aşağıda açıqlanan şərtlər əsasında web əsaslı məlumat xidmətlərindən (&quot;Hizmetler&quot;) faydalanır. Xidmətlərindən birini və ya bir neçəsini istifadə etmək istəyirsinizsə və ya aşağıdakı şərtləri qabul etmirsinizsə müvafiq funksiyanı və Xidmət(lər)i söndürə bilərsiniz. Funksiya və Xidmətləri  söndürməyiniz üçün  təlumatlara ">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "buradan baxa bilərsiniz">
 <!ENTITY rights2.webservices-c "açıqlanmışdır.">
 <!-- safe browsing points for branded builds -->
@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "Təhlükəsiz Baxış funsiyasını söndürməyiniz etibar edilməyən saytlara girməyinizlə nəticələnə biləcəyi üçün tövsiyyə edilmir. Bu funksiyanı tamam söndürmək istəyirsinizsə bu addımları təkrarlayın:">
 <!ENTITY rights.safebrowsing-term1 "Proqram seçimlərini açın">
 <!ENTITY rights.safebrowsing-term2 "Təhlükəsizlik bölməsini seçin">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; və &quot;&blockWebForgeries.label;&quot; seçimlərinin işarələrini götürün">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Təhlükəsiz baxış artıq söndürülüb">
 <!-- location aware browsing points for branded builds -->
 
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; və ona kömək edənlər, lisenziya sahibləri və iş ortaqları ən əksiksiz və aktual Xidmətləri təqdim etmək üçün birlikdə işləməkdədir. Buna baxmayaraq bu məlumatların hərtərəfli və xətasız olduğuna zəmanət verə bilmərik. Məsələn: Təhlükəsiz Baxış xidməti bəzi risqli saytları tanımaya bilər və bəzi təhlükəsiz saytları yanlış tanıya bilər. Vəziyyətə həssas Xidmət də xidmət təminatçılarımız tərəfindən göstərilən bütün vəziyyətlər sadəcə ehtimaldır və nə biz nə də xitmət təminatçılarımız bu vəziyyətlərin doğruluğuna zəmanət vermirik.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; öz istəyi ilə Xidmətləri dayandıra və ya dəyişdirə bilər.">
 <!ENTITY rights2.webservices-term3 "Bu xidmətləri uyğun &brandShortName; istifadə etməkdə sərbəstsiniz və  &vendorShortName; sizə bu haqları verir. &vendorShortName; və lisenziya sahibləri üzərindəki digər bütün haqlara sahibdir.  Bu şərtlər &brandShortName; və əlaqəli &brandShortName; qaynaq kodu versiyalarında etibarlı olan açıq qaynaq lisenziya haqlarınızı heç bir şəkildə məhdudlaşdırmır.">
-<!ENTITY rights.webservices-term4 "Xidmətlər &quot;olduqları gibi&quot; təmin edilməkdədir. &vendorShortName;, ona kömək edənlər, lisenziya sahibləri və yayımlayıcılar; Xidmətlərin ticarət dəyərinin olduğu və ehtiyaclarınıza uyğun olacağı haqqında hər hansı yazılı və ya şifahi bir zəmanət vermir. Ehtiyaclarınızı ödəmək üçün xidmətləri seçsəniz keyfiyyət və effektivliyə dair risklər öz üzərinizdədir. Bəzi qanunlar zəmanətlərin istisna edilməsinə və ya məhdudlaşdırılmasına icazə verməyə bilər. Bu halda bu şərtlər sizin üçün etibarlı olmayacaqdır. ">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term5 "Qanun tələbatları xaricində; &vendorShortName;, ona kömək edənlər, lisenziya sahibləri və yayımlayıcıları &brandShortName; məhsulunun və xidmətlərin istifadəsində yarana biləcək hər hansı bir dolayı, xüsusi, təsadüfi, kriminal və ya örnək ola biləcək zərərdən günahkar sayıla bilməz. Bu şərtlərlə, məsuliyyətlilik məbləği 500 $'ı (beş yüz dollar) keçə bilməz. Bəzi mühakimə hökmləri bəlli zərərləri istisna tutulmağına və ya məhdudiyyətə icazə verməyə bilər, belə vəziyyətdə istisna və məhdudiyyət sizin üçün etibarlı olmaya bilər.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; lazım bilərsə bu şərtləri yeniləyə bilər. Bu şərtlər &vendorShortName;-nın yazılı təsdiqi olmadan dəyişdirilə bilməz və ya ləğv edilə bilməz.">
 <!ENTITY rights.webservices-term7 "Bu şərtlər, qanun mübahisəsi hökmləri xaric olmaqla, ABŞ Kaliforniya ştatı qanunları ilə qorunur. Bu şərtlərin hər hansı bir hissəsinin ləğv və ya tətbiq edilə bilməz vəziyyətdə olduğu halda, geri qalan hissələr etibarlı və effektiv olmaya davam edəcəkdir. Bu şərtlərin tərcümə versiyası ilə İngiliscə versiyası arasında fərq olarsa, İngiliscə versiyası etibarlı sayılacaq.">

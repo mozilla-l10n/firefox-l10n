@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd brauzerin yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
 
 <!ENTITY netOffline.title "Offline rejim">
-<!ENTITY netOffline.longDesc2 "<p>Brazuer hazırda offline rejimdədi və istədiyiniz obyektə bağlana bilməz.</p><ul><li>Komputerinizdə aktiv bir bağlantı mövcuddurmu?</li><li>Brauzeri online rejimə keçirdikdən sonra səhifəni açmağı  &quot;təkrar yoxlayın.&quot;</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<p>Baxmaq istədiyiniz səhifə göstərilə bilmir, çünki etibarsız ya da dəstəklənməyən sıxışdırmadan istifadə edir.</p><ul><li>Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">

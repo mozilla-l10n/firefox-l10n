@@ -26,14 +26,6 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "CSS xüsusiyyəti tapılmadı.">
-<!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch): For each style
-  -  property the panel shows the rules containing that property. For every
-  -  rule, the rule status is also displayed: a rule can be the best match, a
-  -  match or a parent match. -->
-
-<!ENTITY bestMatch             "Ən yaxşı uyğunlaşma">
-<!ENTITY matched               "Uyğunlaşdı">
-<!ENTITY parentMatch           "Üstün uyğunlaşma">
 <!-- FIXME: notes -->
 
 <!ENTITY computedViewTitle     "Hesablanan">

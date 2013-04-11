@@ -17,18 +17,18 @@
 <!ENTITY landscape.accesskey  "Y">
 <!ENTITY close.label          "Kapat">
 <!ENTITY close.accesskey      "K">
-<!ENTITY p30.label            "&#037;30">
-<!ENTITY p40.label            "&#037;40">
-<!ENTITY p50.label            "&#037;50">
-<!ENTITY p60.label            "&#037;60">
-<!ENTITY p70.label            "&#037;70">
-<!ENTITY p80.label            "&#037;80">
-<!ENTITY p90.label            "&#037;90">
-<!ENTITY p100.label           "&#037;100">
-<!ENTITY p125.label           "&#037;125">
-<!ENTITY p150.label           "&#037;150">
-<!ENTITY p175.label           "&#037;175">
-<!ENTITY p200.label           "&#037;200">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
+<!ENTITY p150.label           "150&#037;">
+<!ENTITY p175.label           "175&#037;">
+<!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Şəxsiləşdir:">
 <!ENTITY ShrinkToFit.label    "Səhifəyə görə nizamla">
 <!ENTITY customPrompt.title   "Böyüt / Kiçilt…">
