@@ -9,6 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "網頁主控台">
+<!ENTITY browserConsole.title "瀏覽器主控台">
 
 <!ENTITY networkPanel.requestURLColon             "請求 URL:">
 <!ENTITY networkPanel.requestMethodColon          "請求方法:">
@@ -60,7 +61,7 @@
 <!ENTITY btnConsoleWarnings     "警告">
 <!ENTITY btnConsoleLog          "記錄">
 
-<!ENTITY filterBox.placeholder "篩選條件">
+<!ENTITY filterOutput.placeholder "過濾輸出">
 <!ENTITY btnClear.label        "清除">
 <!ENTITY btnClear.tooltip      "清除網頁主控台輸出內容">
 
@@ -76,4 +77,6 @@
 
 <!ENTITY copyURLCmd.label     "複製鏈結網址">
 <!ENTITY copyURLCmd.accesskey "a">
+
+<!ENTITY closeCmd.key  "W">
 
