@@ -28,12 +28,12 @@
 
 <!ENTITY cookie.label                    "Tetapkan Cecikut">
 <!ENTITY cookie.remove                   "Singkir Cecikut">
-<!ENTITY cookie.manage                   "Manage Cookies…">
+<!ENTITY cookie.manage                   "Urus Cecikut...">
 <!ENTITY cookie.removeAll                "Buang Semua Cecikut">
 
 <!ENTITY geo.label                       "Kongsi Lokasi">
 
-<!ENTITY plugins.label                   "Plugins">
+<!ENTITY plugins.label                   "Plugin-plugin">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 

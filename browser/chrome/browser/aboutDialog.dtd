@@ -15,7 +15,7 @@
 <!ENTITY community.exp.middle       " merupakan satu ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komuniti global">
-<!ENTITY community.exp.end          "bekerja sama untuk menjaga Web terbuka, awam dan boleh didapati oleh semua.">
+<!ENTITY community.exp.end          " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
 
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -23,7 +23,7 @@
 <!ENTITY community.middle2          ", satu ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komuniti global">
-<!ENTITY community.end3             "bekerja sama untuk menjaga Web terbuka, awam dan boleh didapati oleh semua.">
+<!ENTITY community.end3             " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
 
 <!ENTITY contribute.start           "Bunyi menarik? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

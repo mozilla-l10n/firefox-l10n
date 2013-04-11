@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Terima cookies dari laman web">
 <!ENTITY  acceptCookies.accesskey       "T">
 
-<!ENTITY  acceptThirdParty.label        "menerima cookies pihak ketiga">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Kekalkan sehingga:">
 <!ENTITY  keepUntil.accesskey           "K">

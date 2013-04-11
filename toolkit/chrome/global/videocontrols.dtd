@@ -20,9 +20,9 @@
 <!ENTITY stats.channels "Saluran">
 <!ENTITY stats.sampleRate "Kadar Sampel">
 <!ENTITY stats.framesParsed "Bingkai dihuraikan">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames presented">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.framesDecoded "Bingkai dilukis">
+<!ENTITY stats.framesPresented "Bingkai dilukis">
+<!ENTITY stats.framesPainted "Bingkai dilukis">
 
 <!ENTITY error.aborted "Video yang dimuatkan berhenti.">
 <!ENTITY error.network "Video ulangan digugurkan kerana kesalahan rangkaian.">
