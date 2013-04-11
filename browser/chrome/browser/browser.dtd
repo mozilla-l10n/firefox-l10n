@@ -207,6 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "遠端網頁主控台">
 
+<!ENTITY browserConsoleCmd.label      "瀏覽器主控台">
+
 <!ENTITY inspectContextMenu.label     "檢測元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -631,9 +633,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "已啟用來自 <label/> 的服務。您可以在 <label class='text-link'>附加元件管理員中</label> 修改服務選項。">
-<!ENTITY social.activated.undobutton.label "復原">
-<!ENTITY social.activated.undobutton.accesskey "U">
-<!ENTITY social.learnMore.label "了解更多資訊…">
+<!ENTITY social.activated.undo.label "喔喔，我要還原！">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "更多資訊…">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "現在不要">
 
