@@ -10,12 +10,12 @@
 
 <!ENTITY privatebrowsingpage.perwindow.description     "Di dalam sesi Pelayaran Web Peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelayaran web, sejarah carian, sejarah muat turun, sejarah borang web, cookies, atau fail-fail sementara internet. Bagaimanapun, fail-fail yang anda muat turun dan penandabuku-penandabuku yang anda buat akan disimpan.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Open a Private Window">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 <!ENTITY privatebrowsingpage.howToStart3               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &newPrivateWindow.label;.">
-<!ENTITY privatebrowsingpage.howToStop3                "To stop Private Browsing, you can close this window.">
+<!ENTITY privatebrowsingpage.howToStop3                "Untuk menghentikan Pelayaran Peribadi, anda boleh menutup tetingkap ini.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ketahui Lanjut">

@@ -31,14 +31,9 @@ that require it.  -->
 
 <!ENTITY historySection.label         "Sejarah">
 <!ENTITY dataSection.label            "Data">
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Layar &amp; Sejarah Muat Turun">
 <!ENTITY itemHistoryAndDownloads.accesskey "L">
-<!ENTITY itemBrowsingHistory.label         "Melungsur Sejarah">
-<!ENTITY itemBrowsingHistory.accesskey     "M">
 <!ENTITY itemFormSearchHistory.label       "Form &amp; Latar Carian">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Katalaluan Tersimpan">
@@ -49,8 +44,6 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Data laman web offline">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Sejarah Muat Turun">
-<!ENTITY itemDownloadHistory.accesskey     "S">
 <!ENTITY itemActiveLogins.label            "Login Aktif">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Keutamaan Laman">
@@ -60,6 +53,10 @@ that require it.  -->
      mockup at bug 480169 -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Tindakan ini tidak dapat dilakukan.">
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+     Clear History on Shutdown dialogs.  Should be large enough to contain
+     the item* strings above on a single line.  The column width should be set
+     at half of the dialog width. -->
 
-<!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">
+<!ENTITY dialog.width2                 "34em">
+<!ENTITY column.width2                 "17em">

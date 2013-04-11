@@ -15,8 +15,8 @@
 <!ENTITY  paneTabs.title          "Tab-tab">
 <!ENTITY  paneContent.title       "Kandungan">
 <!ENTITY  paneApplications.title  "Aplikasi">
-<!ENTITY  panePrivacy.title       "Peribadi">
-<!ENTITY  paneSecurity.title      "Sekuriti">
+<!ENTITY  panePrivacy.title       "Perivasi">
+<!ENTITY  paneSecurity.title      "Keselamatan">
 <!ENTITY  paneAdvanced.title      "Lanjutan">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 

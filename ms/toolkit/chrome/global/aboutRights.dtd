@@ -40,7 +40,7 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "Sekiranya produk ini merangkumi perkhidmatan web, sebarang terma perkhidmatan yang diguna pakai untuk perkhidmatan ini perlu dihubungkan ke ">
+<!ENTITY rights.intro-point4a-unbranded "Sekiranya produk ini merangkumi servis web, sebarang terma perkhidmatan yang diguna pakai untuk servis(-servis) ini perlu dihubungkan ke ">
 <!ENTITY rights.intro-point4b-unbranded "Servis Laman Web">
 <!ENTITY rights.intro-point4c-unbranded "seksyen.">
 
@@ -51,7 +51,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Services&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah , anda boleh mematikan ciri-ciri atau servis tersebut. Arahan tentang cara-cara untuk mematikan ciri-ciri atau servis tertentu boleh dijumpai">
+<!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Services&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah , anda boleh mematikan ciri-ciri atau servis tersebut. Arahan tentang cara-cara untuk mematikan ciri-ciri atau Servis(-Servis) tertentu boleh dijumpai">
 <!ENTITY rights2.webservices-b "Di sini">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->

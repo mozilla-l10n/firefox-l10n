@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Menilai">
 <!ENTITY evaluate.accesskey "n">
-<!ENTITY filter.label       "Penapis">
-<!ENTITY filter.accesskey   "P">
+<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "Salin">  
 <!ENTITY copyCmd.accesskey   "S"> 

@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Muatkan Imej-imej">
 <!ENTITY  permPopup             "Buka Tetingkap Pop-up">
 <!ENTITY  permCookie            "Tetapkan Cecikut">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Pasang Sambungan atau tema">
 <!ENTITY  permGeo               "Kongsi Lokasi">
 <!ENTITY  permPlugins           "Plugin Aktif">
 <!ENTITY  permFullscreen        "Masukkan skrin penuh">
+<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
 
 <!ENTITY  permIndexedDB              "Kekalkan Storan Luartalian">
 <!ENTITY  permClearStorage           "Bersihkan Storan">
