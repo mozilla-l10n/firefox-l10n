@@ -10,6 +10,6 @@
 <!ENTITY aboutDownloads.remove                     "حذف">
 <!ENTITY aboutDownloads.removeAll                  "احذف الكل">
 <!ENTITY aboutDownloads.pause                      "ألبِث">
-<!ENTITY aboutDownloads.resume                     "Resume">
+<!ENTITY aboutDownloads.resume                     "أكمل">
 <!ENTITY aboutDownloads.cancel                     "ألغِ">
-<!ENTITY aboutDownloads.retry                      "Retry">
+<!ENTITY aboutDownloads.retry                      "أعِد المحاولة">

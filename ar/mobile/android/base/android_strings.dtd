@@ -78,7 +78,7 @@
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
 <!ENTITY pref_clear_private_data "امسح البيانات الخاصة">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
@@ -101,7 +101,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_show_product_announcements "اعرض أخبار المنتجات">
@@ -115,7 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings "تفضيلات الموقع">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_downloadFiles "الملفّات المُنزّلة">
 
 <!ENTITY pref_update_autodownload "التحديثات التلقائية">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
@@ -204,7 +204,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "حرِّر">
 <!ENTITY abouthome_topsites_pin "ثبّت الموقع">
 <!ENTITY abouthome_topsites_unpin "افصل الموقع">
-<!ENTITY abouthome_topsites_remove "Remove">
+<!ENTITY abouthome_topsites_remove "احذف">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
