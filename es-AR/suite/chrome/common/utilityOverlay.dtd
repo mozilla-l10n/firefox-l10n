@@ -18,13 +18,13 @@
 <!ENTITY newPageFromTemplateCmd.label "Página que usa plantilla">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Página usando borrador">
-<!ENTITY newPageFromDraftCmd.accesskey "P">
+<!ENTITY newPageFromDraftCmd.accesskey "b">
 <!ENTITY newNavigatorCmd.label "Ventana del navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
 <!ENTITY newPrivateWindowCmd.label "Ventana privada">
 <!ENTITY newPrivateWindowCmd.key "p">
-<!ENTITY newPrivateWindowCmd.accesskey "W">
+<!ENTITY newPrivateWindowCmd.accesskey "r">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista previa">

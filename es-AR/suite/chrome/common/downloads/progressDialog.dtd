@@ -9,9 +9,9 @@
 <!ENTITY cmd.retry.tooltip               "Reintentar">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
 <!ENTITY cmd.open.label                  "Abrir">
-<!ENTITY cmd.open.accesskey              "o">
+<!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.show.label                  "Abrir carpeta contenedora">
-<!ENTITY cmd.show.accesskey              "f">
+<!ENTITY cmd.show.accesskey              "b">
 <!ENTITY cmd.goToDownloadPage.label      "Ir a página de descargas">
 <!ENTITY cmd.goToDownloadPage.accesskey  "g">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar dirección del enlace">

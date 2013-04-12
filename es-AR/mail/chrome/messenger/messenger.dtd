@@ -243,7 +243,7 @@
 <!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Cuerpo del mensaje como">
-<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY bodyMenuFeed.accesskey "j">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Resumen">

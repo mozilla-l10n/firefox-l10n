@@ -7,13 +7,13 @@
 <!ENTITY viewPicker.label "Ver:">
 <!ENTITY viewPicker.accesskey "V">
 <!ENTITY viewAll.label "Todos">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "No leídos">
 <!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "No Borrados">
 <!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Etiquetas">
-<!ENTITY viewTags.accesskey "t">
+<!ENTITY viewTags.accesskey "E">
 <!ENTITY viewCustomViews.label "Vistas personalizadas">
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Guardar vista como una carpeta…">

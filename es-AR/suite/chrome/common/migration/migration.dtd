@@ -10,7 +10,7 @@
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Archivo">
-<!ENTITY importFromFile.accesskey        "F">
+<!ENTITY importFromFile.accesskey        "A">
 <!ENTITY importFromNothing.label         "No importar nada">
 <!ENTITY importFromNothing.accesskey     "D">
 
