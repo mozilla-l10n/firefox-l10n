@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Oscail i gComhrá">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Oscail an Teachtaireacht Fhotha">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Leathanach Gréasáin i bhFuinneog Nua">
-<!ENTITY openFeedWebPageInWindow.accesskey "G">
-<!ENTITY openFeedSummaryInWindow.label "Achoimre i bhFuinneog Nua">
-<!ENTITY openFeedSummaryInWindow.accesskey "A">
+<!ENTITY openFeedMessage1.label "Agus Teachtaireachtaí Fotha á nOscailt">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Oscail mar Leathanach Gréasáin">
+<!ENTITY openFeedWebPage.accesskey "L">
+<!ENTITY openFeedSummary.label "Oscail mar Achoimre">
+<!ENTITY openFeedSummary.accesskey "A">
 <!ENTITY openFeedWebPageInMP.label "Scoránaigh an leathanach gréasáin agus an achoimre sa phána teachtaireachta">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 <!-- Windows Menu -->

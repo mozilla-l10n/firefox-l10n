@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY searchDialogTitle.label "Cuardaigh Teachtaireachtaí">
 <!ENTITY results.label "Torthaí">
-<!ENTITY fileHereMenu.label "Comhdaigh Anseo">
-<!ENTITY fileHereMenu.accesskey "C">
-<!ENTITY fileButton.label "Comhad">
-<!ENTITY fileButton.accesskey "o">
+<!ENTITY moveHereMenu.label "Bog Anseo">
+<!ENTITY moveHereMenu.accesskey "A">
+<!ENTITY moveButton.label "Bog Go">
+<!ENTITY moveButton.accesskey "G">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "Oscail i bhFillteán">
 <!ENTITY openInFolder.accesskey "F">

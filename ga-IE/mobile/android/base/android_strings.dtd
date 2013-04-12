@@ -116,7 +116,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Focail fhaire a sábháladh">
 <!ENTITY pref_private_data_cache "Taisce">
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
-<!ENTITY pref_private_data_siteSettings "Sainroghanna suímh">
+<!ENTITY pref_private_data_siteSettings2 "Socruithe an tsuímh">
 <!ENTITY pref_private_data_downloadFiles "Comhaid íosluchtaithe">
 
 <!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">

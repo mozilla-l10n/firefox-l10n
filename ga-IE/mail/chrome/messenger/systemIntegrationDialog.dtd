@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Comhtháthú Córais">
 <!ENTITY acceptIntegration.label "Socraigh mar réamhshocrú">
 <!ENTITY cancelIntegration.label "Ná Bac le Comhtháthú">
+<!ENTITY cancelIntegration2.label "Cealaigh">
 <!ENTITY defaultClient.intro "Úsáid &brandShortName; mar chliant réamhshocraithe le haghaidh:">
 
 <!ENTITY email.label "R-Phost">
