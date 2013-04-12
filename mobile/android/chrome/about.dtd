@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Lorg Nuashonruithe »">
 <!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
 <!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
-<!ENTITY aboutPage.checkForUpdates.found "Nuashonrú le fáil">
+<!ENTITY aboutPage.checkForUpdates.available "Nuashonrú ar fáil; cliceáil chun é a íosluchtú">
+<!ENTITY aboutPage.checkForUpdates.downloading "Nuashonrú á íosluchtú…">
+<!ENTITY aboutPage.checkForUpdates.downloaded "Nuashonrú íosluchtaithe; cliceáil chun é a shuiteáil">
 <!ENTITY aboutPage.faq.label "Ceisteanna Coitianta">
 <!ENTITY aboutPage.support.label "Tacaíocht">
 <!ENTITY aboutPage.privacyPolicy.label "Polasaí Príobháideachta">

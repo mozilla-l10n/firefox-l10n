@@ -12,7 +12,6 @@
 <!ENTITY intro.message "Nocht do thuairim faoi &brandShortName; ar Android go dtí seo.">
 <!ENTITY intro.happyLink "Taitníonn sé liom">
 <!ENTITY intro.sadLink "Bhí fadhbanna agam">
-<!ENTITY intro.ideaLink "Tá moladh agam">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom "Tugaimid an leabhar ann.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message "Is breá linn do chuid moltaí! Déan cur síos ar do smaoineamh thíos. (Smaointe a bhaineann le &brandShortName; amháin, le do thoil.)">
-<!ENTITY idea.placeholder "Cuir do smaoineamh anseo">
-<!ENTITY idea.thanksHeader "GRMA!">
-
-<!ENTITY idea.thanksMessageTop "We appreciate you taking the time to share your thoughts. We're always working to make &brandShortName; better and contributions like yours can lead to great things.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom "Ní féidir leat é a fheiceáil, ach táimid ag tabhairt bos in ard duit anois.">
 
 <!ENTITY feedback.privacy "Bí cinnte nach bhfuil aon fhaisnéis inaitheanta phearsanta i do chuid aiseolais.">
 <!ENTITY feedback.send "Tabhair Aiseolas">

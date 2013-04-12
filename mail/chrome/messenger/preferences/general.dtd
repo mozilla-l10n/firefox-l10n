@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label "Saincheap…">
 <!ENTITY customizeMailAlert.accesskey "c">
 
+<!ENTITY showTrayIcon.label "Taispeáin deilbhín sa tráidire">
+<!ENTITY showTrayIcon.accesskey "t">
+
 <!ENTITY play.label "Seinn">
 <!ENTITY play.accesskey "S">
 <!ENTITY systemsound.label "Fuaim réamhshocraithe chórais le haghaidh ríomhphost nua">
