@@ -464,8 +464,8 @@
 <!ENTITY social.toggleNotifications.label "Visualizza notifiche desktop">
 <!ENTITY social.toggleNotifications.accesskey "k">
 <!ENTITY social.activated.description "Sono stati attivati i servizi da <label/>. È possibile modificare le impostazioni relative ai servizi nel <label class='text-link'>Gestore componenti aggiuntivi</label>.">
-<!ENTITY social.activated.undobutton.label "Annulla">
-<!ENTITY social.activated.undobutton.accesskey "A">
+<!ENTITY social.activated.undo.label "Oops, annulla">
+<!ENTITY social.activated.undo.accesskey "a">
 <!ENTITY social.learnMore.label "Ulteriori informazioni…">
 <!ENTITY social.learnMore.accesskey "U">
 <!ENTITY social.closeNotificationItem.label "Non adesso">
