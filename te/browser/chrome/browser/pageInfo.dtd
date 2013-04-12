@@ -93,3 +93,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "సాంకేతిక వివరములు">
+<!ENTITY  permNotifications     "ప్రకటనలను చూపు">
+<!ENTITY  permPointerLock       "మౌస్ కర్సర్ మరుగునపెట్టు">
