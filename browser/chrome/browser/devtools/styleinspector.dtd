@@ -31,9 +31,6 @@
   -  rule, the rule status is also displayed: a rule can be the best match, a
   -  match or a parent match. -->
 
-<!ENTITY bestMatch             "మంచి పోలిక">
-<!ENTITY matched               "సరిపోలిన">
-<!ENTITY parentMatch           "మాత్రకు పోలిక">
 <!-- FIXME: notes -->
 
 <!ENTITY computedViewTitle     "గణించిన">

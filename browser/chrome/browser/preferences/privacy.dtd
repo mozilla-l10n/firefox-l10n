@@ -27,9 +27,6 @@
 <!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "మూడో-వ్యక్తి కుకీలను ఆమోదించుము">
-<!ENTITY  acceptThirdParty.accesskey    "c">
-
 <!ENTITY  keepUntil.label               "దీనివరకు వుంచు:">
 <!ENTITY  keepUntil.accesskey           "K">
 
@@ -83,3 +80,9 @@
 
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  acceptThirdParty.always.label   "ఎల్లప్పుడూ">
+<!ENTITY  acceptThirdParty.never.label    "ఎప్పటికీవద్దు">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "మూడో-వ్యక్తి కుకీలను ఆమోదించు:">
+<!ENTITY  acceptThirdParty.visited.label  "దర్శించినవి నుండి">

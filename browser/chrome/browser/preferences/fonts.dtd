@@ -67,7 +67,8 @@
 
 <!ENTITY  allowPagesToUse.label                   "పైన నేను ఎన్నుకున్నవాటికి బదులుగా ,పేజీలు వాటియొక్క స్వంత ఫాంటులను  ఎంచుకొనుటకు అనుమతివ్వండి">
 <!ENTITY  allowPagesToUse.accesskey               "A">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "తన సంహితీకరణను ప్రకటించుటలో విఫలమయ్యే పాత విషయం కొరకు వుపయోగించుటకు యీ అక్షర సంహితీకరణ వుపయోగించబడును.">
+<!ENTITY languages.customize.Fallback.grouplabel  "పాత విషయం కొరకు అక్షర సంహితీకరణ">
+<!ENTITY languages.customize.Fallback.label       "ఫాల్‌బాక్ అక్షర సంహితీకరణ:">
 
-<!ENTITY languages.customize.Charset.grouplabel         "అక్షర సంహితీకరణ">
-<!ENTITY languages.customize.DefaultCharset.label       "అప్రమేయ అక్షర సంహితీకరణ:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
