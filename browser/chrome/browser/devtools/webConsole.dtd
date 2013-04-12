@@ -61,7 +61,7 @@
 <!ENTITY btnConsoleWarnings     "Avertissements">
 <!ENTITY btnConsoleLog          "Log">
 
-<!ENTITY filterBox.placeholder "Filtrer">
+<!ENTITY filterOutput.placeholder "Filtrer">
 <!ENTITY btnClear.label        "Vider la console">
 <!ENTITY btnClear.tooltip      "Vider la console web">
 
