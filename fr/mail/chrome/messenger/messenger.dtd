@@ -39,8 +39,6 @@
 <!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Pièces jointes">
-<!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Enregistrer comme">
 <!ENTITY saveAsMenu.accesskey "s"> 
 <!ENTITY saveAsFileCmd.label "Fichier">
@@ -432,6 +430,8 @@
 <!ENTITY openConversationCmd.label "Ouvrir dans la discussion">
 <!ENTITY openConversationCmd.accesskey "u">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentCmd.label "Pièces jointes">
+<!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY openFeedMessage1.label "À l'ouverture des messages de flux">
 <!ENTITY openFeedMessage1.accesskey "x">
 <!ENTITY openFeedWebPage.label "Ouvrir en tant que page web">
