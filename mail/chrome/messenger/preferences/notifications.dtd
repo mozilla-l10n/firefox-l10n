@@ -10,4 +10,7 @@
 <!ENTITY subject.label "Тема">
 <!ENTITY subject.accesskey "е">
 <!ENTITY sender.label "Отправитель">
-<!ENTITY sender.accesskey "т">
+<!ENTITY sender.accesskey "п">
+<!ENTITY totalOpenTimeBefore.label "Отображать уведомление о приходе почты в течение">
+<!ENTITY totalOpenTimeBefore.accesskey "о">
+<!ENTITY totalOpenTimeEnd.label "сек.">
