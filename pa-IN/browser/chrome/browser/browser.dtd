@@ -284,6 +284,9 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY clearRecentHistory.label               "…ਤਾਜ਼ਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 <!ENTITY viewMenu.label         "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewTabGroups.label            "ਟੈਬ ਗਰੁੱਪ">
@@ -605,7 +608,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "…ਹੋਰ ਜਾਣਕਾਰੀ">
 
 
-<!ENTITY allTabs.filter.emptyText "ਟੈਬ ਖੋਜ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਟੈਬ">

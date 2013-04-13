@@ -51,6 +51,10 @@ that require it.  -->
 <!ENTITY itemSitePreferences.label         "ਸਾਈਟ ਪਸੰਦ">
 <!ENTITY itemSitePreferences.accesskey     "S">
 
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "ਇਹ ਕਾਰਵਾਈ ਵਾਪਿਸ ਨਹੀਂ ਪਰਤਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ।">
 
 <!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
      Clear History on Shutdown dialogs.  Should be large enough to contain
