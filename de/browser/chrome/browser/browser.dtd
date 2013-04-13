@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.tooltip           "Diese Seite abonnieren…">
 
 <!ENTITY bookmarksButton.label          "Lesezeichen">
-<!ENTITY bookmarksButton.tooltip        "Öffnet Ihre Lesezeichen-Liste">
+<!ENTITY bookmarksButton.tooltip        "Lesezeichen-Liste öffnen">
 <!ENTITY bookmarksCmd.commandkey "B">
 
 <!ENTITY bookmarksMenuButton.label          "Lesezeichen">
@@ -176,7 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Chronik">
-<!ENTITY historyButton.tooltip          "Zeigt Seiten an, die Sie kürzlich besucht haben">
+<!ENTITY historyButton.tooltip          "Kürzlich besuchte Seiten anzeigen">
 <!ENTITY historySidebarCmd.commandKey   "H">
 
 <!ENTITY toolsMenu.label              "Extras">
@@ -502,8 +502,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "o">
 
-<!ENTITY newTabButton.tooltip           "Öffnet einen neuen Tab">
-<!ENTITY newWindowButton.tooltip        "Öffnet ein neues Fenster">
+<!ENTITY newTabButton.tooltip           "Einen neuen Tab öffnen">
+<!ENTITY newWindowButton.tooltip        "Ein neues Fenster öffnen">
 <!ENTITY sidebarCloseButton.tooltip     "Sidebar schließen">
 
 <!ENTITY cutButton.tooltip              "Ausschneiden">
