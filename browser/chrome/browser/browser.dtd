@@ -288,8 +288,8 @@
 <!ENTITY viewImageCmd.accesskey "I">
 <!ENTITY viewImageInfoCmd.label "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey "f">
-<!ENTITY viewVideoCmd.label "Ver video">
-<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "Ver vídeo">
+<!ENTITY viewVideoCmd.accesskey "í">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setDesktopBackgroundCmd.label "Establecer como fondo de escritorio…">
