@@ -160,6 +160,7 @@
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Consola web remota">
+<!ENTITY browserConsoleCmd.label "Consola del navegador">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
@@ -288,8 +289,8 @@
 <!ENTITY viewImageCmd.accesskey "I">
 <!ENTITY viewImageInfoCmd.label "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey "f">
-<!ENTITY viewVideoCmd.label "Ver video">
-<!ENTITY viewVideoCmd.accesskey "I">
+<!ENTITY viewVideoCmd.label "Ver vídeo">
+<!ENTITY viewVideoCmd.accesskey "í">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setDesktopBackgroundCmd.label "Establecer como fondo de escritorio…">
@@ -463,8 +464,8 @@
 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
 <!ENTITY social.activated.description "Los servicios de <label/> han sido activados. Puede cambiar la configuración de estos servicios en el <label class='text-link'>administrador de complementos</label>.">
-<!ENTITY social.activated.undobutton.label "Deshacer">
-<!ENTITY social.activated.undobutton.accesskey "h">
+<!ENTITY social.activated.undo.label "¡Uy! Deshacer esto">
+<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Saber más…">
 <!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.closeNotificationItem.label "No ahora">
