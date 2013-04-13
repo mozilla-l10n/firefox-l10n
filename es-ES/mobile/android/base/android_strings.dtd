@@ -78,7 +78,7 @@
 <!ENTITY pref_font_size_adjust_char "r">
 <!ENTITY pref_font_size_preview_text "El rapidísimo zorro naranja salta sobre sus expectativas con más velocidad, más flexibilidad y más seguridad. Sin ánimo de lucro, somos libres para innovar por usted sin ninguna presión hacia el compromiso. Esto resulta en una mejor experiencia para el usuario como usted y un futuro más brillante para la web.">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_show_product_announcements "Mostrar anuncios del producto">
+<!ENTITY pref_show_product_announcements "Mostrar avisos del producto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">

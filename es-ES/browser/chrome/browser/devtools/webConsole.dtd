@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Consola web">
+<!ENTITY browserConsole.title "Consola del navegador">
 <!ENTITY networkPanel.requestURLColon "URL pedida:">
 <!ENTITY networkPanel.requestMethodColon "Método de la petición:">
 <!ENTITY networkPanel.statusCodeColon "Código de estado:">
@@ -34,7 +35,7 @@
 <!ENTITY btnConsoleInfo "Información">
 <!ENTITY btnConsoleWarnings "Advertencias">
 <!ENTITY btnConsoleLog "Registro">
-<!ENTITY filterBox.placeholder "Filtro">
+<!ENTITY filterOutput.placeholder "Filtrar salida">
 <!ENTITY btnClear.label "Limpiar">
 <!ENTITY btnClear.tooltip "Limpiar la salida de la consola web">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -46,3 +47,4 @@
 <!ENTITY fullZoomResetCmd.commandkey2 "">
 <!ENTITY copyURLCmd.label "Copiar la ruta del enlace">
 <!ENTITY copyURLCmd.accesskey "r">
+<!ENTITY closeCmd.key "W">
