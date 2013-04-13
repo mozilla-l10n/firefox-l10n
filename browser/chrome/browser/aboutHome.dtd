@@ -22,7 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Det är enkelt att anpassa Firefox exakt som du vill ha det. <a>Välj bland tusentals tillägg</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; är fri programvara med öppen källkod från den ideella organisationen Mozilla Foundation. <a>Lär känna dina rättigheter …</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; är fri programvara med öppen källkod från den ideella organisationen Mozilla Foundation. <a>Läs om dina rättigheter …</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Bokmärken">
 <!ENTITY abouthome.historyButton.label   "Historiken">

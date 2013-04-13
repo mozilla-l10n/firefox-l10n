@@ -57,7 +57,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
-<!ENTITY netmonitorUI.tab.timings         "Tid">
+<!ENTITY netmonitorUI.tab.timings         "Tider">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
@@ -107,12 +107,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
-<!ENTITY netmonitorUI.timings.dns         "DNS-utslag:">
+<!ENTITY netmonitorUI.timings.dns         "DNS-svar:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
-<!ENTITY netmonitorUI.timings.connect     "Ansluter:">
+<!ENTITY netmonitorUI.timings.connect     "Anslutning:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
@@ -122,7 +122,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
-<!ENTITY netmonitorUI.timings.wait        "Väntar:">
+<!ENTITY netmonitorUI.timings.wait        "Väntan:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
