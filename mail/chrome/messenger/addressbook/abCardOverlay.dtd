@@ -144,6 +144,8 @@
 <!ENTITY ICQ.accesskey "I">
 <!ENTITY XMPP.label "Jabber ID:">
 <!ENTITY XMPP.accesskey "J">
+<!ENTITY IRC.label "Přezdívka IRC:">
+<!ENTITY IRC.accesskey "R">
 
 <!ENTITY Photo.tab "Fotografie">
 <!ENTITY Photo.accesskey "F">
