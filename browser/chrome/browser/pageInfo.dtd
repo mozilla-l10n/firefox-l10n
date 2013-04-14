@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Laai prente">
 <!ENTITY  permPopup             "Open opspringers">
 <!ENTITY  permCookie            "Stel koekies">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Installeer uitbreidings of temas">
 <!ENTITY  permGeo               "Deel ligging">
 <!ENTITY  permPlugins           "Aktiveer inproppe">
 <!ENTITY  permFullscreen        "Betree volskermmodus">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Onderhou vanlyn berging">
 <!ENTITY  permClearStorage           "Maak stoorruimte skoon">
