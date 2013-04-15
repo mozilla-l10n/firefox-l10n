@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "">
 <!ENTITY popupWindowAllowCmd.label "Povolit vyskakovací okna z tohoto serveru">
 <!ENTITY popupWindowAllowCmd.accesskey "">
-<!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
-<!ENTITY openLinkCmd.accesskey "O">
 <!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY openLinkCmdInTab.accesskey "N">
+<!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
+<!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY openLinkCmdInPrivateWindow.label "Otevřít odkaz v anonymním okně">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "a">
 <!ENTITY openLinkInWindowCmd.label "Otevřít">
 <!ENTITY openLinkInWindowCmd.accesskey "e">
 <!ENTITY openFrameCmd.label "Otevřít rám v novém okně">
