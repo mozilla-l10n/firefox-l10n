@@ -5,20 +5,30 @@
 <!ENTITY pref.notifications.title "Уведомления">
 <!ENTITY notifications.caption "Уведомления">
 <!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
-<!ENTITY playSound.label "Подать звуковой сигнал">
-<!ENTITY playSound.accesskey "д">
-<!ENTITY showAnimatedAlert.label "Показать уведомление">
-<!ENTITY showAnimatedAlert.accesskey "о">
+<!ENTITY showAlertFor.label "Показывать уведомление в течение">
+<!ENTITY showAlertFor.accesskey "о">
+<!ENTITY showAlertTimeEnd.label "сек.">
+<!ENTITY showAlertTimeEnd.accesskey "к">
+<!ENTITY showAlertPreviewText.label "Отображать текст сообщения">
+<!ENTITY showAlertPreviewText.accesskey "ж">
+<!ENTITY showAlertSubject.label "Отображать тему">
+<!ENTITY showAlertSubject.accesskey "е">
+<!ENTITY showAlertSender.label "Отображать отправителя">
+<!ENTITY showAlertSender.accesskey "п">
 <!ENTITY showTrayIcon.label "Показать значок в трее">
 <!ENTITY showTrayIcon.accesskey "з">
-<!ENTITY bounceSystemDockIcon.label "Анимация иконки в доке">
+<!ENTITY showBalloon.label "Показать всплывающее уведомление">
+<!ENTITY showBalloon.accesskey "а">
+<!ENTITY bounceSystemDockIcon.label "Анимировать иконку в доке">
 <!ENTITY bounceSystemDockIcon.accesskey "н">
+<!ENTITY playSound.label "Подать звуковой сигнал">
+<!ENTITY playSound.accesskey "д">
 <!ENTITY playButton.label "Прослушать">
 <!ENTITY playButton.accesskey "ш">
 <!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
 <!ENTITY systemsound.accesskey "и">
 <!ENTITY customsound.label "Указать звуковой файл">
-<!ENTITY customsound.accesskey "к">
+<!ENTITY customsound.accesskey "в">
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">
 <!ENTITY browse.title "Выбор файла">
