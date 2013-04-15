@@ -17,6 +17,10 @@
 <!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
 <!ENTITY results.label               "Sökresultat">
+<!ENTITY moveHereMenu.label          "Flytta hit">
+<!ENTITY moveHereMenu.accesskey      "F">
+<!ENTITY moveButton.label            "Flytta till">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY fileHereMenu.label          "Arkivera här">
 <!ENTITY fileHereMenu.accesskey      "h">
 <!ENTITY fileButton.label            "Arkivera">

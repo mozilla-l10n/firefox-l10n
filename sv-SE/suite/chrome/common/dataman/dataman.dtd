@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Enbart sekretess">
 <!ENTITY select.preferences.label "Enbart inställningar">
 <!ENTITY select.passwords.label "Enbart lösenord">
+<!ENTITY select.storage.label "Enbart lagring">
 
 <!ENTITY domain.search.placeholder "Sök domäner">
 <!ENTITY domain.search.key "S">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Sekretess">
 <!ENTITY tab.preferences.label "Inställningar">
 <!ENTITY tab.passwords.label "Lösenord">
+<!ENTITY tab.storage.label "Lagring">
 <!ENTITY tab.formdata.label "Formulärhistorik">
 <!ENTITY tab.forget.label "Rensa">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Ta bort">
 <!ENTITY pwd.button.remove.accesskey "T">
 
+<!-- storage -->
+<!ENTITY storage.description "Denna domän använder följande webblagring på din dator:">
+
+<!ENTITY storage.tree.host.label "Webbplats">
+<!ENTITY storage.tree.type.label "Typ">
+<!ENTITY storage.tree.size.label "Storlek">
+
+<!ENTITY storage.ctx.remove.label "Ta bort">
+<!ENTITY storage.ctx.remove.accesskey "T">
+<!ENTITY storage.ctx.selectAll.label "Markera allt">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Ta bort">
+<!ENTITY storage.button.remove.accesskey "b">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Sök formulärdata">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "I">
 <!ENTITY forget.passwords.label "Lösenord">
 <!ENTITY forget.passwords.accesskey "L">
+<!ENTITY forget.storage.label "Lagring">
+<!ENTITY forget.storage.accesskey "a">
 <!ENTITY forget.formdata.label "Formulärdata">
 <!ENTITY forget.formdata.accesskey "D">
 
