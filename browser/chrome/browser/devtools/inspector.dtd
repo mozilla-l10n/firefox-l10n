@@ -1,0 +1,10 @@
+<!ENTITY inspectorHTMLCopyInner.label       "העתקת HTML פנימי">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "פ">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "העתקת HTML חיצוני">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "ח">
+
+<!ENTITY inspectorHTMLDelete.label          "מחיקת צומת">
+<!ENTITY inspectorHTMLDelete.accesskey      "מ">
+
+<!ENTITY inspector.selectButton.tooltip     "בחירת רכיב עם העכבר">
