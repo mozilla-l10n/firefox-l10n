@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "V">
 <!ENTITY chooseFile.label "Vybrat soubor…">
 <!ENTITY chooseFile.accesskey "S">
+<!ENTITY newPrivate.label "Nové anonymní okno">
 <!ENTITY newWindow.label "Nové okno prohlížeče">
 <!ENTITY newTab.label "Nový panel prohlížeče">
 <!ENTITY currentTab.label "Aktuální panel prohlížeče">
