@@ -4,13 +4,14 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL-protokollversioner">
 <!ENTITY  SSLWarnings.caption               "SSL-varningar">
+<!ENTITY  SSLMixedContent.caption           "Blandat innehåll">
 <!ENTITY  SSLClientAuthMethod.caption       "Klientens val av certifikat">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
 <!ENTITY enable.ssl30.label                 "Aktivera SSL 3.0">
 <!ENTITY enable.ssl30.accesskey             "3">
 <!ENTITY enable.tls10.label                 "Aktivera TLS 1.0">
-<!ENTITY enable.tls10.accesskey               "T">
+<!ENTITY enable.tls10.accesskey             "T">
 
 <!ENTITY warn.description                   "&brandShortName; kan meddela dig om säkerhetsstatus hos webbsidor som du besöker. Låt &brandShortName; visa en varning och be om tillåtelse innan:">
 <!ENTITY warn.enteringsecure                "En sida som stöder kryptering hämtas">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "d">
 <!ENTITY warn.viewmixed                     "En sida med en mix av krypterad/okrypterad information visas">
 <!ENTITY warn.viewmixed.accesskey           "x">
+
+<!ENTITY warn.mixedactivecontent            "Varna mig när en krypterad sida innehåller osäkert innehåll">
+<!ENTITY warn.mixedactivecontent.accesskey  "a">
+<!ENTITY block.activecontent                "Ladda inte osäkert innehåll på krypterade sidor">
+<!ENTITY block.activecontent.accesskey      "D">
+<!ENTITY warn.mixeddisplaycontent           "Varna mig när en krypterad sida innehåller andra typer av blandat innehåll">
+<!ENTITY warn.mixeddisplaycontent.accesskey "b">
+<!ENTITY block.displaycontent               "Ladda inte andra typer av blandat innehåll på krypterade sidor">
+<!ENTITY block.displaycontent.accesskey     "i">
 
 <!ENTITY certselect.description             "Bestäm hur &brandShortName; väljer vilket certifikat som ska presenteras för webbplatser:">
 <!ENTITY certselect.auto                    "Välj automatiskt">
