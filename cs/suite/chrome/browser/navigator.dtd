@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Anonymní prohlížení">
+
 <!ENTITY editPageCmd.label "Upravit stránku">
 <!ENTITY editPageCmd.accesskey "U">
 <!ENTITY editPageCmd.commandkey "e">
