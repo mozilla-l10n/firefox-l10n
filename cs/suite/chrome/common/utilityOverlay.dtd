@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Okno prohlížeče">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "O">
+<!ENTITY newPrivateWindowCmd.label "Anonymní okno">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "A">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
 <!ENTITY printPreviewCmd.label "Náhled tisku">
