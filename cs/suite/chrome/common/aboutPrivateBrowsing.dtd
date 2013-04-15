@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Anonymní prohlížení">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; je experimentální vlastnost.">
+<!ENTITY privatebrowsingpage.description "V okně v režimu &privatebrowsingpage.title; si nebude &brandShortName; zaznamenávat žádnou diskovou mezipaměť, cookies nebo hisotrii stránek, hledání nebo formulářů. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
+<!ENTITY privatebrowsingpage.moreinfo "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
+<!ENTITY privatebrowsingpage.learnmore.label "Zjistit více">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.private "&brandShortName; si nebude v tomto okně pamtovat žádnou hisotrii. Pro ukončení režimu &privatebrowsingpage.title; zavřete toto okno.">
+<!ENTITY privatebrowsingpage.switch.label "Přepnout do normáoního okna">
+<!ENTITY privatebrowsingpage.switch.accesskey "P">
+<!ENTITY privatebrowsingpage.normal "Aktuálně nejste v režimu &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label "Otevřít nové anonymní okno">
+<!ENTITY privatebrowsingpage.private.accesskey "a">
+<!ENTITY privatebrowsingpage.info "Pro spuštění režimu &privatebrowsingpage.title; můžete rovněž zvolit Soubor &gt; Nový &gt; Anoymní okno.">
