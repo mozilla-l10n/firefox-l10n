@@ -28,14 +28,14 @@
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">
 
-<!ENTITY  advancedFonts.label         "Lanjutan...">
+<!ENTITY  advancedFonts.label         "Lanjutan…">
 <!ENTITY  advancedFonts.accesskey     "a">
 
-<!ENTITY  colors.label                "Warna...">
+<!ENTITY  colors.label                "Warna…">
 <!ENTITY  colors.accesskey            "W">
 
 
 <!ENTITY languages.label              "Bahasa">
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
-<!ENTITY chooseButton.label           "Pilih...">
+<!ENTITY chooseButton.label           "Pilih…">
 <!ENTITY chooseButton.accesskey       "i">

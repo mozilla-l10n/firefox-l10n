@@ -8,21 +8,15 @@
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection "Penyata SQL Lambat">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "Pelayar Tergantung">
 
 <!ENTITY aboutTelemetry.histogramsSection "Hikstogram">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "Tulis Lewat">
 
 <!ENTITY aboutTelemetry.systemInfoSection "Sistem Informasi">
 

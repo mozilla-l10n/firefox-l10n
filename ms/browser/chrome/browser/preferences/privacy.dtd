@@ -6,9 +6,9 @@
 
 <!ENTITY dntTrackingNopref.label        "Jangan beritahu laman apa-apa tentang tetapan penjejakan saya.">
 <!ENTITY dntTrackingNopref.accesskey    "J">
-<!ENTITY dntTrackingNotOkay.label       "Beritahu laman saya tidak mahu dijejaki">
+<!ENTITY dntTrackingNotOkay.label       "Beritahu laman saya tidak mahu dijejaki.">
 <!ENTITY dntTrackingNotOkay.accesskey   "d">
-<!ENTITY dntTrackingOkay.label          "Beritahu laman saya tidak mahu dijejaki">
+<!ENTITY dntTrackingOkay.label          "Beritahu laman saya tidak mahu dijejaki.">
 <!ENTITY dntTrackingOkay.accesskey      "d">
 <!ENTITY doNotTrackInfo.label           "Ketahui Lanjut">
 
@@ -21,17 +21,17 @@
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Sejarah dan tandabuku">
 <!ENTITY  locbar.history.label          "Sejarah">
-<!ENTITY  locbar.bookmarks.label        "Penandabuku">
+<!ENTITY  locbar.bookmarks.label        "Tandabuku">
 <!ENTITY  locbar.nothing.label          "Tiada">
 
 <!ENTITY  acceptCookies.label           "Terima cookies dari laman web">
 <!ENTITY  acceptCookies.accesskey       "T">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.label      "Menerima cookie pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.always.label   "Sentiasa">
+<!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
+<!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
 <!ENTITY  keepUntil.label               "Kekalkan sehingga:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -40,26 +40,26 @@
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
 <!ENTITY  askEachTime.label             "tanya saya setiap kali">
 
-<!ENTITY  cookieExceptions.label        "Pengecualian...">
+<!ENTITY  cookieExceptions.label        "Pengecualian…">
 <!ENTITY  cookieExceptions.accesskey    "e">
 
-<!ENTITY  showCookies.label             "Tunjuk Cookie...">
+<!ENTITY  showCookies.label             "Tunjuk Cookie…">
 <!ENTITY  showCookies.accesskey         "C">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
 <!ENTITY  historyHeader.pre.accesskey      "a">
-<!ENTITY  historyHeader.remember.label     "Mengingati Sejarah">
+<!ENTITY  historyHeader.remember.label     "Mengingati sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan sendiri untuk sejarah">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelungsuran, muaturun, borang, dan pencarian anda serta menyimpan cookies daripada laman Web yang anda layari.">
+<!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelungsuran, muaturun, borang, dan pencarian anda serta menyimpan cookies daripada laman web yang anda layari.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
-<!ENTITY  rememberActions.clearHistory.label  "Hapuskan sejarah layaran terkini anda">
+<!ENTITY  rememberActions.clearHistory.label  "hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
 <!ENTITY  rememberActions.removeCookies.label "hapuskan cookies individu">
 <!ENTITY  rememberActions.post.label          ".">
@@ -84,5 +84,5 @@
 <!ENTITY  clearOnClose.label             "Buang sejarah apabila &brandShortName; ditutup">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Tetapan...">
+<!ENTITY  clearOnCloseSettings.label     "Tetapan…">
 <!ENTITY  clearOnCloseSettings.accesskey "T">

@@ -19,7 +19,7 @@
 <!ENTITY productHelp.label        "&brandShortName; Bantuan">
 <!ENTITY productHelp.accesskey    "B">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon">
+<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon…">
 <!ENTITY helpSafeMode.accesskey   "M">
 
 <!ENTITY healthReport.label       "&brandShortName; Pelapor Kerosakan">
@@ -28,10 +28,10 @@
 <!ENTITY helpTroubleshootingInfo.label      "Menyelesaikan masalah Informasi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "M">
 
-<!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas">
+<!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY preferencesCmdMac.label        "Keutamaan">
+<!ENTITY preferencesCmdMac.label        "Keutamaan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servis">
