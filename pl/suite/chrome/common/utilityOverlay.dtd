@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Okno przeglądarki">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "O">
+<!ENTITY newPrivateWindowCmd.label "Okno prywatne">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "P">
 <!ENTITY printSetupCmd.label "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey "n">
 <!ENTITY printPreviewCmd.label "Podgląd wydruku">
