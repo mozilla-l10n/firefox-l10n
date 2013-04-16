@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Dad Dewi">
 <!ENTITY mediaUnmute.accesskey       "a">
+<!ENTITY mediaPlaybackRate.label     "Cyflymder Chwarae">
+<!ENTITY mediaPlaybackRate.accesskey "y">
+<!ENTITY mediaPlaybackRate050x.label "Symud Araf (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Cyflymder Arferol">
+<!ENTITY mediaPlaybackRate100x.accesskey "A">
+<!ENTITY mediaPlaybackRate150x.label "Cyflymder Uchel (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "U">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Cyflym Iawn (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Dangos bar ochr">
 <!ENTITY social.toggleSidebar.accesskey "D">
 
+<!ENTITY social.addons.label "Rheoli Gwasanaethau…">
+
 <!ENTITY social.toggleNotifications.label "Dangos hysbysiadau'r bwrdd gwaith">
 <!ENTITY social.toggleNotifications.accesskey "h">
 
@@ -633,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Dysgu Rhagor">
 <!ENTITY mixedContentBlocked.moreinfo "Mae'r rhan fwyaf o wefannau'n parhau i weithio pan mae'r cynnwys hwn wedi ei rwystro.">
+
+<!ENTITY pointerLock.notification.message "Pwyswch ESC ar unrhyw adeg i'w ddangos eto.">
