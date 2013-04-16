@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "Penghantaran gagal.">
 <!ENTITY report.unavailable                                  "Tiada laporan yang tersedia.">
 <!ENTITY report.comment                                      "Tambah komen (semua komen boleh dilihat oleh umum)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "Termasuk URL laman">
 
 <!ENTITY plugin.file                                         "Fail">
 <!ENTITY plugin.mimeTypes                                    "Jenis MIME">

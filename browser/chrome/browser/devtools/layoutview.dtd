@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "Box Model">
-<!ENTITY margins.tooltip        "Margin">
+<!ENTITY margins.tooltip        "jidar">
 <!ENTITY borders.tooltip        "sempadan">
 <!ENTITY padding.tooltip        "pelapik">
 <!ENTITY content.tooltip        "isi">

@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat menyambung ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
@@ -56,7 +56,7 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <li>Tekan &quot;Try Again&quot; untuk menukar kepada mod dalam talian dan muat kembali laman.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
+<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> 
 </ul>">
@@ -105,13 +105,13 @@ Sekuriti Peribadi yang terpasang.</li>
 <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "penyambungan keselamatan telah gagal">
+<!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Laman yang anda cuba paparkan tidak dapat ditunjukkan kerana kesahihan data yang diterima tidak dapat disahkan.</li> 
 <li>Sila hubungi pemilik-pemilik lamanweb untuk memaklumkan masalah ini. Alternatifnya adalah dengan menggunakan arahan yang boleh dijumpai pada menu bantuan untuk melaporkan laman bermasalah ini.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "penyambungan keselamatan telah gagal">
+<!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Ini mungkin masalah konfigurasi server, atau 
  seseorang cuba meniru jadi server.</li> 
@@ -145,7 +145,7 @@ yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya daripada sini!">
-<!ENTITY securityOverride.exceptionButtonLabel "Tambah Kecuali">
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

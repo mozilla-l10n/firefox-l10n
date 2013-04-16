@@ -14,11 +14,11 @@
 
 <!ENTITY            availprofiles.label    "Profil Yang Ada">
 
-<!ENTITY            newButton.label        "Mencipta Profil...">
+<!ENTITY            newButton.label        "Mencipta Profil…">
 <!ENTITY            newButton.accesskey    "c">
-<!ENTITY            renameButton.label     "Menamakan Profil...">
+<!ENTITY            renameButton.label     "Menamakan Profil…">
 <!ENTITY            renameButton.accesskey "r">
-<!ENTITY            deleteButton.label     "Memadam Profil...">
+<!ENTITY            deleteButton.label     "Memadam Profil…">
 <!ENTITY            deleteButton.accesskey "d">
 <!-- manager entities -->
 

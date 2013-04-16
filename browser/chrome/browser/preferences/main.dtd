@@ -15,7 +15,7 @@
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Gunakan Laman Semasa">
-<!ENTITY chooseBookmark.label      "Guna Penandabuku">
+<!ENTITY chooseBookmark.label      "Guna Penandabuku…">
 <!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Kembalikan kepada asal">
 <!ENTITY restoreDefault.accesskey  "K">
@@ -28,9 +28,9 @@
 <!ENTITY closeWhenDone.accesskey "a">
 <!ENTITY saveTo.label "Simpan fail ke">
 <!ENTITY saveTo.accesskey "f">
-<!ENTITY chooseFolderWin.label        "Lungsur...">
+<!ENTITY chooseFolderWin.label        "Lungsur…">
 <!ENTITY chooseFolderWin.accesskey    "L">
-<!ENTITY chooseFolderMac.label        "Pilih...">
+<!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">

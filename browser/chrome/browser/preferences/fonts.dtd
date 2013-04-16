@@ -59,7 +59,7 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Saiz font minima:">
 <!ENTITY minSize.accesskey                        "o">
-<!ENTITY minSize.none                             "tiada">
+<!ENTITY minSize.none                             "Tiada">
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serif">
@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Benarkan laman untuk memilih fontnya, bukannya pilihan saya di atas">
 <!ENTITY  allowPagesToUse.accesskey               "B">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.grouplabel  "Enkod Karakter untuk Legasi Maklumat">
+<!ENTITY languages.customize.Fallback.label       "Pengekodan Aksara Sandaran:">
+<!ENTITY languages.customize.Fallback.accesskey   "A">
+<!ENTITY languages.customize.Fallback.desc        "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">

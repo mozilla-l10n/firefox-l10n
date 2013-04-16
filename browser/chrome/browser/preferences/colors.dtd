@@ -22,5 +22,5 @@
 <!ENTITY  links                           "Pautan Warna">
 <!ENTITY  linkColor.label                 "Pautan Belum Dilawat:">
 <!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Pautan Dilawat">
+<!ENTITY  visitedLinkColor.label          "Pautan Dilawat:">
 <!ENTITY  visitedLinkColor.accesskey      "w">

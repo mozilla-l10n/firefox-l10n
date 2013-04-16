@@ -29,12 +29,12 @@
 <!ENTITY netInterrupt.longDesc "<p>Sambungan pelungsur berjaya, tetapi sambungan terganggu ketika pemindahan maklumat. Sila cuba lagi.</p><ul><li>Adakah anda tidak dapat melungsuri laman lain? Sila periksa sambungan rangkaian komputer anda.</li><li>Masih bermasalah? Minta nasihat dari pentadbir rangkaian atau penyedia Internet anda untuk bantuan.</li></ul>">
 
 <!ENTITY notCached.title "Dokumen Luput">
-<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada didalam cache pelayar.</p><ul><li>Untuk langkah keselamatan, dokumen sensitif tidak akan diminta semula oleh pelayar secara automatik. </li><li>sila klik semula untuk meminta dokumen tersebut dari laman web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada didalam cache pelayar.</p><ul><li>Untuk langkah keselamatan, dokumen sensitif tidak akan diminta semula oleh pelayar secara automatik.</li><li>Sila klik Cuba Lagi untuk meminta semula dokumen tersebut dari laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod Luar Talian">
 <!ENTITY netOffline.longDesc2 "<p>Pelayar ini beroperasi dalam mod offline dan tidak boleh disambungkan ke item yang diminta.</p><ul><li>Komputer ini bersambung dengan jaringan aktif?</li><li>Tekan &quot;Cuba Lagi&quot; untuk tukar ke mod di talian dan memuatkan laman kembali.</li></ul>">
 
-<!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
+<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang anda cuba lihat tidak dapat dipaparkan kerana ia menggunakan bentuk pemampatan yang tidak sah atau tidak disokong.</p><ul><li>Sila hubungi pemilik laman untuk memaklumkan masalah ini.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
@@ -67,9 +67,9 @@
 <!ENTITY nssFailure2.longDesc "<p>Laman yang anda sedang lihat tidak dapat ditunjuk kerana data penerima adalah tidak sah</p><ul><li>Sila menghubungi pemilik laman web tentang masalah ini.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sambungan yang selamat gagal">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>
-Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li>
-<li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li>
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> 
+<li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Laman Serangan Disyaki!">
@@ -77,7 +77,7 @@ Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba men
 <p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Disyaki laman palsu!">
-<!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p>
+<!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p> 
  <p>Pemalsuan web ini digunakan oleh komplot tertentu yang dikenali sebagai serangan phishing, di mana pemalsuan laman web dan email digunakan untuk meniru sumber-sumber yang dipercayai.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">

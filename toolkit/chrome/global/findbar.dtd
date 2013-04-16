@@ -6,8 +6,8 @@
 <!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "seterusnya">
-<!ENTITY next.accesskey "n">
+<!ENTITY next.label "Berikut">
+<!ENTITY next.accesskey "B">
 <!ENTITY next.tooltip "Cari teks frasa berkenaan yang berikut">
 <!ENTITY previous.label "Terdahulu">
 <!ENTITY previous.accesskey "T">

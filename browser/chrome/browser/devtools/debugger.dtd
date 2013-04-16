@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "Search for function definition">
+<!ENTITY debuggerUI.searchFunction      "Carian untuk fungsi definisi">
 <!ENTITY debuggerUI.searchFunction.key  "D">
 <!ENTITY debuggerUI.searchFunction.altkey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
