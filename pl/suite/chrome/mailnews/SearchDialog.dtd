@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey "U">
 <!ENTITY searchDialogTitle.label "Wyszukaj wiadomości">
 <!ENTITY results.label "Wyniki">
-<!ENTITY fileHereMenu.label "Przenieś tutaj">
-<!ENTITY fileHereMenu.accesskey "t">
-<!ENTITY fileButton.label "Przenieś">
-<!ENTITY fileButton.accesskey "P">
+<!ENTITY moveHereMenu.label "Przenieś tutaj">
+<!ENTITY moveHereMenu.accesskey "t">
+<!ENTITY moveButton.label "Przenieś">
+<!ENTITY moveButton.accesskey "P">
 <!ENTITY goToFolderButton.label "Otwórz folder wiadomości">
 <!ENTITY goToFolderButton.accesskey "f">
 <!ENTITY saveAsVFButton.label "Zapisz jako folder wyszukiwania">
