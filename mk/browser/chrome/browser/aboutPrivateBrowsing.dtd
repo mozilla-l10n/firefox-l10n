@@ -26,3 +26,16 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Иако на овој компјутер нема да има запис од Вашата сурферска историја, Вашиот интернет провајдер или работодавец сепак може да води евиденција за страниците кои ги посетувате.">
 <!ENTITY privatebrowsingpage.learnMore                 "Дознај повеќе">
+
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStart3               "За да почнете со приватно сурфање можете да кликнете на &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Затворете го овој прозорец за да завршите со приватно сурфање.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "п">
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Отвори приватен прозорецw">
+
+<!ENTITY privatebrowsingpage.perwindow.description     "Во прозорец за приватно сурфање &brandShortName; нема да чува било каква историја од сурфање, пребарување, прземање или формулари, колачиња или привремени датотеки од интернет. Сепак, датотеките што ќе ги преземете или обележувачите што ќе ги создадете ќе бидат зачувани.">
+
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; нема да памти никаква историја за овој прозорец.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Моментално не сте во приватен прозорец.">

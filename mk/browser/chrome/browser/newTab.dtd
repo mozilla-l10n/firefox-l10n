@@ -4,3 +4,8 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Ново јазиче">
+
+<!ENTITY newtab.undo.closeTooltip "Скриј">
+<!ENTITY newtab.undo.removedLabel "Иконата е отстранета.">
+<!ENTITY newtab.undo.restoreButton "Реконструирај ги сите.">
+<!ENTITY newtab.undo.undoButton "Врати.">
