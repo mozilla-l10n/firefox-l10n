@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "ပုံများအား ပြသရန်ရယူနေသည်">
 <!ENTITY  permPopup             "ပေါ့အပ်ဝင်းဒိုးအားဖွင့်ပါ">
 <!ENTITY  permCookie            "ကွတ်ကီးများအားထားမည်">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "တိုးချဲ့ကိရိယားများဖြင့်အခင်းအကျင်းများအားတပ်ဆင်မည်">
 <!ENTITY  permGeo               "တည်နေရာအားသိစေမည်။">
 <!ENTITY  permPlugins           "Activate Plugins">
 <!ENTITY  permFullscreen        "ဖန်သားပြင်အပြည့် ကိုနှိပ်ပါ">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "အင်တာနက်မရှိစဉ်သုံးမှတ်ဉာဏ်အားပြုပြင်ထိန်းသိမ်းမည်">
 <!ENTITY  permClearStorage           "မှတ်သားဉာဏ်အားရှင်းလင်းမည်">

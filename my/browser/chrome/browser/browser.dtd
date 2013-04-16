@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label        "eချိတ်ဆက်ပါ...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY errorConsoleCmd.label        "ထိန်းချုပ်ခလုတ်ခုံ အမှား">
+<!ENTITY errorConsoleCmd.label        "(C) ထိန်းချုပ်ခလုတ်ခုံ အမှား">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
@@ -243,15 +243,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "နောက်ထပ်ကိရိယာများရယူမည်။">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "န">
 
-<!ENTITY fileMenu.label         "ဖိုင်"> 
+<!ENTITY fileMenu.label         "(F)ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "ဝင်းဒိုး အသစ်">
+<!ENTITY newNavigatorCmd.label        "(N)ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "New Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "တည်းဖြတ်ပါ"> 
+<!ENTITY editMenu.label         "(E)တည်းဖြတ်"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Uမလုပ်">  
 <!ENTITY undoCmd.key            "Z">  
@@ -279,24 +279,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "nထိန်းချုပ်ဆိုင်ရာ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "လတ်တလော မှတ်မ်များအား ရှင်း...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "ရှုမြင်ချက်"> 
+<!ENTITY viewMenu.label         "Vရှူမြင်ချက်"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "စာမျက်နှာအစုများ။">
 <!ENTITY viewTabGroups.accesskey        "စ">
-<!ENTITY viewToolbarsMenu.label       "ခလုတ်တန်းများ"> 
+<!ENTITY viewToolbarsMenu.label       "(T)ခလုပ်ဘားများ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "ဘေးတန်း">
+<!ENTITY viewSidebarMenu.label "($e)ဘေးတန်း">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "စိတ်ကြိုက် ဖန်တီးပါ..."> 
+<!ENTITY viewCustomizeToolbar.label       "(C)စိတ်ကြိုက်ဖန်တီးပါ..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY viewTabsOnTop.label            "ထိပ်ရှိဝတ်စာမျက်နှာများ">
 <!ENTITY viewTabsOnTop.accesskey        "ထ">
 
-<!ENTITY historyMenu.label "မှတ်တမ်း">
+<!ENTITY historyMenu.label "(s)မှတ်တမ်း">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "လတ်တလော ပိတ်ထားတဲ့ စာအမှတ်များ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
@@ -379,23 +379,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "View Frame Info">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "ရုပ်ပုံကို ပြန်ဖွင့်ပါ">
+<!ENTITY reloadImageCmd.label         "(R)ရုပ်ပုံကို ပြန်ဖွင့်ပါ">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ရုပ်ပုံကို ရှုမြင်ပါ">
+<!ENTITY viewImageCmd.label           "(I)ရုပ်ပုံကို ရှုမြင်ပါ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ပုံ၏သတင်းအချက်အလက်များ">
 <!ENTITY viewImageInfoCmd.accesskey   "ပ">
-<!ENTITY viewVideoCmd.label           "ဗွီဒီယို ရှုမြင်ပါ">
-<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewVideoCmd.label           "(i)ဗွီဒီယို ရှုမြင်ပါ">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "နောက်ခံ ရုပ်ပုံကို ရှုမြင်ပါ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
+<!ENTITY setDesktopBackgroundCmd.label      "(S)စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ဒီစာမျက်နှာကို မှတ်သားပါ ...">
+<!ENTITY bookmarkPageCmd2.label       "(m)ဒီစာမျက်နှာကို မှတ်သားပါ ...">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
+<!ENTITY bookmarkThisLinkCmd.label      "(L)ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "ဒီဘောင်ကို မှတ်သားပါ ...">
+<!ENTITY bookmarkThisFrameCmd.label      "(m)ဒီဘောင်ကို မှတ်သားပါ ...">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "အီးမေးလ် လင့်...">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -428,11 +428,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "အချိတ်အဆက် တည်နေရာ ကူးယူပါ">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "ရုပ်ပုံ တည်နေရာ ကူးယူပါ">
+<!ENTITY copyImageCmd.label           "(o)ရုပ်ပုံ တည်နေရာ ကူးယူပါ">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "ရုပ်ပုံ ကူးယူပါ">
+<!ENTITY copyImageContentsCmd.label   "(y)ရုပ်ပုံ ကူးယူပါ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "ဗွီဒီယို တည်နေရာ ကူးယူပါ">
+<!ENTITY copyVideoURLCmd.label        "(o)ဗွီဒီယို တည်နေရာ ကူးယူပါ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "အသံ တည်နေရာ ကူးယူပါ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "အသံ ပြန်ဖွင့်ပါ">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate.label     "(l)ပြသနှူန်း">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "(S) နှေးနှေးဖွင့် (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "(N)ပုံမှန်ဖွင့်">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "(H)အမြန်ဖွင့် (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "ဘေးဘက်ဘားအားပြပါ">
 <!ENTITY social.toggleSidebar.accesskey "ဘ">
 
+<!ENTITY social.addons.label "Manage Services…">
+
 <!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -633,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Learn more">
 <!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
+
+<!ENTITY pointerLock.notification.message "နောက်တခါပြန်ကြည့်ချင်ရင် ESC  နှိပ်ပါ">

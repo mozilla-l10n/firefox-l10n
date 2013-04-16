@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "ပတ်စ်၀တ်အားအတည်ပြုပါ">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "ကျွန်တော်/ကျွန်မတို့သည်အောက်ပါတို့အားသဘောတူညီပါသည်">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ">
