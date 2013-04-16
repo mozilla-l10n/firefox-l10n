@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title "Menedżer pobierania plików">
 
 <!ENTITY downloadBehavior.label "Rozpoczynając pobieranie plików:">
-<!ENTITY focusWhenStarting.label "Wyróżniaj menedżer pobierania plików, jeżeli jest otwarty. W przeciwnym wypadku:">
-<!ENTITY focusWhenStarting.accesskey "W">
-<!ENTITY openDM.label "Otwórz Menedżera pobierania plików">
-<!ENTITY openDM.accesskey "O">
-<!ENTITY openProgressDialog.label "Wyświetl okno postępu">
-<!ENTITY openProgressDialog.accesskey "p">
 <!ENTITY doNothing.label "Nie otwieraj okna">
 <!ENTITY doNothing.accesskey "N">
+<!ENTITY openProgressDialog.label "Wyświetl okno postępu">
+<!ENTITY openProgressDialog.accesskey "p">
+<!ENTITY openDM.label "Otwórz Menedżera pobierania plików">
+<!ENTITY openDM.accesskey "O">
+<!ENTITY flashWhenOpen.label "Zamigotaj Menedżer pobierania plików, jeżeli ten jest już otwarty">
+<!ENTITY flashWhenOpen.accesskey "a">
 
 <!ENTITY downloadLocation.label "Podczas zapisywania pliku">
 <!ENTITY saveTo.label "Zapisuj pliki do">
