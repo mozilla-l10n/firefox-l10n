@@ -81,7 +81,7 @@
 <!ENTITY useService.label                "Uzâ 'n serviçio ascôzo pe instalâ i agiornaménti">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY updateOthers.label              "Agiornaménti aotomàtici:">
+<!ENTITY updateOthers.label              "Agiornaménti aotomàtichi:">
 <!ENTITY enableSearchUpdate.label        "Motô de riçèrca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
@@ -107,7 +107,7 @@
 <!ENTITY certSelection.description       "Quàndo un server o domànda i mæ certificâti:">
 <!ENTITY certs.auto                      "Seleçiónn-a un in aotomàtico">
 <!ENTITY certs.auto.accesskey            "o">
-<!ENTITY certs.ask                       "Domàndamelo tùtte e vòtte">
+<!ENTITY certs.ask                       "Domàndimelo tùtte e vòtte">
 <!ENTITY certs.ask.accesskey             "D">
 <!ENTITY viewCerts.label                 "Fànni védde certificâti">
 <!ENTITY viewCerts.accesskey             "F">
