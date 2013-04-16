@@ -41,3 +41,20 @@
 <!ENTITY matched               "Matched">
 <!ENTITY parentMatch           "Parent Match">
 <!ENTITY unmatched             "Unmatched">
+
+
+
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
+  -  that specifies whether the styles that are not from the user's stylesheet
+  -  should be displayed or not. -->
+<!ENTITY browserStylesLabel    "Browser styles">
+
+<!-- FIXME: notes -->
+<!ENTITY computedViewTitle     "Computed">
+<!ENTITY ruleViewTitle         "Rules">

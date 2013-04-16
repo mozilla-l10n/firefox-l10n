@@ -78,3 +78,18 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Поставки…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
+
+<!ENTITY  acceptThirdParty.always.label   "Секогаш">
+<!ENTITY  acceptThirdParty.never.label    "Никогаш">
+<!ENTITY  acceptThirdParty.pre.accesskey  "к">
+
+<!ENTITY  acceptThirdParty.pre.label      "Прифаќај колачиња од други места:">
+<!ENTITY  acceptThirdParty.visited.label  "Од посетени">
+<!ENTITY dntTrackingNopref.accesskey    "о">
+
+<!ENTITY dntTrackingNopref.label        "Не им кажувај на местата за моите преференции за следење.">
+<!ENTITY dntTrackingNotOkay.accesskey   "н">
+<!ENTITY dntTrackingNotOkay.label       "Кажи им на местата дека не сакам да ме следат.">
+<!ENTITY dntTrackingOkay.accesskey      "т">
+<!ENTITY dntTrackingOkay.label          "Кажи им на местата дека сакам да ме следат.">
+<!ENTITY doNotTrackInfo.label           "Дознај повеќе">
