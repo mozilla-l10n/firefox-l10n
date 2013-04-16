@@ -612,6 +612,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Zobrazit postranní lištu">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Správce služeb…">
+
 <!ENTITY social.toggleNotifications.label "Zobrazit oznámení">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
