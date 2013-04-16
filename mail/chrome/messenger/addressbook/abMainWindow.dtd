@@ -203,7 +203,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY other.heading                                  "Autre">
 <!ENTITY chat.heading                                   "Discussion">
 <!ENTITY phone.heading                                  "Téléphone">
-<!ENTITY work.heading                                   "Métier">
+<!ENTITY work.heading                                   "Travail">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Description">
 <!ENTITY addresses.heading                              "Adresses">
