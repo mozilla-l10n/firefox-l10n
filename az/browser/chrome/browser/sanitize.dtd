@@ -19,7 +19,7 @@
 <!ENTITY clearTimeDuration.everything     "Hər şey">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.suffix         "Lokalizasiya qeydləri">
 <!ENTITY clearTimeDuration.dateColumn     "Baxış tarixi">
 <!ENTITY clearTimeDuration.nameColumn     "Ad">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys

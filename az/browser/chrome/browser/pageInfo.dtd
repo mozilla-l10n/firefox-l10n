@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Ünvanımı paylaş">
 <!ENTITY  permPlugins           "Əlavəni aktivləşdir">
 <!ENTITY  permFullscreen        "Tam ekrana keç">
-<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Offline fayl saxlamanı idarə et">
 <!ENTITY  permClearStorage           "Saxlananları təmizlə">

@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Başlangıç">
+<!ENTITY startup.label             "Başlanğıç">
 
 <!ENTITY startupPage.label         "&brandShortName; açılanda:">
 <!ENTITY startupPage.accesskey     "a">
-<!ENTITY startupHomePage.label     "Giriş sayfamı göster">
-<!ENTITY startupBlankPage.label    "Boş bir səhifə göstər">
+<!ENTITY startupHomePage.label     "Ana səhifəmi göstər">
+<!ENTITY startupBlankPage.label    "Boş səhifəni göstər">
 <!ENTITY startupLastSession.label  "Son seansdakı pəncərə və vərəqləri göstər">
 
-<!ENTITY homepage.label            "Giriş sayfası:">
-<!ENTITY homepage.accesskey        "G">
+<!ENTITY homepage.label            "Ana Səhifə:">
+<!ENTITY homepage.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
 <!ENTITY useCurrentPage.accesskey  "H">
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
 <!ENTITY chooseBookmark.label      "Əlfəçin istifadə et">
-<!ENTITY chooseBookmark.accesskey  "e">
+<!ENTITY chooseBookmark.accesskey  "Ə">
 <!ENTITY restoreDefault.label      "Standart vəziyyətə qaytar">
 <!ENTITY restoreDefault.accesskey  "S">
 
-<!ENTITY downloads.label     "Yükləmə">
+<!ENTITY downloads.label     "Endirilənlər">
 
 <!ENTITY showWhenDownloading.label     "Fayl yüklənərkən yükləmə səhifəsini göstər">
 <!ENTITY showWhenDownloading.accesskey "y">

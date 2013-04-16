@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  blockPopups.label           "Avtomatik açılan pəncərələri blokla">
+<!ENTITY  blockPopups.label           "pop-up pəncərələrini blokla">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
@@ -12,12 +12,12 @@
 <!ENTITY  exceptions.label            "İstisnalar…">
 <!ENTITY  exceptions.accesskey        "x">
 
-<!ENTITY  enableJavaScript.label      "JavaScript'i etkinleştir">
+<!ENTITY  enableJavaScript.label      "JavaScript'i aktiv et">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Ətraflı…">
 <!ENTITY  advancedJS.accesskey        "v">
 
-<!ENTITY  enableJava.label            "Java'yı etkinleştir">
+<!ENTITY  enableJava.label            "Java'nı aktiv et">
 <!ENTITY  enableJava.accesskey        "n">
 
 
@@ -35,7 +35,7 @@
 <!ENTITY  colors.accesskey            "R">
 
 
-<!ENTITY languages.label              "Diller">
+<!ENTITY languages.label              "Dillər">
 <!ENTITY chooseLanguage.label         "Səhifələrin göstəriləcəyi dili seçin">
 <!ENTITY chooseButton.label           "Seçin…">
 <!ENTITY chooseButton.accesskey       "S">

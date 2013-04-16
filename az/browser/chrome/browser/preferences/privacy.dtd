@@ -30,8 +30,8 @@
 <!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Hər zaman">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.never.label    "Heç zaman">
+<!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">
 
 <!ENTITY  keepUntil.label               "Saxlama limiti:">
 <!ENTITY  keepUntil.accesskey           "t">

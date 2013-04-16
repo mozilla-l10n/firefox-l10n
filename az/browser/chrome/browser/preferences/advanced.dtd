@@ -34,15 +34,15 @@
 <!ENTITY setDefault.accesskey            "s">
 <!ENTITY isDefault.label                 "&brandShortName; hazırda standart brauzerinizdir">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Verilənlər seçimi">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportSection.label       "&brandShortName; Çalışabilmə Hesabatı">
+<!ENTITY healthReportDesc.label          "Sizə brauzerinizin işləmə surəti barədə daha çox məlumat əldə etməyə köməklik edir və səmərəliyi barədə &vendorShortName; böluşməyə imkan verir">
+<!ENTITY enableHealthReport.label        "brandShort Name; Səmərəlik barədə hesabatın göndərilmsini aktiv et">
+<!ENTITY enableHealthReport.accesskey    "b">
 <!ENTITY healthReportLearnMore.label     "Learn More">
 
-<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetrySection.label          "Telemetriya">
 <!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY enableTelemetry.label           "Enable Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
