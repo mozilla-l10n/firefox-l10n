@@ -25,7 +25,7 @@
 
 <!ENTITY  expire.label                  "scàzzan">
 <!ENTITY  close.label                   "Mi særo &brandShortName;">
-<!ENTITY  askEachTime.label             "Domàndamelo ògni vòtta">
+<!ENTITY  askEachTime.label             "Domàndimelo ògni vòtta">
 
 <!ENTITY  cookieExceptions.label        "Eceçioìn…">
 <!ENTITY  cookieExceptions.accesskey    "E">
