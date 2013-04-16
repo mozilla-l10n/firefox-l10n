@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
+<!ENTITY mainWindow.titleprivate "Tryb prywatny">
+
 <!ENTITY editPageCmd.label "Edytuj stronę">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
