@@ -635,3 +635,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.helplink "Zjisit více">
 <!ENTITY mixedContentBlocked.moreinfo "Většina stránek bude fungovat správně, přestože bude takovýto obsah zablokován..">
 
+<!ENTITY pointerLock.notification.message "Pro opětovné zobrazení stiskněte ESC.">
