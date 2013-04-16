@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Tylko uprawnienia">
 <!ENTITY select.preferences.label "Tylko preferencje">
 <!ENTITY select.passwords.label "Tylko hasła">
+<!ENTITY select.storage.label "Tylko dane">
 
 <!ENTITY domain.search.placeholder "Szukaj domen">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Uprawnienia">
 <!ENTITY tab.preferences.label "Ustawienia">
 <!ENTITY tab.passwords.label "Hasła">
+<!ENTITY tab.storage.label "Dane offline">
 <!ENTITY tab.formdata.label "Dane formularzy">
 <!ENTITY tab.forget.label "Usuń">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Usuń">
 <!ENTITY pwd.button.remove.accesskey "U">
 
+<!-- storage -->
+<!ENTITY storage.description "Ta domena przechowuje następujące dane offline w pamięci przeglądarki:">
+
+<!ENTITY storage.tree.host.label "Witryna">
+<!ENTITY storage.tree.type.label "Typ">
+<!ENTITY storage.tree.size.label "Rozmiar">
+
+<!ENTITY storage.ctx.remove.label "Usuń">
+<!ENTITY storage.ctx.remove.accesskey "U">
+<!ENTITY storage.ctx.selectAll.label "Zaznacz wszystko">
+<!ENTITY storage.ctx.selectAll.accesskey "w">
+
+<!ENTITY storage.button.remove.label "Usuń">
+<!ENTITY storage.button.remove.accesskey "U">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Szukaj danych w polach">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "t">
 <!ENTITY forget.passwords.label "Hasła">
 <!ENTITY forget.passwords.accesskey "H">
+<!ENTITY forget.storage.label "Dane">
+<!ENTITY forget.storage.accesskey "D">
 <!ENTITY forget.formdata.label "Dane formularzy">
 <!ENTITY forget.formdata.accesskey "F">
 
