@@ -103,7 +103,7 @@
 <!ENTITY home.heading "Domicile">
 <!ENTITY other.heading "Autre">
 <!ENTITY phone.heading "Téléphone">
-<!ENTITY work.heading "Activité professionnelle">
+<!ENTITY work.heading "Travail">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading "Description">
 <!ENTITY addresses.heading "Adresses">
