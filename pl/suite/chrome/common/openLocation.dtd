@@ -11,6 +11,7 @@
 <!ENTITY enter.accesskey "p">
 <!ENTITY chooseFile.label "Wybierz plik…">
 <!ENTITY chooseFile.accesskey "W">
+<!ENTITY newPrivate.label "Nowe okno prywatne">
 <!ENTITY newWindow.label "Nowe okno przeglądarki">
 <!ENTITY newTab.label "Nowa karta przeglądarki">
 <!ENTITY currentTab.label "Aktualna karta przeglądarki">
