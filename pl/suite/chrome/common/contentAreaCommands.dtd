@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
-<!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie">
-<!ENTITY openLinkCmd.accesskey "n">
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie">
 <!ENTITY openLinkCmdInTab.accesskey "k">
+<!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie">
+<!ENTITY openLinkCmd.accesskey "n">
+<!ENTITY openLinkCmdInPrivateWindow.label "Otwórz odnośnik w oknie prywatnym">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label "Otwórz">
 <!ENTITY openLinkInWindowCmd.accesskey "O">
 <!ENTITY openFrameCmd.label "Otwórz ramkę w nowym oknie">
