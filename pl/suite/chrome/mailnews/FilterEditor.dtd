@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "…wykonaj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "w">
 
+<!ENTITY filterActionOrderWarning.label "Filtrowanie odbędzie się w innej niż wyświetlana kolejności.">
+<!ENTITY filterActionOrder.label "Wyświetl kolejność">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Przenieś wiadomość do">
 <!ENTITY copyMessage.label "Kopiuj wiadomość do">
