@@ -167,7 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY search.label "Leita á vefnum">
 <!ENTITY search.accesskey "L">
 <!ENTITY downloads.label "Niðurhal">
-<!ENTITY downloads.tooltip "Sýna framgang niðurhala">
+<!ENTITY downloads.tooltip "Sýna framvindu niðurhala">
 <!ENTITY downloads.accesskey "N">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
