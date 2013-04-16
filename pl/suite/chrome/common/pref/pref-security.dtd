@@ -5,19 +5,27 @@
 <!ENTITY pref.security.title "Prywatność i zabezpieczenia">
 
 <!ENTITY tracking.label "Śledzenie użytkownika">
-<!ENTITY doNotTrack.label "Informuj witryny, że użytkownik nie chce być śledzony">
-<!ENTITY doNotTrack.accesskey "I">
+<!ENTITY trackingIntro.label "Witryny mogą śledzić sposób ich użytkowania, co ogranicza prywatność użytkownika.">
 
-<!ENTITY privateData.label "Dane prywatne">
+<!ENTITY dntTellSites.label "Powiadamiaj witryny o preferencjach użytkownika dotyczących śledzenia">
+<!ENTITY dntTellSites.accesskey "w">
+<!ENTITY dntTrackingNotOkay.label "Użytkownik nie chce być śledzony">
+<!ENTITY dntTrackingNotOkay.accesskey "N">
+<!ENTITY dntTrackingOkay.label "Użytkownik chce być śledzony">
+<!ENTITY dntTrackingOkay.accesskey "U">
 
-<!ENTITY alwaysClear.label "Zawsze czyść dane prywatne przy zamykaniu programu &brandShortName;">
-<!ENTITY alwaysClear.accesskey "Z">
 
-<!ENTITY askBeforeClear.label "Proś o potwierdzenie przed czyszczeniem danych prywatnych">
-<!ENTITY askBeforeClear.accesskey "P">
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
+-->
+<!ENTITY safeBrowsing.label "Bezpieczne przeglądanie">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; może blokować witryny zgłoszone jako zawierające niebezpieczną zawartość.">
 
-<!ENTITY clearDataSettings.label "Podczas usuwania danych prywatnych, program &brandShortName; usunie:">
+<!ENTITY blockAttackSites.label "Blokuj witryny zgłoszone jako stwarzające zagrożenie (robaki, wirusy)">
+<!ENTITY blockAttackSites.accesskey "z">
 
-<!ENTITY clearDataDialog.label "Wyczyść teraz…">
-<!ENTITY clearDataSilent.label "Wyczyść teraz">
-<!ENTITY clearDataDialog.accesskey "W">
+<!ENTITY blockWebForgeries.label "Blokuj witryny zgłoszone jako próby oszustwa internetowego (Phishing)">
+<!ENTITY blockWebForgeries.accesskey "o">
