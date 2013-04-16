@@ -4,6 +4,7 @@
 
 <!ENTITY SSLProtocolVersions.caption "Wersje protokołu SSL">
 <!ENTITY SSLWarnings.caption "Ostrzeżenia SSL">
+<!ENTITY SSLMixedContent.caption "Zawartość częściowo szyfrowana">
 <!ENTITY SSLClientAuthMethod.caption "Wybór certyfikatu klienta">
 
 <!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
@@ -18,9 +19,18 @@
 <!ENTITY warn.insecurepost "Przesyłaniem danych pomiędzy stronami, które nie używają szyfrowania">
 <!ENTITY warn.insecurepost.accesskey "s">
 <!ENTITY warn.leavingsecure "Opuszczeniem strony, która używa szyfrowania">
-<!ENTITY warn.leavingsecure.accesskey "a">
+<!ENTITY warn.leavingsecure.accesskey "O">
 <!ENTITY warn.viewmixed "Przeglądaniem strony tylko częściowo zaszyfrowanej">
-<!ENTITY warn.viewmixed.accesskey "P">
+<!ENTITY warn.viewmixed.accesskey "r">
+
+<!ENTITY warn.mixedactivecontent "Ostrzegaj, jeśli szyfrowane witryny zawierają niezabezpieczoną zawartość">
+<!ENTITY warn.mixedactivecontent.accesskey "g">
+<!ENTITY block.activecontent "Nie wczytuj niezabezpieczonej zawartości na szyfrowanych stronach">
+<!ENTITY block.activecontent.accesskey "N">
+<!ENTITY warn.mixeddisplaycontent "Ostrzegaj, jeśli szyfrowane witryny zawierają inne rodzaje zawartości częściowo szyfrowanej">
+<!ENTITY warn.mixeddisplaycontent.accesskey "d">
+<!ENTITY block.displaycontent "Nie wczytuj innych rodzajów zawartości częściowo szyfrowanej na szyfrowanych stronach">
+<!ENTITY block.displaycontent.accesskey "z">
 
 <!ENTITY certselect.description "Określ sposób, w jaki &brandShortName; dokona wyboru certyfikatu do przedstawienia stronom WWW, które tego zażądają:">
 <!ENTITY certselect.auto "Wybierz automatycznie">
