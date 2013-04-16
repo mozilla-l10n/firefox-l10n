@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label "Zasady akceptowania ciasteczek">
 
-<!ENTITY accAllCookiesRadio.label "Akceptuj wszystkie ciasteczka">
-<!ENTITY accAllCookiesRadio.accesskey "A">
-
-<!ENTITY accOrgCookiesRadio.label "Akceptuj ciasteczka tylko z serwera, z którym nawiązano pierwotne połączenie">
-<!ENTITY accOrgCookiesRadio.accesskey "s">
-
 <!ENTITY disableCookies.label "Blokuj ciasteczka">
 <!ENTITY disableCookies.accesskey "z">
+
+<!ENTITY accNo3rdPartyCookies.label "Akceptuj ciasteczka tylko z serwera, z którym nawiązano pierwotne połączenie (ciasteczka z innych witryn będą odrzucane)">
+<!ENTITY accNo3rdPartyCookies.accesskey "s">
+
+<!ENTITY acc3rdPartyVisited.label "Akceptuj z innych witryn tylko, gdy te witryny zostały poprzednio odwiedzone przez użytkownika">
+<!ENTITY acc3rdPartyVisited.accesskey "o">
+
+<!ENTITY accAllCookies.label "Akceptuj wszystkie ciasteczka">
+<!ENTITY accAllCookies.accesskey "A">
 
 <!ENTITY cookieRetentionPolicy.label "Zapamiętywanie ciasteczek">
 
