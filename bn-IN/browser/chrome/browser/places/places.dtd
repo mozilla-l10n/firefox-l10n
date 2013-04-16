@@ -148,12 +148,12 @@
 <!-- ENTITY search.allBookmarks.label                 "সকল বুকমার্ক" -->
 <!-- ENTITY search.allBookmarks.accesskey             "A" -->
 
-<!ENTITY search.in.label                           "অনুসন্ধানের স্থান:">
-<!ENTITY search.scopeFolder.label                  "নির্বাচিত ফোল্ডার">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "বুকমার্ক">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "ডাউনলোড">
+<!--ENTITY search.in.label                           "অনুসন্ধানের স্থান:"-->
+<!--ENTITY search.scopeFolder.label                  "নির্বাচিত ফোল্ডার"-->
+<!--ENTITY search.scopeFolder.accesskey              "r"-->
+<!--ENTITY search.scopeBookmarks.label               "বুকমার্ক"-->
+<!--ENTITY search.scopeBookmarks.accesskey           "k"-->
+<!--ENTITY search.scopeDownloads.label               "ডাউনলোড"-->
 <!-- ENTITY search.scopeAll.label                     "সকল বুকমার্ক" -->
 <!-- ENTITY search.scopeAll.accesskey                 "A" -->
 <!-- ENTITY search.scopeMenu.label                    "বুকমার্ক মেনু" -->
@@ -161,13 +161,13 @@
 <!-- ENTITY search.scopeToolbar.label                 "বুকমার্ক টুল-বার" -->
 <!-- ENTITY search.scopeToolbar.accesskey             "T" -->
 <!-- ENTITY search.scopeDownloads.label               "ডাউনলোড" -->
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "পূর্ববর্তী তথ্য">
-<!ENTITY search.scopeHistory.accesskey             "H">
+<!--ENTITY search.scopeDownloads.accesskey           "D"-->
+<!--ENTITY search.scopeHistory.label                 "পূর্ববর্তী তথ্য"-->
+<!--ENTITY search.scopeHistory.accesskey             "H"-->
 <!-- ENTITY search.scopeBarExpanderDown.tooltip       "অনুসন্ধানের তথ্য গঠনের ব্যবস্থা প্রদর্শন করা হবে" -->
 <!-- ENTITY search.scopeBarExpanderUp.tooltip         "অনুসন্ধানের তথ্য গঠনের ব্যবস্থা আড়াল করা হবে" -->
-<!ENTITY saveSearch.label                          "সংরক্ষণ করুন">
-<!ENTITY saveSearch.accesskey                      "S">
+<!--ENTITY saveSearch.label                          "সংরক্ষণ করুন"-->
+<!--ENTITY saveSearch.accesskey                      "S"-->
 <!-- ENTITY moreCriteria.label                        "+" -->
 <!-- ENTITY advancedSearch.onlybookmarked.label       "শুধুমাত্র বুকমার্ক অনুসন্ধান করা হবে" -->
 <!-- ENTITY advancedSearch.match.label                "মেলানো হবে " -->
