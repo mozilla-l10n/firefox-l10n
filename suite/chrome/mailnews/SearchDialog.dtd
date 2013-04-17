@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Procurar mensagens em:">
@@ -14,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Procurar Mensagens">
 <!ENTITY results.label               "Resultados">
-<!ENTITY fileHereMenu.label          "O Ficheiro Aqui">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Ficheiro">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label "Mover aqui">
+<!ENTITY moveHereMenu.accesskey "u">
+<!ENTITY moveButton.label "Mover para">
+<!ENTITY moveButton.accesskey "v">
 <!ENTITY goToFolderButton.label      "Abrir Pasta das Mensagens">
 <!ENTITY goToFolderButton.accesskey  "b">
 <!ENTITY saveAsVFButton.label        "Guardar como pasta de Procura">
