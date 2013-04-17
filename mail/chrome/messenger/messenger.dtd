@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "s">
-<!ENTITY openAttachmentCmd.label "Bilagor">
-<!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Spara som">
 <!ENTITY saveAsMenu.accesskey "m">
 <!ENTITY saveAsFileCmd.label "Fil">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Öppna i konversationen">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Bilagor">
+<!ENTITY openAttachmentListCmd.accesskey "B">
 <!ENTITY openFeedMessage1.label "När du öppnar RSS-meddelanden">
 <!ENTITY openFeedMessage1.accesskey "ö">
 <!ENTITY openFeedWebPage.label "Öppna som webbsida">
