@@ -202,6 +202,7 @@
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label "Editar recorrência">
+
 <!ENTITY event.repeat.does.not.repeat.label "Não repete">
 <!ENTITY event.repeat.daily.label "Diariamente">
 <!ENTITY event.repeat.weekly.label "Semanalmente">
@@ -210,18 +211,22 @@
 <!ENTITY event.repeat.monthly.label "Mensalmente">
 <!ENTITY event.repeat.yearly.label "Anualmente">
 <!ENTITY event.repeat.custom.label "Personalizar...">
+
 <!ENTITY event.recurrence.pattern.label "Padrão de recorrência">
 <!ENTITY event.recurrence.occurs.label "Repetir" >
 <!ENTITY event.recurrence.day.label "diariamente" >
 <!ENTITY event.recurrence.week.label "semanalmente" >
 <!ENTITY event.recurrence.month.label "mensalmente" >
 <!ENTITY event.recurrence.year.label "anualmente" >
+
 <!ENTITY event.recurrence.pattern.every.label "A cada" >
 <!ENTITY repeat.units.days.both "Dia(s)" >
 <!ENTITY event.recurrence.pattern.every.weekday.label "Todos os dias da semana" >
+
 <!ENTITY event.recurrence.pattern.weekly.every.label "A cada" >
 <!ENTITY repeat.units.weeks.both "Semana(s)" >
 <!ENTITY event.recurrence.on.label "Em:" >
+
 <!ENTITY event.recurrence.pattern.monthly.every.label "A cada" >
 <!ENTITY repeat.units.months.both "Mês" >
 <!ENTITY event.recurrence.monthly.every.label "A cada" >
@@ -240,6 +245,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.7.label "sábado" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label "Dia do mês">
 <!ENTITY event.recurrence.repeat.recur.label "Ocorre no(s) dia(s)">
+
 <!ENTITY event.recurrence.every.label "A cada:" >
 <!ENTITY repeat.units.years.both "Ano(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "A cada" >
@@ -252,6 +258,7 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label "" >
+
 <!ENTITY event.recurrence.pattern.yearly.month.1.label "janeiro" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label "fevereiro" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label "março" >
@@ -291,6 +298,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.10.label "outubro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label "novembro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label "dezembro" >
+
 <!ENTITY event.recurrence.range.label "Período de recorrência">
 <!ENTITY event.recurrence.forever.label "Sem data de fim" >
 <!ENTITY event.recurrence.repeat.for.label "Criar" >
