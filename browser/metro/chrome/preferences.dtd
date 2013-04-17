@@ -35,8 +35,12 @@
 <!ENTITY clearPrivateData.logins                                 "Aktiva inloggningar">
 
 <!ENTITY optionsHeader.privacy.passwords.label                   "Spara lösenord">
-<!ENTITY optionsHeader.privacy.doNotTrack.title                  "Spårning">
-<!ENTITY optionsHeader.privacy.doNotTrack.label                  "Be platser att inte spåra mig">
+<!ENTITY doNotTrack.title                                        "Spårning">
+<!ENTITY doNotTrack.desc                                         "Säg till webbplatser:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "Jag vill inte bli spårad">
+<!ENTITY doNotTrack.options.noPreference                         "Inget om min inställning till spårning">
+<!ENTITY doNotTrack.options.trackingOkay                         "Jag vill bli spårad">
 
-<!-- ## Sync Flyout Panel ## -->
+
+  <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->
