@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Transferências">
 <!ENTITY aboutDownloads.header                     "As suas transferências">
 <!ENTITY aboutDownloads.empty                      "Sem transferências">
+
+<!ENTITY aboutDownloads.open                       "Abrir">
+<!ENTITY aboutDownloads.remove                     "Eliminar">
+<!ENTITY aboutDownloads.removeAll                  "Eliminar tudo">
+<!ENTITY aboutDownloads.pause                      "Pausa">
+<!ENTITY aboutDownloads.resume                     "Resumir">
+<!ENTITY aboutDownloads.cancel                     "Cancelar">
+<!ENTITY aboutDownloads.retry                      "Voltar a tentar">
