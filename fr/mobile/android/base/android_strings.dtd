@@ -182,6 +182,7 @@ size. -->
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
+<!ENTITY reading_list_duplicate "Page déjà dans votre liste de lecture">
 <!ENTITY reader "Lecteur">
 
 <!ENTITY masterpassword_create_title "Créer un mot de passe principal">
