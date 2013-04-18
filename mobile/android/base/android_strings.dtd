@@ -182,6 +182,7 @@ size. -->
 <!ENTITY reading_list_added "Sidan finns nu i din läslista">
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
+<!ENTITY reading_list_duplicate "Sidan finns redan i din läslista">
 <!ENTITY reader "Läsaren">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
