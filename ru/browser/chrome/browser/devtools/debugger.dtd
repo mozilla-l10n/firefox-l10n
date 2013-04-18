@@ -18,6 +18,8 @@
 <!ENTITY debuggerUI.showVarsFilter.key "V">
 <!ENTITY debuggerUI.showOnlyEnum "Показать только перечислимые свойства">
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
+<!ENTITY debuggerUI.showOriginalSource "Показать оригинальные источники">
+<!ENTITY debuggerUI.showOriginalSource.key "O">
 <!ENTITY debuggerUI.searchPanelTitle "Операторы">
 <!ENTITY debuggerUI.searchFile "Фильтр сценариев">
 <!ENTITY debuggerUI.searchFile.key "P">
