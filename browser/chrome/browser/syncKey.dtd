@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!ENTITY syncKey.page.title               "ਤੁਹਾਡੀ &syncBrand.fullName.label; ਕੁੰਜੀ">
 <!ENTITY syncKey.page.description2        "ਇਹ ਕੁੰਜੀ ਨੂੰ ਤੁਹਾਡਾ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਡੀਕੋਡ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਨਵੇਂ ਜੰਤਰ ਉੱਤੇ  &syncBrand.fullName.label; ਦੀ ਨਵੀਂ ਸੰਰਚਨਾ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਹਰ ਵਾਰ ਦੇਣ ਦੀ ਲੋੜ ਪਵੇਗੀ।">
 <!ENTITY syncKey.keepItSecret.heading     "ਇਸ ਨੂੰ ਗੁਪਤ ਰੱਖੋ">
