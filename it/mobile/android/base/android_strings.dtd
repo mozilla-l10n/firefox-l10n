@@ -144,6 +144,7 @@
 <!ENTITY reading_list_added "Pagina aggiunta a Elenco lettura">
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
+<!ENTITY reading_list_duplicate "La pagina è già presente in Elenco lettura">
 <!ENTITY reader "Lettore">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
@@ -164,7 +165,6 @@
 <!ENTITY abouthome_topsites_edit "Modifica">
 <!ENTITY abouthome_topsites_pin "Blocca sito">
 <!ENTITY abouthome_topsites_unpin "Sblocca sito">
-<!ENTITY abouthome_topsites_remove "Rimuovi">
 <!ENTITY abouthome_about_sync3 "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi »">
 <!ENTITY abouthome_about_apps3 "Scarica nuove app da Firefox Marketplace e scopri il meglio che il Web può offrire »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
