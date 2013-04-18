@@ -115,7 +115,8 @@ size. -->
 <!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
-<!ENTITY pref_private_data_siteSettings "ਸਾਈਟ ਪਸੰਦ">
+<!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
+<!ENTITY pref_private_data_downloadFiles "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ">
 
 <!ENTITY pref_update_autodownload "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਹੀ">
@@ -206,7 +207,7 @@ size. -->
 <!ENTITY abouthome_topsites_edit "ਸੋਧ">
 <!ENTITY abouthome_topsites_pin "ਸਾਈਟ ਪਿੰਨ">
 <!ENTITY abouthome_topsites_unpin "ਸਾਈਟ ਅਣ-ਪਿੰਨ">
-<!ENTITY abouthome_topsites_unpinall "ਸਭ ਅਣ-ਪਿੰਨ">
+<!ENTITY abouthome_topsites_remove "Remove">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
