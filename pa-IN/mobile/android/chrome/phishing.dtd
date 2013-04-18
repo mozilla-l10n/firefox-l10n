@@ -1,17 +1,9 @@
-<!ENTITY safeb.palm.warning.title "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ">
-
-<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "ਹੋਰ ਜਾਣੋ &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "ਹੋਰ ਜਾਣੋ &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
-<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; ਤੁਹਾਨੂੰ ਕਿਵੇਂ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ ">
-<!ENTITY safeb.palm.message.p2.end " ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਤੋਂ">
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY safeb.palm.accept.label "ਮੈਨੂੰ ਇੱਥੇ ਬਾਹਰ ਕੱਢੋ!">
-<!ENTITY safeb.palm.accept.statustext "ਮੇਰੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਅਣਡਿੱਠੀ">
-<!ENTITY safeb.palm.decline.statustext "ਚੇਤਾਵਨੀ ਬੰਦ ਕਰੋ" >
 <!ENTITY safeb.palm.notforgery.label2 "ਇਹ ਵੈੱਬ ਧੋਖਾਧੜੀ ਨਹੀਂ ਹੈ…">
 <!ENTITY safeb.palm.reportPage.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਉਂ ਹੈ?">
 

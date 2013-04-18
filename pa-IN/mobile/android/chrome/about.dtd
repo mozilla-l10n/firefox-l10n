@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY aboutPage.title                        "&brandShortName; ਬਾਰੇ">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ਤਜਰਬੇ ਅਧੀਨ ਹੈ
 ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।">
@@ -9,7 +13,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ »">
 <!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ">
 <!ENTITY aboutPage.checkForUpdates.none         "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
-<!ENTITY aboutPage.checkForUpdates.found        "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ">
+<!ENTITY aboutPage.checkForUpdates.available    "ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ। ਡਾਊਨਲੋਡ ਲਈ ਛੂਹੋ">
+<!ENTITY aboutPage.checkForUpdates.downloading  "…ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਹੋ ਗਿਆ ਹੈ। ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਛੂਹੋ">
 <!ENTITY aboutPage.faq.label                    "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY aboutPage.support.label                "ਸਹਿਯੋਗ">
 <!ENTITY aboutPage.privacyPolicy.label          "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">
