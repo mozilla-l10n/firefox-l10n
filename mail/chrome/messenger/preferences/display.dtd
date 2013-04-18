@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Más grande">
 <!ENTITY smaller.label                    "Más pequeño">
-<!ENTITY color.label                      "Color:">
-<!ENTITY color.accesskey                  "c">
+<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Mensajes de texto plano">
-<!ENTITY displayText.label                    "Cuando se muestren mensajes de texto plano citados:">
-<!ENTITY colors.label                     "Colores">
-<!ENTITY overrideColors.label             "Cuando se muestren mensajes, usar los colores siguientes:">
-<!ENTITY textColor.label                  "Color del texto:">
-<!ENTITY textColor.accesskey              "x">
-<!ENTITY backgroundColor.label            "Color de fondo:">
-<!ENTITY backgroundColor.accesskey        "f">
+<!ENTITY displayText.label                "Cuando se muestren mensajes de texto plano citados:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Mostrar emoticones como gráficos">
@@ -40,11 +34,14 @@
 <!ENTITY removeTagButton.label    "Borrar">
 <!ENTITY removeTagButton.accesskey "B">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Tipografía">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Tipografía y colores">
 <!ENTITY defaultFont.label       "Tipografía predeterminada:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Tamaño:">
 <!ENTITY defaultSize.accesskey   "T">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avanzadas…">
+<!ENTITY colorButton.label       "Colores…">
+<!ENTITY colorButton.accesskey   "C">
+
