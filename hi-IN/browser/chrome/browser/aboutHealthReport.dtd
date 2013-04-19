@@ -1,31 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-
-<!ENTITY abouthealth.locale-direction "ltr">
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 
 <!ENTITY abouthealth.pagetitle "&brandShortName; स्वास्थ्य रिपोर्ट">
-<!ENTITY abouthealth.header "&brandFullName; स्वास्थ्य रिपोर्ट">
-
-<!ENTITY abouthealth.intro.title "क्या है &brandShortName; स्वास्थ्य रिपोर्ट?">
-
-<!ENTITY abouthealth.intro-enabled "&brandFullName; अपने कंप्यूटर और प्रयोग के बारे में कुछ आँकड़ा जमा करें ताकि बेहतर ब्राउज़र अनुभव पाया जा  सके.">
-<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
-
-<!ENTITY abouthealth.optin "&brandShortName; को बेहतर बनाने में मदद करें">
-<!ENTITY abouthealth.optout "रिपोर्टिंग बंद करें">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "आँकड़ा सुपुर्दगी रोकें?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "क्या आप निश्चित हैं कि आप चुनना चाहेंगे और अपने सभी अनाम डाटा को मिटाना चाहेंगे जो &vendorShortName; सर्वर पर है?">
-
-<!ENTITY abouthealth.show-raw-data "विवरण दिखाएँ">
-<!ENTITY abouthealth.hide-raw-data "विवरण छिपाएँ">
-
-<!ENTITY abouthealth.show-report "&brandShortName; रिपोर्ट दिखाएँ">
-
-<!ENTITY abouthealth.details.description-start "यह वह डाटा है जो &brandFullName; सौंप रहा है &brandShortName; स्वास्थ्य रिपोर्ट के काम करने के लिए.  आप कर सकते हैं">
-<!ENTITY abouthealth.details-link "अधिक जानें">
-<!ENTITY abouthealth.details.description-end "क्या हम जमा करते हैं और क्या सौंपते हैं का परिचय.">
-<!ENTITY abouthealth.no-data-available "दिखाने के लिए कोई पिछली सुपुर्दगी नहीं. कृपया बाद में जाँचें.">
