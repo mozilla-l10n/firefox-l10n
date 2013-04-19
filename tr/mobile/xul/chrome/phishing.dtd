@@ -27,4 +27,3 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Sahtekârlık şüphesi!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Bu sayfaya kişisel bir bilgi girmeniz, kimlik hırsızlığı veya farklı bir dolandırıcılıkla sonuçlanabilir.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Bu tür web sahtekârlıkları, güvendiğiniz kaynakları taklit eden sahte web sayfalarının ve e-postaların kullanıldığı e-tuzak saldırılarında kullanılabilir.</p>">
-

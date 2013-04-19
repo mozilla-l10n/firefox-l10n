@@ -16,11 +16,10 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Güncellemeler aranıyor…">
 <!ENTITY aboutPage.checkForUpdates.none         "Hiç güncelleme yok">
 <!ENTITY aboutPage.checkForUpdates.found        "Güncelleme var">
-
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
+
+
 <!ENTITY aboutPage.licenseLink                  "Lisans bilgisi">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
-
