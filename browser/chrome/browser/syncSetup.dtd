@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "సంకేతపదము ఖాయపరచు">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "నేను">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "సేవా నిబంధనలను">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "ఒక పరికరం జతచేయి">
 <!ENTITY addDevice.showMeHow.label          "ఎలానో నాకు చూపు.">
 <!ENTITY addDevice.dontHaveDevice.label     "నేను పరికరమును నాతో కలిగిలేను">
-<!ENTITY pairDevice.setup.description.label  "క్రియాశీలపరచుటకు, ఎంపికచేయి &#x0022; పరికరం జతచేయి&#x0022; మీ యితర పరికరం పైన.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "అప్పుడు, యీ కోడ్ ప్రవేశపెట్టుము:">
-<!ENTITY pairDevice.dialog.description.label "మీ పరికరంను క్రియాశీలపరచుటకు, ఎంపికచేయండి&#x0022;సింక్ అమర్చు&#x0022; పరికరంపైన.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "పరికరము అందించే కోడ్‌ను ప్రవేశపెట్టుము:">
 <!ENTITY addDevice.dialog.tryAgain.label    "దయచేసి మరలా ప్రయత్నించు.">
 <!ENTITY addDevice.dialog.successful.label  "పరికరము విజయవంతంగా జతచేయబడినది. ప్రాధమిక సింక్రోనైజేషన్ అనునది చాలా నిముషముల సమయం తీసుకొంటుంది మరియు బ్యాక్‌గ్రౌండ్ నందు పూర్తగును.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "లోపలకు వెళ్ళు">
-<!ENTITY existingRecoveryKey.description "మీరు మీ యితర పరికరముపైని &syncBrand.shortName.label; ఐచ్ఛికములకు వెళ్ళి, &#x0022; నా రికవరీ కీను &#x0022; కిందన &#x0022; ఖాతా నిర్వహించు &#x0022; యెంచుకొనుట ద్వారా మీ రికవరీ కీ యొక్క నకలును పొందగలరు.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "పరిశీలించుచున్నది…">
 <!ENTITY resetPassword.label          "సంకేతపదమును తిరిగివుంచుము">
 <!ENTITY resetSyncKey.label           "నేను నా యితర పరికరమును కోల్పోయాను.">
@@ -111,6 +114,3 @@
 <!ENTITY setup.successPage.title "అమర్పు పూర్తైనది">
 <!ENTITY changeOptions.label "కింది సింక్ ఐచ్ఛికములను యెంపికచేయుట ద్వారా మీరు యీ అభీష్టమును మార్చగలరు.">
 <!ENTITY continueUsing.label "మీరు యిప్పుడు &brandShortName; ను వుపయోగించుట కొనసాగించవచ్చును.">
-
-<!ENTITY setup.setupMetro.accesskey "S">
-<!ENTITY setup.setupMetro.label     "Windows 8 శైలి &brandShortName; తో సింక్ అవు">

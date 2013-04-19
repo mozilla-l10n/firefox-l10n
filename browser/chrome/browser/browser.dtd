@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ధ్వనిని ప్రవేశపెట్టు">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,40 +626,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "పక్కపట్టీని చూపించు (S)">
 <!ENTITY social.toggleSidebar.accesskey "S">
 
-<!ENTITY social.toggleNotifications.label "డెస్కుటాప్ ప్రకటనలను చూపు">
+<!ENTITY social.addons.label "Manage Services…">
+
+<!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "చేయవద్దు">
+<!ENTITY social.activated.undobutton.label "Undo">
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "సంభషణలపై దృష్టిసారించు">
+<!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "కేమెరా / మైక్రోఫోన్ యాక్సెస్">
-<!ENTITY webrtcIndicatorButton.tooltip "ప్రస్తుతం మీ కేమెరా లేదా మైక్రోఫోన్ పంచుకొనుచన్న సైట్లను ప్రదర్శించు">
+<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
 
-<!ENTITY mixedContentBlocked.helplink "మరింత నేర్చుకో">
-<!ENTITY mixedContentBlocked.moreinfo "ఈ విషయం నిలువరించినా కూడా చాలా వెబ్‌సైట్లు సరిగానే పనిచేయును.">
-<!ENTITY mediaPlaybackRate.label     "నడుపు వేగం">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "మెల్లగా నడుపు (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "సాదారణ వేగం">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "అధిక వేగం (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-<!ENTITY mediaPlaybackRate200x.label "హాస్యాస్పద వేగం (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
 
-<!ENTITY pointerLock.notification.message "మరలా చూపుటకు యెప్పుడైనా ESC వత్తండి.">
-<!ENTITY social.addons.label "సేవలను నిర్వహించు…">
-
+<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
