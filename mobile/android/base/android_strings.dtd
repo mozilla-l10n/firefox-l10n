@@ -98,16 +98,16 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
-
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
 <!ENTITY pref_font_size_preview_text "Hızlı turuncu tilki daha fazla hız, esneklik ve güvenlikle beklentilerinizin üstünden atlar. Kâr amacı gütmeyen bir organizasyon olarak, üzerimizde baskı kuracak hiçbir güç olmadan, sizin adınıza yenilikler yapmakta özgürüz. Bu, sizin için daha iyi bir deneyim, Web için daha parlak bir gelecek demek.">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_show_product_announcements "Ürün duyurularını göster">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
-<!ENTITY pref_import_android "Android\'den al">
+<!ENTITY pref_import_android "Android\u0027den al">
 <!ENTITY pref_private_data_history "Tarama ve indirme geçmişi">
 <!ENTITY pref_private_data_formdata "Form ve arama geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
@@ -142,12 +142,12 @@ size. -->
 <!ENTITY tabs_normal "Sekmeler">
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
-
+<!ENTITY wallpaper_success "Duvar kağıdı güncellendi">
+<!ENTITY wallpaper_progress "Duvar kağıdı ayarlanıyor">
+<!ENTITY wallpaper_fail "Duvar kağıdı ayarlanamadı">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
 <!ENTITY find_text "Sayfada bul">
 <!ENTITY find_prev "Önceki">
 <!ENTITY find_next "Sonraki">
@@ -205,14 +205,14 @@ size. -->
 <!ENTITY abouthome_topsites_pin "Siteyi sabitle">
 <!ENTITY abouthome_topsites_unpin "Sabitlenmesini kaldır">
 <!ENTITY abouthome_topsites_remove "Kaldır">
-
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Diğer aygıtlarınızdan yer imlerinize, geçmişinize ve sekmelerinize erişmek için Firefox Sync\'i kurun&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Firefox Marketplace\&apos;ten yeni uygulamalar edinin, Web\&apos;in sunduklarını keşfedin&#x00A0;»">
+
+<!ENTITY abouthome_about_sync3 "Diğer aygıtlarınızdan yer imlerinize, geçmişinize ve sekmelerinize erişmek için Firefox Sync\u0027i kurun&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Firefox Marketplace\u0027ten yeni uygulamalar edinin, Web\u0027in sunduklarını keşfedin&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -224,8 +224,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
 <!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
 <!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
-
 <!-- Site identity popup -->
+
 <!ENTITY identity_connected_to "Bağlandığınız site:">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -244,20 +244,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
 <!ENTITY bookmarkhistory_button_import "İçe aktar">
-<!ENTITY bookmarkhistory_import_both "Android\'den yer imleri ve geçmiş alınıyor">
-<!ENTITY bookmarkhistory_import_bookmarks "Android\'den yer imleri alınıyor">
-<!ENTITY bookmarkhistory_import_history "Android\'den geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri alınıyor">
+<!ENTITY bookmarkhistory_import_history "Android\u0027den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
-
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
+
 <!ENTITY suggestions_prompt2 "&formatS; arama önerilerini açmak ister misiniz?">
 
 <!ENTITY webapp_generic_name "Uygulama">
 
 <!ENTITY searchable_description "Yer imleri ve geçmiş">
+<!-- Updater notifications --> 
 
- <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_start_select2 "İndirmek için dokunun">
 
@@ -268,4 +268,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
-

@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
 <!ENTITY retry.label "Yeniden dene">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
@@ -17,11 +17,10 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
-<!ENTITY dnsNotFound.longDesc2 "<ul>
-  <li><strong>www</strong>.example.com</li> yerine <strong>ww</strong>.example.com yazılması gibi Yazım hatalarına karşı adresi kontrol edin.
-  <li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li><strong>www</strong>.example.com</li> yerine <strong>ww</strong>.example.com yazılması gibi Yazım hatalarına karşı adresi kontrol edin. 
+<li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc " <ul> 
@@ -55,11 +54,9 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -79,11 +76,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul>
-  <li>Vekil sunucu ayarlarını kontrol ederek doğruluğundan emin olun.</li>
-  <li>Aygınızın veri veya Wi-Fi bağlantısını kontrol ederek çalışmakta olduğundan emin olun.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Vekil sunucu ayarlarını kontrol ederek doğruluğundan emin olun.</li> 
+<li>Aygınızın veri veya Wi-Fi bağlantısını kontrol ederek çalışmakta olduğundan emin olun.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
 <!ENTITY redirectLoop.longDesc " <ul> 
@@ -110,11 +106,10 @@ reddedilmesi olabilmektedir.</li>
 <li>Gelişmiş şifreleme ayarlarına bakarak güvenlik sorunu yaşadığı bilinen sunucuların listesini görebilir ve üzerinde değişiklik yapabilirsiniz.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul>
-  <li>Site geçici olarak kullanım dışı veya çok meşgul olabilir Birkaç dakika sonra tekrar deneyin.</li>
-  <li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Site geçici olarak kullanım dışı veya çok meşgul olabilir Birkaç dakika sonra tekrar deneyin.</li> 
+<li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
@@ -125,11 +120,11 @@ reddedilmesi olabilmektedir.</li>
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
+
 
 <!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucudan uyarı almaya alışkın değilseniz ayrıcalık tanımamalısınız.</p> 
  
@@ -138,5 +133,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
-
 

@@ -11,6 +11,5 @@
 <!ENTITY aboutDownloads.removeAll                  "Tümünü sil">
 <!ENTITY aboutDownloads.pause                      "Duraklat">
 <!ENTITY aboutDownloads.resume                     "Devam et">
-<!ENTITY aboutDownloads.cancel                     "Cancel">
+<!ENTITY aboutDownloads.cancel                     "Vazgeç">
 <!ENTITY aboutDownloads.retry                      "Tekrar dene">
-

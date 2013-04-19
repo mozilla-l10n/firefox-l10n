@@ -4,13 +4,12 @@
 
 <!ENTITY aboutApps.title2                          "Uygulamalar">
 <!ENTITY aboutApps.header                          "Uygulamalarınız">
-
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
+
 <!ENTITY aboutApps.noApps.pre "Hiç web uygulaması yüklenmemiş. ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post " üzerinden uygulama edinebilirsiniz.">
 <!ENTITY aboutApps.uninstall "Kaldır">
 <!ENTITY aboutApps.addToHomescreen "Ana ekrana ekle">
-

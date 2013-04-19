@@ -18,11 +18,11 @@
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora		"Android için">
+<!ENTITY aboutHome.downloadAurora  "Android için">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
-<!ENTITY aboutHome.forAndroid			"Aurora'yı indirin">
+<!ENTITY aboutHome.forAndroid   "Aurora'yı indirin">
 <!-- LOCALIZATION NOTE:
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
@@ -33,4 +33,3 @@
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
 <!ENTITY aboutHome.syncPairDevice       "Aygıt eşleştir">
-

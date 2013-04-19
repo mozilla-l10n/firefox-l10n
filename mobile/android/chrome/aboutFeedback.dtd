@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
+
 
 <!ENTITY pageTitle                 "&brandShortName; Geri Bildirimi">
 
@@ -13,22 +13,22 @@
 <!ENTITY intro.happyLink           "Sevdim">
 <!ENTITY intro.sadLink             "Bazı sorunlarla karşılaştım">
 <!ENTITY intro.ideaLink            "Bir fikrim var">
-
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
 <!ENTITY support.pre               "&brandShortName; ile ilgili yardıma ihtiyacınız varsa veya sorun yaşıyorsanız lütfen ">
 <!ENTITY support.link              "&brandShortName; Desteği">
 <!ENTITY support.post              "'ni ziyaret edin.">
 
 <!ENTITY happy.header              "Harika!">
-
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Bize Google Play'de 5 yıldız vererek sevginizi paylaşmak ister misiniz?">
 
+<!ENTITY happy.message             "Bize Google Play'de 5 yıldız vererek sevginizi paylaşmak ister misiniz?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+
 <!ENTITY happy.finePrint           "Bir dakikadan kısa sürecek ve kendinizi harika hissedeceksiniz.">
 
 <!ENTITY happy.ratingLink          "Evet, Google Play'e git">
@@ -38,34 +38,33 @@
 <!ENTITY sad.message               "&brandShortName; ile ilgili sorunlar yaşamanıza üzüldük. Lütfen bize söyleyin ki düzeltebilelim.">
 <!ENTITY sad.placeholder           "Geri bildiriminizi buraya yazın">
 <!ENTITY sad.lastSite              "Son ziyaret edilen site (tercihe bağlı)">
-
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+
 <!ENTITY sad.urlPlaceholder        "http://">
 <!ENTITY sad.thanksHeader          "Bildirdiğiniz için teşekkürler.">
-
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Daha iyi bir &brandShortName; için sürekli çalışıyoruz. Geri bildiriminizin gerçek insanlar tarafından inceleneceğinden ve sorununuzu çözmek için ellerinden geleni yapacaklarından emin olabilirsiniz.">
 
+<!ENTITY sad.thanksMessageTop      "Daha iyi bir &brandShortName; için sürekli çalışıyoruz. Geri bildiriminizin gerçek insanlar tarafından inceleneceğinden ve sorununuzu çözmek için ellerinden geleni yapacaklarından emin olabilirsiniz.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
-<!ENTITY sad.thanksMessageBottom   "Or else.">
 
+<!ENTITY sad.thanksMessageBottom   "Or else.">
 <!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
      tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
      to tell us anything they're thinking about. -->
+
 <!ENTITY idea.message              "Yeni fikirlere bayılıyoruz! Lütfen düşüncelerinizi aşağıda paylaşın. (Sadece &brandShortName; hakkında olurlarsa seviniriz.)">
 <!ENTITY idea.placeholder          "Fikrinizi buraya yazın">
 <!ENTITY idea.thanksHeader         "Teşekkürler!">
 
 <!ENTITY idea.thanksMessageTop     "Fikirlerinizi paylaşmaya vakit ayırdığınız için teşekkür ederiz. Daha iyi bir &brandShortName; için sürekli çalışıyoruz ve sizinki gibi katkılar bizi daha da şevklendiriyor.">
-
 <!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
      It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
      something physical, which is why they can't see it.-->
+
 <!ENTITY idea.thanksMessageBottom  "Belki göremiyorsunuz ama elinizi sıkmak için elimizi uzattık.">
 
 <!ENTITY feedback.privacy          "Gizliliğinizi korumak için lütfen geri bildiriminize herhangi bir kişisel bilgi eklemeyin.">
 <!ENTITY feedback.send             "Geri bildirim gönder">
-
