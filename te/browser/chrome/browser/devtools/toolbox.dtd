@@ -4,4 +4,4 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip  "అభివృద్దికారి సాధనాలు మూయి">
+<!ENTITY toolboxCloseButton.tooltip  "Close Developer Tools">
