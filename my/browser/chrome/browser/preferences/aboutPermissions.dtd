@@ -5,7 +5,7 @@
 <!ENTITY permissionsManager.title        "ပါမစ်ရှင်စီမံခန့်ခွဲမှူအစု">
 
 <!ENTITY sites.search                    "ဆိုက်အားရှာဖွေပါ">
-<!ENTITY sites.allSites                  "ဝတ်ဆိုက်အားလုံးများ">
+<!ENTITY sites.allSites                  "ဝက်ဆိုက်များအားလုံး">
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
@@ -13,14 +13,14 @@
 <!ENTITY header.site.start               "ဤအတွက်ပါမစ်ရှင်">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "ဝတ်ဆိုက်အားလုံးအတွက်သင့်တော်အောင်သတ်မှတ်ထားသောပါမစ်ရှင်">
+<!ENTITY header.defaults                 "ဝက်ဆိုက်အားလုံးအတွက်သင့်တော်အောင်သတ်မှတ်ထားသောပါမစ်ရှင်">
 
-<!ENTITY permissions.forgetSite          "ဒီကွန်ရက် အကြောင်းကို မေ့ပစ်ပါ">
+<!ENTITY permissions.forgetSite          "ဒီဆိုက် အကြောင်းကို မေ့ပစ်ပါ">
 
 <!ENTITY permission.alwaysAsk            "အမြဲမေးပါ">
 <!ENTITY permission.allow                "ခွင့်ပြုပါ (A)">
 <!ENTITY permission.allowForSession      "အခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "မူလသက်ဆိုင်သူသာ ခွင့်ပြုပါ">
 <!ENTITY permission.block                "ပိတ်ဆို့ပါ">
 
 <!ENTITY password.label                  "သိမ်းဆည်းထားသောလျှို့ဝှက်စကားလုံးများ">

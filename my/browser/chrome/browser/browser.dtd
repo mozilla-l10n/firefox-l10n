@@ -467,7 +467,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.label "(L)အရမ်းမြန်သောနှူန်း(2x)">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -626,7 +626,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "ဘေးဘက်ဘားအားပြပါ">
 <!ENTITY social.toggleSidebar.accesskey "ဘ">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "ဝန်ဆောင်မှူတွေကိုခန့်ခွဲ...">
 
 <!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -646,7 +646,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "ကင်မရာ/မိုက်ကရိုဖုန်းသုံးခွင့်">
 <!ENTITY webrtcIndicatorButton.tooltip "သင်လောလောဆယ် ရုပ်မြင်ကင်မရာနှင့် မိုက်ကရိုဖုန်းမျှပေးထားသော ဆိုဒ်များအား ပြမည် ">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.helplink "ပိုမို လေ့လာပါ">
 <!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
 
 <!ENTITY pointerLock.notification.message "နောက်တခါပြန်ကြည့်ချင်ရင် ESC  နှိပ်ပါ">

@@ -27,10 +27,10 @@
 <!ENTITY  acceptCookies.label           "Aကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.label      "(c)အခြား ကွတ်ကီးများကို လက်ခံပါ:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.always.label   "အစဉ်အမြဲ">
+<!ENTITY  acceptThirdParty.never.label    "ဘယ်တော့မှ">
 <!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Kသိမ်းဆည်းထားမဲ့ အချိန်၊">
