@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "Open">
+<!ENTITY aboutDownloads.remove                     "Xóa">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Tạm dừng">
+<!ENTITY aboutDownloads.resume                     "Tiếp tục">
+<!ENTITY aboutDownloads.cancel                     "Hủy bỏ">
+<!ENTITY aboutDownloads.retry                      "Thử lại">

@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
-<!ENTITY clearRecentHistory.label               "Xóa các Lược sử Gần đây…">
-<!ENTITY clearRecentHistory.accesskey           "X">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
-<!ENTITY privateBrowsingCmd.start.label         "Bắt đầu Duyệt web Riêng tư">
-<!ENTITY privateBrowsingCmd.start.accesskey     "R">
-<!ENTITY privateBrowsingCmd.stop.label          "Ngừng phiên Duyệt web Riêng tư">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "R">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Hiển thị"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "v">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Đi tới một Trang Web">
+<!ENTITY urlbar.placeholder2          "Search or enter address">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Chuyển qua thẻ:">
 <!-- 
@@ -428,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Gửi Audio…">
 <!ENTITY emailAudioCmd.accesskey      "A">
+<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Chép Địa Chỉ Ảnh">
@@ -458,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Bật tiếng">
 <!ENTITY mediaUnmute.accesskey       "B">
+<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -587,10 +598,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "thuộc quyền kiểm soát của">
 
 <!ENTITY identity.moreInfoLinkText "Thông tin Chi tiết…">
-
-<!ENTITY allTabs.filter.emptyText "Tìm kiếm Thẻ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -616,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Hiển thị thanh lề">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Manage Services…">
+
 <!ENTITY social.toggleNotifications.label "Hiển thị thanh thông báo desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -633,3 +645,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
 <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+
+<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+
+<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">

@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Theo dõi">
 
-<!ENTITY doNotTrack.label               "Nói với các trang web rằng tôi không muốn bị theo dõi">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Tìm hiểu Thêm">
 
 <!ENTITY  history.label                 "Lịch sử">
 
@@ -22,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
 <!ENTITY  acceptCookies.accesskey       "C">
 
-<!ENTITY  acceptThirdParty.label        "Cho phép cookie hãng thứ ba">
-<!ENTITY  acceptThirdParty.accesskey    "o">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Không bao giờ">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Lưu cho tới khi:">
 <!ENTITY  keepUntil.accesskey           "k">
