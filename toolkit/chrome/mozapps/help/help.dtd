@@ -1,54 +1,55 @@
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY backButton.label "പുറകോട്ടു് ">
-<!ENTITY backButton.accesskey "B">
-<!ENTITY backButton.tooltip "ഒരു താള്‍ പുറകോട്ടു് പോവുക">
-<!ENTITY forwardButton.label "മുമ്പോട്ടു്">
-<!ENTITY forwardButton.accesskey "F">
-<!ENTITY forwardButton.tooltip "ഒരു താള്‍ മുമ്പോട്ടു് പോവുക ">
-<!ENTITY copyCmd.label "പകര്‍ത്തുക">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "എല്ലാം തെരഞ്ഞെടുക്കുക">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "ആസ്ഥാനം ">
-<!ENTITY homeButton.tooltip "സഹായത്തിനുള്ള ആദ്യ താളിലേക്കു് പോവുക">
-<!ENTITY printButton.label "പ്രിന്റ് ചെയ്യുക ">
-<!ENTITY printButton.tooltip "ഈ താള്‍ പ്രിന്റ് ചെയ്യുക">
-<!ENTITY closeWindow.commandkey "W">
-<!-- ENTITY throbberItem.title "പ്രവര്‍ത്തന സൂചിക" -->
-<!-- ENTITY throbber.tooltip "സഹായ സെക്ഷനിലെ സഹായത്തിലേക്ക്‌ പോവുക" -->
-<!-- ENTITY searchtab.label "തിരഞ്ഞു കണ്ടെത്തുക" -->
-<!-- ENTITY searchtab.accesskey "S" -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "പുറകോട്ടു് ">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "ഒരു താള്‍ പുറകോട്ടു് പോവുക">
+<!ENTITY forwardButton.label            "മുമ്പോട്ടു്">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "ഒരു താള്‍ മുമ്പോട്ടു് പോവുക ">
+<!ENTITY copyCmd.label                  "പകര്‍ത്തുക">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "എല്ലാം തെരഞ്ഞെടുക്കുക">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "ആസ്ഥാനം ">
+<!ENTITY homeButton.tooltip             "സഹായത്തിനുള്ള ആദ്യ താളിലേക്കു് പോവുക">
+<!ENTITY printButton.label              "പ്രിന്റ് ചെയ്യുക ">
+<!ENTITY printButton.tooltip            "ഈ താള്‍ പ്രിന്റ് ചെയ്യുക">
+<!ENTITY closeWindow.commandkey         "W">
+
 <!ENTITY search.emptytext               "തെരയുക">
 <!ENTITY searchHeader.label             "തെരച്ചിലിന്റെ ഫലങ്ങള്‍">
+<!ENTITY toctab.label                   "ഉള്ളടക്കം">
+<!ENTITY toctab.accesskey               "C">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY toctab.label "ഉള്ളടക്കം">
-<!ENTITY toctab.accesskey "C">
-<!-- ENTITY textZoomReduceCmd.commandkey "-" -->
-<!-- ENTITY textZoomEnlargeCmd.commandkey "+" -->
-<!-- ENTITY textZoomEnlargeCmd.commandkey2 "=" -->
-<!-- ENTITY textZoomResetCmd.commandkey "0" -->
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
-<!ENTITY zLevel.label "എപ്പോഴും മുകളില്‍ തന്നെ">
-<!ENTITY zLevel.accesskey "T">
-<!-- ENTITY textZoomReduceBtn.label "ടെക്സ്റ്റ്‌ വലിപ്പം കുറയ്ക്കുക " -->
-<!-- ENTITY textZoomReduceBtn.accesskey "D" -->
-<!-- ENTITY textZoomEnlargeBtn.label "ടെക്സ്റ്റിന്റെ വലിപ്പം കൂട്ടുക " -->
-<!-- ENTITY textZoomEnlargeBtn.accesskey "I" -->
+<!ENTITY helpSearch.commandkey          "k">
 
+<!ENTITY zLevel.label                   "എപ്പോഴും മുകളില്‍ തന്നെ">
+<!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "വലിപ്പം കുറയ്ക്കുക">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
