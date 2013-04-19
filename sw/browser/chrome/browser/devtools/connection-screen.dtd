@@ -19,4 +19,4 @@
 <!ENTITY errorTimeout "Hitilafu: muda wa muunganisho umeisha.">
 <!ENTITY errorRefused "Hitilafu: muunganisho umekataa.">
 <!ENTITY errorUnexpected "Hitilafu lisilotarajiwa.">
-<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">
+<!ENTITY help "Zana za Mwendelezi wa Firefox zinaweza kueua vifaa vya mbali. (kwa mfano Firefox ya Android na Firefox OS). Hakikisha kwamba umewasha chaguo cha 'Ueuaji wa mbali' katika kifaa cha mbali. Ona kumbukumbu ya<a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'> kwa zaidi</a>.">

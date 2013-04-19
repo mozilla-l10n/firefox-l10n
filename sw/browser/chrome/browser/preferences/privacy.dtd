@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Kubali vidakuzi kutoka kwa tovuti">
 <!ENTITY  acceptCookies.accesskey       "K">
 
-<!ENTITY  acceptThirdParty.label        "Kubali vidukizo vya nafsi ya tatu">
-<!ENTITY  acceptThirdParty.accesskey    "b">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Weka hadi:">
 <!ENTITY  keepUntil.accesskey           "W">

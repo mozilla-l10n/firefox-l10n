@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Ruhusu kurasa kuchagua fonti zao, badala ya chaguzi zangu hapo juu">
 <!ENTITY  allowPagesToUse.accesskey               "R">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Usimbaji wa Kibambo">
-<!ENTITY languages.customize.DefaultCharset.label       "Chaguuo msingi Usimbaji wa Kibambo:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "U">
+<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
+<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">

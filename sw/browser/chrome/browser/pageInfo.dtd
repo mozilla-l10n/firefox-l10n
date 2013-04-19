@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Pakia Picha">
 <!ENTITY  permPopup             "Fungua Dirisha Ibukizi">
 <!ENTITY  permCookie            "Weka Vidakuzi">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Sakinisha Viendelezi au Mandhari">
 <!ENTITY  permGeo               "Mahali Gawize">
 <!ENTITY  permPlugins           "Amilisha Vichopeko">
 <!ENTITY  permFullscreen        "Ingiza Skirini nzima">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Weka Hifadhi Nje ya mtandao">
 <!ENTITY  permClearStorage           "Futa Hifadhi">
