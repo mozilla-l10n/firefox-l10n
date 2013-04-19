@@ -16,6 +16,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Các phép đo Đơn giản ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "  Thông tin hệ thống">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "   Biểu đồ Thu thập bởi Tiện ích mở rộng ">

@@ -50,9 +50,11 @@
 <!ENTITY notCached.longDesc "<p>Tài liệu được yêu cầu không có sẵn trong bộ đệm của &brandShortName;.</p><ul><li>Vì lí do bảo mật, &brandShortName; không tự động yêu cầu lại các tài liệu nhạy cảm.</li><li>Nhấn Thử Lại để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bấm &quot;Thử lại&quot; để vào chế độ trực tuyến và tải lại trang.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "<ul> 
