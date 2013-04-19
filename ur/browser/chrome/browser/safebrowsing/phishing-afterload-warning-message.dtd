@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "ویب نقل کا شبہ">
-
-<!ENTITY safeb.palm.message.p1 "یہ صفحہ ویب نقل کے طور پر ریپورٹ کیا گیا، جسے اس طرح ڈیزائن کیا گیا ہے کہ صارفین دھوکے میں آ کر اس میں ذاتی یا مالی معلومات ڈالیں۔ اس صفحہ میں ڈالی گئی ذاتی معلومات کا نتیجہ تشخص چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔ &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "مزید پڑھیے &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "مزید پڑھیے &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "ویب کی اس جعلسازی کو فشنگ اٹیک کے نام سے جانا جاتا ہے، جس میں آپ کے معتبر ویب مصادر کے صفحات اور ای میلز کی نقل کی جاتی ہے. آپ اس کے بارے میں مزید معلومات حاصل کر سکتے ہیں ">
-<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; آپ کی کس طرح حفاظت کرتا ہے">
-<!ENTITY safeb.palm.message.p2.end " فشنگ حملوں سےحملہ">
-
 <!ENTITY safeb.palm.accept.label "مجھے یہاں سے نکالیں!">
-<!ENTITY safeb.palm.accept.statustext "میرے ابتدائی صفحہ تک جائیں">
 <!ENTITY safeb.palm.decline.label "اس تنبیہ کو نظر انداز کریں">
-<!ENTITY safeb.palm.decline.statustext "تنبیہ بند کریں" >
 <!ENTITY safeb.palm.notforgery.label2 "یہ ویب نقل نہیں ہے...">
 <!ENTITY safeb.palm.reportPage.label "یہ صفحہ بلاک کیوں کیا گیا تھا؟">
 

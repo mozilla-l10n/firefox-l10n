@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "نقوش لوڈ کریں">
 <!ENTITY  permPopup             "پاپ اپ دریچے کھولیں">
 <!ENTITY  permCookie            "کوکیاں سیٹ کریں">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "خیالیات یا توسیعات تنصیب کریں">
 <!ENTITY  permGeo               "محل وقوع شیئر کریں">
 <!ENTITY  permPlugins           "پلگ ان متحرک کریں">
 <!ENTITY  permFullscreen        "پوری اسکرین موڈ میں جائیں">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "آف لائن ذخیرہ قائم رکھیں">
 <!ENTITY  permClearStorage           "ذخیرہ خالی کریں">

@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
 
-<!ENTITY  acceptThirdParty.label        "تھرڈ پارٹی کوکیاں قبول کریں">
-<!ENTITY  acceptThirdParty.accesskey    "ق">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "رکھیں جب تک:">
 <!ENTITY  keepUntil.accesskey           "ر">
