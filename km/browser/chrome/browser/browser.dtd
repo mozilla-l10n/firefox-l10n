@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ត">
 <!ENTITY mediaUnmute.label           "ឮ">
 <!ENTITY mediaUnmute.accesskey       "ឮ">
+<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous ល្បឿន (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "បង្ហាញ​របារ​ចំហៀង">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
+
 <!ENTITY social.toggleNotifications.label "បង្ហាញ​ការ​ជូន​ដំណឹង​លើ​ផ្ទៃតុ">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -632,4 +647,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "បង្ហាញ​តំបន់​បណ្ដាញ​ដែល​អ្នក​កំពុង​ចែករំលែក​ម៉ាស៊ីន​ថត និង​មីក្រូហ្វូន​ជាមួយ">
 
 <!ENTITY mixedContentBlocked.helplink "ស្វែងយល់​បន្ថែម">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "តំបន់បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ជា​ធម្មតា ទោះបីជា​មាតិកា​នេះ​ខូច​ក៏ដោយ។">
+
+<!ENTITY pointerLock.notification.message "ចុច ESC ប្រសិនបើ​អ្នក​ចង់​បង្ហាញ​វា​ម្ដងទៀត។">
