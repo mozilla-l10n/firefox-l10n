@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "तृतीय पक्षीय कुकीज़ स्वीकारें">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.pre.label      "तृतीय पक्षीय कुकीज़ स्वीकारें (c)">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "हमेशा">
+<!ENTITY  acceptThirdParty.never.label    "कभी न ">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "बनाए रखें जबतक:">
 <!ENTITY  keepUntil.accesskey           "K">
