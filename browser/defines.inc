@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR Komuniti Mozilla Malaysia  <l10n-team AT mozilla DOT my>
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mahrazi Mohd Kamal</em:contributor> <em:contributor>Syafiq Mazli</em:contributor><em:contributor>Lagi1</em:contributor><em:contributor>Lagi2</em:contributor><em:contributor>Lagi3</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mahrazi Mohd Kamal</em:contributor> <em:contributor>Syafiq Mazli</em:contributor>
 
 #unfilter emptyLines
