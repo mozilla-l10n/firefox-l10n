@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Sistemska integracija">
 <!ENTITY acceptIntegration.label  "Postavi kao zadani">
 <!ENTITY cancelIntegration.label  "Preskoči integraciju">
+<!ENTITY cancelIntegration2.label  "Otkaži">
 <!ENTITY defaultClient.intro  "Koristite &brandShortName; kao zadani klijent za:">
 
 <!ENTITY email.label "E-poštu">

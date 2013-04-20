@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Prilagodi…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
+<!ENTITY showTrayIcon.label               "Prikaži ikonu u sistemskoj traci">
+<!ENTITY showTrayIcon.accesskey           "s">
+
 <!ENTITY play.label                       "Reproduciraj">
 <!ENTITY play.accesskey                   "c">
 <!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">

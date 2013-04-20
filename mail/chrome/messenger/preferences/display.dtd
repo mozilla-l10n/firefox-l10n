@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Normalno">
 <!ENTITY bigger.label                     "Veće">
 <!ENTITY smaller.label                    "Manje">
-<!ENTITY color.label                      "Boja:">
-<!ENTITY color.accesskey                  "B">
+<!ENTITY quotedTextColor.label            "Boja:">
+<!ENTITY quotedTextColor.accesskey        "B">
 <!ENTITY displayWidth.label               "Poruke s običnim tekstom">
 <!ENTITY displayText.label                "Kod prikaza citiranih poruka s običnim tekstom:">
-<!ENTITY colors.label                     "Boje">
-<!ENTITY overrideColors.label             "Kod prikazivanja poruka, koristi sljedeće boje:">
-<!ENTITY textColor.label                  "Boja teksta:">
-<!ENTITY textColor.accesskey              "t">
-<!ENTITY backgroundColor.label            "Boja pozadine:">
-<!ENTITY backgroundColor.accesskey        "o">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Grafički prikaži smješke">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label     "Obriši">
 <!ENTITY removeTagButton.accesskey "O">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fontovi">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Fontovi i boje">
 <!ENTITY defaultFont.label       "Zadani font:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Veličina:">
 <!ENTITY defaultSize.accesskey   "l">
 <!ENTITY fontOptions.accesskey   "N">
 <!ENTITY fontOptions.label       "Napredno…">
+<!ENTITY colorButton.label       "Boje…">
+<!ENTITY colorButton.accesskey   "B">
