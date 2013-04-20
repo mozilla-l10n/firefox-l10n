@@ -280,6 +280,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "v">
 <!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Aktivizoje këtë shtojcë">
+<!ENTITY playPluginCmd.accesskey      "A">
+<!ENTITY hidePluginCmd.label          "Fshihe këtë shtojcë">
+<!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
@@ -429,20 +433,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "S">
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundmi…">
-<!ENTITY clearRecentHistory.accesskey           "H">
-
-
-<!ENTITY allTabs.filter.emptyText "Kërkoni te Skeda">
 
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Vetjak)">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Nis Shfletimin Vetjak">
-<!ENTITY privateBrowsingCmd.start.accesskey     "N">
-<!ENTITY privateBrowsingCmd.stop.label          "Ndale Shfletimin Vetjak">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "N">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
@@ -494,7 +490,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Skedash shfletuesi">
 
-<!ENTITY urlbar.placeholder           "Shko te një &quot;Site&quot; Web">
+<!ENTITY urlbar.placeholder2          "Kërkoni ose jepni një adresë">
 
 <!ENTITY viewBookmarksSidebar.label         "Shfaqe në Anështyllë">
 <!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
@@ -616,3 +612,6 @@ can reach it easily. -->
 
 <!ENTITY webrtcIndicatorButton.label "Hyrje në Kamera / Mikrofon">
 <!ENTITY webrtcIndicatorButton.tooltip "Shfaqni site-et me të cilët ndani kameran ose mikrofonin">
+
+<!ENTITY mixedContentBlocked.helplink "Mësoni më tepër">
+<!ENTITY mixedContentBlocked.moreinfo "Shumica e site-eve web prapë do të funksionojnë si duhet, edhe kur bllokohet kjo lëndë.">

@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Gjurmim">
 
-<!ENTITY doNotTrack.label               "Thuaju &quot;site&quot;-eve web që nuk dëshiroj të më gjurmojnë">
-<!ENTITY doNotTrack.accesskey           "T">
+<!ENTITY dntTrackingNopref.label        "Mos u trego site-ve ndonjë gjë rreth parapëlqimeve të mia lidhur me gjurmimet.">
+<!ENTITY dntTrackingNopref.accesskey    "M">
+<!ENTITY dntTrackingNotOkay.label       "Tregoju site-ve që nuk dua të gjurmohem.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tregoju site-ve që dua të gjurmohem.">
+<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY doNotTrackInfo.label           "Mësoni Më Tepër">
 
 <!ENTITY  history.label "Historik">
 

@@ -2,30 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY abouthealth.locale-direction "mnd">
-
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 <!ENTITY abouthealth.pagetitle "Raport Mbi Shëndetin e &brandShortName;-it">
-<!ENTITY abouthealth.header "Raport Mbi Shëndetin e &brandFullName;-it">
 
-<!ENTITY abouthealth.intro.title "Çfarë është Raporti Mbi Shëndetin e &brandShortName;-it?">
-
-<!ENTITY abouthealth.intro-enabled "&brandFullName;-i grumbullon disa të dhëna rreth kompjuterit tuaj dhe përdorimit të tij që të mund t'ju ofrohet një punim më i mirë i shfletuesit.">
-<!ENTITY abouthealth.intro-disabled "Nuk jeni duke i parashtruar të dhëna përdorimi &vendorShortName;-s. Duke klikuar mbi butonin &quot;&abouthealth.optin;&quot; mund të na ndihmoni ta bëjmë &brandShortName;-in më të mirë.">
-
-<!ENTITY abouthealth.optin "Ndihmonani ta bëjmë &brandShortName;-in më të mirë">
-<!ENTITY abouthealth.optout "Çaktivizojeni Raportimin">
-
-<!ENTITY abouthealth.optout.confirmationPrompt.title "Të reshtet parashtrimi i të dhënave?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Jeni i sigurt se doni zgjidhni mospjesëmarrjen dhe të fshini krejt të dhënat tuaja anonime mbi produktin të depozituara te shërbyesit e &vendorShortName;-as?">
-
-<!ENTITY abouthealth.show-raw-data "Shfaqi Hollësi">
-<!ENTITY abouthealth.hide-raw-data "Fshihi Hollësitë">
-
-<!ENTITY abouthealth.show-report "Shfaq Raport mbi &brandShortName;-in">
-
-<!ENTITY abouthealth.details.description-start "Këto janë të dhënat që &brandFullName;-i po parashtron që të funksionojë Raportimi Mbi Shëndetin e &brandShortName;-it.   Mundeni ">
-<!ENTITY abouthealth.details-link "të mësoni më tepër">
-<!ENTITY abouthealth.details.description-end " rreth çka grumbullojmë dhe parashtrohet.">
-<!ENTITY abouthealth.no-data-available "Nuk ka parashtrime të mëparshme për t&apos;u shfaqur. Ju lutemi, kontrolloni më vonë.">
