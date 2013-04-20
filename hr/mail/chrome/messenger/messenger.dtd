@@ -434,12 +434,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Otvori kao razgovor">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Otvori poruku iz kanala">
-<!ENTITY openFeedMessage.accesskey "l">
-<!ENTITY openFeedWebPageInWindow.label "Web stranica u novom prozoru">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Sažetak u novom prozoru">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "Prilikom otvaranja poruka iz kanala">
+<!ENTITY openFeedMessage1.accesskey "o">
+<!ENTITY openFeedWebPage.label "Otvori kao web stranicu">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Otvori kao sažetak">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Uključi / isključi web stranicu i sažetak u oknu poruke">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 
