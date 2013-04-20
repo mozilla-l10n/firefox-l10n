@@ -28,7 +28,6 @@
 <!ENTITY debuggerUI.searchGlobal.key "F">
 <!ENTITY debuggerUI.searchFunction "Поиск определения функции">
 <!ENTITY debuggerUI.searchFunction.key "D">
-<!ENTITY debuggerUI.searchFunction.altkey "O">
 <!ENTITY debuggerUI.searchToken "Найти">
 <!ENTITY debuggerUI.searchToken.key "F">
 <!ENTITY debuggerUI.searchLine "Перейти к строке…">
