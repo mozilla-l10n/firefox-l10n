@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
   -  heading of the group of two about:config preferences to toggle chrome
   -  and remote debugging in the options panel. -->
-<!ENTITY options.context.label         "Paramètres avancés (nécessitent un redémarrage du navigateur)">
+<!ENTITY options.context.label         "Paramètres avancés (redémarrage du navigateur requis)">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -37,7 +37,7 @@
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Outils développeurs installés via modules complémentaires">
+<!ENTITY options.selectAdditionalTools.label  "Outils installés via modules complémentaires">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
