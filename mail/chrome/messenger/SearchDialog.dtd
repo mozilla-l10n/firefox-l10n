@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "b">
 <!ENTITY searchDialogTitle.label     "Traži poruke">
 <!ENTITY results.label               "Rezultati">
-<!ENTITY fileHereMenu.label          "Pohrani ovdje">
-<!ENTITY fileHereMenu.accesskey      "h">
-<!ENTITY fileButton.label            "Datoteka">
-<!ENTITY fileButton.accesskey        "D">
+<!ENTITY moveHereMenu.label          "Premjesti ovdje">
+<!ENTITY moveHereMenu.accesskey      "d">
+<!ENTITY moveButton.label            "Premjesti u">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Otvori u mapi">
 <!ENTITY openInFolder.accesskey      "r">
