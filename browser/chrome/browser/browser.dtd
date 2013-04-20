@@ -197,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyHomeCmd.label "Hyrje">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Shkoni te një Site Web">
 <!ENTITY urlbar.accesskey             "S">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
