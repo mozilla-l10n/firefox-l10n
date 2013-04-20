@@ -4,3 +4,10 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Skedë e Re">
+<!ENTITY newtab.undo.removedLabel "U hoq miniatura.">
+<!ENTITY newtab.undo.undoButton "Zhbëje.">
+<!ENTITY newtab.undo.restoreButton "Riktheji Krejt.">
+<!ENTITY newtab.undo.closeTooltip "Fshihe">
+
+
+
