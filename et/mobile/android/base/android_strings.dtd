@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords     "Salvestatud paroolid">
 <!ENTITY pref_private_data_cache         "Vahemälu">
 <!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
-<!ENTITY pref_private_data_siteSettings  "Saitide sätted">
+<!ENTITY pref_private_data_siteSettings2 "Saidi sätted">
 <!ENTITY pref_private_data_downloadFiles "Allalaaditud failid">
 
 <!ENTITY pref_update_autodownload        "Automaatsed uuendused">
