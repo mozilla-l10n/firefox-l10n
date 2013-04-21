@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Ütle meile, mida arvad &brandShortName;ist Androidile.">
 <!ENTITY intro.happyLink           "See meeldib mulle väga">
 <!ENTITY intro.sadLink             "Kogesin mõningaid probleeme">
-<!ENTITY intro.ideaLink            "Mul on idee">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Meile meeldib kuulda sinu ideedest! Palun jaga oma mõtteid allpool. (Palume siiski piirduda nendega, mis on seotud &brandShortName;iga.)">
-<!ENTITY idea.placeholder          "Sisesta oma idee siia">
-<!ENTITY idea.thanksHeader         "Täname!">
-
-<!ENTITY idea.thanksMessageTop     "Me hindame kõrgelt aega, mille võtsid, et jagada meiega oma mõtteid. Me töötame alati selle nimel, et teha &brandShortName; paremaks ning kaastöö (nagu sinu mõtted) võib viia suurte asjadeni.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Sa ei näe seda, aga hetkel surume sul tänulikult kätt.">
 
 <!ENTITY feedback.privacy          "Privaatsuse säilitamiseks palume tagasisidesse identifitseerivat infot mitte lisada.">
 <!ENTITY feedback.send             "Saada tagasiside">
