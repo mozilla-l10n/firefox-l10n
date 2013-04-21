@@ -16,10 +16,10 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Ricerca messaggi">
 <!ENTITY results.label "Risultati">
-<!ENTITY fileHereMenu.label "Sposta qua">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY fileButton.label "Sposta in">
-<!ENTITY fileButton.accesskey "p">
+<!ENTITY moveHereMenu.label "Sposta qua">
+<!ENTITY moveHereMenu.accesskey "S">
+<!ENTITY moveButton.label "Sposta in">
+<!ENTITY moveButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "Apri in una cartella">
 <!ENTITY openInFolder.accesskey "l">
