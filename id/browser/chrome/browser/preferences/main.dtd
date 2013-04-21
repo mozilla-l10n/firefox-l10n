@@ -18,7 +18,7 @@
 <!ENTITY chooseBookmark.label      "Gunakan Markah…">
 <!ENTITY chooseBookmark.accesskey  "h">
 <!ENTITY restoreDefault.label      "Kembalikan ke Bawaan">
-<!ENTITY restoreDefault.accesskey  "D">
+<!ENTITY restoreDefault.accesskey  "w">
 
 <!ENTITY downloads.label     "Unduhan">
 
