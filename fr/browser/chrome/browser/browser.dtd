@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "Envoyer le fichier audio par courriel…">
 <!ENTITY emailAudioCmd.accesskey      "v">
 <!ENTITY playPluginCmd.label          "Activer ce plugin">
-<!ENTITY playPluginCmd.accesskey      "t">
+<!ENTITY playPluginCmd.accesskey      "v">
 <!ENTITY hidePluginCmd.label          "Masquer ce plugin">
 <!ENTITY hidePluginCmd.accesskey      "q">
 <!ENTITY copyLinkCmd.label            "Copier l'adresse du lien">
