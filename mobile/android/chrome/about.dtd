@@ -10,7 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
 <!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
 <!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
-<!ENTITY aboutPage.checkForUpdates.found "Aktualizace jsou dostupné">
+<!ENTITY aboutPage.checkForUpdates.available "Dostupná aktualizace: klepněte pro stahování">
+<!ENTITY aboutPage.checkForUpdates.downloading "Stahování aktualizace…">
+<!ENTITY aboutPage.checkForUpdates.downloaded "Aktualizace stažena; klepněte pro instalaci">
 <!ENTITY aboutPage.faq.label "Časté otázky">
 <!ENTITY aboutPage.support.label "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label "Zásady ochrany soukromí">
