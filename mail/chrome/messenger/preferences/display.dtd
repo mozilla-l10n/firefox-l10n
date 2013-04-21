@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                 "tavaline">
 <!ENTITY bigger.label                      "suurem">
 <!ENTITY smaller.label                     "väiksem">
-<!ENTITY color.label                       "Värv:">
-<!ENTITY color.accesskey                   "V">
+<!ENTITY quotedTextColor.label             "Värv:">
+<!ENTITY quotedTextColor.accesskey         "V">
 <!ENTITY displayWidth.label                "Lihttekstis kirjad">
 <!ENTITY displayText.label                 "Tsiteeritud lihttekstiga kirjade kuvamine:">
-<!ENTITY colors.label                      "Värvid">
-<!ENTITY overrideColors.label              "Kirjade kuvamisel kasutatakse järgnevaid värve:">
-<!ENTITY textColor.label                   "Teksti värv:">
-<!ENTITY textColor.accesskey               "s">
-<!ENTITY backgroundColor.label             "Tausta värv:">
-<!ENTITY backgroundColor.accesskey         "u">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label            "Emotikonide graafiline esitamine">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label             "Kustuta">
 <!ENTITY removeTagButton.accesskey         "K">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label              "Fondid">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label             "Fondid ja värvid">
 <!ENTITY defaultFont.label                 "Vaikimisi font:">
 <!ENTITY defaultFont.accesskey             "V">
 <!ENTITY defaultSize.label                 "Suurus:">
 <!ENTITY defaultSize.accesskey             "S">
 <!ENTITY fontOptions.accesskey             "F">
 <!ENTITY fontOptions.label                 "Fondid...">
+<!ENTITY colorButton.label                 "Värvid…">
+<!ENTITY colorButton.accesskey             "r">

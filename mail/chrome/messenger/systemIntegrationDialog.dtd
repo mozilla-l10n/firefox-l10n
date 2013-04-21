@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title     "Süsteemi integratsioon">
 <!ENTITY acceptIntegration.label     "Määra vaikekliendiks">
 <!ENTITY cancelIntegration.label     "Jäta vahele">
+<!ENTITY cancelIntegration2.label    "Loobu">
 <!ENTITY defaultClient.intro         "&brandShortName;i kasutatakse vaikimisi rakendusena:">
 
 <!ENTITY email.label                 "E-postile">

@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey     "K">
 <!ENTITY searchDialogTitle.label    "Kirjade otsimine">
 <!ENTITY results.label              "Tulemused">
-<!ENTITY fileHereMenu.label         "Salvesta siia">
-<!ENTITY fileHereMenu.accesskey     "S">
-<!ENTITY fileButton.label           "Fail">
-<!ENTITY fileButton.accesskey       "i">
+<!ENTITY moveHereMenu.label         "Liiguta siia">
+<!ENTITY moveHereMenu.accesskey     "s">
+<!ENTITY moveButton.label           "Liiguta">
+<!ENTITY moveButton.accesskey       "i">
 <!ENTITY closeCmd.key               "W">
 <!ENTITY openInFolder.label         "Ava kaustas">
 <!ENTITY openInFolder.accesskey     "v">

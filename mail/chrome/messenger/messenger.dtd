@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label                     "Ava vestlusena">
 <!ENTITY openConversationCmd.accesskey                 "n">
 <!ENTITY openConversationCmd.key                       "o">
-<!ENTITY openFeedMessage.label                         "Ava uudistevoo sõnum">
-<!ENTITY openFeedMessage.accesskey                     "v">
-<!ENTITY openFeedWebPageInWindow.label                 "Veebileht uues aknas">
-<!ENTITY openFeedWebPageInWindow.accesskey             "e">
-<!ENTITY openFeedSummaryInWindow.label                 "Kokkuvõte uues aknas">
-<!ENTITY openFeedSummaryInWindow.accesskey             "t">
+<!ENTITY openFeedMessage1.label                        "Uudistevoo sõnum avamisel">
+<!ENTITY openFeedMessage1.accesskey                    "v">
+<!ENTITY openFeedWebPage.label                         "avatakse veebilehena">
+<!ENTITY openFeedWebPage.accesskey                     "e">
+<!ENTITY openFeedSummary.label                         "avatakse kokkuvõte">
+<!ENTITY openFeedSummary.accesskey                     "t">
 <!ENTITY openFeedWebPageInMP.label                     "Vaheta veebilehe ja kokkuvõtte vahel kirja teksti paneelis">
 <!ENTITY openFeedWebPageInMP.accesskey                 "h">
 

@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label       "Kohanda...">
 <!ENTITY customizeMailAlert.accesskey   "K">
 
+<!ENTITY showTrayIcon.label             "Kuvatakse süsteemisalve ikooni">
+<!ENTITY showTrayIcon.accesskey         "v">
+
 <!ENTITY play.label                     "Esita">
 <!ENTITY play.accesskey                 "E">
 <!ENTITY systemsound.label              "vaikimisi uue kirja heli">
