@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Integrazione col sistema">
 <!ENTITY acceptIntegration.label "Imposta come predefinito">
 <!ENTITY cancelIntegration.label "Salta integrazione">
+<!ENTITY cancelIntegration2.label "Annulla">
 <!ENTITY defaultClient.intro "Utilizza &brandShortName; come programma predefinito per:">
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Gruppi di discussione">

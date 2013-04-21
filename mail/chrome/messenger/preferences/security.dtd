@@ -38,7 +38,7 @@
 <!ENTITY antiVirus.intro "&brandShortName; è in grado di semplificare il lavoro del software antivirus, permettendo l'analisi della posta in arrivo prima che venga salvata localmente.">
 <!ENTITY antiVirus.label "Consenti al programma antivirus di mettere in quarantena i singoli messaggi in arrivo.">
 <!ENTITY antiVirus.accesskey "n">
-<!ENTITY cookies.intro "È possibile stabilire quali blog, feed di news e siti web possono impostare cookie.">
+<!ENTITY cookies.intro "&brandShortName; permette di sceglere quali blog, feed di news e siti web possono impostare cookie.">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY keepUntil.label "Conservali fino:">
