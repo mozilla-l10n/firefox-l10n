@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Arrunta">
 <!ENTITY bigger.label                     "Handiagoa">
 <!ENTITY smaller.label                    "Txikiagoa">
-<!ENTITY color.label                      "Kolorea:">
-<!ENTITY color.accesskey                  "K">
+<!ENTITY quotedTextColor.label            "Kolorea:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Testu-arrunteko mezuak">
 <!ENTITY displayText.label                "Zitatutako testu-arrunteko mezuak bistaratzean:">
-<!ENTITY colors.label                     "Koloreak">
-<!ENTITY overrideColors.label             "Erabili ondorengo koloreak mezuak bistaratzean:">
-<!ENTITY textColor.label                  "Testuaren kolorea:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "Atzeko planoko kolorea:">
-<!ENTITY backgroundColor.accesskey        "A">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!ENTITY convertEmoticons.label        "Bistaratu aurpegierak eta grafikoak">
@@ -39,12 +33,14 @@
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Ezabatu">
 <!ENTITY removeTagButton.accesskey "z">
-<!-- Fonts -->
+<!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors.label    "Letra-tipoak">
+<!ENTITY fontsAndColors1.label   "Letra-tipoak eta koloreak">
 <!ENTITY defaultFont.label       "Lehenetsitako letra-tipoa:">
 <!ENTITY defaultFont.accesskey   "L">
 <!ENTITY defaultSize.label       "Tamaina:">
 <!ENTITY defaultSize.accesskey   "T">
 <!ENTITY fontOptions.accesskey   "L">
 <!ENTITY fontOptions.label       "Letra-tipoak…">
+<!ENTITY colorButton.label       "Koloreak…">
+<!ENTITY colorButton.accesskey   "K">

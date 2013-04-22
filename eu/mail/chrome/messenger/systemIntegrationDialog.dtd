@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Sistemaren integrazioa">
 <!ENTITY acceptIntegration.label  "Ezarri lehenetsi gisa">
 <!ENTITY cancelIntegration.label  "Saltatu integrazioa">
+<!ENTITY cancelIntegration2.label  "Utzi">
 <!ENTITY defaultClient.intro  "Erabili &brandShortName; lehenetsitako bezero gisa honentzat:">
 
 <!ENTITY email.label "E-posta">
