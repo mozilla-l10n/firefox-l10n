@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
 <!ENTITY openConversationCmd.accesskey "h">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
-<!ENTITY openFeedMessage.accesskey "ö">
-<!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Zusammenfassung in neuem Fenster">
-<!ENTITY openFeedSummaryInWindow.accesskey "Z">
+<!ENTITY openFeedMessage1.label "Beim Öffnen eines Feed-Artikels">
+<!ENTITY openFeedMessage1.accesskey "d">
+<!ENTITY openFeedWebPage.label "Als Webseite anzeigen">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Als Zusammenfassung anzeigen">
+<!ENTITY openFeedSummary.accesskey "Z">
 <!ENTITY openFeedWebPageInMP.label "Umschalten Webseite/Zusammenfassung im Nachrichtenbereich">
 <!ENTITY openFeedWebPageInMP.accesskey "U">
 
