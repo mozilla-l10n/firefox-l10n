@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "Malantaŭen">
 <!ENTITY backCmd.accesskey            "M">
-<!ENTITY backButton.tooltip           "Unu paĝo malantauen">
+<!ENTITY backButton.tooltip           "Unu paĝo malantaŭen">
 <!ENTITY forwardCmd.label             "Antaŭen">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Unu paĝo antaŭen">
