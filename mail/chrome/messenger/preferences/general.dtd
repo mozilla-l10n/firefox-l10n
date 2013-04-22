@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Pertsonalizatu…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
+<!ENTITY showTrayIcon.label               "Erakutsi erretiluko ikonoa">
+<!ENTITY showTrayIcon.accesskey           "r">
+
 <!ENTITY play.label                       "Erreproduzitu">
 <!ENTITY play.accesskey                   "p">
 <!ENTITY systemsound.label                "Lehenetsitako sistema-soinua posta berriarentzat">

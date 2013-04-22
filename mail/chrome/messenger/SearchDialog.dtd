@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "E">
 <!ENTITY searchDialogTitle.label     "Bilatu mezuak">
 <!ENTITY results.label               "Emaitzak">
-<!ENTITY fileHereMenu.label          "Gorde hemen">
-<!ENTITY fileHereMenu.accesskey      "r">
-<!ENTITY fileButton.label            "Fitxategia">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveHereMenu.label          "Ekarri hona">
+<!ENTITY moveHereMenu.accesskey      "k">
+<!ENTITY moveButton.label            "Eraman hona">
+<!ENTITY moveButton.accesskey        "h">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Ireki karpetan">
 <!ENTITY openInFolder.accesskey      "r">
