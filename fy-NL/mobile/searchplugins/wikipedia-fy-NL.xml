@@ -10,9 +10,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://fy.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://fy.wikipedia.org/wiki/Special:Search">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://fy.wikipedia.org/wiki/Wiki:Search</SearchForm>
+<SearchForm>http://fy.wikipedia.org/wiki/Wiki:Sykje</SearchForm>
 </SearchPlugin>
