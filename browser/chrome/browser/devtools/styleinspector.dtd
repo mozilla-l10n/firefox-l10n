@@ -27,16 +27,10 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Geen CSS-eigenschappen gevonden.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "Niet-overeenkomende selectoren">
-
-<!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
-  -  style property the panel shows the rules which hold that specific property.
-  -  For every rule, the rule status is also displayed: a rule can be the best
-  -  match, a match, a parent match, or a rule did not match the element the
-  -  user has highlighted. -->
+<!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch): For each style
+  -  property the panel shows the rules containing that property. For every
+  -  rule, the rule status is also displayed: a rule can be the best match, a
+  -  match or a parent match. -->
 <!ENTITY bestMatch             "Beste overeenkomst">
 <!ENTITY matched               "Overeenkomend">
 <!ENTITY parentMatch           "Parent-overeenkomst">
