@@ -10,8 +10,11 @@
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
 
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
+  -  that specifies whether the styles that are not from the user's stylesheet
+  -  should be displayed or not. -->
+<!ENTITY browserStylesLabel    "Browser styles">
 
-<!ENTITY userStylesLabel    "පරිශීලක රටා පමණි">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
@@ -30,17 +33,12 @@
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
 
-<!ENTITY unmatchedSelectors    "නොගැලපුණු තේරීම්">
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
 
-<!ENTITY bestMatch             "සුදුසුම ගැලපුම">
-<!ENTITY matched               "ගැලපුණු">
-<!ENTITY parentMatch           "මව් ගැලපුම">
-<!ENTITY unmatched             "නොගැලපුණු">
 <!-- FIXME: notes -->
 
 <!ENTITY computedViewTitle     "ගණනය කළ">
