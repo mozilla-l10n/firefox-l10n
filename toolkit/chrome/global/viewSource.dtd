@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Mesa en pagina...">
 <!ENTITY pageSetupCmd.accesskey "M">
-<!ENTITY printPreviewCmd.label "Apercebut abans estampatge">
+<!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Estampar...">
 <!ENTITY printCmd.accesskey "p">

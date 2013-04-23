@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "Restablir &brandShortName; dins son estat inicial">
 <!ENTITY resetProfile.description         "S'avètz de problèmas màgers qu'arribatz pas a resòlvre, aviatz amb un perfil tot nòu que compòrte pas que vòstras informacions essencialas.">
-<!ENTITY resetProfile.button.label        "Reïnicializar &brandShortName;">
+<!ENTITY resetProfile.button.label2       "Reïnicializar &brandShortName;...">
 
 <!ENTITY resetProfile.cleaning.description "Pacientatz pendent que &brandShortName; neteja vòstras ancianas donadas…">

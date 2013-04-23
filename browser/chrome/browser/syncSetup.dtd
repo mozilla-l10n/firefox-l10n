@@ -66,7 +66,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Picatz lo còde provesit per l'aparelh :">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ensajatz tornarmai.">
 <!ENTITY addDevice.dialog.successful.label  "L'aparelh es estat apondut. La primièra sincronizacion pòt prene mantuna minuta e s'acabarà en rèire plan.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Per activar aqueste aparelh, vos caldrà picar vòstra clau de recuperacion. Estampatz-lo o enregistratz-lo per l'aver a portada de man.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Per activar aqueste aparelh, vos caldrà picar vòstra clau de recuperacion. Imprimissètz-lo o enregistratz-lo per l'aver a portada de man.">
 <!ENTITY addDevice.dialog.connected.label   "Aparelh connectat">
 <!-- Existing Account Page 2: Manual Login -->
 

@@ -22,8 +22,8 @@
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Acuèlh">
 <!ENTITY homeButton.tooltip             "Anar a la pagina d'acuèlh de l'ajuda">
-<!ENTITY printButton.label              "Estampar">
-<!ENTITY printButton.tooltip            "Estampar la pagina">
+<!ENTITY printButton.label              "Imprimir">
+<!ENTITY printButton.tooltip            "Imprimir aquesta pagina">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Recercar">

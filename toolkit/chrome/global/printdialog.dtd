@@ -4,18 +4,18 @@
 <!-- extracted from printdialog.xul -->
 
 
-<!ENTITY printButton.label "Estampar">
+<!ENTITY printButton.label "Imprimir">
 
-<!ENTITY printDialog.title "Estampar">
+<!ENTITY printDialog.title "Impression">
 
 <!ENTITY fpDialog.title "Enregistrar lo fichièr">
 
-<!ENTITY fileCheck.label "Estampar dins un fichièr">
+<!ENTITY fileCheck.label "Imprimir dins un fichièr">
 <!ENTITY fileCheck.accesskey "f">
 <!ENTITY propertiesButton.label "Proprietats…">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Descripcion de l'estampaira :">
-<!ENTITY printer.label "Estampaira">
+<!ENTITY printer.label "Imprimenta">
 <!ENTITY printerInput.label "Nom de l'estampaira :">
 <!ENTITY printerInput.accesskey "N">
 
@@ -35,7 +35,7 @@
 <!ENTITY numCopies.label "Nombre de còpias :">
 <!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "Estampar los quadres">
+<!ENTITY printframeGroup.label "Imprimir los quadres">
 <!ENTITY aslaidoutRadio.label "Tals coma son a l'ecran">
 <!ENTITY aslaidoutRadio.accesskey "l">
 <!ENTITY selectedframeRadio.label  "Lo quadre seleccionat">
