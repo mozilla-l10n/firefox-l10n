@@ -49,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "Logga CSS-varningar">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Logga JavaScript-undantag">
+<!ENTITY btnPageSecurity.label "Säkerhet">
+<!ENTITY btnPageSecurity.tooltip "Logga säkerhetsfel och varningar">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
