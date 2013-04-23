@@ -61,6 +61,8 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">
 
-<!ENTITY dialog.width                 "38em">
-<!ENTITY column.width                 "18em">
+
+<!ENTITY dialog.width2                 "38em">
+<!ENTITY column.width2                 "18em">
+
 
