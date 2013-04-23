@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
   -  heading of the group of two about:config preferences to toggle chrome
   -  and remote debugging in the options panel. -->
-<!ENTITY options.context.label         "Paramètres avancés (redémarrage du navigateur requis)">
+<!ENTITY options.context.label         "Paramètres avancés (redémarrage navigateur requis)">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
