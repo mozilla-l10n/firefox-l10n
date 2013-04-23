@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Buitenste HTML kopiëren">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "u">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Unique Selector kopiëren">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
 <!ENTITY inspectorHTMLDelete.label          "Node verwijderen">
 <!ENTITY inspectorHTMLDelete.accesskey      "v">
 
 <!ENTITY inspector.selectButton.tooltip     "Element met muis selecteren">
+
+<!ENTITY inspectorSearchHTML.label          "HTML doorzoeken">
+<!ENTITY inspectorSearchHTML.key            "H">
