@@ -182,6 +182,7 @@ size. -->
 <!ENTITY reading_list_added "已將頁面加入至閱讀清單">
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
+<!ENTITY reading_list_duplicate "頁面已存在於您的閱讀清單中">
 <!ENTITY reader "閱讀器">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
@@ -205,7 +206,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "編輯">
 <!ENTITY abouthome_topsites_pin "釘選網站">
 <!ENTITY abouthome_topsites_unpin "解除釘選網站">
-<!ENTITY abouthome_topsites_remove "移除">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that

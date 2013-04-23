@@ -12,7 +12,7 @@
 <!ENTITY FormAction.accesskey "A">
 <!ENTITY FormMethod.label "傳送方式(Method):">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "語言編碼方式(Encoding):">
+<!ENTITY FormEncType.label "編碼:">
 <!ENTITY FormEncType.accesskey "c">
 <!ENTITY FormTarget.label "目的頁框:">
 <!ENTITY FormTarget.accesskey "T">
