@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Un plugin es necessari per afichar aqueste contengut.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tocar aicí per activar lo plugin.">
-<!ENTITY clickToPlayPlugin                                   "Clicar aicí per activar lo plugin.">
+<!ENTITY clickToActivatePlugin                               "Activar lo plugin.">
 <!ENTITY checkForUpdates                                     "Verificar se i a de mesas a jorn...">
 <!ENTITY disabledPlugin                                      "Aqueste plugin es desactivat.">
 <!ENTITY blockedPlugin.label                                 "Aqueste modul complementari es estat blocat per vòstra seguretat.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Rapòrt de plantatge desactivat.">
 <!ENTITY report.failed                                       "Fracàs del mandadís.">
 <!ENTITY report.unavailable                                  "Pas cap de rapòrt disponible.">
+<!ENTITY report.comment                                      "Apondre un comentari (los comentaris son visibles publicament)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "Fichièr">
 <!ENTITY plugin.mimeTypes                                    "Tipe MIME">

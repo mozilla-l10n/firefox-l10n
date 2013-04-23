@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins l'escondedor del navigador.</p> <ul> <li>Per de rasons de seguretat, lo navigador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
-<!ENTITY netOffline.longDesc2 "<p>Lo navigador es en mòde fòra connexion e se pòt pas connectar a l'adreça indicada.</p><ul><li>L'ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Lo navigador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque utiliza un tipe de compression invalid o pas pres en carga. </p><ul><li>Contactatz lo webmèstre del site Web per l'assabentar d'aqueste problèma.</li></ul>">

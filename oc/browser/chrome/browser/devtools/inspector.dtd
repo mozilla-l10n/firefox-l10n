@@ -4,7 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copiar outerHTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Copiar lo selector unic">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "r">
+
 <!ENTITY inspectorHTMLDelete.label          "Suprimir lo nosèl">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
 <!ENTITY inspector.selectButton.tooltip     "Seleccionar l'element amb la mirga">
+
+<!ENTITY inspectorSearchHTML.label          "Recercar dins lo HTML">
+<!ENTITY inspectorSearchHTML.key            "F">

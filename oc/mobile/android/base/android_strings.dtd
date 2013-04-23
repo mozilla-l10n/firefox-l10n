@@ -6,18 +6,18 @@
 <!ENTITY  splash_settingup "Configuracion de &brandShortName;">
 <!ENTITY  splash_bookmarks_history "Mesa a jorn de vòstres marcapaginas e de vòstre istoric. Aquò pòt prene una o doas minutas.">
 
-<!ENTITY  no_space_to_start_error "I a pas pro d\'espaci disponible per permetre a &brandShortName; de s\'aviar.">
-<!ENTITY  error_loading_file "Una error s\'es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
+<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\u0027aviar.">
+<!ENTITY  error_loading_file "Una error s\u0027es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Sites favorits">
 <!ENTITY  awesomebar_bookmarks_title "Marcapaginas">
 <!ENTITY  awesomebar_history_title "Istoric">
 
 <!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\'aviada de &brandShortName; a son aviada que ven.">
+<!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
 <!ENTITY  crash_help_message "Ajudatz-nos a corregir aqueste problèma !">
 <!ENTITY  crash_send_report_message "Mandar un rapòrt de plantatge a Mozilla">
-<!ENTITY  crash_include_url "Inclure l\'adreça de la pagina">
+<!ENTITY  crash_include_url "Inclure l\u0027adreça de la pagina">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
@@ -25,7 +25,7 @@
 <!ENTITY  continue_label "Contunhar">
 
 <!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Cap d\'aplicacion Web pas trobada">
+<!ENTITY  launcher_shortcuts_empty "Cap d\u0027aplicacion Web pas trobada">
 
 <!ENTITY choose_file "Causir un fichièr">
 
@@ -53,7 +53,7 @@
 <!ENTITY stop "Arrestar">
 <!ENTITY site_security "Seguretat del site">
 
-<!ENTITY close_tab "Tampar l\'onglet">
+<!ENTITY close_tab "Tampar l\u0027onglet">
 <!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -115,6 +115,7 @@ size. -->
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings "Preferéncias del site">
+<!ENTITY pref_private_data_downloadFiles "Fichièrs telecargats">
 
 <!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
 <!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
@@ -129,7 +130,7 @@ size. -->
 <!ENTITY char_encoding "Encodatge de caractèr">
 
 <!ENTITY share "Partejar">
-<!ENTITY share_title "Partejar amb l\'ajuda de">
+<!ENTITY share_title "Partejar amb l\u0027ajuda de">
 <!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
 <!ENTITY save_as_pdf "Enregistrar en PDF">
 <!ENTITY find_in_page "Recercar dins la pagina">
@@ -157,11 +158,11 @@ size. -->
 <!ENTITY contextmenu_open_in_reader "Dobrir dins lo lector">
 <!ENTITY contextmenu_remove_history "Suprimir">
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
-<!ENTITY contextmenu_add_to_launcher "Apondre a l\'ecran d\'acuèlh">
+<!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
 <!ENTITY contextmenu_share "Partejar">
 <!ENTITY contextmenu_pasteandgo "Pegar &amp; dobrir">
 <!ENTITY contextmenu_paste "Empegar">
-<!ENTITY contextmenu_copyurl "Copiar l\'adreça">
+<!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 
 <!ENTITY history_removed "Pagina suprimida">
@@ -174,12 +175,12 @@ size. -->
 <!ENTITY site_settings_title2       "Paramètres de site…">
 <!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
-<!ENTITY site_settings_no_settings  "I a pas de paramètre d\'escafar.">
+<!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
 
 <!ENTITY reading_list "Lista de lectura">
 <!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
-<!ENTITY reading_list_failed "Impossible d\'apondre la pagina a vòstra lista de lectura">
+<!ENTITY reading_list_failed "Impossible d\u0027apondre la pagina a vòstra lista de lectura">
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear un senhal principal">
@@ -187,7 +188,7 @@ size. -->
 <!ENTITY masterpassword_password "Senhal">
 <!ENTITY masterpassword_confirm "Confirmar lo senhal :">
 
-<!ENTITY button_ok "D\'acòrdi">
+<!ENTITY button_ok "D\u0027acòrdi">
 <!ENTITY button_cancel "Anullar">
 <!ENTITY button_yes "Òc">
 <!ENTITY button_no "Non">
@@ -203,14 +204,15 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Modificar">
 <!ENTITY abouthome_topsites_pin "Espingolar lo site">
 <!ENTITY abouthome_topsites_unpin "Daissar anar lo site">
-<!ENTITY abouthome_topsites_unpinall "Daissar anar totes los sites">
+<!ENTITY abouthome_topsites_remove "Suprimir">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Parametrar Firefox Sync per accedir als marcapaginas, a l\'istoric e als onglets de vòstres autres aparelhs&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Obténer d\'aplicacions sul Mozilla Marketplace e descobrir lo melhor de çò que le Web a d\'ofrir&#x00A0;»">
+
+<!ENTITY abouthome_about_sync3 "Parametrar Firefox Sync per accedir als marcapaginas, a l\u0027istoric e als onglets de vòstres autres aparelhs&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Obténer d\u0027aplicacions sul Mozilla Marketplace e descobrir lo melhor de çò que le Web a d\u0027ofrir&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -220,7 +222,7 @@ size. -->
 
 <!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
-<!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\'ecran">
+<!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\u0027ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
 <!-- Site identity popup -->
 
@@ -236,17 +238,17 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "que lo detentor n\'es">
+<!ENTITY identity_run_by "que lo detentor n\u0027es">
 
 <!ENTITY private_data_success "Donadas personalas escafadas">
-<!ENTITY private_data_fail "D\'unas donadas personalas pòdon pas èsser escafadas">
+<!ENTITY private_data_fail "D\u0027unas donadas personalas pòdon pas èsser escafadas">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de 
-l\'istoric dempuèi Android">
+l\u0027istoric dempuèi Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas 
 dempuèi Android">
-<!ENTITY bookmarkhistory_import_history "Importacion de l\'istoric 
+<!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric 
 dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be

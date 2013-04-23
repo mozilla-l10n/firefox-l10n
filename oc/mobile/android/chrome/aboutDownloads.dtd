@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Telecargaments">
 <!ENTITY aboutDownloads.header                     "Vòstres telecargaments">
 <!ENTITY aboutDownloads.empty                      "Pas cap de telecargament">
+
+<!ENTITY aboutDownloads.open                       "Dobrir">
+<!ENTITY aboutDownloads.remove                     "Suprimir">
+<!ENTITY aboutDownloads.removeAll                  "Suprimir tot">
+<!ENTITY aboutDownloads.pause                      "Pausa">
+<!ENTITY aboutDownloads.resume                     "Tornar prene">
+<!ENTITY aboutDownloads.cancel                     "Anullar">
+<!ENTITY aboutDownloads.retry                      "Tornar ensajar">
