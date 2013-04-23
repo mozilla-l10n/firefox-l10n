@@ -50,11 +50,13 @@
 <!ENTITY pref_category_general "Основные">
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
-<!ENTITY pref_category_importexport "Импорт и экспорт">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_header_general "Основные">
+<!ENTITY pref_header_privacy "Приватность и защита">
+<!ENTITY pref_header_content "Содержимое">
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">

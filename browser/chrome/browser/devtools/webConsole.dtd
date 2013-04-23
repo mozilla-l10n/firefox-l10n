@@ -29,6 +29,8 @@
 <!ENTITY btnPageCSS.tooltip "Вести лог ошибок парсинга CSS">
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Вести лог исключений JavaScript">
+<!ENTITY btnPageSecurity.label "Защита">
+<!ENTITY btnPageSecurity.tooltip "Вести лог ошибок и предупреждений защиты">
 <!ENTITY btnPageLogging.label "Журнал">
 <!ENTITY btnPageLogging.tooltip "Сообщения лога отправленные в объект window.console">
 <!ENTITY btnConsoleErrors "Ошибки">
