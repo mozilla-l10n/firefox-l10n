@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "වෙබ් වංචාවක් ලෙස සැක කරයි">
-
-<!ENTITY safeb.palm.message.p1 "මෙම පිටුව පරිශීලකයින්ගේ පෞද්ගලික තොරතුරු හෝ මූල්‍ය තොරතුරු අනාවරණය කරගැනීමට ඔබව ප්‍රයෝගකට හසුකර ගැනීම උත්සාහ කරන අඩවියක් ලෙසට වාර්තාවී ඇත. මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "තවදුරටත් කියවීමට &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "තවදුරටත් කියවීමට &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "මෙවැනි ව්‍යාජ වෙබ් phishing ආක්‍රමණ ලෙස හදුන්වන වංචාවන් තුළ ඇත, එම ව්‍යාජ වෙබ් පිටු විද්‍යුත් තැපැල් තුළ ඔබ විශ්වාස කරන මූලයක් අනුකරණය කිරීම මඟින්  තොරතුරු අනාවරණය කරගනී. ඔබට වැඩි දුරටත්  ">
-<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; ඔබව phishing ආක්‍රමණයන්ගෙන් ආරක්‍ෂා කරන්නේ කෙසේද">
-<!ENTITY safeb.palm.message.p2.end " යන්න සොයා බැලිය හැක.">
-
 <!ENTITY safeb.palm.accept.label "මා මෙතනින් ඉවත් කරන්න!">
-<!ENTITY safeb.palm.accept.statustext "මගේ නිවාස පිටුවට සංචාලනය කරන්න">
 <!ENTITY safeb.palm.decline.label "මෙම අවවාදය නොසළකන්න">
-<!ENTITY safeb.palm.decline.statustext "අවවාදය වසන්න" >
 <!ENTITY safeb.palm.notforgery.label2 "මෙය ව්‍යාජ වෙබ් අඩවියක් නොවේ…">
 <!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
 

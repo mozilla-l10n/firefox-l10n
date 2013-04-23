@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Load Images">
 <!ENTITY  permPopup             "පැන-නඟින කවුළු විවෘත කරන්න">
 <!ENTITY  permCookie            "කුකීස් සකසන්න">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Install Extensions or Themes">
 <!ENTITY  permGeo               "Share Location">
 <!ENTITY  permPlugins           "Activate Plugins">
 <!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "අසම්බන්ධිත සංචිතය (Offline Storage) නඩත්තු කරන්න">
 <!ENTITY  permClearStorage           "Clear Storage">
