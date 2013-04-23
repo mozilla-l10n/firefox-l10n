@@ -65,11 +65,15 @@
 <!ENTITY pref_category_general "Allmänt">
 <!ENTITY pref_category_privacy "Sekretess och säkerhet">
 <!ENTITY pref_category_content "Innehåll">
-<!ENTITY pref_category_importexport "Importera och exportera">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Allmänt">
+<!ENTITY pref_header_privacy "Sekretess och säkerhet">
+<!ENTITY pref_header_content "Innehåll">
 
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverade">
