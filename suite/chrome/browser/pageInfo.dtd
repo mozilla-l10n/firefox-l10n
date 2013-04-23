@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "參考網址:">
 <!ENTITY  generalSource         "來源:">
 <!ENTITY  generalModified       "最後修改:">
-<!ENTITY  generalEncoding       "語系編碼方式:">
+<!ENTITY  generalEncoding       "編碼:">
 <!ENTITY  generalMetaName       "名稱">
 <!ENTITY  generalMetaContent    "內容">
 <!ENTITY  generalSecurityDetails           "詳細資訊">
@@ -42,7 +42,7 @@
 <!ENTITY  formAction            "表單動作">
 <!ENTITY  formMethod            "傳送編碼">
 <!ENTITY  formName              "名稱">
-<!ENTITY  formEncoding          "語系編碼方式:">
+<!ENTITY  formEncoding          "編碼:">
 <!ENTITY  formTarget            "目標:">
 <!ENTITY  formFields            "欄位:">
 <!ENTITY  formLabel             "標籤">
