@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Elekti ĉion">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "E"> 
-<!ENTITY preferencesCmd2.label       "Opcioj">
+<!ENTITY preferencesCmd2.label       "Elektebloj">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
@@ -558,7 +558,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Modifi la preferojn de la blokilo de ŝprucfenestroj…">
-<!ENTITY editPopupSettings.label "Modifi la opciojn de la blokilo de ŝprucfenestroj…">
+<!ENTITY editPopupSettings.label "Modifi la elekteblojn de la blokilo de ŝprucfenestroj…">
 <!ENTITY editPopupSettings.accesskey "M">
 <!ENTITY dontShowMessage.accesskey "N">
 
