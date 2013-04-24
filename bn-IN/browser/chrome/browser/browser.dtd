@@ -720,10 +720,10 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "বিন্যাস সম্পাদনা">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
+<!--ENTITY styleeditor.label            "বিন্যাস সম্পাদনা"-->
+<!--ENTITY styleeditor.accesskey        "y"-->
+<!--ENTITY styleeditor.keycode          "VK_F7"-->
+<!--ENTITY styleeditor.keytext          "F7"-->
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -767,7 +767,7 @@ can reach it easily. -->
 <!ENTITY tabsToolbar.label "ব্রাইজারের ট্যাব">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "অন্যান্য কম্পিউটারে উপস্থিত ট্যাব">
+<!--ENTITY syncTabsMenu.label     "অন্যান্য কম্পিউটারে উপস্থিত ট্যাব"-->
 
 <!ENTITY syncBrand.shortName.label    "সুসংগতি">
 
