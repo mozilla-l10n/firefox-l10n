@@ -14,15 +14,18 @@
 <!ENTITY  awesomebar_history_title "Historik">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
-<!ENTITY  crash_message "&brandShortName; har kraschat. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
-<!ENTITY  crash_help_message "Hjälp oss att lösa problemet!">
-<!ENTITY  crash_send_report_message "Skicka en kraschrapport till Mozilla">
-<!ENTITY  crash_include_url "Inkludera sidans adress">
+<!ENTITY  crash_message2 "&brandShortName; hade ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
+<!ENTITY  crash_send_report_message2 "Meddela Mozilla om den här kraschen så de kan fixa den">
+<!ENTITY  crash_include_url2 "Inkludera adressen till sidan jag var på">
+<!ENTITY  crash_sorry "Vi är ledsna">
+<!ENTITY  crash_comment "Lägg till en kommentar (kommentarer är synliga för alla)">
+<!ENTITY  crash_allow_contact "Tillåt att Mozilla kontaktar mig om den här rapporten">
+<!ENTITY  crash_email "Din e-postadress">
+<!ENTITY  crash_closing_alert "Avsluta utan att skicka någon kraschrapport?">
+<!ENTITY  sending_crash_report "Skickar kraschrapport…">
 <!ENTITY  crash_close_label "Stäng">
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
-<!ENTITY  sending_crash_report "Skickar kraschrapport…">
 <!ENTITY  exit_label "Avsluta">
-<!ENTITY  continue_label "Fortsätt">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; webbappar">
 <!ENTITY  launcher_shortcuts_empty "Hittade inga webbappar">
