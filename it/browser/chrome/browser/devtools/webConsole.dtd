@@ -29,6 +29,8 @@
 <!ENTITY btnPageCSS.tooltip "Registra errori nell'analisi CSS">
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Registra le eccezioni JavaScript">
+<!ENTITY btnPageSecurity.label "Sicurezza">
+<!ENTITY btnPageSecurity.tooltip "Registra errori e avvisi di sicurezza">
 <!ENTITY btnPageLogging.label "Registrazione">
 <!ENTITY btnPageLogging.tooltip "Registra i messaggi inviati all'oggetto window.console">
 <!ENTITY btnConsoleErrors "Errori">
