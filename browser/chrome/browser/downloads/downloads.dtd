@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (indicator.tooltiptext):
      Tooltip for the indicator that displays the progress of ongoing downloads.
      -->
-<!ENTITY indicator.tooltiptext            "ডাউনলোড">
+<!--ENTITY indicator.tooltiptext            "ডাউনলোড"-->
 
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
@@ -17,7 +17,7 @@
      longest labels that should fit in the item width are usually those of
      in-progress downloads and those of blocked downloads.
      -->
-<!ENTITY downloads.width                  "65ch">
+<!--ENTITY downloads.width                  "65ch"-->
 
 <!ENTITY cmd.pause.label                  "স্থগিত করুন">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -39,8 +39,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ডাউনলোডের লিংক কপি করুন">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "তালিকা থেকে মুছে ফেলুন">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!--ENTITY cmd.removeFromList.label         "তালিকা থেকে মুছে ফেলুন"-->
+<!--ENTITY cmd.removeFromList.accesskey     "e"-->
 <!ENTITY cmd.clearList.label              "তালিকা পরিশ্রুত করুন">
 <!ENTITY cmd.clearList.accesskey          "a">
 
