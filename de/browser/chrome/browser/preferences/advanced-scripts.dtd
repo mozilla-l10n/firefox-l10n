@@ -8,7 +8,7 @@
 <!ENTITY allowScripts.label             "Skripten folgende Aktionen erlauben:">
 
 <!ENTITY moveResizePopupWindows.label     "Pop-up-Fenster verschieben oder deren Größe ändern">
-<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.accesskey "v">
 <!ENTITY raiseLowerWindows.label        "Fenster vor oder hinter andere Fenster legen">
 <!ENTITY raiseLowerWindows.accesskey    "F">
 <!ENTITY disableContextMenus.label      "Das Kontextmenü deaktivieren oder ersetzen">
