@@ -19,4 +19,4 @@
 <!ENTITY errorTimeout "Eraro: elĉerpiĝis la tempo por la konekto.">
 <!ENTITY errorRefused "Eraro: konekto rifuzita.">
 <!ENTITY errorUnexpected "Neatendita eraro.">
-<!ENTITY help "Firefox Developer Tools povas sencimigi forajn aparatojn (ekzemple: Firefox por Android kaj Firefox OS). Certiĝu ke la eblo 'Fora sencimigado' estas ŝaltita en la fora aparato. Por pli da informo legu la <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentaron</a>.">
+<!ENTITY help "Firefox Developer Tools povas sencimigi forajn aparatojn (ekzemple: Firefox por Android kaj Firefox OS). Certiĝu ke la elekteblo 'Fora sencimigado' estas ŝaltita en la fora aparato. Por pli da informo legu la <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentaron</a>.">
