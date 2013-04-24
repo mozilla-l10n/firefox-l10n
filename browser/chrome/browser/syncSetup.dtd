@@ -13,7 +13,7 @@
 
 <!ENTITY setup.choicePage.title.label     "পূর্বে  &syncBrand.fullName.label; ব্যবহার করছেন কি?">
 <!ENTITY setup.choicePage.new.label       "আমি &syncBrand.shortName.label; কখনো ব্যবহার করিনি">
-<!ENTITY setup.choicePage.existing.label  "একটি ভিন্ন কম্পিউটার আমি বর্তমানে &syncBrand.shortName.label; ব্যবহার করছি">
+<!--ENTITY setup.choicePage.existing.label  "একটি ভিন্ন কম্পিউটার আমি বর্তমানে &syncBrand.shortName.label; ব্যবহার করছি"-->
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "সার্ভার">
@@ -119,8 +119,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "সুসংগতি সংক্রান্ত বিকল্প">
-<!ENTITY syncComputerName.label       "কম্পিউটারের নাম:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!--ENTITY syncComputerName.label       "কম্পিউটারের নাম:"-->
+<!--ENTITY syncComputerName.accesskey   "c"-->
 
 <!ENTITY syncMy.label               "নিম্নলিখিত সামগ্রী সুসংগত করা হবে">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
@@ -136,20 +136,20 @@
 <!ENTITY engine.addons.label        "অতিরিক্ত সামগ্রী">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2.merge.main.label      "এই কম্পিউটারের তথ্যের সাথে &syncBrand.shortName.label;-র তথ্য একত্রিত করা হবে।">
+<!--ENTITY choice2.merge.main.label      "এই কম্পিউটারের তথ্যের সাথে &syncBrand.shortName.label;-র তথ্য একত্রিত করা হবে।"-->
 <!ENTITY choice2.merge.recommended.label "প্রস্তাবিত পন্থা:">
-<!ENTITY choice2.client.main.label     "এই কম্পিউটারের মধ্যে উপস্থিত সকল তথ্য মুছে  &syncBrand.shortName.label;-র তথ্য লেখা হবে।">
-<!ENTITY choice2.server.main.label     "অন্যান্য সকল ডিভাইসের তথ্যে মুছে এই কম্পিউটারের তথ্য লেখা হবে">
+<!--ENTITY choice2.client.main.label     "এই কম্পিউটারের মধ্যে উপস্থিত সকল তথ্য মুছে  &syncBrand.shortName.label;-র তথ্য লেখা হবে।"-->
+<!--ENTITY choice2.server.main.label     "অন্যান্য সকল ডিভাইসের তথ্যে মুছে এই কম্পিউটারের তথ্য লেখা হবে"-->
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "নিশ্চিত করুন">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; দ্বারা এখন এই কম্পিউটারের ব্রাউজারের মধ্যে উপস্থিত সকল তথ্য আপনার Sync অ্যাকাউন্টে একত্রিত করা হবে।">
+<!--ENTITY confirm.merge.label    "&syncBrand.fullName.label; দ্বারা এখন এই কম্পিউটারের ব্রাউজারের মধ্যে উপস্থিত সকল তথ্য আপনার Sync অ্যাকাউন্টে একত্রিত করা হবে।"-->
 <!-- ENTITY confirm.client.label         "এই কম্পিউটারের মধ্যে উপস্থিত &brandShortName;-র সকল তথ্য মুছে ফেলা হবে, যেমন:" -->
-<!ENTITY confirm.client.moreinfo.label "এর পরে &brandShortName; দ্বারা এই কম্পিউটারের মধ্যে &syncBrand.fullName.label;-র তথ্য কপি করা হবে।">
+<!--ENTITY confirm.client.moreinfo.label "এর পরে &brandShortName; দ্বারা এই কম্পিউটারের মধ্যে &syncBrand.fullName.label;-র তথ্য কপি করা হবে।"-->
 <!-- ENTITY confirm.client.warning.label "সতর্কবার্তা: এর ফলে, এই কম্পিউটারে উপস্থিত &brandShortName;-র সকল তথ্য প্রতিস্থাপিত হবে!" -->
 <!-- ENTITY confirm.server.label         "নিম্নলিখিত ডিভাইসের মধ্যে উপস্থিত তথ্য মুছে আপনার স্থানীয় তথ্য স্থাপন করা হবে:" -->
 <!-- ENTITY confirm.server.warning.label "সতর্কবার্তা: এর ফলে, এই ডিভাইসগুলির মধ্যে উপস্থিত &brandShortName;-র সকল তথ্যের পরিবর্তে আপনার স্থানীয় তথ্য স্থাপন করা হবে!" -->
-<!ENTITY confirm.client2.label         "সতর্কবার্তা: এই কম্পিউটারের মধ্যে উপস্থিত &brandShortName;-র সকল নিম্নলিখিত তথ্য মুছে ফেলা হবে:">
+<!--ENTITY confirm.client2.label         "সতর্কবার্তা: এই কম্পিউটারের মধ্যে উপস্থিত &brandShortName;-র সকল নিম্নলিখিত তথ্য মুছে ফেলা হবে:"-->
 <!ENTITY confirm.server2.label         "সতর্কবার্তা: নিম্নলিখিত ডিভাইসের মধ্যে উপস্থিত তথ্য মুছে আপনার স্থানীয় তথ্য স্থাপন করা হবে:">
 
 <!-- New & Existing Account: Setup Complete -->

@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Tracking">
 
-<!ENTITY doNotTrack.label                "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়">
-<!ENTITY doNotTrack.accesskey            "d">
+<!--ENTITY doNotTrack.label                "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়"-->
+<!--ENTITY doNotTrack.accesskey            "d"-->
 
 <!ENTITY  history.label "পূর্ববর্তী তথ্য">
 
@@ -91,8 +91,8 @@
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "স্বতন্ত্র কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!--ENTITY  acceptThirdParty.label        "স্বতন্ত্র কুকি গ্রহণ করা হবে"-->
+<!--ENTITY  acceptThirdParty.accesskey    "c"-->
 
 <!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:">
 <!ENTITY  keepUntil.accesskey           "K">

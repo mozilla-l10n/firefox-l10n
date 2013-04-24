@@ -1,7 +1,7 @@
 <!-- ENTITY sanitizeDialog.title         "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
 
 
-<!ENTITY sanitizeItems.label          "নিম্নলিখিত বিষয়বস্তুগুলি এই মুহূর্তে মুছে ফেলুন:">
+<!--ENTITY sanitizeItems.label          "নিম্নলিখিত বিষয়বস্তুগুলি এই মুহূর্তে মুছে ফেলুন:"-->
 <!-- ENTITY clearDataSettings.label      "&brandShortName;-কে ব্যক্তিগত তথ্য মুছে ফেলার নির্দেশ দেওয়া হলে, নিম্নলিখিত তথ্য মুছে ফেলা হবে:" -->
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -29,8 +29,8 @@
 <!ENTITY sanitizeEverythingUndoWarning     "এই কাজ নাকচ করা সম্ভব নয়।">
 
 <!-- ENTITY window.width                 "30em" -->
-<!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">
+<!--ENTITY dialog.width                 "28em"-->
+<!--ENTITY column.width                 "14em"-->
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; থেকে প্রস্থান করা হলে, স্বয়ংক্রিয়রূপে নিম্নলিখিত সামগ্রী মুছে ফেলা হবে:">
 <!-- ENTITY clearDuration.everything     "সমস্ত পূর্ববর্তী তথ্য" -->
@@ -76,12 +76,12 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemActiveLogins.label       "সক্রিয় লগ-ইন">
 <!ENTITY itemActiveLogins.accesskey   "L">
-<!ENTITY itemBrowsingHistory.label         "ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
+<!--ENTITY itemBrowsingHistory.label         "ব্রাউজিং সংক্রান্ত পূর্ববর্তী তথ্য"-->
+<!--ENTITY itemBrowsingHistory.accesskey     "B"-->
 <!ENTITY itemCache.label                   "ক্যাশে">
 <!ENTITY itemCache.accesskey               "A">
-<!ENTITY itemDownloadHistory.label         "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য">
-<!ENTITY itemDownloadHistory.accesskey     "D">
+<!--ENTITY itemDownloadHistory.label         "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য"-->
+<!--ENTITY itemDownloadHistory.accesskey     "D"-->
 <!ENTITY itemSitePreferences.label         "সাইট সংক্রান্ত পছন্দসই মান">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!-- ENTITY itemDownloadList.label       "ডাউনলোডের তালিকা" -->

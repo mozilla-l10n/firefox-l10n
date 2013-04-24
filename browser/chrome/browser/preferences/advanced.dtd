@@ -123,11 +123,11 @@
 <!ENTITY setDefault.label                "&brandShortName;-কে ডিফল্ট ব্রাউজার রূপে নির্ধারণ করুন">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
-<!ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে">
-<!ENTITY submitCrashes.accesskey         "S">
+<!--ENTITY submitCrashes.label             "বিপর্যয়ের রিপোর্ট দায়ের করা হবে"-->
+<!--ENTITY submitCrashes.accesskey         "S"-->
 <!-- ENTITY offlineStorage.label            "অফ-লাইন অবস্থায় সংরক্ষণ" -->
-<!ENTITY submitTelemetry.label           "কর্মক্ষমতা সংক্রান্ত তথ্য দাখিল করা হবে">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!--ENTITY submitTelemetry.label           "কর্মক্ষমতা সংক্রান্ত তথ্য দাখিল করা হবে"-->
+<!--ENTITY submitTelemetry.accesskey       "P"-->
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
