@@ -10,7 +10,7 @@
 
 <!-- ENTITY viewsourcetitle.preface "চিহ্নিত বস্তুর উৎস: " -->
 
-<!ENTITY downloadMonitor2.tooltip "ডাউনলোড উইন্ডো প্রদর্শনের জন্য ক্লিক করুন">
+<!--ENTITY downloadMonitor2.tooltip "ডাউনলোড উইন্ডো প্রদর্শনের জন্য ক্লিক করুন"-->
 <!-- ENTITY nothingAvailable.label "(কিছু উপলব্ধ নেই)" -->
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
 <!ENTITY bookmarksButton.tooltip        "আপনার নির্মিত বুকমার্কগুলি প্রদর্শন করুন">
-<!ENTITY bookmarksButton.accesskey  "B">
+<!--ENTITY bookmarksButton.accesskey  "B"-->
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
 <!ENTITY bookmarksMenuButton.tooltip        "নিজের বুকমার্কগুলি দেখুন">
@@ -223,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyButton.label            "পূর্বে প্রদর্শিত পৃষ্ঠা">
 <!ENTITY historyButton.tooltip          "সম্প্রতি প্রত্যক্ষ করা পৃষ্ঠা প্রদর্শন করা হবে">
-<!ENTITY historySidebarCmd.accesskey    "s">
+<!--ENTITY historySidebarCmd.accesskey    "s"-->
 <!ENTITY historySidebarCmd.commandKey   "h">
 <!ENTITY showAllHistoryCmd2.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -248,19 +248,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY allTabs.filter.emptyText "ট্যাব অনুসন্ধান">
+<!--ENTITY allTabs.filter.emptyText "ট্যাব অনুসন্ধান"-->
 
 <!-- ENTITY javaConsoleCmd.label         "Java কনসোল" -->
 <!-- ENTITY javaConsoleCmd.accesskey     "J" -->
 <!ENTITY errorConsoleCmd.label        "Error কনসোল">
 <!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!--ENTITY webConsoleCmd.label          "ওয়েব কনসোল"-->
+<!--ENTITY webConsoleCmd.accesskey      "W"-->
+<!--ENTITY webConsoleCmd.commandkey     "k"-->
+<!--ENTITY webConsoleButton.label "ওয়েব কনসোল"-->
 
-<!ENTITY webConsoleCmd.label          "ওয়েব কনসোল">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-<!ENTITY webConsoleButton.label "ওয়েব কনসোল">
-
-<!ENTITY inspectorButton.label "Inspector">
+<!--ENTITY inspectorButton.label "Inspector"-->
 
 <!ENTITY fileMenu.label         "ফাইল"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -300,7 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "বিবিধ বৈশিষ্ট্য">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 <!ENTITY clearRecentHistory.label               "সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…">
-<!ENTITY clearRecentHistory.accesskey           "H">
+<!--ENTITY clearRecentHistory.accesskey           "H"-->
 
 <!-- ENTITY clearPrivateDataCmd.label            "ব্যক্তিগত তথ্য মুছে ফেলুন" -->
 <!-- ENTITY clearPrivateDataCmd.accesskey        "P" -->
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- ENTITY releaseCmd.label     "রিলিজ নোটস" -->
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "একটি ওয়েব-সাইট পরিদর্শন করুন">
+<!--ENTITY urlbar.placeholder           "একটি ওয়েব-সাইট পরিদর্শন করুন"-->
 <!-- ENTITY urlbar.emptyText             "বুকমার্ক ও পূর্ববর্তী তথ্য অনুসন্ধান করুন" -->
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "চিহ্নিত ট্যাবে পরিবর্তন করুন:">
@@ -630,10 +630,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- ENTITY ctrlTab.search.emptyText "ট্যাবের মধ্যে অনুসন্ধান করুন" -->
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "ব্যক্তিগত ব্রাউজিং ব্যবস্থা আরম্ভ করুন">
-<!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "ব্যক্তিগত ব্রাউজিং ব্যবস্থা বন্ধ করুন">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
+<!--ENTITY privateBrowsingCmd.start.label         "ব্যক্তিগত ব্রাউজিং ব্যবস্থা আরম্ভ করুন"-->
+<!--ENTITY privateBrowsingCmd.start.accesskey     "P"-->
+<!--ENTITY privateBrowsingCmd.stop.label          "ব্যক্তিগত ব্রাউজিং ব্যবস্থা বন্ধ করুন"-->
+<!--ENTITY privateBrowsingCmd.stop.accesskey      "P"-->
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
@@ -641,10 +641,10 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "App ট্যাব রূপে পিন করা হবে">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "ট্যাব আন-পিন করুন">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!--ENTITY  pinAppTab.label                    "App ট্যাব রূপে পিন করা হবে"-->
+<!--ENTITY  pinAppTab.accesskey                "P"-->
+<!--ENTITY  unpinAppTab.label                  "ট্যাব আন-পিন করুন"-->
+<!--ENTITY  unpinAppTab.accesskey              "b"-->
 <!ENTITY  moveToGroup.label                  "চিহ্নিত শ্রেণীতে পরিবর্তন করুন">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "নতুন শ্রেণী">
@@ -668,9 +668,9 @@ can reach it easily. -->
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 
-<!ENTITY inspectMenu.label            "তদারকি">
-<!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
+<!--ENTITY inspectMenu.label            "তদারকি"-->
+<!--ENTITY inspectMenu.accesskey        "T"-->
+<!--ENTITY inspectMenu.commandkey       "I"-->
 
 <!ENTITY inspectContextMenu.label     "সামগ্রী নিরীক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -697,25 +697,25 @@ can reach it easily. -->
 <!-- ENTITY inspectNextButton.accesskey  "N" -->
 <!-- ENTITY inspectPreviousButton.label  "পূর্ববর্তী" -->
 <!-- ENTITY inspectPreviousButton.accesskey "P" -->
-<!ENTITY inspectCloseButton.tooltiptext "Inspector বন্ধ করুন">
+<!--ENTITY inspectCloseButton.tooltiptext "Inspector বন্ধ করুন"-->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Inner HTML কপি করুন">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!--ENTITY inspectorHTMLCopyInner.label       "Inner HTML কপি করুন"-->
+<!--ENTITY inspectorHTMLCopyInner.accesskey   "I"-->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Outer HTML কপি করুন">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!--ENTITY inspectorHTMLCopyOuter.label       "Outer HTML কপি করুন"-->
+<!--ENTITY inspectorHTMLCopyOuter.accesskey   "O"-->
 
-<!ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!--ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন"-->
+<!--ENTITY inspectorHTMLDelete.accesskey      "D"-->
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "৩-ডি প্রদর্শন">
-<!ENTITY inspect3DViewButton.accesskey "W">
+<!--ENTITY inspect3DViewButton.label     "৩-ডি প্রদর্শন"-->
+<!--ENTITY inspect3DViewButton.accesskey "W"-->
 
-<!ENTITY inspectStyleButton.label     "বিন্যাস">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!--ENTITY inspectStyleButton.label     "বিন্যাস"-->
+<!--ENTITY inspectStyleButton.accesskey "S"-->
 <!-- ENTITY inspectStylePanelTitle.label  "বিন্যাস" -->
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
@@ -784,10 +784,10 @@ can reach it easily. -->
 located in front of the breadcrumbs display in the inspector toolbar. The button
 doesn't display any label, but exposes a label to screen-readers with "aria-label".
 -->
-<!ENTITY markupButton.arialabel          "Markup">
+<!--ENTITY markupButton.arialabel          "Markup"-->
 <!-- LOCALIZATION NOTE (markupButton.accesskey): The key bound to the Markup panel's
 toolbar button -->
-<!ENTITY markupButton.accesskey          "M">
+<!--ENTITY markupButton.accesskey          "M"-->
 
 <!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
 activates the Web Developer->Inspect UI's HTML Tree Panel. -->
