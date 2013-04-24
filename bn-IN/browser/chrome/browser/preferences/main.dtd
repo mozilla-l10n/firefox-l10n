@@ -52,8 +52,8 @@
 <!-- ENTITY checkNow.label             "এই মুহূর্তে পরীক্ষা করুন" -->
 <!-- ENTITY checkNow.accesskey         "N" -->
 
-<!ENTITY addonsMgr.label               "অতিরিক্ত সামগ্রী">
-<!ENTITY manageAddonsDescWin.label     "ব্যবহৃত অতিরিক্ত সামগ্রীর জন্য বিকল্প পরিবর্তন করুন">
-<!ENTITY manageAddonsDescUnix2.label   "ব্যবহৃত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দসই মান পরিবর্তন করুন">
-<!ENTITY manageAddons.label            "অতিরিক্ত সামগ্রী পরিচালনা…">
-<!ENTITY manageAddons.accesskey        "M">
+<!--ENTITY addonsMgr.label               "অতিরিক্ত সামগ্রী"-->
+<!--ENTITY manageAddonsDescWin.label     "ব্যবহৃত অতিরিক্ত সামগ্রীর জন্য বিকল্প পরিবর্তন করুন"-->
+<!--ENTITY manageAddonsDescUnix2.label   "ব্যবহৃত অতিরিক্ত সামগ্রী সংক্রান্ত পছন্দসই মান পরিবর্তন করুন"-->
+<!--ENTITY manageAddons.label            "অতিরিক্ত সামগ্রী পরিচালনা…"-->
+<!--ENTITY manageAddons.accesskey        "M"-->

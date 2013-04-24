@@ -28,8 +28,8 @@
 
 <!-- Sync Settings -->
 <!-- ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি" -->
-<!ENTITY syncComputerName.label       "কম্পিউটারের নাম:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!--ENTITY syncComputerName.label       "কম্পিউটারের নাম:"-->
+<!--ENTITY syncComputerName.accesskey   "c"-->
 <!-- ENTITY deactivateDevice.label       "এই ডিভাইসটি নিষ্ক্রিয় করা হবে" -->
 <!ENTITY unlinkDevice.label           "ডিভাইসের বিচ্ছিন্ন করুন">
 

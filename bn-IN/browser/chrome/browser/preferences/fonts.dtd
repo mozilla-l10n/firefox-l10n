@@ -73,6 +73,6 @@
 <!ENTITY  allowPagesToUse.label                   "উপরে উল্লিখিত নির্বাচন উপেক্ষা করে পেজগুলির দ্বারা ব্যবহারযোগ্য ফন্ট নির্বাচনের অনুমতি প্রদান করা হবে">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Charset.grouplabel         "ক্যারেক্টার এনকোডিং">
-<!ENTITY languages.customize.DefaultCharset.label       "ডিফল্ট ক্যারেক্টার এনকোডিং:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!--ENTITY languages.customize.Charset.grouplabel         "ক্যারেক্টার এনকোডিং"-->
+<!--ENTITY languages.customize.DefaultCharset.label       "ডিফল্ট ক্যারেক্টার এনকোডিং:"-->
+<!--ENTITY languages.customize.DefaultCharset.accesskey   "C"-->
