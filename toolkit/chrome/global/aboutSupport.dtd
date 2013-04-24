@@ -60,4 +60,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের পূর্ববর্তী তথ্য">
 <!ENTITY aboutSupport.updateHistoryTitle "আপডেট সংক্রান্ত পূর্ববর্তী তথ্য">
 
-<!ENTITY aboutSupport.copyToClipboard.label "ক্লিপ-বোর্ডের মধ্যে সমস্ত তথ্য কপি করুন">
+<!--ENTITY aboutSupport.copyToClipboard.label "ক্লিপ-বোর্ডের মধ্যে সমস্ত তথ্য কপি করুন"-->
