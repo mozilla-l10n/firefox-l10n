@@ -24,7 +24,7 @@
 
 <!-- ENTITY disabledPlugin.label                                "এই বিষয়বস্তুর সাথে ব্যবহারযোগ্য প্লাগ-ইন নিষ্ক্রিয় করা হয়েছে। প্লাগ-ইন পরিচালনার জন্য এইখানে ক্লিক করুন।" -->
 <!ENTITY missingPlugin                                       "তথ্য প্রদর্শনের জন্য একটি প্লাগ-ইন আবশ্যক">
-<!ENTITY clickToPlayPlugin                                   "প্লাগ-ইন সক্রিয় করার জন্য এইখানে টিপুন।">
+<!--ENTITY clickToPlayPlugin                                   "প্লাগ-ইন সক্রিয় করার জন্য এইখানে টিপুন।"-->
 <!-- ENTITY clickToPlayPluginVulnerableUpdateAvailable          "সংকটাপন্ন প্লাগ-ইন সক্রিয় করতে এইখানে ক্লিক করুন।" -->
 <!-- ENTITY clickToPlayPluginVulnerableNoUpdate                 "সংকটাপন্ন প্লাগ-ইন সক্রিয় করতে এইখানে ক্লিক করুন (কোনো আপডেট উপলব্ধ নেই)।" -->
 <!ENTITY checkForUpdates                                     "আপডেটের উপস্থিতি পরীক্ষা করুন…">
