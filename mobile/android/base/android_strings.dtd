@@ -50,11 +50,13 @@
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_category_privacy "Privacy e sicurezza">
 <!ENTITY pref_category_content "Contenuti">
-<!ENTITY pref_category_importexport "Importa ed esporta">
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_do_not_track "Attiva antitracciamento">
 <!ENTITY pref_telemetry "Invia dati prestazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
+<!ENTITY pref_header_general "Generale">
+<!ENTITY pref_header_privacy "Privacy e sicurezza">
+<!ENTITY pref_header_content "Contenuti">
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
