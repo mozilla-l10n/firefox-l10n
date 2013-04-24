@@ -8,7 +8,7 @@
 <!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Fermi la ilojn por disvolvantoj">
-<!ENTITY toolboxOptionsButton.tooltip  "Montri/kaŝi panelon de ebloj">
+<!ENTITY toolboxOptionsButton.tooltip  "Montri/kaŝi panelon de elektebloj">
 <!ENTITY toolboxOptionsButton.key      "e">
 
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
@@ -20,13 +20,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label    "Aktivigi sencimigon de 'chrome'">
-<!ENTITY options.enableChrome.tooltip  "Ŝalto de tiu ĉi eblo permesos al vi uzi plurajn ilojn por disvolvantoj, en la kunteksto de la retesplorilo">
+<!ENTITY options.enableChrome.tooltip  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por disvolvantoj, en la kunteksto de la retesplorilo">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label    "Aktivigi foran sencimigon">
-<!ENTITY options.enableRemote.tooltip  "Ŝalto de tiu ĉi eblo permesos al la iloj por disvolvantoj la sencimigon de foraj instancoj de Firefox, kiel Firefox OS">
+<!ENTITY options.enableRemote.tooltip  "Ŝalto de tiu ĉi elekteblo permesos al la iloj por disvolvantoj la sencimigon de foraj instancoj de Firefox, kiel Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

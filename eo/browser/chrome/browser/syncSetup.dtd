@@ -74,13 +74,13 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Ensaluti">
-<!ENTITY existingRecoveryKey.description "Vi povas ricevi kopion de via reakira ŝlosilo se vi iras al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia reakira ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Vi povas ricevi kopion de via reakira ŝlosilo se vi iras al Elektebloj de &syncBrand.shortName.label; en via alia aparato kaj elektas  &#x0022;Mia reakira ŝlosilo&#x0022; sub &#x0022;Administri konton&#x0022;.">
 <!ENTITY verifying.label              "Kontrolado…">
 <!ENTITY resetPassword.label          "Reŝargi pasvorton">
 <!ENTITY resetSyncKey.label           "Mi perdis mian alian aparaton.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Opcioj de spegulado">
+<!ENTITY setup.optionsPage.title      "Elektebloj de spegulado">
 <!ENTITY syncDeviceName.label       "Nomo de aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
 
@@ -112,5 +112,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Agordo finita">
-<!ENTITY changeOptions.label "Vi povas ŝanĝi tiun ĉi preferon per elektado de la malsupre trovebla Opcioj de spegulado.">
+<!ENTITY changeOptions.label "Vi povas ŝanĝi tiun ĉi preferon per elektado de la malsupre trovebla Elektebloj de spegulado.">
 <!ENTITY continueUsing.label "Vi povas daŭrigi la uzado de &brandShortName;.">
