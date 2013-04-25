@@ -16,6 +16,7 @@
 <!ENTITY permission.alwaysAsk            "সর্বদা জিজ্ঞাসা করা হবে">
 <!ENTITY permission.allow                "অনুমতি প্রদান করুন">
 <!ENTITY permission.allowForSession      "সেশনের জন্য অনুমতি প্রদান করুন">
+<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
 <!ENTITY permission.block                "প্রতিরোধ করুন">
 
 <!ENTITY password.label                  "পাসওয়ার্ড সংরক্ষণ করা হবে">

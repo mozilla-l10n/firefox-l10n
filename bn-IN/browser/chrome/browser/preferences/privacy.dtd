@@ -14,7 +14,18 @@
 <!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্ক">
 <!ENTITY  locbar.nothing.label          "কোনো তথ্য প্রস্তাবিত হবে না">
-
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY doNotTrackInfo.label           "Learn More">
 <!-- LOCALIZATION NOTE:
   The entities rememberBefore.label and rememberAfter.label appear on a single
   line in preferences as follows:
