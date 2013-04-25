@@ -14,6 +14,48 @@
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
 <!ENTITY debuggerMenu.label2          "Debugger">
+<!ENTITY debuggerMenu.accesskey         "D">
+<!ENTITY debuggerUI.addWatch            "Add watch expression">
+<!ENTITY debuggerUI.addWatch.key        "E">
+<!ENTITY debuggerUI.condBreakPanelTitle "This breakpoint will stop execution only if the following expression is true">
+<!ENTITY debuggerUI.focusVariables      "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+<!ENTITY debuggerUI.optsButton.tooltip  "Debugger Options">
+<!ENTITY debuggerUI.panesButton.tooltip "Toggle panes">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.removeAllWatch      "Remove all watch expressions">
+<!ENTITY debuggerUI.removeAllWatch.key  "E">
+<!ENTITY debuggerUI.seMenuAddWatch      "Selection to watch expression">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.seMenuBreak         "Add breakpoint">
+<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuCondBreak     "Add conditional breakpoint">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.searchFile          "Filter scripts">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFunction      "Search for function definition">
+<!ENTITY debuggerUI.searchFunction.altkey "O">
+<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal.key    "F">
+<!ENTITY debuggerUI.searchLine          "Jump to line…">
+<!ENTITY debuggerUI.searchLine.key      "J">
+<!ENTITY debuggerUI.searchPanelTitle    "Operators">
+<!ENTITY debuggerUI.searchToken         "Find">
+<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchVariable      "Filter variables">
+<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.showOnlyEnum        "Show only enumerable properties">
+<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.showPanesOnInit     "Show panes on startup">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showVarsFilter      "Show variables filter box">
+<!ENTITY debuggerUI.showVarsFilter.key  "V">
+<!ENTITY debuggerUI.stepping.resume     "VK_F6">
+<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
 
 <!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
   -  application menu item that opens the remote debugger UI. -->
