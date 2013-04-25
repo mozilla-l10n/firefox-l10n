@@ -14,15 +14,18 @@
 <!ENTITY  awesomebar_history_title "歷史記錄">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
-<!ENTITY  crash_message "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的首頁。">
-<!ENTITY  crash_help_message "請幫助我們修正這個問題！">
-<!ENTITY  crash_send_report_message "傳送錯誤回報給 Mozilla">
-<!ENTITY  crash_include_url "包含頁面網址">
+<!ENTITY  crash_message2 "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的開始頁。">
+<!ENTITY  crash_send_report_message2 "告訴 Mozilla 這次錯誤的資訊，讓我們修正">
+<!ENTITY  crash_include_url2 "包含我所瀏覽的頁面網址">
+<!ENTITY  crash_sorry "很抱歉">
+<!ENTITY  crash_comment "加上附註 (附註是大家都看得到的)">
+<!ENTITY  crash_allow_contact "允許 Mozilla 連絡我關於這份報告的進一步消息">
+<!ENTITY  crash_email "您的電子郵件地址">
+<!ENTITY  crash_closing_alert "不傳送錯誤報告就離開？">
+<!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
 <!ENTITY  crash_close_label "關閉">
 <!ENTITY  crash_restart_label "重開 &brandShortName;">
-<!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
 <!ENTITY  exit_label "結束">
-<!ENTITY  continue_label "繼續">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; 行動網頁應用程式">
 <!ENTITY  launcher_shortcuts_empty "找不到任何行動網頁應用程式">
@@ -65,11 +68,15 @@
 <!ENTITY pref_category_general "一般">
 <!ENTITY pref_category_privacy "個人隱私與安全">
 <!ENTITY pref_category_content "內容">
-<!ENTITY pref_category_importexport "匯入與匯出">
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
 <!ENTITY pref_do_not_track "告訴網站我不想被追蹤">
 <!ENTITY pref_telemetry "傳送效能資料">
 <!ENTITY pref_remember_signons "記住密碼">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "一般">
+<!ENTITY pref_header_privacy "個人隱私與安全">
+<!ENTITY pref_header_content "內容">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "啟用">
