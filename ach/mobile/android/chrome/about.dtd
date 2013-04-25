@@ -1,19 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Makwako &brandShortName;">
+<!ENTITY aboutPage.title                        "About &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; kitwero temo ento nyo pe cung matek.">
-<!ENTITY aboutPage.telemetryStart               " en cwalo pire kene ngec ikom kit ma tiyo kwede, nyonyo, tice ki keto jami pa dano cen bot ">
+<!ENTITY aboutPage.telemetryStart               " It automatically sends information about performance, hardware, usage and customizations back to ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " pi konyo miyo &brandShortName; bedo maber.">
-<!ENTITY aboutPage.checkForUpdates.link         "Rot pi Ngec»">
-<!ENTITY aboutPage.checkForUpdates.checking     "Tye ka yenyo pi ngec…">
-<!ENTITY aboutPage.checkForUpdates.none         "Ngec pe nonge">
-<!ENTITY aboutPage.checkForUpdates.found        "Ngec nonge">
+<!ENTITY aboutPage.telemetryEnd                 " to help make &brandShortName; better.">
+<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
+<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Cwak te">
-<!ENTITY aboutPage.privacyPolicy.label          "Cik pa Dano">
-<!ENTITY aboutPage.rights.label                 "Nge Twero ni">
-<!ENTITY aboutPage.relNotes.label               "Gony Coc">
-<!ENTITY aboutPage.credits.label                "Den">
-<!ENTITY aboutPage.license.label                "Ngec me lanycec">
+<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
+<!ENTITY aboutPage.rights.label                 "Know Your Rights">
+<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.credits.label                "Credits">
+<!ENTITY aboutPage.license.label                "Licensing Information">

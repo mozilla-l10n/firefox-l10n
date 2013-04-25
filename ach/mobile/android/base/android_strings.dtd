@@ -3,95 +3,95 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Tero &brandShortName;mamegi">
-<!ENTITY  splash_bookmarks_history "Wan watye ka mino ngec mamegi me alama me buk ki lok mukato, maromo tero dakika keken onyo dong.">
+<!ENTITY  splash_settingup "Setting up your &brandShortName;">
+<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
 
-<!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
-<!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
+<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
+<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Kakube maloyo">
-<!ENTITY  awesomebar_bookmarks_title "Alama me buk">
-<!ENTITY  awesomebar_history_title "Lok Mukato">
+<!ENTITY  awesomebar_bookmarks_title "Alama">
+<!ENTITY  awesomebar_history_title "Lok macon">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
-<!ENTITY  crash_message "&brandShortName; opoto woko. Myero ki mi lanyik megi ikom &brandShortName; Cak pot buk ka ce i nwoyo cako.">
-<!ENTITY  crash_help_message "Tim ber i kony wa cobo peko ma eni ni!">
-<!ENTITY  crash_send_report_message "Cwal ngec me poto atura pa Mozilla">
-<!ENTITY  crash_include_url "Med ie kanonge me pot buk">
-<!ENTITY  crash_close_label "Lor">
-<!ENTITY  crash_restart_label "Cak &brandShortName;">
-<!ENTITY  sending_crash_report "Cwalo ngec ma opoto aturat\u2026">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_help_message "Please help us fix this problem!">
+<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
+<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_restart_label "Cak nitit &brandShortName;">
+<!ENTITY  sending_crash_report "Sending crash report\u2026">
 <!ENTITY  exit_label "Kat woko">
 <!ENTITY  continue_label "Mede anyim">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Tic me Web">
-<!ENTITY  launcher_shortcuts_empty "Tic me kakube me web pe ononge">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_empty "No web apps were found">
 
-<!ENTITY choose_file "Yer Pwail">
+<!ENTITY choose_file "Choose File">
 
 <!ENTITY awesomebar_default_text "Ket Yeny onyo Kanonge">
 
-<!ENTITY remote_tabs "Ditija matidi me Synced">
-<!ENTITY remote_tabs_show_all "Nyut dirija matidi weng">
+<!ENTITY remote_tabs "Synced Tabs">
+<!ENTITY remote_tabs_show_all "Show all tabs">
 
 <!ENTITY bookmark "Alama me buk">
-<!ENTITY bookmark_added "Kimedo Alama me buk">
-<!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
-<!ENTITY bookmark_updated "Kimedo Alama me buk">
+<!ENTITY bookmark_added "Bookmark added">
+<!ENTITY bookmark_removed "Bookmark removed">
+<!ENTITY bookmark_updated "Bookmark updated">
 
 <!ENTITY history_today_section "Tin">
 <!ENTITY history_yesterday_section "Lawo">
-<!ENTITY history_week_section "Nino 7 mukato angec">
-<!ENTITY history_older_section "Muti loyo nino 7">
+<!ENTITY history_week_section "7 days ago">
+<!ENTITY history_older_section "Older than 7 days">
 
 <!ENTITY go "Ceti">
 <!ENTITY search "Yeny">
 <!ENTITY reload "Nwo pango">
-<!ENTITY forward "Cwal anyim">
-<!ENTITY menu "Nying Jami">
-<!ENTITY back "Cen">
+<!ENTITY forward "Forward">
+<!ENTITY menu "Nying jami">
+<!ENTITY back "Back">
 <!ENTITY stop "Juk">
-<!ENTITY site_security "Ber bedo me Dyer bar">
+<!ENTITY site_security "Site Security">
 
 <!ENTITY close_tab "Lor Dirica matidi">
-<!ENTITY one_tab "dirica matidi 1">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "Kiyabo Tab manyen">
+<!ENTITY new_tab_opened "New tab opened">
 
-<!ENTITY settings "Tero">
-<!ENTITY settings_title "Tero">
-<!ENTITY pref_category_general "Kacel">
+<!ENTITY settings "Settings">
+<!ENTITY settings_title "Settings">
+<!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "I mung pa dano &amp; Gwoko kuc">
-<!ENTITY pref_category_content "Gin manonge iye">
-<!ENTITY pref_category_importexport "Kel ki woko &amp; Cwal woko">
-<!ENTITY pref_about_firefox "Makwako &brandShortName;">
-<!ENTITY pref_do_not_track "Waci kakube pe maka">
-<!ENTITY pref_telemetry "Cwal tic me jami">
-<!ENTITY pref_remember_signons "Poyo I cwil me donyo">
+<!ENTITY pref_category_content "Content">
+<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_do_not_track "Tell sites not to track me">
+<!ENTITY pref_telemetry "Send performance data">
+<!ENTITY pref_remember_signons "Remember passwords">
 
-<!ENTITY pref_cookies_menu "Kakube me intanet">
+<!ENTITY pref_cookies_menu "Lapo wic me intanet">
 <!ENTITY pref_cookies_accept_all "Enabled">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
 <!ENTITY pref_cookies_disabled "Disabled">
 
-<!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
-<!ENTITY pref_char_encoding_on "Nyut acaki">
+<!ENTITY pref_char_encoding "Character encoding">
+<!ENTITY pref_char_encoding_on "Show menu">
 <!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Ywe tic pa dano">
 <!ENTITY pref_plugins "Rwaki iyie">
 <!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Gwet wek tuki">
+<!ENTITY pref_plugins_tap_to_play "Tap to play">
 <!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Dit pa nyig Coc">
+<!ENTITY pref_text_size "Text size">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
-<!ENTITY pref_font_size_tiny "Tino">
-<!ENTITY pref_font_size_small "Tidi">
-<!ENTITY pref_font_size_medium "Dyere dyere">
-<!ENTITY pref_font_size_large "Lac">
-<!ENTITY pref_font_size_xlarge "Madit loyo">
-<!ENTITY pref_font_size_set "Ter">
+<!ENTITY pref_font_size_tiny "Tiny">
+<!ENTITY pref_font_size_small "Small">
+<!ENTITY pref_font_size_medium "Medium">
+<!ENTITY pref_font_size_large "Large">
+<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_font_size_set "Set">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -103,18 +103,18 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
-<!ENTITY pref_show_product_announcements "Nyut kwena me jami ma kato">
+<!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_show_product_announcements "Show product announcements">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
-<!ENTITY pref_import_android "Kel ki woko ki Android">
-<!ENTITY pref_private_data_history "Tye ka yabo &amp; Gol Mukato">
-<!ENTITY pref_private_data_formdata "Fom &amp; yeny mukato">
-<!ENTITY pref_private_data_cookies2 "Layab intanet &amp; donyo iyie me oyoto">
+<!ENTITY pref_search_suggestions "Show search suggestions">
+<!ENTITY pref_import_android "Import from Android">
+<!ENTITY pref_private_data_history "Browsing &amp; download history">
+<!ENTITY pref_private_data_formdata "Form &amp; search history">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Kagwoko">
-<!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
-<!ENTITY pref_private_data_siteSettings "Gin ma imito i di bar">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
@@ -122,21 +122,21 @@ size. -->
 <!ENTITY pref_update_autodownload_disabled "Disabled">
 <!ENTITY pref_update_autodownload_enabled "Enabled">
 
-<!ENTITY quit "Wek woko">
+<!ENTITY quit "Quit">
 
-<!ENTITY addons "Lamed-ikome">
-<!ENTITY downloads "Kigolo woko">
-<!ENTITY apps "Purugram">
-<!ENTITY char_encoding "Kit ma Kicoyo Kwede">
+<!ENTITY addons "Add-ons">
+<!ENTITY downloads "Kwanyo">
+<!ENTITY apps "Apps">
+<!ENTITY char_encoding "Kitma Kicoyo Kwede">
 
-<!ENTITY share "Nywak">
-<!ENTITY share_title "Nywak kun beo">
-<!ENTITY share_image_failed "Pe twero nywako pot buk man">
-<!ENTITY save_as_pdf "Gwok Calo PDF">
+<!ENTITY share "Share">
+<!ENTITY share_title "Share via">
+<!ENTITY share_image_failed "Unable to share this image">
+<!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
-<!ENTITY tools "Gitic">
-<!ENTITY new_tab "Tab Manyen">
+<!ENTITY desktop_mode "Request Desktop Site">
+<!ENTITY tools "Tools">
+<!ENTITY new_tab "New Tab">
 <!ENTITY new_private_tab "New Private Tab">
 <!ENTITY close_all_tabs "Close All Tabs">
 <!ENTITY tabs_normal "Tabs">
@@ -153,54 +153,54 @@ size. -->
 <!ENTITY find_next "En mukene">
 <!ENTITY find_close "Close">
 
-<!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
+<!ENTITY contextmenu_open_new_tab "Open in New Tab">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Yab ki I gin kwano">
+<!ENTITY contextmenu_open_in_reader "Open in Reader">
 <!ENTITY contextmenu_remove_history "Remove">
 <!ENTITY contextmenu_remove_bookmark "Remove">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
-<!ENTITY contextmenu_share "Nywak">
+<!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Ceti">
-<!ENTITY contextmenu_paste "Dani">
-<!ENTITY contextmenu_copyurl "Lok Address">
+<!ENTITY contextmenu_paste "Mwon">
+<!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Edit">
 
-<!ENTITY history_removed "Kikwanyo woko pot buk">
+<!ENTITY history_removed "Page removed">
 
-<!ENTITY bookmark_edit_title "Yub Alama buk">
+<!ENTITY bookmark_edit_title "Edit Bookmark">
 <!ENTITY bookmark_edit_name "Nying">
 <!ENTITY bookmark_edit_location "Kabedo">
-<!ENTITY bookmark_edit_keyword "Lok mapire tek">
+<!ENTITY bookmark_edit_keyword "Keyword">
 
-<!ENTITY site_settings_title2       "Tero Kabedo...">
-<!ENTITY site_settings_cancel       "Jwik">
+<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_cancel       "Cancel">
 <!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
+<!ENTITY site_settings_no_settings  "There are no settings to clear.">
 
-<!ENTITY reading_list "Nying jami me kwan">
-<!ENTITY reading_list_added "Kimedo woko pot buk ii Nying jami me Akwan mamegi">
-<!ENTITY reading_list_removed "Kikwanyo woko pot nuk ki Nying jami me akwani ni">
-<!ENTITY reading_list_failed "Medo pot buk pe olare ki Nying Jami me kwani">
+<!ENTITY reading_list "Reading List">
+<!ENTITY reading_list_added "Page added to your Reading List">
+<!ENTITY reading_list_removed "Page removed from your Reading List">
+<!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reader "Reader">
 
-<!ENTITY masterpassword_create_title "Ket I cwil me donyo Madit">
-<!ENTITY masterpassword_remove_title "Kwany woko i cwil me donyo pa Ladit">
-<!ENTITY masterpassword_password "I cwil me donyo">
-<!ENTITY masterpassword_confirm "Mok i cwil me donyo">
+<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_remove_title "Kwany woko mung me donyo madit">
+<!ENTITY masterpassword_password "Icwil me donyo">
+<!ENTITY masterpassword_confirm "Confirm password">
 
-<!ENTITY button_ok "Kakare">
-<!ENTITY button_cancel "Jwik">
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Cancel">
 <!ENTITY button_yes "Eyo">
-<!ENTITY button_no "Pe/Ku">
-<!ENTITY button_clear_data "Ywe tic">
-<!ENTITY button_set "Ter">
+<!ENTITY button_no "No">
+<!ENTITY button_clear_data "Clear data">
+<!ENTITY button_set "Set">
 <!ENTITY button_clear "Clear">
 
-<!ENTITY abouthome_addons_title "Med iwiye pi &brandShortName; megi">
-<!ENTITY abouthome_addons_browse "Yeny &brandShortName; weng pi med iwiye">
-<!ENTITY abouthome_last_tabs_title "Lanyik megi ki kare mukato angec">
-<!ENTITY abouthome_last_tabs_open "Yab Tab weng ki i kare mukato">
-<!ENTITY abouthome_top_sites_title "Kakube maloyo">
+<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
+<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
+<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
+<!ENTITY abouthome_top_sites_title "Top sites">
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
@@ -220,13 +220,13 @@ size. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 <!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
-<!ENTITY filepicker_title "Yer Pwail">
-<!ENTITY filepicker_audio_title "Yer onyo ket tekod me dwon">
-<!ENTITY filepicker_image_title "Yer onyo ter cal">
-<!ENTITY filepicker_video_title "Yer onyo ket video">
+<!ENTITY filepicker_title "Choose File">
+<!ENTITY filepicker_audio_title "Choose or record a sound">
+<!ENTITY filepicker_image_title "Choose or take a picture">
+<!ENTITY filepicker_video_title "Choose or record a video">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Ityeko dong kube woko I">
+<!ENTITY identity_connected_to "Dong I tyeko kube ki">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -238,27 +238,27 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "En aye tiyo kwede">
+<!ENTITY identity_run_by "En tiyo ki">
 
-<!ENTITY private_data_success "Giyweyo woko tic pa dano">
-<!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
+<!ENTITY private_data_success "Private data cleared">
+<!ENTITY private_data_fail "Some private data could not be cleared">
 
-<!ENTITY bookmarkhistory_button_import "Kel ki woko">
-<!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angec
-ki Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke
- ki Android">
-<!ENTITY bookmarkhistory_import_history "Kelo kiwoko lok mukato 
-ki Android">
-<!ENTITY bookmarkhistory_import_wait "Tim ber i kur...">
+<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
+                                      from Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
+                                           from Android">
+<!ENTITY bookmarkhistory_import_history "Importing history
+                                         from Android">
+<!ENTITY bookmarkhistory_import_wait "Please wait...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
 <!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
 
-<!ENTITY webapp_generic_name "Purugram">
+<!ENTITY webapp_generic_name "App">
 
-<!ENTITY searchable_description "Alama buk ki lok mukato angec">
+<!ENTITY searchable_description "Bookmarks and history">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
@@ -266,8 +266,8 @@ ki Android">
 
 <!ENTITY updater_downloading_title2 "Golo &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Gud wek ket ngec ka dong gikwanyo oko">
-<!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
+<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
+<!ENTITY updater_downloading_retry2 "Touch to retry">
 
 <!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Gudi wek imi ngec">
+<!ENTITY updater_apply_select2 "Touch to update">

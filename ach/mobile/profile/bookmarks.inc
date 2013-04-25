@@ -25,7 +25,7 @@
 
 
 
-#define bookmarks_title Wot awota
+#define bookmarks_title Mobile
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: Makwako layeny pari
+#define bookmarks_aboutBrowser Firefox: About your browser
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox Ket kwede lamed-ikome
+#define bookmarks_addons Firefox: Customize with add-ons
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support Cwak: Firefox
+#define bookmarks_support Firefox: Support
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_aboutHome Cako Firefox
+#define bookmarks_aboutHome Firefox Start
 
 
 
