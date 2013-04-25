@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Fa San Bra">
 <!ENTITY restorepage.listHeader     "Ntokuro ne Ntab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Tokuro &#37;S">
+<!ENTITY restorepage.windowLabel    "Tokuro &#037;S">

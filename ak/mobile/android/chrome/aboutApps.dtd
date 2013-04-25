@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "Wɔn instɔɔle wɛb app biara. Gye bi firi  ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Yi-instɔl">
+<!ENTITY aboutApps.addToHomescreen "Fa ka Fie Skreen ho">

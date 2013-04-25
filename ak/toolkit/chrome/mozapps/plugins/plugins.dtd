@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tim ha sɛnea wobɛkenyan plagin no. ">
-<!ENTITY clickToPlayPlugin                                   "Klike ha fa kenyan plagin no.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Hwehwɛ ntoso…">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
@@ -56,3 +56,8 @@
 <!ENTITY report.disabled                                     "Edum krahye amandebɔ.">
 <!ENTITY report.failed                                       "Sabmihyɛn annkɔ yie.">
 <!ENTITY report.unavailable                                  "Repɔɔt biara nni nhɔ.">
+<!ENTITY report.comment                                      "Kyerɛ w'adwen (amansan nyinaa behu w'adwenkyerɛ)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
+
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">

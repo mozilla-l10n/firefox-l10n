@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Dɔkomɛnte a worehwehwɛ no nni wo brawsa asiei hɔ.</p><ul><li>Banbɔ kwan so no, brawsa no nsan mbisa dɔkomɛnte a wohia paa otomatikmu.</li><li>Klike San sɔ hwɛ sɛnea wonɛsan ebisa dɔkomɛnte no efi wɛbsaet no so.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen Tebea">
-<!ENTITY netOffline.longDesc2 "<p>Brawsa no reyɛ edwuma wɔ offlaen tebea mu nti ɔrenntumi mmfa wo ebisade no mma wo.</p><ul><li>Wo kɔmputa no ka nɛtwɛk a esi so anaa?</li><li>Mia &quot;San -sɔ-hwɛ&quot; fa wo brawsa no kɔ ɔnlaen tebea mu na san bue krataafa no.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
 <!ENTITY contentEncodingError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no osiandɛ ɔmmfa kɔmprɛhyɛn papa anaaso kɔmprɛhɛn soronko bi a Firefox nnte ase.</p><ul><li>Yɛsrɛ wo bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
