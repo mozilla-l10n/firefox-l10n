@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sinkroniseer nou">
 
 <!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "Om te aktiveer, kies &#x0022;Assosieer 'n toestel&#x0022; op die ander toestel.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
 <!ENTITY sync.account               "Rekeningnaam">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Assosieer 'n toestel">
-<!ENTITY sync.pair.description      "Om die nuwe toestel te aktiveer, kies &#x0022;Stel Sync op&#x0022; op die toestel.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Sluit">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
