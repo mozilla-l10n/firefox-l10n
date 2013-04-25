@@ -14,15 +14,15 @@
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "সমানুপাতিক ():">
-<!ENTITY  proportional.accesskey                  ")">
+<!ENTITY  proportional.label                      "সমানুপাতিক (P):">
+<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif ():">
-<!ENTITY  serif.accesskey                         ")">
-<!ENTITY  sans-serif.label                        "Sans-serif ():">
-<!ENTITY  sans-serif.accesskey                    ")">
-<!ENTITY  monospace.label                         "Monospace ():">
-<!ENTITY  monospace.accesskey                     ")">
+<!ENTITY  serif.label                             "Serif (S):">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif (n):">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace (M):">
+<!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "ৱেষ্টাৰ্ণ">
 <!ENTITY  font.langGroup.latin2                   "ছেন্ট্ৰেল ইউৰোপীয়ান">
@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "মই কৰা ওপৰৰ নিৰ্বাচনৰ সলনি, পৃষ্ঠাসমূহক নিজৰ আকৰ নিৰ্বাচন কৰাৰ আজ্ঞা দিয়ক">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Charset.grouplabel         "আখৰ এনক'ডিং">
-<!ENTITY languages.customize.DefaultCharset.label       "অবিকল্পিত আখৰ এনক'ডিং:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.Fallback.grouplabel  "কিম্বদন্তি সমলৰ বাবে আখৰ এনক'ডিং">
+<!ENTITY languages.customize.Fallback.label       "ফলবেক আখৰ এনক'ডিং (C):">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "এই আখৰ এনক'ডিং নিজস্ব এনক'ডিংৰ বিৱৰণ দিবলে ব্যৰ্থ হোৱা কিম্বদন্তি সমলৰ বাবে ব্যৱহাৰ কৰা হয়।">
