@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "Para activar su nuevo dispositivo, seleccione \&quot;Configurar &syncBrand.shortName.label;\&quot; en el dispositivo.">
 <!ENTITY sync.subtitle.header2.label "Escriba este código en su otro dispositivo">
-<!ENTITY sync.subtitle.connectlocation2.label "Seleccione “&sync.title.pair.label;” en la sección de &syncBrand.shortName.label; en las preferencias de su otro dispositivo con Firefox.">
+<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "Para activarlo, seleccione \&quot;Emparejar un dispositivo\&quot; en su otro dispositivo.">
-<!ENTITY sync.pin.default.label "…\n…\n…\n">
-<!ENTITY sync.pin.oneline.label "…">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Mostrarme cómo.">
 <!ENTITY sync.link.advancedsetup.label "Configuración avanzada…">
-<!ENTITY sync.link.nodevice.label "No tengo el dispositivo conmigo…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Esperando al otro dispositivo…">
@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Qué sincronizar">
-<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar sus…">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar sus...">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
 <!ENTITY sync.configure.engines.title.passwords "Contraseñas">
 <!ENTITY sync.configure.engines.title.history "Historial">
@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcadores en dispositivo móvil">
 <!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "Se soporta solo una cuenta de &syncBrand.fullName.label;.">

@@ -11,3 +11,5 @@
 <!ENTITY aboutApps.noApps.pre "No se han encontrado aplicaciones instaladas. Consiga algunas desde ">
 <!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Desinstalar">
+<!ENTITY aboutApps.addToHomescreen "Añadir a la pantalla de inicio">
