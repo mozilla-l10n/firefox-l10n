@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "بارگیری تصاویر">
 <!ENTITY  permPopup             "باز کردن پنجره‌های واشو">
 <!ENTITY  permCookie            "ایجاد کوکی">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "نصب ضمیمه یا تم">
 <!ENTITY  permGeo               "به اشتراک گذاشتن موقعیت مکانی">
 <!ENTITY  permPlugins           "فعال کردن افزونه‌ها">
 <!ENTITY  permFullscreen        "حالت تمام صفحه">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "نگه‌داری اطلاعات برای استفادهٔ برون‌خط">
 <!ENTITY  permClearStorage           "پاک‌سازی حافظه">

@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "به وب‌گاه‌ها اجازهٔ استفاده از کوکی داده شود">
 <!ENTITY  acceptCookies.accesskey       "ج">
 
-<!ENTITY  acceptThirdParty.label        "پذیرفتن کوکی‌های شخص ثالث">
-<!ENTITY  acceptThirdParty.accesskey    "ث">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "نگهداری شوند تا:">
 <!ENTITY  keepUntil.accesskey           "ن">

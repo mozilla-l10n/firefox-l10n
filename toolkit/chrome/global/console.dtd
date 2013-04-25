@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "ک">
 <!ENTITY evaluate.label     "برآورد">
 <!ENTITY evaluate.accesskey "ب">
-<!ENTITY filter.label       "Filter">
-<!ENTITY filter.accesskey   "F">
+<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "رونوشت برداشتن">  
 <!ENTITY copyCmd.accesskey   "ن"> 

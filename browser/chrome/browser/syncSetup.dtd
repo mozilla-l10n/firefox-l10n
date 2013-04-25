@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "تأیید گذرواژه">
 <!ENTITY setup.confirmPassword.accesskey "ت">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "با مفاد">
 <!ENTITY setup.tosAgree1.accesskey  "م">
 <!ENTITY setup.tosLink.label        "شرایط ارائهٔ خدمات">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "اتصال دستگاه">
 <!ENTITY addDevice.showMeHow.label          "نمایش روش کار">
 <!ENTITY addDevice.dontHaveDevice.label     "هم‌اکنون رایانهٔ مورد نظر همراهم نیست.">
-<!ENTITY pairDevice.setup.description.label  "برای فعال کردن، &#x0022; را انتخاب کنید. اتصال دستگاه &#x0022; در دستگاه دیگر.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "سپس این کد را وارد نمایید:">
-<!ENTITY pairDevice.dialog.description.label "برای فعال‌کردن دستگاه جدید، &#x0022; را انتخاب کنید. نصب همگام‌سازی &#x0022; در دستگاه.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "کدی که رایانهٔ دیگر نشان می‌دهد را در این‌جا وارد کنید:">
 <!ENTITY addDevice.dialog.tryAgain.label    "لطفاً دوباره تلاش کنید.">
 <!ENTITY addDevice.dialog.successful.label  "رایانهٔ جدید با موفقیت افزوده شد. هم‌گام‌سازی اولیه ممکن است چند دقیقه طول بکشد و در پس‌زمینه خاتمه خواهد یافت.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ورود">
-<!ENTITY existingRecoveryKey.description "برای دریافت کپی از کلید بازیابی خود، به &syncBrand.shortName.label; تنظیمات دستگاه رفته، و &#x0022; &quot;کلید بازیابی من&quot;&#x0022; را در زیر &quot;مدیریت حساب&quot;&#x0022;. انتخاب کنید.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "در حال وارسی…">
 <!ENTITY resetPassword.label          "پاک‌سازی گذرواژه">
 <!ENTITY resetSyncKey.label           "رایانهٔ دیگر خود را گم کرده‌ام.">
