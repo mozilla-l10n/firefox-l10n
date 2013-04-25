@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Fosgail ann an còmhradh">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Fosgail teachdaireachd an inbhir">
-<!ENTITY openFeedMessage.accesskey "o">
-<!ENTITY openFeedWebPageInWindow.label "An duilleag-lìn ann an uinneag ùr">
-<!ENTITY openFeedWebPageInWindow.accesskey "A">
-<!ENTITY openFeedSummaryInWindow.label "Gearr-chunntas ann an uinneag ùr">
-<!ENTITY openFeedSummaryInWindow.accesskey "s">
+<!ENTITY openFeedMessage1.label "Nuair a dh'fhosglar teachdaireachd inbhir">
+<!ENTITY openFeedMessage1.accesskey "h">
+<!ENTITY openFeedWebPage.label "Fosgail mar dhuilleag-lìn">
+<!ENTITY openFeedWebPage.accesskey "F">
+<!ENTITY openFeedSummary.label "Fosgail mar ghearr-chunntas">
+<!ENTITY openFeedSummary.accesskey "g">
 <!ENTITY openFeedWebPageInMP.label "Toglaich an duilleag-lìn is an gearr-chunntas ann an leòs na teachdaireachd">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 

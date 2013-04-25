@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Rannsaich na teachdaireachdan">
 <!ENTITY results.label               "Toraidhean">
-<!ENTITY fileHereMenu.label          "Faidhle an-seo">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Faidhle">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "Gluais an-seo">
+<!ENTITY moveHereMenu.accesskey      "G">
+<!ENTITY moveButton.label            "Gluais gu">
+<!ENTITY moveButton.accesskey        "u">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Fosgail sa phasgan">
 <!ENTITY openInFolder.accesskey      "F">

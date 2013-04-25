@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Co-fhilleadh an t-siostaim">
 <!ENTITY acceptIntegration.label  "Suidhich mar a' bhun-roghainn">
 <!ENTITY cancelIntegration.label  "Gearr leum thairis air a' cho-fhilleadh">
+<!ENTITY cancelIntegration2.label  "Sguir dheth">
 <!ENTITY defaultClient.intro  "Cleachd &brandShortName; mar an cliant bunaiteach airson:">
 
 <!ENTITY email.label "Post-dealain">

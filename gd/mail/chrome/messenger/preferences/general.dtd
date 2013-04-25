@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Gnàthaich…">
 <!ENTITY customizeMailAlert.accesskey     "c">
 
+<!ENTITY showTrayIcon.label               "Seall ìomhaigheag san treidhe">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Cluich">
 <!ENTITY play.accesskey                   "C">
 <!ENTITY systemsound.label                "Fuaim bhunaiteach an t-siostaim airson post ùr">
