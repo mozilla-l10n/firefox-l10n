@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Díganos qué piensa sobre &brandShortName; para Android hasta ahora.">
 <!ENTITY intro.happyLink           "Me encanta">
 <!ENTITY intro.sadLink             "Tuve algunos problemas">
-<!ENTITY intro.ideaLink            "Tengo una idea">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "U otra cosa.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "¡Nos gusta escuchar sus ideas! Por favor, comparta sus opiniones abajo. (Sólo aquellas sobre &brandShortName;, por favor)">
-<!ENTITY idea.placeholder          "Escriba su idea aquí">
-<!ENTITY idea.thanksHeader         "¡Gracias!">
-
-<!ENTITY idea.thanksMessageTop     "Agradecemos el tiempo que se ha tomado en compartir sus ideas. Siempre estamos trabajando para mejorar &brandShortName; y contribuciones como la suya pueden llevar a grandes cosas.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "No puede verlo, pero le estamos dando la mano ahora mismo.">
 
 <!ENTITY feedback.privacy          "Por favor, por su privacidad, no incluya ninguna información personal identificable en su opinión.">
 <!ENTITY feedback.send             "Enviar opinión">

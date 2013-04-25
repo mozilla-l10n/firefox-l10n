@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; es actualmente su navegador predeterminado">
 
-<!ENTITY dataChoicesTab.label            "Elección de datos">
+<!ENTITY dataChoicesTab.label            "Data Choices">
 
-<!ENTITY healthReportSection.label       "Reporte de salud de &brandShortName;">
-<!ENTITY healthReportDesc.label          "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de su navegador">
-<!ENTITY enableHealthReport.label        "Activar reporte de salud de &brandShortName;">
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Aprender más">
+<!ENTITY healthReportLearnMore.label     "Learn More">
 
 <!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizaciones de su navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
-<!ENTITY enableTelemetry.label           "Activar Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Aprender más">
+<!ENTITY telemetryLearnMore.label        "Learn More">
 
-<!ENTITY crashReporterSection.label      "Reporte de fallos">
-<!ENTITY crashReporterDesc.label         "&brandShortName; envia reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
-<!ENTITY enableCrashReporter.label       "Activar reporte de fallos">
+<!ENTITY crashReporterSection.label      "Agente de informe de fallos">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Aprender más">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "Red">
 
@@ -112,7 +112,7 @@
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Eliminar…">
+<!ENTITY offlineAppsListRemove.label     "Eliminar...">
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
 
