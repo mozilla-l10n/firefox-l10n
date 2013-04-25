@@ -7,7 +7,48 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-
+<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mixedContentBlocked.helplink "Learn more">
+<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY  pinTab.accesskey                   "P">
+ <!ENTITY  pinTab.label                       "Pin Tab">
+ <!ENTITY playPluginCmd.accesskey      "c">
+ <!ENTITY playPluginCmd.label          "Activate this plugin">
+  <!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+ <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+ <!ENTITY social.addons.label "Manage Services…">
+ <!ENTITY social.chatBar.accesskey "c">
+ <!ENTITY social.chatBar.commandkey "c">
+ <!ENTITY social.chatBar.label "Focus chats">
+ <!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+ <!ENTITY  unpinTab.accesskey                 "b">
+ <!ENTITY  unpinTab.label                     "Unpin Tab">
+ <!ENTITY urlbar.placeholder2          "Search or enter address">
+ <!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+ <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
 <!-- ENTITY viewsourcetitle.preface "চিহ্নিত বস্তুর উৎস: " -->
 
 <!--ENTITY downloadMonitor2.tooltip "ডাউনলোড উইন্ডো প্রদর্শনের জন্য ক্লিক করুন"-->
