@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "অ্যান্ড্রয়েডের জন্য &brandShortName; সম্পর্কে আপনার মন্তব্য দিন।">
 <!ENTITY intro.happyLink           "আমি এটি ভালবাসি">
 <!ENTITY intro.sadLink             "আমি কিছু সমস্যার ভিতর দিয়ে যাচ্ছি">
-<!ENTITY intro.ideaLink            "আমার একটি ধারণা আছে">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "অন্যথায়।">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "আমরা আপনাদের ধারণা শুনতে পছন্দ করি! অনুগ্রহ করে আপনার চিন্তা নিচে শেয়ার করুন।(অনুগ্রহ করে কেবলমাত্র &brandShortName;বিষয়ে।)">
-<!ENTITY idea.placeholder          "এখানে আপনার ধারণাগুলো দিন">
-<!ENTITY idea.thanksHeader         "ধন্যবাদ!">
-
-<!ENTITY idea.thanksMessageTop     "আপনার চিন্তা শেয়ার করার জন্য সময় নিচ্ছেন দেখে আমরা কৃতজ্ঞ।আমরা &brandShortName; কে আরো ভাল করার জন্য কাজ করে যাচ্ছি এবং আপনার অবদান একটি ভাল উদ্যোগ।">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "আপনি হয়ত এটি দেখতে পারছেন না, কিন্তু আমরা আপনাকে এখনি উচ্চ পাঁচটি এখনি দিচ্ছি।">
 
 <!ENTITY feedback.privacy          "আপনার গোপনীয়তা রক্ষার জন্য, অনুগ্রহ করে আপনার কোনো ফিডব্যাকের মধ্যে ব্যক্তিগতভাবে সনাক্তকরণযোগ্য তথ্য অন্তর্ভুক্ত করবেন না।">
 <!ENTITY feedback.send             "ফিডব্যাক পাঠান">

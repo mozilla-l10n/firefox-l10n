@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "এখন সিঙ্ক করুন">
 
 <!ENTITY sync.setup.title           "সিঙ্কে সংযুক্ত করুন">
-<!ENTITY sync.setup.pair            "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির; &#x0022;Pair a Device#x0022 নির্বাচন করুন।">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "আমি আমার কম্পিউটারের সামনে নেই...">
 <!ENTITY sync.setup.manual          "আপনার সিঙ্ক অ্যাকাউন্ট তথ্য প্রবেশ করান">
 <!ENTITY sync.account               "অ্যাকাউন্টের নাম">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "অন্য ডিভাইসের জন্য অপেক্ষা করা হচ্ছে...">
 
 <!ENTITY sync.pair.title            "ডিভাইস পেয়ার করুন">
-<!ENTITY sync.pair.description      "আপনার নতুন ডিভাইস সক্রিয় করার জন্য, আপনার ডিভাইসে; &#x0022;Set Up Sync#x0022 নির্বাচন করুন।">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "বন্ধ">
 <!ENTITY sync.setup.waitingdownload "আপনার ডাটা পটভূমিতে ডাউনলোড হচ্ছে। আপনি যেকোনো সময় উইন্ডো বন্ধ করতে পারেন।">
