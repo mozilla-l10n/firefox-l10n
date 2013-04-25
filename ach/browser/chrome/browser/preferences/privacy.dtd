@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Yee jami ma i kakube mukene">
 <!ENTITY  acceptCookies.accesskey       "j">
 
-<!ENTITY  acceptThirdParty.label        "Yee jami mukene">
-<!ENTITY  acceptThirdParty.accesskey    "e">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Pe">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Gwok naka wang ma i:">
 <!ENTITY  keepUntil.accesskey           "G">

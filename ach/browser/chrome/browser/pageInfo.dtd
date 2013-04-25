@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Pang Cal">
 <!ENTITY  permPopup             "Yab pye-iwi Dirija">
 <!ENTITY  permCookie            "Ter Kakube">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Ket Nyayo onyo deyo">
 <!ENTITY  permGeo               "Nywak Kabedo">
 <!ENTITY  permPlugins           "Ket rwako iyie">
 <!ENTITY  permFullscreen        "Ket Wang kompiuta lung">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Gwok Citoa mape I wiyamo">
 <!ENTITY  permClearStorage           "Ywe Citoa">
