@@ -10,15 +10,18 @@
 <!ENTITY awesomebar_bookmarks_title "Segnalibri">
 <!ENTITY awesomebar_history_title "Cronologia">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
-<!ENTITY crash_message "Si è verificato un arresto anomalo di &brandShortName;. Un elenco delle schede aperte dovrebbe essere disponibile nella pagina iniziale di &brandShortName; dopo il riavvio.">
-<!ENTITY crash_help_message "Aiutaci a risolvere il problema!">
-<!ENTITY crash_send_report_message "Invia una segnalazione a Mozilla">
-<!ENTITY crash_include_url "Includi l’indirizzo della pagina">
+<!ENTITY crash_message2 "&brandShortName; ha riscontrato un problema e si è bloccato. Le schede aperte dovrebbero essere visibili nella pagina iniziale di &brandShortName; dopo il riavvio.">
+<!ENTITY crash_send_report_message2 "Segnala a Mozilla questo problema">
+<!ENTITY crash_include_url2 "Includi l’indirizzo della pagina che si stava visitando">
+<!ENTITY crash_sorry "Siamo spiacenti">
+<!ENTITY crash_comment "Aggiungi un commento (i commenti sono visibili pubblicamente)">
+<!ENTITY crash_allow_contact "Permetti a Mozilla di contattarmi in riferimento a questa segnalazione">
+<!ENTITY crash_email "Email">
+<!ENTITY crash_closing_alert "Uscire senza inviare una segnalazione?">
+<!ENTITY sending_crash_report "Invio segnalazione\u2026">
 <!ENTITY crash_close_label "Chiudi">
 <!ENTITY crash_restart_label "Riavvia &brandShortName;">
-<!ENTITY sending_crash_report "Invio segnalazione\u2026">
 <!ENTITY exit_label "Esci">
-<!ENTITY continue_label "Continua">
 <!ENTITY launcher_shortcuts_title "&brandShortName; web app">
 <!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
 <!ENTITY choose_file "Scelta file">
