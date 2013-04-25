@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Finndeeji danndaaɗi">
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
-<!ENTITY pref_private_data_siteSettings "Cuɓoraaɗe lowre">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Piille gaawtaaɗe">
 
 <!ENTITY pref_update_autodownload "Kesɗitine jaajol">

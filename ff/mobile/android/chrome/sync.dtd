@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sanngoɗin Jooni">
 
 <!ENTITY sync.setup.title           "Seŋondir ngam waɗde Sync">
-<!ENTITY sync.setup.pair            "Ngam daaƴtude, labo &#x0022;Jokkondir Kaɓirgol&#x0022; e kaɓirgol maa ngola.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Mi ɓadaaki ordinateer am…">
 <!ENTITY sync.setup.manual          "Naatnu humpito konte maa Sync">
 <!ENTITY sync.account               "Innde Konte">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Nana sabbii kabirgol goɗngol ngol…">
 
 <!ENTITY sync.pair.title            "Jokkondir Kaɓirɗi">
-<!ENTITY sync.pair.description      "Ngam daaƴtude kaɓirgol maa kesol, labo &#x0022;Teelto Sync&#x0022; e kaɓirgol ngol.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Uddu">
 <!ENTITY sync.setup.waitingdownload "Keɓe maa ngoni jooni ko e aawteede e cakkitol. Aɗa waawi uddude ndee henorde nde njiɗ-ɗaa kala.">
