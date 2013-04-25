@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "أخبرنا بانطباعاتك عن &brandShortName; لأندرويد حتى الآن.">
 <!ENTITY intro.happyLink           "يعجبني">
 <!ENTITY intro.sadLink             "واجهت بعض المشاكل">
-<!ENTITY intro.ideaLink            "لدي فكرة">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "وإلا.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "يسعدنا سماع اقتراحاتك. من فضلك شاركنا أفكارك أدناه. (الأفكار التي تخص &brandShortName; من فضلك.)">
-<!ENTITY idea.placeholder          "اكتب فكرتك هنا">
-<!ENTITY idea.thanksHeader         "شكرًا!">
-
-<!ENTITY idea.thanksMessageTop     "نقدر تجشمك عناء الكتابة لمشاركتنا أفكارك. نعمل دائما على جعل &brandShortName; أفضل ومساهمات كهذه قد تؤدي إلى أمور رائعة.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "قد لا ترانا، لكننا نلوح لك بالتحية الآن.">
 
 <!ENTITY feedback.privacy          "للحفاظ على خصوصيتك، لا تضع أي معلومات شخصية في انطباعاتك التي ترسلها إلينا.">
 <!ENTITY feedback.send             "أرسل الانطباعات">

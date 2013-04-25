@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "كلمات السر المحفوظة">
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
-<!ENTITY pref_private_data_siteSettings "تفضيلات الموقع">
+<!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
 <!ENTITY pref_private_data_downloadFiles "الملفّات المُنزّلة">
 
 <!ENTITY pref_update_autodownload "التحديثات التلقائية">
