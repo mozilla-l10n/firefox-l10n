@@ -150,6 +150,22 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ব্যতিক্রম…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetrySection.label          "Telemetry">
 
 <!-- ENTITY offlineAppsList.label           "নিম্নলিখিত ওয়েব-সাইটগুলি দ্বারা অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে তথ্য সংরক্ষণ করা হয়েছে:" -->
 <!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">

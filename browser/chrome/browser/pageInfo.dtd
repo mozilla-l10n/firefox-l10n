@@ -61,6 +61,8 @@
 <!ENTITY  generalSize           "মাপ:">
 <!ENTITY  generalReferrer       "উল্লেখকারী URL:">
 <!ENTITY  generalSource         "ক্যাশের উৎস:">
+<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
 <!-- ENTITY  generalSent           "প্রেরিত:" -->
 <!ENTITY  generalModified       "পরিবর্তিত:">
 <!-- ENTITY  generalExpires        "মেয়াদপূর্তী:" -->
