@@ -14,15 +14,18 @@
 <!ENTITY  awesomebar_switch_to_tab "Aller à l\u0027onglet">
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
-<!ENTITY  crash_help_message "Aidez-nous à corriger ce problème !">
-<!ENTITY  crash_send_report_message "Envoyer un rapport de plantage à Mozilla">
-<!ENTITY  crash_include_url "Inclure l\u0027adresse de la page">
+<!ENTITY  crash_message2 "&brandShortName; a rencontré un problème et a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
+<!ENTITY  crash_send_report_message2 "Informer Mozilla de ce problème pour qu\u0027il puisse être corrigé">
+<!ENTITY  crash_include_url2 "Inclure l\u0027URL de la page où vous vous trouviez">
+<!ENTITY  crash_sorry "Nous sommes désolés">
+<!ENTITY  crash_comment "Ajouter un commentaire (les commentaires sont publiquement visibles)">
+<!ENTITY  crash_allow_contact "Permettre à Mozilla de vous contacter à propos de ce rapport">
+<!ENTITY  crash_email "Votre adresse électronique">
+<!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
+<!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  crash_close_label "Fermer">
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
-<!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  exit_label "Quitter">
-<!ENTITY  continue_label "Continuer">
 
 <!ENTITY  launcher_shortcuts_title "Applications web pour &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Aucune application web trouvée">
