@@ -53,7 +53,7 @@ que &brandShortName; tiene permiso ta accedir ta la web.</li>
 
 <!ENTITY netOffline.title "Modo sin connexión">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Prete &quot;Tornar a prebar-lo&quot; ta tornar enta o modo con connexión y recargar a pachina.</li> 
+<li>Faiga clic en «Tornar-lo a probar» ta tornar o modo en linia y esviellar a pachina.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación d'o conteniu">

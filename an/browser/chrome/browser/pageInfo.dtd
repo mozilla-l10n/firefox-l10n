@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Cargar imachens">
 <!ENTITY  permPopup             "Ubrir finestras emerchents">
 <!ENTITY  permCookie            "Establir cookies">
+<!ENTITY  permNotifications     "Amostrar as notificacions">
 <!ENTITY  permInstall           "Instalar extensions u temas">
 <!ENTITY  permGeo               "Compartir a ubicación">
 <!ENTITY  permPlugins           "Activar os plugins">
 <!ENTITY  permFullscreen        "Activar a pantalla completa">
+<!ENTITY  permPointerLock       "Zaboyar o puntero">
 
 <!ENTITY  permIndexedDB              "Mantener l'almagazenamiento en modo sin connexión">
 <!ENTITY  permClearStorage           "Limpiar l'almagazenamiento">

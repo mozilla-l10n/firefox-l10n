@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "Arredol de l'«Arredol de»">
-<!ENTITY aboutAbout.note   "Ista ye una lista de pachinas “arredol de” ta la suya comodidat.<br/> 
-Belunas d'ellas podrían resultar confusas. Belatras nomás sirven ta fer diagnosticos.<br/> Y belatras s'omiten porque requieren parametros de consulta.">
+<!ENTITY aboutAbout.note   "Ista ye una lista de pachinas «Quanto a» ta la suya comodidat.<br/> 
+Belunas pueden ser un poco confusas. Belatras sirven nomás ta realizar diagnosticos.<br/> 
+Y se n'han omitiu d'atras porque requieren cadenas de consulta.">

@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.label        "Mesmo as de tercers">
-<!ENTITY  acceptThirdParty.accesskey    "t">
+<!ENTITY  acceptThirdParty.pre.label      "Acceptar as cookies de tercers:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Siempre">
+<!ENTITY  acceptThirdParty.never.label    "Nunca">
+<!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
 
 <!ENTITY  keepUntil.label               "Conservar-las dica:">
 <!ENTITY  keepUntil.accesskey           "d">

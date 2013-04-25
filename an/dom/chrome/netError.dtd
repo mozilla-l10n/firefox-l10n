@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>No s'ha trobau o documento solicitau en a memoria caché d'o navegador.</p><ul><li>Por precaución, o navegador no tornará a demandar o documento a o servidor automaticament.</li><li>Faiga clic en 'Tornar-lo a intentar' ta tornar a demandar o documento a o puesto web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin connexión">
-<!ENTITY netOffline.longDesc2 "<p>O navegador ye operando en modo sin connexión y no se puede connectar con l'elemento solicitau.</p><ul><li>Ye connectau l'equipo a un ret activo?</li><li>Prete &quot;Reintentar&quot; ta pasar a modo con connexión y recargar a pachina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegador ye treballando fuera de linia y no puet connectar-se a l&apos;elemento solicitau.</p><ul><li>Ye l&apos;ordinador connectau a un ret activo?</li><li>Prete &quot;Torne a probar-lo&quot; ta cambiar t&apos;o modo en linia y tornar a cargar a pachina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación d'o conteniu">
 <!ENTITY contentEncodingError.longDesc "<p>a pachina que ye mirando de veyer no puede amostrar porque usa una forma no valida u no admitida de compresión.</p><ul><li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul>">

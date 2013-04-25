@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Pachina nueva, no s'ha alzau encara]">
 <!ENTITY EditHEADSource1.label "Usuarios abanzaus:">
-<!ENTITY EditHEADSource2.label "Ta editar atros contenius d'a sección &lt;head&gt; emplegue &quot;Fuent HTML&quot; en o menú Veyer u en a barra de ferramientas d'o modo d'edición.">
+<!ENTITY EditHEADSource2.label "Ta editar atros contenius d&apos;a sección &lt;head&gt;, faiga servir &quot;Fuent HTML&quot; en o menú Visualizar u en a barra de ferramientas d&apos;o modo d&apos;edición.">

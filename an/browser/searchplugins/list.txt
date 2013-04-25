@@ -1,4 +1,3 @@
 google
 wikipedia-an
-gea
 bing

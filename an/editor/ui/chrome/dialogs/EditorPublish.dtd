@@ -34,8 +34,8 @@
 <!ENTITY pageTitleExample.label       "p. eix.: &quot;O mío puesto web&quot;">
 <!ENTITY filename.label               "Nombre de fichero:">
 <!ENTITY filename.accesskey           "f">
-<!ENTITY filename.tooltip             'Introduzca un nombre ta iste fichero, incluindo ".html" si se tracta d&apos;una pachina web'>
-<!ENTITY filenameExample.label        "p. eix.: &quot;amíapachina.html&quot;">
+<!ENTITY filename.tooltip             "Introduzca un nombre ta iste fichero, incluindo &quot;.html&quot; si se tracta d&apos;una pachina web">
+<!ENTITY filenameExample.label        "p. eix.,: &quot;amiapachina.html&quot;">
 <!ENTITY setDefaultButton.label       "Definir como predeterminau">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Eliminar o puesto">
@@ -47,8 +47,8 @@
 <!ENTITY loginInfo.label              "Servidor d'a sesión">
 <!ENTITY siteName.label               "Nombre d'o puesto:">
 <!ENTITY siteName.accesskey           "o">
-<!ENTITY siteName.tooltip             'Una embotada que identifica iste puesto de publicación (por eixemplo, "OMíoPuesto")'>
-<!ENTITY siteUrl.label                'Ubicación d&apos;a publicación (por eixemplo, "ftp://ftp.omiofsi.com/omionombredeusuario"):'>
+<!ENTITY siteName.tooltip             "Una embotada que identifica iste puesto de publicación (por eixemplo, &quot;OMíoPuesto&quot;)">
+<!ENTITY siteUrl.label                "Ubicación d&apos;a publicación (por eixemplo, &quot;ftp://ftp.omiofsi.com/omionombredeusuario&quot;):">
 <!ENTITY siteUrl.accesskey            "U">
 <!ENTITY siteUrl.tooltip              "L'adreza ftp:// u http:// proporcionada por o suyo FSI u servicio d'aloch web">
 <!ENTITY browseUrl.label              "L'adreza http d'a suya pachina d'inicio (p. eix.: 'http://www.omiofsi.com/omionombredeusuario'):">

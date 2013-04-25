@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Con son">
 <!ENTITY mediaUnmute.accesskey       "s">
+<!ENTITY mediaPlaybackRate.label     "Velocidat de reproducción">
+<!ENTITY mediaPlaybackRate.accesskey "r">
+<!ENTITY mediaPlaybackRate050x.label "Lento (0.5x)">
+<!ENTITY mediaPlaybackRate050x.accesskey "L">
+<!ENTITY mediaPlaybackRate100x.label "Normal">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Alta velocidat (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "A">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Velocidat absurda (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "a">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Amostrar a barra lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
+<!ENTITY social.addons.label "Chestionar os servicios...">
+
 <!ENTITY social.toggleNotifications.label "Amostrar as notificacions d'escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -633,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Saber-ne mas">
 <!ENTITY mixedContentBlocked.moreinfo "A mas gran parte d'os puestos web funcionarán bien mesmo con iste conteniu blocau.">
+
+<!ENTITY pointerLock.notification.message "Pretar ESC en qualsiquier momento ta amostrar-lo de nuevas.">

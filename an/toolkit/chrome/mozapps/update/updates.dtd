@@ -33,8 +33,8 @@ pero no disposa d'espacio suficient ta instalar-la.">
 <!ENTITY  evangelism.desc                 "Ye muit recomendable que aplique ista actualización 
 ta &brandShortName; antes con antes.">
 
-<!ENTITY  license.instructions            'Si ye d&apos;alcuerdo con os termins d&apos;iste alcuerdo, prete "Soi d&apos;alcuerdo" 
-mas abaixo ta continar instalando ista actualización.'>
+<!ENTITY  license.instructions            "Si ye d&apos;alcuerdo con os termins d&apos;iste alcuerdo, prete &quot;Soi d&apos;alcuerdo&quot; 
+mas abaixo ta continar instalando ista actualización.">
 
 <!ENTITY  license.titleText               "Alcuerdo de licencia de software">
 <!ENTITY  license.introText               "Termins y condicions d'uso d'iste software.">
