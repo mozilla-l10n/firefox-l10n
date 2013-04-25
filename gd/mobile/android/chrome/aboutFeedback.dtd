@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Nach innis thu dhuinn dè do bheachd air &brandShortName; airson Android gu ruige seo?">
 <!ENTITY intro.happyLink           "Tha e glan taghta">
 <!ENTITY intro.sadLink             "Thachair mi ri dhuilgheadas no dhà">
-<!ENTITY intro.ideaLink            "Tha beachd agam dhuibh">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "Air neo.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "Tha sinn fìor dhèidheil air do bheachdan! Nach innis thu dhuinn na tha air d' inntinn? (Dìreach a thaobh &brandShortName; ge-tà!)">
-<!ENTITY idea.placeholder          "Cuir do bheachd an-seo">
-<!ENTITY idea.thanksHeader         "Taing!">
-
-<!ENTITY idea.thanksMessageTop     "Tha sinn fada 'nad chomain. Tha sinn a' sìor leasachadh &brandShortName; agus mar is pailt a bhios na beachdan a gheibh sinn, 's ann as fhearr a bhios e.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "Chan fhaic thu e ach tha sinn a' dèanamh high five riut an-dràsta fhèin.">
 
 <!ENTITY feedback.privacy          "Air sgàth adhbharan prìobhaideachd, na cuir a-steach fiosrachadh pearsanta 'nad bheachdan.">
 <!ENTITY feedback.send             "Cuir thugainn do bheachdan">
