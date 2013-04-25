@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "পাছৱাৰ্ড সুনিশ্চিত কৰক">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Windows 8 শৈলী &brandShortName; ৰ সৈতে সংমিহলি (S)">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "মই  মানি লৈছো">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "সেৱাৰ চুক্তিসমূহ">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "এটা ডিভাইচ সংযুক্ত কৰক">
 <!ENTITY addDevice.showMeHow.label          "মোক দেখুৱাওক কেনেকৈ।">
 <!ENTITY addDevice.dontHaveDevice.label     "মোৰ উচৰত ডিভাইচটো নাই">
-<!ENTITY pairDevice.setup.description.label  "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত  &#x0022;Pair  এটা ডিভাইচ&#x0022; নিৰ্বাচন কৰক।">
+<!ENTITY pairDevice.setup.description.label  "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত &quot;এটা ডিভাইচ যোৰ কৰক&quot; নিৰ্বাচন কৰক।">
 <!ENTITY addDevice.setup.enterCode.label    "তাৰ পিচত, এই ক'ডটো সুমুৱাওক:">
-<!ENTITY pairDevice.dialog.description.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত  &#x0022;Set আপ সংমিহলি&#x0022; নিৰ্বাচন কৰক।">
+<!ENTITY pairDevice.dialog.description.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত &quot;সংমিহলি সংস্থাপন কৰক&quot; নিৰ্বাচন কৰক।">
 <!ENTITY addDevice.dialog.enterCode.label   "ডিভাইচে যোগান দিয়া ক'ড সুমুৱাওক:">
 <!ENTITY addDevice.dialog.tryAgain.label    "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
 <!ENTITY addDevice.dialog.successful.label  "ডিভাইচটো সফলভাৱে যোগ কৰা হল। আৰম্ভণিৰ সংমিহলি বহু সময় লব পাৰে পটভূমিত সমাপ্ত হব।">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "ছাইন ইন কৰক">
-<!ENTITY existingRecoveryKey.description "আপুনি আপোনাৰ উদ্ধাৰ কি'ৰ এটা কপি আপোনাৰ অন্য ডিভাইচত &syncBrand.shortName.label; বিকল্পসমূহত গৈ, আৰু &#x0022;Manage একাওন্ট&#x0022;  ৰ অন্তৰ্গত &#x0022;My উদ্ধাৰ কি'&#x0022; নিৰ্বাচন কৰি পাব পাৰে।">
+<!ENTITY existingRecoveryKey.description "আপুনি আপোনাৰ উদ্ধাৰ কি&apos;ৰ এটা কপি আপোনাৰ অন্য ডিভাইচত &syncBrand.shortName.label; বিকল্পসমূহত গৈ, আৰু &quot;একাওন্ট ব্যৱস্থাপনা কৰক&quot; ৰ অন্তৰ্গত &quot;মোৰ উদ্ধাৰ কি&apos;&quot; নিৰ্বাচন কৰি পাব পাৰে।">
 <!ENTITY verifying.label              "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
 <!ENTITY resetPassword.label          "পাছৱাৰ্ড পুনৰ সংহতি কৰক">
 <!ENTITY resetSyncKey.label           "মই মোৰ অন্য ডিভাইচ হেৰাই পেলাইছো">
