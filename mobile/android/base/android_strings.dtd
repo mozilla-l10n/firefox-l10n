@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
-<!ENTITY pref_private_data_siteSettings "Roghainnean na làraich">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
 
 <!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
