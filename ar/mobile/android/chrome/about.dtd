@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "التمس التحديثات »">
 <!ENTITY aboutPage.checkForUpdates.checking     "يبحث عن التحديثات…">
 <!ENTITY aboutPage.checkForUpdates.none         "لا تحديثات متوفرة">
-<!ENTITY aboutPage.checkForUpdates.found        "هناك تحديث متوفر">
+<!ENTITY aboutPage.checkForUpdates.available    "يتوفّر تحديث؛ انقر لتنزيله">
+<!ENTITY aboutPage.checkForUpdates.downloading  "يُنزّل التحديث…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "تم تنزيل التحديث؛ انقر لتثبيته">
 <!ENTITY aboutPage.faq.label                    "الأسئلة الأكثر شيوعًا">
 <!ENTITY aboutPage.support.label                "الدعم">
 <!ENTITY aboutPage.privacyPolicy.label          "سياسة الخصوصية">

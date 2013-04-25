@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "صفحة وب يُشتبه بأنها مزوّرة">
-
-<!ENTITY safeb.palm.message.p1 "أُبلغ عن هذه الصفحة أنها صفحة وب مزوّرة تهدف لخداع المستخدمين وجعلهم يقدمون معلوماتهم الشخصية أو المالية. إدخال معلومات شخصية في هذه الصفحة قد يؤدي إلى انتحال الهوية أو أنواع أخرى من الاحتيال.&#160;">
-<!ENTITY safeb.palm.message.p1.linkText "اقرأ المزيد &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "اقرأ المزيد &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "هذه النوعية من صفحات الوب المزوّرة تُستخدم في عمليات نصب تُدعى عمليات التصيّد (phishing)، حيث تحاول صفحة الوب أو البريد المزوّر تقليد المصادر التي تثق بها. يمكنك معرفة المزيد عن ">
-<!ENTITY safeb.palm.message.p2.linkText "كيفية حماية &brandShortName; لك">
-<!ENTITY safeb.palm.message.p2.end " من هجمات التصيّد.">
-
 <!ENTITY safeb.palm.accept.label "أخرجني من هنا!">
-<!ENTITY safeb.palm.accept.statustext "أرجعني إلى صفحة البداية الخاصة بي">
 <!ENTITY safeb.palm.decline.label "تجاهل هذا التحذير">
-<!ENTITY safeb.palm.decline.statustext "أغلِق التحذير" >
 <!ENTITY safeb.palm.notforgery.label2 "هذه ليست صفحة وب مزوّرة…">
 <!ENTITY safeb.palm.reportPage.label "لماذا حُظرت هذه الصفحة؟">
 
