@@ -12,3 +12,7 @@
 <!ENTITY subject.accesskey        "T">
 <!ENTITY sender.label             "Nadawca">
 <!ENTITY sender.accesskey         "N">
+
+<!ENTITY totalOpenTimeBefore.label "Wyświetlaj powiadomienia przez">
+<!ENTITY totalOpenTimeBefore.accesskey "W">
+<!ENTITY totalOpenTimeEnd.label "s.">
