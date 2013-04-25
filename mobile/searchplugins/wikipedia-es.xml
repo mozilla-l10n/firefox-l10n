@@ -7,9 +7,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://es.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://es.wikipedia.org/wiki/Especial:Buscar">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://es.wikipedia.org/wiki/Special:Search</SearchForm>
+<SearchForm>http://es.wikipedia.org/wiki/Especial:Buscar</SearchForm>
 </SearchPlugin>
