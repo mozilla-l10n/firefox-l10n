@@ -13,11 +13,11 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Lejoju kontakteve të mi të shohin se jam i plogësht pas">
-<!ENTITY  reportIdleAfter.accesskey     "L">
+<!ENTITY  reportIdleAfter.label         "Kontakteve të mia lejoju të më shohin si të plogësht pas">
+<!ENTITY  reportIdleAfter.accesskey     "K">
 <!ENTITY  idleTime                      "minutash pa veprimtari">
 
-<!ENTITY  andSetStatusToAway.label      "dhe gjendjen time kaloje si i Larguar dhe me këtë mesazh gjendjeje:">
+<!ENTITY  andSetStatusToAway.label      "dhe gjendjen time kaloje si i Larguar, dhe me këtë mesazh gjendjeje:">
 <!ENTITY  andSetStatusToAway.accesskey  "d">
 
 <!ENTITY  sendTyping.label              "Dërgo gjatë bashkëbisedimeve njoftime lidhur me shtypje në tastierë">

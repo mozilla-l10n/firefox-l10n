@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Gjurmim">
 
-<!ENTITY doNotTrack.label               "Thuaju &quot;site&quot;-eve web që nuk dëshiroj të më gjurmojnë">
-<!ENTITY doNotTrack.accesskey           "T">
+<!ENTITY dntTrackingNopref.label        "Mos u thuaj gjë &quot;site&quot;-eve rreth parapëlqimeve të mia për gjurmimet.">
+<!ENTITY dntTrackingNopref.accesskey    "M">
+<!ENTITY dntTrackingNotOkay.label       "Thuaju &quot;site&quot;-eve që nuk dëshiroj të më gjurmojnë.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Thuaju &quot;site&quot;-eve që dëshiroj të më gjurmojnë.">
+<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY doNotTrackInfo.label           "Mësoni Më Tepër">
 
 <!ENTITY  history.label "Historik">
 
@@ -25,8 +30,11 @@
 <!ENTITY  showCookies.label             "Shfaqni &quot;Cookies&quot;…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">
-<!ENTITY  acceptThirdParty.accesskey    "e">
+<!ENTITY  acceptThirdParty.pre.label      "Prano cookie palësh të treta:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Përherë">
+<!ENTITY  acceptThirdParty.never.label    "Kurrë">
+<!ENTITY  acceptThirdParty.visited.label  "Prej të vizituarish">
 
 <!ENTITY  locbar.pre.label              "Kur përdoret shtylla e vendeve, jep sugjerime:">
 <!ENTITY  locbar.pre.accessKey          "K">
