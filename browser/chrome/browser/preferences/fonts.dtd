@@ -68,7 +68,7 @@
 <!ENTITY allowPagesToUse.label                   "Tillad sider at vælge deres egne skrifttyper, i stedet for mine valg">
 <!ENTITY allowPagesToUse.accesskey               "T">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Tegnkodning for arvet indhold">
+<!ENTITY languages.customize.Fallback.grouplabel  "Tegnkodning for indhold">
 <!ENTITY languages.customize.Fallback.label       "Reserve-tegnkodning:">
 <!ENTITY languages.customize.Fallback.accesskey   "R">
-<!ENTITY languages.customize.Fallback.desc        "Denne tegnkodning bruges for arvet indhold, som ikke indeholder en erklæring om tegnkodning.">
+<!ENTITY languages.customize.Fallback.desc        "Denne tegnkodning bruges for indhold, som mangler en erklæring om tegnkodning.">
