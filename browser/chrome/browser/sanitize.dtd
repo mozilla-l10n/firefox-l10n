@@ -14,6 +14,8 @@
 <!ENTITY itemPasswords.accesskey      "P">
 <!ENTITY itemCookies.label            "কুকি">
 <!ENTITY itemCookies.accesskey        "C">
+<!ENTITY column.width2                 "17em">
+<!ENTITY dialog.width2                 "34em">
 <!-- ENTITY itemCache.label              "ক্যাশে" -->
 <!-- ENTITY itemCache.accesskey          "a" -->
 <!-- ENTITY itemDownloads.label          "ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য" -->
