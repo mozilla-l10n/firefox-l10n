@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Hwehwɛ Ntoso »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Rehwehwɛ ntoso…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ntoso nni hɔ">
-<!ENTITY aboutPage.checkForUpdates.found        "Ntoso wɔ hɔ">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "Nsɛmmisa ne Mbuae">
 <!ENTITY aboutPage.support.label                "Mboa">
 <!ENTITY aboutPage.privacyPolicy.label          "Siesɛm Mbra">
