@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Azerbaijani
+#define MOZ_LANG_TITLE Azerbaijani (AZ)
