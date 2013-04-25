@@ -43,6 +43,18 @@
 <!--ENTITY cmd.removeFromList.accesskey     "e"-->
 <!ENTITY cmd.clearList.label              "তালিকা পরিশ্রুত করুন">
 <!ENTITY cmd.clearList.accesskey          "a">
+<!ENTITY clearDownloadsButton.label       "Clear Downloads">
+<!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "Remove From History">
+<!ENTITY downloadDetails.width            "50ch">
+<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.label           "Show All Downloads">
+<!ENTITY downloadsListEmpty.label         "There are no downloads.">
+<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!-- ENTITY downloadshistory.label           "সব ডাউনলোড প্রদর্শন করা হবে" -->
 <!-- ENTITY downloadshistory.accesskey       "S" -->
