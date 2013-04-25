@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "گذرواژه‌های ذخیره شده">
 <!ENTITY pref_private_data_cache "حافظهٔ نهان">
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
-<!ENTITY pref_private_data_siteSettings "اولویت وب‌گاه‌">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
