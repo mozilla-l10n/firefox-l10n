@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ড">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
-<!ENTITY pref_private_data_siteSettings "সাইটের পছন্দসমূহ">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
 <!ENTITY pref_update_autodownload "স্বয়ংক্রিয় হালনাগাদ">
