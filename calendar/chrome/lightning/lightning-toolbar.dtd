@@ -23,7 +23,7 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Évènement">
-<!ENTITY lightning.toolbar.newtask.label      "Tâches">
+<!ENTITY lightning.toolbar.newtask.label      "Tâche">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label "Journée">
