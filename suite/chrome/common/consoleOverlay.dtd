@@ -12,10 +12,10 @@
 <!ENTITY toolbarEval.label     "Entrada de JavaScript">
 <!ENTITY toolbarEval.accesskey "J">
 
-<!ENTITY all.accesskey         "A">
+<!ENTITY all.accesskey         "T">
 <!ENTITY errors.accesskey      "r">
 <!ENTITY warnings.accesskey    "n">
 <!ENTITY messages.accesskey    "M">
 <!ENTITY clear.accesskey       "l">
 <!ENTITY evaluate.accesskey    "u">
-<!ENTITY filter.accesskey      "k">
+<!ENTITY filter2.accesskey     "i">

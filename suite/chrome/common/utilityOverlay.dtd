@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY  offlineGoOfflineCmd.label                 "Trabajar sin conexión">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "T">
@@ -18,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Ventana del navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
+<!ENTITY newPrivateWindowCmd.label "Ventana privada">
+<!ENTITY newPrivateWindowCmd.key "p">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista previa">
@@ -61,7 +68,7 @@
 <!ENTITY showSuggestionsCmd.accesskey		"s"> 
 <!ENTITY preferencesCmd.label				"Preferencias…">
 <!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"f"> 
+<!ENTITY preferencesCmd.accesskey			"e"> 
 <!ENTITY findCmd.key "F">
 <!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
      findCmd.label found in messengercompose.dtd, messenger.dtd and
