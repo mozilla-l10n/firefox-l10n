@@ -22,7 +22,6 @@
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY alwaysCheckDefault.label       "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY checkNow.accesskey            "N">
 <!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -60,7 +59,8 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "ස්ථාපනය කළ එක්-කිරීම්">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "දැන් පරීක්ෂා කරන්න...">
+<!ENTITY checkDefaultsNow.label        "දැන් පරීක්ෂා කරන්න…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY whenUpdatesFound.label         "&brandShortName; සඳහා යාවත්කාලීන කිරීම් හමු වූ විට,">
 <!ENTITY modeAskMe.label                "මට කිරීමට අවශ්‍ය කුමක්ද යන්න විමසන්න">
 <!ENTITY modeAskMe.accesskey            "k">

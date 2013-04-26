@@ -13,10 +13,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "ලිපි සෙවීම">
 <!ENTITY results.label               "ප්‍රතිඵල">
-<!ENTITY fileHereMenu.label          "මෙහි ගොනුගත කරන්න">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "ගොනු">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "Move Here">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "ෆෝල්ඩරය තුළ විවෘත කරන්න">
 <!ENTITY openInFolder.accesskey      "r">

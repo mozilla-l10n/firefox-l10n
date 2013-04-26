@@ -24,6 +24,10 @@
 <!ENTITY customizeMailAlert.label         "රිසිකරණය...">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
+
+
 <!ENTITY play.label                       "වාදනය කරන්න">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "නව ලිපි සඳහා පෙරනිමි පද්ධති නාදය">
