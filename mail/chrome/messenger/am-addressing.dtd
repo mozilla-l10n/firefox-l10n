@@ -35,3 +35,8 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "යොමුකිරීම් සඳහා අත්සන ඇතුලත් කරන්න">
 <!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

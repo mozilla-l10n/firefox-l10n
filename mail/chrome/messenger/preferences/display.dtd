@@ -12,16 +12,11 @@
 <!ENTITY regularSize.label                "සාමාන්‍ය">
 <!ENTITY bigger.label                     "වඩා විශාල">
 <!ENTITY smaller.label                    "වඩා කුඩා">
-<!ENTITY color.label                      "වර්ණය:">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY quotedTextColor.label            "වර්ණය:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "සාමාන්‍ය පාඨ ලිපි">
 <!ENTITY displayText.label		  "උදෘත (quoted) සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
 <!ENTITY colors.label                     "වර්ණ">
-<!ENTITY overrideColors.label             "ලිපි පෙන්වන විටදී, පහත වර්ණ භාවිතා කරන්න:">
-<!ENTITY textColor.label                  "පාඨ වර්ණය:">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "පසුබිම් වර්ණය:">
-<!ENTITY backgroundColor.accesskey        "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "ඉමෝටිකෝන (emoticons) පිංතූර ලෙස පෙන්වන්න">
@@ -36,11 +31,13 @@
 <!ENTITY removeTagButton.label            "මකන්න">
 <!ENTITY removeTagButton.accesskey        "l">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "ෆොන්ට">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "ෆොන්ට සහ වර්ණ">
 <!ENTITY defaultFont.label       "පෙරනිමි ෆොන්ටය:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "තරම:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label                "අකුරු...">
+<!ENTITY fontOptions.label       "අකුරු...">
+<!ENTITY colorButton.label       "වර්ණ…">
+<!ENTITY colorButton.accesskey   "C">
