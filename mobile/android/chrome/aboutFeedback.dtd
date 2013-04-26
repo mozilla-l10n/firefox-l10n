@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Sagen Sie uns, was Sie bislang von &brandShortName; für Android halten.">
 <!ENTITY intro.happyLink           "Ich liebe es">
 <!ENTITY intro.sadLink             "Ich hatte einige Probleme damit">
-<!ENTITY intro.ideaLink            "Ich habe eine Idee">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Wir freuen uns auf Ihre Ideen! Bitte teilen Sie uns Ihre Vorschläge hier mit. (Nur jene für &brandShortName;, bitte.)">
-<!ENTITY idea.placeholder          "Geben Sie Ihre Vorschläge hier ein">
-<!ENTITY idea.thanksHeader         "Danke!">
-
-<!ENTITY idea.thanksMessageTop     "Wir wissen die Zeit für die Übermittlung der Ideen wertzuschätzen. Wir arbeiten stets daran, &brandShortName; zu verbessern und Unterstützungen wie Ihre können zu großen Dingen führen.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Sie können es zwar nicht sehen, aber Sie sind uns gerade helfend zur Hand gegangen.">
 
 <!ENTITY feedback.privacy          "Zum Schutz Ihrer Privatsphäre sollten Sie keine Sie identifizierenden Informationen in Ihrem Feedback angeben.">
 <!ENTITY feedback.send             "Feedback absenden">
