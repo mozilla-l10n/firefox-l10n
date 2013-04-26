@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "හකුලන්න">
 <!ENTITY bringAllToFront.label    "සියල්ල ඉදිරියට ගෙන එන්න">
@@ -10,6 +14,23 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "උදව්"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "&brandShortName; පිළිබඳ">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; උදව්">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
+<!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "දෝෂ සෙවීමේ තොරතුරු">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "ප්‍රතිචාරය යවන්න…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
 <!ENTITY preferencesCmdMac.label        "මනාපයන්...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
@@ -17,24 +38,8 @@
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; සඟවන්න">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
+
 <!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY aboutProduct.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpFeedbackPage.accesskey "S">
-<!ENTITY productHelp.accesskey "H">
-<!ENTITY helpSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
-<!ENTITY helpFeedbackPage.label "ප්‍රතිචාරය යවන්න…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY productHelp.label "&brandShortName; උදව්">
-<!ENTITY aboutProduct.label "&brandShortName; පිළිබඳ">
-<!ENTITY helpMac.commandkey "?">
-<!ENTITY helpTroubleshootingInfo.label "දෝෂ සෙවීමේ තොරතුරු">

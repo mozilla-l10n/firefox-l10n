@@ -1,26 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  connectionsDialog.title       "සම්බන්ධතාවයේ සැකසුම්">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "අන්තර්ජාල ප්‍රවේශයට ප්‍රොක්සි සැකසුම්">
-
+<!ENTITY  noProxyTypeRadio.label        "ප්‍රොක්සි නැත">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "පද්ධති ප්‍රොක්සි සැකසුම් භාවිතා කරන්න">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-
-
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා ප්‍රොක්සි සැකසුම් ස්වයංක්‍රීයව හදුනා ගන්න">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "අභිමත ප්‍රොක්සි සැකසුම්:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "ස්වයංක්‍රීය ප්‍රොක්සි සැකසුම් URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-
 <!ENTITY  reload.label                  "යළි පූරණය">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ප්‍රොක්සි:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP ප්‍රොක්සි:">
-<!ENTITY  http.accesskey                "y">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL ප්‍රොක්සි:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS හොස්ට්:">
@@ -38,8 +41,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "උදාහරණ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "සියලු නියමාවලි සඳහා එකම ප්‍රොක්සි භාවිතා කරන්න">
-<!ENTITY  shareproxy.accesskey          "x">
-<!ENTITY  WPADTypeRadio.label           "මෙම ජාලය සඳහා ප්‍රොක්සි සැකසුම් ස්වයංක්‍රීයව හදුනා ගන්න">
-
-<!ENTITY  noProxyTypeRadio.label        "ප්‍රොක්සි නැත">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  shareproxy.accesskey          "s">
