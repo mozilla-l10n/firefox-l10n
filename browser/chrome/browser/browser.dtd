@@ -197,8 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyHomeCmd.label "Hyrje">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Shkoni te një Site Web">
-<!ENTITY urlbar.accesskey             "S">
+<!ENTITY urlbar.placeholder2          "Bëni kërkim ose jepni adresë">
+<!ENTITY urlbar.accesskey             "K">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
 
@@ -503,8 +503,6 @@ fast. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Skedash shfletuesi">
-
-<!ENTITY urlbar.placeholder2          "Bëni kërkim ose jepni adresë">
 
 <!ENTITY viewBookmarksSidebar.label         "Shfaqe në Anështyllë">
 <!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
