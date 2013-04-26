@@ -84,7 +84,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Toujours utiliser ce module complémentaire">
 <!ENTITY cmd.neverActivate.label              "Ne jamais activer">
 <!ENTITY cmd.neverActivate.tooltip            "Ne jamais utiliser ce module complémentaire">
-<!ENTITY cmd.tristateMenu.tooltip             "Modifier lorsque ce module complémentaire est exécuté">
+<!ENTITY cmd.tristateMenu.tooltip             "Choisir quand utiliser ce module complémentaire">
 <!ENTITY cmd.installAddon.label               "Installer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Supprimer">
