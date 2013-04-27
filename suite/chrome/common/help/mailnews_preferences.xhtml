@@ -215,13 +215,16 @@
 </ol>
 
 <ul>
-  <li class="win"><strong>Mostrar una alerta</strong>: seleccione esta opción
-    si quiere que Correo y noticias &brandShortName; muestre una alerta
-    deslizante en su bandeja del sistema, en la parte inferior derecha de su
-    pantalla, cuando lleguen nuevos mensajes. La alerta deslizante sólo
-    aparece una vez cuando llegan nuevos mensajes, y no aparecerá de nuevo
-    hasta que Correo y noticias esté en primer plano.
-
+  <li><strong>Mostrar una alerta durante [__] segundos</strong>: seleccione
+    esta opción si quiere que Correo y Noticias de &brandShortName; muestre
+    una alerta en su escritorio cuando lleguen nuevos mensajes. Esta alerta
+    se ubica normalmente sobre su bandeja del sistema en la esquina inferior
+    derecha de su pantalla. La alerta sólo aparece una vez cuando llegan
+    mensajes nuevos, se muestra durante la cantidad de tiempo especificada y
+    no aparecerá de nuevo hasta que haya visitado una de sus carpetas con
+    correo nuevo, lea uno de los mensajes nuevos o comprobado los mensajes
+    nuevos manualmente.
+    
     <table>
       <tr>
         <td colspan="2"><img src="images/mail_newmail_alert.png" hspace="0"
@@ -229,28 +232,65 @@
       </tr>
       <tr>
         <td width="20"></td>
-        <td><strong>Alerta deslizante de nuevo correo</strong></td>
+        <td><strong>Alerta de escritorio de correo nuevo</strong></td>
        </tr>
     </table>
 
-  <p>Cuando la alerta aparece, al pulsar en el enlace mostrado en ella se le
-    mostrará la primera carpeta que tiene correo nuevo.</p>
-
-  <p>La alerta de nuevo mensaje continuará funcionando incluso después de que
-    cierre la ventana de correo (siempre y cuando se esté ejecutando otra
-    aplicación de &brandShortName;).</p>
+    Las siguientes opciones determinan que elementos específicos del mensaje
+    se muestran en la alerta de cada nuevo mensaje:
+    <ul>
+      <li><strong>Mostrar una vista preliminar del texto del mensaje</strong>:
+        marque esta opción para mostrar las primeras palabras del mensaje
+        recibido en la alerta.</li>
+      <li><strong>Mostrar el asunto</strong>: marque esta opción para mostrar
+        la línea del asunto del mensaje en la alerta.</li>
+      <li><strong>Mostrar el remitente</strong>: marque esta opción para mostrar
+        el nombre o dirección de correo del remitente en la alerta.</li>
+    </ul>
+    <p>Cuando aparece la alerta, pulsar en la entrada de un mensaje le llevará
+      a la carpeta respectiva y abrirá el mensaje. Puede cerrar la alerta usando
+      el botón <strong>x</strong>.</p>
+    
+    <p>La alerta de nuevo mensaje continuará funcionando incluso después de que
+      cierre la ventana de correo (siempre y cuando haya otra ventana abierta
+      de &brandShortName;).</p>
   </li>
   <li class="win"><strong>Mostrar un icono en la bandeja</strong>: seleccione
     esta casilla si quiere que Correo y noticias &brandShortName; muestre un
     icono en su bandeja de sistema (que normalmente se encuentra en la esquina
     inferior derecha de su pantalla) cuando lleguen nuevos mensajes. Este icono
     permanecerá en la bandeja de sistema hasta que visite alguna de sus
-    carpetas con mensajes nuevos o haya comprobado manualmente si hay nuevos
-    mensajes.
+    carpetas con mensajes nuevos, leído uno de los nuevos mensajes o comprobado
+    manualmente si hay nuevos mensajes.
     <p style="text-indent: 20px"><img src="images/mail_newmail_trayicon.png"
       alt=""/>&nbsp;&nbsp;<strong>Icono de nuevo correo de la bandeja</strong></p>
     <p>Cuando aparece el icono, si hace doble clic se abrirá la ventana
       principal de Correo y noticias de &brandShortName;.</p>
+    <p><strong>Nota</strong>: en Windows 7 y superiores, las opciones de iconos
+      del área de notificación de &brandShortName; ha de ser <q>Mostrar icono y
+      notificaciones</q> para que el icono permanezca visible. En caso
+      contrario, puede desaparecer tras un corto periodo de tiempo.</p>
+    <ul>
+      <li><strong>Mostrar una alerta emergente</strong>: como alternativa a la
+        alerta de escritorio descrita más arriba, puede usar la notificación
+        emergente del sistema operativo. Cuando llegue un mensaje nuevo, esto
+        mostrará el icono junto con una alerta emergente que indica el número
+        de nuevos mensajes disponibles en la cuenta.
+        <p style="text-indent: 20px"><img src="images/mail_newmail_balloon.png"
+          alt=""/><strong>Alerta emergente</strong></p>
+        <p>Cuando aparece la alerta emergente, al pulsar sobre ella se abre la
+          ventana principal de Correo y Noticias. La duración de la alerta
+          emergente depende la configuración de su sistema operativo. Puede
+          cerrar la alerta emergente usando el botón <strong>x</strong>.</p>
+        <p>La alerta de nuevo mensaje continuará funcionando incluso tras
+          cerrar la ventana de Correo (siempre y cuando haya otra ventana
+          abierta de &brandShortName;).</p>
+        <p><strong>Nota</strong>: <q>Mostrar una alerta durante [__]
+          segundos</q> y <q>Mostrar una alerta emergente</q> no pueden ser
+          seleccionadas al mismo tiempo. Marcar una opción desmarcará la
+          otra.</p>
+      </li>
+    </ul>
   </li>
 
   <li class="mac"><strong>Animar el icono del Dock</strong>: seleccione esta
@@ -267,8 +307,8 @@
   
     <p>Una vez se ha iniciado Correo &brandShortName;, el sonido de nuevos
       mensajes continuará funcionando incluso si cierra la ventana de
-      Correo (siempre que otra aplicación de &brandShortName; siga
-      ejecutándose).</p>
+      Correo (siempre y cuando haya otra ventana abierta de
+      &brandShortName;).</p>
   </li>
 </ul>
 
