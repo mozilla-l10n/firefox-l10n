@@ -430,11 +430,11 @@
 <!ENTITY openConversationCmd.key                       "o">
 <!ENTITY openFeedMessage1.label                        "Uudistevoo sõnum avamisel">
 <!ENTITY openFeedMessage1.accesskey                    "v">
-<!ENTITY openFeedWebPage.label                         "avatakse veebilehena">
+<!ENTITY openFeedWebPage.label                         "avatakse veebileht">
 <!ENTITY openFeedWebPage.accesskey                     "e">
 <!ENTITY openFeedSummary.label                         "avatakse kokkuvõte">
 <!ENTITY openFeedSummary.accesskey                     "t">
-<!ENTITY openFeedWebPageInMP.label                     "Vaheta veebilehe ja kokkuvõtte vahel kirja teksti paneelis">
+<!ENTITY openFeedWebPageInMP.label                     "vahetatakse veebilehe ja kokkuvõtte vahel kirja teksti paneelis">
 <!ENTITY openFeedWebPageInMP.accesskey                 "h">
 
 <!-- Windows Menu -->
