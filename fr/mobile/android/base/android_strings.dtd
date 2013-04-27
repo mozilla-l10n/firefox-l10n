@@ -69,7 +69,6 @@
 <!ENTITY pref_category_privacy "Vie privée et sécurité">
 <!ENTITY pref_category_content "Contenu">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
-<!ENTITY pref_do_not_track "Dire de ne pas me pister">
 <!ENTITY pref_telemetry "Envoyer données de perf.">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
@@ -82,6 +81,11 @@
 <!ENTITY pref_cookies_accept_all "Autorisés">
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
+
+<!ENTITY pref_donottrack_menu "Pistage">
+<!ENTITY pref_donottrack_disallow_tracking "Indiquer aux sites que je ne souhaite pas être pisté">
+<!ENTITY pref_donottrack_allow_tracking "Indiquer aux sites que je souhaite être pisté">
+<!ENTITY pref_donottrack_no_pref "Ne rien indiquer aux sites concernant mes préférences de pistage">
 
 <!ENTITY pref_char_encoding "Encodage de caractères">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
