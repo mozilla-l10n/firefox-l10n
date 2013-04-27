@@ -63,10 +63,10 @@
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
-<!ENTITY pref_donottrack_menu "">
-<!ENTITY pref_donottrack_disallow_tracking "">
-<!ENTITY pref_donottrack_allow_tracking "">
-<!ENTITY pref_donottrack_no_pref "">
+<!ENTITY pref_donottrack_menu "Tracciamento">
+<!ENTITY pref_donottrack_disallow_tracking "Richiedi ai siti di non effettuare alcun tracciamento">
+<!ENTITY pref_donottrack_allow_tracking "Comunica ai siti la disponibilità a essere tracciato">
+<!ENTITY pref_donottrack_no_pref "Non comunicare alcuna preferenza relativa al tracciamento">
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
@@ -139,16 +139,16 @@
 <!ENTITY contextmenu_copyurl "Copia indirizzo">
 <!ENTITY contextmenu_edit_bookmark "Modifica">
 <!ENTITY contextmenu_subscribe "Abbonati a questa pagina">
-<!ENTITY contextmenu_site_settings "Impostazioni sito">
-<!ENTITY pref_titlebar_mode "">
-<!ENTITY pref_titlebar_mode_title "">
-<!ENTITY pref_titlebar_mode_url "">
+<!ENTITY contextmenu_site_settings "Modifica impostazioni sito">
+<!ENTITY pref_titlebar_mode "Barra del titolo">
+<!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
+<!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
 <!ENTITY history_removed "Pagina rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Indirizzo">
 <!ENTITY bookmark_edit_keyword "Parola chiave">
-<!ENTITY site_settings_title3 "">
+<!ENTITY site_settings_title3 "Impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
