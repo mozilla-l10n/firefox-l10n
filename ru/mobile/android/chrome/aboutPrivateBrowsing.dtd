@@ -5,6 +5,6 @@
 <!ENTITY privatebrowsingpage.title "Приватный просмотр">
 <!ENTITY privatebrowsingpage.issueDesc.private "Вы открыли новую приватную вкладку.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "Вы не в приватной вкладке.">
-<!ENTITY privatebrowsingpage.description "При работе в приватных вкладках &brandShortName; не будет вести журнал посещений, журнал поиска, журнал загрузок и журнал веб-форм. Также не будут сохраняться куки и временные файлы интернета. Однако, любые загруженные вами файлы и созданные вами закладки будут сохранены.">
+<!ENTITY privatebrowsingpage.description "При работе в приватных вкладках &brandShortName; не будет вести журнал посещений, журнал поиска, журнал загрузок и журнал веб-форм. Также не будут сохраняться куки и временные файлы интернета. Однако любые загруженные вами файлы и созданные вами закладки будут сохранены.">
 <!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 <!ENTITY privatebrowsingpage.moreInfo "Хотя это устройство не будет вести журнал посещаемых вами сайтов, ваш интернет-провайдер может следить за тем, какие страницы вы посещаете.">
