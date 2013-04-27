@@ -54,7 +54,6 @@
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
 <!ENTITY pref_about_firefox "О &brandShortName;">
-<!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_header_general "Основные">
@@ -64,6 +63,10 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
+<!ENTITY pref_donottrack_menu "Отслеживание">
+<!ENTITY pref_donottrack_disallow_tracking "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
+<!ENTITY pref_donottrack_allow_tracking "Сообщать сайтам, что я хочу, чтобы меня отслеживали">
+<!ENTITY pref_donottrack_no_pref "Не сообщать сайтам ничего о моих настройках отслеживания">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
@@ -136,12 +139,16 @@
 <!ENTITY contextmenu_copyurl "Копировать адрес">
 <!ENTITY contextmenu_edit_bookmark "Изменить">
 <!ENTITY contextmenu_subscribe "Подписаться на страницу">
+<!ENTITY contextmenu_site_settings "Изменить параметры сайта">
+<!ENTITY pref_titlebar_mode "Панель заголовка">
+<!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
+<!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY history_removed "Страница удалена">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
 <!ENTITY bookmark_edit_keyword "Краткое имя">
-<!ENTITY site_settings_title2 "Параметры сайта…">
+<!ENTITY site_settings_title3 "Параметры сайта">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">

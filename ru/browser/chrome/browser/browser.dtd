@@ -407,7 +407,7 @@
 <!ENTITY quitApplicationCmd.label "Выход">
 <!ENTITY quitApplicationCmd.accesskey "ы">
 <!ENTITY quitApplicationCmdMac.label "Завершить &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY closeCmd.label "Закрыть">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
