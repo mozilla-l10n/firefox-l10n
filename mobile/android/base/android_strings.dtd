@@ -172,6 +172,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copier l\u0027adresse">
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 <!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
+<!ENTITY contextmenu_site_settings "Modifier les paramètres de site">
 
 <!ENTITY history_removed "Page supprimée">
 
@@ -180,7 +181,9 @@ size. -->
 <!ENTITY bookmark_edit_location "Emplacement">
 <!ENTITY bookmark_edit_keyword "Mot-clé">
 
-<!ENTITY site_settings_title2       "Paramètres de site…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
