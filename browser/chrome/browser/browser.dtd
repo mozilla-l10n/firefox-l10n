@@ -460,11 +460,11 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey                   "m">
 <!ENTITY mediaPlaybackRate.label                 "Esitamise kiirus">
 <!ENTITY mediaPlaybackRate.accesskey             "k">
-<!ENTITY mediaPlaybackRate050x.label             "Aegluubis (0.5×)">
+<!ENTITY mediaPlaybackRate050x.label             "Aegluubis (0,5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey         "g">
 <!ENTITY mediaPlaybackRate100x.label             "Tavaline">
 <!ENTITY mediaPlaybackRate100x.accesskey         "T">
-<!ENTITY mediaPlaybackRate150x.label             "Kiirendatud (1.5×)">
+<!ENTITY mediaPlaybackRate150x.label             "Kiirendatud (1,5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey         "i">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
