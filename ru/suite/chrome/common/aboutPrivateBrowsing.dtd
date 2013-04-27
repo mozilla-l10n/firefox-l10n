@@ -4,7 +4,7 @@
 
 <!ENTITY privatebrowsingpage.title "Приватный просмотр">
 <!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; в данный момент является экспериментальной функцией.">
-<!ENTITY privatebrowsingpage.description "При работе в окне &privatebrowsingpage.title; &brandShortName; не будет хранить кэш на диске, сохранять куки или вести журналы посещений, поиска, загрузок или веб-форм. Однако, загруженные вами файлы и созданные вами закладки будут сохранены.">
+<!ENTITY privatebrowsingpage.description "При работе в окне &privatebrowsingpage.title; &brandShortName; не будет хранить кэш на диске, сохранять куки или вести журналы посещений, поиска, загрузок или веб-форм. Однако загруженные вами файлы и созданные вами закладки будут сохранены.">
 <!ENTITY privatebrowsingpage.moreinfo "Хотя этот компьютер не будет вести журнал посещаемых вами сайтов, ваш работодатель или интернет-провайдер могут следить за тем, какие страницы вы посещаете.">
 <!ENTITY privatebrowsingpage.learnmore.label "Подробнее">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "о">
