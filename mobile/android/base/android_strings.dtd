@@ -69,7 +69,6 @@
 <!ENTITY pref_category_privacy "Sekretess och säkerhet">
 <!ENTITY pref_category_content "Innehåll">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
@@ -82,6 +81,11 @@
 <!ENTITY pref_cookies_accept_all "Aktiverade">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
+
+<!ENTITY pref_donottrack_menu "Spårning">
+<!ENTITY pref_donottrack_disallow_tracking "Be webbplatser att inte spåra mig">
+<!ENTITY pref_donottrack_allow_tracking "Tillåt webbplatser att spåra mig">
+<!ENTITY pref_donottrack_no_pref "Säg inget till webbplatser om min inställning till spårning">
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
