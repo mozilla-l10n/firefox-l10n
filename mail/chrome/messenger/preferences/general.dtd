@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label "Přizpůsobit…">
 <!ENTITY customizeMailAlert.accesskey "b">
 
+<!ENTITY showTrayIcon.label "Zobrazit ikonu v oznamovací oblasti">
+<!ENTITY showTrayIcon.accesskey "t">
+
 <!ENTITY play.label "Přehrát">
 <!ENTITY play.accesskey "h">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">
