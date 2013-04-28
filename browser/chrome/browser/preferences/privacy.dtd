@@ -16,9 +16,6 @@
 <!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.label        "Aceutar cookies de terceros">
-<!ENTITY  acceptThirdParty.accesskey    "k">
-
 <!ENTITY  keepUntil.label               "Caltener hasta que:">
 <!ENTITY  keepUntil.accesskey           "h">
 
