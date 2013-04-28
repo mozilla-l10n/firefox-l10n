@@ -12,10 +12,6 @@
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "Guetar mensaxes">
 <!ENTITY results.label "Resultaos">
-<!ENTITY fileHereMenu.label "Archivar equí">
-<!ENTITY fileHereMenu.accesskey "h">
-<!ENTITY fileButton.label "Archivar">
-<!ENTITY fileButton.accesskey "v">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "Abrir en carpeta">
 <!ENTITY openInFolder.accesskey "i">
@@ -65,3 +61,7 @@
 <!ENTITY starredColumn.tooltip "Calca pa ordenar por estrella">
 <!ENTITY locationColumn.tooltip "Calca pa ordenar por llocalización">
 <!ENTITY idColumn.tooltip "Calca pa ordenar por orde de receición">
+<!ENTITY moveHereMenu.label "Mover equí">
+<!ENTITY moveHereMenu.accesskey "o">
+<!ENTITY moveButton.label "Mover a">
+<!ENTITY moveButton.accesskey "M">
