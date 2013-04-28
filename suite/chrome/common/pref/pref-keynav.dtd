@@ -14,7 +14,7 @@
 <!ENTITY browseWithCaretDesc.label "La navigazione nel testo permette di muoversi e di selezionare all'interno delle pagine utilizzando i tasti di direzione per muovere un cursore visibile.">
 <!ENTITY browseWithCaretUse.label "Utilizza la navigazione nel testo">
 <!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Utilizzare F7 per (dis)abilitare la navigazione nel testo">
+<!ENTITY browseWithCaretShortCut.label "Utilizza F7 per abilitare/disabilitare la navigazione nel testo">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Avvisami prima di attivare la navigazione nel testo">
 <!ENTITY browseWithCaretWarn.accesskey "v">
