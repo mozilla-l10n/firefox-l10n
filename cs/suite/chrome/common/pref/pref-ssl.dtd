@@ -4,6 +4,7 @@
 
 <!ENTITY SSLProtocolVersions.caption "Verze protokolu SSL">
 <!ENTITY SSLWarnings.caption "SSL upozornění">
+<!ENTITY  SSLMixedContent.caption "Smíšený obsah">
 <!ENTITY SSLClientAuthMethod.caption "Výběr certifikátů klienta">
 
 <!ENTITY pref.ssl.title "SSL">
@@ -20,10 +21,19 @@
 <!ENTITY warn.leavingsecure "Opuštění stránky, která podporuje šifrování">
 <!ENTITY warn.leavingsecure.accesskey "O">
 <!ENTITY warn.viewmixed "Zobrazením stránky se směsicí zašifrovaných i nezašifrovaných dat">
-<!ENTITY warn.viewmixed.accesskey "b">
+<!ENTITY warn.viewmixed.accesskey "r">
+
+<!ENTITY warn.mixedactivecontent "Upozornit, pokud zašifrovaná stránka obsahuje nezabezpečený obsah">
+<!ENTITY warn.mixedactivecontent.accesskey "U">
+<!ENTITY block.activecontent "Na zašifrovaných stránkách nenačítat nezabezpečený obsah">
+<!ENTITY block.activecontent.accesskey N">
+<!ENTITY warn.mixeddisplaycontent "Upozornit, pokud zašifrovaná stránka obsahuje další typy smíšeného obsahu">
+<!ENTITY warn.mixeddisplaycontent.accesskey "p">
+<!ENTITY block.displaycontent "Na zašifrovaných stránkách nenačítat další typy smíšeného obsahu">
+<!ENTITY block.displaycontent.accesskey "a">
 
 <!ENTITY certselect.description "Rozhodněte, jaký certifikát má aplikace &brandShortName; předkládat stránkám, které jej vyžadují">
 <!ENTITY certselect.auto "Vybírat automaticky">
-<!ENTITY certselect.auto.accesskey "a">
+<!ENTITY certselect.auto.accesskey "b">
 <!ENTITY certselect.ask "Vždy se dotázat">
 <!ENTITY certselect.ask.accesskey "d">
