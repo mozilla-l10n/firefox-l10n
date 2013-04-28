@@ -477,3 +477,15 @@
 <!ENTITY mixedContentBlocked.helplink "Deprender más">
 <!ENTITY hidePluginCmd.label "Anubrir esti plugin">
 <!ENTITY hidePluginCmd.accesskey "t">
+<!ENTITY social.addons.label "Alministrar servicios…">
+<!ENTITY pointerLock.notification.message "Calca ESC (Escape) en cualquier momentu p'amosalu de nueves.">
+<!ENTITY mediaPlaybackRate200x.label "Velocidá de la lluz (2x)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate150x.label "Alta velocidá (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "v">
+<!ENTITY mediaPlaybackRate100x.label "Velocidá normal">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate050x.label "Cámara lenta (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "m">
+<!ENTITY mediaPlaybackRate.label "Velocidá de reproducción">
+<!ENTITY mediaPlaybackRate.accesskey "l">

@@ -87,3 +87,8 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY dntTrackingNopref.label "Nun dicir un res a los sitios tocante a les mios preferencies de siguimientu.">
 <!ENTITY dntTrackingNopref.accesskey "o">
+<!ENTITY acceptThirdParty.visited.label "De los visitaos">
+<!ENTITY acceptThirdParty.pre.label "Aceutar les cookies de terceres partes:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.never.label "Enxamás">
+<!ENTITY acceptThirdParty.always.label "Siempre">
