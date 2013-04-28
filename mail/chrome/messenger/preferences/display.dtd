@@ -11,16 +11,8 @@
 <!ENTITY regularSize.label "Regular">
 <!ENTITY bigger.label "Mayor">
 <!ENTITY smaller.label "Menor">
-<!ENTITY color.label "Color:">
-<!ENTITY color.accesskey "C">
 <!ENTITY displayWidth.label "Mensaxes de testu ensin formatu">
 <!ENTITY displayText.label "Al amosar mensaxes de testu ensin formatu:">
-<!ENTITY colors.label "Colores">
-<!ENTITY overrideColors.label "Al amosar mensaxes, usar los siguientes colores:">
-<!ENTITY textColor.label "Color del testu:">
-<!ENTITY textColor.accesskey "o">
-<!ENTITY backgroundColor.label "Color de fondu:">
-<!ENTITY backgroundColor.accesskey "d">
 <!ENTITY convertEmoticons.label "Amosar fustaxes como gráficos">
 <!ENTITY convertEmoticons.accesskey "A">
 <!ENTITY displayTagsText.label "Les etiquetes puen usase pa categorizar y priorizar los tos mensaxes.">
@@ -30,10 +22,14 @@
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "Desaniciar">
 <!ENTITY removeTagButton.accesskey "r">
-<!ENTITY fontsAndColors.label "Fontes de lletra">
 <!ENTITY defaultFont.label "Fonte de lletra por defeutu:">
 <!ENTITY defaultFont.accesskey "e">
 <!ENTITY defaultSize.label "Tamañu:">
 <!ENTITY defaultSize.accesskey "T">
 <!ENTITY fontOptions.accesskey "v">
 <!ENTITY fontOptions.label "Avanzaes…">
+<!ENTITY quotedTextColor.label "Color:">
+<!ENTITY quotedTextColor.accesskey "o">
+<!ENTITY fontsAndColors1.label "Fontes y colores">
+<!ENTITY colorButton.label "Colores…">
+<!ENTITY colorButton.accesskey "C">

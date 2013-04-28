@@ -24,3 +24,5 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Desaminar…">
 <!ENTITY browse.accesskey "E">
+<!ENTITY showTrayIcon.label "Amosar un iconu na bandexa">
+<!ENTITY showTrayIcon.accesskey "a">

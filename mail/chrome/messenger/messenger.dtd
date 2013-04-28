@@ -390,12 +390,6 @@
 <!ENTITY openConversationCmd.label "Abrir na conversación">
 <!ENTITY openConversationCmd.accesskey "b">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Abrir mensaxe de la canal">
-<!ENTITY openFeedMessage.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Páxina web nuna ventana nueva">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Resume nuna ventana nueva">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Alternar el resume y la páxina web nel panel de mensaxes">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 <!ENTITY windowMenu.label "Ventana">
@@ -736,3 +730,9 @@
 <!ENTITY appmenuButton1.tooltip "Amosar el menú &brandShortName;">
 <!ENTITY appmenuSelectThread.label "Seleicionar conversación">
 <!ENTITY appmenuSelectFlagged.label "Seleicionar mensaxes con estrella">
+<!ENTITY openFeedWebPage.label "Abrir como páxina web">
+<!ENTITY openFeedWebPage.accesskey "m">
+<!ENTITY openFeedSummary.label "Abrir como resume">
+<!ENTITY openFeedSummary.accesskey "e">
+<!ENTITY openFeedMessage1.label "Al abrir mensaxes de canales web">
+<!ENTITY openFeedMessage1.accesskey "c">

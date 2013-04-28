@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY colorsDialog.title "Colores">
+<!ENTITY window.width "45em">
+<!ENTITY window.macWidth "47em">
+<!ENTITY allowPagesToUse.label "Permitir al conteníu escoyer los sos propios colores, en cuenta de les mios seleiciones anteriores">
+<!ENTITY allowPagesToUse.accesskey "P">
+<!ENTITY color "Testu y fondu">
+<!ENTITY textColor.label "Testu:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Fondu:">
+<!ENTITY backgroundColor.accesskey "F">
+<!ENTITY useSystemColors.label "Usar los colores del sistema">
+<!ENTITY useSystemColors.accesskey "U">
+<!ENTITY underlineLinks.label "Solliñar enllaces">
+<!ENTITY underlineLinks.accesskey "S">
+<!ENTITY links "Color de los enllaces">
+<!ENTITY linkColor.label "Enllaces ensin visitar:">
+<!ENTITY linkColor.accesskey "E">
+<!ENTITY visitedLinkColor.label "Enllaces visitaos:">
+<!ENTITY visitedLinkColor.accesskey "a">
