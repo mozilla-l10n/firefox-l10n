@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Nastavení systému">
 <!ENTITY acceptIntegration.label "Nastavit jako výchozí">
 <!ENTITY cancelIntegration.label "Přeskočit integraci">
+<!ENTITY cancelIntegration2.label "Zrušit">
 <!ENTITY defaultClient.intro "Použít aplikaci &brandShortName; jako výchozí pro:">
 
 <!ENTITY email.label "E-mail">
