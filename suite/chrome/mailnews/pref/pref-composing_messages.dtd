@@ -32,6 +32,6 @@
 <!ENTITY selectHeaderType.label "Selezionare il tipo di intestazione di risposta:">
 <!ENTITY selectHeaderType.accesskey "e">
 <!ENTITY noReplyOption.label "Nessuna intestazione di risposta">
-<!ENTITY authorWroteOption.label "[Author] ha scritto:">
+<!ENTITY authorWroteOption.label "[Autore] ha scritto:">
 <!ENTITY onDateAuthorWroteOption.label "Il [data], [autore] ha scritto:">
 <!ENTITY authorWroteOnDateOption.label "[Autore] ha scritto, il [data]:">
