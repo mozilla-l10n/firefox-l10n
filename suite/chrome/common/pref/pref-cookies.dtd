@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label "Pravidla pro akceptování cookies">
 
-<!ENTITY accAllCookiesRadio.label "Povolit všechny cookies">
-<!ENTITY accAllCookiesRadio.accesskey "P">
-
-<!ENTITY accOrgCookiesRadio.label "Povolit cookies pouze pro zdrojový server">
-<!ENTITY accOrgCookiesRadio.accesskey "o">
-
 <!ENTITY disableCookies.label "Blokovat cookies">
 <!ENTITY disableCookies.accesskey "B">
+
+<!ENTITY accNo3rdPartyCookies.label "Povolit cookies pouze pro zdrojový server (žádné cookies třetích stran)">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label "Povolit cookies třetích stran pouze pro navštívené servery">
+<!ENTITY acc3rdPartyVisited.accesskey "v">
+
+<!ENTITY accAllCookies.label "Povolit všechny cookies">
+<!ENTITY accAllCookies.accesskey "c">
 
 <!ENTITY cookieRetentionPolicy.label "Pravidla pro zamítnutí cookies">
 
@@ -29,7 +32,7 @@
 <!ENTITY acceptforNDays.accesskey "k">
 <!ENTITY days.label "dny(ů)">
 
-<!ENTITY warnAboutCookies.label "Ptát se pro každou cookie">
+<!ENTITY warnAboutCookies.label "Ptát se pro každé cookies">
 <!ENTITY warnAboutCookies.accesskey "t">
 <!ENTITY forCurrentSession.label "kromě cookies pro relaci">
 <!ENTITY forCurrentSession.accesskey "r">
