@@ -119,7 +119,7 @@
 <!ENTITY ICQ.accesskey "I">
 <!ENTITY XMPP.label "ID Jabber:">
 <!ENTITY XMPP.accesskey "J">
-<!ENTITY IRC.label "Soprannome IRC">
+<!ENTITY IRC.label "Soprannome IRC:">
 <!ENTITY IRC.accesskey "R">
 <!ENTITY Photo.tab "Fotografia">
 <!ENTITY Photo.accesskey "F">

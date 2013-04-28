@@ -403,12 +403,12 @@
 <!ENTITY openConversationCmd.label "Apri nella conversazione">
 <!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "A">
-<!ENTITY openFeedMessage.label "Apri il messaggio">
-<!ENTITY openFeedMessage.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Pagina web in una nuova finestra">
-<!ENTITY openFeedWebPageInWindow.accesskey "P">
-<!ENTITY openFeedSummaryInWindow.label "Riepilogo in una nuova finestra">
-<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedMessage1.label "Quando si aprono messaggi di feed">
+<!ENTITY openFeedMessage1.accesskey "Q">
+<!ENTITY openFeedWebPage.label "Aprila come pagina web">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Aprire come sommario">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Scambia la pagina web ed il sommario nel riquadro dell'anteprima">
 <!ENTITY openFeedWebPageInMP.accesskey "S">
 <!ENTITY windowMenu.label "Finestra">

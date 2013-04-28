@@ -4,7 +4,7 @@
 
 <!ENTITY fileExceedsLimit.title "YouSendIt">
 <!ENTITY fileExceedsLimit.thatsBigFile "L'invio di file più grandi di 50 Mb">
-<!ENTITY fileExceedsLimit.thatsBigFile2 "è un'opzione premium">
+<!ENTITY fileExceedsLimit.thatsBigFile2 "è un'opzione premium.">
 <!ENTITY fileExceedsLimit.accept "Aggiorna">
 <!ENTITY fileExceedsLimit.cancel "Annulla">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

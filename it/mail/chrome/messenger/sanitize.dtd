@@ -6,7 +6,7 @@
 <!ENTITY sanitizeDialog2.title "Cancella cronologia recente">
 <!ENTITY sanitizeItems.label "Cancella adesso i seguenti elementi:">
 <!ENTITY clearDataSettings2.label "Alla chiusura di &brandShortName; eliminare automaticamente:">
-<!ENTITY clearTimeDuration.label "Intervallo di tempo da cancellare:">
+<!ENTITY clearTimeDuration.label "Intervallo di tempo da cancellare: ">
 <!ENTITY clearTimeDuration.accesskey "T">
 <!ENTITY clearTimeDuration.lastHour "ultima ora">
 <!ENTITY clearTimeDuration.last2Hours "ultime due ore">

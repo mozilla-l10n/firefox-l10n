@@ -18,6 +18,8 @@
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY customizeMailAlert.label "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey "z">
+<!ENTITY showTrayIcon.label "Visualizza come try icon">
+<!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY play.label "Ascolta">
 <!ENTITY play.accesskey "A">
 <!ENTITY systemsound.label "Suono predefinito di sistema per nuova posta">
