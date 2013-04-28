@@ -15,16 +15,10 @@
 <!ENTITY regularSize.label "Regolare">
 <!ENTITY bigger.label "Più grande">
 <!ENTITY smaller.label "Più piccolo">
-<!ENTITY color.label "Colore:">
-<!ENTITY color.accesskey "o">
+<!ENTITY quotedTextColor.label "Colore:">
+<!ENTITY quotedTextColor.accesskey "o">
 <!ENTITY displayWidth.label "Messaggi di testo semplice">
 <!ENTITY displayText.label "Durante la visualizzazione delle citazioni in testo semplice:">
-<!ENTITY colors.label "Colori">
-<!ENTITY overrideColors.label "Durante la visualizzazione dei messaggi utilizza i seguenti colori:">
-<!ENTITY textColor.label "Colore del testo:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Colore dello sfondo:">
-<!ENTITY backgroundColor.accesskey "f">
 <!ENTITY convertEmoticons.label "Mostra le faccine in modo grafico">
 <!ENTITY convertEmoticons.accesskey "a">
 <!ENTITY displayTagsText.label "Le etichette possono essere usate per catalogare e dare priorità ai messaggi.">
@@ -34,10 +28,12 @@
 <!ENTITY editTagButton.accesskey "M">
 <!ENTITY removeTagButton.label "Elimina">
 <!ENTITY removeTagButton.accesskey "E">
-<!ENTITY fontsAndColors.label "Caratteri">
+<!ENTITY fontsAndColors1.label "Caratteri e colori">
 <!ENTITY defaultFont.label "Carattere predefinito:">
 <!ENTITY defaultFont.accesskey "C">
 <!ENTITY defaultSize.label "Dim.:">
 <!ENTITY defaultSize.accesskey "D">
 <!ENTITY fontOptions.accesskey "z">
 <!ENTITY fontOptions.label "Avanzate…">
+<!ENTITY colorButton.label "Colori…">
+<!ENTITY colorButton.accesskey "l">
