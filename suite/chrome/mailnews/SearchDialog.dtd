@@ -17,17 +17,16 @@
 <!ENTITY deleteButton.accesskey "m">
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">
-<!ENTITY fileHereMenu.label "Přesunout do složky">
-<!ENTITY fileHereMenu.accesskey "n">
-<!ENTITY fileButton.label "Přesunout">
-<!ENTITY fileButton.accesskey "p">
+<!ENTITY moveHereMenu.label "Přesunout sem">
+<!ENTITY moveHereMenu.accesskey "n">
+<!ENTITY moveButton.label "Přesunout do">
+<!ENTITY moveButton.accesskey "p">
 <!ENTITY goToFolderButton.label "Otevřít složku se zprávami">
 <!ENTITY goToFolderButton.accesskey "t">
 <!ENTITY saveAsVFButton.label "Uložit hledání jako složku…">
 <!ENTITY saveAsVFButton.accesskey "a">
 
 <!-- for ABSearchDialog.xul -->
-
 <!ENTITY abSearchHeading.label "Hledat ve složce kontaktů:">
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
