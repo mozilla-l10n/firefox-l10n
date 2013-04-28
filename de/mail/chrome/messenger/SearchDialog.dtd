@@ -25,7 +25,7 @@
 <!ENTITY openInFolder.label          "In Ordner öffnen">
 <!ENTITY openInFolder.accesskey      "d">
 <!ENTITY saveAsVFButton.label        "Als virtuellen Ordner speichern…">
-<!ENTITY saveAsVFButton.accesskey    "A">
+<!ENTITY saveAsVFButton.accesskey    "p">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Suchen in:">

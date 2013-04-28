@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "44em">
 
 <!ENTITY  allowPagesToUse.label           "Inhalten das Verwenden von eigenen statt der oben gewählten Farben erlauben">
-<!ENTITY  allowPagesToUse.accesskey       "d">
+<!ENTITY  allowPagesToUse.accesskey       "V">
 
 <!ENTITY  color                           "Text und Hintergrund">
 <!ENTITY  textColor.label                 "Text:">

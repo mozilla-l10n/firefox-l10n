@@ -384,7 +384,7 @@
 <!ENTITY copyHereMenu.label "In diesen Ordner kopieren">
 <!ENTITY copyHereMenu.accesskey "I">
 <!ENTITY tagMenu.label "Schlagwörter">
-<!ENTITY tagMenu.accesskey "S">
+<!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -682,7 +682,7 @@
 <!ENTITY contextOpenNewTab.label "In neuem Tab öffnen">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "In Themenbaum anzeigen">
-<!ENTITY contextOpenConversation.accesskey "b">
+<!ENTITY contextOpenConversation.accesskey "z">
 <!ENTITY contextEditAsNew.label "Als neu bearbeiten">
 <!ENTITY contextEditAsNew.accesskey "b">
 <!ENTITY contextArchive.label "Archivieren">
@@ -694,7 +694,7 @@
 <!ENTITY contextReplyAll.label "Antworten an alle">
 <!ENTITY contextReplyAll.accesskey "o">
 <!ENTITY contextReplyList.label "Antworten an Liste">
-<!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextReplyList.accesskey "e">
 <!ENTITY contextForward.label "Weiterleiten">
 <!ENTITY contextForward.accesskey "w">
 <!ENTITY contextForwardAsAttachment.label "Als Anhang weiterleiten">
@@ -710,7 +710,7 @@
 <!ENTITY contextPrint.label "Drucken…">
 <!ENTITY contextPrint.accesskey "d">
 <!ENTITY contextPrintPreview.label "Druckvorschau">
-<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextPrintPreview.accesskey "u">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
