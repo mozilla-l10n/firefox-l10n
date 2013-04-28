@@ -26,7 +26,7 @@
 <!ENTITY warn.mixedactivecontent "Upozornit, pokud zašifrovaná stránka obsahuje nezabezpečený obsah">
 <!ENTITY warn.mixedactivecontent.accesskey "U">
 <!ENTITY block.activecontent "Na zašifrovaných stránkách nenačítat nezabezpečený obsah">
-<!ENTITY block.activecontent.accesskey N">
+<!ENTITY block.activecontent.accesskey "N">
 <!ENTITY warn.mixeddisplaycontent "Upozornit, pokud zašifrovaná stránka obsahuje další typy smíšeného obsahu">
 <!ENTITY warn.mixeddisplaycontent.accesskey "p">
 <!ENTITY block.displaycontent "Na zašifrovaných stránkách nenačítat další typy smíšeného obsahu">
