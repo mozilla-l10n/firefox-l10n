@@ -19,7 +19,7 @@
 <!ENTITY docCache.label "Confronta la pagina in cache con la pagina in rete:">
 <!ENTITY docCache.accesskey "n">
 <!ENTITY checkOncePerSession.label "Una volta per sessione">
-<!ENTITY checkEveryTime.label "Ogni olta che visualizzo la pagina">
+<!ENTITY checkEveryTime.label "Ogni volta che visualizzo la pagina">
 <!ENTITY checkNever.label "Mai">
 <!ENTITY checkAutomatically.label "Quando la pagina è scaduta">
 <!ENTITY prefetchTitle.label "Caricamento preventivo collegamenti">

@@ -51,7 +51,7 @@
 <!ENTITY minSize.none "Nessuna">
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
-<!ENTITY useDocumentFonts.label "Permetti ai documenti di utilizzare altri caratteri">
+<!ENTITY useDocumentFonts.label "Permetti ai documenti di utilizzare i propri caratteri">
 <!ENTITY useDocumentFonts.accesskey "n">
 <!ENTITY header2 "Quando una pagina web specifica i propri caratteri">
 <!ENTITY useDefaultFont.label "Utilizza i caratteri selezionati, ignorando i caratteri specificati dalla pagina">
