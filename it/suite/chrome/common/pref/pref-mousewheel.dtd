@@ -17,10 +17,10 @@
 <!ENTITY doNothingHoriz.accesskey "n">
 <!ENTITY scrollDocument.label "Scorri il documento">
 <!ENTITY scrollDocument.accesskey "S">
-<!ENTITY scrollDocumentHoriz.accesskey "z">
+<!ENTITY scrollDocumentHoriz.accesskey "S">
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
-<!ENTITY historyHoriz.accesskey "b">
+<!ENTITY historyHoriz.accesskey "M">
 <!ENTITY zoom.label "Fai zoom dentro o fuori la pagina">
 <!ENTITY zoom.accesskey "F">
 <!ENTITY zoomHoriz.accesskey "o">

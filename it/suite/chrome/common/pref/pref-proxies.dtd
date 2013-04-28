@@ -11,7 +11,7 @@
 <!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Configurazione manuale del proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY wpadTypeRadio.label "Scopri automaticamente la configurazione proxy">
+<!ENTITY wpadTypeRadio.label "Individua automaticamente la configurazione proxy">
 <!ENTITY wpadTypeRadio.accesskey "a">
 <!ENTITY autoTypeRadio.label "Configurazione automatica del proxy (URL):">
 <!ENTITY autoTypeRadio.accesskey "C">
@@ -23,6 +23,6 @@
 <!ENTITY HTTPPort.accesskey "o">
 <!ENTITY advanced.label "Avanzate…">
 <!ENTITY advanced.accesskey "v">
-<!ENTITY noproxy.label "Nessun Proxy per:">
+<!ENTITY noproxy.label "Nessun proxy per:">
 <!ENTITY noproxy.accesskey "N">
 <!ENTITY noproxyExplain.label "Esempio: .mozilla.org, .net.it, 192.168.1.0/24">
