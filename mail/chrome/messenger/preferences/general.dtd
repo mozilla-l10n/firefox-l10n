@@ -22,7 +22,7 @@
 <!ENTITY customizeMailAlert.accesskey     "A">
 
 <!ENTITY showTrayIcon.label               "Im Infobereich anzeigen">
-<!ENTITY showTrayIcon.accesskey           "T">
+<!ENTITY showTrayIcon.accesskey           "n">
 
 <!ENTITY play.label                       "Probe hören">
 <!ENTITY play.accesskey                   "P">
