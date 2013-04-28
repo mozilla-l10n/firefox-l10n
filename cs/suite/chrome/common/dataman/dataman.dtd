@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Pouze povolení">
 <!ENTITY select.preferences.label "Pouze předvolby">
 <!ENTITY select.passwords.label "Pouze hesla">
+<!ENTITY select.storage.label "Pouze úložiště">
 
 <!ENTITY domain.search.placeholder "Hledat v doménách">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Povolení">
 <!ENTITY tab.preferences.label "Předvolby">
 <!ENTITY tab.passwords.label "Hesla">
+<!ENTITY tab.storage.label "Úložiště">
 <!ENTITY tab.formdata.label "Historie formulářů">
 <!ENTITY tab.forget.label "Zapomenout">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Odebrat">
 <!ENTITY pwd.button.remove.accesskey "d">
 
+<!-- storage -->
+<!ENTITY storage.description "Tento server využívá na vašem počítači následující úložiště:">
+
+<!ENTITY storage.tree.host.label "Server">
+<!ENTITY storage.tree.type.label "Typ">
+<!ENTITY storage.tree.size.label "Velikost">
+
+<!ENTITY storage.ctx.remove.label "Odebrat">
+<!ENTITY storage.ctx.remove.accesskey "d">
+<!ENTITY storage.ctx.selectAll.label "Vybrat vše">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Odebrat">
+<!ENTITY storage.button.remove.accesskey "d">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Historie hledání">
 
@@ -130,8 +147,10 @@
 <!ENTITY forget.preferences.accesskey "v">
 <!ENTITY forget.passwords.label "Hesla">
 <!ENTITY forget.passwords.accesskey "H">
+<!ENTITY forget.storage.label "Úložiště">
+<!ENTITY forget.storage.accesskey "o">
 <!ENTITY forget.formdata.label "Historie fomulářů">
-<!ENTITY forget.formdata.accesskey "D">
+<!ENTITY forget.formdata.accesskey "f">
 
 <!ENTITY forget.button.label "Zapomenout tyto data">
 <!ENTITY forget.button.accesskey "Z">
