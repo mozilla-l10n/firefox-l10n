@@ -4,7 +4,7 @@
 
 <!ENTITY linksHeader.label "Comportamento link">
 <!ENTITY newWindow.label "Comportamento apertura link">
-<!ENTITY newWindowDescription.label "Apri link destinati ad aprire in una nuova finestra in:">
+<!ENTITY newWindowDescription.label "Apri link destinati ad aprire una nuova finestra in:">
 <!ENTITY newWindowRestriction.label "Quando gli script vogliono aprire una nuova finestra:">
 <!ENTITY external.label "Link da altre applicazioni">
 <!ENTITY externalDescription.label "Apri link passati da altre applicazioni in:">

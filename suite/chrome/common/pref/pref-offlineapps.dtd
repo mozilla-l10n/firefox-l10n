@@ -10,6 +10,6 @@
 <!ENTITY offlineNotify.accesskey "N">
 <!ENTITY offlineNotifyPermissions.label "Gestione permessi">
 <!ENTITY offlineNotifyPermissions.accesskey "G">
-<!ENTITY offlineAppsList.label "I siti web seguenti sono autorizzati a salvare dati per l'uso non in linea:">
+<!ENTITY offlineAppsList.label "I seguenti siti web sono autorizzati a salvare dati per l'uso non in linea:">
 <!ENTITY offlineAppsListRemove.label "Pulisci dati…">
 <!ENTITY offlineAppsListRemove.accesskey "P">
