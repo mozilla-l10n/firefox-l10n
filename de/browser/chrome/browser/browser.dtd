@@ -467,8 +467,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Wahnsinnige Geschwindigkeit (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "W">
+<!ENTITY mediaPlaybackRate200x.label "Doppelte Geschwindigkeit (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "D">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
