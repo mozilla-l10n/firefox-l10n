@@ -18,10 +18,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜索消息">
 <!ENTITY results.label               "结果">
-<!ENTITY fileHereMenu.label          "移动至此处">
-<!ENTITY fileHereMenu.accesskey      "r">
-<!ENTITY fileButton.label            "文件">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveHereMenu.label          "移动到这里">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "移动到">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY goToFolderButton.label      "打开消息文件夹">
 <!ENTITY goToFolderButton.accesskey  "n">
 <!ENTITY saveAsVFButton.label      "将搜索结果保存作为文件夹">
