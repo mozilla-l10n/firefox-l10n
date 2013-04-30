@@ -46,5 +46,5 @@
 <!ENTITY defaultFont.accesskey   "b">
 <!ENTITY defaultSize.label       "Méret:">
 <!ENTITY defaultSize.accesskey   "m">
-<!ENTITY fontOptions.accesskey   "H">
+<!ENTITY fontOptions.accesskey   "c">
 <!ENTITY fontOptions.label       "Speciális…">

@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Asztali könyvjelzők'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobil könyvjelzők'>
 <!ENTITY bookmarks.folder.readinglist.label 'Olvasási lista'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Mindig felül'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'Csak egy &syncBrand.fullName.label;-fiók támogatott.'>

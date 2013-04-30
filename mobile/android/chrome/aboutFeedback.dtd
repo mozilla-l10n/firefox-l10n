@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Mondja el, mit gondol eddig a &brandShortName; for Android alkalmazásról.">
 <!ENTITY intro.happyLink           "Szeretem">
 <!ENTITY intro.sadLink             "Problémákba ütköztem">
-<!ENTITY intro.ideaLink            "Van egy ötletem">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -52,19 +51,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "A saját érdekükben...">
 
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "Szívesen vesszük ötleteit! Ossza meg gondolatait alább. (De csak a &brandShortName;-közelieket.)">
-<!ENTITY idea.placeholder          "Írja be ide az ötletét">
-<!ENTITY idea.thanksHeader         "Köszönjük!">
-
-<!ENTITY idea.thanksMessageTop     "Nagyra becsüljük, hogy megosztja gondolatait. Folyamatosan dolgozunk azon, hogy a &brandShortName; jobb legyen, és az ehhez hasonló hozzájárulások nagyszerű dolgokhoz vezethetnek.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "Ugyan nem látja, de most nagyon büszkék vagyunk Önre.">
 
 <!ENTITY feedback.privacy          "Magánszférájának védelme érdekében ne adjon meg a visszajelzésében azonosítható személyes adatokat.">
 <!ENTITY feedback.send             "Visszajelzés küldése">
