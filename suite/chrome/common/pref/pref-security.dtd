@@ -6,23 +6,27 @@
 <!ENTITY pref.security.title              "Adatvédelem és biztonság">
 
 <!ENTITY tracking.label                   "Felhasználó követése">
-<!ENTITY doNotTrack.label                 "Nem akarom, hogy a webhelyek kövessenek">
-<!ENTITY doNotTrack.accesskey             "N">
+<!ENTITY trackingIntro.label              "A webhelyek követhetik a tevékenységét, így hatással vannak a személyes szférájára.">
 
-<!ENTITY privateData.label                "Személyes adatok">
-
-<!ENTITY alwaysClear.label                "Személyes adatok törlése a &brandShortName; bezárásakor">
-<!ENTITY alwaysClear.accesskey            "a">
-
-<!ENTITY askBeforeClear.label             "Jóváhagyás kérése a személyes adatok törlése előtt">
-<!ENTITY askBeforeClear.accesskey         "J">
-
-<!ENTITY clearDataSettings.label          "A &brandShortName; a személyes adatok törlésekor a következőket törölje:">
-<!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
-  The only difference bettween the two labels is that one calls a dialog, the other doesn't.
-  The same accesskey is used for both labels.
+<!ENTITY dntTellSites.label               "Követési szokások megadása a webhelyek számára">
+<!ENTITY dntTellSites.accesskey           "K">
+<!ENTITY dntTrackingNotOkay.label         "Nem szeretném, hogy kövessenek">
+<!ENTITY dntTrackingNotOkay.accesskey     "N">
+<!ENTITY dntTrackingOkay.label            "Elfogadom, hogy követnek">
+<!ENTITY dntTrackingOkay.accesskey        "E">
+<!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics
+  to a combination of both, so it's important that these strings convey the
+  meaning "reported" (and not something like "known").
 -->
 
-<!ENTITY clearDataDialog.label            "Törlés most…">
-<!ENTITY clearDataSilent.label            "Törlés most">
-<!ENTITY clearDataDialog.accesskey        "T">
+
+<!ENTITY safeBrowsing.label               "Safe Browsing">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; képes blokkolni a bejelentett rosszindulatú támadó webhelyeket.">
+
+<!ENTITY blockAttackSites.label           "Bejelentett támadó webhely blokkolása (malware-ek, vírusok)">
+<!ENTITY blockAttackSites.accesskey       "t">
+
+<!ENTITY blockWebForgeries.label          "Bejelentett hamisított webhely blokkolása (adathalászat)">
+<!ENTITY blockWebForgeries.accesskey      "h">
