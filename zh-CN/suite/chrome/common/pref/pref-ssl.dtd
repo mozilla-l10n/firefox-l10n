@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL 协议版本">
 <!ENTITY  SSLWarnings.caption               "SSL 警告">
+<!ENTITY  SSLMixedContent.caption           "混合内容">
 <!ENTITY  SSLClientAuthMethod.caption       "客户证书选择">
 
 <!ENTITY pref.ssl.title                     "安全套接字层 (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "查看加密/未加密混合页">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "加密页面包含不安全内容是提醒我">
+<!ENTITY warn.mixedactivecontent.accesskey  "W">
+<!ENTITY block.activecontent                "不要读取加密页面上的不安全内容">
+<!ENTITY block.activecontent.accesskey      "D">
+<!ENTITY warn.mixeddisplaycontent           "加密页面包含其他类型混合内容时提醒我">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "不要读取加密页面上的其他类型混合内容">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "用于决定 &brandShortName; 如何为那些请求证书的网站选择安全证书:">
 <!ENTITY certselect.auto                    "自动选择">

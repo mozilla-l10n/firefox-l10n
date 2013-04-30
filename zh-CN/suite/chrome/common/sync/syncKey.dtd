@@ -11,7 +11,7 @@
 <!ENTITY syncKey.keepItSafe2.description  " 我们不会保留您密钥的副本（那样将无法保证其秘密性！）因此 ">
 <!ENTITY syncKey.keepItSafe3.description  "我们不能帮您恢复它">
 <!ENTITY syncKey.keepItSafe4.description  " 如果丢失的话。任何时候需要在一台新的电脑或者设备上使用 &syncBrand.fullName.label; 数据时，您都需要使用这个密钥。">
-<!ENTITY syncKey.findOutMore1.label       "了解更多有关 &syncBrand.fullName.label; 和您的隐私权在 ">
+<!ENTITY syncKey.findOutMore1.label       "了解更多有关 &syncBrand.fullName.label; 和您的隐私权，请访问 ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; 服务条款可在 ">
 <!ENTITY syncKey.footer2.label            "。隐私权政策，请访问 ">

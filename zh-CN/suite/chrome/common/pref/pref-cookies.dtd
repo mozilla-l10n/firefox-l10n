@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Cookie 接收策略">
 
-<!ENTITY accAllCookiesRadio.label       "接受所有 cookie">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "仅接受来自原站点的 cookie">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "阻止 cookie">
 <!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY accNo3rdPartyCookies.label     "只接受来自本网站的 cookie （不接受第三方 cookie）">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label       "只允许之前访问过的网站保留第三方cookies">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
+
+<!ENTITY accAllCookies.label            "接受所有 cookie">
+<!ENTITY accAllCookies.accesskey        "c">
 
 <!ENTITY cookieRetentionPolicy.label    "cookie 保存策略">
 

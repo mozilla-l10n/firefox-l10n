@@ -26,10 +26,9 @@
 ">
 
 <!ENTITY fileNotFound.title "未找到文件">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>请检查文件名的大小写或者其他拼写错误。</li>
-  <li>请检查文件是否被移动，重命名或者删除。</li>
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>请检查文件名的大小写或者其他输入错误。</li>
+  <li>请检查文件是否已被移动，重命名或删除。</li>
 </ul>
 ">
 
@@ -89,7 +88,7 @@
  ">
 
 <!ENTITY redirectLoop.title "此页面不能正确地重定向">
-<!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>此问题有时可能是因为禁用或拒绝接受 Cookie 导致的。</li></ul>">
 
 <!ENTITY unknownSocketType.title "不预期的服务器回应">
 <!ENTITY unknownSocketType.longDesc "

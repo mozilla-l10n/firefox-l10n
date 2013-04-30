@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "请告诉我们您对 Android 版 &brandShortName; 的看法。">
 <!ENTITY intro.happyLink           "我超喜欢">
 <!ENTITY intro.sadLink             "我遇到一些问题">
-<!ENTITY intro.ideaLink            "我有个建议">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -52,19 +51,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "或者其他。">
 
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "我们很高兴听到您的意见！请在下面分享你的想法。（仅关于 &brandShortName; ，谢谢。）">
-<!ENTITY idea.placeholder          "请在此输入您的点子">
-<!ENTITY idea.thanksHeader         "感谢!">
-
-<!ENTITY idea.thanksMessageTop     "很感谢您花时间分享您的想法。我们始终致力于让 &brandShortName; 变得更好，如您这样的贡献会给我们带来极大帮助。">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "你看不见它，但我们现在就会为你欢呼。">
-
 <!ENTITY feedback.privacy          "为了您的隐私，不要在反馈中包含任何私人标识信息。">
-<!ENTITY feedback.send             "发送反馈">
+<!ENTITY feedback.send             "提交反馈">
