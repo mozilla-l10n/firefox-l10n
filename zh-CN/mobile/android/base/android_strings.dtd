@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "已保存密码">
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
-<!ENTITY pref_private_data_siteSettings "网站偏好">
+<!ENTITY pref_private_data_siteSettings2 "站点设置">
 <!ENTITY pref_private_data_downloadFiles "已下载文件">
 
 <!ENTITY pref_update_autodownload "自动更新">
