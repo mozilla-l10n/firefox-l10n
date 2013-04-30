@@ -5,14 +5,14 @@
 <!ENTITY pref.download.title            "Letöltések">
 
 <!ENTITY downloadBehavior.label         "A letöltés kezdetekor">
-<!ENTITY focusWhenStarting.label        "A letöltéskezelő vilogással jelzi, ha már meg van nyitva, minden más esetben:">
-<!ENTITY focusWhenStarting.accesskey    "v">
-<!ENTITY openDM.label                   "Letöltéskezelő megnyitása">
-<!ENTITY openDM.accesskey               "L">
-<!ENTITY openProgressDialog.label       "Folyamatkijelző ablak megnyitása">
-<!ENTITY openProgressDialog.accesskey   "F">
 <!ENTITY doNothing.label                "Ne nyisson meg semmit">
 <!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Folyamatkijelző ablak megnyitása">
+<!ENTITY openProgressDialog.accesskey   "F">
+<!ENTITY openDM.label                   "Letöltéskezelő megnyitása">
+<!ENTITY openDM.accesskey               "L">
+<!ENTITY flashWhenOpen.label            "A már megnyitott Letöltéskezelő jelzése villogással">
+<!ENTITY flashWhenOpen.accesskey        "v">
 
 <!ENTITY downloadLocation.label         "Fájl mentésekor">
 <!ENTITY saveTo.label                   "Fájlok mentése:">
