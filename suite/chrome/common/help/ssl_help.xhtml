@@ -44,35 +44,49 @@
   
 <h3 id="ssl_protocol_versions">Versiones del protocolo SSL</h3>
 
-<p>El protocolo &quot;Capa de Conexiones Seguras&quot; (<em>Secure Sockets
-  Layer</em>, SSL) define reglas que rigen la identificación mutua
-  entre un sitio web y un navegador, así como el cifrado de la
-  información que fluye entre ellos. El protocolo de &quot;Seguridad de
-  la Capa de Transporte"&quot; (<em>Transport Layer Security</em>, TLS) es un
-  estándar <abbr title="Internet Engineering Task Force">IETF</abbr>
-  basado en SSL. TLS 1.0 puede considerarse como <em>SSL 3.1</em>.</p>
-
-<p>Normalmente todas las casillas siguientes deberían dejarse
-  seleccionadas para asegurar que tanto los servidores web antiguos como los
-  nuevos son capaces de funcionar con el navegador:</p>
+<p>El protocolo <a href="glossary.xhtml#ssl">Capa de Conexiones Seguras
+  (SSL)</a> define las reglas que rigen la identificación mutua entre un sitio
+  web y un navegador y el cifrado de la información que fluye entre ambos.
+  También se usa para la comunicación segura en otros protocolos, p.e., para
+  la protección de información confidencial intercambiada con servidores de
+  correo, calendario o directorio. El más reciente protocolo de la Seguridad
+  de la Capa de Transporte (TLS) es un estándar IEF basado en SSL pero con su
+  propia numeración de versiones. TLS 1.0 puede ser considerado equivalente a
+  SSL 3.1 y TLS 1.1 es a su vez una actualización de TLS 1.0. Los protocolos
+  más recientes son preferidos a los más antiguos, ya que proporcionan mejor
+  seguridad y más características. Los protocolos más antiguos se admiten para
+  asegurar la compatibilidad.</p>
+    
+<p>Por defecto, &brandShortName; seleccionará la versión más segura admitida
+  con carácter general para conectar al servidor. Si ese intento no tiene
+  éxito, intentará conectar con la versión inmediatamente anterior, y así
+  sucesivamente hasta donde le permitan las opciones establecidas en el panel.
+  La conexión fallará si no se encuentra ningún protocolo admitido por ambas
+  partes. Puede excluir las versiones más antiguas explícitamente, o permitir
+  versiones más modernas que pueden no estar admitidas ampliamente aún, con
+  las siguientes opciones:</p>
 
 <ul>
-  <li><strong>Activar SSL 3.0</strong>: permite a los servidores web que
-    implementan SSL 3.0 comunicarse con el navegador.</li>
-  <li><strong>Activar TLS 1.0</strong>: permite a los servidores web más
-    modernos que implementan TLS aprovechar este protocolo.</li>
+  <li><strong>Activar</strong>: marque las casillas <strong>SSL 3.0</strong>,
+    <strong>TLS 1.0</strong>, o <strong>TLS 1.1</strong> para indicar qué
+    versiones del protocolo pueden ser usadas para una conexión segura al
+    servidor.</li>
 </ul>
 
-<p><strong>Nota importante relativa a TLS</strong>: algunos servidores que
-  no implementan SSL correctamente no pueden negociar el <em>saludo SSL</em>
-  con software cliente (como &brandShortName;) que implementa TLS. Tales
-  servidores son conocidos como <q>incompatibles TLS</q>.</p>
+<p><strong>Notas</strong>:</p>
 
-<p>Cuando la opción Activar TLS 1.0 del panel de preferencias SSL
-  está seleccionada, el navegador intenta utilizar el protocolo TLS para
-  realizar conexiones seguras con el servidor. Si esa conexión falla
-  porque el servidor es incompatible TLS, el navegador recurrirá a SSL
-  3.0 (si está activado).</p>
+<ul>
+  <li>Debe seleccionarse al menos una versión del protocolo, por lo que no es
+    posible desmarcar la última casilla marcada.</li>
+  <li>Además, la selección debe ser consecutiva. No es posible seleccionar
+    SSL 3.0 y TLS 1.1 pero excluir la versión intermedia TLS 1.0.</li>
+  <li>Puede extender el rango en múltiples versiones. Por ejemplo, si sólo
+    está marcada SSL 3.0 y se selecciona TLS 1.1, se seleccionará también
+    automáticamente la versión TLS 1.0.</li>
+  <li>Las casillas pueden aparecer marcadas pero desactivadas si no se pueden
+    desmarcar sin violar estas reglas. Desmarque las casillas de los extermos
+    para poder acceder a las versiones intermedias.</li>
+</ul>
 
 <h3 id="ssl_warnings">Advertencias SSL</h3>
 
