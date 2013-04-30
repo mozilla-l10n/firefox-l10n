@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "自定义…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "显示托盘图标">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "播放">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "默认的系统新邮件提示声">
