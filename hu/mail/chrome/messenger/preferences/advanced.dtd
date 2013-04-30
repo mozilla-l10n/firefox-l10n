@@ -31,7 +31,7 @@
 <!ENTITY checkDefaultsNow.accesskey    "E">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
 <!ENTITY configEdit.label              "Konfigurációszerkesztő…">
-<!ENTITY configEdit.accesskey          "B">
+<!ENTITY configEdit.accesskey          "K">
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények…">
 <!ENTITY showReturnReceipts.accesskey  "T">
