@@ -19,9 +19,9 @@
 <!ENTITY fontPlainText.label "Carattere:">
 <!ENTITY fontPlainText.accesskey "r">
 <!ENTITY displayQuoted.label "Impostazioni per i messaggi citati:">
-<!ENTITY wrapInMsg.label "Manda a capo il testo adattandolo alla larghezza della finestra">
-<!ENTITY wrapInMsg.accesskey "M">
-<!ENTITY convertEmoticons.label "Visualizza gli emoticon come icone">
+<!ENTITY wrapInMsg.label "Vai a capo in base alla larghezza della finestra">
+<!ENTITY wrapInMsg.accesskey "V">
+<!ENTITY convertEmoticons.label "Mostra le emoticon come icone">
 <!ENTITY convertEmoticons.accesskey "e">
 <!ENTITY generalMessageDisplay.caption "Generale">
 <!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
