@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜索消息">
 <!ENTITY results.label               "结果">
-<!ENTITY fileHereMenu.label          "移动至此处">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "移动">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "移动到这里">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "移动到">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "在文件夹中打开">
 <!ENTITY openInFolder.accesskey      "r">

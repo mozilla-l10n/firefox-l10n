@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "系统集成">
 <!ENTITY acceptIntegration.label  "设为默认值">
 <!ENTITY cancelIntegration.label  "跳过整合">
+<!ENTITY cancelIntegration2.label  "取消">
 <!ENTITY defaultClient.intro  "使用 &brandShortName; 作为下列应用的默认客户端：">
 
 <!ENTITY email.label "电子邮件">

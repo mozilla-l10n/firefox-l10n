@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "常规">
 <!ENTITY bigger.label                     "较大">
 <!ENTITY smaller.label                    "较小">
-<!ENTITY color.label                      "颜色：">
-<!ENTITY color.accesskey                  "c">
+<!ENTITY quotedTextColor.label            "颜色:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "纯文本消息">
 <!ENTITY displayText.label                "当显示引用的纯文本消息时使用以下设置：">
-<!ENTITY colors.label                     "颜色">
-<!ENTITY overrideColors.label             "显示消息时，使用下列颜色：">
-<!ENTITY textColor.label                  "文本颜色：">
-<!ENTITY textColor.accesskey              "T">
-<!ENTITY backgroundColor.label            "背景颜色：">
-<!ENTITY backgroundColor.accesskey        "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "以图形显示表情图释">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label     "删除">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "字体">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "字体和颜色">
 <!ENTITY defaultFont.label       "默认字体:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "大小：">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "字体…">
+<!ENTITY colorButton.label       "颜色…">
+<!ENTITY colorButton.accesskey   "C">

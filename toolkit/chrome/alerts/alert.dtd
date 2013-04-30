@@ -2,5 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ok.label      "确定">
-<!ENTITY cancel.label  "取消">
+<!ENTITY     closeAlert.tooltip          "关闭此通知">

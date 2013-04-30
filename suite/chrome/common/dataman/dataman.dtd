@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "仅权限">
 <!ENTITY select.preferences.label "仅首选项">
 <!ENTITY select.passwords.label "仅密码">
+<!ENTITY select.storage.label "仅存储">
 
 <!ENTITY domain.search.placeholder "搜索域">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "权限">
 <!ENTITY tab.preferences.label "首选项">
 <!ENTITY tab.passwords.label "密码">
+<!ENTITY tab.storage.label "存储">
 <!ENTITY tab.formdata.label "表单数据">
 <!ENTITY tab.forget.label "忽略">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "移除">
 <!ENTITY pwd.button.remove.accesskey "R">
 
+<!-- storage -->
+<!ENTITY storage.description "在你的计算机上该域使用以下网页存储：">
+
+<!ENTITY storage.tree.host.label "网站">
+<!ENTITY storage.tree.type.label "类型">
+<!ENTITY storage.tree.size.label "大小">
+
+<!ENTITY storage.ctx.remove.label "移除">
+<!ENTITY storage.ctx.remove.accesskey "R">
+<!ENTITY storage.ctx.selectAll.label "全选">
+<!ENTITY storage.ctx.selectAll.accesskey "A">
+
+<!ENTITY storage.button.remove.label "移除">
+<!ENTITY storage.button.remove.accesskey "R">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "搜索字段数据">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "密码">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "存储">
+<!ENTITY forget.storage.accesskey "S">
 <!ENTITY forget.formdata.label "表单数据">
 <!ENTITY forget.formdata.accesskey "D">
 

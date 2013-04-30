@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "已保存到您计算机的 cookie：">
+<!ENTITY cookiesonsystem.label             "以下是在您的计算机上存储的 Cookie：">
 <!ENTITY cookiename.label                  "Cookie 名称">
 <!ENTITY cookiedomain.label                "站点">
 <!ENTITY button.removecookie.label         "移除 Cookie">
