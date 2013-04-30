@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "v">
 <!ENTITY popupWindowAllowCmd.label      "Felugró ablakok engedélyezése erről a webhelyről">
 <!ENTITY popupWindowAllowCmd.accesskey  "e">
-<!ENTITY openLinkCmd.label            "Megnyitás új ablakban">
-<!ENTITY openLinkCmd.accesskey        "a">
 <!ENTITY openLinkCmdInTab.label       "Megnyitás új lapon">
 <!ENTITY openLinkCmdInTab.accesskey   "l">
+<!ENTITY openLinkCmd.label            "Megnyitás új ablakban">
+<!ENTITY openLinkCmd.accesskey        "a">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Megnyitás új privát ablakban">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label    "Megnyitás">
 <!ENTITY openLinkInWindowCmd.accesskey "M">
 <!ENTITY openFrameCmd.label           "Keret megnyitása új ablakban">

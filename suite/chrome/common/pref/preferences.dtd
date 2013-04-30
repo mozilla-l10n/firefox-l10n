@@ -18,6 +18,7 @@
 <!ENTITY links.label "Hivatkozások viselkedése">
 <!ENTITY offline.label "Kapcsolat nélküli munka">
 <!ENTITY security.label "Adatvédelem és biztonság">
+<!ENTITY privatedata.label "Személyes adatok">
 <!ENTITY cookies.label "Sütik">
 <!ENTITY images.label "Képek">
 <!ENTITY popups.label "Felugró ablakok">

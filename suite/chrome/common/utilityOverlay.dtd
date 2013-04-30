@@ -22,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label "Böngészőablak">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "a">
+<!ENTITY newPrivateWindowCmd.label "Privát ablak">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "P">
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "O">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">

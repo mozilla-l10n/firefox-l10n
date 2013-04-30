@@ -29,6 +29,6 @@
 <!ENTITY wheelSpeed.label                "Egérgörgő-sebesség">
 <!ENTITY wheelSpeed.accesskey            "b">
 <!ENTITY wheelSpeedHoriz.accesskey       "e">
-<!ENTITY reverseDirection.label           "Fordított irány">
+<!ENTITY reverseDirection.label          "Fordított irány">
 <!ENTITY reverseDirection.accesskey      "o">
 <!ENTITY reverseDirectionHoriz.accesskey "t">
