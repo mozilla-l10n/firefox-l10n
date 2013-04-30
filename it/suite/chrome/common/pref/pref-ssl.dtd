@@ -7,10 +7,14 @@
 <!ENTITY SSLMixedContent.caption "Contenuto misto">
 <!ENTITY SSLClientAuthMethod.caption "Selezione certificato lato client">
 <!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label "Abilita SSL 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Abilita TLS 1.0">
-<!ENTITY enable.tls10.accesskey "T">
+<!ENTITY limit.description "È possibile restringere il numero di protocolli di cifratura da usare per le connessioni sicure. Scegliere una singola versione o un gruppo di versioni contigue.">
+<!ENTITY limit.enable.label "Abilita:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
 <!ENTITY warn.description "&brandShortName; può generare degli avvisi sullo stato di sicurezza della pagina web che si sta visitando. Impostare &brandShortName; per mostrare un messaggio di avviso prima di:">
 <!ENTITY warn.enteringsecure "Caricare una pagina che gestisce la cifratura">
 <!ENTITY warn.enteringsecure.accesskey "C">
