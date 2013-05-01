@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption "Sélection du certificat client">
 
 <!ENTITY pref.ssl.title "Protocole SSL">
-<!ENTITY enable.ssl30.label "Autoriser SSL version 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Autoriser TLS version 1.0">
-<!ENTITY enable.tls10.accesskey "T">
+<!ENTITY limit.description                  "Vous pouvez restreindre les protocoles de chiffrement à utiliser pour les connexions sécurisées. Choisissez une version unique ou une plage contiguë de versions.">
+<!ENTITY limit.enable.label                 "Autoriser :">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page web courante. Régler &brandShortName; pour afficher un avertissement et me demander la permission avant :">
 <!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement des données">
