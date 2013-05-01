@@ -4,5 +4,27 @@
 
 <!ENTITY privatebrowsingpage.title        "Privát böngészés">
 <!-- LOCALIZATION NOTE: The experimental title is temporary -->
+
+<!ENTITY privatebrowsingpage.experimental "A &privatebrowsingpage.title; jelenlg egy fejlesztés alatt álló szolgáltatás.">
+<!ENTITY privatebrowsingpage.description  "A privát böngészési ablakban a &brandShortName; nem tartja meg a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
+<!ENTITY privatebrowsingpage.moreinfo     "Bár ezen a számítógépen nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
 <!ENTITY privatebrowsingpage.learnmore.label     "További információ">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "T">
+
+<!ENTITY privatebrowsingpage.private      "A &brandShortName; ebben az ablakban nem tárolja el a böngészés előzményeit. A &privatebrowsingpage.title; befejezéséhez bezárhatja ezt az ablakot.">
+<!ENTITY privatebrowsingpage.switch.label        "Átváltás egy hagyományos ablakra.">
+<!ENTITY privatebrowsingpage.switch.accesskey    "s">
+<!ENTITY privatebrowsingpage.normal       "Jelenleg nem használja a &privatebrowsingpage.title; szolgáltatást.">
+<!ENTITY privatebrowsingpage.private.label       "Privát ablak megnyitása">
+<!ENTITY privatebrowsingpage.private.accesskey   "P">
+<!ENTITY privatebrowsingpage.info         "A &privatebrowsingpage.title; indításához válassza ki a Fájl menü ― Új ― Privát ablak menüelemet.">
+
+<!ENTITY privatebrowsingpage.title                 "Privát böngészés">
+<!ENTITY privatebrowsingpage.title.normal          "Szeretné elindítani a privát böngészést?">
+
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "A &brandShortName; semmit nem fog megjegyezni ebből az ablakból.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Jelenleg nincs privát ablakban.">
+
+
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Privát ablak megnyitása">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
