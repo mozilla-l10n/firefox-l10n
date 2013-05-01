@@ -29,6 +29,7 @@
 <!ENTITY tab.permissions.label "Permisos">
 <!ENTITY tab.preferences.label "Preferencias">
 <!ENTITY tab.passwords.label "Contraseñas">
+<!ENTITY tab.storage.label "Almacenamiento">
 <!ENTITY tab.formdata.label "Datos de formularios">
 <!ENTITY tab.forget.label "Olvidar">
 
