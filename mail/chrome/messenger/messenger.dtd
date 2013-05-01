@@ -461,7 +461,7 @@
 <!ENTITY joinChatCmd.label "Chat beitreten…">
 <!ENTITY joinChatCmd.accesskey "C">
 <!ENTITY savedFiles.label "Gespeicherte Dateien">
-<!ENTITY savedFiles.accesskey "G">
+<!ENTITY savedFiles.accesskey "D">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "Filter…">
 <!ENTITY filtersCmd.accesskey "F">
