@@ -7,10 +7,10 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://zh.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://zh.wikipedia.org/wiki/Special:搜索">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
   <Param name="variant" value="zh-tw"/>
 </Url>
-<SearchForm>http://zh.wikipedia.org/wiki/Special:Search</SearchForm>
+<SearchForm>http://zh.wikipedia.org/wiki/Special:搜索</SearchForm>
 </SearchPlugin>
