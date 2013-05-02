@@ -1,6 +1,6 @@
-<!ENTITY networkPanel.requestURL                  "ଅନୁରୋଧ କରାଯାଇଥିବା URL">
-<!ENTITY networkPanel.requestMethod               "ଅନୁରୋଧ କରାଯାଇଥିବା ପଦ୍ଧତି">
-<!ENTITY networkPanel.statusCode                  "ସ୍ଥିତି ସଂକେତ">
+
+
+
 
 <!ENTITY networkPanel.requestHeaders              "ଅନୁରୋଧ କରାଯାଇଥିବା ଶୀର୍ଷକ">
 <!ENTITY networkPanel.requestCookie               "ପଠାଯାଇଥିବା କୁକି">
@@ -17,7 +17,7 @@
 
 <!ENTITY btnClear.label        "ସଫାକରନ୍ତୁ">
 <!ENTITY btnClear.tooltip      "ୱେବ କୋନସଲ ଫଳାଫଳକୁ ସଫାକରନ୍ତୁ">
-<!ENTITY btnClose.tooltip      "ଏହି ୱେବ କୋନସଲକୁ ବନ୍ଦ କରନ୍ତୁ">
+
 <!ENTITY btnConsoleErrors       "ତ୍ରୁଟିଗୁଡ଼ିକ">
 <!ENTITY btnConsoleInfo         "ସୂଚନା">
 <!ENTITY btnConsoleWarnings     "ଚେତାବନୀଗୁଡ଼ିକ">
@@ -30,8 +30,7 @@
 <!ENTITY btnPageLogging.tooltip "window.console ବସ୍ତୁ ପାଖକୁ ପଠାଯାଇଥିବା ଲଗ ସନ୍ଦେଶଗୁଡ଼ିକ">
 <!ENTITY btnPageNet.label   "ନେଟ">
 <!ENTITY btnPageNet.tooltip "ଲଗ ନେଟୱର୍କ ପ୍ରବେଶାନୁମତି">
-<!ENTITY btnPosition.label     "ସ୍ଥାନ">
-<!ENTITY btnPosition.tooltip   "ୱେବ କୋନସଲକୁ ଦଲିଲ ଉପରେ କିମ୍ବା ତଳେ ରଖନ୍ତୁ">
+
 <!ENTITY filterBox.placeholder "ଛାଣକ">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -40,9 +39,18 @@
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY positionMenu.above    "ଉପର">
-<!ENTITY positionMenu.below    "ତଳ">
-<!ENTITY positionMenu.window   "ୱିଣ୍ଡୋ">
+
 <!ENTITY saveBodies.label     "ଲଗ ଅନୁରୋଧ ଏବଂ ଉତ୍ତର ଲିଖିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY saveBodies.accesskey "L">
 <!ENTITY window.title "ୱେବ କୋନସଲ">
+
+<!ENTITY copyURLCmd.label     "ସଂଯୋଗିକୀ ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ">
+
+<!ENTITY copyURLCmd.accesskey "a">
+<!ENTITY networkPanel.requestMethodColon          "ପଦ୍ଧତିକୁ ଅନୁରୋଧ କରନ୍ତୁ:">
+<!ENTITY networkPanel.requestURLColon             "URL କୁ ଅନୁରୋଧ କରନ୍ତୁ:">
+<!ENTITY networkPanel.responseCookie              "ଗ୍ରହଣ କରାଯାଇଥିବା କୁକି">
+<!ENTITY networkPanel.statusCodeColon             "ସ୍ଥିତି ସଂକେତ:">
+<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "ନୂତନ ଟ୍ୟାବରେ URL କୁ ଖୋଲନ୍ତୁ">
+
