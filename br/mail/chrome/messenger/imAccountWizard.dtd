@@ -18,7 +18,7 @@
 <!ENTITY accountPasswordManager.label "Enrollet e vo ar ger-tremen enanket e ardoer ar gerioù-tremen. Laoskit ar voest-mañ goullo ma fell deoc'h bezañ goulennet ho ker-tremen bewech ma vo kennasket ho kont.">
 
 <!ENTITY accountAdvancedTitle.label   "Dibarzhioù kempleshoc'h">
-<!ENTITY accountAdvancedInfo.label    "Gallout a rit mont e-biou ar bazenn-mañ ma fell deoc'h henn ober.">
+<!ENTITY accountAdvancedInfo.label    "Gallout a rit mont e-biou ar bazenn-mañ ma fell deoc'h hen ober.">
 <!ENTITY accountAdvanced.newMailNotification.label   "Rebuziñ ar posteloù nevez">
 <!ENTITY accountAliasGroupbox.caption "Lesanv lec'hel">
 <!ENTITY accountAliasField.label      "Lesanv :">
