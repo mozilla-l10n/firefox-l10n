@@ -17,7 +17,6 @@ that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Datë Vizite">
 <!ENTITY clearTimeDuration.nameColumn     "Emër">
-<!ENTITY column.width                 "14em">
 <!ENTITY historySection.label         "Historik">
 <!ENTITY dataSection.label            "Të dhëna">
 
