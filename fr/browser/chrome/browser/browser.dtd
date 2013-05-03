@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Marquer cette page">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "S'abonner à cette page">
 <!ENTITY subscribeToPageMenuitem.label "S'abonner à cette page…">
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
@@ -646,6 +646,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
 <!ENTITY social.chatBar.accesskey "S">
+
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "e">
+<!ENTITY social.marklink.accesskey "e">
 
 <!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
