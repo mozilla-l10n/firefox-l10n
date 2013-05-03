@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!-- LOCALIZATION NOTE (indicator.tooltiptext):
-     Tooltip for the indicator that displays the progress of ongoing downloads.
-     -->
-<!ENTITY indicator.tooltiptext            "ଆହରଣଗୁଡ଼ିକ">
 
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
@@ -32,8 +28,17 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ଆହରଣ ସଂଯୋଗିକୀକୁ ନକଲ କରନ୍ତୁ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromList.label         "ତାଲିକାରୁ ବାହାର କରନ୍ତୁ">
-<!ENTITY cmd.removeFromList.accesskey     "e">
 <!ENTITY cmd.clearList.label              "ତାଲିକାକୁ ସଫା କରନ୍ତୁ">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY downloads.width                  "65ch">
+<!ENTITY clearDownloadsButton.label       "ଆହରଣଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ">
+<!ENTITY clearDownloadsButton.tooltip     "ସଫା କରାସରିଛି, ବାତିଲ ହୋଇଛି ଏବଂ ଆହରଣ ବିଫଳ ହୋଇଛି">
+<!ENTITY cmd.clearDownloads.label         "ଆହରଣଗୁଡ଼ିକୁ ସଫା କରନ୍ତୁ">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.removeFromHistory.label      "ପୁରୁଣା ତଥ୍ୟରୁ ବାହାର କରନ୍ତୁ">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY downloadDetails.width            "50ch">
+<!ENTITY downloadsHistory.label           "ସମସ୍ତ ଆହରଣଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsListEmpty.label         "ସେଠାରେ କୌଣସି ଆହରଣ ନାହିଁ।">
+<!ENTITY downloadsListNoMatch.label       "ମେଳ ଖାଉଥିବା କୌଣସି ଆହରଣ ଖୋଜିପାରିଲା ନାହିଁ।">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
