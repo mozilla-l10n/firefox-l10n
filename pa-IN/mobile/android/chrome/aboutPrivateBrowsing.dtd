@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.issueDesc.private      "ਤੁਸੀਂ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਨਹੀਂ ਹੋ।">
 
-<!ENTITY privatebrowsingpage.description            "In private tabs, &brandShortName; won't keep any browser history, search history, download history, web form history, cookies, or temporary internet files. However, files you download and bookmarks you make will be kept.">
+<!ENTITY privatebrowsingpage.description            "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ, &brandShortName; ਕੋਈ ਵੀ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ, ਖੋਜ ਅਤੀਤ, ਡਾਊਨਲੋਡ ਅਤੀਤ, ਵੈੱਬ ਫਾਰਮ ਅਤੀਤ, ਕੂਕੀਜ਼ ਜਾਂ ਆਰਜ਼ੀ ਇੰਟਰਨੈੱਟ ਫਾਇਲਾਂ ਨਹੀਂ ਰੱਖੇਗਾ। ਪਰ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਤੇ ਬਣਾਏ ਗਏ ਬੁੱਕਮਾਰਕ ਰੱਖੇਗਾ ਜਾਣਗੇ।">
 <!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "While this device won't have a record of your browsing history, your internet service provider can still track the pages you visit.">
+<!ENTITY privatebrowsingpage.moreInfo               "ਜਦੋਂ ਕਿ ਇਹ ਜੰਤਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ ਨੂੰ ਰਿਕਾਰਡ ਨਹੀਂ ਕਰੇਗਾ, ਪਰ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਾ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਪੇਜ਼ਾਂ ਬਾਰੇ ਸੁਰਾਗ ਰੱਖ ਸਕਦਾ ਹੈ।">

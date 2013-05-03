@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "If you need help or have a problem with &brandShortName;, please visit ">
+<!ENTITY support.pre               "ਜੇ ਤੁਹਾਨੂੰ ਮੱਦਦ ਚਾਹੀਦੀ ਹੈ ਜਾਂ &brandShortName; ਨਾਲ ਕੋਈ ਸਮੱਸਿਆ ਹੈ ਤਾਂ ਖੋਲ੍ਹੋ ਜੀ">
 <!ENTITY support.link              "&brandShortName; ਸਹਿਯੋਗ">
 <!ENTITY support.post              ".">
 
@@ -34,7 +34,7 @@
 <!ENTITY happy.maybeLater          "ਬਾਅਦ ਵਿੱਚ ਵੇਖਾਂਗੇ">
 <!ENTITY happy.noThanks            "ਨਹੀਂ ਧੰਨਵਾਦ ਜੀ">
 
-<!ENTITY sad.message               "We’re sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
+<!ENTITY sad.message               "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ ਕਿ ਤੁਹਾਨੂੰ &brandShortName; ਨਾਲ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆਈਆਂ ਹਨ। ਸਾਨੂੰ ਉਹਨਾਂ ਬਾਰੇ ਦੱਸੋ ਜੀ ਤਾਂ ਕਿ ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਠੀਕ ਕਰ ਸਕੀਏ।">
 <!ENTITY sad.placeholder           "ਆਪਣੇ ਸੁਝਾਅ ਇੱਥੇ ਦਿਓ">
 <!ENTITY sad.lastSite              "ਆਖਰੀ ਖੋਲ੍ਹੀ ਸਾਈਟ (ਮਰਜ਼ੀ ਮੁਤਾਬਕ)">
 
