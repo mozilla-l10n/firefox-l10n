@@ -28,6 +28,10 @@
   Mesiraziuns simplas
 ">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "
   Infurmaziuns davart il sistem
 ">
