@@ -58,7 +58,7 @@
 
 <!ENTITY connection.label                "Tilkopling">
 
-<!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar til Internett">
+<!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til Internett">
 <!ENTITY connectionSettings.label        "Innstillingar …">
 <!ENTITY connectionSettings.accesskey    "I">
 

@@ -345,16 +345,16 @@
 <!ENTITY replyToListMsgCmd.label "Svar til liste">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
-<!ENTITY forwardMsgCmd.label "Send vidare">
+<!ENTITY forwardMsgCmd.label "Vidaresend">
 <!ENTITY forwardMsgCmd.accesskey "V">
 <!ENTITY forwardMsgCmd.key  "l">
-<!ENTITY forwardAsMenu.label "Send vidare som">
+<!ENTITY forwardAsMenu.label "Vidaresend som">
 <!ENTITY forwardAsMenu.accesskey "d">
 <!ENTITY forwardAsInline.label "Innbunde">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Vedlegg">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Rediger meldinga som ny">
+<!ENTITY editMsgAsNewCmd.label "Rediger som ny">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Lag filter på meldinga">
@@ -373,7 +373,7 @@
 <!ENTITY killThreadMenu.label "Ignorer tråd">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorer deltråd">
+<!ENTITY killSubthreadMenu.label "Ignorer undertråd">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Overvak tråd">
@@ -458,8 +458,8 @@
 <!ENTITY imStatus.unavailable        "Utilgjengeleg">
 <!ENTITY imStatus.offline            "Fråkopla">
 <!ENTITY imStatus.showAccounts       "Vis kontoar …">
-<!ENTITY joinChatCmd.label "Join Chat…">
-<!ENTITY joinChatCmd.accesskey "o">
+<!ENTITY joinChatCmd.label "Opne nettprat …">
+<!ENTITY joinChatCmd.accesskey "O">
 <!ENTITY savedFiles.label "Lagra filer">
 <!ENTITY savedFiles.accesskey "L">
 <!ENTITY savedFiles.key "j">
@@ -494,7 +494,7 @@
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">
 <!ENTITY replyListButton.label "Svar til liste">
-<!ENTITY forwardButton.label "Send vidare">
+<!ENTITY forwardButton.label "Vidaresend">
 <!ENTITY fileButton.label "Fil">
 <!ENTITY archiveButton.label "Arkiv">
 <!ENTITY nextButton.label "Neste">
@@ -534,10 +534,10 @@
 <!ENTITY replyButton.tooltip "Svar til avsendar">
 <!ENTITY replyAllButton.tooltip "Svar til avsendar og alle mottakarar">
 <!ENTITY replyListButton.tooltip "Reply to mailing list">
-<!ENTITY forwardButton.tooltip "Send meldinga vidare">
-<!ENTITY fileButton.tooltip "Arkiver meldinga">
+<!ENTITY forwardButton.tooltip "Vidaresend meldinga">
+<!ENTITY fileButton.tooltip "Arkiver valt melding">
 <!ENTITY archiveButton.tooltip "Arkiver valde meldingar">
-<!ENTITY nextButton.tooltip "Flytt til neste ulesne melding">
+<!ENTITY nextButton.tooltip "Gå til neste ulesne melding">
 <!ENTITY nextMsgButton.tooltip "Gå til neste melding">
 <!ENTITY previousButton.tooltip "Gå til førre ulesne melding">
 <!ENTITY previousMsgButton.tooltip "Gå til førre melding">
@@ -550,18 +550,18 @@
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
 <!ENTITY junkButton.tooltip "Merk dei valde meldingane som uønskte">
 <!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ønskt">
-<!ENTITY addressBookButton.tooltip "Gå til adresseboka">
+<!ENTITY addressBookButton.tooltip "Opne adresseboka">
 <!ENTITY chatButton.tooltip "Vis nettprat-fana">
-<!ENTITY tagButton.tooltip "Merk meldingar">
+<!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
-<!ENTITY appmenuNewContactCmd.label "Adressebok-kontaktar …">
+<!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
 <!ENTITY appmenuQFBMenu.label "Snøggfilterlinje">
-<!ENTITY appmenuToolbarLayout.label "Verktøylinje-utsjånad …">
+<!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appmenuSelectThread.label "Vel tråd">
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
 
@@ -598,7 +598,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
 <!ENTITY folderContextUnsubscribe.label "Meld ut">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyheitsgruppe som lest">
+<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyheitsgruppe som lesen">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lest">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
@@ -643,7 +643,7 @@
 <!ENTITY junkStatusColumn.label "Uønskt-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
-<!ENTITY readColumn.label "Lest">
+<!ENTITY readColumn.label "Lesen">
 <!ENTITY receivedColumn.label "Mottatt">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
@@ -665,11 +665,11 @@
 <!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
-<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
+<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lesen-tilstand">
 <!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
 <!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
 <!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
-<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottakstidspunkt">
+<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottaksrekkjefølgje">
 <!ENTITY attachmentColumn.tooltip "Trykk her for å sortere etter vedlegg">
 
 <!-- Thread Pane Context Menu -->
