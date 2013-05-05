@@ -455,7 +455,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Némítás">
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Hang be">
-<!ENTITY mediaUnmute.accesskey       "H">
+<!ENTITY mediaUnmute.accesskey       "n">
+<!ENTITY mediaPlaybackRate.label     "Lejátszási sebesség">
+<!ENTITY mediaPlaybackRate.accesskey "s">
+<!ENTITY mediaPlaybackRate050x.label "Lassított felvétel (0,5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "L">
+<!ENTITY mediaPlaybackRate100x.label "Normál sebesség">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Gyorsított felvétel (1,5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "G">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Elképzelhetetlen sebesség (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "K">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -612,6 +625,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Oldalsáv megjelenítése">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Szolgáltatások kezelése…">
+
 <!ENTITY social.toggleNotifications.label "Asztali értesítések megjelenítése">
 <!ENTITY social.toggleNotifications.accesskey "A">
 
@@ -632,3 +647,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "További információ">
 <!ENTITY mixedContentBlocked.moreinfo "A legtöbb weboldal ezen tartalom blokkolása után is megfelelően fog működni.">
+
+<!ENTITY pointerLock.notification.message "Nyomja meg bármikor az Esc-t a megjelenítéséhez.">

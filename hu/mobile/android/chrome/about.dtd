@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Frissítések keresése »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nem találhatók frissítések">
-<!ENTITY aboutPage.checkForUpdates.found        "Frissítés érhető el">
+<!ENTITY aboutPage.checkForUpdates.available    "Frissítés érhető el; kattintson a letöltéshez">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Frissítés letöltése…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Frissítés letöltve; kattintson a telepítéshez">
 <!ENTITY aboutPage.faq.label                    "GYIK">
 <!ENTITY aboutPage.support.label                "Támogatás">
 <!ENTITY aboutPage.privacyPolicy.label          "Adatvédelmi irányelvek">

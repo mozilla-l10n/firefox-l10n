@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Mentett jelszavak">
 <!ENTITY pref_private_data_cache "Gyorsítótár">
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
-<!ENTITY pref_private_data_siteSettings "Webhely beállításai">
+<!ENTITY pref_private_data_siteSettings2 "Oldalbeállítások">
 <!ENTITY pref_private_data_downloadFiles "Letöltött fájlok">
 
 <!ENTITY pref_update_autodownload "Automatikus frissítések">
