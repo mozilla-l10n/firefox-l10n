@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Järjestelmään sopeuttaminen">
 <!ENTITY acceptIntegration.label  "Aseta oletukseksi">
 <!ENTITY cancelIntegration.label  "Ohita järjestelmään sopeuttaminen">
+<!ENTITY cancelIntegration2.label  "Peruuta">
 <!ENTITY defaultClient.intro  "Käytä &brandShortName;iä oletusohjelmana:">
 
 <!ENTITY email.label "Sähköpostille">

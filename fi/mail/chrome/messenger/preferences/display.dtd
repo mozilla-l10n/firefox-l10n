@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                 "Normaali">
 <!ENTITY bigger.label                      "Suurempi">
 <!ENTITY smaller.label                     "Pienempi">
-<!ENTITY color.label                       "Väri:">
-<!ENTITY color.accesskey                   "V">
+<!ENTITY quotedTextColor.label            "Väri:">
+<!ENTITY quotedTextColor.accesskey        "V">
 <!ENTITY displayWidth.label                "Pelkkä teksti -viestit">
 <!ENTITY displayText.label	           "Kirjasinlaji lainattaessa pelkkä teksti -viestejä:">
-<!ENTITY colors.label                     "Värit">
-<!ENTITY overrideColors.label             "Käytä seuraavia värejä viestien näyttämiseen:">
-<!ENTITY textColor.label                 "Tekstin väri:">
-<!ENTITY textColor.accesskey             "e">
-<!ENTITY backgroundColor.label           "Taustaväri:">
-<!ENTITY backgroundColor.accesskey       "u">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Näytä hymiöt kuvina">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label    "Poista">
 <!ENTITY removeTagButton.accesskey "P">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Kirjasinlajit">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Kirjasinlajit ja värit">
 <!ENTITY defaultFont.label       "Oletuskirjasin:">
 <!ENTITY defaultFont.accesskey   "O">
 <!ENTITY defaultSize.label       "Koko:">
 <!ENTITY defaultSize.accesskey   "K">
 <!ENTITY fontOptions.accesskey   "L">
 <!ENTITY fontOptions.label       "Lisäasetukset…">
+<!ENTITY colorButton.label       "Värit…">
+<!ENTITY colorButton.accesskey   "V">
