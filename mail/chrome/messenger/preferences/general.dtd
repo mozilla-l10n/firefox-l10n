@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Muokkaa…">
 <!ENTITY customizeMailAlert.accesskey     "M">
 
+<!ENTITY showTrayIcon.label               "Näytä ilmoitusalueen kuvake">
+<!ENTITY showTrayIcon.accesskey           "i">
+
 <!ENTITY play.label                       "Toista">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Järjestelmän oletusäänimerkki uudelle sähköpostille">

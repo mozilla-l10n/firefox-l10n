@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Avaa keskusteluna">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Avaa syötteen viesti">
-<!ENTITY openFeedMessage.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
-<!ENTITY openFeedWebPageInWindow.accesskey "V">
-<!ENTITY openFeedSummaryInWindow.label "Yhteenveto uuteen ikkunaan">
-<!ENTITY openFeedSummaryInWindow.accesskey "Y">
+<!ENTITY openFeedMessage1.label "Avattaessa syöteviestejä">
+<!ENTITY openFeedMessage1.accesskey "A">
+<!ENTITY openFeedWebPage.label "Avaa verkkosivuna">
+<!ENTITY openFeedWebPage.accesskey "v">
+<!ENTITY openFeedSummary.label "Avaa yhteenvetona">
+<!ENTITY openFeedSummary.accesskey "y">
 <!ENTITY openFeedWebPageInMP.label "Vaihda viestipaneelissa verkkosivun ja yhteenvedon kesken">
 <!ENTITY openFeedWebPageInMP.accesskey "V">
 
