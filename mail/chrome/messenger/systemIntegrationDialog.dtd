@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Integrálódás a rendszerbe">
 <!ENTITY acceptIntegration.label  "Legyen ez az alapértelmezett">
 <!ENTITY cancelIntegration.label  "Integráció kihagyása">
+<!ENTITY cancelIntegration2.label  "Mégse">
 <!ENTITY defaultClient.intro  "A &brandShortName; beállítása alapértelmezett kliensként:">
 
 <!ENTITY email.label "Levelezés">
