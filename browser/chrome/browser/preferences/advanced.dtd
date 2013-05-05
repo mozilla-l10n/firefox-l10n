@@ -35,9 +35,9 @@
 
 <!ENTITY dataChoicesTab.label            "Decisiuns da datas">
 
-<!ENTITY healthReportSection.label       "Bilantscha da sanadad da &brandShortName;">
+<!ENTITY healthReportSection.label       "Analisa da sanadad da &brandShortName;">
 <!ENTITY healthReportDesc.label          "Gida dad analisar la prestaziun da tes navigatur e cundivida cun &vendorShortName; las datas davart la sanadad da tes navigatur">
-<!ENTITY enableHealthReport.label        "Activar la bilantscha da sanadad da &brandShortName;">
+<!ENTITY enableHealthReport.label        "Activar l'analisa da sanadad da &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "F">
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
