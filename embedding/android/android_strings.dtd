@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "Configurando &brandShortName;…">
+
+<!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
+<!ENTITY  error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos requeridos por &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Informador de errores de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; ha fallado. Sus pestañas debieran ser listadas en la página de inicio, cuando reinicie &brandShortName;.">
+<!ENTITY  crash_help_message "Por favor, ¡ayúdenos a corregir este problema!">
+<!ENTITY  crash_send_report_message "Enviar a Mozilla un reporte de fallo">
+<!ENTITY  crash_include_url "Incluir la dirección de la página">
+<!ENTITY  crash_close_label "Cerrar">
+<!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
+<!ENTITY  sending_crash_report "Enviando reporte de fallo…">
+<!ENTITY  exit_label "Salir">
+<!ENTITY  continue_label "Continuar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "No se encontraron aplicaciones web">
+
+<!ENTITY choose_file "Elija el archivo">

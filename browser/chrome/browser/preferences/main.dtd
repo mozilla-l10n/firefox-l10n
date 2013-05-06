@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Descargas">
 
-<!ENTITY showWhenDownloading.label     "Mostrar ventana de Descargas cuando baje un archivo">
+<!ENTITY showWhenDownloading.label     "Mostrar ventana de descargas cuando baje un archivo">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "Cerrarla cuando todas las descargas hayan terminado">
 <!ENTITY closeWhenDone.accesskey "C">

@@ -20,7 +20,7 @@
 <!ENTITY  crash_include_url "Incluir la dirección de la página">
 <!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
-<!ENTITY  sending_crash_report "Enviando reporte de fallo\u2026">
+<!ENTITY  sending_crash_report "Enviando reporte de fallo…">
 <!ENTITY  exit_label "Salir">
 <!ENTITY  continue_label "Continuar">
 
@@ -54,10 +54,11 @@
 <!ENTITY site_security "Seguridad del sitio">
 
 <!ENTITY close_tab "Cerrar pestaña">
+<!ENTITY new_tab "Nueva pestaña">
 <!ENTITY one_tab "1 pestaña">
-<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs "&#037;d pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 
 <!ENTITY settings "Opciones">
@@ -78,7 +79,7 @@
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "No mostrar el menú">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
 <!ENTITY pref_plugins "Complementos">
 <!ENTITY pref_plugins_enabled "Habilitado">
@@ -101,7 +102,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "El rapidísimo zorro naranja salta sobre sus expectativas con más velocidad, más flexibilidad y más seguridad. Sin ánimo de lucro, somos libres para innovar por usted sin ninguna presión hacia el compromiso. Esto se traduce en una mejor experiencia para usted y un futuro más brillante para la web.">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_show_product_announcements "Mostrar anuncios del producto">
@@ -114,8 +115,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Contraseñas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_siteSettings "Preferencias del sitio">
 
 <!ENTITY pref_update_autodownload "Actualización automática">
 <!ENTITY pref_update_autodownload_wifi "Solo mediante Wi-Fi">
@@ -136,15 +136,7 @@ size. -->
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Solicitar sitio de escritorio">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_tab "Nueva pestaña">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Pestañas">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY new_pb_tab "Nueva pestaña de navegación privada">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -154,7 +146,6 @@ size. -->
 <!ENTITY find_close "Cerrar">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Abrir en Lector">
 <!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
@@ -163,7 +154,9 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copiar dirección">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
 
 <!ENTITY history_removed "Página eliminada">
 
@@ -184,7 +177,7 @@ size. -->
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
-<!ENTITY masterpassword_remove_title "Eliminar Contraseña Maestra">
+<!ENTITY masterpassword_remove_title "Eliminar Contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
@@ -201,20 +194,15 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
 <!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Sitios frecuentes">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder a los marcadores, historial y pestañas de sus otros dispositivos »">
 <!ENTITY abouthome_about_apps3 "Obtenga aplicaciones del Firefox Marketplace y descubra lo mejor que tiene la web para ofrecerle »">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
+     These strings are accentuated as bold text in the "abouthome_about_…"
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
@@ -250,11 +238,12 @@ desde Android">
 desde Android">
 <!ENTITY bookmarkhistory_import_history "Importar historial 
 desde Android">
-<!ENTITY bookmarkhistory_import_wait "Por favor, espere...">
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
+<!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
+<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
+     be kept in the string; this will be replaced with the name of the search
+     engine. -->
 
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt "¿Le gustaría activar las sugerencias de búsqueda en &#037;s?">
 
 <!ENTITY webapp_generic_name "App">
 
