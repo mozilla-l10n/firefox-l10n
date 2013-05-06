@@ -112,6 +112,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "අකුරු ප්‍රමාණය තෝරන්න">
 <!ENTITY decreaseFontSize.label "කුඩා">
+<!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "විශාල">
