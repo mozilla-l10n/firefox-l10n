@@ -18,15 +18,15 @@
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Revice la dirección por errores de tipeo como 
+<li>Revise la dirección por errores de tipeo como 
 <strong>ww</strong>.ejemplo.cl en vez de <strong>www</strong>.ejemplo.cl</li> 
-<li>Si usted no puede cargar ninguna página, revice los datos de su dispositivo o la conexión Wi-Fi.</li> 
+<li>Si usted no puede cargar ninguna página, revise los datos de su dispositivo o la conexión Wi-Fi.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Revice el nombre del archivo por mayúsculas u otro tipo de errores de escritura.</li> 
-<li>Revice si el archivo ha sido movido, renombrado o eliminado.</li> 
+<li>revise el nombre del archivo por mayúsculas u otro tipo de errores de escritura.</li> 
+<li>revise si el archivo ha sido movido, renombrado o eliminado.</li> 
 </ul>">
 
 
@@ -75,14 +75,14 @@
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando conexiones">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Revice los ajustes del proxy para asegurarse de que son correctos.</li> 
+<li>revise los ajustes del proxy para asegurarse de que son correctos.</li> 
 <li>Contacte a su administrador de red para asegurarse de que el servidor proxy está funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Imposible ubicar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Revice los ajustes del proxy para asegurarse de que son correctos.</li> 
-<li>Revice para asegurarse de que su dispositivo tiene los datos o una conexión Wi-Fi funcionando.</li> 
+<li>revise los ajustes del proxy para asegurarse de que son correctos.</li> 
+<li>revise para asegurarse de que su dispositivo tiene los datos o una conexión Wi-Fi funcionando.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Esta página no está redirigiendo correctamente">
@@ -92,7 +92,7 @@
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Revice para asegurarse de que su sistema tiene el Administrador de seguridad personal instalado.</li> 
+<li>revise para asegurarse de que su sistema tiene el Administrador de seguridad personal instalado.</li> 
 <li>Esto puede ocurrir por una configuración no estándar en el servidor.</li> 
 </ul>">
 
@@ -109,7 +109,7 @@
 
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>Este sitio puede estar temporalmente no disponible o muy ocupado. Intente nuevamente en unos instantes.</li> 
-<li>Si usted no puede cargar ninguna página, revice los datos móviles de su dispositivo o la conexión Wi-Fi.</li> 
+<li>Si usted no puede cargar ninguna página, revise los datos móviles de su dispositivo o la conexión Wi-Fi.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
@@ -118,9 +118,9 @@
 <!ENTITY corruptedContentError.title "Error de contenido corrupto">
 <!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque un error en la transmisión de datos fue detectado.</p><ul><li>Por favor contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 
-<!ENTITY securityOverride.linkText "O puede añadir una exepción...">
+<!ENTITY securityOverride.linkText "O puede añadir una exepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
-<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción...">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of

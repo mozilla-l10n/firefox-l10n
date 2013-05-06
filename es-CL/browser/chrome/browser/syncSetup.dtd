@@ -33,11 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-
 <!ENTITY setup.tosAgree1.label      "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey  "A">
 <!ENTITY setup.tosLink.label        "Terminos del servicio">
@@ -63,9 +60,9 @@
 <!ENTITY pairDevice.title.label             "Asociar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrarme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  'Para activar, seleccione "Asociar un dispositivo" en su otro dispositivo.'>
 <!ENTITY addDevice.setup.enterCode.label    "Ahí ingrese este código:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label 'Para activar su nuevo dispositivo, seleccione "Configurar Sync" en el dispositivo.'>
 <!ENTITY addDevice.dialog.enterCode.label   "Ingrese el código que provee el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Intente nuevamente.">
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado exitosamente. La sincronización inicial puede tomar varios minutos y terminará en segundo plano.">
@@ -74,7 +71,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Ingresar">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description 'Puede obtener una copia de su clave de recuperación yendo a las Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando "Mi clave de recuperación" en "Administrar cuenta".'>
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
 <!ENTITY resetSyncKey.label           "He perdido mi otro dispositivo.">
