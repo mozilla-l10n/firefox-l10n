@@ -4,7 +4,7 @@
 
 <!ENTITY privatebrowsingpage.title        "Privénavigatie">
 <!-- LOCALIZATION NOTE: The experimental title is temporary -->
-<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; is momenteel een experimentele eiegenschap.">
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; is momenteel een experimentele eigenschap.">
 <!ENTITY privatebrowsingpage.description  "In een &privatebrowsingpage.title;-venter, zal &brandShortName; geen schijfbuffer, cookies of browser-, zoek-, download- of webformulier-geschiedenis onthouden. Maar gedownloade bestanden en bladwijzers worden wel opgeslagen.">
 <!ENTITY privatebrowsingpage.moreinfo     "Hoewel deze computer geen navigatiegeschiedenis van u zal bewaren, kan uw internetserviceprovider of werkgever toch volgen welke pagina’s u bezoekt.">
 <!ENTITY privatebrowsingpage.learnmore.label     "Meer info">
