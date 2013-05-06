@@ -4,7 +4,7 @@
 
 <!ENTITY joinChatWindow.title "Dołącz do czatu">
 <!ENTITY name.label "Pokój">
-<!ENTITY optional.label "(niewyagane)">
+<!ENTITY optional.label "(niewymagane)">
 <!ENTITY account.label "Konto">
 <!ENTITY autojoin.label "łącz automatycznie">
 <!ENTITY autojoin.accesskey "a">
