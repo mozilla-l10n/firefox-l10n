@@ -29,7 +29,7 @@
 <!ENTITY markAsReadAfter.label "Только после просмотра в течение">
 <!ENTITY markAsReadAfter.accesskey "м">
 <!ENTITY secondsLabel.label "сек.">
-<!ENTITY openingMessages.label "При открытии сообщений отображать их в: ">
+<!ENTITY openingMessages.label "При открытии сообщений отображать их в:">
 <!ENTITY newWindowRadio.label "Новом окне сообщения">
 <!ENTITY newWindowRadio.accesskey "Н">
 <!ENTITY existingWindowRadio.label "Существующем окне сообщения">
