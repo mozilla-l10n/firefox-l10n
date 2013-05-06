@@ -15,7 +15,10 @@
 <!ENTITY highestPriorityCmd.label "ඉහළම">
 
 <!ENTITY contextDesc.label "පෙරහන යොදන්නේ:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "පරිශීලක යෙදීමේදී (Manually Run)">
+<!ENTITY contextManual.accesskey "R">
 <!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරන්න:">
 <!ENTITY filterActionDesc.accesskey "P">
 <!ENTITY contextBeforeCls.label "Filter before Junk Classification">

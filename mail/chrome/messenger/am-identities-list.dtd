@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identitiesListManageDesc.label "Manage the identities for this account. The first identity is used by default.">
-<!ENTITY identitiesListDesc.label "විවිධ හැඳුනුම් අනුමත කරන්න">
 <!ENTITY identitiesListAdd.label  "එක්කරන්න...">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "සකසන්න...">

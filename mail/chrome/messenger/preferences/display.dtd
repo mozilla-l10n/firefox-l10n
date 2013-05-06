@@ -16,7 +16,6 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "සාමාන්‍ය පාඨ ලිපි">
 <!ENTITY displayText.label		  "උදෘත (quoted) සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
-<!ENTITY colors.label                     "වර්ණ">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "ඉමෝටිකෝන (emoticons) පිංතූර ලෙස පෙන්වන්න">
