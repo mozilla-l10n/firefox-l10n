@@ -34,8 +34,12 @@
 <!ENTITY clearPrivateData.offline                                "Údaje stránok v režime offline">
 <!ENTITY clearPrivateData.logins                                 "Aktívne prihlásenia">
 <!ENTITY optionsHeader.privacy.passwords.label                   "Zapamätať si heslá">
-<!ENTITY optionsHeader.privacy.doNotTrack.title                  "Sledovanie">
-<!ENTITY optionsHeader.privacy.doNotTrack.label                  "Požiadať stránky, aby nesledovali moju aktivitu">
+<!ENTITY doNotTrack.title                                        "Funkcia Do Not Track">
+<!ENTITY doNotTrack.desc                                         "Oznámiť stránkam, že:">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "nechcem byť sledovaný">
+<!ENTITY doNotTrack.options.noPreference                         "neoznamovať moje preferencie v oblasti sledovania">
+<!ENTITY doNotTrack.options.trackingOkay                         "môžem byť sledovaný">
 
-<!-- ## Sync Flyout Panel ## -->
+
+  <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->

@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Výber klientskeho certifikátu">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label                 "Povoliť SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Povoliť TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "Môžete určiť, ktoré šifrovacie protokoly budú používané pre zabezpečené pripojenia. Zvoľte jednu verziu alebo súvislý rozsah verzií.">
+<!ENTITY limit.enable.label                 "Povoliť:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; vás môže upozorniť na stav zabezpečenia stránky, ktorú prehliadate. Nastavte si &brandShortName; tak, aby zobrazoval upozornenie a vyžadoval súhlas predtým, ako:">
 <!ENTITY warn.enteringsecure                "načíta zašifrovanú stránku">
