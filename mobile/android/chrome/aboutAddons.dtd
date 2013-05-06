@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Zakázať">
 <!ENTITY addonAction.uninstall                  "Odinštalovať">
 <!ENTITY addonAction.undo                       "Späť">
+<!ENTITY addonAction.setDefault                 "Nastaviť ako predvolený">
