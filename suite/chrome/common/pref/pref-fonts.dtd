@@ -69,6 +69,6 @@
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2                                 "When a webpage chooses its own fonts">
+<!ENTITY  header2                                 "When a web page chooses its own fonts">
 <!ENTITY  useDefaultFont.label                    "Use my default fonts, ignoring the fonts the page has chosen">
 <!ENTITY  useDefaultFont.accesskey                "u">
