@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Tallennetut salasanat">
 <!ENTITY pref_private_data_cache "Väliaikaistiedostot">
 <!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
-<!ENTITY pref_private_data_siteSettings "Sivustoasetukset">
+<!ENTITY pref_private_data_siteSettings2 "Sivustoasetukset">
 <!ENTITY pref_private_data_downloadFiles "Ladatut tiedostot">
 
 <!ENTITY pref_update_autodownload "Automaattiset päivitykset">
