@@ -1,9 +1,13 @@
 <!ENTITY systemIntegration.title  "පද්ධති ඒකාබද්ධ කිරීම">
+<!ENTITY acceptIntegration.label  "Set as Default">
+<!ENTITY cancelIntegration.label  "Skip Integration">
 <!ENTITY defaultClient.intro  "&brandShortName; පෙරනිමි සේවාග්‍රාහකය ලෙස භාවිතා කරන්න:">
 
 <!ENTITY email.label "වි.තැපැල්">
 <!ENTITY newsgroups.label "පුවත්සමූහ">
 <!ENTITY feeds.label "පෝෂක">
+
+<!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
 
 <!ENTITY checkOnStartup.label " &brandShortName; අරඹන විට මෙම පරීක්ෂාව කරන්න">
 <!ENTITY checkOnStartup.accesskey "A">

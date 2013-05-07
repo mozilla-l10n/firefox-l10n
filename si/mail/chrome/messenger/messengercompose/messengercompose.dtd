@@ -135,8 +135,8 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "බෙදාහැරීමේ තත්ත්ව නිවේදනය">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "හැඩගැසුම්">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "ස්ව-හැඳුනුම">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ පමණක්">
