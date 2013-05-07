@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY acceptCookies.accesskey       "e">
 
-<!ENTITY  acceptThirdParty.label        "Harmadik féltől származó sütik elfogadása">
-<!ENTITY acceptThirdParty.accesskey    "H">
+<!ENTITY  acceptThirdParty.pre.label      "Harmadik féltől származó sütik elfogadása:">
+<!ENTITY acceptThirdParty.pre.accesskey  "H">
+<!ENTITY  acceptThirdParty.always.label   "Mindig">
+<!ENTITY  acceptThirdParty.never.label    "Soha">
+<!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
 
 <!ENTITY  keepUntil.label               "Sütik megtartása:">
 <!ENTITY keepUntil.accesskey           "m">
