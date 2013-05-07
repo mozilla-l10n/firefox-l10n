@@ -113,11 +113,13 @@
 <!ENTITY FontSizeSelect.tooltip "අකුරු ප්‍රමාණය තෝරන්න">
 <!ENTITY decreaseFontSize.label "කුඩා">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "විශාල">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+
 
 <!ENTITY fontSizeMenu.label "විශාලත්වය">
 <!ENTITY fontSizeMenu.accesskey "z">
