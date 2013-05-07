@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "odpri kot pogovor">
 <!ENTITY openConversationCmd.accesskey "g">
 <!ENTITY openConversationCmd.key "g">
-<!ENTITY openFeedMessage.label "Odpri sporočilo RSS vira">
-<!ENTITY openFeedMessage.accesskey "r">
-<!ENTITY openFeedWebPageInWindow.label "Spletna stran v novem oknu">
-<!ENTITY openFeedWebPageInWindow.accesskey "s">
-<!ENTITY openFeedSummaryInWindow.label "Povzetek v novem oknu">
-<!ENTITY openFeedSummaryInWindow.accesskey "p">
+<!ENTITY openFeedMessage1.label "Pri odpiranju sporočil vira">
+<!ENTITY openFeedMessage1.accesskey "r">
+<!ENTITY openFeedWebPage.label "Odpri kot spletno stran">
+<!ENTITY openFeedWebPage.accesskey "s">
+<!ENTITY openFeedSummary.label "Odpri kot povzetek">
+<!ENTITY openFeedSummary.accesskey "p">
 <!ENTITY openFeedWebPageInMP.label "Izbiraj med spletno stranjo in povzetkom v podoknu za sporočila">
 <!ENTITY openFeedWebPageInMP.accesskey "m">
 

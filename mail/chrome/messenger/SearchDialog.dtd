@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Išči po sporočilih">
 <!ENTITY results.label               "Rezultati">
-<!ENTITY fileHereMenu.label          "Uvrsti sem">
-<!ENTITY fileHereMenu.accesskey      "D">
-<!ENTITY fileButton.label            "Datoteka">
-<!ENTITY fileButton.accesskey        "L">
+<!ENTITY moveHereMenu.label          "Premakni sem">
+<!ENTITY moveHereMenu.accesskey      "r">
+<!ENTITY moveButton.label            "Premakni v">
+<!ENTITY moveButton.accesskey        "v">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Odpri v mapi">
 <!ENTITY openInFolder.accesskey      "b">

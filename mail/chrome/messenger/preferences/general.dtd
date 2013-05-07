@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Ko se &brandShortName; zažene, prikaži domačo stran v polju sporočila">
 <!ENTITY enableStartPage.accesskey        "L">
 <!ENTITY location.label                   "Mesto:">
-<!ENTITY location1.accesskey               "B">
+<!ENTITY location1.accesskey              "B">
 <!ENTITY useDefault.label                 "Ponastavi privzeto">
 <!ENTITY useDefault.accesskey             "D">
 
@@ -15,11 +15,14 @@
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
 <!ENTITY playSound.label                  "Predvajaj zvok">
-<!ENTITY playSound1.accesskey              "p">
+<!ENTITY playSound1.accesskey             "p">
 <!ENTITY showAnimatedAlert.label          "Pokaži opozorilo">
 <!ENTITY showAnimatedAlert.accesskey      "b">
 <!ENTITY customizeMailAlert.label         "Prilagodi …">
 <!ENTITY customizeMailAlert.accesskey     "z">
+
+<!ENTITY showTrayIcon.label               "Prikaži ikono pladnja">
+<!ENTITY showTrayIcon.accesskey           "a">
 
 <!ENTITY play.label                       "Predvajaj">
 <!ENTITY play.accesskey                   "P">
