@@ -7,7 +7,7 @@
 
 <!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
 <!ENTITY abouthealth.pagetitle "&brandShortName; આરોગ્ય અહેવાલ">
-<!ENTITY abouthealth.header "&brandFullName; આરોગ્ય અહેવાલ">
+
 
 <!ENTITY abouthealth.intro.title "&brandShortName; આરોગ્ય અહેવાલ શું છે?">
 
@@ -25,7 +25,7 @@
 
 <!ENTITY abouthealth.show-report "&brandShortName; અહેવાલ બતાવો">
 
-<!ENTITY abouthealth.details.description-start "આ એ માહિતી છે કે જેને &brandFullName; જમા કરી રહ્યું હતું &brandShortName; ના આરોગ્ય અહેવાલને ચલાવવા માટે.   તમે ">
-<!ENTITY abouthealth.details-link "વધુ શીખી શકો છો">
-<!ENTITY abouthealth.details.description-end " અમે શું ભેગું કરી શકીએ અને જમા કરી શકીએ તેના વિશે.">
+
+
+
 <!ENTITY abouthealth.no-data-available "દર્શાવવા માટે પહેલાંનુ જમા કંઇ નથી. મહેરબાની કરીને પછી ચકાસો.">
