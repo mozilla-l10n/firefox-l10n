@@ -240,33 +240,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "ඇමුණුම් ලිපිය තුළම පෙන්වන්න">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "සාමාන්‍ය ආකාරයට">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "පාඨ පමණක් විශාල කරන්න">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "විශාලන">
-<!ENTITY fullZoom.accesskey             "Z">
-
 <!ENTITY pageSourceCmd.label "ලිපියේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
@@ -326,7 +299,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "චැට්">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "තරුයෙදූ ලිපියට">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "ආරම්භක පිටුවට">
@@ -549,7 +522,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
 <!ENTITY tagButton.tooltip "ටැග් ලිපි">
 <!ENTITY compactButton.tooltip "තෝරාගත් ෆෝල්ඩරයෙන් මැකූ ලිපි ඉවත් කිරීමට">
-<!ENTITY appmenuButton.tooltip "යෙදවුම් මෙනුව පෙන්වයි">
+<!ENTITY appmenuButton1.tooltip "&brandShortName; මෙනුව පෙන්වයි">
+
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "නව ලිපියක්">
@@ -557,6 +531,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "සැකසුම්">
 <!ENTITY appmenuQFBMenu.label "ක්ෂණික පෙරහන් තීරුව">
 <!ENTITY appmenuToolbarLayout.label "මෙවලම්තීරු සැකසුම…">
+<!ENTITY appmenuSelectThread.label "Select Thread">
+<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "නව ටැගයක්…">
