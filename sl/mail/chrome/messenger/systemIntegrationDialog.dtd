@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Sistemska integracija">
 <!ENTITY acceptIntegration.label  "Nastavi kot privzeto">
 <!ENTITY cancelIntegration.label  "Preskoči integracijo">
+<!ENTITY cancelIntegration2.label  "Prekliči">
 <!ENTITY defaultClient.intro  "Uporabi &brandShortName; kot privzeti program za:">
 
 <!ENTITY email.label "E-pošto">
