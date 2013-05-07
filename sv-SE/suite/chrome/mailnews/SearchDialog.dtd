@@ -21,10 +21,6 @@
 <!ENTITY moveHereMenu.accesskey      "F">
 <!ENTITY moveButton.label            "Flytta till">
 <!ENTITY moveButton.accesskey        "t">
-<!ENTITY fileHereMenu.label          "Arkivera här">
-<!ENTITY fileHereMenu.accesskey      "h">
-<!ENTITY fileButton.label            "Arkivera">
-<!ENTITY fileButton.accesskey        "v">
 <!ENTITY goToFolderButton.label      "Öppna mappen">
 <!ENTITY goToFolderButton.accesskey  "m">
 <!ENTITY saveAsVFButton.label        "Spara som sökmapp">
