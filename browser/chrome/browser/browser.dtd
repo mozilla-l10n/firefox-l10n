@@ -89,6 +89,17 @@
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Поделиться этой страницей">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "о">
+<!ENTITY shareLinkCmd.label "Поделиться этой ссылкой">
+<!ENTITY shareLinkCmd.accesskey "о">
+<!ENTITY shareImageCmd.label "Поделиться этой картинкой">
+<!ENTITY shareImageCmd.accesskey "о">
+<!ENTITY shareSelectCmd.label "Поделиться выделением">
+<!ENTITY shareSelectCmd.accesskey "о">
+<!ENTITY shareVideoCmd.label "Поделиться этим видео">
+<!ENTITY shareVideoCmd.accesskey "о">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
