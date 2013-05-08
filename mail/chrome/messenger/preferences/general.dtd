@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Oanpasse…">
 <!ENTITY customizeMailAlert.accesskey     "O">
 
+<!ENTITY showTrayIcon.label               "Taakbalkikoantsje toane">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Ofspylje">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standert systeemlûd foar nije e-mail">
