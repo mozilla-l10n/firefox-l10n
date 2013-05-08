@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "F">
 <!ENTITY searchDialogTitle.label     "Berjochten sykje">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY fileHereMenu.label          "Hjir bewarje">
-<!ENTITY fileHereMenu.accesskey      "H">
-<!ENTITY fileButton.label            "Bewarje yn">
-<!ENTITY fileButton.accesskey        "w">
+<!ENTITY moveHereMenu.label          "Hjirnei ferpleatse">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Ferpleats nei">
+<!ENTITY moveButton.accesskey        "n">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Iepenje yn map">
 <!ENTITY openInFolder.accesskey      "m">
