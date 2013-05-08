@@ -5,7 +5,7 @@
 <!ENTITY safeb.palm.accept.label "মোক ইয়াৰ পৰা লৈ যাওক!">
 <!ENTITY safeb.palm.decline.label "এই সকিয়নি আওকাণ কৰক">
 <!ENTITY safeb.palm.notforgery.label2 "এইটো ৱেব জালিয়াতি নহয়...">
-<!ENTITY safeb.palm.reportPage.label "এই ছাইটতো কিয় ৰোধ কৰা হৈছে?">
+<!ENTITY safeb.palm.reportPage.label "এই ছাইটটো কিয় ৰোধ কৰা হৈছে?">
 
 <!ENTITY safeb.blocked.malwarePage.title "প্ৰতিবেদন কৰা আক্ৰমণৰ ছাইট!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

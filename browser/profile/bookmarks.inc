@@ -28,7 +28,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
-#define getting_started আৰম্ভ হৈ আছে
+#define getting_started আৰম্ভণি
 
 
 # LOCALIZATION NOTE (firefox_heading):

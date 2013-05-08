@@ -41,9 +41,9 @@
 <!ENTITY pasteCmd.label                     "পেইস্ট কৰক">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "মচি পেলাওক">
+<!ENTITY deleteCmd.label                    "মচক">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "সকলো নিৰ্বাচন কৰক">
+<!ENTITY selectAllCmd.label                 "সকলো বাছক">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

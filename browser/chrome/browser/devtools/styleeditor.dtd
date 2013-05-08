@@ -16,12 +16,12 @@
 
 <!ENTITY window.title               "শৈলী সম্পাদক">
 
-<!ENTITY newButton.label            "নতুন (N)">
+<!ENTITY newButton.label            "নতুন">
 <!ENTITY newButton.tooltip          "দস্তাবেজলে এটা নতুন শৈলী পৰ্দা সৃষ্টি আৰু সংযোজন কৰক">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "ইমপোৰ্ট কৰক (I)…">
+<!ENTITY importButton.label         "ইমপোৰ্ট কৰক…">
 <!ENTITY importButton.tooltip       "দস্তাবেজলে এটা স্থায়ী শৈলী পৰ্দা ইমপোৰ্ট আৰু সংযোজন কৰক">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
@@ -29,7 +29,7 @@
 <!ENTITY visibilityToggle.tooltip   "শৈলী পৰ্দাৰ দৃশ্যমানতা অদল বদল কৰক">
 <!ENTITY visibilityToggle.accesskey "V">
 
-<!ENTITY saveButton.label           "সংৰক্ষণ কৰক (S)">
+<!ENTITY saveButton.label           "সংৰক্ষণ কৰক">
 <!ENTITY saveButton.tooltip         "এই শৈলী পৰ্দাক এটা ফাইললে সংৰক্ষণ কৰক">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "s">
@@ -38,7 +38,7 @@
 
 <!ENTITY scoped.label               "অৱকাশীত">
 
-<!ENTITY editorTextbox.placeholder  "CSS -ক ইয়াত টাইপ কৰক।">
+<!ENTITY editorTextbox.placeholder  "ইয়াত CSS টাইপ কৰক।">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 

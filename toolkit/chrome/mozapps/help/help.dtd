@@ -10,13 +10,13 @@
 
 <!ENTITY backButton.label               "পিছলৈ">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "এক পৃষ্ঠা পিছলৈ যাওক">
+<!ENTITY backButton.tooltip             "এটা পৃষ্ঠা পিছলৈ যাওক">
 <!ENTITY forwardButton.label            "আগলৈ">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "এক পৃষ্ঠা আগলৈ যাওক">
+<!ENTITY forwardButton.tooltip          "এটা পৃষ্ঠা আগলৈ যাওক">
 <!ENTITY copyCmd.label                  "কপি কৰক">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "সকলো নিৰ্বাচন কৰক">
+<!ENTITY selectAllCmd.label             "সকলো বাছক">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
@@ -26,9 +26,9 @@
 <!ENTITY printButton.tooltip            "এই পৃষ্ঠা প্ৰিন্ট কৰক">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "বিচাৰক">
-<!ENTITY searchHeader.label             "বিচৰাৰ ফলাফল">
-<!ENTITY toctab.label                   "সমল">
+<!ENTITY search.emptytext               "সন্ধান কৰক">
+<!ENTITY searchHeader.label             "সন্ধানৰ ফলাফল">
+<!ENTITY toctab.label                   "সমলসমূহ">
 <!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "সদায়ে ওপৰত">
 <!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "বাহিৰলৈ জুম কৰক">
+<!ENTITY fullZoomReduceBtn.label        "জুম আউট">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "ভিতৰলৈ জুম কৰক">
+<!ENTITY fullZoomEnlargeBtn.label       "জুম ইন">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">
