@@ -72,7 +72,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip "Utilizza sempre questo componente aggiuntivo">
 <!ENTITY cmd.neverActivate.label "Non attivare mai">
 <!ENTITY cmd.neverActivate.tooltip "Non utilizzare mai questo componente aggiuntivo">
-<!ENTITY cmd.tristateMenu.tooltip "Seleziona quando utilizzare questo componente aggiuntivo">
+<!ENTITY cmd.stateMenu.tooltip "Scegli quando utilizzare questo componente aggiuntivo">
 <!ENTITY cmd.installAddon.label "Installa">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Rimuovi">
