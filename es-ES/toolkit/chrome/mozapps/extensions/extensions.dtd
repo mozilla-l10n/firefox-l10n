@@ -72,7 +72,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip "Usar siempre este complemento">
 <!ENTITY cmd.neverActivate.label "No activar nunca">
 <!ENTITY cmd.neverActivate.tooltip "No usar nunca este complemento">
-<!ENTITY cmd.tristateMenu.tooltip "Cambiar cuando se ejecute este complemento">
+<!ENTITY cmd.stateMenu.tooltip "Cambiar cuando se ejecute este complemento">
 <!ENTITY cmd.installAddon.label "Instalar">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Eliminar">
