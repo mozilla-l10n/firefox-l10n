@@ -20,7 +20,7 @@ not have the system permissions required to install it. Please contact your
 system administrator, or try again from an account that has permission to 
 install software on this computer.">
 <!ENTITY  manualUpdate.space.desc         "නිර්දේශිත ආරක්ෂිත හා ස්ථායි යාවත්කාලීන කිරීම් ඇති නමුත් ස්ථාපනය සඳහා ඔබ සතුව ප්‍රමාණවත් හිස් ඉඩක් නැත.">
-<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+<!ENTITY  manualUpdateGetMsg.label        "ඔබට සෑම විටම  &brandShortName; හි නවතම නිකුතුව මෙතනින් ලබාගත හැකිය:">
 
 <!ENTITY  incompatibleCheck.title         "ඇඩෝන අනුකූල තාවය පිරික්සමින්">
 <!ENTITY  incompatibleCheck.label         "ඔබේ ඇඩෝන වල නවතම වෙළුම සඳහා සොයමින්…">
@@ -63,7 +63,7 @@ install software on this computer.">
 <!ENTITY  errorpatching.intro             "අඩ යාවත්කාල කිරීම් යෙදවිය නොහැක. 
 &brandShortName; සම්පූර්ණ වෙළුම බාගත කරගැනීමෙන් පසු නැවත උත්සහ කරන්න.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; සඳහා යාවත්කාලීන තිබේදැයි හරියටම නිශ්චය කරගත නොහැකිය. Please make sure that you have the latest version of &brandShortName; හි නවතම නිකුතුව ශබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; සඳහා යාවත්කාලීන තිබේදැයි හරියටම නිශ්චය කරගත නොහැකිය. &brandShortName; හි නවතම නිකුතුව ඔබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; ආරක්ෂීතව යාවත්කාලීන කිරීම කිසිවක් විසින් වළකාලයි. &brandShortName;  හි නවතම නිකුතුව ඔබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
 <!ENTITY  errorCertAttrHasUpdate.label    "කිසිවක් විසින් අනාරක්ෂිත යාවත්කාලීන කිරීමක් පිළිගැනීම සඳහා  &brandShortName; යොමුකිරීමට උත්සාහ දරයි. උදව් සඳහා ජාල සැපයුම්කරු සම්බන්ධ කරගන්න.">
 
@@ -81,4 +81,4 @@ install software on this computer.">
 
 <!ENTITY  update.details.label            "තොරතුරු">
 <!ENTITY  update.installedOn.label        "ස්ථාපිත දිනය:">
-<!ENTITY  update.status.label             "තත්වය:">
+<!ENTITY  update.status.label             "තත්ත්වය:">

@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ප්ලගීන සක්‍රීය කිරීමට මෙතනට යන්න.">
 <!ENTITY clickToActivatePlugin                               "ප්ලගීනය සක්‍රීය කරන්න.">
-<!ENTITY checkForUpdates                                     "Check for updates…">
+<!ENTITY checkForUpdates                                     "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න…">
 <!ENTITY disabledPlugin                                      "මෙම ප්ලගීනය අක්‍රීය කර ඇත.">
 <!ENTITY blockedPlugin.label                                 "ඔබගේ ආරක්‍ෂාව සඳහා මෙම ප්ලගීනය අවහිර කර ඇත.">
 
@@ -56,8 +56,8 @@
 <!ENTITY report.disabled                                     "බිඳවැටුම් වාර්තා කිරිම අබල (disable) කර ඇත.">
 <!ENTITY report.failed                                       "යැවීම අසාර්ථක විය.">
 <!ENTITY report.unavailable                                  "වාර්තාවක් නැත.">
-<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.comment                                      "සටහනක් යොදන්න (සටහන් අන් අයටද බැලිය හැකිය)">
+<!ENTITY report.pageURL                                      "පිටඅවේ URL ඇතුලත් කරන්න">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "ගොනුව">
+<!ENTITY plugin.mimeTypes                                    "MIME ආකාර">

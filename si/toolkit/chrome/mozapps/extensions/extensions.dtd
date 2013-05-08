@@ -59,7 +59,7 @@
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ (Restart) කරන්න">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.label          "ඇඩෝන පරිශීලක විසින් යාවත්කාලීන කිරීමට ප්‍රතිසැකසුම් (Reset) කරන්න">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "ඇඩෝන යාවත්කාලීන කිරීම">
 <!ENTITY updates.installed.label              "ඔබගේ ඇඩෝන යාවත්කාලීන නර ඇත.">
@@ -120,7 +120,7 @@ your own.">
 <!ENTITY detail.version.label                 "න්කුතුව">
 <!ENTITY detail.lastupdated.label             "අවසන් වරට යාවත්කාලීන කළේ">
 <!ENTITY detail.creator.label                 "සංවර්ධකයා">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.homepage.label                "මුල් පිටුව">
 <!ENTITY detail.numberOfDownloads.label       "බාගත කරන්න">
 
 <!ENTITY detail.contributions.description     "මෙම ඇඩෝන සංවර්ධකයා එහි අඛණ්ඩ සංවර්ධනය වෙනුවෙන් ඔබගේ දායකත්වය ඉල්ලා සිටියි.">
@@ -133,7 +133,7 @@ your own.">
 <!ENTITY detail.updateManual.label            "Off">
 <!ENTITY detail.updateManual.tooltip          "ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය නොකරන්න">
 <!ENTITY detail.home                          "මුල්පිටුව">
-<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.repository                    "ඇඩෝන ප්‍රොපයිලය">
 <!ENTITY detail.size                          "විශාලත්වය">
 
 <!ENTITY detail.checkForUpdates.label         "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න">
@@ -156,7 +156,7 @@ your own.">
 <!-- list sorting -->
 
 
-<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.label                      "නම">
 <!ENTITY sort.name.tooltip                    "නම අනුව පිළිවෙළට">
 <!ENTITY sort.dateUpdated.label               "අවසන් වරට යාවත්කාලීන කළේ">
 <!ENTITY sort.dateUpdated.tooltip             "යාවත්කාලීන කළ දිනය අනුව පිළිවෙළට">
@@ -172,7 +172,7 @@ your own.">
 <!ENTITY search.filter2.available.tooltip     "ස්ථාපනයට ඇති ඇඩෝන පෙන්වන්න">
 
 <!ENTITY addon.homepage                       "මුල්පිටුව">
-<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.label                  "වැඩිදුරටත්">
 <!ENTITY addon.details.tooltip                "මෙම ඇඩෝන ගැන වැඩි විස්තර පෙන්වන්න">
 <!ENTITY addon.unknownDate                    "නොදන්නා">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
@@ -200,7 +200,7 @@ your own.">
 <!ENTITY addon.loadingReleaseNotes.label      "පූරණය වේ…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.">
 
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.createdBy.label                "විසින් ">
 
 <!ENTITY eula.title                           "අවසන් පරිශීලක බලපත්‍ර ගිවිසුම">
 <!ENTITY eula.width                           "560px">

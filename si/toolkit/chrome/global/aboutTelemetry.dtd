@@ -25,7 +25,7 @@
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
+  සරල මිනුම්
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
@@ -33,7 +33,7 @@
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
+  පද්ධති තොරතුරු
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
@@ -41,15 +41,15 @@
 ">
 
 <!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
+  කොටස විහිදුවීමට ක්ලික් කරන්න
 ">
 
 <!ENTITY aboutTelemetry.toggleOff "
-  Click to collapse section
+  කොටස හැකිළිමට ක්ලික් කරන්න
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
+  (එකතු කළ දත්ත නොමැත)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
