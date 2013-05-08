@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "ශබ්ද කෝෂයට එක්කිරීම අහෝසි කරන්න">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.label "අක්ෂර වින්‍යාස පරීක්ෂාව">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(අක්‍ෂර වින්‍යාස යෝජනා නැත)">
 <!ENTITY spellDictionaries.label "භාෂාව">
