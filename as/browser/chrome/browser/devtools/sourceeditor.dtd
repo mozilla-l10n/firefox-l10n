@@ -14,6 +14,6 @@
 
 
 
-<!ENTITY gotoLineCmd.label         "শাৰীলৈ যাওক (J)…">
+<!ENTITY gotoLineCmd.label         "শাৰীলৈ যাওক…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">
