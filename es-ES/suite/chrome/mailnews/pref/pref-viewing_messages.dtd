@@ -26,10 +26,8 @@
 <!ENTITY generalMessageDisplay.caption "General">
 <!ENTITY autoMarkAsRead.label "Marcar automáticamente mensajes como leídos">
 <!ENTITY autoMarkAsRead.accesskey "m">
-<!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
-<!ENTITY markAsReadNoDelay.accesskey "m">
-<!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
-<!ENTITY markAsReadDelay.accesskey "T">
+<!ENTITY markAsReadAfter.label "Sólo tras ser mostrado durante">
+<!ENTITY markAsReadAfter.accesskey "u">
 <!ENTITY secondsLabel.label "segundos">
 <!ENTITY openingMessages.label "Al abrir mensajes, mostrarlos en:">
 <!ENTITY newWindowRadio.label "Una ventana mens. nueva">
