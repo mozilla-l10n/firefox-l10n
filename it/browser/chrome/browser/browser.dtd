@@ -88,7 +88,18 @@
 <!ENTITY bookmarksMenu.accesskey "e">
 <!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri…">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Condividi questa pagina">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "a">
+<!ENTITY shareLinkCmd.label "Condividi questo link">
+<!ENTITY shareLinkCmd.accesskey "k">
+<!ENTITY shareImageCmd.label "Condividi questa immagine">
+<!ENTITY shareImageCmd.accesskey "i">
+<!ENTITY shareSelectCmd.label "Condividi selezione">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Condividi questo video">
+<!ENTITY shareVideoCmd.accesskey "v">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
 <!ENTITY addCurPagesCmd.label "Tutte le schede nei segnalibri…">
@@ -472,6 +483,8 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleziona chat">
 <!ENTITY social.chatBar.accesskey "h">
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "m">
 <!ENTITY getUserMedia.selectCamera.label "Fotocamera da condividere:">
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
