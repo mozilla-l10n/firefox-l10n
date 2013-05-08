@@ -21,8 +21,6 @@
 <!ENTITY locbar.nothing.label "Nada">
 <!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
 <!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.label "Aceptar cookies de terceras partes">
-<!ENTITY acceptThirdParty.accesskey "p">
 <!ENTITY keepUntil.label "Mantener hasta que:">
 <!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "venzan">
