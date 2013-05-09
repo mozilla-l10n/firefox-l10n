@@ -390,7 +390,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "a">
 <!ENTITY runJunkControls.label "Levélszemétgyűjtő futtatása">
 <!ENTITY runJunkControls.accesskey "f">
-<!ENTITY deleteJunk.label "A szemétként megjelölt levelek törlése a mappában">
+<!ENTITY deleteJunk.label "Szemétnek jelöltek törlése a mappából">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importálás…">
 <!ENTITY importCmd.accesskey "I">
