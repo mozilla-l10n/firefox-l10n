@@ -210,8 +210,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY responsiveDesignTool.label   "Válaszkész terv nézet">
-<!ENTITY responsiveDesignTool.accesskey "V">
+<!ENTITY responsiveDesignTool.label   "Alkalmazkodó megjelenés nézet">
+<!ENTITY responsiveDesignTool.accesskey "A">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
