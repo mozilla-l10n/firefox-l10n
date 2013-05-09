@@ -588,3 +588,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.label "કૅમેરા / માઇક્રોફોન વપરાશ">
 <!ENTITY webrtcIndicatorButton.tooltip "તમારા કૅમેરા કે માઇક્રોફોન સાથે તમે વહેંચેલી સાઇટો દર્શાવે છે">
 
+<!ENTITY devToolbarOtherToolsButton.label  "વધારે સાધનો">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate.label     "ઝડપ કરો">
+<!ENTITY mediaPlaybackRate050x.label "ધીમી ગતિ (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "સામાન્ય ઝડપ">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "વધારે ઝડપ (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate200x.label "ખૂબ વધારે ઝડપ (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY pointerLock.notification.message "તેને ફરીથી બતાવવા માટે કોઇપણ સમયે ESC દબાવો.">
+<!ENTITY social.addons.label "સેવાઓ સંચાલિત કરો…">
+
