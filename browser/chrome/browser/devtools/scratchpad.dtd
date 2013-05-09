@@ -33,6 +33,11 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
+<!ENTITY reloadAndRun.label           "ફરી લાવો અને ચલાવો">
+<!ENTITY revertCmd.label              "પાછુ લાવો…">
+<!ENTITY revertCmd.accesskey          "t">
 <!ENTITY saveFileCmd.label            "સંગ્રહો">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
