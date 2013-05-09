@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "Normál">
 <!ENTITY bigger.label                     "Nagyobb">
 <!ENTITY smaller.label                    "Kisebb">
-<!ENTITY color.label                      "Szín:">
-<!ENTITY color.accesskey                  "S">
+<!ENTITY quotedTextColor.label            "Szín:">
+<!ENTITY quotedTextColor.accesskey        "z">
 <!ENTITY displayWidth.label               "Normál szöveges levelek">
 <!ENTITY displayText.label                "A következő beállítások használata idézett szöveges levelek esetén:">
-<!ENTITY colors.label                     "Színek">
-<!ENTITY overrideColors.label             "A következő színek használata üzenetek megjelenítésekor:">
-<!ENTITY textColor.label                  "Szövegszín:">
-<!ENTITY textColor.accesskey              "S">
-<!ENTITY backgroundColor.label            "Háttérszín:">
-<!ENTITY backgroundColor.accesskey        "H">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Hangulatjelek megjelenítése grafikaként">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label     "Törlés">
 <!ENTITY removeTagButton.accesskey "T">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Betűk">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Betűk és színek">
 <!ENTITY defaultFont.label       "Alapértelmezett betű:">
 <!ENTITY defaultFont.accesskey   "b">
 <!ENTITY defaultSize.label       "Méret:">
 <!ENTITY defaultSize.accesskey   "m">
 <!ENTITY fontOptions.accesskey   "c">
 <!ENTITY fontOptions.label       "Speciális…">
+<!ENTITY colorButton.label       "Színek…">
+<!ENTITY colorButton.accesskey   "n">

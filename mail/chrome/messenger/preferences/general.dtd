@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Testreszabás…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
+<!ENTITY showTrayIcon.label               "Tálcaikon megjelenítése">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Lejátszás">
 <!ENTITY play.accesskey                   "L">
 <!ENTITY systemsound.label                "Alapértelmezett rendszerhang az új üzenethez">
