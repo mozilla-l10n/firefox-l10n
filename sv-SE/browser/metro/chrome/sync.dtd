@@ -28,6 +28,7 @@
 <!ENTITY sync.serverURL             "Serverns URL">
 <!ENTITY sync.setup.connect2        "Lägg till enhet">
 <!ENTITY sync.setup.cancel          "Avbryt">
+<!ENTITY sync.setup.remove          "Ta bort">
 <!ENTITY sync.setup.tutorial        "Visa hur">
 <!ENTITY sync.setup.waiting2        "Väntar på den andra enheten …">
 
