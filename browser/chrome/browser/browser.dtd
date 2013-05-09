@@ -644,6 +644,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Fokusera på chattar">
 <!ENTITY social.chatBar.accesskey "c">
 
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "s">
+<!ENTITY social.marklink.accesskey "s">
+
 <!ENTITY getUserMedia.selectCamera.label "Kamera att dela:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon att dela:">
