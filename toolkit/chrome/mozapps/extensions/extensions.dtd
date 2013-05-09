@@ -97,7 +97,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Använd alltid det här tillägget">
 <!ENTITY cmd.neverActivate.label              "Aktivera aldrig">
 <!ENTITY cmd.neverActivate.tooltip            "Använd aldrig det här tillägget">
-<!ENTITY cmd.tristateMenu.tooltip             "Välj när tillägget ska användas">
+<!ENTITY cmd.stateMenu.tooltip                "Välj när tillägget ska användas">
 <!ENTITY cmd.installAddon.label               "Installera">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
