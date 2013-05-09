@@ -188,7 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY search.accesskey             "K">
 <!ENTITY downloads.label              "Letöltések">
 <!ENTITY downloads.tooltip            "A folyamatban lévő letöltések állapotának megjelenítése">
-<!ENTITY downloads.accesskey          "e">
+<!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Kiegészítők">
