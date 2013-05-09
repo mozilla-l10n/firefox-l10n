@@ -89,6 +89,17 @@
 <!ENTITY bookmarkThisPageCmd.label "Marcar esta página">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Compartir esta página">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Compartir este enlace">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "Compartir esta imagen">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Compartir selección">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Compartir este video">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "Suscribe a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribir a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
