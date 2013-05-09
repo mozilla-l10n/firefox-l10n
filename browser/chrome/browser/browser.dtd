@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Lägg till bokmärke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Dela den här sidan">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "D">
+<!ENTITY shareLinkCmd.label "Dela den här länken">
+<!ENTITY shareLinkCmd.accesskey "D">
+<!ENTITY shareImageCmd.label "Dela den här bilden">
+<!ENTITY shareImageCmd.accesskey "D">
+<!ENTITY shareSelectCmd.label "Dela den här markeringen">
+<!ENTITY shareSelectCmd.accesskey "D">
+<!ENTITY shareVideoCmd.label "Dela den här videon">
+<!ENTITY shareVideoCmd.accesskey "D">
 <!ENTITY subscribeToPageMenupopup.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
