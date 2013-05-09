@@ -51,6 +51,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "A saját érdekükben...">
 
-
 <!ENTITY feedback.privacy          "Magánszférájának védelme érdekében ne adjon meg a visszajelzésében azonosítható személyes adatokat.">
 <!ENTITY feedback.send             "Visszajelzés küldése">
