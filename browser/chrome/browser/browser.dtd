@@ -73,7 +73,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
 <!ENTITY addonBarCmd.label "Kiegészítősáv">
-<!ENTITY addonBarCmd.accesskey "K">
+<!ENTITY addonBarCmd.accesskey "v">
 
 <!ENTITY pageSourceCmd.label "Oldal forrása">
 <!ENTITY pageSourceCmd.accesskey "r">
