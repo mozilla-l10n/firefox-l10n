@@ -10,15 +10,15 @@
 <!ENTITY redoCmd.label             "Tornar far">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "T">
-<!ENTITY cutCmd.label              "Copar">
+<!ENTITY cutCmd.label              "Talhar">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "p">
+<!ENTITY cutCmd.accesskey          "T">
 <!ENTITY copyCmd.label             "Copiar">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Empegar">
+<!ENTITY pasteCmd.label            "Pegar">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
+<!ENTITY pasteCmd.accesskey        "P">
 <!ENTITY deleteCmd.label           "Suprimir">
 <!ENTITY deleteCmd.accesskey       "S">
 <!ENTITY selectAllCmd.label        "Seleccionar tot">

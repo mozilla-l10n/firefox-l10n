@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY header.label     "Títol cort"> 
-<!ENTITY message.label    "Vaquí un tèxt d'exemple">
+<!ENTITY message.label    "Un tèxte d'exemple aicí.">
 <!ENTITY editfield0.label "Utilizaire :"> 
 <!ENTITY editfield1.label "Senhal :"> 
 <!ENTITY checkbox.label   "Verificar">
