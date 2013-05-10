@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+
+<!--
 <!ENTITY tabs.otherComputers.label               "इतर संगणकपासूनचे टॅब्स्">
+-->
 
 <!ENTITY tabs.searchText.label                   "टॅब्स् शोधण्यासाठी येथे टाइप करा…">
 

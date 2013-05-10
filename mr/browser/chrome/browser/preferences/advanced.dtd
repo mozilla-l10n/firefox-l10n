@@ -122,16 +122,23 @@
 
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">
+
+<!--
 <!ENTITY submitCrashes.label             "क्रॅश अहवाल सादर करा ">
 <!ENTITY submitCrashes.accesskey         "S">
+-->
+
 <!ENTITY limitCacheSizeBefore.label      "कॅशे याप्रमाणे मर्यादीत करा">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB मध्ये जागा">
 <!ENTITY overrideSmartCacheSize.label    "स्वयं कॅशे व्यवस्थापन खोडून पुनः लिहा">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
+<!--
 <!ENTITY submitTelemetry.label           "कामगिरि डाटा सादर करा">
 <!ENTITY submitTelemetry.accesskey       "P">
+-->
+
 <!ENTITY httpCache.label                 "कॅश्ड् वेब कंटेंट">
 <!ENTITY offlineStorage2.label           "ऑफलाइन वेब कंटेंट व वापरकर्ता डाटा">
 <!ENTITY clearOfflineAppCacheNow.label   "आत्ता नष्ट करा">

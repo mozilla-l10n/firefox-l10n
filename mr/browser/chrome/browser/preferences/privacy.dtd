@@ -18,9 +18,10 @@
 <!ENTITY  expire.label                  "ते कालबाह्य होतात">
 <!ENTITY  showCookies.accesskey         "S">
 
-
+<!--
 <!ENTITY  acceptThirdParty.label        "तिसरे-पक्ष कुकीज स्वीकारा">
 <!ENTITY  acceptThirdParty.accesskey    "c">
+-->
 
 <!ENTITY  locbar.pre.label              "स्थान पट्टी वापरतेवेळी, सूचवा:">
 <!ENTITY  locbar.pre.accessKey          "u">
@@ -69,8 +70,12 @@
 -->
 
 <!ENTITY tracking.label                 "ट्रॅकिंग">
+
+<!--
 <!ENTITY doNotTrack.label               "संकेतस्थळांनी मला ट्रॅक करायचे नाही">
 <!ENTITY doNotTrack.accesskey           "d">
+-->
+
 <!ENTITY  privateBrowsingPermanent2.label "नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 

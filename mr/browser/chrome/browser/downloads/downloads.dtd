@@ -4,8 +4,8 @@
 
 <!-- LOCALIZATION NOTE (indicator.tooltiptext):
      Tooltip for the indicator that displays the progress of ongoing downloads.
-     -->
 <!ENTITY indicator.tooltiptext            "डाउनलोडस्">
+-->
 
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
@@ -32,10 +32,13 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "डाउनलोड दुवाचे प्रत बनवा">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!--
 <!ENTITY cmd.removeFromList.label         "सूचीतून काढून टाका">
 <!ENTITY cmd.removeFromList.accesskey     "e">
+-->
 <!ENTITY cmd.clearList.label              "सूची नष्ट करा">
 <!ENTITY cmd.clearList.accesskey          "a">
-
+<!--
 <!ENTITY downloadshistory.label           "सर्व डाउनलोडस् दाखवा">
 <!ENTITY downloadshistory.accesskey       "S">
+-->

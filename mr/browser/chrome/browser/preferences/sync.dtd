@@ -32,9 +32,9 @@
 <!-- Sync Settings -->
 <!--
 <!ENTITY syncPrefsCaption.label       "ब्राउजर ताळमेळ">
--->
 <!ENTITY syncComputerName.label       "संगणकाचे नाव:">
 <!ENTITY syncComputerName.accesskey   "c">
+-->
 
 <!ENTITY syncMy.label               "ताळमेळ करा">
 <!ENTITY engine.bookmarks.label     "वाचनखूण">
