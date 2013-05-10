@@ -36,8 +36,8 @@
 <!ENTITY openRecentMenu.label         "ഏറ്റവും പുതിയതു് തുറക്കുക">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.label              "തിരികെ ലഭ്യമാക്കുക…">
+<!ENTITY revertCmd.accesskey          "ര">
 
 <!ENTITY saveFileCmd.label            "സൂക്ഷിയ്ക്കുക">
 <!ENTITY saveFileCmd.accesskey        "S">
@@ -105,8 +105,8 @@
 <!ENTITY resetContext2.label          "വേരിയബിളുകള്‍ വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.label           "വീണ്ടും ലഭ്യമാക്കി പ്രവര്‍ത്തിയ്ക്കുക">
+<!ENTITY reloadAndRun.accesskey       "ല">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "പ്രവര്‍ത്തിപ്പിയ്ക്കുക">

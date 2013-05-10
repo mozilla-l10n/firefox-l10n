@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "വെബ് കണ്‍സോള്‍">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "ആവശ്യപ്പെട്ട യുആര്‍എല്‍:">
+<!ENTITY networkPanel.requestMethodColon          "ആവശ്യപ്പെടുന്ന രീതി:">
+<!ENTITY networkPanel.statusCodeColon             "അവസ്ഥ കോഡ്:">
 
 <!ENTITY networkPanel.requestHeaders              "ആവശ്യപ്പെട്ട തലക്കെട്ടുകള്‍">
 <!ENTITY networkPanel.requestCookie               "കുക്കി അയച്ചു">
@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "ഡേറ്റയില്‍ നിന്നും അയച്ചിരിയ്ക്കുന്നു">
 
 <!ENTITY networkPanel.responseHeaders             "മറുപടി തലക്കെട്ടുകള്‍">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "ലഭ്യമാക്കിയ കുക്കി ">
 <!ENTITY networkPanel.responseBody                "മറുപടി ഭാഗം">
 <!ENTITY networkPanel.responseBodyCached          "കാഷ് ചെയ്ത ഡേറ്റാ">
 <!ENTITY networkPanel.responseBodyUnknownType     "അപരിചിതമായ തരത്തിലുള്ള ഉള്ളടക്കം">
@@ -35,8 +35,8 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
+<!ENTITY openURL.accesskey "ബ">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output

@@ -38,8 +38,8 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ഡിവൈസ് നാമം:">
-<!ENTITY syncDeviceName.accesskey   "ഡ">
+<!ENTITY syncDeviceName.label       "ഉപകരണത്തിന്റെ പേര്">
+<!ENTITY syncDeviceName.accesskey   "ഉ">
 <!ENTITY unlinkDevice.label           "ഈ ഡിവൈസ് അണ്‍ലിങ്ക് ചെയ്യുക">
 <!-- Footer stuff -->
 

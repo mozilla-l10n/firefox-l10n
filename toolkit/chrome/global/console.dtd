@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "വിലയിരുത്തുക">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+<!ENTITY filter2.label      "ഫില്‍റ്റര്‍:">
+<!ENTITY filter2.accesskey  "ഫ">
 
 <!ENTITY copyCmd.label       "പകര്‍ത്തുക ">  
 <!ENTITY copyCmd.accesskey   "C"> 

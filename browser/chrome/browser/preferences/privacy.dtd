@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.pre.label      "തേര്‍ഡ്-പാര്‍ട്ടി കുക്കികള്‍ അംഗീകരിക്കുക:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "അ">
+<!ENTITY  acceptThirdParty.always.label   "എപ്പോഴും">
+<!ENTITY  acceptThirdParty.never.label    "ഒരിക്കലും ഇല്ല">
+<!ENTITY  acceptThirdParty.visited.label  "സന്ദര്‍ശനം മുതല്‍">
 
 <!ENTITY  keepUntil.label               "എപ്പോള്‍ വരെ വെയ്ക്കേണം ">
 <!ENTITY  keepUntil.accesskey           "K">
