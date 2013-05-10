@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Assosieer 'n toestel">
 <!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Om te aktiveer, kies &quot;Assosieer &apos;n toestel&quot; op die ander toestel.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Om die nuwe toestel te aktiveer, kies &quot;Stel Sync op&quot; op die toestel.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
 <!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Meld aan">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Om &apos;n afskrif van &apos;n herwinningsleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op die ander toestel, en kies &quot;My herwinningsleutel&quot; in &quot;Bestuur rekening&quot;.">
 <!ENTITY verifying.label              "Verifieer tans…">
 <!ENTITY resetPassword.label          "Stel wagwoord terug">
 <!ENTITY resetSyncKey.label           "Ek het my ander toestel verloor.">

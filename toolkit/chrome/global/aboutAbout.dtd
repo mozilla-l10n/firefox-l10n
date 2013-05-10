@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "Aangaande Aangaande">
-<!ENTITY aboutAbout.note   "This is a list of “about” pages for your convenience.<br/>
-                            Some of them might be confusing. Some are for diagnostic purposes only.<br/>
-                            And some are omitted because they require query strings.">
+<!ENTITY aboutAbout.note   "Hierdie is 'n lys van alle “aangaande”-bladsye.<br/> 
+Sekeres daarvan kan dalk verwarrend wees. Sekeres is net vir diagnostiese doeleindes.<br/> 
+En sekeres word weggelaat omdat hulle navraagstringe benodig.">
