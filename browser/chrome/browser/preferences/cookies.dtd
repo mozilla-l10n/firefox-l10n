@@ -4,10 +4,10 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Cecikut berikut disimpan pada komputer anda:">
-<!ENTITY     cookiename.label               "Nama Cecikut">
+<!ENTITY     cookiesonsystem.label          "Cookie berikut disimpan pada komputer anda:">
+<!ENTITY     cookiename.label               "Nama Cookie">
 <!ENTITY     cookiedomain.label             "Laman"> 
-<!ENTITY     button.removecookies.label     "Singkir Cecikut">
+<!ENTITY     button.removecookies.label     "Singkir Cookie">
 <!ENTITY     button.removecookie.label      "Singkir Cookie">
 <!ENTITY     button.removecookie.accesskey  "r">
 <!ENTITY     button.removeallcookies.label  "Singkir Semua Cookie">
@@ -20,7 +20,7 @@
 <!ENTITY     props.secure.label             "Hantar Untuk:">
 <!ENTITY     props.expires.label            "Luput:">
 
-<!ENTITY     window.title                   "Cecikut">
+<!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">

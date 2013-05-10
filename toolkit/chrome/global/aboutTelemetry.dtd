@@ -4,7 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry ialah <span>dipasang</span> . ">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry telah <span>dipasang</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.">
 

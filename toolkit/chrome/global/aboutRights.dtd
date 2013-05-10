@@ -15,7 +15,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; adalah dicipta sedia ada untuk anda di bawah semua terma daripada">
+<!ENTITY rights.intro-point1a "&brandShortName; adalah dicipta sedia ada untuk anda di bawah semua terma daripada ">
 <!ENTITY rights.intro-point1b "lesen awam Mozilla">
 <!ENTITY rights.intro-point1c ". Ini bermaksud anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain. Anda juga dialu-alukan untuk mengolah kod sumber &brandShortName; mengikut keperluan anda. Lesen Umum Mozilla juga memberikan hak kepada anda untuk mengedarkan versi yang telah diubah.">
 
@@ -51,12 +51,12 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Services&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah , anda boleh mematikan ciri-ciri atau servis tersebut. Arahan tentang cara-cara untuk mematikan ciri-ciri atau Servis(-Servis) tertentu boleh dijumpai">
+<!ENTITY rights2.webservices-a "&brandFullName; menggunakan servis informasi berasaskan web (&quot;Services&quot;) untuk memberikan sedikit dari ciri-ciri yang disediakan untuk penggunaan anda bersama versi binari &brandShortName; di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu Servis atau tidak mahu menerima terma dibawah , anda boleh mematikan ciri-ciri atau Servis tersebut. Arahan tentang cara-cara untuk mematikan ciri-ciri atau Servis tertentu boleh dijumpai ">
 <!ENTITY rights2.webservices-b "Di sini">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "PelayaranSelamat:">
+<!ENTITY rights.safebrowsing-a "PelayaranSelamat: ">
 <!ENTITY rights.safebrowsing-b "Mematikan keistimewaan Pelayaran Selamat adalah tidak digalakkan kerana boleh menyebabkan anda melayari laman-laman sesawang yang tidak selamat. Jika anda sememangnya ingin mematikan keistimewaan tersebut, ikuti langkah-langkah berikut:">
 <!ENTITY rights.safebrowsing-term1 "Buka keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
@@ -64,7 +64,7 @@
 <!ENTITY rights.safebrowsing-term4 "semak seimbas yang selamat teleh kehilangan upaya">
 <!-- location aware browsing points for branded builds -->
 
-<!ENTITY rights.locationawarebrowsing-a "Kesedaran Lokasi Pelayaran:">
+<!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
 <!ENTITY rights.locationawarebrowsing-b "sentiasa opt-in. Maklumat tentang lokasi anda tidak pernah dihantar tanpa kebenaran anda. Jika anda mahu mematikan ciri ini secara keseluruhan, ikut arahan berikut:">
 <!ENTITY rights.locationawarebrowsing-term1a "Di bar URL, taip ">
 <!ENTITY rights.locationawarebrowsing-term1b "tentang:konfig">

@@ -24,7 +24,7 @@
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
 <!ENTITY  locbar.nothing.label          "Tiada">
 
-<!ENTITY  acceptCookies.label           "Terima cookies dari laman web">
+<!ENTITY  acceptCookies.label           "Terima cookie dari laman web">
 <!ENTITY  acceptCookies.accesskey       "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Menerima cookie pihak ketiga:">

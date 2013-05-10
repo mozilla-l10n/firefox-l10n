@@ -41,7 +41,7 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Alamat Web biasanya ditulis seperti 
 <strong>http://www.example.com/</strong></li> 
-<li>Pstikan yang anda menggunakan slash (cth. 
+<li>Pastikan yang anda menggunakan slash (cth. 
 <strong>/</strong>).</li> 
 </ul>">
 
