@@ -24,7 +24,7 @@
 <!ENTITY pairDevice.label             "Ghép đối thiết bị">
 
 <!ENTITY syncMy.label               "Đồng Bộ">
-<!ENTITY engine.bookmarks.label     "Trang đánh dấu (m)">
+<!ENTITY engine.bookmarks.label     "Trang ưa thích (m)">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Thẻ">
 <!ENTITY engine.tabs.accesskey      "T">

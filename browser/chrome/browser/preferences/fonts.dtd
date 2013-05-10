@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Cho phép trang chọn phông riêng của nó, thay cho phông tôi chọn phía trên">
 <!ENTITY  allowPagesToUse.accesskey               "C">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
+<!ENTITY languages.customize.Fallback.grouplabel  "Cách mã hóa ký tự cho nội dung, ký tự cũ">
+<!ENTITY languages.customize.Fallback.label       "Cách mã hóa ký tự thay thế:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.desc        "Cách mã hóa kỹ tự này được dùng cho những nội dung, ký tự cũ mà không có cách mã hóa.">
