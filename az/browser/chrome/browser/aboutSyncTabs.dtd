@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Tabs From Other Devices">
+<!ENTITY tabs.otherDevices.label               "Digər cihazdakı vərəqlər">
 
-<!ENTITY tabs.searchText.label                   "Vərəq tapmaq üçün buraya yazın…">
+<!ENTITY tabs.searchText.label                   "Tapılacaq vərəqi yazın…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
@@ -13,9 +13,9 @@
 <!ENTITY tabs.context.openTab.accesskey               "B">
 <!ENTITY tabs.context.openMultipleTabs.label          "Seçilən vərəqləri aç">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "S">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Vərəqi əlfəçinlərə əlavə et…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "e">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Seçilən vərəqləri əlfəçinlərə əlavə et…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Siğməni Əlfəcinlə…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "Ə">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Seçilmiş Siğmələri Əlfəcinlə…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
 <!ENTITY tabs.context.refreshList.label               "Siyahını yenilə">
-<!ENTITY tabs.context.refreshList.accesskey           "R">
+<!ENTITY tabs.context.refreshList.accesskey           "a">

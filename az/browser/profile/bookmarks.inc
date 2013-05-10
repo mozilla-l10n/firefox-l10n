@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Əlfəçinlər
+#define bookmarks_title Əlfəcinlər
 
 
-#define bookmarks_heading Əlfəçinlər
+#define bookmarks_heading Əlfəcinlər
 
 
 #define bookmarks_toolbarfolder Əlfəcin Alət Sətiri qovluğu
 
 
-#define bookmarks_toolbarfolder_description Bu qovluğa əlfəçin alıt sətirində göstəriləcək əlfəçinləri daxil edin
+#define bookmarks_toolbarfolder_description Əlfəcinlər Çubuğunda görmək istədiyiniz əlfəcinləri bu qovluğa əlavə edin
 
 
 # LOCALIZATION NOTE (getting_started):

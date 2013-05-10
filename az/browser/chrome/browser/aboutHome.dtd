@@ -11,21 +11,21 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; başlanğıc səhifəsi">
 
-<!ENTITY abouthome.searchEngineButton.label "Axtar">
+<!ENTITY abouthome.searchEngineButton.label "Axtarış">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Firefoxu seçdiyiniz üçün təşəkkürlər! Brazuerinizdən ən yaxşı səviyyədə yararlanmaq üçün <a>yeni xüsusiyyətlər</a> haqqında daha çox məlumat alın.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefoxu seçdiyiniz üçün təşəkkürlər! Brazuerinizdən daha faydalı istifadə üçün <a>yeni xüsusiyyətlər</a> barədə daha ətraflı məlumat alın.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefoxu istədiyiniz şəkilində özünüzə uyğunlaşdırmaq çox asandı. <a>Minlərcə əlavədən istədiyinizi seçin</a>.">
 
-<!ENTITY abouthome.bookmarksButton.label "Əlfəçinlər">
-<!ENTITY abouthome.historyButton.label   "Keçmiș">
-<!ENTITY abouthome.settingsButton.label  "Seçimlər">
-<!ENTITY abouthome.addonsButton.label    "Eklentiler">
-<!ENTITY abouthome.appsButton.label      "Satış">
-<!ENTITY abouthome.downloadsButton.label "Yükləmə">
-<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!ENTITY abouthome.bookmarksButton.label "Əlfəcinlər">
+<!ENTITY abouthome.historyButton.label   "Tarixcə">
+<!ENTITY abouthome.settingsButton.label  "Seçənəklər">
+<!ENTITY abouthome.addonsButton.label    "Əlavələr">
+<!ENTITY abouthome.appsButton.label      "Dükan">
+<!ENTITY abouthome.downloadsButton.label "Yükləmələr">
+<!ENTITY abouthome.syncButton.label      "Sinxronlaşdırma">

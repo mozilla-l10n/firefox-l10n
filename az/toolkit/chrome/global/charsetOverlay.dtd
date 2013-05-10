@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from charsetOverlay.xul -->
 
-<!ENTITY charsetMenu.label             "Simvol kodlaşdırması">
-<!ENTITY charsetMenu.accesskey         "k">
-<!ENTITY charsetMenuAutodet.label      "Avtomatik tanıma">
-<!ENTITY charsetMenuAutodet.accesskey  "o">
-<!ENTITY charsetMenuMore.label         "Daha çox">
+<!ENTITY charsetMenu.label             "Simvol Kodlaşdırması">
+<!ENTITY charsetMenu.accesskey         "S">
+<!ENTITY charsetMenuAutodet.label      "Avto-Tanıma">
+<!ENTITY charsetMenuAutodet.accesskey  "A">
+<!ENTITY charsetMenuMore.label         "Daha Çox Kodlaşdırma">
 <!ENTITY charsetMenuMore.accesskey     "D">
-<!ENTITY charsetMenuMore1.label        "Batı Avrupa">
-<!ENTITY charsetMenuMore1.accesskey    "B">
-<!ENTITY charsetMenuMore2.label        "Doğu Avrupa">
-<!ENTITY charsetMenuMore2.accesskey    "v">
-<!ENTITY charsetMenuMore3.label        "Doğu Asya">
+<!ENTITY charsetMenuMore1.label        "Qərbi Avropa">
+<!ENTITY charsetMenuMore1.accesskey    "Q">
+<!ENTITY charsetMenuMore2.label        "Şərqi Avropa">
+<!ENTITY charsetMenuMore2.accesskey    "Ş">
+<!ENTITY charsetMenuMore3.label        "Şərqi Asiya">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "C. Şərqi və C. Qərbi Asiya">
-<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore4.label        "C.Şərqi və C.Qərbi Asiya">
+<!ENTITY charsetMenuMore4.accesskey    "C">
 <!ENTITY charsetMenuMore5.label        "Orta Şərq">
 <!ENTITY charsetMenuMore5.accesskey    "O">
-<!ENTITY charsetCustomize.label        "Siyahını şəxsiləşdir…">
-<!ENTITY charsetCustomize.accesskey    "c">
+<!ENTITY charsetCustomize.label        "Siyahını Şəxsiləşdir…">
+<!ENTITY charsetCustomize.accesskey    "Ş">

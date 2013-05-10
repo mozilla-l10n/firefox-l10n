@@ -4,9 +4,9 @@
 
 <!ENTITY minimizeWindow.key       "k">
 <!ENTITY minimizeWindow.label     "Kiçilt">
-<!ENTITY bringAllToFront.label    "Hamısını ön plana çək">
-<!ENTITY zoomWindow.label         "Yaxınlaşdırma">
-<!ENTITY windowMenu.label         "Pencere">
+<!ENTITY bringAllToFront.label    "Bütün pəncərələri önə çək">
+<!ENTITY zoomWindow.label         "Böyüt">
+<!ENTITY windowMenu.label         "Pəncərə">
 
 <!ENTITY helpMenu.label           "Yardım"> 
 <!ENTITY helpMenu.accesskey       "H"> 
@@ -14,29 +14,29 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Yardım"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "&brandShortName; hakkında">
+<!ENTITY aboutProduct.label       "&brandShortName; haqqında">
 <!ENTITY aboutProduct.accesskey   "h">
-<!ENTITY productHelp.label        "&brandShortName; köməyi">
+<!ENTITY productHelp.label        "&brandShortName; üzrə kömək">
 <!ENTITY productHelp.accesskey    "k">
 <!ENTITY helpMac.commandkey       "istəyərsiniz?">
-<!ENTITY helpSafeMode.label       "Əlavələri  söndürüb başlat…">
-<!ENTITY helpSafeMode.accesskey   "b">
+<!ENTITY helpSafeMode.label       "Sönülü əlavələrlə başlat…">
+<!ENTITY helpSafeMode.accesskey   "r">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.label       "&brandShortName; İşləklik Hesabatı">
 <!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Problem həll etmə məlumatları">
+<!ENTITY helpTroubleshootingInfo.label      "Problemlərin aradan qaldırılması üzrə məlumatlar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
-<!ENTITY helpFeedbackPage.label      "Geri məlumat göndər...">
-<!ENTITY helpFeedbackPage.accesskey  "G">
+<!ENTITY helpFeedbackPage.label      "Firkilərinizi bölüşün...">
+<!ENTITY helpFeedbackPage.accesskey  "b">
 
-<!ENTITY preferencesCmdMac.label        "Seçimlər…">
+<!ENTITY preferencesCmdMac.label        "Seçənəklər…">
 <!ENTITY preferencesCmdMac.commandkey   "S">
 
-<!ENTITY servicesMenuMac.label          "Servislər">
+<!ENTITY servicesMenuMac.label          "Xidmətlər">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; proqramını gizlə">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; proqramını gizlət">
 <!ENTITY hideThisAppCmdMac.commandkey   "G">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Digərlərini gizlə">

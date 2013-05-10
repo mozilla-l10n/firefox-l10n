@@ -6,10 +6,10 @@
 
 <!ENTITY dntTrackingNopref.label        "Saytlara mənim izlənmə nizamlamalarım haqqında məlumat vermə">
 <!ENTITY dntTrackingNopref.accesskey    "m">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNotOkay.label       "Saytlara izlənmək istəmədiyimi söylə">
+<!ENTITY dntTrackingNotOkay.accesskey   "i">
+<!ENTITY dntTrackingOkay.label          "Saytlara izlənmək istədiyimi söylə.">
+<!ENTITY dntTrackingOkay.accesskey      "s">
 <!ENTITY doNotTrackInfo.label           "Daha çox məlumat alın">
 
 <!ENTITY  history.label                 "Keçmiș">
@@ -19,16 +19,16 @@
 <!ENTITY  locbar.pre.label              "Ünvan sətirindən istifadə edərkən xatırlanacaqlər:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Keçmiş və əlfəçinlər">
+<!ENTITY  locbar.both.label             "Tarixçə və Əlfəcinlər">
 <!ENTITY  locbar.history.label          "Keçmiș">
-<!ENTITY  locbar.bookmarks.label        "Əlfəçinlər">
+<!ENTITY  locbar.bookmarks.label        "Əlfəcinlər">
 <!ENTITY  locbar.nothing.label          "Heçnə">
 
 <!ENTITY  acceptCookies.label           "Saytlardan cookie qəbul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf kukilərini qəbul et">
+<!ENTITY  acceptThirdParty.pre.accesskey  "e">
 <!ENTITY  acceptThirdParty.always.label   "Hər zaman">
 <!ENTITY  acceptThirdParty.never.label    "Heç zaman">
 <!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">

@@ -42,8 +42,8 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Önbellek">
 <!ENTITY itemCache.accesskey               "n">
-<!ENTITY itemOfflineApps.label             "Offline sayt məlumatları">
-<!ENTITY itemOfflineApps.accesskey         "s">
+<!ENTITY itemOfflineApps.label             "Offline Website Data">
+<!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Aktiv girişlər">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Sayt seçimləri">

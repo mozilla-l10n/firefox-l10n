@@ -5,5 +5,5 @@
 <!ENTITY window.title              "Qovluq seç">
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Bura köçür:">
-<!ENTITY newFolderButton.label     "Qovluq əlavə et">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY newFolderButton.label     "Yeni qovluq">
+<!ENTITY newFolderButton.accesskey "q">

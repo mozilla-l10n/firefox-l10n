@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "&syncBrand.fullName.label;-i quraşdır">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəçinlərinizdən, şifrələrinizdən və açıq səhifələrinizdən istifadə edə bilərsiniz.">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; Quraşdır">
+<!ENTITY setupButton.accesskey      "Q">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəcinlərinizdən, şifrələrinizdən və açıq səhifələrinizdən istifadə etmə imkanı verir.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -19,13 +19,13 @@
 <!ENTITY viewQuota.label              "Limiti göstər">
 <!ENTITY changePassword2.label        "Şifrəni dəyiş…">
 <!ENTITY myRecoveryKey.label          "Bərpa açarım">
-<!ENTITY resetSync2.label             "Sync-i sıfırla…">
+<!ENTITY resetSync2.label             "Sinxronlaşdırmanı sıfırla…">
 
 <!ENTITY pairDevice.label             "Cihazları sinxronizasiya et">
 
-<!ENTITY syncMy.label               "Sinxronizasiya ediləcəklər:">
-<!ENTITY engine.bookmarks.label     "Əlfəçinlər">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY syncMy.label               "Sinxronlaşdırılacaqlar:">
+<!ENTITY engine.bookmarks.label     "Əlfəcinlər">
+<!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label          "Vərəqlər">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Keçmiș">

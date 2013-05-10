@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR mozilla.org
+#define MOZ_LANGPACK_CREATOR Mozilla Azerbaijan
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Azərbaycanca Tərcümə Qrupu </em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Azerbaijan Community</em:contributor>
 
 #unfilter emptyLines

@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Ayrıcalıklar">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Web səhifəsi">
+<!ENTITY treehead.sitename.label      "Sayt">
 <!ENTITY treehead.status.label        "Durum">
 <!ENTITY removepermission.label       "Saytı sil">
 <!ENTITY removepermission.accesskey   "S">
@@ -19,7 +19,7 @@
 <!ENTITY session.accesskey            "r">
 <!ENTITY allow.label                  "İzin ver">
 <!ENTITY allow.accesskey              "e">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "ü">
 
 <!ENTITY button.close.label           "Kapat">
 <!ENTITY button.close.accesskey       "K">

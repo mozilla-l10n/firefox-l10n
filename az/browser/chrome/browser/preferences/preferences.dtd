@@ -20,6 +20,6 @@
 <!ENTITY  paneAdvanced.title      "Gelişmiş">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Eşitle">
+<!ENTITY  paneSync.title          "Sinxronlaşdırma">
 <!ENTITY  buttonForward.tooltip   "Sonrakı səhifəyə keç">
 <!ENTITY  buttonBack.tooltip      "Əvvəlki səhifəyə qayıt">

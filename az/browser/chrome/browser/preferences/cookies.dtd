@@ -6,7 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Aşağıdakı cookielər sisteminizdə saxlanılıb:">
 <!ENTITY     cookiename.label               "Cookie adı">
-<!ENTITY     cookiedomain.label             "Web səhifəsi"> 
+<!ENTITY     cookiedomain.label             "Sayt"> 
 <!ENTITY     button.removecookies.label     "Cookieləri sil">
 <!ENTITY     button.removecookie.label      "Cookieni sil">
 <!ENTITY     button.removecookie.accesskey  "R">
@@ -21,7 +21,7 @@
 <!ENTITY     props.expires.label            "Sona çatma tarixi:">
 
 <!ENTITY     window.title                   "Cookielər">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "ü">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
