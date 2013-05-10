@@ -73,11 +73,18 @@
 
 <!ENTITY debuggerUI.searchFile          "ஸ்கிரிப்ட்டுகளை வடிகட்டு">
 <!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal        "எல்லாக் கோப்புகளிலும் தேடு">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
+<!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
+  -  in the source editor's context menu for the function search operation. -->
+
+<!ENTITY debuggerUI.searchFunction      "செயல் தொகுதி வரையரையைத் தேடு">
+<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchFunction.altkey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
@@ -96,7 +103,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-<!ENTITY debuggerUI.focusVariables      "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables      "மாறி கிளையமப்பில் கவனத்தை செலுத்து">
 <!ENTITY debuggerUI.focusVariables.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->

@@ -4,7 +4,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "அச்சடிப்பி பண்புகள்">
 
 <!ENTITY paperInput.label "தாளின் அளவு:">
 <!ENTITY paperInput.accesskey "P">

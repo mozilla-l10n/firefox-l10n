@@ -4,13 +4,13 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "வெளிப்புற HTML - ஐ நகலெடு">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "வ">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+<!ENTITY inspectorCopyUniqueSelector.label       "தனித்துவமான தேர்வியை நகலெடுக்கவும்">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "த">
 
 <!ENTITY inspectorHTMLDelete.label          "கணுவை நீக்கு">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "ம்வுசைக் கொண்டு கூறைத் தேர்ந்தெடுக்கவும்">
 
-<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.label          "HTML ஐத் தேடு">
 <!ENTITY inspectorSearchHTML.key            "F">

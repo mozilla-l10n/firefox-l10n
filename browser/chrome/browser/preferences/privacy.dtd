@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.label        "என் கண்காணிப்பு விருப்பங்கள் குறித்து வலைத்தளங்களுக்கு எதுவும் கூறவேண்டாம்.">
+<!ENTITY dntTrackingNopref.accesskey    "வ">
 <!ENTITY dntTrackingNotOkay.label       " நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்.">
 <!ENTITY dntTrackingNotOkay.accesskey   "வ">
 <!ENTITY dntTrackingOkay.label          " நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்.">
@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "தளங்களிலிருந்து குக்கீகளை ஏற்கவும்">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "மூன்றாம் நபர் குக்கீகளை ஏற்கவும்">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பினர் குக்கீகளை ஏற்கவும்:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "க">
+<!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
+<!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
+<!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
 
 <!ENTITY  keepUntil.label               "அதுவரை வைத்திரு:">
 <!ENTITY  keepUntil.accesskey           "K">

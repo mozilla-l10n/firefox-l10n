@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "சிக்கல்தீர்த்தல் தகவல்">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that  might be useful when you're trying to solve a problem. If you are looking for answers to common questions 
@@ -50,16 +50,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "வரைகலை">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "பெருகும் GC">
 
 <!ENTITY aboutSupport.a11yTitle "அணுகக்கூடியது">
 <!ENTITY aboutSupport.a11yActivated "செயல்படுத்தப்படுகிறது">
 <!ENTITY aboutSupport.a11yForceDisabled "அணுகல்தன்மையை தடுக்கவும்">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "தரவக பதிப்புகள்">
 
 <!ENTITY aboutSupport.installationHistoryTitle "நிறுவல் வரலாறு">
 <!ENTITY aboutSupport.updateHistoryTitle "வரலாற்றைப் புதுப்பி">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "உரையை ஒட்டுப்பலகைக்கு நகலெடு">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "அசல் தரவை ஒட்டுப்பலகைக்கு நகலெடு">

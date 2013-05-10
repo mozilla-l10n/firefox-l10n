@@ -13,7 +13,7 @@
 
 <!ENTITY quitApplicationCmdWin.label        "வெளியேறு">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "Quit">
+<!ENTITY quitApplicationCmd.label           "வெளியேறு">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
@@ -29,21 +29,21 @@
 <!ENTITY undoCmd.label                      "மறை">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "Redo">
+<!ENTITY redoCmd.label                      "மீண்டும் செய்">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
 <!ENTITY cutCmd.label                       "வெட்டு">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "Copy">
+<!ENTITY copyCmd.label                      "நகலெடு">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
 <!ENTITY pasteCmd.label                     "ஒட்டு">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "Delete">
+<!ENTITY deleteCmd.label                    "நீக்கு">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "Select All">
+<!ENTITY selectAllCmd.label                 "அனைத்தையும் தேர்ந்தெடு">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

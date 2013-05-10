@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton.label "நான் கவனமாக இருப்பேன்!">
 <!ENTITY aboutWarningCheckbox.label "இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்">
 
-<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.label "தேடு:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->

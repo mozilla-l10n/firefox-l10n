@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "கடவுச்சொல்லை உறுதிப்படுத்து">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "சேவையின் விதிமுறை">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "தனிமை கொள்கை">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "எவ்வாறு என எனக்கு காட்டு.">
 <!ENTITY addDevice.dontHaveDevice.label     "என்னிடம் சாதனம் இல்லை">
-<!ENTITY pairDevice.setup.description.label  "செயல்படுத்த , மற்றொரு சாதனத்தில் இருந்து , #x0022 தேர்வுசெய்து ; #x0022 உடன் இணைக்கும் விருப்பதை தேர்வு செய்யவும்.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "பின், இந்த குறியீட்டை உள்ளிடு:">
-<!ENTITY pairDevice.dialog.description.label "உங்கள் புதிய சாதனத்தைச் செயல்படுத்த,  சாதனத்தில் &#x0022;ஒத்திசைவை அமை&#x0022; என்பதைத் தேர்ந்தெடுக்கவும்.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "சாதனம் கொடுக்கிற குறியீட்டை உள்ளிடவும்:">
 <!ENTITY addDevice.dialog.tryAgain.label    "மீண்டும் முயற்சிக்கவும்.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added.  The initial synchronization can take several minutes and will finish in the background.">
