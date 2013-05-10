@@ -38,7 +38,7 @@
 <!ENTITY  mediaSize             "Saiz">
 <!ENTITY  mediaCount            "Kira">
 <!ENTITY  mediaDimension        "Dimensi-dimensi:">
-<!ENTITY  mediaLongdesc         "Perihal secara panjang lebar: ">
+<!ENTITY  mediaLongdesc         "Perihal secara panjang lebar:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Simpan Sebagai...">
 <!ENTITY  mediaSaveAs.accesskey "S">
@@ -60,7 +60,7 @@
 <!ENTITY  permissionsFor        "Kebenaran untuk:">
 <!ENTITY  permImage             "Muatkan Imej-imej">
 <!ENTITY  permPopup             "Buka Tetingkap Pop-up">
-<!ENTITY  permCookie            "Tetapkan Cecikut">
+<!ENTITY  permCookie            "Tetapkan Cookie">
 <!ENTITY  permNotifications     "Papar Pemberitahuan">
 <!ENTITY  permInstall           "Pasang Sambungan atau tema">
 <!ENTITY  permGeo               "Kongsi Lokasi">

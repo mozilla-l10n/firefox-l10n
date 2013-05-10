@@ -38,7 +38,7 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Katalaluan Tersimpan">
 <!ENTITY itemPasswords.accesskey           "p">
-<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
 <!ENTITY itemCache.accesskey               "a">

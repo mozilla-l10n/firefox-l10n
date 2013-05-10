@@ -26,10 +26,10 @@
 <!ENTITY password.label                  "Menyimpan kata laluan">
 <!ENTITY password.manage                 "Urus Kata Laluan">
 
-<!ENTITY cookie.label                    "Tetapkan Cecikut">
-<!ENTITY cookie.remove                   "Singkir Cecikut">
-<!ENTITY cookie.manage                   "Urus Cecikut...">
-<!ENTITY cookie.removeAll                "Buang Semua Cecikut">
+<!ENTITY cookie.label                    "Tetapkan Cookie">
+<!ENTITY cookie.remove                   "Singkir Cookie">
+<!ENTITY cookie.manage                   "Urus Cookie...">
+<!ENTITY cookie.removeAll                "Buang Semua Cookie">
 
 <!ENTITY geo.label                       "Kongsi Lokasi">
 
