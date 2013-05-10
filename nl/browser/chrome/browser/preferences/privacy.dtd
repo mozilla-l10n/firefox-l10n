@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
 
-<!ENTITY  acceptThirdParty.label        "Cookies van derden accepteren">
-<!ENTITY  acceptThirdParty.accesskey    "o">
+<!ENTITY  acceptThirdParty.pre.label      "Cookies van derden accepteren:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "o">
+<!ENTITY  acceptThirdParty.always.label   "Altijd">
+<!ENTITY  acceptThirdParty.never.label    "Nooit">
+<!ENTITY  acceptThirdParty.visited.label  "Van bezochte">
 
 <!ENTITY  keepUntil.label               "Bewaren totdat:">
 <!ENTITY  keepUntil.accesskey           "B">
