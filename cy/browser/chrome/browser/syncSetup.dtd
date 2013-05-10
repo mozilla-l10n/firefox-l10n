@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Mewngofnodi">
-<!ENTITY existingRecoveryKey.description "Mae modd cael copi o&apos;ch Allwedd Adfer drwy fynd i Dewisiadau &syncBrand.shortName.label; ar ddyfais arall, a dewis  &quot;Allwedd Adfer&quot; o dan &quot;Rheoli Cyfrif&quot;">
+<!ENTITY existingRecoveryKey.description "Mae modd cael copi o&apos;ch Allwedd Adfer drwy fynd i Dewisiadau &syncBrand.shortName.label; ar ddyfais arall, a dewis  &quot;Allwedd Adfer&quot; o dan &quot;Rheoli Cyfrif&quot;.">
 <!ENTITY verifying.label              "Dilysu…">
 <!ENTITY resetPassword.label          "Ailosod Cyfrinair">
 <!ENTITY resetSyncKey.label           "Rwyf wedi colli fy nyfais arall.">
