@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Interneti diji-walha">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL hãayan:">
+<!ENTITY networkPanel.requestMethodColon          "Hãayan dabari:">
+<!ENTITY networkPanel.statusCodeColon             "Assariya tammaasa">
 
 <!ENTITY networkPanel.requestHeaders              "Wiryan boŋdekey">
 <!ENTITY networkPanel.requestCookie               "Aleewaa sanbandi">
@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "Takari bayhayey sanbandi">
 
 <!ENTITY networkPanel.responseHeaders             "Tuuruyan boŋdekey">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "Aleewa duwante">
 <!ENTITY networkPanel.responseBody                "Tuuruyan gaaham">
 <!ENTITY networkPanel.responseBodyCached          "Bayhaya lanbantey">
 <!ENTITY networkPanel.responseBodyUnknownType     "Gundekuna dumi šibayante">
@@ -30,13 +30,13 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     " Hãayan nda zaabi gundakunawey leeti ">
+<!ENTITY saveBodies.accesskey "l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "URL feeri nor loku taaga ra">
+<!ENTITY openURL.accesskey "t">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output

@@ -44,8 +44,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Hinna">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "user.js ibaayey">
+<!ENTITY aboutSupport.userJSDescription "War foolo alhaalo goo nda <a id='prefs-user-js-link'>user.js file</a> kaŋ ra ibaayiyaŋ kaŋ &brandShortName; man'i tee.">
 
 <!ENTITY aboutSupport.graphicsTitle "Bii takarey">
 
@@ -53,13 +53,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Tonton cindi-kurmakaw">
 
 <!ENTITY aboutSupport.a11yTitle "Duwandiyan">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yActivated "Dirante">
+<!ENTITY aboutSupport.a11yForceDisabled "Duuyan ganji">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Tiirahugu dumey">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Taariki sinjiyan">
 <!ENTITY aboutSupport.updateHistoryTitle "Taariki taagandi">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kalimaɲaa kuruI berandi deeji-walhaa ga">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Bayhaya ganey berandi deeji-walhaa ga">
