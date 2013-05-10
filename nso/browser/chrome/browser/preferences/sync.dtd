@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Peakanyoleswa">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "Laola akhaonto">
+<!ENTITY manageAccount.accesskey      "o">
 <!ENTITY viewQuota.label              "Lebelela khuota">
 <!ENTITY changePassword2.label        "Fetoša lentšuphetišo...">
 <!ENTITY myRecoveryKey.label          "Khii ya ka ya khwetšo">

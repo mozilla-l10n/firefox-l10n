@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Dirolla oketša go pukuntšu">
 <!ENTITY spellUndoAddToDictionary.accesskey "r">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "Lekola mopeleto">
+<!ENTITY spellCheckToggle.accesskey "p">
 <!ENTITY spellNoSuggestions.label "(Ga go na ditšhišinyo tša mopeleto)">
 <!ENTITY spellDictionaries.label "Maleme">
 <!ENTITY spellDictionaries.accesskey "M">
