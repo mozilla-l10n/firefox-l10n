@@ -32,7 +32,7 @@
 </ul>">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "అయ్యో.">
 <!ENTITY generic.longDesc "<p>&brandShortName;ఏదోఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
 <!ENTITY malformedURI.title "ఈచిరునామా సరైనిది కాదు">
@@ -49,11 +49,9 @@
 <!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "కాంటెంట్ ఎన్కోడింగ్ దోషము">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -71,7 +69,7 @@
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ఆచిరునామా అర్ధం కావడంలేదు">
+<!ENTITY protocolNotFound.title "ఆ చిరునామా అర్థం కావడంలేదు">
 <!ENTITY protocolNotFound.longDesc "<ul> 
 <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరు సంస్థాపించవలిసిన అవసరం వుండవచ్చు.</li> 
 </ul>">
@@ -132,9 +130,9 @@
 <!ENTITY corruptedContentError.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
-<!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటపెట్టు!">
-<!ENTITY securityOverride.exceptionButtonLabel "ఆక్షేపనను జతచేయుము…">
+<!ENTITY securityOverride.linkText "లేదా మీరు మినహాయింపును చేర్చవచ్చు…">
+<!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటికి తీసుకువెళ్ళు!">
+<!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "ఈ విషయంను ప్రదర్శించుటకు వొక చొప్పింత అవసరమైంది.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "చొప్పింత క్రియాశీలపరచుటకు యిక్కడ తట్టండి.">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY clickToActivatePlugin                               "ప్లగిన్ క్రియాశీలంచేయి.">
 <!ENTITY checkForUpdates                                     "నవీకరణల కొరకు పరిశీలించు…">
 <!ENTITY disabledPlugin                                      "చొప్పింత అచేతనమైంది.">
 <!ENTITY blockedPlugin.label                                 "ఈ చొప్పింత మీ రక్షణకొరకు నిరోధించబడింది.">
@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "అప్పగింత విఫలమైంది.">
 <!ENTITY report.unavailable                                  "ఏ నివేదిక అందుబాటులోలేదు.">
 <!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "పేజీ చిరునామాను చేర్చు">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "ఫైలు">
+<!ENTITY plugin.mimeTypes                                    "MIME రకాలు">

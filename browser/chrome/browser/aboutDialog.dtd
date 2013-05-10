@@ -25,7 +25,7 @@
 <!ENTITY community.creditsLink      "ప్రపంచవ్యాప్త సముదాయం">
 <!ENTITY community.end3             "వెబ్‌ను అందరికీ అనుకూలంగా, అనువుగా వుంచేందుకు కలిసి పనిచేద్దాం.">
 
-<!ENTITY contribute.start           "ఆశక్తిగా వున్నారా? ">
+<!ENTITY contribute.start           "ఆసక్తిగా ఉందా? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "పాలుపంచుకోండి!">
 <!ENTITY contribute.end             "">
@@ -34,10 +34,10 @@
 <!ENTITY bottomLinks.license        "లైసెన్సింగ్ సమాచారం">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "అంతిమ వినియోగదారి హక్కులు">
+<!ENTITY bottomLinks.rights         "అంతిమ వాడుకరి హక్కులు">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "గోప్యతా విధానము">
+<!ENTITY bottomLinks.privacy        "గోప్యతా విధానం">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "నవీకరణల కొరకు పరిశీలించుచున్నది…">
@@ -72,7 +72,7 @@
 <!ENTITY update.downloading.start   "నవీకరణను డౌన్‌లోడ్ చేయుచున్నది — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "నవీకరణను వర్తింపచేస్తోంది…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

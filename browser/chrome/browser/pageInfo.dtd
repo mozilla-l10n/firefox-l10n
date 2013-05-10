@@ -61,12 +61,12 @@
 <!ENTITY  permImage             "చిత్రములను లోడుచేయి">
 <!ENTITY  permPopup             "పాప్-అప్ విండోలను తెరువుము">
 <!ENTITY  permCookie            "కుకీలను అమర్చు">
-<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permNotifications     "గమనింపులను చూపించు">
 <!ENTITY  permInstall           "పొడిగింపులు లేదా థీమ్స్ ను సంస్థాపించు">
 <!ENTITY  permGeo               "స్థానాన్ని పంచుకొనుము">
 <!ENTITY  permPlugins           "చొప్పింతలను క్రియాశీలపరచు">
 <!ENTITY  permFullscreen        "నిండుతెర ప్రవేశపెట్టు">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock       "సూచీని దాచు">
 
 <!ENTITY  permIndexedDB              "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
 <!ENTITY  permClearStorage           "నిల్వను శుభ్రపరచు">

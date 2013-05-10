@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "తిరిగివుంచు">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు (n)">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "కేటాయించన బాగమును దర్శించు">
 <!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">

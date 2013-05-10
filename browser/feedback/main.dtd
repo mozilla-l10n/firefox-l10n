@@ -30,7 +30,7 @@
 <!-- Firefox 4 beta version UI -->
 
 <!ENTITY testpilot.enable.label                        "వాడుకరి అధ్యయనాలను ఆన్ చేయి">
-<!ENTITY testpilot.feedbackbutton.label                "స్పందన">
+<!ENTITY testpilot.feedbackbutton.label                "ప్రతిస్పందన">
 <!ENTITY testpilot.happy.label        "ఫైర్‌ఫాక్స్ యించేత నన్ను సంతోషపరచుచున్నది…">
 <!ENTITY testpilot.sad.label          "ఫైర్‌ఫాక్స్ యించేత నన్ను విచారపరచుచున్నది…">
 <!ENTITY testpilot.broken.label      "ఈ వెబ్‌సైట్ విరిగినట్లుగా నివేదించు…">

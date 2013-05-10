@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "ఆరాతీస్తోంది">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.label        "నా ట్రాకింగ్ అభీష్టాల గురించి సైట్లకు యేమీ చెప్పవద్దు.">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.label       "నా జాడ కలిగివుండ వద్దని సైట్లకు చెప్పు.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.label          "నా గురించిన ఆరా కలిగివుండమని వెబ్ సైట్లకు చెప్పు">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "మరింత నేర్చుకోండి">
 
@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.label      "మూడో-వ్యక్తి కుకీలను ఆమోదించుము:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.always.label   "ఎల్లప్పుడూ">
+<!ENTITY  acceptThirdParty.never.label    "ఎప్పటికీకాదు">
+<!ENTITY  acceptThirdParty.visited.label  "దర్శించిన వాటినుండి">
 
 <!ENTITY  keepUntil.label               "దీనివరకు వుంచు:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -68,7 +68,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
+<!ENTITY  dontrememberActions.pre.label          "మీరు">
 <!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్రని కూడా  తొలగించదలుచుకోవచ్చు">
 <!ENTITY  dontrememberActions.post.label         ".">
 

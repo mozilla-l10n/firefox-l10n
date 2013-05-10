@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "ఎల్లప్పుడూ అడుగు">
 <!ENTITY permission.allow                "అనుమతించు">
 <!ENTITY permission.allowForSession      "సెషన్ కొరకు అనుమతించు">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "మొదటి పార్టీ మాత్రమే అనుమతించు">
 <!ENTITY permission.block                "నిరోదించు">
 
 <!ENTITY password.label                  "సంకేతపదాలు నిల్వవుంచు">

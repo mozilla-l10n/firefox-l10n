@@ -31,12 +31,12 @@
 <!ENTITY helpFeedbackPage.label      "స్పందనను తెలుపండి…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY preferencesCmdMac.label        "అభీష్టాలు...">
+<!ENTITY preferencesCmdMac.label        "అభిరుచులు…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "సేవలు">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName;ను మరుగుపరచు">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName;ను దాచు">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "మిగతావి మరుగుపరచు">
