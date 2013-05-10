@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Ойуулары көрдөрөр буол">
 <!ENTITY  permPopup             "Ойон тахсар түннүктэри бобума">
 <!ENTITY  permCookie            "Куукалары туһан">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Кэҥэтиилэри уонна тиэмэлэри туруорар гын">
 <!ENTITY  permGeo               "Баар сиргин көрдөр">
 <!ENTITY  permPlugins           "Плагииннары холбоо">
 <!ENTITY  permFullscreen        "Толору экрааҥҥа киирии">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Харайар сири салайыы">
 <!ENTITY  permClearStorage           "Харайар сири ыраастаа">

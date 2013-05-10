@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Бу ситим-сир түөкүннээһиҥҥэ уорбаланар">
-
-<!ENTITY safeb.palm.message.p1 "Бу ситим-сир түөкүннээн тус бэйэҕэ эбэтэр үпкэ-харчыга сыһыаннаах сибидиэнньэлэри хомуйарга аналлааҕын туһунан сэрэтии баар. Тус бэйэҥ тускунан суруйдаххына ону түөкүттэр уоруохтарын эбэтэр атыннык туһаныахтарын сөп.">
-<!ENTITY safeb.palm.message.p1.linkText "Сиһилии »">
-<!ENTITY safeb.palm.p1.linkStatusText "Сиһилии »">
-
-<!ENTITY safeb.palm.message.p2.start "Маннык киһи итэҕэйэр ситим-сирдэрин майгынныыр ситим-сирдэри түөкүттэр туһанан дьону албынныыллар (фишинг). Сиһилии ">
-<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; түөкүттэртэн хайдах ">
-<!ENTITY safeb.palm.message.p2.end "көмүскүүрүн көрүөххүн сөп.">
-
 <!ENTITY safeb.palm.accept.label "Куоттубут!">
-<!ENTITY safeb.palm.accept.statustext "Дьиэ-сирэйгэ">
 <!ENTITY safeb.palm.decline.label "Сэрэтиини истимэ">
-<!ENTITY safeb.palm.decline.statustext "Сэрэтиини сап" >
 <!ENTITY safeb.palm.notforgery.label2 "Бу түөкүттэр сирдэрэ буолбатах...">
 <!ENTITY safeb.palm.reportPage.label "Бу сирэй тоҕо хааччахтанна?">
 

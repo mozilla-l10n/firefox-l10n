@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "т">
 <!ENTITY setup.confirmPassword.label     "Киирии тылгын бигэргэт">
 <!ENTITY setup.confirmPassword.accesskey "г">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Сөбүлэһэбин">
 <!ENTITY setup.tosAgree1.accesskey  "б">
 <!ENTITY setup.tosLink.label        "Туһаныы усулуобуйата">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Тэрили кытта холбоһуу">
 <!ENTITY addDevice.showMeHow.label          "Хайдах гынары көрдөр.">
 <!ENTITY addDevice.dontHaveDevice.label     "Тэрилим бэйэбин кытта суох">
-<!ENTITY pairDevice.setup.description.label  "Холбуурга атын тэрилгэр «Соединиться с устройством» диэни тал.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Онтон бу куоду киллэр:">
-<!ENTITY pairDevice.dialog.description.label "Саҥа тэрилгин холбуурга маны тал «Настроить синхронизацию».">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Тэрил биэрбит куодун киллэр:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Бука диэн, хатылаа.">
 <!ENTITY addDevice.dialog.successful.label  "Тэрил сөпкө эбилиннэ. Бастакы синхронизация өр соҕус барыан сөп, бэйэтэ түмүктэниэ, салгыы үлэлиэххин сөп.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Бэлиэтэнии">
-<!ENTITY existingRecoveryKey.description "Сөргүтэр күлүүскүн атын тэрилгинэн киирэр буоллаххына бу суолунан баран булуоххун сөп: &syncBrand.shortName.label; - «Ааты салайыы» диэҥҥэ «Мин сөргүтэр күлүүһүм» диэни булаҕын.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Тургутуу...">
 <!ENTITY resetPassword.label          "Киирии тылы бырах">
 <!ENTITY resetSyncKey.label           "Атын тэрилбин сүтэрбитим">

@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Т">
 <!ENTITY mediaUnmute.label           "Тыаһын баар гын">
 <!ENTITY mediaUnmute.accesskey       "б">
+<!ENTITY mediaPlaybackRate.label     "Оонньуу тэтимэ">
+<!ENTITY mediaPlaybackRate.accesskey "н">
+<!ENTITY mediaPlaybackRate050x.label "Бытаардыллыбыт хамсааһын (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "Б">
+<!ENTITY mediaPlaybackRate100x.label "Көннөрү тэтим">
+<!ENTITY mediaPlaybackRate100x.accesskey "К">
+<!ENTITY mediaPlaybackRate150x.label "Муҥутуур тэтим (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "М">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Ойоҕос хапталы көрдөр">
 <!ENTITY social.toggleSidebar.accesskey "О">
 
+<!ENTITY social.addons.label "Сулууспалары салайыы…">
+
 <!ENTITY social.toggleNotifications.label "Биллэриилэри көрдөрөр буол">
 <!ENTITY social.toggleNotifications.accesskey "к">
 
@@ -633,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Сиһилии">
 <!ENTITY mixedContentBlocked.moreinfo "Ситим-сирдэр үксүлэрэ маны да араарбыт иһин сөпкө үлэлиэхтэрэ.">
+
+<!ENTITY pointerLock.notification.message "Хаһан баҕарар ESC баттаан маны хат көрүөххэ сөп.">

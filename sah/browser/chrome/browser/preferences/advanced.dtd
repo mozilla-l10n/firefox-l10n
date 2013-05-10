@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "е">
 <!ENTITY isDefault.label                 "Билигин куруук холбонор браузер - &brandShortName;">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Дааннайдары талыы">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportSection.label       "&brandShortName; үлэтин туһунан отчуот">
+<!ENTITY healthReportDesc.label          "Эн браузерыҥ төһө сыыдамын туһунан билэргэ уонна үлэтин туһунан &vendorShortName;-ҕа кэпсииргэ көмөлөһөр ">
+<!ENTITY enableHealthReport.label        "&brandShortName; үлэтин туһунан отчуоту холбоо">
+<!ENTITY enableHealthReport.accesskey    "х">
+<!ENTITY healthReportLearnMore.label     "Сиһилии">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetrySection.label          "Телеметрия">
+<!ENTITY telemetryDesc.label             "&brandShortName; өссө тупсарын туһугар &vendorShortName;-ҕа браузер үлэтин, туруорууларын туһунан, көмпүүтэр конфигурациятын туһунан сибидиэнньэлэри ыытарга">
+<!ENTITY enableTelemetry.label           "Телеметрияны холбоо">
+<!ENTITY enableTelemetry.accesskey       "х">
+<!ENTITY telemetryLearnMore.label        "Сиһилии">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterSection.label      "Саахал туһунан тыллабыр">
+<!ENTITY crashReporterDesc.label         "&brandShortName; саахал буолуутун туһунан тыллабыры браузер үлэтэ бигэ уонна куттала суох буолуутун туһугар &vendorShortName;-ҕа ыытар">
+<!ENTITY enableCrashReporter.label       "Саахал туһунан тыллабыры ыытыыны холбуурга">
+<!ENTITY enableCrashReporter.accesskey   "х">
+<!ENTITY crashReporterLearnMore.label    "Сиһилии">
 
 <!ENTITY networkTab.label                "Ситим">
 

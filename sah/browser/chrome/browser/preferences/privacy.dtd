@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Ситим-сирдэртэн куукаларын ыларга">
 <!ENTITY  acceptCookies.accesskey       "ы">
 
-<!ENTITY  acceptThirdParty.label        "Туора ситим-сирдэртэн куукаларын ыларга">
-<!ENTITY  acceptThirdParty.accesskey    "л">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Аны хаһан да">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Куукаларын харай:">
 <!ENTITY  keepUntil.accesskey           "К">
