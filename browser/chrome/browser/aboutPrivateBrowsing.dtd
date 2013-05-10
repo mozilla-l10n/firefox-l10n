@@ -37,3 +37,11 @@
 <!ENTITY privatebrowsingpage.howToStart2               "व्यक्तिगत ब्राउजिंग सुरू करण्यासाठी, तुम्ही &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; देखिल नीवडू शकता.">
 -->
 
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; ह्या पटलकरिता कोणतेही इतिहास लक्षात ठेवत नाही.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "तुम्ही सध्या वैयक्तिक पटलात नाही.">
+<!ENTITY privatebrowsingpage.perwindow.description     "वैयक्तिक ब्राउजिंग पटलात, &brandShortName; कोणतेही ब्राउजर हतिहास, शोध इतिहास, डाउनलोड इतिहास, वेब फॉर्म इतिहास, कूकिज, किंवा तात्पुर्ते इंटरनेट फाइल्स जपवून ठेवत नाही.  तरी, तुम्ही डाउनलोड केलेल्या फाइल्स व वाचनखूणा साठवले जाईल.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "वैयक्तिक पटल उघडा">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.howToStart3               "वैयक्तिक ब्राउजिंग सुरू करण्याकरिता, तुम्ही &basePBMenu.label; &gt; &newPrivateWindow.label; याचा वापर करू शकता.">
+<!ENTITY privatebrowsingpage.howToStop3                "वैयक्तिक ब्राउजिंग थांबवण्याकरिता, तुम्ही हे पटल बदं करू शकता.">
+

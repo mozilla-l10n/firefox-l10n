@@ -60,3 +60,46 @@
 <!ENTITY debuggerUI.emptyScriptText  "स्क्रिप्टस् नाही.">
 -->
 
+<!ENTITY debuggerMenu.accesskey         "D">
+<!ENTITY debuggerUI.panesButton.tooltip "पट्टी टॉगल करा">
+<!ENTITY debuggerUI.optsButton.tooltip  "डिबगर पर्याय">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.showPanesOnInit     "प्रारंभवेली पट्ट्या दाखवा">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showVarsFilter      "वेरियेबल्स्चे फिल्टर बॉक्स दाखवा">
+<!ENTITY debuggerUI.showVarsFilter.key  "V">
+<!ENTITY debuggerUI.showOnlyEnum        "फक्त गणनीय गुणधर्म दाखवा">
+<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.searchPanelTitle    "ऑपरेटर्स">
+<!ENTITY debuggerUI.searchFile          "फिल्टर स्क्रिप्ट्स">
+<!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchGlobal        "सर्व फाइल्समध्ये शोधा">
+<!ENTITY debuggerUI.searchGlobal.key    "F">
+<!ENTITY debuggerUI.searchFunction      "फंक्शन वर्णनकरिता शोधा">
+<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchFunction.altkey "O">
+<!ENTITY debuggerUI.searchToken         "शोधा">
+<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchLine          "रेषावर जा…">
+<!ENTITY debuggerUI.searchLine.key      "J">
+<!ENTITY debuggerUI.searchVariable      "वेरियेबल्स फिल्टर करा">
+<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.focusVariables      "बेरियेबल्स ट्रि फोकस करा">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+<!ENTITY debuggerUI.condBreakPanelTitle "खालील एक्सप्रेशन खरे असल्यावरच ब्रेकपॉइंट कार्य बंद करेल">
+<!ENTITY debuggerUI.seMenuBreak         "ब्रेकपॉइंट समावेश">
+<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuCondBreak     "सशर्त ब्रेकपॉइंट समावेश करा">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seMenuAddWatch      "एक्सप्रेशन वॉच करण्याकरिता निवड">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.addWatch            "वॉच एक्सप्रेशन समावेश">
+<!ENTITY debuggerUI.addWatch.key        "E">
+<!ENTITY debuggerUI.removeAllWatch      "सर्व वॉच एक्सप्रेशन्स काढून टाका">
+<!ENTITY debuggerUI.removeAllWatch.key  "E">
+<!ENTITY debuggerUI.stepping.resume     "VK_F6">
+<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
+<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
+

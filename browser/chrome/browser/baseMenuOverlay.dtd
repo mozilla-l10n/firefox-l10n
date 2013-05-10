@@ -74,3 +74,7 @@ LOCALIZATION NOTE   and openHelpMac2.modifiers
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY helpFeedbackPage.label      "प्रतिसाद सादर करा…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY healthReport.label       "&brandShortName; हेल्थ रिपोर्ट">
+<!ENTITY healthReport.accesskey   "e">
+
