@@ -2,5 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY reportPhishSiteMenu.title2         "இணைய மோசடி என அறிக்கையிடவும்...">
-<!ENTITY reportPhishSiteMenu.accesskey      "F">
+<!ENTITY     closeAlert.tooltip          "இந்த அறிவிப்பை மூடவும்">
