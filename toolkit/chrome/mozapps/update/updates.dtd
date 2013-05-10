@@ -12,7 +12,7 @@
 
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
 <!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. I-&brandShortName; iya kukhangela 
-izihlaziyi ngamaxesha.">
+izihlaziyi ngamaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
 kwe-&brandShortName; okuzenzekelayo.">
 
@@ -26,15 +26,15 @@ awunaso isithuba esaneleyo sokuyifakela.">
 <!ENTITY  manualUpdateGetMsg.label        "Ungasoloko ulufumana uguqulelo lwangoku lwe-&brandShortName; ku-:">
 
 <!ENTITY  incompatibleCheck.title         "Ikhangela uHambelwano lweSongezelelo">
-<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho…">
+<!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho...">
 
 <!ENTITY  clickHere.label                 "Jonga ulwazi olungaphaya kolunikiweyo malunga nolu hlaziyo">
 
 <!ENTITY  evangelism.desc                 "Kucetyiswa kakhulu ukuba usebenzise olu 
 hlaziyo lwe-&brandShortName; ngokukhawuleza kangangoko.">
 
-<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi sivumelwano, cofa Ndiyavuma 
-ngaphantsi ukuqhubeka nokufakela olu hlaziyo.">
+<!ENTITY  license.instructions            "Ukuba uyavumelana nemiqathango yesi  sivumelwano, cofa Ndiyavuma 
+ngaphantsi ukuqhubeka nokufakela olu hlaziyo. ">
 
 <!ENTITY  license.titleText               "ISivumelwano seLayisensi yeSoftwe">
 <!ENTITY  license.introText               "Imiqathango nemimiselo yokusebenzisa le softwe.">
@@ -47,7 +47,7 @@ ngaphantsi ukuqhubeka nokufakela olu hlaziyo.">
 <!ENTITY  incompatibleList.title          "IZongezelelo ezingahambelaniyo ziFunyenwe">
 
 <!ENTITY  downloadPage.title              "Ikhuphela i-&brandShortName;">
-<!ENTITY  downloading.intro               "ikhuphela uhlaziyo…">
+<!ENTITY  downloading.intro               "Ikhuphela uhlaziyo…">
 <!ENTITY  connecting.label                "Iyanxibelelana kwiseva yohlaziyo…">
 <!ENTITY  verificationFailedText.label    "I-&brandShortName; ayikwazanga ukuqinisekisa imfezeko yo
 hlaziyo olwandayo elukhupheleyo, ngoko ke ngoku ikhuphela 
@@ -62,8 +62,7 @@ umqulu wohlaziyo epheleleyo.">
 <!ENTITY  error.label                     "Bekukho iingxaki ekukhangeleleni ukukhuphela, okanye ukufakela olu 
 hlaziyo. I-&brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
                                            
-<!ENTITY  errorManual.label               "Ungahlaziya i-&brandShortName; ngokwakho ngokutyelela eli khonkco 
-kunye nokukhuphela uguqulelo lwamva nje:">
+<!ENTITY  errorManual.label               "Ungahlaziya &brandShortName; ngokwakho ngokuthi utyelele kweli khonkco /uze ukhuphelele uhlelo lwamvanje:">
                                            
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. 
 i-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">

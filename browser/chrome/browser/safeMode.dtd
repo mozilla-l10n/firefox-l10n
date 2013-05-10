@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Qalisa kwimo ekhuselekileyo">
-<!ENTITY resetProfile.label           "Malunga ne-&brandShortName;">
+<!ENTITY resetProfile.label           "Reset &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Imo ekhuselekileyo yimo ekhethekileyo ye-&brandShortName; enokusetyenziswa kusombululo-ngxaki.">
 <!ENTITY safeModeDescription4.label   "Izongezelelo neesethingi zesiqhelo ziya kuqhwaleliswa okwethutyana.">

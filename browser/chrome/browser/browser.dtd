@@ -54,12 +54,12 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Vula ifayile…">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Ukusetwa kwekhasi…">
+<!ENTITY printSetupCmd.label "Ukusetwa kwephepha…">
 <!ENTITY printSetupCmd.accesskey "t">
-<!ENTITY printPreviewCmd.label "Imbonakalo yangaphambi koshicilelo">
+<!ENTITY printPreviewCmd.label "Imbonakalo yangaphambi kokuprinta">
 <!ENTITY printPreviewCmd.accesskey "m">
-<!ENTITY printCmd.label "Shicilela…">
-<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.label "Printa…">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Sebenza ngaphandle kweIntanethi">
@@ -75,10 +75,10 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.label "Ibha yezongezelelo">
 <!ENTITY addonBarCmd.accesskey "y">
 
-<!ENTITY pageSourceCmd.label "Umthombo wekhasi">
+<!ENTITY pageSourceCmd.label "Umthombo wephepha">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Inkcazelo yekhasi">
+<!ENTITY pageInfoCmd.label "Inkcazelo yephepha">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Faka Isalathisi Esiphawulayo Kweli Khasi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY subscribeToPageMenupopup.label "Rhuma kweli khasi">
+<!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
 <!ENTITY subscribeToPageMenuitem.label "Rhuma kweli khasi…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
@@ -125,27 +125,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "Emva">
 <!ENTITY backCmd.accesskey            "E">
-<!ENTITY backButton.tooltip           "Buya umva ngekhasi elinye">
+<!ENTITY backButton.tooltip           "Buya umva ngephepha elinye">
 <!ENTITY forwardCmd.label             "Phambili">
 <!ENTITY forwardCmd.accesskey         "P">
-<!ENTITY forwardButton.tooltip        "Yiya phambili ngekhasi elinye">
+<!ENTITY forwardButton.tooltip        "Yiya phambili ngephepha elinye">
 <!ENTITY backForwardButtonMenu.tooltip "Cofa ekunene okanye hlisa ukubonisa imbali">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hlisa ukubonisa imbali">
 <!ENTITY reloadCmd.label              "Layisha kwakhona">
 <!ENTITY reloadCmd.accesskey          "L">
-<!ENTITY reloadButton.tooltip         "Layisha kwakhona ikhasi langoku">
+<!ENTITY reloadButton.tooltip         "Layisha kwakhona iphepha langoku">
 <!ENTITY stopCmd.label                "Nqumama">
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli khasi">
+<!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli phepha">
 <!ENTITY goEndCap.tooltip             "Yiya kwidilesi kwibha yendawo">
-<!ENTITY printButton.label            "Shicilela">
-<!ENTITY printButton.tooltip          "Shicilela eli khasi">
+<!ENTITY printButton.label            "Printa">
+<!ENTITY printButton.tooltip          "Printa eli phepha">
 
 <!ENTITY backForwardItem.title        "Emva/Phambili">
 <!ENTITY locationItem.title           "Indawo">
 <!ENTITY searchItem.title             "Khangela">
-<!ENTITY throbberItem.title           "Umalathisi womsebenzi">
+<!ENTITY throbberItem.title           "Isalathisi somsebenzi">
 <!ENTITY bookmarksItem.title          "Iibhukhmakhi">
 <!-- Toolbar items --> 
 
@@ -456,19 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Buyisela isandi">
 <!ENTITY mediaUnmute.accesskey       "y">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.label     "Dlala Isantya">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate050x.label "Intshukumo Ecothayo (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "I">
+<!ENTITY mediaPlaybackRate100x.label "Isantya Esiqhelekileyo">
+<!ENTITY mediaPlaybackRate100x.accesskey "I">
+<!ENTITY mediaPlaybackRate150x.label "Isantya Esiphezulu (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "I">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.label "Isantya Solovane (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -626,7 +626,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Bonisa ibha esecaleni">
 <!ENTITY social.toggleSidebar.accesskey "B">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "Lawula Iinkonzo…">
 
 <!ENTITY social.toggleNotifications.label "Bonisa izaziso zedesktop">
 <!ENTITY social.toggleNotifications.accesskey "i">
@@ -649,4 +649,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.helplink "Funda ngaphezulu">
 <!ENTITY mixedContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "Cofa ESC nangaliphi na ixesha ukuze uphinde uyiveze.">
