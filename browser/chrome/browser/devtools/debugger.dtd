@@ -20,3 +20,46 @@
 <!ENTITY debuggerUI.pauseExceptions          "અપવાદો પર અટકો">
 <!ENTITY remoteDebuggerMenu.label    "દૂરસ્થ ડિબગર">
 
+<!ENTITY debuggerMenu.accesskey         "D">
+<!ENTITY debuggerUI.addWatch            "અભિવ્યક્તિ જોવા ઉમેરો">
+<!ENTITY debuggerUI.addWatch.key        "E">
+<!ENTITY debuggerUI.condBreakPanelTitle "આ બ્રેકપોઇન્ટને જ અમલ કરવાનું બંધ કરશે જો નીચેનું એક્સપ્રેશન સાચુ હોય">
+<!ENTITY debuggerUI.focusVariables      "ચલ ટ્રી પર પ્રકાશિત કરો">
+<!ENTITY debuggerUI.focusVariables.key  "V">
+<!ENTITY debuggerUI.optsButton.tooltip  "ડિબગર વિકલ્પો">
+<!ENTITY debuggerUI.panesButton.tooltip "ટૉગલ તકતી">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.removeAllWatch      "બધી જોવાની અભિવ્યક્તિઓ દૂર કરો">
+<!ENTITY debuggerUI.removeAllWatch.key  "E">
+<!ENTITY debuggerUI.seMenuAddWatch      "અભિવ્યક્તિ જોવા પસંદગી">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+<!ENTITY debuggerUI.seMenuBreak         "બ્રેકપોઇંટ ઉમેરો">
+<!ENTITY debuggerUI.seMenuBreak.key     "B">
+<!ENTITY debuggerUI.seMenuCondBreak     "શરતી બ્રેકપોઇન્ટને ઉમેરો">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.searchFile          "ફિલ્ટર સ્ક્રિપ્ટ">
+<!ENTITY debuggerUI.searchFile.key      "P">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchFunction      "વિધેય વ્યાખ્યા માટે શોધો">
+<!ENTITY debuggerUI.searchFunction.key  "D">
+<!ENTITY debuggerUI.searchFunction.altkey "O">
+<!ENTITY debuggerUI.searchGlobal        "બધી ફાઇલોમાં શોધો">
+<!ENTITY debuggerUI.searchGlobal.key    "F">
+<!ENTITY debuggerUI.searchLine          "લીટી પર જાઓ…">
+<!ENTITY debuggerUI.searchLine.key      "J">
+<!ENTITY debuggerUI.searchPanelTitle    "ઑપરેટર">
+<!ENTITY debuggerUI.searchToken         "શોધો">
+<!ENTITY debuggerUI.searchToken.key     "F">
+<!ENTITY debuggerUI.searchVariable      "ફિલ્ટર ચલ">
+<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.showOnlyEnum        "માત્ર ગણનાયોગ્ય ગુણધર્મો બતાવો">
+<!ENTITY debuggerUI.showOnlyEnum.key    "P">
+<!ENTITY debuggerUI.showPanesOnInit     "શરૂઆતમાં જ પાનાં બતાવો">
+<!ENTITY debuggerUI.showPanesOnInit.key "S">
+<!ENTITY debuggerUI.showVarsFilter      "ચલ ફિલ્ટર બોક્સને બતાવો">
+<!ENTITY debuggerUI.showVarsFilter.key  "V">
+<!ENTITY debuggerUI.stepping.resume     "VK_F6">
+<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
+
