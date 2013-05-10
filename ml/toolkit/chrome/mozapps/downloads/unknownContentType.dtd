@@ -10,8 +10,8 @@
 <!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Other...">
 
-<!ENTITY  saveFile.label              "Save File">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "ഫയല്‍ സൂക്ഷിക്കുക">
+<!ENTITY  saveFile.accesskey          "ക">
 
 <!ENTITY  rememberChoice.label        "ഈ തരത്തില്‍ പെട്ട ഫയലുകള്‍ക്ക്‌ ഇനി മുതല്‍ തനിയെ ഇങ്ങനെ ചെയ്യുക">
 <!ENTITY  rememberChoice.accesskey    "a">

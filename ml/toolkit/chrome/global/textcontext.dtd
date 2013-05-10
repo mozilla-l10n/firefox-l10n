@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "നിഘണ്ടുവിലേക്കു് ചേര്‍ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "അക്ഷരത്തെറ്റ് പരിശോധിയ്ക്കുക">
+<!ENTITY spellCheckToggle.accesskey "അ">
 <!ENTITY spellNoSuggestions.label "(അക്ഷരത്തെറ്റിനുള്ള നിറ്‍ദ്ദേങ്ങള്‍ ലഭ്യമല്ല)">
 <!ENTITY spellDictionaries.label "ഭാഷകള്‍ ">
 <!ENTITY spellDictionaries.accesskey "l">

@@ -4,13 +4,13 @@
 
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍...">
+<!ENTITY  popupExceptions.accesskey   "ക">
 
-<!ENTITY  loadImages.label            "ചിത്രങ്ങള്‍ തന്നത്താന്‍ ലോഡ്‌ ചെയ്യുക">
-<!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "വിട്ടുവീഴ്ചകള്‍">
-<!ENTITY  exceptions.accesskey        "x">
+<!ENTITY  loadImages.label            "ചിത്രങ്ങള്‍ സ്വയം ലോഡ്‌ ചെയ്യുക">
+<!ENTITY  loadImages.accesskey        "ച">
+<!ENTITY  exceptions.label            "വിട്ടുവീഴ്ചകള്‍…">
+<!ENTITY  exceptions.accesskey        "ക">
 
 <!ENTITY  enableJavaScript.label      "Javascript പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY  enableJavaScript.accesskey  "J">
@@ -21,18 +21,18 @@
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "ഫോണ്ടുകള്‍, കളറുകള്‍ ">
+<!ENTITY  fontsAndColors.label        "അക്ഷരസഞ്ചയവും നിറങ്ങളും">
 
-<!ENTITY  defaultFont.label           "ഡിഫോള്‍ട്ട്‌ ഫോണ്ട്‌:">
-<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultFont.label           "സഹജമായ അക്ഷരസഞ്ചയം">
+<!ENTITY  defaultFont.accesskey       "സ">
 <!ENTITY  defaultSize.label           "വലിപ്പം :">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "സങ്കീര്‍ണ്ണമായവ...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "കളറുകള്‍">
-<!ENTITY  colors.accesskey            "C">
+<!ENTITY  colors.label                "നിറങ്ങള്‍…">
+<!ENTITY  colors.accesskey            "റ">
 
 
 <!ENTITY languages.label              "ഭാഷകള്‍">

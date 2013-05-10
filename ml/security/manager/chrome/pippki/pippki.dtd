@@ -88,7 +88,7 @@
 <!ENTITY createCertInfo.msg2 "ദയവായി കാത്തിരിക്കുക...">
 <!-- Form Signing confirmation prompt -->
 
-<!ENTITY formSigning.title "Text Signing Request">
+<!ENTITY formSigning.title "വാചകം ഒപ്പിടുന്ന ആവശ്യം">
 <!ENTITY formSigning.cert "സര്‍ട്ടിഫിക്കറ്റ്‌ സൈന്‍ ചെയ്തുകൊണ്ടിരിക്കുന്നു ">
 <!ENTITY formSigning.confirmPassword "ഉറപ്പാക്കുന്നതിനായി, നിങ്ങള്‍ തെരഞ്ഞെടുത്ത സര്‍ട്ടിഫിക്കേറ്റ് ഉപയോഗിച്ചു് ഈ വാചകത്തില്‍ ഒപ്പു് വയ്ക്കുവാന്‍ തയ്യാറാകുക. ദയവായി പ്രധാന പാസ്‌വേര്‍ഡ് നല്‍കി ഇതു് ഉറപ്പാക്കുക:">
 <!-- Strings for protectedAuth dialog -->

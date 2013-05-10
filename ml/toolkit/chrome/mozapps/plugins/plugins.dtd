@@ -36,7 +36,7 @@
 <!ENTITY missingPlugin                                       "ഇതു് കാണുന്നതിനായി ഒരു പ്ലഗിന്‍ ആവശ്യമുണ്ടു്.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ഇവിടെ  ചെറുതായി അമര്‍ത്തുക.">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY clickToActivatePlugin                               "പ്ലഗിന്‍ സജീവമാക്കുക.">
 <!ENTITY checkForUpdates                                     "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക…">
 <!ENTITY disabledPlugin                                      "ഈ പ്ലഗിന്‍ പ്രവര്‍ത്തന രഹിതമാകുന്നു.">
 <!ENTITY blockedPlugin.label                                 "സുരക്ഷാ കാരണങ്ങളാല്‍ ഈ പ്ലഗ്ഗിന്‍ തടഞ്ഞിരിക്കുന്നു.">
@@ -58,7 +58,7 @@
 <!ENTITY report.failed                                       "രേഖപ്പെടുത്തല്‍ പരാജയപ്പെട്ടു.">
 <!ENTITY report.unavailable                                  "റിപ്പോര്‍ട്ട് ലഭ്യമല്ല.">
 <!ENTITY report.comment                                      "ഒരു അഭിപ്രായം ചേര്‍ക്കുക (അഭിപ്രായങ്ങള്‍ എല്ലാവര്‍ക്കുവാന്‍ കാണുവാന്‍ സാധിക്കുന്നു)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "താളിന്റെ യുആര്‍എല്‍ ഉള്‍പ്പെടുത്തുക">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "ഫയല്‍">
+<!ENTITY plugin.mimeTypes                                    "MIME തരങ്ങള്‍">

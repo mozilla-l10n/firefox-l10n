@@ -12,11 +12,11 @@
 
 <!ENTITY setup.choicePage.title.label     "ഇതിനു് മുമ്പു് &syncBrand.fullName.label; ഉപയോഗിച്ചിട്ടുണ്ടോ?">
 <!ENTITY setup.choicePage.new.label       "ഇതിനു് മുമ്പു് ഒരിക്കലും &syncBrand.shortName.label; ഉപയോഗിച്ചിട്ടില്ല">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "മറ്റൊരു ഡിവൈസില്‍ നിലവില്‍ &syncBrand.shortName.label; ഉപയോഗിയ്ക്കുന്നു.">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "സര്‍വര്‍">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY serverType.default.label      "സ്വതവേയുള്ളതു്: മോസില്ലാ &syncBrand.fullName.label; സര്‍വര്‍">
 <!ENTITY serverType.custom2.label   "ഇഷ്ടമുള്ള സര്‍വര്‍ ഉപയോഗിയ്ക്കുക…">
 <!ENTITY signIn.account2.label      "അക്കൌണ്ട്">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "രഹസ്യവാക്ക് ഉറപ്പാക്കുക">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "വിന്‍ഡോസ് 8 ശൈലിയിലുള്ള &brandShortName;-നൊപ്പം സിന്‍ക് ചെയ്യുക">
+<!ENTITY setup.setupMetro.accesskey "ക">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "ഒരു ഡിവൈസ് പെയര്‍ ചെയ്യുക">
 <!ENTITY addDevice.showMeHow.label          "എങ്ങനെയെന്നു് കാണിയ്ക്കുക.">
 <!ENTITY addDevice.dontHaveDevice.label     "ഡിവൈസ് ലഭ്യമല്ല">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "സജീവമാക്കുന്നതിനായി, നിങ്ങളുടെ ഡിവൈസില്‍ &quot;ഒരു ഡിവൈസുമായി ജോഡി ചേര്‍ക്കുക&quot;തെരഞ്ഞെടുക്കുക.">
 <!ENTITY addDevice.setup.enterCode.label    "ഇനി, ഈ കോഡ് നല്‍കുക:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "പുതിയ ഡിവൈസ് സജീവമാക്കുന്നതിനായി, ഡിവൈസില്‍  &quot;സിന്‍ക് സജ്ജമാക്കുക&quot; തെരഞ്ഞെടുക്കുക.">
 <!ENTITY addDevice.dialog.enterCode.label   "ഡിവൈസ് ലഭ്യമാക്കുന്നത കോഡ് നല്‍കുക:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.">
 <!ENTITY addDevice.dialog.successful.label  "ഡിവൈസ് വിജയകരമായി ചേര്‍ത്തിരിയ്ക്കുന്നു. പ്രാരംഭ സിന്‍ക്രൊണൈസേഷന്‍ അല്‍പം സമയമെടുക്കുന്നതാണു്. പശ്ചാത്തലത്തില്‍ ഇതു് പൂര്‍ത്തിയായിക്കൊള്ളും.">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "പ്രവേശിയ്ക്കുക">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "നിങ്ങളുടെ മറ്റു് ഡിവൈസിലുള്ള &syncBrand.shortName.label; ഐച്ഛികങ്ങളില്‍ ചെന്നു്, &quot;അക്കൌണ്ട് കൈകാര്യം ചെയ്യുക&quot; എന്നതിലുള്ള &quot;എന്റെ റിക്കവറി കീ&quot; തെരഞ്ഞെടുത്തു്, നിങ്ങള്‍ക്കു് സ്വന്തം റിക്കവറി കീ ലഭ്യമാക്കുവാന്‍ സാധിയ്ക്കുന്നു.">
 <!ENTITY verifying.label              "ഉറപ്പാക്കുന്നു…">
 <!ENTITY resetPassword.label          "രഹസ്യവാക്ക് വീണ്ടും സജ്ജമാക്കുക">
 <!ENTITY resetSyncKey.label           "മറ്റു് ഡിവൈസ് നഷ്ടമായിരിയ്ക്കുന്നു.">
@@ -98,16 +98,16 @@
 <!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "എന്റെ &syncBrand.shortName.label; ഡേറ്റയ്ക്കൊപ്പം ഈ ഡിവൈസിന്റെ ഡേറ്റാ കൂട്ടിച്ചേര്‍ക്കുക">
 <!ENTITY choice2.merge.recommended.label "ഉചിതമായതു്:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.client.main.label      "&syncBrand.shortName.label; ഡേറ്റാ ഉപയോഗിച്ചു് ഈ ഡിവൈസിലുള്ള എല്ലാ ഡേറ്റയും മാറ്റിസ്ഥാപിയ്ക്കുക.">
+<!ENTITY choice2a.server.main.label      "ഈ ഡിവൈസിലുള്ള ഡേറ്റാ ഉപയോഗിച്ചു് മറ്റെല്ലാ ഡിവൈസുകളും മാറ്റിസ്ഥാപിയ്ക്കുന്നു">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ഉറപ്പാക്കുക">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ഇപ്പോള്‍ ഈ ഡിവൈസിന്റെ ബ്രൌസര്‍ ഡേറ്റാ നിങ്ങളുടെ സിന്‍ക് അക്കൌണ്ടുമായി കൂട്ടിച്ചേര്‍ക്കുന്നു.">
+<!ENTITY confirm.client3.label         "മുന്നറിയിപ്പു്: ഈ ഡിവൈസിലുള്ള ഈ &brandShortName; ഡേറ്റാ നീക്കം ചെയ്യപ്പെടുന്നു:">
+<!ENTITY confirm.client2.moreinfo.label "ശേഷം &brandShortName; നിങ്ങളുടെ &syncBrand.fullName.label; ഡേറ്റാ ഈ ഡിവൈസിലേക്കു് പകര്‍ത്തുന്നു.">
 <!ENTITY confirm.server2.label         "മുന്നറിയിപ്പു്: ഈ ഡിവൈസുകളില്‍ നിങ്ങളുടെ ലോക്കല്‍ ഡേറ്റാ ഉപയോഗിച്ചു് മാറ്റിയെഴുതപ്പെടുന്നതാണു്:">
 <!-- New & Existing Account: Setup Complete -->
 

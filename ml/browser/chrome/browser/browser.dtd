@@ -28,10 +28,10 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  pinTab.label                       "റ്റാബ് പിന്‍ ചെയ്യുക">
+<!ENTITY  pinTab.accesskey                   "പ">
+<!ENTITY  unpinTab.label                     "റ്റാബ് അണ്‍പിന്‍ ചെയ്യുക">
+<!ENTITY  unpinTab.accesskey                 "അ">
 <!ENTITY  moveToGroup.label                  "ഗ്രൂപ്പിലേക്കു് നീക്കുക">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "പുതിയ ഗ്രൂപ്പ്">
@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
 <!ENTITY addCurPagesCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...">
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 
 <!ENTITY backCmd.label                "പുറകോട്ട്‌">
@@ -198,14 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "കണക്ട് ചെയ്യുക...">
+<!ENTITY devtoolsConnect.accesskey    "ക">
 
 <!ENTITY errorConsoleCmd.label        "എറര്‍ കണ്‍സോള്‍ ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "വിദൂര വെബ് കണ്‍സോള്‍">
 
 <!ENTITY inspectContextMenu.label     "എലമെന്റ് പരിശോധിയ്ക്കുക">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "ഉപകരണങ്ങള്‍ മാറ്റുക">
+<!ENTITY devToolboxMenuItem.accesskey      "മ">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "ഡവലപ്പര്‍ ഉപകരണങ്ങള്‍ മാറ്റുക">
 <!ENTITY devToolbarOtherToolsButton.label  "കൂടുതല്‍ പ്രയോഗങ്ങള്‍">
 
 <!ENTITY getMoreDevtoolsCmd.label        "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ലഭ്യമാക്കുക">
@@ -248,8 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകം">
+<!ENTITY newPrivateWindow.accesskey "ല">
 
 <!ENTITY editMenu.label         "ചിട്ടപ്പെടുത്തുക"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "മുന്‍ഗണനകള്‍">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 <!-- 
@@ -353,8 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "കണ്ണി പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "കണ്ണി പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "ക">
 <!ENTITY openLinkCmdInCurrent.label     "കണ്ണി തുറക്കുക">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "ഫ്രെയിം പുതിയ ടാബില്‍ തുറക്കുക">
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "ഈ പ്ലഗിന്‍ സജീവമാക്കുക">
+<!ENTITY playPluginCmd.accesskey      "സ">
+<!ENTITY hidePluginCmd.label          "ഈ പ്ലഗിന്‍ അദൃശ്യമാക്കുക">
+<!ENTITY hidePluginCmd.accesskey      "അ">
 <!ENTITY copyLinkCmd.label            "കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ചിത്രത്തിന്റെ വിലാസം പകര്‍ത്തുക">
@@ -456,19 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ശബ്ദം സജ്ജമാക്കുക">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate.label     "പ്രവര്‍ത്തന വേഗത">
+<!ENTITY mediaPlaybackRate.accesskey "ന">
+<!ENTITY mediaPlaybackRate050x.label "സ്ലോ മോഷന്‍ (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "സ">
+<!ENTITY mediaPlaybackRate100x.label "സാധാരണ വേഗത">
+<!ENTITY mediaPlaybackRate100x.accesskey "സ">
+<!ENTITY mediaPlaybackRate150x.label "കൂടിയ വേഗത (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "ക">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.label "അതിവേഗത (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "അ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -604,7 +604,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "ബ്രൌസര്‍ റ്റാബുകള്‍">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "മറ്റു് ഡിവൈസുകളില്‍ നിന്നുള്ള റ്റാബുകള്‍">
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
 
@@ -626,7 +626,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "വശത്തുള്ള പാനല്‍ കാണിയ്ക്കുക">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "സര്‍വീസുകള്‍ കൈകാര്യം ചെയ്യുക...">
 
 <!ENTITY social.toggleNotifications.label "പണിയിടത്തിലുള്ള അറിയിപ്പുകള്‍ കാണിയ്ക്കുക">
 <!ENTITY social.toggleNotifications.accesskey "n">
@@ -635,18 +635,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "ചാറ്റുകള്‍ ശ്രദ്ധിയ്ക്കുക">
+<!ENTITY social.chatBar.accesskey "ക">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
+<!ENTITY getUserMedia.selectCamera.accesskey "മ">
+<!ENTITY getUserMedia.selectMicrophone.label "പങ്കിടുവാനുള്ള മൈക്രോഫോണ്‍:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "ഫ">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "ക്യാമറാ / മൈക്രോഫോണിലേക്കുള്ള പ്രവേശനം">
+<!ENTITY webrtcIndicatorButton.tooltip "നിങ്ങളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ ഉപയോഗിച്ചു് നിലവില്‍ പങ്കിടുന്ന സൈറ്റുകള്‍ കാണിയ്ക്കുക">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.helplink "കൂടുതല്‍ അറിയുക">
+<!ENTITY mixedContentBlocked.moreinfo "ഈ ഉള്ളടക്കം തടസ്സപ്പെടുത്തിയാലും മിക്ക വെബ്സൈറ്റുകളും ശരിയായി പ്രവര്‍ത്തിയ്ക്കുന്നു.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "ഇതു് വീണ്ടും കാണിയ്ക്കുന്നതിനായി എപ്പോള്‍ വേണമെങ്കിലും ESC അമര്‍ത്തുക">

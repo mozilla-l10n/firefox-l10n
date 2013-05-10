@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "എന്റെ താല്‍പര്യത്തിനു പകരം, താളുകള്‍ സ്വയം ഫോണ്ടുകള്‍ തെരഞ്ഞെടുക്കുവാന്‍ അനുവദിക്കുക. ">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.grouplabel  "പരമ്പരാഗത ഉള്ളടക്കത്തിനുള്ള ക്യാരക്ടര്‍ എന്‍കോഡിങ്">
+<!ENTITY languages.customize.Fallback.label       "ഫോള്‍ബാക്ക് ക്യാരക്ടര്‍ എന്‍കോഡിങ്">
+<!ENTITY languages.customize.Fallback.accesskey   "ര">
+<!ENTITY languages.customize.Fallback.desc        "എന്‍കോഡിങ് പരാജയപ്പെടുന്ന പരമ്പരാഗത വിവരങ്ങള്‍ക്കു് ഈ ക്യാരക്ടര്‍ എന്‍കോഡിങ് ഉപയോഗിയ്ക്കുന്നു.">

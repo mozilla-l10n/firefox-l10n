@@ -12,13 +12,13 @@
 
 <!ENTITY homepage.label            "ആസ്ഥാന താള്‍:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "ഇപ്പോഴത്തെ താള്‍ ഉപയോഗിക്കുക ">
-<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useCurrentPage.label      "നിലവിലുളള താള്‍ ഉപയോഗിക്കുക ">
+<!ENTITY useCurrentPage.accesskey  "ല">
 <!ENTITY useMultiple.label         "ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക">
 <!ENTITY chooseBookmark.label      "അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "ഡിഫോള്‍ട്ടിലേക്ക്‌ പുനസ്ഥാപിക്കുക ">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY restoreDefault.label      "സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക ">
+<!ENTITY restoreDefault.accesskey  "ത">
 
 <!ENTITY downloads.label     "ഡൌണ്‍ലോഡുകള്‍">
 

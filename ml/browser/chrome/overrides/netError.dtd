@@ -51,11 +51,9 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName; -ന്റെ ക്യാഷില്‍ ആവശ്യപ്പെട്ട രേഖ ലഭ്യമല്ല.</p><ul><li>സുരക്ഷ എന്ന നിലയില്‍, സെന്‍സിറ്റീവ് രേഖകള്‍ക്കായി &brandShortName; ഓട്ടോമാറ്റിക്കായി വീണ്ടും ആവശ്യപ്പെടുന്നില്ല.</li><li>വെബ്സൈറ്റില്‍ നിന്നും രേഖ വീണ്ടും ആവശ്യപ്പെടുന്നതിനായി വീണ്ടും ശ്രമിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</li></ul>">
 
 <!ENTITY netOffline.title "ഓഫ്‌ലൈന്‍ മോഡ്‌">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>ഓണ്‍ലൈന്‍ മോഡില്‍ തിരികെ ചെന്നു് താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നതിനായി  &quot;വീണ്ടും ശ്രമിയ്ക്കുക&quot; അമര്‍ത്തുക.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "എന്‍കോഡിങ് പിശക്">
 <!ENTITY contentEncodingError.longDesc "<ul> 

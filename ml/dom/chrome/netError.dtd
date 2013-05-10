@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>ആവശ്യപ്പെട്ട രേഖ ബ്രൌസറിന്റെ ക്യാഷില്‍ ലഭ്യമല്ല.</p><ul><li>സുരക്ഷ കാരണങ്ങളാല്‍, ബ്രൌസര്‍ ഓട്ടോമാറ്റിയ്ക്കായി വീണ്ടും രേഖകള്‍ ആവശ്യപ്പെടുന്നില്ല.</li><li>വെബ്സൈറ്റില്‍ നിന്നും രേഖ വീണ്ടും ലഭ്യമാക്കുന്നതിനായി വീണ്ടും ശ്രമിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.</li></ul>">
 
 <!ENTITY netOffline.title "ഓഫ് ലൈന്‍ മോഡ്">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>ബ്രൌസര്‍ ഓഫ്‌ലൈന്‍ മോഡില്‍ പ്രവര്‍ത്തിയ്ക്കുന്നു, അതിനാല്‍ ആവശ്യപ്പെട്ട വസ്തുവിലേക്കു് കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല.</p><ul><li>കമ്പ്യൂട്ടര്‍ സജീവമായൊരു നെറ്റ്‌വര്‍ക്കില്‍ കണക്ട് ചെയ്തിരിയ്ക്കുന്നുവോ?</li><li>ഓണ്‍ലൈന്‍ മോഡ് ലഭ്യമാക്കുന്നതിനായി &quot;വീണ്ടും ശ്രമിയ്ക്കുക&quot; അമര്‍ത്തി, വീണ്ടും താള്‍ ലഭ്യമാക്കുക.</li></ul>">
 
 <!ENTITY contentEncodingError.title "ഉള്ളടക്കം എന്‍കോഡ് ചെയ്യുന്നതില്‍ പിശകു്">
 <!ENTITY contentEncodingError.longDesc "<p>നിങ്ങള്‍ ഇപ്പോള്‍ കാണുവാന്‍ ശ്രമിക്കുന്ന താള്‍ ലഭ്യമല്ല. കാരണം അതു് തെറ്റായ ആല്ലെങ്കില്‍ പിന്തുണ ലഭ്യമല്ലാത്ത രീതിയിലുള്ള കംപ്രഷന്‍ ഉപയോഗിക്കുന്നു.</p><ul><li>ഇതു് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ദയവായി വെബ്സൈറ്റ് ഉടമസ്ഥരെ അറിയിക്കുക.</li></ul>">
