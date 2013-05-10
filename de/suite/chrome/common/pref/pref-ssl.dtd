@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Client-Zertifikat-Auswahl">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label                 "SSL 3.0 aktivieren">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "TLS 1.0 aktivieren">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "Sie können beschränken, welche Verschlüsselungsprotokolle für sichere Verbindungen verwendet werden. Wählen Sie eine einzelne Version oder einen durchgängigen Bereich an Versionen.">
+<!ENTITY limit.enable.label                 "Aktivieren:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; kann Sie über den Sicherheitsstatus von Webseiten, die Sie ansehen, informieren. Anzeigen einer Warnung und Frage um Erlaubnis aktivieren vor:">
 <!ENTITY warn.enteringsecure                "Laden einer Seite, die Verschlüsselung unterstützt">
