@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "తిరిగివుంచు">
 <!ENTITY restorepage.listHeader     "విండోలు మరియు టాబులు">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "విండో &#037;S">

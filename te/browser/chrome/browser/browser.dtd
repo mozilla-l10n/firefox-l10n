@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(గోప్య వీక్షణం)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(అంతరంగిక విహారణ)">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "టాబ్ తిరిగి లోడ్‌చేయి">
@@ -28,7 +28,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "పిన్ టాబ్">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "గుచ్చినటాబ్ తీయుము">
 <!ENTITY  unpinTab.accesskey                 "b">
@@ -62,7 +62,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్ గా పనిచేయి">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "మెనూ పట్టీ">
@@ -83,7 +83,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "నిండుతెర ప్రవేశపెట్టు">
+<!ENTITY enterFullScreenCmd.label "నిండుతెరలో చూడండి">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "నిండుతెర నిష్క్రమించు">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -102,7 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY fullscreenAllowButton.label "అనుమతించు">
 <!ENTITY fullscreenExitButton.label "తిరస్కరించు">
-<!ENTITY fullscreenApproval.value "నిండుతెర అనుమతించు?">
+<!ENTITY fullscreenApproval.value "నిండుతెరను అనుమతించాలా?">
 
 <!ENTITY fullscreenExitHint.value "నిండుతెర నిష్క్రమించుటకు ఏ సమయంలోనైనా ESC వత్తండి.">
 <!ENTITY leaveDOMFullScreen.label "నిండుతెర నిష్క్రమించు">
@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 <!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "క్రమబద్దీకరించని యిష్టాంశములు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
 <!ENTITY backCmd.label                "వెనుకకు">
@@ -144,26 +144,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backForwardItem.title        "వెనుకకు/ముందుకు">
 <!ENTITY locationItem.title           "స్థానము">
-<!ENTITY searchItem.title             "శోధించు">
+<!ENTITY searchItem.title             "వెతుకు">
 <!ENTITY throbberItem.title           "చురుకుదనము సూచిక">
 <!ENTITY bookmarksItem.title          "ఇష్టాంశములు">
 <!-- Toolbar items --> 
 
 <!ENTITY appMenuButton.label          "మెనూ">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; మెనూ తెరువుము">
-<!ENTITY homeButton.label             "నివాసము">
+<!ENTITY homeButton.label             "ముంగిలి">
 
 <!ENTITY tabGroupsButton.label        "టాబ్ సమూహములు">
 <!ENTITY tabGroupsButton.tooltip      "మీ టాబ్‌లను సమూహపరచుము">
 
-<!ENTITY feedButton.label             "సబ్‌స్క్రైబ్">
+<!ENTITY feedButton.label             "చందాచేరు">
 <!ENTITY feedButton.tooltip           "ఈ పేజీకి చందాదారు గా మారు…">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksButton.tooltip        "మీ ఇష్టాంశములు ప్రదర్శించుము">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "ఇంష్టాంశములు">
+<!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenuButton.tooltip        "మీ యిష్టాంశములను ప్రదర్శించుము">
 <!ENTITY bookmarksMenuButton.unsorted.label "క్రమపరచని యిష్టాంశములు">
 <!ENTITY viewBookmarksSidebar.label         "పక్క పట్టీనందు చూపుము">
@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "వెబ్  శోధన">
 <!ENTITY search.accesskey             "S">
-<!ENTITY downloads.label              "డౌనులోడులు">
+<!ENTITY downloads.label              "దింపుకోళ్ళు (D)">
 <!ENTITY downloads.tooltip            "జరుగుతున్న డౌనులోడుల పురోగతిని ప్రదర్శింపుము">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
@@ -198,14 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "అనుసంధానించు...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "తప్పుల తెర">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "రిమోట్ వెబ్ కన్సోల్">
 
 <!ENTITY inspectContextMenu.label     "మూలకం విచారణచేయి">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -234,13 +234,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "సాధనాలను మార్చు">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarToolsButton.tooltip     "అభివృద్దికారి సాధనాలను మార్చు">
+<!ENTITY devToolbarOtherToolsButton.label  "మరిన్ని పనిముట్లు">
 
-<!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని సాధనాలను పొందుము">
+<!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని పనిముట్లను పొందండి (M)">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "ఫైల్ "> 
@@ -248,12 +248,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.label     "కొత్త వ్యక్తిగత విండో">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "సరిచేయు"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "చేయవద్దు">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "మళ్ళీచేయి">  
@@ -276,10 +276,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ఐచ్ఛికాలు">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "అభీష్టాలు">
+<!ENTITY preferencesCmdUnix.label       "అభిరుచులు (n)">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "ఇటీవలి చరిత్రము శుభ్రపరచుము…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -289,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "సాధనముల పట్టీలు"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "పక్క పట్టీ">
+<!ENTITY viewSidebarMenu.label "పక్క పట్టీ (e)">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "మలుచుకొను..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
 <!ENTITY historyRestoreLastSession.label "మునుపటి సెషన్‌ను తిరిగివుంచుము">
 
-<!ENTITY historyHomeCmd.label "నివాసము">
+<!ENTITY historyHomeCmd.label "ముంగిలి">
 <!ENTITY showAllHistoryCmd2.label "చరిత్ర మొత్తం చూపుము">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
 <!-- 
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "లింకుని కొత్త విండోనందు తెరువుము">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.label "లింకుని కొత్త వ్యక్తిగత విండోనందు తెరువుము">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "లింకును తెరువుము">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -416,15 +416,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ధ్వనిని   వేరే పేరుతో దాచు …">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.label          "ఈమెయిల్ చిత్రము…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ఈమెయిల్ వీడియో…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "ఈమెయిల్ ఆడియో…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
+<!ENTITY playPluginCmd.label          "ఈ చొప్పింత క్రియాశీలపరచు">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
+<!ENTITY hidePluginCmd.label          "ఈ చొప్పింత మరుగునవుంచు">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -445,7 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 
-<!ENTITY mediaPlay.label             "ఆడు">
+<!ENTITY mediaPlay.label             "ఆడించు (P)">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "కొద్దిసేపు ఆపు">
 <!ENTITY mediaPause.accesskey        "P">
@@ -456,18 +456,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ధ్వనిని ప్రవేశపెట్టు">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.label     "నడిపే వేగం">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.label "నెమ్మదిగా (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.label "మామూలు వేగం (N)">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.label "వేగంగా (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "H">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.label "హాస్యాస్పద వేగం (2×)">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -476,7 +476,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "మీటలు దాచు">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "పూర్తితెర">
+<!ENTITY videoFullScreen.label       "నిండుతెర (F)">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "స్నాప్‌షాట్ యిలా దాయి…">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -518,7 +518,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "కొత్త టాబ్  నుతెరువు">
 <!ENTITY newWindowButton.tooltip        "కొత్త విండోను తెరువు">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "పక్క పట్టీని మూయి">
 
 <!ENTITY cutButton.tooltip              "కత్తిరించు">
 <!ENTITY copyButton.tooltip             "నకలుతీయి">
@@ -597,7 +597,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ఏదైతే దీనిద్వారా నడుస్తుందో">
 
-<!ENTITY identity.moreInfoLinkText "ఎక్కువ సమాచారం…">
+<!ENTITY identity.moreInfoLinkText "మరింత సమాచారం…">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -626,27 +626,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "పక్కపట్టీని చూపించు (S)">
 <!ENTITY social.toggleSidebar.accesskey "S">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "సేవలను నిర్వహించు...">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.toggleNotifications.label "డెస్కుటాప్ ప్రకటనలను చూపు">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Undo">
+<!ENTITY social.activated.undobutton.label "చేయవద్దు">
 <!ENTITY social.activated.undobutton.accesskey "U">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
+<!ENTITY social.chatBar.label "సంభాషణలపై దృష్టిసారించు">
 <!ENTITY social.chatBar.accesskey "c">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
+<!ENTITY getUserMedia.selectCamera.label "పంచుకొనుటకు కేమెరా:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
+<!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "కేమెరా / మైక్రోఫోన్ యాక్సెస్">
+<!ENTITY webrtcIndicatorButton.tooltip "ప్రస్తుతం మీ కేమెరా లేదా మైక్రోఫోన్ పంచుకొనుచన్న సైట్లను ప్రదర్శించు">
 
-<!ENTITY mixedContentBlocked.helplink "Learn more">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.helplink "మరింత నేర్చుకోండి">
+<!ENTITY mixedContentBlocked.moreinfo "ఈ కాంటెంట్ నిరోధించబడినా కూడా చాలా వెబ్‌సైట్లు యింకా సరిగానే పనిచేయును.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "దీనిని మరలా చూపుటకు యెప్పుడైనా ESC వత్తండి.">

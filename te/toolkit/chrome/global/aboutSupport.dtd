@@ -43,8 +43,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "విలువ">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "user.js అభిరుచులు">
+<!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ వొక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
 
 <!ENTITY aboutSupport.graphicsTitle "గ్రాఫిక్స్">
 
@@ -60,5 +60,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "సంస్థాపనా చరిత్ర">
 <!ENTITY aboutSupport.updateHistoryTitle "నవీకరణ చరిత్ర">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు నకలుతీయుము">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ముడి దత్తాంశంను క్లిప్‌బోర్డునకు నకలుతీయును">

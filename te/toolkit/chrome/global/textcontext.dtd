@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "నిఘంటువుకు జతచేయుటను రద్దుచేయి">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.label "స్పెల్లింగ్‌ను పరిశీలించుము">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(ఏ  స్పెల్లింగ్  సలహాలు  లేవు)">
 <!ENTITY spellDictionaries.label "భాషలు">

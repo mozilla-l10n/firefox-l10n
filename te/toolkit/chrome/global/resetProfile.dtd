@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "&brandShortName; ను దాని అప్రమేయ స్థితికి తిరిగివుంచు">
 <!ENTITY resetProfile.description         "మీరు పరిష్కరించలేని పెద్ద సమస్యలను కలిగివుంటే, తాజాది మీకు కావలసిన సమాచారంతో మాత్రమే ప్రారంభించం‍డి.">
-<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
+<!ENTITY resetProfile.button.label2       "&brandShortName; తిరిగివుంచు...">
 
 <!ENTITY resetProfile.cleaning.description "&brandShortName; మీ పాత దత్తాంశమును శుబ్రపరచునప్పుడు దయచేసి వేచివుండండి…">
