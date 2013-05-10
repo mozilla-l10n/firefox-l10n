@@ -50,3 +50,12 @@
 <!ENTITY saveBodies.accesskey "L">
 <!ENTITY saveBodies.label     "સૂચનાનો લૉગ કરો અને તેનો જવાબ આપો">
 <!ENTITY window.title "વેબ કન્સોલ">
+
+<!ENTITY copyURLCmd.accesskey "a">
+<!ENTITY copyURLCmd.label     "કડી સ્થાનની નકલ કરો">
+<!ENTITY networkPanel.requestMethodColon          "પદ્દતિની માંગણી:">
+<!ENTITY networkPanel.requestURLColon             "URL ની માંગણી:">
+<!ENTITY networkPanel.responseCookie              "પ્રાપ્ત થયેલ કુકી">
+<!ENTITY networkPanel.statusCodeColon             "પરિસ્થિતિ કોડ:">
+<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "નવી ટૅબમાં URL ને ખોલો">
