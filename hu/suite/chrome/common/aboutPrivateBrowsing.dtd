@@ -20,11 +20,3 @@
 <!ENTITY privatebrowsingpage.info         "A &privatebrowsingpage.title; indításához válassza ki a Fájl menü ― Új ― Privát ablak menüelemet.">
 
 <!ENTITY privatebrowsingpage.title                 "Privát böngészés">
-<!ENTITY privatebrowsingpage.title.normal          "Szeretné elindítani a privát böngészést?">
-
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "A &brandShortName; semmit nem fog megjegyezni ebből az ablakból.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Jelenleg nincs privát ablakban.">
-
-
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Privát ablak megnyitása">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
