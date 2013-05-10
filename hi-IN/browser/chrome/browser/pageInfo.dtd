@@ -61,7 +61,7 @@
 <!ENTITY  permImage             "छवि लोड करें">
 <!ENTITY  permPopup             "पॉप-अप विंडो खोलें">
 <!ENTITY  permCookie            "कुकी सेट करें">
-<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permNotifications     "सूचनाएँ दिखाओ ">
 <!ENTITY  permInstall           "विस्तार या प्रसंग संस्थापित करें">
 <!ENTITY  permGeo               "स्थान साझा करें">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय करें">

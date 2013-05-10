@@ -7,17 +7,17 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "इसके लिए फ़ॉन्ट:">
+<!ENTITY  language.label                          "इसके लिए फ़ॉन्ट: (F)">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "आकार:">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "आनुपतिक:">
+<!ENTITY  proportional.label                      "आनुपतिक: (P)">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ़:">
+<!ENTITY  serif.label                             "सेरिफ़: (S)">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "सैंस-सेरिफ़:">
 <!ENTITY  sans-serif.accesskey                    "n">

@@ -28,7 +28,7 @@
 
 <!ENTITY systemDefaults.label            "तंत्र तयशुदा">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "हमेशा यह देखने के लिए जाँचें कि &brandShortName; आरंभन पर तयशुदा ब्राउजर है">
+<!ENTITY alwaysCheckDefault.label        "हमेशा यह देखने के लिए जाँचें कि &brandShortName; आरंभन पर तयशुदा ब्राउजर है (w)">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY setDefault.label                "&brandShortName; को तयशुदा ब्राउज़र बनाएँ (d)">
 <!ENTITY setDefault.accesskey            "d">
@@ -59,7 +59,7 @@
 <!ENTITY connection.label                "कनेक्शन">
 
 <!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे  &brandShortName; इंटरनेट से जुड़ता है">
-<!ENTITY connectionSettings.label        "सेटिंग…">
+<!ENTITY connectionSettings.label        "सेटिंग… (e)">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "कैश्च वेब कंटेंट">
@@ -72,24 +72,24 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "इसमें कैश परिसीमित करें">
+<!ENTITY limitCacheSizeBefore.label      "इसमें कैश परिसीमित करें (L)">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB स्थान">
-<!ENTITY clearCacheNow.label             "अब साफ करें">
+<!ENTITY clearCacheNow.label             "अब साफ करें (C)">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "अभी साफ करें">
+<!ENTITY clearOfflineAppCacheNow.label   "अभी साफ करें (N)">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें (O)">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "अद्यतन">
 
 <!ENTITY updateApp.label                 "&brandShortName; अद्यतन:">
-<!ENTITY updateAuto.label                "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा)">
+<!ENTITY updateAuto.label                "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा) (A)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "अद्यतन जाँचें लेकिन मुझे चुनने दें कि कहाँ उन्हें संस्थापित करना है">
+<!ENTITY updateCheck.label               "अद्यतन जाँचें लेकिन मुझे चुनने दें कि कहाँ उन्हें संस्थापित करना है (C)">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं: सुरक्षा जोखिम)">
+<!ENTITY updateManual.label              "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं: सुरक्षा जोखिम) (N)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "मुझे चताएँ यदि यह किसी सहयुक्ति को निष्क्रिय करता है">
@@ -133,7 +133,7 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewCRLs.label                  "वापसी सूची">
 <!ENTITY viewCRLs.accesskey              "R">
-<!ENTITY verify2.label                   "सत्यापन">
+<!ENTITY verify2.label                   "सत्यापन (V)">
 <!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति (y)">
 <!ENTITY viewSecurityDevices.accesskey   "y">
