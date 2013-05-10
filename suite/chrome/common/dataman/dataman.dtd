@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Engedélyek">
 <!ENTITY select.preferences.label "Beállítások">
 <!ENTITY select.passwords.label "Jelszavak">
+<!ENTITY select.storage.label "Csak tároló">
 
 <!ENTITY domain.search.placeholder "Tartományok keresése">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Engedélyek">
 <!ENTITY tab.preferences.label "Beállítások">
 <!ENTITY tab.passwords.label "Jelszavak">
+<!ENTITY tab.storage.label "Tároló">
 <!ENTITY tab.formdata.label "Űrlapadatok">
 <!ENTITY tab.forget.label "Elfelejtés">
 <!-- cookies -->
@@ -103,6 +105,21 @@
 
 <!ENTITY pwd.button.remove.label "Eltávolítás">
 <!ENTITY pwd.button.remove.accesskey "E">
+<!-- storage -->
+
+<!ENTITY storage.description "Ez a tartomány a következő webtárolókat használja a számítógépen:">
+
+<!ENTITY storage.tree.host.label "Webhely">
+<!ENTITY storage.tree.type.label "Típus">
+<!ENTITY storage.tree.size.label "Méret">
+
+<!ENTITY storage.ctx.remove.label "Eltávolítás">
+<!ENTITY storage.ctx.remove.accesskey "E">
+<!ENTITY storage.ctx.selectAll.label "Minden kijelölése">
+<!ENTITY storage.ctx.selectAll.accesskey "M">
+
+<!ENTITY storage.button.remove.label "Eltávolítás">
+<!ENTITY storage.button.remove.accesskey "l">
 <!-- form data -->
 
 <!ENTITY fdata.search.placeholder "Űrlapadatok keresése">
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "T">
 <!ENTITY forget.passwords.label "Jelszavak">
 <!ENTITY forget.passwords.accesskey "J">
+<!ENTITY forget.storage.label "Tároló">
+<!ENTITY forget.storage.accesskey "S">
 <!ENTITY forget.formdata.label "Űrlapadatok">
 <!ENTITY forget.formdata.accesskey "d">
 
