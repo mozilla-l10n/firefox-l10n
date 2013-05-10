@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY debuggerMenu.label2            "Debugger">
+<!ENTITY debuggerMenu.label2            "Trình gỡ lỗi">
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
   -  Tools menu entry of Debugger that opens the debugger UI. -->
 
@@ -77,7 +77,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal        "Tìm kiếm ở tất cả các tập tin">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
