@@ -28,8 +28,8 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.label                       "Nor loku kanji">
+<!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Nor loku bukandi">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Ganandi margaa do">
@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "K">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.label "Goy bila nda cinari">
+<!ENTITY goOfflineCmd.accesskey "G">
 
 <!ENTITY menubarCmd.label "Šilbayboŋ žeeri">
 <!ENTITY menubarCmd.accesskey "r">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Zanfunoo daabu">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.label "Doo-šilbawey">
+<!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Moɲoo woo šilbay">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "Boŋ-maa hantum">
 <!ENTITY feedButton.tooltip           "Boŋ-maa hantum moɲoo woo še…">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "Doo-šilbawey">
 <!ENTITY bookmarksButton.tooltip        "War doo-šilbawey cebe">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -198,14 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 <!ENTITY webDeveloperMenu.accesskey   "T">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "Ciya…">
+<!ENTITY devtoolsConnect.accesskey    "a">
 
 <!ENTITY errorConsoleCmd.label        "Firka diji-walha">
 <!ENTITY errorConsoleCmd.accesskey    "d">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "Interneti diji-walha moora">
 
 <!ENTITY inspectContextMenu.label     "Haya-ize koroši">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -234,11 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "w">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
+<!ENTITY devToolboxMenuItem.accesskey      "K">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarToolsButton.tooltip     "Kanjari cinakaw goyjinawey">
+<!ENTITY devToolbarOtherToolsButton.label  "Goyjinay ka tonton">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Duu goyjinay tontoniyaŋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -248,14 +248,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Zanfun taaga">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Z">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "Sutura zanfun taaga">
+<!ENTITY newPrivateWindow.accesskey "z">
 
 <!ENTITY editMenu.label         "Fasal"> 
 <!ENTITY editMenu.accesskey       "F"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Taafeeri">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "e"> 
 <!ENTITY redoCmd.label            "Tee taaga">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
@@ -279,14 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Ibaayey">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearRecentHistory.label               "Taariki kokorante koonandi…">
-<!ENTITY clearRecentHistory.accesskey           "T">
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
+<!ENTITY clearRecentHistory.label               "Taariki kokorante tuusu…">
 
-<!ENTITY privateBrowsingCmd.start.label         "Sutura naarumi šintin">
-<!ENTITY privateBrowsingCmd.start.accesskey     "S">
-<!ENTITY privateBrowsingCmd.stop.label          "Sutura naarumi kayandi">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "S">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Gunari"> 
@@ -325,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Koy Interneti nungu foo do">
+<!ENTITY urlbar.placeholder2          "Ceeci wala aderesu dam">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Bere nor loku ga:">
 <!-- 
@@ -359,8 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Doboo feeri zanfun taaga ra">
 <!ENTITY openLinkCmd.accesskey        "z">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Doboo feeri zanfun taaga ra">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "z">
 <!ENTITY openLinkCmdInCurrent.label     "Dobu feeri">
 <!ENTITY openLinkCmdInCurrent.accesskey "f">
 <!ENTITY openFrameCmdInTab.label      "Feeri nor loku taaga ra">
@@ -403,8 +397,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Kungaa woo šilbay">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
-<!ENTITY emailPageCmd.label           "Email Link…">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.label           "Bataga dobu…">
+<!ENTITY emailPageCmd.accesskey       "a">
 <!ENTITY savePageCmd.label            "Moɲoo gaabu sanda…">
 <!ENTITY savePageCmd.accesskey        "s">
 <!-- alternate for content area context menu -->
@@ -422,12 +416,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "W">
 <!ENTITY saveAudioCmd.label           "Jindetukoo gaabu sanda…">
 <!ENTITY saveAudioCmd.accesskey       "b">
-<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.label          "Bataga bii…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.label          "Widewo sanba bataga ra…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.label          "Jinde tukoo sanba bataga ra…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Sukaroo woo tunandi">
+<!ENTITY playPluginCmd.accesskey      "a">
+<!ENTITY hidePluginCmd.label          "Sukaroo woo tugu">
+<!ENTITY hidePluginCmd.accesskey      "k">
 <!ENTITY copyLinkCmd.label            "Doboo dogoo berandi">
 <!ENTITY copyLinkCmd.accesskey        "D">
 <!ENTITY copyImageCmd.label           "Biyoo dogoo berandi">
@@ -458,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "J">
 <!ENTITY mediaUnmute.label           "Jinde feeri">
 <!ENTITY mediaUnmute.accesskey       "J">
+<!ENTITY mediaPlaybackRate.label     "Cahãri hẽenandi">
+<!ENTITY mediaPlaybackRate.accesskey "h">
+<!ENTITY mediaPlaybackRate050x.label "Cee-yayna (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "C">
+<!ENTITY mediaPlaybackRate100x.label "Cahãri sawante">
+<!ENTITY mediaPlaybackRate100x.accesskey "n">
+<!ENTITY mediaPlaybackRate150x.label "Cahãri šifante (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "h">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Cahãri yalante (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -507,7 +518,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Nor loku taaga feeri">
 <!ENTITY newWindowButton.tooltip        "Zanfun taaga feeri">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "Ceraw-zuu daabu">
 
 <!ENTITY cutButton.tooltip              "Dunbu">
 <!ENTITY copyButton.tooltip             "Berandi">
@@ -587,14 +598,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "kaŋ tunandikaa ti">
 
 <!ENTITY identity.moreInfoLinkText "Alhabar tontoni…">
-
-<!ENTITY allTabs.filter.emptyText "Nor lokey ceeci">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+
 <!ENTITY tabsToolbar.label "Ceecikaw nor lokey">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Jinay tanayaŋ nor lokey">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -607,29 +617,36 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Tontoni zuu-žeeri daabu">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-<!ENTITY socialToolbar.title        "Social Toolbar Button">
-<!ENTITY social.notLoggedIn.label   "Not logged in">
+<!ENTITY socialToolbar.title        "Batu goyjinay zuu butoŋ">
+<!ENTITY social.notLoggedIn.label   "Mana huru">
 
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
+<!ENTITY social.ok.label       "Ayyo">
+<!ENTITY social.ok.accesskey   "o">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "s">
+<!ENTITY social.toggleSidebar.label "Ceraw-zuu cebe">
+<!ENTITY social.toggleSidebar.accesskey "c">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
+<!ENTITY social.addons.label "Goyey juwal…">
+
+<!ENTITY social.toggleNotifications.label "Ordinater bangandiyaney cebe">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Undo">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.undobutton.label "Taafeeri">
+<!ENTITY social.activated.undobutton.accesskey "e">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Faakaarawey suuba">
+<!ENTITY social.chatBar.accesskey "k">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
+<!ENTITY getUserMedia.selectCamera.accesskey "z">
+<!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Biizaahaya / Jindezaahaya toodoo">
+<!ENTITY webrtcIndicatorButton.tooltip "Cebe Interneti dogey kaŋ war goo m'i žemni nda bii- wala jindezaahaya sohõda">
+
+<!ENTITY mixedContentBlocked.helplink "Ka bay ka tonton">
+<!ENTITY mixedContentBlocked.moreinfo "Interneti doo boobey ga koy boryo ba nda gundekunaa woo gagayandi.">
+
+<!ENTITY pointerLock.notification.message "ESC naagu waati kul k'a cebe koyne.">

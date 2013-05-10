@@ -22,8 +22,8 @@
 <!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi…">
 <!ENTITY helpSafeMode.accesskey   "u">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport.label       "&brandShortName; baani bayrandikaw">
+<!ENTITY healthReport.accesskey   "a">
 
 <!ENTITY helpTroubleshootingInfo.label      "Karkahattayan alhabar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
