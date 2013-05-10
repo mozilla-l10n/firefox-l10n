@@ -19,7 +19,11 @@
 <!ENTITY charsetMenuMore4.accesskey				"S">
 <!ENTITY charsetMenuMore5.label				"मध्य पूर्वीय">
 <!ENTITY charsetMenuMore5.accesskey				"M">
+
+<!--
 <!ENTITY charsetMenuUnicode.label				"युनिकोड">
 <!ENTITY charsetMenuUnicode.accesskey				"U">
+-->
+
 <!ENTITY charsetCustomize.label				"इच्छिक यादी...">
 <!ENTITY charsetCustomize.accesskey				"c">

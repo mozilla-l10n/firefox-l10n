@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--
 <!ENTITY sanitizeItems.label "हे घटक आता पुसुन टाका:">
+-->
 <!ENTITY itemPasswords.label "पासवर्ड संचयीत केले">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemCookies.label "कुकीज">
@@ -74,16 +76,26 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "इतिहास संचार व डाऊनलोड करत आहे">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
+
+<!--
 <!ENTITY itemBrowsingHistory.label         "इतिहास तपासणी करत आहे">
 <!ENTITY itemBrowsingHistory.accesskey     "B">
+-->
+
 <!ENTITY itemFormSearchHistory.label       "फॉर्म &amp; इतिहास शोधा">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
+
+<!--
 <!ENTITY itemDownloadHistory.label         "इतिहास डाऊलोड करा">
 <!ENTITY itemDownloadHistory.accesskey     "D">
+-->
+
 <!ENTITY itemCache.label                   "कॅशे">
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemSitePreferences.label         "स्थळ आवड निवड">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!ENTITY sanitizeEverythingUndoWarning     "ही कृती रद्द करणे अशक्य.">
+<!-- 
 <!ENTITY dialog.width                 "32em">
+-->
 <!ENTITY sanitizePrefs2.title          "इतिहास पूसण्याकरीता संयोजना">

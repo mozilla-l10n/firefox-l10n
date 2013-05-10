@@ -43,7 +43,9 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स्">
 <!ENTITY aboutSupport.installationHistoryTitle "प्रतिष्ठापन इतिहास">
 <!ENTITY aboutSupport.updateHistoryTitle "इतिहास सुधारीत करा">
+<!--
 <!ENTITY aboutSupport.copyToClipboard.label "सर्वांचे क्लिपबोर्डमध्ये प्रत बनवा">
+-->
 
 <!ENTITY aboutSupport.appBasicsCrashIDs "क्रॅश अहवाल">
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरिचा वापर">

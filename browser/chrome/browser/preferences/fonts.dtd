@@ -64,9 +64,11 @@
 <!ENTITY allowPagesToUse.label "माझ्या वरील निवडीं ऐवजी, पृष्ठांस स्वतःचे फॉन्ट निवडू द्या">
 <!ENTITY allowPagesToUse.accesskey "A">
 
+<!--
 <!ENTITY languages.customize.Charset.grouplabel "अक्षर संकेतलिपी">
 <!ENTITY languages.customize.DefaultCharset.label "मुलभूत अक्षर संकेतलिपी:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
+-->
 
 <!ENTITY  font.langGroup.oriya                    "ओरिया">
 <!ENTITY  font.langGroup.telugu                   "तेलुगू">
