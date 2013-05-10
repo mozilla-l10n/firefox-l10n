@@ -31,8 +31,8 @@
 <!ENTITY  mediaTab              "Mèdia">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Emplaçament :">
-<!ENTITY  mediaText             "Tèxt associat :">
-<!ENTITY  mediaAltHeader        "Tèxt alternatiu">
+<!ENTITY  mediaText             "Tèxte associat :">
+<!ENTITY  mediaAltHeader        "Tèxte alternatiu">
 <!ENTITY  mediaAddress          "Adreça">
 <!ENTITY  mediaType             "Tipe">
 <!ENTITY  mediaSize             "Talha">
@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Cargar los imatges">
 <!ENTITY  permPopup             "Dobrir de fenèstras sorgissentas">
 <!ENTITY  permCookie            "Definir de cookies">
+<!ENTITY  permNotifications     "Utilizar las notificacions">
 <!ENTITY  permInstall           "Installar d'extensions o de tèmas">
 <!ENTITY  permGeo               "Partejar l'emplaçament">
 <!ENTITY  permPlugins           "Activar los plugins">
 <!ENTITY  permFullscreen        "Passar en mòde ecran complet">
+<!ENTITY  permPointerLock       "Hide the Pointer">
 
 <!ENTITY  permIndexedDB              "Conservar de donadas fòra connexion">
 <!ENTITY  permClearStorage           "Suprimir las donadas">

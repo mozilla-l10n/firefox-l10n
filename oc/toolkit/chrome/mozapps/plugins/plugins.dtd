@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "Fracàs del mandadís.">
 <!ENTITY report.unavailable                                  "Pas cap de rapòrt disponible.">
 <!ENTITY report.comment                                      "Apondre un comentari (los comentaris son visibles publicament)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "Inclure l'URL de la pagina">
 
 <!ENTITY plugin.file                                         "Fichièr">
 <!ENTITY plugin.mimeTypes                                    "Tipe MIME">
