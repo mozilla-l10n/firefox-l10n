@@ -36,8 +36,8 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "બ્રાઉઝીંગ અને ડાઉનલોડ ઈતિહાસ">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemBrowsingHistory.label         "બ્રાઉઝીંગ ઈતિહાસ">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
+
+
 <!ENTITY itemFormSearchHistory.label       "ફોર્મ &amp; શોધ ઈતિહાસ">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "સંગ્રહાયેલ પાસવર્ડો">
@@ -48,8 +48,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemOfflineApps.label             "ઓફલાઈન વેબસાઈટ માહિતી">
 <!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemDownloadHistory.label         "ડાઉનલોડ ઈતિહાસ">
-<!ENTITY itemDownloadHistory.accesskey     "D">
+
+
 <!ENTITY itemActiveLogins.label            "સક્રિય પ્રવેશો">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "સાઈટ પસંદગીઓ">
@@ -60,5 +60,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "આ ક્રિયા રદ કરી શકાતી નથી.">
 
-<!ENTITY dialog.width                 "32em">
-<!ENTITY column.width                 "14em">
+
+
