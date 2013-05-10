@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL protokoll verziói">
 <!ENTITY  SSLWarnings.caption               "SSL-figyelmeztetések">
+<!ENTITY  SSLMixedContent.caption           "Vegyes tartalom">
 <!ENTITY  SSLClientAuthMethod.caption       "Ügyféloldali tanúsítvány kiválasztása">
 
 <!ENTITY pref.ssl.title                     "SSL">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "l">
 <!ENTITY warn.viewmixed                     "Betöltene egy titkosított és nem titkosított elemeket vegyesen tartalmazó oldalt">
 <!ENTITY warn.viewmixed.accesskey           "n">
+
+<!ENTITY warn.mixedactivecontent            "Figyelmeztetés, ha a titkosított oldalak nem biztonságos elemeket tartalmaznak">
+<!ENTITY warn.mixedactivecontent.accesskey  "F">
+<!ENTITY block.activecontent                "Ne töltse be a nem biztonságos leemeket a titkosított oldalakon">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Figyelmeztetés, ha a titkosított oldalak más típusú kevert tartalmat tartalmaznak">
+<!ENTITY warn.mixeddisplaycontent.accesskey "g">
+<!ENTITY block.displaycontent               "Ne töltse be a más típusú kevert tartalmakat">
+<!ENTITY block.displaycontent.accesskey     "t">
 
 <!ENTITY certselect.description             "Ha egy webhely tanúsítványt igényel, a &brandShortName; hogyan válassza ki a megfelelőt:">
 <!ENTITY certselect.auto                    "Automatikusan">

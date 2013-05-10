@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "T">
 <!ENTITY searchDialogTitle.label     "Üzenetek keresése">
 <!ENTITY results.label               "Eredmények">
-<!ENTITY fileHereMenu.label          "Iktatás itt">
-<!ENTITY fileHereMenu.accesskey      "I">
-<!ENTITY fileButton.label            "Iktatás">
-<!ENTITY fileButton.accesskey        "I">
+<!ENTITY moveHereMenu.label          "Áthelyezés ide">
+<!ENTITY moveHereMenu.accesskey      "i">
+<!ENTITY moveButton.label            "Áthelyezés máshová">
+<!ENTITY moveButton.accesskey        "l">
 <!ENTITY goToFolderButton.label      "Üzenetmappa megnyitása">
 <!ENTITY goToFolderButton.accesskey  "z">
 <!ENTITY saveAsVFButton.label      "Mentés keresési mappaként">

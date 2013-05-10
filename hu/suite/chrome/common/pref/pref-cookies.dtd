@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Sütikezelési házirend">
 
-<!ENTITY accAllCookiesRadio.label       "Minden süti engedélyezése">
-<!ENTITY accAllCookiesRadio.accesskey   "M">
-
-<!ENTITY accOrgCookiesRadio.label       "Csak a kibocsátó webhelyről származó sütik engedélyezése">
-<!ENTITY accOrgCookiesRadio.accesskey   "C">
-
 <!ENTITY disableCookies.label           "Sütik blokkolása">
 <!ENTITY disableCookies.accesskey       "b">
+
+<!ENTITY accNo3rdPartyCookies.label     "Süti elfogadása a származási webhelyről (nincsenek harmadik féltől származó sütik)">
+<!ENTITY accNo3rdPartyCookies.accesskey "a">
+
+<!ENTITY acc3rdPartyVisited.label       "Harmadik féltől származó süti elfogadása csak a már meglátogatott webhelynél">
+<!ENTITY acc3rdPartyVisited.accesskey   "m">
+
+<!ENTITY accAllCookies.label            "Összes süti elfogadása">
+<!ENTITY accAllCookies.accesskey        "e">
 
 <!ENTITY cookieRetentionPolicy.label    "Sütitárolási házirend">
 
