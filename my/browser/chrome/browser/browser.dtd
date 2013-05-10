@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
 <!ENTITY addCurPagesCmd.label "စာအမှတ် အားလုံးကို မှတ်သားပါ...">
-<!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczi załóżczi">
+<!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
 <!ENTITY unsortedBookmarksCmd.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
 

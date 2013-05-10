@@ -9,7 +9,7 @@
 <!ENTITY warningDesc.telemetryDesc  "၎င်းသည် လုပ်ဆောင်ချက်များ ၊ သုံးစွဲပုံများ ၊ ပြင်ဆင်ချက်များအား &vendorShortName; သို့ &brandShortName; အားပိုကောင်းအောင် လုပ်ခြင်းတွင် ကူညီရန် ပြန်ပို့ပေးသည်။">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "အခုဗားရှင်း သည် အားလုံးဝိုင်းဝန်စုပေါင်း လုပ်ဆောင်ထားသော ရလဒ်ဖြစ်သည်">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "is a">
@@ -55,14 +55,14 @@
 
 <!ENTITY update.failed.start        "အသစ်မြှင့်တင်ခြင်းမပြုလုပ်နိုင်ပါ။">
 <!ENTITY update.failed.linkText     "နောက်ဆုံးထွက် အားဒေါင်းလုဒ်ရယူမည်။">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "အဆင့်မမြှင်နိုင်">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "အဆင့်မြှင့်တင်ခြင်းအား လုပ်နိုင်သောနေရာမှာ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          "သုံးဆွဲသူမှ ရပ်တန့်လိုက်ခြင်း">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is

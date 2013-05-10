@@ -31,7 +31,7 @@
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "အစဉ်အမြဲ">
 <!ENTITY  acceptThirdParty.never.label    "ဘယ်တော့မှ">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.visited.label  "လည်ပတ်ကြည့်ရှုပီးသည်မှ">
 
 <!ENTITY  keepUntil.label               "Kသိမ်းဆည်းထားမဲ့ အချိန်၊">
 <!ENTITY  keepUntil.accesskey           "K">

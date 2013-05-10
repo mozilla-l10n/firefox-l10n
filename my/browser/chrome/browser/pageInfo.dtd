@@ -25,7 +25,7 @@
 <!ENTITY  generalEncoding       "စာမြှပ်ဝှက်အမျိုးအစား၊">
 <!ENTITY  generalMetaName       "အမည်">
 <!ENTITY  generalMetaContent    "ပါဝင်ပစ္စည်း">
-<!ENTITY  generalSecurityDetails   "အသေးစိတ်များ">
+<!ENTITY  generalSecurityDetails   "အချက်အလက်များ">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "မီဒီယာ">

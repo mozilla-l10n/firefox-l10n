@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "ပြန်​ပေးအပ်ပါ">
 <!ENTITY restorepage.listHeader     "၀င်းဒိုးနဲ့ စာအမှတ်များ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "၀င်းဒိုး &#037;S">

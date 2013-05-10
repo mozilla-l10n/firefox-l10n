@@ -20,21 +20,21 @@
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Reload">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP ကြားခံ၊">
+<!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP ကြားခံ၊">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL ကြားခံ၊">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS အခြေစိုက်ရာ၊">
+<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.accesskey                "x">
+<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "SOCKS Host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "စိုက်ရောက်နေရာ၊">
+<!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "၀">
+<!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "No Proxy for:">

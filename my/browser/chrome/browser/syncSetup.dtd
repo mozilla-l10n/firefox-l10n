@@ -33,7 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "ပတ်စ်၀တ်အားအတည်ပြုပါ">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.label     "Sync ဝင်းဒိုးကွန်ပျူတာစနစ်အမှတ်(၈)ပုံစံ &brandShortName;">
 <!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "ပစ္စည်းတစ်ခုအားတွဲမည်။">
 <!ENTITY addDevice.showMeHow.label          "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
 <!ENTITY addDevice.dontHaveDevice.label     "ကျွန်တော့်တွင်သင်နှင့်သုံးရန်ကိရိယာမရှိပါ။">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "စသုံးရန်အတွက် &quot;ကိရိယာတပ်&quot; အားသင့် အီလက်ထရောနစ်ပစ္စည်းတွင်ရွေးပါ">
 <!ENTITY addDevice.setup.enterCode.label    "ထို့နောက်ကုဒ်အားဖြည့်သွင်းပါ။">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "သင်၏ ကိရိယာအသစ်အား စသုံးရန် &quot;ထပ်တူချိတ်ဆက်အားတပ်ဆင်&quot; ကိုရွေးပါ">
 <!ENTITY addDevice.dialog.enterCode.label   "ကိရိယာမှထောက်ပံ့ပေးထားသောကုဒ်အားထည့်ပါ">
 <!ENTITY addDevice.dialog.tryAgain.label    "ကျေးဇူးပြုပြီးထပ်ကြိုးစားပါ">
 <!ENTITY addDevice.dialog.successful.label  "ကိရိယာအားအောင်မြင်စွာတပ်ဆင်ပြီးဖြစ်သည်။ထပ်တူပြုခြင်းသည်မိနစ်အနည်းငယ်ကြာနိုင်ပြီးနောက်ခံပိုင်းတွင်အလုပ်လုပ်ပြီးဆုံးသွားနိုင်သည်။">

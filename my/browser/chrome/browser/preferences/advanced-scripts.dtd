@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY advancedJSDialog.title         "အဆင့်မြင့် JavaScript အပြင်အဆင်များ">
+<!ENTITY advancedJSDialog.title         "အဆင့်မြင့် JavaScript အပြင်အဆင်များ">
 <!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "Script များကို ခွင့်ပြုမဲ့အရာက၊">
