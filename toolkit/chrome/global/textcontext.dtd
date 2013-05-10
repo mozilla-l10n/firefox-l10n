@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
@@ -5,11 +9,12 @@
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Deshacer">
-<!ENTITY undoCmd.accesskey "d">
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "e">
+<!ENTITY deleteCmd.accesskey "E">
+
 <!ENTITY spellAddToDictionary.label "Agregar al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Deshacer Agregar al diccionario">
@@ -18,4 +23,4 @@
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
 <!ENTITY spellDictionaries.label "Idiomas">
-<!ENTITY spellDictionaries.accesskey "i">
+<!ENTITY spellDictionaries.accesskey "I">
