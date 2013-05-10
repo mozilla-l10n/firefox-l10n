@@ -75,14 +75,14 @@
 <!ENTITY  privateBrowsingPermanent2.label "हमेशा निजी ब्राउजिंग विधि का उपयोग करें">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "मेरे ब्राउज़िंग और डाउनलोड इतिहास याद रखें">
+<!ENTITY  rememberHistory2.label      "मेरे ब्राउज़िंग और डाउनलोड इतिहास याद रखें (b)">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "खोज और फ़ॉर्म इतिहास याद रखें">
+<!ENTITY  rememberSearchForm.label       "खोज और फ़ॉर्म इतिहास याद रखें (f)">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "इतिहास साफ करें जब &brandShortName; बंद हो जाता है">
+<!ENTITY  clearOnClose.label             "इतिहास साफ करें जब &brandShortName; बंद हो जाता है (r)">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "सेटिंग्स…">
+<!ENTITY  clearOnCloseSettings.label     "सेटिंग्स… (t)">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

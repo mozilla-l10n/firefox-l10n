@@ -32,9 +32,9 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "कूटशब्द">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "वरीयताएँ">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "सहयुक्तियाँ">
+<!ENTITY engine.prefs.label         "वरीयताएँ (s)">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "सहयुक्तियाँ (A)">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
