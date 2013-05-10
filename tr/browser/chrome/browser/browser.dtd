@@ -261,7 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.accesskey          "Y"> 
 <!ENTITY cutCmd.label           "Kes">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "K"> 
+<!ENTITY cutCmd.accesskey         "e"> 
 <!ENTITY copyCmd.label            "Kopyala">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
