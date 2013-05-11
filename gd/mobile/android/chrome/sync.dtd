@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "A' feitheamh ris an dàrna uidheam…">
 
 <!ENTITY sync.pair.title            "Paidhrich uidheam">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Gus an t-uidheam ùr agad a chur an gnìomh, tagh &quot;Suidhich an sioncronachadh&quot; air an uidheam ud.">
 <!ENTITY sync.setup.close           "Dùin">
 <!ENTITY sync.setup.waitingdownload "Tha an dàta agad 'ga luchdadh a-nuas sa chùlaibh a-nis. 'S urrainn dhut an uinneag seo a dhùnadh uair sam bith.">
