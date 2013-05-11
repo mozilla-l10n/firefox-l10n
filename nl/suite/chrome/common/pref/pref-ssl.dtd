@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL-protocolversies">
 <!ENTITY  SSLWarnings.caption               "SSL-waarschuwingen">
+<!ENTITY  SSLMixedContent.caption           "Gemengde inhoud">
 <!ENTITY  SSLClientAuthMethod.caption       "Clientcertificaatselectie">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "v">
 <!ENTITY warn.viewmixed                     "Het bekijken van een pagina met zowel versleutelde als niet-versleutelde gegevens">
 <!ENTITY warn.viewmixed.accesskey           "b">
+
+<!ENTITY warn.mixedactivecontent            "Mij waarschuwen wanneer versleutelde pagina's niet-beveiligde inhoud bevat">
+<!ENTITY warn.mixedactivecontent.accesskey  "M">
+<!ENTITY block.activecontent                "Niet beveiligde inhoud niet laden op versleutelde pagina's">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Mij waarschuwen wanneer versleutelde pagina's andere types van gemengde inhoud bevat">
+<!ENTITY warn.mixeddisplaycontent.accesskey "i">
+<!ENTITY block.displaycontent               "Andere types van gemengde inhoud niet laden op versleutelde pagina's">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Bepaal hoe &brandShortName; een beveiligingscertificaat selecteert om aan te bieden aan websites die er een vereisen:">
 <!ENTITY certselect.auto                    "Automatisch selecteren">
