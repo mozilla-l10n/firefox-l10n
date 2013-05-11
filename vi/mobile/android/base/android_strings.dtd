@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  splash_settingup "Cài đặt &brandShortName; của bạn">
+<!ENTITY  splash_bookmarks_history "Chúng tôi đang cập nhật trang ưu thích và lịch sử duyệt, việc này có thể mất một (vài) phút.">
 
 <!ENTITY  no_space_to_start_error "Không có đủ dung lượng trống để &brandShortName; khởi động.">
-<!ENTITY  error_loading_file "Một lỗi xảy ra khi đang cố tải các tập tin để chạy &brandShortName;">
+<!ENTITY  error_loading_file "Một lỗi xảy ra khi đang các tệp cần thiết để chạy &brandShortName; đang được tải">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Đánh dấu">
-<!ENTITY  awesomebar_history_title "Lược sử">
+<!ENTITY  awesomebar_all_pages_title "Trang tốp">
+<!ENTITY  awesomebar_bookmarks_title "Trang ưa thích">
+<!ENTITY  awesomebar_history_title "Lịch sử">
 
-<!ENTITY  crash_reporter_title "Trình báo cáo Lỗi &brandShortName;">
+<!ENTITY  crash_reporter_title "Trình báo cáo lỗi &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; đã bị đổ vỡ. Thẻ của bạn sẽ được liệt kê trên trang Khởi Động &brandShortName; khi bạn khởi động lại.">
 <!ENTITY  crash_help_message "Vui lòng giúp chúng tôi sửa vấn đề này!">
 <!ENTITY  crash_send_report_message "Gửi Mozilla một báo cáo đổ vỡ">
@@ -24,8 +24,8 @@
 <!ENTITY  exit_label "Thoát">
 <!ENTITY  continue_label "Tiếp tục">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ứng dụng web">
+<!ENTITY  launcher_shortcuts_empty "Không tìm thấy ứng dụng web nào">
 
 <!ENTITY choose_file "Choose File">
 
@@ -77,8 +77,8 @@
 <!ENTITY pref_cookies_disabled "Disabled">
 
 <!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
+<!ENTITY pref_char_encoding_off "Không hiển thị trình đơn">
 <!ENTITY pref_clear_private_data "Xóa dữ liệu cá nhân">
 <!ENTITY pref_plugins "Phần bổ trợ">
 <!ENTITY pref_plugins_enabled "Enabled">
@@ -114,15 +114,15 @@ size. -->
 <!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
+<!ENTITY pref_private_data_downloadFiles "Tệp đã tải về">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
+<!ENTITY pref_update_autodownload_wifi "Chỉ thông qua Wi-Fi">
+<!ENTITY pref_update_autodownload_disabled "Thoát">
 <!ENTITY pref_update_autodownload_enabled "Enabled">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "Thoát">
 
 <!ENTITY addons "Tiện ích">
 <!ENTITY downloads "Downloads">
@@ -130,15 +130,15 @@ size. -->
 <!ENTITY char_encoding "Bảng mã">
 
 <!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
+<!ENTITY share_title "Chia sẻ qua">
+<!ENTITY share_image_failed "Không thể chia sẻ hình ảnh này">
 <!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Request Desktop Site">
 <!ENTITY tools "Công cụ">
 <!ENTITY new_tab "Thẻ Mới">
 <!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
+<!ENTITY close_all_tabs "Đóng tất cả các thẻ">
 <!ENTITY tabs_normal "Thẻ">
 <!ENTITY tabs_private "Private">
 <!ENTITY tabs_synced "Synced">
@@ -162,7 +162,7 @@ size. -->
 <!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "Dán">
-<!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_copyurl "Sao chép địa chỉ">
 <!ENTITY contextmenu_edit_bookmark "Edit">
 
 <!ENTITY history_removed "Page removed">
@@ -193,17 +193,17 @@ size. -->
 <!ENTITY button_yes "Có">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
+<!ENTITY button_set "Thiết lập">
 <!ENTITY button_clear "Clear">
 
 <!ENTITY abouthome_addons_title "Tiện ích cho &brandShortName; của bạn">
 <!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
 <!ENTITY abouthome_last_tabs_title "Các thẻ từ lần dùng cuối của bạn">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
+<!ENTITY abouthome_last_tabs_open "Mở tất cả các thẻ trong lần sử dụng cuối">
 <!ENTITY abouthome_top_sites_title "Top sites">
 <!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_pin "Ghim trang web">
+<!ENTITY abouthome_topsites_unpin "Bỏ ghim trang web">
 <!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
@@ -217,7 +217,7 @@ size. -->
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY abouthome_sync_bold_name "Đồng bộ Firefox">
 <!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
 
 <!ENTITY filepicker_title "Choose File">
@@ -241,7 +241,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "thuộc quyền kiểm soát của">
 
 <!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_fail "Không thể xóa một số dữ liệu riêng tư">
 
 <!ENTITY bookmarkhistory_button_import "Import">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
