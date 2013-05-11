@@ -106,7 +106,7 @@
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
 <!ENTITY Chat.tab "Гутарка">
-<!ENTITY Chat.accesskey "a">
+<!ENTITY Chat.accesskey "г">
 <!ENTITY Gtalk.label "Google Talk:">
 <!ENTITY Gtalk.accesskey "G">
 <!ENTITY AIM.label "AIM:">
@@ -123,6 +123,8 @@
 <!ENTITY ICQ.accesskey "I">
 <!ENTITY XMPP.label "Jabber ID:">
 <!ENTITY XMPP.accesskey "J">
+<!ENTITY IRC.label "Мянушка IRC:">
+<!ENTITY IRC.accesskey "R">
 <!ENTITY Photo.tab "Здымак">
 <!ENTITY Photo.accesskey "д">
 <!ENTITY PhotoDesc.label "Узяць адзін з наступных:">

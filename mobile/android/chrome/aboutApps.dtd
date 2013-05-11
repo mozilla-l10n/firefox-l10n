@@ -7,3 +7,5 @@
 <!ENTITY aboutApps.noApps.pre "Няма ўсталяваных сеціўных прыстасавання. Знайсці ў ">
 <!ENTITY aboutApps.noApps.middle3 "Рынак Firefox">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Высталяваць">
+<!ENTITY aboutApps.addToHomescreen "Дадаць на хатні экран">

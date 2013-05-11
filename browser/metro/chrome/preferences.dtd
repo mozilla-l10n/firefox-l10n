@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label "Наладжванні">
+<!ENTITY aboutHeader.label "Пра">
+<!ENTITY aboutHeaderProduct.label "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label "ад &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label "Чытаць палітыку адасаблення &brandShortName; у сетцы">
+<!ENTITY privacy.title "Адасабленне і бяспека">
+<!ENTITY doNotTrack.title "Забараняць сеціўным пляцоўкам сачыць за мною">
+<!ENTITY masterPassword.title "Ужываць галоўны пароль">
+<!ENTITY clearPrivateData2.title "Ачысціць асабістыя здаткі">
+<!ENTITY clearPrivateData.button "Ачысціць">
+<!ENTITY rememberPasswords.title "Памятаць паролі">
+<!ENTITY startup.title "Запуск">
+<!ENTITY homepage.title "Паказваць падчас запуску &brandShortName;">
+<!ENTITY homepage.startPage "Пачатковая старонка">
+<!ENTITY homepage.sessionRestore "Устаўкі папярэдняга запуску">
