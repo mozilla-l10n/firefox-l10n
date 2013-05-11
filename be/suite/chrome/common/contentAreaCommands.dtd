@@ -6,10 +6,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "в">
 <!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
 <!ENTITY popupWindowAllowCmd.accesskey "в">
-<!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
-<!ENTITY openLinkCmd.accesskey "п">
 <!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
 <!ENTITY openLinkCmdInTab.accesskey "й">
+<!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
+<!ENTITY openLinkCmd.accesskey "п">
+<!ENTITY openLinkCmdInPrivateWindow.label "Адчыніць спасылку ў новым адасобленым акне">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "д">
 <!ENTITY openLinkInWindowCmd.label "Адчыніць">
 <!ENTITY openLinkInWindowCmd.accesskey "А">
 <!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
