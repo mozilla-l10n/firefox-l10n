@@ -89,6 +89,7 @@
 <!ENTITY pref_private_data_cache "Запаснік">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY pref_private_data_siteSettings "Перавагі пляцовак">
+<!ENTITY pref_private_data_downloadFiles "Сцягнутыя файлы">
 <!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Забаронены">
@@ -162,7 +163,7 @@
 <!ENTITY abouthome_topsites_edit "Праўка">
 <!ENTITY abouthome_topsites_pin "Прышпіліць пляцоўку">
 <!ENTITY abouthome_topsites_unpin "Адшпіліць пляцоўку">
-<!ENTITY abouthome_topsites_unpinall "Адшпіліць усе">
+<!ENTITY abouthome_topsites_remove "Выдаліць">
 <!ENTITY abouthome_about_sync3 "Наладзіць Firefox Sync, каб даступацца да закладак, гісторыі і ўставак з іншых збудоваў »">
 <!ENTITY abouthome_about_apps3 "Атрымаць прыстасаванні з рынка Firefox і даведацца, што мае Сеціва прапанаваць »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

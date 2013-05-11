@@ -5,3 +5,10 @@
 <!ENTITY aboutDownloads.title "Сцягванні">
 <!ENTITY aboutDownloads.header "Вашы сцягванні">
 <!ENTITY aboutDownloads.empty "Няма сцягванняў">
+<!ENTITY aboutDownloads.open "Адчыніць">
+<!ENTITY aboutDownloads.remove "Выдаліць">
+<!ENTITY aboutDownloads.removeAll "Выдаліць усе">
+<!ENTITY aboutDownloads.pause "Прыпыніць">
+<!ENTITY aboutDownloads.resume "Працягнуць">
+<!ENTITY aboutDownloads.cancel "Скасаваць">
+<!ENTITY aboutDownloads.retry "Паўтарыць">

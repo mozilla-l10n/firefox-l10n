@@ -22,6 +22,8 @@
 <!ENTITY contextAfterCls.label "Сітаваць пасля вызначэннем лухты">
 <!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
 <!ENTITY filterActionDesc.accesskey "В">
+<!ENTITY filterActionOrderWarning.label "Заўвага: дзеянні сіта будуць выконвацца ў адрозным парадку.">
+<!ENTITY filterActionOrder.label "Пабачыць парадак выканання">
 <!ENTITY moveMessage.label "Рухаць ліст у">
 <!ENTITY copyMessage.label "Капіяваць ліст у">
 <!ENTITY forwardTo.label "Накіраваць ліст да">

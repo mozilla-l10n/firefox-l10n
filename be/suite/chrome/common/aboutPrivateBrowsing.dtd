@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Адасобленае азіранне">
+<!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; зараз спробная асаблівасць.">
+<!ENTITY privatebrowsingpage.description "У акне адасобленага азірання &brandShortName; не будзе захоўваць дыскавы запаснік, біркі і гісторыю азірання, пошуку, сцягванняў і сеціўных формаў. Але сцягнутыя файлы і закладкі ўсё адно захоўваюцца.">
+<!ENTITY privatebrowsingpage.moreinfo "Хоць гэты кампутар не будзе захоўваць вашу гісторыю азірання, але тым не менш ваш наймальнік і дастаўшчык паслугаў Інтэрнэту можа быць здольным даведацца, якія старонкі вы наведваеце.">
+<!ENTITY privatebrowsingpage.learnmore.label "Падрабязней">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "П">
+<!ENTITY privatebrowsingpage.private "&brandShortName; не будзе памятаць гісторыю для гэтага акна. Зачыніце акно, каб спыніць адасобленае азіранне.">
+<!ENTITY privatebrowsingpage.switch.label "Пераключыцца ў звычайнае акно">
+<!ENTITY privatebrowsingpage.switch.accesskey "к">
+<!ENTITY privatebrowsingpage.normal "Вы зараз не ўжываеце адасобленае азіранне.">
+<!ENTITY privatebrowsingpage.private.label "Адчыніць новае акно адасобленага азірання.">
+<!ENTITY privatebrowsingpage.private.accesskey "А">
+<!ENTITY privatebrowsingpage.info "Каб пачаць адасобленае азіранне, вы таксама можаце выбраць: Файл ― Стварыць ― Адасобленае акно.">

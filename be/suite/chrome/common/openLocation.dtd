@@ -6,6 +6,7 @@
 <!ENTITY enter.accesskey "м">
 <!ENTITY chooseFile.label "Выбраць файл…">
 <!ENTITY chooseFile.accesskey "В">
+<!ENTITY newPrivate.label "Новае адасобленае акно">
 <!ENTITY newWindow.label "Новае акно азіральніка">
 <!ENTITY newTab.label "Новая ўстаўка азіральніка">
 <!ENTITY currentTab.label "Цяперашняя ўстаўка азіральніка">
