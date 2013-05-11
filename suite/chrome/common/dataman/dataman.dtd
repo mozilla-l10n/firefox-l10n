@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Alleen toestemmingen">
 <!ENTITY select.preferences.label "Alleen voorkeuren">
 <!ENTITY select.passwords.label "Alleen wachtwoorden">
+<!ENTITY select.storage.label "Alleen opslag">
 
 <!ENTITY domain.search.placeholder "Domeinen doorzoeken">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Toestemmingen">
 <!ENTITY tab.preferences.label "Voorkeuren">
 <!ENTITY tab.passwords.label "Wachtwoorden">
+<!ENTITY tab.storage.label "Opslag">
 <!ENTITY tab.formdata.label "Formuliergegevens">
 <!ENTITY tab.forget.label "Vergeten">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Verwijderen">
 <!ENTITY pwd.button.remove.accesskey "V">
 
+<!-- storage -->
+<!ENTITY storage.description "Dit domein gebruikt de volgende webopslag op uw computer:">
+
+<!ENTITY storage.tree.host.label "Website">
+<!ENTITY storage.tree.type.label "Type">
+<!ENTITY storage.tree.size.label "Grootte">
+
+<!ENTITY storage.ctx.remove.label "Verwijderen">
+<!ENTITY storage.ctx.remove.accesskey "r">
+<!ENTITY storage.ctx.selectAll.label "Alles selecteren">
+<!ENTITY storage.ctx.selectAll.accesskey "A">
+
+<!ENTITY storage.button.remove.label "Verwijderen">
+<!ENTITY storage.button.remove.accesskey "r">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Veldgegevens doorzoeken">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "I">
 <!ENTITY forget.passwords.label "Wachtwoorden">
 <!ENTITY forget.passwords.accesskey "W">
+<!ENTITY forget.storage.label "Opslag">
+<!ENTITY forget.storage.accesskey "O">
 <!ENTITY forget.formdata.label "Formuliergegevens">
 <!ENTITY forget.formdata.accesskey "F">
 
