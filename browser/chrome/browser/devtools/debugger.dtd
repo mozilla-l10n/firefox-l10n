@@ -16,7 +16,7 @@
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showVarsFilter "Паказаць скрынку сіта зменных">
 <!ENTITY debuggerUI.showVarsFilter.key "V">
-<!ENTITY debuggerUI.showOnlyEnum "Show only enumerable properties">
+<!ENTITY debuggerUI.showOnlyEnum "Паказваць толькі пералічальныя ўласцівасці">
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
 <!ENTITY debuggerUI.searchPanelTitle "Чыннікі">
 <!ENTITY debuggerUI.searchFile "Сітаваць сцэнары">
@@ -29,6 +29,8 @@
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Сітаваць зменныя">
 <!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.focusVariables "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables.key "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Гэты перапыняльнік спыніць выкананне толькі тады, калі наступны выраз праўдзівы">
 <!ENTITY debuggerUI.seMenuBreak "Дадаць перапыняльнік">
 <!ENTITY debuggerUI.seMenuBreak.key "B">

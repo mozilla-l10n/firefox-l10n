@@ -525,6 +525,8 @@
 <!ENTITY appmenuEditMenu.label "Праўка">
 <!ENTITY appmenuQFBMenu.label "Паліца хуткага сіта">
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
+<!ENTITY appmenuSelectThread.label "Вылучыць нізку">
+<!ENTITY appmenuSelectFlagged.label "Вылучыць пазначаныя зоркамі лісты">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
 <!ENTITY manageTags.label "Кіраваць мецінамі…">

@@ -4,14 +4,14 @@
 
 <!ENTITY pref.download.title "Загрузкі">
 <!ENTITY downloadBehavior.label "Калі пачынаецца загрузка">
-<!ENTITY focusWhenStarting.label "Бліснуць кіраўніком загрузак, калі ён ужо адкрыты. Інакш:">
-<!ENTITY focusWhenStarting.accesskey "Б">
-<!ENTITY openDM.label "Адчыніць кіраўнік загрузак">
-<!ENTITY openDM.accesskey "г">
-<!ENTITY openProgressDialog.label "Адчыніць дыялог развіцця">
-<!ENTITY openProgressDialog.accesskey "р">
 <!ENTITY doNothing.label "Нічога не адчыняць">
 <!ENTITY doNothing.accesskey "Н">
+<!ENTITY openProgressDialog.label "Адчыніць дыялог развіцця">
+<!ENTITY openProgressDialog.accesskey "р">
+<!ENTITY openDM.label "Адчыніць кіраўнік загрузак">
+<!ENTITY openDM.accesskey "г">
+<!ENTITY flashWhenOpen.label "Толькі бліснуць кіраўніком сцягванняў, калі ён ужо адчынены">
+<!ENTITY flashWhenOpen.accesskey "б">
 <!ENTITY downloadLocation.label "Калі файл захоўваецца">
 <!ENTITY saveTo.label "Захоўваць файлы ў">
 <!ENTITY saveTo.accesskey "ў">

@@ -215,11 +215,6 @@
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
 <!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
-<!ENTITY clearRecentHistory.accesskey "г">
-<!ENTITY privateBrowsingCmd.start.label "Пачаць адасобленае азіранне">
-<!ENTITY privateBrowsingCmd.start.accesskey "А">
-<!ENTITY privateBrowsingCmd.stop.label "Спыніць адасобленае азіранне">
-<!ENTITY privateBrowsingCmd.stop.accesskey "А">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "П">
@@ -252,7 +247,7 @@
 <!ENTITY appMenuSafeMode.label "Перазапусціць з забароненымі дадаткамі…">
 <!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Перайсці на пляцоўку Сеціва">
+<!ENTITY urlbar.placeholder2 "Шукаць ці ўвесці адрас">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Пераключыцца ў устаўку:">
 <!ENTITY searchFocus.commandkey "k">
@@ -329,6 +324,10 @@
 <!ENTITY emailVideoCmd.accesskey "д">
 <!ENTITY emailAudioCmd.label "Даслаць гук…">
 <!ENTITY emailAudioCmd.accesskey "д">
+<!ENTITY playPluginCmd.label "Задзейнічаць убудову">
+<!ENTITY playPluginCmd.accesskey "З">
+<!ENTITY hidePluginCmd.label "Схаваць убудову">
+<!ENTITY hidePluginCmd.accesskey "х">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
 <!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне выявы">
@@ -434,7 +433,6 @@
 <!ENTITY identity.connectedTo "Вы з злучаны з">
 <!ENTITY identity.runBy "які падтрымліваецца">
 <!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
-<!ENTITY allTabs.filter.emptyText "Пошук уставак">
 <!ENTITY tabsToolbar.label "Устаўкі азіральніка">
 <!ENTITY syncTabsMenu2.label "Устаўкі з іншых збудоваў">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -464,3 +462,5 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 <!ENTITY webrtcIndicatorButton.label "Доступ да камеры / мікрафона">
 <!ENTITY webrtcIndicatorButton.tooltip "Паказвае пляцоўкі, з якімі вы зараз дзеліцеся камерай або мікрафонам">
+<!ENTITY mixedContentBlocked.helplink "Падрабязней">
+<!ENTITY mixedContentBlocked.moreinfo "Большасць сеціўных пляцовац будзе працаваць нават калі гэтае змесціва будзе заблакаваным.">

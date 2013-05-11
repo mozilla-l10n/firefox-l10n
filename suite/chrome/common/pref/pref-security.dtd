@@ -4,14 +4,16 @@
 
 <!ENTITY pref.security.title "Адасабленне і бяспека">
 <!ENTITY tracking.label "Сачэнне за карыстальнікам">
-<!ENTITY doNotTrack.label "Паведамляць сеціўным пляцоўкам, што я не жадаю, каб за мною сачылі">
-<!ENTITY doNotTrack.accesskey "П">
-<!ENTITY privateData.label "Прыватныя даныя">
-<!ENTITY alwaysClear.label "Заўсёды ачышчаць мае прыватныя даныя перад закрыццём &brandShortName;">
-<!ENTITY alwaysClear.accesskey "ў">
-<!ENTITY askBeforeClear.label "Спытаць мяне перад ачысткаю прыватных даных">
-<!ENTITY askBeforeClear.accesskey "С">
-<!ENTITY clearDataSettings.label "Калі я запытваю &brandShortName; ачысціць мае прыватныя даныя, ён мусіць вынішчыць:">
-<!ENTITY clearDataDialog.label "Ачысціць зараз…">
-<!ENTITY clearDataSilent.label "Ачысціць зараз">
-<!ENTITY clearDataDialog.accesskey "з">
+<!ENTITY trackingIntro.label "Сецішныя пляцоўкі могуць сачыць, як вы выкарыстоўваеце іх, што пагражае вашаму адасабленню.">
+<!ENTITY dntTellSites.label "Паведамляць сеціўным пляцоўкам мае дазволы на сачэнне">
+<!ENTITY dntTellSites.accesskey "П">
+<!ENTITY dntTrackingNotOkay.label "Я не жадаю, каб за мною сачылі">
+<!ENTITY dntTrackingNotOkay.accesskey "н">
+<!ENTITY dntTrackingOkay.label "Я згодны, каб за мною сачылі">
+<!ENTITY dntTrackingOkay.accesskey "з">
+<!ENTITY safeBrowsing.label "Бяспечнае азіранне">
+<!ENTITY safeBrowsingIntro.label "&brandShortName; можа блакаваць сеціўныя пляцоўкі, якія занатаваныя, што змяшчаюць зламыснае змесціва.">
+<!ENTITY blockAttackSites.label "Блакаваць занатаваныя нападныя пляцоўкі (зламысныя, з вірусамі)">
+<!ENTITY blockAttackSites.accesskey "Б">
+<!ENTITY blockWebForgeries.label "Блакаваць занатаваныя сеціўныя падробкі (лоўля)">
+<!ENTITY blockWebForgeries.accesskey "л">
