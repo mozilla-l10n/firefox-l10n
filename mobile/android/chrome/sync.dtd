@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Đồng bộ Ngay">
 
 <!ENTITY sync.setup.title           "Kết nối tới Sync">
-<!ENTITY sync.setup.pair            "Để kích hoạt, chọn &#x0022;Ghép đôi thiết bị&#x0022; trên thiết bị khác của bạn.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Tôi không ở gần máy tính của tôi…">
 <!ENTITY sync.setup.manual          "Nhập thông tin tài khoản Sync của bạn">
 <!ENTITY sync.account               "Tên Tài Khoản">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Ghép đối thiết bị">
-<!ENTITY sync.pair.description      "Để kích hoạt thiết bị mới, chọn &#x0022;Cài đặt đồng bộ&#x0022; trên thiết bị.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Đóng">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
-<!ENTITY aboutPage.checkForUpdates.found        "Có cập nhật">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hỗ trợ">
 <!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
