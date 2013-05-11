@@ -32,7 +32,7 @@
 
 <!ENTITY happy.ratingLink          "Iawn, mynd i Google Play">
 <!ENTITY happy.maybeLater          "Rhywbryd Eto Efallai">
-<!ENTITY happy.noThanks            "Dim Diolch">
+<!ENTITY happy.noThanks            "Dim diolch">
 
 <!ENTITY sad.message               "Mae'n ddrwg gennym glywed eich bod wedi cael anawsterau gyda &brandShortName;. Dywedwch wrthym beth ddigwyddodd fel bod modd i ni ei gywiro.">
 <!ENTITY sad.placeholder           "Rhowch eich adborth yma">

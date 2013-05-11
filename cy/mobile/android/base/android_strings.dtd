@@ -13,7 +13,7 @@
 <!ENTITY  awesomebar_bookmarks_title "Nodau Tudalen">
 <!ENTITY  awesomebar_history_title "Hanes">
 
-<!ENTITY  crash_reporter_title "Adroddwr Gwall &brandShortName;">
+<!ENTITY  crash_reporter_title "Adroddwr Chwalu &brandShortName;">
 <!ENTITY  crash_message "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
 <!ENTITY  crash_help_message "Mae angen eich cymorth i ddatrys y broblem!">
 <!ENTITY  crash_send_report_message "Anfon adroddiad gwall at Mozilla">
@@ -142,7 +142,7 @@ size. -->
 <!ENTITY tabs_normal "Tabiau">
 <!ENTITY tabs_private "Preifat">
 <!ENTITY tabs_synced "Cydweddwyd">
-<!ENTITY wallpaper_success "Diweddarwyd y Papur Wal">
+<!ENTITY wallpaper_success "Diweddarwyd y papur wal">
 <!ENTITY wallpaper_progress "Gosod papur wal">
 <!ENTITY wallpaper_fail "Methu gosod y papur wal">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used

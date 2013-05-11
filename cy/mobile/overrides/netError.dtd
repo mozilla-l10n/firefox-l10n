@@ -103,13 +103,14 @@ cwci.</li>
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data a dderbyniwyd.</li> 
-<li>Cysylltwch â pherchnogion y wefan am y broblem hon. Yn lle hynny, defnyddiwch y gorchymyn yn y ddewislen cymorth i adrodd ar y wefan yma.</li> </ul>">
+<li>Cysylltwch â pherchnogion y wefan am y broblem hon. Yn lle hynny, defnyddiwch y gorchymyn yn y ddewislen cymorth i adrodd ar y wefan yma.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Gall hwn fod yn anhawster gyda ffurfweddiad y gweinydd neu gall fod 
 yn rhywun sy'n ceisio dynwared y gweinydd.</li> 
-<li>Os ydych wedi cysylltu'n llwyddiannus gyda' gweinydd yn y gorffennol, efallai 
+<li>Os ydych wedi cysylltu'n llwyddiannus gyda'r gweinydd yn y gorffennol, efallai 
 mai gwall dros dro ydyw ac i geisio eto.</li> 
 </ul>">
 
