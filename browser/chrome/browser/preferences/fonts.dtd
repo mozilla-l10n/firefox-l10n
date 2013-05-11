@@ -67,3 +67,8 @@
 
 <!ENTITY  allowPagesToUse.label                   "Permitir a las páginas elegir sus propias tipografías, en vez de mis selecciones de arriba">
 <!ENTITY  allowPagesToUse.accesskey               "a">
+
+<!ENTITY languages.customize.Fallback.grouplabel  "Codificación de caracteres para contenido heredado">
+<!ENTITY languages.customize.Fallback.label       "Codificación de caracteres antigua:">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "Esta codificación de caracteres es usada para contenido heredado que falla en declarar su codificación.">
