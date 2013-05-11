@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
+<!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
 <!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">
