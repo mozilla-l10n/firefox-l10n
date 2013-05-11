@@ -9,6 +9,7 @@
 <!ENTITY awesomebar_all_pages_title "Топ сайтов">
 <!ENTITY awesomebar_bookmarks_title "Закладки">
 <!ENTITY awesomebar_history_title "История">
+<!ENTITY awesomebar_switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
 <!ENTITY crash_send_report_message2 "Сообщить в Mozilla об этом падении, чтобы они смогли это исправить">
