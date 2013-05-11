@@ -12,6 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "Alla sidor">
 <!ENTITY  awesomebar_bookmarks_title "Bokmärken">
 <!ENTITY  awesomebar_history_title "Historik">
+<!ENTITY  awesomebar_switch_to_tab "Byt till flik">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
 <!ENTITY  crash_message2 "&brandShortName; hade ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
