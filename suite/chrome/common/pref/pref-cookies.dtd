@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Cookie-acceptatiebeleid">
 
-<!ENTITY accAllCookiesRadio.label       "Alle cookies toestaan">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "Cookies alleen toestaan voor de oorspronkelijke website">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "Cookies blokkeren">
 <!ENTITY disableCookies.accesskey       "b">
+
+<!ENTITY accNo3rdPartyCookies.label     "Cookies alleen toestaan voor de oorspronkelijke website (geen cookies van derden)">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label       "Cookies van derden van eerder bezochte websites toestaan">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
+
+<!ENTITY accAllCookies.label            "Alle cookies toestaan">
+<!ENTITY accAllCookies.accesskey        "c">
 
 <!ENTITY cookieRetentionPolicy.label    "Cookiebehoudbeleid">
 
