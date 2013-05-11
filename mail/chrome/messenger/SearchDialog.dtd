@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "V">
 <!ENTITY searchDialogTitle.label     "Berichten zoeken">
 <!ENTITY results.label               "Resultaten">
-<!ENTITY fileHereMenu.label          "Hier opslaan">
-<!ENTITY fileHereMenu.accesskey      "H">
-<!ENTITY fileButton.label            "Opslaan">
-<!ENTITY fileButton.accesskey        "l">
+<!ENTITY moveHereMenu.label          "Verplaats naar hier">
+<!ENTITY moveHereMenu.accesskey      "h">
+<!ENTITY moveButton.label            "Verplaats naar">
+<!ENTITY moveButton.accesskey        "n">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Openen in map">
 <!ENTITY openInFolder.accesskey      "m">
