@@ -56,3 +56,5 @@ that require it.  -->
      mockup at bug 480169 -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Esta acción no puede revertirse.">
+<!ENTITY dialog.width2                 "34em">
+<!ENTITY column.width2                 "17em">
