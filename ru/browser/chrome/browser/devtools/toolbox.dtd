@@ -4,7 +4,6 @@
 
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Закрыть инструменты разработки">
-<!ENTITY toolboxOptionsButton.tooltip "Показать/скрыть панель настроек">
 <!ENTITY toolboxOptionsButton.key "O">
 <!ENTITY options.context.label "Дополнительные настройки (необходимо перезапустить браузер)">
 <!ENTITY options.enableChrome.label "Включить отладку chrome">
