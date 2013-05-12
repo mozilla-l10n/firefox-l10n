@@ -190,7 +190,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "M">
 <!ENTITY sortByUnreadCmd.label "Lesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
-<!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkefølge">
+<!ENTITY sortByOrderReceivedCmd.label "Mottatt-rekkjefølgje">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortAscending.label "Stigande">
 <!ENTITY sortAscending.accesskey "S">
@@ -647,7 +647,7 @@
 <!ENTITY receivedColumn.label "Mottatt">
 <!ENTITY starredColumn.label "Stjerne">
 <!ENTITY locationColumn.label "Plassering">
-<!ENTITY idColumn.label "Mottaksrekkefølge">
+<!ENTITY idColumn.label "Mottatt-rekkjefølgje">
 <!ENTITY attachmentColumn.label "Vedlegg">
 
 <!-- Thread Pane Tooltips -->
@@ -695,9 +695,9 @@
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Svar til liste">
 <!ENTITY contextReplyList.accesskey "r">
-<!ENTITY contextForward.label "Send vidare">
-<!ENTITY contextForward.accesskey "v">
-<!ENTITY contextForwardAsAttachment.label "Send vidare som vedlegg">
+<!ENTITY contextForward.label "Vidaresend">
+<!ENTITY contextForward.accesskey "V">
+<!ENTITY contextForwardAsAttachment.label "Vidaresend som vedlegg">
 <!ENTITY contextForwardAsAttachment.accesskey "d">
 <!ENTITY contextMoveMsgMenu.label "Flytt til">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
@@ -760,13 +760,13 @@
 
 
 <!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Spel">
+<!ENTITY contextPlay.label "Spel av">
 <!ENTITY contextPlay.accesskey "S">
 <!ENTITY contextPause.label "Pause">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Slå av">
+<!ENTITY contextMute.label "Slå av lyd">
 <!ENTITY contextMute.accesskey "a">
-<!ENTITY contextUnmute.label "Slå på">
+<!ENTITY contextUnmute.label "Slå på lyd">
 <!ENTITY contextUnmute.accesskey "å">
 
 <!-- Junk Bar -->
@@ -781,7 +781,7 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Denne meldinga kan vere svindel">
 <!ENTITY removePhishingBarButton1.label "Ignorer åtvaring">
-<!ENTITY disablePhishingWarning1.label "Slå av svindelattkjenning for alle meldingane">
+<!ENTITY disablePhishingWarning1.label "Slå av svindelattkjenning for alle meldingar">
 <!ENTITY reportPhishingError1.label "Denne meldinga ser ikkje ut til å vere svindel.">
 
 <!-- MDN Bar -->
