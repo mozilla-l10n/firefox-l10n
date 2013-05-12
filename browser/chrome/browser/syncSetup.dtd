@@ -72,24 +72,13 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ପସନ୍ଦ">
 <!ENTITY engine.prefs.accesskey     "S">
-
-
-<!ENTITY choice2.merge.main.label      "ଏହି କମ୍ପୁଟରର ତଥ୍ୟକୁ ମୋର &syncBrand.shortName.label; ତଥ୍ୟ ସହିତ ସନ୍ତୁଳନ କରନ୍ତୁ">
-
-
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "ନିଶ୍ଚିତ କରନ୍ତୁ">
-
-
-
 <!ENTITY confirm.server2.label         "ଚେତାବନୀ: ନିମ୍ନଲିଖିତ ଉପକରଣଗୁଡ଼ିକୁ ଆପଣଙ୍କର ସ୍ଥାନୀୟ ତଥ୍ୟ ସହିତ ନବଲିଖିନ କରାଯିବ:">
-
-
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ସଂରଚନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି">
 <!ENTITY changeOptions.label "ଆପଣ ନିମ୍ନରେ ଥିବା Sync ବିକଳ୍ପକୁ ବାଛିକରି ଏହି ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
 <!ENTITY continueUsing.label "ଆପଣ ବର୍ତ୍ତମାନ &brandShortName; କୁ ବ୍ୟବହାର କରିପାରିବେ।">
-
 <!ENTITY addDevice.dialog.enterCode.label   "ଉପକରଣଟି ପ୍ରଦାନ କରିଥିବା ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
 <!ENTITY addDevice.dialog.successful.label  "ଏହି ଉପକରଣଟିକୁ ସଫଳତାର ସହିତ ଯୋଗକରାଯାଇଛି। ପ୍ରାରମ୍ଭିକ ସନ୍ତୁଳନ ପାଇଁ ଅନେକ ସମୟ ଲାଗିପାରେ ଏବଂ ପୃଷ୍ଠଭୂମିରେ ସମାପ୍ତ ହୋଇଥାଏ।">
@@ -144,3 +133,4 @@
 <!ENTITY setup.setupMetro.label     "Windows 8 ଶୈଳୀର &brandShortName; ସହିତ ସନ୍ତୁଳନ କରନ୍ତୁ">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY syncDeviceName.label       "ଉପକରଣ ନାମ:">
+<!ENTITY choice2a.merge.main.label       "ଏହି ଉପକରଣର ତଥ୍ୟକୁ ମୋର &syncBrand.shortName.label; ତଥ୍ୟ ସହିତ ସନ୍ତୁଳନ କରନ୍ତୁ">
