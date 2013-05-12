@@ -4,7 +4,6 @@
 
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Chiudi strumenti per sviluppatori">
-<!ENTITY toolboxOptionsButton.tooltip "Attiva pannello opzioni">
 <!ENTITY toolboxOptionsButton.key "o">
 <!ENTITY options.context.label "Impostazioni avanzate (è richiesto un riavvio del browser)">
 <!ENTITY options.enableChrome.label "Attiva debug chrome">
