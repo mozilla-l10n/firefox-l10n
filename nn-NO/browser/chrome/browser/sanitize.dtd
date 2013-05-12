@@ -5,7 +5,7 @@
 <!ENTITY sanitizePrefs2.title          "Innstillingar for sletting av historikk">
 <!ENTITY sanitizeDialog2.title         "Slett nyleg historikk">
 
-<!ENTITY clearDataSettings2.label     "Når eg avsluttar &brandShortName;, skal følgande automatisk slettast:">
+<!ENTITY clearDataSettings2.label     "Når eg avsluttar &brandShortName;, skal følgjande automatisk slettast:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -27,7 +27,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljar">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
 <!ENTITY historySection.label         "Historikk">
 <!ENTITY dataSection.label            "Data">
@@ -45,7 +45,7 @@ that require it.  -->
 <!ENTITY itemPasswords.accesskey           "L">
 <!ENTITY itemCookies.label                 "Infokapslar">
 <!ENTITY itemCookies.accesskey             "I">
-<!ENTITY itemCache.label                   "Snøgglager">
+<!ENTITY itemCache.label                   "Snøgglager for nettsider">
 <!ENTITY itemCache.accesskey               "S">
 <!ENTITY itemOfflineApps.label             "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey         "F">
@@ -53,8 +53,8 @@ that require it.  -->
 <!ENTITY itemDownloadHistory.accesskey     "N">
 <!ENTITY itemActiveLogins.label            "Aktive innloggingar">
 <!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Sideinnstillingar">
-<!ENTITY itemSitePreferences.accesskey     "S">
+<!ENTITY itemSitePreferences.label         "Nettsideinnstillingar">
+<!ENTITY itemSitePreferences.accesskey     "N">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
