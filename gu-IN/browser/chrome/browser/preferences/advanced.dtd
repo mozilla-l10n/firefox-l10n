@@ -119,4 +119,21 @@
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY setDefault.label                "&brandShortName; ને મૂળભૂત બ્રાઉઝર બનાવો">
 
+<!ENTITY crashReporterDesc.label         "&brandShortName; એ &vendorShortName; ને મદદ કરવા માટે ભંગાણ અહેવાલને સમાવે છે ખાતરી કરો કે બ્રાઉઝર વધારે સ્થિર અને સુરક્ષિત છે">
+<!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
+<!ENTITY crashReporterSection.label      "ભંગાણ અહેવાલકર્તા">
+<!ENTITY dataChoicesTab.label            "માહિતી પસંદગી">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY enableCrashReporter.label       "ભંગાણ અહેવાલકર્તાને સક્રિય કરો">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.label        "&brandShortName; આરોગ્ય અહેવાલને સક્રિય કરો">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY enableTelemetry.label           "ટેલિમેટ્રી સક્રિય કરો">
+<!ENTITY healthReportDesc.label          "તમારાં બ્રાઉઝર પ્રભાવને સમજવા તમને મદદ કરે છે અને તમારાં બ્રાઉઝર આરોગ્ય વિશે &vendorShortName; સાથે માહિતીને વહેંચે છે">
+<!ENTITY healthReportLearnMore.label     "વધારે શીખો">
+<!ENTITY healthReportSection.label       "&brandShortName; આરોગ્ય અહેવાલ">
+<!ENTITY telemetryDesc.label             "&brandShortName; ને સારુ બનાવવા અમને મદદ કરવા માટે &vendorShortName; સાથે તમારાં બ્રાઉઝર વિશે પ્રભાવ, વપરાશ, હાર્ડવેર અને વૈવિધ્યપૂર્ણ માહિતીને વહેંચે છે">
+<!ENTITY telemetryLearnMore.label        "વધારે શીખો">
+<!ENTITY telemetrySection.label          "ટેલિમેટ્રી ">
+
 
