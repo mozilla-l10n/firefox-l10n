@@ -111,3 +111,16 @@
 <!ENTITY signIn.recoveryKey.label       "પુનઃપ્રાપ્તિ ચાવી">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 <!ENTITY serverType.default.label      "મૂળભૂત: Mozilla &syncBrand.fullName.label; સર્વર">
+
+
+<!ENTITY choice2a.client.main.label      "મારી &syncBrand.shortName.label; માહિતી સાથે આ ઉપકરણ પર બધી માહિતીને બદલો">
+<!ENTITY choice2a.merge.main.label       "મારી &syncBrand.shortName.label; માહિતી સાથે આ ઉપકરણની માહિતીને ભેગુ કરો">
+<!ENTITY choice2a.server.main.label      "ઉપકરણની માહિતી સાથે બધા બીજા ઉપકરણ સાથે બદલો">
+<!ENTITY confirm.client2.moreinfo.label "આ ઉપકરણમાં &brandShortName; એ  તમારી &syncBrand.fullName.label; માહિતીની નકલ કરશે.">
+<!ENTITY confirm.client3.label         "ચેતવણી: આ ઉપકરણ પર નીચેની &brandShortName; માહિતીને કાઢી નંખાશે:">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; એ તમારાં સુમેળ ખાતામાં આ ઉપકરણની બ્રાઉઝર માહિતીને બધી ભેગી કરશે.">
+<!ENTITY setup.choicePage.existing2.label "હું પહેલેથી જ બીજા ઉપકરણ પર &syncBrand.shortName.label; ને વાપરી રહ્યા છે">
+<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "Windows ૮ શૈલી &brandShortName; સાથે સુમેળ કરો">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
