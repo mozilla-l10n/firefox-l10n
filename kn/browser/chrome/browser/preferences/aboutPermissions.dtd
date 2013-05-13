@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "ಯಾವಾಗಲೂ ಕೇಳು">
 <!ENTITY permission.allow                "ಅನುಮತಿಸು">
 <!ENTITY permission.allowForSession      "ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "ಮೊದಲ ಪಾರ್ಟಿಯನ್ನು ಮಾತ್ರ ಅನುಮತಿಸು">
 <!ENTITY permission.block                "ನಿರ್ಬಂಧಿಸು">
 
 <!ENTITY password.label                  "ಗುಪ್ತಪದಗಳನ್ನು ಶೇಖರಿಸಿಡು">

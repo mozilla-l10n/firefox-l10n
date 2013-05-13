@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "ಜಾಡು ಇರಿಸುವಿಕೆ">
 
-<!ENTITY doNotTrack.label               "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "ನನ್ನ ಜಾಡಿನ ಕುರಿತಾದ ಆದ್ಯತೆಗಳ ಬಗ್ಗೆ ತಾಣಗಳಿಗೆ ಏನನ್ನೂ ತಿಳಿಸಬೇಡ.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸುವುದನ್ನು ಬಯಸುವುದಿಲ್ಲ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸು ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 <!ENTITY  history.label                 "ಇತಿಹಾಸ">
 
@@ -22,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "ಥರ್ಡ್‌  ಪಾರ್ಟಿ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.pre.label      "ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "ಯಾವಾಗಲೂ">
+<!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
+<!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
 
 <!ENTITY  keepUntil.label               "ಇಲ್ಲಿಯವರೆಗೆ ಇರಿಸಿಕೋ:">
 <!ENTITY  keepUntil.accesskey           "K">

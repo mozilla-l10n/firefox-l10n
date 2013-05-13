@@ -41,6 +41,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ಪ್ರಮುಖ ಮಾರ್ಪಡಿಕೆ ಮಾಡಲಾದ ಆದ್ಯತೆಗಳು">
 <!ENTITY aboutSupport.modifiedPrefsName "ಹೆಸರು">
 <!ENTITY aboutSupport.modifiedPrefsValue "ಮೌಲ್ಯ">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js ಆದ್ಯತೆಗಳು">
+<!ENTITY aboutSupport.userJSDescription "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ <a id='prefs-user-js-link'>user.js file</a> ಅನ್ನು ಹೊಂದಿದ್ದು, ಅದರಲ್ಲಿ &brandShortName; ನಲ್ಲಿ ಇರದೆ ಇರುವಂತಹ ಆದ್ಯತೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.">
 
 <!ENTITY aboutSupport.graphicsTitle "ಗ್ರಾಫಿಕ್ಸ್‍">
 
@@ -56,5 +60,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "ಅನುಸ್ಥಾಪನಾ ಇತಿಹಾಸ">
 <!ENTITY aboutSupport.updateHistoryTitle "ಅಪ್‌ಡೇಟ್‌ ಇತಿಹಾಸ">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ  ಪ್ರತಿಮಾಡು">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ಕಚ್ಛಾ ದತ್ತಾಂಶವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡು">

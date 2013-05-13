@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY restorepage.listHeader     "ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "ವಿಂಡೊ &#37;S">
+<!ENTITY restorepage.windowLabel    "ಕಿಟಕಿ &#037;S">

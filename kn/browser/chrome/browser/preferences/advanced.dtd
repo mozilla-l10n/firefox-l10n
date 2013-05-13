@@ -33,10 +33,26 @@
 <!ENTITY setDefault.label                "&brandShortName; ಅನ್ನು ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿಸು">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ">
-<!ENTITY submitCrashes.label             "ಕುಸಿತ ವರದಿಗಳನ್ನು ಸಲ್ಲಿಸಿ">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮಾಹಿತಿಯನ್ನು ಸಲ್ಲಿಸು">
-<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY dataChoicesTab.label            "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
+
+<!ENTITY healthReportSection.label       "&brandShortName; ಹೆಲ್ತ್ ರಿಪೋರ್ಟ್">
+<!ENTITY healthReportDesc.label          "ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕದ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲು ನೆರವಾಗುತ್ತದೆ ಮತ್ತು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕದ ಆರೋಗ್ಯದ ಕುರಿತು &vendorShortName; ನೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
+<!ENTITY enableHealthReport.label        "&brandShortName; ಹೆಲ್ತ್ ರಿಪೋರ್ಟನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ ">
+
+<!ENTITY telemetrySection.label          "ಟೆಲಿಮೆಟ್ರಿ">
+<!ENTITY telemetryDesc.label             "&brandShortName; ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕದ ಕಾರ್ಯನಿರ್ವಹಣೆ, ಬಳಕೆ, ಯಂತ್ರಾಂಶ ಮತ್ತು ದತ್ತಾಂಶ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆಯ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
+<!ENTITY enableTelemetry.label           "ಟೆಲಿಮೆಟ್ರಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ ">
+
+<!ENTITY crashReporterSection.label      "ಕುಸಿತ ವರದಿಗಾರ">
+<!ENTITY crashReporterDesc.label         "ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿಸಲು &brandShortName; ಕುಸಿತ ವರದಿಗಳನ್ನು  &vendorShortName; ಗೆ ಕಳುಹಿಸುತ್ತದೆ">
+<!ENTITY enableCrashReporter.label       "ಕುಸಿತ ವರದಿಗಾರನನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ ">
 
 <!ENTITY networkTab.label                "ಜಾಲಬಂಧ">
 

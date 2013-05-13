@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "Web Console">
 
-<!ENTITY networkPanel.requestURL                  "ಮನವಿ URL">
-<!ENTITY networkPanel.requestMethod               "ಮನವಿ ವಿಧಾನ">
-<!ENTITY networkPanel.statusCode                  "ಸ್ಥಿತಿ ಸಂಕೇತ">
+<!ENTITY networkPanel.requestURLColon             "Request URL:">
+<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "ಮನವಿ ಹೆಡರುಗಳು">
 <!ENTITY networkPanel.requestCookie               "ಕಳುಹಿಸಲಾದ ಕುಕಿ">
@@ -20,6 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "ಕಳುಹಿಸಲಾದ ಫಾರ್ಮಿನ ಮಾಹಿತಿ">
 
 <!ENTITY networkPanel.responseHeaders             "ಪ್ರತಿಕ್ರಿಯೆ ಹೆಡರುಗಳು">
+<!ENTITY networkPanel.responseCookie              "Received Cookie">
 <!ENTITY networkPanel.responseBody                "ಪ್ರತಿಕ್ರಿಯೆಯ ಮುಖ್ಯಭಾಗ">
 <!ENTITY networkPanel.responseBodyCached          "ಕ್ಯಾಶೆ ಮಾಡಲಾದ ಮಾಹಿತಿ">
 <!ENTITY networkPanel.responseBodyUnknownType     "ಗೊತ್ತಿರದ ವಿಷಯದ ಬಗೆ">
@@ -58,31 +59,10 @@
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Warnings">
 <!ENTITY btnConsoleLog          "Log">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Position">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Position the Web Console above or below the document">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Above">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Below">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "ವಿಂಡೋ">
 
 <!ENTITY filterBox.placeholder "ಫಿಲ್ಟರ್">
 <!ENTITY btnClear.label        "Clear">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
-<!ENTITY btnClose.tooltip      "Close the Web Console">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

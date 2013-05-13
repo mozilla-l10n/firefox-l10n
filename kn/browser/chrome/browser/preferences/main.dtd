@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "ಆರಂಭ">
+<!ENTITY startup.label             "ಆರಂಭಿಕ">
 
 <!ENTITY startupPage.label         "&brandShortName;ವು ಆರಂಭಗೊಂಡಾಗ:">
 <!ENTITY startupPage.accesskey     "s">
@@ -12,9 +12,9 @@
 
 <!ENTITY homepage.label            "ನೆಲೆ ಪುಟ:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ಬಳಸು">
+<!ENTITY useCurrentPage.label      "ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "ಪ್ರಸ್ತುತ ಪುಟಗಳನ್ನು ಬಳಸು ">
+<!ENTITY useMultiple.label         "ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು ">
 <!ENTITY chooseBookmark.label      "ಪುಟಗುರುತನ್ನು ಬಳಸು…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು">
