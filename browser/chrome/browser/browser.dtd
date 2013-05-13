@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவுதல்)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவல்)">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "தத்தலை மீளேற்று">
@@ -62,7 +62,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.label "இணைப்பில்லாமல் வேலைசெய்">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "மெனு பட்டை">
@@ -83,7 +83,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.label "முழுத்திரைக்குச் செல்">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "சாளரத்தை மூடு">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.label "புத்தகக்குறிகள்">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "சந்தாப்படுத்து">
 <!ENTITY feedButton.tooltip           "இந்தப் பக்கத்தை சந்தாப்படுத்தவும்…">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksButton.tooltip        "உங்கள் புத்தகக்குறிகளை காட்டவும்">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "வலைத்தள டெவலப்பர்">
 <!ENTITY webDeveloperMenu.accesskey   "வ">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "இணை...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "பிழை பணியகம்">
@@ -458,16 +458,16 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate.label     "இயக்கு வேகம்">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.label "மெதுவான இயக்கம் (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.label "இயல்பான வேகம்">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.label "அதி வேகம் (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "H">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.label "நகைச்சுவையான வேகம் (2×)">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -644,9 +644,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!ENTITY webrtcIndicatorButton.label "கேமரா / மைக்ரோஃபோன் அணுகல்">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.tooltip "தற்போது நான் எனது கேமரா அல்லது மைக்ரோஃபோனைப் பகிரும் தளங்களைக் காண்பிக்கவும்">
 
 <!ENTITY mixedContentBlocked.helplink "மேலும் அறிய">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "இந்த உள்ளடக்கம் தடுக்கபப்ட்டாலும், பெரும்பாலான வலைத்தளங்கள் சரியாக செயல்படும்.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "எப்போது வேண்டுமானாலும் மீண்டும் இதைக் காண்பிக்க ESC ஐ அழுத்தவும்.">

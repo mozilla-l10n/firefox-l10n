@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY debuggerMenu.label2            "Debugger">
+<!ENTITY debuggerMenu.label2            "வழுநீக்கி">
 <!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
   -  Tools menu entry of Debugger that opens the debugger UI. -->
 

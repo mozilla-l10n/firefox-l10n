@@ -32,8 +32,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "கூடுதல் இணைப்பு மேம்படுத்தல் பாதுகாப்பு சரிபார்த்தலை செயல்படுத்து">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label                 "உங்கள் செருகுநிரல்கள் இப்போது வரை புதுப்பிக்கப்பட்டுள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
+<!ENTITY info.plugincheck.tooltip               "உங்கள் செருகுநிரல்கள் இப்போது வரை புதுப்பிக்கப்பட்டுள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "தேடு">

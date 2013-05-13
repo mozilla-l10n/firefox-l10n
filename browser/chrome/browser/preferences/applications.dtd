@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "உள்ளடக்க வகை">
-<!ENTITY  typeColumn.accesskey    "வ">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "செயல்">
 <!ENTITY  actionColumn2.accesskey "A">

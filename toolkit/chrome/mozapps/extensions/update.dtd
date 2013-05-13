@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "&brandShortName; Update">
+<!ENTITY  updateWizard.title              "&brandShortName; புதுப்பிப்பு">
 
 <!ENTITY  offline.title                   "&brandShortName; இணைய இணைப்பில்லாமல் வேலை செய்கிறது">
 <!ENTITY  offline.description             "&brandShortName; மேம்படுத்தல்களை அறிய இணைய இணைப்பு தேவைப்படுகிறது. அவற்றுக்கு கூடுதல் இணைப்புகள் இருந்தால் அதனை பார்க்கலாம்.">

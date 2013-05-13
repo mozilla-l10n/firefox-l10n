@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
+<!ENTITY blocklist.title             "துணை நிரல்கள் சிக்கல்களை ஏற்படுத்தலாம்">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; பின்வரும் கூடுதல் இணைப்புகள் நிலைப்பு தன்மை அல்லது பாதுகாப்பு சிக்கல்களை கொண்டுள்ளது என அறிகிறது:">
 <!ENTITY blocklist.softblocked       "உங்கள் பாதுகாப்பிற்கு, இந்த கூடுதல் இணைப்புகளை செயல்நீக்கி மறுதுவக்க பரிந்துரைக்கப்படுகிறது.">

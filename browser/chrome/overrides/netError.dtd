@@ -62,13 +62,13 @@
 <!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Contact your network administrator to make sure the proxy server is working.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "பதிலி சேவையகத்தைக் கண்டறிய முடியவில்லை">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Check to make sure your computer has a working network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.title "சேவையகத்திலிருந்து எதிர்பாராத பதில்">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Check to make sure your system has the Personal Security Manager installed.</li> <li>This might be due to a non-standard configuration on the server.</li> </ul>">
 
 <!ENTITY nssFailure2.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
@@ -95,11 +95,11 @@
 <!ENTITY phishingBlocked.longDesc "<p>Entering any personal information on this page may result in identity theft or other fraud.</p> 
 <p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p> &brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
 
 <!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>தரவுப் பரிமாற்றத்தில் ஒரு பிழை கண்டறியப்பட்டுள்ளதால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</p><ul><li>இணைய உரிமையாளர்களைத் தொடர்பு கொண்டு இந்த பிரச்சனை குறித்து தெரிவிக்கவும்.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Or you can add an exception...">
@@ -111,12 +111,10 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>நீங்கள் முழுமையாக நம்பாத ஒரு இணைய இணைப்பைப் பயனப்டுத்தினால் அல்லது இந்த சேவையகத்திற்கு இதற்கு முன்பு நீங்கள் இப்படி எச்சரிக்கையைப் பார்த்திருக்காவிட்டால், நீங்கள் விதிவிலக்கைச் சேர்க்கக்கூடாது.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p> <ul> <li> இந்த பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க. </li></ul></p>">
