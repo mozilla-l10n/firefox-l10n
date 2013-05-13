@@ -34,5 +34,18 @@ the same access key (though the two access keys can also be different).
 <!ENTITY cmd.clearList.label              "યાદીને સાફ કરો">
 <!ENTITY cmd.clearList.accesskey          "a">
 
+<!ENTITY clearDownloadsButton.label       "ડાઉનલોડ સાફ કરો">
+<!ENTITY clearDownloadsButton.tooltip     "પૂર્ણ થયેલ, રદ થયેલ અને નિષ્ફળ થયેલ ડાઉનલોડને સાફ કરે છે">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.label         "ડાઉનલોડને સાફ કરો">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "ઇતિહાસમાંથી દૂર કરો">
+<!ENTITY downloadDetails.width            "50ch">
+<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.label           "બધા ડાઉનલોડને બતાવો">
+<!ENTITY downloadsListEmpty.label         "ત્યાં ડાઉનલોડ નથી.">
+<!ENTITY downloadsListNoMatch.label       "કોઇપણ બંધબેસતા ડાઉનલોડને શોધી શક્યા નહિં.">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
+
 
 
