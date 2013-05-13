@@ -29,9 +29,6 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  acceptThirdParty.label        "ત્રીજી-વ્યક્તિ કુકીઓ સ્વીકારો">
-<!ENTITY  acceptThirdParty.accesskey    "c">
-
 <!ENTITY  clearOnClose.label             "જ્યારે &brandShortName; બંધ થાય ત્યારે ઇતિહાસ સાફ કરો">
 <!ENTITY  clearOnClose.accesskey         "r">
 
@@ -88,4 +85,17 @@
 
 <!ENTITY  rememberHistory2.label      "મારુ બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસને યાદ રાખો">
 <!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  acceptThirdParty.always.label   "હંમેશા">
+<!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "ત્રીજી-પાર્ટી કુકીઓને સ્વીકારો:">
+<!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNopref.label        "મારી ટ્રેકીંગ પસંદગીઓ વિશે કંઇપણ સાઇટને કહે નહિં.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingNotOkay.label       "સાઇટને કહો કે હું ટ્રેક રાખવા માંગતી નથી.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingOkay.label          "સાઇટને કહો કે હું ટ્રેક રાખવા માંગુ છુ.">
+<!ENTITY doNotTrackInfo.label           "વધારે શીખો">
 
