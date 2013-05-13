@@ -26,12 +26,12 @@
 
 <!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha.</li> 
-<li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na.</li> 
+<li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha. </li> 
+<li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na. </li> 
 </ul>">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Oops">
 <!ENTITY generic.longDesc "<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
@@ -97,7 +97,7 @@ iikhuki.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Khangela ukuqinisekisa ukuba isistim yakho ine-Personal Security Manager 
 efakelweyo.</li> 
-<li>Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva.</li> 
+<li>Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva. </li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Unxibelelwano lokhuseleko aluphumelelanga">
@@ -125,16 +125,16 @@ nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li>
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
 <!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini…">
+<!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">
-<!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini…">
+<!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Akumele kongeza ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembi ncam okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p> 
+<!ENTITY securityOverride.warningContent "<p> Akumele kongeza ieksepshini ukuba usebenzisa unxibelelwano lweintanethi ongaluthembi ncam okanye ukuba akuqhelanga ukubona isilumkiso kule seva.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

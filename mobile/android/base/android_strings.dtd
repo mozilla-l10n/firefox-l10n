@@ -19,12 +19,12 @@
 <!ENTITY  crash_send_report_message "Thumela iMozilla ingxelo yokonakala">
 <!ENTITY  crash_include_url "Quka idilesi yekhasi">
 <!ENTITY  crash_close_label "Vala">
-<!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
-<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
+<!ENTITY  crash_restart_label "Qalisa ngokutsha i-brandShortName;">
+<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala ">
 <!ENTITY  exit_label "Phuma">
 <!ENTITY  continue_label "Qhuba">
 
-<!ENTITY  launcher_shortcuts_title "i-&brandShortName; ii-Web Apps">
+<!ENTITY  launcher_shortcuts_title "i-brandShortName; ii-Web Apps">
 <!ENTITY  launcher_shortcuts_empty "Akukho zi-apps zewebhu zifumanekayo">
 
 <!ENTITY choose_file "Khetha Ifayili">
@@ -36,7 +36,7 @@
 
 <!ENTITY bookmark "Isalathisi esiphawulayo">
 <!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
-<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
+<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe ">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
 
 <!ENTITY history_today_section "Namhlanje">
@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Iiphaswedi ezigciniweyo">
 <!ENTITY pref_private_data_cache "Imemori esisikhupheli">
 <!ENTITY pref_private_data_offlineApps "ngcombolo zewebhusayithi ezingekho kwinethiwekhi">
-<!ENTITY pref_private_data_siteSettings "Iipriferensi zesayithi">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Iifayile ezikhutshelweyo">
 
 <!ENTITY pref_update_autodownload "Izihlaziyi ezizenzekelayo">
@@ -172,10 +172,10 @@ size. -->
 <!ENTITY bookmark_edit_location "Indawo">
 <!ENTITY bookmark_edit_keyword "Igama eliphambili">
 
-<!ENTITY site_settings_title2       "Iisethingi zesayithi…">
+<!ENTITY site_settings_title2       "Iisethingi zesayithi">
 <!ENTITY site_settings_cancel       "Rhoxisa">
 <!ENTITY site_settings_clear        "Sula">
-<!ENTITY site_settings_no_settings  "Akukho zisethingi zinokususwa.">
+<!ENTITY site_settings_no_settings  "Akukho zisethingi zinokususwa">
 
 <!ENTITY reading_list "ULuhlu lokufunda">
 <!ENTITY reading_list_added "Ikhasi longezwe kuludwe lwakho lokufunda">
@@ -202,7 +202,7 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Vula zonke iithebhu zexesha lokugqibela">
 <!ENTITY abouthome_top_sites_title "Iisayithi eziphambili">
 <!ENTITY abouthome_topsites_edit "Hlela">
-<!ENTITY abouthome_topsites_pin "Qhobosha isayithi">
+<!ENTITY abouthome_topsites_pin "Qhobosha isayithi ">
 <!ENTITY abouthome_topsites_unpin "Khulula isayithi">
 <!ENTITY abouthome_topsites_remove "Susa">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
@@ -244,17 +244,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
 <!ENTITY bookmarkhistory_button_import "Thumela ngaphandle">
-<!ENTITY bookmarkhistory_import_both "Ithumela ngaphandle iibhukhmakhi nembali 
-kwi-Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Ithumela iibhukhmakhi 
-kwi-Android">
-<!ENTITY bookmarkhistory_import_history "Ithumela imbali 
-kwi-Android">
+<!ENTITY bookmarkhistory_import_both "Ukwamkela iibhukhmakhi ezingenayo nembali /esuka kwi-Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ukwamkela iibhukhmakhi ezingenayo /ezisuka kwi-Android">
+<!ENTITY bookmarkhistory_import_history "Ukwamkela imbali engenayo /esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_wait "Nceda linda...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&formatS; khangela iingcamango?">
+<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&fomathiS; khangela iingcamango?">
 
 <!ENTITY webapp_generic_name "I-app">
 

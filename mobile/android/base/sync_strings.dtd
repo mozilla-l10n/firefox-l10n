@@ -16,12 +16,12 @@
 
 <!ENTITY sync.subtitle.connect.label "Ukusenza sisebenze isixhobo sakho esitsha, khetha “Useto &syncBrand.shortName.label;” kwisixhobo.">
 <!ENTITY sync.subtitle.header2.label "Ngenisa le khowudi kwesinye isixhobo sakho">
-<!ENTITY sync.subtitle.connectlocation2.label "Khetha “&sync.title.pair.label;” kwicandelo le-&syncBrand.shortName.label; lendlela yokhetho yesinye isixhobo sakho se-Firefox.">
+<!ENTITY sync.subtitle.connectlocation2.label "Khetha “&sync.title.pair.label;” kwicandelo le-syncBrand.shortName.label; lendlela yokhetho yesinye isixhobo sakho se-Firefox.">
 <!ENTITY sync.subtitle.pair.label "Ukuvuselela, khetha “Hambisa ngambini isixhobo” kwesinye isixhobo sakho.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Ndibonise ukuba kanjani na.">
-<!ENTITY sync.link.advancedsetup.label "Useto oluqhubele phambili…">
+<!ENTITY sync.link.advancedsetup.label "Useto oluqhubele phambili...">
 <!ENTITY sync.link.nodevice.label "Andinaso isixhobo kum…">
 <!-- J-PAKE Waiting Screen -->
 
@@ -32,7 +32,7 @@
 <!ENTITY sync.input.username.label "Igama Leakhawunti">
 <!ENTITY sync.input.password.label "Iphaswedi">
 <!ENTITY sync.input.key.label "IQhosha lokuFumana">
-<!ENTITY sync.checkbox.server.label "Sebenzisa iseva yesiqhelo">
+<!ENTITY sync.checkbox.server.label "Sebenzisa iseva yekhastom">
 <!ENTITY sync.input.server.label "Iseva URL">
 <!-- Setup Fail -->
   
@@ -41,12 +41,12 @@
 <!ENTITY sync.button.tryagain.label "Zama kwakhona">
 <!ENTITY sync.button.manual.label "Useto lweManyuwali">
 <!ENTITY sync.subtitle.nointernet.label "Alufumaneki unxibelelwano lweintanethi.">
-<!ENTITY sync.subtitle.failaccount.label "Uyilo lweakhawunti kwisixhobo sakho aluphumelelanga.">
+<!ENTITY sync.subtitle.failaccount.label "Uyilo lweakhawunti kwisixhobo sakho aluphumelelanga">
 <!ENTITY sync.subtitle.failmultiple.label "Ingaba une-Firefox engaphaya kwenye efakelweyo? Ngokunje, i-&syncBrand.fullName.label; ixhasa kuphela ufakelo lwe-Firefox enye ngexesha. Nceda ukhuphe ufakelo lwezinye iimeko usebenzise i-&syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Useto lugqityiwe">
-<!ENTITY sync.subtitle.success.label1 "Iingcombolo ziyakhutshelwa ngoku ngemva. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye uqalise ukubhrawuza nge-&brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Iingcombolo ziyakhutshelwa ngoku ngemva Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye uqalise ukubhrawuza nge-&brandShortName;.">
 <!ENTITY sync.settings.label "Iisetingi">
 <!ENTITY sync.subtitle.manage.label1 "I-akhawunti yakho ye-&syncBrand.fullName.label; sele isetiwe. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye ukulontsha i-&brandShortName;.">
 <!-- Pair Device -->
@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label "Into emayingqanyaniswe">
-<!ENTITY sync.configure.engines.sync.my.title.label "Ungqamaniso lwakho…">
+<!ENTITY sync.configure.engines.sync.my.title.label "Ungqamaniso lwakho...">
 <!ENTITY sync.configure.engines.title.bookmarks "Izalathisi eziphawulayo">
 <!ENTITY sync.configure.engines.title.passwords "Iiphaswedi">
 <!ENTITY sync.configure.engines.title.history "Imbali">
@@ -91,9 +91,9 @@
 <!ENTITY sync.notification.configure.saved "Ukhetho lwakho lugciniwe.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "Igama leakhawunti okanye iphaswedi.">
+<!ENTITY sync.invalidcreds.label "Igama leakhawunti okanye iphaswedi">
 <!ENTITY sync.invalidserver.label "Nceda ungenise iseva URL esebenzayo">
-<!ENTITY sync.verifying.label "Iyangqinisekisa…">
+<!ENTITY sync.verifying.label "Iyangqinisekisa...">
 <!ENTITY sync.new.recoverykey.status.incorrect "IQhosha lokuFumana alichanekanga. Nceda uzame kwakhona.">
 <!-- Send tab to device. -->
 
