@@ -60,5 +60,8 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "આ ક્રિયા રદ કરી શકાતી નથી.">
 
+<!ENTITY column.width2                 "17em">
+<!ENTITY dialog.width2                 "34em">
+
 
 
