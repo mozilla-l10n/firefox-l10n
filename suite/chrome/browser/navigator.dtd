@@ -23,17 +23,17 @@
 <!ENTITY bookmarksToolbar.tooltip "Barra strumenti dei segnalibri">
 <!ENTITY navigationToolbar.tooltip "Barra di navigazione">
 <!ENTITY backButton.label "Indietro">
-<!ENTITY backButton.tooltip "Torna indietro una pagina">
+<!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardButton.label "Avanti">
-<!ENTITY forwardButton.tooltip "Va avanti una pagina">
+<!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
 <!ENTITY reloadButton.label "Ricarica">
-<!ENTITY reloadButton.tooltip "Ricarica pagina corrente">
+<!ENTITY reloadButton.tooltip "Ricarica la pagina corrente">
 <!ENTITY stopButton.label "Interrompi">
-<!ENTITY stopButton.tooltip "Interrompe il caricamento della pagina">
+<!ENTITY stopButton.tooltip "Interrompi il caricamento della pagina">
 <!ENTITY searchButton.label "Cerca">
-<!ENTITY searchButton.tooltip "Inserire una parola nel campo a sinistra, e premere Cerca">
+<!ENTITY searchButton.tooltip "Inserire una parola nel campo a sinistra e premere Cerca">
 <!ENTITY goButton.label "Vai">
-<!ENTITY goButton.tooltip "Inserire un indirizzo nel campo a sinistra, quindi premere Vai">
+<!ENTITY goButton.tooltip "Inserire un indirizzo nel campo a sinistra e premere Vai">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY printButton.tooltip "Stampa la pagina">
 <!ENTITY throbber.tooltip "Visita la pagina home di &vendorShortName;">
