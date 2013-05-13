@@ -54,15 +54,15 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "Zaari-tiira">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Goy-ceebandu alhabarey sanbandi &quot;console&quot; hayaa do">
 <!ENTITY btnConsoleErrors       "Firkawey">
 <!ENTITY btnConsoleInfo         "Alhabar">
-<!ENTITY btnConsoleWarnings     "Warnings">
+<!ENTITY btnConsoleWarnings     "Yaamarey">
 <!ENTITY btnConsoleLog          "Hantum">
 
 <!ENTITY filterBox.placeholder "Sosoguji">
-<!ENTITY btnClear.label        "Clear">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClear.label        "Tuusu">
+<!ENTITY btnClear.tooltip      "Interneti diji-walha fattari tuusu">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
