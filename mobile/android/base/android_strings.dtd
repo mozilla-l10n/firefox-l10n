@@ -101,8 +101,8 @@
 <!ENTITY pref_private_data_downloadFiles "File scaricati">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
-<!ENTITY datareporting_notification_summary "Per migliorare l'esperienza utente, vengono inviate automaticamente alcune informazioni a &vendorShortName;. ">
-<!ENTITY datareporting_notification_summary_short "Per migliorare l'esperienza utente…">
+<!ENTITY datareporting_notification_summary "Per migliorare l’esperienza utente, vengono inviate automaticamente alcune informazioni a &vendorShortName;. ">
+<!ENTITY datareporting_notification_summary_short "Per migliorare l’esperienza utente…">
 <!ENTITY datareporting_fhr_title "Analisi integrità di &brandShortName;">
 <!ENTITY datareporting_fhr_summary "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
 <!ENTITY datareporting_telemetry_title "Telemetria">
