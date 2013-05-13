@@ -4,6 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "નવી ટૅબ">
-
-
-
+<!ENTITY newtab.undo.removedLabel "થમ્ભનેઇલ દૂર કરેલ છે.">
+<!ENTITY newtab.undo.undoButton "રદ કરો.">
+<!ENTITY newtab.undo.restoreButton "બધુ પુન:સંગ્રહો.">
+<!ENTITY newtab.undo.closeTooltip "છુપાડો">
