@@ -4,9 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry is <span>enabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "    Telemetry is <span>enabled</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "
   Telemetry is <span>disabled</span>.

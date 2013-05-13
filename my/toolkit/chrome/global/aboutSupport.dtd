@@ -53,16 +53,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "ဂရပ်ဖစ်">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "GC တိုးတက်မှု">
 
 <!ENTITY aboutSupport.a11yTitle "ဆက်စပ်ပစ္စည်း">
 <!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yForceDisabled "အသုံးပြုရန် တားဆီးထား">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "လိုက်ဘရီ ဗားရှင်း">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.installationHistoryTitle "ထည့်သွင်းခြင်းမှတ်တမ်း">
 <!ENTITY aboutSupport.updateHistoryTitle "မွမ်းမံချက် မှတ်တမ်း">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ကလစ်ဘုတ်သို့ ကူးသောစာ">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ကူးထားသောဒေတာအကြမ်းကို ကလစ်ဘုတ်သို့">
