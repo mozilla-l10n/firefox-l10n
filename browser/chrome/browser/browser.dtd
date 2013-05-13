@@ -632,7 +632,7 @@ fast. -->
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY appMenuButton.tooltip        "Άνοιγμα μενού &brandShortName;">
-<!ENTITY appMenuSafeMode.label "Επανεκκίνηση με ανενεργά τα πρόσθετα…">
+<!ENTITY appMenuSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
 <!ENTITY appMenuSafeMode.accesskey "κ">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY feedButton.label             "Συνδρομή">
