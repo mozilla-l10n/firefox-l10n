@@ -29,7 +29,7 @@
 
 <!ENTITY choose_file "Selecionar arquivo">
 
-<!ENTITY awesomebar_default_text "Digite uma pesquisa ou endereço">
+<!ENTITY awesomebar_default_text "Forneça uma pesquisa ou endereço">
 
 <!ENTITY remote_tabs "Abas sincronizadas">
 <!ENTITY remote_tabs_show_all "Exibir todas as abas">
@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Senhas memorizadas">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
-<!ENTITY pref_private_data_siteSettings "Preferências de sites">
+<!ENTITY pref_private_data_siteSettings2 "Configurações do site">
 <!ENTITY pref_private_data_downloadFiles "Downloads concluídos">
 
 <!ENTITY pref_update_autodownload "Atualização automática">
