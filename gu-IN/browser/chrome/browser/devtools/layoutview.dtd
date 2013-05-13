@@ -19,5 +19,6 @@
 <!ENTITY borders.tooltip        "કિનારી">
 <!ENTITY padding.tooltip        "પેડીંગ">
 <!ENTITY content.tooltip        "સમાવિષ્ટ">
+<!ENTITY title                  "બોક્સ મોડલ">
 
 
