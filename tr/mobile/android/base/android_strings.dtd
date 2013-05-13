@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
-<!ENTITY pref_private_data_siteSettings "Site tercihleri">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
 
 <!ENTITY pref_update_autodownload "Otomatik güncellemeler">
