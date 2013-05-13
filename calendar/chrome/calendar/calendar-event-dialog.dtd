@@ -28,7 +28,7 @@
 <!ENTITY newevent.status.completed.label          "Acabada el dia" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#37; acabat">
+<!ENTITY newtodo.percentcomplete.label      "&#037; acabat">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">

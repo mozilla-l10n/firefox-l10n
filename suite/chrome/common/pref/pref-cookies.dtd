@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Política d'acceptació de galetes">
 
-<!ENTITY accAllCookiesRadio.label       "Permet totes les galetes">
-<!ENTITY accAllCookiesRadio.accesskey   "g">
-
-<!ENTITY accOrgCookiesRadio.label       "Permet només dels llocs que les originen">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "Bloca les galetes">
 <!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY accNo3rdPartyCookies.label     "Permet les galetes només pel lloc web original (no de tercers)">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label       "Permet les galetes de tercers només per llocs web visitats prèviament">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
+
+<!ENTITY accAllCookies.label            "Permet totes les galetes">
+<!ENTITY accAllCookies.accesskey        "g">
 
 <!ENTITY cookieRetentionPolicy.label    "Política de retenció de galetes">
 

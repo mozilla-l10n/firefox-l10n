@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Només permisos">
 <!ENTITY select.preferences.label "Només preferències">
 <!ENTITY select.passwords.label "Només contrasenyes">
+<!ENTITY select.storage.label "Només emmagatzematge">
 
 <!ENTITY domain.search.placeholder "Cerca de dominis">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Permisos">
 <!ENTITY tab.preferences.label "Preferències">
 <!ENTITY tab.passwords.label "Contrasenyes">
+<!ENTITY tab.storage.label "Emmagatzematge">
 <!ENTITY tab.formdata.label "Dades de formulari">
 <!ENTITY tab.forget.label "Oblida-ho">
 <!-- cookies -->
@@ -103,6 +105,21 @@
 
 <!ENTITY pwd.button.remove.label "Suprimeix">
 <!ENTITY pwd.button.remove.accesskey "r">
+<!-- storage -->
+
+<!ENTITY storage.description "Aquest domini utilitza els següents emmagatzematges web en el vostre ordinador:">
+
+<!ENTITY storage.tree.host.label "Lloc web">
+<!ENTITY storage.tree.type.label "Tipus">
+<!ENTITY storage.tree.size.label "Mida">
+
+<!ENTITY storage.ctx.remove.label "Suprimeix">
+<!ENTITY storage.ctx.remove.accesskey "r">
+<!ENTITY storage.ctx.selectAll.label "Selecciona-ho tot">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Suprimeix">
+<!ENTITY storage.button.remove.accesskey "r">
 <!-- form data -->
 
 <!ENTITY fdata.search.placeholder "Cerca de les dades dels camps">
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Contrasenyes">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Emmagatzematge">
+<!ENTITY forget.storage.accesskey "e">
 <!ENTITY forget.formdata.label "Dades de formularis">
 <!ENTITY forget.formdata.accesskey "D">
 

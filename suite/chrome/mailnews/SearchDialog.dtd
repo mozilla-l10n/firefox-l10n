@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "u">
 <!ENTITY searchDialogTitle.label     "Cerca de missatges">
 <!ENTITY results.label               "Resultats">
-<!ENTITY fileHereMenu.label          "Arxiva'l aquí">
-<!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Arxiva">
-<!ENTITY fileButton.accesskey        "A">
+<!ENTITY moveHereMenu.label          "Mou aquí">
+<!ENTITY moveHereMenu.accesskey      "q">
+<!ENTITY moveButton.label            "Mou a">
+<!ENTITY moveButton.accesskey        "a">
 <!ENTITY goToFolderButton.label      "Vés a la carpeta de missatges">
 <!ENTITY goToFolderButton.accesskey  "V">
 <!ENTITY saveAsVFButton.label      "Desa com una carpeta de cerca">

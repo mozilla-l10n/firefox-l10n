@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Obre'l en la conversa">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Obre el missatge del canal">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Pàgina web en una nova finestra">
-<!ENTITY openFeedWebPageInWindow.accesskey "w">
-<!ENTITY openFeedSummaryInWindow.label "Resum en una nova finestra">
-<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedMessage1.label "En obrir missatges d'un canal">
+<!ENTITY openFeedMessage1.accesskey "o">
+<!ENTITY openFeedWebPage.label "Obre com a pàgina web">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Obre com a resum">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Commuta la pàgina web i el resum en el quadre de missatges">
 <!ENTITY openFeedWebPageInMP.accesskey "q">
 <!-- Windows Menu -->

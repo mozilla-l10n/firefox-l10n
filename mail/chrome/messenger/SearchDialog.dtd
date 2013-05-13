@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "u">
 <!ENTITY searchDialogTitle.label     "Cerca missatges">
 <!ENTITY results.label               "Resultats">
-<!ENTITY fileHereMenu.label          "Arxiva'l aquí">
-<!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Arxiva">
-<!ENTITY fileButton.accesskey        "A">
+<!ENTITY moveHereMenu.label          "Mou aquí">
+<!ENTITY moveHereMenu.accesskey      "a">
+<!ENTITY moveButton.label            "Mou a">
+<!ENTITY moveButton.accesskey        "u">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Obre a la carpeta">
 <!ENTITY openInFolder.accesskey      "r">

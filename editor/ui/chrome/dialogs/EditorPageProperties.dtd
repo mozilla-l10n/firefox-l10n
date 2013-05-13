@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Pàgina nova, no s'ha desat encara]">
 <!ENTITY EditHEADSource1.label "Usuaris avançats:">
-<!ENTITY EditHEADSource2.label "Per editar altres continguts de la secció &lt;head&gt;, utilitzeu &quot;Font HTML&quot; al menú Visualitza o a la barra d'eines del mode d'edició.">
+<!ENTITY EditHEADSource2.label "Per editar altres continguts de la secció &lt;head&gt;, utilitzeu &quot;Font HTML&quot; al menú Visualitza o a la barra d&apos;eines del mode d&apos;edició.">

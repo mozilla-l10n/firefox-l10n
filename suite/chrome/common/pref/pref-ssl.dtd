@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "Versions del protocol SSL">
 <!ENTITY  SSLWarnings.caption               "Avisos SSL">
+<!ENTITY  SSLMixedContent.caption           "Continguts mixtos">
 <!ENTITY  SSLClientAuthMethod.caption       "Selecció de certificats de client">
 
 <!ENTITY pref.ssl.title                     "Capa de sòcols segurs (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "A">
 <!ENTITY warn.viewmixed                     "Visualitzar una pàgina que conté tant contingut xifrat com sense xifrar">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "Avisa'm quan pàgines encriptades tinguin continguts insegurs">
+<!ENTITY warn.mixedactivecontent.accesskey  "A">
+<!ENTITY block.activecontent                "No carreguis continguts insegurs en pàgines encriptades">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Avisa'm quan pàgines encriptades tinguin altres tipus de continguts mixtos">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "No carreguis altres tipus de continguts mixtos en pàgines encriptades">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per presentar als llocs web que en requereixin:">
 <!ENTITY certselect.auto                    "Seleccioneu-ho automàticament">

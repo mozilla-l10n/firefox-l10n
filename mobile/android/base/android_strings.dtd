@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Contrasenyes desades">
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
-<!ENTITY pref_private_data_siteSettings "Preferències dels llocs">
+<!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
 <!ENTITY pref_private_data_downloadFiles "Fitxers baixats">
 
 <!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
