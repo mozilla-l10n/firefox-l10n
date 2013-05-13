@@ -1,0 +1,16 @@
+<!ENTITY inspectorHTMLCopyInner.label       "આંતરિક HTML ની નકલ કરો">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "બહારની  HTML ની નકલ કરો">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorCopyUniqueSelector.label       "અનન્ય પસંદકર્તાની નકલ કરો">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+
+<!ENTITY inspectorHTMLDelete.label          "નોડને કાઢી નાંખો">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
+
+<!ENTITY inspector.selectButton.tooltip     "માઉસ સાથે ઘટકને પસંદ કરો">
+
+<!ENTITY inspectorSearchHTML.label          "HTML ને શોધો">
+<!ENTITY inspectorSearchHTML.key            "F">
