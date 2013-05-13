@@ -9,10 +9,12 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Khangela iZihlaziyi »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
 <!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
-<!ENTITY aboutPage.checkForUpdates.found        "Uhlaziyo lukhona">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
-<!ENTITY aboutPage.privacyPolicy.label          "Umgaqonkqubo Womba Wabucala">
+<!ENTITY aboutPage.privacyPolicy.label          "Malunga ne-&brandShortName;">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
 <!ENTITY aboutPage.relNotes.label               "Khulula Iingongoma">
 <!ENTITY aboutPage.credits.label                "Amatyala">
