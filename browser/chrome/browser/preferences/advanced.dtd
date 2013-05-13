@@ -101,7 +101,7 @@
 
 
 
-<!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης hardware όπου είναι διαθέσιμη">
+<!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όπου είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
 
 <!-- LOCALIZATION NOTE:

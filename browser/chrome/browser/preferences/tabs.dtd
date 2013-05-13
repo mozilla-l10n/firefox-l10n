@@ -12,7 +12,7 @@
 <!ENTITY warnCloseMultipleTabs.label  "Προειδοποίηση στο κλείσιμο πολλαπλών καρτελών">
 <!ENTITY warnCloseMultipleTabs.accesskey  "δ">
 
-<!ENTITY warnOpenManyTabs.label       "Προειδοποίηση στο άνοιγμα πολλαπλών καρτελών που μπορεί να επιβραδύνουν τον &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει τον &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "ο">
 
 
