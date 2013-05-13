@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY sidebar.customize.title.label "Personalizza &sidebarName;">
-<!ENTITY sidebar.customize.current.label "Schede in &sidebarName;:">
+<!ENTITY sidebar.customize.title.label "Personalizza la &sidebarName;">
+<!ENTITY sidebar.customize.current.label "Schede nella &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey "S">
 <!ENTITY sidebar.customize.customize.label "Personalizza scheda…">
 <!ENTITY sidebar.customize.customize.accesskey "P">
