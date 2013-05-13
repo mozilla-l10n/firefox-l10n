@@ -34,5 +34,6 @@
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
 
-
+<!ENTITY filter2.label      "ફિલ્ટર:">
+<!ENTITY filter2.accesskey  "F">
 
