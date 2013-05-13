@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Şimdiye dek  Android için &brandShortName; hakkında ne düşündüğünüzü bize söyleyin.">
 <!ENTITY intro.happyLink           "Sevdim">
 <!ENTITY intro.sadLink             "Bazı sorunlarla karşılaştım">
-<!ENTITY intro.ideaLink            "Bir fikrim var">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "Or else.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "Yeni fikirlere bayılıyoruz! Lütfen düşüncelerinizi aşağıda paylaşın. (Sadece &brandShortName; hakkında olurlarsa seviniriz.)">
-<!ENTITY idea.placeholder          "Fikrinizi buraya yazın">
-<!ENTITY idea.thanksHeader         "Teşekkürler!">
-
-<!ENTITY idea.thanksMessageTop     "Fikirlerinizi paylaşmaya vakit ayırdığınız için teşekkür ederiz. Daha iyi bir &brandShortName; için sürekli çalışıyoruz ve sizinki gibi katkılar bizi daha da şevklendiriyor.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "Belki göremiyorsunuz ama elinizi sıkmak için elimizi uzattık.">
 
 <!ENTITY feedback.privacy          "Gizliliğinizi korumak için lütfen geri bildiriminize herhangi bir kişisel bilgi eklemeyin.">
 <!ENTITY feedback.send             "Geri bildirim gönder">

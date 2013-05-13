@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Güncellemeleri denetle »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Güncellemeler aranıyor…">
 <!ENTITY aboutPage.checkForUpdates.none         "Hiç güncelleme yok">
-<!ENTITY aboutPage.checkForUpdates.found        "Güncelleme var">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "S.S.S.">
 <!ENTITY aboutPage.support.label                "Destek">
 <!ENTITY aboutPage.privacyPolicy.label          "Gizlilik ilkeleri">
