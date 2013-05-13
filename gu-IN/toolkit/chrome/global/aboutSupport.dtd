@@ -48,3 +48,8 @@
 <!ENTITY aboutSupport.a11yForceDisabled "સુલભતા અટકાવો">
 <!ENTITY aboutSupport.a11yTitle "સુલભતા">
 
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ક્લિપબોર્ડમાં કાચી માહિતીની નકલ કરો">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">
+<!ENTITY aboutSupport.userJSDescription "તમારુ રૂપરેખા ફોલ્ડર <a id='prefs-user-js-link'>user.js file</a> ને સમાવે છે, કે જે  પસંદગીઓને સમાવે છે કે જે  &brandShortName; દ્દારા બનાવેલ હતુ.">
+<!ENTITY aboutSupport.userJSTitle "user.js પસંદગીઓ">
+
