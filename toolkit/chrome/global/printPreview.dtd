@@ -29,7 +29,7 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "ನನ್ನಿಚ್ಛೆಯ...">
+<!ENTITY Custom.label         "ಅಗತ್ಯಾನುಗುಣ...">
 <!ENTITY ShrinkToFit.label    "ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಕುಗ್ಗಿಸು">
 <!ENTITY customPrompt.title   "ಅಳತೆ ಸೂಚಿಸು...">
 

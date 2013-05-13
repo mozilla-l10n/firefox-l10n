@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Tabs From Other Devices">
+<!ENTITY tabs.otherDevices.label               "ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳು">
 
 <!ENTITY tabs.searchText.label                   "ಹಾಳೆಗಳನ್ನು ಪತ್ತೆ ಮಾಡಲು ಇಲ್ಲಿ ನಮೂದಿಸಿ…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):

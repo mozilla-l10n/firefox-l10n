@@ -19,7 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "ಮಧ್ಯ ಪೂರ್ವ">
 <!ENTITY charsetMenuMore5.accesskey    "M">
-<!ENTITY charsetMenuUnicode.label      "ಯೂನಿಕೋಡ್">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "ಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...">
 <!ENTITY charsetCustomize.accesskey    "c">

@@ -91,18 +91,6 @@
 <!ENTITY search.label                              "ಹುಡುಕು:">
 <!ENTITY search.accesskey                          "S">
 
-<!ENTITY search.in.label                           "ಇಲ್ಲಿ ಹುಡುಕು:">
-<!ENTITY search.scopeFolder.label                  "ಆರಿಸಲಾದ ಕಡತಕೋಶ">
-<!ENTITY search.scopeFolder.accesskey              "r">
-<!ENTITY search.scopeBookmarks.label               "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
-<!ENTITY search.scopeDownloads.label               "ಡೌನ್‌ಲೋಡ್‌ಗಳು">
-<!ENTITY search.scopeDownloads.accesskey           "D">
-<!ENTITY search.scopeHistory.label                 "ಇತಿಹಾಸ">
-<!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY saveSearch.label                          "ಉಳಿಸು">
-<!ENTITY saveSearch.accesskey                      "S">
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "ಆಮದು ಮಾಡಿಕೋ ಹಾಗು ಬ್ಯಾಕ್ಅಪ್ ತೆಗೆದುಕೋ">

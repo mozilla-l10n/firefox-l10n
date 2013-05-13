@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "425">
-<!ENTITY  pageInfoWindow.height "470">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "ಕಾಪಿ ಮಾಡು">
+<!ENTITY  copy.label            "ಪ್ರತಿ ಮಾಡು">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">
@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "ಚಿತ್ರಗಳನ್ನು ಲೋಡ್ ಮಾಡು">
 <!ENTITY  permPopup             "ಪುಟಿಕೆ(ಪಾಪ್-ಅಪ್) ವಿಂಡೋಗಳನ್ನು ತೆರೆ">
 <!ENTITY  permCookie            "ಕುಕಿಗಳನ್ನು ಹೊಂದಿಸು">
+<!ENTITY  permNotifications     "ಸೂಚನೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY  permInstall           "ಎಕ್ಸ್‍ಟೆನ್ಶನ್‍ಗಳನ್ನು ಅಥವ ಥೀಮ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY  permGeo               "ಸ್ಥಳವನ್ನು ಹಂಚಿಕೊ">
 <!ENTITY  permPlugins           "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY  permFullscreen        "ಪೂರ್ಣತೆರೆಗೆ ಪ್ರವೇಶಿಸು">
+<!ENTITY  permPointerLock       "ಸೂಚಕವನ್ನು ಅಡಗಿಸು">
 
 <!ENTITY  permIndexedDB              "ಆಫ್‌ಲೈನ್ ಶೇಖರಣೆಯನ್ನು ನೋಡಿಕೊ">
 <!ENTITY  permClearStorage           "ಶೇಖರಣೆಯನ್ನು ಅಳಿಸು">

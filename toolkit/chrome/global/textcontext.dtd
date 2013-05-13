@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "ಶಬ್ಧಕೋಶಕ್ಕೆ ಸೇರಿಸಿದ್ದನ್ನು ಅಳಿಸು">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckEnable.label "ಕಾಗುಣಿತವನ್ನು ಪರೀಕ್ಷಿಸು">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckToggle.label "ಕಾಗುಣಿತವನ್ನು ಪರೀಕ್ಷಿಸು">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(ಯಾವುದೆ ಕಾಗುಣಿತದ ಸಲಹೆಗಳಿಲ್ಲ)">
 <!ENTITY spellDictionaries.label "ಭಾಷೆಗಳು">
 <!ENTITY spellDictionaries.accesskey "l">

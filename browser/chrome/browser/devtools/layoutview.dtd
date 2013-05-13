@@ -16,6 +16,7 @@
 
 
 
+<!ENTITY title                  "Box Model">
 <!ENTITY margins.tooltip        "ಅಂಚುಗಳು">
 <!ENTITY borders.tooltip        "ಮೇರೆಗಳು">
 <!ENTITY padding.tooltip        "ಪ್ಯಾಡಿಂಗ್">
