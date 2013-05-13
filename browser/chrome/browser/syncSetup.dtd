@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "ผ">
 <!ENTITY setup.confirmPassword.label     "ยืนยันรหัสผ่าน">
 <!ENTITY setup.confirmPassword.accesskey "น">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "ฉันยอมรับ">
 <!ENTITY setup.tosAgree1.accesskey  "ย">
 <!ENTITY setup.tosLink.label        "เงื่อนไขการให้บริการ">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "เชื่อมโยงอุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
 <!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
-<!ENTITY pairDevice.setup.description.label  "เปิดการใช้งานโดยเลือก &#x0022;เชื่อมโยงอุปกรณ์&#x0022; จากอุปกรณ์ของคุณ">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
-<!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &#x0022;ติดตั้ง Sync&#x0022; บนอุปกรณ์ของคุณ">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
 <!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">

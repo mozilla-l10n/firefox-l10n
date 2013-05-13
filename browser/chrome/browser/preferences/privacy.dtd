@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "รับคุกกี้จากเว็บไซต์">
 <!ENTITY  acceptCookies.accesskey       "ร">
 
-<!ENTITY  acceptThirdParty.label        "รับคุกกี้จากเว็บไซต์อื่น">
-<!ENTITY  acceptThirdParty.accesskey    "อ">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "เสมอ">
+<!ENTITY  acceptThirdParty.never.label    "ไม่จำ">
+<!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
 
 <!ENTITY  keepUntil.label               "เก็บจนกระทั่ง :">
 <!ENTITY  keepUntil.accesskey           "ก">
