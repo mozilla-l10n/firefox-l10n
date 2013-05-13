@@ -147,7 +147,7 @@ SFX H   íssimo          issimamente     íssimo
 SFX H   ítico           iticamente      ítico
 SFX H   áfico           aficamente      áfico
 SFX H   étrico          etricamente     étrico
-SFX H   ómico           omicamente      ómico
+SFX H   ômico           omicamente      ômico
 SFX H   érico           ericamente      érico
 SFX H   ótico           oticamente      ótico
 SFX H   áceo            aceamente       áceo
@@ -1404,7 +1404,7 @@ SFX J   e               ito             [^ã]e
 SFX J   o               ito             [^ã]o
 SFX J   0               zito            ão
 
-REP 33
+REP 36
 REP denovo     de_novo
 REP derrepente de_repente
 REP encima     em_cima
@@ -1413,6 +1413,9 @@ REP pataquada  patacoada
 REP estória    história
 REP Beijing    Pequim
 REP fotinha    fotinho
+REP abrid      abert
+REP cobrid     cobert
+REP escrevid   escrit
 REP por pro
 REP pre per
 REP damente mente
