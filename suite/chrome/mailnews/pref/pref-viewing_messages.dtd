@@ -19,17 +19,15 @@
 <!ENTITY fontPlainText.label "Carattere:">
 <!ENTITY fontPlainText.accesskey "r">
 <!ENTITY displayQuoted.label "Impostazioni per i messaggi citati:">
-<!ENTITY wrapInMsg.label "Vai a capo in base alla larghezza della finestra">
+<!ENTITY wrapInMsg.label "Manda a capo il testo adattandolo alla larghezza della finestra">
 <!ENTITY wrapInMsg.accesskey "V">
 <!ENTITY convertEmoticons.label "Mostra le emoticon come icone">
 <!ENTITY convertEmoticons.accesskey "e">
 <!ENTITY generalMessageDisplay.caption "Generale">
 <!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
 <!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Appena vengono visualizzati">
-<!ENTITY markAsReadNoDelay.accesskey "z">
-<!ENTITY markAsReadDelay.label "Dopo essere stati visualizzati per">
-<!ENTITY markAsReadDelay.accesskey "t">
+<!ENTITY markAsReadAfter.label "Solo dopo essere stati visualizzati per">
+<!ENTITY markAsReadAfter.accesskey "z">
 <!ENTITY secondsLabel.label "secondi">
 <!ENTITY openingMessages.label "All'apertura dei messaggi, visualizzali in:">
 <!ENTITY newWindowRadio.label "Una nuova finestra messaggi">
