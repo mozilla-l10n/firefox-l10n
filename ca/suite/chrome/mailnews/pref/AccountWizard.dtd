@@ -84,20 +84,20 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
+<!ENTITY haveSmtp1.prefix "S&apos;utilitzarà el vostre servidor de sortida (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "S'utilitzarà el vostre nom d'usuari de sortida (SMTP), &quot;">
+<!ENTITY haveSmtp2.prefix "S&apos;utilitzarà el vostre nom d&apos;usuari de sortida (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot; és idèntic al vostre servidor d'entrada, per tant també s'utilitzarà el mateix usuari per accedir-hi.">
+<!ENTITY haveSmtp3.prefix "S&apos;utilitzarà el vostre servidor de sortida (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; és idèntic al vostre servidor d&apos;entrada, per tant també s&apos;utilitzarà el mateix usuari per accedir-hi.">
 <!-- Entities for Account name page -->
 
 

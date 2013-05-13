@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Suprimeix-lo immediatament">
 <!ENTITY modelDeleteImmediately.accesskey "S">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d'entrada en sortir">
+<!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d&apos;entrada en sortir">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Buida la paperera en sortir">
 <!ENTITY emptyTrashOnExit.accesskey "B">

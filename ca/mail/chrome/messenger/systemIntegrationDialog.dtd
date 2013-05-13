@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Integració amb el sistema">
 <!ENTITY acceptIntegration.label  "Defineix com a predeterminat">
 <!ENTITY cancelIntegration.label  "Omet la integració">
+<!ENTITY cancelIntegration2.label  "Cancel·la">
 <!ENTITY defaultClient.intro  "Utilitza el &brandShortName; com a client per defecte per a:">
 
 <!ENTITY email.label "Correu electrònic">

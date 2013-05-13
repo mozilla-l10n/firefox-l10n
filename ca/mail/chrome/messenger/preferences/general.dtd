@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Personalitza…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
+<!ENTITY showTrayIcon.label               "Mostra una icona de safata">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Reprodueix">
 <!ENTITY play.accesskey                   "d">
 <!ENTITY systemsound.label                "So del sistema per defecte per al nou correu">

@@ -12,7 +12,7 @@
 <!ENTITY junkMail.intro "Defineix els vostres paràmetres de correu brossa per defecte. Els paràmetres específics per cada compte poden configurar-se des de Paràmetres dels comptes.">
 <!ENTITY manualMark.label "Quan marqui els missatges com a correu brossa:">
 <!ENTITY manualMark.accesskey "Q">
-<!ENTITY manualMarkModeMove.label "Passa'ls a la carpeta &quot;Correu brossa&quot; ">
+<!ENTITY manualMarkModeMove.label "Passa&apos;ls a la carpeta &quot;Correu brossa&quot; ">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Suprimeix-los">
 <!ENTITY manualMarkModeDelete.accesskey "x">

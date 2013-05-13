@@ -11,7 +11,7 @@
 <!ENTITY dntTellSites.label               "Fes saber als llocs web les meves preferències de seguiment">
 <!ENTITY dntTellSites.accesskey           "F">
 <!ENTITY dntTrackingNotOkay.label         "No vull que se'm segueixi">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
+<!ENTITY dntTrackingNotOkay.accesskey     "N">
 <!ENTITY dntTrackingOkay.label            "Accepto que se'm segueixi">
 <!ENTITY dntTrackingOkay.accesskey        "c">
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
@@ -29,4 +29,4 @@
 <!ENTITY blockAttackSites.accesskey       "B">
 
 <!ENTITY blockWebForgeries.label          "Bloca els llocs web que s'ha informat que són falsificacions (pesca)">
-<!ENTITY blockWebForgeries.accesskey      "P">
+<!ENTITY blockWebForgeries.accesskey      "p">
