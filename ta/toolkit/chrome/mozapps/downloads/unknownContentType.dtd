@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "You have chosen to open:">
+<!ENTITY  intro2.label                "நீங்கள் இதைத் திறக்க தேர்வு செய்துள்ளீர்கள்:">
 <!ENTITY  from.label                  "இதிலிருந்து:">
 <!ENTITY  actionQuestion.label        "&brandShortName; இந்த கோப்பில் என்ன செய்ய வேண்டும்?">
 

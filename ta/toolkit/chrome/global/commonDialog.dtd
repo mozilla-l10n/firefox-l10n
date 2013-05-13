@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label     "Brief Title"> 
+<!ENTITY header.label     "சுருக்கமான தலைப்பு"> 
 <!ENTITY message.label    "சில மாதிரி உரைகள் இங்கே இருக்கும்.">
 <!ENTITY editfield0.label "பயனர் பெயர்:"> 
 <!ENTITY editfield1.label "கடவுச்சொல்:"> 

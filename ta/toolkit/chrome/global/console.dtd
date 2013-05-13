@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY errorConsole.title "Error Console">
+<!ENTITY errorConsole.title "பிழை பணியகம்">
 
 <!ENTITY errFile.label   "மூல கோப்பு:">
 <!ENTITY errLine.label   "வரி:">
@@ -18,11 +18,11 @@
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "தூய்மையாக்கு">
 <!ENTITY clear.accesskey    "C">
-<!ENTITY codeEval.label     "Code:">
+<!ENTITY codeEval.label     "குறியீடு:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "மதிப்பளி">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.label      "வடிகட்டி:">
 <!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "நகல்">  

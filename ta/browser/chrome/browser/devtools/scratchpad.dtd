@@ -48,7 +48,7 @@
 
 <!ENTITY closeCmd.label               "மூடு">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "ம">
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY editMenu.label               "திருத்து">
 <!ENTITY editMenu.accesskey           "E">
@@ -58,11 +58,11 @@
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "ஆய்வு செய்">
-<!ENTITY inspect.accesskey            "ஆ">
+<!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "காட்டு">
-<!ENTITY display.accesskey            "க">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -72,7 +72,7 @@
   -->
 
 <!ENTITY environmentMenu.label        "சூழல்">
-<!ENTITY environmentMenu.accesskey    "ழ">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "உள்ளடக்கம்">

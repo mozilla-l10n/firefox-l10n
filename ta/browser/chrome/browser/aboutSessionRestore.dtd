@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Restore Session">
+<!ENTITY restorepage.tabtitle       "அமர்வை மீட்டமை">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "மறுசேமிப்பு">
 <!ENTITY restorepage.listHeader     "சாளரங்கள் மற்றும் தத்தல்கள்">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "சாளரம் &#037;S">

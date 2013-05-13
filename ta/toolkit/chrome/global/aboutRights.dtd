@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
-<!ENTITY rights.locale-direction "இடவலம்">
+<!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "உங்கள் உரிமைகள் பற்றி">
 <!ENTITY rights.intro "&brandFullName; உலகம் முழுவதும் இருந்து ஆயிரக்கணக்கானோர் இணைந்த சமூகம் கட்டமைத்த கட்டற்ற மற்றும் திறந்த மூல மென்பொருள் ஆகும். நீங்கள் அறிந்து கொள்ள வேண்டிய சில விஷயங்கள் உள்ளன:">
@@ -60,26 +60,26 @@
 <!ENTITY rights.safebrowsing-b "பாதுகாப்பான உலாவல் வசதியை முடக்குவது என்பது பரிந்துரைக்கத்தக்கதல்ல, ஏனெனில் அதன் பின் நீங்கள் பாதுகாப்பற்ற வலைத்தளங்களைப் பார்வையிடக்கூடும்.  நீங்கள் முழுமையாக இந்த வசதியை முடக்க விரும்பினால், இந்த செயல் படிகளைப் பின்பற்றவும்:">
 <!ENTITY rights.safebrowsing-term1 "பயன்பாட்டு முன்னுரிமைகளைத் திறக்கவும்">
 <!ENTITY rights.safebrowsing-term2 "பாதுகாப்பு தேர்ந்தெடுப்பு என்பதைத் தேர்ந்தெடுக்கவும்">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; மற்றும் &quot;&blockWebForgeries.label;&quot; ஆகியவற்றுக்கு விருப்பங்களை தேர்வு நீக்கவும்">
+<!ENTITY rights.safebrowsing-term4 "பாதுகாப்பு உலாவல் இப்போது முடக்கப்பட்டது">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "இருப்பிடம் விழிப்புள்ள உலாவல்:">
-<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+<!ENTITY rights.locationawarebrowsing-b "எப்போதுமே தேர்ந்தெடுக்கப்பட்டதாக உள்ளது.  உங்கள் அனுமதியின்றி இருப்பிடத் தகவல்கள் ஒரு போதும் அனுப்பப்பட்டதில்லை.  இந்த அம்சத்தை நீங்கள் முழுவதுமாக முடக்க விரும்பினால், இந்த வழிமுறைகளைப் பின்பற்றவும்:">
+<!ENTITY rights.locationawarebrowsing-term1a "URL பட்டியில் இதைத் தட்டச்சு செய்யவும் ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled எனத் தட்டச்சு செய்யவும்">
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled முன்னுரிமையை இரு முறை சொடுக்கவும்">
+<!ENTITY rights.locationawarebrowsing-term4 "இருப்பிடமறிந்த உலாவல் இப்போது முடக்கப்பட்டது">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "இந்த தயாரிப்புக்குப் பொருந்தும் ஏதேனும் சேவை விதிமுறைகள் இருப்பின் அவை இங்கு பட்டியலிடப்பட வேண்டும்.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; மற்றும் அதன் பங்களிப்பாளர்கள், உரிமதாரர்கள் மற்றும் கூட்டாளர்கள் ஆகிய அனைவரும் மிக துல்லியமான மற்றும் புதுப்பிக்கப்பட்ட சேவைகளையே வழங்க செயல்படுகின்றனர்.  இருப்பினும், இந்தத் தகவல்முழுமையானது என்றும் பிழையற்றது என்றும் எங்களால் உறுதியளிக்க முடியாது.  எடுத்துக்காட்டுக்கு, பாதுகாப்பான உலாவல் சேவையானது சில ஆபத்தான தளங்களை அடையாளம் காணாமல் போகலாம் அதே போல் சில பாதுகாப்பான தளங்களைத் தவறுதலாக அடையாளம் காணலாம் இருப்பிடமறிந்த சேவையில் எங்கள் சேவை வழங்குநர்கள் வழங்கும் அனைத்து இருப்பிடங்களுமே மதிப்பீடுகள் மட்டுமே, மேலும் வழங்கப்படும் இருப்பிடங்கள் துல்லியமானது என நாங்களோ எங்கள் சேவை வழங்குநர்களோ உத்தரவாதமளிப்பதில்லை.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; தனது விருப்பத்தின் பேரில் சேவைகளை தொடர்வதை கைவிடலாம் அல்லது மாற்றலாம்.">
 <!ENTITY rights2.webservices-term3 "&brandShortName; உடன் இந்த சேவைகளைப் பயன்படுத்திக்கொள்ள உங்களை வரவேற்கிறோம், நீங்கள் அவ்வாறு பயன்படுத்திக்கொள்ள உங்களுக்கு &vendorShortName; உரிமைகளை வழங்குகிறது.    இந்த சேவைகள் தொடர்பான மற்ற அனைத்து உரிமைகளும் &vendorShortName; மற்றும் அதன் உரிமதாரர்களுக்கு  உள்ளது.  இந்த விதிமுறைகளின் நோக்கம், &brandShortName; க்கு மற்றும் &brandShortName; இன் உரிய மூலக் குறியீட்டுப் பதிப்புக்குப் பொருந்தும் திறந்த மூல உரிமங்களின் கீழ் வழங்கப்படும் உரிமைகள் எதனையும் கட்டுப்படுத்துவதல்ல.">
 <!ENTITY rights.webservices-term4 "சேவைகள் &quot;உள்ளபடியே&quot; வழங்கப்படுகின்றன.  &vendorShortName;, அதன் பங்களிப்பாளர்கள், உரிமதாரர்கள் மற்றும் விநியோகஸ்தர்கள் அனைவரும், இந்த சேவைகள் வர்த்தகத்திற்கு ஏற்றது மற்றும் உங்கள் குறிப்பிட்ட தேவைக்குப் பொருந்தும் என்பது போன்ற காப்புறுதிகள் உட்பட (ஆனால் அவை மட்டுமல்ல) வெளிப்படையான அல்லது குறிப்பாக உணர்த்தப்படுகின்ற எல்லா காப்புறுதிகளையும் பொறுப்புதுறக்கின்றனர்.  சேவைகளைப் பயன்படுத்தத் தேர்வு செய்வதிலும் சேவைகளின் செயல்திறன் மற்றும் தரத்திற்கான அனைத்து நிகழ்வுகளுக்கும் நீங்களே பொறுப்பு. சில சட்ட அதிகார எல்லை மண்டலங்கள் குறிப்பால் உணர்த்தப்படுகின்ற காப்புறுதிகளை விலக்குவதை அல்லது கட்டுப்படுத்துவதை அனுமதிக்காது, ஆகவே இந்த பொறுப்புதுறப்பு உங்களுக்குப் பொருந்தாமல் போகலாம்.">

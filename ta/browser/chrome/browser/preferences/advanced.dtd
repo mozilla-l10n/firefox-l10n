@@ -30,8 +30,8 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName;ஐ இயல்புநிலை உலாவியாக்கு">
-<!ENTITY setDefault.accesskey            "இ">
+<!ENTITY setDefault.label                "&brandShortName; ஐ முன்னிருப்பு உலாவியாக்கு">
+<!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது">
 
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
@@ -77,29 +77,29 @@
 <!ENTITY limitCacheSizeAfter.label       "MB இடம்">
 <!ENTITY clearCacheNow.label             "இப்போது துடைக்கவும்">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "இப்போது துடை">
-<!ENTITY clearOfflineAppCacheNow.accesskey "த">
+<!ENTITY clearOfflineAppCacheNow.label   "இப்போது அழி">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "தானியக்க இடையக மேலாண்மையை மேலெழுது">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
 <!ENTITY updateApp.label                 " brandShortName; மேம்படுத்தல்கள்:">
-<!ENTITY updateAuto.label                "தானாக புதுப்பிப்புகளை நிறுவு (பரிந்துரைக்கப்பட்டது: பாதுகாப்பை மேம்படுத்த) ">
-<!ENTITY updateAuto.accesskey            "த">
+<!ENTITY updateAuto.label                "புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரைக்கப்படுவது: பாதுகாப்பை மேம்படுத்தும்) ">
+<!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் பார், ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
-<!ENTITY updateCheck.accesskey           "ப">
-<!ENTITY updateManual.label              "புதுப்பித்தல்களை சோதிக்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பு அபயம்)">
-<!ENTITY updateManual.accesskey          "ப">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "புதுப்பித்தல்கள் உள்ளதா என்று ஒரு போதும் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பு அபாயம்)">
+<!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "இது என் துணை நிரல்கள் எதையேனும் முடக்கும் எனில் எச்சரிக்கை செய்">
-<!ENTITY updateAutoAddonWarn.accesskey   "இ">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்து">
-<!ENTITY useService.accesskey            "ப">
+<!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "தானாக புதுப்பி:">
 <!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
