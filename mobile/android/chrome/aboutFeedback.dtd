@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "&brandShortName; 모바일 버전에 대해 여러분의 의견을 듣습니다.">
 <!ENTITY intro.happyLink           "정말 좋아요!">
 <!ENTITY intro.sadLink             "문제 있어요!">
-<!ENTITY intro.ideaLink            "의견 있어요">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -51,20 +50,6 @@
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
-
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "제안을 환영합니다! &brandShortName;에 관한 여러분의 생각을 들려주세요.">
-<!ENTITY idea.placeholder          "여기에 제안을 입력해 주세요">
-<!ENTITY idea.thanksHeader         "감사합니다!">
-
-<!ENTITY idea.thanksMessageTop     "의견을 들려 주셔서 매우 감사합니다.우리는 항상 &brandShortName; 개선에 최선을 다하고 있으며, 여러분의 협력은 매우 큰 도움이 됩니다.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five"  This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "안보이는 곳에서도 여러분과 계속 의견을 나누는 중입니다!">
 
 <!ENTITY feedback.privacy          "개인 정보 보호 때문에 의견 속에 어떠한 개인정보도 포함하지 않기를 부탁합니다.">
 <!ENTITY feedback.send             "의견 보내기">

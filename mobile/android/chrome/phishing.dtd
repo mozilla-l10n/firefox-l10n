@@ -2,18 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "피싱 의심 사이트">
-<!ENTITY safeb.palm.message.p1 "이 페이지는 피싱 의심 페이지로 보고 되었습니다. 피싱 페이지는 사용자를 속여 개인 정보나 금융 정보가 유출될 수 있습니다. 이 페이지에서 개인 정보를 입력하는 것은 매우 위험합니다. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "더 보기 &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "더 보기 &#133;">
-<!ENTITY safeb.palm.message.p2.start "피싱이 의심되는 웹 페이지들은 보안 공격을 시도하게 됩니다. 또한, 이메일 및 개인 정보 등을 입수하여 범죄에 이용할 수도 있습니다. 이러한 위험을 좀 더 알아봅니다.">
-<!ENTITY safeb.palm.message.p2.linkText "보호 방법">
-<!ENTITY safeb.palm.message.p2.end " 피싱 공격">
-
 <!ENTITY safeb.palm.accept.label "웹 페이지 나가기">
-<!ENTITY safeb.palm.accept.statustext "시작 페이지로 이동">
 <!ENTITY safeb.palm.decline.label "경고 무시">
-<!ENTITY safeb.palm.decline.statustext "경고 닫기">
 <!ENTITY safeb.palm.notforgery.label2 "피싱 사이트 아님…">
 <!ENTITY safeb.palm.reportPage.label "차단 이유 상세 정보">
 
