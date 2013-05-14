@@ -416,12 +416,12 @@
 <!ENTITY openConversationCmd.label	"새 탭으로 대화 열기">
 <!ENTITY openConversationCmd.accesskey	"s">
 <!ENTITY openConversationCmd.key	"o">
-<!ENTITY openFeedMessage.label "피드 열기">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "새 창에서 웹 문서 보기">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "새 창에서 요약 보기">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedMessage1.label "피드를 열 때">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "웹 문서 보기">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "요약 보기">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "메시지 판넬의 웹 문서/요약 보기 전환">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
