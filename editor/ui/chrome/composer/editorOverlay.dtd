@@ -306,7 +306,7 @@
 <!ENTITY TextColorButton.tooltip "選擇文字顏色">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景顏色">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY HighlightColorButton.tooltip "選擇高亮度文字的顏色">
+<!ENTITY HighlightColorButton.tooltip "選擇強調文字的顏色">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">
