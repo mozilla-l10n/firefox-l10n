@@ -100,15 +100,18 @@
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
 <!ENTITY datareporting_notification_summary "Чтобы улучшить вашу работу, &brandShortName; автоматически отправляет некоторые данные в &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Чтобы улучшить вашу работу, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Отчёт о работоспособности &brandShortName;">
 <!ENTITY datareporting_fhr_summary "Помогает вам больше узнать о скорости работы вашего браузера и поделиться данными о его работоспособности с &vendorShortName;">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
 <!ENTITY datareporting_telemetry_summary "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
-<!ENTITY datareporting_crashreporter_title "Сообщения о падениях &brandShortName;">
+<!ENTITY datareporting_crashreporter_title2 "Сообщения о падениях &brandShortName;">
+<!ENTITY datareporting_crashreporter_title "Сообщения о падениях">
 <!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
