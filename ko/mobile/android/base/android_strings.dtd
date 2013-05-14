@@ -111,7 +111,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_private_data_passwords "저장한 암호">
 <!ENTITY pref_private_data_cache "캐시">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
-<!ENTITY pref_private_data_siteSettings "웹 사이트별 설정">
+<!ENTITY pref_private_data_siteSettings2 "웹 사이트별 설정">
 <!ENTITY pref_private_data_downloadFiles "다운로드된 파일">
 
 <!ENTITY pref_update_autodownload "자동 업데이트">

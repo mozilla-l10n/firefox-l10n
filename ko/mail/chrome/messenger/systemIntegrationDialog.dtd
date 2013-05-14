@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "시스템 통합">
 <!ENTITY acceptIntegration.label  "기본으로 설정">
 <!ENTITY cancelIntegration.label  "통합 미루기">
+<!ENTITY cancelIntegration2.label  "미루기">
 <!ENTITY defaultClient.intro  "&brandShortName;를 다음 항목의 기본 프로그램으로 사용:">
 
 <!ENTITY email.label "이메일">
