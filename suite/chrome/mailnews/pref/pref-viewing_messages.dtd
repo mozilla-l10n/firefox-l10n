@@ -26,12 +26,10 @@
 <!ENTITY generalMessageDisplay.caption "Основные">
 <!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
 <!ENTITY autoMarkAsRead.accesskey "в">
-<!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
-<!ENTITY markAsReadNoDelay.accesskey "м">
-<!ENTITY markAsReadDelay.label "После просмотра в течение">
-<!ENTITY markAsReadDelay.accesskey "с">
+<!ENTITY markAsReadAfter.label "Только после просмотра в течение">
+<!ENTITY markAsReadAfter.accesskey "м">
 <!ENTITY secondsLabel.label "сек.">
-<!ENTITY openingMessages.label "При открытии сообщений отображать их в: ">
+<!ENTITY openingMessages.label "При открытии сообщений отображать их в:">
 <!ENTITY newWindowRadio.label "Новом окне сообщения">
 <!ENTITY newWindowRadio.accesskey "Н">
 <!ENTITY existingWindowRadio.label "Существующем окне сообщения">
