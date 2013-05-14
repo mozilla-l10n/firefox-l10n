@@ -458,7 +458,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullScreenExit.label "Έξοδος από πλήρη οθόνη">
 <!ENTITY fullScreenExit.accesskey "π">
 
-<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο κείμενο">
+<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
 <!ENTITY fullZoomToggleCmd.accesskey    "κ">
 
 
