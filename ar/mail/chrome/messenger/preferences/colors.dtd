@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "الألوان">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "اسمح للمحتوى باختيار ألوانه الخاصة، عوض اختياراتي في الأعلى">
+<!ENTITY  allowPagesToUse.accesskey       "س">
+
+<!ENTITY  color                           "النص و الخلفية">
+<!ENTITY  textColor.label                 "النص:">
+<!ENTITY  textColor.accesskey             "ن">
+<!ENTITY  backgroundColor.label           "الخلفية:">
+<!ENTITY  backgroundColor.accesskey       "خ">
+<!ENTITY  useSystemColors.label           "استخدم ألوان النظام">
+<!ENTITY  useSystemColors.accesskey       "س">
+
+<!ENTITY  underlineLinks.label            "سطّر الوصلات">
+<!ENTITY  underlineLinks.accesskey        "ص">
+<!ENTITY  links                           "ألوان الوصلات">
+<!ENTITY  linkColor.label                 "الوصلات غير المزارة:">
+<!ENTITY  linkColor.accesskey             "غ">
+<!ENTITY  visitedLinkColor.label          "الوصلات المزارة:">
+<!ENTITY  visitedLinkColor.accesskey      "م">

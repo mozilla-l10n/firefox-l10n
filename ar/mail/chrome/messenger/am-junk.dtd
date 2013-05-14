@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "انقل السخام إلى:">
 <!ENTITY move.accesskey "ن">
-<!ENTITY junkFolderOn.label "مجلّد &quot;السخام&quot; على:">
+<!ENTITY junkFolderOn.label "مجلّد ”السخام“ في:">
 <!ENTITY junkFolderOn.accesskey "خ">
 <!ENTITY otherFolder.label "غير ذلك:">
 <!ENTITY otherFolder.accesskey "غ">

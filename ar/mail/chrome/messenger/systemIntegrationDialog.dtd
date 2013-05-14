@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "التكامل مع النظام">
 <!ENTITY acceptIntegration.label  "اجعله المبدئي">
 <!ENTITY cancelIntegration.label  "تجاوز التكامل مع النظام">
+<!ENTITY cancelIntegration2.label  "ألغِ">
 <!ENTITY defaultClient.intro  "اجعل &brandShortName; العميل المبدئي ل‍:">
 
 <!ENTITY email.label "البريد الإلكتروني">

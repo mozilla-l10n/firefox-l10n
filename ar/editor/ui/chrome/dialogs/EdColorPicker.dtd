@@ -8,7 +8,7 @@
 <!ENTITY setColor1.label "انقر على لون أو">
 <!ENTITY setColor2.label "أدخل عبارة لون HTML">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label "(مثلا: &quot;#0000ff&quot; أو &quot;blue&quot;):">
+<!ENTITY setColorExample.label "(مثلا: ‪&quot;#0000ff&quot;‬ أو &quot;blue&quot;):">
 <!ENTITY default.label "المبدئي">
 <!ENTITY default.accessKey "م">
 <!ENTITY palette.label "لوح الألوان:">

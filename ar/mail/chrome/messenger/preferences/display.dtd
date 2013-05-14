@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "عادي">
 <!ENTITY bigger.label                     "أكبر">
 <!ENTITY smaller.label                    "أصغر">
-<!ENTITY color.label                      "اللون:">
-<!ENTITY color.accesskey                  "ل">
+<!ENTITY quotedTextColor.label            "اللون:">
+<!ENTITY quotedTextColor.accesskey        "ل">
 <!ENTITY displayWidth.label               "رسائل النص الصرف ">
 <!ENTITY displayText.label                "عند عرض رسائل النص الصرف مقتبسة:">
-<!ENTITY colors.label                     "الألوان">
-<!ENTITY overrideColors.label             "عند عرض الرسائل استخدم الألوان التالية:">
-<!ENTITY textColor.label                  "لون النص:">
-<!ENTITY textColor.accesskey              "ن">
-<!ENTITY backgroundColor.label            "لون الخلفية:">
-<!ENTITY backgroundColor.accesskey        "ل">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
 <!ENTITY convertEmoticons.label        "اعرض أيقونات الانفعالات كرسوم">
@@ -39,12 +33,14 @@
 <!ENTITY editTagButton.accesskey   "ح">
 <!ENTITY removeTagButton.label     "احذف">
 <!ENTITY removeTagButton.accesskey "ح">
-<!-- Fonts -->
+<!-- Fonts and Colors -->
 
-<!ENTITY fontsAndColors.label    "الخطوط">
+<!ENTITY fontsAndColors1.label   "الخطوط و الألوان">
 <!ENTITY defaultFont.label       "الخط المبدئي:">
 <!ENTITY defaultFont.accesskey   "م">
 <!ENTITY defaultSize.label       "الحجم:">
 <!ENTITY defaultSize.accesskey   "ح">
 <!ENTITY fontOptions.accesskey   "خ">
 <!ENTITY fontOptions.label       "الخطوط…">
+<!ENTITY colorButton.label       "الألوان…">
+<!ENTITY colorButton.accesskey   "ن">

@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "ذ">
 <!ENTITY searchDialogTitle.label     "ابحث في الرّسائل">
 <!ENTITY results.label               "النتائج">
-<!ENTITY fileHereMenu.label          "أرشف هنا">
-<!ENTITY fileHereMenu.accesskey      "ه">
-<!ENTITY fileButton.label            "أرشِف">
-<!ENTITY fileButton.accesskey        "ش">
+<!ENTITY moveHereMenu.label          "انقل هنا">
+<!ENTITY moveHereMenu.accesskey      "ق">
+<!ENTITY moveButton.label            "انقل إلى">
+<!ENTITY moveButton.accesskey        "ل">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "افتح في مجلد">
 <!ENTITY openInFolder.accesskey      "د">
