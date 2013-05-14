@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "Všeobecné">
 <!ENTITY autoMarkAsRead.label             "Automaticky označovať správy ako prečítané">
 <!ENTITY autoMarkAsRead.accesskey         "c">
-<!ENTITY markAsReadNoDelay.label          "Okamžite po zobrazení">
-<!ENTITY markAsReadNoDelay.accesskey      "a">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Po">
-<!ENTITY markAsReadDelay.accesskey        "o">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Až po">
+<!ENTITY markAsReadAfter.accesskey        "o">
 <!ENTITY secondsLabel.label               "sekundách od zobrazenia">
 
 <!ENTITY openingMessages.label            "Pri otváraní zobrazovať správy:">

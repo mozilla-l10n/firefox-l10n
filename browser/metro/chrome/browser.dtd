@@ -17,6 +17,9 @@
 <!ENTITY startBookmarksHeader.label       "Záložky">
 <!ENTITY startHistoryHeader.label         "Nedávna história">
 <!ENTITY startRemoteTabsHeader.label      "Karty z iných zariadení">
+<!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
+     Needs to be two words or shorter to fit in narrow vertical space.-->
+<!ENTITY snappedRemoteTabsHeader.label    "Vzdialené karty">
 
 <!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
 <!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete"> 
