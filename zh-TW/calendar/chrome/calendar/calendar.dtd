@@ -136,7 +136,7 @@
 <!ENTITY calendar.task-details.organizer.label       "從">
 <!ENTITY calendar.task-details.priority.label        "優先權">
 <!ENTITY calendar.task-details.priority.low.label    "低">
-<!ENTITY calendar.task-details.priority.normal.label "正常">
+<!ENTITY calendar.task-details.priority.normal.label "標準">
 <!ENTITY calendar.task-details.priority.high.label   "高">
 <!ENTITY calendar.task-details.status.label          "狀態">
 <!ENTITY calendar.task-details.category.label        "類別">
@@ -167,7 +167,7 @@
 <!ENTITY calendar.context.newtodo.accesskey           "k">
 <!ENTITY calendar.context.deletetask.label            "刪除工作">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteevent.label           "刪除事件">
+<!ENTITY calendar.context.deleteevent.label           "刪除選取的事件">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
 <!ENTITY calendar.context.cutevent.label              "剪下">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
@@ -210,7 +210,7 @@
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "低">
 <!ENTITY priority.level.low.accesskey       "L">
-<!ENTITY priority.level.normal              "正常">
+<!ENTITY priority.level.normal              "標準">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "高">
 <!ENTITY priority.level.high.accesskey      "H">

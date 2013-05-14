@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-fonts.xul -->
 
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-<!ENTITY  pref.fonts.title                        "字型設定">
+<!ENTITY  pref.fonts.title                        "字型">
 
 <!ENTITY  language.label                          "對應此種語言:">
 <!ENTITY  language.accesskey                      "t">
