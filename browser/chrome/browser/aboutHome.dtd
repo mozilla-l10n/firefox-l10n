@@ -11,7 +11,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Αρχική σελίδα &brandFullName;">
+<!ENTITY abouthome.pageTitle "Αρχική σελίδα του &brandFullName;">
 
 
 

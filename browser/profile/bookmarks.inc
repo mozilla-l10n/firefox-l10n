@@ -30,7 +30,7 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
-#define firefox_community Συμμετοχή
+#define firefox_community Αναμιχθείτε και εσείς
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/about/

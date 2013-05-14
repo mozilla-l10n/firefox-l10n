@@ -6,7 +6,7 @@
 <!ENTITY helpMenu.accesskey "Β">
 <!ENTITY helpMenuWin.label "Βοήθεια">
 <!ENTITY helpMenuWin.accesskey "Β">
-<!ENTITY helpTroubleshootingInfo.label "Αντιμετώπιση προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.label "Πληροφορίες αντιμετώπισης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey "μ">
 <!ENTITY helpSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα">
 <!ENTITY helpSafeMode.accesskey "π">
