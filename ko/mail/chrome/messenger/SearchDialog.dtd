@@ -16,10 +16,10 @@
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "메시지 검색">
 <!ENTITY results.label "결과">
-<!ENTITY fileHereMenu.label "현재 파일">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY fileButton.label "파일">
-<!ENTITY fileButton.accesskey "i">
+<!ENTITY moveHereMenu.label          "여기로 이동">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "이동">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "폴더 열기">
 <!ENTITY openInFolder.accesskey "r">

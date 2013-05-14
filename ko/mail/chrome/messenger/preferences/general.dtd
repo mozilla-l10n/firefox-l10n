@@ -17,6 +17,9 @@
 <!ENTITY customizeMailAlert.label         "사용자 정의…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "트레이 아이콘 보이기">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "미리듣기">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "새 메일 알림 소리">
