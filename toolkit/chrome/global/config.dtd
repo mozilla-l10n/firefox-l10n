@@ -18,12 +18,12 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "偏好設定名稱">
 <!ENTITY lockColumn.label "狀態">
-<!ENTITY typeColumn.label "型態">
+<!ENTITY typeColumn.label "類型">
 <!ENTITY valueColumn.label "值">
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "按此排序"> 
-<!ENTITY columnChooser.tooltip "按此選擇要顯示的欄位"> 
+<!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

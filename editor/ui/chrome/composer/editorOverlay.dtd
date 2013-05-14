@@ -288,8 +288,8 @@
 <!ENTITY copyToolbarCmd.tooltip "複製">
 <!ENTITY pasteToolbarCmd.tooltip "貼上">
 <!ENTITY printToolbarCmd.label "列印">
-<!ENTITY printToolbarCmd.tooltip "列印此頁">
-<!ENTITY findToolbarCmd.label "搜尋">
+<!ENTITY printToolbarCmd.tooltip "列印頁面">
+<!ENTITY findToolbarCmd.label "尋找">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
 <!ENTITY spellToolbarCmd.tooltip "在整頁或選取文字中檢查拼字">
@@ -306,7 +306,7 @@
 <!ENTITY TextColorButton.tooltip "選擇文字顏色">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景顏色">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY HighlightColorButton.tooltip "選擇高亮度文字的顏色">
+<!ENTITY HighlightColorButton.tooltip "選擇強調文字的顏色">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">

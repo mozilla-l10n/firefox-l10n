@@ -170,7 +170,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "已加星號">
 <!ENTITY sortByStarCmd.accesskey "S">
-<!ENTITY sortByAttachmentsCmd.label "附件">
+<!ENTITY sortByAttachmentsCmd.label "內含附件">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "重要性">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -281,7 +281,7 @@
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "下一封">
 <!ENTITY nextMenu.accesskey "N">
-<!ENTITY nextMsgCmd.label "郵件">
+<!ENTITY nextMsgCmd.label "訊息">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "未讀郵件">
@@ -294,7 +294,7 @@
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "上一封">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "郵件">
+<!ENTITY prevMsgCmd.label "訊息">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "未讀郵件">
@@ -321,11 +321,11 @@
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "郵件">
+<!ENTITY msgMenu.label "訊息">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "寫新訊息">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "郵件">
+<!ENTITY newNewMsgCmd.label "訊息">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "備存">
 <!ENTITY archiveMsgCmd.accesskey "A">
@@ -361,7 +361,7 @@
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移至">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY moveCopyMsgRecentMenu.label "最近">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "複製訊息位置">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -701,7 +701,7 @@
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "移至">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "最近開啟">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "最近">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "複製到">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
