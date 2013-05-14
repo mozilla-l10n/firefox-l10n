@@ -8,7 +8,6 @@
 <!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Zavrieť Vývojárske nástroje">
-<!ENTITY toolboxOptionsButton.tooltip  "Prepnúť panel Možnosti">
 <!ENTITY toolboxOptionsButton.key      "o">
 
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
