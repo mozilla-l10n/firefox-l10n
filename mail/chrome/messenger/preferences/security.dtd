@@ -12,8 +12,8 @@
 <!ENTITY junkMail.intro "اضبط إعدادات السخام الافتراضيَّة. يمكن ضبط إعدادات السخام الخاصة بالحساب في إعدادات الحساب.">
 <!ENTITY manualMark.label "عند تأشير الرسائل كسخام:">
 <!ENTITY manualMark.accesskey "ئ">
-<!ENTITY manualMarkModeMove.label "انقلها إلى مجلد السخام">
-<!ENTITY manualMarkModeMove.accesskey "س">
+<!ENTITY manualMarkModeMove.label "انقلها إلى مجلد ”السخام“">
+<!ENTITY manualMarkModeMove.accesskey "ن">
 <!ENTITY manualMarkModeDelete.label "احذفهم">
 <!ENTITY manualMarkModeDelete.accesskey "ذ">
 <!ENTITY markAsReadOnSpam.label "أشِّر الرسائل السخام كمقروءة">

@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "و">
 <!ENTITY locationNewPage.label "[صفحة جديدة، لم تُحفظ بعد]">
 <!ENTITY EditHEADSource1.label "مستخدمون متقدمون:">
-<!ENTITY EditHEADSource2.label "لتحرير محتويات منطقة &lt;الترويسة&gt; الأخرى، استخدم &quot;مصدر HTML&quot; في قائمة العرض أو شريط أدوات نمط التحرير.">
+<!ENTITY EditHEADSource2.label "لتحرير محتويات منطقة &quot;الترويسة&quot; الأخرى، استخدم &quot;مصدر HTML&quot; في قائمة العرض أو شريط أدوات نمط التحرير.">

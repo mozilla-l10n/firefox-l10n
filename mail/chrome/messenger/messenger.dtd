@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "ت">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
-<!ENTITY openAttachmentCmd.label "مرفقات">
-<!ENTITY openAttachmentCmd.accesskey "ر">
 <!ENTITY saveAsMenu.label "احفظ ك‍">
 <!ENTITY saveAsMenu.accesskey "ظ">
 <!ENTITY saveAsFileCmd.label "ملف">
@@ -428,12 +426,14 @@
 <!ENTITY openConversationCmd.label "افتح في محادثة">
 <!ENTITY openConversationCmd.accesskey "ث">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "افتح رسالة التلقيم">
-<!ENTITY openFeedMessage.accesskey "ف">
-<!ENTITY openFeedWebPageInWindow.label "صفحة وب في نافذة جديدة">
-<!ENTITY openFeedWebPageInWindow.accesskey "و">
-<!ENTITY openFeedSummaryInWindow.label "ملخص في نافذة جديدة">
-<!ENTITY openFeedSummaryInWindow.accesskey "ذ">
+<!ENTITY openAttachmentListCmd.label "مرفقات">
+<!ENTITY openAttachmentListCmd.accesskey "ق">
+<!ENTITY openFeedMessage1.label "عند فتح رسائل التلقيم">
+<!ENTITY openFeedMessage1.accesskey "ف">
+<!ENTITY openFeedWebPage.label "افتح كصفحة وب">
+<!ENTITY openFeedWebPage.accesskey "و">
+<!ENTITY openFeedSummary.label "افتح كملخص">
+<!ENTITY openFeedSummary.accesskey "خ">
 <!ENTITY openFeedWebPageInMP.label "بدّل بين صفحة الوب والملخص في لوحة الرسائل">
 <!ENTITY openFeedWebPageInMP.accesskey "ح">
 <!-- Windows Menu -->

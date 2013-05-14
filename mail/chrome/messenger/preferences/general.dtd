@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "خصص…">
 <!ENTITY customizeMailAlert.accesskey     "خ">
 
+<!ENTITY showTrayIcon.label               "أظهر أيقونة في لوحة النظام">
+<!ENTITY showTrayIcon.accesskey           "ل">
+
 <!ENTITY play.label                       "شغّل">
 <!ENTITY play.accesskey                   "ش">
 <!ENTITY systemsound.label                "صوت النظام العادي للبريد الجديد">
