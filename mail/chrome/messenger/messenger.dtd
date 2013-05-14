@@ -39,8 +39,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Åbn gemt meddelelse…">
 <!ENTITY openMessageFileCmd.accesskey "g">
-<!ENTITY openAttachmentCmd.label "Åbn…">
-<!ENTITY openAttachmentCmd.accesskey "Å">
 <!ENTITY saveAsMenu.label "Gem som">
 <!ENTITY saveAsMenu.accesskey "m">
 <!ENTITY saveAsFileCmd.label "Fil">
@@ -437,6 +435,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Vis korrespondance i tråd">
 <!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "å">
+<!ENTITY openAttachmentListCmd.label "Vedhæftede filer">
+<!ENTITY openAttachmentListCmd.accesskey "V">
 <!ENTITY openFeedMessage1.label "Ved åbning af feed-meddelelser">
 <!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Åbn som hjemmeside">
