@@ -97,7 +97,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Vždy používať tento doplnok">
 <!ENTITY cmd.neverActivate.label              "Nikdy neaktivovať">
 <!ENTITY cmd.neverActivate.tooltip            "Nikdy nepoužívať tento doplnok">
-<!ENTITY cmd.tristateMenu.tooltip             "Zmeniť pri spustení tohto doplnku">
+<!ENTITY cmd.stateMenu.tooltip                "Zmeniť pri spustení tohto doplnku">
 <!ENTITY cmd.installAddon.label               "Nainštalovať">
 <!ENTITY cmd.installAddon.accesskey           "N">
 <!ENTITY cmd.uninstallAddon.label             "Odstrániť">

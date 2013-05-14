@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "o">
 <!ENTITY bookmarkThisPageCmd.label "Pridať medzi záložky">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Zdieľať túto stránku">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "Z">
+<!ENTITY shareLinkCmd.label "Zdieľať tento odkaz">
+<!ENTITY shareLinkCmd.accesskey "Z">
+<!ENTITY shareImageCmd.label "Zdieľať tento obrázok">
+<!ENTITY shareImageCmd.accesskey "Z">
+<!ENTITY shareSelectCmd.label "Zdieľať označené">
+<!ENTITY shareSelectCmd.accesskey "Z">
+<!ENTITY shareVideoCmd.label "Zdieľať toto video">
+<!ENTITY shareVideoCmd.accesskey "Z">
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
@@ -642,6 +653,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Preniesť konverzácie do popredia">
 <!ENTITY social.chatBar.accesskey "k">
+
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "d">
+<!ENTITY social.marklink.accesskey "d">
 
 <!ENTITY getUserMedia.selectCamera.label "Zdieľať kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">

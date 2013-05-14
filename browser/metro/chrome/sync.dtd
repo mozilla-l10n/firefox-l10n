@@ -3,25 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- flyout header -->
 <!ENTITY syncHeader.title           "Synchronizácia">
-<!ENTITY sync.notconnected          "Nepripojené">
-<!ENTITY sync.connect               "Pripojiť">
-<!ENTITY sync.connected             "Pripojené">
-<!ENTITY sync.deviceName            "Toto zariadenie">
-<!ENTITY sync.disconnect            "Odpojiť">
+<!-- not connected yet -->
+<!ENTITY sync.setup.description     "Pristupujte k svojim záložkám, heslám a otvoreným kartám zo všetkých svojich zariadení.">
+<!ENTITY sync.setupbutton.label     "Nastaviť službu Sync">
+<!-- sync now button -->
 <!ENTITY sync.syncNow2              "Synchronizovať">
+<!-- device name text edit -->
+<!ENTITY sync.deviceName            "Toto zariadenie">
+<!-- remove this device button -->
+<!ENTITY sync.removebutton.label    "Odstrániť toto zariadenie">
+<!ENTITY sync.removewarn.note       "Vaše údaje prehliadača na tomto zariadení ostanú nedotknuté, ale už ich nebude možné synchronizovať s týmto účtom.">
+<!ENTITY sync.removethrobber.label  "Odstraňuje sa zariadenie">
 
-<!ENTITY sync.setup.title           "Víta vás služba Sync">
+<!ENTITY sync.setup2.title          "Nastavenie služby Sync">
 <!ENTITY sync.setup.pair2           "Na aktiváciu zvoľte položku &#x0022;Spárovať zariadenie&#x0022; na svojom ďalšom zariadení.">
-<!ENTITY sync.fallback              "Nie som pri svojom počítači…">
+<!ENTITY sync.fallback              "Zadajte alebo upravte informácie o účte…">
 <!ENTITY sync.setup.manual          "Zadajte údaje o svojom účte služby Sync">
 <!ENTITY sync.account               "Názov účtu">
 <!ENTITY sync.password              "Heslo">
 <!ENTITY sync.recoveryKey           "Obnovovací kľúč">
 <!ENTITY sync.customServer          "Použiť vlastný server">
 <!ENTITY sync.serverURL             "Adresa servera">
-<!ENTITY sync.setup.connect         "Pripojiť">
+<!ENTITY sync.setup.connect2        "Pridať zariadenie">
 <!ENTITY sync.setup.cancel          "Zrušiť">
+<!ENTITY sync.setup.remove          "Odstrániť">
 <!ENTITY sync.setup.tutorial        "Ako na to">
 <!ENTITY sync.setup.waiting2        "Čaká sa na zariadenie…">
 
