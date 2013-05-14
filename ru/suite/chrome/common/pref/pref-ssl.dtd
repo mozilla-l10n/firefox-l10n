@@ -7,10 +7,14 @@
 <!ENTITY SSLMixedContent.caption "Смешанное содержимое">
 <!ENTITY SSLClientAuthMethod.caption "Выбор сертификата клиента">
 <!ENTITY pref.ssl.title "Протокол защищённых сокетов (SSL)">
-<!ENTITY enable.ssl30.label "Использовать SSL 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Использовать TLS 1.0">
-<!ENTITY enable.tls10.accesskey "T">
+<!ENTITY limit.description "Вы можете ограничить набор протоколов шифрования, используемый для защищённых соединений. Выберите одну версию или непрерывный диапазон версий.">
+<!ENTITY limit.enable.label "Включить:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
 <!ENTITY warn.description "&brandShortName; может сообщать о степени шифрования просматриваемой вами страницы. &brandShortName; будет выводить предупреждения и запрашивать разрешение перед:">
 <!ENTITY warn.enteringsecure "загрузкой страницы, поддерживающей шифрование">
 <!ENTITY warn.enteringsecure.accesskey "о">
