@@ -47,14 +47,14 @@
 <!ENTITY  formFields            "欄位:">
 <!ENTITY  formLabel             "標籤">
 <!ENTITY  formFName             "欄位名稱">
-<!ENTITY  formType              "型態">
+<!ENTITY  formType              "類型">
 <!ENTITY  formCValue            "目前設定值">
 
 <!ENTITY  linksTab              "鏈結">
 <!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "名稱">
 <!ENTITY  linkAddress           "位址">
-<!ENTITY  linkType              "型態">
+<!ENTITY  linkType              "類型">
 <!ENTITY  linkTarget            "目標">
 <!ENTITY  linkAccessKey         "存取鍵">
 
@@ -64,7 +64,7 @@
 <!ENTITY  mediaAlt              "替代文字:">
 <!ENTITY  mediaAltHeader        "對應文字">
 <!ENTITY  mediaAddress          "位址">
-<!ENTITY  mediaType             "型態">
+<!ENTITY  mediaType             "類型">
 <!ENTITY  mediaSize             "大小">
 <!ENTITY  mediaCount            "計數">
 <!ENTITY  mediaDimensions       "尺寸:">

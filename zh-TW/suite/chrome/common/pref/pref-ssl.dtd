@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption       "客戶端認證方式選擇">
 
 <!ENTITY pref.ssl.title                     "安全連線（SSL）">
-<!ENTITY enable.ssl30.label                 "啟用 SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "啟用 TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "您可以限制只使用哪些加密通訊協定進行安全連線。請選擇單一版本或是連續版本號的幾個版本。">
+<!ENTITY limit.enable.label                 "啟用:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; 可以警示您有關正在檢視的網頁的安全性狀態。設定 &brandShortName; 在遇到下列情形時警告並詢問:">
 <!ENTITY warn.enteringsecure                "載入支援加密的網頁中">

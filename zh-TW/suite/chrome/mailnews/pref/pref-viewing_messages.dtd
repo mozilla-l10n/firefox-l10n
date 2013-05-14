@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "一般">
 <!ENTITY autoMarkAsRead.label             "自動標為已讀">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "顯示時立刻標示">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "在顯示">
-<!ENTITY markAsReadDelay.accesskey        "t">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "在顯示">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "秒之後">
 
 <!ENTITY openingMessages.label            "當開啟訊息時，將它們顯示於:">

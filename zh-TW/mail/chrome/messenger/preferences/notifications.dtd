@@ -13,4 +13,13 @@
 <!ENTITY sender.label                     "寄件者">
 <!ENTITY sender.accesskey                 "e">
 
+<!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
+there's a field where the user can enter a number, and totalOpenTimeEnd.label
+is displayed at the end of the line. The translations of the
+totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
+the exact same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  totalOpenTimeBefore.label       "顯示新郵件通知">
+<!ENTITY  totalOpenTimeBefore.accesskey   "N">
+<!ENTITY  totalOpenTimeEnd.label          "秒">
 

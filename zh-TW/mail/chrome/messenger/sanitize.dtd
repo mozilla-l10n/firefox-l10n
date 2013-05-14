@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "歷史記錄清除設定">
 <!ENTITY sanitizeDialog2.title         "清除最近的歷史記錄">
-
-<!ENTITY sanitizeItems.label          "立刻清除下列項目:">
-<!ENTITY clearDataSettings2.label     "當我離開 &brandShortName; 時，它應該自動清除:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -21,8 +17,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "瀏覽日期">
-<!ENTITY clearTimeDuration.nameColumn     "名稱">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -30,13 +24,7 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "詳細資訊">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY historySection.label         "歷史記錄">
-<!ENTITY dataSection.label            "資料">
-
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
-<!ENTITY itemCookies.label                 "Cookie">
+<!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "快取">
 <!ENTITY itemCache.accesskey               "a">
@@ -47,5 +35,4 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "此動作無法復原。">
 
 <!ENTITY dialog.width                 "24em">
-<!ENTITY column.width                 "14em">
 

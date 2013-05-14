@@ -10,4 +10,5 @@
 <!ENTITY addonAction.disable                    "停用">
 <!ENTITY addonAction.uninstall                  "移除">
 <!ENTITY addonAction.undo                       "復原">
+<!ENTITY addonAction.setDefault                 "設為預設值">
 
