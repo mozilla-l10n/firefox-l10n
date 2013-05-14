@@ -11,7 +11,8 @@
 <!ENTITY aboutPage.credits.label                "정보">
 <!ENTITY aboutPage.checkForUpdates.checking     "확인 중…">
 <!ENTITY aboutPage.checkForUpdates.none         "업데이트 없음">
-<!ENTITY aboutPage.checkForUpdates.found        "업데이트 가능">
-
+<!ENTITY aboutPage.checkForUpdates.available    "업데이트 가능. 다운로드하기">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "업데이트 다운로드 완료. 설치하기">
+<!ENTITY aboutPage.checkForUpdates.downloading  "업데이트 다운로드 중…">
 <!ENTITY aboutPage.license.label 				"라이센스 정보">
 <!ENTITY aboutPage.checkForUpdates.link         "최신 버전 확인">
