@@ -19,7 +19,7 @@
 
 <!ENTITY  underlineLinks.label            "링크에 밑줄">
 <!ENTITY  underlineLinks.accesskey        "u">
-<!ENTITY  links                           "링크 색상"">
+<!ENTITY  links                           "링크 색상">
 <!ENTITY  linkColor.label                 "방문하지 않은 링크:">
 <!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "방문한 링크:">
