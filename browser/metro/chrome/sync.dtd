@@ -3,25 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- flyout header -->
 <!ENTITY syncHeader.title           "Sync">
-<!ENTITY sync.notconnected          "Ej ansluten">
-<!ENTITY sync.connect               "Anslut">
-<!ENTITY sync.connected             "Ansluten">
-<!ENTITY sync.deviceName            "Den här enheten">
-<!ENTITY sync.disconnect            "Koppla bort">
+<!-- not connected yet -->
+<!ENTITY sync.setup.description     "Kom åt dina bokmärken, lösenord och öppna flikar på alla dina enheter">
+<!ENTITY sync.setupbutton.label     "Ställ in Sync">
+<!-- sync now button -->
 <!ENTITY sync.syncNow2              "Synka nu">
+<!-- device name text edit -->
+<!ENTITY sync.deviceName            "Den här enheten">
+<!-- remove this device button -->
+<!ENTITY sync.removebutton.label    "Ta bort den här enheten">
+<!ENTITY sync.removewarn.note       "Din webbläsardata på enheten kommer att bevaras, men du kommer inte längre att kunna synka med det här kontot.">
+<!ENTITY sync.removethrobber.label  "Tar bort enhet">
 
-<!ENTITY sync.setup.title           "Anslut till Sync">
+<!ENTITY sync.setup2.title          "Ställ in Sync">
 <!ENTITY sync.setup.pair2           "Aktivera genom att välja ”Para ihop enheter” på din andra enhet.">
-<!ENTITY sync.fallback              "Jag har inte enheten med mig …">
+<!ENTITY sync.fallback              "Ange eller redigera kontoinformation …">
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">
 <!ENTITY sync.password              "Lösenord">
 <!ENTITY sync.recoveryKey           "Återställningsnyckel">
 <!ENTITY sync.customServer          "Använd egen server">
 <!ENTITY sync.serverURL             "Serverns URL">
-<!ENTITY sync.setup.connect         "Anslut">
+<!ENTITY sync.setup.connect2        "Lägg till enhet">
 <!ENTITY sync.setup.cancel          "Avbryt">
+<!ENTITY sync.setup.remove          "Ta bort">
 <!ENTITY sync.setup.tutorial        "Visa hur">
 <!ENTITY sync.setup.waiting2        "Väntar på den andra enheten …">
 

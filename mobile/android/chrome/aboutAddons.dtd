@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Inaktivera">
 <!ENTITY addonAction.uninstall                  "Avinstallera">
 <!ENTITY addonAction.undo                       "Ångra">
+<!ENTITY addonAction.setDefault                 "Använd som standard">
