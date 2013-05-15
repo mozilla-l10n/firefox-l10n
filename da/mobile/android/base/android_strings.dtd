@@ -203,7 +203,7 @@ size. -->
 <!ENTITY contextmenu_subscribe "Abonner på siden">
 <!ENTITY contextmenu_site_settings "Rediger webstedets indstillinger">
 
-<!ENTITY pref_titlebar_mode "Titelbjælke">
+<!ENTITY pref_titlebar_mode "Titellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidens titel">
 <!ENTITY pref_titlebar_mode_url "Vis sidens adresse">
 
