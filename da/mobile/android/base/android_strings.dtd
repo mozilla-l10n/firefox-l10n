@@ -133,7 +133,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
 <!ENTITY pref_private_data_downloadFiles "Hentede filer">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
 <!ENTITY datareporting_notification_action "Angiv, hvad du vil dele">
 <!ENTITY datareporting_notification_summary "&brandShortName; sender automatisk data til &vendorShortName; for at forbedre din oplevelse.">
 <!ENTITY datareporting_notification_summary_short "&brandShortName; forbedrer din oplevelse ved …">
@@ -144,7 +144,7 @@ size. -->
      chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Sundhedsrapport">
+<!ENTITY datareporting_fhr_title "&brandShortName; sundhedsrapport">
 <!ENTITY datareporting_fhr_summary "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deler information om ydelse, brug, hardware og tilrettelser i din browser med &vendorShortName; for at hjælpe med at forbedre &brandShortName;">
@@ -152,7 +152,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName;, fejlrapportering">
+<!ENTITY datareporting_crashreporter_title "&brandShortName; fejlrapportering">
 
 <!ENTITY pref_update_autodownload "Automatiske opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
@@ -224,9 +224,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
 <!ENTITY reading_list "Læseliste">
-<!ENTITY reading_list_added "Side føjet til din læseliste">
-<!ENTITY reading_list_removed "Side fjernet fra din læseliste">
-<!ENTITY reading_list_failed "Kunne ikke tilføje side til din læseliste">
+<!ENTITY reading_list_added "Siden er føjet til din læseliste">
+<!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
+<!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
 <!ENTITY reader "Læser">
 
