@@ -96,7 +96,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Brug altid denne tilføjelse">
 <!ENTITY cmd.neverActivate.label              "Aktiver aldrig">
 <!ENTITY cmd.neverActivate.tooltip            "Brug aldrig denne tilføjelse">
-<!ENTITY cmd.stateMenu.tooltip                "Skift når denne tilføjelse kører">
+<!ENTITY cmd.stateMenu.tooltip                "Vælg hvornår denne tilføjelse må køre">
 <!ENTITY cmd.installAddon.label               "Installer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Fjern">
