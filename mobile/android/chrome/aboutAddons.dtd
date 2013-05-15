@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Deaktiver">
 <!ENTITY addonAction.uninstall                  "Afinstaller">
 <!ENTITY addonAction.undo                       "Fortryd">
+<!ENTITY addonAction.setDefault                 "Angiv som standard">
