@@ -11,3 +11,6 @@
 <!ENTITY subject.accesskey "A">
 <!ENTITY sender.label "Remitente">
 <!ENTITY sender.accesskey "R">
+<!ENTITY totalOpenTimeBefore.label "Mostrar alertas de nuevo correo durante">
+<!ENTITY totalOpenTimeBefore.accesskey "M">
+<!ENTITY totalOpenTimeEnd.label "segundos">
