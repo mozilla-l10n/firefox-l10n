@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Hyppige steder">
 <!ENTITY  awesomebar_bookmarks_title "Bogmærker">
 <!ENTITY  awesomebar_history_title "Historik">
+<!ENTITY  awesomebar_switch_to_tab "Skift til faneblad">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
-<!ENTITY  crash_message "&brandShortName; gik ned. Dine faneblade bør blive vist på &brandShortName; Start-siden når du genstarter.">
-<!ENTITY  crash_help_message "Hjælp os med at rette dette problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla en fejlrapport">
-<!ENTITY  crash_include_url "Inkluder webadresse">
+<!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startsiden, når du genstarter.">
+<!ENTITY  crash_send_report_message2 "Fortæl Mozilla om nedbruddet, så de kan rette fejlen">
+<!ENTITY  crash_include_url2 "Inkluder webadressen til den besøgte side">
+<!ENTITY  crash_sorry "Vi beklager!">
+<!ENTITY  crash_comment "Tilføj en kommentar (kommentarer er offentligt tilgængelige)">
+<!ENTITY  crash_allow_contact "Giv Mozilla lov til at kontakte mig om denne fejlrapport">
+<!ENTITY  crash_email "Din mailadresse">
+<!ENTITY  crash_closing_alert "Afslut uden at sende en fejlrapport?">
 <!ENTITY  crash_close_label "Luk">
 <!ENTITY  crash_restart_label "Genstart &brandShortName;">
 <!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 <!ENTITY  exit_label "Afslut">
-<!ENTITY  continue_label "Fortsæt">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; webapplikationer">
 <!ENTITY  launcher_shortcuts_empty "Ingen webapplikationer fundet">
@@ -66,16 +70,27 @@
 <!ENTITY pref_category_general "Generelt">
 <!ENTITY pref_category_privacy "Privatliv &amp; sikkerhed">
 <!ENTITY pref_category_content "Indhold">
-<!ENTITY pref_category_importexport "Importer &amp; eksporter">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_do_not_track "Aktiver Spor-mig-ikke">
-<!ENTITY pref_telemetry "Indsend ydelsesdata">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Generelt">
+<!ENTITY pref_header_privacy "Privatliv &amp; sikkerhed">
+<!ENTITY pref_header_content "Indhold">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Aktiveret">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
+
+<!ENTITY pref_donottrack_menu "Sporing">
+<!ENTITY pref_donottrack_disallow_tracking "Fortæl websteder, at jeg ikke vil spores">
+<!ENTITY pref_donottrack_allow_tracking "Fortæl websteder, at jeg vil spores">
+<!ENTITY pref_donottrack_no_pref "Fortæl ikke websteder, om jeg vil spores eller ej">
 
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
@@ -117,6 +132,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
 <!ENTITY pref_private_data_downloadFiles "Hentede filer">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Angiv, hvad du vil dele">
+<!ENTITY datareporting_notification_summary "&brandShortName; sender automatisk data til &vendorShortName; for at forbedre din oplevelse.">
+<!ENTITY datareporting_notification_summary_short "&brandShortName; forbedrer din oplevelse ved …">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; Sundhedsrapport">
+<!ENTITY datareporting_fhr_summary "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Deler information om ydelse, brug, hardware og tilrettelser i din browser med &vendorShortName; for at hjælpe med at forbedre &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName;, fejlrapportering">
 
 <!ENTITY pref_update_autodownload "Automatiske opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Indsæt">
 <!ENTITY contextmenu_copyurl "Kopier adresse">
 <!ENTITY contextmenu_edit_bookmark "Rediger">
+<!ENTITY contextmenu_subscribe "Abonner på siden">
+<!ENTITY contextmenu_site_settings "Rediger webstedets indstillinger">
+
+<!ENTITY pref_titlebar_mode "Titelbjælke">
+<!ENTITY pref_titlebar_mode_title "Vis sidens titel">
+<!ENTITY pref_titlebar_mode_url "Vis sidens adresse">
 
 <!-- Localization note (history_removed) : Shown in a toast notificaion
 	 after a page is removed from browser history. -->
@@ -174,15 +216,18 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Stikord">
 
-<!ENTITY site_settings_title2       "Webstedsindstillinger…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Webstedsindstillinger">
 <!ENTITY site_settings_cancel       "Annuller">
 <!ENTITY site_settings_clear        "Ryd">
 <!ENTITY site_settings_no_settings  "Der er ingen indstillinger at rydde.">
 
 <!ENTITY reading_list "Læseliste">
-<!ENTITY reading_list_failed "Kunne ikke tilføje side til din læseliste">
 <!ENTITY reading_list_added "Side føjet til din læseliste">
 <!ENTITY reading_list_removed "Side fjernet fra din læseliste">
+<!ENTITY reading_list_failed "Kunne ikke tilføje side til din læseliste">
+<!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
 <!ENTITY reader "Læser">
 
 <!ENTITY masterpassword_create_title "Opret hovedadgangskode">
@@ -206,7 +251,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Rediger">
 <!ENTITY abouthome_topsites_pin "Fastgør websted">
 <!ENTITY abouthome_topsites_unpin "Frigør websted">
-<!ENTITY abouthome_topsites_remove "Fjern">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
