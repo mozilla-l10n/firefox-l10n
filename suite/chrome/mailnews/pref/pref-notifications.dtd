@@ -5,14 +5,33 @@
 <!ENTITY pref.notifications.title         "Értesítések">
 <!ENTITY notifications.caption            "Értesítések">
 <!ENTITY newMessagesArrive.label          "Új üzenet érkezésekor:">
-<!ENTITY playSound.label                  "Hangjelzés">
-<!ENTITY playSound.accesskey              "H">
-<!ENTITY showAnimatedAlert.label          "Figyelmeztető ablak">
-<!ENTITY showAnimatedAlert.accesskey      "F">
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
+
+<!ENTITY showAlertFor.label               "Értesítés megjelenítése">
+<!ENTITY showAlertFor.accesskey           "r">
+<!ENTITY showAlertTimeEnd.label           "másodpercig">
+<!ENTITY showAlertTimeEnd.accesskey       "m">
+
+<!ENTITY showAlertPreviewText.label       "Idézet megjelenítése az üzenet szövegéből">
+<!ENTITY showAlertPreviewText.accesskey   "I">
+<!ENTITY showAlertSubject.label           "Tárgy megjelenítése">
+<!ENTITY showAlertSubject.accesskey       "T">
+<!ENTITY showAlertSender.label            "Feladó megjelenítése">
+<!ENTITY showAlertSender.accesskey        "F">
+
 <!ENTITY showTrayIcon.label               "Tálcaikon megjelenítése">
 <!ENTITY showTrayIcon.accesskey           "T">
+<!ENTITY showBalloon.label                "Felugró értesítési ablak megjelenítése">
+<!ENTITY showBalloon.accesskey            "e">
 <!ENTITY bounceSystemDockIcon.label       "Dokkolóikon animálása">
 <!ENTITY bounceSystemDockIcon.accesskey   "a">
+
+<!ENTITY playSound.label                  "Hangjelzés">
+<!ENTITY playSound.accesskey              "H">
 <!ENTITY playButton.label                 "Lejátszás">
 <!ENTITY playButton.accesskey             "L">
 <!ENTITY systemsound.label                "Új üzenethez tartozó rendszerhang">
