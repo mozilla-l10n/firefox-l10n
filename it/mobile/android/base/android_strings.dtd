@@ -100,15 +100,17 @@
 <!ENTITY pref_private_data_siteSettings2 "Impostazioni siti">
 <!ENTITY pref_private_data_downloadFiles "File scaricati">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
 <!ENTITY datareporting_notification_summary "Per migliorare l’esperienza utente, vengono inviate automaticamente alcune informazioni a &vendorShortName;. ">
 <!ENTITY datareporting_notification_summary_short "Per migliorare l’esperienza utente…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Analisi integrità di &brandShortName;">
 <!ENTITY datareporting_fhr_summary "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
-<!ENTITY datareporting_crashreporter_title "Crash Reporter &brandShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY pref_update_autodownload "Aggiornamento automatico">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Disattivato">
