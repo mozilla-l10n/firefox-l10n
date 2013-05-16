@@ -9,16 +9,20 @@
 <!ENTITY awesomebar_all_pages_title "Frecuentes">
 <!ENTITY awesomebar_bookmarks_title "Marcadores">
 <!ENTITY awesomebar_history_title "Historial">
+<!ENTITY awesomebar_switch_to_tab "Cambiar a la pestaña">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
-<!ENTITY crash_message "&brandShortName; ha fallado. Sus pestañas deberían ser listadas en la página de inicio de &brandShortName; cuando reinicie.">
-<!ENTITY crash_help_message "Por favor, ¡ayúdenos a corregir este problema!">
-<!ENTITY crash_send_report_message "Enviar a Mozilla un reporte de fallo">
-<!ENTITY crash_include_url "Incluir la dirección de la página">
+<!ENTITY crash_message2 "&brandShortName; ha tenido un problema y ha fallado. Sus pestañas se listarán en la página de inicio de &brandShortName; cuando reinicie.">
+<!ENTITY crash_send_report_message2 "Decir a Mozilla que ha habido un fallo para que puedan arreglarlo">
+<!ENTITY crash_include_url2 "Incluir la dirección de la página en la que estaba">
+<!ENTITY crash_sorry "Lo sentimos">
+<!ENTITY crash_comment "Añadir un comentario (estos son visibles públicamente)">
+<!ENTITY crash_allow_contact "Permitir a Mozilla contactarme sobre este informe">
+<!ENTITY crash_email "Su correo">
+<!ENTITY crash_closing_alert "¿Salir sin enviar el reporte de fallo?">
+<!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
 <!ENTITY crash_close_label "Cerrar">
 <!ENTITY crash_restart_label "Reiniciar &brandShortName;">
-<!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
 <!ENTITY exit_label "Salir">
-<!ENTITY continue_label "Continuar">
 <!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
@@ -50,15 +54,20 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privacidad y seguridad">
 <!ENTITY pref_category_content "Contenido">
-<!ENTITY pref_category_importexport "Importar y Exportar">
+<!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
-<!ENTITY pref_do_not_track "No quiero ser rastreado">
-<!ENTITY pref_telemetry "Enviar info. de rend.">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Privacidad y seguridad">
+<!ENTITY pref_header_content "Contenido">
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, excluyendo la de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
+<!ENTITY pref_donottrack_menu "Rastreo">
+<!ENTITY pref_donottrack_disallow_tracking "Decir a los sitios que no quiero ser rastreado">
+<!ENTITY pref_donottrack_allow_tracking "Decir a los sitios que quiero ser rastreado">
+<!ENTITY pref_donottrack_no_pref "No decir a los sitios nada sobre mis preferencias de rastreo">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
@@ -78,7 +87,7 @@
 <!ENTITY pref_font_size_adjust_char "r">
 <!ENTITY pref_font_size_preview_text "El rapidísimo zorro naranja salta sobre sus expectativas con más velocidad, más flexibilidad y más seguridad. Sin ánimo de lucro, somos libres para innovar por usted sin ninguna presión hacia el compromiso. Esto resulta en una mejor experiencia para el usuario como usted y un futuro más brillante para la web.">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
-<!ENTITY pref_show_product_announcements "Mostrar anuncios del producto">
+<!ENTITY pref_show_product_announcements "Mostrar avisos del producto">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_import_android "Importar desde Android">
@@ -90,6 +99,16 @@
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
+<!ENTITY datareporting_notification_title "&brandShortName; estadísticas y datos">
+<!ENTITY datareporting_notification_action "Elegir qué compartir">
+<!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
+<!ENTITY datareporting_fhr_title "Reporte de salud de &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud éste">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía reportes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
+<!ENTITY datareporting_crashreporter_title "Agente de informe de fallos de &brandShortName;">
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desactivadas">
@@ -130,12 +149,17 @@
 <!ENTITY contextmenu_paste "Pegar">
 <!ENTITY contextmenu_copyurl "Copiar dirección">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Suscribirse a la página">
+<!ENTITY contextmenu_site_settings "Editar configuración del sitio">
+<!ENTITY pref_titlebar_mode "Barra de título">
+<!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
+<!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY history_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
-<!ENTITY site_settings_title2 "Configuración del sitio…">
+<!ENTITY site_settings_title3 "Configuración del sitio">
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
 <!ENTITY site_settings_no_settings "No hay configuraciones para limpiar.">
@@ -143,6 +167,7 @@
 <!ENTITY reading_list_added "Página añadida a su lista de lectura">
 <!ENTITY reading_list_removed "Página eliminada de su lista de lectura">
 <!ENTITY reading_list_failed "Ha fallado la adición de esta página a su Lista de lectura">
+<!ENTITY reading_list_duplicate "Página ya está en su lista de lectura">
 <!ENTITY reader "Lector">
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
@@ -163,7 +188,6 @@
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Fijar sitio">
 <!ENTITY abouthome_topsites_unpin "Eliminar sitio">
-<!ENTITY abouthome_topsites_remove "Eliminar">
 <!ENTITY abouthome_about_sync3 "Configure Firefox Sync para acceder a los marcadores, historial y pestañas de sus otros dispositivos »">
 <!ENTITY abouthome_about_apps3 "Consiga aplicaciones desde Firefox Marketplace y descubra lo mejor que la web puede ofrecerle »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
