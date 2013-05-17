@@ -28,7 +28,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
-#define getting_started தொடங்குதல்
+#define getting_started துவங்குதல்
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -46,7 +46,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help உதவி மற்றும் பயிற்சிகள்
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize firefox தனிப்பயனாக்கம் 
 
 
 # LOCALIZATION NOTE (firefox_community):
