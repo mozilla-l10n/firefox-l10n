@@ -34,25 +34,25 @@
 <!ENTITY setDefault.accesskey            "ป">
 <!ENTITY isDefault.label                 "&brandShortName; เป็นเบราว์เซอร์ปริยายของคุณ">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportSection.label       "รายงานข้อมูลสุขภาพ &brandShortName;">
+<!ENTITY healthReportDesc.label          "ช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณและแบ่งปันข้อมูลกับ &vendorShortName; เกี่ยวกับข้อมูลสุขภาพของเบราว์เซอร์คุณ">
+<!ENTITY enableHealthReport.label        "เปิดใช้รายงานสุขภาพ &brandShortName; ">
+<!ENTITY enableHealthReport.accesskey    "ร">
+<!ENTITY healthReportLearnMore.label     "การวัดและส่งข้อมูลทางไกล">
 
-<!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetrySection.label          "การวัดและส่งข้อมูลทางไกล">
+<!ENTITY telemetryDesc.label             "แบ่งปันข้อมูลประสิทธิภาพ การใช้งาน ฮาร์ดแวร์ และการปรับแต่งที่เกี่ยวกับเบราว์เซอร์ของคุณกับ &vendorShortName; เพื่อช่วยเหลือเราทำ &brandShortName; ให้ดีขึ้น">
+<!ENTITY enableTelemetry.label           "เปิดการวัดและส่งข้อมูลทางไกล">
+<!ENTITY enableTelemetry.accesskey       "ท">
+<!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่ม">
 
 <!ENTITY crashReporterSection.label      "ตัวรายงานข้อขัดข้อง">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย &vendorShortName; ทำเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
+<!ENTITY enableCrashReporter.label       "เปิดใช้ตัวรายงานข้อขัดข้อง">
+<!ENTITY enableCrashReporter.accesskey   "ต">
+<!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่ม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
 
