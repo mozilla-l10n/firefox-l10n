@@ -75,7 +75,7 @@
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Dewislen Nodau Tudalen">
+<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tagiau">
 <!ENTITY bookmarks.folder.toolbar.label "Bar Offer Nodau Tudalen">
