@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "เรียกคืน">
 <!ENTITY restorepage.listHeader     "หน้าต่างและแท็บ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "หน้าต่าง &#037;S">

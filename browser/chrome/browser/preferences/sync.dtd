@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "ล้าง">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "จัดการบัญชีผู้ใช้">
+<!ENTITY manageAccount.accesskey      "ก">
 <!ENTITY viewQuota.label              "ดูโควตา">
 <!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
 <!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">

@@ -62,8 +62,8 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
+<!ENTITY goOfflineCmd.accesskey "ฟ">
 
 <!ENTITY menubarCmd.label "แถบเมนู">
 <!ENTITY menubarCmd.accesskey "ถ">
@@ -111,8 +111,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
 <!ENTITY closeWindow.accesskey "ด">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
+<!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "ที่คั่นหน้าที่ไม่เรียงลำดับ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "บอกรับ">
 <!ENTITY feedButton.tooltip           "บอกรับหน้านี้…">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksButton.tooltip        "แสดงที่คั่นหน้า">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -198,14 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.label        "เชื่อมต่อ…">
+<!ENTITY devtoolsConnect.accesskey    "ต">
 
 <!ENTITY errorConsoleCmd.label        "หน้าจอข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey    "จ">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "เว็บคอนโซลระยะไกล">
 
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
@@ -234,10 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.label          "สลับเครื่องมือ">
+<!ENTITY devToolboxMenuItem.accesskey      "ส">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "สลับเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarOtherToolsButton.label  "เครื่องมืออื่น">
 
 <!ENTITY getMoreDevtoolsCmd.label        "เพิ่มเครื่องมือ">
@@ -248,8 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "หน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
+<!ENTITY newPrivateWindow.accesskey "น">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
 <!ENTITY editMenu.accesskey       "ก"> 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "ร">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
 <!-- 
@@ -353,8 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey        "น">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "น">
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
 <!ENTITY openLinkCmdInCurrent.accesskey "ล">
 <!ENTITY openFrameCmdInTab.label      "เปิดกรอบในแท็บใหม่">
@@ -422,10 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "อ">
 <!ENTITY emailAudioCmd.label          "อีเมลเสียง…">
 <!ENTITY emailAudioCmd.accesskey      "อ">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "เรียกทำงานโปรแกรมเสริมนี้">
+<!ENTITY playPluginCmd.accesskey      "ร">
+<!ENTITY hidePluginCmd.label          "ซ่อนโปรแกรมเสริมนี้">
+<!ENTITY hidePluginCmd.accesskey      "ซ">
 <!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "ต">
 <!ENTITY copyImageCmd.label           "คัดลอกที่ตั้งภาพ">
@@ -456,12 +456,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ป">
 <!ENTITY mediaUnmute.label           "เปิดเสียง">
 <!ENTITY mediaUnmute.accesskey       "ด">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate.label     "ความเร็วในการเล่น">
+<!ENTITY mediaPlaybackRate.accesskey "ร">
+<!ENTITY mediaPlaybackRate050x.label "ภาพเคลื่อนไหวช้า (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "ช">
+<!ENTITY mediaPlaybackRate100x.label "ความเร็วปกติ">
+<!ENTITY mediaPlaybackRate100x.accesskey "ป">
 <!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "H">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the

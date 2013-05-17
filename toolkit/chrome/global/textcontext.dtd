@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "ป">
 <!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มไปยังพจนานุกรม">
 <!ENTITY spellUndoAddToDictionary.accesskey "ย">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "ตรวจสอบการสะกด">
+<!ENTITY spellCheckToggle.accesskey "ส">
 <!ENTITY spellNoSuggestions.label "(ไม่มีคำสะกดแนะนำ)">
 <!ENTITY spellDictionaries.label "ภาษา">
 <!ENTITY spellDictionaries.accesskey "ภ">

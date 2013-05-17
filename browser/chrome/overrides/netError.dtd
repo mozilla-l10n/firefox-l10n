@@ -52,11 +52,9 @@
 <!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>โปรด &quot;ลองใหม่อีกครั้ง&quot; เพื่อสลับไปยังโหมดออนไลน์และเรียกหน้าเว็บใหม่</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "การเข้ารหัสเนื้อหาผิดพลาด">
 <!ENTITY contentEncodingError.longDesc "<ul> 

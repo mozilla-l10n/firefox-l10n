@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "เชื่อมโยงอุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
 <!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "เปิดการใช้งานโดยเลือก &quot;เชื่อมโยงอุปกรณ์&quot; จากอุปกรณ์ของคุณ">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &quot;ติดตั้ง Sync&quot; บนอุปกรณ์ของคุณ">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
 <!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">
