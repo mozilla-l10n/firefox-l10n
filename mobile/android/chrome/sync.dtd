@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Co-shioncronaich an-dràsta">
 
 <!ENTITY sync.setup.title           "Ceangail ris an t-sioncronachadh">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY sync.setup.pair            "Gus a chur beò, tagh &quot;Paidhrich uidheam&quot; air an dàrna uidheam agad.">
 <!ENTITY sync.fallback              "Chan eil mi faisg air a' choimpiutair agam…">
 <!ENTITY sync.setup.manual          "Cuir a-steach fiosrachadh a' chunntais sioncronachaidh agad">
 <!ENTITY sync.account               "Ainm a' chunntais">
