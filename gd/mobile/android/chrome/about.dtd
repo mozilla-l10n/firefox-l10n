@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Lorg ùrachaidhean »">
 <!ENTITY aboutPage.checkForUpdates.checking     "A' lorg ùrachaidhean…">
 <!ENTITY aboutPage.checkForUpdates.none         "Chan eil ùrachadh ri fhaighinn">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.available    "Tha ùrachadh ri fhaighinn; briog gus a luchdadh a-nuas">
 <!ENTITY aboutPage.checkForUpdates.downloading  "A' luchdadh a-nuas an ùrachaidh…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Chaidh an t-ùrachadh a luchdadh a-nuas; briog gus a stàladh">
 <!ENTITY aboutPage.faq.label                    "CÀBHA">
 <!ENTITY aboutPage.support.label                "Taic">
 <!ENTITY aboutPage.privacyPolicy.label          "Am Poileasaidh Prìobhaideachd">
