@@ -606,13 +606,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu2.label     "ఇతర పరికరాల నుండి ట్యాబులు">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "సింక్">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; అమర్చుము…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ఇప్పుడు సింక్ అవుము">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "సింక్">
 
 <!ENTITY addonBarCloseButton.tooltip  "పొడిగింత బార్ మూయి">
 <!ENTITY toggleAddonBarCmd.key        "/">
