@@ -48,7 +48,7 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "మరింత తెలుసుకోండి">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterSection.label      "క్రాష్ నివేదకి">
 <!ENTITY crashReporterDesc.label         "మీ బ్రౌజర్ మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను &vendorShortName; కు అప్పగించును.">
 <!ENTITY enableCrashReporter.label       "క్రాష్ నివేదిక చేతనంచేయి">
 <!ENTITY enableCrashReporter.accesskey   "C">

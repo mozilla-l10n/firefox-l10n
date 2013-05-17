@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title ఇష్టాంశాలు
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading ఇష్టాంశాలు
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder ఇష్టాంశముల సాధనములపట్టీ సంచయం
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description ఇష్టాంశముల సాధనపట్టీ నందు వాటిని చూడుటకు యిష్టాంశములను యీ సంచయంకు జతచేయి
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -28,7 +28,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
-#define getting_started Getting Started
+#define getting_started ప్రారంభించి నేర్చుకోండి
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -37,7 +37,7 @@
 # Firefox links folder name
 
 
-#define firefox_heading Mozilla Firefox
+#define firefox_heading మొజిల్లా ఫైర్‌ఫాక్స్
 
 
 # LOCALIZATION NOTE (firefox_help):
@@ -46,7 +46,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help సహాయం మరియు బోధనలు
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize ఫైర్‌ఫాక్సును ఇచ్ఛానుసారం మలచు
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
 
-#define firefox_community Get Involved
+#define firefox_community పాలుపంచుకోండి
 
 
 # LOCALIZATION NOTE (firefox_about):
@@ -73,7 +73,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/about/
 
 
-#define firefox_about About Us
+#define firefox_about మా గురించి
 
 
 #unfilter emptyLines

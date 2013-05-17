@@ -10,9 +10,9 @@
 
 <!ENTITY window.title "వెబ్ కన్సోల్">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "అభ్యర్దించు URL:">
+<!ENTITY networkPanel.requestMethodColon          "అభ్యర్దించు పద్దతి:">
+<!ENTITY networkPanel.statusCodeColon             "స్థితి కోడ్:">
 
 <!ENTITY networkPanel.requestHeaders              "ఎగువసూచీలు అభ్యర్దించు">
 <!ENTITY networkPanel.requestCookie               "కుకీ పంపుము">
@@ -20,7 +20,7 @@
 <!ENTITY networkPanel.requestFormData             "దత్తాంశం నుండి పంపు">
 
 <!ENTITY networkPanel.responseHeaders             "స్పందన యెగువ సూచీలు">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "స్వీకరించిన కుకీ">
 <!ENTITY networkPanel.responseBody                "స్పందన బాడీ">
 <!ENTITY networkPanel.responseBodyCached          "క్యాచీడ్ దత్తాంశం">
 <!ENTITY networkPanel.responseBodyUnknownType     "తెలియని విషయం రకము">
@@ -30,12 +30,12 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "లాగ్ అబ్యర్దన మరియు స్పందన బాడీలు">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "URL కొత్త  టాబ్ నందు తెరువుము">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -54,7 +54,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "లాగింగ్">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "window.console ఆబ్జక్టునకు పంపిన లాగ్ సందేశాలు">
 <!ENTITY btnConsoleErrors       "దోషములు">
 <!ENTITY btnConsoleInfo         "సమాచారం">
 <!ENTITY btnConsoleWarnings     "హెచ్చరికలు">
@@ -62,7 +62,7 @@
 
 <!ENTITY filterBox.placeholder "వడపోత">
 <!ENTITY btnClear.label        "శుభ్రం">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClear.tooltip      "వెబ్ కన్సోల్ అవుట్‌పుట్ శుబ్రంచేయి">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

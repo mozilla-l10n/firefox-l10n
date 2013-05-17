@@ -56,7 +56,7 @@
 <!ENTITY report.disabled                                     "క్రాష్ నివేదీకరణ అచేతనమైంది.">
 <!ENTITY report.failed                                       "అప్పగింత విఫలమైంది.">
 <!ENTITY report.unavailable                                  "ఏ నివేదిక అందుబాటులోలేదు.">
-<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.comment                                      "వ్యాఖ్యానం జతచేయి (వ్యాఖ్యానాలు అందరికీ కనిపించును)">
 <!ENTITY report.pageURL                                      "పేజీ చిరునామాను చేర్చు">
 
 <!ENTITY plugin.file                                         "ఫైలు">
