@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
+<!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan…">
 <!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
 
 <!ENTITY pref_update_autodownload "Diweddariadau awtomatig">

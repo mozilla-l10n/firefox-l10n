@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Gwirio am Ddiweddariad »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Chwilio am ddiweddariadau…">
 <!ENTITY aboutPage.checkForUpdates.none         "Dim diweddariadau ar gael">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+<!ENTITY aboutPage.checkForUpdates.available    "Diweddariad ar gael; cliciwch i lwytho i lawr">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Llwytho diweddariad i lawr…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Diweddariad wedi ei lwytho i lawr; cliciwch i'w osod">
 <!ENTITY aboutPage.faq.label                    "Atebion">
 <!ENTITY aboutPage.support.label                "Cefnogaeth">
 <!ENTITY aboutPage.privacyPolicy.label          "Polisi Preifatrwydd">
