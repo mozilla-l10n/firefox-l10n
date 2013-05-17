@@ -6,41 +6,25 @@
 
 <!ENTITY aboutTelemetry.telemetryEnabled "    Telemetry is <span>enabled</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "    Telemetry is <span>disabled</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection " Slow SQL Statements">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection " Browser Hangs">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histograms
 ">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "   ရိုးရှင်းသော တိုင်းတာချက်များ">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "နောက်ကျသောရေးသားချက်">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
-">
+<!ENTITY aboutTelemetry.systemInfoSection "စနစ်၏အချက်အလက်များ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "   Histograms Collected by Add-ons">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
-">
+<!ENTITY aboutTelemetry.toggleOn "    Click to expand section">
 
 <!ENTITY aboutTelemetry.toggleOff "
   Click to collapse section
