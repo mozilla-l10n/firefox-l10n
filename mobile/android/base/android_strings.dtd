@@ -132,11 +132,9 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Fichiers téléchargés">
 
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
-<!ENTITY datareporting_notification_action_long "choisir ce que j\u0027envoie">
 <!ENTITY datareporting_notification_action "Choisir ce que j\u0027envoie">
 <!ENTITY datareporting_notification_summary "Afin d\u0027améliorer votre navigation, &brandShortName; envoie automatiquement certaines informations à &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Afin d\u0027améliorer votre navigation, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title; : &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -151,7 +149,7 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envoie des rapports de plantage pour aider &vendorShortName; à rendre votre navigateur plus stable et sécurisé">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Rapports de plantage">
+<!ENTITY datareporting_crashreporter_title "Rapports de plantage">
 
 <!ENTITY pref_update_autodownload "Mises à jour automatiques">
 <!ENTITY pref_update_autodownload_wifi "Seulement par Wi-Fi">
