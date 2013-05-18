@@ -77,7 +77,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom2 "Перерисовка после увеличения">
+<!ENTITY pref_reflow_on_zoom3 "Перерисовка после двух нажатий">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -110,8 +110,7 @@
 <!ENTITY datareporting_telemetry_title "Телеметрия">
 <!ENTITY datareporting_telemetry_summary "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
-<!ENTITY datareporting_crashreporter_title2 "Сообщения о падениях &brandShortName;">
-<!ENTITY datareporting_crashreporter_title "Сообщения о падениях">
+<!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
 <!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
