@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Avansert …">
 <!ENTITY customizeMailAlert.accesskey     "e">
 
+<!ENTITY showTrayIcon.label               "Vis et ikon i systemstatusfeltet">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Spill av">
 <!ENTITY play.accesskey                   "p">
 <!ENTITY systemsound.label                "Standard systemlyd for ny e-post">
