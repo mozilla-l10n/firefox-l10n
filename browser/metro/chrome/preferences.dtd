@@ -14,7 +14,6 @@
 <!ENTITY optionsHeader.homepage.title                            "När &brandShortName; startar, visa">
 <!ENTITY optionsHeader.homepage.startPage.button                 "startsida">
 <!ENTITY optionsHeader.homepage.sessionRestore.button            "senaste flikarna">
-<!ENTITY optionsHeader.tabs.title                                "Visa alltid flikar">
 <!ENTITY optionsHeader.char.title                                "Teckenkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autoigenkänning">
 <!ENTITY optionsHeader.char.options.label                        "Visa kodningsalternativ i Appfältet">
