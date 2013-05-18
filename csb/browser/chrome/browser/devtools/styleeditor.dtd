@@ -43,3 +43,5 @@
 <!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!ENTITY visibilityToggle.tooltip "Włączanié/wëłączanié sztélów">
