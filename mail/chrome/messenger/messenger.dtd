@@ -500,6 +500,8 @@
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
 <!ENTITY replyListButton.tooltip "Ответить в список рассылки">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
+<!ENTITY forwardAsInline.tooltip "Переслать выделенное сообщение внутри сообщения">
+<!ENTITY forwardAsAttachment.tooltip "Переслать выделенное сообщение как вложение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
@@ -520,6 +522,8 @@
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY appmenuButton1.tooltip "Открыть меню &brandShortName;">
+<!ENTITY buttonMenuForwardAsInline.label "Переслать внутри сообщения">
+<!ENTITY buttonMenuForwardAsAttachment.label "Переслать как вложение">
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
@@ -638,8 +642,14 @@
 <!ENTITY contextReplyList.accesskey "р">
 <!ENTITY contextForward.label "Переслать">
 <!ENTITY contextForward.accesskey "П">
-<!ENTITY contextForwardAsAttachment.label "Переслать как вложения">
-<!ENTITY contextForwardAsAttachment.accesskey "к">
+<!ENTITY contextForwardAsMenu.label "Переслать как">
+<!ENTITY contextForwardAsMenu.accesskey "е">
+<!ENTITY contextForwardAsInline.label "Внутри сообщения">
+<!ENTITY contextForwardAsInline.accesskey "ж">
+<!ENTITY contextForwardAsAttachmentItem.label "Вложение">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "н">
+<!ENTITY contextMultiForwardAsAttachment.label "Переслать как вложения">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "е">
 <!ENTITY contextMoveMsgMenu.label "Переместить в папку">
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Недавно открытые">
