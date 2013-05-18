@@ -21,12 +21,12 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Datenschutzrichtlinien für &vendorShortName;s Produkte finden Sie ">
+<!ENTITY rights.intro-point3a "Datenschutzerklärungen für Produkte von &vendorShortName;s finden Sie ">
 <!ENTITY rights.intro-point3b "hier">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Jegliche Datenschutzrichtlinien, die für dieses Produkt gelten, sollten hier gelistet werden:">
+<!ENTITY rights.intro-point3-unbranded "Jegliche Datenschutzerklärungen, die für dieses Produkt gelten, sollten hier gelistet werden:">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; bietet auch optionale Dienste wie den Add-on-Update-Dienst an; allerdings können wir keine Garantie dafür übernehmen, dass sie 100&#37; genau und fehlerfrei sind. Weitere Details, inklusive Informationen darüber, wie Sie diese Dienste deaktivieren können, finden Sie in den ">
