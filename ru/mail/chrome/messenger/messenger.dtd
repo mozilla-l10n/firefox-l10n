@@ -500,8 +500,8 @@
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
 <!ENTITY replyListButton.tooltip "Ответить в список рассылки">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
-<!ENTITY forwardAsInline.tooltip "Переслать выделенное сообщение внутри сообщения">
-<!ENTITY forwardAsAttachment.tooltip "Переслать выделенное сообщение как вложение">
+<!ENTITY forwardAsInline.tooltip "Переслать выбранное сообщение внутри сообщения">
+<!ENTITY forwardAsAttachment.tooltip "Переслать выбранное сообщение как вложение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
