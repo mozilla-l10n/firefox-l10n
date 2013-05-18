@@ -596,7 +596,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Wëskrzëni w bòczny lëstwie">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
-<!ENTITY social.activated.description "Ùsłudżi z <label/> òstałë włączoné. Mòżesz zmienic òstawë ùstługów w <label class='text-link'>Menadżeru dodôwków/label">
+<!ENTITY social.activated.description "Ùsłudżi z <label/> òstałë włączoné. Mòżesz zmienic òstawë ùstługów w <label class='text-link'>Menadżeru dodôwków</label>.">
 <!ENTITY social.activated.undo.label "Alaże, biéj nazôd!">
 <!ENTITY social.activated.undo.accesskey "c">
 <!ENTITY social.learnMore.label "Wëwiedzë sã wicy…">
