@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Søk etter oppdateringer »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Søker etter oppdateringer …">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringer tilgjengelig">
-<!ENTITY aboutPage.checkForUpdates.found        "Oppdatering er tilgjengelig">
+<!ENTITY aboutPage.checkForUpdates.available    "Oppdatering er tilgjengelig; klikk for å laste ned">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Laster ned oppdatering …">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Oppdatering lastet ned; trykk for å installere">
 <!ENTITY aboutPage.faq.label                    "Ofte spurte spørsmål">
 <!ENTITY aboutPage.support.label                "Hjelp">
 <!ENTITY aboutPage.privacyPolicy.label          "Personvern">

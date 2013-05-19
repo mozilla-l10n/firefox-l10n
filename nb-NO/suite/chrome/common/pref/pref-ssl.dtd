@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL protokollversjoner">
 <!ENTITY  SSLWarnings.caption               "SSL-advarsler">
+<!ENTITY  SSLMixedContent.caption           "Blandet innhold">
 <!ENTITY  SSLClientAuthMethod.caption       "Valg av klientsertifikat">
 
 <!ENTITY pref.ssl.title                     "Sikker tilkobling (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "Visning av en side med både kryptert og ukrypterte data">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "Advar meg når krypterte nettsider inneholder usikker informasjon">
+<!ENTITY warn.mixedactivecontent.accesskey  "d">
+<!ENTITY block.activecontent                "Ikke last inn usikkert innhold på krypterte nettsider">
+<!ENTITY block.activecontent.accesskey      "k">
+<!ENTITY warn.mixeddisplaycontent           "Advar meg når krypterte nettsider inneholder andre typer blandet innhold">
+<!ENTITY warn.mixeddisplaycontent.accesskey "v">
+<!ENTITY block.displaycontent               "Ikke last inn andre typer av blandet innhold på krypterte nettsider">
+<!ENTITY block.displaycontent.accesskey     "e">
 
 <!ENTITY certselect.description             "Avgjør hvordan &brandShortName; velger et sikkerhetssertifikat for å identifisere seg for nettsider som trenger et:">
 <!ENTITY certselect.auto                    "Velg automatisk">

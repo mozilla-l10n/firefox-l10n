@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "l">
 <!ENTITY searchDialogTitle.label     "Søk i meldinger">
 <!ENTITY results.label               "Resultater">
-<!ENTITY fileHereMenu.label          "Arkiver her">
-<!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Arkiver">
-<!ENTITY fileButton.accesskey        "r">
+<!ENTITY moveHereMenu.label          "Flytt hit">
+<!ENTITY moveHereMenu.accesskey      "F">
+<!ENTITY moveButton.label            "Flytt til">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY goToFolderButton.label      "Åpne mappen med meldingen">
 <!ENTITY goToFolderButton.accesskey  "m">
 <!ENTITY saveAsVFButton.label      "Lagre som søkemappe">
