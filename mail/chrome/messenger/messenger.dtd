@@ -539,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Répondre à l'expéditeur et à tous les destinataires">
 <!ENTITY replyListButton.tooltip "Répondre à la liste de diffusion">
 <!ENTITY forwardButton.tooltip "Transférer le message sélectionné">
+<!ENTITY forwardAsInline.tooltip "Transférer le message sélectionné au format intégré">
+<!ENTITY forwardAsAttachment.tooltip "Transférer le message sélectionné au format pièce jointe">
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
@@ -559,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Étiqueter les messages">
 <!ENTITY compactButton.tooltip "Retirer les messages supprimés du dossier sélectionné">
 <!ENTITY appmenuButton1.tooltip "Afficher le menu de &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Transférer au format intégré">
+<!ENTITY buttonMenuForwardAsAttachment.label "Transférer au format pièce jointe">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nouveau message">

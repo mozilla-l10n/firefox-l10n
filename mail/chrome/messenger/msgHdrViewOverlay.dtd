@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Répondre à la liste de diffusion">
 <!ENTITY hdrFollowupButton1.label "Répondre au groupe">
 <!ENTITY hdrFollowupButton1.tooltip "Faire suivre à ce groupe">
+<!ENTITY hdrMenuForwardButton.label "Transférer au format">
 <!ENTITY hdrForwardButton1.label "Transférer">
 <!ENTITY hdrForwardButton1.tooltip "Transférer ce message">
 <!ENTITY hdrJunkButton1.label "Indésirable">
