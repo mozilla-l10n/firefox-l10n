@@ -163,7 +163,7 @@ size. -->
 <!ENTITY addons "Modules complémentaires">
 <!ENTITY downloads "Téléchargements">
 <!ENTITY apps "Applications">
-<!ENTITY char_encoding "Encodage de caractères">
+<!ENTITY char_encoding "Encodage caractères">
 
 <!ENTITY share "Partager">
 <!ENTITY share_title "Partager à l\u0027aide de">
