@@ -77,7 +77,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_reflow_on_zoom2 "Ridisegna testo dopo zoom">
+<!ENTITY pref_reflow_on_zoom3 "Doppio tocco per ridisegnare il testo">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
 <!ENTITY pref_font_size_medium "Medio">
