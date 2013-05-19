@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "Bare tillatelser">
 <!ENTITY select.preferences.label "Bare innstillinger">
 <!ENTITY select.passwords.label "Bare passord">
+<!ENTITY select.storage.label "Bare datalagring">
 
 <!ENTITY domain.search.placeholder "Søk i domener">
 <!ENTITY domain.search.key "S">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "Tillatelser">
 <!ENTITY tab.preferences.label "Innstillinger">
 <!ENTITY tab.passwords.label "Passord">
+<!ENTITY tab.storage.label "Datalagring">
 <!ENTITY tab.formdata.label "Skjemadata">
 <!ENTITY tab.forget.label "Glem">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "Fjern">
 <!ENTITY pwd.button.remove.accesskey "F">
 
+<!-- storage -->
+<!ENTITY storage.description "Dette domenet bruker følgende datalagre på datamaskinen:">
+
+<!ENTITY storage.tree.host.label "Nettsted">
+<!ENTITY storage.tree.type.label "Type">
+<!ENTITY storage.tree.size.label "Størrelse">
+
+<!ENTITY storage.ctx.remove.label "Fjern">
+<!ENTITY storage.ctx.remove.accesskey "F">
+<!ENTITY storage.ctx.selectAll.label "Merk alle">
+<!ENTITY storage.ctx.selectAll.accesskey "M">
+
+<!ENTITY storage.button.remove.label "Fjern">
+<!ENTITY storage.button.remove.accesskey "F">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "Søk feltdata">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "I">
 <!ENTITY forget.passwords.label "Passord">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Datalagring">
+<!ENTITY forget.storage.accesskey "D">
 <!ENTITY forget.formdata.label "Skjemadata">
 <!ENTITY forget.formdata.accesskey "S">
 
