@@ -355,7 +355,7 @@
 <!ENTITY forwardAsInline.label "Intégré">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Pièce jointe">
-<!ENTITY forwardAsAttachmentCmd.accesskey "j">
+<!ENTITY forwardAsAttachmentCmd.accesskey "P">
 <!ENTITY editMsgAsNewCmd.label "Modifier comme un nouveau message">
 <!ENTITY editMsgAsNewCmd.accesskey "e">
 <!ENTITY editMsgAsNewCmd.key "e">
@@ -698,8 +698,14 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "f">
-<!ENTITY contextForwardAsAttachment.label "Transférer en tant que pièce jointe">
-<!ENTITY contextForwardAsAttachment.accesskey "j">
+<!ENTITY contextForwardAsMenu.label "Transférer au format">
+<!ENTITY contextForwardAsMenu.accesskey "n">
+<!ENTITY contextForwardAsInline.label "Intégré">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Pièce jointe">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Transférer au format pièce jointe">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "p">
 <!ENTITY contextMoveMsgMenu.label "Déplacer vers">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Récent">
