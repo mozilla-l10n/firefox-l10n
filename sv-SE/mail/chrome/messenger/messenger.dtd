@@ -346,11 +346,11 @@
 <!ENTITY forwardMsgCmd.label "Vidarebefordra">
 <!ENTITY forwardMsgCmd.accesskey "V">
 <!ENTITY forwardMsgCmd.key  "l">
-<!ENTITY forwardAsMenu.label "Vidarebefordra genom att">
-<!ENTITY forwardAsMenu.accesskey "b">
-<!ENTITY forwardAsInline.label "Infoga">
+<!ENTITY forwardAsMenu.label "Vidarebefordra som">
+<!ENTITY forwardAsMenu.accesskey "d">
+<!ENTITY forwardAsInline.label "Infogad">
 <!ENTITY forwardAsInline.accesskey "I">
-<!ENTITY forwardAsAttachmentCmd.label "Bifoga">
+<!ENTITY forwardAsAttachmentCmd.label "Bilaga">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
 <!ENTITY editMsgAsNewCmd.label "Redigera som nytt meddelande">
 <!ENTITY editMsgAsNewCmd.accesskey "R">
@@ -535,6 +535,8 @@
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
 <!ENTITY replyListButton.tooltip "Svara till mailinglistan">
 <!ENTITY forwardButton.tooltip "Vidarebefordrar meddelandet">
+<!ENTITY forwardAsInline.tooltip "Vidarbefordra markerat meddelande som infogad text">
+<!ENTITY forwardAsAttachment.tooltip "Vidarbefordra markerat meddelande som bilaga">
 <!ENTITY fileButton.tooltip "Sparar markerat meddelande">
 <!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
 <!ENTITY nextButton.tooltip "Flytta till nästa olästa meddelande">
@@ -555,6 +557,10 @@
 <!ENTITY tagButton.tooltip "Sätt etiketter på meddelanden">
 <!ENTITY compactButton.tooltip "Rensa ut borttagna meddelanden från markerad mapp">
 <!ENTITY appmenuButton1.tooltip "Visar &brandShortName; menyn">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Vidarbefordra som infogad text">
+<!ENTITY buttonMenuForwardAsAttachment.label "Vidarbefordra som bilaga">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nytt meddelande">
@@ -697,8 +703,14 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Vidarebefordra">
 <!ENTITY contextForward.accesskey "V">
-<!ENTITY contextForwardAsAttachment.label "Vidarebefordra som bilaga">
-<!ENTITY contextForwardAsAttachment.accesskey "b">
+<!ENTITY contextForwardAsMenu.label "Vidarebefordra som">
+<!ENTITY contextForwardAsMenu.accesskey "d">
+<!ENTITY contextForwardAsInline.label "Infogad text">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Bilaga">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "B">
+<!ENTITY contextMultiForwardAsAttachment.label "Vidarbefordra som bilagor">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "d">
 <!ENTITY contextMoveMsgMenu.label "Flytta till">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Tidigare">
