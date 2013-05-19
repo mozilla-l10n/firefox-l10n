@@ -8,7 +8,7 @@
 <!ENTITY serverDirectory.accesskey "D">
 <!ENTITY usingSubscription.label "Afficher seulement les dossiers avec abonnement">
 <!ENTITY usingSubscription.accesskey "V">
-<!ENTITY dualUseFolders.label "Le serveur supporte les dossiers qui contiennent des sous-dossiers et des messages">
+<!ENTITY dualUseFolders.label "Le serveur prend en charge les dossiers qui contiennent des sous-dossiers et des messages">
 <!ENTITY dualUseFolders.accesskey "m">
 <!ENTITY useIdle.label "Utiliser la commande IDLE si le serveur le gère">
 <!ENTITY useIdle.accesskey "i">
