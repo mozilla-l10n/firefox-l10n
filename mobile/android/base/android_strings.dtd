@@ -114,7 +114,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Lagrede passord">
 <!ENTITY pref_private_data_cache "Hurtiglager">
 <!ENTITY pref_private_data_offlineApps "Frakoblet nettstedsdata">
-<!ENTITY pref_private_data_siteSettings "Nettstedsinnstillinger">
+<!ENTITY pref_private_data_siteSettings2 "Nettstedsinnstillinger">
 <!ENTITY pref_private_data_downloadFiles "Nedlastede filer">
 
 <!ENTITY pref_update_autodownload "Automatiske oppdateringer">
