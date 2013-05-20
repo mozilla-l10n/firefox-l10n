@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Arventennoù evit skarzhañ ar roll istor">
 <!ENTITY sanitizeDialog2.title         "Skarzhañ ar roll istor nevesañ">
-
-<!ENTITY sanitizeItems.label          "Skarzhañ an ergorennoù da-heul bremañ :">
-<!ENTITY clearDataSettings2.label     "Pa guitaan &brandShortName;, ret eo skarzhañ :">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -21,8 +17,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Deiziad ar weladenn">
-<!ENTITY clearTimeDuration.nameColumn     "Anv">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -30,12 +24,6 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Munudoù">
 <!ENTITY detailsProgressiveDisclosure.accesskey "u">
 
-<!ENTITY historySection.label         "Roll istor">
-<!ENTITY dataSection.label            "Roadennoù">
-
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemCookies.label                 "Toupinoù">
 <!ENTITY itemCookies.accesskey             "o">
 <!ENTITY itemCache.label                   "Krubuilh">
@@ -47,4 +35,3 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "Ne c'haller ket dizober an gwezh-mañ..">
 
 <!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">

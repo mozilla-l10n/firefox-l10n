@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
-<!ENTITY openAttachmentCmd.label "Teulioù kenstag">
-<!ENTITY openAttachmentCmd.accesskey "a">
 <!ENTITY saveAsMenu.label "Enrollañ evel">
 <!ENTITY saveAsMenu.accesskey "e">
 <!ENTITY saveAsFileCmd.label "Restr">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Digeriñ e-barzh ar gaozeadenn">
 <!ENTITY openConversationCmd.accesskey "D">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Kenstagadurioù">
+<!ENTITY openAttachmentListCmd.accesskey "a">
 <!ENTITY openFeedMessage1.label "Pa vez digoret kemennadennoù lanvioù">
 <!ENTITY openFeedMessage1.accesskey "l">
 <!ENTITY openFeedWebPage.label "Digeriñ evel ur bajenn genrouedad">
