@@ -637,3 +637,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Sužinoti daugiau">
 <!ENTITY mixedContentBlocked.moreinfo "Dauguma svetainių veikia korektiškai net ir užblokavus šį turinį.">
+
+<!ENTITY pointerLock.notification.message "Jeigu norėsite, kad žymeklis būtų vėl parodytas, spauskite klavišą Gr.">
