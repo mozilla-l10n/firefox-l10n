@@ -113,7 +113,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
-<!ENTITY pref_private_data_siteSettings "Svetainių nuostatos">
+<!ENTITY pref_private_data_siteSettings2 "Svetainių nuostatos">
 <!ENTITY pref_private_data_downloadFiles "Parsiųsti failai">
 
 <!ENTITY pref_update_autodownload "Automatiniai naujinimai">

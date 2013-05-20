@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title      "Integracija su sistema">
 <!ENTITY acceptIntegration.label      "Skirti numatytąja">
 <!ENTITY cancelIntegration.label      "Praleisti integraciją">
+<!ENTITY cancelIntegration2.label     "Atsisakyti">
 <!ENTITY defaultClient.intro          "„&brandShortName;“ laikyti numatytąja programa:">
 
 <!ENTITY email.label                  "el. pašto">
