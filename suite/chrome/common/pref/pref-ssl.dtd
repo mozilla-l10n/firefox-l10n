@@ -4,6 +4,7 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL protokolo versijos">
 <!ENTITY  SSLWarnings.caption               "SSL įspėjimai">
+<!ENTITY  SSLMixedContent.caption           "Mišrus turinys">
 <!ENTITY  SSLClientAuthMethod.caption       "Liudijimo pasirinkimas">
 
 <!ENTITY pref.ssl.title                     "Ryšio šifravimas (SSL)">
@@ -21,6 +22,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "u">
 <!ENTITY warn.viewmixed "peržiūrint tinklalapį, turintį ir šifruotų, ir nešifruotų duomenų">
 <!ENTITY warn.viewmixed.accesskey           "ž">
+
+<!ENTITY warn.mixedactivecontent            "Įspėti, kai šifruotame tinklalapyje yra prastai šifruoto turinio">
+<!ENTITY warn.mixedactivecontent.accesskey  "p">
+<!ENTITY block.activecontent                "Neįkelti prastai šifruoto turinio šifruotuose tinklalapiuose">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Įspėti, kai šifruotame tinklalapyje yra kito tipo mišraus turinio">
+<!ENTITY warn.mixeddisplaycontent.accesskey "m">
+<!ENTITY block.displaycontent               "Neįkelti kito tipo mišraus turinio šifruotuose tinklalapiuose">
+<!ENTITY block.displaycontent.accesskey     "e">
 
 <!ENTITY certselect.description "Kai svetainė paprašo liudijimo, naršyklė turi jį parinkti:">
 <!ENTITY certselect.auto "savaime">
