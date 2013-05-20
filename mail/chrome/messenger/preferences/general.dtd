@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label            "Kitkas…">
 <!ENTITY customizeMailAlert.accesskey        "K">
 
+<!ENTITY showTrayIcon.label               "Rodyti piktogramą pranešimų srityje">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Perklausyti">
 <!ENTITY play.accesskey                   "k">
 <!ENTITY systemsound.label                "Sistemos numatytasis naujų laiškų gavimo garsas">
