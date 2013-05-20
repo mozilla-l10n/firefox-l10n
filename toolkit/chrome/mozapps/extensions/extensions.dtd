@@ -95,7 +95,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Utilizar sempre este extra">
 <!ENTITY cmd.neverActivate.label              "Nunca ativar">
 <!ENTITY cmd.neverActivate.tooltip            "Nunca utilizar este extra">
-<!ENTITY cmd.tristateMenu.tooltip             "Mudar execução deste extra">
+<!ENTITY cmd.stateMenu.tooltip                "Mudar execução deste extra">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
