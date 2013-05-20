@@ -8,7 +8,6 @@
 <!ENTITY intro.message             "Pasakykite, ką šiuo metu manote apie „Android“ įrenginiams skirtą „&brandShortName;“.">
 <!ENTITY intro.happyLink           "Labai patinka">
 <!ENTITY intro.sadLink             "Susidūriau su keletu problemų">
-<!ENTITY intro.ideaLink            "Turiu pasiūlymą">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
@@ -35,15 +34,6 @@
      strings will appear as separate paragraphs but make up one message. -->
 <!ENTITY sad.thanksMessageTop      "Mes nuolat stengiamės „&brandShortName;“ tobulinti. Būkite ramūs – Jūsų atsiliepimą peržiūrės gyvi žmonės, ir jie padarys viską, ką gali, kad Jūsų problema būtų išspręsta.">
 <!ENTITY sad.thanksMessageBottom   "Garbės žodis!">
-
-<!ENTITY idea.message              "Mes visuomet džiaugiamės Jūsų idėjomis! Kviečiame pasidalinti savo mintimis (tačiau tik susijusiomis su „&brandShortName;“) žemiau.">
-<!ENTITY idea.placeholder          "Įveskite savo pasiūlymą čia">
-<!ENTITY idea.thanksHeader         "Ačiū!">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageTop, idea.thanksMessageBottom): These two
-     strings will appear as separate paragraphs but make up one message. -->
-<!ENTITY idea.thanksMessageTop     "Dėkojame už pasidalinti mintimis skirtą laiką. Mes nuolat stengiamės „&brandShortName;“ tobulinti, ir atsiliepimai, kaip kad šis, gali tapti kažko tikrai įspūdingo pradžia.">
-<!ENTITY idea.thanksMessageBottom  "Jūs to nematote, tačiau mes Jums tiesiame dešinę.">
 
 <!ENTITY feedback.privacy          "Kad apsaugotumėte savo privatumą, pasistenkite atsiliepime neįrašyti nieko, kas galėtų padėti atskleisti Jūsų tapatybę.">
 <!ENTITY feedback.send             "Siųsti atsiliepimą">
