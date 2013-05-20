@@ -116,6 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Dividi tiun ĉi paĝon">
+<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY sharePageCmd.accesskey "p">
+<!ENTITY shareLinkCmd.label "Dividi tiun ĉi ligilon">
+<!ENTITY shareLinkCmd.accesskey "l">
+<!ENTITY shareImageCmd.label "Dividi tiun ĉi bildon">
+<!ENTITY shareImageCmd.accesskey "b">
+<!ENTITY shareSelectCmd.label "Dividi elektaĵon">
+<!ENTITY shareSelectCmd.accesskey "e">
+<!ENTITY shareVideoCmd.label "Dividi filmeton">
+<!ENTITY shareVideoCmd.accesskey "f">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj langetoj…">

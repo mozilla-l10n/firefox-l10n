@@ -8,7 +8,6 @@
 <!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Fermi la ilojn por disvolvantoj">
-<!ENTITY toolboxOptionsButton.tooltip  "Montri/kaŝi panelon de elektebloj">
 <!ENTITY toolboxOptionsButton.key      "e">
 
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
