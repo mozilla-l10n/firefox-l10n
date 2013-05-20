@@ -96,7 +96,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "Ĉiam uzi tiun ĉi aldonaĵon">
 <!ENTITY cmd.neverActivate.label              "Neniam aktivigi">
 <!ENTITY cmd.neverActivate.tooltip            "Neniam uzi tiun ĉi aldonaĵon">
-<!ENTITY cmd.tristateMenu.tooltip             "Decidi kiam tiu ĉi aldonaĵo rulos">
+<!ENTITY cmd.stateMenu.tooltip                "Ŝanĝi la momenton kiam tiu ĉi aldonaĵo funkcias">
 <!ENTITY cmd.installAddon.label               "Instali">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Malinstali">
