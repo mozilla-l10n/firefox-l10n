@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "š">
 <!ENTITY searchDialogTitle.label     "Laiškų paieška">
 <!ENTITY results.label               "Paieškos rezultatai">
-<!ENTITY fileHereMenu.label          "Perkelti čia">
-<!ENTITY fileHereMenu.accesskey      "r">
-<!ENTITY fileButton.label            "Perkelti į aplanką">
-<!ENTITY fileButton.accesskey        "P">
+<!ENTITY moveHereMenu.label          "Perkelti čia">
+<!ENTITY moveHereMenu.accesskey      "r">
+<!ENTITY moveButton.label            "Perkelti į aplanką">
+<!ENTITY moveButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Rodyti aplanke">
 <!ENTITY openInFolder.accesskey      "R">
