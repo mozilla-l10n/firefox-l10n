@@ -96,7 +96,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "總是使用此附加元件">
 <!ENTITY cmd.neverActivate.label              "永不啟用">
 <!ENTITY cmd.neverActivate.tooltip            "永不使用此附加元件">
-<!ENTITY cmd.tristateMenu.tooltip             "在此附加元件執行時變更">
+<!ENTITY cmd.stateMenu.tooltip                "在此附加元件執行時變更">
 <!ENTITY cmd.installAddon.label               "安裝">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "移除">

@@ -100,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom2 "捏放手指後重排文字">
+<!ENTITY pref_reflow_on_zoom3 "雙擊以重排文字">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -133,14 +133,16 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
+<!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
 <!ENTITY datareporting_notification_action "選擇要分享的項目">
 <!ENTITY datareporting_notification_summary "&brandShortName; 會自動傳送某些資訊到 &vendorShortName; 以改善您的使用體驗。">
 <!ENTITY datareporting_notification_summary_short "為了改善您的使用體驗，&brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康檢查報告">
@@ -148,10 +150,9 @@ size. -->
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤回報，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; 錯誤回報員">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
 
 <!ENTITY pref_update_autodownload "自動更新">
 <!ENTITY pref_update_autodownload_wifi "僅透過 Wi-Fi 連線">
