@@ -107,55 +107,70 @@
 <h2 id="message_display">Visualización (preferencias de correo y
   grupos de noticias)</h2>
 
-<p>Las preferencias de mostrar mensajes le permiten elegir la forma en que
-  se muestran los mensajes (por ejemplo, el estilo de la letra y el color)
-  en todas las cuentas. Si no está ya viendo la configuración
-  para mostrar mensajes, siga estos pasos:</p>
+<p>Las preferencias de visualización de mensajes le permiten elegir la forma
+  en que se muestran los mensajes en todas las cuentas. Si no está ya viendo
+  la configuración de visualización de mensajes, siga estos pasos:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
-  <li>En la categoría de Correo y grupos de noticias, elija Formato
-    de los mensajes (si no hay subcategorías visibles, haga doble clic
-    en Correo y noticias para expandir la lista).</li>
+  <li>En la categoría de Correo y grupos de noticias, elija Visualización (si
+    no hay subcategorías visibles, haga doble clic en Correo y noticias para
+    expandir la lista).</li>
 </ol>
 
 <ul>
-  <li><strong>Al abrir mensajes, mostrarlos en</strong>: aquí puede
-    elegir si quiere reutilizar una ventana de mensaje para el siguiente
-    mensaje de correo electrónico o si quiere abrir una nueva para cada
-    uno.</li>
+  <li><strong>Al abrir mensajes, mostrarlos en</strong>: estas opciones
+    controlan el comportamiento al abrir mensajes en una ventana separada,
+    p.e., al hacer doble clic en ellos en la lista de mensajes de una carpeta:
+    <ul>
+      <li><strong>Una ventana de mensajes nueva</strong>: elija esta opción si
+        quiere abrir cada mensaje en una ventana nueva.</li>
+      <li><strong>Una ventana de mensajes existente</strong>: elija esta opción
+        si quiere reutilizar una ventana de mensajes ya abierta para el
+        siguiente mensaje.</li>
+      <li><strong>Cerrar la ventana con el mensaje al eliminar un
+        mensaje</strong>: marque esta opción si quiere que la ventana de
+        mensajes se cierre automáticamente cuando el mensaje que está viendo
+        sea eliminado.</li>
+    </ul>
+  </li>
   <li><strong>Bloquear imágenes y otro contenido de orígenes remotos</strong>:
     seleccione esta casilla si no quiere mostrar imágenes y otros contenidos
     remotos en los mensajes recibidos, excepto de remitentes a los que se lo
     haya permitido en sus libretas de direcciones (esta casilla está
     seleccionada por defecto).</li>
-  <li><strong>pero permitirlo si el remitente está en esta libreta de
-    direcciones</strong>: seleccione esta casilla si quiere permitir contenido
-    remoto en los mensajes de remitentes de la libreta de direcciones
-    seleccionada (esta casilla está marcada por defecto).</li>
-  <li><strong>Esperar [__] segundos antes de marcar un mensaje como
-    leído</strong>: elija esta opción si no quiere que un mensaje
-    se marque como leído cuando sólo está echándole
-    un breve vistazo. Indique el número de segundos que debe mostrarse
-    un mensaje antes de que se marque automáticamente como leído.
-
-    <p><strong>Consejo</strong>: si no quiere que Correo y noticias marque sus
-      mensajes como leídos automáticamente nunca, puede
-      seleccionar esta opción e introducir un número muy grande
-      de segundos.</p>
-  </li>
-  <li><strong>Mensajes en texto sin formato</strong>: seleccione el tipo de
-    letra que prefiere para ver los mensajes en texto sin formato: tipo de
-    letra de ancho fijo o de ancho variable. Si elige un estilo, tamaño
-    y color para el texto citado de los mensajes, le puede ayudar a
-    diferenciar el texto citado (normalmente un mensaje que le ha sido
-    reenviado o que usted reenvió).
+  <li><strong>Mostrar sólo el atributo 'nombre mostrado' para las personas de
+    mi libreta de direcciones</strong>: marque esta casilla si quiere ahorrar
+    algo de espacio en las cabeceras de los mensajes donde se muestran las
+    direcciones de correo. Si se selecciona, los remitentes y destinatarios
+    conocidos se listarán sólo con su nombre mostrado, sus direcciones de
+    correo quedan ocultas. Puede ver la dirección de correo completa al pasar
+    sobre dichas entradas con el puntero del ratón.</li>
+  <li><strong>Marcar automáticamente mensajes como leídos</strong>: seleccione
+    esta casilla para marcar los mensajes como leídos una vez hayan sido
+    abiertos (esta casilla está seleccionada por defecto).
     <ul>
+      <li><strong>Sólo tras mostrarlo durante [__] segundos</strong>: marque
+        esta opción si no quiere que un mensaje sea marcado como leído cuando
+        sólo le está echando un vistazo. Introduzca el número de segundos que
+        quiere que muestre el mensaje antes de ser marcado como leído
+        automáticamente. Si no se marca esta casilla, los mensajes son
+        marcados como leídos tan pronto como se abren.</li>
+    </ul>    
+  </li>
+  <li><strong>Mensajes en texto sin formato</strong>: estas opciones controlan
+    cómo se muestran los mensajes en texto sin formato. Estas opciones no
+    tienen ningún efecto al visualizar mensajes en HTML (texto enriquecido), o
+    al escribir nuevos mensajes.
+    <ul>
+      <li><strong>Tipo de letra</strong>: seleccione el tipo de letra que
+        prefiere para ver los mensajes en texto sin formato: tipo de
+        de anchura fija o de anchura variable.</li>
       <li><strong>Ajustar texto al ancho de la ventana</strong>: seleccione
         esta opción para que las palabras de los mensajes no se dividan
         y que el texto fluya hasta el ancho de la ventana del correo.</li>
-      <li><strong>Mostrar emoticiones como gráficos</strong>:
+      <li><strong>Mostrar emoticones como gráficos</strong>:
         seleccione esta opción para que cuando reciba mensajes que
         contengan emoticones (también llamados smileys) &brandShortName;
         pueda convertirlos en gráficos. Por ejemplo:
@@ -190,8 +205,28 @@
             <td><img src="images/sick.png" alt="" /></td>
           </tr>
         </table>
-
+        Esta opción también controla algunas convenciones habituales
+        de aspecto en texto sin formato:
+        <table border="1">
+          <tr align="center">
+            <td><strong>Esto</strong>:</td>
+            <td><strong>se visualiza así</strong>:</td>
+          </tr>
+          <tr align="center">
+            <td>mm^2</td>
+            <td>mm<sup>2</sup></td>
+          </tr>
+          <tr align="center">
+            <td>+/-1</td>
+            <td>±1</td>
+          </tr>
+        </table>
       </li>
+      <li><strong>Configuración de mensajes citados</strong>: elija un estilo,
+        tamaño o color diferente para los mensajes de texto sin formato
+        citados para distinguir más fácilmente el texto citado (normalmente el
+        contenido de un mensaje al cual le ha contestado el remitente, o partes
+        citadas de un mensaje al que ha contestado usted).</li>
     </ul>
   </li>
 </ul>
