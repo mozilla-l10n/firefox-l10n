@@ -32,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder a la lista de correo">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Publicar una respuesta a la conversación en este grupo de noticias">
+<!ENTITY hdrMenuForwardButton.label "Reenviar como">
 <!ENTITY hdrForwardButton1.label "Reenviar">
 <!ENTITY hdrForwardButton1.tooltip "Reenviar este mensaje">
 <!ENTITY hdrJunkButton1.label "No deseado">
