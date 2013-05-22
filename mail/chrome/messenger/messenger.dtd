@@ -500,6 +500,8 @@
 <!ENTITY replyAllButton.tooltip "Responder al remitente y a todos los destinatarios">
 <!ENTITY replyListButton.tooltip "Responder a la lista de correo">
 <!ENTITY forwardButton.tooltip "Reenviar mensaje seleccionado">
+<!ENTITY forwardAsInline.tooltip "Reenviar el mensaje seleccionado como texto en el cuerpo">
+<!ENTITY forwardAsAttachment.tooltip "Reenviar el mensaje seleccionado como un adjunto">
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
@@ -520,6 +522,8 @@
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta seleccionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú &brandShortName;">
+<!ENTITY buttonMenuForwardAsInline.label "Reenviar en el cuerpo del mensaje">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reenviar como adjunto">
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
@@ -638,8 +642,14 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Reenviar">
 <!ENTITY contextForward.accesskey "n">
-<!ENTITY contextForwardAsAttachment.label "Reenviar como adjunto">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Reenviar como">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Incorporado">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Adjunto">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Reenviar como adjuntos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mover a">
 <!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Reciente">
