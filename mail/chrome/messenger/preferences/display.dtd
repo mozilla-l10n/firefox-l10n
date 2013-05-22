@@ -35,7 +35,7 @@
 <!ENTITY removeTagButton.accesskey        "s">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Lettertypen">
+<!ENTITY fontsAndColors1.label   "Lettertypen &amp; kleuren">
 <!ENTITY defaultFont.label       "Standertlettertype:">
 <!ENTITY defaultFont.accesskey   "S">
 <!ENTITY defaultSize.label       "Grutte:">

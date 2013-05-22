@@ -433,7 +433,7 @@
 <!ENTITY openFeedWebPage.label "Iepenje as webside">
 <!ENTITY openFeedWebPage.accesskey "I">
 <!ENTITY openFeedSummary.label "Iepenje as gearfetting">
-<!ENTITY openFeedSummaryInWindow.accesskey "g">
+<!ENTITY openFeedSummary.accesskey "g">
 <!ENTITY openFeedWebPageInMP.label "Wiksel webside en gearfetting yn berjochtpaniel">
 <!ENTITY openFeedWebPageInMP.accesskey "W">
 
