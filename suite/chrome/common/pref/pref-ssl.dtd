@@ -7,10 +7,14 @@
 <!ENTITY SSLMixedContent.caption "Contenido mezclado">
 <!ENTITY SSLClientAuthMethod.caption "Selección de certificado de sesión">
 <!ENTITY pref.ssl.title "Capa de Conexiones Seguras (SSL)">
-<!ENTITY enable.ssl30.label "Activar SSL 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Activar TLS 1.0">
-<!ENTITY enable.tls10.accesskey "1">
+<!ENTITY limit.description "Puede restringir qué protocolos de cifrado deben usarse para las conexiones seguras. Elija una única versión o un intervalo de versiones consecutivas.">
+<!ENTITY limit.enable.label "Activar:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
 <!ENTITY warn.description "&brandShortName; puede alertarle del estado de seguridad de la página web que está viendo. Configure &brandShortName; para mostrar una advertencia y pedir permiso antes de:">
 <!ENTITY warn.enteringsecure "Cargar una página que utiliza cifrado">
 <!ENTITY warn.enteringsecure.accesskey "C">
