@@ -77,7 +77,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
-<!ENTITY pref_reflow_on_zoom2 "Pellizcar para reformatear el texto">
+<!ENTITY pref_reflow_on_zoom3 "Pulse 2 veces para reformatear texto">
 <!ENTITY pref_font_size_tiny "Diminuto">
 <!ENTITY pref_font_size_small "Pequeño">
 <!ENTITY pref_font_size_medium "Mediano">
