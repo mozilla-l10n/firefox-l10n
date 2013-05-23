@@ -25,6 +25,7 @@
 <!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
 <!ENTITY update.adminDisabled "Aggiornamenti disattivati dall'amministratore di sistema">
+<!ENTITY update.otherInstanceHandlingUpdates "Aggiornamento di &brandShortName; in corso in un'altra istanza">
 <!ENTITY update.failed.start "Aggiornamento non riuscito. ">
 <!ENTITY update.failed.linkText "Scarica l'ultima versione">
 <!ENTITY update.failed.end "">
