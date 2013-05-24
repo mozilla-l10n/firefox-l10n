@@ -14,7 +14,7 @@
 <!ENTITY followupToField3.label "Reenviar para ">
 <!ENTITY tagsHdr3.label "Etiquetas ">
 <!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY userAgentField3.label "Agente ">
 <!ENTITY referencesField3.label "Referências ">
 <!ENTITY messageIdField3.label "ID da mensagem ">
 <!ENTITY inReplyToField3.label "Em resposta a ">
@@ -32,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder a lista de correio">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Responder a este grupo de notícias">
+<!ENTITY hdrMenuForwardButton.label "Reencaminhar como">
 <!ENTITY hdrForwardButton1.label "Reencaminhar">
 <!ENTITY hdrForwardButton1.tooltip "Reencaminhar esta mensagem">
 <!ENTITY hdrJunkButton1.label "Lixo eletrónico">
