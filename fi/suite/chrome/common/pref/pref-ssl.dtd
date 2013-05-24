@@ -7,11 +7,15 @@
 <!ENTITY  SSLMixedContent.caption           "Yhdistelmäsisältö">
 <!ENTITY  SSLClientAuthMethod.caption       "Asiakkaan varmenteen valinta">
 
-<!ENTITY pref.ssl.title                     "Salaus">
-<!ENTITY enable.ssl30.label                 "Salli SSL 3.0 -turvakäytäntö">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Salli TLS 1.0 -turvakäytäntö">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
+<!ENTITY limit.description                  "Voit rajata sitä, millä salausmenetelmillä voidaan muodostaa suojattu yhteys. Voit valita joko yhden tai useita versioita.">
+<!ENTITY limit.enable.label                 "Salli:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "Näytä varoitus:">
 <!ENTITY warn.enteringsecure                "Avattaessa salattua sivua">

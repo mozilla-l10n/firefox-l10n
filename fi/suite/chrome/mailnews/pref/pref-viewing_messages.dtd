@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "Yleiset">
 <!ENTITY autoMarkAsRead.label             "Merkitse viesti luetuksi">
 <!ENTITY autoMarkAsRead.accesskey         "M">
-<!ENTITY markAsReadNoDelay.label          "Heti avaamisen jälkeen">
-<!ENTITY markAsReadNoDelay.accesskey      "a">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Kun se on ollut esillä">
-<!ENTITY markAsReadDelay.accesskey        "K">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Kun se on ollut esillä">
+<!ENTITY markAsReadAfter.accesskey        "K">
 <!ENTITY secondsLabel.label               "sekuntia">
 
 <!ENTITY openingMessages.label            "Avattaessa viestiä, näytä se:">
