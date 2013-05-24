@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
    - which loads a webapp in a separate process from Firefox.  Webapps loaded
    - in this way have very little application chrome, but the runtime does
    - provide them with some default functionality, like the standard OS
    - menus/menuitems. -->
 
-
 <!ENTITY fileMenu.label                     "Archivo">
-<!ENTITY fileMenu.accesskey                 "A">
+<!ENTITY fileMenu.accesskey                 "F">
 
 <!ENTITY quitApplicationCmdWin.label        "Salir">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
@@ -22,7 +22,7 @@
 <!ENTITY hideThisAppCmdMac.key              "H">
 <!ENTITY hideOtherAppsCmdMac.label          "Ocultar otros">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
-<!ENTITY showAllAppsCmdMac.label            "Mostrar todo">
+<!ENTITY showAllAppsCmdMac.label            "Mostrar todos">
 
 <!ENTITY editMenu.label                     "Editar">
 <!ENTITY editMenu.accesskey                 "E">
@@ -46,4 +46,4 @@
 <!ENTITY deleteCmd.accesskey                "D">
 <!ENTITY selectAllCmd.label                 "Seleccionar todo">
 <!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "a">
+<!ENTITY selectAllCmd.accesskey             "A">
