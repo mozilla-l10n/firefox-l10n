@@ -156,7 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addonBarCmd.accesskey "j">
 <!ENTITY appMenuWebDeveloper.label "Izstrādātājiem">
 <!ENTITY appMenuButton.tooltip        "Atvērt &brandShortName; izvēlni">
-<!ENTITY appMenuSafeMode.label "Pārstartēt ar deaktivizētiem papildinājumiem…">
+<!ENTITY appMenuSafeMode.label "Pārstartēt ar deaktivētiem papildinājumiem…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY feedButton.label             "Pierakstīties">
 
@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.activated.description "<label/> pakalpojumi ir aktivizēti. Pakalpojumu iestatījumus, Jūs varat mainīt <label class='text-link'>papildinājumu pārvaldniekā</label>.">
+<!ENTITY social.activated.description "<label/> pakalpojumi ir aktivēti. Pakalpojumu iestatījumus, Jūs varat mainīt <label class='text-link'>papildinājumu pārvaldniekā</label>.">
 <!ENTITY social.activated.undo.label "Uuups, atcelt šo!">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Uzzināt vairāk…">
@@ -593,7 +593,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Paslēpt statistiku">
 <!ENTITY videoHideStats.accesskey    "t">
-<!ENTITY playPluginCmd.label          "Aktivizēt šo spraudni">
+<!ENTITY playPluginCmd.label          "Aktivēt šo spraudni">
 <!ENTITY playPluginCmd.accesskey      "a">
 <!ENTITY hidePluginCmd.label          "Paslēpt šo spraudni">
 <!ENTITY hidePluginCmd.accesskey      "p">
