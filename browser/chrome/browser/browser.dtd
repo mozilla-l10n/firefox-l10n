@@ -455,6 +455,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Cun tun">
 <!ENTITY mediaUnmute.accesskey       "C">
+<!ENTITY mediaPlaybackRate.label     "Tempo da far ir">
+<!ENTITY mediaPlaybackRate.accesskey "m">
+<!ENTITY mediaPlaybackRate050x.label "Sveltezza bassa (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "p">
+<!ENTITY mediaPlaybackRate100x.label "Sveltezza normala">
+<!ENTITY mediaPlaybackRate100x.accesskey "n">
+<!ENTITY mediaPlaybackRate150x.label "Sveltezza auta (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "a">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Sveltezza immensa (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "i">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -612,6 +625,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Mussar la trav laterala">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
+<!ENTITY social.addons.label "Administrar servertschs…">
+
 <!ENTITY social.toggleNotifications.label "Mussar avis sin il desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -632,3 +647,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Dapli infurmaziuns">
 <!ENTITY mixedContentBlocked.moreinfo "La pli gronda part da las paginas d'internet vegnan era a funcziunar sche quest cuntegn vegn bloccà.">
+
+<!ENTITY pointerLock.notification.message "Smatga ESC per mussar puspè quai messadi.">
