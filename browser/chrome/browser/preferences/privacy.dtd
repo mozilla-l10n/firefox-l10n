@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.label        "Acceptar ils cookies da terzas partidas">
-<!ENTITY  acceptThirdParty.accesskey    "k">
+<!ENTITY  acceptThirdParty.pre.label      "Lubir cookies da terz:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Adina">
+<!ENTITY  acceptThirdParty.never.label    "Mai">
+<!ENTITY  acceptThirdParty.visited.label  "Da visitads">
 
 <!ENTITY  keepUntil.label               "Memorisar fin che:">
 <!ENTITY  keepUntil.accesskey           "M">

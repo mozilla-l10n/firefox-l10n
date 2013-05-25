@@ -67,6 +67,7 @@
 <!ENTITY  permGeo               "Trametter mia posiziun geografica">
 <!ENTITY  permPlugins           "Activar ils plug-ins">
 <!ENTITY  permFullscreen        "Entrar en il modus da maletg entir">
+<!ENTITY  permPointerLock       "Zuppentar il cursur da la mieur">
 
 <!ENTITY  permIndexedDB              "Preservar ina memoria offline">
 <!ENTITY  permClearStorage           "Stizzar la memoria">
