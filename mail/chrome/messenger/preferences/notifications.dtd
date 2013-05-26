@@ -6,8 +6,11 @@
 <!ENTITY window.width "30em">
 <!ENTITY alertCustomization.intro "Scegliere quali campi mostrare nell'avviso:">
 <!ENTITY previewText.label "Testo anteprima messaggio">
-<!ENTITY previewText.accesskey "M">
+<!ENTITY previewText.accesskey "T">
 <!ENTITY subject.label "Oggetto">
 <!ENTITY subject.accesskey "O">
 <!ENTITY sender.label "Mittente">
 <!ENTITY sender.accesskey "e">
+<!ENTITY totalOpenTimeBefore.label "Mostra una notifica di nuova mail per ">
+<!ENTITY totalOpenTimeBefore.accesskey "M">
+<!ENTITY totalOpenTimeEnd.label "secondi">
