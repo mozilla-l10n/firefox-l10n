@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Last bilde">
 <!ENTITY  permPopup             "Opne sprettoppvindauge">
 <!ENTITY  permCookie            "Still inn infokapslar">
+<!ENTITY  permNotifications     "Vis varsel">
 <!ENTITY  permInstall           "Installer utvidingar eller tema">
 <!ENTITY  permGeo               "Tillat vising av stad">
 <!ENTITY  permPlugins           "Aktiver programtillegg">
 <!ENTITY  permFullscreen        "Opne fullskjerm">
+<!ENTITY  permPointerLock       "Skjul musepeikaren">
 
 <!ENTITY  permIndexedDB              "Behandle fråkopla lager">
 <!ENTITY  permClearStorage           "Tøm lager">
