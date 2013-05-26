@@ -9,6 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Consola web">
+<!ENTITY browserConsole.title "Consola do navegador">
 
 <!ENTITY networkPanel.requestURLColon             "Pedido do URL">
 <!ENTITY networkPanel.requestMethodColon          "Método do pedido">
@@ -58,11 +59,11 @@
 <!ENTITY btnConsoleErrors       "Erros">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Avisos">
-<!ENTITY btnConsoleLog          "Log">
+<!ENTITY btnConsoleLog          "Registo">
 
-<!ENTITY filterBox.placeholder "Filtro">
-<!ENTITY btnClear.label        "limpar">
-<!ENTITY btnClear.tooltip      "limpar a saída da consola web">
+<!ENTITY filterOutput.placeholder "Filtrar saída">
+<!ENTITY btnClear.label        "Limpar">
+<!ENTITY btnClear.tooltip      "Limpar a saída da consola web">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
@@ -76,3 +77,5 @@
 
 <!ENTITY copyURLCmd.label     "Copiar localização da ligação">
 <!ENTITY copyURLCmd.accesskey "a">
+
+<!ENTITY closeCmd.key  "W">
