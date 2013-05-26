@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Systemintegrasjon">
 <!ENTITY acceptIntegration.label  "Vel som standard">
 <!ENTITY cancelIntegration.label  "Hopp over integrasjon">
+<!ENTITY cancelIntegration2.label  "Avbryt">
 <!ENTITY defaultClient.intro  "Bruk &brandShortName; som standardprogram for:">
 
 <!ENTITY email.label "E-post">
