@@ -21,7 +21,7 @@
 <!ENTITY pageSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printCmd.label "Estampar...">
+<!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY closeCmd.label "Tampar">

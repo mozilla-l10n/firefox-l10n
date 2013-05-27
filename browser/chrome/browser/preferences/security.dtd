@@ -24,8 +24,8 @@
 
 <!ENTITY  passwords.label               "Senhal">
 
-<!ENTITY  rememberPasswords.label       "Memorizar los senhals dels sits">
-<!ENTITY  rememberPasswords.accesskey   "M">
+<!ENTITY  rememberPasswords.label       "Enregistrar los senhals">
+<!ENTITY  rememberPasswords.accesskey   "s">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
