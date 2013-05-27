@@ -111,7 +111,7 @@ size. -->
 <!ENTITY pref_private_data_passwords "Zapamiętane hasła">
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
-<!ENTITY pref_private_data_siteSettings "Ustawienia witryny">
+<!ENTITY pref_private_data_siteSettings2 "Ustawienia witryny">
 <!ENTITY pref_private_data_downloadFiles "Pobrane pliki">
 
 <!ENTITY pref_update_autodownload "Automatyczne aktualizacje">

@@ -6,7 +6,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Aktualizacja">
 <!ENTITY aboutPage.checkForUpdates.checking     "Poszukiwanie aktualizacji">
 <!ENTITY aboutPage.checkForUpdates.none         "Brak aktualizacji">
-<!ENTITY aboutPage.checkForUpdates.found        "Znaleziono aktualizację">
+<!ENTITY aboutPage.checkForUpdates.available    "Dostępna aktualizacja; kliknij, aby pobrać">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Pobieranie aktualizacji…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Pobrano aktualizację; kliknij, aby zainstalować">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Pomoc">
 <!ENTITY aboutPage.privacyPolicy.label          "Polityka prywatności">
