@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Satu plugin diperlukan untuk memaparkan kandungan ini.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Klik sini untuk mengaktifkan plugin.">
-<!ENTITY clickToPlayPlugin                                   "Klik di sini untuk mengaktifkan plugin.">
+<!ENTITY clickToActivatePlugin                               "Aktifkan plugin.">
 <!ENTITY checkForUpdates                                     "Semak untuk kemaskini">
 <!ENTITY disabledPlugin                                      "Plugin ini telah dilumpuhkan.">
 <!ENTITY blockedPlugin.label                                 "Plugin ini telah disekat untuk perlindungan anda.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Laporan kemalangan dimatikan.">
 <!ENTITY report.failed                                       "Penghantaran gagal.">
 <!ENTITY report.unavailable                                  "Tiada laporan yang tersedia.">
+<!ENTITY report.comment                                      "Tambah komen (semua komen boleh dilihat oleh umum)">
+<!ENTITY report.pageURL                                      "Termasuk URL laman">
 
 <!ENTITY plugin.file                                         "Fail">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.mimeTypes                                    "Jenis MIME">

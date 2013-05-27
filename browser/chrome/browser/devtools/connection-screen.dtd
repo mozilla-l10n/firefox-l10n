@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
+
+<!ENTITY title      "Sambung">
+<!ENTITY header     "Sambung ke peranti jauh">
+<!ENTITY host       "Hos:">
+<!ENTITY port       "liang:">
+<!ENTITY connect    "Sambung">
+<!ENTITY connecting "Sedang Menyambung...">
+<!ENTITY availableTabs "Tab jauh yang tersedia:">
+<!ENTITY availableProcesses "Proses jauh yang tersedia:">
+<!ENTITY connectionError "Ralat:">
+<!ENTITY errorTimeout "Ralat: masa sambungan tamat.">
+<!ENTITY errorRefused "Ralat: sambungan ditolak.">
+<!ENTITY errorUnexpected "Ralat tak terduga.">
+<!ENTITY help "Alat Pembangun Firefox mampu menyahpepijat peranti jauh (misalnya Firefox untuk Android dan Firefox OS). Pastikan anda telah hidupkan pilihan 'Penyahpepijatan jauh' pada peranti jauh. Lihat <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>dokumentasi</a> untuk selanjutnya.">

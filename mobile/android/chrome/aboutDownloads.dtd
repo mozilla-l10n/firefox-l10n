@@ -5,3 +5,11 @@
 <!ENTITY aboutDownloads.title                      "Downloads">
 <!ENTITY aboutDownloads.header                     "Your Downloads">
 <!ENTITY aboutDownloads.empty                      "No Downloads">
+
+<!ENTITY aboutDownloads.open                       "Buka">
+<!ENTITY aboutDownloads.remove                     "Padam">
+<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.pause                      "Jeda">
+<!ENTITY aboutDownloads.resume                     "Sambung">
+<!ENTITY aboutDownloads.cancel                     "Batal">
+<!ENTITY aboutDownloads.retry                      "Cuba semula">

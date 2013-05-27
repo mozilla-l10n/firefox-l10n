@@ -6,7 +6,7 @@
 <!ENTITY testpilot.settings.label                   "Tetapan">
 <!ENTITY testpilot.settings.dataSubmission.label    "Penyerahan Data">
 <!ENTITY testpilot.settings.notifications.label     "Pemberitahuan">
-<!ENTITY testpilot.settings.notifyWhen.label        "Memberitahu saya apabila...">
+<!ENTITY testpilot.settings.notifyWhen.label        "Beritahu saya apabila…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Satu kajian telah sedia untuk dikemukakan">
 <!ENTITY testpilot.settings.newStudy.label          "Terdapat satu kajian yang baru">
 <!ENTITY testpilot.settings.hasNewResults.label     "Satu kajian yang mempunyai kesan baru">
@@ -20,7 +20,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Kajian Yang Diselesaikan">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Dapatan Dari Kajian">
 <!ENTITY testpilot.studiesWindow.settings.label         "Tetapan">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Muat,sila tunggu...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Memuat, sila tunggu…">
 <!-- raw data dialog -->
 
 <!ENTITY testpilot.rawDataWindow.title                  "Ujian Percubaan: Data Mentah">
@@ -31,7 +31,7 @@
 
 <!ENTITY testpilot.enable.label                        "Pasangkan Kajian Pengguna">
 <!ENTITY testpilot.feedbackbutton.label                "Maklumbalas">
-<!ENTITY testpilot.happy.label        "Firefox Mengembirakan Saya Kerana...">
-<!ENTITY testpilot.sad.label          "Firefox Menyedihkan Saya Kerana...">
-<!ENTITY testpilot.broken.label      "Melaporkan laman web ini sebagai laman yang rosak">
-<!ENTITY testpilot.idea.label        "Berikan kami satu cadangan...">
+<!ENTITY testpilot.happy.label        "Firefox Mengembirakan Saya Kerana…">
+<!ENTITY testpilot.sad.label          "Firefox Menyedihkan Saya Kerana…">
+<!ENTITY testpilot.broken.label      "Melaporkan laman web ini sebagai laman yang rosak…">
+<!ENTITY testpilot.idea.label        "Berikan kami satu cadangan…">

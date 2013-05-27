@@ -17,9 +17,9 @@
 <!ENTITY manageAccount.label          "Pengurusan akaun">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Papar Kuota">
-<!ENTITY changePassword2.label        "Menukar Katalaluan">
+<!ENTITY changePassword2.label        "Menukar Katalaluan…">
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
-<!ENTITY resetSync2.label             "Melaras semula Sync">
+<!ENTITY resetSync2.label             "Melaras semula Sync…">
 
 <!ENTITY pairDevice.label             "Memasangkan Peranti">
 

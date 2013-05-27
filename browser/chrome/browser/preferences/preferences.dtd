@@ -15,11 +15,11 @@
 <!ENTITY  paneTabs.title          "Tab-tab">
 <!ENTITY  paneContent.title       "Kandungan">
 <!ENTITY  paneApplications.title  "Aplikasi">
-<!ENTITY  panePrivacy.title       "Peribadi">
-<!ENTITY  paneSecurity.title      "Sekuriti">
+<!ENTITY  panePrivacy.title       "Perivasi">
+<!ENTITY  paneSecurity.title      "Keselamatan">
 <!ENTITY  paneAdvanced.title      "Lanjutan">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sync">
-<!ENTITY  buttonForward.tooltip   "Pergi Maju hadapan laman selepas">
+<!ENTITY  buttonForward.tooltip   "Maju ke depan satu laman">
 <!ENTITY  buttonBack.tooltip      "Pergi kembali laman sebelum">

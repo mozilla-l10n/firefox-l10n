@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat menyambung ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
@@ -41,7 +41,7 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Alamat Web biasanya ditulis seperti 
 <strong>http://www.example.com/</strong></li> 
-<li>Pstikan yang anda menggunakan slash (cth. 
+<li>Pastikan yang anda menggunakan slash (cth. 
 <strong>/</strong>).</li> 
 </ul>">
 
@@ -52,11 +52,11 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak berada di dalam &brandShortName;'s cache.</p><ul><li>Sebagai satu keselamatan berjaga-jaga, &brandShortName;tidak akan diminta kembali dokumen sensitif.</li><li>Tekan Cuba Sekali Lagi untuk meminta dokumen daripada laman web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod luat talian">
-<!ENTITY netOffline.longDesc2 "<ul>
-<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Tekan &quot;Try Again&quot; untuk menukar kepada mod dalam talian dan muat kembali laman.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "mengandungi masalah pengekodan">
+<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> 
 </ul>">
@@ -74,7 +74,8 @@ pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 
 <!ENTITY protocolNotFound.title "Alamat tidak difahami">
 <!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li>  </ul>">
+<li>Anda mungkin perlu mamasang perisian lain untuk membuka alamat ini.</li> 
+  </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menilak sambungan">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -104,13 +105,13 @@ Sekuriti Peribadi yang terpasang.</li>
 <li>Ini mungkin disebabkan konfigurasi bukan-piawai pada pelayan.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "penyambungan keselamatan telah gagal">
+<!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Laman yang anda cuba paparkan tidak dapat ditunjukkan kerana kesahihan data yang diterima tidak dapat disahkan.</li> 
 <li>Sila hubungi pemilik-pemilik lamanweb untuk memaklumkan masalah ini. Alternatifnya adalah dengan menggunakan arahan yang boleh dijumpai pada menu bantuan untuk melaporkan laman bermasalah ini.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "penyambungan keselamatan telah gagal">
+<!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Ini mungkin masalah konfigurasi server, atau 
  seseorang cuba meniru jadi server.</li> 
@@ -144,7 +145,7 @@ yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya daripada sini!">
-<!ENTITY securityOverride.exceptionButtonLabel "Tambah Kecuali">
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

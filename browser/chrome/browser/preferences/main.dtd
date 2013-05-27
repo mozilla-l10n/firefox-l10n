@@ -6,8 +6,8 @@
 
 <!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
 <!ENTITY startupPage.accesskey     "m">
-<!ENTITY startupHomePage.label     "tunjukan laman utama saya">
-<!ENTITY startupBlankPage.label    "tunjukan laman yang kosong">
+<!ENTITY startupHomePage.label     "Paparkan laman utama saya">
+<!ENTITY startupBlankPage.label    "Paparkan laman kosong">
 <!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
 
 <!ENTITY homepage.label            "Laman Utama:">
@@ -15,9 +15,9 @@
 <!ENTITY useCurrentPage.label      "Guna Laman Semasa">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Gunakan Laman Semasa">
-<!ENTITY chooseBookmark.label      "Guna Penandabuku">
+<!ENTITY chooseBookmark.label      "Guna Penandabuku…">
 <!ENTITY chooseBookmark.accesskey  "b">
-<!ENTITY restoreDefault.label      "Kembalikan kepada Default">
+<!ENTITY restoreDefault.label      "Kembalikan kepada asal">
 <!ENTITY restoreDefault.accesskey  "K">
 
 <!ENTITY downloads.label     "Muat Turun">
@@ -28,9 +28,9 @@
 <!ENTITY closeWhenDone.accesskey "a">
 <!ENTITY saveTo.label "Simpan fail ke">
 <!ENTITY saveTo.accesskey "f">
-<!ENTITY chooseFolderWin.label        "Lungsur...">
+<!ENTITY chooseFolderWin.label        "Lungsur…">
 <!ENTITY chooseFolderWin.accesskey    "L">
-<!ENTITY chooseFolderMac.label        "Pilih...">
+<!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">

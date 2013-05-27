@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label "tunjukan saya bagaimana.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label "Saya tidak\ mempunyai alat tersebut pada saya…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -68,7 +68,7 @@
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Batal">
-<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.connect.label "Sambung">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
@@ -83,6 +83,8 @@
 <!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
 <!ENTITY bookmarks.folder.mobile.label "Penandabuku mudah alih">
 <!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>

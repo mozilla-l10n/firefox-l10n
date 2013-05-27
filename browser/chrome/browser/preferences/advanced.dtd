@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Umum">
 
-<!ENTITY accessibility.label             "akses">
+<!ENTITY accessibility.label             "Kebolehcapaian">
 
 <!ENTITY useCursorNavigation.label       "Sentiasa guna kunci kursor untuk melayari dalam laman">
 <!ENTITY useCursorNavigation.accesskey   "k">
@@ -33,20 +33,36 @@
 <!ENTITY setDefault.label                "Membuat &brandShortName; ke pelayar lalai">
 <!ENTITY setDefault.accesskey            "p">
 <!ENTITY isDefault.label                 "&brandShortName; pelayar lalai anda">
-<!ENTITY submitCrashes.label             "Hantar laporan-laporan nahas">
-<!ENTITY submitCrashes.accesskey         "s">
-<!ENTITY submitTelemetry.label           "Hantarkan Prestasi Data">
-<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY dataChoicesTab.label            "Pilihan Data">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Laporan Kesihatan">
+<!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar anda dan kongsi data dengan &vendorShortName; berkaitan kesihatan pelayar anda">
+<!ENTITY enableHealthReport.label        "Hidupkan &brandShortName; Laporan Kesihatan">
+<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY healthReportLearnMore.label     "Ketahui Lebih Lanjut">
+
+<!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
+<!ENTITY enableTelemetry.label           "Hidupkan Telemetri">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Ketahui Lebih Lanjut">
+
+<!ENTITY crashReporterSection.label      "Pelapor nahas">
+<!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
+<!ENTITY enableCrashReporter.label       "Hidupkan Pelapor Ranap">
+<!ENTITY enableCrashReporter.accesskey   "R">
+<!ENTITY crashReporterLearnMore.label    "Ketahui Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Rangkaian">
 
 <!ENTITY connection.label                "Sambungan">
 
 <!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
-<!ENTITY connectionSettings.label        "Ubah suai">
+<!ENTITY connectionSettings.label        "Ubah suai…">
 <!ENTITY connectionSettings.accesskey    "b">
 
-<!ENTITY httpCache.label                 "Cached Kandungan Web ">
+<!ENTITY httpCache.label                 "Cached Kandungan Web">
 
 <!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
 <!-- LOCALIZATION NOTE:
@@ -91,7 +107,7 @@
 
 <!ENTITY offlineNotify.label             "Beritahu saya apabila laman ini menanyakan untuk simpan data ke kegunaan luar talian">
 <!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Pengecualian...">
+<!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
 <!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk penggunaan luar talian:">
@@ -117,7 +133,7 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewCRLs.label                  "Senarai TarikBalik">
 <!ENTITY viewCRLs.accesskey              "r">
-<!ENTITY verify2.label                   "tempoh masa sabelum masa tamat">
-<!ENTITY verify2.accesskey               "t">
+<!ENTITY verify2.label                   "Pengesahan">
+<!ENTITY verify2.accesskey               "P">
 <!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
 <!ENTITY viewSecurityDevices.accesskey   "e">
