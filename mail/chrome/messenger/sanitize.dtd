@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Configurações para limpeza de dados de navegação">
 <!ENTITY sanitizeDialog2.title         "Limpar dados de navegação">
-
-<!ENTITY sanitizeItems.label          "Limpar os seguintes itens agora:">
-<!ENTITY clearDataSettings2.label     "Ao sair do &brandShortName;, limpar completamente:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -21,8 +17,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Data da visita">
-<!ENTITY clearTimeDuration.nameColumn     "Nome">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -30,12 +24,6 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detalhes">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
-<!ENTITY historySection.label         "Histórico">
-<!ENTITY dataSection.label            "Dados">
-
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
@@ -44,7 +32,6 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Este comando não pode ser desfeito.">
+<!ENTITY sanitizeEverythingUndoWarning     "Essa ação não pode ser desfeita.">
 
 <!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">
