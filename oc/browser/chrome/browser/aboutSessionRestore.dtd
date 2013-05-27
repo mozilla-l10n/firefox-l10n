@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Restaurar la sesilha">
+<!ENTITY restorepage.tabtitle       "Restablir la sesilha">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
@@ -12,12 +12,12 @@
 <!ENTITY restorepage.restoreSome    "levar un onglet (o mai) que poiriá causar lo problèma a vòstre vejaire">
 <!ENTITY restorepage.startNew       "aviar una sesilha de navigacion novèla">
 
-<!ENTITY restorepage.tryagainButton "Restaurar">
+<!ENTITY restorepage.tryagainButton "Restablir">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Tampar">
 <!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "Restaurar">
+<!ENTITY restorepage.restoreHeader  "Restablir">
 <!ENTITY restorepage.listHeader     "Fenèstras e onglets">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Fenèstra &#037;S">

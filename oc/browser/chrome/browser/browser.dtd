@@ -58,7 +58,7 @@ can reach it easily. -->
 <!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printCmd.label "Estampar...">
+<!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
@@ -259,15 +259,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.label            "Tornar far">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
-<!ENTITY cutCmd.label           "Copar">  
+<!ENTITY cutCmd.label           "Talhar">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "p"> 
+<!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copiar">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "Empegar">  
+<!ENTITY pasteCmd.label           "Pegar">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "p"> 
+<!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Suprimir">  
 <!ENTITY deleteCmd.key            "S">  
 <!ENTITY deleteCmd.accesskey        "S"> 
@@ -456,6 +456,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "c">
 <!ENTITY mediaUnmute.label           "Sonòr">
 <!ENTITY mediaUnmute.accesskey       "S">
+<!ENTITY mediaPlaybackRate.label     "Play Speed">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "S">
+<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -498,8 +511,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom tèxt solament">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
+<!ENTITY fullZoomToggleCmd.label        "Zoom tèxte solament">
+<!ENTITY fullZoomToggleCmd.accesskey    "x">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -509,7 +522,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY cutButton.tooltip              "Talhar">
 <!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Empegar">
+<!ENTITY pasteButton.tooltip            "Pegar">
 
 <!ENTITY fullScreenButton.tooltip       "Visualizar la fenèstra en ecran complet">
 
@@ -550,8 +563,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Modificar lo sens de la pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Modificar lo sens del tèxt">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "c">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar lo sens del tèxte">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Recercar dins la pagina...">
@@ -613,6 +626,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Afichar lo panèl lateral">
 <!ENTITY social.toggleSidebar.accesskey "A">
 
+<!ENTITY social.addons.label "Manage Services…">
+
 <!ENTITY social.toggleNotifications.label "Afichar las notificacions sul burèu">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
@@ -633,3 +648,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Ne saber mai…">
 <!ENTITY mixedContentBlocked.moreinfo "La màger part dels sites web contunharàn de foncionar corrèctament quitament se aqueste contengut es blocat.">
+
+<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">

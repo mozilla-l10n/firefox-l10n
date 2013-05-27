@@ -88,7 +88,7 @@
 <!ENTITY createCertInfo.msg2 "Esperatz...">
 <!-- Form Signing confirmation prompt -->
 
-<!ENTITY formSigning.title "Requèsta de signatura de tèxt">
+<!ENTITY formSigning.title "Requèsta de signatura de tèxte">
 <!ENTITY formSigning.cert "Certificat de signatura">
 <!ENTITY formSigning.confirmPassword "Per confirmar qu'acceptatz de signar aqueste messatge amb lo certificat seleccionat, picatz lo senhal principal :">
 <!-- Strings for protectedAuth dialog -->
