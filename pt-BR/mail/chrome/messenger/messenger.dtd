@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Abrir arquivo de mensagem…">
 <!ENTITY openMessageFileCmd.accesskey "b">
-<!ENTITY openAttachmentCmd.label "Anexos">
-<!ENTITY openAttachmentCmd.accesskey "x">
 <!ENTITY saveAsMenu.label "Salvar como">
 <!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Arquivo…">
@@ -423,13 +421,15 @@
 <!ENTITY recalculateJunkScoreCmd.label "Aplicar antispam">
 <!ENTITY recalculateJunkScoreCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
-<!ENTITY openMessageWindowCmd.accesskey "b">
+<!ENTITY openMessageWindowCmd.accesskey "B">
 <!ENTITY openMessageWindowCmd.key "O">
 <!ENTITY openConversationCmd.label "Abrir como conversa">
-<!ENTITY openConversationCmd.accesskey "r">
+<!ENTITY openConversationCmd.accesskey "R">
 <!ENTITY openConversationCmd.key "O">
+<!ENTITY openAttachmentListCmd.label "Anexos">
+<!ENTITY openAttachmentListCmd.accesskey "X">
 <!ENTITY openFeedMessage1.label "Ao abrir mensagens RSS">
-<!ENTITY openFeedMessage1.accesskey "b">
+<!ENTITY openFeedMessage1.accesskey "B">
 <!ENTITY openFeedWebPage.label "Abrir como página web">
 <!ENTITY openFeedWebPage.accesskey "P">
 <!ENTITY openFeedSummary.label "Abrir resumo">
