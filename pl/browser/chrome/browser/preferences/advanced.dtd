@@ -42,7 +42,7 @@
 <!ENTITY healthReportLearnMore.label     "Więcej informacji">
 
 <!ENTITY telemetrySection.label          "Telemetria">
-<!ENTITY telemetryDesc.label             "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
+<!ENTITY telemetryDesc.label             "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
 <!ENTITY enableTelemetry.label           "Włącz telemetrię">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Więcej informacji">
