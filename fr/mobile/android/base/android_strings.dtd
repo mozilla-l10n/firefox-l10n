@@ -134,7 +134,7 @@ size. -->
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
 <!ENTITY datareporting_notification_action "Choisir ce que j\u0027envoie">
 <!ENTITY datareporting_notification_summary "Afin d\u0027améliorer votre navigation, &brandShortName; envoie automatiquement certaines informations à &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Afin d\u0027améliorer votre navigation, &brandShortName;…">
+<!ENTITY datareporting_notification_summary_short "Afin d\u0027améliorer votre navigation…">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
