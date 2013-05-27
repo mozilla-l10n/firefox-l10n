@@ -36,8 +36,8 @@
 
 <!ENTITY cmd.backup.label               "Sandar…">
 <!ENTITY cmd.backup.accesskey           "S">
-<!ENTITY cmd.restore2.label             "Simpan Semula">
-<!ENTITY cmd.restore2.accesskey         "S">
+<!ENTITY cmd.restore2.label             "Pulih">
+<!ENTITY cmd.restore2.accesskey         "P">
 <!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
 <!ENTITY cmd.restoreFromFile.accesskey  "P">
 

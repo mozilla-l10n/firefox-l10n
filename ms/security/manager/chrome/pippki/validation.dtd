@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  validation.crlmanager.label             "Urus CRLs">
-<!ENTITY  validation.crlmanager.description       "Certificate Revocation Lists (CRL) telah disimpan dalam database sijil anda. ">
+<!ENTITY  validation.crlmanager.description       "Certificate Revocation Lists (CRL) telah disimpan dalam database sijil anda:">
 <!ENTITY  validation.crlname.label                "Nama">
 <!ENTITY  validation.crllastupdate.label          "Pengemaskinian terakhir">
 <!ENTITY  validation.crlnextupdate.label          "Pengemaskinian berikutnya">
@@ -16,7 +16,7 @@
 <!ENTITY  validation.advanced.label               "Tetapan">
 <!ENTITY  validation.advanced.accesskey           "T">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
+<!ENTITY  validation.crl.autoupdate.title         "Keutamaan Kemas Kini CRL Automatik">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Bolehkan Kemas kini Automatik bagi CRL ini">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Kemaskini">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Hari sebelum tarikh Pengemaskinian Berikutnya">
@@ -24,11 +24,11 @@
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Hari">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL akan diimport dari:">
 <!ENTITY  crl.import.status.title                 "Status Import CRL">
-<!ENTITY  crl.import.success.message              "Certificate Revocation List (CRL) telah diimport dengan berjaya. ">
+<!ENTITY  crl.import.success.message              "Certificate Revocation List (CRL) telah diimport dengan berjaya.">
 <!ENTITY  crl.issuer.label                        "CRL Dikeluarkan Oleh:">
-<!ENTITY  crl.issuer.org.label                    "Organisasi :">
+<!ENTITY  crl.issuer.org.label                    "Organisasi: ">
 <!ENTITY  crl.issuer.orgunit.label                "Unit: ">
 <!ENTITY  crl.import.nextupdate.label             "Kemaskini Seterusnya Pada: ">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Kegagalan Kemaskini Berturut-turut sebelumnya:">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Perincian mengenai Kegagalan Kemaskini Terakhir :">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Kegagalan Kemaskini Berturut-turut sebelumnya: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Perincian mengenai Kegagalan Kemaskini Terakhir: ">
 <!ENTITY  edit.button                             "Tetapan">

@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Anda ditanya  &brandShortName; untuk disambung 
- secara selamat ke to <b>#1</b>, tapi kami tidak boleh mengesahkan yang sambungan ialah selamat.">
+<!ENTITY certerror.introPara1 "Anda ditanya &brandShortName; untuk disambung 
+ secara selamat ke <b>#1</b>, tapi kami tidak boleh mengesahkan yang sambungan adalah selamat.">
 <!ENTITY certerror.introPara2 "Kebiasaan, bila anda mencuba untuk sambung secara selamat, 
  laman akan menunjuk identifikasi untuk membuktikan anda 
  ke tempat yang betul. Walau Bagaimana, identiti laman ini tidak dapat disahkan.">
@@ -30,10 +30,10 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "Saya faham akan risiko ini">
 <!ENTITY certerror.expert.content "Jika anda faham dengan apa yang berlaku, anda 
  boleh beritahu &brandShortName; untuk mula mempercayai identifikasi laman ini. 
- <b> Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang 
+ <b>Biarpun jika anda mempercayai laman ini, masalah ini bermaksud ada seseorang 
  mengganggu sambungan anda.</b>">
-<!ENTITY certerror.expert.contentPara2 "Jangan tambah satu kecuali melainkan 
- anda tahu ada alasan munasabah kenapa laman tidak boleh guna identifikasi yang dipercayai.">
-<!ENTITY certerror.addException.label "Tambah Kecuali">
+<!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian melainkan 
+ anda tahu ada alasan munasabah mengapa laman tidak boleh guna identifikasi yang dipercayai.">
+<!ENTITY certerror.addException.label "Tambah Pengecualian…">
 
 <!ENTITY certerror.technical.heading "Maklumat Teknikal">

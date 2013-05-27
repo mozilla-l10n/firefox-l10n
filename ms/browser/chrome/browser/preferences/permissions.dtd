@@ -11,7 +11,7 @@
 <!ENTITY removepermission.accesskey   "S">
 <!ENTITY removeallpermissions.label   "Singkir Semua Laman">
 <!ENTITY removeallpermissions.accesskey "i">
-<!ENTITY address.label                "Alamat laman web :">
+<!ENTITY address.label                "Alamat laman web:">
 <!ENTITY address.accesskey            "l">
 <!ENTITY block.label                  "Halang">
 <!ENTITY block.accesskey              "H">

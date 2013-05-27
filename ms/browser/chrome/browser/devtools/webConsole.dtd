@@ -14,19 +14,19 @@
 <!ENTITY networkPanel.requestMethodColon          "Kaedah Permintaan :">
 <!ENTITY networkPanel.statusCodeColon             "Status Kod :">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
+<!ENTITY networkPanel.requestHeaders              "Permintaan Pengepala">
 <!ENTITY networkPanel.requestCookie               "Penghantaran Cookie">
 <!ENTITY networkPanel.requestBody                 "Permintaan Kandungan">
 <!ENTITY networkPanel.requestFormData             "Penghantaran Bentuk Data">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
+<!ENTITY networkPanel.responseHeaders             "Pengepala Sambutan">
 <!ENTITY networkPanel.responseCookie              "Cookie diterima">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
+<!ENTITY networkPanel.responseBody                "Badan Respon ">
+<!ENTITY networkPanel.responseBodyCached          "Data Cache">
 <!ENTITY networkPanel.responseBodyUnknownType     "Jenis Kandungan tidak diketahui">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
+<!ENTITY networkPanel.responseNoBody              "Tiada Respon Body">
 <!ENTITY networkPanel.responseImage               "Imej yang diterima">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseImageCached         "Imej Cache">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -53,37 +53,16 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
+<!ENTITY btnPageLogging.label   "Pengelogan">
 <!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object">
 <!ENTITY btnConsoleErrors       "Ralat">
 <!ENTITY btnConsoleInfo         "Maklumat">
 <!ENTITY btnConsoleWarnings     "Amaran">
 <!ENTITY btnConsoleLog          "Log">
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-
-<!ENTITY btnPosition.label     "Posisi">
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-
-<!ENTITY btnPosition.tooltip   "Posisi Konsol Web di atas atau di bawah dokumen">
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-
-<!ENTITY positionMenu.above    "Atas">
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-
-<!ENTITY positionMenu.below    "Bawah">
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-
-<!ENTITY positionMenu.window   "Tetingkap">
 
 <!ENTITY filterBox.placeholder "Penapis">
 <!ENTITY btnClear.label        "Bersih">
 <!ENTITY btnClear.tooltip      "Bersihkan output Web Konsol">
-<!ENTITY btnClose.tooltip      "Tutup Web Konsol">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

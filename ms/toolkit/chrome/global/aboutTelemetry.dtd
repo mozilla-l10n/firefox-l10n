@@ -4,24 +4,19 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.pageSubtitle "  Laman ini menunjukkan kemampuan dan ciri-ciri boleh guna pada data yang diambil oleh Telemetry. 
-Informasi ini telah dihantar tidak dikenali kepada Mozilla untuk membantu penambahbaikan &brandShortName; . ">
-
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry ialah <span>dipasang</span> . ">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry telah <span>dipasang</span>.">
 
 <!ENTITY aboutTelemetry.telemetryDisabled "Telemetry ialah <span>dilumpuhkan</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection "Penyata SQL Lambat">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "Pelayar Tergantung">
 
 <!ENTITY aboutTelemetry.histogramsSection "Hikstogram">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
+
+<!ENTITY aboutTelemetry.lateWritesSection "Tulis Lewat">
 
 <!ENTITY aboutTelemetry.systemInfoSection "Sistem Informasi">
 

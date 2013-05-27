@@ -19,10 +19,10 @@
 <!ENTITY stats.volume "Isi Padu">
 <!ENTITY stats.channels "Saluran">
 <!ENTITY stats.sampleRate "Kadar Sampel">
-<!ENTITY stats.framesParsed "Frames parsed">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames presented">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.framesParsed "Bingkai dihuraikan">
+<!ENTITY stats.framesDecoded "Bingkai dilukis">
+<!ENTITY stats.framesPresented "Bingkai dilukis">
+<!ENTITY stats.framesPainted "Bingkai dilukis">
 
 <!ENTITY error.aborted "Video yang dimuatkan berhenti.">
 <!ENTITY error.network "Video ulangan digugurkan kerana kesalahan rangkaian.">
@@ -36,4 +36,4 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">
+<!ENTITY scrubberScale.nameFormat "#1 dari #2 berlalu">

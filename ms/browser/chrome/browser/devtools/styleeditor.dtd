@@ -26,23 +26,23 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">
 
-<!ENTITY visibilityToggle.tooltip   "Keterlihatan lembaran gaya Togol">
+<!ENTITY visibilityToggle.tooltip   " Togol keterlihatan lembaran gaya">
 <!ENTITY visibilityToggle.accesskey "V">
 
 <!ENTITY saveButton.label           "Simpan">
-<!ENTITY saveButton.tooltip         "simpan bentuk lembaran ke dalam fail">
+<!ENTITY saveButton.tooltip         "Simpan lembaran gaya ini ke dalam fail">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "S">
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->
 
-<!ENTITY scoped.label               "skop.">
+<!ENTITY scoped.label               "Terskop.">
 
 <!ENTITY editorTextbox.placeholder  "Taip CSS di sini.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 
-<!ENTITY noStyleSheet.label         "halaman ini tiada gaya lembaran.">
+<!ENTITY noStyleSheet.label         "Halaman ini tiada lembaran gaya.">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->

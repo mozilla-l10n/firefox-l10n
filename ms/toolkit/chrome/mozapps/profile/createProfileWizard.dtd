@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newprofile.title             "Wizard Mencipta Profil ">
+<!ENTITY newprofile.title             "Wizard Mencipta Profil">
 <!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "M">
 <!ENTITY profileDirectoryExplanation.text   "Tetapan pengguna anda, pilihan dan lain-lain yang berkaitan dengan data pengguna akan disimpan di dalam:">
 <!ENTITY profileDefaultName             "Pengguna Default">
-<!ENTITY button.choosefolder.label      "Pilih Folder...">
+<!ENTITY button.choosefolder.label      "Pilih Folder…">
 <!ENTITY button.choosefolder.accesskey  "P">
 <!ENTITY button.usedefault.label        "Guna Folder Default">
 <!ENTITY button.usedefault.accesskey    "u">

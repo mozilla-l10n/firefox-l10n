@@ -20,4 +20,4 @@
 <!ENTITY restorepage.restoreHeader  "Baik pulih">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Tetingkap &#37;S">
+<!ENTITY restorepage.windowLabel    "Tetingkap &#037;S">

@@ -2,27 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Melungsur Secara Peribadi">
+<!ENTITY privatebrowsingpage.title                 "Melayari Secara Peribadi">
 <!ENTITY privatebrowsingpage.title.normal          "Mahukah anda bermula dengan Pelungsuran Secara Peribadi?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; tidak akan menyimpan sejarah sesi ini.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; bukan di dalam mod Pelungsuran Peribadi.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; tidak akan menyimpan sejarah sesi ini.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Anda kini tidak berada di tetingkat privasi.">
 
-<!ENTITY privatebrowsingpage.description               "Di dalam sesi Pelungsuran Peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelungsur, sejarah carian, sejarah muaturun, sejarah borang web, atau fail-fail sementara internet. Bagaimanapun, fail-fail yang anda muaturun dan penandabuku-penandabuku yang anda buat akan disimpan.">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.perwindow.description     "Di dalam sesi Pelayaran Web Peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelayaran web, sejarah carian, sejarah muat turun, sejarah borang web, cookies, atau fail-fail sementara internet. Bagaimanapun, fail-fail yang anda muat turun dan penandabuku-penandabuku yang anda buat akan disimpan.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Anda mungkin juga ingin bermula dengan ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "Hapuskan latar semasa anda">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Mulakan Pelayaran Peribadi">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-
-<!ENTITY privatebrowsingpage.howToStop2                "Untuk berhenti melayari, pilih select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, atau tutup close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStart3               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Untuk menghentikan Pelayaran Peribadi, anda boleh menutup tetingkap ini.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
 <!ENTITY privatebrowsingpage.learnMore                 "Ketahui Lanjut">
