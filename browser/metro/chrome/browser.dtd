@@ -14,6 +14,9 @@
 <!ENTITY startBookmarksHeader.label "Bókamerki">
 <!ENTITY startHistoryHeader.label "Nýlegir ferlar">
 <!ENTITY startRemoteTabsHeader.label "Flipar frá öðrum tækjum">
+<!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
+     Needs to be two words or shorter to fit in narrow vertical space.-->
+<!ENTITY snappedRemoteTabsHeader.label "Fjarlægir flipar">
 <!ENTITY autocompleteResultsHeader.label "Þínar niðurstöður">
 <!ENTITY autocompleteSearchesHeader.label "Internet leitir">
  

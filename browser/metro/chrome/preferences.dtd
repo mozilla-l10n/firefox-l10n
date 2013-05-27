@@ -32,7 +32,13 @@
 <!ENTITY clearPrivateData.offline "Ónettengd vefgögn">
 <!ENTITY clearPrivateData.logins "Virkar innskráningar">
 <!ENTITY optionsHeader.privacy.passwords.label "Muna lykilorð">
-<!ENTITY optionsHeader.privacy.doNotTrack.title "Fylgjast með">
-<!ENTITY optionsHeader.privacy.doNotTrack.label "Segja vefsvæðum að fylgjast ekki með mér">
-<!-- ## Sync Flyout Panel ## -->
+<!ENTITY doNotTrack.title "Ekki fylgjast með">
+<!ENTITY doNotTrack.desc "Segja vefsvæðum:">
+<!ENTITY doNotTrack.options.trackingNotOkay "Ég vil ekki láta fylgjast með mér">
+<!ENTITY doNotTrack.options.noPreference "Ekkert um hvaða valkosti ég hef valið">
+<!ENTITY doNotTrack.options.trackingOkay "Ég vil láta fylgjast með mér">
+
+
+
+  <!-- ## Sync Flyout Panel ## -->
 <!-- see sync.dtd -->

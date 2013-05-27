@@ -3,14 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- flyout header -->
 <!ENTITY syncHeader.title "Samkeyra">
-<!ENTITY sync.notconnected "Ekki tengdur">
-<!ENTITY sync.connect "Tengjast">
-<!ENTITY sync.connected "Tengdur">
-<!ENTITY sync.deviceName "Þetta tæki">
-<!ENTITY sync.disconnect "Aftengja">
+<!-- not connected yet -->
+<!ENTITY sync.setup.description "Fá aðgang að bókamerkjum, lykilorðum, og opnum flipum frá öllum þínum tækjum">
+<!ENTITY sync.setupbutton.label "Setja upp Sync">
+<!-- sync now button -->
 <!ENTITY sync.syncNow2 "Samstilla núna">
-<!ENTITY sync.setup.title "Tengjast við Sync">
+<!-- device name text edit -->
+<!ENTITY sync.deviceName "Þetta tæki">
+<!-- remove this device button -->
+<!ENTITY sync.removebutton.label "Fjarlægja þetta tæki">
+<!ENTITY sync.removewarn.note "Vafragögn á þessu tæki verða óhreyfð, en þú mun ekki lengur geta samstillt gögn með þessum reikningi.">
+<!ENTITY sync.removethrobber.label "Fjarlægja tæki">
+<!ENTITY sync.setup2.title "Setja upp Sync">
 <!ENTITY sync.setup.pair2 "Til að virkja, veldu &#x0022;Para saman tæki&#x0022; á hinu tækinu.">
 <!ENTITY sync.fallback "Ég er ekki nálægt tölvunni…">
 <!ENTITY sync.setup.manual "Sláðu inn upplýsingar um Sync reikninginn þinn">
@@ -19,8 +25,9 @@
 <!ENTITY sync.recoveryKey "Endurheimtunarlykill">
 <!ENTITY sync.customServer "Nota sérsniðinn netþjón">
 <!ENTITY sync.serverURL "Slóð þjóns">
-<!ENTITY sync.setup.connect "Tengjast">
+<!ENTITY sync.setup.connect2 "Bæta við tæki">
 <!ENTITY sync.setup.cancel "Hætta við">
+<!ENTITY sync.setup.remove "Fjarlægja">
 <!ENTITY sync.setup.tutorial "Sýndu mér hvernig">
 <!ENTITY sync.setup.waiting2 "Bíð eftir tæki…">
 <!ENTITY sync.pair.title "Para saman tæki">
