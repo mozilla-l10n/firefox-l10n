@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "D">
 <!ENTITY checkSpelling.label             "Nivîsandina min wekî ku ez dinivîsim kontrol bike">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Ji malperên webê re bibêje ez naxwazim bibin parçeyek">
-<!ENTITY doNotTrack.accesskey            "J">
 
 <!ENTITY systemDefaults.label            "Ji bo pergalê ên standard">
 <!ENTITY alwaysCheckDefault.label        "Her tim kontrol bike ka &brandShortName; geroka standard e an na"><!--XXX-->
@@ -60,7 +58,7 @@
 
 <!ENTITY autoCheck.label                 "Pêvekan bixweber kontrol bike:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "f">
+<!ENTITY enableAppUpdate.accesskey       "b">
 <!ENTITY enableAddonsUpdate2.label       "Add-on">
 <!ENTITY enableAddonsUpdate2.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">

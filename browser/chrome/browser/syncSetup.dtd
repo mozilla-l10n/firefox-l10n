@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Ji bo garantîkirina hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîla ji bo vekirina şîfreya daneyên te nehat barkirin.">
 <!ENTITY syncKeyEntry.label        "Kilîla te ya Syncê">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Hilberîne">
+<!ENTITY syncGenerateNewKey.label  "Generate a new key">
 <!ENTITY syncKeyBackup.description "Li ser makîneyên din ji bo têketina &syncBrand.fullName.label;ê dê kilîla te ya Syncê pêwîst be. Tika ye kopiyekê hilîne. Ji bo şûndevegerandina Kilîla Syncê em nikarin alîkariya te bikin.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çapkirin…">

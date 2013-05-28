@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Rojanekirin tê daxistin — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Tu niha di kanala ">
+<!ENTITY channel.description.end    " rojanekirinê de yî.  ">
+
+<!ENTITY channel.change             "Biguherîne">
+
+<!ENTITY channel.release.description       "Kêfa weşana dawî ku ji hêla bi hezaran kesan ve hatiye ceribandin derxe. Bi leza super, takekeskirina hêsan û teknolojiyên dawî yên Webê cerebeya xwe ya girêdayî kontrol bike.">
+<!ENTITY channel.beta.description          "Bi hevgirtina zêdetir tayberiyên nû biceribîne. Ji bo weşaneke çêtir ramanên xwe ji me re bişîne.">
+<!ENTITY channel.aurora.description        "Bi guhertoya hevnegirtî ya ne ji bo dilên qels, taybetiyên nû biceribîne. Derbarê taybetî û performansê de ramanên xwe bişîne ku guhertoya dawî baş çêbe.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Derbasî">
+<!ENTITY channel.selector.end            "kanala rojanekirinê bibe.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Bisepîne û nû bike">
+<!ENTITY channel.selector.cancelButton   "Betal">
