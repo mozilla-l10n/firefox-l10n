@@ -7,11 +7,6 @@
 <!ENTITY popupExceptions.label "Výjimky…">
 <!ENTITY popupExceptions.accesskey "m">
 
-<!ENTITY loadImages.label "Načíst automaticky obrázky">
-<!ENTITY loadImages.accesskey "N">
-<!ENTITY exceptions.label "Výjimky…">
-<!ENTITY exceptions.accesskey "k">
-
 <!ENTITY enableJavaScript.label "Povolit JavaScript">
 <!ENTITY enableJavaScript.accesskey "S">
 <!ENTITY advancedJS.label "Rozšířené…">
