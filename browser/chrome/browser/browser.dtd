@@ -116,6 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Sdílet stránku">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "S">
+<!ENTITY shareLinkCmd.label "Sdíket odkaz">
+<!ENTITY shareLinkCmd.accesskey "S">
+<!ENTITY shareImageCmd.label "Sdílet obrázek">
+<!ENTITY shareImageCmd.accesskey "S">
+<!ENTITY shareSelectCmd.label "Sdílet výběr">
+<!ENTITY shareSelectCmd.accesskey "S">
+<!ENTITY shareVideoCmd.label "Sdílet video">
+<!ENTITY shareVideoCmd.accesskey "S">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
