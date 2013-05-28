@@ -1,6 +1,6 @@
 <!ENTITY  colorsDialog.title              "Reng">
 <!ENTITY  window.width                    "42em">
-<!ENTITY  window.macWidth                 "41em">
+<!ENTITY  window.macWidth                 "43em">
 
 <!ENTITY  allowPagesToUse.label           "Ji bilî yên ku min hilbijartine, destûrê bide malper ku rengên xwe bikar tînin.">
 <!ENTITY  allowPagesToUse.accesskey       "h">

@@ -14,10 +14,10 @@
                                            &brandShortName; çalak bike ku jixweber rojane bike.">
 
 <!ENTITY  manualUpdate.title              "Nikare Rojane bike">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
-                                           not have the system permissions required to install it. Please contact your
-                                           system administrator, or try again from an account that has permission to
-                                           install software on this computer.">
+<!ENTITY  manualUpdate.desc               "Rojanekirineke ewlekarî û hevgirtinê ya tê pêşniyarkirin heye, lê destûra
+                                           te ya pergalî tune ye ku wê saz bikî. Tika ye bi rêveberê pergala xwe re
+                                           bikeve têkiliyê an jî bi hesabekî bidestûr careke din sazkirina li ser vê
+                                           komputerê biceribîne.">
 <!ENTITY  manualUpdate.space.desc         "Rojanekirineke pêşniyarbûyî ya hevgirtinê heye, lê ji bo sazkirina wê têra xwe
                                            ciyê vala tune ye.">
 <!ENTITY  manualUpdateGetMsg.label        "Tu her dem dikarî guhertoya dawîn a &brandShortName;ê bistînî li:">

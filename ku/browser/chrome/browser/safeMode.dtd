@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; Moda Ewlekariyê">
-<!ENTITY window.width                 "37em">
+<!ENTITY window.width                 "42em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; vêga di moda ewlekariyê de tê xebitandin. Di vê modê de hemû mîhengên te yên taybet, tem û pêvekên te bêbandor in.">
 <!ENTITY safeModeDescription2.label   "Dikarî guhertinên li jêr çêkî:">

@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Şopandin">
+
+<!ENTITY doNotTrack.label               "Ji malperên webê re bibêje ez naxwazim bibin parçeyek">
+<!ENTITY doNotTrack.accesskey           "J">
+
 <!ENTITY  history.label                 "Mêjû">
 
 <!ENTITY  locationBar.label             "Qutîka Cî">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Çerezan Nîşan Bide">
 <!ENTITY  showCookies.accesskey         "n">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; dê:">
 <!ENTITY  historyHeader.pre.accesskey      "d">

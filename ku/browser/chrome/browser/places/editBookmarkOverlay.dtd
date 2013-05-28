@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "C">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Ciyê Malperê:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "C">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Serbavên Zindî">
 <!ENTITY editBookmarkOverlay.folder.label                    "Peldank:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Hemû peldankên bijareyan nîşan bide">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Veşêre">
