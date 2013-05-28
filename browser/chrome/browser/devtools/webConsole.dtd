@@ -9,6 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Webová konzola">
+<!ENTITY browserConsole.title "Konzola prohlížeče">
 
 <!ENTITY networkPanel.requestURLColon "URL požadavku:">
 <!ENTITY networkPanel.requestMethodColon "Metoda požadavku:">
@@ -76,3 +77,6 @@
 
 <!ENTITY copyURLCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyURLCmd.accesskey "K">
+
+<!ENTITY closeCmd.key  "W">
+
