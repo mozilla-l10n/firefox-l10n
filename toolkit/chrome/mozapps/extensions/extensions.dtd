@@ -96,7 +96,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip "Zásuvný modul bude vždy spuštěn">
 <!ENTITY cmd.neverActivate.label "Nespouštět">
 <!ENTITY cmd.neverActivate.tooltip "Zásuvný modul nebude nikdy spuštěn">
-<!ENTITY cmd.tristateMenu.tooltip "Změní, kdy je zásuvný modul spuštěn">
+<!ENTITY cmd.stateMenu.tooltip "Změní způsob spouštění zásuvného modulu">
 <!ENTITY cmd.installAddon.label "Instalovat">
 <!ENTITY cmd.installAddon.accesskey "I">
 <!ENTITY cmd.uninstallAddon.label "Odebrat">
