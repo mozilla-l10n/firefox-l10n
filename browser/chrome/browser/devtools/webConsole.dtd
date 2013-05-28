@@ -60,7 +60,7 @@
 <!ENTITY btnConsoleWarnings "Varování">
 <!ENTITY btnConsoleLog "Žurnál">
 
-<!ENTITY filterBox.placeholder "Filtr">
+<!ENTITY filterOutput.placeholder "Filter výstupu">
 <!ENTITY btnClear.label "Vymazat">
 <!ENTITY btnClear.tooltip "Vymaže obsah webové konzoly">
 
