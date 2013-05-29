@@ -552,6 +552,10 @@
 <!ENTITY compactButton.tooltip     "Porządkuj folder, aby wyczyścić pozostałości po usuniętych wiadomościach">
 <!ENTITY appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">
 
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Przekaż bezpośrednio">
+<!ENTITY buttonMenuForwardAsAttachment.label "Przekaż jako załącznik">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nowa wiadomość">
 <!ENTITY appmenuNewContactCmd.label "Dodaj kontakt do książki adresowej…">

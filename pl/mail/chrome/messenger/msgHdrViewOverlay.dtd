@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip  "Wyślij odpowiedź na listę dyskusyjną">
 <!ENTITY hdrFollowupButton1.label "Odpowiedz grupie">
 <!ENTITY hdrFollowupButton1.tooltip "Wyślij odpowiedź na grupę dyskusyjną">
+<!ENTITY hdrMenuForwardButton.label "Przekaż jako">
 <!ENTITY hdrForwardButton1.label      "Przekaż">
 <!ENTITY hdrForwardButton1.tooltip    "Przekaż tę wiadomość">
 <!ENTITY hdrJunkButton1.label         "Niechciana">
