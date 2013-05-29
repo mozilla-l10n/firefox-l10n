@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "استثناها…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
-<!ENTITY  loadImages.label            "بارگیری تصاویر به طور خودکار">
-<!ENTITY  loadImages.accesskey        "ت">
-<!ENTITY  exceptions.label            "استثناها…">
-<!ENTITY  exceptions.accesskey        "س">
-
-<!ENTITY  enableJavaScript.label      "فعال نمودن جاوا اسکریپت">
-<!ENTITY  enableJavaScript.accesskey  "ج">
-<!ENTITY  advancedJS.label            "پیشرفته…">
-<!ENTITY  advancedJS.accesskey        "پ">
-
-<!ENTITY  enableJava.label            "فعال نمودن جاوا">
-<!ENTITY  enableJava.accesskey        "ج">
-
-
 <!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 
 <!ENTITY  defaultFont.label           "قلم پیش‌فرض:">
