@@ -16,6 +16,7 @@
 
 
 
+<!ENTITY title                  "Box Model">
 <!ENTITY margins.tooltip        "हाशिया">
 <!ENTITY borders.tooltip        "किनार">
 <!ENTITY padding.tooltip        "पैडिंग">

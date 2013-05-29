@@ -33,10 +33,26 @@
 <!ENTITY setDefault.label                "&brandShortName; केँ तयशुदा ब्राउजर बनाबू (d)">
 <!ENTITY setDefault.accesskey            "d">
 <!ENTITY isDefault.label                 "&brandShortName; अखन अहाँक तयशुदा ब्राउजर अछि">
-<!ENTITY submitCrashes.label             "क्रैश रपट जमा करू">
-<!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "प्रदर्शन आंकड़ा सौंपू">
-<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "संजाल">
 
@@ -100,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "आफलाइन आँकड़ा हटाउ">
 
-<!ENTITY encryptionTab.label             "गोपन">
-
-<!ENTITY protocols.label                 "प्रोटोकाल">
-<!ENTITY useSSL3.label                   "SSL 3.0 क प्रयोग  करू ">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 क प्रयोग  करू ">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "प्रमाणपत्र">
+<!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certSelection.description       "जखन एकरा सर्वर हमर निज प्रमाणपत्र क आग्रह करैत अछि:">
 <!ENTITY certs.auto                      "कोनो एकरा स्वतः चुनू">
 <!ENTITY certs.auto.accesskey            "l">
