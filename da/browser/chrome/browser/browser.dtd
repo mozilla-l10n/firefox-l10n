@@ -114,8 +114,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Bogmærker">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "s">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Del denne side">
 <!ENTITY sharePageCmd.commandkey "D">
+<!ENTITY sharePageCmd.accesskey "d">
+<!ENTITY shareLinkCmd.label "Del dette link">
+<!ENTITY shareLinkCmd.accesskey "d">
+<!ENTITY shareImageCmd.label "Del dette billede">
+<!ENTITY shareImageCmd.accesskey "d">
+<!ENTITY shareSelectCmd.label "Del markering">
+<!ENTITY shareSelectCmd.accesskey "d">
+<!ENTITY shareVideoCmd.label "Del denne video">
+<!ENTITY shareVideoCmd.accesskey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
@@ -206,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Remote webkonsol">
+
+<!ENTITY browserConsoleCmd.label      "Browser-konsol">
 
 <!ENTITY inspectContextMenu.label     "Inspicér element">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -536,7 +549,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Afslut">
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac.label    "Afslut &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key      "Q">
 
 <!ENTITY closeCmd.label                 "Luk">
 <!ENTITY closeCmd.key                   "W">
@@ -630,8 +644,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Vis systembeskeder">
 <!ENTITY social.toggleNotifications.accesskey "s">
 
-<!ENTITY social.activated.undobutton.label "Fortryd">
-<!ENTITY social.activated.undobutton.accesskey "F">
+<!ENTITY social.activated.description "Tjenester fra <label/> er blevet aktiveret. Du kan ændre indstillingerne for tjenester i <label class='text-link'>tilføjelses-manageren</label>.">
+<!ENTITY social.activated.undo.label "Fortryd!">
+<!ENTITY social.activated.undo.accesskey "F">
+<!ENTITY social.learnMore.label "Læs mere…">
+<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.closeNotificationItem.label "Ikke nu">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Flyt fokus til chats">
