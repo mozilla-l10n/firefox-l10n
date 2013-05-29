@@ -21,6 +21,8 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Ni rahisi kunafsisha Firefox yako vile uitakavyo kamili. <a>Chagua kutoka maelefu ya vifaa vya nyogeza</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Alamisho">
 <!ENTITY abouthome.historyButton.label   "Historia">

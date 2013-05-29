@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "V">
 <!ENTITY bookmarkThisPageCmd.label "Alamisha Ukurasa Huu">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "Jiunge na Ukurasa Huu">
 <!ENTITY subscribeToPageMenuitem.label "Jisajili katika Ukurasa Huu…">
 <!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote…">
@@ -207,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Kiweko cha mtandao wa mbali">
 
+<!ENTITY browserConsoleCmd.label      "Browser Console">
+
 <!ENTITY inspectContextMenu.label     "Kagua Elementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -253,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Hariri"> 
 <!ENTITY editMenu.accesskey       "H"> 
-<!ENTITY undoCmd.label            "Tendua">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "T"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Rudia">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ondoka"> 
 <!ENTITY quitApplicationCmd.accesskey   "O">
 <!ENTITY quitApplicationCmdMac.label    "Ondoka &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Funga">  
 <!ENTITY closeCmd.key                   "W">  
@@ -631,12 +645,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Onyesha taarifa za eneo kazi">
 <!ENTITY social.toggleNotifications.accesskey "t">
 
-<!ENTITY social.activated.undobutton.label "Tendua">
-<!ENTITY social.activated.undobutton.accesskey "T">
+<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.closeNotificationItem.label "Sio Sasa">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Usogoaji wa kusisitiza">
 <!ENTITY social.chatBar.accesskey "c">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera kushiriki:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">

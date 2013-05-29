@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; hutumia huduma za maelezo yaliyojikita kwenye wavuti (&quot;Huduma&quot;) ili kutoa baadhi ya  vipengee vilivyotolewa kwa matumizi yako na toleo hili la uwili la &brandShortName; chini ya masharti yaliyoelezwa hapa chini. Kama hutaki kutumia moja au zaidi ya Huduma hizi au masharti yaliyo hapa chini hayakubaliki, unaweza kulemaza kipengee au Huduma. Maagizo kuhusu jinsi ya kulemaza kipengee fulani au Huduma yaweza kupatikana ">
 <!ENTITY rights2.webservices-b "hapa">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Kuvinjari salama: ">

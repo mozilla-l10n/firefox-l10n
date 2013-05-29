@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Mambo ya kipekee…">
 <!ENTITY  popupExceptions.accesskey   "M">
 
-<!ENTITY  loadImages.label            "Pakia picha kiotomatiki">
-<!ENTITY  loadImages.accesskey        "p">
-<!ENTITY  exceptions.label            "Mambo ya kipekee…">
-<!ENTITY  exceptions.accesskey        "m">
-
-<!ENTITY  enableJavaScript.label      "Wezesha HatiJava">
-<!ENTITY  enableJavaScript.accesskey  "H">
-<!ENTITY  advancedJS.label            "Yaliyopandishwa daraja…">
-<!ENTITY  advancedJS.accesskey        "y">
-
-<!ENTITY  enableJava.label            "Wezesha Java">
-<!ENTITY  enableJava.accesskey        "z">
-
-
 <!ENTITY  fontsAndColors.label        "Fonti &amp; Rangi">
 
 <!ENTITY  defaultFont.label           "Chaguo-msingi ya fonti:">

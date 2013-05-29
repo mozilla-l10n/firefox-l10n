@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Nionye wakati ninafungua vichupo vingi kwaweza kupunguza mwendo wa &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "n">
 
-<!ENTITY showTabBar.label             "Kila mara onyesha pau ya kichupo">
-<!ENTITY showTabBar.accesskey         "c">
-
 <!ENTITY restoreTabsOnDemand.label        "Usipakie vichupo hadi ichaguliwe">
 <!ENTITY restoreTabsOnDemand.accesskey    "v">
 
