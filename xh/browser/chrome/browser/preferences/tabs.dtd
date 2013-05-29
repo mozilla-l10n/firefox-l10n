@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi zingacothisa i-&brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "u">
 
-<!ENTITY showTabBar.label             "Soloko ubonisa ibha yethebhu">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "Musa ukulayisha iithebhu de zibe zikhethiwe">
 <!ENTITY restoreTabsOnDemand.accesskey    "u">
 

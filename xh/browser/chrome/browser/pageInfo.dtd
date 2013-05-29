@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Yabelana ngeNdawo">
 <!ENTITY  permPlugins           "Yenza iisoftwe ezincedisayo zisebenze">
 <!ENTITY  permFullscreen        "Faka isikrin esipheleleyo">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Londoloza ugcino olungekho kwinethiwekhi">
 <!ENTITY  permClearStorage           "Susa ugcino">

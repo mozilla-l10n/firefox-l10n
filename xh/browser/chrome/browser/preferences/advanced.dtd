@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "S">
 <!ENTITY offlineAppRemove.confirm        "Shenxisa ingcombolo yangaphandle kweintanethi">
 
-<!ENTITY encryptionTab.label             "Uguqulelo oluntsonkothileyo">
-
-<!ENTITY protocols.label                 "Iiprotokholi">
-<!ENTITY useSSL3.label                   "Sebenzisa i-SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Sebenzisa i-TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Izatifikethi">
+<!ENTITY certificateTab.label            "Izatifikethi">
 <!ENTITY certSelection.description       "Xa iseva icela isatifikethi sam:">
 <!ENTITY certs.auto                      "Khetha esinye ngokuzenzekela">
 <!ENTITY certs.auto.accesskey            "l">
