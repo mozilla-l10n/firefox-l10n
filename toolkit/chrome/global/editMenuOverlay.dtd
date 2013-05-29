@@ -21,9 +21,9 @@
 <!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Ջնջել">
 <!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Ընտրել բոլորը">
+<!ENTITY selectAllCmd.label        "Նշել բոլորը">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
+<!ENTITY selectAllCmd.accesskey    "բ">
 <!ENTITY findCmd.label             "Փնտրել">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

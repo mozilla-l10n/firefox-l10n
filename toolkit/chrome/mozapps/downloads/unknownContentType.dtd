@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Այս պահից սկսած ինքնաբար կատարել նմանատիպ ֆայլերի համար">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "Ֆայլի տեսակը.">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Ընտրել…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

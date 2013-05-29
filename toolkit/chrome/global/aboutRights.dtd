@@ -54,15 +54,15 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; օգտագործում է վեբ կայքի տեղեկատվական ծառայություններ (&quot;Services&quot;), որպեսզի ապահովի որոշ հատկություններ &brandShortName;-ի երկուական տարբերակի օգտագործման համար`համաձայն ստորև բերված պայմանների:Եթե դուք չեք ցանկանում օգտվել որոշ ծառայություններից կամ չեք ընդունում պայմանները, դուք կարող եք անջատել հատկությունը կամ ծառայությունը(ները):Կարող եք գտնել ցուցումերը, թե ինչպես անջատեք առանձնակի հատկություն կամ ծառայություն: ">
 <!ENTITY rights2.webservices-b "այստեղ">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "Անվտանգ նավարկում.">
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Խորհուրդ չի տրվում անջատել Անվտանգությունն Ապահովող հատկությունը,  քանզի դուք արդյունքում կարող եք մուտք գործել վտանգավոր կայքեր:Եթե դուք ցանկանում եք ամբողջությամբ անջատել տվյալ հատկությունը, հետևեք այս քայլերին:">
 <!ENTITY rights.safebrowsing-term1 "Բացել ծրագրի կարգավորումները">
 <!ENTITY rights.safebrowsing-term2 "Ընտրեք անվտանգության հարցը">
 <!ENTITY rights.safebrowsing-term3 "Հանեք &quot;&blockAttackSites.label;&quot;ի և &quot;&blockWebForgeries.label;&quot;ի ընտրությունը:">
-<!ENTITY rights.safebrowsing-term4 "Անվտանգ նավարկումը անջատված է">
+<!ENTITY rights.safebrowsing-term4 "Գաղտնի Դիտարկումը անջատված է">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Տեղադրության ցուցադրում.">
