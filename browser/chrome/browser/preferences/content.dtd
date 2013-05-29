@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "e">
 
-<!ENTITY  loadImages.label            "Muat imej secara automatik">
-<!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Pengecualian…">
-<!ENTITY  exceptions.accesskey        "n">
-
-<!ENTITY  enableJavaScript.label      "Hidupkan JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Lanjutan…">
-<!ENTITY  advancedJS.accesskey        "L">
-
-<!ENTITY  enableJava.label            "Hidupkan Java">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 
 <!ENTITY  defaultFont.label           "Fon asal:">

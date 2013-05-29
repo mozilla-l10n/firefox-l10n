@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "P">
 <!ENTITY bookmarkThisPageCmd.label "Penandabuku Laman Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
@@ -207,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Konsol Kawalan Web">
 
+<!ENTITY browserConsoleCmd.label      "Browser Console">
+
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
 <!ENTITY inspectContextMenu.accesskey "P">
 
@@ -253,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Ubah"> 
 <!ENTITY editMenu.accesskey       "U"> 
-<!ENTITY undoCmd.label            "Kembali Asal">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "K">  
-<!ENTITY undoCmd.accesskey          "K"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Balik Semula">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "S"> 
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Keluar"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac.label    "Hentikan &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Tutup">  
 <!ENTITY closeCmd.key                   "W">  
@@ -631,12 +645,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Tunjukkan pemberitahuan desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Kembali Asal">
-<!ENTITY social.activated.undobutton.accesskey "K">
+<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dikongsi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">

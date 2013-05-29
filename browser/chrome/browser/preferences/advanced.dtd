@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
-<!ENTITY encryptionTab.label             "Enkripsi">
-
-<!ENTITY protocols.label                 "Protokol-protokol">
-<!ENTITY useSSL3.label                   "Guna SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Guna TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Sijil-sijil">
+<!ENTITY certificateTab.label            "Sijil-sijil">
 <!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
 <!ENTITY certs.auto                      "Pilih satu automatik">
 <!ENTITY certs.auto.accesskey            "m">
