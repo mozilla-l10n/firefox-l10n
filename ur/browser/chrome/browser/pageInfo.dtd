@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "محل وقوع شیئر کریں">
 <!ENTITY  permPlugins           "پلگ ان متحرک کریں">
 <!ENTITY  permFullscreen        "پوری اسکرین موڈ میں جائیں">
-<!ENTITY  permPointerLock       "پواءنٹر چھپائیں">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "آف لائن ذخیرہ قائم رکھیں">
 <!ENTITY  permClearStorage           "ذخیرہ خالی کریں">

@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "اس جیسی مسلوں کے لیے یہ اب سے خود بخود کریں۔">
 <!ENTITY  rememberChoice.accesskey    "خ">
 
-<!ENTITY  whichIsA.label              "جو کہ ایک:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "انتخاب کریں...">
 <!ENTITY  chooseHandlerMac.accesskey  "ا">

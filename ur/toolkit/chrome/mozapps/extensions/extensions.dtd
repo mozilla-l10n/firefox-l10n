@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "خ">
 <!ENTITY cmd.disableTheme.label               "خیالیہ پہننا بند کر دیں">
 <!ENTITY cmd.disableTheme.accesskey           "پ">
+<!ENTITY cmd.askToActivate.label              "Ask to Activate">
+<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
+<!ENTITY cmd.alwaysActivate.label             "Always Activate">
+<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
+<!ENTITY cmd.neverActivate.label              "Never Activate">
+<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
+<!ENTITY cmd.stateMenu.tooltip                "Change when this add-on runs">
 <!ENTITY cmd.installAddon.label               "تنصیب کریں">
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">

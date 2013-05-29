@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "زیادہ ٹیب کھولنے پر اگر &brandShortName; آہستہ ہوتا ہو تو آگاہ کیجیے">
 <!ENTITY warnOpenManyTabs.accesskey   "ک">
 
-<!ENTITY showTabBar.label             "ہمیشہ ٹیب کی پٹی دکھائیے">
-<!ENTITY showTabBar.accesskey         "ٹ">
-
 <!ENTITY restoreTabsOnDemand.label        "منتخب ہونے تک ٹیب نہ لوڈ کریں">
 <!ENTITY restoreTabsOnDemand.accesskey    "ل">
 

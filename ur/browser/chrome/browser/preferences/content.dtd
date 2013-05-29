@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "استثنیات ...">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
-<!ENTITY  loadImages.label            "نقش خودکار طریقے وے لوڈ کریںلوڈ کریں">
-<!ENTITY  loadImages.accesskey        "ن">
-<!ENTITY  exceptions.label            "استثنیات ...">
-<!ENTITY  exceptions.accesskey        "ا">
-
-<!ENTITY  enableJavaScript.label      "جاوا سکرپٹ اہل بنائیں براۓ">
-<!ENTITY  enableJavaScript.accesskey  "ج">
-<!ENTITY  advancedJS.label            "اعلٰی">
-<!ENTITY  advancedJS.accesskey        "ع">
-
-<!ENTITY  enableJava.label            "جاوا اہل بنائیں">
-<!ENTITY  enableJava.accesskey        "ا">
-
-
 <!ENTITY  fontsAndColors.label        "فانٹ &amp; رنگ">
 
 <!ENTITY  defaultFont.label           "طےشدہ فانٹ ...">

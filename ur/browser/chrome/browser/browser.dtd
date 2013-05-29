@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "ن">
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "ش">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں ...">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں ...">
@@ -207,12 +218,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
 
+<!ENTITY browserConsoleCmd.label      "Browser Console">
+
 <!ENTITY inspectContextMenu.label     "ایلیمنٹ چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "چ">
 
 <!ENTITY responsiveDesignTool.label   "رسپانسو ڈیزائن نظارہ">
 <!ENTITY responsiveDesignTool.accesskey "ر">
-<!ENTITY responsiveDesignTool.commandkey "م">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -253,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "تدوین"> 
 <!ENTITY editMenu.accesskey       "ت"> 
-<!ENTITY undoCmd.label            "کالعدم کریں">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ک"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "اعادہ کریں">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ا"> 
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
 <!ENTITY quitApplicationCmd.accesskey   "ک">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; خروج کریں">
-<!ENTITY quitApplicationCmdMac.key      "ک">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "بند کریں">  
 <!ENTITY closeCmd.key                   "W">  
@@ -631,12 +645,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "ڈیسک ٹاپ اطلاعات دکھائیں">
 <!ENTITY social.toggleNotifications.accesskey "ا">
 
-<!ENTITY social.activated.undobutton.label "کالعدم کریں">
-<!ENTITY social.activated.undobutton.accesskey "ک">
+<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.closeNotificationItem.label "ابھی نہیں">
 
 <!ENTITY social.chatBar.commandkey "چ">
 <!ENTITY social.chatBar.label "بات چیت پر فوکس لائیں">
 <!ENTITY social.chatBar.accesskey "ف">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">
