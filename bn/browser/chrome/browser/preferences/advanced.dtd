@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "অফলাইন ডাটা মুছে ফেলা হবে">
 
-<!ENTITY encryptionTab.label             "এনক্রিপশন">
-
-<!ENTITY protocols.label                 "প্রোটোকল">
-<!ENTITY useSSL3.label                   "SSL 3.0 ব্যবহার করুন">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 ব্যবহার করা হবে">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "সনদপত্র">
+<!ENTITY certificateTab.label            "সনদপত্র">
 <!ENTITY certSelection.description       "কোনো সার্ভার আমার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
 <!ENTITY certs.auto                      "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 <!ENTITY certs.auto.accesskey            "l">

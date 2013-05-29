@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "শেয়ার অবস্থান">
 <!ENTITY  permPlugins           "প্লাগইন সক্রিয় করুন">
 <!ENTITY  permFullscreen        "পূর্ণপর্দায় প্রবেশ করুন">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "অফলাইন সংরক্ষন ব্যবস্থাপনা">
 <!ENTITY  permClearStorage           "সংরক্ষন অপসারন">

@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "ব্যতিক্রম... E">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "ছবি স্বয়ংক্রিয়ভাবে লোড করুন I">
-<!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "ব্যতিক্রম... x">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "JavaScript সক্রিয় করা হবে">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "উচ্চপর্যায়ের... v">
-<!ENTITY  advancedJS.accesskey        "v">
-
-<!ENTITY  enableJava.label            "জাভা সক্রিয় করুন n">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "ফন্ট &amp; রং">
 
 <!ENTITY  defaultFont.label           "ডিফল্ট ফন্ট D:">
