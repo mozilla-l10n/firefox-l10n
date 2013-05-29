@@ -8,7 +8,7 @@
 
 <!ENTITY  pluginupdatesfound.title        "พบการปรับรุ่นของส่วนเสริม">
 <!ENTITY  pluginupdatesfound.label        "พบการปรับรุ่นของส่วนเสริมส่วนหนึ่งของคุณ">
-<!ENTITY  pluginupdateslink.label         "ดูวิธีการปรับรุ่นของส่วนเสริมของคุณ">
+<!ENTITY  pluginupdateslink.label         "ดูวิธีการปรับรุ่นโปรแกรมเสริมของคุณ">
 
 <!ENTITY  noupdatesfound.title            "ไม่พบการปรับรุ่น">
 <!ENTITY  noupdatesautoenabled.intro      "ไม่พบการปรับรุ่นใหม่ &brandShortName; 
@@ -17,10 +17,11 @@
 หรือเปิดใช้การตรวจหาการปรับรุ่นอัตโนมัติของ &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "ไม่สามารถปรับรุ่นโปรแกรมได้">
-<!ENTITY  manualUpdate.desc               "พบการปรับรุ่นความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง 
-แต่คุณไม่มีสิทธิ์ในการเข้าถึงระบบที่เพียงพอสำหรับการติดตั้ง โปรดติดต่อผู้ดูแลระบบ 
+<!ENTITY  manualUpdate.desc               "พบการปรับรุ่นความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง
+แต่คุณไม่มีสิทธิ์ในการเข้าถึงระบบที่เพียงพอสำหรับการติดตั้ง โปรดติดต่อผู้ดูแลระบบ
 หรือลองอีกครั้งโดยใช้บัญชีผู้ใช้ที่มีสิทธิ์ติดตั้งโปรแกรมบนคอมพิวเตอร์เครื่องนี้">
-<!ENTITY  manualUpdate.space.desc         "พบการปรับรุ่นความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง แต่คุณไม่มีเนื้อที่เพียงพอในการติดตั้ง">
+<!ENTITY  manualUpdate.space.desc         "พบการปรับรุ่นความปลอดภัยและเสถียรภาพซึ่งเราแนะนำให้ติดตั้ง
+แต่คุณไม่มีเนื้อที่เพียงพอในการติดตั้ง">
 <!ENTITY  manualUpdateGetMsg.label        "คุณยังสามารถขอรับ &brandShortName; รุ่นล่าสุดได้เสมอที่ :">
 
 <!ENTITY  incompatibleCheck.title         "ตรวจสอบความเข้ากันได้ของส่วนเสริม">
@@ -47,7 +48,7 @@
 <!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY  downloading.intro               "กำลังดาวน์โหลดชุดปรับรุ่น…">
 <!ENTITY  connecting.label                "เชื่อมต่อกับเซิร์ฟเวอร์การปรับรุ่น…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับรุ่นแบบทบเพิ่มได้ 
+<!ENTITY  verificationFailedText.label    "&brandShortName; ไม่สามารถพิสูจน์ความสมบูรณ์ของชุดปรับรุ่นแบบทบเพิ่มได้
 ดังนั้นขณะนี้โปรแกรมจึงกำลังดาวน์โหลดชุดปรับรุ่นแบบเต็มแทน">
 
 <!ENTITY  viewDetails.tooltip             "ดูรายละเอียดของชุดปรับรุ่นนี้">
@@ -65,9 +66,12 @@
 <!ENTITY  errorpatching.intro             "ไม่สามารถทำการปรับรุ่นแบบบางส่วนได้ 
 &brandShortName; จะพยายามอีกครั้ง โดยการดาวน์โหลดชุดปรับรุ่นแบบเต็ม">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามามารถระบุว่ามีการปรับรุ่นหรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี  &brandShortName; รุ่นล่าสุดจาก:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "มีบางสิ่งขัดขวาง &brandShortName; จากการปรับรุ่นอย่างปลอดภัย โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
-<!ENTITY  errorCertAttrHasUpdate.label    "มีบางสิ่งที่พยายามหลอก &brandShortName; ยอมรับการปรับรุ่นที่ไม่ปลอดภัย. โปรดติดต่อผู้ให้บริการเครือข่ายของคุณและมองหาความช่วยเหลือ">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามามารถระบุว่ามีการปรับรุ่นหรือไม่
+โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "มีบางสิ่งขัดขวาง &brandShortName; จากการปรับรุ่นอย่างปลอดภัย
+โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
+<!ENTITY  errorCertAttrHasUpdate.label    "มีบางสิ่งที่พยายามหลอก &brandShortName; ยอมรับการปรับรุ่นที่ไม่ปลอดภัย
+โปรดติดต่อผู้ให้บริการเครือข่ายของคุณและมองหาความช่วยเหลือ">
 
 <!ENTITY  finishedPage.title              "ชุดปรับรุ่นพร้อมสำหรับการติดตั้งแล้ว">
 <!ENTITY  finishedPage.text               "ชุดปรับรุ่นนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป 

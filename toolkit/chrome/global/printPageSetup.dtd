@@ -45,7 +45,7 @@
 <!ENTITY headerFooter.label  "ส่วนหัวและส่วนท้าย">
 
 <!ENTITY hfLeft.label        "ซ้าย :">
-<!ENTITY hfCenter.label      "ขวา :">
+<!ENTITY hfCenter.label      "กลาง :">
 <!ENTITY hfRight.label       "ขวา :">
 <!ENTITY headerLeft.tip      "ส่วนหัวด้านซ้าย">
 <!ENTITY headerCenter.tip    "ส่วนหัวตรงกลาง">

@@ -5,7 +5,7 @@
 <!ENTITY errorConsole.title "หน้าจอข้อผิดพลาด">
 
 <!ENTITY errFile.label   "แฟ้มต้นฉบับ :">
-<!ENTITY errLine.label   "บรรทัด :">
+<!ENTITY errLine.label   "บรรทัด:">
 <!ENTITY errColumn.label "สดมภ์ :">
 
 <!ENTITY all.label          "ทั้งหมด">
@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "ต">
 <!ENTITY evaluate.label     "หาค่า">
 <!ENTITY evaluate.accesskey "ห">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+<!ENTITY filter2.label      "ตัวกรอง:">
+<!ENTITY filter2.accesskey  "ก">
 
 <!ENTITY copyCmd.label       "คัดลอก">  
 <!ENTITY copyCmd.accesskey   "ค"> 

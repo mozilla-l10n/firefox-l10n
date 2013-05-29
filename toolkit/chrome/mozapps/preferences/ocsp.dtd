@@ -5,5 +5,5 @@
 <!ENTITY ocspDialog.title             "ตรวจสอบความถูกต้องของใบรับรอง">
 <!ENTITY enableOCSP.label             "ใช้โพรโทคอลสถานะใบรับรองออนไลน์ (OCSP) เพื่อยืนยันความถูกต้องของใบรับรองหนังสือรับรองนี้">
 <!ENTITY enableOCSP.accesskey         "ช">
-<!ENTITY requireOCSP.label            "ถ้าไม่สามารถติดต่อกับเซิร์ฟเวอร์ OSCP ให้ถือว่าใบรับรองไม่ถูกต้อง">
+<!ENTITY requireOCSP.label            "ถ้าไม่สามารถติดต่อกับเซิร์ฟเวอร์ OCSP ให้ถือว่าใบรับรองไม่ถูกต้อง">
 <!ENTITY requireOCSP.accesskey        "ถ">

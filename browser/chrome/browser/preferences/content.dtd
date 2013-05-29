@@ -4,22 +4,8 @@
 
 <!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป็อปอัพ">
 <!ENTITY  blockPopups.accesskey       "ป">
-<!ENTITY  popupExceptions.label       "ยกเว้น…">
-<!ENTITY  popupExceptions.accesskey   "ย">
-
-<!ENTITY  loadImages.label            "โหลดรูปอัตโนมัติ">
-<!ENTITY  loadImages.accesskey        "ร">
-<!ENTITY  exceptions.label            "ยกเว้น…">
-<!ENTITY  exceptions.accesskey        "ว">
-
-<!ENTITY  enableJavaScript.label      "เปิดใช้จาวาสคริปต์">
-<!ENTITY  enableJavaScript.accesskey  "จ">
-<!ENTITY  advancedJS.label            "ขั้นสูง…">
-<!ENTITY  advancedJS.accesskey        "ข">
-
-<!ENTITY  enableJava.label            "เปิดใช้จาวา">
-<!ENTITY  enableJava.accesskey        "ช">
-
+<!ENTITY  popupExceptions.label       "ข้อยกเว้น…">
+<!ENTITY  popupExceptions.accesskey   "ข">
 
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">
 

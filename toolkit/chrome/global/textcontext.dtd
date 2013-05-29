@@ -7,7 +7,7 @@
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.accesskey "ค">
 <!ENTITY pasteCmd.label "วาง">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "ว">
 <!ENTITY undoCmd.label "เรียกคืน">
 <!ENTITY undoCmd.accesskey "ร">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">

@@ -10,7 +10,7 @@
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "ปรับข้อมูล">
+<!ENTITY updatePass.label             "ปรับรุ่น">
 <!ENTITY resetPass.label              "ล้าง">
 <!-- Manage Account -->
 
