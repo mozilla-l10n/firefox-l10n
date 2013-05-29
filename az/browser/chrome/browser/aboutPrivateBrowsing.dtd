@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; bu pəncərəyə aid keçmişi xatırlamayacaqdır.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Hazırda gizli pəncərədə deyilsiniz.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "Gizli Səyahət pəncərəsində &brandShortName; heç bir səyahət tarixçəsini, axtarış tarixçəsini, endirmə tarixçəsini, form tarixçəsini, kukiləri və müvəqqəti internet fayllarını saxlamayacaq.  Ancaq endirdiyiniz fayllar və saxladığınız əlfəcinlər qalacaq.">
+<!ENTITY privatebrowsingpage.perwindow.description     "Gizli Səyahət pəncərəsində &brandShortName; heç bir səyahət tarixçəsini, axtarış tarixçəsini, endirmə tarixçəsini, form tarixçəsini, çərəzləri və müvəqqəti internet fayllarını saxlamayacaq.  Ancaq endirdiyiniz fayllar və saxladığınız əlfəcinlər qalacaq.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Gizli pəncərədə aç">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "G">

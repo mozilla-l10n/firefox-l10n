@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Bu cür faylları yükləyərkən həmişə bunu et.">
 <!ENTITY  rememberChoice.accesskey    "B">
 
-<!ENTITY  whichIsA.label              "Format:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Seçin…">
 <!ENTITY  chooseHandlerMac.accesskey  "S">

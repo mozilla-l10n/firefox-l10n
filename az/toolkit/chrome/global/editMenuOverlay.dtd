@@ -13,9 +13,9 @@
 <!ENTITY cutCmd.label              "Kəs">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "K">
-<!ENTITY copyCmd.label             "Nüsxələ">
+<!ENTITY copyCmd.label             "Köçür">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "N">
+<!ENTITY copyCmd.accesskey         "K">
 <!ENTITY pasteCmd.label            "Yapışdır">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "Y">

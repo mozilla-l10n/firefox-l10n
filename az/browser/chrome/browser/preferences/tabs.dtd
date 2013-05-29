@@ -5,14 +5,11 @@
 <!ENTITY newWindowsAsTabs.label       "Yeni pəncərə əvəzinə yeni vərəq aç">
 <!ENTITY newWindowsAsTabs.accesskey   "c">
 
-<!ENTITY warnCloseMultipleTabs.label  "1-dən çox səhifə bağlanarkən məni xəbərdar et">
+<!ENTITY warnCloseMultipleTabs.label  "1-dən çox vərəq bağlarkən məni xəbərdar et">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "Çox sayda vərəq açmağın &brandShortName; proqramını yavaşlada biləcəyi vaxtlarda məni xəbərdar et">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
-
-<!ENTITY showTabBar.label             "Vərəq sətirini həmişə göstər">
-<!ENTITY showTabBar.accesskey         "b">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
 
 <!ENTITY restoreTabsOnDemand.label        "Vərəqləri seçilənə qədər yükləmə">
 <!ENTITY restoreTabsOnDemand.accesskey    "q">

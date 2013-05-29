@@ -16,11 +16,11 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli baxış)">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Siğməni yenilə">
-<!ENTITY  reloadTab.accesskey                "y">
-<!ENTITY  reloadAllTabs.label                "Bütün siğmələri yenilə">
+<!ENTITY  reloadTab.label                    "Vərəqi Yenilə">
+<!ENTITY  reloadTab.accesskey                "Y">
+<!ENTITY  reloadAllTabs.label                "Bütün Vərəqləri Yenilə">
 <!ENTITY  reloadAllTabs.accesskey            "t">
-<!ENTITY  closeOtherTabs.label               "Digər siğmələri bağla">
+<!ENTITY  closeOtherTabs.label               "Digər Vərəqləri Bağla">
 <!ENTITY  closeOtherTabs.accesskey           "D">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -28,17 +28,17 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Siğməni Bərkid">
+<!ENTITY  pinTab.label                       "Vərəqi Bərkid">
 <!ENTITY  pinTab.accesskey                   "B">
-<!ENTITY  unpinTab.label                     "Siğməni Çıxart">
+<!ENTITY  unpinTab.label                     "Vərəqi Çıxart">
 <!ENTITY  unpinTab.accesskey                 "Ç">
 <!ENTITY  moveToGroup.label                  "Qrupa daşı">
 <!ENTITY  moveToGroup.accesskey              "d">
 <!ENTITY  moveToNewGroup.label               "Yeni qrup">
 <!ENTITY  moveToNewWindow.label              "Yeni pəncərəyə daşı">
 <!ENTITY  moveToNewWindow.accesskey          "p">
-<!ENTITY  bookmarkAllTabs.label              "Bütün Siğmələri Əlfəcinlə…">
-<!ENTITY  bookmarkAllTabs.accesskey          "S">
+<!ENTITY  bookmarkAllTabs.label              "Bütün Vərəqləri Əlfəcinlə…">
+<!ENTITY  bookmarkAllTabs.accesskey          "V">
 <!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri aç">
 <!ENTITY  undoCloseTab.accesskey             "a">
 <!ENTITY  closeTab.label                     "vərəqi bağla">
@@ -115,10 +115,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Ə">
 <!ENTITY bookmarkThisPageCmd.label "Səhifəni Əlfəcinlə">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.accesskey "s">
+<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "Bu səhifəyə abunə ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
-<!ENTITY addCurPagesCmd.label "Bütün Siğmələri Əlfəcinlə…">
+<!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY showAllBookmarks2.label "Bütün Əlfəcinləri Göstər">
 <!ENTITY unsortedBookmarksCmd.label "Sıralanmamış Əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəçin göstər">
@@ -207,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
+<!ENTITY browserConsoleCmd.label      "Browser Console">
+
 <!ENTITY inspectContextMenu.label     "Obyekti araşdır">
 <!ENTITY inspectContextMenu.accesskey "g">
 
@@ -253,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Nizam"> 
 <!ENTITY editMenu.accesskey       "z"> 
-<!ENTITY undoCmd.label            "Ləğv et">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Təkrarla">  
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Çık"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; proqramından çıx">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Kapat">  
 <!ENTITY closeCmd.key                   "W">  
@@ -631,12 +645,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Ləğv et">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.closeNotificationItem.label "Not Now">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Çatlara keç">
 <!ENTITY social.chatBar.accesskey "Ç">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">

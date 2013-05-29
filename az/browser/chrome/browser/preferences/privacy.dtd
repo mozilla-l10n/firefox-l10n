@@ -27,7 +27,7 @@
 <!ENTITY  acceptCookies.label           "Saytlardan cookie qəbul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf kukilərini qəbul et">
+<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">
 <!ENTITY  acceptThirdParty.always.label   "Hər zaman">
 <!ENTITY  acceptThirdParty.never.label    "Heç zaman">

@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Offline məlumatlarını sil">
 
-<!ENTITY encryptionTab.label             "Şifrələmə">
-
-<!ENTITY protocols.label                 "Əlaqə protokolları">
-<!ENTITY useSSL3.label                   "SSL 3.0 kullan">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 kullan">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Təsdiq sənədləri">
+<!ENTITY certificateTab.label            "Təsdiq sənədləri">
 <!ENTITY certSelection.description       "Server şəxsi sertifikat istəyəndə:">
 <!ENTITY certs.auto                      "Birini avtomatik seç">
 <!ENTITY certs.auto.accesskey            "B">

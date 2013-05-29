@@ -13,9 +13,9 @@
 <!ENTITY tabs.context.openTab.accesskey               "B">
 <!ENTITY tabs.context.openMultipleTabs.label          "Seçilən vərəqləri aç">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "S">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Siğməni Əlfəcinlə…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Vərəqi Əlfəcinlə…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "Ə">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Seçilmiş Siğmələri Əlfəcinlə…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Seçilmiş Vərəqləri Əlfəcinlə…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
 <!ENTITY tabs.context.refreshList.label               "Siyahını yenilə">
 <!ENTITY tabs.context.refreshList.accesskey           "a">

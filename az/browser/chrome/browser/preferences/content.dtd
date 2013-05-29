@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
 
-<!ENTITY  loadImages.label            "Şəkilləri göstər">
-<!ENTITY  loadImages.accesskey        "s">
-<!ENTITY  exceptions.label            "İstisnalar…">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "JavaScript'i aktiv et">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Ətraflı…">
-<!ENTITY  advancedJS.accesskey        "v">
-
-<!ENTITY  enableJava.label            "Java'nı aktiv et">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "Yazı tipləri və rənglər">
 
 <!ENTITY  defaultFont.label           "Standart yazı tipi:">
