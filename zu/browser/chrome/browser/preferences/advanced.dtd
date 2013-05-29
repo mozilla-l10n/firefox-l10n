@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Okuvamile">
 
@@ -30,12 +30,29 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Makuhlale kuhlola ukubona ukuthi i-&brandShortName; iyisiphequluli esizenzakalelayo ekuqaleni">
 <!ENTITY alwaysCheckDefault.accesskey    "k">
-<!ENTITY checkNow.label                  "Hlola manje">
-<!ENTITY checkNow.accesskey              "m">
-<!ENTITY submitCrashes.label             "Thumela imibiko yokuhluleka">
-<!ENTITY submitCrashes.accesskey         "T">
-<!ENTITY submitTelemetry.label           "Thumela idatha yokusebenza">
-<!ENTITY submitTelemetry.accesskey       "k">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
+
+<!ENTITY dataChoicesTab.label            "Data Choices">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
@@ -99,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "S">
 <!ENTITY offlineAppRemove.confirm        "Susa idatha yokungaxhunyiwe">
 
-<!ENTITY encryptionTab.label             "Ukubhala ngamakhodi">
-
-<!ENTITY protocols.label                 "Imigaqonqubo">
-<!ENTITY useSSL3.label                   "Sebenzisa i-SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Sebenzisa i-TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Izitifiketi">
+<!ENTITY certificateTab.label            "Izitifiketi">
 <!ENTITY certSelection.description       "Uma isiphakeli sifuna isitifikhethi sami:">
 <!ENTITY certs.auto                      "Khetha esisodwa ngokuzenzakalelayo">
 <!ENTITY certs.auto.accesskey            "l">

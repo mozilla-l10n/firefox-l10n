@@ -19,8 +19,6 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFromHTMLFile.label       "Kusuka efayeleni le-HTML">
-<!ENTITY importFromHTMLFile.accesskey   "K">
 
 <!ENTITY noMigrationSources.label       "Azikho izinhlelo eziqukethi izimpawu, umlando noma idatha yephasiedi ezingatholakala.">
 

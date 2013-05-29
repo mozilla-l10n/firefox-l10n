@@ -6,6 +6,8 @@
 <!ENTITY tile.label                 "I-thaile">
 <!ENTITY center.label               "Phakathi">
 <!ENTITY stretch.label              "Nweba">
+<!ENTITY fill.label                 "Gcwalisa">
+<!ENTITY fit.label                  "Linganisa">
 <!ENTITY preview.label              "Umbono">
 <!ENTITY color.label                "Umbala:">
 <!ENTITY setDesktopBackground.title "Hlela Ingemuva Le-Desktop">

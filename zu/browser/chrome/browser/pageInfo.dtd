@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -63,8 +61,12 @@
 <!ENTITY  permImage             "Layisha izithombe">
 <!ENTITY  permPopup             "Vula iwindi elingugaxekile">
 <!ENTITY  permCookie            "Bheka amakhukhi">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Faka izandiso nezindikimba">
 <!ENTITY  permGeo               "Abelana ngendawo">
+<!ENTITY  permPlugins           "Activate Plugins">
+<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Nakekela ukulondoloza okungaxhunyiwe kwi-intanethi">
 <!ENTITY  permClearStorage           "Sula ukulondoloza">
