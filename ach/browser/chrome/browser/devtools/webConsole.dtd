@@ -9,6 +9,7 @@
 
 
 <!ENTITY window.title "Web Console">
+<!ENTITY browserConsole.title "Browser Console">
 
 <!ENTITY networkPanel.requestURLColon             "Request URL:">
 <!ENTITY networkPanel.requestMethodColon          "Request Method:">
@@ -48,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "Ket CSS bal mapyem">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Ket Javascript weko woko">
+<!ENTITY btnPageSecurity.label "Security">
+<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -60,7 +63,7 @@
 <!ENTITY btnConsoleWarnings     "Cik">
 <!ENTITY btnConsoleLog          "Ket">
 
-<!ENTITY filterBox.placeholder "Filter">
+<!ENTITY filterOutput.placeholder "Filter output">
 <!ENTITY btnClear.label        "Clear">
 <!ENTITY btnClear.tooltip      "Ruc oko Kacoc me Web ma kato woko">
 
@@ -77,3 +80,5 @@
 
 <!ENTITY copyURLCmd.label     "Lok Kabedo me Kakube">
 <!ENTITY copyURLCmd.accesskey "e">
+
+<!ENTITY closeCmd.key  "W">

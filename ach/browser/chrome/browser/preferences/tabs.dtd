@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Kwenyoro an ka yabo tab mapol twero dwoko cen dwiro pa &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "a">
 
-<!ENTITY showTabBar.label             "Nyut bar me tab kare ki kare">
-<!ENTITY showTabBar.accesskey         "e">
-
 <!ENTITY restoreTabsOnDemand.label        "Pe iket tab wa ka iyero">
 <!ENTITY restoreTabsOnDemand.accesskey    "i">
 

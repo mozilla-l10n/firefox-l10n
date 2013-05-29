@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Mukene…">
 <!ENTITY  popupExceptions.accesskey   "e">
 
-<!ENTITY  loadImages.label            "Ket cale kene">
-<!ENTITY  loadImages.accesskey        "l">
-<!ENTITY  exceptions.label            "Mukene…">
-<!ENTITY  exceptions.accesskey        "u">
-
-<!ENTITY  enableJavaScript.label      "Mi JavaScript tii">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Madito…">
-<!ENTITY  advancedJS.accesskey        "d">
-
-<!ENTITY  enableJava.label            "Mii Java tii">
-<!ENTITY  enableJava.accesskey        "i">
-
-
 <!ENTITY  fontsAndColors.label        "Kite me &amp; Kala mapol">
 
 <!ENTITY  defaultFont.label           "Kite ma iyi acaki:">
