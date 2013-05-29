@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "একাধিক ট্যাব খোলার ফলে &brandShortName; ধীর হয়ে যাবার সম্ভবনা থাকলে সতর্ক করা হবে (O)">
 <!ENTITY warnOpenManyTabs.accesskey   "O">
 
-<!ENTITY showTabBar.label             "ট্যাব বার সব সময় প্রদর্শন করা হবে (b)">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "নির্বাচিত না হওয়া পর্যন্ত ট্যাব লোড করবেন না l">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
