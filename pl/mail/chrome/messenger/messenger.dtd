@@ -531,6 +531,8 @@
 <!ENTITY replyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim adresatom">
 <!ENTITY replyListButton.tooltip   "Odpowiedz liście dyskusyjnej">
 <!ENTITY forwardButton.tooltip     "Przekaż wybraną wiadomość">
+<!ENTITY forwardAsInline.tooltip "Przekaż zaznaczoną wiadomość bezpośrednio, jako tekst treści">
+<!ENTITY forwardAsAttachment.tooltip "Przekaż zaznaczoną wiadomość jako załącznik">
 <!ENTITY fileButton.tooltip        "Przenieś zaznaczoną wiadomość">
 <!ENTITY archiveButton.tooltip     "Archiwizuj zaznaczone wiadomości">
 <!ENTITY nextButton.tooltip        "Przejdź do następnej nieprzeczytanej wiadomości">
