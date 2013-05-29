@@ -31,14 +31,9 @@ that require it.  -->
 
 <!ENTITY historySection.label         "Зорчсон түүх">
 <!ENTITY dataSection.label            "Өгөгдлүүд">
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Browsing &amp; Download History">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemBrowsingHistory.label         "Зорчсон түүх">
-<!ENTITY itemBrowsingHistory.accesskey     "ч">
 <!ENTITY itemFormSearchHistory.label       "Хүснэгт оруулга болон хайлтын түүх">
 <!ENTITY itemFormSearchHistory.accesskey   "н">
 <!ENTITY itemPasswords.label               "Хагдгалсан нууц үгс">
@@ -49,8 +44,6 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "т">
 <!ENTITY itemOfflineApps.label             "Салангид хуудасны өгөгдөл">
 <!ENTITY itemOfflineApps.accesskey         "ө">
-<!ENTITY itemDownloadHistory.label         "Татаж авсан түүх">
-<!ENTITY itemDownloadHistory.accesskey     "ж">
 <!ENTITY itemActiveLogins.label            "Нэвтрэлт хийж орсон идэвхитэй хэсэг">
 <!ENTITY itemActiveLogins.accesskey        "х">
 <!ENTITY itemSitePreferences.label         "Вэб хуудасны тохиргоо">
@@ -60,6 +53,10 @@ that require it.  -->
      mockup at bug 480169 -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.">
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+     Clear History on Shutdown dialogs.  Should be large enough to contain
+     the item* strings above on a single line.  The column width should be set
+     at half of the dialog width. -->
 
-<!ENTITY dialog.width                 "28em">
-<!ENTITY column.width                 "14em">
+<!ENTITY dialog.width2                 "34em">
+<!ENTITY column.width2                 "17em">

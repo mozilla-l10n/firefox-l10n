@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Одооноос эхлэн ийм файлд энэ үйлдлийг автомаар гүйцэтгэ.">
 <!ENTITY  rememberChoice.accesskey    "д">
 
-<!ENTITY  whichIsA.label              "ямар:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Сонго…">
 <!ENTITY  chooseHandlerMac.accesskey  "С">

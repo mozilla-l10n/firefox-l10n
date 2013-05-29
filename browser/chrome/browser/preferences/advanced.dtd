@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "т">
 <!ENTITY offlineAppRemove.confirm        "Салангид өгөгдлийг устгах">
 
-<!ENTITY encryptionTab.label             "Нууцлал">
-
-<!ENTITY protocols.label                 "Дамжуулалтын зарчим">
-<!ENTITY useSSL3.label                   "SSL 3.0 хэрэглэ">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 хэрэглэ">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Гэрчилгээ">
+<!ENTITY certificateTab.label            "Гэрчилгээ">
 <!ENTITY certSelection.description       "Хэрэв вэб хуудас миний гэрчилгээг шаардвал:">
 <!ENTITY certs.auto                      "Нэгийг автоматаар сонго">
 <!ENTITY certs.auto.accesskey            "l">

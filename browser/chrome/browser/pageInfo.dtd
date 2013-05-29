@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Зурагнуудыг дууд">
 <!ENTITY  permPopup             "Open Pop-up Windows">
 <!ENTITY  permCookie            "Күүки суулга">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
 <!ENTITY  permGeo               "Байршлаа мэдэгдэх">
 <!ENTITY  permPlugins           "Activate Plugins">
 <!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Maintain Offline Storage">
 <!ENTITY  permClearStorage           "Clear Storage">

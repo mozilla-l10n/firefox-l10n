@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  popupExceptions.accesskey   "ш">
 
-<!ENTITY  loadImages.label            "Зургийг автоматаар ачаал">
-<!ENTITY  loadImages.accesskey        "З">
-<!ENTITY  exceptions.label            "Зөвшөөрөгдсөн хуудас">
-<!ENTITY  exceptions.accesskey        "д">
-
-<!ENTITY  enableJavaScript.label      "Жаваскриптийг идэвхжүүлэх">
-<!ENTITY  enableJavaScript.accesskey  "Ж">
-<!ENTITY  advancedJS.label            "Нэмэлт…">
-<!ENTITY  advancedJS.accesskey        "м">
-
-<!ENTITY  enableJava.label            "Жааваг идэвхжүүлэх">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "Фонт ба Өнгө">
 
 <!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
