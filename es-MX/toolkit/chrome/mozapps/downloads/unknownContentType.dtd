@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Repetir esta decisión de ahora en adelante para este tipo de archivos.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "el cual es un:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Elegir…">
 <!ENTITY  chooseHandlerMac.accesskey  "E">

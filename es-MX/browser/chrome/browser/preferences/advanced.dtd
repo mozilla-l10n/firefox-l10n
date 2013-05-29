@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "E">
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos del modo sin conexión">
 
-<!ENTITY encryptionTab.label             "Cifrado">
-
-<!ENTITY protocols.label                 "Protocolos">
-<!ENTITY useSSL3.label                   "Usar SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Usar TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Certificados">
+<!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.description       "Cuando un servidor solicite mi certificado personal:">
 <!ENTITY certs.auto                      "Seleccionar uno automáticamente">
 <!ENTITY certs.auto.accesskey            "S">

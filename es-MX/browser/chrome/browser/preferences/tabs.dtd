@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Avisarme si &brandShortName; se pondrá lento al abrir muchas pestañas">
 <!ENTITY warnOpenManyTabs.accesskey   "l">
 
-<!ENTITY showTabBar.label             "Mostrar siempre la barra de pestañas">
-<!ENTITY showTabBar.accesskey         "s">
-
 <!ENTITY restoreTabsOnDemand.label        "No cargar las pestañas hasta que sean seleccionadas">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 

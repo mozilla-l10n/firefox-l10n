@@ -18,7 +18,7 @@
 
 <!ENTITY  locbar.pre.label              "Cuando se utilice, mostrar:">
 <!ENTITY  locbar.pre.accessKey          "C">
-<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.post.label             "Cuando se utilice, mostrar:">
 <!ENTITY  locbar.both.label             "Historial y marcadores">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
