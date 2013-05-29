@@ -1,41 +1,8 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Terry Hayes <thayes@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title  "Guhindura Ijambobanga Ngenga">
 <!ENTITY setPassword.tokenName.label "Apareyi y'Umutekano">
 <!ENTITY setPassword.oldPassword.label "Ijambobanga rigezweho:">
@@ -43,22 +10,22 @@
 <!ENTITY setPassword.reenterPassword.label "Ijambobanga rishya (na none):">
 <!ENTITY setPassword.meter.label "Imetero y'ubwiza bw'ijambobanga ">
 <!ENTITY setPassword.meter.loading "Irimo Gutangiza">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "Kugarura">
 <!ENTITY resetPassword.title  "Kugaruraho Ijambobanga Ngenga">
 <!ENTITY resetPassword.text  "Nugaruraho Ijambobanga ngenga ryawe, amagambobanga yawe y'urubuga na imeyili, ibyatanzwe by'imiterere, ibyemezo bwite, n'imfunguzo zihariye bizibagirana. Urashaka koko kugaruraho ijambobanga ngenga ryawe?">
-
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Kwinjiza Ijambobanga Ngenga">
-<!ENTITY getPassword.tokenName.label "Apareyi y'Umutekano">
-<!ENTITY getPassword.password.label "Ijambobanga:">
 
+<!ENTITY getPassword.title  "Kwinjiza Ijambobanga Ngenga">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
+<!ENTITY getPassword.password.label "Ijambobanga:">
 <!-- These should be common -->
+
 <!ENTITY piperror.title "Ikosa">
 <!ENTITY pipalert.title "Ikosa - ntishobora kugarura">
-
 <!-- Prefs panel strings -->
+
 <!ENTITY pref.security.general.lHeader "Umutekano">
 <!ENTITY pref.security.general.rHeader "Amagenamiterere y'umutekano rusange">
 <!ENTITY pref.security.general.header "Amagenamiterere y'umutekano rusange">
@@ -66,8 +33,8 @@
 <!ENTITY pref.security.general.paranoid.label "Gukoresha amagenamiterere y'umutekano ">
 <!ENTITY pref.security.general.certificates.title "Ibyemezo">
 <!ENTITY pref.security.general.manageCert.label "Gucunga Ibyemezo">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "Irimo Kwimura Icyemezo">
 <!ENTITY downloadCert.message1 "Wasabwe kwizera Umuyobozi mushya w'Icyemezo (CA).">
 <!ENTITY downloadCert.trustSSL "Kwizera uyu CA kugira ngo ubone imbugamakuru.">
@@ -78,27 +45,18 @@
 <!ENTITY downloadCert.viewPolicy.label "Politiki">
 <!ENTITY downloadCert.viewCert.text "Gusuzuma Icyemezo cya CA">
 <!ENTITY downloadCert.viewPolicy.text "Gusuzuma politiki n'imikorere bya CA">
-
 <!-- Certificate Exists in database -->
+
 <!ENTITY caCertExists.title "Icyemezo Kiriho">
 <!ENTITY caCertExists.message "Icyemezo gisanzwe kiriho.">
-
-<!-- Strings for the MismatchDomain dialog  -->
-<!ENTITY domainMismatch.title "Ikosa ry'Umutekano: Izina ry'Indangarubuga Ntirihuje">
-<!ENTITY examineCert.label "Kugaragaza Icyemezo">
-<!ENTITY examineCert.accesskey "g">
-
-<!-- Strings for the Server cert expired dialog  -->
-<!ENTITY serverCertExpired.continue "Urifuza gupfa gukomeza?">
-<!ENTITY serverCertExpired.accept.label "Gukomeza">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "Gusaba Ikiranga Ukoresha">
 <!ENTITY clientAuthAsk.message1 "Uru rubuga rwasabye ko utanga igikuranga ukoresheje icyemezo:">
 <!ENTITY clientAuthAsk.message2 "Guhitamo icyemezo cyo gutangwa nk'ikiranga:">
 <!ENTITY clientAuthAsk.message3 "Ibisobanuro by'icyemezo cyatoranyijwe:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "Guhitamo Icyemezo">
 <!ENTITY certPicker.info  "Icyemezo:">
 <!ENTITY certPicker.detailsLabel "Ibisobanuro by'Icyemezo cyatoranyijwe:">
@@ -119,15 +77,26 @@
 <!ENTITY escrowWarn.message1 "Icyitonderwa: Ubu buyobozi bw'icyemezo bwasabye gukora inyibutsa y'urufunguzo rwawe rw'imisobekere rwihariye.">
 <!ENTITY escrowWarn.benefit1 "Inyungu ni uko nutakaza ubushobozi bwo kugera ku rufunguzo rwawe rw'imisobekere rwihariye, ushobora gusaba kopi itangwa n'ubu buyobozi bw'icyemezo.">
 <!ENTITY escrowWarn.message2 "Nyamara, urufunguzo rwawe rw'imisobekere rwihariye ruzabikwa n'ubuyobozi bw'icyemezo, kandi rugashobora gukoreshwa kugira ngo usome imeyili cyangwa inyandiko zawe zasobetswe nta icyemezo cyawe.">
+<!ENTITY examineCert.label "Kugaragaza Icyemezo">
+<!ENTITY examineCert.accesskey "g">
 
 <!ENTITY serverCrlNextupdate.message "Usabwe kubaza umuyobozi wa sisitemu yawe kugira ngo agufashe">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "Irimo Gutanga Urufunguzo Rwihariye">
 <!ENTITY createCertInfo.msg1 "Gutanga Urufunguzo birakomeje... Bishobora kumara iminota mike....">
 <!ENTITY createCertInfo.msg2 "Tegereza...">
-
 <!-- Form Signing confirmation prompt -->
+
 <!ENTITY formSigning.title "Gusaba Gushyira Umukono Ku Mwandiko">
 <!ENTITY formSigning.cert "Icyemezo cyo Gushyiraho Umukono">
 <!ENTITY formSigning.confirmPassword "Kugira ngo wemeze wemera gushyira umukono kuri ubu butumwa bwanditse ukoresheje icyemezo cyawe watoranyije, usabwe kwemeza winjiza ijambobanga ngenga ryawe:">
+<!-- Strings for protectedAuth dialog -->
+
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
+<!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

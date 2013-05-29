@@ -1,20 +1,21 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newPagesIn.label "Paji nshya zigomba gufungurirwa muri:">
-<!ENTITY  inNewWindow.label        "idirishya rishya">
-<!ENTITY inNewWindow.accesskey        "r">
-<!ENTITY  inNewTab.label        "agafishi gashya">
-<!ENTITY inNewTab.accesskey           "f">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label "Kumenyesha igihe udufishi dutandukanye tugiye gufungwa">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnCloseMultipleTabs.label  "Kumenyesha igihe udufishi dutandukanye tugiye gufungwa">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label "Kumburira igihe ngiye gufungura udufishi tunyuranye dushobora gutuma &brandShortName; igenda buhoro">
-<!ENTITY warnOpenManyTabs.accesskey "m">
+<!ENTITY warnOpenManyTabs.label       "Kumburira igihe ngiye gufungura udufishi tunyuranye dushobora gutuma &brandShortName; igenda buhoro">
+<!ENTITY warnOpenManyTabs.accesskey   "m">
 
-<!ENTITY  showTabBar.label "Kwerekana buri gihe umwanya w'udufishi">
-<!ENTITY showTabBar.accesskey         "w">
+<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
+<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY  switchToNewTabs.label "Iyo mfunguye ihuza mu gafishi gashya, kuryimukiraho ako kanya">
+<!ENTITY switchToNewTabs.label        "Iyo mfunguye ihuza mu gafishi gashya, kuryimukiraho ako kanya">
 <!ENTITY switchToNewTabs.accesskey    "y">
+
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

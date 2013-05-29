@@ -1,52 +1,38 @@
-<!ENTITY  warnAddonInstall.label "Kumenyesha imbuga nizigerageza kwinjizamo imigereka">
-<!ENTITY warnAddonInstall.accesskey "m">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
-  The methods by which forged (phished) sites will be detected by phishing
-  providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that this string and
-  useDownloadedList.label convey the meaning "suspected" (and not something like
+<!ENTITY  warnAddonInstall.label        "Kumenyesha imbuga nizigerageza kwinjizamo imigereka">
+<!ENTITY  warnAddonInstall.accesskey    "m">
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY tellMaybeForgery.label "Kumenyesha urubuga ndiho nirukekwaho kuba urwiganano">
-<!ENTITY tellMaybeForgery.accesskey "m">
 
-<!ENTITY useDownloadedList.label "Kugenzura hakoreshejwe ilisiti yakuruwe y'imbuga zikemangwa">
-<!ENTITY useDownloadedList.accesskey "e">
+<!ENTITY  blockAttackSites.label     "Block reported attack sites">
+<!ENTITY  blockAttackSites.accesskey "k">
 
-<!-- LOCALIZATION NOTE (askThirdParty.label):
-  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
-  single line in preferences as follows:
+<!ENTITY  blockWebForgeries.label     "Block reported web forgeries">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
-  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
--->
-<!ENTITY askThirdParty.label "Kugenzura hakoreshejwe">
-<!ENTITY askThirdParty.accesskey "z">
-<!ENTITY askThirdPartyAfter.label "ibyerekeye buri rubuga ngiyeho">
-
-<!ENTITY  addonExceptions.label "Amarengayobora...">
-<!ENTITY addonExceptions.accesskey "r">
+<!ENTITY  addonExceptions.label         "Amarengayobora...">
+<!ENTITY  addonExceptions.accesskey     "r">
 
 
-<!ENTITY  passwords.label        "Amagambobanga">
+<!ENTITY  passwords.label               "Amagambobanga">
 
-<!ENTITY  rememberPasswords.label "Kwibuka amagambobanga y'imbuga">
+<!ENTITY  rememberPasswords.label       "Kwibuka amagambobanga y'imbuga">
 <!ENTITY  rememberPasswords.accesskey   "g">
-<!ENTITY  passwordExceptions.label        "Amarengayobora...">
+<!ENTITY  passwordExceptions.label      "Amarengayobora...">
 <!ENTITY  passwordExceptions.accesskey  "A">
 
-<!ENTITY  useMasterPassword.label "Gukoresha ijambobanga ngenga">
-<!ENTITY  useMasterPassword.accesskey   "j">
-<!ENTITY changeMasterPassword.label "Guhindura Ijambobanga Ngenga...">
-<!ENTITY changeMasterPassword.accesskey "h">
+<!ENTITY  useMasterPassword.label        "Gukoresha ijambobanga ngenga">
+<!ENTITY  useMasterPassword.accesskey    "j">
+<!ENTITY  changeMasterPassword.label     "Guhindura Ijambobanga Ngenga...">
+<!ENTITY  changeMasterPassword.accesskey "h">
 
-<!ENTITY  showPasswords.label "Kwerekana Amagambobanga Yabitswe...">
-<!ENTITY  showPasswords.accesskey        "w">
-
-
-<!ENTITY  warnings.label "Ubutumwa Buburira">
-
-<!ENTITY  chooseWarnings.label "Guhitamo ubutumwa buburira ushaka kureba igihe ushakisha ku rubuga">
-
-<!ENTITY  warningSettings.label "Amagenamiterere...">
-<!ENTITY warningSettings.accesskey "g">
+<!ENTITY  savedPasswords.label            "Saved Passwords…">
+<!ENTITY  savedPasswords.accesskey        "P">

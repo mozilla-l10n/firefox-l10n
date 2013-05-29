@@ -1,8 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Iyi Dosiyenyibutsa Zabitswe kuri Mudasobwa Yawe:">
 <!ENTITY     cookiename.label               "Izina rya Dosiyenyibutsa">
 <!ENTITY     cookiedomain.label             "Paji"> 
+<!ENTITY     button.removecookies.label     "Remove Cookies">
 <!ENTITY     button.removecookie.label      "Kuraho Dosiyenyibutsa">
 <!ENTITY     button.removecookie.accesskey  "r">
 <!ENTITY     button.removeallcookies.label  "Kuraho Dosiyenyibutsa Yose">
@@ -22,9 +27,6 @@
 
 <!ENTITY     filter.label                   "Gushakisha:">
 <!ENTITY     filter.accesskey               "s">
-<!ENTITY     clear.label                    "Gusiba">
-<!ENTITY     clear.accesskey                "b">
 
 <!ENTITY     button.close.label             "Gufunga">
 <!ENTITY     button.close.accesskey         "f">
-

@@ -1,52 +1,27 @@
-<!ENTITY  blockPopups.label        "Guhagarika Amadirishya y'Ibyiramburirahejuru">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  blockPopups.label           "Guhagarika Amadirishya y'Ibyiramburirahejuru">
 <!ENTITY  blockPopups.accesskey       "h">
-<!ENTITY  popupExceptions.label        "Amarengayobora...">
+<!ENTITY  popupExceptions.label       "Amarengayobora...">
 <!ENTITY  popupExceptions.accesskey   "r">
 
-<!ENTITY  loadImages.label "Gutangiza amashusho aka kanya">
-<!ENTITY  loadImages.accesskey        "t">
-<!ENTITY exceptions.label "Amarengayobora...">
-<!ENTITY exceptions.accesskey "r">
+<!ENTITY  fontsAndColors.label        "Imyandikire &amp; Amabara">
 
-<!ENTITY  enableJavaScript.label            "Gufungura JavaScript">
-<!ENTITY  enableJavaScript.accesskey        "J">
-<!ENTITY  advancedJS.label                  "Bihanitse...">
-<!ENTITY  advancedJS.accesskey              "B">
-
-<!ENTITY enableJava.label "Gufungura Java">
-<!ENTITY enableJava.accesskey "f">
-
-
-<!ENTITY fontsAndColors.label "Imyandikire &amp; Amabara">
-
-<!ENTITY defaultFont.label "Imyandikire mburabuzi:">
-<!ENTITY defaultFont.accesskey "m">
-<!ENTITY  defaultSize.label        "Ingano mburabuzi:">
+<!ENTITY  defaultFont.label           "Imyandikire mburabuzi:">
+<!ENTITY  defaultFont.accesskey       "m">
+<!ENTITY  defaultSize.label           "Ingano mburabuzi:">
 <!ENTITY  defaultSize.accesskey       "m">
 
-<!ENTITY  advancedFonts.label               "Bihanitse...">
-<!ENTITY  advancedFonts.accesskey           "h">
+<!ENTITY  advancedFonts.label         "Bihanitse...">
+<!ENTITY  advancedFonts.accesskey     "h">
 
-<!ENTITY  colors.label                      "Amabara...">
-<!ENTITY  colors.accesskey                  "A">
-
-
-<!ENTITY  feeds.label "Mutangamakuru nterineti">
-
-<!ENTITY  feedReader.label "Musoma Mutangamakuru Nterineti:">
-<!ENTITY  feedReader.accesskey        "s">
-
-<!ENTITY  feedClick.label "Ninkanda kuri mutangamakuru nterineti y'urubuga:">
-<!ENTITY  ask.label "Kumbaza icyo gukoresha">
-<!ENTITY  ask.accesskey               "b">
-<!ENTITY  subLiveBookmark.label "Kwiyandikisha buri gihe n'Akamenyetso Nyobora Gafunguye">
-<!ENTITY  subLiveBookmark.accesskey   "i">
-<!ENTITY  subReader.label "Kwiyandikisha buri gihe hakoreshejwe Musoma Mutangamakuru Nterineti">
-<!ENTITY  subReader.accesskey         "y">
+<!ENTITY  colors.label                "Amabara...">
+<!ENTITY  colors.accesskey            "A">
 
 
-<!ENTITY  fileTypes.label "Ubwoko bwa Dosiye">
-
-<!ENTITY  configureFileTypes.label "Kugena uko &brandShortName; ikoresha amoko amwe ya za dosiye">
-<!ENTITY  manage.label "Gucunga...">
-<!ENTITY manage.accesskey             "c">
+<!ENTITY languages.label              "Indimi">
+<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
+<!ENTITY chooseButton.label           "Choose…">
+<!ENTITY chooseButton.accesskey       "o">

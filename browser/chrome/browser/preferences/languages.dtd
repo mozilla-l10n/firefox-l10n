@@ -1,7 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Indimi">
-<!ENTITY languages.customize.label                      "Indimi">
 <!ENTITY languages.customize.prefLangDescript           "Paji rubuga ziboneka rimwe na rimwe mu ndimi zirenze rumwe. Hitamo indimi zo kwerekana izi paji rubuga, ukurikije uko zatoranyijwe.">
 <!ENTITY languages.customize.active.label               "Indimi zikurikiranye uko zatoranyijwe:">
 <!ENTITY languages.customize.moveUp.label               "Kuzamura">

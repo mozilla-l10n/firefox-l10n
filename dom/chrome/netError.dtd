@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Ikosa mu gufungura paji">
 <!ENTITY retry.label "Kongera kugerageza">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Byanze kwinjira">
 <!ENTITY connectionFailure.longDesc "<p>Nubwo urubuga rusa naho rwemewe, mucukumbuzi ntiyashoboye gushyiraho umwinjiro.</p><ul><li>Urubuga rwaba rudashobora kubona mu gihe gito? Kongera kugerageza hanyuma.</li><li>Ntabwo ushobora gushakisha izindi mbuga?  Kugenzura umwinjiro w'urusobemiyoboro wa mudasobwa.</li><li>Mudasobwa cyangwa urusobemiyoboro byawe birinzwe n'urukutamuriro cyangwa porogisi? Amagenamiterere atari yo ashobora kubangamira gushakisha ku Rubuga.</li></ul>">
@@ -24,8 +28,21 @@
 <!ENTITY netInterrupt.title "Iyimura ry'Ibyatanzwe ryiburijwemo">
 <!ENTITY netInterrupt.longDesc "<p>Mucukumbuzi yahujwe neza, ariko ukwihuza kwahagaritswe mu kwimura amakuru.  Usabwe kongera kugerageza.</p><ul><li>Ntabwo ushobora gushakisha  izindi mbuga? Kugenzura ukwihuza k'urusobemiyoboro rwa mudasobwa.</li><li>Uracyafite ingorane? Kubaza umuyobozi w'urusomiyoboro cyangwa utanga Interineti kugira ngo agufashe.</li></ul>">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Buryo nta interineti">
-<!ENTITY netOffline.longDesc "<p>Mucukumbuzi irimo gukorera mu buryo ikoreramo hatariho Interineti bityo ntishobora kwihuza n'ikintu cyasabwe.</p><ul><li>Mudasobwa yaba iri ku rusobemiyoboro rukora?</li><li>Gushyira mucukumbuzi mu buryo bwo gukorera kuri Interineti maze ukongera kugerageza.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Kwihuza kwaburijwemo">
 <!ENTITY netReset.longDesc "<p>Ihuza ry'urusobemiyoboro ryahagaritswe mu gihe cyo gushakisha umwinjiro. Usabwe kongera kugerageza.</p>">
@@ -47,3 +64,41 @@
 
 <!ENTITY unknownSocketType.title "Igisubizo si cyo">
 <!ENTITY unknownSocketType.longDesc "<p>Urubuga rwasubije ikibazo cy'urusobemiyoboro mu buryo butunguranye bityo mucukumbuzi ntishobora gukomeza.</p>">
+
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
+<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

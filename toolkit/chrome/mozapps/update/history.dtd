@@ -1,11 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  history.title             "Mateka y'ibihuzagihe">
 <!ENTITY  history.intro             "Ibyavuguruwe bikurikira byinjijwemo:">
 <!ENTITY  closebutton.label         "Gufunga">
                                      
-<!ENTITY  detailsButton.label       "Birambuye">
-<!ENTITY  detailsButton.accesskey   "r">
-
 <!ENTITY  noupdates.label           "Nta byavuguruwe byari byinjizwamo">
 
 <!ENTITY  name.header               "Izina ry'ibihuzagihe">

@@ -1,44 +1,7 @@
-<!--
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is Mozilla Communicator client code.
-#
-# The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s): Daniel Brooks <db48x@yahoo.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the LGPL or the GPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  preface               "Amakuru Agenewe: "> 
-
-<!ENTITY  title                 "Amakuru ya Paji"> 
-<!ENTITY  description           "Amakuru Yerekeye Paji Igezweho"> 
 <!ENTITY  pageInfoWindow.width  "425">
 <!ENTITY  pageInfoWindow.height "470">
 
@@ -51,70 +14,84 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Rusange">
-<!ENTITY  generalAccesskey      "g">
-<!ENTITY  generalTitle          "Umutwe:">
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Aderesi:">
-<!ENTITY  generalMode           "Uburyo bw'Isubiza:">
 <!ENTITY  generalType           "Ubwoko:">
+<!ENTITY  generalMode           "Uburyo bw'Isubiza:">
 <!ENTITY  generalSize           "Ingano:">
 <!ENTITY  generalReferrer       "URL Iranga:">
 <!ENTITY  generalSource         "Imvano y'Ubwihisho:">
-<!ENTITY  generalSent           "Yoherejwe:">
 <!ENTITY  generalModified       "Byahinduwe:">
-<!ENTITY  generalExpires        "Kizarangiza Igihe:">
 <!ENTITY  generalEncoding       "Imisobekere:">
-<!ENTITY  generalMeta           "Meta">
 <!ENTITY  generalMetaName       "Izina">
 <!ENTITY  generalMetaContent    "Ibikubiyemo">
-
-<!ENTITY  formsTab              "Amafishi">
-<!ENTITY  formsAccesskey        "f">
-<!ENTITY  formAction            "Igikorwa Fishi">
-<!ENTITY  formMethod            "Uburyo">
-<!ENTITY  formName              "Izina">
-<!ENTITY  formNo                "No.">
-<!ENTITY  formEncoding          "Imisobekere:">
-<!ENTITY  formTarget            "Ikigamijwe:">
-<!ENTITY  formFields            "Imyanya:">
-<!ENTITY  formLabel             "Akarango">
-<!ENTITY  formFName             "Izina ry'Umwanya">
-<!ENTITY  formType              "Ubwoko">
-<!ENTITY  formCValue            "Agaciro Kagezweho">
-
-<!ENTITY  linksTab              "Amahuza">
-<!ENTITY  linksAccesskey        "h">
-<!ENTITY  linkNo                "No.">
-<!ENTITY  linkName              "Izina">
-<!ENTITY  linkAddress           "Aderesi">
-<!ENTITY  linkType              "Ubwoko">
-<!ENTITY  linkTarget            "Ikigamijwe">
-<!ENTITY  linkAccessKey         "Urufunguzo Mwinjiza">
+<!ENTITY  generalSecurityDetails   "Ibisobanuro">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Ibitangazamakuru">
-<!ENTITY  mediaAccesskey        "z">
-<!ENTITY  mediaHeader           "Amashusho ari kuri iyi Paji">
-<!ENTITY  mediaURL              "Aderesi:">
-<!ENTITY  mediaBase             "Aderesi Shingiro:">
-<!ENTITY  mediaAlt              "Urwandiko Usimbura:">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Location:">
+<!ENTITY  mediaText             "Associated Text:">
 <!ENTITY  mediaAltHeader        "Urwandiko Usimbura">
-<!ENTITY  mediaNo               "No.">
-<!ENTITY  mediaName             "Izina">
 <!ENTITY  mediaAddress          "Aderesi">
 <!ENTITY  mediaType             "Ubwoko">
+<!ENTITY  mediaSize             "Size">
 <!ENTITY  mediaCount            "IBARA">
-<!ENTITY  mediaPlugin           "Agacomekwamo:">
-<!ENTITY  mediaCharset          "Imisobekere:">
-<!ENTITY  mediaDimensions       "Ingano Zatanzwe:">
-<!ENTITY  mediaPhysDimensions   "Ingano Zubu:">
-<!ENTITY  mediaEncryption       "Ihisha:">
-<!ENTITY  mediaTitle            "Umutwe:">
+<!ENTITY  mediaDimension        "Dimensions:">
 <!ENTITY  mediaLongdesc         "Ibisobanuro Birebire:">
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Kubika Muri...">
 <!ENTITY  mediaSaveAs.accesskey "M">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Igaragazambere y'Ibitangazamakuru:">
 
-<!ENTITY  framesTab             "Amakadiri">
-<!ENTITY  framesTab.accesskey   "r">
-<!ENTITY  frameName             "Izina">
-<!ENTITY  frameAddress          "Aderesi">
-<!ENTITY  frameType             "Ubwoko">
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Subscribe">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permAskAlways         "Always ask">
+<!ENTITY  permAllow             "Allow">
+<!ENTITY  permAllowSession      "Emeza umukoro">
+<!ENTITY  permBlock             "Funga">
+<!ENTITY  permissionsFor        "Permissions for:">
+<!ENTITY  permImage             "Load Images">
+<!ENTITY  permPopup             "Open Pop-up Windows">
+<!ENTITY  permCookie            "Set Cookies">
+<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permInstall           "Install Extensions or Themes">
+<!ENTITY  permGeo               "Share Location">
+<!ENTITY  permPlugins           "Activate Plugins">
+<!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
+
+<!ENTITY  permIndexedDB              "Maintain Offline Storage">
+<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "Umutekano">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Security information for this page">
+<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Kitazwi">
+
+
+<!ENTITY  securityView.identity.header   "Website Identity">
+<!ENTITY  securityView.identity.owner    "Owner:">
+<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.verifier "Verified by:">
+
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
+<!ENTITY  securityView.privacy.history                  "Have I visited this website prior to today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
+<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Technical Details">

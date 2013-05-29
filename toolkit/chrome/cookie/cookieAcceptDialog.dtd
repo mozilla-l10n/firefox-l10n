@@ -1,20 +1,21 @@
-<!ENTITY     props.box.label                "Ibyerekeye iyi Dosiyenyibutsa">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Izina:">
 <!ENTITY     props.value.label              "Ibirimo:">
 <!ENTITY     props.domain.label             "Inturo:">
 <!ENTITY     props.path.label               "Inzira:">
 <!ENTITY     props.secure.label             "Gutumaho:">
 <!ENTITY     props.expires.label            "Yarenze Igihe:">
-<!ENTITY     props.policy.label             "Politiki:"> 
 
 <!ENTITY     button.allow.label             "Kwemera">
 <!ENTITY     button.allow.accesskey         "e">
 <!ENTITY     button.session.label           "Kwemera Umukoro">
-<!ENTITY     button.session.accesskey       "k">
+<!ENTITY     button.session.accesskey       "K">
 <!ENTITY     button.deny.label              "Kwanga">
 <!ENTITY     button.deny.accesskey          "a">
 
 <!ENTITY     dialog.title                   "Kwemeza igenamiterere rya Dosiyenyibutsa">
 <!ENTITY     dialog.remember.label          "Gukoresha ibyo nahisemo ku Dosiyenyibutsa zose zatanzwe n'uru rubuga">
 <!ENTITY     dialog.remember.accesskey      "r">
-

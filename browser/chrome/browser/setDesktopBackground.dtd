@@ -1,7 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY position.label             "Ibirindiro:">
 <!ENTITY tile.label                 "Agakaro">
 <!ENTITY center.label               "Hagati">
 <!ENTITY stretch.label              "Kurambura">
+<!ENTITY fill.label                 "Fill">
+<!ENTITY fit.label                  "Fit">
 <!ENTITY preview.label              "Ibibanjirije">
 <!ENTITY color.label                "Ibara:">
 <!ENTITY setDesktopBackground.title "Ishizweho Imbuganyuma y'Ibiro">

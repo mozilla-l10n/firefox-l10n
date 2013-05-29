@@ -1,47 +1,36 @@
-<!ENTITY startup.label "Ntangiriro">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupPage.label "&brandShortName; nitangira:">
-<!ENTITY startupPage.accesskey "n">
-<!ENTITY startupHomePage.label "Kwerekana paji ndasukirwaho yanjye">
-<!ENTITY startupBlankPage.label "Kwerekana paji itanditsweho">
-<!ENTITY startupLastSession.label "Kwerekana amadirishya n'udufishi byanjye mu gihe giheruka">
-<!ENTITY location.label "Paji Ndasukirwaho:">
-<!ENTITY location.accesskey "N">
-<!ENTITY useCurrentPage.label "Koresha Paji Iriho">
-<!ENTITY useCurrentPage.accesskey "I">
-<!ENTITY useMultiple.label "Koresha Paji Ziriho">
-<!ENTITY useBookmark.label "Koresha Akamenyetso">
-<!ENTITY useBookmark.accesskey "m">
-<!ENTITY restoreDefault.label "Kugaruraho ku Mburabuzi">
-<!ENTITY restoreDefault.accesskey "g">
+<!ENTITY startup.label             "Ntangiriro">
 
-<!ENTITY  downloads.label "Ibyakuruwe">
+<!ENTITY startupPage.label         "&brandShortName; nitangira:">
+<!ENTITY startupPage.accesskey     "n">
+<!ENTITY startupHomePage.label     "Kwerekana paji ndasukirwaho yanjye">
+<!ENTITY startupBlankPage.label    "Kwerekana paji itanditsweho">
+<!ENTITY startupLastSession.label  "Kwerekana amadirishya n'udufishi byanjye mu gihe giheruka">
 
-<!ENTITY  showWhenDownloading.label "Kwerekana idirishya ry'Ibyakuruwe igihe cyo gukurura dosiye">
+<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Koresha Paji Iriho">
+<!ENTITY useCurrentPage.accesskey  "I">
+<!ENTITY useMultiple.label         "Koresha Paji Ziriho">
+<!ENTITY chooseBookmark.label      "Use Bookmark…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "Kugaruraho ku Mburabuzi">
+<!ENTITY restoreDefault.accesskey  "g">
+
+<!ENTITY downloads.label     "Ibyakuruwe">
+
+<!ENTITY showWhenDownloading.label     "Kwerekana idirishya ry'Ibyakuruwe igihe cyo gukurura dosiye">
 <!ENTITY showWhenDownloading.accesskey "e">
-<!ENTITY  closeWhenDone.label "Kurifunga ibyakuruwe byose birangiye">
+<!ENTITY closeWhenDone.label "Kurifunga ibyakuruwe byose birangiye">
 <!ENTITY closeWhenDone.accesskey "r">
-<!ENTITY  saveTo.label "Kubika dosiye mu">
-<!ENTITY saveTo.accesskey "k">
-<!ENTITY  chooseFolderWin.label "Gushakisha...">
-<!ENTITY chooseFolderWin.accesskey "h">
-<!ENTITY  chooseFolderMac.label "Guhitamo...">
-<!ENTITY chooseFolderMac.accesskey "h">
-<!ENTITY  alwaysAsk.label "Kumbaza buri aho kubika dosiye">
-<!ENTITY  alwaysAsk.accesskey           "b">
-
-
-<!ENTITY  systemDefaults.label "Imburabuzi za Sisitemu">
-
-<!ENTITY  alwaysCheckDefault.label "Kugenzura buri gihe kugira ngo hamenywe niba &brandShortName; ari mucukumbuzi mburabuzi mu gutangira">
-<!ENTITY alwaysCheckDefault.accesskey "z">
-
-<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
-  There's some sort of bug which makes wrapping checkboxes not properly reflow,
-  causing the bottom border of the groupbox to be cut off; set this
-  appropriately if your localization causes this checkbox to wrap.
--->
-<!ENTITY alwaysCheckDefault.height "3em">
-
-<!ENTITY  checkNow.label "Kugenzura Ubu">
-<!ENTITY checkNow.accesskey "U">
+<!ENTITY saveTo.label "Kubika dosiye mu">
+<!ENTITY saveTo.accesskey "K">
+<!ENTITY chooseFolderWin.label        "Gushakisha...">
+<!ENTITY chooseFolderWin.accesskey    "h">
+<!ENTITY chooseFolderMac.label        "Guhitamo...">
+<!ENTITY chooseFolderMac.accesskey    "h">
+<!ENTITY alwaysAsk.label "Kumbaza buri aho kubika dosiye">
+<!ENTITY alwaysAsk.accesskey "b">

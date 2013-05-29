@@ -1,11 +1,9 @@
-<!ENTITY window.width                 "38em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ocspDialog.title             "Igenzura">
-<!ENTITY validation.ocsp.description  "&brandShortName; ishobora gukoresha OCSP kusuzuma ibyemezo. Shiraho &brandShortName; ukoreshe OCSP mu buryo bukurikira:">
-<!ENTITY disableOCSP.label            "Ntukoreshe OCSP mu gusuzuma ibyemezo">
-<!ENTITY certOCSP.label               "Gukoresha OCSP mu gusuzuma gusa ibyemezo itanga igikorwa cya URL ya OCSP">
-<!ENTITY proxyOCSP.label              "Gukoresha OCSP mu gusuzuma ibyemezo byose zikoresha iyi URL n'ishiraho umukono:">
-<!ENTITY serviceURL.label             "Igikorwa cya URL:">
-<!ENTITY serviceURL.accesskey         "U">
-<!ENTITY signingCA.label              "Igisubizo cy'ushiraho umukono:">
-<!ENTITY signingCA.accesskey          "I">
+<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey         "U">
+<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY requireOCSP.accesskey        "W">

@@ -1,21 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label				"Isobekanyuguti">
-<!ENTITY charsetMenu.accesskey				"s">
-<!ENTITY charsetMenuAutodet.label			"Nyamwitahura">
-<!ENTITY charsetMenuAutodet.accesskey			"m">
-<!ENTITY charsetMenuMore.label				"Iyindi Misobekere">
-<!ENTITY charsetMenuMore.accesskey				"y">
-<!ENTITY charsetMenuMore1.label				"Uburayi bw'Uburengerazuba">
-<!ENTITY charsetMenuMore1.accesskey				"U">
-<!ENTITY charsetMenuMore2.label				"Uburayi bw'Iburasirazuba">
-<!ENTITY charsetMenuMore2.accesskey				"I">
-<!ENTITY charsetMenuMore3.label				"Cyo muri Aziya y'uburasirazuba">
-<!ENTITY charsetMenuMore3.accesskey				"A">
-<!ENTITY charsetMenuMore4.label				"SE &amp; SW Aziya">
-<!ENTITY charsetMenuMore4.accesskey				"z">
-<!ENTITY charsetMenuMore5.label				"Uburasirazuba bwo Hagati">
-<!ENTITY charsetMenuMore5.accesskey				"H">
-<!ENTITY charsetMenuUnicode.label				"Inikode">
-<!ENTITY charsetMenuUnicode.accesskey				"k">
-<!ENTITY charsetCustomize.label				"Kunoza Ilisiti...">
-<!ENTITY charsetCustomize.accesskey				"l">
+
+<!ENTITY charsetMenu.label             "Isobekanyuguti">
+<!ENTITY charsetMenu.accesskey         "s">
+<!ENTITY charsetMenuAutodet.label      "Nyamwitahura">
+<!ENTITY charsetMenuAutodet.accesskey  "m">
+<!ENTITY charsetMenuMore.label         "Iyindi Misobekere">
+<!ENTITY charsetMenuMore.accesskey     "y">
+<!ENTITY charsetMenuMore1.label        "Uburayi bw'Uburengerazuba">
+<!ENTITY charsetMenuMore1.accesskey    "U">
+<!ENTITY charsetMenuMore2.label        "Uburayi bw'Iburasirazuba">
+<!ENTITY charsetMenuMore2.accesskey    "I">
+<!ENTITY charsetMenuMore3.label        "Cyo muri Aziya y'uburasirazuba">
+<!ENTITY charsetMenuMore3.accesskey    "A">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW Aziya">
+<!ENTITY charsetMenuMore4.accesskey    "z">
+<!ENTITY charsetMenuMore5.label        "Uburasirazuba bwo Hagati">
+<!ENTITY charsetMenuMore5.accesskey    "H">
+<!ENTITY charsetCustomize.label        "Kunoza Ilisiti...">
+<!ENTITY charsetCustomize.accesskey    "l">

@@ -1,14 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  prefWindow.titleWin     "Amahitamo">
 <!ENTITY  prefWindow.titleGNOME   "Ibyatoranyijwe bya &brandShortName;">
-<!ENTITY  prefWindow.styleWin        "width: 42em; height: 40em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME        "width: 42em; height: 38.5em;">
+<!-- When making changes to prefWindow.styleWin test both Windows Classic and
+     Luna since widget heights are different based on the OS theme -->
+<!ENTITY  prefWinMinSize.styleWin2      "width: 42em; min-height: 37.5em;">
+<!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneMain.title "Y'Ibanze">
+<!ENTITY  paneGeneral.title       "Rusange">
 <!ENTITY  paneTabs.title          "Udufishi">
 <!ENTITY  paneContent.title       "Ibikubiyemo">
-<!ENTITY paneFeeds.title "Byinjizwa">
+<!ENTITY  paneApplications.title  "Porogaramu">
 <!ENTITY  panePrivacy.title       "Ubuzima Bwite">
-<!ENTITY  paneSecurity.title        "Umutekano">
+<!ENTITY  paneSecurity.title      "Umutekano">
 <!ENTITY  paneAdvanced.title      "Bihanitse">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+
+<!ENTITY  paneSync.title          "Sync">
+<!ENTITY  buttonForward.tooltip   "Go forward one page">
+<!ENTITY  buttonBack.tooltip      "Go back one page">

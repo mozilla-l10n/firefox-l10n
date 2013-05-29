@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Gutubya">
 <!ENTITY bringAllToFront.label    "Kuzana byose Imbere">
@@ -10,40 +14,32 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ifashayobora"> 
 <!ENTITY helpMenuWin.accesskey    "f">
-<!ENTITY aboutCmd.label           "Ibyerekeye &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "b">
-<!ENTITY helpContents.label       "Ibikubiye mu Ifashayobora">
-<!ENTITY helpContents.accesskey   "k">
-<!ENTITY helpContentsMac.label    "Ifashayobora rya &brandShortName;">
-<!ENTITY helpForIEUsers.label     "Bigenewe Abakoresha Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "i">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey           "/">
-<!ENTITY openHelpMac2.modifiers            "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey   "?">
-<!ENTITY openHelpMac2.frontendModifiers    "accel">
+<!ENTITY aboutProduct.label       "About &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; Help">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Ibisobanuro ku Cyatangajwe">
-<!ENTITY helpReleaseNotes.accesskey     "s">
-<!ENTITY updateCmd.label                "Kugenzura Ibyavuguruwe...">
-<!ENTITY updateCmd.accesskey            "z">
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY  preferencesCmdMac.label        "Ibyatoranyijwe...">
-<!ENTITY  preferencesCmdMac.commandkey        ",">
-<!ENTITY  preferencesCmdMac.modifiers        "accel">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY  servicesMenuMac.label        "Ibikorwa">
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY  hideThisAppCmdMac.label        "Guhisha &brandShortName;">
-<!ENTITY  hideThisAppCmdMac.commandkey        "H">
-<!ENTITY  hideThisAppCmdMac.modifiers        "accel">
+<!ENTITY preferencesCmdMac.label        "Ibyatoranyijwe...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY  hideOtherAppsCmdMac.label        "Guhisha Ibindi">
-<!ENTITY  hideOtherAppsCmdMac.commandkey      "H">
-<!ENTITY  hideOtherAppsCmdMac.modifiers        "accel,alt">
+<!ENTITY servicesMenuMac.label          "Ibikorwa">
 
-<!ENTITY  showAllAppsCmdMac.label        "Kwerekana Byose">
+<!ENTITY hideThisAppCmdMac.label        "Guhisha &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Guhisha Ibindi">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Kwerekana Byose">

@@ -1,25 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  connectionsDialog.title       "Amagenamiterere yo Kwihuza">
 <!ENTITY  window.width                  "50em">
 <!ENTITY  window.macWidth               "52em">
 
 <!ENTITY  proxyTitle.label              "Kuboneza porogisi kugira ngo interineti ikoreshwe">
-<!ENTITY  directTypeRadio.label         "Kwihuza na Interineti ako Kanya">
-<!ENTITY  directTypeRadio.accesskey     "I">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Amagenamiterere ya porogisi nyamwitahura agenewe uru rusobemiyoboro">
 <!ENTITY  WPADTypeRadio.accesskey       "g">
 <!ENTITY  manualTypeRadio.label         "Itunganya n'Intoki rya Porogosi:">
 <!ENTITY  manualTypeRadio.accesskey     "t">
 <!ENTITY  autoTypeRadio.label           "URL Ihita Iboneza Porogisi:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  configAutoconfigText.label    "Ahantu h'Iboneza (URL):">
-<!ENTITY  configAutoconfigText.accesskey "h">
 <!ENTITY  reload.label                  "Kongera Gutangiza">
 <!ENTITY  reload.accesskey              "n">
 <!ENTITY  ftp.label                     "Porogisi FTP:">
 <!ENTITY  ftp.accesskey                 "P">
-<!ENTITY  gopher.label                  "Porogosi ya Gopher:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "Porogosi ya HTTP:">
 <!ENTITY  http.accesskey                "i">
 <!ENTITY  ssl.label                     "Porogosi ya SSL:">
@@ -27,18 +29,16 @@
 <!ENTITY  socks.label                   "Inturo SOCKS:">
 <!ENTITY  socks.accesskey               "O">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Imuyoboro:">
 <!ENTITY  HTTPport.accesskey            "y">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nta Porogosi Igenewe:">
 <!ENTITY  noproxy.accesskey             "w">
 <!ENTITY  noproxyExplain.label          "Urugero: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koresha iyo seriveri porogisi kuri porotokoli zose">
-<!ENTITY  shareproxy.accesskey          "Z">
+<!ENTITY  shareproxy.accesskey          "z">

@@ -1,62 +1,65 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  updateWizard.title              "Ibihuzagihe bya &brandShortName;">
 
-<!ENTITY offline.title "&brandShortName; irakora hatariho interineti">
+<!ENTITY  offline.title                   "&brandShortName; irakora hatariho interineti">
 <!ENTITY  offline.description             "&brandShortName; needs to go online in order to see if updates
                                            are available for your add-ons to make them compatible with this
                                            version.">
-<!ENTITY offline.toggleOffline.label "Kujya kuri interineti ubu.">
-<!ENTITY offline.toggleOffline.accesskey "j">
+<!ENTITY  offline.toggleOffline.label     "Kujya kuri interineti ubu.">
+<!ENTITY  offline.toggleOffline.accesskey "j">
 
-<!ENTITY  mismatch.win.title        "Idakorana na Imigereka">
+<!ENTITY  mismatch.win.title              "Idakorana na Imigereka">
 <!ENTITY  mismatch.top.label              "The following add-ons are not compatible with this version of
                                            &brandShortName; and have been disabled:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; can check if there are compatible versions
                                            of these add-ons available.">
 
-<!ENTITY checking.wizard.title "Kugenzura Imigereka Ikorana">
-<!ENTITY checking.top.label "Igenzura Ibyavuguruwe ku Imigereka Itakorana yawe...">
+<!ENTITY  checking.wizard.title           "Kugenzura Imigereka Ikorana">
+<!ENTITY  checking.top.label              "Igenzura Ibyavuguruwe ku Imigereka Itakorana yawe...">
 <!ENTITY  checking.status                 "Bishobora gufata akanya...">
 
-<!ENTITY found.wizard.title "Habonetse Imigereka Ikorana">
-<!ENTITY found.top.label "Hitamo imigereka wifuza kwinjizamo:">
+<!ENTITY  found.wizard.title               "Habonetse Imigereka Ikorana">
+<!ENTITY  found.top.label                 "Hitamo imigereka wifuza kwinjizamo:">
 <!ENTITY  found.disabledXPinstall.label   "These updates can't be installed because software installation is currently
                                            disabled. You can change this setting below.">
-<!ENTITY  found.enableXPInstall.label "Gutuma imbuga makuru zinjizamo porogaramu mudasobwa">
+<!ENTITY  found.enableXPInstall.label     "Gutuma imbuga makuru zinjizamo porogaramu mudasobwa">
 <!ENTITY  found.enableXPInstall.accesskey "t">
 
-<!ENTITY installing.wizard.title "Irimo Kwinjizamo Imigereka Ikorana">
-<!ENTITY installing.top.label "Iri gukora iyimura ikana shyiraho ibihuzagihe by'imigereka yawe...">
+<!ENTITY  installing.wizard.title         "Irimo Kwinjizamo Imigereka Ikorana">
+<!ENTITY  installing.top.label            "Iri gukora iyimura ikana shyiraho ibihuzagihe by'imigereka yawe...">
 
-<!ENTITY noupdates.wizard.title "Nta Imigereka Ikorana Yabonetse">
+<!ENTITY  noupdates.wizard.title          "Nta Imigereka Ikorana Yabonetse">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; was unable to find updates to your
                                            incompatible add-ons.">
-<!ENTITY noupdates.error.desc "Hari ibibazo byabaye mu kugerageza kubona ibyavuguruwe.">
+<!ENTITY  noupdates.error.desc            "Hari ibibazo byabaye mu kugerageza kubona ibyavuguruwe.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; will check periodically and inform you
                                            when compatible updates for these add-ons are found.">
 
-<!ENTITY finished.wizard.title "Imigereka Ikorana Yinjijwemo">
-<!ENTITY finished.top.label "&brandShortName; yinjije mu migereka yawe ibyavuguruwe.">
+<!ENTITY  finished.wizard.title           "Imigereka Ikorana Yinjijwemo">
+<!ENTITY  finished.top.label              "&brandShortName; yinjije mu migereka yawe ibyavuguruwe.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; can check periodically and inform you
                                            when updates for add-ons are found.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; will check periodically and inform you
                                            when updates for add-ons are found.">
 
-<!ENTITY adminDisabled.wizard.title "Ntibishoboka Kugenzura Ibyavuguruwe.">
+<!ENTITY  adminDisabled.wizard.title      "Ntibishoboka Kugenzura Ibyavuguruwe.">
 <!ENTITY  adminDisabled.warning.label     "It is not possible to check for updates to incompatible add-ons
                                            because software installation for &brandShortName; has been disabled.
                                            Please contact your System Administrator for assistance.">
 
-<!ENTITY versioninfo.wizard.title "Irimo kugenzura Imikoranire y'Inyongera">
+<!ENTITY  versioninfo.wizard.title        "Irimo kugenzura Imikoranire y'Inyongera">
 <!ENTITY  versioninfo.top.label           "Checking your add-ons for compatibility with this
                                            version of &brandShortName;.">
-<!ENTITY versioninfo.waiting "Ibi bishobora kumara iminota mike...">
+<!ENTITY  versioninfo.waiting             "Ibi bishobora kumara iminota mike...">
 
-<!ENTITY installerrors.wizard.title "Habaye Ibibazo mu kwinjizamo Ibyavuguruwe">
+<!ENTITY  installerrors.wizard.title      "Habaye Ibibazo mu kwinjizamo Ibyavuguruwe">
 <!ENTITY  installerrors.intro.label       "&brandShortName; encountered problems when updating
                                            some of your add-ons.">
-
 <!-- general strings used by several of the finish pages -->
-<!ENTITY clickFinish.label "Kanda kuri buto yo Kurangiza ukomeze gutangira &brandShortName;.">
-<!ENTITY enableChecking.label "Kwemerera &brandShortName; kugenzura ibihuzagihe.">
-<!ENTITY details.label "Birambuye...">
-<!ENTITY details.accesskey "B">
+
+<!ENTITY  clickFinish.label               "Kanda kuri buto yo Kurangiza ukomeze gutangira &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Click Done to continue starting &brandShortName;.">
+<!ENTITY  enableChecking.label            "Kwemerera &brandShortName; kugenzura ibihuzagihe.">

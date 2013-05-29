@@ -1,20 +1,24 @@
-<!ENTITY  button-back-mac.label "Gusubira Inyuma">
-<!ENTITY button-back-mac.accesskey "y">
-<!ENTITY  button-next-mac.label "Gukomeza">
-<!ENTITY button-next-mac.accesskey "k">
-<!ENTITY  button-finish-mac.label "Byakozwe">
-<!ENTITY  button-cancel-mac.label "Kureka">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  button-back-unix.label "Inyuma">
-<!ENTITY button-back-unix.accesskey "y">
-<!ENTITY  button-next-unix.label "Imbere">
-<!ENTITY button-next-unix.accesskey "b">
-<!ENTITY  button-finish-unix.label "Kurangiza">
-<!ENTITY  button-cancel-unix.label "Kureka">
+<!ENTITY  button-back-mac.label        "Gusubira Inyuma">
+<!ENTITY  button-back-mac.accesskey    "y">
+<!ENTITY  button-next-mac.label        "Gukomeza">
+<!ENTITY  button-next-mac.accesskey    "k">
+<!ENTITY  button-finish-mac.label      "Byakozwe">
+<!ENTITY  button-cancel-mac.label      "Kureka">
 
-<!ENTITY  button-back-win.label "&lt; Inyuma">
-<!ENTITY button-back-win.accesskey "y">
-<!ENTITY  button-next-win.label "Imbere &gt;">
-<!ENTITY button-next-win.accesskey "b">
-<!ENTITY  button-finish-win.label "Kurangiza">
-<!ENTITY  button-cancel-win.label "Kureka">
+<!ENTITY  button-back-unix.label       "Inyuma">
+<!ENTITY  button-back-unix.accesskey   "y">
+<!ENTITY  button-next-unix.label       "Imbere">
+<!ENTITY  button-next-unix.accesskey   "b">
+<!ENTITY  button-finish-unix.label     "Kurangiza">
+<!ENTITY  button-cancel-unix.label     "Kureka">
+
+<!ENTITY  button-back-win.label        "&lt; Inyuma">
+<!ENTITY  button-back-win.accesskey    "y">
+<!ENTITY  button-next-win.label        "Imbere &gt;">
+<!ENTITY  button-next-win.accesskey    "b">
+<!ENTITY  button-finish-win.label      "Kurangiza">
+<!ENTITY  button-cancel-win.label      "Kureka">
