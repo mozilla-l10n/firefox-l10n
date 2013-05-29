@@ -8,11 +8,11 @@
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "Akasumulizo akapya:">
 <!ENTITY setPassword.reenterPassword.label "Akasumulizo akapya (nddamu):">
-<!ENTITY setPassword.meter.label "Password quality meter">
+<!ENTITY setPassword.meter.label "Ehintasɛmfua anoɔden esusufo">
 <!ENTITY setPassword.meter.loading "Loading">
 <!-- Values for resetpassword.xul -->
 
-<!ENTITY resetPasswordButtonLabel "Reset">
+<!ENTITY resetPasswordButtonLabel "Hyehyɛ-bio">
 <!ENTITY resetPassword.title  "Reset Master Password">
 <!ENTITY resetPassword.text  "Bwona kyusa akasumulizoko ka masita, byona byoteresee ku muko ne akasumulizo ka i-mayilu, fomu ya wiino, santifikati mubuntu, ne akasumulizo kenenyini kaza kwerabirwa. Okakasa oyagala ku kyusa akasmulizo ka masita ko?">
 <!-- Values for getpassword.xul -->

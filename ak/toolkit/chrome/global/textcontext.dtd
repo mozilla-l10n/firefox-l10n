@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Twe fa-ka-nsɛmfuasekyerɛ-ho san">
 <!ENTITY spellUndoAddToDictionary.accesskey "w">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.label "Hwɛ Akyerɛw No Mu">
+<!ENTITY spellCheckToggle.accesskey "A">
 <!ENTITY spellNoSuggestions.label "(Akyerɛw Nsusui Biara Nni Hɔ)">
 <!ENTITY spellDictionaries.label "Akasa">
 <!ENTITY spellDictionaries.accesskey "A">

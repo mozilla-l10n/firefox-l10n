@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Yɛ dɛm ara otomatikmu ma mfael te sɛ yi firi seiseiara rekɔ.">
 <!ENTITY  rememberChoice.accesskey    "o">
 
-<!ENTITY  whichIsA.label              "a ɛyɛ:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Paw…">
 <!ENTITY  chooseHandlerMac.accesskey  "P">

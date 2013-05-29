@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Kyɛ beaɛ">
 <!ENTITY  permPlugins           "Kenyan Mplagin">
 <!ENTITY  permFullscreen        "Wura skreen tɛtrɛtɛɛ mood mu">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Kɔso kura siede a wɔwɔ ɔflaen">
 <!ENTITY  permClearStorage           "Pepa asiede">

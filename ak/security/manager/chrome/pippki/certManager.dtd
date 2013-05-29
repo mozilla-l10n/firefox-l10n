@@ -84,8 +84,8 @@
 <!ENTITY certmgr.delete2.accesskey            "P">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backup2.label                "Sie-bio…">
+<!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Jjamu copi otteereke ya zona…">
 <!ENTITY certmgr.backupall2.accesskey         "m">
 <!ENTITY certmgr.restore2.label               "Impɔɔt…">

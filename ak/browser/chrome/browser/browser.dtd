@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Bukmaake Krataafa Yi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Kyɛ Kratafa Yi">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "K">
+<!ENTITY shareLinkCmd.label "Kyɛ Linke Yi">
+<!ENTITY shareLinkCmd.accesskey "y">
+<!ENTITY shareImageCmd.label "Kyɛ Mfoni Yi">
+<!ENTITY shareImageCmd.accesskey "ɛ">
+<!ENTITY shareSelectCmd.label "Kyɛ Mpawee">
+<!ENTITY shareSelectCmd.accesskey "K">
+<!ENTITY shareVideoCmd.label "Kyɛ Sini Yi">
+<!ENTITY shareVideoCmd.accesskey "K">
 <!ENTITY subscribeToPageMenupopup.label "Kyerɛw Wo Din Ka Krataafa Yi Ho">
 <!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
 <!ENTITY addCurPagesCmd.label "Bukmaake Ntab Nyinara…">
@@ -198,14 +209,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Wɛb sɔftwɛɛ kyerɛwfo">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "Kɔnɛkte…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "Mfomso kɔnsool">
 <!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
+<!ENTITY remoteWebConsoleCmd.label    "Wɛb Adwumadide a Ɛwɔ Ekyiri">
+
+<!ENTITY browserConsoleCmd.label      "Brawsa Adwumadide">
 
 <!ENTITY inspectContextMenu.label     "Inspɛkt ɛlɛmɛnt">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -234,10 +247,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "b">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "Tɔgel Adwumayɛde">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarToolsButton.tooltip     "Tɔgel ndeyɛe ndwumayɛde">
 <!ENTITY devToolbarOtherToolsButton.label  "Tuul nom pii">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Gye ntuul bi bio ka ho">
@@ -248,14 +261,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Tokuro Foforo">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
-<!ENTITY newPrivateWindow.label     "New Private Window">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.label     "Tokuro Ankorankorɛ Foforo">
+<!ENTITY newPrivateWindow.accesskey "T">
 
 <!ENTITY editMenu.label         "Sesa"> 
 <!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Nnyɛ">  
+<!ENTITY undoCmd.label            "Undo">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "n"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Yɛ bio">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "b"> 
@@ -462,12 +475,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "Normal Speed">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate150x.label "Mmirikantɛntɛm (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "M">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
+<!ENTITY mediaPlaybackRate200x.label "Mmirikantɛntɛm a ɛboro ntease (2×)">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Gyae"> 
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac.label    "Gyae &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "To mu">  
 <!ENTITY closeCmd.key                   "W">  
@@ -626,17 +640,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Kyerɛ saedbaa">
 <!ENTITY social.toggleSidebar.accesskey "y">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "Hwɛ Asom so…">
 
 <!ENTITY social.toggleNotifications.label "Kyerɛ dɛsktɔp asɛnka">
 <!ENTITY social.toggleNotifications.accesskey "s">
 
-<!ENTITY social.activated.undobutton.label "Kɔ-ekyiri">
-<!ENTITY social.activated.undobutton.accesskey "K">
+<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.closeNotificationItem.label "Nnyɛ Seiseiara">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focus chats">
 <!ENTITY social.chatBar.accesskey "c">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera to share:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

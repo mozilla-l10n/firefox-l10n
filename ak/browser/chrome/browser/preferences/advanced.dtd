@@ -36,7 +36,7 @@
 
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportSection.label       "&brandShortName; apɔwmuden amandebɔ">
 <!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
 <!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "i">
 <!ENTITY offlineAppRemove.confirm        "Yi deta a ɛwɔ ɔflaen">
 
-<!ENTITY encryptionTab.label             "Ɛnkrephyen">
-
-<!ENTITY protocols.label                 "Mprotokɔl">
-<!ENTITY useSSL3.label                   "Yɛ SSL 3.0 ho adwuma">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Yɛ TLS 1.0 ho adwuma">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Abasobɔde nkrataa">
+<!ENTITY certificateTab.label            "Abasobɔde nkrataa">
 <!ENTITY certSelection.description       "Sɛ somfo bi bisa meabasobɔde krataa:">
 <!ENTITY certs.auto                      "Paw baako otomatikmu">
 <!ENTITY certs.auto.accesskey            "l">
