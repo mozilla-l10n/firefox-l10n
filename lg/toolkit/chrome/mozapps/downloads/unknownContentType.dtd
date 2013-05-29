@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Leka kino kyekole kyokka ku fayiro nga eno okuva kati.">
 <!ENTITY  rememberChoice.accesskey    "k">
 
-<!ENTITY  whichIsA.label              "nga kye:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Londako…">
 <!ENTITY  chooseHandlerMac.accesskey  "L">

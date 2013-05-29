@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Ndabula nga nziggulawo awaddirira wangi nga kiyinza okukendeza ku bwangu bwa &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "n">
 
-<!ENTITY showTabBar.label             "Bulijjo laga akabawo kawaddirira">
-<!ENTITY showTabBar.accesskey         "a">
-
 <!ENTITY restoreTabsOnDemand.label        "Totika awaddirira nga tewana londebwa">
 <!ENTITY restoreTabsOnDemand.accesskey    "T">
 

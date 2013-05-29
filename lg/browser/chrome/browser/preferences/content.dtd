@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Ebyawufu…">
 <!ENTITY  popupExceptions.accesskey   "w">
 
-<!ENTITY  loadImages.label            "Tikka ebifaananyi ebyeyolesa byokka">
-<!ENTITY  loadImages.accesskey        "f">
-<!ENTITY  exceptions.label            "Ebyawufu…">
-<!ENTITY  exceptions.accesskey        "b">
-
-<!ENTITY  enableJavaScript.label      "Okusobozesa JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Ekisukulumu…">
-<!ENTITY  advancedJS.accesskey        "i">
-
-<!ENTITY  enableJava.label            "Okusobozesa Java">
-<!ENTITY  enableJava.accesskey        "s">
-
-
 <!ENTITY  fontsAndColors.label        "Enukuta &amp; Langi">
 
 <!ENTITY  defaultFont.label           "Enukuta eyenkalakkalira:">

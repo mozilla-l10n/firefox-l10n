@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Kkiriza kkuki kuva kubibanja">
 <!ENTITY  acceptCookies.accesskey       "v">
 
-<!ENTITY  acceptThirdParty.label        "Kkiriza kkuki eziva ewalala">
-<!ENTITY  acceptThirdParty.accesskey    "z">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Tekibanga">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Kuuma okutuusa:">
 <!ENTITY  keepUntil.accesskey           "t">

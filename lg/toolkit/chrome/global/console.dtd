@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "l">
 <!ENTITY evaluate.label     "Ggerageranya omuwendo">
 <!ENTITY evaluate.accesskey "g">
-<!ENTITY filter.label       "Akasengeja">
-<!ENTITY filter.accesskey   "k">
+<!ENTITY filter2.label      "Filter:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "Koppa">  
 <!ENTITY copyCmd.accesskey   "K"> 

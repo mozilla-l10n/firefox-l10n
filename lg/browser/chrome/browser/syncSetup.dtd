@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "k">
 <!ENTITY setup.confirmPassword.label     "Kakasa akasumuluzo">
 <!ENTITY setup.confirmPassword.accesskey "s">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Nzikiriza ekyo">
 <!ENTITY setup.tosAgree1.accesskey  "r">
 <!ENTITY setup.tosLink.label        "Amateeka g'empeereza">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Yunga Ebyuma">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
 <!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
-<!ENTITY pairDevice.setup.description.label  "Okutandika, londa &#x0022;Yunga ekyuma&#x0022; kukyuma ekirala.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
-<!ENTITY pairDevice.dialog.description.label "Okutandika ekyuma ekyirala, londa &#x0022;Tegeka Akatuusa&#x0022; ku kyuma ekyo.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
 <!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Yingira">
-<!ENTITY existingRecoveryKey.description "Osoobola okufuna kopi ya'kasumuluzo akanunula nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;Akasumuluzo Kange Akanunula&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
 <!ENTITY resetSyncKey.label           "Mbuziza ekyuma kyange ekirala.">

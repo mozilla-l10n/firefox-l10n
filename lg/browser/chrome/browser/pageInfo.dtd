@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Ttika Ebifananyi">
 <!ENTITY  permPopup             "Gulawo Amadirisa Ageggulawo gokka">
 <!ENTITY  permCookie            "Tegeka Kuki">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Tekaa mu  obwongerezebwako oba endabika">
 <!ENTITY  permGeo               "Gabanya Ekifo">
 <!ENTITY  permPlugins           "Tandika Ebigatibwamu">
 <!ENTITY  permFullscreen        "Yingira Sikulini Enzijjuvu">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Labirira Eterekero Elitayingidwa ku Mukutu">
 <!ENTITY  permClearStorage           "Jjawo Eterekero">
