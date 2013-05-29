@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Маннык билэлэргэ барыларыгар аптамаатынан.">
 <!ENTITY  rememberChoice.accesskey    "л">
 
-<!ENTITY  whichIsA.label              "маннык буолар:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Тал…">
 <!ENTITY  chooseHandlerMac.accesskey  "а">

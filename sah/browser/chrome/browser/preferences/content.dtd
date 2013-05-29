@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Туорааһыннар…">
 <!ENTITY  popupExceptions.accesskey   "Т">
 
-<!ENTITY  loadImages.label            "Ойуулары аптамаатынан хачайдаа">
-<!ENTITY  loadImages.accesskey        "а">
-<!ENTITY  exceptions.label            "Туорааһыннар…">
-<!ENTITY  exceptions.accesskey        "Т">
-
-<!ENTITY  enableJavaScript.label      "JavaScript холбоо">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Эбии…">
-<!ENTITY  advancedJS.accesskey        "б">
-
-<!ENTITY  enableJava.label            "Java-ны холбоо">
-<!ENTITY  enableJava.accesskey        "J">
-
-
 <!ENTITY  fontsAndColors.label        "Бичик &amp; өҥ">
 
 <!ENTITY  defaultFont.label           "Сүрүн бичик:">

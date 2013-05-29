@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Хас да кыбытыгы арыйыы &brandShortName; бытаардар буоллаҕына сэрэтээр ">
 <!ENTITY warnOpenManyTabs.accesskey   "Х">
 
-<!ENTITY showTabBar.label             "Кыбытыктар тэриллэрин куруук көрдөрөр буолаар">
-<!ENTITY showTabBar.accesskey         "ы">
-
 <!ENTITY restoreTabsOnDemand.label        "Кыбытыктары ыйытыга суох холбоомо">
 <!ENTITY restoreTabsOnDemand.accesskey    "ы">
 

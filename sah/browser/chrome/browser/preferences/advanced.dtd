@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "о">
 <!ENTITY offlineAppRemove.confirm        "Хачайдаммыт ситим-сирдэри сот">
 
-<!ENTITY encryptionTab.label             "Шифрдээһин">
-
-<!ENTITY protocols.label                 "Боротокуоллар">
-<!ENTITY useSSL3.label                   "SSL 3.0 тутун">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 тутун">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Сэртипикээттэр">
+<!ENTITY certificateTab.label            "Сэртипикээттэр">
 <!ENTITY certSelection.description       "Сиэрбэр тус сэртипикээти көрдөөтөҕүнэ:">
 <!ENTITY certs.auto                      "Аптамаатынан ыыт">
 <!ENTITY certs.auto.accesskey            "l">

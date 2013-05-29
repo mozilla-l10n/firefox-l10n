@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Баар сиргин көрдөр">
 <!ENTITY  permPlugins           "Плагииннары холбоо">
 <!ENTITY  permFullscreen        "Толору экрааҥҥа киирии">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Харайар сири салайыы">
 <!ENTITY  permClearStorage           "Харайар сири ыраастаа">
