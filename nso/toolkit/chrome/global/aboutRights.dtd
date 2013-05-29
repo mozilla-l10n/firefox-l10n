@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; e diriša ditirelo tša tshedimošo tše theilwego wepeng (&quot;Services&quot;) gore e fane ka tše dingwe tša dibopego tšeo di newago gore o di diriše le tokollo ya tše pedi ya &brandShortName; ka tlase ga melawana e hlalositšwego ka mo tlase. Ge e ba o sa nyake go diriša e nngwe ya ditirelo goba melawana yeo e lego ka mo tlase e sa amogelege, o ka šitiša sebopego goba (di)tirelo. Ditaelo mabapi le kamoo o ka šitišago sebopego se itšego goba tirelo di ka hwetšwa  ">
 <!ENTITY rights2.webservices-b "mo">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Dibopego tše dingwe le ditirelo di ka šitišwa go dikganyogwa tša tirišo.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Go praosa go bolokegilego:">

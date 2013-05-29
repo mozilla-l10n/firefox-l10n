@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Abelana lefelo">
 <!ENTITY  permPlugins           "Diragatša ditsebišo-koketšo">
 <!ENTITY  permFullscreen        "Tsenya sekirini se tletšego">
-<!ENTITY  permPointerLock       "Fihla selaetši">
+<!ENTITY  permPointerLock2      "Fihla selaetši sa legotlwana">
 
 <!ENTITY  permIndexedDB              "Boloka polokelo ya go se be inthaneteng">
 <!ENTITY  permClearStorage           "Hlwekiša polokelo">
