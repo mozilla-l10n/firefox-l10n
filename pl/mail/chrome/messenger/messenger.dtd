@@ -687,8 +687,14 @@
 <!ENTITY contextReplyList.accesskey      "l">
 <!ENTITY contextForward.label            "Przekaż">
 <!ENTITY contextForward.accesskey        "P">
-<!ENTITY contextForwardAsAttachment.label       "Przekaż jako załącznik">
-<!ENTITY contextForwardAsAttachment.accesskey   "z">
+<!ENTITY contextForwardAsMenu.label "Przekaż">
+<!ENTITY contextForwardAsMenu.accesskey "z">
+<!ENTITY contextForwardAsInline.label "Bezpośrednio">
+<!ENTITY contextForwardAsInline.accesskey "B">
+<!ENTITY contextForwardAsAttachmentItem.label "Jako załącznik">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "z">
+<!ENTITY contextMultiForwardAsAttachment.label "Jako załączniki">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label               "Przenieś do">
 <!ENTITY contextMoveMsgMenu.accesskey           "z">
 <!ENTITY contextMoveCopyMsgRecentMenu.label     "Ostatni">
