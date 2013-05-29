@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  colorsDialog.title              "Amabara">
-<!ENTITY window.width                     "55em">
-<!ENTITY  window.macWidth        "41em">
+<!ENTITY  window.width                    "55em">
+<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Gutuma paji zishobora kwihitiramo amabara yazo, mu mwanya w'ayo nahisemo haruguru">
 <!ENTITY  allowPagesToUse.accesskey       "e">

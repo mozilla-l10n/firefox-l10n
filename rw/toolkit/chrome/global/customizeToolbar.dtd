@@ -1,5 +1,9 @@
-<!ENTITY dialog.title "Kuboneza Umwanyabikoresho">
-<!ENTITY  dialog.style        "width: 635px; height: 400px;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Kuboneza Umwanyabikoresho">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Ushobora kongeraho cyangwa gukuraho ibigize ukurura ubijyana cyangwa ubivana mu myanyabikoresho.">
 <!ENTITY show.label               "Kwerekana:">
 <!ENTITY iconsAndText.label       "Udushushondanga n'Inyandiko">

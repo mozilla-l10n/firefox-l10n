@@ -1,12 +1,15 @@
-<!ENTITY window.width                     "400">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+
+<!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY done.label                       "Byakozwe">
-<!ENTITY canceled.label                   "Byasubitswe">
-<!ENTITY installing.label                 "Irimo kwinjizamo...">
-
 <!ENTITY starting.label                   "Irimo gutangira...">
-<!ENTITY failed.label                     "Byanze">
+<!ENTITY scanning.label                   "Scanning for viruses…">
 
 <!ENTITY downloads.title                  "Ibikururwa">
 
@@ -17,30 +20,33 @@
 <!ENTITY cmd.cancel.label                 "Kureka">
 <!ENTITY cmd.cancel.accesskey             "r">
 <!ENTITY cmd.show.label                   "Gufungura Ububiko Burimo">
-<!ENTITY  cmd.show.labelMac        "Kwerekana muri Finder">
-<!ENTITY cmd.show.accesskey               "b">
-<!ENTITY cmd.show.accesskeyMac             "F">
+<!ENTITY cmd.show.accesskey               "B">
+<!ENTITY cmd.showMac.label                "Show in Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Gufungura">
 <!ENTITY cmd.open.accesskey               "f">
 <!ENTITY cmd.openWith.label               "Gufungura Hifashishijwe...">
 <!ENTITY cmd.openWith.accesskey           "n">
 <!ENTITY cmd.retry.label                  "Kongera Kugerageza">
 <!ENTITY cmd.retry.accesskey              "o">
-<!ENTITY cmd.remove.label                 "Kuvanaho">
-<!ENTITY cmd.remove.accesskey             "v">
-<!ENTITY cmd.properties.label             "Ibiranga">
-<!ENTITY cmd.properties.accesskey         "I">
-<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.goToDownloadPage.label       "Go to Download Page">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "Remove From List">
+<!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.cleanUp.label                "Gusukura">
-<!ENTITY cmd.cleanUp.tooltip              "Ivana ku ilisiti ibikururwa byarangiye, byahagaritswe n'ibyanze">
-<!ENTITY cmd.cleanUp.accesskey            "G">
+<!ENTITY cmd.clearList.label              "Clear List">
+<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
+<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Gufunga igihe ibikururwa birangiye">
 <!ENTITY closeWhenDone.tooltip            "Ifunga idirishya ry'ibikururwa iyo dosiye zose zarangije kwimurwa">
 
-<!ENTITY filesSavedTo.label               "Dosiye zose zimuriwe ku:">
 <!ENTITY showFolder.label                 "Kwerekana ubu Bubiko">
+<!ENTITY searchBox.label                  "Search…">

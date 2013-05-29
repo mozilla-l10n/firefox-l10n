@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY lookInMenuList.label   "Gushakira mu:">
 <!ENTITY lookInMenuList.accesskey   "s">
 <!ENTITY textInput.label        "Izina rya dosiye:">
@@ -7,7 +11,6 @@
 <!ENTITY name.label             "Izina">
 <!ENTITY size.label             "Ingano">
 <!ENTITY lastModified.label     "Cyahinduwe Bwa Nyuma">
-<!ENTITY permissions.label      "Impushya">
 <!ENTITY showHiddenFiles.label  "Kwerekana dosiye n'ububiko bihishe ">
 <!ENTITY showHiddenFiles.accesskey  "e">
 

@@ -1,8 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title "Kwinjizamo Porogaramu Mudasobwa">
-<!ENTITY warningText2.label "Porogaramu mudasobwa mbi ishobora kwangiriza mudasobwa yawe cyangwa kubangamira umwihariko wawe.">
-<!ENTITY warningText3.label "Ugomba kwinjizamo gusa porogaramu mudasobwa ziva aho wizeye.">
-
-<!ENTITY from.label "bivuye:">
-

@@ -1,90 +1,132 @@
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "q", "z" -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label               "Rusange">
 
-<!ENTITY accessibility.label            "Imikoresherezwe">
+<!ENTITY generalTab.label                "Rusange">
 
-<!ENTITY  useCursorNavigation.label "Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji">
+<!ENTITY accessibility.label             "Imikoresherezwe">
+
+<!ENTITY useCursorNavigation.label       "Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji">
 <!ENTITY useCursorNavigation.accesskey   "r">
-<!ENTITY  searchStartTyping.label "Gushaka umwandiko nintangira kwandika">
+<!ENTITY searchStartTyping.label         "Gushaka umwandiko nintangira kwandika">
 <!ENTITY searchStartTyping.accesskey     "s">
+<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label                 "Gushakisha">
+<!ENTITY browsing.label                  "Gushakisha">
 
-<!ENTITY  useAutoScroll.label        "Gukoresha Nyamwinyereza">
-<!ENTITY  useAutoScroll.accesskey    "k">
-<!ENTITY useSmoothScrolling.label       "Gukoresha Inyereza Rinyorotse">
-<!ENTITY useSmoothScrolling.accesskey   "I">
-<!ENTITY checkSpelling.label "Kugenzura imyandikire uko ngenda nandika">
-<!ENTITY checkSpelling.accesskey "g">
+<!ENTITY useAutoScroll.label             "Gukoresha Nyamwinyereza">
+<!ENTITY useAutoScroll.accesskey         "k">
+<!ENTITY useSmoothScrolling.label        "Gukoresha Inyereza Rinyorotse">
+<!ENTITY useSmoothScrolling.accesskey    "I">
+<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "Kugenzura imyandikire uko ngenda nandika">
+<!ENTITY checkSpelling.accesskey         "g">
 
-<!ENTITY  languages.label        "Indimi">
+<!ENTITY systemDefaults.label            "System Defaults">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Always check to see if &brandShortName; is the default browser on startup">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY setDefault.label                "Make &brandShortName; the default browser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is currently your default browser">
 
-<!ENTITY  chooseLanguage.label        "Hitamo indimi uhisemo yo kwerekana paji za webu">
-<!ENTITY  chooseButton.label        "Guhitamo...">
-<!ENTITY  chooseButton.accesskey    "o">
+<!ENTITY dataChoicesTab.label            "Data Choices">
 
+<!ENTITY healthReportSection.label       "&brandShortName; Health Report">
+<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Learn More">
 
-<!ENTITY  networkTab.label "Urusobemiyoboro">
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
 
-<!ENTITY  connection.label "Umwinjiro">
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
 
-<!ENTITY  connectionDesc.label "Kugena uko &brandShortName; yinjira kuri Interineti">
-<!ENTITY  connectionSettings.label        "Amagenamiterere...">
-<!ENTITY  connectionSettings.accesskey        "g">
+<!ENTITY networkTab.label                "Urusobemiyoboro">
 
-<!ENTITY  cache.label                         "Ubwihisho">
+<!ENTITY connection.label                "Umwinjiro">
 
+<!ENTITY connectionDesc.label            "Kugena uko &brandShortName; yinjira kuri Interineti">
+<!ENTITY connectionSettings.label        "Amagenamiterere...">
+<!ENTITY connectionSettings.accesskey    "g">
+
+<!ENTITY httpCache.label                 "Cached Web Content">
+
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY  useCacheBefore.label        "Gukoresha kugeza kuri">
-<!ENTITY  useCacheBefore.accesskey    "k">
-<!ENTITY  useCacheAfter.label        "MB y'umwanya y'ubwihisho">
 
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                "Kuvugurura">
+<!ENTITY updateTab.label                 "Kuvugurura">
 
-<!ENTITY autoCheck.label                "Kugenzura mu buryo bwikora ibyavuguruwe:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "F">
-<!ENTITY enableAddonsUpdate.label "Imigereka Yinjijwemo">
-<!ENTITY enableAddonsUpdate.accesskey "e">
-<!ENTITY enableSearchUpdate.label       "Gushakisha Amamoteri">
-<!ENTITY enableSearchUpdate.accesskey   "s">
-<!ENTITY whenUpdatesFound.label         "Iyo ibyavuguruwe kuri &brandShortName; byabonetse:">
-<!ENTITY  askMe.label        "Kumbaza icyo nshaka gukora">
-<!ENTITY  askMe.accesskey    "z">
-<!ENTITY modeAutomatic.label            "Gukora iyimura mu buryo bwikora maze ushyireho icyavuguruwe">
-<!ENTITY modeAutomatic.accesskey        "r">
-<!ENTITY modeAutoAddonWarn.label "Kumenyesha niba ibi bizahagarika imigereka">
-<!ENTITY modeAutoAddonWarn.accesskey "m">
-<!ENTITY  updateHistory.label        "Kwerekana Amateka yo Kuvugurura">
-<!ENTITY  updateHistory.accesskey    "e">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
 
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY  encryptionTab.label "Isobeka">
+<!ENTITY updateHistory.label             "Kwerekana Amateka yo Kuvugurura">
+<!ENTITY updateHistory.accesskey         "e">
 
-<!ENTITY protocols.label                "Porotokole">
-<!ENTITY useSSL3.label                  "Gukoresha SSL 3.0">
-<!ENTITY useSSL3.accesskey              "3">
-<!ENTITY useTLS1.label                  "Gukoresha TLS 1.0">
-<!ENTITY useTLS1.accesskey              "1">
-<!ENTITY certificates.label             "Ibyemezo">
-<!ENTITY certselect.description         "Iyo Urubugamakuru Rusabye Icyemezo:">
-<!ENTITY  certs.auto        "Guhitamo kimwe mu buryo bwikora">
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableSearchUpdate.label        "Gushakisha Amamoteri">
+<!ENTITY enableSearchUpdate.accesskey    "s">
+
+<!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Remove…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Remove offline data">
+
+<!ENTITY certificateTab.label            "Ibyemezo">
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Guhitamo kimwe mu buryo bwikora">
 <!ENTITY certs.auto.accesskey            "h">
-<!ENTITY  certs.ask        "Mbaza buri gihe">
+<!ENTITY certs.ask                       "Mbaza buri gihe">
 <!ENTITY certs.ask.accesskey             "b">
-<!ENTITY  viewCerts.label        "Kureba Ibyemezo">
+<!ENTITY viewCerts.label                 "Kureba Ibyemezo">
 <!ENTITY viewCerts.accesskey             "r">
-<!ENTITY viewCRLs.label                 "Lisiti y'Ibyemezo y'Irukanwa">
-<!ENTITY viewCRLs.accesskey             "L">
-<!ENTITY  verify.label        "Igenzura">
-<!ENTITY verify.accesskey                "g">
-<!ENTITY viewSecurityDevices.label      "Apareyi z'Umutekano">
-<!ENTITY viewSecurityDevices.accesskey  "A">
+<!ENTITY viewCRLs.label                  "Lisiti y'Ibyemezo y'Irukanwa">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Validation">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Apareyi z'Umutekano">
+<!ENTITY viewSecurityDevices.accesskey   "A">

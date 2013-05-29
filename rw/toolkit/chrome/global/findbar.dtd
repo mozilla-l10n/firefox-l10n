@@ -1,16 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-
 <!-- entities split out from browser.dtd -->
-<!ENTITY  next.label        "Ibikurikira">
+
+
+<!ENTITY next.label "Ibikurikira">
 <!ENTITY next.accesskey "k">
-<!ENTITY  next.tooltip        "Gushaka aho uyu murongo wongera kugaruka">
-<!ENTITY  previous.label        "Ibibanjirije">
+<!ENTITY next.tooltip "Gushaka aho uyu murongo wongera kugaruka">
+<!ENTITY previous.label "Ibibanjirije">
 <!ENTITY previous.accesskey "b">
-<!ENTITY  previous.tooltip        "Gushaka aho uyu murongo ugaruka mbere y'aha">
+<!ENTITY previous.tooltip "Gushaka aho uyu murongo ugaruka mbere y'aha">
 <!ENTITY findCloseButton.tooltip "Gufunga umurongo wo gushaka">
 <!ENTITY highlight.label "Kugaragaza byose">
 <!ENTITY highlight.accesskey "g">
-<!ENTITY  highlight.tooltiptext        "Kugaragaza ahantu hose aho uyu murongo ugaruka">
+<!ENTITY highlight.tooltiptext "Kugaragaza ahantu hose aho uyu murongo ugaruka">
 <!ENTITY caseSensitiveCheckbox.label "Guhuza inyandiko">
 <!ENTITY caseSensitiveCheckbox.accesskey "h">

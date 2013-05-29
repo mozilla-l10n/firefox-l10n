@@ -1,10 +1,7 @@
-<!ENTITY  feedPage.title "Kureba Mutangazamakuru Nterineti">
-<!ENTITY  feedSubscriptionInfo1a "Iyi ni &#8220;">
-<!ENTITY  feedName "mutangamakuru nterineti">
-<!ENTITY  feedSubscriptionInfo1b "&#8221;  y'ibikubiyemo bikunda guhinduka kuri uru rubuga.">
-<!ENTITY  feedSubscriptionInfo2 "Ushobora kwiyandikisha kuri iyi mutangamakuru kugira ngo ubone ibyavuguruwe iyo ibi bikubiyemo bihindutse.">
-<!ENTITY  feedSubscribeNow "Iyandikishe Ubu">
-<!ENTITY subscribeUsing "Iyandikishe kuri iyi mutangazamakuru nterineti ukoresheje:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedPage.title "Kureba Mutangazamakuru Nterineti">
+<!ENTITY feedSubscribeNow "Iyandikishe Ubu">
 <!ENTITY feedLiveBookmarks "Utumenyetso Duhumeka">
-<!ENTITY  error.title "Mutangazamakuru Ikosora Amakosa">
-<!ENTITY  error.message "Habaye ikosa mu gukosora ikosa ryabaye muri iyi mutangazamakuru nterineti. Ni ikosa ryacu. :-() Ushobora ariko na none kwiyandikisha kuri iyi mutangazamakuru nterineti niba uzi iryo ari ryo. Kugira ngo tugufashe, ikosa ryari:">

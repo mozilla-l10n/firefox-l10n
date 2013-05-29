@@ -1,28 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printJobOptions.title "Ibiranga Mucapyi">
 
-<!ENTITY paperInput.label "Ingano y'Urupapuro:">
+<!ENTITY paperInput.label "Paper Size:">
+<!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Uburyo bwa Plex:">
+<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Imikemurire/Iby'ingenzi:">
+<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Ibwiriza ry'Icapa:">
+<!ENTITY cmdInput.label "Print Command:">
+<!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Izina ry'umurimo:">
+<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Ibara:">
-<!ENTITY grayRadio.label "IgipimoKijuju">
-<!ENTITY colorRadio.label "Ibara">
+<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Umwanya w'ibara:">
+<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Imyandikire:">
-<!ENTITY downloadFonts.label "Gukora iyimura y'Imyandikire Kuri Imashini-NshyiraRupapuro">
+<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Nta kintu kuva ku mpande y'igipapuro kugeza kuri marije">
-<!ENTITY topInput.label "Hejuru:">
-<!ENTITY bottomInput.label "Hasi:">
-<!ENTITY leftInput.label "Ibumoso:">
-<!ENTITY rightInput.label "Iburyo:">
+<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "Bottom:">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "Left:">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.accesskey "R">

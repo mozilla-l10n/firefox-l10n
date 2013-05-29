@@ -1,52 +1,88 @@
-<!ENTITY  history.label             "Amateka">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberBefore.label and rememberAfter.label appear on a single
-  line in preferences as follows:
+<!ENTITY tracking.label                 "Tracking">
 
-  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
--->
-<!ENTITY  rememberBefore.label        "Kwibukwa paji zasuwe bwa nyuma iminsi">
-<!ENTITY  rememberBefore.accesskey      "y">
-<!ENTITY  rememberAfter.label        ".">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Learn More">
 
-<!ENTITY  rememberForms.label        "Kwibukwa amakuru nanditse mu mafishi no mu mwanya w'ishakisha.">
-<!ENTITY  rememberForms.accesskey      "f">
+<!ENTITY  history.label                 "Amateka">
 
-<!ENTITY  rememberDownloads.label "Kwibuka ibyo nakuruye">
-<!ENTITY  rememberDownloads.accesskey   "n">
+<!ENTITY  locationBar.label             "Location Bar">
 
+<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "History and Bookmarks">
+<!ENTITY  locbar.history.label          "History">
+<!ENTITY  locbar.bookmarks.label        "Utumenyetso">
+<!ENTITY  locbar.nothing.label          "Nothing">
 
-<!ENTITY  cookies.label        "Dosiyenyibutsa">
-
-<!ENTITY  acceptCookies.label "Kwemera dosiye nyibutsa zivuye ku mbuga">
+<!ENTITY  acceptCookies.label           "Kwemera dosiye nyibutsa zivuye ku mbuga">
 <!ENTITY  acceptCookies.accesskey       "d">
 
-<!ENTITY keepUntil.label "Kugumishaho kugeza:">
-<!ENTITY keepUntil.accesskey "K">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
-<!ENTITY expire.label "zirangije igihe">
-<!ENTITY close.label "igihe mfungira &brandShortName;">
-<!ENTITY askEachTime.label "kumbaza buri gihe">
+<!ENTITY  keepUntil.label               "Kugumishaho kugeza:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "zirangije igihe">
+<!ENTITY  close.label                   "igihe mfungira &brandShortName;">
+<!ENTITY  askEachTime.label             "kumbaza buri gihe">
 
 <!ENTITY  cookieExceptions.label        "Amarengayobora...">
-<!ENTITY  cookieExceptions.accesskey  "y">
+<!ENTITY  cookieExceptions.accesskey    "y">
 
-<!ENTITY  showCookies.label    "Kwerekana Dosiyenyibutsa...">
+<!ENTITY  showCookies.label             "Kwerekana Dosiyenyibutsa...">
 <!ENTITY  showCookies.accesskey         "r">
 
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "Remember history">
+<!ENTITY  historyHeader.dontremember.label "Never remember history">
+<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY privateData.label "Ibyatanzwe Bwite">
+<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  alwaysClear.label "Gusiba buri gihe amakuru bwite iyo mfunze &brandShortName;">
-<!ENTITY  alwaysClear.accesskey          "i">
+<!ENTITY  rememberActions.pre.label           "You may want to ">
+<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
+<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY askBeforeClear.label "Kumbaza mbere yo gusiba ibyatanzwe bwite">
-<!ENTITY askBeforeClear.accesskey "m">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  clearDataSettings.label        "Amagenamiterere...">
-<!ENTITY  clearDataSettings.accesskey    "m">
+<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
+<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY clearDataNow.label "Gusiba Ubu...">
-<!ENTITY clearDataNow.label2 "Gusiba Ubu">
-<!ENTITY clearDataNow.accesskey "U">
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "Remember search and form history">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

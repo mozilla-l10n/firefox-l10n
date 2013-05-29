@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Gukata">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Gukoporora">
@@ -10,10 +14,13 @@
 <!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY deleteCmd.label "Gusiba">
 <!ENTITY deleteCmd.accesskey "s">
-<!ENTITY  spellAddToDictionary.label "Kongera mu nkoranyamagambo">
+
+<!ENTITY spellAddToDictionary.label "Kongera mu nkoranyamagambo">
 <!ENTITY spellAddToDictionary.accesskey "n">
-<!ENTITY  spellEnable.label "Genzura imyandikire y'ibiri muri uyu mwanya">
-<!ENTITY spellEnable.accesskey "z">
-<!ENTITY  spellNoSuggestions.label "(Nta myandikire yifujwe)">
-<!ENTITY  spellDictionaries.label        "Indimi">
-<!ENTITY  spellDictionaries.accesskey    "d">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Nta myandikire yifujwe)">
+<!ENTITY spellDictionaries.label "Indimi">
+<!ENTITY spellDictionaries.accesskey "d">

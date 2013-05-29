@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsDialog.title                       "Imyandikire">
 <!ENTITY  window.width                            "78em">
 <!ENTITY  window.macWidth                         "86em">
@@ -7,8 +11,8 @@
 <!ENTITY  language.accesskey                      "y">
 
 <!ENTITY  size.label                              "Ingano:">
-<!ENTITY  size.accesskey1                         "n">
-<!ENTITY  size.accesskey2                         "o">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Kiringaniye:">
 <!ENTITY  proportional.accesskey                  "r">
@@ -16,16 +20,9 @@
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "f">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Nyamwanyumwe:">
 <!ENTITY  monospace.accesskey                     "w">
-<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY  fantasy.label                           "Fantasi:">
-<!ENTITY  fantasy.accesskey                       "t">
-<!ENTITY  cursive.label                           "Gihese:">
-<!ENTITY  cursive.accesskey                       "G">
-
-<!ENTITY  fontsize.units                          "pigiseli">
 
 <!ENTITY  font.langGroup.latin1                   "By'Iburengerazuba">
 <!ENTITY  font.langGroup.latin2                   "Uburayi bwo Hagati">
@@ -46,26 +43,32 @@
 <!ENTITY  font.langGroup.devanagari               "Ikidevanagari">
 <!ENTITY  font.langGroup.tamil                    "Igitamili">
 <!ENTITY  font.langGroup.armenian                 "Nyarumeniya">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.bengali                  "Ikibengali">
 <!ENTITY  font.langGroup.canadian                 "Urundemigemo Nyakanada Rwiyunze">
 <!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
 <!ENTITY  font.langGroup.georgian                 "Ikinyageworugiya">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gujarati                 "Ikigujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurumuki">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Ikinyakamboje">
 <!ENTITY  font.langGroup.malayalam                "Malayalamu">
+<!ENTITY  font.langGroup.oriya                    "Icyoriya">
+<!ENTITY  font.langGroup.telugu                   "Igitegulu">
+<!ENTITY  font.langGroup.kannada                  "IgiKanada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Igitibetani">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ingayo Ntoya Ishoboka y'Imyandikire:">
 <!ENTITY minSize.accesskey                        "a">
 <!ENTITY minSize.none                             "Nta na Kimwe">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Kwemerera paji guhitamo imyandikire yazo, mu mwanya w'iyo natoranyije haruguru">
 <!ENTITY  allowPagesToUse.accesskey               "e">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Isobekanyuguti">
-<!ENTITY languages.customize.DefaultCharset.label       "Isobekanyuguti Mburabuzi:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "i">
+<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
+<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">

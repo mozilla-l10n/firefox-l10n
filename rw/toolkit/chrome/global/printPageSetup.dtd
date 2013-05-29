@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printSetup.title    "Itunganyarupapuro">
 
@@ -7,33 +11,42 @@
 <!ENTITY formatGroup.label   "Imiterere">
 
 <!ENTITY orientation.label   "Icyerekezo:">
-<!ENTITY portrait            "Mpagarike">
-<!ENTITY landscape           "Ntambike">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Ntambike">
+<!ENTITY landscape.accesskey "b">
 
-<!ENTITY scale.label         "Igipimo:">
+<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Kwegeranya Kugira ngo Bijye ku Murambararo wa Paji">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "Amahitamo">
 
-<!ENTITY printBG.label       "Imbuganyuma y'Icapa (Amabara &amp; Amashusho)">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "Marije &amp; Umutwempangano/Imperampangano">
 
 <!ENTITY marginGroup.label   "Marije (#1)">
 <!ENTITY marginUnits.inches  "inshi">
 <!ENTITY marginUnits.metric  "milimetero">
-<!ENTITY marginTop.label     "Hejuru:">
-<!ENTITY marginBottom.label  "Hasi:">
-<!ENTITY marginLeft.label    "Ibumoso:">
-<!ENTITY marginRight.label   "Iburyo:">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Imitwempangano &amp; Imperampangano">
 
-<!ENTITY hfLeft.label        "Ibumoso:">
+<!ENTITY hfLeft.label        "Left:">
 <!ENTITY hfCenter.label      "Hagati:">
-<!ENTITY hfRight.label       "Iburyo:">
+<!ENTITY hfRight.label       "Right:">
 <!ENTITY headerLeft.tip      "Umutwe ibumoso">
 <!ENTITY headerCenter.tip    "Umutwe hagati">
 <!ENTITY headerRight.tip     "Umutwe iburyo">
@@ -42,15 +55,10 @@
 <!ENTITY footerRight.tip     "Imperampangano iburyo">
 
 <!ENTITY hfTitle             "Umutwe">
-<!ENTITY hfTitle.code        "[&amp;T]">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfURL.code          "[&amp;U]">
 <!ENTITY hfDateAndTime       "Itariki/Igihe">
-<!ENTITY hfDateAndTime.code  "&amp;D">
 <!ENTITY hfPage              "Paji#">
-<!ENTITY hfPage.code         "[&amp;P]">
 <!ENTITY hfPageAndTotal      "Paji # ya #">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
 <!ENTITY hfBlank             "--ahatanditseho--">
 <!ENTITY hfCustom            "Kuboneza...">
 
