@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "V">
 <!ENTITY offlineAppRemove.confirm        "Verwyder vanlyn data">
 
-<!ENTITY encryptionTab.label             "Enkripsie">
-
-<!ENTITY protocols.label                 "Protokols">
-<!ENTITY useSSL3.label                   "Gebruik SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Gebruik TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Sertifikate">
+<!ENTITY certificateTab.label            "Sertifikate">
 <!ENTITY certSelection.description       "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
 <!ENTITY certs.auto                      "Kies een outomaties">
 <!ENTITY certs.auto.accesskey            "t">
