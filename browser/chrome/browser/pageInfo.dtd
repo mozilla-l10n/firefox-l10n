@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "छवि लोड  करू ">
 <!ENTITY  permPopup             "पाप-अप विंडो खोलू">
 <!ENTITY  permCookie            "कुकी सेट  करू ">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "विस्तार अथवा प्रसंग संस्थापित  करू ">
 <!ENTITY  permGeo               "स्थान साझा  करू ">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय करू">
 <!ENTITY  permFullscreen        "सौंसे स्क्रीन मे जाउ">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "आफ़लाइन भंडारण बनेने राखू">
 <!ENTITY  permClearStorage           "भंडारण साफ़ करू ">

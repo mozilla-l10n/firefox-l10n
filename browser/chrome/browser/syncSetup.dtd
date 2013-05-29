@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "गुड़किल्ली क पुष्टि  करू ">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "हम सहमत छी">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "सेवा शर्त">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "युक्ति युग्मित करू">
 <!ENTITY addDevice.showMeHow.label          "देखाउ जे कहिना.">
 <!ENTITY addDevice.dontHaveDevice.label     "हमरा संग युक्ति नहि अछि">
-<!ENTITY pairDevice.setup.description.label  "सक्रिय करबाक लेल &#x0022;युक्ति युग्मित करू&#x0022; केँ अपन आन युक्ति पर चुनू.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "फेर ई कोड डालू:">
-<!ENTITY pairDevice.dialog.description.label "अपन युक्ति केँ सक्रिय करबाक लेल, &#x0022;सिंक सेटअप करू&#x0022; केँ युक्ति पर चुनू.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया फेर कोशिश करू.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "साइन इन">
-<!ENTITY existingRecoveryKey.description "अहाँ अपन पुनर्प्राप्ति कुंजीक नकल लए सकैत अछि &syncBrand.shortName.label; विकल्प पर अपन दोसर युक्ति पर जाकर, आओर &#x0022;हमर पुनर्प्राप्ति कुंजी&#x0022; केँ &#x0022;खाता प्रबंधन&#x0022;. मे चुनिकए.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "जाँचि रहल अछि…">
 <!ENTITY resetPassword.label          "गुड़किल्ली फेर सेट करू ">
 <!ENTITY resetSyncKey.label           "हम अपन आन युक्तिकेँ गुम कए देलए.">

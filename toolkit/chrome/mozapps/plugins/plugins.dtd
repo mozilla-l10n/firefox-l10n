@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "ई सामग्री केँ देखाबैक लेल डिसप्ले जरूरी अछि.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "प्लगिन सक्रिय करबाक लेल एतए टैप करू.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Check for updates…">
 <!ENTITY disabledPlugin                                      "ई प्लगइन निष्क्रिय कएल गेल अछि.">
 <!ENTITY blockedPlugin.label                                 "ई प्लगिन अहाँक सुरक्षा क लेल रोकल गेल  अछि .">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "क्रैश रपट निष्क्रिय कएल गेल.">
 <!ENTITY report.failed                                       "जमा कएनाइ विफल.">
 <!ENTITY report.unavailable                                  "कोनो रपट मोजुद नहि.">
+<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "File">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">
