@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "ಹೊರತಾದವುಗಳು...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "ಚಿತ್ರಗಳು ತಾವಾಗಿಯೆ ಲೋಡ್ ಆಗುವಂತೆ ಮಾಡು">
-<!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "ಹೊರತಾದವುಗಳು...">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "ಜಾವಾಸ್ಕ್ರಿಪ್ಟನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "ಮುಂದುವರೆದ...">
-<!ENTITY  advancedJS.accesskey        "v">
-
-<!ENTITY  enableJava.label            "ಜಾವಾವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು">
 
 <!ENTITY  defaultFont.label           "ಪೂರ್ವನಿಯೋಜಿತ ಅಕ್ಷರಶೈಲಿ:">
