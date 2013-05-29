@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Сэжигтэй Вэб хууралт">
-
-<!ENTITY safeb.palm.message.p1 "Энэ хуудас нь хэрэглэгчийг хуурч хувийн болон санхүүгийн мэдээллээ оруулахаар зохиогдсон нь мэдэгдсэн байна. Ямар нэгэн хувийн мэдээллээ оруулбал сүүлд сөргөөр хэрэглэгдэж болзошгүй. &#160; ">
-<!ENTITY safeb.palm.message.p1.linkText "Дэлгэрэнгүйг унших &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Дэлгэрэнгүйг унш &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "Энэ төрлийн вэб хууралт нь танд итгэлтэй вэб хуудас юмуу захиа болж харагддаг хууралт юм. Та энэ тухай дэлгэрэнгүй мэдээллийг">
-<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; таныг хэрхэн хамгаалдаг вэ">
-<!ENTITY safeb.palm.message.p2.end "гэсэн хэсгээс уншина уу.">
-
 <!ENTITY safeb.palm.accept.label "Эндээс намайг гарга!">
-<!ENTITY safeb.palm.accept.statustext "Миний эхлэл хуудас руу зорч">
 <!ENTITY safeb.palm.decline.label "Энэ анхааруулгыг үл тоо">
-<!ENTITY safeb.palm.decline.statustext "Анхааруулгыг хаа" >
 <!ENTITY safeb.palm.notforgery.label2 "Энэ вэб хууралт биш…">
 <!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
 

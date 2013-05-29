@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Олон самбар нэг дор нээх үед &brandShortName; удаашрахаар бол надад анхааруул">
 <!ENTITY warnOpenManyTabs.accesskey   "л">
 
-<!ENTITY showTabBar.label             "Always show the tab bar">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 
