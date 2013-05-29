@@ -9,8 +9,8 @@
 <!ENTITY  copy.label            "Պատճենել">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Ընտրել բոլորը">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.label       "Նշել բոլորը">
+<!ENTITY  selectall.accesskey   "բ">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Ընդհանուր">
@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Հայտնել գտնվելուս վայրը">
 <!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
 <!ENTITY  permFullscreen        "Բացել Ամբողջ Էկրանով">
-<!ENTITY  permPointerLock       "Hide the Mouse Cursor">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Պահպանել անցանց պահոցը">
 <!ENTITY  permClearStorage           "Մաքրել պահոցը">

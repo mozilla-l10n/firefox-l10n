@@ -4,10 +4,10 @@
 
 <!ENTITY startup.label             "Մեկնարկ">
 
-<!ENTITY startupPage.label         "&brandShortName; -ի մեկնարկի ժամանակ`">
-<!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Ցույց տալ սկզբնական էջը">
-<!ENTITY startupBlankPage.label    "Ցույց տալ դատարկ էջ">
+<!ENTITY startupPage.label         "&brandShortName;-ի մեկնարկի ժամանակ`">
+<!ENTITY startupPage.accesskey     "մ">
+<!ENTITY startupHomePage.label     "Ցուցադրել սկզբնական էջը">
+<!ENTITY startupBlankPage.label    "Ցուցադրել դատարկ էջ">
 <!ENTITY startupLastSession.label  "Ցուցադրել նախորդ պատուհանները և ներդիրները">
 
 <!ENTITY homepage.label            "Սկզբնական էջ`">
@@ -24,13 +24,13 @@
 
 <!ENTITY showWhenDownloading.label     "Ցուցադրել բեռնումների պատուհանը ֆայլի բեռնման ժամանակ">
 <!ENTITY showWhenDownloading.accesskey "Ց">
-<!ENTITY closeWhenDone.label "Փակել այն երբ բոլոր բեռնումները ավարտվեն">
-<!ENTITY closeWhenDone.accesskey "Փ">
+<!ENTITY closeWhenDone.label "Բոլոր բեռնումները ավարտելուց հետո փակել">
+<!ENTITY closeWhenDone.accesskey "Բ">
 <!ENTITY saveTo.label "Ֆայլերը պահելու տեղը՝">
 <!ENTITY saveTo.accesskey "Ֆ">
 <!ENTITY chooseFolderWin.label        "Ընտրել…">
-<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderWin.accesskey    "տ">
 <!ENTITY chooseFolderMac.label        "Ընտրել…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "լ">
 <!ENTITY alwaysAsk.label "Միշտ հարցնել ֆայլերը պահելու տեղը">
 <!ENTITY alwaysAsk.accesskey "Մ">

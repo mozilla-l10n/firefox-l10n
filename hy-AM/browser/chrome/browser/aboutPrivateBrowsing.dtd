@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Գաղտնի նավարկում">
-<!ENTITY privatebrowsingpage.title.normal          "Կցանկանա՞յիք սկսել Գաղտնի նավարկում:">
+<!ENTITY privatebrowsingpage.title                 "Գաղտնի Դիտարկում">
+<!ENTITY privatebrowsingpage.title.normal          "Կցանկանայի՞ք սկսել Գաղտնի Դիտարկումը:">
 
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; won't remember any history for this window.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "You are not currently in a private window.">
