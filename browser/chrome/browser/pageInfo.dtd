@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Учитавај слике">
 <!ENTITY  permPopup             "Отварај искачуће прозоре">
 <!ENTITY  permCookie            "Постави колачиће">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Инсталација продужетака и тема">
 <!ENTITY  permGeo               "Објави локацију">
 <!ENTITY  permPlugins           "Активирање прикључака">
 <!ENTITY  permFullscreen        "Enter Fullscreen">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Одржавај складиште ван мреже">
 <!ENTITY  permClearStorage           "Очисти складиште">

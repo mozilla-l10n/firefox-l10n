@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Упозори ме када отварање више језичака може да успори програм &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "У">
 
-<!ENTITY showTabBar.label             "Увек приказуј траку са језичцима">
-<!ENTITY showTabBar.accesskey         "У">
-
 <!ENTITY restoreTabsOnDemand.label        "Не учитавај картице које нису обележене">
 <!ENTITY restoreTabsOnDemand.accesskey    "у">
 

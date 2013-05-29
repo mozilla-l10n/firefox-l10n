@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу читача.</p><ul><li>Из безбедносних разлога, читач не добавља аутоматски поверљиве документе.  </li><li>Притисните „Пробај поново“ да бисте ручно добавили документ.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
-<!ENTITY netOffline.longDesc2 "<p>Прегледач ради ван мреже и не може да се повеже на захтевану ставку.</p><ul><li>Да ли је рачунар повезан на активну мрежу?</li><li>Изаберите „Пробај опет“ како бисте се повезали и поново учитали страну.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>">

@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Користи овај избор за све датотеке овог типа.">
 <!ENTITY  rememberChoice.accesskey    "К">
 
-<!ENTITY  whichIsA.label              "врста:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Избор…">
 <!ENTITY  chooseHandlerMac.accesskey  "И">
