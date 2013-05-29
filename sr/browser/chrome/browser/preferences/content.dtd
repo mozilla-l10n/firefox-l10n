@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Изузеци">
 <!ENTITY  popupExceptions.accesskey   "И">
 
-<!ENTITY  loadImages.label            "Аутоматски учитај слике">
-<!ENTITY  loadImages.accesskey        "А">
-<!ENTITY  exceptions.label            "Изузеци">
-<!ENTITY  exceptions.accesskey        "И">
-
-<!ENTITY  enableJavaScript.label      "Укључи јаваскрипт (JavaScript)">
-<!ENTITY  enableJavaScript.accesskey  "У">
-<!ENTITY  advancedJS.label            "Писма…">
-<!ENTITY  advancedJS.accesskey        "П">
-
-<!ENTITY  enableJava.label            "Укључи јаву">
-<!ENTITY  enableJava.accesskey        "У">
-
-
 <!ENTITY  fontsAndColors.label        "Писма и боје">
 
 <!ENTITY  defaultFont.label           "Изворно писмо:">

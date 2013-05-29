@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Потврдите лозинку">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Слажем се">
 <!ENTITY setup.tosAgree1.accesskey  "С">
 <!ENTITY setup.tosLink.label        "Услови коришћења услуге">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Упари уређај">
 <!ENTITY addDevice.showMeHow.label          "Покажи ми како.">
 <!ENTITY addDevice.dontHaveDevice.label     "Немам уређај са собом.">
-<!ENTITY pairDevice.setup.description.label  "За активацију, изаберите „Упари уређај“ на другом уређају.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Затим унесите овај кôд:">
-<!ENTITY pairDevice.dialog.description.label "За активацију новом уређаја изаберите „Подешавања синхронизације“ на уређају.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Унесите овај кôд који уређај додељује:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Покушајте поново.">
 <!ENTITY addDevice.dialog.successful.label  "Уређај је успешно додат. Почетно усклађивање може да потраје неколико минута и биће завршено у позадини.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Пријављивање">
-<!ENTITY existingRecoveryKey.description "Можете да добијете копију кључа за опоравак одласком на &syncBrand.shortName.label; Опције на другом уређај и бирањем  &#x0022;Мој кључ за опоравак&#x0022; код &#x0022;Управљања налозима&#x0022;.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Потврђивање…">
 <!ENTITY resetPassword.label          "Обнављање шифре">
 <!ENTITY resetSyncKey.label           "Други уређај је изгубљен.">

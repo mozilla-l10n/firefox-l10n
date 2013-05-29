@@ -45,9 +45,11 @@
 <!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, програм, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Пробај поново“ да бисте поново добавили документ са веб сајта.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Изаберите „Пробај опет“ да почнете повезан начин рада и поново учитате страну.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<ul> 
