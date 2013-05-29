@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en caché del navegador.</p><ul><li>Como una precaución de seguridad, el navegador no reenvía automáticamente documentos sensibles.</li><li>Haga clic en Intente nuevamente para solicitar el documento al sitio web nuevamente.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Presione &quot;Intente nuevamente&quot; para volver al modo con conexión y recargar la página.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
