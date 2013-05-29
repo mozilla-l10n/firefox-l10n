@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; bu ikili &brandShortName; sürümünde kullanımınıza sunulan bazı özellikler için, aşağıdaki açıklanan koşullar kapsamında web tabanlı bilgi hizmetlerinden (&quot;Hizmetler&quot;) yararlanır. Hizmetlerden birini veya birkaçını kullanmak istemiyorsanız veya aşağıdaki koşulları kabul etmiyorsanız ilgili özelliği ve Hizmet(ler)i devre dışı bırakabilirsiniz. Özellik veya Hizmetleri devre dışı bırakmanız için izleyebileceğiniz yönergeler ">
 <!ENTITY rights2.webservices-b "burada">
-<!ENTITY rights2.webservices-c " bulunabilir.">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "GüvenliTarama: ">
