@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Kongsi Lokasi">
 <!ENTITY  permPlugins           "Plugin Aktif">
 <!ENTITY  permFullscreen        "Masukkan skrin penuh">
-<!ENTITY  permPointerLock       "Sembunyikan Penuding">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Kekalkan Storan Luartalian">
 <!ENTITY  permClearStorage           "Bersihkan Storan">

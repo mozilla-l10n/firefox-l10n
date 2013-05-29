@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Lakukan ini secara automatik untuk fail seperti ini mulai sekarang.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "yang mana adalah:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Pilih">
 <!ENTITY  chooseHandlerMac.accesskey  "P">
