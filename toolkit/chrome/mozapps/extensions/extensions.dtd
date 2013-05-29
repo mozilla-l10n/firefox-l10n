@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "ఐచ్ఛికశైలిని దరించుటను ఆపుము">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Ask to Activate">
+<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
+<!ENTITY cmd.alwaysActivate.label             "Always Activate">
+<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
+<!ENTITY cmd.neverActivate.label              "Never Activate">
+<!ENTITY cmd.neverActivate.tooltip            "ఈ పొడగింతను ఎప్పుడూ వాడకు">
+<!ENTITY cmd.stateMenu.tooltip                "ఈ పొడగింత ఎప్పుడు నడవాలో మార్చండి">
 <!ENTITY cmd.installAddon.label               "సంస్థాపించు">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "తీసివేయి">

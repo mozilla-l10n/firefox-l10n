@@ -23,7 +23,7 @@
 <!ENTITY  generalSource         "క్యాచీ మూలం:">
 <!ENTITY  generalModified       "సవరించిన:">
 <!ENTITY  generalEncoding       "ఎన్కోడింగ్:">
-<!ENTITY  generalMetaName       "నామము">
+<!ENTITY  generalMetaName       "పేరు">
 <!ENTITY  generalMetaContent    "విషయసంగ్రహం">
 <!ENTITY  generalSecurityDetails   "వివరము">
 <!ENTITY  generalSecurityDetails.accesskey "D">
@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "స్థానాన్ని పంచుకొనుము">
 <!ENTITY  permPlugins           "చొప్పింతలను క్రియాశీలపరచు">
 <!ENTITY  permFullscreen        "నిండుతెర ప్రవేశపెట్టు">
-<!ENTITY  permPointerLock       "సూచీని దాచు">
+<!ENTITY  permPointerLock2      "మూషిక సూచికను దాచు">
 
 <!ENTITY  permIndexedDB              "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
 <!ENTITY  permClearStorage           "నిల్వను శుభ్రపరచు">
