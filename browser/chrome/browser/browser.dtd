@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -22,16 +22,16 @@
 <!ENTITY  reloadAllTabs.accesskey            "Z">
 <!ENTITY  closeOtherTabs.label               "Vala Ezinye Izigqebhe">
 <!ENTITY  closeOtherTabs.accesskey           "E">
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Pin njengomaki wohlelo">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Khipha ithebhu">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinTab.label                       "Phina ithebhu">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Khipha ithebhu">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Mikisa kuqembu">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Iqembu elisha">
@@ -62,7 +62,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Sebenza ngaphandle kwe-inthanethi">
+<!ENTITY goOfflineCmd.label "Sebenza ngokungaxhunyiwe">
 <!ENTITY goOfflineCmd.accesskey "S">
 
 <!ENTITY menubarCmd.label "Ibha yohlu lokukhona">
@@ -81,6 +81,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Ukwaziswa kwekhasi">
 <!ENTITY pageInfoCmd.accesskey "k">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "U-Enter neskrini esigcwele">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Phuma kundlela yeskrini esigcwele">
+<!ENTITY exitFullScreenCmd.accesskey "e">
 <!ENTITY fullScreenCmd.label "Iskrini esigcwele">
 <!ENTITY fullScreenCmd.accesskey "I">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -94,7 +100,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Phuma kundlela yeskrini esigcwele">
 <!ENTITY fullScreenExit.accesskey "e">
-<!ENTITY domFullScreenWarning.label "Cindezela u-ESC ukuphuma kumodi yesikrini esigcwele">
+<!ENTITY fullscreenAllowButton.label "Vumela">
+<!ENTITY fullscreenExitButton.label "Yenqaba">
+<!ENTITY fullscreenApproval.value "Vumela isikrini esigcwele?">
+
+<!ENTITY fullscreenExitHint.value "Chofoza ku-ESC nganoma yisiphi isikhathi ukuphuma kuwindi eligcwele">
+<!ENTITY leaveDOMFullScreen.label "Phuma kwisikrini esigcwele">
+<!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!ENTITY closeWindow.label "Vala iwindi">
 <!ENTITY closeWindow.accesskey "d">
@@ -103,6 +115,18 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "I">
 <!ENTITY bookmarkThisPageCmd.label "Phawula leli khasi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "|">
+<!ENTITY sharePageCmd.label "Yabelana ngaleli khasi">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "Y">
+<!ENTITY shareLinkCmd.label "Yabeana ngalesi sixhumanisi">
+<!ENTITY shareLinkCmd.accesskey "Y">
+<!ENTITY shareImageCmd.label "Yabelana ngalesi sithombe">
+<!ENTITY shareImageCmd.accesskey "Y">
+<!ENTITY shareSelectCmd.label "Yabelana ngokukhetha">
+<!ENTITY shareSelectCmd.accesskey "Y">
+<!ENTITY shareVideoCmd.label "Yabelana ngale vidiyo">
+<!ENTITY shareVideoCmd.accesskey "Y">
 <!ENTITY subscribeToPageMenupopup.label "Bhalisa kuleli khasi">
 <!ENTITY subscribeToPageMenuitem.label "Bhalisa kuleli khasi…">
 <!ENTITY addCurPagesCmd.label "Phawula wonke amathebhu…">
@@ -148,7 +172,6 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label          "Izimpawu zokubekisa">
 <!ENTITY bookmarksButton.tooltip        "Bonisa kwakho okokuphawula">
-<!ENTITY bookmarksButton.accesskey  "I">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Izimpawu zokubekisa">
@@ -165,7 +188,6 @@ can reach it easily. -->
 
 <!ENTITY historyButton.label            "Umlando">
 <!ENTITY historyButton.tooltip          "Bonisa amakhasi owabhekile muva nje">
-<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Amathuluzi">
@@ -187,20 +209,23 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "Umthuthukisi wewebhu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsConnect.label        "Xhumanisa…">
+<!ENTITY devtoolsConnect.accesskey    "X">
+
 <!ENTITY errorConsoleCmd.label        "Iphutha Console">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Iwebhu Console">
-<!ENTITY webConsoleCmd.accesskey      "I">
-<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY remoteWebConsoleCmd.label    "Ikhonsoli yewebhu yesilawulikude">
 
-<!ENTITY inspectMenu.label            "Hlola">
-<!ENTITY inspectMenu.accesskey        "a">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY browserConsoleCmd.label      "Buka i-Console">
 
 <!ENTITY inspectContextMenu.label     "Ngamela i-elementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "Ukubuka kwesakhiwo sokuphendula">
+<!ENTITY responsiveDesignTool.accesskey "U">
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -217,26 +242,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "i-HTML">
-<!ENTITY inspectButton.label            "Hlola">
-<!ENTITY inspectButton.accesskey        "H">
-<!ENTITY inspectCloseButton.tooltiptext "Vala isihloli">
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
-  -  alternate view for the Inspector, creating a 3D visualization of the
-  -  webpage. -->
+<!ENTITY devToolbarCloseButton.tooltiptext "Vala ithulbha yomthuthukisi">
+<!ENTITY devToolbarMenu.label              "Ibha yamathuluzi yomthuthukisi">
+<!ENTITY devToolbarMenu.accesskey          "t">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Shintsha kumathuluzi">
+<!ENTITY devToolboxMenuItem.accesskey      "S">
 
-<!ENTITY inspect3DViewButton.label     "Ukubukwa kwe-3D">
-<!ENTITY inspect3DViewButton.accesskey "w">
-
-<!ENTITY inspectStyleButton.label     "Isitayela">
-<!ENTITY inspectStyleButton.accesskey "I">
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-
-<!ENTITY styleeditor.label            "Ukuhlelwa kwesitayela">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
+<!ENTITY devToolbarToolsButton.tooltip     "Shintsha kumathuluzi kanjiniyela">
+<!ENTITY devToolbarOtherToolsButton.label  "Amathuluzi angaphezulu">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Thola amathuluzi amaningi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -246,6 +261,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label        "Ifasitela elisha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "I">
+<!ENTITY newPrivateWindow.label     "Iwindi elisha langasese">
+<!ENTITY newPrivateWindow.accesskey "w">
 
 <!ENTITY editMenu.label         "Hlela"> 
 <!ENTITY editMenu.accesskey       "H"> 
@@ -276,13 +293,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "w"> 
 
 <!ENTITY clearRecentHistory.label               "Sula umlando wakamuva…">
-<!ENTITY clearRecentHistory.accesskey           "u">
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
-<!ENTITY privateBrowsingCmd.start.label         "Qala ukuphequlula okuyimfihlo">
-<!ENTITY privateBrowsingCmd.start.accesskey     "o">
-<!ENTITY privateBrowsingCmd.stop.label          "Misa ukuphequlula okuyimfihlo">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "o">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Bheka"> 
@@ -321,7 +332,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Q">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Iya kuwebhusayithi">
+<!ENTITY urlbar.placeholder2          "Sesha noma faka ikheli">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Shintshela kumaki:">
 <!-- 
@@ -355,6 +366,8 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "e">
 <!ENTITY openLinkCmd.label            "Vula isixhumanisi efasiteleni elisha">
 <!ENTITY openLinkCmd.accesskey        "e">
+<!ENTITY openLinkInPrivateWindowCmd.label "Vula isixhumanisi efasiteleni elisha">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "e">
 <!ENTITY openLinkCmdInCurrent.label     "Vula uxhumo">
 <!ENTITY openLinkCmdInCurrent.accesskey "V">
 <!ENTITY openFrameCmdInTab.label      "Vula uhlaka kwisigqebhe esisha">
@@ -397,8 +410,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Phawula lolu hlaka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
-<!ENTITY sendPageCmd.label            "Thumela isixhumanisi…">
-<!ENTITY sendPageCmd.accesskey        "h">
+<!ENTITY emailPageCmd.label           "Imeyila isixhumanisi…">
+<!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Gcina ikhasi ngokuthi…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!-- alternate for content area context menu -->
@@ -410,20 +423,22 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "U">
 <!ENTITY saveLinkCmd.label            "Gcina uxhumo ngokuthi…">
 <!ENTITY saveLinkCmd.accesskey        "x">
-<!ENTITY sendLinkCmd.label            "Thumela isixhumanisi…"> 
-<!ENTITY sendLinkCmd.accesskey        "m">
 <!ENTITY saveImageCmd.label           "Gcina isithombe ngokuthi…">
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Gcina ividiyo ngokuthi…">
 <!ENTITY saveVideoCmd.accesskey       "i">
 <!ENTITY saveAudioCmd.label           "Gcina umsindo njenge…">
 <!ENTITY saveAudioCmd.accesskey       "i">
-<!ENTITY sendImageCmd.label           "Thumela isithombe…">
-<!ENTITY sendImageCmd.accesskey       "u">
-<!ENTITY sendVideoCmd.label           "Thumela ividiyo…">
-<!ENTITY sendVideoCmd.accesskey       "u">
-<!ENTITY sendAudioCmd.label           "Thumela umsindo…">
-<!ENTITY sendAudioCmd.accesskey       "u">
+<!ENTITY emailImageCmd.label          "Imeyila isithombe…">
+<!ENTITY emailImageCmd.accesskey      "m">
+<!ENTITY emailVideoCmd.label          "Imeyila ividiyo…">
+<!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY emailAudioCmd.label          "Imeyila umsindo…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Sebenzisa le-plugin">
+<!ENTITY playPluginCmd.accesskey      "b">
+<!ENTITY hidePluginCmd.label          "Fihla le plugin">
+<!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Kopisha indawo yesixhumanisi">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopisha indawo yesithombe">
@@ -454,6 +469,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Khulumisa">
 <!ENTITY mediaUnmute.accesskey       "K">
+<!ENTITY mediaPlaybackRate.label     "Dlala isivinini">
+<!ENTITY mediaPlaybackRate.accesskey "l">
+<!ENTITY mediaPlaybackRate050x.label "Ukuhamba kancane (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "U">
+<!ENTITY mediaPlaybackRate100x.label "Isivinini esijwayelekile">
+<!ENTITY mediaPlaybackRate100x.accesskey "j">
+<!ENTITY mediaPlaybackRate150x.label "Isivinini esiphezulu (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "I">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Isivinini esiphezulu kakhulu (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -522,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Yeka"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 <!ENTITY quitApplicationCmdMac.label    "Yekela i-&brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Vala">  
 <!ENTITY closeCmd.key                   "W">  
@@ -583,16 +612,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "esetshenziswa yi">
 
 <!ENTITY identity.moreInfoLinkText "Imininingwane engaphezulu…">
-
-<!ENTITY downloadMonitor2.tooltip "Chofoza ukuze uvule ifasitela lokulayishwayo">
-
-<!ENTITY allTabs.filter.emptyText "Sesha omaki">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Omoki bokuphequlula">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu.label     "Omaki abavela kwamanye amakhompyutha">
+<!ENTITY tabsToolbar.label "Omoki bokuphequlula">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu2.label     "Amamaki kusuka kwamanye amadivayisi">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -604,3 +630,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Vala ibha yokungezwayo">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY socialToolbar.title        "Inkinobho yebha lamathuluzi lomphakathi">
+<!ENTITY social.notLoggedIn.label   "Ayingenile">
+
+<!ENTITY social.ok.label       "KULUNGILE">
+<!ENTITY social.ok.accesskey   "K">
+
+<!ENTITY social.toggleSidebar.label "Bonisa ibha yasohlangothini">
+<!ENTITY social.toggleSidebar.accesskey "B">
+
+<!ENTITY social.addons.label "Phatha amasevisi…">
+
+<!ENTITY social.toggleNotifications.label "Bonisa izaziso zedeskithophu">
+<!ENTITY social.toggleNotifications.accesskey "i">
+
+<!ENTITY social.activated.description "Amasevisi kusuka ku-<label/> anikwe amandla. Ungashintsha amasethingi wakho wamasevisi ku-<label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Hawu, susa lokhu!">
+<!ENTITY social.activated.undo.accesskey "s">
+<!ENTITY social.learnMore.label "Funda kabanzi…">
+<!ENTITY social.learnMore.accesskey "F">
+<!ENTITY social.closeNotificationItem.label "Hhayi manje">
+
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Izingxoxo eziqondiwe">
+<!ENTITY social.chatBar.accesskey "n">
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
+
+<!ENTITY getUserMedia.selectCamera.label "Ikhamera yokwaba:">
+<!ENTITY getUserMedia.selectCamera.accesskey "I">
+<!ENTITY getUserMedia.selectMicrophone.label "Imakhrofoni yokwaba:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "I">
+
+<!ENTITY webrtcIndicatorButton.label "Ukufinyelela kwekhamera / kwemayikrofoni">
+<!ENTITY webrtcIndicatorButton.tooltip "Bonisa amasayithi okwamanje owabelana ngawo ngekhamera noma imayikrofoni yakho">
+
+<!ENTITY mixedContentBlocked.helplink "Funda kabanzi">
+<!ENTITY mixedContentBlocked.moreinfo "Amawebhusayithi amaningi asazosebenza kahle noma ngabe lokhu okuqukethwe kuvinjiwe.">
+
+<!ENTITY pointerLock.notification.message "Cindezela u-ESC noma kunini ukuze ubonise futhi.">

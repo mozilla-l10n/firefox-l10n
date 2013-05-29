@@ -21,3 +21,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "i-Sync">
+<!ENTITY  buttonForward.tooltip   "Yiya phambili ngekhasi elilodwa">
+<!ENTITY  buttonBack.tooltip      "Hlehla ngekhasi elilodwa">

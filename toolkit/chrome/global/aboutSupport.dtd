@@ -20,18 +20,23 @@
 <!ENTITY aboutSupport.appBasicsTitle "Okujwayelekile kohlelo lokusebenza">
 <!ENTITY aboutSupport.appBasicsName "Igama">
 <!ENTITY aboutSupport.appBasicsVersion "Inguqulo">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Isiqondisi seprofayela">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ifolda lephrofayela">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Yenza kusebenze okuxhunyaniswayo">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ukuhlelwa kokulungisa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ummeli womsebenzisi">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Imibiko Yokumahlazeka">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetshenziswa kwememori">
 
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Vula umkhombandlela">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Bonisa kokutholakele">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -40,10 +45,24 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "Igama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Inani">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSDescription "Ifolda yakho yephrofayela iqukethe <a id='prefs-user-js-link'>user.js file</a>, okubandakanya izintandwa ezingakhwanga yi-&brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Imibukiso">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC encane kakhulu">
+
+<!ENTITY aboutSupport.a11yTitle "Ukungena kulo">
+<!ENTITY aboutSupport.a11yActivated "Yenza kusebenze">
+<!ENTITY aboutSupport.a11yForceDisabled "Vimbela Ukufinyeleleka">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Izinguqulo zelabhulali">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Umlando wokufaka">
 <!ENTITY aboutSupport.updateHistoryTitle "Iwindi Elithuthukisiwe">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopisha konke ku-clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopisha ulwazi olungakasetshenziswa kwi-clipboard">

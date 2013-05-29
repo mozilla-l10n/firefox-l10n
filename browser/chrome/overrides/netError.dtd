@@ -53,7 +53,7 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Chofoza i-&quot; Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> 
+<li>Chofoza u-&quot;Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
@@ -107,7 +107,7 @@ Okungowakho ofakelwe.</li>
 <!ENTITY nssFailure2.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Ikhasi ozama ukulibuka alikwazi ukuboniswa ngoba ukuqinisekiswa kwedatha etholiwe akukwazanga ukuqinisekiswa.</li> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga. Okunye, sebenzisa impoqo etholakala ku-menu yosizo ukuze ubike le sayithi eliphukile.</li> 
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga. Okunye, sebenzisa umyalo otholakala kumenyu yosizo ukuze ubike leli sayithi eliphukile.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Uxhumo oluvikelekile luhlulekile">

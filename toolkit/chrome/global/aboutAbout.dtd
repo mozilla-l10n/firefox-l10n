@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "Mayelana ne">
-<!ENTITY aboutAbout.note   'Lolu uhlu lwamakhasi lwe "mayelana" ukuze kusizwe wena.<br/> 
-Amanye angadida. Amanye ngawalawo wokuhlaziya kuphela.<br/> Futhi amanye asusiwe ngoba adinga uxhungexhunge lwemibuzo.'>
+<!ENTITY aboutAbout.note   "This is a list of “about” pages for your convenience.<br/>
+                            Some of them might be confusing. Some are for diagnostic purposes only.<br/>
+                            And some are omitted because they require query strings.">

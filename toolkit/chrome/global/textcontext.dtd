@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "k">
 <!ENTITY spellUndoAddToDictionary.label "Yekisa ukungezwa kusichazamazwi">
 <!ENTITY spellUndoAddToDictionary.accesskey "k">
-<!ENTITY spellCheckEnable.label "Hlola isipelingi">
-<!ENTITY spellCheckEnable.accesskey "i">
+<!ENTITY spellCheckToggle.label "Hlola isipelingi">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Azikho izipelingi eziphakamisiwe)">
 <!ENTITY spellDictionaries.label "Izilimi">
 <!ENTITY spellDictionaries.accesskey "I">
