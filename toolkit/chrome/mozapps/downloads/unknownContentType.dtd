@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Yenza oku ngokuzenzekela kwiifayile ezifana nezi ukususela ngoku.">
 <!ENTITY  rememberChoice.accesskey    "n">
 
-<!ENTITY  whichIsA.label              "yona eyi:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Khetha…">
 <!ENTITY  chooseHandlerMac.accesskey  "K">

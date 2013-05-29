@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Izinxaxhi…">
 <!ENTITY  popupExceptions.accesskey   "I">
 
-<!ENTITY  loadImages.label            "Layisha imifuziselo ngokuzenzekelayo">
-<!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Izinxaxhi…">
-<!ENTITY  exceptions.accesskey        "n">
-
-<!ENTITY  enableJavaScript.label      "Yenza isebenze i-JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Kwinqanaba eseliphambili…">
-<!ENTITY  advancedJS.accesskey        "n">
-
-<!ENTITY  enableJava.label            "Yenza isebenze i-Java">
-<!ENTITY  enableJava.accesskey        "e">
-
-
 <!ENTITY  fontsAndColors.label        "Iifonti &amp; Imibala">
 
 <!ENTITY  defaultFont.label           "Ifonti yesiseko:">
