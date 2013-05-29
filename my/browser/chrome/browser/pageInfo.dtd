@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "တည်နေရာအားသိစေမည်။">
 <!ENTITY  permPlugins           "ပလပ်အင် များ အသုံးပြုမည်။">
 <!ENTITY  permFullscreen        "ဖန်သားပြင်အပြည့် ကိုနှိပ်ပါ">
-<!ENTITY  permPointerLock       "မောက်စ် ပွိုင့်တာကို ဖျောက်ပါ">
+<!ENTITY  permPointerLock2      "မောက်စ်ပွိုင့်တာအားဖျောက်">
 
 <!ENTITY  permIndexedDB              "အင်တာနက်မရှိစဉ်သုံးမှတ်ဉာဏ်အားပြုပြင်ထိန်းသိမ်းမည်">
 <!ENTITY  permClearStorage           "မှတ်သားဉာဏ်အားရှင်းလင်းမည်">

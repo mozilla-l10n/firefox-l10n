@@ -21,6 +21,8 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "သင့်စိတ်ကြိုက် မီးမြေခွေးအားလွယ်ကူစွာပြုပြင်သုံးစွဲနိုင်ပါသည်။ <a>Choose from thousands of add-ons</a>">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; သည် ပရဟိတအဖွဲ့အစည်း မိုဇီလာမှ အခမဲ့ ဖြန့်ဖြူးသော Open Source ဆော့ဝဲဖြစ်ပါတယ် <a>Know your rights...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "မှတ်သား လိပ်စာများ">
 <!ENTITY abouthome.historyButton.label   "မှတ်တမ်းများ">

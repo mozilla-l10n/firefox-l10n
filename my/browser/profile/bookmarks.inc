@@ -10,7 +10,7 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title မှတ်သားချက်များ
 
 
 #define bookmarks_heading မှတ်သား လိပ်စာများ

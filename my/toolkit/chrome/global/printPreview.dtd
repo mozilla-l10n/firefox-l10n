@@ -24,11 +24,11 @@
 <!ENTITY p70.label            "70&#037;">
 <!ENTITY p80.label            "80&#037;">
 <!ENTITY p90.label            "90&#037;">
-<!ENTITY p100.label           "100&#037;">
-<!ENTITY p125.label           "125&#037;">
-<!ENTITY p150.label           "150&#037;">
-<!ENTITY p175.label           "175&#037;">
-<!ENTITY p200.label           "200&#037;">
+<!ENTITY p100.label           "၁၀၀&#037;">
+<!ENTITY p125.label           "၁၂၅&#037;">
+<!ENTITY p150.label           "၁၅၀&#037;">
+<!ENTITY p175.label           "၁၇၅&#037;">
+<!ENTITY p200.label           "၂၀၀&#037;">
 <!ENTITY Custom.label         "စိတ်ကြိုက် ဖန်တီးပါ...">
 <!ENTITY ShrinkToFit.label    "အံကိုက်ဖို့ စိတ်ကြိုက်ဖန်တီးပါ">
 <!ENTITY customPrompt.title   "အချိုးကျ စိတ်ကြိုက်ဖန်တီးပါ...">

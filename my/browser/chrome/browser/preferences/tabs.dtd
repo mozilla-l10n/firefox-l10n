@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "o စာအမှတ်အများ ဖွင့်တဲ့အခါ &brandShortName; ကို နှေးကွေးစေမယ် ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "bစာအမှတ် အတန်းကို အမြဲ ပြသပါ။">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "lတပ်ဗ်များအားမရွေးပါက မဖွင့်ပါနှင့်။">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 

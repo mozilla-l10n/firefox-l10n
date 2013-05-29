@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "၀င်ပါ">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "&syncBrand.shortName.label; ကိုသွားပြီ Recovery Key အားပြန်လည်ရယူနိုင်ပါသည် ။ Options အားသင်၏ အ​ခြား Device တွင်သွားကာ  &quot;အကောင့်&quot; အောက်ရှိ &quot;ကျွနု်ပ်၏ Recovery Key&quot; အားရွေးကာ ရယူနိုင်ပါသည်။ ">
 <!ENTITY verifying.label              "စစ်ဆေးအတည်ပြုနေသည်။">
 <!ENTITY resetPassword.label          "ပတ်စ်၀တ်အားပြန်လည်ရယူမည်။">
 <!ENTITY resetSyncKey.label           "အခြားထပ်တူပြုကီးသုံးကိရိယာလဲပျောက်သွားပြီးဖြစ်သည်။">

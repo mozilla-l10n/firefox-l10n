@@ -46,7 +46,7 @@
 
 <!ENTITY  incompatibleList.title          "မလိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များကို တွေ့ရှိတယ်">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "&brandShortName; အားဒေါင်းလုဒ်ချနေသှ်">
 <!ENTITY  downloading.intro               "မွမ်းမံချက်ကို ဆွဲချနေတယ်...">
 <!ENTITY  connecting.label                "မွမ်းမံတဲ့ ဆာဗာကို ချိတ်ဆက်နေတယ်...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ဟာ ၄င်းဆွဲချလိုက်တဲ့ တိုးပွား မွမ်းမံချက်ရဲ့
@@ -72,8 +72,8 @@
 သင်၏ &brandShortName;  ဗားရှင်းတပ်ဆင်ထားခြင်း ရှိမရှိစစ်ပါ:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "တစ်စုံတစ်ခုသည် &brandShortName; အား လုံခြုံစွာအဆင့်မြှင့်တင်ခြင်းမှ တားဆီးထားသည်။ 
 ကျေးဇူးပြုပြီး သင့်တွင် &brandShortName; နောက်ဆုံး အဆင့်ရှိလား စစ်ကြည့်ပြီး မူးရင်းနေရာမှာ :">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  errorCertAttrHasUpdate.label    "&brandShortName; အား တစ်စုံတစ်ခုမှ မလုံခြုံသောအဆင့်မြှင့်တင်မှူလုပ်ရန် 
+လုပ်နေပါသှ်။ ကျေးဇူးပြုပြီးသင်၏ အင်တာနက်ဆားဗစ်ပေးသူအားဆက်သွယ်ပြီး အကူအညီတောင်းပါ။">
 
 <!ENTITY  finishedPage.title              "မွမ်းမံချက် တပ်ဆင်ဖို့ အသင့် ဖြစ်နေတယ်">
 <!ENTITY  finishedPage.text               "နောက်တခါ &brandShortName; စတင်တဲ့အခါ မွမ်းမံချက်ကို တပ်ဆင်လိမ့်မယ်။ 

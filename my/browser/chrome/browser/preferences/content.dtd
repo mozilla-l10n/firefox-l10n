@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "E ခြွင်းချက်များ...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "i ရုပ်ပုံများကိုအလိုအလျှောက်ဖွင့်ပါ">
-<!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "xခြွင်းချက်များ...">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "J ဂျာဗားစကွစ်ကိုလုပ်ဆောင်စေ">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "v အဆင့်မြင့်သော...">
-<!ENTITY  advancedJS.accesskey        "v">
-
-<!ENTITY  enableJava.label            "J ဂျားဗားကို ဖွင့်ထားပါ">
-<!ENTITY  enableJava.accesskey        "J">
-
-
 <!ENTITY  fontsAndColors.label        "ဖောင့်များ &amp; အရောင်များ">
 
 <!ENTITY  defaultFont.label           "D စံထားဖောင့်:">

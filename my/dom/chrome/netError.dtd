@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "အော့ဖ်လိုင်း စနစ်">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>ဘယောင်ဆာသည်အင်တာနက်မဲ့အခြေအနေဖြင့်လုပ်ဆောင်နေသဖြင့်တောင်းဆိုထားသောအရာအားမရယူနိုင်ပါ။</p><ul><li>ဤကွန်ပျူတာအား ကွန်ယက်တစ်ခုသို့ချိတ်ဆက်ထားပါသလား။</li><li>&quot;Try Again&quot; အားနှိပ်ပြီး ချိတ်ဆက်လုပ်ဆောင်မှူစတင်ပြီးစာမျက်နှာအားပြန်ခေါ်ပါ။</li></ul>">
 
 <!ENTITY contentEncodingError.title "အကြောင်းအရာ စာဝှက်ရေးသားမှု အမှား">
 <!ENTITY contentEncodingError.longDesc "<p>သင်ကြည့်ရှူရန်ကြိုးစားနေသောစာမျက်နှာသည်ထောက့်ပံ့ပေးမထားသောပုံစံအားအသုံးပြုထားသဖြင့်ကြည့်ရှူမရနိုင်ပါ</p><ul><li>ကျေးဇူးပြုပြီးဝတ်ဆိုဒ်ပိုင်ရှင်အားဤပြသာနာနှင့်ပတ်သတ်ပြီးဆက်သွယ်အကြောင်းကြားပေးပါ</li></ul>">

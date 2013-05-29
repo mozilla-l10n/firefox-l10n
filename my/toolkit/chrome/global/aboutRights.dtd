@@ -51,9 +51,9 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
+<!ENTITY rights2.webservices-a "&brandFullName; သည်သင်အသုံးပြုရန်အတွက်အောက်တွင်ဖော်ပြထားသောသဘောတူညီချက်များဖြင့် &brandShortName; အားသင်အသုံးပြုရန် အတွက် ဝတ်အခြေခံသတင်းအချက်အလက် ဝန်ဆောင်မှူများအားအသုံးပြုသည်(&quot;Services&quot;)။အကယ်လို့ သင်သည်တစ်ခုသို့မဟုတ် တစ်ခုထက်ပိုသော သဘောတူညီချက်များအားလက်မခံနိုင်ပါက အဆိုပါဝန်ဆောင်မှူသို့ဆားဗစ်အားပိတ်ထားနိုင်ပါသည်။ထိုသို့ပိတ်ပင်ရန်အတွက်လုပ်ဆောင်ချက်အဆင့်ဆင့်အားဖော်ပြထားသည်မှာ ..">
 <!ENTITY rights2.webservices-b "ဒီမှာ">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c "ဆော့ဝဲ၏ အပြင်အဆင်ဆက်တင်များတွင် အခြားလုပ်ဆောင်ချက်များအား ပိတ်ထားနိုင်ပါသှ်">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "လုံခြုံစိတ်ချရသောအင်တာနက်ရှာဖွေခြင်း၊">

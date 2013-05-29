@@ -36,8 +36,8 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
 <!ENTITY clickToActivatePlugin                               "Activate plugin.">
-<!ENTITY checkForUpdates                                     "Check for updates…">
-<!ENTITY disabledPlugin                                      "This plugin is disabled.">
+<!ENTITY checkForUpdates                                     " အဆင့်မြှင့်တင်မှူ ရှိမရှိစစ်...">
+<!ENTITY disabledPlugin                                      "ယခုထပ်ပေါင်းဆော့ဝဲအားပိတ်ထားသှ်">
 <!ENTITY blockedPlugin.label                                 "သင့်ရဲ့ အကာအကွယ်အတွက် ယန္တရားငယ်ကို ပိတ်ဆို့ထားတယ်။">
 
 <!ENTITY installPlugin                                       "ပလပ်အင်အားတပ်ဆင်မည်">
@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "ပေးပို့ခြင်းမအောင်မြင်">
 <!ENTITY report.unavailable                                  "မည့်သည့်တင်ပြချက်မှမရှိ">
 <!ENTITY report.comment                                      "မှတ်ချက်ပေးပါ(မှတ်ချက်များအားအများပြည်သူမြင်ရသည်)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "ဝတ်စာမျက်နှာ၏ URL အပါ">
 
 <!ENTITY plugin.file                                         "ဖိုင်">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "ဖိုင်များအတွက် ဒီအရာကို အခုကစပြီး ဒီအတိုင်းပဲ အလိုအလျှောက် လုပ်ပေးပါ။">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "အရာတခုကတော့ -">
+<!ENTITY  whichIs.label              "အရာတခုကတော့ -">
 
 <!ENTITY  chooseHandlerMac.label      "ရွေးပါ...">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

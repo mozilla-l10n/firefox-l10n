@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "ဖ">
 <!ENTITY offlineAppRemove.confirm        "ချိတ်ဆက်မဲ့ အချက်အလက်ကြမ်းကို ဖယ်ရှားပါ">
 
-<!ENTITY encryptionTab.label             "စာဝှက်စနစ်">
-
-<!ENTITY protocols.label                 "စည်းမျဉ်းများ">
-<!ENTITY useSSL3.label                   "SSL 3.0 ကို သုံးပါ">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Use TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "အသိအမှတ်ပြုလက်မှတ်များ">
+<!ENTITY certificateTab.label            "အသိအမှတ်ပြုလက်မှတ်များ">
 <!ENTITY certSelection.description       "ဆာဗာ တခုမှ ကျွန်ပ် ကိုယ်ရေး လက်မှတ်ကို တောင်းဆိုတဲ့အခါ">
 <!ENTITY certs.auto                      "တခုကို အလိုအလျောက် ရွေးချယ်ပါ">
 <!ENTITY certs.auto.accesskey            "l">

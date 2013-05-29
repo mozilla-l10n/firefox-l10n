@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "အထူးအပြင်အဆင်တပ်ဆင်ထားခြင်းအားရပ်မည်">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "အသုံးပြုရန်မေး">
+<!ENTITY cmd.askToActivate.tooltip            "ယခုဆော့ဝဲအားသုံးရန်အခေါက်တိုင်းမေး">
+<!ENTITY cmd.alwaysActivate.label             "အမြဲတမ်းသုံးမည်">
+<!ENTITY cmd.alwaysActivate.tooltip           "ယခုဆော့ဝဲအားအမြဲသုံးမည်">
+<!ENTITY cmd.neverActivate.label              "ဘယ်တော့မှမသုံး">
+<!ENTITY cmd.neverActivate.tooltip            "ယခုဆော့ဝဲအားပိတ်ထားမည်">
+<!ENTITY cmd.stateMenu.tooltip                "ယခုဆော့ဝဲစတင်သောအခါပြောင်းရန်">
 <!ENTITY cmd.installAddon.label               "တပ်ဆင်ပါ">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
