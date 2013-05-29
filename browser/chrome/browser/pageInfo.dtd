@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Konumu paylaş">
 <!ENTITY  permPlugins           "Yan uygulamaları etkinleştir">
 <!ENTITY  permFullscreen        "Tam ekrana geç">
-<!ENTITY  permPointerLock       "İşaretçiyi gizle">
+<!ENTITY  permPointerLock2      "Fare işaretçisini gizle">
 
 <!ENTITY  permIndexedDB              "Çevrim dışı depolamayı yönet">
 <!ENTITY  permClearStorage           "Depolananları temizle">

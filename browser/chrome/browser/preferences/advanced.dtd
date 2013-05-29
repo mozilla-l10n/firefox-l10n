@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Çevrim dışı verileri sil">
 
-<!ENTITY encryptionTab.label             "Şifreleme">
-
-<!ENTITY protocols.label                 "İletişim kuralları">
-<!ENTITY useSSL3.label                   "SSL 3.0 kullan">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 kullan">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Onay belgeleri">
+<!ENTITY certificateTab.label            "Onay belgeleri">
 <!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
 <!ENTITY certs.auto                      "Birini kendiliğinden seç">
 <!ENTITY certs.auto.accesskey            "B">
