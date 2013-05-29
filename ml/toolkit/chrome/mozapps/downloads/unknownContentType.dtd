@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "ഈ തരത്തില്‍ പെട്ട ഫയലുകള്‍ക്ക്‌ ഇനി മുതല്‍ തനിയെ ഇങ്ങനെ ചെയ്യുക">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "ഇത് ഒരു:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "തിരഞ്ഞെടുക്കുക ">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

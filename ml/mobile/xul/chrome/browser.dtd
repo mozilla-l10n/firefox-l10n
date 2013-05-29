@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Enter Search or Address">
+
+<!ENTITY back.label            "Back">
+<!ENTITY forward.label         "Forward">
+<!ENTITY reload.label          "Reload">
+<!ENTITY stop.label            "Stop">
+<!ENTITY go.label              "Go">
+<!ENTITY star.label            "Star">
+
+<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY newtab.label          "New Tab">
+<!ENTITY closetab.label        "Close Tab">
+
+<!ENTITY cut.label             "മുറിക്കുക">
+<!ENTITY copy.label            "പകര്‍ത്തുക">
+<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY paste.label           "ഒട്ടിക്കുക">
+<!ENTITY pasteAndGo.label      "Paste &amp; Go">
+<!ENTITY delete.label          "Delete">
+<!ENTITY selectAll.label       "Select All">
+<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY inputMethod.label     "Select Input Method">
+
+<!ENTITY allPagesHeader.label      "All Pages">
+<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY historyHeader.label       "നാള്‍വഴി">
+<!ENTITY desktopHeader.label       "ഡെസ്ക്ടോപ്പ്‌">
+
+<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkTags.label    "Add tags here">
+
+<!ENTITY selectHelper.done         "Done">
+
+<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsUpdate.label        "Update">
+<!ENTITY addonsRepo.label          "ആഡ്-ഓണുകള്‍ ലഭ്യമാകുക">
+<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsSearch.label        "തിരയുക">
+<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch.recommended  "Recommended">
+
+<!ENTITY addonOptions.label        "Options">
+<!ENTITY addonEnable.label         "പ്രവര്‍ത്തന സജ്ജം">
+<!ENTITY addonDisable.label        "പ്രവര്‍ത്തന രഹിതം">
+<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonUninstall.label      "Uninstall">
+<!ENTITY addonCancel.label         "Cancel">
+<!ENTITY addonShowPage.label       "Go to Page">
+
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShow2.label       "Find">
+<!ENTITY downloadOpen2.label       "തുറക്കുക">
+<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "തുടരുക ">
+<!ENTITY downloadRetry.label       "വീണ്ടും ശ്രമിയ്ക്കുക">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadFailed.label      "പരാജയപ്പെട്ടിരിക്കുന്നു ">
+
+<!ENTITY noResults.label           "No results">
+<!ENTITY allBookmarks.label        "See all bookmarks">
+
+<!ENTITY bookmarkPopup.label       "അടയാളപ്പെടുത്തിയിരിക്കുന്ന താള്‍">
+<!ENTITY bookmarkRemove.label      "Remove">
+<!ENTITY bookmarkEdit.label        "Edit">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+
+<!ENTITY identity.unverifiedsite2 "തിരിച്ചറിയുന്നതിനുള്ള വിവരങ്ങള്‍ ഈ വെബ്സൈറ്റില്‍ ലഭ്യമല്ല.">
+<!ENTITY identity.connectedTo2 "Connected to">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "run by">
+
+<!ENTITY consoleHeader.label       "Error Console">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "പിശകുകള്‍">
+<!ENTITY consoleWarnings.label     "മുന്നറിയിപ്പുകള്‍">
+<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "വെടിപ്പാക്കുക">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "സ്രോതസ്സ്‌ ഫയല്‍:">
+<!ENTITY consoleErrLine.label      "ലൈന്‍">
+<!ENTITY consoleErrColumn.label    "കോളം">
+
+<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextSaveImage.label       "പടം സൂക്ഷിക്കുക">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextSaveVideo.label       "വീഡിയോ സൂക്ഷിക്കുക">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "Play">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+
+<!ENTITY pageactions.saveas.pdf      "Save As PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.quit            "Quit">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
+<!ENTITY pageactions.charEncoding    "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
+
+<!ENTITY appMenu.siteOptions         "Site Options">

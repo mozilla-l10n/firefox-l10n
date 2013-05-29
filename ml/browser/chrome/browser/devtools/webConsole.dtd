@@ -9,6 +9,7 @@
 
 
 <!ENTITY window.title "വെബ് കണ്‍സോള്‍">
+<!ENTITY browserConsole.title "Browser Console">
 
 <!ENTITY networkPanel.requestURLColon             "ആവശ്യപ്പെട്ട യുആര്‍എല്‍:">
 <!ENTITY networkPanel.requestMethodColon          "ആവശ്യപ്പെടുന്ന രീതി:">
@@ -48,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "സിഎസ്എസ് പാഴ്സിങ് പിശകുകള്‍ സൂക്ഷിയ്ക്കുക">
 <!ENTITY btnPageJS.label    "ജെഎസ്">
 <!ENTITY btnPageJS.tooltip  "ജാവാസ്ക്രിപ്റ്റ് എക്സെപ്ഷനുകള്‍ സൂക്ഷിയ്ക്കുക">
+<!ENTITY btnPageSecurity.label "Security">
+<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -60,7 +63,7 @@
 <!ENTITY btnConsoleWarnings     "മുന്നറിയിപ്പുകള്‍">
 <!ENTITY btnConsoleLog          "ലോഗ്">
 
-<!ENTITY filterBox.placeholder "ഫില്‍റ്റര്‍">
+<!ENTITY filterOutput.placeholder "Filter output">
 <!ENTITY btnClear.label        "വെടിപ്പാക്കുക">
 <!ENTITY btnClear.tooltip      "വെബ് കണ്‍സോള്‍ ഔട്ട്പുട്ട് വെടിപ്പാക്കുക">
 
@@ -77,3 +80,5 @@
 
 <!ENTITY copyURLCmd.label     "കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyURLCmd.accesskey "a">
+
+<!ENTITY closeCmd.key  "W">
