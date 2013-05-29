@@ -9,6 +9,7 @@
 
 
 <!ENTITY window.title "வலை பணிமுனை">
+<!ENTITY browserConsole.title "Browser Console">
 
 <!ENTITY networkPanel.requestURLColon             "கோரிக்கை URL:">
 <!ENTITY networkPanel.requestMethodColon          "கோரிக்கை முறை:">
@@ -48,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "CSS பாகுபடுத்தல் பிழைகளைப் பதிவு செய்">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "JavaScript விலக்கங்களைப் பதிவு செய்">
+<!ENTITY btnPageSecurity.label "பாதுகாப்பு">
+<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -60,7 +63,7 @@
 <!ENTITY btnConsoleWarnings     "எச்சரிக்கைகள்">
 <!ENTITY btnConsoleLog          "பதிவு">
 
-<!ENTITY filterBox.placeholder "வடிகட்டி">
+<!ENTITY filterOutput.placeholder "Filter output">
 <!ENTITY btnClear.label        "துடை">
 <!ENTITY btnClear.tooltip      "வலை பணிமுனை வெளியீட்டை அழி">
 
@@ -77,3 +80,5 @@
 
 <!ENTITY copyURLCmd.label     "இணைப்பு இடத்தை நகலெடு">
 <!ENTITY copyURLCmd.accesskey "a">
+
+<!ENTITY closeCmd.key  "W">
