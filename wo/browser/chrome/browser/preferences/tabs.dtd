@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Yëgle yéexaayu &brandShortName; su koñ yu bari dee ubbeekunoo">
 <!ENTITY warnOpenManyTabs.accesskey   "Y">
 
-<!ENTITY showTabBar.label             "Wane saa su ne banqaasu koñ yi">
-<!ENTITY showTabBar.accesskey         "W">
-
 <!ENTITY restoreTabsOnDemand.label        "Baña fat këmbu koñ yi suqalikuwul">
 <!ENTITY restoreTabsOnDemand.accesskey    "k">
 

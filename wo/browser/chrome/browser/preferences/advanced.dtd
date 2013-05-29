@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "F">
 <!ENTITY offlineAppRemove.confirm        "Màbb rootaan yi ne ci jokkoodiku">
 
-<!ENTITY encryptionTab.label             "Woññi wi">
-
-<!ENTITY protocols.label                 "Ndefin yi">
-<!ENTITY useSSL3.label                   "Jëfandikoo SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Jëfandikoo TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Sarsifikaa">
+<!ENTITY certificateTab.label            "Sarsifikaa">
 <!ENTITY certSelection.description       "Su ab servëër dima laaj sama sarsifikaa bopp :">
 <!ENTITY certs.auto                      "Fal boppam benn">
 <!ENTITY certs.auto.accesskey            "l">

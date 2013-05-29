@@ -33,8 +33,11 @@
 <!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.confirmPassword.label     "Dëggal baatu caabi bi">
 <!ENTITY setup.confirmPassword.accesskey "D">
+<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
+
 <!ENTITY setup.tosAgree1.label      "Nangu naa">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Ni ñu koy jëfandikoo">
@@ -60,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Boole ak benn aparey">
 <!ENTITY addDevice.showMeHow.label          "Nan la?">
 <!ENTITY addDevice.dontHaveDevice.label     "Amewuma aparey ak man">
-<!ENTITY pairDevice.setup.description.label  "Boo bëggee sajj, falal « boole ci benn apaarey » ci sa beneen apaarey.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Dugalal léegi kod bii:">
-<!ENTITY pairDevice.dialog.description.label "Boo bëggee sajj sa apparey bu bees falal « tabbal jappante » ci moom.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Dugalal kod bi aparey bi waccee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Jéemaatal.">
 <!ENTITY addDevice.dialog.successful.label  "Aparey yokku na. Jàppante bi jëkk mën na jël simili yu bari te nara jeex ci ginnaw.">
@@ -71,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Jokkoo">
-<!ENTITY existingRecoveryKey.description "Mën nga am ab duppi ci sa caabi soo demee ci tannéefi &syncBrand.shortName.label; ci sa aparey walla nga fal  « Sama caabi  jàppante» ci « Caytu koont ».">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Wóorliku…">
 <!ENTITY resetPassword.label          "Suqali baatu jàll">
 <!ENTITY resetSyncKey.label           "Mënatuma agg ci sama beneen aparey">

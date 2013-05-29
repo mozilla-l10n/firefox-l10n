@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Def lu ni mel saa su nekk ak bepp giiru dencukaay bi.">
 <!ENTITY  rememberChoice.accesskey    "f">
 
-<!ENTITY  whichIsA.label              "dafa bokk ci giiru dencukaay:">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Tànn…">
 <!ENTITY  chooseHandlerMac.accesskey  "T">

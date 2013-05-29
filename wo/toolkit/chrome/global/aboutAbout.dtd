@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAbout.title  "Ci mbirum">
-<!ENTITY aboutAbout.note   "Lii Limu xëti « Ci mbiri » boo yore la.<br/> 
-Am na ci yu tekkiwul dara. Yeneen ngir seet li am.<br/> 
-Ak yeneen yu kenn tëggaalewul ndax dafay sxla ay calala laaj.">
+<!ENTITY aboutAbout.note   "This is a list of “about” pages for your convenience.<br/>
+                            Some of them might be confusing. Some are for diagnostic purposes only.<br/>
+                            And some are omitted because they require query strings.">

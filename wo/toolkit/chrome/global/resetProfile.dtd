@@ -10,6 +10,6 @@
 
 <!ENTITY resetProfile.title               "Dellowaat &brandShortName; ci namu meloon ci ndorte">
 <!ENTITY resetProfile.description         "Su fekkee di nga am ay tolof tolof yoo mënula saafara, tambaliwaatal ak jëmm ju bees yu am rekk say xibaari bopp.">
-<!ENTITY resetProfile.button.label        "Yeesalaat &brandShortName;">
+<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "Negal tuuti &brandShortName; raxas say rootaan yu maggat yi…">

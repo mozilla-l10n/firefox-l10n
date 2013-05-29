@@ -24,6 +24,10 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Nat yu yomb">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
+
 <!ENTITY aboutTelemetry.systemInfoSection "  Xibaari sistem bi">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "

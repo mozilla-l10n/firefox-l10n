@@ -52,9 +52,11 @@ connection.</li>
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Bësal &quot;Jéemaatal&quot; dem ci anamu jokkoo te nga fataat xët wi.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Jumte ci suulaale ëmb gi">
 <!ENTITY contentEncodingError.longDesc "<ul> 

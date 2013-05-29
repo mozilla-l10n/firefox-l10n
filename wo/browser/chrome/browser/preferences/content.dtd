@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Yi kenn tëggaalewul…">
 <!ENTITY  popupExceptions.accesskey   "Y">
 
-<!ENTITY  loadImages.label            "Fat boppamu nataal yi">
-<!ENTITY  loadImages.accesskey        "n">
-<!ENTITY  exceptions.label            "Yi kenn tëggaalewul…">
-<!ENTITY  exceptions.accesskey        "k">
-
-<!ENTITY  enableJavaScript.label      "Suqali JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "S">
-<!ENTITY  advancedJS.label            "Xóot…">
-<!ENTITY  advancedJS.accesskey        "X">
-
-<!ENTITY  enableJava.label            "Dekkali Java">
-<!ENTITY  enableJava.accesskey        "J">
-
-
 <!ENTITY  fontsAndColors.label        "Njabootu araf yi ak melo yi">
 
 <!ENTITY  defaultFont.label           "Njabootu araf yi ñakk ndigal :">

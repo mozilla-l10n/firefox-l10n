@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Faww mu am plugin boo bëgge këmb li wonewu.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Laalal fii ngir sajj plugin bi.">
-<!ENTITY clickToPlayPlugin                                   "Cuqal fii ngir sajj plugin bi.">
+<!ENTITY clickToActivatePlugin                               "Activate plugin.">
 <!ENTITY checkForUpdates                                     "Wut ay mottali…">
 <!ENTITY disabledPlugin                                      "Plugin dafa suux.">
 <!ENTITY blockedPlugin.label                                 "Plugin bii dañu ko boloke ngir sa kaarange.">
@@ -56,6 +56,8 @@
 <!ENTITY report.disabled                                     "Raapooru ngiroo bi suux na.">
 <!ENTITY report.failed                                       "Yoonee bi lajj na.">
 <!ENTITY report.unavailable                                  "Amul raapoor bu féex">
+<!ENTITY report.comment                                      "Add a comment (comments are publicly visible)">
+<!ENTITY report.pageURL                                      "Include the page's URL">
 
 <!ENTITY plugin.file                                         "Dencukaay">
 <!ENTITY plugin.mimeTypes                                    "Giiru MIME">

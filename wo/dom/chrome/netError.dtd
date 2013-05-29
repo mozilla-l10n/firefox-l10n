@@ -55,11 +55,7 @@ sa ordinatëër.</li>
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj féexul ci dambu jowkat bi.</p><ul><li>ngir kaarange, jowkat bi du tëb rekk laaj yenn jukki yi.</li><li> Cuqal ci Jéematal ngir laajaat jukki bi ci dalub web bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
-<!ENTITY netOffline.longDesc2 "<p>Joowkat bi dafa jokkoodiku, mënula jokkoo ak dal bi.</p> 
-<ul> 
-<li>Ndax ordinatëër bi jokkoo na ak lëkkale gi ?</li> 
-<li>Demal ci anamu rëdd te nga jéemaat.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Njumte ci suulaale këmb gi">
 <!ENTITY contentEncodingError.longDesc "<p>Xët wi nga bëgg mënul wone wu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">

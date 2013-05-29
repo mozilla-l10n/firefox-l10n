@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "Yeb nataal yi">
 <!ENTITY  permPopup             "Ubbi ay palanteeri popup">
 <!ENTITY  permCookie            "Jëmmal cookies yi">
+<!ENTITY  permNotifications     "Show Notifications">
 <!ENTITY  permInstall           "Samp yokk yi walla tem yi">
 <!ENTITY  permGeo               "Seddoo berab bi">
 <!ENTITY  permPlugins           "Sàjjal plugin yi">
 <!ENTITY  permFullscreen        "Demal ci seetukaay bu yambalaŋ">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Denc rootaan yi ci jokkoodiku">
 <!ENTITY  permClearStorage           "Màbbal rootaan yi">

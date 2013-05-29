@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Topp tànk">
 
-<!ENTITY doNotTrack.label               "Wax dalub web yi ñu bañ ma topp">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Gëna xam">
 
 <!ENTITY  history.label                 "Jaar jaar">
 
@@ -22,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Nangu kuki yi joge ci dal yi">
 <!ENTITY  acceptCookies.accesskey       "a">
 
-<!ENTITY  acceptThirdParty.label        "Nangu yeneen kuki yi">
-<!ENTITY  acceptThirdParty.accesskey    "N">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Saa su ne">
+<!ENTITY  acceptThirdParty.never.label    "Mukk">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Denc leen ba :">
 <!ENTITY  keepUntil.accesskey           "l">
