@@ -16,7 +16,7 @@
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "ముద్రణాయంత్రం   వివరణ:">
 <!ENTITY printer.label "ముద్రణాయంత్రం">
-<!ENTITY printerInput.label "ముద్రణాయంత్రం   నామము:">
+<!ENTITY printerInput.label "ముద్రణాయంత్రం పేరు (N):">
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "ముద్రణా  వ్యాప్తి">

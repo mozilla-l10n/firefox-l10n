@@ -4,7 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "హక్కులు గురించి">
-<!ENTITY rights.intro-header    "మీ యొక్క హక్కులు గురించి">
+<!ENTITY rights.intro-header    "మీ హక్కుల గురించి">
 <!ENTITY rights.intro " ప్రపంచంలో అన్ని ప్రాంతాలనుండి  వేల మంది  సముదాయముచే తయారు చేయబడిన   &brandFullName; ఒక స్వేచ్ఛామూలాలు ఉచితంగా కల సాఫ్ట్‌వేర్.  మీరు తెలుసుకోవాలిసిన  కొన్ని సంగతులు:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "క్రింది ఇవ్వబడిన షరతులు లోబడి &brandFullName; యొక్క బైనరీ  విడుదలతో  వుపయోగించుట కొరకు సౌలభ్యములను అందించుటకు &brandFullName; వెబ్-ఆధారిత సమాచార సేవలను (&quot;సేవలు&quot;) వుపయోగించును. మీరు యీ సేవలలో వొకటి లేదా అంతకన్నా యెక్కువ వాటిని వాడుటకు యిష్టపడకపోయినా లేక కింది షరతులు అమోదయోగ్యం కాకున్నా, మీరు సౌలభ్యమును లేక సేవ(ల)ను అచేతనము చేయవచ్చును. ఫలానా సౌలభ్యము లేదా సేవ యెలా అచేతనము చేయవలెను అనునది యిక్కడ కనుగొనవచ్చు ">
 <!ENTITY rights2.webservices-b "యిక్కడ">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "రక్షితబ్రౌజింగ్: ">
