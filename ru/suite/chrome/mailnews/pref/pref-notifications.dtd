@@ -8,7 +8,6 @@
 <!ENTITY showAlertFor.label "Показывать уведомление в течение">
 <!ENTITY showAlertFor.accesskey "о">
 <!ENTITY showAlertTimeEnd.label "сек.">
-<!ENTITY showAlertTimeEnd.accesskey "к">
 <!ENTITY showAlertPreviewText.label "Отображать текст сообщения">
 <!ENTITY showAlertPreviewText.accesskey "ж">
 <!ENTITY showAlertSubject.label "Отображать тему">

@@ -169,9 +169,10 @@
 <!ENTITY devtoolsConnect.accesskey "е">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Удалённая веб-консоль">
 <!ENTITY browserConsoleCmd.label "Консоль браузера">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey "о">
 <!ENTITY inspectContextMenu.label "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
 <!ENTITY responsiveDesignTool.label "Адаптивный дизайн">
