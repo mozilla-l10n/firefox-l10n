@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Totjorn visible">
 <!ENTITY zLevel.accesskey               "v">
 
-<!ENTITY fullZoomReduceBtn.label        "Reduire">
+<!ENTITY fullZoomReduceBtn.label        "Redusir">
 <!ENTITY fullZoomReduceBtn.accesskey    "R">
 <!ENTITY fullZoomEnlargeBtn.label       "Agrandir">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "A">

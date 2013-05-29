@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Partejar l'emplaçament">
 <!ENTITY  permPlugins           "Activar los plugins">
 <!ENTITY  permFullscreen        "Passar en mòde ecran complet">
-<!ENTITY  permPointerLock       "Hide the Pointer">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
 <!ENTITY  permIndexedDB              "Conservar de donadas fòra connexion">
 <!ENTITY  permClearStorage           "Suprimir las donadas">

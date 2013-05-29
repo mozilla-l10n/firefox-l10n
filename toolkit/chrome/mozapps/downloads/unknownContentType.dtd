@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Efectuar totjorn aquesta accion per aqueste tipe de fichièr.">
 <!ENTITY  rememberChoice.accesskey    "t">
 
-<!ENTITY  whichIsA.label              "qu'es un fichièr de tipe :">
+<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Causir...">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; utiliza de servicis d&apos;informacions Web (&quot;Los Servicis&quot;) per provesir certanas de las foncionalitats que son mesas a vòstra disposicion dins aquesta version binària de &brandShortName; coma descrich çaijós. Se volètz pas utilizar un o l&apos;autre d&apos;aqueles Servicis o se vos sembla que las modalitats çaijós son pas acceptablas, podètz desactivar la foncionalitat o lo Servici. ">
 <!ENTITY rights2.webservices-b "instruccions">
-<!ENTITY rights2.webservices-c " que descrivon lo biais de desactivar un Servici o una foncionalitat en particular.">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Blocatge de sites malvolents : ">
