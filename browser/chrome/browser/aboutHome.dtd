@@ -21,6 +21,8 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "നിങ്ങള്‍ക്കു് ഇഷ്ടമുള്ള രീതിയില്‍ നിങ്ങളുടെ ബ്രൌസര്‍ സജ്ജമാക്കാം. <a>ഇതിനായി ആയിരത്തിലധികം ആഡ്-ഓണുകള്‍ ലഭ്യമാണു്</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY abouthome.historyButton.label   "നാള്‍വഴി">

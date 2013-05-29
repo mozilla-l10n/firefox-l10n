@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "ഓഫ്‌ലൈന്‍ ഡേറ്റ മാറ്റുക">
 
-<!ENTITY encryptionTab.label             "എന്‍ക്രിപ്ഷന്‍">
-
-<!ENTITY protocols.label                 "പ്രോട്ടോകോളുകള്‍ ">
-<!ENTITY useSSL3.label                   "SSL 3.0 ഉപയോഗിക്കുക">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 ഉപയോഗിക്കുക">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "സര്‍ട്ടിഫിക്കറ്റുകള്‍">
+<!ENTITY certificateTab.label            "സര്‍ട്ടിഫിക്കറ്റുകള്‍">
 <!ENTITY certSelection.description       "ഒരു സര്‍വര്‍ സര്‍ട്ടിഫിക്കേറ്റ് ആവശ്യപ്പെടുമ്പോള്‍:">
 <!ENTITY certs.auto                      "ഒന്നു് സ്വയം തെരഞ്ഞെടുക്കുക ">
 <!ENTITY certs.auto.accesskey            "l">

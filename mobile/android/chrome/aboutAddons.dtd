@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "ആഡ്-ഓണുകള്‍">
+<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.options                    "ഐച്ഛികങ്ങള്‍">
+
+<!ENTITY addonAction.enable                     "പ്രവര്‍ത്തന സജ്ജം">
+<!ENTITY addonAction.disable                    "പ്രവര്‍ത്തന രഹിതം">
+<!ENTITY addonAction.uninstall                  "Uninstall">
+<!ENTITY addonAction.undo                       "വേണ്ട">

@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "താഴെ പറഞ്ഞിരിയ്ക്കുന്ന വ്യവസ്ഥകള്‍ അനുസരിച്ചു് &brandShortName;-ന്റെ ബൈനറി പതിപ്പിനൊപ്പം ഉപയോഗിയ്ക്കുന്നതിനായി ചില വിശേഷതകള്‍ ലഭ്യമാക്കുന്നതിനായി &brandFullName;  വെബ് അടിസ്ഥാനത്തിലുള്ള വിവരങ്ങളുടെ സര്‍വീസുകള്‍ (&quot;Services&quot;) ഉപയോഗിയ്ക്കുന്നു. സര്‍വീസുകളില്‍ ഒന്നോ കൂടുതലോ ഉപയോഗിയ്ക്കണമെങ്കില്‍, വിശേഷത അല്ലെങ്കില്‍ സര്‍വീസ് പ്രവര്‍ത്തന രഹിതമാക്കാം. ഇതു് നടപ്പിലാക്കുന്നതിനുള്ള നിര്‍ദ്ദേശങ്ങള്‍ ലഭ്യമാകുന്നു.">
 <!ENTITY rights2.webservices-b "ഇവിടെ">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "സുരക്ഷിതമായ ബ്രൌസിങ്: ">
