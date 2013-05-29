@@ -7,16 +7,16 @@
   - -->
 
 
-<!ENTITY title      "Connect">
-<!ENTITY header     "Connect to remote device">
-<!ENTITY host       "Host:">
+<!ENTITY title      "เชื่อมต่อ">
+<!ENTITY header     "เชื่อมต่อไปยังอุปกรณ์ระยะไกล">
+<!ENTITY host       "โฮสต์:">
 <!ENTITY port       "พอร์ต :">
-<!ENTITY connect    "Connect">
-<!ENTITY connecting "กำลังเชื่อมต่อ…">
-<!ENTITY availableTabs "Available remote tabs:">
-<!ENTITY availableProcesses "Available remote processes:">
-<!ENTITY connectionError "Error:">
-<!ENTITY errorTimeout "Error: connection timeout.">
-<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY connect    "เชื่อมต่อ">
+<!ENTITY connecting "เชื่อมต่อ">
+<!ENTITY availableTabs "แท็บระยะไกลที่มี:">
+<!ENTITY availableProcesses "โพรเซสทางไกลที่มี:">
+<!ENTITY connectionError "ผิดพลาด:">
+<!ENTITY errorTimeout "ผิดพลาด: การเชื่อมต่อหมดเวลารอ">
+<!ENTITY errorRefused "ผิดพลาด: การเชื่อมต่อถูกปฏิเสธ">
 <!ENTITY errorUnexpected "ข้อผิดพลาดที่ไม่ได้คาดไว้">
-<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">
+<!ENTITY help "Firefox Developer Tools สามารถดีบั๊กอุปกรณ์ระยะไกล (เช่น Firefox สำหรับ Android และ Firefox OS) ตรวจสอบว่าคุณเปิดตัวเลือก 'การดีบั๊กระยะไกล' ที่ตัวอุปกรณ์ระยะไกลอยู่ ดู<a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>เอกสาร</a>สำหรับข้อมูลเพิ่มเติม">

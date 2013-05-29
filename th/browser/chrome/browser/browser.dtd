@@ -84,9 +84,9 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "ต">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "ต">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullscreenExitHint.value "กด ESC เมื่อจะออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "ม">
 
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
 <!ENTITY closeWindow.accesskey "ด">
@@ -115,7 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "I">
+<!ENTITY sharePageCmd.label "แบ่งปันหน้านี้">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "บ">
+<!ENTITY shareLinkCmd.label "แบ่งปันลิงก์นี้">
+<!ENTITY shareLinkCmd.accesskey "แ">
+<!ENTITY shareImageCmd.label "แบ่งปันภาพนี้">
+<!ENTITY shareImageCmd.accesskey "บ">
+<!ENTITY shareSelectCmd.label "แบ่งปันการเลือก">
+<!ENTITY shareSelectCmd.accesskey "บ">
+<!ENTITY shareVideoCmd.label "แบ่งปันวิดีโอนี้">
+<!ENTITY shareVideoCmd.accesskey "บ">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
@@ -201,11 +212,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label        "เชื่อมต่อ…">
 <!ENTITY devtoolsConnect.accesskey    "ต">
 
-<!ENTITY errorConsoleCmd.label        "หน้าจอข้อผิดพลาด">
-<!ENTITY errorConsoleCmd.accesskey    "จ">
+<!ENTITY errorConsoleCmd.label        "คอนโซลข้อผิดพลาด">
+<!ENTITY errorConsoleCmd.accesskey    "ค">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label    "เว็บคอนโซลระยะไกล">
+<!ENTITY remoteWebConsoleCmd.label    "คอนโซลเว็บระยะไกล">
+
+<!ENTITY browserConsoleCmd.label      "คอนโซลเบราว์เซอร์">
 
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
@@ -231,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
-<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbarMenu.accesskey          "พ">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "สลับเครื่องมือ">
@@ -248,14 +261,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
-<!ENTITY newPrivateWindow.label     "หน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
+<!ENTITY newPrivateWindow.label     "หน้าต่างท่องเว็บแบบส่วนตัวใหม่">
 <!ENTITY newPrivateWindow.accesskey "น">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
 <!ENTITY editMenu.accesskey       "ก"> 
-<!ENTITY undoCmd.label            "เรียกคืน">  
+<!ENTITY undoCmd.label            "เลิกทำ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ร"> 
+<!ENTITY undoCmd.accesskey          "ล"> 
 <!ENTITY redoCmd.label            "ทำซ้ำ">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ซ"> 
@@ -279,7 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ปรับแต่ง">
 <!ENTITY preferencesCmdUnix.accesskey     "ต"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -353,7 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey        "น">
-<!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
+<!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างท่องเว็บแบบส่วนตัวใหม่">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "น">
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
 <!ENTITY openLinkCmdInCurrent.accesskey "ล">
@@ -462,13 +475,13 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate050x.accesskey "ช">
 <!ENTITY mediaPlaybackRate100x.label "ความเร็วปกติ">
 <!ENTITY mediaPlaybackRate100x.accesskey "ป">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
+<!ENTITY mediaPlaybackRate150x.label "ความเร็วสูง (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "ส">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.label "ความเร็วจนน่าหัวเราะ (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "น">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -518,7 +531,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "เปิดแท็บใหม่">
 <!ENTITY newWindowButton.tooltip        "เปิดหน้าต่างใหม่">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+<!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
 
 <!ENTITY cutButton.tooltip              "ตัด">
 <!ENTITY copyButton.tooltip             "คัดลอก">
@@ -537,7 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "ออก"> 
 <!ENTITY quitApplicationCmd.accesskey   "อ">
 <!ENTITY quitApplicationCmdMac.label    "ออกจาก &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "ปิด">  
 <!ENTITY closeCmd.key                   "w">  
@@ -626,27 +640,35 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "แสดงแถบข้าง">
 <!ENTITY social.toggleSidebar.accesskey "ถ">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "จัดการบริการ…">
 
 <!ENTITY social.toggleNotifications.label "แสดงการแจ้งเตือน">
 <!ENTITY social.toggleNotifications.accesskey "ต">
 
-<!ENTITY social.activated.undobutton.label "เรียกคืน">
-<!ENTITY social.activated.undobutton.accesskey "ค">
+<!ENTITY social.activated.description "บริการจาก<label/>ถูกเปิดใช้งานแล้ว คุณสามารถเปลี่ยนแปลงการตั้งค่าของบริการใน<label class='text-link'>ตัวจัดการส่วนเสริม</label>">
+<!ENTITY social.activated.undo.label "โอ๊ะ เรียกคืนค่านี้!">
+<!ENTITY social.activated.undo.accesskey "ร">
+<!ENTITY social.learnMore.label "เรียนรู้เพิ่มเติม…">
+<!ENTITY social.learnMore.accesskey "ร">
+<!ENTITY social.closeNotificationItem.label "ไม่ใช่ตอนนี้">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "มุ่งไปที่การพูดคุย">
+<!ENTITY social.chatBar.accesskey "ม">
+<!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY getUserMedia.selectCamera.label "แบ่งปันกล้อง:">
+<!ENTITY getUserMedia.selectCamera.accesskey "ก">
+<!ENTITY getUserMedia.selectMicrophone.label "แบ่งปันไมโครโฟน:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "ม">
+
+<!ENTITY webrtcIndicatorButton.label "เข้าถึงกล้อง / ไมโครโฟน">
+<!ENTITY webrtcIndicatorButton.tooltip "แสดงเว็บไซต์ที่คุณกำลังแบ่งปันกล้องหรือไมโครโฟนของคุณด้วย">
 
 <!ENTITY mixedContentBlocked.helplink "เรียนรู้เพิ่มเติม">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "เว็บไซต์ส่วนใหญ่จะทำงานอย่างถูกต้องแม้กระทั่งเนื้อหาถูกปิดกั้น">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "กด ESC ได้ตลอดเวลาเพื่อแสดงอีกครั้ง">

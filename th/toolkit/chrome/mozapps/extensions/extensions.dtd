@@ -33,7 +33,7 @@
 <!-- global informations -->
 
 <!ENTITY info.plugincheck.label                 "ตรวจสอบว่าโปรแกรมเสริมของคุณปรับรุ่นแล้วหรือยัง">
-<!ENTITY info.plugincheck.tooltip               "ตรวจสอบว่าโปรแกรมเสริมของคุณปรับรุ่นแล้วหรือยัง">
+<!ENTITY info.plugincheck.tooltip               "ตรวจสอบว่าโปรแกรมเสริมของคุณเป็นรุ่นล่าสุดแล้วหรือยัง">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ค้นหา">
@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "ก">
 <!ENTITY cmd.disableTheme.label               "เลิกใช้ชุดตกแต่ง">
 <!ENTITY cmd.disableTheme.accesskey           "ก">
+<!ENTITY cmd.askToActivate.label              "ถามเพื่อเปิดใช้งาน">
+<!ENTITY cmd.askToActivate.tooltip            "ถามเพื่อใช้ส่วนเสริมนี้ในแต่ละครั้ง">
+<!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานตลอด">
+<!ENTITY cmd.alwaysActivate.tooltip           "เปิดใช้ส่วนเสริมนี้ตลอด">
+<!ENTITY cmd.neverActivate.label              "ไม่เคยเปิดใช้งาน">
+<!ENTITY cmd.neverActivate.tooltip            "ไม่เคยใช้ส่วนเสริมนี้">
+<!ENTITY cmd.stateMenu.tooltip                "เปลี่ยนเมื่อส่วนเสริมนี้ทำงาน">
 <!ENTITY cmd.installAddon.label               "ติดตั้ง">
 <!ENTITY cmd.installAddon.accesskey           "ต">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
@@ -121,7 +128,7 @@
 <!ENTITY detail.version.label                 "รุ่น">
 <!ENTITY detail.lastupdated.label             "ปรับรุ่นแล้ว">
 <!ENTITY detail.creator.label                 "ผู้พัฒนา">
-<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.homepage.label                "หน้าแรก">
 <!ENTITY detail.numberOfDownloads.label       "จำนวนดาวน์โหลด">
 
 <!ENTITY detail.contributions.description     "ผู้พัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนความต่อเนื่องของการพัฒนาโดยสมทบทุนสักเล็กน้อย">

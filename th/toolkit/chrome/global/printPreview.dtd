@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "พิมพ์…">
-<!ENTITY print.accesskey      "P">
+<!ENTITY print.accesskey      "พ">
 <!ENTITY pageSetup.label      "ตั้งค่าหน้า…">
 <!ENTITY pageSetup.accesskey  "ต">
 <!ENTITY page.label           "หน้า:">

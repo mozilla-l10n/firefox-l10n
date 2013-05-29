@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "จำค่าที่เลือกสำหรับแฟ้มชนิดนี้">
 <!ENTITY  rememberChoice.accesskey    "จ">
 
-<!ENTITY  whichIsA.label              "ซึ่งเป็น :">
+<!ENTITY  whichIs.label              "ซึ่งเป็น:">
 
 <!ENTITY  chooseHandlerMac.label      "เลือก…">
 <!ENTITY  chooseHandlerMac.accesskey  "ล">

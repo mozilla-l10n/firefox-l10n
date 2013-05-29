@@ -5,7 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "ข้อมูลการแก้ไขปัญหา">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  หน้านี้ประกอบด้วยข้อมูลทางด้านเทคนิคที่อาจจะมีประโยชน์ต่อคุณเมื่อคุณพยายามจะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
+<!ENTITY aboutSupport.pageSubtitle "  หน้านี้ประกอบด้วยข้อมูลทางด้านเทคนิคที่อาจจะมีประโยชน์ต่อคุณเมื่อคุณพยายาม
+จะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; 
+ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
 
 <!ENTITY aboutSupport.extensionsTitle "ส่วนเสริม">
 <!ENTITY aboutSupport.extensionName "ชื่อ">
@@ -23,7 +25,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "โฟลเดอร์โพรไฟล์">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "ส่วนเสริมที่ถูกเปิดใช้งาน">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "โปรแกรมเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "รายงานข้อผิดพลาด">
@@ -43,8 +45,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "ปรับแต่ง user.js">
+<!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โพรไฟล์ของคุณประกอบด้วย<a id='prefs-user-js-link'>แฟ้ม user.js</a>ที่รวมไปถึงการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;">
 
 <!ENTITY aboutSupport.graphicsTitle "กราฟิก">
 
@@ -60,5 +62,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
 <!ENTITY aboutSupport.updateHistoryTitle "ประวัติการปรับรุ่น">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "คัดลอกข้อมูลดิบไปยังคลิปบอร์ด">

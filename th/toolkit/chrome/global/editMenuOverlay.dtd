@@ -18,7 +18,7 @@
 <!ENTITY copyCmd.accesskey         "ค">
 <!ENTITY pasteCmd.label            "วาง">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
+<!ENTITY pasteCmd.accesskey        "ว">
 <!ENTITY deleteCmd.label           "ลบ">
 <!ENTITY deleteCmd.accesskey       "ล">
 <!ENTITY selectAllCmd.label        "เลือกทั้งหมด">

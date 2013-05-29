@@ -21,6 +21,8 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "ปรับแต่ง Firefox ตามอย่างที่คุณต้องการได้ง่ายๆ <a>เลือกจากส่วนขยายที่มีให้นับพัน</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; เป็นซอฟต์แวร์เสรีและโอเพนซอร์สจากมูลนิธิไม่แสวงหาผลกำไร Mozilla <a>รู้ถึงสิทธิของคุณ…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "ที่คั่นหน้า">
 <!ENTITY abouthome.historyButton.label   "ประวัติ">

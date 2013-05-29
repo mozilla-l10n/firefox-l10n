@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "แท็บใหม่">
-<!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
-<!ENTITY newtab.undo.undoButton "Undo.">
-<!ENTITY newtab.undo.restoreButton "Restore All.">
+<!ENTITY newtab.undo.removedLabel "นำภาพขนาดย่อออกไปแล้ว">
+<!ENTITY newtab.undo.undoButton "เรียกคืน">
+<!ENTITY newtab.undo.restoreButton "เรียกคืนทั้งหมด">
 <!ENTITY newtab.undo.closeTooltip "ซ่อน">

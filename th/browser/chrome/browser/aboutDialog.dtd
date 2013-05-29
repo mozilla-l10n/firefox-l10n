@@ -12,7 +12,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       "คือ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ชุมชนระดับโลก">
 <!ENTITY community.exp.end          "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
@@ -77,5 +77,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "คุณกำลังใช้งานช่องทางปรับรุ่น ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.start  "You are currently on the ">
+<!ENTITY channel.description.end    " ช่องทางปรับรุ่น">

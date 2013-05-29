@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "ผ">
 <!ENTITY setup.confirmPassword.label     "ยืนยันรหัสผ่าน">
 <!ENTITY setup.confirmPassword.accesskey "น">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "ผสานข้อมูลกับสไตล์ Windows 8 &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "ผ">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "คุณสามารถคัดลอกกุญแจกู้ข้อมูลโดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ และเลือก  &quot;กุญแจกู้ข้อมูลของฉัน&quot; ภายใต้ &quot;จัดการบัญชี&quot;">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
 <!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์ชิ้นอื่นหาย">
@@ -101,7 +101,7 @@
 <!ENTITY choice2a.merge.main.label       "รวมข้อมูลบนอุปกรณ์เครื่องนี้และข้อมูลจาก &syncBrand.shortName.label; ของฉันเข้าด้วยกัน">
 <!ENTITY choice2.merge.recommended.label "แนะนำ:">
 <!ENTITY choice2a.client.main.label      "แทนที่ข้อมูลบนอุปกรณ์เครื่องนี้ด้วยข้อมูลจาก &syncBrand.shortName.label; ของฉัน">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.server.main.label      "แทนที่เครื่องอื่น ๆ ทั้งหมดด้วยข้อมูลของอุปกรณ์นี้">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ยืนยัน">

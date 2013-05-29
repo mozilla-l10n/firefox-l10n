@@ -6,9 +6,9 @@
 
 <!ENTITY dntTrackingNopref.label        "ไม่ต้องบอกเว็บไซต์ต่าง ๆ ทุกอย่างที่เกี่ยวกับการตั้งค่าการติดตามของฉัน">
 <!ENTITY dntTrackingNopref.accesskey    "ม">
-<!ENTITY dntTrackingNotOkay.label       "บอกเว็บไซต์ต่างๆ ว่าไม่ต้องติดตามฉัน">
+<!ENTITY dntTrackingNotOkay.label       "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
 <!ENTITY dntTrackingNotOkay.accesskey   "บ">
-<!ENTITY dntTrackingOkay.label          "บอกเว็บไซต์ต่างๆ ว่าไม่ต้องติดตามฉัน">
+<!ENTITY dntTrackingOkay.label          "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
 <!ENTITY dntTrackingOkay.accesskey      "ต">
 <!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
 
@@ -30,7 +30,7 @@
 <!ENTITY  acceptThirdParty.pre.label      "รับคุกกี้จากเว็บไซต์อื่น ๆ :">
 <!ENTITY  acceptThirdParty.pre.accesskey  "อ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
-<!ENTITY  acceptThirdParty.never.label    "ไม่จำ">
+<!ENTITY  acceptThirdParty.never.label    "ไม่ต้อง">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
 
 <!ENTITY  keepUntil.label               "เก็บจนกระทั่ง :">
@@ -47,7 +47,7 @@
 <!ENTITY  showCookies.accesskey         "ส">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; จะ:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "จ">
 <!ENTITY  historyHeader.remember.label     "จำประวัติการท่องเว็บ">
 <!ENTITY  historyHeader.dontremember.label "ไม่จำประวัติการท่องเว็บ">
 <!ENTITY  historyHeader.custom.label       "ใช้ค่าตั้งเองกับประวัติการเข้าเว็บ">
