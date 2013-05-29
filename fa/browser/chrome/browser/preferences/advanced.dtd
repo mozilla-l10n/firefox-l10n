@@ -116,14 +116,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "ح">
 <!ENTITY offlineAppRemove.confirm        "حذف اطلاعات غیر متصل">
 
-<!ENTITY encryptionTab.label             "رمزنگاری">
-
-<!ENTITY protocols.label                 "قراردادها">
-<!ENTITY useSSL3.label                   "استفاده از SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "استفاده از TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "گواهی‌ها">
+<!ENTITY certificateTab.label            "گواهی‌ها">
 <!ENTITY certSelection.description       "هنگامی که کارگزاری گواهی شخصی من را درخواست می‌کند:">
 <!ENTITY certs.auto                      "به طور خودکار انتخاب شود">
 <!ENTITY certs.auto.accesskey            "خ">
