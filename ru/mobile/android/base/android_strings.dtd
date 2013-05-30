@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
-<!ENTITY crash_send_report_message2 "Сообщить в Mozilla об этом падении, чтобы они смогли это исправить">
+<!ENTITY crash_send_report_message3 "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить">
 <!ENTITY crash_include_url2 "Включить адрес страницы на которой я был в это время">
 <!ENTITY crash_sorry "Приносим свои извинения">
 <!ENTITY crash_comment "Добавить комментарий (комментарии публично доступны)">
-<!ENTITY crash_allow_contact "Разрешить Mozilla связаться со мной по поводу этого сообщения">
+<!ENTITY crash_allow_contact2 "Разрешить &vendorShortName; связаться со мной по поводу этого сообщения">
 <!ENTITY crash_email "Ваш адрес эл. почты">
 <!ENTITY crash_closing_alert "Выйти, не отправляя сообщение о падении?">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
