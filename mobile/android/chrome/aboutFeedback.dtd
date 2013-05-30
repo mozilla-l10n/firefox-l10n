@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "हमें बताएँ आपको क्या लगता है &brandShortName; के बारे में एंड्रॉयड के लिए इतनी दूर है.">
 <!ENTITY intro.happyLink           "मैं इसे प्यार करता हूँ">
 <!ENTITY intro.sadLink             "मैं कुछ समस्याओं में फस गया">
-<!ENTITY intro.ideaLink            "मेरे पास एक विचार है">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "वरना.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "हम अपने विचारों को सुनना पसंद करते हैं!कृपया अपने विचारों को नीचे साक्षा करें. (बस &brandShortName; के बारे में लोगों को, कृपया.)">
-<!ENTITY idea.placeholder          "अपने विचार यहां लिखें">
-<!ENTITY idea.thanksHeader         "शुक्रिया!">
-
-<!ENTITY idea.thanksMessageTop     "हम आपको समय लेने के लिए अपने विचारों को साझा करने की सराहना करते हैं. हम हमेशा के लिए &brandShortName; बनाने के लिए काम कर रहे हैं, बेहतर और तुम्हारी तरह योगदान महान बातें करने के लिए नेतृत्व कर सकते हैं.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "आप इसे देख नहीं सकते हैं, हम आपको एक उच्चा स्थान दे रहे हैं">
 
 <!ENTITY feedback.privacy          "आपकी गोपनीयता के लिए, अपनी प्रतिक्रिया में किसी भी व्यक्तिगत रूप से पहचान योग्य जानकारी शामिल नहीं हैं.">
 <!ENTITY feedback.send             "फ़ीडबैक भेजें">
