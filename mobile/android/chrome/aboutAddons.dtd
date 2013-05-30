@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Atal">
 <!ENTITY addonAction.uninstall                  "Dadosod">
 <!ENTITY addonAction.undo                       "Dadwneud">
+<!ENTITY addonAction.setDefault                 "Gosod fel y rhagosodedig">
