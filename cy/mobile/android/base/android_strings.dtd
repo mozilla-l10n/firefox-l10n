@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Hoff Wefannau">
 <!ENTITY  awesomebar_bookmarks_title "Nodau Tudalen">
 <!ENTITY  awesomebar_history_title "Hanes">
+<!ENTITY  awesomebar_switch_to_tab "Newid i\u0027r tab">
 
 <!ENTITY  crash_reporter_title "Adroddwr Chwalu &brandShortName;">
-<!ENTITY  crash_message "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
-<!ENTITY  crash_help_message "Mae angen eich cymorth i ddatrys y broblem!">
-<!ENTITY  crash_send_report_message "Anfon adroddiad gwall at Mozilla">
-<!ENTITY  crash_include_url "Cynnwys tudalen cyfeiriad">
+<!ENTITY  crash_message2 "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
+<!ENTITY  crash_send_report_message2 "Dweud wrth Mozilla am y chwalfa fel bod modd ei drwsio">
+<!ENTITY  crash_include_url2 "Cynnwys cyfeiriad y dudalen roeddwn arni">
+<!ENTITY  crash_sorry "Ymddiheuriadau">
+<!ENTITY  crash_comment "Ychwanegu sylw (sylwadau yn weladwy)">
+<!ENTITY  crash_allow_contact "Gadael i Mozilla gysylltu â mi am yr adroddiad">
+<!ENTITY  crash_email "Eich e-bost">
+<!ENTITY  crash_closing_alert "Gadael heb adael adroddiad chwalu?">
+<!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
 <!ENTITY  crash_close_label "Cau">
 <!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
-<!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
 <!ENTITY  exit_label "Gadael">
-<!ENTITY  continue_label "Parhau">
 
 <!ENTITY  launcher_shortcuts_title "Apiau Gwe &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Heb ganfod apiau gwe">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "Cyffredinol">
 <!ENTITY pref_category_privacy "Preifatrwydd a Diogelwch">
 <!ENTITY pref_category_content "Cynnwys">
-<!ENTITY pref_category_importexport "Mewnforio ac Allforio">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Dewisiadau data">
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
-<!ENTITY pref_do_not_track "Dweud wth wefannau i beidio fy nilyn">
-<!ENTITY pref_telemetry "Anfonwch ddata perfformiad">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "Cyffredinol">
+<!ENTITY pref_header_privacy "Preifatrwydd a Diogelwch">
+<!ENTITY pref_header_content "Cynnwys">
 
 <!ENTITY pref_cookies_menu "Cwcis">
 <!ENTITY pref_cookies_accept_all "Galluogwyd">
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
+
+<!ENTITY pref_donottrack_menu "Tracio">
+<!ENTITY pref_donottrack_disallow_tracking "Dweud wrth wefannau: dim tracio">
+<!ENTITY pref_donottrack_allow_tracking "Dweud wrth wefannau rwyf am gael fy nrhacio">
+<!ENTITY pref_donottrack_no_pref "Dweud dim wrth wefannau am fy newisiadau tracio">
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -114,8 +129,29 @@ size. -->
 <!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
-<!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan…">
+<!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan">
 <!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
+
+<!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
+<!ENTITY datareporting_notification_action "Dewis beth i\u0027w rannu">
+<!ENTITY datareporting_notification_summary "I wella eich profiad mae &brandShortName; yn anfon peth gwybodaeth at &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "I wella eich profiad, mae &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "Adroddiad Iechyd &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Mae\u0027n eich cynorthwyo i ddeall perfformiad eich porwr ac mae\u0027n rhannu data gyda &vendorShortName; am iechyd eich porwr">
+<!ENTITY datareporting_telemetry_title "Telemetreg">
+<!ENTITY datareporting_telemetry_summary "Rhannu gwybodaeth am berfformiad, defnydd, caledwedd a chyfaddasu am eich porwr gyda &vendorShortName; i\u0027n cynorthwyo i wneud &brandShortName; yn well">
+<!ENTITY datareporting_crashreporter_summary "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo &vendorShortName; wneud eich porwr yn fwy sefydlog a diogel">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "Adroddwr Chwalu &brandShortName;">
 
 <!ENTITY pref_update_autodownload "Diweddariadau awtomatig">
 <!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Gludo">
 <!ENTITY contextmenu_copyurl "Copïo Cyfeiriad">
 <!ENTITY contextmenu_edit_bookmark "Golygu">
+<!ENTITY contextmenu_subscribe "Tanysgrifio i Dudalen">
+<!ENTITY contextmenu_site_settings "Golygu Gosodiadau\u0027r Wefan">
+
+<!ENTITY pref_titlebar_mode "Bar teitl">
+<!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
+<!ENTITY pref_titlebar_mode_url "Dangos cyfeiriad tudalen">
 
 <!ENTITY history_removed "Wedi tynnu\u0027r dudalen">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Enw">
 <!ENTITY bookmark_edit_location "Lleoliad">
 <!ENTITY bookmark_edit_keyword "Allweddair">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Gosodiadau Gwefan…">
+<!ENTITY site_settings_title3       "Gosodiadau Gwefan">
 <!ENTITY site_settings_cancel       "Diddymu">
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
 <!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
+<!ENTITY reading_list_duplicate "Tudalen eisoes ar eich Rhestr Ddarllen">
 <!ENTITY reader "Darllenydd">
 
 <!ENTITY masterpassword_create_title "Creu Prif Gyfrinair">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Golygu">
 <!ENTITY abouthome_topsites_pin "Pinio Gwefan">
 <!ENTITY abouthome_topsites_unpin "Dad-binio Gwefan">
-<!ENTITY abouthome_topsites_remove "Tynnu">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
