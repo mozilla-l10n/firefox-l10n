@@ -27,5 +27,5 @@
 
 <!ENTITY sync.pair.title            "Yɛ divaes bi nta">
 <!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
-<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.setup.close           "To mu">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
