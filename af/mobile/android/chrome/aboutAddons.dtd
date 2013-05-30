@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Deaktiveer">
 <!ENTITY addonAction.uninstall                  "Deïnstalleer">
 <!ENTITY addonAction.undo                       "Ontdoen">
+<!ENTITY addonAction.setDefault                 "Set as Default">
