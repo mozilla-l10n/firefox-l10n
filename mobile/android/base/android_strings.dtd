@@ -12,37 +12,41 @@
 <!ENTITY  awesomebar_all_pages_title "Trang tốp">
 <!ENTITY  awesomebar_bookmarks_title "Trang ưa thích">
 <!ENTITY  awesomebar_history_title "Lịch sử">
+<!ENTITY  awesomebar_switch_to_tab "Chuyển sang thẻ">
 
 <!ENTITY  crash_reporter_title "Trình báo cáo lỗi &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; đã bị đổ vỡ. Thẻ của bạn sẽ được liệt kê trên trang Khởi Động &brandShortName; khi bạn khởi động lại.">
-<!ENTITY  crash_help_message "Vui lòng giúp chúng tôi sửa vấn đề này!">
-<!ENTITY  crash_send_report_message "Gửi Mozilla một báo cáo đổ vỡ">
-<!ENTITY  crash_include_url "Bao gồm địa chỉ trang">
+<!ENTITY  crash_message2 "&brandShortName; đã gặp sự cố. Thẻ của bạn sẽ được liệt kê trên trang Khởi động &brandShortName; khi bạn khởi động lại.">
+<!ENTITY  crash_send_report_message2 "Báo với Mozilla để họ khắc phục sự cố này">
+<!ENTITY  crash_include_url2 "Thêm vào địa chỉ của trang tôi đã truy cập">
+<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_comment "Thêm bình luận (các bình luận sẽ được hiển thị công khai)">
+<!ENTITY  crash_allow_contact "Cho phép Mozilla liên lạc với tôi về báo cáo này">
+<!ENTITY  crash_email "Email của bạn">
+<!ENTITY  crash_closing_alert "Thoát và không gửi báo cáo sự cố?">
+<!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
 <!ENTITY  crash_close_label "Đóng">
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
-<!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
 <!ENTITY  exit_label "Thoát">
-<!ENTITY  continue_label "Tiếp tục">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ứng dụng web">
 <!ENTITY  launcher_shortcuts_empty "Không tìm thấy ứng dụng web nào">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY choose_file "Chọn tập tin">
 
 <!ENTITY awesomebar_default_text "Nhập Tìm kiếm hoặc Địa chỉ">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY remote_tabs "Các thẻ đã đồng bộ">
+<!ENTITY remote_tabs_show_all "Hiện tất cả các thẻ">
 
 <!ENTITY bookmark "Đánh dấu">
 <!ENTITY bookmark_added "Trang đánh dấu đã được thêm">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY bookmark_removed "Trang đánh dấu đã được xóa">
+<!ENTITY bookmark_updated "Trang đánh dấu đã được cập nhật">
 
 <!ENTITY history_today_section "Hôm nay">
 <!ENTITY history_yesterday_section "Hôm qua">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_week_section "7 ngày trước đó">
+<!ENTITY history_older_section "Cũ hơn 7 ngày">
 
 <!ENTITY go "Đi">
 <!ENTITY search "Tìm kiếm">
@@ -51,30 +55,41 @@
 <!ENTITY menu "Trình đơn">
 <!ENTITY back "Lùi">
 <!ENTITY stop "Dừng">
-<!ENTITY site_security "Site Security">
+<!ENTITY site_security "Bảo mật trang">
 
 <!ENTITY close_tab "Đóng Thẻ">
-<!ENTITY one_tab "1 tab">
+<!ENTITY one_tab "1 thẻ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY num_tabs2 "&formatD; thẻ">
+<!ENTITY new_tab_opened "Thẻ mới đã được mở">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "Tổng quát">
+<!ENTITY settings "Thiết lập">
+<!ENTITY settings_title "Thiết lập">
+<!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Riêng tư &amp; Bảo mật">
-<!ENTITY pref_category_content "Nội dung">
-<!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Nói các trang web đừng theo dõi tôi">
-<!ENTITY pref_telemetry "Send performance data">
+<!ENTITY pref_category_content "Content">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
+<!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
 <!ENTITY pref_remember_signons "Ghi nhớ mật khẩu">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Riêng tư &amp; Bảo mật">
+<!ENTITY pref_header_content "Nội dung">
 
 <!ENTITY pref_cookies_menu "Cookie">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "Đã bật">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
 <!ENTITY pref_cookies_disabled "Disabled">
+
+<!ENTITY pref_donottrack_menu "Tracking">
+<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
+<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
+<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Tệp đã tải về">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
 <!ENTITY pref_update_autodownload_wifi "Chỉ thông qua Wi-Fi">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Dán">
 <!ENTITY contextmenu_copyurl "Sao chép địa chỉ">
 <!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_site_settings "Edit Site Settings">
+
+<!ENTITY pref_titlebar_mode "Title bar">
+<!ENTITY pref_titlebar_mode_title "Show page title">
+<!ENTITY pref_titlebar_mode_url "Show page address">
 
 <!ENTITY history_removed "Page removed">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Tên">
 <!ENTITY bookmark_edit_location "Location">
 <!ENTITY bookmark_edit_keyword "Từ khóa">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Cancel">
 <!ENTITY site_settings_clear        "Clear">
 <!ENTITY site_settings_no_settings  "There are no settings to clear.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Page added to your Reading List">
 <!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list_duplicate "Page already in your Reading List">
 <!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Create Master Password">
@@ -191,7 +236,7 @@ size. -->
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancel">
 <!ENTITY button_yes "Có">
-<!ENTITY button_no "No">
+<!ENTITY button_no "Không">
 <!ENTITY button_clear_data "Clear data">
 <!ENTITY button_set "Thiết lập">
 <!ENTITY button_clear "Clear">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Ghim trang web">
 <!ENTITY abouthome_topsites_unpin "Bỏ ghim trang web">
-<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
