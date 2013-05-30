@@ -8,55 +8,55 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label; Yubo">
+<!ENTITY sync.title.connect.label "Kub i &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Med Akaunti me &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Ket Jami tic aryo ayo">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
+<!ENTITY sync.subtitle.connect.label "Me miyo Jami tic megi manyen, “Yer &syncBrand.shortName.label;” ikum jami tic.">
+<!ENTITY sync.subtitle.header2.label "Ket nyig coc man ikom jami me tic mukene">
 <!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label "Nyuta kite.">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
+<!ENTITY sync.subtitle.pair.label "Me miyo tic, yer “Ket jami tic aryo aryo” ikom jami tic megi mapat.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Nyuta yore mene.">
+<!ENTITY sync.link.advancedsetup.label "Ter me rwom ma lamal…">
 <!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Tye ka kuro jami tic mukene…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.subtitle.account.label "Ket ngec pa akaunti megi i &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nying akaunti">
-<!ENTITY sync.input.password.label "Icwil me donyo">
+<!ENTITY sync.input.password.label "I cwil me donyo">
 <!ENTITY sync.input.key.label "Lagony mega me Nongo">
 <!ENTITY sync.checkbox.server.label "Tii ki cik pa lapok tic">
 <!ENTITY sync.input.server.label "Lapok tic me URL">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.title.fail.label "Ter &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; pe onongo romo kube ki lapok tic. I mito temo ne doki?">
 <!ENTITY sync.button.tryagain.label "Tem doki">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.button.manual.label "Tera me cing">
+<!ENTITY sync.subtitle.nointernet.label "Intanet pe okube.">
+<!ENTITY sync.subtitle.failaccount.label "Keto Akaunti ni ikom jami tic mamegi pe olare.">
+<!ENTITY sync.subtitle.failmultiple.label "Onyo iketo Firefox makato acel oko? Ikom kare ni, &syncBrand.fullName.label; cwako ka keto Firefox acel keken icawa mo ni. Tim ber ikwany woko gin mukene w ek ti ki &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
-<!ENTITY sync.title.success.label "Terone Otyeko tum">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+<!ENTITY sync.title.success.label "Tero Otyeko">
+<!ENTITY sync.subtitle.success.label1 "Kombedi gutye ka kwanyo woko tic mamegi I cal maneno mabor. I romo wot i tero wek iloo teko pa akaunti mamegi, onyo cak yenyo kwede &brandShortName;.">
 <!ENTITY sync.settings.label "Tero">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 "Kityeko dong tero woko akaunti mamegi me &syncBrand.fullName.label; I twero wot itero wek I loo teko pa akaunti mamegi, onyo cak &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Tim ber item doki.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.connectlocation.label "Pi miyo jami tic mamegi manyen, yer,\u0027\u0027Tero &syncBrand.shortName.label;” I kom jami tic, ci dong I yer “Atye ki Akaunti”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Me ayera">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label "Kub jami tic mukene i akaunti me &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.label 'What to sync'>
@@ -67,40 +67,40 @@
 <!ENTITY sync.configure.engines.title.tabs 'Tabs'>
 <!-- Common text -->
 
-<!ENTITY sync.button.cancel.label "Juk">
+<!ENTITY sync.button.cancel.label "Jwik">
 <!ENTITY sync.button.connect.label "Kub">
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.ok.label "Kakare">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Ket alama pot buk me Acaki">
+<!ENTITY bookmarks.folder.menu.label "Ket Alama Buk me Acaki">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label "Dirica pa gitic me alama book">
-<!ENTITY bookmarks.folder.unfiled.label "Alama buk mape ki cano kore ki kore">
+<!ENTITY bookmarks.folder.tags.label "Dan">
+<!ENTITY bookmarks.folder.toolbar.label "Keto alama me me Gitic">
+<!ENTITY bookmarks.folder.unfiled.label "Alam me Pot buk mape Kiyero">
 <!ENTITY bookmarks.folder.desktop.label "Alama buk me Cal ma i kompiuta">
-<!ENTITY bookmarks.folder.mobile.label "Alama me pot but ma kiwoto kwede">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.mobile.label "Alama me pot buk ma kiwoto kwede">
+<!ENTITY bookmarks.folder.readinglist.label "Nying jami me kwan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label "Kicwako ka akaunti pa &syncBrand.fullName.label; acel keken.">
 <!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
+<!ENTITY sync.invalidcreds.label "Nying akaunt ki mung mape tye kakare.">
 <!ENTITY sync.invalidserver.label "Tim ber iket lapok tic me URL matiyo">
 <!ENTITY sync.verifying.label "Moko…">
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Lagony me Sync pe tye kakare. Tim ber item doki.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.title.send.tab.label "Cwal Dirica matidi Bot Jami tic">
+<!ENTITY sync.button.send.label "Cwali">
 <!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Kub &syncBrand.shortName.label; pi cwalo dirica matidi">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Kub &syncBrand.fullName.label; ikom jami tic mamegi w ek icwal dirica matidi ikom jamitic mukene">
+<!ENTITY sync.text.tab.sent.label "Otyeko dong cwalo dirica ni matidi!">
 <!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>

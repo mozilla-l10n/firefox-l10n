@@ -15,10 +15,13 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "I penyo &brandShortName; me kubo maber i <b>#1</b>, ento pe wa twero moko ni kub mamegi ogwoke maber.">
+<!ENTITY certerror.introPara1 "I penyo &brandShortName; me kubo 
+maber i <b>#1</b>, ento pe wa twero moko ni kub mamegi ogwoke maber.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Atim dong Ngo?">
-<!ENTITY certerror.whatShouldIDo.content "Ka pol kare ikube ki di bar man labongo peko, bal man twero man gonyo ni ngat mo tye ka temo donyo i di bar, ki iromo mede.">
+<!ENTITY certerror.whatShouldIDo.content "Ka pol kare ikube 
+di bar man labongo peko, bal man twero man gonyo ni ngat mo tye ka
+temo donyo i di bar, ki iromo mede.">
 <!ENTITY certerror.getMeOutOfHere.label "Kwanya woko ki kany!">
 
 <!ENTITY certerror.expert.heading "Aniang cik man">
@@ -26,7 +29,8 @@ was trying to connect. -->
 &brandShortName; pi cako geno di bar man me tikitiki. <b>Akadi igen di 
 bar, bal man gonyo ni ngat mo tye katic kwede 
 kub mamegi pi tutunu.</b>">
-<!ENTITY certerror.expert.contentPara2 "Pe imed gin man nikwanyo in ingeyo ni tye lok mamwonya pingo omiyo di nar man pe tiyo ki tikitiki ma gene.">
+<!ENTITY certerror.expert.contentPara2 "Pe imed gin man nikwanyo 
+ni ingeyo ni tye lok mamwonya pingo omiyo di nar man pe tiyo ki tikitiki ma gene.in ingeyo ni tye lok mamwonya pingo omiyo di nar man pe tiyo ki tikitiki ma gene.">
 <!ENTITY certerror.addTemporaryException.label "Lim di bar">
 <!ENTITY certerror.addPermanentException.label "Med en mamwonya matwal">
 

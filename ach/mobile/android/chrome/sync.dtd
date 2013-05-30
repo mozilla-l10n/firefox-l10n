@@ -4,9 +4,9 @@
 
 <!ENTITY sync.title                 "Sync">
 <!ENTITY sync.notconnected          "Pe okube">
-<!ENTITY sync.connect               "Connect">
+<!ENTITY sync.connect               "Kub">
 <!ENTITY sync.connected             "OKube">
-<!ENTITY sync.details               "Lok yore kiyore">
+<!ENTITY sync.details               "Lok yore ki yore">
 <!ENTITY sync.deviceName            "Nyonyo ma eni ni">
 <!ENTITY sync.disconnect            "Pe ikub">
 <!ENTITY sync.syncNow               "Sync Kombedi">
@@ -16,16 +16,16 @@
 <!ENTITY sync.fallback              "Ape acok ki kompiuta mamega...">
 <!ENTITY sync.setup.manual          "Ket ngec me akaunti pa Sync mamegi">
 <!ENTITY sync.account               "Nying akaunti">
-<!ENTITY sync.password              "Password">
+<!ENTITY sync.password              "I cwil me donyo">
 <!ENTITY sync.recoveryKey           "Lagony mega me Nongo">
 <!ENTITY sync.customServer          "Tii ki cik pa lapok tic">
 <!ENTITY sync.serverURL             "Lapok tic me URL">
-<!ENTITY sync.setup.connect         "Connect">
+<!ENTITY sync.setup.connect         "Kub">
 <!ENTITY sync.setup.cancel          "Juk">
-<!ENTITY sync.setup.tutorial        "Show me how">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+<!ENTITY sync.setup.tutorial        "Nyuta yore mene.">
+<!ENTITY sync.setup.waiting2        "Tye ka kuro nyonyo mukene...">
 
-<!ENTITY sync.pair.title            "Ket Jami me tic aryo aryo">
+<!ENTITY sync.pair.title            "Ket Nyonyo Aryo Aryo">
 <!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Lor">
 <!ENTITY sync.setup.waitingdownload "Tic mamegi kombedi tye ka golo i yonge. I romo dong cego dirija man i cawa mo keken.">
