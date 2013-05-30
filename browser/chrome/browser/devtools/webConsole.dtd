@@ -49,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "registar erros de CSS parsing">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Registar exceções JavaScript">
+<!ENTITY btnPageSecurity.label "Segurança">
+<!ENTITY btnPageSecurity.tooltip "Registar erros e avisos de segurança">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
