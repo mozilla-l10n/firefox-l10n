@@ -15,6 +15,10 @@
   -  in the network table when empty. -->
 <!ENTITY netmonitorUI.emptyNotice         "Recarregue a página para ver informação detalhada sobre a atividade da rede.">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
+  -  in the network table toolbar, above the "status" column. -->
+<!ENTITY netmonitorUI.toolbar.status      "√">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 <!ENTITY netmonitorUI.toolbar.method      "Método">
@@ -37,7 +41,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
-<!ENTITY netmonitorUI.toolbar.waterfall   "Timeline">
+<!ENTITY netmonitorUI.toolbar.waterfall   "Linha do tempo">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
@@ -58,6 +62,42 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
 <!ENTITY netmonitorUI.tab.timings         "Temporizadores">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
+  -  in the network details footer for the "All" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterAll    "Tudo">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
+  -  in the network details footer for the "HTML" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterCSS): This is the label displayed
+  -  in the network details footer for the "CSS" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterCSS    "CSS">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterJS): This is the label displayed
+  -  in the network details footer for the "JS" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterJS     "JS">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterXHR): This is the label displayed
+  -  in the network details footer for the "XHR" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
+  -  in the network details footer for the "Fonts" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterFonts  "Tipos de letra">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterImages): This is the label displayed
+  -  in the network details footer for the "Images" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterImages "Imagens">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterMedia): This is the label displayed
+  -  in the network details footer for the "Media" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterMedia  "Média">
+
+<!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
+  -  in the network details footer for the "Flash" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
@@ -93,7 +133,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
-<!ENTITY netmonitorUI.response.mime       "MIME Type:">
+<!ENTITY netmonitorUI.response.mime       "Tipo de MIME:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
