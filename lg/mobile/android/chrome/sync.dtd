@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Kwanaganya Kati">
 
 <!ENTITY sync.setup.title           "Oyungiddwa ku Sync">
-<!ENTITY sync.setup.pair            "Okuteeka ko, londa &#x0022;Yunga Ekyuma&#x0022; ku kyuma kyo ekirala.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Siri kumpi ne kompyuta yange…">
 <!ENTITY sync.setup.manual          "Tekamu ebikwata ku akaunti yo eya Sync">
 <!ENTITY sync.account               "Elinya lya Akaunti">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Okulindirira ekyuma ekyirala…">
 
 <!ENTITY sync.pair.title            "Yunga Ekyuma">
-<!ENTITY sync.pair.description      "Okuteekako ekyuma kyo ekipya, londa &#x0022;Tegeka Sync&#x0022; ku kyuma.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Ggalawo">
 <!ENTITY sync.setup.waitingdownload "Bwino wo kati atikulwa mukasirise. Osoobola okugalawo edirisa esaawa yoona.">

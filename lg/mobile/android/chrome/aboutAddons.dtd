@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Jjako">
 <!ENTITY addonAction.uninstall                  "Jjamu">
 <!ENTITY addonAction.undo                       "Ddayo">
+<!ENTITY addonAction.setDefault                 "Set as Default">

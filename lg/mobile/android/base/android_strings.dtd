@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Ebibanja Ebyawagulu">
 <!ENTITY  awesomebar_bookmarks_title "Obulambe">
 <!ENTITY  awesomebar_history_title "Ebyafaayo">
+<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
-<!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
-<!ENTITY  crash_message "&brandShortName; ezikiridde. Awadirira wo walina okuba ku lukala lwa &brandShortName; Tandika omuko nga kompyuta etandise nate.">
-<!ENTITY  crash_help_message "Bambi tuyambe okutereeza ensobi!">
-<!ENTITY  crash_send_report_message "Wereeza Mozilla alipota yokuzikirira">
-<!ENTITY  crash_include_url "Tekamu endagiriro y\u0027omuko">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
+<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY  crash_email "Your email">
+<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  sending_crash_report "Okuweereza alipota yo\u0027kuziikirira\u2026">
 <!ENTITY  crash_close_label "Ggalawo">
 <!ENTITY  crash_restart_label "Tandikka buto &brandShortName;">
-<!ENTITY  sending_crash_report "Okuweereza alipota yo\u0027kuziikirira\u2026">
 <!ENTITY  exit_label "Fulumamu">
-<!ENTITY  continue_label "Weyongereyo">
 
 <!ENTITY  launcher_shortcuts_title "Pulogulamu ezidukira kulutimbe eza &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Tewali pulogulamu ezidukira kulutimbe zizzuliddwa">
@@ -49,7 +53,7 @@
 <!ENTITY reload "Ddamu otikke">
 <!ENTITY forward "Mumasso">
 <!ENTITY menu "Eby\u0027okulondako">
-<!ENTITY back "Back">
+<!ENTITY back "Emabega">
 <!ENTITY stop "Yimiriza">
 <!ENTITY site_security "Site Security">
 
@@ -62,19 +66,30 @@
 
 <!ENTITY settings "Enteegeka">
 <!ENTITY settings_title "Enteegeka">
-<!ENTITY pref_category_general "Awaamu">
-<!ENTITY pref_category_privacy "Ebyekyama &amp; Ebyokwerinda">
-<!ENTITY pref_category_content "Ebirimu">
-<!ENTITY pref_category_importexport "Import &amp; Export">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Privacy &amp; Security">
+<!ENTITY pref_category_content "Content">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_about_firefox "Ebikwata ku &brandShortName;">
-<!ENTITY pref_do_not_track "Gamba ebibanja bileme okunumba">
-<!ENTITY pref_telemetry "Wwayo data we\u0027enkola">
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Privacy &amp; Security">
+<!ENTITY pref_header_content "Content">
 
 <!ENTITY pref_cookies_menu "Kukki">
 <!ENTITY pref_cookies_accept_all "Enabled">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
 <!ENTITY pref_cookies_disabled "Disabled">
+
+<!ENTITY pref_donottrack_menu "Tracking">
+<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
+<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
+<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
 
 <!ENTITY pref_char_encoding "Ennyukuta enkusike">
 <!ENTITY pref_char_encoding_on "Laga Enyanjula">
@@ -114,8 +129,29 @@ size. -->
 <!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
 <!ENTITY pref_private_data_offlineApps "Bwiino we\u0027ekibanja ekitayungiddwa ku Mutimbangano">
-<!ENTITY pref_private_data_siteSettings "Eby\u0027okweroboza ku Kibanja">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Automatic updates">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Paste">
 <!ENTITY contextmenu_copyurl "Copy Address">
 <!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_site_settings "Edit Site Settings">
+
+<!ENTITY pref_titlebar_mode "Title bar">
+<!ENTITY pref_titlebar_mode_title "Show page title">
+<!ENTITY pref_titlebar_mode_url "Show page address">
 
 <!ENTITY history_removed "Omuko gujjidwawo">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Erinnya">
 <!ENTITY bookmark_edit_location "Ekifo">
 <!ENTITY bookmark_edit_keyword "Ekigambo ekikulu">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Site Settings…">
+<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Sazaamu">
 <!ENTITY site_settings_clear        "Clear">
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Omuko gwongeddwa ku Lukalala lwo Olwebyokusooma">
 <!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
+<!ENTITY reading_list_duplicate "Page already in your Reading List">
 <!ENTITY reader "Reader">
 
 <!ENTITY masterpassword_create_title "Tonda Akasumulizo Akagula Woona">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edit">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_remove "Remove">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
