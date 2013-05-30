@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Söndür">
 <!ENTITY addonAction.uninstall                  "Sil">
 <!ENTITY addonAction.undo                       "Ləğv et">
+<!ENTITY addonAction.setDefault                 "Set as Default">
