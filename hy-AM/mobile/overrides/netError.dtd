@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Էջի բացման խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Չհաջողվեց կապ հաստատել">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
@@ -17,33 +17,29 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc2 "<ul>
-  <li>Ստուգեք կապի առկայությունը այս հասցեների միջոցով.
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>Եթե այս կայքերը չեն բացում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Ստուգեք կապի առկայությունը այս հասցեների միջոցով. 
+<strong>ww</strong>.example.com instead of 
+<strong>www</strong>.example.com</li> 
+<li>Եթե այս կայքերը չեն բացում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
-<!ENTITY fileNotFound.longDesc "<ul>
-  <li>Ստուգել ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li>
-  <li>Ստուգել տեսնելու համար թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li>
-</ul>
-     ">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Ստուգել ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> 
+<li>Ստուգել տեսնելու համար թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> 
+</ul>">
 
 
 <!ENTITY generic.title "Վայ.">
-<!ENTITY generic.longDesc "<p>&brandShortName;ը ինչ որ պատճառով չի կարողանում բացել այս էջը</p>
- ">
+<!ENTITY generic.longDesc "<p>&brandShortName;ը ինչ որ պատճառով չի կարողանում բացել այս էջը</p>">
 
 <!ENTITY malformedURI.title "Հասցեն ճիշտ չէ">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ`
-   <strong>http://www.haysoft.org/</strong></li>
-  <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li>
-</ul>
-             ">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` 
+<strong>http://www.haysoft.org/</strong></li> 
+<li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
@@ -52,18 +48,15 @@
 <!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
 <!ENTITY netOffline.title "Ցանցից դուրս">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>Կրկին փորձեք։ &brandShortName;-ը կընդունի բացելու միացումը և վերաբացելու էջը։</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Կրկին փորձեք։ &brandShortName;-ը կընդունի բացելու միացումը և վերաբացելու էջը։</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Բովանդակության Կոդավորման Սխալ">
-<!ENTITY contentEncodingError.longDesc "<ul>   <li>Խնդրում ենք, կապնվե΄ք այս կայքի սեփականատերերին այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         
-">
+<!ENTITY contentEncodingError.longDesc "<ul>   <li>Խնդրում ենք, կապնվե΄ք այս կայքի սեփականատերերին այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY unsafeContentType.title "Ոչ անվտանգ ֆայլի տեսակ">
-<!ENTITY unsafeContentType.longDesc "<ul>   <li>Խնդրում ենք, կապնվե΄ք այս կայքի սեփականատերերին այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         
-">
+<!ENTITY unsafeContentType.longDesc "<ul>   <li>Խնդրում ենք, կապնվե΄ք այս կայքի սեփականատերերին այս խնդրի մասին տեղյակ պահելու համար:</li> </ul>         ">
 
 <!ENTITY netReset.title "Կապը խզվեց">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -75,48 +68,39 @@
 <!ENTITY protocolNotFound.longDesc "<ul>   <li>Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է տեղակայել այլ ծրագիր:</li> </ul>         ">
 
 <!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
-<!ENTITY proxyConnectFailure.longDesc "<ul>
-  <li>Ստուգեք պրոքսի կարգավորումները նրանց ստույգության մեջ համոզվելու համար:</li>
-  <li>Կապվեք ձեր ցանցի ադմինիստրատորի հետ համոզվելու համար, որ պրոքսի սպասարկիչը աշխատում է:</li>
-</ul>
-         
-
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Ստուգեք պրոքսի կարգավորումները նրանց ստույգության մեջ համոզվելու համար:</li> 
+<li>Կապվեք ձեր ցանցի ադմինիստրատորի հետ համոզվելու համար, որ պրոքսի սպասարկիչը աշխատում է:</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Չի ստացվում գտնել պրոքսի սպասարկիչ">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul>
-  <li>Ստուգեք միջնորդ սպասարկիչի կարգավորումները։</li>
-  <li>Ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Ստուգեք միջնորդ սպասարկիչի կարգավորումները։</li> 
+<li>Ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Էջը ճիշտ չէ վերահասցեավորվել">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է պատահել քուկիների անջատումից կամ մերժումից:</li> </ul>                   
-
-">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է պատահել քուկիների անջատումից կամ մերժումից:</li> </ul>                   ">
 
 <!ENTITY unknownSocketType.title "Անհասկանալի պատասխան սպասարկիչից">
 <!ENTITY unknownSocketType.longDesc "<ul>   <li>Ստուգե΄ք և համոզվե΄ք որ ձեր համակարգը ունի Անձնական Անվտանգության Կառավարիչ:</li>   <li>Սա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:</li> </ul>                       ">
 
 <!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>Ձեր փնտրվող էջը հնարավոր չէ ցույց տալ,քանի որ ստացված տեղեկությունների վավերականությունը չի հաստատվել:</li>
-  <li>Այս խնդրի մասին տեղեկացնելու համար, խնդրում ենք, կապվեք վեբ կայքի սեփականատերերի հետ:Այլ տարբերակ է` օգնող մենյուում գտնվող հրամանից օգտվելը այս ջարդված կայքի մասին տեղեկացնելու համար:</li>
-</ul>
-">
-
-<!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-  <li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ, կամ հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li>
-  <li>Եթե դուք միացել եք այս սպասարկիչին հաջողությամբ նախկինում, ապա սխալը կարող է ժամանակավոր բնույթ կրել, և Դուք կարող եք կրկին փորձել ավելի ուշ:</li>
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ձեր փնտրվող էջը հնարավոր չէ ցույց տալ,քանի որ ստացված տեղեկությունների վավերականությունը չի հաստատվել:</li> 
+<li>Այս խնդրի մասին տեղեկացնելու համար, խնդրում ենք, կապվեք վեբ կայքի սեփականատերերի հետ:Այլ տարբերակ է` օգնող մենյուում գտնվող հրամանից օգտվելը այս ջարդված կայքի մասին տեղեկացնելու համար:</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul>
-  <li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li>
-  <li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li>
-</ul>
-">
+<!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ, կամ հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li> 
+<li>Եթե դուք միացել եք այս սպասարկիչին հաջողությամբ նախկինում, ապա սխալը կարող է ժամանակավոր բնույթ կրել, և Դուք կարող եք կրկին փորձել ավելի ուշ:</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Հնարավոր է կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> 
+<li>Եթե որևէ էջ չի բացվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi միացումը։</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
@@ -127,15 +111,15 @@
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դուրս բեր ինձ այստեղից!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p> 
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Հեռադիր XUL">
