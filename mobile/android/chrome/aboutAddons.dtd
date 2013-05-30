@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "عطّل">
 <!ENTITY addonAction.uninstall                  "أزِل">
 <!ENTITY addonAction.undo                       "تراجَع">
+<!ENTITY addonAction.setDefault                 "Set as Default">
