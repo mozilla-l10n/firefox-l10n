@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Vô hiệu hóa">
 <!ENTITY addonAction.uninstall                  "Gỡ bỏ">
 <!ENTITY addonAction.undo                       "Hoàn tác">
+<!ENTITY addonAction.setDefault                 "Set as Default">
