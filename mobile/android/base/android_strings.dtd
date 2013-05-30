@@ -15,11 +15,11 @@
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a rencontré un problème et a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
-<!ENTITY  crash_send_report_message2 "Informer Mozilla de ce problème pour qu\u0027il puisse être corrigé">
+<!ENTITY  crash_send_report_message3 "Informer &vendorShortName; de ce problème pour qu\u0027il puisse être corrigé">
 <!ENTITY  crash_include_url2 "Inclure l\u0027URL de la page où vous vous trouviez">
 <!ENTITY  crash_sorry "Nous sommes désolés">
 <!ENTITY  crash_comment "Ajouter un commentaire (les commentaires sont visibles par tout le monde)">
-<!ENTITY  crash_allow_contact "Permettre à Mozilla de vous contacter à propos de ce rapport">
+<!ENTITY  crash_allow_contact2 "Permettre à &vendorShortName; de vous contacter à propos de ce rapport">
 <!ENTITY  crash_email "Votre adresse électronique">
 <!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
