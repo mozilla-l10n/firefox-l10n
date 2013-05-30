@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otvori spremljenu poruku…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Privici">
-<!ENTITY openAttachmentCmd.accesskey "i">
 <!ENTITY saveAsMenu.label "Spremi kao">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Datoteka">
@@ -434,6 +432,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Otvori kao razgovor">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Privitci">
+<!ENTITY openAttachmentListCmd.accesskey "i">
 <!ENTITY openFeedMessage1.label "Prilikom otvaranja poruka iz kanala">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Otvori kao web stranicu">
