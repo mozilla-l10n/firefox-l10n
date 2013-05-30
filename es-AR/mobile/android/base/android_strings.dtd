@@ -12,6 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "Más visitados">
 <!ENTITY  awesomebar_bookmarks_title "Marcadores">
 <!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_switch_to_tab "Cambiar a pestaña">
 
 <!ENTITY  crash_reporter_title "Informe de fallos de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema y ha fallado. Tus pestañas deberían aparecer listadas en la página de inicio de &brandShortName; al reiniciar.">
@@ -68,8 +69,11 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privacidad y seguridad">
 <!ENTITY pref_category_content "Contenido">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Opcions de datos">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
-<!ENTITY pref_telemetry "Enviar datos de rendimiento">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -127,6 +131,26 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Opciones del sitio">
 <!ENTITY pref_private_data_downloadFiles "Archivos descargados">
+
+<!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
+<!ENTITY datareporting_notification_action "Elegir qué compartir">
+<!ENTITY datareporting_notification_summary "Para mejorar tu experiencia, &brandShortName; envía automáticammente alguna información a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Para mejorar tu experiencia, &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Ayuda a entender el rendimiento de tu navegador y comparte los datos con &vendorShortName; sobre la salud de tu navegador">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Comparte rendimiento, uso, hardware y datos de personalización sobre tu navegador con &vendorShortName; para ayudarnos a mejorar a &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title "Informe de fallos">
 
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
