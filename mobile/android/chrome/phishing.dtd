@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Сумња се на мрежни фалсификат">
-
-<!ENTITY safeb.palm.message.p1 "Овај сајт је пријављен као мрежни фалсификат, направљен како би кориснике навео да открију личне или финансијске податке. Унос ма каквих личних података у ову страницу може да доведе до крађе идентитета или другог облика преваре. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Прочитајте више &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Прочитајте више &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "Ове врсте мрежних фалсификата користе се у преварама које се зову фишинг (phishing). У њима се сајтови и ел. поруке користе како би имитирале изворе којима верујете. Можете да сазнате више о томе">
-<!ENTITY safeb.palm.message.p2.linkText "како Вас програм &brandShortName; штити">
-<!ENTITY safeb.palm.message.p2.end " од фишинг напада.">
-
 <!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.accept.statustext "Врати се на моју почетну страну">
 <!ENTITY safeb.palm.decline.label "Занемари ово упозорење">
-<!ENTITY safeb.palm.decline.statustext "Затвори упозорење" >
 <!ENTITY safeb.palm.notforgery.label2 "Ово није мрежни фалсификат…">
 <!ENTITY safeb.palm.reportPage.label "Зашто је ова страница блокирана?">
 

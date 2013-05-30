@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Disable">
 <!ENTITY addonAction.uninstall                  "Избриши">
 <!ENTITY addonAction.undo                       "Опозови">
+<!ENTITY addonAction.setDefault                 "Set as Default">
