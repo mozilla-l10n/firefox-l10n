@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Önemli siteler">
 <!ENTITY  awesomebar_bookmarks_title "Yer imleri">
 <!ENTITY  awesomebar_history_title "Geçmiş">
+<!ENTITY  awesomebar_switch_to_tab "Sekmeye geç">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Çöküş Bildirici">
-<!ENTITY  crash_message "&brandShortName; çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenmeli.">
-<!ENTITY  crash_help_message "Bu sorunu çözmemize yardımcı olun!">
-<!ENTITY  crash_send_report_message "Mozilla\u0027ya çöküş bildirimi gönder">
-<!ENTITY  crash_include_url "Sayfa adresini içer">
+<!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
+<!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
+<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_sorry "Üzgünüz">
+<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
+<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY  crash_email "E-postanız">
+<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY  crash_close_label "Kapat">
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
-<!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY  exit_label "Çık">
-<!ENTITY  continue_label "Devam">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Web Uygulamaları">
 <!ENTITY  launcher_shortcuts_empty "Web uygulaması bulunamadı">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "Genel">
 <!ENTITY pref_category_privacy "Gizlilik ve güvenlik">
 <!ENTITY pref_category_content "İçerik">
-<!ENTITY pref_category_importexport "Al &amp; Ver">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
-<!ENTITY pref_do_not_track "Siteler beni takip etmesin">
-<!ENTITY pref_telemetry "Performans verilerini gönder">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "Genel">
+<!ENTITY pref_header_privacy "Gizlilik ve güvenlik">
+<!ENTITY pref_header_content "İçerik">
 
 <!ENTITY pref_cookies_menu "Çerezler">
 <!ENTITY pref_cookies_accept_all "Etkin">
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
+
+<!ENTITY pref_donottrack_menu "İzleme">
+<!ENTITY pref_donottrack_disallow_tracking "Sitelere izlenmek istemediğimi söyle">
+<!ENTITY pref_donottrack_allow_tracking "Sitelere izlenmek istediğimi söyle">
+<!ENTITY pref_donottrack_no_pref "Sitelere izlenme tercihlerimle ilgili bir şey söyleme">
 
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
@@ -114,8 +129,29 @@ size. -->
 <!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
+<!ENTITY pref_private_data_siteSettings2 "Site ayarları">
 <!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Ne paylaşacağınızı seçin">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Sağlık Raporu">
+<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Otomatik güncellemeler">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Yapıştır">
 <!ENTITY contextmenu_copyurl "Adresi kopyala">
 <!ENTITY contextmenu_edit_bookmark "Düzenle">
+<!ENTITY contextmenu_subscribe "Sayfaya abone ol">
+<!ENTITY contextmenu_site_settings "Süzgeç ayarlarını düzenle">
+
+<!ENTITY pref_titlebar_mode "Başlık çubuğu">
+<!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
+<!ENTITY pref_titlebar_mode_url "Sayfa adresini göster">
 
 <!ENTITY history_removed "Sayfa silindi">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "İsim">
 <!ENTITY bookmark_edit_location "Konum">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Site Ayarları…">
+<!ENTITY site_settings_title3       "Site Ayarları">
 <!ENTITY site_settings_cancel       "İptal">
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
+<!ENTITY reading_list_duplicate "Sayfa zaten Okuma Listenizde">
 <!ENTITY reader "Okuyucu">
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Düzenle">
 <!ENTITY abouthome_topsites_pin "Siteyi sabitle">
 <!ENTITY abouthome_topsites_unpin "Sabitlenmesini kaldır">
-<!ENTITY abouthome_topsites_remove "Kaldır">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
