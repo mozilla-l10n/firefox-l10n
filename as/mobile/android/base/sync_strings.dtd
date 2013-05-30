@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "বাতিল কৰক">
 <!ENTITY sync.button.connect.label "সংযোগ কৰক">
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
@@ -82,7 +82,7 @@
 <!ENTITY bookmarks.folder.unfiled.label "অশৃঙ্খলাবদ্ধ পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
 <!ENTITY bookmarks.folder.mobile.label "মবাইল পত্ৰচিহ্নসমূহ">
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.readinglist.label "পঢ়াৰ তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Pinned'>
 <!-- Notification strings -->
