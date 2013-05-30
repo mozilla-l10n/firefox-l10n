@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Get me out of here!">
 <!ENTITY safeb.palm.decline.label "এই সকিয়নি আওকাণ কৰক">
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.notforgery.label2 "এইটো এটা ৱেব জালিয়াতি নহয়…">
 <!ENTITY safeb.palm.reportPage.label "এই ছাইটতো কিয় ৰোধ কৰা হৈছে?">
 
 <!ENTITY safeb.blocked.malwarePage.title "প্ৰতিবেদন কৰা আক্ৰমণৰ ছাইট!">
