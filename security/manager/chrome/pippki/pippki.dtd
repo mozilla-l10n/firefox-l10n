@@ -34,8 +34,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Политика">
 <!ENTITY downloadCert.viewCert.text "Проверить сертификат центра">
 <!ENTITY downloadCert.viewPolicy.text "Проверить политику и процедуры центра">
-<!ENTITY caCertExists.title "Сертификат существует">
-<!ENTITY caCertExists.message "Сертификат уже существует.">
 <!ENTITY clientAuthAsk.title "Запрос идентификации пользователя">
 <!ENTITY clientAuthAsk.message1 "Сайту необходимо определить, с каким сертификатом вас ассоциировать:">
 <!ENTITY clientAuthAsk.message2 "Выберите сертификат для идентификации:">
