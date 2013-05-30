@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Interneti diji-walha">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "Ceecikaw diji-walha">
 
 <!ENTITY networkPanel.requestURLColon             "URL hãayan:">
 <!ENTITY networkPanel.requestMethodColon          "Hãayan dabari:">

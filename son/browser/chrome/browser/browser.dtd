@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Moɲoo woo šilbay">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "Moɲoo woo žemna">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "e">
+<!ENTITY shareLinkCmd.label "Doboo woo žemna">
+<!ENTITY shareLinkCmd.accesskey "e">
+<!ENTITY shareImageCmd.label "Biyoo woo žemna">
+<!ENTITY shareImageCmd.accesskey "e">
+<!ENTITY shareSelectCmd.label "Suubaroo woo žemna">
+<!ENTITY shareSelectCmd.accesskey "e">
+<!ENTITY shareVideoCmd.label "Widewo woo žemna">
+<!ENTITY shareVideoCmd.accesskey "e">
 <!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga…">
 <!ENTITY addCurPagesCmd.label "Nor lokey kul doo-šilbay…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Interneti diji-walha moora">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "Ceecikaw diji-walha">
 
 <!ENTITY inspectContextMenu.label     "Haya-ize koroši">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Fasal"> 
 <!ENTITY editMenu.accesskey       "F"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Taafeeri">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "T"> 
 <!ENTITY redoCmd.label            "Tee taaga">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "T"> 
@@ -645,11 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Ordinater bangandiyaney cebe">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.activated.description "Goyey kaŋ hun <label/> ga n' ka kayandi. War ga hin ka kayandiyaney barmay goyey še <label class='text-link'>Tontoni juwalkaa</label> ra.">
+<!ENTITY social.activated.undo.label "Aywa, woo ma hun!">
+<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.learnMore.label "Bay ka tonton…">
+<!ENTITY social.learnMore.accesskey "B">
 <!ENTITY social.closeNotificationItem.label "Manti sohõ">
 
 <!ENTITY social.chatBar.commandkey "c">
