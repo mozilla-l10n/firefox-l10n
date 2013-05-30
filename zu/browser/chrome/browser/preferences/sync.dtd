@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Qalisa phansi">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "Phatha i-akhawunti">
+<!ENTITY manageAccount.accesskey      "i">
 <!ENTITY viewQuota.label              "Bheka i-quota">
 <!ENTITY changePassword2.label        "Shintsha igama lokungena…">
 <!ENTITY myRecoveryKey.label          "Ukhiye wami Wokubuyisela">
@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "N">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Igama lesisetshenziswa">
+<!ENTITY syncDeviceName.label       "Igama ledivayisi:">
 <!ENTITY syncDeviceName.accesskey   "s">
 <!ENTITY unlinkDevice.label           "Hlukanisa lesi sisetshenziswa">
 <!-- Footer stuff -->
