@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Онлайн контакти">
-<!ENTITY offlineContactsHeader.label   "Офлай контакти">
+<!ENTITY offlineContactsHeader.label   "Офлайн контакти">
 <!ENTITY conversationsHeader.label     "Разговори">
 <!ENTITY searchResultConversation.label "Резултати от търсенето">
 <!ENTITY chat.noConv.title             "Разговорите ще бъдат показвани тук.">
