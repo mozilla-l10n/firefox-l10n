@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Takaa cebe yane.">
 <!ENTITY sync.link.advancedsetup.label "Kayandiyan koyjinante…">
-<!ENTITY sync.link.nodevice.label "Ay ši nda goyjinaa ay bande…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Goo ma jinay faa batu…">

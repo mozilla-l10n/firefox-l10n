@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Hangandi sohõ">
 
 <!ENTITY sync.setup.title           "Ciya Sync še">
-<!ENTITY sync.setup.pair            "Ka dirandi, wa &#x0022;Jinay foo margandi&#x0022; suuba war jinay faa ga.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Ay ši ay ordinateroo jeroo ga…">
 <!ENTITY sync.setup.manual          "War Sync kontu alhabaroo dam">
 <!ENTITY sync.account               "Kontu maa">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Ga jinay tana faa batu…">
 
 <!ENTITY sync.pair.title            "Jinay foo margandi">
-<!ENTITY sync.pair.description      "Ka war jinay taagaa dirandi, wa &#x0022;Hangandiyan kayandi&#x0022; suuba jinaa ga.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Daabu">
 <!ENTITY sync.setup.waitingdownload "War bayhayey goo ma zumandi bandafaaroo ra. War ga hin ka zanfunoo woo daabu waati kul.">
