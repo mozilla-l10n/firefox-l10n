@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Top de sítios">
 <!ENTITY  awesomebar_bookmarks_title "Marcadores">
 <!ENTITY  awesomebar_history_title "Histórico">
+<!ENTITY  awesomebar_switch_to_tab "Mudar para separador">
 
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
-<!ENTITY  crash_message "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
-<!ENTITY  crash_help_message "Ajude-nos a resolver este problema!">
-<!ENTITY  crash_send_report_message "Enviar relatório de erro à Mozilla">
-<!ENTITY  crash_include_url "Incluir endereço da página">
+<!ENTITY  crash_message2 "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
+<!ENTITY  crash_send_report_message2 "Dizer à Mozilla sobre este erro para que o possam resolver">
+<!ENTITY  crash_include_url2 "Incluir o endereço da página onde estava">
+<!ENTITY  crash_sorry "Pedimos desculpa">
+<!ENTITY  crash_comment "Adicionar um comentário (os comentários são visíveis por todos)">
+<!ENTITY  crash_allow_contact "Autorizar a Mozilla a contactar-me sobre este erro">
+<!ENTITY  crash_email "O seu endereço de correio">
+<!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
+<!ENTITY  sending_crash_report "A enviar relatório de erro...">
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
-<!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
 <!ENTITY  exit_label "Sair">
-<!ENTITY  continue_label "Continuar">
 
 <!ENTITY  launcher_shortcuts_title "Web Apps do &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Nenhumas web apps encontradas">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "Geral">
 <!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
 <!ENTITY pref_category_content "Conteúdo">
-<!ENTITY pref_category_importexport "Importar &amp; Exportar">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Escolha dos dados">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
-<!ENTITY pref_do_not_track "Dizer aos sítios para não me seguir">
-<!ENTITY pref_telemetry "Enviar dados do desempenho">
 <!ENTITY pref_remember_signons "Lembrar senhas">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Geral">
+<!ENTITY pref_header_privacy "Privacidade &amp; Segurança">
+<!ENTITY pref_header_content "Conteúdo">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativado">
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativado">
+
+<!ENTITY pref_donottrack_menu "Seguimento">
+<!ENTITY pref_donottrack_disallow_tracking "Dizer aos sítios que não quero ser seguido">
+<!ENTITY pref_donottrack_allow_tracking "Dizer aos sítios que quero ser seguido">
+<!ENTITY pref_donottrack_no_pref "Não dizer aos sítios nada sobre as preferências de onde estou">
 
 <!ENTITY pref_char_encoding "Codificação de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
@@ -85,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
 <!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
-<!ENTITY pref_reflow_on_zoom2 "Toque para normalizar o texto">
+<!ENTITY pref_reflow_on_zoom3 "Toque duplo para normalizar o texto">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
@@ -116,6 +131,28 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
 <!ENTITY pref_private_data_siteSettings2 "Preferências do sítio">
 <!ENTITY pref_private_data_downloadFiles "Ficheiros transferidos">
+
+<!ENTITY datareporting_notification_title "Estatísticas &amp; dados do &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
+<!ENTITY datareporting_notification_action "Escolha o que partilhar">
+<!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente alguma informação para a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, &brandShortName;â€¦">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Relatório de estado do &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Ajuda-o a compreender o desempenho do seu navegador e partilha dados com a &vendorShortName; sobre o estado do seu navegador">
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Partilha dados de desempenho, utilização, hardware e personalização do seu navegador com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de erro para ajudar a &vendorShortName; a tornar o navegado mais estável e seguro">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Relator de erro">
 
 <!ENTITY pref_update_autodownload "Atualizações automáticas">
 <!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
@@ -164,6 +201,12 @@ size. -->
 <!ENTITY contextmenu_paste "Colar">
 <!ENTITY contextmenu_copyurl "Copiar endereço">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Subscrever para a página">
+<!ENTITY contextmenu_site_settings "Editar definições do sítio">
+
+<!ENTITY pref_titlebar_mode "Barra de título">
+<!ENTITY pref_titlebar_mode_title "Mostrar título da página">
+<!ENTITY pref_titlebar_mode_url "Mostrar endereço da página">
 
 <!ENTITY history_removed "Página removida">
 
@@ -172,7 +215,9 @@ size. -->
 <!ENTITY bookmark_edit_location "Localização">
 <!ENTITY bookmark_edit_keyword "Palavra chave">
 
-<!ENTITY site_settings_title2       "Definições do sítioâ€¦">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Definições do sítio">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "limpar">
 <!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
@@ -181,6 +226,7 @@ size. -->
 <!ENTITY reading_list_added "Página adicionada à sua lista de leitura">
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
+<!ENTITY reading_list_duplicate "Página já na sua lista de leitura">
 <!ENTITY reader "Leitor">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
@@ -204,7 +250,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_remove "Remover">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "Â»"; unicode= U+00BB) is used as an arrow to show that
