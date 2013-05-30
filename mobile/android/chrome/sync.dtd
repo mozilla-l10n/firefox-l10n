@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "ఇప్పుడు సింక్ చేయి">
 
 <!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "క్రియాశీలపరచుటకు, ఎంపికచేయి &#x0022; పరికరం జతచేయి&#x0022; మీ యితర పరికరం పైన.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
 <!ENTITY sync.account               "Account Name">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "ఒక పరికరంను జోడీచేయి">
-<!ENTITY sync.pair.description      "మీ పరికరంను క్రియాశీలపరచుటకు, ఎంపికచేయండి&#x0022;సింక్ అమర్చు&#x0022; పరికరంపైన.">
-<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.setup.close           "మూయి">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
