@@ -71,4 +71,4 @@
 <!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
 <!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.desc        "Lokhu kubhalwa ngekhodi kwenhlamvu kusetshenziselwa okuqukethwe kwefa okwehluleka ukuvumela ukubhala kwakhona.">

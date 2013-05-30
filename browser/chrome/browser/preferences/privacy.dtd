@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Ukulandela umhkondo">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY dntTrackingNopref.label        "Ungawatsheli lutho amasayithi mayelana nezintandokazi zokulandela.">
+<!ENTITY dntTrackingNopref.accesskey    "U">
+<!ENTITY dntTrackingNotOkay.label       "Tshela amawebhusayithi ukuthi angifuni ukulandelwa.">
+<!ENTITY dntTrackingNotOkay.accesskey   "a">
+<!ENTITY dntTrackingOkay.label          "Tshela amasayithi ukuthi ngifuna ukulandelwa.">
+<!ENTITY dntTrackingOkay.accesskey      "T">
 <!ENTITY doNotTrackInfo.label           "Funda kabanzi">
 
 <!ENTITY  history.label                 "Umlando">
@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "Yamukela amakhukhi kumasayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.pre.label      "Yamukela amakhukhi avela eceleni:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+<!ENTITY  acceptThirdParty.always.label   "Njalo">
+<!ENTITY  acceptThirdParty.never.label    "Ungalokothi">
+<!ENTITY  acceptThirdParty.visited.label  "Kusuka kokuvakashelwe">
 
 <!ENTITY  keepUntil.label               "Gcina kuze kube:">
 <!ENTITY  keepUntil.accesskey           "G">
@@ -75,7 +75,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Sebenzisa njalo indlela yangasese yokudlulisa amehlo">
 <!ENTITY  privateBrowsingPermanent2.accesskey "n">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.label      "Khumbula umlando wami wokupheqa nokulanda">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Khumbula ukusesha nohlobo lomlando">
