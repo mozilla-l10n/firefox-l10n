@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "নিষ্ক্রিয়">
 <!ENTITY addonAction.uninstall                  "আনইনস্টল">
 <!ENTITY addonAction.undo                       "পূর্বাবস্থায় ফিরিয়ে আনা হবে">
+<!ENTITY addonAction.setDefault                 "Set as Default">
