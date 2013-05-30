@@ -11,7 +11,7 @@
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
 <!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.pair.label "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
