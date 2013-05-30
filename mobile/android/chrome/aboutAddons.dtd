@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "ปิดใช้งาน">
 <!ENTITY addonAction.uninstall                  "ถอนการติดตั้ง">
 <!ENTITY addonAction.undo                       "เลิกทำ">
+<!ENTITY addonAction.setDefault                 "Set as Default">
