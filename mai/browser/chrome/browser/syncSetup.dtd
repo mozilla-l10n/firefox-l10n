@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "की अहाँ  कहियो पहिने &syncBrand.fullName.label; क प्रयोग कएल अछि?">
 <!ENTITY setup.choicePage.new.label       "हम कहियो &syncBrand.shortName.label; क पहिने उपयोग नहि कएने छी">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.existing2.label "हम पहिने सँ &syncBrand.shortName.label; क उपयोग दोसर कंप्यूटर पर कए रहल छी">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
@@ -33,7 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "गुड़किल्ली क पुष्टि  करू ">
 <!ENTITY setup.confirmPassword.accesskey "m">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.label     "Windows 8 style &brandShortName; क सँग सिंक">
 <!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "युक्ति युग्मित करू">
 <!ENTITY addDevice.showMeHow.label          "देखाउ जे कहिना.">
 <!ENTITY addDevice.dontHaveDevice.label     "हमरा संग युक्ति नहि अछि">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "सक्रिय करए कलेल, &quot;युक्ति युग्मित करू&quot; केँ अपन आन युक्ति पर चुनू.">
 <!ENTITY addDevice.setup.enterCode.label    "फेर ई कोड डालू:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "अपन युक्ति केँ सक्रिय करए कलेल, &quot;सिंक सेटअप करू&quot; केँ युक्ति पर चुनू.">
 <!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया फेर कोशिश करू.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
@@ -74,14 +74,14 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "साइन इन">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "अहाँ अपन पुनर्प्राप्ति कुँजीक नक़ल लिए सकैत छी &syncBrand.shortName.label; विकल्प पर अपन दोसर युक्ति पर जाएकए, आओर &quot;हमर पुनर्प्राप्ति कुंजी&quot; केँ &quot;खाता प्रबंधन&quot; मे चुनिकए.">
 <!ENTITY verifying.label              "जाँचि रहल अछि…">
 <!ENTITY resetPassword.label          "गुड़किल्ली फेर सेट करू ">
 <!ENTITY resetSyncKey.label           "हम अपन आन युक्तिकेँ गुम कए देलए.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "सिंक विकल्प">
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "युक्ति नाम (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "तुल्यकालित  करू ">
@@ -98,16 +98,16 @@
 <!ENTITY engine.addons.label        "सहयुक्ति">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2a.merge.main.label       "ई कंप्यूटरक आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ मिलान करू">
 <!ENTITY choice2.merge.recommended.label "अनुशंसित:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.client.main.label      "ई कंप्यूटर पर सभटा आँकड़ाकेँ हमर &syncBrand.shortName.label; आँकड़ासँ प्रतिस्थापित  करू ">
+<!ENTITY choice2a.server.main.label      "ई कंप्यूटर आँकड़ासँ सभटा आन युक्तिकेँ प्रतिस्थापित करू ">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि करू ">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आब एहि कंप्यूटरक सभटा ब्राउज़र आँकड़ा केँ अहाँक सिंक खाते सँ मिलैताह.">
+<!ENTITY confirm.client3.label         "चेतावनी: एहि कंप्यूटर पर निम्नलिखित &brandShortName; आँकड़ा मेटायल जएताह:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; तखन अहाँक &syncBrand.fullName.label; आँकड़ा केँ एहि कंप्यूटर पर लेबल करताह.">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्ति अहाँक स्थानीय आँकड़ा सँ अधिलिखित कएल जएताह:">
 <!-- New & Existing Account: Setup Complete -->
 

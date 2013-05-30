@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Device Name:">
+<!ENTITY syncDeviceName.label       "युक्ति नाम (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "ई युक्ति केँ कड़ीविहीन करू">
 <!-- Footer stuff -->
