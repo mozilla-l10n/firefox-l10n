@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sincronizar">
 
 <!ENTITY sync.setup.title           "Se connectar a Sync">
-<!ENTITY sync.setup.pair            "Per activar, seleccionatz &#x0022;Associar un aparelh&#x0022; sus vòstre autre aparelh">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Ai pas accès a mon ordenador pel moment…">
 <!ENTITY sync.setup.manual          "Picatz vòstras informacions de compte Sync">
 <!ENTITY sync.account               "Nom del compte">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "En espèra de l'autre aparelh…">
 
 <!ENTITY sync.pair.title            "Associar un aparelh">
-<!ENTITY sync.pair.description      "Per activar vòstre novèl aparelh, causissètz &#x0022;Configurar la sincronizacion&#x0022; sus aqueste.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Tampar">
 <!ENTITY sync.setup.waitingdownload "Vòstras donadas son telecargadas en rèire plan. Podètz tampar aqueste dialòg quand lo desiratz.">
