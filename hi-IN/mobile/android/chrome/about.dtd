@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "अद्यतन के लिए जाँचें »">
 <!ENTITY aboutPage.checkForUpdates.checking     "अद्यतन के लिए खोज रहे हैं…">
 <!ENTITY aboutPage.checkForUpdates.none         "कोई अद्यतन उपलब्ध नहीं">
-<!ENTITY aboutPage.checkForUpdates.found        "अद्यतन उपलब्ध">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "सामान्य प्रश्न">
 <!ENTITY aboutPage.support.label                "समर्थन">
 <!ENTITY aboutPage.privacyPolicy.label          "गोपनीयता नीति">
