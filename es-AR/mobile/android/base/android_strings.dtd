@@ -148,9 +148,9 @@ size. -->
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte rendimiento, uso, hardware y datos de personalización sobre tu navegador con &vendorShortName; para ayudarnos a mejorar a &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
-<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
+<!ENTITY datareporting_crashreporter_title "Informe de fallos">
 
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
