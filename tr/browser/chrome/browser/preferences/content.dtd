@@ -4,7 +4,7 @@
 
 <!ENTITY  blockPopups.label           "Açılır pencereleri engelle">
 <!ENTITY  blockPopups.accesskey       "e">
-<!ENTITY  popupExceptions.label       "Ayrıcalıklar…">
+<!ENTITY  popupExceptions.label       "Ayrıcalıklar...">
 <!ENTITY  popupExceptions.accesskey   "A">
 
 <!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">

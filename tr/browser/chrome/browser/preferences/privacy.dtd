@@ -81,8 +81,8 @@
 <!ENTITY  rememberSearchForm.label       "Arama ve form geçmişini hatırla">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; kapatılınca geçmişi sil">
-<!ENTITY  clearOnClose.accesskey         "s">
+<!ENTITY  clearOnClose.label             "&brandShortName; kapatılınca geçmişi temizle">
+<!ENTITY  clearOnClose.accesskey         "t">
 
 <!ENTITY  clearOnCloseSettings.label     "Ayarlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
