@@ -25,18 +25,18 @@
 <!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "नव विंडो">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.label           "नव विंडो (N)">
+<!ENTITY newWindowCmd.accesskey       ")">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "फाइल खोलू…">
+<!ENTITY openFileCmd.label            "फाइल खोलू (O)…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "हालक खोलू  (R)">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.label              "उनटू (t)…">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "सहेजू">
@@ -105,8 +105,8 @@
 <!ENTITY resetContext2.label          "चर फेर सेट करू">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.label           "फिनु लोड करू आओर चलाबू (e)">
+<!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "चलाउ">

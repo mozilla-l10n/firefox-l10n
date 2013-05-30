@@ -9,11 +9,11 @@
 
 
 <!ENTITY window.title "वेबक कंसोल">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "ब्राउज़र कंसोल">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL कलेल निवेदन करू:">
+<!ENTITY networkPanel.requestMethodColon          "निवेदन विधि:">
+<!ENTITY networkPanel.statusCodeColon             "प्रस्थिति कोड:">
 
 <!ENTITY networkPanel.requestHeaders              "शीर्षिका क लेल निवेदन  करू ">
 <!ENTITY networkPanel.requestCookie               "प्रेषित कुकी">
@@ -21,7 +21,7 @@
 <!ENTITY networkPanel.requestFormData             "आँकड़ा सँ प्रेषित">
 
 <!ENTITY networkPanel.responseHeaders             "अनुक्रिया शीर्षिका">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "प्राप्त कुकी">
 <!ENTITY networkPanel.responseBody                "अनुक्रिया प्रधान अंश">
 <!ENTITY networkPanel.responseBodyCached          "कैश कएल आँकड़ा">
 <!ENTITY networkPanel.responseBodyUnknownType     "अज्ञात अंतर्वस्तु प्रकार">
@@ -31,12 +31,12 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "लॉग आग्रह आओर अनुक्रिया बॉडी">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "नव टैब मे कड़ी खोलू">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -50,22 +50,22 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "जावास्क्रिप्ट अपवाद लाग  करू ">
 <!ENTITY btnPageSecurity.label "सुरक्षा">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
+<!ENTITY btnPageSecurity.tooltip "सुरक्षा त्रुटि आओर चेतावनी लॉग करू">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "लागिंग">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "window.console वस्तु मे लॉग संदेश पठाएल गेल">
 <!ENTITY btnConsoleErrors       "त्रुटि">
 <!ENTITY btnConsoleInfo         "सूचना">
 <!ENTITY btnConsoleWarnings     "चेतावनी">
 <!ENTITY btnConsoleLog          "लाग  करू ">
 
-<!ENTITY filterOutput.placeholder "Filter output">
+<!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
 <!ENTITY btnClear.label        "साफ  करू ">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट केँ साफ करू">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->

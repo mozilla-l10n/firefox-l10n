@@ -4,7 +4,7 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "बाहरी HTML क' नकल लिअ">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.label       "कॉपी आओर अद्वितीय चयनकर्ता ">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
 <!ENTITY inspectorHTMLDelete.label          "नोड मेटाउ">
@@ -12,5 +12,5 @@
 
 <!ENTITY inspector.selectButton.tooltip     "माउस सँ तत्व चुनू">
 
-<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.label          "खोजू HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
