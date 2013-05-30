@@ -2,20 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "இணைய மோசடி என கருதப்படுகிறது">
-
-<!ENTITY safeb.palm.message.p1 "இந்த பக்கம் தனிப்பட்ட அல்லது நிதி விவரங்களை பகிர ஒரு இணைய மோசடியாக அறிக்கையிடப்பட்டுள்ளது. இதில் தனிப்பட்ட விவரங்களை உள்ளிட்டால் அவை திருடு போவதற்கு வாய்ப்புள்ளது. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "மேலும் வாசிக்க &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "மேலும் வாசிக்க &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "இந்த வகைகள் இணைய மோசடிகள் ஃபிஷிங் தாக்குதல் எனப்படுகிறது, அதாவது நம்பகமான இணைய தளத்தை போலவே காணப்படும். இதனை பற்றி மேலும் அறியலாம்">
-<!ENTITY safeb.palm.message.p2.linkText "எவ்வாறு &brandShortName; உங்களை பாதுகாக்கும்">
-<!ENTITY safeb.palm.message.p2.end " ஃபிஷிங்கிலிருந்து.">
-
 <!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.accept.statustext "என் முதன்மை பக்கத்திற்கு செல்">
 <!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்">
-<!ENTITY safeb.palm.decline.statustext "எச்சரிக்கையை மூடு" >
 <!ENTITY safeb.palm.notforgery.label2 "இது ஒரு இணைய மோசடி இல்லை…">
 <!ENTITY safeb.palm.reportPage.label "இந்தப் பக்கம் ஏன் தடுக்கப்பட்டுள்ளது??">
 
