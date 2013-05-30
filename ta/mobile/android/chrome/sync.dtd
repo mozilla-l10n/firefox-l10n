@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "இப்போது ஒத்திசை">
 
 <!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் &#x0022;ஒரு சாதனத்தை இணைசேர்&#x0022; என்பதைத் தேர்ந்தெடுக்கவும்.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "I'm not near my computer…">
 <!ENTITY sync.setup.manual          "Enter your Sync account information">
 <!ENTITY sync.account               "கணக்கு பெயர்">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "ஒரு சாதனத்தை இணைசேர்">
-<!ENTITY sync.pair.description      "உங்கள் புதிய சாதனத்தைச் செயல்படுத்த,  சாதனத்தில் &#x0022;ஒத்திசைவை அமை&#x0022; என்பதைத் தேர்ந்தெடுக்கவும்.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "மூடு">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">

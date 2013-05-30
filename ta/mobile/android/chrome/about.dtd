@@ -9,10 +9,12 @@
 <!ENTITY aboutPage.checkForUpdates.link         "புதுப்பித்தல்களை சரிபார் »">
 <!ENTITY aboutPage.checkForUpdates.checking     "புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…">
 <!ENTITY aboutPage.checkForUpdates.none         "புதுப்பித்தல்கள் எதுவும் கிடைக்கவில்லை">
-<!ENTITY aboutPage.checkForUpdates.found        "புதுப்பித்தல் கிடைக்கிறது">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
+<!ENTITY aboutPage.privacyPolicy.label          "தனிப்பட்ட கொள்கை">
 <!ENTITY aboutPage.rights.label                 "உங்கள் உரிமையை தெரிந்துகொள்ளுங்கள்">
 <!ENTITY aboutPage.relNotes.label               "வெளியீட்டு குறிப்புகள்">
 <!ENTITY aboutPage.credits.label                "Credits">
