@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Սինք այժմ">
 
 <!ENTITY sync.setup.title           "Միանալ Սինքին">
-<!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &#x0022;Սարքի միացում&#x0022; Ձեր սարքում։">
+<!ENTITY sync.setup.pair            "Ակտիվացնելու համար ընտրեք &quot;Սարքի միացում&quot; Ձեր սարքում։">
 <!ENTITY sync.fallback              "Ես իմ համակարգչի կողքին չեմ...">
 <!ENTITY sync.setup.manual          "Նշեք Ձեր Սինքի հաշվեկշռի ինֆոն">
 <!ENTITY sync.account               "Փոստարկղի անունը">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Սպասում է այլ սարքի...">
 
 <!ENTITY sync.pair.title            "Կցված սարք">
-<!ENTITY sync.pair.description      "Ակտիվացնելու համար նոր սարքը, ընտրեք &#x0022;Կարգ. Սինքը&#x0022; Ձեր սարքում։">
+<!ENTITY sync.pair.description      "Ակտիվացնելու համար նոր սարքը, ընտրեք &quot;Կարգ. Սինքը&quot; Ձեր սարքում։">
 <!ENTITY sync.setup.close           "Փակել">
 <!ENTITY sync.setup.waitingdownload "Տվյալները այժմ կբեռնվեն խորապատկերում։ Կարող եք փակել այս պատուհանը։">

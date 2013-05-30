@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Անջատել">
 <!ENTITY addonAction.uninstall                  "Ջնջել">
 <!ENTITY addonAction.undo                       "Հետ">
+<!ENTITY addonAction.setDefault                 "Set as Default">
