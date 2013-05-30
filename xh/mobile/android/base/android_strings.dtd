@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Iisayithi eziphezulu">
 <!ENTITY  awesomebar_bookmarks_title "Iibhukhmakhi">
 <!ENTITY  awesomebar_history_title "Imbali">
+<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
-<!ENTITY  crash_reporter_title "I-&brandShortName; Umniki-ngxelo yokonakala">
-<!ENTITY  crash_message "I-&brandShortName; yonakele. Iithebhu zakho kumele zidweliswe kwi-&brandShortName; Qalisa ikhasi xa uqalisa kwakhona.">
-<!ENTITY  crash_help_message "Nceda usincede silungise le ngxaki!">
-<!ENTITY  crash_send_report_message "Thumela iMozilla ingxelo yokonakala">
-<!ENTITY  crash_include_url "Quka idilesi yekhasi">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
+<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY  crash_email "Your email">
+<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala ">
 <!ENTITY  crash_close_label "Vala">
 <!ENTITY  crash_restart_label "Qalisa ngokutsha i-brandShortName;">
-<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala ">
 <!ENTITY  exit_label "Phuma">
-<!ENTITY  continue_label "Qhuba">
 
 <!ENTITY  launcher_shortcuts_title "i-brandShortName; ii-Web Apps">
 <!ENTITY  launcher_shortcuts_empty "Akukho zi-apps zewebhu zifumanekayo">
@@ -62,19 +66,30 @@
 
 <!ENTITY settings "Iisetingi">
 <!ENTITY settings_title "Iisetingi">
-<!ENTITY pref_category_general "Jikelele">
-<!ENTITY pref_category_privacy "Ubungasese &amp; uKhuseleko">
-<!ENTITY pref_category_content "Isiqulatho">
-<!ENTITY pref_category_importexport "Ngenisa ngaphakathi &amp; Thumela ngaphandle">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Privacy &amp; Security">
+<!ENTITY pref_category_content "Content">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_about_firefox "Malunga ne-&brandShortName;">
-<!ENTITY pref_do_not_track "Xelela iisayithi zingalandi umkhondo wam">
-<!ENTITY pref_telemetry "Thumela iingcombolo zomsebenzi">
 <!ENTITY pref_remember_signons "Khumbula iiphaswedi">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Privacy &amp; Security">
+<!ENTITY pref_header_content "Content">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
 <!ENTITY pref_cookies_accept_all "Ezivunyelweyo">
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Kwaphulwe isakhono">
+
+<!ENTITY pref_donottrack_menu "Tracking">
+<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
+<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
+<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
 
 <!ENTITY pref_char_encoding "Ukufakwa kwekhowudi kwikharekhtha">
 <!ENTITY pref_char_encoding_on "Bonisa imenyu">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ngcombolo zewebhusayithi ezingekho kwinethiwekhi">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Iifayile ezikhutshelweyo">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Ncamathelisa">
 <!ENTITY contextmenu_copyurl "Kopa iDilesi">
 <!ENTITY contextmenu_edit_bookmark "Hlela">
+<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_site_settings "Edit Site Settings">
+
+<!ENTITY pref_titlebar_mode "Title bar">
+<!ENTITY pref_titlebar_mode_title "Show page title">
+<!ENTITY pref_titlebar_mode_url "Show page address">
 
 <!ENTITY history_removed "Ikhasi lisusiwe">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
 <!ENTITY bookmark_edit_keyword "Igama eliphambili">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Iisethingi zesayithi">
+<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Rhoxisa">
 <!ENTITY site_settings_clear        "Sula">
 <!ENTITY site_settings_no_settings  "Akukho zisethingi zinokususwa">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Ikhasi longezwe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_removed "Ikhasi lisuswe kuludwe lwakho lokufunda">
 <!ENTITY reading_list_failed "Ayiphumelelanga ukongeza ikhasi kuludwe lwakho lokufunda">
+<!ENTITY reading_list_duplicate "Page already in your Reading List">
 <!ENTITY reader "Isifundi">
 
 <!ENTITY masterpassword_create_title "Yila iPhaswedi eyiMasta">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Hlela">
 <!ENTITY abouthome_topsites_pin "Qhobosha isayithi ">
 <!ENTITY abouthome_topsites_unpin "Khulula isayithi">
-<!ENTITY abouthome_topsites_remove "Susa">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
