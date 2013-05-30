@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Sites favorits">
 <!ENTITY  awesomebar_bookmarks_title "Marcapaginas">
 <!ENTITY  awesomebar_history_title "Istoric">
+<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
-<!ENTITY  crash_reporter_title "Rapòrt de plantatge de &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; a plantat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
-<!ENTITY  crash_help_message "Ajudatz-nos a corregir aqueste problèma !">
-<!ENTITY  crash_send_report_message "Mandar un rapòrt de plantatge a Mozilla">
-<!ENTITY  crash_include_url "Inclure l\u0027adreça de la pagina">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
+<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY  crash_email "Your email">
+<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
-<!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  exit_label "Sortir">
-<!ENTITY  continue_label "Contunhar">
 
 <!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Cap d\u0027aplicacion Web pas trobada">
@@ -63,18 +67,29 @@
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Vida privada &amp; seguretat">
-<!ENTITY pref_category_content "Contengut">
-<!ENTITY pref_category_importexport "Importar &amp; exportar">
+<!ENTITY pref_category_privacy "Privacy &amp; Security">
+<!ENTITY pref_category_content "Content">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
-<!ENTITY pref_do_not_track "Dire de me pistar pas">
-<!ENTITY pref_telemetry "Mandar donadas de perf.">
 <!ENTITY pref_remember_signons "Enreg. los senhals :">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Privacy &amp; Security">
+<!ENTITY pref_header_content "Content">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activat">
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
+
+<!ENTITY pref_donottrack_menu "Tracking">
+<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
+<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
+<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
@@ -114,8 +129,29 @@ size. -->
 <!ENTITY pref_private_data_passwords "Senhals enregistrats">
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
-<!ENTITY pref_private_data_siteSettings "Preferéncias del site">
+<!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Fichièrs telecargats">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Mesas a jorn automaticas">
 <!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
+<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_site_settings "Edit Site Settings">
+
+<!ENTITY pref_titlebar_mode "Title bar">
+<!ENTITY pref_titlebar_mode_title "Show page title">
+<!ENTITY pref_titlebar_mode_url "Show page address">
 
 <!ENTITY history_removed "Pagina suprimida">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Emplaçament">
 <!ENTITY bookmark_edit_keyword "Mot clau">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Paramètres de site…">
+<!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
 <!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
 <!ENTITY reading_list_failed "Impossible d\u0027apondre la pagina a vòstra lista de lectura">
+<!ENTITY reading_list_duplicate "Page already in your Reading List">
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crear un senhal principal">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Modificar">
 <!ENTITY abouthome_topsites_pin "Espingolar lo site">
 <!ENTITY abouthome_topsites_unpin "Daissar anar lo site">
-<!ENTITY abouthome_topsites_remove "Suprimir">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

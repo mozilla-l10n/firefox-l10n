@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "Digatz-nos çò que pensatz fins a aicí de &brandShortName; per Android.">
 <!ENTITY intro.happyLink           "Adòri">
 <!ENTITY intro.sadLink             "Rencontri qualques problèmas">
-<!ENTITY intro.ideaLink            "Ai una idèa">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "O siquenon.">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "Adoram escotar vòstras idèas ! Partejatz vòstras pensadas çaijós. (Pas que las que concernisson &brandShortName;, sens vos comandar.)">
-<!ENTITY idea.placeholder          "Picatz vòstra idèa aicí">
-<!ENTITY idea.thanksHeader         "Mercé !">
-
-<!ENTITY idea.thanksMessageTop     "Nos agrada que prengatz lo temps de partejar vòstras idèas. Trabalham sens arrestar per melhorar &brandShortName; e las contribucions coma la vòstra pòdon menar a de grandas causas.">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "Lo podètz pas veire, mas en aqueste meteis moment, vos balham una tustada de la man per vos mercejar.">
 
 <!ENTITY feedback.privacy          "Per tal de preservar vòstra vida privada, incluiscatz pas d'informacions personalas identificablas dins vòstra opinion.">
 <!ENTITY feedback.send             "Mandar vòstra opinion">
