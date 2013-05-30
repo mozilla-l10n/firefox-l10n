@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "ตรวจหาการปรับปรุง »">
 <!ENTITY aboutPage.checkForUpdates.checking     "กำลังหาการปรับปรุง…">
 <!ENTITY aboutPage.checkForUpdates.none         "ไม่พบการปรับปรุง">
-<!ENTITY aboutPage.checkForUpdates.found        "พบการปรับปรุง">
+<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
 <!ENTITY aboutPage.faq.label                    "คำถามที่พบบ่อย">
 <!ENTITY aboutPage.support.label                "การสนับสนุน">
 <!ENTITY aboutPage.privacyPolicy.label          "นโยบายความเป็นส่วนตัว">

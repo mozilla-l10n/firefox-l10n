@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sync ทันที">
 
 <!ENTITY sync.setup.title           "เชื่อมต่อกับ Sync">
-<!ENTITY sync.setup.pair            "เริ่มกระบวนการ โดยเลือก &#x0022;เชื่อมโยงอุปกรณ์&#x0022; บนอุปกรณ์อื่นของคุณ">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "คอมพิวเตอร์ของฉันไม่ได้อยู่แถวนี้…">
 <!ENTITY sync.setup.manual          "กรอกรายละเอียดบัญชีผู้ใช้ Sync ของคุณ">
 <!ENTITY sync.account               "ชื่อบัญชี">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "กำลังรออุปกรณ์อื่น…">
 
 <!ENTITY sync.pair.title            "เชื่อมโยงอุปกรณ์">
-<!ENTITY sync.pair.description      "เริ่มใช้งานอุปกรณ์ใหม่ของคุณโดยเลือก &#x0022;ตั้งค่า Sync&#x0022; บนอุปกรณ์">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "ปิด">
 <!ENTITY sync.setup.waitingdownload "ข้อมูลของคุณกำลังถูกดาวน์โหลดอยู่ในเบื้องหลัง คุณสามารถปิดหน้าต่างนี้เมื่อไหร่ก็ได้">
