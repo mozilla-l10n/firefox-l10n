@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Devre dışı bırak">
 <!ENTITY addonAction.uninstall                  "Kaldır">
 <!ENTITY addonAction.undo                       "Geri al">
+<!ENTITY addonAction.setDefault                 "Varsayılan yap">
