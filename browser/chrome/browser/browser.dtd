@@ -645,9 +645,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Masaüstü bildirimlerini göster">
 <!ENTITY social.toggleNotifications.accesskey "b">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.description "<label/> servisleri etkinleştirilmiştir. Servis ayarlarınızı <label class='text-link'>Eklenti Yöneticisi</label>'nde değiştirebilirsiniz.">
+<!ENTITY social.activated.undo.label "Bunu geri al!">
+<!ENTITY social.activated.undo.accesskey "g">
 <!ENTITY social.learnMore.label "Daha fazla bilgi…">
 <!ENTITY social.learnMore.accesskey "D">
 <!ENTITY social.closeNotificationItem.label "Şimdi değil">

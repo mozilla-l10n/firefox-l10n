@@ -38,8 +38,8 @@
 
 <!ENTITY healthReportSection.label       "&brandShortName; Sağlık Raporu">
 <!ENTITY healthReportDesc.label          "Tarayıcı performansınızı anlamanıza yardımcı olur ve tarayıcı sağlığınızla ilgili verileri &vendorShortName; ile paylaşır">
-<!ENTITY enableHealthReport.label        "&brandShortName; sağlık raporunu etkinleştir">
-<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY enableHealthReport.label        "&brandShortName; Sağlık Raporu'nu etkinleştir">
+<!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Daha fazla bilgi">
 
 <!ENTITY telemetrySection.label          "Telemetry">
