@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Passa alla scheda">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha riscontrato un problema e si è bloccato. Le schede aperte dovrebbero essere visibili nella pagina iniziale di &brandShortName; dopo il riavvio.">
-<!ENTITY crash_send_report_message2 "Segnala a Mozilla questo problema">
+<!ENTITY crash_send_report_message3 "Segnala a &vendorShortName; questo problema">
 <!ENTITY crash_include_url2 "Includi l’indirizzo della pagina che si stava visitando">
 <!ENTITY crash_sorry "Siamo spiacenti">
 <!ENTITY crash_comment "Aggiungi un commento (i commenti sono visibili pubblicamente)">
-<!ENTITY crash_allow_contact "Permetti a Mozilla di contattarmi in riferimento a questa segnalazione">
+<!ENTITY crash_allow_contact2 "Permetti a &vendorShortName; di contattarmi in riferimento a questa segnalazione">
 <!ENTITY crash_email "Email">
 <!ENTITY crash_closing_alert "Uscire senza inviare una segnalazione?">
 <!ENTITY sending_crash_report "Invio segnalazione\u2026">
