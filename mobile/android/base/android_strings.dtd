@@ -21,7 +21,7 @@
 <!ENTITY  crash_comment "Ajouter un commentaire (les commentaires sont visibles par tout le monde)">
 <!ENTITY  crash_allow_contact2 "Permettre à &vendorShortName; de vous contacter à propos de ce rapport">
 <!ENTITY  crash_email "Votre adresse électronique">
-<!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
+<!ENTITY  crash_closing_alert "Quitter sans envoyer de rapport de plantage ?">
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  crash_close_label "Fermer">
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
@@ -295,7 +295,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Voulez-vous activer les suggestions de recherche &formatS; ?">
+<!ENTITY suggestions_prompt2 "Voulez-vous activer les suggestions de recherche &formatS; ?">
 
 <!ENTITY webapp_generic_name "Application">
 
