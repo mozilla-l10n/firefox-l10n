@@ -37,12 +37,12 @@
 
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Impossible de configurer &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n\u0027a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; n\u0027a pas pu se connecter au serveur. Voulez-vous réessayer ?'>
 <!ENTITY sync.button.tryagain.label 'Réessayer'>
 <!ENTITY sync.button.manual.label 'Configuration manuelle'>
 <!ENTITY sync.subtitle.nointernet.label 'Connexion à Internet non disponible.'>
 <!ENTITY sync.subtitle.failaccount.label 'La création du compte sur votre appareil a échoué.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne prend actuellement en charge qu\u0027une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Avez-vous plusieurs Firefox installés ? &syncBrand.fullName.label; ne prend actuellement en charge qu\u0027une seule installation de Firefox à la fois. Désinstallez les autres instances pour utiliser &syncBrand.shortName.label;.'>
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuration terminée'>
@@ -102,5 +102,5 @@
 <!ENTITY sync.button.set.up.sync.label 'Configurer &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Configurer &syncBrand.shortName.label; pour l\u0027envoi d\u0027onglets'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Configurez &syncBrand.fullName.label; sur votre appareil afin qu\u0027il puisse envoyer des onglets à d\u0027autres appareils.'>
-<!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>
+<!ENTITY sync.text.tab.sent.label 'Votre onglet a été envoyé !'>
 <!ENTITY sync.text.tab.not.sent.label 'Un problème est survenu lors de l\u0027envoi de votre onglet.'>

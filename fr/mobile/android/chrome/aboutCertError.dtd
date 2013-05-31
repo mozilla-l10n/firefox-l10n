@@ -18,9 +18,9 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Vous avez demandé à &brandShortName; de se connecter de manière sécurisée à <b>#1</b>, mais nous ne pouvons pas confirmer que votre connexion est sécurisée.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Que dois-je faire ?">
+<!ENTITY certerror.whatShouldIDo.heading "Que dois-je faire ?">
 <!ENTITY certerror.whatShouldIDo.content "Si vous vous connectez habituellement à ce site sans problème, cette erreur peut signifier que quelqu'un essaie d'usurper l'identité de ce site et vous ne devriez pas continuer.">
-<!ENTITY certerror.getMeOutOfHere.label "Sortir d'ici !">
+<!ENTITY certerror.getMeOutOfHere.label "Sortir d'ici !">
 
 <!ENTITY certerror.expert.heading "Je comprends les risques">
 <!ENTITY certerror.expert.content "Si vous comprenez ce qui se passe, vous pouvez indiquer à &brandShortName; de commencer à faire confiance à l'identification de ce site. <b>Même si vous avez confiance en ce site, cette erreur pourrait signifier que quelqu'un est en train de pirater votre connexion.</b>">
