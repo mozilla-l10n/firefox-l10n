@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "Undersök CA-certifikat">
 <!ENTITY downloadCert.viewPolicy.text "Undersök CA:ns policy och tillvägagångssätt">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Certifikat finns">
-<!ENTITY caCertExists.message "Certifikatet finns redan.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Begäran om användaridentifikation">
 <!ENTITY clientAuthAsk.message1 "Denna plats har begärt att du identifierar dig med ett certifikat:">
