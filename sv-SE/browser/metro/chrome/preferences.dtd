@@ -36,3 +36,5 @@
 <!ENTITY doNotTrack.options.trackingNotOkay                      "Jag vill inte bli spårad">
 <!ENTITY doNotTrack.options.noPreference                         "Inget om min inställning till spårning">
 <!ENTITY doNotTrack.options.trackingOkay                         "Jag vill bli spårad">
+<!ENTITY optionsHeader.reporting.title                           "Kraschrapportör">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; skickar kraschrapporter för att hjälpa Mozilla att göra webbläsaren mer stabil och säker">
