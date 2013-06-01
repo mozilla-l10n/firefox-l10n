@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "з">
 <!ENTITY searchDialogTitle.label     "Търсене на писма">
 <!ENTITY results.label               "Резултати">
-<!ENTITY fileHereMenu.label          "Записване тук">
-<!ENTITY fileHereMenu.accesskey      "а">
-<!ENTITY fileButton.label            "Файл">
-<!ENTITY fileButton.accesskey        "л">
+<!ENTITY moveHereMenu.label          "Move Here">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Отваряне в папката">
 <!ENTITY openInFolder.accesskey      "к">
