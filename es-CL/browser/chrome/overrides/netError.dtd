@@ -18,17 +18,17 @@
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Revice la dirección por errores de escritura como 
+<li>Revise la dirección por errores de escritura como 
 <strong>ww</strong>.ejemplo.cl en lugar de 
 <strong>www</strong>.ejemplo.cl</li> 
-<li>Si usted no puede cargar ninguna página, revice la conexión de red de su computador.</li> 
-<li>Si su computador o red están protegisdos por un muro de fuego o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li> 
+<li>Si usted no puede cargar ninguna página, revise la conexión de red de su computador.</li> 
+<li>Si su computador o red están protegidos por un muro de fuego o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Revice el nombre del archivo por mayúsculas u otro tipo de errores de tipeo.</li> 
-<li>Revice si elarchivo fue movido, renombrado o eliminado.</li> 
+<li>revise el nombre del archivo por mayúsculas u otro tipo de errores de tipeo.</li> 
+<li>revise si elarchivo fue movido, renombrado o eliminado.</li> 
 </ul>">
 
 
@@ -50,11 +50,9 @@
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como unaprecaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles.</li><li>Apriete Intentar nuevamente para volver a solicitar el documento desde el sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Presione &quot;Intentar nuevamente&quot; para cambiar al modo en línea y recargar la página.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -79,14 +77,14 @@
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando conexiones">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Revice los ajustes del proxy para asegurarse de que son correctos.</li> 
+<li>revise los ajustes del proxy para asegurarse de que son correctos.</li> 
 <li>Contacte a su administrador de red para asegurarse de que el servidor proxy está funcionando.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Imposible encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Revice los ajustes del servidor proxy para asegurarse de que son correctos.</li> 
-<li>Revice para asegurarse de que su computador tiene una conección de red funcionando.</li> 
+<li>revise los ajustes del servidor proxy para asegurarse de que son correctos.</li> 
+<li>revise para asegurarse de que su computador tiene una conección de red funcionando.</li> 
 <li>Si su computador o red están protegidos por un corta fuegos o proxy, asegúrese de que &brandShortName; tiene permitido el acceso a la web.</li> 
 </ul>">
 
@@ -97,7 +95,7 @@
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Revice para asegurarse de que su sistema tiene el administrador de seguridad personal instalado.</li> 
+<li>revise para asegurarse de que su sistema tiene el administrador de seguridad personal instalado.</li> 
 <li>Esto puede ocurrir por una configuración no estándar en el servidor.</li> 
 </ul>">
 
@@ -114,8 +112,8 @@
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>El sitio está temporalmente no disponible o muy ocupado. Intente denuevo en unos isntantes.</li> 
-<li>Si usted no puede cargar ninguna página, revice la conexión de red de su computador.</li> 
+<li>El sitio está temporalmente no disponible o muy ocupado. Intente denuevo en unos instantes.</li> 
+<li>Si usted no puede cargar ninguna página, revise la conexión de red de su computador.</li> 
 <li>Si su computador está protegido por un corta fuegos o proxy, asegúrese de que &brandShortName; tiene permitido acceder a la web.</li> 
 </ul>">
 
@@ -134,9 +132,9 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detecto un error en la transmisión de datos.</p><ul><li>Por favor contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "O usted puede agregar una excepción...">
+<!ENTITY securityOverride.linkText "O usted puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
-<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción...">
+<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
