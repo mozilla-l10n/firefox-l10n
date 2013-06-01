@@ -85,6 +85,7 @@
 <!ENTITY permImage "Загружать изображения">
 <!ENTITY permPopup "Открывать всплывающие окна">
 <!ENTITY permCookie "Устанавливать куки">
+<!ENTITY permNotifications "Отображать уведомления">
 <!ENTITY permInstall "Устанавливать расширения или темы">
 <!ENTITY permGeo "Узнавать местоположение">
 <!ENTITY securityTab "Защита">
