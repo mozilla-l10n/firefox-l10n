@@ -14,27 +14,27 @@
 #define bookmarks_toolbarfolder_description Lägg bokmärken i denna mapp för att visa dem i Bokmärkesfältet
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://sv-se.www.mozilla.com/sv-SE/firefox/central/
-#define getting_started Kom igång
+# link title for https://www.mozilla.org/sv-SE/firefox/central/
+#define getting_started Getting Started
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://sv-se.www.mozilla.com/sv-SE/firefox/help/
-#define firefox_help Hjälp och vägledning
+# link title for https://www.mozilla.org/sv-SE/firefox/help/
+#define firefox_help Help and Tutorials
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://sv-se.www.mozilla.com/sv-SE/firefox/customize/
-#define firefox_customize Anpassa Firefox
+# link title for https://www.mozilla.org/sv-SE/firefox/customize/
+#define firefox_customize Customize Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://sv-se.www.mozilla.com/sv-SE/firefox/community/
-#define firefox_community Engagera dig
+# link title for https://www.mozilla.org/sv-SE/contribute/
+#define firefox_community Get Involved
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://sv-se.www.mozilla.com/sv-SE/about/
-#define firefox_about Om oss
+# link title for https://www.mozilla.org/sv-SE/about/
+#define firefox_about About Us
 
 #unfilter emptyLines
