@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "š">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
-<!ENTITY openAttachmentCmd.label "Priedai">
-<!ENTITY openAttachmentCmd.accesskey "r">
 <!ENTITY saveAsMenu.label "Įrašyti kaip">
 <!ENTITY saveAsMenu.accesskey "k">
 <!ENTITY saveAsFileCmd.label "failą…">
@@ -358,7 +356,7 @@
 <!ENTITY forwardAsAttachmentCmd.label "Priedu">
 <!ENTITY forwardAsAttachmentCmd.accesskey "p">
 <!ENTITY editMsgAsNewCmd.label "Paruošti laišką siuntimui">
-<!ENTITY editMsgAsNewCmd.accesskey "r">
+<!ENTITY editMsgAsNewCmd.accesskey "s">
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Sukurti filtrą pagal laišką…">
 <!ENTITY createFilter.accesskey "f">
@@ -431,6 +429,8 @@
 <!ENTITY openConversationCmd.label "Atverti laišką diskusijoje">
 <!ENTITY openConversationCmd.accesskey "d">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Priedai">
+<!ENTITY openAttachmentListCmd.accesskey "r">
 <!ENTITY openFeedMessage1.label "Atverti sklaidos kanalų pranešimus">
 <!ENTITY openFeedMessage1.accesskey "A">
 <!ENTITY openFeedWebPage.label "kaip tinklalapius">
