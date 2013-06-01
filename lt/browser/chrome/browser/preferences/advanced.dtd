@@ -48,7 +48,7 @@
 <!ENTITY telemetryLearnMore.label        "Išsamiau…">
 
 <!ENTITY crashReporterSection.label      "Strigčių pranešiklis">
-<!ENTITY crashReporterDesc.label         "„&brandShortName;“ juos siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
+<!ENTITY crashReporterDesc.label         "„&brandShortName;“ strigčių pranešimus siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
 <!ENTITY enableCrashReporter.label       "Įgalinti strigčių pranešiklį">
 <!ENTITY enableCrashReporter.accesskey   "p">
 <!ENTITY crashReporterLearnMore.label    "Išsamiau…">
