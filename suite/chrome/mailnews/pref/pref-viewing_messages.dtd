@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "Bendrosios">
 <!ENTITY autoMarkAsRead.label             "Atvertą laišką pažymėti kaip skaitytą">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "iškart">
-<!ENTITY markAsReadNoDelay.accesskey      "i">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "praėjus">
-<!ENTITY markAsReadDelay.accesskey        "p">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "tik po to, kai jis rodomas">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "sek.">
 
 <!ENTITY openingMessages.label            "Atveriamą laišką rodyti:">
