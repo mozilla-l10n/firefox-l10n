@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Нагласяване…">
 <!ENTITY customizeMailAlert.accesskey     "Н">
 
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Прослушва">
 <!ENTITY play.accesskey                   "ш">
 <!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">

@@ -4,8 +4,13 @@
 
 <!ENTITY tracking.label                 "Следене">
 
-<!ENTITY doNotTrack.label               "Казване на сайтовете, че не искам да бъда следен.">
-<!ENTITY doNotTrack.accesskey           "л">
+<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Learn More">
 
 <!ENTITY  history.label                 "История">
 
@@ -22,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
 
-<!ENTITY  acceptThirdParty.label        "Разрешаване на бисквитките от трети страни">
-<!ENTITY  acceptThirdParty.accesskey    "т">
+<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "Always">
+<!ENTITY  acceptThirdParty.never.label    "Never">
+<!ENTITY  acceptThirdParty.visited.label  "From visited">
 
 <!ENTITY  keepUntil.label               "Запазване до:">
 <!ENTITY  keepUntil.accesskey           "З">
