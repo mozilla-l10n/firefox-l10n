@@ -1,46 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
-<!-- LOCALIZATION NOTE : FILE Do not translate key -->
-
 
 <!ENTITY closeCmd.key  "W">
-
-<!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip  "Cerrar herramientas de desarrollador">
+<!ENTITY toolboxOptionsButton.tooltip  "Alternar panel de opciones">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
 
-<!ENTITY options.context.label         "Advanced settings (requires a browser restart)">
-<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
-  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableChrome.label    "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip  "Turning this option on will allow you to use various developer tools in browser context">
-<!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
-  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableRemote.label    "Enable remote debugging">
-<!ENTITY options.enableRemote.tooltip  "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
-  -  the heading of group of checkboxes corresponding to the default developer
-  -  tools. -->
-
-<!ENTITY options.selectDefaultTools.label     "Default Firefox Developer Tools">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
-  -  the heading of group of checkboxes corresponding to the developer tools
-  -  added by add-ons. This heading is hidden when there is no developer tool
-  -  installed by add-ons. -->
-
-<!ENTITY options.selectAdditionalTools.label  "Developer Tools installed by add-ons">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
-  -  the heading of the radiobox corresponding to the theme of the developer
-  -  tools. -->
-
-<!ENTITY options.selectDevToolsTheme.label   "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label             "Dark theme">
-<!ENTITY options.lightTheme.label            "Light theme">
+<!ENTITY options.context.label         "Ajustes avanzados (requieren reiniciar el navegador">
+<!ENTITY options.enableChrome.label    "Activar depuración chrome">
+<!ENTITY options.enableChrome.tooltip  "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador">
+<!ENTITY options.enableRemote.label    "Activar depuración remota">
+<!ENTITY options.enableRemote.tooltip  "Activar esta opción permitirá a las herramientas de desarrollador depurar una instancia remota de Firefox como Firefox OS">
+<!ENTITY options.selectDefaultTools.label     "Herramientas de desarrollador de Firefox predeterminadas">
+<!ENTITY options.selectAdditionalTools.label  "Herramientas de desarrollador instaladas por complementos">
+<!ENTITY options.selectDevToolsTheme.label   "Escoger tema de las Herramientas de desarrollador:">
+<!ENTITY options.darkTheme.label             "Tema oscuro">
+<!ENTITY options.lightTheme.label            "Tema claro">
