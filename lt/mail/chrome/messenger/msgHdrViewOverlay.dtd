@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Atsakyti el. pašto grupei">
 <!ENTITY hdrFollowupButton1.label "Atsakyti grupei">
 <!ENTITY hdrFollowupButton1.tooltip "Atsakyti naujienų grupei">
+<!ENTITY hdrMenuForwardButton.label "Persiųsti kitaip">
 <!ENTITY hdrForwardButton1.label "Persiųsti">
 <!ENTITY hdrForwardButton1.tooltip "Persiųsti šį laišką">
 <!ENTITY hdrJunkButton1.label "Brukalas">
