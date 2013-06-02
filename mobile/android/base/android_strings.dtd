@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Cambiar a la pestaña">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha tenido un problema y ha fallado. Sus pestañas se listarán en la página de inicio de &brandShortName; cuando reinicie.">
-<!ENTITY crash_send_report_message2 "Decir a Mozilla que ha habido un fallo para que puedan arreglarlo">
+<!ENTITY crash_send_report_message3 "Informar a &vendorShortName; sobre este cuelgue para que puedan arreglarlo">
 <!ENTITY crash_include_url2 "Incluir la dirección de la página en la que estaba">
 <!ENTITY crash_sorry "Lo sentimos">
 <!ENTITY crash_comment "Añadir un comentario (estos son visibles públicamente)">
-<!ENTITY crash_allow_contact "Permitir a Mozilla contactarme sobre este informe">
+<!ENTITY crash_allow_contact2 "Permitir a &vendorShortName; contactar conmigo sobre este informe">
 <!ENTITY crash_email "Su correo">
 <!ENTITY crash_closing_alert "¿Salir sin enviar el reporte de fallo?">
 <!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
