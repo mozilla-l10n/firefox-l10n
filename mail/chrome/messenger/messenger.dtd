@@ -531,6 +531,8 @@
 <!ENTITY replyAllButton.tooltip "Atsakyti siuntėjui ir visiems gavėjams">
 <!ENTITY replyListButton.tooltip "Atsakyti elektroninio pašto grupei">
 <!ENTITY forwardButton.tooltip "Persiųsti pažymėtus laiškus">
+<!ENTITY forwardAsInline.tooltip "Persiųsti pažymėtą laišką tiesiogiai kaip laiško tekstą">
+<!ENTITY forwardAsAttachment.tooltip "Persiųsti pažymėtą laišką kaip priedą">
 <!ENTITY fileButton.tooltip "Pažymėtą laišką perkelti į kitą aplanką">
 <!ENTITY archiveButton.tooltip "Perkelti pažymėtus laiškus į archyvą">
 <!ENTITY nextButton.tooltip "Pereiti prie tolesnio neskaityto laiško">
@@ -551,6 +553,10 @@
 <!ENTITY tagButton.tooltip "Priskirti gaires pažymėtiems laiškams">
 <!ENTITY compactButton.tooltip "Sunaikinti pašalintus laiškus iš pažymėto aplanko">
 <!ENTITY appmenuButton1.tooltip "Atverti programos „&brandShortName;“ meniu">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Persiųsti tiesiogiai">
+<!ENTITY buttonMenuForwardAsAttachment.label "Persiųsti priedu">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Naujas laiškas">
@@ -689,9 +695,15 @@
 <!ENTITY contextReplyList.accesskey "g">
 
 <!ENTITY contextForward.label "Persiųsti">
-<!ENTITY contextForward.accesskey "p">
-<!ENTITY contextForwardAsAttachment.label "Persiųsti priedu">
-<!ENTITY contextForwardAsAttachment.accesskey "p">
+<!ENTITY contextForward.accesskey "P">
+<!ENTITY contextForwardAsMenu.label "Persiųsti kitaip">
+<!ENTITY contextForwardAsMenu.accesskey "i">
+<!ENTITY contextForwardAsInline.label "Tiesiogiai">
+<!ENTITY contextForwardAsInline.accesskey "T">
+<!ENTITY contextForwardAsAttachmentItem.label "Priedu">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Persiųsti kaip priedus">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "P">
 <!ENTITY contextMoveMsgMenu.label "Perkelti į">
 <!ENTITY contextMoveMsgMenu.accesskey "e">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Paskiausi">
