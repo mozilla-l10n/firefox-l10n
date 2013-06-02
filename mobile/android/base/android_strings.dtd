@@ -99,7 +99,7 @@
 <!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
 <!ENTITY pref_plugins_disabled "Neleidžiami">
 <!ENTITY pref_text_size "Šriftų dydžiai">
-<!ENTITY pref_reflow_on_zoom2 "Pritaikyti teksto plotį, keičiant dydį">
+<!ENTITY pref_reflow_on_zoom3 "Pritaikyti teksto plotį, dukart bakstelėjus">
 <!ENTITY pref_font_size_tiny "Ypač maži">
 <!ENTITY pref_font_size_small "Maži">
 <!ENTITY pref_font_size_medium "Vidutiniai">
@@ -132,9 +132,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Parsiųsti failai">
 
 <!ENTITY datareporting_notification_title "„&brandShortName;“ statistika ir duomenys">
+<!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
 <!ENTITY datareporting_notification_action "Pasirinkite, kuo dalintis">
 <!ENTITY datareporting_notification_summary "Programos „&brandShortName;“ tobulinimo tikslais, ji automatiškai siunčia tam tikrus duomenis „&vendorShortName;i“.">
 <!ENTITY datareporting_notification_summary_short "Programos „&brandShortName;“ tobulinimo tikslais…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -147,10 +149,9 @@ size. -->
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Naršyklės „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie naršyklės našumą, naudojamas funkcijas, tinkinimą ir įrenginio aparatinę įrangą">
 <!ENTITY datareporting_crashreporter_summary "„&brandShortName;“ strigčių pranešimus siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "„&brandShortName;“ strigčių pranešiklis">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Strigčių pranešiklis">
 
 <!ENTITY pref_update_autodownload "Automatiniai naujinimai">
 <!ENTITY pref_update_autodownload_wifi "Tik belaidžiu ryšiu">
