@@ -4,7 +4,7 @@
 
 <!ENTITY systemIntegration.title  "Systeemyntegraasje">
 <!ENTITY acceptIntegration.label  "As standert ynstelle">
-<!ENTITY cancelIntegration2.label  "Annulearje">
+<!ENTITY cancelIntegration.label  "Annulearje">
 <!ENTITY defaultClient.intro  "&brandShortName; as standertprogramma brûke foar:">
 
 <!ENTITY email.label "E-mail">
