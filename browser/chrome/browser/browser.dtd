@@ -169,9 +169,10 @@
 <!ENTITY devtoolsConnect.accesskey "e">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY remoteWebConsoleCmd.label "Consola web remota">
 <!ENTITY browserConsoleCmd.label "Consola del navegador">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey "n">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
