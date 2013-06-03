@@ -538,7 +538,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Anùlla">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'indentitæ.">
+<!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'identitæ.">
 <!ENTITY identity.connectedTo "Ti ê conèsso a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

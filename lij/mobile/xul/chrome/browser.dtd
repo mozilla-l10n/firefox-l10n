@@ -75,7 +75,7 @@
 <!ENTITY bookmarkEdit.label        "Càngia">
 <!ENTITY bookmarkShortcut.label    "Azónzi a-o schèrmo iniçiâle">
 
-<!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'indentitæ.">
+<!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'identitæ.">
 <!ENTITY identity.connectedTo2 "Conèsso a">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
