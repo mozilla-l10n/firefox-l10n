@@ -34,8 +34,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Política">
 <!ENTITY downloadCert.viewCert.text "Examinar certificado de CA">
 <!ENTITY downloadCert.viewPolicy.text "Examinar políticas y procedimientos de la CA">
-<!ENTITY caCertExists.title "El Certificado Existe">
-<!ENTITY caCertExists.message "El Certificado ya existe.">
 <!ENTITY clientAuthAsk.title "Solicitud de Identificación de Usuario">
 <!ENTITY clientAuthAsk.message1 "Este sitio ha solicitado que usted se identifique con un certificado:">
 <!ENTITY clientAuthAsk.message2 "Seleccionar un certificado para presentar como identificación:">
