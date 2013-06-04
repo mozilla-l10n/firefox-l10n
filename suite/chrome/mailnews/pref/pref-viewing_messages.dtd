@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption     "Allmänt">
 <!ENTITY autoMarkAsRead.label             "Märk automatiskt meddelanden som lästa">
 <!ENTITY autoMarkAsRead.accesskey         "M">
-<!ENTITY markAsReadNoDelay.label          "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey      "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label           "Efter visning under">
-<!ENTITY markAsReadDelay.accesskey       "f">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Enbart efter visning under">
+<!ENTITY markAsReadAfter.accesskey        "f">
 <!ENTITY secondsLabel.label              "sekunder">
 
 <!ENTITY openingMessages.label            "När meddelanden öppnas, visa dem i:">
