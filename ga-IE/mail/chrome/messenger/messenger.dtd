@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Iatáin">
-<!ENTITY openAttachmentCmd.accesskey "I">
 <!ENTITY saveAsMenu.label "Sábháil Mar">
 <!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Comhad">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Oscail i gComhrá">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Iatáin">
+<!ENTITY openAttachmentListCmd.accesskey "t">
 <!ENTITY openFeedMessage1.label "Agus Teachtaireachtaí Fotha á nOscailt">
 <!ENTITY openFeedMessage1.accesskey "O">
 <!ENTITY openFeedWebPage.label "Oscail mar Leathanach Gréasáin">
