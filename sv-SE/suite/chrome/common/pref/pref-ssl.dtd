@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Klientens val av certifikat">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label                 "Aktivera SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Aktivera TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "Du kan begränsa vilka krypteringsprotokoll som kan användas för säkra förbindelser. Välj en version eller ett spann av versioner.">
+<!ENTITY limit.enable.label                 "Aktivera:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; kan meddela dig om säkerhetsstatus hos webbsidor som du besöker. Låt &brandShortName; visa en varning och be om tillåtelse innan:">
 <!ENTITY warn.enteringsecure                "En sida som stöder kryptering hämtas">
