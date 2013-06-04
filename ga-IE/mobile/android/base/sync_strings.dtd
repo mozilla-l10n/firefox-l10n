@@ -59,7 +59,7 @@
 <!ENTITY sync.summary.pair.label "Nasc gléas eile le do chuntas &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
+<!ENTITY sync.configure.engines.title.label "Rudaí le sioncrónú">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sioncrónaigh do…">
 <!ENTITY sync.configure.engines.title.bookmarks "Leabharmharcanna">
 <!ENTITY sync.configure.engines.title.passwords "Focail Fhaire">
