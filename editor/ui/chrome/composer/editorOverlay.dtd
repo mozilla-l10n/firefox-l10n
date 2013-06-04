@@ -70,12 +70,14 @@
 <!ENTITY FontSizeSelect.tooltip "Изберете размер на шрифта">
 <!ENTITY decreaseFontSize.label "Намаляване">
 <!ENTITY decreaseFontSize.accesskey "я">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+<!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Увеличаване">
 <!ENTITY increaseFontSize.accesskey "У">
-<!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY incrementFontSize.key "&gt;">
+<!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Размер">
 <!ENTITY fontSizeMenu.accesskey "м">

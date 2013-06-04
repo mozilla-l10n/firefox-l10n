@@ -22,15 +22,15 @@
 <!ENTITY success.title.before "Здравейте ">
 <!ENTITY success.title.after ", следните пощенски адреси са достъпни за вас:">
 <!ENTITY success.tip "(Можете също да опитате търсене по прякори или някакъв друг термин, за да откриете повече е-пощенски адреси.)">
-<!ENTITY partnership.description "В партньорство с някои доставчици, &brandShortName; може да ви предложи нова пощенска регистрация. За начало трябва само да попълните полетата с вашите имена или каквито искате други думи.">
+<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you'd like, in the fields above to get started.">
 <!ENTITY existing.header "Вече имате адрес, който искате да използвате?">
 <!ENTITY tinyheader.title "Имате адрес?">
 <!ENTITY tinyheader.existing "Прескачане и използване на съществуваща поща">
-<!ENTITY content.close "Мисля да настроя моята регистрация после.">
+<!ENTITY content.close "I think I'll configure my account later.">
 <!ENTITY successful.title "Поздравления!">
 <!ENTITY successful.successMessage "Вие успешно нагласихте вашата регистрация.">
 <!ENTITY successful.write "Напишете писмо">
-<!ENTITY successful.write.desc "Нека вашите приятели и семейството научат за новият ви адрес.<br/> Нали все пак затова си го направихте?">
+<!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That's why you got this new account, isn't it?">
 <!ENTITY successful.customize "Направете &brandShortName; удобен с няколко яки добавки">
 <!ENTITY successful.customize.desc "Има хиляди добавки, които могат да направят &brandShortName; да отговори на вашите специфични нужди.">
 <!ENTITY successful.attach "Добавяне личен подпис към писмата">

@@ -171,6 +171,8 @@
 <!ENTITY task.status.accesskey                            "у">
 <!ENTITY event.repeat.label                               "Повторение:" >
 <!ENTITY event.repeat.accesskey                           "в">
+<!ENTITY event.until.label                                "Until:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Напомняне:" >
 <!ENTITY event.reminder.accesskey                         "м">
 <!ENTITY event.description.label                          "Описание:" >
@@ -187,8 +189,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "О" >
 <!ENTITY event.attachments.popup.removeAll.label          "Премахване на всички" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "х" >
-<!ENTITY event.attachments.popup.attachPage.label         "Прилагане на уеб страница…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "у" >
+<!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "Сродна връзка:" >
 <!ENTITY event.priority2.label                            "Приоритет:">
 

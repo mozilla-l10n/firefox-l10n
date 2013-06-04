@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
-<!ENTITY openAttachmentCmd.label "Притурки">
-<!ENTITY openAttachmentCmd.accesskey "у">
 <!ENTITY saveAsMenu.label "Запис като">
 <!ENTITY saveAsMenu.accesskey "а">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -170,8 +168,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "о">
 <!ENTITY sortByStarCmd.label "Звезда">
 <!ENTITY sortByStarCmd.accesskey "в">
-<!ENTITY sortByAttachmentsCmd.label "Притурки">
-<!ENTITY sortByAttachmentsCmd.accesskey "у">
+<!ENTITY sortByAttachmentsCmd.label "Attachments">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortByPriorityCmd.label "Приоритет">
 <!ENTITY sortByPriorityCmd.accesskey "П">
 <!ENTITY sortBySizeCmd.label "Размер">
@@ -251,34 +249,6 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "Показване на притурките">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "и">
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-
-<!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "У">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Намаляване">
-<!ENTITY fullZoomReduceCmd.accesskey    "я">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Нулиране">
-<!ENTITY fullZoomResetCmd.accesskey     "у">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Увеличаване само на текста">
-<!ENTITY fullZoomToggleCmd.accesskey    "т">
-<!ENTITY fullZoom.label                 "Лупа">
-<!ENTITY fullZoom.accesskey             "Л">
 
 <!ENTITY pageSourceCmd.label "Изходен код на писмото">
 <!ENTITY pageSourceCmd.accesskey "х">
@@ -336,7 +306,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Разговор">
 <!ENTITY goChatCmd.accesskey "Р">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Писмо със звезда">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -456,12 +426,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Отваряне в диалога">
 <!ENTITY openConversationCmd.accesskey "г">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Отваряне на писмо от емисия…">
-<!ENTITY openFeedMessage.accesskey "О">
-<!ENTITY openFeedWebPageInWindow.label "Уеб страница в нов прозорец">
-<!ENTITY openFeedWebPageInWindow.accesskey "У">
-<!ENTITY openFeedSummaryInWindow.label "Извлечение в нов прозорец">
-<!ENTITY openFeedSummaryInWindow.accesskey "И">
+<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Превключване между уеб страница и извлечение">
 <!ENTITY openFeedWebPageInMP.accesskey "П">
 <!-- Windows Menu -->
@@ -486,8 +458,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Недостъпен">
 <!ENTITY imStatus.offline            "Без връзка">
 <!ENTITY imStatus.showAccounts       "Показване на сметките…">
-<!ENTITY joinChatCmd.label "Присъединяване към разговор…">
-<!ENTITY joinChatCmd.accesskey "П">
+<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Записани файлове">
 <!ENTITY savedFiles.accesskey "й">
 <!ENTITY savedFiles.key "j">
@@ -582,7 +554,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Показване на подпрозореца за разговори">
 <!ENTITY tagButton.tooltip "Писма с етикет">
 <!ENTITY compactButton.tooltip "Премахване на изтритите писма от избраната папка">
-<!ENTITY appmenuButton.tooltip "Displays the Application Menu">
+<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "New Message">
@@ -590,6 +562,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "Edit">
 <!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
 <!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuSelectThread.label "Select Thread">
+<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Нов етикет…">
@@ -878,8 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "к">
 <!ENTITY saveImageAsCmd.label "Запис на изображение като…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
-<!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
-<!ENTITY copyLinkCmd.accesskey "К">
+<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyImageAllCmd.label "Копиране на изображение">
 <!ENTITY copyImageAllCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копиране на пощенския адрес">
