@@ -62,7 +62,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Թարմացումները առկա են՝ ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          "Թարմացումները առկա են՝">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
