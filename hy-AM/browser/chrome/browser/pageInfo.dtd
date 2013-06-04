@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Հայտնել գտնվելուս վայրը">
 <!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
 <!ENTITY  permFullscreen        "Բացել Ամբողջ Էկրանով">
-<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
+<!ENTITY  permPointerLock2      "Թաքցնել Մկնիկի Ցուցիչը">
 
 <!ENTITY  permIndexedDB              "Պահպանել անցանց պահոցը">
 <!ENTITY  permClearStorage           "Մաքրել պահոցը">
