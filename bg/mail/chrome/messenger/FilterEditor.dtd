@@ -16,15 +16,19 @@
 <!ENTITY highPriorityCmd.label "Висок">
 <!ENTITY highestPriorityCmd.label "По-висок">
 
-<!ENTITY contextDesc.label "Прилагане на филтъра когато:">
-<!ENTITY contextDesc.accesskey "к">
-<!ENTITY contextIncoming.label "се проверява пощата">
-<!ENTITY contextManual.label "се стартира ръчно">
-<!ENTITY contextBoth.label "се проверява пощата или се стартира ръчно">
-<!ENTITY contextPostPlugin.label "Проверка на пощата (след класифициране)">
-<!ENTITY contextPostPluginBoth.label "Проверка на пощата (след класифициране) или ръчно стартиране">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
+<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">
+
+<!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
+<!ENTITY filterActionOrder.label "See execution order">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Преместване на писмото в">

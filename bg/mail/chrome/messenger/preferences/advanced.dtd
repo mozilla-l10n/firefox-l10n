@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "В">
 <!ENTITY searchIntegration.label       "Разрешаване на &searchIntegration.engineName; да търси съобщения">
 <!ENTITY searchIntegration.accesskey   "т">
-<!ENTITY checkNow.label                "Проверка">
-<!ENTITY checkNow.accesskey            "е">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Разширена конфигурация">
 <!ENTITY configEdit.label              "Редактор конфигурация…">
 <!ENTITY configEdit.accesskey          "к">
