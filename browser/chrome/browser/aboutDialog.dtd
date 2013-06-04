@@ -25,6 +25,7 @@
 <!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled "Actualizaciones deshabilitadas por el administrador de sistemas">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; esta siendo actualizado por otra instancia">
 <!ENTITY update.failed.start "Actualización fallida. ">
 <!ENTITY update.failed.linkText "Bajar la última versión">
 <!ENTITY update.failed.end "">
