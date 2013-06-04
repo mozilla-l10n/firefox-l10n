@@ -26,7 +26,7 @@
 <!ENTITY existing.header "An bhfuil seoladh ríomhphoist agat cheana?">
 <!ENTITY tinyheader.title "Seoladh ríomhphoist agat?">
 <!ENTITY tinyheader.existing "Ná bac leis seo; úsáid an seoladh s'agam">
-<!ENTITY content.close "Ba mhaith liom mo chuntas a chumrú ar ball.">
+<!ENTITY content.close "Socróidh mé cuntas ar ball.">
 <!ENTITY successful.title "Comhghairdeas!">
 <!ENTITY successful.successMessage "D'éirigh leat do chuntas a chruthú.">
 <!ENTITY successful.write "Scríobh ríomhphost">

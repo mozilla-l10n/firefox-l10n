@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable "Díchumasaigh">
 <!ENTITY addonAction.uninstall "Díshuiteáil">
 <!ENTITY addonAction.undo "Cealaigh">
+<!ENTITY addonAction.setDefault "Socraigh mar réamhshocrú">
