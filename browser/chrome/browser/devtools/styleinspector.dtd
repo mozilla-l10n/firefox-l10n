@@ -44,3 +44,8 @@
 <!ENTITY parentMatch           "पॅरेंट जोड">
 <!ENTITY unmatched             "जोड अशक्य">
 -->
+
+<!ENTITY browserStylesLabel    "ब्राउजर शैली">
+<!ENTITY computedViewTitle     "कमप्युट केलेले">
+<!ENTITY ruleViewTitle         "नियम">
+
