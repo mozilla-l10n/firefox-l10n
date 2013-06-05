@@ -44,3 +44,14 @@
 <!ENTITY options.selectDevToolsTheme.label   "Välj tema för utvecklarverktyg:">
 <!ENTITY options.darkTheme.label             "Mörkt tema">
 <!ENTITY options.lightTheme.label            "Ljust tema">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Webbkonsolen">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Aktivera konstant loggning">
+<!ENTITY options.enablePersistentLogging.tooltip  "Om du aktiverar detta alternativ kommer webbkonsolen inte att rensa utdatan varje gång du går till en ny sida">
