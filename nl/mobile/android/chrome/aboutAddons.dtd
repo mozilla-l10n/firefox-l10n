@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Uitschakelen">
 <!ENTITY addonAction.uninstall                  "De-installeren">
 <!ENTITY addonAction.undo                       "Ongedaan maken">
+<!ENTITY addonAction.setDefault                 "Als standaard instellen">
