@@ -151,7 +151,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Kraschrapportör">
 
 <!ENTITY pref_update_autodownload "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
