@@ -7,8 +7,8 @@
 <!ENTITY itemSpellCheck.label "Ortografía">
 <!ENTITY forwardMsg.label "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey "m">
-<!ENTITY inline.label "Incorporado">
-<!ENTITY asAttachment.label "Como adjunto">
+<!ENTITY inline.label "Incorporados">
+<!ENTITY asAttachment.label "Como adjuntos">
 <!ENTITY addExtension.label "Añadir extensión al nombre de archivo">
 <!ENTITY addExtension.accesskey "A">
 <!ENTITY htmlComposeHeader.label "HTML">
