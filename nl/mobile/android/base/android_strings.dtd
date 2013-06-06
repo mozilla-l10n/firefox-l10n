@@ -69,10 +69,14 @@
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
-<!ENTITY pref_category_importexport "Importeren &amp; exporteren">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_do_not_track "Websites vertellen mij niet te volgen">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Algemeen">
+<!ENTITY pref_header_privacy "Privacy &amp; beveiliging">
+<!ENTITY pref_header_content "Inhoud">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ingeschakeld">
