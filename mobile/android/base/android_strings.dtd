@@ -73,7 +73,6 @@
      capitalization. -->
 <!ENTITY pref_category_datareporting "Gegevenskeuzes">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
-<!ENTITY pref_do_not_track "Websites vertellen mij niet te volgen">
 <!ENTITY pref_remember_signons "Wachtwoorden onthouden">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -85,6 +84,11 @@
 <!ENTITY pref_cookies_accept_all "Ingeschakeld">
 <!ENTITY pref_cookies_not_accept_foreign "Ingeschakeld, behalve van derden">
 <!ENTITY pref_cookies_disabled "Uitgeschakeld">
+
+<!ENTITY pref_donottrack_menu "Volgen">
+<!ENTITY pref_donottrack_disallow_tracking "Websites laten weten dat ik niet gevolgd wil worden">
+<!ENTITY pref_donottrack_allow_tracking "Websites laten weten dat ik gevolgd wil worden">
+<!ENTITY pref_donottrack_no_pref "Websites niets vertellen over mijn volginstellingen">
 
 <!ENTITY pref_char_encoding "Tekenset">
 <!ENTITY pref_char_encoding_on "Menu tonen">
