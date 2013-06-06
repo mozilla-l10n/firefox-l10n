@@ -205,6 +205,7 @@ size. -->
 <!ENTITY reading_list_added "Pagina aan uw leeslijst toegevoegd">
 <!ENTITY reading_list_removed "Pagina van uw leeslijst verwijderd">
 <!ENTITY reading_list_failed "Pagina aan uw leeslijst toevoegen mislukt">
+<!ENTITY reading_list_duplicate "Pagina staat al in uw leeslijst">
 <!ENTITY reader "Lezer">
 
 <!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
