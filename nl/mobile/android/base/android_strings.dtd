@@ -198,6 +198,10 @@ size. -->
 <!ENTITY contextmenu_subscribe "Abonneren op pagina">
 <!ENTITY contextmenu_site_settings "Website-instellingen bewerken">
 
+<!ENTITY pref_titlebar_mode "Titelbalk">
+<!ENTITY pref_titlebar_mode_title "Paginatitel tonen">
+<!ENTITY pref_titlebar_mode_url "Pagina-adres tonen">
+
 <!ENTITY history_removed "Pagina verwijderd">
 
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
