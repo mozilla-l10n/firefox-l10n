@@ -15,3 +15,6 @@
 <!ENTITY options.selectDevToolsTheme.label "Выберите тему DevTools:">
 <!ENTITY options.darkTheme.label "Темная тема">
 <!ENTITY options.lightTheme.label "Светлая тема">
+<!ENTITY options.webconsole.label "Веб-консоль">
+<!ENTITY options.enablePersistentLogging.label "Включить непрерывные логи">
+<!ENTITY options.enablePersistentLogging.tooltip "Если вы включите эту опцию, то Веб-консоль не будет очищать вывод при каждом переходе на новую страницу">
