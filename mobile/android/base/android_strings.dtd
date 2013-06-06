@@ -12,6 +12,7 @@
 <!ENTITY  awesomebar_all_pages_title "Topwebsites">
 <!ENTITY  awesomebar_bookmarks_title "Bladwijzers">
 <!ENTITY  awesomebar_history_title "Geschiedenis">
+<!ENTITY  awesomebar_switch_to_tab "Wisselen naar tabblad">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
 <!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden getoond op de &brandShortName;-startpagina als u opnieuw start.">
