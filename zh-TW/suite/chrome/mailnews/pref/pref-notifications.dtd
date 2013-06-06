@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "顯示通知">
 <!ENTITY showAlertFor.accesskey           "S">
 <!ENTITY showAlertTimeEnd.label           "秒">
-<!ENTITY showAlertTimeEnd.accesskey       "d">
 
 <!ENTITY showAlertPreviewText.label       "顯示訊息文字預覽">
 <!ENTITY showAlertPreviewText.accesskey   "v">

@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description 此處的書籤會出現於書籤工具列上
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 #define getting_started 新手上路
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -22,19 +22,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help 說明和教學
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize 自訂 Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for https://www.mozilla.org/en-US/contribute/
 #define firefox_community 參與其中
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/about/
+# link title for https://www.mozilla.org/en-US/about/
 #define firefox_about 關於我們
 
 #unfilter emptyLines

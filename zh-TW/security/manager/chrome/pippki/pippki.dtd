@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "檢驗憑證機構憑證">
 <!ENTITY downloadCert.viewPolicy.text "檢驗憑證機構與程序">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "憑證已存在">
-<!ENTITY caCertExists.message "該憑證已存在。">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "使用者識別需求">
 <!ENTITY clientAuthAsk.message1 "此網站要求您提供可用來識別您自己的憑證:">
