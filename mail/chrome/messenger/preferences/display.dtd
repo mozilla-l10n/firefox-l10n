@@ -6,13 +6,13 @@
 <!ENTITY itemTags.label "Etiquetas">
 <!ENTITY style.label "Estilo:">
 <!ENTITY style.accesskey "E">
-<!ENTITY regularStyle.label "Regular">
+<!ENTITY regularStyle.label "Normal">
 <!ENTITY bold.label "Negrita">
 <!ENTITY italic.label "Cursiva">
 <!ENTITY boldItalic.label "Negrita cursiva">
 <!ENTITY size.label "Tamaño:">
 <!ENTITY size.accesskey "a">
-<!ENTITY regularSize.label "Regular">
+<!ENTITY regularSize.label "Normal">
 <!ENTITY bigger.label "Mayor">
 <!ENTITY smaller.label "Menor">
 <!ENTITY quotedTextColor.label "Color:">
