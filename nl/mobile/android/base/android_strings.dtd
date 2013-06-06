@@ -195,6 +195,7 @@ size. -->
 <!ENTITY contextmenu_paste "Plakken">
 <!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
+<!ENTITY contextmenu_subscribe "Abonneren op pagina">
 <!ENTITY contextmenu_site_settings "Website-instellingen bewerken">
 
 <!ENTITY history_removed "Pagina verwijderd">
