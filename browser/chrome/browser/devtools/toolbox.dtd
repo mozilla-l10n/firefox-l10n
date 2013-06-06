@@ -45,3 +45,14 @@
 <!ENTITY options.darkTheme.label             "暗主題">
 <!ENTITY options.lightTheme.label            "亮主題">
 
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "網頁主控台">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "啟用保持記錄">
+<!ENTITY options.enablePersistentLogging.tooltip  "若您啟用了此選項，網頁主控台將不會在您瀏覽新頁面時清除輸出結果。">
+
