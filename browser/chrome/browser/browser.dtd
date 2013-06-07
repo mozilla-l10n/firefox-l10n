@@ -330,7 +330,9 @@
 <!ENTITY goEndCap.tooltip             "स्थान पट्टीतील पत्त्यावर जा">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY addons.accesskey             "A">
+<!--
 <!ENTITY quitApplicationCmdMac.key      "Q">
+-->
 <!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
 <!ENTITY addons.label                 "ऍडऑन">
 
@@ -769,8 +771,10 @@
 <!ENTITY social.addons.label "सर्व्हिसेस व्यवस्थापीत करा…">
 <!ENTITY social.toggleNotifications.label "डेस्कटॉप सूचना दाखवा">
 <!ENTITY social.toggleNotifications.accesskey "n">
+<!--
 <!ENTITY social.activated.undobutton.label "पूर्ववत् करा">
 <!ENTITY social.activated.undobutton.accesskey "U">
+-->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "गप्पांवर लक्ष्य द्या">
 <!ENTITY social.chatBar.accesskey "c">

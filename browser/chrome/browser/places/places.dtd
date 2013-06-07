@@ -151,7 +151,6 @@
 <!ENTITY organize.tooltip      "ओळखचिन्हे संगठीत करा">
 <!ENTITY views.tooltip                  "दृश्य बदलवा">
 
-<!ENTITY search.in.label                           "यात शोधा:">
 <!ENTITY find.label               "शोधा:">
 <!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "दृष्य">
