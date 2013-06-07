@@ -9,6 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Webconsole">
+<!ENTITY browserConsole.title "Browserconsole">
 
 <!ENTITY networkPanel.requestURLColon             "Aanvraag-URL:">
 <!ENTITY networkPanel.requestMethodColon          "Aanvraagmethode:">
