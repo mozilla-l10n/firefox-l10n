@@ -116,6 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bladwijzer voor deze pagina maken">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Deze pagina delen">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "d">
+<!ENTITY shareLinkCmd.label "Deze koppeling delen">
+<!ENTITY shareLinkCmd.accesskey "d">
+<!ENTITY shareImageCmd.label "Deze afbeelding delen">
+<!ENTITY shareImageCmd.accesskey "d">
+<!ENTITY shareSelectCmd.label "Selecie delen">
+<!ENTITY shareSelectCmd.accesskey "d">
+<!ENTITY shareVideoCmd.label "Deze video delen">
+<!ENTITY shareVideoCmd.accesskey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
