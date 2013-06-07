@@ -19,8 +19,6 @@
 <!ENTITY rememberChoice.label "आतापासून यापुढे असेच ह्या फाइल्सकरीता आपोआप करा.">
 <!ENTITY rememberChoice.accesskey "a">
 
-<!ENTITY whichIsA.label "जे:">
-
 <!ENTITY chooseHandlerMac.label "निवड करा...">
 <!ENTITY chooseHandlerMac.accesskey "C">
 <!ENTITY chooseHandler.label "चाळणे...">

@@ -22,18 +22,6 @@
 <!ENTITY 	enableSearchUpdate.label "शोधयंत्र">
 <!ENTITY enableSearchUpdate.accesskey "E">
 
-<!--
-<!ENTITY whenUpdatesFound.label "जेव्हा &brandShortName; साठी सुधारीत आवृत्ती सापडेलः">
-<!ENTITY modeAutomatic.label "सुधारीत आवृत्ती आपोआप डाउनलोड आणि संस्थापित करा">
-<!ENTITY modeAutomatic.accesskey "d">
--->
-
-<!ENTITY protocols.label "संगणकीय शिष्टाचार">
-<!ENTITY useSSL3.label "SSL 3.0 वापरा">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "TLS 1.0 वापरा">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "प्रमाणपत्रे">
 <!ENTITY viewCRLs.label "नुतनीकरण याद्या">
 <!ENTITY viewCRLs.accesskey "R">
 <!ENTITY viewSecurityDevices.label "सुरक्षा ऊपकरणे">
@@ -61,7 +49,7 @@
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY enableAddonsUpdate.accesskey    "n"> 
 -->
-<!ENTITY encryptionTab.label             "कुटलिपी">
+
 <!ENTITY checkSpelling.label             "शब्दलेखन परस्पर लिहीतेवेळी तपासा">
 <!-- <!ENTITY askMe.accesskey                 "k"> -->
 <!ENTITY certs.ask                       "मला दरवेळी विचारा">
