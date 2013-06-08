@@ -31,6 +31,12 @@
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
+<!ENTITY quickFilterBar.booleanMode.tooltip "Filtrowanie etykiet">
+<!ENTITY quickFilterBar.booleanModeAny.label "Dowolna z:">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Przynajmniej jedna wybrana etykieta musi być obecna">
+<!ENTITY quickFilterBar.booleanModeAll.label "Wszystkie z:">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Wszystkie wybrane etykiety muszą być obecne">
+
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth   "280">
 
