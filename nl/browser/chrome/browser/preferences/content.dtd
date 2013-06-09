@@ -7,11 +7,6 @@
 <!ENTITY  popupExceptions.label       "Uitzonderingen…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  loadImages.label            "Afbeeldingen automatisch laden">
-<!ENTITY  loadImages.accesskey        "A">
-<!ENTITY  exceptions.label            "Uitzonderingen…">
-<!ENTITY  exceptions.accesskey        "o">
-
 <!ENTITY  enableJavaScript.label      "JavaScript inschakelen">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Geavanceerd…">
