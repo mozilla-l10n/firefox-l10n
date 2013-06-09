@@ -61,7 +61,7 @@
 <!ENTITY btnConsoleWarnings     "Waarschuwingen">
 <!ENTITY btnConsoleLog          "Logboek">
 
-<!ENTITY filterBox.placeholder "Filter">
+<!ENTITY filterOutput.placeholder "Filteruitvoer">
 <!ENTITY btnClear.label        "Wissen">
 <!ENTITY btnClear.tooltip      "De webconsole-uitvoer wissen">
 
