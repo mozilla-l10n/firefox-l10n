@@ -7,15 +7,6 @@
 <!ENTITY  popupExceptions.label       "Uitzonderingen…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  enableJavaScript.label      "JavaScript inschakelen">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Geavanceerd…">
-<!ENTITY  advancedJS.accesskey        "e">
-
-<!ENTITY  enableJava.label            "Java inschakelen">
-<!ENTITY  enableJava.accesskey        "v">
-
-
 <!ENTITY  fontsAndColors.label        "Lettertypen &amp; kleuren">
 
 <!ENTITY  defaultFont.label           "Standaardlettertype:">
