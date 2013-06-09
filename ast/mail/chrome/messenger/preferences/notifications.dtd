@@ -7,3 +7,6 @@
 <!ENTITY subject.accesskey "A">
 <!ENTITY sender.label "Remitente">
 <!ENTITY sender.accesskey "R">
+<!ENTITY totalOpenTimeEnd.label "segundos">
+<!ENTITY totalOpenTimeBefore.label "Amosar alertes de corréu nuevu mentanto">
+<!ENTITY totalOpenTimeBefore.accesskey "M">

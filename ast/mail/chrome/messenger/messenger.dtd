@@ -23,8 +23,6 @@
 <!ENTITY showFolderPaneCmd.accesskey "r">
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe guardáu…">
 <!ENTITY openMessageFileCmd.accesskey "A">
-<!ENTITY openAttachmentCmd.label "Axuntos">
-<!ENTITY openAttachmentCmd.accesskey "x">
 <!ENTITY saveAsMenu.label "Guardar como">
 <!ENTITY saveAsMenu.accesskey "G">
 <!ENTITY saveAsFileCmd.label "Ficheru">
@@ -736,3 +734,5 @@
 <!ENTITY openFeedSummary.accesskey "e">
 <!ENTITY openFeedMessage1.label "Al abrir mensaxes de canales web">
 <!ENTITY openFeedMessage1.accesskey "c">
+<!ENTITY openAttachmentListCmd.label "Axuntos">
+<!ENTITY openAttachmentListCmd.accesskey "x">
