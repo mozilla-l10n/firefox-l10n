@@ -61,12 +61,12 @@
 <!ENTITY  permImage             "Layisha izithombe">
 <!ENTITY  permPopup             "Vula iwindi elingugaxekile">
 <!ENTITY  permCookie            "Bheka amakhukhi">
-<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permNotifications     "Bonisa izaziso">
 <!ENTITY  permInstall           "Faka izandiso nezindikimba">
 <!ENTITY  permGeo               "Abelana ngendawo">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
-<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
+<!ENTITY  permPlugins           "Sebenzisa ama-plugin">
+<!ENTITY  permFullscreen        "Faka iskrini esigcwele">
+<!ENTITY  permPointerLock2      "Fihla inkomba yemawuzi">
 
 <!ENTITY  permIndexedDB              "Nakekela ukulondoloza okungaxhunyiwe kwi-intanethi">
 <!ENTITY  permClearStorage           "Sula ukulondoloza">

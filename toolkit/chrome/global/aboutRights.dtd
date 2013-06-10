@@ -35,13 +35,13 @@
 <!ENTITY rights.intro-point3-unbranded "Noma iyiphi inqubomgomo yemfihlo yalo mkhiqizo kufanele fakwe ohlwini lapha.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
+<!ENTITY rights2.intro-point4a "Ezinye izici ze-&brandShortName; zisebenzisa izinsizakalo zolwazi ezigxile kwiwebhu, noma kunjalo, ngeke sikwazi ukuqinisekisa ukuba azinamaphutha angu-100&#037;. Imininingwane eminingi, kufaka phakathi ulwazi lokuba ungazikhubaza kanjani izici ezisebenzisa lezo zinsizakalo, lungatholakala ku ">
 <!ENTITY rights.intro-point4b "imigomo yensizakalo">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Uma lo mkhiqizo ungenisa izinsizakalo zewebhu, noma imiphi imigomo yensizakalo wezinsizakalo kufanele zihlanganiswe ku ">
-<!ENTITY rights.intro-point4b-unbranded "Website Services">
+<!ENTITY rights.intro-point4b-unbranded "Izinsizakalo zewebhusayithi">
 <!ENTITY rights.intro-point4c-unbranded " isigaba.">
 
 <!ENTITY rights2.webservices-header "Izinsizakalo zolwazi ezigxile kwiwebhu ye-&brandFullName;">
@@ -51,16 +51,16 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
+<!ENTITY rights2.webservices-a "I-&brandFullName; isebenzisa izinsizakalo zolwazi ezigxile kwiwebhu (&quot;Izinsizakalo&quot;) ukuze inikele ngezinye zezici ongazisebenzisa nale nguqulo eyenziwe ngeziqu ezimbili ye-&brandShortName; ngaphansi kwemigomo echazwe ngezansi. Uma ungafuni ukusebenzisa insizakalo eyodwa noma ezingaphezulu noma imigomo engezansi ayamukelekile, ungakhubaza isici noma izinsizakalo. Imiyalo yokuthi ungasikhubaza kanjani isici noma insizakalo ethile ingatholakalo ">
 <!ENTITY rights2.webservices-b "lapha">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
+<!ENTITY rights3.webservices-c ". Ezinye izici nezinsizakalo zingakhutshazwa kuzintandokazi zohlelo lokusebenza.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "i-SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Ukukhubaza isici sokudlulisa amehlo ngokuvikelekile asinconyiwe njengoba kungakuholela kumasayithi angavikelekile.  Uma ufuna ukukhubaza isici sonke, landela lezo zinyathelo:">
 <!ENTITY rights.safebrowsing-term1 "Vula izintandokazi zohlelokusebenza">
 <!ENTITY rights.safebrowsing-term2 "Khetha ukukhethwa kokuvikeleka">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Susa ukukhetha ku-&quot;blockAttackSites.label&quot; naku-&quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Ukudlulisa amehlo manje kukhutshaziwe">
 <!-- location aware browsing points for branded builds -->
 
@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Ukudlulisa amehlo kokuqonda kwendawo manje kukhutshaziwe">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Ukufinqwa kwezinsizakalo zewebhusayithi umkhiqizo uhlanganisa, nemiyalo ekubeni ungazikhubaza kanjani, uma kukhona, kufanele kufakwe lapha.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Noma iyiphi inqubomgomo yensizakalo yalo mkhiqizo kufanele fakwe ohlwini lapha.">
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "I-&vendorShortName; nababambe iqhaza kuyo, izikhungo esinikezela ngelayisense nozakwethu basebenza ukunikela ngensizakalo elungile futhi esesikhathini samanje.  Noma kunjalo, ngeke sikwazi ukuqinisekisa ukuba lolu lwazi luyazwisiseka futhi alunamaphutha.  Isibonelo, insizakalo yokudlulisa amehlo ngokuvikelekile ngeke ikwazi ukubona amanye amasayithi ayingozi futhi ingabona amanye amasayithi avuikelekile ngephutha futhi nensizakalo yendawo yokuqonda zonke izindawo ezibuyiswa ngabanikeli bezinsizakalo bethu ziyacabangelwa kuphela futhi yithi, hhayi abanikeli ngezinsizakalo bethu, abaqinisekisa ukulunga kwezindawo ezikiwe.">
 <!ENTITY rights.webservices-term2 "I-&vendorShortName; ingahle ingasaqhubeki noma ishintshe izinsizakalo ngozikhethela kwayo.">
 <!ENTITY rights2.webservices-term3 "Wamukelekile ukusebenzisa lezi zinsizakalo ngenguqulo ehambsana nayo ye-&brandShortName;, ne-&vendorShortName; zikunika amalungelo wazo wokwenza njalo.  I-&vendorShortName; nezikhungo ezinikezela ngelayisense igodle wonke amalungelo ezinsizakalweni.  Leyo migomo akuhloswanga ngawo ukukhawulela amalungelo anikiwe ngaphansi kwamalayisense womthombo ovulekile afunekayo ku-&brandShortName; nakuzinguqulo zekhodi yomthombo ehambelanoyo ye-&brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term4 "Izinsizakalo zinikelwa &quot;nje-nge.&quot;  &vendorShortName;, abanikeli, izikhungo ezinikezela ngelayisense nabasabalalisi bayo bakhipha zonke iziqinisekiso, zigcizelela noma ziqondisiwe, kufaka phakathi ngaphandle komkhawulo, iziqinisekiso ukuba izinsizakalo ziyathengiswa futhi zifanele izinhloso sakho ezithile.  Uvemelana nayo yonke ingozi ngokukhetha izinsizakalo zezinhloso zakho futhi njengakukhwalithi nokusebenza kwezinsizakalo. Ezinye izindawo ethile azivumeli ukukhishwa noma ukukhawulelwa kweziqiniseko ezicatshangelwe, ngakho-ke lo mshwana wokuzikhipha emthwalweni kungenzeka ungasebenzi kuwe.">
 <!ENTITY rights.webservices-term5 "Ngaphandle kokuba kudingeke ngokomthetho, i-&vendorShortName;, abanikeli, izikhungo ezinikezela ngelayisense, nabasabalalisi bayo ngeke baphoqeleka ngokomthetho kokunye nokunye okungaqondene, okukhethekile, okwenzeka kungahleliwe, okungagudluki, okujezisayo noma amacala wokungagudluki angenayo naphumayo nganoma iyiphi indlela ehlobene nokusetshenziswa kwe-&brandShortName; nezonsizakalo.  Iqoqo lesibopho sezomthetho ngaphansi kwaleyo migomo ngeke lidlule ku-$500 (amadola angamakhulu amahlanu). Ezinye izindawo ethile azivumeli ukukhishwa noma ukukhawulelwa kweziqiniseko ezicatshangelwe, ngakho-ke lo mshwana wokuzikhipha emthwalweni kungenzeka ungasebenzi kuwe.">
 <!ENTITY rights.webservices-term6 "I-&vendorShortName; ngavuselela leyo migomo ngokudingekile njalo nje. Leyo migomo ngeke ishintshwe noma ikhanselwe ngaphandle kwesivumelwano esibhaliwe se-&vendorShortName;.">
 <!ENTITY rights.webservices-term7 "Leyo migomo ibuswa yimithetho yezwe lase-California, e-U.S.A., ngaphandle kokuphambana kokunikelwa komthetho wayo. Uma enye inxenye kule migomo ayivumelekile noma eyingafezekiseki, izinxenye ezisele zizohlala zisebenza ngokufanele nangokungenamkhawulo. Esigabeni sokuphikisana phakathi kwenguqulo ehumushiwe yaleyo migomo nengukulo yesiNgisi, inguqulo yesiNgisi izolawula.">

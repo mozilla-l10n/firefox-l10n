@@ -24,8 +24,8 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "Veza konke">
 
-<!ENTITY editMenu.label                     "Edit">
-<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY editMenu.label                     "Hlela">
+<!ENTITY editMenu.accesskey                 "H">
 <!ENTITY undoCmd.label                      "Susa Okwenzile">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "S">
