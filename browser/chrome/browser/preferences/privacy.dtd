@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwisayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "Yamkela iikhukhi zeqela lesithathu:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "m">
 <!ENTITY  acceptThirdParty.always.label   "Qho">
 <!ENTITY  acceptThirdParty.never.label    "Ungaze">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.visited.label  "Isuka kwetyelelweyo">
 
 <!ENTITY  keepUntil.label               "Gcina zide:">
 <!ENTITY  keepUntil.accesskey           "G">

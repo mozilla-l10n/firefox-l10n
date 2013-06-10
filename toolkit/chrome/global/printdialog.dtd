@@ -10,35 +10,35 @@
 
 <!ENTITY fpDialog.title "Gcina Ifayile">
 
-<!ENTITY fileCheck.label "Print to File">
-<!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "Properties…">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY fileCheck.label "Printela kwiFayile">
+<!ENTITY fileCheck.accesskey "k">
+<!ENTITY propertiesButton.label "Iipropati…">
+<!ENTITY propertiesButton.accesskey "p">
 <!ENTITY descText.label "Inkcazo Ngesishicileli:">
 <!ENTITY printer.label "Isishicileli">
 <!ENTITY printerInput.label "Igama lePrinta:">
 <!ENTITY printerInput.accesskey "I">
 
 <!ENTITY printrangeGroup.label "Uluhlu Loshicilelo">
-<!ENTITY allpagesRadio.label "All Pages">
-<!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "Pages">
-<!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label  "from">
-<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY allpagesRadio.label "Onke amakhasi">
+<!ENTITY allpagesRadio.accesskey "O">
+<!ENTITY rangeRadio.label  "Amaphepha">
+<!ENTITY rangeRadio.accesskey  "A">
+<!ENTITY frompageInput.label  "ukususela">
+<!ENTITY frompageInput.accesskey  "k">
 <!ENTITY topageInput.label  "ukuya">
 <!ENTITY topageInput.accesskey  "u">
-<!ENTITY selectionRadio.label "Selection">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.label "Ukhetho">
+<!ENTITY selectionRadio.accesskey "U">
 
 <!ENTITY copies.label "Iikopi">
 <!ENTITY numCopies.label "Inani leekopi:">
 <!ENTITY numCopies.accesskey "k">
 
 <!ENTITY printframeGroup.label "Iifreyim zokuprinta">
-<!ENTITY aslaidoutRadio.label "As laid out on the screen">
-<!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY aslaidoutRadio.label "Njengoko ichazwe eskrinini">
+<!ENTITY aslaidoutRadio.accesskey "i">
+<!ENTITY selectedframeRadio.label  "Ifreyim ekhethiweyo">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Isakhelo ngasinye sihambe sodwa">
 <!ENTITY eachframesepRadio.accesskey  "I">

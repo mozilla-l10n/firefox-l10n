@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Faka Isalathisi Esiphawulayo Kweli Khasi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "Yabelana Ngeli Phepha">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "Y">
+<!ENTITY shareLinkCmd.label "Yabelana Ngeli Khonkco">
+<!ENTITY shareLinkCmd.accesskey "Y">
+<!ENTITY shareImageCmd.label "Yabelana Ngalo Mfanekiso">
+<!ENTITY shareImageCmd.accesskey "Y">
+<!ENTITY shareSelectCmd.label "Yabelana Ngokhetho">
+<!ENTITY shareSelectCmd.accesskey "Y">
+<!ENTITY shareVideoCmd.label "Yabelana Ngale Vidiyo">
+<!ENTITY shareVideoCmd.accesskey "Y">
 <!ENTITY subscribeToPageMenupopup.label "Rhuma Kweli Phepha">
 <!ENTITY subscribeToPageMenuitem.label "Rhuma kweli khasi…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Uthuthuzelo lwewebhu olumgama">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "Ikhonsoli Yebhrawuza">
 
 <!ENTITY inspectContextMenu.label     "Hlola ielementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Hlela"> 
 <!ENTITY editMenu.accesskey       "H"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Lungisa okwenzileyo">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "L"> 
 <!ENTITY redoCmd.label            "Yenza kwakhona">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "Y"> 
@@ -645,11 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Bonisa izaziso zedesktop">
 <!ENTITY social.toggleNotifications.accesskey "i">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.activated.description "Iinkonzo ze-<label/> zenziwe zasebenza. Ungatshintsha iisetingi zakho zeenkonzo kwi <label class='text-link'>Isongezelelo kuMphathi</label>.">
+<!ENTITY social.activated.undo.label "Hayi khona, buyisela umva oku!">
+<!ENTITY social.activated.undo.accesskey "b">
+<!ENTITY social.learnMore.label "Funda ngakumbi…">
+<!ENTITY social.learnMore.accesskey "F">
 <!ENTITY social.closeNotificationItem.label "Hayi Ngoku">
 
 <!ENTITY social.chatBar.commandkey "c">

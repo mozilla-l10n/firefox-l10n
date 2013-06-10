@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Web Console">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "Ikhonsoli Yebhrawuza">
 
 <!ENTITY networkPanel.requestURLColon             "Request URL:">
 <!ENTITY networkPanel.requestMethodColon          "Request Method:">

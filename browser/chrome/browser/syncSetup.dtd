@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "i">
 <!ENTITY setup.confirmPassword.label     "Qinisekisa iPhaswedi">
 <!ENTITY setup.confirmPassword.accesskey "s">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "Ngamanisa nesimbo seWindo 8 &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "N">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Hambisa ngambini iSixhobo">
 <!ENTITY addDevice.showMeHow.label          "Ndibonise ukuba kanjani na.">
 <!ENTITY addDevice.dontHaveDevice.label     "Andinaso isixhobo kum">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Ukuvuselela, khetha &quot;Hambisa ngambini isixhobo&quot; kwesinye isixhobo sakho.">
 <!ENTITY addDevice.setup.enterCode.label    "Emva koko, ngenisa le khowudi:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Ukuvuselela isixhobo sakho esitsha, khetha &quot;Seta uNgqamaniso&quot; kwisixhobo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ngenisa ikhowudi enikezwa sisixhobo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Nceda uzame kwakhona.">
 <!ENTITY addDevice.dialog.successful.label  "Isixhobo songezwe ngempumelelo. Ungquzulwano lokuqala lungathatha imizuzu embalwa kwaye luya kugqiba ngasemva.">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Sayina uNgene">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Ungafumana ikopi yeQhosha lokuFumana lakho ngokuya kwi-&syncBrand.shortName.label; Iindlela zokhetho kwesinye isixhobo sakho, nokukhetha  &quot;iQhosha lokuFumana Lam&quot; ngaphantsi &quot;Lawula iAkhawunti&quot;.">
 <!ENTITY verifying.label              "Iyaqinisekisa…">
 <!ENTITY resetPassword.label          "Seta ngokutsha iPhaswedi">
 <!ENTITY resetSyncKey.label           "Ndilahlekelwe sesinye isixhobo sam.">

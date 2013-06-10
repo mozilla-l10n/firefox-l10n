@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "w">
 <!ENTITY cmd.disableTheme.label               "Nqumamisa umxholo wokuguga">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-<!ENTITY cmd.askToActivate.label              "Ask to Activate">
-<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
-<!ENTITY cmd.alwaysActivate.label             "Always Activate">
-<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
-<!ENTITY cmd.neverActivate.label              "Never Activate">
-<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
-<!ENTITY cmd.stateMenu.tooltip                "Change when this add-on runs">
+<!ENTITY cmd.askToActivate.label              "Cela ukuba uyenze isebenze">
+<!ENTITY cmd.askToActivate.tooltip            "Cela ukuba isebenzise esi songezelelo ixesha ngalinye">
+<!ENTITY cmd.alwaysActivate.label             "Soloko Uyenza Isebenze">
+<!ENTITY cmd.alwaysActivate.tooltip           "Soloko usebenzisa esi songezelelo">
+<!ENTITY cmd.neverActivate.label              "Ungaze Usenze Sisebenze">
+<!ENTITY cmd.neverActivate.tooltip            "Ungaze usebenzise esi songezelelo">
+<!ENTITY cmd.stateMenu.tooltip                "Tshintsha xa esi songezelelo sisebenza">
 <!ENTITY cmd.installAddon.label               "Fakela">
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
