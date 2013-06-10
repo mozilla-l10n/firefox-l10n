@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Կայքի հասցեն`">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "Կ">
 <!ENTITY editBookmarkOverlay.folder.label                    "Պնակ`">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ցույց տալ էջանիշերի բոլոր պնակները">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ցուցադրել էջանիշերի բոլոր թղթապանակները">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Թաքցնել">
 <!ENTITY editBookmarkOverlay.tags.label                      "Նշիչներ`">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">

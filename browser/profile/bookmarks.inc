@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder Էջանիշերի Վահանակի թղթապանակը
 
 
-#define bookmarks_toolbarfolder_description Ավելացրեք էջանիշերը այս ծրարում որպեսզի դրանք տեսնեք Էջանիշների Վահանակում
+#define bookmarks_toolbarfolder_description Ավելացրեք էջանիշերը այս թղթապանակում, որպեսզի դրանք տեսնեք Էջանիշների Վահանակում
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -55,7 +55,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
-#define firefox_customize Ֆայրֆոքսի Կարգավորում
+#define firefox_customize Կարգավորեք Firefox-ը
 
 
 # LOCALIZATION NOTE (firefox_community):
@@ -64,7 +64,7 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
 
-#define firefox_community Ընդգրկվել
+#define firefox_community Ընդգրկվի՛ր
 
 
 # LOCALIZATION NOTE (firefox_about):

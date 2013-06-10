@@ -20,7 +20,7 @@
 <!ENTITY  underlineLinks.label            "Հղումներն ընդգծել">
 <!ENTITY  underlineLinks.accesskey        "Հ">
 <!ENTITY  links                           "Հղման Գույները">
-<!ENTITY  linkColor.label                 "Չայցելած հղումները.">
+<!ENTITY  linkColor.label                 "Չայցելած հղումներ.">
 <!ENTITY  linkColor.accesskey             "հ">
 <!ENTITY  visitedLinkColor.label          "Այցելած հղումները.">
 <!ENTITY  visitedLinkColor.accesskey      "Ա">

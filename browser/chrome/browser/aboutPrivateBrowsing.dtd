@@ -17,5 +17,5 @@
 <!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "To stop Private Browsing, you can close this window.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Այս համակարգիչը չի հիշի ձեր նավարկման պատմությունը, սակայն ձեր ինտերնետ ծառայություն տրամադրողը կամ աշխատակիցը կարող է հետևել ձեր այցելած էջերին:">
+<!ENTITY privatebrowsingpage.moreInfo                  "Այս համակարգիչը չի հիշի ձեր դիտարկումների պատմությունը, սակայն ձեզ համացանցի ծառայություն տրամադրողը կամ աշխատակիցը կարող է հետևել ձեր այցելած էջերին:">
 <!ENTITY privatebrowsingpage.learnMore                 "Իմանալ ավելին">
