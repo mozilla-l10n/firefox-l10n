@@ -226,9 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectCloseButton.tooltiptext "Бақылаушыны жабу">
-<!ENTITY inspectSidebarCloseButton.tooltiptext "Бүйір панелін жабу">
-
 <!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
 <!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
 <!ENTITY devToolbarMenu.accesskey          "п">
@@ -277,13 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "м"> 
 
 <!ENTITY clearRecentHistory.label               "Соңғы тарихты өшіру…">
-<!ENTITY clearRecentHistory.accesskey           "о">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Жекелік шолу режимін бастау">
-<!ENTITY privateBrowsingCmd.start.accesskey     "Ж">
-<!ENTITY privateBrowsingCmd.stop.label          "Жекелік шолу режимін аяқтау">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "а">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Түрі"> 
@@ -322,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "С">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Веб сайтқа өту">
+
 <!ENTITY urlbar.accesskey             "з">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
 
@@ -582,7 +573,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Көбірек білу…">
 
-<!ENTITY allTabs.filter.emptyText "Беттерден іздеу">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Браузер беттері">
