@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ">
 <!ENTITY setup.tosAgree2.label      "ထို့နောက်">
 <!ENTITY setup.ppLink.label         "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree3.label      "လက်ခံမည်">
+<!ENTITY setup.tosAgree2.accesskey  "A">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;သည်သင်၏လုံခြုံရေးကိုဂရုစိုက်ပါသည်။">

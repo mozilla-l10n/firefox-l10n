@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "ဘယောက်ဆာ Console">
 
 <!ENTITY inspectContextMenu.label     "အသေးစိတ်ခွဲခြမ်းစိတ်ဖြာမည်။">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -512,17 +512,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "+">
 
 <!ENTITY fullZoomReduceCmd.label        "ချုံ့ပါ">
 <!ENTITY fullZoomReduceCmd.accesskey    "ခ">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "-">
 
 <!ENTITY fullZoomResetCmd.label         "ပြန်ချိန်တယ်">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY fullZoomToggleCmd.label        "စာသားကိုသာ ကျုံ့ချဲ့ပါ">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">

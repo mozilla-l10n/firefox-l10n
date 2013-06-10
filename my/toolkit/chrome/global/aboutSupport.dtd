@@ -5,11 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're 
+trying to solve a problem. If you are looking for answers to common questions 
+about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "တိုးချဲ့ချက်များ">
 <!ENTITY aboutSupport.extensionName "အမည်">
@@ -56,7 +54,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "GC တိုးတက်မှု">
 
 <!ENTITY aboutSupport.a11yTitle "ဆက်စပ်ပစ္စည်း">
-<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yActivated "လှုပ်ရှားခဲ့ပြီး">
 <!ENTITY aboutSupport.a11yForceDisabled "အသုံးပြုရန် တားဆီးထား">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "လိုက်ဘရီ ဗားရှင်း">

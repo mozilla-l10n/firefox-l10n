@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pluginWizard.title                                  "Plugin Finder Service">
+<!ENTITY pluginWizard.title                                  "ထပ်ပေါင်းဆော့ဝဲရှာဝန်ဆောင်မှူ">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; မှ ကြိုဆိုပါ၏">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; က ရနိုင်တဲ့ ယန္တရားယ်များကို အခု စစ်ဆေးနေတယ်...">
@@ -25,17 +25,17 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
-<!ENTITY unsupportedPlatform.pre                             "We're very sorry, but &brandShortName; can't play Flash on this device. ">
+<!ENTITY unsupportedPlatform.pre                             "&brandShortName; ဟာယခု စက်ပစ္စည်းတွင် ဖလက်ရှ် ဆော့ဝဲအား အသုံးမပြုနိုင်ပါ။  ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "ဆက်လက်လေ့လာပါ။">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "">
+<!ENTITY unsupportedPlatform.post                            "မိုဘိုင်းသီးသန့်">
 
-<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
+<!ENTITY missingPlugin                                       "ပါဝင်သောအရာ အားပြသရန် ထပ်ပေါင်းဆော့ဝဲတစ်ခုလိုနေသှ်">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Tap here to activate plugin.">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY tapToPlayPlugin                                     "ထပ်ပေါင်းဆော့ဝဲသုံးရန် ဤနေရာကို ထိလိုက်ပါ">
+<!ENTITY clickToActivatePlugin                               "ပလပ်အင် များအသုံးပြုမည်">
 <!ENTITY checkForUpdates                                     " အဆင့်မြှင့်တင်မှူ ရှိမရှိစစ်...">
 <!ENTITY disabledPlugin                                      "ယခုထပ်ပေါင်းဆော့ဝဲအားပိတ်ထားသှ်">
 <!ENTITY blockedPlugin.label                                 "သင့်ရဲ့ အကာအကွယ်အတွက် ယန္တရားငယ်ကို ပိတ်ဆို့ထားတယ်။">
