@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "Sifaaji kuutorgal">
-<!ENTITY appManager.style     "njaajeendi: 30em; jaas-tooweendi: 20em;                ">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Ittu">
 <!ENTITY remove.accesskey     "I">
