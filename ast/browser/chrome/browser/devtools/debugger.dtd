@@ -43,6 +43,7 @@
 <!ENTITY debuggerUI.focusVariables.key "V">
 <!ENTITY debuggerUI.focusVariables "Enfocar árbol de variables">
 <!ENTITY debuggerUI.searchFunction.key "D">
-<!ENTITY debuggerUI.searchFunction.altkey "Aceutar">
 <!ENTITY debuggerUI.searchFunction "Guetar pola definición de la función">
 <!ENTITY debuggerUI.searchFile.altkey "Aceutar">
+<!ENTITY debuggerUI.showOriginalSource.key "O">
+<!ENTITY debuggerUI.showOriginalSource "Amosar fontes orixinales">
