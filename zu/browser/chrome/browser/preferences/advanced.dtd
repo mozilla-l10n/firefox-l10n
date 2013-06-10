@@ -84,11 +84,11 @@
 
 <!ENTITY updateTab.label                 "Vuselela">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateApp.label                 "I-&brandShortName; izibuyekezo:">
+<!ENTITY updateAuto.label                "Faka ngokuzenzakalela ukwaziswa kwamuva (okunconyiwe: ukuphepha okuthuthukisiwe)">
+<!ENTITY updateAuto.accesskey            "F">
+<!ENTITY updateCheck.label               "Hlolela ukufakwa kokwaziswa kwakamuva, kodwa ngivumele ngikhethe ukuthi ngiyakufaka na">
+<!ENTITY updateCheck.accesskey           "H">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 

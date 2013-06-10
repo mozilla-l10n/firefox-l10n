@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Buza njalo">
 <!ENTITY permission.allow                "Vumela">
 <!ENTITY permission.allowForSession      "Vumela Kule Nkathi">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "Vumela wokuqala kuphela">
 <!ENTITY permission.block                "Vimbela">
 
 <!ENTITY password.label                  "Londoloza amaphasiwedi">
@@ -33,7 +33,7 @@
 
 <!ENTITY geo.label                       "Aba indawo">
 
-<!ENTITY plugins.label                   "Plugins">
+<!ENTITY plugins.label                   "Ama-plugin">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
@@ -41,4 +41,4 @@
 
 <!ENTITY popup.label                     "Vula iwindi elingugaxekile">
 
-<!ENTITY fullscreen.label                "Fullscreen">
+<!ENTITY fullscreen.label                "Iskrini esigcwele">

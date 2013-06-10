@@ -5,11 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "Imininingwane yokuxazululwa kwezinkinga">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  Leli khasi liqukethe ulwazi olunzima olungahle lukusize uma
+uzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile 
+mayelana ne-&brandShortName;, hlola i-<a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Izithasiselo">
 <!ENTITY aboutSupport.extensionName "Igama">
@@ -42,12 +40,12 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Veza Ifolida">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Izintandokazi eziguquliwe ezibalulekile">
 <!ENTITY aboutSupport.modifiedPrefsName "Igama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Inani">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSTitle "Izintandokazi zika user.js">
 <!ENTITY aboutSupport.userJSDescription "Ifolda yakho yephrofayela iqukethe <a id='prefs-user-js-link'>user.js file</a>, okubandakanya izintandwa ezingakhwanga yi-&brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Imibukiso">
@@ -64,5 +62,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Umlando wokufaka">
 <!ENTITY aboutSupport.updateHistoryTitle "Iwindi Elithuthukisiwe">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopishela umbhalo ku-clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopisha ulwazi olungakasetshenziswa kwi-clipboard">
