@@ -77,5 +77,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "You are currently on the ">
+<!ENTITY channel.description.start  "คุณกำลังอยู่บนช่องทางปรับรุ่น">
 <!ENTITY channel.description.end    " ช่องทางปรับรุ่น">
