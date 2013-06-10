@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3c "açıqlanmışdır.">
 <!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "Bəzi &brandShortName; funksiyaları veb əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların 100&#037; doğru və ya xətasız olduğuna zəmanət verə bilmərik. Daha ətraflı və həmçinin bu xidmətlərin necə söndürülməsi haqqında məlumatı buradan tapa bilərsiz:">
+<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "Bəzi &brandShortName; funksiyaları veb əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların 100&#037; doğru və ya xətasız olduğuna zəmanət verə bilmərik. Daha ətraflı və həmçinin bu xidmətlərin necə söndürülməsi haqqında məlumatı buradan tapa bilərsiz:">

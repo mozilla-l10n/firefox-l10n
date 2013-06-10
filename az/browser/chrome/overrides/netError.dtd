@@ -94,7 +94,7 @@ olmasından əmin olun.</li>
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Bu problem, əsasən, çərəzləri söndürdükdə və ya qəbul etmədikdə 
-<li> baş verir.</li> 
+baş verir.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
