@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "সাইট হতে কুকি গ্রহণ করুন A">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
+<!ENTITY  acceptThirdParty.pre.label      "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে c">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "সবসময়">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
 
 <!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল: K">
 <!ENTITY  keepUntil.accesskey           "K">

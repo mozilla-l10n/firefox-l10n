@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পৃষ্ঠাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে (A)">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
+<!ENTITY languages.customize.Fallback.grouplabel  "লিগ্যাসি অক্ষর এনকোডিং এর বিষয়বস্তু">
+<!ENTITY languages.customize.Fallback.label       "ফলব্যাক অক্ষরের এনকোডিং C:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">
+<!ENTITY languages.customize.Fallback.desc        "এই অক্ষরের এনকোডিং ব্যবহৃত হয়েছে লিগ্যাসি বিষয়বস্তুর জন্য যা এর এনকোডিং ডিক্লেয়ার করতে ব্যর্থ।">

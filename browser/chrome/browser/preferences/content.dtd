@@ -14,7 +14,7 @@
 <!ENTITY  defaultSize.label           "আকার S:">
 <!ENTITY  defaultSize.accesskey       "S">
 
-<!ENTITY  advancedFonts.label         "উচ্চপর্যায়ের... A">
+<!ENTITY  advancedFonts.label         " A উচ্চপর্যায়ের...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "রং... C">

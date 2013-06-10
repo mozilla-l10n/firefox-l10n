@@ -24,13 +24,13 @@
 
 <!ENTITY showWhenDownloading.label     "ফাইল ডাউনলোডের সময় ডাউনলোড উইন্ডো প্রদর্শন করা হবে D">
 <!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "সব ডাউনলোড সম্পন্ন হলে এটি বন্ধ করা হবে w">
+<!ENTITY closeWhenDone.label "সবগুলো ডাউনলোড সম্পন্ন হলে এটি বন্ধ করা হবে w">
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান v">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ব্রাউজ... o">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "নির্বাচন... (e)">
+<!ENTITY chooseFolderMac.label        "(e) নির্বাচন... ">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞেস করা হবে (A)">
+<!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞেস করা হবে A">
 <!ENTITY alwaysAsk.accesskey "A">
