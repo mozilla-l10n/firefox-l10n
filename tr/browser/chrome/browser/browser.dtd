@@ -658,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- labels are set dynamically, see browser.properties -->
 
 <!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.marklink.accesskey "ş">
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacak kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">

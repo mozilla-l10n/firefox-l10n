@@ -50,7 +50,7 @@
 
 <!ENTITY crashReporterSection.label      "Çökme Habercisi">
 <!ENTITY crashReporterDesc.label         "&brandShortName;, tarayıcınızı daha kararlı ve güvenli hâle getirmemize yardımcı olmak için çökme raporlarını &vendorShortName; sunucularına gönderir">
-<!ENTITY enableCrashReporter.label       "Çökme habercisini etkinleştir">
+<!ENTITY enableCrashReporter.label       "Çökme Raporlayıcısı'nı etkinleştir">
 <!ENTITY enableCrashReporter.accesskey   "Ç">
 <!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi">
 
