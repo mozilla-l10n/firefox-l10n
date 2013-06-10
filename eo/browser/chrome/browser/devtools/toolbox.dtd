@@ -44,3 +44,14 @@
 <!ENTITY options.selectDevToolsTheme.label   "Elekti etoson de DevTools:">
 <!ENTITY options.darkTheme.label             "Malhela etoso">
 <!ENTITY options.lightTheme.label            "Hela etoso">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Teksaĵa konzolo">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Aktivigi daŭran registradon">
+<!ENTITY options.enablePersistentLogging.tooltip  "Se vi aktivigas tiun ĉi elekteblon, la Teksaĵa konzolo ne viŝos la eligon ĉiam kiam vi vizitas novajn paĝojn">
