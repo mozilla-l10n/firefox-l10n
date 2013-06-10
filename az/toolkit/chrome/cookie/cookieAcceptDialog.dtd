@@ -9,13 +9,13 @@
 <!ENTITY     props.secure.label             "Server təhlükəsizliyi:">
 <!ENTITY     props.expires.label            "Sona çatma tarixi:">
 
-<!ENTITY     button.allow.label             "İzin ver">
-<!ENTITY     button.allow.accesskey         "z">
+<!ENTITY     button.allow.label             "İcazə ver">
+<!ENTITY     button.allow.accesskey         "İ">
 <!ENTITY     button.session.label           "Bu seans üçün icazə ver">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Reddet">
 <!ENTITY     button.deny.accesskey          "d">
 
-<!ENTITY     dialog.title                   "Təsdiqlə">
-<!ENTITY     dialog.remember.label          "Bu saytın bütün cookieləri üçün bu seçimi xatırla">
-<!ENTITY     dialog.remember.accesskey      "U">
+<!ENTITY     dialog.title                   "Çərəzin saxlanmasını təsdiqlə">
+<!ENTITY     dialog.remember.label          "Mənim seçimimi bu saytdan olan bütün çərəzlər üçün istifadə et">
+<!ENTITY     dialog.remember.accesskey      "e">

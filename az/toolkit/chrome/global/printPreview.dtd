@@ -15,8 +15,8 @@
 <!ENTITY portrait.accesskey   "k">
 <!ENTITY landscape.label      "Yatay">
 <!ENTITY landscape.accesskey  "Y">
-<!ENTITY close.label          "Kapat">
-<!ENTITY close.accesskey      "K">
+<!ENTITY close.label          "Qapat">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">

@@ -50,12 +50,12 @@
 
 <!ENTITY cmd.open.label                  "Aç">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Yeni pəncərədə aç">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Yeni vərəqdə aç">
-<!ENTITY cmd.open_tab.accesskey          "v">
-<!ENTITY cmd.open_all_in_tabs.label      "Hamısını vərəqlərdə aç">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
+<!ENTITY cmd.open_window.label           "Yeni Pəncərədə Aç">
+<!ENTITY cmd.open_window.accesskey       "Y">
+<!ENTITY cmd.open_tab.label              "Yeni Vərəqdə Aç">
+<!ENTITY cmd.open_tab.accesskey          "Y">
+<!ENTITY cmd.open_all_in_tabs.label      "Hamısını Vərəqlərdə Aç">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 
 <!ENTITY cmd.properties.label      "Xüsusiyyətlər">
 <!ENTITY cmd.properties.accesskey  "s">

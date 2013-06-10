@@ -9,10 +9,10 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "Bu vərəqi aç">
-<!ENTITY tabs.context.openTab.accesskey               "B">
-<!ENTITY tabs.context.openMultipleTabs.label          "Seçilən vərəqləri aç">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "S">
+<!ENTITY tabs.context.openTab.label                   "Bu Vərəqi Aç">
+<!ENTITY tabs.context.openTab.accesskey               "A">
+<!ENTITY tabs.context.openMultipleTabs.label          "Seçilən Vərəqləri Aç">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "A">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Vərəqi Əlfəcinlə…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "Ə">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Seçilmiş Vərəqləri Əlfəcinlə…">

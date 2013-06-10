@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Səhifə yüklənmə xətası">
-<!ENTITY retry.label "Yenidən yoxla">
+<!ENTITY retry.label "Təkrar Yoxla">
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd brauzerin yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
 
 <!ENTITY netOffline.title "Offline rejim">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Səyyah hazırda oflayn rejimdədir və tələb olunan obyektə bağlana bilmir.</p><ul><li>Kompüteriniz aktiv şəbəkəyə (internetə) bağlıdır?</li><li>&quot;Təkrar Yoxla&quot; düyməsinə basaraq onlayn rejimə keçə və səhifəni yeniləyə bilərsiniz.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<p>Baxmaq istədiyiniz səhifə göstərilə bilmir, çünki etibarsız ya da dəstəklənməyən sıxışdırmadan istifadə edir.</p><ul><li>Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
@@ -58,7 +58,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Brauzer proxy-server istifadə edcək şəkildə nizamlanıb, ancaq proxy-server tapılmadı.</p><ul><li>Proxy-server seçimləri düzgün nizamlanmamış ola bilər. Seçimləri yoxlayıb təkrar yoxlayın.</li><li>Komputerinizdə aktiv bir şəbəkə olmaya bilər.</li><li>Hələ də bağlantı qura bilmirsinizsə, internet provayderinizlə və ya bağlantı idarəçinizlə əlaqə saxlayın.</li></ul>>">
 
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
-<!ENTITY redirectLoop.longDesc "<p>Brauzer istədiyiniz obyekti almağa cəhd etməyi dayandırdı. Sayt brazuerin istəyinə heç vaxt sona çatmayacaq bir yönlənidmə ilə cavab verir.</p><ul><li>Saytın saxlamaq istədiyi cookielərə qadağa qoymuş ya da söndürmüş ola bilərsiniz.</li><li><em>NOT</em>: Cookiləri qəbul etmək probleminizi həll etmirsə, çox güman ki problem komputerinizdən deyil, server nizamlarındandır.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Səyyah istədiyiniz obyekti almağa cəhd etməyi dayandırdı. Sayt istəyi elə yönləndirir ki, heç vaxt tamamlanmayacaq.</p><ul><li>Saytın tələb etdiyi çərəzləri ləğv və ya blok etmisinizmi?</li><li><em>QEYD</em>: Əgər çərəzlərin qəbul edilməsi xətanı həll etmirsə, böyük ehtimalla problem sizin kompüterinizdə yox, serverin tənzimləmələrindədir.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
 <!ENTITY unknownSocketType.longDesc "<p>Sayt bağlantı istəyinə gözlənilməyən formada cavab verdi və brauzer davam etməyəcək.</p>">

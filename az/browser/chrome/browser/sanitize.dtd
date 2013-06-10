@@ -38,8 +38,8 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Saxlanan şifrələr">
 <!ENTITY itemPasswords.accesskey           "P">
-<!ENTITY itemCookies.label                 "Cookielər">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.label                 "Çərəzlər">
+<!ENTITY itemCookies.accesskey             "Ç">
 <!ENTITY itemCache.label                   "Önbellek">
 <!ENTITY itemCache.accesskey               "n">
 <!ENTITY itemOfflineApps.label             "Offline Website Data">

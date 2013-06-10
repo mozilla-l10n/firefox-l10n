@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Səhifə yüklənmə xətası">
-<!ENTITY retry.label "Yenidən yoxla">
+<!ENTITY retry.label "Təkrar Yoxla">
 <!-- Specific error messages -->
 
 
@@ -50,11 +50,10 @@
 <!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName;-in yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Onlayn rejimə keçmək və səhifəni yeniləmək 
+üçün &quot;Təkrar Yoxla&quot; düyməsinə basın.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -78,13 +77,11 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server bağlantını rədd etdi">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Proxy tənzimləmələrinin düzgün qurulmuş olmasını yoxlayın.</li> 
+<li>Şəbəkə administratoru ilə əlaqə saxlayıb proxy serverinizin işlək 
+olmasından əmin olun.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy-server tapılmadı">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
@@ -95,12 +92,10 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Bu problem, əsasən, çərəzləri söndürdükdə və ya qəbul etmədikdə 
+<li> baş verir.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
 <!ENTITY unknownSocketType.longDesc "<ul> 

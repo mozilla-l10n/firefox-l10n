@@ -29,7 +29,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsCrashIDs "Çökmə hesabatları">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
 
-<!ENTITY aboutSupport.showDir.label "Yerləşdiyi qovluğu aç">
+<!ENTITY aboutSupport.showDir.label "Qovluğu Aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->

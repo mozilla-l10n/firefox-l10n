@@ -22,7 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefoxu istədiyiniz şəkilində özünüzə uyğunlaşdırmaq çox asandı. <a>Minlərcə əlavədən istədiyinizi seçin</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; qeyri-kommersial Mozilla Fondundan pulsuz və açıq qaynaqlı proqramdır. <a>Hüquqlarını bil…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Əlfəcinlər">
 <!ENTITY abouthome.historyButton.label   "Tarixcə">

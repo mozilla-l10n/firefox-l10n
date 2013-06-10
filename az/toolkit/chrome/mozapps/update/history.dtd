@@ -5,7 +5,7 @@
 
 <!ENTITY  history.title             "Yeniləmə keçmişi">
 <!ENTITY  history.intro             "Bu yeniləmələr yükləndi:">
-<!ENTITY  closebutton.label         "Kapat">
+<!ENTITY  closebutton.label         "Qapat">
                                      
 <!ENTITY  noupdates.label           "Heç bir yeniləmə yüklənməyib">
 

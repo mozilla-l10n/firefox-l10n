@@ -19,12 +19,12 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "t">
 <!ENTITY cmd.cancel.label                 "ləğv et">
 <!ENTITY cmd.cancel.accesskey             "v">
-<!ENTITY cmd.show.label                   "Yerləşdiyi qovluğu aç">
-<!ENTITY cmd.show.accesskey               "d">
+<!ENTITY cmd.show.label                   "Yerləşdiyi Qovluğu Aç">
+<!ENTITY cmd.show.accesskey               "Q">
 <!ENTITY cmd.showMac.label                "Finder-də göstər">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Open">
-<!ENTITY cmd.open.accesskey               "O">
+<!ENTITY cmd.open.label                   "Aç">
+<!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Bununla Aç…">
 <!ENTITY cmd.openWith.accesskey           "l">
 <!ENTITY cmd.retry.label                  "Təkrar yoxla">

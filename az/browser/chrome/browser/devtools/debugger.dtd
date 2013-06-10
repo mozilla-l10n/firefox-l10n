@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 
-<!ENTITY debuggerUI.closeButton.tooltip "Kapat">
+<!ENTITY debuggerUI.closeButton.tooltip "Qapat">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
 

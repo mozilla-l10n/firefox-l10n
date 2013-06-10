@@ -17,10 +17,10 @@
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Bu seans üçün icazə ver">
 <!ENTITY session.accesskey            "r">
-<!ENTITY allow.label                  "İzin ver">
-<!ENTITY allow.accesskey              "e">
+<!ENTITY allow.label                  "İcazə ver">
+<!ENTITY allow.accesskey              "İ">
 <!ENTITY windowClose.key              "ü">
 
-<!ENTITY button.close.label           "Kapat">
-<!ENTITY button.close.accesskey       "K">
+<!ENTITY button.close.label           "Qapat">
+<!ENTITY button.close.accesskey       "Q">
 

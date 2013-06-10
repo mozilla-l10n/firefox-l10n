@@ -18,7 +18,7 @@
 <!ENTITY permissions.forgetSite          "Bu saytı unut">
 
 <!ENTITY permission.alwaysAsk            "Həmişə soruş">
-<!ENTITY permission.allow                "İzin ver">
+<!ENTITY permission.allow                "İcazə ver">
 <!ENTITY permission.allowForSession      "Bu seans üçün icazə ver">
 <!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
 <!ENTITY permission.block                "Blokla">
@@ -26,10 +26,10 @@
 <!ENTITY password.label                  "Şifrələri saxla">
 <!ENTITY password.manage                 "Şifrələri idarə et…">
 
-<!ENTITY cookie.label                    "Cookie saxla">
-<!ENTITY cookie.remove                   "Cookieləri sil">
-<!ENTITY cookie.manage                   "Cookieləri idarə et…">
-<!ENTITY cookie.removeAll                "Bütün cookieləri sil">
+<!ENTITY cookie.label                    "Çərəzləri Qur">
+<!ENTITY cookie.remove                   "Çərəzləri Sil">
+<!ENTITY cookie.manage                   "Çərəzləri İdarə et…">
+<!ENTITY cookie.removeAll                "Bütün Çərəzləri Sil">
 
 <!ENTITY geo.label                       "Ünvanımı paylaş">
 
@@ -39,6 +39,6 @@
 
 <!ENTITY indexedDB.label                 "Offline fayl saxlamanı idarə et">
 
-<!ENTITY popup.label                     "İstənməyən pəncərələri aç">
+<!ENTITY popup.label                     "Peyda olan Pəncərələri Aç">
 
 <!ENTITY fullscreen.label                "Tam ekran">

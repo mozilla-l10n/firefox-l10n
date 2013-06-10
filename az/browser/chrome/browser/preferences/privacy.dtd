@@ -24,10 +24,10 @@
 <!ENTITY  locbar.bookmarks.label        "Əlfəcinlər">
 <!ENTITY  locbar.nothing.label          "Heçnə">
 
-<!ENTITY  acceptCookies.label           "Saytlardan cookie qəbul et">
-<!ENTITY  acceptCookies.accesskey       "k">
+<!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
+<!ENTITY  acceptCookies.accesskey       "e">
 
-<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et">
+<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">
 <!ENTITY  acceptThirdParty.always.label   "Hər zaman">
 <!ENTITY  acceptThirdParty.never.label    "Heç zaman">
@@ -37,14 +37,14 @@
 <!ENTITY  keepUntil.accesskey           "t">
 
 <!ENTITY  expire.label                  "vaxtı bitənədək">
-<!ENTITY  close.label                   "&brandShortName; kapatılana dek">
+<!ENTITY  close.label                   "&brandShortName; qapatanadək">
 <!ENTITY  askEachTime.label             "hər dəfə məndən soruş">
 
 <!ENTITY  cookieExceptions.label        "İstisnalar…">
 <!ENTITY  cookieExceptions.accesskey    "a">
 
-<!ENTITY  showCookies.label             "Cookieləri göstər…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Çərəzləri Göstər…">
+<!ENTITY  showCookies.accesskey         "G">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; proqramı:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
@@ -53,7 +53,7 @@
 <!ENTITY  historyHeader.custom.label       "Xüsusi nizamlamalar istifadə ediləcək">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; baxış, yükləmə, form və axtarış keçmişlərinizi xatırlamayacaq; baxdığınız web saytlarının cookielərini saxlayacaq.">
+<!ENTITY  rememberDescription.label      "&brandShortName; sizin səyahət, endirmə, forma və axtarış tarixçənizi xatırlayacaq, və daxil olduğunuz veb saytlardan çərəzləri saxlayacaq.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -61,7 +61,7 @@
 <!ENTITY  rememberActions.pre.label           "İstəsəniz ">
 <!ENTITY  rememberActions.clearHistory.label  "yaxın keçmişinizi silin">
 <!ENTITY  rememberActions.middle.label        " və ya ">
-<!ENTITY  rememberActions.removeCookies.label "cookieləri tək-tək silin">
+<!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri sil">
 <!ENTITY  rememberActions.post.label          "açıqlanmışdır.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz internetdə gəzişərkən keçmişlə bağlı heçnə xatırlamayacaq.">

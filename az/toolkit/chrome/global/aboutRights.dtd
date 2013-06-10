@@ -58,7 +58,7 @@
 
 <!ENTITY rights.safebrowsing-a "Təhlükəsiz baxış: ">
 <!ENTITY rights.safebrowsing-b "Təhlükəsiz Baxış funsiyasını söndürməyiniz etibar edilməyən saytlara girməyinizlə nəticələnə biləcəyi üçün tövsiyyə edilmir. Bu funksiyanı tamam söndürmək istəyirsinizsə bu addımları təkrarlayın:">
-<!ENTITY rights.safebrowsing-term1 "Proqram seçimlərini açın">
+<!ENTITY rights.safebrowsing-term1 "Proqram tərcehlərini aç">
 <!ENTITY rights.safebrowsing-term2 "Təhlükəsizlik bölməsini seçin">
 <!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Təhlükəsiz baxış artıq söndürülüb">

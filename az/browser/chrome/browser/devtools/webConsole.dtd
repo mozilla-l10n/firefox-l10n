@@ -9,19 +9,19 @@
 
 
 <!ENTITY window.title "Web konsulu">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "Səyyah Konsolu">
 
 <!ENTITY networkPanel.requestURLColon             "Request URL:">
 <!ENTITY networkPanel.requestMethodColon          "Request Method:">
 <!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
 <!ENTITY networkPanel.requestHeaders              "İstək başlığı">
-<!ENTITY networkPanel.requestCookie               "Gönderilən cookielər">
+<!ENTITY networkPanel.requestCookie               "Gönderilən Çərəz">
 <!ENTITY networkPanel.requestBody                 "İstək gövdəsi">
 <!ENTITY networkPanel.requestFormData             "Gönderilen form məlumatları">
 
 <!ENTITY networkPanel.responseHeaders             "Cavab başlıqı">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+<!ENTITY networkPanel.responseCookie              "Qəbul edilən Çərəz">
 <!ENTITY networkPanel.responseBody                "Cavab gövdəsi">
 <!ENTITY networkPanel.responseBodyCached          "Yaddaşdakı məlumat">
 <!ENTITY networkPanel.responseBodyUnknownType     "Naməlum məzmun formatı">
@@ -36,8 +36,8 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "URL-u Yeni Vərəqdə Aç">
+<!ENTITY openURL.accesskey "V">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output

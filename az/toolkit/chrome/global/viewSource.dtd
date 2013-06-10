@@ -24,8 +24,8 @@
 <!ENTITY printCmd.label "Çap et…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Kapat">
-<!ENTITY closeCmd.accesskey "K">
+<!ENTITY closeCmd.label "Qapat">
+<!ENTITY closeCmd.accesskey "Q">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and

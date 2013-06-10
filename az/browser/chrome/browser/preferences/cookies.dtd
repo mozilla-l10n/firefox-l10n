@@ -4,14 +4,14 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Aşağıdakı cookielər sisteminizdə saxlanılıb:">
-<!ENTITY     cookiename.label               "Cookie adı">
+<!ENTITY     cookiesonsystem.label          "Aşağıdakı çərəzlər kompüterinizdə saxlanılıb:">
+<!ENTITY     cookiename.label               "Çərəz Adı">
 <!ENTITY     cookiedomain.label             "Sayt"> 
-<!ENTITY     button.removecookies.label     "Cookieləri sil">
-<!ENTITY     button.removecookie.label      "Cookieni sil">
-<!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "Bütün cookieləri sil">
-<!ENTITY     button.removeallcookies.accesskey "t">
+<!ENTITY     button.removecookies.label     "Çərəzləri Sil">
+<!ENTITY     button.removecookie.label      "Çərəzləri Sil">
+<!ENTITY     button.removecookie.accesskey  "S">
+<!ENTITY     button.removeallcookies.label  "Bütün Çərəzləri Sil">
+<!ENTITY     button.removeallcookies.accesskey "B">
 
 <!ENTITY     props.name.label               "İsim:">
 <!ENTITY     props.value.label              "Məlumat:">
@@ -20,7 +20,7 @@
 <!ENTITY     props.secure.label             "Server təhlükəsizliyi:">
 <!ENTITY     props.expires.label            "Sona çatma tarixi:">
 
-<!ENTITY     window.title                   "Cookielər">
+<!ENTITY     window.title                   "Çərəzlər">
 <!ENTITY     windowClose.key                "ü">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
@@ -28,5 +28,5 @@
 <!ENTITY     filter.label                   "Axtar:">
 <!ENTITY     filter.accesskey               "A">
 
-<!ENTITY     button.close.label             "Kapat">
-<!ENTITY     button.close.accesskey         "K">
+<!ENTITY     button.close.label             "Qapat">
+<!ENTITY     button.close.accesskey         "Q">

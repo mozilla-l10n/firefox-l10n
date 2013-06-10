@@ -68,8 +68,8 @@
 <!ENTITY certmgr.email                        "E-poçt ünvanı">
 <!ENTITY certmgr.serial                       "Seriya nömrəsi">
 
-<!ENTITY certmgr.close.label                  "Kapat">
-<!ENTITY certmgr.close.accesskey              "K">
+<!ENTITY certmgr.close.label                  "Qapat">
+<!ENTITY certmgr.close.accesskey              "Q">
 <!ENTITY certmgr.view2.label                  "Bax…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Təhlükəsizlik nizamları...">

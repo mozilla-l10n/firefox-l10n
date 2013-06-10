@@ -16,5 +16,5 @@
 <!ENTITY highlight.label "Hamısını işıqlandır">
 <!ENTITY highlight.accesskey "H">
 <!ENTITY highlight.tooltiptext "Mətndə uyğun gələn bütün ifadələri işıqlandır">
-<!ENTITY caseSensitiveCheckbox.label "Match case">
+<!ENTITY caseSensitiveCheckbox.label "Reqistri nəzərə al">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">

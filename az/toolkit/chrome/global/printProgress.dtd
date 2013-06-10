@@ -10,7 +10,7 @@
 <!ENTITY printComplete "Çap tamamlandı.">
 
 <!ENTITY dialogCancel.label "ləğv et"> 
-<!ENTITY dialogClose.label "Kapat">
+<!ENTITY dialogClose.label "Qapat">
 <!-- LOCALIZATION NOTE (percentPrint):
 
     This string is used to format the text to the right of the progress

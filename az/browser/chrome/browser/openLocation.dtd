@@ -4,11 +4,11 @@
 <!-- extracted from content/openLocation.xul -->
 
 
-<!ENTITY enter.label "Ünvanı (URL) daxil edin ya da açmaq istədiyiniz lokal faylı göstərin:">  
+<!ENTITY enter.label "Veb ünvanı (URL) daxil edin ya da açmaq istədiyiniz lokal faylı göstərin:">  
 <!ENTITY chooseFile.label "Fayl seç…">
 <!ENTITY newTab.label "Yeni vərəq">
 <!ENTITY newWindow.label "Yeni pəncərə">
 <!ENTITY topTab.label "İndiki vərəq">
-<!ENTITY caption.label "Web ünvanı aç">
+<!ENTITY caption.label "Veb Ünvanı Aç">
 <!ENTITY openWhere.label "Bununla aç:">
-<!ENTITY openBtn.label "Open">
+<!ENTITY openBtn.label "Aç">

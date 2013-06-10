@@ -50,9 +50,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Ünvanı aç…">
-<!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "Fayl aç…">
-<!ENTITY openFileCmd.accesskey "a">
+<!ENTITY openLocationCmd.accesskey "Ü">
+<!ENTITY openFileCmd.label "Fayl Aç…">
+<!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Səhifə nizamı…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -95,12 +95,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "Kiçilt">
 <!ENTITY fullScreenRestore.tooltip "Geri qaytar">
-<!ENTITY fullScreenClose.tooltip "Kapat">
+<!ENTITY fullScreenClose.tooltip "Qapat">
 <!ENTITY fullScreenAutohide.label "Alət sətirlərini gizlə">
 <!ENTITY fullScreenAutohide.accesskey "g">
 <!ENTITY fullScreenExit.label "Tam ekran rejimdən çıx">
 <!ENTITY fullScreenExit.accesskey "e">
-<!ENTITY fullscreenAllowButton.label "İzin ver">
+<!ENTITY fullscreenAllowButton.label "İcazə ver">
 <!ENTITY fullscreenExitButton.label "Reddet">
 <!ENTITY fullscreenApproval.value "Tam ekrana icazə verilsin?">
 
@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Səhifəni Əlfəcinlə">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "Səhifəni Paylaş">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "P">
+<!ENTITY shareLinkCmd.label "Keçidi Paylaş">
+<!ENTITY shareLinkCmd.accesskey "P">
+<!ENTITY shareImageCmd.label "Şəkili Paylaş">
+<!ENTITY shareImageCmd.accesskey "P">
+<!ENTITY shareSelectCmd.label "Seçilənləri Paylaş">
+<!ENTITY shareSelectCmd.accesskey "P">
+<!ENTITY shareVideoCmd.label "Videonu Paylaş">
+<!ENTITY shareVideoCmd.accesskey "P">
 <!ENTITY subscribeToPageMenupopup.label "Bu səhifəyə abunə ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
 <!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "Səyyah Konsolu">
 
 <!ENTITY inspectContextMenu.label     "Obyekti araşdır">
 <!ENTITY inspectContextMenu.accesskey "g">
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Nizam"> 
 <!ENTITY editMenu.accesskey       "z"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Geri al">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "G"> 
 <!ENTITY redoCmd.label            "Təkrarla">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -362,18 +362,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "a">
 
-<!ENTITY openLinkCmdInTab.label       "Yeni vərəqdə aç">
-<!ENTITY openLinkCmdInTab.accesskey   "Y">
-<!ENTITY openLinkCmd.label            "Yeni pəncərədə aç">
-<!ENTITY openLinkCmd.accesskey        "p">
-<!ENTITY openLinkInPrivateWindowCmd.label "Linki Yeni pəncərədə aç">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Bağlantını aç">
-<!ENTITY openLinkCmdInCurrent.accesskey "B">
-<!ENTITY openFrameCmdInTab.label      "Çərçivəni yeni vərəqdə aç">
-<!ENTITY openFrameCmdInTab.accesskey  "v">
-<!ENTITY openFrameCmd.label           "Çərçivəni yeni pəncərədə aç">
-<!ENTITY openFrameCmd.accesskey       "e">
+<!ENTITY openLinkCmdInTab.label       "Keçidi Yeni Vərəqdə Aç">
+<!ENTITY openLinkCmdInTab.accesskey   "V">
+<!ENTITY openLinkCmd.label            "Keçidi Yeni Pəncərədə Aç">
+<!ENTITY openLinkCmd.accesskey        "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Keçidi Yeni Məxfi Pəncərədə Aç">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "M">
+<!ENTITY openLinkCmdInCurrent.label     "Keçidi Aç">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
+<!ENTITY openFrameCmdInTab.label      "Çərçivəni Yeni Vərəqdə Aç">
+<!ENTITY openFrameCmdInTab.accesskey  "V">
+<!ENTITY openFrameCmd.label           "Çərçivəni Yeni Pəncərədə Aç">
+<!ENTITY openFrameCmd.accesskey       "P">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadəcə bu çərçivəni göstər">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -514,8 +514,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.label        "Uzaqlaşdır">
+<!ENTITY fullZoomReduceCmd.accesskey    "U">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "Kiçild">
 
@@ -530,7 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Y">
 
 <!ENTITY newTabButton.tooltip           "Yeni vərəq aç">
-<!ENTITY newWindowButton.tooltip        "Yeni pencere aç">
+<!ENTITY newWindowButton.tooltip        "Yeni pəncərə aç">
 <!ENTITY sidebarCloseButton.tooltip     "Kənar bölməni bağla">
 
 <!ENTITY cutButton.tooltip              "Kes">
@@ -553,9 +553,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "Kapat">  
+<!ENTITY closeCmd.label                 "Qapat">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "K">
+<!ENTITY closeCmd.accesskey             "Q">
 
 <!ENTITY pageStyleMenu.label "Səhifə stili">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -624,7 +624,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; quraşdırılması…">
 <!ENTITY syncSetup.accesskey          "k">
-<!ENTITY syncSyncNowItem.label        "Sync Now">
+<!ENTITY syncSyncNowItem.label        "İndi Sinxronizə et">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sinxronlaşdırma">
 
@@ -645,12 +645,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Show desktop notifications">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+<!ENTITY social.activated.description "<label/> tərəfindən olan servislər aktivləşdirildi. Siz servislər üçün olan tənzimləmələrinizi <label class='text-link'>Əlavələrin İdarəsi</label> bölümündə dəyişə bilərsiniz">
+<!ENTITY social.activated.undo.label "Uups, bunu geri al!">
+<!ENTITY social.activated.undo.accesskey "g">
+<!ENTITY social.learnMore.label "Daha çox öyrən…">
+<!ENTITY social.learnMore.accesskey "ö">
+<!ENTITY social.closeNotificationItem.label "İndi Yox">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Çatlara keç">

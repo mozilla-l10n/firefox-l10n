@@ -29,11 +29,11 @@
 <!ENTITY newWindowCmd.accesskey       "n">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Fayl aç…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Fayl Aç…">
+<!ENTITY openFileCmd.accesskey        "A">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Son istifadə olunanları aç">
+<!ENTITY openRecentMenu.label         "Sonuncuları Aç">
 <!ENTITY openRecentMenu.accesskey     "S">
 
 <!ENTITY revertCmd.label              "Revert…">
@@ -46,9 +46,9 @@
 <!ENTITY saveFileAsCmd.label          "Fərqli saxla">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
-<!ENTITY closeCmd.label               "Kapat">
+<!ENTITY closeCmd.label               "Qapat">
 <!ENTITY closeCmd.key                 "K">
-<!ENTITY closeCmd.accesskey           "K">
+<!ENTITY closeCmd.accesskey           "Q">
 
 <!ENTITY editMenu.label               "Nizam">
 <!ENTITY editMenu.accesskey           "E">

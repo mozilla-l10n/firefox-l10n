@@ -54,13 +54,13 @@
 <!ENTITY  permTab.accesskey     "z">
 <!ENTITY  permUseDefault        "Standartdan istifadə et">
 <!ENTITY  permAskAlways         "Həmişə soruş">
-<!ENTITY  permAllow             "İzin ver">
+<!ENTITY  permAllow             "İcazə ver">
 <!ENTITY  permAllowSession      "Bu seans üçün icazə ver">
 <!ENTITY  permBlock             "Blokla">
 <!ENTITY  permissionsFor        "İzinler:">
 <!ENTITY  permImage             "Şəkilləri yüklə">
-<!ENTITY  permPopup             "İstənməyən pəncərələri aç">
-<!ENTITY  permCookie            "Cookie saxla">
+<!ENTITY  permPopup             "Peyda olan Pəncərələri Aç">
+<!ENTITY  permCookie            "Çərəz Qur">
 <!ENTITY  permNotifications     "Bildirişləri Göstər">
 <!ENTITY  permInstall           "Bildirişləri Göstər">
 <!ENTITY  permGeo               "Ünvanımı paylaş">
@@ -87,8 +87,8 @@
 
 <!ENTITY  securityView.privacy.header                   "Təhlükəsizlik və keçmiş">
 <!ENTITY  securityView.privacy.history                  "Bu saytı daha əvvəl açmışam?">
-<!ENTITY  securityView.privacy.cookies                  "Bu sayt komputerimdə məlumat (cookie) saxlayır?">
-<!ENTITY  securityView.privacy.viewCookies              "Cookieləri göstər">
+<!ENTITY  securityView.privacy.cookies                  "Bu sayt kompüterimdə məlumat (çərəzlər) saxlayırmı?">
+<!ENTITY  securityView.privacy.viewCookies              "Çərəzləri Gör">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
 <!ENTITY  securityView.privacy.passwords                "Bu sayta aid bir şifrə saxlamışam?">
 <!ENTITY  securityView.privacy.viewPasswords            "Saxlanan şifrələri göstər">

@@ -49,7 +49,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
-<!ENTITY netmonitorUI.tab.cookies         "Cookielər">
+<!ENTITY netmonitorUI.tab.cookies         "Çərəzlər">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
 

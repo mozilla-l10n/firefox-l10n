@@ -40,7 +40,7 @@
 <!ENTITY update.progress.label       "Seçdiyiniz əlavələr üçün yenilənmələr yüklənilir və quraşdırılır.">
 
 <!ENTITY errors.heading              "&brandShortName; bəzi əlavələriniz yeniləyə bilmədi.">
-<!ENTITY errors.description          "Bəzi əlavələrinizin yenilənməsi yüklənə bilmədi. &brandShortName; bunları yeniləməyə daha sonra avtomatik cəhd edəcək.">
+<!ENTITY errors.description          "Bəzi əlavələrinizin yenilənməsi endirilə bilmədi. &brandShortName; bunları yeniləməyə daha sonra avtomatik cəhd edəcək.">
 
 <!ENTITY footer.label                "Əlavələrinizi dəyişdirmək üçün istədiyiniz zaman Əlavə idarəçəsinə girə bilərsiniz.">
 <!ENTITY cancel.label                "ləğv et">
