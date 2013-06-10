@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.label "اس صفحہ کو بانٹیں">
+<!ENTITY sharePageCmd.commandkey "س">
+<!ENTITY sharePageCmd.accesskey "ب">
+<!ENTITY shareLinkCmd.label "اس ربط کو بانٹیں">
+<!ENTITY shareLinkCmd.accesskey "ب">
+<!ENTITY shareImageCmd.label "اس نقش کو بانٹیں">
+<!ENTITY shareImageCmd.accesskey "ب">
+<!ENTITY shareSelectCmd.label "منتخب حصہ بانٹیں">
+<!ENTITY shareSelectCmd.accesskey "ب">
+<!ENTITY shareVideoCmd.label "یہ وڈیو بانٹیں">
+<!ENTITY shareVideoCmd.accesskey "ب">
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں ...">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں ...">
@@ -218,14 +218,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "براؤزر کنسول">
 
 <!ENTITY inspectContextMenu.label     "ایلیمنٹ چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "چ">
 
 <!ENTITY responsiveDesignTool.label   "رسپانسو ڈیزائن نظارہ">
 <!ENTITY responsiveDesignTool.accesskey "ر">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.commandkey "م">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "تدوین"> 
 <!ENTITY editMenu.accesskey       "ت"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "کالعدم کریں">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "ک"> 
 <!ENTITY redoCmd.label            "اعادہ کریں">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ا"> 
@@ -551,7 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "ک">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; خروج کریں">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmdUnix.key     "ق">
 
 <!ENTITY closeCmd.label                 "بند کریں">  
 <!ENTITY closeCmd.key                   "W">  
