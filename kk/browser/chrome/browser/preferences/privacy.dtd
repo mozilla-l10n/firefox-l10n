@@ -4,9 +4,6 @@
 
 <!ENTITY tracking.label                 "Тексеріп отыру">
 
-<!ENTITY doNotTrack.label               "Веб сайттарға мені бақыламауды айту">
-<!ENTITY doNotTrack.accesskey           "м">
-
 <!ENTITY  history.label                 "Тарихы">
 
 <!ENTITY  locationBar.label             "Адрес жолы">
@@ -21,9 +18,6 @@
 
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
-
-<!ENTITY  acceptThirdParty.label        "Үшінші жақтан cookies қабылдау">
-<!ENTITY  acceptThirdParty.accesskey    "ш">
 
 <!ENTITY  keepUntil.label               "Келесі уақыт бойы cookies сақтау:">
 <!ENTITY  keepUntil.accesskey           "у">

@@ -67,7 +67,3 @@
 
 <!ENTITY  allowPagesToUse.label                   "Орнатылғаннан бөлек, веб-сайттарға өздерінің қаріптерін қолдануға рұқсат беру">
 <!ENTITY  allowPagesToUse.accesskey               "О">
-
-<!ENTITY languages.customize.Charset.grouplabel         "Кодталуы">
-<!ENTITY languages.customize.DefaultCharset.label       "Негізгі кодталуы">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "Н">
