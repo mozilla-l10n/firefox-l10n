@@ -15,3 +15,6 @@
 <!ENTITY options.selectDevToolsTheme.label "Elegir el tema de las herramientas de desarrollador:">
 <!ENTITY options.darkTheme.label "Tema oscuro">
 <!ENTITY options.lightTheme.label "Tema claro">
+<!ENTITY options.webconsole.label "Consola web">
+<!ENTITY options.enablePersistentLogging.label "Activar la conservación del registro">
+<!ENTITY options.enablePersistentLogging.tooltip "Si activa esta opción, la consola web no vaciará la salida cada vez que navegue a una nueva página">
