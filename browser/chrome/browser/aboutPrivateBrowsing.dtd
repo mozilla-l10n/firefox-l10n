@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "निज ब्राउज़िंग आरंभ करबाक लेल, अहाँ सँगे &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; केँ चुनि सकैत छी.">
+<!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "निजी ब्राउज़िंग रोकबाक लेल, अहाँ ई विंडो केँ बन्न कए सकैत छी.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "जहँ एहि कंप्यूटर मे अहाँक ब्राउजिंग इतिहास क रिकार्ड नहि रहताह अहाँक इंटरनेट सेवा प्रदाता अथवा नियोक्ता अहाँक द्वारा देखल गेल पन्नासभकेँ ट्रैक कए सकैत अछि .">
