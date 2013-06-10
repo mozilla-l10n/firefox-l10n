@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
 
-<!ENTITY netmonitorUI.toolbar.method      "Method">
+<!ENTITY netmonitorUI.toolbar.method      "Yöntem">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
 
@@ -29,11 +29,11 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
 
-<!ENTITY netmonitorUI.toolbar.domain      "Domain">
+<!ENTITY netmonitorUI.toolbar.domain      "Alan">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
-<!ENTITY netmonitorUI.toolbar.type        "Type">
+<!ENTITY netmonitorUI.toolbar.type        "Tür">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column. -->
 
@@ -73,11 +73,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
-<!ENTITY netmonitorUI.summary.method      "Request method:">
+<!ENTITY netmonitorUI.summary.method      "İstek yöntemi:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
-<!ENTITY netmonitorUI.summary.status      "Status code:">
+<!ENTITY netmonitorUI.summary.status      "Durum kodu:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 

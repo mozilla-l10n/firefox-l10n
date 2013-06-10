@@ -30,17 +30,17 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Default Firefox Developer Tools">
+<!ENTITY options.selectDefaultTools.label     "Varsayılan Firefox Geliştirici Araçları">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Developer Tools installed by add-ons">
+<!ENTITY options.selectAdditionalTools.label  "Eklentiler tarafından kurulan geliştirici araçları">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label             "Dark theme">
-<!ENTITY options.lightTheme.label            "Light theme">
+<!ENTITY options.selectDevToolsTheme.label   "Geliştirme Araçları teması seçin:">
+<!ENTITY options.darkTheme.label             "Koyu tema">
+<!ENTITY options.lightTheme.label            "Açık tema">
