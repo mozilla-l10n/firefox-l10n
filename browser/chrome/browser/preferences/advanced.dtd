@@ -115,6 +115,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "F">
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
+<!ENTITY certificateTab.label            "Sertifikaten">
 <!ENTITY certSelection.description       "As in webstee in sertifikaat fereasket:">
 <!ENTITY certs.auto              "Automatysk ien selektearje">
 <!ENTITY certs.auto.accesskey      "A">
