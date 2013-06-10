@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "i-&brandFullName; isebenzisa iinkonzo zenkcukacha esekeke kwiwebhu (&quot;Services&quot;) ukunikeza ngezinye zeempawu ezinikezelwe ukusebenzisa kwakho ngale nguqulelo yebhayinari ye-&brandShortName; ngaphantsi kwemiqathango echazwe ngaphantsi. Ukuba akufuni ukusebenzisa enye okanye ezinye zeenkonzo okanye ukuba imiqathango engezantsi ayamnkelekanga, ungaluqhwalelisa uphawu okanye i(i)nkonzo. Imiyalelo yokuqhwalelisa uphawu oluthile okanye inkonzo ifumaneka ">
 <!ENTITY rights2.webservices-b "apha">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
+<!ENTITY rights3.webservices-c ". Ezinye iinkalo neeNkonzo zinokuvalwa zingasebenzi kwiipriferensi zokusebenza.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Ukubhrawuza okukhuselekileyo: ">
