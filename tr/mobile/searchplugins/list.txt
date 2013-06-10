@@ -1,3 +1,4 @@
 google
+yandex
 twitter
 wikipedia-tr 
