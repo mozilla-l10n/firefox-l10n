@@ -19,8 +19,7 @@
 <!ENTITY rights.intro-point1b "Մոզիլլայի Հանրային Արտոնագիր">
 <!ENTITY rights.intro-point1c ": Սա նշանակում է դուք կարող եք օգտագործել, կրկնօրինակել և բաժանել &brandShortName; -ը ուրիշներին: Դուք նաև կարող էք փոփոխել &brandShortName; -ի ծրագրային կոդը ըստ ձեր կարիքների: Մողիլլայի Հանրային Արտոնագիրը նաև հնարավորություն է տալիս ձեզ բաժանել ձեր փոփոխած տարբերակը:">
 
-<!ENTITY rights.intro-point2-a "Ձեզ շնորհված չէ որևէ ապրանքանշանի իրավունքներ կամ արտոնություններ Մոզիլլա Ֆաունդեյշնի կամ այլ ապրանքանշերի նկատմամբ,ինչպես նաև առանց սահմանափակումների Ֆայրֆոքս անունը կամ լոգոն օգտագործելու համար: 
-Հնարավոր է տեղեկանալ ապրանքանշերի վերաբերյալ լրացուցիչ ինֆորմացիային ">
+<!ENTITY rights.intro-point2-a "Ձեզ շնորհված չէ որևէ ապրանքանշանի իրավունքներ կամ արտոնություններ Mozilla Foundation-ի կամ այլ ապրանքանշերի նկատմամբ, ինչպես նաև Firefox անունը կամ լոգոն օգտագործելու համար: Մանրամասները՝">
 <!ENTITY rights.intro-point2-b "այստեղ">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
@@ -29,7 +28,7 @@
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Թե ինչպես ենք մենք օգտագործում ձեր անձնական տեղեկատվությունը և հետադարձ կապը`ներկայացված &vendorShortName;-ին &brandShortName;-ի միջոցով,նկարագրված է այստեղ ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Անվտանգության Քաղաքականությունը">
+<!ENTITY rights2.intro-point3b "&brandShortName;-ի Անվտանգության Քաղաքականությունը">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
@@ -54,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; օգտագործում է վեբ կայքի տեղեկատվական ծառայություններ (&quot;Services&quot;), որպեսզի ապահովի որոշ հատկություններ &brandShortName;-ի երկուական տարբերակի օգտագործման համար`համաձայն ստորև բերված պայմանների:Եթե դուք չեք ցանկանում օգտվել որոշ ծառայություններից կամ չեք ընդունում պայմանները, դուք կարող եք անջատել հատկությունը կամ ծառայությունը(ները):Կարող եք գտնել ցուցումերը, թե ինչպես անջատեք առանձնակի հատկություն կամ ծառայություն: ">
 <!ENTITY rights2.webservices-b "այստեղ">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
+<!ENTITY rights3.webservices-c ": Այլ հնարավորությունները և ծառայությունները կարող են անջատվել ծրագրի կարգավորումներից:                ">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">

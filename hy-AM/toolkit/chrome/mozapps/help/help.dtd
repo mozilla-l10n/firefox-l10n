@@ -8,14 +8,14 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Հետ">
-<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.label               "Նախրոդը">
+<!ENTITY backButton.accesskey           "Ն">
 <!ENTITY backButton.tooltip             "Մեկ քայլ հետ">
 <!ENTITY forwardButton.label            "Առաջ">
-<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.accesskey        "Ա">
 <!ENTITY forwardButton.tooltip          "Մեկ էջ առաջ">
 <!ENTITY copyCmd.label                  "Պատճենել">
-<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY copyCmd.accesskey              "Պ">
 <!ENTITY selectAllCmd.label             "Նշել բոլորը">
 <!ENTITY selectAllCmd.accesskey         "բ">
 <!ENTITY goBackCmd.commandkey           "[">
@@ -29,7 +29,7 @@
 <!ENTITY search.emptytext               "Որոնում">
 <!ENTITY searchHeader.label             "Որոնման արդյունքներ">
 <!ENTITY toctab.label                   "Բովանդակություն">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY toctab.accesskey               "Բ">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -48,10 +48,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Միշտ Վերը">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.label                   "Միշտ Առջևում">
+<!ENTITY zLevel.accesskey               "Ա">
 
 <!ENTITY fullZoomReduceBtn.label        "Փոքրացնել">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomReduceBtn.accesskey    "ա">
 <!ENTITY fullZoomEnlargeBtn.label       "Խոշորացնել">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "ա">

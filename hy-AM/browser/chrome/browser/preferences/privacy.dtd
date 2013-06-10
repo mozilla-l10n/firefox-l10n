@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "Հետևում">
 
-<!ENTITY dntTrackingNopref.label        "Կայքերին չհաղորդել հետևելու իմկարգավորումների մասին:">
+<!ENTITY dntTrackingNopref.label        "Կայքերին չհաղորդել հետևելու իմ կարգավորումների մասին:">
 <!ENTITY dntTrackingNopref.accesskey    "հ">
 <!ENTITY dntTrackingNotOkay.label       "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն:">
 <!ENTITY dntTrackingNotOkay.accesskey   "չ">
@@ -46,8 +46,8 @@
 <!ENTITY  showCookies.label             "Ցուցադրել Cookie-ները…">
 <!ENTITY  showCookies.accesskey         "Ց">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;-ը `">
-<!ENTITY  historyHeader.pre.accesskey      "`">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;-ը կսկսի`">
+<!ENTITY  historyHeader.pre.accesskey      "կ">
 <!ENTITY  historyHeader.remember.label     "Հիշել պատմությունը">
 <!ENTITY  historyHeader.dontremember.label "Երբեք չհիշել այցելությունները">
 <!ENTITY  historyHeader.custom.label       "Պատմւթյան համար օգտագործել սեփական կարգավորումները">

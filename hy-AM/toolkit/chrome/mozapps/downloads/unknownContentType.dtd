@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Ըտրել եք բացելու համար.">
+<!ENTITY  intro2.label                "Ընտրել եք բացելու համար.">
 <!ENTITY  from.label                  "աղբյուրը.">
 <!ENTITY  actionQuestion.label        "Ի՞նչ պիտի &brandShortName;­ն անի այս ֆայլի հետ:">
 
@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Այս պահից սկսած ինքնաբար կատարել նմանատիպ ֆայլերի համար">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "ֆայլի տեսակը.">
 
 <!ENTITY  chooseHandlerMac.label      "Ընտրել…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

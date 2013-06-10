@@ -15,8 +15,8 @@
 <!ENTITY setup.choicePage.existing2.label "Ես արդեն օգտագործում եմ &syncBrand.shortName.label;-ը այլ սարքում">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label               "Սպասարկչ">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
+<!ENTITY server.label               "Սպասարկիչ">
+<!ENTITY serverType.default.label      "Mozilla-ի հիմնական սպասարկիչը՝ &syncBrand.fullName.label; ">
 <!ENTITY serverType.custom2.label   "Օգտագործել ընտրված սպասարկիչը…">
 <!ENTITY signIn.account2.label      "Հաշիվ">
 <!ENTITY signIn.account2.accesskey  "Հ">
@@ -33,7 +33,7 @@
 <!ENTITY setup.choosePassword.accesskey  "Ը">
 <!ENTITY setup.confirmPassword.label     "Հաստատել գաղտնաբառը">
 <!ENTITY setup.confirmPassword.accesskey "Հ">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
+<!ENTITY setup.setupMetro.label     "Sync Windows 8-ի ոճով &brandShortName;">
 <!ENTITY setup.setupMetro.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -80,7 +80,7 @@
 <!ENTITY resetSyncKey.label           "Ես կորցրել եմ իմ մյուս սարքը:">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
+<!ENTITY setup.optionsPage.title      "Sync-ի ընտանքներ">
 <!ENTITY syncDeviceName.label       "Սարքի անունը.">
 <!ENTITY syncDeviceName.accesskey   "c">
 

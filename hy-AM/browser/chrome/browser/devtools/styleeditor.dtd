@@ -21,10 +21,10 @@
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 
 <!ENTITY saveButton.label           "Պահպանել">
-<!ENTITY saveButton.tooltip         "Save this style sheet to a file">
+<!ENTITY saveButton.tooltip         "Պահպանել ոճի այս ցանկը ֆայլում">
 <!ENTITY saveButton.accesskey       "Պ">
 
-<!ENTITY editorTextbox.placeholder  "Type CSS here.">
+<!ENTITY editorTextbox.placeholder  "Հավաքեք CSS-ը այստեղ:">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 

@@ -29,9 +29,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "Կրկին փորձել">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Բացել բեռնման էջը">
+<!ENTITY cmd.goToDownloadPage.label       "Բացել բեռնելու էջը">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Պատճենել բեռնման հասցեն">
+<!ENTITY cmd.copyDownloadLink.label       "Պատճենել բեռնելու հասցեն">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "Ջնջել ցանկից">
 <!ENTITY cmd.removeFromList.accesskey     "Ջ">
