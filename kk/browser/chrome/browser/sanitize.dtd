@@ -37,8 +37,6 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Қарап шығу және жүктемелер тарихы">
 <!ENTITY itemHistoryAndDownloads.accesskey "ш">
-<!ENTITY itemBrowsingHistory.label         "Қарап шығу тарихы">
-<!ENTITY itemBrowsingHistory.accesskey     "ш">
 <!ENTITY itemFormSearchHistory.label       "Формалардың іздеу тарихы">
 <!ENTITY itemFormSearchHistory.accesskey   "Ф">
 <!ENTITY itemPasswords.label               "Сақталған парольдерді">
@@ -49,8 +47,6 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "В">
 <!ENTITY itemOfflineApps.label             "Дербес веб-сайттар ақпараттарын">
 <!ENTITY itemOfflineApps.accesskey         "Д">
-<!ENTITY itemDownloadHistory.label         "Жүктемелер тарихы">
-<!ENTITY itemDownloadHistory.accesskey     "Ж">
 <!ENTITY itemActiveLogins.label            "Активті қосылулар">
 <!ENTITY itemActiveLogins.accesskey        "А">
 <!ENTITY itemSitePreferences.label         "Сайт баптауы">
@@ -60,6 +56,9 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Бұл әрекетті болдырмау мүмкін болмайды.">
-
-<!ENTITY dialog.width                 "32em">
-<!ENTITY column.width                 "14em">
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+     Clear History on Shutdown dialogs.  Should be large enough to contain
+     the item* strings above on a single line.  The column width should be set
+     at half of the dialog width. -->
+<!ENTITY dialog.width2                 "40em">
+<!ENTITY column.width2                 "17em">
