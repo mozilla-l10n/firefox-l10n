@@ -8,7 +8,7 @@
 <!ENTITY dntTrackingNopref.accesskey    "ม">
 <!ENTITY dntTrackingNotOkay.label       "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
 <!ENTITY dntTrackingNotOkay.accesskey   "บ">
-<!ENTITY dntTrackingOkay.label          "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
+<!ENTITY dntTrackingOkay.label          "บอกเว็บไซต์ต่าง ๆ ว่าติดตามฉัน">
 <!ENTITY dntTrackingOkay.accesskey      "ต">
 <!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
 
