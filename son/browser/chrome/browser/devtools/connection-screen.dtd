@@ -19,4 +19,4 @@
 <!ENTITY errorTimeout "Firka: waatoo ben.">
 <!ENTITY errorRefused "Firka: ciyaroo wanjandi.">
 <!ENTITY errorUnexpected "Firka kaŋ mana naatandi.">
-<!ENTITY help "Firefox cinakaw goyjinawey ga hin ka hasaraw kaa jinay moorantey ra (sanda Firefox Android še nda Firefox Os). Wa alhakiika kaŋ &quot;Remote debugging&quot; suubaroo n&apos; ka tunandi jinay mooraa ga. Dii <a target=&apos;_&apos; href=&apos;https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging&apos;>Takadda margari</a>ka bay ka tonton.">
+<!ENTITY help "Firefox cinakaw goyjinawey ga hin ka hasaraw kaa jinay moorantey ra (sanda Firefox Android še nda Firefox OS). Wa alhakiika kaŋ &quot;Remote debugging&quot; suubaroo n&apos; ka tunandi jinay mooraa ga. Dii <a target=&apos;_&apos; href=&apos;https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging&apos;>Takadda margari</a> ka bay ka tonton.">
