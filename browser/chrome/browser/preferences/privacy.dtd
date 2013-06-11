@@ -94,5 +94,4 @@
 <!ENTITY  acceptThirdParty.always.label   "Always">
 <!ENTITY  acceptThirdParty.never.label    "Never">
 <!ENTITY  acceptThirdParty.visited.label  "From visited">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+

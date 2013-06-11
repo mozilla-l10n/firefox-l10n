@@ -67,40 +67,17 @@ that require it.  -->
 <!ENTITY clearTimeDuration.dateColumn     "भेट दिनांक">
 <!ENTITY clearTimeDuration.nameColumn     "नाव">
 
-<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
-     of the "Details" progressive disclosure button.  See UI mockup at bug
-     480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "तपशील">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
-
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "इतिहास संचार व डाऊनलोड करत आहे">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-
-<!--
-<!ENTITY itemBrowsingHistory.label         "इतिहास तपासणी करत आहे">
-<!ENTITY itemBrowsingHistory.accesskey     "B">
--->
-
 <!ENTITY itemFormSearchHistory.label       "फॉर्म &amp; इतिहास शोधा">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-
-<!--
-<!ENTITY itemDownloadHistory.label         "इतिहास डाऊलोड करा">
-<!ENTITY itemDownloadHistory.accesskey     "D">
--->
-
 <!ENTITY itemCache.label                   "कॅशे">
 <!ENTITY itemCache.accesskey               "A">
 <!ENTITY itemSitePreferences.label         "स्थळ आवड निवड">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!ENTITY sanitizeEverythingUndoWarning     "ही कृती रद्द करणे अशक्य.">
-<!-- 
-<!ENTITY dialog.width                 "32em">
--->
 <!ENTITY sanitizePrefs2.title          "इतिहास पूसण्याकरीता संयोजना">
-<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
-<!ENTITY dialog.width2                 "34em">
 <!ENTITY column.width2                 "17em">
+
