@@ -69,7 +69,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource      "Vis den originale kildekode">
-<!ENTITY debuggerUI.showOriginalSource.key  "O">
+<!ENTITY debuggerUI.showOriginalSource.key  "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->

@@ -9,7 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Webkonsol">
-<!ENTITY browserConsole.title "Browser-konsol">
+<!ENTITY browserConsole.title "Browserkonsol">
 
 <!ENTITY networkPanel.requestURLColon             "Forespørgsels-URL:">
 <!ENTITY networkPanel.requestMethodColon          "Forespørgselsmetode:">
@@ -20,9 +20,9 @@
 <!ENTITY networkPanel.requestBody                 "Forespørgselsindhold">
 <!ENTITY networkPanel.requestFormData             "Sendt formularindhold">
 
-<!ENTITY networkPanel.responseHeaders             "Svarhoved">
+<!ENTITY networkPanel.responseHeaders             "Response-hoved">
 <!ENTITY networkPanel.responseCookie              "Modtaget cookie">
-<!ENTITY networkPanel.responseBody                "Svarindhold">
+<!ENTITY networkPanel.responseBody                "Response-indhold">
 <!ENTITY networkPanel.responseBodyCached          "Cached data">
 <!ENTITY networkPanel.responseBodyUnknownType     "Ukendt indholdstype">
 <!ENTITY networkPanel.responseNoBody              "Intet svarindhold">

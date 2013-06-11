@@ -28,7 +28,7 @@
 <!ENTITY editMenu.accesskey                 "R">
 <!ENTITY undoCmd.label                      "Fortryd">
 <!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "r">
+<!ENTITY undoCmd.accesskey                  "F">
 <!ENTITY redoCmd.label                      "Gentag">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "G">
@@ -46,4 +46,4 @@
 <!ENTITY deleteCmd.accesskey                "S">
 <!ENTITY selectAllCmd.label                 "Marker alt">
 <!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "A">
+<!ENTITY selectAllCmd.accesskey             "M">
