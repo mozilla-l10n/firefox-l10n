@@ -18,29 +18,29 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label    "Slå chrome debugging til">
-<!ENTITY options.enableChrome.tooltip  "Gør dig i stand til at bruge diverse udvikler-værktøjer i en browser-kontekst">
+<!ENTITY options.enableChrome.label    "Slå chrome-debugging til">
+<!ENTITY options.enableChrome.tooltip  "Gør dig i stand til at bruge diverse udviklerværktøjer i en browser-kontekst">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label    "Slå remote debugging til">
-<!ENTITY options.enableRemote.tooltip  "Tillader at udvikler-værktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
+<!ENTITY options.enableRemote.tooltip  "Tillader at udviklerværktøjerne kan debugge eksterne Firefox-instanser som fx Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Standard udvikler-værktøjer i Firefox">
+<!ENTITY options.selectDefaultTools.label     "Indbyggede udviklerværktøjer i Firefox">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Udvikler-værktøjer installeret af tilføjelser">
+<!ENTITY options.selectAdditionalTools.label  "Udviklerværktøjer installeret af tilføjelser">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label   "Vælg tema for udvikler-værktøjer:">
+<!ENTITY options.selectDevToolsTheme.label   "Vælg tema for udviklerværktøjer:">
 <!ENTITY options.darkTheme.label             "Mørkt tema">
 <!ENTITY options.lightTheme.label            "Lyst tema">

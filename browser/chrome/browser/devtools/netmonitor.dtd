@@ -57,7 +57,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
-<!ENTITY netmonitorUI.tab.response        "Svar">
+<!ENTITY netmonitorUI.tab.response        "Response">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
@@ -69,7 +69,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
-<!ENTITY netmonitorUI.summary.url         "ForespørgselsURL:">
+<!ENTITY netmonitorUI.summary.url         "Request-URL:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
@@ -111,7 +111,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
-<!ENTITY netmonitorUI.timings.dns         "DNS resolution:">
+<!ENTITY netmonitorUI.timings.dns         "DNS-opslag:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
