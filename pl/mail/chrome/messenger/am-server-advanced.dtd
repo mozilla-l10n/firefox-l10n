@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label       "Zezwalaj, aby serwer zmieniał powyższe ustawienia przestrzeni nazw">
 <!ENTITY overrideNamespaces.accesskey   "Z">
 <!ENTITY pop3Desc.label                 "Poczta pobierana z tego serwera POP powinna być zapisywana w następującym folderze:" >
-<!ENTITY globalInbox.label              "Globalna skrzynka odbiorcza (konto Lokalne foldery)">
-<!ENTITY globalInbox.accesskey          "G">
 <!ENTITY accountDirectory.label         "Odebrane - dla konta tego serwera">
 <!ENTITY accountDirectory.accesskey     "O">
 <!ENTITY deferToServer.label            "Odebrane - dla konta:">
