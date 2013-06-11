@@ -16,7 +16,7 @@
 <!ENTITY feedFolder.label "Opbevar artikler i:">
 <!ENTITY feedFolder.accesskey "O">
 
-<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente hjemmesiden">
+<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente websiden">
 <!ENTITY quickMode.accesskey "V">
 
 <!ENTITY locationValidate.label      "Valider">

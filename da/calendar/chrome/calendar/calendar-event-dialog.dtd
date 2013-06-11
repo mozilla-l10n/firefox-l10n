@@ -187,7 +187,7 @@
   as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Vedhæft">
 <!ENTITY event.attachments.menubutton.accesskey           "V">
-<!ENTITY event.attachments.url.label                      "Hjemmeside…">
+<!ENTITY event.attachments.url.label                      "Webside…">
 <!ENTITY event.attachments.url.accesskey                  "H">
 
 <!ENTITY event.attachments.popup.remove.label "Fjern">
@@ -196,7 +196,7 @@
 <!ENTITY event.attachments.popup.open.accesskey "Å">
 <!ENTITY event.attachments.popup.removeAll.label "Fjern alle">
 <!ENTITY event.attachments.popup.removeAll.accesskey "A">
-<!ENTITY event.attachments.popup.attachPage.label "Vedhæft hjemmeside…">
+<!ENTITY event.attachments.popup.attachPage.label "Vedhæft webside…">
 <!ENTITY event.attachments.popup.attachPage.accesskey "V">
 <!ENTITY event.url.label "Relateret link:">
 <!ENTITY event.priority2.label "Prioritet:">

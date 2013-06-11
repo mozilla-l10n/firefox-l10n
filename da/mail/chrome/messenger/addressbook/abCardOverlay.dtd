@@ -76,7 +76,7 @@
 <!ENTITY HomeZipCode.accesskey          "u">
 <!ENTITY HomeCountry.label 				"Land:">
 <!ENTITY HomeCountry.accesskey          "L">
-<!ENTITY HomeWebPage.label 				"Hjemmeside:">
+<!ENTITY HomeWebPage.label 				"Webside:">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Fødselsdato:">
 <!ENTITY Birthday.accesskey             "ø">
@@ -106,7 +106,7 @@
 <!ENTITY WorkZipCode.accesskey          "u">
 <!ENTITY WorkCountry.label 				"Land:">
 <!ENTITY WorkCountry.accesskey          "L">
-<!ENTITY WorkWebPage.label 				"Hjemmeside:">
+<!ENTITY WorkWebPage.label 				"Webside:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab 						"Andet">

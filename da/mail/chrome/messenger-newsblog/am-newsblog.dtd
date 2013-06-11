@@ -7,7 +7,7 @@
 <!ENTITY biffEnd.label "minut">
 <!ENTITY loginAtStartup.label "Søg efter nye artikler ved opstart">
 <!ENTITY loginAtStartup.accesskey "S">
-<!ENTITY useQuickMode.label "Vis artikeltekst i stedet for at hente hjemmeside">
+<!ENTITY useQuickMode.label "Vis artikeltekst i stedet for at hente webside">
 <!ENTITY useQuickMode.accesskey "V">
 <!ENTITY manageSubscriptions.label "Håndter abonnementer…">
 <!ENTITY manageSubscriptions.accesskey "H">

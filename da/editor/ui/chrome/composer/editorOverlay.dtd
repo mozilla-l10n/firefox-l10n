@@ -305,7 +305,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Indsæt nyt linkmål eller rediger det markerede linkmåls egenskaber">
 <!ENTITY TextColorButton.tooltip "Vælg tekstfarve">
 <!ENTITY BackgroundColorButton.tooltip "Vælg baggrundsfarve">
-<!ENTITY throbber.tooltip "Gå til &vendorShortName;s hjemmeside">
+<!ENTITY throbber.tooltip "Gå til &vendorShortName;s webside">
 <!ENTITY HighlightColorButton.tooltip "Vælg farve for fremhævet tekst">
 
 <!-- Editor toolbar -->
