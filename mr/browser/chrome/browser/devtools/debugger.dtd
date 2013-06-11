@@ -102,3 +102,6 @@
 <!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
 <!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
 
+<!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
+<!ENTITY debuggerUI.showOriginalSource      "Show original sources">
+<!ENTITY debuggerUI.showOriginalSource.key  "O">

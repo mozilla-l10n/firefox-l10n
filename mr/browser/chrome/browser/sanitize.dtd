@@ -47,7 +47,9 @@
 
 <!ENTITY itemActiveLogins.label       "सक्रीय दाखलन">
 <!ENTITY itemActiveLogins.accesskey   "L">
+<!--
 <!ENTITY column.width                 "14em">
+-->
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -99,3 +101,6 @@ that require it.  -->
 <!ENTITY dialog.width                 "32em">
 -->
 <!ENTITY sanitizePrefs2.title          "इतिहास पूसण्याकरीता संयोजना">
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+<!ENTITY dialog.width2                 "34em">
+<!ENTITY column.width2                 "17em">

@@ -90,3 +90,5 @@
 <!ENTITY  permPlugins           "प्लगइन्स् सुरू करा">
 <!ENTITY  permFullscreen        "पडदाभरचा वापर करा">
 
+<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
