@@ -1,140 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
-<head>
-<link rel="icon" href="/releases/l10n/mozilla-aurora/mr/static/hgicon.png" type="image/png" />
-<meta name="robots" content="index, nofollow"/>
-<link rel="stylesheet" href="/releases/l10n/mozilla-aurora/mr/static/style-gitweb.css" type="text/css" />
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<style type="text/css">
-div.feed {
-  float: right;
-}
-a img {
-  border-width: 0px;
-}
-div.log_link {
-  width: 80px;
-  background-color: white;
-}
+<!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
+   - which loads a webapp in a separate process from Firefox.  Webapps loaded
+   - in this way have very little application chrome, but the runtime does
+   - provide them with some default functionality, like the standard OS
+   - menus/menuitems. -->
 
-div.log_body {
-  padding-left: 96px;
-}
-</style>
+<!ENTITY fileMenu.label                     "फाइल">
+<!ENTITY fileMenu.accesskey                 "F">
 
-<title>mr: browser/webapprt/webapp.dtd@3dfbbf17f4b7</title>
-<link rel="alternate" type="application/atom+xml"
-   href="/releases/l10n/mozilla-aurora/mr/atom-log" title="Atom feed for mr"/>
-</head>
-<body>
+<!ENTITY quitApplicationCmdWin.label        "बाहेर पडा">
+<!ENTITY quitApplicationCmdWin.accesskey    "x">
+<!ENTITY quitApplicationCmd.label           "बाहेर पडा">
+<!ENTITY quitApplicationCmd.accesskey       "Q">
+<!-- On Mac, we create the Quit and Hide command labels dynamically,
+   - using properties in window.properties, in order to include the name
+   - of the webapp in the labels without creating a DTD file for it. -->
+<!ENTITY quitApplicationCmdMac.key          "Q">
+<!ENTITY hideThisAppCmdMac.key              "H">
+<!ENTITY hideOtherAppsCmdMac.label          "इतर लपवा">
+<!ENTITY hideOtherAppsCmdMac.key            "H">
+<!ENTITY showAllAppsCmdMac.label            "सर्व दाखवा">
 
-<div class="page_header">
-<a href="http://developer.mozilla.org/en/docs/Mercurial" title="Mercurial" style="float: right;">Mercurial</a><a href="/releases/l10n/mozilla-aurora/mr/summary">mr</a> - file revision - browser/webapprt/webapp.dtd@3dfbbf17f4b7
-</div>
-
-<div class="page_nav">
-<a href="/releases/l10n/mozilla-aurora/mr/summary">summary</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/shortlog">shortlog</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/log">changelog</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/graph">graph</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/tags">tags</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/file/3dfbbf17f4b7/browser/webapprt/">files</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/rev/3dfbbf17f4b7">changeset</a> |
-file |
-<a href="/releases/l10n/mozilla-aurora/mr/log/3dfbbf17f4b7/browser/webapprt/webapp.dtd">revisions</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/annotate/3dfbbf17f4b7/browser/webapprt/webapp.dtd">annotate</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/diff/3dfbbf17f4b7/browser/webapprt/webapp.dtd">diff</a> |
-<a href="/releases/l10n/mozilla-aurora/mr/raw-file/3dfbbf17f4b7/browser/webapprt/webapp.dtd">raw</a><br/>
-</div>
-
-<div class="title">browser/webapprt/webapp.dtd</div>
-
-<div class="title_text">
-<table cellspacing="0">
-<tr>
- <td>author</td>
- <td>&#90;&#98;&#105;&#103;&#110;&#105;&#101;&#119;&#32;&#66;&#114;&#97;&#110;&#105;&#101;&#99;&#107;&#105;&#32;&#60;&#103;&#97;&#110;&#100;&#97;&#108;&#102;&#64;&#109;&#111;&#122;&#105;&#108;&#108;&#97;&#46;&#99;&#111;&#109;&#62;</td></tr>
-<tr>
- <td></td>
- <td>Mon Nov 19 15:21:12 2012 -0800 (at Mon Nov 19 15:21:12 2012 -0800)</td></tr>
-
-<tr>
- <td>changeset 178</td>
- <td style="font-family:monospace"><a class="list" href="/releases/l10n/mozilla-aurora/mr/rev/3dfbbf17f4b7">3dfbbf17f4b7</a></td></tr>
-<tr><td>parent 140</td><td style="font-family:monospace"><a class="list" href="/releases/l10n/mozilla-aurora/mr/file/e0529ac43a92/browser/webapprt/webapp.dtd">e0529ac43a92</a></td></tr>
-
-<tr>
- <td>permissions</td>
- <td style="font-family:monospace">-rw-r--r--</td></tr>
-</table>
-</div>
-
-<div class="page_path">
-Migrating aurora to beta for Firefox 18
-</div>
-
-<div class="page_body">
-<div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l1" id="l1">     1</a> &lt;!-- This Source Code Form is subject to the terms of the Mozilla Public
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l2" id="l2">     2</a>    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l3" id="l3">     3</a>    - You can obtain one at http://mozilla.org/MPL/2.0/.  --&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l4" id="l4">     4</a> 
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l5" id="l5">     5</a> &lt;!-- LOCALIZATION NOTE: These are localized strings for the webapp runtime,
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l6" id="l6">     6</a>    - which loads a webapp in a separate process from Firefox.  Webapps loaded
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l7" id="l7">     7</a>    - in this way have very little application chrome, but the runtime does
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l8" id="l8">     8</a>    - provide them with some default functionality, like the standard OS
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l9" id="l9">     9</a>    - menus/menuitems. --&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l10" id="l10">    10</a> 
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l11" id="l11">    11</a> &lt;!ENTITY fileMenu.label                     &quot;फाइल&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l12" id="l12">    12</a> &lt;!ENTITY fileMenu.accesskey                 &quot;F&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l13" id="l13">    13</a> 
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l14" id="l14">    14</a> &lt;!ENTITY quitApplicationCmdWin.label        &quot;बाहेर पडा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l15" id="l15">    15</a> &lt;!ENTITY quitApplicationCmdWin.accesskey    &quot;x&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l16" id="l16">    16</a> &lt;!ENTITY quitApplicationCmd.label           &quot;बाहेर पडा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l17" id="l17">    17</a> &lt;!ENTITY quitApplicationCmd.accesskey       &quot;Q&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l18" id="l18">    18</a> &lt;!-- On Mac, we create the Quit and Hide command labels dynamically,
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l19" id="l19">    19</a>    - using properties in window.properties, in order to include the name
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l20" id="l20">    20</a>    - of the webapp in the labels without creating a DTD file for it. --&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l21" id="l21">    21</a> &lt;!ENTITY quitApplicationCmdMac.key          &quot;Q&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l22" id="l22">    22</a> &lt;!ENTITY hideThisAppCmdMac.key              &quot;H&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l23" id="l23">    23</a> &lt;!ENTITY hideOtherAppsCmdMac.label          &quot;इतर लपवा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l24" id="l24">    24</a> &lt;!ENTITY hideOtherAppsCmdMac.key            &quot;H&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l25" id="l25">    25</a> &lt;!ENTITY showAllAppsCmdMac.label            &quot;सर्व दाखवा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l26" id="l26">    26</a> 
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l27" id="l27">    27</a> &lt;!ENTITY editMenu.label                     &quot;संपादीत करा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l28" id="l28">    28</a> &lt;!ENTITY editMenu.accesskey                 &quot;E&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l29" id="l29">    29</a> &lt;!ENTITY undoCmd.label                      &quot;पूर्ववत् करा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l30" id="l30">    30</a> &lt;!ENTITY undoCmd.key                        &quot;Z&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l31" id="l31">    31</a> &lt;!ENTITY undoCmd.accesskey                  &quot;U&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l32" id="l32">    32</a> &lt;!ENTITY redoCmd.label                      &quot;पुनः करा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l33" id="l33">    33</a> &lt;!ENTITY redoCmd.key                        &quot;Y&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l34" id="l34">    34</a> &lt;!ENTITY redoCmd.accesskey                  &quot;R&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l35" id="l35">    35</a> &lt;!ENTITY cutCmd.label                       &quot;कापा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l36" id="l36">    36</a> &lt;!ENTITY cutCmd.key                         &quot;X&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l37" id="l37">    37</a> &lt;!ENTITY cutCmd.accesskey                   &quot;t&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l38" id="l38">    38</a> &lt;!ENTITY copyCmd.label                      &quot;प्रत बनवा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l39" id="l39">    39</a> &lt;!ENTITY copyCmd.key                        &quot;C&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l40" id="l40">    40</a> &lt;!ENTITY copyCmd.accesskey                  &quot;C&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l41" id="l41">    41</a> &lt;!ENTITY pasteCmd.label                     &quot;चिकटवा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l42" id="l42">    42</a> &lt;!ENTITY pasteCmd.key                       &quot;V&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l43" id="l43">    43</a> &lt;!ENTITY pasteCmd.accesskey                 &quot;P&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l44" id="l44">    44</a> &lt;!ENTITY deleteCmd.label                    &quot;नष्ट करा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l45" id="l45">    45</a> &lt;!ENTITY deleteCmd.key                      &quot;D&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l46" id="l46">    46</a> &lt;!ENTITY deleteCmd.accesskey                &quot;D&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l47" id="l47">    47</a> &lt;!ENTITY selectAllCmd.label                 &quot;सर्व नीवडा&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity1"><pre><a class="linenr" href="#l48" id="l48">    48</a> &lt;!ENTITY selectAllCmd.key                   &quot;A&quot;&gt;
-</pre></div><div style="font-family:monospace" class="parity0"><pre><a class="linenr" href="#l49" id="l49">    49</a> &lt;!ENTITY selectAllCmd.accesskey             &quot;A&quot;&gt;
-</pre></div>
-</div>
-
-<div class="page_footer">
-<div class="page_footer_text">mr</div>
-<div class="feed">
-<a href="/releases/l10n/mozilla-aurora/mr/atom-log"><img src="/releases/l10n/mozilla-aurora/mr/static/livemarks16.png" alt="Feed" title="Feed of repository changes"/></a>
-</div>
-<br />
-
-</div>
-</body>
-</html>
-
+<!ENTITY editMenu.label                     "संपादीत करा">
+<!ENTITY editMenu.accesskey                 "E">
+<!ENTITY undoCmd.label                      "पूर्ववत् करा">
+<!ENTITY undoCmd.key                        "Z">
+<!ENTITY undoCmd.accesskey                  "U">
+<!ENTITY redoCmd.label                      "पुनः करा">
+<!ENTITY redoCmd.key                        "Y">
+<!ENTITY redoCmd.accesskey                  "R">
+<!ENTITY cutCmd.label                       "कापा">
+<!ENTITY cutCmd.key                         "X">
+<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY copyCmd.label                      "प्रत बनवा">
+<!ENTITY copyCmd.key                        "C">
+<!ENTITY copyCmd.accesskey                  "C">
+<!ENTITY pasteCmd.label                     "चिकटवा">
+<!ENTITY pasteCmd.key                       "V">
+<!ENTITY pasteCmd.accesskey                 "P">
+<!ENTITY deleteCmd.label                    "नष्ट करा">
+<!ENTITY deleteCmd.key                      "D">
+<!ENTITY deleteCmd.accesskey                "D">
+<!ENTITY selectAllCmd.label                 "सर्व नीवडा">
+<!ENTITY selectAllCmd.key                   "A">
+<!ENTITY selectAllCmd.accesskey             "A">
