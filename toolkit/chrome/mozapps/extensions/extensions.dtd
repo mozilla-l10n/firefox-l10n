@@ -128,7 +128,7 @@
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Senest opdateret">
 <!ENTITY detail.creator.label                 "Udvikler">
-<!ENTITY detail.homepage.label                "Hjemmeside">
+<!ENTITY detail.homepage.label                "Webside">
 <!ENTITY detail.numberOfDownloads.label       "Antal hentninger">
 
 <!ENTITY detail.contributions.description     "Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.">
@@ -140,7 +140,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Installer opdateringer automatisk">
 <!ENTITY detail.updateManual.label            "Fra">
 <!ENTITY detail.updateManual.tooltip          "Installer ikke opdateringer automatisk">
-<!ENTITY detail.home                          "Hjemmeside">
+<!ENTITY detail.home                          "Webside">
 <!ENTITY detail.repository                    "Profil af tilføjelse">
 <!ENTITY detail.size                          "Størrelse">
 
@@ -179,7 +179,7 @@
 <!ENTITY search.filter2.available.label       "Tilgængelige tilføjelser">
 <!ENTITY search.filter2.available.tooltip     "Vis tilgængelige tilføjelser">
 
-<!ENTITY addon.homepage                       "Hjemmeside">
+<!ENTITY addon.homepage                       "Webside">
 <!ENTITY addon.details.label                  "Mere">
 <!ENTITY addon.details.tooltip                "Vis flere detajler om denne tilføjelse">
 <!ENTITY addon.unknownDate                    "ukendt">

@@ -20,7 +20,7 @@
 <!ENTITY referencesField3.label "Referencer ">
 <!ENTITY messageIdField3.label "Meddelelses-id ">
 <!ENTITY inReplyToField3.label "Svar på ">
-<!ENTITY originalWebsite3.label "Hjemmeside ">
+<!ENTITY originalWebsite3.label "Webside ">
 
 <!ENTITY editMessageDescription.label "Denne meddelelse er en kladde">
 <!ENTITY editMessageButton.label "Rediger…">
