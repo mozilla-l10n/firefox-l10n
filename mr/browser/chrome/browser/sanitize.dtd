@@ -81,3 +81,5 @@ that require it.  -->
 <!ENTITY sanitizePrefs2.title          "इतिहास पूसण्याकरीता संयोजना">
 <!ENTITY column.width2                 "17em">
 
+<!-- LOCALIZATION NOTE (dialog.width2): width of the Clear Recent History and
+<!ENTITY dialog.width2                 "34em">
