@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Letiltás">
 <!ENTITY addonAction.uninstall                  "Eltávolítás">
 <!ENTITY addonAction.undo                       "Visszavonás">
+<!ENTITY addonAction.setDefault                 "Legyen ez az alapértelmezett">

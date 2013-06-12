@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Népszerű oldalak">
 <!ENTITY  awesomebar_bookmarks_title "Könyvjelzők">
 <!ENTITY  awesomebar_history_title "Előzmények">
+<!ENTITY  awesomebar_switch_to_tab "Váltás erre a lapra">
 
 <!ENTITY  crash_reporter_title "&brandShortName; összeomlás-bejelentő">
-<!ENTITY  crash_message "A &brandShortName; összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
-<!ENTITY  crash_help_message "Segítsen kijavítani a hibát!">
-<!ENTITY  crash_send_report_message "Küldjön hibabejelentést a Mozillának">
-<!ENTITY  crash_include_url "Az oldal címének mellékelése">
+<!ENTITY  crash_message2 "A &brandShortName; egy hiba miatt összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
+<!ENTITY  crash_send_report_message2 "Értesítse a Mozillát, hogy kijavíthassák a hibát">
+<!ENTITY  crash_include_url2 "A meglátogatott oldal címének csatolása">
+<!ENTITY  crash_sorry "Elnézést">
+<!ENTITY  crash_comment "Hozzászólás (a hozzászólások nyilvánosak)">
+<!ENTITY  crash_allow_contact "A Mozilla megkereshet a hibajelentéssel kapcsolatban">
+<!ENTITY  crash_email "E-mail címe">
+<!ENTITY  crash_closing_alert "Kilép hibajelentés küldése nélkül?">
+<!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  crash_close_label "Bezárás">
 <!ENTITY  crash_restart_label "A &brandShortName; újraindítása">
-<!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  exit_label "Kilépés">
-<!ENTITY  continue_label "Tovább">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName;-webalkalmazások">
 <!ENTITY  launcher_shortcuts_empty "Nem találhatók webalkalmazások">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "Általános">
 <!ENTITY pref_category_privacy "Adatvédelem és biztonság">
 <!ENTITY pref_category_content "Tartalom">
-<!ENTITY pref_category_importexport "Importálás és exportálás">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Adatválasztások">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
-<!ENTITY pref_do_not_track "Ne kövessenek a webhelyek">
-<!ENTITY pref_telemetry "Teljesítményadatok küldése">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Általános">
+<!ENTITY pref_header_privacy "Adatvédelem és biztonság">
+<!ENTITY pref_header_content "Tartalom">
 
 <!ENTITY pref_cookies_menu "Sütik">
 <!ENTITY pref_cookies_accept_all "Engedélyezve">
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
+
+<!ENTITY pref_donottrack_menu "Követés">
+<!ENTITY pref_donottrack_disallow_tracking "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY pref_donottrack_allow_tracking "Azt akarom, hogy a webhelyek kövessenek">
+<!ENTITY pref_donottrack_no_pref "Az oldalakkal ne közölje a követési preferenciáimat">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings2 "Oldalbeállítások">
 <!ENTITY pref_private_data_downloadFiles "Letöltött fájlok">
+
+<!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
+<!ENTITY datareporting_notification_action "Megosztandó adatok kiválasztása">
+<!ENTITY datareporting_notification_summary "A program javítása érdekében a &brandShortName; automatikusan információkat küld a &vendorShortName;-nak.">
+<!ENTITY datareporting_notification_summary_short "A program javítása érdekében a ">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; állapotjelentés">
+<!ENTITY datareporting_fhr_summary "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
+<!ENTITY datareporting_crashreporter_summary "A &brandShortName; összeomlás-jelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; összeomlás-bejelentő">
 
 <!ENTITY pref_update_autodownload "Automatikus frissítések">
 <!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Beillesztés">
 <!ENTITY contextmenu_copyurl "Cím másolása">
 <!ENTITY contextmenu_edit_bookmark "Szerkesztés">
+<!ENTITY contextmenu_subscribe "Feliratkozás az oldalra">
+<!ENTITY contextmenu_site_settings "Webhely-beállítások szerkesztése">
+
+<!ENTITY pref_titlebar_mode "Címsor">
+<!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
+<!ENTITY pref_titlebar_mode_url "Oldal webcímének megjelenítése ">
 
 <!ENTITY history_removed "Oldal eltávolítva">
 
@@ -172,7 +214,9 @@ size. -->
 <!ENTITY bookmark_edit_location "Hely">
 <!ENTITY bookmark_edit_keyword "Kulcsszó">
 
-<!ENTITY site_settings_title2       "Webhely beállításai…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Oldalbeállítások">
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
+<!ENTITY reading_list_duplicate "Az oldal már szerepel az Olvasási listában">
 <!ENTITY reader "Olvasó">
 
 <!ENTITY masterpassword_create_title "Mesterjelszó létrehozása">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Szerkesztés">
 <!ENTITY abouthome_topsites_pin "Oldal rögzítése">
 <!ENTITY abouthome_topsites_unpin "Rögzítés feloldása">
-<!ENTITY abouthome_topsites_remove "Eltávolítás">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
