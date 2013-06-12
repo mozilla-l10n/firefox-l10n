@@ -214,11 +214,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Vzdialená webová konzola">
 
 <!ENTITY browserConsoleCmd.label      "Konzola prehliadača">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "h">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.

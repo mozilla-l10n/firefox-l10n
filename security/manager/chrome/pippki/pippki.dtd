@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "Preskúmať certifikát certifikačnej agentúry">
 <!ENTITY downloadCert.viewPolicy.text "Preskúmať politiku a procedúry certifikačnej agentúry">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Certifikát existuje">
-<!ENTITY caCertExists.message "Certifikát už existuje.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Požiadavka na identifikáciu používateľa">
 <!ENTITY clientAuthAsk.message1 "Tento server požaduje, aby ste sa identifikovali certifikátom:">

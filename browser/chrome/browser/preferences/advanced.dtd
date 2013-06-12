@@ -84,8 +84,10 @@
 <!ENTITY updateTab.label                 "Aktualizácie">
 
 <!ENTITY updateApp.label                 "Aktualizácie prehliadača &brandShortName;">
-<!ENTITY updateAuto.label                "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
+<!ENTITY updateAuto.label                "Automaticky inštalovať aktualizácie prehliadača &brandShortName;">
 <!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAutoMetro.label           "Automaticky inštalovať aktualizácie klasického &brandShortName;u aj verzie pre Windows 8">
+<!ENTITY updateAutoMetro.accesskey       "m">
 <!ENTITY updateCheck.label               "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
 <!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
@@ -93,6 +95,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
 <!ENTITY updateAutoAddonWarn.accesskey   "U">
+
+<!ENTITY updateAutoMetroWarn.label       "(verzia &brandShortName;u pre Windows 8 nekontroluje kompatibilitu doplnkov)">
 
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "h">

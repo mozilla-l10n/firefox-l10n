@@ -2,44 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDialog.title          "O programe &brandFullName;">
 
-<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "Zostavenie &brandShortName; je experimentálne a môže byť nestabilné.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Zároveň spoločnosti &vendorShortName; automaticky odosiela údaje o výkonnosti, hardvérovej konfigurácii, využívaní funkcií a nastavení prehliadača s cieľom vylepšiť budúce verzie prehliadača &brandShortName;.">
-
-<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "">
-<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " je ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "globálna komunita">
-<!ENTITY community.exp.end          " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
-
-<!ENTITY community.start2           "&brandShortName; vytvára ">
-<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ">
-<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globálna komunita">
-<!ENTITY community.end3             " pracujúca s cieľom zachovať internet otvoreným, verejným a dostupným zdrojom pre všetkých.">
-
-<!ENTITY contribute.start           "Znie to zaujímavo? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Zapojte sa!">
-<!ENTITY contribute.end             "">
-
-<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Informácie o licenciách">
-
-<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Práva koncového používateľa">
-
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Zásady ochrany súkromia">
-
+<!ENTITY aboutHeader.title          "O programe">
+<!ENTITY aboutHeader.product.label  "&brandShortName;">
+<!ENTITY aboutHeader.company.label  "Autor: &vendorShortName;">
+<!ENTITY aboutHeader.policy.label   "Prečítajte si Zásady ochrany súkromia &brandShortName; na webe">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Vyhľadávajú sa aktualizácie…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -49,7 +16,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizácie boli vypnuté správcom systému">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sa práve aktualizuje v inej inštancii">
+<!ENTITY update.otherInstanceHandlingUpdates      "&brandShortName; sa práve aktualizuje v inej inštancii">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
