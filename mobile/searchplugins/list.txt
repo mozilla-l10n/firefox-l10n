@@ -1,4 +1,4 @@
 google
-yandex
+yandex-tr
 twitter
 wikipedia-tr 
