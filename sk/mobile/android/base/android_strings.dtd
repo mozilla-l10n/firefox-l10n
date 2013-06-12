@@ -15,11 +15,11 @@
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; zistil problém a zlyhal. Otvorené karty by mali byť po reštart dostupné na Úvodnej stránke &brandShortName;u.">
-<!ENTITY  crash_send_report_message2 "Oznámiť Mozille toto zlyhanie, aby bolo možné problém odstrániť">
+<!ENTITY  crash_send_report_message3 "Oznámiť spoločnosti &vendorShortName; toto zlyhanie, aby bolo možné problém odstrániť">
 <!ENTITY  crash_include_url2 "Zahrnúť adresu stránky, na ktorej som sa nachádzal">
 <!ENTITY  crash_sorry "Ospravedlňujeme sa">
 <!ENTITY  crash_comment "Pridať komentár (komentáre sú verejne dostupné)">
-<!ENTITY  crash_allow_contact "Umožniť Mozille kontaktovať ma ohľadne tejto stránky">
+<!ENTITY  crash_allow_contact2 "Umožniť spoločnosti &vendorShortName; kontaktovať ma ohľadne tejto stránky">
 <!ENTITY  crash_email "Vaša e-mailová adresa">
 <!ENTITY  crash_closing_alert "Ukončiť bez odoslania správy o zlyhaní?">
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
@@ -99,7 +99,7 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
-<!ENTITY pref_reflow_on_zoom2 "Zapnúť funkciu Reflow-On-Zoom">
+<!ENTITY pref_reflow_on_zoom3 "Zaostriť text po dvojitom ťuknutí">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
@@ -143,10 +143,9 @@ size. -->
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť prehliadač stabilnejším a bezpečnejším.">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title2 "Správy o zlyhaní &brandShortName;u">
-<!ENTITY datareporting_crashreporter_title "Správy o zlyhaní">
+<!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">

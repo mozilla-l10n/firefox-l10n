@@ -10,22 +10,37 @@
 <!ENTITY toolboxCloseButton.tooltip    "Zavrieť Vývojárske nástroje">
 <!ENTITY toolboxOptionsButton.key      "o">
 
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
-<!ENTITY options.context.label         "Rozšírené nastavenia (vyžadujú reštart prehliadača)">
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!ENTITY options.context.advancedSettings "Rozšírené nastavenia">
+
+<!-- LOCALIZATION NOTE (options.context.requiresRestart): This is the requires
+  -  restart label at the bottom of the advanced settings group in the options
+  -  panel. -->
+<!ENTITY options.context.requiresRestart  "* Vyžaduje reštartovať prehliadač">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh label at the bottom of the advanced settings group in
+  -  the options panel. -->
+<!ENTITY options.context.triggersPageRefresh  "&#8224; Opätovne načíta obsah stránky">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label    "Povoliť ladenie chrome">
+<!ENTITY options.enableChrome.label2   "Povoliť ladenie chrome *">
 <!ENTITY options.enableChrome.tooltip  "Zapnutie tejto voľby vám umožní používať rôzne vývojárske nástroje aj pre kontext prehliadača">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label    "Povoliť vzdialené ladenie">
+<!ENTITY options.enableRemote.label2   "Povoliť vzdialené ladenie *">
 <!ENTITY options.enableRemote.tooltip  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií Firefoxu či napr. Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  - tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label    "Zakázať JavaScript na aktuálne karte (dočasne) &#8224;">
+<!ENTITY options.disableJavaScript.tooltip  "Povolením tejto voľby zakážete používanie JavaScriptu na aktuálnej karte. Po zatvorení karty alebo ukončení vývojárskych nástrojov bude táto voľba automaticky prepnutá späť.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -44,3 +59,14 @@
 <!ENTITY options.selectDevToolsTheme.label   "Zvoľte tému vzhľadu:">
 <!ENTITY options.darkTheme.label             "Tmavá téma">
 <!ENTITY options.lightTheme.label            "Svetlá téma">
+
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Webová konzola">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Povoliť trvalé záznamy">
+<!ENTITY options.enablePersistentLogging.tooltip  "Ak povolíte túto možnosť, Webová konzola nebude vymazávať výstup pre každej návšteve novej stránky">

@@ -91,6 +91,7 @@
 <!ENTITY  permImage             "Načítavanie obrázkov">
 <!ENTITY  permPopup             "Otváranie vyskakovacích okien">
 <!ENTITY  permCookie            "Nastavovanie cookies">
+<!ENTITY  permNotifications     "Zobrazovať notifikácie">
 <!ENTITY  permInstall           "Inštalovanie rozšírení alebo tém">
 <!ENTITY  permGeo               "Prezradenie polohy">
 

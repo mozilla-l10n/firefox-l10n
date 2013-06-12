@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Zobraziť upozornenie po dobu">
 <!ENTITY showAlertFor.accesskey           "u">
 <!ENTITY showAlertTimeEnd.label           "sekúnd">
-<!ENTITY showAlertTimeEnd.accesskey       "k">
 
 <!ENTITY showAlertPreviewText.label       "Zobraziť ukážku textu správy">
 <!ENTITY showAlertPreviewText.accesskey   "x">

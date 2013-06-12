@@ -96,14 +96,14 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Značky">
+         "Popisy">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Zobraziť len správy s priradenými značkami">
+         "Zobraziť len správy s priradeným popisom">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -180,6 +180,31 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Režim filtrovania podľa popisov">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Ktorýkoľvek z">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Správa musí mať priradený aspoň jedEN z nasledujúcich popisov">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Všetky uvedené">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Správa musí mať priradené všetky nasledujúce popisy">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
