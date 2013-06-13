@@ -10,6 +10,8 @@
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
 <!ENTITY reloadAllTabs.accesskey "u">
+<!ENTITY closeTabsToTheEnd.label "Chiudi le schede a destra">
+<!ENTITY closeTabsToTheEnd.accesskey "d">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY pinTab.label "Blocca scheda">
