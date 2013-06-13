@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey                     "n">
 <!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
-<!ENTITY openAttachmentCmd.label                       "Manused">
-<!ENTITY openAttachmentCmd.accesskey                   "M">
 <!ENTITY saveAsMenu.label                              "Salvesta kui">
 <!ENTITY saveAsMenu.accesskey                          "S">
 <!ENTITY saveAsFileCmd.label                           "Fail">
@@ -428,7 +426,9 @@
 <!ENTITY openConversationCmd.label                     "Ava vestlusena">
 <!ENTITY openConversationCmd.accesskey                 "n">
 <!ENTITY openConversationCmd.key                       "o">
-<!ENTITY openFeedMessage1.label                        "Uudistevoo sõnum avamisel">
+<!ENTITY openAttachmentListCmd.label                   "Manused">
+<!ENTITY openAttachmentListCmd.accesskey               "M">
+<!ENTITY openFeedMessage1.label                        "Uudistevoo sõnumi avamisel">
 <!ENTITY openFeedMessage1.accesskey                    "v">
 <!ENTITY openFeedWebPage.label                         "avatakse veebileht">
 <!ENTITY openFeedWebPage.accesskey                     "e">
