@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY showTabBar.label             "Πάντα εμφάνιση της εργαλειοθήκης καρτελών">
-<!ENTITY showTabBar.accesskey         "φ">
 
 <!ENTITY switchToNewTabs.label        "Άμεση εστίαση στο άνοιγμα ενός δεσμού σε μια νέα καρτέλα">
 <!ENTITY switchToNewTabs.accesskey    "σ">
