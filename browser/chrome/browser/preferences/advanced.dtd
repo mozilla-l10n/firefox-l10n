@@ -84,8 +84,10 @@
 <!ENTITY updateTab.label                 "更新">
 
 <!ENTITY updateApp.label                 "&brandShortName; 的更新方式:">
-<!ENTITY updateAuto.label                "自動安裝更新（建議的，保持安全性）">
+<!ENTITY updateAuto.label                "自動從 &brandShortName; 桌面板安裝更新">
 <!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAutoMetro.label           "自動從桌面版與 Windows 8 風格的 &brandShortName; 更新">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "自動檢查更新，但讓我選擇要不要安裝">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "不要檢查更新（不建議，可能會有安全性風險）">
@@ -93,6 +95,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "若需要停用任何已安裝的附加元件時先警告我">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 風格的 &brandShortName; 將不會檢查附加元件相容性)">
 
 <!ENTITY updateHistory.label             "顯示更新記錄">
 <!ENTITY updateHistory.accesskey         "p">

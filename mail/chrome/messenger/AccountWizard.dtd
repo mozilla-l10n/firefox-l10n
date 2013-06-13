@@ -117,8 +117,8 @@
 <!ENTITY newsServerNamePrefix.label "新聞群組伺服器名稱 (NNTP):">
 <!ENTITY downloadOnLogin.label "立刻下載郵件">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "若取消勾選此項則會把目前帳號的郵件儲存在各自的目錄中。這會使此帳號顯示在最頂層，否則它就是本機郵件匣中全域信箱帳號的一部份。">
-<!ENTITY deferStorage.label "使用全域郵件匣（將郵件存在本機郵件匣中）">
+<!ENTITY deferStorageDesc.label "若取消勾選此項則會把目前帳號的郵件儲存在各自的目錄中。這會使此帳號顯示在最頂層，否則它就是本機郵件匣中全域收件匣的一部份。">
+<!ENTITY deferStorage.label "使用全域收件匣（將郵件存在本機郵件匣中）">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "按下「完成」即可儲存您的設定並離開帳號設定精靈。">
 <!ENTITY clickFinish.labelMac "點選不儲存這些設定並關閉帳號精靈。">
