@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "已加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 <!ENTITY bookmark_updated "已更新書籤">
+<!ENTITY bookmark_options "選項">
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
