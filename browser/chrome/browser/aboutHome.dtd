@@ -50,5 +50,5 @@
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; हे नफा ना तोटा Mozilla Foundation पासूनचे फ्री व ओपन सोअर्स सॉफ्टवेअर आहे. <a>आपले हक्क जाणून घ्या…</a>">
 
