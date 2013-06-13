@@ -163,8 +163,9 @@
 <!ENTITY openRecentMenu.label         "नवीन उघडा">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.label              "पूर्वस्थितीत आणा…">
 <!ENTITY revertCmd.accesskey          "t">
-<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.label           "पुन्हा लोड करा व चालवा">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
+

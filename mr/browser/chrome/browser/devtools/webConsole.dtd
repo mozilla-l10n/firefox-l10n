@@ -20,33 +20,33 @@
 <!ENTITY networkPanel.responseNoBody              "रेस्पाँस बॉडि अशक्य">
 <!ENTITY networkPanel.responseImage               "प्राप्य प्रतिमा">
 <!ENTITY networkPanel.responseImageCached         "कॅश्ड् प्रतिमा">
-<!ENTITY window.title "Web Console">
-<!ENTITY browserConsole.title "Browser Console">
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY window.title "वेब कंसोल">
+<!ENTITY browserConsole.title "ब्राउजर कंसोल">
+<!ENTITY networkPanel.requestURLColon             "विनंती URL:">
+<!ENTITY networkPanel.requestMethodColon          "विनंती पद्धत:">
+<!ENTITY networkPanel.statusCodeColon             "स्टेटस कोड:">
+<!ENTITY networkPanel.responseCookie              "प्राप्त कूकि">
+<!ENTITY saveBodies.label     "लॉग विनंती व प्रतिसाद भाग">
 <!ENTITY saveBodies.accesskey "L">
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "URL ला नवीन टॅबमध्ये उघडा">
 <!ENTITY openURL.accesskey "T">
-<!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
+<!ENTITY btnPageNet.label   "नेट">
+<!ENTITY btnPageNet.tooltip "नेटवर्क प्रवेशचा लॉग">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "CSS पार्सिंग त्रुटींचा लॉग">
 <!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
-<!ENTITY btnPageSecurity.label "Security">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
-<!ENTITY btnConsoleErrors       "Errors">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "Warnings">
-<!ENTITY btnConsoleLog          "Log">
-<!ENTITY filterOutput.placeholder "Filter output">
-<!ENTITY btnClear.label        "Clear">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnPageJS.tooltip  "JavaScript अपवादांचा लॉग">
+<!ENTITY btnPageSecurity.label "सुरक्षा">
+<!ENTITY btnPageSecurity.tooltip "सुरक्षा त्रुटी व सावधानतेचा लॉग">
+<!ENTITY btnPageLogging.label   "लॉगिंग">
+<!ENTITY btnPageLogging.tooltip "window.console ऑबजेक्टकरिता पाठवलेले लॉग संदेश पाठवा">
+<!ENTITY btnConsoleErrors       "त्रुटी">
+<!ENTITY btnConsoleInfo         "माहिती">
+<!ENTITY btnConsoleWarnings     "सावधानता">
+<!ENTITY btnConsoleLog          "लॉग">
+<!ENTITY filterOutput.placeholder "आउटपुट फिल्टर करा">
+<!ENTITY btnClear.label        "नष्ट करा">
+<!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट नष्ट करा">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
@@ -54,6 +54,7 @@
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY copyURLCmd.label     "Copy Link Location">
+<!ENTITY copyURLCmd.label     "दुवा ठिकाणाचे प्रत बनवा">
 <!ENTITY copyURLCmd.accesskey "a">
 <!ENTITY closeCmd.key  "W">
+

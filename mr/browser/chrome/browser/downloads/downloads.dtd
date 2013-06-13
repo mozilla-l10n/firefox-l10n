@@ -41,13 +41,15 @@
 
 <!ENTITY downloadDetails.width            "50ch">
 <!ENTITY downloadsSummary.minWidth2       "21ch">
-<!ENTITY cmd.removeFromHistory.label      "Remove From History">
+<!ENTITY cmd.removeFromHistory.label      "इतिहासातून काढून टाका">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
+<!ENTITY cmd.clearDownloads.label         "डाउनलोड्स नष्ट करा">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
-<!ENTITY downloadsHistory.label           "Show All Downloads">
+<!ENTITY downloadsHistory.label           "सर्व डाउनलोड्स दाखवा">
 <!ENTITY downloadsHistory.accesskey       "S">
-<!ENTITY clearDownloadsButton.label       "Clear Downloads">
-<!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
-<!ENTITY downloadsListEmpty.label         "There are no downloads.">
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY clearDownloadsButton.label       "डाउनलोड्स नष्ट करा">
+<!ENTITY clearDownloadsButton.tooltip     "पूर्ण झालेले, रद्द केलेले व अपयशी डाउनलोड्स नष्ट करतो">
+<!ENTITY downloadsListEmpty.label         "डाउनलोड्स आढळले नाही.">
+<!ENTITY downloadsListNoMatch.label       "कोणतेही जुळणारे डाउनलोड्स आढळले नाही.">
+
+

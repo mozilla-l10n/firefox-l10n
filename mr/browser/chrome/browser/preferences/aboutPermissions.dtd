@@ -30,7 +30,7 @@
 <!ENTITY cookie.manage                   "कूकिज् व्यवस्थापीत करा…">
 <!ENTITY cookie.removeAll                "सर्व कूकिज् काढून टाका">
 
-<!ENTITY geo.label                       "ठिकाण शेअऱ करा">
+<!ENTITY geo.label                       "ठिकाण शेअर करा">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
@@ -39,4 +39,4 @@
 <!ENTITY plugins.label                   "प्लगइन्स्">
 <!ENTITY fullscreen.label                "पडदाभर">
 
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+<!ENTITY permission.allowFirstPartyOnly  "फक्त फर्स्ट पार्टि स्वीकारा">

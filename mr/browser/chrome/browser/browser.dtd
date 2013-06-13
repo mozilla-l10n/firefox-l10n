@@ -771,10 +771,6 @@
 <!ENTITY social.addons.label "सर्व्हिसेस व्यवस्थापीत करा…">
 <!ENTITY social.toggleNotifications.label "डेस्कटॉप सूचना दाखवा">
 <!ENTITY social.toggleNotifications.accesskey "n">
-<!--
-<!ENTITY social.activated.undobutton.label "पूर्ववत् करा">
-<!ENTITY social.activated.undobutton.accesskey "U">
--->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "गप्पांवर लक्ष्य द्या">
 <!ENTITY social.chatBar.accesskey "c">
@@ -789,23 +785,24 @@
 <!ENTITY pointerLock.notification.message "पुन्हा दाखवण्याकरिता कोणत्याही वेळी ESC दाबा.">
 
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "हे पान शेअर करा">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.label "ही दुवा शेअर करा">
 <!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.label "ही प्रतिमा शेअर करा">
 <!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.label "निवड शेअर करा">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.label "हा व्हिडीओ शेअर करा">
 <!ENTITY shareVideoCmd.accesskey "s">
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "ब्राउजर कंसोल">
 <!ENTITY quitApplicationCmdUnix.key     "Q">
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.description "<label/> पासूनच्या सेवा सुरू केले आहेत. <label class='text-link'>ॲडऑन व्यवस्थापक</label> मधील सेवांच्या सेटिंग्ज बदलणे शक्य आहे.">
+<!ENTITY social.activated.undo.label "अरेच्छा, पूर्ववत् करा!">
 <!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.label "आणखी शिका…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+<!ENTITY social.closeNotificationItem.label "आत्ता नाही">
 <!ENTITY social.markpage.accesskey "m">
 <!ENTITY social.marklink.accesskey "M">
+

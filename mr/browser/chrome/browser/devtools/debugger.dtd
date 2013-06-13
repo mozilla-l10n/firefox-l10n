@@ -16,49 +16,13 @@
 <!ENTITY debuggerMenu.label          "स्क्रिप्ट डिबगर">
 -->
 
-<!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
-  -  launches the debugger UI. Do not translate this one! -->
 <!ENTITY debuggerMenu.commandkey     "S">
-
-<!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
-  -  button that closes the debugger UI.
-<!ENTITY debuggerUI.closeButton      "बंद करा">
--->
-
-<!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
-  -  widget that displays the call stack frames in the debugger.
-<!ENTITY debuggerUI.stackTitle       "कॉल स्टॅक">
--->
-
-<!-- LOCALIZATION NOTE (debuggerUI.scriptTitle): This is the label for the
-  -  widget that displays the source code for the script that is currently
-  -  being inspected in the debugger. 
-<!ENTITY debuggerUI.scriptTitle      "स्क्रिप्ट">
--->
-
-<!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
-  -  widget that displays the variables in the various available scopes in the
-  -  debugger.
-
-<!ENTITY debuggerUI.stepOverButton   "स्टेप ओवर">
-<!ENTITY debuggerUI.stepInButton     "स्टेप इन">
-<!ENTITY debuggerUI.stepOutButton    "स्टेप आउट">
-<!ENTITY debuggerUI.propertiesTitle  "स्कोप वेरियेबल्स्">
--->
 
 <!ENTITY debuggerMenu.label2          "डिबगर">
 <!ENTITY remoteDebuggerMenu.label    "दूरस्त डिबगर">
 <!ENTITY chromeDebuggerMenu.label    "ब्राउजर डिबगर">
 <!ENTITY debuggerUI.closeButton.tooltip        "बंद करा">
 <!ENTITY debuggerUI.pauseExceptions          "अपवाद आढळल्यास थांबा">
-
-<!--
-<!ENTITY debuggerUI.stepOverButton.tooltip   "स्टेप ओवर">
-<!ENTITY debuggerUI.stepInButton.tooltip     "स्टेप इन">
-<!ENTITY debuggerUI.stepOutButton.tooltip    "स्टेप आउट">
-<!ENTITY debuggerUI.emptyFilterText  "स्क्रिप्टस् फिल्टर करा">
-<!ENTITY debuggerUI.emptyScriptText  "स्क्रिप्टस् नाही.">
--->
 
 <!ENTITY debuggerMenu.accesskey         "D">
 <!ENTITY debuggerUI.panesButton.tooltip "पट्टी टॉगल करा">
@@ -102,6 +66,6 @@
 <!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
 <!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
 
-<!ENTITY debuggerUI.showOriginalSource      "Show original sources">
+<!ENTITY debuggerUI.showOriginalSource      "मूळ स्रोत दाखवा">
 <!ENTITY debuggerUI.showOriginalSource.key  "O">
 
