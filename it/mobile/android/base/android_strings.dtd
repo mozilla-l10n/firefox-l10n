@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY bookmark_updated "Segnalibro aggiornato">
+<!ENTITY bookmark_options "Opzioni">
 <!ENTITY history_today_section "Oggi">
 <!ENTITY history_yesterday_section "Ieri">
 <!ENTITY history_week_section "7 giorni fa">
