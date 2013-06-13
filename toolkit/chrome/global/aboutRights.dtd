@@ -57,7 +57,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "Ο &brandFullName; χρησιμοποιεί διαδικτυακές πληροφοριακές υπηρεσίες (&quot;Υπηρεσίες&quot;) για την παροχή μερικών λειτουργιών της εφαρμογής του &brandShortName; υπό τους κάτωθι όρους. Αν δεν επιθυμείτε τη χρήση των Υπηρεσιών ή δεν συμφωνείτε με τους όρους που αναφέρονται παρακάτω, μπορείτε να απενεργοποιήσετε την λειτουργία ή την υπηρεσία. Οι οδηγίες για την απενεργοποίηση κάποιας λειτουργίας ή υπηρεσίας, βρίσκονται ">
 <!ENTITY rights2.webservices-b "εδώ">
-<!ENTITY rights2.webservices-c ".">
+ <!ENTITY rights3.webservices-c ". Άλλες λειτουργίες και υπηρεσίες μπορούν να απενεργοποιηθούν μέσω των προτιμήσεων της εφαρμογής.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση: ">

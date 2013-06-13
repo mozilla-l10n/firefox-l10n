@@ -62,7 +62,6 @@
 <!ENTITY btnConsoleLog          "Log">
 <!ENTITY btnPageSecurity.label "Ασφάλεια">
 <!ENTITY btnPageSecurity.tooltip "Καταγραφή σφαλμάτων ασφαλείας και προειδοποιήσεων">
-σ
 
 
 <!ENTITY filterOutput.placeholder "Filter output">
