@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Keela">
 <!ENTITY addonAction.uninstall                  "Eemalda">
 <!ENTITY addonAction.undo                       "Võta tagasi">
+<!ENTITY addonAction.setDefault                 "Määra vaikeväärtuseks">

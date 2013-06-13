@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title     "Top saidid">
 <!ENTITY  awesomebar_bookmarks_title     "Järjehoidjad">
 <!ENTITY  awesomebar_history_title       "Ajalugu">
+<!ENTITY  awesomebar_switch_to_tab       "Vaheta kaarti">
 
 <!ENTITY  crash_reporter_title           "&brandShortName;i vigadest teatamise rakendus">
-<!ENTITY  crash_message                  "&brandShortName; lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
-<!ENTITY  crash_help_message             "Palun aita meil see probleem parandada!">
-<!ENTITY  crash_send_report_message      "Saada Mozillale vearaport">
-<!ENTITY  crash_include_url              "Kaasatakse lehe aadress">
+<!ENTITY  crash_message2                 "&brandShortName;il lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
+<!ENTITY  crash_send_report_message2     "Mozillale antakse sellest veast teada, et nad saaks selle parandada">
+<!ENTITY  crash_include_url2             "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
+<!ENTITY  crash_sorry                    "Meil on kahju">
+<!ENTITY  crash_comment                  "Lisa kommentaar (kommentaarid on avalikult nähtavad)">
+<!ENTITY  crash_allow_contact            "Mozillal lubatakse vajadusel raportiga seoses ühendust võtta">
+<!ENTITY  crash_email                    "Sinu e-posti aadress">
+<!ENTITY  crash_closing_alert            "Kas väljuda ilma raportit saatmata?">
+<!ENTITY  sending_crash_report           "Vearaporti saatmine\u2026">
 <!ENTITY  crash_close_label              "Sulge">
 <!ENTITY  crash_restart_label            "Taaskäivita &brandShortName;">
-<!ENTITY  sending_crash_report           "Saada vearaport\u2026">
 <!ENTITY  exit_label                     "Välju">
-<!ENTITY  continue_label                 "Jätka">
 
 <!ENTITY  launcher_shortcuts_title       "&brandShortName;i veebirakendused">
 <!ENTITY  launcher_shortcuts_empty       "Ühtegi veebirakendust ei leitud">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general           "Üldine">
 <!ENTITY pref_category_privacy           "Privaatsus ja turvalisus">
 <!ENTITY pref_category_content           "Sisu">
-<!ENTITY pref_category_importexport      "Importimine ja eksportimine">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting     "Saadetavad andmed">
 <!ENTITY pref_about_firefox              "&brandShortName;ist">
-<!ENTITY pref_do_not_track               "Saitidele antakse teada, et jälitamist ei soovita">
-<!ENTITY pref_telemetry                  "Saadetakse sooritusvõimsuse andmeid">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general             "Üldine">
+<!ENTITY pref_header_privacy             "Privaatsus ja turvalisus">
+<!ENTITY pref_header_content             "Sisu">
 
 <!ENTITY pref_cookies_menu               "Küpsised">
 <!ENTITY pref_cookies_accept_all         "lubatud">
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
 <!ENTITY pref_cookies_disabled           "keelatud">
+
+<!ENTITY pref_donottrack_menu            "Jälitamine">
+<!ENTITY pref_donottrack_disallow_tracking "saitidele antakse teada, et jälitamist ei soovita">
+<!ENTITY pref_donottrack_allow_tracking  "saite teavitatakse soovist olla jälitatud">
+<!ENTITY pref_donottrack_no_pref         "saitidele ei anta mingit teavet jälitamise eelistuste kohta">
 
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
 <!ENTITY pref_private_data_siteSettings2 "Saidi sätted">
 <!ENTITY pref_private_data_downloadFiles "Allalaaditud failid">
+
+<!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
+<!ENTITY datareporting_notification_action "Vali jagatavad andmed">
+<!ENTITY datareporting_notification_summary "Täiustamaks sinu kasutuskogemust, saadab &brandShortName; &vendorShortName;le automaatselt mõningaid andmeid.">
+<!ENTITY datareporting_notification_summary_short "Täiustamaks sinu kasutuskogemust, saadab &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title         "&brandShortName;i terviseraport">
+<!ENTITY datareporting_fhr_summary       "Aitab sul aru saada oma brauseri jõudlusest ja jagab andmeid brauseri seisundist &vendorShortName;ga">
+<!ENTITY datareporting_telemetry_title   "Telemeetria">
+<!ENTITY datareporting_telemetry_summary "Jagab sinu brauseri sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName;i vigade raporteerija">
 
 <!ENTITY pref_update_autodownload        "Automaatsed uuendused">
 <!ENTITY pref_update_autodownload_wifi   "ainult üle Wi-Fi">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste               "Aseta">
 <!ENTITY contextmenu_copyurl             "Kopeeri aadress">
 <!ENTITY contextmenu_edit_bookmark       "Muuda">
+<!ENTITY contextmenu_subscribe           "Telli lehe uudistevoog">
+<!ENTITY contextmenu_site_settings       "Muuda saidi sätteid">
+
+<!ENTITY pref_titlebar_mode              "Tiitliriba">
+<!ENTITY pref_titlebar_mode_title        "kuvatakse lehe pealkirja">
+<!ENTITY pref_titlebar_mode_url          "kuvatakse lehe aadressi">
 
 <!ENTITY history_removed                 "Leht eemaldatud">
 
@@ -172,7 +214,9 @@ size. -->
 <!ENTITY bookmark_edit_location          "Asukoht">
 <!ENTITY bookmark_edit_keyword           "Võtmesõna">
 
-<!ENTITY site_settings_title2            "Saidi sätted…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3            "Saidi sätted">
 <!ENTITY site_settings_cancel            "Loobu">
 <!ENTITY site_settings_clear             "Kustuta">
 <!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added              "Leht lisati lugemisnimekirja">
 <!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
 <!ENTITY reading_list_failed             "Lehe lisamine lugemisnimekirja ebaõnnestus">
+<!ENTITY reading_list_duplicate          "Leht on juba lugemisnimekirjas">
 <!ENTITY reader                          "Luger">
 
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit         "Muuda">
 <!ENTITY abouthome_topsites_pin          "Kinnita sait">
 <!ENTITY abouthome_topsites_unpin        "Eemalda saidilt kohakinnitus">
-<!ENTITY abouthome_topsites_remove       "Eemalda">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
