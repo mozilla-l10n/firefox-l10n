@@ -84,8 +84,10 @@
 <!ENTITY updateTab.label                 "Uppdateringar">
 
 <!ENTITY updateApp.label                 "&brandShortName;-uppdateringar:">
-<!ENTITY updateAuto.label                "Installera uppdateringar automatiskt (rekommenderas: bättre säkerhet)">
+<!ENTITY updateAuto.label                "Installera uppdateringar automatiskt">
 <!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateAutoMetro.label           "Uppdatera automatiskt från skrivbords- och Windows 8-anpassad &brandShortName;">
+<!ENTITY updateAutoMetro.accesskey       "U">
 <!ENTITY updateCheck.label               "Sök efter uppdateringar, men låt mig välja om jag vill installera dem">
 <!ENTITY updateCheck.accesskey           "e">
 <!ENTITY updateManual.label              "Sök aldrig efter uppdateringar (rekommenderas inte: säkerhetsrisk)">
@@ -93,6 +95,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Varna om några tillägg kommer att inaktiveras">
 <!ENTITY updateAutoAddonWarn.accesskey   "V">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8-anpassad &brandShortName; kontrollerar inte tilläggens kompatibilitet)">
 
 <!ENTITY updateHistory.label             "Visa tidigare uppdateringar">
 <!ENTITY updateHistory.accesskey         "a">
