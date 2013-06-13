@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bokmärkt">
 <!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
+<!ENTITY bookmark_options "Alternativ">
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
