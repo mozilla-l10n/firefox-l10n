@@ -84,8 +84,10 @@
 <!ENTITY updateTab.label                 "Actualizaciones">
 
 <!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
-<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: mejoras de seguridad)">
+<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente para &brandShortName; desde el escritorio">
 <!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateAutoMetro.label           "Instalar actualizaciones automáticamente para &brandShortName; desde el escritorio y estilo Windows 8">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
@@ -93,6 +95,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Avisarme si ésto deshabilitará alguno de mis complementos">
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
+
+<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; estilo Windows 8 no verifica compatibilidad de complementos)">
 
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "h">
