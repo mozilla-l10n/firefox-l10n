@@ -9,4 +9,5 @@
 <!ENTITY addonAction.enable                     "启用">
 <!ENTITY addonAction.disable                    "禁用">
 <!ENTITY addonAction.uninstall                  "卸载">
-<!ENTITY addonAction.undo                       "取消">
+<!ENTITY addonAction.undo                       "撤销">
+<!ENTITY addonAction.setDefault                 "设为默认值">
