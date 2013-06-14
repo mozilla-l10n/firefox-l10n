@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "附件">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "另存为">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "文件">
@@ -120,7 +118,7 @@
 <!ENTITY redoMoveMsgCmd.label "重做移动消息">
 <!ENTITY undoCopyMsgCmd.label "撤销 复制消息">
 <!ENTITY redoCopyMsgCmd.label "重做复制消息">
-<!ENTITY undoMarkAllCmd.label "撤消全部标记为已读">
+<!ENTITY undoMarkAllCmd.label "撤销全部标记为已读">
 <!ENTITY redoMarkAllCmd.label "重做全部标记为已读">
 <!ENTITY undoDefaultCmd.label "撤销">
 <!ENTITY undoDefaultCmd.accesskey "U">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "在会话中打开">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "附件">
+<!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "当打开收取点信息时">
 <!ENTITY openFeedMessage1.accesskey "O">
 <!ENTITY openFeedWebPage.label "作为网页打开">
@@ -507,7 +507,7 @@
 <!ENTITY goForwardButton1.label "前进">
 <!ENTITY deleteItem.title "删除">
 <!ENTITY deleteButton.label "删除">
-<!ENTITY undeleteButton.label "撤消删除">
+<!ENTITY undeleteButton.label "撤销删除">
 <!ENTITY markButton.label "标记">
 <!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
@@ -547,7 +547,7 @@
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
 <!ENTITY printButton.tooltip "打印这条消息">
-<!ENTITY stopButton.tooltip "停止当前传送">
+<!ENTITY stopButton.tooltip "停止当前的传输">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
 <!ENTITY addressBookButton.tooltip "转到通讯录">

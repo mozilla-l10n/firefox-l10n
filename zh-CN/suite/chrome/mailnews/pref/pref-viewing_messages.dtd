@@ -13,7 +13,7 @@
 <!ENTITY size.accesskey                   "z">
 <!ENTITY bigger.label                     "较大">
 <!ENTITY smaller.label                    "缩小">
-<!ENTITY color.label                      "颜色:">
+<!ENTITY color.label                      "颜色：">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "纯文本信息">
 <!ENTITY fontPlainText.label              "字体：">
@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "综述">
 <!ENTITY autoMarkAsRead.label             "自动将消息标记为已读">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "显示的同时">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "显示超过">
-<!ENTITY markAsReadDelay.accesskey        "t">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "仅在显示">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "秒">
 
 <!ENTITY openingMessages.label            "打开信息，显示在：">

@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "取消">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "撤消">
+<!ENTITY cmd.undo.label                   "撤销">
 <!ENTITY cmd.undo.accesskey               "U">
 <!ENTITY cmd.recover.label                "恢复">
 <!ENTITY cmd.recover.accesskey            "v">
