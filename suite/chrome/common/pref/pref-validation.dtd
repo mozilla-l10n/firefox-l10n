@@ -5,7 +5,7 @@
 <!ENTITY  pref.validation.title                   "确认">
 
 <!ENTITY  validation.crl.caption                  "证书撤销列表">
-<!ENTITY  validation.crl.description              "使用CRL管理器来管理存储在您证书数据库中的废弃证书列表(CRL)。">
+<!ENTITY  validation.crl.description              "使用 CRL 管理器来管理存储在您的证书数据库中的证书废除列表（CRL）。">
 <!ENTITY  validation.managecrls.button            "管理 CRL…">
 <!ENTITY  validation.managecrls.accesskey         "M">
 

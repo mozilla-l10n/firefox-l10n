@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.title.label          "自定义&sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "&sidebarName;中的标签 (T)：">
+<!ENTITY sidebar.customize.current.label        "&sidebarName; 中的标签页：">
 <!ENTITY sidebar.customize.current.accesskey    "T">
 <!ENTITY sidebar.customize.customize.label      "自定义选项">
 <!ENTITY sidebar.customize.customize.accesskey  "C">

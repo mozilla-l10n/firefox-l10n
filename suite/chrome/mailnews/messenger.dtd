@@ -182,19 +182,19 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "所有">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "展开所有论题">
+<!ENTITY expandAllThreadsCmd.label "展开所有话题">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "折叠所有论题">
+<!ENTITY collapseAllThreadsCmd.label "折叠所有话题">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "未读">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "有未读消息的论题">
+<!ENTITY threadsWithUnreadCmd.label "有未读消息的话题">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "观察的且有未读消息的论题">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "已忽略的论题">
+<!ENTITY ignoredThreadsCmd.label "已忽略的话题">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "标题头">
@@ -440,7 +440,7 @@
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
-<!ENTITY stopButton.tooltip "停止当前传送">
+<!ENTITY stopButton.tooltip "停止当前的传输">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">

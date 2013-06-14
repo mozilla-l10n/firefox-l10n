@@ -7,8 +7,8 @@
 <!ENTITY menuBar.tooltip                 "菜单栏">
 <!ENTITY searchBar.tooltip               "搜索栏">
 
-<!ENTITY search.placeholder              "搜索下载">
-<!ENTITY search.label                    "搜索下载">
+<!ENTITY search.placeholder              "搜索下载项">
+<!ENTITY search.label                    "搜索下载项">
 <!ENTITY search.accesskey                "S">
 <!ENTITY search.key                      "f">
 
@@ -16,7 +16,7 @@
 <!ENTITY cmd.clearList.tooltip           "移除列表中已完成、已取消以及已失败的下载项">
 <!ENTITY cmd.clearList.accesskey         "C">
 
-<!ENTITY col.name.label                  "类别">
+<!ENTITY col.name.label                  "名称">
 <!ENTITY col.name.accesskey              "N">
 <!ENTITY col.name.tooltip                "文件名">
 <!ENTITY col.status.label                "状态">
@@ -34,9 +34,9 @@
 <!ENTITY col.timeremaining.label         "剩余时间">
 <!ENTITY col.timeremaining.accesskey     "L">
 <!ENTITY col.timeremaining.tooltip       "剩余时间">
-<!ENTITY col.transferred.label           "传送">
+<!ENTITY col.transferred.label           "已传输">
 <!ENTITY col.transferred.accesskey       "T">
-<!ENTITY col.transferred.tooltip         "传送">
+<!ENTITY col.transferred.tooltip         "已传输">
 <!ENTITY col.transferrate.label          "速度">
 <!ENTITY col.transferrate.accesskey      "d">
 <!ENTITY col.transferrate.tooltip        "速度">

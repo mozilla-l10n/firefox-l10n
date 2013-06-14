@@ -8,10 +8,14 @@
 <!ENTITY  SSLClientAuthMethod.caption       "客户证书选择">
 
 <!ENTITY pref.ssl.title                     "安全套接字层 (SSL)">
-<!ENTITY enable.ssl30.label                 "启用 SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "启用 TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "您可以限制安全连接所使用的加密协议。选择单个版本或连续的版本范围。">
+<!ENTITY limit.enable.label                 "启用：">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让 &brandShortName; 显示警告或者请求权限，当: ">
 <!ENTITY warn.enteringsecure                "载入支持加密的页">
@@ -23,7 +27,7 @@
 <!ENTITY warn.viewmixed                     "查看加密/未加密混合页">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY warn.mixedactivecontent            "加密页面包含不安全内容是提醒我">
+<!ENTITY warn.mixedactivecontent            "加密页面包含不安全内容时提醒我">
 <!ENTITY warn.mixedactivecontent.accesskey  "W">
 <!ENTITY block.activecontent                "不要读取加密页面上的不安全内容">
 <!ENTITY block.activecontent.accesskey      "D">

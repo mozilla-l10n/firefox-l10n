@@ -119,7 +119,7 @@
 <!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
 <!ENTITY attachButton.tooltip "添加附件"> 
 <!ENTITY saveButton.tooltip "保存此消息"> 
-<!ENTITY stopButton.tooltip "停止当前传送"> 
+<!ENTITY stopButton.tooltip "停止当前的传输"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "打开
