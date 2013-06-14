@@ -5,7 +5,7 @@
 <!ENTITY window.title "欢迎使用 &brandShortName;">
 <!ENTITY header2.label "需要一个新的电子邮件地址吗？">
 <!ENTITY other.languages "我们仅显示您所在区域的地址提供商。点击此处即可查看全部提供商。">
-<!ENTITY error.line1 "对不起，我们无法找到任何推荐的电子邮件地址。">
+<!ENTITY error.line1 "抱歉，我们无法找到任何推荐的电子邮箱地址。">
 <!ENTITY error.line2 "您可以尝试搜索昵称或者其他词语来找到更多电子邮件">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
@@ -25,7 +25,7 @@
 <!ENTITY partnership.description "&brandShortName; 已与某些提供商合作以便能提供给您新的电子邮件帐号。您只需要在下面填写您的姓名（或任何其他的词）即可。">
 <!ENTITY existing.header "已经有可用的地址？">
 <!ENTITY tinyheader.title "已经有地址了？">
-<!ENTITY tinyheader.existing "跳过并使用已有的电子邮件">
+<!ENTITY tinyheader.existing "跳过并使用已有的电子邮箱">
 <!ENTITY content.close "我想以后配置我的帐号。">
 <!ENTITY successful.title "恭喜您！">
 <!ENTITY successful.successMessage "您已经成功设置您的帐号。">
