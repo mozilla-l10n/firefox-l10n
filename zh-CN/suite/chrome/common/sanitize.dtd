@@ -15,7 +15,7 @@
 <!ENTITY itemFormSearchHistory.accesskey "F">
 <!ENTITY itemCache.label                 "高速缓存">
 <!ENTITY itemCache.accesskey             "a">
-<!ENTITY itemCookies.label               "Cookies">
+<!ENTITY itemCookies.label               "Cookie">
 <!ENTITY itemCookies.accesskey           "C">
 <!ENTITY itemOfflineApps.label           "脱机网站数据">
 <!ENTITY itemOfflineApps.accesskey       "O">

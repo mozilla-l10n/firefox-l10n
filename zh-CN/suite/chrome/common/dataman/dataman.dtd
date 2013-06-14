@@ -139,7 +139,7 @@
 <!ENTITY fdata.button.remove.accesskey "R">
 
 <!-- forget -->
-<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.label "Cookie">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "权限">
 <!ENTITY forget.permissions.accesskey "P">
