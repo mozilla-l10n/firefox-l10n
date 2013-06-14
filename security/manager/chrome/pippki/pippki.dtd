@@ -80,8 +80,6 @@
 <!ENTITY downloadCert.viewPolicy.text "Examinear políticas y procedimientos de CA">
 
 <!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "El certificado existe">
-<!ENTITY caCertExists.message "El certificado ya existe.">
 <!ENTITY examineCert.accesskey "V">
 
 <!-- Strings for the SSL client auth ask dialog -->
