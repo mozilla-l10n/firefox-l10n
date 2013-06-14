@@ -84,7 +84,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "设置…">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "配置 &brandShortName; 连接至因特网的方式">
+<!ENTITY proxiesConfigure.label        "配置 &brandShortName; 如何连接至国际互联网">
 <!ENTITY connectionsInfo.caption       "连接">
 <!ENTITY offlineInfo.caption           "脱机">
 <!ENTITY offlineInfo.label             "配置脱机设置">
@@ -117,7 +117,7 @@
 
 <!ENTITY viewCertificates.label         "查看证书">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "证书吊销列表">
+<!ENTITY viewCRLs.label                 "废除列表">
 <!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "验证">
 <!ENTITY validation.accesskey           "V">
