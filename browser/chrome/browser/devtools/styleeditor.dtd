@@ -18,6 +18,8 @@
 <!ENTITY importButton.tooltip       "Een bestaand stijlblad importeren en op het document toepassen">
 <!ENTITY importButton.accesskey     "m">
 
+<!ENTITY visibilityToggle.tooltip   "Zichtbaarheid van stijlblad in-/uitschakelen">
+
 <!ENTITY saveButton.label           "Opslaan">
 <!ENTITY saveButton.tooltip         "Dit stijlblad opslaan als bestand">
 <!ENTITY saveButton.accesskey       "s">
