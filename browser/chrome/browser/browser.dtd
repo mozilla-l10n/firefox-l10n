@@ -76,7 +76,7 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Paginabron">
-<!ENTITY pageSourceCmd.accesskey "P">
+<!ENTITY pageSourceCmd.accesskey "b">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Pagina-info">
 <!ENTITY pageInfoCmd.accesskey "i">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Externe webconsole">
 
-<!ENTITY browserConsoleCmd.label      "BrowserConsole">
+<!ENTITY browserConsoleCmd.label      "Browserconsole">
 
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
