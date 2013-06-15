@@ -10,22 +10,37 @@
 <!ENTITY toolboxCloseButton.tooltip    "Fermi la ilojn por disvolvantoj">
 <!ENTITY toolboxOptionsButton.key      "e">
 
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
-<!ENTITY options.context.label         "Spertaj agordoj (restartigo de la retesplorilo postulata)">
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
+<!ENTITY options.context.advancedSettings "Spertaj agordoj">
+
+<!-- LOCALIZATION NOTE (options.context.requiresRestart): This is the requires
+  -  restart label at the bottom of the advanced settings group in the options
+  -  panel. -->
+<!ENTITY options.context.requiresRestart  "* tio postulas restartigo de la retesplorilo">
+
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
+  -  triggers page refresh label at the bottom of the advanced settings group in
+  -  the options panel. -->
+<!ENTITY options.context.triggersPageRefresh  "&#8224; igas la paĝon reŝargiĝi">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label    "Aktivigi sencimigon de 'chrome'">
+<!ENTITY options.enableChrome.label2    "Aktivigi sencimigon de «chrome» *">
 <!ENTITY options.enableChrome.tooltip  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por disvolvantoj, en la kunteksto de la retesplorilo">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label    "Aktivigi foran sencimigon">
+<!ENTITY options.enableRemote.label2    "Aktivigi foran sencimigon *">
 <!ENTITY options.enableRemote.tooltip  "Ŝalto de tiu ĉi elekteblo permesos al la iloj por disvolvantoj la sencimigon de foraj instancoj de Firefox, kiel Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  - tooltip for the checkbox that toggles JavaScript on or off. -->
+<!ENTITY options.disableJavaScript.label    "Malaktivigi JavaScript en la nuna langeto (tempe) &#8224;">
+<!ENTITY options.disableJavaScript.tooltip  "Ŝaltado de tiu elekteblo malaktivigos JavaScript en la nuna langeto. Se la langeton aŭ la ilarujon oni fermas, tiu agordo estos forgesita.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
