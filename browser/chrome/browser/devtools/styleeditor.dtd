@@ -19,7 +19,6 @@
 <!ENTITY importButton.accesskey     "m">
 
 <!ENTITY visibilityToggle.tooltip   "Zichtbaarheid van stijlblad in-/uitschakelen">
-<!ENTITY visibilityToggle.accesskey "Z">
 
 <!ENTITY saveButton.label           "Opslaan">
 <!ENTITY saveButton.tooltip         "Dit stijlblad opslaan als bestand">
@@ -40,4 +39,3 @@
 <!ENTITY noStyleSheet-tip-action.label "een nieuw stijlblad toepassen">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
-
