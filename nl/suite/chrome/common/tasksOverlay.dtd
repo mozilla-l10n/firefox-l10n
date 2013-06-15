@@ -22,7 +22,7 @@
 <!ENTITY webDevelopment.accesskey "I">
 
 <!ENTITY windowMenu.label "Venster">
-<!ENTITY windowMenu.accesskey "V">
+<!ENTITY windowMenu.accesskey "s">
 
 <!ENTITY tasksMenu.label "Extra">
 <!ENTITY tasksMenu.accesskey "x">

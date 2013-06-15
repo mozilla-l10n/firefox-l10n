@@ -27,7 +27,7 @@
 <!ENTITY editMessage.accesskey             "C">
 
 <!ENTITY attachmentsTree.label             "Bijlagen:">
-<!ENTITY attachmentsTree.accesskey         "B">
+<!ENTITY attachmentsTree.accesskey         "n">
 <!ENTITY openAttachmentCmd.label           "Openen">
 <!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "Bron bekijken">
