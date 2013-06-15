@@ -118,7 +118,7 @@
 <!ENTITY downloadOnLogin.label "立刻下載郵件">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "勾選此選項以將此帳號的郵件儲存於本地資料夾當中的全域收件匣。否則此帳號將會顯示為頂層帳號，郵件也將會被儲存於自己的資料夾當中。">
-<!ENTITY deferStorage.label "使用全域郵件匣（將郵件存在本機郵件匣中）">
+<!ENTITY deferStorage.label "使用全域收件匣（將郵件存在本機郵件匣中）">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "按下「完成」即可儲存您的設定並離開帳號設定精靈。">
 <!ENTITY clickFinish.labelMac "點選不儲存這些設定並關閉帳號精靈。">
