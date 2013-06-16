@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label 'Ключ відновлення'>
 <!ENTITY sync.checkbox.server.label 'Власний сервер'>
 <!ENTITY sync.input.server.label 'URL сервера'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Неможливо налаштувати &syncBrand.shortName.label;'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; не зміг з’єднатись з сервером. Спробувати ще раз?'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label 'З’єднання з інтернетом відсутнє.'>
 <!ENTITY sync.subtitle.failaccount.label 'Створити акаунт на пристрої не вдалось.'>
 <!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено кілька Firefox’ів? Наразі &syncBrand.fullName.label; підтримує лише одну інсталяцію Firefox. Вилучте інші щоб використовувати &syncBrand.shortName.label;.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Налаштування завершено'>
 <!ENTITY sync.subtitle.success.label1 'Ваші дані завантажуються походу. Ви можете зайти в Настройки щоб керувати вашим акаунтом, чи почати перегляд з &brandShortName;.'>
@@ -56,7 +56,7 @@
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Настройки'>
-<!ENTITY sync.summary.pair.label 'Підєднати ще один пристрій до вашого акаунту &syncBrand.shortName.label;'>
+<!ENTITY sync.summary.pair.label 'Під’єднати ще один пристрій до вашого акаунту &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label 'Що синхронізувати'>
@@ -70,10 +70,10 @@
 <!ENTITY sync.button.cancel.label 'Скасувати'>
 <!ENTITY sync.button.connect.label 'Під’єднати'>
 <!ENTITY sync.button.ok.label 'OK'>
-  
+
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
-  
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Меню закладок'>
 <!ENTITY bookmarks.folder.places.label ''>

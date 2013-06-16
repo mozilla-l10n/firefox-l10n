@@ -498,8 +498,8 @@
 <!ENTITY fileButton.label "Помістити">
 <!ENTITY archiveButton.label "Архівувати">
 <!ENTITY nextButton.label "Наступний">
-<!ENTITY nextButtonToolbarItem.label "Наступний нечитане">
-<!ENTITY nextMsgButton.label "Настуений">
+<!ENTITY nextButtonToolbarItem.label "Наступний нечитаний">
+<!ENTITY nextMsgButton.label "Наступний">
 <!ENTITY previousButton.label "Попередній">
 <!ENTITY previousButtonToolbarItem.label "Попередній нечитаний">
 <!ENTITY previousMsgButton.label "Попередній">
@@ -791,7 +791,7 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base):
