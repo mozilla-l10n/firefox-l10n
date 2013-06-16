@@ -246,7 +246,7 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="mail-doc-delete-server" nc:name="Deleting POP or IMAP Messages" nc:link="mailnews_using_mail.xhtml#deleting_pop_or_imap_messages" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Moving Messages to and from the Trash" nc:link="mailnews_using_mail.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-delete-trash" nc:name="Moving Messages to and from the Deleted folder" nc:link="mailnews_using_mail.xhtml#moving_messages_to_and_from_the_trash" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
