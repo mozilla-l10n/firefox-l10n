@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutAddons.title2                     "ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.header2                    "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.options                    "ਚੋਣਾਂ">
@@ -6,5 +10,5 @@
 <!ENTITY addonAction.disable                    "ਬੰਦ">
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
-
+<!ENTITY addonAction.setDefault                 "ਮੂਲ ਸੈੱਟ ਕਰੋ">
 
