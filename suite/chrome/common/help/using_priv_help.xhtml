@@ -679,6 +679,9 @@
   rastrear a un usuario en diferentes visitas (por ejemplo, para propósitos
   estadísticos o para anuncios dirigidos).</p>
 
+<p>En el <a href="#browsing_in_a_private_window">modo de navegación privada</a>
+  no se conservarán datos privados más allá de la duración de la sesión privada.</p>
+
 <p>&brandShortName; puede guardar localmente la siguiente información
   privada:</p>
 
@@ -869,6 +872,188 @@
 </ul>
 
 <p>[<a href="#clearing_private_data">Volver al principio de la
+  sección</a>]</p>
+
+<h1 id="browsing_in_a_private_window">Navegar en una ventana privada</h1>
+
+<p>Puede haber ocasiones en las que no desee que &brandShortName; conserve un
+  registro de su actividad de navegación. Por ejemplo, cuando alguien más
+  quiere usar a continuación su equipo y no quiere que su contexto actual de
+  navegación sea alterado; o para tareas confidenciales tales como banca en
+  Internet.</p>
+
+<p>Abrir una ventana privada supone comenzar una sesión de
+  <a href="glossary.xhtml#private_browsing">navegación privada</a> en la cual no
+  estarán disponibles <a href="#types_of_private_data">datos privados</a> de los
+  sitios y páginas que visite más allá del ámbito y duración de esa sesión. Cada
+  ventana privada abierta a partir de ese momento se convierte en parte de la
+  misma sesión privada. Ésta terminará cuando la última ventana privada sea
+  cerrada.</p>
+
+<p>Las ventanas privadas no están completamente aisladas de las ventanas
+  no privadas; la navegación privada sólo implica que &brandShortName; no
+  guardará ningún registro local de su actividad en esas ventanas. Pueden
+  compartirse algunos datos privados entre ventanas privadas pero no con
+  las no privadas, y viceversa, y otros datos podrían ser accedidos en
+  modo de sólo lectura desde una ventana privada.</p>
+
+<p>Tenga en cuenta que los <a href="customize_help.xhtml#add-ons">complementos</a>
+  como los plugins y las extensiones pueden no verse afectados por estas políticas
+  y podrían cambiar su configuración o modificar sus datos conservados en local
+  incluso en una ventana privada.</p>
+
+<div class="contentsBox">En esta sección:
+  <ul>
+    <li><a href="#opening_a_private_window">Abrir una ventana privada</a></li>
+    <li><a href="#behavior_of_a_private_window">Comportamiento de una ventana
+      privada</a></li>
+    <li><a href="#leaving_the_private_browsing_mode">Abandonar el modo de
+      navegación privada</a></li>
+  </ul>
+</div>
+
+<h2 id="opening_a_private_window">Abrir una ventana privada</h2>
+
+<p>Una ventana de navegador puede estar bien en modo de navegación normal
+  (no privada) o en modo de navegación privada. No es posible convertir una
+  ventana de navegación no privada en el modo privado, pero puede abrir una
+  nueva ventana privada de dos maneras:</p>
+
+<ul>
+  <li>Desde una ventana de navegador, abra el menú Archivo, elija Nuevo y luego
+    Ventana privada. La nueva ventana se abre con una página que explica que se
+    encuentra en modo de navegación privada.</li>
+  <li>Haga clic con el botón derecho en un enlace en una página web que esté
+    viendo y seleccione <q>Abrir enlace en ventana privada</q> desde el menú.
+    Se abrirá la nueva ventana privada, mostrando la página referenciada por el
+    enlace seleccionado.</li>
+</ul>
+
+<p>Pueden abrirse cualquier número de ventanas privadas y no privadas al mismo
+  tiempo, pero tenga presente en este caso para qué ventanas se conservará la
+  información del historial.</p>
+
+<p>[<a href="#browsing_in_a_private_window">Volver al principio de la
+  sección</a>]</p>
+
+<h2 id="behavior_of_a_private_window">Comportamiento de una ventana privada</h2>
+
+<p>Una ventana privada se comporta de manera diferente que una ventana no
+  privada en cuanto a cómo maneja los datos privados (vea
+  <a href="#types_of_private_data">Tipos de datos privados</a> para una
+  información detallada de las categorías individuales). Específicamente, tras
+  cerrar una sesión privada cuando se cierra la última ventana privada, no se
+  conservará ninguna información relacionada con esa sesión en &brandShortName;.
+  Los datos privados recopilados en una sesión privada tampoco estarán
+  disponibles para ninguna sesión privada posterior.</p>
+
+<h3>Reconocer una ventana privada</h3>
+
+<p>Para determinar si una ventana está o no en modo privado, eche un vistazo a
+  su barra de título. Las ventanas privadas muestran
+  <q>-&nbsp;<span class="noMac">&brandShortName; </span>navegación privada</q>
+  <span class="noMac">en lugar de simplemente
+  <q>-&nbsp;&brandShortName;</q></span> al final del título de la ventana.</p>
+
+<h3>Navegación y marcadores</h3>
+
+<ul>
+  <li>Navegar en una ventana privada es idéntico a una ventana no privada.
+    Puede usar los botones Atrás y Adelante también así como el menú Ir del
+    modo habitual.</li>
+  <li>Los enlaces no serán marcados como visitados cuando navegue en una ventana
+    privada.</li>
+  <li>Los marcadores pueden añadirse desde una ventana privada de la misma forma
+    que en una ventana no privada. No serán eliminados una vez haya concluido
+    la sesión privada.</li>
+</ul>
+
+<h3>Historial de navegación y otros historiales</h3>
+
+<ul>
+  <li>Los historiales ya existentes de navegación y de la barra de direcciones
+    estarán disponibles para una ventana privada, pero los nuevos sitios
+    visitados y las direcciones introducidas en la barra de dirección no serán
+    registrados ni guardados.</li>
+  <li>Se pueden descargar archivos del modo habitual, pero no se añadirán
+    entradas al administrador de descargas. Los archivos descargados en sí
+    mismos no serán eliminados.</li>
+  <li>El historial de búsquedas y el de formularios guardados estarán
+    disponibles para las ventanas privadas, proporcionando por tanto
+    sugerencias para los campos de formularios o búsquedas. Sin embargo,
+    cualquier elemento o término de búsqueda nuevos no se registrarán ni
+    serán guardados.</li>
+</ul>
+
+<h3>Cookies</h3>
+
+<ul>
+  <li>Una ventana privada puede recopilar cookies de los sitios que visita,
+    pero una ventana privada no comparte cookies con una ventana no privada
+    y viceversa. Por ejemplo, si inicia sesión en un sitio web en una ventana
+    normal, luego abre una ventana privada para continuar, probablemente se
+    le pedirá introducir sus credenciales de nuevo.</li>
+  <li>Las cookies en una sesión privada se aceptan de acuerdo a las
+    preferencias, pero sólo se retienen durante la duración de esa sesión,
+    con independencia de la longevidad permitida en una ventana no
+    privada.</li>
+  <li>Las excepciones existentes a la política de cookies serán respetadas en
+    en las ventanas privadas, y cualquier excepción nueva que cree será
+    conservada una vez que haya finalizado la sesión privada.</li>
+</ul>
+
+<h3>Contenido cacheado y sin conexión</h3>
+
+<ul>
+  <li>Aunque una ventana privada puede usar la memoria caché para mejorar el
+    rendimiento, no tiene permitido acceder al caché de disco con independencia
+    de las preferencias para una ventana no privada. Por tanto, no habrá ningún
+    contenido cacheado disponible tras reiniciar &brandShortName;.</li>
+  <li>Una ventana privada no puede usar ningún contenido sin conexión guardado
+    por sitios web. En consecuencia, no podrá usar aplicaciones web en modo sin
+    conexión, incluso si ya han guardado el contenido sin conexión
+    localmente.</li>
+</ul>
+
+<h3>Contraseñas y sesiones identificadas</h3>
+
+<ul>
+  <li>No se guardarán nuevas contraseñas en el administrador de contraseñas
+    cuando se introduzcan en una ventana privada.</li>
+  <li>Las sesiones iniciadas no se pueden traspasar de una ventana no privada a
+    una privada. Por ello, no puede continuar una sesión iniciada en una ventana
+    no privada en otra privada, y viceversa.</li>
+</ul>
+
+<h3>Preferencias y permisos</h3>
+
+<ul>
+  <li>Cualquier cambio en las preferencias y permisos que se hagan en una
+    ventana privada se manejan del mismo modo que en una ventana no privada
+    y se conservan una vez concluida la sesión privada.</li>
+  <li>Las preferencias personalizadas para cada sitio, tales como el nivel
+    de ampliación o las ubicaciones de descarga son tenidas en cuenta en una
+    ventana privada. Sin embargo, cualquier cambio que haga no será conservado,
+    p.e. los niveles de ampliación revertirán al valor inicial cuando navegue
+    o cambie de pestaña.</li>
+</ul>
+
+<p>[<a href="#browsing_in_a_private_window">Volver al principio de la
+  sección</a>]</p>
+
+<h2 id="leaving_the_private_browsing_mode">Abandonar el modo de navegación
+  privada</h2>
+
+<p>No hay una función u orden especiales para abandonar el modo privado y no es
+  posible continuar trabajando en el modo no privado con una ventana
+  privada.</p>
+
+<p>Para terminar una sesión de navegación privada, simplemente cierre todas
+  las ventanas privadas. no habrá ningún registro por parte de &brandShortName;
+  sobre la actividad de navegación realizada en cualquiera de las ventanas
+  privadas asociadas.</p>
+
+<p>[<a href="#browsing_in_a_private_window">Volver al principio de la
   sección</a>]</p>
 
   <h1 id="encrypting_stored_sensitive_information">Cifrar la
