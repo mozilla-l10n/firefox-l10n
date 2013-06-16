@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY  awesomebar_bookmarks_title "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  awesomebar_history_title "ਅਤੀਤ">
+<!ENTITY  awesomebar_switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
-<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂ ਪੇਜ਼ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਵੇਗਾ।">
-<!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
-<!ENTITY  crash_send_report_message "ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
-<!ENTITY  crash_include_url "ਸਫ਼ਾ ਐਡਰੈਸ ਸਮੇਤ">
+<!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
+<!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
+<!ENTITY  crash_send_report_message2 "ਮੋਜ਼ੀਲਾ ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕੇ">
+<!ENTITY  crash_include_url2 "ਪੇਜ਼, ਜੋ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ ਸਿਰਨਾਵਾਂ ਸਮੇਤ">
+<!ENTITY  crash_sorry "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ">
+<!ENTITY  crash_comment "ਟਿੱਪਣੀ ਸ਼ਾਮਲ (ਟਿੱਪਣੀ ਪਬਲਿਕ ਰੂਪ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
+<!ENTITY  crash_allow_contact "ਮੋਜ਼ੀਲਾ ਇਹ ਰਿਪੋਰਟ ਬਾਰੇ ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦਾ ਹੈ">
+<!ENTITY  crash_email "ਤੁਹਾਡੀ ਈਮੇਲ">
+<!ENTITY  crash_closing_alert "ਬਿਨਾਂ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੇ ਹੀ ਬੰਦ ਕਰਨਾ ਹੈ?">
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
-<!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈਬ ਐਪਸ">
 <!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
@@ -58,7 +62,7 @@
 <!ENTITY one_tab "1 ਟੈਬ">
 <!-- Localization note (num_tabs) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; ਟੈਬਾਂ">
 <!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੁੱਲ੍ਹੀ">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
@@ -66,16 +70,27 @@
 <!ENTITY pref_category_general "ਆਮ">
 <!ENTITY pref_category_privacy "ਪਰਾਈਵੇਸੀ ਤੇ ਸੁਰੱਖਿਆ">
 <!ENTITY pref_category_content "ਸਮੱਗਰੀ">
-<!ENTITY pref_category_importexport "ਇੰਪੋਰਟ ਤੇ ਐਕਸਪੋਰਟ">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
-<!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਮੈਨੂੰ ਟਰੈਕ ਨਾ ਕਰਨ ਲਈ ਕਹੋ">
-<!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "ਆਮ">
+<!ENTITY pref_header_privacy "ਪਰਾਈਵੇਸੀ &amp; ਸੁਰੱਖਿਆ">
+<!ENTITY pref_header_content "ਸਮੱਗਰੀ">
 
 <!ENTITY pref_cookies_menu "ਕੂਕੀਜ਼">
 <!ENTITY pref_cookies_accept_all "ਚਾਲੂ ਹਨ">
 <!ENTITY pref_cookies_not_accept_foreign "ਚਾਲੂ ਹਨ, ਸੁਤੰਤਰ ਧਿਰ ਨੂੰ ਛੱਡ ਕੇ">
 <!ENTITY pref_cookies_disabled "ਬੰਦ ਹਨ">
+
+<!ENTITY pref_donottrack_menu "ਟਰੈਕ ਕਰਨਾ">
+<!ENTITY pref_donottrack_disallow_tracking "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ">
+<!ENTITY pref_donottrack_allow_tracking "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ">
+<!ENTITY pref_donottrack_no_pref "ਸਾਈਟਾਂ ਨੂੰ ਮੇਰੀ ਟਰੈਕ ਹੋਣ ਪਸੰਦ ਬਾਰੇ ਕੁਝ ਨਾ ਦੱਸੋ">
 
 <!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
@@ -117,6 +132,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY pref_private_data_downloadFiles "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ">
+
+<!ENTITY datareporting_notification_title "&brandShortName; ਅੰਕੜੇ &amp; ਡਾਟਾ">
+<!ENTITY datareporting_notification_action "ਚੁਣੋ ਕਿ ਕੀ ਸਾਂਝਾ ਕਰਨਾ ਹੈ">
+<!ENTITY datareporting_notification_summary "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName; ਆਪਣੇ-ਆਪ ਹੀ ਕੁਝ ਜਾਣਕਾਰੀ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ।">
+<!ENTITY datareporting_notification_summary_short "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
+<!ENTITY datareporting_fhr_summary "ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਮਝਣ ਲਈ ਮੱਦਦ ਕਰਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਹਾਲਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰਦੀ ਹੈ।">
+<!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਧੀਆ ਤੇ ਸਥਿਰ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰਨ ਵਾਸਤੇ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 
 <!ENTITY pref_update_autodownload "ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY pref_update_autodownload_wifi "ਕੇਵਲ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਹੀ">
@@ -165,9 +201,13 @@ size. -->
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
 <!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
+<!ENTITY contextmenu_subscribe "ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY contextmenu_site_settings "ਸਾਈਟ ਸੈਟਿੰਗ ਸੋਧ">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ bar">
+<!ENTITY pref_titlebar_mode_title "ਪੇਜ਼ ਟਾਈਟਲ ਵੇਖਾਓ">
+<!ENTITY pref_titlebar_mode_url "ਪੇਜ਼ ਸਿਰਨਾਵਾਂ ਵੇਖਾਓ">
+
 <!ENTITY history_removed "ਪੇਜ਼ ਹਟਾਓ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
@@ -175,7 +215,7 @@ size. -->
 <!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
 <!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
 
-<!ENTITY site_settings_title2       "…ਸਾਈਟ ਸੈਟਿੰਗ">
+<!ENTITY site_settings_title3       "ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY site_settings_cancel       "ਰੱਦ ਕਰੋ">
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
@@ -184,6 +224,7 @@ size. -->
 <!ENTITY reading_list_added "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!ENTITY reading_list_removed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ">
 <!ENTITY reading_list_failed "ਪੇਜ਼ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਫੇਲ੍ਹ">
+<!ENTITY reading_list_duplicate "ਪੇਜ਼ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਹੈ">
 <!ENTITY reader "ਰੀਡਰ">
 
 <!ENTITY masterpassword_create_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ">
@@ -207,7 +248,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "ਸੋਧ">
 <!ENTITY abouthome_topsites_pin "ਸਾਈਟ ਪਿੰਨ">
 <!ENTITY abouthome_topsites_unpin "ਸਾਈਟ ਅਣ-ਪਿੰਨ">
-<!ENTITY abouthome_topsites_remove "ਹਟਾਓ">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
@@ -233,7 +273,7 @@ size. -->
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
-example.com
+example.com""
 which is run by
 Example Enterprises, Inc.
 
