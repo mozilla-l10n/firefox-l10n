@@ -96,7 +96,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Averti min se tio malaktivigos iun ajn el miaj aldonaĵoj">
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
 
-<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; en la stilo de Windows 8 style &brandShortName ne kontrolas kongruecon de aldonaĵoj)">
+<!ENTITY updateAutoMetroWarn.label       "(&brandShortName;, en la stilo de Windows 8, ne kontrolas kongruecon de aldonaĵoj)">
 
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
 <!ENTITY updateHistory.accesskey         "M">
