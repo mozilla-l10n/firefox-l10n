@@ -41,6 +41,7 @@
 <!ENTITY bookmark_added "Marque-page ajouté">
 <!ENTITY bookmark_removed "Marque-page supprimé">
 <!ENTITY bookmark_updated "Marque-page mis à jour">
+<!ENTITY bookmark_options "Options">
 
 <!ENTITY history_today_section "Aujourd\u0027hui">
 <!ENTITY history_yesterday_section "Hier">
