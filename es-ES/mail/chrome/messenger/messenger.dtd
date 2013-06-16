@@ -456,6 +456,8 @@
 <!ENTITY accountManagerCmd.label "Configuración de las cuentas…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
+<!ENTITY allowRemoteDebugging.accesskey "r">
 <!ENTITY getMsgButton.label "Recibir">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
