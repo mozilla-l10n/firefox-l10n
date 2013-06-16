@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
-<!ENTITY openAttachmentCmd.label "Ceanglachain">
-<!ENTITY openAttachmentCmd.accesskey "a">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Fhaidhle">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Fosgail ann an còmhradh">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Ceanglachain">
+<!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Nuair a dh'fhosglar teachdaireachd inbhir">
 <!ENTITY openFeedMessage1.accesskey "h">
 <!ENTITY openFeedWebPage.label "Fosgail mar dhuilleag-lìn">
