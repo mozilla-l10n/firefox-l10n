@@ -48,10 +48,6 @@
 <!ENTITY downloadCert.viewCert.text "Examiner le certificat d'AC">
 <!ENTITY downloadCert.viewPolicy.text "Examiner la politique d'AC et ses procédures">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Un certificat existe">
-<!ENTITY caCertExists.message "Le certificat existe déjà.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Requête d'identification d'utilisateur">
 <!ENTITY clientAuthAsk.message1 "Ce site vous demande de vous identifier avec un certificat de sécurité :">
