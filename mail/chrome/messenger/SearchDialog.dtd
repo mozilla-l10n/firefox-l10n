@@ -16,10 +16,10 @@
 <!ENTITY deleteButton.accesskey "д">
 <!ENTITY searchDialogTitle.label "Пошук лістоў">
 <!ENTITY results.label "Вынікі">
-<!ENTITY fileHereMenu.label "Пакласці тут">
-<!ENTITY fileHereMenu.accesskey "П">
-<!ENTITY fileButton.label "Файл">
-<!ENTITY fileButton.accesskey "Ф">
+<!ENTITY moveHereMenu.label "Перамясціцца сюды">
+<!ENTITY moveHereMenu.accesskey "с">
+<!ENTITY moveButton.label "Перамясціць у">
+<!ENTITY moveButton.accesskey "у">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "Адкрыць у папцы">
 <!ENTITY openInFolder.accesskey "п">

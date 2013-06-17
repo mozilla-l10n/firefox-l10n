@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY quitApplicationCmdWin.label "Выйсці">
-<!ENTITY quitApplicationCmdWin.accesskey "В">
+<!ENTITY quitApplicationCmdWin.accesskey "ы">
 <!ENTITY quitApplicationCmd.label "Выйсці">
 <!ENTITY quitApplicationCmd.accesskey "В">
 <!ENTITY quitApplicationCmdMac.key "Q">
@@ -23,7 +23,7 @@
 <!ENTITY redoCmd.accesskey "В">
 <!ENTITY cutCmd.label "Выразаць">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Капіяваць">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "К">

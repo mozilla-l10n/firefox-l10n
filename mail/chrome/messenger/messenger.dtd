@@ -29,8 +29,6 @@
 <!ENTITY newIMContactCmd.accesskey "г">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
-<!ENTITY openAttachmentCmd.label "Далучэнні">
-<!ENTITY openAttachmentCmd.accesskey "Д">
 <!ENTITY saveAsMenu.label "Захаваць як">
 <!ENTITY saveAsMenu.accesskey "Я">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -334,7 +332,7 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
-<!ENTITY moveMsgToMenu.label "Перамесціць у">
+<!ENTITY moveMsgToMenu.label "Перамясціць у">
 <!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY moveCopyMsgRecentMenu.label "Апошні">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "А">
@@ -403,12 +401,14 @@
 <!ENTITY openConversationCmd.label "Адкрыць у гутарцы">
 <!ENTITY openConversationCmd.accesskey "т">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Адкрыць ліст з жывільніка">
-<!ENTITY openFeedMessage.accesskey "ж">
-<!ENTITY openFeedWebPageInWindow.label "Старонку Сеціва ў новым акне">
-<!ENTITY openFeedWebPageInWindow.accesskey "а">
-<!ENTITY openFeedSummaryInWindow.label "Зводку ў новым акне">
-<!ENTITY openFeedSummaryInWindow.accesskey "ў">
+<!ENTITY openAttachmentListCmd.label "Далучэнні">
+<!ENTITY openAttachmentListCmd.accesskey "Д">
+<!ENTITY openFeedMessage1.label "Падчас адкрыцця паведамленняў жывільніка">
+<!ENTITY openFeedMessage1.accesskey "а">
+<!ENTITY openFeedWebPage.label "Адчыніць на сеціўнай старонцы">
+<!ENTITY openFeedWebPage.accesskey "с">
+<!ENTITY openFeedSummary.label "Адчыніць як зводку">
+<!ENTITY openFeedSummary.accesskey "з">
 <!ENTITY openFeedWebPageInMP.label "Пераключэнне шыбы ліста: старонка Сеціва, зводка">
 <!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY windowMenu.label "Акно">

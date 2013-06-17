@@ -26,10 +26,8 @@
 <!ENTITY generalMessageDisplay.caption "Агульныя">
 <!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
 <!ENTITY autoMarkAsRead.accesskey "ч">
-<!ENTITY markAsReadNoDelay.label "Неадкладна пры адлюстраванні">
-<!ENTITY markAsReadNoDelay.accesskey "Н">
-<!ENTITY markAsReadDelay.label "Пасля адлюстравання на працягу">
-<!ENTITY markAsReadDelay.accesskey "П">
+<!ENTITY markAsReadAfter.label "Only after displaying for">
+<!ENTITY markAsReadAfter.accesskey "t">
 <!ENTITY secondsLabel.label "секундаў">
 <!ENTITY openingMessages.label "Калі лісты адчыняюцца, адлюстроўваць іх у:">
 <!ENTITY newWindowRadio.label "Новым акне лістоў">

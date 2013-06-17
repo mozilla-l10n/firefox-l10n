@@ -9,16 +9,20 @@
 <!ENTITY awesomebar_all_pages_title "Найнаведвальныя пляцоўкі">
 <!ENTITY awesomebar_bookmarks_title "Закладкі">
 <!ENTITY awesomebar_history_title "Гісторыя">
+<!ENTITY awesomebar_switch_to_tab "Пераключыцца ў устаўку">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
-<!ENTITY crash_message "&brandShortName; пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
-<!ENTITY crash_help_message "Дапамажыце нам, калі ласка, выправіць праблему!">
-<!ENTITY crash_send_report_message "Дасыланне Mozilla справаздачы пра крах">
-<!ENTITY crash_include_url "Уключыць адрас старонкі">
+<!ENTITY crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
+<!ENTITY crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY crash_include_url2 "Include the address of the page I was on">
+<!ENTITY crash_sorry "We\'re sorry">
+<!ENTITY crash_comment "Каментаваць (каментары прылюдна бачныя)">
+<!ENTITY crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY crash_email "Your email">
+<!ENTITY crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
 <!ENTITY crash_close_label "Зачыніць">
 <!ENTITY crash_restart_label "Перазапусціць &brandShortName;">
-<!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
 <!ENTITY exit_label "Выйсці">
-<!ENTITY continue_label "Працягнуць">
 <!ENTITY launcher_shortcuts_title "Сеціўныя прыстасаванні &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "Сеціўныя прыстасаванні не знойдзены">
 <!ENTITY choose_file "Выбар файла">
@@ -50,15 +54,20 @@
 <!ENTITY pref_category_general "Агульныя">
 <!ENTITY pref_category_privacy "Адасабленне і бяспека">
 <!ENTITY pref_category_content "Змесціва">
-<!ENTITY pref_category_importexport "Імпарт і экспарт">
+<!ENTITY pref_category_datareporting "Выбар здаткаў">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
-<!ENTITY pref_do_not_track "Забараняць сеціўным пляцоўкам сачыць за мною">
-<!ENTITY pref_telemetry "Дасыланне здаткаў працавыніковасці">
 <!ENTITY pref_remember_signons "Памятаць паролі">
+<!ENTITY pref_header_general "Агульныя">
+<!ENTITY pref_header_privacy "Адасабленне і бяспека">
+<!ENTITY pref_header_content "Змест">
 <!ENTITY pref_cookies_menu "Біркі">
 <!ENTITY pref_cookies_accept_all "Дазволены">
 <!ENTITY pref_cookies_not_accept_foreign "Дазволены, акрамя пабочных">
 <!ENTITY pref_cookies_disabled "Забаронены">
+<!ENTITY pref_donottrack_menu "Высочванне">
+<!ENTITY pref_donottrack_disallow_tracking "Паведамляць пляцоўкам, што я не жадаю, каб за мною сачылі.">
+<!ENTITY pref_donottrack_allow_tracking "Паведамляць пляцоўкам, што я жадаю, каб за мною сачылі.">
+<!ENTITY pref_donottrack_no_pref "Не паведамляць пляцоўкам нічога пра мае перавагі сачэння.">
 <!ENTITY pref_char_encoding "Кадоўка знакаў">
 <!ENTITY pref_char_encoding_on "Паказваць меню">
 <!ENTITY pref_char_encoding_off "Не паказваць меню">
@@ -88,8 +97,18 @@
 <!ENTITY pref_private_data_passwords "Захаваныя паролі">
 <!ENTITY pref_private_data_cache "Запаснік">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
-<!ENTITY pref_private_data_siteSettings "Перавагі пляцовак">
+<!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles "Сцягнутыя файлы">
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Выбраць, чым дзяліцца">
+<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_fhr_title "Справаздача пра стан &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Дапамагае вам лепш разумець працавыніковасць вашага азіральніка і падзеляе здаткі з &vendorShortName; пра стан вашага азіральніка">
+<!ENTITY datareporting_telemetry_title "Тэлеметрыя">
+<!ENTITY datareporting_telemetry_summary "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
+<!ENTITY datareporting_crashreporter_title "Паведамляльнік пра крахі &brandShortName;">
 <!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Забаронены">
@@ -130,12 +149,17 @@
 <!ENTITY contextmenu_paste "Уставіць">
 <!ENTITY contextmenu_copyurl "Скапіяваць адрас ">
 <!ENTITY contextmenu_edit_bookmark "Праўка">
+<!ENTITY contextmenu_subscribe "Падпісацца на старонку">
+<!ENTITY contextmenu_site_settings "Праўка наладжванняў пляцоўкі">
+<!ENTITY pref_titlebar_mode "Паліца загалоўка">
+<!ENTITY pref_titlebar_mode_title "Show page title">
+<!ENTITY pref_titlebar_mode_url "Show page address">
 <!ENTITY history_removed "Старонка выдалена">
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
 <!ENTITY bookmark_edit_location "Месцазнаходжанне">
 <!ENTITY bookmark_edit_keyword "Ключавое слова">
-<!ENTITY site_settings_title2 "Наладжванні пляцоўкі…">
+<!ENTITY site_settings_title3 "Наладжванні пляцоўкі">
 <!ENTITY site_settings_cancel "Скасаваць">
 <!ENTITY site_settings_clear "Ачысціць">
 <!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
@@ -143,6 +167,7 @@
 <!ENTITY reading_list_added "Старонка дададзена ў ваш спіс чытання">
 <!ENTITY reading_list_removed "Старонка выдалена з вашага спісу чытання">
 <!ENTITY reading_list_failed "Няўдача дадавання старонкі ў ваш спіс чытання">
+<!ENTITY reading_list_duplicate "Старонка ўжо дададзена ў ваш спіс чытання">
 <!ENTITY reader "Чытач">
 <!ENTITY masterpassword_create_title "Стварэнне галоўны пароль">
 <!ENTITY masterpassword_remove_title "Выдаленне галоўнага пароля">
@@ -163,7 +188,6 @@
 <!ENTITY abouthome_topsites_edit "Праўка">
 <!ENTITY abouthome_topsites_pin "Прышпіліць пляцоўку">
 <!ENTITY abouthome_topsites_unpin "Адшпіліць пляцоўку">
-<!ENTITY abouthome_topsites_remove "Выдаліць">
 <!ENTITY abouthome_about_sync3 "Наладзіць Firefox Sync, каб даступацца да закладак, гісторыі і ўставак з іншых збудоваў »">
 <!ENTITY abouthome_about_apps3 "Атрымаць прыстасаванні з рынка Firefox і даведацца, што мае Сеціва прапанаваць »">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
