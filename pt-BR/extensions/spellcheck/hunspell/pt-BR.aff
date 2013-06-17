@@ -1,9 +1,9 @@
-# See README.txt for licensing information.
+# Licensing Information:
+# http://hg.mozilla.org/releases/l10n/mozilla-aurora/pt-BR/file/tip/extensions/spellcheck/hunspell/README.txt
 #
 # Source:
 # https://natura.di.uminho.pt/svn/main/dicionarios/jspell.pt/
 #
-# pt-BR version:
 # Maintainer: Jeferson Hultmann <hultmann@gmail.com>
 # Discussion: http://groups.google.com/group/dic-br
 
@@ -40,14 +40,16 @@ PFX R   0               res             s
 PFX E Y 1
 PFX E   0               pré-            .
 
-PFX O Y 1
+PFX O Y 2
+PFX O   0               Pós-            .
 PFX O   0               pós-            .
 
 PFX u Y 2
 PFX u   0               sub-            [bhr]
 PFX u   0               sub             [^bhr]
 
-PFX x Y 1
+PFX x Y 2
+PFX x   0               Ex-             .
 PFX x   0               ex-             .
 
 PFX V Y 1
@@ -1404,7 +1406,7 @@ SFX J   e               ito             [^ã]e
 SFX J   o               ito             [^ã]o
 SFX J   0               zito            ão
 
-REP 36
+REP 39
 REP denovo     de_novo
 REP derrepente de_repente
 REP encima     em_cima
@@ -1416,6 +1418,9 @@ REP fotinha    fotinho
 REP abrid      abert
 REP cobrid     cobert
 REP escrevid   escrit
+REP migo       comigo
+REP hajar      houver
+REP conserteza com_certeza
 REP por pro
 REP pre per
 REP damente mente
