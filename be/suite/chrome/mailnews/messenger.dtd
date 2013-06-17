@@ -289,7 +289,7 @@
 <!ENTITY archiveMsgCmd.label "Архіў">
 <!ENTITY archiveMsgCmd.accesskey "х">
 <!ENTITY archiveMsgCmd.key "a">
-<!ENTITY moveMsgToMenu.label "Перамесціць у">
+<!ENTITY moveMsgToMenu.label "Перамясціць у">
 <!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY copyMessageLocation.label "Капіяваць месцазнаходжанне ліста">
 <!ENTITY copyMessageLocation.accesskey "м">

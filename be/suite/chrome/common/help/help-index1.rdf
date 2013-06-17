@@ -423,7 +423,7 @@
          nc:link="using_certs_help.xhtml#controlling_validation"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Certificates:web_site"
+       <rdf:Description ID="Certificates:website"
          nc:name="website identity"
          nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
      </rdf:li>
@@ -578,11 +578,6 @@
          nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:foreign"
-         nc:name="foreign cookies"
-         nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:managing_per_site"
          nc:name="managing cookies per website"
          nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
@@ -596,6 +591,11 @@
        <rdf:Description ID="cookies:removing"
          nc:name="removing cookies"
          nc:link="using_priv_help.xhtml#removing_cookies"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="cookies:third-party"
+         nc:name="third-party cookies"
+         nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="cookies:viewing"
@@ -1422,6 +1422,11 @@
          nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
      </rdf:li>
      <rdf:li>
+        <rdf:Description ID="Offline:offline_apps"
+          nc:name="Offline Web Applications"
+          nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
          nc:name="Offline Mail and News"
          nc:link="mailnews_offline.xhtml#working_offline"/>
@@ -1836,6 +1841,11 @@
 <rdf:Description about="help-indexAZ.rdf#s">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="safe_browsing"
+         nc:name="safe browsing preferences"
+         nc:link="privsec_help.xhtml#safe_browsing"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="save"
          nc:name="save"/>
      </rdf:li>
@@ -2195,6 +2205,11 @@
        <rdf:Description ID="uploading_pages"
          nc:name="uploading pages"
          nc:link="composer_help.xhtml#publishing_your_pages_on_the_web"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="user_tracking"
+         nc:name="user tracking preferences"
+         nc:link="privsec_help.xhtml#privacy_and_security"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

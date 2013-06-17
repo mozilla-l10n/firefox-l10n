@@ -4,12 +4,14 @@
 
 <!ENTITY pref.cookies.title "Біркі">
 <!ENTITY cookiePolicy.label "Палітыка набывання бірак">
-<!ENTITY accAllCookiesRadio.label "Дазволіць усе біркі">
-<!ENTITY accAllCookiesRadio.accesskey "б">
-<!ENTITY accOrgCookiesRadio.label "Дазволіць біркі толькі для пляцовак-стваральнікаў">
-<!ENTITY accOrgCookiesRadio.accesskey "і">
 <!ENTITY disableCookies.label "Забараніць біркі">
 <!ENTITY disableCookies.accesskey "б">
+<!ENTITY accNo3rdPartyCookies.label "Дазваляць біркі толькі з першапачатковых пляцовак (без пабочных пляцовак)">
+<!ENTITY accNo3rdPartyCookies.accesskey "п">
+<!ENTITY acc3rdPartyVisited.label "Дазваляць пабочныя біркі толькі для папярэдні наведаных пляцовак">
+<!ENTITY acc3rdPartyVisited.accesskey "н">
+<!ENTITY accAllCookies.label "Дазволіць усе біркі">
+<!ENTITY accAllCookies.accesskey "у">
 <!ENTITY cookieRetentionPolicy.label "Палітыка ўтрымання бірак">
 <!ENTITY acceptNormally.label "Звычайнае набыванне бірак">
 <!ENTITY acceptNormally.accesskey "з">

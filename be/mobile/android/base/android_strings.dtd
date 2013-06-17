@@ -88,7 +88,7 @@
 <!ENTITY pref_private_data_passwords "Захаваныя паролі">
 <!ENTITY pref_private_data_cache "Запаснік">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
-<!ENTITY pref_private_data_siteSettings "Перавагі пляцовак">
+<!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles "Сцягнутыя файлы">
 <!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">

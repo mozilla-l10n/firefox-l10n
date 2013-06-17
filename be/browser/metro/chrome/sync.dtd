@@ -2,16 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title "Sync">
+<!ENTITY syncHeader.title "Sync">
 <!ENTITY sync.notconnected "Не злучана">
 <!ENTITY sync.connect "Злучэнне">
 <!ENTITY sync.connected "Злучана">
-<!ENTITY sync.details "Падрабязнасці">
 <!ENTITY sync.deviceName "Гэтая збудова">
 <!ENTITY sync.disconnect "Разлучыцца">
-<!ENTITY sync.syncNow "Сінхранізаваць зараз">
+<!ENTITY sync.syncNow2 "Сінхранізаваць зараз ">
 <!ENTITY sync.setup.title "Злучыцца з Sync">
-<!ENTITY sync.setup.pair 'Каб задзейнічаць, выберыце "Спараваць збудову" на іншай збудове.'>
+<!ENTITY sync.setup.pair2 'Каб задзейнічаць, выберыце "Спараваць збудову" на іншай збудове.'>
 <!ENTITY sync.fallback "Мой кампутар не блізка…">
 <!ENTITY sync.setup.manual "Увядзіце звесткі вашага рахунку Sync">
 <!ENTITY sync.account "Назва рахунку">
@@ -24,6 +23,7 @@
 <!ENTITY sync.setup.tutorial "Паказаць мне як">
 <!ENTITY sync.setup.waiting2 "Чаканне іншай збудовы…">
 <!ENTITY sync.pair.title "Спараваць збудову">
+<!ENTITY sync.pair.button "Спараваць збудову">
 <!ENTITY sync.pair.description 'Каб задзейнічаць новую збудову, выберыце "Уладкаваць Sync" на збудове.'>
 <!ENTITY sync.setup.close "Зачыніць">
 <!ENTITY sync.setup.waitingdownload "Вашы здаткі зараз фонава сцягваюцца. Вы можаце зачыніць гэтае акно калі хочаце.">

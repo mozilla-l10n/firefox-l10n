@@ -6,32 +6,16 @@
 <!ENTITY urlbar.accesskey "У">
 <!ENTITY back.label "Назад">
 <!ENTITY forward.label "Наперад">
-<!ENTITY reload.label "Абнавіць">
-<!ENTITY stop.label "Прыпыніць">
-<!ENTITY go.label "Пайсці">
-<!ENTITY star.label "Зорка">
-<!ENTITY toggleTabsOnly.label "Заўсёды паказваць устаўкі">
-<!ENTITY showTabs.label "Паказаць устаўкі">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
-<!ENTITY undoclosetab.label "Адмяніць закрыццё ўстаўкі">
-<!ENTITY cut.label "Выразаць">
-<!ENTITY copy.label "Капіяваць">
-<!ENTITY copyAll.label "Скапіяваць усё">
-<!ENTITY copylink.label "Капіяваць месцазнаходжанне спасылкі">
-<!ENTITY paste.label "Уставіць">
-<!ENTITY pasteAndGo.label "Уставіць і пайсці">
-<!ENTITY delete.label "Выдаліць">
-<!ENTITY selectAll.label "Вылучыць усё">
-<!ENTITY appbarFindInPage.label "Знайсці на старонцы">
-<!ENTITY appbarViewOnDesktop.label "Прагледзець на працоўным стале">
+<!ENTITY appbarFindInPage2.label "Знайсці на старонцы">
+<!ENTITY appbarViewOnDesktop2.label "Прагляд на працоўным стале">
 <!ENTITY startTopSitesHeader.label "Найнаведвальныя пляцоўкі">
 <!ENTITY startBookmarksHeader.label "Закладкі">
 <!ENTITY startHistoryHeader.label "Нядаўняя гісторыя">
 <!ENTITY startRemoteTabsHeader.label "Устаўкі з іншых збудоваў">
 <!ENTITY autocompleteResultsHeader.label "Вашы вынікі">
 <!ENTITY autocompleteSearchesHeader.label "Пошук у Інтэрнэце">
-<!ENTITY selectHelper.done "Гатова">
 <!ENTITY downloadsHeader.label "Сцягванні">
 <!ENTITY downloadShowPage.label "Перайсці на старонку">
 <!ENTITY downloadShow2.label "Знайсці">
@@ -45,9 +29,6 @@
 <!ENTITY downloadFailed.label "Няўдача">
 <!ENTITY bookmarksHeader.label "Закладкі">
 <!ENTITY allBookmarks.label "Прагледзець усе закладкі">
-<!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
-<!ENTITY identity.connectedTo2 "Злучаны з">
-<!ENTITY identity.runBy2 "выконваецца">
 <!ENTITY consoleHeader.label "Кансоль памылак">
 <!ENTITY consoleAll.label "Усе">
 <!ENTITY consoleErrors.label "Памылкі">
@@ -59,26 +40,19 @@
 <!ENTITY consoleErrFile.label "Зыходны файл:">
 <!ENTITY consoleErrLine.label "Радок:">
 <!ENTITY consoleErrColumn.label "Слупок:">
-<!ENTITY contextOpenInNewTab.label "Адчыніць спасылку ў новай устаўцы">
-<!ENTITY contextViewInNewTab.label "Прагледзець у новай устаўцы">
-<!ENTITY contextSaveImage.label "Захаваць выяву">
-<!ENTITY contextSaveImageTo.label "Захаваць выяву як…">
-<!ENTITY contextCopyLink.label "Скапіяваць спасылку">
-<!ENTITY contextCopyEmail.label "Капіяваць адрас э-пошты">
-<!ENTITY contextCopyPhone.label "Капіяваць нумар тэляфона">
+<!ENTITY contextTextCut.label "Выразаць">
+<!ENTITY contextTextCopy.label "Капіяваць">
+<!ENTITY contextTextPaste.label "Уставіць">
+<!ENTITY contextTextPasteAndGo.label "Уставіць і пайсці">
+<!ENTITY contextTextSelect.label "Выбраць">
+<!ENTITY contextTextSelectAll.label "Вылучыць усё">
+<!ENTITY contextOpenLinkTab.label "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY contextCopyLinkHref.label "Скапіяваць спасылку">
+<!ENTITY contextBookmarkLinkHref.label "Закласці спасылку">
+<!ENTITY contextSaveImageLib.label "Захаваць у бібліятэцы выяваў">
 <!ENTITY contextCopyImage.label "Капіяваць выяву">
-<!ENTITY contextShareLink.label "Падзяліцца спасылкай">
-<!ENTITY contextShareImage.label "Падзяліцца выявай">
-<!ENTITY contextBookmarkLink.label "Закласці спасылку">
-<!ENTITY contextSaveVideo.label "Захаваць відэя">
-<!ENTITY contextSaveVideoTo.label "Захаваць відэя як…">
-<!ENTITY contextShareVideo.label "Падзяліцца відэя">
-<!ENTITY contextPlayMedia.label "Граць">
-<!ENTITY contextPauseMedia.label "Прыпыніць">
-<!ENTITY contextVideoTab.label "Адчыніць у новай устаўцы">
-<!ENTITY contextEditBookmark.label "Праўка">
-<!ENTITY contextRemoveBookmark.label "Выдаліць">
-<!ENTITY contextShortcutBookmark.label "Дадаць на хатні экран">
-<!ENTITY pageactions.password.forget "Забыць пароль">
-<!ENTITY pageactions.reset "Ачысціць перавагі пляцоўкі">
-<!ENTITY pageactions.charEncoding "Кадоўка знакаў">
+<!ENTITY contextCopyImageLocation.label "Капіяваць месцазнаходжанне выявы">
+<!ENTITY contextOpenImageTab.label "Адчыніць рамку ў новай устаўцы">
+<!ENTITY contextSaveVideoLib.label "Захаваць у бібліятэцы выдэя">
+<!ENTITY contextCopyVideoLocation.label "Капіяваць месцазнаходжанне відэя">
+<!ENTITY contextOpenVideoTab.label "Адчыніць спасылку ў новай устаўцы">

@@ -18,6 +18,8 @@
 <!ENTITY showAnimatedAlert.accesskey "П">
 <!ENTITY customizeMailAlert.label "Наладзіць…">
 <!ENTITY customizeMailAlert.accesskey "Н">
+<!ENTITY showTrayIcon.label "Паказаць значок у латку">
+<!ENTITY showTrayIcon.accesskey "л">
 <!ENTITY play.label "Граць">
 <!ENTITY play.accesskey "Г">
 <!ENTITY systemsound.label "Змоўчны сістэмны гук для новай пошты">
