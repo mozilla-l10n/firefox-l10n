@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title "Узаемадзеянне з сістэмай">
 <!ENTITY acceptIntegration.label "Прызначыць змоўчным">
 <!ENTITY cancelIntegration.label "Прапусціць узаемадзеянне">
+<!ENTITY cancelIntegration2.label "Скасаваць">
 <!ENTITY defaultClient.intro "Ужываць &brandShortName; як змоўчны спажывец:">
 <!ENTITY email.label "Э-пошты">
 <!ENTITY newsgroups.label "Навінакупаў">

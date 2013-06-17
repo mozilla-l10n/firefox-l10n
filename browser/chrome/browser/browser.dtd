@@ -145,7 +145,7 @@
 <!ENTITY search.label "Пошук у Сеціве">
 <!ENTITY search.accesskey "ш">
 <!ENTITY downloads.label "Загрузкі">
-<!ENTITY downloads.tooltip "Адлюстроўваць развіццё дзейных загрузак">
+<!ENTITY downloads.tooltip "Адлюстраванне развіцця дзейных загрузак">
 <!ENTITY downloads.accesskey "З">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -350,6 +350,16 @@
 <!ENTITY mediaMute.accesskey "З">
 <!ENTITY mediaUnmute.label "Уключыць гук">
 <!ENTITY mediaUnmute.accesskey "У">
+<!ENTITY mediaPlaybackRate.label "Хуткасць грання">
+<!ENTITY mediaPlaybackRate.accesskey "Х">
+<!ENTITY mediaPlaybackRate050x.label "Паказваць рухі (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "р">
+<!ENTITY mediaPlaybackRate100x.label "Звычайная хуткасць">
+<!ENTITY mediaPlaybackRate100x.accesskey "З">
+<!ENTITY mediaPlaybackRate150x.label "Высокая хуткасць (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "В">
+<!ENTITY mediaPlaybackRate200x.label "Найвышэйшая хуткасць (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "Н">
 <!ENTITY mediaShowControls.label "Паказаць кіроўцы">
 <!ENTITY mediaShowControls.accesskey "к">
 <!ENTITY mediaHideControls.label "Схаваць кіроўцы">
@@ -449,6 +459,7 @@
 <!ENTITY social.ok.accesskey "Д">
 <!ENTITY social.toggleSidebar.label "Паказаць палічку">
 <!ENTITY social.toggleSidebar.accesskey "п">
+<!ENTITY social.addons.label "Кіраванне службамі…">
 <!ENTITY social.toggleNotifications.label "Паказаць апавяшчэнні працоўнага стала">
 <!ENTITY social.toggleNotifications.accesskey "а">
 <!ENTITY social.activated.undobutton.label "Адмяніць">
@@ -464,3 +475,4 @@
 <!ENTITY webrtcIndicatorButton.tooltip "Паказвае пляцоўкі, з якімі вы зараз дзеліцеся камерай або мікрафонам">
 <!ENTITY mixedContentBlocked.helplink "Падрабязней">
 <!ENTITY mixedContentBlocked.moreinfo "Большасць сеціўных пляцовац будзе працаваць нават калі гэтае змесціва будзе заблакаваным.">
+<!ENTITY pointerLock.notification.message "Націсніце ESC у любы момант, каб паказаць яго ізноў.">

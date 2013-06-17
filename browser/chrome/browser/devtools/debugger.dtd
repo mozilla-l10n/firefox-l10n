@@ -21,15 +21,19 @@
 <!ENTITY debuggerUI.searchPanelTitle "Чыннікі">
 <!ENTITY debuggerUI.searchFile "Сітаваць сцэнары">
 <!ENTITY debuggerUI.searchFile.key "P">
+<!ENTITY debuggerUI.searchFile.altkey "O">
 <!ENTITY debuggerUI.searchGlobal "Пошук у ўсіх файлах">
 <!ENTITY debuggerUI.searchGlobal.key "F">
+<!ENTITY debuggerUI.searchFunction "Пошук вызначэння функцыі">
+<!ENTITY debuggerUI.searchFunction.key "D">
+<!ENTITY debuggerUI.searchFunction.altkey "O">
 <!ENTITY debuggerUI.searchToken "Знайсці">
 <!ENTITY debuggerUI.searchToken.key "F">
 <!ENTITY debuggerUI.searchLine "Пераскочыць на радок…">
 <!ENTITY debuggerUI.searchLine.key "J">
 <!ENTITY debuggerUI.searchVariable "Сітаваць зменныя">
 <!ENTITY debuggerUI.searchVariable.key "V">
-<!ENTITY debuggerUI.focusVariables "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables "Дрэва зменных">
 <!ENTITY debuggerUI.focusVariables.key "V">
 <!ENTITY debuggerUI.condBreakPanelTitle "Гэты перапыняльнік спыніць выкананне толькі тады, калі наступны выраз праўдзівы">
 <!ENTITY debuggerUI.seMenuBreak "Дадаць перапыняльнік">

@@ -2,18 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.label "Наладжванні">
-<!ENTITY aboutHeader.label "Пра">
-<!ENTITY aboutHeaderProduct.label "&brandShortName;">
-<!ENTITY aboutHeaderCompany.label "ад &vendorShortName;">
-<!ENTITY aboutHeaderPolicy.label "Чытаць палітыку адасаблення &brandShortName; у сетцы">
-<!ENTITY privacy.title "Адасабленне і бяспека">
-<!ENTITY doNotTrack.title "Забараняць сеціўным пляцоўкам сачыць за мною">
-<!ENTITY masterPassword.title "Ужываць галоўны пароль">
-<!ENTITY clearPrivateData2.title "Ачысціць асабістыя здаткі">
+<!ENTITY aboutHeader.title "Пра">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "&vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Чытанне палітыкі адсаблення &brandShortName; у сетцы">
+<!ENTITY optionsHeader.title "Наладжванні">
+<!ENTITY optionsHeader.startup.title "Запуск">
+<!ENTITY optionsHeader.homepage.title "Пасля запуску &brandShortName; паказаць">
+<!ENTITY optionsHeader.homepage.startPage.button "Пачатковая старонка">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "устаўкі, якія ў мяне былі апошнім разам">
+<!ENTITY optionsHeader.tabs.title "Заўсёды паказваць устаўкі">
+<!ENTITY optionsHeader.char.title "Кадоўка знакаў">
+<!ENTITY optionsHeader.char.autodetect.label "Сама-вызначэнне">
+<!ENTITY optionsHeader.char.options.label "Паказваць наладжванні кадоўкі на паліцы прыстасавання">
+<!ENTITY clearPrivateData.title "Ачысціць асабістыя здаткі">
+<!ENTITY clearPrivateData.label "Ачысціць гісторыю азірання, паролі, біркі і здаткі формаў на гэтай збудове">
 <!ENTITY clearPrivateData.button "Ачысціць">
-<!ENTITY rememberPasswords.title "Памятаць паролі">
-<!ENTITY startup.title "Запуск">
-<!ENTITY homepage.title "Паказваць падчас запуску &brandShortName;">
-<!ENTITY homepage.startPage "Пачатковая старонка">
-<!ENTITY homepage.sessionRestore "Устаўкі папярэдняга запуску">
+<!ENTITY clearPrivateData.done "Зроблена!">
+<!ENTITY clearPrivateData.history "Гісторыя азірання">
+<!ENTITY clearPrivateData.otherdata "Іншыя здаткі (паролі, запаснік, біркі, іншае)">
+<!ENTITY clearPrivateData.downloadHist "Гісторыя загрузак">
+<!ENTITY clearPrivateData.cookies "Біркі">
+<!ENTITY clearPrivateData.cache "Запаснік">
+<!ENTITY clearPrivateData.sitePref "Перавагі пляцовак">
+<!ENTITY clearPrivateData.formSearchHist "Гісторыя пошуку і запаўнення формаў">
+<!ENTITY clearPrivateData.passwords "Захаваныя паролі">
+<!ENTITY clearPrivateData.offline "Пазасеткавыя здаткі пляцовак сеціва">
+<!ENTITY clearPrivateData.logins "Дзейныя ўваходы">
+<!ENTITY optionsHeader.privacy.passwords.label "Памятаць паролі">
+<!ENTITY optionsHeader.privacy.doNotTrack.title "Высочванне">
+<!ENTITY optionsHeader.privacy.doNotTrack.label "Забараняць сеціўным пляцоўкам сачыць за мною">
