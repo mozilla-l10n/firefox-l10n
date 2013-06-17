@@ -59,14 +59,17 @@
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
-<!ENTITY updateAuto.label "Instalar automáticamente las actualizaciones (recomendado: mejora la seguridad)">
+<!ENTITY updateAuto.label "Instalar automáticamente las actualizaciones de &brandShortName; de escritorio">
 <!ENTITY updateAuto.accesskey "A">
+<!ENTITY updateAutoMetro.label "Actualizar automáticamente desde &brandShortname; de escritorio y del estilo Windows 8">
+<!ENTITY updateAutoMetro.accesskey "u">
 <!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
 <!ENTITY updateCheck.accesskey "z">
 <!ENTITY updateManual.label "No comprobar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos.">
 <!ENTITY updateAutoAddonWarn.accesskey "v">
+<!ENTITY updateAutoMetroWarn.label "(&brandShortName; del estilo Windows 8 no comprueba la compatibilidad de complementos)">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "h">
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">

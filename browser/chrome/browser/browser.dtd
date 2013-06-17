@@ -10,6 +10,8 @@
 <!ENTITY reloadTab.accesskey "g">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "R">
+<!ENTITY closeTabsToTheEnd.label "Cerrar pestañas a la derecha">
+<!ENTITY closeTabsToTheEnd.accesskey "a">
 <!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
 <!ENTITY closeOtherTabs.accesskey "C">
 <!ENTITY pinTab.label "Fijar pestaña">

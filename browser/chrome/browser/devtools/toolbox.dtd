@@ -5,11 +5,15 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Cerrar herramientas para desarrolladores">
 <!ENTITY toolboxOptionsButton.key "O">
-<!ENTITY options.context.label "Configuración avanzada (requiere reiniciar el navegador)">
-<!ENTITY options.enableChrome.label "Activar la depuración chrome">
+<!ENTITY options.context.advancedSettings "Ajustes avanzados">
+<!ENTITY options.context.requiresRestart "* Requiere reiniciar el navegador">
+<!ENTITY options.context.triggersPageRefresh "† Fuerza un refresco de página">
+<!ENTITY options.enableChrome.label2 "Activar depuración de chrome *">
 <!ENTITY options.enableChrome.tooltip "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador">
-<!ENTITY options.enableRemote.label "Activar la depuración remota">
+<!ENTITY options.enableRemote.label2 "Activar depuración remota *">
 <!ENTITY options.enableRemote.tooltip "Activar esta opción permitirá a las herramientas de desarrollador depurar instancias remotas de Firefox, como Firefox OS">
+<!ENTITY options.disableJavaScript.label "Desactiva JavaScript en la pestaña actual (temporalmente) †">
+<!ENTITY options.disableJavaScript.tooltip "Activar esta opción desactivará JavaScript en la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces este ajuste será descartado.">
 <!ENTITY options.selectDefaultTools.label "Herramientas de desarrollador de Firefox predeterminadas">
 <!ENTITY options.selectAdditionalTools.label "Herramientas de desarrollador instaladas por complementos">
 <!ENTITY options.selectDevToolsTheme.label "Elegir el tema de las herramientas de desarrollador:">
