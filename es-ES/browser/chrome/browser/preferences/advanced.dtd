@@ -61,7 +61,7 @@
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
 <!ENTITY updateAuto.label "Instalar automáticamente las actualizaciones de &brandShortName; de escritorio">
 <!ENTITY updateAuto.accesskey "A">
-<!ENTITY updateAutoMetro.label "Actualizar automáticamente desde &brandShortname; de escritorio y del estilo Windows 8">
+<!ENTITY updateAutoMetro.label "Actualizar automáticamente desde &brandShortName; de escritorio y del estilo Windows 8">
 <!ENTITY updateAutoMetro.accesskey "u">
 <!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
 <!ENTITY updateCheck.accesskey "z">
