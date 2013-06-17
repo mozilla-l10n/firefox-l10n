@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
+<!ENTITY bookmark_options "Настройки">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section "7 дней назад">
