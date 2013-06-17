@@ -241,7 +241,7 @@ size. -->
 <!ENTITY button_set                      "Määra">
 <!ENTITY button_clear                    "Tühjenda">
 
-<!ENTITY abouthome_addons_title          "Sinu &brandShortName;i lisad">
+<!ENTITY abouthome_addons_title          "Lisad sinu &brandShortName;ile">
 <!ENTITY abouthome_addons_browse         "Sirvi kõiki &brandShortName;i lisasid">
 <!ENTITY abouthome_last_tabs_title       "Kaardid eelmisest korrast">
 <!ENTITY abouthome_last_tabs_open        "Ava kõik kaardid eelmisest korrast">
