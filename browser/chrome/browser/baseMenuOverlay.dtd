@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimise">
 <!ENTITY bringAllToFront.label    "Bring All to Front">
@@ -17,6 +21,9 @@
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
 <!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
