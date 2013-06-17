@@ -7,10 +7,12 @@
 <!ENTITY popupWindowRejectCmd.accesskey "">
 <!ENTITY popupWindowAllowCmd.label      "Allow popup windows from this site">
 <!ENTITY popupWindowAllowCmd.accesskey  "">
-<!ENTITY openLinkCmd.label            "Open Link in New Window">
-<!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkCmdInTab.label       "Open Link in New Tab">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Open Link in New Window">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Open Link in Private Window">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Open">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label           "Open Frame in New Window">

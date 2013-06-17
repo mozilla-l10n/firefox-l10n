@@ -1,17 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.cookies.title             "Cookies">
 
 <!-- cookies -->
 
 <!ENTITY cookiePolicy.label             "Cookie Acceptance Policy">
 
-<!ENTITY accAllCookiesRadio.label       "Allow all cookies">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "Allow cookies for the originating web site only">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "Block cookies">
 <!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY accNo3rdPartyCookies.label     "Allow cookies for the originating web site only (no third-party cookies)">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label       "Allow third-party cookies for previously visited web sites only">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
+
+<!ENTITY accAllCookies.label            "Allow all cookies">
+<!ENTITY accAllCookies.accesskey        "c">
 
 <!ENTITY cookieRetentionPolicy.label    "Cookie Retention Policy">
 

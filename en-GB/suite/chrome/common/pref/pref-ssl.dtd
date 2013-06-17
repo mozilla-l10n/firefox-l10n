@@ -4,25 +4,37 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "SSL Protocol Versions">
 <!ENTITY  SSLWarnings.caption               "SSL Warnings">
+<!ENTITY  SSLMixedContent.caption           "Mixed Content">
 <!ENTITY  SSLClientAuthMethod.caption       "Client Certificate Selection">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label                 "Enable SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Enable TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "You can restrict which encryption protocols to use for secure connections. Choose a single version or a contiguous range of versions.">
+<!ENTITY limit.enable.label                 "Enable:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
 
 <!ENTITY warn.description                   "&brandShortName; can alert you to the security status of the web page you are viewing. Set &brandShortName; to show a warning and ask permission before:">
 <!ENTITY warn.enteringsecure                "Loading a page that supports encryption">
 <!ENTITY warn.enteringsecure.accesskey      "L">
-<!ENTITY warn.enteringweak                  "Loading a page that uses low-grade encryption">
-<!ENTITY warn.enteringweak.accesskey        "o">
 <!ENTITY warn.insecurepost                  "Sending form data from an unencrypted page to an unencrypted page">
 <!ENTITY warn.insecurepost.accesskey        "S">
 <!ENTITY warn.leavingsecure                 "Leaving a page that supports encryption">
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "Viewing a page with an encrypted/unencrypted mix">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "Warn me when encrypted pages contain insecure content">
+<!ENTITY warn.mixedactivecontent.accesskey  "W">
+<!ENTITY block.activecontent                "Don't load insecure content on encrypted pages">
+<!ENTITY block.activecontent.accesskey      "D">
+<!ENTITY warn.mixeddisplaycontent           "Warn me when encrypted pages contain other types of mixed content">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "Don't load other types of mixed content on encrypted pages">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Decide how &brandShortName; selects a security certificate to present to web sites that require one:">
 <!ENTITY certselect.auto                    "Select Automatically">
