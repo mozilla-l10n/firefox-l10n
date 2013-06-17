@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
+<!ENTITY bookmark_options "Opciones">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
 <!ENTITY history_week_section "Hace 7 días">
