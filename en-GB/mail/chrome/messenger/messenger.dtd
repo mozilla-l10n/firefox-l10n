@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Attachments">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Save As">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "File">
@@ -428,12 +426,14 @@
 <!ENTITY openConversationCmd.label "Open in Conversation">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Open Feed Message">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
@@ -554,7 +554,7 @@
 <!ENTITY chatButton.tooltip "Show the Chat tab">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
-<!ENTITY appmenuButton.tooltip "Displays the Application Menu">
+<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "New Message">
@@ -562,6 +562,8 @@
 <!ENTITY appmenuEditMenu.label "Edit">
 <!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
 <!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuSelectThread.label "Select Thread">
+<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "New Tag…">
