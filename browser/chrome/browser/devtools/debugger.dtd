@@ -42,7 +42,7 @@
 <!ENTITY debuggerUI.searchFile.altkey   "O">
 <!ENTITY debuggerUI.searchFunction      "વિધેય વ્યાખ્યા માટે શોધો">
 <!ENTITY debuggerUI.searchFunction.key  "D">
-<!ENTITY debuggerUI.searchFunction.altkey "O">
+
 <!ENTITY debuggerUI.searchGlobal        "બધી ફાઇલોમાં શોધો">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!ENTITY debuggerUI.searchLine          "લીટી પર જાઓ…">
