@@ -18,8 +18,8 @@
 <!ENTITY crash_comment "Añadir un comentario (estos son visibles públicamente)">
 <!ENTITY crash_allow_contact2 "Permitir a &vendorShortName; contactar conmigo sobre este informe">
 <!ENTITY crash_email "Su correo">
-<!ENTITY crash_closing_alert "¿Salir sin enviar el reporte de fallo?">
-<!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
+<!ENTITY crash_closing_alert "¿Salir sin enviar el informe de fallo?">
+<!ENTITY sending_crash_report "Enviando informe de fallo\u2026">
 <!ENTITY crash_close_label "Cerrar">
 <!ENTITY crash_restart_label "Reiniciar &brandShortName;">
 <!ENTITY exit_label "Salir">
@@ -106,12 +106,12 @@
 <!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-<!ENTITY datareporting_fhr_title "Reporte de salud de &brandShortName;">
+<!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
 <!ENTITY datareporting_fhr_summary "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud éste">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía reportes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
-<!ENTITY datareporting_crashreporter_title_short "Reporte de fallos">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
+<!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desactivadas">
