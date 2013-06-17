@@ -4,11 +4,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!--
-<!ENTITY intro.label "तुम्ही उघडण्याचा निर्णय घेतला आहे">
--->
-
 <!ENTITY from.label "पासून:">
 <!ENTITY actionQuestion.label "&brandShortName; नी या फाइलशी काय करावे?">
 
@@ -27,7 +22,5 @@
 <!ENTITY  unknownPromptText.label     "तुम्हाला ही फाइल संचयीत करायची?">
 <!ENTITY  saveFile.label              "फाइल संचयीत करा">
 <!ENTITY  saveFile.accesskey          "s">
-
 <!ENTITY  intro2.label                "तुम्ही उघडायचे, असे निश्चित केले आहे:">
-
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "जे आहे:">

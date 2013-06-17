@@ -65,5 +65,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "क्लिपबोर्डमध्ये मजकूरचे प्रत बनवा">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "क्लिपबोर्डमध्ये रॉ माहितीचे प्रत बनवा">
+
