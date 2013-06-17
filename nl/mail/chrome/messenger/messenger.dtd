@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Bijlagen">
-<!ENTITY openAttachmentCmd.accesskey "B">
 <!ENTITY saveAsMenu.label "Opslaan als">
 <!ENTITY saveAsMenu.accesskey "l">
 <!ENTITY saveAsFileCmd.label "Bestand">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Openen in conversatie">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Bijlagen">
+<!ENTITY openAttachmentListCmd.accesskey "n">
 <!ENTITY openFeedMessage1.label "Als feedbericht openen">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Als webpagina openen">
