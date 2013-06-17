@@ -4,12 +4,17 @@
 
 <!ENTITY SSLProtocolVersions.caption "Версіі пратаколаў SSL">
 <!ENTITY SSLWarnings.caption "Папярэджанні SSL">
+<!ENTITY SSLMixedContent.caption "Змешанае змесціва">
 <!ENTITY SSLClientAuthMethod.caption "Выбар пасведчання спажыўца">
 <!ENTITY pref.ssl.title "Слой бяспечных сокетаў (SSL)">
-<!ENTITY enable.ssl30.label "Дазволіць SSL 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Дазволіць TLS 1.0">
-<!ENTITY enable.tls10.accesskey "T">
+<!ENTITY limit.description "You can restrict which encryption protocols to use for secure connections. Choose a single version or a contiguous range of versions.">
+<!ENTITY limit.enable.label "Дазволена:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
 <!ENTITY warn.description "&brandShortName; можа папярэджваць вас пра статус бяспекі старонкі сеціва, якую вы праглядаеце. Наладзіць &brandShortName; паказваць папярэджванне і запытваць дазвол перад:">
 <!ENTITY warn.enteringsecure "Загрузкай старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.enteringsecure.accesskey "З">
@@ -19,6 +24,14 @@
 <!ENTITY warn.leavingsecure.accesskey "к">
 <!ENTITY warn.viewmixed "Праглядам старонкі, якая змяшчае зашыфраваныя і незашыфраваныя даныя">
 <!ENTITY warn.viewmixed.accesskey "П">
+<!ENTITY warn.mixedactivecontent "Папярэджваць мяне, калі тайнапісная старонка ўтрымлівае небяспенае змесціва">
+<!ENTITY warn.mixedactivecontent.accesskey "П">
+<!ENTITY block.activecontent "Не загружаць небяспечнае змесціва на тайнапісныя старонкі">
+<!ENTITY block.activecontent.accesskey "з">
+<!ENTITY warn.mixeddisplaycontent "Папярэджваць мяне, калі тайнапісная старонка ўтрымлівае іншыя тыпы змешанага змесціва">
+<!ENTITY warn.mixeddisplaycontent.accesskey "а">
+<!ENTITY block.displaycontent "Не заружаць іншыя тыпы змешанага змесціва на тайнапісныя старонкі">
+<!ENTITY block.displaycontent.accesskey "м">
 <!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўкам сеціва, якія патрабуюць пасведчанне:">
 <!ENTITY certselect.auto "Выбірае самастойна">
 <!ENTITY certselect.auto.accesskey "с">

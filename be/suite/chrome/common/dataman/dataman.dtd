@@ -9,6 +9,7 @@
 <!ENTITY select.permissions.label "Толькі дазволы">
 <!ENTITY select.preferences.label "Толькі перавагі">
 <!ENTITY select.passwords.label "Толькі паролі">
+<!ENTITY select.storage.label "Толькі сховішча">
 <!ENTITY domain.search.placeholder "Пошук даменаў">
 <!ENTITY domain.search.key "f">
 <!ENTITY domain.tree.domain.label "Дамен">
@@ -21,6 +22,7 @@
 <!ENTITY tab.permissions.label "Дазволы">
 <!ENTITY tab.preferences.label "Перавагі">
 <!ENTITY tab.passwords.label "Паролі">
+<!ENTITY tab.storage.label "Сховішча">
 <!ENTITY tab.formdata.label "Здаткі формаў">
 <!ENTITY tab.forget.label "Забыць">
 <!ENTITY cookies.description "Гэты дамен захаваў наступныя звесткі на вашым кампутары:">
@@ -75,6 +77,16 @@
 <!ENTITY pwd.ctx.selectAll.accesskey "у">
 <!ENTITY pwd.button.remove.label "Выдаліць">
 <!ENTITY pwd.button.remove.accesskey "д">
+<!ENTITY storage.description "Гэты дамен ужывае наступныя сеціўныя сховішчы на вашым кампутары:">
+<!ENTITY storage.tree.host.label "Пляцоўка Сеціва">
+<!ENTITY storage.tree.type.label "Тып">
+<!ENTITY storage.tree.size.label "Памер">
+<!ENTITY storage.ctx.remove.label "Выдаліць">
+<!ENTITY storage.ctx.remove.accesskey "д">
+<!ENTITY storage.ctx.selectAll.label "Вылучыць усё">
+<!ENTITY storage.ctx.selectAll.accesskey "у">
+<!ENTITY storage.button.remove.label "Выдаліць">
+<!ENTITY storage.button.remove.accesskey "д">
 <!ENTITY fdata.search.placeholder "Шукаць здаткі поля">
 <!ENTITY fdata.tree.fieldname.label "Назва поля">
 <!ENTITY fdata.tree.value.label "Уведзенае значэнне">
@@ -95,6 +107,8 @@
 <!ENTITY forget.preferences.accesskey "з">
 <!ENTITY forget.passwords.label "Паролі">
 <!ENTITY forget.passwords.accesskey "П">
+<!ENTITY forget.storage.label "Сховішча">
+<!ENTITY forget.storage.accesskey "С">
 <!ENTITY forget.formdata.label "Здаткі формаў">
 <!ENTITY forget.formdata.accesskey "ф">
 <!ENTITY forget.button.label "Забыць гэтыя здаткі">

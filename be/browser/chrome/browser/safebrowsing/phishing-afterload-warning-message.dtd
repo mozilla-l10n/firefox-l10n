@@ -2,17 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Падазроная, як сеціўная падробка">
-<!ENTITY safeb.palm.message.p1 "Гэтая старонка вядома як сеціўная падробка, створаная для таго, каб ашукаць карыстальнікаў, прымусіць іх адкрыць асабістыя або фінансавыя звесткі. Увод усякіх звестак на гэтай старонцы прывядзе, магчыма, да крадзяжу адметы або іншага ашуканства. ">
-<!ENTITY safeb.palm.message.p1.linkText "Прачытаць болей »">
-<!ENTITY safeb.palm.p1.linkStatusText "Прачытаць болей ">
-<!ENTITY safeb.palm.message.p2.start "Гэтыя тыпы сеціўных падробак ужываюцца ў ашуках, вядомых як лоўлявыя напады, у якіх круцельскія старонкі сеціва і адрасы э-пошты выкарыстоўваюцца для імітавання крыніцаў, якім вы давяраеце. Вы можаце даведацца больш пра">
-<!ENTITY safeb.palm.message.p2.linkText "як &brandShortName; абараняе вас">
-<!ENTITY safeb.palm.message.p2.end " ад лоўлявых нападаў.">
 <!ENTITY safeb.palm.accept.label "Пакінуць гэта месца!">
-<!ENTITY safeb.palm.accept.statustext "Накіравацца на маю хатнюю старонку">
 <!ENTITY safeb.palm.decline.label "Ігнараваць гэтае папярэджанне">
-<!ENTITY safeb.palm.decline.statustext "Зачыніць папярэджанне">
 <!ENTITY safeb.palm.notforgery.label2 "Гэта не сеціўная падробка…">
 <!ENTITY safeb.palm.reportPage.label "Чаму гэтая старонка затрымана?">
 <!ENTITY safeb.blocked.malwarePage.title "Занатаваная нападная пляцоўка!">

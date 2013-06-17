@@ -15,16 +15,10 @@
 <!ENTITY regularSize.label "Звычайны">
 <!ENTITY bigger.label "Большы">
 <!ENTITY smaller.label "Меншы">
-<!ENTITY color.label "Колер:">
-<!ENTITY color.accesskey "К">
+<!ENTITY quotedTextColor.label "Колер:">
+<!ENTITY quotedTextColor.accesskey "К">
 <!ENTITY displayWidth.label "Простатэкставыя лісты">
 <!ENTITY displayText.label "Калі адлюстроўваюцца цытаваныя простатэкставыя лісты:">
-<!ENTITY colors.label "Колеры">
-<!ENTITY overrideColors.label "Падчас адлюстравання лістоў ужываць наступныя колеры:">
-<!ENTITY textColor.label "Колер тэксту:">
-<!ENTITY textColor.accesskey "т">
-<!ENTITY backgroundColor.label "Колер фону:">
-<!ENTITY backgroundColor.accesskey "ф">
 <!ENTITY convertEmoticons.label "Адлюстроўваць пачуццезнакі графічна">
 <!ENTITY convertEmoticons.accesskey "ч">
 <!ENTITY displayTagsText.label "Меціны могуць ужывацца для размеркавання вашых лістоў па катэгорыям і надання ім прыярытэтаў.">
@@ -34,10 +28,12 @@
 <!ENTITY editTagButton.accesskey "П">
 <!ENTITY removeTagButton.label "Выдаліць">
 <!ENTITY removeTagButton.accesskey "В">
-<!ENTITY fontsAndColors.label "Шрыфты">
+<!ENTITY fontsAndColors1.label "Шрыфты і колеры">
 <!ENTITY defaultFont.label "Змоўчны шрыфт:">
 <!ENTITY defaultFont.accesskey "З">
 <!ENTITY defaultSize.label "Памер:">
 <!ENTITY defaultSize.accesskey "П">
 <!ENTITY fontOptions.accesskey "ш">
 <!ENTITY fontOptions.label "Пашыраны…">
+<!ENTITY colorButton.label "Колеры…">
+<!ENTITY colorButton.accesskey "К">

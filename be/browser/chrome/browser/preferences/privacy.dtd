@@ -21,8 +21,11 @@
 <!ENTITY locbar.nothing.label "Нічога">
 <!ENTITY acceptCookies.label "Набываць біркі з пляцовак">
 <!ENTITY acceptCookies.accesskey "б">
-<!ENTITY acceptThirdParty.label "Набываць пабочныя біркі">
-<!ENTITY acceptThirdParty.accesskey "о">
+<!ENTITY acceptThirdParty.pre.label "Набываць пабочныя біркі:">
+<!ENTITY acceptThirdParty.pre.accesskey "п">
+<!ENTITY acceptThirdParty.always.label "Заўсёды">
+<!ENTITY acceptThirdParty.never.label "Ніколі">
+<!ENTITY acceptThirdParty.visited.label "З наведаных">
 <!ENTITY keepUntil.label "Трымаць пакуль:">
 <!ENTITY keepUntil.accesskey "Т">
 <!ENTITY expire.label "яны не састарэюць">

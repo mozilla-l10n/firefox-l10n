@@ -11,3 +11,6 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY sender.label "Адпраўнік">
 <!ENTITY sender.accesskey "А">
+<!ENTITY totalOpenTimeBefore.label "Show New Mail Alert for">
+<!ENTITY totalOpenTimeBefore.accesskey "N">
+<!ENTITY totalOpenTimeEnd.label "секундаў">

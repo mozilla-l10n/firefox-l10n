@@ -17,7 +17,7 @@
 <!ENTITY existing.header "Ужо маеце адрас, якім хочаце карыстацца?">
 <!ENTITY tinyheader.title "Маеце адрас?">
 <!ENTITY tinyheader.existing "Прапусціць і пачаць карыстацца маёй існай э-поштай">
-<!ENTITY content.close "Думаю, я наладжу мой рахунак пазней">
+<!ENTITY content.close "Думаю, я наладжу мой рахунак пазней.">
 <!ENTITY successful.title "Віншаванні!">
 <!ENTITY successful.successMessage "Вы паспяхова наладзілі ваш рахунак.">
 <!ENTITY successful.write "Укласці некалькі лістоў">
