@@ -18,7 +18,9 @@
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li><strong>www</strong>.example.com</li> yerine <strong>ww</strong>.example.com yazılması gibi Yazım hatalarına karşı adresi kontrol edin. 
+<li><strong>www</strong>.example.com</li> yerine 
+<strong>ww</strong>.example.com gibi 
+yazım hatalarına karşı adresi kontrol edin. 
 <li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin.</li> 
 </ul>">
 
