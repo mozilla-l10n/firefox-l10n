@@ -73,11 +73,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
-<!ENTITY netmonitorUI.summary.method      "Request method:">
+<!ENTITY netmonitorUI.summary.method      "Metòde de la requèsta :">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
-<!ENTITY netmonitorUI.summary.status      "Status code:">
+<!ENTITY netmonitorUI.summary.status      "Còde d'estat :">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
@@ -97,7 +97,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
 
-<!ENTITY netmonitorUI.response.mime       "MIME Type:">
+<!ENTITY netmonitorUI.response.mime       "Tipe MIME :">
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
@@ -106,29 +106,29 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
 
-<!ENTITY netmonitorUI.timings.blocked     "Blocked:">
+<!ENTITY netmonitorUI.timings.blocked     "Blocat :">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 
-<!ENTITY netmonitorUI.timings.dns         "DNS resolution:">
+<!ENTITY netmonitorUI.timings.dns         "Resolucion DNS :">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
 
-<!ENTITY netmonitorUI.timings.connect     "Connecting:">
+<!ENTITY netmonitorUI.timings.connect     "Connexion :">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
 
-<!ENTITY netmonitorUI.timings.send        "Sending:">
+<!ENTITY netmonitorUI.timings.send        "Mandadís :">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
 
-<!ENTITY netmonitorUI.timings.wait        "Waiting:">
+<!ENTITY netmonitorUI.timings.wait        "En espèra :">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
 
-<!ENTITY netmonitorUI.timings.receive     "Receiving:">
+<!ENTITY netmonitorUI.timings.receive     "Recepcion :">
