@@ -16,13 +16,13 @@
 
 <!ENTITY sync.subtitle.connect.label "Ngam hurminde kaɓirgol maa kesol ngol, labo “Set up &syncBrand.shortName.label;” e kaɓirgol ngol.">
 <!ENTITY sync.subtitle.header2.label "Naatnu ngol dokkol e kaɓirgol maa ngola">
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.connectlocation2.label "Labo “&sync.title.pair.label;” e rogere &syncBrand.shortName.label; e nder cuɓe maa Firefox e kaɓirgol maa ngola.">
 <!ENTITY sync.subtitle.pair.label "Ngam hurminde, labo “Jokkondir Kaɓirɗi” e kaɓirgol maa ngola.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Hollu no waɗirtee.">
 <!ENTITY sync.link.advancedsetup.label "Teelte ceeɓtore…">
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Mi jogaaki kaɓirgol ngol jooni…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Nana sabbii kabirgol goɗngol ngol…">
