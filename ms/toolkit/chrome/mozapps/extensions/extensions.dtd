@@ -8,8 +8,8 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Loading">
-<!ENTITY listEmpty.installed.label            "Anda tidak mempunyai sebarang jenis Add-on ini yang terpasang">
+<!ENTITY loading.label                        "Memuatkan...">
+<!ENTITY listEmpty.installed.label            "Anda tidak mempunyai sebarang jenis Add-ons ini yang terpasang">
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">

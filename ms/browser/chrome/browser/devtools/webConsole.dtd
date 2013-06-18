@@ -49,7 +49,7 @@
 <!ENTITY btnPageCSS.tooltip "Ralat penghuraian log CSS">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript dikecualikan">
-<!ENTITY btnPageSecurity.label "Security">
+<!ENTITY btnPageSecurity.label "Keselamatan">
 <!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
