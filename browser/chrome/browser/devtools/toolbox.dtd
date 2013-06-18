@@ -13,19 +13,19 @@
   -  heading of the group of two about:config preferences to toggle chrome
   -  and remote debugging in the options panel. -->
 
-<!ENTITY options.context.label         "Advanced settings (requires a browser restart)">
+<!ENTITY options.context.label         "Gelişmiş ayarlar (tarayıcıyı yeniden başlatmak gerekir)">
 <!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label    "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip  "Turning this option on will allow you to use various developer tools in browser context">
+<!ENTITY options.enableChrome.label    "Chrome hata ayıklamayı etkinleştir">
+<!ENTITY options.enableChrome.tooltip  "Bu seçeneği açmak tarayıcı kapsamında çeşitli geliştirici araçlarını kullanmanıza izin verecektir">
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label    "Enable remote debugging">
-<!ENTITY options.enableRemote.tooltip  "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
+<!ENTITY options.enableRemote.label    "Uzaktan hata ayıklamayı etkinleştir">
+<!ENTITY options.enableRemote.tooltip  "Bu seçeneği açmak, geliştirici araçlarının Firefox OS gibi uzak Firefox kopyalarında hata ayıklamasına olanak tanır">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
