@@ -16,13 +16,13 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
 <!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
-<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_send_report_message2 "Bu çökmeyi Mozilla\u0027ya bildir ki sorunu çözebilsinler">
+<!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dâhil et">
 <!ENTITY  crash_sorry "Üzgünüz">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY  crash_comment "Yorum ekleyin (yorumlar herkes tarafından görülebilir)">
+<!ENTITY  crash_allow_contact "Mozilla bu raporla ilgili olarak benimle iletişime geçebilir">
 <!ENTITY  crash_email "E-postanız">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  crash_closing_alert "Çökme raporu göndermeden çıkmak mı istiyorsunuz?">
 <!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY  crash_close_label "Kapat">
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
@@ -132,10 +132,10 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Site ayarları">
 <!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
 <!ENTITY datareporting_notification_action "Ne paylaşacağınızı seçin">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_notification_summary "Deneyiminizi artırmak için &brandShortName; otomatik olarak &vendorShortName;\u0027ya bazı bilgiler gönderir.">
+<!ENTITY datareporting_notification_summary_short "Deneyiminizi artırmak için &brandShortName;…">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -144,14 +144,14 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Sağlık Raporu">
-<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
+<!ENTITY datareporting_fhr_summary "Tarayıcı performansınızı anlamanıza yardımcı olur ve tarayıcı sağlığınız hakkında &vendorShortName; ile bilgi paylaşır">
 <!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_summary "&brandShortName; tarayıcısını iyileştirmek için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName;, tarayıcınızı daha kararlı ve güvenli yapmak için çökme raporlarını &vendorShortName;\u0027ya gönderir">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Çökme Raporlayıcısı">
 
 <!ENTITY pref_update_autodownload "Otomatik güncellemeler">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">

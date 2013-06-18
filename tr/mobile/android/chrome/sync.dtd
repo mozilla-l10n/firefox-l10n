@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Şimdi eşitle">
 
 <!ENTITY sync.setup.title           "Eşitleme sunucusuna bağlan">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY sync.setup.pair            "Etkinleştirmek için, diğer aygıtınızdan &quot;Aygıt eşleştir&quot;i seçin.">
 <!ENTITY sync.fallback              "Bilgisayarımın yakınında değilim...">
 <!ENTITY sync.setup.manual          "Sync hesap bilgilerinizi girin">
 <!ENTITY sync.account               "Hesap adı">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Diğer aygıt bekleniyor…">
 
 <!ENTITY sync.pair.title            "Aygıt eşleştir">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Yeni aygtınızı etkinleştirmek için, diğer aygıttan &quot;Eşitlemeyi kur&quot;u seçin.">
 <!ENTITY sync.setup.close           "Kapat">
 <!ENTITY sync.setup.waitingdownload "Verileriniz şu anda arka planda indiriliyor. Bu pencereyi istediğiniz zaman kapatabilirsiniz.">
