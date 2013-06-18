@@ -27,7 +27,7 @@
 <!ENTITY isDefault.label "&brandShortName; es actualmente su navegador predeterminado">
 <!ENTITY dataChoicesTab.label "Elección de datos">
 <!ENTITY healthReportSection.label "Informe de salud de &brandShortName;">
-<!ENTITY healthReportDesc.label "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud éste">
+<!ENTITY healthReportDesc.label "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de éste">
 <!ENTITY enableHealthReport.label "Activar el informe de salud de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "R">
 <!ENTITY healthReportLearnMore.label "Saber más">
