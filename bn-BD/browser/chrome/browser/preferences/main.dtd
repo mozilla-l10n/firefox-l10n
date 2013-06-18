@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "&brandShortName; আরম্ভের সময় s:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "আমার নীড় পাতা প্রদর্শন করো">
+<!ENTITY startupHomePage.label     "আমার নীড় পাতা প্রদর্শন কর">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupLastSession.label  "সর্বশেষ উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
 

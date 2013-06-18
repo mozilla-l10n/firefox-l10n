@@ -9,12 +9,12 @@
 
 <!ENTITY  fontsAndColors.label        "ফন্ট &amp; রং">
 
-<!ENTITY  defaultFont.label           "ডিফল্ট ফন্ট D:">
+<!ENTITY  defaultFont.label           "পূর্বনির্ধারিত ফন্ট D:">
 <!ENTITY  defaultFont.accesskey       "D">
 <!ENTITY  defaultSize.label           "আকার S:">
 <!ENTITY  defaultSize.accesskey       "S">
 
-<!ENTITY  advancedFonts.label         " A উচ্চপর্যায়ের...">
+<!ENTITY  advancedFonts.label         "A উচ্চপর্যায়ের...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "রং... C">
