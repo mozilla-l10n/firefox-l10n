@@ -107,7 +107,7 @@
 <!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud éste">
+<!ENTITY datareporting_fhr_summary "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de éste">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
