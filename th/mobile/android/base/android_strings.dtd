@@ -12,17 +12,17 @@
 <!ENTITY  awesomebar_all_pages_title "เว็บเด่น">
 <!ENTITY  awesomebar_bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  awesomebar_history_title "ประวัติ">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!ENTITY  awesomebar_switch_to_tab "สลับแท็บ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY  crash_reporter_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
+<!ENTITY  crash_message2 "&brandShortName; เกิดการขัดข้อง แท็บที่เปิดไว้จะแสดงเป็นรายการในหน้าแรกของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
+<!ENTITY  crash_send_report_message2 "แจ้ง Mozilla เกี่ยวกับขัดข้องนี้เพื่อที่จะได้แก้ไขมัน">
 <!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  crash_sorry "เราต้องขออภัย">
+<!ENTITY  crash_comment "เพิ่มความคิดเห็น (ความคิดจะถูกแสดงให้ทุกคนเห็น)">
+<!ENTITY  crash_allow_contact "อนุญาตให้ Mozilla ติดต่อฉันเกี่ยวกับรายงานนี้">
+<!ENTITY  crash_email "อีเมลของคุณ">
+<!ENTITY  crash_closing_alert "ออกโดยที่ไม่ส่งรายงานข้อขัดข้อง?">
 <!ENTITY  sending_crash_report "กำลังส่งรายงานข้อขัดข้อง\u2026">
 <!ENTITY  crash_close_label "ปิด">
 <!ENTITY  crash_restart_label "เริ่ม &brandShortName; ใหม่">
@@ -61,44 +61,44 @@
 <!ENTITY one_tab "1 แท็บ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
+<!ENTITY num_tabs2 "&formatD; แท็บ">
 <!ENTITY new_tab_opened "เปิดแท็บใหม่">
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
+<!ENTITY pref_category_general "ทั่วไป">
+<!ENTITY pref_category_privacy "ความเป็นส่วนตัวและความปลอดภัย">
+<!ENTITY pref_category_content "เนื้อหา">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
+<!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privacy &amp; Security">
-<!ENTITY pref_header_content "Content">
+<!ENTITY pref_header_general "ทั่วไป">
+<!ENTITY pref_header_privacy "ความเป็นส่วนตัวและความปลอดภัย">
+<!ENTITY pref_header_content "เนื้อหา">
 
 <!ENTITY pref_cookies_menu "คุกกี้">
-<!ENTITY pref_cookies_accept_all "Enabled">
+<!ENTITY pref_cookies_accept_all "เปิดใช้อยู่">
 <!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
+<!ENTITY pref_donottrack_menu "การติดตาม">
+<!ENTITY pref_donottrack_disallow_tracking "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
+<!ENTITY pref_donottrack_allow_tracking "บอกเว็บไซต์ต่าง ๆ ว่าติดตามฉัน">
+<!ENTITY pref_donottrack_no_pref "ไม่ต้องบอกเว็บไซต์ต่าง ๆ ทุกอย่างที่เกี่ยวกับการตั้งค่าการติดตามของฉัน">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
 <!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
 <!ENTITY pref_plugins "โปรแกรมเสริม">
-<!ENTITY pref_plugins_enabled "Enabled">
+<!ENTITY pref_plugins_enabled "เปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins_disabled "ปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวหนังสือ">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "เล็กมาก">
@@ -126,9 +126,9 @@ size. -->
 <!ENTITY pref_private_data_history "ประวัติการท่องเว็บและการดาวน์โหลด">
 <!ENTITY pref_private_data_formdata "ประวัติการกรอกฟอร์มและการค้นหา">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
+<!ENTITY pref_private_data_passwords "รหัสผ่านที่บันทึกไว้">
+<!ENTITY pref_private_data_cache "แคช">
+<!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles "Downloaded files">
 
@@ -143,7 +143,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
 <!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
@@ -151,12 +151,12 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!ENTITY datareporting_crashreporter_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
+<!ENTITY pref_update_autodownload "การปรับรุ่นอัตโนมัติ">
 <!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
+<!ENTITY pref_update_autodownload_disabled "ปิดใช้งาน">
+<!ENTITY pref_update_autodownload_enabled "เปิดใช้งาน">
 
 <!ENTITY quit "ออก">
 
@@ -169,7 +169,7 @@ size. -->
 <!ENTITY share_title "แบ่งปันโดย">
 <!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
-<!ENTITY find_in_page "Find in Page">
+<!ENTITY find_in_page "ค้นหาในหน้านี้">
 <!ENTITY desktop_mode "Request Desktop Site">
 <!ENTITY tools "เครื่องมือ">
 <!ENTITY new_tab "แท็บใหม่">
@@ -184,22 +184,22 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Find in Page">
+<!ENTITY find_text "ค้นหาในหน้านี้">
 <!ENTITY find_prev "ก่อนหน้า">
 <!ENTITY find_next "ถัดไป">
-<!ENTITY find_close "Close">
+<!ENTITY find_close "ปิด">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_open_in_reader "Open in Reader">
-<!ENTITY contextmenu_remove_history "Remove">
+<!ENTITY contextmenu_remove_history "ลบ">
 <!ENTITY contextmenu_remove_bookmark "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
 <!ENTITY contextmenu_pasteandgo "วางแล้วเข้าเว็บ">
 <!ENTITY contextmenu_paste "วาง">
 <!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_edit_bookmark "แก้ไข">
 <!ENTITY contextmenu_subscribe "Subscribe to Page">
 <!ENTITY contextmenu_site_settings "Edit Site Settings">
 
@@ -226,7 +226,7 @@ size. -->
 <!ENTITY reading_list_removed "Page removed from your Reading List">
 <!ENTITY reading_list_failed "Failed to add page to your Reading List">
 <!ENTITY reading_list_duplicate "Page already in your Reading List">
-<!ENTITY reader "Reader">
+<!ENTITY reader "ตัวอ่าน">
 
 <!ENTITY masterpassword_create_title "สร้างรหัสผ่านหลัก">
 <!ENTITY masterpassword_remove_title "ลบรหัสผ่านหลัก">
@@ -238,15 +238,15 @@ size. -->
 <!ENTITY button_yes "ใช่">
 <!ENTITY button_no "ไม่ยินยอม">
 <!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!ENTITY button_set "ตั้งค่า">
+<!ENTITY button_clear "ล้าง">
 
 <!ENTITY abouthome_addons_title "ส่วนเสริมสำหรับ &brandShortName; ของคุณ">
 <!ENTITY abouthome_addons_browse "ดูส่วนเสริมทั้งหมดของ &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY abouthome_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
 <!ENTITY abouthome_top_sites_title "เว็บเด่น">
-<!ENTITY abouthome_topsites_edit "Edit">
+<!ENTITY abouthome_topsites_edit "แก้ไข">
 <!ENTITY abouthome_topsites_pin "Pin Site">
 <!ENTITY abouthome_topsites_unpin "Unpin Site">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
@@ -287,14 +287,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Private data cleared">
 <!ENTITY private_data_fail "Some private data could not be cleared">
 
-<!ENTITY bookmarkhistory_button_import "Import">
+<!ENTITY bookmarkhistory_button_import "นำเข้า">
 <!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
                                       from Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
                                            from Android">
 <!ENTITY bookmarkhistory_import_history "Importing history
                                          from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY bookmarkhistory_import_wait "โปรดรอ…">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 

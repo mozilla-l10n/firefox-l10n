@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "&brandShortName; Feedback">
+<!ENTITY pageTitle                 "ปรับรุ่น &brandShortName;">
 
 <!ENTITY intro.header              "Have a minute?">
 <!ENTITY intro.message             "Tell us what you think about &brandShortName; for Android so far.">
@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
 <!ENTITY support.pre               "If you need help or have a problem with &brandShortName;, please visit ">
-<!ENTITY support.link              "&brandShortName; Support">
+<!ENTITY support.link              "การช่วยเหลือของ &brandShortName;">
 <!ENTITY support.post              ".">
 
 <!ENTITY happy.header              "That's great to hear!">
@@ -32,7 +32,7 @@
 
 <!ENTITY happy.ratingLink          "Yes, go to Google Play">
 <!ENTITY happy.maybeLater          "Maybe Later">
-<!ENTITY happy.noThanks            "No thanks">
+<!ENTITY happy.noThanks            "ไม่ ขอบคุณ">
 
 <!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
 <!ENTITY sad.placeholder           "Enter your feedback here">

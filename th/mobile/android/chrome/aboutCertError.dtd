@@ -15,15 +15,22 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "คุณให้ &brandShortName; เชื่อมต่อแบบนิรภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณนิรภัยหรือไม่">
+<!ENTITY certerror.introPara1 "คุณให้ &brandShortName; เชื่อมต่อแบบนิรภัยไปยัง
+<b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณนิรภัยหรือไม่">
 
 <!ENTITY certerror.whatShouldIDo.heading "ฉันควรทำอย่างไร?">
-<!ENTITY certerror.whatShouldIDo.content "ถ้าคุณเคยเข้าเว็บไซต์นี้ได้โดยไม่มีปัญหามาก่อน ความผิดพลาดนี้อาจเกิดจากบางคนพยายามจะปลอมแปลงตัวเป็นเว็บไซต์นี้ และคุณไม่ควรไปต่อ">
+<!ENTITY certerror.whatShouldIDo.content "ถ้าคุณเคยเข้าเว็บไซต์นี้ได้
+โดยไม่มีปัญหามาก่อน ความผิดพลาดนี้อาจเกิดจากบางคนพยายาม
+จะปลอมแปลงตัวเป็นเว็บไซต์นี้ และคุณไม่ควรไปต่อ">
 <!ENTITY certerror.getMeOutOfHere.label "นำฉันออกไปจากที่นี่!">
 
 <!ENTITY certerror.expert.heading "ฉันเข้าใจถึงความเสี่ยง">
-<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจว่าเกิดอะไรขึ้น คุณสามารถสั่งให้ &brandShortName; เชื่อถืออัตลักษณ์ของเว็บไซต์นี้ได้ <b>ถึงแม้ว่าคุณจะเชื่อถือเว็บไซต์นี้ แต่ข้อผิดพลาดนี้อาจเกิดจากบางคนกำลังแอบยุ่งกับการเชื่อมต่อของคุณอยู่</b>">
-<!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่าคุณจะรู้ว่าเว็บไซต์นี้มีเหตุผลอะไร ทำไมจึงไม่ใช้อัตลักษณ์แบบเชื่อถือได้">
+<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจว่าเกิดอะไรขึ้น
+คุณสามารถสั่งให้ &brandShortName; เชื่อถืออัตลักษณ์ของเว็บไซต์นี้ได้
+<b>ถึงแม้ว่าคุณจะเชื่อถือเว็บไซต์นี้ แต่ข้อผิดพลาดนี้อาจเกิดจากบางคนกำลัง
+แอบยุ่งกับการเชื่อมต่อของคุณอยู่</b>">
+<!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่า
+คุณจะรู้ว่าเว็บไซต์นี้มีเหตุผลอะไร ทำไมจึงไม่ใช้อัตลักษณ์แบบเชื่อถือได้">
 <!ENTITY certerror.addTemporaryException.label "เข้าสู่เว็บไซต์">
 <!ENTITY certerror.addPermanentException.label "เพิ่มข้อยกเว้นอย่างถาวร">
 
