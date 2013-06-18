@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "ಈ ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ (S)">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "S">
+<!ENTITY shareLinkCmd.label "ಈ ಕೊಂಡಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ (S)">
+<!ENTITY shareLinkCmd.accesskey "S">
+<!ENTITY shareImageCmd.label "ಈ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ (S)">
+<!ENTITY shareImageCmd.accesskey "S">
+<!ENTITY shareSelectCmd.label "ಆಯ್ಕೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ (S)">
+<!ENTITY shareSelectCmd.accesskey "S">
+<!ENTITY shareVideoCmd.label "ಈ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ (S)">
+<!ENTITY shareVideoCmd.accesskey "S">
 <!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "ದೂರಸ್ಥ ಜಾಲ ಕನ್ಸೋಲ್‌">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "ಜಾಲವೀಕ್ಷಕ ಕನ್ಸೋಲ್">
 
 <!ENTITY inspectContextMenu.label     "ಪರೀಕ್ಷಕ ಘಟಕ">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "ಸಂಪಾದನೆ"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು (U)">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">  
@@ -645,12 +645,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "ಗಣಕತೆರೆ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+<!ENTITY social.activated.description "<label/> ಇಂದ ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ನೀವು <label class='text-link'>ಆಡ್-ಆನ್ ವ್ಯವಸ್ಥಾಪಕ</label>ದಲ್ಲಿನ ಸೇವೆಗಳಿಗಾಗಿ ನಿಮ್ಮ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.">
+<!ENTITY social.activated.undo.label "ಓಹ್, ಇದನ್ನು ರದ್ದು ಮಾಡು! (u)">
+<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ (L)...">
+<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.closeNotificationItem.label "ಈಗ ಬೇಡ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ಮಾತುಕತೆಗಳತ್ತ ಗಮನ ಹರಿಸು">
