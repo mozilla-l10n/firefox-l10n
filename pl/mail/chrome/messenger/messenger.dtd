@@ -475,6 +475,8 @@
 <!ENTITY errorConsoleCmd.commandkey "K">
 <!ENTITY clearRecentHistory.label "Wyczyść historię przeglądania…">
 <!ENTITY clearRecentHistory.accesskey "h">
+<!ENTITY allowRemoteDebugging.label "Zezwalaj na zdalne debugowanie">
+<!ENTITY allowRemoteDebugging.accesskey "n">
 <!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
