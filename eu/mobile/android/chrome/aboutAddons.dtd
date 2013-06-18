@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Desgaitu">
 <!ENTITY addonAction.uninstall                  "Desinstalatu">
 <!ENTITY addonAction.undo                       "Desegin">
+<!ENTITY addonAction.setDefault                 "Ezarri lehenetsi gisa">
