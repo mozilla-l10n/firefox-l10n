@@ -52,11 +52,9 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 <!ENTITY notCached.longDesc "<p>Dɔkomɛnte a wo bisae no nni hɔ bio wɔ &brandShortName; asiei-bea mu.</p><ul><li>Ɛnam sikuriti nsɛm nti, &brandShortName; nnsan mmbisa adɔkomɛnte a wɔn ho hia paa wɔn ekyiri kwan bio.</li><li>Kleke San Sɔ Hwɛ fa san bisa dɔkomɛnte no firi wɛbsaet no so.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Mia &quot;San-sɔ-hwɛ&quot; fa kɔ ɔnlaen tebea mu na san bue krataafa no.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
 <!ENTITY contentEncodingError.longDesc "<ul> 

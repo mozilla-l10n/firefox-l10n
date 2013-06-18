@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Sesa"> 
 <!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Nnyɛ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "y"> 
 <!ENTITY redoCmd.label            "Yɛ bio">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "b"> 
@@ -292,7 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Apɛde-nhyehyɛ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "Pepa ndansa yi ara n'abakɔsɛm…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "u">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Hwehwɛ anaaso kyerɛw adrɛs">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Swekye kɔ tab:">
 <!-- 
@@ -435,10 +435,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "m">
 <!ENTITY emailAudioCmd.label          "Emel ɔdio…">
 <!ENTITY emailAudioCmd.accesskey      "d">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY playPluginCmd.label          "Kenyan plagin yi">
+<!ENTITY playPluginCmd.accesskey      "n">
+<!ENTITY hidePluginCmd.label          "Suma plagin yi">
+<!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Fa Link Lokehyɛn">
 <!ENTITY copyLinkCmd.accesskey        "e">
 <!ENTITY copyImageCmd.label           "Fa Mfonin no Lokehyɛn">
@@ -469,12 +469,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Mmum">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate.label     "Bɔ ntɛmyɛ">
+<!ENTITY mediaPlaybackRate.accesskey "B">
+<!ENTITY mediaPlaybackRate050x.label "Bɔ no brɛw (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "b">
+<!ENTITY mediaPlaybackRate100x.label "Ntɛmyɛ nɔmal">
+<!ENTITY mediaPlaybackRate100x.accesskey "n">
 <!ENTITY mediaPlaybackRate150x.label "Mmirikantɛntɛm (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "M">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
@@ -645,30 +645,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Kyerɛ dɛsktɔp asɛnka">
 <!ENTITY social.toggleNotifications.accesskey "s">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.activated.description "Wɔadum asom firi <label/>. Wo bɛtumi asesa wo nhyɛhyɛe ma asom wɔ <label class='text-link'>Nkaho hwɛsofo</label> mu.">
+<!ENTITY social.activated.undo.label "Agyei, mma nnyɛ yi!">
+<!ENTITY social.activated.undo.accesskey "y">
+<!ENTITY social.learnMore.label "Sua bi ka ho…">
+<!ENTITY social.learnMore.accesskey "S">
 <!ENTITY social.closeNotificationItem.label "Nnyɛ Seiseiara">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Fa nkɔmbɔ bra enim">
+<!ENTITY social.chatBar.accesskey "b">
 <!-- labels are set dynamically, see browser.properties -->
 
 <!ENTITY social.markpage.accesskey "m">
 <!ENTITY social.marklink.accesskey "M">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "Mfonin-fidie a wo pɛ sɛ wo kyɛ:">
+<!ENTITY getUserMedia.selectCamera.accesskey "f">
+<!ENTITY getUserMedia.selectMicrophone.label "Kasamu a wo pɛ sɛ wo kyɛ:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "K">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+<!ENTITY webrtcIndicatorButton.label "Mfonin-fidie / kasamu wɔn ho akwanya">
+<!ENTITY webrtcIndicatorButton.tooltip "Kyerɛ nsaet a wo de wɔn rekyɛ wo mfonin-fidie ne kasamu-fidie">
 
 <!ENTITY mixedContentBlocked.helplink "Sua bi ka ho">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
+<!ENTITY mixedContentBlocked.moreinfo "Wɛbsaet bebre no ara bɛkɔ so adi dwuma yie sɛ mpo wɔasiw kɔntɛnt yi ano a.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "Mia ESC bere biara wo pɛ fa kyerɛ no bio.">
