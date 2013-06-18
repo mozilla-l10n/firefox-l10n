@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Бу сирэйи бэлиэтээ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "Бу сирэйи тарҕатарга">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "Б">
+<!ENTITY shareLinkCmd.label "Бу сигэни тарҕат">
+<!ENTITY shareLinkCmd.accesskey "Б">
+<!ENTITY shareImageCmd.label "Бу ойууну тарҕат">
+<!ENTITY shareImageCmd.accesskey "Б">
+<!ENTITY shareSelectCmd.label "Талыллыбыты тарҕат">
+<!ENTITY shareSelectCmd.accesskey "Т">
+<!ENTITY shareVideoCmd.label "Бу видеону тарҕат">
+<!ENTITY shareVideoCmd.accesskey "Б">
 <!ENTITY subscribeToPageMenupopup.label "Бу сирэйгэ суруттар">
 <!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Уларытыы"> 
 <!ENTITY editMenu.accesskey       "У"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Төннөр">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "Т"> 
 <!ENTITY redoCmd.label            "Хатылаа">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "Х"> 
@@ -645,9 +645,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Биллэриилэри көрдөрөр буол">
 <!ENTITY social.toggleNotifications.accesskey "к">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.description "Өҥөлөр <label/> холбоммуттар. Туруорууларын манна уларытыаххын сөп <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Һуук, кэбис төннөр!">
+<!ENTITY social.activated.undo.accesskey "к">
 <!ENTITY social.learnMore.label "Learn more…">
 <!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "Кэнники">
