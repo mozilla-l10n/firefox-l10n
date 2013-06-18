@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY title                  "Box Model">
+<!ENTITY title                  "Модел">
 <!ENTITY margins.tooltip        "отстъп">
 <!ENTITY borders.tooltip        "рамка">
 <!ENTITY padding.tooltip        "запълване">
