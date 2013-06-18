@@ -10,12 +10,12 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;-ஐ இணை">
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.title.adddevice.label "ஒரு கணக்கை &syncBrand.fullName.label; சேர்">
 <!ENTITY sync.title.pair.label "ஒரு சாதனத்தை இணைசேர்">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
+<!ENTITY sync.subtitle.header2.label "இந்த குறியீட்டை உங்களின் மற்றொரு சாதனத்தில் தட்டவும்">
 <!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
 <!ENTITY sync.subtitle.pair.label "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் “ஒரு சாதனத்தை இணைசேர்” என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
@@ -25,23 +25,23 @@
 <!ENTITY sync.link.nodevice.label "என்னிடம் சாதனம் இல்லை">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "மற்றொரு சாதனத்துக்காக காத்திருக்கவும்...">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
+<!ENTITY sync.subtitle.account.label "உங்கள் கணக்கின் விவரங்களை &syncBrand.fullName.label; உள்ளீடவும்">
 <!ENTITY sync.input.username.label "கணக்கு பெயர்">
 <!ENTITY sync.input.password.label "கடவுச்சொல்">
 <!ENTITY sync.input.key.label "மீட்பு விசை">
 <!ENTITY sync.checkbox.server.label "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து">
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.input.server.label "சேவையகத்தின் URL">
 <!-- Setup Fail -->
   
 <!ENTITY sync.title.fail.label "&syncBrand.shortName.label;-ஐ அமைக்கமுடியவில்லை">
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.subtitle.fail.label "சேவையகத்தை இணைக்கு முடியவில்லை &syncBrand.fullName.label;. மறுபடியும் முயற்ச்சிக்க விருப்பமா?">
 <!ENTITY sync.button.tryagain.label "மீண்டும் முயற்சிக்கவும்">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
+<!ENTITY sync.button.manual.label "கைமுறை அமைப்பு">
+<!ENTITY sync.subtitle.nointernet.label "இணைய இணைப்பு இல்லை.">
+<!ENTITY sync.subtitle.failaccount.label "உங்களுடைய சாதனத்தில் கணக்கை தோற்றுவிக்க முடியவில்லை.">
 <!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
 <!-- Setup Success -->
   
@@ -56,11 +56,11 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "தேர்வுகள்">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label "மற்றொரு சாதனத்தை உங்களின் &syncBrand.shortName.label; கணக்கில் இணைக்கவும்">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.label "எதை ஒத்திசைக்க">
+<!ENTITY sync.configure.engines.sync.my.title.label "உங்களுடைய ஒத்திசைவு...">
 <!ENTITY sync.configure.engines.title.bookmarks "புத்தகக்குறிகள்">
 <!ENTITY sync.configure.engines.title.passwords "கடவுச்சொற்கள்">
 <!ENTITY sync.configure.engines.title.history "வரலாறு">
@@ -80,27 +80,27 @@
 <!ENTITY bookmarks.folder.tags.label "குறிகள்">
 <!ENTITY bookmarks.folder.toolbar.label "புத்தகக்குறிகள் கருவிப்பட்டை">
 <!ENTITY bookmarks.folder.unfiled.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label "திரைமுகப்பின் புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.mobile.label "மொபைல் புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.readinglist.label "படிக்கும் பட்டியல்">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "நிலைநிறுத்தப்பட்டது">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.oneaccount.label "ஒரே ஒரு கணக்கு தான் &syncBrand.fullName.label; ஆதரிக்கப்பட்டது.">
+<!ENTITY sync.notification.configure.saved "தங்களின் தெறிவுகள் சேமிக்கப்பட்டது.">
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "தவறான கணக்கு பெயர் அல்லது கடவுச்சொல்.">
 <!ENTITY sync.invalidserver.label "சரியான சேவையக URL-ஐ உள்ளிடவும்">
 <!ENTITY sync.verifying.label "சரிபார்க்கிறது...">
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.new.recoverykey.status.incorrect " மீட்பு சாவி தவறானது. மீண்டும் முயற்ச்சிக்கவும்">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.title.send.tab.label "தாவலை சானங்களுக்கு அனுப்பவும்.">
+<!ENTITY sync.button.send.label "அனுப்பு">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-ஐ அமை">
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; அமைவை தாவல்களுக்கு அனுப்பவும்.">
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
 <!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.text.tab.not.sent.label "உங்களின் தாவலை அனுப்புவதில் பிரிச்சனை வந்திருக்கிறது.">

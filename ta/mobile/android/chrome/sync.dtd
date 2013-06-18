@@ -19,11 +19,11 @@
 <!ENTITY sync.password              "கடவுச்சொல்">
 <!ENTITY sync.recoveryKey           "மீட்பு விசை">
 <!ENTITY sync.customServer          "ஒரு தனிபயன் சேவையகத்தை பயன்படுத்து">
-<!ENTITY sync.serverURL             "Server URL">
+<!ENTITY sync.serverURL             "சேவையகத்தின் URL">
 <!ENTITY sync.setup.connect         "இணை">
 <!ENTITY sync.setup.cancel          "விடு">
 <!ENTITY sync.setup.tutorial        "எவ்வாறு என காட்டு">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+<!ENTITY sync.setup.waiting2        "மற்றொரு சாதனத்துக்காக காத்திருக்கவும்...">
 
 <!ENTITY sync.pair.title            "ஒரு சாதனத்தை இணைசேர்">
 <!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
