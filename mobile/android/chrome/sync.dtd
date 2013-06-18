@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Ngqamanisa ngoku">
 
 <!ENTITY sync.setup.title           "Nxibelelanisa kungqamaniso">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY sync.setup.pair            "Ukuvuselela, khetha &quot;Hambisa ngambini isixhobo&quot; kwesinye isixhobo sakho.">
 <!ENTITY sync.fallback              "Andikho kufutshane nekhompyutha yam...">
 <!ENTITY sync.setup.manual          "Faka inkcazelo yeakhawunti yongqamaniso">
 <!ENTITY sync.account               "Igama Leakhawunti">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Ilindele esinye isixhobo...">
 
 <!ENTITY sync.pair.title            "Beka izixhobo ngazibini">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Ukuvuselela isixhobo sakho esitsha, khetha &quot;Seta uNgqamaniso&quot; kwisixhobo.">
 <!ENTITY sync.setup.close           "Vala">
 <!ENTITY sync.setup.waitingdownload "Iingcombolo ziyakhutshelwa ngoku ngemva Ungayivala le festile nanini na.">

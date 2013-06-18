@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Khangela iZihlaziyi »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
 <!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+<!ENTITY aboutPage.checkForUpdates.available    "Ehlaziyiweyo ikhona; cofa ukuze ukhuphele">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Ikhuphela ehlaziyiweyo…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Ehlaziyiweyo ikhutshelwe; cofa ukuze uyifake">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
 <!ENTITY aboutPage.privacyPolicy.label          "Malunga ne-&brandShortName;">
