@@ -6,5 +6,5 @@
 <!ENTITY newtab.pageTitle "Нов подпрозорец">
 <!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
 <!ENTITY newtab.undo.undoButton "Undo.">
-<!ENTITY newtab.undo.restoreButton "Restore All.">
-<!ENTITY newtab.undo.closeTooltip "Hide">
+<!ENTITY newtab.undo.restoreButton "Възстановяване на всички">
+<!ENTITY newtab.undo.closeTooltip "Скриване">
