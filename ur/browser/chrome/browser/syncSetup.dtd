@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "پ">
 <!ENTITY setup.confirmPassword.label     "پاس ورڈ تصدیق کریں">
 <!ENTITY setup.confirmPassword.accesskey "ت">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "Windows 8 طرز کے &brandShortName; کے ساتھ ہم وقت ساز کریں">
+<!ENTITY setup.setupMetro.accesskey "و">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "آلے کا جوڑا بنائیں">
 <!ENTITY addDevice.showMeHow.label          "مجھے دکھائیں کیسے۔">
 <!ENTITY addDevice.dontHaveDevice.label     "میرے پاس اس وقت آلہ نہیں ہے">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "عمل میں لانے کے لیے، اپنے دوسرے آلے پر &quot;Pair a Device&quot; منتخب کریں۔">
 <!ENTITY addDevice.setup.enterCode.label    "پھر، یہ کوڈ داخل کریں:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "اپنا نیا آلہ عمل میں لانے کے لیے، آلے پر &quot;Set Up Sync&quot; منتخب کریں۔">
 <!ENTITY addDevice.dialog.enterCode.label   "آلے کا مہیا کیا ہوا کوڈ داخل کریں:">
 <!ENTITY addDevice.dialog.tryAgain.label    "پھر کوشش کریں۔">
 <!ENTITY addDevice.dialog.successful.label  "آلہ کامیابی سے ڈل گیا ہے۔ ابتدائیہم وقت سازی ہم وقت سازی کچھ منٹ لے سکتی ہے اور پس منظر میں مکمل ہو گی۔">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label " سائن ان کریں">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "آپ اپنے دوسرے آلے پر &syncBrand.shortName.label; اختیارات پر جا کر &quot;Manage Account&quot; کے زیر تحت &quot;My Recovery Key&quot; منتخب کر کے اپنی بازیافت کلید کی نقل حاصل کر سکتے ہیں۔ ">
 <!ENTITY verifying.label              "توثیق کر رہا ہے...">
 <!ENTITY resetPassword.label          "پاس ورڈ پھر سیٹ کریں">
 <!ENTITY resetSyncKey.label           "میں نے اپنا دوسرا آلہ گما دیا ہے۔">

@@ -27,11 +27,11 @@
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.pre.label      "سہ فریقی کوکیاں قبول کریں:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ق">
+<!ENTITY  acceptThirdParty.always.label   "ہمیشہ">
+<!ENTITY  acceptThirdParty.never.label    "کبھی نہیں">
+<!ENTITY  acceptThirdParty.visited.label  "ملاحظہ شدہ سے">
 
 <!ENTITY  keepUntil.label               "رکھیں جب تک:">
 <!ENTITY  keepUntil.accesskey           "ر">
@@ -50,15 +50,15 @@
 <!ENTITY  historyHeader.pre.accesskey      "ک">
 <!ENTITY  historyHeader.remember.label     "سابقات یاد رکھے">
 <!ENTITY  historyHeader.dontremember.label "کبھی سابقات نہ یاد رکھے">
-<!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص سیٹکگیں استعمال کرے">
+<!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص ترتیب استعمال کریں">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براوزنگ، ڈاؤن لوڈ کریںڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں رکھے گا۔">
+<!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براؤزنگ، ڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں سنبھالے گا۔">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "آپ شائد ">
+<!ENTITY  rememberActions.pre.label           "آپ شائد چاہیں کہ">
 <!ENTITY  rememberActions.clearHistory.label  "اپنی حالیہ سابقات صاف کرنا چاہیں">
 <!ENTITY  rememberActions.middle.label        "، یا  ">
 <!ENTITY  rememberActions.removeCookies.label "اکیلی کوکیاں ہٹانا چاہیں">
@@ -68,7 +68,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "آپ اس کے علاوہ شائد ">
+<!ENTITY  dontrememberActions.pre.label          "آپ شاید یہ بھی چاہیں کہ">
 <!ENTITY  dontrememberActions.clearHistory.label "تمام موجودہ سابقات خالی کرنا چاہیں">
 <!ENTITY  dontrememberActions.post.label         "-">
 
