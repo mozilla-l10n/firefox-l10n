@@ -40,18 +40,18 @@
 <!ENTITY healthReportDesc.label          "Sizə brauzerinizin işləmə surəti barədə daha çox məlumat əldə etməyə köməklik edir və səmərəliyi barədə &vendorShortName; böluşməyə imkan verir">
 <!ENTITY enableHealthReport.label        "brandShort Name; Səmərəlik barədə hesabatın göndərilmsini aktiv et">
 <!ENTITY enableHealthReport.accesskey    "b">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportLearnMore.label     "Ətraflı">
 
 <!ENTITY telemetrySection.label          "Telemetriya">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY telemetryDesc.label             "Səyyahınız haqqında olan fəaliyyət, istifadə, avadanlıq və özəllişdirmə məlumatlarını &vendorShortName; ilə paylaşır ki, bizə &brandShortName; proqramını daha da yaxşı etməyə kömək etsin">
+<!ENTITY enableTelemetry.label           "Telemetriyanı Aktivləşdir">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Daha Ətraflı">
 
 <!ENTITY crashReporterSection.label      "Çökmə Məlumatcısı">
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterDesc.label         "&brandShortName; xətalar haqqında hesabatı &vendorShortName; üçün göndərir ki, sizin səyyahınızı daha da stabil və qorumalı etsinlər">
+<!ENTITY enableCrashReporter.label       "Xəta Hesablamanı Aktivləşdir">
+<!ENTITY enableCrashReporter.accesskey   "X">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Ağ">

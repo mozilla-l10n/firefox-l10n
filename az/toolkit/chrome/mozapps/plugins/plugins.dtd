@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Bu məzmunu göstərəcək əlavə proqram əksikdir.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Əlavə proqramı aktivləşdirmək üçün bura toxunun.">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Əlavəni aktivləşdir.">
 <!ENTITY checkForUpdates                                     "Yeniləmələri yoxla…">
 <!ENTITY disabledPlugin                                      "Bu əlavə proqram söndürülüb.">
 <!ENTITY blockedPlugin.label                                 "Bu əlavə proqram sizi qorumaq üçün əngəlləndi.">
@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "Göndərmə uğursuz oldu.">
 <!ENTITY report.unavailable                                  "Hesabat yoxdur.">
 <!ENTITY report.comment                                      "Fikrinizi yazın. (Yazılan fikirlər hamı tərəfindən görünə bilər.)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "Səhifənin URL-unu əlavə edin">
 
 <!ENTITY plugin.file                                         "Dosya">
 <!ENTITY plugin.mimeTypes                                    "MIME Types">

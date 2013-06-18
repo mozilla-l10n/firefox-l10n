@@ -68,7 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Səhifələrə mənim seçdiklərimdən əlavə öz yazı tiplərini seçmə icazəsi ver">
 <!ENTITY  allowPagesToUse.accesskey               "S">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label       "Fallback Character Encoding:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.grouplabel  "İrsi Məzmun üçün Simvol Kodlaşdırması">
+<!ENTITY languages.customize.Fallback.label       "Yedək Simvol Kodlaşdırması:">
+<!ENTITY languages.customize.Fallback.accesskey   "S">
 <!ENTITY languages.customize.Fallback.desc        "This character encoding is used for legacy content that fails to declare its encoding.">

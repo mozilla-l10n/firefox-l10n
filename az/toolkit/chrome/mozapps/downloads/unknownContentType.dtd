@@ -13,14 +13,14 @@
 <!ENTITY  saveFile.label              "Fərqli saxla">
 <!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY  rememberChoice.label        "Bu cür faylları yükləyərkən həmişə bunu et.">
-<!ENTITY  rememberChoice.accesskey    "B">
+<!ENTITY  rememberChoice.label        "Bu cür bütün fayllar üçün bunu avtomatik et.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "hansı ki budur:">
 
-<!ENTITY  chooseHandlerMac.label      "Seçin…">
+<!ENTITY  chooseHandlerMac.label      "Seç…">
 <!ENTITY  chooseHandlerMac.accesskey  "S">
 <!ENTITY  chooseHandler.label         "Bax…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "Bu dosyayı kaydetmek ister misiniz?">
+<!ENTITY  unknownPromptText.label     "Bu faylı saxlamaq istərdiniz?">
