@@ -42,5 +42,5 @@
   -  tools. -->
 
 <!ENTITY options.selectDevToolsTheme.label   "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label             "Dark theme">
-<!ENTITY options.lightTheme.label            "Light theme">
+<!ENTITY options.darkTheme.label             "Tema gelap">
+<!ENTITY options.lightTheme.label            "Tema cerah">

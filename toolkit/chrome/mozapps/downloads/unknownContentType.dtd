@@ -16,11 +16,11 @@
 <!ENTITY  rememberChoice.label        "Lakukan ini secara automatik untuk fail seperti ini mulai sekarang.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "yang mana adalah:">
 
-<!ENTITY  chooseHandlerMac.label      "Pilih">
+<!ENTITY  chooseHandlerMac.label      "Pilih...">
 <!ENTITY  chooseHandlerMac.accesskey  "P">
-<!ENTITY  chooseHandler.label         "Layari">
+<!ENTITY  chooseHandler.label         "Layari...">
 <!ENTITY  chooseHandler.accesskey     "L">
 
 <!ENTITY  unknownPromptText.label     "Adakah anda ingin menyimpan fail ini?">
