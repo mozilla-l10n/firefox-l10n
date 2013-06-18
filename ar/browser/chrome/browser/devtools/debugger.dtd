@@ -68,7 +68,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "Show original sources">
+<!ENTITY debuggerUI.showOriginalSource      "اعرض المصادر الأصلية">
 <!ENTITY debuggerUI.showOriginalSource.key  "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
@@ -88,7 +88,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "Search for function definition">
+<!ENTITY debuggerUI.searchFunction      "ابحث عن تعريف الدالة                ">
 <!ENTITY debuggerUI.searchFunction.key  "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->

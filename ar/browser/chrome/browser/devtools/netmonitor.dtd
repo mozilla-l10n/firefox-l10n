@@ -131,4 +131,4 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
 
-<!ENTITY netmonitorUI.timings.receive     "Receiving:">
+<!ENTITY netmonitorUI.timings.receive     "المُستقبل:                ">
