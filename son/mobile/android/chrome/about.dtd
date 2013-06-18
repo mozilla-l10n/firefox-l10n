@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Taagandirey koroši »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Goo ma taagandirey guna...">
 <!ENTITY aboutPage.checkForUpdates.none         "Taagandiri kul ši bara">
-<!ENTITY aboutPage.checkForUpdates.available    "Update available; click to download">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update downloaded; click to install">
+<!ENTITY aboutPage.checkForUpdates.available    "Mana hin ka taagandi; naagu ka zumandi">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Goo ma taagandiri zumandi…">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Taagandiroo zunbu: naagu k'a sinji">
 <!ENTITY aboutPage.faq.label                    "Hãayan nda zaabi">
 <!ENTITY aboutPage.support.label                "Faaba">
 <!ENTITY aboutPage.privacyPolicy.label          "Sutura laada">

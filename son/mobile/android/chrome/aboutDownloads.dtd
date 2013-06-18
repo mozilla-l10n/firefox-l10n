@@ -8,8 +8,8 @@
 
 <!ENTITY aboutDownloads.open                       "Feeri">
 <!ENTITY aboutDownloads.remove                     "Tuusu">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
+<!ENTITY aboutDownloads.removeAll                  "Ikul tuusu">
 <!ENTITY aboutDownloads.pause                      "Hunanzamay">
-<!ENTITY aboutDownloads.resume                     "Resume">
+<!ENTITY aboutDownloads.resume                     "Šintin taaga">
 <!ENTITY aboutDownloads.cancel                     "Naŋ">
 <!ENTITY aboutDownloads.retry                      "Šii taaga">

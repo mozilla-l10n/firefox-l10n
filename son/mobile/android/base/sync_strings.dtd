@@ -15,14 +15,14 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Ka war jinay taagaa dirandi, “&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.">
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.header2.label "Ašariyaa woo dam war jinay faa ga">
+<!ENTITY sync.subtitle.connectlocation2.label "Zaa “sync.title.pair.label;” syncBrand.shortName.label; dunboo ra war jinay faa Firefox suubarey ra.">
 <!ENTITY sync.subtitle.pair.label "Ka dirandi, wa “Jinay foo margandi” suuba war jinay faa ga.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Takaa cebe yane.">
 <!ENTITY sync.link.advancedsetup.label "Kayandiyan koyjinante…">
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label "Jinaa ši ay kone sohõda…">
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label "Goo ma jinay faa batu…">
@@ -41,8 +41,8 @@
 <!ENTITY sync.button.tryagain.label "Ceeci koyne">
 <!ENTITY sync.button.manual.label "Kanbe-kayandiyan">
 <!ENTITY sync.subtitle.nointernet.label "Interneti ciyari kul ši bara.">
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failaccount.label "Kontu mana hin ka tee war jinaa ga.">
+<!ENTITY sync.subtitle.failmultiple.label "War Firefox sinjantey ka bisa affoo? Sohõda &syncBrand.fullName.label; ga hin ka goy nda Firefox sinjari foo de cee foo kul. Taare jerey hetti kaa ka goy nda &syncBrand.shortName.label;.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Kayandiyan timme">
@@ -59,12 +59,12 @@
 <!ENTITY sync.summary.pair.label "Jinay tana foo dobu war &syncBrand.shortName.label; kontoo ga">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.label "Hayey kaŋ ga hangandi">
+<!ENTITY sync.configure.engines.sync.my.title.label "Hangandi…">
 <!ENTITY sync.configure.engines.title.bookmarks "Doo-šilbawey">
-<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
+<!ENTITY sync.configure.engines.title.passwords "Šennikufaley">
 <!ENTITY sync.configure.engines.title.history "Taariki">
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.tabs "Nor lokey">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Naŋ">
@@ -84,23 +84,23 @@
 <!ENTITY bookmarks.folder.mobile.label "Doo-šilbay dirantey">
 <!ENTITY bookmarks.folder.readinglist.label "Caw maašeede">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label "Kanjante">
 <!-- Notification strings -->
 
 <!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu foo hinne ma kanbandi.">
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.configure.saved "War suubarey mana gaabundi.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
+<!ENTITY sync.invalidcreds.label "Kontu maa wala šennikufal laala.">
 <!ENTITY sync.invalidserver.label "Taare feršikaw URL aderesu boryo dam">
 <!ENTITY sync.verifying.label "Goo ma koroši…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Yeetiyan kufal laala. Ceeci koyne taare.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.title.send.tab.label "Nor loku sanba jinawey do">
+<!ENTITY sync.button.send.label "Sanba">
+<!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; kayandi">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; kayandi ka nor lokey sanba">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.shortName.label; kayandi war jinay tanaa ga ka nor lokey sanba jinay taney do.">
+<!ENTITY sync.text.tab.sent.label "War nor lokoo sanbandi!">
+<!ENTITY sync.text.tab.not.sent.label "Šenday bangay war nor lokoo sanbaroo ra.">
