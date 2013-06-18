@@ -12,4 +12,13 @@
 <!ENTITY subject.accesskey                "G">
 <!ENTITY sender.label                     "Bidaltzailea">
 <!ENTITY sender.accesskey                 "e">
+<!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
+there's a field where the user can enter a number, and totalOpenTimeEnd.label
+is displayed at the end of the line. The translations of the
+totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
+the exact same thing as in English; please try instead to translate the whole
+sentence. -->
 
+<!ENTITY  totalOpenTimeBefore.label       "Erakutsi posta berriaren alerta">
+<!ENTITY  totalOpenTimeBefore.accesskey   "b">
+<!ENTITY  totalOpenTimeEnd.label          "segundoz">
