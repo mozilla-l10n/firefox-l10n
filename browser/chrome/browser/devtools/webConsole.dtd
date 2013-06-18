@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "معراض الوب">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "معراض المتصفح">
 
 <!ENTITY networkPanel.requestURLColon             "عنوان الطلب:">
 <!ENTITY networkPanel.requestMethodColon          "طريقة الطلب:">

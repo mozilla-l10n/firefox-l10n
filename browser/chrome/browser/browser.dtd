@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "علّم هذه الصفحة">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "شارك هذه الصفحة">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "ش">
+<!ENTITY shareLinkCmd.label "شارك هذا الرابط">
+<!ENTITY shareLinkCmd.accesskey "ش">
+<!ENTITY shareImageCmd.label "شارك هذه الصورة">
+<!ENTITY shareImageCmd.accesskey "ش">
+<!ENTITY shareSelectCmd.label "شارك هذا التحديد">
+<!ENTITY shareSelectCmd.accesskey "ش">
+<!ENTITY shareVideoCmd.label "شارك هذا الڤديو">
+<!ENTITY shareVideoCmd.accesskey "ش">
 <!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "مِعراض وب عن بعد">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "معراض المتصفح">
 
 <!ENTITY inspectContextMenu.label     "افحص العنصر">
 <!ENTITY inspectContextMenu.accesskey "ص">
@@ -266,9 +266,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "تحرير"> 
 <!ENTITY editMenu.accesskey       "ح"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "تراجع">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "ر"> 
 <!ENTITY redoCmd.label            "أعِد">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ع"> 
@@ -645,11 +645,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "أظهر تنبيهات سطح المكتب">
 <!ENTITY social.toggleNotifications.accesskey "ت">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.activated.description "فُعّلت خدمات من <label/>. يمكنك تغيير إعداداتك للخدمات من <label class='text-link'>مدير الإضافات</label>.">
+<!ENTITY social.activated.undo.label "تراجع عن هذا!">
+<!ENTITY social.activated.undo.accesskey "ت">
+<!ENTITY social.learnMore.label "اطّلع على المزيد…">
+<!ENTITY social.learnMore.accesskey "ط">
 <!ENTITY social.closeNotificationItem.label "ليس الآن">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -657,8 +657,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "ك">
 <!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpage.accesskey "ع">
+<!ENTITY social.marklink.accesskey "ع">
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
