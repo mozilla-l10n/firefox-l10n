@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Consenti al server di trascurare queste impostazioni dei namespace">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Per scaricare la posta pop da questo server, utilizzare la seguente cartella per la nuova posta:">
-<!ENTITY globalInbox.label "In arrivo globale (account Cartelle locali)">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "In arrivo per questo account del server">
 <!ENTITY accountDirectory.accesskey "I">
 <!ENTITY deferToServer.label "In arrivo di account differente">

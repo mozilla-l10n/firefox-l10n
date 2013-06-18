@@ -1,8 +1,9 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
 
-<!--null-->
 <!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 38em;">
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Copia">
@@ -84,6 +85,7 @@
 <!ENTITY permImage "Caricare immagini">
 <!ENTITY permPopup "Aprire finestre pop-up">
 <!ENTITY permCookie "Impostare cookie">
+<!ENTITY permNotifications "Visualizzare notifiche">
 <!ENTITY permInstall "Installare estensioni o temi">
 <!ENTITY permGeo "Comunicare la posizione">
 <!ENTITY securityTab "Sicurezza">

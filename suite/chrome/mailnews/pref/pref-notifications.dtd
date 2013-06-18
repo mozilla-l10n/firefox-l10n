@@ -8,7 +8,6 @@
 <!ENTITY showAlertFor.label "Mostra un avviso per">
 <!ENTITY showAlertFor.accesskey "M">
 <!ENTITY showAlertTimeEnd.label "secondi">
-<!ENTITY showAlertTimeEnd.accesskey "c">
 <!ENTITY showAlertPreviewText.label "Mostra un'anteprima del testo del messaggio">
 <!ENTITY showAlertPreviewText.accesskey "o">
 <!ENTITY showAlertSubject.label "Mostra l'oggetto">
