@@ -53,13 +53,13 @@
      -->
 <!ENTITY cmd.show.label                   "Բացել թղթապանակը">
 <!ENTITY cmd.show.accesskey               "Բ">
-<!ENTITY cmd.showMac.label                "Show In Finder">
+<!ENTITY cmd.showMac.label                "Ցուցադրել Finder-ում">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Կրկնել">
 <!ENTITY cmd.goToDownloadPage.label       "Բացել բեռնելու կայքը">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.goToDownloadPage.accesskey   "Բ">
 <!ENTITY cmd.copyDownloadLink.label       "Պատճենել բեռնելու հասցեն">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "բ">
 <!ENTITY cmd.removeFromHistory.label      "Ջնջել Պատմությունից">
 <!ENTITY cmd.removeFromHistory.accesskey  "ն">
 <!ENTITY cmd.clearList.label              "Մաքրել ցանկը">
@@ -82,10 +82,10 @@
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "There are no downloads.">
+<!ENTITY downloadsListEmpty.label         "Չկան բեռնումներ։">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+<!ENTITY downloadsListNoMatch.label       "Չկա ոչ մի համընկնում։">

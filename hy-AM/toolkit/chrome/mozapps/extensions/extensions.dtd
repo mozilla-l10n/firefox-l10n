@@ -88,8 +88,8 @@
 <!ENTITY cmd.disableAddon.accesskey           "Ա">
 <!ENTITY cmd.enableTheme.label                "Հագնել թեմա">
 <!ENTITY cmd.enableTheme.accesskey            "Հ">
-<!ENTITY cmd.disableTheme.label               "դադարեցնել թեմայի կրումը">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.label               "Դադարեցնել թեմայի օգտագործումը">
+<!ENTITY cmd.disableTheme.accesskey           "թ">
 <!ENTITY cmd.askToActivate.label              "Ակտիվացման հարցում">
 <!ENTITY cmd.askToActivate.tooltip            "Հավելումը օգտագործելիս ամեն անգամ հարցնել                ">
 <!ENTITY cmd.alwaysActivate.label             "Միշտ Ակտիվացնել">
@@ -118,8 +118,11 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ի՞նչ են իրենցից ներկայացնում հավելումները:">
-<!ENTITY discover.description2                "Հավելումները կիրառություններ են, որոնք ձեզ թույլ են տալիս սեփականացնել &brandShortName;ը առավել ֆունցիոնալությամբ կամ ոճով:Փորձեք ժամանակ տնտեսող վահանակը, եղանակի տեղեկատուն,կամ այլ թեմատիկ տեսք`&brandShortName;ը ձեր սեփականը դարձնելու համար:   ">
-<!ENTITY discover.footer                      "Երբ դուք մուտք գործեք համացանց, այս վահանակը կցուցադրի լավագույն և ամենատարածված հավելումները, որպեսզի դուք դրանք փորձարկեք:">
+<!ENTITY discover.description2                "Հավելումները կիրառություններ են, որոնք ձեզ թույլ են տալիս անհատականացնել &brandShortName;-ը 
+ առավել ֆունցիոնալությամբ կամ ոճով: Փորձեք ժամանակ տնտեսող վահանակը, եղանակի տեղեկատուն կամ այլ թեմատիկ տեսք` &brandShortName;-ը 
+ձեր սեփականը դարձնելու համար:   ">
+<!ENTITY discover.footer                      "Երբ դուք մուտք գործեք համացանց, այս վահանակը կցուցադրի 
+լավագույն և ամենատարածված հավելումները, որպեսզի դուք դրանք փորձարկեք:">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Տարբերակ">

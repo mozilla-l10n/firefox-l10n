@@ -7,7 +7,7 @@
 <!ENTITY  engineManager.intro       "Դուք տեղակայել էք հետևյալ որոնման ցանցերը`">
 
 <!ENTITY  columnLabel.name          "Անվանումը">
-<!ENTITY  columnLabel.keyword       "Անվանումը">
+<!ENTITY  columnLabel.keyword       "Հիմնաբառը">
 <!-- Buttons -->
 
 <!ENTITY  up.label                  "Վեր">

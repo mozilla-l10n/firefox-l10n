@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
 <!ENTITY unsortedBookmarksCmd.label "Չկարգավորված Էջանիշեր">
-<!ENTITY bookmarksToolbarChevron.tooltip "Ցույց տալ ավելի շատ էջանիշերի">
+<!ENTITY bookmarksToolbarChevron.tooltip "Ցուցադրել ավելի շատ էջանիշեր">
 
 <!ENTITY backCmd.label                "Նախորդը">
 <!ENTITY backCmd.accesskey            "Ն">
@@ -171,11 +171,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.tooltip           "Բաժանորդագրվել այս էջին...">
 
 <!ENTITY bookmarksButton.label          "Էջանիշներ">
-<!ENTITY bookmarksButton.tooltip        "Ցույց տալ ձեր էջանիշները">
+<!ENTITY bookmarksButton.tooltip        "Ցուցադրել ձեր էջանիշները">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
-<!ENTITY bookmarksMenuButton.tooltip        "Ցույց տալ ձեր էջանիշները">
+<!ENTITY bookmarksMenuButton.tooltip        "Ցուցադրել ձեր էջանիշները">
 <!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
 <!ENTITY viewBookmarksSidebar.label         "Ցուցադրել Կողային վահանակում">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Պատմություն">
-<!ENTITY historyButton.tooltip          "Ցույց տալ ձեր այցելած վերջին էջերը">
+<!ENTITY historyButton.tooltip          "Ցուցադրել ձեր այցելած վերջին էջերը">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Գործիքներ">
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY search.label                 "Որոնում Ցանցում">
 <!ENTITY search.accesskey             "Ց">
 <!ENTITY downloads.label              "Բեռնումներ">
-<!ENTITY downloads.tooltip            "Ցույց տալ բեռնումների ընթացքը">
+<!ENTITY downloads.tooltip            "Ցուցադրել բեռնումների ընթացքը">
 <!ENTITY downloads.accesskey          "Բ">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -317,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ սեսիան">
 
 <!ENTITY historyHomeCmd.label "Տուն">
-<!ENTITY showAllHistoryCmd2.label "Ցույց տալ ամբողջ պատմությունը">
+<!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Խմբագրել">
@@ -549,7 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Փակել"> 
 <!ENTITY quitApplicationCmd.accesskey   "Փ">
-<!ENTITY quitApplicationCmdMac.label    "Ելք &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label    "Փակել &brandShortName;-ը">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -566,14 +566,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Փոխել այս էջի համար Pop-up արգելակման դրույթները">
 
-<!ENTITY allowPopups.accesskey "ի">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Խմբագրել Pop-up-ի Խափանման Նախընտրանքները…">
-<!ENTITY editPopupSettings.label "Խմբագրել Pop-up-ի արգելակման ընտրանքները…">
+<!ENTITY editPopupSettingsUnix.label "Խմբագրել Pop-up-ի արգելման կարգավորումները…">
+<!ENTITY editPopupSettings.label "Խմբագրել Pop-up-ի արգելման ընտրանքները…">
 <!ENTITY editPopupSettings.accesskey "Խ">
-<!ENTITY dontShowMessage.accesskey "Չ">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել Էջի Ուղղությունը">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "Ո">
@@ -637,13 +637,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.ok.label       "ԼԱՎ">
 <!ENTITY social.ok.accesskey   "Լ">
 
-<!ENTITY social.toggleSidebar.label "Show sidebar">
-<!ENTITY social.toggleSidebar.accesskey "S">
+<!ENTITY social.toggleSidebar.label "Ցուցադրել կողային վահանակը">
+<!ENTITY social.toggleSidebar.accesskey "Ց">
 
-<!ENTITY social.addons.label "Manage Services…">
+<!ENTITY social.addons.label "Կառավարել ծառայությունները…">
 
-<!ENTITY social.toggleNotifications.label "Show desktop notifications">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Ցուցադրել աշխատասեղանի տեղեկացումները">
+<!ENTITY social.toggleNotifications.accesskey "տ">
 
 <!ENTITY social.activated.description "Ծառայությունները <label/>-ից միացվել են: Կարող եք փոփոխել կարգավորումները ծառայությունների համար <label class='text-link'>Հավելումների կառավարիչից</label>:">
 <!ENTITY social.activated.undo.label "Ախ, չեղյալ համարել սա                ">
@@ -653,22 +653,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.closeNotificationItem.label "Ոչ հիմա">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Անցնել զրույցներին">
+<!ENTITY social.chatBar.accesskey "ց">
 <!-- labels are set dynamically, see browser.properties -->
 
 <!ENTITY social.markpage.accesskey "m">
 <!ENTITY social.marklink.accesskey "M">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectCamera.label "Մուտքը ապարատին.">
+<!ENTITY getUserMedia.selectCamera.accesskey "Մ">
+<!ENTITY getUserMedia.selectMicrophone.label "Մուտք բարձրախոսին.">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
+<!ENTITY webrtcIndicatorButton.label "Մուտք ապարատին / բարձրախոսին">
 <!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
 
 <!ENTITY mixedContentBlocked.helplink "Ավելին">
 <!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "Սեղմեք ESC՝ կրկին ցուցադրելու համար:">

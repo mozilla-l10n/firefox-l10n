@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Էջի Բեռնավորման Սխալմունք">
+<!ENTITY loadError.label "Էջի բեռնավորման սխալ">
 <!ENTITY retry.label "Կրկին փորձել">
 <!-- Specific error messages -->
 
@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.title "Հասցեն Չգտնվեց">
 <!ENTITY dnsNotFound.longDesc "<p>Ծրագիրը ի վիճակիի չէ գտնել նշված հասցեի սպասարկիչը</p><ul><li>Արդյո՞ք սխալվել եք հասցեն մուտքագրելիս (օրինակ՝. <q><strong>ww</strong>.mozilla.org</q>  <q><strong>www</strong>.mozilla.org</q>­ի փոխարեն)</li><li>Համոզվա՞ծ եք, որ այս տիրույթը գոյություն ունի: Դրա գրանցումը կարող է ժամկետանց է եղել:</li><li>Եթե չեք կարողանում այլ կայքեր բացել, ապա ստուգեք ձեր ցանցային միացումը և DNS սպասարկչի կազմաձևումը:</li><li>Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված են Firewall-ով, ապա պատճառը կարող է դրա սխալ կազմաձևումը լինել.</li></ul>">
 
-<!ENTITY fileNotFound.title "Ֆայլը Չգտնվեց">
+<!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul><li>Կարո՞ղ է նշված բանը վերանվանվել կամ տեղափոխվել է:</li><li>Արդյո՞ք ուղղագրական, մեծ փոքրատառ կամ այլ տպելասխալ կա հասցեում:</li><li>Արդյո՞ք բավական իրավասություն ունեք նշված բանի վերաբերյալ</li></ul>">
 
 <!ENTITY generic.title "Անհնար է Հարցումն Ավարտել">
@@ -29,7 +29,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Ծրագիրը հաջողությամբ կապնվել էր, սակայն տվյալների տեղափոխման ընթացքում կապը կտրվեց:</p><ul><li>Եթե ի վիճակի չեք նավարկել այլ հանգույցներ, ստուգեք ցանցային կապը</li><li>Կրկի՞ն բարդությունների եք հանդիպում: Օգնության համար խորհրդակցեք ցանցային վարպետի կամ Ինտերնետը սպասարկողի հետ:</li></ul>">
 
 <!ENTITY notCached.title "Ավարտվել է">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ դիտարկիչի պահոցում:</p><ul><li>Անվտանգության նկատառումներով դիտարկիչը կրկնակի հարցում չի անում կարևոր փաստաթղթերին:</li><li>Սեղմեք Կրկին փորձել կամ վերահայցեք փաստաթութը կայքից:</li></ul>">
 
 <!ENTITY netOffline.title "Առանձ Կապի Եղանակ">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
