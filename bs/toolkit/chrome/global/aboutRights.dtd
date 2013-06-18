@@ -50,7 +50,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; koristi web-bazirane servise (&quot;Servisi&quot;) da bi vam omogućio neke od opcija koje možete koristiti uz ovu binarnu verziju &brandShortName;a pod uslovima opisanim u nastavku. Ukoliko ne želite koristiti jedan ili više Servisa ili su vam uslovi korištenja neprihvatljivi, možete onemogućiti opciju ili Servis(e). Instrukcije kako onemogućiti opciju ili Servis možete pronaći ">
 <!ENTITY rights2.webservices-b "ovdje">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Druge mogućnosti i Usluge mogu biti onemogućeni u postavkama aplikacije.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Sigurno surfanje: ">

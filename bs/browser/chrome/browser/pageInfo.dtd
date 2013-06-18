@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Podijeli lokaciju">
 <!ENTITY  permPlugins           "Aktiviraj plugine">
 <!ENTITY  permFullscreen        "Uđi u prikaz preko cijelog ekrana">
-<!ENTITY  permPointerLock       "Sakrij pokazivač">
+<!ENTITY  permPointerLock2      "Sakrij kursor miša">
 
 <!ENTITY  permIndexedDB              "Održavanje offline spremišta">
 <!ENTITY  permClearStorage           "Očisti spremište">

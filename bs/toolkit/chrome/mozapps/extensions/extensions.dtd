@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "O">
 <!ENTITY cmd.disableTheme.label               "Prestani nositi temu">
 <!ENTITY cmd.disableTheme.accesskey           "P">
+<!ENTITY cmd.askToActivate.label              "Pitaj za aktivaciju">
+<!ENTITY cmd.askToActivate.tooltip            "Pitaj za upotrebu ovog add-ona svaki put">
+<!ENTITY cmd.alwaysActivate.label             "Uvijek aktiviraj">
+<!ENTITY cmd.alwaysActivate.tooltip           "Uvijek koristi ovaj add-on">
+<!ENTITY cmd.neverActivate.label              "Nikada ne aktiviraj">
+<!ENTITY cmd.neverActivate.tooltip            "Nikada ne koristi ovaj add-on">
+<!ENTITY cmd.stateMenu.tooltip                "Promijeni kada se ovaj add-on koristi">
 <!ENTITY cmd.installAddon.label               "Instaliraj">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">

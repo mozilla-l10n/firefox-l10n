@@ -114,7 +114,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Zabilježi ovu stranicu">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Podijeli ovu stranicu">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY shareLinkCmd.label "Podijeli ovaj link">
+<!ENTITY shareLinkCmd.accesskey "l">
+<!ENTITY shareImageCmd.label "Podijeli ovu sliku">
+<!ENTITY shareImageCmd.accesskey "s">
+<!ENTITY shareSelectCmd.label "Podijeli selekciju">
+<!ENTITY shareSelectCmd.accesskey "s">
+<!ENTITY shareVideoCmd.label "Podijeli ovaj video">
+<!ENTITY shareVideoCmd.accesskey "l">
 <!ENTITY subscribeToPageMenupopup.label "Pretplati me na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati me na ovu stranicu…">
 <!ENTITY addCurPagesCmd.label "Zabilježi sve tabove…">
@@ -205,6 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Udaljena Web konzola">
+
+<!ENTITY browserConsoleCmd.label      "Konzola browsera">
 
 <!ENTITY inspectContextMenu.label     "Inspekcija elementa">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -527,7 +540,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ugasi"> 
 <!ENTITY quitApplicationCmd.accesskey   "U">
 <!ENTITY quitApplicationCmdMac.label    "Ugasi &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "U">
 
 <!ENTITY closeCmd.label                 "Zatvori">  
 <!ENTITY closeCmd.key                   "W">  
@@ -626,12 +640,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Prikaži desktop obavještenja">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Povrati">
-<!ENTITY social.activated.undobutton.accesskey "P">
+<!ENTITY social.activated.description "Usluge od <label/> su omogućene. Možete promijeniti vaše postavke za usluge u <label class='text-link'>Upravniku add-onima</label>.">
+<!ENTITY social.activated.undo.label "Ups, povrati ovo!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Saznajte više…">
+<!ENTITY social.learnMore.accesskey "S">
+<!ENTITY social.closeNotificationItem.label "Ne sada">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Fokusiraj chatove">
 <!ENTITY social.chatBar.accesskey "c">
+
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera za podijeliti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
