@@ -19,7 +19,7 @@
 
 <!ENTITY permission.alwaysAsk            "Միշտ հարցնել">
 <!ENTITY permission.allow                "Թույլատրել">
-<!ENTITY permission.allowForSession      "Թույ տալ նիստի ընթացքում">
+<!ENTITY permission.allowForSession      "Թույլ տալ նիստի ընթացքում">
 <!ENTITY permission.allowFirstPartyOnly  "թույլատրել միայն առաջին մասը">
 <!ENTITY permission.block                "Արգելել">
 

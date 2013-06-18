@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Գաղտնաբառ."> 
 <!ENTITY checkbox.label   "ստուգել">
 <!ENTITY copyCmd.label    "Պատճենել">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "Պ">
 <!ENTITY selectAllCmd.label "Նշել բոլորը">
 <!ENTITY selectAllCmd.accesskey "բ">

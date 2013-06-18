@@ -77,7 +77,7 @@
 <li>Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է ձեռք բերել այլ ձրագիր:</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Պռոքսի սերվերը մերժում է ընդունել կապը">
+<!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Ստուգեք պրոքսի կարգավորումները՝ նրանց ստույգության մեջ համոզվելու համար:</li> 
 <li>Կապվեք ձեր ցանցի կառավարիչի հետ՝ համոզվելու համար, որ պրոքսի սպասարկիչը 
@@ -157,5 +157,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Հեռավոր XUL">
+<!ENTITY remoteXUL.title "Հեռադիր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">

@@ -4,7 +4,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printSetup.title    "Էջի Կազմաձեվում">
+<!ENTITY printSetup.title    "Էջի կարգավորում">
 
 <!ENTITY basic.tab           "Ձևը և Ընտրանքները">
 
@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "Տպել Խորապատկերը (Գույները և Նկարները)">
 <!ENTITY printBG.accesskey   "Խ">
 
-<!ENTITY advanced.tab        "Երիզ և էջագլուխ/էջատակ">
+<!ENTITY advanced.tab        "Լուսանցքներ և էջագլուխ/էջատակ">
 
 <!ENTITY marginGroup.label   "Երիզ (#1)">
 <!ENTITY marginUnits.inches  "Մատնաչափ">
@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Էջ #">
 <!ENTITY hfPageAndTotal      "Էջ #՝ #-ից">
 <!ENTITY hfBlank             "--դատարկ--">
-<!ENTITY hfCustom            "Օգտվողի Ընտր…">
+<!ENTITY hfCustom            "Ընտրված…">
 
-<!ENTITY customPrompt.title  "Օգտվողի Ընտր…">
+<!ENTITY customPrompt.title  "Ընտրված…">
 <!ENTITY customPrompt.prompt "Մուտքագրեք էջագլխի կամ էջատակի տեքստը">

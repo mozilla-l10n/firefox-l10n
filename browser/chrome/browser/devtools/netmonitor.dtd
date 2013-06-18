@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
-<!ENTITY netmonitorUI.tab.headers         "Գլխագրեր">
+<!ENTITY netmonitorUI.tab.headers         "Էջագլուխներ">
 <!-- LOCALIZATION NOTE (debuggerUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
@@ -85,7 +85,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
 
-<!ENTITY netmonitorUI.summary.size        "Գլխամասային Ֆայլ․">
+<!ENTITY netmonitorUI.summary.size        "Էջագլխի չափը.․">
 <!-- LOCALIZATION NOTE (debuggerUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 

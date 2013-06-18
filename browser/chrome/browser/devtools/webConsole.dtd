@@ -15,12 +15,12 @@
 <!ENTITY networkPanel.requestMethodColon          "Request Method:">
 <!ENTITY networkPanel.statusCodeColon             "Կարգավիճակի Կոդը.">
 
-<!ENTITY networkPanel.requestHeaders              "Հարցման գլխամաս">
+<!ENTITY networkPanel.requestHeaders              "Հարցման էջագլուխ">
 <!ENTITY networkPanel.requestCookie               "Ուղարկված Cookie">
 <!ENTITY networkPanel.requestBody                 "Հարցման մարմին">
 <!ENTITY networkPanel.requestFormData             "Ուղարկված ձևի տվյալները">
 
-<!ENTITY networkPanel.responseHeaders             "Արձագանքման գլխամաս">
+<!ENTITY networkPanel.responseHeaders             "Արձագանքման էջագլուխ">
 <!ENTITY networkPanel.responseCookie              "Ստացված Cookie">
 <!ENTITY networkPanel.responseBody                "Արձագանքման մարմին">
 <!ENTITY networkPanel.responseBodyCached          "Պահված տվյալներ">
