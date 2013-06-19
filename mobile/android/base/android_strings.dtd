@@ -216,7 +216,7 @@ size. -->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title2       "Sivuston asetukset…">
+<!ENTITY site_settings_title3       "Sivuston asetukset">
 <!ENTITY site_settings_cancel       "Peruuta">
 <!ENTITY site_settings_clear        "Poista">
 <!ENTITY site_settings_no_settings  "Ei löytynyt tallennettuja asetuksia.">
