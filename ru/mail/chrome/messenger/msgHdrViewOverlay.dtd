@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Кому ">
-<!ENTITY fromField3.label "От ">
-<!ENTITY senderField3.label "Отправитель ">
-<!ENTITY organizationField3.label "Организация ">
-<!ENTITY replyToField3.label "Обратный адрес ">
-<!ENTITY subjectField3.label "Тема ">
-<!ENTITY ccField3.label "Копия ">
-<!ENTITY bccField3.label "Скрытая копия ">
-<!ENTITY newsgroupsField3.label "Группы новостей ">
-<!ENTITY followupToField3.label "Ответ в группу новостей ">
-<!ENTITY tagsHdr3.label "Метки ">
-<!ENTITY dateField3.label "Дата ">
-<!ENTITY userAgentField3.label "Программа ">
-<!ENTITY referencesField3.label "Ссылки ">
-<!ENTITY messageIdField3.label "Идентификатор ">
-<!ENTITY inReplyToField3.label "В ответ на ">
-<!ENTITY originalWebsite3.label "Веб-сайт ">
+<!ENTITY toField4.label "Кому">
+<!ENTITY fromField4.label "От">
+<!ENTITY senderField4.label "Отправитель">
+<!ENTITY organizationField4.label "Организация">
+<!ENTITY replyToField4.label "Обратный адрес">
+<!ENTITY subjectField4.label "Тема">
+<!ENTITY ccField4.label "Копия">
+<!ENTITY bccField4.label "Скрытая копия">
+<!ENTITY newsgroupsField4.label "Группы новостей">
+<!ENTITY followupToField4.label "Ответ в группу новостей">
+<!ENTITY tagsHdr4.label "Метки">
+<!ENTITY dateField4.label "Дата">
+<!ENTITY userAgentField4.label "User agent">
+<!ENTITY referencesField4.label "Ссылки">
+<!ENTITY messageIdField4.label "Идентификатор">
+<!ENTITY inReplyToField4.label "В ответ на">
+<!ENTITY originalWebsite4.label "Веб-сайт">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY hdrArchiveButton1.label "Архивировать">
