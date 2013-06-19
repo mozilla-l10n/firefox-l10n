@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Poista käytöstä">
 <!ENTITY addonAction.uninstall                  "Poista">
 <!ENTITY addonAction.undo                       "Kumoa">
+<!ENTITY addonAction.setDefault                 "Aseta oletukseksi">
