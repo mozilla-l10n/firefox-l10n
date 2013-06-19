@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label           "Do ">
-<!ENTITY fromField3.label         "Od ">
-<!ENTITY senderField3.label       "Wysyłane przez ">
-<!ENTITY organizationField3.label "Organizacja ">
-<!ENTITY replyToField3.label      "Odp. do ">
+<!ENTITY toField4.label "Do">
+<!ENTITY fromField4.label "Od">
+<!ENTITY senderField4.label "Wysyłane przez">
+<!ENTITY organizationField4.label "Organizacja">
+<!ENTITY replyToField4.label "Odp. do">
 
-<!ENTITY subjectField3.label    "Temat ">
-<!ENTITY ccField3.label         "Kopia ">
-<!ENTITY bccField3.label        "Ukryta kopia ">
-<!ENTITY newsgroupsField3.label "Grupy ">
-<!ENTITY followupToField3.label "Kontynuacja na ">
-<!ENTITY tagsHdr3.label         "Etykiety ">
-<!ENTITY dateField3.label       "Data ">
-<!ENTITY userAgentField3.label  "Program ">
-<!ENTITY referencesField3.label "Odniesienia ">
-<!ENTITY messageIdField3.label  "Identyfikator ">
-<!ENTITY inReplyToField3.label  "Odpowiedź na ">
-<!ENTITY originalWebsite3.label "Strona www ">
+<!ENTITY subjectField4.label "Temat">
+<!ENTITY ccField4.label "Kopia">
+<!ENTITY bccField4.label "Ukryta kopia">
+<!ENTITY newsgroupsField4.label "Grupy">
+<!ENTITY followupToField4.label "Kontynuacja na">
+<!ENTITY tagsHdr4.label "Etykiety">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Program">
+<!ENTITY referencesField4.label "Odniesienia">
+<!ENTITY messageIdField4.label "Identyfikator">
+<!ENTITY inReplyToField4.label "Odpowiedź na">
+<!ENTITY originalWebsite4.label "Strona www">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "Edytuj…">
