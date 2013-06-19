@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Pour ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Expéditeur ">
-<!ENTITY organizationField3.label "Organisation ">
-<!ENTITY replyToField3.label "Réponse à ">
+<!ENTITY toField4.label "Pour">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Expéditeur">
+<!ENTITY organizationField4.label "Organisation">
+<!ENTITY replyToField4.label "Réponse à">
 
-<!ENTITY subjectField3.label "Sujet ">
-<!ENTITY ccField3.label "Copie à ">
-<!ENTITY bccField3.label "Copie cachée à ">
-<!ENTITY newsgroupsField3.label "Groupes ">
-<!ENTITY followupToField3.label "Faire suivre à ">
-<!ENTITY tagsHdr3.label "Étiquettes ">
-<!ENTITY dateField3.label "Date ">
-<!ENTITY userAgentField3.label "Agent utilisateur ">
-<!ENTITY referencesField3.label "Références ">
-<!ENTITY messageIdField3.label "Identifiant du message ">
-<!ENTITY inReplyToField3.label "En réponse à ">
-<!ENTITY originalWebsite3.label "Site web ">
+<!ENTITY subjectField4.label "Sujet">
+<!ENTITY ccField4.label "Copie à">
+<!ENTITY bccField4.label "Copie cachée à">
+<!ENTITY newsgroupsField4.label "Groupes">
+<!ENTITY followupToField4.label "Faire suivre à">
+<!ENTITY tagsHdr4.label "Étiquettes">
+<!ENTITY dateField4.label "Date">
+<!ENTITY userAgentField4.label "Agent utilisateur">
+<!ENTITY referencesField4.label "Références">
+<!ENTITY messageIdField4.label "Identifiant du message">
+<!ENTITY inReplyToField4.label "En réponse à">
+<!ENTITY originalWebsite4.label "Site web">
 
 <!ENTITY editMessageDescription.label "Ceci est un brouillon">
 <!ENTITY editMessageButton.label "Modifier…">
