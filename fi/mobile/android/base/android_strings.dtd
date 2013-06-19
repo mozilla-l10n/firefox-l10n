@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Useimmin avatut">
 <!ENTITY  awesomebar_bookmarks_title "Kirjanmerkit">
 <!ENTITY  awesomebar_history_title "Sivuhistoria">
+<!ENTITY  awesomebar_switch_to_tab "Siirry välilehteen">
 
 <!ENTITY  crash_reporter_title "&brandShortName;in kaatumisilmoitusohjelma">
-<!ENTITY  crash_message "&brandShortName; kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan.">
-<!ENTITY  crash_help_message "Auta meitä korjaamaan tämä vika!">
-<!ENTITY  crash_send_report_message "Lähetä Mozillalle kaatumisilmoitus">
-<!ENTITY  crash_include_url "Lähetä avoinna olleen sivun osoite">
+<!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
+<!ENTITY  crash_send_report_message2 "Kerro virheestä Mozillalle ja auta heitä korjaamaan vika">
+<!ENTITY  crash_include_url2 "Lähetä avoinna olleen sivun osoite">
+<!ENTITY  crash_sorry "Olemme pahoillamme">
+<!ENTITY  crash_comment "Lisää kommenttisi englanniksi (kommentit ovat julkisia)">
+<!ENTITY  crash_allow_contact "Mozilla voi ottaa minuun yhteyttä ilmoituksen puitteissa">
+<!ENTITY  crash_email "Sähköpostiosoitteesi">
+<!ENTITY  crash_closing_alert "Lopetetaanko lähettämättä kaatumisilmoitusta?">
+<!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
 <!ENTITY  crash_close_label "Sulje">
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
-<!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
 <!ENTITY  exit_label "Lopeta">
-<!ENTITY  continue_label "Jatka">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName;in verkkosovellukset">
 <!ENTITY  launcher_shortcuts_empty "Ei löydetty verkkosovelluksia">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "Yleiset">
 <!ENTITY pref_category_privacy "Tietosuoja ja turvallisuus">
 <!ENTITY pref_category_content "Sisältö">
-<!ENTITY pref_category_importexport "Tuo &amp; vie">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Data-asetukset">
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
-<!ENTITY pref_do_not_track "Ilmoita sivustoille, etten halua niiden seuraavan minua">
-<!ENTITY pref_telemetry "Lähetä suorituskykytietoja">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Yleiset">
+<!ENTITY pref_header_privacy "Yksityisyys &amp; turvallisuus">
+<!ENTITY pref_header_content "Sisältö">
 
 <!ENTITY pref_cookies_menu "Evästeet">
 <!ENTITY pref_cookies_accept_all "Sallittu">
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
+
+<!ENTITY pref_donottrack_menu "Seuranta">
+<!ENTITY pref_donottrack_disallow_tracking "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY pref_donottrack_allow_tracking "Ilmoita sivustoille, että haluan niiden seuraavan minua">
+<!ENTITY pref_donottrack_no_pref "Älä kerro sivustoille mitään seuranta-asetuksistani">
 
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
 <!ENTITY pref_private_data_siteSettings2 "Sivustoasetukset">
 <!ENTITY pref_private_data_downloadFiles "Ladatut tiedostot">
+
+<!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
+<!ENTITY datareporting_notification_action "Valitse lähetettävät tiedot">
+<!ENTITY datareporting_notification_summary "Parantaaksemme käyttökokemustasi &brandShortName; automaattisesti lähettää joitain tietoja &vendorShortName;illa.">
+<!ENTITY datareporting_notification_summary_short "Parantaaksemme käyttökokemustasi &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName;in terveydentilaraportti">
+<!ENTITY datareporting_fhr_summary "Toiminto auttaa ymmärtämään selaimen suorituskykytasoa ja välittää tiedon selaimen terveydentilasta &vendorShortName;lle">
+<!ENTITY datareporting_telemetry_title "Selainmittarit">
+<!ENTITY datareporting_telemetry_summary "&brandShortName; kerää suorituskyky- ja laitteistotietoja sekä tietoja selaimeen tehdyistä muokkauksista, ja lähettää ne &vendorShortName;lle, jotta kykenemme tarjoamaan parhaan mahdollisen selauskokemuksen.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää kaatumisilmoitukset &vendorShortName;lle, jotta voimme tehdä vakaamman ja turvallisemman selaimen">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName;in kaatumisten ilmoitusohjelma">
 
 <!ENTITY pref_update_autodownload "Automaattiset päivitykset">
 <!ENTITY pref_update_autodownload_wifi "Vain Wi-Fi -yhteydellä">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Liitä">
 <!ENTITY contextmenu_copyurl "Kopioi osoite">
 <!ENTITY contextmenu_edit_bookmark "Muokkaa">
+<!ENTITY contextmenu_subscribe "Tilaa sivu">
+<!ENTITY contextmenu_site_settings "Muokkaa sivun asetuksia">
+
+<!ENTITY pref_titlebar_mode "Otsikkopalkki">
+<!ENTITY pref_titlebar_mode_title "Näytä sivun otsikko">
+<!ENTITY pref_titlebar_mode_url "Näytä sivun osoite">
 
 <!ENTITY history_removed "Sivu poistettiin">
 
@@ -172,6 +214,8 @@ size. -->
 <!ENTITY bookmark_edit_location "Osoite">
 <!ENTITY bookmark_edit_keyword "Avainsana">
 
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title2       "Sivuston asetukset…">
 <!ENTITY site_settings_cancel       "Peruuta">
 <!ENTITY site_settings_clear        "Poista">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "Sivu lisättiin lukulistalle">
 <!ENTITY reading_list_removed "Sivu poistettiin lukulistalta">
 <!ENTITY reading_list_failed "Sivun lisääminen lukulistalle epäonnistui">
+<!ENTITY reading_list_duplicate "Sivu on jo lukulistalla">
 <!ENTITY reader "Lukutila">
 
 <!ENTITY masterpassword_create_title "Aseta pääsalasana">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Muokkaa">
 <!ENTITY abouthome_topsites_pin "Kiinnitä sivusto">
 <!ENTITY abouthome_topsites_unpin "Irrota sivusto">
-<!ENTITY abouthome_topsites_remove "Poista">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
