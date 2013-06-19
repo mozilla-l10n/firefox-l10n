@@ -101,6 +101,6 @@
 <!ENTITY sync.button.send.label "Sanba">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label; kayandi">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; kayandi ka nor lokey sanba">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.shortName.label; kayandi war jinay tanaa ga ka nor lokey sanba jinay taney do.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; kayandi war jinay tanaa ga ka nor lokey sanba jinay taney do.">
 <!ENTITY sync.text.tab.sent.label "War nor lokoo sanbandi!">
 <!ENTITY sync.text.tab.not.sent.label "Šenday bangay war nor lokoo sanbaroo ra.">
