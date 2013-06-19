@@ -295,7 +295,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&fomathiS; khangela iingcamango?">
+<!ENTITY suggestions_prompt2 "Ungathanda ukubuyela kwi&formatS; khangela iingcamango?">
 
 <!ENTITY webapp_generic_name "I-app">
 
