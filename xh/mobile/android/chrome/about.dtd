@@ -14,7 +14,7 @@
 <!ENTITY aboutPage.checkForUpdates.downloaded   "Ehlaziyiweyo ikhutshelwe; cofa ukuze uyifake">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
-<!ENTITY aboutPage.privacyPolicy.label          "Malunga ne-&brandShortName;">
+<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
 <!ENTITY aboutPage.relNotes.label               "Khulula Iingongoma">
 <!ENTITY aboutPage.credits.label                "Amatyala">
