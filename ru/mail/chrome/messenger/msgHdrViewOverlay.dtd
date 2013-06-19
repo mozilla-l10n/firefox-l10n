@@ -14,7 +14,7 @@
 <!ENTITY followupToField4.label "Ответ в группу новостей">
 <!ENTITY tagsHdr4.label "Метки">
 <!ENTITY dateField4.label "Дата">
-<!ENTITY userAgentField4.label "User agent">
+<!ENTITY userAgentField4.label "Программа">
 <!ENTITY referencesField4.label "Ссылки">
 <!ENTITY messageIdField4.label "Идентификатор">
 <!ENTITY inReplyToField4.label "В ответ на">
