@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "К">
 <!ENTITY evaluate.label     "Изчисляване">
 <!ENTITY evaluate.accesskey "с">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+<!ENTITY filter2.label      "Филтър:">
+<!ENTITY filter2.accesskey  "Ф">
 
 <!ENTITY copyCmd.label       "Копиране">  
 <!ENTITY copyCmd.accesskey   "К"> 

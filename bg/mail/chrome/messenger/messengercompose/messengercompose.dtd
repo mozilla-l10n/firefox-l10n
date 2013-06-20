@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "О">
 <!ENTITY dsnMenu.label "Уведомяване при доставка">
 <!ENTITY dsnMenu.accesskey "У">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
-<!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Формат на доставка">
+<!ENTITY deliveryFormatMenu.accesskey "д">
 <!ENTITY autoFormatCmd.label "Автоматично">
 <!ENTITY autoFormatCmd.accesskey "А">
 <!ENTITY plainTextFormatCmd.label "Само чист текст">

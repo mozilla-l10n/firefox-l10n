@@ -309,7 +309,7 @@
 <!ENTITY calendarproperties.name.label                     "Име:">
 <!ENTITY calendarproperties.readonly.label                 "Само за четене">
 <!ENTITY calendarproperties.firealarms.label               "Показване на припомнянията">
-<!ENTITY calendarproperties.cache3.label                   "Offline Support">
+<!ENTITY calendarproperties.cache3.label                   "Поддръжка извън мрежата">
 <!ENTITY calendarproperties.enabled.label                  "Включване на този календар">
 <!ENTITY calendarproperties.forceDisabled.label            "Доставчикът на този календар не може да бъде намерен. Това често се случва, ако сте изключили или премахнали някои добавки.">
 <!ENTITY calendarproperties.unsubscribe.label              "Отписване">

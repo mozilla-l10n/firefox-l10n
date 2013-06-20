@@ -168,8 +168,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "о">
 <!ENTITY sortByStarCmd.label "Звезда">
 <!ENTITY sortByStarCmd.accesskey "в">
-<!ENTITY sortByAttachmentsCmd.label "Attachments">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.label "Притурки">
+<!ENTITY sortByAttachmentsCmd.accesskey "у">
 <!ENTITY sortByPriorityCmd.label "Приоритет">
 <!ENTITY sortByPriorityCmd.accesskey "П">
 <!ENTITY sortBySizeCmd.label "Размер">
@@ -426,7 +426,7 @@
 <!ENTITY openConversationCmd.label "Отваряне в диалога">
 <!ENTITY openConversationCmd.accesskey "г">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.label "Притурки">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
 <!ENTITY openFeedMessage1.accesskey "O">
@@ -458,8 +458,8 @@
 <!ENTITY imStatus.unavailable        "Недостъпен">
 <!ENTITY imStatus.offline            "Без връзка">
 <!ENTITY imStatus.showAccounts       "Показване на сметките…">
-<!ENTITY joinChatCmd.label "Join Chat…">
-<!ENTITY joinChatCmd.accesskey "t">
+<!ENTITY joinChatCmd.label "Присъединяване към разговор…">
+<!ENTITY joinChatCmd.accesskey "П">
 <!ENTITY savedFiles.label "Записани файлове">
 <!ENTITY savedFiles.accesskey "й">
 <!ENTITY savedFiles.key "j">
@@ -557,13 +557,13 @@
 <!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
 <!-- AppMenu Popup -->
 
-<!ENTITY appmenuNewMsgCmd.label "New Message">
+<!ENTITY appmenuNewMsgCmd.label "Ново съобщение">
 <!ENTITY appmenuNewContactCmd.label "Address Book Contact…">
-<!ENTITY appmenuEditMenu.label "Edit">
+<!ENTITY appmenuEditMenu.label "Редакция">
 <!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
 <!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appmenuSelectThread.label "Select Thread">
-<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
+<!ENTITY appmenuSelectThread.label "Избор на нишка">
+<!ENTITY appmenuSelectFlagged.label "Изтегляне на писмата с флаг">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Нов етикет…">
@@ -852,8 +852,8 @@
 <!ENTITY saveLinkAsCmd.accesskey "к">
 <!ENTITY saveImageAsCmd.label "Запис на изображение като…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
+<!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY copyImageAllCmd.label "Копиране на изображение">
 <!ENTITY copyImageAllCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копиране на пощенския адрес">

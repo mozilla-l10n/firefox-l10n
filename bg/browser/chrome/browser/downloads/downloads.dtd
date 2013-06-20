@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Downloads">
+<!ENTITY downloads.title                  "Изтегляния">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -60,8 +60,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "О">
 <!ENTITY cmd.copyDownloadLink.label       "Копиране на връзката за изтегляне">
 <!ENTITY cmd.copyDownloadLink.accesskey   "в">
-<!ENTITY cmd.removeFromHistory.label      "Remove From History">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "Премахване от списъка">
+<!ENTITY cmd.removeFromHistory.accesskey  "П">
 <!ENTITY cmd.clearList.label              "Изчистване на списъка">
 <!ENTITY cmd.clearList.accesskey          "ч">
 <!ENTITY cmd.clearDownloads.label         "Изчистване на изтеглянията">

@@ -65,9 +65,9 @@
 <!ENTITY folderQuotaUsage.label                  "Употреба:">
 <!ENTITY folderQuotaStatus.label                 "Състояние:">
 
-<!ENTITY numberOfMessages.label                  "Number of messages:">
+<!ENTITY numberOfMessages.label                  "Брой съобщения:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-<!ENTITY numberUnknown.label                     "unknown">
-<!ENTITY sizeOnDisk.label                        "Size on disk:">
+<!ENTITY numberUnknown.label                     "неизвестен">
+<!ENTITY sizeOnDisk.label                        "Размер на диска:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "unknown">
+<!ENTITY sizeUnknown.label                       "неизвестен">

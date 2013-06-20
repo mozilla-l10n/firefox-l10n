@@ -36,8 +36,8 @@
 <!ENTITY openRecentMenu.label         "Отваряне на скорошни">
 <!ENTITY openRecentMenu.accesskey     "с">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.label              "Обръщане">
+<!ENTITY revertCmd.accesskey          "щ">
 
 <!ENTITY saveFileCmd.label            "Запис">
 <!ENTITY saveFileCmd.accesskey        "З">
@@ -105,9 +105,9 @@
 <!ENTITY resetContext2.label          "Анулиране на променливите">
 <!ENTITY resetContext2.accesskey      "А">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+<!ENTITY reloadAndRun.label           "Презареждане и изпълнение">
+<!ENTITY reloadAndRun.accesskey       "р">
+<!ENTITY reloadAndRun.key             "и">
 
 <!ENTITY executeMenu.label            "Изпълнение">
 <!ENTITY executeMenu.accesskey        "п">
