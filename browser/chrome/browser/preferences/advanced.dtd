@@ -60,7 +60,7 @@
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
 <!ENTITY updateAuto1.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
-<!ENTITY updateAuto1.accesskey "u">
+<!ENTITY updateAuto1.accesskey "s">
 <!ENTITY updateAutoMetro.label "Installa automaticamente aggiornamenti per versione desktop e Windows 8 di &brandShortName;">
 <!ENTITY updateAutoMetro.accesskey "W">
 <!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all'utente di scegliere se installarli">
