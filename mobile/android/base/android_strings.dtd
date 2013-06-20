@@ -9,12 +9,12 @@
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
-<!ENTITY  awesomebar_all_pages_title "Népszerű oldalak">
-<!ENTITY  awesomebar_bookmarks_title "Könyvjelzők">
-<!ENTITY  awesomebar_history_title "Előzmények">
+<!ENTITY  awesomebar_all_pages_title "Népszerű">
+<!ENTITY  awesomebar_bookmarks_title "Könyvjelző">
+<!ENTITY  awesomebar_history_title "Előzmény">
 <!ENTITY  awesomebar_switch_to_tab "Váltás erre a lapra">
 
-<!ENTITY  crash_reporter_title "&brandShortName; összeomlás-bejelentő">
+<!ENTITY  crash_reporter_title "&brandShortName; hibabejelentő">
 <!ENTITY  crash_message2 "A &brandShortName; egy hiba miatt összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
 <!ENTITY  crash_send_report_message2 "Értesítse a Mozillát, hogy kijavíthassák a hibát">
 <!ENTITY  crash_include_url2 "A meglátogatott oldal címének csatolása">
@@ -119,9 +119,9 @@ size. -->
 <!ENTITY pref_font_size_preview_text "A gyors narancssárga róka sebességben, rugalmasságban és biztonságban is megugorja várakozásait. Non-profit szervezetként szabadon innoválhatunk az Ön érdekében, nem kell semmilyen kompromisszumot kötnünk. Ez Önnek jobb élményt, a webnek pedig fényesebb jövőt jelent.">
 
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
-<!ENTITY pref_show_product_announcements "Termékbejelentések megjelenítése">
+<!ENTITY pref_show_product_announcements "Termékbejelentések">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Keresési javaslatok megjelenítése">
+<!ENTITY pref_search_suggestions "Keresési javaslatok">
 <!ENTITY pref_import_android "Importálás Androidról">
 <!ENTITY pref_private_data_history "Böngészési és letöltési előzmények">
 <!ENTITY pref_private_data_formdata "Űrlap- és keresési előzmények">
@@ -170,14 +170,14 @@ size. -->
 <!ENTITY share_image_failed "Nem lehet megosztani ezt a képet">
 <!ENTITY save_as_pdf "Mentés PDF-ként">
 <!ENTITY find_in_page "Keresés az oldalon">
-<!ENTITY desktop_mode "Asztali változat kérése">
+<!ENTITY desktop_mode "Asztali oldal kérése">
 <!ENTITY tools "Eszközök">
 <!ENTITY new_tab "Új lap">
 <!ENTITY new_private_tab "Új privát lap">
 <!ENTITY close_all_tabs "Minden lap bezárása">
-<!ENTITY tabs_normal "Lapok">
-<!ENTITY tabs_private "Magánjellegű">
-<!ENTITY tabs_synced "Szinkronizálva">
+<!ENTITY tabs_normal "Lap">
+<!ENTITY tabs_private "Privát">
+<!ENTITY tabs_synced "Szinkronban">
 <!ENTITY wallpaper_success "Háttérkép frissítve">
 <!ENTITY wallpaper_progress "Háttérkép beállítása">
 <!ENTITY wallpaper_fail "A háttérkép nem állítható be">
