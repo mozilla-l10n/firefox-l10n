@@ -21,7 +21,7 @@
 <!ENTITY customizeMailAlert.label         "Нагласяване…">
 <!ENTITY customizeMailAlert.accesskey     "Н">
 
-<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.label               "Показване на tray иконка">
 <!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Прослушва">

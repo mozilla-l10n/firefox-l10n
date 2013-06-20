@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "С">
 <!ENTITY cmd.disableTheme.label               "Спиране на сложената тема">
 <!ENTITY cmd.disableTheme.accesskey           "л">
-<!ENTITY cmd.askToActivate.label              "Ask to Activate">
-<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
-<!ENTITY cmd.alwaysActivate.label             "Always Activate">
-<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
-<!ENTITY cmd.neverActivate.label              "Never Activate">
-<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
-<!ENTITY cmd.stateMenu.tooltip                "Change when this add-on runs">
+<!ENTITY cmd.askToActivate.label              "Заявка за активиране">
+<!ENTITY cmd.askToActivate.tooltip            "Заявка за използване на тази добавка всеки път">
+<!ENTITY cmd.alwaysActivate.label             "Активиране завинаги">
+<!ENTITY cmd.alwaysActivate.tooltip           "Винаги използвай тази добавка">
+<!ENTITY cmd.neverActivate.label              "Никога не активирай">
+<!ENTITY cmd.neverActivate.tooltip            "Никога не използвай тази добавка">
+<!ENTITY cmd.stateMenu.tooltip                "Смяна на режима на използване на тази добавка">
 <!ENTITY cmd.installAddon.label               "Инсталиране">
 <!ENTITY cmd.installAddon.accesskey           "И">
 <!ENTITY cmd.uninstallAddon.label             "Премахване">

@@ -26,15 +26,15 @@
 
 <!ENTITY editMenu.label                     "Редактиране">
 <!ENTITY editMenu.accesskey                 "Р">
-<!ENTITY undoCmd.label                      "Undo">
+<!ENTITY undoCmd.label                      "Отмяна">
 <!ENTITY undoCmd.key                        "Z">
-<!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "Redo">
+<!ENTITY undoCmd.accesskey                  "О">
+<!ENTITY redoCmd.label                      "Повторение">
 <!ENTITY redoCmd.key                        "Y">
-<!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "Cut">
+<!ENTITY redoCmd.accesskey                  "П">
+<!ENTITY cutCmd.label                       "Изрязване">
 <!ENTITY cutCmd.key                         "X">
-<!ENTITY cutCmd.accesskey                   "t">
+<!ENTITY cutCmd.accesskey                   "з">
 <!ENTITY copyCmd.label                      "Копиране">
 <!ENTITY copyCmd.key                        "K">
 <!ENTITY copyCmd.accesskey                  "К">

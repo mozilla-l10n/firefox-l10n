@@ -11,16 +11,16 @@
 <!ENTITY editButton.accesskey "П">
 <!ENTITY deleteButton.label "Изтриване">
 <!ENTITY deleteButton.accesskey "з">
-<!ENTITY reorderTopButton "Move to Top">
-<!ENTITY reorderTopButton.accessKey "o">
-<!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
+<!ENTITY reorderTopButton "Преместване в началото">
+<!ENTITY reorderTopButton.accessKey "ч">
+<!ENTITY reorderTopButton.toolTip "Пренареждане на филтъра така, че да бъде изпълнен първи">
 <!ENTITY reorderUpButton.label "Премества нагоре">
 <!ENTITY reorderUpButton.accesskey "г">
 <!ENTITY reorderDownButton.label "Премества надолу">
 <!ENTITY reorderDownButton.accesskey "д">
-<!ENTITY reorderBottomButton "Move to Bottom">
-<!ENTITY reorderBottomButton.accessKey "B">
-<!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
+<!ENTITY reorderBottomButton "Преместване в края">
+<!ENTITY reorderBottomButton.accessKey "я">
+<!ENTITY reorderBottomButton.toolTip "Пренареждане на филтъра така, че да бъде изпълнен последен">
 <!ENTITY filterHeader.label "Разрешените филтри се стартират автоматично в реда по-долу.">
 <!ENTITY filtersForPrefix.label "Филтри за:">
 <!ENTITY filtersForPrefix.accesskey "Ф">
@@ -37,5 +37,5 @@
 <!ENTITY helpButton.label "Помощ">
 <!ENTITY helpButton.accesskey "П">
 <!ENTITY closeCmd.key "W"> 
-<!ENTITY searchBox.emptyText "Search filters by name…">
+<!ENTITY searchBox.emptyText "Търсене на филтрите по име">
 

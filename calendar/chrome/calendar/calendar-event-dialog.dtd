@@ -171,8 +171,8 @@
 <!ENTITY task.status.accesskey                            "у">
 <!ENTITY event.repeat.label                               "Повторение:" >
 <!ENTITY event.repeat.accesskey                           "в">
-<!ENTITY event.until.label                                "Until:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.until.label                                "До:">
+<!ENTITY event.until.accesskey                            "о">
 <!ENTITY event.reminder.label                             "Напомняне:" >
 <!ENTITY event.reminder.accesskey                         "м">
 <!ENTITY event.description.label                          "Описание:" >
@@ -189,8 +189,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "О" >
 <!ENTITY event.attachments.popup.removeAll.label          "Премахване на всички" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "х" >
-<!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
+<!ENTITY event.attachments.popup.attachPage.label         "Прикачане на уеб страница…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "у" >
 <!ENTITY event.url.label                                  "Сродна връзка:" >
 <!ENTITY event.priority2.label                            "Приоритет:">
 
@@ -331,10 +331,10 @@
 <!ENTITY event.attendee.role.optional           "Допълнителни участници">
 <!ENTITY event.attendee.role.chair              "Председател">
 <!ENTITY event.attendee.role.nonparticipant     "Не е участник">
-<!ENTITY event.attendee.usertype.individual     "Individual">
-<!ENTITY event.attendee.usertype.group          "Group">
-<!ENTITY event.attendee.usertype.resource       "Resource">
-<!ENTITY event.attendee.usertype.room           "Room">
+<!ENTITY event.attendee.usertype.individual     "Личност">
+<!ENTITY event.attendee.usertype.group          "Група">
+<!ENTITY event.attendee.usertype.resource       "Ресурс">
+<!ENTITY event.attendee.usertype.room           "Стая">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Моля, посочете времевата зона">
