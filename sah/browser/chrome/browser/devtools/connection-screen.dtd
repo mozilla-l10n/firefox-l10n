@@ -7,11 +7,11 @@
   - -->
 
 
-<!ENTITY title      "Connect">
+<!ENTITY title      "Холбонуу">
 <!ENTITY header     "Connect to remote device">
 <!ENTITY host       "Хост:">
 <!ENTITY port       "Порт:">
-<!ENTITY connect    "Connect">
+<!ENTITY connect    "Холбон">
 <!ENTITY connecting "Холбонуу...">
 <!ENTITY availableTabs "Available remote tabs:">
 <!ENTITY availableProcesses "Available remote processes:">

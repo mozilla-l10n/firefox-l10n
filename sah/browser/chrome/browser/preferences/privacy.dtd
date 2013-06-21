@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Суоллааһын">
+<!ENTITY tracking.label                 "Манааһын">
 
 <!ENTITY dntTrackingNopref.label        "Мин кэтиир туруорууларым туһунан ситим-сирдэргэ биллэримэ.">
 <!ENTITY dntTrackingNopref.accesskey    "т">
@@ -27,8 +27,8 @@
 <!ENTITY  acceptCookies.label           "Ситим-сирдэртэн куукаларын ыларга">
 <!ENTITY  acceptCookies.accesskey       "ы">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.label      "Туора ситим-сирдэртэн куукаларын ыларга:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "л">
 <!ENTITY  acceptThirdParty.always.label   "Always">
 <!ENTITY  acceptThirdParty.never.label    "Аны хаһан да">
 <!ENTITY  acceptThirdParty.visited.label  "From visited">

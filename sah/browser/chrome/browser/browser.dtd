@@ -480,8 +480,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x.label "Олус түргэн (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "О">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -648,8 +648,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.description "Өҥөлөр <label/> холбоммуттар. Туруорууларын манна уларытыаххын сөп <label class='text-link'>Add-on Manager</label>.">
 <!ENTITY social.activated.undo.label "Һуук, кэбис төннөр!">
 <!ENTITY social.activated.undo.accesskey "к">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.label "Сиһилии…">
+<!ENTITY social.learnMore.accesskey "С">
 <!ENTITY social.closeNotificationItem.label "Кэнники">
 
 <!ENTITY social.chatBar.commandkey "c">

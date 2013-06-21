@@ -6,9 +6,9 @@
 
 <!ENTITY certmgr.tab.mine                     "Your Certificates">
 <!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
+<!ENTITY certmgr.tab.websites3                "Сиэрбэрдэр">
 <!ENTITY certmgr.tab.ca                       "Authorities">
-<!ENTITY certmgr.tab.orphan2                  "Others">
+<!ENTITY certmgr.tab.orphan2                  "Атыттар">
 
 <!ENTITY certmgr.ca.builtins                  "Built-in CAs">
 <!ENTITY certmgr.ca.mycas                     "CAs Managed By You">

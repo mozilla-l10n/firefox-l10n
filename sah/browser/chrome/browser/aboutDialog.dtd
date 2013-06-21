@@ -9,7 +9,7 @@
 <!ENTITY warningDesc.telemetryDesc  "&brandShortName; тубустун диэн кини анаан ыйыппакка эрэ үлэ таһаарыытын, көмпүүтэр туһунан сибидиэнньэни, маны &vendorShortName; туттуу уонна кини туруорууларын туһунан сибидиэнньэлэри кэмиттэн кэмигэр ыытан иһэр.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "&brandShortName; тубустун диэн анаан ыйыппакка эрэ үлэ таһаарыытын, көмпүүтэр туһунан сибидиэнньэни, маны &vendorShortName; туттуу уонна кини туруорууларын туһунан сибидиэнньэлэри кэмиттэн кэмигэр ыытан иһэр.">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " буолар ">
@@ -34,7 +34,7 @@
 <!ENTITY bottomLinks.license        "Лиссиэнсийэ туһунан">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Туттааччы бырааба">
+<!ENTITY bottomLinks.rights         "Бүтэһик кыттааччы бырааба">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Көмүскэл сиэрэ">

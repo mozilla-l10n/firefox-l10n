@@ -48,11 +48,9 @@
 <!ENTITY notCached.longDesc "<p>Көрдөнүллүбүт дөкүмүөн кэшкэ суох &brandShortName;.</p><ul><li>Куттал суоһаабатын диэн &brandShortName; аптамаатынан хос көрдөөбөт.</li><li>Дөкүмүөнү хат көрдүүргэ «Хат хачайдаа» диэни баттаа.</li></ul>">
 
 <!ENTITY netOffline.title "Холбоммокко үлэлээһин">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Ситимнэһэн сирэйгэ киирэргэ &quot;Хатылаан көр&quot; диэни баттаа.</li> 
+</ul> ">
 
 <!ENTITY contentEncodingError.title "Иһинээҕитин куода алҕастаах">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -85,12 +83,13 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Прокси-сиэрбэр туруорууларын тургут.</li> 
 <li>Көмпүүтэр ситимин тургут.</li> 
-<li>Көмпүүтэриҥ эбэтэр ситимиҥ көмүскүүр экрааннаах эбэтэр прокси-сиэрбэр нөҥүө холбоһор буоллаҕына  &brandShortName; интэриниэккэ тахсара көҥүллэммитин көр.</li> 
+<li>Көмпүүтэриҥ эбэтэр ситимиҥ көмүскүүр экрааннаах эбэтэр прокси-сиэрбэр нөҥүө холбоһор буоллаҕына &brandShortName; интэриниэккэ тахсара көҥүллэммитин көр.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Сирэй алҕастаах утаарыылаах">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Маннык кыһалҕа кууканыараардахха эбэтэр ылары боптоххо тахсыан сөп.</li> </ul>">
+<li>Маннык кыһалҕа кууканыараардахха эбэтэр ылары боптоххо тахсыан сөп.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Сиэрбэр хоруйа кыайан быһаарыллыбата">
 <!ENTITY unknownSocketType.longDesc "<ul> 

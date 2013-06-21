@@ -49,7 +49,7 @@
 <!ENTITY telemetryLearnMore.label        "Сиһилии">
 
 <!ENTITY crashReporterSection.label      "Саахал туһунан тыллабыр">
-<!ENTITY crashReporterDesc.label         "&brandShortName; саахал буолуутун туһунан тыллабыры браузер үлэтэ бигэ уонна куттала суох буолуутун туһугар &vendorShortName;-ҕа ыытар">
+<!ENTITY crashReporterDesc.label         "&vendorShortName; браузеры быдан бигэ уонна көмүскэллээх оҥорорун туһугар &brandShortName; саахаллар туһунан отчуоттары ыытар">
 <!ENTITY enableCrashReporter.label       "Саахал туһунан тыллабыры ыытыыны холбуурга">
 <!ENTITY enableCrashReporter.accesskey   "х">
 <!ENTITY crashReporterLearnMore.label    "Сиһилии">

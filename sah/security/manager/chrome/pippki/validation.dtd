@@ -18,7 +18,7 @@
 
 <!ENTITY  validation.crl.autoupdate.title         "CRL-ы аптамаатынан саҥардыы туруоруулара">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Бу CRL аптамаатынан саҥардыллыытын холбоо">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Update">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Саҥардыы">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Update every">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Day(s)">

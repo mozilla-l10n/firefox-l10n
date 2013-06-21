@@ -20,9 +20,9 @@
 
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 
-<!ENTITY saveButton.label           "Save">
+<!ENTITY saveButton.label           "Бигэргэт">
 <!ENTITY saveButton.tooltip         "Save this style sheet to a file">
-<!ENTITY saveButton.accesskey       "S">
+<!ENTITY saveButton.accesskey       "Б">
 
 <!ENTITY editorTextbox.placeholder  "Type CSS here.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no

@@ -28,5 +28,5 @@
 <!ENTITY noPropertiesFound     "No CSS properties found.">
 <!-- FIXME: notes -->
 
-<!ENTITY computedViewTitle     "Computed">
+<!ENTITY computedViewTitle     "Суоттанна">
 <!ENTITY ruleViewTitle         "Rules">

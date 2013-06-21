@@ -7,7 +7,7 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip    "Сайыннарыы хапталын сап">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!-- LOCALIZATION NOTE (options.context.label): This is the label for the
   -  heading of the group of two about:config preferences to toggle chrome

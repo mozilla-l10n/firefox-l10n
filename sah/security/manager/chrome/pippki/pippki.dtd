@@ -4,12 +4,12 @@
 <!-- Values for changepassword.xul -->
 
 <!ENTITY setPassword.title  "Маастар киирии тылы уларытарга">
-<!ENTITY setPassword.tokenName.label "Security Device">
+<!ENTITY setPassword.tokenName.label "Көмүскэл тэрил">
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "New password:">
 <!ENTITY setPassword.reenterPassword.label "New password (again):">
 <!ENTITY setPassword.meter.label "Password quality meter">
-<!ENTITY setPassword.meter.loading "Loading">
+<!ENTITY setPassword.meter.loading "Хачайдааһын">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Хос">
@@ -18,8 +18,8 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Маастар киирии тылын киллэр">
-<!ENTITY getPassword.tokenName2.label "Security Device:">
-<!ENTITY getPassword.password.label "Password:">
+<!ENTITY getPassword.tokenName2.label "Көмүскэл тэрил:">
+<!ENTITY getPassword.password.label "Киирии тыл:">
 <!-- These should be common -->
 
 <!ENTITY piperror.title "Алҕас">
@@ -29,7 +29,7 @@
 <!ENTITY pref.security.general.lHeader "Көмүскэл">
 <!ENTITY pref.security.general.rHeader "Settings for general security">
 <!ENTITY pref.security.general.header "Settings for general security">
-<!ENTITY pref.security.general.level.title "Security Level">
+<!ENTITY pref.security.general.level.title "Көмүскэл таһым">
 <!ENTITY pref.security.general.paranoid.label "Use paranoid security settings">
 <!ENTITY pref.security.general.certificates.title "Сэртипикээттэр">
 <!ENTITY pref.security.general.manageCert.label "Manage Certificates">
@@ -58,7 +58,7 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Select Certificate">
-<!ENTITY certPicker.info  "Certificate:">
+<!ENTITY certPicker.info  "Сэртипикээт:">
 <!ENTITY certPicker.detailsLabel "Details of selected certificate:">
 
 <!ENTITY pkcs12.setpassword.title  "Choose a Certificate Backup Password">

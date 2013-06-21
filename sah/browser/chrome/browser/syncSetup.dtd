@@ -63,7 +63,7 @@
 <!ENTITY pairDevice.title.label             "Тэрили кытта холбоһуу">
 <!ENTITY addDevice.showMeHow.label          "Хайдах гынары көрдөр.">
 <!ENTITY addDevice.dontHaveDevice.label     "Тэрилим бэйэбин кытта суох">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Холбуурга атын тэрилгэр «Соединиться с устройством» диэни тал.">
 <!ENTITY addDevice.setup.enterCode.label    "Онтон бу куоду киллэр:">
 <!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Тэрил биэрбит куодун киллэр:">

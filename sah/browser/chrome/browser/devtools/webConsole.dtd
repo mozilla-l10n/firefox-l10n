@@ -43,7 +43,7 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
+<!ENTITY btnPageNet.label   "Сеть">
 <!ENTITY btnPageNet.tooltip "Log network access">
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">

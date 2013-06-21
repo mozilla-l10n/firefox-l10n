@@ -60,7 +60,7 @@
 <!ENTITY rights.safebrowsing-b "Safe Browsing үлэтин тохтоттоххо, онтон сылтаан кутталлаах ситим-сирдэргэ тиийэн хаалыахха сөп. Сэрэппит үрдүнэн араарыаххын баҕардаххына манна этиллибит дьайыылары оҥор:">
 <!ENTITY rights.safebrowsing-term1 "Приложение туруорууларын арый">
 <!ENTITY rights.safebrowsing-term2 "&quot;Көмүскэл&quot; салааны тал">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; уонна &quot;&blockWebForgeries.label;&quot; чыычаахтарын уһул">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing араарылынна">
 <!-- location aware browsing points for branded builds -->
 
