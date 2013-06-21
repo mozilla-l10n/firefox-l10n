@@ -30,7 +30,7 @@
 <!ENTITY certmgr.validity.label               "Վավեր է" >
 <!ENTITY certmgr.fingerprints.label           "Մատնահետքերը">
 <!ENTITY certmgr.certdetail.title             "Տեղեկություն վկայագրի մասին">
-<!ENTITY certmgr.certdetail.cn                "Պարզ Անունը (CN)">
+<!ENTITY certmgr.certdetail.cn                "Ընդհանուր անունը (CN)">
 <!ENTITY certmgr.certdetail.o                 "Կազմակերպությունը (O)">
 <!ENTITY certmgr.certdetail.ou                "Կազմակերպ. Բաժանմ. (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Հերթ. Համարը">

@@ -28,13 +28,13 @@
 <!ENTITY  generalSecurityDetails   "Մանրամասներ">
 <!ENTITY  generalSecurityDetails.accesskey "d">
 
-<!ENTITY  mediaTab              "Եթեր">
+<!ENTITY  mediaTab              "Մեդիա">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Տիպ.">
 <!ENTITY  mediaText             "Կապակցված Տեքստ`">
 <!ENTITY  mediaAltHeader        "Այլնտրանք. ՏԵքստ">
 <!ENTITY  mediaAddress          "Հասցեն">
-<!ENTITY  mediaType             "Տիպը">
+<!ENTITY  mediaType             "Տեսակը ">
 <!ENTITY  mediaSize             "Չափը">
 <!ENTITY  mediaCount            "Քանակը">
 <!ENTITY  mediaDimension        "Չափերը`">
@@ -43,7 +43,7 @@
 <!ENTITY  mediaSaveAs           "Պահպանել որպես…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Մեդիա Ցուցադրում">
+<!ENTITY  mediaPreview          "Մեդիայի նախադիտում.">
 
 <!ENTITY  feedTab               "Նորությունների շղթա">
 <!ENTITY  feedTab.accesskey     "Ն">
