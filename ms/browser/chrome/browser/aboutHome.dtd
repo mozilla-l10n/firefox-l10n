@@ -20,12 +20,12 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Ia mudah untuk menyesuaikan Firefox anda betul-betul cara anda mahu. <a>Pilih daripada beribu-ribu addon</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Sangat mudah untuk menyesuaikan Firefox mengikut keinginan anda. <a>Pilihlah daripada beribu-ribu add-on</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; adalah percuma dan perisian sumber terbuka dari organisasi tanpa keuntungan Mozilla Foundation. <a>Ketahui hak anda... </a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Penandabuku">
-<!ENTITY abouthome.historyButton.label   "Latar">
+<!ENTITY abouthome.historyButton.label   "Sejarah">
 <!ENTITY abouthome.settingsButton.label  "Tetapan">
 <!ENTITY abouthome.addonsButton.label    "Add-ons">
 <!ENTITY abouthome.appsButton.label      "Marketplace">

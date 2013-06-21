@@ -31,7 +31,7 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Maklumat perlesenan">
+<!ENTITY bottomLinks.license        "Maklumat Perlesenan">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Hak Pengguna Akhir">
@@ -53,7 +53,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Kemas kini gagal.">
+<!ENTITY update.failed.start        "Kemas kini gagal. ">
 <!ENTITY update.failed.linkText     "Muat turun versi terkini">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -69,10 +69,10 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Memuat turun kemas kini —">
+<!ENTITY update.downloading.start   "Memuat turun kemas kini — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Memohon kemas kini…">
+<!ENTITY update.applying            "Memasang kemas kini…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

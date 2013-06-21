@@ -116,17 +116,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Penandabuku Laman Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "K">
+<!ENTITY shareLinkCmd.label "Kongsi Pautan Ini">
+<!ENTITY shareLinkCmd.accesskey "K">
+<!ENTITY shareImageCmd.label "Kongsi Imej Ini">
+<!ENTITY shareImageCmd.accesskey "K">
+<!ENTITY shareSelectCmd.label "Kongsi Pemilihan">
+<!ENTITY shareSelectCmd.accesskey "K">
+<!ENTITY shareVideoCmd.label "Kongsi Video Ini">
+<!ENTITY shareVideoCmd.accesskey "K">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Konsol Kawalan Web">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "Konsol Pelayar">
 
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
 <!ENTITY inspectContextMenu.accesskey "P">
@@ -645,9 +645,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "Tunjukkan pemberitahuan desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.activated.description "Servis dari <label/> telah dilumpuhkan. Anda boleh mengubah tetapan untuk servis di <label class='text-link'>Add-on Manager</label>.">
+<!ENTITY social.activated.undo.label "Oops, patah balik!">
+<!ENTITY social.activated.undo.accesskey "p">
 <!ENTITY social.learnMore.label "Ketahui Lanjut…">
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Bukan Sekarang">

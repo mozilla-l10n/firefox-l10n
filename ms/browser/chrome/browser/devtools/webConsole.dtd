@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Konsol Web">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "Konsol Pelayar">
 
 <!ENTITY networkPanel.requestURLColon             "Permintaan URL :">
 <!ENTITY networkPanel.requestMethodColon          "Kaedah Permintaan :">
