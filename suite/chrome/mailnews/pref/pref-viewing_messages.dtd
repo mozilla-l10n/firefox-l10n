@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "Algemeen">
 <!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
 <!ENTITY autoMarkAsRead.accesskey         "m">
-<!ENTITY markAsReadNoDelay.label          "Direct zichtbaar">
-<!ENTITY markAsReadNoDelay.accesskey      "D">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Na">
-<!ENTITY markAsReadDelay.accesskey        "N">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Alleen na">
+<!ENTITY markAsReadAfter.accesskey        "n">
 <!ENTITY secondsLabel.label               "seconden weergeven">
 
 <!ENTITY openingMessages.label            "Bij het openen van berichten, deze weergeven in:">
