@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Reset &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Are you sure you want to reset &brandShortName; to its initial state?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; will try to preserve your:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; will restart and everything else will be removed.">
-<!ENTITY resetProfile.dialog.button.label "Reset &brandShortName;">
+<!ENTITY resetProfile.dialog.title        "&brandShortName; پھر سیٹ کریں">
+<!ENTITY resetProfile.dialog.description  "کیا آپ کو یقین ہے کہ آپ &brandShortName; کو اس کی ابتدائی حالت پر پھر سیٹ کرنا چاہتے ہیں؟">
+<!ENTITY resetProfile.dialog.items2.label "&brandShortName; آپ کی مندرجہ ذیل اشیاہ قائم رکھنے کی کوشش کرے گا:">
+<!ENTITY resetProfile.dialog.footer.label "&brandShortName; دوبارہ چلے گا اور باقی ساری چیزیں ہٹا دی جائیں گی۔">
+<!ENTITY resetProfile.dialog.button.label "&brandShortName; پھر سیٹ کردہ">
 
-<!ENTITY resetProfile.title               "Reset &brandShortName; to its default state">
+<!ENTITY resetProfile.title               "&brandShortName; کو اس کی طے شدہ شکل میں پھر سیٹ کر دیں">
 <!ENTITY resetProfile.description         "اگر آپ کے اہم مسائل ہیں جو اپ نہیں حل کر سکتے ہیں ،تو صرف آپ کی ضروری معلومات کے ساتھ تازہ شروعات کریں">
-<!ENTITY resetProfile.button.label2       "Reset &brandShortName;…">
+<!ENTITY resetProfile.button.label2       "&brandShortName; پھر سیٹ کریں…">
 
 <!ENTITY resetProfile.cleaning.description "جب تک &brandShortName; آپ کے پرانے کوائف صاف کرتا ہے، براہ مہربانی انتظار کریں...">

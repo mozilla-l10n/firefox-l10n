@@ -6,7 +6,7 @@
 <!ENTITY setPassword.tokenName.label       "سلامتی آلہ">
 <!ENTITY setPassword.oldPassword.label     "حالیہ پاس ورڈ:">
 <!ENTITY setPassword.newPassword.label     "Enter new password:">
-<!ENTITY setPassword.reenterPassword.label "Re-enter password:">
+<!ENTITY setPassword.reenterPassword.label "نیا پاس ورڈ دوبارہ لکھیے:">
 <!ENTITY setPassword.meter.label           "پاس ورڈ کوالٹی میٹر">
 <!ENTITY setPassword.meter.loading         "لوڈ کر رہا ہے">
 <!ENTITY masterPasswordDescription.label   "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">

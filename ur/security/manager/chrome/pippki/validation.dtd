@@ -17,7 +17,7 @@
 <!ENTITY  validation.advanced.accesskey           "س">
 
 <!ENTITY  validation.crl.autoupdate.title         "خود کار سی آر ایل تازہ کاری ترجیحات">
-<!ENTITY  validation.crl.autoupdate.enable.label  "اس سی آر ایل کے لیے خودکار تازہ کاری اہل بنائیں">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Update for this CRL">
 <!ENTITY  validation.crl.autoupdate.time.label1   "تازہ کاری کریں">
 <!ENTITY  validation.crl.autoupdate.time.label2   "یوم ما قبل اگلی تازہ کاری ">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "تازہ کاری کریں ہر">

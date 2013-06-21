@@ -33,7 +33,7 @@
 <!ENTITY certmgr.certdetail.cn                "کامن نیم (CN)">
 <!ENTITY certmgr.certdetail.o                 "تنظیم (O)">
 <!ENTITY certmgr.certdetail.ou                "تنظیمی یونٹ (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "سیریل نمبر">
+<!ENTITY certmgr.certdetail.serialnumber      "تسلسلی نمبر">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 انگلیوں کے نشان">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 انگلیوں کے نشان">
 

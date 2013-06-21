@@ -19,7 +19,7 @@
 <!ENTITY session.accesskey            "س">
 <!ENTITY allow.label                  "ہونے دیں">
 <!ENTITY allow.accesskey              "ہ">
-<!ENTITY windowClose.key              "د">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "بند کریں">
 <!ENTITY button.close.accesskey       "ب">

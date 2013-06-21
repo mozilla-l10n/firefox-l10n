@@ -16,7 +16,7 @@
 <!ENTITY availableTabs "Available remote tabs:">
 <!ENTITY availableProcesses "Available remote processes:">
 <!ENTITY connectionError "نقص:">
-<!ENTITY errorTimeout "Error: connection timeout.">
-<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY errorTimeout "نقص: جڑنے کی مدت ختم ہوچکی ہے۔">
+<!ENTITY errorRefused "نقص: جڑنا نامنظور ہوا۔">
 <!ENTITY errorUnexpected "غیرمتوقع نقص۔">
-<!ENTITY help "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the 'Remote debugging' option in the remote device. See the <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>documentation</a> for more.">
+<!ENTITY help "فائر فاکس ڈویلپر ٹولز بعید آلات کو کو جانچ سکتا ہے (مثال کے طورپر، اینڈروئیڈ اور او ایس کے لیے فائر فاکس)۔ توثیق کریں کہ آپ نے اپنے بعید آلہ پر موجود 'بعید درستگی' اختیار کو آن کیا ہے۔ مزید کے لیے <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>دستاویز</a> دیکھیں۔">

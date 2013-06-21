@@ -55,12 +55,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "ل">
 <!ENTITY menu_highlightSyntax.label "نحو نمایاں کاری">
 <!ENTITY menu_highlightSyntax.accesskey "ن">
-<!ENTITY menu_textSize.label "Text Size">
-<!ENTITY menu_textSize.accesskey "Z">
-<!ENTITY menu_textEnlarge.label "Increase">
-<!ENTITY menu_textEnlarge.accesskey "I">
-<!ENTITY menu_textReduce.label "Decrease">
-<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textSize.label "متن کا سائز">
+<!ENTITY menu_textSize.accesskey "م">
+<!ENTITY menu_textEnlarge.label "بڑھائیں">
+<!ENTITY menu_textEnlarge.accesskey "ب">
+<!ENTITY menu_textReduce.label "گھٹائیں">
+<!ENTITY menu_textReduce.accesskey "گ">
 <!ENTITY menu_textReset.label "عام">
 <!ENTITY menu_textReset.accesskey "ع">
 
@@ -76,8 +76,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "و">
 <!ENTITY forwardCmd.label "آگے کریں">
 <!ENTITY forwardCmd.accesskey "گ">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.commandKey "]">
+<!ENTITY goForwardCmd.commandKey "[">
 
 <!ENTITY copyLinkCmd.label "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey "L">

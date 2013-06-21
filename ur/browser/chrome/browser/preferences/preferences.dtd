@@ -12,8 +12,8 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title       "عمومی">
-<!ENTITY  paneTabs.title          "ٹیب">
-<!ENTITY  paneContent.title       "مشمول">
+<!ENTITY  paneTabs.title          "ٹیبز">
+<!ENTITY  paneContent.title       "مواد">
 <!ENTITY  paneApplications.title  "ایپلی کیشنیں">
 <!ENTITY  panePrivacy.title       "نجی نوعیت">
 <!ENTITY  paneSecurity.title      "سلامتی">

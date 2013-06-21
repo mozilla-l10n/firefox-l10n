@@ -9,8 +9,8 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "رپورٹ شدہ اٹیک صفحہ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> پر ویب پیج اٹیک پیج کے طور پر رپعرٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>اٹیک پیج ایسے پروگرام تنصیب کرنے کی کوشش کرتے ہیں جو نجی معلومات چوری کرتی ہے، آپ کا کمپیوٹر دوسروں پر حملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کا نظام خراب کرتے ہیں۔</p><p>کچھ اٹیک پیج جان کر مضر سافٹ ویئر بانٹتے ہیں، لیکن کافی سے یہ اپنے مالکین کی اجازت کے بغیر کرتے ہیں۔</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> پر ویب صفحہ حملہ آور صفحہ کے طور پر رپورٹ ہو چکا ہے اور آپ کی سلامتی ترجیحات کی بناہ پر بلاک کر دیا گیا ہے۔">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>حملہ آور صفحات ایسے پروگرام نصب کرنے کی کوشش کرتے ہیں جو نجی معلومات چوری کرتے ہیں، آپ کا کمپیوٹر دوسروں پر حملہ کرنے کے لیے استعمال کرتے ہیں، یا آپ کے نظام کو نقصان پہنچاتے ہیں۔</p><p>کچھ حملہ آور صفحات دانستہ مضر سافٹ ویئر بانٹتے ہیں، لیکن بہت سے اپنے مالکان کے علم اور اجازت کے بغیر اشتباہ کرتے ہیں۔</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "ویب نقل رپورٹ کی گئی!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

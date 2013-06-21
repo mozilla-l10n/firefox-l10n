@@ -2,64 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "ٹیلیمٹری کوائف">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetry is <span>enabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "  ٹیلیمٹری <span>اہل</span> ہے۔">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetry is <span>disabled</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "  ٹیلیمٹری <span>نا اہل</span> ہے۔">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+<!ENTITY aboutTelemetry.slowSqlSection "  سست SQL سٹیٹمنٹ">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  براؤزر جاتا ہے">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
-">
+<!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  سادہ پیمائشیں">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+<!ENTITY aboutTelemetry.lateWritesSection "  دیرانہ لکھائی">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  نظام معلومات">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Click to expand section
-">
+<!ENTITY aboutTelemetry.toggleOn "  صیغہ وسیع کرنے کے لیے کلک کریں">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Click to collapse section
-">
+<!ENTITY aboutTelemetry.toggleOff "  صیغہ غائب کرنے کے لیے کلک کریں">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
+<!ENTITY aboutTelemetry.emptySection "  (کوئی کوائف جمع نہیں ہوئے)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  نوٹ: سست SQL ڈیبگنگ اہل ہے۔ نیچے پوری SQL سٹرنگز دکھائی جا سکتی ہیں لیکن یہ ٹیلیمٹری کو جمع نہیں کرائ جائیں گی۔">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  رکے سٹیک کے لیے فنکشن نام لائیں">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
+<!ENTITY aboutTelemetry.hideSymbols "  رکاوٹوں کے خام کوائف دکھائیں">

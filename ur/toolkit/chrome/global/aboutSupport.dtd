@@ -5,11 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "ازالہ کاری معلومات">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  اس صفحہ میں تکنیکی معلومات ہے جو آپ کے مسائل حل کرنے میں
+ فائدہ مند ہو سکتی ہے۔ اگر آپ ;brandShortName کے بارے میں عمومی سوالات کے جوابات تلاش کر رہے ہیں، 
+ تو ہماری <a id='supportLink'>معاونت ویب سائٹ</a> کو چیک کرے۔">
 
 <!ENTITY aboutSupport.extensionsTitle "توسیعات">
 <!ENTITY aboutSupport.extensionName "نام">
@@ -47,8 +45,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "قدر">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "user.js ترجیحات">
+<!ENTITY aboutSupport.userJSDescription "آپ کے پروفائل میں ایک<a id='prefs-user-js-link'> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو &brandShortName; نے نہیں بنائیں تھیں۔">
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 
@@ -64,5 +62,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "انسٹا لیشن سابقات">
 <!ENTITY aboutSupport.updateHistoryTitle "سابقات اپڈیٹ کریں">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">

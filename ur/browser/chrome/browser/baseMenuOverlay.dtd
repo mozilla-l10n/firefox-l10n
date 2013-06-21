@@ -34,7 +34,7 @@
 <!ENTITY preferencesCmdMac.label        "ترجیحات ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "سروسز">
+<!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; چھپائیں">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">

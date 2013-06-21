@@ -14,7 +14,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "گلوبل کمیونٹی ہے">
+<!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
 <!ENTITY community.exp.end          " جو ویب کو کھلا، عوامی اور ہر ایک کے کے رسائی پزیر رکھنے کے لیے کام کر رہی ہے۔">
 
 <!ENTITY community.start2           "&brandShortName; ڈیزائن بمطابق:">

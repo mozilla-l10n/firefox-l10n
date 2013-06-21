@@ -55,14 +55,14 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
-<!ENTITY debuggerUI.showVarsFilter      "Show variables filter box">
+<!ENTITY debuggerUI.showVarsFilter      "متغیرہ فلٹر خانہ دکھائیں">
 <!ENTITY debuggerUI.showVarsFilter.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum        "Show only enumerable properties">
+<!ENTITY debuggerUI.showOnlyEnum        "صرف شمار پزیر خواص دکھائیں">
 <!ENTITY debuggerUI.showOnlyEnum.key    "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -128,7 +128,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.seMenuAddWatch      "Selection to watch expression">
+<!ENTITY debuggerUI.seMenuAddWatch      "ترکیب نگہبانی کا انتخاب کریں">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
@@ -138,7 +138,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch      "Remove all watch expressions">
+<!ENTITY debuggerUI.removeAllWatch      "تمام تراکیب نگہبانی ہٹائیں">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
