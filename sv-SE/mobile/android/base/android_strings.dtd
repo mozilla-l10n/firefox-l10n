@@ -154,6 +154,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
+<!ENTITY datareporting_wifi_title "&vendorShortName;s platstjänster">
+<!ENTITY datareporting_wifi_summary "Hjälp till att förbättra positioneringstjänster för den öppna webben genom att låta &brandShortName; samla in och skicka anonymiserad data om mobilmaster">
 
 <!ENTITY pref_update_autodownload "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
