@@ -43,7 +43,7 @@
 <!ENTITY healthReportLearnMore.label     "మరింత నేర్చుకోండి">
 
 <!ENTITY telemetrySection.label          "టెలీమెట్రీ">
-<!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ బ్రౌజర్ పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం పంచుకొనును">
+<!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ బ్రౌజర్ పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం &vendorShortName; తో పంచుకొనును">
 <!ENTITY enableTelemetry.label           "టెలీమెట్రీ చేతనంచేయి">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "మరింత తెలుసుకోండి">
@@ -54,7 +54,7 @@
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "మరింత నేర్చుకోండి">
 
-<!ENTITY networkTab.label                "నెట్వర్క్ ">
+<!ENTITY networkTab.label                "నెట్వర్క్">
 
 <!ENTITY connection.label                "అనుసంధానము">
 
@@ -124,7 +124,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "ధృవీకరణపత్రాలను దర్శించు">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  " రీవొకేషన్ జాబితాలు">
+<!ENTITY viewCRLs.label                  "రీవొకేషన్ జాబితాలు">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "నిర్ధారణ">
 <!ENTITY verify2.accesskey               "V">

@@ -18,29 +18,29 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label    "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip  "Turning this option on will allow you to use various developer tools in browser context">
+<!ENTITY options.enableChrome.label    "క్రోమ్ డీబగ్గింగ్ చేతనంచేయి">
+<!ENTITY options.enableChrome.tooltip  "ఈ ఐచ్చికం ఆన్ చేయుటవలన మీరు బ్రౌజర్ సందర్భం నందు వివిధ అభివృద్దికారి సాధనాలు వుపయోగించగలుగుదురు">
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label    "Enable remote debugging">
-<!ENTITY options.enableRemote.tooltip  "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
+<!ENTITY options.enableRemote.label    "రిమోట్ డీబగ్గింగ్ చేతనంచేయి">
+<!ENTITY options.enableRemote.tooltip  "ఈ ఐచ్చికం ఆన్ చేయుట వలన రిమోట్ ఫైర్‌ఫాక్స్ పై ఫైర్‌ఫాక్స్ OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Default Firefox Developer Tools">
+<!ENTITY options.selectDefaultTools.label     "అప్రమేయ ఫైర్‌పాక్స్ అభివృద్దికారి సాధనాలు">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Developer Tools installed by add-ons">
+<!ENTITY options.selectAdditionalTools.label  "యడ్-ఆన్స్ చే సంస్థాపించబడిన అభివృద్దికారి సాధనాలు">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label             "Dark theme">
-<!ENTITY options.lightTheme.label            "Light theme">
+<!ENTITY options.selectDevToolsTheme.label   "DevTools థీమ్ యెంచు:">
+<!ENTITY options.darkTheme.label             "డార్క్ థీమ్">
+<!ENTITY options.lightTheme.label            "లైట్ థీమ్">

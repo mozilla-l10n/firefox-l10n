@@ -38,7 +38,7 @@
 <!ENTITY printframeGroup.label "ముద్రణ  ఫ్రేములు">
 <!ENTITY aslaidoutRadio.label "స్క్రీను  మీద  పడినట్లు గా">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label  "ఎంపిక  చేసిన  ఫ్రేమ్ ">
+<!ENTITY selectedframeRadio.label  "ఎంపిక  చేసిన  ఫ్రేమ్">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "ప్రతి  ఫ్రేమ్   విడివిడిగా">
 <!ENTITY eachframesepRadio.accesskey  "E">

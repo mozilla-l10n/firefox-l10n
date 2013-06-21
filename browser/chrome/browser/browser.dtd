@@ -46,7 +46,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "అన్ని టాబ్‌ల జాబితా">
 
-<!ENTITY tabCmd.label "కొత్త టాబ్ ">
+<!ENTITY tabCmd.label "కొత్త టాబ్">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "స్థానాన్ని తెరువు...">
@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLinkCmd.accesskey "S">
 <!ENTITY shareImageCmd.label "ఈ బొమ్మను పంచుకోండి (S)">
 <!ENTITY shareImageCmd.accesskey "S">
-<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.label "భాగస్వామ్య యెంపిక">
 <!ENTITY shareSelectCmd.accesskey "s">
 <!ENTITY shareVideoCmd.label "ఈ వీడియోను పంచుకోండి (S)">
 <!ENTITY shareVideoCmd.accesskey "S">
@@ -256,7 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని పనిముట్లను పొందండి (M)">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY fileMenu.label         "ఫైల్ "> 
+<!ENTITY fileMenu.label         "ఫైల్"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -380,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "ఫ్రేమ్ ను తిరిగిలోడు చేయుము">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ఎన్నుకొన్న ములాన్ని దర్శించు">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ములాన్ని దర్శించు ">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ములాన్ని దర్శించు">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -451,7 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "ఈమెయిల్ చిరునామాను నకలు తీయుము">
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్ ">
+<!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్">
 <!ENTITY thisFrameMenu.accesskey          "h">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -549,7 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "నిష్క్రమించు"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "నిష్క్రమించు">
+<!ENTITY quitApplicationCmdMac.label    "&brandShortName; నిష్క్రమించు">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -645,8 +645,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "డెస్కుటాప్ ప్రకటనలను చూపు">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.description "సేవలు <label/> నుండి చేతనపరచబడెను. మీ అమరికలను <label class='text-link'>Add-on Manager</label> నందలి సేవల కొరకు మీరు మార్చగలరు.">
+<!ENTITY social.activated.undo.label "అయ్యో, దీనిని రద్దుచేయి!">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "మరింత తెలుసుకోండి… (L)">
 <!ENTITY social.learnMore.accesskey "L">
