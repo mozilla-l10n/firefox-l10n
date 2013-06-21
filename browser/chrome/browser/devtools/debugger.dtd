@@ -68,7 +68,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "Show original sources">
+<!ENTITY debuggerUI.showOriginalSource      "அசல் மூலங்களைக் காட்டு                ">
 <!ENTITY debuggerUI.showOriginalSource.key  "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
