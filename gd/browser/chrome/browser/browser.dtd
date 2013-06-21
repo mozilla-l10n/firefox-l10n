@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY search.label                 "Lorg air an lìon">
 <!ENTITY search.accesskey             "L">
 <!ENTITY downloads.label              "Luchdaidhean a-nuas">
-<!ENTITY downloads.tooltip            "Seall adhartas na thathar a' luchdadh a-nuas">
+<!ENTITY downloads.tooltip            "Seall adhartas nan rudan a tha 'gan luchdadh a-nuas">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
