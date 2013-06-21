@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A &brandShortName; névjegye">
 <!ENTITY aboutPage.warningVersion               "A &brandShortName; kísérleti és esetleg instabil.">
-<!ENTITY aboutPage.telemetryStart               " Automatikusan adatokat küld a teljesítményről, hardverről, felhasználásról és az egyéni beállításokról a">
+<!ENTITY aboutPage.telemetryStart               " Automatikusan adatokat küld a teljesítményről, hardverről, felhasználásról és az egyéni beállításokról a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;nak,">
 <!ENTITY aboutPage.telemetryEnd                 " hogy a &brandShortName; jobb lehessen.">
 <!ENTITY aboutPage.checkForUpdates.link         "Frissítések keresése »">
