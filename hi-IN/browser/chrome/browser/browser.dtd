@@ -116,16 +116,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "इस पृष्ठ को साझा करें">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.label "इस कड़ी को साझा करें">
 <!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.label "इस छवि को साझा करें">
 <!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.label "चयन साझा करें">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.label "इस वीडियो को साझा करें">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "वेब कंसोल हटाएँ">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "कंसोल ब्राउज़ करें">
 
 <!ENTITY inspectContextMenu.label     "तत्व जाँचें">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "पहले जैसा">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "फिर करें">  
@@ -645,12 +645,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "अधिक डेस्कटॉप अधिसूचना दिखाएँ">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.description "<label/> से सेवा सक्रिय की गई है. आप <label class='text-link'>सहयुक्ति प्रबंधक</label> में सेवाओं के लिए सेटिंग बदल सकते हैं.">
+<!ENTITY social.activated.undo.label "ओह, इसे पहले जैसा बनाएँ!">
 <!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.label "और जानें…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+<!ENTITY social.closeNotificationItem.label "अभी नहीं">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "चैट फोकस करें (c)">
