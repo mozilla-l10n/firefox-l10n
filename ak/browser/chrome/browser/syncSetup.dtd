@@ -33,8 +33,8 @@
 <!ENTITY setup.choosePassword.accesskey  "h">
 <!ENTITY setup.confirmPassword.label     "Si ehintasɛmfua pi">
 <!ENTITY setup.confirmPassword.accesskey "S">
-<!ENTITY setup.setupMetro.label     "Sync with Windows 8 style &brandShortName;">
-<!ENTITY setup.setupMetro.accesskey "S">
+<!ENTITY setup.setupMetro.label     "Fa bata Windows 8 stael &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "b">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
@@ -63,9 +63,9 @@
 <!ENTITY pairDevice.title.label             "Fa efidie bi bɔ ho">
 <!ENTITY addDevice.showMeHow.label          "Kyerɛ me sɛnea wɔ yɛ no.">
 <!ENTITY addDevice.dontHaveDevice.label     "Efidie no nni me nhyɛn">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Wo pɛ sɛ wo kenyan a, paw &quot;Fa efidie bi bɔ ho&quot; wɔ w&apos;efidie foforo no so.">
 <!ENTITY addDevice.setup.enterCode.label    "Ɛneɛ, bɔ kood yi:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Wo pɛ sɛ wo kenyan wo fidie foforo no a, paw &quot;Hyehyɛ Synk&quot; wɔ fidie no so.">
 <!ENTITY addDevice.dialog.enterCode.label   "Bɔ kood koro a efidie no kyerɛ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "San sɔ hwɛ.">
 <!ENTITY addDevice.dialog.successful.label  "Wɔde efidie no aka ho. Synkronaesahyin a edi kan no bɛ kyɛ kakra na ebewie wɔ ndaekyir.">
@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Bra mu">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Wo nsa bɛtumi aka wo nsa-san-ka safoa ne sɛso sɛ wo kɔ nɔphyɛn a wɔwɔ  &syncBrand.shortName.label; wɔ wo divaes ne so, na wo apaw  &quot;Me nsa-san-ka safoa&quot; wɔ &quot;Hwɛ akawnt so&quot; ase.">
 <!ENTITY verifying.label              "Regye-ato-mu…">
 <!ENTITY resetPassword.label          "San-hyɛ Ehintasɛmfua">
 <!ENTITY resetSyncKey.label           "M'efidie foforo no ayera.">

@@ -14,8 +14,8 @@
 <!ENTITY resetPass.label              "Hyehyɛ-bio">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.label          "Hwɛ akawnt so">
+<!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Hwɛ dodoɔ bi">
 <!ENTITY changePassword2.label        "Sesa ehintasɛmfua…">
 <!ENTITY myRecoveryKey.label          "Me nsa-san-ka safoa">

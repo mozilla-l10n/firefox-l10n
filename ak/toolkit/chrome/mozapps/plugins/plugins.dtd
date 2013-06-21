@@ -35,7 +35,7 @@
 <!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tim ha sɛnea wobɛkenyan plagin no. ">
-<!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY clickToActivatePlugin                               "Kenyan mplagin.">
 <!ENTITY checkForUpdates                                     "Hwehwɛ ntoso…">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
@@ -57,7 +57,7 @@
 <!ENTITY report.failed                                       "Sabmihyɛn annkɔ yie.">
 <!ENTITY report.unavailable                                  "Repɔɔt biara nni nhɔ.">
 <!ENTITY report.comment                                      "Kyerɛ w'adwen (amansan nyinaa behu w'adwenkyerɛ)">
-<!ENTITY report.pageURL                                      "Include the page's URL">
+<!ENTITY report.pageURL                                      "Fa kratafa no URL ka ho">
 
-<!ENTITY plugin.file                                         "File">
-<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.file                                         "Fael">
+<!ENTITY plugin.mimeTypes                                    "MIME Nsɛso">
