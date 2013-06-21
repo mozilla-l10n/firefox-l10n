@@ -6,7 +6,7 @@
 
 
 <!ENTITY title "ফন্ট">
-<!ENTITY showAllFonts "See all the fonts used in the page">
-<!ENTITY usedAs "Used as: ">
+<!ENTITY showAllFonts "এই পেজে ব্যবহৃত সকল ফন্ট প্রদর্শন করা হবে">
+<!ENTITY usedAs "ব্যবহার করা হবে:">
 <!ENTITY system "সিস্টেম">
 <!ENTITY remote "দূরবর্তী">
