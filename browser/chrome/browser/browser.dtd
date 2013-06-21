@@ -396,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.accesskey     "Վ">
 <!ENTITY viewImageCmd.label           "Նայել Նկարը">
 <!ENTITY viewImageCmd.accesskey       "Ն">
-<!ENTITY viewImageInfoCmd.label       "Տեղեկություն նկարի մասին">
+<!ENTITY viewImageInfoCmd.label       "Տեղեկություն Նկարի Մասին">
 <!ENTITY viewImageInfoCmd.accesskey   "Տ">
 <!ENTITY viewVideoCmd.label           "Դիտել Հոլովակը">
 <!ENTITY viewVideoCmd.accesskey       "Դ">
@@ -441,14 +441,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "Թ">
 <!ENTITY copyLinkCmd.label            "Պատճենել հղման հասցեն">
 <!ENTITY copyLinkCmd.accesskey        "ց">
-<!ENTITY copyImageCmd.label           "Կրկնել Նկարի Հասցեն">
-<!ENTITY copyImageCmd.accesskey       "Կ">
+<!ENTITY copyImageCmd.label           "Պատճենել Նկարի Հասցեն">
+<!ENTITY copyImageCmd.accesskey       "ա">
 <!ENTITY copyImageContentsCmd.label   "Կրկնօրինակել Նկարը">
 <!ENTITY copyImageContentsCmd.accesskey  "ր"> 
-<!ENTITY copyVideoURLCmd.label        "Կրկնօրինակել Հոլովակի Հասցեն">
-<!ENTITY copyVideoURLCmd.accesskey    "Կ">
-<!ENTITY copyAudioURLCmd.label        "Կրկնօրինակել  Ձայնագրության Հասցեն">
-<!ENTITY copyAudioURLCmd.accesskey    "Կ">
+<!ENTITY copyVideoURLCmd.label        "Պատճենել Հոլովակի Հասցեն">
+<!ENTITY copyVideoURLCmd.accesskey    "ա">
+<!ENTITY copyAudioURLCmd.label        "Պատճենել Ձայնագրության Հասցեն">
+<!ENTITY copyAudioURLCmd.accesskey    "ա">
 <!ENTITY copyEmailCmd.label           "Պատճենել Էլ. փոստի հասցեն">
 <!ENTITY copyEmailCmd.accesskey       "Է">
 <!ENTITY thisFrameMenu.label              "Այս շրջանակում">

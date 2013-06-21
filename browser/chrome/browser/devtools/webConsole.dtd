@@ -78,7 +78,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "0">
 
-<!ENTITY copyURLCmd.label     "Պատճենել հղման հասցեն">
+<!ENTITY copyURLCmd.label     "Պատճենել Հղման Հասցեն">
 <!ENTITY copyURLCmd.accesskey "մ">
 
 <!ENTITY closeCmd.key  "W">
