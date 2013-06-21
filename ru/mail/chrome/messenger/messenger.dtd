@@ -541,8 +541,8 @@
 <!ENTITY folderSizeColumn.label "Размер">
 <!ENTITY folderContextGetMessages.label "Получить сообщения">
 <!ENTITY folderContextGetMessages.accesskey "л">
-<!ENTITY folderContextOpenNewWindow.label "Открыть в новом окне">
-<!ENTITY folderContextOpenNewWindow.accesskey "О">
+<!ENTITY folderContextOpenInNewWindow.label "Открыть в новом окне">
+<!ENTITY folderContextOpenInNewWindow.accesskey "к">
 <!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY folderContextOpenNewTab.accesskey "н">
 <!ENTITY folderContextNew.label "Новая папка…">

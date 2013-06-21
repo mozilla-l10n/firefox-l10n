@@ -112,6 +112,8 @@
 <!ENTITY datareporting_telemetry_summary "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
 <!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
+<!ENTITY datareporting_wifi_title "Службы местоположения &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Помогите улучшить службы определения местоположения для открытого Интернета, позволив &brandShortName; собирать и отправлять анонимные данные о базовых станциях сотовой сети">
 <!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
