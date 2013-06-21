@@ -541,8 +541,8 @@
 <!ENTITY folderSizeColumn.label "Tamaño">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes">
 <!ENTITY folderContextGetMessages.accesskey "R">
-<!ENTITY folderContextOpenNewWindow.label "Abrir">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenInNewWindow.label "Abrir en una ventana nueva">
+<!ENTITY folderContextOpenInNewWindow.accesskey "e">
 <!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNew.label "Nueva subcarpeta…">
