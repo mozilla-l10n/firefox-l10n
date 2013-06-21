@@ -582,8 +582,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label         "Pobierz wiadomości">
 <!ENTITY folderContextGetMessages.accesskey     "P">
-<!ENTITY folderContextOpenNewWindow.label       "Otwórz">
-<!ENTITY folderContextOpenNewWindow.accesskey   "O">
+<!ENTITY folderContextOpenInNewWindow.label "Otwórz w nowym oknie">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label          "Otwórz w nowej karcie">
 <!ENTITY folderContextOpenNewTab.accesskey      "w">
 <!ENTITY contextOpenConversation.label          "Otwórz wątek w nowej karcie">
