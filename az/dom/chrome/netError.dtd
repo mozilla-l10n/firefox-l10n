@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Açmaq istədiyiniz sayt işləyirmiş kimi görünməsinə baxmayaraq brauzer bu saytla əlaqə qura bilmədi.</p><ul><li>Sayt müvəqqəti olaraq açılmaya bilər. Daha sonra yenidən yoxlayın.</li><li>Digər səhifələrdə açılmaya bilər. Əgər elədirsə bağlantınızı yoxlayın.</li><li>Kompüteriniz ya da bağlantınız təhlükəsizlik divarı ilə qorunmuş ola bilər. DÜzgün nizamlanmamış seçimlər internətə bağlanmanıza problem yarada bilər.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır">
-<!ENTITY deniedPortAccess.longDesc "<p>Açmaq istədiyiniz ünvan adətən baxış üçün <em>olmayan</em> məqsədlərçün istifadə olunan (məs: <q>mozilla.org:80</q> mozilladakı 80 portu üçün) bir bağlantı nöqtəsdir. Firefox sizi qorumaq məqsədi ilə əməliyyatı ləğv etdi.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Açmaq istədiyiniz ünvanda, adətən, Veb səyahətdən <em>fərqli</em> məqsədlər üçün olan port (məs. mozilla.org-da 80ci port üçün <q>mozilla.org:80</q>) göstərilib. Səyyah sizin təhlükəsizliyiniz və qorumanız üçün sorğunu ləğv etdi.</p>">
 
 <!ENTITY dnsNotFound.title "Ünvan tapılmadı">
 <!ENTITY dnsNotFound.longDesc "<p>Brauzer, daxil etdiyiniz ünvanın serverlərini tapa bilmədi.</p><ul><li>Ünvanı səhv daxil etmiş ola bilərsiniz. (Məsələn <q><strong>www</strong>.mozilla.org</q> əvəzinə <q><strong>ww</strong>.mozilla.org</q> yazılmış ola bilər.)</li><li>Bu sayt adı istifadə olunmaya bilər. istifadə tarixi sona çatdığından qeydiyyatdan silinə bilər.</li><li>Digər saytları da aça bilmirsinizsə. Bağlantınızı və DNS server seçimlərini yoxlayın.</li><li>Kompüteriniz ya da bağlantınız təhlükəsizlik divarı ilə qorunmuş ola bilər. DÜzgün nizamlanmamış seçimlər internətə bağlanmanıza problem yarada bilər.</li></ul>">

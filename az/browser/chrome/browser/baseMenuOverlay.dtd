@@ -9,11 +9,11 @@
 <!ENTITY windowMenu.label         "Pəncərə">
 
 <!ENTITY helpMenu.label           "Yardım"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "Y"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Yardım"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "Y">
 <!ENTITY aboutProduct.label       "&brandShortName; haqqında">
 <!ENTITY aboutProduct.accesskey   "h">
 <!ENTITY productHelp.label        "&brandShortName; üzrə kömək">

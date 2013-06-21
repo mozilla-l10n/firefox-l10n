@@ -30,4 +30,4 @@
 <!ENTITY abouthome.addonsButton.label    "Əlavələr">
 <!ENTITY abouthome.appsButton.label      "Dükan">
 <!ENTITY abouthome.downloadsButton.label "Yükləmələr">
-<!ENTITY abouthome.syncButton.label      "Sinxronlaşdırma">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

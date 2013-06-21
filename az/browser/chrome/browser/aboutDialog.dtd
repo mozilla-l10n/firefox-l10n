@@ -11,19 +11,19 @@
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
-<!ENTITY community.exp.middle       " Webi açıq, ictimai və hərkəs üçün əl çatan etmək üçn bir yerdə çalışan ">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " Veb-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "qlobal cəmiyyət">
-<!ENTITY community.exp.end          " Veb-i açıq, ictimayi və hərkəsə əlçatan etmək üçün bərabər çalışırlar.">
+<!ENTITY community.exp.creditsLink  "qlobal cəmiyyətdir">
+<!ENTITY community.exp.end          ".">
 
 <!ENTITY community.start2           "&brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName; ">
-<!ENTITY community.middle2          " tərəfindən hazırlanmış. &vendorShortName; interneti daha yaxşı formaya gətirmək üçün birlikdə çalışan ">
+<!ENTITY community.middle2          ", Veb-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "qlobal cəmiyyət">
-<!ENTITY community.end3             " Veb-i açıq, ictimayi və hərkəsə əlçatan etmək üçün bərabər çalışırlar.">
+<!ENTITY community.end3             ".">
 
 <!ENTITY contribute.start           "Maraqlıdır, elə deyil? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

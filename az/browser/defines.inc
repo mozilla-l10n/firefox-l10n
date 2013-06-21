@@ -9,6 +9,6 @@
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Azerbaijan Community</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla Azerbaijan</em:contributor>
 
 #unfilter emptyLines

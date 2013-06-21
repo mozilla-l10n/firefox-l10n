@@ -31,7 +31,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Vərəqi Bərkid">
 <!ENTITY  pinTab.accesskey                   "B">
 <!ENTITY  unpinTab.label                     "Vərəqi Çıxart">
-<!ENTITY  unpinTab.accesskey                 "Ç">
+<!ENTITY  unpinTab.accesskey                 "t">
 <!ENTITY  moveToGroup.label                  "Qrupa daşı">
 <!ENTITY  moveToGroup.accesskey              "d">
 <!ENTITY  moveToNewGroup.label               "Yeni qrup">
@@ -41,25 +41,25 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
 <!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri aç">
 <!ENTITY  undoCloseTab.accesskey             "a">
-<!ENTITY  closeTab.label                     "vərəqi bağla">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.label                     "Vərəqi Qapat">
+<!ENTITY  closeTab.accesskey                 "Q">
 
 <!ENTITY  listAllTabs.label      "Bütün vərəqləri siyahıla">
 
-<!ENTITY tabCmd.label "Yeni vərəq">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.label "Yeni Vərəq">
+<!ENTITY tabCmd.accesskey "V">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Ünvanı aç…">
+<!ENTITY openLocationCmd.label "Ünvanı Aç…">
 <!ENTITY openLocationCmd.accesskey "Ü">
 <!ENTITY openFileCmd.label "Fayl Aç…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Səhifə nizamı…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Çapa ön baxış">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Səhifə Nizamı…">
+<!ENTITY printSetupCmd.accesskey "ı">
+<!ENTITY printPreviewCmd.label "Çapa Ön Baxış">
+<!ENTITY printPreviewCmd.accesskey "B">
 <!ENTITY printCmd.label "Çap et…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "Ç">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Offline rejimə keç">

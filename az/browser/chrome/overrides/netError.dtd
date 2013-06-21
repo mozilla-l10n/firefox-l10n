@@ -17,12 +17,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ünvan tapılmadı">
-<!ENTITY dnsNotFound.longDesc "<ul>
-<li>Ünvanı səhv daxil etmiş ola bilərsiniz. <strong>www</strong>.mozilla.org əvəzinə 
-<strong>ww</strong>.mozilla.org yazılmış ola bilər.</li>
-<li>Digər saytları da aça bilmirsinizsə. Bağlantınızı və DNS server seçimlərini yoxlayın.</li>
-<li>Kompüteriniz ya da bağlantınız təhlükəsizlik divarı ilə qorunursa &brandShortName;a
- bütün icazələrin verildiyinə əmin olun.</li>
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn 
+<strong>www</strong>.mozilla.org əvəzinə 
+<strong>ww</strong>.mozilla.org yazılmış ola bilər.</li> 
+<li>Digər saytları da aça bilmirsinizsə, Kompüterinizin internet 
+bağlantısını yoxlayın.</li> 
+<li>Əgər kompüteriniz və ya şəbəkəniz Firewall ilə qorunursa, əmin olun ki, 
+&brandShortName; Veb-ə giriş icazəsinə malikdir.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
@@ -37,8 +39,8 @@
 
 <!ENTITY malformedURI.title "Yanlış ünvan">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>Web ünvanlar əsasən belə yazılır 
-<strong>http://www.məsələn.com/</strong></li> 
+<li>Veb ünvanlar əsasən 
+<strong>http://www.mozilla.org/</strong> kimi yazılır</li> 
 <li>Droblardan istifadə etdiyinizə əmin olun (i.e. 
 <strong>/</strong>).</li> 
 </ul>">
@@ -47,12 +49,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Sənədin vaxtı çıxıb">
-<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName;-in yaddaşında mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, brauzeriniz həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi web saytdan yenidən istəmək üçün, Təkrar yoxla düyməsinə vurun.</li></ul>">
+<!ENTITY notCached.longDesc "<p>İstədiyiniz sənəd &brandShortName; keşində mövcud deyil.</p><ul><li>Təhlükəsizlik tədbiri olaraq, &brandShortName; həssas sənədləri avtomatik olaraq yenidən istəmir.</li><li>Sənədi vebsaytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.</li></ul>">
 
 <!ENTITY netOffline.title "Offline bağlantı səhvi">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Onlayn rejimə keçmək və səhifəni yeniləmək 
-üçün &quot;Təkrar Yoxla&quot; düyməsinə basın.</li> 
+<li>Onlayn rejimə keçmək və səhifəni yeniləmək üçün &quot;Təkrar Yoxla&quot; düyməsinə basın.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
@@ -99,8 +100,9 @@ baş verir.</li>
 
 <!ENTITY unknownSocketType.title "Şəbəkədən gələn cavab yanlışdır">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Sizin sistemə şəxsi təhlükəsizlik menegeri quraşdırıldığıa əmin olun .</li> 
-<li>Buna serverin standart olmayan konfiqurasiyada səbəb  ola bilər.</li> 
+<li>Sizin sistemə Şəxsi Təhlükəsizlik Meneceri quraşdırıldığına 
+əmin olun.</li> 
+<li>Buna serverin standart olmayan konfiqurasiyası səbəb ola bilər.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Təhlükəsiz bağlantı qurulmadı">
@@ -151,7 +153,9 @@ functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>Tam güvənmədiyiniz bir internet şəbəkəsi istifadə edirsinizsə və ya bu serverdən xəbərdarlıq almağa alışmamısınızsa istisnalıq verməməlisiniz.</p> 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzaq XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul></p>">
