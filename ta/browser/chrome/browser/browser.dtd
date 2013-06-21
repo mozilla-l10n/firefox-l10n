@@ -116,16 +116,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "இந்தப் பக்கத்தைப் புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY sharePageCmd.label "இந்தப் பக்கத்தைப் பகிர்">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
+<!ENTITY shareLinkCmd.label "இந்த இணைப்பைப் பகிர்">
 <!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
+<!ENTITY shareImageCmd.label "இந்தப் படத்தைப் பகிர்">
 <!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
+<!ENTITY shareSelectCmd.label "தேர்வைப் பகிர்">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
+<!ENTITY shareVideoCmd.label "இந்த வீடியோவைப் பகிர்">
 <!ENTITY shareVideoCmd.accesskey "s">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து">
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "தொலைநிலை வலை பணிமுனை">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+<!ENTITY browserConsoleCmd.label      "உலாவி பணிமுனை">
 
 <!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "திருத்து"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "செயல்தவிர்">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "மீட்டல்">  
@@ -645,12 +645,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.label "பணிமேடை அறிவிப்புகளைக் காண்பி">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.description "<label/> இலிருந்து பெறும் சேவைகள் செயல்படுத்தப்பட்டுள்ளன. நீங்கள்சேவைகளுக்கான உங்கள் அமைவுகளை <label class='text-link'>துணை நிரல் நிர்வாகியில்</label> மாற்றியமைக்கலாம்.">
+<!ENTITY social.activated.undo.label "அச்சச்சோ, இதை செயல்தவிர்!">
 <!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.label "மேலும் அறிக…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+<!ENTITY social.closeNotificationItem.label "இப்போது வேண்டாம்">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "அரட்டைகளில் கவனம் வை">
