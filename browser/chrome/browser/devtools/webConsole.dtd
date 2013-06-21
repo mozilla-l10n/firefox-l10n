@@ -78,7 +78,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಕಾಪಿ ಮಾಡು">
+<!ENTITY copyURLCmd.label     "ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್)  ಪ್ರತಿ ಮಾಡು">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key  "W">

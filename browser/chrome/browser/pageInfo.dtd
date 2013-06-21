@@ -59,7 +59,7 @@
 <!ENTITY  permBlock             "ನಿರ್ಬಂಧಿಸು">
 <!ENTITY  permissionsFor        "ಇದಕ್ಕಾಗಿನ ಅನುಮತಿಗಳು:">
 <!ENTITY  permImage             "ಚಿತ್ರಗಳನ್ನು ಲೋಡ್ ಮಾಡು">
-<!ENTITY  permPopup             "ಪುಟಿಕೆ(ಪಾಪ್-ಅಪ್) ವಿಂಡೋಗಳನ್ನು ತೆರೆ">
+<!ENTITY  permPopup             "ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತೆರೆ">
 <!ENTITY  permCookie            "ಕುಕಿಗಳನ್ನು ಹೊಂದಿಸು">
 <!ENTITY  permNotifications     "ಸೂಚನೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY  permInstall           "ಎಕ್ಸ್‍ಟೆನ್ಶನ್‍ಗಳನ್ನು ಅಥವ ಥೀಮ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು">

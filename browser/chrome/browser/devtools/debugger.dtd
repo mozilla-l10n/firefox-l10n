@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal        "ಎಲ್ಲ ಕಡತಗಳಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
