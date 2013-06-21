@@ -20,10 +20,10 @@
 <!ENTITY community.start2           "&brandShortName; వీరిచే రూపొందించబడినది ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ఒక">
+<!ENTITY community.middle2          ", ఒక ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ప్రపంచవ్యాప్త సముదాయం">
-<!ENTITY community.end3             "వెబ్‌ను అందరికీ అనుకూలంగా, అనువుగా వుంచేందుకు కలిసి పనిచేద్దాం.">
+<!ENTITY community.end3             " వెబ్‌ను అందరికీ అనుకూలంగా, అనువుగా వుంచేందుకు కలిసి పనిచేద్దాం.">
 
 <!ENTITY contribute.start           "ఆసక్తిగా ఉందా? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

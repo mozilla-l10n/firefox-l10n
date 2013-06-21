@@ -43,7 +43,7 @@
 
 <!ENTITY cmd.bookmarkLink.label         "ఈ పేజీని ఇష్టాంశముగా చేయి…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "ఈ పేజీని తొలగించు ">
+<!ENTITY cmd.delete.label               "ఈ పేజీని తొలగించు">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ఈ సైటుని మర్చిపో">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
