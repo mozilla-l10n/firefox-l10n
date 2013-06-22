@@ -112,6 +112,8 @@
 <!ENTITY datareporting_telemetry_summary "Condividi con &vendorShortName; informazioni relative a prestazioni, utilizzo, hardware e personalizzazioni del browser per contribuire al miglioramento di &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "Invia a &vendorShortName; segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
+<!ENTITY datareporting_wifi_title "Servizi di geolocalizzazione di &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Aiutaci a migliorare i servizi di geolocalizzazione dell’Open Web consentendo a &brandShortName; di raccogliere e inviare dati in forma anonima sulle stazioni radio base.">
 <!ENTITY pref_update_autodownload "Aggiornamento automatico">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Disattivato">
