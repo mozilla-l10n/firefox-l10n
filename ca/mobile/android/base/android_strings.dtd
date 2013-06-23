@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Habituals">
 <!ENTITY  awesomebar_bookmarks_title "D\u0027interès">
 <!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_switch_to_tab "Canvia a la pestanya">
 
 <!ENTITY  crash_reporter_title "Informe de fallades del &brandShortName;">
-<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\u0027inici del &brandShortName; en reiniciar.">
-<!ENTITY  crash_help_message "Ajudeu-nos a solucionar aquest problema!">
-<!ENTITY  crash_send_report_message "Envia un informe de fallada a Mozilla">
-<!ENTITY  crash_include_url "Inclou l\u0027adreça de la pàgina">
+<!ENTITY  crash_message2 "El &brandShortName; ha tingut un problema i ha fallat. Es mostraran les vostres pestanyes a la pàgina d\u0027inici del &brandShortName; quan reinicieu. ">
+<!ENTITY  crash_send_report_message2 "Informa a Mozilla sobre aquest problema, així podran corregir-lo">
+<!ENTITY  crash_include_url2 "Inclou l\u0027adreça de la pàgina on em trobava">
+<!ENTITY  crash_sorry "Ho lamentem">
+<!ENTITY  crash_comment "Afegeix un comentari (els comentaris són visibles públicament)">
+<!ENTITY  crash_allow_contact "Permet a Mozilla contactar amb mi sobre aquest informe">
+<!ENTITY  crash_email "La vostra adreça electrònica">
+<!ENTITY  crash_closing_alert "Voleu sortir sense enviar un informe d\u0027error?">
+<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
-<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
-<!ENTITY  continue_label "Continua">
 
 <!ENTITY  launcher_shortcuts_title "Aplicacions web del &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació Web">
@@ -65,16 +69,27 @@
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_privacy "Privadesa i seguretat">
 <!ENTITY pref_category_content "Contingut">
-<!ENTITY pref_category_importexport "Importació i exportació">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Elecció de dades">
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
-<!ENTITY pref_do_not_track "Indica que no em segueixin">
-<!ENTITY pref_telemetry "Envia dades del rendiment">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_privacy "Privadesa i seguretat">
+<!ENTITY pref_header_content "Contingut">
 
 <!ENTITY pref_cookies_menu "Galetes">
 <!ENTITY pref_cookies_accept_all "Habilitades">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
+
+<!ENTITY pref_donottrack_menu "Seguiment">
+<!ENTITY pref_donottrack_disallow_tracking "Fes saber als llocs web que no vull que se\u0027m segueixi.">
+<!ENTITY pref_donottrack_allow_tracking "Fes saber als llocs web que vull que se\u0027m segueixi.">
+<!ENTITY pref_donottrack_no_pref "No facis saber res als llocs sobre les meves preferències de seguiment.">
 
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
@@ -116,6 +131,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
 <!ENTITY pref_private_data_downloadFiles "Fitxers baixats">
+
+<!ENTITY datareporting_notification_title "Estadístiques i dades del &brandShortName;">
+<!ENTITY datareporting_notification_action "Tria què compartir">
+<!ENTITY datareporting_notification_summary "Perquè puguem millorar la vostra experiència, el &brandShortName; tramet automàticament informació a &vendorShortName;. ">
+<!ENTITY datareporting_notification_summary_short "Perquè puguem millorar la vostra experiència, el &brandShortName;...">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "Informe de salut del &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Ens ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
+<!ENTITY datareporting_telemetry_title "Telemesura">
+<!ENTITY datareporting_telemetry_summary "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "El &brandShortName; tramet informes de fallades per ajudar a &vendorShortName; a fer el navegador més estable i segur">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "Informe de fallades del &brandShortName;">
 
 <!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
 <!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
@@ -164,6 +200,12 @@ size. -->
 <!ENTITY contextmenu_paste "Enganxa">
 <!ENTITY contextmenu_copyurl "Copia l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Edita">
+<!ENTITY contextmenu_subscribe "Subscriu-me a la pàgina">
+<!ENTITY contextmenu_site_settings "Edita els paràmetres del lloc">
+
+<!ENTITY pref_titlebar_mode "Barra de títol">
+<!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
+<!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
 
 <!ENTITY history_removed "S\u0027ha suprimit la pàgina">
 
@@ -171,8 +213,10 @@ size. -->
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Paràmetres del lloc...">
+<!ENTITY site_settings_title3       "Paràmetres del lloc">
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
@@ -181,6 +225,7 @@ size. -->
 <!ENTITY reading_list_added "S\u0027ha afegit a la vostra pàgina de lectura">
 <!ENTITY reading_list_removed "S\u0027ha suprimit de la vostra pàgina de lectura">
 <!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
+<!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
@@ -204,7 +249,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edita">
 <!ENTITY abouthome_topsites_pin "Fixa el lloc">
 <!ENTITY abouthome_topsites_unpin "No fixis el lloc">
-<!ENTITY abouthome_topsites_remove "Elimina">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note

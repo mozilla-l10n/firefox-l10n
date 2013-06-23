@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Adjuncions">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Anomena i desa">
 <!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fitxer">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Obre'l en la conversa">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Adjuncions">
+<!ENTITY openAttachmentListCmd.accesskey "j">
 <!ENTITY openFeedMessage1.label "En obrir missatges d'un canal">
 <!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Obre com a pàgina web">
