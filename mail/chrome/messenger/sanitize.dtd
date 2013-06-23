@@ -2,11 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Configuració de la neteja de l'historial">
 <!ENTITY sanitizeDialog2.title         "Neteja l'historial recent">
-
-<!ENTITY sanitizeItems.label          "Neteja ara els següents elements:">
-<!ENTITY clearDataSettings2.label     "En sortir del &brandShortName; s'hauria d'esborrar tot automàticament:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
@@ -21,20 +17,12 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Data de visita">
-<!ENTITY clearTimeDuration.nameColumn     "Nom">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
 <!ENTITY detailsProgressiveDisclosure.label     "Detalls">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
-
-<!ENTITY historySection.label         "Historial">
-<!ENTITY dataSection.label            "Dades">
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 
 <!ENTITY itemCookies.label                 "Galetes">
 <!ENTITY itemCookies.accesskey             "G">
@@ -47,4 +35,3 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "Aquesta acció no es pot desfer.">
 
 <!ENTITY dialog.width                 "30em">
-<!ENTITY column.width                 "16em">

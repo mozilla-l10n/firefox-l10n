@@ -148,7 +148,7 @@
 <!ENTITY forget.passwords.label "Contrasenyes">
 <!ENTITY forget.passwords.accesskey "a">
 <!ENTITY forget.storage.label "Emmagatzematge">
-<!ENTITY forget.storage.accesskey "e">
+<!ENTITY forget.storage.accesskey "E">
 <!ENTITY forget.formdata.label "Dades de formularis">
 <!ENTITY forget.formdata.accesskey "D">
 

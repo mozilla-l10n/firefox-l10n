@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "General">
 <!ENTITY autoMarkAsRead.label             "Marca automàticament com a llegit">
 <!ENTITY autoMarkAsRead.accesskey         "a">
-<!ENTITY markAsReadNoDelay.label          "Immediatament en mostrar-se">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "després de">
-<!ENTITY markAsReadDelay.accesskey        "p">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Només després de mostrar-ho">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segons">
 
 <!ENTITY openingMessages.label            "En obrir els missatges, mostreu-los en:">
