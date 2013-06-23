@@ -203,6 +203,13 @@
 <!ENTITY filepicker_video_title "Seleziona o registra un video">
 <!ENTITY identity_connected_to "Si è connessi con">
 <!ENTITY identity_run_by "Questo sito è gestito da">
+<!ENTITY loaded_mixed_content_message "Questa pagina presenta contenuti non sicuri.">
+<!ENTITY blocked_mixed_content_message_top "Alcuni contenuti non sicuri sono stati bloccati da &brandShortName;.">
+<!ENTITY blocked_mixed_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY learn_more "Ulteriori informazioni">
+<!ENTITY enable_protection "Attiva protezione">
+<!ENTITY disable_protection "Disattiva protezione">
+<!ENTITY keep_blocking "Continua a bloccare">
 <!ENTITY private_data_success "Dati personali eliminati">
 <!ENTITY private_data_fail "Impossibile eliminare alcuni dati personali">
 <!ENTITY bookmarkhistory_button_import "Importa">
