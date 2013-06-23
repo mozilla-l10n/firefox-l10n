@@ -203,6 +203,13 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
+<!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
+<!ENTITY learn_more "Подробнее">
+<!ENTITY enable_protection "Включить защиту">
+<!ENTITY disable_protection "Отключить защиту">
+<!ENTITY keep_blocking "Продолжать блокировать">
 <!ENTITY private_data_success "Личные данные удалены">
 <!ENTITY private_data_fail "Не удалось удалить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">
