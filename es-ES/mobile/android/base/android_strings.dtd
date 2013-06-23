@@ -203,6 +203,13 @@
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_run_by "que pertenece a">
+<!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
+<!ENTITY learn_more "Saber más">
+<!ENTITY enable_protection "Activar protección">
+<!ENTITY disable_protection "Desactivar protección">
+<!ENTITY keep_blocking "Continuar bloqueando">
 <!ENTITY private_data_success "Datos privados limpiados">
 <!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 <!ENTITY bookmarkhistory_button_import "Importar">
