@@ -9,16 +9,16 @@
 <!ENTITY showAlertFor.accesskey "П">
 <!ENTITY showAlertTimeEnd.label "секундаў">
 <!ENTITY showAlertTimeEnd.accesskey "с">
-<!ENTITY showAlertPreviewText.label "Show a preview of the message text">
-<!ENTITY showAlertPreviewText.accesskey "v">
-<!ENTITY showAlertSubject.label "Show the subject">
-<!ENTITY showAlertSubject.accesskey "u">
-<!ENTITY showAlertSender.label "Show the sender">
-<!ENTITY showAlertSender.accesskey "n">
+<!ENTITY showAlertPreviewText.label "Паказваць перадпрагляд тэксту ліста">
+<!ENTITY showAlertPreviewText.accesskey "л">
+<!ENTITY showAlertSubject.label "Паказваць тэму">
+<!ENTITY showAlertSubject.accesskey "т">
+<!ENTITY showAlertSender.label "Паказваць адпраўніка">
+<!ENTITY showAlertSender.accesskey "а">
 <!ENTITY showTrayIcon.label "Паказаць значок у латку">
 <!ENTITY showTrayIcon.accesskey "л">
-<!ENTITY showBalloon.label "Show a balloon alert">
-<!ENTITY showBalloon.accesskey "o">
+<!ENTITY showBalloon.label "Паказваць капшук папярэджання">
+<!ENTITY showBalloon.accesskey "к">
 <!ENTITY bounceSystemDockIcon.label "Ажывіць значок">
 <!ENTITY bounceSystemDockIcon.accesskey "А">
 <!ENTITY playSound.label "Прайграць гук">

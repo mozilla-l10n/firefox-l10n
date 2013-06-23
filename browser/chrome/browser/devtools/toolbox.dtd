@@ -5,13 +5,13 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Закрыць прылады распрацаўніка">
 <!ENTITY toolboxOptionsButton.key "O">
-<!ENTITY options.context.label "Advanced settings (requires a browser restart)">
-<!ENTITY options.enableChrome.label "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip "Turning this option on will allow you to use various developer tools in browser context">
-<!ENTITY options.enableRemote.label "Enable remote debugging">
-<!ENTITY options.enableRemote.tooltip "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
-<!ENTITY options.selectDefaultTools.label "Default Firefox Developer Tools">
-<!ENTITY options.selectAdditionalTools.label "Developer Tools installed by add-ons">
-<!ENTITY options.selectDevToolsTheme.label "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label "Dark theme">
-<!ENTITY options.lightTheme.label "Light theme">
+<!ENTITY options.context.label "Пашыраныя наладжванні (патрабуе перазапуск азіральніка)">
+<!ENTITY options.enableChrome.label "Дазволіць наладку chrome">
+<!ENTITY options.enableChrome.tooltip "Уключэнне гэтага параметра дазволіць вам карыстацца рознымі прыладамі распрацаўніка ў азіральніку">
+<!ENTITY options.enableRemote.label "Дазволіць адлеглую наладку">
+<!ENTITY options.enableRemote.tooltip "Уключэнне гэтага параметра дазволіць прыладам распрацаўніка ў азіральніку рабіць адлеглую наладку асобніка Firefox, напрыклад Firefox OS">
+<!ENTITY options.selectDefaultTools.label "Змоўчныя прылады распрацаўніка Firefox">
+<!ENTITY options.selectAdditionalTools.label "Прылады распрацаўніка, усталяваныя дадаткамі">
+<!ENTITY options.selectDevToolsTheme.label "Выбар тэмы прыладаў распрацаўніка:">
+<!ENTITY options.darkTheme.label "Цёмная тэма">
+<!ENTITY options.lightTheme.label "Светлая тэма">

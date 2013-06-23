@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Кансоль Сеціва">
-<!ENTITY browserConsole.title "Browser Console">
+<!ENTITY browserConsole.title "Кансоль азіральніка">
 <!ENTITY networkPanel.requestURLColon "URL запыту:">
 <!ENTITY networkPanel.requestMethodColon "Метад запыту:">
 <!ENTITY networkPanel.statusCodeColon "Код статусу:">
@@ -30,14 +30,14 @@
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Запісваць выключэнні JavaScript">
 <!ENTITY btnPageSecurity.label "Бяспека">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
+<!ENTITY btnPageSecurity.tooltip "Заносіць у метрыку памылкі і папярэджанні">
 <!ENTITY btnPageLogging.label "Метрыка">
 <!ENTITY btnPageLogging.tooltip "Запісваць паведамленні, дасланыя аб'екту window.console">
 <!ENTITY btnConsoleErrors "Памылкі">
 <!ENTITY btnConsoleInfo "Звесткі">
 <!ENTITY btnConsoleWarnings "Папярэджанні">
 <!ENTITY btnConsoleLog "Метрыка">
-<!ENTITY filterOutput.placeholder "Filter output">
+<!ENTITY filterOutput.placeholder "Сіта вываду">
 <!ENTITY btnClear.label "Ачысціць">
 <!ENTITY btnClear.tooltip "Ачысціць вывад у Кансолі Сеціва">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">

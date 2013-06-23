@@ -23,7 +23,7 @@
 <!ENTITY redoCmd.accesskey "В">
 <!ENTITY cutCmd.label "Выразаць">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "р">
 <!ENTITY copyCmd.label "Капіяваць">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "К">

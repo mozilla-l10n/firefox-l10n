@@ -12,7 +12,7 @@
 <!ENTITY saveFile.accesskey "З">
 <!ENTITY rememberChoice.label "Рабіць гэта самастойна для падобных файлаў з гэтага часу.">
 <!ENTITY rememberChoice.accesskey "с">
-<!ENTITY whichIs.label "which is:">
+<!ENTITY whichIs.label "які:">
 <!ENTITY chooseHandlerMac.label "Выбраць…">
 <!ENTITY chooseHandlerMac.accesskey "В">
 <!ENTITY chooseHandler.label "Агляд…">
