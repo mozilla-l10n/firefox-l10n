@@ -11,7 +11,7 @@
 <!ENTITY sunbird.remotereload.button.tooltip               "Actualitza tots els calendaris remots" >
 <!ENTITY sunbird.import.button.tooltip                     "Importa cites d'un fitxer local" >
 <!ENTITY sunbird.export.button.tooltip                     "Exporta cites a un fitxer local" >
-<!ENTITY sunbird.subscribe.button.tooltip                  "Subscriure's a un fitxer de calendari d'una màquina remota" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Us subscriu a un fitxer de calendari d'una màquina remota" >
 <!ENTITY sunbird.publish.button.tooltip                    "Publica cites a una màquina remota" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "Cerca una llista de cites" >
 <!ENTITY sunbird.edit.button.tooltip                       "Edita la cita seleccionada" >

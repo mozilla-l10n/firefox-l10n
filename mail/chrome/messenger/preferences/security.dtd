@@ -48,11 +48,11 @@
 <!ENTITY antiVirus.accesskey  "q">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro                  "El &brandShortName; us permet especificar quins blocs, canals de notícies, i altres llocs web poden utilitzar galetes.">
+<!ENTITY cookies.intro                  "El &brandShortName; us permet especificar quins blogs, canals de notícies i altres llocs web poden utilitzar galetes.">
 <!ENTITY acceptCookies.label            "Accepta galetes dels llocs web">
 <!ENTITY acceptCookies.accesskey        "A">
 <!ENTITY keepUntil.label                "Conserva-les fins:">
-<!ENTITY keepUntil.accesskey            "f">
+<!ENTITY keepUntil.accesskey            "v">
 <!ENTITY expire.label                   "que vencin">
 <!ENTITY close.label                    "que tanqui el &brandShortName;">
 <!ENTITY askEachTime.label              "demana-m'ho cada vegada">

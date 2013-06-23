@@ -7,7 +7,7 @@
 
 <!ENTITY  pageInfoWindow.dimensions  "width: 120ch; height: 35em;">
 
-<!ENTITY  copy.key               "c">
+<!ENTITY  copy.key               "C">
 <!ENTITY  copy.label             "Copia">
 <!ENTITY  copy.accesskey         "C">
 <!ENTITY  selectall.key          "A">

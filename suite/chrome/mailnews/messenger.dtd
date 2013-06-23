@@ -377,7 +377,7 @@
 
 <!ENTITY searchMailCmd.label "Cerca els missatges…">
 <!ENTITY searchMailCmd.accesskey "e">
-<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey "d">
 <!ENTITY filtersCmd.label "Filtres de missatge…">

@@ -12,7 +12,7 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Reprendre">
+<!ENTITY cmd.resume.label                 "Reprèn">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancel·la">
 <!ENTITY cmd.cancel.accesskey             "C">
