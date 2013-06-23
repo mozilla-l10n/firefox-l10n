@@ -14,7 +14,7 @@
 <!ENTITY startBookmarksHeader.label "Закладкі">
 <!ENTITY startHistoryHeader.label "Нядаўняя гісторыя">
 <!ENTITY startRemoteTabsHeader.label "Устаўкі з іншых збудоваў">
-<!ENTITY snappedRemoteTabsHeader.label "Remote Tabs">
+<!ENTITY snappedRemoteTabsHeader.label "Адлеглыя ўстаўкі">
 <!ENTITY autocompleteResultsHeader.label "Вашы вынікі">
 <!ENTITY autocompleteSearchesHeader.label "Пошук у Інтэрнэце">
 <!ENTITY downloadsHeader.label "Сцягванні">

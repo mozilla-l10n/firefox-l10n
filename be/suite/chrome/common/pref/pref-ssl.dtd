@@ -7,7 +7,7 @@
 <!ENTITY SSLMixedContent.caption "Змешанае змесціва">
 <!ENTITY SSLClientAuthMethod.caption "Выбар пасведчання спажыўца">
 <!ENTITY pref.ssl.title "Слой бяспечных сокетаў (SSL)">
-<!ENTITY limit.description "You can restrict which encryption protocols to use for secure connections. Choose a single version or a contiguous range of versions.">
+<!ENTITY limit.description "Вы можаце абмежаваць выкарыстанне пратаколаў шыфравання, якія ўжываюцца для бяспечных злучэнняў. Выберыце адну версію або несупынны шэраг версіяў.">
 <!ENTITY limit.enable.label "Дазволена:">
 <!ENTITY limit.ssl30.label "SSL 3.0">
 <!ENTITY limit.ssl30.accesskey "3">
