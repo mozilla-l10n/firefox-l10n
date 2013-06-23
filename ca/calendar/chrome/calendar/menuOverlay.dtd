@@ -8,7 +8,7 @@
 <!ENTITY event.new.event.accesskey              "c">
 
 <!ENTITY event.new.task                         "Tasca nova…">
-<!ENTITY event.new.task.key                     "T">
+<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "t">
 
 <!ENTITY calendar.new.server.label              "Calendari nou…">

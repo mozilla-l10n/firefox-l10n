@@ -117,7 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Comparteix aquesta pàgina">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "c">
 <!ENTITY shareLinkCmd.label "Comparteix aquest enllaç">
 <!ENTITY shareLinkCmd.accesskey "l">
@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "u">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Atura la càrrega d'aquesta pàgina">
-<!ENTITY goEndCap.tooltip             "Es va a l'adreça en la barra d'ubicació">
+<!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix aquesta pàgina">
 
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complements">
 <!ENTITY addons.accesskey             "m">
-<!ENTITY addons.commandkey            "m">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">

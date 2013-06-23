@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
 
-<!ENTITY closeCmd.key  "D">
+<!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Tanca les eines per a desenvolupadors">
 <!ENTITY toolboxOptionsButton.key      "O">

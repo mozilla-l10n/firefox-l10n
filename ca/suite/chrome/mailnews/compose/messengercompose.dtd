@@ -43,7 +43,7 @@
 <!-- Edit menu items -->
 
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
-<!ENTITY editRewrapCmd.key "r">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "j">
 <!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
 <!ENTITY accountManagerCmd.accesskey "P">

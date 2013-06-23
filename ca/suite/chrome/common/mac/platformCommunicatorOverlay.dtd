@@ -14,14 +14,14 @@
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Serveis">
 <!ENTITY hideThisAppCmd.label           "Amaga el &brandShortName;">
-<!ENTITY hideThisAppCmd.key             "g">
+<!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Amaga les altres">
-<!ENTITY hideOtherAppsCmd.key           "g">
+<!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Mostra-ho tot">
 <!ENTITY quitApplicationCmd.label       "Surt del &brandShortName;"> 
-<!ENTITY quitApplicationCmd.key         "u">
+<!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 

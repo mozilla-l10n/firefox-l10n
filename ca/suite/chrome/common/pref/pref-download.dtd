@@ -16,7 +16,7 @@
 
 <!ENTITY downloadLocation.label         "Quan es desi un fitxer">
 <!ENTITY saveTo.label                   "Desa els fitxers a">
-<!ENTITY saveTo.accesskey               "a">
+<!ENTITY saveTo.accesskey               "s">
 <!ENTITY chooseDownloadFolder.label     "Tria la carpeta...">
 <!ENTITY chooseDownloadFolder.accesskey "T">
 <!ENTITY alwaysAsk.label                "Demana'm sempre on desar els fitxers">

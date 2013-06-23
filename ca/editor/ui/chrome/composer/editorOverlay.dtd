@@ -5,7 +5,7 @@
 <!-- File menu items -->
 
 
-<!ENTITY saveCmd.key "s">
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Enganxa sense formatar">
@@ -21,14 +21,14 @@
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Revisa l'ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
-<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Insereix">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Enllaç…">
 <!ENTITY insertLinkCmd.accesskey "l">
-<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Àncora anomenada…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imatge…">
@@ -58,7 +58,7 @@
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Amplada fixa">
 <!ENTITY fontFixedWidth.accesskey "x">
-<!ENTITY fontFixedWidth.key "t">
+<!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Times">
@@ -101,13 +101,13 @@
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Negreta">
 <!ENTITY styleBoldCmd.accesskey "N">
-<!ENTITY styleBoldCmd.key "b">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Cursiva">
 <!ENTITY styleItalicCmd.accesskey "i">
-<!ENTITY styleItalicCmd.key "i">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Subratllat">
 <!ENTITY styleUnderlineCmd.accesskey "u">
-<!ENTITY styleUnderlineCmd.key "u">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Barrat">
 <!ENTITY styleStrikeThruCmd.accesskey "B">
 <!ENTITY styleSuperscriptCmd.label "Superíndex">
