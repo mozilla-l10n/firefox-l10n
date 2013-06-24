@@ -498,3 +498,8 @@
 <!ENTITY mixedContentBlocked.helplink "Ulteriori informazioni">
 <!ENTITY mixedContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
 <!ENTITY pointerLock.notification.message "Premere ESC in qualunque momento per visualizzarlo nuovamente.">
+<!ENTITY pluginNotification.showAll.label "Visualizza tutti">
+<!ENTITY pluginNotification.showAll.accesskey "V">
+<!ENTITY pluginActivateNow.label "Consenti adesso">
+<!ENTITY pluginActivateAlways.label "Consenti e ricorda">
+<!ENTITY pluginBlockNow.label "Blocca plugin">
