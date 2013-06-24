@@ -22,7 +22,7 @@
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label "Tunjukkan Caranya.">
 <!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label "Perangkat saya sedang tidak di dekat saya…">
+<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 <!-- J-PAKE Waiting Screen -->
 
 <!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
@@ -69,7 +69,7 @@
 
 <!ENTITY sync.button.cancel.label "Batal">
 <!ENTITY sync.button.connect.label "Sambungkan">
-<!ENTITY sync.button.ok.label "Oke">
+<!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
   
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>

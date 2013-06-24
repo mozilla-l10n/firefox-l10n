@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sinkronkan Skrg">
 
 <!ENTITY sync.setup.title           "Sambungkan ke Sync">
-<!ENTITY sync.setup.pair            "Untuk mengaktifkan, pilih &#x0022;Pasangkan Perangkat&#x0022; pada perangkat Anda.">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback              "Komputer saya tidak sedang di dekat saya…">
 <!ENTITY sync.setup.manual          "Masukkan informasi akun Sync Anda">
 <!ENTITY sync.account               "Nama Akun">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Pasangkan Perangkat">
-<!ENTITY sync.pair.description      "Untuk mengaktifkan perangkat baru Anda, pilih &#x0022;Setel Sync&#x0022; pada perangkatnya.">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY sync.setup.close           "Tutup">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
