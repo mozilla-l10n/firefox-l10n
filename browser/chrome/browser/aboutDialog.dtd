@@ -78,4 +78,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "คุณกำลังอยู่บนช่องทางปรับรุ่น ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.end    "">
