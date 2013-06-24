@@ -31,8 +31,8 @@
 <!ENTITY newIMContactCmd.accesskey		"h">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "첨부">
-<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY openAttachmentListCmd.label "첨부">
+<!ENTITY openAttachmentListCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "다른 이름으로 저장">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "파일">
