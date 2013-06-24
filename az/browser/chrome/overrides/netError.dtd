@@ -119,13 +119,13 @@ göstərməsindən qaynaqlana bilər.</li>
 açmağı yoxlaya bilərsiniz.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc " <ul> 
-<li>Sayt müvəqqəti olaraq bağlanmış ya da çox məşğul ola bilər. 
-Bir az gözləyib yenidən yoxlayın.</li> 
-<li>Heç bir səhifə açılmırsa, komputerinizin bağlantılarını 
-yoxlayın və internətə bağlandığınıza əmin olun.</li> 
-<li>Komputeriniz ya da şəbəkəniz təhlükəsizlik divarı ya da proxy-server 
-tərəfindən qorunursa, &brandShortName; proqramına internetə bağlanmaq üçün lazım olan icazələrin verildiyinə əmin olun.</li> 
+<!ENTITY sharedLongDesc "<ul> 
+<li>Sayt müvəqqəti olaraq qapalı ya da çox məşğul ola bilər. 
+Bir az gözləyib təzədən yoxlayın.</li> 
+<li>Heç bir səhifə açılmırsa, kompüterinizin internet bağlantısını 
+yoxlayın.</li> 
+<li>Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, 
+&brandShortName; proqramının internetə bağlanma icazəsinin olduğuna əmin olun.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Şübhəli hücum saytı!">

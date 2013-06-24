@@ -143,36 +143,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Keçmişi göstərmək üçün sağ klikləyin və ya aşağı çəkin">
 <!ENTITY backForwardButtonMenuMac.tooltip "keçmişi göstərmək üçün aşağı çəkin">
 <!ENTITY reloadCmd.label              "Yenilə">
-<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.accesskey          "Y">
 <!ENTITY reloadButton.tooltip         "Hazırki səhifəni yenilə">
 <!ENTITY stopCmd.label                "Dayandır">
 <!ENTITY stopCmd.accesskey            "D">
-<!ENTITY stopCmd.macCommandKey        "açıqlanmışdır.">
-<!ENTITY stopButton.tooltip           "Səhifəni yeniləməyi saxla">
-<!ENTITY goEndCap.tooltip             "Ünvan sətirindəki ünvanı aç">
-<!ENTITY printButton.label            "Yazdır">
-<!ENTITY printButton.tooltip          "Bu sayfayı yazdırır">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Səhifəni yeniləməyi dayandır">
+<!ENTITY goEndCap.tooltip             "Ünvan Sətrindəki ünvanı aç">
+<!ENTITY printButton.label            "Çap Et">
+<!ENTITY printButton.tooltip          "Bu səhifəni çap et">
 
-<!ENTITY backForwardItem.title        "Geri/İleri">
+<!ENTITY backForwardItem.title        "Geri/İrəli">
 <!ENTITY locationItem.title           "Ünvan">
 <!ENTITY searchItem.title             "Axtar">
 <!ENTITY throbberItem.title           "Fəaliyyət göstəricisi">
 <!ENTITY bookmarksItem.title          "Əlfəcinlər">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menü">
+<!ENTITY appMenuButton.label          "Menyu">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; menyusunu aç">
-<!ENTITY homeButton.label             "Sətirin əvvəli">
+<!ENTITY homeButton.label             "Ev">
 
-<!ENTITY tabGroupsButton.label        "Vərəq qrupları">
+<!ENTITY tabGroupsButton.label        "Vərəq Qrupları">
 <!ENTITY tabGroupsButton.tooltip      "Vərəqlərinizi qruplandırın">
 
-<!ENTITY feedButton.label             "Abune ol">
+<!ENTITY feedButton.label             "Abunə ol">
 <!ENTITY feedButton.tooltip           "Bu səhifəyə abunə ol…">
 
 <!ENTITY bookmarksButton.label          "Əlfəcinlər">
 <!ENTITY bookmarksButton.tooltip        "Sizin əlfəcinlərinizi göstər">
-<!ENTITY bookmarksCmd.commandkey "ə">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
 <!ENTITY bookmarksMenuButton.tooltip        "Əlfəcinləri göstər">
@@ -545,8 +545,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY goBackCmd.commandKey "-">
-<!ENTITY goForwardCmd.commandKey "+">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Çık"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; proqramından çıx">
