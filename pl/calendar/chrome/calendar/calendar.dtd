@@ -347,3 +347,8 @@ dialog. -->
 <!ENTITY calendar.error.code "Kod błędu:">
 <!ENTITY calendar.error.description "Opis:">
 <!ENTITY calendar.error.title "Wystąpił błąd">
+
+<!ENTITY calendar.extract.event.button "Dodaj jako wydarzenie">
+<!ENTITY calendar.extract.task.button "Dodaj jako zadanie">
+<!ENTITY calendar.extract.event.button.tooltip "Wyodrębnij informacje o wydarzeniu z wiadomości i dodaj je do kalendarza">
+<!ENTITY calendar.extract.task.button.tooltip "Wyodrębnij informacje o zadaniu z wiadomości i dodaj je do kalendarza">
