@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY calendar.calendar.label "Calendario">
 <!ENTITY calendar.calendar.accesskey "C">
 <!ENTITY calendar.newevent.button.tooltip "Crea un nuovo evento">
@@ -276,3 +277,7 @@
 <!ENTITY calendar.error.code "Codice errore:">
 <!ENTITY calendar.error.description "Descrizione:">
 <!ENTITY calendar.error.title "Si è verificato un errore">
+<!ENTITY calendar.extract.event.button "Aggiungi come evento">
+<!ENTITY calendar.extract.task.button "Aggiungi come attività">
+<!ENTITY calendar.extract.event.button.tooltip "Estrai le informazioni del calendario dal messaggio e aggiungile al calendario personale come evento">
+<!ENTITY calendar.extract.task.button.tooltip "Estrai le informazioni del calendario dal messaggio e aggiungile al calendario personale come attività">
