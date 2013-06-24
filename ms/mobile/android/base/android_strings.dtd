@@ -12,9 +12,9 @@
 <!ENTITY  awesomebar_all_pages_title "Top Sites">
 <!ENTITY  awesomebar_bookmarks_title "Penandabuku">
 <!ENTITY  awesomebar_history_title "Sejarah">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!ENTITY  awesomebar_switch_to_tab "Tukar ke tab">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "&brandShortName; Pelapor Kerosakan">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
 <!ENTITY  crash_include_url2 "Include the address of the page I was on">
@@ -66,9 +66,9 @@
 
 <!ENTITY settings "Tetapan">
 <!ENTITY settings_title "Tetapan">
-<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general "Am">
 <!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
+<!ENTITY pref_category_content "Kandungan">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
@@ -77,9 +77,9 @@
 <!ENTITY pref_remember_signons "Ingat Kata Laluan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_general "Am">
 <!ENTITY pref_header_privacy "Privacy &amp; Security">
-<!ENTITY pref_header_content "Content">
+<!ENTITY pref_header_content "Kandungan">
 
 <!ENTITY pref_cookies_menu "Cecikut">
 <!ENTITY pref_cookies_accept_all "Bolehkan">
@@ -99,7 +99,7 @@
 <!ENTITY pref_plugins_enabled "Bolehkan">
 <!ENTITY pref_plugins_tap_to_play "Tap to play">
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
-<!ENTITY pref_text_size "Text size">
+<!ENTITY pref_text_size "Saiz teks">
 <!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
 <!ENTITY pref_font_size_tiny "Tiny">
 <!ENTITY pref_font_size_small "Small">
@@ -118,24 +118,24 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_use_master_password "Guna kata laluan induk">
+<!ENTITY pref_show_product_announcements "Tunjuk pengumuman produk">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; latar carian">
+<!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
+<!ENTITY pref_import_android "Import dari Android">
+<!ENTITY pref_private_data_history "Layari &amp; sejarah muat turun">
+<!ENTITY pref_private_data_formdata "Form &amp; sejarah carian">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Kata laluan Disimpan">
+<!ENTITY pref_private_data_passwords "Saved passwords">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles "Downloaded files">
+<!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
+<!ENTITY pref_private_data_downloadFiles "Fail muat turun">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_notification_action "Pilih bahan perkongsian">
+<!ENTITY datareporting_notification_summary "Bagi menambah baik pengalaman anda, &brandShortName; secara automatik menghantar maklumat ke &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Bagi menambah baik pengalaman anda, &brandShortName;…">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -145,18 +145,18 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_title "Telemetri">
+<!ENTITY datareporting_telemetry_summary "Kongsi prestasi, penggunaan, perkakasan dan data penyesuaian mengenai pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; menghantar laporan kerosakan untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Pelapor Kerosakan">
 
 <!ENTITY pref_update_autodownload "Kemaskini automatik">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Dilumpuhkan">
-<!ENTITY pref_update_autodownload_enabled "Bolehkan">
+<!ENTITY pref_update_autodownload_enabled "Hidupkan">
 
 <!ENTITY quit "Keluar">
 

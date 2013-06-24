@@ -18,14 +18,14 @@
 <!ENTITY sync.account               "Account Name">
 <!ENTITY sync.password              "Password">
 <!ENTITY sync.recoveryKey           "Recovery Key">
-<!ENTITY sync.customServer          "Use custom server">
+<!ENTITY sync.customServer          "Gunakan server tertentu">
 <!ENTITY sync.serverURL             "Server URL">
 <!ENTITY sync.setup.connect         "Connect">
 <!ENTITY sync.setup.cancel          "Batal">
-<!ENTITY sync.setup.tutorial        "Show me how">
+<!ENTITY sync.setup.tutorial        "Tunjukkan caranya">
 <!ENTITY sync.setup.waiting2        "Waiting for other device…">
 
 <!ENTITY sync.pair.title            "Memasangkan Peranti">
-<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.pair.description      "Untuk mengaktifkan peranti baru anda, pilih &quot;Set Up Sync&quot; pada peranti.">
 <!ENTITY sync.setup.close           "Tutup">
 <!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
