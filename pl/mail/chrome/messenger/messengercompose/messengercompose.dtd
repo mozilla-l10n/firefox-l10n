@@ -86,6 +86,7 @@
 <!ENTITY findCmd.label            "Znajdź i zamień…">
 <!ENTITY findCmd.accesskey        "m">
 <!ENTITY findCmd.key              "F">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label       "Znajdź następne">
 <!ENTITY findAgainCmd.accesskey   "n">
 <!ENTITY findAgainCmd.key         "G">
