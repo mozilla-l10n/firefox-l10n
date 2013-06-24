@@ -498,3 +498,8 @@
 <!ENTITY mixedContentBlocked.helplink "Подробнее">
 <!ENTITY mixedContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
 <!ENTITY pointerLock.notification.message "Нажмите в любой момент кнопку Esc, чтобы показать его снова.">
+<!ENTITY pluginNotification.showAll.label "Показать все">
+<!ENTITY pluginNotification.showAll.accesskey "о">
+<!ENTITY pluginActivateNow.label "Временно разрешить">
+<!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
+<!ENTITY pluginBlockNow.label "Заблокировать плагин">

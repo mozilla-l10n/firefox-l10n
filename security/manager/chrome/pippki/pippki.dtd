@@ -56,7 +56,6 @@
 <!ENTITY escrowWarn.message2 "Как бы то ни было, ваш закрытый ключ шифрования будет храниться в центре сертификации и может быть использован для того, чтобы прочитать вашу зашифрованную почту или документы без вашего разрешения.">
 <!ENTITY examineCert.label "Просмотр сертификата">
 <!ENTITY examineCert.accesskey "р">
-<!ENTITY serverCrlNextupdate.message "Обратитесь за помощью к системному администратору">
 <!ENTITY createCertInfo.title "Генерация закрытого ключа">
 <!ENTITY createCertInfo.msg1 "Идёт генерация ключей. Это может занять несколько минут…">
 <!ENTITY createCertInfo.msg2 "Пожалуйста, подождите…">

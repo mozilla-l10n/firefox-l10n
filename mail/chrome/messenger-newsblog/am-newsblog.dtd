@@ -11,6 +11,7 @@
 <!ENTITY useQuickMode.accesskey "к">
 <!ENTITY manageSubscriptions.label "Управление подписками…">
 <!ENTITY manageSubscriptions.accesskey "У">
+<!ENTITY feedWindowTitle.label "Мастер учетной записи лент новостей">
 <!ENTITY feeds.accountName "Блоги и ленты новостей">
 <!ENTITY feeds.wizardShortName "Ленты новостей">
 <!ENTITY feeds.wizardLongName "Блоги и ленты новостей">

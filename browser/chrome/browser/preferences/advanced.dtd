@@ -94,8 +94,6 @@
 <!ENTITY certs.ask.accesskey "ш">
 <!ENTITY viewCerts.label "Просмотр сертификатов">
 <!ENTITY viewCerts.accesskey "с">
-<!ENTITY viewCRLs.label "Управление CRL">
-<!ENTITY viewCRLs.accesskey "в">
 <!ENTITY verify2.label "Настройки OCSP">
 <!ENTITY verify2.accesskey "р">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
