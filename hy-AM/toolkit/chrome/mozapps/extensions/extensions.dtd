@@ -198,10 +198,10 @@
 <!ENTITY addon.undoRemove.tooltip             "Պահել այս հավելումը տեղադրված">
 <!ENTITY addon.restartNow.label               "Վերամեկնարկել հիմա">
 <!ENTITY addon.install.label                  "Տեղադրել">
-<!ENTITY addon.install.tooltip                "Տեղակայել այս հավելումը">
+<!ENTITY addon.install.tooltip                "Տեղադրել այս հավելումը">
 <!ENTITY addon.updateNow.label                "Թարմացնել Հիմա">
 <!ENTITY addon.updateNow.tooltip              "Տեղադրել այս հավելման թարմացումը">
-<!ENTITY addon.includeUpdate.label            "Ներառել թարմացման մեջ">
+<!ENTITY addon.includeUpdate.label            "Միացնել թարմացումը">
 <!ENTITY addon.updateAvailable.label          "Թարմացումը հասանելի է">
 <!ENTITY addon.checkingForUpdates.label       "Ստուգվում է թարմացումները">
 <!ENTITY addon.releaseNotes.label             "Թողարկման նշումներ՝">

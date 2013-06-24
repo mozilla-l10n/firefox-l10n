@@ -88,7 +88,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "Search for function definition">
+<!ENTITY debuggerUI.searchFunction      "Ֆունկցիայի սահմանման որոնում">
 <!ENTITY debuggerUI.searchFunction.key  "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -108,12 +108,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-<!ENTITY debuggerUI.focusVariables      "Focus variables tree">
+<!ENTITY debuggerUI.focusVariables      "Կենտրոնացում փոփոխականների ծառի վրա">
 <!ENTITY debuggerUI.focusVariables.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
-<!ENTITY debuggerUI.condBreakPanelTitle "This breakpoint will stop execution only if the following expression is true">
+<!ENTITY debuggerUI.condBreakPanelTitle "Այս ընդհատակետը կդադարի կատարելուց միայն այն դեպքում,եթե տվյալ արտահայտությունը ճիշտ է">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
@@ -123,22 +123,22 @@
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuCondBreak     "Add conditional breakpoint">
+<!ENTITY debuggerUI.seMenuCondBreak     "Ավելացնել պայմանական ընդհատակետ">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.seMenuAddWatch      "Selection to watch expression">
+<!ENTITY debuggerUI.seMenuAddWatch      "Արտահայտությունը դիտելու ընտրություն">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "Add watch expression">
+<!ENTITY debuggerUI.addWatch            "Ավելացնել դիտելու արտահայտություն">
 <!ENTITY debuggerUI.addWatch.key        "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
-<!ENTITY debuggerUI.removeAllWatch      "Remove all watch expressions">
+<!ENTITY debuggerUI.removeAllWatch      "Ողջ դիտված արտահայտությունները ջնջել">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,

@@ -4,7 +4,7 @@
 
 <!ENTITY  engineManager.title       "Որոնման ցանցերի ցուցակի ղեկավարում">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Դուք տեղակայել էք հետևյալ որոնման ցանցերը`">
+<!ENTITY  engineManager.intro       "Դուք տեղակայել եք հետևյալ որոնման ցանցերը`">
 
 <!ENTITY  columnLabel.name          "Անվանումը">
 <!ENTITY  columnLabel.keyword       "Հիմնաբառը">
