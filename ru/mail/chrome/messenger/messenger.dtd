@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "и">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
+<!ENTITY newFeedAccountCmd.label "Учётная запись лент новостей…">
+<!ENTITY newFeedAccountCmd.accesskey "я">
 <!ENTITY newIMContactCmd.label "Контакт в чате…">
 <!ENTITY newIMContactCmd.accesskey "о">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
@@ -658,6 +660,12 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "Н">
 <!ENTITY contextCopyMsgMenu.label "Копировать в папку">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
+<!ENTITY contextKillThreadMenu.label "Пропустить обсуждение">
+<!ENTITY contextKillThreadMenu.accesskey "о">
+<!ENTITY contextKillSubthreadMenu.label "Пропустить ветку обсуждения">
+<!ENTITY contextKillSubthreadMenu.accesskey "п">
+<!ENTITY contextWatchThreadMenu.label "Отслеживать обсуждение">
+<!ENTITY contextWatchThreadMenu.accesskey "е">
 <!ENTITY contextSaveAs.label "Сохранить как…">
 <!ENTITY contextSaveAs.accesskey "С">
 <!ENTITY contextPrint.label "Распечатать…">
