@@ -130,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "F">
 <!ENTITY viewCerts.label                 "Visa certifikat">
 <!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewCRLs.label                  "Spärrlistor">
-<!ENTITY viewCRLs.accesskey              "S">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "d">
 <!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
