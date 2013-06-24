@@ -285,6 +285,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dont le détenteur est">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Cette page affiche du contenu non sécurisé.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; a bloqué du contenu non sécurisé.">
+<!ENTITY blocked_mixed_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
+<!ENTITY learn_more "En savoir plus">
+<!ENTITY enable_protection "Activer la protection">
+<!ENTITY disable_protection "Désaciver la protection">
+<!ENTITY keep_blocking "Poursuivre le blocage">
+
 <!ENTITY private_data_success "Données personnelles effacées">
 <!ENTITY private_data_fail "Certaines données personnelles ne peuvent pas être effacées">
 
