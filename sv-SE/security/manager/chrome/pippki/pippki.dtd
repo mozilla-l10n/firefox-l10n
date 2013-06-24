@@ -76,8 +76,6 @@
 <!ENTITY examineCert.label "Visa certifikat">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Be din systemadministratör om hjälp">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genererar en hemlig nyckel">
 <!ENTITY createCertInfo.msg1 "Nyckelgenerering pågår… Detta kan ta ett par minuter…">
