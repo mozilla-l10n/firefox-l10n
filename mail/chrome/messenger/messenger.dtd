@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Cuenta de chat…">
 <!ENTITY newIMAccountCmd.accesskey "h">
+<!ENTITY newFeedAccountCmd.label "Cuenta de canales web…">
+<!ENTITY newFeedAccountCmd.accesskey "w">
 <!ENTITY newIMContactCmd.label "Contactos de chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
@@ -658,6 +660,12 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copiar a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Ignorar conversación">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignorar sub-conversación">
+<!ENTITY contextKillSubthreadMenu.accesskey "S">
+<!ENTITY contextWatchThreadMenu.label "Observar conversación">
+<!ENTITY contextWatchThreadMenu.accesskey "Observar conversación">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
