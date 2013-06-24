@@ -711,6 +711,12 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "O">
 <!ENTITY contextCopyMsgMenu.label      "Kopiuj do">
 <!ENTITY contextCopyMsgMenu.accesskey  "K">
+<!ENTITY contextKillThreadMenu.label "Ignoruj wątek">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignoruj podwątek">
+<!ENTITY contextKillSubthreadMenu.accesskey "p">
+<!ENTITY contextWatchThreadMenu.label "Obserwuj wątek">
+<!ENTITY contextWatchThreadMenu.accesskey "O">
 <!ENTITY contextSaveAs.label           "Zapisz jako…">
 <!ENTITY contextSaveAs.accesskey       "a">
 <!ENTITY contextPrint.label            "Drukuj…">
