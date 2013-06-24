@@ -11,17 +11,21 @@
 <!ENTITY  awesomebar_all_pages_title "전체">
 <!ENTITY  awesomebar_bookmarks_title "북마크">
 <!ENTITY  awesomebar_history_title "방문기록">
+<!ENTITY  awesomebar_switch_to_tab "탭 전환">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 문제점 보고">
-<!ENTITY  crash_message "&brandShortName;가 예기치 않게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫화면에 보일 것입니다.">
-<!ENTITY  crash_help_message "문제 해결에 도움주기">
-<!ENTITY  crash_send_report_message "문제 사항을 Mozilla에 보내기">
-<!ENTITY  crash_include_url "주소 포함">
+<!ENTITY  crash_message2 "&brandShortName;가 문제가 생겨 예기치 않게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫 화면에 보일 것입니다.">
+<!ENTITY  crash_send_report_message2 "문제 사항을 고치기 위해 Mozilla에 보내기">
+<!ENTITY  crash_include_url2 "방문 했던 페이지의 주소 포함하기">
+<!ENTITY  crash_sorry "죄송합니다">
+<!ENTITY  crash_comment "의견 추가하기 (의견은 공개적으로 불 수 있습니다)">
+<!ENTITY  crash_allow_contact "이 보고서에 대해 Mozilla가 연락하는 것을 허가">
+<!ENTITY  crash_email "이메일">
+<!ENTITY  crash_closing_alert "문제점 보고서를 보내지 않고 종료하시겠습니까?">
 <!ENTITY  crash_close_label "닫기">
 <!ENTITY  crash_restart_label "&brandShortName; 다시 시작">
 <!ENTITY  sending_crash_report "문제 보내기\u2026">
 <!ENTITY  exit_label "종료">
-<!ENTITY  continue_label "계속">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; 웹앱">
 <!ENTITY  launcher_shortcuts_empty "검색된 웹앱이 없음">
@@ -64,16 +68,27 @@
 <!ENTITY pref_category_general "일반">
 <!ENTITY pref_category_privacy "개인 정보 및 보안">
 <!ENTITY pref_category_content "내용">
-<!ENTITY pref_category_importexport "가져오기 및 내보내기">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "데이터 선택">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
-<!ENTITY pref_do_not_track "개인 정보 추적 금지">
-<!ENTITY pref_telemetry "성능 개선 정보 보내기">
 <!ENTITY pref_remember_signons "암호 저장">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "일반">
+<!ENTITY pref_header_privacy "개인 정보 &amp; 보안">
+<!ENTITY pref_header_content "내용">
 
 <!ENTITY pref_cookies_menu "쿠키">
 <!ENTITY pref_cookies_accept_all "사용하기">
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
+
+<!ENTITY pref_donottrack_menu "추적">
+<!ENTITY pref_donottrack_disallow_tracking "웹 사이트에 방문자 추적 중지 요청 전송">
+<!ENTITY pref_donottrack_allow_tracking "웹 사이트에 방문자 추적 요청 전송">
+<!ENTITY pref_donottrack_no_pref "웹 사이트에 방문자 추적 여부 전송 안 함">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
@@ -113,6 +128,27 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
 <!ENTITY pref_private_data_siteSettings2 "웹 사이트별 설정">
 <!ENTITY pref_private_data_downloadFiles "다운로드된 파일">
+
+<!ENTITY datareporting_notification_title "&brandShortName; 통계 &amp; 데이터">
+<!ENTITY datareporting_notification_action "공유 대상 선택하기">
+<!ENTITY datareporting_notification_summary "여러분이 보다 나은 경험을 할 수 있도록 &brandShortName;는 &vendorShortName;에 자동으로 일부 정보를 전송합니다.">
+<!ENTITY datareporting_notification_summary_short "여러분이 보다 나은 경험을 할 수 있도록 &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; 상태 검사 보고서">
+<!ENTITY datareporting_fhr_summary "브라우저 성능에 대해 이해할 수 잇도록 돕고 &vendorShortName;와 브라우저 건강 데이터를 공유함">
+<!ENTITY datareporting_telemetry_title "데이터 수집">
+<!ENTITY datareporting_telemetry_summary "브라우저의 성능, 사용, 그리고 설정에 대한 데이터를 &vendorShortName;와 공유하여 &brandShortName;가 보다 나아지도록 도움">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName;가 오류 보고서를 전송하여 &vendorShortName;가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; 오류 보고서">
 
 <!ENTITY pref_update_autodownload "자동 업데이트">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi에서만">
@@ -161,6 +197,12 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY contextmenu_paste "붙여넣기">
 <!ENTITY contextmenu_copyurl "주소 복사">
 <!ENTITY contextmenu_edit_bookmark "편집">
+<!ENTITY contextmenu_subscribe "페이지 구독">
+<!ENTITY contextmenu_site_settings "사이트 설정 변경">
+
+<!ENTITY pref_titlebar_mode "제목창">
+<!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
+<!ENTITY pref_titlebar_mode_url "페이지 주소 표시">
 
 <!ENTITY history_removed "방문 기록에서 웹 페이지 삭제 완료">
 
@@ -169,7 +211,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
 
-<!ENTITY site_settings_title2        "웹사이트 설정…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "사이트 설정">
 <!ENTITY site_settings_cancel       "취소">
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
@@ -178,6 +222,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY reading_list_added "페이지를 읽기 목록에서 추가 완료">
 <!ENTITY reading_list_removed "페이지를 읽기 목록에서 삭제 완료">
 <!ENTITY reading_list_failed "페이지를 읽기 목록에 추가 실패">
+<!ENTITY reading_list_duplicate "이미 읽기 목록에 있음">
 <!ENTITY reader "읽기 모드">
 
 
@@ -202,7 +247,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY abouthome_topsites_edit "편집">
 <!ENTITY abouthome_topsites_pin "사이트 고정">
 <!ENTITY abouthome_topsites_unpin "사이트 고정 해제">
-<!ENTITY abouthome_topsites_remove "삭제">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
       chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
       clicking this text in the promotions box will perform some action. Note
