@@ -56,7 +56,6 @@
 <!ENTITY escrowWarn.message2 "Sin embargo, su clave privada de cifrado será almacenada por la autoridad certificadora, y podría ser utilizada para leer sus documentos o correos cifrados sin su consentimiento.">
 <!ENTITY examineCert.label "Ver certificado">
 <!ENTITY examineCert.accesskey "V">
-<!ENTITY serverCrlNextupdate.message "Por favor, pida ayuda al administrador del sistema">
 <!ENTITY createCertInfo.title "Generando una clave privada">
 <!ENTITY createCertInfo.msg1 "Generación de la clave en progreso… Esto puede tardar unos minutos…">
 <!ENTITY createCertInfo.msg2 "Por favor, espere…">
