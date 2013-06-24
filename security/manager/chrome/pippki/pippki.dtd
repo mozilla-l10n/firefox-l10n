@@ -56,7 +56,6 @@
 <!ENTITY escrowWarn.message2 "In ogni caso, la chiave privata di cifratura verrà archiviata dall'autorità di certificazione, e potrebbe essere utilizzata per leggere la posta cifrata senza permesso.">
 <!ENTITY examineCert.label "Visualizza certificato">
 <!ENTITY examineCert.accesskey "E">
-<!ENTITY serverCrlNextupdate.message "Chiedere assistenza all'amministratore di sistema.">
 <!ENTITY createCertInfo.title "Genera una chiave privata">
 <!ENTITY createCertInfo.msg1 "Generazione chiave in corso… L'elaborazione potrebbe richiedere alcuni minuti.">
 <!ENTITY createCertInfo.msg2 "Attendere…">
