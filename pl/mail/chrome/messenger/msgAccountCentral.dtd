@@ -14,6 +14,7 @@
 <!ENTITY subscribeImapFolders.label "Subskrybuj foldery">
 <!ENTITY settingsLink.label         "Wyświetl ustawienia dla tego konta">
 <!ENTITY newAcctLink.label          "Utwórz nowe konto">
+<!ENTITY newAcct.label "Utwórz konfigurację konta:">
 
 <!ENTITY advFeaturesSectionHdr.label "Funkcje zaawansowane">
 <!ENTITY searchMsgsLink.label        "Wyszukaj wiadomości">
@@ -23,3 +24,6 @@
 
 <!ENTITY feedsSectionHdr.label "Aktualności">
 <!ENTITY subscribeFeeds.label  "Menedżer subskrypcji">
+
+<!ENTITY chat.label "Czat">
+<!ENTITY movemail.label "Movemail">

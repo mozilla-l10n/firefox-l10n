@@ -15,8 +15,10 @@
 <!ENTITY manageSubscriptions.label     "Menedżer źródeł aktualności…">
 <!ENTITY manageSubscriptions.accesskey "r">
 
+<!ENTITY feedWindowTitle.label "Kreator kont aktualności">
+
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName              "Aktualności i blogi">
+<!ENTITY feeds.accountName              "Aktualności">
 <!ENTITY feeds.wizardShortName          "Aktualności">
-<!ENTITY feeds.wizardLongName           "Aktualności i blogi">
+<!ENTITY feeds.wizardLongName           "Aktualności">
 <!ENTITY feeds.wizardLongName.accesskey "A">

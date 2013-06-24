@@ -6,12 +6,14 @@
 
 <!ENTITY accountActionsButton.label      "Operacje">
 <!ENTITY accountActionsButton.accesskey  "O">
-<!ENTITY addMailAccountButton.label      "Dodaj konto pocztowe…">
-<!ENTITY addMailAccountButton.accesskey  "D">
-<!ENTITY addIMAccountButton.label "Dodaj konto czatu…">
+<!ENTITY addMailAccountButton.label "Dodaj konfigurację konta pocztowego…">
+<!ENTITY addMailAccountButton.accesskey "D">
+<!ENTITY addIMAccountButton.label "Dodaj konfigurację konta czat…">
 <!ENTITY addIMAccountButton.accesskey "c">
-<!ENTITY addOtherAccountButton.label     "Dodaj inne konto…">
-<!ENTITY addOtherAccountButton.accesskey "k">
+<!ENTITY addFeedAccountButton.label "Dodaj konfigurację konta aktualności…">
+<!ENTITY addFeedAccountButton.accesskey "k">
+<!ENTITY addOtherAccountButton.label "Dodaj konfigurację innego konta…">
+<!ENTITY addOtherAccountButton.accesskey "i">
 
 <!ENTITY setDefaultButton.label     "Ustaw jako domyślne">
 <!ENTITY setDefaultButton.accesskey "w">
