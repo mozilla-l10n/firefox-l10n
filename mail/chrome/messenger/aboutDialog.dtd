@@ -20,6 +20,9 @@
 <!ENTITY update.manual.start "Загрузить ">
 <!ENTITY update.manual.linkText "последнюю версию">
 <!ENTITY update.manual.end "">
+<!ENTITY update.unsupported.start "Вы не можете производить дальнейшие обновления на этой системе. ">
+<!ENTITY update.unsupported.linkText "Подробнее">
+<!ENTITY update.unsupported.end "">
 <!ENTITY update.downloading.start "Загрузка обновления — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Применение обновления…">
