@@ -158,7 +158,7 @@ size. -->
 <!ENTITY pref_update_autodownload_disabled "停用">
 <!ENTITY pref_update_autodownload_enabled "啟用">
 
-<!ENTITY quit "結束">
+<!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載項目">

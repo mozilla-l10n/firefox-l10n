@@ -15,7 +15,7 @@
 <!ENTITY copy.label             "複製">
 <!ENTITY paste.label            "貼上">
 <!ENTITY print.label            "列印">
-<!ENTITY find.label             "搜尋">
+<!ENTITY find.label             "尋找">
 <!ENTITY image.label            "圖片">
 <!ENTITY hline.label            "水平線">
 <!ENTITY table.label            "表格">
