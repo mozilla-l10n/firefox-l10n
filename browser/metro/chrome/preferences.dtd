@@ -2,11 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- ## About Flyout Panel ## -->
-<!ENTITY aboutHeader.title                                       "Om">
-<!ENTITY aboutHeader.product.label                               "&brandShortName;">
-<!ENTITY aboutHeader.company.label                               "Av &vendorShortName;">
-<!ENTITY aboutHeader.policy.label                                "Läs &brandShortName; integritetspolicy på nätet">
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
 
 <!-- ## Options Flyout Panel ## -->
 <!ENTITY optionsHeader.title                                     "Alternativ">
@@ -14,7 +11,6 @@
 <!ENTITY optionsHeader.homepage.title                            "När &brandShortName; startar, visa">
 <!ENTITY optionsHeader.homepage.startPage.button                 "startsida">
 <!ENTITY optionsHeader.homepage.sessionRestore.button            "senaste flikarna">
-<!ENTITY optionsHeader.tabs.title                                "Visa alltid flikar">
 <!ENTITY optionsHeader.char.title                                "Teckenkodning">
 <!ENTITY optionsHeader.char.autodetect.label                     "Autoigenkänning">
 <!ENTITY optionsHeader.char.options.label                        "Visa kodningsalternativ i Appfältet">
@@ -40,7 +36,5 @@
 <!ENTITY doNotTrack.options.trackingNotOkay                      "Jag vill inte bli spårad">
 <!ENTITY doNotTrack.options.noPreference                         "Inget om min inställning till spårning">
 <!ENTITY doNotTrack.options.trackingOkay                         "Jag vill bli spårad">
-
-
-  <!-- ## Sync Flyout Panel ## -->
-<!-- see sync.dtd -->
+<!ENTITY optionsHeader.reporting.title                           "Kraschrapportör">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; skickar kraschrapporter för att hjälpa Mozilla att göra webbläsaren mer stabil och säker">

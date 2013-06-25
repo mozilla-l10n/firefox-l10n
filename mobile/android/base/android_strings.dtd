@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
 <!ENTITY  crash_message2 "&brandShortName; hade ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
-<!ENTITY  crash_send_report_message2 "Meddela Mozilla om den här kraschen så de kan fixa den">
+<!ENTITY  crash_send_report_message3 "Meddela &vendorShortName; om den här kraschen så de kan fixa den">
 <!ENTITY  crash_include_url2 "Inkludera adressen till sidan jag var på">
 <!ENTITY  crash_sorry "Vi är ledsna">
 <!ENTITY  crash_comment "Lägg till en kommentar (kommentarer är synliga för alla)">
-<!ENTITY  crash_allow_contact "Tillåt att Mozilla kontaktar mig om den här rapporten">
+<!ENTITY  crash_allow_contact2 "Tillåt att &vendorShortName; kontaktar mig om den här rapporten">
 <!ENTITY  crash_email "Din e-postadress">
 <!ENTITY  crash_closing_alert "Avsluta utan att skicka någon kraschrapport?">
 <!ENTITY  sending_crash_report "Skickar kraschrapport…">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bokmärkt">
 <!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
+<!ENTITY bookmark_options "Alternativ">
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_reflow_on_zoom2 "Nyp för att omarbeta text">
+<!ENTITY pref_reflow_on_zoom3 "Dubbeltryck för att omarbeta text">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Hämtade filer">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik och data">
+<!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
 <!ENTITY datareporting_notification_action "Välj vad som ska delas">
 <!ENTITY datareporting_notification_summary "För att förbättra upplevelsen skickar &brandShortName; automatiskt viss information till &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "För att förbättra upplevelsen …">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; hälsorapport">
-<!ENTITY datareporting_fhr_summary "Hjälper dig att förstå webbläsarprestandan samt delar data med &vendorShortName; om webbläsarens status">
+<!ENTITY datareporting_fhr_summary2 "Delar data med &vendorShortName; om webbläsarens status, samt hjälper dig att förstå webbläsarens prestanda">
+<!ENTITY datareporting_abouthr_title "Visa hälsorapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Delar webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra webbläsaren stabilare och säkrare">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Kraschrapportör">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
+<!ENTITY datareporting_wifi_title "&vendorShortName;s platstjänster">
+<!ENTITY datareporting_wifi_summary "Hjälp till att förbättra positioneringstjänster för den öppna webben genom att låta &brandShortName; samla in och skicka anonymiserad data om mobilmaster">
 
 <!ENTITY pref_update_autodownload "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast över Wi-Fi">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drivs av">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Den här sidan visar innehåll som inte är säkert.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blockerat osäkert innehåll.">
+<!ENTITY blocked_mixed_content_message_bottom "De flesta webbplatser fungerar bra även om det här innehållet blockeras.">
+<!ENTITY learn_more "Läs mer">
+<!ENTITY enable_protection "Aktivera skydd">
+<!ENTITY disable_protection "Inaktivera skydd">
+<!ENTITY keep_blocking "Fortsätt blockera">
 
 <!ENTITY private_data_success "Känslig data är rensad">
 <!ENTITY private_data_fail "Viss känslig data kunde inte rensas ut">
