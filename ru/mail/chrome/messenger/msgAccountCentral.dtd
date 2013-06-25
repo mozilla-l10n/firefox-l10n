@@ -9,10 +9,13 @@
 <!ENTITY subscribeNewsLink.label "Управление подписками на группы новостей">
 <!ENTITY feedsSectionHdr.label "Блоги и ленты новостей">
 <!ENTITY subscribeFeeds.label "Управление подписками">
+<!ENTITY chat.label "Чат">
+<!ENTITY movemail.label "Movemail">
 <!ENTITY accountsSectionHdr.label "Учётные записи">
 <!ENTITY subscribeImapFolders.label "Управление подписками на папки">
 <!ENTITY settingsLink.label "Просмотр параметров этой учётной записи">
 <!ENTITY newAcctLink.label "Создать учётную запись">
+<!ENTITY newAcct.label "Создать учётную запись:">
 <!ENTITY advFeaturesSectionHdr.label "Дополнительные свойства">
 <!ENTITY searchMsgsLink.label "Поиск сообщений…">
 <!ENTITY filtersLink.label "Создать фильтры сообщений">

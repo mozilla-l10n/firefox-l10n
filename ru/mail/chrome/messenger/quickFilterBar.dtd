@@ -25,6 +25,11 @@
 <!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Режим тегов фильтрации">
+<!ENTITY quickFilterBar.booleanModeAny.label "Любое из">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Должны подходить под хотя бы один из выбранных тегов с критерием">
+<!ENTITY quickFilterBar.booleanModeAll.label "Все из">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Должны подходить под все выбранные теги с критериями">
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth "280">
 <!ENTITY quickFilterBar.textFilter.explanation.label "Фильтр сообщений по:">
