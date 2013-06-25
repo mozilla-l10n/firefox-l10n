@@ -6,9 +6,11 @@
 <!ENTITY accountActionsButton.label "Действия для учётной записи">
 <!ENTITY accountActionsButton.accesskey "в">
 <!ENTITY addMailAccountButton.label "Добавить учётную запись почты…">
-<!ENTITY addMailAccountButton.accesskey "в">
+<!ENTITY addMailAccountButton.accesskey "и">
 <!ENTITY addIMAccountButton.label "Добавить учётную запись чата…">
 <!ENTITY addIMAccountButton.accesskey "а">
+<!ENTITY addFeedAccountButton.label "Добавить учётную запись лент новостей…">
+<!ENTITY addFeedAccountButton.accesskey "о">
 <!ENTITY addOtherAccountButton.label "Добавить другую учётную запись…">
 <!ENTITY addOtherAccountButton.accesskey "б">
 <!ENTITY setDefaultButton.label "Установить по умолчанию">

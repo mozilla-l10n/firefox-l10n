@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "и">
 <!ENTITY newIMAccountCmd.label "Учётная запись чата…">
 <!ENTITY newIMAccountCmd.accesskey "а">
+<!ENTITY newFeedAccountCmd.label "Учётная запись лент новостей…">
+<!ENTITY newFeedAccountCmd.accesskey "я">
 <!ENTITY newIMContactCmd.label "Контакт в чате…">
 <!ENTITY newIMContactCmd.accesskey "о">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
@@ -456,6 +458,8 @@
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
+<!ENTITY allowRemoteDebugging.accesskey "з">
 <!ENTITY getMsgButton.label "Получить">
 <!ENTITY newMsgButton.label "Создать">
 <!ENTITY replyButton.label "Ответить">
@@ -500,6 +504,8 @@
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
 <!ENTITY replyListButton.tooltip "Ответить в список рассылки">
 <!ENTITY forwardButton.tooltip "Переслать выбранное сообщение">
+<!ENTITY forwardAsInline.tooltip "Переслать выбранное сообщение внутри сообщения">
+<!ENTITY forwardAsAttachment.tooltip "Переслать выбранное сообщение как вложение">
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
@@ -520,6 +526,8 @@
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY appmenuButton1.tooltip "Открыть меню &brandShortName;">
+<!ENTITY buttonMenuForwardAsInline.label "Переслать внутри сообщения">
+<!ENTITY buttonMenuForwardAsAttachment.label "Переслать как вложение">
 <!ENTITY appmenuNewMsgCmd.label "Создать">
 <!ENTITY appmenuNewContactCmd.label "Контакт адресной книги…">
 <!ENTITY appmenuEditMenu.label "Правка">
@@ -535,8 +543,8 @@
 <!ENTITY folderSizeColumn.label "Размер">
 <!ENTITY folderContextGetMessages.label "Получить сообщения">
 <!ENTITY folderContextGetMessages.accesskey "л">
-<!ENTITY folderContextOpenNewWindow.label "Открыть в новом окне">
-<!ENTITY folderContextOpenNewWindow.accesskey "О">
+<!ENTITY folderContextOpenInNewWindow.label "Открыть в новом окне">
+<!ENTITY folderContextOpenInNewWindow.accesskey "к">
 <!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY folderContextOpenNewTab.accesskey "н">
 <!ENTITY folderContextNew.label "Новая папка…">
@@ -638,14 +646,24 @@
 <!ENTITY contextReplyList.accesskey "р">
 <!ENTITY contextForward.label "Переслать">
 <!ENTITY contextForward.accesskey "П">
-<!ENTITY contextForwardAsAttachment.label "Переслать как вложения">
-<!ENTITY contextForwardAsAttachment.accesskey "к">
+<!ENTITY contextForwardAsMenu.label "Переслать как">
+<!ENTITY contextForwardAsMenu.accesskey "е">
+<!ENTITY contextForwardAsInline.label "Внутри сообщения">
+<!ENTITY contextForwardAsInline.accesskey "ж">
+<!ENTITY contextForwardAsAttachmentItem.label "Вложение">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "н">
+<!ENTITY contextMultiForwardAsAttachment.label "Переслать как вложения">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "е">
 <!ENTITY contextMoveMsgMenu.label "Переместить в папку">
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Недавно открытые">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "Н">
 <!ENTITY contextCopyMsgMenu.label "Копировать в папку">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
+<!ENTITY contextKillThreadMenu.label "Пропустить обсуждение">
+<!ENTITY contextKillThreadMenu.accesskey "о">
+<!ENTITY contextKillSubthreadMenu.label "Пропустить ветку обсуждения">
+<!ENTITY contextWatchThreadMenu.label "Отслеживать обсуждение">
 <!ENTITY contextSaveAs.label "Сохранить как…">
 <!ENTITY contextSaveAs.accesskey "С">
 <!ENTITY contextPrint.label "Распечатать…">

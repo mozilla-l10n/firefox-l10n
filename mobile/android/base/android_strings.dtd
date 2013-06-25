@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
-<!ENTITY crash_send_report_message2 "Сообщить в Mozilla об этом падении, чтобы они смогли это исправить">
+<!ENTITY crash_send_report_message3 "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить">
 <!ENTITY crash_include_url2 "Включить адрес страницы на которой я был в это время">
 <!ENTITY crash_sorry "Приносим свои извинения">
 <!ENTITY crash_comment "Добавить комментарий (комментарии публично доступны)">
-<!ENTITY crash_allow_contact "Разрешить Mozilla связаться со мной по поводу этого сообщения">
+<!ENTITY crash_allow_contact2 "Разрешить &vendorShortName; связаться со мной по поводу этого сообщения">
 <!ENTITY crash_email "Ваш адрес эл. почты">
 <!ENTITY crash_closing_alert "Выйти, не отправляя сообщение о падении?">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
+<!ENTITY bookmark_options "Настройки">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section "7 дней назад">
@@ -77,7 +78,7 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom2 "Перерисовка после увеличения">
+<!ENTITY pref_reflow_on_zoom3 "Перерисовка после двух нажатий">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -100,15 +101,20 @@
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
 <!ENTITY datareporting_notification_summary "Чтобы улучшить вашу работу, &brandShortName; автоматически отправляет некоторые данные в &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Чтобы улучшить вашу работу, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Отчёт о работоспособности &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Помогает вам больше узнать о скорости работы вашего браузера и поделиться данными о его работоспособности с &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "Делится данными о здоровье вашего браузера с &vendorShortName; и помогает вам больше узнать о скорости его работы">
+<!ENTITY datareporting_abouthr_title "Посмотреть мой отчёт о здоровье">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
 <!ENTITY datareporting_telemetry_summary "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; отправляет сообщения о падениях, чтобы помочь &vendorShortName; сделать ваш браузер более стабильным и безопасным">
-<!ENTITY datareporting_crashreporter_title "Сообщения о падениях &brandShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Сообщения о падениях">
+<!ENTITY datareporting_wifi_title "Службы местоположения &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Помогите улучшить службы определения местоположения для открытого Интернета, позволив &brandShortName; собирать и отправлять анонимные данные о базовых станциях сотовой сети">
 <!ENTITY pref_update_autodownload "Автообновление">
 <!ENTITY pref_update_autodownload_wifi "Только через Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Отключено">
@@ -198,6 +204,13 @@
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_run_by "который управляется">
+<!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
+<!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
+<!ENTITY learn_more "Подробнее">
+<!ENTITY enable_protection "Включить защиту">
+<!ENTITY disable_protection "Отключить защиту">
+<!ENTITY keep_blocking "Продолжать блокировать">
 <!ENTITY private_data_success "Личные данные удалены">
 <!ENTITY private_data_fail "Не удалось удалить некоторые личные данные">
 <!ENTITY bookmarkhistory_button_import "Импорт">

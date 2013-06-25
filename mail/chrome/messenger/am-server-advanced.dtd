@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
 <!ENTITY overrideNamespaces.accesskey "з">
 <!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:">
-<!ENTITY globalInbox.label "Общая папка «Входящие» (находится в «Локальных папках»)">
-<!ENTITY globalInbox.accesskey "я">
 <!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">
 <!ENTITY accountDirectory.accesskey "д">
 <!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
