@@ -29,8 +29,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
 <!ENTITY openMessageFileCmd.accesskey "A">
-<!ENTITY openAttachmentCmd.label "Allegati">
-<!ENTITY openAttachmentCmd.accesskey "g">
 <!ENTITY saveAsMenu.label "Salva come">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "File">
@@ -44,7 +42,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Account corrente">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Scarica i successivi 500 messaggi">
+<!ENTITY getNextNMsgCmd.label "Scarica le successive 500 news">
 <!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "Invia posta in uscita">
 <!ENTITY sendUnsentCmd.accesskey "U">
@@ -403,6 +401,8 @@
 <!ENTITY openConversationCmd.label "Apri nella conversazione">
 <!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "A">
+<!ENTITY openAttachmentListCmd.label "Allegati">
+<!ENTITY openAttachmentListCmd.accesskey "l">
 <!ENTITY openFeedMessage1.label "Quando si aprono messaggi di feed">
 <!ENTITY openFeedMessage1.accesskey "Q">
 <!ENTITY openFeedWebPage.label "Aprila come pagina web">
