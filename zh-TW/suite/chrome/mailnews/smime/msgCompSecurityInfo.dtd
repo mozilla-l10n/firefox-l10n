@@ -12,8 +12,8 @@
 <!ENTITY status.certificates "憑證:">
 <!ENTITY view.label "檢視">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "收件回執:">
+<!ENTITY tree.recipient "收件者">
 <!ENTITY tree.status "狀態">
-<!ENTITY tree.issuedDate "發行日期:">
+<!ENTITY tree.issuedDate "發行日期">
 <!ENTITY tree.expiresDate "有效期限">
 
