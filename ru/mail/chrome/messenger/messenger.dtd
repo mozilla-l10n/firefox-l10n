@@ -663,9 +663,7 @@
 <!ENTITY contextKillThreadMenu.label "Пропустить обсуждение">
 <!ENTITY contextKillThreadMenu.accesskey "о">
 <!ENTITY contextKillSubthreadMenu.label "Пропустить ветку обсуждения">
-<!ENTITY contextKillSubthreadMenu.accesskey "п">
 <!ENTITY contextWatchThreadMenu.label "Отслеживать обсуждение">
-<!ENTITY contextWatchThreadMenu.accesskey "е">
 <!ENTITY contextSaveAs.label "Сохранить как…">
 <!ENTITY contextSaveAs.accesskey "С">
 <!ENTITY contextPrint.label "Распечатать…">
