@@ -42,7 +42,7 @@
 <!ENTITY btnConsoleErrors "Errori">
 <!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Avvisi">
-<!ENTITY btnConsoleLog "Registro">
+<!ENTITY btnConsoleLog "Log">
 <!ENTITY filterOutput.placeholder "Filtra messaggi">
 <!ENTITY btnClear.label "Cancella">
 <!ENTITY btnClear.tooltip "Cancella il contenuto della Console web">
