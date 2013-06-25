@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Tillåt att servern bestämmer">
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3Desc.label "När du hämtar e-post från denna POP-server, använd följande mapp för ny e-post:">
-<!ENTITY globalInbox.label "Global Inkorg (kontot Lokala mappar)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Inkorgen för denna servers konto">
 <!ENTITY accountDirectory.accesskey "d">
 <!ENTITY deferToServer.label "Inkorgen för ett annat konto">
