@@ -44,9 +44,9 @@
 <!ENTITY deleteMessage.label "刪除郵件">
 <!ENTITY deleteFromPOP.label "由 POP 伺服器刪除">
 <!ENTITY fetchFromPOP.label "由 POP 伺服器取得">
-<!ENTITY ignoreThread.label "忽略主題">
+<!ENTITY ignoreThread.label "忽略討論串">
 <!ENTITY ignoreSubthread.label "忽略回覆討論串">
-<!ENTITY watchThread.label "追蹤主題">
+<!ENTITY watchThread.label "追蹤討論串">
 <!ENTITY stopExecution.label "停止篩選">
 
 <!ENTITY addAction.tooltip "新增動作">

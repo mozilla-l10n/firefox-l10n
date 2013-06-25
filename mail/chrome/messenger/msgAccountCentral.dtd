@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "消息來源">
 <!ENTITY subscribeFeeds.label         "管理訂閱">
 
+<!ENTITY chat.label                   "聊天">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "帳號">
 <!ENTITY subscribeImapFolders.label   "管理訂閱目錄">
 <!ENTITY settingsLink.label           "檢視設定">
 <!ENTITY newAcctLink.label            "新增帳號">
+<!ENTITY newAcct.label                "建立新帳號:">
 
 <!ENTITY advFeaturesSectionHdr.label  "進階功能">
 <!ENTITY searchMsgsLink.label         "搜尋郵件">
