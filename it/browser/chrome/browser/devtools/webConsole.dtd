@@ -43,7 +43,7 @@
 <!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Avvisi">
 <!ENTITY btnConsoleLog "Registro">
-<!ENTITY filterOutput.placeholder "Filtra output">
+<!ENTITY filterOutput.placeholder "Filtra messaggi">
 <!ENTITY btnClear.label "Cancella">
 <!ENTITY btnClear.tooltip "Cancella il contenuto della Console web">
 <!ENTITY btnClear.accesskey "a">
