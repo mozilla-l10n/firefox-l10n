@@ -424,7 +424,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
-<!ENTITY openConversationCmd.accesskey "h">
+<!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Anhänge">
 <!ENTITY openAttachmentListCmd.accesskey "h">
