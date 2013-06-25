@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
 <!ENTITY  crash_message2 "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的開始頁。">
-<!ENTITY  crash_send_report_message2 "告訴 Mozilla 這次錯誤的資訊，讓我們修正">
+<!ENTITY  crash_send_report_message3 "告訴 &vendorShortName; 這次錯誤的資訊，讓他們修正">
 <!ENTITY  crash_include_url2 "包含我所瀏覽的頁面網址">
 <!ENTITY  crash_sorry "很抱歉">
 <!ENTITY  crash_comment "加上附註 (附註是大家都看得到的)">
-<!ENTITY  crash_allow_contact "允許 Mozilla 連絡我關於這份報告的進一步消息">
+<!ENTITY  crash_allow_contact2 "允許 &vendorShortName; 聯絡我關於此報告的進一步資訊">
 <!ENTITY  crash_email "您的電子郵件地址">
 <!ENTITY  crash_closing_alert "不傳送錯誤報告就離開？">
 <!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "已加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 <!ENTITY bookmark_updated "已更新書籤">
+<!ENTITY bookmark_options "選項">
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom2 "捏放手指後重排文字">
+<!ENTITY pref_reflow_on_zoom3 "雙擊以重排文字">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
+<!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
 <!ENTITY datareporting_notification_action "選擇要分享的項目">
 <!ENTITY datareporting_notification_summary "&brandShortName; 會自動傳送某些資訊到 &vendorShortName; 以改善您的使用體驗。">
 <!ENTITY datareporting_notification_summary_short "為了改善您的使用體驗，&brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康檢查報告">
-<!ENTITY datareporting_fhr_summary "幫助您瞭解您瀏覽器的效能，並將瀏覽器的健康資料分享給 &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "與 &vendorShortName; 分享您瀏覽器的健康狀況，幫助您了解您的瀏覽器效能">
+<!ENTITY datareporting_abouthr_title "檢視我的健康檢查報告">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤回報，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; 錯誤回報員">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
+<!ENTITY datareporting_wifi_title "&vendorShortName; 地理位置服務">
+<!ENTITY datareporting_wifi_summary "請透過讓 &brandShortName; 取得並匿名地傳送數據網路的基地台資料，幫助我們改善開放網路的地理位置">
 
 <!ENTITY pref_update_autodownload "自動更新">
 <!ENTITY pref_update_autodownload_wifi "僅透過 Wi-Fi 連線">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; 已封鎖了不安全的內容。">
+<!ENTITY blocked_mixed_content_message_bottom "大部分的網站在此內容被封鎖時還是能正常使用。">
+<!ENTITY learn_more "更多資訊">
+<!ENTITY enable_protection "啟用保護">
+<!ENTITY disable_protection "停用保護　">
+<!ENTITY keep_blocking "保持封鎖">
 
 <!ENTITY private_data_success "已清除隱私資料">
 <!ENTITY private_data_fail "無法清除某些隱私資料">

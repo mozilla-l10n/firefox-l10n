@@ -323,13 +323,13 @@
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveCopyMsgRecentMenu.label "最近">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY killThreadMenu.label "忽略主題">
+<!ENTITY killThreadMenu.label "忽略討論串">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "忽略回覆討論串">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "追蹤主題">
+<!ENTITY watchThreadMenu.label "追蹤討論串">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "存入此處">
