@@ -277,3 +277,7 @@
 <!ENTITY calendar.error.code "Código de error:">
 <!ENTITY calendar.error.description "Descripción:">
 <!ENTITY calendar.error.title "Ha ocurrido un error">
+<!ENTITY calendar.extract.event.button "Añadir como evento">
+<!ENTITY calendar.extract.task.button "Añadir como tarea">
+<!ENTITY calendar.extract.event.button.tooltip "Extraer información de calendario del mensaje y añadirla a su calendario como un evento">
+<!ENTITY calendar.extract.task.button.tooltip "Extraer información de calendario del mensaje y añadirla a su calendario como una tarea">
