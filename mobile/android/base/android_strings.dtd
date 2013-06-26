@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Cambiar a la pestaña">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha tenido un problema y ha fallado. Sus pestañas se listarán en la página de inicio de &brandShortName; cuando reinicie.">
-<!ENTITY crash_send_report_message2 "Decir a Mozilla que ha habido un fallo para que puedan arreglarlo">
+<!ENTITY crash_send_report_message3 "Informar a &vendorShortName; sobre este cuelgue para que puedan arreglarlo">
 <!ENTITY crash_include_url2 "Incluir la dirección de la página en la que estaba">
 <!ENTITY crash_sorry "Lo sentimos">
 <!ENTITY crash_comment "Añadir un comentario (estos son visibles públicamente)">
-<!ENTITY crash_allow_contact "Permitir a Mozilla contactarme sobre este informe">
+<!ENTITY crash_allow_contact2 "Permitir a &vendorShortName; contactar conmigo sobre este informe">
 <!ENTITY crash_email "Su correo">
 <!ENTITY crash_closing_alert "¿Salir sin enviar el informe de fallo?">
 <!ENTITY sending_crash_report "Enviando informe de fallo\u2026">
@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
+<!ENTITY bookmark_options "Opciones">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
 <!ENTITY history_week_section "Hace 7 días">
@@ -77,7 +78,7 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
-<!ENTITY pref_reflow_on_zoom2 "Pellizcar para reformatear el texto">
+<!ENTITY pref_reflow_on_zoom3 "Pulse 2 veces para reformatear texto">
 <!ENTITY pref_font_size_tiny "Diminuto">
 <!ENTITY pref_font_size_small "Pequeño">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -100,15 +101,20 @@
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
 <!ENTITY datareporting_notification_title "&brandShortName; estadísticas y datos">
+<!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_action "Elegir qué compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para mejorar su experiencia, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de éste">
+<!ENTITY datareporting_fhr_summary "Comparte datos con &vendorShortName; sobre la salud de su navegador y le ayuda a entender el rendimiento de éste">
+<!ENTITY datareporting_abouthr_title "Ver mi informe de salud">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a crear un navegador más estable y seguro">
-<!ENTITY datareporting_crashreporter_title "Agente de informe de fallos de &brandShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
+<!ENTITY datareporting_wifi_title "Servicios de localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Ayude a mejorar los servicios de geolocalización para la web abierta permitiendo a &brandShortName; recopilar y enviar datos anónimos de las torres celulares">
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Desactivadas">
@@ -198,6 +204,13 @@
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_run_by "que pertenece a">
+<!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
+<!ENTITY learn_more "Saber más">
+<!ENTITY enable_protection "Activar protección">
+<!ENTITY disable_protection "Desactivar protección">
+<!ENTITY keep_blocking "Continuar bloqueando">
 <!ENTITY private_data_success "Datos privados limpiados">
 <!ENTITY private_data_fail "Algunos datos privados no pueden ser limpiados">
 <!ENTITY bookmarkhistory_button_import "Importar">
