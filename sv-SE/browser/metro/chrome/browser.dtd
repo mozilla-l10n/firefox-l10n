@@ -10,6 +10,8 @@
 <!ENTITY newtab.label          "Ny flik">
 <!ENTITY closetab.label        "Stäng flik">
 
+<!ENTITY appbarErrorConsole.label   "Öppna felkonsol">
+<!ENTITY appbarJSShell.label        "Öppna JavaScript-skal">
 <!ENTITY appbarFindInPage2.label    "Sök på sidan">
 <!ENTITY appbarViewOnDesktop2.label "Visa på skrivbordet">
 
