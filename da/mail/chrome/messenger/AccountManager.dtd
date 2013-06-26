@@ -11,6 +11,8 @@
 <!ENTITY addOtherAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Tilføj Chat-konto…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Tilføj feedkonto…">
+<!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY setDefaultButton.label "Vælg som standard">
 <!ENTITY setDefaultButton.accesskey "s">
 <!ENTITY removeButton.label "Fjern konto">
@@ -24,7 +26,7 @@
      1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
-     this window for en-US. 
+     this window for en-US.
 	 -->
 <!ENTITY accountManager.size "width: 115ch; height: 55em;">
 <!ENTITY accountTree.width "width: 35ch;">

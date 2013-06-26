@@ -9,10 +9,17 @@
 <!ENTITY newsSectionHdr.label "Nyhedsgrupper">
 <!ENTITY subscribeNewsLink.label "Håndter abonnementer på nyhedsgrupper">
 
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Håndter abonnementer">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label "Konti">
 <!ENTITY subscribeImapFolders.label "Håndter abonnementer på mapper">
 <!ENTITY settingsLink.label "Vis indstillinger for denne konto">
 <!ENTITY newAcctLink.label "Opret en ny konto">
+<!ENTITY newAcct.label  "Opret en ny konto:">
 
 <!ENTITY advFeaturesSectionHdr.label "Avancerede">
 <!ENTITY searchMsgsLink.label "Søg i meddelelser">
@@ -20,5 +27,4 @@
 <!ENTITY junkSettings.label "Indstillinger for spam">
 <!ENTITY offlineLink.label "Offline-indstillinger">
 
-<!ENTITY feedsSectionHdr.label        "Feeds">
-<!ENTITY subscribeFeeds.label         "Håndter abonnementer">
+

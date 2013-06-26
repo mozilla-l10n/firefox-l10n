@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Tillad serveren at se bort fra disse navneområder">
 <!ENTITY overrideNamespaces.accesskey "n">
 <!ENTITY pop3Desc.label "Når der hentes POP3-meddelelser fra denne server, så benyt følgende mapper:">
-<!ENTITY globalInbox.label "Global indbakke (kontoen Lokale mapper)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Indbakke for denne servers konto">
 <!ENTITY accountDirectory.accesskey "I">
 <!ENTITY deferToServer.label "Indbakke for en anden konto">

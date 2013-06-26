@@ -2,25 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Til ">
-<!ENTITY fromField3.label "Fra ">
-<!ENTITY senderField3.label "Afsender ">
-<!ENTITY organizationField3.label "Organisation ">
-<!ENTITY replyToField3.label "Svar til ">
+<!ENTITY toField4.label "Til">
+<!ENTITY fromField4.label "Fra">
+<!ENTITY senderField4.label "Afsender">
+<!ENTITY organizationField4.label "Organisation">
+<!ENTITY replyToField4.label "Svar til">
 
-<!ENTITY subjectField3.label "Emne ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Nyhedsgrupper ">
-<!ENTITY followupToField3.label "Opfølgning til ">
-<!ENTITY tagsHdr3.label "Mærkater ">
-<!ENTITY dateField3.label "Dato ">
-<!ENTITY userAgentField3.label "Mailprogram ">
-<!ENTITY referencesField3.label "Referencer ">
-<!ENTITY messageIdField3.label "Meddelelses-id ">
-<!ENTITY inReplyToField3.label "Svar på ">
-<!ENTITY originalWebsite3.label "Webside ">
+<!ENTITY subjectField4.label "Emne">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Nyhedsgrupper">
+<!ENTITY followupToField4.label "Opfølgning til">
+<!ENTITY tagsHdr4.label "Mærkater">
+<!ENTITY dateField4.label "Dato">
+<!ENTITY userAgentField4.label "Mailprogram">
+<!ENTITY referencesField4.label "Referencer">
+<!ENTITY messageIdField4.label "Meddelelses-ID">
+<!ENTITY inReplyToField4.label "Svar på">
+<!ENTITY originalWebsite4.label "Websted">
 
 <!ENTITY editMessageDescription.label "Denne meddelelse er en kladde">
 <!ENTITY editMessageButton.label "Rediger…">
@@ -35,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svar til diskussionsliste">
 <!ENTITY hdrFollowupButton1.label "Opfølgning">
 <!ENTITY hdrFollowupButton1.tooltip "Send opfølgning til denne nyhedsgruppe">
+<!ENTITY hdrMenuForwardButton.label "Videresend som">
 <!ENTITY hdrForwardButton1.label "Videresend">
 <!ENTITY hdrForwardButton1.tooltip "Videresend denne meddelelse">
 <!ENTITY hdrJunkButton1.label "Spam">
