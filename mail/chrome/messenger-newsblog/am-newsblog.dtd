@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "管理訂閱清單…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
+<!ENTITY feedWindowTitle.label "資訊來源帳號精靈">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "部落格與新聞來源">
 <!ENTITY feeds.wizardShortName "消息來源">

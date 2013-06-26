@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; 可以警示您有關正在檢視的網頁的安全性狀態。設定 &brandShortName; 在遇到下列情形時警告並詢問:">
 <!ENTITY warn.enteringsecure                "載入支援加密的網頁中">
