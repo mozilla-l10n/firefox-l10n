@@ -8,7 +8,6 @@
 <!ENTITY showAlertFor.label "Mostrar una alerta durante">
 <!ENTITY showAlertFor.accesskey "d">
 <!ENTITY showAlertTimeEnd.label "segundos">
-<!ENTITY showAlertTimeEnd.accesskey "n">
 <!ENTITY showAlertPreviewText.label "Mostrar una vista preliminar del texto del mensaje">
 <!ENTITY showAlertPreviewText.accesskey "o">
 <!ENTITY showAlertSubject.label "Mostrar el asunto">
