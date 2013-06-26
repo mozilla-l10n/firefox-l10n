@@ -11,6 +11,7 @@
 <!ENTITY useQuickMode.accesskey "M">
 <!ENTITY manageSubscriptions.label "Administrar suscripciones…">
 <!ENTITY manageSubscriptions.accesskey "A">
+<!ENTITY feedWindowTitle.label "Asistente de cuenta de canales web">
 <!ENTITY feeds.accountName "Canales de Blogs y Noticias">
 <!ENTITY feeds.wizardShortName "Canales">
 <!ENTITY feeds.wizardLongName "Canales de Blogs y Noticias">

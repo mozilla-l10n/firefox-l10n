@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Al descargar el correo pop de este servidor, usar esta carpeta para el correo nuevo:">
-<!ENTITY globalInbox.label "Bandeja de entrada global (Carpetas locales)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Bandeja de entrada para la cuenta de este servidor">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Bandeja de entrada para una cuenta distinta">
