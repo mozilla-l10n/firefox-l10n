@@ -78,8 +78,6 @@
 <!ENTITY examineCert.label "Voir le certificat">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Veuillez demander de l'aide à votre administrateur">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Génération d'une clé privée">
 <!ENTITY createCertInfo.msg1 "Génération de la clé en cours… Cette opération peut prendre plusieurs minutes…">

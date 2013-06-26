@@ -123,8 +123,6 @@
 <!ENTITY certs.ask.accesskey             "m">
 <!ENTITY viewCerts.label                 "Afficher les certificats">
 <!ENTITY viewCerts.accesskey             "A">
-<!ENTITY viewCRLs.label                  "Listes de révocation">
-<!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Périphériques de sécurité">
