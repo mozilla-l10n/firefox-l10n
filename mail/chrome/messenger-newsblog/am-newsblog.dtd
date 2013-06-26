@@ -5,12 +5,19 @@
 <!ENTITY biffStart.label "Kontroller for nye artikler hvert">
 <!ENTITY biffStart.accesskey "o">
 <!ENTITY biffEnd.label "minut">
+
 <!ENTITY loginAtStartup.label "Søg efter nye artikler ved opstart">
 <!ENTITY loginAtStartup.accesskey "S">
+
 <!ENTITY useQuickMode.label "Vis artikeltekst i stedet for at hente webside">
 <!ENTITY useQuickMode.accesskey "V">
+
 <!ENTITY manageSubscriptions.label "Håndter abonnementer…">
 <!ENTITY manageSubscriptions.accesskey "H">
+
+<!ENTITY feedWindowTitle.label "Guiden Feed-konto">
+
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Feeds &amp; blogs">
 <!ENTITY feeds.wizardShortName "Feeds">
 <!ENTITY feeds.wizardLongName "Feeds &amp; blogs">
