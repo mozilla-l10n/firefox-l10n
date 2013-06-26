@@ -548,7 +548,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "Svar til afsenderen og alle modtagerne">
 <!ENTITY replyListButton.tooltip "Svar til mailingliste">
 <!ENTITY forwardButton.tooltip "Videresend den valgte meddelelse">
-<!ENTITY forwardAsInline.tooltip "Videresend den markerede meddelelse som inline-tekst">
+<!ENTITY forwardAsInline.tooltip "Videresend den markerede meddelelse som en del af selve meddelelsen">
 <!ENTITY forwardAsAttachment.tooltip "Videresend dem markerede meddelelse som en vedhæftet fil">
 <!ENTITY fileButton.tooltip "Gem den valgte meddelelse">
 <!ENTITY archiveButton.tooltip "Arkiver valgte meddelelser">
