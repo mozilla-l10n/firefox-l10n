@@ -11,7 +11,7 @@
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Grupos de noticias">
-<!ENTITY followupToField4.label "Followup to">
+<!ENTITY followupToField4.label "Continuación en">
 <!ENTITY tagsHdr4.label "Etiquetas">
 <!ENTITY dateField4.label "Fecha">
 <!ENTITY userAgentField4.label "Agente de usuario">

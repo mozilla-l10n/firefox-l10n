@@ -663,9 +663,7 @@
 <!ENTITY contextKillThreadMenu.label "Ignorar conversación">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar sub-conversación">
-<!ENTITY contextKillSubthreadMenu.accesskey "S">
 <!ENTITY contextWatchThreadMenu.label "Observar conversación">
-<!ENTITY contextWatchThreadMenu.accesskey "Observar conversación">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
