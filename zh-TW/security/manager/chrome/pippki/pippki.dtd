@@ -76,8 +76,6 @@
 <!ENTITY examineCert.label "檢視憑證">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "請尋求您的系統管理者協助">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "產生私密金鑰">
 <!ENTITY createCertInfo.msg1 "製造金鑰中… 請稍待幾分鐘…">

@@ -140,20 +140,23 @@ size. -->
 <!ENTITY datareporting_notification_summary_short "為了改善您的使用體驗，&brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康檢查報告">
-<!ENTITY datareporting_fhr_summary "幫助您瞭解您瀏覽器的效能，並將瀏覽器的健康資料分享給 &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "與 &vendorShortName; 分享您瀏覽器的健康狀況，幫助您了解您的瀏覽器效能">
+<!ENTITY datareporting_abouthr_title "檢視我的健康檢查報告">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤回報，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
+<!ENTITY datareporting_wifi_title "&vendorShortName; 地理位置服務">
+<!ENTITY datareporting_wifi_summary "請讓 &brandShortName; 取得並匿名地傳送數據網路的基地台資料，幫助我們改善開放網路的地理位置">
 
 <!ENTITY pref_update_autodownload "自動更新">
 <!ENTITY pref_update_autodownload_wifi "僅透過 Wi-Fi 連線">
@@ -285,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "此網站擁有者：">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; 已封鎖了不安全的內容。">
+<!ENTITY blocked_mixed_content_message_bottom "大部分的網站在此內容被封鎖時還是能正常使用。">
+<!ENTITY learn_more "更多資訊">
+<!ENTITY enable_protection "啟用保護">
+<!ENTITY disable_protection "停用保護">
+<!ENTITY keep_blocking "保持封鎖">
 
 <!ENTITY private_data_success "已清除隱私資料">
 <!ENTITY private_data_fail "無法清除某些隱私資料">

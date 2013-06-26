@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "新增聊天帳號…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "新增資訊來源帳號…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "新增其他帳號…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "設為預設帳號">

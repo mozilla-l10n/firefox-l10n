@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "尋找及取代…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "找下一個">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">

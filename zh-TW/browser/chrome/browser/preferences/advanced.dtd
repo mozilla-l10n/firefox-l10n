@@ -130,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "檢視憑證清單">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "廢止清單">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "驗證">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "安全裝置">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "到">
+<!ENTITY toField4.label "給">
 <!ENTITY fromField4.label "從">
 <!ENTITY senderField4.label "寄件者">
 <!ENTITY organizationField4.label "組織">
