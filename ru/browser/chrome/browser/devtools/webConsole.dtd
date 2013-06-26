@@ -29,16 +29,16 @@
 <!ENTITY btnPageNet.accesskeyMacOSX "е">
 <!ENTITY btnPageCSS.label "CSS">
 <!ENTITY btnPageCSS.tooltip "Вести лог ошибок парсинга CSS">
-<!ENTITY btnPageCSS.accesskey "с">
+<!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Вести лог исключений JavaScript">
-<!ENTITY btnPageJS.accesskey "и">
+<!ENTITY btnPageJS.accesskey "J">
 <!ENTITY btnPageSecurity.label "Защита">
 <!ENTITY btnPageSecurity.tooltip "Вести лог ошибок и предупреждений защиты">
-<!ENTITY btnPageSecurity.accesskey "о">
+<!ENTITY btnPageSecurity.accesskey "и">
 <!ENTITY btnPageLogging.label "Журнал">
 <!ENTITY btnPageLogging.tooltip "Сообщения лога отправленные в объект window.console">
-<!ENTITY btnPageLogging.accesskey "я">
+<!ENTITY btnPageLogging.accesskey "а">
 <!ENTITY btnConsoleErrors "Ошибки">
 <!ENTITY btnConsoleInfo "Инфо">
 <!ENTITY btnConsoleWarnings "Предупреждения">
