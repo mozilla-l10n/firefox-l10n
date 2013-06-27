@@ -723,9 +723,7 @@
 <!ENTITY contextCopyMsgMenu.label "Copier vers">
 <!ENTITY contextCopyMsgMenu.accesskey "c">
 <!ENTITY contextKillThreadMenu.label "Ignorer le sujet">
-<!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorer le sous-sujet">
-<!ENTITY contextKillSubthreadMenu.accesskey "S">
 <!ENTITY contextWatchThreadMenu.label "Surveiller le sujet">
 <!ENTITY contextWatchThreadMenu.accesskey "j">
 <!ENTITY contextSaveAs.label "Enregistrer comme…">
