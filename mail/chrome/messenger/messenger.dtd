@@ -573,7 +573,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "Videresend Inline">
+<!ENTITY buttonMenuForwardAsInline.label "Videresend som en del af meddelelsen">
 <!ENTITY buttonMenuForwardAsAttachment.label "Videresend som vedhæftet fil">
 
 <!-- AppMenu Popup -->
@@ -715,8 +715,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsMenu.label "Videresend som">
 <!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "Inline">
-<!ENTITY contextForwardAsInline.accesskey "i">
+<!ENTITY contextForwardAsInline.label "En del af selve meddelelsen">
+<!ENTITY contextForwardAsInline.accesskey "d">
 <!ENTITY contextForwardAsAttachmentItem.label "Vedhæftet fil">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Videresend som vedhæftede filer">
