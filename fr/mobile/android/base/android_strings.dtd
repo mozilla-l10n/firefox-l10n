@@ -66,20 +66,33 @@
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
+<!ENTITY pref_category_customize "Personnalisation">
+<!ENTITY pref_category_display "Affichage">
+<!ENTITY pref_category_privacy_short "Vie privée">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Données collectées">
+
+<!-- collected old strings - remove after determining final strings
+     as part of Bug 877791 -->
 <!ENTITY pref_category_general "Général">
 <!ENTITY pref_category_privacy "Vie privée et sécurité">
 <!ENTITY pref_category_content "Contenu">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_category_datareporting "Données collectées">
-<!ENTITY pref_about_firefox "À propos de &brandShortName;">
-<!ENTITY pref_remember_signons "Enreg. les mots de passe">
-
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Général">
 <!ENTITY pref_header_privacy "Vie privée et sécurité">
 <!ENTITY pref_header_content "Contenu">
+<!-- end of old strings -->
+
+<!ENTITY pref_remember_signons "Enreg. les mots de passe">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Personnalisation">
+<!ENTITY pref_header_display "Affichage">
+<!ENTITY pref_header_privacy_short "Vie privée">
+<!ENTITY pref_header_help "Aide">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Autorisés">
@@ -131,6 +144,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Données de site web hors connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
 <!ENTITY pref_private_data_downloadFiles "Fichiers téléchargés">
+
+
+<!ENTITY pref_about_firefox "À propos de &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_feedback "Donner votre avis">
 
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "choisir ce que j\u0027envoie">
