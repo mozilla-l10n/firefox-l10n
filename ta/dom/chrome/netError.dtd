@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "உலாவியால் குறிப்பிட்ட இணையதளத்துடன் இணைக்க முடியவில்லை. இதற்கு காரணம் குறிப்பிட்ட தளம் உங்கள் கணினியிலிருந்து இணைப்பை ஏற்காது. சேவை இல்லை அல்லது குறிப்பிட்ட சேவை அல்லது போர்ட்டை இணைக்க ஆதரவு இல்லை.">
 
 <!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
-<!ENTITY deniedPortAccess.longDesc "[p]The requested address specified a port (e.g. [q]mozilla.org:80[/q] for port 80 on mozilla.org) normally used for purposes [em]other[/em] than Web browsing. The browser has canceled the request for your protection and security.[/p]">
+<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
 
 <!ENTITY dnsNotFound.title "முகவரியை காணவில்லை பிழை">
 <!ENTITY dnsNotFound.longDesc "வலைமனை முகவரி (URL) குறிப்பிட்ட இணைய பக்கத்துடன் தொடர்புடையதல்ல. ஒருவேலை முகவரியை உள்ளிடுகையில் எழுத்து பிழை நேர்ந்திருக்கலாம் அல்லது இப்படி ஒரு இணைய தளம் இல்லாமல் இருக்கலாம். முகவரி சரியாக இருந்தால், நீங்கள் ப்ராக்ஸி சேவகனை பயன்படுத்தினால் ப்ராக்ஸி பிழையாக இருக்கலாம் அல்லது directory name service lookup பிழையாக இருக்கலாம். இதற்கு உங்கள் கணினி மேலாளர் ஆவணங்கள், இணைய சேவை தரும் நிறுவனம் இவைகளை அணுகவும்(ISP). ">
@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "பக்கத்தை ஏற்ற முடியவில்லை காரணம் பக்கம் இல்லை அல்லது குறிப்பிட்ட இடம் தவறு.<br/>வலைமனை முகவரி (URL) தவறான வடிவில் உள்ளது.">
 
 <!ENTITY malformedURI.title "செல்லாத முகவரி பிழை">
-<!ENTITY malformedURI.longDesc "வலைமனை முகவரி (URL) செல்லாதவடிவில் உள்ளதால் படிக்க முடியவில்லை. முகவரி &quot;http://&quot;,  என துவங்க வேண்டும் பின் (e.g. www.netscape.com), பாதையை உள்ளிட வேண்டும் (or just &quot;/&quot;). பொதுவாக முன் சாய்கோடிற்கு பதிலாக(/) முன் சாய்கோட்டை பயன்படுத்துவதே (\) இதற்கு காரணம்.">
+<!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
 
 <!ENTITY netInterrupt.title "தரவு பரிமாற்ற தடங்கல்">
 <!ENTITY netInterrupt.longDesc "[p]The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.[/p][ul][li]Are you unable to browse other sites? Check the computer's network connection.[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
@@ -52,10 +52,10 @@
 <!ENTITY protocolNotFound.longDesc "வலைமனை (URL) துவக்கிய நெறிமுறை பெயரை புரிந்துகொள்ள முடியவில்லை.  நெறிமுறை என்பது வலைமனை முகவரியின் துவக்கம் உதாரணமாக http: அல்லது ftp: .இது உலாவி இணையத்துடன் எவ்வாறு தொடர்புகொள்ள வேண்டும் என்பதை குறிக்கும். இந்த குறிப்பிட்ட நிகழ்வில், நெறிமுறை தெரியாததால் பக்கத்தை ஏற்ற முடியவில்லை. முகவரி சரியாக உள்ளிடப்பட்டதா என சோதிக்கவும்.">
 
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
-<!ENTITY proxyConnectFailure.longDesc "[p]The browser is configured to use a proxy server, but the proxy refused a connection.[/p][ul][li]Is the browser's proxy configuration correct? Check the settings and try again.[/li][li]Does the proxy service allow connections from this network?[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
+<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-<!ENTITY proxyResolveFailure.longDesc "[p]The browser is configured to use a proxy server, but the proxy could not be found.[/p][ul][li]Is the browser's proxy configuration correct? Check the settings and try again.[/li][li]Is the computer connected to an active network?[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
+<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY redirectLoop.title "திசைமாற்றல் லூப் பிழை">
 <!ENTITY redirectLoop.longDesc "உலாவி நிறுத்தப்பட்டது. காரணம் வலைமனை தனக்குதானே திசைமாற்றிக்கொண்டிருப்பதால் கோரிக்கையை முடிக்க முடியவில்லை.">
