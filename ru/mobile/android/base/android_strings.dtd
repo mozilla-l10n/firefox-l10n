@@ -52,15 +52,23 @@
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
+<!ENTITY pref_category_customize "Настройка">
+<!ENTITY pref_category_display "Отображение">
+<!ENTITY pref_category_privacy_short "Приватность">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_category_general "Основные">
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
-<!ENTITY pref_category_datareporting "Выбор данных">
-<!ENTITY pref_about_firefox "О &brandShortName;">
-<!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_header_general "Основные">
 <!ENTITY pref_header_privacy "Приватность и защита">
 <!ENTITY pref_header_content "Содержимое">
+<!ENTITY pref_remember_signons "Запоминать пароли">
+<!ENTITY pref_header_customize "Настройка">
+<!ENTITY pref_header_display "Отображение">
+<!ENTITY pref_header_privacy_short "Приватность">
+<!ENTITY pref_header_help "Справка">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
@@ -100,6 +108,9 @@
 <!ENTITY pref_private_data_offlineApps "Данные автономных веб-сайтов">
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles "Загруженные файлы">
+<!ENTITY pref_about_firefox "О &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_feedback "Отправка отзыва">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
