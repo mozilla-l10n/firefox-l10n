@@ -27,6 +27,8 @@
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Reģistrēt pieprasījumu un atbilžu saturu">
 <!ENTITY saveBodies.accesskey "L">
+<!ENTITY btnPageLogging.accesskey "L">
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
