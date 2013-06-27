@@ -5,14 +5,22 @@
 <!ENTITY emailSectionHdr.label "Correio eletrónico">
 <!ENTITY readMsgsLink.label "Ler mensagens">
 <!ENTITY composeMsgLink.label "Escrever nova mensagem">
+
 <!ENTITY newsSectionHdr.label "Grupos de notícias">
 <!ENTITY subscribeNewsLink.label "Gerir subscrições de grupos de notícias">
+
 <!ENTITY feedsSectionHdr.label "Fontes">
 <!ENTITY subscribeFeeds.label "Gerir subscrições">
-<!ENTITY accountsSectionHdr.label "Contas">
-<!ENTITY subscribeImapFolders.label "Gerir pasta de subscrições">
-<!ENTITY settingsLink.label "Ver definições desta conta">
-<!ENTITY newAcctLink.label "Criar uma nova conta">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
+<!ENTITY accountsSectionHdr.label     "Contas">
+<!ENTITY subscribeImapFolders.label   "Gerir subscrições da pasta">
+<!ENTITY settingsLink.label           "Ver definições desta conta">
+<!ENTITY newAcctLink.label            "Criar uma nova conta">
+<!ENTITY newAcct.label                "Cria uma nova conta:">
+
 <!ENTITY advFeaturesSectionHdr.label "Configurações avançadas">
 <!ENTITY searchMsgsLink.label "Procurar mensagens">
 <!ENTITY filtersLink.label "Gerir filtros de mensagens">
