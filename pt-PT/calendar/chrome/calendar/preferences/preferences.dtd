@@ -3,14 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  prefWindow.titleWin     "Opções">
-<!ENTITY  prefWindow.titleGNOME   "Preferências do &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 49em; height: 37.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 51em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 49em; height: 37.5em;">
 
 <!ENTITY  paneGeneral.title       "Geral">
-<!ENTITY  paneAlarms.title        "Alarmes">
+<!ENTITY  paneAlarms.title        "Lembretes">
 <!ENTITY  paneCategories.title    "Categorias">
 <!ENTITY  paneViews.title         "Vistas">
-<!ENTITY  paneTimezones.title     "Fuso Horário">
-<!ENTITY  paneAdvanced.title      "Avançado">
+<!ENTITY  paneTimezones.title     "Fuso horário">
+
