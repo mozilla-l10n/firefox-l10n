@@ -11,13 +11,15 @@
 <!ENTITY addMailAccountButton.label "Ajouter un compte de messagerie…">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Ajouter un compte de messagerie instantanée…">
-<!ENTITY addIMAccountButton.accesskey "u">
+<!ENTITY addIMAccountButton.accesskey "m">
+<!ENTITY addFeedAccountButton.label "Ajouter un compte de flux…">
+<!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Ajouter un autre compte…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Compte par défaut">
-<!ENTITY setDefaultButton.accesskey "f">
+<!ENTITY setDefaultButton.accesskey "d">
 <!ENTITY removeButton.label "Supprimer le compte">
-<!ENTITY removeButton.accesskey "E">
+<!ENTITY removeButton.accesskey "S">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
