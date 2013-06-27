@@ -2,23 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Para ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Remetente ">
-<!ENTITY organizationField3.label "Organização ">
-<!ENTITY replyToField3.label "Responder para ">
-<!ENTITY subjectField3.label "Assunto ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Grupos de notícias ">
-<!ENTITY followupToField3.label "Reenviar para ">
-<!ENTITY tagsHdr3.label "Etiquetas ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "Agente ">
-<!ENTITY referencesField3.label "Referências ">
-<!ENTITY messageIdField3.label "ID da mensagem ">
-<!ENTITY inReplyToField3.label "Em resposta a ">
-<!ENTITY originalWebsite3.label "Sítio web ">
+<!ENTITY toField4.label "Para ">
+<!ENTITY fromField4.label "De ">
+<!ENTITY senderField4.label "Remetente ">
+<!ENTITY organizationField4.label "Organização ">
+<!ENTITY replyToField4.label "Responder para ">
+
+<!ENTITY subjectField4.label "Assunto ">
+<!ENTITY ccField4.label "Cc ">
+<!ENTITY bccField4.label "Bcc ">
+<!ENTITY newsgroupsField4.label "Grupos de notícias ">
+<!ENTITY followupToField4.label "Reenviar para ">
+<!ENTITY tagsHdr4.label "Etiquetas ">
+<!ENTITY dateField4.label "Data ">
+<!ENTITY userAgentField4.label "Agente">
+<!ENTITY referencesField4.label "Referências">
+<!ENTITY messageIdField4.label "ID da mensagem">
+<!ENTITY inReplyToField4.label "Em resposta a">
+<!ENTITY originalWebsite4.label "Sítio web">
+
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Arquivar">
@@ -39,6 +41,7 @@
 <!ENTITY hdrJunkButton1.tooltip "Marca esta mensagem como lixo eletrónico">
 <!ENTITY hdrTrashButton1.label "Eliminar">
 <!ENTITY hdrTrashButton1.tooltip "Eliminar esta mensagem">
+
 <!ENTITY hdrViewToolbarShowFull.label "Mostrar ícones e texto">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Mostrar apenas ícones">
@@ -47,6 +50,7 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "x">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostrar sempre Responder ao remetente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
 <!ENTITY otherActionsButton1.label "Outras ações">
 <!ENTITY otherActionsOpenConversation1.label "Abrir uma conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
@@ -85,7 +89,8 @@
 <!ENTITY detachAllAttachmentsCmd.label "Separar tudo...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "E">
 <!ENTITY deleteAllAttachmentsCmd.label "Eliminar tudo...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "L">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "l">
+
 <!ENTITY openAttachment.tooltip "Abrir ficheiro anexo">
 
 <!-- Attachment toolbar items -->
@@ -93,8 +98,10 @@
 <!ENTITY saveAttachmentButton1.tooltip "Guardar ficheiro anexo">
 <!ENTITY saveAllAttachmentsButton1.label "Guardar tudo">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Guardar todos os ficheiros em anexo">
+
 <!ENTITY copyLinkCmd.label "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey "p">
+
 <!ENTITY CopyMessageId.label "Copiar ID da mensagem">
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Abrir mensagem da ID">
