@@ -14,8 +14,8 @@
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY recentlyClosedTabsCmd.label "Separadores fechados recentemente">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
-
 <!ENTITY undoCloseTabCmd.commandkey "T">
+
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -132,7 +132,6 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personalizar...">
 <!ENTITY customizeToolbar.accesskey "P">
-
 <!ENTITY messagePaneLayoutStyle.label "Esquema">
 <!ENTITY messagePaneLayoutStyle.accesskey "u">
 <!ENTITY messagePaneClassic.label "Clássica">
@@ -144,8 +143,7 @@
 <!ENTITY showFolderPaneCmd.label "Painel de pastas">
 <!ENTITY showFolderPaneCmd.accesskey "s">
 <!ENTITY showMessageCmd.label "Painel de mensagens">
-<!ENTITY showMessageCmd.accesskey "m">
-
+<!ENTITY showMessageCmd.accesskey "P">
 <!ENTITY folderView.label "Pastas">
 <!ENTITY folderView.accesskey "A">
 <!ENTITY unifiedFolders.label "Unificadas">
@@ -220,7 +218,6 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "m">
 <!ENTITY ignoredThreadsCmd.label "Tópicos ignorados">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
-
 <!ENTITY headersMenu.label "Cabeçalhos">
 <!ENTITY headersMenu.accesskey "h">
 <!ENTITY headersAllCmd.label "Todos">
@@ -237,7 +234,6 @@
 <!ENTITY bodyAsPlaintext.accesskey "S">
 <!ENTITY bodyAllParts.label "Todas as partes do texto">
 <!ENTITY bodyAllParts.accesskey "A">
-
 <!ENTITY bodyMenuFeed.label "Texto da mensagem de fonte">
 <!ENTITY bodyMenuFeed.accesskey "n">
 <!ENTITY viewFeedWebPage.label "Página web">
@@ -246,10 +242,8 @@
 <!ENTITY viewFeedSummary.accesskey "m">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Formato pré-definido">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
-
 <!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos na mensagem">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-
 <!ENTITY pageSourceCmd.label "Origem da mensagem">
 <!ENTITY pageSourceCmd.accesskey "O">
 <!ENTITY pageSourceCmd.key "u">
@@ -484,9 +478,12 @@
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Definições de contas...">
 <!ENTITY accountManagerCmd.accesskey "c">
+
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "n">
+<!ENTITY allowRemoteDebugging.label "Permitir depuração remota">
+<!ENTITY allowRemoteDebugging.accesskey "d">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Obter correio">
@@ -535,6 +532,8 @@
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY replyListButton.tooltip "Responder à lista de correio">
 <!ENTITY forwardButton.tooltip "Reencaminhar mensagem selecionada">
+<!ENTITY forwardAsInline.tooltip "Reencaminhar mensagem selecionada como texto">
+<!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Selecione a mensagem">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY nextButton.tooltip "Ir para a mensagem seguinte não lida">
@@ -555,6 +554,10 @@
 <!ENTITY tagButton.tooltip "Classificar mensagens">
 <!ENTITY compactButton.tooltip "Remover  mensagens eliminadas da pasta selecionadas">
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reencaminhar como anexo">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
@@ -675,6 +678,7 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "j">
+
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
@@ -697,8 +701,14 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Reencaminhar">
 <!ENTITY contextForward.accesskey "e">
-<!ENTITY contextForwardAsAttachment.label "Anexo">
-<!ENTITY contextForwardAsAttachment.accesskey "A">
+<!ENTITY contextForwardAsMenu.label "Reencaminhar como">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Texto">
+<!ENTITY contextForwardAsInline.accesskey "x">
+<!ENTITY contextForwardAsAttachmentItem.label "Anexo">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Reencaminhar como anexos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mover para">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
@@ -715,27 +725,27 @@
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
    This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
- -->
+   customizations for the thread pane columns in this folder to their default. -->
 <!ENTITY columnPicker.resetToInbox.label "Restaurar colunas originais">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
    "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
    a desire to apply the currently displayed set of columns to some other
    folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
-  -->
+   a folder or also its children. -->
 <!ENTITY columnPicker.applyTo.label "Aplicar colunas para...">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
    "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
    apply the currently display thread pane column settings to a single folder
    that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
- -->
+   mechanism (via a series of popups). -->
 <!ENTITY columnPicker.applyToFolder.label "Pasta...">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -745,6 +755,7 @@
    move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Pasta e subpastas...">
+
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and
@@ -796,6 +807,7 @@
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
+
 <!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -806,12 +818,14 @@
      box will be collapsed and the user will never see this message.
      -->
 <!ENTITY search.label.base "Procurar #1">
+
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
