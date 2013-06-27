@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Permettre au serveur d'ignorer ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "o">
 <!ENTITY pop3Desc.label "Lorsque vous téléchargez du courrier via le protocole POP3 de ce serveur, utiliser les répertoires de Courrier entrant suivant :" >
-<!ENTITY globalInbox.label "Courrier entrant global (compte Dossiers locaux)">
-<!ENTITY globalInbox.accesskey "C">
 <!ENTITY accountDirectory.label "Courrier entrant de ce compte">
 <!ENTITY accountDirectory.accesskey "e">
 <!ENTITY deferToServer.label "Courrier entrant d'un autre compte">
