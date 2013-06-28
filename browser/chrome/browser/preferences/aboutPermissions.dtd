@@ -11,7 +11,7 @@
      example: "Permissions for mozilla.org" -->
 
 <!ENTITY header.site.start               "அனுமதிகள்">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "அனைத்து தளங்களுக்குமான முன்னிருப்பு அனுமதிகள்">
 

@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "தனிமை கொள்கை">
 <!ENTITY setup.tosAgree2.label      "நான்">
 <!ENTITY setup.ppLink.label         "ஏற்கிறேன்">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; உங்கள் தனியுரிமையில் அக்கறை கொண்டுள்ளது">

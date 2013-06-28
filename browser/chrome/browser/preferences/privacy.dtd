@@ -18,7 +18,7 @@
 
 <!ENTITY  locbar.pre.label              "இடப் பட்டையைப் பயன்படுத்தும் போது:">
 <!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
+
 <!ENTITY  locbar.both.label             "வரலாறு மற்றும் புத்தகக்குறிகள்">
 <!ENTITY  locbar.history.label          "வரலாறு">
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
@@ -51,7 +51,7 @@
 <!ENTITY  historyHeader.remember.label     "வரலாற்றை நினைவு கொள்">
 <!ENTITY  historyHeader.dontremember.label "வரலாற்றை ஒருபோதும் நினைவில் கொள்ளாதே">
 <!ENTITY  historyHeader.custom.label       "வரலாற்றுக்கு தனிபயன் அமைவுகளை பயன்படுத்து">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
