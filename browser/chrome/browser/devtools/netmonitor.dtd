@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY netmonitorUI.emptyNotice2        "Perform a request or reload the page to see detailed information about network activity.">
+<!ENTITY netmonitorUI.emptyNotice2        "Gofynnwch am neu ail lwythwch y dudalen i weld gwybodaeth fanwl am weithgaredd y rhwydwaith.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -65,7 +65,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterAll    "All">
+<!ENTITY netmonitorUI.footer.filterAll    "Popeth">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 

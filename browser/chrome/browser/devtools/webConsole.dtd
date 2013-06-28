@@ -43,9 +43,9 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
+<!ENTITY btnPageNet.label   "Gwe">
 <!ENTITY btnPageNet.tooltip "Cofnodi mynediad gwe">
-<!ENTITY btnPageNet.accesskey "N">
+<!ENTITY btnPageNet.accesskey "G">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
@@ -58,41 +58,41 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Cofnodi eithriadau JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "Security">
+<!ENTITY btnPageSecurity.label "Diogelwch">
 <!ENTITY btnPageSecurity.tooltip "Cofnodi gwallau a rhybuddion diogelwch">
-<!ENTITY btnPageSecurity.accesskey "S">
+<!ENTITY btnPageSecurity.accesskey "D">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
+<!ENTITY btnPageLogging.label   "Cofnodi">
 <!ENTITY btnPageLogging.tooltip "Anfonwyd negeseuon cofnod at gwrthrych window.console">
-<!ENTITY btnPageLogging.accesskey "L">
+<!ENTITY btnPageLogging.accesskey "o">
 <!ENTITY btnConsoleErrors       "Gwallau">
 <!ENTITY btnConsoleInfo         "Gwybodaeth">
 <!ENTITY btnConsoleWarnings     "Rhybuddion">
 <!ENTITY btnConsoleLog          "Cofnodi">
 
 <!ENTITY filterOutput.placeholder "Allbwn hidl">
-<!ENTITY btnClear.label        "Clear">
+<!ENTITY btnClear.label        "Clirio">
 <!ENTITY btnClear.tooltip      "Clirio allbwn y Consol Gwe">
-<!ENTITY btnClear.accesskey    "r">
+<!ENTITY btnClear.accesskey    "l">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY copyURLCmd.label     "Copïo Lleoliad Dolen">
 <!ENTITY copyURLCmd.accesskey "C">
 
 <!ENTITY closeCmd.key         "W">
-<!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCmd.key   "K">
+
+

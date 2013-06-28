@@ -25,11 +25,10 @@ i osod meddalwedd ar y cyfrifiadur hwn.">
 ddigon o le i'w osod.">
 <!ENTITY  manualUpdateGetMsg.label        "Mae modd cael y fersiwn diweddaraf o &brandShortName; yn:">
 
-<!ENTITY  unsupported.title               "System Unsupported">
-<!ENTITY  unsupported.label               "Your &brandShortName; is out of date, but the latest version is not
-                                           supported on your system. Please upgrade your system, then try again.
-                                           You will not see this notice again, but you can">
-<!ENTITY  unsupportedLink.label           "learn more.">
+<!ENTITY  unsupported.label               "Mae eich &brandShortName; yn hen, ond nid yw'r fersiwn diweddaraf yn
+cael ei gynnal ar eich system. Diweddarwch eich system, yna ceisiwch eto. 
+Fyddwch chi ddim yn gweld y rhybudd yma eto, ond mae modd i chi">
+<!ENTITY  unsupportedLink.label           "ddysgu rhagor.">
 
 <!ENTITY  incompatibleCheck.title         "Gwirio Cytunedd yr Ychwanegyn">
 <!ENTITY  incompatibleCheck.label         "Chwilio am fersiwn mwy diweddar o'ch ychwanegion…">

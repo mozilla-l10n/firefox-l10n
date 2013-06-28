@@ -23,8 +23,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Close Tabs to the Right">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+
 <!ENTITY  closeOtherTabs.label               "Cau Tabiau Eraill">
 <!ENTITY  closeOtherTabs.accesskey           "C">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -223,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Consol Gwe Pell">
 
 <!ENTITY browserConsoleCmd.label      "Browser Console">
-<!ENTITY browserConsoleCmd.commandkey "j">
+
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
@@ -522,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
 
 <!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 
 <!ENTITY fullZoomResetCmd.label         "Ailosod">
 <!ENTITY fullZoomResetCmd.accesskey     "i">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+
 
 <!ENTITY fullZoomToggleCmd.label        "Chwyddo'r Testun yn Unig">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
@@ -683,10 +682,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pointerLock.notification.message "Pwyswch ESC ar unrhyw adeg i'w ddangos eto.">
 
-<!ENTITY pluginNotification.showAll.label "Show All">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.label "Dangos Popeth">
+<!ENTITY pluginNotification.showAll.accesskey "P">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Allow Now">
-<!ENTITY pluginActivateAlways.label "Allow and Remember">
-<!ENTITY pluginBlockNow.label "Block Plugin">
+<!ENTITY pluginActivateNow.label "Caniatáu Nawr">
+<!ENTITY pluginActivateAlways.label "Caniatáu a Chofio">
+<!ENTITY pluginBlockNow.label "Rhwystro Ategyn">

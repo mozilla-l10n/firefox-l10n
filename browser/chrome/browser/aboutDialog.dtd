@@ -8,8 +8,6 @@
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Mae'n anfon gwybodaeth yn awtomatig am berfformiad, caledwedd, defnydd a chyfaddasu nôl i &vendorShortName; i helpu i wneud &brandShortName; yn well.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-
-<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "Mae &vendorShortName;">
 <!ENTITY community.exp.middle       " yn ">
@@ -28,7 +26,7 @@
 <!ENTITY contribute.start           "Diddorol? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Beth am ymuno!">
-<!ENTITY contribute.end             "">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Gwybodaeth Trwyddedu">
@@ -48,7 +46,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; is being updated by another instance">
+<!ENTITY update.otherInstanceHandlingUpdates "Mae &brandShortName; yn cael ei ddiweddaru gan enghraifft arall">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -57,14 +55,14 @@
 
 <!ENTITY update.failed.start        "Methodd y diweddaru. ">
 <!ENTITY update.failed.linkText     "Llwytho'r fersiwn diweddaraf i lawr">
-<!ENTITY update.failed.end          "">
+
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Diweddariadau ar gael yn ">
-<!ENTITY update.manual.end          "">
+
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -72,9 +70,9 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "You can not perform further updates on this system. ">
+<!ENTITY update.unsupported.start    "Nid oes modd diweddaru'r system hwn ymhellach. ">
 <!ENTITY update.unsupported.linkText "Dysgu rhagor">
-<!ENTITY update.unsupported.end      "">
+
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -82,7 +80,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Llwytho diweddariad i lawr — ">
-<!ENTITY update.downloading.end     "">
+
 
 <!ENTITY update.applying            "Gosod y diweddariad…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
