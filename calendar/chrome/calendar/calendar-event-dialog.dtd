@@ -146,6 +146,8 @@
 <!ENTITY event.location.accesskey "L">
 <!ENTITY event.categories.label "Categoria:">
 <!ENTITY event.categories.accesskey "i">
+<!ENTITY event.categories.textbox.label "Adicionar nova categoria" >
+<!ENTITY event.categories.textbox.accesskey "A">
 <!ENTITY event.calendar.label "Calendário:" >
 <!ENTITY event.calendar.accesskey "C">
 <!ENTITY event.attendees.label "Participantes:" >

@@ -315,3 +315,8 @@
 <!ENTITY calendar.error.code "Código do erro:">
 <!ENTITY calendar.error.description "Descrição:">
 <!ENTITY calendar.error.title "Ocorreu um erro">
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button "Adicionar como evento">
+<!ENTITY calendar.extract.task.button "Adicionar como tarefa">
+<!ENTITY calendar.extract.event.button.tooltip "Extrair informações da mensagem e adicionar ao calendário como evento">
+<!ENTITY calendar.extract.task.button.tooltip "Extrair informações da mensagem e adicionar ao calendário como evento">
