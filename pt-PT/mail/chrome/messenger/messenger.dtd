@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Conta de conversação...">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Conta de fontes...">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Contacto de conversação...">
 <!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
@@ -234,7 +236,7 @@
 <!ENTITY bodyAsPlaintext.accesskey "S">
 <!ENTITY bodyAllParts.label "Todas as partes do texto">
 <!ENTITY bodyAllParts.accesskey "A">
-<!ENTITY bodyMenuFeed.label "Texto da mensagem de fonte">
+<!ENTITY bodyMenuFeed.label "Texto da mensagem de fonte como">
 <!ENTITY bodyMenuFeed.accesskey "n">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "w">
@@ -244,8 +246,8 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 <!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos na mensagem">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY pageSourceCmd.label "Origem da mensagem">
-<!ENTITY pageSourceCmd.accesskey "O">
+<!ENTITY pageSourceCmd.label "Código fonte da mensagem">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
@@ -581,8 +583,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Obter mensagens">
 <!ENTITY folderContextGetMessages.accesskey "O">
-<!ENTITY folderContextOpenNewWindow.label "Abrir">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenInNewWindow.label "Abrir">
+<!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir em novo separador">
 <!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextNew.label "Nova subpasta...">
@@ -715,6 +717,10 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "c">
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Ignorar tópico">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
+<!ENTITY contextWatchThreadMenu.label "Monitorizar tópico">
 <!ENTITY contextSaveAs.label "Guardar como...">
 <!ENTITY contextSaveAs.accesskey "u">
 <!ENTITY contextPrint.label "Imprimir...">

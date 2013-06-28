@@ -7,7 +7,7 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Ficheiro">
-<!ENTITY fileMenu.accesskey "Ff">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mensagem">
@@ -88,6 +88,7 @@
 <!ENTITY findCmd.label "Localizar e substituir...">
 <!ENTITY findCmd.key "L">
 <!ENTITY findCmd.accesskey "L">
+<!ENTITY findReplaceCmd.key "n">
 <!ENTITY findAgainCmd.label "Localizar novamente">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "z">
