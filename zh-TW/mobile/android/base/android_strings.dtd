@@ -67,20 +67,33 @@
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
+<!ENTITY pref_category_customize "自訂">
+<!ENTITY pref_category_display "顯示">
+<!ENTITY pref_category_privacy_short "個人隱私">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "資料選擇">
+
+<!-- collected old strings - remove after determining final strings
+     as part of Bug 877791 -->
 <!ENTITY pref_category_general "一般">
 <!ENTITY pref_category_privacy "個人隱私與安全">
 <!ENTITY pref_category_content "內容">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_category_datareporting "資料選擇">
-<!ENTITY pref_about_firefox "關於 &brandShortName;">
-<!ENTITY pref_remember_signons "記住密碼">
-
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "一般">
 <!ENTITY pref_header_privacy "個人隱私與安全">
 <!ENTITY pref_header_content "內容">
+<!-- end of old strings -->
+
+<!ENTITY pref_remember_signons "記住密碼">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "自訂">
+<!ENTITY pref_header_display "顯示">
+<!ENTITY pref_header_privacy_short "個人隱私">
+<!ENTITY pref_header_help "說明">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "啟用">
@@ -132,6 +145,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
+
+
+<!ENTITY pref_about_firefox "關於 &brandShortName;">
+<!ENTITY pref_vendor_faqs "常見問題">
+<!ENTITY pref_vendor_feedback "提供意見回饋">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
 <!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
