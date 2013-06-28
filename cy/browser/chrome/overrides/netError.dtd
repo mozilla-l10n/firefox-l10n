@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Mae'r cyfeiriad wedi ei gyfyngu">
-<!ENTITY deniedPortAccess.longDesc "">
+
 
 <!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
 <!ENTITY dnsNotFound.longDesc "<ul> 

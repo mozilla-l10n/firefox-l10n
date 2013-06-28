@@ -21,8 +21,8 @@ cyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Update History">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Show Update History">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Hanes Diweddaru">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Dangos Hanes Diweddaru">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Cyfeiriadur Proffil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -65,7 +65,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Fersiynau Llyfrgell">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copïo testun i'r clipfwrdd">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copïo data bras i'r clipfwrdd">

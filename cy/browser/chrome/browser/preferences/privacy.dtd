@@ -18,7 +18,7 @@
 
 <!ENTITY  locbar.pre.label              "Pan yn defnyddio'r bar lleoliad, cynnig:">
 <!ENTITY  locbar.pre.accessKey          "P">
-<!ENTITY  locbar.post.label             "">
+
 <!ENTITY  locbar.both.label             "Hanes a Nodau Tudalen">
 <!ENTITY  locbar.history.label          "Hanes">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
@@ -51,7 +51,7 @@
 <!ENTITY  historyHeader.remember.label     "Cofio hanes">
 <!ENTITY  historyHeader.dontremember.label "Peidio cofio hanes">
 <!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau cyfaddasu ar gyfer hanes">
-<!ENTITY  historyHeader.post.label         "">
+
 
 <!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag gwefannau byddwch yn ymweld â nhw.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->

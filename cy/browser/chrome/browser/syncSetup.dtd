@@ -43,8 +43,8 @@
 <!ENTITY setup.tosLink.label        "Amodau Gwasanaeth">
 <!ENTITY setup.tosAgree2.label      "a'r">
 <!ENTITY setup.ppLink.label         "Polisi Preifatrwydd">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+
+
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "Mae &brandShortName; yn ofalus o'ch Preifatrwydd">

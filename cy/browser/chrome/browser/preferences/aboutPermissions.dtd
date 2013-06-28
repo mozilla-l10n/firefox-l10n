@@ -11,7 +11,7 @@
      example: "Permissions for mozilla.org" -->
 
 <!ENTITY header.site.start               "Caniatâd ar gyfer">
-<!ENTITY header.site.end                 "">
+
 
 <!ENTITY header.defaults                 "Caniatâd Rhagosodedig ar gyfer Pob Gwefan">
 
