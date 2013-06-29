@@ -2,21 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.warning.title "Mistenkt nettsvindel">
-
-<!ENTITY safeb.palm.message.p1 "Denne siden er rapportert som ein nettsvindel som er bygd for å lure brukarar til å dele personleg eller økonomisk informasjon. Dersom du skriv inn informasjon på denne nettstaden kan det føre til identitetstjuveri eller annan svindel. &#160;
-">
-<!ENTITY safeb.palm.message.p1.linkText "Les meir &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Les meir &#133;">
-
-<!ENTITY safeb.palm.message.p2.start "Desse typene nettsvindel vert brukt i svindelforsøk som phishing-åtak, der falske nettsider og e-postar vert brukt for å imitere kjelder som du stolar på. Du kan finne ut meir om   ">
-<!ENTITY safeb.palm.message.p2.linkText "korleis &brandShortName; vernar deg">
-<!ENTITY safeb.palm.message.p2.end " frå phishing-åtak.">
-
 <!ENTITY safeb.palm.accept.label "Få meg vekk herifrå!">
-<!ENTITY safeb.palm.accept.statustext "Gå til startsida">
 <!ENTITY safeb.palm.decline.label "Ignorer denne åtvaringa">
-<!ENTITY safeb.palm.decline.statustext "Lukk åtvaring" >
 <!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ein nettsvindel …">
 <!ENTITY safeb.palm.reportPage.label "Kvifor vart denne nettstaden blokkert?">
 

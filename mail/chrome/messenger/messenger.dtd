@@ -428,12 +428,12 @@
 <!ENTITY openConversationCmd.label "Opne i samtale">
 <!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Opne nyheitskjelde-melding">
-<!ENTITY openFeedMessage.accesskey "e">
-<!ENTITY openFeedWebPageInWindow.label "Nettside i nytt vindauge">
-<!ENTITY openFeedWebPageInWindow.accesskey "N">
-<!ENTITY openFeedSummaryInWindow.label "Oppsummering i nytt vindauge">
-<!ENTITY openFeedSummaryInWindow.accesskey "O">
+<!ENTITY openFeedMessage1.label "Ved opning av nyheitskjelde-melding">
+<!ENTITY openFeedMessage1.accesskey "e">
+<!ENTITY openFeedWebPage.label "Opne som nettside">
+<!ENTITY openFeedWebPage.accesskey "O">
+<!ENTITY openFeedSummary.label "Opne som oppsummering">
+<!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Byt mellom vising av nettside og oppsummering i meldingsvindauget">
 <!ENTITY openFeedWebPageInMP.accesskey "B">
 

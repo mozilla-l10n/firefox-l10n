@@ -7,7 +7,7 @@
 <!ENTITY searchHeading.accesskey     "ø">
 <!ENTITY searchSubfolders.label      "Søk i undermapper">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchOnServer.label        "Køyr søk på tenar">
+<!ENTITY searchOnServer.label        "Køyr søk på tenaren">
 <!ENTITY searchOnServer.accesskey    "K">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "S">
 <!ENTITY searchDialogTitle.label     "Søk i meldingar">
 <!ENTITY results.label               "Resultat">
-<!ENTITY fileHereMenu.label          "Arkiver her">
-<!ENTITY fileHereMenu.accesskey      "A">
-<!ENTITY fileButton.label            "Fil">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveHereMenu.label          "Flytt hit">
+<!ENTITY moveHereMenu.accesskey      "F">
+<!ENTITY moveButton.label            "Flytt til">
+<!ENTITY moveButton.accesskey        "t">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Opne i mappa">
 <!ENTITY openInFolder.accesskey      "m">
@@ -47,7 +47,7 @@
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Størrelse">
-<!ENTITY junkStatusColumn.label "uønskt">
+<!ENTITY junkStatusColumn.label "Uønskt">
 <!ENTITY unreadColumn.label "Ikkje lese">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lese">
