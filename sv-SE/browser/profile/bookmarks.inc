@@ -15,7 +15,7 @@
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/sv-SE/firefox/central/
-#define getting_started Getting Started
+#define getting_started Kom igång
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
@@ -23,18 +23,18 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/sv-SE/firefox/help/
-#define firefox_help Help and Tutorials
+#define firefox_help Hjälp och vägledning
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/sv-SE/firefox/customize/
-#define firefox_customize Customize Firefox
+#define firefox_customize Anpassa Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/sv-SE/contribute/
-#define firefox_community Get Involved
+#define firefox_community Engagera dig
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/sv-SE/about/
-#define firefox_about About Us
+#define firefox_about Om oss
 
 #unfilter emptyLines
