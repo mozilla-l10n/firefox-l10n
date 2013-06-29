@@ -214,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "คอนโซลข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey    "ค">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "คอนโซลเว็บระยะไกล">
 

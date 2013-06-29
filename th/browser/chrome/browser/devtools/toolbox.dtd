@@ -9,22 +9,9 @@
 
 <!ENTITY toolboxCloseButton.tooltip    "ปิดเครื่องมือนักพัฒนา">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
 
-<!ENTITY options.context.label         "ตั้งค่าขั้นสูง (ต้องการการเริ่มเบราว์เซอร์ใหม่)">
-<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
-  -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableChrome.label    "เปิดใช้งานการดีบั๊กโครม">
 <!ENTITY options.enableChrome.tooltip  "Turning this option on will allow you to use various developer tools in browser context">
-<!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
-  -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
-  -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label    "เปิดใช้งานการดีบั๊กระยะไกล">
 <!ENTITY options.enableRemote.tooltip  "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
