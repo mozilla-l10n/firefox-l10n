@@ -4,13 +4,20 @@
 
 <!ENTITY  SSLProtocolVersions.caption       "Versões do protocolo SSL">
 <!ENTITY  SSLWarnings.caption               "Avisos SSL">
+<!ENTITY  SSLMixedContent.caption           "Conteúdo misto">
 <!ENTITY  SSLClientAuthMethod.caption       "Selecção do certificado de cliente">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label                 "Activar SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Activar TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "Pode indicar que protocolos de cifra usar para ligações seguras. Escolha apenas uma versão ou um intervalo de versões.">
+<!ENTITY limit.enable.label                 "Ativar:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "O &brandShortName; pode alertá-lo do estado de segurança da página web que está a visualizar. Configure o &brandShortName; para mostrar um aviso e pedir permissão antes de:">
 <!ENTITY warn.enteringsecure                "Carregar uma página que suporte cifra">
@@ -21,6 +28,15 @@
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "Ver uma página com e sem cifra">
 <!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY warn.mixedactivecontent            "Avisar-me quando as páginas cifradas contêm conteúdo inseguro">
+<!ENTITY warn.mixedactivecontent.accesskey  "v">
+<!ENTITY block.activecontent                "Não carregar conteúdo inseguro em páginas cifradas">
+<!ENTITY block.activecontent.accesskey      "g">
+<!ENTITY warn.mixeddisplaycontent           "Avisar-me quando páginas cifradas contêm outros tipos de conteúdo misto">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "Não carregar outro tipo de conteúdo msito ou páginas cifradas">
+<!ENTITY block.displaycontent.accesskey     "m">
 
 <!ENTITY certselect.description             "Decide como é que o &brandShortName; selecciona um certificado de segurança para apresentar em sítios web que necessitam:">
 <!ENTITY certselect.auto                    "Seleccionar automaticamente">

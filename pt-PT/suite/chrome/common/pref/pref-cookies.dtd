@@ -8,14 +8,17 @@
 
 <!ENTITY cookiePolicy.label             "Política para aceitar Cookie">
 
-<!ENTITY accAllCookiesRadio.label       "Permitir todos os cookies">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "Permitir cookies apenas para o sítio web original">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
-
 <!ENTITY disableCookies.label           "Bloquear cookies">
 <!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY accNo3rdPartyCookies.label     "Permitir cookies apenas para o sítio web de origem (sem cookies de terceiros)">
+<!ENTITY accNo3rdPartyCookies.accesskey "o">
+
+<!ENTITY acc3rdPartyVisited.label       "Permitir cookies de terceiros apenas para sítios web visitados anteriormente">
+<!ENTITY acc3rdPartyVisited.accesskey   "v">
+
+<!ENTITY accAllCookies.label            "Permitir todos os cookies">
+<!ENTITY accAllCookies.accesskey        "c">
 
 <!ENTITY cookieRetentionPolicy.label    "Política de retenção de Cookie">
 
