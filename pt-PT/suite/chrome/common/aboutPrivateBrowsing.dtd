@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Navegação privada">
+<<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "A &privatebrowsingpage.title; é uma funcionalidade experimental.">
+<!ENTITY privatebrowsingpage.description  "Numa janela de &privatebrowsingpage.title;, o &brandShortName; não vai ficar com cache no disco, cookies ou navegação, transfer~encias ou histórioc de formulários web. No entanto os ficheiros transferidos e os marcadores serão guardados.">
+<!ENTITY privatebrowsingpage.moreinfo     "Enquanto que este computador não terá uma gravação do seu histórico de navegação, o seu patrão ou fornecedor do serviço web poderá ainda assim seguir as páginas que visita.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Saber mais">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "b">
+<!ENTITY privatebrowsingpage.private      "O &brandShortName; não irá lembrar de qualquer histórico para esta janela. Feche a janela para parar a &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label        "Mudar para uma janela normal">
+<!ENTITY privatebrowsingpage.switch.accesskey    "d">
+<!ENTITY privatebrowsingpage.normal       "De momento está a usar &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label       "Abrir nova janela privada">
+<!ENTITY privatebrowsingpage.private.accesskey   "o">
+<!ENTITY privatebrowsingpage.info         "Para iniciar &privatebrowsingpage.title;, pode também selecionar Ficheiro ― Novo ― Janela privada.">
