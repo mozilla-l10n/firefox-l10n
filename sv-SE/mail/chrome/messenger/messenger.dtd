@@ -30,8 +30,10 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "S">
 <!ENTITY newExistingEmailAccountCmd.label "Existerande e-postkonto…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "Nytt chattkonto…">
+<!ENTITY newIMAccountCmd.label "Chattkonto…">
 <!ENTITY newIMAccountCmd.accesskey "c">
+<!ENTITY newFeedAccountCmd.label "RSS-kanelkonto…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Ny chattkontakt…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
@@ -586,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hämta meddelanden">
 <!ENTITY folderContextGetMessages.accesskey "H">
-<!ENTITY folderContextOpenNewWindow.label "Öppna">
-<!ENTITY folderContextOpenNewWindow.accesskey "Ö">
+<!ENTITY folderContextOpenInNewWindow.label "Öppna i nytt fönster">
+<!ENTITY folderContextOpenInNewWindow.accesskey "Ö">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
 <!ENTITY folderContextOpenNewTab.accesskey "n">
 <!ENTITY folderContextNew.label "Ny undermapp…">
@@ -719,6 +721,10 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY contextCopyMsgMenu.label "Kopiera till">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
+<!ENTITY contextKillThreadMenu.label "Ignorera tråd">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignorera undertråd">
+<!ENTITY contextWatchThreadMenu.label "Bevaka tråd">
 <!ENTITY contextSaveAs.label "Spara som…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Skriv ut…">

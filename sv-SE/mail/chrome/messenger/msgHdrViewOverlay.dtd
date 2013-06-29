@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Till ">
-<!ENTITY fromField3.label "Från ">
-<!ENTITY senderField3.label "Avsändare ">
-<!ENTITY organizationField3.label "Organisation ">
-<!ENTITY replyToField3.label "Svara till ">
+<!ENTITY toField4.label "Till">
+<!ENTITY fromField4.label "Från">
+<!ENTITY senderField4.label "Avsändare">
+<!ENTITY organizationField4.label "Organisation">
+<!ENTITY replyToField4.label "Svara till">
 
-<!ENTITY subjectField3.label "Ämne ">
-<!ENTITY ccField3.label "Kopia ">
-<!ENTITY bccField3.label "Dold kopia ">
-<!ENTITY newsgroupsField3.label "Diskussionsgrupper ">
-<!ENTITY followupToField3.label "Uppföljning till ">
-<!ENTITY tagsHdr3.label "Etiketter ">
-<!ENTITY dateField3.label "Datum ">
-<!ENTITY userAgentField3.label "Använt program ">
-<!ENTITY referencesField3.label "Referenser ">
-<!ENTITY messageIdField3.label "Meddelande-ID ">
-<!ENTITY inReplyToField3.label "Svar på ">
-<!ENTITY originalWebsite3.label "Webbplats ">
+<!ENTITY subjectField4.label "Ämne">
+<!ENTITY ccField4.label "Kopia">
+<!ENTITY bccField4.label "Dold kopia">
+<!ENTITY newsgroupsField4.label "Diskussionsgrupper">
+<!ENTITY followupToField4.label "Uppföljning till">
+<!ENTITY tagsHdr4.label "Etiketter">
+<!ENTITY dateField4.label "Datum">
+<!ENTITY userAgentField4.label "Använt program">
+<!ENTITY referencesField4.label "Referenser">
+<!ENTITY messageIdField4.label "Meddelande-ID">
+<!ENTITY inReplyToField4.label "Svar på">
+<!ENTITY originalWebsite4.label "Webbplats">
 
 <!ENTITY editMessageDescription.label "Det här är ett utkast">
 <!ENTITY editMessageButton.label "Redigera…">
