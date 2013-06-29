@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "a">
 <!ENTITY event.categories.label                           "Kategory:">
 <!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.textbox.label                   "Foegje in nije kategory ta" >
+<!ENTITY event.categories.textbox.accesskey               "F">
 <!ENTITY event.calendar.label                             "Aginda:" >
 <!ENTITY event.calendar.accesskey                         "A">
 <!ENTITY event.attendees.label                            "Dielnimmers:" >
