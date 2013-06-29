@@ -9,16 +9,20 @@
 <!ENTITY newsSectionHdr.label         "Diskussionsgrupper"> 
 <!ENTITY subscribeNewsLink.label      "Hantera prenumerationer på diskussionsgrupper"> 
 
+<!ENTITY feedsSectionHdr.label        "RSS-kanaler"> 
+<!ENTITY subscribeFeeds.label         "Hantera prenumerationer">
+
+<!ENTITY chat.label                   "Chatt">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Konton"> 
 <!ENTITY subscribeImapFolders.label   "Hantera prenumerationer på mappar"> 
 <!ENTITY settingsLink.label           "Titta på inställningarna för detta konto"> 
-<!ENTITY newAcctLink.label            "Skapa ett nytt konto"> 
+<!ENTITY newAcctLink.label            "Skapa ett nytt konto">
+<!ENTITY newAcct.label                "Skapa ett nytt konto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Avancerade funktioner"> 
 <!ENTITY searchMsgsLink.label         "Sök efter meddelanden"> 
 <!ENTITY filtersLink.label            "Hantera filterregler">
 <!ENTITY junkSettings.label           "Inställningar för skräppost">
 <!ENTITY offlineLink.label            "Inställningar för nedkopplat läge">
-
-<!ENTITY feedsSectionHdr.label        "RSS-kanaler"> 
-<!ENTITY subscribeFeeds.label         "Hantera prenumerationer">
