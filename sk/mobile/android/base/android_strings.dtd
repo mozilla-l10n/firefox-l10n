@@ -41,6 +41,7 @@
 <!ENTITY bookmark_added "Záložka pridaná">
 <!ENTITY bookmark_removed "Záložka odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
+<!ENTITY bookmark_options "Možnosti">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -65,20 +66,30 @@
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
+<!ENTITY pref_category_customize "Prispôsobenie">
+<!ENTITY pref_category_display "Zobrazovanie">
+<!ENTITY pref_category_privacy_short "Súkromie">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Odosielanie údajov">
+
+<!-- collected old strings - remove after determining final strings
+     as part of Bug 877791 -->
 <!ENTITY pref_category_general "Všeobecné">
 <!ENTITY pref_category_privacy "Súkromie a bezpečnosť">
 <!ENTITY pref_category_content "Obsah">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Odosielanie údajov">
-<!ENTITY pref_about_firefox "O prehliadači &brandShortName;">
-<!ENTITY pref_remember_signons "Pamätať si heslá">
-
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Všeobecné">
 <!ENTITY pref_header_privacy "Súkromie a bezpečnosť">
 <!ENTITY pref_header_content "Obsah">
+<!-- end of old strings -->
+
+<!ENTITY pref_remember_signons "Pamätať si heslá">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Prispôsobenie">
+<!ENTITY pref_header_display "Zobrazovanie">
+<!ENTITY pref_header_privacy_short "Súkromie">
+<!ENTITY pref_header_help "Pomocník">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Súbory cookies">
 <!ENTITY pref_cookies_accept_all "Povolené">
@@ -132,20 +143,27 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY pref_about_firefox "Čo je &brandShortName;">
+<!ENTITY pref_vendor_faqs "Často kladené otázky">
+<!ENTITY pref_vendor_feedback "Odoslať názor">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Správa o kondícii prehliadača &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
+<!ENTITY datareporting_fhr_summary2 "Zdieľa so spoločnosťou &vendorShortName; údaje o kondícii prehliadača a zároveň Vám pomáha porozumieť jeho výkonnosti.">
+<!ENTITY datareporting_abouthr_title "Zobraziť Správu o kondícii">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť prehliadač stabilnejším a bezpečnejším.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
+<!ENTITY datareporting_wifi_title "Služby zisťovania polohy &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Pomáha zlepšovať služby zisťovania polohy pre otvorený web tým, že umožňuje prehliadaču &brandShortName; zbierať a odosielať anonymné celulárne informácie.">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
 <!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
@@ -285,6 +303,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Spravuje ju">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; zablokoval obsah, ktorý nie je bezpečný.">
+<!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
+<!ENTITY learn_more "Ďalšie informácie">
+<!ENTITY enable_protection "Zapnúť ochranu">
+<!ENTITY disable_protection "Vypnúť ochranu">
+<!ENTITY keep_blocking "Ponechať blokované">
+    
 <!ENTITY private_data_success "Súkromné údaje vymazané">
 <!ENTITY private_data_fail "Niektoré súkromné údaje nemohli byť odstránené">
 

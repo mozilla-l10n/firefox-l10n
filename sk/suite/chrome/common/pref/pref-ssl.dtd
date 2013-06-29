@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; vás môže upozorniť na stav zabezpečenia stránky, ktorú prehliadate. Nastavte si &brandShortName; tak, aby zobrazoval upozornenie a vyžadoval súhlas predtým, ako:">
 <!ENTITY warn.enteringsecure                "načíta zašifrovanú stránku">

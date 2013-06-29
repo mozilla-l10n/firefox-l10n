@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "Správa odoberania…">
 <!ENTITY manageSubscriptions.accesskey "S">
 
+<!ENTITY feedWindowTitle.label "Sprievodca účtom pre informačné kanály">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogy a informačné kanály">
 <!ENTITY feeds.wizardShortName "Kanály">

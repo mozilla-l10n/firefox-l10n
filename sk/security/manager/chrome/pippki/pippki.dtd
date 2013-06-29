@@ -76,8 +76,6 @@
 <!ENTITY examineCert.label "Zobraziť certifikát">
 <!ENTITY examineCert.accesskey "Z">
 
-<!ENTITY serverCrlNextupdate.message "Požiadajte o pomoc svojho správcu systému">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generuje sa privátny kľúč">
 <!ENTITY createCertInfo.msg1 "Prebieha generovanie kľúča… To môže trvať niekoľko minút…">
