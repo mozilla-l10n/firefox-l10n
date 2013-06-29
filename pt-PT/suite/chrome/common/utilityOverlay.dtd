@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar Desligado">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "h">
@@ -18,6 +22,9 @@
 <!ENTITY newNavigatorCmd.label            "Janela do Navegador">
 <!ENTITY newNavigatorCmd.key              "N">
 <!ENTITY newNavigatorCmd.accesskey        "N">
+<!ENTITY newPrivateWindowCmd.label "Janela privada">
+<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.accesskey "W">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
