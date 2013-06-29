@@ -304,6 +304,8 @@
 <!ENTITY viewImageCmd.accesskey "V">
 <!ENTITY viewImageInfoCmd.label "Visualizza informazioni immagine">
 <!ENTITY viewImageInfoCmd.accesskey "u">
+<!ENTITY viewImageDescCmd.label "Visualizza descrizione">
+<!ENTITY viewImageDescCmd.accesskey "d">
 <!ENTITY viewVideoCmd.label "Visualizza video">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Visualizza immagine di sfondo">
