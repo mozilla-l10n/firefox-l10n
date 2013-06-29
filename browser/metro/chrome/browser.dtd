@@ -10,6 +10,8 @@
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
 
+<!ENTITY appbarErrorConsole.label   "Otvoriť chybovú konzolu">
+<!ENTITY appbarJSShell.label        "Otvoriť príkazový riadok JavaScriptu">
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
 <!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 
@@ -17,9 +19,16 @@
 <!ENTITY startBookmarksHeader.label       "Záložky">
 <!ENTITY startHistoryHeader.label         "Nedávna história">
 <!ENTITY startRemoteTabsHeader.label      "Karty z iných zariadení">
+
 <!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
      Needs to be two words or shorter to fit in narrow vertical space.-->
-<!ENTITY snappedRemoteTabsHeader.label    "Vzdialené karty">
+<!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label,
+                        snappedBookmarksHeader.label,
+                        snappedHistoryHeader.lavel )
+      The '>' character is not part of the name, but is an indicator of more content. Please do not localize the '>' -->
+<!ENTITY snappedRemoteTabsHeader.label    "Vzdialené karty >">
+<!ENTITY snappedBookmarksHeader.label       "Záložky >">
+<!ENTITY snappedHistoryHeader.label         "Nedávna história >">
 
 <!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
 <!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete"> 
