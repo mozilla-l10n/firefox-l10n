@@ -411,6 +411,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "h">
 <!ENTITY viewImageInfoCmd.label       "Informations sur l'image">
 <!ENTITY viewImageInfoCmd.accesskey   "I">
+<!ENTITY viewImageDescCmd.label       "Description de l'image">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Afficher la vidéo">
 <!ENTITY viewVideoCmd.accesskey       "v">
 <!ENTITY viewBGImageCmd.label         "Afficher l'image de fond">
