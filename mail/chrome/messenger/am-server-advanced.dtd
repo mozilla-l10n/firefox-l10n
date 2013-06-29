@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY overrideNamespaces.label "Tsjinner tastean om dizze namespaces te negearjen">
 <!ENTITY pop3Desc.label "By it ynladen fan e-mail fan dizze POP3-tsjinner, de folgjende map foar nije e-mail brûke:">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY globalInbox.label "Globaal Postfek YN (ûnder Lokale mappen)">
 <!ENTITY accountDirectory.accesskey "P">
 <!ENTITY accountDirectory.label "Postfek YN fan dizze tsjinneraccount">
 <!ENTITY deferToServer.accesskey "r">
