@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "P">
 <!ENTITY addIMAccountButton.label "Pridať účet pre konverzácie…">
 <!ENTITY addIMAccountButton.accesskey "k">
+<!ENTITY addFeedAccountButton.label "Pridať účet pre informačné kanály…">
+<!ENTITY addFeedAccountButton.accesskey "m">
 <!ENTITY addOtherAccountButton.label "Pridať iný účet…">
 <!ENTITY addOtherAccountButton.accesskey "d">
 <!ENTITY setDefaultButton.label "Nastaviť ako predvolený">
