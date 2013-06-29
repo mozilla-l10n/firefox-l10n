@@ -67,20 +67,33 @@
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
+<!ENTITY pref_category_customize "Anpassa">
+<!ENTITY pref_category_display "Visa">
+<!ENTITY pref_category_privacy_short "Integritet">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Dataalternativ">
+
+<!-- collected old strings - remove after determining final strings
+     as part of Bug 877791 -->
 <!ENTITY pref_category_general "Allmänt">
 <!ENTITY pref_category_privacy "Sekretess och säkerhet">
 <!ENTITY pref_category_content "Innehåll">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_category_datareporting "Dataalternativ">
-<!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_remember_signons "Spara lösenord">
-
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Allmänt">
 <!ENTITY pref_header_privacy "Sekretess och säkerhet">
 <!ENTITY pref_header_content "Innehåll">
+<!-- end of old strings -->
+
+<!ENTITY pref_remember_signons "Spara lösenord">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Anpassa">
+<!ENTITY pref_header_display "Visa">
+<!ENTITY pref_header_privacy_short "Integritet">
+<!ENTITY pref_header_help "Hjälp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverade">
@@ -132,6 +145,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings2 "Platsinställningar">
 <!ENTITY pref_private_data_downloadFiles "Hämtade filer">
+
+
+<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_vendor_faqs "Vanliga frågor">
+<!ENTITY pref_vendor_feedback "Ge synpunkter">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik och data">
 <!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
