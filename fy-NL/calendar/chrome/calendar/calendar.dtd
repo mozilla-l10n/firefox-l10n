@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Flaterkoade:">
 <!ENTITY calendar.error.description "Beskriuwing:">
 <!ENTITY calendar.error.title "Der is in flater makke">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Tafoegje as barren">
+<!ENTITY calendar.extract.task.button          "Tafoegje as taak">
+<!ENTITY calendar.extract.event.button.tooltip "Helje aginda-ynformaasje út it berjocht en foegje it ta oan jo aginda as in barren">
+<!ENTITY calendar.extract.task.button.tooltip  "Helje aginda-ynformaasje út it berjocht en foegje it ta oan jo aginda as in taak">
