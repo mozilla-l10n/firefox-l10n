@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "Hantera prenumerationer…"> 
 <!ENTITY manageSubscriptions.accesskey "a">
 
+<!ENTITY feedWindowTitle.label "RSS-kanalguide">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Bloggar &amp; nyhetskanaler">
 <!ENTITY feeds.wizardShortName "RSS-kanaler">  
