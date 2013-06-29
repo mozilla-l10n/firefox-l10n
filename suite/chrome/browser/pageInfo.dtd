@@ -93,7 +93,6 @@
 <!ENTITY  permImage             "Carregar imagens">
 <!ENTITY  permPopup             "Abrir janelas de popup">
 <!ENTITY  permCookie            "Definir Cookies">
-<!ENTITY  permNotifications     "Mostrar notificações">
 <!ENTITY  permInstall           "Instalar Extensões e Temas">
 <!ENTITY  permGeo               "Partilhar localização">
 
