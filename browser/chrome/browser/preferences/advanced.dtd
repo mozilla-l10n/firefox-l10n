@@ -85,8 +85,6 @@
 <!ENTITY updateTab.label                 "ปรับรุ่น">
 
 <!ENTITY updateApp.label                 "ปรับรุ่น &brandShortName;:">
-<!ENTITY updateAuto.label                "ติดตั้งการปรับรุ่นอัตโนมัติ (แนะนำ: เพิ่มความปลอดภัย)">
-<!ENTITY updateAuto.accesskey            "อ">
 <!ENTITY updateCheck.label               "ตรวจสอบการปรับรุ่นแต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
 <!ENTITY updateCheck.accesskey           "ต">
 <!ENTITY updateManual.label              "ไม่ต้องตรวจสอบการปรับรุ่น (ไม่แนะนำ: เสี่ยงต่อความปลอดภัยของระบบ)">
@@ -124,8 +122,6 @@
 <!ENTITY certs.ask.accesskey             "ถ">
 <!ENTITY viewCerts.label                 "ดูใบรับรอง">
 <!ENTITY viewCerts.accesskey             "ด">
-<!ENTITY viewCRLs.label                  "รายการที่ยกเลิก">
-<!ENTITY viewCRLs.accesskey              "ย">
 <!ENTITY verify2.label                   "ตรวจสอบความถูกต้อง">
 <!ENTITY verify2.accesskey               "ต">
 <!ENTITY viewSecurityDevices.label       "กลไกความปลอดภัย">

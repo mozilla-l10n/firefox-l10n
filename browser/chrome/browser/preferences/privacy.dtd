@@ -4,11 +4,8 @@
 
 <!ENTITY tracking.label                 "การติดตาม">
 
-<!ENTITY dntTrackingNopref.label        "ไม่ต้องบอกเว็บไซต์ต่าง ๆ ทุกอย่างที่เกี่ยวกับการตั้งค่าการติดตามของฉัน">
 <!ENTITY dntTrackingNopref.accesskey    "ม">
-<!ENTITY dntTrackingNotOkay.label       "บอกเว็บไซต์ต่าง ๆ ว่าไม่ต้องติดตามฉัน">
 <!ENTITY dntTrackingNotOkay.accesskey   "บ">
-<!ENTITY dntTrackingOkay.label          "บอกเว็บไซต์ต่าง ๆ ว่าติดตามฉัน">
 <!ENTITY dntTrackingOkay.accesskey      "ต">
 <!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
 
