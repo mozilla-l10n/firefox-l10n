@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Chataccount tafoegje…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Feedaccount tafoegje…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "In oar account tafoegje…">
 <!ENTITY addOtherAccountButton.accesskey "I">
 <!ENTITY setDefaultButton.label "Ynstelle as standert">
