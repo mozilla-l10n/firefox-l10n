@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "Navegação privada">
-<<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
 <!ENTITY privatebrowsingpage.experimental "A &privatebrowsingpage.title; é uma funcionalidade experimental.">
 <!ENTITY privatebrowsingpage.description  "Numa janela de &privatebrowsingpage.title;, o &brandShortName; não vai ficar com cache no disco, cookies ou navegação, transfer~encias ou histórioc de formulários web. No entanto os ficheiros transferidos e os marcadores serão guardados.">
 <!ENTITY privatebrowsingpage.moreinfo     "Enquanto que este computador não terá uma gravação do seu histórico de navegação, o seu patrão ou fornecedor do serviço web poderá ainda assim seguir as páginas que visita.">
