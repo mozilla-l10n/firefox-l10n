@@ -5,9 +5,13 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Insira o endereço Web (URL), ou especifique o ficheiro local que deseja abrir:">  
+<!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
+     as defined above and attachEnterLabel as defined in
+     openLocation.properties -->
 <!ENTITY enter.accesskey "I">
 <!ENTITY chooseFile.label "Escolher o ficheiro…">
 <!ENTITY chooseFile.accesskey "c">
+<!ENTITY newPrivate.label "Nova janela privada">
 <!ENTITY newWindow.label "Nova janela do navegador">
 <!ENTITY newTab.label "Novo separador do navegador">
 <!ENTITY currentTab.label "Separador da navegação actual">
