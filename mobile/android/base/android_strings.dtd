@@ -15,11 +15,11 @@
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; zistil problém a zlyhal. Otvorené karty by mali byť po reštart dostupné na Úvodnej stránke &brandShortName;u.">
-<!ENTITY  crash_send_report_message2 "Oznámiť Mozille toto zlyhanie, aby bolo možné problém odstrániť">
+<!ENTITY  crash_send_report_message3 "Oznámiť spoločnosti &vendorShortName; toto zlyhanie, aby bolo možné problém odstrániť">
 <!ENTITY  crash_include_url2 "Zahrnúť adresu stránky, na ktorej som sa nachádzal">
 <!ENTITY  crash_sorry "Ospravedlňujeme sa">
 <!ENTITY  crash_comment "Pridať komentár (komentáre sú verejne dostupné)">
-<!ENTITY  crash_allow_contact "Umožniť Mozille kontaktovať ma ohľadne tejto stránky">
+<!ENTITY  crash_allow_contact2 "Umožniť spoločnosti &vendorShortName; kontaktovať ma ohľadne tejto stránky">
 <!ENTITY  crash_email "Vaša e-mailová adresa">
 <!ENTITY  crash_closing_alert "Ukončiť bez odoslania správy o zlyhaní?">
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
@@ -41,6 +41,7 @@
 <!ENTITY bookmark_added "Záložka pridaná">
 <!ENTITY bookmark_removed "Záložka odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
+<!ENTITY bookmark_options "Možnosti">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -99,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
-<!ENTITY pref_reflow_on_zoom2 "Zapnúť funkciu Reflow-On-Zoom">
+<!ENTITY pref_reflow_on_zoom3 "Zaostriť text po dvojitom ťuknutí">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
@@ -132,26 +133,30 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles "Prevzaté súbory">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Správa o kondícii prehliadača &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
+<!ENTITY datareporting_fhr_summary2 "Zdieľa so spoločnosťou &vendorShortName; údaje o kondícii prehliadača a zároveň Vám pomáha porozumieť jeho výkonnosti.">
+<!ENTITY datareporting_abouthr_title "Zobraziť Správu o kondícii">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; odosiela správy o zlyhaní s cieľom pomôcť spoločnosti &vendorShortName; urobiť prehliadač stabilnejším a bezpečnejším.">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "Správy o zlyhaní &brandShortName;u">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
+<!ENTITY datareporting_wifi_title "Služby zisťovania polohy &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Pomáha zlepšovať služby zisťovania polohy pre otvorený web tým, že umožňuje prehliadaču &brandShortName; zbierať a odosielať anonymné celulárne informácie.">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
+<!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
 <!ENTITY datareporting_notification_action "Zvoľte, čo chcete zdieľať">
 <!ENTITY datareporting_notification_summary "Na zlepšenie zážitku z prehliadania &brandShortName; automaticky odosiela informácie spoločnosti &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Na zlepšenie zážitku z prehliadania…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizácie">
 <!ENTITY pref_update_autodownload_wifi "Len cez sieť Wi-Fi">
@@ -284,6 +289,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Spravuje ju">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; zablokoval obsah, ktorý nie je bezpečný.">
+<!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
+<!ENTITY learn_more "Ďalšie informácie">
+<!ENTITY enable_protection "Zapnúť ochranu">
+<!ENTITY disable_protection "Vypnúť ochranu">
+<!ENTITY keep_blocking "Ponechať blokované">
+    
 <!ENTITY private_data_success "Súkromné údaje vymazané">
 <!ENTITY private_data_fail "Niektoré súkromné údaje nemohli byť odstránené">
 

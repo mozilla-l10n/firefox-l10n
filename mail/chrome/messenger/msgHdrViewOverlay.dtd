@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Komu ">
-<!ENTITY fromField3.label "Od ">
-<!ENTITY senderField3.label "Odosielateľ ">
-<!ENTITY organizationField3.label "Organizácia ">
-<!ENTITY replyToField3.label "Odpoveď na ">
+<!ENTITY toField4.label "Komu">
+<!ENTITY fromField4.label "Od">
+<!ENTITY senderField4.label "Odosielateľ">
+<!ENTITY organizationField4.label "Organizácia">
+<!ENTITY replyToField4.label "Odpoveď na">
 
-<!ENTITY subjectField3.label "Predmet ">
-<!ENTITY ccField3.label "Kópia ">
-<!ENTITY bccField3.label "Skrytá kópia ">
-<!ENTITY newsgroupsField3.label "Skupiny ">
-<!ENTITY followupToField3.label "Pokračovať na ">
-<!ENTITY tagsHdr3.label "Popisy ">
-<!ENTITY dateField3.label "Dátum ">
-<!ENTITY userAgentField3.label "Program ">
-<!ENTITY referencesField3.label "Referencie ">
-<!ENTITY messageIdField3.label "ID správy ">
-<!ENTITY inReplyToField3.label "V odpovedi na ">
-<!ENTITY originalWebsite3.label "Webový server ">
+<!ENTITY subjectField4.label "Predmet">
+<!ENTITY ccField4.label "Kópia">
+<!ENTITY bccField4.label "Skrytá kópia">
+<!ENTITY newsgroupsField4.label "Skupiny">
+<!ENTITY followupToField4.label "Pokračovať na">
+<!ENTITY tagsHdr4.label "Popisy">
+<!ENTITY dateField4.label "Dátum">
+<!ENTITY userAgentField4.label "Program">
+<!ENTITY referencesField4.label "Referencie">
+<!ENTITY messageIdField4.label "ID správy">
+<!ENTITY inReplyToField4.label "V odpovedi na">
+<!ENTITY originalWebsite4.label "Webový server">
 
 <!ENTITY editMessageDescription.label "Toto je návrh správy">
 <!ENTITY editMessageButton.label "Upraviť…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Odpovedať do rozosielacieho zoznamu">
 <!ENTITY hdrFollowupButton1.label "Reagovať">
 <!ENTITY hdrFollowupButton1.tooltip "Odoslať reakciu do tejto diskusnej skupiny">
+<!ENTITY hdrMenuForwardButton.label "Odoslať ďalej ako">
 <!ENTITY hdrForwardButton1.label "Odoslať ďalej">
 <!ENTITY hdrForwardButton1.tooltip "Odoslať túto správu ďalej">
 <!ENTITY hdrJunkButton1.label "Nevyžiadaná">

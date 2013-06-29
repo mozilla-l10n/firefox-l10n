@@ -2,16 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Možnosti">
-<!ENTITY  prefWindow.titleGNOME   "Možnosti &brandShortName;u">
-<!ENTITY  prefWindow.styleWin     "width: 42em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 48em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 38em;">
-
 <!ENTITY  paneGeneral.title       "Všeobecné">
 <!ENTITY  paneAlarms.title        "Upozornenia">
 <!ENTITY  paneCategories.title    "Kategórie">
 <!ENTITY  paneViews.title         "Pohľady">
 <!ENTITY  paneTimezones.title     "Časové pásmo">
-<!ENTITY  paneAdvanced.title      "Spresnenie">
-
