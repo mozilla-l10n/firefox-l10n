@@ -408,6 +408,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Visa bildinfo">
 <!ENTITY viewImageInfoCmd.accesskey   "a">
+<!ENTITY viewImageDescCmd.label       "Visa beskrivning">
+<!ENTITY viewImageDescCmd.accesskey   "g">
 <!ENTITY viewVideoCmd.label           "Visa video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
