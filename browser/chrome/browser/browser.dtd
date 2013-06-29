@@ -98,7 +98,7 @@
 <!ENTITY shareLinkCmd.accesskey "о">
 <!ENTITY shareImageCmd.label "Поделиться этой картинкой">
 <!ENTITY shareImageCmd.accesskey "о">
-<!ENTITY shareSelectCmd.label "Поделиться выделением">
+<!ENTITY shareSelectCmd.label "Поделиться выделенным текстом">
 <!ENTITY shareSelectCmd.accesskey "о">
 <!ENTITY shareVideoCmd.label "Поделиться этим видео">
 <!ENTITY shareVideoCmd.accesskey "о">
