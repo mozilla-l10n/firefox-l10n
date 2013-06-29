@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Afficher une alerte pendant">
 <!ENTITY showAlertFor.accesskey           "A">
 <!ENTITY showAlertTimeEnd.label           "secondes">
-<!ENTITY showAlertTimeEnd.accesskey       "o">
 
 <!ENTITY showAlertPreviewText.label       "Afficher un aperçu du texte du message">
 <!ENTITY showAlertPreviewText.accesskey   "x">
