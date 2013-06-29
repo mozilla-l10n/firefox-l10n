@@ -93,6 +93,7 @@
 <!ENTITY  permImage             "Carregar imagens">
 <!ENTITY  permPopup             "Abrir janelas de popup">
 <!ENTITY  permCookie            "Definir Cookies">
+<!ENTITY  permNotifications     "Mostrar notificações">
 <!ENTITY  permInstall           "Instalar Extensões e Temas">
 <!ENTITY  permGeo               "Partilhar localização">
 
@@ -116,6 +117,6 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Guardei algumas senhas para este sítio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver senhas guardadas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">
