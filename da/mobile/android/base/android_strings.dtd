@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
 <!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startsiden, når du genstarter.">
-<!ENTITY  crash_send_report_message2 "Fortæl Mozilla om nedbruddet, så de kan rette fejlen">
+<!ENTITY  crash_send_report_message3 "Fortæl &vendorShortName; om nedbruddet, så de kan rette fejlen">
 <!ENTITY  crash_include_url2 "Inkluder webadressen til den besøgte side">
 <!ENTITY  crash_sorry "Vi beklager!">
 <!ENTITY  crash_comment "Tilføj en kommentar (kommentarer er offentligt tilgængelige)">
-<!ENTITY  crash_allow_contact "Giv Mozilla lov til at kontakte mig om denne fejlrapport">
+<!ENTITY  crash_allow_contact2 "Giv &vendorShortName; lov til at kontakte mig om denne fejlrapport">
 <!ENTITY  crash_email "Din mailadresse">
 <!ENTITY  crash_closing_alert "Afslut uden at sende en fejlrapport?">
 <!ENTITY  crash_close_label "Luk">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bogmærke tilføjet">
 <!ENTITY bookmark_removed "Bogmærke fjernet">
 <!ENTITY bookmark_updated "Bogmærke opdateret">
+<!ENTITY bookmark_options "Indstillinger">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -58,7 +59,6 @@
 <!ENTITY site_security "Webstedssikkerhed">
 
 <!ENTITY close_tab "Luk faneblad">
-<!ENTITY new_tab "Nyt faneblad">
 <!ENTITY one_tab "1 faneblad">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -101,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom2 "Knib for at reformatere teksten">
+<!ENTITY pref_reflow_on_zoom3 "Dobbelttryk for at reformatere teksten">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
@@ -134,9 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Hentede filer">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
+<!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
 <!ENTITY datareporting_notification_action "Angiv, hvad du vil dele">
 <!ENTITY datareporting_notification_summary "&brandShortName; sender automatisk data til &vendorShortName; for at forbedre din oplevelse.">
 <!ENTITY datareporting_notification_summary_short "&brandShortName; forbedrer din oplevelse ved …">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -145,14 +147,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; sundhedsrapport">
-<!ENTITY datareporting_fhr_summary "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
+<!ENTITY datareporting_abouthr_title "Vis min sundhedsrapport">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deler information om ydelse, brug, hardware og tilrettelser i din browser med &vendorShortName; for at hjælpe med at forbedre &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; fejlrapportering">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
+<!ENTITY datareporting_wifi_title "&vendorShortName; positionstjenester">
+<!ENTITY datareporting_wifi_summary "Hjælper Open Web til at forbedre positionstjenester ved at lade &brandShortName; indsamle og anonymt sende oplysninger om mobile sendere.">
 
 <!ENTITY pref_update_autodownload "Automatiske opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
@@ -173,6 +177,7 @@ size. -->
 <!ENTITY find_in_page "Find på siden">
 <!ENTITY desktop_mode "Anmod om desktopversion">
 <!ENTITY tools "Funktioner">
+<!ENTITY new_tab "Nyt faneblad">
 <!ENTITY new_private_tab "Nyt faneblad med privat browsing">
 <!ENTITY close_all_tabs "Luk alle faneblade">
 <!ENTITY tabs_normal "Faneblade">
@@ -207,8 +212,6 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Vis sidens titel">
 <!ENTITY pref_titlebar_mode_url "Vis sidens adresse">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
 <!ENTITY history_removed "Side fjernet">
 
 <!ENTITY bookmark_edit_title "Rediger bogmærke">
@@ -285,6 +288,16 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives af">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Denne side viser usikkert indhold.">
+
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokeret usikkert indhold.">
+<!ENTITY blocked_mixed_content_message_bottom "De fleste websteder vil stadig virke, selvom dette indhold er blokeret.">
+<!ENTITY learn_more "Læs mere">
+<!ENTITY enable_protection "Aktiver beskyttelse">
+<!ENTITY disable_protection "Deaktiver beskyttelse">
+<!ENTITY keep_blocking "Fortsæt blokering">
 
 <!ENTITY private_data_success "Private data ryddet">
 <!ENTITY private_data_fail "Nogle private data kunne ikke ryddes">
