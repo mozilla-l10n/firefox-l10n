@@ -154,6 +154,8 @@
 <!ENTITY event.location.accesskey "S">
 <!ENTITY event.categories.label "Kategori:">
 <!ENTITY event.categories.accesskey "K">
+<!ENTITY event.categories.textbox.label "Tilføj en ny kategori" >
+<!ENTITY event.categories.textbox.accesskey "ø">
 <!ENTITY event.calendar.label "Kalender:">
 <!ENTITY event.calendar.accesskey "n">
 <!ENTITY event.attendees.label "Deltagere:">
