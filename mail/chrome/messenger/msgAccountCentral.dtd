@@ -9,6 +9,12 @@
 <!ENTITY newsSectionHdr.label			"Nijsgroepen">
 <!ENTITY subscribeNewsLink.label		"Nijsgroepabonneminten beheare">
 
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Abonneminten beheare">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label		"Accounts">
 <!ENTITY subscribeImapFolders.label		"Mapabonneminten beheare">
 <!ENTITY settingsLink.label				"Ynstellingen foar dizze account besjen">
