@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label		"Abonneminten beheare…">
 <!ENTITY manageSubscriptions.accesskey	"b">
 
+<!ENTITY feedWindowTitle.label "Feedaccounthelper">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName				"Blogs &amp; Nijsfeeds">
 <!ENTITY feeds.wizardShortName			"Feeds">

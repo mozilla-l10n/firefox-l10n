@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Oan ">
-<!ENTITY fromField3.label "Fan ">
-<!ENTITY senderField3.label "Ofstjoerder ">
-<!ENTITY organizationField3.label "Organisaasje ">
-<!ENTITY replyToField3.label "Antwurd-nei ">
+<!ENTITY toField4.label "Oan">
+<!ENTITY fromField4.label "Fan">
+<!ENTITY senderField4.label "Ofstjoerder">
+<!ENTITY organizationField4.label "Organisaasje">
+<!ENTITY replyToField4.label "Antwurd-nei">
 
-<!ENTITY subjectField3.label "Underwerp ">
+<!ENTITY subjectField4.label "Underwerp">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Nijsgroepen ">
-<!ENTITY followupToField3.label "Reaksjes-nei ">
-<!ENTITY tagsHdr3.label "Labels ">
-<!ENTITY dateField3.label "Datum ">
-<!ENTITY userAgentField3.label "Useragent ">
-<!ENTITY referencesField3.label "Referinsjes ">
-<!ENTITY messageIdField3.label "Message-ID ">
-<!ENTITY inReplyToField3.label "Yn-antwurd-op ">
-<!ENTITY originalWebsite3.label "Webstee ">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Nijsgroepen">
+<!ENTITY followupToField4.label "Reaksjes-nei">
+<!ENTITY tagsHdr4.label "Labels">
+<!ENTITY dateField4.label "Datum">
+<!ENTITY userAgentField4.label "Useragent">
+<!ENTITY referencesField4.label "Referinsjes">
+<!ENTITY messageIdField4.label "Message-ID">
+<!ENTITY inReplyToField4.label "Yn-antwurd-op">
+<!ENTITY originalWebsite4.label "Webstee">
 
 <!ENTITY editMessageDescription.label "Dit is in berjochtkonsept">
 <!ENTITY editMessageButton.label "Bewurkje…">
@@ -35,6 +35,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Beantwurdzje nei mailinglist">
 <!ENTITY hdrFollowupButton1.label "Reaksje">
 <!ENTITY hdrFollowupButton1.tooltip "Post in reaksje nei dizze nijsgroep">
+<!ENTITY hdrMenuForwardButton.label "Trochstjoer as">
 <!ENTITY hdrForwardButton1.label "Trochstjoere">
 <!ENTITY hdrForwardButton1.tooltip "Dit berjocht trochstjoere">
 <!ENTITY hdrJunkButton1.label "Net-winske">

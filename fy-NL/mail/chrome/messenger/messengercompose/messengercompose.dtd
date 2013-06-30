@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Sykje en ferfange…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Op 'e nij sykje">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "k">
