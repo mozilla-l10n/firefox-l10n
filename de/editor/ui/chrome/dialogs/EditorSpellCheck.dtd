@@ -8,8 +8,8 @@
 <!ENTITY misspelledWord.label "Falsch geschriebenes Wort:">
 <!ENTITY wordEditField.label "Ersetzen durch:">
 <!ENTITY wordEditField.accessKey "d">
-<!ENTITY checkwordButton.label "Prüfe Wort">
-<!ENTITY checkwordButton.accessKey "P">
+<!ENTITY checkwordButton.label "Wort prüfen">
+<!ENTITY checkwordButton.accessKey "p">
 <!ENTITY suggestions.label "Vorschläge:">
 <!ENTITY suggestions.accessKey "V">
 <!ENTITY ignoreButton.label "Ignorieren">
