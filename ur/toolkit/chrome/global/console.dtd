@@ -10,20 +10,20 @@
 
 <!ENTITY all.label          "تمام">
 <!ENTITY all.accesskey      "ت">
-<!ENTITY errors.label       "Errors">
-<!ENTITY errors.accesskey   "E">
+
+
 <!ENTITY warnings.label     "تنبیہیں">
 <!ENTITY warnings.accesskey "ت">
 <!ENTITY messages.label     "پیغامات">
 <!ENTITY messages.accesskey "پ">
 <!ENTITY clear.label        "صاف کریں">
 <!ENTITY clear.accesskey    "ص">
-<!ENTITY codeEval.label     "Code:">
-<!ENTITY codeEval.accesskey "o">
+
+
 <!ENTITY evaluate.label     "جائزہ لیں">
 <!ENTITY evaluate.accesskey "ج">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+
+
 
 <!ENTITY copyCmd.label       "نقل کریں">  
 <!ENTITY copyCmd.accesskey   "ن"> 

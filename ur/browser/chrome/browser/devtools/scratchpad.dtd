@@ -27,43 +27,39 @@
 
 <!ENTITY newWindowCmd.label           "نیا دریچہ">
 <!ENTITY newWindowCmd.accesskey       "ن">
-<!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "مسل کھولیں...">
+
+<!ENTITY openFileCmd.label            "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey        "م">
-<!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
+
 
 <!ENTITY saveFileCmd.label            "محفوظ کریں">
 <!ENTITY saveFileCmd.accesskey        "م">
-<!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "محفوظ کریں بطور...">
+
+<!ENTITY saveFileAsCmd.label          "محفوظ کریں بطور…">
 <!ENTITY saveFileAsCmd.accesskey      "ب">
 
 <!ENTITY closeCmd.label               "بند کریں">
-<!ENTITY closeCmd.key                 "W">
+
 <!ENTITY closeCmd.accesskey           "ب">
 
 <!ENTITY editMenu.label               "تدوین">
 <!ENTITY editMenu.accesskey           "ت">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
+
+
 
 <!ENTITY inspect.label                "تحقیق">
 <!ENTITY inspect.accesskey            "ت">
-<!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
-<!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "l">
+
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -71,8 +67,6 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "مشمولات">
@@ -84,36 +78,26 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "براؤز کریں ...">
+<!ENTITY browserContext.label         "براؤزر">
 <!ENTITY browserContext.accesskey     "ب">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+
+
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-
-<!ENTITY errorConsoleCmd.commandkey   "j">

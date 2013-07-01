@@ -58,8 +58,8 @@
 
 <!ENTITY connection.label                "کنکشن">
 
-<!ENTITY connectionDesc.label            "&brandShortName;  کا انٹرنیٹ سے جڑنے کا طریقہ تشکیل کریں ">
-<!ENTITY connectionSettings.label        "سیٹنگیں...">
+<!ENTITY connectionDesc.label            "&brandShortName;  کا انٹرنیٹ سے جڑنے کا طریقہ تشکیل کریں">
+<!ENTITY connectionSettings.label        "سیٹنگیں…">
 <!ENTITY connectionSettings.accesskey    "س">
 
 <!ENTITY httpCache.label                 "کیسہ بند ویب مواد">
@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "تازہ کاری کریں">
 
 <!ENTITY updateApp.label                 "&brandShortName; تازہ کاریاں:">
-<!ENTITY updateAuto.label                "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
-<!ENTITY updateAuto.accesskey            "خ">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
+<!ENTITY updateAuto1.accesskey           "خ">
+
+
 <!ENTITY updateCheck.label               "تازہ کاریوں کے لیے چیک کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
 <!ENTITY updateCheck.accesskey           "چ">
 <!ENTITY updateManual.label              "تازہ کاریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "اگر یہ میرے کوئی بھی ایڈ اون نا اہل بنائے گا تو مجھے متنبہ کریں">
 <!ENTITY updateAutoAddonWarn.accesskey   "م">
+
 
 <!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
 <!ENTITY updateHistory.accesskey         "ت">
@@ -107,12 +113,12 @@
 
 <!ENTITY offlineNotify.label             "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
 <!ENTITY offlineNotify.accesskey         "ب">
-<!ENTITY offlineNotifyExceptions.label   "استثنیات">
+<!ENTITY offlineNotifyExceptions.label   "استثنیات…">
 <!ENTITY offlineNotifyExceptions.accesskey "ا">
 
 <!ENTITY offlineAppsList2.label          "مندرجہ ذیل ویب سائٹوں کو آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کی اجازت ہے:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ہٹائیں">
+<!ENTITY offlineAppsListRemove.label     "ہٹائیں…">
 <!ENTITY offlineAppsListRemove.accesskey "ہ">
 <!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "پ">
 <!ENTITY viewCerts.label                 "تصدیق نامے نظارہ کریں">
 <!ENTITY viewCerts.accesskey             "ت">
-<!ENTITY viewCRLs.label                  "باطلفہرستیں">
-<!ENTITY viewCRLs.accesskey              "ب">
 <!ENTITY verify2.label                   "جواز دہی">
 <!ENTITY verify2.accesskey               "ج">
 <!ENTITY viewSecurityDevices.label       "سلامتی آلات">

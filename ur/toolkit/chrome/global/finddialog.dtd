@@ -5,7 +5,7 @@
 
 
 <!ENTITY findDialog.title "اس صفحے میں ڈھونڈیں">
-<!ENTITY findField.label "کیا ڈھونڈیں">
+<!ENTITY findField.label "کیا ڈھونڈیں:">
 <!ENTITY findField.accesskey "ڈ">
 <!ENTITY caseSensitiveCheckbox.label "کیس میچ کریں">
 <!ENTITY caseSensitiveCheckbox.accesskey "ک">

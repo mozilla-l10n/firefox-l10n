@@ -6,7 +6,6 @@
 <!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
-<!ENTITY devmgr.style                           "width: 52em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "سلامتی ماڈیول و آلات">
 <!ENTITY devmgr.details.title                   "تفصیلات">
@@ -34,7 +33,7 @@
 <!ENTITY loaddevice.modname.default             "نیا PKCS#11 ماڈیول">
 <!ENTITY loaddevice.filename                    "ماڈیول نام مسل:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse                      "براؤز کریں…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "PKCS#11 آلہ لوڈ کریں">

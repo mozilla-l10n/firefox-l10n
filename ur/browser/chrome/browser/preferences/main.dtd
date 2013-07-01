@@ -15,7 +15,7 @@
 <!ENTITY useCurrentPage.label      "حالیہ صفحہ برتیں">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "حالیہ صفحے اتستعمال کریں">
-<!ENTITY chooseBookmark.label      "نشانی استعمال کریں ...">
+<!ENTITY chooseBookmark.label      "نشانی استعمال کریں…">
 <!ENTITY chooseBookmark.accesskey  "ن">
 <!ENTITY restoreDefault.label      "طے شدہ بحال کریں">
 <!ENTITY restoreDefault.accesskey  "ب">
@@ -28,9 +28,9 @@
 <!ENTITY closeWhenDone.accesskey "ج">
 <!ENTITY saveTo.label "مسل محفوظ کریں بر">
 <!ENTITY saveTo.accesskey "م">
-<!ENTITY chooseFolderWin.label        "براؤز کریں ...">
+<!ENTITY chooseFolderWin.label        "براؤز کریں…">
 <!ENTITY chooseFolderWin.accesskey    "ب">
-<!ENTITY chooseFolderMac.label        "انتخاب کریں ...">
+<!ENTITY chooseFolderMac.label        "انتخاب کریں…">
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے">
 <!ENTITY alwaysAsk.accesskey "ہ">

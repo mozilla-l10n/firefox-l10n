@@ -8,36 +8,14 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
-  -  application menu item that opens the debugger UI. -->
-
-
-
-<!ENTITY debuggerMenu.label2            "ڈی بگر">
-<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools menu entry of Debugger that opens the debugger UI. -->
-
-<!ENTITY debuggerMenu.accesskey         "D">
-<!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the remote debugger UI. -->
-
-<!ENTITY remoteDebuggerMenu.label       "بعید ڈی بگر">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI. -->
-
-<!ENTITY chromeDebuggerMenu.label       "براؤزر ڈی بگر">
-<!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
-  -  launches the debugger UI. Do not translate this one! -->
-
-<!ENTITY debuggerMenu.commandkey        "S">
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
+
+
 
 <!ENTITY debuggerUI.closeButton.tooltip "بند کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
-
-<!ENTITY debuggerUI.panesButton.tooltip "Toggle panes">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -46,12 +24,12 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions     "استثنیات پر توقف کریں">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
 <!ENTITY debuggerUI.showPanesOnInit     "آغاز پر جھروکے دکھائیں">
-<!ENTITY debuggerUI.showPanesOnInit.key "ش">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
@@ -68,8 +46,6 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource      "Show original sources">
-<!ENTITY debuggerUI.showOriginalSource.key  "O">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 
@@ -77,9 +53,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
-<!ENTITY debuggerUI.searchFile          "Filter scripts">
-<!ENTITY debuggerUI.searchFile.key      "P">
-<!ENTITY debuggerUI.searchFile.altkey   "O">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
@@ -88,8 +62,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction      "Search for function definition">
-<!ENTITY debuggerUI.searchFunction.key  "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
@@ -97,8 +69,6 @@
 <!ENTITY debuggerUI.searchToken.key     "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-
-<!ENTITY debuggerUI.searchLine          "Jump to line…">
 <!ENTITY debuggerUI.searchLine.key      "J">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
@@ -108,22 +78,16 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
-<!ENTITY debuggerUI.focusVariables      "Focus variables tree">
-<!ENTITY debuggerUI.focusVariables.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
 <!ENTITY debuggerUI.condBreakPanelTitle "یہ بریک پوائنٹ صرف مندرجہ ذیل ایکسپریشن کے صحیح ہونے پر عمل کاری روکے گا">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuBreak         "Add breakpoint">
 <!ENTITY debuggerUI.seMenuBreak.key     "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-
-<!ENTITY debuggerUI.seMenuCondBreak     "Add conditional breakpoint">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->

@@ -17,9 +17,9 @@
 <!ENTITY manageAccount.label          "اکاؤنٹ منظم کیجیئے">
 <!ENTITY manageAccount.accesskey      "م">
 <!ENTITY viewQuota.label              "کوٹا نظارہ کریں">
-<!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں ...">
+<!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں…">
 <!ENTITY myRecoveryKey.label          "میری بازیافت کلید">
-<!ENTITY resetSync2.label             "سنک پھر سیٹ کریں ...">
+<!ENTITY resetSync2.label             "سنک پھر سیٹ کریں…">
 
 <!ENTITY pairDevice.label             "آلے کا جوڑا بنائیں">
 
@@ -38,7 +38,7 @@
 <!ENTITY engine.addons.accesskey    "ا">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "آلہ نام">
+<!ENTITY syncDeviceName.label       "آلہ نام:">
 <!ENTITY syncDeviceName.accesskey   "ل">
 <!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
 <!-- Footer stuff -->

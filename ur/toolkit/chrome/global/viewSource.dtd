@@ -10,23 +10,23 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "کا ماخذ:">
+<!ENTITY mainWindow.preface "کا ماخذ: ">
 
 <!ENTITY fileMenu.label "مسل">
 <!ENTITY fileMenu.accesskey "م">
-<!ENTITY savePageCmd.label "صفحہ محفوظ کریں بطور...">
+<!ENTITY savePageCmd.label "صفحہ محفوظ کریں بطور…">
 <!ENTITY savePageCmd.accesskey "ب">
-<!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "صفحہ سیٹ اپ...">
+
+<!ENTITY pageSetupCmd.label "صفحہ سیٹ اپ…">
 <!ENTITY pageSetupCmd.accesskey "س">
 <!ENTITY printPreviewCmd.label "چھپائی پیش نظارہ">
 <!ENTITY printPreviewCmd.accesskey "پ">
-<!ENTITY printCmd.label "چھاپیں...">
+<!ENTITY printCmd.label "چھاپیں…">
 <!ENTITY printCmd.accesskey "چ">
-<!ENTITY printCmd.commandkey "P">
+
 <!ENTITY closeCmd.label "بند کریں">
 <!ENTITY closeCmd.accesskey "ب">
-<!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
@@ -39,10 +39,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
 <!ENTITY textReduce.commandkey2 "">
-<!ENTITY textReset.commandkey "0">
+
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "سطر پر جائیں...">
+<!ENTITY goToLineCmd.label "سطر پر جائیں…">
 <!ENTITY goToLineCmd.accesskey "س">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -50,7 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.accesskey       "ن">
 <!ENTITY reloadCmd.label "پھر لوڈ کریں">
 <!ENTITY reloadCmd.accesskey "پ">
-<!ENTITY reloadCmd.commandkey "r">
+
 <!ENTITY menu_wrapLongLines.title "لمبی سطریں ملفوف کریں"> 
 <!ENTITY menu_wrapLongLines.accesskey "ل">
 <!ENTITY menu_highlightSyntax.label "نحو نمایاں کاری">
@@ -64,12 +64,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "عام">
 <!ENTITY menu_textReset.accesskey "ع">
 
-<!ENTITY findOnCmd.label     "Find in This Page…">
-<!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
+<!ENTITY findOnCmd.accesskey "ڈ">
+
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
 <!ENTITY findAgainCmd.accesskey "د">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "واپس">
@@ -79,7 +79,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "]">
 <!ENTITY goForwardCmd.commandKey "[">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "L">
+
 <!ENTITY copyEmailCmd.label "ای میل پتہ نقل کریں">
 <!ENTITY copyEmailCmd.accesskey "ا">

@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "ب">
 <!ENTITY            renameButton.label     "پروفائل کو نیا نام دیں...">
 <!ENTITY            renameButton.accesskey "ن">
-<!ENTITY            deleteButton.label     "پروفائل حذف کریں...">
+<!ENTITY            deleteButton.label     "پروفائل حذف کریں…">
 <!ENTITY            deleteButton.accesskey "ح">
 <!-- manager entities -->
 

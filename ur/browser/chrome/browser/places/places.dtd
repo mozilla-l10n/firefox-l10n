@@ -34,14 +34,14 @@
 <!ENTITY importOtherBrowser.label          "کسی دوسرے براؤزر سے کوائف درآمد کریں ...">
 <!ENTITY importOtherBrowser.accesskey      "د">
 
-<!ENTITY cmd.backup.label               "پشتارہ ...">
+<!ENTITY cmd.backup.label               "پشتارہ…">
 <!ENTITY cmd.backup.accesskey           "پ">
 <!ENTITY cmd.restore2.label             "بحال کریں">
 <!ENTITY cmd.restore2.accesskey         "ب">
-<!ENTITY cmd.restoreFromFile.label      "مسل منتخاب کریں ...">
+<!ENTITY cmd.restoreFromFile.label      "مسل منتخاب کریں…">
 <!ENTITY cmd.restoreFromFile.accesskey  "م">
 
-<!ENTITY cmd.bookmarkLink.label         "یہ صفحہ نشان زد کریں ...">
+<!ENTITY cmd.bookmarkLink.label         "یہ صفحہ نشان زد کریں…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ن">
 <!ENTITY cmd.delete.label               "اس صفحے کو حذف کریں">
 <!ENTITY cmd.delete.accesskey           "ح">
@@ -64,9 +64,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "چ">
 <!ENTITY cmd.context_sortby_name.accesskey  "ن">
 
-<!ENTITY cmd.new_bookmark.label            "نئی نشانی ...">
+<!ENTITY cmd.new_bookmark.label            "نئی نشانی…">
 <!ENTITY cmd.new_bookmark.accesskey        "ن">
-<!ENTITY cmd.new_folder.label              "نیا پوشہ ...">
+<!ENTITY cmd.new_folder.label              "نیا پوشہ…">
 <!ENTITY cmd.new_folder.accesskey          "پ">
 <!ENTITY cmd.context_new_folder.accesskey  "پ">
 <!ENTITY cmd.new_separator.label           "نیا جداکار">
@@ -75,7 +75,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "لایو نشانی پھر لوڈ کریں">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "پ">
 
-<!ENTITY cmd.moveBookmarks.label                  "بڑھائیں ...">
+<!ENTITY cmd.moveBookmarks.label                  "بڑھائیں…">
 <!ENTITY cmd.moveBookmarks.accesskey              "ب">
 
 <!ENTITY col.name.label          "نام">

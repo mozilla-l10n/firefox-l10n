@@ -4,24 +4,24 @@
 
 <!ENTITY  blockPopups.label           "پوپ اپ وینڈوز بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
-<!ENTITY  popupExceptions.label       "استثنیات ...">
+<!ENTITY  popupExceptions.label       "استثنیات…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
 <!ENTITY  fontsAndColors.label        "فانٹ &amp; رنگ">
 
-<!ENTITY  defaultFont.label           "طےشدہ فانٹ ...">
+<!ENTITY  defaultFont.label           "طےشدہ فانٹ:">
 <!ENTITY  defaultFont.accesskey       "ط">
 <!ENTITY  defaultSize.label           "سائز:">
 <!ENTITY  defaultSize.accesskey       "س">
 
-<!ENTITY  advancedFonts.label         "اعلٰی ...">
+<!ENTITY  advancedFonts.label         "اعلٰی…">
 <!ENTITY  advancedFonts.accesskey     "ا">
 
-<!ENTITY  colors.label                "رنگ">
+<!ENTITY  colors.label                "رنگ…">
 <!ENTITY  colors.accesskey            "ر">
 
 
 <!ENTITY languages.label              "زبانیں">
 <!ENTITY chooseLanguage.label         "صفحہ دکھانے کے لیے اپنی زبان چنیں">
-<!ENTITY chooseButton.label           "انتخاب کریں ...">
+<!ENTITY chooseButton.label           "انتخاب کریں…">
 <!ENTITY chooseButton.accesskey       "ا">

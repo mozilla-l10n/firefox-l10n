@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  creator.label               "Created By:">
-<!ENTITY  developers.label            "Developers:">
 <!ENTITY  translators.label           "مترجمین:">
 <!ENTITY  contributors.label          "معاونین:">
-<!ENTITY  homepage.label              "Visit Home Page">
+

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.emWidth "26em">
-<!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Choose an Application">
+
+
 <!ENTITY ChooseApp.label "چنیں...">
 <!ENTITY ChooseApp.accessKey "چ">

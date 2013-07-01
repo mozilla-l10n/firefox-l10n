@@ -18,7 +18,7 @@
 <!ENTITY  blockWebForgeries.label     "بلاک کی گئی ویب نقلیں رپورٹ کریں">
 <!ENTITY  blockWebForgeries.accesskey "ب">
 
-<!ENTITY  addonExceptions.label         "استثنیات ...">
+<!ENTITY  addonExceptions.label         "استثنیات…">
 <!ENTITY  addonExceptions.accesskey     "ا">
 
 
@@ -26,13 +26,13 @@
 
 <!ENTITY  rememberPasswords.label       "سائٹوں کے لیے پاس ورڈ یاد رکھیں">
 <!ENTITY  rememberPasswords.accesskey   "س">
-<!ENTITY  passwordExceptions.label      "استثنیات">
+<!ENTITY  passwordExceptions.label      "استثنیات…">
 <!ENTITY  passwordExceptions.accesskey  "ا">
 
 <!ENTITY  useMasterPassword.label        "ماسٹر پاس ورڈ استعمال کریں">
 <!ENTITY  useMasterPassword.accesskey    "ا">
-<!ENTITY  changeMasterPassword.label     "ماسٹر پاس ورڈ تبدیل کریں ...">
+<!ENTITY  changeMasterPassword.label     "ماسٹر پاس ورڈ تبدیل کریں…">
 <!ENTITY  changeMasterPassword.accesskey "م">
 
-<!ENTITY  savedPasswords.label            "محفوظ پاس ورڈ ...">
+<!ENTITY  savedPasswords.label            "محفوظ پاس ورڈ…">
 <!ENTITY  savedPasswords.accesskey        "پ">

@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "تلاش کریں:">
 <!ENTITY searchPrefs.accesskey "ت">
-<!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "ترجیح نام">
@@ -25,8 +25,6 @@
 <!ENTITY prefColumnHeader.tooltip "چھانٹنے کے لیے کلک کریں"> 
 <!ENTITY columnChooser.tooltip "دکھانے والے کالم منتخب کرنے کے لیے کلک کریں"> 
 <!-- Context Menu -->
-
-<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "نقل کریں">
 <!ENTITY copyPref.accesskey "ن">
 <!ENTITY copyName.label "نام نقل کریں">

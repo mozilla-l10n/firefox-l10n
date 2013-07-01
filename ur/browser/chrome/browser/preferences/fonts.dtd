@@ -69,6 +69,6 @@
 <!ENTITY  allowPagesToUse.accesskey               "د">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "ورثہ مواد کے لیے کریکٹر ضابطہ بندی">
-<!ENTITY languages.customize.Fallback.label       "طے شدہ کریکٹر ضابطہ بندی">
+<!ENTITY languages.customize.Fallback.label       "طے شدہ کریکٹر ضابطہ بندی:">
 <!ENTITY languages.customize.Fallback.accesskey   "ک">
 <!ENTITY languages.customize.Fallback.desc        "یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔">

@@ -25,6 +25,9 @@
 آپ کے پاس اسے تنصیب کرنے کی جگہ دستیاب نہیں۔">
 <!ENTITY  manualUpdateGetMsg.label        "آپ کسی بھی وقت &brandShortName; کا تازہ ترین ورژن یہاں سے لے سکتے ہیں:">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "ایڈ اون کی موازنت کی پڑتال کر رہا ہے">
 <!ENTITY  incompatibleCheck.label         "آپ کے ایڈ اون کے لیے نئے ورژن ڈھونڈ رہا ہے...">
 

@@ -16,7 +16,7 @@
 <!ENTITY  generalTab            "عمومی">
 <!ENTITY  generalTab.accesskey  "ع">
 <!ENTITY  generalURL            "پتہ:">
-<!ENTITY  generalType           "نقش کا نام مسل یا محل وقوع ٹائپ کریں">
+<!ENTITY  generalType           "قسم:">
 <!ENTITY  generalMode           "رینڈر موڈ:">
 <!ENTITY  generalSize           "سائز:">
 <!ENTITY  generalReferrer       "یو آر ایل کا حوالہ دے رہا ہے:">

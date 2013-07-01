@@ -8,7 +8,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "شروع ہو رہا ہے...">
+<!ENTITY starting.label                   "شروع ہو رہا ہے…">
 <!ENTITY scanning.label                   "وائرس کے لیے سکین کر رہا ہے...">
 
 <!ENTITY downloads.title                  "ڈاؤن لوڈ">

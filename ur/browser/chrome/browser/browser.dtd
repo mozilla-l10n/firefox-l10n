@@ -20,6 +20,10 @@
 <!ENTITY  reloadTab.accesskey                "پ">
 <!ENTITY  reloadAllTabs.label                "تمام ٹیب پھر لوڈ کریں">
 <!ENTITY  reloadAllTabs.accesskey            "ت">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
 <!ENTITY  closeOtherTabs.label               "دیگر ٹیب بند کر دیں">
 <!ENTITY  closeOtherTabs.accesskey           "د">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -51,14 +55,14 @@ can reach it easily. -->
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "محل وقوع کھولیں...">
 <!ENTITY openLocationCmd.accesskey "م">
-<!ENTITY openFileCmd.label "مسل کھولیں...">
+<!ENTITY openFileCmd.label "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey "م">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "صفحہ سیٹ اپ...">
+<!ENTITY printSetupCmd.label "صفحہ سیٹ اپ…">
 <!ENTITY printSetupCmd.accesskey "س">
 <!ENTITY printPreviewCmd.label "چھپائی پیش نظارہ">
 <!ENTITY printPreviewCmd.accesskey "پ">
-<!ENTITY printCmd.label "چھاپیں...">
+<!ENTITY printCmd.label "چھاپیں…">
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "p">
 
@@ -128,8 +132,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideoCmd.label "یہ وڈیو بانٹیں">
 <!ENTITY shareVideoCmd.accesskey "ب">
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
-<!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں ...">
-<!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں ...">
+<!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
+<!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
 <!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
 <!ENTITY unsortedBookmarksCmd.label "غیر چھانٹی شدہ نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
@@ -147,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "حالیہ صفحہ پھر لوڈ کریں">
 <!ENTITY stopCmd.label                "رکیں">
 <!ENTITY stopCmd.accesskey            "ر">
-<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopCmd.macCommandKey        "۔">
 <!ENTITY stopButton.tooltip           "یہ صفحہ لوڈ کرنا روکیں">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
 <!ENTITY printButton.label            "چھاپیں">
@@ -168,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.tooltip      "اپنے گروپ ٹیب کریں">
 
 <!ENTITY feedButton.label             "رکن بنیں">
-<!ENTITY feedButton.tooltip           "اس پیج کے ساتھ رکنیت سازی کریں">
+<!ENTITY feedButton.tooltip           "اس پیج کے ساتھ رکنیت سازی کریں…">
 
 <!ENTITY bookmarksButton.label          "نشانیاں">
 <!ENTITY bookmarksButton.tooltip        "اپنی نشانیا نمائش کریں">
@@ -193,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "ٹول">
 <!ENTITY toolsMenu.accesskey          "ٹ"> 
 
-<!ENTITY keywordfield.label           "اس تلاش کے لیے کلیدی لفظ ڈالیں">
+<!ENTITY keywordfield.label           "اس تلاش کے لیے کلیدی لفظ ڈالیں…">
 <!ENTITY keywordfield.accesskey       "ک">
 <!ENTITY search.label                 "ویب تلاش">
 <!ENTITY search.accesskey             "ت">
@@ -209,16 +213,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
-<!ENTITY devtoolsConnect.label        "جڑیں...">
+<!ENTITY devtoolsConnect.label        "جڑیں…">
 <!ENTITY devtoolsConnect.accesskey    "ج">
 
 <!ENTITY errorConsoleCmd.label        "نقص کنسول">
 <!ENTITY errorConsoleCmd.accesskey    "ک">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
 
 <!ENTITY browserConsoleCmd.label      "براؤزر کنسول">
+
+<!ENTITY browserConsoleCmd.accesskey  "ب">
 
 <!ENTITY inspectContextMenu.label     "ایلیمنٹ چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "چ">
@@ -241,6 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F3">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
@@ -304,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ٹ"> 
 <!ENTITY viewSidebarMenu.label "بغلی بار">
 <!ENTITY viewSidebarMenu.accesskey "غ">
-<!ENTITY viewCustomizeToolbar.label       "تخصیص کریں ..."> 
+<!ENTITY viewCustomizeToolbar.label       "تخصیص کریں…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 <!ENTITY viewTabsOnTop.label            "ٹیب سب سے اوپر">
 <!ENTITY viewTabsOnTop.accesskey        "ٹ">
@@ -425,15 +432,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "ر">
 <!ENTITY saveImageCmd.label           "نقش محفوظ کریں بطور ...">
 <!ENTITY saveImageCmd.accesskey       "م">
-<!ENTITY saveVideoCmd.label           "وڈیو محفوظ کریں بطور ...">
+<!ENTITY saveVideoCmd.label           "وڈیو محفوظ کریں بطور…">
 <!ENTITY saveVideoCmd.accesskey       "و">
-<!ENTITY saveAudioCmd.label           "آڈیو محفوظ کریں بطور...">
+<!ENTITY saveAudioCmd.label           "آڈیو محفوظ کریں بطور…">
 <!ENTITY saveAudioCmd.accesskey       "م">
 <!ENTITY emailImageCmd.label          "نقش ای میل کریں…">
 <!ENTITY emailImageCmd.accesskey      "ا">
-<!ENTITY emailVideoCmd.label          "وڈیو ای میل کریں...">
+<!ENTITY emailVideoCmd.label          "وڈیو ای میل کریں…">
 <!ENTITY emailVideoCmd.accesskey      "ا">
-<!ENTITY emailAudioCmd.label          "آڈیو ای میل کریں...">
+<!ENTITY emailAudioCmd.label          "آڈیو ای میل کریں…">
 <!ENTITY emailAudioCmd.accesskey      "ا">
 <!ENTITY playPluginCmd.label          "اس پلگ ان کو متحرک کریں">
 <!ENTITY playPluginCmd.accesskey      "م">
@@ -471,8 +478,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "ا">
 <!ENTITY mediaPlaybackRate.label     "چلنے کی رفتار">
 <!ENTITY mediaPlaybackRate.accesskey "چ">
-<!ENTITY mediaPlaybackRate050x.label "آہستہ چلاےءیں (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "آ">
+<!ENTITY mediaPlaybackRate050x.label "آہستہ حرکت (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "ح">
 <!ENTITY mediaPlaybackRate100x.label "عام رفتار">
 <!ENTITY mediaPlaybackRate100x.accesskey "ع">
 <!ENTITY mediaPlaybackRate150x.label "تیز رفتار(1.5×)">
@@ -491,7 +498,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "ک">
 <!ENTITY videoFullScreen.label       "پوری سکرین">
 <!ENTITY videoFullScreen.accesskey   "پ">
-<!ENTITY videoSaveImage.label        "سنیپ شاٹ محفوظ کریں بطور">
+<!ENTITY videoSaveImage.label        "سنیپ شاٹ محفوظ کریں بطور…">
 <!ENTITY videoSaveImage.accesskey    "م">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -570,8 +577,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "پاپ اپ بلاک ترجیحات تدوین کریں ...">
-<!ENTITY editPopupSettings.label "پاپ اپ بلاک ترجیحات تدوین کریں ...">
+<!ENTITY editPopupSettingsUnix.label "پاپ اپ بلاک ترجیحات تدوین کریں…">
+<!ENTITY editPopupSettings.label "پاپ اپ بلاک ترجیحات تدوین کریں…">
 <!ENTITY editPopupSettings.accesskey "ت">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -581,7 +588,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ب">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں ...">
+<!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
 <!ENTITY findOnCmd.accesskey "ڈ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
@@ -589,7 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "لغات اضافہ کریں ...">
+<!ENTITY spellAddDictionaries.label "لغات اضافہ کریں…">
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
 <!ENTITY editBookmark.done.label                     "ختم">
@@ -611,7 +618,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "جو جلائی جا رہی ہے بر">
 
-<!ENTITY identity.moreInfoLinkText "مزید معلومات ...">
+<!ENTITY identity.moreInfoLinkText "مزید معلومات…">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -672,3 +679,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "زیادہ تر ویب سائٹیں اس مواد کے بلاک ہونے کے بوجود بھی ٹھیک سے کام کریں گی۔">
 
 <!ENTITY pointerLock.notification.message "اس کو دوبارہ دکھانے کے لیے ESC دبائیں  ">
+
+<!ENTITY pluginNotification.showAll.label "تمام دکھائیں">
+<!ENTITY pluginNotification.showAll.accesskey "ت">
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+

@@ -18,6 +18,9 @@
 <!ENTITY aboutSupport.appBasicsTitle "ایپلی کیشن BASIC">
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "ورژن">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "پروفائل ڈائریکٹری">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "لائبریری ورژن">
 
 <!ENTITY aboutSupport.installationHistoryTitle "انسٹا لیشن سابقات">
-<!ENTITY aboutSupport.updateHistoryTitle "سابقات اپڈیٹ کریں">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
