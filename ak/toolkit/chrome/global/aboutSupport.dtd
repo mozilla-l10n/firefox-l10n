@@ -18,6 +18,11 @@ a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 <!ENTITY aboutSupport.appBasicsTitle "Aplekehyɛn mfitiase">
 <!ENTITY aboutSupport.appBasicsName "Din">
 <!ENTITY aboutSupport.appBasicsVersion "Vɛɛhyen">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Update History">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Show Update History">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Daerɛktri Ho-nsɛm">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -45,8 +50,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "aba">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Eniso-ade">
 
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Nwomasiebea Vɛɛhyennom">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instɔlehyɛn Abakɔsɛm">
-<!ENTITY aboutSupport.updateHistoryTitle "ntoso abakɔsɛm">
+<!ENTITY aboutSupport.updateHistoryTitle "Update History">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+

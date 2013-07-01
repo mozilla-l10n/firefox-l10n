@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Rehwɛ">
 
-<!ENTITY dntTrackingNopref.label        "Mma nnka me apɛde, sɛ ɛba no sɛ wɔbɛhwɛ anaaso wɔrennhwɛ me ekyiri kwan, nnkyerɛ nsaet.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Ka kyerɛ nwɛbsaet nyinara sɛ me mmpɛ sɛ wɔhwɛ me ekyiri kwan.">
-<!ENTITY dntTrackingNotOkay.accesskey   "p">
-<!ENTITY dntTrackingOkay.label          "Ka kyerɛ nwɛbsaet nyinara sɛ me mmpɛ sɛ wɔhwɛ me ekyiri kwan.">
-<!ENTITY dntTrackingOkay.accesskey      "p">
+<!ENTITY dntTrackingNopref.label2       "Do not tell sites anything about my tracking preferences">
+
+<!ENTITY dntTrackingNotOkay.label2      "Tell sites that I do not want to be tracked">
+
+<!ENTITY dntTrackingOkay.label2         "Tell sites that I want to be tracked">
+
 <!ENTITY doNotTrackInfo.label           "Sua bio ka ho">
 
 <!ENTITY  history.label                 "Abakɔsɛm">

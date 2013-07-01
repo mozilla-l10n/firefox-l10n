@@ -72,8 +72,8 @@
 <!ENTITY certmgr.close.accesskey              "T">
 <!ENTITY certmgr.view2.label                  "Hwɛ…">
 <!ENTITY certmgr.view2.accesskey              "H">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+
+
 <!ENTITY certmgr.editca.label                 "Longosa CA obwesigwa">
 <!ENTITY certmgr.editca.accesskey             "o">
 <!ENTITY certmgr.add.label                    "Fa-ka-ho">
@@ -82,8 +82,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Pepa…">
 <!ENTITY certmgr.delete2.accesskey            "P">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+
+
 <!ENTITY certmgr.backup2.label                "Sie-bio…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Jjamu copi otteereke ya zona…">
@@ -106,9 +106,9 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Lokehyɛn:">
 <!ENTITY exceptionMgr.certlocation.download   "Leeta santikate">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+
 <!ENTITY exceptionMgr.certstatus.caption      "Obugumu bya santifikate">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Leegere…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+
 <!ENTITY exceptionMgr.permanent.label         "Ekyekalakalira tteereka okundawo kino">
 <!ENTITY exceptionMgr.permanent.accesskey     "E">
