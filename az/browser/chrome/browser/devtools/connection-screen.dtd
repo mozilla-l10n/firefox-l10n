@@ -6,12 +6,9 @@
   - in the Web Developer menu.
   - -->
 
-
-<!ENTITY title      "Connect">
-
 <!ENTITY host       "Server:">
 <!ENTITY port       "Əlaqə nöqtəsi:">
-<!ENTITY connect    "Connect">
+
 <!ENTITY connecting "Bağlanır…">
 
 

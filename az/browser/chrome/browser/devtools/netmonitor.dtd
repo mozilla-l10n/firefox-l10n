@@ -20,16 +20,12 @@
 <!ENTITY netmonitorUI.toolbar.file        "Dosya">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
-
-<!ENTITY netmonitorUI.toolbar.domain      "Domain">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
 <!ENTITY netmonitorUI.toolbar.type        "Format">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column. -->
-
-<!ENTITY netmonitorUI.toolbar.size        "Size">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 <!-- LOCALIZATION NOTE (debuggerUI.tab.headers): This is the label displayed
@@ -46,8 +42,6 @@
   -  in the network details pane identifying the timings tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
-
-<!ENTITY netmonitorUI.footer.filterAll    "All">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterCSS): This is the label displayed
@@ -82,12 +76,8 @@
 <!ENTITY netmonitorUI.summary.url         "Request URL:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
-
-<!ENTITY netmonitorUI.summary.method      "Request method:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
-
-<!ENTITY netmonitorUI.summary.status      "Status code:">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
@@ -104,8 +94,6 @@
 <!ENTITY netmonitorUI.response.dimensions "Ölçülər:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
-
-<!ENTITY netmonitorUI.response.mime       "MIME Type:">
 <!-- LOCALIZATION NOTE (debuggerUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
@@ -113,24 +101,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
-
-<!ENTITY netmonitorUI.timings.blocked     "Blocked:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
-
-<!ENTITY netmonitorUI.timings.connect     "Connecting:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
 <!-- LOCALIZATION NOTE (debuggerUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
-
-<!ENTITY netmonitorUI.timings.wait        "Waiting:">
 <!-- LOCALIZATION NOTE (debuggerUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->

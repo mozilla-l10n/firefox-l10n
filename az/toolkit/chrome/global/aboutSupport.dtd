@@ -19,8 +19,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Update History">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Show Update History">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik qovluğu">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -63,7 +61,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Kitabxana versiyaları">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Quraşdırma tarixçəsi">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
