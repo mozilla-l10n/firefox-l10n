@@ -7,16 +7,13 @@
   - -->
 
 
-<!ENTITY title      "Connect">
-
-
 <!ENTITY port       "Tokuro:">
-<!ENTITY connect    "Connect">
+
 <!ENTITY connecting "Rekɔnɛkt…">
 
 
-<!ENTITY connectionError "Error:">
 
 
-<!ENTITY errorUnexpected "Unexpected error.">
+
+
 

@@ -53,7 +53,7 @@
 
 <!ENTITY run.label                    "Him">
 <!ENTITY run.accesskey                "H">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "Hwɛhwɛ">
 <!ENTITY inspect.accesskey            "w">
@@ -88,10 +88,8 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
+
+
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer

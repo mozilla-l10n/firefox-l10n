@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Bisa bere biara">
 <!ENTITY permission.allow                "Ma Ho Kwan">
 <!ENTITY permission.allowForSession      "Ma ho kwan ma sɛhyɛn yi">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+
 <!ENTITY permission.block                "Siw-kwan">
 
 <!ENTITY password.label                  "Sie ehintasɛnsɛmfua">
