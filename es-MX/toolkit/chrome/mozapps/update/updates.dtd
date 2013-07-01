@@ -18,11 +18,14 @@ las actualizaciones automáticas de &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "No es posible realizar la actualización">
 <!ENTITY  manualUpdate.desc               "Esta disponible una actualización de seguridad y estabilidad, pero 
-no tienes los permisos necesarios para instalarla. Contacte con tu 
+no tienes los permisos necesarios para instalarla. Contacta a tu 
 administrador de sistemas o intenta nuevamente desde una cuenta con los permisos necesarios para 
-instalar programas en esta computadora.">
+instalar programas en este equipo.">
 <!ENTITY  manualUpdate.space.desc         "Una actualización recomendada de seruridad y estabilidad está disponible, pero no tienes suficiente espacio para instarla.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
+
+
+
 
 <!ENTITY  incompatibleCheck.title         "Comprobando la compatibilidad de los complementos">
 <!ENTITY  incompatibleCheck.label         "Buscando la versión más reciente de tus complementos…">

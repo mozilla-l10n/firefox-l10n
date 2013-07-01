@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Actualizar">
 
 <!ENTITY updateApp.label                 "Actualizaciones de &brandShortName; :">
-<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
-<!ENTITY updateAuto.accesskey            "a">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
+<!ENTITY updateAuto1.accesskey           "a">
+
+
 <!ENTITY updateCheck.label               "Comprobar si hay actualizaciones, pero permitirme elegir si serán instaladas">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No buscar actualizaciones (no recomendado: riesgo de seguridad)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará cualquiera de mis complementos">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "M">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "P">
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "Listas de revocación">
-<!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Validación">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de seguridad">

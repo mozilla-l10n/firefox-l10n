@@ -10,7 +10,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "¡Página reportada como atacante!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página hospedada en <span id='malware_sitename'/> ha sido reportada como atacante y se bloqueó con base en tus preferencias de seguridad.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas atacantes intentan instalar programas para robarte información privada, usar tu computadora para atacar a otras o dañar tu sistema.</p><p>Algunas distribuyen intencionalmente programas dañinos y otras han sido comprometidas sin el conocimiento de sus dueños.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas atacantes intentan instalar programas para robarte información privada, usar tu equipo para atacar a otros o dañar tu sistema.</p><p>Algunas distribuyen intencionalmente programas dañinos y otras fueron comprometidas sin el conocimiento de sus dueños.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "¡Página reportada como falsificada!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
