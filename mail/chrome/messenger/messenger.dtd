@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
-<!ENTITY openAttachmentCmd.label "Anhänge">
-<!ENTITY openAttachmentCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "Speichern als">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Datei…">
@@ -426,8 +424,10 @@
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
-<!ENTITY openConversationCmd.accesskey "h">
+<!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Anhänge">
+<!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Beim Öffnen eines Feed-Artikels">
 <!ENTITY openFeedMessage1.accesskey "d">
 <!ENTITY openFeedWebPage.label "Als Webseite anzeigen">

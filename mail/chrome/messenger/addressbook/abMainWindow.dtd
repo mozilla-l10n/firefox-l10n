@@ -33,10 +33,10 @@
 <!ENTITY printPreviewContactCmd.accesskey               "D">
 <!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch">
 <!ENTITY printPreviewAddressBook.accesskey              "r">
-<!ENTITY printContactCmd.label                          "Drucke Kontakt…">
+<!ENTITY printContactCmd.label                          "Kontakt drucken…">
 <!ENTITY printContactCmd.accesskey                      "u">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Drucke Adressbuch…">
+<!ENTITY printAddressBook.label                         "Adressbuch drucken…">
 <!ENTITY printAddressBook.accesskey                     "k">
 
 <!-- Edit Menu -->
@@ -59,12 +59,12 @@
 <!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Löschen">
 <!ENTITY deleteCmd.accesskey                            "L">
-<!ENTITY deleteAbCmd.label                              "Lösche Adressbuch">
-<!ENTITY deleteContactCmd.label                         "Lösche Kontakt">
-<!ENTITY deleteContactsCmd.label                        "Lösche Kontakte">
-<!ENTITY deleteListCmd.label                            "Lösche Liste">
-<!ENTITY deleteListsCmd.label                           "Lösche Listen">
-<!ENTITY deleteItemsCmd.label                           "Lösche Elemente">
+<!ENTITY deleteAbCmd.label                              "Adressbuch löschen">
+<!ENTITY deleteContactCmd.label                         "Kontakt löschen">
+<!ENTITY deleteContactsCmd.label                        "Kontakte löschen">
+<!ENTITY deleteListCmd.label                            "Liste löschen">
+<!ENTITY deleteListsCmd.label                           "Listen löschen">
+<!ENTITY deleteItemsCmd.label                           "Elemente löschen">
 <!ENTITY selectAllCmd.label                             "Alles auswählen">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">

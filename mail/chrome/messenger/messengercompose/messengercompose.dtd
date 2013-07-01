@@ -249,8 +249,8 @@
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Keine Vorschläge gefunden">
-<!ENTITY spellCheckIgnoreWord.label "Ignoriere dieses Wort">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckIgnoreWord.label "Wort ignorieren">
+<!ENTITY spellCheckIgnoreWord.accesskey "g">
 <!ENTITY spellCheckAddToDictionary.label "Zu Benutzerwörterbuch hinzufügen">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Rückgängig">
