@@ -521,17 +521,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ailosod">
 <!ENTITY fullZoomResetCmd.accesskey     "i">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Chwyddo'r Testun yn Unig">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
