@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Yeniləmə">
 
 <!ENTITY updateApp.label                 "&brandShortName; yeniləmələri:">
-<!ENTITY updateAuto.label                "Yeniləmələri avtomatik quraşdır (tövsiyyə edilir: gücləndirilmiş təhlükəsizlik)">
-<!ENTITY updateAuto.accesskey            "o">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Yeniləmələri avtomatik quraşdır (tövsiyyə edilir: gücləndirilmiş təhlükəsizlik)">
+<!ENTITY updateAuto1.accesskey           "o">
+
+
 <!ENTITY updateCheck.label               "Yeniləmələri yoxla, amma quraşdırmaq qərarını mən verim">
 <!ENTITY updateCheck.accesskey           "d">
 <!ENTITY updateManual.label              "Yeniləmələri heç vaxt yoxlama (tövsiyyə edilmir: təhlükəsizlik riski)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Bu əməliyyat, əlavələrdən birini söndürəcəksə mənə bildir">
 <!ENTITY updateAutoAddonWarn.accesskey   "m">
+
 
 <!ENTITY updateHistory.label             "Yeniləmə keçmişini göstər">
 <!ENTITY updateHistory.accesskey         "g">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "b">
 <!ENTITY viewCerts.label                 "Sertifikatları göstər">
 <!ENTITY viewCerts.accesskey             "g">
-<!ENTITY viewCRLs.label                  "Ləğv siyahısı">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Təsdiqləmə">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Təhlükəsizlik cihazları">

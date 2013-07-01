@@ -11,8 +11,8 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "B">
 <!ENTITY wrapCheckbox.label "Başdan başla">
 <!ENTITY wrapCheckbox.accesskey "l">
-<!ENTITY findButton.label "Tap">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findButton.label "Sonrakını Tap">
+<!ENTITY findButton.accesskey "T">
 <!ENTITY cancelButton.label "ləğv et">
 <!ENTITY closeButton.label "Qapat">
 <!ENTITY up.label "Yukarı">

@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Təhlükəsizlik">
 <!ENTITY downloadCert.viewCert.text "CA təsdiqləmə sənədini yoxla">
 <!ENTITY downloadCert.viewPolicy.text "CA Politikasını və prosedurasını yoxla">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Təsdiqləmə sənədi mövcuddur">
-<!ENTITY caCertExists.message "Bu təsdiq sənədi daha əvvəl qeydiyyatdan keçib.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "İstifadəçi təyin etmə sorğusu">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "Heç nəyə baxmayaraq təsdiq sənədi rəsmisi tərəfindən şifrələnmiş xüsusi açarınız saxlandı və şifrələnmiş e-poçt və ya sənədlərinizi sizin icazəniz olmadan oxumaq məqsədi ilə istifadə edilə bilər.">
 <!ENTITY examineCert.label "Sertifikatı göstər">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message "Lütfən kömək üçün Sistem idarəçinizə müraciət edin.">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Xüsusi açar yarat">

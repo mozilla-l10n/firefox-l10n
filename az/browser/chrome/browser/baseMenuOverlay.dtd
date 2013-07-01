@@ -28,8 +28,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Problemlərin aradan qaldırılması üzrə məlumatlar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
-<!ENTITY helpFeedbackPage.label      "Firkilərinizi bölüşün...">
-<!ENTITY helpFeedbackPage.accesskey  "b">
+<!ENTITY helpFeedbackPage.label      "Fikirlərinizi Bölüşün…">
+<!ENTITY helpFeedbackPage.accesskey  "B">
 
 <!ENTITY preferencesCmdMac.label        "Seçənəklər…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

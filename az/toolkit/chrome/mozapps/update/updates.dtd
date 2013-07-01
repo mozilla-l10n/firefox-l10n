@@ -20,6 +20,9 @@
 ancaq quraşdırma üçün kifayət qədər sahəniz yoxdur.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; proqramının ən son versiyasını ən son versiyasını hər zaman burdan yükləyə bilərsiniz:">
 
+
+<!ENTITY  unsupportedLink.label           "learn more.">
+
 <!ENTITY  incompatibleCheck.title         "Əlavələrin uyğunluq yoxlaması">
 <!ENTITY  incompatibleCheck.label         "Əlavələrinizin yeni versiyaları axtarılır…">
 
