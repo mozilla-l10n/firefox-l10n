@@ -64,3 +64,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.userJSTitle "Preferénse into user.js">
 
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Fànni védde a stöia di agiornaménti">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Stöia di agiornaménti">
+
+
