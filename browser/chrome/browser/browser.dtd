@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "Cau Tabiau i'r Dde">
+<!ENTITY  closeTabsToTheEnd.accesskey        "D">
 <!ENTITY  closeOtherTabs.label               "Cau Tabiau Eraill">
 <!ENTITY  closeOtherTabs.accesskey           "C">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -221,9 +222,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Consol Gwe Pell">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
-
-<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.label      "Consol y Porwr">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "P">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
