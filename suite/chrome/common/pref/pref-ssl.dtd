@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; kann Sie über den Sicherheitsstatus von Webseiten, die Sie ansehen, informieren. Anzeigen einer Warnung und Frage um Erlaubnis aktivieren vor:">
 <!ENTITY warn.enteringsecure                "Laden einer Seite, die Verschlüsselung unterstützt">

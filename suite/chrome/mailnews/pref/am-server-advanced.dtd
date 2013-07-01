@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Server erlauben, diese Namespaces zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "S">
 <!ENTITY pop3Desc.label "Beim Herunterladen von POP3-Mail von diesem Server folgenden Ordner für neue Mails verwenden:" >
-<!ENTITY globalInbox.label "Globaler Posteingang (Account &quot;Lokale Ordner&quot;)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Posteingang für den Account dieses Servers">
 <!ENTITY accountDirectory.accesskey "P">
 <!ENTITY deferToServer.label "Posteingang eines anderen Accounts">
