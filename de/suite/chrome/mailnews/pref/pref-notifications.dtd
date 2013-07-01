@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Warnung anzeigen für">
 <!ENTITY showAlertFor.accesskey           "z">
 <!ENTITY showAlertTimeEnd.label           "Sekunden">
-<!ENTITY showAlertTimeEnd.accesskey       "k">
 
 <!ENTITY showAlertPreviewText.label       "Vorschau des Nachrichtentexts anzeigen">
 <!ENTITY showAlertPreviewText.accesskey   "V">
