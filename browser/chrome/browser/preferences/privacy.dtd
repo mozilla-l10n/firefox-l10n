@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNopref.label        "No decir a los sitios nada sobre mis preferencias de seguimiento.">
+<!ENTITY dntTrackingNopref.label2       "No decir a los sitios nada sobre mis preferencias de seguimiento.">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Indicar a los sitios web que no quiero ser rastreado.">
+<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado.">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Indicar a los sitios web que quiero ser rastreado.">
-<!ENTITY dntTrackingOkay.accesskey      "q">
+<!ENTITY dntTrackingOkay.label2         "Indicar a los sitios web que quiero ser rastreado.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Saber más...">
 
 <!ENTITY  history.label                 "Historial">
@@ -51,7 +51,7 @@
 <!ENTITY  historyHeader.remember.label     "Recordar el historial">
 <!ENTITY  historyHeader.dontremember.label "No recordar el historial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada para el historial">
-<!ENTITY  historyHeader.post.label         "Usar una configuración personalizada para el historial">
+<!ENTITY  historyHeader.post.label         "Usa la configuración personalizada para el historial">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; recordará tu historial de navegación, descargas, datos ingresados en formularios, búsquedas y mantendrá las cookies de los sitios web visitados.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
