@@ -18,6 +18,11 @@
 <!ENTITY aboutSupport.appBasicsTitle "Տեղեկություն հավելվածի մասին">
 <!ENTITY aboutSupport.appBasicsName "Անուն">
 <!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Թարմացումների մատյան">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Ցուցադրել Թարմացումների Պատմությունը">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Պրոֆիլի պահոց">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

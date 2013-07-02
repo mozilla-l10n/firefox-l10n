@@ -9,7 +9,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Միանգամից ուղարկում է տեղեկատվություն սարքակազմի, օգտագործման և կարգավորումների մասին &vendorShortName;-ին՝ &brandShortName;-ը էլ ավելի լավը դարձնելու համար:">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Ինքնաբերաբար տեղեկություներ կուղարկվեն արտադրողականության, սարքակազմի, օգտագործման և կազմաձևման մասին &vendorShortName;-ին՝ օգնելու դարձնել &brandShortName;-ը էլ ավելի լավը:">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " հանդիսանում է ">
@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Օգտագործողի Իրավունքները">
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Գաղտնիության Դրույթները">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -47,6 +47,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName;-ը թարմ է">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Թարմացումներն անջատված են ձեր ցանացային ադմինիստրատորի կողմից:">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;-ը թարմացվել է այլ օրինակի կողմից">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -63,6 +65,16 @@
 
 <!ENTITY update.manual.start        "Թարմացումները առկա են՝ ">
 <!ENTITY update.manual.end          "Թարմացումները առկա են՝">
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Չեք կարող կատարել հետագա թարմացումները այս համակարգում:">
+<!ENTITY update.unsupported.linkText "Ավելին">
+<!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -78,4 +90,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Այժմ գործում է՝">
-<!ENTITY channel.description.end    " թարմացումների աղբյուրում:  ">
+<!ENTITY channel.description.end    " թարմացումների աղբյուրը:  ">

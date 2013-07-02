@@ -25,6 +25,12 @@
 դուք չունեք բավարար ազատ տարածք այն տեղադրելու համար:">
 <!ENTITY  manualUpdateGetMsg.label        "Դուք միշտ կարող էք ներբեռնել &brandShortName;-ի վերջին տարբերակը այստեղից`">
 
+<!ENTITY  unsupported.title               "Համակարգը չի աջակցվում">
+<!ENTITY  unsupported.label               "Ձեր &brandShortName;-ը հնացել է, բայց վերջին տարբերակը չի
+աջակցվում ձեր համակարգի կողմից: Թարմացրեք համակարգը, ապա կրկին փորձել:
+Այլևս չեք տեսնի այս հուշումը, բայց կարող եք">
+<!ENTITY  unsupportedLink.label           "իմանալ ավելին:">
+
 <!ENTITY  incompatibleCheck.title         "Ստուգվում է հավելումների համատեղելիությունը">
 <!ENTITY  incompatibleCheck.label         "Ձեր հավելումների նոր տարբերակների որոնում…">
 
