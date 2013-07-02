@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "سیاست">
 <!ENTITY downloadCert.viewCert.text "بررسی گواهی مرجع صدور">
 <!ENTITY downloadCert.viewPolicy.text "بررسی سیاست‌ها و رویه‌های مرجع صدور گواهی">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "گواهی موجود است">
-<!ENTITY caCertExists.message "این گواهی از قبل موجود است.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "درخواست تشخیص هویت کاربر">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "با این وجود توجه داشته باشید که کلید خصوصی رمزنگاری شما در مرجع گواهی ذخیره خواهد شد و می‌تواند برای خواندن بی‌اجازهٔ نامه‌ها و نوشتارهای رمزنگاری شدهٔ شما به کار رود.">
 <!ENTITY examineCert.label "نمایش گواهی">
 <!ENTITY examineCert.accesskey "ن">
-
-<!ENTITY serverCrlNextupdate.message "لطفاً از مدیر سیستم‌تان راهنمایی بخواهید.">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "در حال ایجاد کلید خصوصی">

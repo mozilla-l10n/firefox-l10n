@@ -18,6 +18,9 @@
 <!ENTITY aboutSupport.appBasicsTitle "اطلاعات اولیهٔ برنامه">
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "نسخه">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "مسیر مجموعه تنظیمات">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -45,8 +48,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "مقدار">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "اطلاعات گرافیکی">
 
@@ -60,7 +61,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "نسخه‌های کتاب‌خانه">
 
 <!ENTITY aboutSupport.installationHistoryTitle "تاریخچهٔ نصب">
-<!ENTITY aboutSupport.updateHistoryTitle "تاریخچهٔ به‌هنگام‌سازی">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "به کلیپ‌بورد کپی کن">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "داده‌های خام را به کلیپ‌بورد کپی کن">

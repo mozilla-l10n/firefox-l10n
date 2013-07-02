@@ -11,9 +11,8 @@
 <!ENTITY aboutWarningButton.label "قول می‌دهم مواظب باشم!">
 <!ENTITY aboutWarningCheckbox.label "دفعهٔ بعدی هم این هشدار نمایش داده شود">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "r">
+
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "نام ترجیحات">
