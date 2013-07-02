@@ -18,7 +18,6 @@
 <!ENTITY importButton.tooltip       "ရှိပြီးသား CSSဖိုင်ကို စာတမ်းထဲသို့ ပေါင်းထည့်ပါ">
 <!ENTITY importButton.accesskey     "တ">
 
-<!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 
 <!ENTITY saveButton.label           "သိမ်းဆည်းပါ">
 <!ENTITY saveButton.tooltip         "ယခု CSS ဖိုင်ကို ဖိုင်တစ်ခုအတွင်းသို့ သိမ်းပါ">
@@ -32,8 +31,6 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
-
-<!ENTITY noStyleSheet-tip-start.label  "Perhaps you'd like to ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
 <!ENTITY noStyleSheet-tip-action.label "CSS ဖိုင် အသစ်တစ်ခု ပေါင်းထည့်ပါ">

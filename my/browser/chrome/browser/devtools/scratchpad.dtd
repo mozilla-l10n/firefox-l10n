@@ -33,11 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
 
 <!ENTITY saveFileCmd.label            "သိမ်း">
 <!ENTITY saveFileCmd.accesskey        "သ">
@@ -102,11 +100,7 @@
   -->
 
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ဆော့ဝဲတပ်ဆင်မည်">

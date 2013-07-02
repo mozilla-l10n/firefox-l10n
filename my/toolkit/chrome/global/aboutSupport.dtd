@@ -18,6 +18,11 @@ about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
 <!ENTITY aboutSupport.appBasicsTitle "အပ္ပလီကေးရှင်း အခြေခံ">
 <!ENTITY aboutSupport.appBasicsName "အမည်">
 <!ENTITY aboutSupport.appBasicsVersion "မူအဆင့်">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်း">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "အဆင့်မြှင့်တင်ချက် မှတ်တမ်းကို ပြသပါ">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ပရိုဖိုင် လမ်းညွှန်">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +65,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "လိုက်ဘရီ ဗားရှင်း">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ထည့်သွင်းခြင်းမှတ်တမ်း">
-<!ENTITY aboutSupport.updateHistoryTitle "မွမ်းမံချက် မှတ်တမ်း">
+<!ENTITY aboutSupport.updateHistoryTitle "အဆင့်မြှင့်တင်ချက် မှတ်တမ်း">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ကလစ်ဘုတ်သို့ ကူးသောစာ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ကူးထားသောဒေတာအကြမ်းကို ကလစ်ဘုတ်သို့">

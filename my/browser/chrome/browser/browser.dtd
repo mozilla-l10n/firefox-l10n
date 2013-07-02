@@ -20,6 +20,11 @@
 <!ENTITY  reloadTab.accesskey                "စ">
 <!ENTITY  reloadAllTabs.label                "စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်။">
 <!ENTITY  reloadAllTabs.accesskey            "စ">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "(i)ညာဘက်ဘေးကပ်မည်">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "အခြားစာမျက်နှာများအား ပိတ်ပစ်မည်။">
 <!ENTITY  closeOtherTabs.accesskey           "အ">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -214,11 +219,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "(C) ထိန်းချုပ်ခလုတ်ခုံ အမှား">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
-<!ENTITY browserConsoleCmd.label      "ဘယောက်ဆာ Console">
+<!ENTITY browserConsoleCmd.label      "(B)ဘယောက်ဆာ ကွန်ဆိုလ်">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "အသေးစိတ်ခွဲခြမ်းစိတ်ဖြာမည်။">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -241,6 +247,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "ဘရောက်ဇာ ဒီဘပ်ဂါ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
@@ -672,3 +682,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "ယခု အကြောင်းအရာ ကို ပိတ်ဆို့ထားနေစဉ်ပင်တွင် ဝက်ဘ်ဆိုက်များ အများစု ကောင်းမွန်စွာ အလုပ်လုပ်နိုင်">
 
 <!ENTITY pointerLock.notification.message "နောက်တခါပြန်ကြည့်ချင်ရင် ESC  နှိပ်ပါ">
+
+<!ENTITY pluginNotification.showAll.label "Sအားလုံးပြပါ">
+<!ENTITY pluginNotification.showAll.accesskey "S">
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+<!ENTITY pluginActivateNow.label "ယခုခွင့်ပြုလိုက်မယ်">
+<!ENTITY pluginActivateAlways.label "ခွင့်ပြုပြီး ခွင့်ပြုချက်ကို မှတ်ထားမယ်">
+<!ENTITY pluginBlockNow.label "ထပ်ပေါင်းဆော့ဝဲ အားပိတ်">

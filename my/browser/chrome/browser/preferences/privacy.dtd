@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY dntTrackingNopref.label        "(o)သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားသင့်ရဲ့လိုလားမှုများကိုမပြောပြပါ">
+<!ENTITY dntTrackingNopref.label2       "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားသင့်ရဲ့လိုလားမှုများကိုမပြောပြပါ">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "n သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
+<!ENTITY dntTrackingNotOkay.label2      "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "(d)၀တ်ဆိုက်များအားသင်ခြေရာခံလိုကြောင်းပြောပါ">
-<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY dntTrackingOkay.label2         "၀တ်ဆိုက်များအားသင်ခြေရာခံလိုကြောင်းပြောပါ">
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY  history.label                 "မှတ်တမ်း">

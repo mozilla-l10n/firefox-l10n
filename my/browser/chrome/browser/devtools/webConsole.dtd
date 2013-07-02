@@ -11,28 +11,23 @@
 <!ENTITY window.title "Web Console">
 <!ENTITY browserConsole.title "ဘယောက်ဆာ Console">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
+
+
 <!ENTITY networkPanel.requestCookie               "ကွတ်ကီးများကိုပို့ပြီး">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -43,29 +38,35 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
-<!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
-<!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
-<!ENTITY btnPageSecurity.label "လုံခြုံရေး">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
+
+<!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
+  -  access key for the menu button that allows users to toggle the network
+  -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
+  -  sure you do not use the following letters: A, E, N and P. These are used
+  -  for editing commands in text inputs. -->
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
-<!ENTITY btnConsoleErrors       "အမှားများ">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "သတိပေးချက်များ">
-<!ENTITY btnConsoleLog          "Log">
 
-<!ENTITY filterOutput.placeholder "Filter output">
-<!ENTITY btnClear.label        "ရှင်းလင်းပါ">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnConsoleErrors       "အမှားများ">
+
+<!ENTITY btnConsoleWarnings     "သတိပေးချက်များ">
+
+
+
+
+
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -81,4 +82,5 @@
 <!ENTITY copyURLCmd.label     "Copy Link Location">
 <!ENTITY copyURLCmd.accesskey "a">
 
-<!ENTITY closeCmd.key  "W">
+
+

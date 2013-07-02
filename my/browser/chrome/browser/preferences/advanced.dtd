@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "မွမ်းမံချက်">
 
 <!ENTITY updateApp.label                 "&brandShortName; ပြုပြင်ချင်းများ">
-<!ENTITY updateAuto.label                "Aအလိုအလျောက် ပြုပြင်ချင်းများ (အကြံပြုထားသော၊ လုံခြုံရေးမြှင့်ထားသော)">
-<!ENTITY updateAuto.accesskey            "A">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Aအလိုအလျောက် ပြုပြင်ချင်းများ (အကြံပြုထားသော၊ လုံခြုံရေးမြှင့်ထားသော)">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAutoMetro.label           "sအလိုအလျောက် &brandShortName; အား အဆင့်မြှင့်တင်ပါ">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Cပြုပြင်ချင်းများစုံစမ်းစစ်ဆေး၊ ဒါပေမယ့် တစ်ခုမဟုတ်တစ်ခု တပ်ဆင်ပါ">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
@@ -94,6 +99,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "ကျွန်ပ်ရဲ့ ပေါင်းထည့်ချက်များ တခုခုကို ပိတ်မယ်ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
 <!ENTITY updateAutoAddonWarn.accesskey   "က">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 စတိုင်လ် &brandShortName; ဟာ ထပ်ပေါင်းဆော့ဝဲများအား မစစ်ဆေးပါ)">
 
 <!ENTITY updateHistory.label             "pမွမ်းမံချက် မှတ်တမ်းကို ပြသပါ">
 <!ENTITY updateHistory.accesskey         "p">
@@ -124,8 +131,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "sလုံခြုံရေးလက်မှတ်များကိုကြည့်မည်">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "Rပြန်လည်ရုတ်သိမ်းခြင်း စာရင်းများ">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Validation">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "yလုံခြုံရေး ကိရိယာများ">
