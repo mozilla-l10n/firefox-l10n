@@ -12,5 +12,5 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
 
-<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.label          "Փնտրել HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
