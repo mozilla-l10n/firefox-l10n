@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Polisi">
 <!ENTITY downloadCert.viewCert.text "Periksa sijil CA">
 <!ENTITY downloadCert.viewPolicy.text "Periksa polis dan prosedur CA">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Sijil Wujud">
-<!ENTITY caCertExists.message "Sijil sedia wujud.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Permohonan Pengenalan Pengguna">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "Bagaimanapun, kunci peribadi akan disimpan oleh autoriti sijil, dan akan digunakan untuk membaca emel dan dokumen tersulit anda tanpa keizinan anda.">
 <!ENTITY examineCert.label "Lihat Sijil">
 <!ENTITY examineCert.accesskey "L">
-
-<!ENTITY serverCrlNextupdate.message "Sila bertanya pentadbir sistem anda untuk bantuan">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Menjana Kucni Peribadi">

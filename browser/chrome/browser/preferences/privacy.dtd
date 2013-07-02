@@ -4,12 +4,12 @@
 
 <!ENTITY tracking.label                 "Penjejakan">
 
-<!ENTITY dntTrackingNopref.label        "Jangan beritahu laman apa-apa tentang tetapan penjejakan saya.">
-<!ENTITY dntTrackingNopref.accesskey    "J">
-<!ENTITY dntTrackingNotOkay.label       "Beritahu laman saya tidak mahu dijejaki.">
-<!ENTITY dntTrackingNotOkay.accesskey   "d">
-<!ENTITY dntTrackingOkay.label          "Beritahu laman saya tidak mahu dijejaki.">
-<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY dntTrackingNopref.label2       "Jangan beritahu laman mengenai sebarang tetapan penjejakan saya">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2      "Beritahu laman saya tidak mahu dijejaki">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2         "Beritahu laman yang saya mahu dijejaki">
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Ketahui Lanjut">
 
 <!ENTITY  history.label                 "Sejarah">

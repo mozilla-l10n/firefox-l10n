@@ -18,6 +18,11 @@ about &brandShortName;, check out our <a id='supportLink'>support web site</a>."
 <!ENTITY aboutSupport.appBasicsTitle "Aplikasi asas">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Sejarah Kemaskini">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Papar Sejarah Kemaskini">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktori Profil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
