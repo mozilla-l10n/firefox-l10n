@@ -100,6 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará cualquiera de mis complementos">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 estilo &brandShortName; no puede revisar la compatibilidad de los complementos)">
 
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "M">
