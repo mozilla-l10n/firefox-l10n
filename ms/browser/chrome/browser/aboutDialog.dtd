@@ -6,7 +6,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; sedang dieksperimen dan ia masih tidak stabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ia secara automatik menghantar maklumat mengenai prestasi, penggunaan, perkakasan dan penyesuaian dihantar kepada &vendorShortName; untuk membantu &brandShortName; buat yang lebih baik.">
+<!ENTITY warningDesc.telemetryDesc  "Ia secara automatik menghantar maklumat mengenai prestasi, perkakasan, pengunaan dan penyesuaian ke &vendorShortName; untuk membantu menjadikan &brandShortName; lebih baik.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -70,6 +70,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Anda tidak boleh melakukan kemas kini yang selanjutnya pada sistem ini.">
 <!ENTITY update.unsupported.linkText "Ketahui Lanjut">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

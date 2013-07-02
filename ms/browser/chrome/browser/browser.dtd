@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "Tutup Tab ke Kanan">
+<!ENTITY  closeTabsToTheEnd.accesskey        "n">
 <!ENTITY  closeOtherTabs.label               "Tutup tab-tab yang Lain">
 <!ENTITY  closeOtherTabs.accesskey           "T">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "Konsol Kawalan Web">
 
 <!ENTITY browserConsoleCmd.label      "Konsol Pelayar">
-
+<!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "K">
 
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
@@ -686,4 +687,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.showAll.accesskey "P">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!ENTITY pluginActivateNow.label "Benarkan Sekarang">
 
+<!ENTITY pluginBlockNow.label "Sekat Plugin">
