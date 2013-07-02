@@ -15,7 +15,7 @@
 <!ENTITY password.placeholder "Password">
 <!ENTITY password.text "Opzionale, verrà usata solo per validare il nome utente">
 <!ENTITY rememberPassword.label "Ricorda password">
-<!ENTITY rememberPassword.accesskey "R">
+<!ENTITY rememberPassword.accesskey "w">
 <!ENTITY imapLong.label "IMAP (cartelle remote)">
 <!ENTITY pop3Long.label "POP3 (tenere la posta sul proprio computer)">
 <!ENTITY incoming.label "In entrata:">

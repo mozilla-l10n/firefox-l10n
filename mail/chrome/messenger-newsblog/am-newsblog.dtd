@@ -11,6 +11,7 @@
 <!ENTITY useQuickMode.accesskey "m">
 <!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "G">
+<!ENTITY feedWindowTitle.label "Creazione nuovo account di feed">
 <!ENTITY feeds.accountName "Blog e feed delle news">
 <!ENTITY feeds.wizardShortName "Feed">
 <!ENTITY feeds.wizardLongName "Blog e feed delle news">

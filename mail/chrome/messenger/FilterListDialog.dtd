@@ -12,7 +12,7 @@
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY reorderTopButton "Sposta in cima">
-<!ENTITY reorderTopButton.accessKey "m">
+<!ENTITY reorderTopButton.accessKey "a">
 <!ENTITY reorderTopButton.toolTip "Impostare questo filtro in modo che venga eseguito prima degli altri">
 <!ENTITY reorderUpButton.label "Sposta su">
 <!ENTITY reorderUpButton.accesskey "S">

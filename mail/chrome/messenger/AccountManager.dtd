@@ -9,6 +9,8 @@
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Aggiungi un account di chat…">
 <!ENTITY addIMAccountButton.accesskey "A">
+<!ENTITY addFeedAccountButton.label "Aggiungi un account di feed…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Aggiungi altro account…">
 <!ENTITY addOtherAccountButton.accesskey "u">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
