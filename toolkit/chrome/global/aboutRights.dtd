@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "شما از حقی در خصوص علائم تجاری بنیاد موزیلا و یا هر شخص ثالثی، از جمله نام یا نشان فایرفاکس برخوردار نیستید. اطلاعات بیشتر در مورد علائم تجاری در ">
 <!ENTITY rights.intro-point2-b "اینجا">
-<!ENTITY rights.intro-point2-c ".">
+
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "برخی ویژگی‌ها در &brandShortName;، مانند گزارش‌گر فروپاشی، به شما اختیار ارسال نظر به &vendorShortName; می‌دهند. 
@@ -35,8 +35,6 @@
 
 <!ENTITY rights.intro-point3-unbranded "سیاست‌های محرمانگی مربوط به این محصول باید در این مکان ذکر شوند.">
 <!-- point 4 text for official branded builds -->
-
-<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
 <!ENTITY rights.intro-point4b "شرایط خدمات">
 <!ENTITY rights.intro-point4c " موجود است.">
 <!-- point 4 text for unbranded builds -->
@@ -51,10 +49,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
-<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "این‌جا">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
+
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "مرور امن: ">
@@ -62,7 +58,7 @@
 اگر مایل به غیر فعال کردن کامل این ویژگی هستید، به این ترتیب عمل کنید:">
 <!ENTITY rights.safebrowsing-term1 "پنجرهٔ ترجیحات برنامه را باز کنید">
 <!ENTITY rights.safebrowsing-term2 "بخش امنیت را انتخاب کنید">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "مرور امن اکنون غیر فعال شده است">
 <!-- location aware browsing points for branded builds -->
 
@@ -90,7 +86,7 @@
 <!ENTITY rights2.webservices-term3 "ما شما را به استفاده از این ویژگی‌ها در &brandShortName; دعوت می‌کنیم، و &vendorShortName; اجازهٔ این کار را به شما اعطا می‌کند. 
 &vendorShortName; و همکاران بقیهٔ حقوق مربوطه را برای خود محفوظ نگه می‌دارند. 
 هدف از این شرایط محدود کردن حقوق اعطایی تحت مجوزهای بازمتن &brandShortName; نیست.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+
 <!ENTITY rights.webservices-term5 "به جز موارد تعیین شده توسط قانون، &vendorShortName;، شرکت‌کنندگان، اشخاص صادر کنندهٔ مجوزها، و پخش‌کنندگان مسئول هیچ نوع آسیب غیر مستقیم، خاص، موردی، ناچیز، جزایی، یا تکرار شدنی در اثر یا به هر عنوان مربوط به استفاده از &brandShortName; و خدمات آن نیستند.  مسئولیت تجمعی بر اساس این شرایط از ۵۰۰ (پانصد) دلار تجاوز نخواهد کرد.  برخی حوزه‌های قضایی اجازهٔ حذف یا محدود کردن ضمانت‌های ضمنی را نمی‌دهند، بنابراین امکان دارد این متن رفع مسئولیت به شما مربوط نشود.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; می‌تواند این شرایط را در صورت لزوم هر چند وقت یک بار تغییر دهد.  این شرایط بدون توافق کتبی &vendorShortName; قابل تغییر یا لغو نیستند.">
 <!ENTITY rights.webservices-term7 "این شرایط تحت قوانین ایالت کالیفرنیا، ایالات متحدهٔ آمریکا، بدون در نظر گرفتن تضاد بین قانون‌های شرایط قرارداد قرار دارند.  اگر هر بخش از این شرایط برای شما غیر معتبر یا غیر قابل اجرا است، بقیهٔ بخش‌های آن به قوت خود باقی می‌مانند.  در صورت تضادی بین نسخهٔ ترجمه شدهٔ این شرایط و نسخهٔ به زبان انگلیسی، نسخهٔ زبان انگلیسی ملاک عمل خواهد بود.">

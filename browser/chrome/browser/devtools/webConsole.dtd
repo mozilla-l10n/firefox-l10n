@@ -8,12 +8,8 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Web Console">
-<!ENTITY browserConsole.title "Browser Console">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+
 
 <!ENTITY networkPanel.requestHeaders              "سرآیندهای درخواست">
 <!ENTITY networkPanel.requestCookie               "کوکی‌های ارسال شده">
@@ -21,7 +17,7 @@
 <!ENTITY networkPanel.requestFormData             "اطلاعات فرم ارسال شده">
 
 <!ENTITY networkPanel.responseHeaders             "سرآیندهای پاسخ">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
+
 <!ENTITY networkPanel.responseBody                "متن پاسخ">
 <!ENTITY networkPanel.responseBodyCached          "اطلاعات موجود در حافظهٔ نهان">
 <!ENTITY networkPanel.responseBodyUnknownType     "نوع ناشناخته">
@@ -31,54 +27,53 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
-<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "Net">
-<!ENTITY btnPageNet.tooltip "Log network access">
-<!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
-<!ENTITY btnPageJS.label    "JS">
-<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
-<!ENTITY btnPageSecurity.label "امنیت">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
+
+<!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
+  -  access key for the menu button that allows users to toggle the network
+  -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
+  -  sure you do not use the following letters: A, E, N and P. These are used
+  -  for editing commands in text inputs. -->
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Logging">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+
 <!ENTITY btnConsoleErrors       "خطاها">
-<!ENTITY btnConsoleInfo         "Info">
+
 <!ENTITY btnConsoleWarnings     "اخطارها">
-<!ENTITY btnConsoleLog          "Log">
 
-<!ENTITY filterOutput.placeholder "Filter output">
-<!ENTITY btnClear.label        "پاک کردن">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
 
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+
+
+
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyURLCmd.accesskey "ن">
 
-<!ENTITY closeCmd.key  "W">
+
+

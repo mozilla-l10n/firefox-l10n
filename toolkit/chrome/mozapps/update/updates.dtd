@@ -22,6 +22,9 @@
 <!ENTITY  manualUpdate.space.desc         "یک به‌هنگام‌سازی مهم امنیتی و پایداری وجود دارد، ولی برای نصب آن فضای خالی کافی ندارید.">
 <!ENTITY  manualUpdateGetMsg.label        "همیشه می‌توانید آخرین نسخهٔ &brandShortName; را در این نشانی دریافت کنید:">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "بررسی سازگاری افزودنی‌ها">
 <!ENTITY  incompatibleCheck.label         "جست‌وجو به دنبال نسخهٔ جدیدتری از افزودنی‌های‌تان…">
 
