@@ -461,6 +461,7 @@
 <!ENTITY identity.connectedTo "Вы соединены с">
 <!ENTITY identity.runBy "который управляется">
 <!ENTITY identity.moreInfoLinkText "Подробнее…">
+<!ENTITY identity.permissions "Разрешения">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Sync">
