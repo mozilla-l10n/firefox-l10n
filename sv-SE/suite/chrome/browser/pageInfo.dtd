@@ -94,6 +94,7 @@
 <!ENTITY  permImage             "Hämta bilder">
 <!ENTITY  permPopup             "Öppna extrafönster">
 <!ENTITY  permCookie            "Lagra kakor">
+<!ENTITY  permNotifications     "Visa notifieringar">
 <!ENTITY  permInstall           "Installera tillägg eller teman">
 <!ENTITY  permGeo               "Meddela plats">
 
