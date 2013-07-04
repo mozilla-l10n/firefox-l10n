@@ -66,4 +66,4 @@
 
 <!ENTITY debuggerUI.showOriginalSource      "Wëkrzëni òriginalné zdroje">
 <!ENTITY debuggerUI.showOriginalSource.key  "i">
-
+<!ENTITY debuggerUI.closeButton.tooltip "Zamkni">

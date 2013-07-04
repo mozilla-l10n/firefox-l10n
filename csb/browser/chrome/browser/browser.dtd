@@ -661,6 +661,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY browserConsoleCmd.label      "Kònsola przezérnika">
+<!ENTITY browserConsoleCmd.accesskey  "p">
 <!ENTITY markPageCmd.commandkey "m">
 <!ENTITY sharePageCmd.label "Ùprzistãpni stronã">
 
@@ -680,6 +681,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY browserConsoleCmd.commandkey "o">
 <!ENTITY chromeDebuggerMenu.label       "Debùgger przezérnika">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.label            "Zamikôj kôrtë na prawą stronã">
 <!ENTITY  closeOtherTabs.label               "Zamkni jiné kôrtë">
 <!ENTITY pluginNotification.showAll.label "Show All">
 <!ENTITY pluginNotification.showAll.accesskey "S">
