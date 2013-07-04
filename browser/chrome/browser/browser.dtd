@@ -408,12 +408,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Ver info da imagem">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Ver descrição">
-<!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Ver Vídeo">
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label 	      "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "v">
+<!ENTITY setDesktopBackgroundCmd.label "Definir como fundo do ambiente de trabalho...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "e">
 <!ENTITY bookmarkPageCmd2.label       "Adicionar aos marcadores...">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label    "Adicionar esta ligação aos marcadores...">
