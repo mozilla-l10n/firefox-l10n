@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "允許伺服器強制蓋掉這些命名空間">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "由此伺服器下載郵件後存入下列郵件匣:" >
-<!ENTITY globalInbox.label "全域收件匣 (本機郵件匣帳號) ">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "此伺服器帳號的「收件匣」">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "不同帳號的「收件匣」">
