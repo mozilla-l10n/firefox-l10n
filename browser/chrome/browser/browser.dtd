@@ -20,6 +20,11 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar todos os separadores">
 <!ENTITY  reloadAllTabs.accesskey            "t">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Fechar separadores à direita">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Fechar outros separadores">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
@@ -243,6 +248,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Depurador do navegador">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar barra de ferramentas do desenvolvedor">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do desenvolvedor">
 <!ENTITY devToolbarMenu.accesskey          "v">
@@ -399,6 +408,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Ver info da imagem">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "Ver descrição">
+<!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Ver Vídeo">
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label 	      "Ver imagem de fundo">
@@ -612,6 +623,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que é operado por">
 
 <!ENTITY identity.moreInfoLinkText "Mais informação…">
+
+<!ENTITY identity.permissions "Permissões">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
