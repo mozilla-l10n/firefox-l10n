@@ -19,6 +19,7 @@
 <!ENTITY subscribeImapFolders.label		"Mapabonneminten beheare">
 <!ENTITY settingsLink.label				"Ynstellingen foar dizze account besjen">
 <!ENTITY newAcctLink.label				"Nij account oanmeitsje">
+<!ENTITY newAcct.label                "Nij account oanmeitsje:">
 
 <!ENTITY advFeaturesSectionHdr.label	"Wiidweidige  mooglikheden">
 <!ENTITY searchMsgsLink.label			"Berjochten sykje">
