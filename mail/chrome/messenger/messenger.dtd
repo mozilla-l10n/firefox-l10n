@@ -11,7 +11,7 @@
 <!ENTITY closeOtherTabsCmd2.label "Chiudi le altre schede">
 <!ENTITY closeOtherTabsCmd2.accesskey "C">
 <!ENTITY recentlyClosedTabsCmd.label "Schede chiuse di recente">
-<!ENTITY recentlyClosedTabsCmd.accesskey "S">
+<!ENTITY recentlyClosedTabsCmd.accesskey "h">
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!ENTITY moveToNewWindow.label "Spostare in nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "S">
@@ -20,11 +20,13 @@
 <!ENTITY newOtherAccountsCmd.label "Altri account…">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
 <!ENTITY newCreateEmailAccountCmd.label "Crea un nuovo account email">
-<!ENTITY newCreateEmailAccountCmd.accesskey "C">
-<!ENTITY newExistingEmailAccountCmd.label "Account email già esistente…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "A">
+<!ENTITY newCreateEmailAccountCmd.accesskey "r">
+<!ENTITY newExistingEmailAccountCmd.label "Account email esistente…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "n">
 <!ENTITY newIMAccountCmd.label "Account di Chat…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.accesskey "o">
+<!ENTITY newFeedAccountCmd.label "Account di feed…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Contatto di Chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
@@ -130,7 +132,7 @@
 <!ENTITY messagePaneVertical.label "Visualizzazione verticale">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Riquadro cartelle">
-<!ENTITY showFolderPaneCmd.accesskey "a">
+<!ENTITY showFolderPaneCmd.accesskey "R">
 <!ENTITY showMessageCmd.label "Anteprima messaggio">
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
@@ -287,15 +289,15 @@
 <!ENTITY prevStarredMsgCmd.label "Messaggio speciale">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Cartelle di posta">
-<!ENTITY folderMenu.accesskey "C">
+<!ENTITY folderMenu.accesskey "r">
 <!ENTITY thisFolder.label "Questa cartella">
 <!ENTITY thisFolder.accesskey "Q">
 <!ENTITY goRecentlyClosedTabs.label "Schede chiuse di recente">
-<!ENTITY goRecentlyClosedTabs.accesskey "S">
+<!ENTITY goRecentlyClosedTabs.accesskey "h">
 <!ENTITY startPageCmd.label "Pagina di benvenuto">
 <!ENTITY startPageCmd.accesskey "b">
 <!ENTITY msgMenu.label "Messaggio">
-<!ENTITY msgMenu.accesskey "e">
+<!ENTITY msgMenu.accesskey "i">
 <!ENTITY newMsgCmd.label "Nuovo messaggio">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Messaggio">
@@ -322,7 +324,7 @@
 <!ENTITY forwardMsgCmd.accesskey "I">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Inoltra come">
-<!ENTITY forwardAsMenu.accesskey "o">
+<!ENTITY forwardAsMenu.accesskey "m">
 <!ENTITY forwardAsInline.label "Parte del messaggio">
 <!ENTITY forwardAsInline.accesskey "P">
 <!ENTITY forwardAsAttachmentCmd.label "Allegato">
@@ -456,6 +458,8 @@
 <!ENTITY accountManagerCmd.label "Impostazioni account…">
 <!ENTITY accountManagerCmd.accesskey "p">
 <!ENTITY accountManagerCmdUnix.accesskey "u">
+<!ENTITY allowRemoteDebugging.label "Consentire debug remoto">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 <!ENTITY getMsgButton.label "Scarica posta">
 <!ENTITY newMsgButton.label "Scrivi">
 <!ENTITY replyButton.label "Rispondi">
@@ -500,6 +504,8 @@
 <!ENTITY replyAllButton.tooltip "Rispondi al mittente e a tutti i destinatari">
 <!ENTITY replyListButton.tooltip "Rispondi alla lista di distribuzione">
 <!ENTITY forwardButton.tooltip "Inoltra il messaggio selezionato">
+<!ENTITY forwardAsInline.tooltip "Inoltra i messaggi selezionati nel corpo del messaggio">
+<!ENTITY forwardAsAttachment.tooltip "Inoltra i messaggi selezionati come allegato">
 <!ENTITY fileButton.tooltip "Sposta il messaggio selezionato">
 <!ENTITY archiveButton.tooltip "Archivia i messaggi selezionati">
 <!ENTITY nextButton.tooltip "Vai al messaggio successivo non letto">
@@ -520,6 +526,8 @@
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
 <!ENTITY appmenuButton1.tooltip "Mostra il Menu di &brandShortName;">
+<!ENTITY buttonMenuForwardAsInline.label "Inoltra nel messaggio">
+<!ENTITY buttonMenuForwardAsAttachment.label "Inoltra come allegato">
 <!ENTITY appmenuNewMsgCmd.label "Nuovo messaggio">
 <!ENTITY appmenuNewContactCmd.label "Contatto rubrica…">
 <!ENTITY appmenuEditMenu.label "Modifica">
@@ -535,8 +543,8 @@
 <!ENTITY folderSizeColumn.label "Dimensione">
 <!ENTITY folderContextGetMessages.label "Scarica messaggi">
 <!ENTITY folderContextGetMessages.accesskey "c">
-<!ENTITY folderContextOpenNewWindow.label "Apri">
-<!ENTITY folderContextOpenNewWindow.accesskey "r">
+<!ENTITY folderContextOpenInNewWindow.label "Apri in una nuova finestra">
+<!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Apri in una nuova scheda">
 <!ENTITY folderContextOpenNewTab.accesskey "A">
 <!ENTITY folderContextNew.label "Nuova sottocartella…">
@@ -638,14 +646,24 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Inoltra">
 <!ENTITY contextForward.accesskey "I">
-<!ENTITY contextForwardAsAttachment.label "Inoltra come allegato">
-<!ENTITY contextForwardAsAttachment.accesskey "I">
+<!ENTITY contextForwardAsMenu.label "Inoltra come">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Corpo del messaggio">
+<!ENTITY contextForwardAsInline.accesskey "C">
+<!ENTITY contextForwardAsAttachmentItem.label "Allegato">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Inoltra come allegati">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Sposta in">
 <!ENTITY contextMoveMsgMenu.accesskey "p">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recenti">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY contextCopyMsgMenu.label "Copia in">
 <!ENTITY contextCopyMsgMenu.accesskey "n">
+<!ENTITY contextKillThreadMenu.label "Ignora la discussione">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignora le sotto discussioni">
+<!ENTITY contextWatchThreadMenu.label "Tieni d'occhio la discussione">
 <!ENTITY contextSaveAs.label "Salva come…">
 <!ENTITY contextSaveAs.accesskey "v">
 <!ENTITY contextPrint.label "Stampa…">

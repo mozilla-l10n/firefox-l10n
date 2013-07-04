@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "A ">
-<!ENTITY fromField3.label "Da ">
-<!ENTITY senderField3.label "Mittente ">
-<!ENTITY organizationField3.label "Organizzazione ">
-<!ENTITY replyToField3.label "Rispondi a ">
-<!ENTITY subjectField3.label "Oggetto ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Ccn ">
-<!ENTITY newsgroupsField3.label "Gruppi di discussione ">
-<!ENTITY followupToField3.label "Inoltra a ">
-<!ENTITY tagsHdr3.label "Etichette ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "Riferimenti ">
-<!ENTITY messageIdField3.label "ID del messaggio ">
-<!ENTITY inReplyToField3.label "In risposta a ">
-<!ENTITY originalWebsite3.label "Sito web ">
+<!ENTITY toField4.label "A">
+<!ENTITY fromField4.label "Da">
+<!ENTITY senderField4.label "Mittente">
+<!ENTITY organizationField4.label "Organizzazione">
+<!ENTITY replyToField4.label "Rispondi-a">
+<!ENTITY subjectField4.label "Oggetto">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Ccn">
+<!ENTITY newsgroupsField4.label "Gruppi di discussione">
+<!ENTITY followupToField4.label "Inoltra a">
+<!ENTITY tagsHdr4.label "Etichette">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "User agent">
+<!ENTITY referencesField4.label "Referenze">
+<!ENTITY messageIdField4.label "ID del Messaggio">
+<!ENTITY inReplyToField4.label "In risposta a">
+<!ENTITY originalWebsite4.label "Sito Web">
 <!ENTITY editMessageDescription.label "Questa è una bozza">
 <!ENTITY editMessageButton.label "Modifica…">
 <!ENTITY hdrArchiveButton1.label "Archivia">
@@ -32,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Rispondi alla lista di distribuzione">
 <!ENTITY hdrFollowupButton1.label "Rispondi nel gruppo">
 <!ENTITY hdrFollowupButton1.tooltip "Rispondi a questo messaggio nel gruppo di discussione">
+<!ENTITY hdrMenuForwardButton.label "Inoltra come">
 <!ENTITY hdrForwardButton1.label "Inoltra">
 <!ENTITY hdrForwardButton1.tooltip "Inoltra questo messaggio">
 <!ENTITY hdrJunkButton1.label "Indesiderata">

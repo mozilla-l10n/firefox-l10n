@@ -43,7 +43,7 @@
 <!ENTITY secondsLabel.label "secondi">
 <!ENTITY openMsgIn.label "Apri i messaggi in:">
 <!ENTITY openMsgInNewTab.label "una nuova scheda">
-<!ENTITY openMsgInNewTab.accesskey "u">
+<!ENTITY openMsgInNewTab.accesskey "h">
 <!ENTITY reuseExpRadio0.label "una nuova finestra">
 <!ENTITY reuseExpRadio0.accesskey "u">
 <!ENTITY reuseExpRadio1.label "nella stessa finestra">
