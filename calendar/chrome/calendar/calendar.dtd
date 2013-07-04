@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Veakood:">
 <!ENTITY calendar.error.description "Kirjeldus:">
 <!ENTITY calendar.error.title "Tekkis viga">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Lisa sündmusena">
+<!ENTITY calendar.extract.task.button          "Lisa ülesandena">
+<!ENTITY calendar.extract.event.button.tooltip "Lisab kirjas oleva info põhjal kalendrisse sündmuse">
+<!ENTITY calendar.extract.task.button.tooltip  "Lisab kirjas oleva info põhjal kalendrisse ülesande">

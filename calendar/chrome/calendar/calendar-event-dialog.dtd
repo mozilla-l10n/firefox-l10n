@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "s">
 <!ENTITY event.categories.label                           "Kategooria:">
 <!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.categories.textbox.label                   "Lisa uus kategooria" >
+<!ENTITY event.categories.textbox.accesskey               "e">
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Osalejad:" >
