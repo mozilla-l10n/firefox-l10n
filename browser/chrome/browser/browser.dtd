@@ -624,3 +624,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.marklink.accesskey "M">
 <!ENTITY social.markpage.accesskey "m">
 
+<!ENTITY browserConsoleCmd.accesskey  "B">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY chromeDebuggerMenu.label       "બ્રાઉઝર ડિબગર">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ બંધ કરો">
+<!ENTITY pluginActivateAlways.label "પરવાનગી આપો અને યાદ રાખો">
+<!ENTITY pluginActivateNow.label "હવે પરવાનગી આપો">
+<!ENTITY pluginBlockNow.label "બ્લોક પ્લગઇન">
+<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
+
