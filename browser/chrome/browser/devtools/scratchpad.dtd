@@ -1,71 +1,90 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
 
-<!ENTITY closeCmd.label "மூடுக">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY selectAllCmd.label "அனைத்தையும் தெரிவுசெய்க">
-<!ENTITY saveFileCmd.label "சேமிக்குக">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY browserContext.label "உலாவி">
-<!ENTITY run.label "இயக்குக">
-<!ENTITY executeMenu.accesskey "X">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY resetContext.label "மீளமைக்க">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY inspect.key "i">
-<!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY cutCmd.label "Cut">
-<!ENTITY display.key "l">
-<!ENTITY saveFileAsCmd.label "என சேமி…">
-<!ENTITY executeMenu.label "Execute">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY inspect.label "Inspect">
-<!ENTITY cutCmd.key "X">
-<!ENTITY inspect.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY webConsoleCmd.accesskey "W">
-<!ENTITY fileMenu.label "கோப்பு">
-<!ENTITY undoCmd.label "முன் செயல் நீக்கம்">
-<!ENTITY saveFileCmd.commandkey "s">
-<!ENTITY editMenu.accesskey "E">
-<!ENTITY run.key "r">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY environmentMenu.accesskey "N">
-<!ENTITY newWindowCmd.commandkey "n">
-<!ENTITY saveFileAsCmd.accesskey "A">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY newWindowCmd.accesskey "N">
-<!ENTITY toolsMenu.accesskey "T">
-<!ENTITY closeCmd.key "W">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY run.accesskey "R">
-<!ENTITY contentContext.label "உள்ளடக்கம்">
-<!ENTITY copyCmd.key "C">
-<!ENTITY display.accesskey "D">
-<!ENTITY editMenu.label "தொகுக்க">
-<!ENTITY webConsoleCmd.label "Web Console">
-<!ENTITY toolsMenu.label "கருவிகள்">
-<!ENTITY window.title "Scratchpad">
-<!ENTITY contentContext.accesskey "C">
-<!ENTITY pasteCmd.label "ஒட்டு">
-<!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY display.label "காட்சிப்படுத்துக">
-<!ENTITY openFileCmd.label "கோப்பினை திறக்குக…">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY resetContext.accesskey "R">
-<!ENTITY redoCmd.label "Redo">
-<!ENTITY browserContext.accesskey "B">
-<!ENTITY environmentMenu.label "சூழல்">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY saveFileCmd.accesskey "S">
-<!ENTITY newWindowCmd.label "புதிய சாளரம்">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY newWindowCmd.label           "புதிய சாளரம்">
+<!ENTITY newWindowCmd.accesskey       "N">
+
+
+<!ENTITY openFileCmd.label            "கோப்பினைத் திறக்க…">
+<!ENTITY openFileCmd.accesskey        "O">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY closeCmd.label               "மூடுக">
+
+<!ENTITY closeCmd.accesskey           "C">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+
+
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->

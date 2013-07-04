@@ -1,52 +1,47 @@
-<!ENTITY printCmd.commandkey            "p">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY findOnCmd.commandkey           "F">
-<!ENTITY findAgainCmd.commandkey        "G">
-<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "பின்னோக்குக">
+
+
+<!ENTITY backButton.label               "பின்னால்">
 <!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "ஒரு பக்கம் பின்னோக்கிச் செல்க">
-<!ENTITY forwardButton.label            "முன்னோக்குக">
+<!ENTITY backButton.tooltip             "ஒரு பக்கம் பின்னால் செல்">
+<!ENTITY forwardButton.label            "முன்னால்">
 <!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "ஒரு பக்கம் முன்னோக்கிச் செல்க">
-<!ENTITY copyCmd.label                  "நகல் எடுக்க">
-<!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "அனைத்தையும் தெரிவுசெய்க">
-<!ENTITY selectAllCmd.accesskey         "A">
-<!ENTITY goBackCmd.commandkey           "[">
-<!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "இல்லம்">
-<!ENTITY homeButton.tooltip             "உதவிக்கான ஆரம்பப் பக்கத்துக்குச் செல்க">
+<!ENTITY forwardButton.tooltip          "ஒரு பக்கம் முன்னே செல்க">
+
+
+
+
+
+
+<!ENTITY homeButton.label               "முகப்பு">
+
 <!ENTITY printButton.label              "அச்சிடுக">
 <!ENTITY printButton.tooltip            "இந்தப் பக்கத்தை அச்சிடுக">
-<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "தேடல்">
-<!ENTITY searchHeader.label             "தேடல் பெறுபேறுகள்">
-<!ENTITY toctab.label                   "உள்ளடக்கங்கள்">
-<!ENTITY toctab.accesskey               "C">
+
+
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "எப்பொழுதும் மேலே">
-<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "சிறிதாக்குக">
+
+<!ENTITY fullZoomReduceBtn.label        "சிறிதாக்கு">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "​பெரிதாக்குக">
+<!ENTITY fullZoomEnlargeBtn.label       "பெரிதாக்கு">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

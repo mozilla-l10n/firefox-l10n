@@ -1,40 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
 
-<!ENTITY syncMy.label "Sync My">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY updatePass.label "இற்​றைப்படுத்துக">
-<!ENTITY engine.bookmarks.label "புத்தகக்குறிப்புகள்">
-<!ENTITY setupButton.accesskey "S">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.history.label "வரலாறு">
-<!ENTITY prefs.tosLink.label "சேவையினுடைய விதிமுறைகள்">
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY resetPass.label "மீளமைக்க">
-<!ENTITY manageAccount.label "கணக்கை முகாமைத்துவம் செய்க">
-<!ENTITY syncComputerName.accesskey "c">
-<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
-<!ENTITY manageAccount.accesskey "A">
-<!ENTITY viewQuota.label "ஒதுக்கீட்டை நோக்குக">
-<!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
-<!ENTITY engine.prefs.label "முன்னுரிமைகள்">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label;  இப்போது நீங்கள் உங்களுடைய அனைத்து சாதனங்களுக்குடாகவும் உங்களுடைய வரலாறு,பக்கஅடையாளங்கள்,கடவுச்சொற்கள் மற்றும் திறக்கப்பட்ட தத்தல்கள்  ஆகியவற்றை அணுகிக்கொள்ளலாம்.">
-<!ENTITY engine.prefs.accesskey "S">
-<!ENTITY engine.tabs.label "தத்தல்கள்">
-<!ENTITY changePassword2.label "கடவுச்சொல்லை மாற்றுக">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY prefs.ppLink.label "பிரத்தியேகக் கொள்கை">
-<!ENTITY syncComputerName.label "கணினியின் பெயர்:">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY resetSync2.label             "Reset Sync…">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
 
-<!ENTITY addDevice.label "ஒரு சாதனத்தைச் சேர்க்க">
+<!ENTITY updatePass.label             "இற்றைப்படுத்துக">
+
+<!-- Manage Account -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY engine.addons.label        "செருகல்கள்">
+<!ENTITY engine.addons.accesskey    "A">
+<!-- Device Settings -->
+
+
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "சேவை விதிமுறைகள்">
+<!ENTITY prefs.ppLink.label         "பிரத்தியேக கொள்கை">

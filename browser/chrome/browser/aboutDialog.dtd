@@ -1,34 +1,86 @@
-<!ENTITY aboutDialog.title "&brandFullName; பற்றி">
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY aboutDialog.title          "brandFullName பற்றி;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY update.failed.end "">
-<!ENTITY update.noUpdatesFound  "&brandShortName; இற்றைப்படுத்தப்பட்டது">
-<!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது - "> 
-<!ENTITY update.manual.end "">
-<!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது..."> 
-<!ENTITY community.middle2 ", a ">
-<!ENTITY update.checkingAddonCompat "உட்செருகல் ஒத்தியல்பு சரிபார்க்கப்படுகிறது..."> 
-<!ENTITY update.manual.start "இற்றைப்படுத்தல்கள் இங்கே : "> 
-<!ENTITY update.failed.start "இற்றைப்படுத்தல் வெற்றியளிக்கவில்லை. "> 
-<!ENTITY bottomLinks.license "அனுமதித் தகவல்"> 
-<!ENTITY contribute.end "">
-<!ENTITY update.failed.linkText "மிகவும் பிந்திய பதிப்பை பதிவிறக்குக"> 
-<!ENTITY update.adminDisabled "உங்களுடைய அமைப்பு நிர்வாகியால் இற்றைப்படுத்தல்கள் செயலற்றதாக்கப்பட்டுள்ளது"> 
-<!ENTITY community.end2 " இணையத்தை சிறந்ததாக மாற்ற முயன்று கொண்டிருக்கின்றோம். இந்த இணையமானது திறந்த, பொதுவான மற்றும் யாராலும் எந்தவித கட்டுப்பாடுமில்லாது அணுகக்கூடியதாக இருக்க வேண்டும் என நம்புகின்றோம்.">
-<!ENTITY contribute.start "Sound interesting? ">  
-<!ENTITY community.creditsLink "உலகந்தழுவிய சமூகம்"> 
-<!ENTITY bottomLinks.privacy "பிரத்தியேகக் கொள்கை"> 
-<!ENTITY update.downloading.end "">
-<!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "பங்குகொள்க!">
-<!ENTITY bottomLinks.rights "இறுதிப் பயனாளர் உரிமைகள்"> 
-<!ENTITY community.start2 "&brandShortName; ஆனது வடிவமைக்கப்பட்டது : ">
+<!ENTITY warningDesc.version        "&brandShortName; சோதனைப் பதிப்பு, நிலையற்றதாக இருக்கலாம்.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+
+
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ஒரு">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "உலகளாவிய சமூகம்">
+<!ENTITY community.end3             "இணையத்தினை திறந்ததாகவும்  பொதுவானதாகவும் மற்றும் எல்லோராலும் கையாளத்தக்கதாகவும் இருக்கும் வகையில் இணைந்து உழைத்தல் ">
+
+<!ENTITY contribute.start           "சுவரசியமாக உள்ளதா? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "பங்குபெறுங்கள்!">
+<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license        "உரிமம் தொடர்பான தகவல்">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "பயனர் உரிமைகள்">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy        "பிரத்தியேக கொள்கை">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates  "இற்றைப்படுத்தப்படுகிறது…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "செருகல்களின் இணக்கத்தன்மையைச் சரிபார்க்கிறது…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; இற்றைப்படுத்தப்பட்டுள்ளது">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "இற்றைப்படுத்தல் உங்கள் கணினி  நிர்வாகியினால் முடக்கப்பட்டுள்ளது ">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start        "இற்றைப்படுத்தல் தோல்வியுற்றது.">
+<!ENTITY update.failed.linkText     "புதிய பதிப்பினை தரவிறக்கவும்">
+<!ENTITY update.failed.end          "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start        "புதியவை கிடைக்குமிடம்">
+<!ENTITY update.manual.end          "">
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.linkText "மேலும் அறிய">
+<!ENTITY update.unsupported.end      "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start   "இற்றைப்படுத்தல்கள் பதிவிறக்கப்படுகிறது...">
+<!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "இற்றைப்படுத்தல்கள் செயல்படுத்துகிறது...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "நீங்கள் தற்போது இருக்கிறீர்கள் இதில்: ">
-<!ENTITY channel.description.end    "மேம்படுத்தும் channel. ">
 
+<!ENTITY channel.description.start  "நீங்கள் தற்போது">
+<!ENTITY channel.description.end    "அலைவரிசையை புதுப்பிக்க.">
