@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Permetti al server di sovrascrivere questi domini">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "Quando si scarica la posta da questo server utilizzare la seguente cartella per memorizzarla:">
-<!ENTITY globalInbox.label "Posta in arrivo globale (Cartelle Locali)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Posta in arrivo per l'account di questo server">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Posta in arrivo di un altro account.">

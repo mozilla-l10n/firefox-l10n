@@ -25,6 +25,11 @@
 <!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Maiusc+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Modalità filtro per etichette">
+<!ENTITY quickFilterBar.booleanModeAny.label "Qualunque di">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Almeno uno dei criteri di filtro per etichetta deve essere soddisfatto">
+<!ENTITY quickFilterBar.booleanModeAll.label "Tutti di">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tutti i criteri devono essere soddisfatti">
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth "280">
 <!ENTITY quickFilterBar.textFilter.explanation.label "Filtra i messaggi per:">
