@@ -100,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
 <!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
-<!ENTITY pref_reflow_on_zoom3 "Toque duplo para normalizar o texto">
+<!ENTITY pref_reflow_on_zoom2 "Toque duplo para normalizar o texto">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
