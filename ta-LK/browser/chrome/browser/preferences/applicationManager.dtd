@@ -1,4 +1,8 @@
-<!ENTITY appManager.title     "விண்ணப்ப விபரம்">
-<!ENTITY appManager.style     "அகலம்: 30em; குறைந்த உயரம்: 20em;">
-<!ENTITY remove.label         "நீக்குக">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY appManager.title     "மென்பொருள் விபரங்கள்">
+<!ENTITY appManager.style     "width: 47em; min-height: 40em;">
+<!ENTITY remove.label         "Remove">
 <!ENTITY remove.accesskey     "R">

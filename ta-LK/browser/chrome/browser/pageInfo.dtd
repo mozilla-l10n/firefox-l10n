@@ -1,110 +1,97 @@
-<!--
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copy">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Select All">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "பொது">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "முகவரி:">
+<!ENTITY  generalType           "வகை:">
+<!ENTITY  generalMode           "காட்டும் முறைமை:">
+<!ENTITY  generalSize           "அளவு:">
+<!ENTITY  generalReferrer       "குறிப்பிடும் URL:">
+<!ENTITY  generalSource         "இடையக மூலம்:">
+<!ENTITY  generalModified       "மாற்றப்பட்டது:">
+<!ENTITY  generalEncoding       "குறிமுறையாக்கம்:">
+<!ENTITY  generalMetaName       "பெயர்">
+<!ENTITY  generalMetaContent    "உள்ளடக்கம்">
+<!ENTITY  generalSecurityDetails   "விபரங்கள்">
 
 
-<!ENTITY pageInfoWindow.height "425">
-<!ENTITY pageInfoWindow.width "470">
-
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "நகல்">
-<!ENTITY copy.accesskey "C">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "அனைத்தையும் தேர்ந்தெடு">
-<!ENTITY selectall.accesskey "A">
-<!ENTITY closeWindow.key "w">
-
-<!ENTITY generalTab "பொதுவான">
-
-<!ENTITY generalURL "முகவரி:">
-<!ENTITY generalMode "வழங்கும் செயற்படுமுறைமை:">
-<!ENTITY generalType "வகை:">
-<!ENTITY generalSize "அளவு:">
-<!ENTITY generalReferrer "குறிப்பிடும் URL:">
-<!ENTITY generalSource "விரைவு நினைவக மூலம்:">
-
-<!ENTITY generalModified "மாற்றப்பட்டது:">
-
-<!ENTITY generalEncoding "குறிமுறை:">
-
-<!ENTITY generalMetaName "பெயர்">
-<!ENTITY generalMetaContent "பொருளடக்கம்">
-
-<!ENTITY mediaTab "ஊடகம்">
-
-<!ENTITY mediaAltHeader "மாற்று உரை:">
-
-<!ENTITY mediaAddress "முகவரி">
-<!ENTITY mediaType "வகை">
-<!ENTITY mediaCount "எண்ணிக்கை">
-
-<!ENTITY mediaLongdesc "நீண்ட விளக்கம்:">
-<!ENTITY mediaSaveAs "ஆகச் சேமிக்க...">
-<!ENTITY mediaSaveAs.accesskey "S">
-<!ENTITY mediaPreview "ஊடக முன்காட்சி:">
-
-<!-- from version 3.05b -->
-
-<!ENTITY  securityTab           "பாதுகாப்பு">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "இப்பக்கத்துக்கான பாதுகாப்புத் தகவல்கள்">
-<!ENTITY  securityView.certView "சான்றிதளை நோக்குக">
-<!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "அறியப்படாத">
-
-
-<!ENTITY  securityView.identity.header   "இணைய அடையாளம்">
-<!ENTITY  securityView.identity.owner    "உரிமையாளர்: ">
-<!ENTITY  securityView.identity.domain   "இணையப்பக்கம்: ">
-<!ENTITY  securityView.identity.verifier "Verified by: ">
-
-<!ENTITY  securityView.privacy.header                   "பிரத்தியேக &amp; வரலாறு">
-<!ENTITY  securityView.privacy.history                  "நான் இவ் இணையப்பக்கத்திற்கு முன்னொரு தடவை வந்துள்ளேனா?">
-<!ENTITY  securityView.privacy.cookies                  "இவ் இணையப்பக்கம் தகவல்களை (cookies) எனது கணினியில் சேமிக்கிறதா?">
-<!ENTITY  securityView.privacy.viewCookies              "Cookies நோக்குக">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "இவ் இணையப்பக்கத்திற்கான கடவுச்சொல்லை சேமிக்க வேண்டுமா?">
-<!ENTITY  securityView.privacy.viewPasswords            "சேமித்த கடவுச்சொற்களை நோக்குக">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
-
-<!ENTITY  securityView.technical.header                 "தொழில்நுட்ப விளக்கம்">
-
-<!ENTITY  permTab               "அனுமதிகள்">
-<!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "பொது இருப்பை உபயோகிக்க">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "அனுமதி">
-<!ENTITY  permAllowSession      "அமர்விற்காக அனுமதிக்க">
-<!ENTITY  permBlock             "தடு">
-<!ENTITY  permissionsFor        "இதற்கான அனுமதிகள்:">
-<!ENTITY  permImage             "படத்தை ஏற்றுக">
-<!ENTITY  permPopup             "Pop-up சாளரத்தை திறக்க">
-<!ENTITY  permCookie            "Cookies அமைக்க">
-<!ENTITY  permInstall           "நீட்சிகளை அல்லது Themes ஐ நிறுவுக">
-<!ENTITY  permGeo               "Share Location">
+<!ENTITY  mediaTab              "ஊடகம்">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "இடம்:">
+<!ENTITY  mediaText             "தொடர்புடைய உரை:">
+<!ENTITY  mediaAltHeader        "மாற்று உரை">
+<!ENTITY  mediaAddress          "முகவரி">
+<!ENTITY  mediaType             "வகை">
+<!ENTITY  mediaSize             "அளவு">
+<!ENTITY  mediaCount            "எண்ணிக்கை">
+<!ENTITY  mediaDimension        "பரிமாணங்கள்:">
+<!ENTITY  mediaLongdesc         "நீண்ட விளக்கம்:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "இப்படி சேமி...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "ஊடக முன்னோட்டம்:">
 
 <!ENTITY  feedTab               "ஊட்டுகள்">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "அங்கத்தினராக்கு">
+<!ENTITY  feedSubscribe         "சந்தாதாரராக">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaDimension        "பரிமாணங்கள்:">
-<!ENTITY  mediaLocation         "அமைவிடம்:">
-<!ENTITY  mediaText             "இணைந்த உரை:">
-<!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaSize             "அளவு">
-<!ENTITY  generalSecurityDetails   "விபரங்கள்">
-<!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY  permTab               "அனுமதிகள்">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "பொது இருப்பைப் பயன்படுத்துக">
+<!ENTITY  permAskAlways         "எப்போதும் கேள்">
+<!ENTITY  permAllow             "அனுமதி">
+<!ENTITY  permAllowSession      "அமர்வுக்கு அனுமதி">
+<!ENTITY  permBlock             "தடுக்க">
+<!ENTITY  permissionsFor        "அனுமதி:">
+<!ENTITY  permImage             "படங்களை ஏற்றுக">
+<!ENTITY  permPopup             "முன்னெழும் சாளரங்களைத் திறக்க">
+<!ENTITY  permCookie            "குக்கீகளை அமைக்க">
+<!ENTITY  permNotifications     "அறிப்புகளைக் காட்டுக">
+<!ENTITY  permInstall           "நீட்சிகளை அல்லது அலங்காரங்களை நிறுவுக">
+<!ENTITY  permGeo               "இடத்தினை பகிர்க">
+<!ENTITY  permPlugins           "செருகல்களைச் செயற்படுத்துக">
+<!ENTITY  permFullscreen        "முழுத்திரையாக்குக">
+<!ENTITY  permPointerLock2      "சுட்டியை மறைக்க">
 
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  permIndexedDB              "இணைப்பில்லாநிலை நினைவகத்தினை பராமரிக்குக">
+<!ENTITY  permClearStorage           "நினைவகத்தினை அழிக்க">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY  securityTab           "பாதுகாப்பு">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "இந்தப் பக்கத்தின் பாதுகாப்புத் தகவல்">
+<!ENTITY  securityView.certView "சான்றிதளைக் காட்டுக">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "தெரியாத">
 
-<!ENTITY permIndexedDB "இணைப்பில்லா நிலைச் சேமிப்பகத்தை பேணுக">
-<!ENTITY permClearStorage "சேமிப்பகத்தை சுத்தப்படுத்துக">
-<!ENTITY permClearStorage.accesskey "C">
+
+<!ENTITY  securityView.identity.header   "இணையத்தள அடையாளம்">
+<!ENTITY  securityView.identity.owner    "உரிமையாளர்:">
+<!ENTITY  securityView.identity.domain   "இணையத்தளம்:">
+<!ENTITY  securityView.identity.verifier "சரிபார்த்தவர்: ">
+
+<!ENTITY  securityView.privacy.header                   "தனிப்பட்ட &amp; வரலாறு">
+<!ENTITY  securityView.privacy.history                  "இன்று நான் இந்த இணையதளத்தை இதற்குமுன் பார்த்தேனா?">
+<!ENTITY  securityView.privacy.cookies                  "இந்த இணையத்தளம் தகவல்களை (குக்கீகளை) என் கணினியில் சேமிக்கிறதா?">
+<!ENTITY  securityView.privacy.viewCookies              "குக்கீகளைக் காட்டுக">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "இந்த இணையத்தளத்திற்கான எந்தவொரு கடவுச்சொல்லையும் சேமித்துள்ளேனா?">
+<!ENTITY  securityView.privacy.viewPasswords            "சேமித்த கடவுச்சொற்களைக் காட்டுக">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "தொழில்நுட்ப விவரங்கள்">

@@ -1,33 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY permissionsManager.title        "அனுமதி முகாமையாளர்">
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY sites.search                    "தேடும் தளங்கள்">
+<!ENTITY sites.allSites                  "எல்லாத் தளங்களும்">
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
 
-<!ENTITY header.site.start "அனுமதி இதற்காக:">
-<!ENTITY geo.label "Share இடம்">
-<!ENTITY header.site.end "">
-<!ENTITY password.label "கடவுச்சொற்களினை சேமிக்குக">
-<!ENTITY cookie.manage "Cookies இனை நிர்வகிக்க…">
-<!ENTITY indexedDB.label "இணைப்பில்லாநிலை சேமிப்பகத்தை பராமரிக்குக">
-<!ENTITY password.manage "கடவுச்சொற்களினை நிர்வகிக்க…">
-<!ENTITY header.defaults " அனைத்து தளங்களுக்குமான பொதுஇருப்பு அனுமதிகள்">
-<!ENTITY sites.allSites "அனைத்து தளங்களும்">
-<!ENTITY sites.search "தளங்களை தேடுக">
-<!ENTITY permission.allow "அனுமதிக்க">
-<!ENTITY permission.allowForSession "இந்த அமர்விற்காக அனுமதிக்க">
-<!ENTITY popup.label "Pop-up சாளரத்தை திறக்குக">
-<!ENTITY permission.alwaysAsk "எப்போதும் கேட்க">
-<!ENTITY permissions.forgetSite "இந்த தளம் பற்றி மறக்குக">
-<!ENTITY permission.block "தடுக்க">
-<!ENTITY permissionsManager.title "அனுமதி முகாமையாளர்">
-<!ENTITY cookie.label "Cookies இனை அமைக்குக">
+<!ENTITY header.site.start               "அனுமதி:">
+<!ENTITY header.site.end                 "">
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY header.defaults                 "பொது இருப்பு அனுமதியை அனைத்து தளங்களுக்கும் பயன்படுத்துக">
 
-<!ENTITY cookie.removeAll "Remove All Cookies">
-<!ENTITY cookie.remove "Remove Cookies">
+<!ENTITY permissions.forgetSite          "இந்தத் தளத்தை மறக்கவும்">
+
+<!ENTITY permission.alwaysAsk            "எப்போதும் கேள்">
+<!ENTITY permission.allow                "அனுமதி">
+<!ENTITY permission.allowForSession      "அமர்வுக்கு அனுமதி">
+<!ENTITY permission.allowFirstPartyOnly  "முதல் பகுதியினரை மட்டும் அனுமதிக்க">
+<!ENTITY permission.block                "தடுக்க">
+
+<!ENTITY password.label                  "கடவுச்சொற்களைச் சேமிக்க">
+<!ENTITY password.manage                 "கடவுச்சொற்களை முகாமைசெய்ய...">
+
+<!ENTITY cookie.label                    "குக்கீகளை அமை">
+<!ENTITY cookie.remove                   "குக்கீகளை நீக்கு">
+<!ENTITY cookie.manage                   "குக்கீகளை முகாமை செய்க">
+<!ENTITY cookie.removeAll                "அனைத்து குக்கீகளையும் நீக்கு">
+
+<!ENTITY geo.label                       "இடத்தைப் பகிர்க">
+
+<!ENTITY plugins.label                   "செருகல்கள்">
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
+<!ENTITY indexedDB.label                 "இணைப்பில்லா நினைவகத்தினை பராமரிக்க">
+
+<!ENTITY popup.label                     "முன்னெழும் சாளரங்களைத் திறக்க">
+
+<!ENTITY fullscreen.label                "முழுத்திரை">

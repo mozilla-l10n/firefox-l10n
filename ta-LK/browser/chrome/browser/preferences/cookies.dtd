@@ -1,36 +1,32 @@
-<!ENTITY window.width "36em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cookiesonsystem.label "பின்வரும் cookies உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
-<!ENTITY cookiename.label "cookie பெயர்">
-<!ENTITY cookiedomain.label "இணையப்பக்கம்">
-<!ENTITY button.removecookie.label "Cookie ஐ நீக்குக">
-<!ENTITY button.removecookie.accesskey "R">
-<!ENTITY button.removeallcookies.label "cookies அனைத்தையும்  நீக்குக">
-<!ENTITY button.removeallcookies.accesskey "A">
+<!ENTITY window.width                       "36em">
 
-<!ENTITY props.name.label "பெயர்:">
-<!ENTITY props.value.label "பொருளடக்கம்:">
-<!ENTITY props.domain.label "Domain:">
-<!ENTITY props.path.label "பாதை:">
-<!ENTITY props.secure.label "இதற்காக அனுப்புக:">
-<!ENTITY props.expires.label "முடிவடைகிறது:">
+<!ENTITY     cookiesonsystem.label          "பின்வரும் குக்கீகள் உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
+<!ENTITY     cookiename.label               "குக்கீயின் பெயர்">
+<!ENTITY     cookiedomain.label             "தளம்"> 
+<!ENTITY     button.removecookies.label     "குக்கீகளை நீக்குக">
+<!ENTITY     button.removecookie.label      "குக்கீயை நீக்குக">
+<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removeallcookies.label  "அனைத்து குக்கீகளையும் நீக்குக">
+<!ENTITY     button.removeallcookies.accesskey "A">
 
-<!ENTITY window.title "cookies">
-<!ENTITY windowClose.key "w">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY     props.name.label               "பெயர்:">
+<!ENTITY     props.value.label              "உள்ளடக்கம்:">
+<!ENTITY     props.domain.label             "கணினி:">
+<!ENTITY     props.path.label               "பாதை:">
+<!ENTITY     props.secure.label             "இதற்கு அனுப்புக:">
+<!ENTITY     props.expires.label            "காலாவதியாகிவிட்டது:">
 
-<!ENTITY filter.label "தேடுக:">
-<!ENTITY filter.accesskey "S">
+<!ENTITY     window.title                   "குக்கீகள்">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY button.close.label "மூடுக">
-<!ENTITY button.close.accesskey "C">
+<!ENTITY     filter.label                   "தேடுக:">
+<!ENTITY     filter.accesskey               "S">
 
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY button.removecookies.label "Cookies ஐ நீக்குக">
+<!ENTITY     button.close.label             "மூடுக">
+<!ENTITY     button.close.accesskey         "C">

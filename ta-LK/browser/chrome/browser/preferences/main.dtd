@@ -1,48 +1,33 @@
-<!ENTITY startup.label "தொடக்கம்">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startupPage.label "&brandShortName; தொடங்கும்போது:">
-<!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "என் முகப்புப் பக்கத்தை காட்டுக">
-<!ENTITY startupBlankPage.label "வெற்றுப்பக்கத்தை காட்டுக">
-<!ENTITY startupLastSession.label "கடைசி தடவை பயன்படுத்திய சாளரங்கள் மற்றும் தத்தல்களை
- காட்டுக">
-<!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
-<!ENTITY restoreOnDemand.accesskey "l">
-<!ENTITY useCurrentPage.label "தற்போதைய பக்கத்தை பயன்படுத்துக">
-<!ENTITY useCurrentPage.accesskey "C">
-<!ENTITY useMultiple.label "தற்போதைய பக்கங்களை பயன்படுத்துக">
+<!ENTITY startup.label             "ஆரம்பிக்க">
 
 
-<!ENTITY restoreDefault.label "‎பொதுஇருப்புக்கு மீட்கவும்">
-<!ENTITY restoreDefault.accesskey "R">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY downloads.label "பதிவிறக்கங்கள்">
 
-<!ENTITY showWhenDownloading.label "கோப்பை பதிவிறக்கும் போது பதிவிறக்கங்கள் சாளரத்தை காட்டுக">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "அனைத்து பதிவிறக்கங்களும் முடிந்ததும் அதை மூடுக">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY downloads.label     "பதிவிறக்கங்கள்">
+
+
+<!ENTITY closeWhenDone.label "அனைத்துப் பதிவிறக்கங்களும் முடிந்தவுடன்  மூடுக">
 <!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "கோப்புக்களை இதில் சேமிக்கவும் ">
+<!ENTITY saveTo.label "கோப்புகளை இங்கே சேமிக்க">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "உலாவுக...">
-<!ENTITY chooseFolderWin.accesskey "o">
-<!ENTITY chooseFolderMac.label "‎தெரிவு செய்க...">
-<!ENTITY chooseFolderMac.accesskey "e">
-<!ENTITY alwaysAsk.label "எப்பொழுதும் கோப்பை சேமிக்க வேண்டிய இடத்தை என்னிடம் கேட்கவும்">
+<!ENTITY chooseFolderWin.label        "உலாவுக...">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "தெரிக...">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "எங்கே கோப்புகளைச் சேமிக்க வேண்டுமென எப்போதும் என்னிடம் கேட்க">
 <!ENTITY alwaysAsk.accesskey "A">
-
-<!ENTITY addonsMgr.label               "செருகல்கள்">
-<!ENTITY manageAddonsDescWin.label     "உங்களது செருகல்களிற்கான தெரிவுகளை மாற்றுக">
-<!ENTITY manageAddonsDescUnix2.label   "உங்களது செருகல்களிற்கான விருப்புகளை மாற்றுக">
-<!ENTITY manageAddons.label            "செருகல்கலை ‍மேலாண்மை ‎செய்க">
-<!ENTITY manageAddons.accesskey        "M">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY homepage.label "முகப்பு பக்கம்:">
-<!ENTITY homepage.accesskey "P">

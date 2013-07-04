@@ -1,11 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY quota.retrievingInfo.label "ஒதுக்கீட்டுத் தகவல் மீட்பிக்கப்படுகிறது...">
-<!ENTITY quota.dialogTitle.label "சேவையக ஒதுக்கீடு">
-<!ENTITY quota.typeColumn.label "வகை">
-<!ENTITY quota.sizeColumn.label "பருமன்">
+<!ENTITY quota.typeColumn.label     "வகை">
+<!ENTITY quota.sizeColumn.label     "அளவு">

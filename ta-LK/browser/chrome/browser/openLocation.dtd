@@ -1,18 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "வலைமுகவரியை எழுதுக (URL), அல்லது திறக்க விரும்பும் கோப்பு உள்ள இடத்தை குறிப்பிடவும்:">
-<!ENTITY chooseFile.label "கோப்பைத் தேர்ந்தெடு...">
-<!ENTITY newWindow.label "புதிய சாளரம்">
+
+<!ENTITY enter.label "இணைய முகவரியை(URL) அல்லது நீங்கள் திறக்க விரும்பும் கோப்பினைத் தெரிவுசெய்க:">  
+<!ENTITY chooseFile.label "கோப்பைத் தெரிவுசெய்க...">
 <!ENTITY newTab.label "புதிய தத்தல்">
-<!ENTITY caption.label "வலைய முகவரியை திறக்கவும்">
-<!ENTITY openWhere.label "இங்கு திறக்கவும்:">
-
-<!ENTITY openBtn.label "திறக்கவும்">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY topTab.label "தற்போதைய தத்தல்">
+<!ENTITY newWindow.label "புதிய சாளரம்">
+<!ENTITY topTab.label "நடப்புத் தத்தல்">
+<!ENTITY caption.label "இணைய முகவரியைத் திறக்க">
+<!ENTITY openWhere.label "இதனில் திற:">
+<!ENTITY openBtn.label "திறக்க">

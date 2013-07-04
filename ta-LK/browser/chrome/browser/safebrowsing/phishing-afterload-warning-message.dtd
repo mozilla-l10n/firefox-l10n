@@ -1,32 +1,15 @@
-<!ENTITY safeb.palm.warning.title "சந்தேகத்துக்கு உரிய வலைய மோசடி">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.message.p1 "பயனாளர்களின் பிரத்தியேகத் தகவல்கள் அல்லது நிதி தகவல்களை தந்திரமாகப் பகிர்வதற்கு வடிவமைக்கப்பட்ட இணைய மோசடிப்பக்கமாக இந்தப் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது.இந்தப் பக்கத்தில் நுழைக்கும் எந்தவொரு பிரத்தியேகத் தகவலும் அடையாளத்திருட்டுக்கோ அல்லது ஏனைய மோசடிக்கோ வழிவகுக்கும். &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "மேலும் #187-யை படிக்கவும்;">
-<!ENTITY safeb.palm.p1.linkStatusText "மேலும் #133-யை படிக்கவும்;">
+<!ENTITY safeb.palm.accept.label "இங்கிருந்து என்ன வெளியேற்று!">
 
-<!ENTITY safeb.palm.message.p2.start "ஸ்கேம்களில் பயன்படுத்தப்படும் இம்மாதிரி வலைய மோசடிகள் தான் phishing தாக்குதல்கள் எனப்படுகிறது, இதில் நீங்க நம்பும் வலையப்பக்கங்கள் மற்றும் மின்னஞ்சல்களை போலவே நடந்துக்கும் போலிகள் பயன்படுத்தப்படுகிறது. இதை பற்றி மேலும் தெரிந்துக்கொள்ள">
-<!ENTITY safeb.palm.message.p2.linkText "எப்படி &brandShortName; உங்களை பாதுகாக்கிறது">
-<!ENTITY safeb.palm.message.p2.end " phishing தாக்கதல்களில் இருந்து">
-
-<!ENTITY safeb.palm.accept.label "இங்கிருந்து என்னை வெளியேற்றுக!">
-<!ENTITY safeb.palm.accept.statustext "என் இல்லப்பக்கத்திற்கு வழிநடத்துக">
-<!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்க்கவும்">
-<!ENTITY safeb.palm.decline.statustext "எச்சரிக்கையை மூடுக">
-<!ENTITY safeb.palm.notforgery.label2 "இது வலைய மோசடி இல்லை">
+<!ENTITY safeb.palm.notforgery.label2 "இது ஒரு இணைய மோசடி இல்லை…">
 
 
-<!-- from version 3.05b -->
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY safeb.blocked.phishingPage.title "இணைய மோசடி என அறிக்கையிடப்பட்டுள்ளது!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-<!ENTITY safeb.blocked.malwarePage.shortDesc "இந்த <span id='malware_sitename'/> இணைய பக்கம்  attack பக்கமாக முறையிடப்பட்டிருக்கிறது மற்றும் உங்களுடைய பாதுகாப்பு முன்னுரிமைகள் அடிப்படையில் அது தடுக்கப்பட்டிருக்கிறது.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>நிதி தகவல்களை வெளிப்படுத்தும் நீங்கள் நம்பக்கூடிய மாதிரி போலியான ஆதாரங்கள் மூலம்  உங்களை ஏமாற்ற இணைய மோசடிகள் வடிவமைக்கப்பட்டிருக்கலாம்.</p><p>இந்த பக்கத்தில் எந்த தகவலையும் நுழைத்தால் அது  அடையாள திருட்டு அல்லது மற்ற மோசடி விளைவாக இருக்கலாம்.</p>">
-<!ENTITY safeb.blocked.phishingPage.title "இணைய மோசடி அறிக்கைப்படுத்தப்பட்டுள்ளது!">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>தாக்குதல் பக்கங்கள் நிரல்களை நிறுவி  தனியார் தகவல்களை திருட முயற்சிக்கின்றன  அல்லது உங்களுடைய கணினிக்கி சேதத்தை ஏற்படுத்தலாம்.</p><p>சில தாக்குதல் பக்கங்கள் வேண்டுமென்று தீங்கு மென்பொருள் விநியோகிக்கின்றன, ஆனால் பல அவற்றின் உரிமையாளர்களின் அறிவு அல்லது அனுமதி இல்லாமல் சமரசம் ஆகும்.</p>">
-<!ENTITY safeb.palm.reportPage.label "ஏன் இந்தப் பக்கம் தடுக்கப்பட்டிருந்தது?">
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> இலுள்ள இந்த இணையப்பக்கம் ஒரு இணைய மோசடியாக  முறையிடப்பட்டிருக்கிறது மற்றும் உங்களுடைய பாதுகாப்பு முன்னுரிமைகள் அடிப்படையில் அது தடுக்கப்பட்டிருக்கிறது.">
-<!ENTITY safeb.blocked.malwarePage.title "தாக்குதல் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது!">
