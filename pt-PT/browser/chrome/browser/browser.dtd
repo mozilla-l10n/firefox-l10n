@@ -414,8 +414,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label 	      "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "v">
-<!ENTITY setDesktopBackgroundCmd.label "Definir como fundo do ambiente de trabalho...">
-<!ENTITY setDesktopBackgroundCmd.accesskey "e">
 <!ENTITY bookmarkPageCmd2.label       "Adicionar aos marcadores...">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label    "Adicionar esta ligação aos marcadores...">
@@ -624,8 +622,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Mais informação…">
 
-<!ENTITY identity.permissions "Permissões">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Separadores do navegador">
@@ -685,3 +681,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "A maioria dos sítios web irão funcionar bem mesmo quando este conteúdo é bloqueado.">
 
 <!ENTITY pointerLock.notification.message "Pressione ESC a qualquer altura para mostrar de novo.">
+
+<!ENTITY pluginNotification.showAll.label "Mostrar tudo">
+<!ENTITY pluginNotification.showAll.accesskey "s">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Permitir agora">
+<!ENTITY pluginActivateAlways.label "Permitir e lembrar">
+<!ENTITY pluginBlockNow.label "Bloquear Plugin">
