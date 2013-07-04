@@ -21,8 +21,6 @@
 <!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes namespaces">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Quando transferir correio pop deste servidor, usar a pasta seguinte para novo correio:" >
-<!ENTITY globalInbox.label "Caixa de Entrada Geral (Conta das pastas Locais)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
