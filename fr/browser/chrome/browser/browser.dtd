@@ -627,6 +627,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "dont le détenteur est">
 <!ENTITY identity.moreInfoLinkText "Plus d'informations…">
 
+<!ENTITY identity.permissions "Permissions">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Onglets du navigateur">
