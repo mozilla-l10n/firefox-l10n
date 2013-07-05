@@ -68,6 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Logging">
 <!ENTITY btnPageLogging.tooltip "Berjochten nei it “console”-objekt registrearje">
+<!ENTITY btnPageLogging.accesskey "L">
 <!ENTITY btnConsoleErrors       "Flaters">
 <!ENTITY btnConsoleInfo         "Ynfo">
 <!ENTITY btnConsoleWarnings     "Warskôgingen">
