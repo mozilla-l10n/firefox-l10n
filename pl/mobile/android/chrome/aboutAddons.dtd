@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Wyłącz">
 <!ENTITY addonAction.uninstall                  "Usuń">
 <!ENTITY addonAction.undo                       "Cofnij">
+<!ENTITY addonAction.setDefault                 "Ustaw jako domyślną">
