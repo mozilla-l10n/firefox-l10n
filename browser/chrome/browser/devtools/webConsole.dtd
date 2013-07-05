@@ -68,7 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Journal">
 <!ENTITY btnPageLogging.tooltip "Journaliser les messages envoyés à l'objet « console »">
-<!ENTITY btnPageLogging.accesskey "m">
+<!ENTITY btnPageLogging.accesskey "J">
 <!ENTITY btnConsoleErrors       "Erreurs">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Avertissements">
