@@ -117,7 +117,7 @@
 
 <!ENTITY errorConsoleCmd.label        "ભૂલ કન્સોલ">
 <!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
+
 
 <!ENTITY fileMenu.label         "ફાઈલ"> 
 <!ENTITY fileMenu.accesskey       "F">
