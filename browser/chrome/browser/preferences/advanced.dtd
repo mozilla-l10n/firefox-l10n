@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Жалпы">
 
@@ -27,11 +27,30 @@
 <!ENTITY checkSpelling.accesskey         "о">
 
 <!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
-<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
 <!ENTITY alwaysCheckDefault.accesskey    "н">
 <!ENTITY setDefault.label                "&brandShortName; негізгі браузер ретінде қолдану">
 <!ENTITY setDefault.accesskey            "н">
 <!ENTITY isDefault.label                 "&brandShortName; сіздің ағымдағы негізгі браузеріңіз">
+
+
+<!ENTITY healthReportSection.label       "&brandShortName; деңсаулық есептемесі">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY crashReporterSection.label      "Құлау хабаршысы">
+
+
+
+
 
 <!ENTITY networkTab.label                "Желі">
 
@@ -44,13 +63,13 @@
 <!ENTITY httpCache.label                 "Кэштелген веб құрамасы">
 
 <!ENTITY offlineStorage2.label           "Оффлайн веб құрамасы мен пайдаланушы мәліметтері">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Кэш шегі">
 <!ENTITY limitCacheSizeBefore.accesskey  "К">
 <!ENTITY limitCacheSizeAfter.label       "МБ орын">
@@ -64,8 +83,12 @@
 <!ENTITY updateTab.label                 "Жаңартулар">
 
 <!ENTITY updateApp.label                 "&brandShortName; жаңартулары:">
-<!ENTITY updateAuto.label                "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздік артады)">
-<!ENTITY updateAuto.accesskey            "в">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+
+
+
 <!ENTITY updateCheck.label               "Жаңартуларды тексеру, бірақ орнату уақытын өзім тандаймын">
 <!ENTITY updateCheck.accesskey           "м">
 <!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
@@ -73,6 +96,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
 <!ENTITY updateAutoAddonWarn.accesskey   "с">
+
 
 <!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
 <!ENTITY updateHistory.accesskey         "р">
@@ -95,14 +119,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "ш">
 <!ENTITY offlineAppRemove.confirm        "Дербес режимдегі веб-сайттардың ақпаратын өшіру">
 
-<!ENTITY encryptionTab.label             "Шифрлеу">
-
-<!ENTITY protocols.label                 "Хаттамалар">
-<!ENTITY useSSL3.label                   "SSL 3.0 қолдану">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 қолдану">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Сертификаттар">
+<!ENTITY certificateTab.label            "Сертификаттар">
 <!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
 <!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
 <!ENTITY certs.auto.accesskey            "н">
@@ -110,8 +127,6 @@
 <!ENTITY certs.ask.accesskey             "б">
 <!ENTITY viewCerts.label                 "Сертификатарды қарап шығу">
 <!ENTITY viewCerts.accesskey             "т">
-<!ENTITY viewCRLs.label                  "CRL басқару">
-<!ENTITY viewCRLs.accesskey              "б">
 <!ENTITY verify2.label                   "OCSP баптаулары">
 <!ENTITY verify2.accesskey               "п">
 <!ENTITY viewSecurityDevices.label       "Қорғаныс жабдықтары">

@@ -1,37 +1,41 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator "-">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Жекелік шолу режимі)">
-
 <!-- Tab context menu -->
+
 <!ENTITY  reloadTab.label                    "Бетті қайта жүктеу">
 <!ENTITY  reloadTab.accesskey                "й">
 <!ENTITY  reloadAllTabs.label                "Барлық беттерді қайта жүктеу">
 <!ENTITY  reloadAllTabs.accesskey            "а">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
 <!ENTITY  closeOtherTabs.label               "Басқа беттерді жабу">
 <!ENTITY  closeOtherTabs.accesskey           "с">
-
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+
 <!ENTITY  pinTab.label                       "Бетті жапсыру">
 <!ENTITY  pinTab.accesskey                   "ж">
 <!ENTITY  unpinTab.label                     "Бетті босату">
-<!ENTITY  unpinTab.accesskey                 "б">
+<!ENTITY  unpinTab.accesskey                 "Б">
 <!ENTITY  moveToGroup.label                  "Топқа жылжыту">
 <!ENTITY  moveToGroup.accesskey              "ы">
 <!ENTITY  moveToNewGroup.label               "Жаңа топ">
@@ -115,7 +119,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Б">
 <!ENTITY bookmarkThisPageCmd.label "Парақты бетбелгілерге қосу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY subscribeToPageMenupopup.label "Жаналық таспасына жазылу">
 <!ENTITY subscribeToPageMenuitem.label "Жаналықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
@@ -147,8 +162,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Іздеу">
 <!ENTITY throbberItem.title           "Активтілік айқындағышы">
 <!ENTITY bookmarksItem.title          "Бетбелгілер">
-
 <!-- Toolbar items --> 
+
 <!ENTITY appMenuButton.label          "Мәзір">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; мәзірін ашу">
 <!ENTITY homeButton.label             "Үйге">
@@ -168,10 +183,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.unsorted.label "Сұрыпталмаған бетбелгілер">
 <!ENTITY viewBookmarksSidebar.label         "Бүйір панельде көрсету">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -189,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Жүктемелер">
 <!ENTITY downloads.tooltip            "Ағымдағы жүктемелердің орындалуын көрсету">
 <!ENTITY downloads.accesskey          "Ж">
-<!ENTITY downloads.commandkey         "j">
+
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Қосымшалар">
 <!ENTITY addons.accesskey             "с">
@@ -198,18 +213,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Веб өндіруші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
 
+
+
 <!ENTITY errorConsoleCmd.label        "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey    "к">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY remoteWebConsoleCmd.label "Қашықтағы веб консолі">
+<!ENTITY remoteWebConsoleCmd.label    "Қашықтағы веб консолі">
+
+
+
 
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
 
 <!ENTITY responsiveDesignTool.label   "Адаптивті дизайн">
 <!ENTITY responsiveDesignTool.accesskey "А">
-<!ENTITY responsiveDesignTool.commandkey "М">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -221,27 +239,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
 <!ENTITY scratchpad.label             "Қарапайым JavaScript түзетушісі">
 <!ENTITY scratchpad.accesskey         "й">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
 <!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
 <!ENTITY devToolbarMenu.accesskey          "п">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+
+
+
 <!ENTITY devToolbarOtherToolsButton.label  "Көбірек саймандар">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Көбірек саймандарды алу">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "а">
 
-<!ENTITY fileMenu.label         "Файл">
+<!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "т">
-<!ENTITY newPrivateWindow.label "Жаңа жекелік терезе">
+<!ENTITY newPrivateWindow.label     "Жаңа жекелік терезе">
 <!ENTITY newPrivateWindow.accesskey "к">
 
 <!ENTITY editMenu.label         "Түзету"> 
@@ -256,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ю"> 
 <!ENTITY copyCmd.label            "Көшіру">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "ш"> 
 <!ENTITY pasteCmd.label           "Кірістіру">  
 <!ENTITY pasteCmd.key           "V">  
@@ -274,7 +298,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Соңғы тарихты өшіру…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Түрі"> 
 <!ENTITY viewMenu.accesskey       "р"> 
@@ -298,7 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyHomeCmd.label "Үй беті">
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+
 
 <!ENTITY appMenuEdit.label "Түзету">
 <!ENTITY appMenuCustomize.label "Баптау">
@@ -315,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.accesskey             "з">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -336,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
@@ -346,6 +369,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "б">
 <!ENTITY openLinkCmd.label            "Сілтемені жаңа терезеде ашу">
 <!ENTITY openLinkCmd.accesskey        "т">
+
+
 <!ENTITY openLinkCmdInCurrent.label     "Сілтемені ашу">
 <!ENTITY openLinkCmdInCurrent.accesskey "С">
 <!ENTITY openFrameCmdInTab.label      "Фреймді жаңа бетте ашу">
@@ -394,7 +419,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "й">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "т">
-<!ENTITY savePageCmd.commandkey       "s">
+
 <!ENTITY saveFrameCmd.label           "Фреймді қалайша сақтау…">
 <!ENTITY saveFrameCmd.accesskey       "е">
 <!ENTITY printFrameCmd.label          "Фреймді баспаға шығару…">
@@ -413,6 +438,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "В">
 <!ENTITY emailAudioCmd.label          "Аудионы эл. поштамен жіберу…">
 <!ENTITY emailAudioCmd.accesskey      "А">
+
+
+
+
 <!ENTITY copyLinkCmd.label            "Сілтемені көшіру">
 <!ENTITY copyLinkCmd.accesskey        "ш">
 <!ENTITY copyImageCmd.label           "Суреттің сілтемесін көшіру">
@@ -427,11 +456,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "Осы фреймде">
 <!ENTITY thisFrameMenu.accesskey          "м">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "Ойнау">
 <!ENTITY mediaPlay.accesskey         "О">
 <!ENTITY mediaPause.label            "Аялдату">
@@ -443,6 +472,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Д">
 <!ENTITY mediaUnmute.label           "Даусын қосу">
 <!ENTITY mediaUnmute.accesskey       "Д">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -461,17 +502,18 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "к">
 <!ENTITY videoHideStats.label        "Статистиканы жасыру">
 <!ENTITY videoHideStats.accesskey    "ж">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "Үлкейту">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "л">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Кішірейту">
@@ -510,7 +552,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Шығу"> 
 <!ENTITY quitApplicationCmd.accesskey   "Ш">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; шығу">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Жабу">  
 <!ENTITY closeCmd.key                   "W">  
@@ -571,12 +613,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "келесімен басқарылады">
 
 <!ENTITY identity.moreInfoLinkText "Көбірек білу…">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Браузер беттері">
 
+<!ENTITY tabsToolbar.label "Браузер беттері">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
 <!ENTITY syncTabsMenu2.label     "Басқа құрылғылардан браузер беттері">
 
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
@@ -599,10 +641,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
+
 <!ENTITY social.toggleNotifications.label "Хабарламаларды көрсету">
 <!ENTITY social.toggleNotifications.accesskey "Х">
 
-<!ENTITY social.activated.undobutton.label "Болдырмау">
-<!ENTITY social.activated.undobutton.accesskey "Б">
 
-<!ENTITY social.chatBar.commandkey "c">
+
+
+
+<!ENTITY social.closeNotificationItem.label "Қазір емес">
+
+
+
+<!-- labels are set dynamically, see browser.properties -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
