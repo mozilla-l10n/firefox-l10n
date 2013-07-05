@@ -18,7 +18,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Late Writes">
 
-<!ENTITY aboutTelemetry.systemInfoSection "  System Information">
+<!ENTITY aboutTelemetry.systemInfoSection "      Տեղեկություն համակարգի մասին">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms Collected by Add-ons">
 

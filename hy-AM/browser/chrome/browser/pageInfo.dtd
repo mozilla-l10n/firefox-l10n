@@ -61,7 +61,7 @@
 <!ENTITY  permImage             "Բեռնել Նկարները">
 <!ENTITY  permPopup             "Բացել Pop-up Պատուհանները">
 <!ENTITY  permCookie            "Տեղադրել Cookie-ին">
-<!ENTITY  permNotifications     "Show Notifications">
+<!ENTITY  permNotifications     "Ցուցադրել տեղեկացումները">
 <!ENTITY  permInstall           "Տեղակայել Ընդլայնումներ կամ Թեմաներ">
 <!ENTITY  permGeo               "Հայտնել գտնվելուս վայրը">
 <!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">

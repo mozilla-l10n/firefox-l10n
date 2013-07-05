@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Պրոֆիլի թղթապանակը">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Միացված բաղադրիչներ ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
@@ -45,12 +45,12 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Ցուցադրել թղթապանակը">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Փոփոխված կարևոր կարգավորումներ">
 <!ENTITY aboutSupport.modifiedPrefsName "Անուն">
 <!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
+<!ENTITY aboutSupport.userJSTitle "user.js-ի կարգավորումներ">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
