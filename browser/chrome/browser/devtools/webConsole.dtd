@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Consol Gwe">
-<!ENTITY browserConsole.title "Consol Porwr">
+<!ENTITY browserConsole.title "Consol y Porwr">
 
 <!ENTITY networkPanel.requestURLColon             "URL sy'n Gofyn:">
 <!ENTITY networkPanel.requestMethodColon          "Dull Gofyn:">
