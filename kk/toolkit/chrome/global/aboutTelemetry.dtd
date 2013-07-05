@@ -4,58 +4,31 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия мәліметтері">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Телеметрия <span>іске қосылған</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Телеметрия <span>іске қосылған</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Телеметрия <span>сөндірілген</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Телеметрия <span>сөндірілген</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Баяу SQL сұраныстары
-  ">
+<!ENTITY aboutTelemetry.slowSqlSection "  Баяу SQL сұраныстары">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Браузердің тоқталуы
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Браузердің тоқталуы">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Гистограммалар
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Гистограммалар">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Қарапайым өлшемдер
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Қарапайым өлшемдер">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Жүйе ақпараты
-">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Қосымшалармен жиналған гистограммалар
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  Жүйе ақпараты">
 
-<!ENTITY aboutTelemetry.toggleOn "
-  Бөлімді жазу үшін шертіңіз
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Қосымшалармен жиналған гистограммалар">
 
-<!ENTITY aboutTelemetry.toggleOff "
-  Бөлімді бүктеу үшін шертіңіз
-">
+<!ENTITY aboutTelemetry.toggleOn "  Бөлімді жазу үшін шертіңіз">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (Жиналған мәліметтер жоқ)
-">
+<!ENTITY aboutTelemetry.toggleOff "  Бөлімді бүктеу үшін шертіңіз">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  Ескерту: Баяу SQL-ді жөндеу режимі іске қосулы тұр. Толық SQL жолдары төмен көрсетілуі мүмкін, бірақ олар телеметрияға жіберілмейді.
-">
+<!ENTITY aboutTelemetry.emptySection "  (Жиналған мәліметтер жоқ)">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Тоқталу стектерден функциялардың аттарын алу 
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  Ескерту: Баяу SQL-ді жөндеу режимі іске қосулы тұр. Толық SQL жолдары төмен көрсетілуі мүмкін, бірақ олар телеметрияға жіберілмейді.">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Тоқталудың өнделмеген мәліметтерін көрсету 
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Тоқталу стектерден функциялардың аттарын алу ">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Тоқталудың өнделмеген мәліметтерін көрсету ">

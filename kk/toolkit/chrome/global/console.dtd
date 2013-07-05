@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "К">
 <!ENTITY evaluate.label     "Санау">
 <!ENTITY evaluate.accesskey "С">
-<!ENTITY filter2.label       "Сүзгі:">
-<!ENTITY filter2.accesskey   "С">
+<!ENTITY filter2.label      "Сүзгі:">
+<!ENTITY filter2.accesskey  "С">
 
 <!ENTITY copyCmd.label       "Көшіру">  
 <!ENTITY copyCmd.accesskey   "К"> 
