@@ -1,15 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY prefWindow.titleWin "Opciones">
-<!ENTITY prefWindow.titleGNOME "Preferencias de &brandShortName;">
-<!ENTITY prefWindow.styleWin "width: 57em; height: 37em;">
-<!ENTITY prefWindow.styleMac "width: 57em;">
-<!ENTITY prefWindow.styleGNOME "width: 57em; height: 34.5em;">
-<!ENTITY paneGeneral.title "General">
-<!ENTITY paneAlarms.title "Alarmas">
-<!ENTITY paneCategories.title "Categorías">
-<!ENTITY paneViews.title "Vistas">
-<!ENTITY paneTimezones.title "Huso horario">
-<!ENTITY paneAdvanced.title "Avanzadas">
+
+<!ENTITY  paneGeneral.title       "General">
+<!ENTITY  paneAlarms.title        "Alarmas">
+<!ENTITY  paneCategories.title    "Categorías">
+<!ENTITY  paneViews.title         "Vistas">
+<!ENTITY  paneTimezones.title     "Huso horario">
 
