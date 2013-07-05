@@ -259,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Outils">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils développeurs">
+<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils de développement">
 
 <!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
