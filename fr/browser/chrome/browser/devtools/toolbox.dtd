@@ -45,7 +45,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label2    "Désactiver JavaScript">
-<!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l'onglet courant. Si l'onglet ou la boîte à outils est fermée, ce paramètre sera oublié.">
+<!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l'onglet courant. Ce paramètre sera oublié à la fermeture de l'onglet ou de la boîte à outils.">
 
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
