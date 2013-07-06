@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Om &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; er eksperimentell og kan vere ustabil.">
 <!ENTITY aboutPage.telemetryStart               " Den sender automatisk informasjon om yting, maskinvare, bruksmønster og utvidingar tilbake til ">
@@ -6,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Sjå etter oppdateringar »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ser etter oppdateringar …">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">
-<!ENTITY aboutPage.checkForUpdates.found        "Oppdatering er tilgjengeleg">
+<!ENTITY aboutPage.checkForUpdates.available    "Oppdatering er tilgjengeleg; klikk for å laste ned">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Lastar ned oppdatering …">
+<!ENTITY aboutPage.checkForUpdates.downloaded   "Oppdatering lasta ned; trykk for å installere">
 <!ENTITY aboutPage.faq.label                    "Ofte stilte spørsmål">
 <!ENTITY aboutPage.support.label                "Hjelp">
 <!ENTITY aboutPage.privacyPolicy.label          "Personvern">

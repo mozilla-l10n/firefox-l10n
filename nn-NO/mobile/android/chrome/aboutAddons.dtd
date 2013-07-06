@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.undo                       "Angre">
+<!ENTITY addonAction.setDefault                 "Vel som standard">

@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Opne lagra melding …">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Vedlegg">
-<!ENTITY openAttachmentCmd.accesskey "d">
 <!ENTITY saveAsMenu.label "Lagre som">
 <!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fil">
@@ -428,6 +426,8 @@
 <!ENTITY openConversationCmd.label "Opne i samtale">
 <!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Vedlegg">
+<!ENTITY openAttachmentListCmd.accesskey "V">
 <!ENTITY openFeedMessage1.label "Ved opning av nyheitskjelde-melding">
 <!ENTITY openFeedMessage1.accesskey "e">
 <!ENTITY openFeedWebPage.label "Opne som nettside">
