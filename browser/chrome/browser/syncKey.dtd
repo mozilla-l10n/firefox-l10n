@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY syncKey.page.title               "Kilîla te ya &syncBrand.fullName.label;ê">
 <!ENTITY syncKey.page.description         "Ev kilîl ji bo vekirina kodkirina daneyên te yên hesabê &syncBrand.fullName.label;ê hatiye bikaranîn. Her tim dema li ser kompîtereke nû &syncBrand.fullName.label;ê vesaz bikî dê pêwîst be kilîlê binivîsî.">
 <!ENTITY syncKey.keepItSecret.heading     "Nepen bihêle">
