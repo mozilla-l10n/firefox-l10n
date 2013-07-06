@@ -66,7 +66,7 @@
 <!ENTITY  permGeo               "Tillat vising av stad">
 <!ENTITY  permPlugins           "Aktiver programtillegg">
 <!ENTITY  permFullscreen        "Opne fullskjerm">
-<!ENTITY  permPointerLock       "Skjul musepeikaren">
+<!ENTITY  permPointerLock2      "Skjul musepeikaren">
 
 <!ENTITY  permIndexedDB              "Behandle fråkopla lager">
 <!ENTITY  permClearStorage           "Tøm lager">
