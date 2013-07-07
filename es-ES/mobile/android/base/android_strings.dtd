@@ -66,9 +66,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, excluyendo la de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
 <!ENTITY pref_donottrack_menu "Rastreo">
-<!ENTITY pref_donottrack_disallow_tracking "Decir a los sitios que no quiero ser rastreado">
-<!ENTITY pref_donottrack_allow_tracking "Decir a los sitios que quiero ser rastreado">
-<!ENTITY pref_donottrack_no_pref "No decir a los sitios nada sobre mis preferencias de rastreo">
+<!ENTITY pref_donottrack_disallow_tracking "Indicar a los sitios que no quiero ser rastreado">
+<!ENTITY pref_donottrack_allow_tracking "Indicar a los sitios que quiero ser rastreado">
+<!ENTITY pref_donottrack_no_pref "No indicar a los sitios nada sobre mis preferencias de rastreo">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
