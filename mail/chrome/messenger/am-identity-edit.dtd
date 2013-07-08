@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY identityDialog.style "அகலம்: 67ch;">
 <!ENTITY identityTitle.label "அடையாள அமைவுகள்">
 <!ENTITY identityListDesc.label "இந்த அடையாளத்திற்கான அமைவுகளை கட்டமைக்கவும்:">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title             "செய்தி சுருக்கம்">
 <!ENTITY selectedmessages.label   "தெரிவுசெய்யப்பட்ட செய்திகள்">
 <!ENTITY archiveButton.label            "ஆவணக்காப்பு">
