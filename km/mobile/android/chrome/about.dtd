@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "ពិនិត្យមើល​បច្ចុប្បន្នភាព»">
 <!ENTITY aboutPage.checkForUpdates.checking     "កំពុង​រក​មើល​បច្ចុប្បន្នភាព...">
 <!ENTITY aboutPage.checkForUpdates.none         "មិន​មាន​បច្ចុប្បន្នភាព">
-<!ENTITY aboutPage.checkForUpdates.found        "មាន​បច្ចុប្បន្នភាព">
+
+
+
 <!ENTITY aboutPage.faq.label                    "សំណួរ​ដែល​សួរ​រឿយៗ">
 <!ENTITY aboutPage.support.label                "ជំនួយ">
 <!ENTITY aboutPage.privacyPolicy.label          "គោលនយោបាយ​ឯកជន">

@@ -12,7 +12,6 @@
 <!ENTITY intro.message             "ប្រាប់​យើង​នូវ​អ្វី​ដែល​អ្នក​បាន​គិត​អំពី &brandShortName; សម្រាប់ Android និង​ផ្សេងទៀត ។">
 <!ENTITY intro.happyLink           "ខ្ញុំ​ចូលចិត្ត​វា">
 <!ENTITY intro.sadLink             "ខ្ញុំ​បាន​ជួប​បញ្ហា">
-<!ENTITY intro.ideaLink            "ខ្ញុះ​មាន​គំនិត​មួយ">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
@@ -51,20 +50,6 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "ឬ​ផ្សេងទៀត ។">
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-
-<!ENTITY idea.message              "យើង​ចង់​ដឹង​អំពី​គំនិត​របស់​អ្នក ! សូម​ចែករំលែក​វា​នៅ​ខាងក្រោម​នេះ ។ (គឺ​និយាយ​អំពី &brandShortName; តែប៉ុណ្ណោះ ។)">
-<!ENTITY idea.placeholder          "បញ្ចូល​គំនិត​របស់​អ្នក​នៅ​ទីនេះ">
-<!ENTITY idea.thanksHeader         "អរគុណ !">
-
-<!ENTITY idea.thanksMessageTop     "យើង​សូម​អរគុណ​ចំពោះ​ការ​ចំណាយ​ពេលវេលា​ចែករំលែក​គំនិត​របស់​អ្នក ។ យើង​តែងតែ​ខិតខំ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង ហើយ​ការ​ចូលរួម​របស់​អ្នក​គឺជា​ជំនួយ​ដ៏​ប្រសើរ ។">
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-
-<!ENTITY idea.thanksMessageBottom  "អ្នក​មិន​អាច​មើល​វា​ឃើញ​ទេ ប៉ុន្តែ​យើង​នឹង​ផ្ដល់​ឲ្យ​អ្នក​នូវ​កម្រិត​ខ្ពស់​ប្រាំ​នៅ​ពេល​ឥឡូវនេះ ។">
 
 <!ENTITY feedback.privacy          "សម្រាប់​ភាព​ឯកជន សូម​កុំ​បញ្ចូល​ព័ត៌មាន​ដែល​បញ្ជាក់​ពី​អត្តសញ្ញាណ​ផ្ទាល់​នៅ​ក្នុង​មតិ​អ្នកប្រើ ។">
 <!ENTITY feedback.send             "ផ្ញើ​មតិ​អ្នកប្រើ">
