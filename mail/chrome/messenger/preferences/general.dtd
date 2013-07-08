@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY playSound.label "Пусти звук">
 <!ENTITY messengerStartPage.label "Прва страна за &brandShortName;">
 <!ENTITY systemsound.label "Подразумевани системски звук за нову пошту">
