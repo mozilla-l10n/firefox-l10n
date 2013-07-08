@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "குறிப்பு: ஒரு ஃபீடுக்கு இந்த அடைவை நீக்குவதோ, மாற்றுவதோ, முன்னால் தரவிறக்கப்பட்ட கட்டுரைகளை பாதிக்காது">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Return Receipts">
 <!ENTITY requestReceipt.label "அஞ்சல்களை அனுப்பும்போது, எப்பொழுதும் Return Receiptsஐ கேட்கவும்.">
 <!ENTITY requestReceipt.accesskey "W">
