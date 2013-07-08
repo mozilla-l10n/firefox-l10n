@@ -8,7 +8,7 @@
 <!ENTITY window.unixWidth                         "41em">
 
 <!ENTITY language.label                           "Skrifttyper for:">
-<!ENTITY language.accesskey                       "S">
+<!ENTITY language.accesskey                       "f">
 
 <!ENTITY size.label                               "Størrelse:">
 <!ENTITY proportionalSize.accesskey               "ø">
@@ -18,9 +18,9 @@
 <!ENTITY proportional.accesskey                   "P">
 
 <!ENTITY serif.label                              "Serif:">
-<!ENTITY serif.accesskey                          "e">
+<!ENTITY serif.accesskey                          "S">
 <!ENTITY sans-serif.label                         "Sans-serif:">
-<!ENTITY sans-serif.accesskey                     "a">
+<!ENTITY sans-serif.accesskey                     "n">
 <!ENTITY monospace.label                          "Monospatieret:">
 <!ENTITY monospace.accesskey                      "M">
 
@@ -53,8 +53,8 @@
 <!ENTITY font.langGroup.malayalam                 "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum skrifttypestørrelse:">
-<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize.label                            "Minimum skriftstørrelse:">
+<!ENTITY minSize.accesskey                        "i">
 <!ENTITY minSize.none                             "Ingen">
 
 <!-- default font type -->
@@ -75,6 +75,6 @@
 <!ENTITY composingDescription.label               "Sæt standardtegnkodning for udgående og indkommende meddelelser">
 
 <!ENTITY viewDefaultCharsetList.label             "Indkommende meddelelser:">
-<!ENTITY viewDefaultCharsetList.accesskey         "I">
+<!ENTITY viewDefaultCharsetList.accesskey         "d">
 <!ENTITY replyInDefaultCharset2.label             "Anvend standardtegnkodning i svar, når det er muligt">
 <!ENTITY replyInDefaultCharset2.accesskey         "O">

@@ -53,9 +53,9 @@
 <!ENTITY acceptCookies.accesskey        "A">
 <!ENTITY keepUntil.label                "Behold indtil:">
 <!ENTITY keepUntil.accesskey            "B">
-<!ENTITY expire.label                   "de udløber">
-<!ENTITY close.label                    "jeg lukker &brandShortName;">
-<!ENTITY askEachTime.label              "spørg mig hver gang">
+<!ENTITY expire.label                   "De udløber">
+<!ENTITY close.label                    "Jeg lukker &brandShortName;">
+<!ENTITY askEachTime.label              "Spørg mig hver gang">
 <!ENTITY cookieExceptions.label         "Undtagelser…">
 <!ENTITY cookieExceptions.accesskey     "U">
 <!ENTITY showCookies.label              "Vis cookies…">
