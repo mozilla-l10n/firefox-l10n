@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY useOtherPageButton.label "Замени са страном са другим изменама">
 <!ENTITY keepCurrentPageButton.label "Задржи тренутне измене на страни">
 <!ENTITY conflictWarning.label "Ову страну је изменио неки други програм, иако још увек имате несачуване измене у уређивачу.">

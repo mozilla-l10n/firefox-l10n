@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY quickFilterBar.textFilter.sender.label "Пошиљалац">
 <!ENTITY quickFilterBar.tags.tooltip "Show only messages with tags on them">
 <!ENTITY quickFilterBar.attachment.label "Прилог">

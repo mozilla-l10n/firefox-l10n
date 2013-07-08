@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "К">
 <!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Списак опозива">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Користи SSL 3.0">

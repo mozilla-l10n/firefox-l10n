@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY info3.label "Када &brandShortName; почне да исправно препознаје отпадну пошту, можете користити контроле отпадне поште да аутоматски померате долазећу отпадну пошту у директоријум Отпад.">
 <!ENTITY info2.label "Најпре треба обучити &brandShortName; да препозна отпадну пошту, употребом дугмета Отпад са алатне траке како бисте означили поруке за које сматрате да представљају отпад.">
 <!ENTITY window.width "450">
