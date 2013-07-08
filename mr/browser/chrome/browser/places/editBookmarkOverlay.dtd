@@ -10,9 +10,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "स्थळ स्थान:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!--
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "वर्तमान शिर्षक">
--->
 <!ENTITY editBookmarkOverlay.folder.label                    "संचयीका:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "सर्व ओळखचिन्हाकृत संचयीका दर्शवा">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "लपवा">
@@ -27,6 +24,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "बाजूच्यापट्टीत हे ओळखचिन्ह दाखल करा">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "निवडा…">
-
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "नविन संचयीका">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
