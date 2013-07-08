@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Til ">
-<!ENTITY fromField3.label "Frá ">
-<!ENTITY senderField3.label "Sendandi ">
-<!ENTITY organizationField3.label "Fyrirtæki/Stofnun ">
-<!ENTITY replyToField3.label "Svara á ">
-<!ENTITY subjectField3.label "Efni ">
-<!ENTITY ccField3.label "Afrit ">
-<!ENTITY bccField3.label "Falið afrit ">
-<!ENTITY newsgroupsField3.label "Fréttahópa ">
-<!ENTITY followupToField3.label "Áframsending á ">
-<!ENTITY tagsHdr3.label "Flokkar ">
-<!ENTITY dateField3.label "Dagsetning ">
-<!ENTITY userAgentField3.label "Notandaauðkenni ">
-<!ENTITY referencesField3.label "Tilvitnanir ">
-<!ENTITY messageIdField3.label "Auðkenni skeytis ">
-<!ENTITY inReplyToField3.label "Svar við ">
-<!ENTITY originalWebsite3.label "Vefsvæði ">
+<!ENTITY toField4.label "Til">
+<!ENTITY fromField4.label "Frá">
+<!ENTITY senderField4.label "Sendandi">
+<!ENTITY organizationField4.label "Fyrirtæki/Stofnun">
+<!ENTITY replyToField4.label "Svara á">
+<!ENTITY subjectField4.label "Efni">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Fréttahópa">
+<!ENTITY followupToField4.label "Áframsending á">
+<!ENTITY tagsHdr4.label "Flokkar">
+<!ENTITY dateField4.label "Dagsetning">
+<!ENTITY userAgentField4.label "Notandaauðkenni">
+<!ENTITY referencesField4.label "Tilvitnanir">
+<!ENTITY messageIdField4.label "Auðkenni skeytis">
+<!ENTITY inReplyToField4.label "Svar við">
+<!ENTITY originalWebsite4.label "Vefsvæði">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
 <!ENTITY hdrArchiveButton1.label "Skjalageymsla">
@@ -32,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svara póstlista">
 <!ENTITY hdrFollowupButton1.label "Eftirfylgni">
 <!ENTITY hdrFollowupButton1.tooltip "Pósta svari á þennan fréttahóp">
+<!ENTITY hdrMenuForwardButton.label "Áframsenda sem">
 <!ENTITY hdrForwardButton1.label "Áfram">
 <!ENTITY hdrForwardButton1.tooltip "Áframsenda þennan póst">
 <!ENTITY hdrJunkButton1.label "Ruslpóstur">

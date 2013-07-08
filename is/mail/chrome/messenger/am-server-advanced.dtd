@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Leyfa netþjóni að hunsa þessi nafnsvið">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Þegar verið er að niðurhala pop pósti frá þessum póstþjóni, nota eftirfarandi möppu fyrir nýjan póst:">
-<!ENTITY globalInbox.label "Víðvært innhólf (Reikningur fyrir staðbundnar möppur)">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Innhólf fyrir póstþjón á þessum reikningi">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Innhólf fyrir annan reikning">

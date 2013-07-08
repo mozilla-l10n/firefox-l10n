@@ -14,6 +14,7 @@
 <!ENTITY manageSubscriptions.label "Stilla áskriftir…">
  
 <!ENTITY manageSubscriptions.accesskey "S">
+<!ENTITY feedWindowTitle.label "Leiðarvísir fyrir straum reikning">
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogg og fréttastraumar">
 <!ENTITY feeds.wizardShortName "Straumar">
