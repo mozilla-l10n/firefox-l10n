@@ -8,9 +8,6 @@
 <!ENTITY     props.path.label               "मार्ग:">
 <!ENTITY     props.secure.label             "करीता पाठवा::">
 <!ENTITY     props.expires.label            "कालबाह्य:">
-<!--
-<!ENTITY     props.policy.label             "करार:">  
--->
 
 <!ENTITY     button.allow.label             "परवानगी द्या">
 <!ENTITY     button.allow.accesskey         "A">
@@ -22,4 +19,3 @@
 <!ENTITY     dialog.title                   "कुकी सुस्थित करण्याचे निश्तित करा">
 <!ENTITY     dialog.remember.label          "ह्या स्थळावरील सर्व कुकीज करीता माझी निवड लागु असावी">
 <!ENTITY     dialog.remember.accesskey      "U">
-
