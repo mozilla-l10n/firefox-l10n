@@ -12,17 +12,21 @@
 <!ENTITY  awesomebar_all_pages_title "Wszystko">
 <!ENTITY  awesomebar_bookmarks_title "Zakładki">
 <!ENTITY  awesomebar_history_title "Historia">
+<!ENTITY  awesomebar_switch_to_tab "Przełącz na kartę">
 
 <!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
-<!ENTITY  crash_message "&brandShortName; uległ awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
-<!ENTITY  crash_help_message "Pomóż nam naprawić ten problem!">
-<!ENTITY  crash_send_report_message "Prześlij zgłoszenie awarii do Mozilli">
-<!ENTITY  crash_include_url "Załącz adres strony">
+<!ENTITY  crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
+<!ENTITY  crash_send_report_message2 "Prześlij zgłoszenie problemu do Mozilli, aby mogli go rozwiązać">
+<!ENTITY  crash_include_url2 "Załącz adres strony, na której wystąpił problem">
+<!ENTITY  crash_sorry "Przykro nam">
+<!ENTITY  crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
+<!ENTITY  crash_allow_contact "Pozwól Mozilli skontaktować się z tobą w sprawie tego zgłoszenia">
+<!ENTITY  crash_email "Twój adres e-mail">
+<!ENTITY  crash_closing_alert "Chcesz wyjść bez wysłania zgłoszenia?">
 <!ENTITY  crash_close_label "Zamknij">
 <!ENTITY  crash_restart_label "Uruchom ponownie program &brandShortName;">
 <!ENTITY  sending_crash_report "Przesyłanie zgłoszenia\u2026">
 <!ENTITY  exit_label "Zakończ">
-<!ENTITY  continue_label "Dalej">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; – Aplikacje sieciowe">
 <!ENTITY  launcher_shortcuts_empty "Nie znaleziono aplikacji sieciowych">
@@ -64,16 +68,27 @@
 <!ENTITY pref_category_general "Ogólne">
 <!ENTITY pref_category_privacy "Prywatność i bezpieczeństwo">
 <!ENTITY pref_category_content "Treść">
-<!ENTITY pref_category_importexport "Importowanie i eksportowanie">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Udostępnianie danych">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
-<!ENTITY pref_do_not_track "Informuj witryny, że nie chcę być śledzony">
-<!ENTITY pref_telemetry "Przesyłaj informacje o wydajności">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Ogólne">
+<!ENTITY pref_header_privacy "Prywatność i bezpieczeństwo">
+<!ENTITY pref_header_content "Treść">
 
 <!ENTITY pref_cookies_menu "Ciasteczka">
 <!ENTITY pref_cookies_accept_all "Akceptuj wszystkie">
 <!ENTITY pref_cookies_not_accept_foreign "Akceptuj, z wyjątkiem ciasteczek zewnętrznych dostawców">
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
+
+<!ENTITY pref_donottrack_menu "Śledzenie">
+<!ENTITY pref_donottrack_disallow_tracking "Informuj witryny, że nie chcę, by mnie śledziły">
+<!ENTITY pref_donottrack_allow_tracking "Informuj witryny, że chcę, by mnie śledziły">
+<!ENTITY pref_donottrack_no_pref "Nie informuj witryn o tym, czy chcę, by mnie śledziły">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
@@ -113,6 +128,27 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings2 "Ustawienia witryny">
 <!ENTITY pref_private_data_downloadFiles "Pobrane pliki">
+
+<!ENTITY datareporting_notification_title "&brandShortName;: statystyki i dane">
+<!ENTITY datareporting_notification_action "Wybierz informacje, które chcesz udostępniać">
+<!ENTITY datareporting_notification_summary "Aby ulepszyć przeglądarkę &brandShortName;, &vendorShortName; automatycznie pobiera pewne informacje.">
+<!ENTITY datareporting_notification_summary_short "Aby ulepszyć przeglądarkę &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName;: raport o zdrowie">
+<!ENTITY datareporting_fhr_summary "Pozwala ci zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; przesyła zgłoszenia awarii, aby organizacja &vendorShortName; mogła poprawić stabilność i bezpieczeństwo przeglądarki">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "Zgłaszanie awarii programu &brandShortName;">
 
 <!ENTITY pref_update_autodownload "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
@@ -154,6 +190,12 @@ size. -->
 <!ENTITY contextmenu_copyurl "Kopiuj adres">
 <!ENTITY contextmenu_edit_bookmark "Zmień">
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
+<!ENTITY contextmenu_subscribe "Subskrybuj stronę">
+<!ENTITY contextmenu_site_settings "Edytuj ustawienia witryny">
+
+<!ENTITY pref_titlebar_mode "Pasek tytułu">
+<!ENTITY pref_titlebar_mode_title "Pokazuj tytuły stron">
+<!ENTITY pref_titlebar_mode_url "Pokazuj adresy stron">
 
 <!ENTITY history_removed "Stronę usunięto">
 
@@ -162,7 +204,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
 
-<!ENTITY site_settings_title2       "Wyczyść ustawienia witryny…">
+<!ENTITY site_settings_title3       "Ustawienia witryny">
 <!ENTITY site_settings_cancel       "Anuluj">
 <!ENTITY site_settings_clear        "Wyczyść">
 <!ENTITY site_settings_no_settings  "Brak ustawień">
@@ -171,6 +213,7 @@ size. -->
 <!ENTITY reading_list_added "Strona dodana do listy „Do przeczytania”">
 <!ENTITY reading_list_removed "Strona usunięta z listy „Do przeczytania”">
 <!ENTITY reading_list_failed "Nie udało się zapisać strony na liście „Do przeczytania”">
+<!ENTITY reading_list_duplicate "Strona już jest na liście „Do przeczytania”">
 <!ENTITY reader "Tryb czytania">
 
 <!ENTITY masterpassword_create_title "Utwórz hasło główne">
@@ -207,7 +250,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Edytuj">
 <!ENTITY abouthome_topsites_pin "Przypnij stronę">
 <!ENTITY abouthome_topsites_unpin "Odepnij stronę">
-<!ENTITY abouthome_topsites_remove "Usuń">
 
 <!ENTITY filepicker_title "Wybierz plik">
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
