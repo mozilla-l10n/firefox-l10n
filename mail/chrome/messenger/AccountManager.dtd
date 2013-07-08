@@ -11,6 +11,8 @@
 <!ENTITY addMailAccountButton.accesskey "B">
 <!ENTITY addIMAccountButton.label "Bæta við spjallreikningi…">
 <!ENTITY addIMAccountButton.accesskey "s">
+<!ENTITY addFeedAccountButton.label "Bæta við reikningi fyrir straum…">
+<!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Bæta við öðrum reikningi…">
 <!ENTITY addOtherAccountButton.accesskey "ö">
 <!ENTITY setDefaultButton.label "Setja sem sjálfgefinn">

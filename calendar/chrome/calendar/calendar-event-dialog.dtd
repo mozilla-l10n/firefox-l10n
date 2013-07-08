@@ -141,6 +141,8 @@
 <!ENTITY event.location.accesskey "S">
 <!ENTITY event.categories.label "Flokkur:">
 <!ENTITY event.categories.accesskey "F">
+<!ENTITY event.categories.textbox.label "Bæta við nýjum flokki">
+<!ENTITY event.categories.textbox.accesskey "a">
 <!ENTITY event.calendar.label "Dagatal:">
 <!ENTITY event.calendar.accesskey "D">
 <!ENTITY event.attendees.label "Þátttakendur:">

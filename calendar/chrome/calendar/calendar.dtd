@@ -304,3 +304,8 @@
 <!ENTITY calendar.error.code "Villunúmer:">
 <!ENTITY calendar.error.description "Lýsing:">
 <!ENTITY calendar.error.title "Villa kom upp">
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button "Bæta við sem nýjum atburð">
+<!ENTITY calendar.extract.task.button "Bæta við verki">
+<!ENTITY calendar.extract.event.button.tooltip "Ná í dagsetningar úr póstinum og bæta við í dagatalið sem atburð">
+<!ENTITY calendar.extract.task.button.tooltip "Ná í dagsetningar úr póstinum og bæta við í dagatalið sem verki">

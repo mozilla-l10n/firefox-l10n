@@ -1,21 +1,12 @@
-<!ENTITY aboutDialog.title "Um &brandFullName;">
-<!ENTITY community.start2 "&brandShortName; er hannað af ">
-<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", sem er ">
-<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "samfélag">
-<!ENTITY community.end2 " sem vinnur að því að gera Internetið betra. Okkar trú er að Internetið ætti að vera frjálst, opið, og aðgengilegt öllum án takmarkana.">
-<!ENTITY contribute.start "Hljómar vel? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Taktu þátt!">
-<!ENTITY contribute.end "">
-<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license "Leyfisupplýsingar">
-<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights "Notendaréttindi">
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy "Meðferð persónuupplýsinga">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY aboutHeader.title "Um">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "Frá &vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Lesa &brandShortName; friðhelgisreglur á netinu">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates "Athuga með uppfærslur…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -24,6 +15,8 @@
 <!ENTITY update.noUpdatesFound "&brandShortName; er þegar með nýjustu útgáfu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled "Uppfærslur hafa verið gerðar óvirkar af kerfistjóra">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "Verið er að uppfæra &brandShortName; annarstaðar">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -36,18 +29,8 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start "Niðurhala ">
-<!ENTITY update.manual.linkText "nýjustu útgáfu">
+<!ENTITY update.manual.start "Uppfærslur eru fáanlegar frá ">
 <!ENTITY update.manual.end "">
-<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
-     update.unsupported.start, update.unsupported.linkText, and
-     update.unsupported.end all go into one line with linkText being wrapped in
-     an anchor that links to a site to provide additional information regarding
-     why the system is no longer supported. As this is all in one line, try to
-     make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start "Ekki er hægt að setja inn fleiri uppfærslur. ">
-<!ENTITY update.unsupported.linkText "Frekari upplýsingar">
-<!ENTITY update.unsupported.end "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -61,4 +44,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start "Þú ert núna á ">
 <!ENTITY channel.description.end " uppfærslu rásinni. ">
-<!ENTITY cmdCloseMac.commandKey "w">
