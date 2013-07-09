@@ -28,12 +28,7 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Файл олдсонгүй">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
-</ul>
-">
+
 
 
 <!ENTITY generic.title "Уучлаарай.">
@@ -48,37 +43,23 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Холболт тасарсан">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+
 
 <!ENTITY netOffline.title "Салангид горим">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
+
 
 <!ENTITY unsafeContentType.title "Найдваргүй файлын төрөл">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+
 
 <!ENTITY netReset.title "Холболт шинэчлэгдсэн">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY netTimeout.title "Холболтын цаг дууссан">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY protocolNotFound.title "Хаяг ойлгогдоогүй">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -110,12 +91,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Нууцлалын холболтын алдаа">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+
 
 <!ENTITY nssBadCert.title "Нууцлалын холболтын алдаа">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -133,22 +109,14 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+
 
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+
+
 
 
 <!ENTITY securityOverride.linkText "Эсвэл та зарим онцгой тохиолдлууд нэмж болно…">
@@ -160,12 +128,3 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
-
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">

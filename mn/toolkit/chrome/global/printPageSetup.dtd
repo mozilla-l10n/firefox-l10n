@@ -18,21 +18,20 @@
 
 <!ENTITY scale.label         "Хэмжээ:">
 <!ENTITY scale.accesskey     "ж">
-<!ENTITY scalePercent        "&#037;">
+
 
 <!ENTITY shrinkToFit.label   "Хуудасны өргөнд багтааж сунга">
 <!ENTITY shrinkToFit.accesskey "ө">
 
 <!ENTITY optionsGroup.label  "Сонголт">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey   "B">
+
 
 <!ENTITY advanced.tab        "Зай авалт ба Толгой/Хөл">
 
 <!ENTITY marginGroup.label   "Зай авалт (#1)">
 <!ENTITY marginUnits.inches  "инч">
-<!ENTITY marginUnits.metric  "millimeters">
+
 <!ENTITY marginTop.label     "Дээд:">
 <!ENTITY marginTop.accesskey "Д">
 <!ENTITY marginBottom.label  "Доод:">
@@ -45,13 +44,13 @@
 <!ENTITY headerFooter.label  "Толгой ба хөл">
 
 <!ENTITY hfLeft.label        "Зүүн:">
-<!ENTITY hfCenter.label      "Center:">
+
 <!ENTITY hfRight.label       "Баруун:">
 <!ENTITY headerLeft.tip      "Зүүн толгой хэсэг">
-<!ENTITY headerCenter.tip    "Center header">
+
 <!ENTITY headerRight.tip     "Баруун толгой хэсэг">
 <!ENTITY footerLeft.tip      "Зүүн доод хэсэг">
-<!ENTITY footerCenter.tip    "Center footer">
+
 <!ENTITY footerRight.tip     "Баруун доод хэсэг">
 
 <!ENTITY hfTitle             "Гарчиг">

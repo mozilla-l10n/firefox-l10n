@@ -12,8 +12,6 @@
   "known").
 -->
 
-<!ENTITY  blockAttackSites.label     "Block reported attack sites">
-<!ENTITY  blockAttackSites.accesskey "k">
 
 <!ENTITY  blockWebForgeries.label     "Вэб хууралт хийгч хуудас гэж мэдэгдсэн бол хорино">
 <!ENTITY  blockWebForgeries.accesskey "В">

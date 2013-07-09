@@ -4,12 +4,12 @@
 
 <!ENTITY position.label             "Байрлал:">
 <!ENTITY tile.label                 "Хуваа">
-<!ENTITY center.label               "Center">
+
 <!ENTITY stretch.label              "Сунга">
-<!ENTITY fill.label                 "Fill">
-<!ENTITY fit.label                  "Fit">
+
+
 <!ENTITY preview.label              "Харах">
-<!ENTITY color.label                "Color:">
+
 <!ENTITY setDesktopBackground.title "Арын дэвсгэр зураг болго">
 <!ENTITY openDesktopPrefs.label     "Ар дэвсгэрийн тохируулгыг нээ">
 <!ENTITY closeWindow.key            "w">

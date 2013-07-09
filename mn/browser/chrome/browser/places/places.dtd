@@ -6,16 +6,16 @@
 <!ENTITY places.library.title  "Сан">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
-<!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+
+
+
 
 <!ENTITY file.close.label               "Хаа">
 <!ENTITY file.close.accesskey           "Х">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Харагдац">
 <!ENTITY views.accesskey                "г">
-<!ENTITY views.tooltip                  "Change your view">
+
 <!ENTITY view.columns.label             "Багануудыг харуул">
 <!ENTITY view.columns.accesskey         "г">
 <!ENTITY view.sort.label                "Эрэмбэл">
@@ -27,12 +27,11 @@
 <!ENTITY view.sortDescending.label      "Я > А эрэмбээр">
 <!ENTITY view.sortDescending.accesskey  "Я">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+
+
+
+
+
 
 <!ENTITY cmd.backup.label               "Нөөцөл…">
 <!ENTITY cmd.backup.accesskey           "ц">
@@ -41,8 +40,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Файл сонго…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Ф">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
+
 <!ENTITY cmd.delete.label               "Энэ хуудсыг устга">
 <!ENTITY cmd.delete.accesskey           "т">
 <!ENTITY cmd.deleteDomainData.label     "Энэ хуудсыг март">
@@ -68,7 +66,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "Ш">
 <!ENTITY cmd.new_folder.label              "Шинэ сан…">
 <!ENTITY cmd.new_folder.accesskey          "с">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+
 <!ENTITY cmd.new_separator.label           "Шинэ тусгаарлагч">
 <!ENTITY cmd.new_separator.accesskey       "т">
 
@@ -80,7 +78,7 @@
 
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
-<!ENTITY col.url.label           "Location">
+
 <!ENTITY col.lastvisit.label     "Зорчсон өдөр">
 <!ENTITY col.visitcount.label    "Зорчсон тоо">
 <!ENTITY col.keyword.label       "Түлхүүр үг">
@@ -88,18 +86,16 @@
 <!ENTITY col.dateadded.label     "Нэмэгдсэн">
 <!ENTITY col.lastmodified.label  "Сүүлд өөрчлөгдсөн">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Импортлох болон Нөөцлөх">
 <!ENTITY maintenance.accesskey  "И">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+
 
 <!ENTITY backButton.tooltip  "Буцна">
 
-<!ENTITY forwardButton.tooltip  "Go forward">
 
 <!ENTITY detailsPane.more.label "Нэмэлт">
 <!ENTITY detailsPane.more.accesskey "э">
@@ -107,8 +103,7 @@
 <!ENTITY detailsPane.less.accesskey "ө">
 <!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
+
 <!ENTITY view.label               "Харах">
 <!ENTITY view.accesskey           "р">
 <!ENTITY byDate.label             "Огноогоор">

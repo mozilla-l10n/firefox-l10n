@@ -14,7 +14,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Сэргээ">
 <!ENTITY resetPassword.title  "Мастер Нууц үгийг дахин сэргээх">
-<!ENTITY resetPassword.text  "If you reset your master password, all your stored web and e-mail passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?">
+
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Мастер нууц үг оруулна уу">
@@ -37,7 +37,7 @@
 
 <!ENTITY downloadCert.title "Гэрчилгээ татаж авч байна">
 <!ENTITY downloadCert.message1 "Танаас шинэ Гэрчилгээний Эрх-д итгэхийг асуусан (ГЭ).">
-<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
+
 <!ENTITY downloadCert.trustEmail "Захианы хэрэглэгчийг танихад энэ ГЭ-д итгэ">
 <!ENTITY downloadCert.trustObjSign "Програм хөгжүүлэгчийг танихдаа энэ ГЭ-д итгэ">
 <!ENTITY downloadCert.message3 "Та ямар ч зорилгоор бай энэ ГЭ -д итгэхээсээ өмнө үүний гэрчилгээний тохиргоог мөн бодлого бас үйлдлийг нь харах хэрэгтэй (хэрэв боломжтой бол).">
@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Бодлого">
 <!ENTITY downloadCert.viewCert.text "CA гэрчилгээг тохируулах">
 <!ENTITY downloadCert.viewPolicy.text "ГЭ -н бодлого ба үйлдлийн тохиргоог харах">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Байгаа гэрчилгээ">
-<!ENTITY caCertExists.message "Гэрчилгээ өмнө нь байна">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Хэрэглэгчийг таниулах хүсэлт">
@@ -67,10 +63,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Гэрчилгээний нөөцлөх нууц үг (дахиад):">
 <!ENTITY pkcs12.setpassword.reminder "Чухал: Хэрэв та гэрчилгээний нөөцлөх нууц үгээ мартвал, та дахиж энэ нөөц хуулбарыг сэргээж чадахгүй болно. Найдвартай газар бичиж авна уу.">
 
-<!ENTITY pkcs12.getpassword.title  "Password Entry Dialog">
 <!ENTITY pkcs12.getpassword.message "Энэ гэрчилгээний нөөцийг нууцлахад хэрэглэж байсан нууц үгийг оруулна уу.">
 
-<!ENTITY chooseToken.title  "Choose Token Dialog">
 <!ENTITY chooseToken.message1 "Токэн сонгоно уу.">
 
 <!ENTITY escrowWarn.title "Нууцлалтай түлхүүр үгийн хуулбар">
@@ -79,12 +73,10 @@
 <!ENTITY escrowWarn.message2 "Хэдийгээр таны нууцлах хувийн түлхүүр үг гэрчилгээний эрхээр хадгалагдах боловч таны зөвшөөрөлгүйгээр нууцлагдсан захиа эсвэл бичиг баримтыг уншихад хэрэглэгдэх боломжтой.">
 <!ENTITY examineCert.label "Гэрчилгээг харах">
 <!ENTITY examineCert.accesskey "ч">
-
-<!ENTITY serverCrlNextupdate.message "Систем зохицуулагчаас тусламж хүснэ үү?">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Хувийн түлхүүр үг үүсгэж байна">
-<!ENTITY createCertInfo.msg1 "Key Generation in progress… This may take a few minutes….">
+
 <!ENTITY createCertInfo.msg2 "Түр хүлээнэ үү…">
 <!-- Form Signing confirmation prompt -->
 

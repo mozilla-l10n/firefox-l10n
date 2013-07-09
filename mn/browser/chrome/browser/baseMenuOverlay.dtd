@@ -18,18 +18,15 @@
 <!ENTITY aboutProduct.accesskey   "т">
 <!ENTITY productHelp.label        "&brandShortName; Тусламж">
 <!ENTITY productHelp.accesskey    "Т">
-<!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+
+
+
+
+
+
 
 <!ENTITY preferencesCmdMac.label        "Тохируулга…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

@@ -7,7 +7,7 @@
 <!ENTITY     cookiesonsystem.label          "Дараах күүкинүүд таны компьютерт хадгалагдсан байна:">
 <!ENTITY     cookiename.label               "Күүкигийн нэр">
 <!ENTITY     cookiedomain.label             "Хуудас"> 
-<!ENTITY     button.removecookies.label     "Remove Cookies">
+
 <!ENTITY     button.removecookie.label      "Күүкиг устга">
 <!ENTITY     button.removecookie.accesskey  "у">
 <!ENTITY     button.removeallcookies.label  "Бүх күүкиг устга">

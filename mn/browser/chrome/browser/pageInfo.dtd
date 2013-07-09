@@ -5,7 +5,6 @@
 <!ENTITY  pageInfoWindow.width  "630">
 <!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Сануул">
 <!ENTITY  copy.accesskey        "С">
 <!ENTITY  selectall.key         "A">
@@ -59,18 +58,17 @@
 <!ENTITY  permBlock             "Хорих">
 <!ENTITY  permissionsFor        "Хандах эрхийн сан:">
 <!ENTITY  permImage             "Зурагнуудыг дууд">
-<!ENTITY  permPopup             "Open Pop-up Windows">
+
 <!ENTITY  permCookie            "Күүки суулга">
-<!ENTITY  permNotifications     "Show Notifications">
+
 <!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
 <!ENTITY  permGeo               "Байршлаа мэдэгдэх">
-<!ENTITY  permPlugins           "Activate Plugins">
-<!ENTITY  permFullscreen        "Enter Fullscreen">
-<!ENTITY  permPointerLock2      "Hide the Mouse Pointer">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
+
+
+
+
+
 
 <!ENTITY  securityTab           "Нууцлал">
 <!ENTITY  securityTab.accesskey "ц">
@@ -79,18 +77,16 @@
 <!ENTITY  securityView.accesskey "х">
 <!ENTITY  securityView.unknown   "Үл мэдэгдэх">
 
-
-<!ENTITY  securityView.identity.header   "Website Identity">
 <!ENTITY  securityView.identity.owner    "Эзэмшигч: ">
-<!ENTITY  securityView.identity.domain   "Website:">
+
 <!ENTITY  securityView.identity.verifier "Шалгасан: ">
 
 <!ENTITY  securityView.privacy.header                   "Мэдээллийн журам болон түүх">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
+
+
 <!ENTITY  securityView.privacy.viewCookies              "Күүкинүүдийг харах">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "р">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
+
 <!ENTITY  securityView.privacy.viewPasswords            "Хадгалсан нууц үгсийг харах">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "а">
 

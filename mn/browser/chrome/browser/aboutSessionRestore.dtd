@@ -15,7 +15,7 @@
 <!ENTITY restorepage.tryagainButton "Сэргээ">
 <!ENTITY restorepage.restore.access "С">
 <!ENTITY restorepage.closeButton    "Хаа">
-<!ENTITY restorepage.close.access   "C">
+
 
 <!ENTITY restorepage.restoreHeader  "Сэргээх">
 <!ENTITY restorepage.listHeader     "Цонх болон самбарууд">

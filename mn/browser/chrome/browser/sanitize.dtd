@@ -32,8 +32,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Зорчсон түүх">
 <!ENTITY dataSection.label            "Өгөгдлүүд">
 
-<!ENTITY itemHistoryAndDownloads.label     "Browsing &amp; Download History">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+
 <!ENTITY itemFormSearchHistory.label       "Хүснэгт оруулга болон хайлтын түүх">
 <!ENTITY itemFormSearchHistory.accesskey   "н">
 <!ENTITY itemPasswords.label               "Хагдгалсан нууц үгс">
@@ -58,5 +57,3 @@ that require it.  -->
      the item* strings above on a single line.  The column width should be set
      at half of the dialog width. -->
 
-<!ENTITY dialog.width2                 "34em">
-<!ENTITY column.width2                 "17em">

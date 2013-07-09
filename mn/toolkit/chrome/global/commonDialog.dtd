@@ -6,7 +6,7 @@
 <!ENTITY message.label    "Зарим жишээ текст энд байрлана.">
 <!ENTITY editfield0.label "Хэрэглэгчийн нэр:"> 
 <!ENTITY editfield1.label "Нууц үг:"> 
-<!ENTITY checkbox.label   "check">
+
 <!ENTITY copyCmd.label    "Хуул">
 <!ENTITY copyCmd.accesskey "л">
 <!ENTITY selectAllCmd.label "Бүгдийг сонго">
