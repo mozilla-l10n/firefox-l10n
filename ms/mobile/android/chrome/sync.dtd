@@ -3,29 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
-<!ENTITY sync.notconnected          "Not connected">
-<!ENTITY sync.connect               "Connect">
-<!ENTITY sync.connected             "Connected">
+
+<!ENTITY sync.connect               "Sambung">
+<!ENTITY sync.connected             "Bersambung">
 <!ENTITY sync.details               "Perincian">
-<!ENTITY sync.deviceName            "This device">
-<!ENTITY sync.disconnect            "Disconnect">
+
+
 <!ENTITY sync.syncNow               "Sync Sekarang">
 
-<!ENTITY sync.setup.title           "Connect to Sync">
-<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
-<!ENTITY sync.fallback              "I'm not near my computer…">
-<!ENTITY sync.setup.manual          "Enter your Sync account information">
-<!ENTITY sync.account               "Account Name">
-<!ENTITY sync.password              "Password">
-<!ENTITY sync.recoveryKey           "Recovery Key">
+
+
+<!ENTITY sync.setup.manual          "Masukkan maklumat akaun Sync anda">
+<!ENTITY sync.account               "Nama Akaun">
+<!ENTITY sync.password              "Kata laluan">
+
 <!ENTITY sync.customServer          "Gunakan server tertentu">
-<!ENTITY sync.serverURL             "Server URL">
-<!ENTITY sync.setup.connect         "Connect">
+
+
 <!ENTITY sync.setup.cancel          "Batal">
 <!ENTITY sync.setup.tutorial        "Tunjukkan caranya">
-<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+
 
 <!ENTITY sync.pair.title            "Memasangkan Peranti">
 <!ENTITY sync.pair.description      "Untuk mengaktifkan peranti baru anda, pilih &quot;Set Up Sync&quot; pada peranti.">
 <!ENTITY sync.setup.close           "Tutup">
-<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
+

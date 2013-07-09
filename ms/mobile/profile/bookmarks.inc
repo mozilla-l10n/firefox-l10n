@@ -25,11 +25,9 @@
 
 
 
-#define bookmarks_title Mobile
-
-
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
+
 
 
 
@@ -37,11 +35,11 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
-
 
 
 # LOCALIZATION NOTE (bookmarks_addons):
+
+
 
 
 
@@ -49,7 +47,6 @@
 
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
 
 
 
@@ -57,11 +54,14 @@
 
 
 
+
+
+
 # link title for https://support.mozilla.org/mobile
 
 
 
-#define bookmarks_support Firefox: Support
+
 
 
 
@@ -69,11 +69,16 @@
 
 
 
+
+
+
+
 # link title for about:home
 
 
 
-#define bookmarks_aboutHome Firefox Start
+
+
 
 
 
