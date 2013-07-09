@@ -16,6 +16,8 @@
 <!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
   -  restart label at right of settings that require a browser restart to be
   -  effective. -->
+
+<!ENTITY options.context.requiresRestart2  "విహరణి పునఃప్రారంభం అవసరమైంది">
 <!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
   -  restart button next to options.context.requiresRestart2 label. -->
 
@@ -23,6 +25,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "ప్రస్తుత సెషన్ మాత్రమే, పేజీ తిరిగిలోడుచేయును">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -39,6 +43,8 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label2    "జావాస్క్రిప్ట్ ను అచేతనంచేయి">
+<!ENTITY options.disableJavaScript.tooltip   "ఈ ఐచ్చికం ఆన్ చేయుట వలన ఈ ప్రస్తుత టాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ టాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -53,6 +59,8 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* ప్రస్తుత సాధనపెట్టె లక్ష్యము కొరకు తోడ్పాటునీయదు">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
@@ -69,3 +77,5 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
+<!ENTITY options.enablePersistentLogging.label    "స్థిరమైన లాగ్‌లను చేతనంచేయును">
+<!ENTITY options.enablePersistentLogging.tooltip  "మీరు ఈ ఐచ్చికం చేతనంచేస్తే వెబ్ కన్సోల్ అనునది మీరు ప్రతిసారి కొత్త పేజీకు వెళ్ళినప్పుడు అవుట్పుట్‌ను శుభ్రంచేయదు.">
