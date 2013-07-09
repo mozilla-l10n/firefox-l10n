@@ -12,17 +12,16 @@
 <!ENTITY  awesomebar_all_pages_title "Sàr-làraichean">
 <!ENTITY  awesomebar_bookmarks_title "Comharran-lìn">
 <!ENTITY  awesomebar_history_title "Eachdraidh">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!ENTITY  awesomebar_switch_to_tab "Gearr leum gun taba">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact "Allow Mozilla to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  crash_message2 "Bha duilgheadas aig &brandShortName; is thuislich e. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
+
+<!ENTITY  crash_include_url2 "Cuir ann seòladh na duilleige far an robh mi">
+<!ENTITY  crash_sorry "Tha sinn duilich">
+<!ENTITY  crash_comment "Cuir beachd ris (chithear na beachdan gu poblach)">
+
+<!ENTITY  crash_email "Am post-d agad">
+<!ENTITY  crash_closing_alert "A bheil thu airson fàgail gun aithisg tuislidh a chur?">
 <!ENTITY  sending_crash_report "A\u0027 cur aithisg an tuislidh\u2026">
 <!ENTITY  crash_close_label "Dùin">
 <!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
@@ -42,6 +41,7 @@
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
 <!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
+<!ENTITY bookmark_options "Roghainnean">
 
 <!ENTITY history_today_section "An-diugh">
 <!ENTITY history_yesterday_section "An-dè">
@@ -66,30 +66,30 @@
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
+<!ENTITY pref_category_general "Coitcheann">
+<!ENTITY pref_category_privacy "Prìobhaideachd ⁊ Tèarainteachd">
+<!ENTITY pref_category_content "Susbaint">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
+<!ENTITY pref_category_datareporting "Roghainnean dàta">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privacy &amp; Security">
-<!ENTITY pref_header_content "Content">
+<!ENTITY pref_header_general "Coitcheann">
+<!ENTITY pref_header_privacy "Prìobhaideachd ⁊ Tèarainteachd">
+<!ENTITY pref_header_content "Susbaint">
 
 <!ENTITY pref_cookies_menu "Briosgaidean">
 <!ENTITY pref_cookies_accept_all "An comas">
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
-<!ENTITY pref_donottrack_menu "Tracking">
-<!ENTITY pref_donottrack_disallow_tracking "Tell sites that I do not want to be tracked">
-<!ENTITY pref_donottrack_allow_tracking "Tell sites that I want to be tracked">
-<!ENTITY pref_donottrack_no_pref "Do not tell sites anything about my tracking preferences">
+<!ENTITY pref_donottrack_menu "Tracadh">
+<!ENTITY pref_donottrack_disallow_tracking "Innis do làraichean-lìn nach bu toigh leam gun dèan iad tracadh orm">
+<!ENTITY pref_donottrack_allow_tracking "Innis do làraichean-lìn gum faod iad mo thracadh">
+<!ENTITY pref_donottrack_no_pref "Na innis dad do làraichean mu na roghainnean tracaidh agam">
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
@@ -100,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
-<!ENTITY pref_reflow_on_zoom2 "Dèan gòmag gus an teacsa ath-shruthadh">
+
 <!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
@@ -132,26 +132,29 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Roghainnean na làraich">
 <!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
+
+<!ENTITY datareporting_notification_action "Tagh na tha thu airson co-roinneadh">
+<!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh\u0027fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh\u0027obraicheas nas fhearr a thoirt dhut.">
+<!ENTITY datareporting_notification_summary_short "Airson \u0027s gun obraich e nas fhearr dhut, &brandShortName;…">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!ENTITY datareporting_fhr_title "Aithisg slàinte &brandShortName;">
+
+
+<!ENTITY datareporting_telemetry_title "Telemeatraidh">
+<!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a\u0027 bhrabhsair agad dha &vendorShortName; airson \u0027s gun urrainn dhuinn &brandShortName; a leasachadh">
+<!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson \u0027s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+
+
 
 <!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
@@ -200,12 +203,12 @@ size. -->
 <!ENTITY contextmenu_paste "Cuir ann">
 <!ENTITY contextmenu_copyurl "Dèan lethbhreac dhen t-seòladh">
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
+<!ENTITY contextmenu_subscribe "Fo-sgrìobh gun duilleag">
+<!ENTITY contextmenu_site_settings "Deasaich roghainnean na làraich">
 
-<!ENTITY pref_titlebar_mode "Title bar">
-<!ENTITY pref_titlebar_mode_title "Show page title">
-<!ENTITY pref_titlebar_mode_url "Show page address">
+<!ENTITY pref_titlebar_mode "Bàr an tiotail">
+<!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
+<!ENTITY pref_titlebar_mode_url "Seall seòladh na duilleige">
 
 <!ENTITY history_removed "Duilleag air a thoirt air falbh">
 
@@ -216,7 +219,7 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "Site Settings">
+<!ENTITY site_settings_title3       "Roghainnean na làraich">
 <!ENTITY site_settings_cancel       "Sguir dheth">
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
@@ -225,7 +228,7 @@ size. -->
 <!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta leughaidh agad">
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
+<!ENTITY reading_list_duplicate "Tha an duilleag air an liosta leughaidh agad mu thràth">
 <!ENTITY reader "An leughadair">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
@@ -283,6 +286,13 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \u0027ga ruith le">
+<!-- Mixed content notifications in site identity popup -->
+
+
+<!ENTITY learn_more "Faigh tuilleadh eòlais">
+
+
+
 
 <!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
 <!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
