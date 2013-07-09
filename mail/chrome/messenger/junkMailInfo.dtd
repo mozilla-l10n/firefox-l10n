@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title  "ਜੰਕ ਮੇਲ ਬਾਰੇ">
 <!ENTITY window.width  "450">
  <!ENTITY info1a.label  "&brandShortName; ਆਉਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਜੰਕ (ਜਿਸ ਨੂੰ ਸਪਮ ਵੀ ਕਹਿੰਦੇ ਹਨ) ਹੋਣ ਦੀ ਜਾਂਚ ਕਰਦਾ ਹੈ। ਜਿੰਨਾਂ ਸੁਨਹਿਆਂ ਨੂੰ &brandShortName; ਜੰਕ ਸਮਝਦਾ ਹੈ, ਉਹਨਾਂ ਲਈ ਜੰਕ ਆਈਕਾਨ ਵੇਖਾਇਆ ਜਾਦਾ ਹੈ।">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "ਸੁਰੱਖਿਆ">
 <!ENTITY securityTab.label "ਸੁਰੱਖਿਆ">
 <!ENTITY securityHeading.label "ਸਾਈਨ ਕੀਤੇ ਜਾਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਸੁਨੇਹੇ ਭੇਜਣ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ ਡਿਜ਼ਿਟਲ ਸਾਈਨਿੰਗ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਇੱਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਸਰਟੀਫਿਕੇਟ ਦੋਵੇਂ ਦੱਸਣ ਦੀ ਲੋੜ ਹੈ।">
