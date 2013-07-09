@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Ùraich">
 
 <!ENTITY updateApp.label                 "Ùrachaidhean &brandShortName;:">
-<!ENTITY updateAuto.label                "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
-<!ENTITY updateAuto.accesskey            "S">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
+<!ENTITY updateAuto1.accesskey           "S">
+
+
 <!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
 <!ENTITY updateCheck.accesskey           "b">
 <!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
 <!ENTITY updateAutoAddonWarn.accesskey   "T">
+
 
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY updateHistory.accesskey         "h">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Seall na teisteanasan">
 <!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewCRLs.label                  "Liosta nan cùl-ghairmean">
-<!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "Dearbhadh">
 <!ENTITY verify2.accesskey               "D">
 <!ENTITY viewSecurityDevices.label       "Uidheaman tèarainteachd">

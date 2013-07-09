@@ -18,6 +18,9 @@ agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a
 <!ENTITY aboutSupport.appBasicsTitle "Bun-tùs na h-aplacaid">
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Eòlaire nam pròifilean">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
-<!ENTITY aboutSupport.updateHistoryTitle "Eachdraidh nan ùrachaidhean">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Cuir lethbhreac dhen teacsa air an stòr-bhòrd">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd">
