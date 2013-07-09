@@ -115,14 +115,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "E">
 <!ENTITY offlineAppRemove.confirm        "Offline-Daten entfernen">
 
-<!ENTITY encryptionTab.label             "Verschlüsselung">
-
-<!ENTITY protocols.label                 "Protokolle">
-<!ENTITY useSSL3.label                   "SSL 3.0 verwenden">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0 verwenden">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Zertifikate">
+<!ENTITY certificateTab.label            "Zertifikate">
 <!ENTITY certSelection.description       "Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt:">
 <!ENTITY certs.auto                      "Automatisch eins wählen">
 <!ENTITY certs.auto.accesskey            "w">
