@@ -32,10 +32,10 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  pinTab.label                       "Anclar pestaña">
+<!ENTITY  pinTab.accesskey                   "A">
+<!ENTITY  unpinTab.label                     "Desanclar pestaña">
+<!ENTITY  unpinTab.accesskey                 "ñ">
 <!ENTITY  moveToGroup.label                  "Mover a Grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Nuevo Grupo">
@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a la pestaña:">
 <!-- 
