@@ -100,7 +100,7 @@
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
-<!ENTITY datareporting_notification_title "&brandShortName; estadísticas y datos">
+<!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_action "Elegir qué compartir">
 <!ENTITY datareporting_notification_summary "Para mejorar su experiencia, &brandShortName; manda automáticamente alguna información a &vendorShortName;.">
