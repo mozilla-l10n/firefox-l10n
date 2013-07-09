@@ -18,10 +18,6 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-
-
-<!ENTITY window.title                 "Scratchpad">
-
 <!ENTITY fileMenu.label               "Tập tin">
 <!ENTITY fileMenu.accesskey           "T">
 
