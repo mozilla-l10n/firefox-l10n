@@ -18,6 +18,9 @@ quand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de question
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las informacions brutas dins lo quichapapièrs">

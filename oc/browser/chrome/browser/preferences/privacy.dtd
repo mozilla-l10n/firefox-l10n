@@ -4,12 +4,11 @@
 
 <!ENTITY tracking.label                 "Pistatge">
 
-<!ENTITY dntTrackingNopref.label        "Indicar pas res als sites a prepaus de mas preferéncias de pistatge.">
-<!ENTITY dntTrackingNopref.accesskey    "m">
-<!ENTITY dntTrackingNotOkay.label       "Indicar als sites Web de que vòli pas èsser pistat.">
-<!ENTITY dntTrackingNotOkay.accesskey   "d">
-<!ENTITY dntTrackingOkay.label          "Indicar als sites Web que vòli pas èsser pistat.">
-<!ENTITY dntTrackingOkay.accesskey      "d">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Ne saber mai…">
 
 <!ENTITY  history.label                 "Istoric">
@@ -31,7 +30,7 @@
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
 
 <!ENTITY  keepUntil.label               "Los conservar fins a :">
 <!ENTITY  keepUntil.accesskey           "L">
