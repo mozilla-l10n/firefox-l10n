@@ -8,12 +8,16 @@
 <!ENTITY closeCmd.key  "W">
 
 <!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
-
+<!ENTITY toolboxOptionsButton.key      "O">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
+
+<!ENTITY options.context.advancedSettings "Configuración avanzada">
 <!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
   -  restart label at right of settings that require a browser restart to be
   -  effective. -->
+
+<!ENTITY options.context.requiresRestart2  "El navegador necesita reiniciar">
 <!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
   -  restart button next to options.context.requiresRestart2 label. -->
 
@@ -21,25 +25,37 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "Sólo la sesión actual, recarga la página">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label3    "Habilitar la depuración chrome">
+<!ENTITY options.enableChrome.tooltip   "Usar esta opción te permitirá usar varias herramientas de programador en el contexto del browser">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableRemote.label3    "Habilitar depuración remota">
+<!ENTITY options.enableRemote.tooltip   "Usando esta opción permitirá a las herramientas del programador depurar una instancia de Firefox como Firefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label2    "Deshabilitar JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "Usando esta opción deshabilitará JavaScript para la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces esta configuración se deshabilitará.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label     "Herramientas de desarrollo para Firefox por defecto">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+
+<!ENTITY options.selectAdditionalTools.label  "Herramientas de desarrollador instaladas por complementos">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -56,4 +72,4 @@
   -  label for the checkbox that toggles persistent logs in the Web Console,
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
-
+<!ENTITY options.enablePersistentLogging.tooltip  "Si se activa esta opción, la consola web no borrará la salida cada vez que se desplaza a una nueva página">

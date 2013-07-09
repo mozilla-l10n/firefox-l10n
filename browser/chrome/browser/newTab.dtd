@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "Pestaña nueva">
-<!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
-<!ENTITY newtab.undo.undoButton "Undo.">
-<!ENTITY newtab.undo.restoreButton "Restore All.">
+<!ENTITY newtab.pageTitle "Nueva pestaña">
+<!ENTITY newtab.undo.removedLabel "Vista previa eliminada.">
+<!ENTITY newtab.undo.undoButton "Deshacer.">
+<!ENTITY newtab.undo.restoreButton "Restaurar todas.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">

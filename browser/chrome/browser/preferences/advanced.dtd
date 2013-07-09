@@ -90,8 +90,8 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateAutoMetro.label           "Actualizar automáticamente desde el escritorio y con el estilo de Windows 8 &branShortName;">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Comprobar si hay actualizaciones, pero permitirme elegir si serán instaladas">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No buscar actualizaciones (no recomendado: riesgo de seguridad)">

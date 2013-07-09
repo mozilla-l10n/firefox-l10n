@@ -24,7 +24,9 @@ instalar programas en este equipo.">
 <!ENTITY  manualUpdate.space.desc         "Una actualización recomendada de seruridad y estabilidad está disponible, pero no tienes suficiente espacio para instarla.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
 
-
+<!ENTITY  unsupported.label               "Tu &brandShortName; no está actualizado, sin embargo la última versión no está 
+disponible en tu sistema. Por favor actualiza tu sistema e intenta de nuevo. 
+No verás este mensaje de nuevo, pero tu puedes">
 
 
 <!ENTITY  incompatibleCheck.title         "Comprobando la compatibilidad de los complementos">
