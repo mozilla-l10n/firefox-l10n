@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Metre a jorn">
 
 <!ENTITY updateApp.label                 "Mesas a jorn de &brandShortName;">
-<!ENTITY updateAuto.label                "Installar automaticament las mesas a jorn (recomandat per vòstra seguretat)">
-<!ENTITY updateAuto.accesskey            "a">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Installar automaticament las mesas a jorn (recomandat per vòstra seguretat)">
+<!ENTITY updateAuto1.accesskey           "a">
+
+
 <!ENTITY updateCheck.label               "Verificar l'existéncia de mesas a jorn mas me daissar decidir de lor installacion">
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Verificar pas jamai las mesas a jorn (desconselhat, aquò representa un risc de seguretat)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "M'alertar s'aquò desactiva de moduls">
 <!ENTITY updateAutoAddonWarn.accesskey   "a">
+
 
 <!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
 <!ENTITY updateHistory.accesskey         "h">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "M">
 <!ENTITY viewCerts.label                 "Afichar los certificats">
 <!ENTITY viewCerts.accesskey             "A">
-<!ENTITY viewCRLs.label                  "Listas de revocacion">
-<!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Validacion">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
