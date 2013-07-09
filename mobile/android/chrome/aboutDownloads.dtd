@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Downloads">
-<!ENTITY aboutDownloads.header                     "Your Downloads">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+<!ENTITY aboutDownloads.title                      "Muat Turun">
+<!ENTITY aboutDownloads.header                     "Muat Turun Anda">
+<!ENTITY aboutDownloads.empty                      "Tida Muat Turun">
 
 <!ENTITY aboutDownloads.open                       "Buka">
 <!ENTITY aboutDownloads.remove                     "Padam">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
+
 <!ENTITY aboutDownloads.pause                      "Jeda">
 <!ENTITY aboutDownloads.resume                     "Sambung">
 <!ENTITY aboutDownloads.cancel                     "Batal">

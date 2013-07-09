@@ -30,7 +30,7 @@ was trying to connect. -->
 <b> Biarpun jika anda percaya laman ini, masalah ini bermaksud ada seseorang  mengganggu sambungan anda. </b>">
 <!ENTITY certerror.expert.contentPara2 "Jangan tambah satu kecuali 
  melainkan anda tahu ada alasan munasabah kenapa laman tidak boleh guna identifikasi yang dipercayai.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+
+
 
 <!ENTITY certerror.technical.heading "Maklumat Teknikal">
