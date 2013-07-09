@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "To ntab mu firi nyifa">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "To Ntab A Wɔaka No Mu">
 <!ENTITY  closeOtherTabs.accesskey           "W">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -221,8 +222,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Wɛb Adwumadide a Ɛwɔ Ekyiri">
 
-
-
+<!ENTITY browserConsoleCmd.label      "Brawsa kɔnsool">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "Inspɛkt ɛlɛmɛnt">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -247,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "Brawsa ne sɔftwɛɛ-mboaba-sɛefo-fidie">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "To sɔftwɛɛ bɔfo tuulbaa mu">
 <!ENTITY devToolbarMenu.label              "Sɔftwɛɛ bɔfo tuulbaa">
@@ -679,7 +683,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pointerLock.notification.message "Mia ESC bere biara wo pɛ fa kyerɛ no bio.">
 
-
+<!ENTITY pluginNotification.showAll.label "Kyerɛ No Nyinara">
+<!ENTITY pluginNotification.showAll.accesskey "K">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "Ma ho kwan seiseira">
+<!ENTITY pluginActivateAlways.label "Ma ho kwan na kae">
+<!ENTITY pluginBlockNow.label "Siw plagin ano kwan">
