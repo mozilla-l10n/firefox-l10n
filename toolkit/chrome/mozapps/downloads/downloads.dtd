@@ -40,7 +40,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Жагсаалтыг цэвэрлэ">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed downloads from the list">
+
 <!ENTITY cmd.clearList.accesskey          "ц">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

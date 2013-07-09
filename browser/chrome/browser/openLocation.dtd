@@ -8,7 +8,7 @@
 <!ENTITY chooseFile.label "Файл сонго…">
 <!ENTITY newTab.label "Шинэ самбар">
 <!ENTITY newWindow.label "Шинэ цонх">
-<!ENTITY topTab.label "Current Tab">
+
 <!ENTITY caption.label "Вэб хаяг нээ">
 <!ENTITY openWhere.label "Нээгдэх газар:">
 <!ENTITY openBtn.label "Нээ">

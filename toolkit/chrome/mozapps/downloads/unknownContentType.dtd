@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY  intro2.label                "You have chosen to open:">
 <!ENTITY  from.label                  "хаанаас:">
 <!ENTITY  actionQuestion.label        "&brandShortName; энэ файлыг яах вэ?">
 
@@ -16,7 +14,6 @@
 <!ENTITY  rememberChoice.label        "Одооноос эхлэн ийм файлд энэ үйлдлийг автомаар гүйцэтгэ.">
 <!ENTITY  rememberChoice.accesskey    "д">
 
-<!ENTITY  whichIs.label              "which is:">
 
 <!ENTITY  chooseHandlerMac.label      "Сонго…">
 <!ENTITY  chooseHandlerMac.accesskey  "С">

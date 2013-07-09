@@ -1,25 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY  colorsDialog.title              "Colors">
 <!ENTITY  window.width                    "45em">
 <!ENTITY  window.macWidth                 "45em">
 
-<!ENTITY  allowPagesToUse.label           "Allow pages to choose their own colors, instead of my selections above">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
 
 <!ENTITY  color                           "Текст ба Ар дэвсгэр">
 <!ENTITY  textColor.label                 "Текст:">
 <!ENTITY  textColor.accesskey             "к">
 <!ENTITY  backgroundColor.label           "Ар дэвсгэр:">
 <!ENTITY  backgroundColor.accesskey       "А">
-<!ENTITY  useSystemColors.label           "Use system colors">
-<!ENTITY  useSystemColors.accesskey       "s">
+
+
 
 <!ENTITY  underlineLinks.label            "Доогуур зурааст холбоос">
 <!ENTITY  underlineLinks.accesskey        "х">
-<!ENTITY  links                           "Link Colors">
+
 <!ENTITY  linkColor.label                 "Зорчоогүй холбоос:">
 <!ENTITY  linkColor.accesskey             "ч">
 <!ENTITY  visitedLinkColor.label          "Зорчсон холбоос:">

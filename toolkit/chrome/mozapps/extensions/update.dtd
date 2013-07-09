@@ -20,8 +20,8 @@
 <!ENTITY  found.wizard.title               "Тохиромжтой нэмэгдлүүд олдлоо">
 <!ENTITY  found.top.label                 "Суулгахыг хүссэн нэмэгдлээ сонгоно уу:">
 <!ENTITY  found.disabledXPinstall.label   "Эдгээр шинэчлэлүүд нь програм суулгахыг хорьсон байгаа тул суугдах боломжгүй. Та дараах тохируулгыг өөрчилж болно.">
-<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+
+
 
 <!ENTITY  installing.wizard.title         "Тохиромжтой нэмэгдлүүдийг суулгаж байна">
 <!ENTITY  installing.top.label            "Таны нэмэгдлүүдийн шинэчлэлийг татаж авч суулгаж байна…">

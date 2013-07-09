@@ -5,15 +5,12 @@
 <!ENTITY window.title "about:config">
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
-<!ENTITY aboutWarningTitle.label "This might void your warranty!">
 <!ENTITY aboutWarningText.label "Эдгээр тохиргоог өөрчилснөөр програмын аюулгүй байдал, нууцлал, баталгаат чадварт муугаар нөлөөлж магадгүй. Та зөвхөн юу хийж байгаагаа сайн мэдэж байж цааш нь үргэлжлүүлэх хэрэгтэй.">
 <!ENTITY aboutWarningButton.label "Би болгоомжтой байна, батлая!">
 <!ENTITY aboutWarningCheckbox.label "Дараагийн удаа энэ анхааруулгыг харуул">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "r">
+
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Тохируулгын нэр">

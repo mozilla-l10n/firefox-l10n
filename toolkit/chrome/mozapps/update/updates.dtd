@@ -6,9 +6,8 @@
 <!ENTITY  checking.title                  "Шинэчлэл шалгаж байна">
 <!ENTITY  updateCheck.label               "&brandShortName;-н шинэ хувилбарыг шалгаж байна…">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+
+
 
 <!ENTITY  noupdatesfound.title            "Шинэчлэл олдсонгүй">
 <!ENTITY  noupdatesautoenabled.intro      "Шинэчлэл байхгүй байна. &brandShortName; байнга шинэчлэлийг шалгаж байх болно.">
@@ -17,9 +16,11 @@
 
 <!ENTITY  manualUpdate.title              "Шинэчлэх боломжгүй байна">
 <!ENTITY  manualUpdate.desc               "Баталгаа болон найдварын шинэчлэл байгаа боловч уг систем дээр суулгах эрх танд алга байна. Систем зохицуулагчтайгаа холбоо барих юмуу эсвэл энэ компьютер дээр програм суулгах эрхтэй хэрэглэгчийн эрхээр дахин оролдоно уу.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+
 <!ENTITY  manualUpdateGetMsg.label        "Та &brandShortName;-н сүүлийн хувилбарыг дараах хаягнаас үргэлж авч болно:">
+
+
+
 
 <!ENTITY  incompatibleCheck.title         "Нэмэгдлийн хувилбарын нийцлэлийг шалгаж байна">
 <!ENTITY  incompatibleCheck.label         "Таны нэмэгдэлд шинэ хувилбар байгаа эсэхийг шалгаж байна…">
@@ -30,17 +31,15 @@
 
 <!ENTITY  license.instructions            "Хэрэв та энэ гэрээг зөвшөөрвөл Би зөвшөөрнө товч дээр дарж шинэчлэл суулгахыг үргэлжлүүлнэ үү.">
 
-<!ENTITY  license.titleText               "Software License Agreement">
 <!ENTITY  license.introText               "Энэ програмыг хэрэглэх нөхцөл.">
-<!ENTITY  license.instructionText         "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
+
+
 <!ENTITY  license.accept.accesskey        "Б">
-<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
+
 <!ENTITY  license.decline.accesskey       "и">
 
 <!ENTITY  incompatibleList.title          "Нийцгүй нэмэгдлүүд олдлоо">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна…">
 <!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; татаж авсан шинэчлэлийн нягтыг 
@@ -53,20 +52,14 @@
 
 <!ENTITY  error.title                     "Шинэчлэлд алдаа гарсан">
 
-<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
-                                           update. &brandShortName; could not be updated because:">
                                            
 <!ENTITY  errorManual.label               "Та &brandShortName;-г гар аргаар энэ холбоосд зорчиж сүүлийн хувилбарыг татаж авч шинэчилж болно:">
                                            
 <!ENTITY  errorpatching.intro             "Зарим шинэчлэлүүд хэрэгжиж чадсангүй. 
 &brandShortName; шинэчлэлийг бүхлээр нь дахин татаж авахыг оролдох болно.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+
+
 
 <!ENTITY  finishedPage.title              "Шинэчлэл суугдахад бэлэн">
 <!ENTITY  finishedPage.text               "&brandShortName; шинээр ачаалагдах үед энэ шинэчлэл суугдах болно. 

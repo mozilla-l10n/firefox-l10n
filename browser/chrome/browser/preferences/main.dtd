@@ -10,13 +10,12 @@
 <!ENTITY startupBlankPage.label    "Хоосон хуудас харуул">
 <!ENTITY startupLastSession.label  "Миний сүүлд зорчиж байсан цонх ба самбаруудыг харуул">
 
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "Одоогийн хуудсыг хэрэглэ">
 <!ENTITY useCurrentPage.accesskey  "д">
 <!ENTITY useMultiple.label         "Одоогийн хуудаснуудыг хэрэглэ">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
+
+
 <!ENTITY restoreDefault.label      "Анхны горимд сэргээ">
 <!ENTITY restoreDefault.accesskey  "с">
 

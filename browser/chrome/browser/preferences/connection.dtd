@@ -22,10 +22,10 @@
 <!ENTITY  reload.accesskey              "а">
 <!ENTITY  ftp.label                     "FTP Прокси:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL Proxy:">
-<!ENTITY  ssl.accesskey                 "L">
+
+
+
+
 <!ENTITY  socks.label                   "SOCKS Эзэн:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -40,5 +40,5 @@
 <!ENTITY  noproxy.label                 "Прокси хэрэггүй хаяг:">
 <!ENTITY  noproxy.accesskey             "и">
 <!ENTITY  noproxyExplain.label          "Жишээ: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
-<!ENTITY  shareproxy.accesskey          "s">
+
+

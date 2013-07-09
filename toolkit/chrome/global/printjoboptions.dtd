@@ -21,14 +21,12 @@
 <!ENTITY jobTitleInput.label "Албан тушаал:">
 <!ENTITY jobTitleInput.accesskey "А">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Colorspace:">
-<!ENTITY colorspaceInput.accesskey "s">
+
+
+
+
+
 
 <!ENTITY fontsGroup.label "Үсгийн маяг:">
 <!ENTITY downloadFonts.label "Хэвлэгч рүү үсгийн маяг татаж авах уу?">

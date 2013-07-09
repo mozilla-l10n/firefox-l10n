@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "у">
 <!ENTITY removeallpermissions.label   "Бүх хуудсыг устга">
 <!ENTITY removeallpermissions.accesskey "Б">
-<!ENTITY address.label                "Address of website:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "Хорих">
 <!ENTITY block.accesskey              "р">
 <!ENTITY session.label                "Тухайн хэсэгт зөвшөөр">

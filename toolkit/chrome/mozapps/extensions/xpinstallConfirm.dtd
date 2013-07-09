@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "Програм суулгац">
 <!ENTITY dialog.style            "width: 52em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
+
 <!ENTITY warningSecondary.label  "Зарим програм нь таны хувийн мэдээллийг илрүүлэх эсвэл компьютер эвдэх чадвартай байдаг.">
 
 <!ENTITY from.label "хаанаас:">

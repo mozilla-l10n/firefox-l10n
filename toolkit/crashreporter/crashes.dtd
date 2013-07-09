@@ -7,5 +7,5 @@
 <!ENTITY date.heading               "Илгээсэн огноо">
 <!ENTITY noReports.label            "Ямар ч эвдрэлийн мэдээлэл илгээгдээгүй.">
 <!ENTITY noConfig.label             "Энэ програм эвдрэлийн мэдээлэл харуулахаар тохируулагдаагүй байна. Тохируулгын <code>breakpad.reportURL</code> идэвхижсэн байх ёстой.">
-<!ENTITY clearAllReports.label      "Remove All Reports">
+
 

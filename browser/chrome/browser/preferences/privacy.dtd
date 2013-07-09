@@ -4,34 +4,31 @@
 
 <!ENTITY tracking.label                 "Ажиглах">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Learn More">
+<!ENTITY dntTrackingNopref.label2       "Миний тохируулгыг битгий сайтруу илгээ">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Түүх">
 
 <!ENTITY  locationBar.label             "Хаягийн самбар">
 
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
-<!ENTITY  locbar.pre.accessKey          "u">
+
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Зорчсон түүх болон хадгалсан хаягнаас">
 <!ENTITY  locbar.history.label          "Зорчсон түүх">
 <!ENTITY  locbar.bookmarks.label        "Хадгалсан хаягнаас">
 <!ENTITY  locbar.nothing.label          "Юуг ч санал болгохгүй">
 
-<!ENTITY  acceptCookies.label           "Accept cookies from sites">
-<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
+
+
+
+
 
 <!ENTITY  keepUntil.label               "Байлгах хугацаа:">
 <!ENTITY  keepUntil.accesskey           "й">
@@ -46,14 +43,12 @@
 <!ENTITY  showCookies.label             "Күүкиг харуул…">
 <!ENTITY  showCookies.accesskey         "а">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "Зорчсон түүхийг хадгална">
 <!ENTITY  historyHeader.dontremember.label "Зорчсон түүхийг хадгалахгүй">
 <!ENTITY  historyHeader.custom.label       "Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -72,17 +67,13 @@
 <!ENTITY  dontrememberActions.clearHistory.label "одоо байгаа бүх зорчсон түүхийг арилгаж">
 <!ENTITY  dontrememberActions.post.label         "болно.">
 
-<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
 
 <!ENTITY  rememberHistory2.label      "Үзсэн болон татаж авсан мэдээллийг санах">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
