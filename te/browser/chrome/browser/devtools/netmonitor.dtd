@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
+
+
+
+<!ENTITY netmonitorUI.emptyNotice2        "నెట్వర్కు క్రియాశీలత గురించి విశదీకృత సమాచారం చూడుటకు అభ్యర్ధన చేయండి పేజీ తిరిగిలోడు చేయండి.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -64,6 +68,8 @@
 <!ENTITY netmonitorUI.footer.filterAll    "అన్నీ">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
 
@@ -74,6 +80,8 @@
 <!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterXHR): This is the label displayed
   -  in the network details footer for the "XHR" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
@@ -88,6 +96,8 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "మాధ్యమం">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
