@@ -79,3 +79,16 @@
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Aktivera konstant loggning">
 <!ENTITY options.enablePersistentLogging.tooltip  "Om du aktiverar detta alternativ kommer webbkonsolen inte att rensa utdatan varje gång du går till en ny sida">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "JavaScript-profileraren">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Visa Geckos plattformsdata">
+<!ENTITY options.showPlatformData.tooltip  "Om du aktiverar denna inställning kommer JavaScript-profilerarens rapporter
+att inkludera plattformssymboler för Gecko">
