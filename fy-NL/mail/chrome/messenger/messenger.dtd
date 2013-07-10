@@ -481,7 +481,7 @@
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Resinte skiednis wiskje…">
-<!ENTITY clearRecentHistory.accesskey "g">
+<!ENTITY clearRecentHistory.accesskey "R">
 <!ENTITY accountManagerCmd.label "Accountynstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
