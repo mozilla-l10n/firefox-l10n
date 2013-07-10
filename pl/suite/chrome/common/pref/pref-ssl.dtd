@@ -8,10 +8,14 @@
 <!ENTITY SSLClientAuthMethod.caption "Wybór certyfikatu klienta">
 
 <!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl30.label "Włącz SSL 3.0">
-<!ENTITY enable.ssl30.accesskey "3">
-<!ENTITY enable.tls10.label "Włącz TLS 1.0">
-<!ENTITY enable.tls10.accesskey "T">
+<!ENTITY limit.description "Tutaj można wybrać jeden bądź więcej protokołów szyfrowania, które będą używane przy połączeniach szyfrowanych.">
+<!ENTITY limit.enable.label "Włącz:">
+<!ENTITY limit.ssl30.label "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey "3">
+<!ENTITY limit.tls10.label "TLS 1.0">
+<!ENTITY limit.tls10.accesskey "T">
+<!ENTITY limit.tls11.label "TLS 1.1">
+<!ENTITY limit.tls11.accesskey "1">
 
 <!ENTITY warn.description "&brandShortName; może informować o poziomie bezpieczeństwa oglądanych stron WWW. Ostrzeżenie z pytaniem o kontynuację zostanie wyświetlone przed:">
 <!ENTITY warn.enteringsecure "Wczytaniem strony, która używa szyfrowania">

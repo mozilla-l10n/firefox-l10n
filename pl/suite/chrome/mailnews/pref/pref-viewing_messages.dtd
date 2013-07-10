@@ -20,20 +20,18 @@
 <!ENTITY fontPlainText.accesskey "C">
 <!ENTITY displayQuoted.label "Ustawienia cytowanych wiadomości:">
 <!ENTITY wrapInMsg.label "Zawijaj tekst, aby mieścił się w oknie">
-<!ENTITY wrapInMsg.accesskey "w">
+<!ENTITY wrapInMsg.accesskey "m">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label "Wyświetlaj emotikonki">
 <!ENTITY convertEmoticons.accesskey "W">
 <!ENTITY generalMessageDisplay.caption "Ogólne">
 <!ENTITY autoMarkAsRead.label "Automatycznie oznaczaj wiadomości jako przeczytane">
 <!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "natychmiast po wyświetleniu">
-<!ENTITY markAsReadNoDelay.accesskey "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "po wyświetlaniu przez">
-<!ENTITY markAsReadDelay.accesskey "t">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label "Wyłącznie po wyświetleniu przez">
+<!ENTITY markAsReadAfter.accesskey "u">
 <!ENTITY secondsLabel.label "sekund">
 
 <!ENTITY openingMessages.label "Otwierając wiadomości wyświetl je w:">
