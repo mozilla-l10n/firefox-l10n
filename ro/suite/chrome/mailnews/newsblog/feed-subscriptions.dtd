@@ -1,5 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# evinteler <emil_vinteler2000@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# manuelciosici <manuelrciosici@gmail.com>
+# stas <stas@nerd.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Subscripții RSS">
+<!ENTITY feedSubscriptions.label "Feed Subscriptions">
 <!ENTITY subscriptionDesc.label "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
 <!ENTITY feedTitle.label "Denumire:">
 <!ENTITY location.label  "Locația:">
@@ -15,4 +34,4 @@
 <!ENTITY button.exportOPML.label "Preluare">
 <!ENTITY button.exportOPML.accesskey   "e">
 
-<!ENTITY cmd.close.commandKey             "c">
+<!ENTITY cmd.close.commandKey             "w">

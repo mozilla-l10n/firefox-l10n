@@ -1,3 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Nicu <kneekoo@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- unix -->
 <!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
@@ -9,11 +28,10 @@
 <!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "n">
 
-<!ENTITY redoCmd.label                  "Refacere">  
 <!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "R">
 
-<!ENTITY findTypeTextCmd.key            "VK_HELP">
+<!ENTITY findCmd.key2                   "VK_F19">
+<!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
 
 <!ENTITY accel.emacs_conflict           "accel,shift">
@@ -21,9 +39,9 @@
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label              "Ajutor conținut">
 <!ENTITY openHelpCmd.accesskey          "A">
-<!ENTITY openHelpCmd.key                "VK_F1">
+<!ENTITY openHelpCmd.key                "V">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl+P">
-<!ENTITY altKey.label                   "Alt+Y">
-<!ENTITY shiftKey.label                 "Zimțare">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Shift">

@@ -3,16 +3,22 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # mazilu59 <mazilu59@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Sincronizare Firefox">
@@ -21,13 +27,18 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Conectare la &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Adaugă un cont &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Împerechează un dispozitiv'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
+<!ENTITY sync.subtitle.header.label 'Introdu acest cod pe calculator'>
+<!ENTITY sync.subtitle.connectlocation.label 'Selectează „&sync.title.pair.label;” în secțiunea &syncBrand.shortName.label; din fereastra de opțiuni Firefox, varianta pentru calculator.'>
 <!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Arată-mi cum.'>
+<!ENTITY sync.link.advancedsetup.label 'Configurare avansată…'>
 <!ENTITY sync.link.nodevice.label 'Nu am dispozitivul cu mine…'>
 
 <!-- J-PAKE Waiting Screen -->
@@ -43,23 +54,26 @@
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Nu se poate seta &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nu se poate conecta la server. Doriți să încercați din nou?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nu se poate conecta la server. Vrei să încerci din nou?'>
 <!ENTITY sync.button.tryagain.label 'Încearcă din nou'>
 <!ENTITY sync.button.manual.label 'Setare manuală'>
 <!ENTITY sync.subtitle.nointernet.label 'Nu este disponibilă nicio conexiune la internet.'>
+<!ENTITY sync.subtitle.failaccount.label 'Crearea contului pe dispozitiv a eșuat.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configurare finalizată'>
-<!ENTITY sync.subtitle.success.label 'Datele vă sunt descărcate acum în fundal. Puteți accesa setările pentru a vă gestiona contul.'>
+<!ENTITY sync.subtitle.success.label1 'Datele îți sunt descărcate acum în fundal. Poți merge la Setări pentru a-ți gestiona contul sau să începi navigarea cu &brandShortName;.'>
 <!ENTITY sync.settings.label 'Setări'>
-<!ENTITY sync.subtitle.manage.label 'Contul dumneavoastră &syncBrand.fullName.label; e deja setat. Accesați setările pentru a-l gestiona.'>
+<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Vă rugăm încercați încă o dată.'>
+<!ENTITY sync.pair.tryagain.label 'Te rugăm să mai încerci.'>
+<!ENTITY sync.pair.connectlocation.label 'Pentru a-ți activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv și apoi „Am deja un cont.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opțiuni'>
-<!ENTITY sync.summary.pair.label 'Asociați alt dispozitiv cu contul dumneavoastră &syncBrand.shortName.label;'>
+<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Renunță'>
@@ -70,13 +84,29 @@
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Meniu semne de carte'>
+<!ENTITY bookmarks.folder.menu.label 'Meniul „Semne de carte”'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etichete'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bara pentru semne de carte'>
 <!ENTITY bookmarks.folder.unfiled.label 'Semne de carte nesortate'>
 <!ENTITY bookmarks.folder.desktop.label 'Semne de carte de pe desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Semne de carte de pe mobil'>
+<!ENTITY bookmarks.folder.readinglist.label 'Listă de citit'>
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'E suportat doar un cont &syncBrand.fullName.label;.'>
+
+<!-- Incorrect settings and changing credentials. -->
+<!ENTITY sync.invalidcreds.label 'Nume de cont sau parolă incorectă.'>
+<!ENTITY sync.invalidserver.label 'Please enter a valid server URL'>
+<!ENTITY sync.verifying.label 'Verifying…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+
+<!-- Send tab to device. -->
+<!ENTITY sync.title.send.tab.label 'Trimite fila la dispozitive'>
+<!ENTITY sync.button.send.label 'Send'>
+<!ENTITY sync.button.set.up.sync.label 'Setează &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Setare &syncBrand.shortName.label; pentru trimitere de file'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Setează &syncBrand.fullName.label; pe dispozitivul tău pentru a trimite file către alte dispozitive.'>
+<!ENTITY sync.text.tab.sent.label 'Fila a fost trimisă!'>
+

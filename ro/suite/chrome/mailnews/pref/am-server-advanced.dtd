@@ -1,7 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY serverAdvanced.label "Setări avansate pentru cont">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "Director pe serverul IMAP:">
-<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY serverDirectory.label "IMAP server directory:">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Afișează doar dosarele la care sunt abonat(ă)">
 <!ENTITY usingSubscription.accesskey "A">
 <!ENTITY dualUseFolders.label "Serverul suportă dosare care conțin subdosare și mesaje">
@@ -11,7 +29,7 @@
 <!ENTITY maximumConnectionsNumber.label "Număr maxim de conexiuni memorate temporar">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Următoarele preferințe specifică namespace-urile de pe serverul IMAP">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Namespace personal:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Public (partajat):">

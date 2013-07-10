@@ -6,16 +6,26 @@
 # raulmalea <raul.malea@gmail.com>
 # x10 <x10@mail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# turcan <nicturcan@gmail.com>
 # BuBBaX <mikebubbax@yahoo.com>
+# nicubunu <nicubunu@gmail.com>
 # mazilu59 <mazilu59@gmail.com>
+# vas_galati <vas_galati@yahoo.com>
+# Iosif Fettich <ifettich@netsoft.ro>
+# strainu <narro@strainu.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -37,15 +47,15 @@
 <!ENTITY  closeOtherTabs.label               "Închide celelalte file">
 <!ENTITY  closeOtherTabs.accesskey           "Î">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Fixează sus ca o filă de aplicație">
-<!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Anulează fixarea">
-<!ENTITY  unpinAppTab.accesskey              "A">
+<!ENTITY  pinTab.label                       "Fixare filă">
+<!ENTITY  pinTab.accesskey                   "f">
+<!ENTITY  unpinTab.label                     "Anulează fixarea">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Mută în grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
@@ -95,6 +105,12 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Informații despre pagină">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Vedeți pe tot ecranul">
+<!ENTITY enterFullScreenCmd.accesskey "e">
+<!ENTITY exitFullScreenCmd.label "Ieșire din modul pe tot ecranul">
+<!ENTITY exitFullScreenCmd.accesskey "e">
 <!ENTITY fullScreenCmd.label "Pe tot ecranul">
 <!ENTITY fullScreenCmd.accesskey "n">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -108,7 +124,13 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Revenire din modul „ecran complet”">
 <!ENTITY fullScreenExit.accesskey "R">
-<!ENTITY domFullScreenWarning.label "Apasă ESC pentru a ieși din vederea pe tot ecranul">
+<!ENTITY fullscreenAllowButton.label "Permite">
+<!ENTITY fullscreenExitButton.label "Interzice">
+<!ENTITY fullscreenApproval.value "Permiteți vederea pe tot ecranul?">
+
+<!ENTITY fullscreenExitHint.value "Apăsați ESC oricând pentru a ieși din vederea pe tot ecranul.">
+<!ENTITY leaveDOMFullScreen.label "Revenire la ecran normal">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "Închide fereastra">
 <!ENTITY closeWindow.accesskey "d">
@@ -117,6 +139,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "S">
 <!ENTITY bookmarkThisPageCmd.label "Pune un semn la această pagină">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY sharePageCmd.commandkey "l">
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
@@ -162,7 +185,6 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label          "Semne de carte">
 <!ENTITY bookmarksButton.tooltip        "Afișează semnele dumneavoastră de carte">
-<!ENTITY bookmarksButton.accesskey  "S">
 <!ENTITY bookmarksCmd.commandkey "r">
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
@@ -179,7 +201,6 @@ can reach it easily. -->
 
 <!ENTITY historyButton.label            "Istoric">
 <!ENTITY historyButton.tooltip          "Afișează paginile pe care le-ați vizitat recent">
-<!ENTITY historySidebarCmd.accesskey    "I">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Unelte">
@@ -201,20 +222,21 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsConnect.label        "Conectare…">
+<!ENTITY devtoolsConnect.accesskey    "c">
+
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Consolă web">
-<!ENTITY webConsoleCmd.accesskey      "w">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY inspectMenu.label            "Inspectează">
-<!ENTITY inspectMenu.accesskey        "t">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY remoteWebConsoleCmd.label    "Consolă web la distanță">
 
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "I">
+
+<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.accesskey "R">
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -231,21 +253,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Inspectează">
-<!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "Închide inspectorul">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
-<!ENTITY inspectStyleButton.label     "Stil">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
+<!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
+<!ENTITY devToolbarMenu.accesskey          "v">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Alternează uneltele">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Editor de stil">
-<!ENTITY styleeditor.accesskey        "s">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
+<!ENTITY devToolbarToolsButton.tooltip     "Alternează uneltele de dezvoltare">
+<!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -255,6 +272,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
+<!ENTITY newPrivateWindow.accesskey "v">
 
 <!ENTITY editMenu.label         "Editare"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -285,13 +304,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Curăță istoricul recent…">
-<!ENTITY clearRecentHistory.accesskey           "C">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Începe navigarea fără urme">
-<!ENTITY privateBrowsingCmd.start.accesskey     "u">
-<!ENTITY privateBrowsingCmd.stop.label          "Oprește navigarea fără urme">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "u">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vizualizare"> 
@@ -330,7 +343,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Du-te la saitul web">
+<!ENTITY urlbar.placeholder2          "Căutați sau introduceți adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
 
@@ -364,6 +377,8 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Deschide legătura în fereastră nouă">
 <!ENTITY openLinkCmd.accesskey        "D">
+<!ENTITY openLinkInPrivateWindowCmd.label "Deschide legătura într-o fereastră privată">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Deschide legătura">
 <!ENTITY openLinkCmdInCurrent.accesskey "D">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
@@ -406,8 +421,8 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Pune semn de carte la acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY sendPageCmd.label            "Trimite legătura...">
-<!ENTITY sendPageCmd.accesskey        "l">
+<!ENTITY emailPageCmd.label           "Email cu legătura…">
+<!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Salvează pagina ca...">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -419,20 +434,22 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Salvează legătura ca...">
 <!ENTITY saveLinkCmd.accesskey        "r">
-<!ENTITY sendLinkCmd.label            "Trimite legătura..."> 
-<!ENTITY sendLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Salvează imaginea ca...">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Trimite imaginea...">
-<!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Trimite clipul…">
-<!ENTITY sendVideoCmd.accesskey       "T">
-<!ENTITY sendAudioCmd.label           "Trimite fișierul audio…">
-<!ENTITY sendAudioCmd.accesskey       "T">
+<!ENTITY emailImageCmd.label          "Email cu imaginea…">
+<!ENTITY emailImageCmd.accesskey      "i">
+<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.accesskey      "v">
+<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Activați plugin">
+<!ENTITY playPluginCmd.accesskey      "g">
+<!ENTITY hidePluginCmd.label          "Ascunde acest modul">
+<!ENTITY hidePluginCmd.accesskey      "l">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiază adresa imaginii">
@@ -592,15 +609,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "Mai multe informații despre acest sait...">
 
-<!ENTITY downloadMonitor2.tooltip "Clic pentru a deschide fereastra de descărcări">
-
-<!ENTITY allTabs.filter.emptyText "Caută file">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Filele navigatorului">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "File de pe alte calculatoare">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "File de pe alte dispozitive">
 
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
@@ -612,4 +626,34 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Închide bara de suplimente">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY socialToolbar.title        "Bară butoane rețele sociale">
+<!ENTITY social.notLoggedIn.label   "Nu ești autenficat">
+
+<!ENTITY social.ok.label       "Bine">
+<!ENTITY social.ok.accesskey   "O">
+
+<!ENTITY social.toggleSidebar.label "Arată bara laterală">
+<!ENTITY social.toggleSidebar.accesskey "b">
+
+<!ENTITY social.toggleNotifications.label "Arată notificările pe ecran">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+<!ENTITY social.activated.undobutton.label "Anulează">
+<!ENTITY social.activated.undobutton.accesskey "U">
+
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Adu discuțiile în față">
+<!ENTITY social.chatBar.accesskey "c">
+
+<!ENTITY getUserMedia.selectCamera.label "Cameră de folosit:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Microfon de folosit:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
+<!ENTITY webrtcIndicatorButton.label "Acces la cameră / microfon">
+<!ENTITY webrtcIndicatorButton.tooltip "Afișează saiturile cărora le permiteți să vă folosească camera sau microfonul">
+
+<!ENTITY mixedContentBlocked.helplink "Află mai multe">
+<!ENTITY mixedContentBlocked.moreinfo "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 

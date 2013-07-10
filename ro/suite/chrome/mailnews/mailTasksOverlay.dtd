@@ -1,8 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
-<!ENTITY messengerCmd.label					"Email și grupuri de discuții">
+<!ENTITY messengerCmd.label					"Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey				"m">
-<!ENTITY messengerCmd.commandkey			"F2">
+<!ENTITY messengerCmd.commandkey			"2">
 <!ENTITY addressBookCmd.label				"Contacte">  
 <!ENTITY addressBookCmd.accesskey			"a">
 <!ENTITY addressBookCmd.commandkey			"5">

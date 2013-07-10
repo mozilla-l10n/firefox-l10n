@@ -3,14 +3,23 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "General">
@@ -38,12 +47,29 @@
 <!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "V">
-<!ENTITY checkNow.label                  "Verifică acum">
-<!ENTITY checkNow.accesskey              "m">
-<!ENTITY submitCrashes.label             "Raportează defecțiunile">
-<!ENTITY submitCrashes.accesskey         "R">
-<!ENTITY submitTelemetry.label           "Trimite datele despre performanță">
-<!ENTITY submitTelemetry.accesskey       "p">
+<!ENTITY setDefault.label                "Fă &brandShortName; navigatorul meu principal">
+<!ENTITY setDefault.accesskey            "F">
+<!ENTITY isDefault.label                 "&brandShortName; e acum navigatorul principal">
+
+<!ENTITY dataChoicesTab.label            "Opțiuni de date">
+
+<!ENTITY healthReportSection.label       "&brandShortName; Raport de stare">
+<!ENTITY healthReportDesc.label          "Ajută-ne să înțelegem performanța navigatorului și împărtășeste datele despre stabilitatea navigatorului dumneavoastră cu &vendorShortName;">
+<!ENTITY enableHealthReport.label        "Activează raportul de stare al &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "s">
+<!ENTITY healthReportLearnMore.label     "Află mai multe">
+
+<!ENTITY telemetrySection.label          "Telemetrie">
+<!ENTITY telemetryDesc.label             "Împărtășește datele privind performanța, utilizarea, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY enableTelemetry.label           "Activează telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Află mai multe">
+
+<!ENTITY crashReporterSection.label      "Raportor de probleme">
+<!ENTITY crashReporterDesc.label         "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul dumneavoastră mai stabil și sigur">
+<!ENTITY enableCrashReporter.label       "Activează raportarea defectelor">
+<!ENTITY enableCrashReporter.accesskey   "d">
+<!ENTITY crashReporterLearnMore.label    "Află mai multe">
 
 <!ENTITY networkTab.label                "Rețea">
 

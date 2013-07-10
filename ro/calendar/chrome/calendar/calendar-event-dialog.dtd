@@ -1,86 +1,88 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
-   -   Michael Buettner <michael.buettner@sun.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Stefan Sitter <ssitter@gmail.com>
-   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
-   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
-   -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# Octi <octavianiolu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY event.title.label                  "Editează elementul" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Păstrează durata când se schimbă data de sfârșit">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "De la" >
 <!ENTITY newevent.to.label                  "Până la" >
 <!ENTITY newevent.attendees.notify.label    "Anunță participanții">
 
-<!ENTITY newevent.status.label              "Stare" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Nespecificată" >
-<!ENTITY newevent.status.cancelled.label    "Anulată" >
-<!ENTITY newevent.status.tentative.label    "Programată" >
-<!ENTITY newevent.status.confirmed.label    "Confirmată" >
-<!ENTITY newevent.status.needsaction.label  "Necesită acțiune" >
-<!ENTITY newevent.status.inprogress.label   "În desfășurare" >
-<!ENTITY newevent.status.completed.label    "Îndeplinită în" >
+<!ENTITY newevent.status.label                    "Stare" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "Nespecificat" >
+<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.todoStatus.none.label           "Nespecificat" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Anulat" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Anulat" >
+<!ENTITY newevent.status.tentative.label          "Programată" >
+<!ENTITY newevent.status.tentative.accesskey      "P" >
+<!ENTITY newevent.status.confirmed.label          "Confirmată" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "Necesită acțiune" >
+<!ENTITY newevent.status.inprogress.label         "În desfășurare" >
+<!ENTITY newevent.status.completed.label          "Îndeplinită în" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; completată">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "Fișier">
-<!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "Creează">
-<!ENTITY  event.menu.file.new.accesskey                   "C">
-<!ENTITY  event.menu.file.new.event.label                 "Eveniment">
-<!ENTITY  event.menu.file.new.event.accesskey             "E">
-<!ENTITY  event.menu.file.new.message.label               "Mesaj">
-<!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "Intrare în agenda de contacte">
-<!ENTITY  event.menu.file.new.address.accesskey           "c">
-<!ENTITY  event.menu.file.close.label                     "Închide">
-<!ENTITY  event.menu.file.close.accesskey                 "c">
-<!ENTITY  event.menu.file.save.label                      "Salvează">
-<!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.file.page.setup.label                "Aranjare în pagină">
-<!ENTITY  event.menu.file.page.setup.accesskey            "A">
-<!ENTITY  event.menu.file.print.label                     "Tipărește">
-<!ENTITY  event.menu.file.print.accesskey                 "p">
+<!ENTITY  event.menu.item.new.label                       "Creează">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Eveniment">
+<!ENTITY  event.menu.item.new.event.accesskey             "E">
+<!ENTITY  event.menu.item.new.task.label                  "Sarcină">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "Mesaj">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Contact în agenda de contacte">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.close.label                     "Închide">
+<!ENTITY  event.menu.item.close.accesskey                 "C">
+<!ENTITY  event.menu.item.save.label                      "Salvează">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.saveandclose.label              "Salvează și închide">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.delete.label                    "Șterge…">
+<!ENTITY  event.menu.item.delete.accesskey                "g">
+<!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
+<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.print.label                     "Tipărește">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -120,8 +122,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Adaugă legătură…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone.label                   "Fus orar">
-<!ENTITY  event.menu.options.timezone.accesskey               "F">
+<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nespecificată">
@@ -147,15 +149,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Liber">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.help.label                                 "Ajutor">
-<!ENTITY event.help.accesskey                             "A">
-<!ENTITY event.help.release.notes.label                   "Note asupra ediției">
-<!ENTITY event.help.release.notes.accesskey               "r">
-<!ENTITY event.help.help.label                            "Manualul pentru &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "M">
-<!ENTITY event.help.about.label                           "Despre &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "D">
-
 <!ENTITY event.invite.attendees.label                     "Invită participanți…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
@@ -165,6 +158,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvează și închide">
+<!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
 <!ENTITY  event.toolbar.spellcheck.label                  "Verifică ortografia">
 <!ENTITY  event.toolbar.privacy.label                     "Intimitate">
@@ -213,15 +207,13 @@
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Fără memento " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minute înainte" >
 <!ENTITY event.reminder.5minutes.before.label             "cu 5 minute înainte" >
-<!ENTITY event.reminder.10minutes.before.label            "cu 10 minute înainte" >
 <!ENTITY event.reminder.15minutes.before.label            "cu 15 minute înainte" >
 <!ENTITY event.reminder.30minutes.before.label            "cu 30 de minute înainte" >
-<!ENTITY event.reminder.45minutes.before.label            "cu 45 de minute înainte" >
 <!ENTITY event.reminder.1hour.before.label                "cu o oră înainte" >
 <!ENTITY event.reminder.2hours.before.label               "cu 2 ore înainte" >
-<!ENTITY event.reminder.5hours.before.label               "cu 5 ore înainte" >
-<!ENTITY event.reminder.15hours.before.label              "cu 15 ore înainte" >
+<!ENTITY event.reminder.12hours.before.label              "12 ore înainte" >
 <!ENTITY event.reminder.1day.before.label                 "cu o zi înainte" >
 <!ENTITY event.reminder.2days.before.label                "cu 2 zile înainte" >
 <!ENTITY event.reminder.1week.before.label                "cu o săptămână înainte" >
@@ -342,20 +334,27 @@
 <!ENTITY event.freebusy.next.slot               "Intervalul următor " >
 <!ENTITY event.freebusy.previous.slot           " Intervalul precedent" >
 <!ENTITY event.freebusy.zoom                    "Scalare:">
-<!ENTITY event.freebusy.plus                    "Ora următoare" >
-<!ENTITY event.freebusy.minus                   "Ora precedentă" >
 <!ENTITY event.freebusy.legend.free             "Liber" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativă" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Plecat de la birou" >
 <!ENTITY event.freebusy.legend.unknown          "Fără informații" >
+<!ENTITY event.attendee.role.required           "Participant necesar">
+<!ENTITY event.attendee.role.optional           "Participant opțional">
+<!ENTITY event.attendee.role.chair              "Președinte">
+<!ENTITY event.attendee.role.nonparticipant     "Nu participă">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
+<!ENTITY event.timezone.custom.label     "More Timezones…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Titlu:">
+<!ENTITY read.only.event.start.label     "Data de început:">
+<!ENTITY read.only.task.start.label      "Data de început:">
+<!ENTITY read.only.event.end.label       "Dată de sfârșit:">
+<!ENTITY read.only.task.due.label        "Dată de sfârșit:">
 <!ENTITY read.only.repeat.label          "Repetă:">
 <!ENTITY read.only.location.label        "Loc:">
 <!ENTITY read.only.category.label        "Categorie:">
@@ -370,3 +369,4 @@
 <!ENTITY read.only.description.label     "Descriere">
 <!ENTITY read.only.documents.label       "Documente">
 <!ENTITY read.only.link.label            "Legătura către asocieri">
+

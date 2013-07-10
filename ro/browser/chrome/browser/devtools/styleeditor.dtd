@@ -7,9 +7,14 @@
 <!--
 # Reviewer(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
@@ -33,17 +38,6 @@
 <!ENTITY importButton.tooltip       "Importă și adaugă o foaie de stil existentă documentului">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">
-
-<!ENTITY searchInput.tooltip        "Filtrează foile de stil după nume">
-<!ENTITY searchInput.placeholder    "Găsește foaia de stil">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nu s-a găsit nicio foaie de stil.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Curăță">
 
 <!ENTITY visibilityToggle.tooltip   "Alternează vizibilitatea foii de stil">
 <!ENTITY visibilityToggle.accesskey "V">
@@ -72,4 +66,7 @@
 <!ENTITY noStyleSheet-tip-action.label "adăugați o foaie de stil nouă">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
 

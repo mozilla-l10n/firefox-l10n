@@ -10,6 +10,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Codare caractere">
 <!ENTITY charsetMenu.accesskey         "C">
@@ -27,8 +31,6 @@
 <!ENTITY charsetMenuMore4.accesskey    "s">
 <!ENTITY charsetMenuMore5.label        "Orientul mijlociu">
 <!ENTITY charsetMenuMore5.accesskey    "m">
-<!ENTITY charsetMenuUnicode.label      "Unicode">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Personalizează lista...">
 <!ENTITY charsetCustomize.accesskey    "P">
 

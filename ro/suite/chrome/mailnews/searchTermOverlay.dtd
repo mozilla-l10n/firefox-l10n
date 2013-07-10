@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# alexef <alex@eftimie.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY matchAll.label     "Potrivește toate condițiile următoare">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Potrivește oricare dintre condițiile următoare">
@@ -12,4 +29,4 @@
 <!ENTITY searchTermListAttributesFlexValue "5">
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
-<!ENTITY searchTermListButtonsFlexValue "F2">
+<!ENTITY searchTermListButtonsFlexValue "2">

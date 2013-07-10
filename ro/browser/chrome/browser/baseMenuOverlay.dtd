@@ -10,8 +10,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizează">
 <!ENTITY bringAllToFront.label    "Adu toate în față">
@@ -31,6 +36,9 @@
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey   "R">
+
+<!ENTITY healthReport.label       "&brandShortName; Raport de stare">
+<!ENTITY healthReport.accesskey   "r">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">

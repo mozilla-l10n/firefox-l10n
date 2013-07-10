@@ -1,8 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
 # janimo <jani@ubuntu.com>
+# mihai <mihai.stoicoi@gmail.com>
 #
 -->
 <!--
@@ -34,11 +39,11 @@
 <!ENTITY  socks.label                   "Gazdă SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Port:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Port:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">

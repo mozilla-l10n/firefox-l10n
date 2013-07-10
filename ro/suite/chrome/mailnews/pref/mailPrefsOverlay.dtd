@@ -1,6 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# stas <stas@nerd.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbJsCheckMailNews.label         "Email și grupuri de discuții">
-<!ENTITY enbJsCheckMailNews.accesskey     "m">
 <!ENTITY enbPluginCheckMailNews.label     "Email și grupuri de discuții">
 <!ENTITY enbPluginCheckMailNews.accesskey "a">
 
@@ -17,7 +34,7 @@
 <!ENTITY composingMessages.label          "Redactare">
 <!ENTITY format.label                     "Format de trimitere">
 <!ENTITY return.label                     "Confirmări de primire">
-<!ENTITY junk.label                       "Spam">
+<!ENTITY junk.label                       "Junk Mail">
 <!ENTITY tags.label                       "Tag-uri">
 <!ENTITY characterEncoding.label          "Codare caractere">
-<!ENTITY offline.label                    "Offline &amp; Disk Space">
+<!ENTITY networkStorage.label             "Network &amp; Storage">

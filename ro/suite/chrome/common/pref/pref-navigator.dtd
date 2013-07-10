@@ -1,9 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY pref.navigator.title           "Navigator">
 
 <!ENTITY navRadio.label                 "Afișare pe">
 <!ENTITY navRadio.accesskey             "A">
 <!ENTITY navStartPageMenu.label         "Pornirea Browser-ului">
-<!ENTITY newWinPageMenu.label           "într-o fereastră nouă">
+<!ENTITY newWinPageMenu.label           "Fereastră nouă">
 <!ENTITY newTabPageMenu.label           "Filă nouă">
 
 <!ENTITY blankPageRadio.label           "Pagină goală">
@@ -25,14 +43,6 @@
 <!ENTITY browseFile.accesskey           "A">
 <!ENTITY useDefault.label               "Restaurează">
 <!ENTITY useDefault.accesskey           "R">
-
-<!ENTITY toolbarIntro.label             "Selectați butoanele care vreți să le vedeți pe bara laterală:">
-
-<!ENTITY navToolbarIntro.label          "Bară de navigare">
-<!ENTITY goButton.label                 "OK">
-<!ENTITY goButton.accesskey             "O">
-<!ENTITY searchButton.label             "Cautare">
-<!ENTITY searchButton.accesskey         "C">
 
 <!ENTITY defaultBrowserGroup.label      "Navigator implicit">
 <!ENTITY defaultBrowserButton.label     "Setați Browserul Implicit">

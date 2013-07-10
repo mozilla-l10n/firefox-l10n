@@ -2,7 +2,9 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -11,6 +13,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -42,6 +48,12 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.label         "Deschide fișiere recente">
+<!ENTITY openRecentMenu.accesskey     "r">
+
+<!ENTITY revertCmd.label              "Revert…">
+<!ENTITY revertCmd.accesskey          "t">
+
 <!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
@@ -55,30 +67,6 @@
 
 <!ENTITY editMenu.label               "Editare">
 <!ENTITY editMenu.accesskey           "E">
-
-<!ENTITY undoCmd.label                "Anulează">
-<!ENTITY undoCmd.key                  "z">
-<!ENTITY undoCmd.accesskey            "u">
-
-<!ENTITY redoCmd.label                "Refă">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Taie">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "Copiază">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "Lipește">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "Selectează tot">
-<!ENTITY selectAllCmd.key             "a">
-<!ENTITY selectAllCmd.accesskey       "a">
 
 <!ENTITY run.label                    "Rulează">
 <!ENTITY run.accesskey                "R">
@@ -114,11 +102,27 @@
 <!ENTITY browserContext.label         "Navigator">
 <!ENTITY browserContext.accesskey     "v">
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Ajutor">
+<!ENTITY helpMenu.accesskey           "j">
+<!ENTITY helpMenuWin.label            "Ajutor">
+<!ENTITY helpMenuWin.accesskey        "j">
+
+<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext2.label          "Resetează variabilele">
 <!ENTITY resetContext2.accesskey      "t">
+
+<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Execută">
 <!ENTITY executeMenu.accesskey        "x">
@@ -128,10 +132,4 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
-
-<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
-  -  the browser WebConsole, the key should be identical to the property of
-  -  the same name in browser.dtd.
-  -->
-<!ENTITY webConsoleCmd.commandkey     "k">
 

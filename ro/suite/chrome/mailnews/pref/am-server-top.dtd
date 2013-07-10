@@ -1,3 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# toffee <daniel@toffee.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY securitySettings.label "Setări de securitate">
@@ -24,8 +44,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dacă e disponibil">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Folosește autentificare securizată">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "P">
 <!ENTITY headersOnly.label "Descarcă doar antetele">
@@ -38,7 +58,7 @@
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Numele dumneavoastră de login">
-<!ENTITY deleteMessagePrefix.label "&Când șterg un mesaj:">
+<!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marchează-l ca șters">

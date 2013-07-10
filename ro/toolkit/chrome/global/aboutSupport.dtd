@@ -3,14 +3,20 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Petru D <dimitriupetru@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Informații de depanare">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -25,28 +31,50 @@
 <!ENTITY aboutSupport.appBasicsTitle "Chestiuni de bază despre aplicație">
 <!ENTITY aboutSupport.appBasicsName "Nume">
 <!ENTITY aboutSupport.appBasicsVersion "Versiune">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorul de profile">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosar de profil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Module activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Rapoarte de defecte">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
-<!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
-
+<!ENTITY aboutSupport.showDir.label "Deschide directorul">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Arată în Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Arată dosarul">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferințe importante modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nume">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoare">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Preferințe user.js">
+<!ENTITY aboutSupport.userJSDescription "Dosarul profilului conține un <a id='prefs-user-js-link'>fișier user.js</ a>, care include preferințe ce nu au fost create de &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafică">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
+
+<!ENTITY aboutSupport.a11yTitle "Accesibilitate">
+<!ENTITY aboutSupport.a11yActivated "Activat">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiuni de biblioteci">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copiază tot în memoria temporară">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiază textul în memoria temporară">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele raw în memoria temporară">
 

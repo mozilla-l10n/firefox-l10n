@@ -1,3 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Setările contului">
@@ -11,10 +28,15 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Adresă pentru răspuns:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "Organizație:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Atașează următoarea semnătură:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Use HTML">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Attach the signature from a file instead:">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "Alege…">
 <!ENTITY choose.accesskey "A">
 <!ENTITY editVCard.label "Editează fișă…">

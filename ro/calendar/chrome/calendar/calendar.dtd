@@ -1,55 +1,26 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s): Garth Smedley <garths@oeone.com>
-   -                 Mike Potter <mikep@oeone.com>
-   -                 Chris Charabaruk <coldacid@meldstar.com>
-   -                 ArentJan Banck <ajbanck@planet.nl>
-   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
-   -                 Matthew Willis <mattwillis@gmail.com>
-   -                 Simon Paquet <bugzilla@babylonsounds.com>
-   -                 Stefan Sitter <ssitter@gmail.com>
-   -                 Philipp Kewisch <mozilla@kewis.ch>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# rs <struct_bylighting@yahoo.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# vas_galati <vas_galati@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- General -->
 <!ENTITY calendar.calendar.label     "Calendar">
 <!ENTITY calendar.calendar.accesskey "C">
-
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
 
 <!ENTITY calendar.newevent.button.tooltip         "Creează un eveniment nou" >
 <!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
@@ -65,6 +36,7 @@
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
 <!ENTITY calendar.events.filter.future.label "Evenimente în viitor">
 <!ENTITY calendar.events.filter.current.label "Ziua selectată">
+<!ENTITY calendar.events.filter.currentview.label "Events in Current View">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
@@ -85,20 +57,33 @@
 <!ENTITY calendar.unifinder.tree.duration.label      "Termen la">
 <!ENTITY calendar.unifinder.close.tooltip            "Închide căutarea și lista de evenimente">
 
-<!ENTITY calendar.today.button.tooltip            "Mergi la ziua de azi" >
-<!ENTITY calendar.todaypane.button.tooltip        "Arată panoul cu ziua de azi" >
+<!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
+<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul cu ziua de azi" >
 
 <!ENTITY calendar.day.button.tooltip            "Comută la vizualizarea zilei" >
 <!ENTITY calendar.week.button.tooltip           "Comută la vizualizarea săptămânii" >
 <!ENTITY calendar.month.button.tooltip          "Comută la vizualizarea lunii" >
 <!ENTITY calendar.multiweek.button.tooltip      "Comută la vizualizarea săptămânilor" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Ziua următoare" >
-<!ENTITY calendar.prevday.button.tooltip        "Ziua trecută" >
-<!ENTITY calendar.nextweek.button.tooltip       "Săptămâna viitoare" >
-<!ENTITY calendar.prevweek.button.tooltip       "Săptămâna trecută" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Luna viitoare" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Luna trecută" >
+<!ENTITY calendar.nextday.label                 "Ziua următoare" >
+<!ENTITY calendar.prevday.label                 "Ziua trecută" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "Săptămâna viitoare" >
+<!ENTITY calendar.prevweek.label                "Săptămâna trecută" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Luna următoare" >
+<!ENTITY calendar.prevmonth.label               "Luna trecută" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
+
+<!ENTITY calendar.navigation.nextday.tooltip    "Cu o zi înainte" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Cu o zi înapoi" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Cu o săptămână înainte" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Cu o săptămână înapoi" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Cu o lună înainte" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Cu o lună înapoi" >
 
 <!ENTITY calendar.newevent.button.label         "Eveniment nou" >
 <!ENTITY calendar.newtask.button.label          "Sarcină nouă" >
@@ -140,6 +125,16 @@
 <!ENTITY calendar.task.filter.open.label            "Sarcini neterminate">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Sarcini curente">
+<!ENTITY calendar.task.filter.current.accesskey     "S">
+<!ENTITY calendar.task.filter.repeating.label       "Sarcini repetitive">
+<!ENTITY calendar.task.filter.repeating.accesskey   "R">
+
 <!ENTITY calendar.task-details.title.label           "titlu">
 <!ENTITY calendar.task-details.organizer.label       "de la">
 <!ENTITY calendar.task-details.priority.label        "prioritatea">
@@ -149,10 +144,17 @@
 <!ENTITY calendar.task-details.status.label          "stare">
 <!ENTITY calendar.task-details.category.label        "categorie">
 <!ENTITY calendar.task-details.repeat.label          "repetă">
+<!ENTITY calendar.task-details.attachments.label     "anexe">
+<!ENTITY calendar.task-details.start.label           "data de început">
+<!ENTITY calendar.task-details.due.label             "data de sfârșit">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorisiți sarcinile">
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tasks… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: gata">
@@ -166,40 +168,30 @@
 <!ENTITY calendar.context.newevent.accesskey          "n">
 <!ENTITY calendar.context.newtodo.label               "Sarcină nouă…">
 <!ENTITY calendar.context.newtodo.accesskey           "S">
-<!ENTITY calendar.context.modifytask.label            "Editează sarcina…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Editează elementul">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Șterge sarcina de lucru">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteitem.label            "Șterge elementul">
-<!ENTITY calendar.context.deleteitem.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label           "Șterge evenimentul">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
-<!ENTITY calendar.context.deletethisevent.label       "Acest eveniment">
-<!ENTITY calendar.context.deletethisevent.accesskey   "t">
-<!ENTITY calendar.context.deletecompleteseries.label  "Serii complete">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "S">
-<!ENTITY calendar.context.deletefutureevents.label     "Toate evenimentele viitoare">
-<!ENTITY calendar.context.deletefutureevents.accesskey "T">
-<!ENTITY calendar.context.deletefuturetasks.label     "Toate sarcinile viitoare">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "T">
 <!ENTITY calendar.context.cutevent.label              "Taie">
 <!ENTITY calendar.context.cutevent.accesskey          "T">
 <!ENTITY calendar.context.copyevent.label             "Copiază">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Lipește">
 <!ENTITY calendar.context.pasteevent.accesskey        "p">
-<!ENTITY calendar.context.selectall.label             "Selectează tot">
-<!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Panoul zilei de azi" >
 <!ENTITY calendar.context.button.accesskey            "P" >
+<!ENTITY calendar.context.attendance.menu.label       "Participare" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "P" >
+<!ENTITY calendar.context.attendance.occurrence.label "Această apariție" >
+<!ENTITY calendar.context.attendance.all.label        "Toate aparițiile" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progres">
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritate">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Postpone Task">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -226,6 +218,22 @@
 <!ENTITY priority.level.high                "Mare">
 <!ENTITY priority.level.high.accesskey      "M">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Day">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Week">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
+
+<!ENTITY calendar.copylink.label       "Copy Link Location">
+<!ENTITY calendar.copylink.accesskey   "C">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Șterge">
+<!ENTITY calendar.taskview.delete.accesskey "Ș">
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Calendar nou…">
 <!ENTITY calendar.context.newserver.accesskey          "n">
@@ -233,8 +241,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Șterge calendarul">
 <!ENTITY calendar.context.deleteserver.accesskey       "d">
-<!ENTITY calendar.context.reloadserver.label           "Reîncarcă calendarele aflate la distanță">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publică calendarul…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Exportă calendarul…">
@@ -281,6 +289,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 ore" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 zi" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Anulează alarma">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Editează calendarul">
 <!ENTITY calendar.server.dialog.name.label          "Nume calendar:">
@@ -292,10 +306,12 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Loc:">
+<!ENTITY calendarproperties.refreshInterval.label          "Reîmprospătare calendar:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
 <!ENTITY calendarproperties.name.label                     "Nume:">
 <!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
 <!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
-<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTAL, necesită repornirea)">
+<!ENTITY calendarproperties.cache2.label                   "Cache">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
@@ -317,15 +333,22 @@
 <!ENTITY calendar.print.title.label "Titlu:">
 <!ENTITY calendar.print.layout.label "Aranjare în pagină:">
 <!ENTITY calendar.print.range.label "Ce se tipărește">
-<!ENTITY calendar.print.currentview.label "Evenimentele din vizualizarea curentă">
+<!ENTITY calendar.print.currentView2.label "Vedere curentă">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Sarcini/evenimente selectate">
+<!ENTITY calendar.print.tasks.label "Sarcini">
+<!ENTITY calendar.print.events.label "Evenimente">
 <!ENTITY calendar.print.selected.label "Evenimente selectate">
 <!ENTITY calendar.print.custom.label "Perioada stabilită de utilizator:">
 <!ENTITY calendar.print.from.label "De la:">
 <!ENTITY calendar.print.to.label "Până la:">
 <!ENTITY calendar.print.settingsGroup.label "Setări de tipărire">
+<!ENTITY calendar.print.optionsGroup.label "Opțiuni">
+<!ENTITY calendar.print.taskswithnoduedate.label "Sarcini fără termen limită">
+<!ENTITY calendar.print.completedtasks.label "Sarcini îndeplinite">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalii...">
 <!ENTITY calendar.error.code "Cod de eroare:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">
+

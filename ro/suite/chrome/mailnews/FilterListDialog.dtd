@@ -1,4 +1,20 @@
-<!ENTITY window.title "Filtre mesaje">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY filterListDialog.title "Message Filters">
 <!ENTITY nameColumn.label "Nume filtru">
 <!ENTITY activeColumn.label "Activează">
 <!ENTITY newButton.label "Nou…">
@@ -24,5 +40,3 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "alege acest dosar">
 <!ENTITY choosethisnewsserver.label "alege acest server de news">
-<!ENTITY helpButton.label "Ajutor">
-<!ENTITY helpButton.accesskey "A">

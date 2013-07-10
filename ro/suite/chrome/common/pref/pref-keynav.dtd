@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY pref.keyNav.title "Tastaturi de navigare">
 <!ENTITY tabNavigationBehavior.label "Tab Key Navigation">
 <!ENTITY tabNavigationLinks.label "Legături">
@@ -6,16 +22,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Note: text boxes and scrollable regions are always part of the tabbing order.">
 <!ENTITY tabNavigationDesc.label "When Tab or Shift+Tab is pressed, move between:">
-<!ENTITY findAsYouTypeBehavior.label "Find As You Type">
-<!ENTITY findAsYouTypeTip.label "Tip: To manually start Find As You Type, type / to find text or ' to find links, followed by the text you want to find.">
-<!ENTITY findAsYouTypeTimeout.label "Clear the current search after a few seconds of inactivity">
-<!ENTITY findAsYouTypeTimeout.accesskey "C">
-<!ENTITY findAsYouTypeSound.label "Play a sound when typed text isn't found">
-<!ENTITY findAsYouTypeSound.accesskey "P">
-<!ENTITY findAsYouTypeEnableAuto.label "Find automatically when typing within a web page:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "F">
-<!ENTITY findAsYouTypeAutoText.label "Any text in the page">
-<!ENTITY findAsYouTypeAutoText.accesskey "A">
-<!ENTITY findAsYouTypeAutoLinks.label "Links only">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
-
+<!ENTITY accessibilityBrowseWithCaret.label "Browse With Caret">
+<!ENTITY browseWithCaretDesc.label "Caret browsing enables you to navigate and select within pages using the cursor keys to move a visible caret.">
+<!ENTITY browseWithCaretUse.label "Use caret browsing">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "Use the F7 shortcut to toggle caret browsing">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Warn me before turning on caret browsing">
+<!ENTITY browseWithCaretWarn.accesskey "W">

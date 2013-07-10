@@ -1,8 +1,0 @@
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Filele pe care le aveați deschise">
-<!ENTITY aboutHome.remoteTabs                   "Filele de pe alte calculatoare ale dumneavoastră">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.giveFeedback                 "Give Feedback">
-<!ENTITY aboutHome.openAllTabs                  "Open all in tabs">
-<!ENTITY aboutHome.noTabs                       "No tabs from last time">
-<!ENTITY aboutHome.noAddons                     "Niciun supliment recomandat">

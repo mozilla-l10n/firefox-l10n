@@ -1,3 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# stas <stas@nerd.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# turcan <nicturcan@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
@@ -11,10 +32,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "un mesaj nou">  
-<!ENTITY newMessage.accesskey "m">  
 <!ENTITY saveCmd.label "Salvare">
-<!ENTITY saveCmd.key "F">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -39,27 +57,12 @@
 <!ENTITY sendLaterCmd.label "Trimite mai târziu">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "T">
-<!ENTITY printSetupCmd.label "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey "A">
-<!ENTITY printCmd.label "Tipărește…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "p">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "L">
 <!ENTITY editRewrapCmd.accesskey  "n">
 <!ENTITY findCmd.label "Caută și înlocuiește…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "C">
-<!ENTITY findAgainCmd.label "Caută din nou">
-<!ENTITY findAgainCmd.key "D">
-<!ENTITY findAgainCmd.accesskey "C">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Caută înapoi">
-<!ENTITY findPrevCmd.key "D">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "C">
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "M">
 
@@ -84,7 +87,6 @@
 <!ENTITY selectAddressCmd.accesskey "A">
 
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
-<!ENTITY checkSpellingCmd2.key "o">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
@@ -124,9 +126,9 @@
 <!ENTITY sendButton.label "Trimite">
 <!ENTITY addressButton.label "Adresă proprie">
 <!ENTITY attachButton.label "Anexează">
-<!ENTITY spellingButton.label "Ortografie">
+<!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Salvare">
-<!ENTITY stopButton.label "Oprește">
+<!ENTITY stopButton.label "Stop">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
@@ -145,25 +147,13 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă la dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Undo">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "Tăiați">
-<!ENTITY cut.accesskey "T">
-<!ENTITY copy.label "Copiați">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Lipiți">
-<!ENTITY paste.accesskey "p">
-<!ENTITY pasteQuote.label "Lipește ca citat">
-<!ENTITY pasteQuote.accesskey "L">
 
 <!ENTITY openAttachment.label "Deschis">
 <!ENTITY openAttachment.accesskey "D">
-<!ENTITY delete.label "Șterge elementul">
-<!ENTITY delete.accesskey "t">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Selectați tot">
-<!ENTITY selectAll.accesskey "a">
+<!ENTITY deleteAttachment.accesskey "D">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "Anexează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Anexează pagină web…">
