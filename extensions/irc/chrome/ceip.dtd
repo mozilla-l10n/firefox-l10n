@@ -1,19 +1,20 @@
-<!ENTITY window.title "Четзилин (ChatZilla) програм за побољшање корисниковог доживљаја">
-<!ENTITY window.size "width: 42em;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY intro.label "Четзилин програм за побољшање корисниковог доживљаја сакупња податке о начину на који користите четзилу, а не омета Вас у раду.  Ово помаже развијачима да утврде које могућности четзиле је најважније побољшати.  Подаци се не користе како би Вас ико идентификовао или контактирао.">
-
-<!ENTITY groupSend.label "Шаљи следеће податке:">
-<!ENTITY sendClient.label "Када се четзила покрене и затвори">
-<!ENTITY sendClient.accesskey "п">
-<!ENTITY sendCommand.label "Команде, меније и прозоре који се користе">
-<!ENTITY sendCommand.accesskey "К">
-<!ENTITY sendID.label "Ваш идентификатор:">
-<!ENTITY sendIDSrc.label "(генерисан случајним поступком)">
-
-<!ENTITY groupNotSent.label "Подаци који се никада не шаљу:">
 <!ENTITY notsentNickname.label "Ваше корисничко име">
-<!ENTITY notsentMessages.label "Садржаји порука, дејстава и обавештења">
-<!ENTITY notsentArguments.label "Аргументи прослеђени командама, менијима и дијалозима">
-<!ENTITY notsentURLs.label "Имена и УРЛ-ови мрежа, сервера, канала и корисника">
+<!ENTITY sendIDSrc.label "(генерисан случајним поступком)">
+<!ENTITY sendCommand.label "Команде, меније и прозоре који се користе">
+<!ENTITY window.title "Четзилин (ChatZilla) програм за побољшање корисниковог доживљаја">
+<!ENTITY sendClient.label "Када се четзила покрене и затвори">
 <!ENTITY notsentFiles.label "Имена и садржај послатих и примљених датотека">
+<!ENTITY sendClient.accesskey "п">
+<!ENTITY notsentMessages.label "Садржаји порука, дејстава и обавештења">
+<!ENTITY notsentURLs.label "Имена и УРЛ-ови мрежа, сервера, канала и корисника">
+<!ENTITY sendCommand.accesskey "К">
+<!ENTITY window.size "width: 42em;">
+<!ENTITY sendID.label "Ваш идентификатор:">
+<!ENTITY notsentArguments.label "Аргументи прослеђени командама, менијима и дијалозима">
+<!ENTITY groupSend.label "Шаљи следеће податке:">
+<!ENTITY intro.label "Четзилин програм за побољшање корисниковог доживљаја сакупња податке о начину на који користите четзилу, а не омета Вас у раду.  Ово помаже развијачима да утврде које могућности четзиле је најважније побољшати.  Подаци се не користе како би Вас ико идентификовао или контактирао.">
+<!ENTITY groupNotSent.label "Подаци који се никада не шаљу:">

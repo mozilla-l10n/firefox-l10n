@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "Отвори датотеку…">
+<!ENTITY openFileCmd.accesskey "д">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Отвори одредиште…">
+<!ENTITY openRemoteCmd.accesskey "д">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "Скорашње стране">
+<!ENTITY fileRecentMenu.accesskey "ш">
+<!ENTITY saveCmd.label "Сачувај">
+<!ENTITY saveCmd.accesskey "С">
+<!ENTITY saveAsCmd.label "Сачувај као…">
+<!ENTITY saveAsCmd.accesskey "к">
+<!ENTITY saveAsChangeEncodingCmd.label "Сачувај и промени скуп знакова">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "п">
+<!ENTITY publishCmd.label "Објави">
+<!ENTITY publishCmd.accesskey "О">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Објави као…">
+<!ENTITY publishAsCmd.accesskey "ј">
+<!ENTITY fileRevert.label "Врати">
+<!ENTITY fileRevert.accesskey "т">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "Објава подешавања сајта…">
+<!ENTITY publishSettings.accesskey "њ">
+

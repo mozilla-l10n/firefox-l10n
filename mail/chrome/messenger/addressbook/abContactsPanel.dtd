@@ -1,18 +1,20 @@
-<!ENTITY addressbookPicker.label            "Адресар:">
-<!ENTITY addressbookPicker.accesskey        "А">
-<!ENTITY searchInput.label                  "Тражи:">
-<!ENTITY searchInput.accesskey              "ж">
-<!ENTITY SearchNameOrEmail.label            "Име или ел. адресу">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY deleteAddrBookCard.label           "Уклони">
-<!ENTITY addrBookCardProperties.label       "Својства">
-<!ENTITY addtoToFieldMenu.label             "Додај у поље Прима">
-<!ENTITY addtoCcFieldMenu.label             "Додај у поље Коп">
-<!ENTITY addtoBccFieldMenu.label            "Додај у поље сКоп">
-
-<!ENTITY toButton.label                     "Додај примаоце:">
-<!ENTITY toButton.accesskey                 "Д">
-<!ENTITY ccButton.label                     "Додај копије:">
-<!ENTITY ccButton.accesskey                 "к">
-<!ENTITY bccButton.label                    "Додај бКоп:">
-<!ENTITY bccButton.accesskey                "б">
+<!ENTITY ccButton.label "Додај копије:">
+<!ENTITY deleteAddrBookCard.label "Уклони">
+<!ENTITY ccButton.accesskey "к">
+<!ENTITY addtoBccFieldMenu.label "Додај у поље сКоп">
+<!ENTITY SearchNameOrEmail.label "Име или ел. адресу">
+<!ENTITY addrBookCardProperties.label "Својства">
+<!ENTITY addressbookPicker.label "Адресар:">
+<!ENTITY bccButton.label "Додај бКоп:">
+<!ENTITY addtoToFieldMenu.label "Додај у поље Прима">
+<!ENTITY searchInput.label "Тражи:">
+<!ENTITY addtoCcFieldMenu.label "Додај у поље Коп">
+<!ENTITY toButton.accesskey "Д">
+<!ENTITY bccButton.accesskey "б">
+<!ENTITY addressbookPicker.accesskey "А">
+<!ENTITY searchInput.accesskey "ж">
+<!ENTITY toButton.label "Додај примаоце:">

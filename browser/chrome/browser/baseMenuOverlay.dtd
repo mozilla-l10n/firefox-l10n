@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "у">
 <!ENTITY minimizeWindow.label     "Умањи">
 <!ENTITY bringAllToFront.label    "Стави све у први план">
@@ -5,24 +9,27 @@
 <!ENTITY windowMenu.label         "Прозор">
 
 <!ENTITY helpMenu.label           "Помоћ"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "П"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Помоћ"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "П">
 <!ENTITY aboutProduct.label       "О програму &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY aboutProduct.accesskey   "О">
 <!ENTITY productHelp.label        "Помоћ за &brandShortName;">
-<!ENTITY productHelp.accesskey    "H">
+<!ENTITY productHelp.accesskey    "з">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Поново покрени са искљученим додацима">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.accesskey   "н">
 
-<!ENTITY helpTroubleshootingInfo.label      "Информације о решавању проблема">
-<!ENTITY helpTroubleshootingInfo.accesskey  "И">
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "Подаци о решавању проблема">
+<!ENTITY helpTroubleshootingInfo.accesskey  "П">
 
 <!ENTITY helpFeedbackPage.label      "Пошаљи повратне информације">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.accesskey  "ш">
 
 <!ENTITY preferencesCmdMac.label        "Поставке…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

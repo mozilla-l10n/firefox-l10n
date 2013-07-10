@@ -1,9 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Састављач">
-<!ENTITY editorCheck.accesskey "C">
-
-<!ENTITY compose.label "Састављач">
 <!ENTITY editing.label "Подешавања нове стране">
-<!ENTITY toolbars.label "Алатне траке">
+<!ENTITY editorCheck.accesskey "С">
 <!ENTITY publish.label "Објављивање">
+<!ENTITY toolbars.label "Алатне траке">
+<!ENTITY compose.label "Састављач">
+<!ENTITY editorCheck.label "Састављач">

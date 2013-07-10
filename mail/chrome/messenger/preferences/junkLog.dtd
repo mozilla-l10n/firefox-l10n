@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkLog.title "Дневник нежељене поште">
+<!ENTITY clearLog.accesskey "О">
 <!ENTITY junkLogInfo.label "Дневник активности за нежељену пошту">
 <!ENTITY clearLog.label "Очисти дневник">
-<!ENTITY clearLog.accesskey "О">
-<!ENTITY closeLog.label "Затвори">
 <!ENTITY closeLog.accesskey "З">
+<!ENTITY closeLog.label "Затвори">

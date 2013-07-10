@@ -1,72 +1,31 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is ChatZilla.
-   -
-   - The Initial Developer of the Original Code is James Ross.
-   - Portions created by the Initial Developer are Copyright (C) 2004
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   James Ross <silver@warwickcompsoc.co.uk>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY window.title "Поставке за четзилу">
-
-<!ENTITY loading.label "Молимо да сачекате, учитава се…">
-
-<!ENTITY homepage.url "http://chatzilla.hacksrus.com/">
-<!ENTITY homepage.label "четзилина почетна страна">
-
-<!ENTITY object.add.label "Додај…">
-<!ENTITY object.add.hint "Додавање нове мреже, канала или корисника за поставке">
-<!ENTITY object.add.accesskey "Д">
-
-<!ENTITY object.del.label "Уклони">
-<!ENTITY object.del.hint "Уклони тренутни објекат, чишћење свиј поставки">
-<!ENTITY object.del.accesskey "У">
-
-<!ENTITY object.reset.label "Изворно">
-<!ENTITY object.reset.hint "Поставља поставке овог објекта на изворне вредности">
-<!ENTITY object.reset.accesskey "И">
-
-<!ENTITY dialog.apply "Примени">
-
-<!ENTITY network "Мрежа">
-<!ENTITY channel "Канал">
-<!ENTITY user "Корисник">
-
-<!ENTITY config.add.title "Додај објекат за поставке">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY config.type.label "Врста:">
-<!ENTITY config.type.hint "Врста објекта за који додају поставке">
+<!ENTITY dialog.apply "Примени">
+<!ENTITY object.reset.label "Изворно">
 <!ENTITY config.type.accesskey "В">
-<!ENTITY config.network.label "Мрежа:">
-<!ENTITY config.network.hint "Познато име мреже, или име сервера:">
-<!ENTITY config.network.accesskey "М">
-<!ENTITY config.target.label "Одредиште:">
-<!ENTITY config.target.hint "Циљни канал или име корисника">
+<!ENTITY config.type.hint "Врста објекта за који додају поставке">
+<!ENTITY object.add.accesskey "Д">
 <!ENTITY config.target.accesskey "О">
+<!ENTITY network "Мрежа">
+<!ENTITY object.reset.hint "Поставља поставке овог објекта на изворне вредности">
+<!ENTITY homepage.url "http://chatzilla.hacksrus.com/">
+<!ENTITY object.add.hint "Додавање нове мреже, канала или корисника за поставке">
+<!ENTITY object.del.hint "Уклони тренутни објекат, чишћење свиј поставки">
+<!ENTITY object.reset.accesskey "И">
+<!ENTITY object.add.label "Додај…">
+<!ENTITY channel "Канал">
+<!ENTITY config.network.accesskey "М">
+<!ENTITY config.add.title "Додај објекат за поставке">
+<!ENTITY config.target.label "Одредиште:">
+<!ENTITY user "Корисник">
+<!ENTITY window.title "Поставке за четзилу">
+<!ENTITY config.target.hint "Циљни канал или име корисника">
+<!ENTITY config.network.hint "Познато име мреже, или име сервера:">
+<!ENTITY loading.label "Молимо да сачекате, учитава се…">
+<!ENTITY object.del.accesskey "У">
+<!ENTITY object.del.label "Уклони">
+<!ENTITY config.network.label "Мрежа:">
+<!ENTITY homepage.label "четзилина почетна страна">

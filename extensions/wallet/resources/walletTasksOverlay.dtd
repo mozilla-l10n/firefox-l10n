@@ -1,28 +1,31 @@
-<!ENTITY walletPasswordManager.label "Управник лозинкама">
-<!ENTITY walletPasswordManager.accesskey "У">
-<!ENTITY walletSafeFillCmd.label "Попуни формулар">
-<!ENTITY walletSafeFillCmd.accesskey "ф">
-<!ENTITY walletQuickFillCmd.label "Брза попуна формулара">
-<!ENTITY walletQuickFillCmd.accesskey "Б">
-<!ENTITY walletRequestToCaptureCmd.label "Сачувај податке о формулару">
-<!ENTITY walletRequestToCaptureCmd.accesskey "С">
-<!ENTITY walletDisplaySignonsCmd.label "Управљање сачуваним лозинкама">
-<!ENTITY walletDisplaySignonsCmd.accesskey "У">
-<!ENTITY walletInterviewCmd.label "Интервју">
-<!ENTITY walletInterviewCmd.accesskey "И">
-<!ENTITY walletSamplesCmd.label "Пример">
-<!ENTITY walletSamplesCmd.accesskey "П">
-<!ENTITY walletChangePasswordCmd.label "Промена главне лозинке…">
-<!ENTITY walletChangePasswordCmd.accesskey "р">
-<!ENTITY walletExpirePasswordCmd.label "Одјава">
-<!ENTITY walletExpirePasswordCmd.accesskey "О">
-<!ENTITY walletEncryptCmd.label "Шифруј поверљиве податке">
-<!ENTITY walletEncryptCmd.accesskey "Ш">
-<!ENTITY walletObscureCmd.label "Сакриј поверљиве податке">
-<!ENTITY walletObscureCmd.accesskey "С">
-<!ENTITY walletClearCmd.label "Ресетуј главну лозинку">
-<!ENTITY walletClearCmd.accesskey "Р">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY PasswordNotChanged "Промена главне лозинке није могућа.">
+<!ENTITY walletSamplesCmd.label "Пример">
+<!ENTITY walletSafeFillCmd.label "Попуни формулар">
+<!ENTITY walletEncryptCmd.label "Шифруј поверљиве податке">
+<!ENTITY walletPasswordManager.label "Управник лозинкама">
+<!ENTITY walletObscureCmd.accesskey "С">
 <!ENTITY PasswordExpired "Одјављени сте.">
+<!ENTITY walletChangePasswordCmd.accesskey "р">
+<!ENTITY walletInterviewCmd.accesskey "И">
+<!ENTITY walletDisplaySignonsCmd.accesskey "У">
+<!ENTITY walletClearCmd.label "Ресетуј главну лозинку">
+<!ENTITY walletExpirePasswordCmd.label "Одјава">
+<!ENTITY walletPasswordManager.accesskey "У">
+<!ENTITY walletSamplesCmd.accesskey "П">
+<!ENTITY walletInterviewCmd.label "Интервју">
+<!ENTITY walletEncryptCmd.accesskey "Ш">
+<!ENTITY walletDisplaySignonsCmd.label "Управљање сачуваним лозинкама">
+<!ENTITY PasswordNotChanged "Промена главне лозинке није могућа.">
+<!ENTITY walletQuickFillCmd.accesskey "Б">
+<!ENTITY walletSafeFillCmd.accesskey "ф">
+<!ENTITY walletRequestToCaptureCmd.label "Сачувај податке о формулару">
+<!ENTITY walletObscureCmd.label "Сакриј поверљиве податке">
+<!ENTITY walletQuickFillCmd.label "Брза попуна формулара">
+<!ENTITY walletClearCmd.accesskey "Р">
+<!ENTITY walletRequestToCaptureCmd.accesskey "С">
 <!ENTITY PasswordNotExpired "Одјава није могућа.">
+<!ENTITY walletChangePasswordCmd.label "Промена главне лозинке…">
+<!ENTITY walletExpirePasswordCmd.accesskey "О">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY blocklist.title             "Додаци су можда узрок проблема">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "Програм &brandShortName; је установио да наредни додаци могу да узрокују проблеме са стабилношћу или безбедношћу:">
@@ -6,8 +10,8 @@
 <!ENTITY blocklist.softandhard       "Додаци који имају висок ризик да узрокују проблеме са стабилношћу или безбедношћу су блокирани.  Остали су ниског ризика, али се ипак препоручује да их искључите.">
 <!ENTITY blocklist.moreinfo          "Више података">
 
-<!ENTITY blocklist.accept.label      "Поново покренуи &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.accept.label      "Поново покрени програм &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "П">
 
 <!ENTITY blocklist.blocked.label     "Блокиран">
 <!ENTITY blocklist.checkbox.label    "Искључи">

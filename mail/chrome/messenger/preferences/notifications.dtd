@@ -1,11 +1,13 @@
-<!ENTITY notificationsDialog2.title       "Прилагођено обавештење о пошти">
-<!ENTITY window.width                     "30em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY alertCustomization.intro         "Изаберите поља која ће бити приказана у дојавама">
-<!ENTITY previewText.label                "Одломак поруке">
-<!ENTITY previewText.accesskey            "О">
-<!ENTITY subject.label                    "Тема">
-<!ENTITY subject.accesskey                "Т">
-<!ENTITY sender.label                     "Пошиљалац">
-<!ENTITY sender.accesskey                 "ш">
-
+<!ENTITY previewText.label "Одломак поруке">
+<!ENTITY sender.accesskey "ш">
+<!ENTITY previewText.accesskey "О">
+<!ENTITY window.width "30em">
+<!ENTITY notificationsDialog2.title "Прилагођено обавештење о пошти">
+<!ENTITY subject.accesskey "Т">
+<!ENTITY alertCustomization.intro "Изаберите поља која ће бити приказана у дојавама">
+<!ENTITY sender.label "Пошиљалац">
+<!ENTITY subject.label "Тема">

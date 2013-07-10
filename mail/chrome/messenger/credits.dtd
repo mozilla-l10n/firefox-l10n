@@ -1,13 +1,10 @@
-<!ENTITY credit.title     "Заслуге за &brandFullName;">
-<!ENTITY brandMotto       "Соколови су спремни!">
-<!ENTITY credit.thanks    "Посебна захвалност">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
--->
 <!ENTITY credit.translation "<h3>Превео</h3><ul><li>Љубиша Радовановић</li></ul>">
-
-<!ENTITY credit.memory         "У сећање на">
+<!ENTITY credit.title "Заслуге за &brandFullName;">
 <!ENTITY credit.poweredByGecko "Покреће геко (Gecko&trade;)">
+<!ENTITY credit.memory "У сећање на">
+<!ENTITY brandMotto "Соколови су спремни!">
+<!ENTITY credit.thanks "Посебна захвалност">

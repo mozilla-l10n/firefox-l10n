@@ -1,10 +1,13 @@
-<!ENTITY pref.wallet.title "Формулари">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY walletHeader.caption "Управник формуларима">
-<!ENTITY walletDescription.label "Управник формуларима може да запамти податке о Вама како бисте касније формуларе на странама могли да испуњавате брже.">
-<!ENTITY walletEnabled.label "Чувај податке о формуларима при испуњавању формулара.">
-<!ENTITY walletEnabled.accesskey "ф">
 <!ENTITY viewWallet.label "Управљање сачуваним подацима о формуларима">
-<!ENTITY viewWallet.accesskey "У">
-<!ENTITY viewWalletSites.label "Управљање сајтовима">
 <!ENTITY viewWalletSites.accesskey "п">
+<!ENTITY pref.wallet.title "Формулари">
+<!ENTITY viewWallet.accesskey "У">
+<!ENTITY walletDescription.label "Управник формуларима може да запамти податке о Вама како бисте касније формуларе на странама могли да испуњавате брже.">
+<!ENTITY walletEnabled.accesskey "ф">
+<!ENTITY walletHeader.caption "Управник формуларима">
+<!ENTITY walletEnabled.label "Чувај податке о формуларима при испуњавању формулара.">
+<!ENTITY viewWalletSites.label "Управљање сајтовима">

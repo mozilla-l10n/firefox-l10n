@@ -1,0 +1,149 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Проблем при учитавању стране">
+<!ENTITY retry.label "Покушајте поново">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Повезивање немогуће">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сервер није нађен">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Датотека није нађена">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Проверите име датотеке због могућих грешака при куцању.</li> 
+<li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
+
+
+<!ENTITY generic.title "Упс.">
+<!ENTITY generic.longDesc "<p>&brandShortName; из неког разлога не може да учита страну.</p>">
+
+<!ENTITY malformedURI.title "Адреса је неважећа">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Интернет адресе обично изгледају нешто налик на 
+<strong>http://www.vebsajt.com/</strong></li> 
+<li>Проверите да ли користите исправне знакове (нпр. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Веза са сервером је прекинута">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Документ је истекао">
+<!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, програм, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Пробај поново“ да бисте поново добавили документ са веб сајта.</li></ul>">
+
+<!ENTITY netOffline.title "Рад ван мреже">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Молимо пријавите овај проблем администраторима овог веб сајта.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Несигуран тип датотеке">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Молимо пријавите овај проблем администраторима овог веб сајта.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Веза је обновљена">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Веза са сервером је истекла">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Адреса није разумљива">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Можда ћете морати да инсталирати додатни софтвер да бисте видели ову страну.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Посреднички сервер (proxy) одбија везе">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Проверите исправност подешавања прокси сервера.</li> 
+<li>Питајте администратора ваше мреже да ли је активан 
+посредник(proxy).</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Не могу да пронађем посреднички сервер (proxy)">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Страна није правилно преусмерена">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Овај проблем понекад настаје ако искључите или одбијете прихватање колачића. 
+колачића.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Неочекиван одговор сервера">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Проверите да ли на вашем рачунару ради лични управник за безбедност</li> <li>Узрок може да буде нестандардно подешавање сервера.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Безбедна веза није успела">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Страна коју покушавате да погледате није могла да буде приказана јер аутентичност примљених података није могла бити потврђена.</li> 
+<li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.  Или искористите команду из менија за помоћ како бисте пријавили овај сајт као неисправан.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Безбедна веза није успела">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Ово може да буде проблем са подешавањима сервера, или може бити неко ко 
+покушава да се представи као сервер.</li> 
+<li>Ако сте се претходно већ успешно повезивали на овај сервер, онда је грешка 
+можда привремена, па има смисла да покушате касније опет.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано због полисе о безбедности садржаја">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
+<!ENTITY corruptedContentError.longDesc "<p>Страна коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Молимо да се обратите власницима веб стране и обавестите их о проблему.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Или додајте изузетак…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
+<!ENTITY securityOverride.exceptionButtonLabel "Додавање изузетка…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Не бисте требали да додајете изузетак ако користите Интернетску везу којој не верујете потпуно или ако нисте навикли да виђате упозорења за овај сервер.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Удаљени XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+

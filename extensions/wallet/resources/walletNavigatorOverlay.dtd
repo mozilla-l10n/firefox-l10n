@@ -1,20 +1,22 @@
-<!ENTITY formbarCmd.label "Алатна трака за формуларе">
-<!ENTITY formbarCmd.accesskey "ф">
-<!ENTITY formPrefill.label "Попуњавање формулара">
-<!ENTITY formCapture.label "Чувај податке о формуларима">
-<!ENTITY formView.label "Управљање сачуваним подацима">
-<!ENTITY formPrefill.tooltip "Испуни формулар претходно сачуваним подацима">
-<!ENTITY formCapture.tooltip "Сачувај податке из овог формулара">
-<!ENTITY formView.tooltip "Преглед претходно сачуваних података за овај формулар">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY captureCmd.label "Сачувај податке о формулару">
 <!ENTITY captureCmd.accesskey "С">
-<!ENTITY prefillCmd.label "Испуни формулар">
-<!ENTITY prefillCmd.accesskey "с">
-
-<!ENTITY walletContentsCmd.label "Уреди податке о формулару">
-<!ENTITY walletContentsCmd.accesskey "У">
+<!ENTITY formPrefill.tooltip "Испуни формулар претходно сачуваним подацима">
+<!ENTITY formPrefill.label "Попуњавање формулара">
 <!ENTITY walletSitesCmd.label "Управљање сајтовима">
+<!ENTITY walletContentsCmd.label "Уреди податке о формулару">
+<!ENTITY prefillCmd.accesskey "с">
 <!ENTITY walletSitesCmd.accesskey "с">
-<!ENTITY walletFormManager.label "Управник формуларима">
+<!ENTITY formbarCmd.label "Алатна трака за формуларе">
+<!ENTITY prefillCmd.label "Испуни формулар">
+<!ENTITY formCapture.label "Чувај податке о формуларима">
+<!ENTITY formbarCmd.accesskey "ф">
+<!ENTITY walletContentsCmd.accesskey "У">
 <!ENTITY walletFormManager.accesskey "п">
+<!ENTITY formCapture.tooltip "Сачувај податке из овог формулара">
+<!ENTITY captureCmd.label "Сачувај податке о формулару">
+<!ENTITY walletFormManager.label "Управник формуларима">
+<!ENTITY formView.tooltip "Преглед претходно сачуваних података за овај формулар">
+<!ENTITY formView.label "Управљање сачуваним подацима">
