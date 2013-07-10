@@ -1,7 +1,4 @@
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-#filter emptyLines
+# This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.#filter emptyLines
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're 
 # live.
@@ -20,7 +17,7 @@
 
 # LOCALIZATION NOTE (getting_started):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 
 #define getting_started Tús Maith
 
@@ -34,28 +31,28 @@
 
 # LOCALIZATION NOTE (firefox_help):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 
 #define firefox_help Cabhair agus Cúrsaí Teagaisc
 
 
 # LOCALIZATION NOTE (firefox_customize):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 
 #define firefox_customize Saincheap Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for https://www.mozilla.org/en-US/contribute/
 
 #define firefox_community Glac Páirt
 
 
 # LOCALIZATION NOTE (firefox_about):
 
-# link title for http://en-US.www.mozilla.com/en-US/about/
+# link title for https://www.mozilla.org/en-US/about/
 
 #define firefox_about Maidir Linn
 

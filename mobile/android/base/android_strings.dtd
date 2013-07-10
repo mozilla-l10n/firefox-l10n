@@ -15,12 +15,12 @@
 <!ENTITY awesomebar_switch_to_tab "Téigh go cluaisín">
 
 <!ENTITY crash_reporter_title "Tuairisceoir na gClistí &brandShortName;">
-<!ENTITY crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY crash_message2 "Tá &brandShortName; tar éis tuairteáil. Beidh do chuid chluaisíní liostáilte ar thúsleathanach &brandShortName; nuair a atosóidh tú é.">
+<!ENTITY crash_send_report_message3 "Inis do &vendorShortName; faoin gcliseadh seo ionas go mbeidh siad in ann é a réiteach">
 <!ENTITY crash_include_url2 "Cuir seoladh an leathanaigh ar a raibh mé san áireamh">
 <!ENTITY crash_sorry "Tá brón orainn">
 <!ENTITY crash_comment "Cuir nóta leis (tá nótaí infheicthe go poiblí)">
-<!ENTITY crash_allow_contact "Tabhair cead do Mhozilla dul i dteagmháil liom maidir leis an tuairisc seo">
+<!ENTITY crash_allow_contact2 "Tabhair cead do &vendorShortName; dul i dteagmháil liom maidir leis an tuairisc seo">
 <!ENTITY crash_email "Do sheoladh ríomhphoist">
 <!ENTITY crash_closing_alert "An bhfuil fonn ort imeacht gan tuairisc a sheoladh?">
 <!ENTITY sending_crash_report "Tuairisc ar thuairteáil á seoladh\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Leabharmharc cruthaithe">
 <!ENTITY bookmark_removed "Baineadh an leabharmharc">
 <!ENTITY bookmark_updated "Leabharmharc nuashonraithe">
+<!ENTITY bookmark_options "Roghanna">
 
 <!ENTITY history_today_section "Inniu">
 <!ENTITY history_yesterday_section "Inné">
@@ -97,10 +98,10 @@
 <!ENTITY pref_clear_private_data "Bánaigh sonraí príobháideacha">
 <!ENTITY pref_plugins "Forlíontáin">
 <!ENTITY pref_plugins_enabled "Cumasaithe">
-<!ENTITY pref_plugins_tap_to_play "Cnap le seinm">
+<!ENTITY pref_plugins_tap_to_play "Tapáil le seinm">
 <!ENTITY pref_plugins_disabled "Díchumasaithe">
 <!ENTITY pref_text_size "Méid téacs">
-<!ENTITY pref_reflow_on_zoom2 "Fáisc chun téacs a athshreabhadh">
+<!ENTITY pref_reflow_on_zoom3 "Tapáil faoi dhó chun téacs a ataispeáint">
 <!ENTITY pref_font_size_tiny "An-bheag">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Measartha">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Comhaid íosluchtaithe">
 
 <!ENTITY datareporting_notification_title "Staitisticí agus sonraí ó &brandShortName;">
-<!ENTITY datareporting_notification_action "Roghnaigh cad a roinnfidh mé">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY datareporting_notification_action_long "Roghnaigh cad a roinnfidh tú">
+<!ENTITY datareporting_notification_action "Roghnaigh cad a roinnfidh tú">
+<!ENTITY datareporting_notification_summary "Chun an táirge a fheabhsú, seolann &brandShortName; roinnt faisnéise chuig &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Chun an táirge a fheabhsú, seolann &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Tuairisc Shláinte &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Cabhraíonn seo leat feidhmíocht do bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do bhrabhsálaí chuig &vendorShortName;">
+<!ENTITY datareporting_fhr_summary2 "…roinnt faisnéis maidir le sláinte do bhrabhsálaí chuig &vendorShortName;">
+<!ENTITY datareporting_abouthr_title "Féach ar mo Thuairisc Shláinte">
 <!ENTITY datareporting_telemetry_title "Teiliméadracht">
 <!ENTITY datareporting_telemetry_summary "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
 <!ENTITY datareporting_crashreporter_summary "Seolann &brandShortName; tuairiscí ar chlistí chuig &vendorShortName; chun cabhrú linn brabhsálaí níos cobhsaí níos sábháilte a fhorbairt">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "Tuairisceoir na gClistí &brandShortName;">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Tuairisceoir na gClistí">
+<!ENTITY datareporting_wifi_title "Seirbhísí geoshuite &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Tabhair cead do &brandShortName; sonraí gan ainm maidir le túir cheallacha a sheoladh chugainn. Cabhróidh sé seo linn seirbhísí geoshuite ar an nGréasán oscailte a fheabhsú.">
 
 <!ENTITY pref_update_autodownload "Nuashonruithe uathoibríocha">
 <!ENTITY pref_update_autodownload_wifi "Thar Wi-Fi amháin">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "atá á reáchtáil ag">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Ábhar neamhshlán á thaispeáint ar an leathanach seo.">
+<!ENTITY blocked_mixed_content_message_top "Chuir &brandShortName; cosc ar ábhar neamhshlán.">
+<!ENTITY blocked_mixed_content_message_bottom "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
+<!ENTITY learn_more "Faigh Tuilleadh Eolais">
+<!ENTITY enable_protection "Cumasaigh cosaint">
+<!ENTITY disable_protection "Díchumasaigh cosaint">
+<!ENTITY keep_blocking "Coinnigh an bac">
 
 <!ENTITY private_data_success "Glanadh na sonraí príobháideacha">
 <!ENTITY private_data_fail "Níorbh fhéidir sonraí áirithe príobháideacha a ghlanadh">
