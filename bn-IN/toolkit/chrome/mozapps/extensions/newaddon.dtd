@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY title           "নতুন অতিরিক্ত সামগ্রী ইনস্টল করুন">
 <!ENTITY intro           "আপনার কম্পিউটারে উপস্থিত অন্য একটি প্রোগ্রাম, নিম্নলিখিত অতিরিক্ত সামগ্রী সহযোগে 
                           &brandShortName;-কে পরিবর্তন করতে ইচ্ছুক:">
