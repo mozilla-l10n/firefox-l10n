@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "a">
 <!ENTITY newIMAccountCmd.label "Cuntas Comhrá…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Cuntas Fotha…">
+<!ENTITY newFeedAccountCmd.accesskey "t">
 <!ENTITY newIMContactCmd.label "Teagmháil Chomhrá…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
@@ -369,7 +371,7 @@
 <!ENTITY moveToFolderAgain.accesskey "A">
 <!ENTITY moveToFolderAgainCmd.key "a">
 <!ENTITY killThreadMenu.label "Tabhair Neamhaird ar an Snáithe">
-<!ENTITY killThreadMenu.accesskey "i">
+<!ENTITY killThreadMenu.accesskey "T">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Tabhair Neamhaird ar an bhFoshnáithe">
 <!ENTITY killSubthreadMenu.accesskey "F">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "W">
+<!ENTITY allowRemoteDebugging.label "Ceadaigh Cian-Dífhabhtú">
+<!ENTITY allowRemoteDebugging.accesskey "f">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Faigh R-phost">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Freagair an seoltóir agus gach faighteoir">
 <!ENTITY replyListButton.tooltip "Seol freagra chuig liosta ríomhphoist">
 <!ENTITY forwardButton.tooltip "Cuir an teachtaireacht roghnaithe ar aghaidh">
+<!ENTITY forwardAsInline.tooltip "Cuir an teachtaireacht roghnaithe ar aghaidh mar théacs inlíne">
+<!ENTITY forwardAsAttachment.tooltip "Cuir an teachtaireacht roghnaithe ar aghaidh mar iatán">
 <!ENTITY fileButton.tooltip "Bog an teachtaireacht roghnaithe go fillteán">
 <!ENTITY archiveButton.tooltip "Cuir na teachtaireachtaí roghnaithe sa chartlann">
 <!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile gan léamh">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Clibeáil Teachtaireachtaí">
 <!ENTITY compactButton.tooltip "Bain teachtaireachtaí scriosta den fhillteán roghnaithe">
 <!ENTITY appmenuButton1.tooltip "Taispeáin an Roghchlár &brandShortName;">
+<!-- Toolbar Button Popup -->
+
+<!ENTITY buttonMenuForwardAsInline.label "Cuir Ar Aghaidh Inlíne">
+<!ENTITY buttonMenuForwardAsAttachment.label "Cuir Ar Aghaidh Mar Iatán">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
@@ -578,8 +588,8 @@
 
 <!ENTITY folderContextGetMessages.label "Faigh Teachtaireachtaí">
 <!ENTITY folderContextGetMessages.accesskey "g">
-<!ENTITY folderContextOpenNewWindow.label "Oscail">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Oscail i bhFuinneog Nua">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Oscail i gCluaisín Nua">
 <!ENTITY folderContextOpenNewTab.accesskey "C">
 <!ENTITY folderContextNew.label "Fo-Fhillteán Nua…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Cuir Ar Aghaidh">
 <!ENTITY contextForward.accesskey "C">
-<!ENTITY contextForwardAsAttachment.label "Seol ar Aghaidh mar Iatáin">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Cuir Ar Aghaidh Mar">
+<!ENTITY contextForwardAsMenu.accesskey "u">
+<!ENTITY contextForwardAsInline.label "Inlíne">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Iatán">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextMultiForwardAsAttachment.label "Seol ar Aghaidh mar Iatáin">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Bog Go">
 <!ENTITY contextMoveMsgMenu.accesskey "B">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Le Déanaí">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "L">
 <!ENTITY contextCopyMsgMenu.label "Cóipeáil Go">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Tabhair Neamhaird ar an Snáithe">
+<!ENTITY contextKillThreadMenu.accesskey "T">
+<!ENTITY contextKillSubthreadMenu.label "Tabhair Neamhaird ar an bhFoshnáithe">
+<!ENTITY contextWatchThreadMenu.label "Bí ag Faire ar an Snáithe">
 <!ENTITY contextSaveAs.label "Sábháil Mar…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Priontáil…">

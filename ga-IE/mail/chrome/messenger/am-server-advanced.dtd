@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Ceadaigh don fhreastalaí na hainmspásanna seo a shárú">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Agus ríomhphost POP á íosluchtú ón bhfreastalaí seo, úsáid an fillteán seo a leanas le haghaidh teachtaireachtaí nua:">
-<!ENTITY globalInbox.label "Bosca Isteach Uilíoch (Cuntas na bhFillteán Logánta)">
-<!ENTITY globalInbox.accesskey "B">
 <!ENTITY accountDirectory.label "Bosca Isteach chuntas an fhreastalaí seo">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Bosca Isteach cuntais eile">
