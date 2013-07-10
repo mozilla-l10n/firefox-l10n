@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label "Fothaí">
 <!ENTITY subscribeFeeds.label "Bainistigh síntiúis">
 
+<!ENTITY chat.label "Comhrá">
+<!ENTITY movemail.label "Movemail">
+
 <!ENTITY accountsSectionHdr.label "Cuntais">
 <!ENTITY subscribeImapFolders.label "Bainistiú na Síntiús Fillteán">
 <!ENTITY settingsLink.label "Taispeáin socruithe an chuntais seo">
 <!ENTITY newAcctLink.label "Cruthaigh cuntas nua">
+<!ENTITY newAcct.label "Cruthaigh cuntas nua:">
 
 <!ENTITY advFeaturesSectionHdr.label "Ardtréithe">
 <!ENTITY searchMsgsLink.label "Cuardaigh teachtaireachtaí">

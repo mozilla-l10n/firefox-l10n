@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Chuig ">
-<!ENTITY fromField3.label "Ó ">
-<!ENTITY senderField3.label "Seoltóir ">
-<!ENTITY organizationField3.label "Eagras ">
-<!ENTITY replyToField3.label "Freagra chuig ">
+<!ENTITY toField4.label "Chuig">
+<!ENTITY fromField4.label "Ó">
+<!ENTITY senderField4.label "Seoltóir">
+<!ENTITY organizationField4.label "Eagras">
+<!ENTITY replyToField4.label "Tabhair freagra ar">
 
-<!ENTITY subjectField3.label "Ábhar ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Grúpaí nuachta ">
-<!ENTITY followupToField3.label "Leanúint chuig ">
-<!ENTITY tagsHdr3.label "Clibeanna ">
-<!ENTITY dateField3.label "Dáta ">
-<!ENTITY userAgentField3.label "Clár ríomhphoist ">
-<!ENTITY referencesField3.label "Tagairtí ">
-<!ENTITY messageIdField3.label "Aitheantas na Teachtaireachta ">
-<!ENTITY inReplyToField3.label "I bhfreagra ar ">
-<!ENTITY originalWebsite3.label "Suíomh Gréasáin ">
+<!ENTITY subjectField4.label "Ábhar">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Grúpaí-Nuachta">
+<!ENTITY followupToField4.label "Leanúint chuig">
+<!ENTITY tagsHdr4.label "Clibeanna">
+<!ENTITY dateField4.label "Dáta">
+<!ENTITY userAgentField4.label "Gníomhaire úsáideora">
+<!ENTITY referencesField4.label "Tagairtí">
+<!ENTITY messageIdField4.label "Aitheantas na Teachtaireachta">
+<!ENTITY inReplyToField4.label "I bhfreagra ar:">
+<!ENTITY originalWebsite4.label "Suíomh Gréasáin">
 
 <!ENTITY editMessageDescription.label "Is dréacht é seo">
 <!ENTITY editMessageButton.label "Eagar…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Seol freagra chuig liosta ríomhphoist">
 <!ENTITY hdrFollowupButton1.label "Leanúint">
 <!ENTITY hdrFollowupButton1.tooltip "Seol leanúint chuig an ngrúpa nuachta seo">
+<!ENTITY hdrMenuForwardButton.label "Cuir Ar Aghaidh Mar">
 <!ENTITY hdrForwardButton1.label "Ar Aghaidh">
 <!ENTITY hdrForwardButton1.tooltip "Cuir an teachtaireacht seo ar aghaidh">
 <!ENTITY hdrJunkButton1.label "Dramhphost">

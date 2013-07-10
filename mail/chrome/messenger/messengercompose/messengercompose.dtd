@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Aimsigh agus Ionadaigh…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "A">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Aimsigh Arís">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "m">
