@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Բաժանորդագրություններ">
 <!ENTITY subscriptionDesc.label "Հիշեք. Նորությունների շղթայի թղթապանակի ջնջումը կամ փոփոխումը չի ազդի նախորդ գրառումների վրա։">
