@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey "S">
 <!ENTITY event.categories.label "Catagóir:">
 <!ENTITY event.categories.accesskey "r">
+<!ENTITY event.categories.textbox.label "Cuir catagóir nua leis">
+<!ENTITY event.categories.textbox.accesskey "C">
 <!ENTITY event.calendar.label "Féilire:">
 <!ENTITY event.calendar.accesskey "F">
 <!ENTITY event.attendees.label "Rannpháirtithe:">

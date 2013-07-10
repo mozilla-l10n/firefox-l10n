@@ -349,3 +349,9 @@
 <!ENTITY calendar.error.code "Cód earráide:">
 <!ENTITY calendar.error.description "Cur Síos:">
 <!ENTITY calendar.error.title "Tharla earráid">
+<!-- Extract buttons in message header -->
+
+<!ENTITY calendar.extract.event.button "Cuir leis mar imeacht">
+<!ENTITY calendar.extract.task.button "Cuir leis mar thasc">
+<!ENTITY calendar.extract.event.button.tooltip "Bain faisnéis faoi imeacht as an teachtaireacht agus cuir le d'fhéilire í">
+<!ENTITY calendar.extract.task.button.tooltip "Bain faisnéis faoi thasc as an teachtaireacht agus cuir le d'fhéilire é">

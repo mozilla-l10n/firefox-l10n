@@ -2,15 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin "Roghanna">
-<!ENTITY prefWindow.titleGNOME "Sainroghanna &brandShortName;">
-<!ENTITY prefWindow.styleWin "width: 52em; height: 41em;">
-<!ENTITY prefWindow.styleMac "width: 58em;">
-<!ENTITY prefWindow.styleGNOME "width: 52em; height: 37.5em;">
-
 <!ENTITY paneGeneral.title "Ginearálta">
 <!ENTITY paneAlarms.title "Meabhrúcháin">
 <!ENTITY paneCategories.title "Catagóirí">
 <!ENTITY paneViews.title "Amhairc">
 <!ENTITY paneTimezones.title "Crios Ama">
-<!ENTITY paneAdvanced.title "Ardroghanna">
