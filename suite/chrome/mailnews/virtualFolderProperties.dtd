@@ -1,3 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# turcan <nicturcan@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY virtualFolderProperties.title "Dosar nou pentru o căutare salvată">
 <!ENTITY name.label                    "Denumire:">
 <!ENTITY name.accesskey                "n">
@@ -12,3 +30,7 @@
 
 <!ENTITY searchOnline.label            "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și News dar timpul de deschidere al dosarului crește)">
 <!ENTITY searchOnline.accesskey        "s">
+<!ENTITY newFolderButton.label         "Create">
+<!ENTITY newFolderButton.accesskey     "r">
+<!ENTITY editFolderButton.label        "Update">
+<!ENTITY editFolderButton.accesskey    "U">

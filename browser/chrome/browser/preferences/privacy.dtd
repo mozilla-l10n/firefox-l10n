@@ -11,12 +11,23 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY doNotTrack.label               "Informează saiturile web că nu vreau să fiu urmărit">
-<!ENTITY doNotTrack.accesskey           "I">
+<!ENTITY dntTrackingNopref.label        "Nu spune saiturilor nimic despre preferințele mele de urmărire.">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label       "Spune saiturilor că nu vreau să fiu urmărit.">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label          "Spune saiturilor că vreau să fiu urmărit.">
+<!ENTITY dntTrackingOkay.accesskey      "t">
+<!ENTITY doNotTrackInfo.label           "Află mai multe">
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -29,7 +40,6 @@
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
 <!ENTITY  locbar.nothing.label          "Nimic">
-
 
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -79,11 +89,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare fără urme">
 <!ENTITY  privateBrowsingPermanent2.accesskey "F">
 
-<!ENTITY  rememberHistory.label      "Memorează istoricul navigării mele">
-<!ENTITY  rememberHistory.accesskey  "M">
-
-<!ENTITY  rememberDownload.label         "Memorează istoricul descărcărilor">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Memorează istoricul navigării și al descărcărilor">
+<!ENTITY  rememberHistory2.accesskey  "g">
 
 <!ENTITY  rememberSearchForm.label       "Memorează istoricul formularelor și al căutărilor">
 <!ENTITY  rememberSearchForm.accesskey   "f">

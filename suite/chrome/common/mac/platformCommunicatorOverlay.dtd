@@ -1,3 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# Nicu <kneekoo@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# silviubogan <silviubogan@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- mac -->
 <!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
   Cmd.key. -->
@@ -12,11 +32,11 @@
 <!ENTITY hideThisAppCmd.label           "Ascunde &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "s">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
-<!ENTITY hideOtherAppsCmd.label         "Ascunde altele">
+<!ENTITY hideOtherAppsCmd.label         "Ascunde-le pe celelalte">
 <!ENTITY hideOtherAppsCmd.key           "s">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Arată-le pe toate">
-<!ENTITY quitApplicationCmd.label       "Ieșire"> 
+<!ENTITY quitApplicationCmd.label       "Părăsește &brandShortName;"> 
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
@@ -27,10 +47,9 @@
 <!ENTITY printSetupCmd.label            "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey        "A">
 
-<!ENTITY redoCmd.label                  "Refacere">  
 <!ENTITY redoCmd.key                    "Z">  
 
-<!ENTITY historyCmd.key                 "s">  
+<!ENTITY historyCmd.key                 "H">  
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">
@@ -39,7 +58,7 @@
 
 <!ENTITY minimizeWindowCmd.label        "Minimizează">
 <!ENTITY minimizeWindowCmd.key          "p">
-<!ENTITY zoomWindowCmd.label            "Mărime text">
+<!ENTITY zoomWindowCmd.label            "Panoramează">
 
 <!-- Help menu -->
 <!ENTITY openHelpCmd.label              "&brandShortName; Ajutor">
@@ -50,4 +69,4 @@
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                   "Ctrl+P">
 <!ENTITY altKey.label                    "Opțiune">
-<!ENTITY shiftKey.label                  "Zimțare">
+<!ENTITY shiftKey.label                  "Shift">

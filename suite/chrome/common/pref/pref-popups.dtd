@@ -1,3 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY pref.popups.title              "Popup Windows">
 
 <!ENTITY pref.popups.caption            "Popup Windows">
@@ -5,8 +21,8 @@
 <!ENTITY popupBlock.label               "Block unrequested popup windows">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Site-uri Permise">
-<!ENTITY popupExceptions.accesskey      "S">
+<!ENTITY viewPermissions.label          "Manage Permissions">
+<!ENTITY viewPermissions.accesskey      "M">
 
 <!ENTITY whenBlock.description          "When a popup window has been blocked:">
 <!ENTITY playSound.label                "Redați un sunet:">
@@ -18,10 +34,8 @@
 
 <!ENTITY selectSound.label              "Răsfoiește...">
 <!ENTITY selectSound.accesskey          "o">
-<!ENTITY previewSound.label             "Previzionare">
-<!ENTITY previewSound.accesskey         "v">
-<!ENTITY selectSound.title              "Select Popup Block Sound">
-<!ENTITY selectSound.filter             "Sonerii">
+<!ENTITY playSoundButton.label          "Play">
+<!ENTITY playSoundButton.accesskey      "l">
 
 <!ENTITY displayIcon.label              "Display an icon in the browser status bar">
 <!ENTITY displayIcon.accesskey          "D">

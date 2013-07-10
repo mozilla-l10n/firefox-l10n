@@ -9,8 +9,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY permissionsManager.title        "Gestionar de permisiuni">
 
 <!ENTITY sites.search                    "Saituri căutate">
@@ -29,6 +34,7 @@
 <!ENTITY permission.alwaysAsk            "Întreabă mereu">
 <!ENTITY permission.allow                "Permite">
 <!ENTITY permission.allowForSession      "Permite pentru sesiune">
+<!ENTITY permission.allowFirstPartyOnly  "Permiteți numai prima parte">
 <!ENTITY permission.block                "Blochează">
 
 <!ENTITY password.label                  "Stocheze parole">
@@ -41,9 +47,13 @@
 
 <!ENTITY geo.label                       "Împărtășește locația">
 
+<!ENTITY plugins.label                   "Module">
+
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Stocare pentru uz offline">
 
 <!ENTITY popup.label                     "Deschide ferestrele popup">
+
+<!ENTITY fullscreen.label                "Pe tot ecranul">
 

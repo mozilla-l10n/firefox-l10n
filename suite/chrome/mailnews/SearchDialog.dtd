@@ -1,4 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
+# toffee <daniel@toffee.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
@@ -8,8 +25,6 @@
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label           "Șterge">
 <!ENTITY resetButton.accesskey       "t">
-<!ENTITY helpButton.label            "Ajutor">
-<!ENTITY helpButton.accesskey        "A">
 <!ENTITY openButton.label            "Deschis">
 <!ENTITY openButton.accesskey        "D">
 <!ENTITY deleteButton.label          "Șterge elementul">
@@ -33,4 +48,3 @@
 <!ENTITY composeButton.label         "Compune">
 <!ENTITY composeButton.accesskey     "e">
 <!ENTITY abSearchDialogTitle.label   "Căutare avansată în agenda de contacte">
-

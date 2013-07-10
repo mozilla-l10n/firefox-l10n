@@ -1,3 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# strainu <crangasi2001@yahoo.com>
+# BuBBaX <mikebubbax@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
+# turcan <nicturcan@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Nu deschide ferestre popup de la acest sait">
 <!ENTITY popupWindowRejectCmd.accesskey "r">
@@ -13,6 +34,8 @@
 <!ENTITY openFrameCmd.accesskey       "D">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
 <!ENTITY openFrameCmdInTab.accesskey  "D">
+<!ENTITY keywordfield.label           "Add a Keyword for this Search…">
+<!ENTITY keywordfield.accesskey       "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY goBackCmd.label              "Înapoi">
@@ -29,8 +52,8 @@
 <!ENTITY reloadFrameCmd.label         "Reîncarcă cadrul">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vezi sursa selecției">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Sursă MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "l">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Vezi sursa MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vezi sursa paginii">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Vezi sursa cadrului">
@@ -45,6 +68,8 @@
 <!ENTITY reloadImageCmd.accesskey     "e">
 <!ENTITY viewImageCmd.label           "Vezi imaginea">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.label           "View Video">
+<!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Vezi imaginea de fundal">
 <!ENTITY viewBGImageCmd.accesskey     "V">
 <!ENTITY setWallpaperCmd.label        "Setează ca fundal pe ecran">
@@ -65,17 +90,13 @@
 <!ENTITY saveLinkAsCmd.label          "Salvează Legătura Ca">
 <!ENTITY saveLinkCmd.label            "Salvează ținta legăturii">
 <!ENTITY saveLinkCmd.accesskey        "r">
-<!ENTITY saveImageAsCmd.label         "Salvează imaginea ca…">
+<!ENTITY saveImageAsCmd.label         "Salvează imaginea ca...">
 <!ENTITY saveImageCmd.label           "Salvează imaginea">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY copyCmd.label                "Copiați">
-<!ENTITY copyCmd.accesskey            "C">
-<!ENTITY selectAllCmd.label           "Selectați tot">
-<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY copyLinkCmd.label            "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiază imaginea">
@@ -88,16 +109,6 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY pasteCmd.label               "Lipiți">
-<!ENTITY pasteCmd.accesskey           "p">
-<!ENTITY cutCmd.label                 "Tăiați">
-<!ENTITY cutCmd.accesskey             "T">
-<!ENTITY deleteCmd.label              "Șterge elementul">
-<!ENTITY deleteCmd.accesskey          "t">
-<!ENTITY undoCmd.label                "Anulează">
-<!ENTITY undoCmd.accesskey            "u">
-<!ENTITY redoCmd.label                "Refacere">
-<!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "Acest cadru">
 <!ENTITY thisFrameMenu.accesskey      "A">
 <!ENTITY mediaPlay.label              "Redare">
@@ -112,6 +123,8 @@
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Hide Media Controls">
 <!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY videoFullScreen.label        "Full Screen">
+<!ENTITY videoFullScreen.accesskey    "F">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Schimbă direcția paginii">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

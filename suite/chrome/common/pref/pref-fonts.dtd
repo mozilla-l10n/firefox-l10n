@@ -1,3 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# toffee <daniel@toffee.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from content/pref-fonts.xul -->
 
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
@@ -6,7 +25,7 @@
 <!ENTITY  language.label                          "Fonturi pentru:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  typefaces.label                         "Aspect font">
+<!ENTITY  typefaces.label                         "Tip de font">
 <!ENTITY  sizes.label                             "Mărime (pixeli)">
 
 <!ENTITY  proportional.label                      "Proporțional:">
@@ -26,26 +45,26 @@
 
 <!ENTITY  font.langGroup.latin1                   "Occidentală">
 <!ENTITY  font.langGroup.latin2                   "Central europeană">
-<!ENTITY  font.langGroup.japanese                 "Japaneză">
+<!ENTITY  font.langGroup.japanese                 "Japoneză">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese(Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chineză simplificată">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese(Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreeană">
 <!ENTITY  font.langGroup.cyrillic                 "Chirilică">
 <!ENTITY  font.langGroup.baltic                   "Baltică">
-<!ENTITY  font.langGroup.el                       "Grec">
-<!ENTITY  font.langGroup.turkish                  "Turcesc">
+<!ENTITY  font.langGroup.el                       "Greacă">
+<!ENTITY  font.langGroup.turkish                  "Turcă">
 <!ENTITY  font.langGroup.unicode                  "Alte limbi">
-<!ENTITY  font.langGroup.user-def                 "Definit de utilizator">
-<!ENTITY  font.langGroup.thai                     "Tailandez">
-<!ENTITY  font.langGroup.hebrew                   "Ebraic">
-<!ENTITY  font.langGroup.arabic                   "Arab">
+<!ENTITY  font.langGroup.user-def                 "Definită de utilizator">
+<!ENTITY  font.langGroup.thai                     "Tailandeză">
+<!ENTITY  font.langGroup.hebrew                   "Ebraică">
+<!ENTITY  font.langGroup.arabic                   "Arabă">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Swahili">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armeană">
-<!ENTITY  font.langGroup.bengali                  "Bengaleză">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Etiopiană">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
 <!ENTITY  font.langGroup.georgian                 "Georgiană">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">

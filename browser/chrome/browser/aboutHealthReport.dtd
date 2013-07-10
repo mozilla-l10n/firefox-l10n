@@ -1,0 +1,47 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Piratu <cfrussen@yahoo.co.uk>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- metrics.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY abouthealth.locale-direction "ltr">
+
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "&brandShortName; Raport de stare">
+<!ENTITY abouthealth.header "Raport de stare &brandFullName;">
+
+<!ENTITY abouthealth.intro.title "Ce este raportul de stare &brandShortName;?">
+
+<!ENTITY abouthealth.intro-enabled "&brandFullName; colectează anumite date despre calculatorul dumneavoastră și despre utilizare cu scopul de a vă putea oferi o mai bună experiență în navigare.">
+<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
+
+<!ENTITY abouthealth.optin "Ajută-ne să facem &brandShortName; mai bun">
+<!ENTITY abouthealth.optout "Oprește raportarea">
+
+<!ENTITY abouthealth.optout.confirmationPrompt.title "Opriți trimiterea de date?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+
+<!ENTITY abouthealth.show-raw-data "Afișează detaliile">
+<!ENTITY abouthealth.hide-raw-data "Ascunde detaliile">
+
+<!ENTITY abouthealth.show-report "Arată raport &brandShortName;">
+
+<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
+<!ENTITY abouthealth.details-link "află mai multe">
+<!ENTITY abouthealth.details.description-end " despre datele pe care le colectăm și trimitem.">
+<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+

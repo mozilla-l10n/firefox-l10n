@@ -7,14 +7,19 @@
 # Laudatti <Laudatti@gmail.com>
 # AdiJapan <adi.japan@yahoo.com>
 # alexef <alex@eftimie.ro>
+# evinteler <emil_vinteler2000@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestionar de suplimente">
 
 <!ENTITY search.placeholder                   "Caută în toate suplimentele">
@@ -138,7 +143,7 @@
 <!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii vă cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
 
 <!ENTITY detail.updateType                    "Actualizări automate">
-<!ENTITY detail.updateDefault.label           "Standard">
+<!ENTITY detail.updateDefault.label           "Implicit">
 <!ENTITY detail.updateDefault.tooltip         "Instalează automat actualizări doar dacă aceasta e setarea implicită">
 <!ENTITY detail.updateAutomatic.label         "Activată">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">

@@ -1,12 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# secarica <orice@secarica.ro>
-# Laudatti <Laudatti@gmail.com>
-# janimo <jani@ubuntu.com>
-# rsandu <razvan.sandu@zando.ro>
 # nicubunu <nicubunu@gmail.com>
+# secarica <orice@secarica.ro>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+# rsandu <razvan.sandu@zando.ro>
 # turcan <nicturcan@gmail.com>
 #
 -->
@@ -35,6 +39,8 @@
 <!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -91,8 +97,8 @@
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachment.label "Redenumește…">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY renameAttachmentCmd.label "Rename Attachment…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -282,10 +288,20 @@
 <!ENTITY delete.accesskey "t">
 <!ENTITY removeAttachment.label "Elimină anexa">
 <!ENTITY removeAttachment.accesskey "m">
+<!ENTITY renameAttachment.label "Redenumește…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Convert to…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Cancel Upload">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Regular Attachment">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Anexează pagină web…">
 <!ENTITY attachPage.accesskey "w">
 

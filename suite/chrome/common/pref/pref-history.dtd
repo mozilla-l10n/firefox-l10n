@@ -1,16 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# adiroiban <adiroiban@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  pref.history.title                "Istoric">
 
-<!ENTITY  pref.history.caption              "Istoric">
+<!ENTITY  pref.history.caption              "Istoric de navigare">
 <!ENTITY  historyPages.label                "History is a list of previously visited pages.">
-<!ENTITY  expireDaysMin1.label              "Always remember visited pages for at least">
-<!ENTITY  expireDaysMin1.accesskey          "r">
-<!ENTITY  expireDaysMin2.label              "zile">
-<!ENTITY  expireDays1.label                 "Remember visited pages for up to">
-<!ENTITY  expireDays1.accesskey             "e">
-<!ENTITY  expireDays2.label                 "zile">
-<!ENTITY  expireSites1.label                "Remember up to">
-<!ENTITY  expireSites1.accesskey            "m">
-<!ENTITY  expireSites2.label                "visited pages">
+<!ENTITY  enableHistory.label               "Remember visited pages">
+<!ENTITY  enableHistory.accesskey           "R">
 <!ENTITY  clearHistory.label                "Șterge istoric">
 <!ENTITY  clearHistory.accesskey            "s">
 
@@ -18,3 +28,9 @@
 <!ENTITY  clearLocationBar.label            "Clear the list of sites stored in the location bar menu.">
 <!ENTITY  clearLocationBarButton.label      "Clear Location Bar">
 <!ENTITY  clearLocationBarButton.accesskey  "L">
+<!ENTITY  formfillHistory.caption           "Form and Search History">
+<!ENTITY  enableFormfill.label              "Enable form and search history">
+<!ENTITY  enableFormfill.accesskey          "n">
+<!ENTITY  formfillExpire.label              "Remember form and search history for up to">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "days">

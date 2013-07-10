@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # strainu <narro@strainu.ro>
+# Nicu <kneekoo@yahoo.com>
 #
 -->
 <!--
@@ -31,7 +36,7 @@
 <!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
-<!ENTITY openHelp.commandkey "V">
+<!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ajutor pentru &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">

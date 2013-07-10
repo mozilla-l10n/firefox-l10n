@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY eventType.label "Event Type">
+<!ENTITY eventTime.label "Time">
+<!ENTITY eventNodeName.label "Node Name">
+<!ENTITY isWatched.label "Is watched">
+<!ENTITY clearEventList.label "Clear Event List">
+<!ENTITY chooseEventsToWatch.label "Choose events to watch">
+<!ENTITY selectAll.label "Select all">
+<!ENTITY unselectAll.label "Unselect all">
+

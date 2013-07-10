@@ -1,40 +1,22 @@
 <!--
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+# Translator(s):
 #
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
+# Sergiu Bivol <sbivol87@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
 #
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
+-->
+<!--
+# Reviewer(s):
 #
-# The Original Code is Mozilla Communicator client code.
+# Alexandru Szasz <alexxed@gmail.com>
 #
-# The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001-2007
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s): Daniel Brooks <db48x@yahoo.com>
-#                 Florian QUEZE <f.qu@queze.net>
-#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the LGPL or the GPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
+-->
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
@@ -46,7 +28,8 @@
 <!ENTITY  selectall.key         "a">
 <!ENTITY  selectall.label       "Selectați tot">
 <!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "c">
+<!ENTITY  openHelpMac.key       "?">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
@@ -60,8 +43,8 @@
 <!ENTITY  generalEncoding       "Codare:">
 <!ENTITY  generalMetaName       "Denumire">
 <!ENTITY  generalMetaContent    "Conținut">
-<!ENTITY  generalSecurityMore   "Mai multe">
-<!ENTITY  generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails           "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formă">
 <!ENTITY  formsTab.accesskey    "F">
@@ -93,15 +76,15 @@
 <!ENTITY  mediaAddress          "Adresă proprie">
 <!ENTITY  mediaType             "Tip:">
 <!ENTITY  mediaSize             "Mărimea">
-<!ENTITY  mediaCount            "Numără">
+<!ENTITY  mediaCount            "Count">
 <!ENTITY  mediaDimensions       "Dimensiuni specificate:">
 <!ENTITY  mediaPhysDimensions   "Dimensiuni reale:">
 <!ENTITY  mediaTitle            "Denumire:">
 <!ENTITY  mediaLongdesc         "Descriere lungă:">
-<!ENTITY  mediaBlockImage.accesskey "R">
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvează ca…">
 <!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "l">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previzualizare media:">
 
 <!ENTITY  feedTab               "Feed-uri">
@@ -112,6 +95,7 @@
 <!ENTITY  permTab               "Permisiuni">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Folosește setările implicite">
+<!ENTITY  permAskAlways         "Always ask">
 <!ENTITY  permAllow             "Permite">
 <!ENTITY  permAllowSession      "Permite pentru sesiune">
 <!ENTITY  permBlock             "Blochează">
@@ -120,6 +104,7 @@
 <!ENTITY  permPopup             "Deschide ferestrele popup">
 <!ENTITY  permCookie            "Setează cookie-uri">
 <!ENTITY  permInstall           "Instalează extensii sau teme">
+<!ENTITY  permGeo               "Share Location">
 
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">
@@ -130,9 +115,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identitate sait web">
-<!ENTITY  securityView.identity.owner    "Proprietar:">
+<!ENTITY  securityView.identity.owner    "Owner: ">
 <!ENTITY  securityView.identity.domain   "Sait web:">
-<!ENTITY  securityView.identity.verifier "Verificat de:">
+<!ENTITY  securityView.identity.verifier "Verified by: ">
 
 <!ENTITY  securityView.privacy.header                   "Intimitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am mai vizitat acest sait astăzi?">

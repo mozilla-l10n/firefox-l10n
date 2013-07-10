@@ -2,14 +2,20 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setați &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
@@ -46,8 +52,8 @@
 <!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Nume calculator:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncDeviceName.label       "Nume dispozitiv:">
+<!ENTITY syncDeviceName.accesskey   "d">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 
 <!-- Footer stuff -->

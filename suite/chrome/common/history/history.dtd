@@ -1,11 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# toffee <daniel@toffee.ro>
+# BuBBaX <mikebubbax@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
 <!ENTITY historyWindowTitle.label       "Istoric">
-<!ENTITY menuBar.tooltip                "Bară meniu">
+<!ENTITY menuBar.tooltip                "Bara meniului">
 <!ENTITY searchBar.tooltip              "Bară de căutare">
 
-<!ENTITY search.emptytext               "Caută în Istoric">
-<!ENTITY search.key                     "d">
+<!ENTITY search.placeholder             "Search History">
+<!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Vizualizează jurnal">
 
 <!ENTITY view.columns.label             "Arată coloanele">
