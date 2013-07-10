@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Bảo mật">
 <!ENTITY securityTab.label "Bảo mật">
 <!ENTITY securityHeading.label "Để gửi và nhận thư mật hóa hoặc có chữ kí, bạn cần phải xác định cả chứng thư chữ kí điện tử lẫn chứng thư mật hóa.">

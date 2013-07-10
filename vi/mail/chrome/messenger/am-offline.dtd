@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "Để tiết kiệm dung lượng đĩa, không tải:">
 <!ENTITY doNotDownloadNntp.label "Để tiết kiệm dung lượng đĩa, không tải xuống để dùng ngoại tuyến:">
 <!ENTITY doNotDownloadImap.label "Để tiết kiệm dung lượng đĩa, việc tải thư từ máy chủ và giữ bản sao ngoại tuyến có thể được giới hạn theo thời gian hoặc dung lượng.">

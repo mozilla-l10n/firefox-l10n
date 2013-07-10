@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "Thiết lập Thư rác">
 <!ENTITY trainingWarning.label "Nếu kích hoạt, đầu tiên bạn phải luyện cho &brandShortName; nhận dạng thư rác bằng cách dùng nút thanh công cụ Thư rác để đánh dấu các thư rác. Bạn cũng cần chỉ rõ đâu là thư rác và đâu là thư bình thường.">
 <!ENTITY level.label "Kích hoạt nút điều khiển thư rác tích hợp cho tài khoản này">

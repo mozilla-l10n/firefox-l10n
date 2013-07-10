@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY attachmentReminderDialog.title   "Từ khóa để Nhắc về Đính kèm">
 <!ENTITY attachKeywordText.label          "&brandShortName; sẽ báo cho bạn là đang thiếu phần đính kèm khi nào gửi e-mail chứa một trong những từ khóa này.">
 <!ENTITY addKeywordButton.label           "Thêm">
