@@ -8,7 +8,7 @@
 <!ENTITY sync.connected             "Conèsso">
 <!ENTITY sync.details               "Detàlli">
 <!ENTITY sync.deviceName            "St'aparâto">
-<!ENTITY sync.disconnect            "Disconésso">
+<!ENTITY sync.disconnect            "Disconèsso">
 <!ENTITY sync.syncNow               "Scincronìzza òua">
 
 <!ENTITY sync.setup.title           "Conétti a Sync">
