@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "M">
 <!ENTITY searchStartTyping.label         "Suche bereits beim Eintippen starten">
 <!ENTITY searchStartTyping.accesskey     "u">
-<!ENTITY blockAutoRefresh.label          "Warnen, wenn Websites versuchen umzuleiten oder neuzuladen">
+<!ENTITY blockAutoRefresh.label          "Warnen, wenn Webseiten versuchen umzuleiten oder neuzuladen">
 <!ENTITY blockAutoRefresh.accesskey      "W">
 
 <!ENTITY browsing.label                  "Browsing">
