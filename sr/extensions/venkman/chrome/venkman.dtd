@@ -1,118 +1,58 @@
-<!--
-   -
-   - ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is The JavaScript Debugger.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Robert Ginda, <rginda@netscape.com>, original author
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY MainWindow.title "Дебагер за јаваскрипт">
-<!-- floating views -->
-
-<!ENTITY ViewFloat.tooltip "Притисните овде да закачите или откачите овај поглед">
-<!ENTITY ViewGrippy.tooltip "Повуците насловну линију да помакнете овај поглед">
-<!ENTITY ViewClose.tooltip "Притисните овде да затворите овај поглед">
-<!-- help menu -->
-
-<!ENTITY Help.commands "Приручник о командама">
-<!ENTITY Help.about "О венкману">
-<!-- toolips -->
-
-<!ENTITY DebugBar.tooltip "Алатна трага за дебагер">
-<!ENTITY MenuBar.tooltip "Трака са менијем">
-<!-- breakpoint view -->
-
-<!ENTITY Break.label "преломне тачке (breakpoints)">
-<!ENTITY BreakCol0.label "Име">
-<!ENTITY BreakCol1.label "Ред/ПБ">
-<!-- locals view -->
-
-<!ENTITY Locals.label "Локалне променљиве">
-<!ENTITY LocalsCol0.header "Име">
-<!ENTITY LocalsCol1.header "Тип">
-<!ENTITY LocalsCol2.header "Вредност">
-<!ENTITY LocalsCol3.header "Заставице">
-<!-- session view -->
-
-<!ENTITY Session.label "Интерактивна сесија">
-<!-- script view -->
-
-<!ENTITY Scripts.label "Учитани скриптови">
-<!ENTITY ScriptsSearch.label "Претрага">
-<!ENTITY ScriptsSearch.tooltip "Притисните овде да очистите поље за претрагу">
-<!ENTITY ScriptsCol0.header "Име">
-<!ENTITY ScriptsCol1.header "Ред">
-<!ENTITY ScriptsCol2.header "Дужина">
-<!-- source view -->
-
-<!ENTITY Source.label "Изворни код">
-<!ENTITY SourceHeader.tip "Алатна трака изворног кода">
-<!ENTITY SourceCol0.display "Маргина">
-<!ENTITY SourceCol1.display "Број реда">
-<!-- stack view -->
-
-<!ENTITY Stack.label "Стек позива">
-<!ENTITY StackCol0.header "Име">
-<!ENTITY StackCol1.header "Место">
-<!-- watch view -->
-
-<!ENTITY Watch.label "Присмотре">
-<!ENTITY WatchCol0.header "Име">
-<!ENTITY WatchCol1.header "Тип">
-<!ENTITY WatchCol2.header "Вредност">
-<!ENTITY WatchCol3.header "Заставице">
-<!-- window view -->
-
-<!ENTITY Windows.label "Отвори прозоре">
-<!ENTITY WindowsCol0.label "Датотека">
-<!-- breakpoint properties window -->
-
-<!ENTITY BPProps.URL.label "УРЛ (URL)">
-<!ENTITY BPProps.Line.label "Ред">
-<!ENTITY BPProps.PC.label "ПБ (PC)">
-<!ENTITY BPProps.FunctionName.label "Функција">
-<!ENTITY BPProps.TriggerCount.label "Број окидања">
-<!ENTITY BPProps.OneTime.label "Уклони преломну тачку после првог окидања">
-<!ENTITY BPProps.Then.label "а онда…">
-<!ENTITY BPProps.ConditionalCheck.label "Изврши при окидању…">
-<!ENTITY BPProps.NeverStopRadio.label "Настави без обзира на резултат">
-<!ENTITY BPProps.AlwaysStopRadio.label "Стани без обзира на резултат">
-<!ENTITY BPProps.ConditionalBreakRadio.label "Стани ако је резултат тачна истинитосна вредност">
-<!ENTITY BPProps.EarlyReturnRadio.label "Врати се превремено из функције, са резултатом">
 <!ENTITY BPProps.PassExceptionsCheck.label "Достави изузетке позивачу">
-<!ENTITY BPProps.LogResultCheck.label "Забележи резултат">
-<!ENTITY BPProps.Apply.label "Примени">
-<!ENTITY BPProps.Revert.label "Врати">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Стани ако је резултат тачна истинитосна вредност">
+<!ENTITY BPProps.FunctionName.label "Функција">
+<!ENTITY LocalsCol1.header "Тип">
+<!ENTITY DebugBar.tooltip "Алатна трага за дебагер">
+<!ENTITY BPProps.PC.label "ПБ (PC)">
+<!ENTITY WatchCol3.header "Заставице">
+<!ENTITY LocalsCol3.header "Заставице">
+<!ENTITY WindowsCol0.label "Датотека">
+<!ENTITY WatchCol2.header "Вредност">
+<!ENTITY Help.about "О венкману">
+<!ENTITY ViewClose.tooltip "Притисните овде да затворите овај поглед">
 <!ENTITY BPProps.Close.label "Затвори">
-
+<!ENTITY Help.commands "Приручник о командама">
+<!ENTITY WatchCol1.header "Тип">
+<!ENTITY Break.label "преломне тачке (breakpoints)">
+<!ENTITY BPProps.EarlyReturnRadio.label "Врати се превремено из функције, са резултатом">
+<!ENTITY BPProps.Then.label "а онда…">
+<!ENTITY WatchCol0.header "Име">
+<!ENTITY Session.label "Интерактивна сесија">
+<!ENTITY ScriptsCol2.header "Дужина">
+<!ENTITY BPProps.URL.label "УРЛ (URL)">
+<!ENTITY MainWindow.title "Дебагер за јаваскрипт">
+<!ENTITY BPProps.OneTime.label "Уклони преломну тачку после првог окидања">
+<!ENTITY ScriptsCol0.header "Име">
+<!ENTITY BreakCol1.label "Ред/ПБ">
+<!ENTITY BPProps.Line.label "Ред">
+<!ENTITY StackCol1.header "Место">
+<!ENTITY ViewFloat.tooltip "Притисните овде да закачите или откачите овај поглед">
+<!ENTITY Locals.label "Локалне променљиве">
+<!ENTITY Windows.label "Отвори прозоре">
+<!ENTITY BPProps.Revert.label "Врати">
+<!ENTITY ScriptsCol1.header "Ред">
+<!ENTITY ViewGrippy.tooltip "Повуците насловну линију да помакнете овај поглед">
+<!ENTITY MenuBar.tooltip "Трака са менијем">
+<!ENTITY BPProps.NeverStopRadio.label "Настави без обзира на резултат">
+<!ENTITY Source.label "Изворни код">
+<!ENTITY BPProps.ConditionalCheck.label "Изврши при окидању…">
+<!ENTITY SourceCol1.display "Број реда">
+<!ENTITY BPProps.AlwaysStopRadio.label "Стани без обзира на резултат">
+<!ENTITY SourceCol0.display "Маргина">
+<!ENTITY SourceHeader.tip "Алатна трака изворног кода">
+<!ENTITY ScriptsSearch.label "Претрага">
+<!ENTITY BreakCol0.label "Име">
+<!ENTITY Scripts.label "Учитани скриптови">
+<!ENTITY BPProps.Apply.label "Примени">
+<!ENTITY LocalsCol2.header "Вредност">
+<!ENTITY Stack.label "Стек позива">
+<!ENTITY BPProps.TriggerCount.label "Број окидања">
+<!ENTITY Watch.label "Присмотре">
+<!ENTITY BPProps.LogResultCheck.label "Забележи резултат">
+<!ENTITY StackCol0.header "Име">
+<!ENTITY ScriptsSearch.tooltip "Притисните овде да очистите поље за претрагу">
+<!ENTITY LocalsCol0.header "Име">

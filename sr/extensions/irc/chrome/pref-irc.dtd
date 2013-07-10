@@ -1,8 +1,11 @@
-<!ENTITY pref-irc.window.title "четзила">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref-irc.open.title "Поставке за четзилу">
-<!ENTITY pref-irc.open.desc "Поставке за четзилу су сувише бројне да би биле уклопљене у прозоре са поставкама.  Зато, уместо тога, можете да отворите поставке одавде.">
-<!ENTITY pref-irc.open.label "Отвори четзилине поставке">
-<!ENTITY pref-irc.open.accesskey "О">
-<!ENTITY startup.chat.label "четзила">
 <!ENTITY startup.chat.accesskey "з">
+<!ENTITY pref-irc.window.title "четзила">
+<!ENTITY pref-irc.open.accesskey "О">
+<!ENTITY pref-irc.open.desc "Поставке за четзилу су сувише бројне да би биле уклопљене у прозоре са поставкама.  Зато, уместо тога, можете да отворите поставке одавде.">
+<!ENTITY pref-irc.open.title "Поставке за четзилу">
+<!ENTITY startup.chat.label "четзила">
+<!ENTITY pref-irc.open.label "Отвори четзилине поставке">

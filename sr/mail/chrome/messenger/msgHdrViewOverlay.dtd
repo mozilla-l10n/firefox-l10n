@@ -1,120 +1,79 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY toField2.label "прима ">
-<!ENTITY fromField2.label "шаље ">
-<!ENTITY senderField2.label "пошиљалац ">
-<!ENTITY organizationField2.label "организација ">
-<!ENTITY replyToField2.label "одровор-на">
-
-<!ENTITY subjectField2.label "тема ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "бкоп ">
-<!ENTITY newsgroupsField2.label "групе ">
-<!ENTITY followupToField2.label "проследи-на ">
-<!ENTITY tagsHdr2.label "ознаке ">
-<!ENTITY dateField2.label "датум ">
-<!ENTITY userAgentField2.label "кор-агент ">
-<!ENTITY referencesField2.label "обраћања ">
-<!ENTITY messageIdField2.label "ид-поруке ">
+<!ENTITY hdrViewToolbarShowText.accesskey "т">
 <!ENTITY inReplyToField2.label "у-одговор-на ">
-<!ENTITY originalWebsite2.label "веб сајт ">
-
-<!ENTITY editMessageDescription.label "Ово је нацрт поруке">
-<!ENTITY editMessageButton.label "Уређивање…">
-<!ENTITY hdrArchiveButton.label "архивирај">
+<!ENTITY markAsReadMenuItem.accesskey "п">
+<!ENTITY hdrForwardButton.label "проследи">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
+<!ENTITY messageIdField2.label "ид-поруке ">
+<!ENTITY openAttachmentCmd.label "Отвори">
 <!ENTITY hdrArchiveButton.tooltip "архивирај ову поруку">
+<!ENTITY otherActionsPrint.accesskey "ш">
+<!ENTITY otherActionsPrint.label "штампа…">
+<!ENTITY otherActionsOpenInNewWindow.label "отвори у новом прозору">
+<!ENTITY hdrJunkButton.label "нежељено">
+<!ENTITY saveAsMenuItem.label "сачувај као…">
+<!ENTITY saveAsAttachmentCmd.accesskey "к">
+<!ENTITY subjectField2.label "тема ">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "л">
+<!ENTITY copyLinkCmd.label "Умножи везу">
+<!ENTITY otherActionsOpenInNewTab.accesskey "ј">
+<!ENTITY followupToField2.label "проследи-на ">
+<!ENTITY saveAllAttachmentsCmd.accesskey "С">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
+<!ENTITY otherActionsButton.label "друга дејства">
+<!ENTITY hdrViewToolbarShowText.label "Покажи само текст">
+<!ENTITY deleteAttachmentCmd.label "Уклони">
+<!ENTITY saveAsMenuItem.accesskey "с">
+<!ENTITY saveAllAttachmentsCmd.label "Сачувај све…">
+<!ENTITY dateField2.label "датум ">
+<!ENTITY toField2.label "прима ">
+<!ENTITY markAsUnreadMenuItem.label "означи као непрочитано">
+<!ENTITY tagsHdr2.label "ознаке ">
+<!ENTITY deleteAllAttachmentsCmd.label "Уклони све…">
+<!ENTITY viewSourceMenuItem.accesskey "п">
+<!ENTITY replyToField2.label "одровор-на">
+<!ENTITY hdrViewToolbarShowFull.label "Покажи слике и текст">
+<!ENTITY hdrReplyAllButton.tooltip "одговор пошиљаоцу и свим примаоцима">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Увек приказуј дугме за одговор пошиљаоцу">
+<!ENTITY markAsUnreadMenuItem.accesskey "н">
+<!ENTITY hdrViewToolbarShowFull.accesskey "с">
+<!ENTITY OpenBrowserWithMsgId.label "Отвори читач са поруком ИД">
+<!ENTITY CopyMessageId.label "Умножи ИД поруке">
+<!ENTITY copyLinkCmd.accesskey "в">
+<!ENTITY ccField2.label "cc ">
+<!ENTITY detachAttachmentCmd.label "Откачи…">
+<!ENTITY detachAllAttachmentsCmd.label "Откачи све…">
+<!ENTITY hdrViewToolbarShowIcons.label "Покажи само слике">
+<!ENTITY fromField2.label "шаље ">
+<!ENTITY originalWebsite2.label "веб сајт ">
+<!ENTITY saveAsAttachmentCmd.label "Сачувај као…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "О">
+<!ENTITY viewSourceMenuItem.label "преглед кода">
+<!ENTITY hdrForwardButton.tooltip "прослеђивање ове поруке">
+<!ENTITY organizationField2.label "организација ">
+<!ENTITY hdrReplyAllButton.label "одговор свима">
+<!ENTITY hdrTrashButton.tooltip "уклања ову поруку">
+<!ENTITY otherActionsOpenInNewTab.label "отвори у новом језичку">
+<!ENTITY editMessageDescription.label "Ово је нацрт поруке">
 <!ENTITY hdrReplyButton.label "одговор">
 <!ENTITY hdrReplyButton.tooltip "одговор на ову поруку">
-<!ENTITY hdrReplyAllButton.label "одговор свима">
-<!ENTITY hdrReplyAllButton.tooltip "одговор пошиљаоцу и свим примаоцима">
-<!ENTITY hdrReplyListButton.label "одговор на листу">
-<!ENTITY hdrReplyListButton.tooltip "одговор на дописну листу">
-<!ENTITY hdrForwardButton.label "проследи">
-<!ENTITY hdrForwardButton.tooltip "прослеђивање ове поруке">
-<!ENTITY hdrJunkButton.label "нежељено">
-<!ENTITY hdrJunkButton.tooltip "означава поруку као непожељну">
-<!ENTITY hdrTrashButton.label "уклони">
-<!ENTITY hdrTrashButton.tooltip "уклања ову поруку">
-
-<!ENTITY hdrViewToolbarShowFull.label "Покажи слике и текст">
-<!ENTITY hdrViewToolbarShowFull.accesskey "с">
-<!ENTITY hdrViewToolbarShowIcons.label "Покажи само слике">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "л">
-<!ENTITY hdrViewToolbarShowText.label "Покажи само текст">
-<!ENTITY hdrViewToolbarShowText.accesskey "т">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Увек приказуј дугме за одговор пошиљаоцу">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
-
-<!ENTITY otherActionsButton.label "друга дејства">
 <!ENTITY otherActionsOpenConversation.label "open in conversation">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "отвори у новом прозору">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
-<!ENTITY otherActionsOpenInNewTab.label "отвори у новом језичку">
-<!ENTITY otherActionsOpenInNewTab.accesskey "ј">
 <!ENTITY markAsReadMenuItem.label "означи као прочитано">
-<!ENTITY markAsReadMenuItem.accesskey "п">
-<!ENTITY markAsUnreadMenuItem.label "означи као непрочитано">
-<!ENTITY markAsUnreadMenuItem.accesskey "н">
-<!ENTITY saveAsMenuItem.label "сачувај као…">
-<!ENTITY saveAsMenuItem.accesskey "с">
-<!ENTITY viewSourceMenuItem.label "преглед кода">
-<!ENTITY viewSourceMenuItem.accesskey "п">
-<!ENTITY otherActionsPrint.label "штампа…">
-<!ENTITY otherActionsPrint.accesskey "ш">
-
-<!ENTITY openAttachmentCmd.label    "Отвори">
-<!ENTITY openAttachmentCmd.accesskey    "О">
-<!ENTITY saveAsAttachmentCmd.label    "Сачувај као…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "к">
-<!ENTITY detachAttachmentCmd.label    "Откачи…">
-<!ENTITY deleteAttachmentCmd.label    "Уклони">
-<!ENTITY saveAllAttachmentsCmd.label    "Сачувај све…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "С">
-<!ENTITY detachAllAttachmentsCmd.label    "Откачи све…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "О">
-<!ENTITY deleteAllAttachmentsCmd.label    "Уклони све…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "У">
-
-<!ENTITY copyLinkCmd.label        "Умножи везу">
-<!ENTITY copyLinkCmd.accesskey    "в">
-
-<!ENTITY CopyMessageId.label "Умножи ИД поруке">
+<!ENTITY bccField2.label "бкоп ">
+<!ENTITY senderField2.label "пошиљалац ">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "У">
+<!ENTITY editMessageButton.label "Уређивање…">
+<!ENTITY hdrJunkButton.tooltip "означава поруку као непожељну">
+<!ENTITY hdrReplyListButton.tooltip "одговор на дописну листу">
+<!ENTITY hdrTrashButton.label "уклони">
+<!ENTITY newsgroupsField2.label "групе ">
+<!ENTITY hdrArchiveButton.label "архивирај">
 <!ENTITY OpenMessageForMsgId.label "Отвори поруку по ИДу">
-<!ENTITY OpenBrowserWithMsgId.label "Отвори читач са поруком ИД">
+<!ENTITY openAttachmentCmd.accesskey "О">
+<!ENTITY userAgentField2.label "кор-агент ">
+<!ENTITY referencesField2.label "обраћања ">
+<!ENTITY hdrReplyListButton.label "одговор на листу">

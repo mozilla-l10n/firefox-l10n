@@ -1,7 +1,11 @@
-<!ENTITY window.title "Прилагоди заглавља">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addButton.label "Додај">
-<!ENTITY addButton.accesskey "Д">
-<!ENTITY removeButton.label "Уклони">
 <!ENTITY removeButton.accesskey "У">
+<!ENTITY removeButton.label "Уклони">
 <!ENTITY newMsgHeader.label "Ново заглавље поруке:">
+<!ENTITY addButton.accesskey "Д">
 <!ENTITY newMsgHeader.accesskey "Н">
+<!ENTITY window.title "Прилагоди заглавља">
