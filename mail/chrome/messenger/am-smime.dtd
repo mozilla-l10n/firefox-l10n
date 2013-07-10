@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "ආරක්ෂාව">
 <!ENTITY securityTab.label "ආරක්ෂාව">
 <!ENTITY securityHeading.label "ඩිජිටල් අත්සන සහිත ලිපි හෝ සංකේතනය (encryption) කළ ලිපි ලැබීමට හා යැවීමට ඩිජිටල් අත්සන් සහතිකය හා සංකේතන සහතිකය අවශ්‍යය.">

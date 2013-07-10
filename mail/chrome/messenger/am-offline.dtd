@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
 <!ENTITY doNotDownloadNntp.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා බාගත නොකරන්න:">
 <!ENTITY doNotDownloadImap.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීම සඳහා, අසම්බන්ධිතව භාවිතා කිරීමට ලිපි බාගත කර සමීප පිටපත් (local copies) තබා ගැනීම ලිපියේ වයස හා ප්‍රමාණය අනුව සීමා කළ හැකිය.">
