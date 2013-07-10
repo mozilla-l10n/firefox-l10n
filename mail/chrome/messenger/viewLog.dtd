@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY viewLog.title "ফিল্টার কার্যবিবরণী করুন">
 <!ENTITY viewLogInfo.text "ফিল্টার লগ ফিল্টার এই একাউন্টের জন্য চালানো হয়েছে নথি. চেক বক্সে নিচের লগিং ব্যবহার করুন.">
 <!ENTITY clearLog.label "পরিষ্কার কার্যবিবরণী করুন">

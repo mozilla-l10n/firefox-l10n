@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY blocklist.title             "অতিরিক্ত সামগ্রীর জন্য সমস্যা দেখা দিতে পারে">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; দ্বারা চিহ্নিত নিম্নলিখিত অতিরিক্ত সামগ্রীগুলির কারণে স্থায়ীত্ব ও নিরাপত্তা সংক্রান্ত সমস্যা দেখা দেয়:">

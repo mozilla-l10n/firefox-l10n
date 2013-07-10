@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "অপ্রয়োজনীয় সেটিংস">
 <!ENTITY trainingWarning.label "যদি সক্রিয়, আপনার ট্রেন  প্রথম;অপ্রয়োজনীয় অথবা হিসেবে বার্তা চিহ্নিত করতে অপ্রয়োজনীয়  টুলবার বাটন ব্যবহার করার মধ্যেঅপ্রয়োজনীয় মেইল সনাক্ত করতে না। আপনি উভয় অপ্রয়োজনীয় এবং অপ্রয়োজনীয় নয়বার্তা সনাক্ত করতে প্রয়োজন বোধ করুন।.">
 <!ENTITY level.label "এই অ্যাকাউন্টের জন্য অভিযোজিত জাঙ্ক মেইল নিয়ন্ত্রণ সক্রিয়">
