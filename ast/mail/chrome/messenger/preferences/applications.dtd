@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY typeColumn.label "Triba de conteníu">
+<!ENTITY typeColumn.accesskey "T">
+<!ENTITY actionColumn2.label "Aición">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.placeholder "Guetar">
+<!ENTITY saveTo.label "Guardar ficheros en">
+<!ENTITY saveTo.accesskey "G">
+<!ENTITY alwaysAsk.label "Entrugame siempre aú guardar ficheros">
+<!ENTITY alwaysAsk.accesskey "P">
+<!ENTITY chooseFolderWin.label "Desaminar…">
+<!ENTITY chooseFolderWin.accesskey "s">
+<!ENTITY chooseFolderMac.label "Elexir…">
+<!ENTITY chooseFolderMac.accesskey "E">
+<!ENTITY attachments.incoming.label "Entrante">
+<!ENTITY attachments.outgoing.label "Saliente">
+<!ENTITY addCloudFileAccount.label "Amestar">
+<!ENTITY addCloudFileAccount.accesskey "A">
+<!ENTITY addCloudFileAccount.description "Amestar un serviciu nuevu d'almacenamientu Filelink">
+<!ENTITY removeCloudFileAccount.label "Desaniciar">
+<!ENTITY removeCloudFileAccount.accesskey "n">
+<!ENTITY authRequired.description "Requierse la to autorización pa ver les opciones d'esti serviciu d'almacenamientu.">
+<!ENTITY authRequired.button.label "Autorizar">
+<!ENTITY authRequired.button.accesskey "o">
+<!ENTITY enableCloudFileAccountOffer.label "Ufrilu pa compartir ficheros mayores de">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY downloads.title "Descargues">
 <!ENTITY cmd.pause.label "Posar">
 <!ENTITY cmd.pause.accesskey "P">
@@ -20,11 +24,11 @@
 <!ENTITY downloadsHistory.accesskey "S">
 <!ENTITY downloadDetails.width "50ch">
 <!ENTITY downloadsSummary.minWidth2 "21ch">
+<!ENTITY downloadsListNoMatch.label "Nun s'atopen desgargues que concasen.">
+<!ENTITY downloadsListEmpty.label "Nun hai descargues.">
 <!ENTITY cmd.removeFromHistory.label "Desaniciar del historial">
 <!ENTITY cmd.removeFromHistory.accesskey "e">
 <!ENTITY cmd.clearDownloads.label "Llimpiar descargues">
 <!ENTITY cmd.clearDownloads.accesskey "D">
 <!ENTITY clearDownloadsButton.tooltip "Llimpia les descargues completes, encaboxaes y fallíes">
 <!ENTITY clearDownloadsButton.label "Llimpiar descargues">
-<!ENTITY downloadsListNoMatch.label "Nun s'atopa denguan descarga que concase.">
-<!ENTITY downloadsListEmpty.label "Nun hai descargues.">

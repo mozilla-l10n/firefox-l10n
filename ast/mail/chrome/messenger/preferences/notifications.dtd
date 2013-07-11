@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY notificationsDialog2.title "Personalizar avisu de corréu nuevu">
+<!ENTITY window.width "30em">
+<!ENTITY alertCustomization.intro "Esbilla qué campos amosar na notificación d'avisu:">
+<!ENTITY previewText.label "Testu de previsualización de mensaxe">
+<!ENTITY previewText.accesskey "T">
+<!ENTITY subject.label "Asuntu">
+<!ENTITY subject.accesskey "A">
+<!ENTITY sender.label "Remitente">
+<!ENTITY sender.accesskey "R">
+<!ENTITY totalOpenTimeEnd.label "segundos">
+<!ENTITY totalOpenTimeBefore.label "Amosar alertes de corréu nuevu mentanto">
+<!ENTITY totalOpenTimeBefore.accesskey "M">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY safeModeDialog.title         "Mou seguru de &brandShortName;">
 <!ENTITY window.maxWidth "400">
 <!ENTITY startSafeMode.label "Aniciar en Mou seguru">
@@ -8,3 +12,4 @@
 <!ENTITY autoSafeModeDescription2.label "&brandShortName; zarróse de mou inesperáu mentanto se aniciaba. Esto pue debese a complementos instalaos u otros problemes. Pues intentar iguar el problema restableciendo &brandShortName; al so estáu predetermináu o intentar solucionar problemes nel Mou seguru.">
 <!ENTITY resetProfileFooter.label "Tolo demás va restaurase a los valores de fábrica.">
 <!ENTITY safeModeInstead.label "Si nun quies esto, pues continuar en Mou seguru pa intentar iguar los problemes colos complementos y les tos preferencies desactivaes temporalmente.">
+

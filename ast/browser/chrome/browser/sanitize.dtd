@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY sanitizePrefs2.title          "Axustes pa la llimpieza d'historial">
 <!ENTITY sanitizeDialog2.title         "Llimpiar l'historial reciente">
 
@@ -33,8 +37,6 @@ that require it.  -->
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Historial de navegación y descargues">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
-<!ENTITY itemBrowsingHistory.label         "Historial">
-<!ENTITY itemBrowsingHistory.accesskey     "H">
 <!ENTITY itemFormSearchHistory.label       "Formularios guardaos y historial de guetes">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemPasswords.label               "Contraseñes guardaes">
@@ -45,8 +47,6 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Datos de sitios web ensin conexón">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Historial de descargues">
-<!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label            "Sesiones actives">
 <!ENTITY itemActiveLogins.accesskey        "S">
 <!ENTITY itemSitePreferences.label         "Preferencies del sitiu">
@@ -57,5 +57,5 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta aición nun puede desfacese.">
 
-<!ENTITY dialog.width                 "29em">
-<!ENTITY column.width                 "14em">
+<!ENTITY dialog.width2 "34em">
+<!ENTITY column.width2 "17em">

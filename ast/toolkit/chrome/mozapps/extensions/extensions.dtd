@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle "Alministrador de complementos">
 <!ENTITY search.placeholder "Guetar complementos">
 <!ENTITY search.commandkey "f">
@@ -22,14 +26,15 @@
 <!ENTITY warning.updatesecurity.enable.tooltip "Activar comprobación de seguridá de complementos">
 <!ENTITY view.search.label "Guetar">
 <!ENTITY view.discover.label "Obtener complementos">
+<!ENTITY info.plugincheck.label "Marca pa ver si los plugins tán anovaos">
+<!ENTITY info.plugincheck.tooltip "Marca pa ver si los plugins tán anovaos">
+
+
 <!ENTITY view.recentUpdates.label "Anovamientos recientes">
 <!ENTITY view.availableUpdates.label "Anovamientos disponibles">
 <!ENTITY updates.checkForUpdates.label "Guetar anovamientos">
 <!ENTITY updates.checkForUpdates.accesskey "G">
 <!ENTITY updates.viewUpdates.label "Ver anovamientos recientes">
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Comprobar si los tos complementos tán desfasaos">
-<!ENTITY info.plugincheck.tooltip               "Comprobar si los tos complementos tán desfasaos">
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY updates.updateAddonsAutomatically.label "Anovar complementos automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
@@ -149,3 +154,10 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Aceutar ya instalar…">
 <!ENTITY settings.path.button.label "Desaminar…">
+<!ENTITY cmd.stateMenu.tooltip "Camudar cuando s'execute esti complementu">
+<!ENTITY cmd.neverActivate.tooltip "Nun usar nunca esti complementu">
+<!ENTITY cmd.neverActivate.label "Nun activar nunca">
+<!ENTITY cmd.askToActivate.tooltip "Entrugar cada vegada si usar esti complementu">
+<!ENTITY cmd.askToActivate.label "Entrugar p'activar">
+<!ENTITY cmd.alwaysActivate.tooltip "Usar siempre esti complementu">
+<!ENTITY cmd.alwaysActivate.label "Activar siempre">

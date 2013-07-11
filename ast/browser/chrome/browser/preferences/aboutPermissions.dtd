@@ -1,36 +1,27 @@
-<!ENTITY permissionsManager.title        "Xestor de permisos">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sites.search                    "Guetar Sitios">
-<!ENTITY sites.allSites                  "Tolos sitios">
-
-<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
-     surround the host name of the site to make the header for the permissions page.
-     example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Permisos pa">
-<!ENTITY header.site.end                 "">
-
-<!ENTITY header.defaults                 "Permisos predefiníos pa tolos sitios">
-
-<!ENTITY permissions.forgetSite          "Escaecer tocante a esti sitiu">
-
-<!ENTITY permission.alwaysAsk            "Entrugar siempre">
-<!ENTITY permission.allow                "Permitir">
-<!ENTITY permission.allowForSession      "Permitir pa sesión">
-<!ENTITY permission.block                "Bloquiar">
-
-<!ENTITY password.label                  "Atroxar contraseñes">
-<!ENTITY password.manage                 "Remanar contraseñes…">
-
-<!ENTITY cookie.label                    "Afitar Cookies">
-<!ENTITY cookie.remove                   "Desaniciar Cookies">
-<!ENTITY cookie.manage                   "Remanar Cookies…">
-<!ENTITY cookie.removeAll                "Desaniciar toles Cookies">
-<!ENTITY geo.label                       "Compartir llocalización">
+<!ENTITY permissionsManager.title "Alministrador de permisos">
+<!ENTITY sites.search "Guetar sitios">
+<!ENTITY sites.allSites "Tolos sitios">
+<!ENTITY header.site.start "Permisos pa">
+<!ENTITY header.site.end "">
+<!ENTITY header.defaults "Permisos por defeutu pa tolos sitios">
+<!ENTITY permissions.forgetSite "Escaecer esti sitiu web">
+<!ENTITY permission.alwaysAsk "Entrugar siempre">
+<!ENTITY permission.allow "Permitir">
+<!ENTITY permission.allowForSession "Permitir pa la sesión">
+<!ENTITY permission.block "Bloquiar">
+<!ENTITY password.label "Guardar contraseñes">
+<!ENTITY password.manage "Xestionar contraseñes…">
+<!ENTITY cookie.label "Afitar cookies">
+<!ENTITY cookie.remove "Desaniciar Cookies">
+<!ENTITY cookie.manage "Xestionar cookies…">
+<!ENTITY cookie.removeAll "Desaniciar toles Cookies">
+<!ENTITY geo.label "Compartir llocalización">
+<!ENTITY indexedDB.label "Caltener almacenamientu en mou ensin conexón">
+<!ENTITY popup.label "Abrir ventanes emerxentes">
 <!ENTITY plugins.label                   "Plugins">
-<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
-     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Caltener almacenamientu fuera de llinia">
-
-<!ENTITY popup.label                     "Abrir ventanes emerxentes">
 <!ENTITY fullscreen.label "Pantalla completa">
 <!ENTITY permission.allowFirstPartyOnly "Permitir namái les primaries">

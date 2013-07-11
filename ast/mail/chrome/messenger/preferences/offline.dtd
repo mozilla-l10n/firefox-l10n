@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Configuración ensin conexón">
+<!ENTITY textStartUp "Al aniciar:">
+<!ENTITY radioRememberPrevState.label "Recordar l'estáu de conexón anterior">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Entrugame'l mou de conexón al aniciar">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Aniciar siempre coneutáu">
+<!ENTITY radioAlwaysOnline.accesskey "A">
+<!ENTITY textGoingOnline "¿Unviar mensaxes pendientes al pasar a mou con conexón?">
+<!ENTITY radioAutoSend.label "Sí">
+<!ENTITY radioAutoSend.accesskey "S">
+<!ENTITY radioNotSend.label "Non">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Entrugame">
+<!ENTITY radioAskUnsent.accesskey "E">
+<!ENTITY textGoingOffline "¿Descargar mensaxes pal so usu desconeutáu al pasar a mou ensin conexón?">
+<!ENTITY radioAutoDownload.label "Siempre">
+<!ENTITY radioAutoDownload.accesskey "m">
+<!ENTITY radioNotDownload.label "Enxamás">
+<!ENTITY radioNotDownload.accesskey "x">
+<!ENTITY radioAskDownload.label "Entrugame">
+<!ENTITY radioAskDownload.accesskey "u">

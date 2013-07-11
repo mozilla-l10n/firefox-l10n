@@ -1,14 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description2 "¡Bienllegáu! Si nunca usasti &syncBrand.fullName.label; enantes, necesites crear una cuenta.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
-<!ENTITY button.haveAccount.label "Tengo una cuenta">
-<!ENTITY pairDevice.title.label "Emparexar un preséu">
-<!ENTITY pairDevice.dialog.description.label "P'activar el nuevu preséu, seleiciona 'Configurar Sync' nel preséu.">
-<!ENTITY pairDevice.setup.description.label "P'activalu, seleiciona 'Emparexar un preséu' nel otru preséu.">
-<!ENTITY engine.addons.label "Complementos">
-<!ENTITY engine.addons.accesskey "C">
+<!ENTITY button.haveAccount.label "Usar una cuenta esistente">
 <!ENTITY setup.choicePage.title.label "¿Tienes usao &syncBrand.fullName.label; enantes?">
 <!ENTITY setup.choicePage.new.label "Non, entá nunca usé &syncBrand.shortName.label; ">
+<!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY server.label "Sirvidor">
 <!ENTITY serverType.default.label "Predetermináu: Sirvidor de Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Usar un sirvidor personalizáu…">
@@ -17,14 +18,15 @@
 <!ENTITY signIn.password.label "Contraseña ">
 <!ENTITY signIn.password.accesskey "C">
 <!ENTITY signIn.recoveryKey.label "Clave de recuperación">
-<!ENTITY signIn.recoveryKey.accesskey "C">
+<!ENTITY signIn.recoveryKey.accesskey "c">
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.emailAddress.label "Direición d'email">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label "Esbillar una contraseña">
-<!ENTITY setup.choosePassword.accesskey "ñ">
+<!ENTITY setup.choosePassword.label "Escueyi una contraseña">
+<!ENTITY setup.choosePassword.accesskey "s">
+
 <!ENTITY setup.tosAgree1.label "Aceuto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY setup.tosLink.label "Términos del Serviciu">
@@ -32,34 +34,35 @@
 <!ENTITY setup.ppLink.label "Política de privacidá">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.newRecoveryKeyPage.title.label "A &brandShortName; impórta-y la to privacidá">
+<!ENTITY setup.newRecoveryKeyPage.description.label "P'asegurar una privacidá total, cífrense tolos datos enantes d'unviase. La clave de recuperación, que ye necesaria pa descifrar esos datos, nun s'unvia.">
 <!ENTITY recoveryKeyEntry.label "La to clave de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey "c">
-<!ENTITY setup.newRecoveryKeyPage.title.label "A &brandShortName; impórta-y la to privacidá">
-<!ENTITY setup.newRecoveryKeyPage.description.label "P'asegurar la to privacidá total, cífrense tolos datos enantes d'unviase pela rede. La clave de recuperación pa descifrar talos datos nun s'unvia.">
-<!ENTITY addDevice.dialog.recoveryKey.label "P'activar el to preséu necesites introducir la clave de recuperación. Por favor, impréntala o guárdala y llévala contigo.">
-<!ENTITY existingRecoveryKey.description "Pues obtener una copia de la clave de recuperación diendo al menú de Opciones de &syncBrand.shortName.label; nel otru equipu y seleicionar 'La mio clave de recuperación' baxo 'Alministrar cuenta'.">
-<!ENTITY recoveryKeyBackup.description "La clave de recuperación ye necesaria p'acceder a &syncBrand.fullName.label; n'otros equipos. Por favor, fai agora una copia. Nun podemos echate un gabitu a recuperar la to clave de recuperación.">
 <!ENTITY syncGenerateNewKey.label  "Xenerar una clave nueva">
 
 
+<!ENTITY recoveryKeyBackup.description "La clave de recuperación ye necesaria p'acceder a &syncBrand.fullName.label; n'otros equpos. Por favor, fai una copia agora. Nun podemos ayudate a recuperar la to clave de recuperación.">
 <!ENTITY button.syncKeyBackup.print.label "Imprentar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
-
+<!ENTITY pairDevice.dialog.description.label "P'activar el nuevu preséu calca en 'Configurar Sync' nel preséu.">
+<!ENTITY pairDevice.setup.description.label  "P'activar, seleiciona 'Emparexar preséu' nel otru preséu.">
+<!ENTITY addDevice.setup.enterCode.label    "Dempués, introduz esti códigu:">
+<!ENTITY pairDevice.title.label             "Emparexar un preséu">
 
 <!ENTITY addDevice.showMeHow.label "Depréndime cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "Nun tengo'l preséu conmigo">
 
-<!ENTITY addDevice.setup.enterCode.label "Dempués, introduz esti códigu:">
+
 
 <!ENTITY addDevice.dialog.enterCode.label "Escribi'l códigu que proporciona'l preséu:">
 <!ENTITY addDevice.dialog.tryAgain.label "Por favor, prueba otra vegada.">
 <!ENTITY addDevice.dialog.successful.label "Esti preséu amestóse correutamente. Esta sincronización inicial pue tardar dellos minutos y va finar de fondu.">
-
+<!ENTITY addDevice.dialog.recoveryKey.label "P'activar esti preséu necesites introducir la clave de recuperación. Por favor, imprenta o guarda esta clave y llévala contigo.">
 <!ENTITY addDevice.dialog.connected.label "Preséu coneutáu">
 <!ENTITY setup.signInPage.title.label "Coneutase">
-
+<!ENTITY existingRecoveryKey.description "Pues consiguir una copia de la clave de recuperación nes opciones de &syncBrand.shortName.label; del otru preséu y esbillando 'La mio clave de recuperación' baxo 'Alministrar cuenta'.">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "Perdí'l mio otru preséu.">
 <!ENTITY verifying.label "Verificando…">
@@ -75,19 +78,25 @@
 <!ENTITY engine.passwords.accesskey "ñ">
 <!ENTITY engine.prefs.label "Preferencies">
 <!ENTITY engine.prefs.accesskey "S">
+
 <!ENTITY choice2.merge.recommended.label "Encamiéntase:">
+
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
+
+
 <!ENTITY confirm.server2.label "Avisu: Van sobrescribise los siguientes preseos colos datos llocales:">
 
 <!ENTITY setup.successPage.title "Completóse la instalación">
 <!ENTITY changeOptions.label "Pues cambiar esta preferencia esbillando les opciones de Sync más abaxo.">
 <!ENTITY continueUsing.label "Pues siguir usando &brandShortName;.">
+<!ENTITY choice2a.client.main.label "Trocar tolos datos nesti preséu colos datos de &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label "Trocar tolos datos d'otros preseos colos datos d'esti">
+<!ENTITY choice2a.merge.main.label "Mecer los datos d'esti preseú colos datos de &syncBrand.shortName.label;">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; copiará los datos de &syncBrand.fullName.label; nesti preséu.">
+<!ENTITY confirm.client3.label "Avisu: Los siguientes datos de &brandShortName; nesti preséu van desaniciase:">
+<!ENTITY confirm.merge2.label "&syncBrand.fullName.label; va mecer tolos datos de navegación d'esti preséu cola to cuenta de Sync.">
+<!ENTITY setup.choicePage.existing2.label "Yá toi usando &syncBrand.shortName.label; n'otru preséu">
 <!ENTITY syncDeviceName.label "Nome del preséu:">
 <!ENTITY syncDeviceName.accesskey "m">
-<!ENTITY setup.choicePage.existing2.label "Yá toi usando &syncBrand.shortName.label; n'otru preséu">
-<!ENTITY confirm.merge2.label "&syncBrand.fullName.label; va mecer tolos datos de navegación d'esti preséu con la to cuenta de Sync.">
-<!ENTITY confirm.client3.label "Avisu: Los siguientes datos de &brandShortName; nesti preséu, van desaniciase:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; va copiar los datos de &syncBrand.fullName.label; nesti preséu.">
-<!ENTITY choice2a.server.main.label "Trocar tolos datos d'otros preseos colos datos d'esti">
-<!ENTITY choice2a.merge.main.label "Mecer los datos d'esti preséu colos datos de &syncBrand.shortName.label;">
-<!ENTITY choice2a.client.main.label "Trocar tolos datos nesti preséu colos datos de &syncBrand.shortName.label;">
+<!ENTITY setup.setupMetro.label "Sincronizar col estilu de Windows 8 &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">

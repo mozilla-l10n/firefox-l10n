@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY resetProfile.dialog.title "Reaniciar &brandShortName;">
-<!ENTITY resetProfile.dialog.description "¿De xuru que quies reaniciar &brandShortName; al so estáu inicial?">
+<!ENTITY resetProfile.dialog.description "¿Daveres que quies reaniciar &brandShortName; al so estáu inicial?">
 <!ENTITY resetProfile.dialog.items2.label "&brandShortName; va intentar caltener:">
 <!ENTITY resetProfile.dialog.footer.label "&brandShortName; va reaniciase y el restu va desaniciase.">
 <!ENTITY resetProfile.dialog.button.label "Reaniciar &brandShortName;">
-<!ENTITY resetProfile.title "Reaniciar &brandShortName; al so estáu predetermináu">
+<!ENTITY resetProfile.title "Reaniciar &brandShortName; al so estáu por defeutu">
 <!ENTITY resetProfile.description "Si tienes problemes graves que nun pues resolver, reanicia únicamente cola to información esencial.">
-<!ENTITY resetProfile.button.label "Reaniciar &brandShortName;">
 <!ENTITY resetProfile.cleaning.description "Por favor, espera mentanto &brandShortName; llimpia los datos antiguos…">
+<!ENTITY resetProfile.button.label2 "Restablecer &brandShortName;…">

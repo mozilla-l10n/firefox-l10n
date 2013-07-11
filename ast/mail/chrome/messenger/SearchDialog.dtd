@@ -1,0 +1,71 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchHeading.label "Guetar mensaxes en:">
+<!ENTITY searchHeading.accesskey "G">
+<!ENTITY searchSubfolders.label "Guetar subcarpetes">
+<!ENTITY searchSubfolders.accesskey "c">
+<!ENTITY searchOnServer.label "Executar gueta nel sirvidor">
+<!ENTITY searchOnServer.accesskey "s">
+<!ENTITY resetButton.label "Llimpiar">
+<!ENTITY resetButton.accesskey "L">
+<!ENTITY openButton.label "Abrir">
+<!ENTITY openButton.accesskey "A">
+<!ENTITY deleteButton.label "Desaniciar">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY searchDialogTitle.label "Guetar mensaxes">
+<!ENTITY results.label "Resultaos">
+<!ENTITY closeCmd.key "W">
+<!ENTITY openInFolder.label "Abrir en carpeta">
+<!ENTITY openInFolder.accesskey "i">
+<!ENTITY saveAsVFButton.label "Guardar como carpeta de gueta">
+<!ENTITY saveAsVFButton.accesskey "G">
+<!ENTITY abSearchHeading.label "Guetar en:">
+<!ENTITY abSearchHeading.accesskey "n">
+<!ENTITY propertiesButton.label "Propiedaes">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "Redactar">
+<!ENTITY composeButton.accesskey "R">
+<!ENTITY abSearchDialogTitle.label "Gueta avanzada na llibreta de direiciones">
+<!ENTITY threadColumn.label "Conversación">
+<!ENTITY fromColumn.label "Remitente">
+<!ENTITY recipientColumn.label "Destinatariu">
+<!ENTITY subjectColumn.label "Asuntu">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioridá">
+<!ENTITY tagsColumn.label "Etiquetes">
+<!ENTITY accountColumn.label "Cuenta">
+<!ENTITY statusColumn.label "Estáu">
+<!ENTITY sizeColumn.label "Tamañu">
+<!ENTITY junkStatusColumn.label "Estáu de corréu non deseáu">
+<!ENTITY unreadColumn.label "Non lleíu">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Lleíu">
+<!ENTITY receivedColumn.label "Recibíu">
+<!ENTITY starredColumn.label "Con estrella">
+<!ENTITY locationColumn.label "Llocalización">
+<!ENTITY idColumn.label "Orde de receición">
+<!ENTITY columnChooser.tooltip "Calca pa seleicionar les columnes a amosar">
+<!ENTITY threadColumn.tooltip "Calca p'amosar los mensaxes agrupados por conversaciones">
+<!ENTITY fromColumn.tooltip "Calca pa ordenar por remitente">
+<!ENTITY recipientColumn.tooltip "Calca pa ordenar por destinatariu">
+<!ENTITY subjectColumn.tooltip "Calca pa ordenar por asuntu">
+<!ENTITY dateColumn.tooltip "Calca pa ordenar por data">
+<!ENTITY priorityColumn.tooltip "Calca pa ordenar por prioridá">
+<!ENTITY tagsColumn.tooltip "Fai clic pa ordenar por etiquetes">
+<!ENTITY accountColumn.tooltip "Calca pa ordenar por cuenta">
+<!ENTITY statusColumn.tooltip "Calca pa ordenar por estáu">
+<!ENTITY sizeColumn.tooltip "Calca pa ordenar por tamañu">
+<!ENTITY junkStatusColumn.tooltip "Calca pa ordenar por estáu de corréu non deseáu">
+<!ENTITY unreadColumn.tooltip "Númberu de mensaxes non lleíos na conversación">
+<!ENTITY totalColumn.tooltip "Númberu total de mensaxes na conversación">
+<!ENTITY readColumn.tooltip "Calca pa ordenar los mensaxes lleíos">
+<!ENTITY receivedColumn.tooltip "Calca pa ordenar por data de receición">
+<!ENTITY starredColumn.tooltip "Calca pa ordenar por estrella">
+<!ENTITY locationColumn.tooltip "Calca pa ordenar por llocalización">
+<!ENTITY idColumn.tooltip "Calca pa ordenar por orde de receición">
+<!ENTITY moveHereMenu.label "Mover equí">
+<!ENTITY moveHereMenu.accesskey "o">
+<!ENTITY moveButton.label "Mover a">
+<!ENTITY moveButton.accesskey "M">

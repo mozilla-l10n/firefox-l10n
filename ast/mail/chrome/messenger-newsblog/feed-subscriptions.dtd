@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedSubscriptions.label "Soscripciones a canales">
+<!ENTITY subscriptionDesc.label "Nota: desaniciar o camudar la carpeta d'una canal nun va afeutar a los artículos descargaos previamente.">
+<!ENTITY feedTitle.label "Títulu:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "URL de la canal:">
+<!ENTITY feedLocation.accesskey "L">
+<!ENTITY feedLocation.placeholder "Introduz una URL de canal válida p'amestar">
+<!ENTITY feedFolder.label "Guardar artículos en:">
+<!ENTITY feedFolder.accesskey "G">
+<!ENTITY locationValidate.label "Validar">
+<!ENTITY button.addFeed.label "Amestar">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "Editar">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Desaniciar">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Esportar">
+<!ENTITY button.exportOPML.accesskey "S">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY quickMode.label "Amosar el resume del artículu en cuenta de la páxina web">
+<!ENTITY quickMode.accesskey "M">
+<!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
+<!ENTITY button.exportOPML.tooltip "Esportar canales cola estructura de canales; ctrl clic o ctrl enter pa esportar les canales como una llista">
