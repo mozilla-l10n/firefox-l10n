@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addAccountDialog.title "Configurar Filelink">
 <!ENTITY addAccountDialog.menuTitle "Seleiciona un serviciu d'almacenamientu en llinia">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">

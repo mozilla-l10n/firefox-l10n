@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Opciones d'unviu">
 <!ENTITY sendMail.title "Formatu del testu">
 <!ENTITY sendMaildesc.label "Al unviar mensaxes en formatu HTML y ún o más destinatarios nun tean na llista pa poder recibir HTML:">

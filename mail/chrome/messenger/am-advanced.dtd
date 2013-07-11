@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY smtpServer.label "Configuración del sirvidor de salida (SMTP)">
 <!ENTITY smtpDescription.label "Al alministrar les tos identidaes pues usar un sirvidor d'esta llista seleicionándolu como sirvidor de salida (SMTP), o pues usar el sirvidor predetermináu seleicionando nesta llista &quot;Usar sirvidor predetermináu&quot;.">
 <!ENTITY smtpListAdd.label "Amestar…">

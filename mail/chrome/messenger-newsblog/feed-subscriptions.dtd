@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY feedSubscriptions.label "Soscripciones a canales">
 <!ENTITY subscriptionDesc.label "Nota: desaniciar o camudar la carpeta d'una canal nun va afeutar a los artículos descargaos previamente.">
 <!ENTITY feedTitle.label "Títulu:">
