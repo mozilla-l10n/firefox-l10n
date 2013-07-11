@@ -64,8 +64,8 @@
 <!ENTITY pref_header_privacy "Privacy e sicurezza">
 <!ENTITY pref_header_content "Contenuti">
 <!ENTITY pref_remember_signons "Ricorda password">
-<!ENTITY pref_header_customize "Personalizza">
-<!ENTITY pref_header_display "Visualizza">
+<!ENTITY pref_header_customize "Personalizzazione">
+<!ENTITY pref_header_display "Visualizzazione">
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_help "Aiuto">
 <!ENTITY pref_header_vendor "&vendorShortName;">
