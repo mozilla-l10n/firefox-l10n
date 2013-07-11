@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY doNotDownloadPop3Movemail.label "P'aforrar espaciu en discu, nun descargar:">
 <!ENTITY doNotDownloadNntp.label "P'aforrar espaciu en discu, nun descargar pal so usu ensin conexón:">
 <!ENTITY doNotDownloadImap.label "P'aforrar espaciu en discu, la descarga de mensaxes del sirvidor y el so almacenamientu llocal pa usu ensin conexón pue restrinxise por antigüedá o tamañu.">
