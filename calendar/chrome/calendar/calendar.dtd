@@ -342,3 +342,9 @@
 <!ENTITY calendar.error.code        "Fehlercode:">
 <!ENTITY calendar.error.description "Beschreibung:">
 <!ENTITY calendar.error.title       "Ein Fehler ist aufgetreten">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Als Termin eintragen">
+<!ENTITY calendar.extract.task.button          "Als Aufgabe eintragen">
+<!ENTITY calendar.extract.event.button.tooltip "Kalenderinformationen aus der Nachricht auslesen und als Termin zum Kalender hinzufügen">
+<!ENTITY calendar.extract.task.button.tooltip  "Kalenderinformationen aus der Nachricht auslesen und als Aufgabe zum Kalender hinzufügen">
