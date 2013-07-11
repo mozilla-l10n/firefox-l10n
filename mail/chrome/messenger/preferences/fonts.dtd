@@ -1,0 +1,66 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY fontsAndEncodingsDialog.title "Fontes y codificación">
+<!ENTITY window.width "45em">
+<!ENTITY window.macWidth "49em">
+<!ENTITY window.unixWidth "47em">
+<!ENTITY language.label "Fontes de lletra pa:">
+<!ENTITY language.accesskey "T">
+<!ENTITY size.label "Tamañu:">
+<!ENTITY proportionalSize.accesskey "a">
+<!ENTITY sizeMono.accesskey "m">
+<!ENTITY proportional.label "Proporcional:">
+<!ENTITY proportional.accesskey "P">
+<!ENTITY serif.label "Serif:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Monoespaciu:">
+<!ENTITY monospace.accesskey "m">
+<!ENTITY font.langGroup.latin1 "Occidental">
+<!ENTITY font.langGroup.latin2 "Centroeuropéu">
+<!ENTITY font.langGroup.japanese "Xaponés">
+<!ENTITY font.langGroup.trad-chinese "Chinu tradicional (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Chinu simplificáu">
+<!ENTITY font.langGroup.trad-chinese-hk "Chinu tradicional (Ḥong Kong)">
+<!ENTITY font.langGroup.korean "Coreanu">
+<!ENTITY font.langGroup.cyrillic "Cirílicu">
+<!ENTITY font.langGroup.baltic "Bálticu">
+<!ENTITY font.langGroup.el "Griegu">
+<!ENTITY font.langGroup.turkish "Turcu">
+<!ENTITY font.langGroup.unicode1 "Unicode">
+<!ENTITY font.langGroup.user-def "Definío pol usuariu">
+<!ENTITY font.langGroup.thai "Tailandés">
+<!ENTITY font.langGroup.hebrew "Hebréu">
+<!ENTITY font.langGroup.arabic "Árabe">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Armeniu">
+<!ENTITY font.langGroup.bengali "Bengalí">
+<!ENTITY font.langGroup.canadian "Silabariu canadiense unificáu">
+<!ENTITY font.langGroup.ethiopic "Etíope">
+<!ENTITY font.langGroup.georgian "Xeorxanu">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY minSize.label "Tamañu de lletra mínimu:">
+<!ENTITY minSize.accesskey "d">
+<!ENTITY minSize.none "Dengún">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY fontControl.label "Control de fontes de lletra">
+<!ENTITY useFixedWidthForPlainText.label "Usar fontes d'anchor fixu pa mensaxes en testu ensin formatu">
+<!ENTITY fixedWidth.accesskey "f">
+<!ENTITY useDocumentFonts.label "Permitir a los mensaxes usar otres fontes de lletra">
+<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY sendDefaultCharset.label "Corréu saliente:">
+<!ENTITY sendDefaultCharset.accesskey "e">
+<!ENTITY languagesTitle1.label "Codificaciones de caráuteres">
+<!ENTITY composingDescription.label "Afitar les codificaciones predeterminaes pa unviar y recibir mensaxes">
+<!ENTITY viewDefaultCharsetList.label "Corréu entrante:">
+<!ENTITY viewDefaultCharsetList.accesskey "C">
+<!ENTITY replyInDefaultCharset2.label "Si ye posible, usar la codif. caráuteres por defeutu nes rempuestes">
+<!ENTITY replyInDefaultCharset2.accesskey "S">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title          "Asistente d'importación">
 
@@ -16,7 +20,7 @@
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 
-<!ENTITY noMigrationSources.label       "Nun pudieron atopase programes que contuvieran marcadores, historial o datos de contraseñes.">
+<!ENTITY noMigrationSources.label       "Nun se pudieron atopar programes que contuvieran marcadores, historial o datos de contraseñes.">
 
 <!ENTITY importSource.title             "Importar configuraciones y datos">
 <!ENTITY importItems.title              "Elementos a importar">

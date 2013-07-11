@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pref.toolbars.title "Barres de ferramientes">
+<!ENTITY composition.caption "Amosar estos botones na barra de redaición:">
+<!ENTITY new.label "Nuevu">
+<!ENTITY open.label "Abrir">
+<!ENTITY save.label "Guardar">
+<!ENTITY publish.label "Espublizar">
+<!ENTITY preview.label "Navegar">
+<!ENTITY cut.label "Cortar">
+<!ENTITY copy.label "Copiar">
+<!ENTITY paste.label "Apegar">
+<!ENTITY print.label "Imprentar">
+<!ENTITY find.label "Guetar">
+<!ENTITY image.label "Imaxen">
+<!ENTITY hline.label "Llinia horiz.">
+<!ENTITY table.label "Tabla">
+<!ENTITY link.label "Enllaz">
+<!ENTITY anchor.label "Enllaz internu">
+<!ENTITY formatting.caption "Amosar estos botones na barra de formatu:">
+<!ENTITY smaller.label "Menor">
+<!ENTITY larger.label "Mayor">
+<!ENTITY bold.label "Negrina">
+<!ENTITY bullets.label "Viñetes">
+<!ENTITY numbers.label "Números">
+<!ENTITY italic.label "Cursiva">
+<!ENTITY outdent.label "Amenorgar sangráu">
+<!ENTITY indent.label "Sangrar">
+<!ENTITY underline.label "Solliñáu">
+<!ENTITY absolutePosition.label "Posicionamientu absolutu">
+<!ENTITY decreaseZIndex.label "Unviar al fondu">
+<!ENTITY increaseZIndex.label "Llevar al primer planu">

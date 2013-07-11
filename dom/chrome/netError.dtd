@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
 <!ENTITY loadError.label "Fallu al cargar la páxina">
@@ -27,7 +31,8 @@
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero interrumpióse la conexón mientres se tresfería información. Por favor, vuelve a intentalo.</p><ul><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.longDesc2 "<p>Agora, el restolador ta en mou ensin conexón y nun puede coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>Calca &quot;Reintentar&quot; pa cambiar al mou en llinia y recargar la páxina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>El restolador web ta en mou ensin conexón y nun puede coneutase al elementu solicitáu.</p><ul><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>Calca &quot;Intentar otra vegada&quot; pa pasar a mou en llinia y recargar la páxina.</li></ul>">
+
 
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
@@ -42,6 +47,9 @@
 
 <!ENTITY netTimeout.title "Escosó'l tiempu d'espera">
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando'l sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un firewall? Una configuración incorreuta pue interferir col restolar.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet p'asistencia téunica.</li></ul>">
+
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del navegador.</p><ul><li>Por seguridá, el navegador nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocolu desconocíu">
 <!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun puede coneutase al sitiu de mou correutu.</p><ul><li>¿Tas intentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprueba los requisitos estra del sitiu.</li><li>Dalgunos protocolos pueden necesitar software de terceros o plugins enantes de que'l restolador pueda reconocelos.</li></ul>">
@@ -83,12 +91,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El restolador web impidió qu'esta páxina se cargase d'esta forma, porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
-
-<!ENTITY corruptedContentError.title "Fallu. Conteníu corruptu">
-<!ENTITY corruptedContentError.longDesc "<p>La páxina que tas intentando ver, nun pue amosase porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta colos propietarios del situ pa informa-yos d'esti problema.</li></ul>">
-
 <!ENTITY remoteXUL.title "XUL Remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
 
-<!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del navegador.</p><ul><li>Como midida de precaución, el navegador nun vuelve a solicitar automáticamente documentación sensible.</li><li>Fai click en 'Intentar' otra vuelta, pa solicitar otra vegada'l documentu al sitiu web.</li></ul>">
+<!ENTITY corruptedContentError.title "Fallu de corrupción de conteníos">
+
+<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col alministrador del sitiu pa informá-y d'esti problema.</li></ul>">
+

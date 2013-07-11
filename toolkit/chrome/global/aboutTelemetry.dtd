@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
-
 <!ENTITY aboutTelemetry.telemetryEnabled "
   Telemetry ta <span>activáu</span>.
 ">
@@ -46,3 +45,4 @@
 <!ENTITY aboutTelemetry.hideSymbols "
   Amosar datos non procesaos de cuelgues
 ">
+<!ENTITY aboutTelemetry.lateWritesSection "">

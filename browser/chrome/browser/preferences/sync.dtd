@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY setupButton.label "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; permite accesu a los tos marcadores, historial, contraseñes, preferencies y llingüetes en dellos equipos.">
@@ -7,11 +11,12 @@
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword2.label "Camudar contraseña…">
-<!ENTITY myRecoveryKey.label "La mio clave de recuperación">
+<!ENTITY myRecoveryKey.label "La mio clave de Recuperación">
 <!ENTITY resetSync2.label "Restablecer Sync…">
 <!ENTITY pairDevice.label "Emparexar un preséu">
 <!ENTITY syncDeviceName.label "Nome del preséu:">
 <!ENTITY syncDeviceName.accesskey "N">
+<!ENTITY unlinkDevice.label "Desvincular esti preséu.">
 <!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -25,6 +30,5 @@
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
 <!ENTITY engine.addons.accesskey "C">
-<!ENTITY unlinkDevice.label "Desenllazar esti preséu">
 <!ENTITY prefs.tosLink.label "Términos del Serviciu">
 <!ENTITY prefs.ppLink.label "Política de privacidá">

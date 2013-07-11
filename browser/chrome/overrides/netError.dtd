@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -29,12 +33,17 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY netInterrupt.title "Torgóse la conexón">
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentanto se taba tresfiriendo información. Por favor, vuelvi a intentalo.</p><ul><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Por seguridá, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
+
+
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Calca &quot;Reintentar&quot; pa cambiar a mou en llinia y recargar la páxina.</li>
+<li>Calca &quot;Intentar otra vegada&quot; pa pasar al mou en llinia y recargar la páxina.</li>
 </ul>
 ">
+
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitida de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
@@ -48,8 +57,6 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 
 <!ENTITY netTimeout.title "La conexón caducó">
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
-<!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu requeríu yá nun ta disponible na caché de Firefox.</p><ul><li>Como precaución de seguridá, Firefox nun vuelve a pidir automáticamente documentos sensibles.</li><li>Fai clic n'Intentar de nueves pa volver a pidir el documentu del sitiu web.</li></ul>">
 
 <!ENTITY protocolNotFound.title "La direición nun ye entendible">
 <!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun se pue coneutar al sitiu correchamente.</p><ul><li>¿Tas intentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprueba los requisitos adicionales del sitiu.</li><li>Dalgunos protocolos puen necesitar software de terceros o complementos enantes de que'l restolador pueda reconocelos.</li></ul>">
@@ -97,9 +104,9 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <p>Estos tipos de falsificaciones de webs úsense n'engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ta torgando qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
+<!ENTITY corruptedContentError.title "Fallu de corrupción del conteníu">
 
-<!ENTITY corruptedContentError.title "Fallu. Conteníu corruptu">
-<!ENTITY corruptedContentError.longDesc "<p>La páxina que tas intentando ver, nun pue amosase porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta colos propietarios del situ pa informa-yos d'esti problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col propietariu de la web pa informá-y d'esti problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sacáime d'equí!">

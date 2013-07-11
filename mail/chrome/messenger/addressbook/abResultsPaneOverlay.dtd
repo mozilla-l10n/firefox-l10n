@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY GeneratedName.label "Nome">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Corréu electrónicu">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY Company.label "Organización">
+<!ENTITY Company.accesskey "z">
+<!ENTITY _PhoneticName.label "Nome fonéticu">
+<!ENTITY _PhoneticName.accesskey "o">
+<!ENTITY NickName.label "Nomatu">
+<!ENTITY NickName.accesskey "t">
+<!ENTITY SecondEmail.label "Corréu electrónicu adicional">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "Departamentu">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "Puestu">
+<!ENTITY JobTitle.accesskey "u">
+<!ENTITY CellularNumber.label "Móvil">
+<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY PagerNumber.label "Buscapersones">
+<!ENTITY PagerNumber.accesskey "B">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Teléfonu particular">
+<!ENTITY HomePhone.accesskey "i">
+<!ENTITY WorkPhone.label "Teléfonu del trabayu">
+<!ENTITY WorkPhone.accesskey "t">
+<!ENTITY sortAscending.label "Ascendente">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Descendente">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY ChatName.label "Nome nel chat">
+<!ENTITY ChatName.accesskey "C">

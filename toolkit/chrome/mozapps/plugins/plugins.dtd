@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pluginWizard.title                                  "Serviciu de gueta de complementos">
 <!ENTITY pluginWizard.firstPage.title                        "Bienllegáu al &pluginWizard.title;">
 
@@ -5,28 +9,25 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descargues de plugins disponibles">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Los siguientes plugins tán disponibles:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Calque en Siguiente pa instalar estos plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Calque Siguiente pa instalar estos plugins.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dalgunos plugins puen solicita-y información adicional durante la instalación.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Llicencies de los Plugins">
 <!ENTITY pluginWizard.licensePage.accept.label               "Toi d'alcuerdu.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Nun toi d'alcuerdu (el plugin nun s'instalará).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Nun toi d'alcuerdu (el plugin nun va instalase).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Instalando plugins">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ta instalando plugins…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; finó d'instalar los plugins que faltaben:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Más al rodiu de Plugins o guetar manualmente los plugins que falten.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Más tocante a Plugins o guetar manualmente los plugins que falten.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Necesítase reaniciar &brandShortName; pa que furrulen los plugins.">
-  
-<!ENTITY disabledPlugin                                      "Esti plugin ta desactiváu.">
-
 <!ENTITY missingPlugin                                       "Necesítase un plugin p'amosar esti conteníu.">
+<!ENTITY tapToPlayPlugin                                     "Toca equí p'activar el plugin.">
+<!ENTITY disabledPlugin                                      "Esti plugin ta desactiváu.">
 <!ENTITY installPlugin                                       "Instalar plugin…">
 <!ENTITY managePlugins                                       "Xestionar plugins…">
-
-
 
 <!ENTITY blockedPlugin.label                                 "Bloquióse esti plugin pa la so proteición.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -34,19 +35,20 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recargar la páxina">
-<!ENTITY reloadPlugin.post                                   " pa intentalo otra vegada.">
+<!ENTITY reloadPlugin.post                                   " intentar otra vegada.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Unviar informe de fallu">
 <!ENTITY report.submitting                                   "Unviando informe…">
 <!ENTITY report.submitted                                    "Unvióse informe de fallu.">
 <!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
 <!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Informe non disponible.">
-<!ENTITY clickToPlayPlugin                                   "Calca equí p'activar el plugin.">
-<!ENTITY tapToPlayPlugin                                     "Toca equí p'activar el plugin.">
+<!ENTITY report.please                                       "Unviar informe de fallu">
 <!ENTITY checkForUpdates "Guetar anovamientos…">
 <!ENTITY unsupportedPlatform.pre "Sentímoslo, pero &brandShortName; nun pue reproducir conteníu Flash nesti preséu. ">
 <!ENTITY unsupportedPlatform.learnMore "Deprender más…">
 <!ENTITY unsupportedPlatform.post "">
 <!ENTITY plugin.mimeTypes "Tipos MIME">
 <!ENTITY plugin.file "Ficheru">
+<!ENTITY report.pageURL "Inclúi la URL de la páxina">
+<!ENTITY report.comment "Amiesta un comentariu (los comentarios son visibles pa tol mundu)">
+<!ENTITY clickToActivatePlugin "Activar plugin.">

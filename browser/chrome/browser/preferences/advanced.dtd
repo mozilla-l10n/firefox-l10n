@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Xeneral">
@@ -25,7 +29,6 @@
 <!ENTITY systemDefaults.label            "Por defeutu">
 <!ENTITY alwaysCheckDefault.label        "Comprobar nel aniciu si &brandShortName; ye'l restolador por defeutu"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "m">
-
 <!ENTITY networkTab.label                "Rede">
 
 <!ENTITY connection.label                "Conexón">
@@ -50,23 +53,24 @@
 <!ENTITY overrideSmartCacheSize.label "Inorar l'alministración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "n">
 <!ENTITY updateTab.label                 "Anovar">
-<!ENTITY updateApp.label                 "Anovamientos de &brandShortName;:">
-<!ENTITY updateAuto.label                "Anovar automáticamente los anovamientos (encamiéntase: meyora la seguridá)">
-<!ENTITY updateAuto.accesskey "A">
-<!ENTITY updateCheck.label               "Comprobar anovamientos, pero dexándome escoyer si quiero instalales">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgos de seguridá)">
-<!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avisáime si esto desactiva dalgún de los mios complementos.">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
-<!ENTITY updateOthers.label              "Anovamientu automáticu:">
-<!ENTITY useService.label                "Usar un serviciu de fondu pa instalar anovamientos">
-<!ENTITY useService.accesskey            "s">
+
+
+
 
 <!ENTITY enableSearchUpdate.label        "Guetadores">
 <!ENTITY enableSearchUpdate.accesskey    "G">
-
-
+<!ENTITY updateApp.label                 "Anovamientos &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar anovamientos automáticamente (recomendáu: meyora de seguridá)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAutoAddonWarn.label       "Avisame si esto va desactivar dalgún de los mios complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "t">
+<!ENTITY updateCheck.label               "Comprobar anovamientos, pero dexame elexir si quiero instalalos">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgu na seguridá)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateOthers.label              "Anovar automáticamente:">
+<!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
+<!ENTITY useService.accesskey            "v">
 
 
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
@@ -79,6 +83,7 @@
 <!ENTITY clearOfflineAppCacheNow.label   "Llimpiar agora">
 <!ENTITY clearOfflineAppCacheNow.accesskey "r">
 <!ENTITY offlineAppsList2.label           "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón:">
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Desaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
@@ -113,7 +118,7 @@
 <!ENTITY telemetryDesc.label "Comparte datos de rendimientu, usu, hardware y personalizaciones sobre'l navegador con &vendorShortName; p'ayudar a facer &brandShortName; meyor">
 <!ENTITY healthReportSection.label "Informe de salú de &brandShortName;">
 <!ENTITY healthReportLearnMore.label "Deprender más">
-<!ENTITY healthReportDesc.label "Ayúdate a atalantar el rendimientu del navegador y comparte datos con &vendorShortName; tocante a la salú d'esti.">
+<!ENTITY healthReportDesc.label "Ayúdate a atalantar el rendimientu del navegador y comparte datos con &vendorShortName; sobre la salú d'ésti">
 <!ENTITY enableTelemetry.label "Activar Telemetry">
 <!ENTITY enableTelemetry.accesskey "T">
 <!ENTITY enableHealthReport.label "Activar l'informe de salú de &brandShortName;">
@@ -123,4 +128,4 @@
 <!ENTITY dataChoicesTab.label "Eleición de datos">
 <!ENTITY crashReporterSection.label "Informe de fallos">
 <!ENTITY crashReporterLearnMore.label "Deprender más">
-<!ENTITY crashReporterDesc.label "&brandShortName; unvia informes de fallu p'ayudar a &vendorShortName; a crear un navegador más estable y seguru">
+<!ENTITY crashReporterDesc.label "&brandShortName; unvia informes de fallu p'ayudar a &vendorShortName; a facer un navegador más estable y seguru">

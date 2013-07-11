@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startupAction.label "Al aniciar &brandShortName;:">
+ <!ENTITY startupAction.accesskey "A">
+<!ENTITY startupOffline.label "Caltener ensin coneutar les mios cuentes de chat">
+<!ENTITY startupConnectAuto.label "Coneutar a les mios cuentes automáticamente">
+<!ENTITY reportIdleAfter.label "Permitir a los mios contautos saber que toi inactivu tres">
+<!ENTITY reportIdleAfter.accesskey "P">
+<!ENTITY idleTime "minutos d'actividá">
+<!ENTITY andSetStatusToAway.label "y afitar el mio estáu a Ausente con esti mensaxe d'estáu:">
+<!ENTITY andSetStatusToAway.accesskey "t">
+<!ENTITY sendTyping.label "Unviar notificaciones d'escritura en conversaciones">
+<!ENTITY sendTyping.accesskey "U">

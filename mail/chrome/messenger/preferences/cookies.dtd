@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width "36em">
+<!ENTITY cookiesonsystem.label "Tán guardaes nel to equipu les siguientes cookies:">
+<!ENTITY cookiename.label "Nome de la cookie">
+<!ENTITY cookiedomain.label "Sitiu">
+<!ENTITY button.removecookie.label "Desaniciar cookie">
+<!ENTITY button.removecookie.accesskey "D">
+<!ENTITY button.removeallcookies.label "Desaniciar toles cookies">
+<!ENTITY button.removeallcookies.accesskey "a">
+<!ENTITY props.name.label "Nome:">
+<!ENTITY props.value.label "Conteníu:">
+<!ENTITY props.domain.label "Sirvidor:">
+<!ENTITY props.path.label "Camín:">
+<!ENTITY props.secure.label "Unviar pa:">
+<!ENTITY props.expires.label "Caduca:">
+<!ENTITY window.title "Cookies">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Guetar:">
+<!ENTITY filter.accesskey "G">
+<!ENTITY button.close.label "Zarrar">
+<!ENTITY button.close.accesskey "Z">

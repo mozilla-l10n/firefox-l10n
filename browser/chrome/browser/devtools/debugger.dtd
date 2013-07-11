@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY debuggerMenu.label2 "Depurador">
 <!ENTITY debuggerMenu.accesskey "D">
 <!ENTITY remoteDebuggerMenu.label "Depurador remotu">
@@ -8,15 +12,11 @@
 <!ENTITY debuggerUI.searchPanelTitle "Operadores">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 <!ENTITY debuggerUI.showPanesOnInit "Amosar paneles al arrancar">
-<!ENTITY debuggerUI.pauseExceptions.key "E">
-<!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
 <!ENTITY debuggerUI.seMenuCondBreak "Amestar puntu de rotura condicional">
 <!ENTITY debuggerUI.seMenuBreak "Puntu de rotura amestáu">
+<!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
 <!ENTITY debuggerUI.condBreakPanelTitle "Esti puntu de rotura va parar la execución namái si la siguiente espresión devuelve braero">
-<!ENTITY debuggerUI.stepping.stepOver "VK_F7">
-<!ENTITY debuggerUI.stepping.stepOut "VK_F8">
-<!ENTITY debuggerUI.stepping.stepIn "VK_F8">
-<!ENTITY debuggerUI.stepping.resume "VK_F6">
 <!ENTITY debuggerUI.showVarsFilter.key "V">
 <!ENTITY debuggerUI.showVarsFilter "Amosar la caxa de filtru de variables">
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
@@ -40,3 +40,14 @@
 <!ENTITY debuggerUI.panesButton.tooltip "Camudar paneles">
 <!ENTITY debuggerUI.addWatch.key "E">
 <!ENTITY debuggerUI.addWatch "Amestar espresión de vixilancia">
+<!ENTITY debuggerUI.stepping.stepOver "VK_F7">
+<!ENTITY debuggerUI.stepping.stepOut "VK_F8">
+<!ENTITY debuggerUI.stepping.stepIn "VK_F8">
+<!ENTITY debuggerUI.stepping.resume "VK_F6">
+<!ENTITY debuggerUI.focusVariables.key "V">
+<!ENTITY debuggerUI.focusVariables "Enfocar árbol de variables">
+<!ENTITY debuggerUI.searchFunction.key "D">
+<!ENTITY debuggerUI.searchFunction "Guetar pola definición de la función">
+<!ENTITY debuggerUI.searchFile.altkey "Aceutar">
+<!ENTITY debuggerUI.showOriginalSource.key "O">
+<!ENTITY debuggerUI.showOriginalSource "Amosar fontes orixinales">

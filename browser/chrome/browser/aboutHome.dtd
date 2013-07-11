@@ -1,10 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
 <!ENTITY abouthome.pageTitle "Páxina d'aniciu de &brandFullName;">
 <!ENTITY abouthome.searchEngineButton.label "Guetar">
-<!ENTITY abouthome.defaultSnippet1.v1 "¡Gracies por escoyer Firefox! Pa conseguir lo máximo del restolador, conoz más tocante a les <a>caberes carauterístiques</a>.">
+
+<!ENTITY abouthome.defaultSnippet1.v1 "¡Gracies por escoyer Firefox! Pa conseguir lo máximo del restolador, deprendi más tocante a les <a>caberes carauterístiques</a>.">
 <!ENTITY abouthome.defaultSnippet2.v1 "Personalizar Firefox exautamente como tu quies, ye bien cenciello. <a>Escueyi ente milenta complementos</a>.">
 <!ENTITY abouthome.bookmarksButton.label "Marcadores">
 <!ENTITY abouthome.historyButton.label "Historial">
@@ -13,3 +18,4 @@
 <!ENTITY abouthome.appsButton.label "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Descargues">
 <!ENTITY abouthome.syncButton.label "&syncBrand.shortName.label;">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ye un software llibre y de códigu abiertu de la fundación ensin fines de llucru Mozilla. <a>Conoz los tos drechos…</a>">

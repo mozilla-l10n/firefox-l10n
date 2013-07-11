@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label "Corréu puxarra">
+<!ENTITY itemPhishing.label "Corréu fraudulentu">
+<!ENTITY itemPasswords.label "Contraseñes">
+<!ENTITY itemAntiVirus.label "Antivirus">
+<!ENTITY itemCookies.label "Conteníu web">
+<!ENTITY junkMail.intro "Afita la to configuración predeterminada pal corréu non deseáu. La configuración específica de cada cuenta pue axustase na Configuración de les cuentes.">
+<!ENTITY manualMark.label "Cuando conseño los mensaxes como puxarra:">
+<!ENTITY manualMark.accesskey "C">
+<!ENTITY manualMarkModeMove.label "Movelos a la carpeta &quot;Corréu puxarra&quot; de la cuenta">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Desanicialos">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Conseñar como lleíos los mensaxes calificaos como puxarra">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY openJunkLog.label "Amosar el rexistru">
+<!ENTITY openJunkLog.accesskey "s">
+<!ENTITY resetTrainingData.label "Reaniciar datos d'entrenamientu">
+<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY phishingDetector1.intro "&brandShortName; pue analizar mensaxes pa identificar los que seyan fraudulentos guetando téuniques comunes usaes pa engañate.">
+<!ENTITY enablePhishingDetector1.label "Avisame si'l mensaxe que toi lleendo paez un mensaxe fraudulentu">
+<!ENTITY enablePhishingDetector1.accesskey "D">
+<!ENTITY useDownloadedList.label "Usar una llista descargada de mensaxes consideraos fraudulentos">
+<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY savedPasswords.intro "&brandShortName; pue recordar les contraseñes de toles cuentes.">
+<!ENTITY useMasterPassword.label "Usar una contraseña maestra">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY masterPassword.intro "Una contraseña maestra protexe toles contraseñes, pero tienes d'introducila una vegada por sesión.">
+<!ENTITY changeMasterPassword.label "Camudar contraseña maestra…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label "Contraseñes guardaes…">
+<!ENTITY savedPasswords.accesskey "C">
+<!ENTITY antiVirus.intro "&brandShortName; pue facer cenciellamente que'l software antivirus analice'l corréu entrante a la gueta de virus enantes de que se guarden llocalmente.">
+<!ENTITY antiVirus.label "Permitir a los antivirus poner en cuarentena mensaxes individuales">
+<!ENTITY antiVirus.accesskey "P">
+<!ENTITY cookies.intro "&brandShortName; permite especificar qué blogs, canales de noticies, y otros sitios web tienen permitío unviar cookies.">
+<!ENTITY acceptCookies.label "Aceutar cookies de sitios">
+<!ENTITY acceptCookies.accesskey "k">
+<!ENTITY keepUntil.label "Caltener hasta que:">
+<!ENTITY keepUntil.accesskey "h">
+<!ENTITY expire.label "caduquen">
+<!ENTITY close.label "yo zarre &brandShortName;">
+<!ENTITY askEachTime.label "entrugame en cada casu">
+<!ENTITY cookieExceptions.label "Esceiciones…">
+<!ENTITY cookieExceptions.accesskey "s">
+<!ENTITY showCookies.label "Amosar cookies…">
+<!ENTITY showCookies.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Activar el rexistru del filtru adautativu de corréu puxarra">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "A">
+<!ENTITY doNotTrack.label "Indicar a los sitios web que nun quiero que me rastrexen">
+<!ENTITY doNotTrack.accesskey "I">

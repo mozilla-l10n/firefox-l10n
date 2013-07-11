@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -11,8 +15,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
-<!ENTITY openRecentMenu.label         "Abrir recientes">
-<!ENTITY openRecentMenu.accesskey     "R">
+
 <!ENTITY fileMenu.label               "Ficheru">
 <!ENTITY fileMenu.accesskey           "F">
 
@@ -68,14 +71,14 @@
 <!ENTITY resetContext2.label           "Restablecer">
 <!ENTITY resetContext2.accesskey       "R">
 <!ENTITY errorConsoleCmd.commandkey   "j">
-
-
 <!ENTITY helpMenu.label "Ayuda">
 <!ENTITY helpMenu.accesskey "y">
 <!ENTITY helpMenuWin.label "Ayuda">
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY documentationLink.label "Ayuda de borrador en MDN">
-<!ENTITY documentationLink.accesskey "D">
+<!ENTITY documentationLink.accesskey "">
+<!ENTITY openRecentMenu.label         "Abrir recientes">
+<!ENTITY openRecentMenu.accesskey     "R">
 <!ENTITY reloadAndRun.label "Recargar y executar">
 <!ENTITY reloadAndRun.accesskey "E">
 <!ENTITY reloadAndRun.key "r">

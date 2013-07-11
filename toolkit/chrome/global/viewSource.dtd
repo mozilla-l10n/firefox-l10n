@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
@@ -74,9 +78,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-
-<!ENTITY copyLinkCmd.label "Copiar la ruta del enllaz">
-<!ENTITY copyLinkCmd.accesskey "r">
-<!ENTITY copyEmailCmd.label "Copiar direición de corréu-e">
-<!ENTITY copyEmailCmd.accesskey "d">
-
+<!ENTITY copyLinkCmd.label "Copiar direición del enllaz">
+<!ENTITY copyLinkCmd.accesskey "d">
+<!ENTITY copyEmailCmd.label "Copiar direición de corréu">
+<!ENTITY copyEmailCmd.accesskey "a">

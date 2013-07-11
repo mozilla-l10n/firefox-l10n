@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY testpilot.brand.label "Test Pilot">
+<!ENTITY testpilot.settings.label "Configuración">
+<!ENTITY testpilot.settings.dataSubmission.label "Unviu de datos">
+<!ENTITY testpilot.settings.notifications.label "Notificaciones">
+<!ENTITY testpilot.settings.notifyWhen.label "Avisáime cuando…">
+<!ENTITY testpilot.settings.readyToSubmit.label "Hai un estudiu llistu pal so unviu">
+<!ENTITY testpilot.settings.newStudy.label "Hai un estudiu nuevu">
+<!ENTITY testpilot.settings.hasNewResults.label "Un estudiu tien resultaos nuevos">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Unviar siempre los mios datos (nun entrugame)">
+<!ENTITY testpilot.allYourStudies.label "Tolos estudios d'usuariu…">
+<!ENTITY testpilot.about.label "Tocante a Test Pilot">
+<!ENTITY testpilot.studiesWindow.title "Estudios de Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Estudios en cursu">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Estudios finaos">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Resultaos del estudiu">
+<!ENTITY testpilot.studiesWindow.settings.label "Configuración">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Cargando, por favor espera…">
+<!ENTITY testpilot.rawDataWindow.title "Test Pilot: datos en brutu">
+<!ENTITY testpilot.notification.close.tooltip "Zarrar">
+<!ENTITY testpilot.enable.label "Activar estudios d'usuariu">
+<!ENTITY testpilot.feedbackbutton.label "Opiniones">
+<!ENTITY testpilot.happy.label "Firefox prestóme porque…">
+<!ENTITY testpilot.sad.label "Firefox nun me prestó porque…">
+<!ENTITY testpilot.happy.thunderbirdLabel "Thunderbird prestóme porque…">
+<!ENTITY testpilot.sad.thunderbirdLabel "Thunderbird nun me prestó porque…">
+<!ENTITY testpilot.broken.label "Informar d'esti sitiu web como defeutuosu…">
+<!ENTITY testpilot.idea.label "Facer una suxerencia…">

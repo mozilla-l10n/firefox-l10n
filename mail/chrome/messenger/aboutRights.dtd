@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "Tocante a los tos derechos">
+<!ENTITY rights.intro-header "Tocante a los tos derechos">
+<!ENTITY rights.intro "&brandFullName; ye software llibre y de códigu abiertu, fechu por una comunidá de milenta persones de tol mundu. Hai dalgunes coses que tienes que saber:">
+<!ENTITY rights.intro-point1a "&brandShortName; ta disponible baxo los términos de la ">
+<!ENTITY rights.intro-point1b "Llicencia Pública de Mozilla">
+<!ENTITY rights.intro-point1c ". Esto significa que pues usar, copiar y distribuyir &brandShortName; a otros. Tamién yes llibre de modificar el códigu fonte de &brandShortName; como quieras p'adautalu a les tos necesidaes. La Llicencia Pública Mozilla tamién te da'l derechu a distribuyir les tos versiones modificaes.">
+<!ENTITY rights.intro-point2a "Mozilla nun da dengún derechu sobre los logos y marques rexistraes de Mozilla y Thunderbird. Pues alcontrar información adicional sobre les marques rexistraes ">
+<!ENTITY rights.intro-point2b "equí">
+<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point3a "Les polítiques de privacidá de los productos de &vendorShortName; puen alcontrase ">
+<!ENTITY rights.intro-point3b "equí">
+<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidá aplicable a esti productu tendría d'incluyise equí.">
+<!ENTITY rights.intro-point4a "&brandShortName; tamién ufre servicios opcionales, talos como'l serviciu d'anovamientu de complementos; sicasí, nun podemos garantizar que seyan 100&#37; precisos nin llibres de fallos. Puen alcontrase más detalles, incluyendo información sobre cómo desactivar los servicios, nos ">
+<!ENTITY rights.intro-point4b "términos del serviciu">
+<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4a-unbranded "Si esti productu incorpora servicios web, los términos aplicables a los servicios tendríen d'enllazase a la ">
+<!ENTITY rights.intro-point4b-unbranded "Servicios de sitios web">
+<!ENTITY rights.intro-point4c-unbranded " seición.">
+<!ENTITY rights.webservices-header "Servicios de sitios web de &brandFullName;">
+<!ENTITY rights.webservices-a "&brandFullName; ufre servicios opcionales (&quot;servicios&quot;), talos como'l serviciu d'anovamientu de complementos, que tán disponibles pal to usu con esta versión binaria de &brandShortName; talo y como se describe más abaxo. Si nun quies usar los servicios o los términos siguientes nun son aceutables, pues desactivar el servicio d'anovamientu de complementos abriendo les preferencies de l'aplicación, seleicionando la ">
+<!ENTITY rights.webservices-b "Avanzáu">
+<!ENTITY rights.webservices-c " seición, siguida de la ">
+<!ENTITY rights.webservices-d "Anovar">
+<!ENTITY rights.webservices-e " llingüeta, y desmarcar les opciones pa &quot;Comprobar anovamientos automáticamente pa&quot;.">
+<!ENTITY rights.webservices-unbranded "Equí tendría d'incluyise un resume de los servicios de sitios web qu'incorpora'l productu, xunto con instrucciones sobre cómo desactivalos, si ye aplicable.">
+<!ENTITY rights.webservices-term1-unbranded "Cualesquiera términos de serviciu aplicables a esti productu tendríen de llistase equí.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; pue abandonar o camudar los servicios a so discreición.">
+<!ENTITY rights.webservices-term2 "Yes llibre d'usar estos servicios cola versión correspondiente de &brandShortName;, y tienes tolos derechos necesarios pa facelo. &vendorShortName; y los sos llicenciatarios resérvense tolos demás derechos nos servicios. Estos términos nun tán empobinaos a llimitar dengún derechu otorgáu baxo les llicencies de códigu abiertu aplicables a &brandShortName; y a les sos correspondientes versiones de códigu abiertu de &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Los servicios proporciónense &quot;tal cual&quot;. &vendorShortName;, los collaboradores, llicenciatarios y distribuidores refuguen toa garantía, yá seya espresa o implícita, incluyendo ensin llimitase, garantíes de que'l serviciu ye comercializable y que cumple cola so necesidá particular. Tu asumes tol riesgu al seleicionar esti serviciu sobre'l to propósitu asina como sobre la calidá y rendimientu del serviciu. Dalgunes xurisdicciones nun permiten la esclusión o llimitación de les garantíes implícites, asina qu'esta denegación pue non aplicase nesi casu.">
+<!ENTITY rights.webservices-term4 "Sacante au se requiera pola llei, &vendorShortName;, los sos collaboradores, llicenciatarios y distribuidores nun podrán ser responsables de dengún dañu indireutu, especial, imprevistu, resultante, punitivu o exemplar deriváu de, o rellacionáu con, l'usu de &brandShortName; y los servicios. La responsabilidá coleutiva baxo estos términos nun podrá perpasar los US$500 (quinientos dólares americanos). Dalgunes xurisdicciones nun permiten la esclusión o llimitación de les garantíes implícites, asina qu'esta denegación pue non aplicase nesi casu.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; pue anovar estos términos según seya necesario de xemes en xemes. Estos términos nun puen modificase o encaboxase ensin l'alcuerdu por escritu de &vendorShortName;.">
+<!ENTITY rights.webservices-term6 "Estos términos tán rexíos poles lleis del estáu de California, EE.XX., escluyendo los sos conflictos con otres estipulaciones de la llei. Si cualquier parte d'estos términos resulta ser inválida o inexixible, les porciones restantes continuarán teniendo plenu efeutu. Nel casu d'haber un conflictu ente una versión traducida de estos términos y la versión n'idioma Inglés, prevalecerá la versión n'Inglés.">
