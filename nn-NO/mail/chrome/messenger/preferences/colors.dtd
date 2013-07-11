@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Fargar">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Tillat innhald å velje sine eigne fargar, i staden for vala over">
+<!ENTITY  allowPagesToUse.accesskey       "T">
+
+<!ENTITY  color                           "Tekst og bakgrunn">
+<!ENTITY  textColor.label                 "Tekst:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Bakgrunn:">
+<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  useSystemColors.label           "Bruk systemfargar">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Understrek lenker">
+<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  links                           "Lenkefarger">
+<!ENTITY  linkColor.label                 "Ubesøkte lenker:">
+<!ENTITY  linkColor.accesskey             "U">
+<!ENTITY  visitedLinkColor.label          "Besøkte lenker:">
+<!ENTITY  visitedLinkColor.accesskey      "s">
