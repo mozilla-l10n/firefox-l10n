@@ -52,8 +52,8 @@
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
-<!ENTITY pref_category_customize "Personalizza">
-<!ENTITY pref_category_display "Visualizza">
+<!ENTITY pref_category_customize "Personalizzazione">
+<!ENTITY pref_category_display "Visualizzazione">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Condivisione dati">
@@ -198,7 +198,7 @@
 <!ENTITY button_set "Imposta">
 <!ENTITY button_clear "Cancella">
 <!ENTITY abouthome_addons_title "Componenti aggiuntivi per &brandShortName;">
-<!ENTITY abouthome_addons_browse "Sfoglia tutti i comp. aggiuntivi per &brandShortName;">
+<!ENTITY abouthome_addons_browse "Esplora i comp. aggiuntivi per &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
 <!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY abouthome_top_sites_title "Siti principali">
