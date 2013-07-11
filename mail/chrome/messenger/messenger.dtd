@@ -30,6 +30,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Spjallreikningur…">
 <!ENTITY newIMAccountCmd.accesskey "S">
+<!ENTITY newFeedAccountCmd.label "Straum reikningur…">
+<!ENTITY newFeedAccountCmd.accesskey "S">
 <!ENTITY newIMContactCmd.label "Spjall tengiliður…">
 <!ENTITY newIMContactCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
@@ -471,6 +473,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY allowRemoteDebugging.label "Leyfa fjartengda aflúsun">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Ná í póst">
 <!ENTITY newMsgButton.label "Skrifa">
@@ -517,6 +521,8 @@
 <!ENTITY replyAllButton.tooltip "Svara sendanda og öllum viðtakendum">
 <!ENTITY replyListButton.tooltip "Svara póstlista">
 <!ENTITY forwardButton.tooltip "Áframsenda völdum pósti">
+<!ENTITY forwardAsInline.tooltip "Áframsenda valda pósta sem innfelldan texta">
+<!ENTITY forwardAsAttachment.tooltip "Áframsenda valda pósta sem viðhengi">
 <!ENTITY fileButton.tooltip "Vista valinn póst">
 <!ENTITY archiveButton.tooltip "Setja valinn póst í skjalageymslu">
 <!ENTITY nextButton.tooltip "Fara yfir á næsta ólesna póst">
@@ -537,6 +543,9 @@
 <!ENTITY tagButton.tooltip "Flokka póst">
 <!ENTITY compactButton.tooltip "Eyða eyddum póstum frá valinni möppu">
 <!ENTITY appmenuButton1.tooltip "Birta &brandShortName; valmynd">
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Áframsenda innfellt">
+<!ENTITY buttonMenuForwardAsAttachment.label "Áframsenda sem viðhengi">
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nýr póstur">
 <!ENTITY appmenuNewContactCmd.label "Tengiliður í nafnaskrá…">
@@ -556,8 +565,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ná í póst">
 <!ENTITY folderContextGetMessages.accesskey "N">
-<!ENTITY folderContextOpenNewWindow.label "Opna">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Opna í nýjum glugga">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Opna í nýjum flipa">
 <!ENTITY folderContextOpenNewTab.accesskey "f">
 <!ENTITY folderContextNew.label "Ný undirmappa…">
@@ -669,14 +678,24 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Áfram">
 <!ENTITY contextForward.accesskey "m">
-<!ENTITY contextForwardAsAttachment.label "Áframsenda sem viðhengi">
-<!ENTITY contextForwardAsAttachment.accesskey "m">
+<!ENTITY contextForwardAsMenu.label "Áframsenda sem">
+<!ENTITY contextForwardAsMenu.accesskey "f">
+<!ENTITY contextForwardAsInline.label "Innfellt">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Viðhengi">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "V">
+<!ENTITY contextMultiForwardAsAttachment.label "Áframsenda sem viðhengi">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "f">
 <!ENTITY contextMoveMsgMenu.label "Færa í">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nýlegt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Afrita í">
 <!ENTITY contextCopyMsgMenu.accesskey "A">
+<!ENTITY contextKillThreadMenu.label "Hunsa umræðu">
+<!ENTITY contextKillThreadMenu.accesskey "H">
+<!ENTITY contextKillSubthreadMenu.label "Hunsa undirumræðu">
+<!ENTITY contextWatchThreadMenu.label "Fylgjast með umræðu">
 <!ENTITY contextSaveAs.label "Vista sem…">
 <!ENTITY contextSaveAs.accesskey "s">
 <!ENTITY contextPrint.label "Prenta…">
