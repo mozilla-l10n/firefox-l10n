@@ -25,7 +25,6 @@
 <!ENTITY masterpass.label "Мастер-пароль">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Сертификаты">
-<!ENTITY validation.label "Валидация">
 <!ENTITY sync.label "Синхронизация">
 <!ENTITY advance.label "Дополнительно">
 <!ENTITY down.label "Загрузка">
