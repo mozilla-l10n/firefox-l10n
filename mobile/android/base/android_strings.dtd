@@ -87,6 +87,7 @@
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
 <!ENTITY pref_reflow_on_zoom3 "Перерисовка после двух нажатий">
+<!ENTITY pref_restore_session "Всегда восстанавливать вкладки">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
