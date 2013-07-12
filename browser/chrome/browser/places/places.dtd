@@ -27,7 +27,7 @@
 <!ENTITY view.sortDescending.label      "Z > A ক্ৰম সজাঁওক (Z)">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "পত্ৰচিহ্নসমূহ HTML ৰ পৰা  ইমপোৰ্ট কৰক (I)…">
+<!ENTITY importBookmarksFromHTML.label     "পত্ৰচিহ্নসমূহ HTML ৰ পৰা ইমপোৰ্ট কৰক (I)…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "পত্ৰচিহ্নসমূহ HTML লৈ এক্সপোৰ্ট কৰক (E)…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">

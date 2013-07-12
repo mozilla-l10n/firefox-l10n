@@ -110,7 +110,7 @@
 <!ENTITY cmd.contribute.tooltip               "এই এড-অনৰ উন্নয়নৰ বাবে অৱদান কৰক">
 
 <!ENTITY cmd.showReleaseNotes.label           "উন্মোচন টোকাসমূহ দেখুৱাওক">
-<!ENTITY cmd.showReleaseNotes.tooltip         "এই আপডেইটৰ কাৰণে উন্মোচন টোকাসমূহ দেখুৱাওক ">
+<!ENTITY cmd.showReleaseNotes.tooltip         "এই আপডেইটৰ কাৰণে উন্মোচন টোকাসমূহ দেখুৱাওক">
 <!ENTITY cmd.hideReleaseNotes.label           "উন্মোচন টোকাসমূহ লুকাওক">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "এই আপডেইটৰ কাৰণে উন্মোচন টোকাসমূহ লুকাওক">
 <!-- discovery view -->
@@ -119,8 +119,9 @@
 
 <!ENTITY discover.title                       "এড-অনসমূহ কি?">
 <!ENTITY discover.description2                "এড-অনসমূহ হল কিছুমান এপ্লিকেচন যিবোৰে আপোনাক &brandShortName; ক অতিৰিক্ত 
-কাৰ্য্যকৰীতা অথবা শৈলীৰ হৈতে ব্যক্তিগত ৰূপ দিয়াৰ অনুমতি দিয়ে। &brandShortName; ক আপোনাৰ নিজাববিয়া বনাবলে এটা সময়-সঞ্চয়ী কাষবাৰ, বতৰ সংকেতক অথবা এটা থীম ৰূপ প্ৰয়োগ কৰি চাওক।">
-<!ENTITY discover.footer                      "যেতিয়া আপুনি ইন্টাৰনেটৰ লগত সংযোগিত থাকিব,  এই পেইনে আপুনি প্ৰয়োগ কৰিবলে কিছুমান 
+কাৰ্য্যকৰীতা অথবা শৈলীৰ হৈতে ব্যক্তিগত ৰূপ দিয়াৰ অনুমতি দিয়ে। &brandShortName; ক আপোনাৰ নিজাববিয়া বনাবলে এটা সময়-সঞ্চয়ী কাষবাৰ, বতৰ সংকেতক অথবা এটা থীম ৰূপ 
+প্ৰয়োগ কৰি চাওক।">
+<!ENTITY discover.footer                      "যেতিয়া আপুনি ইন্টাৰনেটৰ লগত সংযোগিত থাকিব, এই পেইনে আপুনি প্ৰয়োগ কৰিবলে কিছুমান 
 শ্ৰেষ্ট আৰু লোকপ্ৰিয় এড-অন দেখাব।">
 <!-- detail view -->
 
@@ -130,7 +131,7 @@
 <!ENTITY detail.homepage.label                "ঘৰপৃষ্ঠা">
 <!ENTITY detail.numberOfDownloads.label       "ডাউনল'ডসমূহ">
 
-<!ENTITY detail.contributions.description     "এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে। ">
+<!ENTITY detail.contributions.description     "এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে।">
 
 <!ENTITY detail.updateType                    "স্বচালিত আপডেইটসমূহ">
 <!ENTITY detail.updateDefault.label           "অবিকল্পিত">
