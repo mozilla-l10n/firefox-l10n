@@ -8,19 +8,20 @@
 <!ENTITY intro.message             "Dites-nous ce que vous pensez jusque-là de &brandShortName; pour Android.">
 <!ENTITY intro.happyLink           "Je l'adore">
 <!ENTITY intro.sadLink             "Je rencontre quelques problèmes">
+<!ENTITY intro.maybeLater          "Plus tard, peut-être">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Si vous avez besoin d'aide ou rencontrez des problèmes avec &brandShortName;, veuillez consulter ">
-<!ENTITY support.link              "l'aide de &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.pre2              "Vous pouvez également consulter ">
+<!ENTITY support.link              "l'assistance de &brandShortName;">
+<!ENTITY support.post2             " pour plus d'informations.">
 
 <!ENTITY happy.header              "Ça fait du bien à entendre !">
 <!ENTITY happy.message             "Voulez-vous faire passer le mot en nous attribuant une note de 5 étoiles sur Google Play ?">
 <!ENTITY happy.finePrint           "Cela prend moins d'une minute et vous fait vous sentir bien.">
 <!ENTITY happy.ratingLink          "Oui, ouvrir Google Play">
-<!ENTITY happy.maybeLater          "Peut-être plus tard">
+<!ENTITY happy.maybeLater2         "Plus tard, peut-être">
 <!ENTITY happy.noThanks            "Non merci">
 
 <!ENTITY sad.message               "Nous sommes désolés que vous ayez quelques problèmes avec &brandShortName;. Expliquez-nous ce qu'il s'est passé afin que nous puissions le corriger.">
@@ -33,7 +34,7 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop, sad.thanksMessageBottom): These two
      strings will appear as separate paragraphs but make up one message. -->
 <!ENTITY sad.thanksMessageTop      "Nous travaillons sans relâche pour améliorer &brandShortName;. Soyez assurés que des êtres humains vont lire votre retour et faire leur maximum pour résoudre votre problème.">
-<!ENTITY sad.thanksMessageBottom   "Ou sinon.">
+<!ENTITY sad.thanksMessageBottom   "Ou sinon…">
 
 <!ENTITY feedback.privacy          "Afin de préserver votre vie privée, veuillez ne pas inclure d'informations personnelles identifiables dans votre retour.">
 <!ENTITY feedback.send             "Envoyer le retour">
