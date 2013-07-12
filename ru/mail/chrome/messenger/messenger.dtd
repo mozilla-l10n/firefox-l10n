@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "м">
 <!ENTITY allowRemoteDebugging.label "Разрешить удалённую отладку">
 <!ENTITY allowRemoteDebugging.accesskey "з">
-<!ENTITY getMsgButton.label "Получить">
+<!ENTITY getMsgButton1.label "Получить">
 <!ENTITY newMsgButton.label "Создать">
 <!ENTITY replyButton.label "Ответить">
 <!ENTITY replyAllButton.label "Ответить всем">
