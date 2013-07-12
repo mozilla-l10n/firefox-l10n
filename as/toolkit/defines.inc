@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Assamese (IN)
+#define MOZ_LANG_TITLE ইংৰাজী (US)
