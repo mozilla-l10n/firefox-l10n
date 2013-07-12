@@ -41,8 +41,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Nuevo Grupo">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
-<!ENTITY  bookmarkAllTabs.label              "Agregar todas a marcadores">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkAllTabs.label              "Agregar Pestañas a marcadores…">
+<!ENTITY  bookmarkAllTabs.accesskey          "P">
 <!ENTITY  undoCloseTab.label                 "Deshacer el cierre de la última pestaña">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.tooltip      "Agrupa tus pestañas">
 
 <!ENTITY feedButton.label             "Suscribir">
-<!ENTITY feedButton.tooltip           "Subcribirse a esta página…">
+<!ENTITY feedButton.tooltip           "Suscribirse a esta página…">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksButton.tooltip        "Mostrar tus marcadores">
@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 
 <!ENTITY historyHomeCmd.label "Inicio">
-<!ENTITY showAllHistoryCmd2.label "Mostrar todo">
+<!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Editar">
@@ -372,8 +372,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "v">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir enlace en una nueva ventana privada">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir enlace">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label      "Abrir marco en una pestaña nueva">
@@ -435,8 +435,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "G">
 <!ENTITY saveAudioCmd.label           "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey       "G">
-<!ENTITY emailImageCmd.label          "Email Image…">
-<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailImageCmd.label          "Enviar imagen…">
+<!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Email Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Email Audio…">
