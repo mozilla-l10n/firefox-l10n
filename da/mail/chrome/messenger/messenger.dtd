@@ -246,7 +246,7 @@
 <!ENTITY bodyMenuFeed.label "Feed-meddelelsens indhold som">
 <!ENTITY bodyMenuFeed.accesskey "F">
 <!ENTITY viewFeedWebPage.label "Webside">
-<!ENTITY viewFeedWebPage.accesskey "H">
+<!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Sammendrag">
 <!ENTITY viewFeedSummary.accesskey "m">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Standard format">
