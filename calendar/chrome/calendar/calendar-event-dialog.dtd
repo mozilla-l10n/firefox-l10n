@@ -56,7 +56,7 @@
 <!ENTITY  event.menu.item.new.message.label               "Meddelelse">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
 <!ENTITY  event.menu.item.new.contact.label               "Kontakt">
-<!ENTITY  event.menu.item.new.contact.accesskey           "k">
+<!ENTITY  event.menu.item.new.contact.accesskey           "K">
 <!ENTITY  event.menu.item.close.label                     "Afslut">
 <!ENTITY  event.menu.item.close.accesskey                 "A">
 <!ENTITY  event.menu.item.save.label                      "Gem">
@@ -190,7 +190,7 @@
 <!ENTITY event.attachments.menubutton.label               "Vedhæft">
 <!ENTITY event.attachments.menubutton.accesskey           "V">
 <!ENTITY event.attachments.url.label                      "Webside…">
-<!ENTITY event.attachments.url.accesskey                  "H">
+<!ENTITY event.attachments.url.accesskey                  "W">
 
 <!ENTITY event.attachments.popup.remove.label "Fjern">
 <!ENTITY event.attachments.popup.remove.accesskey "F">
