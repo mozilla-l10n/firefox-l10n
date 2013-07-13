@@ -499,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "K">
 <!ENTITY allowRemoteDebugging.label "Tillad remote debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+<!ENTITY allowRemoteDebugging.accesskey "r">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextForwardAsInline.label "En del af selve meddelelsen">
 <!ENTITY contextForwardAsInline.accesskey "d">
 <!ENTITY contextForwardAsAttachmentItem.label "Vedhæftet fil">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "V">
 <!ENTITY contextMultiForwardAsAttachment.label "Videresend som vedhæftede filer">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "æ">
 <!ENTITY contextMoveMsgMenu.label "Flyt til">
