@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Lorg is cuir 'na àite…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "L">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Lorg a-rithist">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
