@@ -9,10 +9,14 @@
 <!ENTITY newsSectionHdr.label         "Buidhnean-naidheachd"> 
 <!ENTITY subscribeNewsLink.label      "Rianaich fo-sgrìobhaidhean gu buidhnean-naidheachd"> 
 
+<!ENTITY chat.label                   "Cabadaich">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Cunntasan"> 
 <!ENTITY subscribeImapFolders.label   "Rianaich fo-sgrìobhaidhean gu pasgain">
 <!ENTITY settingsLink.label           "Seall roghainnean a' chunntais seo"> 
 <!ENTITY newAcctLink.label            "Cruthaich cunntas ùr"> 
+<!ENTITY newAcct.label                "Cruthaich cunntas ùr:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Feartan adhartach"> 
 <!ENTITY searchMsgsLink.label         "Rannsaich na teachdaireachdan"> 
