@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "O">
 <!ENTITY addIMAccountButton.label "Ouzhpennañ ur gont postelerezh prim…">
 <!ENTITY addIMAccountButton.accesskey "p">
+<!ENTITY addFeedAccountButton.label "Ouzhpennañ ur gont lanv…">
+<!ENTITY addFeedAccountButton.accesskey "l">
 <!ENTITY addOtherAccountButton.label "Ouzhpennañ ur gont all…">
 <!ENTITY addOtherAccountButton.accesskey "u">
 <!ENTITY setDefaultButton.label "Lakaat dre ziouer">

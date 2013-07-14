@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Da ">
-<!ENTITY fromField3.label "A-berzh ">
-<!ENTITY senderField3.label "Kaser ">
-<!ENTITY organizationField3.label "Aozadur ">
-<!ENTITY replyToField3.label "Respont da ">
+<!ENTITY toField4.label "Da">
+<!ENTITY fromField4.label "A-berzh">
+<!ENTITY senderField4.label "Kaser">
+<!ENTITY organizationField4.label "Aozadur">
+<!ENTITY replyToField4.label "Respont da">
 
-<!ENTITY subjectField3.label "Danvez ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Strolladoù-keleier ">
-<!ENTITY followupToField3.label "Kas en-dro da ">
-<!ENTITY tagsHdr3.label "Merkoù ">
-<!ENTITY dateField3.label "Deiziad ">
-<!ENTITY userAgentField3.label "Gwezhiad arveriad ">
-<!ENTITY referencesField3.label "Menegoù ">
-<!ENTITY messageIdField3.label "Naoudi ar gemennadenn ">
-<!ENTITY inReplyToField3.label "E-respont-da ">
-<!ENTITY originalWebsite3.label "Lec'hienn ">
+<!ENTITY subjectField4.label "Danvez">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Strolladoù-keleier">
+<!ENTITY followupToField4.label "Followup to">
+<!ENTITY tagsHdr4.label "Merkoù">
+<!ENTITY dateField4.label "Deiziad">
+<!ENTITY userAgentField4.label "Gwezher arveriad">
+<!ENTITY referencesField4.label "Daveoù">
+<!ENTITY messageIdField4.label "Naoudi ar gemennadenn">
+<!ENTITY inReplyToField4.label "E respont da">
+<!ENTITY originalWebsite4.label "Lec'hienn">
 
 <!ENTITY editMessageDescription.label "Ar gemennadenn-mañ zo ur brouilhed">
 <!ENTITY editMessageButton.label "Embann…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll skignañ">
 <!ENTITY hdrFollowupButton1.label "Respont d'ar strollad-keleier">
 <!ENTITY hdrFollowupButton1.tooltip "Kas ur respont d'ar strollad-keleier-mañ">
+<!ENTITY hdrMenuForwardButton.label "Treuzkas evel">
 <!ENTITY hdrForwardButton1.label "Treuzkas">
 <!ENTITY hdrForwardButton1.tooltip "Treuzkas ar gemennadenn-mañ">
 <!ENTITY hdrJunkButton1.label "Lastez">

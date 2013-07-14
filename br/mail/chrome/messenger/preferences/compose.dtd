@@ -6,10 +6,10 @@
 <!ENTITY itemAutoComplete.label              "Chomlec'hiañ">
 <!ENTITY itemSpellCheck.label                "Gwiriañ ar reizhskrivañ">
 
-<!ENTITY forwardMsg.label                     "Treuzkas ar gemennadenn :">
+<!ENTITY forwardMsg.label                     "Treuzkas ar gemennadenn evel :">
 <!ENTITY forwardMsg.accesskey                 "k">
-<!ENTITY inline.label                         "Enlinenn">
-<!ENTITY asAttachment.label                   "Evel ur stagadur">
+<!ENTITY inline.label                         "Testenn enkorfet">
+<!ENTITY asAttachment.label                   "Evel kenstagadur">
 <!ENTITY addExtension.label                   "ouzhpennañ un askouezh d'an anv restr">
 <!ENTITY addExtension.accesskey               "e">
 

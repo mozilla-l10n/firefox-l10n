@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "A">
 <!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
 <!ENTITY newIMAccountCmd.accesskey "p">
+<!ENTITY newFeedAccountCmd.label "Kont lanv…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Kont darempred…">
 <!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
@@ -348,7 +350,7 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Treuzkas evel">
 <!ENTITY forwardAsMenu.accesskey "e">
-<!ENTITY forwardAsInline.label "A-steud">
+<!ENTITY forwardAsInline.label "Testenn enkorfet">
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Kenstagadurioù">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Aotren an diveugañ a-bell">
+<!ENTITY allowRemoteDebugging.accesskey "a">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Kerc'hat">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Respont d'ar c'haser ha d'an holl zegemererien">
 <!ENTITY replyListButton.tooltip "Respont d'ar roll skignañ">
 <!ENTITY forwardButton.tooltip "Treuzkas ar gemennadenn diuzet">
+<!ENTITY forwardAsInline.tooltip "Treuzkas ar gemennadenn diuzet evel testenn enkorfet">
+<!ENTITY forwardAsAttachment.tooltip "Treuzkas ar gemennadenn diuzet evel kenstagadur">
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
 <!ENTITY archiveButton.tooltip "Diellaouiñ ar c'hemennadennoù diuzet">
 <!ENTITY nextButton.tooltip "Mont d'ar gemennadenn anlennet war-lerc'h">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 <!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Treuzkas evel testenn enkorfet">
+<!ENTITY buttonMenuForwardAsAttachment.label "Treuzkas evel kenstagadur">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
-<!ENTITY folderContextOpenNewWindow.label "Digeriñ e-barzh ur prenestr posteloù nevez">
-<!ENTITY folderContextOpenNewWindow.accesskey "D">
+<!ENTITY folderContextOpenInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">
 <!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextNew.label "Isteuliad nevez…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Treuzkas">
 <!ENTITY contextForward.accesskey "e">
-<!ENTITY contextForwardAsAttachment.label "Treuzkas evel kenstagadurioù">
-<!ENTITY contextForwardAsAttachment.accesskey "k">
+<!ENTITY contextForwardAsMenu.label "Treuzkas evel">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Testenn enkorfet">
+<!ENTITY contextForwardAsInline.accesskey "f">
+<!ENTITY contextForwardAsAttachmentItem.label "Kenstagadur">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextMultiForwardAsAttachment.label "Treuzkas evel kenstagadurioù">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "s">
 <!ENTITY contextMoveMsgMenu.label "Dilec'hiañ etrezek">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nevesañ">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "v">
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
+<!ENTITY contextKillThreadMenu.label "Leuskel an neudenn a-gostez">
+<!ENTITY contextKillThreadMenu.accesskey "n">
+<!ENTITY contextKillSubthreadMenu.label "Leuskel an isneudenn a-gostez">
+<!ENTITY contextWatchThreadMenu.label "Evezhiañ an neudenn">
 <!ENTITY contextSaveAs.label "Enrollañ evel…">
 <!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Moullañ…">

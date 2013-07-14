@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label "Ardeiñ ar c'houmanantoù…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
+<!ENTITY feedWindowTitle.label "Skoazeller ar c'hontoù lanvioù">
+
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogoù &amp; keleier">
 <!ENTITY feeds.wizardShortName "Lanvioù">

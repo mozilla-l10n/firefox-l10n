@@ -12,10 +12,14 @@
 <!ENTITY accountsSectionHdr.label     "Kontoù">
 <!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantoù">
 <!ENTITY settingsLink.label           "Gwelout an arventennoù evit ar gont-se">
+<!ENTITY chat.label                   "Flapiñ">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY newAcctLink.label            "Krouiñ ur gont nevez">
 
 <!ENTITY advFeaturesSectionHdr.label  "Keweriusterioù kempleshoc'h">
 <!ENTITY searchMsgsLink.label         "Klask er c'hemennadennoù">
+<!ENTITY newAcct.label                "Krouiñ ur gont nevez :">
 <!ENTITY filtersLink.label            "Ardeiñ siloù ar c'hemennadennoù">
 <!ENTITY junkSettings.label           "Arventennoù ar posteloù lastez">
 <!ENTITY offlineLink.label            "Arventennoù ezlinenn">
