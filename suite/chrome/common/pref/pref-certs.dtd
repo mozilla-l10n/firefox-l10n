@@ -15,3 +15,9 @@
 
 <!ENTITY pref.certs.title         "Certifikáty">
 <!ENTITY certs.label              "Certifikáty">
+
+<!ENTITY validation.ocsp.caption              "Online overenie stavu certifikátov">
+<!ENTITY enableOCSP.label                     "Použiť Online overenie stavu certifikátov (OCSP) na potvrdenie platnosti certifikátov">
+<!ENTITY enableOCSP.accesskey                 "u">
+<!ENTITY validation.requireOCSP.description   "Ak pripojenie k serveru OCSP zlyhá, označiť certifikát ako neplatný">
+<!ENTITY validation.requireOCSP.accesskey     "A">

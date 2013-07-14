@@ -79,3 +79,15 @@
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Povoliť trvalé záznamy">
 <!ENTITY options.enablePersistentLogging.tooltip  "Ak povolíte túto možnosť, Webová konzola nebude vymazávať výstup pri každej návšteve novej stránky">
+
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+<!ENTITY options.profiler.label            "Nástroj na profilovanie JavaScriptu">
+
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Zobraziť údaje o platforme Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ak povolíte túto možnosť, správy Nástroja na profilovanie JavaScriptu budú obsahova symboly platformy Gecko">

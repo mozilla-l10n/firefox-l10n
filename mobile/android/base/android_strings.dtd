@@ -111,6 +111,7 @@
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
 <!ENTITY pref_reflow_on_zoom3 "Zaostriť text po dvojitom ťuknutí">
+<!ENTITY pref_restore_session "Vždy obnoviť karty">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
