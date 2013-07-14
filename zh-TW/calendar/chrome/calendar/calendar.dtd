@@ -349,3 +349,9 @@
 <!ENTITY calendar.error.description "描述:">
 <!ENTITY calendar.error.title "發生錯誤">
 
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "新增為事件">
+<!ENTITY calendar.extract.task.button          "新增為工作">
+<!ENTITY calendar.extract.event.button.tooltip "從訊息中找出行事曆資訊，並新增為您的行事曆事件">
+<!ENTITY calendar.extract.task.button.tooltip  "從訊息中找出行事曆資訊，並新增為您的行事曆工作">
+
