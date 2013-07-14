@@ -151,8 +151,10 @@
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Àite:" >
 <!ENTITY event.location.accesskey                         "i">
-<!ENTITY event.categories.label                           "Roinn:">
+<!ENTITY event.categories.label                           "Roinn-seòrsa:">
 <!ENTITY event.categories.accesskey                       "R">
+<!ENTITY event.categories.textbox.label                   "Cuir roinn-seòrsa ùr ris" >
+<!ENTITY event.categories.textbox.accesskey               "u">
 <!ENTITY event.calendar.label                             "Mìosachan:" >
 <!ENTITY event.calendar.accesskey                         "c">
 <!ENTITY event.attendees.label                            "Freastalaichean:" >

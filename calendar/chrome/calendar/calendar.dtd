@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Còd na mearachd:">
 <!ENTITY calendar.error.description "Tuairisgeul:">
 <!ENTITY calendar.error.title "Thachair mearachd">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Cuir ris mar thachartas">
+<!ENTITY calendar.extract.task.button          "Cuir ris mar shaothair">
+<!ENTITY calendar.extract.event.button.tooltip "Tog fiosrachadh mìosachain on teachdaireachd is cuir ris a' mhìosachan e mar thachartas">
+<!ENTITY calendar.extract.task.button.tooltip  "Tog fiosrachadh mìosachain on teachdaireachd is cuir ris a' mhìosachan e mar shaothair">
