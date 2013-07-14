@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "下載郵件">
+<!ENTITY getMsgButton1.label "下載郵件">
 <!ENTITY newMsgButton.label "寫信">
 <!ENTITY replyButton.label "回覆">
 <!ENTITY replyAllButton.label "全部回覆">

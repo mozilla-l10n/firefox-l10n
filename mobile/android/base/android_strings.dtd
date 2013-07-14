@@ -115,6 +115,7 @@
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
 <!ENTITY pref_reflow_on_zoom3 "雙擊以重排文字">
+<!ENTITY pref_restore_session "總是還原分頁標籤">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
