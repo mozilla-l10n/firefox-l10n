@@ -489,7 +489,7 @@
 <!ENTITY filtersApplyToMessage.accesskey   "w">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label     "Pobierz">
+<!ENTITY getMsgButton1.label "Pobierz">
 <!ENTITY newMsgButton.label     "Napisz">
 <!ENTITY replyButton.label      "Odpowiedz">
 <!ENTITY replyAllButton.label   "Odp. wszystkim">
