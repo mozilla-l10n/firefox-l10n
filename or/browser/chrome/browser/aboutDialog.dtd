@@ -65,4 +65,7 @@
 <!ENTITY update.applying            "ଅଦ୍ୟତନକୁ ପ୍ରୟୋଗ କରୁଅଛି…">
 
 <!ENTITY warningDesc.telemetryDesc  "ଏହା ସ୍ୱୟଂଚାଳିତ ଭାବରେ କାର୍ଯ୍ୟଦକ୍ଷତା, ହାର୍ଡୱେର, ବ୍ୟବହାର ଏବଂ ଇଚ୍ଛାରୂପଣ ସୂଚନାକୁ &vendorShortName; ପାଖକୁ &brandShortName; କୁ ଅଧିକ ଉତ୍ତମ କରିବା ପାଇଁ ପଠାଇଥାଏ।">
-
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ଅନ୍ୟ ଏକ ସ୍ଥିତିରେ ଅଦ୍ୟତିତ ହୋଇଛି">
+<!ENTITY update.unsupported.end      "">
+<!ENTITY update.unsupported.linkText "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
+<!ENTITY update.unsupported.start    "ଆପଣ ଏହି ତନ୍ତ୍ରରେ ଅଧିକ ଅଦ୍ୟତନ କରିପାରିବେ ନାହିଁ। ">
