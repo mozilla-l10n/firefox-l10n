@@ -4,18 +4,18 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Թղթ.-ի &amp; պատճենում">
+<!ENTITY copyAndFolderTitle.label "Թղթապանակներ &amp; Պատճենում">
 <!ENTITY sendingPrefix.label "Նամակը ուղարկելիս միանգամից՝">
 <!ENTITY fccMailFolder.label "Պահել կրկնօրինակը՝">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները թղթապանակում, որից պատասխանվել է">
+<!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները այնտեղ, որտեղից պատասխանվել է">
 <!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc էլ. փոստի այս հասցեները.">
+<!ENTITY ccAddress.label "Cc էլ. փոստի այս հասցեներին.">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Բաժանել հասցեները ստորակետով">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc էլ. փոստի այս հասցեները.">
+<!ENTITY bccAddress.label "Bcc էլ. փոստի այս հասցեներին.">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Բաժանել հասցեները ստորակետով">
 <!ENTITY saveMessageDlg.label "Ցուցադրել հաստատման պատուհանը նամակները պահպանելիս">

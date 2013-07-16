@@ -1,12 +1,12 @@
 <!ENTITY aboutDialog.title          "&brandFullName;-ի մասին">
 
-<!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
+<!ENTITY community.start2           "&brandShortName;-ը ստեղծել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "գլոբալ համայնք">
-<!ENTITY community.end2             " միասին աշխատել ինտերնետը բարելավելու նպատակով։ Մենք հավատում ենք, որ ինտերնետը պետք է լինի բաց, հանրամատչելի և հասանելի յուրաքանչյուրի համար՝ առանց սահմանափակումների։">
+<!ENTITY community.creditsLink      "գլոբալ համայնք,">
+<!ENTITY community.end2             "որի նպատակն է միասին աշխատելը՝ համացանցը բարելավելու նպատակով։ Մենք հավատում ենք, որ համացանցը պետք է լինի բաց, հանրամատչելի և հասանելի յուրաքանչյուրի համար՝ առանց սահմանափակումների։">
 
 <!ENTITY contribute.start           "Հետաքրքրե՞ց: ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -14,7 +14,7 @@
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Լիցենզիոն տեղեկություն">
+<!ENTITY bottomLinks.license        "Արտոնագրի մասին">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Օգտագործողի Իրավունքները">
@@ -48,6 +48,16 @@
 <!ENTITY update.manual.linkText     "վերջին տարբերակը">
 <!ENTITY update.manual.end          "">
 
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "You can not perform further updates on this system. ">
+<!ENTITY update.unsupported.linkText "Learn more">
+<!ENTITY update.unsupported.end      "">
+
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -62,6 +72,6 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Դուք այժմ գտնվում եք՝ ">
-<!ENTITY channel.description.end    " թարմացնել աղբյուրը.  ">
+<!ENTITY channel.description.end    " թարմացումների ալիքում:">
 
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -29,9 +29,9 @@
 <!ENTITY closeCmd.accesskey                             "C">
 <!ENTITY printSetupCmd.label                            "Էջի կարգավորումներ…">
 <!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Հասցեի նախ. դիտում">
+<!ENTITY printPreviewContactCmd.label                   "Տպելու նախադիտում">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Հասցեագրքի նախ. դիտում">
+<!ENTITY printPreviewAddressBook.label                  "Տպելու նախադիտում">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "Տպել հասցեն...">
 <!ENTITY printContactCmd.accesskey                      "P">
@@ -42,10 +42,10 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Խմբագրել">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Հետ">
+<!ENTITY undoCmd.label                                  "Ետարկել">
 <!ENTITY undoCmd.key                                    "Հ">
 <!ENTITY undoCmd.accesskey                              "U">
-<!ENTITY redoCmd.label                                  "Առաջ">
+<!ENTITY redoCmd.label                                  "Կրկնել">
 <!ENTITY redoCmd.key                                    "Ա">
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Կտրել">
@@ -83,11 +83,11 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Գործիքաշերտեր">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
-<!ENTITY menubarCmd.label                               "Ընտրացանկ վահանակը">
+<!ENTITY menubarCmd.label                               "Ընտրացանկ վահանակ">
 <!ENTITY menubarCmd.accesskey                           "Ը">
 <!ENTITY showAbToolbarCmd.label                         "Հասցեագրքի գործիքաշերտը">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
-<!ENTITY showTaskbarCmd.label                           "Վիճակի տողը">
+<!ENTITY showTaskbarCmd.label                           "Վիճակի տող">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Կարգավորել…">
 <!ENTITY customizeToolbar.accesskey                     "C">
@@ -107,7 +107,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Ցուցադրվող անունը">
 <!ENTITY displayNameCmd.accesskey                       "D">
-<!ENTITY sortMenu.label                                 "Դասավորել ըստ">
+<!ENTITY sortMenu.label                                 "Խմբավորել ըստ՝">
 <!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
@@ -134,7 +134,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.accesskey                        "L">
 <!ENTITY editButton2.label                              "Հատկություններ">
 <!ENTITY editButton2.accesskey                          "P">
-<!ENTITY newmsgButton.label                             "Գրել">
+<!ENTITY newmsgButton.label                             "Նոր նամակ">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Ակնթարթային նամակ">
 <!ENTITY newIM.accesskey                                "I">
@@ -164,11 +164,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Էլ-Փոստ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.label                                 "Անունը զրույցում">
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Կազմակերպությունը">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Մականունը">
+<!ENTITY NickName.label                                 "Մականուն">
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Լրացուցիչ էլ. հասցե">
 <!ENTITY SecondEmail.accesskey                          "l">
@@ -216,4 +216,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label "Թաքցնել">
 <!ENTITY minimizeWindow.key "Թ">
 <!ENTITY bringAllToFront.label "Բոլորից առջև">
-<!ENTITY zoomWindow.label "Խոշորացնել">
+<!ENTITY zoomWindow.label "Չափը">

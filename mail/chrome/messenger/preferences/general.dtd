@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Կարգավորել…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "Ցուցադրել էկրանի ներքևի պատկերը">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "Խաղարկել">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Համակարգային ձայնը՝ նոր նամակի դեպքում">

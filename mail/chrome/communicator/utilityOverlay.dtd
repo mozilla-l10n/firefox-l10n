@@ -13,7 +13,7 @@
 
 <!ENTITY editMenu.label          "Խմբագրել">
 <!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Հետ">
+<!ENTITY undoCmd.label            "Ետարկել">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Կրկնել">
@@ -42,7 +42,7 @@
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Գործիքաշերտեր">
 <!ENTITY viewToolbarsMenu.accesskey      "T">
-<!ENTITY showTaskbarCmd.label          "Վիճակի տողը">
+<!ENTITY showTaskbarCmd.label          "Վիճակի տող">
 <!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY proxy.label                                    "Պրոքսիի կարգավորում...">

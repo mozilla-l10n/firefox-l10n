@@ -27,10 +27,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName;-ի Ներմուծման վարպետ">
+<!ENTITY importTitle.label        "&brandShortName;-ի Ներմուծման Օգնական">
 <!ENTITY importShortDesc.label    "Ներմուծել նամակ, Հասցեագիրք, Կարգավորումներ և ֆիլտրեր այլ ծրագրերից">
 
-<!ENTITY importDescription1.label "Այս վարպետը կներմուծի նամակներ, հասցեներ, կարգավորումներ և/կամ ֆիլտրեր այլ փոստային ծրագրից և ընտրված հասցեներ &brandShortName;։">
+<!ENTITY importDescription1.label "Օգնականը կներմուծի նամակներ, հասցեներ, կարգավորումներ և/կամ ֆիլտրեր այլ փոստային ծրագրից և ընտրված հասցեներ &brandShortName;-ում։">
 <!ENTITY importDescription2.label "Երբ ներմուծվեն, Դուք կկարողանաք մուտք գործել &brandShortName;-ի միջոցով։">
 
 <!ENTITY selectDescription.label  "Ընտրեք, թե ի՞նչ եք ցանկանում ներմուծել.">
@@ -39,7 +39,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY acctName.label           "Անունը.">
 <!ENTITY acctName.accesskey       "N">
 
-<!ENTITY back.label               "&lt; Հետ">
+<!ENTITY back.label               "&lt; Նախորդը">
 <!ENTITY forward.label            "Առաջ &gt;">
 <!ENTITY finish.label             "Ավարտել">
 <!ENTITY cancel.label             "Չեղարկել">

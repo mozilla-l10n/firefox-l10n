@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Փոստարկղի անունը.">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Հիմնական որոշիչը">
-<!ENTITY identityDesc.label "Յուրք. փոստարկղ ունի իր որոշիչը, դա այն տեղեկությունն է, որ այլ մարդիկ տեսնում են կարդալով Ձեր նամակները։">
+<!ENTITY identityDesc.label "Յուրք. փոստարկղ ունի իր որոշիչը, դա այն տեղեկությունն է, որ այլ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
 <!ENTITY name.label "Ձեր անունը.">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "Էլ. հասցեներ.">

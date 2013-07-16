@@ -8,7 +8,7 @@
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Բոլորը">
 <!ENTITY viewAll.accesskey "A">
-<!ENTITY viewUnread.label "Չկարդացած">
+<!ENTITY viewUnread.label "Չընթերցված">
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Չջնջված">
 <!ENTITY viewNotDeleted.accesskey "D">

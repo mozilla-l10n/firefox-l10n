@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Գրել. (չկա վերնագիր)">
+<!ENTITY msgComposeWindow.title "Նոր նամակ. (անվերնագիր)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Ֆայլ">
@@ -57,10 +57,10 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Խմբագրել">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Հետ">
+<!ENTITY undoCmd.label "Ետարկել">
 <!ENTITY undoCmd.key "Հ">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Առաջ">
+<!ENTITY redoCmd.label "Կրկնել">
 <!ENTITY redoCmd.key "Ա">
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Կտրել">
@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Գտնել և փոխարինել">
 <!ENTITY findCmd.key "Գ">
 <!ENTITY findCmd.accesskey "F">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Կրկին փնտրել">
 <!ENTITY findAgainCmd.key "Կ">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -141,7 +142,7 @@
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Delivery Format">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Ինքնաորոշում">
+<!ENTITY autoFormatCmd.label "Ինքնաբացահայտում">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Միայն Սովորական տեքստ">
 <!ENTITY plainTextFormatCmd.accesskey "P">
@@ -187,7 +188,7 @@
 <!ENTITY minimizeWindow.key "Թ">
 <!ENTITY minimizeWindow.label "Թաքցնել">
 <!ENTITY bringAllToFront.label "Բոլորից առջև">
-<!ENTITY zoomWindow.label "Խոշորացնել">
+<!ENTITY zoomWindow.label "Չափը">
 <!ENTITY windowMenu.label "Պատուհան">
 
 <!-- Mail Toolbar -->
@@ -229,7 +230,7 @@
 <!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Ներմուծել ժպտացող երես">
+<!ENTITY SmileButton.tooltip "Ներմուծել ժպտացող դեմք">
 <!ENTITY smiley1Cmd.label "Ժպիտ">
 <!ENTITY smiley2Cmd.label "Մռայլ">
 <!ENTITY smiley3Cmd.label "Հուշում">
@@ -245,7 +246,7 @@
 <!ENTITY smiley13Cmd.label "Գլխիվայր ">
 <!ENTITY smiley14Cmd.label "Անմեղ">
 <!ENTITY smiley15Cmd.label "Լաց">
-<!ENTITY smiley16Cmd.label "Դուրս-ցցված">
+<!ENTITY smiley16Cmd.label "Բերանփակ">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Առաջարկություններ չկան">
@@ -253,7 +254,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Ավելացնել բառարանում">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Հետ">
+<!ENTITY undo.label "Ետարկել">
 <!ENTITY undo.accesskey "U">
 <!ENTITY cut.label "Կտրել">
 <!ENTITY cut.accesskey "t">

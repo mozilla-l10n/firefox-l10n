@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Խլամ">
+<!ENTITY itemJunk.label          "Թափոն">
 <!ENTITY itemPhishing.label      "Էլ. խաբկանք">
 <!ENTITY itemPasswords.label     "Գաղտնաբառեր">
 <!ENTITY itemAntiVirus.label     "Հակավիրուս">
 <!ENTITY itemCookies.label       "Վեբ բովանդակություն">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Նշեք խլամի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
-<!ENTITY manualMark.label "Երբ ես նշում եմ նամակը որպես խլամ.">
+<!ENTITY junkMail.intro "Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
+<!ENTITY manualMark.label "Երբ ես նշում եմ նամակը որպես թափոն՝">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Տեղափոխել փոստարկղի &quot;Խլամ&quot; թղթապանակ">
+<!ENTITY manualMarkModeMove.label "Տեղափոխել փոստարկղի &quot;Թափոն&quot; թղթապանակ">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Ջնջել դրանք">
 <!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "Նշել խլամ նամակները որպես կարդացած">
+<!ENTITY markAsReadOnSpam.label "Նշել թափոն նամակները որպես ընթերցված">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.label "Միացնել թափոնի հարմարողական ֆիլտրի մատյանը">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Ցուցադրել մատյանը">
 <!ENTITY openJunkLog.accesskey "S">

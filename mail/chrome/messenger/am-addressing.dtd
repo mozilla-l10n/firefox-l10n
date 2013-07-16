@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Հասցեների &amp; կազմում">
+<!ENTITY addressing.label          "Նոր նամակ &amp; Հասցեավորում">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -31,16 +31,16 @@
 <!ENTITY aboveQuote.label                     "պատասխանել մեջբերումից առաջ">
 <!ENTITY belowQuote.label                     "պատասխանել մեջբերումից հետո">
 <!ENTITY selectAndQuote.label                 "ընտրել մեջբերումը">
-<!ENTITY place.label                          "և նշել իմ ստորագրությունը">
+<!ENTITY place.label                          "և դնել իմ ստորագրությունը">
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "մեջբերումից հետո (խորհուրդ է տրվում)">
 <!ENTITY aboveText.label                      "իմ պատասխանից հետո (խորհուրդ է տրվում)">
 <!ENTITY includeSigOnReply.label              "Պատասխանելիս ներառել ստորագրությունը">
 <!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Ներառել ստորագրությունը փոխանցելիս">
+<!ENTITY includeSigOnForward.label            "Պատասխանելիս ներառել ստորագրությունը">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
-<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
+<!ENTITY globalComposingPrefs.label           "Նոր նամակ գրելու հիմնական կարգավորումներ...">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">

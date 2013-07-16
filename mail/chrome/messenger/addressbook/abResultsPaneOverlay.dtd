@@ -10,7 +10,7 @@
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Մականունը">
+<!ENTITY NickName.label                        "Մականուն">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Լրացուցիչ էլ. հասցե">
 <!ENTITY SecondEmail.accesskey                 "l">
@@ -28,7 +28,7 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Աշխ. հեռախոս">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ChatName.label                        "Chat Name">
+<!ENTITY ChatName.label                        "Անունը զրույցում">
 <!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Աճմամբ">
 <!ENTITY sortAscending.accesskey               "A">

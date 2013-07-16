@@ -16,5 +16,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "գլխագրերը">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "Նշել գլխագրերը որպես կարդացած">
+<!ENTITY mark.label         "Նշել գլխագրերը որպես ընթերցած ">
 <!ENTITY mark.accesskey     "M">

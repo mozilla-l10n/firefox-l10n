@@ -57,7 +57,7 @@
 <!ENTITY switch-to-provisioner.accesskey "Ն">
 
 
-<!ENTITY warning.label                   "Զգուշացում!">
+<!ENTITY warning.label                   "Զգուշացում:">
 <!ENTITY incomingSettings.label          "Մուտքային կարգավորումներ.">
 <!ENTITY outgoingSettings.label          "Ելքային կարգավորումներ.">
 <!ENTITY technicaldetails.label          "Տեխնիկական մանրամասներ">

@@ -31,7 +31,7 @@
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "Որոշակի ընտրված">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Միայն կարդալ">
+<!ENTITY InputReadOnly.label "Միայն կարդալու">
 <!ENTITY InputReadOnly.accesskey "R">
 <!ENTITY InputDisabled.label "Անջատված">
 <!ENTITY InputDisabled.accesskey "D">

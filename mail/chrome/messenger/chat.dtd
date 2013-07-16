@@ -9,9 +9,9 @@
 <!ENTITY chat.noConv.title             "Երկխոսությունները կցուցադրվեն այստեղ։">
 <!ENTITY chat.noConv.description       "Զրույցը սկսելու համար օգտագործեք ձախում գտնվող անձանց ցանկը։">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;-ը չունի որևէ երկխոսություն։">
-<!ENTITY chat.noAccount.title             "Փոստարկղեր չկան։">
-<!ENTITY chat.noAccount.description       "Թույլատրեք &brandShortName;-ին ուղեկցել Ձեզ հաշվեկշիռը կարգավորելու ընթացքում:">
-<!ENTITY chat.accountWizard.button       "Սկիզբը">
+<!ENTITY chat.noAccount.title             "Դեռ մուտք չեք գործել:">
+<!ENTITY chat.noAccount.description       "Թույլատրեք &brandShortName;-ին ուղեկցել Ձեզ՝ չաթի կարգավորումների ընթացքում:">
+<!ENTITY chat.accountWizard.button       "Սկսել">
 <!ENTITY chat.noConnectedAccount.title             "Հաշվեկշիռները միացված չեն:">
 <!ENTITY chat.noConnectedAccount.description       "Կարող եք միանալ 'Զրույցի վիճակը' պատուհանից:">
 <!ENTITY chat.showAccountManager.button       "Ցուցադրել զրույցի վիճակը">

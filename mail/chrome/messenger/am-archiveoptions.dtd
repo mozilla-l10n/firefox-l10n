@@ -17,7 +17,7 @@
 <!ENTITY archiveExample.label "Օրինակ">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
-<!ENTITY archiveFolderName.label "Արխիվներ">
+<!ENTITY archiveFolderName.label "Արխիվ">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
 <!ENTITY inboxFolderName.label "Մուտքային">

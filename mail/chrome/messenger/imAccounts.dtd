@@ -11,7 +11,7 @@
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "Փ">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "Փոստարկղեր չկան">
+<!ENTITY accountManager.noAccount.title      "Դեռ մուտք չեք գործել">
 <!ENTITY accountManager.noAccount.description "Սեղմեք &accountManager.newAccount.label; կոճակը, որպեսզի &brandShortName;-ը օգնի Ձեզ կարգավորելու հարցում։">
 <!ENTITY account.autoSignOn.label     "Մուտք գործել բացելիս">
 <!ENTITY account.autoSignOn.accesskey "Մ">
