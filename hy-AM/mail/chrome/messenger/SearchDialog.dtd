@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "Փնտրել նամակներ">
 <!ENTITY results.label               "Արդյունքներ">
-<!ENTITY fileHereMenu.label          "Ֆայլը այստեղ">
-<!ENTITY fileHereMenu.accesskey      "F">
-<!ENTITY fileButton.label            "Ֆայլ">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY moveHereMenu.label          "Տեղ. այստեղ">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Տեղափոխել՝">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Բացել թղթապանակում">
 <!ENTITY openInFolder.accesskey      "r">
@@ -37,7 +37,7 @@
 <!ENTITY abSearchDialogTitle.label   "Ընդլայնված որոնում Հասցեագրքում">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Թեմատիկա">
+<!ENTITY threadColumn.label "Շղթան">
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
 <!ENTITY subjectColumn.label "Վերնագիրը">
@@ -47,32 +47,32 @@
 <!ENTITY accountColumn.label "Փոստարկղ">
 <!ENTITY statusColumn.label "Վիճակը">
 <!ENTITY sizeColumn.label "Չափը">
-<!ENTITY junkStatusColumn.label "Խլամի վիճակը">
-<!ENTITY unreadColumn.label "Չկարդացած">
+<!ENTITY junkStatusColumn.label "Թափոնի վիճակը">
+<!ENTITY unreadColumn.label "Չընթերցված">
 <!ENTITY totalColumn.label "Ընդամենը">
-<!ENTITY readColumn.label "Կարդացած">
+<!ENTITY readColumn.label "Ընթերցել">
 <!ENTITY receivedColumn.label "Ստացված">
 <!ENTITY starredColumn.label "Աստղիկով">
 <!ENTITY locationColumn.label "Տեղադրությունը">
-<!ENTITY idColumn.label "Ստացված՝">
+<!ENTITY idColumn.label "Ստացման կարգի">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
-<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի թեմատիկան։"> 
-<!ENTITY fromColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ումից">
-<!ENTITY recipientColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ստացողի">
-<!ENTITY subjectColumn.tooltip "Սեղմեք՝ դասավորելու ըստ վերնագրի">
-<!ENTITY dateColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ամսաթվի">
-<!ENTITY priorityColumn.tooltip "Սեղմեք՝ դասավորելու ըստ առաջն-ան">
-<!ENTITY tagsColumn.tooltip "Սեղմեք՝ դասավորելու ըստ պիտակի">
-<!ENTITY accountColumn.tooltip "Սեղմեք՝ դասավորելու ըստ փոստարկղի">
-<!ENTITY statusColumn.tooltip "Սեղմեք՝ դասավորելու ըստ վիճակի">
-<!ENTITY sizeColumn.tooltip "Սեղմեք՝ դասավորելու ըստ չափի">
-<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ դասավորելու ըստ խլամի վիճակի">
-<!ENTITY unreadColumn.tooltip "Չկարդացած նամակների քանակը թեմատիկայում">
-<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ թեմատիկայի">
-<!ENTITY readColumn.tooltip "Սեղմեք՝ ըստ կարդացածի դասավորելու">
-<!ENTITY receivedColumn.tooltip "Սեղմեք՝ ըստ ստացման դասավորելու">
-<!ENTITY starredColumn.tooltip "Սեղմեք՝ ըստ աստղիկի դասավորելու">
-<!ENTITY locationColumn.tooltip "Սեղմեք՝ ըստ տեղի դասավորելու">
-<!ENTITY idColumn.tooltip "Սեղմեք՝ ըստ ստացման կարգի դասավորելու">
+<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի շղթան։"> 
+<!ENTITY fromColumn.tooltip "Սեղմեք՝ խմբավորելու ումից">
+<!ENTITY recipientColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացողի">
+<!ENTITY subjectColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վերնագրի">
+<!ENTITY dateColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ամսաթվի">
+<!ENTITY priorityColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ առաջն-ան">
+<!ENTITY tagsColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ պիտակի">
+<!ENTITY accountColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ փոստարկղի">
+<!ENTITY statusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վիճակի">
+<!ENTITY sizeColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ չափի">
+<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ թափոնի վիճակի">
+<!ENTITY unreadColumn.tooltip "Չընթերցված նամակների քանակը շղթայում">
+<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
+<!ENTITY readColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ընթերցման ">
+<!ENTITY receivedColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման ">
+<!ENTITY starredColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ աստղիկի ">
+<!ENTITY locationColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ տեղի ">
+<!ENTITY idColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման կարգի ">

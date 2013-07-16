@@ -12,7 +12,7 @@
 <!ENTITY TextAreaRows.accessKey "Գ">
 <!ENTITY TextAreaCols.label "Սյուներ.">
 <!ENTITY TextAreaCols.accessKey "Ս">
-<!ENTITY TextAreaReadOnly.label "Միայն կարդալ">
+<!ENTITY TextAreaReadOnly.label "Միայն կարդալու">
 <!ENTITY TextAreaReadOnly.accessKey "Մ">
 <!ENTITY TextAreaDisabled.label "Անջատված">
 <!ENTITY TextAreaDisabled.accessKey "Ա">

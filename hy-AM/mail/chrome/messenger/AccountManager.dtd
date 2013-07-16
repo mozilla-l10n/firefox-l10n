@@ -6,17 +6,19 @@
 
 <!ENTITY accountManagerTitle.label "Փոստարկղի կարգավորումներ">
 
-<!ENTITY accountActionsButton.label "Փոստարկղի գործը">
+<!ENTITY accountActionsButton.label "Գործողություններ">
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Ավելացնել փոստարկղ...">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Ավելացնել Զրույցի հաշվեկշիռ...">
 <!ENTITY addIMAccountButton.accesskey "Ա">
+<!ENTITY addFeedAccountButton.label "Add Feed Account…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Ավելացնել փոստարկղ...">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Նշել որպես հիմնական">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Ջնջել փոստարկղը">
+<!ENTITY removeButton.label "Ջնջել">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->

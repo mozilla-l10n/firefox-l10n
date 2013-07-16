@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Խլամի կարգավորումներ">
-<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
-<!ENTITY level.label "Միացնել խլամի ղեկավարումը այս փոստարկղում">
+<!ENTITY junkSettings.label "Թափոնի կարգավորումներ">
+<!ENTITY trainingDescription.label "Եթե միացված է, ապա Դուք նախ պետք է վարժեցնեք &brandShortName;-ը՝ որոշելու ոչ պիտանի նամակները՝ օգտագործելով Փոստաղբ գործիքաշերտը և նշելով արդյոք նամակը թափոն է, թե ոչ: Միայն դրանից հետո &brandShortName;-ը կկարողանա ինքնաբերաբար որոշել ոչ պիտանի նամակները:">
+<!ENTITY level.label "Միացնել փոստաղբի ղեկավարումը այս փոստարկղում">
 <!ENTITY level.accesskey "E">
 
-<!ENTITY move.label "Տեղափ. խլամները՝">
+<!ENTITY move.label "Տեղափ. թափոն նամակները՝">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; թղթապանակում՝">
+<!ENTITY junkFolderOn.label "&quot;Թափոն&quot; թղթապանակ՝">
 <!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "Այլ.">
 <!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Միանգամից ջնջել խլամ նամակը, որը հին է՝">
+<!ENTITY purge1.label "Միանգամից ջնջել թափոն նամակը, որը հին է՝">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "օր">
 
-<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
+<!ENTITY whitelistHeader.label "Նամակը ինքնաբերաբար չնշել որպես թափոն, եթե ուղարկողը առկա է այստեղ՝">
 <!ENTITY whitelistHeader.accesskey "D">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
-<!ENTITY ispHeaders.label "Վստահել խլամ նամակի վերնագրին՝">
+<!ENTITY ispHeadersWarning.label "Եթե միացված է, &brandShortName;-ը ինքնաբերաբար կնշի ոչ պիտանի նամակները:">
+<!ENTITY ispHeaders.label "Վստահել թափոն նամակի վերնագրին՝">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "Ընտրությունը">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkActions.label "Տեղափոխումը">
 
-<!ENTITY globalJunkPrefs.label "Global Junk Preferences…">
+<!ENTITY globalJunkPrefs.label "Թափոնի ընդհ. կարգավորումներ">
 <!ENTITY globalJunkPrefs.accesskey "G">

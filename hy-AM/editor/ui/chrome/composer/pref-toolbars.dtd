@@ -35,5 +35,5 @@
 <!ENTITY underline.label        "Ընդգծված">
 
 <!ENTITY absolutePosition.label "Իսկական դիրքով">
-<!ENTITY decreaseZIndex.label   "Ուղարկել հետ">
+<!ENTITY decreaseZIndex.label   "Ուղարկել հետև">
 <!ENTITY increaseZIndex.label   "Պահել առջևում">

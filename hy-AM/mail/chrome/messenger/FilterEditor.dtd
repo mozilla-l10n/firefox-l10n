@@ -17,7 +17,7 @@
 <!ENTITY highestPriorityCmd.label "Ամենաբարձր">
 
 <!ENTITY contextDesc.label "Կիրառել ֆիլտրը, երբ՝">
-<!ENTITY contextIncomingMail.label "Getting New Mail:">
+<!ENTITY contextIncomingMail.label "Նոր նամակի ստացում.">
 <!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "Ձեռադիր բացում">
 <!ENTITY contextManual.accesskey "R">
@@ -35,22 +35,22 @@
 <!ENTITY copyMessage.label "Պատճենել՝">
 <!ENTITY forwardTo.label "Փոխանցել՝">
 <!ENTITY replyWithTemplate.label "Պատասխանել Նմուշով">
-<!ENTITY markMessageRead.label "Նշել որպես կարդացած">
-<!ENTITY markMessageUnread.label "Նշել որպես կարդացած">
+<!ENTITY markMessageRead.label "Նշել որպես ընթերցված">
+<!ENTITY markMessageUnread.label "Նշել որպես ընթերցված">
 <!ENTITY markMessageStarred.label "Ավելացնել աստղ">
 <!ENTITY setPriority.label "Առաջնայնությունը՝">
 <!ENTITY addTag.label "Պիտակված նամակ">
-<!ENTITY setJunkScore.label "Տալ խլամի վիճակ՝">
+<!ENTITY setJunkScore.label "Տալ թափոնի վիճակ՝">
 <!ENTITY deleteMessage.label "Ջնջել նամակը">
 <!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկիչից">
 <!ENTITY fetchFromPOP.label "Ընտրել POP սպասարկիչից">
-<!ENTITY ignoreThread.label "Անտեսել թեմատիկան">
-<!ENTITY ignoreSubthread.label "Անտեսել ենթաթեման">
-<!ENTITY watchThread.label "Նայել թեմատիկան">
+<!ENTITY ignoreThread.label "Անտեսել շղթան">
+<!ENTITY ignoreSubthread.label "Անտեսել ենթաշղթան">
+<!ENTITY watchThread.label "Նայել շղթան">
 <!ENTITY stopExecution.label "Կանգնեցնել ֆիլտրը">
 
-<!ENTITY addAction.tooltip "Add a new action">
-<!ENTITY removeAction.tooltip "Remove this action">
+<!ENTITY addAction.tooltip "Նոր գործողություն">
+<!ENTITY removeAction.tooltip "Հեռացնել գործողությունը">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.

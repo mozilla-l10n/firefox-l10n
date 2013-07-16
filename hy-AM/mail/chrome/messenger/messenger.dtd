@@ -6,7 +6,7 @@
 <!ENTITY titleSeparator.label " -  ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Թղթապանակը...">
+<!ENTITY newFolderCmd.label "Թղթապանակին…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Փակել էջը">
 <!ENTITY closeTabCmd2.accesskey "C">
@@ -32,12 +32,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "Ա">
 <!ENTITY newIMAccountCmd.label "Զրույցի հաշվեկշիռը...">
 <!ENTITY newIMAccountCmd.accesskey "Զ">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
+<!ENTITY newFeedAccountCmd.label "Feed Account…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Զրուցել կոնտակտի հետ...">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Բացել պահպանված նամակը...">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Կցորդներ">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Պահպանել Որպես">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Ֆայլ">
@@ -47,9 +47,9 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Ստանալ նոր նամակները՝">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "Բոլոր փոստարկղերինը">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Բոլոր փոստարկղերից">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Տվյալ փոստարկղինը">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Տվյալ փոստարկղից">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY getNextNMsgCmd.label "Ստանալ հաջորդ 500 նամակները">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -62,7 +62,7 @@
 <!ENTITY renameFolder.label "Անվանափոխել…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "Ա">
-<!ENTITY compactFolders.label "Կոմպակտ թղթապանակներ">
+<!ENTITY compactFolders.label "Սեղմել թղթապանակները">
 <!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Դատարկել Աղբարկղը">
 <!ENTITY emptyTrashCmd.accesskey    "y">
@@ -81,7 +81,7 @@
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "Տ">
-<!ENTITY printPreviewCmd.label "Նախնական դիտում">
+<!ENTITY printPreviewCmd.label "Տպելու նախադիտում">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -103,12 +103,12 @@
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Բոլորը">
 <!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "Թեմատիկա">
+<!ENTITY selectThreadCmd.label "Շղթան">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "Բ">
 <!ENTITY selectFlaggedCmd.label "Աստղիկով նամակներ">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Ընտրյալ թղթապանակը">
+<!ENTITY menuFavoriteFolder.label "Ընտրյալ թղթապանակ">
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Հատկություններ...">
 <!ENTITY folderPropsFolderCmd.label "Թղթ. հատկությունները...">
@@ -120,9 +120,9 @@
 <!ENTITY redoMoveMsgCmd.label "Առաջ՝ Տեղափոխ. նամակը">
 <!ENTITY undoCopyMsgCmd.label "Հետ՝ Պատճենել նամակը">
 <!ENTITY redoCopyMsgCmd.label "Առաջ՝ Պատճենել նամակը">
-<!ENTITY undoMarkAllCmd.label "Հետ՝ Նշել բոլորը կարդացած">
-<!ENTITY redoMarkAllCmd.label "Առաջ՝ Նշել բոլորը կարդացած">
-<!ENTITY undoDefaultCmd.label "Հետ">
+<!ENTITY undoMarkAllCmd.label "Ետարկել՝ Նշել բոլորը ընթերցված">
+<!ENTITY redoMarkAllCmd.label "Կրկնել՝ Նշել բոլորը ընթերցված">
+<!ENTITY undoDefaultCmd.label "Ետարկել">
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "Կրկնել">
 <!ENTITY redoDefaultCmd.accesskey "R">
@@ -135,7 +135,7 @@
 <!ENTITY customizeToolbar.label "Կարգավորել…">
 <!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY messagePaneLayoutStyle.label "Լայնքը">
+<!ENTITY messagePaneLayoutStyle.label "Չափը">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "Դասական տեսքով">
 <!ENTITY messagePaneClassic.accesskey "C">
@@ -154,7 +154,7 @@
 <!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Բոլորը">
 <!ENTITY allFolders.accesskey "A">
-<!ENTITY unreadFolders.label "Չկարդացած">
+<!ENTITY unreadFolders.label "Չընթերցված">
 <!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "Ընտրյալ">
 <!ENTITY favoriteFolders.accesskey "F">
@@ -162,7 +162,7 @@
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Դասավորել ըստ">
+<!ENTITY sortMenu.label "Խմբավորել ըստ">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Ամսաթիվ">
 <!ENTITY sortByDateCmd.accesskey "e">
@@ -180,7 +180,7 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Պիտակներ">
 <!ENTITY sortByTagsCmd.accesskey "g">
-<!ENTITY sortByJunkStatusCmd.label "Խլամի վիճակը">
+<!ENTITY sortByJunkStatusCmd.label "Թափոնի վիճակը">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "Վերնագիրը">
 <!ENTITY sortBySubjectCmd.accesskey "b">
@@ -188,7 +188,7 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByUnreadCmd.label "Կարդալ">
+<!ENTITY sortByUnreadCmd.label "Ընթերցել">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "Ստացված՝">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
@@ -204,7 +204,7 @@
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Նամակներ">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "Թեմատիկաներ">
+<!ENTITY threads.label "Շղթաներ">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Բոլորը">
 <!ENTITY allMsgsCmd.accesskey "A">
@@ -214,13 +214,13 @@
 <!ENTITY collapseAllThreadsCmd.label "Հավաքել բոլորը">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "Հ">
-<!ENTITY unreadMsgsCmd.label "Չկարդացած">
+<!ENTITY unreadMsgsCmd.label "Չընթերցված">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "Թեմատիկաները չկարդացածների հետ">
+<!ENTITY threadsWithUnreadCmd.label "Շղթաները Չընթերցվածների հետ">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Նայած թեմատիկաներ՝ չկարդացածների հետ">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Դիտված շղթաներ՝ Չընթերցվածների հետ">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "Անտեսված թեմատիկաներ">
+<!ENTITY ignoredThreadsCmd.label "Անտեսված շղթաներ">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Գլխագրեր">
@@ -284,12 +284,12 @@
 <!ENTITY nextMsgCmd.label "Նամակ">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "Ն">
-<!ENTITY nextUnreadMsgCmd.label "Չկարդացած նամակ">
+<!ENTITY nextUnreadMsgCmd.label "Չընթերցված նամակ">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "Չ">
 <!ENTITY nextStarredMsgCmd.label "Աստղիկով նամակ">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Չկարդացած թեմատիկա">
+<!ENTITY nextUnreadThread.label "Չընթերցված շղթա">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "Չ">
 <!ENTITY prevMenu.label "Նախորդը">
@@ -297,13 +297,13 @@
 <!ENTITY prevMsgCmd.label "Նամակ">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "Ն">
-<!ENTITY prevUnreadMsgCmd.label "Չկարդացած նամակ">
+<!ENTITY prevUnreadMsgCmd.label "Չընթերցված նամակ">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "Չ">
 <!ENTITY goForwardCmd.label "Փոխանցել">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "Փ">
-<!ENTITY goBackCmd.label "Հետ">
+<!ENTITY goBackCmd.label "Նախորդը">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "Հ">
 <!ENTITY goChatCmd.label "Զրույց">
@@ -342,7 +342,7 @@
 <!ENTITY replyToAllMsgCmd.label "Պատասխանել բոլորին">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "Պ">
-<!ENTITY replyToListMsgCmd.label "Պատասխանել ցանկում">
+<!ENTITY replyToListMsgCmd.label "Պատասխանել ցանկով">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "Պ">
 <!ENTITY forwardMsgCmd.label "Փոխանցել">
@@ -370,13 +370,13 @@
 <!ENTITY moveToFolderAgain.label "Կրկնել">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Անտեսել թեմատիկան">
+<!ENTITY killThreadMenu.label "Անտեսել շղթան">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "Ա">
-<!ENTITY killSubthreadMenu.label "Անտեսել ենթաթեմատիկան">
+<!ENTITY killSubthreadMenu.label "Անտեսել ենթաշղթան">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "Ա">
-<!ENTITY watchThreadMenu.label "Նայել թեմատիկան">
+<!ENTITY watchThreadMenu.label "Նայել շղթան">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "Ն">
 <!ENTITY fileHereMenu.label "Ֆայլը այստեղ">
@@ -398,42 +398,44 @@
 <!ENTITY markMenu.label "Նշել">
 <!ENTITY markMenu.accesskey "k">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Որպես կարդացած">
+<!ENTITY markAsReadCmd.label "Որպես ընթերցված">
 <!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsUnreadCmd.label "Որպես չկարդացած">
+<!ENTITY markAsUnreadCmd.label "Որպես Չընթերցված">
 <!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY markThreadAsReadCmd.label "Թեմաները կարդացած">
+<!ENTITY markThreadAsReadCmd.label "Թեմաները ընթերցված">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "Թ">
-<!ENTITY markReadByDateCmd.label "Կարդացած ըստ ամսաթվի...">
+<!ENTITY markReadByDateCmd.label "Ընթերցված ըստ ամսաթվի...">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "Կ">
-<!ENTITY markAllReadCmd.label "Բոլորը կարդացած">
+<!ENTITY markAllReadCmd.label "Բոլորը ընթերցվել են">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "Բ">
 <!ENTITY markStarredCmd.label "Ավելացնել աստղ">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "Ա">
-<!ENTITY markAsJunkCmd.label "Որպես խլամ">
+<!ENTITY markAsJunkCmd.label "Որպես թափոն ">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "Ո">
-<!ENTITY markAsNotJunkCmd.label "Որպես ոչ խլամ">
+<!ENTITY markAsNotJunkCmd.label "Որպես ոչ փոստաղբ">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "Ո">
-<!ENTITY recalculateJunkScoreCmd.label "Բացել խլամի կառավարումը">
+<!ENTITY recalculateJunkScoreCmd.label "Բացել թափոնի կառավարումը">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Բացել նամակը">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "Բ">
-<!ENTITY openConversationCmd.label "Բացել պատուհանում">
+<!ENTITY openConversationCmd.label "Բացել պատուհանով">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "Բ">
-<!ENTITY openFeedMessage.label "Բացել շղթայի գրությունը">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Վեբ էջը նոր պատուհանում">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Արդյունքը նոր պատուհանում">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openAttachmentListCmd.label "Կցորդներ">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Բացել որպես վեբ էջ">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Փոփոխել վեբ էջը և արդյունքը գրության վահանակում">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
@@ -458,7 +460,7 @@
 <!ENTITY imStatus.unavailable        "Անհասանելի">
 <!ENTITY imStatus.offline            "Անցանց">
 <!ENTITY imStatus.showAccounts       "Ցուցադրել փոստարկղերը...">
-<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.label "Միանալ զրույցին...">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Պահպանված ֆայլեր">
 <!ENTITY savedFiles.accesskey "l">
@@ -471,13 +473,13 @@
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Կատարել ֆիլտրերը նամակում">
 <!ENTITY filtersApplyToMessage.accesskey "u">
-<!ENTITY runJunkControls.label "Կատարել խլամի ղեկավարումը թղթ.">
+<!ENTITY runJunkControls.label "Բացել թափոնի կառավարումը թղթ.-ում">
 <!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Հեռացնել խլամ նամակը՝">
+<!ENTITY deleteJunk.label "Հեռացնել թափոն նամակը՝">
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Ներմուծել…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Սխալների ցուցակ">
+<!ENTITY errorConsoleCmd.label "Սխալների ցանկ">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ջնջել Վերջին Պատմությունը...">
@@ -487,23 +489,25 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Ստանալ նամակ">
 <!ENTITY newMsgButton.label "Գրել">
 <!ENTITY replyButton.label "Պատասխանել">
 <!ENTITY replyAllButton.label "Պատասխանել բոլորին">
-<!ENTITY replyListButton.label "Պատասխանել ցանկում">
+<!ENTITY replyListButton.label "Պատասխանել ցանկով">
 <!ENTITY forwardButton.label "Փոխանցել">
 <!ENTITY fileButton.label "Ֆայլ">
 <!ENTITY archiveButton.label "Արխիվ">
 <!ENTITY nextButton.label "Հաջորդը">
-<!ENTITY nextButtonToolbarItem.label "Հաջորդ չկարդացածը">
+<!ENTITY nextButtonToolbarItem.label "Հաջորդ չընթերցվածը">
 <!ENTITY nextMsgButton.label "Հաջորդը">
 <!ENTITY previousButton.label "Նախորդ">
 <!ENTITY previousButtonToolbarItem.label "Նախորդ չկարդացածը">
 <!ENTITY previousMsgButton.label "Նախորդը">
-<!ENTITY backButton1.label "Նախորդ">
+<!ENTITY backButton1.label "Նախորդը">
 <!ENTITY goForwardButton1.label "Փոխանցել">
 <!ENTITY deleteItem.title "Ջնջել">
 <!ENTITY deleteButton.label "Ջնջել">
@@ -512,9 +516,9 @@
 <!ENTITY printButton.label "Տպել">
 <!ENTITY stopButton.label "Կանգնեցնել">
 <!ENTITY throbberItem.title "Ակտիվության ինդիկատոր">
-<!ENTITY junkItem.title "Խլամ">
-<!ENTITY junkButton.label "Խլամ">
-<!ENTITY notJunkButton.label "Խլամ չէ">
+<!ENTITY junkItem.title "Փոստաղբ">
+<!ENTITY junkButton.label "Թափոն">
+<!ENTITY notJunkButton.label "Թափոն չէ">
 <!ENTITY addressBookButton.label "Հասցեագիրք">
 <!ENTITY chatButton.label "Զրույց">
 <!ENTITY glodaSearch.title "Գլոբալ որոնում">
@@ -522,7 +526,7 @@
 <!ENTITY mailViewsToolbarItem.title "Նամակի դիտումները">
 <!ENTITY folderLocationToolbarItem.title "Թղթապանակի տեղը՝">
 <!ENTITY tagButton.label "Պիտակ">
-<!ENTITY compactButton.label "Կոմպակտ">
+<!ENTITY compactButton.label "Սեղմել">
 <!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
@@ -535,26 +539,32 @@
 <!ENTITY replyAllButton.tooltip "Պատ. ուղարկողին և մյուսներին">
 <!ENTITY replyListButton.tooltip "Պատաս. ցանկին">
 <!ENTITY forwardButton.tooltip "Փոխանցել ընտրվածները">
+<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
+<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY fileButton.tooltip "Ընտրված նամակի ֆայլը">
 <!ENTITY archiveButton.tooltip "Արխիվացնել ընտրված նամակները">
-<!ENTITY nextButton.tooltip "Տեղափ. հաջորդ չկարդացած նամակը">
+<!ENTITY nextButton.tooltip "Տեղափ. հաջորդ չընթերցված նամակը">
 <!ENTITY nextMsgButton.tooltip "Հաջորդ գրությունը">
-<!ENTITY previousButton.tooltip "Տեղափ. նախորդ չկարդացած նամակը">
+<!ENTITY previousButton.tooltip "Տեղափ. նախորդ չընթերցված նամակը">
 <!ENTITY previousMsgButton.tooltip "Նախորդ գրությունը">
 <!ENTITY goForwardButton.tooltip "Մեկ նամակ հետ">
-<!ENTITY goBackButton.tooltip "Մեկ նամակ հետ">
+<!ENTITY goBackButton.tooltip "Նախորդ նամակը">
 <!ENTITY deleteButton.tooltip "Ջնջել ընտրված նամակը կամ թղթպ.">
 <!ENTITY undeleteButton.tooltip "Չջնջել ընտրված նամակը">
 <!ENTITY markButton.tooltip "Նշել նամակներ">
 <!ENTITY printButton.tooltip "Տպել այս նամակը">
 <!ENTITY stopButton.tooltip "Կանգնեցնել փոխանցումը">
-<!ENTITY junkButton.tooltip "Նշել ընտրված նամակները որպես խլամ">
-<!ENTITY notJunkButton.tooltip "Նշել ընտրված նամակները որպես ոչ խլամ">
+<!ENTITY junkButton.tooltip "Նշել ընտրված նամակները որպես թափոն">
+<!ENTITY notJunkButton.tooltip "Նշել ընտրված նամակները որպես պիտանի">
 <!ENTITY addressBookButton.tooltip "Անցնել Հասցեագրքին">
 <!ENTITY chatButton.tooltip "Ցուցադրել Զրույցի էջը">
 <!ENTITY tagButton.tooltip "Կցագրել նամակները">
 <!ENTITY compactButton.tooltip "Հեռացնել ջնջված նամակները ընտրված թղթ-ից">
-<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+<!ENTITY appmenuButton1.tooltip "Ցուցադրել &brandShortName;-ի Ընտրացանկը">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
+<!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Նոր նամակ">
@@ -562,13 +572,13 @@
 <!ENTITY appmenuEditMenu.label "Խմբագրել">
 <!ENTITY appmenuQFBMenu.label "Արագ ֆիլտրման վահանակ">
 <!ENTITY appmenuToolbarLayout.label "Գործիքների տեղը...">
-<!ENTITY appmenuSelectThread.label "Select Thread">
-<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
+<!ENTITY appmenuSelectThread.label "Ընտրել շղթան">
+<!ENTITY appmenuSelectFlagged.label "Նշել աստղիկով նամակները">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Նոր պիտակ...">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.label "Կառավարել պիտակները...">
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ստանալ նամակները">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "Բացել">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Բացել նոր էջում">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Նոր ենթաթղթապանակ...">
@@ -588,19 +598,19 @@
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Ջնջել">
 <!ENTITY folderContextRemove.accesskey "D">
-<!ENTITY folderContextCompact.label "Կոմպակտ">
+<!ENTITY folderContextCompact.label "Սեղմել">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Դատարկել Աղբարկղը">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
-<!ENTITY folderContextEmptyJunk.label "Ջնջել խլամները">
+<!ENTITY folderContextEmptyJunk.label "Դատարկել Փոստաղբը">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "Ուղարկել չուղարկված նամակները">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Չբաժանորդագրվել">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
-<!ENTITY folderContextMarkNewsgroupRead.label "Նշել որպես կարդացած">
+<!ENTITY folderContextMarkNewsgroupRead.label "Նշել որպես ընթերցված">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Նշել որպես կարդացած">
+<!ENTITY folderContextMarkMailFolderRead.label "Նշել որպես ընթերցված">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրվել...">
 <!ENTITY folderContextSubscribe.accesskey "b">
@@ -608,7 +618,7 @@
 <!ENTITY folderContextSearchForMessages.accesskey "Փ">
 <!ENTITY folderContextProperties.label "Հատկություններ...">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակը">
+<!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակ">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Կարգավորել…">
 <!ENTITY folderContextSettings.accesskey "e">
@@ -630,7 +640,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Պահպանել որոնումը որպես թղթապանակ...">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Թեմատիկա">
+<!ENTITY threadColumn.label "Շղթան">
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
 <!ENTITY subjectColumn.label "Վերնագիրը">
@@ -640,46 +650,46 @@
 <!ENTITY accountColumn.label "Փոստարկղ">
 <!ENTITY statusColumn.label "Վիճակը">
 <!ENTITY sizeColumn.label "Չափը">
-<!ENTITY junkStatusColumn.label "Խլամի վիճակը">
-<!ENTITY unreadColumn.label "Չկարդացած">
+<!ENTITY junkStatusColumn.label "Թափոնի վիճակը">
+<!ENTITY unreadColumn.label "Չընթերցված">
 <!ENTITY totalColumn.label "Ընդամենը">
-<!ENTITY readColumn.label "Կարդացած">
+<!ENTITY readColumn.label "Ընթերցել">
 <!ENTITY receivedColumn.label "Ստացված">
 <!ENTITY starredColumn.label "Աստղիկով">
 <!ENTITY locationColumn.label "Տեղադրությունը">
-<!ENTITY idColumn.label "Ստացված՝">
+<!ENTITY idColumn.label "Ստացման կարգի">
 <!ENTITY attachmentColumn.label "Կցորդներ">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Սեղմեք՝ ընտրելու ցուցադրվելիք սյունները">
-<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի թեմատիկան։">
-<!ENTITY fromColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ումից">
-<!ENTITY recipientColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ստացողի">
-<!ENTITY subjectColumn.tooltip "Սեղմեք՝ դասավորելու ըստ վերնագրի">
-<!ENTITY dateColumn.tooltip "Սեղմեք՝ դասավորելու ըստ ամսաթվի">
-<!ENTITY priorityColumn.tooltip "Սեղմեք՝ դասավորելու ըստ առաջն-ան">
-<!ENTITY tagsColumn.tooltip "Սեղմեք՝ դասավորելու ըստ պիտակի">
-<!ENTITY accountColumn.tooltip "Սեղմեք՝ դասավորելու ըստ փոստարկղի">
-<!ENTITY statusColumn.tooltip "Սեղմեք՝ դասավորելու ըստ վիճակի">
-<!ENTITY sizeColumn.tooltip "Սեղմեք՝ դասավորելու ըստ չափի">
-<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ դասավորելու ըստ խլամի վիճակի">
-<!ENTITY unreadColumn.tooltip "Չկարդացած նամակների քանակը թեմատիկայում">
-<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ թեմատիկայի">
-<!ENTITY readColumn.tooltip "Սեղմեք՝ ըստ կարդացածի դասավորելու">
-<!ENTITY receivedColumn.tooltip "Սեղմեք՝ ըստ ստացման դասավորելու">
-<!ENTITY starredColumn.tooltip "Սեղմեք՝ ըստ աստղիկի դասավորելու">
-<!ENTITY locationColumn.tooltip "Սեղմեք՝ ըստ տեղի դասավորելու">
-<!ENTITY idColumn.tooltip "Սեղմեք՝ ըստ ստացման կարգի դասավորելու">
-<!ENTITY attachmentColumn.tooltip "Սեղմեք՝ ըստ կցորդների դասավորելու">
+<!ENTITY threadColumn.tooltip "Սեղմեք՝ ցուցադրելու նամակի շղթան։">
+<!ENTITY fromColumn.tooltip "Սեղմեք՝ խմբավորելու ումից">
+<!ENTITY recipientColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացողի">
+<!ENTITY subjectColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վերնագրի">
+<!ENTITY dateColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ամսաթվի">
+<!ENTITY priorityColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ առաջն-ան">
+<!ENTITY tagsColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ պիտակի">
+<!ENTITY accountColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ փոստարկղի">
+<!ENTITY statusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ վիճակի">
+<!ENTITY sizeColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ չափի">
+<!ENTITY junkStatusColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ թափոնի">
+<!ENTITY unreadColumn.tooltip "Չընթերցված նամակների քանակը շղթայում">
+<!ENTITY totalColumn.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
+<!ENTITY readColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ընթերցման">
+<!ENTITY receivedColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման ">
+<!ENTITY starredColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ աստղիկի ">
+<!ENTITY locationColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ տեղի ">
+<!ENTITY idColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման կարգի ">
+<!ENTITY attachmentColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ կցորդների ">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Նամակը բացլ նոր պատուհանում">
+<!ENTITY contextOpenNewWindow.label "Նամակը բացել նոր պատուհանով">
 <!ENTITY contextOpenNewWindow.accesskey "W">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Նամակը բացլ նոր էջում">
+<!ENTITY contextOpenNewTab.label "Նամակը բացել նոր էջում">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Բացել նամակը երկխոսությունում">
 <!ENTITY contextOpenConversation.accesskey "n">
@@ -693,23 +703,33 @@
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Պատասխանել բոլորին">
 <!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextReplyList.label "Պատասխանել ցանկում">
+<!ENTITY contextReplyList.label "Պատասխանել ցանկով">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Փոխանցել">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "Փոխանցել որպես կցորդ">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Forward As">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Inline">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Տեղափոխել՝">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Վերջին">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Պատճենել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Ignore Thread">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
+<!ENTITY contextWatchThreadMenu.label "Watch Thread">
 <!ENTITY contextSaveAs.label "Պահպանել որպես…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Տպել…">
 <!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "Նախնական դիտում">
+<!ENTITY contextPrintPreview.label "Տպելու նախադիտում">
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
@@ -735,7 +755,7 @@
    that the user selects using the same widget as the move to/copy to
    mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolder.label "Թղթապանակը...">
+<!ENTITY columnPicker.applyToFolder.label "Թղթապանակին…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -770,8 +790,8 @@
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
-<!ENTITY junkBarButton1.label "Խլամ չէ">
+<!ENTITY junkBarMessage2.label "&brandShortName;-ը կարծում է, որ սա թափոն է:">
+<!ENTITY junkBarButton1.label "Թափոն չէ">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
@@ -874,7 +894,7 @@
 <!ENTITY minimizeWindow.label "Փոքրացնել">
 <!ENTITY minimizeWindow.key "Փ">
 <!ENTITY bringAllToFront.label "Բոլորից առջև">
-<!ENTITY zoomWindow.label "Խոշորացնել">
+<!ENTITY zoomWindow.label "Չափը">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "Կարգավորումներ…">

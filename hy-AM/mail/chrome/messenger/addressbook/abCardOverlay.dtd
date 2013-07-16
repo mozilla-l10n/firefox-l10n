@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Միանալ">
+<!ENTITY Contact.tab                     "Կոնտակտը">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Անուն">
 
@@ -23,9 +23,9 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Առաջին.">
+<!ENTITY NameField1.label               "Անուն.">
 <!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "Վերջին.">
+<!ENTITY NameField2.label               "Ազգանուն.">
 <!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "Հնչյունային.">
 <!ENTITY PhoneticField2.label           "Հնչյունային.">
@@ -36,7 +36,7 @@
 <!ENTITY NickName.label                 "Մականուն.">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY PrimaryEmail.label             "Էլ. նամակը.">
+<!ENTITY PrimaryEmail.label             "Էլ. փոստը.">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Լրացուցիչ հասցե.">
 <!ENTITY SecondEmail.accesskey          "i">
@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Սովորական տեքստ">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Անհայտ">
-<!ENTITY chatName.label                 "Chat Name:">
+<!ENTITY chatName.label                 "Անունը զրույցում.">
 
 <!ENTITY allowRemoteContent1.label      "Թույլատրել հեռադիր բով.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -76,7 +76,7 @@
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Երկիրը.">
 <!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "Վեբ էջը.">
+<!ENTITY HomeWebPage.label              "Վեբ կայքը.">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Ծննդյան օր.">
 <!ENTITY Birthday.accesskey             "B">
@@ -106,7 +106,7 @@
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Երկիրը.">
 <!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "Վեբ էջը.">
+<!ENTITY WorkWebPage.label              "Վեբ կայքը.">
 <!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "Այլ">
@@ -124,29 +124,29 @@
 
 <!ENTITY Chat.tab                       "Զրույց">
 <!ENTITY Chat.accesskey                 "a">
-<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.label                    "Google Talk.">
 <!ENTITY Gtalk.accesskey                "G">
-<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.label                      "AIM.">
 <!ENTITY AIM.accesskey                  "r">
-<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.label                    "Yahoo!.">
 <!ENTITY Yahoo.accesskey                "Y">
-<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.label                    "Skype.">
 <!ENTITY Skype.accesskey                "S">
-<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.label                       "QQ.">
 <!ENTITY QQ.accesskey                   "Q">
-<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.label                      "MSN.">
 <!ENTITY MSN.accesskey                  "M">
-<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.label                      "ICQ.">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.label                     "Jabber ID.">
 <!ENTITY XMPP.accesskey                 "J">
-<!ENTITY IRC.label                      "IRC Nick:">
+<!ENTITY IRC.label                      "IRC մականուն.">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Լուսանկար">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Ընտրեք հետևյալներից մեկը.">
-<!ENTITY GenericPhoto.label             "Ընդհանուր նկարը">
+<!ENTITY GenericPhoto.label             "Ընդհանուր նկար">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Ծրագրային">
 <!ENTITY PhotoFile.label                "Այս համակարգչում">

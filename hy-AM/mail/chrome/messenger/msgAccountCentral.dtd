@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY emailSectionHdr.label        "Էլ. նամակ">
-<!ENTITY readMsgsLink.label           "Կարդալ նամակներ">
-<!ENTITY composeMsgLink.label         "Գրեմ նոր նամակ">
+<!ENTITY readMsgsLink.label           "Ընթերցել նամակներ">
+<!ENTITY composeMsgLink.label         "Գրել նոր նամակ">
 
 <!ENTITY newsSectionHdr.label         "Նորություններ">
 <!ENTITY subscribeNewsLink.label      "Կառավարել բաժանորդագրությունները">
@@ -12,13 +12,17 @@
 <!ENTITY feedsSectionHdr.label        "Շղթաներ">
 <!ENTITY subscribeFeeds.label         "Կառավարել բաժանորդագրությունները">
 
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Փոստարկղեր">
 <!ENTITY subscribeImapFolders.label   "Կառավարել բաժանորդագրությունները">
 <!ENTITY settingsLink.label           "Փոստարկղի մանրամասները">
 <!ENTITY newAcctLink.label            "Ստեղծել նոր փոստարկղ">
+<!ENTITY newAcct.label                "Create a new account:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Ընդլայնած հնարավ.">
+<!ENTITY advFeaturesSectionHdr.label  "Ընդլայնված հնարավորություններ">
 <!ENTITY searchMsgsLink.label         "Փնտրել նամակներ">
 <!ENTITY filtersLink.label            "Կառավարել նամակի ֆիլտրերը">
-<!ENTITY junkSettings.label           "Խլամ նամակի կարգավորումներ">
+<!ENTITY junkSettings.label           "Թափոն նամակի կարգավորումներ">
 <!ENTITY offlineLink.label            "Անցանց կարգավորումներ">

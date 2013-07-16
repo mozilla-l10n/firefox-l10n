@@ -12,23 +12,23 @@
 <!ENTITY autosyncNotDownload.label "Չբեռնել նամակներ, որոնք մեծ են՝">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "ԿԲ">
-<!ENTITY daysOld.label "օրվա է">
+<!ENTITY daysOld.label "օրվա են">
 <!ENTITY message.label "նամակներ">
-<!ENTITY nntpNotDownloadRead.label "Կարդալ նամակներ">
+<!ENTITY nntpNotDownloadRead.label "Ընթերցել նամակներ">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Նամակներ ավելի քան՝">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար, ջնջեք հին նամակները։">
-<!ENTITY retentionCleanupImap.label "Ազատ տեղը վերականգնելու համար, հին նամակները կարող եք ջնջել, և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
-<!ENTITY retentionCleanupPop.label "Ազատ տեղը վերականգնելու համար, հին նամակները կարող եք ջնջվել՝ ներառյալ օրիգինալները հեռադիր սպասարկիչում։">
-<!ENTITY retentionKeepMsg.label "Ջնջել նամակները ավելի քան՝">
+<!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ հին նամակները կարող եք ջնջել՝ և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ կարող եք ջնջվել հին նամակները՝ ներառյալ օրիգինալները հեռադիր սպասարկիչում։">
+<!ENTITY retentionKeepMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Ջնջել բոլոր վերջինները">
+<!ENTITY retentionKeepRecent.label "Ջնջել վերջին՝">
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Միշտ ջնջել կարդացած նամակները">
+<!ENTITY retentionKeepUnreadHidden.label "Միշտ ջնջել ընթերցած նամակները">
 <!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանիշով նամակները">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Մաքրել նամակի բովանդակությունը, որը ավելի քան՝">
@@ -38,7 +38,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Ընդլայնված...">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Նամակի համաժամեցում">
-<!ENTITY diskspaceGroupTitle.label "Պնակի տեղը">
+<!ENTITY diskspaceGroupTitle.label "Ազատ տեղ">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -48,7 +48,7 @@
 -->
 <!ENTITY allAutosync.label               "Համաժամեցնել բոլոր նամակները անկախ ժամկետից">
 <!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջինը">
+<!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջին՝">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Օր">

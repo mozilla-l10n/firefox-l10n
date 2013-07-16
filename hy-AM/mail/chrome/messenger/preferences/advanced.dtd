@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Ընդհանուր">
-<!ENTITY itemDisplay.label       "Կարդալու &amp; ցուցադրումը">
+<!ENTITY itemDisplay.label       "Ընթերցումը &amp; Ցուցադրումը">
 <!ENTITY itemUpdate.label        "Թարմացնել">
-<!ENTITY itemNetworking.label    "Ցանցի &amp; ազատ տեղը">
+<!ENTITY itemNetworking.label    "Ցանցը &amp; Ազատ տեղը">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
 
 <!-- General Settings -->
@@ -16,10 +16,10 @@
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
 
-<!ENTITY scrolling.label               "Scrolling">
-<!ENTITY useAutoScroll.label           "Օգտագործել էջր ավտոմատ թերթում">
+<!ENTITY scrolling.label               "Թերթումը">
+<!ENTITY useAutoScroll.label           "Օգտագործել ինքնավար թերթում">
 <!ENTITY useAutoScroll.accesskey       "U">
-<!ENTITY useSmoothScrolling.label      "Օգտագործել կոկիկ սահքաթերթումը">
+<!ENTITY useSmoothScrolling.label      "Օգտագործել կոկիկ թերթում">
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Համակարգային ինտեգրում">
@@ -27,7 +27,7 @@
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Թույլատրել &searchIntegration.engineName;-ին փնտրելու նամակներ">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.label        "Ստուգել...">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Ընդլայնված կարգավորում">
 <!ENTITY configEdit.label              "Խմբագրիչի կարգ...">
@@ -37,12 +37,12 @@
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Կարդալ">
+<!ENTITY reading.caption               "Ընթերցում">
 <!ENTITY display.caption               "Ցուցադրել">
 <!ENTITY showCondensedAddresses.label  "Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը ">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label          "Նշել նամակները կարդացած՝">
+<!ENTITY autoMarkAsRead.label          "Նշել նամակները ընթերցված՝">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "Միանգամից, երբ նայում ես">
 <!ENTITY markAsReadNoDelay.accesskey   "o">
@@ -66,9 +66,9 @@
 <!ENTITY autoCheck.label                "Ստուգել թարմացումները՝">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Տեղակայված Հավելումները">
+<!ENTITY enableAddonsUpdate.label       "Տեղադրված Հավելումներ">
 <!ENTITY enableAddonsUpdate.accesskey   "A">
-<!ENTITY whenUpdatesFound.label         "Եթե հասանելի են &brandShortName;-ի թարմացումները,">
+<!ENTITY whenUpdatesFound.label         "Եթե հասանելի են &brandShortName;-ի թարմացումները՝">
 <!ENTITY modeAskMe.label                "Հարցնել ինձ">
 <!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
@@ -78,13 +78,13 @@
 <!ENTITY showUpdates.label              "Ցուցադրել թարմացումների պատմությունը">
 <!ENTITY showUpdates.accesskey          "S">
 
-<!ENTITY useService.label                "օգտվել ֆոնային ծառայությունից թարմացումները տեղակայելիս">
+<!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Կարգավորումներ...">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը միանա ինտերնետին">
+<!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը մուտք գործի համացանց">
 <!ENTITY connectionsInfo.caption       "Միացում">
 <!ENTITY offlineInfo.caption           "Անցանց">
 <!ENTITY offlineInfo.label             "Կարգավորել անցանցը">
@@ -92,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Ազատ տեղ">
-<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.label     "Սեղմել թղթապանակները, եթե դա կխնայի՝ ">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+<!ENTITY offlineCompactFoldersMB.label   "ՄԲ ընդամենը">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -104,7 +104,7 @@
 -->
 <!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
 <!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "ՄԲ քեշի համար">
+<!ENTITY useCacheAfter.label             "ՄԲ պահոցի համար">
 <!ENTITY clearCacheNow.label             "Մաքրել Հիմա">
 <!ENTITY clearCacheNow.accesskey         "C">
 

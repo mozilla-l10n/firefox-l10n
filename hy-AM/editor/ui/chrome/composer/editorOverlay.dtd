@@ -8,7 +8,7 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "Տեղադրել առանց փոփոխման">
+<!ENTITY pasteNoFormatting.label "Տեղադրել առանց ձևավորման">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Տեղադրել որպես">
@@ -54,14 +54,14 @@
 <!ENTITY FontFaceSelect.tooltip "Ընտրեք տառատեսակը">
 <!ENTITY fontfaceMenu.label "Տառատեսակը">
 <!ENTITY fontfaceMenu.accesskey "F">
-<!ENTITY fontVarWidth.label "Փոփոխելի լայնքը">
+<!ENTITY fontVarWidth.label "Փոփոխելի լայնքով">
 <!ENTITY fontVarWidth.accesskey "V">
-<!ENTITY fontFixedWidth.label "Ամրագրված լայնքը">
+<!ENTITY fontFixedWidth.label "Ամրագրված լայնքով">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
-<!ENTITY fontTimes.label "Անգամ">
+<!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
@@ -97,7 +97,7 @@
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Տեքստի ոճը">
 <!ENTITY fontStyleMenu.accesskey "S">
-<!ENTITY styleBoldCmd.label "Հաստ">
+<!ENTITY styleBoldCmd.label "Թավ">
 <!ENTITY styleBoldCmd.accesskey "B">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Շեղ">
@@ -160,7 +160,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Հասցեն">
 <!ENTITY paragraphAddressCmd.accesskey "A">
-<!ENTITY paragraphPreformatCmd.label "Նախատեսակ">
+<!ENTITY paragraphPreformatCmd.label "Նախաձևավորմամբ">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
@@ -181,7 +181,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "Ընտրեք պարագրաֆի տեսակը">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Տեքստը">
+<!ENTITY bodyTextCmd.label "Բովամդակությունը">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ընդլայնված հատկություններ">
@@ -205,7 +205,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Շերտը">
-<!ENTITY layerSendToBack.tooltip "Ուղարկել հետ">
+<!ENTITY layerSendToBack.tooltip "Ուղարկել հետև">
 <!ENTITY layerBringToFront.tooltip "Պահել հետևում">
 
 <!ENTITY increaseIndent.label "Սահմանը մեծացնել">
@@ -282,7 +282,7 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Ընտրացանկ վահանակը">
+<!ENTITY menuBar.tooltip "Ընտրացանկ վահանակ">
 <!ENTITY formatToolbar.tooltip "Գործիքաշերտի կարգ.">
 <!ENTITY cutToolbarCmd.tooltip "Կտրել">
 <!ENTITY copyToolbarCmd.tooltip "Պատճենել">
