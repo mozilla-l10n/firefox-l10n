@@ -57,4 +57,12 @@
 <!ENTITY networkPanel.statusCodeColon             "ସ୍ଥିତି ସଂକେତ:">
 <!ENTITY openURL.accesskey "T">
 <!ENTITY openURL.label     "ନୂତନ ଟ୍ୟାବରେ URL କୁ ଖୋଲନ୍ତୁ">
-
+<!ENTITY btnClear.accesskey    "r">
+<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageJS.accesskey  "J">
+<!ENTITY btnPageLogging.accesskey "L">
+<!ENTITY btnPageNet.accesskey "N">
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageSecurity.accesskey "S">
+<!ENTITY clearOutputCmd.key   "K">
+<!ENTITY findCmd.key          "F">
