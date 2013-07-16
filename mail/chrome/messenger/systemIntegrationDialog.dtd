@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "Համակարգային ինտեգրում">
 <!ENTITY acceptIntegration.label  "Նշել որպես հիմնական">
 <!ENTITY cancelIntegration.label  "Skip Integration">
+<!ENTITY cancelIntegration2.label  "Cancel">
 <!ENTITY defaultClient.intro  "Օգտ. &brandShortName;-ը որպես հիմնական ծրագիր՝">
 
 <!ENTITY email.label "Էլ. նամակ">

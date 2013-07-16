@@ -36,8 +36,6 @@
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Բացել պահպանված նամակը...">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Կցորդներ">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Պահպանել Որպես">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Ֆայլ">
@@ -428,12 +426,14 @@
 <!ENTITY openConversationCmd.label "Բացել պատուհանում">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "Բ">
-<!ENTITY openFeedMessage.label "Բացել շղթայի գրությունը">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Վեբ էջը նոր պատուհանում">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Արդյունքը նոր պատուհանում">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openAttachmentListCmd.label "Attachments">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "When Opening Feed Messages">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Փոփոխել վեբ էջը և արդյունքը գրության վահանակում">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
