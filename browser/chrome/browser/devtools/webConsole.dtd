@@ -4,12 +4,14 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -27,7 +29,7 @@
 
 <!ENTITY networkPanel.requestURLColon             "Request URL:">
 <!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.statusCodeColon             "Codul de stare:">
 
 <!ENTITY networkPanel.requestHeaders              "Antetele cererii">
 <!ENTITY networkPanel.requestCookie               "Cookie trimis">
@@ -77,7 +79,7 @@
 
 <!ENTITY filterBox.placeholder "Filtrează">
 <!ENTITY btnClear.label        "Curăță">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClear.tooltip      "Curățați conținutul consolei web">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->

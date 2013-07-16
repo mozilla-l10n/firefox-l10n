@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -51,8 +52,8 @@
 <!ENTITY openRecentMenu.label         "Deschide fișiere recente">
 <!ENTITY openRecentMenu.accesskey     "r">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.label              "Revenire…">
+<!ENTITY revertCmd.accesskey          "r">
 
 <!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">
