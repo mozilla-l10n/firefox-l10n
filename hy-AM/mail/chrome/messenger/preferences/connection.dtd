@@ -25,7 +25,7 @@
 <!ENTITY  socks.label                   "SOCKS հոսթը.">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Դարպասը.">
