@@ -53,10 +53,12 @@
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_customize "Настройка">
+<!ENTITY pref_category_search "Поиск">
 <!ENTITY pref_category_display "Отображение">
 <!ENTITY pref_category_privacy_short "Приватность">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбор данных">
+<!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
 <!ENTITY pref_category_general "Основные">
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">

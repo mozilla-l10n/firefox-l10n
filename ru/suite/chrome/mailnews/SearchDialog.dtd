@@ -6,8 +6,10 @@
 <!ENTITY searchHeading.accesskey "с">
 <!ENTITY searchSubfolders.label "Включая вложенные папки">
 <!ENTITY searchSubfolders.accesskey "ю">
-<!ENTITY searchLocalSystem.label "Поиск в локальных папках">
-<!ENTITY searchLocalSystem.accesskey "л">
+<!ENTITY searchOnHeading.label "Выполнять поиск:">
+<!ENTITY searchOnHeading.accesskey "л">
+<!ENTITY searchOnRemote.label "На удалённом сервере">
+<!ENTITY searchOnLocal.label "В локальных папках">
 <!ENTITY resetButton.label "Очистить">
 <!ENTITY resetButton.accesskey "и">
 <!ENTITY openButton.label "Открыть">
