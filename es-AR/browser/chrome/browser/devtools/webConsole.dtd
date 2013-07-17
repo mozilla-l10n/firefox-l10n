@@ -45,7 +45,7 @@
   -  filters. -->
 <!ENTITY btnPageNet.label   "Red">
 <!ENTITY btnPageNet.tooltip "Registrar accesos de red">
-<!ENTITY btnPageNet.accesskey "g">
+<!ENTITY btnPageNet.accesskey "d">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
@@ -60,7 +60,7 @@
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Seguridad">
 <!ENTITY btnPageSecurity.tooltip "Registrar errores y advertencias de seguridad">
-<!ENTITY btnPageSecurity.accesskey "s">
+<!ENTITY btnPageSecurity.accesskey "S">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
@@ -68,7 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Registro">
 <!ENTITY btnPageLogging.tooltip "Registrar mensajes enviados al objeto window.console">
-<!ENTITY btnPageLogging.accesskey "L">
+<!ENTITY btnPageLogging.accesskey "e">
 <!ENTITY btnConsoleErrors       "Errores">
 <!ENTITY btnConsoleInfo         "Información">
 <!ENTITY btnConsoleWarnings     "Advertencias">
