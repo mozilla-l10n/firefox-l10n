@@ -12,6 +12,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY netmonitorUI.emptyNotice         "Recargar la página para ver información detallada sobre la actividad de red.">
+<!ENTITY netmonitorUI.toolbar.status      "√">
 <!ENTITY netmonitorUI.toolbar.method      "Método">
 <!ENTITY netmonitorUI.toolbar.file        "Archivo">
 <!ENTITY netmonitorUI.toolbar.domain      "Dominio">
