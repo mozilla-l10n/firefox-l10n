@@ -139,20 +139,22 @@ size. -->
 <!ENTITY datareporting_notification_summary_short "Para mejorar tu experiencia, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Ayuda a entender el rendimiento de tu navegador y comparte los datos con &vendorShortName; sobre la salud de tu navegador">
+<!ENTITY datareporting_fhr_summary2 "Compartir datos con &vendorShortName; sobre la salud del navegador para ayudar a entender su rendimiento">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte rendimiento, uso, hardware y datos de personalización sobre tu navegador con &vendorShortName; para ayudarnos a mejorar a &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Informe de fallos">
+<!ENTITY datareporting_wifi_title "Servicios de ubicación de &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Ayudar a mejorar los servicios de geolocalización para la web abierta permitiendo que &brandShortName; recolecte y envíe datos anónimos sobre torres de celulares">
 
 <!ENTITY pref_update_autodownload "Actualizaciones automáticas">
 <!ENTITY pref_update_autodownload_wifi "Sólo sobre Wi-Fi">
@@ -284,6 +286,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ejecutado por">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Esta pagina está mostrando contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado el contenido que no es seguro.">
+<!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionarán correctamente aún cuando este contenido sea bloqueado.">
+<!ENTITY learn_more "Conocer más">
+<!ENTITY enable_protection "Habilitar protección">
+<!ENTITY disable_protection "Deshabilitar protección">
+<!ENTITY keep_blocking "Mantener bloqueo">
 
 <!ENTITY private_data_success "Datos privados borrados">
 <!ENTITY private_data_fail "Algunos datos privados no pudieron limpiarse">
