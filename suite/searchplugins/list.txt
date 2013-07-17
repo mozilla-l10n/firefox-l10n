@@ -4,4 +4,3 @@ google
 sztaki-en-hu
 vatera
 wikipedia-hu
-google
