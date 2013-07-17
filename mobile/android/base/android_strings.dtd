@@ -68,10 +68,12 @@
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_customize "Anpassa">
+<!ENTITY pref_category_search "Sök">
 <!ENTITY pref_category_display "Visa">
 <!ENTITY pref_category_privacy_short "Integritet">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataalternativ">
+<!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
