@@ -47,8 +47,8 @@
 <!ENTITY downloadCert.viewPolicy.text "CA ନୀତି ଏବଂ ପ୍ରଣାଳୀକୁ ଯାଞ୍ଚକରନ୍ତୁ">
 
 <!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "ପ୍ରମାଣପତ୍ର ଅଛି">
-<!ENTITY caCertExists.message "ପ୍ରମାଣପତ୍ର ପୂର୍ବରୁ ଅବସ୍ଥିତ ଅଟେ.">
+
+
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "ଚାଳକ ଚିହ୍ନଟ ଅନୁରୋଧ">
@@ -80,7 +80,7 @@
 <!ENTITY examineCert.label "ପ୍ରମାଣପତ୍ର ଦେଖନ୍ତୁ">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "ସହାୟତା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କର ତନ୍ତ୍ର ପ୍ରଶାସକଙ୍କୁ ପଚାରନ୍ତୁ">
+
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "ଗୋଟିଏ ନିଜସ୍ୱ କି ନିର୍ମାଣ କରୁଅଛି">
