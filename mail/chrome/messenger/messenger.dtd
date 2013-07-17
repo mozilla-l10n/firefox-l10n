@@ -488,7 +488,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "d">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Obter correio">
+<!ENTITY getMsgButton1.label "Obter mensagens">
 <!ENTITY newMsgButton.label "Escrever">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Responder a todos">
