@@ -27,21 +27,21 @@
 <!ENTITY abouthealth.intro.title "Ce este raportul de stare &brandShortName;?">
 
 <!ENTITY abouthealth.intro-enabled "&brandFullName; colectează anumite date despre calculatorul dumneavoastră și despre utilizare cu scopul de a vă putea oferi o mai bună experiență în navigare.">
-<!ENTITY abouthealth.intro-disabled "You are currently not submitting usage data to &vendorShortName;. You can help us make &brandShortName; better by clicking the &quot;&abouthealth.optin;&quot; button.">
+<!ENTITY abouthealth.intro-disabled "Pentru moment nu transmiteți datele de utilizare la &vendorShortName;. Ne puteți ajuta să facem &brandShortName; mai bun, dând clic pe butonul &quot;&abouthealth.optin;&quot;.">
 
 <!ENTITY abouthealth.optin "Ajută-ne să facem &brandShortName; mai bun">
 <!ENTITY abouthealth.optout "Oprește raportarea">
 
 <!ENTITY abouthealth.optout.confirmationPrompt.title "Opriți trimiterea de date?">
-<!ENTITY abouthealth.optout.confirmationPrompt.message "Are you sure you want to opt out and delete all your anonymous product data stored on &vendorShortName; servers?">
+<!ENTITY abouthealth.optout.confirmationPrompt.message "Sunteți sigur că doriți să renunțați și să ștergeți toate datele anonime ale produsului stocate pe serverele &vendorShortName;?">
 
 <!ENTITY abouthealth.show-raw-data "Afișează detaliile">
 <!ENTITY abouthealth.hide-raw-data "Ascunde detaliile">
 
 <!ENTITY abouthealth.show-report "Arată raport &brandShortName;">
 
-<!ENTITY abouthealth.details.description-start "This is the data &brandFullName; is submitting in order for &brandShortName; Health Report to function.   You can ">
+<!ENTITY abouthealth.details.description-start "Acestea sunt datele &brandFullName; ce se transmit pentru &brandShortName; prind opțiunea Raport de stare. Puteți">
 <!ENTITY abouthealth.details-link "află mai multe">
 <!ENTITY abouthealth.details.description-end " despre datele pe care le colectăm și trimitem.">
-<!ENTITY abouthealth.no-data-available "There is no previous submission to display. Please check back later.">
+<!ENTITY abouthealth.no-data-available "Nu există nicio transmitere anterioară de afișat. Vă rugăm să verificați din nou mai târziu.">
 
