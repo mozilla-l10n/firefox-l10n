@@ -4,7 +4,6 @@
 
 <!ENTITY closeCmd.key  "W">
 <!ENTITY toolboxCloseButton.tooltip  "Cerrar herramientas de desarrollador">
-<!ENTITY toolboxOptionsButton.tooltip  "Alternar panel de opciones">
 <!ENTITY toolboxOptionsButton.key      "O">
 
 <!ENTITY options.context.label         "Ajustes avanzados (requieren reiniciar el navegador">
