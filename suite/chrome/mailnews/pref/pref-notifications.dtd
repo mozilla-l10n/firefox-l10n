@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Näytä ilmoitus">
 <!ENTITY showAlertFor.accesskey           "N">
 <!ENTITY showAlertTimeEnd.label           "sekunnin ajan">
-<!ENTITY showAlertTimeEnd.accesskey       "s">
 
 <!ENTITY showAlertPreviewText.label       "Näytä viestin esikatselu">
 <!ENTITY showAlertPreviewText.accesskey   "e">
