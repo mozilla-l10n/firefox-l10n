@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Marcador agregado">
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador actualizado">
+<!ENTITY bookmark_options "Opciones">
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
@@ -147,6 +148,7 @@ size. -->
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salud de &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Compartir datos con &vendorShortName; sobre la salud del navegador para ayudar a entender su rendimiento">
+<!ENTITY datareporting_abouthr_title "Ver mi informe de salud">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Comparte rendimiento, uso, hardware y datos de personalización sobre tu navegador con &vendorShortName; para ayudarnos a mejorar a &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos para ayudar a &vendorShortName; a hacer tu navegador más estable y seguro">
