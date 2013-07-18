@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
+<!ENTITY bookmark_options "ਚੋਣਾਂ">
 
 <!ENTITY history_today_section "ਅੱਜ">
 <!ENTITY history_yesterday_section "ਕੱਲ੍ਹ">
@@ -138,7 +139,7 @@ size. -->
 <!ENTITY datareporting_notification_summary "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName; ਆਪਣੇ-ਆਪ ਹੀ ਕੁਝ ਜਾਣਕਾਰੀ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ।">
 <!ENTITY datareporting_notification_summary_short "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-
+<!ENTITY datareporting_abouthr_title "ਮੇਰੀ ਹਾਲਤ ਰਿਪੋਰਟ ਵੇਖੋ">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
