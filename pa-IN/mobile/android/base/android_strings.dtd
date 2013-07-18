@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਇਹ ਨਸ਼ਟ ਹੋ ਗਿਆ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShortName; ਸ਼ੁਰੂਆਤੀ ਪੇਜ਼ ਉੱਤੇ ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
-<!ENTITY  crash_send_report_message2 "ਮੋਜ਼ੀਲਾ ਨੂੰ ਇਹ ਕਰੈਸ਼ ਬਾਰੇ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਹ ਠੀਕ ਕਰ ਸਕੇ">
+<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
 <!ENTITY  crash_include_url2 "ਪੇਜ਼, ਜੋ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ ਸਿਰਨਾਵਾਂ ਸਮੇਤ">
 <!ENTITY  crash_sorry "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ">
 <!ENTITY  crash_comment "ਟਿੱਪਣੀ ਸ਼ਾਮਲ (ਟਿੱਪਣੀ ਪਬਲਿਕ ਰੂਪ ਵਿੱਚ ਵੇਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
-<!ENTITY  crash_allow_contact "ਮੋਜ਼ੀਲਾ ਇਹ ਰਿਪੋਰਟ ਬਾਰੇ ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦਾ ਹੈ">
+<!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
 <!ENTITY  crash_email "ਤੁਹਾਡੀ ਈਮੇਲ">
 <!ENTITY  crash_closing_alert "ਬਿਨਾਂ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੇ ਹੀ ਬੰਦ ਕਰਨਾ ਹੈ?">
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
@@ -101,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
 <!ENTITY pref_plugins_disabled "ਬੰਦ ਹੈ">
 <!ENTITY pref_text_size "ਟੈਕਸਟ ਆਕਾਰ">
-<!ENTITY pref_reflow_on_zoom2 "ਟੈਕਸਟ ਮੁੜ-ਫਲੋ ਲਈ ਚੂੰਢੀ ਭਰੋ">
+<!ENTITY pref_reflow_on_zoom3 "Double tap to reflow text">
 <!ENTITY pref_font_size_tiny "ਨਿੰਮਾ">
 <!ENTITY pref_font_size_small "ਛੋਟਾ">
 <!ENTITY pref_font_size_medium "ਮੱਧਮ">
@@ -132,11 +132,12 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY pref_private_data_downloadFiles "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ">
-
+<!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_title "&brandShortName; ਅੰਕੜੇ &amp; ਡਾਟਾ">
 <!ENTITY datareporting_notification_action "ਚੁਣੋ ਕਿ ਕੀ ਸਾਂਝਾ ਕਰਨਾ ਹੈ">
 <!ENTITY datareporting_notification_summary "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName; ਆਪਣੇ-ਆਪ ਹੀ ਕੁਝ ਜਾਣਕਾਰੀ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ।">
 <!ENTITY datareporting_notification_summary_short "ਤੁਹਾਡਾ ਤਜਰਬਾ ਵਧੀਆ ਬਣਾਉਣ ਲਈ, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -145,7 +146,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
-<!ENTITY datareporting_fhr_summary "ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਮਝਣ ਲਈ ਮੱਦਦ ਕਰਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਹਾਲਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰਦੀ ਹੈ।">
+<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
 <!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਧੀਆ ਤੇ ਸਥਿਰ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰਨ ਵਾਸਤੇ &vendorShortName; ਨੂੰ ਭੇਜਦਾ ਹੈ">
@@ -282,6 +283,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ਜੋ ਕਿ ਚਲਾਈ ਜਾਂਦੀ ਹੈ">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
+<!ENTITY blocked_mixed_content_message_bottom "Most websites will still work properly even when this content is blocked.">
+<!ENTITY learn_more "Learn More">
+<!ENTITY enable_protection "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
+<!ENTITY disable_protection "ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
+<!ENTITY keep_blocking "ਪਾਬੰਦੀ ਜਾਰੀ ਰੱਖੋ">
 
 <!ENTITY private_data_success "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕੀਤਾ ਗਿਆ">
 <!ENTITY private_data_fail "ਕੁਝ ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
