@@ -53,10 +53,12 @@
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_customize "Personalizzazione">
+<!ENTITY pref_category_search "Ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Condivisione dati">
+<!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_category_privacy "Privacy e sicurezza">
 <!ENTITY pref_category_content "Contenuti">
