@@ -67,10 +67,12 @@
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_customize "Personnalisation">
+<!ENTITY pref_category_search "Recherche">
 <!ENTITY pref_category_display "Affichage">
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Données collectées">
+<!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
