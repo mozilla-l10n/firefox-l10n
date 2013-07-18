@@ -4,12 +4,11 @@
 
 <!ENTITY tracking.label                 "Ukulanda umkhondo">
 
-<!ENTITY dntTrackingNopref.label        "Musa ukuxelela iisayithi nangayo nantoni na emalunga neepriferensi zam zokulandela umkhondo.">
-<!ENTITY dntTrackingNopref.accesskey    "s">
-<!ENTITY dntTrackingNotOkay.label       "Xelela iisayithi ukuba andifuni kulandwa mkhondo.">
-<!ENTITY dntTrackingNotOkay.accesskey   "f">
-<!ENTITY dntTrackingOkay.label          "Xelela iisayithi ukuba ndifuna ukulandwa mkhondo.">
-<!ENTITY dntTrackingOkay.accesskey      "X">
+
+
+
+
+
 <!ENTITY doNotTrackInfo.label           "Funda ngaphezulu">
 
 <!ENTITY  history.label                 "Imbali">

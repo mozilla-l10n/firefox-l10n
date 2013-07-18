@@ -5,26 +5,24 @@
 <!ENTITY certmgr.title                       "Umphathi Wesatifikethi">
 
 <!ENTITY certmgr.tab.mine                     "Izatifikethi Zakho">
-<!ENTITY certmgr.tab.others2                  "People">
-<!ENTITY certmgr.tab.websites3                "Servers">
+
+
 <!ENTITY certmgr.tab.ca                       "Oogunyaziwe">
-<!ENTITY certmgr.tab.orphan2                  "Others">
+
 
 <!ENTITY certmgr.ca.builtins                  "Ii-CA ezakhelwe ngaphakathi">
 <!ENTITY certmgr.ca.mycas                     "Ii-CA Ezilawulwa Nguwe">
 
 <!ENTITY certmgr.mine                         "Unezatifikethi ezivela kule mibutho ekuchongileyo:">
 <!ENTITY certmgr.others                       "Unezatifikethi efayilini echonga aba bantu:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
+
 <!ENTITY certmgr.cas                          "Unezatifikethi efayilini echonga aba gunyaziwe bezatifikethi:">
-<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
 
-<!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Currently verifying certificate…">
+
+
+
+
 <!ENTITY certmgr.subjectinfo.label            "Zinikelwa Ku">
 <!ENTITY certmgr.issuerinfo.label             "Zinikelwa Ngu">
 <!ENTITY certmgr.validity.label               "Ukunyaniseka" >
@@ -39,9 +37,9 @@
 
 <!ENTITY certmgr.editcert.title               "Hlela Imimiselo Yezatifikethi Yokhuseleko">
 <!ENTITY certmgr.editcacert.title             "Hlela Imimiselo yentembeko yesatifikethi se-CA">
-<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
+
 <!ENTITY certmgr.editcert.edittrust           "Hlela imimiselo yentembeko:">
-<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
+
 <!ENTITY certmgr.editcert.trustemail          "Esi satifikethi sinako ukuchonga abasebenzisi bemeyile.">
 <!ENTITY certmgr.editcert.trustobjsign        "Esi satifikethi sinako ukuchonga abenzi benkqubo ekhohliweyo.">
 <!ENTITY certmgr.editsslcert.edittrust        "Hlela imimiselo yentembeko yesatifikethi:">
@@ -60,55 +58,53 @@
 <!ENTITY certmgr.deleteusercert.aftername     "Wakuba ucime esi satifikethi, akusayi kukwazi ukufunda imeyile enoguqulelo oluntsonkothileyo ehamba nayo.">
 
 <!ENTITY certmgr.certname                     "Igama Lesatifikethi">
-<!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Lifetime">
+
+
 <!ENTITY certmgr.tokenname                    "Isixhobo Sokhuseleko">
 <!ENTITY certmgr.issued                       "Inikelwe Ngeli Xesha">
 <!ENTITY certmgr.expires                      "Iphelelwa Ngeli Xesha">
 <!ENTITY certmgr.email                        "Idilesi Yemeyile">
 <!ENTITY certmgr.serial                       "Inombolo Yolandelelwano">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "View…">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
-<!ENTITY certmgr.editca.label                 "Edit CA Trust">
-<!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "Add">
-<!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Export…">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Backup All…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Import…">
-<!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.details.label                "Certificate Fields">
-<!ENTITY certmgr.details.accesskey            "F">
-<!ENTITY certmgr.fields.label                 "Field Value">
-<!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
-<!ENTITY certmgr.addException.label           "Add Exception…">
-<!ENTITY certmgr.addException.accesskey       "x">
 
-<!ENTITY exceptionMgr.title                   "Add Security Exception">
-<!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
-<!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">
-<!ENTITY exceptionMgr.certstatus.viewCert     "View…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Permanently store this exception">
-<!ENTITY exceptionMgr.permanent.accesskey     "P">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
