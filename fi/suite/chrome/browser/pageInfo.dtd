@@ -93,6 +93,7 @@
 <!ENTITY  permImage             "Lataa kuvat">
 <!ENTITY  permPopup             "Avaa ponnahdusikkunat">
 <!ENTITY  permCookie            "Tallenna evästeet">
+<!ENTITY  permNotifications     "Näytä ilmoitukset">
 <!ENTITY  permInstall           "Asenna lisäosat ja teemat">
 <!ENTITY  permGeo               "Kerro sijaintini">
 
