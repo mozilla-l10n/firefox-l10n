@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Virhekoodi:">
 <!ENTITY calendar.error.description "Kuvaus:">
 <!ENTITY calendar.error.title "Tapahtui virhe">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Lisää tapahtumaksi">
+<!ENTITY calendar.extract.task.button          "Lisää tehtäväksi">
+<!ENTITY calendar.extract.event.button.tooltip "Etsi aikataulutiedot viestistä ja lisää ne kalenteriin tapahtumaksi">
+<!ENTITY calendar.extract.task.button.tooltip  "Etsi aikataulutiedot viestistä ja lisää ne kalenteriin tehtäväksi">

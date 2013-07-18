@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "s">
 <!ENTITY event.categories.label                           "Tyyppi:">
 <!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "Lisää uusi tapahtumatyyppi" >
+<!ENTITY event.categories.textbox.accesskey               "m">
 <!ENTITY event.calendar.label                             "Kalenteri:" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Osallistujat:" >
@@ -172,7 +174,7 @@
 <!ENTITY event.repeat.label                               "Toista:" >
 <!ENTITY event.repeat.accesskey                           "i">
 <!ENTITY event.until.label                                "Kunnes:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.until.accesskey                            "n">
 <!ENTITY event.reminder.label                             "Muistuta:" >
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Kuvaus:" >
