@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "IImposiso Yekhasi Yokulayisha">
+<!ENTITY loadError.label "Imposiso Yephepha Yokulayisha">
 <!ENTITY retry.label "Zama Kwakhona">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Ukudibanisa akuphumelelanga">
+<!ENTITY connectionFailure.title "Unxibelelwano aluphumelelanga">
 <!ENTITY connectionFailure.longDesc "<p>Nangona isayithi ikhangeleka isebenza, ibhrawuza ayikwazanga ukufumana unxibelelwano.</p><ul><li>Ingaba isayithi ayifumaneki okwethutyana? Nceda uzame kamva.</li><li>Ingaba akukwazi ukubhrawuza ezinye iisayithi?  Khangela unxibelelwano lwenethiwekhi yekhompyutha.</li><li>Ingaba ikhompyutha okanye inethiwekhi yakho ikhuselwe ludonga-mlilo okanye ngummeli? Iisethingi ezingachanekanga zingachaphazela ukubhrawuza kwewebhu.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Isiqhagamshelanisi Sithintelwe ngenxa Yezizathu Zokhuseleko">

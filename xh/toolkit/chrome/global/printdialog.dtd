@@ -4,7 +4,7 @@
 <!-- extracted from printdialog.xul -->
 
 
-<!ENTITY printButton.label "Shicilela">
+<!ENTITY printButton.label "Printa">
 
 <!ENTITY printDialog.title "Shicilela">
 
@@ -14,12 +14,12 @@
 <!ENTITY fileCheck.accesskey "k">
 <!ENTITY propertiesButton.label "Iipropati…">
 <!ENTITY propertiesButton.accesskey "p">
-<!ENTITY descText.label "Inkcazo Ngesishicileli:">
-<!ENTITY printer.label "Isishicileli">
+<!ENTITY descText.label "Inkcazo Ngeprinta:">
+<!ENTITY printer.label "Iprinta">
 <!ENTITY printerInput.label "Igama lePrinta:">
 <!ENTITY printerInput.accesskey "I">
 
-<!ENTITY printrangeGroup.label "Uluhlu Loshicilelo">
+<!ENTITY printrangeGroup.label "Uluhlu Lokuprinta">
 <!ENTITY allpagesRadio.label "Onke amakhasi">
 <!ENTITY allpagesRadio.accesskey "O">
 <!ENTITY rangeRadio.label  "Amaphepha">

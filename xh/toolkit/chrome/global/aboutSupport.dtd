@@ -18,6 +18,11 @@ enge-&brandShortName;, khangela kwisiza sethu <a id='supportLink'>support websit
 <!ENTITY aboutSupport.appBasicsTitle "Iziseko zeaplikheshini">
 <!ENTITY aboutSupport.appBasicsName "Igama">
 <!ENTITY aboutSupport.appBasicsVersion "Uguqulelo">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Imbali yohlaziyo">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Bonisa Imbali Ehlaziyiweyo">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Isalathiso seprofayile">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
