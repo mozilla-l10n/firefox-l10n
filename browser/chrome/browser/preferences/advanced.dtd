@@ -37,7 +37,7 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 <!ENTITY crashReporterSection.label      "Reporte de fallos">
-<!ENTITY crashReporterDesc.label         "&brandShortName; envia reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envía reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
 <!ENTITY enableCrashReporter.label       "Activar reporte de fallos">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Aprender más">
