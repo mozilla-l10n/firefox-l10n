@@ -235,7 +235,7 @@
 <!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewToolbarsMenu.label "Barras de Herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
-<!ENTITY viewSidebarMenu.label "Barra Lateral">
+<!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
@@ -404,7 +404,7 @@
 <!ENTITY fullZoom.accesskey "A">
 <!ENTITY newTabButton.tooltip "Abrir una nueva pestaña">
 <!ENTITY newWindowButton.tooltip "Abrir una nueva ventana">
-<!ENTITY sidebarCloseButton.tooltip "Cerrar Barra lateral">
+<!ENTITY sidebarCloseButton.tooltip "Cerrar barra lateral">
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
 <!ENTITY pasteButton.tooltip "Pegar">
