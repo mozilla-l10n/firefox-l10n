@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "A ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Remitente ">
-<!ENTITY organizationField3.label "Organización ">
-<!ENTITY replyToField3.label "Responder a ">
+<!ENTITY toField4.label "A">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Remitente">
+<!ENTITY organizationField4.label "Organización">
+<!ENTITY replyToField4.label "Responder a">
 
-<!ENTITY subjectField3.label "Asunto ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Cco ">
-<!ENTITY newsgroupsField3.label "Grupos de noticias ">
-<!ENTITY followupToField3.label "Redireccionar a ">
-<!ENTITY tagsHdr3.label "Etiquetas ">
-<!ENTITY dateField3.label "Fecha ">
-<!ENTITY userAgentField3.label "Agente de usuario ">
-<!ENTITY referencesField3.label "Referencias ">
-<!ENTITY messageIdField3.label "ID del mensaje">
-<!ENTITY inReplyToField3.label "En respuesta a ">
-<!ENTITY originalWebsite3.label "Sitio web ">
+<!ENTITY subjectField4.label "Asunto">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Cco">
+<!ENTITY newsgroupsField4.label "Grupos de noticias">
+<!ENTITY followupToField4.label "Redireccionar a">
+<!ENTITY tagsHdr4.label "Etiquetas">
+<!ENTITY dateField4.label "Fecha">
+<!ENTITY tagsHdr4.label "Agente de usuario">
+<!ENTITY referencesField4.label "Referencias">
+<!ENTITY messageIdField4.label "ID del mensaje">
+<!ENTITY inReplyToField4.label "En respuesta a">
+<!ENTITY originalWebsite4.label "Sitio web">
 
 <!ENTITY editMessageDescription.label "Este mensaje es borrador…">
 <!ENTITY editMessageButton.label "Editar…">
