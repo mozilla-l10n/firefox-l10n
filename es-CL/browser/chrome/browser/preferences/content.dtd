@@ -6,7 +6,7 @@
 <!ENTITY blockPopups.accesskey "B">
 <!ENTITY popupExceptions.label "Excepciones…">
 <!ENTITY popupExceptions.accesskey "E">
-<!ENTITY fontsAndColors.label "Fuentes &amp; Colores">
+<!ENTITY fontsAndColors.label "Fuentes y colores">
 <!ENTITY defaultFont.label "Fuente por defecto:">
 <!ENTITY defaultFont.accesskey "d">
 <!ENTITY defaultSize.label "Tamaño:">
