@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Configuración avanzada de cuentas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "Directorio del servidor IMAP:">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Al descargar el correo pop de este servidor, usar la siguiente carpeta para correo nuevo:" >
-<!ENTITY globalInbox.label "Bandeja de entrada global (Carpetas locales)">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Bandeja de entrada para la cuenta de este servidor">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Bandeja de entrada para una cuenta diferente">
