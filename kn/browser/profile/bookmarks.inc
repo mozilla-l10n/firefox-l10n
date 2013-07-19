@@ -19,13 +19,13 @@
 #define bookmarks_toolbarfolder ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿ ಕಡತಕೋಶ
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description ಪುಟಗುರುತಿನ ಉಪಕರಣಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸಲು ಪುಟಗುರುತುಗಳನ್ನು ಈ ಕಡತಕೋಶಕ್ಕೆ ಸೇರಿಸಿ
 
 
 # LOCALIZATION NOTE (getting_started):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 
 
 #define getting_started ಆರಂಭಿಸುವಿಕೆ
@@ -43,34 +43,34 @@
 # LOCALIZATION NOTE (firefox_help):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help ನೆರವು ಮತ್ತು ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು
 
 
 # LOCALIZATION NOTE (firefox_customize):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize ಫೈರ್ಫಾಕ್ಸನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ
 
 
 # LOCALIZATION NOTE (firefox_community):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Get Involved
+#define firefox_community ಸೇರಿಕೊಳ್ಳಿ
 
 
 # LOCALIZATION NOTE (firefox_about):
 
 
-# link title for http://en-US.www.mozilla.com/en-US/about/
+# link title for https://www.mozilla.org/en-US/about/
 
 
 #define firefox_about About Us
