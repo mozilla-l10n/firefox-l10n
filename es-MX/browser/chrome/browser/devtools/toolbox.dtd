@@ -59,11 +59,15 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* No lo soporta la actual caja de herramientas">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-
+<!ENTITY options.selectDevToolsTheme.label   "Elige el tema de DevTools:">
+<!ENTITY options.darkTheme.label             "Tema oscuro">
+<!ENTITY options.lightTheme.label            "Tema ligero">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
