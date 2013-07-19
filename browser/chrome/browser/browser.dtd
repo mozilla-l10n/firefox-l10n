@@ -27,6 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "в">
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
 <!ENTITY undoCloseTab.accesskey "с">
+<!ENTITY undoCloseTabs.label "Восстановить закрытые вкладки">
 <!ENTITY closeTab.label "Закрыть вкладку">
 <!ENTITY closeTab.accesskey "а">
 <!ENTITY listAllTabs.label "Список всех вкладок">
@@ -50,12 +51,9 @@
 <!ENTITY menubarCmd.label "Панель меню">
 <!ENTITY menubarCmd.accesskey "е">
 <!ENTITY navbarCmd.label "Панель навигации">
-<!ENTITY navbarCmd.accesskey "в">
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
-<!ENTITY addonBarCmd.label "Панель дополнений">
-<!ENTITY addonBarCmd.accesskey "д">
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -129,17 +127,11 @@
 <!ENTITY backForwardItem.title "Назад/Вперёд">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
-<!ENTITY throbberItem.title "Индикатор активности">
 <!ENTITY bookmarksItem.title "Закладки">
-<!ENTITY appMenuButton.label "Меню">
-<!ENTITY appMenuButton.tooltip "Открыть меню &brandShortName;">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
 <!ENTITY tabGroupsButton.tooltip "Сгруппировать ваши вкладки">
-<!ENTITY feedButton.label "Подписаться">
-<!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
 <!ENTITY bookmarksButton.label "Закладки">
-<!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Закладки">
 <!ENTITY bookmarksMenuButton.tooltip "Показать ваши закладки">
@@ -149,7 +141,6 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Журнал">
-<!ENTITY historyButton.tooltip "Отобразить список недавно просмотренных страниц">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Инструменты">
 <!ENTITY toolsMenu.accesskey "И">
@@ -242,8 +233,6 @@
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label "Настроить…">
 <!ENTITY viewCustomizeToolbar.accesskey "с">
-<!ENTITY viewTabsOnTop.label "Вкладки сверху">
-<!ENTITY viewTabsOnTop.accesskey "к">
 <!ENTITY historyMenu.label "Журнал">
 <!ENTITY historyMenu.accesskey "Ж">
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
@@ -252,16 +241,7 @@
 <!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuEdit.label "Правка">
 <!ENTITY appMenuCustomize.label "Изменить">
-<!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
-<!ENTITY appMenuSidebars.label "Боковые панели">
-<!ENTITY appMenuFind.label "Найти…">
-<!ENTITY appMenuUnsorted.label "Неподшитые закладки">
-<!ENTITY appMenuWebDeveloper.label "Веб-разработка">
-<!ENTITY appMenuGettingStarted.label "Начало работы">
-<!ENTITY appMenuSafeMode.label "Перезапустить с отключёнными дополнениями…">
-<!ENTITY appMenuSafeMode.accesskey "з">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Введите поисковый запрос или адрес">
 <!ENTITY urlbar.accesskey "d">
@@ -410,13 +390,7 @@
 <!ENTITY newTabButton.tooltip "Открыть новую вкладку">
 <!ENTITY newWindowButton.tooltip "Открыть новое окно">
 <!ENTITY sidebarCloseButton.tooltip "Закрыть боковую панель">
-<!ENTITY cutButton.tooltip "Вырезать">
-<!ENTITY copyButton.tooltip "Копировать">
-<!ENTITY pasteButton.tooltip "Вставить">
 <!ENTITY fullScreenButton.tooltip "Раскрывает окно на полный экран">
-<!ENTITY zoomOutButton.tooltip "Уменьшить">
-<!ENTITY zoomInButton.tooltip "Увеличить">
-<!ENTITY zoomControls.label "Управление масштабом">
 <!ENTITY quitApplicationCmdWin.label "Выход">
 <!ENTITY quitApplicationCmdWin.accesskey "х">
 <!ENTITY goBackCmd.commandKey "[">
@@ -470,8 +444,6 @@
 <!ENTITY syncSyncNowItem.label "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey "х">
 <!ENTITY syncToolbarButton.label "Синхронизация">
-<!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
-<!ENTITY toggleAddonBarCmd.key "\">
 <!ENTITY socialToolbar.title "Кнопка социальной панели">
 <!ENTITY social.notLoggedIn.label "Не зашёл">
 <!ENTITY social.ok.label "OK">
@@ -506,3 +478,32 @@
 <!ENTITY pluginActivateNow.label "Временно разрешить">
 <!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
 <!ENTITY pluginBlockNow.label "Заблокировать плагин">
+<!ENTITY navbarCmd.accesskey "в">
+<!ENTITY addonBarCmd.label "Панель дополнений">
+<!ENTITY addonBarCmd.accesskey "д">
+<!ENTITY throbberItem.title "Индикатор активности">
+<!ENTITY appMenuButton.label "Меню">
+<!ENTITY appMenuButton.tooltip "Открыть меню &brandShortName;">
+<!ENTITY feedButton.label "Подписаться">
+<!ENTITY feedButton.tooltip "Подписаться на ленты новостей…">
+<!ENTITY bookmarksButton.tooltip "Показать ваши закладки">
+<!ENTITY historyButton.tooltip "Отобразить список недавно просмотренных страниц">
+<!ENTITY viewTabsOnTop.label "Вкладки сверху">
+<!ENTITY viewTabsOnTop.accesskey "к">
+<!ENTITY appMenuEdit.label "Правка">
+<!ENTITY appMenuToolbarLayout.label "Панель инструментов…">
+<!ENTITY appMenuSidebars.label "Боковые панели">
+<!ENTITY appMenuFind.label "Найти…">
+<!ENTITY appMenuUnsorted.label "Неподшитые закладки">
+<!ENTITY appMenuWebDeveloper.label "Веб-разработка">
+<!ENTITY appMenuGettingStarted.label "Начало работы">
+<!ENTITY appMenuSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY appMenuSafeMode.accesskey "з">
+<!ENTITY cutButton.tooltip "Вырезать">
+<!ENTITY copyButton.tooltip "Копировать">
+<!ENTITY pasteButton.tooltip "Вставить">
+<!ENTITY zoomOutButton.tooltip "Уменьшить">
+<!ENTITY zoomInButton.tooltip "Увеличить">
+<!ENTITY zoomControls.label "Управление масштабом">
+<!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
+<!ENTITY toggleAddonBarCmd.key "\">
