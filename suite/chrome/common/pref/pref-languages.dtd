@@ -1,32 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY languages.customize.prefLangDescript "De vegades, les pàgines web estan disponibles en diverses llengües. Trieu, per ordre de preferència, les llengües que voleu visualitzar les pàgines web.">
-<!ENTITY languages.customize.title "Llengües">
-<!ENTITY langtitle.label "Llengües per a les pàgines web">
-<!ENTITY languages.customize.prefAddLangDescript "Seleccioneu la(es) llengua(gües) que voleu afegir.">
-<!ENTITY languages.customize.addButton.label "Afegeix...">
-<!ENTITY languages.customize.addButton.accesskey "A">
-<!ENTITY languages.customize.deleteButton.label "Suprimeix">
-<!ENTITY languages.customize.deleteButton.accesskey "m">
-<!ENTITY languages.customize.add.title.label "Afegeix llengües">
-<!ENTITY languages.customize.available.label "Llengües:">
-<!ENTITY languages.customize.active.label "Llengües en ordre de preferència:">
-<!ENTITY languages.customize.active.accesskey           "L">
-<!ENTITY languages.customize.others.label "Altres:">
-<!ENTITY languages.customize.others.accesskey "a">
-<!ENTITY languages.customize.Charset.grouplabel "Codificació de caràcters">
-<!ENTITY languages.customize.DefaultCharset.label "Codificació per defecte:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "C">
-<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
-<!ENTITY languages.customize.others.examples "p. ex.: en-bz, ar-jo">
-<!ENTITY languages.customize.moveUp.label "Amunt">
-<!ENTITY languages.customize.moveUp.accesskey "u">
-<!ENTITY languages.customize.moveDown.label "Avall">
-<!ENTITY languages.customize.moveDown.accesskey "v">
 
-<!ENTITY spelling.label                                 "Ortografia">
-<!ENTITY checkSpelling.label                            "Verifica l'ortografia mentre s'escriu:">
-<!ENTITY checkSpelling.accesskey                        "V">
-<!ENTITY dontCheckSpelling.label                        "Mai">
-<!ENTITY multilineCheckSpelling.label                   "En els quadres multilineals">
-<!ENTITY alwaysCheckSpelling.label                      "En tots els quadres">
+<!ENTITY languages.customize.prefLangDescript           "De vegades, les pàgines web estan disponibles en diverses llengües. Trieu, per ordre de preferència, les llengües que voleu visualitzar les pàgines web.">
+<!ENTITY languages.customize.title                      "Llengües">
+<!ENTITY langtitle.label                                "Llengües per a les pàgines web">
+<!ENTITY languages.customize.prefAddLangDescript        "Seleccioneu les llengües que voleu afegir.">
+<!ENTITY languages.customize.addButton.label            "Afegeix...">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+<!ENTITY languages.customize.deleteButton.label         "Suprimeix">
+<!ENTITY languages.customize.deleteButton.accesskey     "m">
+<!ENTITY languages.customize.add.title.label            "Afegeix llengües">
+<!ENTITY languages.customize.available.label            "Llengües:">
+<!ENTITY languages.customize.active.label               "Llengües en ordre de preferència:">
+<!ENTITY languages.customize.active.accesskey           "L">
+<!ENTITY languages.customize.others.label               "Altres:">
+<!ENTITY languages.customize.others.accesskey           "A">
+<!ENTITY languages.customize.Charset.grouplabel         "Codificació de caràcters">
+<!ENTITY languages.customize.DefaultCharset.label       "Codificació per defecte:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "p. ex.: en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label               "Amunt">
+<!ENTITY languages.customize.moveUp.accesskey           "u">
+<!ENTITY languages.customize.moveDown.label             "Avall">
+<!ENTITY languages.customize.moveDown.accesskey         "v">

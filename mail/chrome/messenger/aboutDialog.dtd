@@ -1,83 +1,77 @@
-<!ENTITY aboutDialog.title "Quant al &brandFullName;">
+<!ENTITY aboutDialog.title          "Quant al &brandFullName;">
 
 <!ENTITY community.start2           "El &brandShortName; està dissenyat per ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", una ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "comunitat glogal">
-<!ENTITY community.end2             " que treballa per fer l'Internet millor. Nosaltres creiem que Internet hauria de ser oberta, pública i accessible a tothom sense restriccions de cap mena.">
+<!ENTITY community.creditsLink      "comunitat global">
+<!ENTITY community.end2             " que treballa per fer d'Internet un lloc millor. Creiem que Internet ha de ser un espai obert, públic i accessible a tothom i sense restriccions de cap mena.">
 
 <!ENTITY contribute.start           "Us interessa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Feu-vos-en!">
+<!ENTITY contribute.getInvolvedLink "Col·laboreu-hi!">
 <!ENTITY contribute.end             "">
-
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Informació sobre la llicència">
 
+<!ENTITY bottomLinks.license        "Informació de la llicència">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Drets de l'usuari final">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.rights         "Drets dels usuaris finals">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
+
 <!ENTITY bottomLinks.privacy        "Política de privadesa">
-
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "S'està comprovant si hi ha actualitzacions…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "S'està comprovant la compatibilitat dels complements…">
-<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "El &brandShortName; està ben actualitzat">
-<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "El vostre administrador ha inhabilitat les actualitzacions">
 
+<!ENTITY update.checkingForUpdates  "Comprovació de les actualitzacions…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Compatibilitat dels complements…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "El &brandShortName; està actualitzat">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "L'administrador ha inhabilitat les actualitzacions">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "L'actualització ha fallat. ">
-<!ENTITY update.failed.linkText     "Baixa la última actualització">
-<!ENTITY update.failed.end          "">
 
+<!ENTITY update.failed.start        "L'actualització ha fallat. ">
+<!ENTITY update.failed.linkText     "Baixeu la darrera versió">
+<!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Baixa la ">
-<!ENTITY update.manual.linkText     "última versió">
-<!ENTITY update.manual.end          "">
 
+<!ENTITY update.manual.start        "Baixeu la ">
+<!ENTITY update.manual.linkText     "darrera versió">
+<!ENTITY update.manual.end          "">
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "You can not perform further updates on this system. ">
+<!ENTITY update.unsupported.linkText "Learn more">
+<!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
+
 <!ENTITY update.downloading.start   "S'està baixant l'actualització — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "S'està aplicant l'actualització…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Actualment esteu ">
-<!ENTITY channel.description.end    " al canal d'actualitzacions. ">
 
-<!ENTITY channel.change             "Canvia">
-
-<!ENTITY channel.release.description       "Gaudiu de la versió final ben acabada i provada, que utilitza centenars de milions de persones de tot el món. Sentiu que teniu el control mentre navegueu a tota velocitat, que el podeu personalitzar fàcilment i que podeu utilitzar les últimes tecnologies web.">
-<!ENTITY channel.beta.description          "Experimenteu les últimes novetats però amb més estabilitat. Tot ajudant-nos a polir el que serà, ben aviat, una versió final.">
-<!ENTITY channel.aurora.description        "Sigueu els primer a experimentar les últimes novetats en un entorn inestable però amb una bona finalitat. Amb els vostre comentaris ens ajudareu a decidir quines seran les funcionalitats de la versió final.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Canvia al">
-<!ENTITY channel.selector.end            "canal d'actualitzacions.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Aplica i actualitza">
-<!ENTITY channel.selector.cancelButton   "Canceŀla">
+<!ENTITY channel.description.start  "Actualment esteu al canal ">
+<!ENTITY channel.description.end    " d'actualitzacions. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

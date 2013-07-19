@@ -1,111 +1,75 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY tableWindow.title "Propietats de la taula">
+<!ENTITY tableWindow.title                "Propietats de la taula">
 <!ENTITY applyButton.label                "Aplica">
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Tanca">
-<!ENTITY tableTab.label "Taula">
-<!ENTITY cellTab.label "Ceŀles">
-<!ENTITY tableRows.label "Files:">
-<!ENTITY tableRows.accessKey "F">
-<!ENTITY tableColumns.label "Columnes:">
-<!ENTITY tableColumns.accessKey "C">
-<!ENTITY tableHeight.label "Alçada:">
-<!ENTITY tableHeight.accessKey "d">
-<!ENTITY tableWidth.label "Amplada:">
-<!ENTITY tableWidth.accessKey "m">
-<!ENTITY tableBorderSpacing.label "Contorns i espaiat">
-<!ENTITY tableBorderWidth.label "Contorn:">
-<!ENTITY tableBorderWidth.accessKey "C">
-<!ENTITY tableSpacing.label "Espaiat:">
-<!ENTITY tableSpacing.accessKey "s">
-<!ENTITY tablePadding.label "Encoixinament:">
-<!ENTITY tablePadding.accessKey "x">
-<!ENTITY tablePxBetwCells.label "píxels entre les ceŀles">
-<!ENTITY tablePxBetwBrdrCellContent.label "píxels entre el contorn de la ceŀla i el seu contingut">
-<!ENTITY tableAlignment.label "Alineació de la taula:">
-<!ENTITY tableAlignment.accessKey "t">
-<!ENTITY tableCaption.label "Llegenda:">
-<!ENTITY tableCaption.accessKey "n">
-<!ENTITY tableCaptionAbove.label "Sobre la taula">
-<!ENTITY tableCaptionBelow.label "Sota la taula">
-<!ENTITY tableCaptionLeft.label "Esquerra de la taula">
-<!ENTITY tableCaptionRight.label "Dreta de la taula">
-<!ENTITY tableCaptionNone.label "Cap">
-<!ENTITY tableInheritColor.label "(Permet que el color de la pàgina es transparenti)">
+<!ENTITY tableTab.label                   "Taula">
+<!ENTITY cellTab.label                    "Cel·les">
+<!ENTITY tableRows.label                  "Files:">
+<!ENTITY tableRows.accessKey              "F">
+<!ENTITY tableColumns.label               "Columnes:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Alçada:">
+<!ENTITY tableHeight.accessKey            "d">
+<!ENTITY tableWidth.label                 "Amplada:">
+<!ENTITY tableWidth.accessKey             "m">
+<!ENTITY tableBorderSpacing.label         "Contorns i espaiat">
+<!ENTITY tableBorderWidth.label           "Contorn:">
+<!ENTITY tableBorderWidth.accessKey       "C">
+<!ENTITY tableSpacing.label               "Espaiat:">
+<!ENTITY tableSpacing.accessKey           "s">
+<!ENTITY tablePadding.label               "Encoixinament:">
+<!ENTITY tablePadding.accessKey           "x">
+<!ENTITY tablePxBetwCells.label           "píxels entre les cel·les">
+<!ENTITY tablePxBetwBrdrCellContent.label "píxels entre el contorn de la cel·la i el seu contingut">
+<!ENTITY tableAlignment.label             "Alineació de la taula:">
+<!ENTITY tableAlignment.accessKey         "t">
+<!ENTITY tableCaption.label               "Llegenda:">
+<!ENTITY tableCaption.accessKey           "n">
+<!ENTITY tableCaptionAbove.label          "Sobre la taula">
+<!ENTITY tableCaptionBelow.label          "Sota la taula">
+<!ENTITY tableCaptionLeft.label           "Esquerra de la taula">
+<!ENTITY tableCaptionRight.label          "Dreta de la taula">
+<!ENTITY tableCaptionNone.label           "Cap">
+<!ENTITY tableInheritColor.label           "(Permet que el color de la pàgina es transparenti)">
 
-<!ENTITY cellSelection.label "Selecció">
-<!ENTITY cellSelectCell.label "Ceŀla">
-<!ENTITY cellSelectRow.label "Fila">
-<!ENTITY cellSelectColumn.label "Columna">
-<!ENTITY cellSelectNext.label "Següent">
-<!ENTITY cellSelectNext.accessKey "n">
-<!ENTITY cellSelectPrevious.label "Anterior">
-<!ENTITY cellSelectPrevious.accessKey "o">
-<!ENTITY applyBeforeChange.label "Els canvis actuals s'aplicaran abans de canviar la selecció.">
-<!ENTITY cellContentAlignment.label "Alineació del contingut:">
-<!ENTITY cellHorizontal.label "Horitzontal:">
-<!ENTITY cellHorizontal.accessKey "z">
-<!ENTITY cellVertical.label "Vertical:">
-<!ENTITY cellVertical.accessKey "V">
-<!ENTITY cellStyle.label "Estil de la ceŀla:">
-<!ENTITY cellStyle.accessKey "l">
-<!ENTITY cellNormal.label "Normal">
-<!ENTITY cellHeader.label "Capçalera">
-<!ENTITY cellTextWrap.label "Ajustament de text:">
-<!ENTITY cellTextWrap.accessKey "t">
-<!ENTITY cellWrap.label "Ajusta">
-<!ENTITY cellNoWrap.label "No ajustis">
-<!ENTITY cellAlignTop.label "Superior">
-<!ENTITY cellAlignMiddle.label "Mitjà">
-<!ENTITY cellAlignBottom.label "Inferior">
-<!ENTITY cellAlignJustify.label "Justifica">
-<!ENTITY cellInheritColor.label "(Permet que el color de la taula sigui transparent)">
-<!ENTITY cellUseCheckboxHelp.label "Utilitza quadres de verificació per determinar quines propietats s'apliquen a totes les ceŀles seleccionades ">
-
+<!ENTITY cellSelection.label              "Selecció">
+<!ENTITY cellSelectCell.label             "Cel·la">
+<!ENTITY cellSelectRow.label              "Fila">
+<!ENTITY cellSelectColumn.label           "Columna">
+<!ENTITY cellSelectNext.label             "Següent">
+<!ENTITY cellSelectNext.accessKey         "n">
+<!ENTITY cellSelectPrevious.label         "Anterior">
+<!ENTITY cellSelectPrevious.accessKey     "o">
+<!ENTITY applyBeforeChange.label          "Els canvis actuals s'aplicaran abans de canviar la selecció.">
+<!ENTITY cellContentAlignment.label       "Alineació del contingut:">
+<!ENTITY cellHorizontal.label             "Horitzontal:">
+<!ENTITY cellHorizontal.accessKey         "z">
+<!ENTITY cellVertical.label               "Vertical:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "Estil de la cel·la:">
+<!ENTITY cellStyle.accessKey              "l">
+<!ENTITY cellNormal.label                 "Normal">
+<!ENTITY cellHeader.label                 "Capçalera">
+<!ENTITY cellTextWrap.label               "Ajustament de text:">
+<!ENTITY cellTextWrap.accessKey           "t">
+<!ENTITY cellWrap.label                   "Ajusta">
+<!ENTITY cellNoWrap.label                 "No ajustis">
+<!ENTITY cellAlignTop.label               "Superior">
+<!ENTITY cellAlignMiddle.label            "Mitjà">
+<!ENTITY cellAlignBottom.label            "Inferior">
+<!ENTITY cellAlignJustify.label           "Justifica">
+<!ENTITY cellInheritColor.label           "(Permet que el color de la taula sigui transparent)">
+<!ENTITY cellUseCheckboxHelp.label        "Utilitza caselles de selecció per determinar quines propietats s'apliquen a totes les cel·les seleccionades ">
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label "Mida">
-<!ENTITY pixels.label "píxels">
-<!ENTITY backgroundColor.label "Color de fons:">
-<!ENTITY backgroundColor.accessKey "f">
-<!ENTITY AlignLeft.label "Esquerra">
-<!ENTITY AlignCenter.label "Centre">
-<!ENTITY AlignRight.label "Dreta">
+
+<!ENTITY size.label                       "Mida">
+<!ENTITY pixels.label                     "píxels">
+<!ENTITY backgroundColor.label            "Color de fons:">
+<!ENTITY backgroundColor.accessKey        "f">
+<!ENTITY AlignLeft.label                  "Esquerra">
+<!ENTITY AlignCenter.label                "Centre">
+<!ENTITY AlignRight.label                 "Dreta">

@@ -1,18 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.download.title            "Baixades">
 
-<!ENTITY downloadBehavior.label "En iniciar una baixada">
-<!ENTITY focusWhenStarting.label        "Mostra'm el gestor de baixades si ja estava obert, i sinó:">
-<!ENTITY focusWhenStarting.accesskey    "M">
-<!ENTITY openDM.label "Obre el gestor de baixades">
-<!ENTITY openDM.accesskey "b">
-<!ENTITY openProgressDialog.label "Obre un diàleg de progrés">
-<!ENTITY openProgressDialog.accesskey "d">
-<!ENTITY doNothing.label "No obris res">
-<!ENTITY doNothing.accesskey "N">
+<!ENTITY downloadBehavior.label         "En iniciar una baixada">
+<!ENTITY doNothing.label                "No obris res">
+<!ENTITY doNothing.accesskey            "N">
+<!ENTITY openProgressDialog.label       "Obre un diàleg de progrés">
+<!ENTITY openProgressDialog.accesskey   "d">
+<!ENTITY openDM.label                   "Obre el gestor de baixades">
+<!ENTITY openDM.accesskey               "b">
+<!ENTITY flashWhenOpen.label            "Només ressalta el gestor de baixades si ja està obert">
+<!ENTITY flashWhenOpen.accesskey        "r">
 
 <!ENTITY downloadLocation.label         "Quan es desi un fitxer">
 <!ENTITY saveTo.label                   "Desa els fitxers a">
-<!ENTITY saveTo.accesskey               "a">
+<!ENTITY saveTo.accesskey               "s">
 <!ENTITY chooseDownloadFolder.label     "Tria la carpeta...">
 <!ENTITY chooseDownloadFolder.accesskey "T">
 <!ENTITY alwaysAsk.label                "Demana'm sempre on desar els fitxers">

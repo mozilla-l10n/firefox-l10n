@@ -1,35 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY bookmarksManager.title         "Gestor d'adreces d'interès">
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
 
-<!ENTITY file.accesskey "F">
-<!ENTITY file.close.label "Tanca">
-<!ENTITY file.close.accesskey "c">
-<!ENTITY cmd.close.key "w">
-<!ENTITY view.columns.label "Mostra les columnes">
-<!ENTITY view.columns.accesskey "s">
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Tanca">
+<!ENTITY file.close.accesskey           "c">
+<!ENTITY cmd.close.key                  "w">
+
+<!ENTITY view.columns.label             "Mostra les columnes">
+<!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Ordena">
 <!ENTITY view.sort.accesskey            "O">
-<!ENTITY view.unsorted.label "Sense ordenar">
-<!ENTITY view.unsorted.accesskey "S">
-<!ENTITY view.sortAscending.label "Ordenació A > Z">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Ordenació Z > A">
-<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY view.unsorted.label            "Sense ordenar">
+<!ENTITY view.unsorted.accesskey        "S">
+<!ENTITY view.sortAscending.label       "Ordenació A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordenació Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label "Cerca a les adreces d'interès i a l'historial…">
-<!ENTITY cmd.findInBookmarks.accesskey "r">
-<!ENTITY cmd.findCurrent.label "Cerca a la coŀlecció actual…">
-<!ENTITY cmd.findCurrent.accesskey "i">
+<!ENTITY cmd.findInBookmarks.label      "Cerca a les adreces d'interès i a l'historial…">
+<!ENTITY cmd.findInBookmarks.accesskey  "r">
+<!ENTITY cmd.findCurrent.label          "Cerca a la col·lecció actual…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
 <!ENTITY cmd.exportHTML.label           "Exporta en HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
 <!ENTITY cmd.importHTML.label           "Importa en HTML…">
 <!ENTITY cmd.importHTML.accesskey       "I">
-<!ENTITY cmd.backup.label  "Fes una còpia de seguretat…">
-<!ENTITY cmd.backup.accesskey  "g">
-<!ENTITY cmd.restore2.label  "Restaura una còpia de seguretat">
-<!ENTITY cmd.restore2.accesskey  "R">
-<!ENTITY cmd.restoreFromFile.label  "Trieu un fitxer…">
+
+<!ENTITY cmd.backup.label               "Fes una còpia de seguretat…">
+<!ENTITY cmd.backup.accesskey           "g">
+<!ENTITY cmd.restore2.label             "Restaura una còpia de seguretat">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Trieu un fitxer…">
 <!ENTITY cmd.restoreFromFile.accesskey  "T">
 
 <!ENTITY cmd.bookmarkLink.label         "Afegeix la pàgina a les adreces d'interès…">
@@ -39,41 +46,46 @@
 <!ENTITY cmd.deleteDomainData.label     "Oblida el lloc">
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 
-<!ENTITY cmd.open.label "Obre">
-<!ENTITY cmd.open.accesskey "O">
-<!ENTITY cmd.open_window.label "Obre en una nova finestra">
-<!ENTITY cmd.open_window.accesskey "n">
-<!ENTITY cmd.open_tab.label "Obre en una nova pestanya">
-<!ENTITY cmd.open_tab.accesskey "t">
-<!ENTITY cmd.open_all_in_tabs.label "Obre-ho tot en pestanyes">
-<!ENTITY cmd.open_all_in_tabs.accesskey "O">
-<!ENTITY cmd.properties.label "Propietats">
-<!ENTITY cmd.properties.accesskey "i">
-<!ENTITY cmd.sortby_name.label "Ordena per nom">
-<!ENTITY cmd.sortby_name.accesskey "O">
-<!ENTITY cmd.new_bookmark.label "Afegeix una adreça d'interès…">
-<!ENTITY cmd.new_bookmark.accesskey "d">
-<!ENTITY cmd.new_folder.label "Crea una carpeta…">
-<!ENTITY cmd.new_folder.accesskey "e">
-<!ENTITY cmd.context_new_folder.accesskey "e">
-<!ENTITY cmd.new_separator.label "Afegeix un separador">
-<!ENTITY cmd.new_separator.accesskey "s">
-<!ENTITY cmd.reloadLivebookmark.label "Torna a carregar l'adreça d'interès activa">
-<!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.moveBookmarks.label "Mou…">
-<!ENTITY cmd.moveBookmarks.accesskey "M">
+<!ENTITY cmd.open.label                  "Obre">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Obre en una nova finestra">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_tab.label              "Obre en una nova pestanya">
+<!ENTITY cmd.open_tab.accesskey          "t">
+<!ENTITY cmd.open_all_in_tabs.label      "Obre-ho tot en pestanyes">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
-<!ENTITY col.title.label "Nom">
-<!ENTITY col.tags.label "Etiquetes">
-<!ENTITY col.url.label "Ubicació">
-<!ENTITY col.lastvisit.label "Data de visita">
-<!ENTITY col.visitcount.label "Nombre de visites">
-<!ENTITY col.keyword.label "Paraula clau">
-<!ENTITY col.description.label "Descripció">
-<!ENTITY col.dateadded.label "Addició">
-<!ENTITY col.lastmodified.label "Darrera modificació">
+<!ENTITY cmd.properties.label      "Propietats">
+<!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY search.label "Cerca:">
+<!ENTITY cmd.sortby_name.label              "Ordena per nom">
+<!ENTITY cmd.sortby_name.accesskey          "O">
+
+<!ENTITY cmd.new_bookmark.label            "Afegeix una adreça d'interès…">
+<!ENTITY cmd.new_bookmark.accesskey        "d">
+<!ENTITY cmd.new_folder.label              "Crea una carpeta…">
+<!ENTITY cmd.new_folder.accesskey          "e">
+<!ENTITY cmd.context_new_folder.accesskey  "e">
+<!ENTITY cmd.new_separator.label           "Afegeix un separador">
+<!ENTITY cmd.new_separator.accesskey       "s">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Torna a carregar l'adreça d'interès activa">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
+
+<!ENTITY cmd.moveBookmarks.label                  "Mou…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.title.label         "Nom">
+<!ENTITY col.tags.label          "Etiquetes">
+<!ENTITY col.url.label           "Ubicació">
+<!ENTITY col.lastvisit.label     "Data de visita">
+<!ENTITY col.visitcount.label    "Nombre de visites">
+<!ENTITY col.keyword.label       "Paraula clau">
+<!ENTITY col.description.label   "Descripció">
+<!ENTITY col.dateadded.label     "Addició">
+<!ENTITY col.lastmodified.label  "Darrera modificació">
+
+<!ENTITY search.label                              "Cerca:">
 <!ENTITY search.placeholder                        "Cerca a les adreces d'interès">
 
 <!ENTITY search.in.label                           "Cerca a:">
@@ -81,20 +93,19 @@
 <!ENTITY search.scopeFolder.accesskey              "p">
 <!ENTITY search.scopeBookmarks.label               "Adreces d'interès">
 <!ENTITY search.scopeBookmarks.accesskey           "A">
-<!ENTITY saveSearch.label "Desa">
-<!ENTITY saveSearch.accesskey "s">
+<!ENTITY saveSearch.label                          "Desa">
+<!ENTITY saveSearch.accesskey                      "s">
 
-<!ENTITY cmd.find.key "f">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY backButton.tooltip  "Vés enrere">
-
 <!ENTITY forwardButton.tooltip  "Vés endavant">
 
-<!ENTITY detailsPane.more.label         "Més">
+<!ENTITY detailsPane.more.label "Més">
 <!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.fewer.label         "Menys">
+<!ENTITY detailsPane.fewer.label "Menys">
 <!ENTITY detailsPane.fewer.accesskey "y">
-<!ENTITY detailsPane.selectAnItemText.description         "Seleccioneu un element per a visualitzar-ne i editar-ne les propietats">
+<!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per visualitzar-ne i editar-ne les propietats">
 
 <!ENTITY editBookmark.done.label "Fet">
 <!ENTITY editBookmark.cancel.label "Cancel·la">

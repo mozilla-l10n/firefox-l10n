@@ -1,20 +1,16 @@
-<!ENTITY pref.validation.title             "Validació">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pref.validation.title                   "Validació">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Utilitza el gestor de CRL per a gestionar les llistes de revocació de certificats (CRL) que s'emmagatzema a la base de dades de certificats.">
+<!ENTITY  validation.crl.description              "Utilitza el gestor de CRL per gestionar les llistes de revocació de certificats (CRL) que s'emmagatzema a la base de dades de certificats.">
 <!ENTITY  validation.managecrls.button            "Gestiona les CRL…">
 <!ENTITY  validation.managecrls.accesskey         "G">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">
-<!ENTITY enableOCSP.label             "Utilitza el protocol d'estat de certificació en línia (OCSP) per a confirmar la validesa actual dels certificats">
-<!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "Valida un certificat si especifica un servidor OCSP">
-<!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Valida tots els certificats utilitzant el servidor OCSP següent:">
-<!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "URL de servei:">
-<!ENTITY serviceURL.accesskey         "s">
-<!ENTITY signingCA.label              "Signatari de la resposta:">
-<!ENTITY signingCA.accesskey          "r">
-<!ENTITY validation.requireOCSP.description	"Quan la connexió a un servidor OCSP falla, es tracta el certificat com a invàlid">
-<!ENTITY validation.requireOCSP.accesskey	"Q">
+<!ENTITY enableOCSP.label                         "Utilitza el protocol d'estat de certificació en línia (OCSP) per confirmar la validesa actual dels certificats">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY validation.requireOCSP.description       "Quan la connexió a un servidor OCSP falla, es tracta el certificat com a no vàlid">
+<!ENTITY validation.requireOCSP.accesskey         "Q">

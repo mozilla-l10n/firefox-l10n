@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Etiquetes">
 
@@ -12,35 +16,31 @@
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Més gran">
 <!ENTITY smaller.label                    "Més petita">
-<!ENTITY color.label                      "Color:">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Missatges en text net">
-<!ENTITY displayText.label				        "Quan es mostrin missatges de text net citat:">
-<!ENTITY colors.label                     "Colors">
-<!ENTITY overrideColors.label             "Quan es mostrin els missatges, utilitza els colors següents:">
-<!ENTITY  textColor.label                 "Color del text:">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Color del fons:">
-<!ENTITY  backgroundColor.accesskey       "f">
-
+<!ENTITY displayText.label                "Quan es mostrin missatges de text net citat:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
 <!ENTITY convertEmoticons.label        "Mostra les emoticones com a imatges">
 <!ENTITY convertEmoticons.accesskey    "M">
-
 <!-- labels -->
-<!ENTITY displayTagsText.label    "Les etiquetes poden utilitzar-se per a classificar i donar prioritats als vostres missatges.">
-<!ENTITY addTagButton.label       "Afegeix">
-<!ENTITY addTagButton.accesskey   "A">
-<!ENTITY editTagButton.label      "Edita">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label    "Suprimeix">
-<!ENTITY removeTagButton.accesskey "x">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Tipus de lletra">
+<!ENTITY displayTagsText.label     "Les etiquetes poden utilitzar-se per classificar i donar prioritats als vostres missatges.">
+<!ENTITY addTagButton.label        "Afegeix">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "Edita">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Suprimeix">
+<!ENTITY removeTagButton.accesskey "x">
+<!-- Fonts and Colors -->
+
+<!ENTITY fontsAndColors1.label   "Tipus de lletra i colors">
 <!ENTITY defaultFont.label       "Tipus de lletra per defecte:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Mida:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Avançades…">
+<!ENTITY colorButton.label       "Colors…">
+<!ENTITY colorButton.accesskey   "C">

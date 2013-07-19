@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title "Instaŀlació de programari">
-<!ENTITY dialog.style            "width: 50em">
-<!ENTITY warningPrimary.label "Hauríeu d'instaŀlar complements només d'autors en qui confieu.">
-<!ENTITY warningSecondary.label "El programari maligne pot malmetre el vostre ordinador o violar la vostra privadesa.">
-
-<!ENTITY from.label "des de:">
-

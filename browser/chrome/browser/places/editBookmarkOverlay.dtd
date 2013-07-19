@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY editBookmarkOverlay.name.label                      "Nom:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Ubicació:">
@@ -6,7 +10,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "c">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Ubicació del lloc web:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "w">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Títols actius">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostra totes les carpetes de les adreces d'interès">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Amaga">
@@ -23,4 +26,3 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Trieu…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Crea una carpeta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "p">
-

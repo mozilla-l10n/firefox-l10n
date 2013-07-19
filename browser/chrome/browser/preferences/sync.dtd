@@ -1,25 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Configura el &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "El &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
 
+<!ENTITY setupButton.label          "Configura el &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "C">
+<!ENTITY weaveDesc.label            "El &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
+<!-- The page shown when logged in... -->
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "Actualitza">
 <!ENTITY resetPass.label              "Reinicia">
-
 <!-- Manage Account -->
+
 <!ENTITY manageAccount.label          "Gestiona el compte">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Visualitza la quota">
-<!ENTITY changePassword.label         "Canvia la contrasenya">
-<!ENTITY mySyncKey.label              "La meva clau de sincronització">
-<!ENTITY resetSync.label              "Reinicia la sincronització">
-<!ENTITY addDevice.label              "Afegeix un dispositiu">
+<!ENTITY changePassword2.label        "Canvia la contrasenya…">
+<!ENTITY myRecoveryKey.label          "La meva clau de recuperació">
+<!ENTITY resetSync2.label             "Reinicia el compte Sync...">
 
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Nom de l'ordinador:">
-<!ENTITY syncComputerName.accesskey   "o">
-<!ENTITY deactivateDevice.label       "Desactiva aquest dispositiu">
+<!ENTITY pairDevice.label             "Vincula un dispositiu">
 
 <!ENTITY syncMy.label               "Sincronitza:">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
@@ -32,7 +34,14 @@
 <!ENTITY engine.passwords.accesskey "y">
 <!ENTITY engine.prefs.label         "Preferències">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Complements">
+<!ENTITY engine.addons.accesskey    "C">
+<!-- Device Settings -->
 
+<!ENTITY syncDeviceName.label       "Nom del dispositiu:">
+<!ENTITY syncDeviceName.accesskey   "N">
+<!ENTITY unlinkDevice.label           "Desvincula aquest dispositiu">
 <!-- Footer stuff -->
+
 <!ENTITY prefs.tosLink.label        "Termes del servei">
 <!ENTITY prefs.ppLink.label         "Política de privadesa">

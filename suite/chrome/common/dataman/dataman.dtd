@@ -1,39 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is KaiRo's data manager.
-   -
-   - The Initial Developer of the Original Code is
-   - Robert Kaiser <kairo@kairo.at>.
-   - Portions created by the Initial Developer are Copyright (C) 2010
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Robert Kaiser <kairo@kairo.at> (original author)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dataman.windowTitle "Gestor de dades">
 
@@ -44,6 +11,7 @@
 <!ENTITY select.permissions.label "Només permisos">
 <!ENTITY select.preferences.label "Només preferències">
 <!ENTITY select.passwords.label "Només contrasenyes">
+<!ENTITY select.storage.label "Només emmagatzematge">
 
 <!ENTITY domain.search.placeholder "Cerca de dominis">
 <!ENTITY domain.search.key "f">
@@ -61,10 +29,11 @@
 <!ENTITY tab.permissions.label "Permisos">
 <!ENTITY tab.preferences.label "Preferències">
 <!ENTITY tab.passwords.label "Contrasenyes">
+<!ENTITY tab.storage.label "Emmagatzematge">
 <!ENTITY tab.formdata.label "Dades de formulari">
 <!ENTITY tab.forget.label "Oblida-ho">
-
 <!-- cookies -->
+
 <!ENTITY cookies.description "Aquest domini ha emmagatzemat les galetes següent al vostre ordinador:">
 
 <!ENTITY cookies.tree.host.label "Lloc web">
@@ -77,7 +46,7 @@
 <!ENTITY cookies.info.value.label "Contingut:">
 <!ENTITY cookies.info.host.label "Servidor central:">
 <!ENTITY cookies.info.domain.label "Domini:">
-<!ENTITY cookies.info.path.label "Camini:">
+<!ENTITY cookies.info.path.label "Camí:">
 <!ENTITY cookies.info.sendtype.label "S'envia per:">
 <!ENTITY cookies.info.expires.label "Venç:">
 
@@ -89,22 +58,23 @@
 <!ENTITY cookies.button.remove.label "Suprimeix">
 <!ENTITY cookies.button.remove.accesskey "r">
 
-<!ENTITY cookies.blockOnRemove.label "En suprimir, impideix als llocs web llistats deixar galetes en un futur">
+<!ENTITY cookies.blockOnRemove.label "En suprimir, impedeix als llocs web llistats deixar galetes en un futur">
 <!ENTITY cookies.blockOnRemove.accesskey "w">
-
 <!-- permissions -->
+
 <!ENTITY perm.UseDefault "Utilitza els predeterminats">
 <!ENTITY perm.AskAlways "Demana-m'ho sempre">
 <!ENTITY perm.NeverSave "Mai ho desis">
 <!ENTITY perm.Allow "Permet">
-<!ENTITY perm.AllowSession "Permet per a la sessió">
+<!ENTITY perm.AllowSameDomain "Permetre pel mateix domini">
+<!ENTITY perm.AllowSession "Permet durant la sessió">
 <!ENTITY perm.Block "Bloca">
 
 <!ENTITY perm.host.placeholder "Introduïu un nom de servidor central">
 <!ENTITY perm.button.add.label "Afegeix">
 <!ENTITY perm.button.add.accesskey "A">
-
 <!-- preferences -->
+
 <!ENTITY prefs.description "Les preferències de contingut són un mecanisme del &brandShortName; per desar les preferències de l'aplicació, com ara els nivells de zoom, de forma específica per a un lloc web.">
 
 <!ENTITY prefs.tree.host.label "Lloc web">
@@ -118,9 +88,9 @@
 
 <!ENTITY prefs.button.remove.label "Suprimeix">
 <!ENTITY prefs.button.remove.accesskey "r">
-
 <!-- passwords -->
-<!ENTITY pwd.description "You have the following passwords stored for this domain:">
+
+<!ENTITY pwd.description "Hi ha emmagatzemades les contrasenyes següents per a aquest domini:">
 
 <!ENTITY pwd.tree.host.label "Lloc web">
 <!ENTITY pwd.tree.username.label "Nom d'usuari">
@@ -135,8 +105,23 @@
 
 <!ENTITY pwd.button.remove.label "Suprimeix">
 <!ENTITY pwd.button.remove.accesskey "r">
+<!-- storage -->
 
+<!ENTITY storage.description "Aquest domini utilitza els següents emmagatzematges web en el vostre ordinador:">
+
+<!ENTITY storage.tree.host.label "Lloc web">
+<!ENTITY storage.tree.type.label "Tipus">
+<!ENTITY storage.tree.size.label "Mida">
+
+<!ENTITY storage.ctx.remove.label "Suprimeix">
+<!ENTITY storage.ctx.remove.accesskey "r">
+<!ENTITY storage.ctx.selectAll.label "Selecciona-ho tot">
+<!ENTITY storage.ctx.selectAll.accesskey "a">
+
+<!ENTITY storage.button.remove.label "Suprimeix">
+<!ENTITY storage.button.remove.accesskey "r">
 <!-- form data -->
+
 <!ENTITY fdata.search.placeholder "Cerca de les dades dels camps">
 
 <!ENTITY fdata.tree.fieldname.label "Nom del camp">
@@ -152,8 +137,8 @@
 
 <!ENTITY fdata.button.remove.label "Suprimeix">
 <!ENTITY fdata.button.remove.accesskey "r">
-
 <!-- forget -->
+
 <!ENTITY forget.cookies.label "Galetes">
 <!ENTITY forget.cookies.accesskey "G">
 <!ENTITY forget.permissions.label "Permisos">
@@ -162,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Contrasenyes">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Emmagatzematge">
+<!ENTITY forget.storage.accesskey "E">
 <!ENTITY forget.formdata.label "Dades de formularis">
 <!ENTITY forget.formdata.accesskey "D">
 

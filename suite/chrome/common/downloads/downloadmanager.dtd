@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY downloadManager.title           "Gestor de Baixades">
 
 <!ENTITY menuBar.tooltip                 "Barra de menú">
@@ -45,9 +49,9 @@
 <!ENTITY col.endtime.label               "Hora de finalització">
 <!ENTITY col.endtime.accesskey           "i">
 <!ENTITY col.endtime.tooltip             "Hora de finalització">
-<!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
-<!ENTITY col.progresstext.tooltip        "Progrés (&#37;)">
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
+<!ENTITY col.progresstext.tooltip        "Progrés (&#037;)">
 <!ENTITY col.source.label                "Font">
 <!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "Font">

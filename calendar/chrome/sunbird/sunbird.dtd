@@ -1,59 +1,27 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Sun Microsystems code.
-   -
-   - The Initial Developer of the Original Code is
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   - Portions created by the Initial Developer are Copyright (C) 2008
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sunbird.choosedate.button.tooltip     "Trieu una data per a anar-hi" >
-<!ENTITY sunbird.cut.button.tooltip            "Retalla" >
-<!ENTITY sunbird.copy.button.tooltip           "Copia" >
-<!ENTITY sunbird.paste.button.tooltip          "Enganxa" >
-<!ENTITY sunbird.print.button.tooltip          "Imprimeix un calendari" >
-<!ENTITY sunbird.delete.button.tooltip           "Suprimeix la cita seleccionada" >
-<!ENTITY sunbird.remotereload.button.tooltip   "Actualitza tots els calendaris remots" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "Trieu una data per anar-hi" >
+<!ENTITY sunbird.cut.button.tooltip                        "Retalla" >
+<!ENTITY sunbird.copy.button.tooltip                       "Copia" >
+<!ENTITY sunbird.paste.button.tooltip                      "Enganxa" >
+<!ENTITY sunbird.print.button.tooltip                      "Imprimeix un calendari" >
+<!ENTITY sunbird.delete.button.tooltip                     "Suprimeix la cita seleccionada" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Actualitza tots els calendaris remots" >
 <!ENTITY sunbird.import.button.tooltip                     "Importa cites d'un fitxer local" >
 <!ENTITY sunbird.export.button.tooltip                     "Exporta cites a un fitxer local" >
-<!ENTITY sunbird.subscribe.button.tooltip                  "Subscriure's a un fitxer de calendari d'una màquina remota" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Us subscriu a un fitxer de calendari d'una màquina remota" >
 <!ENTITY sunbird.publish.button.tooltip                    "Publica cites a una màquina remota" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "Cerca una llista de cites" >
 <!ENTITY sunbird.edit.button.tooltip                       "Edita la cita seleccionada" >
 
-<!ENTITY sunbird.choosedate.button.label       "Trieu una data" >
-<!ENTITY sunbird.cut.button.label              "Retalla" >
-<!ENTITY sunbird.copy.button.label             "Copia" >
-<!ENTITY sunbird.paste.button.label            "Enganxa" >
-<!ENTITY sunbird.delete.button.label           "Suprimeix" >
-<!ENTITY sunbird.remotereload.button.label     "Actualitza" >
+<!ENTITY sunbird.choosedate.button.label                   "Trieu una data" >
+<!ENTITY sunbird.cut.button.label                          "Retalla" >
+<!ENTITY sunbird.copy.button.label                         "Copia" >
+<!ENTITY sunbird.paste.button.label                        "Enganxa" >
+<!ENTITY sunbird.delete.button.label                       "Suprimeix" >
+<!ENTITY sunbird.remotereload.button.label                 "Actualitza" >
 <!ENTITY sunbird.import.button.label                       "Importa" >
 <!ENTITY sunbird.export.button.label                       "Exporta" >
 <!ENTITY sunbird.subscribe.button.label                    "Subscriu" >
@@ -61,15 +29,16 @@
 <!ENTITY sunbird.unifinder.button.label                    "Cerca cites" >
 <!ENTITY sunbird.edit.button.label                         "Edita" >
 
-<!ENTITY sunbird.flat.topbar.choosedate       "Vés a la data" >
-<!ENTITY sunbird.flat.topbar.dayview          "Vista diària" >
-<!ENTITY sunbird.dayview.accesskey            "D" >
-<!ENTITY sunbird.flat.topbar.weekview         "Vista setmanal" >
-<!ENTITY sunbird.weekview.accesskey           "s" >
-<!ENTITY sunbird.flat.topbar.monthview        "Vista mensual" >
-<!ENTITY sunbird.monthview.accesskey          "M" >
-<!ENTITY sunbird.flat.topbar.multiweekview    "Vista multisetmanal" >
-<!ENTITY sunbird.multiweekview.accesskey      "u" >
+<!ENTITY sunbird.flat.topbar.choosedate                    "Vés a la data" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Vista diària" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Vista setmanal" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Vista mensual" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Vista multisetmanal" >
+
+<!ENTITY sunbird.dayview.accesskey                         "D" >
+<!ENTITY sunbird.weekview.accesskey                        "s" >
+<!ENTITY sunbird.monthview.accesskey                       "M" >
+<!ENTITY sunbird.multiweekview.accesskey                   "u" >
 
 
 <!ENTITY sunbird.calendartab.label                         "Data">
@@ -78,26 +47,26 @@
 <!ENTITY sunbird.find.key                                  "F">
 <!ENTITY sunbird.close.key                                 "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label     "Nombre de setmanes" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey "N" >
-<!ENTITY sunbird.menu.numberofweeks.1      "1 Setmana" >
-<!ENTITY sunbird.menu.numberofweeks.2      "2 setmanes" >
-<!ENTITY sunbird.menu.numberofweeks.3      "3 setmanes" >
-<!ENTITY sunbird.menu.numberofweeks.4      "4 setmanes" >
-<!ENTITY sunbird.menu.numberofweeks.5      "5 setmanes" >
-<!ENTITY sunbird.menu.numberofweeks.6      "6 setmanes" >
-
+<!ENTITY sunbird.menu.numberofweeks.label                  "Nombre de setmanes" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 Setmana" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 setmanes" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 setmanes" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 setmanes" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 setmanes" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 setmanes" >
 <!-- customizable toolbars -->
-<!ENTITY sunbird.context.customize.label             "Personalitza…">
-<!ENTITY sunbird.context.customize.accesskey         "P">
-<!ENTITY sunbird.menu.customize.label                "Personalitza la barra d'eines…">
-<!ENTITY sunbird.menu.customize.accesskey            "P">
-<!ENTITY sunbird.maintoolbar.name                    "Barra principal">
-<!ENTITY sunbird.maintoolbar.accesskey               "B">
 
+<!ENTITY sunbird.context.customize.label                   "Personalitza…">
+<!ENTITY sunbird.context.customize.accesskey               "P">
+<!ENTITY sunbird.menu.customize.label                      "Personalitza la barra d'eines…">
+<!ENTITY sunbird.menu.customize.accesskey                  "P">
+<!ENTITY sunbird.maintoolbar.name                          "Barra principal">
+<!ENTITY sunbird.maintoolbar.accesskey                     "B">
 <!-- Sunbird Help -->
+
 <!ENTITY sunbird.help.label                                "Contingut de l'ajuda">
 <!ENTITY sunbird.help.accesskey                            "a">
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 <!ENTITY mainWindow.title                                  "&brandFullName;">

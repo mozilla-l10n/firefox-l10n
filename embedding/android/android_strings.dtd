@@ -1,17 +1,25 @@
-<!ENTITY  splash_screen_label "s\'està carregant">
-<!ENTITY  splash_screen_installing "instal·lació de biblioteques\u2026">
-<!ENTITY  incompatable_cpu_error "El dispositiu no compleix amb els requisits de sistema mínims per al &brandShortName;.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  splash_firstrun "S\u0027està configurant el &brandShortName;\u2026">
+
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
-<!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
+<!ENTITY  error_loading_file "S\u0027ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Informe de fallades del &brandShortName;">
-<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\'inici del &brandShortName; en reiniciar.">
+<!ENTITY  crash_message "El &brandShortName; ha fallat. Les vostres pestanyes haurien de sortir llistades a la pàgina d\u0027inici del &brandShortName; en reiniciar.">
 <!ENTITY  crash_help_message "Ajudeu-nos a solucionar aquest problema!">
 <!ENTITY  crash_send_report_message "Envia un informe de fallada a Mozilla">
-<!ENTITY  crash_include_url "Inclou l\'adreça de la pàgina">
+<!ENTITY  crash_include_url "Inclou l\u0027adreça de la pàgina">
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
-<!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
+<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
-<!ENTITY  incompatable_device "El &brandShortName; no té garanties de funcionament amb aquest dispositiu, i hi podríeu experimentar problemes.">
 <!ENTITY  continue_label "Continua">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Aplicacions web">
+<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació Web">
+
+<!ENTITY choose_file "Trieu un fitxer">

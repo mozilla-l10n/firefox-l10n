@@ -1,85 +1,44 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY pref.viewing.messages.title "Visualització">
-<!ENTITY style.label "Estil:">
-<!ENTITY style.accesskey "s">
-<!ENTITY regular.label "Normal">
-<!ENTITY bold.label "Negreta">
-<!ENTITY italic.label "Cursiva">
-<!ENTITY boldItalic.label "Cursiva negreta">
-<!ENTITY size.label "Mida:">
-<!ENTITY size.accesskey "m">
-<!ENTITY bigger.label "Més gran">
-<!ENTITY smaller.label "Més petita">
-<!ENTITY color.label "Color:">
-<!ENTITY color.accesskey "c">
-<!ENTITY displayPlainText.caption           "Missatges en text net">
+<!ENTITY pref.viewing.messages.title      "Visualització">
+<!ENTITY style.label                      "Estil:">
+<!ENTITY style.accesskey                  "s">
+<!ENTITY regular.label                    "Normal">
+<!ENTITY bold.label                       "Negreta">
+<!ENTITY italic.label                     "Cursiva">
+<!ENTITY boldItalic.label                 "Cursiva negreta">
+<!ENTITY size.label                       "Mida:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY bigger.label                     "Més gran">
+<!ENTITY smaller.label                    "Més petita">
+<!ENTITY color.label                      "Color:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayPlainText.caption         "Missatges en text net">
 <!ENTITY fontPlainText.label              "Tipus de lletra:">
 <!ENTITY fontPlainText.accesskey          "l">
 <!ENTITY displayQuoted.label              "Paràmetres per als missatges citats:">
-
-<!ENTITY wrapInMsg.label "Ajusta el text a l'amplada de la finestra">
-<!ENTITY wrapInMsg.accesskey "n">
+<!ENTITY wrapInMsg.label                  "Ajusta el text a l'amplada de la finestra">
+<!ENTITY wrapInMsg.accesskey              "n">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Mostra les emoticones com a imatges">
-<!ENTITY convertEmoticons.accesskey "s">
-<!ENTITY generalMessageDisplay.caption      "General">
+<!ENTITY convertEmoticons.label           "Mostra les emoticones com a imatges">
+<!ENTITY convertEmoticons.accesskey       "s">
+<!ENTITY generalMessageDisplay.caption    "General">
 <!ENTITY autoMarkAsRead.label             "Marca automàticament com a llegit">
 <!ENTITY autoMarkAsRead.accesskey         "a">
-<!ENTITY markAsReadNoDelay.label          "Immediatament en mostrar-se">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "després de">
-<!ENTITY markAsReadDelay.accesskey        "p">
-
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Només després de mostrar-ho">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segons">
 
-<!ENTITY markAsReadNoDelay.accesskey      "m">
 <!ENTITY openingMessages.label            "En obrir els missatges, mostreu-los en:">
 <!ENTITY newWindowRadio.label             "Una nova finestra de missatge">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "En una finestra de missatge ja existent">
-<!ENTITY existingWindowRadio.accesskey    "e">
+<!ENTITY existingWindowRadio.accesskey    "E">
 <!ENTITY disableContent.label             "Bloca les imatges i altres continguts de fonts remotes">
 <!ENTITY disableContent.accesskey         "m">
 <!ENTITY showCondensedAddresses.label     "Mostra només el nom de la gent a la meva llibreta d'adreces">

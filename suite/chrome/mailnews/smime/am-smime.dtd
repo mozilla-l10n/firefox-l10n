@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securityTitle.label "Seguretat">
 <!ENTITY securityTab.label "Seguretat">
 <!ENTITY securityHeading.label "Per enviar i rebre missatges signats o xifrats, heu d'indicar tant un certificat de signatura digital com un certificat de xifratge.">
@@ -7,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar un missatge tret que tots els destinataris tinguin un certificat)">
 <!ENTITY alwaysEncryptMessage.accesskey "g">
-<!ENTITY encryptionCert.message "Utilitza aquest certificat per a xifrar i desxifrar missatges que us hagin enviat:">
+<!ENTITY encryptionCert.message "Utilitza aquest certificat per xifrar i desxifrar missatges que us hagin enviat:">
 <!ENTITY digitalSign.certificate.button "Seleccioneu...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">
@@ -19,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Signatura digital">
 <!ENTITY signMessage.label "Signa els missatges digitalment (per defecte)">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilitza aquest certificat per a signar digitalment els missatges que envieu:">
+<!ENTITY signingCert.message "Utilitza aquest certificat per signar digitalment els missatges que envieu:">
 
 <!ENTITY certificates.label "Certificats">
 <!ENTITY manageCerts.label "Gestiona els certificats…">
