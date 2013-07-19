@@ -28,13 +28,13 @@ bağlantısını yoxlayın.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Fayla tapılmadı">
-<!ENTITY fileNotFound.longDesc "<ul>
-<li>Hərf və digər yazı xətalarını yoxlayım.</li>
-<li>Fayl köçürülmüş,adı dəyişilmiş və ya silinmiş ola bilər.</li>
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> 
+<li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> 
 </ul>">
 
 
-<!ENTITY generic.title "İstək yerinə yetirilə bilmir">
+<!ENTITY generic.title "Uups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bu səhifəni yükləyə bilmir.</p>">
 
 <!ENTITY malformedURI.title "Yanlış ünvan">
@@ -57,13 +57,13 @@ bağlantısını yoxlayın.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Məzmun kodlama səhvi">
-<!ENTITY contentEncodingError.longDesc "<ul>
-<li>Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin</li>
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Zəhmət olmasa, Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Etibarsız fayl növü">
-<!ENTITY unsafeContentType.longDesc "<ul>
-<li>Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li> 
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Zəhmət olmasa, Sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Bağlantı kəsildi">
@@ -73,7 +73,7 @@ bağlantısını yoxlayın.</li>
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Baməlum əlaqə protokolu">
-<!ENTITY protocolNotFound.longDesc "<ul>
+<!ENTITY protocolNotFound.longDesc "<ul> 
 <li>Bu ünvanı açmaq üçün başqa proqram quraşdırmalısınız.</li> 
 </ul>">
 
@@ -85,11 +85,11 @@ olmasından əmin olun.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy-server tapılmadı">
-<!ENTITY proxyResolveFailure.longDesc "<ul>
-<li>Proxy-server seçimləri düzgün olduğuna əmin olun.</li> 
-<li>Komputerinizdə aktiv bir şəbəkə olduğuna əmin olun</li> 
-<li>Komputeriniz təhlükəsizlik divarı və ya proxu ilə qorunursa, &brandShortName; -a 
- icazələrin verildiyinə əmin olun</li> 
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Proxy-server seçimlərinin düzgün olduğuna əmin olun.</li> 
+<li>Kompüterinizin aktiv şəbəkə bağlantısı olduğuna əmin olun.</li> 
+<li>Kompüteriniz təhlükəsizlik divarı və ya proksi ilə qorunursa, &brandShortName; 
+üçün icazələrin verildiyinə əmin olun</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Yönlendirmə dövrəsi">
