@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Enkola">
 <!ENTITY downloadCert.viewCert.text "Kenenya Satifiketi ya CA">
 <!ENTITY downloadCert.viewPolicy.text "Kenenya enkola ne ebigoberera bya CA">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Satifiketi Weli">
-<!ENTITY caCertExists.message "Satifiketi obweda weli.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Ebikwata ku Mukozesa Bisabwa">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "However, your encryption private key will be stored by the certificate authority, and could be used to read your encrypted email or documents without your permission.">
 <!ENTITY examineCert.label "Laba Satifikati">
 <!ENTITY examineCert.accesskey "L">
-
-<!ENTITY serverCrlNextupdate.message "Kale saba akulira sisitimuyo kulwa buyabi">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kukolawo akasumulizo kekyama">

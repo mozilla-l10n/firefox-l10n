@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Buzanga Ebiseera Byoona">
 <!ENTITY permission.allow                "Kkiriza">
 <!ENTITY permission.allowForSession      "Kiriza olwe Kiseera">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+
 <!ENTITY permission.block                "Zziyiza">
 
 <!ENTITY password.label                  "Teereka Obusumuluzo">

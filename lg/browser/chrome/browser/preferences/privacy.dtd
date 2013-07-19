@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "Okugoberera">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
+<!ENTITY dntTrackingNopref.label2       "Togamba ekibanga ebkwata ku traking preferance yange">
+
+
+
+<!ENTITY dntTrackingOkay.label2         "Gamba emiko nti saggala kugobelererwa">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Manya Ebisingawo">
 
@@ -27,11 +27,10 @@
 <!ENTITY  acceptCookies.label           "Kkiriza kkuki kuva kubibanja">
 <!ENTITY  acceptCookies.accesskey       "v">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
+
+<!ENTITY  acceptThirdParty.always.label   "Bulikaseera">
 <!ENTITY  acceptThirdParty.never.label    "Tekibanga">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
 
 <!ENTITY  keepUntil.label               "Kuuma okutuusa:">
 <!ENTITY  keepUntil.accesskey           "t">

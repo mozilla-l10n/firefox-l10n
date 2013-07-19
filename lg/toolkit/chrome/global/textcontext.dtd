@@ -19,8 +19,8 @@
 <!ENTITY spellAddToDictionary.accesskey "u">
 <!ENTITY spellUndoAddToDictionary.label "Zayo Okwongera Mu Nkuluze">
 <!ENTITY spellUndoAddToDictionary.accesskey "a">
-<!ENTITY spellCheckToggle.label "Check Spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+
+
 <!ENTITY spellNoSuggestions.label "(Tewali Mpandiika Eteeseddwako)">
 <!ENTITY spellDictionaries.label "Ennimi">
 <!ENTITY spellDictionaries.accesskey "E">

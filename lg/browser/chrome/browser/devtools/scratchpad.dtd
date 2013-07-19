@@ -33,11 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "B">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
 
 <!ENTITY saveFileCmd.label            "Tereka">
 <!ENTITY saveFileCmd.accesskey        "T">
@@ -55,7 +53,7 @@
 
 <!ENTITY run.label                    "Dduka">
 <!ENTITY run.accesskey                "D">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "Lambula">
 <!ENTITY inspect.accesskey            "L">
@@ -95,8 +93,7 @@
 <!ENTITY helpMenuWin.label            "Obuyambi">
 <!ENTITY helpMenuWin.accesskey        "O">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
@@ -105,9 +102,8 @@
 <!ENTITY resetContext2.label          "Ebikyuka ebi zzayo">
 <!ENTITY resetContext2.accesskey      "o">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+
+
 
 <!ENTITY executeMenu.label            "Dduka">
 <!ENTITY executeMenu.accesskey        "d">
