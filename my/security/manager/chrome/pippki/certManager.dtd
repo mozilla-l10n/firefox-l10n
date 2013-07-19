@@ -39,9 +39,9 @@
 
 <!ENTITY certmgr.editcert.title               "လုံခြုံရေး လက်မှတ် အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
-
+<!ENTITY certmgr.editsslcert.title            "ဝတ်ဆိုဒ် အသိအမှတ်ပြုလုပ်မှတ် အပြင်အဆင်များအား ပြုပြင်မည်">
 <!ENTITY certmgr.editcert.edittrust           "စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -">
-
+<!ENTITY certmgr.editcert.trustssl            "ယခုအသိအမှတ်ပြုလက်မှတ်သည် ဝတ်ဆိုဒ်များကို အတည်ပြုနိုင်သှ်">
 <!ENTITY certmgr.editcert.trustemail          "ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။">
 <!ENTITY certmgr.editcert.trustobjsign        "ဒီလက်မှတ်က ကွန်ရက် စာမျက်နှာများကို ဖေါ်ထုတ်နိုင်တယ်။">
 <!ENTITY certmgr.editsslcert.edittrust        "လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
@@ -100,8 +100,8 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "လုံခြုံရေး ချွင်းချက် ထည့်သွင်းပါ">
-
-
+<!ENTITY exceptionMgr.exceptionButton.label   "(C)လုံခြုံရေးဆိုင်ရာ ခြွင်းချက်ကို အတည်ပြု">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "တရား၀င် ဘဏ်များ၊ စတိုးများနဲ့၊ အခြား လူထု ကွန်ရက်များက ဒီအရာကို ပြုလုပ်ဖို့ တောင်းဆိုမှာ မဟုတ်ဘူး။">
 <!ENTITY exceptionMgr.certlocation.caption2   "ဆာဗာ">
 <!ENTITY exceptionMgr.certlocation.url        "နေရာတစ်ခု - ">
