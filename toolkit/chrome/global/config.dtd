@@ -12,7 +12,7 @@
 <!ENTITY aboutWarningCheckbox.label "دفعهٔ بعدی هم این هشدار نمایش داده شود">
 
 
-
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "نام ترجیحات">
