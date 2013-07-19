@@ -1,104 +1,65 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
-<!ENTITY windowTitle.label "Publica la pàgina">
-<!ENTITY windowTitleSettings.label "Publica els paràmetres">
 
-<!ENTITY publishTab.label "Publica">
-<!ENTITY settingsTab.label "Paràmetres">
-
-<!ENTITY publishButton.label      "Publica">
-
+<!ENTITY windowTitle.label            "Publica la pàgina">
+<!ENTITY windowTitleSettings.label    "Publica els paràmetres">
+<!ENTITY publishTab.label             "Publica">
+<!ENTITY settingsTab.label            "Paràmetres">
+<!ENTITY publishButton.label          "Publica">
 <!-- Publish Tab Panel -->
-<!ENTITY siteList.label "Nom del lloc:">
+
+<!ENTITY siteList.label               "Nom del lloc:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip "Trieu el lloc on voleu publicar">
-<!ENTITY newSiteButton.label "Afegeix un lloc">
+<!ENTITY siteList.tooltip             "Trieu el lloc on voleu publicar">
+<!ENTITY newSiteButton.label          "Afegeix un lloc">
 <!ENTITY newSiteButton.accesskey      "n">
-<!ENTITY docDirList.label "Subdirectori de la pàgina web:">
+<!ENTITY docDirList.label             "Subdirectori de la pàgina web:">
 <!ENTITY docDirList.accesskey         "S">
 <!ENTITY docDirList.tooltip           "Trieu o introduïu el nom del subdirectori remot per a aquesta pàgina">
-<!ENTITY publishImgCheckbox.label "Inclou imatges i altres fitxers">
+<!ENTITY publishImgCheckbox.label     "Inclou imatges i altres fitxers">
 <!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY publishImgCheckbox.tooltip "Publica les imatges i altres fitxers a què aquesta pàgina fa referència">
-<!ENTITY sameLocationRadio.label "Utilitza la mateixa ubicació com a pàgina">
+<!ENTITY publishImgCheckbox.tooltip   "Publica les imatges i altres fitxers a què aquesta pàgina fa referència">
+<!ENTITY sameLocationRadio.label      "Utilitza la mateixa ubicació com a pàgina">
 <!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY sameLocationRadio.tooltip "Publica els fitxers a la mateixa ubicació que la pàgina">
-<!ENTITY useSubdirRadio.label "Utilitza aquest subdirectori del lloc:">
+<!ENTITY sameLocationRadio.tooltip    "Publica els fitxers a la mateixa ubicació que la pàgina">
+<!ENTITY useSubdirRadio.label         "Utilitza aquest subdirectori del lloc:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publica els fitxers al subdirectori remot seleccionat">
 <!ENTITY otherDirList.tooltip         "Trieu o introduïu el nom d'un subdirectori remot on es publicaran els fitxers">
-<!ENTITY pageTitle.label "Títol de la pàgina:">
+<!ENTITY pageTitle.label              "Títol de la pàgina:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip "Introduïu un títol per identificar la pàgina en la finestra i en les adreces d'interès">
-<!ENTITY pageTitleExample.label "P.ex.: &quot;El meu lloc web&quot;">
-<!ENTITY filename.label "Nom de fitxer:">
+<!ENTITY pageTitle.tooltip            "Introduïu un títol per identificar la pàgina en la finestra i en les adreces d'interès">
+<!ENTITY pageTitleExample.label       "P. ex.: &quot;El meu lloc web&quot;">
+<!ENTITY filename.label               "Nom de fitxer:">
 <!ENTITY filename.accesskey           "f">
-<!ENTITY filename.tooltip "Introduïu un nom per a aquest fitxer, incloent «.html» si es tracta d'una pàgina web">
-<!ENTITY filenameExample.label "p. ex.,: &quot;lamevapàgina.html&quot;">
-<!ENTITY setDefaultButton.label "Defineix com a predeterminat">
-<!ENTITY setDefaultButton.accesskey   "d">
-<!ENTITY removeButton.label "Suprimeix el lloc">
+<!ENTITY filename.tooltip             "Introduïu un nom per a aquest fitxer, incloent «.html» si es tracta d'una pàgina web">
+<!ENTITY filenameExample.label        "p. ex.,: &quot;lamevapàgina.html&quot;">
+<!ENTITY setDefaultButton.label       "Defineix com a predeterminat">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY removeButton.label           "Suprimeix el lloc">
 <!ENTITY removeButton.accesskey       "r">
-
 <!-- Settings Tab Panel -->
-<!ENTITY publishSites.label "Llocs de publicació">
-<!ENTITY serverInfo.label "Informació del servidor">
-<!ENTITY loginInfo.label "Informació de la sessió">
-<!ENTITY siteName.label "Nom del lloc:">
+
+<!ENTITY publishSites.label           "Llocs de publicació">
+<!ENTITY serverInfo.label             "Informació del servidor">
+<!ENTITY loginInfo.label              "Informació de la sessió">
+<!ENTITY siteName.label               "Nom del lloc:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip "Un sobrenom que identifica aquest lloc de publicació (per exemple, «ElMeuLloc»)">
-<!ENTITY siteUrl.label "Ubicació de publicació (facilitada pel vostre ISP o administrador del sistema):">
+<!ENTITY siteName.tooltip             "Un sobrenom que identifica aquest lloc de publicació (per exemple, «ElMeuLloc»)">
+<!ENTITY siteUrl.label                "Ubicació de publicació (facilitada pel vostre ISP o administrador del sistema):">
 <!ENTITY siteUrl.accesskey            "a">
-<!ENTITY siteUrl.tooltip "L'adreça ftp:// o http:// facilitada pel vostre ISP o servei d'hostatge web">
-<!ENTITY browseUrl.label "L'adreça http de la vostra pàgina d'inici (ex.: 'http://www.myisp.com/nomusuari'):">
-<!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip "L'adreça http:// de la vostra carpeta d'inici (no incloueu el nom de fitxer)">
-<!ENTITY username.label "Nom d'usuari:">
+<!ENTITY siteUrl.tooltip              "L'adreça ftp:// o http:// facilitada pel vostre ISP o servei d'hostatge web">
+<!ENTITY browseUrl.label              "L'adreça http de la vostra pàgina d'inici (ex.: 'http://www.myisp.com/nomusuari'):">
+<!ENTITY browseUrl.accesskey          "t">
+<!ENTITY browseUrl.tooltip            "L'adreça http:// de la vostra carpeta d'inici (no incloeu el nom de fitxer)">
+<!ENTITY username.label               "Nom d'usuari:">
 <!ENTITY username.accesskey           "u">
-<!ENTITY username.tooltip "El nom d'usuari que utilitzeu per registrar el vostre ISP o servei d'hostatge del lloc web">
-<!ENTITY password.label "Contrasenya:">
+<!ENTITY username.tooltip             "El nom d'usuari que utilitzeu per registrar el vostre ISP o servei d'hostatge del lloc web">
+<!ENTITY password.label               "Contrasenya:">
 <!ENTITY password.accesskey           "y">
-<!ENTITY password.tooltip "La contrasenya associada amb el vostre nom d'usuari">
-<!ENTITY savePassword.label "Desa la contrasenya">
+<!ENTITY password.tooltip             "La contrasenya associada amb el vostre nom d'usuari">
+<!ENTITY savePassword.label           "Desa la contrasenya">
 <!ENTITY savePassword.accesskey       "s">
-<!ENTITY savePassword.tooltip "Seleccioneu-ho per desar la vostra contrasenya de manera segura utilitzant el Gestor de contrasenyes">
+<!ENTITY savePassword.tooltip         "Seleccioneu-ho per desar la vostra contrasenya de manera segura utilitzant el Gestor de contrasenyes">

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsLimit.title   "YouSendIt">
+<!ENTITY fileExceedsLimit.thatsBigFile   "Enviar fitxers de més de 50 MB">
+<!ENTITY fileExceedsLimit.thatsBigFile2   "és una característica premium.">
+<!ENTITY fileExceedsLimit.accept "Actualitza">
+<!ENTITY fileExceedsLimit.cancel "Cancel·la">
+<!ENTITY fileExceedsLimit.style "width: 48em; min-height: 28em;">
+<!ENTITY fileExceedsLimit.proIncludes "Actualitzeu-vos ara per enviar aquest fitxer i a més:">
+<!ENTITY fileExceedsLimit.pros1 "Enviar fitxers i carpetes de fins a 2 GB">
+<!ENTITY fileExceedsLimit.pros2 "Emmagatzemar fitxers en línia sense límit">
+<!ENTITY fileExceedsLimit.pros3 "Accedeix i comparteix fitxers des de qualsevol lloc">

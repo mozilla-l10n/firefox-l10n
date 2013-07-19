@@ -1,6 +1,10 @@
-<!ENTITY offlineDialog.title       "Paràmetres de fora de línia">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY textStartUp   "En iniciar:">
+<!ENTITY offlineDialog.title "Paràmetres de fora de línia">
+
+<!ENTITY textStartUp "En iniciar:">
 <!ENTITY radioRememberPrevState.label "Recorda l'estat en línia anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
 <!ENTITY radioAskMe.label "Demana'm l'estat en línia a l'inici">
@@ -9,14 +13,13 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Voleu que s'enviïn els missatges per enviar en posar-se en línia?">
-
 <!ENTITY radioAutoSend.label "Sí">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "No">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Demana-m'ho">
 <!ENTITY radioAskUnsent.accesskey "D">
-<!ENTITY textGoingOffline "Voleu que es baixin els missatges per a llegir-los fora de línia abans de posar-s'hi?">
+<!ENTITY textGoingOffline "Voleu que es baixin els missatges per llegir-los fora de línia abans de posar-s'hi?">
 <!ENTITY radioAutoDownload.label "Sí">
 <!ENTITY radioAutoDownload.accesskey "í">
 <!ENTITY radioNotDownload.label "No">

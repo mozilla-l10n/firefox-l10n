@@ -1,19 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  pref.policies.title "Polítiques de seguretat">
 
-<!ENTITY zoneIntro.label "El &brandShortName; us permet crear normes que controlen l'accés que tenen determinats llocs web a diversos aspectes del seu funcionament, incloent seqüenciació i Java. ">
+<!ENTITY  zoneIntro.label     "El &brandShortName; us permet crear normes que controlen l'accés que tenen determinats llocs web a diverses funcions, com ara certs aspectes de l'execució de scripts i Java. ">
 
-<!ENTITY policies.label "Normes:">
-<!ENTITY default.label "Normes predeterminades">
-<!ENTITY allWebsites.label "Tots els llocs web">
-<!ENTITY trusted.label "Llocs fiables">
-<!ENTITY annoyances.label "Molèsties comunes">
-<!ENTITY restricted.label "Llocs restringits">
+<!ENTITY  policies.label      "Normes:">
+<!ENTITY  default.label       "Normes predeterminades">
+<!ENTITY  allWebsites.label   "Tots els llocs web">
+<!ENTITY  trusted.label       "Llocs fiables">
+<!ENTITY  annoyances.label    "Molèsties comunes">
+<!ENTITY  restricted.label    "Llocs restringits">
 
-<!ENTITY addSite.label "Afegeix un lloc...">
-<!ENTITY addSite.accesskey "a">
-<!ENTITY settings.label "Paràmetres per a ">
-<!ENTITY settings.accesskey "s">
+<!ENTITY  addSite.label       "Afegeix un lloc...">
+<!ENTITY  addSite.accesskey   "A">
+<!ENTITY  settings.label      "Paràmetres per a ">
+<!ENTITY  settings.accesskey  "s">
 
-<!ENTITY description.label "Descripció de les normes:">
- 
+<!ENTITY  description.label   "Descripció de les normes:">
+

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title        "Navegació privada">
+<!-- LOCALIZATION NOTE: The experimental title is temporary -->
+<!ENTITY privatebrowsingpage.experimental "Actualment, la &privatebrowsingpage.title; és una funció experimental.">
+<!ENTITY privatebrowsingpage.description  "En una finestra de &privatebrowsingpage.title;, el &brandShortName; no registrarà res a la memòria cau del disc, ni a l'historial de navegació, de galetes, de cerca, de baixades ni de formularis web. Per altra banda, sí que es conservaran els fitxers que baixeu i les adreces d'interès que deseu.">
+<!ENTITY privatebrowsingpage.moreinfo     "Encara que l'ordinador no tindrà cap registre del vostre historial de navegació, el vostre proveïdor d'Internet o el vostre patró sí que podrien conèixer les pàgines que visiteu.">
+<!ENTITY privatebrowsingpage.learnmore.label     "Més informació">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "M">
+<!ENTITY privatebrowsingpage.private      "El &brandShortName; no recordarà res de l'historial d'aquesta finestra. Tanqueu la finestra per aturar la &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.switch.label        "Canvia a una finestra normal">
+<!ENTITY privatebrowsingpage.switch.accesskey    "C">
+<!ENTITY privatebrowsingpage.normal       "Actualment no esteu utilitzant la &privatebrowsingpage.title;.">
+<!ENTITY privatebrowsingpage.private.label       "Obre una finestra privada nova">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
+<!ENTITY privatebrowsingpage.info         "To start &privatebrowsingpage.title;, you can also select File ― New ― Private Window.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimitza">
 <!ENTITY bringAllToFront.label    "Porta-ho tot a davant">
@@ -18,6 +22,9 @@
 <!ENTITY helpSafeMode.label       "Reinicia amb els complements inhabilitats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
+<!ENTITY healthReport.label       "&brandShortName; Health Report">
+<!ENTITY healthReport.accesskey   "e">
+
 <!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució d'errors">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
@@ -36,4 +43,3 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostra-ho tot">
-

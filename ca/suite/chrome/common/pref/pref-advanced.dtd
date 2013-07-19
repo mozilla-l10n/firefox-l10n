@@ -1,17 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title          "Avançat">
 
-<!ENTITY prefEnableJava.caption        "Característiques que ajuden a interpretar les pàgines web">
+<!ENTITY pref.advanced.title        "Avançat">
 
-<!ENTITY enbJavaCheck.label "Habilita el Java">
-<!ENTITY enbJavaCheck.accesskey "J">
-
-<!ENTITY systemPref.caption "Preferències del sistema">
-<!ENTITY systemPrefCheck.label "Utilitza les preferències des del sistema">
-<!ENTITY systemPrefCheck.accesskey "s">
-<!ENTITY systemPref.desc "Marqueu aquest opció per a què el &brandShortName; hereti les preferències del sistema. Els paràmetres del sistema substituiran les preferències del &brandShortName;.">
+<!ENTITY systemPref.caption         "Preferències del sistema">
+<!ENTITY systemPrefCheck.label      "Utilitza les preferències des del sistema">
+<!ENTITY systemPrefCheck.accesskey  "s">
+<!ENTITY systemPref.desc            "Marqueu aquest opció per a què el &brandShortName; hereti les preferències del sistema. Els paràmetres del sistema substituiran les preferències del &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption   "Integració al sistema">
 <!ENTITY prefCheckDefaultClient.label "Comproveu els paràmetres d'aplicació per defecte a l'inici">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 
+<!ENTITY crashReports.caption       "Informe de fallades">
+<!ENTITY submitCrashes.label        "Envia un informe de fallades">
+<!ENTITY submitCrashes.accesskey    "E">

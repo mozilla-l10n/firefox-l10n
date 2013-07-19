@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-server-top.xul -->
 
+
+<!ENTITY messageStorage.label "Missatge d'emmagatzematge">
 <!ENTITY securitySettings.label "Paràmetres de seguretat">
 <!ENTITY serverSettings.label "Paràmetres del servidor">
 <!ENTITY serverType.label "Tipus de servidor:">
@@ -46,33 +51,36 @@
 <!ENTITY modelDeleteImmediately.label "Suprimeix-lo immediatament">
 <!ENTITY modelDeleteImmediately.accesskey "S">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d'entrada en sortir">
+<!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d&apos;entrada en sortir">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Buida la paperera en sortir">
 <!ENTITY emptyTrashOnExit.accesskey "B">
 <!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha correu nou">
 <!ENTITY loginAtStartup.accesskey "c">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Demana-m'ho abans de baixar més de">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "missatges">
-<!ENTITY alwaysAuthenticate.label "Soŀlicita sempre autenticació en connectar amb aquest servidor">
+<!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Fitxer newsrc:">
-<!ENTITY localPath.label "Directori local:">
+<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
 <!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
-<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
+<!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "N">
-<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
 <!ENTITY browseNewsrc.label "Navega…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Opcions del compte">
+<!ENTITY accountSettingsDesc.label "Aquest és un compte especial. No està associat a cap identitat.">

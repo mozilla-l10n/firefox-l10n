@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY startup.label             "Inici">
 
 <!ENTITY startupPage.label         "Quan s'iniciï el &brandShortName;:">
@@ -5,13 +9,14 @@
 <!ENTITY startupHomePage.label     "Mostra la meva pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupLastSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
+
 <!ENTITY homepage.label            "Pàgina d'inici:">
 <!ENTITY homepage.accesskey        "i">
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">
-<!ENTITY useBookmark.label         "Utilitza una adreça d'interès">
-<!ENTITY useBookmark.accesskey     "d">
+<!ENTITY chooseBookmark.label      "Utilitza una adreça d'interès…">
+<!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Restaura les pàgines per defecte">
 <!ENTITY restoreDefault.accesskey  "R">
 
@@ -29,10 +34,3 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Demana'm sempre on desar els fitxers">
 <!ENTITY alwaysAsk.accesskey "a">
-
-<!ENTITY addonsMgr.label            "Complements">
-<!ENTITY manageAddonsDescWin.label     "Canvia les opcions dels vostres complements">
-<!ENTITY manageAddonsDescUnix2.label "Canvia les preferències dels vostres complements">
-<!ENTITY manageAddons.label         "Gestiona els complements…">
-<!ENTITY manageAddons.accesskey     "G">
-

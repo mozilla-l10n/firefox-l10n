@@ -1,56 +1,27 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Bob Lord <lord@netscape.com>
-   -   Terry Hayes <thayes@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  SSLProtocolVersions.caption       "Versions del protocol SSL">
 <!ENTITY  SSLWarnings.caption               "Avisos SSL">
+<!ENTITY  SSLMixedContent.caption           "Continguts mixtos">
 <!ENTITY  SSLClientAuthMethod.caption       "Selecció de certificats de client">
 
 <!ENTITY pref.ssl.title                     "Capa de sòcols segurs (SSL)">
-<!ENTITY enable.ssl3                        "Habilita la versió 3 de l'SSL">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "Habilita el TLS">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY limit.description                  "Podeu restringir els protocols que s'utilitzaran en les connexions segures. Seleccioneu una única versió o un interval continu de versions.">
+<!ENTITY limit.enable.label                 "Habilita:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "El &brandShortName; pot avisar-vos de l'estat de seguretat de la pàgina web que estigueu visitant. Pot fer-se que el &brandShortName; mostri un avís i demani permís abans de:">
 <!ENTITY warn.enteringsecure                "Carregar una pàgina xifrada">
 <!ENTITY warn.enteringsecure.accesskey      "C">
-<!ENTITY warn.enteringweak                  "Carregar una pàgina d'un xifratge feble">
-<!ENTITY warn.enteringweak.accesskey        "b">
 <!ENTITY warn.insecurepost                  "Enviar dades de formulari d'una pàgina sense xifrar a una altra que tampoc ho estigui">
 <!ENTITY warn.insecurepost.accesskey        "s">
 <!ENTITY warn.leavingsecure                 "Abandonar una pàgina amb xifratge">
@@ -58,7 +29,16 @@
 <!ENTITY warn.viewmixed                     "Visualitzar una pàgina que conté tant contingut xifrat com sense xifrar">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per a presentar als llocs web que en requereixin:">
+<!ENTITY warn.mixedactivecontent            "Avisa'm quan pàgines encriptades tinguin continguts insegurs">
+<!ENTITY warn.mixedactivecontent.accesskey  "A">
+<!ENTITY block.activecontent                "No carreguis continguts insegurs en pàgines encriptades">
+<!ENTITY block.activecontent.accesskey      "N">
+<!ENTITY warn.mixeddisplaycontent           "Avisa'm quan pàgines encriptades tinguin altres tipus de continguts mixtos">
+<!ENTITY warn.mixeddisplaycontent.accesskey "c">
+<!ENTITY block.displaycontent               "No carreguis altres tipus de continguts mixtos en pàgines encriptades">
+<!ENTITY block.displaycontent.accesskey     "m">
+
+<!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per presentar als llocs web que en requereixin:">
 <!ENTITY certselect.auto                    "Seleccioneu-ho automàticament">
 <!ENTITY certselect.auto.accesskey          "a">
 <!ENTITY certselect.ask                     "Demana-m'ho cada vegada">

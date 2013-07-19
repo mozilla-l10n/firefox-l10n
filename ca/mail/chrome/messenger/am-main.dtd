@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Paràmetres del compte">
 <!ENTITY accountName.label "Nom del compte:">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Adreça de resposta:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Els destinataris enviaran la resposta a aquesta altra adreça electrònica">
 <!ENTITY organization.label "Organització:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Text de la signatura:">
@@ -18,7 +23,7 @@
 <!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML, o imatges):">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Edita…">
 <!ENTITY choose.label "Trieu…">
 <!ENTITY choose.accesskey "T">
@@ -30,8 +35,8 @@
 
 <!ENTITY manageIdentities.label "Gestiona les identitats…">
 <!ENTITY manageIdentities.accesskey "G">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Servidor de sortida (SMTP):">
 <!ENTITY smtpName.accesskey "i">
-<!ENTITY smtpDefaultServer.label "Utilitzeu el servidor per defecte">
+<!ENTITY smtpDefaultServer.label "Utilitza el servidor per defecte">

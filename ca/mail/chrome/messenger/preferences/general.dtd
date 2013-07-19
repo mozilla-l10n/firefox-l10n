@@ -1,21 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "Pàgina d'inici del &brandShortName;">
 <!ENTITY enableStartPage.label            "Quan s'executi el &brandShortName;, mostra la pàgina d'inici a l'àrea de missatges">
 <!ENTITY enableStartPage.accesskey        "Q">
 <!ENTITY location.label                   "Ubicació:">
-<!ENTITY location1.accesskey              "U">
+<!ENTITY location1.accesskey               "U">
 <!ENTITY useDefault.label                 "Restaura el valor per defecte">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Anima la icona d'amarratge">
+<!ENTITY bounceSystemDockIcon.label       "Anima la icona de l'acoblador">
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "Quan arribin nous missatges:">
 <!ENTITY playSound.label                  "Reprodueix un so">
-<!ENTITY playSound1.accesskey             "p">
+<!ENTITY playSound1.accesskey              "p">
 <!ENTITY showAnimatedAlert.label          "Mostra una alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
 <!ENTITY customizeMailAlert.label         "Personalitza…">
 <!ENTITY customizeMailAlert.accesskey     "a">
+
+<!ENTITY showTrayIcon.label               "Mostra una icona de safata">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Reprodueix">
 <!ENTITY play.accesskey                   "d">
@@ -27,10 +34,3 @@
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Navega…">
 <!ENTITY browse.accesskey                 "N">
-
-<!ENTITY addonsMgr.label                  "Complements">
-<!ENTITY manageAddonsDescWin.label        "Canvia les opcions dels vostres complements">
-<!ENTITY manageAddonsDescUnix2.label      "Canvia les preferències dels vostres complements">
-<!ENTITY manageAddons.label               "Gestiona els complements…">
-<!ENTITY manageAddons.accesskey           "G">
-

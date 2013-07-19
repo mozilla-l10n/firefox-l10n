@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   
+<!ENTITY prefSpelling.title                   "Ortografia">
+<!ENTITY generalSpelling.label                "General">
+<!ENTITY checkSpellingWhenTyping.label        "Comprova l'ortografia mentre escric:">
+<!ENTITY checkSpellingWhenTyping.accesskey    "C">
+<!ENTITY dontCheckSpelling.label              "Mai">
+<!ENTITY multilineCheckSpelling.label         "En els camps de text multilínia">
+<!ENTITY alwaysCheckSpelling.label            "En tots els camps">
+<!ENTITY spellForMailAndNews.label            "Correu i grups de discussió">
+<!ENTITY checkSpellingBeforeSend.label        "Comprova l'ortografia abans d'enviar">
+<!ENTITY checkSpellingBeforeSend.accesskey    "C">
+<!ENTITY spellCheckInline.label               "Comprova l'ortografia mentre escrius">
+<!ENTITY spellCheckInline.accesskey           "e">
+<!ENTITY languagePopup.label                  "Idioma:">
+<!ENTITY languagePopup.accessKey              "I">
+<!ENTITY moreDictionaries.label               "Baixa més diccionaris&#x2026;">
+<!ENTITY noSpellCheckAvailable.label          "No hi ha diccionaris disponibles.">

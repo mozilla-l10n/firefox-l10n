@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Paràmetres de còpia i carpetes">
 <!ENTITY sendingPrefix.label "En enviar missatges, automàticament:">
@@ -7,18 +11,18 @@
 <!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc aquestes adreces de correu:">
+<!ENTITY ccAddress.label "Cc a aquestes adreces electròniques:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separeu les adreces amb comes">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Cco aquestes adreces de correu:">
+<!ENTITY bccAddress.label "Cco a aquestes adreces electròniques:">
 <!ENTITY bccAddress.accesskey "o">
 <!ENTITY bccAddressList.placeholder "Separeu les adreces amb comes">
 <!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Carpeta &quot;Enviat&quot;:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "E">
 <!ENTITY sentInOtherFolder.label "Altres:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
@@ -28,7 +32,7 @@
 <!ENTITY archiveHierarchyButton.label "Opcions de l'arxiu…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
 <!ENTITY archivesFolderOn.label "Carpeta &quot;Arxiu&quot; a:">
-<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Altres:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Esborranys i plantilles">
@@ -44,4 +48,3 @@
 <!ENTITY templatesFolderOn.accesskey "P">
 <!ENTITY templateInOtherFolder.label "Altres:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-

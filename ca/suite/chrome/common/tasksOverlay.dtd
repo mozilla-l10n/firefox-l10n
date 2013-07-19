@@ -1,28 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from tasksOverlay.xul -->
-<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
+
 <!ENTITY navigatorCmd.label "Navegador">
-<!ENTITY navigatorCmd.accesskey "n">
+<!ENTITY navigatorCmd.accesskey "v">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label "Redactor">
-<!ENTITY editorCmd.accesskey "c">
-<!ENTITY editorCmd.commandkey "4">
+<!ENTITY editorCmd.label     "Composer">
+<!ENTITY editorCmd.accesskey    "c">
+<!ENTITY editorCmd.commandkey    "4">
 
-<!ENTITY errorConsoleCmd.label "Consola d'errors">
-<!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.label                                  "Consola d'errors">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey    "j">
 
-<!ENTITY taskNavigator.tooltip "Navegador">
-<!ENTITY taskComposer.tooltip "Redactor">
+<!ENTITY taskNavigator.tooltip  "Navegador">
+<!ENTITY taskComposer.tooltip  "Redactor">
 
 <!ENTITY webDevelopment.label "Desenvolupament web">
-<!ENTITY webDevelopment.accesskey "W">
+<!ENTITY webDevelopment.accesskey "w">
 
 <!ENTITY windowMenu.label "Finestra">
-<!ENTITY windowMenu.accesskey "N">
+<!ENTITY windowMenu.accesskey "n">
 
 <!ENTITY tasksMenu.label "Eines">
-<!ENTITY tasksMenu.accesskey "n">
+<!ENTITY tasksMenu.accesskey "n"> 
 
 <!ENTITY datamanCmd.label "Gestor de dades">
 <!ENTITY datamanCmd.accesskey "G">
