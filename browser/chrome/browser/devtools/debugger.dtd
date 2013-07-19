@@ -69,7 +69,7 @@
   -  in the source editor's context menu for the function search operation. -->
 
 <!ENTITY debuggerUI.searchFunction      "Search for function definition">
-
+<!ENTITY debuggerUI.searchFunction.key  "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
