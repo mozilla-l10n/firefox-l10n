@@ -208,7 +208,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Բեռնում...">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Հնարավոր չեղավ բացել թողարկման նշումները։">
 
-<!ENTITY addon.createdBy.label                " ՝">
+<!ENTITY addon.createdBy.label                "Ըստ՝">
 
 <!ENTITY eula.title                           "Վերջին օգտագործողի լիցենզիոն համաձայնագիր">
 <!ENTITY eula.width                           "560px">

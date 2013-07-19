@@ -44,7 +44,7 @@
 
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
-<!ENTITY enableTelemetry.label           "Միացնել Telemetry">
+<!ENTITY enableTelemetry.label           "Միացնել Telemetry-ին">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Մանրամասն">
 

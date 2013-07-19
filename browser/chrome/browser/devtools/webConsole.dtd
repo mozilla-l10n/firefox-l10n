@@ -8,11 +8,11 @@
   - documentation on web development on the web. -->
 
 
-<!ENTITY window.title "Վեբ կոնսոլ">
-<!ENTITY browserConsole.title "Զննարկիչի (դիտարկիչի) վահանակ">
+<!ENTITY window.title "Վեբ Կառավարակետ">
+<!ENTITY browserConsole.title "Դիտարկիչի Կառավարակետ">
 
 <!ENTITY networkPanel.requestURLColon             "Հարցվող URL-ն.">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
+<!ENTITY networkPanel.requestMethodColon          "Հարցման եղանակը.">
 <!ENTITY networkPanel.statusCodeColon             "Կարգավիճակի Կոդը.">
 
 <!ENTITY networkPanel.requestHeaders              "Հարցման էջագլուխ">
@@ -31,8 +31,8 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     "Գրառել և պահպանել հարցումը և պատասխանը">
+<!ENTITY saveBodies.accesskey "Գ">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "Log CSS parsing errors">
+<!ENTITY btnPageCSS.tooltip "Գրառել CSS վերլուծության սխալները">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "գրառել JavaScript բացառությունները">
@@ -67,7 +67,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "Արձանագրում">
-<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
+<!ENTITY btnPageLogging.tooltip "Գրառել հաղորդագրությունները՝ ուղարկված window.console օբյեկտին">
 <!ENTITY btnPageLogging.accesskey "Ա">
 <!ENTITY btnConsoleErrors       "Սխալմունքներ">
 <!ENTITY btnConsoleInfo         "Տեղեկություն">
@@ -76,16 +76,16 @@
 
 <!ENTITY filterOutput.placeholder "Զտել արտածումը">
 <!ENTITY btnClear.label        "Մաքրել">
-<!ENTITY btnClear.tooltip      "Clear the Web Console output">
+<!ENTITY btnClear.tooltip      "Մաքրել Վեբ Կառավարակետի արտածումը">
 <!ENTITY btnClear.accesskey    "լ">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "0">
