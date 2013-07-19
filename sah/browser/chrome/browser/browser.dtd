@@ -20,6 +20,11 @@
 <!ENTITY  reloadTab.accesskey                "К">
 <!ENTITY  reloadAllTabs.label                "Бары кыбытыктары саҥарт">
 <!ENTITY  reloadAllTabs.accesskey            "к">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Уҥа кыбытыктары сап">
+<!ENTITY  closeTabsToTheEnd.accesskey        "а">
 <!ENTITY  closeOtherTabs.label               "Атын кыбытыктары сап">
 <!ENTITY  closeOtherTabs.accesskey           "к">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -214,11 +219,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Алҕастар консоллара">
 <!ENTITY errorConsoleCmd.accesskey    "к">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Тэйиччи ситим-консоль">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+
+
 
 <!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -241,6 +246,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "J">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "Браузеры көннөрөөччү">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
 <!ENTITY devToolbarMenu.label              "Сайыннарыы хаптала">
@@ -672,3 +681,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "Ситим-сирдэр үксүлэрэ маны да араарбыт иһин сөпкө үлэлиэхтэрэ.">
 
 <!ENTITY pointerLock.notification.message "Хаһан баҕарар ESC баттаан маны хат көрүөххэ сөп.">
+
+<!ENTITY pluginNotification.showAll.label "Барытын көрдөр">
+<!ENTITY pluginNotification.showAll.accesskey "Б">
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+<!ENTITY pluginActivateNow.label "Билигин көҥүллээ">
+<!ENTITY pluginActivateAlways.label "Көҥүллээ уонна өйдөөн кэбис">
+

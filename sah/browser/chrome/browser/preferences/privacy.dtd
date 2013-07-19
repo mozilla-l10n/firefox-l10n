@@ -4,12 +4,11 @@
 
 <!ENTITY tracking.label                 "Манааһын">
 
-<!ENTITY dntTrackingNopref.label        "Мин кэтиир туруорууларым туһунан ситим-сирдэргэ биллэримэ.">
-<!ENTITY dntTrackingNopref.accesskey    "т">
-<!ENTITY dntTrackingNotOkay.label       "Миигин сонордуулларын баҕарбатым туһунан ситим-сирдэргэ этэргэ.">
-<!ENTITY dntTrackingNotOkay.accesskey   "э">
-<!ENTITY dntTrackingOkay.label          "Миигин сонордуулларын утарбатым туһунан ситим-сирдэргэ этэргэ.">
-<!ENTITY dntTrackingOkay.accesskey      "э">
+
+
+
+
+
 <!ENTITY doNotTrackInfo.label           "Сиһилии">
 
 <!ENTITY  history.label                 "Сурунаал">
@@ -29,9 +28,9 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Туора ситим-сирдэртэн куукаларын ыларга:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "л">
-<!ENTITY  acceptThirdParty.always.label   "Always">
+
 <!ENTITY  acceptThirdParty.never.label    "Аны хаһан да">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
 
 <!ENTITY  keepUntil.label               "Куукаларын харай:">
 <!ENTITY  keepUntil.accesskey           "К">

@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Саҥардыылар">
 
 <!ENTITY updateApp.label                 "&brandShortName; саҥардыылара:">
-<!ENTITY updateAuto.label                "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
-<!ENTITY updateAuto.accesskey            "т">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
+<!ENTITY updateAuto1.accesskey           "т">
+
+
 <!ENTITY updateCheck.label               "Саҥардыылар баалларын көрөр буол, ол гынан баран туруорары миигиттэн ыйыт">
 <!ENTITY updateCheck.accesskey           "ҥ">
 <!ENTITY updateManual.label              "Саҥардыылар баалларын көрбөт буол (сүбэ: бу кутталы улаатыннарар)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Ханнык эмит эбиискэлэр араҕыстахтарына биллэрээр">
 <!ENTITY updateAutoAddonWarn.accesskey   "к">
+
 
 <!ENTITY updateHistory.label             "Саҥардыы сурунаалын көрдөр">
 <!ENTITY updateHistory.accesskey         "р">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Сэртипикээттэрин көрүү">
 <!ENTITY viewCerts.accesskey             "С">
-<!ENTITY viewCRLs.label                  "CRL салайыы">
-<!ENTITY viewCRLs.accesskey              "C">
 <!ENTITY verify2.label                   "Бигэргэтии">
 <!ENTITY verify2.accesskey               "Б">
 <!ENTITY viewSecurityDevices.label       "Көмүскэл тэриллэрэ">

@@ -10,76 +10,71 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Source of: ">
+
 
 <!ENTITY fileMenu.label "Билэ">
 <!ENTITY fileMenu.accesskey "Б">
 <!ENTITY savePageCmd.label "Маннык бигэргэт...">
 <!ENTITY savePageCmd.accesskey "б">
-<!ENTITY savePageCmd.commandkey "S">
+
 <!ENTITY pageSetupCmd.label "Сирэй туруоруулара...">
 <!ENTITY pageSetupCmd.accesskey "т">
 <!ENTITY printPreviewCmd.label "Эрдэ көрүү">
 <!ENTITY printPreviewCmd.accesskey "к">
 <!ENTITY printCmd.label "Бэчээт…">
 <!ENTITY printCmd.accesskey "Б">
-<!ENTITY printCmd.commandkey "P">
+
 <!ENTITY closeCmd.label "Сап">
 <!ENTITY closeCmd.accesskey "С">
-<!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!ENTITY textEnlarge.commandkey "+">
-<!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
-<!ENTITY textReduce.commandkey "-">
+
 <!ENTITY textReduce.commandkey2 "">
-<!ENTITY textReset.commandkey "0">
+
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Go to Line…">
-<!ENTITY goToLineCmd.accesskey "G">
-<!ENTITY goToLineCmd.commandkey "l">
+
+
 
 <!ENTITY viewMenu.label           "Көстүү">
 <!ENTITY viewMenu.accesskey       "К">
 <!ENTITY reloadCmd.label "Саҥарт">
 <!ENTITY reloadCmd.accesskey "С">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
-<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
-<!ENTITY menu_highlightSyntax.accesskey "H">
+
+
+
+
+
 <!ENTITY menu_textSize.label "Тиэкис кээмэйэ">
 <!ENTITY menu_textSize.accesskey "э">
-<!ENTITY menu_textEnlarge.label "Increase">
-<!ENTITY menu_textEnlarge.accesskey "I">
-<!ENTITY menu_textReduce.label "Decrease">
-<!ENTITY menu_textReduce.accesskey "D">
-<!ENTITY menu_textReset.label "Normal">
-<!ENTITY menu_textReset.accesskey "N">
+
+
+
+
+
+
 
 <!ENTITY findOnCmd.label     "Бу сирэйгэ бул…">
 <!ENTITY findOnCmd.accesskey "б">
-<!ENTITY findOnCmd.commandkey "f">
+
 <!ENTITY findAgainCmd.label  "Хат көрдөө">
 <!ENTITY findAgainCmd.accesskey "к">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "Төнүн">
 <!ENTITY backCmd.accesskey "Т">
 <!ENTITY forwardCmd.label "Инники">
 <!ENTITY forwardCmd.accesskey "И">
-<!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey "L">
+
+
+
 <!ENTITY copyEmailCmd.label "Email-ы төгүллээ">
 <!ENTITY copyEmailCmd.accesskey "E">

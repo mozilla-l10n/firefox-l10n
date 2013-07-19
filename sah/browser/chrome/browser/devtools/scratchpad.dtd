@@ -27,43 +27,39 @@
 
 <!ENTITY newWindowCmd.label           "Саҥа түннүк">
 <!ENTITY newWindowCmd.accesskey       "С">
-<!ENTITY newWindowCmd.commandkey      "n">
+
 
 <!ENTITY openFileCmd.label            "Билэни арый…">
 <!ENTITY openFileCmd.accesskey        "Б">
-<!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
+
 
 <!ENTITY saveFileCmd.label            "Бигэргэт">
 <!ENTITY saveFileCmd.accesskey        "Б">
-<!ENTITY saveFileCmd.commandkey       "s">
+
 
 <!ENTITY saveFileAsCmd.label          "Маннык бигэргэт…">
 <!ENTITY saveFileAsCmd.accesskey      "б">
 
 <!ENTITY closeCmd.label               "Сап">
-<!ENTITY closeCmd.key                 "W">
+
 <!ENTITY closeCmd.accesskey           "С">
 
 <!ENTITY editMenu.label               "Көннөрүү">
 <!ENTITY editMenu.accesskey           "р">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
+
+
 
 <!ENTITY inspect.label                "Чинчий">
 <!ENTITY inspect.accesskey            "Ч">
-<!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
-<!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "l">
+
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -71,8 +67,6 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "Иһинээҕитэ">
@@ -92,28 +86,20 @@
 
 <!ENTITY helpMenu.label               "Көмө">
 <!ENTITY helpMenu.accesskey           "К">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+
+
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-
-<!ENTITY errorConsoleCmd.commandkey   "j">

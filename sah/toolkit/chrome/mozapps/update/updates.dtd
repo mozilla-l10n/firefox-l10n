@@ -19,6 +19,9 @@
 <!ENTITY  manualUpdate.space.desc         "Куттал суох буолуутун хааччыйар саҥардыы баар буолбут, ол гынан баран диискэ туолан хаалан турар сирэ суох.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; тиһэх барылын куруук мантан хачайданыаххын сөп:">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "Эбиискэ сөп түбэһиитин тургутуу">
 <!ENTITY  incompatibleCheck.label         "Эбиискэлэриҥ саҥа барылларын көрдөөһүн...">
 
