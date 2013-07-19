@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
-<!ENTITY debuggerUI.searchVariable      "Փոփոխելիների ֆիլտր">
+<!ENTITY debuggerUI.searchVariable      "Փոփոխելիների զտում">
 <!ENTITY debuggerUI.searchVariable.key  "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->

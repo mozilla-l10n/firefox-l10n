@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Մուտքագրեք geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Երկու անգամ սեղմեք geo.enabled նախընտրանքի վրա">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Դիտարկման տեղադրության հայտնաբերումը անջատված է">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "Այս ծրագրում ընդգրկված վեբ կայքի ծառայությունների ընդհանուն նկարագիրը, եթե առկա է, անջատելու կանոների հետ պետք է բերված լինի այստեղ:">

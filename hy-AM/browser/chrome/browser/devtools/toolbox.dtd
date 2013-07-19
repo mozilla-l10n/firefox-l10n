@@ -7,7 +7,7 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip    "Փակել Ծրագրավորողի գործիքները">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -32,7 +32,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label3    "Միացնել  chrome-ի կարգավորումը">
-<!ENTITY options.enableChrome.tooltip   "Այս ընտրանքի միացումը հնարավորություն կտա զննարկիչի համատեքստում ոգտագործել ծրագրավորողի զանազան գործիքներ">
+<!ENTITY options.enableChrome.tooltip   "Այս ընտրանքի միացումը հնարավորություն կտա դիտարկիչի համատեքստում օգտագործել ծրագրավորողի զանազան գործիքներ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -49,13 +49,13 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Firefox-ի Ծրագրավորողի Գործիքները ըստ սկզբնական վիճակի">
+<!ENTITY options.selectDefaultTools.label     "Firefox-ի հիմնական Ծրագրավորողի Գործիքները">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Տեղակայված Ծրագրակորողի Գործիքները (Developer Tools) ըստ հավելումների">
+<!ENTITY options.selectAdditionalTools.label  "Տեղակայված Ծրագրավորողի Գործիքները ըստ հավելումների">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -71,11 +71,11 @@
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
-<!ENTITY options.webconsole.label            "Վեբ կոնսոլ">
+<!ENTITY options.webconsole.label            "Վեբ Կառավարակետ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console,
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
 <!ENTITY options.enablePersistentLogging.label    "Միացնել մշտական գրառումները">
-
+<!ENTITY options.enablePersistentLogging.tooltip  "Եթե միացնեք այս ընտրանքը, ապա Վեբ Կառավարակետը չի մաքրի արտածումը ամեն անգամ նոր էջում ուղղորդվելիս">
