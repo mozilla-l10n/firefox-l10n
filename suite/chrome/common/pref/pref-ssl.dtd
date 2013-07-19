@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "El &brandShortName; pot avisar-vos de l'estat de seguretat de la pàgina web que estigueu visitant. Pot fer-se que el &brandShortName; mostri un avís i demani permís abans de:">
 <!ENTITY warn.enteringsecure                "Carregar una pàgina xifrada">

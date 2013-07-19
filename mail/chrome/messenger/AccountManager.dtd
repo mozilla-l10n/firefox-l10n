@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Afegeix un compte de xat…">
 <!ENTITY addIMAccountButton.accesskey "x">
+<!ENTITY addFeedAccountButton.label "Add Feed Account…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Afegeix un altre tipus de compte…">
 <!ENTITY addOtherAccountButton.accesskey "t">
 <!ENTITY setDefaultButton.label "Defineix com a predeterminat">
