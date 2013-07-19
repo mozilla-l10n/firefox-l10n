@@ -100,6 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Ingatkan saya jika ini boleh melumpuhkan sebarang addon saya">
 <!ENTITY updateAutoAddonWarn.accesskey   "I">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 gaya &brandShortName; tidak memeriksa keserasian add-on)">
 
 <!ENTITY updateHistory.label             "Pamer Latar Kemaskini">
 <!ENTITY updateHistory.accesskey         "a">
