@@ -109,14 +109,14 @@
 
 <!ENTITY pref_char_encoding "Teckenkodning">
 <!ENTITY pref_char_encoding_on "Visa meny">
-<!ENTITY pref_char_encoding_off "Visa ingen meny">
+<!ENTITY pref_char_encoding_off "Visa inte meny">
 <!ENTITY pref_clear_private_data "Rensa känslig data">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverade">
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_reflow_on_zoom3 "Dubbeltryck för att omarbeta text">
+<!ENTITY pref_reflow_on_zoom3 "Omforma text vid dubbeltryck">
 <!ENTITY pref_restore_session "Återställ alltid flikar">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
@@ -133,7 +133,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompomissa. Det blir bättre för dig och för webben.">
+<!ENTITY pref_font_size_preview_text "Hoppande eldrävar söka överraska med högre fart, mer flexibilitet och mer säkerhet. Som icke-vinstdrivande kan vi utveckla för din skull utan någon press att kompromissa. Det blir bättre för dig och för webben.">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
 <!ENTITY pref_show_product_announcements "Visa produktmeddelanden">
@@ -171,8 +171,8 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Delar data med &vendorShortName; om webbläsarens status, samt hjälper dig att förstå webbläsarens prestanda">
 <!ENTITY datareporting_abouthr_title "Visa hälsorapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
-<!ENTITY datareporting_telemetry_summary "Delar webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra webbläsaren stabilare och säkrare">
+<!ENTITY datareporting_telemetry_summary "Dela webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; kan skicka in kraschrapporter för att hjälpa &vendorShortName; att göra webbläsaren stabilare och säkrare">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
