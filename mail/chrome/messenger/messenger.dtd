@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "r">
-<!ENTITY getMsgButton.label "Recibir">
+<!ENTITY getMsgButton1.label "Recibir mensajes">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a todos">
