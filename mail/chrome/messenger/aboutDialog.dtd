@@ -30,3 +30,6 @@
 <!ENTITY channel.description.end ". ">
 <!ENTITY cmdCloseMac.commandKey "w">
 <!ENTITY update.applying "Aplicando anovamientu…">
+<!ENTITY update.unsupported.start "Nun pues facer más anovamientos nesti sistema.">
+<!ENTITY update.unsupported.linkText "Deprender más">
+<!ENTITY update.unsupported.end "">
