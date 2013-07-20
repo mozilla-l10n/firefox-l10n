@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey          "S">
 <!ENTITY mediaUnmute.label            "Laut schalten">
 <!ENTITY mediaUnmute.accesskey        "L">
+<!ENTITY mediaPlaybackRate.label        "Abspielgeschwindigkeit">
+<!ENTITY mediaPlaybackRate.accesskey    "b">
+<!ENTITY mediaPlaybackRate050.label     "Langsam (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "L">
+<!ENTITY mediaPlaybackRate100.label     "Normalgeschwindigkeit">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Schnell (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "S">
+<!ENTITY mediaPlaybackRate200.label     "Doppelte Geschwindigkeit">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label      "Medien-Steuerelemente anzeigen">
 <!ENTITY mediaShowControls.accesskey  "M">
 <!ENTITY mediaHideControls.label      "Medien-Steuerelemente verstecken">
