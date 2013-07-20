@@ -8,15 +8,15 @@
 
 
 <!ENTITY title      "Байланысу">
-
+<!ENTITY header     "Қашықтағы құрылғыға байланысу">
 <!ENTITY host       "Торап:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Байланыс орнату">
 <!ENTITY connecting "Байланысу...">
-
-
+<!ENTITY availableTabs "Қолжетерлік қашықтағы беттер:">
+<!ENTITY availableProcesses "Қолжетерлік қашықтағы үрдістер:">
 <!ENTITY connectionError "Қате:">
 <!ENTITY errorTimeout "Қате: қосылымының үзілісі.">
 <!ENTITY errorRefused "Қате: қосылым болмады.">
 <!ENTITY errorUnexpected "Күтпеген қате.">
-
+<!ENTITY help "Firefox өндіруші саймандары қашықтағы құрылғыларды (мысалы, Android үшін Firefox және Firefox OS) жөндей алады. Қашықтағы құрылғыда 'Қашықтан жөндеу' опциясын іске қосылып тұрғанын тексеріңіз. Көбірек білу үшін <a target='_' href='https://developer.mozilla.org/docs/Tools/Debugger#Remote_Debugging'>құжаттаманы</a> қараңыз.">

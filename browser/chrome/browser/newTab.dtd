@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Жаңа бет">
-
-
-
+<!ENTITY newtab.undo.removedLabel "Кіші көрініс өшірілді.">
+<!ENTITY newtab.undo.undoButton "Болдырмау.">
+<!ENTITY newtab.undo.restoreButton "Барлығын қалпына келтіру.">
 <!ENTITY newtab.undo.closeTooltip "Жасыру">

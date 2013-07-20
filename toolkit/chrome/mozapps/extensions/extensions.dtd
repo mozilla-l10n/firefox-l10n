@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "м">
 <!ENTITY cmd.disableTheme.label               "Теманы алып тастау">
 <!ENTITY cmd.disableTheme.accesskey           "с">
-
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.label              "Белсендіруді сұрау">
+<!ENTITY cmd.askToActivate.tooltip            "Әр ретте бұл қосымшаны қолдануды сұрау">
+<!ENTITY cmd.alwaysActivate.label             "Әрқашан белсендіру">
+<!ENTITY cmd.alwaysActivate.tooltip           "Бұл қосымшаны әрқашан қолдану">
+<!ENTITY cmd.neverActivate.label              "Ешқашан белсендірмеу">
+<!ENTITY cmd.neverActivate.tooltip            "Бұл қосымшаны ешқашан қолданбау">
+<!ENTITY cmd.stateMenu.tooltip                "Бұл қосымша орындалған кезде өзгерту">
 <!ENTITY cmd.installAddon.label               "Орнату">
 <!ENTITY cmd.installAddon.accesskey           "н">
 <!ENTITY cmd.uninstallAddon.label             "Өшіру">

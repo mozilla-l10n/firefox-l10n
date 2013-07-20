@@ -22,7 +22,8 @@
 <!ENTITY helpSafeMode.label       "Сөндірілген кеңейтулермен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey   "р">
 
-
+<!ENTITY healthReport.label       "&brandShortName; деңсаулық есептемесі">
+<!ENTITY healthReport.accesskey   "е">
 
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey  "а">

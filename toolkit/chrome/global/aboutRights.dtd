@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "Сізде Mozilla Foundation сауда белгілеріне не лицензияларына, ешбір шектеусіз Firefox аты мен логотипін қоса, құқығыңыз жоқ. Сауда белгілері жөнінде қосымша ақпараты ">
 <!ENTITY rights.intro-point2-b "осында">
-
+<!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "&brandShortName; ішіндегі бірнеше мүмкіндіктер, Crash Reporter сияқты, &vendorShortName; үшін кері байланыс хабарламаларын жіберуге мүмкіндік береді. Оны жіберу нәтижесінде сіз &vendorShortName; үшін ол хабарламаны өнімдерді жақсартуға, вебсайтта ол жауапты көрсетуге әрі жауапты таратуға құқық берумен келісесіз.">
@@ -53,7 +53,7 @@
 
 <!ENTITY rights2.webservices-a "&brandFullName; интернетке негізделген ақпараттық қызметтерді қолданады (&quot;Қызметтер&quot;), &brandShortName; осы бинарлы нұсқасын қолдану кезінде сізге көбірек мүмкіндіктерді ұсыну үшін, қолдану шарттары төменде көрсетілген. Егер сіз бір не бірнеше қызметті қолданбаймын десеңіз, немесе қолдану шарттарымен келіспесеңіз, ол мүмкіндік не қызметті сөндіре аласыз. Мүкіндік не қызметті сөндіру нұсқауын келесі жерде ">
 <!ENTITY rights2.webservices-b "таба аласыз">
-
+<!ENTITY rights3.webservices-c ". Басқа мүмкіндіктер және қызметтерді қолданба баптауларында сөндіруге болады.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
