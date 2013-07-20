@@ -15,7 +15,7 @@
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
 <!ENTITY debuggerUI.showOriginalSource "Показать оригинальные источники">
 <!ENTITY debuggerUI.showOriginalSource.key "O">
-<!ENTITY debuggerUI.searchPanelTitle "Операторы">
+<!ENTITY debuggerUI.searchPanelOperators "Операторы:">
 <!ENTITY debuggerUI.searchFile "Фильтр сценариев">
 <!ENTITY debuggerUI.searchFile.key "P">
 <!ENTITY debuggerUI.searchFile.altkey "O">
