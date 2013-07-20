@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label           "Kommentaar-ark">
+
+<!ENTITY feedback.communicate.title     "Kommunisearje mei ús!">
+<!ENTITY feedback.feedback.title        "Jou kommentaar">
+<!ENTITY feedback.feedback.good         "Goed">
+<!ENTITY feedback.feedback.bad          "Slim">
+
+<!ENTITY feedback.tools.title           "Ark">
+<!ENTITY feedback.allowTelemetry.title  "Prestaasjegegevens ferstjoere">
+<!ENTITY feedback.forceCompat.title     "Forsearje add-onskompatibiliteit">
+<!ENTITY feedback.errorConsole.title    "Skeakel de flaterkonsole yn">

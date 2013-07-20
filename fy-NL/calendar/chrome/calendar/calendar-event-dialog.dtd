@@ -1,47 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
-   -
-   - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
-   -   Michael Buettner <michael.buettner@sun.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
-   -   Stefan Sitter <ssitter@gmail.com>
-   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
-   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
-   -   Fred Jendrzejewski <fred.jen@web.de>
-   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
-   -   Gianfranco Balza <bv1578@gmail.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY event.title.label                  "Item bewurkje" >
 
@@ -105,7 +64,7 @@
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Fuortsmite…">
 <!ENTITY  event.menu.item.delete.accesskey                "F">
-<!ENTITY  event.menu.item.page.setup.label                "Side-ynstellings">
+<!ENTITY  event.menu.item.page.setup.label                "Side-ynstellingen">
 <!ENTITY  event.menu.item.page.setup.accesskey            "i">
 <!ENTITY  event.menu.item.print.label                     "Ofdrukke">
 <!ENTITY  event.menu.item.print.accesskey                 "d">
@@ -138,18 +97,16 @@
 
 <!ENTITY  event.menu.options.label                            "Opsjes">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Webstee keppelje…">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
-<!ENTITY  event.menu.options.attendees.accesskey              "G">
+<!ENTITY  event.menu.options.attendees.accesskey              "D">
 <!ENTITY  event.menu.options.spellcheck.label                 "Stavering kontrolearje…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "k">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Stavering kontrolearje tiidens it typen">
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Keppeling tafoegje…">
 <!ENTITY  event.menu.options.link.accesskey                   "K">
-<!ENTITY  event.menu.options.timezone.label                   "Tiidsône">
-<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.timezone2.label                   "Tiidsoanes toane">
+<!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Net spesifisearre">
@@ -188,7 +145,6 @@
 <!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
 <!ENTITY  event.toolbar.spellcheck.label                  "Staveringskontrole">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
-<!ENTITY  event.toolbar.attachments.label                 "Keppelje">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titel:" >
@@ -197,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "a">
 <!ENTITY event.categories.label                           "Kategory:">
 <!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.textbox.label                   "Foegje in nije kategory ta" >
+<!ENTITY event.categories.textbox.accesskey               "F">
 <!ENTITY event.calendar.label                             "Aginda:" >
 <!ENTITY event.calendar.accesskey                         "A">
 <!ENTITY event.attendees.label                            "Dielnimmers:" >
@@ -215,12 +173,24 @@
 <!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Werhelje:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Oant:">
+<!ENTITY event.until.accesskey                            "t">
 <!ENTITY event.reminder.label                             "Warskôging:" >
 <!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Beskriuwing:" >
 <!ENTITY event.description.accesskey                      "w">
 <!ENTITY event.attachments.label                          "Bylagen:" >
 <!ENTITY event.attachments.accesskey                      "B" >
+
+<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
+  but I want to land Filelink support for Lightning soon. The attach
+  button will become a dropdown button that allows to attach links
+  as usual, but also files via the Filelink providers. -->
+<!ENTITY event.attachments.menubutton.label               "Tafoegje">
+<!ENTITY event.attachments.menubutton.accesskey           "T">
+<!ENTITY event.attachments.url.label                      "Webside…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+
 <!ENTITY event.attachments.popup.remove.label             "Fuortsmite" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
 <!ENTITY event.attachments.popup.open.label               "Iepenje" >
@@ -245,7 +215,7 @@
 <!ENTITY event.reminder.1week.before.label                "1 wike dêrfoar" >
 <!ENTITY event.reminder.custom.label                      "Oanpast…" >
 
-<!ENTITY event.reminder.multiple.label                    "Mear warskôgings…" >
+<!ENTITY event.reminder.multiple.label                    "Mear warskôgingen…" >
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Werhelling bewurkje">
@@ -360,8 +330,6 @@
 <!ENTITY event.freebusy.next.slot        "Folgjende frije plak " >
 <!ENTITY event.freebusy.previous.slot    " Foarige frije plak" >
 <!ENTITY event.freebusy.zoom             "Zoomen:">
-<!ENTITY event.freebusy.plus             "Folgjend oer" >
-<!ENTITY event.freebusy.minus            "Foarich oer" >
 <!ENTITY event.freebusy.legend.free      "Beskikber" >
 <!ENTITY event.freebusy.legend.busy      "Beset" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Foarlopich" >
@@ -371,9 +339,14 @@
 <!ENTITY event.attendee.role.optional	 "Opsjonele dielnimmer">
 <!ENTITY event.attendee.role.chair		 "Stoel">
 <!ENTITY event.attendee.role.nonparticipant     "Net-dielnimmer">
+<!ENTITY event.attendee.usertype.individual     "Yndividueel">
+<!ENTITY event.attendee.usertype.group          "Groep">
+<!ENTITY event.attendee.usertype.resource       "Boarne">
+<!ENTITY event.attendee.usertype.room           "Romte">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifisearje de tiidsoane">
+ <!ENTITY event.timezone.custom.label     "Mear tiidsoanes…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">

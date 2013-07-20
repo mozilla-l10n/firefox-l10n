@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY MsgSynchronize.label "Berichten downloaden en synchroniseren">
 <!ENTITY MsgSelect.label "Items voor offlinegebruik">
 <!ENTITY MsgSyncDesc.label "Als u reeds e-mailmappen of nieuwsgroepen hebt geselecteerd voor offlinegebruik, kunt u ze nu downloaden en/of synchroniseren. Gebruik anders de knop &quot;Selecteren&quot; om e-mailmappen en nieuwsgroepen te selecteren voor offlinegebruik.">

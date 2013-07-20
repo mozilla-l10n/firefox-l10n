@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "Kleuren">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Ynhâld tastean de eigen kleuren te kiezen, yn stee fan myn seleksjes hjirboppe">
+<!ENTITY  allowPagesToUse.accesskey       "Y">
+
+<!ENTITY  color                           "Tekst en achtergrûn">
+<!ENTITY  textColor.label                 "Tekst:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Achtergrûn:">
+<!ENTITY  backgroundColor.accesskey       "g">
+<!ENTITY  useSystemColors.label           "Brûk systeemkleuren">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Keppelingen ûnderstreekje">
+<!ENTITY  underlineLinks.accesskey        "K">
+<!ENTITY  links                           "Keppelingkleuren">
+<!ENTITY  linkColor.label                 "Net besochte keppelingen:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Besochte keppelingen:">
+<!ENTITY  visitedLinkColor.accesskey      "p">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchInput.label                  "Sykje nei:">
@@ -5,10 +9,15 @@
 <!ENTITY SearchNameOrEmail.label            "Namme of e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Fuortsmite">
+<!ENTITY deleteAddrBookCard.accesskey       "F">
 <!ENTITY addrBookCardProperties.label       "Eigenskippen">
+<!ENTITY addrBookCardProperties.accesskey   "E">
 <!ENTITY addtoToFieldMenu.label             "Tafoegje oan it Oan-fjild">
+<!ENTITY addtoToFieldMenu.accesskey         "O">
 <!ENTITY addtoCcFieldMenu.label             "Tafoegje oan it Cc-fjild">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Tafoegje oan it Bcc-fjild">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Tafoegje oan Oan:">
 <!ENTITY toButton.accesskey                 "A">

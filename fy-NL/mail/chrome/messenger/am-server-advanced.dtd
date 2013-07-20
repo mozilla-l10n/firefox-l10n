@@ -1,4 +1,8 @@
-<!ENTITY serverAdvanced.label "Avansearre accountynstellings">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Avansearre accountynstellingen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.accesskey "m">
 <!ENTITY serverDirectory.label "IMAP-tsjinnermap">
@@ -9,9 +13,9 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY useIdle.label "IDLE-commando brûke as de tsjinner it stipet">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY maximumConnectionsNumber.label "Maksimumoantal tsjinnerferbinings yn de buffer">
+<!ENTITY maximumConnectionsNumber.label "Maksimumoantal tsjinnerferbiningen yn de buffer">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Dizze ynstellings omskriuwe de namespaces op jo IMAP-tsjinner">
+<!ENTITY namespaceDesc.label "Dizze ynstellingen omskriuwe de namespaces op jo IMAP-tsjinner">
 <!ENTITY personalNamespace.accesskey "e">
 <!ENTITY personalNamespace.label "Persoanlike namespace:">
 <!ENTITY publicNamespace.accesskey "u">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY overrideNamespaces.label "Tsjinner tastean om dizze namespaces te negearjen">
 <!ENTITY pop3Desc.label "By it ynladen fan e-mail fan dizze POP3-tsjinner, de folgjende map foar nije e-mail brûke:">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY globalInbox.label "Globaal Postfek YN (ûnder Lokale mappen)">
 <!ENTITY accountDirectory.accesskey "P">
 <!ENTITY accountDirectory.label "Postfek YN fan dizze tsjinneraccount">
 <!ENTITY deferToServer.accesskey "r">

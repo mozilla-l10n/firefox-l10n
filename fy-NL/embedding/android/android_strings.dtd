@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  splash_screen_loading "lade">
+
+<!ENTITY  splash_screen_loading "Lade">
 <!ENTITY  splash_screen_installing_libs "Biblioteken ynstallearje\u2026">
 <!ENTITY  splash_firstrun "Ynstellen fan &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber foar &brandShortName; om te starten.">
+<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Ungelokrapportearder">
@@ -16,8 +20,3 @@
 <!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
 <!ENTITY  exit_label "Slute">
 <!ENTITY  continue_label "Fierder">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web-Apps">
-<!ENTITY  launcher_shortcuts_empty "Der binne gjin web-apps fûn">
-
-<!ENTITY choose_file "Kies bestân">

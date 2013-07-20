@@ -1,13 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY migrationWizard.title "Ymportearassistint">
 
-<!ENTITY importFromWin.label "Opsjes, accountynstellings, adresboek, filters en oare gegevens ymportearje út:">
-<!ENTITY importFromNonWin.label "Foarkarren, accountynstellings, adresboek en oare gegevens ymportearje út:">
+<!ENTITY importFromWin.label "Opsjes, accountynstellingen, adresboek, filters en oare gegevens ymportearje út:">
+<!ENTITY importFromNonWin.label "Foarkarren, accountynstellingen, adresboek en oare gegevens ymportearje út:">
 
 <!ENTITY importFromNothing.label "Neat ymportearje">
 <!ENTITY importFromNothing.accesskey "t">
-<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x of SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 of letter">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label "Outlook Express">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
@@ -15,7 +19,7 @@
 <!ENTITY importFromEudora.label "Eudora">
 <!ENTITY importFromEudora.accesskey "E">
 
-<!ENTITY importSource.title "Ynstellings en e-mailmappen ymportearje">
+<!ENTITY importSource.title "Ynstellingen en e-mailmappen ymportearje">
 <!ENTITY importItems.title "Te ymportearjen items">
 <!ENTITY importItems.label "Selektearje de te ymportearjen items:">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title    				"Bibleteek">
 <!ENTITY places.library.width  					"700">
@@ -22,11 +26,6 @@
 <!ENTITY view.sortAscending.accesskey  			"A">
 <!ENTITY view.sortDescending.label  			"Sortearfolchoarder Z > A">
 <!ENTITY view.sortDescending.accesskey  		"Z">
-
-<!ENTITY cmd.findInBookmarks.label  			"Sykje yn Blêdwizers...">
-<!ENTITY cmd.findInBookmarks.accesskey  		"S">
-<!ENTITY cmd.findCurrent.label  				"Sykje yn aktuele kolleksje...">
-<!ENTITY cmd.findCurrent.accesskey  			"y">
 
 <!ENTITY importBookmarksFromHTML.label     		"Ymportearje blêdwizers út HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey 		"Y">
@@ -91,18 +90,6 @@
 
 <!ENTITY search.label  							"Sykje:">
 <!ENTITY search.accesskey  						"S">
-
-<!ENTITY search.in.label                        "Sykje yn:">
-<!ENTITY search.scopeFolder.label               "Selektearre map">
-<!ENTITY search.scopeFolder.accesskey           "a">
-<!ENTITY search.scopeBookmarks.label			"Blêdwizers">
-<!ENTITY search.scopeBookmarks.accesskey		"z">
-<!ENTITY search.scopeDownloads.label            "Ynladen Bestannen">
-<!ENTITY search.scopeDownloads.accesskey        "B">
-<!ENTITY search.scopeHistory.label              "Skiednis">
-<!ENTITY search.scopeHistory.accesskey          "k">
-<!ENTITY saveSearch.label  						"Bewarje">
-<!ENTITY saveSearch.accesskey  					"B">
 
 <!ENTITY cmd.find.key  							"f">
 

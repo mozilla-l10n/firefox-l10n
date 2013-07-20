@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY title.label "Bezig met downloaden certificaten">
 <!ENTITY info.message "Bezig met doorzoeken van directory naar ontvangercertificaten. Dit kan een paar minuten duren.">
 <!ENTITY stop.label "Stop zoeken">

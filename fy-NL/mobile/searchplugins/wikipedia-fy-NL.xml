@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Wikipedia (fy)</ShortName>
 <InputEncoding>UTF-8</InputEncoding>
@@ -6,9 +10,9 @@
   <Param name="action" value="opensearch"/>
   <Param name="search" value="{searchTerms}"/>
 </Url>
-<Url type="text/html" method="GET" template="http://fy.m.wikipedia.org/wiki">
+<Url type="text/html" method="GET" template="http://fy.wikipedia.org/wiki/Special:Search">
   <Param name="search" value="{searchTerms}"/>
   <Param name="sourceid" value="Mozilla-search"/>
 </Url>
-<SearchForm>http://fy.wikipedia.org/wiki/Wiki:Search</SearchForm>
+<SearchForm>http://fy.wikipedia.org/wiki/Wiki:Sykje</SearchForm>
 </SearchPlugin>

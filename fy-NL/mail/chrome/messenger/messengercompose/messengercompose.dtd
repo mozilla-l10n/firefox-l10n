@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Nij berjocht: (gjin ûnderwerp)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "y">
 <!ENTITY attachFileCmd.label "Bestân(nen)…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webstee…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -41,7 +48,7 @@
 <!ENTITY sendLaterCmd.label "Letter ferstjoere">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "s">
-<!ENTITY printSetupCmd.label "Side-ynstellings…">
+<!ENTITY printSetupCmd.label "Side-ynstellingen…">
 <!ENTITY printSetupCmd.accesskey "S">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.key "P">
@@ -68,16 +75,19 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Op 'e nij rjochtsje">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Fuortsmite">
 <!ENTITY deleteCmd.accesskey "F">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "r">
+<!ENTITY renameAttachmentCmd.label "Bylage omneame…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findCmd.label "Sykje en ferfange…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Op 'e nij sykje">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "k">
@@ -92,6 +102,8 @@
 <!ENTITY viewMenu.accesskey "L">
 <!ENTITY viewToolbarsMenuNew.label "Arkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "A">
+<!ENTITY menubarCmd.label "Menubalke">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Komposysje-arkbalke">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Opmaakarkbalke">
@@ -128,8 +140,8 @@
 <!ENTITY returnReceiptMenu.accesskey "L">
 <!ENTITY dsnMenu.label "Ofleversteatnotifikaasje">
 <!ENTITY dsnMenu.accesskey "A">
-<!ENTITY outputFormatMenu.label "Opmaak">
-<!ENTITY outputFormatMenu.accesskey "O">
+<!ENTITY deliveryFormatMenu.label "Ofleveropmaak">
+<!ENTITY deliveryFormatMenu.accesskey "m">
 <!ENTITY autoFormatCmd.label "Automatysk ûntdekke ">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Allinnich platte tekst">
@@ -164,7 +176,7 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Accountynstellings…">
+<!ENTITY accountManagerCmd.label "Accountynstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "i">
 <!ENTITY preferencesCmd.label "Opsjes…">
@@ -213,9 +225,12 @@
 <!ENTITY followupAddr.label "Reaksjes nei:">
 <!ENTITY subject.label "Underwerp:">
 <!ENTITY subject.accesskey "n">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "a">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "In glimke ynfoegje">
 <!ENTITY smiley1Cmd.label "Glimke">
 <!ENTITY smiley2Cmd.label "Tryst">
@@ -263,6 +278,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestân(nen) keppelje…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY convertCloud.label "Konvertearje nei…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Opladen annulearje">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Standert bylage">
+<!ENTITY convertRegularAttachment.accesskey "b">
+<!ENTITY attachCloud.accesskey "i">
 <!ENTITY attachPage.label "Webside keppelje…">
 <!ENTITY attachPage.accesskey "W">
 

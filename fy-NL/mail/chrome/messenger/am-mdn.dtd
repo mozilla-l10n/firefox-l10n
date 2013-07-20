@@ -1,8 +1,14 @@
-<!ENTITY pane.title "Lêsbefestigings">
-<!ENTITY useGlobalPrefs.label "Myn algemiene lêsbefestigingsynstellings brûke foar dizze account">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pane.title "Lêsbefestigingen">
+<!ENTITY useGlobalPrefs.label "Myn algemiene lêsbefestigingsynstellingen brûke foar dizze account">
 <!ENTITY useGlobalPrefs.accesskey "g">
 <!ENTITY useCustomPrefs.label "Lêsbefestiging oanpasse foar dizze account">
 <!ENTITY useCustomPrefs.accesskey "p">
+<!ENTITY globalReceipts.label         "Algemiene ynstellingen…">
+<!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY requestReceipt.label "Altyd in lêsbefestiging freegje by it ferstjoeren fan berjochten">
 <!ENTITY requestReceipt.accesskey "t">
 <!ENTITY receiptArrive.label "As in lêsbefestiging oankomt:">

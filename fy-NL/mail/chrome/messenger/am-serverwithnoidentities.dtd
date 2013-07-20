@@ -1,11 +1,6 @@
-<!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">
-<!ENTITY accountTitle.label "Accountynstellings">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY messageStorage.label "Berjochteopslach">
-<!ENTITY emptyTrashOnExit.label "Jiskefet leechmeitsje by ôfslute">
-<!ENTITY emptyTrashOnExit.accesskey "J">
-<!ENTITY localPath.label "Lokale map">
-<!ENTITY localFolderPicker.label "Selektearje lokale map">
-<!ENTITY browseFolder.label "Blêdzje…">
-<!ENTITY browseFolder.accesskey "B">

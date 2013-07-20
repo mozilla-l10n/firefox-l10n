@@ -1,29 +1,35 @@
 <!ENTITY  updateWizard.title              "Programma-fernijing">
 
-<!ENTITY  checking.title                  "Kontrolearje op fernijings">
-<!ENTITY  updateCheck.label               "Kontrolearret no op fernijings fan &brandShortName;...">
+<!ENTITY  checking.title                  "Kontrolearje op fernijingen">
+<!ENTITY  updateCheck.label               "Kontrolearret no op fernijingen fan &brandShortName;...">
 
-<!ENTITY  pluginupdatesfound.title        "Fernijings fûn foar ynstekkers">
+<!ENTITY  pluginupdatesfound.title        "Fernijingen fûn foar ynstekkers">
 <!ENTITY  pluginupdatesfound.label        "Der binne nijere ferzjes fûn foar ien of mear fan jo ynstekkers.">
 <!ENTITY  pluginupdateslink.label         "Sjoch hoe't jo jo ynstekkers fernije kinne.">
 
-<!ENTITY  noupdatesfound.title            "Gjin fernijings fûn">
-<!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijings beskikber. &brandShortName; sil
-                                           periodiek kontrolearje op fernijings.">
-<!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijings beskikber. Kontrolearje it letter op 'e nij of skeakel
+<!ENTITY  noupdatesfound.title            "Gjin fernijingen fûn">
+<!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijingen beskikber. &brandShortName; sil
+                                           periodiek kontrolearje op fernijingen.">
+<!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijingen beskikber. Kontrolearje it letter op 'e nij of skeakel
                                            &brandShortName; syn automatyske fernijingskontrole yn.">
 
 <!ENTITY  manualUpdate.title              "Net yn steat om te fernijen">
 <!ENTITY  manualUpdate.desc               "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim asjobleaft kontakt op mei jo
-                                           systeembehearder, of besykje it nochris mei in account dy't wol de rjochten hat om
+                                           systeembehearder, of probearje it nochris mei in account dy't wol de rjochten hat om
                                            programma's te ynstallearjen op dizze kompjûter.">
 <!ENTITY  manualUpdate.space.desc         "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net genôch skiifromte om it te ynstallearjen.">
 <!ENTITY  manualUpdateGetMsg.label        "Jo kinne altyd de lêste ferzje fan &brandShortName; krije fanôf:">
 
-<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegings kompatibiliteit">
-<!ENTITY  incompatibleCheck.label         "Siket nei fernijings fan jo tafoegings">
+<!ENTITY  unsupported.title               "Systeem net stipe">
+<!ENTITY  unsupported.label               "Jo &brandShortName; is út de tiid, mar de lêste ferzje wurdt net
+                                           stipe troch jo systeem. Fernij asjobleaft jo systeem en probearje dan nochris.
+                                           Jo sille dit berjocht net wer sjen, mar it kin wol">
+<!ENTITY  unsupportedLink.label           "lês mear.">
+
+<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegingen kompatibiliteit">
+<!ENTITY  incompatibleCheck.label         "Siket nei fernijingen fan jo tafoegingen">
 
 <!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
 
@@ -41,7 +47,7 @@
 <!ENTITY  license.decline                 "Ik akseptearje de betingsten fan de lisinsje-oerienkomst NET">
 <!ENTITY  license.decline.accesskey       "N">
 
-<!ENTITY  incompatibleList.title          "Ynkompatibele tafoegings fûn">
+<!ENTITY  incompatibleList.title          "Ynkompatibele tafoegingen fûn">
 
 <!ENTITY  downloadPage.title              "&brandShortName; wurdt ynladen">
 <!ENTITY  downloading.intro               "Fernijing ynlade...">
@@ -60,7 +66,7 @@
                                            fan dizze fernijing. &brandShortName; koe net bywurke wurde omdat:">
                                            
 <!ENTITY  errorManual.label               "Jo kinne &brandShortName; mei de hân bywurkje troch dizze keppeling te
-                                           besykjen en de lêste ferzje yn te laden:">
+                                           probearjen en de lêste ferzje yn te laden:">
 
 <!ENTITY  errorpatching.intro             "It part fan de fernijing koe net tapast wurde. 
                                            &brandShortName; sil it op 'e nij probearje troch in folsleine fernijing yn te laden.">

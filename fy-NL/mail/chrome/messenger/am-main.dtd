@@ -1,6 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Accountynstellings">
+<!ENTITY accountTitle.label "Accountynstellingen">
 <!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
 <!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't oaren sjogge as se jo berjochten lêze.">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Antwurdadres:">
 <!ENTITY replyTo.accesskey "n">
+<!ENTITY replyTo.placeholder "Untfangers sille antwurdzje nei dit oare adres">
 <!ENTITY organization.label "Organisaasje:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Undertekeningstekst:">
