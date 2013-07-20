@@ -103,6 +103,16 @@
 <!ENTITY mediaMute.accesskey "S">
 <!ENTITY mediaUnmute.label "Restaurar sonido">
 <!ENTITY mediaUnmute.accesskey "s">
+<!ENTITY mediaPlaybackRate.label "Velocidad de reproducción">
+<!ENTITY mediaPlaybackRate.accesskey "V">
+<!ENTITY mediaPlaybackRate050.label "Movimiento ralentizado (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "r">
+<!ENTITY mediaPlaybackRate100.label "Velocidad normal">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label "Velocidad alta (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "a">
+<!ENTITY mediaPlaybackRate200.label "Doble velocidad">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
 <!ENTITY mediaShowControls.label "Mostrar controles de medios">
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Ocultar controles de medios">
