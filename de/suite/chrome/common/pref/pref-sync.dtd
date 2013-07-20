@@ -20,7 +20,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account verwalten">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Quota anzeigen">
+<!ENTITY viewQuota.label              "Kontingent anzeigen">
 <!ENTITY viewQuota.accesskey          "Q">
 <!ENTITY changePassword.label         "Passwort ändern">
 <!ENTITY changePassword.accesskey     "P">

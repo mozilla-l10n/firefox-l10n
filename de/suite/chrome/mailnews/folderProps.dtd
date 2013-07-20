@@ -60,8 +60,8 @@
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">
 <!ENTITY folderType.label                        "Ordnertyp:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota-Wurzel:">
+<!ENTITY folderQuotaTab.label                    "Kontingent">
+<!ENTITY folderQuotaRoot.label                   "Kontigent-Hauptverzeichnis:">
 <!ENTITY folderQuotaUsage.label                  "Verwendung:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 
