@@ -715,18 +715,29 @@ viendo el cuadro de diálogo de Buscar mensajes, vaya a la ventana de
 Correo y noticias:</p>
 
 <ol>
-  <li>Abra el menú Herramientas y elija Buscar mensajes.
-  Aparecerá el cuadro de diálogo de Buscar mensajes.</li>
+  <li>Abra el menú Herramientas y elija Buscar mensajes. Aparecerá el cuadro
+    de diálogo de Buscar mensajes.</li>
   <li>Junto a <q>Buscar mensaje en</q>, elija la cuenta, grupo de noticias o
-  carpeta en la que quiera realizar la búsqueda.</li>
+    carpeta en la que quiera realizar la búsqueda.</li>
   <li>Marque la casilla <q>Buscar en subcarpetas</q> para incluir todas las
-  subcarpetas en la búsqueda.</li>
-  <li>Marque la casilla <q>Buscar en sistema local</q> para buscar sólo
-    mensajes de los grupos de noticias o cuentas IMAP que se hayan guardado
-    localmente.
-
-    <p><strong>Nota</strong>: la casilla estará desactivada si no es posible
-      buscar los mensajes guardados remotamente.</p>
+    subcarpetas en la búsqueda.</li>
+  <li>Junto a <q>Realizar operaciones de búsqueda en</q>, seleccione una opción
+    donde buscar los mensajes en grupos de noticias o cuentas IMAP:
+    <ul>
+      <li>Elija <q>Sistema local</q> para usar para la búsqueda sólo la
+        información guardada localmente sin ninguna actividad de red. Este modo
+        incluye todas las cabeceras de mensaje principales. No puede buscar en
+        el cuerpo de los mensajes de modo local a menos que la cuenta y sus
+        carpetas hayan sido configuradas para su
+        <a href="mailnews_account_settings.xhtml#synchronization_and_storage">sncronización</a>.
+      </li>
+    <li>Elija <q>Servidor remoto</q> para realizar todas las búsquedas en el
+      servidor en el que se encuentran los mensajes. Esto le permitirá buscar
+      también contenido en el cuerpo de los mensajes que no hayan sido
+      sincronizados.</li>
+  </ul>
+  <p><strong>Nota</strong>: este menú estará desactivado si no es posible
+    buscar de modo remoto en el servidor (p.e.: en las cuentas POP).</p>
   </li>
   <li>Seleccione la opción adecuada para indicar si el resultado de la
   búsqueda debe cumplir todas las condiciones especificadas o

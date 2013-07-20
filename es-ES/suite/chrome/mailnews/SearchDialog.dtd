@@ -6,8 +6,10 @@
 <!ENTITY searchHeading.accesskey "B">
 <!ENTITY searchSubfolders.label "Buscar subcarpetas">
 <!ENTITY searchSubfolders.accesskey "c">
-<!ENTITY searchLocalSystem.label "Buscar en sistema local">
-<!ENTITY searchLocalSystem.accesskey "m">
+<!ENTITY searchOnHeading.label "Realizar operaciones de búsqueda en:">
+<!ENTITY searchOnHeading.accesskey "R">
+<!ENTITY searchOnRemote.label "Servidor remoto">
+<!ENTITY searchOnLocal.label "Sistema local">
 <!ENTITY resetButton.label "Limpiar">
 <!ENTITY resetButton.accesskey "L">
 <!ENTITY openButton.label "Abrir">
