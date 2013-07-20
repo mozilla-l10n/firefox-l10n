@@ -78,12 +78,9 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY menubarCmd.label "Menyfältet">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigeringsfältet">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bokmärkesfältet">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bokmärkesfältsposter">
-<!ENTITY addonBarCmd.label "Tilläggsfältet">
-<!ENTITY addonBarCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Källkod">
 <!ENTITY pageSourceCmd.accesskey "ä">
@@ -166,22 +163,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Bakåt/Framåt">
 <!ENTITY locationItem.title           "Adress">
 <!ENTITY searchItem.title             "Sök">
-<!ENTITY throbberItem.title           "Aktivitetsindikator">
 <!ENTITY bookmarksItem.title          "Bokmärken">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Meny">
-<!ENTITY appMenuButton.tooltip        "Öppna &brandShortName;-menyn">
 <!ENTITY homeButton.label             "Startsida">
 
 <!ENTITY tabGroupsButton.label        "Flikgrupper">
 <!ENTITY tabGroupsButton.tooltip      "Gruppera dina flikar">
 
-<!ENTITY feedButton.label             "Prenumerera">
-<!ENTITY feedButton.tooltip           "Prenumerera på den här sidan…">
-
 <!ENTITY bookmarksButton.label          "Bokmärken">
-<!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
@@ -197,7 +187,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historik">
-<!ENTITY historyButton.tooltip          "Visa sidor som du besökt">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Verktyg">
@@ -321,8 +310,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "o">
 <!ENTITY viewCustomizeToolbar.label       "Anpassa…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
-<!ENTITY viewTabsOnTop.label            "Flikar högst upp">
-<!ENTITY viewTabsOnTop.accesskey        "F">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "o">
@@ -335,16 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Redigera">
 <!ENTITY appMenuCustomize.label "Anpassa">
-<!ENTITY appMenuToolbarLayout.label "Verktygsfältslayout…">
-<!ENTITY appMenuSidebars.label "Sidofält">
-<!ENTITY appMenuFind.label "Sök…">
-<!ENTITY appMenuUnsorted.label "Osorterade bokmärken">
-<!ENTITY appMenuWebDeveloper.label "Webbutvecklare">
-<!ENTITY appMenuGettingStarted.label "Kom igång">
-<!ENTITY appMenuSafeMode.label "Starta om utan tillägg…">
-<!ENTITY appMenuSafeMode.accesskey "S">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Sök eller ange adress">
@@ -549,15 +527,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Öppna ett nytt fönster">
 <!ENTITY sidebarCloseButton.tooltip     "Stäng Sidofält">
 
-<!ENTITY cutButton.tooltip              "Klipp ut">
-<!ENTITY copyButton.tooltip             "Kopiera">
-<!ENTITY pasteButton.tooltip            "Klistra in">
-
 <!ENTITY fullScreenButton.tooltip       "Visa fönstret i helskärm">
-
-<!ENTITY zoomOutButton.tooltip          "Zoomar ut">
-<!ENTITY zoomInButton.tooltip           "Zoomar in">
-<!ENTITY zoomControls.label             "Zoomreglage">
 
 <!ENTITY quitApplicationCmdWin.label       "Avsluta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "A">
@@ -646,9 +616,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Stäng Tilläggsfältet">
-<!ENTITY toggleAddonBarCmd.key        "å">
-
 <!ENTITY socialToolbar.title        "Socialt verktygsfält">
 <!ENTITY social.notLoggedIn.label   "Inte inloggad">
 
@@ -698,3 +665,40 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Tillåt nu">
 <!ENTITY pluginActivateAlways.label "Tillåt och kom ihåg">
 <!ENTITY pluginBlockNow.label "Blockera insticksmodul">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY addonBarCmd.label "Tilläggsfältet">
+<!ENTITY addonBarCmd.accesskey "T">
+<!ENTITY throbberItem.title           "Aktivitetsindikator">
+<!ENTITY appMenuButton.label          "Meny">
+<!ENTITY appMenuButton.tooltip        "Öppna &brandShortName;-menyn">
+<!ENTITY feedButton.label             "Prenumerera">
+<!ENTITY feedButton.tooltip           "Prenumerera på den här sidan…">
+<!ENTITY bookmarksButton.tooltip        "Visa dina bokmärken">
+<!ENTITY historyButton.tooltip          "Visa sidor som du besökt">
+<!ENTITY viewTabsOnTop.label            "Flikar högst upp">
+<!ENTITY viewTabsOnTop.accesskey        "F">
+<!ENTITY appMenuEdit.label "Redigera">
+<!ENTITY appMenuToolbarLayout.label "Verktygsfältslayout…">
+<!ENTITY appMenuSidebars.label "Sidofält">
+<!ENTITY appMenuFind.label "Sök…">
+<!ENTITY appMenuUnsorted.label "Osorterade bokmärken">
+<!ENTITY appMenuWebDeveloper.label "Webbutvecklare">
+<!ENTITY appMenuGettingStarted.label "Kom igång">
+<!ENTITY appMenuSafeMode.label "Starta om utan tillägg…">
+<!ENTITY appMenuSafeMode.accesskey "S">
+<!ENTITY cutButton.tooltip              "Klipp ut">
+<!ENTITY copyButton.tooltip             "Kopiera">
+<!ENTITY pasteButton.tooltip            "Klistra in">
+<!ENTITY zoomOutButton.tooltip          "Zoomar ut">
+<!ENTITY zoomInButton.tooltip           "Zoomar in">
+<!ENTITY zoomControls.label             "Zoomreglage">
+<!ENTITY addonBarCloseButton.tooltip  "Stäng Tilläggsfältet">
+<!ENTITY toggleAddonBarCmd.key        "å">
+<!-- end of strings to be removed post-Australis -->
+
