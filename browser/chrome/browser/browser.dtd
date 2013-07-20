@@ -27,6 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "T">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY undoCloseTab.accesskey "s">
+<!ENTITY undoCloseTabs.label "Riapri schede chiuse">
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY listAllTabs.label "Elenco di tutte le schede">
@@ -50,12 +51,9 @@
 <!ENTITY menubarCmd.label "Barra dei menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra di navigazione">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
 <!ENTITY personalbarCmd.accesskey "s">
 <!ENTITY bookmarksToolbarItem.label "Oggetti della barra dei segnalibri">
-<!ENTITY addonBarCmd.label "Barra dei componenti aggiuntivi">
-<!ENTITY addonBarCmd.accesskey "c">
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "U">
@@ -129,17 +127,11 @@
 <!ENTITY backForwardItem.title "Indietro/Avanti">
 <!ENTITY locationItem.title "Indirizzo">
 <!ENTITY searchItem.title "Cerca">
-<!ENTITY throbberItem.title "Indicatore attività">
 <!ENTITY bookmarksItem.title "Segnalibri">
-<!ENTITY appMenuButton.label "Menu">
-<!ENTITY appMenuButton.tooltip "Apri il menu &brandShortName;">
 <!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY tabGroupsButton.label "Gruppi di schede">
 <!ENTITY tabGroupsButton.tooltip "Raggruppa le schede">
-<!ENTITY feedButton.label "Abbonati">
-<!ENTITY feedButton.tooltip "Abbonati a questa pagina…">
 <!ENTITY bookmarksButton.label "Segnalibri">
-<!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
 <!ENTITY bookmarksMenuButton.tooltip "Visualizza i segnalibri">
@@ -149,7 +141,6 @@
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
-<!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
 <!ENTITY historySidebarCmd.commandKey "h">
 <!ENTITY toolsMenu.label "Strumenti">
 <!ENTITY toolsMenu.accesskey "S">
@@ -242,8 +233,6 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
-<!ENTITY viewTabsOnTop.label "Visualizza le schede in alto">
-<!ENTITY viewTabsOnTop.accesskey "V">
 <!ENTITY historyMenu.label "Cronologia">
 <!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Schede chiuse di recente">
@@ -252,16 +241,7 @@
 <!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
-<!ENTITY appMenuEdit.label "Modifica">
 <!ENTITY appMenuCustomize.label "Personalizza">
-<!ENTITY appMenuToolbarLayout.label "Personalizza barra degli strumenti…">
-<!ENTITY appMenuSidebars.label "Barre laterali">
-<!ENTITY appMenuFind.label "Trova…">
-<!ENTITY appMenuUnsorted.label "Segnalibri non catalogati">
-<!ENTITY appMenuWebDeveloper.label "Sviluppo web">
-<!ENTITY appMenuGettingStarted.label "Per iniziare">
-<!ENTITY appMenuSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
-<!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
 <!ENTITY urlbar.accesskey "d">
@@ -410,13 +390,7 @@
 <!ENTITY newTabButton.tooltip "Apri una nuova scheda">
 <!ENTITY newWindowButton.tooltip "Apri una nuova finestra">
 <!ENTITY sidebarCloseButton.tooltip "Chiudi la barra laterale">
-<!ENTITY cutButton.tooltip "Taglia">
-<!ENTITY copyButton.tooltip "Copia">
-<!ENTITY pasteButton.tooltip "Incolla">
 <!ENTITY fullScreenButton.tooltip "Visualizza la finestra a schermo intero">
-<!ENTITY zoomOutButton.tooltip "Riduci zoom">
-<!ENTITY zoomInButton.tooltip "Aumenta zoom">
-<!ENTITY zoomControls.label "Controlli per lo zoom">
 <!ENTITY quitApplicationCmdWin.label "Esci">
 <!ENTITY quitApplicationCmdWin.accesskey "E">
 <!ENTITY goBackCmd.commandKey "[">
@@ -470,8 +444,6 @@
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY addonBarCloseButton.tooltip "Chiudi la barra dei componenti aggiuntivi">
-<!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY socialToolbar.title "Pulsante barra degli strumenti social">
 <!ENTITY social.notLoggedIn.label "Accesso non effettuato">
 <!ENTITY social.ok.label "OK">
@@ -506,3 +478,32 @@
 <!ENTITY pluginActivateNow.label "Consenti adesso">
 <!ENTITY pluginActivateAlways.label "Consenti sempre">
 <!ENTITY pluginBlockNow.label "Blocca plugin">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY addonBarCmd.label "Barra dei componenti aggiuntivi">
+<!ENTITY addonBarCmd.accesskey "c">
+<!ENTITY throbberItem.title "Indicatore attività">
+<!ENTITY appMenuButton.label "Menu">
+<!ENTITY appMenuButton.tooltip "Apri il menu &brandShortName;">
+<!ENTITY feedButton.label "Abbonati">
+<!ENTITY feedButton.tooltip "Abbonati a questa pagina…">
+<!ENTITY bookmarksButton.tooltip "Visualizza i segnalibri">
+<!ENTITY historyButton.tooltip "Visualizza le pagine visitate recentemente">
+<!ENTITY viewTabsOnTop.label "Visualizza le schede in alto">
+<!ENTITY viewTabsOnTop.accesskey "V">
+<!ENTITY appMenuEdit.label "Modifica">
+<!ENTITY appMenuToolbarLayout.label "Personalizza barra degli strumenti…">
+<!ENTITY appMenuSidebars.label "Barre laterali">
+<!ENTITY appMenuFind.label "Trova…">
+<!ENTITY appMenuUnsorted.label "Segnalibri non catalogati">
+<!ENTITY appMenuWebDeveloper.label "Sviluppo web">
+<!ENTITY appMenuGettingStarted.label "Per iniziare">
+<!ENTITY appMenuSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
+<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY cutButton.tooltip "Taglia">
+<!ENTITY copyButton.tooltip "Copia">
+<!ENTITY pasteButton.tooltip "Incolla">
+<!ENTITY zoomOutButton.tooltip "Riduci zoom">
+<!ENTITY zoomInButton.tooltip "Aumenta zoom">
+<!ENTITY zoomControls.label "Controlli per lo zoom">
+<!ENTITY addonBarCloseButton.tooltip "Chiudi la barra dei componenti aggiuntivi">
+<!ENTITY toggleAddonBarCmd.key "/">
