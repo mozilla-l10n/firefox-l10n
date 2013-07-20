@@ -15,7 +15,7 @@
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
 <!ENTITY debuggerUI.showOriginalSource "Mostrar fuentes originales">
 <!ENTITY debuggerUI.showOriginalSource.key "O">
-<!ENTITY debuggerUI.searchPanelTitle "Operadores">
+<!ENTITY debuggerUI.searchPanelOperators "Operadores:">
 <!ENTITY debuggerUI.searchFile "Filtrar scripts">
 <!ENTITY debuggerUI.searchFile.key "P">
 <!ENTITY debuggerUI.searchFile.altkey "Aceptar">
