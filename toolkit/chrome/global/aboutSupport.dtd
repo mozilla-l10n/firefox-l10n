@@ -59,7 +59,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferințe user.js">
-<!ENTITY aboutSupport.userJSDescription "Dosarul profilului conține un <a id='prefs-user-js-link'>fișier user.js</ a>, care include preferințe ce nu au fost create de &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Dosarul profilului conține un <a id='prefs-user-js-link'>fișier user.js</a>, care include preferințe ce nu au fost create de &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafică">
 
