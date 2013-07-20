@@ -188,7 +188,7 @@
 <!ENTITY reading_list_removed "Pagina eliminata da Elenco lettura">
 <!ENTITY reading_list_failed "Impossibile aggiungere la pagina a Elenco lettura">
 <!ENTITY reading_list_duplicate "La pagina è già presente in Elenco lettura">
-<!ENTITY reader "Lettore">
+<!ENTITY page_action_dropmarker_description "Azioni disponibili">
 <!ENTITY masterpassword_create_title "Imposta password principale">
 <!ENTITY masterpassword_remove_title "Rimuovi password principale">
 <!ENTITY masterpassword_password "Password">
@@ -243,3 +243,5 @@
 <!ENTITY updater_downloading_retry2 "Tocca per riprovare">
 <!ENTITY updater_apply_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_apply_select2 "Tocca per aggiornare">
+<!ENTITY enter_guest_mode "Attiva mod. ospite">
+<!ENTITY exit_guest_mode "Disattiva mod. ospite">
