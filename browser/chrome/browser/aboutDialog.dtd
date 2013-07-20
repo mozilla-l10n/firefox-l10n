@@ -38,3 +38,7 @@
 <!ENTITY update.applying "Aplicando anovamientu…">
 <!ENTITY channel.description.start  "Agora mesmo tas usando ">
 <!ENTITY channel.description.end    " , una canal d'anovamientu. ">
+<!ENTITY update.unsupported.start "Nun pues executar más aplicaciones nesti sistema.">
+<!ENTITY update.unsupported.linkText "Deprender más">
+<!ENTITY update.unsupported.end "">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ta anovándose por otra instancia">

@@ -60,8 +60,6 @@
 <!ENTITY enableSearchUpdate.label        "Guetadores">
 <!ENTITY enableSearchUpdate.accesskey    "G">
 <!ENTITY updateApp.label                 "Anovamientos &brandShortName;:">
-<!ENTITY updateAuto.label                "Instalar anovamientos automáticamente (recomendáu: meyora de seguridá)">
-<!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateAutoAddonWarn.label       "Avisame si esto va desactivar dalgún de los mios complementos">
 <!ENTITY updateAutoAddonWarn.accesskey   "t">
 <!ENTITY updateCheck.label               "Comprobar anovamientos, pero dexame elexir si quiero instalalos">
@@ -89,14 +87,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "i">
 <!ENTITY offlineAppRemove.confirm        "Desaniciar conteníu en mou desconeutáu">
 
-<!ENTITY encryptionTab.label             "Cifráu">
 
-<!ENTITY protocols.label                 "Protocolos">
-<!ENTITY useSSL3.label                   "Usar SSL 3.0">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "Usar TLS 1.0">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Certificaos">
 <!ENTITY certSelection.description       "Cuando un sirvidor requiera'l mio certificáu personal:">
 <!ENTITY certs.auto                      "Seleicionar ún automáticamente">
 <!ENTITY certs.auto.accesskey            "l">
@@ -104,8 +95,6 @@
 <!ENTITY certs.ask.accesskey             "g">
 <!ENTITY viewCerts.label                 "Ver certificaos">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "Llistes revocación">
-<!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "Validación">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
@@ -129,3 +118,9 @@
 <!ENTITY crashReporterSection.label "Informe de fallos">
 <!ENTITY crashReporterLearnMore.label "Deprender más">
 <!ENTITY crashReporterDesc.label "&brandShortName; unvia informes de fallu p'ayudar a &vendorShortName; a facer un navegador más estable y seguru">
+<!ENTITY updateAutoMetroWarn.label "(&brandShortName; del estilu Windows 8 nun comprueba la compatibilidá de complementos)">
+<!ENTITY updateAutoMetro.label "Anovar automáticamente dende &brandShortName; d'escritoriu y del estilu Windows 8">
+<!ENTITY updateAutoMetro.accesskey "u">
+<!ENTITY updateAuto1.label "Instalar anovamientos automáticamente (recomendáu: meyora la seguridá)">
+<!ENTITY updateAuto1.accesskey "I">
+<!ENTITY certificateTab.label "Certificaos">

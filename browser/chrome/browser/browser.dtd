@@ -153,7 +153,6 @@
 <!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY errorConsoleCmd.label "Consola d'errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpad.label "Scratchpad">
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">
@@ -509,3 +508,13 @@
 <!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY browserConsoleCmd.label "Consola del navegador">
+<!ENTITY pluginNotification.showAll.label "Amosar too">
+<!ENTITY pluginNotification.showAll.accesskey "M">
+<!ENTITY pluginBlockNow.label "Bloquiar plugin">
+<!ENTITY pluginActivateNow.label "Permitir agora">
+<!ENTITY pluginActivateAlways.label "Permitir y recordar">
+<!ENTITY closeTabsToTheEnd.label "Zarrar llingüetes a la derecha">
+<!ENTITY closeTabsToTheEnd.accesskey "a">
+<!ENTITY chromeDebuggerMenu.label "Depurador del navegador">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey "n">
