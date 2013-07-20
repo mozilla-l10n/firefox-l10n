@@ -252,7 +252,10 @@ size. -->
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reading_list_duplicate "Sidan finns redan i din läslista">
-<!ENTITY reader "Läsaren">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Ytterligare åtgärder">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
 <!ENTITY masterpassword_remove_title "Ta bort huvudlösenord">
