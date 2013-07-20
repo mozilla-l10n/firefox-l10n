@@ -1,0 +1,202 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  splash_settingup "&brandShortName; ynstelle">
+<!ENTITY  splash_bookmarks_history "Wy wurkje jo blêdwizers en skiednis by, wat in pear minuten duorje kin.">
+
+<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
+<!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Topsites">
+<!ENTITY  awesomebar_bookmarks_title "Blêdwizers">
+<!ENTITY  awesomebar_history_title "Skiednis">
+<!ENTITY  awesomebar_search_engine "Sykje nei \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Ungelokrapportearder">
+<!ENTITY  crash_message "&brandShortName; is ferûngelokke. Jo ljepblêden soene toand wurde moatte op jo &brandShortName; begjinside as jo werstarte.">
+<!ENTITY  crash_help_message "Help ús om dit probleem op te lossen!">
+<!ENTITY  crash_send_report_message "Stjoer Mozilla in ûngelokrapport">
+<!ENTITY  crash_include_url "Side-adres meistjoere">
+<!ENTITY  crash_close_label "Slute">
+<!ENTITY  crash_restart_label "&brandShortName; werstarte">
+<!ENTITY  sending_crash_report "Ungelokrapport ferstjoere\u2026">
+<!ENTITY  exit_label "Slute">
+<!ENTITY  continue_label "Trochgean">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;-webapps">
+<!ENTITY  launcher_shortcuts_empty "Gjin webapps fûn">
+
+<!ENTITY choose_file "Bestân kieze">
+
+<!ENTITY awesomebar_default_text "Fier sykterm of adres yn">
+
+<!ENTITY remote_tabs "Syngronisearre ljepblêden">
+<!ENTITY remote_tabs_show_all "Alle ljepblêden toane">
+
+<!ENTITY bookmark "Blêdwizer">
+<!ENTITY bookmark_added "Blêdwizer tafoege">
+<!ENTITY bookmark_removed "Blêdwizer fuortsmiten">
+<!ENTITY bookmark_updated "Blêdwizer bywurke">
+
+<!ENTITY history_today_section "Hjoed">
+<!ENTITY history_yesterday_section "Juster">
+<!ENTITY history_week_section "7 dagen lyn">
+<!ENTITY history_older_section "Alder as 7 dagen">
+
+<!ENTITY reload "Fernije">
+<!ENTITY forward "Foarút">
+<!ENTITY menu "Menu">
+<!ENTITY back "Tebek">
+<!ENTITY stop "Stop">
+<!ENTITY site_security "Sidefeilichheid">
+
+<!ENTITY close_tab "Ljepblêd slute">
+<!ENTITY new_tab "Nij ljepblêd">
+<!ENTITY one_tab "1 ljepblêd">
+<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs "&#037;d ljepblêden">
+<!ENTITY new_tab_opened "Nij ljepblêd iepene">
+
+<!ENTITY settings "Ynstellingen">
+<!ENTITY settings_title "Ynstellingen">
+<!ENTITY pref_category_general "Algemien">
+<!ENTITY pref_category_privacy "Privacy &amp; befeiliging">
+<!ENTITY pref_category_content "Ynhâld">
+<!ENTITY pref_category_importexport "Ymport &amp; eksport">
+<!ENTITY pref_about_firefox "Oer &brandShortName;">
+<!ENTITY pref_do_not_track "Websteeën fertelle my net te folgjen">
+<!ENTITY pref_telemetry "Prestaasjegegevens ferstjoere">
+<!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
+<!ENTITY pref_cookies "Cookies ynskeakelje">
+<!ENTITY pref_char_encoding "Tekenset">
+<!ENTITY pref_char_encoding_on "Menu toane">
+<!ENTITY pref_char_encoding_off "Menu net toane">
+<!ENTITY pref_clear_private_data "Priveegegevens wiskje">
+<!ENTITY pref_plugins "Ynstekkers">
+<!ENTITY pref_plugins_enabled "Ynskeakele">
+<!ENTITY pref_plugins_tap_to_play "Tik om ôf te spyljen">
+<!ENTITY pref_plugins_disabled "Utskeakele">
+<!ENTITY pref_text_size "Tekstgrutte">
+<!ENTITY pref_font_size_tiny "Hiel lyts">
+<!ENTITY pref_font_size_small "Lyts">
+<!ENTITY pref_font_size_medium "Gemiddeld">
+<!ENTITY pref_font_size_large "Grut">
+<!ENTITY pref_font_size_xlarge "Ekstra grut">
+<!ENTITY pref_use_master_password "Haadwachtwurd brûke">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Toan sykfoarstellen">
+<!ENTITY pref_import_android "Ymportearje út Android">
+<!ENTITY pref_private_data_history "Browse &amp; download skiednis">
+<!ENTITY pref_private_data_formdata "Formulier &amp; sykskiednis">
+<!ENTITY pref_private_data_cookies "Cookies">
+<!ENTITY pref_private_data_passwords "Bewarre wachtwurden">
+<!ENTITY pref_private_data_cache "Buffer">
+<!ENTITY pref_private_data_sessions "Aktive lochyns">
+<!ENTITY pref_private_data_offlineApps "Offline websteegegevens">
+<!ENTITY pref_private_data_siteSettings "Sidefoarkarren">
+
+<!ENTITY quit "Ofslute">
+
+<!ENTITY addons "Add-ons">
+<!ENTITY downloads "Downloads">
+<!ENTITY apps "Apps">
+<!ENTITY char_encoding "Tekenset">
+
+<!ENTITY share "Diele">
+<!ENTITY share_title "Diele fia">
+<!ENTITY share_image_failed "Net slagge om dizze ôfbylding te dielen">
+<!ENTITY save_as_pdf "Bewarje as PDF">
+<!ENTITY find_in_page "Sykje op side">
+<!ENTITY desktop_mode "Fersyk desktop webstee">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Sykje op sidea">
+<!ENTITY find_prev "Foarige">
+<!ENTITY find_next "Folgjende">
+<!ENTITY find_close "Slute">
+
+<!ENTITY contextmenu_open_new_tab "Iepenje yn nij ljepblêd">
+<!ENTITY contextmenu_remove_history "Fuortsmite">
+<!ENTITY contextmenu_remove_bookmark "Fuortsmite">
+<!ENTITY contextmenu_add_to_launcher "Tafoegje oan startskerm">
+<!ENTITY contextmenu_share "Diele">
+<!ENTITY contextmenu_pasteandgo "Plakke &amp; iepenje">
+<!ENTITY contextmenu_paste "Plakke">
+<!ENTITY contextmenu_copyurl "Kopiearje adres">
+<!ENTITY contextmenu_edit_bookmark "Bewurkje">
+
+<!-- Localization note (history_removed) : Shown in a toast notificaion
+	 after a page is removed from browser history. -->
+<!ENTITY history_removed "Side fuortsmiten">
+
+<!ENTITY bookmark_edit_title "Blêdwizer bewurkje">
+<!ENTITY bookmark_edit_name "Namme">
+<!ENTITY bookmark_edit_location "Lokaasje">
+<!ENTITY bookmark_edit_keyword "Kaaiwurd">
+
+<!ENTITY site_settings_title        "Webstee-ynstellingen wiskje">
+<!ENTITY site_settings_cancel       "Annulearje">
+<!ENTITY site_settings_clear        "Wiskje">
+<!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
+
+<!ENTITY reading_list "Lêslist">
+<!ENTITY reading_list_added "Side tafoege oan jo lêslist">
+<!ENTITY reading_list_removed "Side fuortsmiten fan jo lêslist">
+<!ENTITY reading_list_failed "Side tafoegje oan jo lêslist mislearre">
+<!ENTITY reader_mode "Lêsmoadus">
+
+<!ENTITY masterpassword_create_title "Haadwachtwurd oanmeitsje">
+<!ENTITY masterpassword_remove_title "Haadwachtwurd fuortsmite">
+<!ENTITY masterpassword_password "Wachtwurd">
+<!ENTITY masterpassword_confirm "Wachtwurd befestigje">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Annulearje">
+<!ENTITY button_clear_data "Gegevens wiskje">
+
+<!ENTITY abouthome_addons_title "Add-ons foar jo &brandShortName;">
+<!ENTITY abouthome_addons_browse "Blêdzje alle &brandShortName; add-ons">
+<!ENTITY abouthome_last_tabs_title "Jo ljepblêden fan de lêste kear">
+<!ENTITY abouthome_last_tabs_open "Iepenje alle ljepblêden fan de lêste kear">
+<!ENTITY abouthome_top_sites_title "Topsites">
+<!ENTITY abouthome_top_sites_browse "Blêdzje al jo topsites">
+<!ENTITY abouthome_no_top_sites "Jo hawwe noch gjin topsites. Tik de Titelbalke om mei sneupen te starten.">
+<!ENTITY abouthome_about_sync "Stel Firefox Sync yn foar tagong ta blêdwizers, skiednis en ljepblêden fan jo oare apparaten">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Bestân kieze">
+<!ENTITY filepicker_audio_title "Kies of nim in lûd op">
+<!ENTITY filepicker_image_title "Kies of meitsje in foto">
+<!ENTITY filepicker_video_title "Kies of nim in fideo op">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Jo binne ferbûn mei">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "dy´t beheard wurdt troch">
+
+<!ENTITY private_data_success "Priveegegevens wiske">
+<!ENTITY private_data_fail "Net alle priveegegevens koenen wiske wurden">
+
+<!ENTITY bookmarkhistory_button_import "Ymportearje">
+<!ENTITY bookmarkhistory_import_both "Ymportearje blêdwizers en skiednis
+                                      út Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ymportearje blêdwizers
+                                           út Android">
+<!ENTITY bookmarkhistory_import_history "Ymportearje skiednis
+                                         út Android">
+<!ENTITY bookmarkhistory_import_wait "In momint...">
+
+<!ENTITY webapp_generic_name "App">

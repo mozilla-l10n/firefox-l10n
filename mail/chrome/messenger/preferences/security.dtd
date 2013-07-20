@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Net-winske berjochten">
 <!ENTITY itemPhishing.label      "E-mailscams">
 <!ENTITY itemPasswords.label     "Wachtwurden">
@@ -5,7 +9,7 @@
 <!ENTITY itemCookies.label       "Webynhâld">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Stel jo standertynstellings foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellings kinne konfigurearre wurde yn Accountynstellings.">
+<!ENTITY junkMail.intro "Stel jo standertynstellingen foar net-winske-berjochtedeteksje yn. Accountspesifike ynstellingen kinne konfigurearre wurde yn Accountynstellingen.">
 <!ENTITY manualMark.label "Wannear ik berjochten markearje as net-winske:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "se ferpleatse nei de map &quot;Net-winske&quot; fan de account">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Berjochten dy't detektearre binne as net-winske, markearje as lêzen">
 <!ENTITY markAsReadOnSpam.accesskey "k">
-<!ENTITY enableJunkLogging.label "Net-winske-berjochtelochboek aktivearje">
-<!ENTITY enableJunkLogging.accesskey "a">
+<!ENTITY enableAdaptiveJunkLogging.label "Selslearende ûnwinskeberjochtenlochboek aktivearje">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "a">
 <!ENTITY openJunkLog.label "Lochboek toane">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens op 'e nij inisjalisearje">
@@ -52,8 +56,11 @@
 <!ENTITY expire.label                   "se ferrinne">
 <!ENTITY close.label                    "ik &brandShortName; ôfslút">
 <!ENTITY askEachTime.label              "freegje my elke kear">
-<!ENTITY cookieExceptions.label         "Utsûnderings…">
+<!ENTITY cookieExceptions.label         "Utsûnderingen…">
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Toan Cookies…">
 <!ENTITY showCookies.accesskey          "T">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Websites litte witte dat ik net folge wurde wol">
+<!ENTITY doNotTrack.accesskey           "f">

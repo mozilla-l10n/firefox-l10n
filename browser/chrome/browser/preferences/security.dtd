@@ -1,4 +1,8 @@
-<!ENTITY  warnAddonInstall.label		"My warskôgje as websteeën tafoegings ynstallearje wolle">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  warnAddonInstall.label		"My warskôgje as websteeën tafoegingen ynstallearje wolle">
 <!ENTITY  warnAddonInstall.accesskey	"M">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
@@ -14,7 +18,7 @@
 <!ENTITY  blockWebForgeries.label		"Blokkearje rapportearre webferfalsking">
 <!ENTITY  blockWebForgeries.accesskey	"B">
 
-<!ENTITY  addonExceptions.label			"Utsûnderings...">
+<!ENTITY  addonExceptions.label			"Utsûnderingen…">
 <!ENTITY  addonExceptions.accesskey		"U">
 
 
@@ -22,12 +26,12 @@
 
 <!ENTITY  rememberPasswords.label		"Wachtwurden foar websteeën ûnthâlde">
 <!ENTITY  rememberPasswords.accesskey	"W">
-<!ENTITY  passwordExceptions.label		"Utsûnderings...">
+<!ENTITY  passwordExceptions.label		"Utsûnderingen…">
 <!ENTITY  passwordExceptions.accesskey	"s">
 
 <!ENTITY  useMasterPassword.label		"In haadwachtwurd brûke">
 <!ENTITY  useMasterPassword.accesskey	"I">
-<!ENTITY  changeMasterPassword.label	"Haadwachtwurd wizigje...">
+<!ENTITY  changeMasterPassword.label	"Haadwachtwurd wizigje…">
 <!ENTITY  changeMasterPassword.accesskey	"a">
 
 <!ENTITY  savedPasswords.label			"Bewarre wachtwurden">

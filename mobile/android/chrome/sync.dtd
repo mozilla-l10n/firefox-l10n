@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Net ferbûn">
+<!ENTITY sync.connect               "Ferbyn">
+<!ENTITY sync.connected             "Ferbûn">
+<!ENTITY sync.details               "Details">
+<!ENTITY sync.deviceName            "Dit apparaat">
+<!ENTITY sync.disconnect            "Ferbining ferbrekke">
+<!ENTITY sync.syncNow               "Sync no">
+
+<!ENTITY sync.setup.title           "Ferbyn mei Sync">
+<!ENTITY sync.setup.pair            "Om te aktivearjen, selektearje “In apparaat keppelje” op jo oare apparaat.">
+<!ENTITY sync.fallback              "Ik bin net ticht by myn kompjûter…">
+<!ENTITY sync.setup.manual          "Jou jo Sync-accountynformaasje">
+<!ENTITY sync.account               "Accountnamme">
+<!ENTITY sync.password              "Wachtwurd">
+<!ENTITY sync.recoveryKey           "Werstelkaai">
+<!ENTITY sync.customServer          "Brûk eigen tsjinner">
+<!ENTITY sync.serverURL             "Tsjinner-URL">
+<!ENTITY sync.setup.connect         "Ferbyn">
+<!ENTITY sync.setup.cancel          "Annulearje">
+<!ENTITY sync.setup.tutorial        "Lit it sjen">
+<!ENTITY sync.setup.waiting2        "Op oare apparaat wachtsje…">
+
+<!ENTITY sync.pair.title            "In apparaat keppelje">
+<!ENTITY sync.pair.description      "Selektearje om jo nije apparaat te aktivearjen &#x0022;Sync ynstelle&#x0022; op it apparaat.">
+<!ENTITY sync.setup.close           "Slute">
+<!ENTITY sync.setup.waitingdownload "Jo gegevens wurde no op de achtergrûn ynladen. Jo kinne dit finster op elk winske momint slute.">

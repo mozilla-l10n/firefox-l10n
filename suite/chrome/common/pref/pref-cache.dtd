@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.cache.title "Buffer">
 <!ENTITY pref.cache.caption "Bufferopties instellen">
 <!ENTITY cachePara "Kopieën van regelmatig bezochte webpagina’s worden opgeslagen in de buffer op uw harde schijf. (Op vernieuwen klikken laadt altijd de laatste versie van een pagina.)">

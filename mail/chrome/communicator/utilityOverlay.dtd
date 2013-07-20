@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
@@ -29,7 +33,7 @@
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "Opsjes...">
+<!ENTITY preferencesCmd.label "Opsjes…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey "k">
@@ -41,7 +45,7 @@
 <!ENTITY showTaskbarCmd.label "Steatbalke">
 <!ENTITY showTaskbarCmd.accesskey "S">
 
-<!ENTITY proxy.label "Proxykonfiguraasje...">
+<!ENTITY proxy.label "Proxykonfiguraasje…">
 <!ENTITY proxy.accesskey "P">
 
 <!ENTITY closeCmd.label "Slute">

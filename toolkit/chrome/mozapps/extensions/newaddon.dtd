@@ -1,7 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY title           "Ynstallearje tafoeging">
 <!ENTITY intro           "In oar programma op jo kompjûter wol
                           &brandShortName; oanpasse mei de folgjende tafoeging:">
-<!ENTITY warning         "Ynstallearje allinnich tafoegings fan auteurs dy't jo fertrouwe.">
+<!ENTITY warning         "Ynstallearje allinnich tafoegingen fan auteurs dy't jo fertrouwe.">
 <!ENTITY allow           "Dizze ynstallaasje tastean">
 <!ENTITY later           "Jo kinne altyd fan gedachten feroarje troch nei
                           de tafoegingsbehearder te gean.">

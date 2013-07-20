@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Namme:">
 <!ENTITY     props.value.label              "Ynformaasje:">
 <!ENTITY     props.domain.label             "Tsjinner:">
 <!ENTITY     props.path.label               "Paad:">
-<!ENTITY     props.secure.label             "Ferstjoert oan:">
+<!ENTITY     props.secure.label             "Ferstjoerd oan:">
 <!ENTITY     props.expires.label            "Ferrint:">
-<!ENTITY     props.policy.label             "Belied:">
 
 <!ENTITY     button.allow.label             "Tastean">
 <!ENTITY     button.allow.accesskey         "a">

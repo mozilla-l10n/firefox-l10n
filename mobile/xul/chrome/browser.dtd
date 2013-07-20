@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext      "Typ sykwurd of adres">
+
+<!ENTITY back.label            "Tebek">
+<!ENTITY forward.label         "Foarút">
+<!ENTITY reload.label          "Werlade">
+<!ENTITY stop.label            "Stop">
+<!ENTITY go.label              "Gean">
+<!ENTITY star.label            "Stjer">
+
+<!ENTITY showTabs.label        "Ljepblêden toane">
+<!ENTITY newtab.label          "Nij ljepblêd">
+<!ENTITY closetab.label        "Ljepblêd slute">
+
+<!ENTITY cut.label             "Knippe">
+<!ENTITY copy.label            "Kopiearje">
+<!ENTITY copyAll.label         "Kopiearje alles">
+<!ENTITY copylink.label        "Kopiearje keppelinglokaasje">
+<!ENTITY paste.label           "Plakke">
+<!ENTITY pasteAndGo.label      "Plakke &amp; Gean">
+<!ENTITY delete.label          "Fuortsmite">
+<!ENTITY selectAll.label       "Selektearje alles">
+<!ENTITY noSuggestions.label   "(Gjin foarstellen)">
+<!ENTITY addToDictionary.label "Foech ta oan wurdlist">
+<!ENTITY inputMethod.label     "Selektearje Ynfolmetoade">
+
+<!ENTITY allPagesHeader.label      "Alle sides">
+<!ENTITY bookmarksHeader.label     "Blêdwizers">
+<!ENTITY historyHeader.label       "Skiednis">
+<!ENTITY desktopHeader.label       "Búro-PC">
+
+<!ENTITY editBookmarkDialog.title  "Blêdwizer bewurkje">
+<!ENTITY editBookmarkDone.label    "Klear">
+<!ENTITY editBookmarkTags.label    "Foech hjir labels ta">
+
+<!ENTITY selectHelper.done         "Klear">
+
+<!ENTITY addonsHeader.label        "Tafoegings">
+<!ENTITY addonsLocal.label         "Jo Tafoegings">
+<!ENTITY addonsUpdate.label        "Fernij">
+<!ENTITY addonsRepo.label          "Krij Tafoegings">
+<!ENTITY addonsRecommended.label   "Sjoch oanrêt">
+<!ENTITY addonsSearch.label        "Sykje katalogus">
+<!ENTITY addonsSearch2.emptytext   "Sykje yn katalogus">
+<!ENTITY addonsSearch.recommended  "Oanrikkemandearre">
+
+<!ENTITY addonOptions.label        "Opsjes">
+<!ENTITY addonEnable.label         "Ynskeakelje">
+<!ENTITY addonDisable.label        "Utskeakelje">
+<!ENTITY addonInstall2.label       "Tafoegje oan &brandShortName;">
+<!ENTITY addonUninstall.label      "De-ynstallearje">
+<!ENTITY addonCancel.label         "Annulearje">
+<!ENTITY addonShowPage.label       "Gean nei side">
+
+<!ENTITY downloadsHeader.label     "Ynladen bestannen">
+<!ENTITY downloadShowPage.label    "Gean nei side">
+<!ENTITY downloadShow2.label       "Fyn">
+<!ENTITY downloadOpen2.label       "Iepenje">
+<!ENTITY downloadCancel.label      "Annulearje">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Fierder">
+<!ENTITY downloadRetry.label       "Opnij">
+<!ENTITY downloadRemove.label      "Fuortsmite">
+<!ENTITY downloadDelete.label      "Fuortsmite">
+<!ENTITY downloadFailed.label      "Mislearre">
+
+<!ENTITY noResults.label           "Gjin resultaten">
+<!ENTITY allBookmarks.label        "Besjoch alle blêdwizers">
+
+<!ENTITY bookmarkPopup.label       "Blêdwizer bewarre">
+<!ENTITY bookmarkRemove.label      "Fuortsmite">
+<!ENTITY bookmarkEdit.label        "Bewurkje">
+<!ENTITY bookmarkShortcut.label    "Tafoegje oan startskerm">
+
+<!ENTITY identity.unverifiedsite2  "Dit webstee jout gjin identiteitsynformaasje.">
+<!ENTITY identity.connectedTo2 	   "Ferbûn mei">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 		   "beheard troch">
+
+<!ENTITY consoleHeader.label       "Flaterkonsôle">
+<!ENTITY consoleAll.label          "Alles">
+<!ENTITY consoleErrors.label       "Flaters">
+<!ENTITY consoleWarnings.label     "Warskôgingen">
+<!ENTITY consoleMessages.label     "Berjochten">
+<!ENTITY consoleCodeEval.label     "Koade:">
+<!ENTITY consoleClear.label        "Wiskje">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Boarnebestân:">
+<!ENTITY consoleErrLine.label      "Rige:">
+<!ENTITY consoleErrColumn.label    "Kolom:">
+
+<!ENTITY contextOpenInNewTab.label "Iepenje yn nij ljepblêd">
+<!ENTITY contextSaveImage.label    "Ofbylding bewarje">
+<!ENTITY contextCopyLink.label        "Keppeling kopiearje">
+<!ENTITY contextCopyEmail.label       "E-mailadres kopiearje">
+<!ENTITY contextCopyPhone.label       "Telefoannûmer kopiearje">
+<!ENTITY contextCopyImageLocation.label       "Ofbyldingslokaasje kopiearje">
+<!ENTITY contextShareLink.label       "Keppeling diele">
+<!ENTITY contextShareImage.label      "Ofbylding diele">
+<!ENTITY contextBookmarkLink.label    "Blêdwizer meitsje">
+<!ENTITY contextSaveVideo.label       "Fideo bewarje">
+<!ENTITY contextShareVideo.label      "Diel fideo">
+<!ENTITY contextPlayMedia.label       "Spylje">
+<!ENTITY contextPauseMedia.label      "Pauze">
+<!ENTITY contextFullScreen.label      "Folslein skerm">
+<!ENTITY contextEditBookmark.label    "Bewurkje">
+<!ENTITY contextRemoveBookmark.label  "Fuortsmite">
+<!ENTITY contextShortcutBookmark.label "Tafoegje oan startskerm">
+
+<!ENTITY pageactions.saveas.pdf      "Bewarje as PDF">
+<!ENTITY pageactions.share.page      "Side diele">
+<!ENTITY pageactions.password.forget "Wachtwurd ferjitte">
+<!ENTITY pageactions.quit            "Slute">
+<!ENTITY pageactions.reset           "Websteefoarkarren wiskje">
+<!ENTITY pageactions.findInPage      "Fyn op side">
+<!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
+<!ENTITY pageactions.charEncoding    "Tekenset">
+
+<!ENTITY appMenu.siteOptions         "Webstee-opsjes">

@@ -1,14 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Ferbiningsynstellings">
+
+<!ENTITY  connectionsDialog.title       "Ferbiningsynstellingen">
 <!ENTITY  window.width                  "39em">
 <!ENTITY  window.macWidth               "41em">
 
 <!ENTITY  proxyTitle.label              "Proxy's foar tagong ta ynternet ynstelle">
 <!ENTITY  noProxyTypeRadio.label         "Gjin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey     "G">
-<!ENTITY  systemTypeRadio.label         "Brûk systeem proxy ynstellings">
+<!ENTITY  systemTypeRadio.label         "Brûk systeem proxy ynstellingen">
 <!ENTITY  systemTypeRadio.accesskey     "B">
-<!ENTITY  WPADTypeRadio.label           "Proxy-ynstellings automatysk foar dit netwurk detektearje">
+<!ENTITY  WPADTypeRadio.label           "Proxy-ynstellingen automatysk foar dit netwurk detektearje">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Hânmjittige proxykonfiguraasje">
 <!ENTITY  manualTypeRadio.accesskey     "m">

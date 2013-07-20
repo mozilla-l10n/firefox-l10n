@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Opstelle &amp; adressearje">
 <!ENTITY addressingGroupTitle.label "Adressearing">
 <!ENTITY addressingText.label      "By it opsykjen fan adressen:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Myn algiemene LDAP-tsjinnerynstellings brûke foar dizze account">
+<!ENTITY useGlobal.label           "Myn algiemene LDAP-tsjinnerynstellingen brûke foar dit account">
 <!ENTITY useGlobal.accesskey       "M">
 <!ENTITY editDirectories.label     "Mappen bewurkje…">
 <!ENTITY editDirectories.accesskey "B">
@@ -35,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "U">
 <!ENTITY includeSigOnForward.label            "Undertekening brûke by it trochstjoeren">
 <!ENTITY includeSigOnForward.accesskey        "t">
+
+<!ENTITY globalComposingPrefs.label           "Algemiene opstelynstellingen…">
+<!ENTITY globalComposingPrefs.accesskey       "g">
+
+<!ENTITY globalAddressingPrefs.label          "Algemiene adressearringsynstellingen…">
+<!ENTITY globalAddressingPrefs.accesskey      "i">

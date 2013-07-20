@@ -1,7 +1,11 @@
-<!ENTITY identityDialog.style "breedte: 67ch;">
-<!ENTITY identityTitle.label "Identiteitynstellings">
-<!ENTITY identityListDesc.label "Konfigurearje de ynstellings foar dizze identiteit:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY settingsTab.label "Ynstellings">
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "Identiteitsynstellingen">
+<!ENTITY identityListDesc.label "Konfigurearje de ynstellingen foar dizze identiteit:">
+
+<!ENTITY settingsTab.label "Ynstellingen">
 <!ENTITY copiesFoldersTab.label "Kopyen &amp; mappen">
 <!ENTITY addressingTab.label "Opstelle &amp; adressearing">

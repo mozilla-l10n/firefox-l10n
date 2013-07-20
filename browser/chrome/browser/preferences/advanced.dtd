@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label               "Algemien">
@@ -20,27 +24,46 @@
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
-<!ENTITY checkSpelling.accesskey         "s">
+<!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Systeemstanderts">
 <!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "W">
-<!ENTITY checkNow.label                  "No kontrolearje">
-<!ENTITY checkNow.accesskey              "k">
-<!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
-<!ENTITY submitCrashes.accesskey         "U">
-<!ENTITY submitTelemetry.label           "Stoer prestaasjegegevens">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY setDefault.label                "Meitsje &brandShortName; de standertbrowser">
+<!ENTITY setDefault.accesskey            "d">
+<!ENTITY isDefault.label                 "&brandShortName; is no jo standertbrowser">
+
+<!ENTITY dataChoicesTab.label            "Gegevensopsjes">
+
+<!ENTITY healthReportSection.label       "&brandShortName;-sûnensrapport">
+<!ENTITY healthReportDesc.label          "Helpt jo jo browserprestaasjes te begripen en dielt gegevens mei &vendorShortName; oer jo browsersûnens">
+<!ENTITY enableHealthReport.label        "&brandShortName;-sûnensrapport ynskeakelje">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Mear ynfo">
+
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Dielt prestaasjes-, hardware-, gebrûk- en oanpassingsgegevens oer jo browser mei &vendorShortName; om &brandShortName; te helpen ferbetterjen">
+<!ENTITY enableTelemetry.label           "Telemetry ynskeakelje">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Mear ynfo ">
+
+<!ENTITY crashReporterSection.label      "Ungelokrapportearder ">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ferstjoerd ûngelokrapporten om &vendorShortName; te helpen jo browser noch stabiler en feiliger te meitsjen">
+<!ENTITY enableCrashReporter.label       "Ungelokrapportearder ynskeakelje">
+<!ENTITY enableCrashReporter.accesskey   "U">
+<!ENTITY crashReporterLearnMore.label    "Mear ynfo ">
 
 <!ENTITY networkTab.label                "Netwurk">
 
 <!ENTITY connection.label                "Ferbining">
 
-<!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei Ynternet">
-<!ENTITY connectionSettings.label        "Ynstellings...">
+<!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei ynternet">
+<!ENTITY connectionSettings.label        "Ynstellingen…">
 <!ENTITY connectionSettings.accesskey    "Y">
 
-<!ENTITY offlineStorage.label            "Opslach sûnder ferbining">
+<!ENTITY httpCache.label                 "Buffere webynhâld">
+
+<!ENTITY offlineStorage2.label           "Offlinewebynhâld en brûkersgegevens">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,47 +76,50 @@
 <!ENTITY limitCacheSizeAfter.label       "MB romte">
 <!ENTITY clearCacheNow.label            "No leechmeitsje">
 <!ENTITY clearCacheNow.accesskey        "l">
+<!ENTITY clearOfflineAppCacheNow.label   "No wiskje">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Automatysk bufferbehear net brûke">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                "Fernijing">
 
-<!ENTITY autoCheck.label       			"Automatysk kontrolearje op nije ferzjes fan:">
-<!ENTITY enableAppUpdate.label        	"&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "F">
-<!ENTITY enableAddonsUpdate2.label      "Tafoegings">
-<!ENTITY enableAddonsUpdate2.accesskey  "T">
-<!ENTITY enableSearchUpdate.label       "Sykmasines">
-<!ENTITY enableSearchUpdate.accesskey   "i">
-<!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn binne,">
-<!ENTITY askMe.label                    "My freegje wat ik dwaan wol">
-<!ENTITY askMe.accesskey                "r">
-<!ENTITY modeAutomatic.label            "Automatysk de fernijing ynlade en ynstallearje">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit útwreidings of tema’s útskeakelje sil">
-<!ENTITY modeAutoAddonWarn.accesskey    "w">
+<!ENTITY updateApp.label                 "&brandShortName;-fernijingen:">
+<!ENTITY updateAuto1.label                "Fernijingen automatysk ynstallearje (oanrikkemandearre: ferbettere feilichheid)">
+<!ENTITY updateAuto1.accesskey            "F">
+<!ENTITY updateAutoMetro.label           "Automatysk fernije fan desktop en Windows 8-styl &brandShortName;">
+<!ENTITY updateAutoMetro.accesskey       "s">
+<!ENTITY updateCheck.label               "Kontrolearje op fernijingen mar lit my kieze oft ik se ynstallearje wol">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Noait kontrolearje op fernijingen (net oanrikkemandearre: feilichheidsrisiko)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "My warskôgje as dit ien fan myn tafoegingen útskeakelje sil">
+<!ENTITY updateAutoAddonWarn.accesskey   "w">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8-styl &brandShortName; kontrolearret net op add-on kompatibiliteit)">
+
 <!ENTITY updateHistory.label            "Fernijingsskiednis sjen litte">
-<!ENTITY updateHistory.accesskey        "s">
+<!ENTITY updateHistory.accesskey        "l">
+
+<!ENTITY useService.label                "Brûk in achtergrûntsjinst om fernijingen te ynstallearjen">
+<!ENTITY useService.accesskey            "a">
+
+<!ENTITY updateOthers.label              "Automatysk fernijing:">
+<!ENTITY enableSearchUpdate.label        "Sykmasines">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "My fertelle as in webstee freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineNotify.accesskey         "e">
-<!ENTITY offlineNotifyExceptions.label   "Utsûnderings">
+<!ENTITY offlineNotifyExceptions.label   "Utsûnderingen…">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList.label           "De folgjende websteeën hawwe gegevens ynstallearre foar gebrûk as jo gjin ferbining hawwe">
+<!ENTITY offlineAppsList2.label          "De folgjende websteeën hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Fuortsmite...">
+<!ENTITY offlineAppsListRemove.label     "Fuortsmite…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
-<!ENTITY encryptionTab.label             "Fersifering">
-
-<!ENTITY protocols.label                "Protokollen">
-<!ENTITY useSSL3.label                "SSL 3.0 brûke">
-<!ENTITY useSSL3.accesskey              "3">
-<!ENTITY useTLS1.label                "TLS 1.0 brûke">
-<!ENTITY useTLS1.accesskey              "1">
-<!ENTITY certificates.label             "Sertifikaten">
+<!ENTITY certificateTab.label            "Sertifikaten">
 <!ENTITY certSelection.description       "As in webstee in sertifikaat fereasket:">
 <!ENTITY certs.auto              "Automatysk ien selektearje">
 <!ENTITY certs.auto.accesskey      "A">
@@ -101,8 +127,6 @@
 <!ENTITY certs.ask.accesskey       "e">
 <!ENTITY viewCerts.label         "Sertifikaten besjen">
 <!ENTITY viewCerts.accesskey     "S">
-<!ENTITY viewCRLs.label                 "Ynlûklisten">
-<!ENTITY viewCRLs.accesskey             "Y">
 <!ENTITY verify2.label                 "Ferifikaasje">
 <!ENTITY verify2.accesskey             "F">
 <!ENTITY viewSecurityDevices.label      "Feilichheidsapparaten">

@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lightning.toolbar.calendar.name "Aginda-arkbalke">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "A">
+<!ENTITY lightning.toolbar.task.name "Taakarkbalke">
+<!ENTITY lightning.toolbar.task.name.accesskey "T">
+
+<!ENTITY lightning.toolbar.sync.label "Syngronisearje">
+<!ENTITY lightning.toolbar.delete.label "Fuortsmite">
+<!ENTITY lightning.toolbar.edit.label "Bewurkje">
+<!ENTITY lightning.toolbar.gototoday.label "Gean nei hjoed">
+<!ENTITY lightning.toolbar.print.label "Ofdrukke">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.calendar.label     "Aginda">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Wikselje nei it agindaljepblêd">
+<!ENTITY lightning.toolbar.calendar.accesskey "n">
+<!ENTITY lightning.toolbar.task.label         "Taken">
+<!ENTITY lightning.toolbar.task.tooltip       "Wikselje nei it takenljepblêd">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Barren">
+<!ENTITY lightning.toolbar.newtask.label      "Taak">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dei">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Wike">
+<!ENTITY lightning.toolbar.week.accesskey            "k">
+<!ENTITY lightning.toolbar.multiweek.label           "Mear wiken">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "e">
+<!ENTITY lightning.toolbar.month.label               "Moanne">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "It &brandShortName;-menu toane">

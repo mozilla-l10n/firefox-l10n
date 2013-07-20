@@ -1,9 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; ynstelle">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "Mei &syncBrand.fullName.label; kinne jo jo skiednis, blêdwizers, wachtwurden en iepen ljepblêden tusken al jo apparaten benaderje.">
-
-<!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Bywurkje">
@@ -12,14 +14,14 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account beheare">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Toan kwota">
-<!ENTITY changePassword2.label         "Wachtwurd wizigje…">
+<!ENTITY viewQuota.label              "Kwota besjen">
+<!ENTITY changePassword2.label        "Wachtwurd wizigje…">
 <!ENTITY myRecoveryKey.label          "Myn werstelkaai">
-<!ENTITY resetSync2.label              "Sync op 'e nij ynstelle…">
+<!ENTITY resetSync2.label             "Sync werinisjalisearje…">
 
-<!ENTITY addDevice.label              "In apparaat tafoegje">
+<!ENTITY pairDevice.label             "In apparaat keppelje">
 
-<!ENTITY syncMy.label               "Sync myn">
+<!ENTITY syncMy.label               "Syngronisearje">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "w">
 <!ENTITY engine.tabs.label          "Ljepblêden">
@@ -30,10 +32,12 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Kompjûternamme:">
-<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY syncDeviceName.label       "Apparaatnamme:">
+<!ENTITY syncDeviceName.accesskey   "p">
 <!ENTITY unlinkDevice.label           "Dit apparaat ûntkeppelje">
 
 <!-- Footer stuff -->

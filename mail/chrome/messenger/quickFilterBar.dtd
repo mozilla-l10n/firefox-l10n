@@ -1,3 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (quickFilterBar.qfbShowFilterBar.label):
+     The label  for the button on the tab bar that toggles the visibility of
+     the quick filter bar.
+     -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "Fluchfilter">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -157,8 +168,9 @@
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
-     linux (which use the control key).  This should match the value of
-     quickFilterBar.show.key above.
+     linux (which use the control key).  We use the keybinding for cmd_find
+     used by the find-in-message mechanism, so that's the letter to indicate
+     if you don't use 'f' for your localization.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
          "&lt;Ctrl+Shift+K&gt;">
@@ -169,6 +181,31 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Label filtermoadus">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Elk fan">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Op syn minst moat ien fan de selektearre labelkritearia foldwaan">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Alle fan">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Alle selektearre labelkritearia moatte foldwaan">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.

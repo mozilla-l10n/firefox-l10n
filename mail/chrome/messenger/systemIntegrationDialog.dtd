@@ -1,9 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY systemIntegration.title  "Systeemyntegraasje">
-<!ENTITY defaultClient.intro  "&brandShortName; as de standertclient brûke foar:">
+<!ENTITY acceptIntegration.label  "As standert ynstelle">
+<!ENTITY cancelIntegration.label  "Yntegraasje oerslaan">
+<!ENTITY cancelIntegration2.label  "Annulearje">
+<!ENTITY defaultClient.intro  "&brandShortName; as standertprogramma brûke foar:">
 
 <!ENTITY email.label "E-mail">
 <!ENTITY newsgroups.label "Nijsgroepen">
 <!ENTITY feeds.label "Feeds">
+
+<!ENTITY unsetDefault.tooltip "It is net mooglik om &brandShortName; as de standertclient yn te stellen binnen &brandShortName;. Om in oare tapassing as standert yn te stellen moatte jo it 'Ynstelle as standert' dialoochfinster brûke.">
 
 <!ENTITY checkOnStartup.label "Dizze kontrole altyd útfiere by it starten fan &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "D">

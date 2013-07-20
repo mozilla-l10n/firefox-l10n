@@ -1,7 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Befeiligingsynstellings">
-<!ENTITY serverSettings.label "Tsjinnerynstellings">
+<!ENTITY messageStorage.label "Berjochtenopslach">
+<!ENTITY securitySettings.label "Befeiligingsynstellingen">
+<!ENTITY serverSettings.label "Tsjinnerynstellingen">
 <!ENTITY serverType.label "Tsjinnertype:">
 <!ENTITY serverName.label "Tsjinnernamme:">
 <!ENTITY serverName.accesskey "T">
@@ -76,3 +81,6 @@
 <!ENTITY newsrcPicker.label "newsrc-bestân selektearje">
 <!ENTITY browseNewsrc.label "Blêdzje…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Accountynstellingen">
+<!ENTITY accountSettingsDesc.label "Dit is in spesjaal account. Der binne gjin identiteiten mei ferbûn.">

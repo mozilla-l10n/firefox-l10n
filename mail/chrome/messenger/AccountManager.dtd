@@ -1,11 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Accountynstellings">
+<!ENTITY accountManagerTitle.label "Accountynstellingen">
 
 <!ENTITY accountActionsButton.label "Accountaksjes">
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "E-mailaccount tafoegje…">
 <!ENTITY addMailAccountButton.accesskey "E">
+<!ENTITY addIMAccountButton.label "Chataccount tafoegje…">
+<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Feedaccount tafoegje…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "In oar account tafoegje…">
 <!ENTITY addOtherAccountButton.accesskey "I">
 <!ENTITY setDefaultButton.label "Ynstelle as standert">
@@ -22,5 +30,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 64em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountTree.width "width: 31ch;">
