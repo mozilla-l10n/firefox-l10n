@@ -8,8 +8,8 @@
 
 <!ENTITY cookiePolicy.label             "Cookie-Akzeptanzregeln">
 
-<!ENTITY disableCookies.label           "Keine Cookies akzeptieren">
-<!ENTITY disableCookies.accesskey       "K">
+<!ENTITY disableCookies.label           "Cookies blockieren">
+<!ENTITY disableCookies.accesskey       "k">
 
 <!ENTITY accNo3rdPartyCookies.label     "Cookies nur von direkt aufgerufener Website erlauben (keine Cookies von Drittanbietern)">
 <!ENTITY accNo3rdPartyCookies.accesskey "d">
@@ -17,7 +17,7 @@
 <!ENTITY acc3rdPartyVisited.label       "Cookies von Drittanbietern nur für zuvor besuchte Webseiten zulassen">
 <!ENTITY acc3rdPartyVisited.accesskey   "C">
 
-<!ENTITY accAllCookies.label            "Alle Cookies deaktivieren">
+<!ENTITY accAllCookies.label            "Alle Cookies erlauben">
 <!ENTITY accAllCookies.accesskey        "A">
 
 <!ENTITY cookieRetentionPolicy.label    "Regeln für Cookie-Lebensdauer">
