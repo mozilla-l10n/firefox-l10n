@@ -48,6 +48,8 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
+<!ENTITY debuggerUI.showOriginalSource      "Бастапқы кодтарды көрсету">
+<!ENTITY debuggerUI.showOriginalSource.key  "с">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 
@@ -66,6 +68,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
+<!ENTITY debuggerUI.searchFunction      "Функция анықтамасын іздеу">
+<!ENTITY debuggerUI.searchFunction.key  "н">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
@@ -84,6 +88,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
+<!ENTITY debuggerUI.focusVariables      "Айнымалылар ағашына фокус орнату">
+<!ENTITY debuggerUI.focusVariables.key  "й">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 

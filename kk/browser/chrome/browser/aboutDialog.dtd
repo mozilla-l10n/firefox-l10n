@@ -48,6 +48,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Жаңарту мүмкіндігін жүйелік администраторыңыз сөндірген">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; басқа экземплярмен жаңартылуда">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -71,6 +72,8 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
+<!ENTITY update.unsupported.start    "Бұл жүйе үшін болашақ жаңартуларды орната алмайсыз. ">
+<!ENTITY update.unsupported.linkText "Көбірек білу">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

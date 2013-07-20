@@ -22,6 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox-ты өзіңізге лайықты етіп баптауға болады. <a>Мыңдаған кеңейтулер арасынан таңдаңыз</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; - коммерциялық емес Mozilla Foundation ұйымы жасайтын тегін және кодтары ашық бағдарламалық қамтама. <a>Құқықтарыңыз жөнінде біліңіз…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Бетбелгілер">
 <!ENTITY abouthome.historyButton.label   "Тарихы">

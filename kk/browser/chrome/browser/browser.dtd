@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "Оң жақтан беттерді жабу">
+<!ENTITY  closeTabsToTheEnd.accesskey        "О">
 <!ENTITY  closeOtherTabs.label               "Басқа беттерді жабу">
 <!ENTITY  closeOtherTabs.accesskey           "с">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -119,18 +120,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Б">
 <!ENTITY bookmarkThisPageCmd.label "Парақты бетбелгілерге қосу">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Бұл бетпен бөлісу">
+<!ENTITY sharePageCmd.commandkey "с">
+<!ENTITY sharePageCmd.accesskey "с">
+<!ENTITY shareLinkCmd.label "Бұл сілтемемен бөлісу">
+<!ENTITY shareLinkCmd.accesskey "с">
+<!ENTITY shareImageCmd.label "Бұл суретпен бөлісу">
+<!ENTITY shareImageCmd.accesskey "с">
+<!ENTITY shareSelectCmd.label "Таңдалғанмен бөлісу">
+<!ENTITY shareSelectCmd.accesskey "с">
+<!ENTITY shareVideoCmd.label "Бұл видеомен бөлісу">
+<!ENTITY shareVideoCmd.accesskey "с">
 <!ENTITY subscribeToPageMenupopup.label "Жаналық таспасына жазылу">
 <!ENTITY subscribeToPageMenuitem.label "Жаналықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
@@ -204,7 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Жүктемелер">
 <!ENTITY downloads.tooltip            "Ағымдағы жүктемелердің орындалуын көрсету">
 <!ENTITY downloads.accesskey          "Ж">
-
+<!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Қосымшалар">
 <!ENTITY addons.accesskey             "с">
@@ -213,22 +214,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Веб өндіруші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
 
-
+<!ENTITY devtoolsConnect.label        "Байланысу…">
+<!ENTITY devtoolsConnect.accesskey    "й">
 
 <!ENTITY errorConsoleCmd.label        "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey    "к">
 
 <!ENTITY remoteWebConsoleCmd.label    "Қашықтағы веб консолі">
 
-
-
+<!ENTITY browserConsoleCmd.label      "Браузер консолі">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "Б">
 
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
 
 <!ENTITY responsiveDesignTool.label   "Адаптивті дизайн">
 <!ENTITY responsiveDesignTool.accesskey "А">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -247,14 +250,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
 
+<!ENTITY chromeDebuggerMenu.label       "Браузер жөндеушісі">
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
 <!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
 <!ENTITY devToolbarMenu.accesskey          "п">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
+<!ENTITY devToolboxMenuItem.label          "Саймандарды көрсету/жасыру">
+<!ENTITY devToolboxMenuItem.accesskey      "с">
 
-
-
+<!ENTITY devToolbarToolsButton.tooltip     "Өндеуші саймандарын көрсету/жасыру">
 <!ENTITY devToolbarOtherToolsButton.label  "Көбірек саймандар">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Көбірек саймандарды алу">
@@ -263,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
 <!ENTITY newPrivateWindow.label     "Жаңа жекелік терезе">
 <!ENTITY newPrivateWindow.accesskey "к">
@@ -280,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ю"> 
 <!ENTITY copyCmd.label            "Көшіру">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ш"> 
 <!ENTITY pasteCmd.label           "Кірістіру">  
 <!ENTITY pasteCmd.key           "V">  
@@ -298,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Соңғы тарихты өшіру…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Түрі"> 
 <!ENTITY viewMenu.accesskey       "р"> 
@@ -321,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyHomeCmd.label "Үй беті">
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
-
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Түзету">
 <!ENTITY appMenuCustomize.label "Баптау">
@@ -335,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "С">
 
 <!ENTITY openCmd.commandkey           "l">
-
+<!ENTITY urlbar.placeholder2          "Іздеу үшін сұранымды немесе адресті енгізіңіз">
 <!ENTITY urlbar.accesskey             "з">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
 <!-- 
@@ -369,8 +376,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "б">
 <!ENTITY openLinkCmd.label            "Сілтемені жаңа терезеде ашу">
 <!ENTITY openLinkCmd.accesskey        "т">
-
-
+<!ENTITY openLinkInPrivateWindowCmd.label "Сілтемені жаңа жекелік терезесінде ашу">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "к">
 <!ENTITY openLinkCmdInCurrent.label     "Сілтемені ашу">
 <!ENTITY openLinkCmdInCurrent.accesskey "С">
 <!ENTITY openFrameCmdInTab.label      "Фреймді жаңа бетте ашу">
@@ -419,7 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "й">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "т">
-
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Фреймді қалайша сақтау…">
 <!ENTITY saveFrameCmd.accesskey       "е">
 <!ENTITY printFrameCmd.label          "Фреймді баспаға шығару…">
@@ -438,10 +445,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "В">
 <!ENTITY emailAudioCmd.label          "Аудионы эл. поштамен жіберу…">
 <!ENTITY emailAudioCmd.accesskey      "А">
-
-
-
-
+<!ENTITY playPluginCmd.label          "Бұл плагинді белсендіру">
+<!ENTITY playPluginCmd.accesskey      "с">
+<!ENTITY hidePluginCmd.label          "Бұл плагинді жасыру">
+<!ENTITY hidePluginCmd.accesskey      "ы">
 <!ENTITY copyLinkCmd.label            "Сілтемені көшіру">
 <!ENTITY copyLinkCmd.accesskey        "ш">
 <!ENTITY copyImageCmd.label           "Суреттің сілтемесін көшіру">
@@ -472,18 +479,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Д">
 <!ENTITY mediaUnmute.label           "Даусын қосу">
 <!ENTITY mediaUnmute.accesskey       "Д">
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate.label     "Ойнату жылдамдығы">
+<!ENTITY mediaPlaybackRate.accesskey "й">
+<!ENTITY mediaPlaybackRate050x.label "Баяу (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "я">
+<!ENTITY mediaPlaybackRate100x.label "Қалыпты жылдамдық">
+<!ENTITY mediaPlaybackRate100x.accesskey "л">
+<!ENTITY mediaPlaybackRate150x.label "Үдетілген (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "д">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x.label "Өте жылдам (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "е">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -535,7 +543,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Жаңа терезені ашу">
 <!ENTITY sidebarCloseButton.tooltip     "Бүйір панелін жабу">
 
-<!ENTITY cutButton.tooltip              "Қию">
+<!ENTITY cutButton.tooltip              "Қиып алу">
 <!ENTITY copyButton.tooltip             "Көшіру">
 <!ENTITY pasteButton.tooltip            "Қірістіру">
 
@@ -553,6 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "Ш">
 <!ENTITY quitApplicationCmdMac.label    "&brandShortName; шығу">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Жабу">  
 <!ENTITY closeCmd.key                   "W">  
@@ -641,31 +650,43 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Бүйір панелін көрсету">
 <!ENTITY social.toggleSidebar.accesskey "Б">
 
+<!ENTITY social.addons.label "Қызметтерді басқару…">
 
 <!ENTITY social.toggleNotifications.label "Хабарламаларды көрсету">
 <!ENTITY social.toggleNotifications.accesskey "Х">
 
-
-
-
-
+<!ENTITY social.activated.description "<label/> ұсынатын қызметтер іске қосылған. Қызметтер үшін баптауларды <label class='text-link'>Қосымшалар басқарушысында</label> өзгерте аласыз.">
+<!ENTITY social.activated.undo.label "Қап, осыны болдырмау!">
+<!ENTITY social.activated.undo.accesskey "ы">
+<!ENTITY social.learnMore.label "Көбірек білу…">
+<!ENTITY social.learnMore.accesskey "л">
 <!ENTITY social.closeNotificationItem.label "Қазір емес">
 
-
-
+<!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Чаттарға ауысып отыру">
+<!ENTITY social.chatBar.accesskey "ы">
 <!-- labels are set dynamically, see browser.properties -->
 
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
+<!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
+<!ENTITY getUserMedia.selectCamera.accesskey "м">
+<!ENTITY getUserMedia.selectMicrophone.label "Бөлісу үшін микрофон:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 
+<!ENTITY webrtcIndicatorButton.label "Камера / микрофонға қатынау">
+<!ENTITY webrtcIndicatorButton.tooltip "Ағымда камера не микрофоныңызбен бөлісуге өзіңіз рұқсат еткен сайттарды көрсету">
 
+<!ENTITY mixedContentBlocked.helplink "Көбірек білу">
+<!ENTITY mixedContentBlocked.moreinfo "Веб-сайттардың көбі бұл құрама сөндірілген болса да, дұрыс жұмыс жасай береді.">
 
+<!ENTITY pointerLock.notification.message "Оны қайта көрсету үшін кез-келген уақытта ESC пернесін басыңыз.">
 
-
-
-
-
-
-
+<!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
+<!ENTITY pluginNotification.showAll.accesskey "с">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "Қазір рұқсат ету">
+<!ENTITY pluginActivateAlways.label "Рұқсат ету және есте сақтау">
+<!ENTITY pluginBlockNow.label "Плагинді блоктау">

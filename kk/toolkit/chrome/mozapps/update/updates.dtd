@@ -23,8 +23,11 @@
 үшін сізде орын жеткіліксіз.">
 <!ENTITY  manualUpdateGetMsg.label        "Сіз әрқашан да &brandShortName; соңғы нұсқасын осы жерден ала аласыз:">
 
-
-
+<!ENTITY  unsupported.title               "Жүйеге қолдау жоқ">
+<!ENTITY  unsupported.label               "Сіздің &brandShortName; өніміңіз ескірген, бірақта, оның ең соңғы нұсқасы 
+сіздің жүйеңізді қолдамайды. Жүйеңізді жаңартып, қайтадан көріңіз. 
+Осы ескертуді келесіде көрмейсіз, бірақта">
+<!ENTITY  unsupportedLink.label           "көбірек білуіңізге болады.">
 
 <!ENTITY  incompatibleCheck.title         "Қосымшалардың үйлесімділігін тексеру">
 <!ENTITY  incompatibleCheck.label         "Қосымшаларыңыздың жаңа нұсқалары ізделуде…">
