@@ -15,7 +15,7 @@
 <!ENTITY debuggerUI.showOnlyEnum.key "o">
 <!ENTITY debuggerUI.showOriginalSource "Visualizza sorgenti originali">
 <!ENTITY debuggerUI.showOriginalSource.key "o">
-<!ENTITY debuggerUI.searchPanelTitle "Operatori">
+<!ENTITY debuggerUI.searchPanelOperators "Operatori:">
 <!ENTITY debuggerUI.searchFile "Filtra script">
 <!ENTITY debuggerUI.searchFile.key "s">
 <!ENTITY debuggerUI.searchFile.altkey "O">
