@@ -188,7 +188,7 @@
 <!ENTITY event.attachments.menubutton.label               "Vedhæft">
 <!ENTITY event.attachments.menubutton.accesskey           "V">
 <!ENTITY event.attachments.url.label                      "Webside…">
-<!ENTITY event.attachments.url.accesskey                  "H">
+<!ENTITY event.attachments.url.accesskey                  "W">
 
 <!ENTITY event.attachments.popup.remove.label "Fjern">
 <!ENTITY event.attachments.popup.remove.accesskey "F">

@@ -244,7 +244,7 @@
 <!ENTITY bodyMenuFeed.label "Feed-meddelelsens indhold som">
 <!ENTITY bodyMenuFeed.accesskey "F">
 <!ENTITY viewFeedWebPage.label "Webside">
-<!ENTITY viewFeedWebPage.accesskey "H">
+<!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Sammendrag">
 <!ENTITY viewFeedSummary.accesskey "m">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Standard format">
@@ -440,7 +440,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedMessage1.label "Ved åbning af feed-meddelelser">
 <!ENTITY openFeedMessage1.accesskey "b">
 <!ENTITY openFeedWebPage.label "Åbn som webside">
-<!ENTITY openFeedWebPage.accesskey "h">
+<!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Åbn som sammendrag">
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Skift mellem webside og sammendrag i meddelelsesruden">
