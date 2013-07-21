@@ -24,3 +24,6 @@
 <!ENTITY options.context.triggersPageRefresh2 "Sesión actual únicamente, recarga la páxina">
 <!ENTITY options.context.requiresRestart2 "Requier reaniciar el navegador">
 <!ENTITY options.context.advancedSettings "Axustes avanzaos">
+<!ENTITY options.enableRemote.label "Activar la depuración remota">
+<!ENTITY options.enableChrome.label "Activar la depuración chrome">
+<!ENTITY options.context.label "Configuración avanzada (requier reaniciar el navegador)">
