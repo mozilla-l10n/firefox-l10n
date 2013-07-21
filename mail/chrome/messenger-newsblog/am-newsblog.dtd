@@ -15,3 +15,4 @@
 <!ENTITY feeds.wizardShortName "Canales">
 <!ENTITY feeds.wizardLongName "Canales de Blogues y Noticies">
 <!ENTITY feeds.wizardLongName.accesskey "N">
+<!ENTITY feedWindowTitle.label "Encontu de cuenta de canales web">
