@@ -3,23 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--null-->
-<!ENTITY toField3.label "Pa ">
-<!ENTITY fromField3.label "De ">
-<!ENTITY senderField3.label "Remitente ">
-<!ENTITY organizationField3.label "Organización ">
-<!ENTITY replyToField3.label "Responder a ">
-<!ENTITY subjectField3.label "Asuntu ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Cct ">
-<!ENTITY newsgroupsField3.label "Grupos de noticies ">
-<!ENTITY followupToField3.label "Redireicionar a ">
-<!ENTITY tagsHdr3.label "Etiquetes ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "Axente d'usuariu ">
-<!ENTITY referencesField3.label "Referencies ">
-<!ENTITY messageIdField3.label "Message ID ">
-<!ENTITY inReplyToField3.label "En rempuesta a ">
-<!ENTITY originalWebsite3.label "Sitiu web ">
 <!ENTITY editMessageDescription.label "Esti mensaxe ye un borrador">
 <!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Archivar">
@@ -98,3 +81,21 @@
 
 <!ENTITY startExpandedCmd.label "Al abrir, amosar el panel d'axuntos">
 <!ENTITY startExpandedCmd.accesskey "b">
+<!ENTITY userAgentField4.label "Axente d'usuariu">
+<!ENTITY toField4.label "A">
+<!ENTITY tagsHdr4.label "Etiquetes">
+<!ENTITY subjectField4.label "Asuntu">
+<!ENTITY senderField4.label "Remitente">
+<!ENTITY replyToField4.label "Responder a">
+<!ENTITY referencesField4.label "Referencies">
+<!ENTITY originalWebsite4.label "Sitiu web">
+<!ENTITY organizationField4.label "Organización">
+<!ENTITY newsgroupsField4.label "Grupos de noticies">
+<!ENTITY messageIdField4.label "Message ID">
+<!ENTITY inReplyToField4.label "En rempuesta a">
+<!ENTITY hdrMenuForwardButton.label "Reunviar como">
+<!ENTITY fromField4.label "De">
+<!ENTITY followupToField4.label "Continuación en">
+<!ENTITY dateField4.label "Data">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Cct">
