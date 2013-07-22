@@ -18,11 +18,11 @@
 <!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
   -  restart label at right of settings that require a browser restart to be
   -  effective. -->
-<!ENTITY options.context.requiresRestart2  "Nécessite un redémarrage du navigateur">
+<!ENTITY options.context.requiresRestart2  "Redémarrage navigateur nécessaire">
 
 <!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
   -  restart button next to options.context.requiresRestart2 label. -->
-<!ENTITY options.restartButton.label  "Redémarrer maintenant">
+<!ENTITY options.restartButton.label  "Redémarrer">
 
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
@@ -80,7 +80,7 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Activer les journaux persistants">
-<!ENTITY options.enablePersistentLogging.tooltip  "Si vous activez cette option, la Console web ne videra pas les sorties à chaque fois que vous changez de page">
+<!ENTITY options.enablePersistentLogging.tooltip  "Si vous activez cette option, la console web ne videra pas les sorties à chaque fois que vous changez de page">
 
 <!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
   -  heading of the group of JavaScript Profiler preferences in the options
