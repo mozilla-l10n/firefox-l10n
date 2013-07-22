@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "r">
 <!ENTITY searchSubfolders.label      "Procurar em Sub-pastas">
 <!ENTITY searchSubfolders.accesskey  "o">
-<!ENTITY searchLocalSystem.label     "Procurar localmente">
-<!ENTITY searchLocalSystem.accesskey "l">
+<!ENTITY searchOnHeading.label       "Efetuar operações de pesquisa em:">
+<!ENTITY searchOnHeading.accesskey   "P">
+<!ENTITY searchOnRemote.label        "Servidor remoto">
+<!ENTITY searchOnLocal.label         "Sistema local">
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">
