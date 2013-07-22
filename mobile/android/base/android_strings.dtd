@@ -100,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
-<!ENTITY pref_reflow_on_zoom2 "Csippentsen a szöveg újratördeléséhez">
+<!ENTITY pref_reflow_on_zoom2 "Csippentsen az újratördeléshez">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
