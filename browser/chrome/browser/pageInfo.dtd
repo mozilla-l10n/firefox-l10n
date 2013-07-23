@@ -59,7 +59,7 @@
 <!ENTITY  permNotifications     "Mostrar notificaciones">
 <!ENTITY permInstall "Instalar extensiones o temas">
 <!ENTITY permGeo "Compartir ubicación">
-<!ENTITY permPlugins "Complementos actiados">
+<!ENTITY permPlugins "Complementos activados">
 <!ENTITY permFullscreen "Pasar a pantalla completa">
 <!ENTITY  permPointerLock2      "Ocultar el cursor del ratón">
 <!ENTITY permIndexedDB "Mantener almacenamiento sin conexión">
