@@ -29,7 +29,7 @@
 <!ENTITY  rememberChoice.label        "Fă la fel în mod automat pentru fișiere ca acesta de acum înainte.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "care este:">
+<!ENTITY  whichIs.label              "care este:">
 
 <!ENTITY  chooseHandlerMac.label      "Alege...">
 <!ENTITY  chooseHandlerMac.accesskey  "A">

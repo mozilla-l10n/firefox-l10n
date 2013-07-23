@@ -13,6 +13,7 @@
 # vas_galati <vas_galati@yahoo.com>
 # Iosif Fettich <ifettich@netsoft.ro>
 # strainu <narro@strainu.ro>
+# xdaiana <xdaiana@yahoo.com>
 #
 -->
 <!--
@@ -44,6 +45,11 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reîncarcă toate filele">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Închide filele de la dreapta">
+<!ENTITY  closeTabsToTheEnd.accesskey        "D">
 <!ENTITY  closeOtherTabs.label               "Închide celelalte file">
 <!ENTITY  closeOtherTabs.accesskey           "Î">
 
@@ -139,7 +145,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "S">
 <!ENTITY bookmarkThisPageCmd.label "Pune un semn la această pagină">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY sharePageCmd.commandkey "l">
+<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY sharePageCmd.label "Împărtășește această pagină">
+<!ENTITY sharePageCmd.commandkey "I">
+<!ENTITY sharePageCmd.accesskey "I">
+<!ENTITY shareLinkCmd.label "Împărtășește această legătură">
+<!ENTITY shareLinkCmd.accesskey "I">
+<!ENTITY shareImageCmd.label "Împărtășește această imagine">
+<!ENTITY shareImageCmd.accesskey "I">
+<!ENTITY shareSelectCmd.label "Împărtășește selecția">
+<!ENTITY shareSelectCmd.accesskey "m">
+<!ENTITY shareVideoCmd.label "Împărtășește acest videoclip">
+<!ENTITY shareVideoCmd.accesskey "I">
 <!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
@@ -227,16 +244,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Consolă web la distanță">
+
+<!ENTITY browserConsoleCmd.label      "Consolă navigator">
+<!ENTITY browserConsoleCmd.commandkey "c">
+<!ENTITY browserConsoleCmd.accesskey  "c">
 
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.label   "Vizualizare design receptiv">
 <!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
+<!ENTITY responsiveDesignTool.commandkey "R">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -252,6 +272,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Depanator navigator">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
 <!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
@@ -480,6 +504,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activează sonorul">
 <!ENTITY mediaUnmute.accesskey       "A">
+<!ENTITY mediaPlaybackRate.label     "Viteză redare">
+<!ENTITY mediaPlaybackRate.accesskey "v">
+<!ENTITY mediaPlaybackRate050x.label "Încetinire (0.5×)">
+<!ENTITY mediaPlaybackRate050x.accesskey "I">
+<!ENTITY mediaPlaybackRate100x.label "Viteză normală">
+<!ENTITY mediaPlaybackRate100x.accesskey "n">
+<!ENTITY mediaPlaybackRate150x.label "Viteză mare (1.5×)">
+<!ENTITY mediaPlaybackRate150x.accesskey "v">
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x.label "Viteză foarte mare (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "V">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -547,7 +584,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ieșire"> 
 <!ENTITY quitApplicationCmd.accesskey   "e">
 <!ENTITY quitApplicationCmdMac.label    "Ieșire">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Închide">  
 <!ENTITY closeCmd.key                   "W">  
@@ -636,15 +674,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Arată bara laterală">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
+<!ENTITY social.addons.label "Gestionare servicii…">
+
 <!ENTITY social.toggleNotifications.label "Arată notificările pe ecran">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.undobutton.label "Anulează">
-<!ENTITY social.activated.undobutton.accesskey "U">
+<!ENTITY social.activated.description "Serviciile de la <label/> au fost activate. Puteți schimba setările pentru servicii în <label class='text-link'>Manager suplimente</label>.">
+<!ENTITY social.activated.undo.label "Upss, anulează asta!">
+<!ENTITY social.activated.undo.accesskey "U">
+<!ENTITY social.learnMore.label "Aflați mai multe…">
+<!ENTITY social.learnMore.accesskey "m">
+<!ENTITY social.closeNotificationItem.label "Nu acum">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Adu discuțiile în față">
 <!ENTITY social.chatBar.accesskey "c">
+
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Cameră de folosit:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -656,4 +704,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked.helplink "Află mai multe">
 <!ENTITY mixedContentBlocked.moreinfo "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
+
+<!ENTITY pointerLock.notification.message "Apasă ESC oricând pentru a-l afișa din nou.">
+
+<!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
+<!ENTITY pluginNotification.showAll.accesskey "a">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Permite acum">
+<!ENTITY pluginActivateAlways.label "Permite și ține minte">
+<!ENTITY pluginBlockNow.label "Blocare plugin">
 

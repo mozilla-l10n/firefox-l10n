@@ -48,6 +48,9 @@
 <!ENTITY setup.choosePassword.accesskey  "p">
 <!ENTITY setup.confirmPassword.label     "Confirmați parola">
 <!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.setupMetro.label     "Sincronizează cu stilul Windows 8 &brandShortName;">
+<!ENTITY setup.setupMetro.accesskey "S">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">

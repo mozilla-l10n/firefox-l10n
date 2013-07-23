@@ -29,26 +29,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
-  -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label2            "Depanator">
-
-<!-- LOCALIZATION NOTE (debuggerMenu.accesskey): This is accesskey for the
-  -  Tools menu entry of Debugger that opens the debugger UI. -->
-<!ENTITY debuggerMenu.accesskey         "D">
-
-<!-- LOCALIZATION NOTE (remoteDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the remote debugger UI. -->
-<!ENTITY remoteDebuggerMenu.label       "Depanator la distanță">
-
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label       "Depanator navigator">
-
-<!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
-  -  launches the debugger UI. Do not translate this one! -->
-<!ENTITY debuggerMenu.commandkey        "S">
-
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
 <!ENTITY debuggerUI.closeButton.tooltip "Închidere">
@@ -83,6 +63,12 @@
 <!ENTITY debuggerUI.showOnlyEnum        "Show only enumerable properties">
 <!ENTITY debuggerUI.showOnlyEnum.key    "P">
 
+<!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
+  -  the checkbox that toggles the display of original or sourcemap-derived
+  -  sources. -->
+<!ENTITY debuggerUI.showOriginalSource      "Arătați sursele originale">
+<!ENTITY debuggerUI.showOriginalSource.key  "O">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle    "Operatori">
@@ -91,11 +77,17 @@
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile          "Filtrează scripturi">
 <!ENTITY debuggerUI.searchFile.key      "s">
+<!ENTITY debuggerUI.searchFile.altkey   "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal        "Search in all files">
+<!ENTITY debuggerUI.searchGlobal        "Căutați în toate fișierele">
 <!ENTITY debuggerUI.searchGlobal.key    "F">
+
+<!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
+  -  in the source editor's context menu for the function search operation. -->
+<!ENTITY debuggerUI.searchFunction      "Căutați definiția funcției">
+<!ENTITY debuggerUI.searchFunction.key  "D">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -109,8 +101,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable      "Filter variables">
-<!ENTITY debuggerUI.searchVariable.key  "V">
+<!ENTITY debuggerUI.searchVariable      "Variabile filtru">
+<!ENTITY debuggerUI.searchVariable.key  "v">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
