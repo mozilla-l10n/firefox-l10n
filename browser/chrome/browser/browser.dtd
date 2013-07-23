@@ -233,7 +233,7 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewTabGroups.label "Grupos de pestañas">
 <!ENTITY viewTabGroups.accesskey "G">
-<!ENTITY viewToolbarsMenu.label "Barras de Herramientas">
+<!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "t">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
