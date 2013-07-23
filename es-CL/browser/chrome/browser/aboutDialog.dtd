@@ -31,6 +31,9 @@
 <!ENTITY update.failed.end "">
 <!ENTITY update.manual.start "Actualización disponible en ">
 <!ENTITY update.manual.end "">
+<!ENTITY update.unsupported.start    "Usted ya no puede realizar más actualizaciones en este sistema.">
+<!ENTITY update.unsupported.linkText "Aprender más">
+<!ENTITY update.unsupported.end      "">
 <!ENTITY update.downloading.start "Bajando actualización — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Aplicando actualización">
