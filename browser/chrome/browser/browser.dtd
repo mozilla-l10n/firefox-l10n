@@ -10,6 +10,8 @@
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY  closeTabsToTheEnd.label            "Cerrar pestañas a la derecha">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY pinTab.label "Pegar pestaña">
@@ -25,6 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">
+<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
@@ -182,6 +185,7 @@
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
+<!ENTITY chromeDebuggerMenu.label       "Depurador del navegador">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
@@ -301,6 +305,8 @@
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewImageInfoCmd.label "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewImageDescCmd.label       "Ver descripción">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label "Ver video">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
@@ -456,6 +462,7 @@
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "el cual es corrido por">
 <!ENTITY identity.moreInfoLinkText "Más información…">
+<!ENTITY identity.permissions "Permisos">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
@@ -498,3 +505,9 @@
 
 <!ENTITY pointerLock.notification.message "Presiona ESC en cualquier momento para mostrarlo nuevamente.">
 
+<!ENTITY pluginNotification.showAll.label "Mostrar todas">
+<!ENTITY pluginNotification.showAll.accesskey "S">
+
+<!ENTITY pluginActivateNow.label "Permitir ahora">
+<!ENTITY pluginActivateAlways.label "Permitir y recordar">
+<!ENTITY pluginBlockNow.label "Bloquear complemento">

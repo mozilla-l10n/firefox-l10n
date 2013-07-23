@@ -59,7 +59,7 @@
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY updateTab.label "Actualización">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
-<!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mayor seguridad)
+<!ENTITY updateAuto1.label               "Instalar actualizaciones automáticamente (recomendado: mayor seguridad)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateAutoMetro.label           "Automáticamente actualizar desde &brandShortName; para escritorio y estilo Windows 8">
 <!ENTITY updateAutoMetro.accesskey       "s">
