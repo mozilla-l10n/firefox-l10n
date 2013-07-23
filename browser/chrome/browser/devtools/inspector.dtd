@@ -1,11 +1,8 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -13,6 +10,7 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!ENTITY inspectorHTMLCopyInner.label       "Copiază codul HTML din interior">
@@ -21,7 +19,7 @@
 <!ENTITY inspectorHTMLCopyOuter.label       "Copiază codul HTML din exterior">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "h">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.label       "Copiați selectorul unic">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
 <!ENTITY inspectorHTMLDelete.label          "Șterge nodul">

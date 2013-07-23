@@ -63,7 +63,7 @@
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
+  Adu numele funcțiilor pentru stivele blocate
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "

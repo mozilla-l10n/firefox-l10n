@@ -21,11 +21,11 @@
 
 <!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY dntTrackingNopref.label        "Nu spune saiturilor nimic despre preferințele mele de urmărire.">
+<!ENTITY dntTrackingNopref.label2       "Nu anunța nimic saiturilor despre preferințele mele de urmărire">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Spune saiturilor că nu vreau să fiu urmărit.">
+<!ENTITY dntTrackingNotOkay.label2      "Anunță saiturile că nu doresc să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Spune saiturilor că vreau să fiu urmărit.">
+<!ENTITY dntTrackingOkay.label2         "Anunță saiturile că nu doresc să fiu urmărit">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Află mai multe">
 
@@ -44,8 +44,11 @@
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Acceptă cookie-uri de la terți">
-<!ENTITY  acceptThirdParty.accesskey    "t">
+<!ENTITY  acceptThirdParty.pre.label      "Acceptă cookieuri terțe:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "A">
+<!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
+<!ENTITY  acceptThirdParty.never.label    "Niciodată">
+<!ENTITY  acceptThirdParty.visited.label  "De la vizitate">
 
 <!ENTITY  keepUntil.label               "Păstrează-le până când:">
 <!ENTITY  keepUntil.accesskey           "P">
