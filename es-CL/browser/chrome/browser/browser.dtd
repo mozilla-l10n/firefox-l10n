@@ -156,8 +156,6 @@
 <!ENTITY toolsMenu.accesskey "t">
 <!ENTITY keywordfield.label "Agregue una palabra clave a esta búsqueda…">
 <!ENTITY keywordfield.accesskey "A">
-<!ENTITY search.label "Buscar en la Web">
-<!ENTITY search.accesskey "s">
 <!ENTITY downloads.label "Descargas">
 <!ENTITY downloads.tooltip "Muestra el estado de las descargas en curso">
 <!ENTITY downloads.accesskey "D">
