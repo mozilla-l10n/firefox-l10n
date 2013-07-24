@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "उजवीकडच्या टॅब्स बंद करा (i)">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "इतर टॅब्स् बंद करा">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -121,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "हे पान शेअर करा">
-
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!ENTITY shareLinkCmd.label "ही दुवा शेअर करा">
 <!ENTITY shareLinkCmd.accesskey "s">
@@ -161,7 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "स्थळ">
 <!ENTITY searchItem.title             "शोधा">
 <!ENTITY throbberItem.title           "कृती निदर्शक">
-
+<!ENTITY bookmarksItem.title          "वाचनखूण">
 <!-- Toolbar items --> 
 
 <!ENTITY appMenuButton.label          "मेन्यू">
@@ -174,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedButton.label             "सभासद व्हा">
 <!ENTITY feedButton.tooltip           "या पानावर सभासद व्हा…">
 
+<!ENTITY bookmarksButton.label          "वाचनखुणा">
 <!ENTITY bookmarksButton.tooltip        "आपले ओळखचिन्ह दर्शवा">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -220,8 +222,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "रिमोट वेब कंसोल">
 
-
-
+<!ENTITY browserConsoleCmd.label      "ब्राउजर कंसोल (B)">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "एलिमेंटची चौकशी करा">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -246,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "ब्राउझर डीबगर">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "डेव्हलपर साधनपट्टी बंद करा">
 <!ENTITY devToolbarMenu.label              "डेव्हलपर साधनपट्टी">
@@ -681,4 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "आत्ता स्वीकारा">
+<!ENTITY pluginActivateAlways.label "स्वीकारा आणि लक्षात ठेवा">
+<!ENTITY pluginBlockNow.label "प्लगइन अडवा">

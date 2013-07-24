@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          " &brandFullName;च्या संबधी">
+<!ENTITY aboutDialog.title          "&brandFullName; बद्दल">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; प्रयोगिक आहे व अस्थीर असू शकते.">
+<!ENTITY warningDesc.version        "&brandShortName; प्रयोगिक आहे व अस्थिर असू शकते.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "कामगिरि, हार्डवेअर, वापर व पसंतीचे करण्याबाबत स्वयंरित्या &vendorShortName;करीता माहिती पाठवतो ज्यामुळे &brandShortName; उत्तम होते.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
@@ -15,19 +15,19 @@
 <!ENTITY community.exp.middle       " आहे ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "जागतिक समाज">
-<!ENTITY community.exp.end          " वेब ओपन, पब्लिक व सर्वांकरिता प्रवेशजोगी बनवण्यासाठी एकत्र कार्य करत आहोत.">
+<!ENTITY community.exp.end          " सर्वांकरिता वेब ओपन, पब्लिक व प्रवेशजोगी बनवण्यासाठी एकत्र कार्य करत आहोत.">
 
 <!ENTITY community.start2           "&brandShortName; ची रचना ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName; द्वारे निर्मीत आहे">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एक ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "जागतिक समाज">
-<!ENTITY community.end3             " वेब ओपन, पब्लिक व सर्वांकरिता प्रवेशजोगी बनवण्यासाठी एकत्र कार्य करत आहोत.">
+<!ENTITY community.end3             " सर्वांकरिता वेब ओपन, पब्लिक व प्रवेशजोगी बनवण्यासाठी एकत्र कार्य करत आहोत.">
 
 <!ENTITY contribute.start           "मनोरंजक वाटते? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "भाग घ्या!">
+<!ENTITY contribute.getInvolvedLink "सामील व्हा!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -48,6 +48,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "सुधारणा प्रणाली प्रशासकाद्वारे बंद केले आहे">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -70,6 +71,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "तुम्ही या सिस्टीमवर आणखी सुधारणा नाही करू शकत. ">
 <!ENTITY update.unsupported.linkText "आणखी शिका">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
