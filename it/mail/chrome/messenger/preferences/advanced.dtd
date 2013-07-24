@@ -90,8 +90,6 @@
 <!ENTITY certs.ask.accesskey "C">
 <!ENTITY viewCertificates.label "Mostra certificati">
 <!ENTITY viewCertificates.accesskey "M">
-<!ENTITY viewCRLs.label "Elenchi di revoca">
-<!ENTITY viewCRLs.accesskey "E">
 <!ENTITY validation.label "Validazione">
 <!ENTITY validation.accesskey "V">
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
