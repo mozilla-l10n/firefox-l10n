@@ -38,7 +38,7 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY healthReport.label       "&brandShortName; Raport de stare">
-<!ENTITY healthReport.accesskey   "r">
+<!ENTITY healthReport.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">

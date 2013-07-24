@@ -282,10 +282,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Alternează uneltele">
+<!ENTITY devToolboxMenuItem.label          "Activează uneltele">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Alternează uneltele de dezvoltare">
+<!ENTITY devToolbarToolsButton.tooltip     "Activează uneltele de dezvoltare">
 <!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
@@ -296,7 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
-<!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
+<!ENTITY newPrivateWindow.label     "Fereastră fără urme nouă">
 <!ENTITY newPrivateWindow.accesskey "v">
 
 <!ENTITY editMenu.label         "Editare"> 

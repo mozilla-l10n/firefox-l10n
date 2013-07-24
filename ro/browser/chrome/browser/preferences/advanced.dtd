@@ -53,7 +53,7 @@
 
 <!ENTITY dataChoicesTab.label            "Opțiuni de date">
 
-<!ENTITY healthReportSection.label       "&brandShortName; Raport de stare">
+<!ENTITY healthReportSection.label       "Raport de stare &brandShortName;">
 <!ENTITY healthReportDesc.label          "Ajută-ne să înțelegem performanța navigatorului și împărtășeste datele despre stabilitatea navigatorului dumneavoastră cu &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Activează raportul de stare al &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "s">

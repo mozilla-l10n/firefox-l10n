@@ -79,10 +79,10 @@
 <!ENTITY  permInstall           "Instalează extensii sau teme">
 <!ENTITY  permGeo               "Dezvăluie locul unde sunt">
 <!ENTITY  permPlugins           "Activează modulele">
-<!ENTITY  permFullscreen        "Vedeți pe tot ecranul">
+<!ENTITY  permFullscreen        "Vedere pe tot ecranul">
 <!ENTITY  permPointerLock2      "Ascunde cursorul mausului">
 
-<!ENTITY  permIndexedDB              "Întrețineți stocarea offline">
+<!ENTITY  permIndexedDB              "Stocare pentru uz offline">
 <!ENTITY  permClearStorage           "Curăță datele stocate">
 <!ENTITY  permClearStorage.accesskey "C">
 

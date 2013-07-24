@@ -20,11 +20,11 @@
 <!ENTITY privatebrowsingpage.title.normal          "Doriți să începeți navigarea fără urme?">
 
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; nu va memora nimic pentru această fereastră.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Nu sunteți într-o fereastră privată.">
+<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Nu sunteți într-o fereastră fără urme.">
 
 <!ENTITY privatebrowsingpage.perwindow.description     "Într-o fereastră de navigare fără urme, &brandShortName; nu va păstra nimic din istoricul navigării, istoricul căutărilor, istoricul descărcărilor, istoricul formularelor web, cookie-uri sau fișierele temporare din internet. Cu toate acestea, fișierele pe care le descărcați și semnele de carte pe care le faceți vor fi păstrate.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră privată">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
