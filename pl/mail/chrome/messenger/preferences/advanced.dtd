@@ -103,8 +103,6 @@
 
 <!ENTITY viewCertificates.label        "Wyświetl certyfikaty">
 <!ENTITY viewCertificates.accesskey    "W">
-<!ENTITY viewCRLs.label                "Listy odwołania">
-<!ENTITY viewCRLs.accesskey            "L">
 <!ENTITY validation.label              "Weryfikacja">
 <!ENTITY validation.accesskey          "e">
 <!ENTITY viewSecurityDevices.label     "Urządzenia zabezpieczające">
