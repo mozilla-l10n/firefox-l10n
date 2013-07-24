@@ -200,8 +200,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "Adicione uma palavra-chave para esta pesquisa...">
 <!ENTITY keywordfield.accesskey "A">
-<!ENTITY search.label "Pesquisa web">
-<!ENTITY search.accesskey "w">
 <!ENTITY downloads.label "Transferências">
 <!ENTITY downloads.tooltip "Mostra o progresso das transferências correntes">
 <!ENTITY downloads.accesskey "r">
