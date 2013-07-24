@@ -65,6 +65,12 @@
 <!ENTITY debuggerUI.showOnlyEnum "Zobrazit pouze „enumerable“ vlastnosti">
 <!ENTITY debuggerUI.showOnlyEnum.key "Z">
 
+<!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
+  -  the checkbox that toggles the display of original or sourcemap-derived
+  -  sources. -->
+<!ENTITY debuggerUI.showOriginalSource "Zobrazit původní zdroj">
+<!ENTITY debuggerUI.showOriginalSource.key "p">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
   -  appears in the filter panel popup as a description. -->
 <!ENTITY debuggerUI.searchPanelTitle "Operátor">
