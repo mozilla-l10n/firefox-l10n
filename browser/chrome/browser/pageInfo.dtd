@@ -58,7 +58,6 @@
 <!ENTITY  permAllowSession      "Permitir para a sessão">
 <!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permissões para:">
-<!ENTITY  permImage             "Carregar imagens">
 <!ENTITY  permPlugins           "Ativar plugins">
 
 <!ENTITY  permClearStorage           "Limpar armazenamento">
