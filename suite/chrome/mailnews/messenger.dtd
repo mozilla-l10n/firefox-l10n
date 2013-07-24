@@ -144,8 +144,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "е">
 <!ENTITY sortByFromCmd.label "по автору">
 <!ENTITY sortByFromCmd.accesskey "в">
-<!ENTITY sortByRecipientCmd.label "по адресату">
-<!ENTITY sortByRecipientCmd.accesskey "а">
+<!ENTITY sortByRecipientsCmd.label "Получатели">
+<!ENTITY sortByRecipientsCmd.accesskey "о">
+<!ENTITY sortByToCmd.label "Адресат">
+<!ENTITY sortByToCmd.accesskey "а">
 <!ENTITY sortByUnreadCmd.label "по прочитанным">
 <!ENTITY sortByUnreadCmd.accesskey "н">
 <!ENTITY sortByOrderReceivedCmd.label "по порядку получения">
