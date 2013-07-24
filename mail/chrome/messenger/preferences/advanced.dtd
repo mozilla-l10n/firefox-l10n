@@ -116,8 +116,6 @@
 
 <!ENTITY viewCertificates.label         "Vis certifikater">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewCRLs.label                 "Tilbagekaldelsesliste">
-<!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Verifikation">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
