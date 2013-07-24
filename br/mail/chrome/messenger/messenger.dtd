@@ -589,7 +589,7 @@
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
 <!ENTITY folderContextOpenInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
-<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">
 <!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextNew.label "Isteuliad nevez…">
@@ -708,7 +708,7 @@
 <!ENTITY contextForward.label "Treuzkas">
 <!ENTITY contextForward.accesskey "e">
 <!ENTITY contextForwardAsMenu.label "Treuzkas evel">
-<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsMenu.accesskey "u">
 <!ENTITY contextForwardAsInline.label "Testenn enkorfet">
 <!ENTITY contextForwardAsInline.accesskey "f">
 <!ENTITY contextForwardAsAttachmentItem.label "Kenstagadur">
