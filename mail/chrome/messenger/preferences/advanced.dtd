@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label "Ver Certificados">
 <!ENTITY viewCertificates.accesskey "e">
-<!ENTITY viewCRLs.label "Listas de Revogação">
-<!ENTITY viewCRLs.accesskey "r">
 <!ENTITY validation.label "Validação">
 <!ENTITY validation.accesskey "i">
 <!ENTITY viewSecurityDevices.label "Disp. de segurança">
