@@ -15,7 +15,7 @@
 <!ENTITY followupToField4.label "Redireccionar a">
 <!ENTITY tagsHdr4.label "Etiquetas">
 <!ENTITY dateField4.label "Fecha">
-<!ENTITY tagsHdr4.label "Agente de usuario">
+<!ENTITY userAgentField4.label "Agente de usuario">
 <!ENTITY referencesField4.label "Referencias">
 <!ENTITY messageIdField4.label "ID del mensaje">
 <!ENTITY inReplyToField4.label "En respuesta a">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Responder a una lista de correos">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Publicar una respuesta en este grupo de noticias">
+<!ENTITY hdrMenuForwardButton.label "Reenviar como">
 <!ENTITY hdrForwardButton1.label "Reenviar">
 <!ENTITY hdrForwardButton1.tooltip "Reenviar este mensaje">
 <!ENTITY hdrJunkButton1.label "Basura">
