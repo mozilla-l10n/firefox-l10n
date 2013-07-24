@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "Geral">
 <!ENTITY autoMarkAsRead.label             "Marcar mensagens como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey         "a">
-<!ENTITY markAsReadNoDelay.label          "Imediatamente ao apresentar">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Após apresentar durante">
-<!ENTITY markAsReadDelay.accesskey        "t">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Apenas depois de mostrar por">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
 <!ENTITY openingMessages.label            "Ao abrir mensagens apresentá-las em:">
