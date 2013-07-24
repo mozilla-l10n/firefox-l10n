@@ -23,7 +23,7 @@
 <!ENTITY resetProfile.dialog.button.label "Resetează &brandShortName;">
 
 <!ENTITY resetProfile.title               "Resetează &brandShortName; la starea lui inițială">
-<!ENTITY resetProfile.description         "Dacă aveți probleme majore pe care nu le puteți rezolva, începeți proaspăt doar cu informațiile esențiale.">
+<!ENTITY resetProfile.description         "Dacă aveți probleme majore pe care nu le puteți rezolva, începeți din nou doar cu informațiile esențiale.">
 <!ENTITY resetProfile.button.label2       "Resetează &brandShortName;…">
 
 <!ENTITY resetProfile.cleaning.description "Vă rugăm așteptați până când &brandShortName; șterge datele vechi…">

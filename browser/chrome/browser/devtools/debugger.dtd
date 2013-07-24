@@ -131,12 +131,12 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
-<!ENTITY debuggerUI.addWatch            "Add watch expression">
+<!ENTITY debuggerUI.addWatch            "Adăugați expresia urmărită">
 <!ENTITY debuggerUI.addWatch.key        "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch      "Remove all watch expressions">
+<!ENTITY debuggerUI.removeAllWatch      "Elimină toate expresiile urmărite">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that

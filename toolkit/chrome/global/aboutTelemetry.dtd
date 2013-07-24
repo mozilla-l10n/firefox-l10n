@@ -39,8 +39,9 @@
   Măsurători simple
 ">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Scrieri târzii
+<!ENTITY aboutTelemetry.lateWritesSection "  
+   Scrieri întârziate
+
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
@@ -51,7 +52,8 @@
   Histograme colectate de suplimente
 ">
 
-<!ENTITY aboutTelemetry.toggleOn "     Clic pentru extindere secțiune ">
+<!ENTITY aboutTelemetry.toggleOn "
+     Clic pentru extinderea secțiunii ">
 
 <!ENTITY aboutTelemetry.toggleOff "       Clic pentru restrângere secțiune ">
 

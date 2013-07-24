@@ -76,9 +76,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Resetează toate suplimentele la actualizare automată">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Resetează toate suplimentele să se actualizeze automat">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Resetează toate suplimentele la actualizare manuală">
+<!ENTITY updates.resetUpdatesToManual.label          "Resetează toate suplimentele să se actualizeze manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Se actualizează suplimentele">
 <!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
@@ -224,7 +224,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor asupra ediției.">
 
-<!ENTITY addon.createdBy.label                "De către ">
+<!ENTITY addon.createdBy.label                "Creat de ">
 
 <!ENTITY eula.title                           "Acord de licențiere cu utilizatorul">
 <!ENTITY eula.width                           "560px">
