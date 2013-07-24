@@ -12,7 +12,7 @@
 
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
 <!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. I-&brandShortName; iya kukhangela 
-izihlaziyi ngamaxesha ngamaxesha.">
+izihlaziyi amaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
 kwe-&brandShortName; okuzenzekelayo.">
 
@@ -25,8 +25,11 @@ yokufakela isoftwe kule khompyutha.">
 awunaso isithuba esaneleyo sokuyifakela.">
 <!ENTITY  manualUpdateGetMsg.label        "Ungasoloko ulufumana uguqulelo lwangoku lwe-&brandShortName; ku-:">
 
-
-
+<!ENTITY  unsupported.title               "Inkqubo Ayixhaswa">
+<!ENTITY  unsupported.label               "Eyakho &brandShortName; iphelelwe lixesha, kodwa uhlelo lwakutshanje aluxhaswa 
+kwinkqubo yakho. Sicela uhlaziye inkqubo yakho, uze uzame kwakhona. 
+Akuzukuphinda usibone kwakhona esi saziso, kodwa unako">
+<!ENTITY  unsupportedLink.label           "ukufunda ngokuthe vetshe.">
 
 <!ENTITY  incompatibleCheck.title         "Ikhangela uHambelwano lweSongezelelo">
 <!ENTITY  incompatibleCheck.label         "Ikhangela iinguqulelo ezintshana zezongezelelo zakho...">
@@ -65,7 +68,8 @@ umqulu wohlaziyo epheleleyo.">
 <!ENTITY  error.label                     "Bekukho iingxaki ekukhangeleleni ukukhuphela, okanye ukufakela olu 
 hlaziyo. I-&brandShortName; ayikwazanga ukuhlaziywa ngenxa yokuba:">
                                            
-<!ENTITY  errorManual.label               "Ungahlaziya &brandShortName; ngokwakho ngokuthi utyelele kweli khonkco /uze ukhuphelele uhlelo lwamvanje:">
+<!ENTITY  errorManual.label               "Ungahlaziya &brandShortName; ngokwakho ngokuthi utyelele kweli khonkco 
+uze ukhuphelele uhlelo lwamvanje:">
                                            
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. 
 i-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
