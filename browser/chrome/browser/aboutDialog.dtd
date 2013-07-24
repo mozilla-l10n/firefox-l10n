@@ -44,10 +44,11 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Ukukhangela uvumelwano lwezongezelelo…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "i-&brandShortName; igqibelele">
+<!ENTITY update.noUpdatesFound      "I-&brandShortName; igqibelele">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Uhlaziyo lurhoxiswe ngumlawuli wekhompyutha yakho">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; iyahlaziywa ngelinye ithuba">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -70,6 +71,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. ">
 <!ENTITY update.unsupported.linkText "Funda ngaphezulu">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
