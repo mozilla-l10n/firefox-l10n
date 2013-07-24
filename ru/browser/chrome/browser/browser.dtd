@@ -146,8 +146,6 @@
 <!ENTITY toolsMenu.accesskey "И">
 <!ENTITY keywordfield.label "Добавить краткое имя для данного поиска…">
 <!ENTITY keywordfield.accesskey "с">
-<!ENTITY search.label "Поиск в Интернете">
-<!ENTITY search.accesskey "о">
 <!ENTITY downloads.label "Загрузки">
 <!ENTITY downloads.tooltip "Показать ход текущих загрузок">
 <!ENTITY downloads.accesskey "З">

@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY splash_settingup "Настройка вашего &brandShortName;">
-<!ENTITY splash_bookmarks_history "Идёт обновление ваших закладок и истории, что может занять примерно минуту.">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
 <!ENTITY awesomebar_all_pages_title "Топ сайтов">

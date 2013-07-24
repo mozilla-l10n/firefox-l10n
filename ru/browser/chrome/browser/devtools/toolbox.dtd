@@ -5,6 +5,8 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Закрыть инструменты разработки">
 <!ENTITY toolboxOptionsButton.key "O">
+<!ENTITY toolboxNextTool.key "]">
+<!ENTITY toolboxPreviousTool.key "[">
 <!ENTITY options.context.advancedSettings "Дополнительные параметры">
 <!ENTITY options.context.requiresRestart2 "Необходим перезапуск браузера">
 <!ENTITY options.restartButton.label "Перезапустить сейчас">

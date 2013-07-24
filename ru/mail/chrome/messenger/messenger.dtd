@@ -171,8 +171,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "е">
 <!ENTITY sortByFromCmd.label "по автору">
 <!ENTITY sortByFromCmd.accesskey "в">
-<!ENTITY sortByRecipientCmd.label "по адресату">
-<!ENTITY sortByRecipientCmd.accesskey "а">
+<!ENTITY sortByRecipientsCmd.label "Получатели">
+<!ENTITY sortByRecipientsCmd.accesskey "о">
+<!ENTITY sortByToCmd.label "Адресат">
+<!ENTITY sortByToCmd.accesskey "а">
 <!ENTITY sortByUnreadCmd.label "по прочитанным">
 <!ENTITY sortByUnreadCmd.accesskey "н">
 <!ENTITY sortByOrderReceivedCmd.label "по порядку получения">
@@ -589,7 +591,8 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Сохранить результаты поиска как папку…">
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
-<!ENTITY recipientColumn.label "Адресат">
+<!ENTITY recipientsColumn.label "Получатели">
+<!ENTITY toColumn.label "Адресат">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
@@ -609,7 +612,8 @@
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
+<!ENTITY recipientsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по получателям">
+<!ENTITY toColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
 <!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
 <!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">

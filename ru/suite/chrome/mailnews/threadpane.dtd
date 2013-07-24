@@ -4,7 +4,8 @@
 
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
-<!ENTITY recipientColumn.label "Адресат">
+<!ENTITY recipientsColumn.label "Получатели">
+<!ENTITY toColumn.label "Адресат">
 <!ENTITY attachmentColumn.label "Вложения">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
@@ -24,7 +25,8 @@
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
+<!ENTITY recipientsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по получателям">
+<!ENTITY toColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
 <!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
 <!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
