@@ -184,8 +184,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "n">
 <!ENTITY sortByFromCmd.label "De">
 <!ENTITY sortByFromCmd.accesskey "D">
-<!ENTITY sortByRecipientCmd.label "Destinatário">
-<!ENTITY sortByRecipientCmd.accesskey "i">
+<!ENTITY sortByRecipientsCmd.label "Destinatários">
+<!ENTITY sortByRecipientsCmd.accesskey "i">
+<!ENTITY sortByToCmd.label "Para">
+<!ENTITY sortByToCmd.accesskey "r">
 <!ENTITY sortByUnreadCmd.label "Lida">
 <!ENTITY sortByUnreadCmd.accesskey "i">
 <!ENTITY sortByOrderReceivedCmd.label "Ordem de receção">
@@ -637,7 +639,8 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
-<!ENTITY recipientColumn.label "Destinatário">
+<!ENTITY recipientsColumn.label "Destinatários">
+<!ENTITY toColumn.label "Para">
 <!ENTITY subjectColumn.label "Assunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
@@ -659,7 +662,8 @@
 <!ENTITY columnChooser.tooltip "Clique para selecionar as colunas a mostrar">
 <!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem">
 <!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
-<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
+<!ENTITY recipientsColumn.tooltip "Clique para ordenar por destinatários">
+<!ENTITY toColumn.tooltip "Clique para ordenar por Para">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar por assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar por data">
 <!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
@@ -676,7 +680,6 @@
 <!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
 <!ENTITY idColumn.tooltip "Clique para ordenar por ordem de receção">
 <!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
-
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "j">
