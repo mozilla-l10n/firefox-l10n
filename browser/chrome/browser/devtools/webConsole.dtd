@@ -49,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "Žurnál chyb parsování CSS">
 <!ENTITY btnPageJS.label "JS">
 <!ENTITY btnPageJS.tooltip "Žurnál výjimek JavaScriptu">
+<!ENTITY btnPageSecurity.label "Bezpečnost">
+<!ENTITY btnPageSecurity.tooltip "Žurnál bezpečnostních chyb a varování">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
