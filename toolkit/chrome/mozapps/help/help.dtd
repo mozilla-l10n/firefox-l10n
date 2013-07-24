@@ -1,38 +1,38 @@
-<!ENTITY printCmd.commandkey "p">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.commandkey "G">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
-<!ENTITY backButton.label "Retroceder">
+<!ENTITY backButton.label "Recuar">
 <!ENTITY backButton.accesskey "R">
-<!ENTITY backButton.tooltip "Retroceder uma página">
+<!ENTITY backButton.tooltip "Recura uma página">
 <!ENTITY forwardButton.label "Avançar">
 <!ENTITY forwardButton.accesskey "A">
 <!ENTITY forwardButton.tooltip "Avançar uma página">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Seleccionar tudo">
-<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.label "Selecionar tudo">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY goBackCmd.commandkey "[">
 <!ENTITY goForwardCmd.commandkey "]">
 <!ENTITY homeButton.label "Início">
-<!ENTITY homeButton.tooltip "Ir para a página inicial da Ajuda">
+<!ENTITY homeButton.tooltip "Ir para a página inicial da ajuda">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
 <!ENTITY closeWindow.commandkey "W">
-
-<!ENTITY search.emptytext "Pesquisar">
-<!ENTITY searchHeader.label             "Resultados da pesquisa">
-<!ENTITY toctab.label "Conteúdos">
-<!ENTITY toctab.accesskey "O">
+<!ENTITY search.emptytext "Procurar">
+<!ENTITY searchHeader.label "Resultados da procura">
+<!ENTITY toctab.label "Conteúdo">
+<!ENTITY toctab.accesskey "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
@@ -40,13 +40,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-
 <!ENTITY helpSearch.commandkey "k">
-
-<!ENTITY zLevel.label "Sempre por cima">
+<!ENTITY zLevel.label "Sempre na frente">
 <!ENTITY zLevel.accesskey "S">
-
-<!ENTITY fullZoomReduceBtn.label "Diminuir o tamanho do texto">
+<!ENTITY fullZoomReduceBtn.label "Diminuir tamanho do texto">
 <!ENTITY fullZoomReduceBtn.accesskey "D">
-<!ENTITY fullZoomEnlargeBtn.label "Aumentar o tamanho do texto">
+<!ENTITY fullZoomEnlargeBtn.label "Aumentar tamanho do texto">
 <!ENTITY fullZoomEnlargeBtn.accesskey "A">
