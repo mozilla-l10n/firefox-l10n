@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY netmonitorUI.emptyNotice         "Recargar la página para ver información detallada sobre la actividad de red.">
+<!ENTITY netmonitorUI.emptyNotice2        "Realice una solicitud o recargue la página para ver información detallada sobre la actividad de red.">
 <!ENTITY netmonitorUI.toolbar.status      "√">
 <!ENTITY netmonitorUI.toolbar.method      "Método">
 <!ENTITY netmonitorUI.toolbar.file        "Archivo">
@@ -49,3 +49,13 @@
 <!ENTITY netmonitorUI.timings.send        "Enviando:">
 <!ENTITY netmonitorUI.timings.wait        "Esperando:">
 <!ENTITY netmonitorUI.timings.receive     "Recibiendo:">
+<!ENTITY netmonitorUI.context.copyUrl      "Copiar URL">
+<!ENTITY netmonitorUI.context.copyUrl.accesskey  "C">
+<!ENTITY netmonitorUI.summary.resend      "Reenviar">
+<!ENTITY netmonitorUI.summary.resend.accesskey  "R">
+<!ENTITY netmonitorUI.custom.newRequest   "Nueva solicitud">
+<!ENTITY netmonitorUI.custom.query        "Cadena de consulta:">
+<!ENTITY netmonitorUI.custom.headers      "Solicitar cabeceras:">
+<!ENTITY netmonitorUI.custom.postData     "Solicitar cuerpo:">
+<!ENTITY netmonitorUI.custom.send         "Enviar">
+<!ENTITY netmonitorUI.custom.cancel       "Cancelar">

@@ -38,6 +38,7 @@
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY btnPageLogging.label "Registrando">
 <!ENTITY btnPageLogging.tooltip "Registrar mensajes enviados al objeto window.console">
+<!ENTITY btnPageLogging.accesskey "L">
 <!ENTITY btnConsoleErrors "Errores">
 <!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Advertencias">
