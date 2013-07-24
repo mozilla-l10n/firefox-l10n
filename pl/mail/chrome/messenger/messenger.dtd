@@ -191,8 +191,10 @@
 <!ENTITY sortBySubjectCmd.accesskey     "T">
 <!ENTITY sortByFromCmd.label            "Nadawcy">
 <!ENTITY sortByFromCmd.accesskey        "N">
-<!ENTITY sortByRecipientCmd.label       "Adresata">
-<!ENTITY sortByRecipientCmd.accesskey   "A">
+<!ENTITY sortByRecipientsCmd.label "Adresatów">
+<!ENTITY sortByRecipientsCmd.accesskey "A">
+<!ENTITY sortByToCmd.label "Pola „Do”">
+<!ENTITY sortByToCmd.accesskey "P">
 <!ENTITY sortByUnreadCmd.label          "Przeczytanych wiadomości">
 <!ENTITY sortByUnreadCmd.accesskey      "w">
 <!ENTITY sortByOrderReceivedCmd.label     "Kolejności otrzymania">
@@ -638,7 +640,8 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label     "Wątek">
 <!ENTITY fromColumn.label       "Nadawca">
-<!ENTITY recipientColumn.label  "Adresat">
+<!ENTITY recipientsColumn.label "Adresaci">
+<!ENTITY toColumn.label "Do">
 <!ENTITY subjectColumn.label    "Temat">
 <!ENTITY dateColumn.label       "Data">
 <!ENTITY priorityColumn.label   "Priorytet">
@@ -660,7 +663,8 @@
 <!ENTITY columnChooser.tooltip    "Zaznacz, które kolumny zostaną wyświetlone">
 <!ENTITY threadColumn.tooltip     "Kliknij, aby posortować według wątków">
 <!ENTITY fromColumn.tooltip       "Kliknij, aby posortować według nadawcy">
-<!ENTITY recipientColumn.tooltip  "Kliknij, aby posortować według adresata">
+<!ENTITY recipientsColumn.tooltip "Kliknij, aby posortować według adresatów">
+<!ENTITY toColumn.tooltip "Kliknij, aby posortować według pola „Do”">
 <!ENTITY subjectColumn.tooltip    "Kliknij, aby posortować według tematu">
 <!ENTITY dateColumn.tooltip       "Kliknij, aby posortować według daty">
 <!ENTITY priorityColumn.tooltip   "Kliknij, aby posortować według priorytetu">
