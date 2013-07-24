@@ -5,11 +5,13 @@
 <!ENTITY safeb.palm.accept.label "Эндээс намайг гарга!">
 <!ENTITY safeb.palm.decline.label "Энэ анхааруулгыг үл тоо">
 <!ENTITY safeb.palm.notforgery.label2 "Энэ вэб хууралт биш…">
+<!ENTITY safeb.palm.reportPage.label "Энэ хуудас яагаад хоригдсон бэ?">
 
-
+<!ENTITY safeb.blocked.malwarePage.title "Мэдээлсэн довтлогч хуудас!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Довтлогч хуудаснууд нь таны компьютер дээр програм суулгаж хувийн мэдээллийг тань хулгайлах, мөн эвдлэн сүйтгэх ажиллагаа үйлддэг. </p><p>Зарим довтлогч хуудаснууд нь хорлонтой програмуудыг шахаж бэлтгэсэн хэлбэрээр агуулж байдаг юмуу эсвэл эзэмжшигчийнх нь эрх юмуу түүнтэй холбогдох мэдээлэлгүй агуулагдаж байдаг. </p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Мэдээлэгдсэн вэб хууралт!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> дээрх энэ вэб хуудас нь вэб хууралт хийдэг хэмээн мэдээлэгдсэн бөгөөд таны нууцлалын тохируулгын дагуу хоригдсон болно.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Вэб хууралт хийгчид нь таны итгэлийг буруугаар ашиглаж хувийн мэдээлийг тань цуглуулж байдаг. </p><p>Иймэрхүү хуудсанд хувийн мэдээллээ оруулснаар та чухал мэдээллээ алдах юмуу цаашид буруугаар ашиглагдах боломжтой.</p>">

@@ -5,11 +5,11 @@
 <!ENTITY tracking.label                 "Ажиглах">
 
 <!ENTITY dntTrackingNopref.label2       "Миний тохируулгыг битгий сайтруу илгээ">
-
-
-
-
-
+<!ENTITY dntTrackingNopref.accesskey    "о">
+<!ENTITY dntTrackingNotOkay.label2      "Миний ачааллахыг хүсэхгүй байгаа сайтууд">
+<!ENTITY dntTrackingNotOkay.accesskey   "н">
+<!ENTITY dntTrackingOkay.label2         "Миний ачааллахыг хүсч буй сайтууд">
+<!ENTITY dntTrackingOkay.accesskey      "т">
 
 
 <!ENTITY  history.label                 "Түүх">
@@ -26,9 +26,9 @@
 
 
 
-
-
-
+<!ENTITY  acceptThirdParty.always.label   "үргэлж">
+<!ENTITY  acceptThirdParty.never.label    "хэзээ ч үгүй">
+<!ENTITY  acceptThirdParty.visited.label  "зорчсоноос">
 
 <!ENTITY  keepUntil.label               "Байлгах хугацаа:">
 <!ENTITY  keepUntil.accesskey           "й">
@@ -67,7 +67,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "одоо байгаа бүх зорчсон түүхийг арилгаж">
 <!ENTITY  dontrememberActions.post.label         "болно.">
 
-
+<!ENTITY  privateBrowsingPermanent2.label "Дандаа ашиглах  хувийн ачааллах загвар">
+<!ENTITY  privateBrowsingPermanent2.accesskey " ">
 
 <!ENTITY  rememberHistory2.label      "Үзсэн болон татаж авсан мэдээллийг санах">
 <!ENTITY  rememberHistory2.accesskey  "b">
