@@ -194,8 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Lägg till ett nyckelord för denna sökning…">
 <!ENTITY keywordfield.accesskey       "e">
-<!ENTITY search.label                 "Sök på webben">
-<!ENTITY search.accesskey             "S">
+
 <!ENTITY downloads.label              "Filhämtaren">
 <!ENTITY downloads.tooltip            "Visa förloppet för pågående filhämtningar">
 <!ENTITY downloads.accesskey          "F">
