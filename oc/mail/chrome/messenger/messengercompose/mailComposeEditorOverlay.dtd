@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachImageSource.label         "Jónher aqueste imatge al messatge">
+<!ENTITY attachImageSource.label         "JÃ³nher aqueste imatge al messatge">
 <!ENTITY attachImageSource.accesskey     "J">
 
-<!ENTITY attachLinkSource.label          "Jónher lo còde font d'aqueste ligam al messatge">
+<!ENTITY attachLinkSource.label          "JÃ³nher lo cÃ²de font d'aqueste ligam al messatge">
 <!ENTITY attachLinkSource.accesskey      "o">
