@@ -19,6 +19,8 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Саҥардыы сурунаала">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Саҥардыы сурунаалын көрдөр">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Профиль паапката">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -61,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Бибилитиэкэлэр барыллара">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Туруоруу сурунаала">
-
+<!ENTITY aboutSupport.updateHistoryTitle "Саҥардыы сурунаала">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Тиэкси долоҕойго (буфер обмена) төгүллээ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Таҥастамматах дааннайдары долоҕойго хатаа">

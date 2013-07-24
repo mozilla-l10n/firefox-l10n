@@ -688,4 +688,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginActivateNow.label "Билигин көҥүллээ">
 <!ENTITY pluginActivateAlways.label "Көҥүллээ уонна өйдөөн кэбис">
-
+<!ENTITY pluginBlockNow.label "Плагин хааччаҕа">

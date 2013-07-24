@@ -90,13 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "Т">
 <!ENTITY cmd.disableTheme.label               "Бу тиэмэни уонна туттума">
 <!ENTITY cmd.disableTheme.accesskey           "т">
-
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.label              "Холбот">
+<!ENTITY cmd.askToActivate.tooltip            "Бу эбиискэни куруук туттары көрдөө">
+<!ENTITY cmd.alwaysActivate.label             "Куруук холбоо">
+<!ENTITY cmd.alwaysActivate.tooltip           "Бу эбиискэни куруук тутун">
+<!ENTITY cmd.neverActivate.label              "Хаһан да холбообот буол">
+<!ENTITY cmd.neverActivate.tooltip            "Бу эбиискэни хаһан да туһаныма">
+<!ENTITY cmd.stateMenu.tooltip                "Эбиискэ холбонноҕуна уларытаар">
 <!ENTITY cmd.installAddon.label               "Туруор">
 <!ENTITY cmd.installAddon.accesskey           "Т">
 <!ENTITY cmd.uninstallAddon.label             "Сот">

@@ -49,7 +49,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-b "манна ааҕыаххын сөп">
-
+<!ENTITY rights3.webservices-c ". Атын функцияларын туруорууларынан араарыахха сөп.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">

@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "Масштаб:">
 <!ENTITY scale.accesskey     "ш">
-
+<!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Сирэй кэтитинэн">
 <!ENTITY shrinkToFit.accesskey "к">

@@ -65,7 +65,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Тэрилим бэйэбин кытта суох">
 <!ENTITY pairDevice.setup.description.label  "Холбуурга атын тэрилгэр «Соединиться с устройством» диэни тал.">
 <!ENTITY addDevice.setup.enterCode.label    "Онтон бу куоду киллэр:">
-
+<!ENTITY pairDevice.dialog.description.label "Саҥа тэрилгин холбуурга маны тал «Синхронизацияны иит».">
 <!ENTITY addDevice.dialog.enterCode.label   "Тэрил биэрбит куодун киллэр:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Бука диэн, хатылаа.">
 <!ENTITY addDevice.dialog.successful.label  "Тэрил сөпкө эбилиннэ. Бастакы синхронизация өр соҕус барыан сөп, бэйэтэ түмүктэниэ, салгыы үлэлиэххин сөп.">
