@@ -19,6 +19,8 @@
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Historial de actualizaciones">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar historial de actualizaciones">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -61,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
-
+<!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">

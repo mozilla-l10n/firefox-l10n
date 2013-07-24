@@ -76,4 +76,6 @@
   -  label for the checkbox that toggles persistent logs in the Web Console,
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
+
+<!ENTITY options.enablePersistentLogging.label    "Habilitar registros persistentes">
 <!ENTITY options.enablePersistentLogging.tooltip  "Si se activa esta opción, la consola web no borrará la salida cada vez que se desplaza a una nueva página">
