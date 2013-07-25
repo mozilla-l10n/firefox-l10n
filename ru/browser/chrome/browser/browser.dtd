@@ -236,7 +236,6 @@
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
 <!ENTITY historyUndoWindowMenu.label "Недавно закрытые окна">
 <!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
-<!ENTITY historyHomeCmd.label "Домашняя страница">
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Изменить">
