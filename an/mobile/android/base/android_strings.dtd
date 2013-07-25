@@ -4,28 +4,32 @@
 
 
 <!ENTITY  splash_settingup "Se ye configurando o suyo &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Se son esviellando as adrezas d\u0027interés y l\u0027historial; podría tardar un ratet.">
+<!ENTITY  splash_bookmarks_history "Se son esviellando as adrezas d'interés y l'historial; podría tardar un ratet.">
 
 <!ENTITY  no_space_to_start_error "No i hai prou espacio disponible ta que &brandShortName; se inicie.">
-<!ENTITY  error_loading_file "S\u0027ha produciu una error en mirar de cargar fichers necesarios ta executar &brandShortName;">
+<!ENTITY  error_loading_file "S'ha produciu una error en mirar de cargar fichers necesarios ta executar &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Habituals">
 <!ENTITY  awesomebar_bookmarks_title "Marcapachinas">
 <!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
-<!ENTITY  crash_reporter_title "Reporte de fallas de &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; ha fallau. As suyas pestanyas habrían de salir listadas en a pachina d\u0027inicio de &brandShortName; en reiniciar.">
-<!ENTITY  crash_help_message "Aduye-nos a solucionar iste problema!">
-<!ENTITY  crash_send_report_message "Ninviar un reporte de fallada a Mozilla">
-<!ENTITY  crash_include_url "Incluir l\u0027adreza d\u0027a pachina">
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message2 "&brandShortName; ha trobau un problema y se ye blocau. As suyas pestanyas habrán de listar-se en a pachina d'inicio de &brandShortName; malas que reinicie.">
+<!ENTITY  crash_send_report_message2 "Informar a Mozilla arredol d'ista falla ta que puedan corechir-la">
+<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_comment "Adhibir un comentario (os comentarios son visibles publicament)">
+<!ENTITY  crash_allow_contact "Permitir a Mozilla que contacte con yo en o tocant a iste informe">
+<!ENTITY  crash_email "O tuyo correu electronico">
+<!ENTITY  crash_closing_alert "Zarrar sin ninviar garra informe de falla?">
+<!ENTITY  sending_crash_report "Se ye ninviando un reporte de fallada\u2026">
 <!ENTITY  crash_close_label "Zarrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
-<!ENTITY  sending_crash_report "Se ye ninviando un reporte de fallada\u2026">
 <!ENTITY  exit_label "Salir">
-<!ENTITY  continue_label "Continar">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Aplicacions web">
-<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobau garra aplicación web">
+<!ENTITY  launcher_shortcuts_empty "No s'ha trobau garra aplicación web">
 
 <!ENTITY choose_file "Trigue un fichero">
 
@@ -35,9 +39,9 @@
 <!ENTITY remote_tabs_show_all "Amuestra todas as pestanyas">
 
 <!ENTITY bookmark "Marcapachinas">
-<!ENTITY bookmark_added "S\u0027ha adhibiu o marcapachinas">
-<!ENTITY bookmark_removed "S\u0027ha suprimiu o marcapachinas">
-<!ENTITY bookmark_updated "S\u0027ha esviellau o marcapachinas">
+<!ENTITY bookmark_added "S'ha adhibiu o marcapachinas">
+<!ENTITY bookmark_removed "S'ha suprimiu o marcapachinas">
+<!ENTITY bookmark_updated "S'ha esviellau o marcapachinas">
 
 <!ENTITY history_today_section "Hue">
 <!ENTITY history_yesterday_section "Ahiere">
@@ -51,40 +55,51 @@
 <!ENTITY menu "Menú">
 <!ENTITY back "Enta zaga">
 <!ENTITY stop "Aturar">
-<!ENTITY site_security "Seguridat d\u0027o puesto">
+<!ENTITY site_security "Seguridat d'o puesto">
 
 <!ENTITY close_tab "Zarrar a pestanya">
 <!ENTITY one_tab "1 pestanya">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestanyas">
-<!ENTITY new_tab_opened "S\u0027ha ubierto una pestanya nueva">
+<!ENTITY new_tab_opened "S'ha ubierto una pestanya nueva">
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
 <!ENTITY pref_category_general "Cheneral">
 <!ENTITY pref_category_privacy "Privacidat y seguranza">
 <!ENTITY pref_category_content "Conteniu">
-<!ENTITY pref_category_importexport "Importar &amp; exportar">
+<!-- Localization note (datareporting_title) : This string matches
+     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
+     capitalization. -->
+<!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
-<!ENTITY pref_do_not_track "Indicar que no me sigan o bayo">
-<!ENTITY pref_telemetry "Ninviar datos d\u0027o rendimiento">
 <!ENTITY pref_remember_signons "Recordar as claus">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "Cheneral">
+<!ENTITY pref_header_privacy "Privacidat y seguranza">
+<!ENTITY pref_header_content "Conteniu">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activau">
-<!ENTITY pref_cookies_not_accept_foreign "Activadas, fueras d\u0027as de tercers">
+<!ENTITY pref_cookies_not_accept_foreign "Activadas, fueras d'as de tercers">
 <!ENTITY pref_cookies_disabled "Desactivau">
+
+<!ENTITY pref_donottrack_menu "Seguir o bayo">
+<!ENTITY pref_donottrack_disallow_tracking "Dicir a os puestos web que no quiero que me sigan o bayo">
+<!ENTITY pref_donottrack_allow_tracking "Dicir a os puestos web que pueden seguir-me o bayo">
+<!ENTITY pref_donottrack_no_pref "Non comunicar garra preferencia quanto a o mio bayo">
 
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
-<!ENTITY pref_char_encoding_off "No amuestres o menú">
+<!ENTITY pref_char_encoding_off "Don\'t show menu">
 <!ENTITY pref_clear_private_data "Limpiar os datos privaus">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Desactivaus">
 <!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
 <!ENTITY pref_plugins_disabled "Desactivaus">
-<!ENTITY pref_text_size "Mida d\u0027a letra">
+<!ENTITY pref_text_size "Mida d'a letra">
 <!ENTITY pref_reflow_on_zoom2 "Pizcar ta reformatiar o texto">
 <!ENTITY pref_font_size_tiny "Muit chicota">
 <!ENTITY pref_font_size_small "Chicota">
@@ -101,7 +116,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "A rapida rabosa narancha blinca por dencima d\u0027as expectativas, con mas velocidat, mas flexibilidat y mas seguranza. Como que somos una organización sin animo de lucro, somos libres d\u0027innovar en o vuestro nombre sin garra mena de presión a la hora de comprometer-nos. Ixo quiere dicir que tos podemos ofrir una millor experiencia y un futuro mas brilant t\u0027o web.">
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_show_product_announcements "Amostrar anuncios de productos">
@@ -113,9 +128,30 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Galletas &amp; dentradas activas">
 <!ENTITY pref_private_data_passwords "Claus alzadas">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_offlineApps "Datos offline d\u0027o puesto web">
-<!ENTITY pref_private_data_siteSettings2 "Preferencias d\u0027o puesto">
+<!ENTITY pref_private_data_offlineApps "Datos offline d'o puesto web">
+<!ENTITY pref_private_data_siteSettings2 "Preferencias d'o puesto">
 <!ENTITY pref_private_data_downloadFiles "Fichers descargaus">
+
+<!ENTITY datareporting_notification_title "Estatisticas y datos de &brandShortName;">
+<!ENTITY datareporting_notification_action "Trigar qué compartir">
+<!ENTITY datareporting_notification_summary "Ta amillorar a suya experiencia, &brandShortName; ninvia automaticament quanta información arredol de &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Ta amillorar a suya experiencia, &brandShortName;…">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "Informe de salut de &brandShortName;">
+<!ENTITY datareporting_fhr_summary "Le aduya a comprender o rendimiento d'o suyo navegador y ninvia a &vendorShortName; bells datos arredol d'a salut d'o suyo navegador">
+<!ENTITY datareporting_telemetry_title "Telemetria">
+<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!-- Localization note (datareporting_crashreporter_title) : This string matches
+     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
+     except in branding. -->
+<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
 
 <!ENTITY pref_update_autodownload "Actualizacions automaticas">
 <!ENTITY pref_update_autodownload_wifi "Nomás baixo Wi-Fi">
@@ -127,14 +163,14 @@ size. -->
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Baixadas">
 <!ENTITY apps "Aplicacions">
-<!ENTITY char_encoding "Codificación d\u0027os caracters">
+<!ENTITY char_encoding "Codificación d'os caracters">
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por meyo de">
 <!ENTITY share_image_failed "No se puet compartir a imachen">
 <!ENTITY save_as_pdf "Alzar como PDF">
 <!ENTITY find_in_page "Trobar en a pachina">
-<!ENTITY desktop_mode "Demandar a versión d\u0027escritorio d\u0027o puesto">
+<!ENTITY desktop_mode "Demandar a versión d'escritorio d'o puesto">
 <!ENTITY tools "Ferramientas">
 <!ENTITY new_tab "Pestanya nueva">
 <!ENTITY new_private_tab "Nueva pestanya de navegación privada">
@@ -143,8 +179,8 @@ size. -->
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
 <!ENTITY wallpaper_success "Fondo de pantalla esviellau">
-<!ENTITY wallpaper_progress "Configuración d\u0027o fondo de pantalla">
-<!ENTITY wallpaper_fail "No s\u0027ha puesto establir o fondo de pantalla">
+<!ENTITY wallpaper_progress "Configuración d'o fondo de pantalla">
+<!ENTITY wallpaper_fail "No s'ha puesto establir o fondo de pantalla">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -156,31 +192,40 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Ubrir en una pestanya nueva">
 <!ENTITY contextmenu_open_private_tab "Ubrir en una pestanya privada">
 <!ENTITY contextmenu_open_in_reader "Ubrir en o Lector">
-<!ENTITY contextmenu_remove_history "Suprimir">
+<!ENTITY contextmenu_remove_history "Eliminar">
 <!ENTITY contextmenu_remove_bookmark "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Adhibir-lo a la pantalla inicial">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Apegar &amp; Ir">
 <!ENTITY contextmenu_paste "Apegar">
-<!ENTITY contextmenu_copyurl "Copiar l\u0027adreza">
+<!ENTITY contextmenu_copyurl "Copiar l'adreza">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_subscribe "Conducir-se a la pachina">
+<!ENTITY contextmenu_site_settings "Modificar os parametros d'o sitio">
 
-<!ENTITY history_removed "S\u0027ha eliminau a pachina">
+<!ENTITY pref_titlebar_mode "Barra de titol">
+<!ENTITY pref_titlebar_mode_title "Amostrar o titol d'a pachina">
+<!ENTITY pref_titlebar_mode_url "Amostrar l'adreza d'a pachina">
+
+<!ENTITY history_removed "S'ha eliminau a pachina">
 
 <!ENTITY bookmark_edit_title "Editar o marcapachinas">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Parola clau">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title2       "Achustes d\u0027o puesto…">
+<!ENTITY site_settings_title3       "Parametros d'o sitio">
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpiar">
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar.">
 
 <!ENTITY reading_list "Lista de lectura">
-<!ENTITY reading_list_added "S\u0027ha adhibiu a la suya pachina de lectura">
-<!ENTITY reading_list_removed "S\u0027ha eliminau d\u0027a suya pachina de lectura">
-<!ENTITY reading_list_failed "No s\u0027ha puesto adhibir a pachina en a suya Lista de lectura">
+<!ENTITY reading_list_added "S'ha adhibiu a la suya pachina de lectura">
+<!ENTITY reading_list_removed "S'ha eliminau d'a suya pachina de lectura">
+<!ENTITY reading_list_failed "No s'ha puesto adhibir a pachina en a suya Lista de lectura">
+<!ENTITY reading_list_duplicate "A pachina ya ye present en a suya lista de lectura">
 <!ENTITY reader "Lector">
 
 <!ENTITY masterpassword_create_title "Creyar una clau mayestra">
@@ -188,7 +233,7 @@ size. -->
 <!ENTITY masterpassword_password "Clau">
 <!ENTITY masterpassword_confirm "Confirme a clau">
 
-<!ENTITY button_ok "D\u0027alcuerdo">
+<!ENTITY button_ok "D'alcuerdo">
 <!ENTITY button_cancel "Cancelar">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
@@ -198,21 +243,20 @@ size. -->
 
 <!ENTITY abouthome_addons_title "Os complementos de &brandShortName;">
 <!ENTITY abouthome_addons_browse "Amostrar totz os complementos de &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "As pestanyas d\u0027a zaguer vegada">
-<!ENTITY abouthome_last_tabs_open "Ubrir todas as pestanyas d\u0027a zaguera vegada">
+<!ENTITY abouthome_last_tabs_title "As pestanyas d'a zaguer vegada">
+<!ENTITY abouthome_last_tabs_open "Ubrir todas as pestanyas d'a zaguera vegada">
 <!ENTITY abouthome_top_sites_title "Habituals">
 <!ENTITY abouthome_topsites_edit "Editar">
 <!ENTITY abouthome_topsites_pin "Clavar o puesto">
 <!ENTITY abouthome_topsites_unpin "Desclavar o puesto">
-<!ENTITY abouthome_topsites_remove "Eliminar">
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
 
-<!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync ta accedir ta os marcapachinas, l\u0027historial y as pestanyas d\u0027os suyos atros dispositivos&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Baixe-se aplicacions d\u0027o mercau de Firefox y descubra o millor que o ret le puede ofrir&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Configurar o Firefox Sync ta accedir ta os marcapachinas, l'historial y as pestanyas d'os suyos atros dispositivos&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Baixe-se aplicacions d'o mercau de Firefox y descubra o millor que o ret le puede ofrir&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -240,21 +284,21 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que perteneix a">
 
-<!ENTITY private_data_success "S\u0027ha borrau os datos privaus">
-<!ENTITY private_data_fail "Bells datos privaus no s\u0027han puesto borrar">
+<!ENTITY private_data_success "S'ha borrau os datos privaus">
+<!ENTITY private_data_fail "Bells datos privaus no s'han puesto borrar">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y 
-l\u0027historial dende Android">
+l'historial dende Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se son importando os 
 marcapachinas dende Android">
-<!ENTITY bookmarkhistory_import_history "Se ye importando l\u0027historial 
+<!ENTITY bookmarkhistory_import_history "Se ye importando l'historial 
 dende Android">
 <!ENTITY bookmarkhistory_import_wait "Aguarde por favor...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
-<!ENTITY suggestions_prompt2 "Quiere activar as sucherencias de busca d\u0027o &formatS;?">
+<!ENTITY suggestions_prompt2 "Quiere activar as sucherencias de busca d'o &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicacions">
 
@@ -266,7 +310,7 @@ dende Android">
 
 <!ENTITY updater_downloading_title2 "Se ye baixando &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "A baixada ha fallau">
-<!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l\u0027esvielle malas que se baixe">
+<!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l'esvielle malas que se baixe">
 <!ENTITY updater_downloading_retry2 "Toque-ie ta tornar a prebar-lo">
 
 <!ENTITY updater_apply_title2 "Esvielle disponible ta &brandShortName;">

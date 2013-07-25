@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "m">
 <!ENTITY cmd.disableTheme.label               "Deixar d'emplegar o tema">
 <!ENTITY cmd.disableTheme.accesskey           "p">
+<!ENTITY cmd.askToActivate.label              "Preguntar pa activar">
+<!ENTITY cmd.askToActivate.tooltip            "Demandar por cada vegada o permiso pa fer servir iste complemento">
+<!ENTITY cmd.alwaysActivate.label             "Activar siempre">
+<!ENTITY cmd.alwaysActivate.tooltip           "Fer servir siempre iste complemento">
+<!ENTITY cmd.neverActivate.label              "No activar nunca">
+<!ENTITY cmd.neverActivate.tooltip            "No fer servir nunca iste complemento">
+<!ENTITY cmd.stateMenu.tooltip                "Cambiar quan s'execute iste complemento">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">

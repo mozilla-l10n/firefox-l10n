@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Fer isto automaticament ta istos fichers a partir d'agora.">
 <!ENTITY  rememberChoice.accesskey    "e">
 
-<!ENTITY  whichIsA.label              "que ye un/a:">
+<!ENTITY  whichIs.label              "que ye:">
 
 <!ENTITY  chooseHandlerMac.label      "Trigar…">
 <!ENTITY  chooseHandlerMac.accesskey  "T">

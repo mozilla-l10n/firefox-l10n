@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Qualsiquier politica de privacidat aplicable a iste producto s'ha de listar aquí.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Belunas d'as funcionalidatz d'o &brandShortName; fan servir servicios d'información web; manimenos, no podemos guarenciar que sigan 100&#037; precisos u sinde errors. Mas detalles, incluindo-ie información de cómo inhabilitar istos servicios, puet trobar-se en os ">
+<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
 <!ENTITY rights.intro-point4b "termins d'o servicio">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
@@ -51,16 +51,16 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "O &brandFullName; emplega servicios d&apos;información web (&quot;servicios&quot; d&apos;agora entabant), ta proporcionar belunas d&apos;as funcionalidatz disponibles t&apos;o suyo emplego con ista versión binaria d&apos;o &brandShortName;; como se describe a continuación. Si no en quiere fer servir un (o mas), o bien no considera lurs termins acceptables, puet trigar inhabilitar-los. I ha instruccions de como inhabilitar una funcionalidat u servicio concreto ">
+<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 <!ENTITY rights2.webservices-b "aquí">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". A resta de caracteristicas y servicios se pueden desactivar en as preferencias de l'aplicación.">
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Navegación segura: ">
 <!ENTITY rights.safebrowsing-b "Desactivar a caracteristica de navegación segura no se recomienda porque puede dar como resultau que visite puestos no seguros.  Si deseya desactivar de tot ista caracteristica, siga os trangos siguients:">
 <!ENTITY rights.safebrowsing-term1 "Ubra as preferencias de l'aplicación">
 <!ENTITY rights.safebrowsing-term2 "Seleccione o panel Seguranza">
-<!ENTITY rights.safebrowsing-term3 "Saque o sinyal d&apos;as opcions ta &quot;&blockAttackSites.label;&quot; y &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegación segura ye agora desactivada">
 <!-- location aware browsing points for branded builds -->
 
@@ -82,7 +82,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; y os suyos colaboradors, licenciatarios y socios treballan ta furnir os servicios mas precisos y actualizaus.  Manimenos, no podemos guarenciar que ista información sía completa y libre d'errors.  Por eixemplo, o servicio de navegación segura puede no identificar qualques puestos periglosos y puede identificar qualques puestos seguros por error y as adrezas tornadas por os nuestros proveyedors d'o servicio de navegación basada en a ubicación son solament estimacions y ni nusatros ni os nuestros proveyedors guarenciamos a exactitut d'as ubicacions proporcionadas.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; puede deixar d'ufrir u cambiar os servicios en qualsiquier inte.">
 <!ENTITY rights2.webservices-term3 "Puede fer servir istos servicios con a versión correspondient de &brandShortName; y &vendorShortName; le atorga dreitos ta fer-lo.  &vendorShortName; y os suyos licenciatarios se reservan a resta de dreitos d'os servicios. Istos termins no limitan garra dreito atorgau por as licencias de codigo ubierto aplicables a &brandShortName; y as versions d'o codigo fuent correspondient de &brandShortName;.">
-<!ENTITY rights.webservices-term4 "Os servicios se presentan &quot;tal qual son&quot;.  &vendorShortName;, os suyos colaboradors, licenciadors, y distribuidors negan dar qualsiquier guarancia, ya siga expresa u implicita, incluindo-ie, sin garra mena de limitación, guarancias de que os servicios sigan comercials y que respondan a os suyos propositos particulars.  Vusté asume tot o risgo de trigar os servicios t&apos;os suyos propositos, asinas como lur qualidat y rendimiento. Bellas churisdiccions no permiten a exclusión o limitación d&apos;as guarancias implicitas y, doncas, ista norma talment no le afecte.">
+<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term5 "Fueras d'an que sía requeriu por a lei, &vendorShortName;, os suyos colaboradors, licenciatarios y distribuidors no serán responsables de garra danyo indirecto, especial, imprevisto, resultant, punitivo u eixemplar relacionau con l'uso de &brandShortName; y os servicios. a responsabilidat colectiva baixo istes termins no podrán exceder os US$500 (cincientos dolars). Qualques churisdiccions no permiten a exclusión u limitación de bells danyos, asinas que ista exclusión y limitación puede no estar aplicable ta vusté.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; puede actualizar istos termins quan sía necesario, de tiempo en tiempo. Istos termins no pueden estar modificaus u cancelaus sin o consentimiento por escrito de &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "Istos termins son rechius por as leis d'o Estau de California, E.U.A., excluindo-ne os conflictos previstos por a lei. Si qualsiquier parte d'istos termins fuesen consideraus no validos u no aplicables, a resta de partes continarían tenendo a suya fuerza y efecto total. Caso d'haber un conflicto entre una versión traducida d'istes termins y a versión en idioma Anglés, a versión en Anglés será a que prevaldrá.">

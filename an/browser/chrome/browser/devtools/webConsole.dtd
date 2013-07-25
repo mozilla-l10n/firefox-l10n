@@ -9,6 +9,7 @@
 
 
 <!ENTITY window.title "Consola web">
+<!ENTITY browserConsole.title "Consola d'o navegador">
 
 <!ENTITY networkPanel.requestURLColon             "URL demandada:">
 <!ENTITY networkPanel.requestMethodColon          "Metodo d'a demanda:">
@@ -48,6 +49,8 @@
 <!ENTITY btnPageCSS.tooltip "Rechistrar as errors d'analís de CSS">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Rechistrar as excepcions JavaScript">
+<!ENTITY btnPageSecurity.label "Seguranza">
+<!ENTITY btnPageSecurity.tooltip "Rechistrar as erradas de seguranza y alvertencias">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -60,7 +63,7 @@
 <!ENTITY btnConsoleWarnings     "Alvertencias">
 <!ENTITY btnConsoleLog          "Rechistro">
 
-<!ENTITY filterBox.placeholder "Filtro">
+<!ENTITY filterOutput.placeholder "Filtrar a salida">
 <!ENTITY btnClear.label        "Borrar">
 <!ENTITY btnClear.tooltip      "Borrar a salida d'a Consola web">
 
@@ -77,3 +80,5 @@
 
 <!ENTITY copyURLCmd.label     "Copiar a localización d'o enlaz">
 <!ENTITY copyURLCmd.accesskey "a">
+
+<!ENTITY closeCmd.key  "W">

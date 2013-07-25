@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Alvertir en ubrir multiples pestanyas que puedan ralentir o &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "v">
 
-<!ENTITY showTabBar.label             "Amostrar siempre a barra de pestanyas">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "No cargar las pestanyas dica que no sigan trigadas">
 <!ENTITY restoreTabsOnDemand.accesskey    "r">
 

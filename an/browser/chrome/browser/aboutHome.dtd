@@ -21,6 +21,8 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox ye de buen personalizar, exactament d'a traza que quiera. <a>Trigue entre milars de complementos</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ye un software libre y de codigo fuent ubierto d'a fundación sin animo de lucro Mozilla. <a>Conoixca os suyos dreitos…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcapachinas">
 <!ENTITY abouthome.historyButton.label   "Historial">

@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "Cargar imachens automaticament">
-<!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Excepcions…">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "Activar o JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "S">
-<!ENTITY  advancedJS.label            "Abanzau…">
-<!ENTITY  advancedJS.accesskey        "b">
-
-<!ENTITY  enableJava.label            "Activar o Java">
-<!ENTITY  enableJava.accesskey        "J">
-
-
 <!ENTITY  fontsAndColors.label        "Tipografía y colors">
 
 <!ENTITY  defaultFont.label           "Tipografía por defecto:">
