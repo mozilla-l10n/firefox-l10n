@@ -38,7 +38,7 @@
 <!ENTITY useAutoScroll.label             "Folosește derularea automată">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Folosește derularea lină">
-<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY useSmoothScrolling.accesskey    "i">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
@@ -48,7 +48,7 @@
 <!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "V">
 <!ENTITY setDefault.label                "Fă &brandShortName; navigatorul meu principal">
-<!ENTITY setDefault.accesskey            "F">
+<!ENTITY setDefault.accesskey            "p">
 <!ENTITY isDefault.label                 "&brandShortName; e acum navigatorul principal">
 
 <!ENTITY dataChoicesTab.label            "Opțiuni de date">

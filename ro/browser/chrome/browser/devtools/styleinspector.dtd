@@ -2,8 +2,8 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# alexef <alex@eftimie.ro>
 # raulmalea <raul.malea@gmail.com>
+# alexef <alex@eftimie.ro>
 #
 -->
 <!--
@@ -43,6 +43,6 @@
 <!ENTITY noPropertiesFound     "Nicio proprietate CSS găsită.">
 
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Calculat">
+<!ENTITY computedViewTitle     "Evaluat">
 <!ENTITY ruleViewTitle         "Reguli">
 

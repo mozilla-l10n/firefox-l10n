@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixare filă">
 <!ENTITY  pinTab.accesskey                   "f">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "x">
 <!ENTITY  moveToGroup.label                  "Mută în grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
@@ -297,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Fereastră fără urme nouă">
-<!ENTITY newPrivateWindow.accesskey "v">
+<!ENTITY newPrivateWindow.accesskey "m">
 
 <!ENTITY editMenu.label         "Editare"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -402,7 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.label            "Deschide legătura în fereastră nouă">
 <!ENTITY openLinkCmd.accesskey        "D">
 <!ENTITY openLinkInPrivateWindowCmd.label "Deschide legătura în fereastră fără urme nouă">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "m">
 <!ENTITY openLinkCmdInCurrent.label     "Deschide legătura">
 <!ENTITY openLinkCmdInCurrent.accesskey "D">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
