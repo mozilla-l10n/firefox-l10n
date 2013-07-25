@@ -25,7 +25,7 @@
 <!ENTITY privatebrowsingpage.perwindow.description     "Într-o fereastră de navigare fără urme, &brandShortName; nu va păstra nimic din istoricul navigării, istoricul căutărilor, istoricul descărcărilor, istoricul formularelor web, cookie-uri sau fișierele temporare din internet. Cu toate acestea, fișierele pe care le descărcați și semnele de carte pe care le faceți vor fi păstrate.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 <!ENTITY privatebrowsingpage.howToStart3               "Pentru a începe navigarea fără urme, puteți să selectați și &basePBMenu.label; &gt; &newPrivateWindow.label;.">
