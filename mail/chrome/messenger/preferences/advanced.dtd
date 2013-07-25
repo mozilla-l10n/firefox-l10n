@@ -90,8 +90,6 @@
 <!ENTITY certs.ask.accesskey "ш">
 <!ENTITY viewCertificates.label "Просмотр сертификатов">
 <!ENTITY viewCertificates.accesskey "ф">
-<!ENTITY viewCRLs.label "Списки отзыва сертификатов">
-<!ENTITY viewCRLs.accesskey "з">
 <!ENTITY validation.label "Настройки OCSP">
 <!ENTITY validation.accesskey "т">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
