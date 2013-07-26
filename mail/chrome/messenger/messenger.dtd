@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
 <!ENTITY newIMAccountCmd.label "Csevegőfiók…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Hírforrásfiók…">
+<!ENTITY newFeedAccountCmd.accesskey "h">
 <!ENTITY newIMContactCmd.label "Csevegőpartner…">
 <!ENTITY newIMContactCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása…">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "P">
+<!ENTITY allowRemoteDebugging.label "Távoli hibakeresés be/ki">
+<!ENTITY allowRemoteDebugging.accesskey "v">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Letöltés">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Válasz a feladónak és az összes címzettnek">
 <!ENTITY replyListButton.tooltip "Válasz a levelezőlistára">
 <!ENTITY forwardButton.tooltip "A kijelölt üzenet továbbítása">
+<!ENTITY forwardAsInline.tooltip "A kijelölt üzenet továbbítása beágyazva">
+<!ENTITY forwardAsAttachment.tooltip "A kijelölt üzenet továbbítása mellékletként">
 <!ENTITY fileButton.tooltip "A kijelölt üzenet áthelyezése">
 <!ENTITY archiveButton.tooltip "Kijelölt üzenetek archiválása">
 <!ENTITY nextButton.tooltip "Ugrás a következő olvasatlan üzenetre">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
 <!ENTITY appmenuButton1.tooltip "A &brandShortName; menü megjelenítése">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Továbbítás beágyazva">
+<!ENTITY buttonMenuForwardAsAttachment.label "Továbbítás mellékletként">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
 <!ENTITY folderContextGetMessages.accesskey "z">
-<!ENTITY folderContextOpenNewWindow.label "Megnyitás">
-<!ENTITY folderContextOpenNewWindow.accesskey "n">
+<!ENTITY folderContextOpenInNewWindow.label "Megnyitás új ablakban">
+<!ENTITY folderContextOpenInNewWindow.accesskey "a">
 <!ENTITY folderContextOpenNewTab.label "Megnyitás új lapon">
 <!ENTITY folderContextOpenNewTab.accesskey "l">
 <!ENTITY folderContextNew.label "Új almappa…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "Továbbítás">
 <!ENTITY contextForward.accesskey "T">
-<!ENTITY contextForwardAsAttachment.label "Továbbítás mellékletként">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Továbbítás módja">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Beágyazva">
+<!ENTITY contextForwardAsInline.accesskey "v">
+<!ENTITY contextForwardAsAttachmentItem.label "Melléklet">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "m">
+<!ENTITY contextMultiForwardAsAttachment.label "Továbbítás mellékletként">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "T">
 <!ENTITY contextMoveMsgMenu.label "Áthelyezés">
 <!ENTITY contextMoveMsgMenu.accesskey "h">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nemrég használt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Átmásolás">
 <!ENTITY contextCopyMsgMenu.accesskey "m">
+<!ENTITY contextKillThreadMenu.label "Témacsoport kihagyása">
+<!ENTITY contextKillThreadMenu.accesskey "h">
+<!ENTITY contextKillSubthreadMenu.label "Témacsoportrész kihagyása">
+<!ENTITY contextWatchThreadMenu.label "Témacsoport figyelése">
 <!ENTITY contextSaveAs.label "Mentés másként…">
 <!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Nyomtatás…">
