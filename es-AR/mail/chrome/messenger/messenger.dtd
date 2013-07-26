@@ -562,6 +562,10 @@
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta actual">
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
 
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Reenviar incorporado">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reenviar como adjunto">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de libreta de direcciones…">
@@ -705,6 +709,8 @@
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Adjunto">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Reenviar como adjuntos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mover a">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Reciente">
