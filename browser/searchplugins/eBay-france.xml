@@ -12,7 +12,7 @@
    <Param name="q" value="{searchTerms}"/>
 </Url>
 <Url type="text/html" method="GET" template="http://rover.ebay.com/rover/1/709-47295-17703-3/4">
-   <Param name="mpre" value="http://annonces.ebay.fr/allitems?_nkw={searchTerms}"/>
+   <Param name="mpre" value="http://www.ebay.fr/sch/i.html?_nkw={searchTerms}"/>
 </Url>
 <SearchForm>http://www.ebay.fr</SearchForm>
 </SearchPlugin>
