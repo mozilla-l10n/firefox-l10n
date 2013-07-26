@@ -248,7 +248,6 @@
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
-<!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuEdit.label "Editar">
