@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.tooltip          "Afficher les pages visitées récemment">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Outils">
+<!ENTITY toolsMenu.label              "Outils de développement">
 <!ENTITY toolsMenu.accesskey          "O">
 
 <!ENTITY keywordfield.label           "Ajouter un mot-clé pour cette recherche…">
@@ -249,7 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.label          "Outils">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils développeurs">
+<!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils de développement">
 
 <!ENTITY devToolbarOtherToolsButton.label  "Autres outils">
 
