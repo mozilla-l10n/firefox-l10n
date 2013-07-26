@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Arată cookie-urile...">
-<!ENTITY  showCookies.accesskey         "c">
+<!ENTITY  showCookies.accesskey         "ă">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
 <!ENTITY  historyHeader.pre.accesskey      "v">
@@ -90,7 +90,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare fără urme">
-<!ENTITY  privateBrowsingPermanent2.accesskey "F">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ș">
 
 <!ENTITY  rememberHistory2.label      "Memorează istoricul navigării și al descărcărilor">
 <!ENTITY  rememberHistory2.accesskey  "g">
