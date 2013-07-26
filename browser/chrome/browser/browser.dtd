@@ -205,8 +205,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "Agregar una palabra clave a esta búsqueda…">
 <!ENTITY keywordfield.accesskey "g">
-<!ENTITY search.label "Búsqueda web">
-<!ENTITY search.accesskey "S">
 <!ENTITY downloads.label "Descargas">
 <!ENTITY downloads.tooltip "Muestra el progreso de las descargas">
 <!ENTITY downloads.accesskey "D">
@@ -332,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión previa">
 
-<!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
