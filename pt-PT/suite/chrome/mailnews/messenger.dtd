@@ -158,8 +158,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "s">
 <!ENTITY sortByFromCmd.label "De">
 <!ENTITY sortByFromCmd.accesskey "D">
-<!ENTITY sortByRecipientCmd.label "Destinatário">
-<!ENTITY sortByRecipientCmd.accesskey "i">
+<!ENTITY sortByRecipientsCmd.label "Destinatários">
+<!ENTITY sortByRecipientsCmd.accesskey "i">
+<!ENTITY sortByToCmd.label "Para">
+<!ENTITY sortByToCmd.accesskey "a">
 <!ENTITY sortByUnreadCmd.label "Lida">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Ordem de chegada">
