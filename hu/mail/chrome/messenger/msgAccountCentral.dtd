@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "Hírforrások">
 <!ENTITY subscribeFeeds.label         "Feliratkozások kezelése">
 
+<!ENTITY chat.label                   "Csevegés">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Postafiókok">
 <!ENTITY subscribeImapFolders.label   "Mappafeliratkozások kezelése">
 <!ENTITY settingsLink.label           "Postafiók tulajdonságainak megtekintése">
 <!ENTITY newAcctLink.label            "Új postafiók létrehozása">
+<!ENTITY newAcct.label                "Új postafiók létrehozása:">
 
 <!ENTITY advFeaturesSectionHdr.label  "További funkciók">
 <!ENTITY searchMsgsLink.label         "Üzenetek keresése">
