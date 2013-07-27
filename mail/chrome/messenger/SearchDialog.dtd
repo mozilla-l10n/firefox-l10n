@@ -39,7 +39,8 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "主題">
 <!ENTITY fromColumn.label "從">
-<!ENTITY recipientColumn.label "收件者">
+<!ENTITY recipientsColumn.label "收件者">
+<!ENTITY toColumn.label "給">
 <!ENTITY subjectColumn.label "主旨">
 <!ENTITY dateColumn.label "日期">
 <!ENTITY priorityColumn.label "重要性">
@@ -60,7 +61,8 @@
 <!ENTITY columnChooser.tooltip "點此選擇要顯示的欄位">
 <!ENTITY threadColumn.tooltip "點此顯示同主題的討論串"> 
 <!ENTITY fromColumn.tooltip "點選依照寄件者排序">
-<!ENTITY recipientColumn.tooltip "點選以依收件者排序">
+<!ENTITY recipientsColumn.tooltip "點選以依照收件者排序">
+<!ENTITY toColumn.tooltip "點選以依照寄件給誰 (To) 排序">
 <!ENTITY subjectColumn.tooltip "點選以照標題排序">
 <!ENTITY dateColumn.tooltip "點選以照日期排序">
 <!ENTITY priorityColumn.tooltip "點選以照優先權排序">

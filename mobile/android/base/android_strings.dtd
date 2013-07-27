@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "正在設定您的 &brandShortName;">
-<!ENTITY  splash_bookmarks_history "我們正在更新您的書籤與歷史紀錄，可能需要花上幾分鐘。">
-
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
@@ -68,10 +65,12 @@
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
 <!ENTITY pref_category_customize "自訂">
+<!ENTITY pref_category_search "搜尋">
 <!ENTITY pref_category_display "顯示">
 <!ENTITY pref_category_privacy_short "個人隱私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "資料選擇">
+<!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -250,7 +249,10 @@ size. -->
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
 <!ENTITY reading_list_duplicate "頁面已存在於您的閱讀清單中">
-<!ENTITY reader "閱讀器">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "其他操作">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
 <!ENTITY masterpassword_remove_title "移除主控密碼">
@@ -345,4 +347,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_apply_select2 "選擇此處套用">
+
+<!-- Guest mode -->
+<!ENTITY enter_guest_mode "進入訪客模式">
+<!ENTITY exit_guest_mode "離開訪客模式">
+<!ENTITY guest_mode_dialog_continue "繼續">
+<!ENTITY guest_mode_dialog_cancel "取消">
+<!ENTITY guest_mode_enter_title "訪客模式">
+<!ENTITY guest_mode_enter_text "進入訪客模式時，使用 &brandShortName; 的人將無法看到您的私人瀏覽資料 (諸如您已儲存的密碼、瀏覽紀錄或書籤)。\n\n當您的訪客上完網後，他們的瀏覽資料也會被清除。">
+
+<!ENTITY guest_mode_leave_title "離開訪客模式">
+<!ENTITY guest_mode_leave_text "&brandShortName; 將會清除此瀏覽階段中的瀏覽資料。">
 
