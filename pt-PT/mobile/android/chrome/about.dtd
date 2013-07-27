@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Procurar actualizações »">
 <!ENTITY aboutPage.checkForUpdates.checking     "A procurar actualizações…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nenhuma actualização disponível">
-<!ENTITY aboutPage.checkForUpdates.available    "Atualização disponível; clique para transferir">
+<!ENTITY aboutPage.checkForUpdates.available2   "Transferir atualização">
 <!ENTITY aboutPage.checkForUpdates.downloading  "A transferir atualização…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Atualização transferida; clique para instalar">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar atualização">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Suporte">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidade">
