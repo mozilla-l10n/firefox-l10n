@@ -64,13 +64,13 @@
 
 <!ENTITY settings "Definições">
 <!ENTITY settings_title "Definições">
-<!ENTITY pref_category_customize "Customize">
-<!ENTITY pref_category_search "Search">
-<!ENTITY pref_category_display "Display">
-<!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_customize "Personalizar">
+<!ENTITY pref_category_search "Procurar">
+<!ENTITY pref_category_display "Mostrar">
+<!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_category_installed_search_engines "Installed search engines">
+<!ENTITY pref_category_datareporting "Escolhas de dados">
+<!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -354,3 +354,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 <!ENTITY enter_guest_mode "Entrar no modo de convidado">
 <!ENTITY exit_guest_mode "Sair do modo de convidado">
+<!ENTITY guest_mode_dialog_continue "Continuar">
+<!ENTITY guest_mode_dialog_cancel "Cancelar">
+<!ENTITY guest_mode_enter_title "Modo convidado">
+<!ENTITY guest_mode_enter_text "Enquanto no modo de convidado, a pessoa que usa o &brandShortName; não poderá ver nenhum dos dados de navegação pessoal (como as senhas guardadas, histórico ou marcadores).\n\nQuando o convidado terminar, o histórico de navegação será eliminado.">
+
+<!ENTITY guest_mode_leave_title "A deixar o modo de convidado">
+<!ENTITY guest_mode_leave_text "O &brandShortName; vai eliminar os dados de navegação desta sessão.">
