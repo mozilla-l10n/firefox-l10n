@@ -5,6 +5,8 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -204,8 +206,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Ajouter un mot-clé pour cette recherche…">
 <!ENTITY keywordfield.accesskey       "m">
-<!ENTITY search.label                 "Rechercher sur le Web">
-<!ENTITY search.accesskey             "c">
 <!ENTITY downloads.label              "Téléchargements">
 <!ENTITY downloads.tooltip            "Afficher la progression des téléchargements en cours">
 <!ENTITY downloads.accesskey          "T">
@@ -332,7 +332,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Fenêtres récemment fermées">
 <!ENTITY historyRestoreLastSession.label "Restaurer la session précédente">
 
-<!ENTITY historyHomeCmd.label "Accueil">
 <!ENTITY showAllHistoryCmd2.label "Afficher l'historique">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
