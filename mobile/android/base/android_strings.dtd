@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY splash_settingup "Configurazione in corso di &brandShortName;">
-<!ENTITY splash_bookmarks_history "È in corso l’aggiornamento dei segnalibri e della cronologia, questo potrebbe richiedere circa un minuto.">
 <!ENTITY no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
 <!ENTITY error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
 <!ENTITY awesomebar_all_pages_title "Siti principali">
@@ -245,3 +243,9 @@
 <!ENTITY updater_apply_select2 "Tocca per aggiornare">
 <!ENTITY enter_guest_mode "Attiva mod. ospite">
 <!ENTITY exit_guest_mode "Disattiva mod. ospite">
+<!ENTITY guest_mode_dialog_continue "Continua">
+<!ENTITY guest_mode_dialog_cancel "Annulla">
+<!ENTITY guest_mode_enter_title "Modalità ospite">
+<!ENTITY guest_mode_enter_text "In modalità ospite la persona che utilizza &brandShortName; non potrà visualizzare alcun dato personale già presente, come ad esempio password salvate, cronologia o segnalibri.\n\nI dati relativi alla navigazione verranno eliminati all'uscita dalla modalità ospite.">
+<!ENTITY guest_mode_leave_title "Disattivazione mod. ospite">
+<!ENTITY guest_mode_leave_text "I dati relativi a questa sessione di navigazione verranno eliminati da &brandShortName;.">
