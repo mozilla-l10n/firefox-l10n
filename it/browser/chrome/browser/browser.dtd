@@ -146,8 +146,6 @@
 <!ENTITY toolsMenu.accesskey "S">
 <!ENTITY keywordfield.label "Aggiungi una parola chiave per questa ricerca…">
 <!ENTITY keywordfield.accesskey "p">
-<!ENTITY search.label "Cerca sul web">
-<!ENTITY search.accesskey "r">
 <!ENTITY downloads.label "Download">
 <!ENTITY downloads.tooltip "Mostra l'avanzamento dei download in corso">
 <!ENTITY downloads.accesskey "D">
@@ -238,7 +236,6 @@
 <!ENTITY historyUndoMenu.label "Schede chiuse di recente">
 <!ENTITY historyUndoWindowMenu.label "Finestre chiuse di recente">
 <!ENTITY historyRestoreLastSession.label "Ripristina la sessione precedente">
-<!ENTITY historyHomeCmd.label "Pagina iniziale">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 <!ENTITY appMenuCustomize.label "Personalizza">
