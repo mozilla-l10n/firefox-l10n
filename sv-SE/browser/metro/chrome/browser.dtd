@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
 <!ENTITY urlbar.emptytext      "Ange sökning eller adress">
 <!ENTITY urlbar.accesskey      "d">
 
@@ -10,15 +12,18 @@
 <!ENTITY newtab.label          "Ny flik">
 <!ENTITY closetab.label        "Stäng flik">
 
+<!ENTITY autocompleteResultsHeader.label  "Dina resultat">
+<!ENTITY autocompleteSearchesHeader.label "Internetsökningar"> 
+
 <!ENTITY appbarErrorConsole.label   "Öppna felkonsol">
 <!ENTITY appbarJSShell.label        "Öppna JavaScript-skal">
 <!ENTITY appbarFindInPage2.label    "Sök på sidan">
 <!ENTITY appbarViewOnDesktop2.label "Visa på skrivbordet">
 
-<!ENTITY startTopSitesHeader.label        "Mest besökta">
-<!ENTITY startBookmarksHeader.label       "Bokmärken">
-<!ENTITY startHistoryHeader.label         "Nyligen besökta">
-<!ENTITY startRemoteTabsHeader.label      "Flikar från andra enheter">
+<!ENTITY topSitesHeader.label        "Mest besökta">
+<!ENTITY bookmarksHeader.label       "Bokmärken">
+<!ENTITY recentHistoryHeader.label   "Nyligen besökta">
+<!ENTITY remoteTabsHeader.label      "Flikar från andra enheter">
 
 <!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
      Needs to be two words or shorter to fit in narrow vertical space.-->
@@ -28,12 +33,9 @@
                         snappedTopSitesHeader.label )
       The '>' character is not part of the name, but is an indicator of more content. Please do not localize the '>' -->
 <!ENTITY snappedRemoteTabsHeader.label    "Fjärrflikar >">
-<!ENTITY snappedBookmarksHeader.label       "Bokmärken >">
-<!ENTITY snappedHistoryHeader.label         "Nyligen besökta >">
+<!ENTITY snappedBookmarksHeader.label     "Bokmärken >">
+<!ENTITY snappedRecentHistoryHeader.label "Nyligen besökta >">
 <!ENTITY snappedTopSitesHeader.label      "Mest besökta >">
-
-<!ENTITY autocompleteResultsHeader.label  "Dina resultat">
-<!ENTITY autocompleteSearchesHeader.label "Internetsökningar"> 
 
 <!ENTITY downloadsHeader.label     "Filhämtningar">
 <!ENTITY downloadShowPage.label    "Gå till sida">
@@ -47,7 +49,6 @@
 <!ENTITY downloadDelete.label      "Ta bort">
 <!ENTITY downloadFailed.label      "Misslyckad">
 
-<!ENTITY bookmarksHeader.label     "Bokmärken">
 <!ENTITY allBookmarks.label        "Se alla bokmärken">
 
 <!ENTITY consoleHeader.label       "Felkonsol">
