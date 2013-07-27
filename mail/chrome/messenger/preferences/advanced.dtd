@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Näytä varmenteet">
 <!ENTITY viewCertificates.accesskey     "N">
-<!ENTITY viewCRLs.label                 "Sulkulistat">
-<!ENTITY viewCRLs.accesskey             "S">
 <!ENTITY validation.label               "Kelpuutus">
 <!ENTITY validation.accesskey           "K">
 <!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">
