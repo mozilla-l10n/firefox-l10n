@@ -158,8 +158,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "S">
 <!ENTITY sortByFromCmd.label "寄件者">
 <!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByRecipientCmd.label "收件者">
-<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByRecipientsCmd.label "收件者">
+<!ENTITY sortByRecipientsCmd.accesskey "c">
+<!ENTITY sortByToCmd.label "給">
+<!ENTITY sortByToCmd.accesskey "o">
 <!ENTITY sortByUnreadCmd.label "已讀">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "收件順序">

@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "檢視憑證">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "廢止清冊">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "驗證">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "安全裝置">
