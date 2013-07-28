@@ -246,6 +246,6 @@
 <!ENTITY guest_mode_dialog_continue "Continua">
 <!ENTITY guest_mode_dialog_cancel "Annulla">
 <!ENTITY guest_mode_enter_title "Modalità ospite">
-<!ENTITY guest_mode_enter_text "In modalità ospite la persona che utilizza &brandShortName; non potrà visualizzare alcun dato personale già presente, come ad esempio password salvate, cronologia o segnalibri.\n\nI dati relativi alla navigazione verranno eliminati all'uscita dalla modalità ospite.">
+<!ENTITY guest_mode_enter_text "In modalità ospite la persona che utilizza &brandShortName; non potrà visualizzare alcun dato personale già presente, come ad esempio password salvate, cronologia o segnalibri.\n\nI dati relativi alla navigazione verranno eliminati all’uscita dalla modalità ospite.">
 <!ENTITY guest_mode_leave_title "Disattivazione mod. ospite">
 <!ENTITY guest_mode_leave_text "I dati relativi a questa sessione di navigazione verranno eliminati da &brandShortName;.">
