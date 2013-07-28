@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title           "&brandShortName;i vigadest teatamise rakendus">
 <!ENTITY  crash_message2                 "&brandShortName;il lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
-<!ENTITY  crash_send_report_message2     "Mozillale antakse sellest veast teada, et nad saaks selle parandada">
+<!ENTITY  crash_send_report_message3     "&vendorShortName;le antakse sellest veast teada, et nad saaks selle parandada">
 <!ENTITY  crash_include_url2             "Kaasatakse lehe aadress, mis oli vea esinemise ajal avatud">
 <!ENTITY  crash_sorry                    "Meil on kahju">
 <!ENTITY  crash_comment                  "Lisa kommentaar (kommentaarid on avalikult nähtavad)">
-<!ENTITY  crash_allow_contact            "Mozillal lubatakse vajadusel raportiga seoses ühendust võtta">
+<!ENTITY  crash_allow_contact2           "&vendorShortName;l lubatakse vajadusel raportiga seoses ühendust võtta">
 <!ENTITY  crash_email                    "Sinu e-posti aadress">
 <!ENTITY  crash_closing_alert            "Kas väljuda ilma raportit saatmata?">
 <!ENTITY  sending_crash_report           "Vearaporti saatmine\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added                  "Järjehoidja lisatud">
 <!ENTITY bookmark_removed                "Järjehoidja eemaldatud">
 <!ENTITY bookmark_updated                "Järjehoidja uuendatud">
+<!ENTITY bookmark_options                "Sätted">
 
 <!ENTITY history_today_section           "Täna">
 <!ENTITY history_yesterday_section       "Eile">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play        "esitamiseks peab puudutama">
 <!ENTITY pref_plugins_disabled           "keelatud">
 <!ENTITY pref_text_size                  "Teksti suurus">
-<!ENTITY pref_reflow_on_zoom2            "Tekst mahutatakse ekraanile">
+<!ENTITY pref_reflow_on_zoom3            "Topeltpuudutusel mahutatakse tekst ekraanile">
 <!ENTITY pref_font_size_tiny             "tilluke">
 <!ENTITY pref_font_size_small            "väike">
 <!ENTITY pref_font_size_medium           "keskmine">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Allalaaditud failid">
 
 <!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
+<!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
 <!ENTITY datareporting_notification_action "Vali jagatavad andmed">
 <!ENTITY datareporting_notification_summary "Täiustamaks sinu kasutuskogemust, saadab &brandShortName; &vendorShortName;le automaatselt mõningaid andmeid.">
 <!ENTITY datareporting_notification_summary_short "Täiustamaks sinu kasutuskogemust, saadab &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title         "&brandShortName;i terviseraport">
-<!ENTITY datareporting_fhr_summary       "Aitab sul aru saada oma brauseri jõudlusest ja jagab andmeid brauseri seisundist &vendorShortName;ga">
+<!ENTITY datareporting_fhr_summary2      "Jagab andmeid brauseri seisundist &vendorShortName;ga ja aitab sul aru saada oma brauseri jõudlusest">
+<!ENTITY datareporting_abouthr_title     "Kuva terviseraportit">
 <!ENTITY datareporting_telemetry_title   "Telemeetria">
 <!ENTITY datareporting_telemetry_summary "Jagab sinu brauseri sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName;i vigade raporteerija">
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd .-->
+<!ENTITY datareporting_crashreporter_title_short "Vigade raporteerimine">
+<!ENTITY datareporting_wifi_title        "&vendorShortName; asukohateenused">
+<!ENTITY datareporting_wifi_summary      "Aita täiustada avatud veebi asukohateenuseid, lubades &brandShortName;l koguda ja saata anonüümseid andmeid mobiilsidevõrkude tugijaamade kohta">
 
 <!ENTITY pref_update_autodownload        "Automaatsed uuendused">
 <!ENTITY pref_update_autodownload_wifi   "ainult üle Wi-Fi">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by                 "ja seda hooldab">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message    "See leht kuvab ebaturvalist sisu.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokeeris ebaturvalise sisu.">
+<!ENTITY blocked_mixed_content_message_bottom "Enamus veebilehti töötab korrektselt ka selle sisu blokeerimisel.">
+<!ENTITY learn_more                      "Rohkem teavet">
+<!ENTITY enable_protection               "Luba kaitse">
+<!ENTITY disable_protection              "Keela kaitse">
+<!ENTITY keep_blocking                   "Jätka blokeerimist">
 
 <!ENTITY private_data_success            "Privaatsed andmed kustutati">
 <!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">
