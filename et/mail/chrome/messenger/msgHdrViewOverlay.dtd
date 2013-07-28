@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label                            "Saaja ">
-<!ENTITY fromField3.label                          "Saatja ">
-<!ENTITY senderField3.label                        "Saatja ">
-<!ENTITY organizationField3.label                  "Organisatsioon ">
-<!ENTITY replyToField3.label                       "Vastamise aadress ">
+<!ENTITY toField4.label                            "Saaja">
+<!ENTITY fromField4.label                          "Saatja">
+<!ENTITY senderField4.label                        "Saatja">
+<!ENTITY organizationField4.label                  "Organisatsioon">
+<!ENTITY replyToField4.label                       "Vastamise aadress">
 
-<!ENTITY subjectField3.label                       "Teema ">
-<!ENTITY ccField3.label                            "Koopia ">
-<!ENTITY bccField3.label                           "Pimekoopia ">
-<!ENTITY newsgroupsField3.label                    "Uudistegrupid ">
-<!ENTITY followupToField3.label                    "Järg postitusele ">
-<!ENTITY tagsHdr3.label                            "Sildid ">
-<!ENTITY dateField3.label                          "Kuupäev ">
-<!ENTITY userAgentField3.label                     "E-posti klient ">
-<!ENTITY referencesField3.label                    "Viited ">
-<!ENTITY messageIdField3.label                     "Kirja-id ">
-<!ENTITY inReplyToField3.label                     "Vastus-kirjale ">
-<!ENTITY originalWebsite3.label                    "Veebileht ">
+<!ENTITY subjectField4.label                       "Teema">
+<!ENTITY ccField4.label                            "Koopia">
+<!ENTITY bccField4.label                           "Pimekoopia">
+<!ENTITY newsgroupsField4.label                    "Uudistegrupid">
+<!ENTITY followupToField4.label                    "Järg postitusele">
+<!ENTITY tagsHdr4.label                            "Sildid">
+<!ENTITY dateField4.label                          "Kuupäev">
+<!ENTITY userAgentField4.label                     "E-posti klient">
+<!ENTITY referencesField4.label                    "Viited">
+<!ENTITY messageIdField4.label                     "Kirja-id">
+<!ENTITY inReplyToField4.label                     "Vastus-kirjale">
+<!ENTITY originalWebsite4.label                    "Veebileht">
 
 <!ENTITY editMessageDescription.label              "See kiri on mustand">
 <!ENTITY editMessageButton.label                   "Redigeeri...">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip               "Vasta meililistile">
 <!ENTITY hdrFollowupButton1.label                  "Vasta uudistegruppi">
 <!ENTITY hdrFollowupButton1.tooltip                "Postita vastus sellesse uudistegruppi">
+<!ENTITY hdrMenuForwardButton.label                "Edasta">
 <!ENTITY hdrForwardButton1.label                   "Edasta">
 <!ENTITY hdrForwardButton1.tooltip                 "Edasta see kiri">
 <!ENTITY hdrJunkButton1.label                      "Märgi rämpsuks">

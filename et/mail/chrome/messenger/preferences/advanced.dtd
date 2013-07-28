@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label           "Kuva sertifikaate">
 <!ENTITY viewCertificates.accesskey       "f">
-<!ENTITY viewCRLs.label                   "Tühistusnimekirjad">
-<!ENTITY viewCRLs.accesskey               "h">
 <!ENTITY validation.label                 "Verifitseerimine">
 <!ENTITY validation.accesskey             "t">
 <!ENTITY viewSecurityDevices.label        "Turvaseadmed">

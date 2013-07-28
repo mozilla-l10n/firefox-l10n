@@ -9,16 +9,20 @@
 <!ENTITY newsSectionHdr.label        "Uudistegrupid">
 <!ENTITY subscribeNewsLink.label     "Halda uudistegruppide tellimusi">
 
+<!ENTITY feedsSectionHdr.label       "Uudistevood">
+<!ENTITY subscribeFeeds.label        "Halda tellimusi">
+
+<!ENTITY chat.label                  "Kiirsuhtlus">
+<!ENTITY movemail.label              "Movemail">
+
 <!ENTITY accountsSectionHdr.label    "Kontod">
 <!ENTITY subscribeImapFolders.label  "Halda kaustade tellimusi">
 <!ENTITY settingsLink.label          "Kuva selle konto sätteid">
 <!ENTITY newAcctLink.label           "Loo uus konto">
+<!ENTITY newAcct.label               "Loo uus konto:">
 
 <!ENTITY advFeaturesSectionHdr.label "Lisavõimalused">
 <!ENTITY searchMsgsLink.label        "Otsi kirju">
 <!ENTITY filtersLink.label           "Halda e-posti filtreid">
 <!ENTITY junkSettings.label          "Rämpsposti sätted">
 <!ENTITY offlineLink.label           "Võrguta režiimi sätted">
-
-<!ENTITY feedsSectionHdr.label       "Uudistevood">
-<!ENTITY subscribeFeeds.label        "Halda tellimusi">

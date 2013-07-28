@@ -15,6 +15,8 @@
 <!ENTITY manageSubscriptions.label      "Halda tellimusi...">
 <!ENTITY manageSubscriptions.accesskey  "H">
 
+<!ENTITY feedWindowTitle.label          "Uudistevoogude konto loomise nõustaja">
+
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY feeds.accountName              "Blogid ja uudistevood">
 <!ENTITY feeds.wizardShortName          "Uudistevood">
