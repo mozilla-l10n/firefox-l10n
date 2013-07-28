@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Keresés és csere…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "K">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Következő keresése">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "z">
