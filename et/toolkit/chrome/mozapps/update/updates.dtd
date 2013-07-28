@@ -25,7 +25,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName;i uusima versiooni saad alati järgnevalt aadressilt:">
 
 <!ENTITY  unsupported.title              "Süsteem pole toetatud">
-<!ENTITY  unsupported.label              "&brandShortName; on aegunud, aga viimane versioon pole sinu süsteemi peal toetatud.
+<!ENTITY  unsupported.label              "&brandShortName; on iganenud, aga viimane versioon pole sinu süsteemi peal toetatud.
                                           Palun uuenda oma süsteem uuele versioonile ja proovi siis uuesti.
                                           Seda teavitust uuesti ei kuvata, kuid rohkem teavet on võimalik leida">
 <!ENTITY  unsupportedLink.label          "siit.">
