@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey          "E">
 <!ENTITY newIMAccountCmd.label                         "Kiirsuhtluse konto…">
 <!ENTITY newIMAccountCmd.accesskey                     "K">
+<!ENTITY newFeedAccountCmd.label                       "Uudistevoogude konto…">
+<!ENTITY newFeedAccountCmd.accesskey                   "U">
 <!ENTITY newIMContactCmd.label                         "Kiirsuhtluse kontakt…">
 <!ENTITY newIMContactCmd.accesskey                     "n">
 <!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey               "K">
+<!ENTITY allowRemoteDebugging.label                    "Kaugdebugimine lubatakse">
+<!ENTITY allowRemoteDebugging.accesskey                "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label                            "Tõmba kirjad">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip                        "Vasta saatjale ja kõigile saajatele">
 <!ENTITY replyListButton.tooltip                       "Vasta meililistile">
 <!ENTITY forwardButton.tooltip                         "Edasta valitud kiri">
+<!ENTITY forwardAsInline.tooltip                       "Edasta valitud kiri lihttekstina">
+<!ENTITY forwardAsAttachment.tooltip                   "Edasta valitud kiri manusena">
 <!ENTITY fileButton.tooltip                            "Salvesta valitud kiri">
 <!ENTITY archiveButton.tooltip                         "Arhiveeri valitud kirjad">
 <!ENTITY nextButton.tooltip                            "Kuva järgmist lugemata kirja">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
 <!ENTITY compactButton.tooltip                         "Eemalda kustutatud kirjad valitud kaustast">
 <!ENTITY appmenuButton1.tooltip                        "Kuva rakenduse &brandShortName; menüüd">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label               "Edasta lihttekstina">
+<!ENTITY buttonMenuForwardAsAttachment.label           "Edasta manusena">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label                "Tõmba kirjad">
 <!ENTITY folderContextGetMessages.accesskey            "T">
-<!ENTITY folderContextOpenNewWindow.label              "Ava">
-<!ENTITY folderContextOpenNewWindow.accesskey          "A">
+<!ENTITY folderContextOpenInNewWindow.label            "Ava uues aknas">
+<!ENTITY folderContextOpenInNewWindow.accesskey        "A">
 <!ENTITY folderContextOpenNewTab.label                 "Ava uuel kaardil">
 <!ENTITY folderContextOpenNewTab.accesskey             "k">
 <!ENTITY folderContextNew.label                        "Uus alamkaust...">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey                    "l">
 <!ENTITY contextForward.label                          "Edasta">
 <!ENTITY contextForward.accesskey                      "d">
-<!ENTITY contextForwardAsAttachment.label              "Edasta manusena">
-<!ENTITY contextForwardAsAttachment.accesskey          "m">
+<!ENTITY contextForwardAsMenu.label                    "Edasta">
+<!ENTITY contextForwardAsMenu.accesskey                "E">
+<!ENTITY contextForwardAsInline.label                  "lihttekstina">
+<!ENTITY contextForwardAsInline.accesskey              "i">
+<!ENTITY contextForwardAsAttachmentItem.label          "manusena">
+<!ENTITY contextForwardAsAttachmentItem.accesskey      "m">
+<!ENTITY contextMultiForwardAsAttachment.label         "Edasta manustena">
+<!ENTITY contextMultiForwardAsAttachment.accesskey     "t">
 <!ENTITY contextMoveMsgMenu.label                      "Liiguta kausta">
 <!ENTITY contextMoveMsgMenu.accesskey                  "L">
 <!ENTITY contextMoveCopyMsgRecentMenu.label            "Hiljutised">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey        "H">
 <!ENTITY contextCopyMsgMenu.label                      "Kopeeri kausta">
 <!ENTITY contextCopyMsgMenu.accesskey                  "K">
+<!ENTITY contextKillThreadMenu.label                   "Ignoreeri lõime">
+<!ENTITY contextKillThreadMenu.accesskey               "I">
+<!ENTITY contextKillSubthreadMenu.label                "Ignoreeri alamlõime">
+<!ENTITY contextWatchThreadMenu.label                  "Jälgi lõime">
 <!ENTITY contextSaveAs.label                           "Salvesta kui...">
 <!ENTITY contextSaveAs.accesskey                       "S">
 <!ENTITY contextPrint.label                            "Prindi...">

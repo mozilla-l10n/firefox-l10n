@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label                       "Otsi ja asenda...">
 <!ENTITY findCmd.key                         "F">
 <!ENTITY findCmd.accesskey                   "O">
+<!ENTITY findReplaceCmd.key                  "H">
 <!ENTITY findAgainCmd.label                  "Otsi uuesti">
 <!ENTITY findAgainCmd.key                    "G">
 <!ENTITY findAgainCmd.accesskey              "u">
