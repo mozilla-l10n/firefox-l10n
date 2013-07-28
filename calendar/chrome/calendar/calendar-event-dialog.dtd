@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "H">
 <!ENTITY event.categories.label                           "Kategória:">
 <!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.textbox.label                   "Új kategória hozzáadása" >
+<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "Naptár:" >
 <!ENTITY event.calendar.accesskey                         "N">
 <!ENTITY event.attendees.label                            "Résztvevők:" >

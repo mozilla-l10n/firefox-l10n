@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
-<!ENTITY viewCRLs.label                 "Visszavonási listák">
-<!ENTITY viewCRLs.accesskey             "V">
 <!ENTITY validation.label               "Érvényesítés">
 <!ENTITY validation.accesskey           "r">
 <!ENTITY viewSecurityDevices.label      "Adatvédelmi eszközök">

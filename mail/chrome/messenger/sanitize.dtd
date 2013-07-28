@@ -24,9 +24,6 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Részletek">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemCookies.label                 "Sütik">
 <!ENTITY itemCookies.accesskey             "t">
 <!ENTITY itemCache.label                   "Gyorsítótár">
