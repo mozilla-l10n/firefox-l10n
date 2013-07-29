@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
 <!ENTITY  undoCloseTab.accesskey             "a">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Obnoviť zatvorené karty">
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
 <!ENTITY  closeTab.accesskey                 "Z">
 
@@ -200,8 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "Pridať kľúčové slovo pre toto vyhľadávanie…">
 <!ENTITY keywordfield.accesskey "d">
-<!ENTITY search.label "Vyhľadávanie na webe">
-<!ENTITY search.accesskey "V">
+
 <!ENTITY downloads.label "Správca preberania súborov">
 <!ENTITY downloads.tooltip "Zobraziť stav preberania súborov">
 <!ENTITY downloads.accesskey "S">
@@ -326,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Nedávno zatvorené okná">
 <!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
 
-<!ENTITY historyHomeCmd.label "Domov">
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
