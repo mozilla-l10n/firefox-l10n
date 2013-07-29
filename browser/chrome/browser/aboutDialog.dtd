@@ -4,9 +4,9 @@
 <!ENTITY aboutDialog.title          "&brandFullName;-­ի մասին">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName;-ը փորձնական է և կայուն չի աշխատի:">
+<!ENTITY warningDesc.version        "&brandShortName;-ն փորձնական է և կայուն չի աշխատի:">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Միանգամից ուղարկում է տեղեկատվություն սարքակազմի, օգտագործման և կարգավորումների մասին &vendorShortName;-ին՝ &brandShortName;-ը էլ ավելի լավը դարձնելու համար:">
+<!ENTITY warningDesc.telemetryDesc  "Միանգամից ուղարկում է տեղեկատվություն սարքակազմի, օգտագործման և կարգավորումների մասին &vendorShortName;-ին՝ &brandShortName;-ն էլ ավելի լավը դարձնելու համար:">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -17,7 +17,7 @@
 <!ENTITY community.exp.creditsLink  "գլոբալ համայնք">
 <!ENTITY community.exp.end          ", որը աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
-<!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
+<!ENTITY community.start2           "&brandShortName;-ն ձևավորել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a">
@@ -27,7 +27,7 @@
 
 <!ENTITY contribute.start           "Հետաքրքրե՞ց։">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Ընդգրկվիր">
+<!ENTITY contribute.getInvolvedLink "Ընդգրկվի՛ր">
 <!ENTITY contribute.end             "Ընդգրկվի՛ր">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -64,7 +64,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Թարմացումները առկա են՝ ">
-<!ENTITY update.manual.end          "Թարմացումները առկա են՝">
+<!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -82,12 +82,12 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Թարմացման ներբեռնում — ">
-<!ENTITY update.downloading.end     "Թարմացումները բեռնվում են">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Թարմացման կիրառում...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Այժմ գործում է՝">
+<!ENTITY channel.description.start  "Այժմ գործում է՝ ">
 <!ENTITY channel.description.end    " թարմացումների աղբյուրը:  ">
