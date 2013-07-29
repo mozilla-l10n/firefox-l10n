@@ -8,30 +8,30 @@
 <!ENTITY errLine.label   "ओळ:">
 <!ENTITY errColumn.label "रकाना:">
 
-<!ENTITY all.label          "सर्व">
+<!ENTITY all.label          "सर्व (A)">
 <!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "त्रूटी">
+<!ENTITY errors.label       "त्रुटी (E)">
 <!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "सावधानता">
+<!ENTITY warnings.label     "सावधानता (W)">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label     "संदेश">
+<!ENTITY messages.label     "संदेश (M)">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "पुसून टाका">
+<!ENTITY clear.label        "नष्ट करा (C)">
 <!ENTITY clear.accesskey    "C">
-<!ENTITY codeEval.label     "कोड:">
+<!ENTITY codeEval.label     "कोड (o):">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label     "मुल्यांकन">
+<!ENTITY evaluate.label     "मुल्यांकन (v)">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter2.label      "फिल्टर:">
+<!ENTITY filter2.label      "फिल्टर (F):">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "प्रत बनवा">  
+<!ENTITY copyCmd.label       "प्रत बनवा (C)">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "पहिले > शेवटची क्रमवारी लावा">
-<!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label      "शेवटी > पहिली क्रमवारी लावा">
-<!ENTITY sortLast.accesskey  "l">
+<!ENTITY sortFirst.label     "पहिली > शेवटची क्रमवारी लावा (F)">
+<!ENTITY sortFirst.accesskey "F">
+<!ENTITY sortLast.label      "शेवटची > पहिली क्रमवारी लावा (L)">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

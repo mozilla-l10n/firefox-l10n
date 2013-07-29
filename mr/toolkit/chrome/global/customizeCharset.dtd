@@ -3,14 +3,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title.label        "अक्षर एनकोडींग एच्छित करा ">
+<!ENTITY title.label        "अक्षर एनकोडींग एच्छित करा">
 <!ENTITY current.label      "सक्रिय अक्षर एनकोडींग:">
-<!ENTITY remove.label       "काढुन टाका">
+<!ENTITY remove.label       "काढून टाका (R)">
 <!ENTITY remove.accessKey   "R">
 <!ENTITY additional.label   "उपलब्ध अक्षर एनकोडींग:">
-<!ENTITY add.label          "जोडा">
+<!ENTITY add.label          "समाविष्ट करा (A)">
 <!ENTITY add.accessKey      "A">
-<!ENTITY moveUp.label       "वर चला">
+<!ENTITY moveUp.label       "वर हलवा (U)">
 <!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "खाली चला">
+<!ENTITY moveDown.label     "खाली हलवा (D)">
 <!ENTITY moveDown.accessKey "D">

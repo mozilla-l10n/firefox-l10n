@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; ची मांडणी करा">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; ची मांडणी करा (S)">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुम्हाला इतिहास, पुस्तकखुणे, पासवर्डस् व सर्व साधनांकरीता टॅब्स् उघडण्यास परवानगी देतो.">
 <!-- The page shown when logged in... -->
@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "मूळस्थितीत आणा">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "खाते व्यवस्थापीत करा">
+<!ENTITY manageAccount.label          "खाते व्यवस्थापीत करा (n)">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY viewQuota.label              "कोटा दृष्य">
 <!ENTITY changePassword2.label        "पासवर्ड बदला…">
@@ -24,21 +24,21 @@
 <!ENTITY pairDevice.label             "साधनाची जोडणी करा">
 
 <!ENTITY syncMy.label               "ताळमेळ करा">
-<!ENTITY engine.bookmarks.label     "वाचनखूण">
+<!ENTITY engine.bookmarks.label     "वाचनखुणा (m)">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "टॅब्स्">
+<!ENTITY engine.tabs.label          "टॅब्ज (T)">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "इतिहास">
+<!ENTITY engine.history.label       "इतिहास (r)">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्डस्">
+<!ENTITY engine.passwords.label     "पासवर्डज (P)">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "पसंती">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "ॲडऑन्स्">
+<!ENTITY engine.prefs.label         "पसंती (s)">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "ॲडऑन्स (A)">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "साधनाचे नाव:">
+<!ENTITY syncDeviceName.label       "साधनाचे नाव (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "साधनला खंडीत करा">
 <!-- Footer stuff -->

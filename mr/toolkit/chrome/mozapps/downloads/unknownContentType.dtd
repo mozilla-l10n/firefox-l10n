@@ -6,21 +6,21 @@
 <!ENTITY  from.label                  "पासून:">
 <!ENTITY  actionQuestion.label        "&brandShortName; नी या फाइलशी काय करावे?">
 
-<!ENTITY  openWith.label              "याच्यासह उघडा">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.label              "यासह उघडा (O)">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "इतर...">
 
-<!ENTITY  saveFile.label              "फाइल संचयीत करा">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "फाइल साठवा (S)">
+<!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "आतापासून यापुढे असेच ह्या फाइल्सकरीता आपोआप करा.">
+<!ENTITY  rememberChoice.label        "आत्तापासून यापुढे ह्या फाइल्सकरिता असेच आपोआप करा (a).">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "जे आहे:">
 
-<!ENTITY  chooseHandlerMac.label      "निवड करा...">
+<!ENTITY  chooseHandlerMac.label      "निवडा (C)…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "चाळणे...">
+<!ENTITY  chooseHandler.label         "चाळा (B)…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "तुम्हाला ही फाइल संचयीत करायची?">

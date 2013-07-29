@@ -31,48 +31,53 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "लॉग विनंती व प्रतिसाद भाग">
+<!ENTITY saveBodies.label     "लॉग विनंती व प्रतिसाद भाग (L)">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "URL ला नवीन टॅबमध्ये उघडा">
+<!ENTITY openURL.label     "URL ला नविन टॅबमध्ये उघडा (T)">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.tooltip "नेटवर्क प्रवेशचा लॉग">
 
+<!ENTITY btnPageNet.label   "नेट (N)">
+<!ENTITY btnPageNet.tooltip "नेटवर्क प्रवेशचा लॉग">
+<!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
-
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageCSS.label   "CSS (C)">
 <!ENTITY btnPageCSS.tooltip "CSS पार्सिंग त्रुटींचा लॉग">
-
-
+<!ENTITY btnPageCSS.accesskey "C">
+<!ENTITY btnPageJS.label    "JS (J)">
 <!ENTITY btnPageJS.tooltip  "JavaScript अपवादांचा लॉग">
-
-
+<!ENTITY btnPageJS.accesskey  "J">
+<!ENTITY btnPageSecurity.label "सुरक्षा (S)">
 <!ENTITY btnPageSecurity.tooltip "सुरक्षा त्रुटी व सावधानतेचा लॉग">
-
+<!ENTITY btnPageSecurity.accesskey "S">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.tooltip "window.console ऑबजेक्टकरिता पाठवलेले लॉग संदेश पाठवा">
 
+<!ENTITY btnPageLogging.label   "लॉगिंग (L)">
+<!ENTITY btnPageLogging.tooltip "window.console ऑबजेक्टकरिता पाठवलेले लॉग संदेश पाठवा">
+<!ENTITY btnPageLogging.accesskey "L">
 <!ENTITY btnConsoleErrors       "त्रुटी">
 <!ENTITY btnConsoleInfo         "माहिती">
 <!ENTITY btnConsoleWarnings     "सावधानता">
 <!ENTITY btnConsoleLog          "लॉग">
 
 <!ENTITY filterOutput.placeholder "आउटपुट फिल्टर करा">
-
+<!ENTITY btnClear.label        "नष्ट करा (r)">
 <!ENTITY btnClear.tooltip      "वेब कंसोल आउटपुट नष्ट करा">
-
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -85,9 +90,9 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "दुवा ठिकाणाचे प्रत बनवा">
+<!ENTITY copyURLCmd.label     "दुवा ठिकाण्याचे प्रत बनवा (a)">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
-
-
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCmd.key   "K">

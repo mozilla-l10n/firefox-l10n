@@ -7,11 +7,11 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
 <!ENTITY aboutWarningTitle.label "यामुळे हमी मिळणार नाही!">
-<!ENTITY aboutWarningText.label "प्रगत संयोजना मधिल बदल या अनुप्रयोगाची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते.  पुढे नक्की असल्यावरच पुढे जावे.">
+<!ENTITY aboutWarningText.label "प्रगत सेटिंग्जमधील बदल या ॲप्लिकेशनची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते. पुढे नक्की असल्यावरच पुढे जावे.">
 <!ENTITY aboutWarningButton.label "मी सतर्क राहीन, मी असे वचन देतो!">
 <!ENTITY aboutWarningCheckbox.label "सावधानता पुढच्यावेळी दर्शवा">
 
-<!ENTITY searchPrefs.label "शोधा:">
+<!ENTITY searchPrefs.label "शोधा (r):">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
@@ -27,23 +27,23 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "प्रत बनवा">
+<!ENTITY copyPref.label "प्रत बनवा (C)">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "नावाचे प्रत बनवा">
+<!ENTITY copyName.label "नावाचे प्रत बनवा (N)">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "मुल्यचे प्रत बनवा">
+<!ENTITY copyValue.label "मूल्याचे प्रत बनवा (V)">
 <!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "संपादन">
+<!ENTITY modify.label "संपादित करा (M)">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "बदलाव">
+<!ENTITY toggle.label "बदलवा (T)">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "पुनःस्थापन">
+<!ENTITY reset.label "मूळस्थितीत आणा (R)">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "नविन">
+<!ENTITY new.label "नवीन (w)">
 <!ENTITY new.accesskey "w">
-<!ENTITY string.label "अक्षरमाळ">
+<!ENTITY string.label "स्ट्रिंग (S)">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "इंटीजर">
+<!ENTITY integer.label "इंटीजर (I)">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "बुलियन">
+<!ENTITY boolean.label "बूलियन (B)">
 <!ENTITY boolean.accesskey "B">

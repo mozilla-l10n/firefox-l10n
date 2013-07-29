@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pageInfoWindow.width  "425">
-<!ENTITY  pageInfoWindow.height "470">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "प्रत बनवा">
+<!ENTITY  copy.label            "प्रत बनवा (C)">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "सर्व निवडा">
+<!ENTITY  selectall.label       "सर्व निवडा (A)">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
@@ -38,7 +38,7 @@
 <!ENTITY  mediaSize             "आकार">
 <!ENTITY  mediaCount            "मोजमाप">
 <!ENTITY  mediaDimension        "माप:">
-<!ENTITY  mediaLongdesc         "विस्तारीत  वर्णन:">
+<!ENTITY  mediaLongdesc         "मोठे वर्णन:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "पान सुरक्षित करा(S)...">
 <!ENTITY  mediaSaveAs.accesskey "A">
@@ -81,9 +81,9 @@
 
 
 <!ENTITY  securityView.identity.header   "संकेत स्थळ ओळख">
-<!ENTITY  securityView.identity.owner    "इतर: ">
-<!ENTITY  securityView.identity.domain   "संकेत स्थळ: ">
-<!ENTITY  securityView.identity.verifier "तर्फे तपासलेले: ">
+<!ENTITY  securityView.identity.owner    "मालक:">
+<!ENTITY  securityView.identity.domain   "संकेतस्थळ:">
+<!ENTITY  securityView.identity.verifier "तर्फे तपासलेले:">
 
 <!ENTITY  securityView.privacy.header                   "गोपनीयता &amp; इतिहास">
 <!ENTITY  securityView.privacy.history                  "आज या संकेत स्थळाला आधि भेट दिली होती का?">

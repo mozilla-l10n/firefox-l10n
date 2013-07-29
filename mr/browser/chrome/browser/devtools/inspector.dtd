@@ -1,13 +1,13 @@
-<!ENTITY inspectorHTMLCopyInner.label       "आंतरीक HTMLचे प्रत बनवा">
+<!ENTITY inspectorHTMLCopyInner.label       "आंतरीक HTML चे प्रत बनवा (I)">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "बाहेरील HTMLचे प्रत बनवा">
+<!ENTITY inspectorHTMLCopyOuter.label       "बाहेरील HTML चे प्रत बनवा (O)">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "एकमेव निवडकाचे प्रत बवना">
+<!ENTITY inspectorCopyUniqueSelector.label       "एकमेव निवडकाचे प्रत बवना (U)">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 
-<!ENTITY inspectorHTMLDelete.label          "नोड नष्ट करा">
+<!ENTITY inspectorHTMLDelete.label          "नोड नष्ट करा (D)">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "माऊसने घटक निवडा">
