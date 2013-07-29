@@ -21,6 +21,9 @@ pemeriksaan versi baru otomatis pada &brandShortName;.">
 <!ENTITY  manualUpdate.space.desc         "Versi baru yang lebih aman dan stabil tersedia, tetapi Anda tidak mempunyai ruang diska yang cukup untuk memasangnya.">
 <!ENTITY  manualUpdateGetMsg.label        "Anda dapat selalu mengunduh versi terbaru &brandShortName; di:">
 
+
+
+
 <!ENTITY  incompatibleCheck.title         "Pemeriksaan Kompatibilitas Pengaya">
 <!ENTITY  incompatibleCheck.label         "Memeriksa versi baru pengaya Anda…">
 
