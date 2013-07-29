@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.findUpdates.label          "सुधारणांकरीता तपासणी करा">
 <!ENTITY listEmpty.search.label               "कोणतेही जुळणारे ॲडऑन्स् आढळले नाही">
 <!ENTITY listEmpty.button.label               "ॲडऑन्स् विषयी अधिक शिका">
-<!ENTITY installAddonFromFile.label           "फाइलपासून ॲडऑन प्रतिष्ठापीत करा…">
+<!ENTITY installAddonFromFile.label           "फाइलपासून ॲडऑन इंस्टॉल करा (I)…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सर्व ॲडऑन्स् करीता साधने">
 
@@ -42,14 +42,14 @@
 <!ENTITY view.availableUpdates.label          "उपलब्ध सुधारणा">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "सुधारणांकरीता तपासणी करा">
+<!ENTITY updates.checkForUpdates.label        "सुधारणांकरीता तपासणी करा (C)">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "नुकत्याच सुधारणांचे दृष्य">
+<!ENTITY updates.viewUpdates.label            "नुकत्याच सुधारणांचे दृष्य (V)">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "ॲडऑन्स् स्वयं सुधारीत करा">
+<!ENTITY updates.updateAddonsAutomatically.label     "ॲडऑन्स् स्वयं सुधारित करा (A)">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -57,9 +57,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "स्वयं सुधारणा करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "स्वयं सुधारणा करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा (R)">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "सुधारणा स्वहस्ते करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा">
+<!ENTITY updates.resetUpdatesToManual.label          "सुधारणा स्वहस्ते करण्यासाठी सर्व ॲडऑन्स् मूळस्थितीत आणा (R)">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "ॲडऑन्स् सुधारीत करत आहे">
 <!ENTITY updates.installed.label              "तुमचे ॲडऑन्स् सुधारीत केले.">
@@ -71,24 +71,24 @@
 <!ENTITY updates.updateSelected.tooltip       "या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "अधिक माहिती दाखवा">
+<!ENTITY cmd.showDetails.label                "आणखी माहिती दाखवा (S)">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "सुधारणा शोधा">
+<!ENTITY cmd.findUpdates.label                "सुधारणा शोधा (F)">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "पर्याय">
+<!ENTITY cmd.preferencesWin.label             "पर्याय (O)">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "पसंती">
+<!ENTITY cmd.preferencesUnix.label            "पसंती (P)">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "विषयी">
+<!ENTITY cmd.about.label                      "विषयी (A)">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "सुरू करा">
+<!ENTITY cmd.enableAddon.label                "सुरू करा (E)">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "बंद करा">
+<!ENTITY cmd.disableAddon.label               "बंद करा (D)">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "दृष्य कल्पना लागू करा">
+<!ENTITY cmd.enableTheme.label                "दृष्य कल्पना लागू करा (W)">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "दृष्य कल्पना लागू करू नका">
+<!ENTITY cmd.disableTheme.label               "दृष्य कल्पना लागू करू नका (W)">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "सक्रिय करण्यास विचारा">
 <!ENTITY cmd.askToActivate.tooltip            "ह्या ॲडऑनच्या वापरकरिता प्रत्येकवेळी विचारा">
@@ -97,15 +97,15 @@
 <!ENTITY cmd.neverActivate.label              "कधिही सक्रिय करू नका">
 <!ENTITY cmd.neverActivate.tooltip            "कधिही ह्या ॲडऑनचा वापर करू नका">
 <!ENTITY cmd.stateMenu.tooltip                "हे ॲडऑन चालवतेवेळी बदल करा">
-<!ENTITY cmd.installAddon.label               "प्रतिष्ठापीत करा">
+<!ENTITY cmd.installAddon.label               "इंस्टॉल करा (I)">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "काढून टाका">
+<!ENTITY cmd.uninstallAddon.label             "काढून टाका (R)">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "पर्याय">
 <!ENTITY cmd.showPreferencesWin.tooltip       "या ॲडऑनचे पर्याय बदला">
 <!ENTITY cmd.showPreferencesUnix.label        "पसंती">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "या ॲडऑनची पसंती बदला">
-<!ENTITY cmd.contribute.label                 "योगदान करा">
+<!ENTITY cmd.contribute.label                 "योगदान करा (C)">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "या ॲडऑनच्या विकासकरीता योगदान करा">
 
@@ -118,8 +118,11 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "ॲडऑन्स् काय असतात?">
-<!ENTITY discover.description2                "ॲडऑन्स् ते ॲप्लिकेशन्स् असतात जे &brandShortName; ला अगाऊ कार्यक्षमता किंवा शैलीसह पसंतीचे करण्यासाठी सुविधा पुरवतात. &brandShortName; ला पसंतीचे करण्यासाठी टाइम-सेव्हिंग बाजूचीपट्टी, हवामान सूचक, किंवा दृष्य कल्पना या ॲडऑन्स्चा वापर करून पहा.">
-<!ENTITY discover.footer                      "इंटरनेटशी जोडणी केल्यावर, ही पट्टी काहिक सर्वोत्तम व सर्वात जास्त चर्चीत असलेले ॲडऑन्स् वापरून पाहण्याची सुविधा पुरवते.">
+<!ENTITY discover.description2                "ॲडऑन्स् ते ॲप्लिकेशन्स् असतात जे &brandShortName; ला 
+अगाऊ कार्यक्षमता किंवा शैलीसह पसंतीचे करण्यासाठी सुविधा पुरवतात. &brandShortName; ला पसंतीचे करण्यासाठी टाइम-सेव्हिंग बाजूचीपट्टी, हवामान सूचक,
+किंवा दृष्य कल्पना या ॲडऑन्स्चा वापर करून पहा.">
+<!ENTITY discover.footer                      "इंटरनेटशी जोडणी केल्यावर, ही पट्टी काहिक सर्वोत्तम व सर्वात जास्त चर्चीत 
+असलेले ॲडऑन्स् वापरून पाहण्याची सुविधा पुरवते.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "आवृत्ती">
@@ -141,13 +144,13 @@
 <!ENTITY detail.repository                    "ॲडऑन प्रोफाइल">
 <!ENTITY detail.size                          "आकार">
 
-<!ENTITY detail.checkForUpdates.label         "सुधारणांकरीता तपासणी करा">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.label         "सुधारणांकरिता तपासणी करा (f)">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "या ॲडऑनकरीता सुधारणांकरीता तपासणी करा">
-<!ENTITY detail.showPreferencesWin.label      "पर्याय">
+<!ENTITY detail.showPreferencesWin.label      "पर्याय (O)">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "या ॲडऑनचे पर्याय बदला">
-<!ENTITY detail.showPreferencesUnix.label     "पसंती">
+<!ENTITY detail.showPreferencesUnix.label     "पसंती (P)">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "या ॲडऑनची पसंती बदलवा">
 <!-- ratings -->
@@ -178,7 +181,7 @@
 
 <!ENTITY addon.homepage                       "मुख्यपृष्ठ">
 <!ENTITY addon.details.label                  "अधिक">
-<!ENTITY addon.details.tooltip                "या ॲडऑनविषयी  अधिक माहिती दाखवा">
+<!ENTITY addon.details.tooltip                "या ॲडऑनविषयी अधिक माहिती दाखवा">
 <!ENTITY addon.unknownDate                    "अपरिचीत">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

@@ -21,6 +21,8 @@ about &brandShortName;, check out our <a id='supportLink'>support web site</a>."
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateHistory "इतिहास सुधारीत करा">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "सुधारीत इतिहास दाखवा">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "प्रोफाइल डिरेक्ट्री">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

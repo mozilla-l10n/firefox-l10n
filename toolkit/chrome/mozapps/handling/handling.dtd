@@ -5,5 +5,5 @@
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseApp.description "अनुप्रयोग निवडा">
-<!ENTITY ChooseApp.label "निवडा…">
+<!ENTITY ChooseApp.label "निवडा (C)…">
 <!ENTITY ChooseApp.accessKey "C">

@@ -8,12 +8,12 @@
    - menus/menuitems. -->
 
 
-<!ENTITY fileMenu.label                     "फाइल">
+<!ENTITY fileMenu.label                     "फाइल (F)">
 <!ENTITY fileMenu.accesskey                 "F">
 
-<!ENTITY quitApplicationCmdWin.label        "बाहेर पडा">
+<!ENTITY quitApplicationCmdWin.label        "बाहेर पडा (x)">
 <!ENTITY quitApplicationCmdWin.accesskey    "x">
-<!ENTITY quitApplicationCmd.label           "बाहेर पडा">
+<!ENTITY quitApplicationCmd.label           "बाहेर पडा (Q)">
 <!ENTITY quitApplicationCmd.accesskey       "Q">
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
@@ -24,26 +24,26 @@
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "सर्व दाखवा">
 
-<!ENTITY editMenu.label                     "संपादीत करा">
+<!ENTITY editMenu.label                     "संपादित करा (E)">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "पूर्ववत् करा">
+<!ENTITY undoCmd.label                      "पूर्ववत् करा (U)">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "पुनः करा">
+<!ENTITY redoCmd.label                      "पुन्हा करा (R)">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
-<!ENTITY cutCmd.label                       "कापा">
+<!ENTITY cutCmd.label                       "कापा (t)">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "प्रत बनवा">
+<!ENTITY copyCmd.label                      "प्रत बनवा (C)">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "चिकटवा">
+<!ENTITY pasteCmd.label                     "चिटकवा (P)">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "नष्ट करा">
+<!ENTITY deleteCmd.label                    "नष्ट करा (D)">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "सर्व नीवडा">
+<!ENTITY selectAllCmd.label                 "सर्व निवडा (A)">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

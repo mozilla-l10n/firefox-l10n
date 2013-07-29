@@ -10,7 +10,7 @@
 
 <!ENTITY privatebrowsingpage.perwindow.description     "वैयक्तिक ब्राउजिंग पटलात, &brandShortName; कोणतेही ब्राउजर हतिहास, शोध इतिहास, डाउनलोड इतिहास, वेब फॉर्म इतिहास, कूकिज, किंवा तात्पुर्ते इंटरनेट फाइल्स जपवून ठेवत नाही.  तरी, तुम्ही डाउनलोड केलेल्या फाइल्स व वाचनखूणा साठवले जाईल.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "वैयक्तिक पटल उघडा">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "प्राइव्हेट पटल उघडा (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 

@@ -6,40 +6,40 @@
 
 <!ENTITY printJobOptions.title "छपाईयंत्राचे गुणधर्म">
 
-<!ENTITY paperInput.label "पानाचे आकार:">
+<!ENTITY paperInput.label "पृष्ठाचे आकार (P):">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "प्लेक्स पध्दती:">
+<!ENTITY plexInput.label "प्लेक्स मोड (m):">
 <!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "रिजोल्युशन/दर्जा:">
+<!ENTITY resolutionInput.label "रिजोल्युशन/दर्जा (e):">
 <!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "छपाई आदेश:">
+<!ENTITY cmdInput.label "छपाई आदेश (o):">
 <!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "कार्य शिर्षक:">
+<!ENTITY jobTitleInput.label "कार्य शीर्षक (J):">
 <!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "रंग:">
-<!ENTITY grayRadio.label "ग्रेप्रमाण">
+<!ENTITY grayRadio.label "ग्रेस्केल (G)">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "रंग">
+<!ENTITY colorRadio.label "रंग (C)">
 <!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "रंगजागा:">
+<!ENTITY colorspaceInput.label "रंगक्षेत्र (s):">
 <!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "फॉन्ट्स:">
-<!ENTITY downloadFonts.label "छपाईयंत्राकरीता फॉन्ट्स डाउनलोड करा?">
+<!ENTITY downloadFonts.label "छपाईयंत्राकरिता फॉन्ट्स डाउनलोड करा (D)">
 <!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "पेपरच्या टोकापासून समासपर्यंतचे अंतर">
-<!ENTITY topInput.label "वर:">
+<!ENTITY topInput.label "शीर्ष (T):">
 <!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "तळ:">
+<!ENTITY bottomInput.label "तळ (B):">
 <!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "डावी:">
+<!ENTITY leftInput.label "डावा (L):">
 <!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "उजवी:">
+<!ENTITY rightInput.label "उजवा (R):">
 <!ENTITY rightInput.accesskey "R">

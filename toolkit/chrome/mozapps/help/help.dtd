@@ -8,15 +8,15 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "मागे">
+<!ENTITY backButton.label               "मागे (B)">
 <!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "एक पान मागे जा">
-<!ENTITY forwardButton.label            "पुढे">
+<!ENTITY forwardButton.label            "पुढे (F)">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "एक पान पुढे जा">
-<!ENTITY copyCmd.label                  "प्रत बनवा">
+<!ENTITY copyCmd.label                  "प्रत बनवा (C)">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "सर्वे निवडा">
+<!ENTITY selectAllCmd.label             "सर्व निवडा (A)">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
@@ -28,7 +28,7 @@
 
 <!ENTITY search.emptytext               "शोध">
 <!ENTITY searchHeader.label             "शोध परिणाम">
-<!ENTITY toctab.label                   "मजकूर">
+<!ENTITY toctab.label                   "मजकूर (C)">
 <!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -48,10 +48,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "नेहमी वर">
+<!ENTITY zLevel.label                   "नेहमी वर (T)">
 <!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "लहान करा">
+<!ENTITY fullZoomReduceBtn.label        "लहान करा (O)">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "मोठे करा">
+<!ENTITY fullZoomEnlargeBtn.label       "मोठे करा (I)">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

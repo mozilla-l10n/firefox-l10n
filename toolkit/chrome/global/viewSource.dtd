@@ -12,19 +12,19 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "याचे स्त्रोत: ">
 
-<!ENTITY fileMenu.label "फाइल">
+<!ENTITY fileMenu.label "फाइल (F)">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "पान ह्या रूपात संचयीत करा...">
+<!ENTITY savePageCmd.label "पृष्ठाला असे साठवा (A)…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "पानाची रचना...">
+<!ENTITY pageSetupCmd.label "पृष्ठाची मांडणी (u)…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "छपाई पूर्वदर्शक">
+<!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन (v)">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "छपाई...">
+<!ENTITY printCmd.label "छपाई (P)…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "बंद करा">
+<!ENTITY closeCmd.label "बंद करा (C)">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
@@ -42,44 +42,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "ह्या ओळीवर जा...">
+<!ENTITY goToLineCmd.label "या ओळीवर जा (G)…">
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "पहा">
+<!ENTITY viewMenu.label           "दृष्य (V)">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY reloadCmd.label "पुन्हा दाखल करा">
+<!ENTITY reloadCmd.label "पुन्हा लोड करा (R)">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "लांब ओळी गुंडाळा"> 
+<!ENTITY menu_wrapLongLines.title "लांब ओळी गुंडाळा (W)"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
-<!ENTITY menu_highlightSyntax.label "वाक्यव्यवस्था ठळक करणे">
+<!ENTITY menu_highlightSyntax.label "मांडणी उठावदार करा (H)">
 <!ENTITY menu_highlightSyntax.accesskey "H">
-<!ENTITY menu_textSize.label "मजकुर आकार">
-<!ENTITY menu_textSize.accesskey "Z">
-<!ENTITY menu_textEnlarge.label "वाढवा">
+<!ENTITY menu_textSize.label "मजकूर आकार (z)">
+<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textEnlarge.label "वाढवा (I)">
 <!ENTITY menu_textEnlarge.accesskey "I">
-<!ENTITY menu_textReduce.label "कमी करा">
+<!ENTITY menu_textReduce.label "कमी करा (D)">
 <!ENTITY menu_textReduce.accesskey "D">
-<!ENTITY menu_textReset.label "मुळस्थिती">
+<!ENTITY menu_textReset.label "सर्वसाधारण (N)">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "या पानात शोधा...">
+<!ENTITY findOnCmd.label     "या पानात शोधा (F)…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "पुन्हा शोधा">
+<!ENTITY findAgainCmd.label  "पुन्हा शोधा (g)">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "मागे">
+<!ENTITY backCmd.label "मागे (B)">
 <!ENTITY backCmd.accesskey "B">
-<!ENTITY forwardCmd.label "पुढे">
+<!ENTITY forwardCmd.label "पुढे (F)">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "दुवा ठिकाणाचे प्रत बनवा">
+<!ENTITY copyLinkCmd.label "दुव्याच्या ठिकाणाचे प्रत बनवा (L)">
 <!ENTITY copyLinkCmd.accesskey "L">
-<!ENTITY copyEmailCmd.label "इमेल पत्याचे प्रत बनवा">
+<!ENTITY copyEmailCmd.label "इमेल पत्याचे प्रत बनवा (E)">
 <!ENTITY copyEmailCmd.accesskey "E">

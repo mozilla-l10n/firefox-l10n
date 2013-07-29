@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "संपादन">
-<!ENTITY editMenu.accesskey        "e">
-<!ENTITY undoCmd.label             "बदल काढुन टाका">
+<!ENTITY editMenu.label            "संपादित करा (E)">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label             "पूर्ववत् करा (U)">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
-<!ENTITY redoCmd.label             "बदल पुन्हा सुस्थित करा">
+<!ENTITY undoCmd.accesskey         "U">
+<!ENTITY redoCmd.label             "पुन्हा करा (R)">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
-<!ENTITY cutCmd.label              "कापा">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "कापा (t)">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "प्रत बनवा">
+<!ENTITY copyCmd.label             "प्रत बनवा (C)">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "चिकटवा">
+<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "चिटकवा (P)">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
-<!ENTITY deleteCmd.label           "काढुन टाका">
-<!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "सर्व निवडा">
+<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "काढुन टाका (D)">
+<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY selectAllCmd.label        "सर्व निवडा (A)">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "शोधा">
+<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY findCmd.label             "शोधा (F)">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "पुन्हा शोधा">
+<!ENTITY findAgainCmd.label        "पुन्हा शोधा (g)">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "पुर्वीचे शोधा">
+<!ENTITY findPreviousCmd.label     "मागील शोधा (v)">
 <!ENTITY findPreviousCmd.accesskey "v">

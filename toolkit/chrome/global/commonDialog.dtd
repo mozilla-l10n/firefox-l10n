@@ -7,7 +7,7 @@
 <!ENTITY editfield0.label "वापरकर्त्याचे नाव:"> 
 <!ENTITY editfield1.label "गुप्तशब्द:"> 
 <!ENTITY checkbox.label   "तपास">
-<!ENTITY copyCmd.label    "प्रत बनवा">
+<!ENTITY copyCmd.label    "प्रत बनवा (C)">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "सर्व निवडा">
+<!ENTITY selectAllCmd.label "सर्व निवडा (A)">
 <!ENTITY selectAllCmd.accesskey "A">

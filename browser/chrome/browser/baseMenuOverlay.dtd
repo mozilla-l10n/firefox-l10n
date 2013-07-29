@@ -8,30 +8,30 @@
 <!ENTITY zoomWindow.label         "झूम">
 <!ENTITY windowMenu.label         "विंडो">
 
-<!ENTITY helpMenu.label           "मदत"> 
+<!ENTITY helpMenu.label           "मदत (H)"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "मदत"> 
+<!ENTITY helpMenuWin.label        "मदत (H)"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "&brandShortName; विषयी">
+<!ENTITY aboutProduct.label       "&brandShortName; विषयी (A)">
 <!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; मदत">
+<!ENTITY productHelp.label        "&brandShortName; मदत (H)">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "ॲडऑन्स् बंद असल्यावर पुनः सुरू करा…">
+<!ENTITY helpSafeMode.label       "ॲडऑन्स बंद असल्यावर पुनः सुरू करा (R)…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; हेल्थ रिपोर्ट">
+<!ENTITY healthReport.label       "&brandShortName; हेल्थ रिपोर्ट (e)">
 <!ENTITY healthReport.accesskey   "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "त्रुटीनिवारण  माहिती">
+<!ENTITY helpTroubleshootingInfo.label      "त्रुटीनिवारण माहिती (T)">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "प्रतिसाद सादर करा…">
+<!ENTITY helpFeedbackPage.label      "प्रतिसाद सादर करा (S)…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY preferencesCmdMac.label        "प्राधान्यता...">
+<!ENTITY preferencesCmdMac.label        "पसंती…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "सेवा">

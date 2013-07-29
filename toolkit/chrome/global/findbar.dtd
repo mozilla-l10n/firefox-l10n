@@ -6,15 +6,15 @@
 <!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "पुढचे">
+<!ENTITY next.label "पुढील (N)">
 <!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "शब्दसमुहाचे पुढचे प्रत्यक्ष शोधा">
-<!ENTITY previous.label "पूर्वीचे">
+<!ENTITY previous.label "मागील (P)">
 <!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "शब्दसमुहाचे पूर्वीचे प्रत्यक्ष शोधा">
 <!ENTITY findCloseButton.tooltip "शोध पट्टी बंद करा">
-<!ENTITY highlight.label "सर्वे ठळक करा">
+<!ENTITY highlight.label "सर्व ठळक करा (a)">
 <!ENTITY highlight.accesskey "a">
 <!ENTITY highlight.tooltiptext "शब्दसमुहाचे सर्व प्रत्यक्ष ठकळ करा">
-<!ENTITY caseSensitiveCheckbox.label "शैली जुळवा">
+<!ENTITY caseSensitiveCheckbox.label "शैली जुळवा (c)">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">

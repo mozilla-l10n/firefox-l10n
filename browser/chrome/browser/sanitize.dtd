@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
-<!ENTITY clearTimeDuration.label          "पूसण्याकरीता वेळ क्षेत्र: ">
+<!ENTITY clearTimeDuration.label          "नष्ट करण्यासाठी वेळ क्षेत्र (T): ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "शेवटचा तास">
 <!ENTITY clearTimeDuration.last2Hours     "शेवटचे दोन तास">
@@ -26,27 +26,27 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "तपशील">
+<!ENTITY detailsProgressiveDisclosure.label     "तपशील (e)">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "इतिहास">
 <!ENTITY dataSection.label            "माहिती">
 
-<!ENTITY itemHistoryAndDownloads.label     "इतिहास संचार व डाऊनलोड करत आहे">
+<!ENTITY itemHistoryAndDownloads.label     "ब्राऊज करणे &amp; डाऊनलोड इतिहास (B)">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "फॉर्म &amp; इतिहास शोधा">
+<!ENTITY itemFormSearchHistory.label       "फॉर्म &amp; इतिहास शोधा (F)">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "पासवर्ड संचयीत केले">
+<!ENTITY itemPasswords.label               "साठवलेले पासवर्डज (P)">
 <!ENTITY itemPasswords.accesskey           "P">
-<!ENTITY itemCookies.label                 "कुकीज">
+<!ENTITY itemCookies.label                 "कुकीज (C)">
 <!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "कॅशे">
-<!ENTITY itemCache.accesskey               "A">
-<!ENTITY itemOfflineApps.label             "ऑफलाइन संकेतस्थळ माहिती">
+<!ENTITY itemCache.label                   "कॅशे (a)">
+<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemOfflineApps.label             "ऑफलाइन संकेतस्थळ माहिती (O)">
 <!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemActiveLogins.label            "सक्रीय दाखलन">
+<!ENTITY itemActiveLogins.label            "सक्रिय प्रवेश (L)">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "स्थळ आवड निवड">
+<!ENTITY itemSitePreferences.label         "साईट पसंती (S)">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
