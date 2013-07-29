@@ -354,7 +354,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_mode_dialog_continue "Continuer">
 <!ENTITY guest_mode_dialog_cancel "Annuler">
 <!ENTITY guest_mode_enter_title "Mode invité">
-<!ENTITY guest_mode_enter_text "Lorsque le mode invité est activé, la personne qui utilise &brandShortName; ne peut pas accéder à vos données personnelles de navigation (comme par exemple vos mots de passe enregistrés, votre historique ou vos marque-pages).\n\nLorsque votre invité aura terminé, ses données de navigation seront supprimées.">
+<!ENTITY guest_mode_enter_text "Lorsque le mode invité est actif, la personne qui utilise &brandShortName; ne peut pas accéder à vos données personnelles de navigation (comme par exemple vos mots de passe enregistrés, votre historique ou vos marque-pages).\n\nLorsque votre invité a terminé, ses données de navigation sont supprimées.">
 
 <!ENTITY guest_mode_leave_title "Quitter le mode invité">
 <!ENTITY guest_mode_leave_text "&brandShortName; supprimera les données de navigation de cette session.">
