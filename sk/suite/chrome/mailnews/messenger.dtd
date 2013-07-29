@@ -158,8 +158,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "d">
-<!ENTITY sortByRecipientCmd.label "Adresát">
-<!ENTITY sortByRecipientCmd.accesskey "A">
+<!ENTITY sortByRecipientsCmd.label "Adresáti">
+<!ENTITY sortByRecipientsCmd.accesskey "A">
+<!ENTITY sortByToCmd.label "Komu">
+<!ENTITY sortByToCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Neprečítané">
 <!ENTITY sortByUnreadCmd.accesskey "N">
 <!ENTITY sortByOrderReceivedCmd.label "Poradie doručenia">
@@ -173,7 +175,7 @@
 <!ENTITY sortThreaded.label "Zreťazené usporiadanie">
 <!ENTITY sortThreaded.accesskey "Z">
 <!ENTITY sortUnthreaded.label "Klasické usporiadanie">
-<!ENTITY sortUnthreaded.accesskey "K">
+<!ENTITY sortUnthreaded.accesskey "d">
 <!ENTITY groupBySort.label "Triedením zoskupiť">
 <!ENTITY groupBySort.accesskey "T">
 <!ENTITY msgsMenu.label "Správy">

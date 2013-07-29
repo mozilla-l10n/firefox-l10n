@@ -186,8 +186,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "d">
-<!ENTITY sortByRecipientCmd.label "Adresát">
-<!ENTITY sortByRecipientCmd.accesskey "A">
+<!ENTITY sortByRecipientsCmd.label "Adresáti">
+<!ENTITY sortByRecipientsCmd.accesskey "A">
+<!ENTITY sortByToCmd.label "Komu">
+<!ENTITY sortByToCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Neprečítané">
 <!ENTITY sortByUnreadCmd.accesskey "N">
 <!ENTITY sortByOrderReceivedCmd.label "Poradie doručenia">
@@ -199,7 +201,7 @@
 <!ENTITY sortThreaded.label "Zreťazené usporiadanie">
 <!ENTITY sortThreaded.accesskey "Z">
 <!ENTITY sortUnthreaded.label "Klasické usporiadanie">
-<!ENTITY sortUnthreaded.accesskey "K">
+<!ENTITY sortUnthreaded.accesskey "d">
 <!ENTITY groupBySort.label "Triedením zoskupiť">
 <!ENTITY groupBySort.accesskey "T">
 <!ENTITY msgsMenu.label "Správy">
@@ -646,7 +648,8 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
-<!ENTITY recipientColumn.label "Adresát">
+<!ENTITY recipientsColumn.label "Adresáti">
+<!ENTITY toColumn.label "Komu">
 <!ENTITY subjectColumn.label "Predmet">
 <!ENTITY dateColumn.label "Dátum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -668,7 +671,8 @@
 <!ENTITY columnChooser.tooltip "Kliknutím vyberiete stĺpce">
 <!ENTITY threadColumn.tooltip "Kliknutím usporiadate správy do vlákien">
 <!ENTITY fromColumn.tooltip "Kliknutím usporiadate podľa stĺpca Od">
-<!ENTITY recipientColumn.tooltip "Kliknutím usporiadate podľa adresáta">
+<!ENTITY recipientsColumn.tooltip "Kliknutím usporiadate podľa adresátov">
+<!ENTITY toColumn.tooltip "Kliknutím usporiadate podľa poľa Komu">
 <!ENTITY subjectColumn.tooltip "Kliknutím usporiadate podľa predmetu">
 <!ENTITY dateColumn.tooltip "Kliknutím usporiadate podľa dátumu">
 <!ENTITY priorityColumn.tooltip "Kliknutím usporiadate podľa priority">

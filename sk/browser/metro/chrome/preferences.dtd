@@ -37,3 +37,5 @@
 <!ENTITY doNotTrack.options.trackingOkay                         "môžem byť sledovaný">
 <!ENTITY optionsHeader.reporting.title                           "Oznamovateľ zlyhaní">
 <!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; odosiela správy o zlyhaní spoločnosti Mozilla s cieľom urobiť prehliadač stabilnejším a bezpečnejším">
+<!ENTITY optionsHeader.telemetry.title                            "Telemetria">
+<!ENTITY optionsHeader.telemetry.label                            "Zdieľa štatistiky o používaní prehliadača so spoločnosťou Mozilla s cieľom urobiť &brandShortName; lepším.">

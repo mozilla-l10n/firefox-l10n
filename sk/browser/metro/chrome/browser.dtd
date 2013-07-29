@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
 <!ENTITY urlbar.emptytext      "Zadajte adresu alebo výraz vyhľadávania">
 <!ENTITY urlbar.accesskey      "d">
 
@@ -10,28 +12,30 @@
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
 
+<!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
+<!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete">
+
 <!ENTITY appbarErrorConsole.label   "Otvoriť chybovú konzolu">
 <!ENTITY appbarJSShell.label        "Otvoriť príkazový riadok JavaScriptu">
 <!ENTITY appbarFindInPage2.label    "Hľadať na stránke">
 <!ENTITY appbarViewOnDesktop2.label "Zobraziť na Ploche">
 
-<!ENTITY startTopSitesHeader.label        "Naj stránky">
-<!ENTITY startBookmarksHeader.label       "Záložky">
-<!ENTITY startHistoryHeader.label         "Nedávna história">
-<!ENTITY startRemoteTabsHeader.label      "Karty z iných zariadení">
+<!ENTITY topSitesHeader.label        "Naj stránky">
+<!ENTITY bookmarksHeader.label       "Záložky">
+<!ENTITY recentHistoryHeader.label   "Nedávna história">
+<!ENTITY remoteTabsHeader.label      "Karty z iných zariadení">
 
 <!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
      Needs to be two words or shorter to fit in narrow vertical space.-->
 <!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label,
                         snappedBookmarksHeader.label,
-                        snappedHistoryHeader.lavel )
+                        snappedHistoryHeader.lavel,
+                        snappedTopSitesHeader.label )
       The '>' character is not part of the name, but is an indicator of more content. Please do not localize the '>' -->
 <!ENTITY snappedRemoteTabsHeader.label    "Vzdialené karty >">
-<!ENTITY snappedBookmarksHeader.label       "Záložky >">
-<!ENTITY snappedHistoryHeader.label         "Nedávna história >">
-
-<!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
-<!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete"> 
+<!ENTITY snappedBookmarksHeader.label     "Záložky >">
+<!ENTITY snappedRecentHistoryHeader.label "Nedávna história >">
+<!ENTITY snappedTopSitesHeader.label      "Naj stránky >">
 
 <!ENTITY downloadsHeader.label     "Prevzaté">
 <!ENTITY downloadShowPage.label    "Prejsť na stránku">
@@ -45,7 +49,6 @@
 <!ENTITY downloadDelete.label      "Vymazať">
 <!ENTITY downloadFailed.label      "Zlyhalo">
 
-<!ENTITY bookmarksHeader.label     "Záložky">
 <!ENTITY allBookmarks.label        "Zobraziť všetky záložky">
 
 <!ENTITY consoleHeader.label       "Chybová konzola">

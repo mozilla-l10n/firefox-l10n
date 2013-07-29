@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  splash_settingup "Prebieha nastavenie prehliadača &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Prebieha aktualizácia vašich záložiek a histórie prehliadania. Proces môže trvať niekoľko minút.">
-
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
@@ -67,10 +64,12 @@
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
 <!ENTITY pref_category_customize "Prispôsobenie">
+<!ENTITY pref_category_search "Vyhľadávanie">
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
+<!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -246,7 +245,10 @@ size. -->
 <!ENTITY reading_list_removed "Stránka bola odstránená zo Zoznamu na prečítanie">
 <!ENTITY reading_list_failed "Pridanie stránky do Zoznamu na prečítanie sa nepodarilo">
 <!ENTITY reading_list_duplicate "Stránka sa už nachádza v Zozname na prečítanie">
-<!ENTITY reader "Čítačka">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Ďalšie akcie">
 
 <!ENTITY masterpassword_create_title "Vytvoriť hlavné heslo">
 <!ENTITY masterpassword_remove_title "Odstrániť hlavné heslo">
@@ -341,3 +343,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Je dostupná aktualizácia pre &brandShortName;">
 <!ENTITY updater_apply_select2 "Ťuknutím sem ju použijete">
+
+<!-- Guest mode -->
+<!ENTITY enter_guest_mode "Zapnúť režim Hosť">
+<!ENTITY exit_guest_mode "Opustiť režim Hosť">
+<!ENTITY guest_mode_dialog_continue "Pokračovať">
+<!ENTITY guest_mode_dialog_cancel "Zrušiť">
+<!ENTITY guest_mode_enter_title "Režim Hosť">
+<!ENTITY guest_mode_enter_text "Počas prehliadania v režim Hosť nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené heslá, história alebo záložky) uloženým v prehliadači &brandShortName;.\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené.">
+
+<!ENTITY guest_mode_leave_title "Opúšťate režim Hosť">
+<!ENTITY guest_mode_leave_text "&brandShortName; odstráni všetky údaje pochádzajúce z tejto relácie prehliadania.">
