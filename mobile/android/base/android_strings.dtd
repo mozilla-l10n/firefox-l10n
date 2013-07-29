@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName;in kaatumisilmoitusohjelma">
 <!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
-<!ENTITY  crash_send_report_message2 "Kerro virheestä Mozillalle ja auta heitä korjaamaan vika">
+<!ENTITY  crash_send_report_message3 "Kerro virheestä &vendorShortName;lle ja auta heitä korjaamaan vika">
 <!ENTITY  crash_include_url2 "Lähetä avoinna olleen sivun osoite">
 <!ENTITY  crash_sorry "Olemme pahoillamme">
 <!ENTITY  crash_comment "Lisää kommenttisi englanniksi (kommentit ovat julkisia)">
-<!ENTITY  crash_allow_contact "Mozilla voi ottaa minuun yhteyttä ilmoituksen puitteissa">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; voi ottaa minuun yhteyttä ilmoituksen puitteissa">
 <!ENTITY  crash_email "Sähköpostiosoitteesi">
 <!ENTITY  crash_closing_alert "Lopetetaanko lähettämättä kaatumisilmoitusta?">
 <!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Lisättiin kirjanmerkki">
 <!ENTITY bookmark_removed "Poistettiin kirjanmerkki">
 <!ENTITY bookmark_updated "Päivitettiin kirjanmerkki">
+<!ENTITY bookmark_options "Asetukset">
 
 <!ENTITY history_today_section "Tänään">
 <!ENTITY history_yesterday_section "Eilen">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Toista painamalla">
 <!ENTITY pref_plugins_disabled "Pois käytöstä">
 <!ENTITY pref_text_size "Tekstin koko">
-<!ENTITY pref_reflow_on_zoom2 "Asettele teksti uudestaan nipistämällä">
+<!ENTITY pref_reflow_on_zoom3 "Asettele teksti uudestaan painamalla kaksi kertaa nopeasti">
 <!ENTITY pref_font_size_tiny "Todella pieni">
 <!ENTITY pref_font_size_small "Pieni">
 <!ENTITY pref_font_size_medium "Keskikoko">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Ladatut tiedostot">
 
 <!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
+<!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
 <!ENTITY datareporting_notification_action "Valitse lähetettävät tiedot">
 <!ENTITY datareporting_notification_summary "Parantaaksemme käyttökokemustasi &brandShortName; automaattisesti lähettää joitain tietoja &vendorShortName;illa.">
 <!ENTITY datareporting_notification_summary_short "Parantaaksemme käyttökokemustasi &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;in terveydentilaraportti">
-<!ENTITY datareporting_fhr_summary "Toiminto auttaa ymmärtämään selaimen suorituskykytasoa ja välittää tiedon selaimen terveydentilasta &vendorShortName;lle">
+<!ENTITY datareporting_fhr_summary2 "Toiminto auttaa ymmärtämään selaimen suorituskykytasoa ja välittää tiedon selaimen terveydentilasta &vendorShortName;lle">
+<!ENTITY datareporting_abouthr_title "Näytä terveydentilaraportti">
 <!ENTITY datareporting_telemetry_title "Selainmittarit">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; kerää suorituskyky- ja laitteistotietoja sekä tietoja selaimeen tehdyistä muokkauksista, ja lähettää ne &vendorShortName;lle, jotta kykenemme tarjoamaan parhaan mahdollisen selauskokemuksen.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää kaatumisilmoitukset &vendorShortName;lle, jotta voimme tehdä vakaamman ja turvallisemman selaimen">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title "&brandShortName;in kaatumisten ilmoitusohjelma">
+<!ENTITY datareporting_wifi_title "&vendorShortName;n paikannuspalvelut">
+<!ENTITY datareporting_wifi_summary "Auta kehittämään parempia avoimen Internetin paikannuspalveluja sallimalla &brandShortName;in kerätä ja lähettää nimettömänä eteenpäin tietoja matkapuhelinverkosta.">
 
 <!ENTITY pref_update_autodownload "Automaattiset päivitykset">
 <!ENTITY pref_update_autodownload_wifi "Vain Wi-Fi -yhteydellä">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Sivustoa hallinnoi">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Tällä sivulla on suojaamatonta sisältöä.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
+<!ENTITY blocked_mixed_content_message_bottom "Useimmat verkkosivut toimivat edelleen moitteettomasti vaikka tällainen sisältö on estetty.">
+<!ENTITY learn_more "Lue lisää">
+<!ENTITY enable_protection "Ota suojaus käyttöön">
+<!ENTITY disable_protection "Poista suojaus käytöstä">
+<!ENTITY keep_blocking "Jatka estoa">
 
 <!ENTITY private_data_success "Yksityistiedot poistettiin">
 <!ENTITY private_data_fail "Joitain yksityistietoja ei voitu poistaa">
