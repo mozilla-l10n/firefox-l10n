@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Certifikáty">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Zrušené certifikáty">
-<!ENTITY viewCRLs.accesskey             "u">
 <!ENTITY validation.label               "Overenie">
 <!ENTITY validation.accesskey           "O">
 <!ENTITY viewSecurityDevices.label      "Zariadenia">
