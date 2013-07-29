@@ -19,6 +19,9 @@ tentang &brandShortName;, silakan kunjungi
 <!ENTITY aboutSupport.appBasicsTitle "Informasi Dasar Aplikasi">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktori Profil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -61,7 +64,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Riwayat Instalasi">
-<!ENTITY aboutSupport.updateHistoryTitle "Riwayat Versi Baru">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke papan klip">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah ke papan klip">

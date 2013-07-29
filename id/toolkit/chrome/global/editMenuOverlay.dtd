@@ -6,7 +6,7 @@
 <!ENTITY editMenu.accesskey        "U">
 <!ENTITY undoCmd.label             "Urungkan">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "g">
+<!ENTITY undoCmd.accesskey         "U">
 <!ENTITY redoCmd.label             "Ulangi">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "U">

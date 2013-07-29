@@ -4,13 +4,12 @@
 
 <!ENTITY tracking.label                 "Pelacakan">
 
-<!ENTITY dntTrackingNopref.label        "Jangan beri tahu situs tentang pengaturan pelacakan saya.">
-<!ENTITY dntTrackingNopref.accesskey    "j">
-<!ENTITY dntTrackingNotOkay.label       "Beritahukan situs bahwa saya tidak ingin dilacak.">
-<!ENTITY dntTrackingNotOkay.accesskey   "s">
-<!ENTITY dntTrackingOkay.label          "Beritahukan situs bahwa saya ingin dilacak.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Pelajari Selengkapnya">
+
+
+
+
+
+<!ENTITY doNotTrackInfo.label           "Pelajari Lebih Lanjut">
 
 <!ENTITY  history.label                 "Riwayat">
 
@@ -27,11 +26,9 @@
 <!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-<!ENTITY  acceptThirdParty.pre.label      "Terima kuki dari pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "d">
+
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
-<!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
-<!ENTITY  acceptThirdParty.visited.label  "Dari yang Pernah Dikunjungi">
+<!ENTITY  acceptThirdParty.never.label    "Tidak">
 
 
 <!ENTITY  keepUntil.label               "Simpan hingga:">
@@ -48,7 +45,7 @@
 <!ENTITY  showCookies.accesskey         "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "akan mengingat data riwayat">
 <!ENTITY  historyHeader.dontremember.label "tidak akan mengingat data riwayat">
 <!ENTITY  historyHeader.custom.label       "menggunakan pengaturan khusus untuk data riwayat">
