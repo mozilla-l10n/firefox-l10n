@@ -20,6 +20,11 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reŝargi ĉiujn langetojn">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Fermi langetojn dekstren">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Fermi aliajn langetojn">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
@@ -214,11 +219,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Konzolo de eraroj">
 <!ENTITY errorConsoleCmd.accesskey    "E">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Fora teksaĵa konzolo">
 
 <!ENTITY browserConsoleCmd.label      "Retesplorila konzolo">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "R">
 
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -241,6 +247,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "r">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Sencimigilo de retesplorilo">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fermi ilaron de programistoj">
 <!ENTITY devToolbarMenu.label              "Ilaro de programistoj">
@@ -671,3 +681,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "La plimulto de la retejoj funkcios bone eĉ se tiu ĉi enhavo estas blokita.">
 
 <!ENTITY pointerLock.notification.message "Premu ESC iam ajn por denove montri ĝin.">
+
+<!ENTITY pluginNotification.showAll.label "Montri ĉion">
+<!ENTITY pluginNotification.showAll.accesskey "M">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Permesi nun">
+<!ENTITY pluginActivateAlways.label "Permesi kaj memori">
+<!ENTITY pluginBlockNow.label "Bloki kromprogramon">
