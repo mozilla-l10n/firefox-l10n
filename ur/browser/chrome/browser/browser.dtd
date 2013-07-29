@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "دائیں طرف کے ٹیب بند کریں">
+<!ENTITY  closeTabsToTheEnd.accesskey        "د">
 <!ENTITY  closeOtherTabs.label               "دیگر ٹیب بند کر دیں">
 <!ENTITY  closeOtherTabs.accesskey           "د">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
 
 <!ENTITY browserConsoleCmd.label      "براؤزر کنسول">
-
+<!ENTITY browserConsoleCmd.commandkey "ک">
 <!ENTITY browserConsoleCmd.accesskey  "ب">
 
 <!ENTITY inspectContextMenu.label     "ایلیمنٹ چیک کریں">
@@ -248,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "براؤزر ڈی بگر">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
