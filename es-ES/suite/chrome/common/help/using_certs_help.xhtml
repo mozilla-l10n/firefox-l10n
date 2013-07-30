@@ -627,10 +627,7 @@
   <ul>
     <li><a href="#how_validation_works">Cómo funciona la
       validación</a></li>
-    <li><a href="#managing_crls">Cómo se gestionan las CRL</a></li>
     <li><a href="#configuring_ocsp">Cómo se configura OCSP</a></li>
-    <li><a href="validation_help.xhtml">Cómo se configuran los
-      valores de validación</a></li>
   </ul>
 </div>
 
@@ -661,27 +658,17 @@
   que una persona o un sitio web no autorizados se hagan pasar por propietarios
   del certificado.</p>
 
-<p>Un modo de combatir esta amenaza es que el administrador de certificados
-  compruebe la lista de revocación de certificados (CRL) como parte del
-  proceso de verificación (consulte <a href="#managing_crls">Cómo
-  se gestionan las CRL</a>, a continuación). Normalmente, una CRL se
-  descarga al navegador al hacer clic en el enlace. Si ya hay una CRL, el
-  administrador de certificados comprueba cada certificado con la lista que
-  emite la misma CA como parte del proceso de verificación.</p>
+<p>Un modo de combatir esta amenaza sería que el administrador de certificados
+  compruebe una lista de revocación de certificados (CRL) previamente
+  descargada como parte del proceso de verificación. Sin embargo, esas listas
+  pueden ser grandes y necesitan ser actualizadas frecuentemente para estar
+  actualizadas y seguir siendo útiles.</p>
 
-<p>La fiabilidad de las CRL depende de la frecuencia con la que el servidor
-  las actualiza y el cliente las comprueba. Puede configurar sus <a href=
-  "validation_help.xhtml#automatic_crl_update_preferences">Preferencias de
-  actualización automática de CRL</a> de manera que una CRL se
-  actualice automáticamente a intervalos regulares con la versión
-  actualmente en el servidor.</p>
-
-<p>Otro modo de combatir esta amenaza consiste en utilizar un servidor
-  especial que admita el Protocolo de estado de certificado en línea
+<p>La manera preferida de combatir esta amenaza consiste en utilizar un
+  servidor especial que admita el Protocolo de estado de certificados en línea
   (OCSP). Un servidor así puede responder a las consultas de clientes
   acerca de certificados individuales (consulte <a href=
-  "#configuring_ocsp">Cómo se configura OCSP</a>, a
-  continuación).</p>
+  "#configuring_ocsp">Cómo se configura OCSP</a>, a continuación).</p>
 
 <p>El servidor, denominado contestador OCSP, recibe periódicamente una
   CRL actualizada desde la CA que emite los certificados que hay que verificar.
@@ -692,175 +679,23 @@
 <p>[<a href="#controlling_validation">Volver al principio de la
   sección</a>]</p>
   
-<h2 id="managing_crls">Cómo se gestionan las CRL</h2>
-
-<p>Una lista de revocación de certificados (CRL) es una lista de
-  certificados revocados. Una <a href=
-  "glossary.xhtml#certificate_authority">autoridad certificadora (CA)</a> puede
-  revocar un certificado, por ejemplo, si se ha comprometido de alguna manera,
-  de forma similar a como una compañía de tarjetas de
-  crédito revocaría su tarjeta de crédito si informara de
-  que se la han robado.</p>
-
-<p>En esta sección se explica cómo se importan y exportan
-  CRL.</p>
-
-<p>Si desea información básica, consulte <a href=
-  "#how_validation_works">Cómo funciona la validación</a>.</p>
-
-<p>Si desea descripciones detalladas sobre la configuración de CRL que
-  pueda controlar, consulte <a href="validation_help.xhtml">Cómo se
-  configuran los valores de validación</a>.</p>
-  
-<div class="contentsBox">En esta sección:
-  <ul>
-    <li><a href="#about_the_next_update_date">Qué es la fecha de
-      próxima actualización</a></li>
-    <li><a href="#importing_crls">Cómo se importan CRL</a></li>
-    <li><a href="#viewing_and_managing_crls">Cómo se gestionan y se
-      visualizan CRL</a></li>
-  </ul>
-</div>
-
-<h3 id="about_the_next_update_date">Qué es la fecha de próxima
-  actualización</h3>
-
-<p>El navegador utiliza las CRL disponibles para comprobar la validez de los
-  certificados emitidos por las CA correspondientes. Si un certificado aparece
-  como revocado, el navegador no lo aceptará como prueba de
-  identidad.</p>
-
-<p>Una CA publica normalmente una CRL actualizada a intervalos regulares.
-  Cada CRL tiene una fecha, especificada en el campo Próxima
-  actualización, con la que la CA publicará la siguiente
-  actualización de esta CRL. Por lo general, si la fecha de ese campo es
-  anterior a la actual, se debe obtener la versión más reciente
-  de la CRL. Si desea obtener más información sobre CRL y
-  configurar su actualización automática, consulte <a href=
-  "#viewing_and_managing_crls">Cómo se consultan y se visualizan
-  CRLs</a>.</p>
-
-<p>Las CAs están obligadas a generar una nueva CRL antes de la fecha
-  del campo Próxima actualización. Sin embargo, la ausencia de la
-  CRL más reciente no invalida en sí misma un certificado. Por
-  esta razón, si la CRL más reciente no está disponible,
-  un certificado puede ser validado incluso aunque la CRL más reciente
-  lo muestre como caducado. La actualización automática de CRLs
-  puede ayudar a evitar esta situación.</p>
-
-<h3 id="importing_crls">Cómo se importan CRL</h3>
-
-<p>Puede descargar las últimas CRL de una CA a su navegador. Para
-  importar una CRL, siga los pasos que se indican a continuación:</p>
-
-<ol>
-  <li>Vaya a la URL especificada por el CA o por el administrador del sistema
-    y haga clic en el enlace de la CRL que desee importar.
-
-    <p>Aparecerá el cuadro de diálogo Estado de
-    importación.</p>
-  </li>
-  <li>Confirme que la CRL se importó correctamente y que es la que
-    usted quería. En la mayoría de los casos convendría
-    hacer clic en Sí, ya que de este modo se habilita la
-    actualización automática de la CRL que se acaba de
-    importar.</li>
-  <li>El siguiente paso depende de si ha hecho clic en Sí o en No en
-    el cuadro de diálogo Estado de importación:
-    <ul>
-      <li><strong>Sí</strong>: aparecerá el cuadro de
-        diálogo Preferencias de actualización automática
-        de CRL. En este caso, vaya directamente al paso 4.</li>
-      <li><strong>No</strong>: se cerrará el cuadro de diálogo
-        Estado de importación. Si cambia de opinión y decide
-        activar las actualizaciones automáticas después de todo,
-        consulte <a href="#viewing_and_managing_crls">Cómo se consultan
-        y se visualizan CRL</a>.</li>
-    </ul>
-  </li>
-  <li>Seleccione la opción etiquetada <q>Activar actualización
-    automática para esta CRL</q>.</li>
-  <li>Decida cómo desea programar las actualizaciones
-    automáticas:
-    <ul>
-      <li><strong>Actualizar [__] días antes de la fecha de
-        próxima actualización</strong>: seleccione esta
-        opción si desea basar la frecuencia de actualización en
-        la frecuencia con la que el publicador de la CRL publica una nueva
-        versión de la CRL.</li>
-      <li><strong>Actualizar cada [__] días</strong>: seleccione esta
-        opción si desea especificar un intervalo de actualización
-        no relacionado con la fecha de próxima actualización de
-        la CRL.</li>
-    </ul>
-  </li>
-  <li>Haga clic en Aceptar para confirmar la elección.</li>
-</ol>
-
-<h3 id="viewing_and_managing_crls">Cómo se gestionan y se visualizan
-  CRLs</h3>
-
-<p>Puede visualizar y gestionar las CRL disponibles para el navegador a
-  través de sus preferencias de validación:</p>
-
-<ol>
-  <li>Abra el menú <span class="mac">&brandShortName;</span>
-    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
-  <li>Dentro de la categoría Privacidad y seguridad, haga clic en
-    Validación (si no aparece ninguna subcategoría, haga doble
-    clic en Seguridad y privacidad para expandir la lista).</li>
-  <li>Haga clic en Gestionar CRL del panel Validación para ver una
-    lista de las CRL que el administrador de certificados tiene
-    disponibles.</li>
-</ol>
-
-<p>Para eliminar o actualizar una CRL, selecciónela y haga clic en el
-  botón adecuado.</p>
-
-<p>Para configurar las actualizaciones automáticas para una CRL,
-  seleccione la CRL y haga clic en Configuración. Aparecerá el
-  cuadro de diálogo Preferencias de actualización
-  automática de CRL:</p>
-
-<ol>
-  <li>Seleccione la opción etiquetada Activar actualización
-    automática para esta CRL.</li>
-  <li>Decida cómo desea programar las actualizaciones
-    automáticas:
-    <ul>
-      <li><strong>Actualizar [__] días antes de la fecha de
-        próxima actualización</strong>: seleccione esta
-        opción si desea basar la frecuencia de actualización en
-        la frecuencia con la que el publicador de la CRL publica una nueva
-        versión de la CRL.</li>
-        <li><strong>Actualizar cada [__] días</strong>: seleccione esta
-        opción si desea especificar un intervalo de actualización
-        no relacionado con la fecha de próxima actualización de
-        la CRL.</li>
-    </ul>
-  </li>
-  <li>Haga clic en Aceptar para confirmar la elección.</li>
-</ol>
-
-<p>[<a href="#controlling_validation">Volver al principio de la
-  sección</a>]</p>
-  
 <h2 id="configuring_ocsp">Cómo se configura OCSP</h2>
 
 <p>La configuración que controla OCSP forma parte de las preferencias
-  de validación. Para ver las preferencias de validación, siga
+  de certificados. Para ver las preferencias de certificados, siga
   los pasos que se indican a continuación:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
   <li>Dentro de la categoría Privacidad y seguridad, haga clic en
-    Validación (si no aparece ninguna subcategoría, haga doble
+    Certificados (si no aparece ninguna subcategoría, haga doble
     clic en Seguridad y privacidad para expandir la lista).</li>
 </ol>
 
 <p>Si desea obtener más información sobre las opciones OCSP
-  disponibles, consulte <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
+  disponibles, consulte <a href="certs_prefs_help.xhtml#ocsp">Preferencias
+  de privacidad y seguridad - Certificados, OCSP.</a></p>
 
 <p>[<a href="#controlling_validation">Volver al principio de la
   sección</a>]</p>
