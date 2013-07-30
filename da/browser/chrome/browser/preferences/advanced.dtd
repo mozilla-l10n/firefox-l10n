@@ -89,7 +89,7 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto1.accesskey            "A">
-<!ENTITY updateAutoMetro.label           "Automatically update from desktop and Windows 8 style &brandShortName;">
+<!ENTITY updateAutoMetro.label           "Opdater automatisk (både som almindeligt program og som Windows 8-app)">
 <!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "Søg efter opdateringer, men lad mig vælge om de skal installeres">
 <!ENTITY updateCheck.accesskey           "S">
@@ -99,7 +99,7 @@
 <!ENTITY updateAutoAddonWarn.label       "Advar mig, hvis dette vil deaktivere nogle af mine tilføjelser">
 <!ENTITY updateAutoAddonWarn.accesskey   "t">
 
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 style &brandShortName; does not check add-on compatibility)">
+<!ENTITY updateAutoMetroWarn.label       "Udvidelser tjekkes ikke for kompatibilitet i &brandShortName; Windows 8-app)">
 
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
