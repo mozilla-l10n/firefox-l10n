@@ -241,5 +241,11 @@
 <!ENTITY updater_downloading_retry2 "Нажмите для повтора">
 <!ENTITY updater_apply_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_apply_select2 "Нажмите для обновления">
-<!ENTITY enter_guest_mode "Войти в режим гостя">
-<!ENTITY exit_guest_mode "Выйти из режима гостя">
+<!ENTITY enter_guest_mode "Войти в гостевой режим">
+<!ENTITY exit_guest_mode "Выйти из гостевого режима">
+<!ENTITY guest_mode_dialog_continue "Продолжить">
+<!ENTITY guest_mode_dialog_cancel "Отмена">
+<!ENTITY guest_mode_enter_title "Гостевой режим">
+<!ENTITY guest_mode_enter_text "При нахождении в гостевом режиме человек, использующий &brandShortName;, не увидит ничего из ваших личных данных веб-сёрфинга (таких как сохранённые пароли, история или закладки).\n\nКогда ваш гость закончит, его данные веб-сёрфинга будут удалены.">
+<!ENTITY guest_mode_leave_title "Выход из гостевого режима">
+<!ENTITY guest_mode_leave_text "&brandShortName; удалит данные веб-серфинга из этой сессии.">
