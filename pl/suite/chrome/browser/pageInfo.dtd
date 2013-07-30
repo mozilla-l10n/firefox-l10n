@@ -93,6 +93,7 @@
 <!ENTITY permImage "Wczytywanie obrazków">
 <!ENTITY permPopup "Otwórz wyskakujące okna">
 <!ENTITY permCookie "Zapisywanie ciasteczek">
+<!ENTITY permNotifications "Wyświetlanie powiadomień">
 <!ENTITY permInstall "Instalacja rozszerzeń i motywów">
 <!ENTITY permGeo "Udostępnij położenie">
 
