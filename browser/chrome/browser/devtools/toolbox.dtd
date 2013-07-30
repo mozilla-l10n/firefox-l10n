@@ -60,7 +60,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Ikke understøttet for det nuværende værktøjs mål">
+<!ENTITY options.toolNotSupported.label  "* Understøttes ikke af værktøjernes nuværende destination.">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -77,5 +77,5 @@
   -  label for the checkbox that toggles persistent logs in the Web Console,
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
-<!ENTITY options.enablePersistentLogging.label    "Slå vedholdende logning til">
-<!ENTITY options.enablePersistentLogging.tooltip  "Hvis du slår denne indstilling til rydder webkonsollen ikke output, hver gang du navigerer til en ny side">
+<!ENTITY options.enablePersistentLogging.label    "Slå vedvarende logning til">
+<!ENTITY options.enablePersistentLogging.tooltip  "Hvis du slår denne indstilling til, ryddes webkonsollens output ikke, når du navigerer til en ny side">
