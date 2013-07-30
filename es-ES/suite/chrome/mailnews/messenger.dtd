@@ -144,8 +144,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "u">
 <!ENTITY sortByFromCmd.label "Remitente">
 <!ENTITY sortByFromCmd.accesskey "m">
-<!ENTITY sortByRecipientCmd.label "Destinatario">
-<!ENTITY sortByRecipientCmd.accesskey "s">
+<!ENTITY sortByRecipientsCmd.label "Destinatarios">
+<!ENTITY sortByRecipientsCmd.accesskey "D">
+<!ENTITY sortByToCmd.label "Para">
+<!ENTITY sortByToCmd.accesskey "P">
 <!ENTITY sortByUnreadCmd.label "Leídos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orden de recepción">
