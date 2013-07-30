@@ -34,7 +34,8 @@
 <!ENTITY abSearchDialogTitle.label "Búsqueda avanzada en la libreta de direcciones">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
-<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY recipientsColumn.label "Destinatarios">
+<!ENTITY toColumn.label "Para">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
 <!ENTITY priorityColumn.label "Prioridad">
@@ -53,7 +54,8 @@
 <!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
 <!ENTITY threadColumn.tooltip "Pulse para mostrar los mensajes agrupados por conversaciones">
 <!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
+<!ENTITY recipientsColumn.tooltip "Haga clic para ordenar por destinatarios">
+<!ENTITY toColumn.tooltip "Haga clic para ordenar por">
 <!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
 <!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
