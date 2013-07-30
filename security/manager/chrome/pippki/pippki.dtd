@@ -76,8 +76,6 @@
 <!ENTITY examineCert.label "Vidi atestilon">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Bonvolu peti helpon al via sistema administranto">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Kreado de privata ŝlosilo">
 <!ENTITY createCertInfo.msg1 "Kreado de ŝlosilo… Tio povas postuli kelkajn minutojn….">
