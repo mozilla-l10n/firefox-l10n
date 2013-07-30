@@ -171,12 +171,14 @@
 <!ENTITY sortBySubjectCmd.accesskey "a">
 <!ENTITY sortByFromCmd.label "Remitente">
 <!ENTITY sortByFromCmd.accesskey "R">
-<!ENTITY sortByRecipientCmd.label "Destinatario">
-<!ENTITY sortByRecipientCmd.accesskey "D">
+<!ENTITY sortByRecipientsCmd.label "Destinatarios">
+<!ENTITY sortByRecipientsCmd.accesskey "i">
+<!ENTITY sortByToCmd.label "Para">
+<!ENTITY sortByToCmd.accesskey "P">
 <!ENTITY sortByUnreadCmd.label "Leídos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orden de recepción">
-<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortByOrderReceivedCmd.accesskey "c">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendente">
@@ -589,7 +591,8 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar la búsqueda como una carpeta…">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
-<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY recipientsColumn.label "Destinatarios">
+<!ENTITY toColumn.label "Para">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
 <!ENTITY priorityColumn.label "Prioridad">
@@ -609,7 +612,8 @@
 <!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
 <!ENTITY threadColumn.tooltip "Pulse para mostrar los mensajes agrupados por conversaciones">
 <!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
-<!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
+<!ENTITY recipientsColumn.tooltip "Haga clic para ordenar por destinatarios">
+<!ENTITY toColumn.tooltip "Haga clic para ordenar por">
 <!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
 <!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
