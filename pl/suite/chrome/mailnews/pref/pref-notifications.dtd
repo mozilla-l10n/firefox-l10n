@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label "Wyświetlaj powiadomienie przez">
 <!ENTITY showAlertFor.accesskey "W">
 <!ENTITY showAlertTimeEnd.label "sekund">
-<!ENTITY showAlertTimeEnd.accesskey "u">
 
 <!ENTITY showAlertPreviewText.label "Wyświetlaj podgląd treści wiadomości">
 <!ENTITY showAlertPreviewText.accesskey "d">
