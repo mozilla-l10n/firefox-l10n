@@ -181,6 +181,31 @@
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
          "&lt;&#x21E7;&#x2318;K&gt;">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "标签筛选模式">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.label "任何">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "匹配任一选定的标签标准">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.label "完全">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
+     Tooltip of the Any of / All of tagging mode selector.
+     -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "完全匹配选定的标签标准">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
