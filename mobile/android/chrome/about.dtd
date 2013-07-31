@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Gwirio am Ddiweddariad »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Chwilio am ddiweddariadau…">
 <!ENTITY aboutPage.checkForUpdates.none         "Dim diweddariadau ar gael">
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Llwytho diweddariad i lawr">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Llwytho diweddariad i lawr…">
-
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Gosod diweddariad">
 <!ENTITY aboutPage.faq.label                    "Atebion">
 <!ENTITY aboutPage.support.label                "Cefnogaeth">
 <!ENTITY aboutPage.privacyPolicy.label          "Polisi Preifatrwydd">
