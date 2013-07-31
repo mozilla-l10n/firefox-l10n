@@ -14,12 +14,13 @@
 <!ENTITY  awesomebar_history_title "Hanes">
 <!ENTITY  awesomebar_switch_to_tab "Newid i\u0027r tab">
 
+<!ENTITY  crash_reporter_title "Adroddwr Chwalu &brandShortName;">
 <!ENTITY  crash_message2 "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
-
+<!ENTITY  crash_send_report_message3 "Dweud wrth &vendorShortName; am y chwalfa fel bod modd ei drwsio">
 <!ENTITY  crash_include_url2 "Cynnwys cyfeiriad y dudalen roeddwn arni">
 <!ENTITY  crash_sorry "Ymddiheuriadau">
 <!ENTITY  crash_comment "Ychwanegu sylw (sylwadau yn weladwy)">
-
+<!ENTITY  crash_allow_contact2 "Caniatáu i &vendorShortName; gysylltu â mi am yr adroddiad hwn">
 <!ENTITY  crash_email "Eich e-bost">
 <!ENTITY  crash_closing_alert "Gadael heb adael adroddiad chwalu?">
 <!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
 <!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_text_size "Maint testun">
-
+<!ENTITY pref_reflow_on_zoom3 "Tap dwbl i ail-lunio\u0027r testun">
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -133,11 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
-
+<!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
 <!ENTITY datareporting_notification_action "Dewis beth i\u0027w rannu">
 <!ENTITY datareporting_notification_summary "I wella eich profiad mae &brandShortName; yn anfon peth gwybodaeth at &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "I wella eich profiad, mae &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -146,15 +147,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Adroddiad Iechyd &brandShortName;">
-
-
+<!ENTITY datareporting_fhr_summary2 "Mae\u0027n rhannu data gyda &vendorShortName; am iechyd eich porwr ac yn cynorthwyo i ddeall perfformiad eich porwr">
+<!ENTITY datareporting_abouthr_title "Gweld fy Adroddiad Iechyd">
 <!ENTITY datareporting_telemetry_title "Telemetreg">
 <!ENTITY datareporting_telemetry_summary "Rhannu gwybodaeth am berfformiad, defnydd, caledwedd a chyfaddasu am eich porwr gyda &vendorShortName; i\u0027n cynorthwyo i wneud &brandShortName; yn well">
 <!ENTITY datareporting_crashreporter_summary "Mae &brandShortName; yn cyflwyno adroddiadau chwalu i gynorthwyo &vendorShortName; wneud eich porwr yn fwy sefydlog a diogel">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
+<!ENTITY datareporting_wifi_title "Gwasanaethau lleoliad &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Cynorthwyo i wella gwasanaethau geoleoliad ar gyfer y We Agored drwy ganiatáu i &brandShortName; gasglu ac anfon data twr cellog dienw">
 
 <!ENTITY pref_update_autodownload "Diweddariadau awtomatig">
 <!ENTITY pref_update_autodownload_wifi "Dim ond dros Diwyfr">
@@ -288,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sy\u0027n cael ei redeg gan">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
-
-
-
+<!ENTITY loaded_mixed_content_message "Mae\u0027r dudalen yn dangos cynnwys nad yw\u0027n ddiogel.">
+<!ENTITY blocked_mixed_content_message_top "Mae &brandShortName; wedi rhwystro cynnwys nad yw\u0027n ddiogel.">
+<!ENTITY blocked_mixed_content_message_bottom "Bydd y rhan fwyaf o wefannau yn gweithio hyd yn oed pan fydd y cynnwys wedi ei rwystro.">
+<!ENTITY learn_more "Dysgu Rhagor">
+<!ENTITY enable_protection "Galluogi diogelu">
+<!ENTITY disable_protection "Analluogi diogelu">
+<!ENTITY keep_blocking "Cadw i rwystro">
 
 <!ENTITY private_data_success "Clirio data preifat">
 <!ENTITY private_data_fail "Nid oedd modd clirio peth data preifat">
