@@ -64,7 +64,7 @@
 <!ENTITY recentTabs.label "最近关闭的标签页">
 <!ENTITY recentTabs.accesskey "C">
 <!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "最近关闭窗口">
+<!ENTITY recentWindows.label "最近关闭的窗口">
 <!ENTITY recentWindows.accesskey "W">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "恢复上一次的会话">
@@ -120,7 +120,7 @@
 <!ENTITY cookieImagesDefaultMsg.label "来此此网站的图像将基于默认设置被下载。">
 <!ENTITY cookieBlockImagesCmd.label "阻止来自此网站的图像">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "总是阻止来自此网站的图像被下载。">
+<!ENTITY cookieBlockImagesMsg.label "来自此网站的图像将不会被下载。">
 
 <!ENTITY cookieAllowPopupsCmd.label "允许来自此网站的弹出窗口">
 <!ENTITY cookieAllowPopupsCmd.accesskey "A">

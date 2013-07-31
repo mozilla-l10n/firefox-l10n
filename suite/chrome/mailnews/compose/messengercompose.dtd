@@ -45,7 +45,7 @@
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY accountManagerCmd.label "邮件 &amp; 新闻组帐户设置…">
+<!ENTITY accountManagerCmd.label "邮件和新闻组帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
 <!-- View menu items -->

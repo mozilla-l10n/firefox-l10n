@@ -19,13 +19,13 @@
 <!ENTITY chooseDiskCacheFolder.label     "选择文件夹…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
 <!ENTITY diskCacheFolderExplanation      "缓存文件将存储在你指定路径的一个名为 &quot;Cache&quot; 的子文件夹中。重新启动 &brandShortName; 后更改才会生效。">
-<!ENTITY docCache.label                  "缓存中的页面和网络上的页面进行比较:">
+<!ENTITY docCache.label                  "缓存中的页面与网络上的页面进行比较：">
 <!ENTITY docCache.accesskey              "m">
-<!ENTITY checkOncePerSession.label       "每个会话一次">
+<!ENTITY checkOncePerSession.label       "每次会话中一次">
 <!ENTITY checkEveryTime.label            "每次查看该页面时">
-<!ENTITY checkNever.label                "从不">
-<!ENTITY checkAutomatically.label        "当页面过期时">
+<!ENTITY checkNever.label                "总不">
+<!ENTITY checkAutomatically.label        "页面过期时">
 
 <!ENTITY prefetchTitle.label             "链接预读数">
-<!ENTITY enablePrefetch.label            "在空闲时进行web的预读,这样web页面中为预读而设计的链接可以更快的加载">
+<!ENTITY enablePrefetch.label            "在空闲时进行网页预读，以便为预读而设计的链接的页面可以更快地加载">
 <!ENTITY enablePrefetch.accesskey        "P">
