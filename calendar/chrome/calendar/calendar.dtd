@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "错误码：">
 <!ENTITY calendar.error.description "描述：">
 <!ENTITY calendar.error.title "发生错误">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "作为事件添加">
+<!ENTITY calendar.extract.task.button          "作为任务添加">
+<!ENTITY calendar.extract.event.button.tooltip "从消息中提取日历信息并作为事件添加到你的日历中">
+<!ENTITY calendar.extract.task.button.tooltip  "从消息中提取日历信息并作为任务添加到你的日历中">
