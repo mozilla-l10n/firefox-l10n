@@ -158,8 +158,10 @@
 <!ENTITY sortBySubjectCmd.accesskey "T">
 <!ENTITY sortByFromCmd.label "Nadawcy">
 <!ENTITY sortByFromCmd.accesskey "N">
-<!ENTITY sortByRecipientCmd.label "Adresata">
-<!ENTITY sortByRecipientCmd.accesskey "A">
+<!ENTITY sortByRecipientsCmd.label "Adresatów">
+<!ENTITY sortByRecipientsCmd.accesskey "A">
+<!ENTITY sortByToCmd.label "Pola „Do”">
+<!ENTITY sortByToCmd.accesskey "P">
 <!ENTITY sortByUnreadCmd.label "Przeczytanych wiadomości">
 <!ENTITY sortByUnreadCmd.accesskey "w">
 <!ENTITY sortByOrderReceivedCmd.label "Kolejności otrzymania">
