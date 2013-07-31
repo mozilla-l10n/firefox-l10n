@@ -1,7 +1,8 @@
-amazondotcom
-bing
-eBay
 google
-twitter
-wikipedia
+wikipedia-eo
+reta-vortaro
+creativecommons
+amazondotcom
 yahoo
+eBay
+bing
