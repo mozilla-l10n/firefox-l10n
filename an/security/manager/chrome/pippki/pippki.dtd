@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Normas">
 <!ENTITY downloadCert.viewCert.text "Examinar o certificau d'a CA">
 <!ENTITY downloadCert.viewPolicy.text "Examinar as normas y procedimientos d'a CA">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "O certificau existe">
-<!ENTITY caCertExists.message "O certificau ya existe.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Solicitut d'identificación d'usuario">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "Manimenos, como que l'autoridat certificadera almagazenará a suya clau privada de zifrau, podría emplegar-la ta leyer s suyo correu u atros documentos zifraus sin a suya autorización.">
 <!ENTITY examineCert.label "Veyer o certificau">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message "Demande aduya a l'administrador d'o sistema">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Se ye chenerando una clau privada">

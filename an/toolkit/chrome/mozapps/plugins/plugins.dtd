@@ -39,7 +39,6 @@
 <!ENTITY checkForUpdates                                     "Mirar actualizacions…">
 <!ENTITY disabledPlugin                                      "S'ha desactivau iste plugin.">
 <!ENTITY blockedPlugin.label                                 "S'ha bloquiau iste plugin t'a suya protección.">
-
 <!ENTITY installPlugin                                       "Instalar un plugin…">
 <!ENTITY managePlugins                                       "Chestionar os plugins…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

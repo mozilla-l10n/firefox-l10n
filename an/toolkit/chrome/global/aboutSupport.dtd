@@ -18,6 +18,11 @@ Si ye buscando respuestas a preguntas freqüents sobre &brandShortName;,
 <!ENTITY aboutSupport.appBasicsTitle "Configuración basica de l'aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Historial d'actualizacions">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Amostrar l'historial d'actualizacions">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

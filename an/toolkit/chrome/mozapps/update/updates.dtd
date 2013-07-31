@@ -25,6 +25,12 @@ cuenta que tienga permisos ta instalar software en iste ordinador.">
 pero no disposa d'espacio suficient ta instalar-la.">
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puede aconseguir a zaguera versión de &brandShortName; en:">
 
+<!ENTITY  unsupported.title               "Sistema no suportau">
+<!ENTITY  unsupported.label               "O suyo &brandShortName; no ye esviellau, pero a zaguer versión 
+no tien suporte ta o suyo sistema. Esvielle o sistema y torne a prebar-lo. 
+Iste mensache que s'amuestra soque una vegada pero puede">
+<!ENTITY  unsupportedLink.label           "saber-ne mas">
+
 <!ENTITY  incompatibleCheck.title         "Se ye comprebando a compatibilidad d'os complementos">
 <!ENTITY  incompatibleCheck.label         "Se son mirando versions mas nuevas d'os suyos complementos…">
 
