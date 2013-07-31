@@ -5,7 +5,7 @@
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "脚本 &amp; 插件">
+<!ENTITY pref.scripts.title              "脚本和插件">
 
 <!ENTITY navigator.label                 "浏览器">
 <!ENTITY navigator.accesskey             "B">

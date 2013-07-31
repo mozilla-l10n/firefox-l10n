@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "显示一条提醒：">
 <!ENTITY showAlertFor.accesskey           "S">
 <!ENTITY showAlertTimeEnd.label           "秒">
-<!ENTITY showAlertTimeEnd.accesskey       "d">
 
 <!ENTITY showAlertPreviewText.label       "显示消息文本预览">
 <!ENTITY showAlertPreviewText.accesskey   "v">
