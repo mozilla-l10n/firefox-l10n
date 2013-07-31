@@ -6,7 +6,7 @@
 <!ENTITY generalSpelling.label                "常规">
 <!ENTITY checkSpellingWhenTyping.label        "打字时进行拼写检查：">
 <!ENTITY checkSpellingWhenTyping.accesskey    "W">
-<!ENTITY dontCheckSpelling.label              "从不">
+<!ENTITY dontCheckSpelling.label              "永不">
 <!ENTITY multilineCheckSpelling.label         "在多行编辑框中">
 <!ENTITY alwaysCheckSpelling.label            "所有编辑框">
 <!ENTITY spellForMailAndNews.label            "邮件和新闻组">

@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "分类：">
 <!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "添加新分类" >
+<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "日历：" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "参与者：" >

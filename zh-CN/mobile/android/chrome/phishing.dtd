@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "离开这里！">
 <!ENTITY safeb.palm.decline.label "忽略此警告">
-<!ENTITY safeb.palm.notforgery.label2 "这不是欺诈网站…">
+<!ENTITY safeb.palm.notforgery.label2 "这不是钓鱼网站…">
 <!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
 
 <!ENTITY safeb.blocked.malwarePage.title "已报告的攻击页面！">

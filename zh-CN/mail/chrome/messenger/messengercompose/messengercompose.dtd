@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "查找并替换…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "再次查找">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -169,7 +170,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "工具">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "邮件 &amp; 新闻组">
+<!ENTITY messengerCmd.label "邮件和新闻组">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "通讯录">

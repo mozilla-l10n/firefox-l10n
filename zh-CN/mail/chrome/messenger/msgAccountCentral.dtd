@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "收取点">
 <!ENTITY subscribeFeeds.label         "管理订阅">
 
+<!ENTITY chat.label                   "聊天">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "帐户">
 <!ENTITY subscribeImapFolders.label   "管理文件夹订阅">
 <!ENTITY settingsLink.label           "帐户设置">
 <!ENTITY newAcctLink.label            "新帐户">
+<!ENTITY newAcct.label                "创建新账户：">
 
 <!ENTITY advFeaturesSectionHdr.label  "高级功能">
 <!ENTITY searchMsgsLink.label         "查找">

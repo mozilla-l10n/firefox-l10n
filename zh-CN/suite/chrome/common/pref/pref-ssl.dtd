@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; 能警告您关于您查看的网页的安全信息。让 &brandShortName; 显示警告或者请求权限，当: ">
 <!ENTITY warn.enteringsecure                "载入支持加密的页">

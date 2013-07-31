@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "聊天帐号…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "收取点账号…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "聊天联系人…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "打开已保存消息…">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "允许远程调试">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "获取消息">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "回复发件人和所有收件人">
 <!ENTITY replyListButton.tooltip "回复至邮件列表">
 <!ENTITY forwardButton.tooltip "转发选择的消息">
+<!ENTITY forwardAsInline.tooltip "作为内联文本转发选中的消息">
+<!ENTITY forwardAsAttachment.tooltip "作为附件转发选中的消息">
 <!ENTITY fileButton.tooltip "移动选择的消息">
 <!ENTITY archiveButton.tooltip "归档选中的消息">
 <!ENTITY nextButton.tooltip "转至下一条未读消息">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
 <!ENTITY appmenuButton1.tooltip "显示 &brandShortName; 菜单">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "内联转发">
+<!ENTITY buttonMenuForwardAsAttachment.label "作为附件转发">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "新建消息">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "获取消息">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "打开">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "在新窗口中打开">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "在新标签页中打开">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "新建子文件夹…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "转发">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "作为附件转发">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "转发为">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "内联">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "附件">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "作为附件转发">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "移动到">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "最近">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "复制到">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "忽略话题">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "忽略子话题">
+<!ENTITY contextWatchThreadMenu.label "观察论题">
 <!ENTITY contextSaveAs.label "另存为…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "打印…">
