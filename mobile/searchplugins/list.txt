@@ -1,3 +1,4 @@
 google
+baidu
 twitter
 wikipedia-zh-CN

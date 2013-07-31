@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "检查更新»">
 <!ENTITY aboutPage.checkForUpdates.checking     "查找更新…">
 <!ENTITY aboutPage.checkForUpdates.none         "没有可用的更新">
-<!ENTITY aboutPage.checkForUpdates.available    "有可用的更新；点击下载">
+<!ENTITY aboutPage.checkForUpdates.available2   "下载更新">
 <!ENTITY aboutPage.checkForUpdates.downloading  "正在下载更新…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "更新已下载；点击安装">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "安装更新">
 <!ENTITY aboutPage.faq.label                    "常见问题">
 <!ENTITY aboutPage.support.label                "支持">
 <!ENTITY aboutPage.privacyPolicy.label          "隐私条款">

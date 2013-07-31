@@ -34,7 +34,7 @@
 <!ENTITY tab.forget.label "忽略">
 
 <!-- cookies -->
-<!ENTITY cookies.description "此域名已存储在您计算机上的Cookies如下：">
+<!ENTITY cookies.description "此域名已存储在您计算机上的 Cookie 如下：">
 
 <!ENTITY cookies.tree.host.label "网站">
 <!ENTITY cookies.tree.name.label "Cookie 名称">
@@ -58,13 +58,13 @@
 <!ENTITY cookies.button.remove.label "移除">
 <!ENTITY cookies.button.remove.accesskey "R">
 
-<!ENTITY cookies.blockOnRemove.label "移除时，阻止列出的网站再次设置 cookie">
+<!ENTITY cookies.blockOnRemove.label "移除时，阻止列出的网站再次设置 Cookie">
 <!ENTITY cookies.blockOnRemove.accesskey "W">
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "使用默认设置">
 <!ENTITY perm.AskAlways "总是询问">
-<!ENTITY perm.NeverSave "从不保存">
+<!ENTITY perm.NeverSave "总不保存">
 <!ENTITY perm.Allow "允许">
 <!ENTITY perm.AllowSameDomain "允许同域">
 <!ENTITY perm.AllowSession "在当前会话中允许">
