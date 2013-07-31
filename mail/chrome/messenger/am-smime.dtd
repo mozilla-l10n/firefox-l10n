@@ -7,7 +7,7 @@
 <!ENTITY securityHeading.label "要发送和接收已签名或者已加密的消息，您必须指定一个数字签名证书和一个加密证书。">
 <!ENTITY encryptionGroupTitle.label "加密">
 <!ENTITY encryptionChoiceLabel.label "发送消息时默认加密设置：">
-<!ENTITY neverEncrypt.label "从不（不加密）">
+<!ENTITY neverEncrypt.label "从不（不要加密）">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "必需（所有接收者必须有证书，否则不发送消息）">
 <!ENTITY alwaysEncryptMessage.accesskey "u">

@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "页面标题:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "请输入标题,用于在窗口以及书签中标识该页面">
-<!ENTITY pageTitleExample.label       "e.g.: &quot;我的网页&quot;">
+<!ENTITY pageTitleExample.label       "例如：“我的网页”">
 <!ENTITY filename.label               "文件名:">
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "请为此文件输入名称,包括 '.html' （如果是网页）">
-<!ENTITY filenameExample.label        "e.g,: &quot;mypage.html&quot;">
+<!ENTITY filenameExample.label        "例如：“mypage.html”">
 <!ENTITY setDefaultButton.label       "设为默认值">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "移除站点">

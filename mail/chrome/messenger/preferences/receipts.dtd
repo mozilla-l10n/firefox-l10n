@@ -11,7 +11,7 @@
 <!ENTITY moveToSent.label              "移到“已发送邮件”文件夹中">
 <!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "当我收到索取邮件回执的请求时:">
-<!ENTITY never.label                   "从不发送返回的邮件回执">
+<!ENTITY never.label                   "总不发送邮件回执">
 <!ENTITY never.accesskey               "n">
 <!ENTITY returnSome.label              "允许对某些消息返回邮件回执">
 <!ENTITY returnSome.accesskey          "r">
@@ -23,4 +23,4 @@
 <!ENTITY otherCases.accesskey          "a">
 <!ENTITY askMe.label                   "询问我">
 <!ENTITY alwaysSend.label              "总是发送">
-<!ENTITY neverSend.label               "不要发送">
+<!ENTITY neverSend.label               "总不发送">
