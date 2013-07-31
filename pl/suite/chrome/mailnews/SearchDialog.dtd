@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey "s">
 <!ENTITY searchSubfolders.label "kontynuuj wyszukiwanie w podfolderach">
 <!ENTITY searchSubfolders.accesskey "k">
-<!ENTITY searchLocalSystem.label "Wyszukaj w lokalnym systemie">
-<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchOnHeading.label "Wykonuj wyszukiwanie na:">
+<!ENTITY searchOnHeading.accesskey "y">
+<!ENTITY searchOnRemote.label "zdalnym serwerze">
+<!ENTITY searchOnLocal.label "lokalnym systemie">
 <!ENTITY resetButton.label "Wyczyść">
 <!ENTITY resetButton.accesskey "c">
 <!ENTITY openButton.label "Otwórz">
