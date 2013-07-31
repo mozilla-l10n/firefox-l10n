@@ -1,7 +1,7 @@
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Separador de navegação">
 <!ENTITY tabCmd.accesskey "S">
-<!ENTITY tabCmd.commandkey "p">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Abrir localização Web…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
