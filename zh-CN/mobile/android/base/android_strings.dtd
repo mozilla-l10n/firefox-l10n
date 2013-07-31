@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message2 "&brandShortName; 因一个问题而崩溃。您的标签页将在 &brandShortName; 下次启动时的开始页面中列出。">
-<!ENTITY  crash_send_report_message2 "告知 Mozilla 有关此次崩溃的情况，以便修复此问题">
+<!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "我们很抱歉">
 <!ENTITY  crash_comment "添加说明（说明是公开可见的）">
-<!ENTITY  crash_allow_contact "允许 Mozilla 就此报告与我联系">
+<!ENTITY  crash_allow_contact2 "允许 &vendorShortName; 就此报告与我联系">
 <!ENTITY  crash_email "您的电子邮箱">
 <!ENTITY  crash_closing_alert "不发送崩溃报告并退出？">
 <!ENTITY  sending_crash_report "发送崩溃报告\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "书签已添加">
 <!ENTITY bookmark_removed "书签已移除">
 <!ENTITY bookmark_updated "书签已更新">
+<!ENTITY bookmark_options "选项">
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "轻击即可播放">
 <!ENTITY pref_plugins_disabled "已禁用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom2 "捏合以重排文本">
+<!ENTITY pref_reflow_on_zoom3 "双击重构文本">
 <!ENTITY pref_font_size_tiny "极小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "已下载文件">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 统计数据">
+<!ENTITY datareporting_notification_action_long "选择想分享的信息">
 <!ENTITY datareporting_notification_action "选择想分享什么">
 <!ENTITY datareporting_notification_summary "为了改善您的体验，&brandShortName; 会自动发送一些信息到 &vendorShortName;。">
 <!ENTITY datareporting_notification_summary_short "为了改善您的体验，&brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 健康报告">
-<!ENTITY datareporting_fhr_summary "帮助你了解浏览器的性能并与 &vendorShortName; 分享你的浏览器健康状况">
+<!ENTITY datareporting_fhr_summary2 "帮助您了解浏览器的工作性能，并与 &vendorShortName; 分享您的浏览器健康状况。">
+<!ENTITY datareporting_abouthr_title "查看我的健康报告">
 <!ENTITY datareporting_telemetry_title "遥测技术">
 <!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName; 让它变得更好。">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 提交崩溃报告可以帮助 &vendorShortName; 改进浏览器，让他变得更稳定和安全">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; 崩溃报告器">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
+<!ENTITY datareporting_wifi_title "&vendorShortName; 位置服务">
+<!ENTITY datareporting_wifi_summary "允许 &brandShortName; 收集并发送匿名的蜂窝基站数据以帮助改善开放网络的地理定位服务">
 
 <!ENTITY pref_update_autodownload "自动更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "它的经营者为">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "此页面显示的内容无法保证安全性。">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; 已阻止非安全传输的内容。">
+<!ENTITY blocked_mixed_content_message_bottom "即使此类内容被屏蔽，大多数网站仍能正常工作。">
+<!ENTITY learn_more "详细了解">
+<!ENTITY enable_protection "启用保护">
+<!ENTITY disable_protection "禁用保护">
+<!ENTITY keep_blocking "保持屏蔽">
 
 <!ENTITY private_data_success "私人数据已清除">
 <!ENTITY private_data_fail "一些私人数据不能被清除">
