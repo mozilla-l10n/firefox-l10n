@@ -30,8 +30,8 @@ fazer-se passar pelo sítio, e não deve continuar.">
 dizer ao &brandShortName; para começar a confiar nesta identificação do sítio.
 <b>mesmo que confie no sítio, este erro pode significar que alguém está
 a usar a sua ligação.</b>">
-<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
-you know there's a good reason why this site doesn't use trusted identification.">
+<!ENTITY certerror.expert.contentPara2 "Não adicione uma exceção a menos que
+saiba de uma boa razão para o sítio não ter uma identificação segura.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sítio">
 <!ENTITY certerror.addPermanentException.label "Adicionar excepção permanente">
 
