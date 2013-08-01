@@ -88,7 +88,7 @@
 
 <!ENTITY redirectLoop.title "Orriak ez du birbidalketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Batzuetan arazo hau cookie-ak desgaitu edo ukatzeagatik da.</li> 
+<li>Batzuetan arazo hau cookieak desgaitu edo ukatzeagatik da.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Ustekabeko erantzuna zerbitzaritik">

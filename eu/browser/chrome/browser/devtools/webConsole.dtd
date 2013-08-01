@@ -16,12 +16,12 @@
 <!ENTITY networkPanel.statusCodeColon             "Egoera-kodea:">
 
 <!ENTITY networkPanel.requestHeaders              "Eskaeraren goiburuak">
-<!ENTITY networkPanel.requestCookie               "Bidalitako cookie-a">
+<!ENTITY networkPanel.requestCookie               "Bidalitako cookiea">
 <!ENTITY networkPanel.requestBody                 "Eskaeraren gorputza">
 <!ENTITY networkPanel.requestFormData             "Bidaliako inprimakien datuak">
 
 <!ENTITY networkPanel.responseHeaders             "Erantzunaren goiburuak">
-<!ENTITY networkPanel.responseCookie              "Jasotako cookie-a">
+<!ENTITY networkPanel.responseCookie              "Jasotako cookiea">
 <!ENTITY networkPanel.responseBody                "Erantzunaren gorputza">
 <!ENTITY networkPanel.responseBodyCached          "Cacheko datuak">
 <!ENTITY networkPanel.responseBodyUnknownType     "Eduki mota ezezaguna">

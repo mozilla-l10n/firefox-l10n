@@ -48,8 +48,8 @@
 <!ENTITY antiVirus.accesskey  "B">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro                  "&brandShortName;(e)k zehaz dezake zein blog, berri-jario eta bestelako webgunek ezar ditzaketen cookie-ak.">
-<!ENTITY acceptCookies.label            "Onartu guneetako cookie-ak">
+<!ENTITY cookies.intro                  "&brandShortName;(e)k zehaz dezake zein blog, berri-jario eta bestelako webgunek ezar ditzaketen cookieak.">
+<!ENTITY acceptCookies.label            "Onartu guneetako cookieak">
 <!ENTITY acceptCookies.accesskey        "c">
 <!ENTITY keepUntil.label                "Mantentze-epea:">
 <!ENTITY keepUntil.accesskey            "M">
@@ -58,7 +58,7 @@
 <!ENTITY askEachTime.label              "galdetu niri beti">
 <!ENTITY cookieExceptions.label         "Salbuespenak…">
 <!ENTITY cookieExceptions.accesskey     "S">
-<!ENTITY showCookies.label              "Erakutsi cookie-ak…">
+<!ENTITY showCookies.label              "Erakutsi cookieak…">
 <!ENTITY showCookies.accesskey          "E">
 <!-- Do Not Track -->
 

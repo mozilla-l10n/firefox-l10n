@@ -83,7 +83,7 @@
 
 <!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Arazo hau baliteke cookie-ak desgaituta eduki edo ez onartzeagatik izatea.</li> 
+<li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Zerbitzariaren erantzuna ez zen espero">
