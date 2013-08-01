@@ -156,7 +156,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title "Seirbheisean ionaid &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Nach cuidich thu leinn a\u0027 leasachadh nan seirbheisean geò-lorgaidh airson an lìn fhosgailte \u0027s thoir cead dha &vendorShortName; dàta gun urra a chruinneachadh o chrainn nam fònaichean-làimhe \u0027s a chur thugainn?">
+<!ENTITY datareporting_wifi_summary "Nach cuidich thu leinn a\u0027 leasachadh nan seirbheisean geò-lorgaidh airson an lìn fhosgailte \u0027s thoir cead dha &brandShortName; dàta gun urra a chruinneachadh o chrainn nam fònaichean-làimhe \u0027s a chur thugainn?">
 
 <!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
@@ -291,7 +291,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Tha an duilleag seo a\u0027 sealltainn susbaint nach eil tèarainte.">
-<!ENTITY blocked_mixed_content_message_top "Bhac &vendorShortName; susbaint nach eil tèarainte.">
+<!ENTITY blocked_mixed_content_message_top "Bhac &brandShortName; susbaint nach eil tèarainte.">
 <!ENTITY blocked_mixed_content_message_bottom "Obraichidh a\u0027 mhòrchuid dhe na làraichean-lìn fhathast fiù ma tha bacadh air an t-susbaint seo.">
 <!ENTITY learn_more "Faigh tuilleadh eòlais">
 <!ENTITY enable_protection "Cuir an comas an dìon">
