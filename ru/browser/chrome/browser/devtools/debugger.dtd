@@ -4,6 +4,8 @@
 
 <!ENTITY debuggerUI.closeButton.tooltip "Закрыть">
 <!ENTITY debuggerUI.panesButton.tooltip "Переключить панели">
+<!ENTITY debuggerUI.blackBoxMessage.label "Этот исходник помещён в чёрный ящик: его точки останова отключены, а пошаговое выполнение его пропускает.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Вынуть этот исходник из чёрного ящика">
 <!ENTITY debuggerUI.optsButton.tooltip "Настройки отладчика">
 <!ENTITY debuggerUI.pauseExceptions "Приостанавливать на исключениях">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
@@ -13,7 +15,7 @@
 <!ENTITY debuggerUI.showVarsFilter.key "V">
 <!ENTITY debuggerUI.showOnlyEnum "Показать только перечислимые свойства">
 <!ENTITY debuggerUI.showOnlyEnum.key "P">
-<!ENTITY debuggerUI.showOriginalSource "Показать оригинальные источники">
+<!ENTITY debuggerUI.showOriginalSource "Показать оригинальные исходники">
 <!ENTITY debuggerUI.showOriginalSource.key "O">
 <!ENTITY debuggerUI.searchPanelOperators "Операторы:">
 <!ENTITY debuggerUI.searchFile "Фильтр сценариев">
