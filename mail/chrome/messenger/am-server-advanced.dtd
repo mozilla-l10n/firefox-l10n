@@ -12,7 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "k">
 <!ENTITY useIdle.label "Erabili IDLE komandoa zerbitzariak onartzen badu">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Cache-an gordeko diren zerbitzari-konexio kopuru maximoa">
+<!ENTITY maximumConnectionsNumber.label "Cachean gordeko diren zerbitzari-konexio kopuru maximoa">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Hobespen hauek zure IMAP zerbitzariko izen-eremuak zehazten dituzte">

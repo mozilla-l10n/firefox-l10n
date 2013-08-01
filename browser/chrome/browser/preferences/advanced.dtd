@@ -62,7 +62,7 @@
 <!ENTITY connectionSettings.label        "Ezarpenak…">
 <!ENTITY connectionSettings.accesskey    "E">
 
-<!ENTITY httpCache.label                 "Cache-an gordetako web edukia">
+<!ENTITY httpCache.label                 "Cachean gordetako web edukia">
 
 <!ENTITY offlineStorage2.label           "Lineaz kanpoko web edukia eta erabiltzaileen datuak">
 <!-- LOCALIZATION NOTE:
@@ -72,14 +72,14 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Mugatu cache-a">
+<!ENTITY limitCacheSizeBefore.label      "Mugatu cachea">
 <!ENTITY limitCacheSizeBefore.accesskey  "M">
 <!ENTITY limitCacheSizeAfter.label       "MBtara">
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
 <!ENTITY clearOfflineAppCacheNow.label   "Garbitu orain">
 <!ENTITY clearOfflineAppCacheNow.accesskey "r">
-<!ENTITY overrideSmartCacheSize.label    "Gainidatzi automatikoki cache-aren kudeaketa">
+<!ENTITY overrideSmartCacheSize.label    "Gainidatzi automatikoki cachearen kudeaketa">
 <!ENTITY overrideSmartCacheSize.accesskey "d">
 
 <!ENTITY updateTab.label                 "Eguneratu">
