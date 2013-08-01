@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY splash_settingup "Configurando su &brandShortName;">
-<!ENTITY splash_bookmarks_history "Estamos actualizando sus marcadores e historial, lo que podría tardar un minuto más o menos.">
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 <!ENTITY awesomebar_all_pages_title "Frecuentes">
@@ -247,4 +245,10 @@
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Pulse para actualizar">
 <!ENTITY enter_guest_mode "Entrar en modo invitado">
-<!ENTITY exit_guest_mode "Salir de modo invitado">
+<!ENTITY exit_guest_mode "Salir del modo invitado">
+<!ENTITY guest_mode_dialog_continue "Continuar">
+<!ENTITY guest_mode_dialog_cancel "Cancelar">
+<!ENTITY guest_mode_enter_title "Modo invitado">
+<!ENTITY guest_mode_enter_text "Durante el modo invitado, la persona que use &brandShortName; no podrá ver ninguno de sus datos personales de navegación (como sus contraseñas, historial o marcadores guardados).\n\nCuando el invitado acabe, sus datos de navegación serán eliminados.">
+<!ENTITY guest_mode_leave_title "Saliendo del modo invitado">
+<!ENTITY guest_mode_leave_text "&brandShortName; eliminará sus datos de navegación de esta sesión.">
