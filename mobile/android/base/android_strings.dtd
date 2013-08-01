@@ -71,6 +71,9 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
+<!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
+<!ENTITY pref_developer_remotedebugging "Depuração remota">
+<!ENTITY pref_developer_remotedebugging_docs "Saber mais">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -93,6 +96,7 @@
 <!ENTITY pref_header_privacy_short "Privacidade">
 <!ENTITY pref_header_help "Ajuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Ferramentas do desenvolvedor">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativado">
@@ -114,7 +118,7 @@
 <!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
 <!ENTITY pref_reflow_on_zoom3 "Toque duplo para normalizar o texto">
-<!ENTITY pref_restore_session "restaurar sempre separadores">
+<!ENTITY pref_restore_session "Restaurar sempre separadores">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
