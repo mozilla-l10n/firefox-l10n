@@ -127,7 +127,7 @@ size. -->
 <!ENTITY pref_private_data_formdata "Inprimaki- eta bilaketa-historia">
 <!ENTITY pref_private_data_cookies2 "Cookie-ak eta saio-hasiera aktiboak">
 <!ENTITY pref_private_data_passwords "Gordetako pasahitzak">
-<!ENTITY pref_private_data_cache "Katxea">
+<!ENTITY pref_private_data_cache "Cachea">
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
 <!ENTITY pref_private_data_siteSettings2 "Gunearen ezarpenak">
 <!ENTITY pref_private_data_downloadFiles "Deskargatutako fitxategiak">

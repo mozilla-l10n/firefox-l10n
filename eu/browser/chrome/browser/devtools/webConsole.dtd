@@ -23,11 +23,11 @@
 <!ENTITY networkPanel.responseHeaders             "Erantzunaren goiburuak">
 <!ENTITY networkPanel.responseCookie              "Jasotako cookie-a">
 <!ENTITY networkPanel.responseBody                "Erantzunaren gorputza">
-<!ENTITY networkPanel.responseBodyCached          "Cache-ko datuak">
+<!ENTITY networkPanel.responseBodyCached          "Cacheko datuak">
 <!ENTITY networkPanel.responseBodyUnknownType     "Eduki mota ezezaguna">
 <!ENTITY networkPanel.responseNoBody              "Erantzunean gorputzik ez">
 <!ENTITY networkPanel.responseImage               "Jasotako irudia">
-<!ENTITY networkPanel.responseImageCached         "Cache-ko irudia">
+<!ENTITY networkPanel.responseImageCached         "Cacheko irudia">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
