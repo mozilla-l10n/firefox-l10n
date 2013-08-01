@@ -14,12 +14,13 @@
 <!ENTITY  awesomebar_history_title "Taariki">
 <!ENTITY  awesomebar_switch_to_tab "Bere nor loku ga">
 
+<!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
 <!ENTITY  crash_message2 "&brandShortName; kaŋ šenday banda ga. War nor lokey ga hima ka bangay &brandShortName; šintin moɲoo ga nda war ga tunandi taaga.">
-
+<!ENTITY  crash_send_report_message3 "Kaŋyanoo woo har &vendorShortName; še hal\u0027i m\u0027a hanse">
 <!ENTITY  crash_include_url2 "Moɲoo kaŋ g\u0027ay cindi aderesoo dam da">
 <!ENTITY  crash_sorry "W\u0027alhaa naŋ">
 <!ENTITY  crash_comment "Daara tonton (boro kul ga hin ka dii daarawey)">
-
+<!ENTITY  crash_allow_contact2 "Naŋ &vendorShortName; m\u0027ay hãa bayrandiyanoo woo sabboo ra">
 <!ENTITY  crash_email "War batagaa">
 <!ENTITY  crash_closing_alert "Fatta bila nda kaŋyan bayrandi ma sanbandi?">
 <!ENTITY  sending_crash_report "Goo ma kaŋyan bayrandi\u2026 sanba">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
 <!ENTITY pref_plugins_disabled "Kayante">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
-
+<!ENTITY pref_reflow_on_zoom3 "Kar cee hinka ka hantumoo dandi">
 <!ENTITY pref_font_size_tiny "Kaccu">
 <!ENTITY pref_font_size_small "Kayna">
 <!ENTITY pref_font_size_medium "Sasawante">
@@ -133,11 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Tukey zumandi">
 
 <!ENTITY datareporting_notification_title "&brandShortName; kabuyan &amp; bayhaya">
-
+<!ENTITY datareporting_notification_action_long "Suuba alhabaroo kaŋ ka žemnandi">
 <!ENTITY datareporting_notification_action "Soobay ka žemna">
 <!ENTITY datareporting_notification_summary "Ka war goy fondaa boryandi, &brandShortName; ga alhbaryaŋ sanba nda boŋ še &vendorShortName; do. ">
 <!ENTITY datareporting_notification_summary_short "Ka war goymiɲoo boryandi ka tonton &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -146,15 +147,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-
-
+<!ENTITY datareporting_fhr_summary2 "Bayhaya žemna nda &vendorShortName; war ceecikaa baanoo ga ka gaa ka ceecikaa goysãhaa faham">
+<!ENTITY datareporting_abouthr_title "Ay ceeci baani alhaaloo guna">
 <!ENTITY datareporting_telemetry_title "Mooruneešiyan">
 <!ENTITY datareporting_telemetry_summary "Teeyan sahã, goymee, jinay šenda nda boŋše-hanseyan bayhayey žemna war ceecikaa nda &vendorShortName; k\u0027a gaa ka &brandShortName; boryandi koyne">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ga kaŋyan bayrandiyaney sanba ka &vendorShortName; gaa ka war ceecikaa tee tabatante nda saajante ka tonton">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Kaŋyan bayrandikaw">
+<!ENTITY datareporting_wifi_title "&vendorShortName; doo goymiɲey">
+<!ENTITY datareporting_wifi_summary "Faaba ka gorodoo goymiɲey boryandi Interneti še nda &brandShortName; duu fondo ka talfon alhabar marga k\u0027a sanba bila nda maa">
 
 <!ENTITY pref_update_autodownload "Boŋtaagandirey">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi de bande">
@@ -288,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kaŋ tunandikaa ti">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Moɲoo woo ka gundekuna cebe kaŋ ši saajaw.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; na gundekuna gagay kaŋ ši saajaw.">
+<!ENTITY blocked_mixed_content_message_bottom "Interneti nungi boobey ga goy boryo ba gundekunaa woo n\u0027 ka gagayandi.">
 <!ENTITY learn_more "Bay ka tonton">
-
-
-
+<!ENTITY enable_protection "Jejebu tunandi">
+<!ENTITY disable_protection "Jejebu kayandi">
+<!ENTITY keep_blocking "Gagayandiyan gaabu">
 
 <!ENTITY private_data_success "Sutura bayhayey hun">
 <!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
