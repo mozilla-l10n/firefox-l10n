@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
 
 <!ENTITY sync.setup.title           "តភ្ជាប់​ទៅ​សមកាលកម្ម">
-
+<!ENTITY sync.setup.pair            "ដើម្បី​ធ្វើ​ឲ្យ​សកម្ម ជ្រើស &quot;ផ្គូផ្គង​ឧបករណ៍&quot; នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក។">
 <!ENTITY sync.fallback              "ខ្ញុំ​មិន​នៅ​ជិត​កុំព្យូទ័រ​ទេ...">
 <!ENTITY sync.setup.manual          "បញ្ចូល​ព័ត៌មាន​គណនី​សមកាលកម្ម​របស់​អ្នក">
 <!ENTITY sync.account               "ឈ្មោះ​គណនី">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "រង់ចាំ​ឧបករណ៍​ផ្សេងទៀត…">
 
 <!ENTITY sync.pair.title            "ផ្គូ​ឧបករណ៍">
-
+<!ENTITY sync.pair.description      "ដើម្បី​ធ្វើ​ឲ្យ​ឧបករណ៍​ថ្មី​របស់​អ្នក​សកម្ម ជ្រើស &quot;រៀបចំ​សមកាលកម្ម&quot; នៅ​លើ​ឧបករណ៍។">
 <!ENTITY sync.setup.close           "បិទ">
 <!ENTITY sync.setup.waitingdownload "ទិន្នន័យ​របស់​អ្នក​កំពុង​ត្រូវ​បាន​ទាញ​យក​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ ។ អ្នក​អាច​បិទ​បង្អួច​នេះ​នៅ​ពេល​ណា​ក៏​បាន ។">
