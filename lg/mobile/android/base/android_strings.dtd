@@ -4,9 +4,9 @@
 
 
 <!ENTITY  splash_settingup "Okutegeka &brandShortName; yo">
-<!ENTITY  splash_bookmarks_history "Tutusa obulambe ne ebifudeyo byo, ekiyinza okutwala a ddaki nokukirawo.">
 
-<!ENTITY  no_space_to_start_error "Tewali banga limala &brandShortName; okutandika.">
+
+<!ENTITY  no_space_to_start_error "Tewali banga linamala &brandShortName; okutandika.">
 <!ENTITY  error_loading_file "Wabadewo ensobi mukutika fayiro ezetagisa okudukanya &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Ebibanja Ebyawagulu">
@@ -14,6 +14,7 @@
 <!ENTITY  awesomebar_history_title "Ebyafaayo">
 
 
+<!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
 
 
 
