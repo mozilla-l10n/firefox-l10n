@@ -14,12 +14,13 @@
 <!ENTITY  awesomebar_history_title "Geçmiş">
 <!ENTITY  awesomebar_switch_to_tab "Sekmeye geç">
 
+<!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
 <!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
-
+<!ENTITY  crash_send_report_message3 "&vendorShortName; çöküşten haberdar edilsin ki sorunu çözebilsinler">
 <!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dâhil et">
 <!ENTITY  crash_sorry "Üzgünüz">
 <!ENTITY  crash_comment "Yorum ekleyin (yorumlar herkes tarafından görülebilir)">
-
+<!ENTITY  crash_allow_contact2 "&vendorShortName; bu raporla ilgili olarak benimle iletişime geçebilir">
 <!ENTITY  crash_email "E-postanız">
 <!ENTITY  crash_closing_alert "Çökme raporu göndermeden çıkmak mı istiyorsunuz?">
 <!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
-
+<!ENTITY pref_reflow_on_zoom3 "Metni yeniden sıralamak için çift dokunun">
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
@@ -133,11 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
-
+<!ENTITY datareporting_notification_action_long "Hangi bilgilerin paylaşılacağını seç">
 <!ENTITY datareporting_notification_action "Ne paylaşacağınızı seçin">
 <!ENTITY datareporting_notification_summary "Deneyiminizi artırmak için &brandShortName; otomatik olarak &vendorShortName;\u0027ya bazı bilgiler gönderir.">
 <!ENTITY datareporting_notification_summary_short "Deneyiminizi artırmak için &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -146,15 +147,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Sağlık Raporu">
-
-
+<!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamına yardımcı olur">
+<!ENTITY datareporting_abouthr_title "Sağlık Raporu\u0027mu Göster">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; tarayıcısını iyileştirmek için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, tarayıcınızı daha kararlı ve güvenli yapmak için çökme raporlarını &vendorShortName;\u0027ya gönderir">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
+<!ENTITY datareporting_wifi_title "&vendorShortName; konum servisleri">
+<!ENTITY datareporting_wifi_summary "&brandShortName; tarayıcısının anonim baz istasyonu verilerinizi toplayıp göndermesine izin vererek coğrafi konum servislerimizi geliştirmemize yardımcı olun">
 
 <!ENTITY pref_update_autodownload "Otomatik güncellemeler">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
@@ -288,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Bu sayfada güvenli olmayan içerik görüntüleniyor.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; güvenli olmayan içeriği engelledi.">
+<!ENTITY blocked_mixed_content_message_bottom "Bu içerik engellense bile çoğu web sitesi düzgün çalışmaya devam edecektir.">
 <!ENTITY learn_more "Daha fazla bilgi">
-
-
-
+<!ENTITY enable_protection "Korumayı etkinleştir">
+<!ENTITY disable_protection "Korumayı kapat">
+<!ENTITY keep_blocking "Engellemeyi sürdür">
 
 <!ENTITY private_data_success "Özel veriler temizlendi">
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
