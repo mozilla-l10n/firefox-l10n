@@ -24,7 +24,7 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "நான் ஆபத்துகளை அறிகிறேன்">
 <!ENTITY certerror.expert.content "என்ன நடக்கிறது என்பதை நீங்கள் அறிந்து கொண்டால், நீங்கள் &brandShortName;ஐ இணைய தள அடையாளங்கள் நம்ப துவக்க சொல்லலாம். <b>நீங்கள் இணைய தளத்தை நம்பினாலும், இந்தப் பிழையானது உங்களை இணைப்பை சிலர் உடைக்கிறார்கள் என்று சொல்லும்</b>">
 <!ENTITY certerror.expert.contentPara2 "இந்த இணைய தளம் நம்பகமான அடையாளத்தை ஏன் பயன்படுத்தவில்லை என்ற காரணத்தை அறியாத வரை, நீங்கள் ஒரு விதிவிலக்கை சேர்க்க வேண்டாம்.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+
+
 
 <!ENTITY certerror.technical.heading "தொழில்நுட்ப விவரங்கள்">

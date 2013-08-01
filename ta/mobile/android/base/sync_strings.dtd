@@ -14,12 +14,12 @@
 <!ENTITY sync.title.pair.label "ஒரு சாதனத்தை இணைசேர்">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
+<!ENTITY sync.subtitle.connect.label "உங்களுடைய புதிய சாதனத்தை செயற்ப்படுத்த, சாதனத்தினுள் “&syncBrand.shortName.label;ஐ அமை” ஐ தேர்ந்தெடுக்கவும்.">
 <!ENTITY sync.subtitle.header2.label "இந்த குறியீட்டை உங்களின் மற்றொரு சாதனத்தில் தட்டவும்">
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+
 <!ENTITY sync.subtitle.pair.label "செயல்படுத்த, உங்கள் மற்ற சாதனத்தில் “ஒரு சாதனத்தை இணைசேர்” என்பதைத் தேர்ந்தெடுக்கவும்.">
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+
+
 <!ENTITY sync.link.show.label "எவ்வாறு என எனக்கு காட்டு.">
 <!ENTITY sync.link.advancedsetup.label "மேம்பட்ட அமைப்புகள்...">
 <!ENTITY sync.link.nodevice.label "என்னிடம் சாதனம் இல்லை">
@@ -42,17 +42,17 @@
 <!ENTITY sync.button.manual.label "கைமுறை அமைப்பு">
 <!ENTITY sync.subtitle.nointernet.label "இணைய இணைப்பு இல்லை.">
 <!ENTITY sync.subtitle.failaccount.label "உங்களுடைய சாதனத்தில் கணக்கை தோற்றுவிக்க முடியவில்லை.">
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "அமைவு முடிந்தது">
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
+
 <!ENTITY sync.settings.label "அமைப்புகள்">
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "மீண்டும் முயற்சிக்கவும்.">
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "தேர்வுகள்">
@@ -101,6 +101,6 @@
 <!ENTITY sync.button.send.label "அனுப்பு">
 <!ENTITY sync.button.set.up.sync.label "&syncBrand.shortName.label;-ஐ அமை">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "&syncBrand.shortName.label; அமைவை தாவல்களுக்கு அனுப்பவும்.">
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
+
+
 <!ENTITY sync.text.tab.not.sent.label "உங்களின் தாவலை அனுப்புவதில் பிரிச்சனை வந்திருக்கிறது.">
