@@ -16,7 +16,7 @@
 <!ENTITY rememberChoice.label "Od zdaj naprej naredi to samodejno za tovrstne datoteke.">
 <!ENTITY rememberChoice.accesskey "a">
 
-<!ENTITY whichIsA.label "ki je vrste:">
+<!ENTITY whichIs.label              "ki je vrste:">
 
 <!ENTITY chooseHandlerMac.label "Izberi …">
 <!ENTITY chooseHandlerMac.accesskey "I">
