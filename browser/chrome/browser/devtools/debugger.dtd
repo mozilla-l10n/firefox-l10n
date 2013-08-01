@@ -4,6 +4,8 @@
 
 <!ENTITY debuggerUI.closeButton.tooltip "Cerrar">
 <!ENTITY debuggerUI.panesButton.tooltip "Cambiar paneles">
+<!ENTITY debuggerUI.blackBoxMessage.label "Este código fuente se trata como una caja negra: sus puntos de ruptura están desactivados y la ejecución paso a paso no entra en él.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Dejar de tratar como caja negra este código fuente">
 <!ENTITY debuggerUI.optsButton.tooltip "Opciones de depuración">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
