@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "கூடுதல் இணைப்புகள்">
-<!ENTITY aboutAddons.header2                    "Your Add-ons">
+
 <!ENTITY aboutAddons.options                    "தேர்வுகள்">
 
 <!ENTITY addonAction.enable                     "செயல்படுத்து">
 <!ENTITY addonAction.disable                    "செயல்நீக்கு">
 <!ENTITY addonAction.uninstall                  "நிறுவுல் நீக்கு">
 <!ENTITY addonAction.undo                       "மறை">
-<!ENTITY addonAction.setDefault                 "Set as Default">
+
