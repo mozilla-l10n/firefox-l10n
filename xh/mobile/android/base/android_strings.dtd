@@ -14,34 +14,35 @@
 <!ENTITY  awesomebar_history_title "Imbali">
 <!ENTITY  awesomebar_switch_to_tab "Tshintshela kwithebhu">
 
+<!ENTITY  crash_reporter_title "I-&brandShortName; Umniki-ngxelo yokonakala">
 <!ENTITY  crash_message2 "&brandShortName; ibe nengxaki yaza yacima. Iithebhu zakho kumele zidweliswe kwi-&brandShortName; Qalisa iphepha xa uqalisa kwakhona.">
-
+<!ENTITY  crash_send_report_message3 "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise">
 <!ENTITY  crash_include_url2 "Quka idilesi yephepha ebendikulo">
 <!ENTITY  crash_sorry "Silusizi">
 <!ENTITY  crash_comment "Yongeza ikhomenti (iikhomenti zibonakala ngokuphandle)">
-
+<!ENTITY  crash_allow_contact2 "Vumela i-&vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
 <!ENTITY  crash_email "I-imeyili yakho">
 <!ENTITY  crash_closing_alert "Ufuna ukuphuma ungayithumelanga ingxelo?">
-<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala ">
+<!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
 <!ENTITY  crash_close_label "Vala">
-<!ENTITY  crash_restart_label "Qalisa ngokutsha i-brandShortName;">
+<!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
 <!ENTITY  exit_label "Phuma">
 
-<!ENTITY  launcher_shortcuts_title "i-brandShortName; ii-Web Apps">
-<!ENTITY  launcher_shortcuts_empty "Akukho zi-apps zewebhu zifumanekayo">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ii-Apps zeWebhu">
+<!ENTITY  launcher_shortcuts_empty "Akukho apps zifunyenweyo">
 
-<!ENTITY choose_file "Khetha Ifayili">
+<!ENTITY choose_file "Khetha ifayile">
 
-<!ENTITY awesomebar_default_text "Faka ukhangelo okanye idilesi">
+<!ENTITY awesomebar_default_text "Ngenisa uKhangela okanye idilesi">
 
 <!ENTITY remote_tabs "Iithebhu ezingqamanisiweyo">
 <!ENTITY remote_tabs_show_all "Bonisa zonke iithebhu">
 
 <!ENTITY bookmark "Isalathisi esiphawulayo">
-<!ENTITY bookmark_added "Iibhukhmakhi zongeziwe">
-<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe ">
+<!ENTITY bookmark_added "Ibhukhmakhi yongeziwe">
+<!ENTITY bookmark_removed "Iibhukhmakhi zisusiwe">
 <!ENTITY bookmark_updated "Iibhukhmakhi zihlaziyiwe">
-
+<!ENTITY bookmark_options "Iindlela zokhetho">
 
 <!ENTITY history_today_section "Namhlanje">
 <!ENTITY history_yesterday_section "Izolo">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
 <!ENTITY pref_plugins_disabled "Kwaphulwe isakhono">
 <!ENTITY pref_text_size "Ubukhulu bombhalo">
-
+<!ENTITY pref_reflow_on_zoom3 "Chwetha kabini ukuze uvelise amagama">
 <!ENTITY pref_font_size_tiny "Ncinane">
 <!ENTITY pref_font_size_small "Mncinci">
 <!ENTITY pref_font_size_medium "Uphakathi">
@@ -133,11 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Iifayile ezikhutshelweyo">
 
 <!ENTITY datareporting_notification_title "&brandShortName; amanani &amp; neenkcukacha">
-
+<!ENTITY datareporting_notification_action_long "Khetha inkcazelo onokwabelana ngayo">
 <!ENTITY datareporting_notification_action "Khetha into ofuna ukwabelana ngayo">
 <!ENTITY datareporting_notification_summary "Ukuze siphucule amava akho, &brandShortName; sithumela ngokuzenzekelayo inkcazelo ethile kwi-&vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ukuze siphucule amava akho, i-&brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -146,15 +147,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "I-&brandShortName; iNgxelo yeMpilo">
-
-
+<!ENTITY datareporting_fhr_summary2 "Yabelana ngeenkcukacha ne-&vendorShortName; malunga nempilo yebhrawuza yakho ize ikuncede uqonde indlela esebenza ngayo ibhrawuza yakho">
+<!ENTITY datareporting_abouthr_title "Bona Ingxelo Yempilo yam">
 <!ENTITY datareporting_telemetry_title "Ithelemetri">
 <!ENTITY datareporting_telemetry_summary "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ene-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ingenisa iingxelo zokonakala ukunceda i-&vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
+<!ENTITY datareporting_wifi_title "I-&vendorShortName; iinkonzo zendawo">
+<!ENTITY datareporting_wifi_summary "Inceda ekuphuculeni indawo ekuyo iWebhu Evulekileyo ngokuvumela i-&brandShortName; iqokelele ize ithumele inkcazelo engachazwanga yeMboniselo yeselula">
 
 <!ENTITY pref_update_autodownload "Izihlaziyi ezizenzekelayo">
 <!ENTITY pref_update_autodownload_wifi "Phezu kwe-Wi-Fi kuphela">
@@ -288,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ehanjiswa nge">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Eli phepha liobnisa umbandela ongakhuselekanga.">
+<!ENTITY blocked_mixed_content_message_top "I-&brandShortName; iwuthintele lo mbandela ungakhuselekanga.">
+<!ENTITY blocked_mixed_content_message_bottom "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 <!ENTITY learn_more "Funda ngaphezulu">
-
-
-
+<!ENTITY enable_protection "Vumela ukhuseleko">
+<!ENTITY disable_protection "Valela ukhuseleko">
+<!ENTITY keep_blocking "Qhubeka uthintela">
 
 <!ENTITY private_data_success "Iingcombolo zangasese zisusiwe">
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">

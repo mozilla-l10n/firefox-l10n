@@ -9,12 +9,12 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Khangela iZihlaziyi »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
 <!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
-
+<!ENTITY aboutPage.checkForUpdates.available2   "Khuphela ehlaziyiweyo">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Ikhuphela ehlaziyiweyo…">
-
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Fakela ehlaziyiweyo">
 <!ENTITY aboutPage.faq.label                    "I-FAQ">
 <!ENTITY aboutPage.support.label                "Inkxaso">
-
+<!ENTITY aboutPage.privacyPolicy.label          "noMgaqo-nkqubo Wabucala">
 <!ENTITY aboutPage.rights.label                 "Wazi amalungelo akho">
 <!ENTITY aboutPage.relNotes.label               "Khulula Iingongoma">
 <!ENTITY aboutPage.credits.label                "Amatyala">
