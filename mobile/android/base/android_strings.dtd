@@ -81,7 +81,7 @@
 <!ENTITY pref_header_privacy "Pribatutasuna eta segurtasuna">
 <!ENTITY pref_header_content "Edukia">
 
-<!ENTITY pref_cookies_menu "Cookie-ak">
+<!ENTITY pref_cookies_menu "Cookieak">
 <!ENTITY pref_cookies_accept_all "Gaituta">
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
@@ -125,7 +125,7 @@ size. -->
 <!ENTITY pref_import_android "Inportatu Android-etik">
 <!ENTITY pref_private_data_history "Nabigazio- eta deskarga-historia">
 <!ENTITY pref_private_data_formdata "Inprimaki- eta bilaketa-historia">
-<!ENTITY pref_private_data_cookies2 "Cookie-ak eta saio-hasiera aktiboak">
+<!ENTITY pref_private_data_cookies2 "Cookieak eta saio-hasiera aktiboak">
 <!ENTITY pref_private_data_passwords "Gordetako pasahitzak">
 <!ENTITY pref_private_data_cache "Cachea">
 <!ENTITY pref_private_data_offlineApps "Lineaz kanpoko webguneen datuak">
