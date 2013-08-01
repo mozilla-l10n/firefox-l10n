@@ -247,9 +247,9 @@
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
-<!ENTITY openLinkCmdInTab.label "Apri in nuova scheda">
+<!ENTITY openLinkCmdInTab.label "Apri link in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "s">
-<!ENTITY openLinkCmd.label "Apri in nuova finestra">
+<!ENTITY openLinkCmd.label "Apri link in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "f">
 <!ENTITY openLinkInPrivateWindowCmd.label "Apri link in nuova finestra anonima">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "k">
