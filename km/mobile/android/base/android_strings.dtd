@@ -12,16 +12,17 @@
 <!ENTITY  awesomebar_all_pages_title "តំបន់បណ្ដាញ​ដែល​ពេញនិយម">
 <!ENTITY  awesomebar_bookmarks_title "ចំណាំ">
 <!ENTITY  awesomebar_history_title "ប្រវត្តិ">
+<!ENTITY  awesomebar_switch_to_tab "ប្ដូរ​ទៅ​ផ្ទាំង">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY  crash_reporter_title "កម្មវិធី​រាយការណ៍​កំហុស​របស់ &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; បាន​គាំង ។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
+<!ENTITY  crash_send_report_message3 "ប្រាប់ &vendorShortName; អំពី​ការ​គាំង​នេះ​ដើម្បី​ឲ្យ​ពួកគេ​អាច​កែ​វា​បាន">
+<!ENTITY  crash_include_url2 "បាន​រួមបញ្ចូល​អាសយដ្ឋាន​ទំព័រ​ដែល​ខ្ញុំ​ទស្សនា">
+<!ENTITY  crash_sorry "យើង​សុំទោស">
+<!ENTITY  crash_comment "បន្ថែម​សេចក្ដី​អធិប្បាយ (សេចក្ដី​អធិប្បាយ​គឺ​មើល​ឃើញ​ជា​សាធារណៈ)">
+<!ENTITY  crash_allow_contact2 "អនុញ្ញាត​ឲ្យ &vendorShortName; ទាក់ទង​ខ្ញុំ​អំពី​របាយការណ៍​នេះ">
+<!ENTITY  crash_email "អ៊ីមែល​របស់​អ្នក">
+<!ENTITY  crash_closing_alert "ចេញ​ដោយ​មិន​ផ្ញើ​របាយការណ៍​គាំង​ឬ?">
 <!ENTITY  sending_crash_report "កំពុង​ផ្ញើ​របាយការណ៍​គាំង\u2026">
 <!ENTITY  crash_close_label "បិទ">
 <!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើង​វិញ">
@@ -66,26 +67,30 @@
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
-
-
-
+<!ENTITY pref_category_general "ទូទៅ">
+<!ENTITY pref_category_privacy "ភាព​ឯកជន &amp; សុវត្ថិភាព">
+<!ENTITY pref_category_content "មាតិកា">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
+<!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_general "ទូទៅ">
+<!ENTITY pref_header_privacy "ភាព​ឯកជន &amp; សុវត្ថិភាព">
+<!ENTITY pref_header_content "មាតិកា">
 
 <!ENTITY pref_cookies_menu "​ខូគី">
 <!ENTITY pref_cookies_accept_all "បាន​បើក">
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក​រួមបញ្ចូល​ទាំង​ភាគី​ទី ៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
-
-
-
+<!ENTITY pref_donottrack_menu "តាមដាន">
+<!ENTITY pref_donottrack_disallow_tracking "ប្រាប់​តំបន់បណ្ដាញ​ថា​ខ្ញុំ​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
+<!ENTITY pref_donottrack_allow_tracking "ប្រាប់​តំបន់​បណ្ដាញ​ថា​ខ្ញុំ​អត់​ឲ្យ​តាមដាន">
+<!ENTITY pref_donottrack_no_pref "កុំ​ប្រាប់​តំបន់បណ្ដាញ​អំពី​ចំណូលចិត្ត​តាមដាន​របស់​ខ្ញុំ">
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
@@ -96,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
 <!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
-
+<!ENTITY pref_reflow_on_zoom3 "គោះ​ទ្វេដង​ដើម្បី​បង្ហូរ​អត្ថបទ​ត្រឡប់">
 <!ENTITY pref_font_size_tiny "តូច">
 <!ENTITY pref_font_size_small "តូច">
 <!ENTITY pref_font_size_medium "មធ្យម">
@@ -125,14 +130,15 @@ size. -->
 <!ENTITY pref_private_data_passwords "ពាក្យ​សម្ងាត់​បាន​រក្សារ​ទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
-
+<!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់​បណ្ដាញ">
 <!ENTITY pref_private_data_downloadFiles "ទាញ​យក​ឯកសារ">
 
-
-
-
-
-
+<!ENTITY datareporting_notification_title "ទិន្នន័យ &brandShortName; stats &amp;">
+<!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
+<!ENTITY datareporting_notification_action "ជ្រើស​អ្វី​ដែល​ត្រូវ​ចែករំលែក">
+<!ENTITY datareporting_notification_summary "ដើម្បី​បង្កើន​បទពិសោធន៍​របស់​អ្នក &brandShortName; ផ្ញើ​ព័ត៌មាន​មួយ​ចំនួន​ទៅកាន់ &vendorShortName; ដោយ​ស្វ័យប្រវត្តិ។">
+<!ENTITY datareporting_notification_summary_short "ដើម្បី​បង្កើន​បទពិសោធន៍​របស់​អ្នក &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -140,14 +146,17 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "របាយការណ៍​សុខភាព​របស់ &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "ចែករំលែក​ទិន្នន័យ​ជាមួយ &vendorShortName; អំពី​សុខភាព​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក និង​ជួយ​អ្នក​ឲ្យ​យល់​ពី​ដំណើរការ​របស់​វា">
+<!ENTITY datareporting_abouthr_title "មើល​របាយការណ៍​សុខភាព​របស់​ខ្ញុំ">
+<!ENTITY datareporting_telemetry_title "ទូរមាត្រ​វិធី">
+<!ENTITY datareporting_telemetry_summary "ចែករំលែក​ដំណើរការ, ការ​ប្រើប្រាស់, ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​តម្រូវ​ការ​អំពី​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ជាមួយ &vendorShortName; ដើម្បី​ជួយ​ពួក​យើង​ក្នុង​ការ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ដាក់​ស្នើ​របាយការណ៍​គាំង​ដើម្បី​ឲ្យ &vendorShortName; អាច​ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​ខ្ពស់">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
+<!ENTITY datareporting_wifi_title "&vendorShortName; សេវាកម្ម​ទីតាំង">
+<!ENTITY datareporting_wifi_summary "ជួយ​ធ្វើឲ្យ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​ប្រសើរ​ឡើង​សម្រាប់ Open Web ដោយ​អនុញ្ញាត​ឲ្យ &brandShortName; ប្រមូល និង​ផ្ញើ​ទិន្នន័យ​អនាមិក">
 
 <!ENTITY pref_update_autodownload "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_update_autodownload_wifi "តាម Wi-Fi តែប៉ុណ្ណោះ">
@@ -196,11 +205,12 @@ size. -->
 <!ENTITY contextmenu_paste "បិទភ្ជាប់">
 <!ENTITY contextmenu_copyurl "ចម្លង​អាសយដ្ឋាន">
 <!ENTITY contextmenu_edit_bookmark "កែសម្រួល">
+<!ENTITY contextmenu_subscribe "ជាវ​ទំព័រ​នេះ">
+<!ENTITY contextmenu_site_settings "កែ​ការ​កំណត់​តំបន់​បណ្ដាញ">
 
-
-
-
-
+<!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
+<!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
+<!ENTITY pref_titlebar_mode_url "បង្ហាញ​អាសយដ្ឋាន​ទំព័រ">
 
 <!ENTITY history_removed "បាន​យក​ទំព័រ​ចេញ">
 
@@ -210,6 +220,8 @@ size. -->
 <!ENTITY bookmark_edit_keyword "ពាក្យ​គន្លឹះ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "ការ​កំណត់​តំបន់បណ្ដាញ">
 <!ENTITY site_settings_cancel       "បោះបង់">
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ ។">
@@ -218,7 +230,7 @@ size. -->
 <!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
-
+<!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
 <!ENTITY reader "កម្មវិធី​អាន">
 
 <!ENTITY masterpassword_create_title "បង្កើតពាក្យ​សម្ងាត់​មេ">
@@ -278,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ដែល​រត់​ដោយ">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; បាន​ទប់ស្កាត់​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
+<!ENTITY blocked_mixed_content_message_bottom "តំបន់​បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ធម្មតា ទោះបី​មាតិកា​នេះ​ត្រូវ​បាន​បិទ​ក៏ដោយ។">
 <!ENTITY learn_more "សិក្សា​​បន្ថែម">
-
-
-
+<!ENTITY enable_protection "បើក​ការ​ការពារ">
+<!ENTITY disable_protection "បិទ​ការ​ការពារ">
+<!ENTITY keep_blocking "រក្សា​ការ​ទប់ស្កាត់">
 
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
