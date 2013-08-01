@@ -7,7 +7,7 @@
 <!ENTITY aboutAddons.options                    "Ekunokukhethwa kuko">
 
 <!ENTITY addonAction.enable                     "Vumela">
-<!ENTITY addonAction.disable                    "Qhwalelisa">
+<!ENTITY addonAction.disable                    "Valela">
 <!ENTITY addonAction.uninstall                  "Khupha okufakiweyo">
 <!ENTITY addonAction.undo                       "Qhaqha okwenzileyo">
 <!ENTITY addonAction.setDefault                 "Seta njengeKuphela Kwemayisetyenziswe">
