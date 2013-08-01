@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  splash_settingup "A configurar o &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Estamos a atualizar os seus marcadores e histórico, o que pode demorar alguns minutos.">
+
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
@@ -64,35 +67,20 @@
 
 <!ENTITY settings "Definições">
 <!ENTITY settings_title "Definições">
-<!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_search "Procurar">
-<!ENTITY pref_category_display "Mostrar">
-<!ENTITY pref_category_privacy_short "Privacidade">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_datareporting "Escolhas de dados">
-<!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
 <!ENTITY pref_category_general "Geral">
 <!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
 <!ENTITY pref_category_content "Conteúdo">
 <!-- Localization note (datareporting_title) : This string matches
      (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
      capitalization. -->
-<!ENTITY pref_header_general "Geral">
-<!ENTITY pref_header_privacy "Privacidade &amp; Segurança">
-<!ENTITY pref_header_content "Conteúdo">
-<!-- end of old strings -->
-
+<!ENTITY pref_category_datareporting "Escolha dos dados">
+<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_remember_signons "Lembrar senhas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Personalizar">
-<!ENTITY pref_header_display "Mostrar">
-<!ENTITY pref_header_privacy_short "Privacidade">
-<!ENTITY pref_header_help "Ajuda">
-<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_general "Geral">
+<!ENTITY pref_header_privacy "Privacidade &amp; Segurança">
+<!ENTITY pref_header_content "Conteúdo">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativado">
@@ -114,7 +102,6 @@
 <!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
 <!ENTITY pref_reflow_on_zoom3 "Toque duplo para normalizar o texto">
-<!ENTITY pref_restore_session "restaurar sempre separadores">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
@@ -145,11 +132,6 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dados do sítio web offline">
 <!ENTITY pref_private_data_siteSettings2 "Preferências do sítio">
 <!ENTITY pref_private_data_downloadFiles "Ficheiros transferidos">
-
-
-<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQs">
-<!ENTITY pref_vendor_feedback "Dar feedback">
 
 <!ENTITY datareporting_notification_title "Estatísticas &amp; dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
@@ -249,10 +231,7 @@ size. -->
 <!ENTITY reading_list_removed "Página removida da sua lista de leitura">
 <!ENTITY reading_list_failed "O adicionar da página à sua lista de leitura falhou">
 <!ENTITY reading_list_duplicate "Página já na sua lista de leitura">
-
-<!-- Localization note : These strings are used as alternate text for accessibility.
-     They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Ações adicionais">
+<!ENTITY reader "Leitor">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Remover senha mestra">
@@ -350,14 +329,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar.">
-
-<!-- Guest mode -->
-<!ENTITY enter_guest_mode "Entrar no modo de convidado">
-<!ENTITY exit_guest_mode "Sair do modo de convidado">
-<!ENTITY guest_mode_dialog_continue "Continuar">
-<!ENTITY guest_mode_dialog_cancel "Cancelar">
-<!ENTITY guest_mode_enter_title "Modo convidado">
-<!ENTITY guest_mode_enter_text "Enquanto no modo de convidado, a pessoa que usa o &brandShortName; não poderá ver nenhum dos dados de navegação pessoal (como as senhas guardadas, histórico ou marcadores).\n\nQuando o convidado terminar, o histórico de navegação será eliminado.">
-
-<!ENTITY guest_mode_leave_title "A deixar o modo de convidado">
-<!ENTITY guest_mode_leave_text "O &brandShortName; vai eliminar os dados de navegação desta sessão.">
