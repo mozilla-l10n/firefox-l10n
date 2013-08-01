@@ -4,6 +4,8 @@
 
 <!ENTITY debuggerUI.closeButton.tooltip "Chiudi">
 <!ENTITY debuggerUI.panesButton.tooltip "Attiva/disattiva pannelli">
+<!ENTITY debuggerUI.blackBoxMessage.label "Questa sorgente è isolata: i relativi punti di interruzione sono disattivati e l'esecuzione passo a passo la ignorerà.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Interrompi isolamento di questa sorgente">
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
 <!ENTITY debuggerUI.pauseExceptions.key "M">
