@@ -14,12 +14,13 @@
 <!ENTITY  awesomebar_history_title "Eachdraidh">
 <!ENTITY  awesomebar_switch_to_tab "Gearr leum gun taba">
 
+<!ENTITY  crash_reporter_title "Aithrisiche nan tuislidhean aig &brandShortName;">
 <!ENTITY  crash_message2 "Bha duilgheadas aig &brandShortName; is thuislich e. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
-
+<!ENTITY  crash_send_report_message3 "Leig fios mun tuisleadh seo dha &vendorShortName; gus an urrainn dhaibh a chàradh">
 <!ENTITY  crash_include_url2 "Cuir ann seòladh na duilleige far an robh mi">
 <!ENTITY  crash_sorry "Tha sinn duilich">
 <!ENTITY  crash_comment "Cuir beachd ris (chithear na beachdan gu poblach)">
-
+<!ENTITY  crash_allow_contact2 "Leig le &vendorShortName; fios a chur thugam mun aithisg seo">
 <!ENTITY  crash_email "Am post-d agad">
 <!ENTITY  crash_closing_alert "A bheil thu airson fàgail gun aithisg tuislidh a chur?">
 <!ENTITY  sending_crash_report "A\u0027 cur aithisg an tuislidh\u2026">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
-
+<!ENTITY pref_reflow_on_zoom3 "Dèan gnogag dhùbailte gus an teacsa ath-shruthadh">
 <!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
@@ -133,11 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
 
 <!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
-
+<!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
 <!ENTITY datareporting_notification_action "Tagh na tha thu airson co-roinneadh">
 <!ENTITY datareporting_notification_summary "Cuiridh &brandShortName; cuid a dh\u0027fhiosrachadh gu &vendorShortName; ach an urrainn dhuinn bathar a dh\u0027obraicheas nas fhearr a thoirt dhut.">
 <!ENTITY datareporting_notification_summary_short "Airson \u0027s gun obraich e nas fhearr dhut, &brandShortName;…">
-
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -146,15 +147,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Aithisg slàinte &brandShortName;">
-
-
+<!ENTITY datareporting_fhr_summary2 "Bheir seo dàta air slàinte a\u0027 bhrabhsair agad dha &vendorShortName; agus bheir e dhut fiosrachadh air dèanadas a\u0027 bhrabhsair agad">
+<!ENTITY datareporting_abouthr_title "Faic an aithisg slàinte agam">
 <!ENTITY datareporting_telemetry_title "Telemeatraidh">
 <!ENTITY datareporting_telemetry_summary "Nochd fiosrachadh air dèanadas, cleachdadh is gnàthachaidhean a\u0027 bhrabhsair agad dha &vendorShortName; airson \u0027s gun urrainn dhuinn &brandShortName; a leasachadh">
 <!ENTITY datareporting_crashreporter_summary "Cuiridh &brandShortName; aithisgean tuislidh dha &vendorShortName; airson \u0027s gun urrainn dhuinn am brabhsair agad a dhèanamh nas seasmhaiche agus nas tèarainte">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
+<!ENTITY datareporting_wifi_title "Seirbheisean ionaid &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Nach cuidich thu leinn a\u0027 leasachadh nan seirbheisean geò-lorgaidh airson an lìn fhosgailte \u0027s thoir cead dha &vendorShortName; dàta gun urra a chruinneachadh o chrainn nam fònaichean-làimhe \u0027s a chur thugainn?">
 
 <!ENTITY pref_update_autodownload "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
@@ -288,11 +290,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \u0027ga ruith le">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "Tha an duilleag seo a\u0027 sealltainn susbaint nach eil tèarainte.">
+<!ENTITY blocked_mixed_content_message_top "Bhac &vendorShortName; susbaint nach eil tèarainte.">
+<!ENTITY blocked_mixed_content_message_bottom "Obraichidh a\u0027 mhòrchuid dhe na làraichean-lìn fhathast fiù ma tha bacadh air an t-susbaint seo.">
 <!ENTITY learn_more "Faigh tuilleadh eòlais">
-
-
-
+<!ENTITY enable_protection "Cuir an comas an dìon">
+<!ENTITY disable_protection "Cuir an dìon à comas">
+<!ENTITY keep_blocking "Cum ort \u0027ga bhacadh">
 
 <!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
 <!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
