@@ -22,46 +22,46 @@
 
 <!ENTITY window.title                 "स्क्रॅचपॅड">
 
-<!ENTITY fileMenu.label               "फाइल (F)">
+<!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "नविन पटल (N)">
+<!ENTITY newWindowCmd.label           "नविन पटल">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "फाइल उघडा (O)…">
+<!ENTITY openFileCmd.label            "फाइल उघडा…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "अलिकडील उघडा (R)">
+<!ENTITY openRecentMenu.label         "अलिकडील उघडा">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "पूर्वस्थितीत आणा (t)...">
+<!ENTITY revertCmd.label              "पूर्वस्थितीत आणा...">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "साठवा (S)">
+<!ENTITY saveFileCmd.label            "साठवा">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "असे साठवा (A)…">
+<!ENTITY saveFileAsCmd.label          "असे साठवा…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "बंद करा (C)">
+<!ENTITY closeCmd.label               "बंद करा">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "संपादित करा (E)">
+<!ENTITY editMenu.label               "संपादित करा">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "चालवा (R)">
+<!ENTITY run.label                    "चालवा">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "चौकशी करा (I)">
+<!ENTITY inspect.label                "चौकशी करा">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "डिस्पले (D)">
+<!ENTITY display.label                "डिस्पले">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -71,11 +71,11 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "वातावरण (n)">
+<!ENTITY environmentMenu.label        "वातावरण">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "अंतर्भूत माहिती (C)">
+<!ENTITY contentContext.label         "अंतर्भूत माहिती">
 <!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -84,15 +84,15 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "ब्राउजर (B)">
+<!ENTITY browserContext.label         "ब्राउजर">
 <!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "मदत (H)">
+<!ENTITY helpMenu.label               "मदत">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "मदत (H)">
+<!ENTITY helpMenuWin.label            "मदत">
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "MDN वरील स्क्रॅचपॅड मदत">
@@ -102,14 +102,14 @@
   -->
 
 
-<!ENTITY resetContext2.label          "वेरियेबल्स् मूळस्थितीत आणा (t)">
+<!ENTITY resetContext2.label          "वेरियेबल्स् मूळस्थितीत आणा">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "पुन्हा लोड करा व चालवा (e)">
+<!ENTITY reloadAndRun.label           "पुन्हा लोड करा व चालवा">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "चालवा (x)">
+<!ENTITY executeMenu.label            "चालवा">
 <!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of

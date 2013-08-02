@@ -14,6 +14,6 @@
 
 
 
-<!ENTITY gotoLineCmd.label         "ओळ वर जा (J)…">
+<!ENTITY gotoLineCmd.label         "ओळ वर जा…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">

@@ -10,17 +10,17 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "नविन (N)">
+<!ENTITY newButton.label            "नविन">
 <!ENTITY newButton.tooltip          "दस्तऐवजकरिता नविन स्टाइल शीट निर्माण करा व समाविष्ट करा">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "आयात करा (I)…">
+<!ENTITY importButton.label         "आयात करा…">
 <!ENTITY importButton.tooltip       "अस्तित्वातील स्टाइल शीट आयात करा व समाविष्ट करा">
 <!ENTITY importButton.accesskey     "I">
 
 <!ENTITY visibilityToggle.tooltip   "स्टाइल शीटचे अवलोकन बदला">
 
-<!ENTITY saveButton.label           "साठवा (S)">
+<!ENTITY saveButton.label           "साठवा">
 <!ENTITY saveButton.tooltip         "या स्टाइल शीटला फाइलकरिता साठवा">
 <!ENTITY saveButton.accesskey       "S">
 

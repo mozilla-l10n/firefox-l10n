@@ -18,27 +18,27 @@
 <!ENTITY server.label               "सर्व्हर">
 <!ENTITY serverType.default.label      "पूर्वनिर्धारीत: मोझिला &syncBrand.fullName.label; सर्व्हर">
 <!ENTITY serverType.custom2.label   "पसंतीच्या सर्व्हरचा वापर करा…">
-<!ENTITY signIn.account2.label      "खाते (A)">
+<!ENTITY signIn.account2.label      "खाते">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "पासवर्ड (P)">
+<!ENTITY signIn.password.label      "पासवर्ड">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "पुनःप्राप्ति कि (K)">
+<!ENTITY signIn.recoveryKey.label       "पुनःप्राप्ति कि">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "खाते तपशील">
-<!ENTITY setup.emailAddress.label     "ईमेल पत्ता (E)">
+<!ENTITY setup.emailAddress.label     "ईमेल पत्ता">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "पासवर्ड निवडा (P)">
+<!ENTITY setup.choosePassword.label      "पासवर्ड निवडा">
 <!ENTITY setup.choosePassword.accesskey  "P">
-<!ENTITY setup.confirmPassword.label     "पासवर्डची खात्री करा (m)">
+<!ENTITY setup.confirmPassword.label     "पासवर्डची खात्री करा">
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.setupMetro.label     "Windows 8 शैली &brandShortName;सह सिंक करा">
 <!ENTITY setup.setupMetro.accesskey "s">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
-<!ENTITY setup.tosAgree1.label      "मला मान्य आहे (a)">
+<!ENTITY setup.tosAgree1.label      "मला मान्य आहे">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "सेवांच्या अटी">
 <!ENTITY setup.tosAgree2.label      "व ते">
@@ -49,14 +49,14 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची आम्ही काळजी घेतो">
 <!ENTITY setup.newRecoveryKeyPage.description.label "संपूर्ण गोपणीयताच्या खात्रीकरिता, सर्व डाटा अपलोड करण्यापूर्वी एंक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक पुनःप्राप्ति कि अपलोड केले जात नाही.">
-<!ENTITY recoveryKeyEntry.label        "तुमची पुनःप्राप्ति कि (K)">
+<!ENTITY recoveryKeyEntry.label        "तुमची पुनःप्राप्ति कि">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "नवीन कि निर्माण करा">
 <!ENTITY recoveryKeyBackup.description "इतर मशीनवर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी पुनःप्राप्ति कि आवश्यक आहे. कृपाय बॅकअप प्रत निर्माण करा. पुनःप्राप्ति किची पुनःप्राप्तिकरीता मदत करणे अशक्य आहे.">
 
-<!ENTITY button.syncKeyBackup.print.label     "छपाई (P)…">
+<!ENTITY button.syncKeyBackup.print.label     "छपाई…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "साठवा (S)…">
+<!ENTITY button.syncKeyBackup.save.label      "साठवा…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
@@ -81,21 +81,21 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "सिंक पर्याय">
-<!ENTITY syncDeviceName.label       "साधनाचे नाव (c):">
+<!ENTITY syncDeviceName.label       "साधनाचे नाव:">
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "माझे सिंक करा">
-<!ENTITY engine.bookmarks.label     "वाचनखुणा (m)">
+<!ENTITY engine.bookmarks.label     "वाचनखुणा">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "टॅब्ज (T)">
+<!ENTITY engine.tabs.label          "टॅब्ज">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "इतिहास (r)">
+<!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्डज (P)">
+<!ENTITY engine.passwords.label     "पासवर्डज">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "पसंती (s)">
+<!ENTITY engine.prefs.label         "पसंती">
 <!ENTITY engine.prefs.accesskey     "s">
-<!ENTITY engine.addons.label        "ॲडऑन्स् (A)">
+<!ENTITY engine.addons.label        "ॲडऑन्स्">
 <!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2a.merge.main.label       "ह्या साधनाची माहिती माझ्या &syncBrand.shortName.label; माहितीसह एकत्रीत करा">

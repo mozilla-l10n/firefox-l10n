@@ -7,21 +7,21 @@
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "यासाठीचे फॉन्ट (F):">
+<!ENTITY  language.label                          "यासाठीचे फॉन्ट:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "आकार:">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "प्रमाणबध्द (P):">
+<!ENTITY  proportional.label                      "प्रमाणबध्द:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ (S):">
+<!ENTITY  serif.label                             "सेरिफ:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "सँस-सेरिफ (n):">
+<!ENTITY  sans-serif.label                        "सँस-सेरिफ:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "मोनोस्पेस (M):">
+<!ENTITY  monospace.label                         "मोनोस्पेस:">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "पाश्चात्य">
@@ -57,7 +57,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाला">
 <!ENTITY  font.langGroup.tibetan                  "तिबेटन">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "किमान फॉन्ट आकार (o):">
+<!ENTITY minSize.label                            "किमान फॉन्ट आकार:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "काहिच नाही">
 <!-- default font type -->
@@ -65,10 +65,10 @@
 <!ENTITY  useDefaultFontSerif.label               "अलंकृत">
 <!ENTITY  useDefaultFontSansSerif.label           "निलंकृत">
 
-<!ENTITY  allowPagesToUse.label                   "माझ्या वरील निवड ऐवजी, पृष्ठांना स्वतःचे फॉन्ट निवडण्यास सहमती द्या (A)">
+<!ENTITY  allowPagesToUse.label                   "माझ्या वरील निवड ऐवजी, पृष्ठांना स्वतःचे फॉन्ट निवडण्यास सहमती द्या">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback.grouplabel  "लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग">
-<!ENTITY languages.customize.Fallback.label       "फॉलबॅक कॅरेक्टर एंकोडिंग (C):">
+<!ENTITY languages.customize.Fallback.label       "फॉलबॅक कॅरेक्टर एंकोडिंग:">
 <!ENTITY languages.customize.Fallback.accesskey   "C">
 <!ENTITY languages.customize.Fallback.desc        "ह्या कॅरेक्टर एंकोडिंगचा वापर लेगसि कंटेंटकरिता केला जातो जे एंकोडिंग घोषीत करण्यास अपयशी ठरते.">

@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton.label "मी सतर्क राहीन, मी असे वचन देतो!">
 <!ENTITY aboutWarningCheckbox.label "सावधानता पुढच्यावेळी दर्शवा">
 
-<!ENTITY searchPrefs.label "शोधा (r):">
+<!ENTITY searchPrefs.label "शोधा:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
@@ -27,23 +27,23 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "प्रत बनवा (C)">
+<!ENTITY copyPref.label "प्रत बनवा">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "नावाचे प्रत बनवा (N)">
+<!ENTITY copyName.label "नावाचे प्रत बनवा">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "मूल्याचे प्रत बनवा (V)">
+<!ENTITY copyValue.label "मूल्याचे प्रत बनवा">
 <!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "संपादित करा (M)">
+<!ENTITY modify.label "संपादित करा">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "बदलवा (T)">
+<!ENTITY toggle.label "बदलवा">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "मूळस्थितीत आणा (R)">
+<!ENTITY reset.label "मूळस्थितीत आणा">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "नवीन (w)">
+<!ENTITY new.label "नवीन">
 <!ENTITY new.accesskey "w">
-<!ENTITY string.label "स्ट्रिंग (S)">
+<!ENTITY string.label "स्ट्रिंग">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "इंटीजर (I)">
+<!ENTITY integer.label "इंटीजर">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "बूलियन (B)">
+<!ENTITY boolean.label "बूलियन">
 <!ENTITY boolean.accesskey "B">

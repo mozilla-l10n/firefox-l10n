@@ -9,15 +9,15 @@
 <!ENTITY importFromUnix.label           "याअधी वापरात असलेली (आवडीनिवडी,ओळखखुणा,इतिहास,कुटशब्द व इतर) माहिती इथुन घ्या:">
 <!ENTITY importFromBookmarks.label      "ओळखखुणा इथुन वाचा:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer (M)">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "काहिही आयात करू नका (D)">
+<!ENTITY importFromNothing.label        "काहिही आयात करू नका">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "Safari (S)">
+<!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromChrome.label         "Chrome (C)">
+<!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromFirefox.label        "Firefox (x)">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
 <!ENTITY noMigrationSources.label       "ओळखचिन्ह, इतिहास किंवा गुप्तशब्द विषयी माहिती देणारे कुठलेही कार्यक्रम आढळले नाही.">

@@ -5,18 +5,18 @@
 
 
 <!ENTITY findDialog.title "ह्या पानामध्ये शोधा">
-<!ENTITY findField.label "काय शोधायचे (n):">
+<!ENTITY findField.label "काय शोधायचे:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "आकार जुळवा (c)">
+<!ENTITY caseSensitiveCheckbox.label "आकार जुळवा">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "घट्ट बसवा (W)">
+<!ENTITY wrapCheckbox.label "घट्ट बसवा">
 <!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY findButton.label "पुढील शोधा (F)">
+<!ENTITY findButton.label "पुढील शोधा">
 <!ENTITY findButton.accesskey "F">
 <!ENTITY cancelButton.label "रद्द करा">
 <!ENTITY closeButton.label "बंद करा">
-<!ENTITY up.label "वर (U)">
+<!ENTITY up.label "वर">
 <!ENTITY up.accesskey "U">
-<!ENTITY down.label "खाली (D)">
+<!ENTITY down.label "खाली">
 <!ENTITY down.accesskey "D">
 <!ENTITY direction.label "दिशा">
