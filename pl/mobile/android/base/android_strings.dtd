@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
 <!ENTITY  crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
-<!ENTITY  crash_send_report_message2 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogli go rozwiązać">
+<!ENTITY  crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
 <!ENTITY  crash_include_url2 "Załącz adres strony, na której wystąpił problem">
 <!ENTITY  crash_sorry "Przykro nam">
 <!ENTITY  crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
-<!ENTITY  crash_allow_contact "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
+<!ENTITY  crash_allow_contact2 "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
 <!ENTITY  crash_email "Twój adres e-mail">
 <!ENTITY  crash_closing_alert "Chcesz wyjść bez wysłania zgłoszenia?">
 <!ENTITY  crash_close_label "Zamknij">
