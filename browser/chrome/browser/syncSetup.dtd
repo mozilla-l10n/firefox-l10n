@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 
-
+<!ENTITY setup.tosLink.label        "үйлчилгээний нөхцөл">
 
 <!ENTITY setup.ppLink.label         "Хуулийн нөхцөл">
 <!ENTITY setup.tosAgree3.label      "">
@@ -47,6 +47,8 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
+<!ENTITY pairDevice.title.label             "төхөөрөмжийг хослуулах">
+
 
 
 
@@ -62,9 +64,10 @@
 
 
 <!-- Sync Options -->
+<!ENTITY syncDeviceName.label       "төхөөрөмжийн нэр">
+<!ENTITY syncDeviceName.accesskey   "c">
 
-
-
+<!ENTITY syncMy.label               "Миний цагжуулалт">
 
 
 

@@ -21,8 +21,8 @@
 <!ENTITY useAutoScroll.accesskey         "в">
 <!ENTITY useSmoothScrolling.label        "Хуудсанд зөөлөн гулгуур хэрэглэ">
 <!ENTITY useSmoothScrolling.accesskey    "с">
-
-
+<!ENTITY allowHWAccel.label              "Хэрэв боломжтой бол техник хангамжын хурдасгуурыг ашиглах">
+<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
