@@ -28,10 +28,10 @@
   -  group in the options panel which trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh2  "Kun nuværende session, genindlæser siden">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label    "Slå chrome-debugging til">
+<!ENTITY options.enableChrome.label3    "Slå chrome-debugging til">
 <!ENTITY options.enableChrome.tooltip  "Gør dig i stand til at bruge diverse udviklerværktøjer i en browser-kontekst">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
