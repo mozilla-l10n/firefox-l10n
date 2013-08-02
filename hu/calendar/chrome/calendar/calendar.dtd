@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Hibakód:">
 <!ENTITY calendar.error.description "Leírás:">
 <!ENTITY calendar.error.title "Hiba történt">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Felvétel eseményként">
+<!ENTITY calendar.extract.task.button          "Felvétel feladatként">
+<!ENTITY calendar.extract.event.button.tooltip "Naptár-információk kinyerése az üzenetből, és azok felvétele a naptárba eseményként">
+<!ENTITY calendar.extract.task.button.tooltip  "Naptár-információk kinyerése az üzenetből, és azok felvétele a naptárba feladatként">

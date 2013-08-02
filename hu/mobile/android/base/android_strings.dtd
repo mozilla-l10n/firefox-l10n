@@ -14,13 +14,13 @@
 <!ENTITY  awesomebar_history_title "Előzmény">
 <!ENTITY  awesomebar_switch_to_tab "Váltás erre a lapra">
 
-<!ENTITY  crash_reporter_title "&brandShortName; hibabejelentő">
+<!ENTITY  crash_reporter_title "&brandShortName; hibajelentő">
 <!ENTITY  crash_message2 "A &brandShortName; egy hiba miatt összeomlott. Újraindításkor a &brandShortName;-kezdőlapon lesznek felsorolva a nyitva lévő böngészőlapok.">
-<!ENTITY  crash_send_report_message2 "Értesítse a Mozillát, hogy kijavíthassák a hibát">
+<!ENTITY  crash_send_report_message3 "Értesítse a &vendorShortName;t, hogy kijavíthassák a hibát">
 <!ENTITY  crash_include_url2 "A meglátogatott oldal címének csatolása">
 <!ENTITY  crash_sorry "Elnézést">
 <!ENTITY  crash_comment "Hozzászólás (a hozzászólások nyilvánosak)">
-<!ENTITY  crash_allow_contact "A Mozilla megkereshet a hibajelentéssel kapcsolatban">
+<!ENTITY  crash_allow_contact2 "A &vendorShortName; megkereshet a hibajelentéssel kapcsolatban">
 <!ENTITY  crash_email "E-mail címe">
 <!ENTITY  crash_closing_alert "Kilép hibajelentés küldése nélkül?">
 <!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
+<!ENTITY bookmark_options "Beállítások">
 
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
-<!ENTITY pref_reflow_on_zoom2 "Csippentsen a szöveg újratördeléséhez">
+<!ENTITY pref_reflow_on_zoom3 "Két koppintás az újratördeléshez">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Letöltött fájlok">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
+<!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_action "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_summary "A program javítása érdekében a &brandShortName; automatikusan információkat küld a &vendorShortName;-nak.">
 <!ENTITY datareporting_notification_summary_short "A program javítása érdekében a ">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; állapotjelentés">
-<!ENTITY datareporting_fhr_summary "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
+<!ENTITY datareporting_fhr_summary2 "Adatokat oszt meg a &vendorShortName;val a böngésző állapotáról, és segít megérteni a böngésző teljesítményét">
+<!ENTITY datareporting_abouthr_title "Állapotjelentés megjelenítése">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
 <!ENTITY datareporting_crashreporter_summary "A &brandShortName; összeomlás-jelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse a böngészőjét">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; összeomlás-bejelentő">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Összeomlás-jelentő">
+<!ENTITY datareporting_wifi_title "&vendorShortName; földrajzihely-szolgáltatások">
+<!ENTITY datareporting_wifi_summary "Segítsen javítani a nyílt web földrajzi hellyel kapcsolatos szolgáltatásait a névtelen mobiltorony-adatok gyűjtésének és küldésének megengedésével a &brandShortName; számára">
 
 <!ENTITY pref_update_autodownload "Automatikus frissítések">
 <!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Működtetője:">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Ez az oldal nem biztonságos tartalmat jelenít meg.">
+<!ENTITY blocked_mixed_content_message_top "A &brandShortName; nem biztonságos tartalmat blokkolt.">
+<!ENTITY blocked_mixed_content_message_bottom "A legtöbb weboldal ezen tartalom blokkolása után is megfelelően fog működni.">
+<!ENTITY learn_more "További információ">
+<!ENTITY enable_protection "Védelem be">
+<!ENTITY disable_protection "Védelem ki">
+<!ENTITY keep_blocking "Blokkolás fenntartása">
 
 <!ENTITY private_data_success "A privát adatok törölve">
 <!ENTITY private_data_fail "Egyes privát adatok nem törölhetők">

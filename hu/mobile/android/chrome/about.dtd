@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A &brandShortName; névjegye">
 <!ENTITY aboutPage.warningVersion               "A &brandShortName; kísérleti és esetleg instabil.">
-<!ENTITY aboutPage.telemetryStart               " Automatikusan adatokat küld a teljesítményről, hardverről, felhasználásról és az egyéni beállításokról a ">
+<!ENTITY aboutPage.telemetryStart               "Automatikusan adatokat küld a teljesítményről, hardverről, felhasználásról és az egyéni beállításokról a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;nak,">
 <!ENTITY aboutPage.telemetryEnd                 " hogy a &brandShortName; jobb lehessen.">
 <!ENTITY aboutPage.checkForUpdates.link         "Frissítések keresése »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Frissítések keresése…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nem találhatók frissítések">
-<!ENTITY aboutPage.checkForUpdates.available    "Frissítés érhető el; kattintson a letöltéshez">
+<!ENTITY aboutPage.checkForUpdates.available2   "Frissítés letöltése">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Frissítés letöltése…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Frissítés letöltve; kattintson a telepítéshez">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Frissítés telepítése">
 <!ENTITY aboutPage.faq.label                    "GYIK">
 <!ENTITY aboutPage.support.label                "Támogatás">
 <!ENTITY aboutPage.privacyPolicy.label          "Adatvédelmi irányelvek">
