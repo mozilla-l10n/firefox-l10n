@@ -71,6 +71,9 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataalternativ">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
+<!ENTITY pref_category_devtools "Utvecklarverktyg">
+<!ENTITY pref_developer_remotedebugging "Fjärravlusning">
+<!ENTITY pref_developer_remotedebugging_docs "Läs mer">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -93,6 +96,7 @@
 <!ENTITY pref_header_privacy_short "Integritet">
 <!ENTITY pref_header_help "Hjälp">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Utvecklarverktyg">
 
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverade">
@@ -338,6 +342,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "App">
 
 <!ENTITY searchable_description "Bokmärken och historik">
+
+<!ENTITY devtools_remote_debugging_forward "Glöm inte att ställa in vidarebefordring av port!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
