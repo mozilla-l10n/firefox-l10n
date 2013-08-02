@@ -90,7 +90,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "U">
 <!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
 <!ENTITY cmd.disableTheme.accesskey           "u">
-
+<!ENTITY cmd.askToActivate.label              "Preguntar para activar">
 
 
 
