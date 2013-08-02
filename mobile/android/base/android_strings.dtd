@@ -57,6 +57,9 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Condivisione dati">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
+<!ENTITY pref_category_devtools "Strumenti per sviluppatori">
+<!ENTITY pref_developer_remotedebugging "Debug remoto">
+<!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
 <!ENTITY pref_category_general "Generale">
 <!ENTITY pref_category_privacy "Privacy e sicurezza">
 <!ENTITY pref_category_content "Contenuti">
@@ -69,6 +72,7 @@
 <!ENTITY pref_header_privacy_short "Privacy">
 <!ENTITY pref_header_help "Aiuto">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Strumenti per sviluppatori">
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
@@ -233,6 +237,7 @@
 <!ENTITY suggestions_prompt2 "Attivare i suggerimenti di ricerca per &formatS;?">
 <!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
+<!ENTITY devtools_remote_debugging_forward "Ricordarsi di attivare l’inoltro alla porta (port forwarding).">
 <!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
 <!ENTITY updater_start_select2 "Tocca per scaricare">
 <!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
