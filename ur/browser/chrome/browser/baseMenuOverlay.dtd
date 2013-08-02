@@ -8,17 +8,17 @@
 <!ENTITY zoomWindow.label         "زوم">
 <!ENTITY windowMenu.label         "دریچہ">
 
-<!ENTITY helpMenu.label           "مدد"> 
-<!ENTITY helpMenu.accesskey       "م"> 
+<!ENTITY helpMenu.label           "ہدایات"> 
+<!ENTITY helpMenu.accesskey       "ہ"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "مدد"> 
-<!ENTITY helpMenuWin.accesskey    "م">
+<!ENTITY helpMenuWin.label        "ہدایات"> 
+<!ENTITY helpMenuWin.accesskey    "ہ">
 <!ENTITY aboutProduct.label       "&brandShortName; کے متعلق">
 <!ENTITY aboutProduct.accesskey   "م">
 <!ENTITY productHelp.label        "&brandShortName; مدد">
 <!ENTITY productHelp.accesskey    "م">
-<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpMac.commandkey       "؟">
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
 

@@ -20,7 +20,7 @@
 <!ENTITY aboutSupport.appBasicsVersion "ورژن">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "تازہ کاری تاریخ دکھائیں">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "پروفائل ڈائریکٹری">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
