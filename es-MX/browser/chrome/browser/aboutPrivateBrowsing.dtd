@@ -17,5 +17,5 @@
 <!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">
 <!ENTITY privatebrowsingpage.howToStop3                "To stop Private Browsing, you can close this window.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Aunque no se guardará tu historial de navegación en esta computadora, tu proveedor de servicios de Internet y/o el personal de la organización donde trabajas aún pueden rastrear las páginas que hayas visitado.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Aunque no se guardará tu historial de navegación en este equipo, tu proveedor de servicios de Internet o el personal de la organización donde trabajas aún pueden rastrear las páginas que visites.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saber más">

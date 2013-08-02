@@ -22,6 +22,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Es fácil personalizar tu Firefox exactamente como tú quieras. <a>Elige entre miles de complementos</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; es software libre y abierto de la Fundación Mozilla sin fines de lucro. <a>Conoce tus derechos…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcadores">
 <!ENTITY abouthome.historyButton.label   "Historial">

@@ -68,7 +68,7 @@
 <!ENTITY pairDevice.dialog.description.label "To activate your new device, select &quot;Set Up Sync&quot; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingresa el código que el dispositivo proporciona:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, intenta de nuevo.">
-<!ENTITY addDevice.dialog.successful.label  "El dispositivo ha sido agregado con éxito. La sincronización inicial puede tardar varios minutos y terminará en segundo plano.">
+<!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado con éxito. La sincronización inicial puede tardar varios minutos y terminará en segundo plano.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Para activar tu dispositivo, necesitarás introducir tu clave de recuperación. Por favor imprime o guarda esta clave y mantenla contigo.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 <!-- Existing Account Page 2: Manual Login -->
