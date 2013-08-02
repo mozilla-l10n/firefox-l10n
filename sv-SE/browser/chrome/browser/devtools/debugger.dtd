@@ -88,8 +88,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchLine          "Gå till rad…">
-<!ENTITY debuggerUI.searchLine.key      "G">
+<!ENTITY debuggerUI.searchGoToLine      "Gå till rad…">
+<!ENTITY debuggerUI.searchGoToLine.key  "G">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
