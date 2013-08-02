@@ -71,6 +71,9 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Données collectées">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
+<!ENTITY pref_category_devtools "Outils de développement">
+<!ENTITY pref_developer_remotedebugging "Débogage distant">
+<!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
 
 <!-- collected old strings - remove after determining final strings
      as part of Bug 877791 -->
@@ -93,6 +96,7 @@
 <!ENTITY pref_header_privacy_short "Vie privée">
 <!ENTITY pref_header_help "Aide">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Outils de développement">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Autorisés">
@@ -335,6 +339,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Application">
 
 <!ENTITY searchable_description "Marque-pages et historique">
+
+<!ENTITY devtools_remote_debugging_forward "N\u0027oubliez pas de configurer la redirection de port !">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Mise à jour de &brandShortName; disponible">
