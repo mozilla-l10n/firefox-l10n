@@ -73,7 +73,7 @@
 <!ENTITY escrowWarn.message1 "গুৰুত্বপূৰ্ণ: এই প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষই আপোনাৰ এনক্ৰিপছন ব্যক্তিগত কি'ৰ বেক-আপ বনাবলৈ কৈছে।">
 <!ENTITY escrowWarn.benefit1 "সুবিধা এইটো যে আপুনি এনক্ৰিপছন ব্যক্তিগত কি' হেৰালে, এই প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষৰ পৰা বিচাৰিব পাৰে।">
 <!ENTITY escrowWarn.message2 "কিন্তু, আপোনাৰ এনক্ৰিপছন ব্যক্তিগত কি'ক প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষই ৰক্ষা কৰিব, আৰু আপোনাৰ ই-মেইল বা নথি আপোনাৰ অনুমতি নোহোৱাকে পঢ়িবলৈ ব্যৱহাৰ হ'বও পাৰে।">
-<!ENTITY examineCert.label "প্ৰমাণপত্ৰ চাওক (V)">
+<!ENTITY examineCert.label "প্ৰমাণপত্ৰ চাওক">
 <!ENTITY examineCert.accesskey "V">
 <!-- Strings for the CreateCertInfo dialog  -->
 
