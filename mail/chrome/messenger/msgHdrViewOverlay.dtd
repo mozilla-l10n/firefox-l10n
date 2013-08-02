@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Címzett ">
-<!ENTITY fromField3.label "Feladó">
-<!ENTITY senderField3.label "Küldő ">
-<!ENTITY organizationField3.label "Szervezet">
-<!ENTITY replyToField3.label "Válaszcím ">
+<!ENTITY toField4.label "Címzett">
+<!ENTITY fromField4.label "Feladó">
+<!ENTITY senderField4.label "Küldő">
+<!ENTITY organizationField4.label "Szervezet">
+<!ENTITY replyToField4.label "Válaszcím">
 
-<!ENTITY subjectField3.label "Tárgy">
-<!ENTITY ccField3.label "Másolat ">
-<!ENTITY bccField3.label "Rejtett másolat ">
-<!ENTITY newsgroupsField3.label "Hírcsoportok">
-<!ENTITY followupToField3.label "Hírcsop. vál. ">
-<!ENTITY tagsHdr3.label "Címkék">
-<!ENTITY dateField3.label "Dátum">
-<!ENTITY userAgentField3.label "Ügyfélprogram ">
-<!ENTITY referencesField3.label "Hivatkozások">
-<!ENTITY messageIdField3.label "Üzenetazonosító ">
-<!ENTITY inReplyToField3.label "Válasz erre ">
-<!ENTITY originalWebsite3.label "Webhely ">
+<!ENTITY subjectField4.label "Tárgy">
+<!ENTITY ccField4.label "Másolat">
+<!ENTITY bccField4.label "Rejtett másolat">
+<!ENTITY newsgroupsField4.label "Hírcsoportok">
+<!ENTITY followupToField4.label "Hírcsop. vál.">
+<!ENTITY tagsHdr4.label "Címkék">
+<!ENTITY dateField4.label "Dátum">
+<!ENTITY userAgentField4.label "Ügyfélprogram">
+<!ENTITY referencesField4.label "Hivatkozások">
+<!ENTITY messageIdField4.label "Üzenetazonosító">
+<!ENTITY inReplyToField4.label "Válasz erre">
+<!ENTITY originalWebsite4.label "Webhely">
 
 <!ENTITY editMessageDescription.label "Ez egy piszkozat">
 <!ENTITY editMessageButton.label "Szerkesztés…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Válasz a levelezőlistára">
 <!ENTITY hdrFollowupButton1.label "Válasz">
 <!ENTITY hdrFollowupButton1.tooltip "Válasz küldése ebbe a hírcsoportba">
+<!ENTITY hdrMenuForwardButton.label "Továbbítás módja">
 <!ENTITY hdrForwardButton1.label "Továbbítás">
 <!ENTITY hdrForwardButton1.tooltip "Az üzenet továbbküldése">
 <!ENTITY hdrJunkButton1.label "Szemét">
