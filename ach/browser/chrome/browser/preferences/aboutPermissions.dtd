@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Peny kare ducu">
 <!ENTITY permission.allow                "Yee">
 <!ENTITY permission.allowForSession      "Yee pi kare">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
+
 <!ENTITY permission.block                "Geng">
 
 <!ENTITY password.label                  "Kan mung">

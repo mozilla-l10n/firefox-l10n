@@ -18,6 +18,9 @@ coyo ne me cobo peko. Ka ce itye kamoyo pi lagam me lapeny mangene ikom
 <!ENTITY aboutSupport.appBasicsTitle "Tic mapire tego">
 <!ENTITY aboutSupport.appBasicsName "Nying">
 <!ENTITY aboutSupport.appBasicsVersion "Cik">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Lacim me Ngec ikome">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -45,8 +48,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Welle">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.graphicsTitle "Cal">
 
@@ -54,13 +55,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "GC ma kimedo">
 
 <!ENTITY aboutSupport.a11yTitle "Kite me nongo">
-<!ENTITY aboutSupport.a11yActivated "Activated">
+
 <!ENTITY aboutSupport.a11yForceDisabled "Geng Donyo iye">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Cik pa kagwoko jami">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Stori mo Kato">
-<!ENTITY aboutSupport.updateHistoryTitle "Ngec manyen pi en Mukato">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+
+

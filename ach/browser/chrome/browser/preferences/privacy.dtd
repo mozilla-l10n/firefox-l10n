@@ -4,12 +4,11 @@
 
 <!ENTITY tracking.label                 "Ngiyo">
 
-<!ENTITY dntTrackingNopref.label        "Do not tell sites anything about my tracking preferences.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Tell sites that I do not want to be tracked.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Tell sites that I want to be tracked.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
+
+
+
+
+
 <!ENTITY doNotTrackInfo.label           "Nong ngec Mapol">
 
 <!ENTITY  history.label                 "Lok macon">
@@ -27,11 +26,10 @@
 <!ENTITY  acceptCookies.label           "Yee jami ma i kakube mukene">
 <!ENTITY  acceptCookies.accesskey       "j">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
+
+
 <!ENTITY  acceptThirdParty.never.label    "Pe">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
 
 <!ENTITY  keepUntil.label               "Gwok naka wang ma i:">
 <!ENTITY  keepUntil.accesskey           "G">

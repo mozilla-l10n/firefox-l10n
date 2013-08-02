@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tabs.otherDevices.label): Keep this in sync with syncTabsMenu2.label from browser.dtd -->
 
-<!ENTITY tabs.otherDevices.label               "Tabs From Other Devices">
-
 <!ENTITY tabs.searchText.label                   "Co kany me nongo lanyik…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->

@@ -45,10 +45,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Cik">
 <!ENTITY downloadCert.viewCert.text "Pim waraga me CA">
 <!ENTITY downloadCert.viewPolicy.text "Pim cik ki kore me CA">
-<!-- Certificate Exists in database -->
-
-<!ENTITY caCertExists.title "Waraga Tye">
-<!ENTITY caCertExists.message "Waraga dong bene dong tye.">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Kwac me Nyutu Latic kwede">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "Kadi kono amiyo, lagony me coc pa dano mamegi bi gwoke ki twero me waraga, ki romo tic kwede me kwano email mamegi ma kicono labongo twero ni.">
 <!ENTITY examineCert.label "Nen Waraga">
 <!ENTITY examineCert.accesskey "N">
-
-<!ENTITY serverCrlNextupdate.message "Tim ber i peny lalo kite me tic pi kony">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kelo Lagony pa dano">
