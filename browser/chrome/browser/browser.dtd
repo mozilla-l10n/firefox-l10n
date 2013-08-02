@@ -23,7 +23,8 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-
+<!ENTITY  closeTabsToTheEnd.label            "Đóng các thẻ ở bên phải">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Đóng Các Thẻ Khác">
 <!ENTITY  closeOtherTabs.accesskey           "K">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -221,8 +222,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Chế độ dòng lệnh Web từ xa">
 
-
-
+<!ENTITY browserConsoleCmd.label      "Dòng lệnh của trình duyệt (B)">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
 <!ENTITY inspectContextMenu.label     "Thăm dò Phân tử">
 <!ENTITY inspectContextMenu.accesskey "T">
@@ -247,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "Trình gỡ rối">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh Phát triển">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ Phát triển">
@@ -652,8 +656,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "Các dịch vụ từ <label/> đã được bật. Bạn có thể thay đổi tùy chọn của mình đối với các dịch vụ trong <label class='text-link'>Quản lý Add-on</label>.">
-
-
+<!ENTITY social.activated.undo.label "Ôi, hoàn lại việc này!">
+<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Tìm hiểu thêm... (L)">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Không phải bây giờ">
@@ -679,7 +683,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pointerLock.notification.message "Ấn ESC vào bất kỳ lúc nào để hiển thị lần nữa.">
 
-
+<!ENTITY pluginNotification.showAll.label "Hiện tất cả (S)">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginActivateNow.label "Chỉ cho phép bây giờ">
+<!ENTITY pluginActivateAlways.label "Cho phép và ghi nhớ">
+<!ENTITY pluginBlockNow.label "Chặn plugin">
