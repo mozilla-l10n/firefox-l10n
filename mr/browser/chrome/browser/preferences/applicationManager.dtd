@@ -4,5 +4,5 @@
 
 <!ENTITY appManager.title     "ॲप्लिकेशन तपशील">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "काढून टाका (R)">
+<!ENTITY remove.label         "काढून टाका">
 <!ENTITY remove.accesskey     "R">

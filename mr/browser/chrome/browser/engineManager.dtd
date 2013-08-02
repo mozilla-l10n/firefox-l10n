@@ -10,20 +10,20 @@
 <!ENTITY  columnLabel.keyword       "मुख्यशब्द">
 <!-- Buttons -->
 
-<!ENTITY  up.label                  "वर हलवा (U)">
+<!ENTITY  up.label                  "वर हलवा">
 <!ENTITY  up.accesskey              "U">
-<!ENTITY  dn.label                  "खाली हलवा (D)">
+<!ENTITY  dn.label                  "खाली हलवा">
 <!ENTITY  dn.accesskey              "D">
-<!ENTITY  remove.label              "काढून टाका (R)">
+<!ENTITY  remove.label              "काढून टाका">
 <!ENTITY  remove.accesskey          "R">
-<!ENTITY  edit.label                "मुख्यशब्द संपादित करा (t)…">
+<!ENTITY  edit.label                "मुख्यशब्द संपादित करा…">
 <!ENTITY  edit.accesskey            "t">
 
-<!ENTITY  addEngine.label           "आणखी सर्च इंजिन्स प्राप्त करा (a)…">
+<!ENTITY  addEngine.label           "आणखी सर्च इंजिन्स प्राप्त करा…">
 <!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY  enableSuggest.label       "शोध सूचना दाखवा (S)">
+<!ENTITY  enableSuggest.label       "शोध सूचना दाखवा">
 <!ENTITY  enableSuggest.accesskey   "S">
 
-<!ENTITY  restoreDefaults.label     "पूर्वनिर्धारित पुनःस्थापीत करा (e)">
+<!ENTITY  restoreDefaults.label     "पूर्वनिर्धारित पुनःस्थापीत करा">
 <!ENTITY  restoreDefaults.accesskey "e">

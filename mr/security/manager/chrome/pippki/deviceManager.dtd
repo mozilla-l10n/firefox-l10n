@@ -14,17 +14,17 @@
 <!ENTITY devmgr.status.label                    "स्थिती">
 <!ENTITY devmgr.version.label                   "आवृत्ती">
 
-<!ENTITY devmgr.button.changeslotname.label     "स्लॉटचे नाव बदलवा (C)">
+<!ENTITY devmgr.button.changeslotname.label     "स्लॉटचे नाव बदलवा">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label              "प्रवेश करा (n)">
+<!ENTITY devmgr.button.login.label              "प्रवेश करा">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "बाहेर पडा (O)">
+<!ENTITY devmgr.button.logout.label             "बाहेर पडा">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "पासवर्ड बदलवा (P)">
+<!ENTITY devmgr.button.changepw.label           "पासवर्ड बदलवा">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
-<!ENTITY devmgr.button.load.label               "लोड करा (L)">
+<!ENTITY devmgr.button.load.label               "लोड करा">
 <!ENTITY devmgr.button.load.accesskey           "L">
-<!ENTITY devmgr.button.unload.label             "लोड अशक्य (U)">
+<!ENTITY devmgr.button.unload.label             "लोड अशक्य">
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 

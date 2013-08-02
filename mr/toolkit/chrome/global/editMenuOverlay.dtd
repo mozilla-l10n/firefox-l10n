@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "संपादित करा (E)">
+<!ENTITY editMenu.label            "संपादित करा">
 <!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "पूर्ववत् करा (U)">
+<!ENTITY undoCmd.label             "पूर्ववत् करा">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "पुन्हा करा (R)">
+<!ENTITY redoCmd.label             "पुन्हा करा">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "R">
-<!ENTITY cutCmd.label              "कापा (t)">
+<!ENTITY cutCmd.label              "कापा">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "प्रत बनवा (C)">
+<!ENTITY copyCmd.label             "प्रत बनवा">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "चिटकवा (P)">
+<!ENTITY pasteCmd.label            "चिटकवा">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "काढुन टाका (D)">
+<!ENTITY deleteCmd.label           "काढुन टाका">
 <!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "सर्व निवडा (A)">
+<!ENTITY selectAllCmd.label        "सर्व निवडा">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
-<!ENTITY findCmd.label             "शोधा (F)">
+<!ENTITY findCmd.label             "शोधा">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
-<!ENTITY findAgainCmd.label        "पुन्हा शोधा (g)">
+<!ENTITY findAgainCmd.label        "पुन्हा शोधा">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "मागील शोधा (v)">
+<!ENTITY findPreviousCmd.label     "मागील शोधा">
 <!ENTITY findPreviousCmd.accesskey "v">

@@ -8,7 +8,7 @@
 <!ENTITY  offline.description             "आपल्या ऍड-ऑन करीता उपलब्ध अद्ययावतास आवृत्ती सहत्व करण्याकरिता 
 &brandShortName; ला 
 ऑनलाईन जाणे गरजेचे आहे.">
-<!ENTITY  offline.toggleOffline.label     "आत्ता ऑनलाईन जा (G).">
+<!ENTITY  offline.toggleOffline.label     "आत्ता ऑनलाईन जा.">
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "असहत्व ऍड-ऑन">
@@ -25,7 +25,7 @@
 <!ENTITY  found.top.label                 "आपल्याला प्रतिष्ठापन करण्याकरीता ऍड-ऑन निवडा:">
 <!ENTITY  found.disabledXPinstall.label   "हे अद्ययावत प्रतिष्ठापीत होऊ शकले नाही कारण 
 सॉफ्टवेअर प्रतिष्ठापन सद्या अकार्यान्वीत आहे. तुम्ही ही रचना खालिल प्रमाणे बदलवू शकता.">
-<!ENTITY  found.enableXPInstall.label     "सॉफ्टवेअर इंस्टॉल करण्यासाठी संकेतस्थळांना परवानगी द्या (A)">
+<!ENTITY  found.enableXPInstall.label     "सॉफ्टवेअर इंस्टॉल करण्यासाठी संकेतस्थळांना परवानगी द्या">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "सहत्व ऍड-ऑन प्रतिष्ठापीत करत आहे">

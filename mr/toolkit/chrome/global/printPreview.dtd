@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "छपाई (P)…">
+<!ENTITY print.label          "छपाई…">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "पृष्ठाची मांडणी (u)…">
+<!ENTITY pageSetup.label      "पृष्ठाची मांडणी…">
 <!ENTITY pageSetup.accesskey  "u">
-<!ENTITY page.label           "पृष्ठ (s):">
+<!ENTITY page.label           "पृष्ठ:">
 <!ENTITY page.accesskey       "s">
 <!ENTITY of.label             "याचे">
-<!ENTITY scale.label          "प्रमाण (S):">
+<!ENTITY scale.label          "प्रमाण:">
 <!ENTITY scale.accesskey      "S">
-<!ENTITY portrait.label       "उभे (o)">
+<!ENTITY portrait.label       "उभे">
 <!ENTITY portrait.accesskey   "o">
-<!ENTITY landscape.label      "आडवे (L)">
+<!ENTITY landscape.label      "आडवे">
 <!ENTITY landscape.accesskey  "L">
-<!ENTITY close.label          "बंद करा (C)">
+<!ENTITY close.label          "बंद करा">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
