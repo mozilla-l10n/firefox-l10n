@@ -6,7 +6,7 @@
 
 
 <!ENTITY title "Phông">
-
-
-
-
+<!ENTITY showAllFonts "Xem tất cả các font chữ đã được sử dụng trong trang">
+<!ENTITY usedAs "Sử dụng như:">
+<!ENTITY system "hệ thống">
+<!ENTITY remote "từ xa">
