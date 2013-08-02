@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-
+<!ENTITY setupButton.label          "Бүтэн нэрээр тохируулах">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "Бүтэн нэрээр тохируулах ; Бүх төрлийн төхөөрөмжүүд дээр түүх , тэмдэглэл , нууц дугаарыг үзэх эрхийг олгох">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 <!ENTITY resetPass.label              "Сэргээ">
@@ -14,9 +16,11 @@
 <!ENTITY viewQuota.label              "Тогтоогдсон хэмжээг үзэх">
 
 <!ENTITY myRecoveryKey.label          "Миний буцааж сэргээх түлхүүр">
+<!ENTITY resetSync2.label             "Цагжуулалтыг шинэчлэх">
 
+<!ENTITY pairDevice.label             "төхөөрөмжийг хослуулах">
 
-
+<!ENTITY syncMy.label               "Миний цагжуулалт">
 
 
 
@@ -31,6 +35,10 @@
 <!ENTITY engine.addons.accesskey    "Н">
 <!-- Device Settings -->
 
-
+<!ENTITY syncDeviceName.label       "төхөөрөмжийн нэр">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "энэ төхөөрөмжийн холболтыг салгах">
 <!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "үйлчилгээний нөхцөл">
 <!ENTITY prefs.ppLink.label         "Хуулийн нөхцөл">
