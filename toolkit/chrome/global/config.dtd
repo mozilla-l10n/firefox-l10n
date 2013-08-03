@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Soek:">
 <!ENTITY searchPrefs.accesskey "o">
-<!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Voorkeurnaam">
