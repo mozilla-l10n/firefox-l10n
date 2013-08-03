@@ -4,8 +4,7 @@
 
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
-<!ENTITY recipientsColumn.label "Destinatários">
-<!ENTITY toColumn.label "Para">
+<!ENTITY recipientColumn.label "Destinatário">
 <!ENTITY attachmentColumn.label "Anexos">
 <!ENTITY subjectColumn.label "Assunto">
 <!ENTITY dateColumn.label "Data">
@@ -27,8 +26,7 @@
 <!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
 <!ENTITY threadColumn.tooltip "Clique para mostrar os tópicos da mensagem"> 
 <!ENTITY fromColumn.tooltip "Clique para ordenar por de">
-<!ENTITY recipientsColumn.tooltip "Clique para ordenar por destinatário">
-<!ENTITY toColumn.tooltip "Clique para ordenar por para">
+<!ENTITY recipientColumn.tooltip "Clique para ordenar por destinatário">
 <!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar por Assunto">
 <!ENTITY dateColumn.tooltip "Clique para ordenar por data ">
