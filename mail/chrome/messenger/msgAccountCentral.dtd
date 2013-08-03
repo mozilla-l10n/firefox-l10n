@@ -9,10 +9,17 @@
 <!ENTITY newsSectionHdr.label         "Interesne grupe"> 
 <!ENTITY subscribeNewsLink.label      "Upravljanje pretplatama na interesne grupe"> 
 
+<!ENTITY feedsSectionHdr.label        "Kanali">
+<!ENTITY subscribeFeeds.label         "Upravljanje pretplatama">
+
+<!ENTITY chat.label                   "Razgovor">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Računi"> 
 <!ENTITY subscribeImapFolders.label   "Upravljanje pretplatama na mape">
 <!ENTITY settingsLink.label           "Prikaži postavke za ovaj račun"> 
 <!ENTITY newAcctLink.label            "Stvori novi račun"> 
+<!ENTITY newAcct.label                "Stvori novi račun:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Napredne mogućnosti"> 
 <!ENTITY searchMsgsLink.label         "Pretraži poruke"> 
@@ -20,5 +27,3 @@
 <!ENTITY junkSettings.label           "Postavke neželjene pošte">
 <!ENTITY offlineLink.label            "Izvanmrežne postavke">
 
-<!ENTITY feedsSectionHdr.label        "Kanali">
-<!ENTITY subscribeFeeds.label         "Upravljanje pretplatama">
