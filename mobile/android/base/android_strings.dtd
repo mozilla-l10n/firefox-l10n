@@ -50,8 +50,9 @@
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
+<!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_customize "Personalizzazione">
-<!ENTITY pref_category_search "Ricerca">
+<!ENTITY pref_category_search2 "Impostazioni ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -60,12 +61,6 @@
 <!ENTITY pref_category_devtools "Strumenti per sviluppatori">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
-<!ENTITY pref_category_general "Generale">
-<!ENTITY pref_category_privacy "Privacy e sicurezza">
-<!ENTITY pref_category_content "Contenuti">
-<!ENTITY pref_header_general "Generale">
-<!ENTITY pref_header_privacy "Privacy e sicurezza">
-<!ENTITY pref_header_content "Contenuti">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_header_customize "Personalizzazione">
 <!ENTITY pref_header_display "Visualizzazione">
@@ -90,8 +85,11 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_reflow_on_zoom3 "Doppio tocco per ridisegnare il testo">
-<!ENTITY pref_restore_session "Ripristina sempre le schede">
+<!ENTITY pref_reflow_on_zoom4 "Adattamento del testo">
+<!ENTITY pref_restore "Schede">
+<!ENTITY pref_restore_always "Ripristina sempre">
+<!ENTITY pref_restore_crash "Ripristina dopo un blocco">
+<!ENTITY pref_restore_never "Non ripristinare mai">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
 <!ENTITY pref_font_size_medium "Medio">
