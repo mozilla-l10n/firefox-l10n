@@ -1,0 +1,171 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Falha no carregamento da página">
+<!ENTITY retry.label "Tentar de novo">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Não é possível ligar">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Endereço restrito">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Servidor não encontrado">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Verifique se há erros de escrita no endereço. Como
+    <strong>ww</strong>.example.com em vez de
+    <strong>www</strong>.example.com</li>
+  <li>Se você não consegue abrir nenhuma página, verifique a ligação de dados ou Wi-Fi do seu aparelho.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Ficheiro não encontrado">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Verifique se o nome do ficheiro possui erros de digitação, como uma letra maiúscula em vez de minúscula.</li>
+  <li>Verifique se o ficheiro foi movido, renomeado ou eliminado.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>O &brandShortName; não consegue carregar esta página.</p>
+">
+
+<!ENTITY malformedURI.title "Endereço inválido">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Endereços web são geralmente escritos na forma
+    <strong>http://www.example.com/</strong></li>
+  <li>Certifique-se de que não está a usar barras invertidas 
+    (ou seja, <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Ligação interrompida">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Documento fora de validade">
+<!ENTITY notCached.longDesc "<p>O documento solicitado já não está na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em Tentar de novo para solicitar mais uma vez o documento do sítio.</li></ul>">
+
+<!ENTITY netOffline.title "Modo desligado">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Tente de novo. O &brandShortName; vai abrir uma ligação e recarregar a página.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Por favor, contate os responsáveis do sítio para informá-los deste problema.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Por favor, contate os responsáveis pelo sítio para informá-los deste problema.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Ligação reiniciada">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Tempo limite atingido">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "Endereço não compreendido">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li>
+  <li>Contate seu administrador de rede para certificar-se de que o servidor proxy esteja funcionando.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Servidor proxy não encontrado">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Verifique as configurações de proxy para certificar-se de que estejam corretas.</li>
+  <li>Certifique-se de que a conexão de dados ou Wi-Fi do seu aparelho esteja funcionando.</li>
+</ul>">
+
+<!ENTITY redirectLoop.title "Redirecionamento incorreto">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Este problema algumas vezes pode ser causado pela desativação ou bloqueio de cookies.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Resposta não prevista do servidor">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Certifique-se de que o seu sistema possui o Personal Security Manager instalado.</li>
+  <li>Isto pode ser devido a uma configuração não padrão do servidor.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Falha na ligação segura">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>A página que você está a tentar abrir não pode ser exibida porque a autenticidade dos dados recebidos não pôde ser comprovada.</li>
+  <li>Por favor, contate os responsáveis pelo sítio para informá-los sobre este problema. Também pode usar o comando localizado no menu Ajuda para reportar o sítio como incompatível.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Falha na ligação segura">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Pode ser um problema com a configuração do servidor ou pode ser alguém
+tentando se passar por ele.</li>
+  <li>Se você já conectou-se com êxito a este servidor, o erro pode ser temporário e você pode tentar de novo mais tarde.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>Este sítio pode estar temporariamente indisponível ou sobrecarregado. Tente de novo em alguns instantes.</li>
+  <li>Se você não consegue carregar nenhuma página, verifique a ligação de dados ou Wi-Fi do seu aparelho.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
+
+<!ENTITY corruptedContentError.title "Conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar abrir não pôde ser apresentada porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo sítio para informá-los deste problema.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
+<!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>Não deve adicionar uma exceção se estiver a usar uma ligação à internet em que não confie totalmente ou se não costumava ver um alerta para este servidor.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo sítio para informá-los deste problema.</li></ul></p>">
+
