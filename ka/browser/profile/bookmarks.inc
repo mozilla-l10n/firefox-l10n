@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description დაამატეთ სანიშნეები ამ დასტაში მათი სანიშნეების პულტზე საჩვენებლად
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://www.mozilla.com/ka/firefox/central/
+# link title for https://www.mozilla.org/ka/firefox/central/
 #define getting_started პირველი ნაბიჯები
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -22,19 +22,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://www.mozilla.com/ka/firefox/help/
+# link title for https://www.mozilla.org/ka/firefox/help/
 #define firefox_help დახმარება და სწავლება
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://www.mozilla.com/ka/firefox/customize/
+# link title for https://www.mozilla.org/ka/firefox/customize/
 #define firefox_customize Firefox-ის მორგება
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://www.mozilla.com/ka/firefox/community/
+# link title for https://www.mozilla.org/ka/contribute/
 #define firefox_community შემოგვიერთდით
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://www.mozilla.com/ka/firefox/about/
+# link title for https://www.mozilla.org/ka/about/
 #define firefox_about ჩვენს შესახებ
 
 #unfilter emptyLines

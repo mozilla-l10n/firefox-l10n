@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "მორგება…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "ხატულას ჩვენება სიტემურ ქვედა ზოლზე">
+<!ENTITY showTrayIcon.accesskey           "t">
+
 <!ENTITY play.label                       "გახმოვანება">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "ახალი წერილის ნაგულისხმები სისტემური გახმოვანება">

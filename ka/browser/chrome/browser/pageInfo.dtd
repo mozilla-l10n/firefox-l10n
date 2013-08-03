@@ -61,10 +61,12 @@
 <!ENTITY  permImage             "გამოსახულების ჩატვირთვა">
 <!ENTITY  permPopup             "ჩამოშლადი ფანჯრების გახსნა">
 <!ENTITY  permCookie            "ნაჭდევების მითითება">
+<!ENTITY  permNotifications     "შეტყობინებების ჩვენება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
 <!ENTITY  permGeo               "ადგილმდებარეობის გაზიარება">
 <!ENTITY  permPlugins           "მოდულების გააქტივება">
 <!ENTITY  permFullscreen        "სრული ეკრანის რეჟიმი">
+<!ENTITY  permPointerLock2      "თაგუნას კურსორის დამალვა">
 
 <!ENTITY  permIndexedDB              "ლოკალური საცავის მართვა">
 <!ENTITY  permClearStorage           "საცავის გასუფთავება">

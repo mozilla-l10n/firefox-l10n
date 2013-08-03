@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "სერთიფიკატების ჩვენება">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "გაუქმებულთა სია">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "შემოწმება">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "უსაფრთხოების მოწყობილობები">

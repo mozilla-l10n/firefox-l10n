@@ -25,6 +25,12 @@
                                            მაგრამ თქვენ არ გაქვთ საკმარისი ადგილი.">
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; პროგრამის უახლესი ვერსიის გადაწერა ყოველთვის შეგიძლიათ აქედან:">
 
+<!ENTITY  unsupported.title               "სისტემა მიუღებელია">
+<!ENTITY  unsupported.label               "თქვენი &brandShortName; მოძველდა, მაგრამ უახლესი ვერსია
+                                           მიუღებელია თქვენი სისტემისთვის. გთხოვთ განაახლოთ სისტემა და სცადოთ ხელახლა.
+                                           ამ შეტყობინებას ვეღარ დაინახავთ, თუმცა შეგიძლიათ">
+<!ENTITY  unsupportedLink.label           "გაიგოთ მეტი.">
+
 <!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
 <!ENTITY  incompatibleCheck.label         "თქვენი პაკეტების ახალი ვერსიების მოძიება…">
 

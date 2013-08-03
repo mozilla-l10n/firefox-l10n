@@ -27,13 +27,11 @@
 <!ENTITY generalMessageDisplay.caption    "ძირითადი">
 <!ENTITY autoMarkAsRead.label             "წერილების წაკითხულად ავტომატურად მონიშვნა">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "მაშინვე ეკრანზე ასახვისას">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "ასახვიდან">
-<!ENTITY markAsReadDelay.accesskey        "t">
+<!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
+     "Only after displaying for [___] seconds",
+     using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "ასახვიდან">
+<!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "წამის შემდეგ">
 
 <!ENTITY openingMessages.label            "წერილების გახსნისას მათი ჩვენება:">
@@ -41,7 +39,7 @@
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "წერილის არსებულ სარკმელში">
 <!ENTITY existingWindowRadio.accesskey    "e">
-<!ENTITY disableContent.label             "ნახატებისა და სხვა შიგთავსის დაბლოკვა გარე წყაროდან,">
+<!ENTITY disableContent.label             "ნახატებისა და სხვა მასალის დაბლოკვა გარე წყაროდან,">
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "ჩემს წიგნაკში ხალხის მხოლოდ ეკრანული სახელების ჩვენება">
 <!ENTITY showCondensedAddresses.accesskey "o">

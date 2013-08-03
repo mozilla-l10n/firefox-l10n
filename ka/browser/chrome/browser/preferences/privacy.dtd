@@ -4,11 +4,11 @@
 
 <!ENTITY tracking.label                 "თვალმიდევნება">
 
-<!ENTITY dntTrackingNopref.label        "საიტებისთვის არაფრის თქმა თვალთვალის პოლიტიკის შესახებ.">
+<!ENTITY dntTrackingNopref.label2       "საიტებისთვის არაფრის თქმა თვალთვალის პოლიტიკის შესახებ">
 <!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "საიტებისთვის მოთხოვნა - არ მითვალთვალონ.">
+<!ENTITY dntTrackingNotOkay.label2      "საიტებისთვის მოთხოვნა - არ მითვალთვალონ">
 <!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "საიტებისთვის მოთხოვნა - მითვალთვალონ.">
+<!ENTITY dntTrackingOkay.label2         "საიტებისთვის მოთხოვნა - მითვალთვალონ">
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "დაწვრილებით">
 
@@ -27,8 +27,11 @@
 <!ENTITY  acceptCookies.label           "ნაჭდევების მიღება საიტებიდან">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.label        "მესამე მხარის ნაჭდევების მიღება">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.pre.label      "მესამე მხარის ნაჭდევების მიღება:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
+<!ENTITY  acceptThirdParty.never.label    "არასოდეს">
+<!ENTITY  acceptThirdParty.visited.label  "უკვე ნანახებიდან">
 
 <!ENTITY  keepUntil.label               "შენახვის ვადა:">
 <!ENTITY  keepUntil.accesskey           "K">

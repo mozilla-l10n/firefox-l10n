@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "შეცდომის კოდი:">
 <!ENTITY calendar.error.description "აღწერილობა:">
 <!ENTITY calendar.error.title "დაიმზირება შეცდომა">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "მოვლენის სახით დამატება">
+<!ENTITY calendar.extract.task.button          "ამოცანის სახით დამატება">
+<!ENTITY calendar.extract.event.button.tooltip "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, როგორც მოვლენის, დამატება">
+<!ENTITY calendar.extract.task.button.tooltip  "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, როგორც ამოცანის, დამატება">

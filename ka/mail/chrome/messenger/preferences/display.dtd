@@ -16,16 +16,10 @@
 <!ENTITY regularSize.label                "ჩვეულებრივი">
 <!ENTITY bigger.label                     "მოზრდილი">
 <!ENTITY smaller.label                    "მომცრო">
-<!ENTITY color.label                      "ფერი:">
-<!ENTITY color.accesskey                  "c">
+<!ENTITY quotedTextColor.label            "ფერი:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "ტექსტური წერილები">
 <!ENTITY displayText.label				        "ციტირებული ტექსტური წერილების ჩვენებისას:">
-<!ENTITY colors.label                     "ფერები">
-<!ENTITY overrideColors.label             "წერილების ჩვენებისას შემდეგი ფერების გამოყენება:">
-<!ENTITY  textColor.label                 "ტექსტის ფერი:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "ფონის ფერი:">
-<!ENTITY  backgroundColor.accesskey       "b">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "მიმიკების გრაფიკულად ჩვენება">
@@ -40,11 +34,13 @@
 <!ENTITY removeTagButton.label    "წაშლა">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fრიფტები">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "შრიფტები და ფერები">
 <!ENTITY defaultFont.label       "ნაგულისხმები შრიფტი:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "ზომა:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "დეტალურად…">
+<!ENTITY colorButton.label       "ფერები…">
+<!ENTITY colorButton.accesskey   "C">

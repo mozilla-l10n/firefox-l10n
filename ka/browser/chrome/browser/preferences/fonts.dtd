@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "ვებსაიტებისთვის საკუთარი შრიფტების არჩევის ნებართვა ჩემი მითითებულის ნაცვლად">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Charset.grouplabel         "კოდირება">
-<!ENTITY languages.customize.DefaultCharset.label       "ძირითადი კოდირება:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.Fallback.grouplabel  "სიმბოლოთა კოდირება მოძველებული მასალისთვის">
+<!ENTITY languages.customize.Fallback.label       "სიმბოლოთა ძირითადი კოდირება:">
+<!ENTITY languages.customize.Fallback.accesskey   "C">
+<!ENTITY languages.customize.Fallback.desc        "სიმბოლოთა ეს კოდირება გამოიყენება მოძველებული მასალისთვის, რომელთა კოდური გვერდის განსაზღვრაც ვერ ხერხდება.">

@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "გაფრთხილება თუ მრავალი დაფის გახსნამ შესაძლოა შეანელოს &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "დაფების ზოლის ყოველთვის ჩვენება">
-<!ENTITY showTabBar.accesskey         "b">
-
 <!ENTITY restoreTabsOnDemand.label        "არ ჩაიტვირთოს დაფები მოთხოვნამდე">
 <!ENTITY restoreTabsOnDemand.accesskey    "l">
 

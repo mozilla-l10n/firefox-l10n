@@ -90,6 +90,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "თემის ამორთვა">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "შეკითხვა გააქტივებამდე">
+<!ENTITY cmd.askToActivate.tooltip            "შეკითხვა ყოველ ჯერზე ამ პაკეტით სარგებლობამდე">
+<!ENTITY cmd.alwaysActivate.label             "ყოველთვის">
+<!ENTITY cmd.alwaysActivate.tooltip           "ამ პაკეტის ყოველთვის გამოყენება">
+<!ENTITY cmd.neverActivate.label              "არასოდეს">
+<!ENTITY cmd.neverActivate.tooltip            "არასოდეს სარგებლობა ამ პაკეტით">
+<!ENTITY cmd.stateMenu.tooltip                "გადაწყვეტა, როდის გაიხსნას ეს პაკეტი">
 <!ENTITY cmd.installAddon.label               "ჩადგმა">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ამოღება">
