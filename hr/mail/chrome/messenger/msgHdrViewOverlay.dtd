@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Prima ">
-<!ENTITY fromField3.label "Šalje ">
-<!ENTITY senderField3.label "Pošiljatelj ">
-<!ENTITY organizationField3.label "Organizacija ">
-<!ENTITY replyToField3.label "Odgovori na ">
+<!ENTITY toField4.label "Prima">
+<!ENTITY fromField4.label "Šalje">
+<!ENTITY senderField4.label "Pošiljatelj">
+<!ENTITY organizationField4.label "Organizacija">
+<!ENTITY replyToField4.label "Odgovori na">
 
-<!ENTITY subjectField3.label "Naslov ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Interesne grupe ">
-<!ENTITY followupToField3.label "Nastavak - za ">
-<!ENTITY tagsHdr3.label "Oznake ">
-<!ENTITY dateField3.label "Datum ">
-<!ENTITY userAgentField3.label "Korisnički agent ">
-<!ENTITY referencesField3.label "Reference ">
-<!ENTITY messageIdField3.label "ID poruke ">
-<!ENTITY inReplyToField3.label "U odgovoru za ">
-<!ENTITY originalWebsite3.label "Web stranica ">
+<!ENTITY subjectField4.label "Naslov">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Interesne grupe">
+<!ENTITY followupToField4.label "Nastavak - za">
+<!ENTITY tagsHdr4.label "Oznake">
+<!ENTITY dateField4.label "Datum">
+<!ENTITY userAgentField4.label "Korisnički agent">
+<!ENTITY referencesField4.label "Reference">
+<!ENTITY messageIdField4.label "ID poruke">
+<!ENTITY inReplyToField4.label "U odgovoru za">
+<!ENTITY originalWebsite4.label "Web stranica">
 
 <!ENTITY editMessageDescription.label "Ovo je skica poruke">
 <!ENTITY editMessageButton.label "Uredi…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Odgovori na popis primatelja">
 <!ENTITY hdrFollowupButton1.label "Nastavak">
 <!ENTITY hdrFollowupButton1.tooltip "Pošalji nastavak na ovu interesnu grupu">
+<!ENTITY hdrMenuForwardButton.label "Proslijedi kao">
 <!ENTITY hdrForwardButton1.label "Proslijedi">
 <!ENTITY hdrForwardButton1.tooltip "Proslijedi ovu poruku">
 <!ENTITY hdrJunkButton1.label "Neželjena pošta">
