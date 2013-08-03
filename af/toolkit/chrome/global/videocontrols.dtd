@@ -18,7 +18,7 @@
 <!ENTITY stats.activitySeeking "(soek tans)">
 <!ENTITY stats.volume "Volume">
 <!ENTITY stats.channels "Kanale">
-<!ENTITY stats.sampleRate "Sample Rate">
+
 <!ENTITY stats.framesParsed "Raampies ontleed">
 <!ENTITY stats.framesDecoded "Raampies gedekodeer">
 <!ENTITY stats.framesPresented "Raampies aangebied">

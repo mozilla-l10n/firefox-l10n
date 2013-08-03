@@ -22,8 +22,6 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-
-<!ENTITY downloadDetails.width            "50ch">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -37,8 +35,6 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Laat wag">
 <!ENTITY cmd.pause.accesskey              "L">
