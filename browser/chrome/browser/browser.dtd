@@ -20,11 +20,6 @@
 <!ENTITY  reloadTab.accesskey                "l">
 <!ENTITY  reloadAllTabs.label                "Muat Ulang Semua Tab">
 <!ENTITY  reloadAllTabs.accesskey            "M">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Tutup Tab yang Ada di Kanan">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Tutup Tab Lainnya">
 <!ENTITY  closeOtherTabs.accesskey           "L">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -120,18 +115,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Markahi Laman ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
+<!ENTITY markPageCmd.commandkey "l">
 <!ENTITY sharePageCmd.label "Bagikan Laman Ini">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "B">
+<!ENTITY sharePageCmd.accesskey "L">
 <!ENTITY shareLinkCmd.label "Bagikan Tautan Ini">
-<!ENTITY shareLinkCmd.accesskey "B">
+<!ENTITY shareLinkCmd.accesskey "T">
 <!ENTITY shareImageCmd.label "Bagikan Gambar Ini">
-<!ENTITY shareImageCmd.accesskey "B">
-
-
+<!ENTITY shareImageCmd.accesskey "G">
+<!ENTITY shareSelectCmd.label "Bagikan yang Dipilih">
+<!ENTITY shareSelectCmd.accesskey "d">
 <!ENTITY shareVideoCmd.label "Bagikan Video Ini">
-<!ENTITY shareVideoCmd.accesskey "B">
+<!ENTITY shareVideoCmd.accesskey "V">
 <!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
@@ -219,19 +214,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Konsol Web Daring">
 
 <!ENTITY browserConsoleCmd.label      "Konsol Peramban">
-
-<!ENTITY browserConsoleCmd.accesskey  "b">
 
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
 <!ENTITY inspectContextMenu.accesskey "E">
 
 <!ENTITY responsiveDesignTool.label   "Tampilan Desain Responsif">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -247,10 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
-
-<!ENTITY chromeDebuggerMenu.label       "Debugger Peramban">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Bilah Alat Pengembang">
 <!ENTITY devToolbarMenu.label              "Bilah Alat Pengembang">
@@ -278,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Urungkan">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "g"> 
 <!ENTITY redoCmd.label            "Ulangi">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "U"> 
@@ -302,8 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "g"> 
 
-<!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir…">
-
+<!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Tampilan"> 
@@ -342,7 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSafeMode.accesskey "n">
 
 <!ENTITY openCmd.commandkey           "l">
-
+<!ENTITY urlbar.placeholder2          "Cari atau Buka Situs Web">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 <!-- 
@@ -480,18 +469,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Keraskan">
 <!ENTITY mediaUnmute.accesskey       "K">
 <!ENTITY mediaPlaybackRate.label     "Kecepatan Putar">
-<!ENTITY mediaPlaybackRate.accesskey "K">
-<!ENTITY mediaPlaybackRate050x.label "Gerak Lambat (0,5×)">
+<!ENTITY mediaPlaybackRate.accesskey "k">
+<!ENTITY mediaPlaybackRate050x.label "Gerak Lambat (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "L">
-<!ENTITY mediaPlaybackRate100x.label "Kecepatan Normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "o">
-<!ENTITY mediaPlaybackRate150x.label "Gerak Cepat (1,5×)">
+<!ENTITY mediaPlaybackRate100x.label "Normal">
+<!ENTITY mediaPlaybackRate100x.accesskey "N">
+<!ENTITY mediaPlaybackRate150x.label "Gerak Cepat (1.5×)">
 <!ENTITY mediaPlaybackRate150x.accesskey "C">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Cepaaat Sekali (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "S">
+<!ENTITY mediaPlaybackRate200x.label "Cepaat Sekali (2×)">
+<!ENTITY mediaPlaybackRate200x.accesskey "a">
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -561,6 +551,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac.label    "Keluar dari &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Tutup">  
 <!ENTITY closeCmd.key                   "W">  
@@ -621,9 +612,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "yang dijalankan oleh">
 
 <!ENTITY identity.moreInfoLinkText "Informasi lebih lanjut…">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Tab peramban">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
@@ -656,16 +647,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY social.activated.description "Layanan dari <label/> telah diaktifkan. Anda dapat mengubah pengaturan untuk layanan pada <label class='text-link'>Pengelola Pengaya</label>.">
 <!ENTITY social.activated.undo.label "Duh, salah! Urungkan ya!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Pelajari lebih lanjut…">
-<!ENTITY social.learnMore.accesskey "P">
+<!ENTITY social.activated.undo.accesskey "g">
+<!ENTITY social.learnMore.label "Pelajari Selengkapnya…">
+<!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "Jangan Sekarang">
 
 <!ENTITY social.chatBar.commandkey "o">
 <!ENTITY social.chatBar.label "Fokuskan di obrolan">
 <!ENTITY social.chatBar.accesskey "F">
-<!-- labels are set dynamically, see browser.properties -->
 
+<!-- labels are set dynamically, see browser.properties -->
+<!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.marklink.accesskey "M">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dibagikan:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -676,14 +669,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "Tampilkan daftar situs yang Anda bagikan kamera dan mikrofonnya">
 
 <!ENTITY mixedContentBlocked.helplink "Pelajari lebih lanjut">
-<!ENTITY mixedContentBlocked.moreinfo "Sebagian besar situs web masih dapat berfungsi dengan baik meskipun konten ini diblokir.">
+<!ENTITY mixedContentBlocked.moreinfo "Banyak situs web masih dapat bekerja dengan baik walaupun konten ini diblokir.">
+
 
 <!ENTITY pointerLock.notification.message "Tekan ESC kapan saja untuk menampilkannya kembali.">
-
-<!ENTITY pluginNotification.showAll.label "Tampilkan Semua">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-
-<!ENTITY pluginActivateNow.label "Izinkan Saat Ini">
-<!ENTITY pluginActivateAlways.label "Izinkan dan Ingat Izinnya">
-<!ENTITY pluginBlockNow.label "Blokir Plugin">
