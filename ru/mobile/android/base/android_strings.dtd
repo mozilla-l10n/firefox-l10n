@@ -50,25 +50,24 @@
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
+<!ENTITY pref_category_advanced "Дополнительные">
 <!ENTITY pref_category_customize "Настройка">
-<!ENTITY pref_category_search "Поиск">
+<!ENTITY pref_category_search2 "Параметры поиска">
 <!ENTITY pref_category_display "Отображение">
 <!ENTITY pref_category_privacy_short "Приватность">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
-<!ENTITY pref_category_general "Основные">
-<!ENTITY pref_category_privacy "Приватность и защита">
-<!ENTITY pref_category_content "Содержимое">
-<!ENTITY pref_header_general "Основные">
-<!ENTITY pref_header_privacy "Приватность и защита">
-<!ENTITY pref_header_content "Содержимое">
+<!ENTITY pref_category_devtools "Инструменты разработки">
+<!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
+<!ENTITY pref_developer_remotedebugging_docs "Подробнее">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_header_customize "Настройка">
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
 <!ENTITY pref_header_help "Справка">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Инструменты разработки">
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
@@ -86,8 +85,11 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom3 "Перерисовка после двух нажатий">
-<!ENTITY pref_restore_session "Всегда восстанавливать вкладки">
+<!ENTITY pref_reflow_on_zoom4 "Перерисовка текста">
+<!ENTITY pref_restore "Вкладки">
+<!ENTITY pref_restore_always "Всегда восстанавливать">
+<!ENTITY pref_restore_crash "Восстанавливать после падения">
+<!ENTITY pref_restore_never "Никогда не восстанавливать">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -233,6 +235,7 @@
 <!ENTITY suggestions_prompt2 "Вы хотите включить поисковые предложения &formatS;?">
 <!ENTITY webapp_generic_name "Приложение">
 <!ENTITY searchable_description "Закладки и история">
+<!ENTITY devtools_remote_debugging_forward "Не забудьте настроить перенаправление портов!">
 <!ENTITY updater_start_title2 "Доступно обновление &brandShortName;">
 <!ENTITY updater_start_select2 "Нажмите для загрузки">
 <!ENTITY updater_downloading_title2 "Загрузка &brandShortName;">
