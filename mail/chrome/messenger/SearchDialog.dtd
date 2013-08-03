@@ -34,8 +34,7 @@
 <!ENTITY abSearchDialogTitle.label "Расширенный режим поиска в адресной книге">
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
-<!ENTITY recipientsColumn.label "Получатели">
-<!ENTITY toColumn.label "Адресат">
+<!ENTITY recipientColumn.label "Адресат">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важность">
@@ -54,8 +53,7 @@
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY threadColumn.tooltip "Нажмите здесь, чтобы просмотреть обсуждения">
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
-<!ENTITY recipientsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по получателям">
-<!ENTITY toColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
+<!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
 <!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате">
 <!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
