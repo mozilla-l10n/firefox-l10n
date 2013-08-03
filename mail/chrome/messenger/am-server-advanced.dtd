@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Dozvoli poslužitelju da nadjača ovaj imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Prilikom preuzimanja pošte s ovog POP poslužitelja, koristi sljedeću mapu za novu poštu:" >
-<!ENTITY globalInbox.label "Globalna primljena pošta (račun Lokalne mape)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Primljena pošta za ovaj račun na poslužitelju">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Primljena pošta za drugi račun">

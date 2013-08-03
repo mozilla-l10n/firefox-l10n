@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Prikaz certifikata">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY viewCRLs.label                 "Popisi opozvanih">
-<!ENTITY viewCRLs.accesskey             "P">
 <!ENTITY validation.label               "Provjera valjanosti">
 <!ENTITY validation.accesskey           "v">
 <!ENTITY viewSecurityDevices.label      "Sigurnosni uređaji">
