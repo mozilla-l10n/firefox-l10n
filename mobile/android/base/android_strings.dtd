@@ -154,7 +154,7 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää kaatumisilmoitukset &vendorShortName;lle, jotta voimme tehdä vakaamman ja turvallisemman selaimen">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title "&brandShortName;in kaatumisten ilmoitusohjelma">
+<!ENTITY datareporting_crashreporter_title_short "Kaatumisten ilmoitusohjelma">
 <!ENTITY datareporting_wifi_title "&vendorShortName;n paikannuspalvelut">
 <!ENTITY datareporting_wifi_summary "Auta kehittämään parempia avoimen Internetin paikannuspalveluja sallimalla &brandShortName;in kerätä ja lähettää nimettömänä eteenpäin tietoja matkapuhelinverkosta.">
 

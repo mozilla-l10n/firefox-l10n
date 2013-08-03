@@ -20,6 +20,11 @@
 <!ENTITY  reloadTab.accesskey                "P">
 <!ENTITY  reloadAllTabs.label                "Päivitä kaikki välilehdet">
 <!ENTITY  reloadAllTabs.accesskey            "ä">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Sulje välilehdet oikealla">
+<!ENTITY  closeTabsToTheEnd.accesskey        "o">
 <!ENTITY  closeOtherTabs.label               "Sulje muut välilehdet">
 <!ENTITY  closeOtherTabs.accesskey           "m">
 
@@ -214,11 +219,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey    "V">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Web-konsoli etäyhteydellä">
 
 <!ENTITY browserConsoleCmd.label      "Selainkonsoli">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "S">
 
 <!ENTITY inspectContextMenu.label     "Tutki elementtiä">
 <!ENTITY inspectContextMenu.accesskey "T">
@@ -241,6 +247,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "T">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Selaimen virheenjäljitin">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Sulje kehitystyökalupalkki">
 <!ENTITY devToolbarMenu.label              "Kehitystyökalupalkki">
@@ -671,3 +681,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "Useimmat sivustot toimivat asianmukaisesti vaikka tämä sisältö on estetty.">
 
 <!ENTITY pointerLock.notification.message "Paina ESC-näppäintä näyttääksesi sen uudestaan.">
+
+<!ENTITY pluginNotification.showAll.label "Näytä kaikki">
+<!ENTITY pluginNotification.showAll.accesskey "N">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Salli nyt">
+<!ENTITY pluginActivateAlways.label "Salli ja muista valinta">
+<!ENTITY pluginBlockNow.label "Estä liitännäinen">
