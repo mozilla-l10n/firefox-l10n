@@ -32,7 +32,7 @@
 <!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak tersedia pada tembolok peramban.</p><ul><li>Sebagai tindakan pencegahan, peramban tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode Luring">
-
+<!ENTITY netOffline.longDesc2 "<p>Program peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi">
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang ingin dibuka tidak bisa ditampilkan karena menggunakan format kompresi yang tidak didukung atau tidak dikenali.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
@@ -80,8 +80,8 @@
 <p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc "<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p> 
-<p>Jenis pemalsuan web yang dikenal sebagai &quot;phishing attacks&quot;, memalsukan laman web dan email yang Anda percaya.</p>">
+<!ENTITY phishingBlocked.longDesc '<p>Dengan memasukkan informasi pribadi pada laman ini, dapat menyebabkan pencurian identitas atau kejahatan lainnya.</p> 
+<p>Jenis pemalsuan web yang dikenal sebagai "phishing attacks", memalsukan laman web dan email yang Anda percaya.</p>'>
 
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
