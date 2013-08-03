@@ -25,7 +25,7 @@
 # LOCALIZATION NOTE (getting_started):
 
 
-# link title for https://www.mozilla.org/en-US/firefox/central/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
 
 #define getting_started Perkenalan
@@ -43,7 +43,7 @@
 # LOCALIZATION NOTE (firefox_help):
 
 
-# link title for https://www.mozilla.org/en-US/firefox/help/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
 
 #define firefox_help Bantuan dan Tutorial
@@ -52,7 +52,7 @@
 # LOCALIZATION NOTE (firefox_customize):
 
 
-# link title for https://www.mozilla.org/en-US/firefox/customize/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
 
 #define firefox_customize Kesukaan Firefox
@@ -61,7 +61,7 @@
 # LOCALIZATION NOTE (firefox_community):
 
 
-# link title for https://www.mozilla.org/en-US/contribute/
+# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
 
 #define firefox_community Mari Berperan
@@ -70,7 +70,7 @@
 # LOCALIZATION NOTE (firefox_about):
 
 
-# link title for https://www.mozilla.org/en-US/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 
 
 #define firefox_about Tentang Kami
