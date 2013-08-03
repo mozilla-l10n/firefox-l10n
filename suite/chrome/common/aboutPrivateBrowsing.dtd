@@ -5,7 +5,7 @@
 <!ENTITY privatebrowsingpage.title        "პირადი სეანსი">
 <!-- LOCALIZATION NOTE: The experimental title is temporary -->
 <!ENTITY privatebrowsingpage.experimental "&privatebrowsingpage.title; ამ დროისთვის ექსპერიმენტულ სტადიაშია.">
-<!ENTITY privatebrowsingpage.description  "&privatebrowsingpage.title; სარკმელში, &brandShortName; ბრაუზერი არ შეინახავს ბუფერის მონაცემებს, ნაჭდევებს ან საიტების, ძიების, ჩამოტვირთვუსა და ფორმების ისტორიას. თუმცა ჩამოტვირთული ფაილები და შენახული სანიშნეები შენარჩუნდება.">
+<!ENTITY privatebrowsingpage.description  "&privatebrowsingpage.title; სარკმელში, &brandShortName; ბრაუზერი არ შეინახავს ბუფერის მონაცემებს, ნაჭდევებს ან საიტების, ძიების, ჩამოტვირთვისა და ფორმების ისტორიას. თუმცა ჩამოტვირთული ფაილები და შენახული სანიშნეები შენარჩუნდება.">
 <!ENTITY privatebrowsingpage.moreinfo     "კომპიუტერში თქვენი საიტების ისტორია არ ჩაიწერება, თუმცა თქვენს ინტერნეტ პროვაიდერს ან ქსელის ადმინს მაინც შეუძლია თქვენი მონახულებული საიტების თვალმიდევნება.">
 <!ENTITY privatebrowsingpage.learnmore.label     "ვრცლად">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "L">

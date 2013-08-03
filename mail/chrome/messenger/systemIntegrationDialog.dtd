@@ -5,6 +5,7 @@
 <!ENTITY systemIntegration.title  "სისტემური ინტეგრაცია">
 <!ENTITY acceptIntegration.label  "მითითება ნაგულისხმებად">
 <!ENTITY cancelIntegration.label  "ინტეგრაციის გამოტოვება">
+<!ENTITY cancelIntegration2.label  "გაუქმება">
 <!ENTITY defaultClient.intro  "&brandShortName; პროგრამის ნაგულისხმებ კლიენტად გამოყენება:">
 
 <!ENTITY email.label "ელფოსტა">

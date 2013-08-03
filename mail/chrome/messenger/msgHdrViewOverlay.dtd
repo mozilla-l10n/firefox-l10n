@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "ვის: ">
-<!ENTITY fromField3.label "ვისგან: ">
-<!ENTITY senderField3.label "გამგზავნი: ">
-<!ENTITY organizationField3.label "ორგანიზაცია: ">
-<!ENTITY replyToField3.label "პასუხი: ">
+<!ENTITY toField4.label "ვის: ">
+<!ENTITY fromField4.label "ვისგან: ">
+<!ENTITY senderField4.label "გამგზავნი: ">
+<!ENTITY organizationField4.label "ორგანიზაცია: ">
+<!ENTITY replyToField4.label "პასუხი: ">
 
-<!ENTITY subjectField3.label "თემა: ">
-<!ENTITY ccField3.label "ასლი ">
-<!ENTITY bccField3.label "ფარული ასლი ">
-<!ENTITY newsgroupsField3.label "ჯგუფები ">
-<!ENTITY followupToField3.label "კონფერენცია ">
-<!ENTITY tagsHdr3.label "ჭდეები ">
-<!ENTITY dateField3.label "თარიღი ">
-<!ENTITY userAgentField3.label "პროგრამა ">
-<!ENTITY referencesField3.label "დამოწმებები ">
-<!ENTITY messageIdField3.label "გზავნილის კოდი ">
-<!ENTITY inReplyToField3.label "პასუხად ">
-<!ENTITY originalWebsite3.label "ვებსაიტი ">
+<!ENTITY subjectField4.label "თემა: ">
+<!ENTITY ccField4.label "ასლი ">
+<!ENTITY bccField4.label "ფარული ასლი ">
+<!ENTITY newsgroupsField4.label "ჯგუფები ">
+<!ENTITY followupToField4.label "კონფერენცია ">
+<!ENTITY tagsHdr4.label "ჭდეები ">
+<!ENTITY dateField4.label "თარიღი ">
+<!ENTITY userAgentField4.label "პროგრამა ">
+<!ENTITY referencesField4.label "დამოწმებები ">
+<!ENTITY messageIdField4.label "გზავნილის კოდი ">
+<!ENTITY inReplyToField4.label "პასუხად ">
+<!ENTITY originalWebsite4.label "ვებსაიტი ">
 
 <!ENTITY editMessageDescription.label "ეს გხავნილის ესკიზია">
 <!ENTITY editMessageButton.label "რედაქცია…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "პასუხი დაგზავნის სიაზე">
 <!ENTITY hdrFollowupButton1.label "ადევნება">
 <!ENTITY hdrFollowupButton1.tooltip "გამოხმაურება სიახლეთა ამ ჯგუფს">
+<!ENTITY hdrMenuForwardButton.label "გადაგზავნა როგორც">
 <!ENTITY hdrForwardButton1.label "გადაგზავნა">
 <!ENTITY hdrForwardButton1.tooltip "ამ წერილის გადაგზავნა">
 <!ENTITY hdrJunkButton1.label "ჯართი">

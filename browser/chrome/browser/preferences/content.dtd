@@ -7,20 +7,6 @@
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  loadImages.label            "ნახატების ავტომატური ჩატვირთვა">
-<!ENTITY  loadImages.accesskey        "I">
-<!ENTITY  exceptions.label            "გამონაკლისები…">
-<!ENTITY  exceptions.accesskey        "x">
-
-<!ENTITY  enableJavaScript.label      "JavaScript-ის გააქტივება">
-<!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "დეტალები…">
-<!ENTITY  advancedJS.accesskey        "v">
-
-<!ENTITY  enableJava.label            "Java-ს გააქტივება">
-<!ENTITY  enableJava.accesskey        "n">
-
-
 <!ENTITY  fontsAndColors.label        "შრიფტები და ფერები">
 
 <!ENTITY  defaultFont.label                       "ნაგულისხმები შრიფტი:">

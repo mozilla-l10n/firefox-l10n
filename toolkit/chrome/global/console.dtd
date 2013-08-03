@@ -22,8 +22,8 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "ანალიზი">
 <!ENTITY evaluate.accesskey "v">
-<!ENTITY filter.label       "ფილტრი">
-<!ENTITY filter.accesskey   "F">
+<!ENTITY filter2.label       "ფილტრი:">
+<!ENTITY filter2.accesskey   "F">
 
 <!ENTITY copyCmd.label       "კოპირება">  
 <!ENTITY copyCmd.accesskey   "C"> 

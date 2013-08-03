@@ -30,7 +30,7 @@
 <!ENTITY successful.title "გილოცავთ!">
 <!ENTITY successful.successMessage "თქვენ წარმატებით შექმენით თქვენი ანგარიში.">
 <!ENTITY successful.write "დაწერეთ წერილი">
-<!ENTITY successful.write.desc "აცნობეთ ახლობლებს და მეგობრებს თქვენი ახალი ელფოსტა.<br/> ალბათ ეს ელფოსტა ამისთვის დაგჭირდათ?">
+<!ENTITY successful.write.desc "აცნობეთ ახლობლებს და მეგობრებს თქვენი ახალი ელფოსტა.<br/> ამ ელფოსტის ძირითადი დანიშნულებაც ხომ ესაა?">
 <!ENTITY successful.customize "&brandShortName;-ის მორგება მოდულების საშუალებით">
 <!ENTITY successful.customize.desc "არსებობს ათასობით მოდული, რომლითაც &brandShortName;-ის  თქვენი გემოვნებით მორგება შეგიძლიათ.">
 <!ENTITY successful.attach "პირადი ხელმოწერის თანდართვა თითოეულ წერილზე">

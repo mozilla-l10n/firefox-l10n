@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "ამიერიდან ყველა მსგავსი ფაილისთვის ავტომატურად შესრულება.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "რომელიცაა:">
+<!ENTITY  whichIs.label              "რომელიცაა:">
 
 <!ENTITY  chooseHandlerMac.label      "არჩევა…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

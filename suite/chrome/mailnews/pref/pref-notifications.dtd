@@ -5,14 +5,32 @@
 <!ENTITY pref.notifications.title         "გაფრთხილებები">
 <!ENTITY notifications.caption            "გაფრთხილებები">
 <!ENTITY newMessagesArrive.label          "ახალი წერილების მოსვლისას:">
-<!ENTITY playSound.label                  "ხმოვანი სიგნალი">
-<!ENTITY playSound.accesskey              "P">
-<!ENTITY showAnimatedAlert.label          "გამაფრთხილებელი ნიშანი">
-<!ENTITY showAnimatedAlert.accesskey      "S">
+
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
+<!ENTITY showAlertFor.label               "გაფრთხილების ჩვენება">
+<!ENTITY showAlertFor.accesskey           "S">
+<!ENTITY showAlertTimeEnd.label           "წამით">
+
+<!ENTITY showAlertPreviewText.label       "გზავნილის ტექსტის ესკიზის ჩვენება">
+<!ENTITY showAlertPreviewText.accesskey   "v">
+<!ENTITY showAlertSubject.label           "თემის ჩვენება">
+<!ENTITY showAlertSubject.accesskey       "u">
+<!ENTITY showAlertSender.label            "ავტორის ჩვენება">
+<!ENTITY showAlertSender.accesskey        "n">
+
 <!ENTITY showTrayIcon.label               "ხატულას ქვედა ზოლში ჩვენება">
 <!ENTITY showTrayIcon.accesskey           "t">
-<!ENTITY bounceSystemDockIcon.label       "ტივტივას ხატულას ანიმაცია">
+<!ENTITY showBalloon.label                "გაფრთხილების დაფაზე ჩვენება">
+<!ENTITY showBalloon.accesskey            "o">
+<!ENTITY bounceSystemDockIcon.label       "ხატულას ანიმაცია">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
+
+<!ENTITY playSound.label                  "ხმოვანი სიგნალი">
+<!ENTITY playSound.accesskey              "P">
 <!ENTITY playButton.label                 "გახმოვანება">
 <!ENTITY playButton.accesskey             "l">
 <!ENTITY systemsound.label                "თქვენი სისტემის სიგნალი">

@@ -32,12 +32,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "სასაუბროს ანგარიში…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "არხის ანგარიში…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "შენახული წერილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "ჩანართები">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "ჩაწერა როგორც">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "ფაილი">
@@ -428,12 +428,14 @@
 <!ENTITY openConversationCmd.label "გახსნა განსახილველად">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "არხის წერილის გახსნა">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "ვებ გვერდი ახალ სარკმელში">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "რეზიუმე ახალ სარკმელში">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openAttachmentListCmd.label "ჩანართები">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "არხის გზავნილის გახსნა">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "ვებ გვერდი ახალ სარკმელში">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "რეზიუმე ახალ სარკმელში">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "ვებ გვერდისა და რეზიუმეს გადართვა წერილების პანელზე">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "გარედან გამართვის ნებართვა">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "ფოსტის მიღება">
@@ -534,7 +538,9 @@
 <!ENTITY replyButton.tooltip "პასუხი წერილს">
 <!ENTITY replyAllButton.tooltip "პასუხი გამომგზავნს და ყველა ადრესატს">
 <!ENTITY replyListButton.tooltip "პასუხი ჯგუფს">
-<!ENTITY forwardButton.tooltip "არჩეული წერილის გადაგზავნა">
+<!ENTITY forwardButton.tooltip "შერჩეული წერილის გადაგზავნა">
+<!ENTITY forwardAsInline.tooltip "შერჩეული წერილის გადაგზავნა შიდა ტექსტის სახით">
+<!ENTITY forwardAsAttachment.tooltip "შერჩეული წერილის გადაგზავნა ჩანართის სახით">
 <!ENTITY fileButton.tooltip "შერჩეული წერილის შენახვა">
 <!ENTITY archiveButton.tooltip "შერჩეული წერილის დაარქივება">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების ამოღება შერჩეული დასტიდან">
 <!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "გადაგზავნა შიდა ტექსტის სახით">
+<!ENTITY buttonMenuForwardAsAttachment.label "გადაგზავნა ჩანართის სახით">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "ახალი წერილი">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "წერილების მიღება">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "გახსნა">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "გახსნა ახალ სარკმელში">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "გახსნა ახალ დაფაზე">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "ახალი ქვედასტა…">
@@ -697,15 +707,25 @@
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "გადაგზავნა">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "გადაგზავნა ჩანართებად">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "გადაგზავნა როგორც">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "შიდა ტექსტი">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "ჩანართი">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "გადაგზავნა ჩანართების სახით">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "გადატანა">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "კოპირება">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "ჩაწერა როგორც…">
+<!ENTITY contextKillThreadMenu.label "საქაღალდის გამოტოვება">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "ქვესაქაღალდის გამოტოვება">
+<!ENTITY contextWatchThreadMenu.label "Watch Thread">
+<!ENTITY contextSaveAs.label "შენახვა როგორც…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "ბეჭდვა…">
 <!ENTITY contextPrint.accesskey "P">
@@ -717,7 +737,7 @@
    This option in the thread pane column picker causes us to reset the
    customizations for the thread pane columns in this folder to their default.
   -->
-<!ENTITY columnPicker.resetToInbox.label "სვეტების ნაგულისხმები ნაკრები">
+<!ENTITY columnPicker.resetToInbox.label "სვეტების ნაგულისხმები რეჟიმი">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and

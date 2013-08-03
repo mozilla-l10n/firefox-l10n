@@ -84,8 +84,13 @@
 <!ENTITY updateTab.label                 "განახლება">
 
 <!ENTITY updateApp.label                 "&brandShortName; განახლებები:">
-<!ENTITY updateAuto.label                "განახლებათა თვითჩადგმა (რეკომენდებულია: მაღალი უსაფრთხოება)">
-<!ENTITY updateAuto.accesskey            "A">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "განახლებათა თვითჩადგმა (რეკომენდებულია: მაღალი უსაფრთხოება)">
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAutoMetro.label           "თვითგანახლება სამუშაო არიდან და Windows 8 სტილის &brandShortName; ბრაუზერით">
+<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "განახლებების შემოწმება, მაგრამ ჩადგმა მხოლოდ თანხმობის შემდეგ">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "განახლებათა შემოწმების გარეშე (არაა რეკომენდებული: საფრთხე იზრდება)">
@@ -93,6 +98,8 @@
 
 <!ENTITY updateAutoAddonWarn.label       "შემატყობინე თუ ჩადგმისას ჩემი რომელიმე მოდული ამოირთვება">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
+
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 სტილის &brandShortName; ბრაუზერი პაკეტების თავსებადობას არ ამოწმებს)">
 
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
 <!ENTITY updateHistory.accesskey         "p">
@@ -115,14 +122,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "გარე მონაცემთა ამოღება">
 
-<!ENTITY encryptionTab.label             "დაშიფვრა">
-
-<!ENTITY protocols.label                 "ოქმები">
-<!ENTITY useSSL3.label                   "SSL 3.0-ის გამოყენება">
-<!ENTITY useSSL3.accesskey               "3">
-<!ENTITY useTLS1.label                   "TLS 1.0-ის გამოყენება">
-<!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "სერთიფიკატები">
+<!ENTITY certificateTab.label              "სერთიფიკატები">
 <!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
 <!ENTITY certs.auto                      "შეირჩეს ავტომატურად">
 <!ENTITY certs.auto.accesskey            "l">
@@ -130,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "გაუქმებულთა სია">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "შემოწმება">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">

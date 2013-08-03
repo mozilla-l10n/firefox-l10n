@@ -39,7 +39,6 @@
 <!ENTITY checkForUpdates                                     "შემოწმება განახლებაზე…">
 <!ENTITY disabledPlugin                                      "ეს პაკეტი ამორთულია.">
 <!ENTITY blockedPlugin.label                                 "ეს პაკეტი დაიბლოკა თქვენი უსაფრთხოების მიზნით.">
-
 <!ENTITY installPlugin                                       "პაკეტის ჩადგმა…">
 <!ENTITY managePlugins                                       "პაკეტების მართვა…">
 

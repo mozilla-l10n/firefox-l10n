@@ -93,6 +93,7 @@
 <!ENTITY  permImage             "გამოსახულების ჩატვირთვა">
 <!ENTITY  permPopup             "ჩამოშლადი სარკმლების გახსნა">
 <!ENTITY  permCookie            "ნაჭდევების მითითება">
+<!ENTITY  permNotifications     "შეტყობინებათა ჩვენება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
 <!ENTITY  permGeo               "მდებარეობის გაზიარება">
 

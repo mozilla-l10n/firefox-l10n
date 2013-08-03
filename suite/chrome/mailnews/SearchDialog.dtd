@@ -17,10 +17,10 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "წერილების ძიება">
 <!ENTITY results.label               "შედეგები">
-<!ENTITY fileHereMenu.label          "შენახვის ადგილი">
-<!ENTITY fileHereMenu.accesskey      "r">
-<!ENTITY fileButton.label            "ფაილი">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY moveHereMenu.label          "შენახვის ადგილი">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "ფაილი">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
 <!ENTITY goToFolderButton.accesskey  "n">
 <!ENTITY saveAsVFButton.label      "ძიების შედეგების დასტად შენახვა">

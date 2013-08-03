@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
 <!ENTITY downloadCert.viewPolicy.text "სააგენტოს წესებისა და პროცედურების შემოწმება">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "სერთიფიკატი არსებობს">
-<!ENTITY caCertExists.message "ეს სერთიფიკატი უკვე არსებობს.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "კლიენტის იდენტიფიცირების მოთხოვნა">
 <!ENTITY clientAuthAsk.message1 "ეს საიტი თქვენი სერთიფიკატის წარდგენას ითხოვს:">
@@ -79,8 +75,6 @@
 <!ENTITY escrowWarn.message2 "მეორეს მხრივ, დაშიფვრის თქვენი პერსონალური გასაღები შეინახება სერთიფიკატების გამცემთან და მას შეეძლება თქვენი დაშიფრული დოკუმენტების დაუკითხავად წაკითხვა.">
 <!ENTITY examineCert.label "სერთიფიკატის ნახვა">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message "სთხოვეთ სისტემის ადმინისტრატორს კონსულტირება">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "პირადი გასაღების შექმნა">

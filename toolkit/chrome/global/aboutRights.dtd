@@ -53,7 +53,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; სარგებლობს ვებსაიტების ისეთი საინფორმაციო მომსახურებებით (შემდგომში «მომსახურებები»), როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება, და რომელიც თქვენთვის მისაწვდომია &brandShortName; ბრაუზერის ამ ვერსიით, იხილეთ ქვემოთ. თუ არ გსურთ «მომსახურებებით» სარგებლობა ქვემოთ მოტანილი პირობებით, შეგიძლიათ ამორთოთ  უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება თუ გახსნით პროგრამის პარამეტრების ">
 <!ENTITY rights2.webservices-b "ამ გვერდს">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". შესაძლოა სხვა კომპონენტებისა და მომსახურებათა ამორთვა პროგრამის პარამეტრებიდან.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">

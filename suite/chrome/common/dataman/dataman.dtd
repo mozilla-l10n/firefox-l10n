@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dataman.windowTitle "მონაცემთა მმართველი">
+<!ENTITY dataman.windowTitle "მონაცემთა მართვა">
 
 <!ENTITY selectAll.key "a">
 
@@ -11,6 +11,7 @@
 <!ENTITY select.permissions.label "მხოლოდ უფლებები">
 <!ENTITY select.preferences.label "მხოლოდ პარამეტრები">
 <!ENTITY select.passwords.label "მხოლოდ პაროლები">
+<!ENTITY select.storage.label "მხოლოდ საცავი">
 
 <!ENTITY domain.search.placeholder "დომენების ძიება">
 <!ENTITY domain.search.key "f">
@@ -28,6 +29,7 @@
 <!ENTITY tab.permissions.label "უფლებები">
 <!ENTITY tab.preferences.label "პარამეტრები">
 <!ENTITY tab.passwords.label "პაროლები">
+<!ENTITY tab.storage.label "საცავი">
 <!ENTITY tab.formdata.label "ფორმის მონაცემები">
 <!ENTITY tab.forget.label "დავიწყება">
 
@@ -104,6 +106,21 @@
 <!ENTITY pwd.button.remove.label "ამოღება">
 <!ENTITY pwd.button.remove.accesskey "R">
 
+<!-- storage -->
+<!ENTITY storage.description "ეს დომენი სარგებლობს შემდეგი საცავით თქვენს კომპიუტერში:">
+
+<!ENTITY storage.tree.host.label "ვებსაიტი">
+<!ENTITY storage.tree.type.label "ტიპი">
+<!ENTITY storage.tree.size.label "ზომა">
+
+<!ENTITY storage.ctx.remove.label "ამოღება">
+<!ENTITY storage.ctx.remove.accesskey "R">
+<!ENTITY storage.ctx.selectAll.label "ყველას მონიშვნა">
+<!ENTITY storage.ctx.selectAll.accesskey "A">
+
+<!ENTITY storage.button.remove.label "ამოღება">
+<!ENTITY storage.button.remove.accesskey "R">
+
 <!-- form data -->
 <!ENTITY fdata.search.placeholder "ძიება ველის მონაცემებში">
 
@@ -130,6 +147,8 @@
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "პაროლები">
 <!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "საცავი">
+<!ENTITY forget.storage.accesskey "S">
 <!ENTITY forget.formdata.label "ფორმის მონაცემები">
 <!ENTITY forget.formdata.accesskey "D">
 

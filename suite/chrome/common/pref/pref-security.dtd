@@ -8,7 +8,7 @@
 <!ENTITY tracking.label                   "მომხმარებლის თვალმიდევნება">
 <!ENTITY trackingIntro.label              "ვებსაიტებს შეუძლიათ თქვენი თვალმიდევნება, შესაბამისად პირადულობის გარკვეულწილად დარღვევა.">
 
-<!ENTITY dntTellSites.label               "ამცნეთ ვებსაიტებს თქვენი სურვილის შესახებ">
+<!ENTITY dntTellSites.label               "აცნობეთ ვებსაიტებს თქვენი სურვილი">
 <!ENTITY dntTellSites.accesskey           "T">
 <!ENTITY dntTrackingNotOkay.label         "არ მსურს თვალი მადევნონ">
 <!ENTITY dntTrackingNotOkay.accesskey     "n">
@@ -23,9 +23,9 @@
   meaning "reported" (and not something like "known").
 -->
 <!ENTITY safeBrowsing.label               "უსაფრთხო სეანსი">
-<!ENTITY safeBrowsingIntro.label          "&brandShortName; ბრაუზერს შეუძლია დაბლოკოს საზიანო მასაალის შემცავი ნაპატაკები გვერდები.">
+<!ENTITY safeBrowsingIntro.label          "&brandShortName; ბრაუზერს შეუძლია დაბლოკოს საზიანო მასალის შემცავი ნაპატაკები გვერდები.">
 
-<!ENTITY blockAttackSites.label           "ნაპატაკები შემტევი საიტების (საზიანი, ვირუსები) დაბლოკვა">
+<!ENTITY blockAttackSites.label           "ნაპატაკები შემტევი საიტების (საზიანო, ვირუსები) დაბლოკვა">
 <!ENTITY blockAttackSites.accesskey       "B">
 
 <!ENTITY blockWebForgeries.label          "ნაპატაკები ვებ ყალთაბანდობის (ანკესობის) დაბლოკვა">

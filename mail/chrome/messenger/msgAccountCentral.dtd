@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "არხები">
 <!ENTITY subscribeFeeds.label         "ხელმოწერათა მართვა">
 
+<!ENTITY chat.label                   "ჩათი">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "ანგარიშები"> 
 <!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
 <!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება"> 
 <!ENTITY newAcctLink.label            "ახალი ანგარიშის შექმნა"> 
+<!ENTITY newAcct.label                "ახალი ანგარიშის შექმნა:">
 
 <!ENTITY advFeaturesSectionHdr.label  "დეტალური პარამეტრები"> 
 <!ENTITY searchMsgsLink.label         "წერილების ძიება"> 

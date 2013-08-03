@@ -21,6 +21,11 @@
 <!ENTITY aboutSupport.appBasicsName "სახელი">
 <!ENTITY aboutSupport.appBasicsVersion "ვერსია">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "განახლების ისტორია">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "განახლების ისტორიის ჩვენება">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დასტა">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
