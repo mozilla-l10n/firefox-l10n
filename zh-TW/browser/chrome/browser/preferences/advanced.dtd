@@ -48,7 +48,7 @@
 <!ENTITY telemetryLearnMore.label        "更多資訊">
 
 <!ENTITY crashReporterSection.label      "程式錯誤回報員">
-<!ENTITY crashReporterDesc.label         "&brandShortName; 將會傳送錯誤回報，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
+<!ENTITY crashReporterDesc.label         "&brandShortName; 將會傳送錯誤報告，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
 <!ENTITY enableCrashReporter.label       "啟用程式錯誤回報員">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "更多資訊">

@@ -30,7 +30,7 @@
 
 <!ENTITY choose_file "選擇檔案">
 
-<!ENTITY awesomebar_default_text "輸入要搜尋的資料或是網址">
+<!ENTITY awesomebar_default_text "輸入要搜尋的資料或網址">
 
 <!ENTITY remote_tabs "已同步的分頁">
 <!ENTITY remote_tabs_show_all "顯示所有分頁">
@@ -64,27 +64,17 @@
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
+<!ENTITY pref_category_advanced "進階">
 <!ENTITY pref_category_customize "自訂">
-<!ENTITY pref_category_search "搜尋">
+<!ENTITY pref_category_search2 "搜尋設定">
 <!ENTITY pref_category_display "顯示">
 <!ENTITY pref_category_privacy_short "個人隱私">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "資料選擇">
 <!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_general "一般">
-<!ENTITY pref_category_privacy "個人隱私與安全">
-<!ENTITY pref_category_content "內容">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_header_general "一般">
-<!ENTITY pref_header_privacy "個人隱私與安全">
-<!ENTITY pref_header_content "內容">
-<!-- end of old strings -->
-
+<!ENTITY pref_category_devtools "開發者工具">
+<!ENTITY pref_developer_remotedebugging "遠端除錯">
+<!ENTITY pref_developer_remotedebugging_docs "詳細資訊">
 <!ENTITY pref_remember_signons "記住密碼">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -93,6 +83,7 @@
 <!ENTITY pref_header_privacy_short "個人隱私">
 <!ENTITY pref_header_help "說明">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "開發者工具">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "啟用">
@@ -113,8 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom3 "雙擊以重排文字">
-<!ENTITY pref_restore_session "總是還原分頁標籤">
+<!ENTITY pref_reflow_on_zoom4 "重排文字">
+<!ENTITY pref_restore "分頁">
+<!ENTITY pref_restore_always "總是還原">
+<!ENTITY pref_restore_crash "發生錯誤後再還原">
+<!ENTITY pref_restore_never "不要還原">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -169,7 +163,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "檢視我的健康檢查報告">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 &vendorShortName; 以幫助我們讓 &brandShortName; 變得更好">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤回報，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; 將會傳送錯誤報告，以幫助 &vendorShortName; 讓您的瀏覽器變得更穩定、更安全">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
@@ -196,7 +190,7 @@ size. -->
 <!ENTITY desktop_mode "開啟桌面版網站">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "開新分頁">
-<!ENTITY new_private_tab "新增隱私瀏覽分頁">
+<!ENTITY new_private_tab "開新隱私瀏覽分頁">
 <!ENTITY close_all_tabs "關閉所有分頁">
 <!ENTITY tabs_normal "分頁">
 <!ENTITY tabs_private "隱私">
@@ -335,6 +329,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "程式">
 
 <!ENTITY searchable_description "書籤與歷史紀錄">
+
+<!ENTITY devtools_remote_debugging_forward "別忘記設定轉發通訊埠 (port forwarding)！">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "有可用的 &brandShortName; 更新">
