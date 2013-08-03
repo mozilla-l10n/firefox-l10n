@@ -130,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "J">
 <!ENTITY viewCerts.label                 "Zertifikate anzeigen">
 <!ENTITY viewCerts.accesskey             "Z">
-<!ENTITY viewCRLs.label                  "Zertifikatsperrliste">
-<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                    "Validierung">
 <!ENTITY verify2.accesskey                "V">
 <!ENTITY viewSecurityDevices.label       "Kryptographie-Module">
