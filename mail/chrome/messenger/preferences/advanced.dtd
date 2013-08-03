@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Seall na teisteanasan">
 <!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewCRLs.label                 "Liosta nan cùl-ghairmean">
-<!ENTITY viewCRLs.accesskey             "r">
 <!ENTITY validation.label               "Dearbhadh">
 <!ENTITY validation.accesskey           "D">
 <!ENTITY viewSecurityDevices.label      "Innealan tèarainteachd">
