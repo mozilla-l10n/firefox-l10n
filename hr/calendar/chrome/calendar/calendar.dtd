@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Šifra greške:">
 <!ENTITY calendar.error.description "Opis:">
 <!ENTITY calendar.error.title "Došlo je do greške">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Dodaj kao događaj">
+<!ENTITY calendar.extract.task.button          "Dodaj kao zadatak">
+<!ENTITY calendar.extract.event.button.tooltip "Izvezite kalendarske informacije iz poruke i dodajte ih u svoj kalendar kao događaj">
+<!ENTITY calendar.extract.task.button.tooltip  "Izvezite kalendarske informacije iz poruke i dodajte ih u svoj kalendar kao zadatak">
