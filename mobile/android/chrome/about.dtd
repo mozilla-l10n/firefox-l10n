@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Nach Updates suchen »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Nach Updates suchen…">
 <!ENTITY aboutPage.checkForUpdates.none         "Keine Updates verfügbar">
-<!ENTITY aboutPage.checkForUpdates.available    "Update verfügbar; zum Herunterladen antippen">
+<!ENTITY aboutPage.checkForUpdates.available2   "Update herunterladen">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Update wird heruntergeladen…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Update heruntergeladen; zum Installieren antippen">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Update installieren">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Hilfe">
 <!ENTITY aboutPage.privacyPolicy.label          "Datenschutzerklärung">

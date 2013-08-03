@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
 <!ENTITY  crash_message2 "&brandShortName; hatte ein Problem und ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
-<!ENTITY  crash_send_report_message2 "Absturzbericht an Mozilla senden, sodass das Problem behoben werden kann">
+<!ENTITY  crash_send_report_message3 "Absturzbericht an &vendorShortName; senden, sodass das Problem behoben werden kann">
 <!ENTITY  crash_include_url2 "Adresse der Seite hinzufügen, die geöffnet war">
 <!ENTITY  crash_sorry "Entschuldigung">
 <!ENTITY  crash_comment "Einen Kommentar hinzufügen (Kommentare sind öffentlich sichtbar)">
-<!ENTITY  crash_allow_contact "Mozilla erlauben, mich wegen dieser Meldung zu kontaktieren">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; erlauben, mich wegen dieser Meldung zu kontaktieren">
 <!ENTITY  crash_email "Ihre E-Mail-Adresse">
 <!ENTITY  crash_closing_alert "Beenden, ohne den Absturzbericht zu versenden?">
 <!ENTITY  sending_crash_report "Absturzbericht wird versandt\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Lesezeichen hinzugefügt">
 <!ENTITY bookmark_removed "Lesezeichen gelöscht">
 <!ENTITY bookmark_updated "Lesezeichen aktualisiert">
+<!ENTITY bookmark_options "Einstellungen">
 
 <!ENTITY history_today_section "Heute">
 <!ENTITY history_yesterday_section "Gestern">
@@ -59,7 +60,7 @@
 
 <!ENTITY close_tab "Tab schließen">
 <!ENTITY one_tab "1 Tab">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; Tabs">
 <!ENTITY new_tab_opened "Neuer Tab geöffnet">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
 <!ENTITY pref_plugins_disabled "Deaktiviert">
 <!ENTITY pref_text_size "Textgröße">
-<!ENTITY pref_reflow_on_zoom2 "Text nach Zoomen anpassen">
+<!ENTITY pref_reflow_on_zoom3 "Doppelt antippen, um Text neu umzubrechen">
 <!ENTITY pref_font_size_tiny "Winzig">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Mittel">
@@ -133,9 +134,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Heruntergeladene Dateien">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-Statistiken &amp; -Daten">
+<!ENTITY datareporting_notification_action_long "Wählen Sie die zu übermittelnden Informationen">
 <!ENTITY datareporting_notification_action "Was soll übermittelt werden">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendet automatisch einige Informationen an &vendorShortName;, um die Benutzerzufriedenheit zu verbessern.">
 <!ENTITY datareporting_notification_summary_short "&brandShortName; sendet automatisch…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -144,14 +147,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-Statusbericht">
-<!ENTITY datareporting_fhr_summary "Hilft beim Verstehen Ihrer Browser-Leistung und übermittelt Daten über den Browserstatus an &vendorShortName;.">
+<!ENTITY datareporting_fhr_summary2 "Sendet Daten über Ihren Browser-Status an &vendorShortName; und hilft Ihnen beim Verstehen der Leistung Ihres Browsers">
+<!ENTITY datareporting_abouthr_title "Meinen Statusbericht anzeigen">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Übermittelt an &vendorShortName; Browser-Daten wie Performanz, Nutzung, Hardware und Benutzeranpassungen des Browsers, um &brandShortName; zu verbessern.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; übermittelt Absturzberichte, um &vendorShortName; dabei zu helfen, den Browser stabiler und sicherer zu machen.">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName;-Absturzmelder">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Absturzmelder">
+<!ENTITY datareporting_wifi_title "&vendorShortName;-Standortdienste">
+<!ENTITY datareporting_wifi_summary "Helfen Sie bei der Verbesserung von Standortdiensten für das Offene Internet, indem Sie &brandShortName; Mobilfunkmastdaten sammeln und anonym senden lassen.">
 
 <!ENTITY pref_update_autodownload "Automatische Updates">
 <!ENTITY pref_update_autodownload_wifi "Nur über WLAN">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Diese Seite wird betrieben von">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Diese Seite enthält Inhalt, der nicht sicher ist.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat Inhalt blockiert, der nicht sicher ist.">
+<!ENTITY blocked_mixed_content_message_bottom "Die meisten Websites funktionieren weiterhin, wenn diese Art Inhalt blockiert wird.">
+<!ENTITY learn_more "Weitere Informationen">
+<!ENTITY enable_protection "Schutz aktivieren">
+<!ENTITY disable_protection "Schutz deaktivieren">
+<!ENTITY keep_blocking "Weiterhin blockieren">
 
 <!ENTITY private_data_success "Private Daten gelöscht">
 <!ENTITY private_data_fail "Einige private Daten konnten nicht gelöscht werden">
