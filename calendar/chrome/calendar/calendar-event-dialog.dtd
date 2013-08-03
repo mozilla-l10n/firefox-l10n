@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Kategorija:">
 <!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.categories.textbox.label                   "Dodaj novu kategoriju" >
+<!ENTITY event.categories.textbox.accesskey               "o">
 <!ENTITY event.calendar.label                             "Kalendar:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Sudionici:" >
