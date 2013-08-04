@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Gavėjas ">
-<!ENTITY fromField3.label "Nuo ">
-<!ENTITY senderField3.label "Siuntėjas ">
-<!ENTITY organizationField3.label "Organizacija ">
-<!ENTITY replyToField3.label "Atsakymą gaus ">
+<!ENTITY toField4.label "Gavėjas">
+<!ENTITY fromField4.label "Nuo">
+<!ENTITY senderField4.label "Siuntėjas">
+<!ENTITY organizationField4.label "Organizacija">
+<!ENTITY replyToField4.label "Atsakymą gaus">
 
-<!ENTITY subjectField3.label "Tema ">
-<!ENTITY ccField3.label "Kopija ">
-<!ENTITY bccField3.label "Nematomoji kopija ">
-<!ENTITY newsgroupsField3.label "Naujienų grupės ">
-<!ENTITY followupToField3.label "Atsakyti į grupę ">
-<!ENTITY tagsHdr3.label "Gairės ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "Pašto programa ">
-<!ENTITY referencesField3.label "Nuorodos ">
-<!ENTITY messageIdField3.label "Laiško ID ">
-<!ENTITY inReplyToField3.label "Atsakymas į ">
-<!ENTITY originalWebsite3.label "Svetainė ">
+<!ENTITY subjectField4.label "Tema">
+<!ENTITY ccField4.label "Kopija">
+<!ENTITY bccField4.label "Nematomoji kopija">
+<!ENTITY newsgroupsField4.label "Naujienų grupės">
+<!ENTITY followupToField4.label "Atsakyti į grupę">
+<!ENTITY tagsHdr4.label "Gairės">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Pašto programa">
+<!ENTITY referencesField4.label "Nuorodos">
+<!ENTITY messageIdField4.label "Laiško ID">
+<!ENTITY inReplyToField4.label "Atsakymas į">
+<!ENTITY originalWebsite4.label "Svetainė">
 
 <!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
 <!ENTITY editMessageButton.label "Taisyti…">

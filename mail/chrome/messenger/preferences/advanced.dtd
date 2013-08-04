@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Liudijimų peržiūra">
 <!ENTITY viewCertificates.accesskey     "L">
-<!ENTITY viewCRLs.label                 "Atšauktų sąrašai">
-<!ENTITY viewCRLs.accesskey             "A">
 <!ENTITY validation.label               "Patikra">
 <!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Saugumo priemonės">
