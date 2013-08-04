@@ -333,6 +333,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcadores e histórico">
 
+<!ENTITY devtools_remote_debugging_forward "Não esquecer de configurar o port forwarding!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para transferir.">
