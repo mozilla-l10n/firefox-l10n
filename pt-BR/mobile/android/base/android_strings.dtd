@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY  crash_message2 "O &brandShortName; encontrou um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando você reiniciar.">
-<!ENTITY  crash_send_report_message2 "Notificar a Mozilla para que eles possam corrigi-lo">
+<!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página em que eu estava">
 <!ENTITY  crash_sorry "Nos desculpe">
 <!ENTITY  crash_comment "Adicione um comentário (será visível publicamente)">
-<!ENTITY  crash_allow_contact "Permitir que a Mozilla contate-me sobre este relatório">
+<!ENTITY  crash_allow_contact2 "Permitir que a &vendorShortName; contate-me sobre este relatório">
 <!ENTITY  crash_email "Seu email">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório do travamento?">
 <!ENTITY  sending_crash_report "Enviando relatório do travamento\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Favorito adicionado">
 <!ENTITY bookmark_removed "Favorito excluído">
 <!ENTITY bookmark_updated "Favoritos atualizados">
+<!ENTITY bookmark_options "Opções">
 
 <!ENTITY history_today_section "Hoje">
 <!ENTITY history_yesterday_section "Ontem">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
 <!ENTITY pref_plugins_disabled "Desativados">
 <!ENTITY pref_text_size "Tamanho do texto">
-<!ENTITY pref_reflow_on_zoom2 "Ajustar texto com gesto da pinça">
+<!ENTITY pref_reflow_on_zoom3 "Duplo toque para ajustar texto">
 <!ENTITY pref_font_size_tiny "Minúsculo">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Médio">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Downloads concluídos">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
 <!ENTITY datareporting_notification_action "Selecionar o que compartilhar">
 <!ENTITY datareporting_notification_summary "Para aprimorar sua experiência, o &brandShortName; automaticamente envia alguns dados para a &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Para aprimorar sua experiência, o &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Relatório de Integridade do &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Ajuda você a entender o desempenho do navegador e compartilha dados com a &vendorShortName; sobre a integridade do navegador.">
+<!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre a integridade do navegador e ajuda você a entender o desempenho dele.">
+<!ENTITY datareporting_abouthr_title "Exibir meu relatório de integridade">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Compartilha com a &vendorShortName; informações sobre o navegador que ajudarão a melhorar o &brandShortName;: dados sobre desempenho, padrões de uso, hardware e personalizações.">
 <!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro.">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Crash Reporter">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
+<!ENTITY datareporting_wifi_title "Serviços de localização da &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Ajude a aprimorar os serviços de geolocalização para a web aberta permitindo que o &brandShortName; colete e envie dados anônimos sobre torres de celulares">
 
 <!ENTITY pref_update_autodownload "Atualização automática">
 <!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é administrado por">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Esta página está exibindo conteúdo não seguro.">
+<!ENTITY blocked_mixed_content_message_top "O &brandShortName; bloqueou conteúdo não seguro.">
+<!ENTITY blocked_mixed_content_message_bottom "A maioria dos sites ainda funcionará corretamente mesmo com este conteúdo bloqueado.">
+<!ENTITY learn_more "Saiba mais">
+<!ENTITY enable_protection "Ativar proteção">
+<!ENTITY disable_protection "Desativar proteção">
+<!ENTITY keep_blocking "Continuar bloqueando">
 
 <!ENTITY private_data_success "Dados de navegação limpos">
 <!ENTITY private_data_fail "Alguns dados de navegação podem não ter sido limpos">
