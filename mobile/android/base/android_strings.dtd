@@ -64,8 +64,9 @@
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
+<!ENTITY pref_category_advanced "Avancé">
 <!ENTITY pref_category_customize "Personnalisation">
-<!ENTITY pref_category_search "Recherche">
+<!ENTITY pref_category_search2 "Paramètres de recherche">
 <!ENTITY pref_category_display "Affichage">
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -74,19 +75,6 @@
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_general "Général">
-<!ENTITY pref_category_privacy "Vie privée et sécurité">
-<!ENTITY pref_category_content "Contenu">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_header_general "Général">
-<!ENTITY pref_header_privacy "Vie privée et sécurité">
-<!ENTITY pref_header_content "Contenu">
-<!-- end of old strings -->
 
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 
@@ -117,7 +105,7 @@
 <!ENTITY pref_plugins_tap_to_play "Appuyer pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
-<!ENTITY pref_reflow_on_zoom3 "Adapter texte en 2 appuis sur l\u0027écran">
+<!ENTITY pref_reflow_on_zoom4 "Adaptation du texte">
 <!ENTITY pref_restore_session "Restaurer les onglets">
 <!ENTITY pref_font_size_tiny "Très petite">
 <!ENTITY pref_font_size_small "Petite">
