@@ -4,8 +4,7 @@
 
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
-<!ENTITY recipientsColumn.label "Destinatarios">
-<!ENTITY toColumn.label "Para">
+<!ENTITY recipientColumn.label "Destinatario">
 <!ENTITY attachmentColumn.label "Adjuntos">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Fecha">
@@ -25,8 +24,7 @@
 <!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
 <!ENTITY threadColumn.tooltip "Haga clic para mostrar las conversaciones de mensajes">
 <!ENTITY fromColumn.tooltip "Haga clic para ordenar por remitente">
-<!ENTITY recipientsColumn.tooltip "Haga clic para ordenar por destinatarios">
-<!ENTITY toColumn.tooltip "Haga clic para ordenar por">
+<!ENTITY recipientColumn.tooltip "Haga clic para ordenar por destinatario">
 <!ENTITY attachmentColumn.tooltip "Haga clic para ordenar por adjuntos">
 <!ENTITY subjectColumn.tooltip "Haga clic para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Haga clic para ordenar por fecha">
