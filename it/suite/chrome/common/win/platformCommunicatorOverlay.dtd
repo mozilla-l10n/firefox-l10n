@@ -16,7 +16,7 @@
 <!ENTITY openHelpCmd.accesskey "C">
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY helpForIEUsers.label "Per utenti di Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY helpForIEUsers.accesskey "x">
 <!ENTITY helpMenu.label "Guida">
 <!ENTITY helpMenu.accesskey "G">
 <!ENTITY ctrlKey.label "Ctrl">
