@@ -6,7 +6,7 @@
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Apri indirizzo web…">
-<!ENTITY openCmd.accesskey "n">
+<!ENTITY openCmd.accesskey "w">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Apri file…">
 <!ENTITY openFileCmd.accesskey "A">
@@ -40,7 +40,7 @@
 <!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "n">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
