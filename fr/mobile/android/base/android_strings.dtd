@@ -106,7 +106,10 @@
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
 <!ENTITY pref_reflow_on_zoom4 "Adaptation du texte">
-<!ENTITY pref_restore_session "Restaurer les onglets">
+<!ENTITY pref_restore "Onglets">
+<!ENTITY pref_restore_always "Toujours restaurer">
+<!ENTITY pref_restore_crash "Restaurer après un plantage">
+<!ENTITY pref_restore_never "Ne jamais restaurer">
 <!ENTITY pref_font_size_tiny "Très petite">
 <!ENTITY pref_font_size_small "Petite">
 <!ENTITY pref_font_size_medium "Moyenne">
