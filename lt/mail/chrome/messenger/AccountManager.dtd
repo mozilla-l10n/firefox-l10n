@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "N">
 <!ENTITY addIMAccountButton.label "Nauja pokalbių paskyra…">
 <!ENTITY addIMAccountButton.accesskey "P">
+<!ENTITY addFeedAccountButton.label "Nauja sklaidos kanalų paskyra…">
+<!ENTITY addFeedAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Nauja kito tipo paskyra…">
 <!ENTITY addOtherAccountButton.accesskey "k">
 <!ENTITY setDefaultButton.label "Laikyti pirmąja">
