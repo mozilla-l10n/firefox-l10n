@@ -12,39 +12,39 @@
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
-<!ENTITY options.context.advancedSettings "Advanced settings">
+<!ENTITY options.context.advancedSettings "Paràmetres avançats">
 <!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
   -  restart label at right of settings that require a browser restart to be
   -  effective. -->
 
-<!ENTITY options.context.requiresRestart2  "Requires browser restart">
+<!ENTITY options.context.requiresRestart2  "Cal reiniciar el navegador">
 <!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
   -  restart button next to options.context.requiresRestart2 label. -->
 
-<!ENTITY options.restartButton.label  "Restart now">
+<!ENTITY options.restartButton.label  "Reinicia ara">
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
   -  triggers page refresh label next to the settings in the advanced settings
   -  group in the options panel which trigger page reload. -->
 
-<!ENTITY options.context.triggersPageRefresh2  "Current session only, reloads the page">
+<!ENTITY options.context.triggersPageRefresh2  "Només la sessió actual, recarrega la pàgina">
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label3    "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip   "Activar aquesta opció us permetrà utilitzar diverses eines per a desenvolupadors en el context del navegador">
+<!ENTITY options.enableChrome.label3    "Habilita la depuració del chrome">
+<!ENTITY options.enableChrome.tooltip   "Habilitar aquesta opció us permetrà utilitzar diverses eines per a desenvolupadors en el context del navegador">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label3    "Enable remote debugging">
+<!ENTITY options.enableRemote.label3    "Habilita la depuració remota">
 <!ENTITY options.enableRemote.tooltip   "Habilitar aquesta opció permetrà a les eines per a desenvolupadors depurar instàncies remotes del Firefox, com el Firefox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
-<!ENTITY options.disableJavaScript.label2    "Disable JavaScript">
-<!ENTITY options.disableJavaScript.tooltip   "Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.">
+<!ENTITY options.disableJavaScript.label2    "Inhabilita el JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "En habilitar aquesta opció s'inhabilitarà el JavaScript en la pestanya actual. Si es tanca la pestanya o la caixa d'eines, s'oblidarà aquest paràmetre.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -60,7 +60,7 @@
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
 
-<!ENTITY options.toolNotSupported.label  "* Not supported for current toolbox target">
+<!ENTITY options.toolNotSupported.label  "* No és compatible amb l'element actual de la caixa d'eines">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
@@ -71,11 +71,11 @@
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
-<!ENTITY options.webconsole.label            "Web Console">
+<!ENTITY options.webconsole.label            "Consola web">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console,
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 
-<!ENTITY options.enablePersistentLogging.label    "Enable persistent logs">
-<!ENTITY options.enablePersistentLogging.tooltip  "If you enable this option the Web Console will not clear the output each time you navigate to a new page">
+<!ENTITY options.enablePersistentLogging.label    "Habilita la persistència dels registres">
+<!ENTITY options.enablePersistentLogging.tooltip  "Si habiliteu aquesta opció la consola web no netejarà la sortida cada vegada que navegueu a una pàgina nova">

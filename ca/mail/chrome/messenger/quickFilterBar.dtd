@@ -161,27 +161,27 @@
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanMode.tooltip "Tag filtering mode">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Mode de filtrat d'etiquetes">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.label "Any of">
+<!ENTITY quickFilterBar.booleanModeAny.label "Qualsevol de">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "At least one of the selected tag criteria should match">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Com a mínim ha de coincidir  una de les etiquetes seleccionades">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.label "All of">
+<!ENTITY quickFilterBar.booleanModeAll.label "Totes">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "All of the selected tag criteria must match">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Han de coincidir totes les etiquetes seleccionades">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of

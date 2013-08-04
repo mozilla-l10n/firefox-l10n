@@ -12,14 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "Canals">
 <!ENTITY subscribeFeeds.label         "Gestiona les subscripcions">
 
-<!ENTITY chat.label                   "Chat">
+<!ENTITY chat.label                   "Xat">
 <!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Comptes">
 <!ENTITY subscribeImapFolders.label   "Gestiona les subscripcions de carpeta">
 <!ENTITY settingsLink.label           "Paràmetres d'aquest compte">
 <!ENTITY newAcctLink.label            "Crea un compte nou">
-<!ENTITY newAcct.label                "Create a new account:">
+<!ENTITY newAcct.label                "Crea un compte nou:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Característiques avançades">
 <!ENTITY searchMsgsLink.label         "Cerca missatges">
