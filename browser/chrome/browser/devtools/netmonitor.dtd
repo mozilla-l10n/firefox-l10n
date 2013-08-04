@@ -11,9 +11,9 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice): This is the label displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.emptyNotice2): This is the label displayed
   -  in the network table when empty. -->
-<!ENTITY netmonitorUI.emptyNotice         "Įkelkite tinklalapį iš naujo, jeigu norite išsamios informacijos apie tinklo aktyvumą.">
+<!ENTITY netmonitorUI.emptyNotice2        "Įvykdykite užklausą arba įkelkite tinklalapį iš naujo, kad pamatytumėte išsamią informaciją apie tinklo aktyvumą.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
