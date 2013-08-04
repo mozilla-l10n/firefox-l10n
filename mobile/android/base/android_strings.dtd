@@ -64,8 +64,9 @@
 
 <!ENTITY settings "Definições">
 <!ENTITY settings_title "Definições">
+<!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_search "Procurar">
+<!ENTITY pref_category_search2 "Definições da pesquisa">
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -74,20 +75,6 @@
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber mais">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_general "Geral">
-<!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
-<!ENTITY pref_category_content "Conteúdo">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_header_general "Geral">
-<!ENTITY pref_header_privacy "Privacidade &amp; Segurança">
-<!ENTITY pref_header_content "Conteúdo">
-<!-- end of old strings -->
-
 <!ENTITY pref_remember_signons "Lembrar senhas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -117,8 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
 <!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho da letra">
-<!ENTITY pref_reflow_on_zoom3 "Toque duplo para normalizar o texto">
-<!ENTITY pref_restore_session "Restaurar sempre separadores">
+<!ENTITY pref_reflow_on_zoom4 "Toque duplo para normalizar o texto">
+<!ENTITY pref_restore "Separadores">
+<!ENTITY pref_restore_always "Restaurar sempre">
+<!ENTITY pref_restore_crash "Restaurar após erro">
+<!ENTITY pref_restore_never "Nunca restaurar">
 <!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
