@@ -40,7 +40,7 @@
 
 <!ENTITY viewMenu.label          "Sealladh">
 <!ENTITY viewMenu.accesskey        "S">
-<!ENTITY viewToolbarsMenu.label        "Na bàraichean-inneil">
+<!ENTITY viewToolbarsMenu.label        "Na bàraichean-inneal">
 <!ENTITY viewToolbarsMenu.accesskey      "N">
 <!ENTITY showTaskbarCmd.label          "Bàr na staide">
 <!ENTITY showTaskbarCmd.accesskey        "B">

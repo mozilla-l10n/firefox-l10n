@@ -208,7 +208,7 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "A h-uile">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "Leudaich a h-ùile snàth">
+<!ENTITY expandAllThreadsCmd.label "Leudaich a h-uile snàth">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Co-theannaich a h-uile snàth">
@@ -610,7 +610,7 @@
 <!ENTITY folderContextUnsubscribe.accesskey "u">
 <!ENTITY folderContextMarkNewsgroupRead.label "Cuir comharra gun deach am buidheann-naidheachd a leughadh">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "C">
-<!ENTITY folderContextMarkMailFolderRead.label "Cuir comharrach gun deach am pasgan a leughadh">
+<!ENTITY folderContextMarkMailFolderRead.label "Cuir comharra gun deach am pasgan a leughadh">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "C">
 <!ENTITY folderContextSubscribe.label "Fo-sgrìobh…">
 <!ENTITY folderContextSubscribe.accesskey "b">
