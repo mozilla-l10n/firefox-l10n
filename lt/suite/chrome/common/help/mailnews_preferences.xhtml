@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
@@ -15,7 +19,7 @@
 </head>
 <body>
 
-<h1 id="mail_and_newsgroup_preferences">Mail &amp; Newsgroup Preferences</h1>
+<h1 id="mail_and_newsgroup_preferences">Mail &amp; Newsgroups Preferences</h1>
 
 <p>The sections listed below describe the Mail &amp; Newsgroups preferences
   that apply to all your mail and newsgroup accounts. To see these
@@ -61,25 +65,33 @@
 <ul>
   <li><strong>Confirm when moving folders to the Trash</strong>: Choose to
     allow Mail &amp; Newsgroups to prompt you before deleting folders.</li>
-  <li class="win"><strong>Use &brandShortName; Mail as the default mail
-    application</strong>: Select &brandShortName; Mail &amp; Newsgroups as the
-    default mail application for Windows and from within other applications
-    such as Microsoft Word.
-
-    <p><strong>Note</strong>: Setting &brandShortName; Mail &amp; Newsgroups as
-      the default mail application may disable another mail application. To
-      restore the other mail application as the default, deselect this
-      option.</p>
-  </li>
   <li><strong>Remember the last selected message</strong>: Choose this option
     if you want &brandShortName; to select the message you had selected last
     before leaving a folder when you reenter a folder.</li>
   <li><strong>Preserve threading when sorting messages</strong>: Select this
     option if you want &brandShortName; to preserve the threaded message
-    grouping <a href="#sorting_and_threading_messages">when sorting
-    messages</a>. If it is not selected, &brandShortName; automatically
+    grouping
+    <a href="mailnews_using_mail.xhtml#sorting_and_threading_messages">when
+    sorting messages</a>. If it is not selected, &brandShortName; automatically
     displays the messages unthreaded when you sort them by clicking on the
     column headers.</li>
+  <li><strong>Only check for new mail after opening Mail &amp;
+    Newsgroups</strong>: By default, &brandShortName; checks for new messages
+    even if only a browser window is open. Choose this option if you want to
+    delay checking for new messages until after the Mail &amp; Newsgroups window
+    has been opened at least once (be it automatically <a
+    href="cs_nav_prefs_appearance.xhtml#appearance">on startup</a> or
+    manually).</li>
+  <li class="win"><strong>Make &brandShortName; the default application
+    for</strong>: Select &brandShortName; as the default mail, news or feeds
+    application for Windows and from within other applications such as Microsoft
+    Word.
+
+    <p><strong>Note</strong>: Setting &brandShortName; as the default
+      mail, news or feeds application may remove the connection that other
+      applications had with these tasks. Refer to the documentation of the
+      respective applications in order to find how to restore the defaults.</p>
+  </li>
   <li><strong>When Mail launches, show the Start Page in the message
     area</strong>: Select this to enable the Start Page. The Start Page
     appears in the message area when you first open &brandShortName; Mail &amp;
@@ -190,28 +202,39 @@
 </ol>
 
 <ul>
-  <li class="win"><strong>Show an alert</strong>: Select this if you want 
-    &brandShortName; Mail &amp; Newsgroups to display a sliding alert above 
-    your system tray in the lower right corner of your screen when new 
-    messages arrive. The sliding alert only appears once when new messages
-    arrive, and won&apos;t appear again until you bring the Mail &amp;
-    Newsgroups window to the front.
+  <li><strong>Show an alert for [__] seconds</strong>: Select this if you want 
+    &brandShortName; Mail &amp; Newsgroups to display an alert on your desktop
+    when new messages arrive. This alert is usually located above your system
+    tray in the lower right corner of your screen. The alert only appears once
+    when new messages arrive, stays for the specified amount of time, and
+    won&apos;t appear again until you have visited one of your folders with new
+    mail, read one of the new messages, or checked for new messages manually.
     <table>
       <tr>
         <td colspan="2"><img src="images/mail_newmail_alert.png" alt=""/></td>
       </tr>
       <tr>
         <td style="width: 20px;"></td>
-        <td><strong>Sliding new mail alert</strong></td>
+        <td><strong>New mail desktop alert</strong></td>
       </tr>
     </table>
-
-    <p>When the alert appears, clicking the link displayed in the alert will
-      take you to the first folder that has new mail.
+    The following options determine which message-specific items are shown in
+    the alert for each new message:
+    <ul>
+      <li><strong>Show a preview of the message text</strong>: Check this to
+        show the first few words of the message received in the alert.</li>
+      <li><strong>Show the subject</strong>: Check this to show the subject
+        line of the message in the alert.</li>
+      <li><strong>Show the sender</strong>: Check this to show the sender&apos;s
+        name or email address in the alert.</li>
+    </ul>
+    <p>When the alert appears, clicking an entry for a message will take you
+      to the respective folder and opens that message. You can close the alert
+      using the <strong>x</strong> button.
     </p>
 
     <p>The new message alert will continue to work even after you close the
-      Mail window (as long as another &brandShortName; application is running).
+      Mail window (as long as another &brandShortName; window is open).
     </p>
   </li>
 
@@ -219,12 +242,37 @@
     &brandShortName; Mail &amp; Newsgroups to display an icon in your system
     tray (which is usually found in the lower right corner of your screen) when
     new messages arrive. This icon will stay in the system tray until you have
-    visited one of your folders with new mail or checked for new messages
-    manually.
+    visited one of your folders with new mail, read one of the new messages,
+    or checked for new messages manually.
     <p style="text-indent: 20px"><img src="images/mail_newmail_trayicon.png"
       alt=""/>&nbsp;&nbsp;<strong>New mail tray icon</strong></p>
     <p>When the icon appears, double-clicking it will open the &brandShortName;
       Mail &amp; Newsgroups main window.</p>
+    <p><strong>Note</strong>: On Windows 7 and above, the Notification Area
+      Icons settings for &brandShortName; must read <q>Show icon and
+      notifications</q> for the icon to stay visible. Otherwise, it may be
+      hidden after a short period of time.</p>
+    <ul>
+      <li><strong>Show a balloon alert</strong>: As an alternative to the
+        desktop alert described above, you can use the operating system&apos;s
+        balloon notification. When new mail arrives, this will show the icon
+        along with a balloon indicating the number of new messages available
+        for the account.
+        <p style="text-indent: 20px"><img src="images/mail_newmail_balloon.png"
+          alt=""/><strong>Balloon&nbsp;alert</strong></p>
+        <p>When the balloon appears, clicking into it will open the Main &amp;
+          Newsgroup main window. The duration of the balloon alert depends on
+          the respective setting in your operating system. You can close the
+          balloon using the <strong>x</strong> button.</p>
+
+        <p>The new message alert will continue to work even after you close the
+          Mail window (as long as another &brandShortName; window is open).</p>
+
+        <p><strong>Note</strong>: <q>Show an alert for [__] seconds</q> and
+          <q>Show a balloon alert</q> cannot be selected at the same time.
+          Checking one option will uncheck the other.</p>
+      </li>
+    </ul>
   </li>
 
   <li class="mac"><strong>Animate the Dock icon</strong>: Select this if you
@@ -234,12 +282,12 @@
     Mail &amp; Newsgroups to play a sound when new messages arrive. You can
     choose between the default system sound and a custom sound in WAV format.
     If you choose the latter, use the Browse button to select the sound file in
-    the file locator. Click on the Preview button to listen to the chosen sound
+    the file locator. Click on the Play button to listen to the chosen sound
     file.
 
     <p>Once &brandShortName; Mail has been started, the new messages sound will
       continue to work even after you close the Mail window (as long as another
-      &brandShortName; application is running).</p>
+      &brandShortName; window is open).</p>
   </li>
 </ul>
 
@@ -277,17 +325,26 @@
     send the message when you&apos;re pressing Ctrl+Return in message editor.
     This may help you avoid accidentally sending the message if you enter the
     keyboard shortcut by mistake when composing a message.</li>
+  <li><strong>Select reply header type</strong>:
+    Select the type of reply header you wish to use. There are four choices
+    available:
+    <ol>
+      <li>No Reply Header</li>
+      <li>[Author] wrote:<br/>
+        This setting is based on the mailnews.reply_header_authorwrote 
+        preference.</li>
+      <li>On [date], [author] wrote:<br/>
+        This setting is based on a combination of the mailnews.reply_header_ondate, 
+        mailnews.reply_header_separator and mailnews.reply_header_authorwrote 
+        preferences.</li>
+      <li>[Author] wrote, On [date]:<br/>
+        This setting is based on a combination of the 
+        mailnews.reply_header_authorwrote, mailnews.reply_header_separator and 
+        mailnews.reply_header_ondate preferences.</li>
+    </ol>
+  </li>
   <li><strong>Wrap plain text messages at [__] characters</strong>: Enter a
     number to set the right margin for text in the message area.</li>
-  <li><strong>Check spelling before sending</strong>: Select this option to
-    have Mail &amp; Newsgroups always check the spelling of your message before
-    you send it.</li>
-  <li><strong>Check spelling as you type</strong>: Select this option to have
-    Mail &amp; Newsgroups always check the spelling of your message as you type
-    it.</li>
-  <li><strong>Language</strong>: Use the drop-down list to select the language
-    you want to use to check the spelling in your messages or to download more
-    dictionaries.</li>
   <li><strong>Defaults for HTML Messages</strong>: Here you can define what the
     defaults are for font, size, text and background color if you choose to
     send mails in HTML format.</li>
@@ -403,9 +460,10 @@
       message to one or more recipients for whom you don&apos;t have
       certificates on file.</p>
 
-    <p>See <a href="#adding_and_removing_ldap_directories">Adding and Removing
-      LDAP Directories</a> for information on setting LDAP directory server
-      settings.</p>
+    <p>See <a
+      href="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories">Adding
+      and Removing LDAP Directories</a> for information on setting LDAP
+      directory server settings.</p>
 
     <p><strong>Note</strong>: Directory server settings you enter from the
       Preferences dialog box apply to all your mail accounts. You can override
@@ -536,7 +594,8 @@
     <p><strong>Tip</strong>: Choose this option if you want to use a filter
       that automatically moves return receipt confirmation messages to a folder
       you specify. For information on creating and using filters, see
-      <a href="#creating_message_filters">Creating Message Filters</a>.</p>
+      <a href="mailnews_organizing.xhtml#creating_message_filters">Creating
+      Message Filters</a>.</p>
   </li>
   <li><strong>Move it to my Sent Mail folder</strong>: Incoming return receipt
     confirmation messages are moved to your Sent mail folder.</li>
@@ -548,8 +607,8 @@
 </ul>
 
 <p>To override these global preferences for individual accounts, see
-  <a href="#return_receipts">Mail &amp; Newsgroups Account Settings - Return
-  Receipts</a>.</p>
+  <a href="mailnews_account_settings.xhtml#return_receipts">Mail &amp;
+  Newsgroups Account Settings - Return Receipts</a>.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
   section</a>]</p>
@@ -631,8 +690,8 @@
     of disk space you enter.</li>
 </ul>
 
-<p>See <a href="#working_offline">Working Offline</a> for information on
-  working offline.</p>
+<p>See <a href="mailnews_offline.xhtml#working_offline">Working Offline</a> for
+  information on working offline.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
   section</a>]</p>
