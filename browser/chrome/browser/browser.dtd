@@ -688,6 +688,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.showAll.accesskey "A">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Izinkan untuk Saat Ini Saja">
+<!ENTITY pluginActivateNow.label "Izinkan Saat Ini Saja">
 <!ENTITY pluginActivateAlways.label "Izinkan dan Ingat Selalu">
 <!ENTITY pluginBlockNow.label "Blokir Plugin">
