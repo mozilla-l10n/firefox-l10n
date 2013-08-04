@@ -28,7 +28,7 @@
 <!ENTITY passwordExpireCmd.label "Chiedi nuovamente accesso">
 <!ENTITY passwordExpireCmd.accesskey "C">
 <!ENTITY downloadManagerCmd.label "Gestione download">
-<!ENTITY downloadManagerCmd.accesskey "G">
+<!ENTITY downloadManagerCmd.accesskey "w">
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addOnsManagerCmd.label "Componenti aggiuntivi">
 <!ENTITY addOnsManagerCmd.accesskey "A">

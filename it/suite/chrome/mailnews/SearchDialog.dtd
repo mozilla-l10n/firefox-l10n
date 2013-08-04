@@ -6,8 +6,10 @@
 <!ENTITY searchHeading.accesskey "n">
 <!ENTITY searchSubfolders.label "Cerca nelle sottocartelle">
 <!ENTITY searchSubfolders.accesskey "o">
-<!ENTITY searchLocalSystem.label "Cerca sul sistema locale">
-<!ENTITY searchLocalSystem.accesskey "u">
+<!ENTITY searchOnHeading.label "Effettua operazioni di ricerca su:">
+<!ENTITY searchOnHeading.accesskey "z">
+<!ENTITY searchOnRemote.label "Server remoto">
+<!ENTITY searchOnLocal.label "Sistema locale">
 <!ENTITY resetButton.label "Cancella">
 <!ENTITY resetButton.accesskey "a">
 <!ENTITY openButton.label "Apri">
