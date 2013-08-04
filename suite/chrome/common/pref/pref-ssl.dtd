@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description "Naršyklė gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus ir prašyti leidimo prieš:">
 <!ENTITY warn.enteringsecure "įkeliant tinklalapį, turintį šifravimo priemones">
