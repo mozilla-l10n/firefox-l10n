@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Értesítés megjelenítése">
 <!ENTITY showAlertFor.accesskey           "r">
 <!ENTITY showAlertTimeEnd.label           "másodpercig">
-<!ENTITY showAlertTimeEnd.accesskey       "m">
 
 <!ENTITY showAlertPreviewText.label       "Idézet megjelenítése az üzenet szövegéből">
 <!ENTITY showAlertPreviewText.accesskey   "I">

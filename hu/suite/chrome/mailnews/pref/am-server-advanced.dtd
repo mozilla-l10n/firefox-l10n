@@ -4,8 +4,8 @@
 
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP-kiszolgáló könyvtár:">
-<!ENTITY serverDirectory.accesskey "k">
+<!ENTITY serverDirectory.label "IMAP server directory:">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Csak a feliratkozott mappák megjelenítése">
 <!ENTITY usingSubscription.accesskey "f">
 <!ENTITY dualUseFolders.label "A kiszolgáló támogat olyan mappákat, amelyek további almappákat és leveleket tartalmaznak">
@@ -15,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "A gyorsítótárazandó kiszolgáló-kapcsolatok maximális száma">
 <!ENTITY maximumConnectionsNumber.accesskey "o">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Ezek a beállítások meghatározzák a névtartományokat az IMAP-kiszolgálón">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Személyes névtartomány:">
 <!ENTITY personalNamespace.accesskey "S">
 <!ENTITY publicNamespace.label "Nyilvános (megosztott):">
@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "A kiszolgáló felülírhatja ezeket a névtartományokat">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3Desc.label "POP-levél letöltésekor erről a kiszolgálóról a következő mappa használata az új levelekhez:" >
-<!ENTITY globalInbox.label "Globális gyűjtő (Helyi mappák)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Beérkezett üzenetek mappa">
 <!ENTITY accountDirectory.accesskey "B">
 <!ENTITY deferToServer.label "Másik postafiók Beérkezett üzenetek mappája">
