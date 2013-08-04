@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Leisti serveriui keisti šias vardų sritis">
 <!ENTITY overrideNamespaces.accesskey "L">
 <!ENTITY pop3Desc.label "Naujus iš šio serverio POP3 protokolu gautus laiškus laikyti:" >
-<!ENTITY globalInbox.label "bendrųjų aplankų gautų laiškų poaplankyje">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "šio serverio paskyros gautų laiškų aplanke">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "kitos paskyros gautų laiškų aplanke">
