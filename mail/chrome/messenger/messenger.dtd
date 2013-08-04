@@ -32,8 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Compte de xat…">
 <!ENTITY newIMAccountCmd.accesskey "x">
-<!ENTITY newFeedAccountCmd.label "Feed Account…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newFeedAccountCmd.label "Compte de canals d'informació…">
+<!ENTITY newFeedAccountCmd.accesskey "i">
 <!ENTITY newIMContactCmd.label "Contacte del xat...">
 <!ENTITY newIMContactCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
@@ -489,8 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "a">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+<!ENTITY allowRemoteDebugging.label "Permet la depuració remota">
+<!ENTITY allowRemoteDebugging.accesskey "d">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Recupera">
@@ -539,8 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
 <!ENTITY replyListButton.tooltip "Respon a una llista de correu">
 <!ENTITY forwardButton.tooltip "Reenvia el missatge seleccionat">
-<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
-<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
+<!ENTITY forwardAsInline.tooltip "Reenvia el missatge seleccionat com text en el cos">
+<!ENTITY forwardAsAttachment.tooltip "Reenvia el missatge seleccionat com adjunció">
 <!ENTITY fileButton.tooltip "Mou el missatge seleccionat">
 <!ENTITY archiveButton.tooltip "Arxiva els missatges seleccionats">
 <!ENTITY nextButton.tooltip "Vés al següent missatge per llegir">
@@ -563,8 +563,8 @@
 <!ENTITY appmenuButton1.tooltip "Mostra el menú del &brandShortName;">
 <!-- Toolbar Button Popup -->
 
-<!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
-<!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
+<!ENTITY buttonMenuForwardAsInline.label "Reenvia en el cos del missatge">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reenvia com adjunt">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Missatge nou">
@@ -588,7 +588,7 @@
 
 <!ENTITY folderContextGetMessages.label "Recupera els missatges">
 <!ENTITY folderContextGetMessages.accesskey "g">
-<!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
+<!ENTITY folderContextOpenInNewWindow.label "Obre en una finestra nova">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Obre en una nova pestanya">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
@@ -707,24 +707,24 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Reenvia">
 <!ENTITY contextForward.accesskey "v">
-<!ENTITY contextForwardAsMenu.label "Forward As">
-<!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "Inline">
-<!ENTITY contextForwardAsInline.accesskey "I">
-<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Reenvia com">
+<!ENTITY contextForwardAsMenu.accesskey "e">
+<!ENTITY contextForwardAsInline.label "Text en el cos">
+<!ENTITY contextForwardAsInline.accesskey "t">
+<!ENTITY contextForwardAsAttachmentItem.label "Adjunció">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextMultiForwardAsAttachment.label "Reenvia com adjuncions">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "a">
 <!ENTITY contextMoveMsgMenu.label "Mou a">
 <!ENTITY contextMoveMsgMenu.accesskey "o">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copia a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextKillThreadMenu.label "Ignore Thread">
+<!ENTITY contextKillThreadMenu.label "Ignora la conversa">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
-<!ENTITY contextWatchThreadMenu.label "Watch Thread">
+<!ENTITY contextKillSubthreadMenu.label "Ignora la subconversa">
+<!ENTITY contextWatchThreadMenu.label "Vigila la conversa">
 <!ENTITY contextSaveAs.label "Anomena i desa…">
 <!ENTITY contextSaveAs.accesskey "s">
 <!ENTITY contextPrint.label "Imprimeix…">

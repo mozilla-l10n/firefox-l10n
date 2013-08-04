@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Política de retenció">
-<!ENTITY retentionUseAccount.label  "Utilitza les meves opcions del compte">
+<!ENTITY retentionUseAccount.label  "Utilitza els paràmetres del meu compte">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">

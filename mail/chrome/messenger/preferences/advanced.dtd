@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Visualitza els certificats">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Llistes de revocació">
-<!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY validation.label               "Validació">
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">

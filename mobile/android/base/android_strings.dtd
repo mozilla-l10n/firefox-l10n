@@ -95,13 +95,13 @@
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
-<!ENTITY pref_clear_private_data "Neteja les dades privades">
+<!ENTITY pref_clear_private_data "Neteja dades privades">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitats">
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida de la lletra">
-<!ENTITY pref_reflow_on_zoom3 "Toqueu dues vegades per ajustar el text">
+<!ENTITY pref_reflow_on_zoom3 "Toqueu 2 vegades per ajustar text">
 <!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -175,7 +175,7 @@ size. -->
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY find_in_page "Cerca a la pàgina">
-<!ENTITY desktop_mode "Sol·licita el lloc per a escriptori">
+<!ENTITY desktop_mode "Sol·licita per a escriptori">
 <!ENTITY tools "Eines">
 <!ENTITY new_tab "Pestanya nova">
 <!ENTITY new_private_tab "Pestanya privada nova">

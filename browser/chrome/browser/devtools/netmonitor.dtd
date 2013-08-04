@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY netmonitorUI.emptyNotice2        "Perform a request or reload the page to see detailed information about network activity.">
+<!ENTITY netmonitorUI.emptyNotice2        "Feu una sol·licitud o recarregueu la pàgina per veure informació detallada sobre l'activitat de la xarxa.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
 
@@ -65,7 +65,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterAll    "All">
+<!ENTITY netmonitorUI.footer.filterAll    "Tot">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 
@@ -85,15 +85,15 @@
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterFonts  "Fonts">
+<!ENTITY netmonitorUI.footer.filterFonts  "Lletra">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterImages "Images">
+<!ENTITY netmonitorUI.footer.filterImages "Imatges">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterMedia  "Media">
+<!ENTITY netmonitorUI.footer.filterMedia  "Multimèdia">
 <!-- LOCALIZATION NOTE (debuggerUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
 
