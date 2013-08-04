@@ -151,10 +151,12 @@
 <!ENTITY event.title.textbox.accesskey                    "P">
 <!ENTITY event.location.label                             "Vieta:" >
 <!ENTITY event.location.accesskey                         "V">
-<!ENTITY event.categories.label                           "Tipas:">
-<!ENTITY event.categories.accesskey                       "T">
+<!ENTITY event.categories.label                           "Kategorija:">
+<!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.textbox.label                   "Pridėti naują kategoriją" >
+<!ENTITY event.categories.textbox.accesskey               "n">
 <!ENTITY event.calendar.label                             "Kalendorius:" >
-<!ENTITY event.calendar.accesskey                         "K">
+<!ENTITY event.calendar.accesskey                         "o">
 <!ENTITY event.attendees.label                            "Dalyviai:" >
 <!ENTITY event.attendees.accesskey                        "D" >
 <!ENTITY event.alldayevent.label                          "Visos dienos įvykis" >
@@ -355,7 +357,7 @@
 <!ENTITY read.only.task.due.label        "Terminas:">
 <!ENTITY read.only.repeat.label          "Pasikartojimas:">
 <!ENTITY read.only.location.label        "Vieta:">
-<!ENTITY read.only.category.label        "Tipas:">
+<!ENTITY read.only.category.label        "Kategorija:">
 <!ENTITY read.only.organizer.label       "Organizuoja:">
 <!ENTITY read.only.reply.label           "Atsakyti:">
 <!ENTITY read.only.accept.label          "Aš dalyvausiu">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.categories.add.title "Naujas tipas">
+<!ENTITY pref.categories.add.title "Nauja kategorija">
 <!ENTITY pref.categories.addButton.label "Pridėti…">
 <!ENTITY pref.categories.addButton.accesskey "P">
-<!ENTITY pref.categories.edit.title "Taisomas tipas">
+<!ENTITY pref.categories.edit.title "Taisoma kategorija">
 <!ENTITY pref.categories.editButton.label "Taisyti…">
 <!ENTITY pref.categories.editButton.accesskey "T">
 <!ENTITY pref.categories.removeButton.label "Pašalinti">
@@ -14,6 +14,6 @@
 <!ENTITY pref.categories.color.label "Spalva">
 <!ENTITY pref.categories.usecolor.label "Parinkti spalvą">
 <!ENTITY pref.categories.none.label "(jokia)">
-<!ENTITY pref.categories.overwrite "Taip pavadintas įvykių tipas jau yra.\nAr norite jį pakeisti naujuoju?">
+<!ENTITY pref.categories.overwrite "Taip pavadinta kategorija jau yra.\nAr norite ją pakeisti naująja?">
 <!ENTITY pref.categories.overwrite.title "Dėmesio: pavadinimas dubliuojasi">
-<!ENTITY pref.categories.noBlankCategories "Prašom įvesti tipo pavadinimą.">
+<!ENTITY pref.categories.noBlankCategories "Prašom įvesti kategorijos pavadinimą.">

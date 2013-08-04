@@ -42,8 +42,8 @@
 <!ENTITY calendar.unifinder.tree.duedate.tooltip     "Spustelėkite, jei reikia surikiuoti pagal termino datą">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Užbaigtas">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip "Spustelėkite, jei reikia surikiuoti pagal tai, ar užbaigtas">
-<!ENTITY calendar.unifinder.tree.categories.label    "Tipas">
-<!ENTITY calendar.unifinder.tree.categories.tooltip  "Spustelėkite, jei reikia surikiuoti pagal tipą">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
+<!ENTITY calendar.unifinder.tree.categories.tooltip  "Spustelėkite, jei reikia surikiuoti pagal kategoriją">
 <!ENTITY calendar.unifinder.tree.location.label      "Vieta">
 <!ENTITY calendar.unifinder.tree.location.tooltip    "Spustelėkite, jei reikia surikiuoti pagal vietą">
 <!ENTITY calendar.unifinder.tree.status.label        "Eiga">
@@ -140,7 +140,7 @@
 <!ENTITY calendar.task-details.priority.normal.label "normalus">
 <!ENTITY calendar.task-details.priority.high.label   "aukštas">
 <!ENTITY calendar.task-details.status.label          "būsena">
-<!ENTITY calendar.task-details.category.label        "tipas">
+<!ENTITY calendar.task-details.category.label        "kategorija">
 <!ENTITY calendar.task-details.repeat.label          "pasikartojimas">
 <!ENTITY calendar.task-details.attachments.label     "priedai">
 <!ENTITY calendar.task-details.start.label           "pradžia">
@@ -301,7 +301,7 @@
 <!ENTITY calendarproperties.webdav.label            "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label            "CalDAV">
 <!ENTITY calendarproperties.wcap.label              "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label            "Tipas:">
+<!ENTITY calendarproperties.format.label            "Kategorija:">
 <!ENTITY calendarproperties.location.label          "Vieta:">
 <!ENTITY calendarproperties.refreshInterval.label        "Atšviežinimo intervalas:">
 <!ENTITY calendarproperties.refreshInterval.manual.label "Tik pagal komandą">
@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Klaidos kodas:">
 <!ENTITY calendar.error.description "Aprašas:">
 <!ENTITY calendar.error.title "Įvyko klaida">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Pridėti kaip įvykį">
+<!ENTITY calendar.extract.task.button          "Pridėti kaip darbą">
+<!ENTITY calendar.extract.event.button.tooltip "Išskirti iš laiško kalendorinę informaciją ir pridėti ją į kalendorių kaip įvykį">
+<!ENTITY calendar.extract.task.button.tooltip  "Išskirti iš laiško kalendorinę informaciją ir pridėti ją į kalendorių kaip darbą">
