@@ -15,11 +15,11 @@
 
 <!ENTITY crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
 <!ENTITY crash_message2 "Programa „&brandShortName;“ susidūrė su problema ir užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
-<!ENTITY crash_send_report_message2 "Praneškite „Mozillai“ apie šią strigtį">
+<!ENTITY crash_send_report_message3 "Praneškite „&vendorShortName;i“ apie šią strigtį">
 <!ENTITY crash_include_url2 "Į pranešimą įtraukti strigties metu atverto tinklalapio adresą">
 <!ENTITY crash_sorry "Apgailestaujame">
 <!ENTITY crash_comment "Pridėkite komentarą (pastaba: komentarai matomi viešai)">
-<!ENTITY crash_allow_contact "Leisti „Mozillai“ su Jumis susisiekti dėl šio pranešimo">
+<!ENTITY crash_allow_contact2 "Leisti „&vendorShortName;i“ su Jumis susisiekti dėl šio pranešimo">
 <!ENTITY crash_email "El. pašto adresas">
 <!ENTITY crash_closing_alert "Ar norite baigti darbą, neišsiuntę strigties pranešimo?">
 <!ENTITY sending_crash_report "Išsiunčiamas strigties pranešimas…">
@@ -41,6 +41,7 @@
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
+<!ENTITY bookmark_options "Savybės">
 
 <!ENTITY history_today_section "Šiandien">
 <!ENTITY history_yesterday_section "Vakar">
@@ -145,13 +146,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "„&brandShortName;“ sveikatos būklės ataskaitos">
-<!ENTITY datareporting_fhr_summary "Padeda Jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės sveikatos būklę">
+<!ENTITY datareporting_fhr_summary2 "Padeda Jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės sveikatos būklę">
+<!ENTITY datareporting_abouthr_title "Parodyti Jūsų naršyklės ataskaitą">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Naršyklės „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie naršyklės našumą, naudojamas funkcijas, tinkinimą ir įrenginio aparatinę įrangą">
 <!ENTITY datareporting_crashreporter_summary "„&brandShortName;“ strigčių pranešimus siunčia „&vendorShortName;i“ programos stabilumo ir saugumo gerinimo tikslais">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Strigčių pranešiklis">
+<!ENTITY datareporting_wifi_title "„Mozillos“ geografinės vietos nustatymo paslaugos">
+<!ENTITY datareporting_wifi_summary "Padėkite pagerinti atvirojo saityno vietos nustatymo paslaugas, leisdami „&brandShortName;“ kaupti ir siųsti anoniminius duomenis apie mobiliojo ryšio siųstuvus">
 
 <!ENTITY pref_update_autodownload "Automatiniai naujinimai">
 <!ENTITY pref_update_autodownload_wifi "Tik belaidžiu ryšiu">
@@ -284,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kurią valdo">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Šiame tinklalapyje esama įkelto neapsaugoto turinio.">
+<!ENTITY blocked_mixed_content_message_top "„&brandShortName;“ užblokavo neapsaugotą turinį.">
+<!ENTITY blocked_mixed_content_message_bottom "Dauguma svetainių veikia korektiškai net kai šis turinys blokuojamas.">
+<!ENTITY learn_more "Sužinoti daugiau">
+<!ENTITY enable_protection "Įgalinti apsaugą">
+<!ENTITY disable_protection "Išjungti apsaugą">
+<!ENTITY keep_blocking "Blokuoti toliau">
 
 <!ENTITY private_data_success "Privatieji duomenys išvalyti">
 <!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">

@@ -10,9 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Tikrinti, ar yra naujinimų »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Tikrinama, ar yra naujinimų…">
 <!ENTITY aboutPage.checkForUpdates.none         "Išleistų naujinimų nėra">
-<!ENTITY aboutPage.checkForUpdates.available    "Yra išleistas naujinimas; bakstelėkite jam parsiųsti">
+<!ENTITY aboutPage.checkForUpdates.available2   "Parsiųsti naujinimą">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Parsiunčiamas naujinimas…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Naujinimas parsiųstas; bakstelėkite jam įdiegti">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Įdiegti naujinimą">
 <!ENTITY aboutPage.faq.label                    "Klausimai ir atsakymai">
 <!ENTITY aboutPage.support.label                "Palaikymas">
 <!ENTITY aboutPage.privacyPolicy.label          "Privatumo politika">
