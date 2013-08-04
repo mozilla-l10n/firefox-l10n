@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "A &brandShortName; figyelmeztethet az aktuális weboldal titkosítási fokozatára. A &brandShortName; figyelmeztessen és kérdezzen rá, mielőtt">
 <!ENTITY warn.enteringsecure                "Betöltene egy titkosított oldalt">
