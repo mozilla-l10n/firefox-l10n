@@ -4,8 +4,7 @@
 
 <!ENTITY threadColumn.label "Wątek">
 <!ENTITY fromColumn.label "Nadawca">
-<!ENTITY recipientsColumn.label "Adresaci">
-<!ENTITY toColumn.label "Do">
+<!ENTITY recipientColumn.label "Adresat">
 <!ENTITY attachmentColumn.label "Załączniki">
 <!ENTITY subjectColumn.label "Temat">
 <!ENTITY dateColumn.label "Data">
@@ -26,8 +25,7 @@
 <!ENTITY columnChooser.tooltip "Zaznacz, które kolumny zostaną wyświetlone">
 <!ENTITY threadColumn.tooltip "Kliknij, aby posortować według wątków">
 <!ENTITY fromColumn.tooltip "Naciśnij, aby posortować według nadawcy">
-<!ENTITY recipientsColumn.tooltip "Kliknij, aby posortować według adresatów">
-<!ENTITY toColumn.tooltip "Kliknij, aby posortować według pola „Do”">
+<!ENTITY recipientColumn.tooltip "Kliknij, aby posortować według adresata">
 <!ENTITY attachmentColumn.tooltip "Kliknij, aby posortować według załączników">
 <!ENTITY subjectColumn.tooltip "Kliknij, aby posortować według tematu">
 <!ENTITY dateColumn.tooltip "Kliknij, aby posortować według daty">
