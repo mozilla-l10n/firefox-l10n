@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY newIMAccountCmd.label "Txat-kontua…">
 <!ENTITY newIMAccountCmd.accesskey "T">
+<!ENTITY newFeedAccountCmd.label "Jario-kontua…">
+<!ENTITY newFeedAccountCmd.accesskey "r">
 <!ENTITY newIMContactCmd.label "Txat-kontaktua…">
 <!ENTITY newIMContactCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Ireki gordetako mezua…">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Baimendu urruneko arazketa">
+<!ENTITY allowRemoteDebugging.accesskey "z">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Hartu posta">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Erantzun bidaltzaileari eta hartzaile guztiei">
 <!ENTITY replyListButton.tooltip "Erantzun posta-zerrendari">
 <!ENTITY forwardButton.tooltip "Birbidali hautatutako mezua">
+<!ENTITY forwardAsInline.tooltip "Birbidali hautatutako mezua barneko testu gisa">
+<!ENTITY forwardAsAttachment.tooltip "Birbidali hautatutako mezua eranskin gisa">
 <!ENTITY fileButton.tooltip "Artxibatu hautatutako mezua">
 <!ENTITY archiveButton.tooltip "Artxibatu hautatutako mezuak">
 <!ENTITY nextButton.tooltip "Mugitu irakurri gabeko hurrengo mezura">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
 <!ENTITY appmenuButton1.tooltip "Bistaratu &brandShortName; menua">
+<!-- Toolbar Button Popup -->
+
+<!ENTITY buttonMenuForwardAsInline.label "Birbidali barnean">
+<!ENTITY buttonMenuForwardAsAttachment.label "Birbidali eranskin gisa">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
@@ -578,8 +588,8 @@
 
 <!ENTITY folderContextGetMessages.label "Eskuratu mezuak">
 <!ENTITY folderContextGetMessages.accesskey "k">
-<!ENTITY folderContextOpenNewWindow.label "Ireki">
-<!ENTITY folderContextOpenNewWindow.accesskey "I">
+<!ENTITY folderContextOpenInNewWindow.label "Ireki leiho berrian">
+<!ENTITY folderContextOpenInNewWindow.accesskey "l">
 <!ENTITY folderContextOpenNewTab.label "Ireki fitxa berri batean">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
 <!ENTITY folderContextNew.label "Azpikarpeta berria…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "z">
 <!ENTITY contextForward.label "Birbidali">
 <!ENTITY contextForward.accesskey "B">
-<!ENTITY contextForwardAsAttachment.label "Birbidali eranskin gisa">
-<!ENTITY contextForwardAsAttachment.accesskey "i">
+<!ENTITY contextForwardAsMenu.label "Birbidali honela">
+<!ENTITY contextForwardAsMenu.accesskey "i">
+<!ENTITY contextForwardAsInline.label "Barnean">
+<!ENTITY contextForwardAsInline.accesskey "B">
+<!ENTITY contextForwardAsAttachmentItem.label "Eranskin gisa">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "E">
+<!ENTITY contextMultiForwardAsAttachment.label "Birbidali eranskin gisa">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "i">
 <!ENTITY contextMoveMsgMenu.label "Eraman hona">
 <!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Oraintsukoa">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "O">
 <!ENTITY contextCopyMsgMenu.label "Kopiatu hona">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Ezikusi haria">
+<!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.label "Ezikusi azpiharia">
+<!ENTITY contextWatchThreadMenu.label "Behatu haria">
 <!ENTITY contextSaveAs.label "Gorde honela…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Inprimatu…">

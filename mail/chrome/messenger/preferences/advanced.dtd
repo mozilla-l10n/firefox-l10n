@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Baliogabetze zerrendak">
-<!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY validation.label               "Balidazioa">
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
