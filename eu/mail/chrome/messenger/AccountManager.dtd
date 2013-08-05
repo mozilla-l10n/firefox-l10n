@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "G">
 <!ENTITY addIMAccountButton.label "Gehitu txat-kontua…">
 <!ENTITY addIMAccountButton.accesskey "t">
+<!ENTITY addFeedAccountButton.label "Gehitu jario-kontua…">
+<!ENTITY addFeedAccountButton.accesskey "r">
 <!ENTITY addOtherAccountButton.label "Gehitu bestelako kontua…">
 <!ENTITY addOtherAccountButton.accesskey "b">
 <!ENTITY setDefaultButton.label "Ezarri lehenetsi gisa">

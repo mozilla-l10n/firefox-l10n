@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Nori">
-<!ENTITY fromField3.label "Nork ">
-<!ENTITY senderField3.label "Bidaltzailea ">
-<!ENTITY organizationField3.label "Erakundea ">
-<!ENTITY replyToField3.label "Erantzun honi ">
+<!ENTITY toField4.label "Nori">
+<!ENTITY fromField4.label "Nork">
+<!ENTITY senderField4.label "Bidaltzailea">
+<!ENTITY organizationField4.label "Erakundea">
+<!ENTITY replyToField4.label "Erantzun honi">
 
-<!ENTITY subjectField3.label "Gaia ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Berri-taldeak ">
-<!ENTITY followupToField3.label "Jarraipena honi ">
-<!ENTITY tagsHdr3.label "Etiketak ">
-<!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "Erabiltzaile-agentea ">
-<!ENTITY referencesField3.label "Erreferentziak ">
-<!ENTITY messageIdField3.label "Mezu-IDa ">
-<!ENTITY inReplyToField3.label "Honi erantzunez ">
-<!ENTITY originalWebsite3.label "Webgunea ">
+<!ENTITY subjectField4.label "Gaia">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Berri-taldeak">
+<!ENTITY followupToField4.label "Jarraipena honi">
+<!ENTITY tagsHdr4.label "Etiketak">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Erabiltzaile-agentea">
+<!ENTITY referencesField4.label "Erreferentziak">
+<!ENTITY messageIdField4.label "Mezu-IDa">
+<!ENTITY inReplyToField4.label "Honi erantzunez">
+<!ENTITY originalWebsite4.label "Webgunea">
 
 <!ENTITY editMessageDescription.label "Mezua zirriborroa da">
 <!ENTITY editMessageButton.label "Editatu…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Erantzun posta-zerrendari">
 <!ENTITY hdrFollowupButton1.label "Jarraipena">
 <!ENTITY hdrFollowupButton1.tooltip "Bidali jarraipena berri-talde honetara">
+<!ENTITY hdrMenuForwardButton.label "Birbidali honela">
 <!ENTITY hdrForwardButton1.label "Birbidali">
 <!ENTITY hdrForwardButton1.tooltip "Birbidali mezua">
 <!ENTITY hdrJunkButton1.label "Zabor-posta">

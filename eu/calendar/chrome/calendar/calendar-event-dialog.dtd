@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Kategoria:">
 <!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.categories.textbox.label                   "Gehitu kategoria berria" >
+<!ENTITY event.categories.textbox.accesskey               "G">
 <!ENTITY event.calendar.label                             "Egutegia:" >
 <!ENTITY event.calendar.accesskey                         "E">
 <!ENTITY event.attendees.label                            "Partaideak:" >

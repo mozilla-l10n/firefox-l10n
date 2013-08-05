@@ -14,6 +14,8 @@
 
 <!ENTITY manageSubscriptions.label "Kudeatu harpidetzak…"> 
 <!ENTITY manageSubscriptions.accesskey "K">
+
+<!ENTITY feedWindowTitle.label "Jario-kontuaren morroia">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "Blogak eta berrien jarioak">

@@ -349,3 +349,9 @@
 <!ENTITY calendar.error.code "Errore-kodea:">
 <!ENTITY calendar.error.description "Azalpena:">
 <!ENTITY calendar.error.title "Errore bat gertatu da">
+<!-- Extract buttons in message header -->
+
+<!ENTITY calendar.extract.event.button         "Gehitu gertaera gisa">
+<!ENTITY calendar.extract.task.button          "Gehitu zeregin gisa">
+<!ENTITY calendar.extract.event.button.tooltip "Erauzi egutegi-informazioa mezutik eta gehitu zure egutegian gertaera gisa">
+<!ENTITY calendar.extract.task.button.tooltip  "Erauzi egutegi-informazioa mezutik eta gehitu zure egutegian zeregin gisa">
