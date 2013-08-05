@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
@@ -14,18 +10,24 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Despre &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; is experimental and may be unstable.">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; e experimental și poate deveni instabil.">
 <!ENTITY aboutPage.telemetryStart               " Acesta trimite automat informații legate de performanță, hardware, consum și personalizări înapoi către">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 "pentru a ajuta la îmbunătățirea &brandShortName;. ">
 <!ENTITY aboutPage.checkForUpdates.link         "Caută actualizări »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">
-<!ENTITY aboutPage.checkForUpdates.found        "Actualizare disponibilă">
+<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalează actualizarea">
 <!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
 <!ENTITY aboutPage.support.label                "Asistență">
 <!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialitate">

@@ -2,24 +2,30 @@
 # Translator(s):
 #
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutApps.title "Your Apps">
+<!ENTITY aboutApps.title2                          "Aplicații">
+<!ENTITY aboutApps.header                          "Aplicațiile dumneavoastră">
 
 <!-- LOCALIZATION NOTE (aboutApps.noApps.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 <!ENTITY aboutApps.noApps.pre "Nicio aplicație web instalată. Obține câteva de pe ">
-<!ENTITY aboutApps.noApps.middle "magazin de aplicații">
+<!ENTITY aboutApps.noApps.middle3 "Firefox Marketplace">
 <!ENTITY aboutApps.noApps.post ".">
+<!ENTITY aboutApps.uninstall "Dezinstalează">
+<!ENTITY aboutApps.addToHomescreen "Adaugă la ecranul principal">
 
