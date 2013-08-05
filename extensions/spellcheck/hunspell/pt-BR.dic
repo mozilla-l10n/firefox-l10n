@@ -1,4 +1,4 @@
-37695
+37804
 a
 à
 ª/!
@@ -13,7 +13,7 @@ abacaxi/p
 abadá/p
 abade/pb
 abadia/p
-abafar/XYPLDn
+abafar/XYPLMDn
 abaixar/XYPLMD
 abaixo
 abaixo-assinado/p
@@ -303,7 +303,7 @@ acarretar/XYPL
 acasalar/XYPLcM
 acaso/p
 acastanhado/fp
-acatar/XYPLMDv
+acatar/XYPLMDNv
 acautelar/XYPLS
 acavalado
 Access
@@ -399,10 +399,10 @@ acondicionar/XYPLcM
 acondimentar/XYPL
 aconselhar/XYPLSDvM
 aconsoantar/XYPL
-acontecer/XYLMP
+acontecer/XYPLM
 aço/p
 acoplagem/p
-acoplar/XYPLcDRMv
+acoplar/XYPLMDcvRS
 acórdão/a
 acordão/p
 acordar/XYPLSn
@@ -477,6 +477,7 @@ adágio/p
 Adair
 Adalberto
 Adam
+Adamantium
 Adamastor
 Adams
 Adão
@@ -521,6 +522,7 @@ adernar/XYPL
 adesão/pE
 adesismo/p
 adesista/p
+adesivar/XYPLc
 adesivo/fdplh
 adestrar/XYPLMD
 adeus/l
@@ -578,7 +580,6 @@ adorar/XYPLcDv
 adorativo
 adorável/m
 adormecer/XYPLRMD
-adormentar/XYPLD
 adornar/XYPL
 adorno/p
 adotante/p
@@ -818,7 +819,7 @@ afro-brasileiro/fp
 afrodescendente/p
 afrodisíaco/fp
 Afrodite
-afronta/p
+afronta/pw
 afrontar/XYPLcMD
 afrouxar/XYPLM
 afta/p
@@ -865,6 +866,7 @@ agnóstico/fp
 ago/!
 agonia/p
 agoniar/XYPLSn
+agônico/fp
 agonizar/XYPLn
 agora
 agorafobia/r
@@ -1087,6 +1089,7 @@ alça/p
 alçapão/p
 alçar/XYPLMD
 alcateia/p
+Alcatel
 alcatrão/p
 alcatra/p
 Alcatraz
@@ -1152,12 +1155,12 @@ Alessandro
 aleta/p
 alevantar/XYPL
 Alex
-Alexa
 Alexander
 Alexandra
 Alexandre
 Alexandria
 Alexandro
+Alexia
 Alexsander
 alfabético/fpH
 alfabetizar/XYPLc
@@ -1283,8 +1286,9 @@ aloka/!
 alombar/XYPL
 alongar/XYPLM
 Alonso
+alopecia/p
 alopragem/p
-aloprar/XYPLB
+aloprar/XYPLBW
 alourar/XYPL
 alpendre/p
 Alpes
@@ -1511,7 +1515,7 @@ Amílcar
 amimar/XYPLD
 aminoácido/p
 amiotrófico/fp
-amistoso/fpI
+amistoso/fpmI
 amiudai/L
 amiudais/L
 amiúda/L
@@ -1611,7 +1615,7 @@ Anália
 Analice
 analisar/XYPLDRv
 análise/pR
-analista/p
+analista/px
 analítico/fpH
 analogamente
 analogia/pr
@@ -1736,6 +1740,7 @@ Angelo
 angina/p
 angiologia
 angioplastia/p
+angiosperma/p
 anglicano/fpi
 anglicismo/p
 anglicizar/XYPL
@@ -1846,7 +1851,7 @@ antagonismo/p
 antagonista/p
 antagonizar/XYL
 antanho
-anta/p
+anta/ph
 Antaq
 antártico/fp
 Antártida
@@ -1924,7 +1929,7 @@ antenupcial
 anteontem
 anteparo/fp
 antepassar/XYL
-antepasto
+antepasto/p
 antepenúltimo/fp
 antepor/KPL
 anteporta
@@ -2006,7 +2011,6 @@ anticivismo/p
 anticlericalismo/p
 anticlerical/pi
 anticolérico
-anticomercial
 anticoncepcional/p
 anticonceptivo/fp
 anticonstitucionalissimamente
@@ -2052,7 +2056,6 @@ antipedagógico
 antiperspirante/p
 antípoda/p
 antípodes
-antipopular
 antiquado/fp
 antiquai/L
 antiquais/L
@@ -2178,14 +2181,14 @@ apartamento/plW
 apartar/XYPLcD
 apartear/ZYPL
 aparte/p
-apartheid/a
+apartheid/aA
 apartidário/fp
 apartidarismo
 aparvalhar/XYPL
 aparvoar/XYPLM
 apassivar/XYPLcDn
 apatetado/fp
-apatia/r
+apatia/pr
 apático/fpH
 apatifar/XYPL
 apátrida/p
@@ -2219,6 +2222,7 @@ apelo/pW
 apenas
 apêndice/p
 apendicite
+apê/p
 apequenar/XYPL
 aperceber/XYPLSM
 aperfeiçoar/XYPLMD
@@ -2530,6 +2534,7 @@ argamassa
 argamassar/XYPLD
 Argélia
 argelino/fp
+Argemiro
 argênteo/fp
 Argentina
 argentino/fp
@@ -2802,6 +2807,7 @@ arvoredo/p
 arvorezinha/p
 arvorismo/p
 Ary
+Aryane
 as
 ás
 às
@@ -2861,7 +2867,7 @@ assadura/p
 assalariado/fp
 assaltar/XYPLn
 assalto/p
-assanhar/XYPLMN
+assanhar/XYPLMNW
 assar/XYPLD
 assassinar/XYPLMD
 assassinato/p
@@ -2963,7 +2969,7 @@ Asterix
 asteroide/p
 astigmatismo/p
 Astolfo
-astral/pd
+astral/pmd
 Astrid
 astrofísico/fp
 astrolábio/p
@@ -3020,7 +3026,7 @@ atemporal/pd
 Atenas
 atenção/pS
 atencioso/fpSmlh
-atender/XYPLDMvn
+atender/XYPLDMvnS
 ateniense/p
 atentado/p
 atentar/XYPL
@@ -3637,6 +3643,7 @@ bacana/phF
 bacanérrimo/fp
 bacante/p
 bacanudo/fp
+bacará/p
 Bacelar
 Bach
 bacharelando
@@ -3662,7 +3669,6 @@ bactéria/p
 bactericida/p
 bacteriologia/qtr
 bacterioscopia
-bacteriose
 bacurinha/p!
 bacuri/p
 bad
@@ -3740,7 +3746,7 @@ balaclava/p
 balaço
 balacobaco
 balada/phE
-baladeiro/fp
+baladeiro/fpx
 balaio/p
 balalaica/p
 balança/ph
@@ -3784,6 +3790,7 @@ balístico/fp
 balizagem/p
 baliza/p
 balizar/XYPLMD
+Ball
 ballet
 Ballmer
 balneabilidade/p
@@ -3893,7 +3900,6 @@ baranga/pG
 barão/px
 barata/p
 baratear/ZYPLMD
-barateio
 barateiro/p
 barateza
 barato/fplhs
@@ -4073,6 +4079,7 @@ baunilha
 baú/p
 bauru/p
 bávaro/fp
+Ba-Vi
 Baviera
 Bayer
 Bayern
@@ -4106,6 +4113,8 @@ beatnik/a
 beato/fpis
 Beatriz
 Beaujolais
+beautiful
+Beauvoir
 bêbado/fp
 bebedeira/p
 bebedouro/p
@@ -4121,7 +4130,7 @@ Bebeto
 bebezão/fp
 bebezinho/fp
 bebida/ph
-bebum/p
+bebum/px
 beça
 beca/p
 because
@@ -4387,7 +4396,7 @@ bestearia/p
 besteira/ph
 besteirol/p
 bestializar/XYPLcD
-bestial/pmd
+bestial/pmdi
 bestiário
 bestidade/p
 bestificar/XYPLcDn
@@ -4425,7 +4434,7 @@ Bianca
 biangular/p
 bianual/p
 biarticulado/fp
-biba/ph!
+biba/ph
 bibelô/p
 Bibi
 bíblia/p
@@ -4653,6 +4662,7 @@ bizarria
 bizarro/fpGsm
 Bizet
 biziu
+bizu
 bj/a!
 bjk/a!
 bjo/p!
@@ -4693,7 +4703,7 @@ blogueiro/pflh
 blogue/til
 Bloomberg
 bloquear/ZYPLSMDnN
-bloqueio/pS
+bloqueio/pSA
 bloquete/p
 blue/p
 Bluetooth
@@ -4792,6 +4802,7 @@ boia/pL
 boiar/YLn
 boias-frias
 boias/L
+boi-bumbá
 boicotar/XYPL
 boieis/L
 boie/L
@@ -4830,7 +4841,6 @@ bole/RL
 bolero/p
 boles/RL
 boletim/p
-boletineiro
 boleto/p
 bolhão
 bolha/ph
@@ -4939,6 +4949,7 @@ bordão/p
 borda/ph
 bordar/XYPLD
 Bordeaux
+bordejo/p
 bordel/p
 bordô
 bordoada/p
@@ -4952,6 +4963,7 @@ boricado/fp
 bórico
 Boris
 borla/tp
+borne/p
 Bornéu
 boro
 borocoxô/p
@@ -4987,7 +4999,7 @@ bosta/ph!
 Boston
 bot/a
 Botafogo/x
-botafoguense/p
+botafoguense/px
 bota-fora
 botânico/fp
 botão/p
@@ -5163,7 +5175,7 @@ brinks/!
 brinquedo/pl
 brinquedoteca/p
 brioche/p
-brioco/p!
+brioco/pl!
 brio/p
 brioso/fp
 brisa/ph
@@ -5284,7 +5296,7 @@ bug/aw
 bugiganga/p
 bugio/p
 bugre/pl
-buguento/pf
+buguento/fp
 Bugzilla
 build/a
 Bukowski
@@ -5296,6 +5308,7 @@ bulas/RL
 bulbo/p
 buldogue/p
 bule/t
+Bulgari
 Bulgária
 búlgaro/fp
 bulhufas
@@ -5306,6 +5319,7 @@ buli/RL
 bulir/YL
 bulis/RL
 bull
+bulls
 bullshit/!
 bullying
 bulo/RL
@@ -5314,12 +5328,14 @@ bumba
 bumbo/p
 bumbum/p
 bumerangue/p
+bundalelê
 bunda-mole/!
 bundão/fp!
-bunda/ph!
+bunda/ph
 bundas-moles/!
 Bündchen
 bundeiro/fp!
+bundudo/fp!
 bunker/a
 buquê/p
 buracão
@@ -5366,6 +5382,7 @@ but/!
 butano
 Butantã
 Butão
+butiá/p
 butim/p
 butique/p
 button/a
@@ -5393,7 +5410,7 @@ cabaré/p
 cabear/ZYPLMDc
 cabeçada/p
 cabeçalho/p
-cabeção/p
+cabeção/fp
 cabeça/ph
 cabecear/ZYLM
 cabeceio
@@ -5513,6 +5530,7 @@ cacófato/p
 cacofonia
 cacografia/p
 caco/pl
+cacto/p
 caçula/ph
 CAD
 cada
@@ -5604,8 +5622,8 @@ cair/KLM
 Cairo
 cais
 caixão/pf
-caixa/phx
 caixa-preta
+caixa/pthx
 caixas-pretas
 caixeiro/p
 caixilho/p
@@ -5657,7 +5675,7 @@ cálculo/pR
 Calcutá
 calda/p
 caldeirão/p
-caldeira/p
+caldeira/ph
 caldo/fpl
 caldo-verde
 calefação/p
@@ -5928,6 +5946,7 @@ Cannes
 canoagem/p
 canoa/p
 canoeiro
+canola/p
 Canon
 cânon
 cânone/p
@@ -5935,7 +5954,7 @@ Canonical
 canonicidade/p
 canônico/fpH
 canonizar/XYPLcDv
-cano/p
+cano/pl
 canopla/p
 cansaço/p
 cansadaço/fp
@@ -6190,7 +6209,6 @@ Carmelo
 Carmem
 Carmen
 Cármen
-Carminda
 Carminha
 Carmo
 Carmona
@@ -6229,6 +6247,7 @@ Caroline
 Carolzinha
 carona/ph
 caroneiro/fp
+carotenoide/p
 carótida
 carpa
 carpaccio
@@ -6301,7 +6320,7 @@ cartografar/XYPL
 cartografia/qr
 cartolagem/p
 cartola/p
-cartolina
+cartolina/p
 cartomancia/p
 cartomante/p
 cartonado/fp
@@ -6409,7 +6428,7 @@ casuístico/fp
 casulo/p
 cat/a
 catabólico/fpA
-catabolismo/p
+catabolismo/pA
 cataclísmico/fp
 cataclismo/p
 catacumba/p
@@ -6446,6 +6465,7 @@ catastrófico/fp
 catastrofismo/p
 catastrofista/p
 catatau
+catatonia/pi
 catatônico/fp
 catatua/p
 cata-vento/p
@@ -6472,6 +6492,8 @@ Catia
 Cátia
 catimba/ph
 catimbar/XYPLN
+catimbeiro/fp
+catimbento/fp
 catinga
 catingar/XYL
 catinguento/fp
@@ -6485,7 +6507,6 @@ catolicidade/p
 catolicismo/pA
 católico/fpA
 catolizar/XYPLc
-cato/p
 catorze
 catota/p
 catraca/p
@@ -6608,7 +6629,7 @@ ceia
 ceifar/XYPL
 Ceilão
 cela/p
-celeb/a!
+celeb/au!
 celebérrimo/fp
 celebrar/XYPLcDnv
 célebre/p
@@ -6720,7 +6741,6 @@ cérebro/p
 cereja/p
 cerejeira/p
 Cerf
-cerífero
 cerimonial
 cerimônia/p
 cerimoniar/XYPL
@@ -6880,7 +6900,7 @@ charque
 charrete/p
 charutaria/p
 charuteiro/f
-charuto/p
+charuto/pl
 chassi/p
 chat/a
 chateado/fpF
@@ -6974,6 +6994,7 @@ chifrudo/fp
 chihuahua
 Chile
 chileno/fp
+Chili
 chilicando
 chiliquento/fp
 chilique/pl
@@ -7002,7 +7023,7 @@ chiqueiro
 chiquérrimo/fp
 chiquetérrimo/fp
 Chiquinho/f
-Chiquititas
+chiquitita/px
 chispar/XY
 chiste/p
 Chitãozinho
@@ -7031,7 +7052,7 @@ chopeiro/fp
 chope/pl
 choperia/p
 Chopin
-choque/p
+choque/pl
 choradeira/p
 choramingão/fp
 choramingar/XYLD
@@ -7092,6 +7113,7 @@ churrasqueira/p
 churrasqueiro/fp
 churro/p
 chusma
+chutaço/p
 chutão/p
 chutar/XYPLc
 chuteira/p
@@ -7119,7 +7141,10 @@ ciao
 cia/p!
 ciático/fp
 Cibele
+Cibelle
 ciberataque/p
+ciberativismo/p
+ciberativista/p
 cibercafé/p
 cibercultura/p
 ciberespaço/p
@@ -7129,6 +7154,7 @@ ciberguerrilha/p
 cibernética/p
 cibernético/fp
 ciberterrorismo
+ciborgue/p
 Ciça
 cicatrizar/XYPLcnvD
 cicatriz/p
@@ -7282,11 +7308,13 @@ Cirilo
 círio/p
 Ciro
 cirrose/p
+cirurgiã-dentista
 cirurgião-dentista
-cirurgião/p
-cirurgia/p
+cirurgião/pb
+cirurgia/pEO
+cirurgiãs-dentista/p
 cirúrgico/fpH
-cirurgiões-dentistas
+cirurgiões-dentista/p
 cirzais/L
 cirza/L
 cirzam/L
@@ -7394,6 +7422,7 @@ Claudinha
 Claudinho
 Claudio
 Cláudio
+Claudionor
 claustrofobia/pqr
 claustro/fp
 cláusula/pu
@@ -7688,7 +7717,7 @@ coitar/XYPL
 coito/p
 colaborador/fpx
 colaborar/XYLcn
-colaborativo/fp
+colaborativo/fpm
 colagem/p
 colágeno/fp
 cola/ph
@@ -7700,11 +7729,9 @@ colarinhos-brancos
 colar/XYPLMDncNWSRpl
 colateral/pdm
 Colatina
-colatitude
 colchão/p
 colcha/p
 colchete/p
-colchoar/XYPL
 Coldplay
 coldre/p
 coleção/ptiE
@@ -7812,7 +7839,7 @@ combalir/XYPL
 combatente/px
 combate/p
 combater/XYPLMv
-combativo/pdf
+combativo/fpdx
 combinacional
 combinar/XYPLcDvRDn
 combinatório/fp
@@ -7863,7 +7890,7 @@ comerciai/L
 comerciais/L
 comercia/L
 comercializar/XYPLcD
-comercial/pmti
+comercial/pmtidA
 comerciam/L
 comerciamos/L
 comerciante/p
@@ -7885,12 +7912,13 @@ cometer/XYPLMDn
 comezinho/fp
 comic/a
 comicamente
+Comic-Con
 comichão/p
 comício/p
 cômico/fp
 comida/ph
 comigo
-comilança
+comilança/p
 comilão/fp
 comissão/pu
 comissariado
@@ -7969,7 +7997,7 @@ competi/L
 competimos/L
 competir/YLDP
 competis/L
-competitivo/fpdm
+competitivo/fpdmA
 compilais/L
 compila/L
 compilam/L
@@ -8290,7 +8318,7 @@ confidencial/dm
 confidência/p
 confidenciar/XYPL
 confidente/p
-configurar/XYPLRScv
+configurar/XYPLRScvE
 confim/p
 confinal
 confinar/XYPLcnM
@@ -8313,8 +8341,7 @@ confluir/KL
 conformar/XYPLcDI
 conformativo/fp
 conformável/pI
-conforme/pid
-conformismo/pI
+conforme/pidtI
 conformista/Ip
 confortar/XYPLRcMDnS
 confortativo
@@ -8407,7 +8434,7 @@ conquista/pR
 conquistar/XYPLDvR
 Conrado
 consagrar/XYPLRScDnvN
-consanguíneo/p
+consanguíneo/fp
 consanguinidade/p
 consciencialismo/p
 consciencializar/XYPLc
@@ -8487,6 +8514,7 @@ consórcio/p
 consorte/p
 conspicuidade/p
 conspícuo
+conspiracionista/p
 conspirar/XYLcDn
 conspirativo
 conspiratório/fp
@@ -8579,7 +8607,7 @@ consultadoria/p
 consulta/phE
 consultar/XYPLnv
 consultivo/fp
-consultor/fp
+consultor/fpx
 consultoria/p
 consultório/p
 cônsul/xVe
@@ -8735,7 +8763,7 @@ contorção/p
 contorcer/XYPL
 contorcionar/XYPL
 contorcionismo/p
-contorcionista
+contorcionista/p
 contornar/XYPLMv
 contornear/ZYPL
 contorno/p
@@ -9068,6 +9096,7 @@ copão/p
 copa/ph
 coparceiro
 coparticipar/XYPLn
+copartícipe/p
 copeiro/fp
 Copel
 Copenhague
@@ -9095,7 +9124,9 @@ coqueiral/p
 coqueiro/p
 coqueluche
 coque/p
+coquetéis-molotovs
 coqueteleira/p
+coquetel-molotov
 coquetel/p
 coração/p
 coraçãozinho
@@ -9157,6 +9188,7 @@ coroar/XYPLScM
 coroinha/px
 corolário/p
 Corolla
+coronariano/fp
 coronário/fp
 coronel/pil
 coronhada/p
@@ -9217,7 +9249,7 @@ correnteza
 correria/p
 correr/XYPLMDn
 correspondência/p
-correspondente/pm
+correspondente/pmx
 corresponder/XYLP
 corresponsável/pd
 corretagem/p
@@ -9672,7 +9704,7 @@ crustáceo/p
 cruzada
 cruzar/XYPLMDnv
 Cruze
-cruzeirense/p
+cruzeirense/px
 cruzeiro/p
 cruzeta/p
 cruz-maltino/fp
@@ -9689,7 +9721,6 @@ CTR
 ctrl
 ctz/!
 cuba
-Cuba
 cubano/fp
 Cubatão
 cúbico/fp
@@ -9718,6 +9749,7 @@ cuidadeira
 cuidado
 cuidadoso/fmSp
 cuidar/XYPLD
+cuiú-cuiú/p
 cujo/fp
 culatra
 culhão/p
@@ -9782,6 +9814,7 @@ curau
 curdo/fp
 curetagem/p
 cúria
+curial/id
 curinga/p
 curiosidadezinha/p
 curioso/fpmds
@@ -9868,6 +9901,8 @@ Cyrus
 czarina/p
 czar/pti
 d/!
+d'A/!
+d’A
 dadaísta/p
 dada/pPL
 dadas/PL
@@ -9912,7 +9947,7 @@ Damião
 Dâmocles
 damos/PL
 Dan
-danar/XYPLcMD
+danar/XYPLcMDW
 dançadinha/p
 dança/ph
 dançarino/fpx
@@ -10236,7 +10271,7 @@ degrau/pl
 degravar/XYPLc
 degredado/fp
 degringolar/XYPL
-degustar/XYPLc
+degustar/XYPLDc
 degustativo/fp
 dei/PL
 Deise
@@ -10291,7 +10326,7 @@ delimos/L
 delinear/ZYPLcMD
 delineativo
 delinquência/p
-delinquente/p
+delinquente/px
 delinquir/XYPL
 Délio
 delirante/pm
@@ -10739,7 +10774,7 @@ descerebrado/fp
 descerrar/XYPLM
 descer/XYPL
 Desciclopédia
-descida
+descida/ph
 desclassificar/XYPLc
 descloretar/XYPL
 descoberta/R
@@ -10791,7 +10826,6 @@ desconversar/XYPLv
 desconverter/XYPL
 descorado/fp
 descortês/fp
-descortiçar/XYPL
 descortinar/XYPLv
 descoube/L
 descoubemos/L
@@ -10878,7 +10912,6 @@ desencartar/XYPL
 desencavar/XYPL
 desencerrar/XYPLM
 desenclaustrar/XYPL
-desenconchar/XYPL
 desencontro/p
 desencovar/XYPL
 desenfaixar/XYPL
@@ -10987,7 +11020,7 @@ desgraçar/XYPLB
 desgraceira
 desgraduar/XYPL
 desgramado/fp
-desgrenhar/XYPL
+desgrenhar/XYPLB
 desídia/p
 design/a
 designar/XYPLcDB
@@ -11323,7 +11356,7 @@ desvincular/XYPLc
 desvio/p
 desvirginar/XYPLM
 desvirilizar/XYPL
-desvirtuar/XYPLcM
+desvirtuar/XYPLDcM
 detalhado/pfm
 detalhar/XYPLMNW
 detalhe/ptW
@@ -11565,7 +11598,6 @@ diarista/p
 diarreia/p
 diarreico/fpA
 diáspora
-diatônico
 diatribe/p
 Diaz
 diazepam
@@ -11834,8 +11866,7 @@ dispais/L
 dispa/L
 dispam/L
 dispamos/L
-disparar/XYPLDN
-disparatar/XYL
+disparar/XYPLDBN
 disparate/p
 disparidade/p
 disparo/p
@@ -11980,7 +12011,7 @@ divergi/L
 divergimos/L
 divergir/YL
 divergis/L
-diversão/p
+diversão/pt
 diversificar/XYPLDcnv
 diversionismo/p
 diversivo
@@ -12035,11 +12066,13 @@ DJ/a
 Djalma
 Djavan
 Djokovic
-DM
+DM/a
 DNA
 DNIT
-DNS
+DNS/a
 dnv/!
+d'O/!
+d’O
 dó
 doaçãozinha
 doaçõezinhas
@@ -12052,7 +12085,7 @@ doas/L
 dobermann
 dobrada/hp
 dobradeira
-dobradiça
+dobradiça/p
 dobradura/p
 dobragem/p
 dobrão
@@ -12181,6 +12214,7 @@ domingo/p
 Domingos
 domingueiro/fp
 Domingues
+Dominguinhos
 dominical/p
 dominicano/fp
 domínio/up
@@ -12253,7 +12287,7 @@ double
 Douglas
 dou/PL
 dourado/fp
-dourar/XYPLMD
+dourar/XYPLDMW
 douto/fpm
 doutorado/fpO
 doutoral/fp
@@ -12280,12 +12314,14 @@ DPVAT
 dra/!
 draconiano/fp
 Drácula
+draft/a
 drag
 dragagem/p
 dragão/p
 draga/p
 dragar/XYPLD
 drágea/p
+Dragon
 dramalhão/p
 drama/ph
 dramaticidade/p
@@ -12336,7 +12372,7 @@ dubiedade/p
 dúbio/fp
 dubitativo
 dubitável/dp
-dublagem/p
+dublagem/pR
 dublar/XYPLD
 dublê/p
 Dublin
@@ -12516,6 +12552,7 @@ editar/XYPLRv
 Edite
 édito/p
 editoração/p
+editora-chefe/x
 editora-executiva/x
 editoras-executivas
 editor-assistente/x
@@ -12566,7 +12603,7 @@ efetuar/XYPLcD
 eficácia
 eficaz/pmIs
 eficiência/pI
-eficiente/Ipm
+eficiente/Ipms
 Efigênia
 efígie/p
 efluência/p
@@ -12652,6 +12689,7 @@ elementar/pd
 elemento/p
 elencar/XYPL
 elenco/p
+Elenice
 Eleonora
 eletivo/fpd
 eletricamente
@@ -12687,6 +12725,7 @@ eletronic
 eletrônica/p
 eletrônico/pfH
 eletronics/a
+eletroportátil/a
 eletropositivo/p
 eletroquímico/fp
 eletrostático/fp
@@ -12758,6 +12797,7 @@ elucidar/XYPLc
 elucidativo/fp
 elucubrar/XYPLnc
 eludir/XYPL
+elusivo/fp
 Elvira
 Elvis
 Elza
@@ -12838,7 +12878,7 @@ embolar/XYPLc
 embolia/p
 embolismo/p
 êmbolo/p
-embolorado/fp
+embolorar/XYPL
 embolsar/XYPL
 embolso
 embora
@@ -12874,7 +12914,7 @@ embrutecer/XYPLMD
 embruxar/XYPLD
 Embu
 embuçado/fp
-embuchar/XYPL
+embuchar/XYPLS
 emburguesar/XYLM
 emburrar/XYPLM
 emburrecer/XYPLMD
@@ -12886,8 +12926,7 @@ emenda/ph
 emendar/XYPLDv
 emergencial/pm
 emergência/p
-emergente/p
-emergir/XYL
+emergir/XYPLn
 emérito/fp
 emersão
 emerso/fp
@@ -12905,14 +12944,13 @@ eminência/p
 eminenciar/XYL
 eminente/pms
 emir
-emirado
-Emirados
+emirado/p
 Emirates
 emissão/p
 emissário/p
 emissível
 emissivo/dfp
-emissor/fp
+emissor/fpx
 emissório
 emitir/XYPLn
 Emma
@@ -12930,7 +12968,7 @@ emoticon/a
 emotivo/fpd
 empacar/XYPLS
 empacotadeira
-empacotar/XYPLDMSR
+empacotar/XYPLDMvSR
 empadão/p
 empada/ph
 empáfia/p
@@ -12978,7 +13016,6 @@ empenhar/XYPLMDvB
 empenho/p
 emperiquitar/XYPL
 emperrar/XYPLSM
-empertigar/XYPL
 empestar/XYPLM
 empestear/ZYPL
 empilhadeira/p
@@ -12999,6 +13036,7 @@ empoderar/XYPLDMc
 empoeirar/XYPLS
 empolar/XYLM
 empoleirar/XYPL
+empolgadão/fp
 empolgar/XYPLncN
 emporcalhar/XYPL
 emporcar/XYPL
@@ -13022,11 +13060,11 @@ empresa/phx
 empresariado/p
 empresarial/p
 empresariar/XYPL
-empresário/fp
+empresário/fpx
 emprestar/XYPLDvN
 empréstimo/p
 emproar/XYLPM
-empulhar/XYPLc
+empulhar/XYPLDc
 empunhar/XYPL
 empurrão/pl
 empurrar/XYPLMD
@@ -13053,7 +13091,7 @@ encafifar/XYPL
 encaixar/XYPLRSMnW
 encaixe
 encaixotar/XYPLSMD
-encalacrar/XYPLcD
+encalacrar/XYPLDMc
 encalço
 encaldeirar/XYPL
 encalhar/XYPLScM
@@ -13064,7 +13102,7 @@ encamisar/XYPL
 encampar/XYPLMDc
 encanar/XYPLMDcS
 encantadoramente
-encantar/XYPLcMDS
+encantar/XYPLDMcNWS
 encantatório/fp
 encanteirar/XYPL
 encanto/pS
@@ -13204,7 +13242,7 @@ endomorfo/fp
 endoplasma
 endoplasmático/fp
 endorfina
-endoscopia
+endoscopia/pt
 endoscópico/fp
 endoscópio/p
 endossar/XYPLMDn
@@ -13231,7 +13269,7 @@ enfadonho/fpm
 enfaixar/XYPL
 enfardar/XYPLMD
 enfarinhar/XYPLM
-ênfase
+ênfase/p
 enfastiar/XYPLMn
 enfático/fpH
 enfatizar/XYPLcD
@@ -13461,6 +13499,7 @@ entediar/XYPLn
 entender/XYPLMDv
 ente/p
 enter
+enteral/p
 enterite/p
 enternecedor/fpH
 enternecer/XYPLM
@@ -13976,7 +14015,7 @@ escorregadio/fp
 escorregão/p
 escorregar/XYLMvPD
 escorrência/p
-escorrer/XYPLM
+escorrer/XYPLDM
 escoteiro/fp
 escotilha/p
 escovadela/p
@@ -14033,7 +14072,7 @@ escurecer/XYPLMDv
 escuridão
 escuro/fplh
 escuso/fp
-escuta/pti
+escuta/pA
 escutar/XYPLDR
 esdrúxulo/fp
 esfacelar/XYPLM
@@ -14071,7 +14110,7 @@ esganiçar/XYPL
 esgaravatar/XYPLMD
 esgarçar/XYPLM
 esgazeado/fp
-esgoelar/XYPLM
+esgoelar/XYPLMn
 esgotadouro
 esgotadura
 esgotar/XYPLMDnv
@@ -14250,7 +14289,6 @@ esperançoso/pfmS
 esperanto/t
 esperar/XYPLDvN
 esperma
-espermatose
 espermatozoide/p
 espernear/ZYL
 espertalhaço
@@ -14273,8 +14311,7 @@ espeto/pl
 espevitar/XYPLDB
 espezinhar/XYPL
 espiada/ph
-espiã/fp
-espião/fp
+espião/pbx
 espiar/XYPLD
 espichadela/p
 espichar/XYPL
@@ -14360,7 +14397,7 @@ esquadrinhar/XYPLMD
 esquadro/p
 esquálido/fp
 esquartejar/XYPLM
-esquecer/XYPLMD
+esquecer/XYPLDMN
 esquelético/fp
 esqueleto/pl
 esquemão/p
@@ -14485,6 +14522,7 @@ estatelar/XYPLB
 estática
 estático/fpH
 estatismo
+estatista/p
 estatística
 estatístico/pfH
 estatizar/XYPLncRS
@@ -14628,7 +14666,7 @@ estorricar/XYPL
 estorvar/XYPLMD
 estorvo/p
 estou/L
-estourar/XYPL
+estourar/XYPLW
 estouro/p
 estrábico
 estrabismo/p
@@ -14671,8 +14709,8 @@ estrelona/p
 estremadura
 estremar/XYPLv
 estremecer/XYPLM
-estremunhar/XYPL
 estrepar/XYPL
+estrepitoso/fp
 estreptococo/p
 estressar/XYPLWnS
 estresse/pA
@@ -14702,7 +14740,7 @@ estropiar/XYPLcM
 estrovenga/p!
 estrume
 estrutural/pmi
-estrutura/p
+estrutura/pu
 estruturar/XYPLRcvDnS
 estuário/p
 estudadamente
@@ -14847,6 +14885,7 @@ evangelho/p
 evangélico/fpxA
 evangelismo/p
 evangelista/p
+evangelístico/fpH
 evangelizar/XYPLcDn
 Evanildo
 Evans
@@ -14894,8 +14933,7 @@ exagero/p
 exalar/XYPLcn
 exaltar/XYPLcMDn
 exame/pR
-examinando/p
-examinar/XYPLRDv
+examinar/XYPLRDvc
 exasperar/XYPLcDn
 exatidão/pI
 exato/pfm
@@ -15292,7 +15330,7 @@ faiscar/XYLcDn
 faiscazinha/p
 faisquinha/p
 faixa/ph
-fajuto/fp
+fajuto/fpG
 fake/p
 Falabella
 falácia/p
@@ -15482,6 +15520,7 @@ favorecer/XYPLSDMN
 favoritar/XYPLcM
 favorito/fpitsx
 favor/plS
+Fawkes
 faxina/ph
 faxinar/XYPL
 faxineiro/fpx
@@ -15495,7 +15534,8 @@ faz-tudo
 FB
 FBI
 FC
-fdp/a!
+fdp/!
+FDP/a!
 fds/!
 feature/p
 Febem
@@ -15628,7 +15668,7 @@ ferramental
 ferramenta/ph
 ferramenteiro
 ferrão/p
-Ferrari
+Ferrari/p
 ferrar/XYPLcD
 Ferraz
 Ferreira
@@ -15723,7 +15763,7 @@ ficheiro/p
 fictício/fpH
 fidagal/p
 fidalgo/pflhG
-fidalguia
+fidalguia/p
 fidedigno/pdf
 Fidel
 fidelidade/Ip
@@ -15887,7 +15927,7 @@ fita/ph
 fitar/XYPL
 fitness
 fito/fp
-fitoplâncton
+fitoplâncton/a
 fitoterapia
 fitoterápico/fp
 Fittipaldi
@@ -15907,6 +15947,7 @@ flagelo/p
 flagrantemente
 flagra/p
 flagrar/XYPLn
+flamante/p
 flama/p
 flambar/XYPL
 flamejar/XYLMn
@@ -15951,6 +15992,7 @@ fletimos/L
 fletir/YPL
 fletis/L
 fletor/p
+fleugma/p
 fleugmático/fp
 fleuma
 fleumático/fpH
@@ -15964,7 +16006,7 @@ flexível/pdmI
 flexivo/fpI
 flexor/fp
 Flickr
-Flintstones
+Flintstone/p
 flip/a
 fliperama/p
 Flipper
@@ -16054,7 +16096,7 @@ fofo/fplhGsF
 fofolete/p
 fofoqueiro/fp
 fofucho/fp
-fofura/ph
+fofura/phG
 fogaça
 fogaceira
 fogão/p
@@ -16412,6 +16454,7 @@ frescurada/p
 frescuragem/p
 frescura/ph
 frescurento/fp
+frescurite/p
 Fresno
 fresta/p
 fretar/XYPLMD
@@ -16423,6 +16466,7 @@ friagem/p
 Friburgo
 fricção/p
 friccionar/XYPLD
+Frida
 friday/a
 Friedrich
 frieira/p
@@ -16447,6 +16491,7 @@ frimas/L
 frimo/L
 frio/pfm
 friorento/fp
+friozão/p
 friozinho/p
 frisar/XYPLn
 Frísia
@@ -16468,6 +16513,7 @@ front
 frontal/pmdE
 fronteira/p
 fronteiriço/fp
+fronte/p
 frota/pt
 frouxidão/p
 frouxo/fpm
@@ -16744,7 +16790,6 @@ gamela/p
 gamer/a
 gameta/p
 gana
-ganadaria/p
 ganância/p
 gananciar/XYPL
 ganancioso/fp
@@ -16790,6 +16835,7 @@ Gardenal
 gardênia/p
 garfar/XYPL
 garfear/ZYPLD
+Garfield
 garfo/pl
 gargalhada/p
 gargalhar/XYLPn
@@ -16871,7 +16917,10 @@ gatilho/p
 gatil/p
 gatinhar/XYL
 gato/fplhs
+gatonet
+gato-pingado
 Gatorade
+gatos-pingados
 gatunagem/p
 gatuno/fpiG
 gauchai/L
@@ -16921,15 +16970,14 @@ Gees
 GeForce
 Geiger
 Geisel
-gêiser
+gêiser/p
 Geisy
 geladeira/ph
 gelado/pflh
 gelar/XYPLDN
 gelateria/p
-gelatina/p
+gelatina/pw
 gelatinizar/XYPLc
-gelatinoso/f
 geleia/p
 geleira/p
 gélido/fp
@@ -16938,9 +16986,8 @@ Gelol
 gelo/pl
 gel/pl
 Gelson
-gemada
+gemada/p
 gema/p
-gemar/XYPL
 gemedeira/p
 gêmeo/fp
 gemer/XYPLDn
@@ -16957,7 +17004,7 @@ generativo/f
 generatriz
 genérico/pfH
 generis
-generoso/fpmd
+generoso/fpmds
 gênero/up
 gênese
 Gênesis
@@ -16972,6 +17019,7 @@ gengiva/p
 gengivite/p
 Geni
 genial/pdm
+Genilson
 gênio/p
 geniosidade/p
 genioso/fp
@@ -17004,6 +17052,7 @@ geofísico/fp
 geografia/pr
 geográfico/pfH
 Geographic
+geoide/p
 geolocalização/p
 geologia/q
 geológico/pfH
@@ -17043,6 +17092,7 @@ geriatria/p
 geriátrico/fp
 geringonça/p
 gerir/ZYPL
+Germana
 germânico/fp
 germânio
 germanizar/XYPLc
@@ -17082,6 +17132,7 @@ Gi
 Giácomo
 Giancarlo
 Gianecchini
+Gianna
 Gianne
 giárdia/p
 giardíase/p
@@ -17132,6 +17183,7 @@ Giovani
 Giovanna
 Giovanni
 giradinha/p
+Girafales
 girafa/p
 girândola
 girar/XYPLcDn
@@ -17147,6 +17199,7 @@ Gisela
 Gisele
 Giseli
 Giselle
+Gislaine
 Git
 GitHub
 Giulia
@@ -17168,6 +17221,7 @@ glandular/p
 Glasgow
 glass
 Glauber
+Glauce
 Gláucio
 Glauco
 glaucoma/p
@@ -17190,7 +17244,6 @@ globalizar/XYPLnc
 global/pmid
 globo/pl
 glóbulo/p
-Glória
 glória/p
 gloriar/XYPL
 glorificar/XYPLcDn
@@ -17240,6 +17293,7 @@ goianiense/p
 goiano/fp
 Goiás
 Góis
+Goku
 golaço/p
 golada/p
 gola/p
@@ -17280,7 +17334,7 @@ gonzo/p
 good/a
 Goodyear
 googlar/XYPL
-Google
+Google/x
 GoPro
 gorar/XYPL
 gordaço/fp
@@ -17359,7 +17413,7 @@ gradiente/p
 grado/p
 graduadamente
 gradual/mit
-graduando/fp
+graduando/fpO
 graduar/XYPLcMDOB
 grã-duquesa
 grafar/XYPL
@@ -17399,7 +17453,7 @@ grandessíssimo/fp
 grandeza/p
 grandiloquência/p
 grandiloquente/pm
-grandioso/pfdm
+grandioso/pfdms
 grandote
 granel
 graneleiro/fp
@@ -17422,6 +17476,7 @@ grão-mestre/p
 grão-vizir/p
 graphic/a
 gras
+Grasieli
 grasnar/XYLDn
 grasnido/p
 grassar/XYL
@@ -17614,7 +17669,7 @@ guilhotinar/XYPLM
 Guimarães
 guinada/p
 guinar/XYPL
-guinchar/n
+guinchar/XYPLn
 guincho/p
 guindar/XYPL
 guindaste/p
@@ -18063,11 +18118,9 @@ hiena/p
 hierarquia/pr
 hierarquicamente
 hierarquizar/XYPLc
-hierocracia/pr
-hieroglífico/fp
 hieróglifo/p
 hífen
-hifenizar/XYPLc
+hifenizar/XYPLDc
 hifens
 Higgs
 high
@@ -18150,6 +18203,7 @@ hipódromo/p
 hipófise
 hipoglicemia/p
 hipoglicêmico/fp
+Hipoglós
 Hipólito
 hipopótamo/p
 hipossuficiente/p
@@ -18164,7 +18218,7 @@ hipótese/p
 hipotético/fpH
 hipotireoidismo/p
 hipotrofia
-hippie/p
+hippie/px
 hipster/a
 Hiran
 Hiro
@@ -18212,7 +18266,7 @@ holandês/fp
 holding
 holerite/fp
 holismo/p
-holístico/k
+holístico/fp
 Hollister
 Hollywood
 hollywoodiano/fp
@@ -18239,10 +18293,12 @@ Homero
 homessa
 homicídio/pq
 homilia/p
+hominem
 hominho/p
 hominídeo/p
 hominívoro
 homoafetivo/fp
+homoerótico/fp
 homofobia/pqrA
 homogeneamente
 homogeneidade/p
@@ -18261,7 +18317,7 @@ homogeneízes/L
 homogeneízo/L
 homogêneo/fp
 homografia/qr
-homologar/XYPLc
+homologar/XYPLDc
 homologatório/fp
 homologia/r
 homólogo/fp
@@ -18274,15 +18330,14 @@ homúnculo
 Honda
 Honduras
 hondurenho/fp
-honesto/fpmdS
+honesto/fpsmdS
 honey
 Hong
 Hong-Kong
 Honolulu
 honor
 honorário/fp
-honoravelmente
-honorável/pd
+honorável/pmd
 Honoré
 honorificar/XYPL
 honorífico/fpH
@@ -18464,6 +18519,7 @@ ibope/p
 Ibovespa
 Ibrahim
 ibuprofeno
+Icaraí
 Ícaro
 içar/XYPLM
 Icasa
@@ -18515,7 +18571,7 @@ idiossincrasia/p
 idiossincrático/fp
 idiota/piG
 idiotia
-idiotizar/XYPL
+idiotizar/XYPLc
 ido/L
 Idol
 idolatrar/XYPLciB
@@ -18609,7 +18665,6 @@ ilícito/fp
 ilicitude/p
 ilimitado/fpm
 ilimitável
-iliteracia
 Illinois
 illuminati/px
 Illustrator
@@ -18804,9 +18859,6 @@ imponderáveis
 imponderável/pmd
 imponência/p
 imponente/pm
-impopularidade/p
-impopularizar/XYL
-impopular/pds
 impor/KL
 importância/p
 importante/psS
@@ -18842,7 +18894,7 @@ impressivo/m
 impresso/pfR
 impressora/p
 impressor/fp
-imprestável
+imprestável/p
 impreterível/m
 imprevidência/p
 imprevidente/pm
@@ -19032,7 +19084,6 @@ incisor
 incisório
 incitar/XYPLcMDnv
 incitativo/m
-incivil
 incivilidade/p
 incivilizado/fp
 incivilizável
@@ -19099,7 +19150,6 @@ inconfessável/p
 inconfesso/fp
 inconfidência/p
 inconfidente/p
-inconformidade/p
 inconfortável/pm
 inconfundível/pm
 incongelável
@@ -19231,7 +19281,7 @@ indevassável/p
 indevido/mfp
 indevoto
 índex
-indexar/XYcD
+indexar/XYPLDcv
 Indianápolis
 indiano/fpti
 indianologia/q
@@ -19350,7 +19400,7 @@ inequivocadamente
 inequivocamente
 inequívoco/fp
 inércia
-inercial/p
+inercial/pm
 inerência/p
 inerente/pm
 inerme/p
@@ -19524,7 +19574,7 @@ inhaca
 inhame/p
 inibir/XYPLcDS
 inibitório/fpS
-inicializar/XYLRcPv
+inicializar/XYPLDRcv
 inicial/pmd
 iniciar/XYPLcDnN
 iniciático/fp
@@ -19637,8 +19687,6 @@ inserção/pR
 inserir/ZYRPL
 inseticida/p
 inseto/pl
-insídia
-insidiar/XYPLcD
 insidioso/mfp
 insight/a
 insigne
@@ -19994,7 +20042,7 @@ interveniência/p
 interveniente/p
 intervéns/L
 interventivo/fp
-interventor/p
+interventor/fp
 interventricular
 intervida/L
 intervidas/L
@@ -20335,9 +20383,8 @@ irrestaurável
 irrestringível
 irretocável/p
 irretratável
+irretrucável/p
 irreverência/p
-irreverenciar/XYPL
-irreverencioso/m
 irreverente/mp
 irreversivelmente
 irreversível/pd
@@ -20382,7 +20429,6 @@ islandês/fp
 Islândia
 islã/p
 Ismael
-ISO
 isobárico/fp
 isodinâmico
 isogamia
@@ -20397,6 +20443,7 @@ isometria/pr
 isomorfia/pr
 isomorfo/pfi
 isonomia/r
+ISO/p
 isopor/p
 Isordil
 isósceles
@@ -20407,7 +20454,7 @@ isotópico
 isótopo/p
 isotretinoína
 ISP/p
-isqueiro/p
+isqueiro/pl
 isquemia
 isquêmico/fp
 Israel
@@ -20483,6 +20530,7 @@ jabaculê/p
 jabá/p
 jabazeiro/fp
 jabazinho/p
+Jabba
 Jabor
 Jaboticabal
 jaburu/p
@@ -20520,6 +20568,7 @@ Jaguariúna
 jaguar/p
 jaguatirica/p
 jagunço/p
+jah/!
 jailbreak/a
 Jailson
 Jailton
@@ -20698,6 +20747,7 @@ joelhada/p
 joelheira/p
 joelho/pl
 Joelma
+Joelmir
 Joelson
 Jofre
 jogabilidade/p
@@ -20708,7 +20758,7 @@ jogão/p
 jogar/XYPL
 jogatina/p
 jogging
-jogo/plEO
+jogo/plAEO
 jogral/p
 Johannesburgo
 Johansson
@@ -20728,6 +20778,7 @@ Jonathan
 Jones
 Jontex
 jóquei
+joquempô
 Jordan
 Jordânia
 Jordanna
@@ -20745,6 +20796,7 @@ jornalístico/fpH
 jornal/pli
 jorrar/XYPLM
 José
+Joseane
 Josef
 Josefina
 Joselito
@@ -20757,7 +20809,7 @@ Josué
 jota
 joule/p
 journal
-jovem/plh
+jovem/plhx
 jovenzinho/fp
 jovial/pdm
 Jovovich
@@ -20920,6 +20972,7 @@ k/!
 Ka
 Kafka
 kafkiano/fp
+Kahlo
 Kahn
 Kaiser
 Kaká
@@ -21090,7 +21143,6 @@ laçar/XYPLD
 lacear/ZYPLMn
 lacerar/XYPLcnv
 Lacerda
-lacete
 Lácio
 lacônico/pfH
 laconismo/p
@@ -21228,7 +21280,7 @@ languidez
 lânguido/fp
 Lanka
 lantejoula/p
-lanterna/ph
+lanterna/phV
 lanterneiro/fp
 Laos
 lã/p
@@ -21314,6 +21366,7 @@ latinista/p
 latinizar/XYPLcn
 latino-americano/fp
 latino/pftidG
+latinório/p
 latir/XYLPW
 latitude/p
 latoaria/p
@@ -21423,7 +21476,7 @@ legitimista
 legítimo/fp
 legível/pdm
 légua/p
-legume/pt
+legume/pl
 leguminoso/f
 leiais/PL
 leiamos/PL
@@ -21446,13 +21499,12 @@ leitão/p
 leitãozinho
 leitaria/p
 leiteiro/fp
-leite/pl
+leite/pwl
 leiteria/p
 leitoa/p
 leitõezinhos
 leito/p
 leitor/fp
-leitoso/fp
 Leitte
 leitura/ptRO
 leiva/p
@@ -21484,6 +21536,7 @@ Lênin
 Leningrado
 leninismo/p
 leninista/p
+Lenise
 Lennon
 Lenovo
 lente/p
@@ -21550,6 +21603,7 @@ leucemia/p
 leucina
 leucócito/p
 levada/ph
+levantada/ph
 levantar/XYPLMD
 levar/XYPLMn
 levedura/p
@@ -21644,7 +21698,7 @@ licencioso/fpmd
 liceu/p
 lichia/p
 licitamente
-licitar/XYPLcDn
+licitar/XYPLcDnR
 licitatório/fp
 lícito/fp
 licitude
@@ -21854,7 +21908,7 @@ lobbies
 lobby
 lobeiro
 lobisomem/p
-lobista/p
+lobista/px
 lobito/p
 lobo/fplh
 lobo-marinho
@@ -21990,6 +22044,7 @@ louva-a-deus
 louvar/XYPLcMDv
 louvavelmente
 louvor/p
+louvorzão/p
 Louvre
 Lovato
 love
@@ -22175,10 +22230,11 @@ machadão/p
 machadar/XYL
 Machado
 machado/pflh
-machão/p
+machão/fp
 machê/p
 machete/p
 macheza/p
+machina
 macho/pitlh
 Machu
 machucadura
@@ -22196,7 +22252,7 @@ macmania/r
 maçom/px
 maçonaria/p
 maconha
-maconheiro/fp
+maconheiro/fpx
 maçônico/fp
 maçonismo/p
 maço/p
@@ -22420,11 +22476,10 @@ malfeitor/fp
 malfeitoria/p
 malformação/p
 malgrado
-malhação
 malhadão/fp
 malhão
-malha/p
-malhar/XYPLD
+malha/ph
+malhar/XYPLDcNW
 malheiro/fp
 mal-humorado/fpm
 Malibu
@@ -22544,7 +22599,7 @@ mamata/p
 mambembe/fp
 mambo/p
 mameluco/p
-mamífero/p
+mamífero/fp
 mamilo/p
 mami/p!
 mamoeiro
@@ -22865,6 +22920,7 @@ Maricota
 maridão/p
 marido/pxl
 Marie
+Mariela
 Mariella
 Mariely
 Marieta
@@ -22929,6 +22985,8 @@ marmorizar/XYPL
 marmotagem/p
 marmota/p
 marola/hp
+marombado/fp
+maromba/p
 marombeiro/fp
 Maroon
 marotagem/p
@@ -22994,7 +23052,7 @@ Mascarenhas
 mascar/XYPLD
 mascate/p
 mascavo/p
-mascote/p
+mascote/ph
 masculinizar/XYPL
 masculino/pfid
 másculo/fp
@@ -23370,7 +23428,7 @@ meme/p
 memorando/p
 memorar/XYPLcv
 memorativo/f
-memorial/tdp
+memorial/pdti
 memoriam
 memória/p
 memoriar/XYPL
@@ -23407,7 +23465,7 @@ menino/fplhGx
 menino-prodígio
 menisco/p
 menonita/p
-menopausa/pO
+menopausa/pEO
 menorizar/XYPLnc
 menor/pd
 menorzinho/fp
@@ -23493,6 +23551,7 @@ Merlin
 Merlot
 mero/pfm
 merreca/ph
+mertiolate
 Merval
 mesada/ph
 mesão/p
@@ -23707,7 +23766,7 @@ microscopicamente
 microscópico/fp
 microscópio/p
 microSD/a
-Microsoft
+Microsoft/x
 microssaia/p
 microssegundo/p
 microssérie/p
@@ -23776,6 +23835,7 @@ militar/pmtiAxXYLP
 milk/a
 Milla
 Mille
+Millena
 Miller
 Millôr
 milonga/p
@@ -23868,6 +23928,7 @@ minorar/XYPLcn
 minoria/p
 minoritário/fp
 Minotauro
+Minoxidil
 Mint
 mintais/L
 minta/L
@@ -24139,7 +24200,7 @@ moléstia/p
 moletom/p
 moleza/p
 molhadela/p
-molhar/XYPLDW
+molhar/XYPLDNW
 molho/pl
 molibdênio
 Molière
@@ -24309,6 +24370,7 @@ morenaço/fp
 moreno/fplh
 morfar/XYPL
 morfético/fp
+Morfeu
 morfina/i
 morfismo/pr
 morfologia/p
@@ -24346,6 +24408,7 @@ mortos-vivos
 morto-vivo
 mortuário/fp
 Morumbi
+Mosaic
 mosaico/p
 mosaísta/p
 mosca-morta
@@ -24605,7 +24668,7 @@ murmuroso
 muro/p
 Murphy
 murro/p
-musa/px
+musa/phx
 muscular/pc
 musculatura/p
 músculo/p
@@ -24703,7 +24766,7 @@ Nanci
 Nancy
 Nanda
 Nando
-nanico/fp
+nanico/fplh
 Nanini
 nanoestrutura/p
 nano/i
@@ -24940,6 +25003,7 @@ nerdzinho/pf
 Nereu
 Néri
 Nero
+Neruda
 nervação
 nervado
 nerval
@@ -24975,9 +25039,10 @@ neurastenia
 neurastênico/fp
 neurociência/p
 neurocientista/p
-neurocirurgião/p
+neurocirurgião/pb
 neurocirurgia/p
 neurocirúrgico/fp
+neurolinguístico/fp
 neurologia/qtr
 neuromuscular/p
 neuronal/p
@@ -24987,7 +25052,7 @@ neuropatia/pqr
 neuropatologia/r
 neuropsicologia/qr
 neurose/p
-neurótico/fp
+neurótico/fpH
 neurotoxina/p
 neurotransmissor/fp
 Neusa
@@ -25078,7 +25143,8 @@ ninhar/XYL
 ninho/p
 ninja/p
 niño/fp
-Nintendo
+nintendista/p
+Nintendo/l
 nióbio
 nipônico/fp
 níqueis
@@ -25117,7 +25183,7 @@ Nóbrega
 nobre/pm
 nobreza
 noção/p
-nocautear/ZYPL
+nocautear/ZYPLD
 nocaute/p
 nocional
 nocivo/fdmp
@@ -25166,10 +25232,10 @@ nórdico/fp
 normalizar/XYPLcvRD
 normal/pmtdsF
 Normandia
-normando/p
 norma/p
 normativo/fpd
 normatizar/XYPLc
+Norminha
 noroeste
 Noronha
 Norris
@@ -25230,6 +25296,7 @@ novelão/fp
 novela/pht
 noveleiro/pf
 novelesco/fp
+novelístico/fp
 novelizar/XYPLc
 novelo/p
 novembro/p
@@ -25290,6 +25357,7 @@ nutrificar/XYPL
 nutrimental
 nutrir/XYPLcMDvuJ
 nutritivo/fp
+nutrologia/pq
 nuvem/p
 nuvenzinha/p
 Nvidia
@@ -25403,6 +25471,7 @@ obstruam/SL
 obstrua/SL
 obstruas/SL
 obstrução/pS
+obstrucionista/p
 obstruem/SL
 obstruente
 obstrue/SL
@@ -25621,7 +25690,7 @@ ofurô/p
 ofuscar/XYPLcMnv
 ogg
 ogiva/p
-ogro/p
+ogro/fp
 Ogum
 oh
 Ohio
@@ -25654,7 +25723,7 @@ Olavo
 old
 olé
 olê
-oleaginoso/f
+oleaginoso/fp
 olearia/p
 olear/ZYPL
 oleificante/p
@@ -25794,7 +25863,7 @@ OPML
 oponente/p
 oponível/pd
 opor/KPL
-oportunístico/fp
+oportunístico/fpH
 oportunizar/XYPL
 oportuno/fpmtid
 oposição/p
@@ -25838,7 +25907,7 @@ orçamentário/fp
 orçamentar/XYPLcS
 orca/p
 orçar/XYPLMD
-ordeiro/Sfp
+ordeiro/fpmS
 ordem/Sp
 ordenado/pmS
 ordenança/p
@@ -25985,7 +26054,7 @@ oticamente
 otimamente
 otimismo/p
 otimista/p
-otimizar/XYPLc
+otimizar/XYPLDc
 ótimo/fp
 otite/p
 otomano/fp
@@ -26110,13 +26179,14 @@ pacifismo/p
 pacifista/p
 pack/a
 Pac-Man
-paço
 paçoca/ph
+paço/p
 pacotão/p
 pacote/pl
 pacto/p
 Pactual
 pactuar/XYPLncR
+pacu/p
 padaria/p
 Padawan/a
 padecer/XYPLMDn
@@ -26243,7 +26313,7 @@ palma/ph
 palmar/pXYPL
 palmatória/p
 palmeira/ph
-palmeirense/p
+palmeirense/px
 palmilha/p
 Palmirinha
 palmito/p
@@ -26288,7 +26358,6 @@ pandeiro/p
 pandemia/p
 pandêmico/fp
 pandemônio/p
-pandora
 Pandora
 pandorga/p
 panelaço/p
@@ -26509,6 +26578,7 @@ parênquima/p
 parentada/p
 parental/pd
 parente/fp
+parenteral/p
 parentesco/p
 parêntese/p
 parêntesis
@@ -26638,7 +26708,7 @@ passivo/pfmd
 passo/ptl
 password/a
 pastagem/p
-pasta/ph
+pasta/phu
 pastar/XYPL
 paste
 pasteizinhos
@@ -26673,7 +26743,7 @@ patavina
 pataxó/p
 patch
 patenteabilidade
-patentear/ZYPLc
+patentear/ZYPLMc
 patente/p
 patê/p
 paternal/mit
@@ -26698,6 +26768,7 @@ patola
 Patolino
 patologia/prt
 patologicamente
+patologização/p
 pato/pflhF
 Patópolis
 patota/ph
@@ -26797,7 +26868,7 @@ PDT/xQ
 PE
 pê
 peanut/a
-peão/p
+peão/px
 peãozada
 peba/p
 pebolim
@@ -26868,6 +26939,7 @@ pedinchão/p
 pedincha/pG
 pedinchar/XYPL
 pedinte/p
+pé-direito
 pedir/YLD
 pedis/L
 pedofilia/q
@@ -27030,12 +27102,14 @@ penugem/p
 penúltimo/fp
 penumbra
 penúria/p
+peoa/px
 people
 Pepe
 pepino/pl
 pepita/p
 pé/pl
 pepperoni
+Peppers
 Pepsi
 PepsiCo
 peptídeo/p
@@ -27049,7 +27123,6 @@ Pequim
 pequinês
 pequi/p
 per
-Pera
 peraí
 peralta/p
 peraltear/ZYL
@@ -27320,7 +27393,9 @@ pescoçada
 pescoção/p
 pescoceira
 pescoço/pl
+pescoçudo/fp
 pés-de-meia
+pés-direitos
 peseta/p
 pés-frios
 peso-mosca
@@ -27358,6 +27433,7 @@ pestilento/fp
 pet/a
 peta
 petabyte/p
+peta-hertz
 pétala/p
 petardo/p
 petebista/px
@@ -27394,7 +27470,7 @@ petúnia/p
 Peugeot
 pezão/p
 pezudo/fp
-PF
+pf/!
 Pfeiffer
 pff/!
 Pfizer
@@ -27449,7 +27525,7 @@ Picard
 picardia
 picaresco/fp
 picaretagem/p
-picareta/p
+picareta/ph
 picar/XYPLDnW
 Picasa
 Picasso
@@ -27550,6 +27626,7 @@ pinha/p
 pinheiral/p
 pinheiro/pl
 pinho
+pinicar/XYPL
 pinimba/p
 pink
 Pinochet
@@ -27602,6 +27679,7 @@ piranhada/p
 piranhão/fp
 piranha/ph
 pirão/p
+pirarucu/p
 pirar/XYLPcWN
 piratão/fp
 pirata/p
@@ -27653,7 +27731,7 @@ pistão/p
 pista/p
 pistolagem/p
 pistolão
-pistola/p
+pistola/ph
 pistoleiro/fp
 Pistols
 pit
@@ -27683,6 +27761,7 @@ pixaim
 Pixar
 pixel
 pixels
+Pixies
 Pixinguinha
 pixotada/p
 pizzaiolo/p
@@ -27708,6 +27787,7 @@ planalto/p
 planária/p
 planar/XYLD
 Planck
+plâncton/a
 planear/ZYPLME
 planejar/XYPLMDB
 planeta/phx
@@ -27938,6 +28018,7 @@ polens
 polenta/p
 pole/p
 Polessa
+Poliana
 poliatômico
 policarbonato/p
 Policarpo
@@ -28080,7 +28161,7 @@ pontilhão
 pontilhar/XYPLc
 ponto/pl
 pontual/pmds
-pontuar/XYPLcv
+pontuar/XYPLDcv
 pontudo/fp
 poodle/p
 Pooh
@@ -28094,8 +28175,8 @@ população/p
 populacho
 populacional/pm
 popularesco/fp
-popularizar/XYPLc
-popular/pdmsF
+popularizar/XYPLcI
+popular/pdmsAI
 populi
 populismo/p
 populista/p
@@ -28138,6 +28219,7 @@ pôr/L
 pormenorizar/XYPLcB
 pormenor/p
 pormos/PL
+pornochanchada/p
 pornografia/pqr
 pornograficamente
 pornô/pl
@@ -28147,6 +28229,7 @@ pororoca/p
 poroso/fpd
 porquanto
 porque
+porqueira/ph
 porquê/p
 porquidão
 porquinho-da-índia
@@ -28327,6 +28410,7 @@ prancheta/ph
 prandial/O
 prantear/ZYPL
 pranto/p
+pratão/p
 prata/p
 prataria/p
 pratear/ZYPLcM
@@ -28365,6 +28449,7 @@ precedente/pm
 preceder/XYPL
 preceito/p
 prece/p
+preceptor/fp
 precessão
 precificar/XYPLc
 precioso/pfidmst
@@ -28553,7 +28638,7 @@ presidiário/fpx
 presidiar/XYPL
 presídio/p
 presidir/XYLP
-presilha
+presilha/p
 Presley
 preso/fplhx
 press
@@ -28704,6 +28789,7 @@ Pricila
 prima-dona
 primais/L
 prima/L
+primal/p
 primam/L
 primamos/L
 primão/fp
@@ -28899,6 +28985,7 @@ programa/puh
 programar/XYPLcDvRS
 programático/fpH
 programatizar/XYPL
+programeco/p
 programete/p
 progredi/L
 progredimos/L
@@ -29094,6 +29181,7 @@ protetor/fp
 protetório/fp
 proto
 protocolar/XYPL
+protocolizar/XYPL
 protocolo/pt
 Protógenes
 próton/a
@@ -29243,6 +29331,7 @@ pseudocientífico/fp
 pseudocódigo/p
 pseudoconhecimento/p
 pseudoescola/p
+pseudofruto/p
 pseudointelectual/p
 pseudomédico/p
 pseudomodernidade/p
@@ -29454,6 +29543,7 @@ pusilânime/p
 pusilanimidade/p
 pus/PL
 putaço/fp!
+putanheiro/fp!
 putaria/p!
 putativo/fp
 puteiro/p!
@@ -29573,6 +29663,7 @@ quaternário/fp
 quati/p
 quatorze
 quatrilhão/p
+quatrocentão/fp
 quatrocentismo/p
 quatrocentista
 quatrocentos/a
@@ -29892,7 +29983,7 @@ raio-X/p
 Raíssa
 raiva/ph
 raivento
-raivoso/fpm
+raivoso/fpdm
 raiz
 raízes
 rajada/p
@@ -29994,7 +30085,7 @@ rasar/XYPLn
 rasca
 rascar/XYPL
 rascunhar/XYPL
-rascunho/p
+rascunho/pl
 raseiro
 rasgadela/p
 rasgão/p
@@ -30121,7 +30212,7 @@ rebite
 rebocar/XYPLD
 reboco/p
 rebolado
-rebolar/XYPLW
+rebolar/XYPLDWn
 rebole/L
 rebolem/L
 reboles/L
@@ -30274,6 +30365,7 @@ reconfortável
 reconhecer/XYPLMDvB
 reconsiderar/XYPLc
 reconstitutivo
+reconstroem
 reconstrói
 reconstruído/fp
 reconstruir/PL
@@ -30428,7 +30520,7 @@ reformabilidade/p
 reforma/ptih
 reformar/XYPLcDv
 reformativo
-reformatório
+reformatório/fp
 reformular/XYPL
 refornecer/XYPLM
 refortalecer/XYPL
@@ -30478,7 +30570,7 @@ reggaeton
 regiamente
 Regiane
 região/pu
-regimental/pd
+regimental/pmd
 regimentar/XYPL
 regime/pO
 Regina
@@ -30597,6 +30689,7 @@ release/p
 relegar/XYPLcv
 releia
 releiam
+releio
 relembrar/XYPL
 relento
 relê/p
@@ -30800,7 +30893,7 @@ repelimos/L
 repelir/YPLn
 repelis/L
 repente/pt
-repentino/fm
+repentino/fpm
 repercussão/p
 repercussivo
 repercutir/XYPL
@@ -30887,7 +30980,7 @@ repugnar/XYPLDn
 repulsa
 repulsão
 repulsar/XYPL
-repulsivo/f
+repulsivo/fp
 reputar/XYPLcN
 repuxo/p
 requebro/p
@@ -31180,6 +31273,7 @@ retrocompatibilidade/p
 retrocompatível/p
 retroescavadeira/p
 retrofit
+retroflexo/fp
 retrofoguete/p
 retrógrado/fp
 retroiluminado/fp
@@ -31220,7 +31314,7 @@ revalidar/XYPLc
 revanche/pti
 revede/PL
 reveem/PL
-réveillon
+réveillon/a
 reveio/L
 reveis/PL
 revejais/PL
@@ -31461,6 +31555,7 @@ rijo/fp
 ri/L
 rima/ph
 rimar/XYPLDW
+Rimbaud
 rímeis
 rímel
 Rimet
@@ -32507,6 +32602,7 @@ segmentar/XYPLcDv
 segmento/p
 segredar/XYPL
 segredo/ptl
+segregacionismo/p
 segregacionista/p
 segregar/XYPLcD
 segregativo
@@ -32552,7 +32648,7 @@ sejas/PL
 selagem/p
 sela/p
 selar/XYPLD
-seleção/pE
+seleção/pxE
 selecionar/XYPLDvES
 Selena
 selênio
@@ -32608,6 +32704,7 @@ semiconsciente/p
 semidesértico/fp
 semidestruído/fp
 semideus/fp
+semiextensivo/fp
 semifinal/pt
 semiflexionado/fp
 semi-intensivo/fp
@@ -32770,6 +32867,7 @@ serião/fp
 seria/PL
 seriar/XYP
 serias/PL
+sérico/fp
 seriedade/p
 seríeis/PL
 seriemania/r
@@ -33025,6 +33123,7 @@ Silveira
 Silveirinha
 Silvério
 Silverlight
+Silverstone
 Silvestre
 silvestre/p
 Silvia
@@ -33241,6 +33340,7 @@ slow
 Smallville
 smart
 smartphone/p
+Smaug
 smile/p
 Smirnoff
 Smith
@@ -33429,7 +33529,7 @@ solidez
 solidificar/XYPLc
 sólido/fp
 Solimões
-solitário/fp
+solitário/fpH
 solitaríssimo/fp
 solium
 Solon
@@ -33508,6 +33608,7 @@ sonoro/pfdms
 Sonrisal
 sonso/fpG
 Sony
+sonysta/p
 sonzaço/p
 sonzão/p
 SO/p
@@ -33769,7 +33870,6 @@ subdiretoria
 subentender/XYPLM
 subespontâneo
 subestação/p
-subestrutura/p
 subida/ph
 subi/L
 subimos/L
@@ -33839,14 +33939,13 @@ substancializar/XYPL
 substancial/pmtid
 substância/p
 substanciar/XYPL
-substancioso
+substancioso/fp
 substantivar/XYPLc
 substantivo/fp
 substituir/KPLcnv
 substitutivo
 substituto/fp
 substrato/p
-substrutura
 subsunção
 subtenente
 subterfúgio/p
@@ -33865,6 +33964,7 @@ subvencionar/XYPL
 subversão
 subversivo/fpA
 subverter/XYPLMD
+Subway
 sucatão/p
 sucata/p
 sucatear/ZYPLM
@@ -33938,6 +34038,7 @@ suingue/p
 suinocultura/prq
 suíno/fp
 suíte/p
+sujão/fp
 sujar/XYPLD
 sujeição/p
 sujeira/ph
@@ -34076,7 +34177,6 @@ supersensível/p
 supersônico/fp
 superstição/p
 supersticioso/pdf
-superstrutura
 supertaça/p
 supervisão
 supervisionar/XYPL
@@ -34087,7 +34187,6 @@ supinação/p
 supino/p
 Supla
 suplantar/XYPLcD
-suplementário
 suplementar/pc
 suplemento/p
 suplência/p
@@ -34199,7 +34298,7 @@ sustenhas/L
 sustenho/L
 sustenido/p
 susténs/L
-sustentáculo
+sustentáculo/p
 sustentar/XYPLcMDnv
 sustentável/pdI
 sustento
@@ -34366,6 +34465,7 @@ talhar/XYPLMDn
 talher/p
 talião
 talibã/p
+talidomida
 tálio/p
 talismã/p
 Talita
@@ -34520,6 +34620,7 @@ Tatuí
 tatu/pl
 taturana/p
 tatus-bola/p
+Taty
 Taubaté
 taumaturgo/p
 taurino/fp
@@ -34605,7 +34706,7 @@ tectônico/fp
 Ted
 TED/a
 tédio/p
-tedioso/fp
+tedioso/fpm
 teen/a
 Teerã
 teflon
@@ -34639,7 +34740,7 @@ telefilme/p
 telefonar/XYPL
 telefonema/p
 telefone/ptl
-telefonia
+telefonia/p
 telefônico/pfH
 telegrafar/XYPL
 telegrafia/p
@@ -34785,6 +34886,7 @@ tepidamente
 tépido/f
 tequila/ph
 terabyte/p
+tera-hertz
 terão/PL
 terapeuta/p
 terapêutico/fp
@@ -34831,6 +34933,7 @@ terminativo/fp
 terminologia/pr
 término/p
 termistor/p
+termita
 termodinâmico/fp
 termoeletricidade/p
 termoelétrico/fp
@@ -34886,7 +34989,7 @@ testamentaria/p
 testamentário
 testamenteiro
 testa/p
-testar/XYPLMDn
+testar/XYPLMDnR
 testemunhal/m
 testemunha/p
 testemunhar/XYPLDv
@@ -34912,8 +35015,9 @@ tetraédrico/fp
 tetraedro/p
 tetraneto/fp
 tetraplégico/fp
-tetratômico
 tetravalente
+tetravó/p
+tetravô/p
 tetricidade/p
 tétrico/fp
 Tetris
@@ -34929,7 +35033,7 @@ Texas
 textão/p
 textarea
 têxtil/a
-texto/pl
+texto/plu
 textual/pmt
 textura/p
 texturizar/XYPLc
@@ -34937,6 +35041,7 @@ texugo/p
 tez
 TFP
 thai
+Thainá
 Thais
 Thaís
 Thaiz
@@ -34946,6 +35051,7 @@ Thamires
 thank/a
 Thatcher
 Thayana
+Thayná
 Thays
 the
 theater/a
@@ -34957,6 +35063,7 @@ Theresa
 Thereza
 thesaurus
 Thiago
+this
 Thomas
 Thomaz
 Thompson
@@ -35064,11 +35171,11 @@ tipicamente
 tipicidade
 típico/fp
 tipificar/XYPLc
-tipo/fplh
 tipografia/pqr
 tipográfico/fpH
 tipoia/p
 tipologia/pr
+tipo/pl
 tique/p
 tiquetaquear/ZYL
 tique-taque/p
@@ -35130,7 +35237,8 @@ tiveste/PL
 tivestes/PL
 Tizen
 TJD/Q
-TJ/Q
+TJ/Qa
+tks/!
 TMZ
 tnc/!
 TNT
@@ -35201,7 +35309,7 @@ tomo/p
 tomorrow
 tom/pl
 tona
-tonalizar/XYPL
+tonalizar/XYPLn
 tonal/pd
 tonar/XYL
 tonelada/p
@@ -35223,6 +35331,7 @@ tontura/p
 tônus/p
 Tony
 tool
+toolbar/a
 tools
 top/a
 topada/ph
@@ -35295,14 +35404,14 @@ torridamente
 tórrido/fp
 torrificar/XYPLc
 torso
-tortilha
+tortilha/p
 torto/fplh
 tortuoso/pfdm
 tortura/p
 torturar/XYPLnD
 Torvalds
 torvar/XYPLcM
-tosar/XYPL
+tosar/XYPLD
 toscano/fp
 toscão/fp
 tosco/fpmG
@@ -35311,7 +35420,7 @@ tosqueira/p
 tosquia
 tosquiar/XYPLD
 tossem/L
-tosse/pL
+tosse/phL
 tosses/L
 tossezinha
 tossi/L
@@ -35415,7 +35524,7 @@ Tramandaí
 trama/pu
 tramar/XYPLcD
 trambicagem/p
-trambiqueiro/fp
+trambiqueiro/fpx
 trambique/p
 trambolhão/p
 trambolhento/fp
@@ -35441,6 +35550,7 @@ tranquilão/fp
 tranquilíssimo/fp
 tranquilizar/XYPLDn
 tranquilo/fpmdlhI
+trans
 transacional/p
 transacionar/XYPL
 Transamazônica
@@ -35618,10 +35728,9 @@ traveco/px
 través
 travessão/p
 travessa/p
-travessar/XYPL
-travesseiro/p
+travesseiro/pl
 travessia/p
-travesso/f
+travesso/fp
 travessura/p
 traveste
 travestem
@@ -35904,6 +36013,7 @@ true
 trufa/p
 trufar/XYPL
 trufeiro/f
+truísmo/p
 trumbicar/XYPL
 truncar/XYPLM
 trunfo/p
@@ -35933,10 +36043,12 @@ tucanato/p
 tucano/fplhx
 tucho/p
 Tuco/f
+tucunaré/p
 Tucuruí
 tudo/l
 tufão/p
 tufo/p
+tuiuiú/p
 Tulio
 Túlio
 tulipa/p
@@ -35980,7 +36092,7 @@ turbocomprimido/fp
 turbo/p
 turbulência/p
 turbulento/fp
-turco/fp
+turco/fplh
 Turcomenistão
 turfe/pt
 túrgido/fp
@@ -36126,7 +36238,7 @@ ultrassom/p
 ultrassônico/fp
 ultrassonografia/p
 ultravioleta/p
-ululante/p
+ululante/pm
 Ulysses
 umazinha
 umbanda/pt
@@ -36597,7 +36709,6 @@ venéreo/fpA
 veneta/p
 Veneto
 Veneza
-veneziano/fp
 Venezuela
 venezuelano/fp
 venhais/L
@@ -36666,7 +36777,7 @@ verde/plh
 verdes/PL
 Verdi
 verdugo/p
-verdura/p
+verdura/ph
 verdureiro/fp
 vereador/fpx
 vereança/p
@@ -36759,6 +36870,7 @@ vestes/LP
 vestiário/p
 vestibulando/fp
 vestibular/pE
+vestibulinho/p
 vestíbulo/p
 vestido/pl
 vestígio/p
@@ -36792,6 +36904,7 @@ VI
 viabilidade/p
 viabilizar/XYPLcD
 viação/p
+Viacom
 viadagem/p!
 viadão/p!
 viado/plh!
@@ -36907,7 +37020,7 @@ vigarista/p
 vigência/p
 viger/XYPLn
 vigésimo/f
-vigia/p
+vigia/px
 vigiar/XYPLDn
 vigilância/p
 vigilante/p
@@ -37123,6 +37236,7 @@ vitamínico/fp
 vitaminizar/XYPL
 vitaminose
 vitela/p
+vitelínico/fp
 vitelino/fp
 vitelo/fp
 vítima/p
@@ -37221,7 +37335,7 @@ vogal/p
 vogar/XYL
 voice/p
 voilà
-VoIP
+VoIP/a
 volante/p
 volátil/a
 volatilidade/p
@@ -37300,9 +37414,7 @@ vulcanicidade/p
 vulcânico/fp
 vulcanismo/p
 vulcanizar/XYPLcD
-Vulcano
 vulcano/fp
-vulcanologia/prqt
 vulcão/p
 vulgarizar/XYPLcD
 vulgar/pmds
@@ -37422,11 +37534,9 @@ Wilma
 Wilson
 Wilton
 Wimbledon
-Winamp
 Windows
 Windsor
 windsurf
-Wine
 Winehouse
 Winfrey
 WinRAR
@@ -37673,8 +37783,7 @@ zonzo/p
 zoofilia/p
 zoologia/qtrp
 zoológico/fp
-zoom
-zooms
+zoom/a
 zoonose/p
 zoo/p
 zootecnia/pt
