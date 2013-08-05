@@ -78,8 +78,7 @@
 <!ENTITY fullScreenExit.accesskey "E">
 <!ENTITY fullscreenAllowButton.label "Permetti">
 <!ENTITY fullscreenExitButton.label "Nega">
-<!ENTITY fullscreenApproval.value "Consentire il passaggio a schermo intero?">
-<!ENTITY fullscreenExitHint.value "Premere ESC per uscire in qualunque momento dalla modalità a schermo intero.">
+<!ENTITY fullscreenExitHint2.value "Premere ESC in qualunque momento per uscire">
 <!ENTITY leaveDOMFullScreen.label "Esci da schermo intero">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
 <!ENTITY closeWindow.label "Chiudi finestra">
@@ -156,6 +155,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
 <!ENTITY webDeveloperMenu.accesskey "u">
+<!ENTITY devToolsCmd.keycode "VK_F12">
+<!ENTITY devToolsCmd.keytext "F12">
 <!ENTITY devtoolsConnect.label "Connetti…">
 <!ENTITY devtoolsConnect.accesskey "o">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
@@ -181,6 +182,8 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Attiva strumenti">
 <!ENTITY devToolboxMenuItem.accesskey "m">
+<!ENTITY devToolboxMenuItem.keycode "I">
+<!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolbarToolsButton.tooltip "Attiva o disattiva gli strumenti per sviluppatori">
 <!ENTITY devToolbarOtherToolsButton.label "Altri strumenti">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
