@@ -64,8 +64,9 @@
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
+<!ENTITY pref_category_advanced "Avancerat">
 <!ENTITY pref_category_customize "Anpassa">
-<!ENTITY pref_category_search "Sök">
+<!ENTITY pref_category_search2 "Sökinställningar">
 <!ENTITY pref_category_display "Visa">
 <!ENTITY pref_category_privacy_short "Integritet">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -74,20 +75,6 @@
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
 <!ENTITY pref_developer_remotedebugging "Fjärravlusning">
 <!ENTITY pref_developer_remotedebugging_docs "Läs mer">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_general "Allmänt">
-<!ENTITY pref_category_privacy "Sekretess och säkerhet">
-<!ENTITY pref_category_content "Innehåll">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_header_general "Allmänt">
-<!ENTITY pref_header_privacy "Sekretess och säkerhet">
-<!ENTITY pref_header_content "Innehåll">
-<!-- end of old strings -->
-
 <!ENTITY pref_remember_signons "Spara lösenord">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -117,8 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_reflow_on_zoom3 "Omforma text vid dubbeltryck">
-<!ENTITY pref_restore_session "Återställ alltid flikar">
+<!ENTITY pref_reflow_on_zoom4 "Omforma text">
+<!ENTITY pref_restore "Flikar">
+<!ENTITY pref_restore_always "Återställ alltid">
+<!ENTITY pref_restore_crash "Återställ efter krasch">
+<!ENTITY pref_restore_never "Återställ aldrig">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
