@@ -109,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "A">
 <!ENTITY fullscreenAllowButton.label "Tillåt">
 <!ENTITY fullscreenExitButton.label "Neka">
-<!ENTITY fullscreenApproval.value "Tillåt helskärm?">
 
-<!ENTITY fullscreenExitHint.value "Tryck ESC om du vill lämna helskärmsläget">
+<!ENTITY fullscreenExitHint2.value "Tryck ESC för att avsluta">
 <!ENTITY leaveDOMFullScreen.label "Avsluta helskärm">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
 
