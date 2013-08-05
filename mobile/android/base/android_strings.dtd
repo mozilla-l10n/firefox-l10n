@@ -195,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Flikar">
 <!ENTITY tabs_private "Privata">
 <!ENTITY tabs_synced "Synkade">
-<!ENTITY wallpaper_success "Bakgrund uppdaterad">
-<!ENTITY wallpaper_progress "Byter bakgrund">
-<!ENTITY wallpaper_fail "Kunde inte byta bakgrund">
+<!ENTITY set_image_fail "Kan inte använda bild">
+<!ENTITY set_image_chooser_title "Använd bild som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
