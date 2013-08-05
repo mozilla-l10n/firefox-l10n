@@ -32,8 +32,8 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
+<!ENTITY sync.subtitle.header2.label 'Introduceți acest cod pe celălalt dispozitiv'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selectați “&sync.title.pair.label;” în &syncBrand.shortName.label; secțiunea opțiuni Firefox din celălalt dispozitiv \&apos;s al dumneavoastră.'>
 <!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
@@ -59,13 +59,13 @@
 <!ENTITY sync.button.manual.label 'Setare manuală'>
 <!ENTITY sync.subtitle.nointernet.label 'Nu este disponibilă nicio conexiune la internet.'>
 <!ENTITY sync.subtitle.failaccount.label 'Crearea contului pe dispozitiv a eșuat.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Aveți mai mult decât un Firefox instalat? În prezent, &syncBrand.fullName.label; suportă doar o instalare de Firefox odată. Dezinstalați celelalte instanțe pentru a folosi &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configurare finalizată'>
 <!ENTITY sync.subtitle.success.label1 'Datele îți sunt descărcate acum în fundal. Poți merge la Setări pentru a-ți gestiona contul sau să începi navigarea cu &brandShortName;.'>
 <!ENTITY sync.settings.label 'Setări'>
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 'Contul dumneavoastră &syncBrand.fullName.label; este deja configurat. Puteți merge în Setări pentru a vă gestiona contul sau lansați &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Te rugăm să mai încerci.'>
@@ -76,8 +76,8 @@
 <!ENTITY sync.summary.pair.label 'Asociați alt dispozitiv cu contul dumneavoastră &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
+<!ENTITY sync.configure.engines.title.label 'Ce se sincronizează'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizarea dumneavoastră…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Semne de carte'>
 <!ENTITY sync.configure.engines.title.passwords 'Parolele'>
 <!ENTITY sync.configure.engines.title.history 'Istoricul'>
@@ -105,7 +105,7 @@
 
 <!-- Notification strings -->
 <!ENTITY sync.notification.oneaccount.label 'E suportat doar un cont &syncBrand.fullName.label;.'>
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.configure.saved 'Selecțiile dumneavoastră au fost salvate.'>
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Nume de cont sau parolă incorectă.'>
@@ -120,5 +120,5 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Setare &syncBrand.shortName.label; pentru trimitere de file'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Setează &syncBrand.fullName.label; pe dispozitivul tău pentru a trimite file către alte dispozitive.'>
 <!ENTITY sync.text.tab.sent.label 'Fila a fost trimisă!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.text.tab.not.sent.label 'A apărut o problemă la trimiterea filei dumneavoastră.'>
 

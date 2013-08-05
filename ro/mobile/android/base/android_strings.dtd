@@ -36,14 +36,14 @@
 <!ENTITY  awesomebar_switch_to_tab "Schimbă la fila">
 
 <!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
+<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele dumneavoastră ar trebui să fie listate pe pagina de start &brandShortName; când reporniți navigatorul.">
+<!ENTITY  crash_send_report_message3 "Spune-i lui &vendorShortName; despre această defecțiune astfel să remedieze problema">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care eram">
-<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_sorry "Ne pare rău">
 <!ENTITY  crash_comment "Adăugați un comentariu (comentariile sunt vizibile publicului)">
-<!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
+<!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze referitor la acest raport">
 <!ENTITY  crash_email "Emailul dumneavoastră">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
+<!ENTITY  crash_closing_alert "Ieșiți fără să trimiteți un raport de defecțiune?">
 <!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
@@ -105,7 +105,7 @@
 
 <!ENTITY pref_cookies_menu "Cookie-uri">
 <!ENTITY pref_cookies_accept_all "Activată">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_not_accept_foreign "Activat, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivată">
 
 <!ENTITY pref_donottrack_menu "Urmărire">
@@ -122,7 +122,7 @@
 <!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivat">
 <!ENTITY pref_text_size "Mărime text">
-<!ENTITY pref_reflow_on_zoom3 "Double tap to reflow text">
+<!ENTITY pref_reflow_on_zoom3 "Dublă apăsare pentru a rearanja textul">
 <!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mic">
 <!ENTITY pref_font_size_medium "Mediu">
@@ -138,27 +138,27 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "Vulpea portocalie ageră face un salt peste așteptările dumneavoastră cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul dumneavoastră fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru dumneavoastră și un viitor mai frumos pentru internet.">
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
-<!ENTITY pref_show_product_announcements "Show product announcements">
+<!ENTITY pref_show_product_announcements "Afișați anunțurile produsului">
 <!ENTITY pref_sync "Sincronizare">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_import_android "Import din Android">
 <!ENTITY pref_private_data_history "Istoric de navigare și descărcare">
 <!ENTITY pref_private_data_formdata "Istoric de formulare și căutări">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
+<!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
 <!ENTITY pref_private_data_passwords "Parole salvate">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Date de sait pentru acces offline">
 <!ENTITY pref_private_data_siteSettings2 "Setările saitului">
 <!ENTITY pref_private_data_downloadFiles "Fișiere descărcate">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
-<!ENTITY datareporting_notification_action "Choose what to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Alegeți ce informații să împărtășiți">
+<!ENTITY datareporting_notification_action "Alegeți ce partajați">
+<!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName; trimite automat câteva informații la &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Pentru a îmbunătăți experiența dumneavoastră, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -168,19 +168,19 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
+<!ENTITY datareporting_fhr_summary2 "Împărtășiți date cu &vendorShortName; în legătură cu starea navigatorului și vă ajută să înțelegi performanța navigatorului">
+<!ENTITY datareporting_abouthr_title "Vedeți raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
 <!ENTITY datareporting_telemetry_summary "Împărtășește datele privind performanța, utilizarea, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; transmite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul dumneavoastră mai stabil și sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de probleme">
-<!ENTITY datareporting_wifi_title "&vendorShortName; location services">
-<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
+<!ENTITY datareporting_wifi_title "Servicii de localizare &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Ajută la îmbunătățirea serviciilor de geolocație pentru web-ul deschis permițând lui &brandShortName; să colecteze și să trimită date anonime prin telefon">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
+<!ENTITY pref_update_autodownload "Actualizări automate">
+<!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Dezactivată">
 <!ENTITY pref_update_autodownload_enabled "Activată">
 
@@ -204,9 +204,9 @@ size. -->
 <!ENTITY tabs_normal "File">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!ENTITY wallpaper_success "Imagine de fundal actualizată">
+<!ENTITY wallpaper_progress "Setare imagine de fundal">
+<!ENTITY wallpaper_fail "Nu am putut seta imaginea de fundal">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -217,7 +217,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
 <!ENTITY contextmenu_open_private_tab "Deschide în filă fără urme">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
+<!ENTITY contextmenu_open_in_reader "Deschide în Cititor">
 <!ENTITY contextmenu_remove_history "Ștergere">
 <!ENTITY contextmenu_remove_bookmark "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
@@ -226,7 +226,7 @@ size. -->
 <!ENTITY contextmenu_paste "Lipește">
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_subscribe "Subscrie la pagină">
 <!ENTITY contextmenu_site_settings "Editare setări sait">
 
 <!ENTITY pref_titlebar_mode "Bară titlu">
@@ -251,7 +251,7 @@ size. -->
 <!ENTITY reading_list_added "Pagină adăugată la lista ta de citit">
 <!ENTITY reading_list_removed "Pagină eliminată din lista ta de citit">
 <!ENTITY reading_list_failed "Eșec la adăugarea paginii la lista ta de citit">
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
+<!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citire">
 <!ENTITY reader "Cititor">
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
@@ -273,16 +273,16 @@ size. -->
 <!ENTITY abouthome_last_tabs_open "Deschide toate filele de data trecută">
 <!ENTITY abouthome_top_sites_title "Saituri de top">
 <!ENTITY abouthome_topsites_edit "Modificare">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
+<!ENTITY abouthome_topsites_pin "Fixare sait">
+<!ENTITY abouthome_topsites_unpin "Anulați fixarea saitului">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Configurați Sincronizare Firefox pentru a accesa semnele de carte, istoricul și filele de pe celelalte dispozitive ale dumneavoastră&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "Obțineți aplicații din Firefox Marketplace și descoperiți ce are cel mai bun web-ul de oferit&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
@@ -311,13 +311,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "care este menținut de">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
+<!ENTITY loaded_mixed_content_message "Această pagină afișează conținut care nu este sigur.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; a blocat conținutul care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_bottom "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 <!ENTITY learn_more "Află mai multe">
-<!ENTITY enable_protection "Enable protection">
-<!ENTITY disable_protection "Disable protection">
-<!ENTITY keep_blocking "Keep blocking">
+<!ENTITY enable_protection "Activare protecție">
+<!ENTITY disable_protection "Dezactivare protecție">
+<!ENTITY keep_blocking "Păstrează blocat">
 
 <!ENTITY private_data_success "Datele private au fost curățate">
 <!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
@@ -333,7 +333,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "Doriți să porniți sugestiile de căutare &formatS;?">
 
 <!ENTITY webapp_generic_name "Aplicație">
 
@@ -341,13 +341,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_select2 "Apăsați pentru a descărca">
 
 <!ENTITY updater_downloading_title2 "Se descarcă &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_title_failed2 "Descărcare eșuată">
+<!ENTITY updater_downloading_select2 "Apăsați pentru a aplica actualizarea odată descărcată">
+<!ENTITY updater_downloading_retry2 "Apăsați pentru a reîncerca">
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
 

@@ -25,8 +25,8 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Caută actualizări »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">
-<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.available2   "Descarcă actualizarea">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Descarc actualizarea…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalează actualizarea">
 <!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
 <!ENTITY aboutPage.support.label                "Asistență">
