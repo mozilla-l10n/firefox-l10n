@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Données collectées">
 <!ENTITY pref_category_installed_search_engines "Moteurs de recherche installés">
+<!ENTITY pref_category_add_search_providers "Add more search providers">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "ASTUCE : ajoutez n\0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche.">
 <!ENTITY pref_category_devtools "Outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_docs "En savoir plus">
