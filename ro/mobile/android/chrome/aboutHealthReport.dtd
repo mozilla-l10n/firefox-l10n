@@ -1,13 +1,12 @@
 <!--
 # Translator(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -15,6 +14,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ok.label      "Bine">
-<!ENTITY cancel.label  "Renunță">
+<!-- LOCALIZATION NOTE (abouthealth.pagetitle): Firefox Health Report is a proper noun in en-US, please keep this in mind. -->
+<!ENTITY abouthealth.pagetitle "Raport de stare &brandShortName;">
 
