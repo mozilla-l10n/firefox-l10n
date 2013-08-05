@@ -78,8 +78,7 @@
 <!ENTITY fullScreenExit.accesskey "ы">
 <!ENTITY fullscreenAllowButton.label "Разрешить">
 <!ENTITY fullscreenExitButton.label "Запретить">
-<!ENTITY fullscreenApproval.value "Разрешить переход в полноэкранный режим?">
-<!ENTITY fullscreenExitHint.value "Нажмите в любой момент кнопку Esc, чтобы выйти из полноэкранного режима.">
+<!ENTITY fullscreenExitHint2.value "Для выхода в любой момент нажмите клавишу ESC.">
 <!ENTITY leaveDOMFullScreen.label "Выйти из полноэкранного режима">
 <!ENTITY leaveDOMFullScreen.accesskey "ы">
 <!ENTITY closeWindow.label "Закрыть окно">
@@ -156,6 +155,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Веб-разработка">
 <!ENTITY webDeveloperMenu.accesskey "б">
+<!ENTITY devToolsCmd.keycode "VK_F12">
+<!ENTITY devToolsCmd.keytext "F12">
 <!ENTITY devtoolsConnect.label "Соединиться…">
 <!ENTITY devtoolsConnect.accesskey "е">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
@@ -181,6 +182,8 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Показать/скрыть инструменты">
 <!ENTITY devToolboxMenuItem.accesskey "а">
+<!ENTITY devToolboxMenuItem.keycode "I">
+<!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolbarToolsButton.tooltip "Показать/скрыть инструменты разработчика">
 <!ENTITY devToolbarOtherToolsButton.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
