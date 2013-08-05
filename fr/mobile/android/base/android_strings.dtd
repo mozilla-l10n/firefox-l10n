@@ -347,7 +347,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session "Nouvelle session invité">
-<!ENTITY exit_guest_session "Quitter la session invité">
+<!ENTITY exit_guest_session "Quitter session invité">
 <!ENTITY guest_session_dialog_continue "Continuer">
 <!ENTITY guest_session_dialog_cancel "Annuler">
 <!ENTITY new_guest_session_title "&brandShortName; va redémarrer">
