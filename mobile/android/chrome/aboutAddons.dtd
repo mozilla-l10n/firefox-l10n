@@ -9,4 +9,3 @@
 <!ENTITY addonAction.disable "Отключить">
 <!ENTITY addonAction.uninstall "Удалить">
 <!ENTITY addonAction.undo "Отменить">
-<!ENTITY addonAction.setDefault "Установить по умолчанию">

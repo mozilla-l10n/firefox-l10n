@@ -58,6 +58,8 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
+<!ENTITY pref_category_add_search_providers "Добавить других провайдеров поиска">
+<!ENTITY pref_search_tip "ПОДСКАЗКА: Добавьте любой веб-сайт в список провайдеров поиска путем долгого нажатия на его поле поиска.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_developer_remotedebugging_docs "Подробнее">
@@ -114,6 +116,10 @@
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправка отзыва">
+<!ENTITY pref_search_set_default "Установить по умолчанию">
+<!ENTITY pref_search_default "По умолчанию">
+<!ENTITY pref_search_remove "Удалить">
+<!ENTITY pref_search_last_toast "Вы не можете удалить или отключить вашу последнюю поисковую систему.">
 <!ENTITY datareporting_notification_title "Статистика и данные &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Выбрать, какой информацией поделиться">
 <!ENTITY datareporting_notification_action "Выбрать, чем поделиться">
