@@ -153,7 +153,7 @@
 <!ENTITY event.location.accesskey                         "O">
 <!ENTITY event.categories.label                           "Kategorie:">
 <!ENTITY event.categories.accesskey                       "i">
-<!ENTITY event.categories.textbox.label                   "Neue Kategorie anlegen" >
+<!ENTITY event.categories.textbox.label                   "Neue Kategorie anlegen">
 <!ENTITY event.categories.textbox.accesskey               "N">
 <!ENTITY event.calendar.label                             "Kalender:">
 <!ENTITY event.calendar.accesskey                         "K">
