@@ -667,7 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginActivateNow.label "Ceadaigh Anois">
 <!ENTITY pluginActivateAlways.label "Ceadaigh agus Meabhraigh">
-<!ENTITY pluginBlockNow.label "Cuir Cosc ar an mBreiseán">
+<!ENTITY pluginBlockNow.label "Cuir Cosc ar an bhForlíontán">
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready

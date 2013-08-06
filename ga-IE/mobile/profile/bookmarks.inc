@@ -14,7 +14,7 @@
 # title for the folder that will contains the default bookmarks
 
 
-#define bookmarks_title Fón Póca
+#define bookmarks_title Soghluaiste
 
 
 
