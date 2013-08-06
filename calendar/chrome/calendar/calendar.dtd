@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.location.label "Suíomh:">
 <!ENTITY calendarproperties.refreshInterval.label "Athnuaigh an Féilire:">
 <!ENTITY calendarproperties.refreshInterval.manual.label "De Láimh">
-<!ENTITY calendarproperties.name.label "Teideal:">
+<!ENTITY calendarproperties.name.label "Ainm:">
 <!ENTITY calendarproperties.readonly.label "Inléite Amháin">
 <!ENTITY calendarproperties.firealarms.label "Taispeáin Meabhrúcháin">
 <!ENTITY calendarproperties.cache3.label "Tacaíocht As Líne">
