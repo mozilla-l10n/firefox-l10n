@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label "Taispeáin Teastais">
 <!ENTITY viewCertificates.accesskey "s">
-<!ENTITY viewCRLs.label "Liostaí Cúlghairme">
-<!ENTITY viewCRLs.accesskey "L">
 <!ENTITY validation.label "Bailíochtú">
 <!ENTITY validation.accesskey "B">
 <!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
