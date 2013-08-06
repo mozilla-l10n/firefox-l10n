@@ -4,103 +4,103 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Firefox სინქრონიზაცია">
+<!ENTITY syncBrand.shortName.label "სინქრონიზაცია">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.connect.label 'დაკავშირება - &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; ანგარიშის დამატება'>
+<!ENTITY sync.title.pair.label 'შეწყვილება'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header2.label 'Enter this code on your other device'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your other device\&apos;s Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'თქვენი ახალი მოწყობილობის გასააქტივებლად, მოწყობილობაზე შეარჩიეთ «&syncBrand.shortName.label;-ის გამართვა».'>
+<!ENTITY sync.subtitle.header2.label 'შეიტანეთ ეს კოდი თქვენს სხვა მოწყობილობაში'>
+<!ENTITY sync.subtitle.connectlocation2.label 'შეარჩიეთ “&sync.title.pair.label;” სექციაში &syncBrand.shortName.label; თქვენი სხვა მოწყობილობის Firefox პარამეტრებში.'>
+<!ENTITY sync.subtitle.pair.label 'გასააქტივებლად შეარჩიეთ «შეწყვილება» თქვენს სხვა მოწყობილობაში.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Show me how.'>
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
+<!ENTITY sync.link.show.label 'მიჩვენე, როგორ.'>
+<!ENTITY sync.link.advancedsetup.label 'დეტალური პარამეტრები…'>
 <!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'ველოდებით სხვა მოწყობილობას…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label 'შეიტანეთ თქვენი &syncBrand.fullName.label; ანგარიშის მონაცემები'>
+<!ENTITY sync.input.username.label 'ანგარიშის სახელი'>
+<!ENTITY sync.input.password.label 'პაროლი'>
+<!ENTITY sync.input.key.label 'აღდგენის კოდი'>
+<!ENTITY sync.checkbox.server.label 'საკუთარი სერვერის გამოყენება'>
+<!ENTITY sync.input.server.label 'სერვერის URL'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
-<!ENTITY sync.subtitle.failaccount.label 'Account creation on your device failed.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Do you have more than one Firefox installed? Currently, &syncBrand.fullName.label; only supports one Firefox installation at a time. Please uninstall other instances to use &syncBrand.shortName.label;.'>
+<!ENTITY sync.title.fail.label 'ვერ ხერხდება &syncBrand.shortName.label; გამართვა'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; სერვერს ვერ უკავშირდება. გბევაცთ ვცადოთ ხელახლა?'>
+<!ENTITY sync.button.tryagain.label 'ხელახლა'>
+<!ENTITY sync.button.manual.label 'გამართვა ხელით'>
+<!ENTITY sync.subtitle.nointernet.label 'ინტერნეტ კავშირი ვერ მოიძებნა.'>
+<!ENTITY sync.subtitle.failaccount.label 'ანგარიშის შექმნა თქვენს მოწყობილობაზე ვერ ხერხდება.'>
+<!ENTITY sync.subtitle.failmultiple.label 'სხვა Firefox ბრაუზერიც ხომ არ გაქვთ ჩადგმული? ამ დორისთვის შესაძლებელია მხოლოდ ერთი &syncBrand.fullName.label; ჩადგმით სარგებლობა. გთხოვთ ამოიღოთ &syncBrand.shortName.label; ჩადგმა (თუ ასეთი არსებობს).'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label1 'Your data is now being downloaded in the background. You can go to Settings to manage your account, or start browsing with &brandShortName;.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; account is already set up. You can go to Settings to manage your account, or launch &brandShortName;.'>
+<!ENTITY sync.title.success.label 'გამართვა დასრულდა'>
+<!ENTITY sync.subtitle.success.label1 'თქვენი მონაცემები ფონურად იტვირთება. თქვენი ანგარიშის სამართავად შეგიძლიათ გადახვიდეთ გვერდზე «პარამეტრები» ან დაიწყოთ ინტერნეტ მოგზაურობა &brandShortName; ბრაუზერით.'>
+<!ENTITY sync.settings.label 'პარამეტრები'>
+<!ENTITY sync.subtitle.manage.label1 'Your &syncBrand.fullName.label; ანგარიში უკვე შექმნილია. ანგარიშის სამართავად შეგიძლიათ გადახვიდეთ გვერდზე «პარამეტრები» ან გახსნათ &brandShortName; ბრაუზერი.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Please try again.'>
-<!ENTITY sync.pair.connectlocation.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device, and then select “I Have an Account.”'>
+<!ENTITY sync.pair.tryagain.label 'გთხოვთ სცადოთ ხელახლა.'>
+<!ENTITY sync.pair.connectlocation.label 'თქვენი მოწყობილობის გასააქტივებლად, შეარჩიეთ «&syncBrand.shortName.label; გამართვა» მოწყობილობაზე და შემდეგ «მაქვს ანგარიში»'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.settings.options.label 'პარამეტრები'>
+<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; ანგარიში'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'What to sync'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Sync your…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Bookmarks'>
-<!ENTITY sync.configure.engines.title.passwords 'Passwords'>
-<!ENTITY sync.configure.engines.title.history 'History'>
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.label 'ეა დასინქრონიზდეს'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'დასინქრონიზდეს ჩემი…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'სანიშნეები'>
+<!ENTITY sync.configure.engines.title.passwords 'პაროლები'>
+<!ENTITY sync.configure.engines.title.history 'ისტორია'>
+<!ENTITY sync.configure.engines.title.tabs 'დაფები'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label 'გაუქმება'>
+<!ENTITY sync.button.connect.label 'დაკავშირება'>
+<!ENTITY sync.button.ok.label 'კეთილი'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'სანიშნეთა მენიუ'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
-<!ENTITY bookmarks.folder.readinglist.label 'Reading List'>
+<!ENTITY bookmarks.folder.tags.label 'ჭდეები'>
+<!ENTITY bookmarks.folder.toolbar.label 'სანიშნეთა პულტი'>
+<!ENTITY bookmarks.folder.unfiled.label 'დაუხარისხებელი სანიშნეები'>
+<!ENTITY bookmarks.folder.desktop.label 'კომპიუტერის სანიშნეები'>
+<!ENTITY bookmarks.folder.mobile.label 'მობილურის სანიშნეები'>
+<!ENTITY bookmarks.folder.readinglist.label 'წასაკითხთა სია'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Pinned'>
+<!ENTITY bookmarks.folder.pinned.label 'დამაგრებული'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
-<!ENTITY sync.notification.configure.saved 'Your selections have been saved.'>
+<!ENTITY sync.notification.oneaccount.label 'მისაღებია მხოლოდ ერთი &syncBrand.fullName.label; ანგარიში.'>
+<!ENTITY sync.notification.configure.saved 'თქვენი პარამეტრები შენახულია.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Incorrect account name or password.'>
-<!ENTITY sync.invalidserver.label 'Please enter a valid server URL'>
-<!ENTITY sync.verifying.label 'Verifying…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Recovery Key incorrect. Please try again.'>
+<!ENTITY sync.invalidcreds.label 'უმართებლო ანგარიშის სახელი ან პაროლი.'>
+<!ENTITY sync.invalidserver.label 'გთხოვთ მიუთითოთ სერვერის მართებული URL'>
+<!ENTITY sync.verifying.label 'შემოწმება…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'აღდგენის კოდი მცდარია. გთხოვთ სცადოთ ხელახლა.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Send Tab To Devices'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Set up &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Set up &syncBrand.shortName.label; to send tabs'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Set up &syncBrand.fullName.label; on your device to send tabs to other devices.'>
-<!ENTITY sync.text.tab.sent.label 'Your tab was sent!'>
-<!ENTITY sync.text.tab.not.sent.label 'There was a problem sending your tab.'>
+<!ENTITY sync.title.send.tab.label 'დაფის გაგზავნა მოწყობილობებზე'>
+<!ENTITY sync.button.send.label 'გაგზავნა'>
+<!ENTITY sync.button.set.up.sync.label '&syncBrand.shortName.label; გამართვა'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; გამართვა დაფების გასაგზავნად'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label '&syncBrand.fullName.label; თქვენს მოწყობილობაზე გამართვა დაფების გასაგზავნად სხვა მოწყობილობებზე.'>
+<!ENTITY sync.text.tab.sent.label 'თქვენი დაფა გაიგზავნა!'>
+<!ENTITY sync.text.tab.not.sent.label 'პრობლემა თქვენი დაფის გაგზავნისას.'>

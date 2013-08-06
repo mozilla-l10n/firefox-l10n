@@ -12,14 +12,14 @@
 <!ENTITY intro.message             "გვითხარით რას ფიქრობთ &brandShortName; ვერსიაზე Android-ისთვის.">
 <!ENTITY intro.happyLink           "ძალიან მომწონს">
 <!ENTITY intro.sadLink             "რაღაც პრობლემები შემექმნა">
-<!ENTITY intro.ideaLink            "იდეა მაქვს">
+<!ENTITY intro.maybeLater          "შესაძლოა მოგვიანებით...">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "თუ დახმარება დაგჭირდათ ან პრობლემა შეგექმნათ &brandShortName;-თან, გთხოვთ ესტუმროთ ">
+<!ENTITY support.pre2               "თუ დახმარება დაგჭირდათ ან პრობლემა შეგექმნათ &brandShortName;-თან, გთხოვთ ესტუმროთ ">
 <!ENTITY support.link              "&brandShortName; მხარდაჭერის საიტს">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2              ".">
 
 <!ENTITY happy.header              "მოხარული ვართ!">
 
@@ -32,7 +32,7 @@
 <!ENTITY happy.finePrint           "ეს ერთ წუთსაც არ წაგართმევთ და ყველა ბედნიერად იგრძნობს თავს.">
 
 <!ENTITY happy.ratingLink          "დიახ, გადასვლა Google Play საიტზე">
-<!ENTITY happy.maybeLater          "მოგვიანებით ხომ არ...">
+<!ENTITY happy.maybeLater2         "მოგვიანებით ხომ არ...">
 <!ENTITY happy.noThanks            "არა, გმადლობთ">
 
 <!ENTITY sad.message               "ვწუხვართ, რომ პრობლემები შეგექმნათ &brandShortName; ბრაუზერტან. გთხოვთ გვაცნობოთ რა მოხდა და ჩვენ შევეცდებით გამოვასწოროთ იგი.">
@@ -52,19 +52,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "წინააღმდეგ შემთხვევაში ცუდი დღე დაადგებათ.">
 
-<!-- LOCALIZATION NOTE (idea.message): In English, "please share your thoughts" could mean that we're asking the user to
-     tell us any thoughts or ideas they have about anything, so we're jokingly telling them not to use the space below
-     to tell us anything they're thinking about. -->
-<!ENTITY idea.message              "ჩვენ სიამოვნებით მოგისმენთ! გთხოვთ გაგვიზიაროთ თქვენი ნააზრევი (მხოლოდ ისინი, რომლებიც &brandShortName; ბრაუზერს ეხება, გეთაყვა.)">
-<!ENTITY idea.placeholder          "შეიტანეთ თქვენი იდები აქ">
-<!ENTITY idea.thanksHeader         "გმადლობთ!">
-
-<!ENTITY idea.thanksMessageTop     "ჩვენ ვაფასებთ, რომ თქვენ გამონახეთ დრო აზრების გასაზიარებლად. "ჩვენ მუდმივად ვცდილობთ &brandShortName; ბრაუზერის გაუმჯობესებას თქვენი წვლილი ყოველთვის გვიბიძგებს შევქმნათ რაღაც ახალი.">
-
-<!-- LOCALIZATION NOTE (idea.thanksMessageBottom): "high five" — This is a celebratory or congratulatory gesture.
-     It could also be a handshake, a pat on the back, a thumbs up or something similar. The idea is that it's
-     something physical, which is why they can't see it.-->
-<!ENTITY idea.thanksMessageBottom  "შესაძლოა ვერ ხედავდეთ, მაგრამ ზუსტად ახლა გულთბილად გართმევთ ხელს.">
-
-<!ENTITY feedback.privacy          "თქვენი კონფიდენციალობის უზრუნველსაყოფად, გთხოვთ ნუ შეიტანთ არასასურველ ინფორმაციას თქვენს შესახებ.">
+<!ENTITY feedback.privacy          "თქვენი კონფიდენციალობის უზრუნველსაყოფად, გთხოვთ ძალზე პირადულ ინფორმაციას თქვენს შესახებ ნუ შეიტანთ.">
 <!ENTITY feedback.send             "გამოხმაურების გაგზავნა">

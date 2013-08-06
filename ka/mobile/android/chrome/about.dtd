@@ -9,7 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "შემოწმება სიახლეებზე »">
 <!ENTITY aboutPage.checkForUpdates.checking     "განახლებების მოძიება…">
 <!ENTITY aboutPage.checkForUpdates.none         "განახლებები ვერ მოიძებნა">
-<!ENTITY aboutPage.checkForUpdates.found        "განახლება შესაძლებელია">
+<!ENTITY aboutPage.checkForUpdates.available2   "ჩამოტვირთეთ განახლება">
+<!ENTITY aboutPage.checkForUpdates.downloading  "განახლების ჩამოტვირთვა…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "განახლების ჩადგმა">
 <!ENTITY aboutPage.faq.label                    "ფ.ა.კ.">
 <!ENTITY aboutPage.support.label                "მხარდაჭერა">
 <!ENTITY aboutPage.privacyPolicy.label          "კონფიდენციალობა">
