@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Ställer in &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Vi uppdaterar dina bokmärken och din historik, vilket ta någon minut.">
-
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
-<!ENTITY pref_category_general "Allmänt">
-<!ENTITY pref_category_privacy "Sekretess och säkerhet">
-<!ENTITY pref_category_content "Innehåll">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Avancerat">
+<!ENTITY pref_category_customize "Anpassa">
+<!ENTITY pref_category_search2 "Sökinställningar">
+<!ENTITY pref_category_display "Visa">
+<!ENTITY pref_category_privacy_short "Integritet">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataalternativ">
-<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
+<!ENTITY pref_category_devtools "Utvecklarverktyg">
+<!ENTITY pref_developer_remotedebugging "Fjärravlusning">
+<!ENTITY pref_developer_remotedebugging_docs "Läs mer">
 <!ENTITY pref_remember_signons "Spara lösenord">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Allmänt">
-<!ENTITY pref_header_privacy "Sekretess och säkerhet">
-<!ENTITY pref_header_content "Innehåll">
+<!ENTITY pref_header_customize "Anpassa">
+<!ENTITY pref_header_display "Visa">
+<!ENTITY pref_header_privacy_short "Integritet">
+<!ENTITY pref_header_help "Hjälp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Utvecklarverktyg">
 
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverade">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_reflow_on_zoom3 "Omforma text vid dubbeltryck">
+<!ENTITY pref_reflow_on_zoom4 "Omforma text">
+<!ENTITY pref_restore "Flikar">
+<!ENTITY pref_restore_always "Återställ alltid">
+<!ENTITY pref_restore_crash "Återställ efter krasch">
+<!ENTITY pref_restore_never "Återställ aldrig">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings2 "Platsinställningar">
 <!ENTITY pref_private_data_downloadFiles "Hämtade filer">
+
+
+<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_vendor_faqs "Vanliga frågor">
+<!ENTITY pref_vendor_feedback "Ge synpunkter">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik och data">
 <!ENTITY datareporting_notification_action_long "Välj vilken information som ska delas">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Flikar">
 <!ENTITY tabs_private "Privata">
 <!ENTITY tabs_synced "Synkade">
-<!ENTITY wallpaper_success "Bakgrund uppdaterad">
-<!ENTITY wallpaper_progress "Byter bakgrund">
-<!ENTITY wallpaper_fail "Kunde inte byta bakgrund">
+<!ENTITY set_image_fail "Kan inte använda bild">
+<!ENTITY set_image_chooser_title "Använd bild som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Sidan borttagen från din läslista">
 <!ENTITY reading_list_failed "Kunde inte lägga till sidan i din läslista">
 <!ENTITY reading_list_duplicate "Sidan finns redan i din läslista">
-<!ENTITY reader "Läsaren">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Ytterligare åtgärder">
 
 <!ENTITY masterpassword_create_title "Skapa ett huvudlösenord">
 <!ENTITY masterpassword_remove_title "Ta bort huvudlösenord">
@@ -318,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmärken och historik">
 
+<!ENTITY devtools_remote_debugging_forward "Glöm inte att ställa in vidarebefordring av port!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_start_select2 "Tryck för att hämta">
@@ -329,3 +345,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Uppdatering finns för &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryck för att uppdatera">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Ny gästsession">
+<!ENTITY exit_guest_session "Stäng gästsession">
+<!ENTITY guest_session_dialog_continue "Fortsätt">
+<!ENTITY guest_session_dialog_cancel "Avbryt">
+<!ENTITY new_guest_session_title "&brandShortName; startas om">
+<!ENTITY new_guest_session_text "Personen som använder den kommer inte att kunna se något av din personliga webbläsardata (såsom sparade lösenord, historik eller bokmärken).\n\nNär gästen är klar kommer dess webbläsardata att raderas och din session att återupptas.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; startas om">
+<!ENTITY exit_guest_session_text "Webbläsardatan från den här sessionen kommer att raderas.">
