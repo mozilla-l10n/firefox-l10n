@@ -58,6 +58,8 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Condivisione dati">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
+<!ENTITY pref_category_add_search_providers "Aggiungi altri motori di ricerca">
+<!ENTITY pref_search_tip "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca.">
 <!ENTITY pref_category_devtools "Strumenti per sviluppatori">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_docs "Altre informazioni">
@@ -114,6 +116,10 @@
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Invia feedback">
+<!ENTITY pref_search_set_default "Imposta come predefinito">
+<!ENTITY pref_search_default "Predefinito">
+<!ENTITY pref_search_remove "Elimina">
+<!ENTITY pref_search_last_toast "Non è possibile rimuovere o disattivare l’ultimo motore di ricerca.">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
