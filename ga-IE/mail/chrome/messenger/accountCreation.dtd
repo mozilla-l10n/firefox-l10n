@@ -60,7 +60,7 @@
 <!ENTITY warning.label "Rabhadh!">
 <!ENTITY incomingSettings.label "Socruithe isteach:">
 <!ENTITY outgoingSettings.label "Socruithe amach:">
-<!ENTITY technicaldetails.label "Sonraí Teicniúla">
+<!ENTITY technicaldetails.label "Mionsonraí Teicniúla">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
