@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; დახმარება">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "კლავიატურის ბილიკები">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "ხელახლა გახსნა ამორთული მოდულებით…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
