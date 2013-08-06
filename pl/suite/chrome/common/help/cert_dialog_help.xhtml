@@ -62,13 +62,13 @@
 <p>Po otwarciu okna podglądu certyfikatu, domyślnie pokazana jest karta Ogólne. Zawiera ona kilka rodzajów informacji o&nbsp;certyfikacie:</p>
 
 <ul>
-  <li><strong>Niniejszy certyfikat został zweryfikowany do wykorzystania przez</strong>: Informacje, w&nbsp;jaki sposób Menedżer certyfikatów dokonuje ich sprawdzenia są dostępne w&nbsp;rozdziale <a href="glossary.html#certificate_verification">Weryfikacja certyfikatów</a>. Cele użytkowania certyfikatu mogą być dowolne z&nbsp;niżej podanych:
+  <li><strong>Niniejszy certyfikat został zweryfikowany do wykorzystania przez</strong>: Informacje, w&nbsp;jaki sposób Menedżer certyfikatów dokonuje ich sprawdzenia są dostępne w&nbsp;rozdziale <a href="glossary.xhtml#certificate_verification">Weryfikacja certyfikatów</a>. Cele użytkowania certyfikatu mogą być dowolne z&nbsp;niżej podanych:
     <ul>
       <li><strong>Certyfikat SSL klienta</strong>: Certyfikat używany do identyfikacji użytkownika na stronach WWW.</li>
       <li><strong>Certyfikat SSL serwera</strong>: Certyfikat używany do identyfikacji przez przeglądarki serwera WWW.</li>
       <li><strong>Certyfikat osoby podpisującej wiadomość</strong>: Certyfikat używany do identyfikacji użytkownika w&nbsp;celach cyfrowego podpisywania wiadomości poczty elektronicznej.</li>
       <li><strong>Certyfikat adresata wiadomości</strong>: Certyfikat używany do identyfikacji osoby trzeciej. Przykładowo, aby mieć możliwość wysyłania do niej zaszyfrowanych wiadomości poczty elektronicznej.</li>
-      <li><strong>Certyfikat serwera potwierdzającego</strong>: Certyfikat używany do identyfikacji serwera potwierdzającego stan certyfikatów, używającego protokołu OCSP. Dodatkowe informacje o&nbsp;protokole OCSP można znaleźć w&nbsp;rozdziale <a href="validation_help.html">Ustawienia weryfikacji</a>.</li>
+      <li><strong>Certyfikat serwera potwierdzającego</strong>: Certyfikat używany do identyfikacji serwera potwierdzającego stan certyfikatów, używającego protokołu OCSP. Dodatkowe informacje o&nbsp;protokole OCSP można znaleźć w&nbsp;rozdziale <a href="validation_help.xhtml">Ustawienia weryfikacji</a>.</li>
       <li><strong>Organ certyfikacji SSL</strong>: Certyfikat używany do identyfikacji organu certyfikacji &mdash; organizacji wydającej certyfikaty używane do identyfikacji użytkowników w&nbsp;sieciach komputerowych.</li>
     </ul>
   </li>
@@ -90,7 +90,7 @@
 <p>Po wybraniu karty Szczegóły w&nbsp;oknie podglądu certyfikatu, pokażą się szczegółowe informacje o&nbsp;certyfikacie. Aby sprawdzić informacje dotyczące dowolnego certyfikatu w&nbsp;hierarchii, należy zaznaczyć jego nazwę, następnie interesującą pozycję w&nbsp;oknie Pola certyfikatu i&nbsp;odczytać jej zawartość w&nbsp;oknie Wartość pola:</p>
 
 <ul>
-	<li><strong>Hierarchia certyfikatu</strong>: W&nbsp;tej części okna podglądu certyfikatu pokazany jest łańcuch certyfikatów z&nbsp;zaznaczonym certyfikatem umieszczonym na samym dole.  Łańcuch certyfikatów jest hierarchicznym przedstawieniem certyfikatów podpisanych przez kolejne organy certyfikacji (ang. certificate authorities (CA)). Certyfikat organu certyfikacji identyfikuje <a href="glossary.html#certificate_authority">organ certyfikacji</a> i&nbsp;jest używany do podpisywania certyfikatów wydanych przez ten organ. Certyfikat organu wydającego bezpośrednio certyfikat użytkownika może być podpisany przez certyfikat organu nadrzędnego (ten z&nbsp;kolei może być podpisany przez certyfikat organu będącego w&nbsp;hierarchii nad nim, aż do certyfikatu <a href="glossary.html#root_CA">głównego organu certyfikacji</a>.</li>
+	<li><strong>Hierarchia certyfikatu</strong>: W&nbsp;tej części okna podglądu certyfikatu pokazany jest łańcuch certyfikatów z&nbsp;zaznaczonym certyfikatem umieszczonym na samym dole.  Łańcuch certyfikatów jest hierarchicznym przedstawieniem certyfikatów podpisanych przez kolejne organy certyfikacji (ang. certificate authorities (CA)). Certyfikat organu certyfikacji identyfikuje <a href="glossary.xhtml#certificate_authority">organ certyfikacji</a> i&nbsp;jest używany do podpisywania certyfikatów wydanych przez ten organ. Certyfikat organu wydającego bezpośrednio certyfikat użytkownika może być podpisany przez certyfikat organu nadrzędnego (ten z&nbsp;kolei może być podpisany przez certyfikat organu będącego w&nbsp;hierarchii nad nim, aż do certyfikatu <a href="glossary.xhtml#root_CA">głównego organu certyfikacji</a>.</li>
 	<li><strong>Pola certyfikatu</strong>: Ta część okna pokazuje pola składające się na zawartość certyfikatu.</li>
 	<li><strong>Wartość pola</strong>: Ta część okna pokazuje zawartość zaznaczonego pola certyfikatu.</li>
 </ul>
@@ -107,7 +107,7 @@
 
 <h2 id="encryption_key_copy">Kopia klucza szyfrującego</h2>
 
-<p>Te <a href="glossary.html#certificate_authority">organy certyfikacji (CA)</a>, które wydają oddzielne certyfikaty do podpisywania i&nbsp;szyfrowania poczty elektronicznej, zwykle tworzą kopie zapasowe prywatnych <a href="glossary.html#encryption_key">kluczy szyfrujących</a> użytkownika podczas procesu wystawiania certyfikatu.</p>
+<p>Te <a href="glossary.xhtml#certificate_authority">organy certyfikacji (CA)</a>, które wydają oddzielne certyfikaty do podpisywania i&nbsp;szyfrowania poczty elektronicznej, zwykle tworzą kopie zapasowe prywatnych <a href="glossary.xhtml#encryption_key">kluczy szyfrujących</a> użytkownika podczas procesu wystawiania certyfikatu.</p>
 
 <p>Okno dialogowe tworzenia kopii klucza szyfrującego umożliwia zatwierdzenie chęci utworzenia takiej kopii, lub anulowanie żądania wydania certyfikatu. Organ certyfikacji, który posiada kopię klucza prywatnego użytkownika, posiada również potencjalną możliwość odszyfrowywania zaszyfrowanej przy pomocy tego klucza korespondencji skierowanej do właściciela certyfikatu.</p>
 
@@ -139,7 +139,7 @@
 
 <h2 id="user_identification_request">Żądanie identyfikacji użytkownika</h2>
 
-<p>Certyfikat jest bardzo wiarygodną metodą identyfikacji. Z&nbsp;tego też powodu niektóre witryny internetowe żądają przy identyfikacji użytkownika jego certyfikatu zamiast standardowej pary użytkownik i&nbsp;hasło. Taka metoda identyfikacji jest czasami zwana <a href="glossary.html#client_authentication">autoryzacją klienta</a>.</p>
+<p>Certyfikat jest bardzo wiarygodną metodą identyfikacji. Z&nbsp;tego też powodu niektóre witryny internetowe żądają przy identyfikacji użytkownika jego certyfikatu zamiast standardowej pary użytkownik i&nbsp;hasło. Taka metoda identyfikacji jest czasami zwana <a href="glossary.xhtml#client_authentication">autoryzacją klienta</a>.</p>
 
 <p>Jak wiadomo, jeden użytkownik może posiadać w&nbsp;Menedżerze certyfikatów więcej niż jeden certyfikat służący jego identyfikacji w&nbsp;Internecie. W&nbsp;takim przypadku, Menedżer certyfikatów wyświetli okno dialogowe Żądanie identyfikacji użytkownika, zawierające dwa rodzaje informacji:</p>
 
@@ -148,7 +148,7 @@
 <ul>
 		<li><strong>Nazwa hosta (serwera)</strong>: Nazwa serwera żądającego identyfikacji użytkownika, pokazywana jako część jego adresu URL. Przykładowo, nazwą hosta witryny firmy Netscape jest <tt>home.netscape.com</tt>.</li>
 		<li><strong>Organizacja</strong>: Nazwa organizacji, która zarządza witryną WWW.</li>
-		<li><strong>Wydany przez</strong>: Nazwa <a href="glossary.html#certificate_authority">organu certyfikacji (CA)</a>, który wydał certyfikat.</li>
+		<li><strong>Wydany przez</strong>: Nazwa <a href="glossary.xhtml#certificate_authority">organu certyfikacji (CA)</a>, który wydał certyfikat.</li>
 </ul>
 
 <p><strong>Wybierz certyfikat do użycia</strong>: Certyfikaty posiadane przez użytkownika przeznaczone do jego identyfikacji na stronach WWW, są umieszczone w&nbsp;tej części okna dialogowego na rozwijanej liście wyboru. Z&nbsp;niej należy wybrać ten certyfikat, który wydaje się najbardziej pasującym do odwiedzanej witryny.</p>
@@ -162,7 +162,7 @@
 
 <h2 id="new_certificate_authority">Nowy organ certyfikacji</h2>
 
-<p>Certyfikat, który jest w&nbsp;posiadaniu Menedżera certyfikatów w&nbsp;postaci pliku (niezależnie od miejsca jego przechowywania &mdash; dysk twardy komputera, lub zewnętrzne urządzenie zabezpieczające), zawiera certyfikaty identyfikujące <a href="glossary.html#certificate_authority">organy certyfikacji (CA)</a>. Aby móc rozpoznawać wszystkie certyfikaty ze swojej bazy, Menedżer certyfikatów musi posiadać certyfikaty organów certyfikacji, które wydały lub autoryzowały wydanie tych certyfikatów.</p>
+<p>Certyfikat, który jest w&nbsp;posiadaniu Menedżera certyfikatów w&nbsp;postaci pliku (niezależnie od miejsca jego przechowywania &mdash; dysk twardy komputera, lub zewnętrzne urządzenie zabezpieczające), zawiera certyfikaty identyfikujące <a href="glossary.xhtml#certificate_authority">organy certyfikacji (CA)</a>. Aby móc rozpoznawać wszystkie certyfikaty ze swojej bazy, Menedżer certyfikatów musi posiadać certyfikaty organów certyfikacji, które wydały lub autoryzowały wydanie tych certyfikatów.</p>
 
 <p>Gdy użytkownik zadecyduje o&nbsp;zakwalifikowaniu danego organu certyfikacji do organów zaufanych, Menedżer certyfikatów pobiera certyfikat takiego organu i&nbsp;od tej pory jest w&nbsp;stanie poprawnie rozpoznawać te rodzaje certyfikatów, które zostały wybrane w&nbsp;momencie ustawiania stopnia zaufania organu.</p>
 
@@ -182,7 +182,7 @@
 
 <h2 id="web_site_certificates">Certyfikaty witryn WWW</h2>
 
-<p>Jedno z&nbsp;okien opisanych poniżej może się pojawić przy próbie dostępu do witryny WWW&nbsp;obsługującej protokół <a href="glossary.html#Secure_Sockets_Layer">SSL</a> dla celów <a href="glossary.html#authentication">autoryzacji</a> użytkownika i&nbsp;<a href="glossary.html#encryption">szyfrowania</a> przesyłu danych.</p>
+<p>Jedno z&nbsp;okien opisanych poniżej może się pojawić przy próbie dostępu do witryny WWW&nbsp;obsługującej protokół <a href="glossary.xhtml#Secure_Sockets_Layer">SSL</a> dla celów <a href="glossary.xhtml#authentication">autoryzacji</a> użytkownika i&nbsp;<a href="glossary.xhtml#encryption">szyfrowania</a> przesyłu danych.</p>
 
 <div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
@@ -263,7 +263,7 @@
 
 <h3 id="certificate_expired">Wygasły certyfikat</h3>
 
-<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu. Po wygaśnięciu certyfikatu użytkownik musi sobie wyrobić nowy.</p>
+<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.xhtml#certificate">certyfikat</a> jest ważny przez określony okres czasu. Po wygaśnięciu certyfikatu użytkownik musi sobie wyrobić nowy.</p>
 
 <p>Program &brandShortName; <a href="#untrusted_connection_page">ostrzega</a> użytkownika przed próbą dostępu do witryny WWW, której certyfikat wygasł. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na datę późniejszą niż data wygaśnięcia certyfikatu, program &brandShortName; będzie traktować certyfikat jako wygasły.</p>
 
@@ -271,7 +271,7 @@
 
 <h3 id="certificate_not_yet_valid">Jeszcze nieważny certyfikat</h3>
 
-<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.html#certificate">certyfikat</a> jest ważny przez określony okres czasu.</p>
+<p>Podobnie jak karta kredytowa i&nbsp;wiele innych form identyfikacji, również <a href="glossary.xhtml#certificate">certyfikat</a> jest ważny przez określony okres czasu.</p>
 
 <p>Program &brandShortName; <a href="#untrusted_connection_page">ostrzega</a> użytkownika przed próbą dostępu do witryny WWW, której certyfikat jest jeszcze nieważny. Pierwszą rzeczą, jaką powinien w&nbsp;związku z&nbsp;takim komunikatem zrobić użytkownik jest sprawdzenie poprawności daty i&nbsp;czasu w&nbsp;swoim komputerze. Jeżeli zegar komputera jest ustawiony na niewłaściwą datę, program &brandShortName; może traktować certyfikat jako jeszcze nieważny, nawet jeśli tak nie jest w&nbsp;danym konkretnym przypadku.</p>
 
@@ -279,7 +279,7 @@
 
 <h3 id="domain_name_mismatch">Niezgodność nazw domen</h3>
 
-<p><a href="glossary.html#certificate">Certyfikat</a> serwera zawiera nazwę serwera w&nbsp;postaci nazwy domeny witryny. Przykładowo, nazwą domeny witryny WWW&nbsp;organizacji Mozilla jest <tt>www.mozilla.org</tt>. Jeżeli nazwa domeny w&nbsp;certyfikacie serwera nie jest zgodna z&nbsp;aktualną nazwą domeny witryny WWW, może to oznaczać, że ktoś próbuje przechwycić komunikację użytkownika z&nbsp;witryną WWW.</p>
+<p><a href="glossary.xhtml#certificate">Certyfikat</a> serwera zawiera nazwę serwera w&nbsp;postaci nazwy domeny witryny. Przykładowo, nazwą domeny witryny WWW&nbsp;organizacji Mozilla jest <tt>www.mozilla.org</tt>. Jeżeli nazwa domeny w&nbsp;certyfikacie serwera nie jest zgodna z&nbsp;aktualną nazwą domeny witryny WWW, może to oznaczać, że ktoś próbuje przechwycić komunikację użytkownika z&nbsp;witryną WWW.</p>
 
 <!-- TODO: start localizing --><p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you attempt to visit a website whose server certificate&apos;s domain does not match the domain of the website you are trying to visit.<!-- TODO: stop localizing --> Decyzja, czy mimo ostrzeżenia można traktować witrynę jako zaufaną należy do użytkownika i&nbsp;może zależeć od tego, jakie czynności chce on wykonywać na niej i&nbsp;czy jest ona znana użytkownikowi. Certyfikaty większości stron komercyjnych posiadają taką samą nazwę domeny w&nbsp;certyfikacie, jaka widnieje w&nbsp;pasku adresu przeglądarki. <!-- TODO: start localizing -->If you choose to continue you need to <a href="#add_security_exception">add a security exception</a>.<!-- TODO: stop localizing --></p></p>
 
