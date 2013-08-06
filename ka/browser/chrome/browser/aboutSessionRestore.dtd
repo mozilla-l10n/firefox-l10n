@@ -21,3 +21,14 @@
 <!ENTITY restorepage.listHeader     "სარკმლები და დაფები">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "სარკმელი &#37;S">
+
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+<!ENTITY welcomeback.tabtitle       "კვლავ მოგესალმებით!">
+
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+<!ENTITY welcomeback.pageTitle      "კვლავ მოგესალმებით!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; ბრაუზერმა თქვენი პროფაილი აღადგინა. ქვემოთ მოტანილია თქვენი გახსნილი სარკმლებისა და დაფების სია; შეგიძლიათ მათი აღდგენა ან სუფთა ფურცლით დაწყება.">

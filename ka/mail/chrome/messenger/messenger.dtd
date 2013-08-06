@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "ფოსტის მიღება">
+<!ENTITY getMsgButton1.label "ფოსტის მიღება">
 <!ENTITY newMsgButton.label "ახლის შექმნა">
 <!ENTITY replyButton.label "პასუხი">
 <!ENTITY replyAllButton.label "პასუხი ყველას">

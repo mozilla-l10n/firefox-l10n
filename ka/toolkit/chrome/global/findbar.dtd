@@ -5,16 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-<!-- entities split out from browser.dtd -->
-<!ENTITY next.label "შემდეგი">
-<!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "ფრაზის შემდეგი კონტექსტის პოვნა">
-<!ENTITY previous.label "წინა">
-<!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "ფრაზის წინა კონტექსტის პოვნა">
 <!ENTITY findCloseButton.tooltip "საძიებო პანელის დახურვა">
-<!ENTITY highlight.label "ყველას მარკირება">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "ფრაზის ყველა კონტექსტის გამოკვეთა">
-<!ENTITY caseSensitiveCheckbox.label "რეგისტრის გათვალისწინება">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY highlightAll.label "ყველას მარკირება">
+<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.tooltiptext "ფრაზის ყველა კონტექსტის გამოკვეთა">
+<!ENTITY caseSensitive.label "რეგისტრის გათვალისწინება">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "ძიება რეგისტრის გათვალისწინებით">

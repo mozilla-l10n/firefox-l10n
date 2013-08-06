@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "დახურული დაფის აღდგენა">
 <!ENTITY  undoCloseTab.accesskey             "U">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "დახურული დაფების აღდგენა">
 <!ENTITY  closeTab.label                     "დაფის დახურვა">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -73,12 +78,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "მენიუს პანელი">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "ნავიგატორის  პულტი">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "სანიშნეების პულტი">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "სანიშნეების პულტის ელემენტები">
-<!ENTITY addonBarCmd.label "მოდულების პანელი">
-<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "გვერდის ვებ კოდები">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -107,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY fullscreenAllowButton.label "ნებართვა">
 <!ENTITY fullscreenExitButton.label "უარყოფა">
-<!ENTITY fullscreenApproval.value "სრული ეკრანის რეჟიმის ნებართვა?">
 
-<!ENTITY fullscreenExitHint.value "ESC - სრული ეკრანის რეჟიმიდან გამოსასვლელად.">
+<!ENTITY fullscreenExitHint2.value "ESC - სრული ეკრანის რეჟიმიდან გამოსასვლელად.">
 <!ENTITY leaveDOMFullScreen.label "სრული ეკრანის რეჟიმიდან გამოსვლა">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,22 +162,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "უკან/წინ">
 <!ENTITY locationItem.title           "მისამართი">
 <!ENTITY searchItem.title             "ძიება">
-<!ENTITY throbberItem.title           "ქმედების მაჩვენებელი">
 <!ENTITY bookmarksItem.title          "სანიშნეები">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "მენიუ">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; მენიუს გახსნა">
 <!ENTITY homeButton.label             "თავფურცელზე">
 
 <!ENTITY tabGroupsButton.label        "დაფების ჯგუფები">
 <!ENTITY tabGroupsButton.tooltip      "თქვენი დაფების დაჯგუფება">
 
-<!ENTITY feedButton.label             "ხელმოწერა">
-<!ENTITY feedButton.tooltip           "ხელმოწერა ამ გვერდის სიახლეებზე…">
-
 <!ENTITY bookmarksButton.label          "სანიშნეები">
-<!ENTITY bookmarksButton.tooltip        "თქვენი სანიშნეების ჩვენება">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "სანიშნეები">
@@ -192,7 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "ისტორია">
-<!ENTITY historyButton.tooltip          "ბოლოს მონახულებული ვებგვერდების ჩვენება">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
@@ -200,8 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "საძიებო საკვანძო სიტყვის დამატება…">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "ვებ ძიება">
-<!ENTITY search.accesskey             "S">
+
 <!ENTITY downloads.label              "ჩამოტვირთვები">
 <!ENTITY downloads.tooltip            "ჩამოტვირთვების მიმდინარეობის ჩვენება">
 <!ENTITY downloads.accesskey          "D">
@@ -213,6 +205,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ვებ პროგრამისტი">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "დაკავშირება…">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -259,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ხელსაწყოთა გადართვა">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "მკვლევარის გადართვა">
 <!ENTITY devToolbarOtherToolsButton.label  "სხვა ხელსაწყოები">
@@ -316,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "მორგება…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C"> 
-<!ENTITY viewTabsOnTop.label            "ზედა დაფები">
-<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "ისტორია">
 <!ENTITY historyMenu.accesskey "s">
@@ -326,20 +321,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული სარკმლები">
 <!ENTITY historyRestoreLastSession.label "წინა სეანსის აღდგენა">
 
-<!ENTITY historyHomeCmd.label "თავფურცელი">
 <!ENTITY showAllHistoryCmd2.label "სრული ისტორიის ჩვენება…">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "რედაქცია">
 <!ENTITY appMenuCustomize.label "მორგება">
-<!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
-<!ENTITY appMenuSidebars.label "სტენდები">
-<!ENTITY appMenuFind.label "პოვნა…">
-<!ENTITY appMenuUnsorted.label "დაუჯგუფებელი სანიშნეები">
-<!ENTITY appMenuWebDeveloper.label "ვებ პროგრამისტი">
-<!ENTITY appMenuGettingStarted.label "პირველი ნაბიჯები">
-<!ENTITY appMenuSafeMode.label "ხელახლა გახსნა ამორთული მოდულებით…">
-<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "მისამართის მოძიება ან შეტანა">
@@ -408,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "ხედის აღწერილობა">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ფონის გამოსახულების ჩვენება">
@@ -542,17 +529,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "ახალი სარკმლის გახსნა">
 <!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
 
-<!ENTITY cutButton.tooltip              "ამოჭრა">
-<!ENTITY copyButton.tooltip             "ასლი">
-<!ENTITY pasteButton.tooltip            "ჩასმა">
+<!ENTITY fullScreenButton.tooltip       "სარკმლის სრულ ეკრანზე გახსნა">
 
-<!ENTITY fullScreenButton.tooltip       "სარკმლის რულ ეკრანზე გახსნა">
-
-<!ENTITY zoomOutButton.tooltip          "დაშორება">
-<!ENTITY zoomInButton.tooltip           "მოახლოება">
-<!ENTITY zoomControls.label             "მასშტაბის კონტროლი">
-
-<!ENTITY quitApplicationCmdWin.label       "გასვლა"> 
+<!ENTITY quitApplicationCmdWin.label       "გამოსვლა"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -622,6 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY identity.moreInfoLinkText "დაწვრილებით…">
 
+<!ENTITY identity.permissions "უფლებები">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის დაფები">
@@ -636,9 +617,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "სინქრონიზაცია">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "სინქრონიზაცია">
-
-<!ENTITY addonBarCloseButton.tooltip  "მოდულების პანელის დახურვა">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "სოციალური ღილაკების პულტი">
 <!ENTITY social.notLoggedIn.label   "არ შემოსულხართ">
@@ -689,3 +667,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "ნებართვა ამ ჯერზე">
 <!ENTITY pluginActivateAlways.label "ჩართული დატოვება">
 <!ENTITY pluginBlockNow.label "მოდულის დაბლოკვა">
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "მოდულების პანელი">
+<!ENTITY addonBarCmd.accesskey         "A">
+<!ENTITY throbberItem.title            "ქმედების მაჩვენებელი">
+<!ENTITY appMenuButton.label           "მენიუ">
+<!ENTITY appMenuButton.tooltip         "&brandShortName; მენიუს გახსნა">
+<!ENTITY feedButton.label              "ხელმოწერა">
+<!ENTITY feedButton.tooltip            "ხელმოწერა ამ გვერდზე…">
+<!ENTITY bookmarksButton.tooltip       "თქვენი სანიშნეების ჩვენება">
+<!ENTITY historyButton.tooltip         "ბოლოს მონახულებული გვერდების ჩვენება">
+<!ENTITY viewTabsOnTop.label           "დაფები ზემოთ">
+<!ENTITY viewTabsOnTop.accesskey       "T">
+<!ENTITY appMenuEdit.label             "რედაქცია">
+<!ENTITY appMenuToolbarLayout.label    "პულტის თარგი…">
+<!ENTITY appMenuSidebars.label         "სტენდები">
+<!ENTITY appMenuFind.label             "პოვნა…">
+<!ENTITY appMenuUnsorted.label         "დაუხარისხებელი სანიშნეები">
+<!ENTITY appMenuWebDeveloper.label     "ვებ პროგრამისტი">
+<!ENTITY appMenuGettingStarted.label   "პირველი ნაცნობობა">
+<!ENTITY appMenuSafeMode.label         "ხელახლა გახსნა ამორთული მოდულებით…">
+<!ENTITY appMenuSafeMode.accesskey     "R">
+<!ENTITY cutButton.tooltip             "ამოჭრა">
+<!ENTITY copyButton.tooltip            "ასლი">
+<!ENTITY pasteButton.tooltip           "ჩასმა">
+<!ENTITY zoomOutButton.tooltip         "შემცირება">
+<!ENTITY zoomInButton.tooltip          "გაზრდა">
+<!ENTITY zoomControls.label            "მასშტაბის მართვა">
+<!ENTITY addonBarCloseButton.tooltip   "მოდულების პანელის დახურვა">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

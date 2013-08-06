@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label "მთავარი პაროლები">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "სერთიფიკატები">
-<!ENTITY validation.label "შემოწმება">
 <!ENTITY sync.label "სინქრონიზაცია">
 <!ENTITY advance.label "დამტებით">
 <!ENTITY down.label "ჩამოტვირთვა">

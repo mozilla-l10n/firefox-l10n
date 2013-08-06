@@ -104,7 +104,20 @@
 <!ENTITY mediaMute.accesskey          "M">
 <!ENTITY mediaUnmute.label            "ხმის ჩართვა">
 <!ENTITY mediaUnmute.accesskey        "m">
-<!ENTITY mediaShowControls.label      "პულტის ჩვენება">
+<!ENTITY mediaPlaybackRate.label        "დაკრის სიჩქარე">
+<!ENTITY mediaPlaybackRate.accesskey    "b">
+<!ENTITY mediaPlaybackRate050.label     "შენელებული (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate100.label     "ჩვეულებრი">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "დაჩაქარებული (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "H">
+<!ENTITY mediaPlaybackRate200.label     "ორმაგი სიჩქარე">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label      "მედიაპულტის ჩვენება">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "პულტის დამალვა">
 <!ENTITY mediaHideControls.accesskey  "a">

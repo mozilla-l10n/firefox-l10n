@@ -15,3 +15,9 @@
 
 <!ENTITY  pref.certs.title         "სერთიფიკატები">
 <!ENTITY  certs.label              "სერთიფიკატები">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "სერთიფიკატების მიმდინარე ქმდითობის სტატუსის შესამოწმებლად სერთიფიკატის სტატუსის ოქმის (OCSP) გამოყენება">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY validation.requireOCSP.description       "როცა OCSP სერვერთან დაკავშირება ვერ ხერხდება, სერთიფიკატის ჩათვლა უმართებლოდ">
+<!ENTITY validation.requireOCSP.accesskey         "W">

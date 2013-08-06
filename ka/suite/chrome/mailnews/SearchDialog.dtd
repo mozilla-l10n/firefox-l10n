@@ -7,9 +7,11 @@
 <!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchLocalSystem.label     "ძიება ლოკალურ სისტემაში">
-<!ENTITY searchLocalSystem.accesskey "y">
-<!ENTITY resetButton.label           "გაწმენდა">
+<!ENTITY searchOnHeading.label       "ძიების შესრულება:">
+<!ENTITY searchOnHeading.accesskey   "P">
+<!ENTITY searchOnRemote.label        "გარე სერვერზე">
+<!ENTITY searchOnLocal.label         "ლოკალური სიტემაში">
+<!ENTITY resetButton.label           "გასუფთავება">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "გახსნა">
 <!ENTITY openButton.accesskey        "O">
