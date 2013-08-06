@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable                    "ამორთვა">
 <!ENTITY addonAction.uninstall                  "ამოღება">
 <!ENTITY addonAction.undo                       "დაბრუნება">
+<!ENTITY addonAction.setDefault                 "მითითება ნაგულისხმებად">

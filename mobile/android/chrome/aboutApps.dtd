@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (aboutApps.noApps.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (aboutApps.noApps.post): include a starting space as needed -->
 <!ENTITY aboutApps.noApps.pre "პროგრამები არ ჩადგმულა. ზოგის ჩადგმა შეგიძლიათ აქედან ">
-<!ENTITY aboutApps.noApps.middle3 "Firefox მაღაზია">
+<!ENTITY aboutApps.noApps.middle3 "Firefox ბაზრობა">
 <!ENTITY aboutApps.noApps.post ".">
 <!ENTITY aboutApps.uninstall "ამოღება">
 <!ENTITY aboutApps.addToHomescreen "დამატება თავფურცელზე">

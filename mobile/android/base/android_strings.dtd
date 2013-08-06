@@ -3,228 +3,293 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Setting up your &brandShortName;">
-<!ENTITY  splash_bookmarks_history "We are updating your bookmarks and history, which may take a minute or so.">
+<!ENTITY  no_space_to_start_error "ადგილის უკმარისობა &brandShortName; ბრაუზერის გასახსნელად.">
+<!ENTITY  error_loading_file "შეცდომა &brandShortName; ბრაუზერის გასახსნელად აუცილებელი ფაილების ჩატვირთვისას">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  awesomebar_all_pages_title "ტოპ საიტები">
+<!ENTITY  awesomebar_bookmarks_title "სანიშნეები">
+<!ENTITY  awesomebar_history_title "ისტორია">
+<!ENTITY  awesomebar_switch_to_tab "გადასვლა დაფაზე">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
-<!ENTITY  awesomebar_history_title "History">
+<!ENTITY  crash_reporter_title "&brandShortName; პრობლემის პატაკი">
+<!ENTITY  crash_message2 "&brandShortName; მუშაობა შეწყდა. თქვენი დაფები &brandShortName;-ის ხელახლა გახსნისას საწყის გვერდზე უნდა აისახოს.">
+<!ENTITY  crash_send_report_message3 "აცნობეთ &vendorShortName;-ს ამ პრობლემის შესახებ">
+<!ENTITY  crash_include_url2 "თან დაერთოს გვერდის მისამართი, რომელზეც ვიყავი">
+<!ENTITY  crash_sorry "ძალიან ვწუხვართ">
+<!ENTITY  crash_comment "კომენტარის დამატება (ხილულია საზოგადოდ)">
+<!ENTITY  crash_allow_contact2 "ნებართვა &vendorShortName;-ს დამიკავშირდეს ამ პატაკის შესახებ">
+<!ENTITY  crash_email "თქვენი ელფოსტა">
+<!ENTITY  crash_closing_alert "გამოვიდე შეცდომის პატაკის გაგზავნის გარეშე?">
+<!ENTITY  sending_crash_report "შეცდომის პატაკის გაგზავნა\u2026">
+<!ENTITY  crash_close_label "დახურვა">
+<!ENTITY  crash_restart_label "&brandShortName; გადატვირთვა">
+<!ENTITY  exit_label "გამოსვლა">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  exit_label "Exit">
-<!ENTITY  continue_label "Continue">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ვებ-პროგრამები">
+<!ENTITY  launcher_shortcuts_empty "ვებ-პროგრამები ვერ მოიძებნა">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY choose_file "ფაილის შერჩევა">
 
-<!ENTITY choose_file "Choose File">
+<!ENTITY awesomebar_default_text "შეიტანეთ საძიებო ტექსტი ან მისამართი">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY remote_tabs "სინქრონიზებული დაფები">
+<!ENTITY remote_tabs_show_all "ყველა დაფის ჩვენება">
 
-<!ENTITY remote_tabs "Synced Tabs">
-<!ENTITY remote_tabs_show_all "Show all tabs">
+<!ENTITY bookmark "სანიშნე">
+<!ENTITY bookmark_added "სანიშნე დაემატა">
+<!ENTITY bookmark_removed "სანიშნე ამოღებული">
+<!ENTITY bookmark_updated "სანიშნე განახლდა">
+<!ENTITY bookmark_options "პარამეტრები">
 
-<!ENTITY bookmark "Bookmark">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
+<!ENTITY history_today_section "დღეს">
+<!ENTITY history_yesterday_section "გუშინ">
+<!ENTITY history_week_section "7 დღის წინ">
+<!ENTITY history_older_section "7 დღეზე ადრეული">
 
-<!ENTITY history_today_section "Today">
-<!ENTITY history_yesterday_section "Yesterday">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY go "გასწი">
+<!ENTITY search "ძიება">
+<!ENTITY reload "გაახლება">
+<!ENTITY forward "წინ">
+<!ENTITY menu "მენიუ">
+<!ENTITY back "უკან">
+<!ENTITY stop "შეჩერება">
+<!ENTITY site_security "საიტის უსაფრთხოება">
 
-<!ENTITY go "Go">
-<!ENTITY search "Search">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
-<!ENTITY menu "Menu">
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
-
-<!ENTITY close_tab "Close Tab">
-<!ENTITY one_tab "1 tab">
+<!ENTITY close_tab "დაფის დახურვა">
+<!ENTITY one_tab "1 დაფა">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY num_tabs2 "&formatD; დაფა">
+<!ENTITY new_tab_opened "გაიხსნა ახალი დაფა">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacy &amp; Security">
-<!ENTITY pref_category_content "Content">
-<!ENTITY pref_category_importexport "Import &amp; Export">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
-<!ENTITY pref_remember_signons "Remember passwords">
+<!ENTITY settings "პარამეტრები">
+<!ENTITY settings_title "პარამეტრები">
+<!ENTITY pref_category_advanced "დეტალური">
+<!ENTITY pref_category_customize "საკუთარი">
+<!ENTITY pref_category_search2 "ძიების პარამეტრები">
+<!ENTITY pref_category_display "ეკრანი">
+<!ENTITY pref_category_privacy_short "კონფიდენციალობა">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "მონაცემთა არჩევნი">
+<!ENTITY pref_category_installed_search_engines "ჩადგმული საძიებო სისტემები">
+<!ENTITY pref_category_devtools "პროგრამისტის სკივრი">
+<!ENTITY pref_developer_remotedebugging "გარედან გამართვა">
+<!ENTITY pref_developer_remotedebugging_docs "დაწვრილებით">
+<!ENTITY pref_remember_signons "პაროლების შენახვა">
 
-<!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "საკუთარი">
+<!ENTITY pref_header_display "ეკრანი">
+<!ENTITY pref_header_privacy_short "კონფიდენციალობა">
+<!ENTITY pref_header_help "დახმარება">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "პროგრამისტის სკივრი">
 
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data "Clear private data">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_cookies_menu "ნაჭდევები">
+<!ENTITY pref_cookies_accept_all "ჩართულია">
+<!ENTITY pref_cookies_not_accept_foreign "ჩართულია, გარდა  მე-3 მხარისა">
+<!ENTITY pref_cookies_disabled "ამორთულია">
+
+<!ENTITY pref_donottrack_menu "თვალმიდევნება">
+<!ENTITY pref_donottrack_disallow_tracking "საიტებისთვის თხოვნა არ მადევნონ თვალი">
+<!ENTITY pref_donottrack_allow_tracking "საიტებისთვის თვალმოდევნების ნებართვა">
+<!ENTITY pref_donottrack_no_pref "საიტებისთვის თვალმიდევნების შესახებ ჩემი სურვილის დამალვა">
+
+<!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
+<!ENTITY pref_char_encoding_on "მენიუს ჩვენება">
+<!ENTITY pref_char_encoding_off "მენიუს დამალვა">
+<!ENTITY pref_clear_private_data "პირად მონაცემთა გასუფთავება">
+<!ENTITY pref_plugins "პაკეთები">
+<!ENTITY pref_plugins_enabled "ჩართულია">
+<!ENTITY pref_plugins_tap_to_play "დააჭირეთ გასახსნელად">
+<!ENTITY pref_plugins_disabled "ამორთულია">
+<!ENTITY pref_text_size "ტექსტის ზომა">
+<!ENTITY pref_reflow_on_zoom4 "ტექსტის განახლება">
+<!ENTITY pref_restore "დაფები">
+<!ENTITY pref_restore_always "აღდგენა ყოველთვის">
+<!ENTITY pref_restore_crash "აღდგენა შეცდომის შემდეგ">
+<!ENTITY pref_restore_never "აღდგენის გარეშე">
+<!ENTITY pref_font_size_tiny "პაწია">
+<!ENTITY pref_font_size_small "პატარა">
+<!ENTITY pref_font_size_medium "საშუალო">
+<!ENTITY pref_font_size_large "დიდი">
+<!ENTITY pref_font_size_xlarge "ვეება">
+<!ENTITY pref_font_size_set "მითითება">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
-<!ENTITY pref_font_size_adjust_char "A">
+<!ENTITY pref_font_size_adjust_char "ჭ">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "სხარტი ნარინჯისფერი ცეცხლაკუდა ჩვენს ყველაზე გადაჭარბებულ მოლოდინსაც კი ზემოდან გადაევლო მეტი სიჩქარით, მოქნილობითა და უსაფრთხოების შენარჩუნებით. როგორც არაკომერციულ ორგანიზაციას, ჩვენ თავისუფლად ვვითარდები და კომპრომისებზე წასვლა არ გვჭირდება. ა ბ გ დ ე ვ ზ ჱ თ ი კ ლ მ ნ ჲ ო პ ჟ რ ს ტ ჳ უ ფ ქ ღ ყ შ ჩ ც ძ წ ჭ ხ ჴ ჯ ჰ ჵ.">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_show_product_announcements "Show product announcements">
-<!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_import_android "Import from Android">
-<!ENTITY pref_private_data_history "Browsing &amp; download history">
-<!ENTITY pref_private_data_formdata "Form &amp; search history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords "Saved passwords">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings "Site preferences">
+<!ENTITY pref_use_master_password "მთავარი პაროლის გამოყენება">
+<!ENTITY pref_show_product_announcements "პროდუქტის რეკლამის ჩვენება">
+<!ENTITY pref_sync "სინქრონიზაცია">
+<!ENTITY pref_search_suggestions "ძიების შემოთავაზების ჩვენება">
+<!ENTITY pref_import_android "იმპორტი Android-იდან">
+<!ENTITY pref_private_data_history "საიტებისა და ჩამოტვირთვების ისტორია">
+<!ENTITY pref_private_data_formdata "ფორმებისა და ძიების ისტორია">
+<!ENTITY pref_private_data_cookies2 "ნაჭდევები და სეანსები ავტორიზაციით">
+<!ENTITY pref_private_data_passwords "შენახული პაროლები">
+<!ENTITY pref_private_data_cache "ბუფერი">
+<!ENTITY pref_private_data_offlineApps "ავტონომიურად შენახული მონაცემები">
+<!ENTITY pref_private_data_siteSettings2 "საიტის პარამეტრები">
+<!ENTITY pref_private_data_downloadFiles "ჩამოტვირთული ფაილები">
 
-<!ENTITY pref_update_autodownload "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_disabled "Disabled">
-<!ENTITY pref_update_autodownload_enabled "Enabled">
 
-<!ENTITY quit "Quit">
+<!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
+<!ENTITY pref_vendor_faqs "ფ.ა.კ.">
+<!ENTITY pref_vendor_feedback "გამოხმაურება">
 
-<!ENTITY addons "Add-ons">
-<!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
-<!ENTITY char_encoding "Character Encoding">
+<!ENTITY datareporting_notification_title "&brandShortName; სტატისტიკა და მონაცემები">
+<!ENTITY datareporting_notification_action_long "გასაზიარებელი ინფორმაციის შერჩევა">
+<!ENTITY datareporting_notification_action "გასაზიარებელი მონაცემების შერჩევა">
+<!ENTITY datareporting_notification_summary "თქვენი მუშაობის ეფექტიანობის გასაუმჯობესებლად &brandShortName; ავტომატურად გადაუგზავნის გარკვეულ მონაცემებს &vendorShortName;-ს.">
+<!ENTITY datareporting_notification_summary_short "თქვენი მუშაობის ეფექტიანობის გასაუმჯობესებლად &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY tools "Tools">
-<!ENTITY new_tab "New Tab">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY tabs_normal "Tabs">
-<!ENTITY tabs_private "Private">
-<!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wallpaper updated">
-<!ENTITY wallpaper_progress "Setting wallpaper">
-<!ENTITY wallpaper_fail "Unable to set wallpaper">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; დიაგნოსტიკა">
+<!ENTITY datareporting_fhr_summary2 "მონაცემთა გაზიარება &vendorShortName;-სთან თქვენი ბრაუზერის შესახებ მისი წარმადობის გაგებაში დაგეხმარებათ">
+<!ENTITY datareporting_abouthr_title "ჩემი პატაკის ჩვენება">
+<!ENTITY datareporting_telemetry_title "ტელემეტრია">
+<!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობის, და პარამეტრების მონაცემებს &vendorShortName;-ს, რათა &brandShortName; ბრაუზერი კიდევ უფრო დაიხვეწოს">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; შეცდომის პატაკს გაგზავნის, რათა &vendorShortName;-მ იგი კიდევ უფრო სტაბილური და უსაფრთხო გახადოს">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "შეცდომების მოპატაკე">
+<!ENTITY datareporting_wifi_title "&vendorShortName; გეოლოკაციური მომსახურება">
+<!ENTITY datareporting_wifi_summary "დაგვეხმარეთ გეოლოკაციური მომსახურების გაუმჯობესებაში და ნება დართეთ &brandShortName;-ს ანონიმურობის დაცვით შეაგროვოს და გაგზავნოს მობილურის მონაცემები">
+
+<!ENTITY pref_update_autodownload "თვითგანახლებები">
+<!ENTITY pref_update_autodownload_wifi "მხოლოდ Wi-Fi-თ">
+<!ENTITY pref_update_autodownload_disabled "ამორთულია">
+<!ENTITY pref_update_autodownload_enabled "ჩართულია">
+
+<!ENTITY quit "გამოსვლა">
+
+<!ENTITY addons "მოდულები">
+<!ENTITY downloads "ჩამოტვირთვები">
+<!ENTITY apps "პროგრამები">
+<!ENTITY char_encoding "სიმბოლოთა კოდირებ">
+
+<!ENTITY share "გაზიარება">
+<!ENTITY share_title "გაზიარება -">
+<!ENTITY share_image_failed "ამ გამოსახულების გაზიარება ვერ ხერხდება">
+<!ENTITY save_as_pdf "შენახვა PDF ფორმატში">
+<!ENTITY find_in_page "პოვნა გვერდზე">
+<!ENTITY desktop_mode "მოთხოვნა საიტზე">
+<!ENTITY tools "ხელსაწყოები">
+<!ENTITY new_tab "ახალი დაფა">
+<!ENTITY new_private_tab "ახალი პირადი დაფა">
+<!ENTITY close_all_tabs "ყველა დაფის დახურვა">
+<!ENTITY tabs_normal "დაფები">
+<!ENTITY tabs_private "პირადი">
+<!ENTITY tabs_synced "სინქრონიზებული">
+<!ENTITY set_image_fail "ვერ ხერხდება გამოსახულების მითითება">
+<!ENTITY set_image_chooser_title "გამოსახულების მითითება როგორც">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
-<!ENTITY find_close "Close">
+<!ENTITY find_text "პოვნა გვერდზე">
+<!ENTITY find_prev "წინა">
+<!ENTITY find_next "შემდეგი">
+<!ENTITY find_close "დახურვა">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_open_in_reader "Open in Reader">
-<!ENTITY contextmenu_remove_history "Remove">
-<!ENTITY contextmenu_remove_bookmark "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
-<!ENTITY contextmenu_paste "Paste">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
+<!ENTITY contextmenu_open_new_tab "გახსნა ახალ დაფაზე">
+<!ENTITY contextmenu_open_private_tab "გახსნა პირად დაფაზე">
+<!ENTITY contextmenu_open_in_reader "გახსნა წამკითხავში">
+<!ENTITY contextmenu_remove_history "ამოღება">
+<!ENTITY contextmenu_remove_bookmark "ამოღება">
+<!ENTITY contextmenu_add_to_launcher "დამატება თავფურცელზე">
+<!ENTITY contextmenu_share "გაზიარება">
+<!ENTITY contextmenu_pasteandgo "ჩასმა და გადასვლა">
+<!ENTITY contextmenu_paste "ჩასმა">
+<!ENTITY contextmenu_copyurl "მისამართის ასლი">
+<!ENTITY contextmenu_edit_bookmark "რედაქცია">
+<!ENTITY contextmenu_subscribe "გვერდის გამოწერა">
+<!ENTITY contextmenu_site_settings "საიტის პარამეტრების რდაქცია">
 
-<!ENTITY history_removed "Page removed">
+<!ENTITY pref_titlebar_mode "სათაურის ზოლი">
+<!ENTITY pref_titlebar_mode_title "გვერდის სათაურის ჩვენება">
+<!ENTITY pref_titlebar_mode_url "გვერდის მისამართის ჩვენება">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Name">
-<!ENTITY bookmark_edit_location "Location">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY history_removed "გვერდი ამოღებულია">
 
-<!ENTITY site_settings_title2       "Site Settings…">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY bookmark_edit_title "სანიშნის რედაქცია">
+<!ENTITY bookmark_edit_name "სახელი">
+<!ENTITY bookmark_edit_location "მისამართი">
+<!ENTITY bookmark_edit_keyword "საკვანძო სიტყვა">
 
-<!ENTITY reading_list "Reading List">
-<!ENTITY reading_list_added "Page added to your Reading List">
-<!ENTITY reading_list_removed "Page removed from your Reading List">
-<!ENTITY reading_list_failed "Failed to add page to your Reading List">
-<!ENTITY reader "Reader">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "საიტის პარამეტრები">
+<!ENTITY site_settings_cancel       "გაუქმება">
+<!ENTITY site_settings_clear        "გასუფთავება">
+<!ENTITY site_settings_no_settings  "გასაუფთავებელი პარამეტრები ვერ მოიძებნა.">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Remove Master Password">
-<!ENTITY masterpassword_password "Password">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY reading_list "წასაკითხთა სია">
+<!ENTITY reading_list_added "წასაკითხთა სიას გვერდი დაემატა">
+<!ENTITY reading_list_removed "წასაკითხთა სიიდან გვერდი ამოიშალა">
+<!ENTITY reading_list_failed "ვერ ხერხდება გვერდის დამატება წასაკითხთა სიაში">
+<!ENTITY reading_list_duplicate "გვერდი უკვე წასაკითხთა სიაშია">
 
-<!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
-<!ENTITY button_yes "Yes">
-<!ENTITY button_no "No">
-<!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "დამატებითი ქმედებები">
 
-<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
-<!ENTITY abouthome_last_tabs_title "Your tabs from last time">
-<!ENTITY abouthome_last_tabs_open "Open all tabs from last time">
-<!ENTITY abouthome_top_sites_title "Top sites">
-<!ENTITY abouthome_topsites_edit "Edit">
-<!ENTITY abouthome_topsites_pin "Pin Site">
-<!ENTITY abouthome_topsites_unpin "Unpin Site">
-<!ENTITY abouthome_topsites_unpinall "Unpin All">
+<!ENTITY masterpassword_create_title "მთავარი პაროლის შექმნა">
+<!ENTITY masterpassword_remove_title "მთავარი პაროლის ამოღება">
+<!ENTITY masterpassword_password "პაროლი">
+<!ENTITY masterpassword_confirm "პაროლი ხელახლა">
+
+<!ENTITY button_ok "კეთილი">
+<!ENTITY button_cancel "გაუქმება">
+<!ENTITY button_yes "დიახ">
+<!ENTITY button_no "არა">
+<!ENTITY button_clear_data "მონაცემთა გასუფთავება">
+<!ENTITY button_set "მითითება">
+<!ENTITY button_clear "გასუფთავება">
+
+<!ENTITY abouthome_addons_title "თქვენი &brandShortName; მოდულები">
+<!ENTITY abouthome_addons_browse "ყველა &brandShortName; მოდულის ნუსხა">
+<!ENTITY abouthome_last_tabs_title "თქვენი ბოლოს გახსნილი დაფები">
+<!ENTITY abouthome_last_tabs_open "ყველა ბოლო დაფის გახსნა">
+<!ENTITY abouthome_top_sites_title "ტოპ საიტები">
+<!ENTITY abouthome_topsites_edit "რედაქცია">
+<!ENTITY abouthome_topsites_pin "საიტის მიმაგრება">
+<!ENTITY abouthome_topsites_unpin "საიტის ჩამოხსნა">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
      that a non-breaking space (unicode= U+00A0) should be used between this
      character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Set up Firefox Sync to access bookmarks, history and tabs from your other devices&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Get apps from the Firefox Marketplace and discover the best the Web has to offer&#x00A0;»">
+<!ENTITY abouthome_about_sync3 "Firefox სინქრონიზაცია სანიშნეების, ისტორიის და დაფების სხვა მოწყობილობებიდან წვდომისთვის&#x00A0;»">
+<!ENTITY abouthome_about_apps3 "გადმოწერეთ პროგრამები Firefox ბაზრობიდან ისარგებლეთ ყველაფერი საუკეთესოთი, რასაც ინტერნეტი გთავაზობთ&#x00A0;»">
 <!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
      These strings are accentuated as bold text in the "abouthome_about_..."
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY abouthome_sync_bold_name "Firefox სინქრონიზაცია">
+<!ENTITY abouthome_apps_bold_name2 "Firefox ბაზრობა">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_title "ფაილის შერჩევა">
+<!ENTITY filepicker_audio_title "ხმოვანი სიგნალის შერჩევა ან ჩაწერა">
+<!ENTITY filepicker_image_title "ფოტოს შერჩევა ან გადაღება">
+<!ENTITY filepicker_video_title "ვიდეოს შერჩევა ან ჩაწერა">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "You are connected to">
+<!ENTITY identity_connected_to "თქვენ კავშირზე ხართ დომენთან">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -236,36 +301,58 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "which is run by">
+<!ENTITY identity_run_by "რომელსაც მართავს">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "ამ გვერდზე ასახული მასალა უსაფრთხო არაა.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; ბრაუზერმა დაბლოკა მასალა, რომელიც უსააფრთხო არაა.">
+<!ENTITY blocked_mixed_content_message_bottom "ვებსაიტების უმეტესობა გამართულად იმუშავებს მაშინაც, როცა ამგვარი მასალის ჩვენება დაბლოკილია.">
+<!ENTITY learn_more "დაწვრილებით">
+<!ENTITY enable_protection "დაცვის ჩართვა">
+<!ENTITY disable_protection "დაცვის ამორთვა">
+<!ENTITY keep_blocking "დაბლოკვის შენარჩუნება">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY private_data_success "პირადი მონაცემები გასუფთავდა">
+<!ENTITY private_data_fail "ზოგი პირადი მონაცემების გასუფთავება ვერ ხერხდება">
+
+<!ENTITY bookmarkhistory_button_import "იმპორტი">
+<!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის იმპორტი
+                                      Android-იდან">
+<!ENTITY bookmarkhistory_import_bookmarks "სანიშნეების იმპორტი
+                                           Android-იდან">>
+<!ENTITY bookmarkhistory_import_history "ისტორიის იმპორტი
+                                         Android-იდან">
+<!ENTITY bookmarkhistory_import_wait "გთხოვთ დაიცადოთ...">
 
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
-<!ENTITY suggestions_prompt2 "Would you like to turn on &formatS; search suggestions?">
+<!ENTITY suggestions_prompt2 "გნებავთ ჩართოთ ძიების შემოთავაზება &formatS;?">
 
-<!ENTITY webapp_generic_name "App">
+<!ENTITY webapp_generic_name "პროგრამა">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY searchable_description "სანიშნეები და ისტორია">
+
+<!ENTITY devtools_remote_debugging_forward "არ დაგავიწყდეთ პროტის გადამისამართების გამართვა!">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY updater_start_title2 "&brandShortName; განახლება გამოსულია">
+<!ENTITY updater_start_select2 "შეეხეთ ჩამოსატვირთად">
 
-<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_downloading_title2 "&brandShortName; ჩამოტვირთვა">
+<!ENTITY updater_downloading_title_failed2 "ჩამოტვირთვა ვერ მოხერხდა">
+<!ENTITY updater_downloading_select2 "შეეხეთ ჩამოტვითვისთანავე გასაახლებლად">
+<!ENTITY updater_downloading_retry2 "შეეხეთ ხელახლა მცდელობისთვის">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_apply_title2 "&brandShortName; განახლება გამოსულია">
+<!ENTITY updater_apply_select2 "შეეხეთ გასაახლებლად">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "სტუმრის ახალი სეანსი">
+<!ENTITY exit_guest_session "გამოსვლა სტუმრის სეანსიდან">
+<!ENTITY guest_session_dialog_continue "გაგრძელება">
+<!ENTITY guest_session_dialog_cancel "გაუქმება">
+<!ENTITY new_guest_session_title "&brandShortName; ხელახლა ჩაიტვირთება">
+<!ENTITY new_guest_session_text "პირი, რომელიც მას იყენებს, თქვენს რაიმე პირადი მონაცემს (შენახული პაროლები, ისტორია ან სხვა სანიშნეები) ვერ დაინახავს.\n\nსტუმრის სეანსის დასრულების შემდეგ, გახსნილი გვერდების მონაცემები წაიშლება და თქვენი სეანსი აღდგება.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; ხელახლა ჩაიტვირთება">
+<!ENTITY exit_guest_session_text "ამ სეანსისზე გახსნილი საიტების მონაცემები წაიშლება.">
