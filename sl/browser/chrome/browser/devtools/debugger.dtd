@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI. -->
-<!ENTITY chromeDebuggerMenu.label    "Brskalni razhroščevalnik">
+<!ENTITY chromeDebuggerMenu.label    "Razhroščevalnik brskalnika">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
