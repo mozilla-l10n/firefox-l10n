@@ -7,20 +7,21 @@
 <!ENTITY langtitle.label "Языки для веб-страниц">
 <!ENTITY languages.customize.prefAddLangDescript "Выберите язык(и), которые хотели бы добавить.">
 <!ENTITY languages.customize.addButton.label "Добавить…">
-<!ENTITY languages.customize.addButton.accesskey "Д">
+<!ENTITY languages.customize.addButton.accesskey "о">
 <!ENTITY languages.customize.deleteButton.label "Удалить">
-<!ENTITY languages.customize.deleteButton.accesskey "У">
+<!ENTITY languages.customize.deleteButton.accesskey "а">
 <!ENTITY languages.customize.add.title.label "Добавление языков">
 <!ENTITY languages.customize.available.label "Языки:">
 <!ENTITY languages.customize.active.label "Языки в порядке предпочтения:">
 <!ENTITY languages.customize.active.accesskey "з">
 <!ENTITY languages.customize.others.label "Другие:">
-<!ENTITY languages.customize.others.accesskey "р">
-<!ENTITY languages.customize.Charset.grouplabel "Кодировка по умолчанию">
-<!ENTITY languages.customize.DefaultCharset.label "Кодировка:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "К">
+<!ENTITY languages.customize.others.accesskey "и">
+<!ENTITY languages.customize.Fallback.grouplabel "Кодировка для старых веб-страниц">
+<!ENTITY languages.customize.Fallback.label "Резервная кодировка:">
+<!ENTITY languages.customize.Fallback.accesskey "е">
+<!ENTITY languages.customize.Fallback.desc "Используется для старых веб-страниц, которые не указали свою кодировку.">
 <!ENTITY languages.customize.others.examples "например: en-bz, ru-ru">
 <!ENTITY languages.customize.moveUp.label "Вверх">
-<!ENTITY languages.customize.moveUp.accesskey "в">
+<!ENTITY languages.customize.moveUp.accesskey "х">
 <!ENTITY languages.customize.moveDown.label "Вниз">
 <!ENTITY languages.customize.moveDown.accesskey "н">
