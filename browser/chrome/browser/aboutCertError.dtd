@@ -17,3 +17,4 @@
 <!ENTITY certerror.expert.contentPara2 "Aggiungere un'eccezione solo nel caso in cui si conosca un motivo valido per cui questo sito non sta utilizzando una modalità di identificazione affidabile.">
 <!ENTITY certerror.addException.label "Aggiungi eccezione…">
 <!ENTITY certerror.technical.heading "Dettagli tecnici">
+
