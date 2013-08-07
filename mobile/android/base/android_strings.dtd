@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dataalternativ">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
+<!ENTITY pref_category_add_search_providers "Lägg till fler söktjänster">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält.">
 <!ENTITY pref_category_devtools "Utvecklarverktyg">
 <!ENTITY pref_developer_remotedebugging "Fjärravlusning">
 <!ENTITY pref_developer_remotedebugging_docs "Läs mer">
