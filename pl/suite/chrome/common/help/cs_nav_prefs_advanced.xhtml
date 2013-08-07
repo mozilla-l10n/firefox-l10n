@@ -27,7 +27,9 @@
     <li><a href="#advanced">Zaawansowane</a></li>
     <li><a href="#scripts_and_plugins">Skrypty i&nbsp;wtyczki</a></li>
     <li><a href="#keyboard_navigation">Nawigacja</a></li>
+    <!-- TODO: start localizing --><li><a href="#fayt">Find As You Type</a></li><!-- TODO: stop localizing -->
     <li><a href="#cache">Pamięć podręczna</a></li>
+    <!-- TODO: start localizing --><li><a href="#offline_apps">Offline Apps</a></li><!-- TODO: stop localizing -->
     <li><a href="#proxies">Serwery proxy</a></li>
     <li><a href="#http_networking">Protokół HTTP</a></li>
     <li><a href="#software_installation">Instalacja</a></li>
@@ -45,10 +47,11 @@
   <li>Kliknąć na kategorii Zaawansowane.</li>
 </ol>
 
-<p>Główny panel zaawansowanych preferencji umożliwia dopasowanie obsługi języka Java:</p>
+<p>Główny panel zaawansowanych preferencji umożliwia:</p>
 <ul>
-  <li><strong>Włącz obsługę języka Java</strong>: Zaznaczenie opcji umożliwia &brandShortName; interpretację stron WWW&nbsp;zawierających kod języka Java. Java jest używana na niektórych stronach WWW&nbsp;w&nbsp;celu rozszerzenia ich zawartości.</li>
   <li class="unix"><strong>Pobierz ustawienia z&nbsp;systemu</strong>: Zaznacz aby ustawienia &brandShortName;&apos; były nadpisywane przez ustawienia systemowe.</li>
+  <!-- TODO: start localizing --><li class="win"><strong>Check default application settings on startup</strong>: Select this to have &brandShortName; check whether it is the default application for tasks like browsing and mail. If &brandShortName; detects on startup that it is not the default application for any of these tasks, a dialog will appear that allows you to choose which tasks &brandShortName; should handle by default.</li>
+  <li><strong>Submit crash reports</strong>: Select this to enable the Mozilla Crash Reporter. If &brandShortName; crashes, you will be asked in each case whether to report the issue.</li><!-- TODO: stop localizing -->
 </ul>
 
 <p>[<a href="#advanced_preferences">Na początek rozdziału</a>]</p>
@@ -80,14 +83,26 @@
       <li><strong>Wyłączać lub zmieniać menu kontekstowe</strong>: Umożliwienie wprowadzania zmian w&nbsp;menu dostępnym po przyciśnięciu prawego klawisza myszy<span class="mac"> lub przycisku myszy i&nbsp;<kbd>Ctrl</kbd> dla myszy o&nbsp;jednym przycisku,</span> przez strony WWW.</li>
     </ul>
   </li>
-  <li><strong>Włącz obsługę wtyczek w&nbsp;komponencie</strong>: Zaznaczenie tego pola wyboru pozwala na kontrolę używania wtyczek w&nbsp;komponentach:
+  <li><strong>Aktywuj wtyczki dla</strong>: Te pola wyboru pozwalają na kontrolę używania wtyczek w&nbsp;komponentach:
     <ul>
+      <li><strong>Pakiet SeaMonkey</strong>: Włącza bądź wyłącza wtyczki dla wszystkich kompnentów.</li>
       <li><strong>Kurier poczty</strong>: Umożliwia używanie wtyczek w&nbsp;poczcie elektronicznej i&nbsp;grupach dyskusyjnych.</li>
     </ul>
   </li>
-  <li><strong>Jeżeli dodatkowe wtyczki są wymagane</strong>: Zaznaczenie tej opcji powoduje powiadamianie użytkownika o tym, że strona wymaga dodatkowych wtyczek:
+  <li><strong>Gdy strona wymaga dodatkowych wtyczek</strong>: Te pola wyboru umożliwiają dospasowanie zachowania programu &brandShortName; w wypadku, gdy strona wymaga wtyczek:
     <ul>
-      <li><strong>Wyświetlaj pasek powiadomień powyżej wyświetanej strony</strong>: Jeżeli strona wymaga do wyświetlenia pełnej treści wtyczki, która nie jest zainstalowana, to powyżej treści strony wyświetlony zostanie pasek powiadomień. Za jego pomocą użytkownik będzie mógł pobrać z internetu i zainstalować brakującą wtyczkę.</li>
+      <li><strong>Domyślnie aktywuj wszystkie wtyczki</strong>: <!-- TODO: start localizing -->If you select this,
+        &brandShortName; will load and run all plugins found on the web page.
+        Otherwise, if the page requires plugins, &brandShortName; will show a
+        notification (plugin icon in the location bar or notification bar), plus
+        a placeholder for every plugin instance found on the page (unless the
+        website is whitelisted, see below).
+        You can activate individual visible plugin instances with a left mouse
+        click or use the notification to activate all the plugins on the page.
+        From the notification you have the option to either temporarily activate
+        the plugins or remember the choice for the current website. Remembered
+        choices can be edited using the Data Manager (Permissions tab).<!-- TODO: stop localizing --></li>
+      <li><strong>Ostrzegaj, gdy dodatkowe wtyczki muszą zostać zainstalowane</strong>: Jeżeli strona wymaga do wyświetlenia pełnej treści wtyczki, która nie jest zainstalowana, to powyżej treści strony wyświetlony zostanie pasek powiadomień. Za jego pomocą użytkownik będzie mógł pobrać z internetu i zainstalować brakującą wtyczkę.</li>
     </ul>
   </li>
 </ul>
@@ -105,14 +120,66 @@
   <li>W&nbsp;kategorii Zaawansowane wybrać Nawigacja. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Zaawansowane.)</li>
 </ol>
 
-<p>Panel preferencji nawigacji umożliwia kontrolę ustawień dotyczących używania klawiatury do nawigacji i&nbsp;szukania tekstu na stronach WWW:</p>
-
+<p>Panel preferencji nawigacji umożliwia kontrolę ustawień dotyczących używania klawiatury do nawigacji na witrynach:</p>
+<!-- TODO: start localizing -->
 <ul>
-  <li><strong>Odnośniki</strong>: Zaznaczenie tej opcji pozwoli na przemieszczanie się pomiędzy odnośnikami przy użyciu klawiszy <kbd>Tab</kbd> lub <kbd>Shift</kbd>+<kbd>Tab</kbd>.</li>
-  <li><strong>Przyciski, pola edycji, pola wyboru oraz rozwijane listy</strong>: Zaznaczenie tej opcji pozwoli na przemieszczanie się pomiędzy elementami w&nbsp;obrębie grup przycisków, pól edycji, pól wyboru oraz rozwijanych list przy użyciu klawiszy <kbd>Tab</kbd> lub <kbd>Shift</kbd>+<kbd>Tab</kbd>.</li>
+  <li class="noMac"><strong>Tab Key Navigation</strong>: Select which elements
+    should be taken into account when using the Tab key on a page:
+    <ul>
+      <li><strong>Links</strong>: If checked, pressing <kbd>Tab</kbd> or
+        <kbd>Shift</kbd>+<kbd>Tab</kbd> moves between links.</li>
+      <li><strong>Buttons, radio buttons, checkboxes, and selection
+        lists</strong>: If checked, pressing <kbd>Tab</kbd> or
+        <kbd>Shift</kbd>+<kbd>Tab</kbd> moves between buttons, radio buttons,
+        check boxes, and selection lists.</li>
+    </ul>
+  </li>
+  <li><strong>Browse With Caret</strong>: Select if and how <a
+    href="glossary.xhtml#caret_browsing">caret browsing</a> should be used:
+    <ul>
+      <li><strong>Use caret browsing</strong>: If checked, caret browsing will
+        be enabled by default when you load a web page.</li>
+      <li><strong>Use the F7 shortcut to toggle caret browsing</strong>: If
+        checked, the F7 shortcut will toggle caret browsing on or off. Otherwise
+        &brandShortName; will not use the shortcut and the below option will
+        have no effect.</li>
+      <li><strong>Warn me before turning on caret browsing</strong>: If checked,
+        &brandShortName; will issue a warning dialog if the caret browsing mode
+        is about to be entered, allowing you to choose whether to proceed or
+        not. (There is no warning when leaving caret browsing mode.)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>[<a href="#advanced_preferences">Return to beginning of section</a>]</p>
+
+<h2 id="fayt">Advanced Preferences - Find As You Type</h2>
+
+<p>This section describes how to use the Find As You Type references
+  panel. If you&apos;re not already viewing it, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Advanced category, click Find As You Type. (If no
+    subcategories are visible, double-click Advanced to expand the list.)</li>
+</ol>
+
+<p>The Find As You Type preferences panel allows you to control how you use
+  the keyboard to search for text in web pages:</p>
+<!-- TODO: stop localizing -->
+<ul>
   <li><strong>Automatycznie rozpocznij wyszukiwanie tekstu wprowadzanego podczas przeglądania strony</strong>: Zaznaczenie tej opcji uaktywnia funkcję Znajdź wprowadzając, która pozwala na wyszukiwanie wprowadzonego z&nbsp;klawiatury łańcucha znaków. Istnieje możliwość wyboru, czy szukany łańcuch ma znajdować się w&nbsp;dowolnym tekście na stronie, czy wyłącznie w&nbsp;odnośnikach. Jeżeli opcja ta jest wyłączona można ręcznie uruchomić wyszukiwanie Znajdź wprowadzając poprzez wybranie z&nbsp;menu Edycja poleceń Znajdź Wprowadzając &mdash; Odnośniki lub Znajdź Wprowadzając &mdash; Tekst.</li>
   <li><strong>Odtwórz dźwięk, gdy wprowadzany tekst nie zostanie znaleziony</strong>: Zaznaczenie tej opcji powoduje odegranie dźwięku w&nbsp;przypadku nieznalezienia szukanego łańcucha znaków.</li>
   <li><strong>Zakończ bieżące wyszukiwanie po kilku sekundach braku aktywności</strong>: Zaznaczenie tej opcji powoduje anulowanie szukania łańcucha znaków po kilku sekundach od momentu zakończenia wprowadzania znaków z&nbsp;klawiatury.</li>
+<!-- TODO: start localizing -->
+  <li><strong>Show the find toolbar during find as you type</strong>: If
+    checked, the find toolbar will open when Find As You Type is activated and
+    what you type will be entered into the toolbar search field. If unchecked,
+    the find toolbar will not be opened and the search string will be displayed
+    in the status bar. Note that international text entry will not work in this
+    mode.</li>
+<!-- TODO: stop localizing -->
 </ul>
 
 <p>[<a href="#advanced_preferences">Na początek rozdziału</a>]</p>
@@ -129,9 +196,12 @@
 <p>Panel preferencji pamięci podręcznej umożliwia ustawianie parametrów wielkości podręcznej pamięci dyskowej &brandShortName;:</p>
 
 <ul>
-  <li><strong>Rozmiar</strong>: Pole do wprowadzenia ilości miejsca na dysku twardym, które będzie przeznaczone na pamięć podręczną dla &brandShortName;. Zawartość Pamięci podręcznej jest zapisywana na dysku twardym komputera użytkownika i&nbsp;może być ponownie wielokrotnie używana, nawet po wyłączeniu komputera.</li>
+<!-- TODO: start localizing -->
+  <li><strong>Let &brandShortName; manage the size of my cache</strong>: Select this to let &brandShortName; apply a heuristic based on the space available on your hard disk in order to determine your cache size. (This is the default.)</li>
+<!-- TODO: stop localizing -->
+  <li><strong>Używaj do [__] MB miejsca na dysku dla pamięci podręcznej</strong>: Pole do wprowadzenia ilości miejsca na dysku twardym, które będzie przeznaczone na pamięć podręczną dla &brandShortName;. Zawartość Pamięci podręcznej jest zapisywana na dysku twardym komputera użytkownika i&nbsp;może być ponownie wielokrotnie używana, nawet po ponownym uruchomieniu komputera. <!-- TODO: start localizing -->(The default is 1024 MB. This preference is ignored if the above checkbox is selected.)<!-- TODO: stop localizing --></li>
   <li><strong>Wyczyść pamięć podręczną</strong>: Kliknięcie na tym przycisku powoduje usunięcie plików będących w&nbsp;katalogu pamięci podręcznej.</li>
-  <li><strong>Katalog pamięci podręcznej</strong>: Pokazuje bieżącą lokalizację katalogu pamięci podręcznej. 
+  <li><strong>Adres katalogu pamięci podręcznej</strong>: Pokazuje bieżącą lokalizację katalogu pamięci podręcznej. 
     <ul>
       <li><strong>Wybierz katalog</strong>: Ten przycisk pozwala na wybranie lokalizacji katalogu, w&nbsp;którym będzie przechowywana zawartość pamięci podręcznej.</li>
     </ul>
@@ -148,6 +218,81 @@
 </ul>
 
 <p>[<a href="#advanced_preferences">Na początek rozdziału</a>]</p>
+
+<!-- TODO: start localizing -->
+<h2 id="offline_apps">Advanced Preferences - Offline Apps</h2>
+
+<p>This section describes how to use the Offline Web Applications preferences
+  panel. If you&apos;re not already viewing it, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Advanced category, click Offline Apps. (If no subcategories are
+    visible, double-click Advanced to expand the list.)</li>
+</ol>
+
+<p>The Offline Web Applications panel allows you to control and monitor how
+  websites use &brandShortName;&apos;s offline storage. Websites can provide
+  complex functionality beyond just the presentation of content, implementing
+  <a href="glossary.xhtml#web_application">web applications</a>. In general,
+  such web applications require you to stay online in order to use them, thus
+  won&apos;t function when you are disconnected from the network (offline).
+  If permitted, websites can store their content and any data you entered
+  locally in &brandShortName;. In this way, web applications can be used even
+  without a network connection.</p>
+
+<p>The <strong>Offline Web Content and User Data</strong> section provides the
+  following functions:</p>
+
+<ul>
+  <li><strong>Your application cache is currently using [__] of disk
+    space</strong>: This entry is informational and provides you with an
+    estimate of the offline data currently used by all web applications
+    combined.</li>
+  <li><strong>Clear</strong>: Immediately clears data that has been saved
+    by all websites for use when you are offline.</li>
+  <li><strong>Notify me when a website wants to store data for offline
+    use</strong>: Check this box if you want to be notified when a website
+    wants to utilize the offline feature but does not currently have the
+    permissions to do so. An information bar will appear for this site with
+    the following options:
+    <ul>
+      <li><strong>Allow</strong>: Permanently allow this site the use of the
+        offline storage for this and future accesses.</li>
+      <li><strong>Never for This Site</strong>: Permanently deny this site
+        the use of the offline storage for this and future accesses.</li>
+      <li><strong>Not Now</strong>: Deny this site the use of the offline
+        storage for this request but ask again for future accesses.</li>
+    </ul>
+    <p><strong>Note</strong>: If the notification box is <em>not</em> checked,
+      &brandShortName; will proceed as if <q>Not Now</q> was selected.</p>
+  </li>
+  <!-- NOTE: link "Data Manager" below once bug 599097 has been fixed -->
+  <li><strong>Manage Permissions</strong>: Opens the Data Manager in a new
+    tab or window where you can modify the Offline Web Applications permissions
+    for each domain:
+    <ul>
+      <li><strong>Use Default</strong>: Check this box to return to the default
+        behavior, thus presenting the information bar with the next request
+        from a site within each domain if the notification option is chosen
+        (effectively removes the entry from this listing).</li>
+      <li><strong>Allow</strong>: Select this option to allow this site
+        the use of the offline storage for all accesses.</li>
+      <li><strong>Block</strong>: Select this option to deny this site
+        the use of the offline storage for all accesses.</li>
+    </ul>
+  </li>
+  <li><strong>The following websites are allowed to store data for offline
+    use</strong>: Lists the domains of all websites which have stored offline
+    data, along with the amount of data currently used by this domain.</li>
+  <li><strong>Clear data</strong>: Select a website domain and click this
+    button to delete all offline data for the specified domain. Click <q>Remove
+    offline data</q> after being prompted for confirmation to do so.</li>
+</ul>
+       
+<p>[<a href="#advanced_preferences">Return to beginning of section</a>]</p>
+<!-- TODO: stop localizing -->
 
 <h2 id="proxies">Zaawansowane preferencje &mdash; Serwery proxy</h2>
 
@@ -224,7 +369,6 @@
     <ul>
       <li><strong>Użyj protokołu HTTP 1.0</strong>: Powoduje używanie oryginalnej wersji tego protokołu, ustandaryzowanej w&nbsp;roku 1996.</li>
       <li><strong>Użyj protokołu HTTP 1.1</strong>: Powoduje używanie nowej wersji protokołu HTTP, która zapewnia zwiększenie wydajności, włączając bardziej efektywne używanie połączeń HTTP, lepsze wsparcie dla korzystania z&nbsp;pamięci podręcznej klienta, zwielokrotnione żądania HTTP (przetwarzanie potokowe) oraz lepszą kontrolę nad wygasaniem aktualności zawartości pamięci podręcznej i&nbsp;polityką zastępowania jej zawartości.</li>
-      <li><strong>Włącz aktywne połączenia</strong>: Zaznaczenie tej opcji powoduje podtrzymywanie otwartego połączenia w&nbsp;celu wykonywania dodatkowych żądań obsługi HTTP, lub zwiększenia prędkości wczytywania stron.</li>
       <li><strong>Użyj przetwarzania potokowego</strong>: Zaznaczenie tej opcji spowoduje włączenie przetwarzania potokowego (ang. pipelining), które umożliwia wysyłanie naraz do serwera więcej niż jednego żądania HTTP i&nbsp;zmniejsza czas oczekiwania na wczytanie się stron.
 
         <p><strong>Uwaga</strong>: Przetwarzanie potokowe jest dostępne tylko dla protokołu HTTP 1.1, a&nbsp;jego stosowanie największe korzyści przynosi na łączach szerokopasmowych.</p></li>
@@ -256,35 +400,46 @@
   <li>W&nbsp;kategorii Zaawansowane wybrać Instalacja. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Zaawansowane.)</li>
 </ol>
 
-<p>Panel preferencji instalacji jest używany do uaktywnienia możliwości instalacji dodatkowego oprogramowania i&nbsp;automatycznej aktualizacji:</p>
+<p>Panel preferencji instalacji jest używany do uaktywnienia możliwości instalacji dodatków jak i&nbsp;automatycznej aktualizacji. Menedżer dodatków umożliwia przeglądanie i zarządzanie zainstalowanymi rozszerzeniami i motywami.</p>
 
 <ul>
-  <li><strong>Instalacja wtyczek i&nbsp;dodatkowego oprogramowania</strong>: Zaznaczenie tej opcji pozwoli na instalację dodatkowego oprogramowania (wtyczki, dodatki). Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację dodatkowego oprogramowania.</li>
-  <li><strong>Zezwalaj witrynom na instalowanie rozszerzeń i aktualizacji</strong>: Zaznaczenie tej opcji umożliwia witrynom instalację dodatkowego oprogramowania (dodatki, wtyczki, rozszerzenia). Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację dodatkowego oprogramowania.</li>
-  <li><strong>Uprawnione witryny</strong>: Naciśnięcie tego przycisku wyświetla okno dialogowe Uprawnione witryny - Instalacja oprogramowania, w którym użytkownik może przeglądać i modyfikować listę witryn mogących instalować oprogramowanie:
+  <li><strong>Dodatki</strong>:
     <ul>
-      <li><strong>Zezwalaj</strong>: Naciśnięcie tego przycisku powoduje dodanie wprowadzonego adresu witryny do listy uprawnionych witryn.</li>
-      <li><strong>Usuń witrynę</strong>: Naciśnięcie tego przycisku powoduje usunięcie wybranej witryny z listy.</li>
-      <li><strong>Usuń wszystkie witryny</strong>: Naciśnięcie tego przycisku powoduje usunięcie wszystkich witryn z listy.</li>
+      <li><strong>Zezwalaj witrynom na instalowanie dodatków i aktualizacji</strong>: Zaznaczenie tej opcji pozwoli na instalację dodatków i aktualizacji dla &brandShortName;. Przy każdej próbie instalacji wyświetlone zostanie zapytanie o&nbsp;pozwolenie na instalację.
+        <ul>
+          <li><strong>Uprawnione witryny</strong>: Naciśnięcie tego odnośnika wyświetla kartę Menedżera danych, w którym użytkownik może przeglądać i modyfikować listę witryn mogących instalować oprogramowanie:
+          <li><strong>Automatycznie sprawdzaj, czy dostępne są aktualizacje</strong>: Zaznaczenie tej opcji powoduje powiadamianie użytkownika o dostępności nowej wersji zainstalowanego dodatku. Należy wybrać, czy sprawdzanie ma być dokonywane <strong>codziennie</strong>, czy <strong>co tydzień</strong>.</li>
+          <li><strong>Automatycznie pobierz i zainstaluj aktualizacje</strong>: Wybranie tej opcji zaskutkuje automatycznym pobieraniem i instalowaniem dostępnych aktualizacji przez program &brandShortName;. Pobieranie będzie odbywało się w tle z niskim priorytetem. Po zakończeniu pobierania, aktualizacje zostaną zainstalowane automatycznie podczas następnego uruchomienia programu &brandShortName;.</li>
+        </ul>
+      </li>
+<!-- TODO: start localizing -->
+      <li><strong>Personalize Add-on recommendations</strong>: Select this to
+        be offered suggestions for add-ons in the &quot;Get Add-ons&quot; tab
+        of the manager:
+        <ul>
+          <li>Note that this function involves sending a list of your
+            currently installed add-ons to the add-on website.</li>
+          <li>Disabling this option will also suppress contacting the add-on
+            site periodically for any new information about installed add-ons,
+            but won't affect automated updates.</li>
+        </ul>
+      </li>
+<!-- TODO: stop localizing -->
+      <li><strong>Zarządzaj dodatkami</strong>: Naciśnięcie tego odnośnika spowoduje otwarcie Menedżera dodatków w nowej karcie.</li>
     </ul>
   </li>
-  <li><strong>Automatycznie sprawdzaj, czy dostępne są aktualizacje dla</strong>: 
+  <li><strong>&brandShortName;</strong>:
     <ul>
-      <li><strong>programu &brandShortName;</strong>: Zaznaczenie tej opcji powoduje powiadamianie użytkownika o dostępności nowej wersji &brandShortName;. Przy sprawdzaniu dostępności nowej wersji nie są przekazywane żadne dane osobiste użytkownika. Należy wybrać, czy sprawdzanie ma być dokonywane <strong>codziennie</strong>, czy <strong>co tydzień</strong>.</li>
-      <li><strong>zainstalowanych dodatków</strong>: Zaznaczenie tej opcji powoduje powiadamianie użytkownika o dostępności nowej wersji zainstalowanego dodatku. Należy wybrać, czy sprawdzanie ma być dokonywane <strong>codziennie</strong>, czy <strong>co tydzień</strong>.</li>
+      <li><strong>Automatycznie sprawdzaj, czy dostępne są aktualizacje</strong>: Zaznaczenie tej opcji powoduje powiadamianie użytkownika o dostępności nowej wersji &brandShortName;. Należy wybrać, czy sprawdzanie ma być dokonywane <strong>codziennie</strong>, czy <strong>co tydzień</strong>.
+        <ul>
+          <li><strong>Automatycznie pobierz i zainstaluj aktualizację</strong>: Wybranie tej opcji zaskutkuje automatycznym pobieraniem i instalowaniem dostępnych aktualizacji dla programu &brandShortName;. Pobieranie będzie odbywało się w tle z niskim priorytetem. Po zakończeniu pobierania, aktualizacja zostanie zainstalowana automatycznie podczas następnego uruchomienia programu &brandShortName;.</li>
+          <li><strong>Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków</strong>: Wybranie tej opcji spowoduje wyświetlenie ostrzeżenia, jeżeli automatyczna aktualizacja zaskutkuje wyłączeniem dodatków. W tym wypadku zostanie pokazana lista niekompatybilnych dodatków i będzie można zdecydować, czy dokonać aktualizacji, czy nie.</li>
+        </ul>
+        <p><strong>Uwaga</strong>: Można używać funkcji Sprawdź dostępność aktualizacji z menu <span class="mac">&brandShortName;</span><span class="noMac">Pomoc</span> w celu ręcznego wymuszenia sprawdzenia dostępności aktulizacji dla programu &brandShortName;. <span class="noMac">Tekst tej pozycji w menu zmieni się w czasie pobierania aktualizacji bądź gotowości do instalacji.</span></p>
+      </li>
+      <li><strong>Pokaż historię aktualizacji</strong>: Naciśnięcie tego przycisku zaskutkuje otworzeniem okna Historia aktualizacji wyświetlającym listę zainstalowanych aktualizacji dla programu &brandShortName;, włączając w to typ aktualizacji (np. Aktualizacja bezpieczeństwa), datę instalacji jak i status instalacji. Odnośnik Szczegóły obok każdej pozycji w liście aktualizacji prowadzi do witryn zawierających dalsze informacje o każdej aktualizacji.</li>
     </ul>
   </li>
-  <li><strong>Menedżer dodatków</strong>: Naciśnięcie tego przycisku spowoduje otwarcie okna Menedżera dodatków, w którym można przejrzeć wszystkie zainstalowane rozszerzenia oraz motywy i zarządzać nimi.</li>
-  <li><strong>W przypadku znalezienia aktualizacji dla programu &brandShortName;</strong>:
-    <ul>
-      <li><strong>Zapytaj, co zrobić</strong>: Wybranie tej opcji będzie skutkowało pojawianiem się powiadomień o dostępnych aktualizacjach dla programu &brandShortName;.</li>
-      <li><strong>Automatycznie pobierz i zainstaluj aktualizację</strong>: Wybranie tej opcji zaskutkuje automatycznym pobieraniem i instalowaniem dostępnych aktualizacji dla programu &brandShortName;. Pobieranie będzie odbywało się w tle z niskim priorytetem. Po zakończeniu pobierania, aktualizacja zostanie zainstalowana automatycznie podczas następnego uruchomienia programu &brandShortName;.</li>
-      <li><strong>Ostrzegaj, jeżeli to zaskutkuje wyłączeniem dodatków</strong>: Wybranie tej opcji spowoduje wyświetlenie ostrzeżenia, jeżeli automatyczna aktualizacja zaskutkuje wyłączeniem dodatków. W tym wypadku zostanie pokazana lista niekompatybilnych dodatków i będzie można zdecydować, czy dokonać aktualizacji, czy nie.</li>
-    </ul>
-
-    <p><strong>Uwaga</strong>: Można używać funkcji Sprawdź dostępność aktualizacji z menu <span class="mac">&brandShortName;</span><span class="noMac">Pomoc</span> w celu ręcznego wymuszenia sprawdzenia dostępności aktulizacji dla programu &brandShortName;. <span class="noMac">Tekst tej pozycji w menu zmieni się w czasie pobierania aktualizacji bądź gotowości do instalacji.</span></p>
-  </li>
-  <li><strong>Pokaż historię aktualizacji</strong>: Naciśnięcie tego przycisku zaskutkuje otworzeniem okna Historia aktualizacji wyświetlającym listę zainstalowanych aktualizacji dla programu &brandShortName;, włączając w to typ aktualizacji (np. Aktualizacja bezpieczeństwa), datę instalacji jak i status instalacji. Odnośnik Szczegóły obok każdej pozycji w liście aktualizacji prowadzi do witryn zawierających dalsze informacje o każdej aktualizacji.</li>
 </ul>
 
 <p>[<a href="#advanced_preferences">Na początek rozdziału</a>]</p>
@@ -302,15 +457,25 @@ m
 <ul>
   <li>Klawisz modyfikatora: Należy wybrać odpowiednią kartę i&nbsp;dokonać wyboru czynności, jaka ma być wykonywana przy użyciu rolki i&nbsp;odpowiedniego klawisza:
     <ul>
-      <li><strong>Przewinięcie dokumentu o</strong>: Przewinięcie dokumentu o&nbsp;ilość linii (lub znaków dla przewijania poziomego) wprowadzoną w&nbsp;polu wprowadzania.
-        <ul>
-          <li><strong>Użyj domyślnych ustawień systemu</strong>: Wybór spowoduje użycie przewijania dokumentu o&nbsp;taką ilość linii, jaka jest domyślnie ustawiona w&nbsp;systemie operacyjnym. Poprzednio ręcznie wprowadzone ustawienia zostaną nadpisane. Aby zmienić domyślne wartości przewijania używanego systemu operacyjnego, należy posłużyć się jego dokumentacją.</li>
-        </ul>
-      </li>
-      <li><strong>Przewinięcie dokumentu o&nbsp;jedną stronę w&nbsp;górę/dół</strong>: Przewinięcie dokumentu o&nbsp;całą stronę w&nbsp;górę / dół. Umożliwia to szybsze, ale mniej dokładne przewijanie dokumentu.</li>
+<!-- TODO: start localizing -->
+      <li><strong>Same as vertical scrolling</strong>: Choose this when your
+        mouse has a single control that provides both vertical and horizontal
+        scrolling. If your mouse has a separate horizontal scrolling control
+        then you can choose to assign a different function to it.</li>
+      <li><strong>Do nothing</strong>: Choose this to disable the scroll wheel
+        when used with the specified modifier key.</li>
+      <li><strong>Scroll the document</strong>: Choose this to scroll the
+        document by the system default number of lines or characters.</li>
+<!-- TODO: stop localizing -->
       <li><strong>Przejście do następnej/poprzednio odwiedzonej strony</strong>: Zaznaczenie tej opcji spowoduje używanie rolki myszy do przechodzenia pomiędzy stronami odwiedzonymi w&nbsp;trakcie danej sesji.</li>
-      <li><strong>Powiększenie/pomniejszenie tekstu</strong>: Zaznaczenie tej opcji pozwoli na zmianę rozmiaru tekstu na stronie przy użyciu rolki. To ustawienie pozwala na szybką zmianę wielkości tekstu na ekranie.</li>
+      <li><strong>Powiększ bądź pomniejsz stronę</strong>: Zaznaczenie tej opcji pozwoli na zmianę rozmiaru strony przy użyciu rolki. To ustawienie pozwala na szybką zmianę wielkości strony na ekranie.</li>
     </ul>
+
+<!-- TODO: start localizing -->
+    <p>Use the <strong>Mouse wheel speed</strong> option to adjust the
+      responsiveness of the wheel. To reverse the scroll direction, use negative
+      numbers or select <strong>Reverse direction</strong>.</p>
+<!-- TODO: stop localizing -->
 
     <p><strong>Uwaga</strong>: Każdy klawisz modyfikatora może mieć przypisaną inną funkcję.</p>
   </li>
