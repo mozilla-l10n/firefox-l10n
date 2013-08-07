@@ -114,9 +114,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "Q">
 <!ENTITY fullscreenAllowButton.label "Autoriser">
 <!ENTITY fullscreenExitButton.label "Interdire">
-<!ENTITY fullscreenApproval.value "Autoriser le mode plein écran ?">
 
-<!ENTITY fullscreenExitHint.value "Appuyez sur Échap à tout moment pour quitter le mode plein écran.">
+<!ENTITY fullscreenExitHint2.value "Appuyez sur Échap à tout moment pour quitter.">
 <!ENTITY leaveDOMFullScreen.label "Quitter le mode plein écran">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
