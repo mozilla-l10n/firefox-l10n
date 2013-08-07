@@ -218,6 +218,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Développeur web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
 <!ENTITY devtoolsConnect.label        "Se connecter…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
@@ -263,6 +266,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Outils de développement">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
+<!ENTITY devToolboxMenuItem.keycode        "D">
+<!ENTITY devToolboxMenuItem.keytext        "D">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ouvrir/Fermer les outils de développement">
 
