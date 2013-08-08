@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Erweiterte Konten-Einstellungen">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-Server-Verzeichnis:">
@@ -21,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Server erlauben, diese Namensräume zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3Desc.label "Wo soll der Posteingang dieses Kontos gespeichert werden?">
-<!ENTITY globalInbox.label "Globaler Posteingang (Lokale Ordner)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Separater Posteingang für dieses Konto">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Posteingang eines anderen Kontos">
