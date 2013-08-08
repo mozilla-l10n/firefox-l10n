@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Konten-Einstellungen">
@@ -8,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Chat-Konto hinzufügen…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Feed-Konto hinzufügen…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Anderes Konto hinzufügen…">
 <!ENTITY addOtherAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
