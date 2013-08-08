@@ -21,7 +21,7 @@
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Alirklavoj">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.accesskey "A">
 
 <!ENTITY helpSafeMode.label       "Rekomenci kun aldonaĵoj malaktivaj…">
 <!ENTITY helpSafeMode.accesskey   "R">
