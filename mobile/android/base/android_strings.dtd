@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "正在設定您的 &brandShortName;">
-<!ENTITY  splash_bookmarks_history "我們正在更新您的書籤與歷史紀錄，可能需要花上幾分鐘。">
-
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
-<!ENTITY pref_category_general "一般">
-<!ENTITY pref_category_privacy "個人隱私與安全">
-<!ENTITY pref_category_content "內容">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "進階">
+<!ENTITY pref_category_customize "自訂">
+<!ENTITY pref_category_search2 "搜尋設定">
+<!ENTITY pref_category_display "顯示">
+<!ENTITY pref_category_privacy_short "個人隱私">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "資料選擇">
-<!ENTITY pref_about_firefox "關於 &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
+<!ENTITY pref_category_devtools "開發者工具">
+<!ENTITY pref_developer_remotedebugging "遠端除錯">
+<!ENTITY pref_developer_remotedebugging_docs "詳細資訊">
 <!ENTITY pref_remember_signons "記住密碼">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "一般">
-<!ENTITY pref_header_privacy "個人隱私與安全">
-<!ENTITY pref_header_content "內容">
+<!ENTITY pref_header_customize "自訂">
+<!ENTITY pref_header_display "顯示">
+<!ENTITY pref_header_privacy_short "個人隱私">
+<!ENTITY pref_header_help "說明">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "開發者工具">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "啟用">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom3 "雙擊以重排文字">
+<!ENTITY pref_reflow_on_zoom4 "重排文字">
+<!ENTITY pref_restore "分頁">
+<!ENTITY pref_restore_always "總是還原">
+<!ENTITY pref_restore_crash "發生錯誤後再還原">
+<!ENTITY pref_restore_never "不要還原">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles "已下載的檔案">
+
+
+<!ENTITY pref_about_firefox "關於 &brandShortName;">
+<!ENTITY pref_vendor_faqs "常見問題">
+<!ENTITY pref_vendor_feedback "提供意見回饋">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
 <!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "分頁">
 <!ENTITY tabs_private "隱私">
 <!ENTITY tabs_synced "同步">
-<!ENTITY wallpaper_success "已更新桌面背景">
-<!ENTITY wallpaper_progress "正在設定桌面背景">
-<!ENTITY wallpaper_fail "無法設定桌面背景">
+<!ENTITY set_image_fail "無法設定圖片">
+<!ENTITY set_image_chooser_title "將圖片設為">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "已將頁面自閱讀清單移除">
 <!ENTITY reading_list_failed "將頁面新增至您的閱讀清單失敗">
 <!ENTITY reading_list_duplicate "頁面已存在於您的閱讀清單中">
-<!ENTITY reader "閱讀器">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "其他操作">
 
 <!ENTITY masterpassword_create_title "建立主控密碼">
 <!ENTITY masterpassword_remove_title "移除主控密碼">
@@ -315,6 +329,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "書籤與歷史紀錄">
 
+<!ENTITY devtools_remote_debugging_forward "別忘記設定轉發通訊埠 (port forwarding)！">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_start_select2 "點選此處下載">
@@ -326,4 +342,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "有可用的 &brandShortName; 更新">
 <!ENTITY updater_apply_select2 "選擇此處套用">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "開新訪客瀏覽階段">
+<!ENTITY exit_guest_session "結束訪客瀏覽階段">
+<!ENTITY guest_session_dialog_continue "繼續">
+<!ENTITY guest_session_dialog_cancel "取消">
+<!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
+<!ENTITY new_guest_session_text "進入訪客模式後使用者將無法看到您任何的私人瀏覽資料（諸如已存的密碼、歷史紀錄或書籤）。\n\n當您的訪客用完之後，他們的瀏覽資料也會被清除，然後您的瀏覽階段將會被還原。">
+
+<!ENTITY exit_guest_session_title "&brandShortName; 現在將會重新啟動">
+<!ENTITY exit_guest_session_text "此瀏覽階段中的瀏覽資料將會被清除。">
 

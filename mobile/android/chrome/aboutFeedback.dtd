@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "請告訴我們您使用 Android 版 &brandShortName; 到現在有什麼感想。">
 <!ENTITY intro.happyLink           "我愛它">
 <!ENTITY intro.sadLink             "我遇到一些問題">
+<!ENTITY intro.maybeLater          "之後再說">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "如果您需要幫助，或是遇到 &brandShortName; 的問題，請到">
+<!ENTITY support.pre2              "您也可以參考">
 <!ENTITY support.link              "&brandShortName; 技術支援">
-<!ENTITY support.post              "。">
+<!ENTITY support.post2             "以取得更多資訊。">
 
 <!ENTITY happy.header              "很高興您能提供意見給我們！">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "這花不到您一分鐘就可以完成。">
 
 <!ENTITY happy.ratingLink          "是，請帶我到 Google Play">
-<!ENTITY happy.maybeLater          "之後再說吧">
+<!ENTITY happy.maybeLater2         "之後再說">
 <!ENTITY happy.noThanks            "不，謝了">
 
 <!ENTITY sad.message               "我們對於您在使用 &brandShortName; 的時候遇到問題感到相當抱歉。請告訴我們發生了什麼事，讓我們來修復它。">

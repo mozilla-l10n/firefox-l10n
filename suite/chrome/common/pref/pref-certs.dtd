@@ -16,3 +16,9 @@
 <!ENTITY  pref.certs.title         "憑證">
 <!ENTITY  certs.label              "憑證">
 
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "使用線上憑證狀態協定 (OCSP) 來檢查目前憑證的有效性">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY validation.requireOCSP.description       "當 OCSP 伺服器連線失敗時，將憑證視為無效">
+<!ENTITY validation.requireOCSP.accesskey         "W">
+
