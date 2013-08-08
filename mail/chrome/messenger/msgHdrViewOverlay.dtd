@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "An ">
-<!ENTITY fromField3.label "Von ">
-<!ENTITY senderField3.label "Sender ">
-<!ENTITY organizationField3.label "Organisation ">
-<!ENTITY replyToField3.label "Antwort an ">
+<!ENTITY toField4.label "An">
+<!ENTITY fromField4.label "Von">
+<!ENTITY senderField4.label "Sender">
+<!ENTITY organizationField4.label "Organisation">
+<!ENTITY replyToField4.label "Antwort an">
 
-<!ENTITY subjectField3.label "Betreff ">
-<!ENTITY ccField3.label "Kopie (CC) ">
-<!ENTITY bccField3.label "Blindkopie (BCC) ">
-<!ENTITY newsgroupsField3.label "Newsgruppen ">
-<!ENTITY followupToField3.label "Followup an ">
-<!ENTITY tagsHdr3.label "Schlagwörter ">
-<!ENTITY dateField3.label "Datum ">
-<!ENTITY userAgentField3.label "User-Agent ">
-<!ENTITY referencesField3.label "Referenzen ">
-<!ENTITY messageIdField3.label "Nachrichten-ID ">
-<!ENTITY inReplyToField3.label "Als Antwort auf ">
-<!ENTITY originalWebsite3.label "Webseite ">
+<!ENTITY subjectField4.label "Betreff">
+<!ENTITY ccField4.label "Kopie (CC)">
+<!ENTITY bccField4.label "Blindkopie (BCC)">
+<!ENTITY newsgroupsField4.label "Newsgruppen">
+<!ENTITY followupToField4.label "Followup an">
+<!ENTITY tagsHdr4.label "Schlagwörter">
+<!ENTITY dateField4.label "Datum">
+<!ENTITY userAgentField4.label "User-Agent">
+<!ENTITY referencesField4.label "Referenzen">
+<!ENTITY messageIdField4.label "Nachrichten-ID">
+<!ENTITY inReplyToField4.label "Als Antwort auf">
+<!ENTITY originalWebsite4.label "Webseite">
 
 <!ENTITY editMessageDescription.label "Dies ist ein Nachrichten-Entwurf">
 <!ENTITY editMessageButton.label "Bearbeiten…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Antwort an die Mailing-Liste">
 <!ENTITY hdrFollowupButton1.label "Newsgruppe antworten">
 <!ENTITY hdrFollowupButton1.tooltip "Antwort an die Newsgruppe">
+<!ENTITY hdrMenuForwardButton.label "Weiterleiten als">
 <!ENTITY hdrForwardButton1.label "Weiterleiten">
 <!ENTITY hdrForwardButton1.tooltip "Diese Nachricht weiterleiten">
 <!ENTITY hdrJunkButton1.label "Junk">
