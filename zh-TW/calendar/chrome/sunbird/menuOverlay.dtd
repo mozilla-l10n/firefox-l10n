@@ -31,7 +31,7 @@
 <!ENTITY calendar.publish.selection.label                  "發佈選擇的…">
 <!ENTITY calendar.publish.selection.accesskey              "c">
 
-<!ENTITY calendar.quit.label                               "結束">
+<!ENTITY calendar.quit.label                               "離開">
 <!ENTITY calendar.quit.accesskey                           "Q">
 <!ENTITY calendar.quit.key                                 "Q">
 <!ENTITY calendar.quit.label.mac                           "結束 &brandShortName;">
