@@ -72,6 +72,11 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "資料選擇">
 <!ENTITY pref_category_installed_search_engines "已安裝的搜尋引擎">
+<!ENTITY pref_category_add_search_providers "新增更多搜尋引擎">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "秘訣: 長按網頁中的搜尋欄位以將其新增至您的搜尋引擎清單。">
 <!ENTITY pref_category_devtools "開發者工具">
 <!ENTITY pref_developer_remotedebugging "遠端除錯">
 <!ENTITY pref_developer_remotedebugging_docs "詳細資訊">
@@ -144,6 +149,10 @@ size. -->
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常見問題">
 <!ENTITY pref_vendor_feedback "提供意見回饋">
+<!ENTITY pref_search_set_default "設為預設">
+<!ENTITY pref_search_default "預設">
+<!ENTITY pref_search_remove "移除">
+<!ENTITY pref_search_last_toast "您不能移除或停用您的最後一個搜尋引擎。">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 統計資料">
 <!ENTITY datareporting_notification_action_long "選擇要分享哪些資訊">
@@ -195,9 +204,8 @@ size. -->
 <!ENTITY tabs_normal "分頁">
 <!ENTITY tabs_private "隱私">
 <!ENTITY tabs_synced "同步">
-<!ENTITY wallpaper_success "已更新桌面背景">
-<!ENTITY wallpaper_progress "正在設定桌面背景">
-<!ENTITY wallpaper_fail "無法設定桌面背景">
+<!ENTITY set_image_fail "無法設定圖片">
+<!ENTITY set_image_chooser_title "將圖片設為">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -345,13 +353,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "選擇此處套用">
 
 <!-- Guest mode -->
-<!ENTITY enter_guest_mode "進入訪客模式">
-<!ENTITY exit_guest_mode "離開訪客模式">
-<!ENTITY guest_mode_dialog_continue "繼續">
-<!ENTITY guest_mode_dialog_cancel "取消">
-<!ENTITY guest_mode_enter_title "訪客模式">
-<!ENTITY guest_mode_enter_text "進入訪客模式時，使用 &brandShortName; 的人將無法看到您的私人瀏覽資料 (諸如您已儲存的密碼、瀏覽紀錄或書籤)。\n\n當您的訪客上完網後，他們的瀏覽資料也會被清除。">
+<!ENTITY new_guest_session "開新訪客瀏覽階段">
+<!ENTITY exit_guest_session "結束訪客瀏覽階段">
+<!ENTITY guest_session_dialog_continue "繼續">
+<!ENTITY guest_session_dialog_cancel "取消">
+<!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
+<!ENTITY new_guest_session_text "進入訪客模式後使用者將無法看到您任何的私人瀏覽資料（諸如已存的密碼、歷史紀錄或書籤）。\n\n當您的訪客用完之後，他們的瀏覽資料也會被清除，然後您的瀏覽階段將會被還原。">
 
-<!ENTITY guest_mode_leave_title "離開訪客模式">
-<!ENTITY guest_mode_leave_text "&brandShortName; 將會清除此瀏覽階段中的瀏覽資料。">
+<!ENTITY exit_guest_session_title "&brandShortName; 現在將會重新啟動">
+<!ENTITY exit_guest_session_text "此瀏覽階段中的瀏覽資料將會被清除。">
 
