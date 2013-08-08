@@ -6,8 +6,13 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 
-<!ENTITY aboutAddons.title              "Tillägg är ett pågående arbete">
+<!ENTITY aboutAddons.title              "&brandShortName;-tillägg är ett pågående arbete">
 <!ENTITY aboutAddons.messageTitle       "Ojdå!">
-<!ENTITY aboutAddons.message            "Tyvärr är &brandShortName; i fullt arbete för att kunna stöda tillägg!">
-<!ENTITY aboutAddons.goBackToStart      "Gå tillbaka till ">
-<!ENTITY aboutAddons.startPageLinkTitle "&brandShortName; startsida.">
+<!ENTITY aboutAddons.message            "Tyvärr är &brandShortName; i fullt arbete för att kunna stöda tillägg.">
+<!-- LOCALIZATION NOTE (aboutAddons.goBackToStartStart, aboutAddons.goBacktoStartLink, aboutAddons.goBacktoStartEnd):
+     These three entities form a single sentence. aboutAddons.goBackToStartStart is the start of the sentence,
+     aboutAddons.goBacktoStartLink is a clickable link the middle and aboutAddons.goBacktoStartEnd is the end of the sentence.
+     -->
+<!ENTITY aboutAddons.goBackToStartStart "Gå tillbaka till ">
+<!ENTITY aboutAddons.goBacktoStartLink  "&brandShortName; startsida">
+<!ENTITY aboutAddons.goBacktoStartEnd   ".">
