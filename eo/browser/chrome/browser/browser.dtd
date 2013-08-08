@@ -109,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "P">
 <!ENTITY fullscreenAllowButton.label "Permesi">
 <!ENTITY fullscreenExitButton.label "Rifuzi">
-<!ENTITY fullscreenApproval.value "Ĉu permesi plenekranan reĝimon?">
 
-<!ENTITY fullscreenExitHint.value "Premu Esk iam ajn por eliri el plenekrana reĝimo.">
+<!ENTITY fullscreenExitHint2.value "Premu ESK iam ajn por eliri.">
 <!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
@@ -207,6 +206,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "TTTa programisto">
 <!ENTITY webDeveloperMenu.accesskey   "P">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
 <!ENTITY devtoolsConnect.label        "Konekti…">
 <!ENTITY devtoolsConnect.accesskey    "k">
 
@@ -252,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Montri/kaŝi ilojn">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Montri/kaŝi ilojn de disvolvanto">
 <!ENTITY devToolbarOtherToolsButton.label  "Pli da iloj">
