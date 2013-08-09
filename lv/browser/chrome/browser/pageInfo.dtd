@@ -35,7 +35,6 @@
 <!ENTITY generalSecurityDetails.accesskey "P">
 
 <!ENTITY  permAskAlways         "Jautāt katru reizi">
-<!ENTITY  permGeo               "Atklāt atrašanās vietu">
 <!ENTITY  permPlugins           "Aktivizēt spraudņus">
 
 <!ENTITY mediaTab "Multivide">
@@ -54,8 +53,6 @@
 <!ENTITY mediaSaveAs.accesskey "A">
 <!ENTITY mediaSaveAs2.accesskey "e">
 <!ENTITY mediaPreview "Paraugs:">
-<!ENTITY  permNotifications     "Rādīt paziņojumus">
-<!ENTITY  permPointerLock2       "Slēpt peles kursoru">
 
 <!ENTITY feedTab "Barotnes">
 <!ENTITY feedTab.accesskey "F">
@@ -69,11 +66,6 @@
 <!ENTITY permAllowSession "Atļaut šai sesijai">
 <!ENTITY permBlock "Bloķēt">
 <!ENTITY permissionsFor "Atļaujas lapai:">
-<!ENTITY permImage "Ielādēt attēlus">
-<!ENTITY permPopup "Atvērt uznirstošos logus">
-<!ENTITY permCookie "Saglabāt sīkdatnes">
-<!ENTITY permInstall "Instalēt papildinājumus vai tēmas">
-<!ENTITY permFullscreen        "Ieiet pilnekrāna režīmā">
 
 <!ENTITY securityTab "Drošība">
 <!ENTITY securityTab.accesskey "S">
