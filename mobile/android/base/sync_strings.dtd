@@ -33,7 +33,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
 <!ENTITY sync.subtitle.header2.label 'Introduceți acest cod pe celălalt dispozitiv'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selectați “&sync.title.pair.label;” în &syncBrand.shortName.label; secțiunea opțiuni Firefox din celălalt dispozitiv \&apos;s al dumneavoastră.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selectați „&sync.title.pair.label;” în &syncBrand.shortName.label; secțiunea opțiuni Firefox din celălalt dispozitiv \&apos;s al dumneavoastră.'>
 <!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
