@@ -153,7 +153,7 @@ size. -->
 <!ENTITY pref_search_set_default "Définir par défaut">
 <!ENTITY pref_search_default "Par défaut">
 <!ENTITY pref_search_remove "Supprimer">
-<!ENTITY pref_search_last_toast "Vous de pouvez pas supprimer ou désactiver votre dernier moteur de recherche.">
+<!ENTITY pref_search_last_toast "Vous ne pouvez pas supprimer ou désactiver votre dernier moteur de recherche.">
 
 <!ENTITY datareporting_notification_title "Stats et données de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "choisir ce que j\u0027envoie">
