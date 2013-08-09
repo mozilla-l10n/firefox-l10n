@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Sagen Sie uns, was Sie bislang von &brandShortName; für Android halten.">
 <!ENTITY intro.happyLink           "Ich liebe es">
 <!ENTITY intro.sadLink             "Ich hatte einige Probleme damit">
+<!ENTITY intro.maybeLater          "Vielleicht später">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Falls Sie Hilfe benötigen oder ein Problem mit &brandShortName; haben, dann besuchen Sie die ">
+<!ENTITY support.pre2              "Sie können auch die ">
 <!ENTITY support.link              "Hilfeseite für &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " besuchen, um mehr Informationen zu erhalten.">
 
 <!ENTITY happy.header              "Schön, das zu hören!">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Es dauert weniger als eine Minute und tut nicht weh ;).">
 
 <!ENTITY happy.ratingLink          "Ja, Google Play öffnen">
-<!ENTITY happy.maybeLater          "Vielleicht später">
+<!ENTITY happy.maybeLater2         "Vielleicht später">
 <!ENTITY happy.noThanks            "Nein, danke">
 
 <!ENTITY sad.message               "Es tut uns leid, dass Sie bei der Benutzung von &brandShortName; auf Probleme gestoßen sind. Bitte sagen Sie uns, was passiert ist, sodass wir dies beheben können.">
