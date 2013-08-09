@@ -15,7 +15,6 @@
 <!ENTITY selectall.accesskey "V">
 <!ENTITY closeWindow.key "w">
 
-<!ENTITY  permIndexedDB              "Uzturēt atsaistes glabātuvi">
 <!ENTITY  permClearStorage           "Iztīrīt glabātuvi">
 <!ENTITY  permClearStorage.accesskey "z">
 
