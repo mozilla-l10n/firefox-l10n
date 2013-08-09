@@ -9,6 +9,7 @@
 # Trizen <swampy_sql@operamail.com>
 # mazilu59 <mazilu59@gmail.com>
 # AdiJapan <adi.japan@yahoo.com>
+# https://www.google.com/accounts/o8/id?id=AItOawmf8-YGMeyElPU6nLpEHtQwMDtbyK3rI1k <https://www.google.com/accounts/o8/id?id=AItOawmf8-YGMeyElPU6nLpEHtQwMDtbyK3rI1k>
 #
 -->
 <!--
@@ -23,9 +24,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  splash_settingup "Se configurează &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Actualizăm semnele de carte și istoricul, acțiune ce poate dura circa un minut.">
 
 <!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
 <!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
@@ -88,20 +86,26 @@
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Confidențialitate și securitate">
-<!ENTITY pref_category_content "Conținut">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Avansat">
+<!ENTITY pref_category_customize "Personalizare">
+<!ENTITY pref_category_search2 "Setări căutare">
+<!ENTITY pref_category_display "Ecran">
+<!ENTITY pref_category_privacy_short "Confidențialitate">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opțiuni de date">
-<!ENTITY pref_about_firefox "Despre &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
+<!ENTITY pref_category_devtools "Unelte de dezvoltare">
+<!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
+<!ENTITY pref_developer_remotedebugging_docs "Aflați mai multe">
 <!ENTITY pref_remember_signons "Memorează parolele">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Confidențialitate și securitate">
-<!ENTITY pref_header_content "Conținut">
+<!ENTITY pref_header_customize "Personalizare">
+<!ENTITY pref_header_display "Ecran">
+<!ENTITY pref_header_privacy_short "Confidențialitate">
+<!ENTITY pref_header_help "Ajutor">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Unelte de dezvoltare">
 
 <!ENTITY pref_cookies_menu "Cookie-uri">
 <!ENTITY pref_cookies_accept_all "Activată">
@@ -122,7 +126,11 @@
 <!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivat">
 <!ENTITY pref_text_size "Mărime text">
-<!ENTITY pref_reflow_on_zoom3 "Dublă apăsare pentru a rearanja textul">
+<!ENTITY pref_reflow_on_zoom4 "Reîncadrare text">
+<!ENTITY pref_restore "File">
+<!ENTITY pref_restore_always "Restaurează întotdeauna">
+<!ENTITY pref_restore_crash "Restaurează după o eroare">
+<!ENTITY pref_restore_never "Nu restaura niciodată">
 <!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mic">
 <!ENTITY pref_font_size_medium "Mediu">
@@ -153,6 +161,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Date de sait pentru acces offline">
 <!ENTITY pref_private_data_siteSettings2 "Setările saitului">
 <!ENTITY pref_private_data_downloadFiles "Fișiere descărcate">
+
+
+<!ENTITY pref_about_firefox "Despre &brandShortName;">
+<!ENTITY pref_vendor_faqs "Întrebări frecvente">
+<!ENTITY pref_vendor_feedback "Trimite opiniile">
 
 <!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Alegeți ce informații să împărtășiți">
@@ -204,9 +217,8 @@ size. -->
 <!ENTITY tabs_normal "File">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
-<!ENTITY wallpaper_success "Imagine de fundal actualizată">
-<!ENTITY wallpaper_progress "Setare imagine de fundal">
-<!ENTITY wallpaper_fail "Nu am putut seta imaginea de fundal">
+<!ENTITY set_image_fail "Nu s-a putut seta imaginea">
+<!ENTITY set_image_chooser_title "Setează imaginea ca">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -252,7 +264,10 @@ size. -->
 <!ENTITY reading_list_removed "Pagină eliminată din lista ta de citit">
 <!ENTITY reading_list_failed "Eșec la adăugarea paginii la lista ta de citit">
 <!ENTITY reading_list_duplicate "Pagina deja existentă în lista de citire">
-<!ENTITY reader "Cititor">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Acțiuni adiționale">
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
 <!ENTITY masterpassword_remove_title "Eliminare parolă generală">
@@ -339,6 +354,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Semne de carte și istoric">
 
+<!ENTITY devtools_remote_debugging_forward "Nu uitați să configurați portul de expediere!">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_start_select2 "Apăsați pentru a descărca">
@@ -350,4 +367,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_apply_select2 "Apăsați pentru actualizare">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Sesiune vizitator nouă">
+<!ENTITY exit_guest_session "Ieșire sesiune vizitator">
+<!ENTITY guest_session_dialog_continue "Continuă">
+<!ENTITY guest_session_dialog_cancel "Anulează">
+<!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
+<!ENTITY new_guest_session_text "Persoana ce-l va utiliza nu va avea posibilitatea să vadă niciuna din datele de navigare cu caracter personal (cum ar fi parolele salvate, istoricul sau semnele de carte). \n\nCând vizita este finalizată, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
+<!ENTITY exit_guest_session_text "Datele de navigare de la această sesiune vor fi șterse.">
 

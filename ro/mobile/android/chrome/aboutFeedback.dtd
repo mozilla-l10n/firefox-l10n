@@ -27,13 +27,14 @@
 <!ENTITY intro.message             "Spuneți-ne ce credeți până acum despre &brandShortName; pentru Android.">
 <!ENTITY intro.happyLink           "Îmi  place">
 <!ENTITY intro.sadLink             "Am întâmpinat anumite probleme">
+<!ENTITY intro.maybeLater          "Poate mai târziu">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Dacă aveți nevoie de ajutor sau aveți o problemă cu &brandShortName;, vă rugăm vizitați ">
+<!ENTITY support.pre2              "De asemenea puteți vizita ">
 <!ENTITY support.link              "Suport &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " pentru mai multe informații.">
 
 <!ENTITY happy.header              "Asta e minunat să aud!">
 
@@ -46,7 +47,7 @@
 <!ENTITY happy.finePrint           "Ia mai puțin de un minut și se simte grozav.">
 
 <!ENTITY happy.ratingLink          "Da, mergi la Google Play">
-<!ENTITY happy.maybeLater          "Poate mai târziu">
+<!ENTITY happy.maybeLater2         "Poate mai târziu">
 <!ENTITY happy.noThanks            "Nu mulțumesc">
 
 <!ENTITY sad.message               "Ne pare rău că ați avut niște probleme cu &brandShortName;. Spuneți-ne ce s-a întâmplat astfel să remediem problema.">
