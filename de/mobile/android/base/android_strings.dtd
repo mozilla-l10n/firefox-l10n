@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "&brandShortName; wird eingerichtet\u2026">
-<!ENTITY  splash_bookmarks_history "Ihre Lesezeichen und Chronik werden aktualisiert, dies kann eine Minute in Anspruch nehmen.">
-
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Einstellungen">
 <!ENTITY settings_title "Einstellungen">
-<!ENTITY pref_category_general "Allgemein">
-<!ENTITY pref_category_privacy "Privatsphäre &amp; Sicherheit">
-<!ENTITY pref_category_content "Inhalt">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Erweitert">
+<!ENTITY pref_category_customize "Anpassung">
+<!ENTITY pref_category_search2 "Sucheinstellungen">
+<!ENTITY pref_category_display "Anzeige">
+<!ENTITY pref_category_privacy_short "Privatsphäre">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datenübermittlung">
-<!ENTITY pref_about_firefox "Über &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Installierte Suchmaschinen">
+<!ENTITY pref_category_devtools "Entwicklerwerkzeuge">
+<!ENTITY pref_developer_remotedebugging "Externes Debugging">
+<!ENTITY pref_developer_remotedebugging_docs "Weitere Informationen">
 <!ENTITY pref_remember_signons "Passwörter speichern">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Allgemein">
-<!ENTITY pref_header_privacy "Datenschutz &amp; Sicherheit">
-<!ENTITY pref_header_content "Inhalt">
+<!ENTITY pref_header_customize "Anpassung">
+<!ENTITY pref_header_display "Anzeige">
+<!ENTITY pref_header_privacy_short "Privatsphäre">
+<!ENTITY pref_header_help "Hilfe">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Entwicklerwerkzeuge">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Erlauben">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Antippen zum Aktivieren">
 <!ENTITY pref_plugins_disabled "Deaktiviert">
 <!ENTITY pref_text_size "Textgröße">
-<!ENTITY pref_reflow_on_zoom3 "Doppelt antippen, um Text neu umzubrechen">
+<!ENTITY pref_reflow_on_zoom4 "Text neu umbrechen">
+<!ENTITY pref_restore "Tabs">
+<!ENTITY pref_restore_always "Immer wiederherstellen">
+<!ENTITY pref_restore_crash "Nach Absturz wiederherstellen">
+<!ENTITY pref_restore_never "Nie wiederherstellen">
 <!ENTITY pref_font_size_tiny "Winzig">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Mittel">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline-Website-Daten">
 <!ENTITY pref_private_data_siteSettings2 "Website-Einstellungen">
 <!ENTITY pref_private_data_downloadFiles "Heruntergeladene Dateien">
+
+
+<!ENTITY pref_about_firefox "Über &brandShortName;">
+<!ENTITY pref_vendor_faqs "Häufig gestellte Fragen">
+<!ENTITY pref_vendor_feedback "Feedback senden">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-Statistiken &amp; -Daten">
 <!ENTITY datareporting_notification_action_long "Wählen Sie die zu übermittelnden Informationen">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Normal">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sync">
-<!ENTITY wallpaper_success "Hintergrundbild geändert">
-<!ENTITY wallpaper_progress "Hintergrundbild wird geändert…">
-<!ENTITY wallpaper_fail "Konnte Hintergrundbild nicht ändern">
+<!ENTITY set_image_fail "Kann Grafik nicht verwenden">
+<!ENTITY set_image_chooser_title "Grafik verwenden als">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Seite aus Leseliste gelöscht">
 <!ENTITY reading_list_failed "Seite konnte nicht zur Leseliste hinzugefügt werden">
 <!ENTITY reading_list_duplicate "Seite bereits in Leseliste">
-<!ENTITY reader "Lesemodus">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Weitere Aktionen">
 
 <!ENTITY masterpassword_create_title "Master-Passwort festlegen">
 <!ENTITY masterpassword_remove_title "Master-Passwort entfernen">
@@ -317,6 +331,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Lesezeichen und Chronik">
 
+<!ENTITY devtools_remote_debugging_forward "Vergessen Sie nicht die Einrichtung der Port-Weiterleitung!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Update für &brandShortName; verfügbar">
 <!ENTITY updater_start_select2 "Zum Herunterladen antippen">
@@ -328,3 +344,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Update für &brandShortName; verfübar">
 <!ENTITY updater_apply_select2 "Zum Aktualisieren antippen">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Neue Gastsitzung">
+<!ENTITY exit_guest_session "Gastsitzung beenden">
+<!ENTITY guest_session_dialog_continue "Weiter">
+<!ENTITY guest_session_dialog_cancel "Abbrechen">
+<!ENTITY new_guest_session_title "&brandShortName; startet jetzt neu">
+<!ENTITY new_guest_session_text "Die Person wird keine persönlichen Browser-Daten (wie gespeicherte Passwörter, Chronik oder Lesezeichen) sehen.\n\nNachdem der Gast mit dem Surfen fertig ist, werden seine Browser-Daten gelöscht und Ihre Sitzung wiederhergestellt.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; startet jetzt neu">
+<!ENTITY exit_guest_session_text "Die Browser-Daten der letzten Sitzung werden gelöscht.">
