@@ -12,9 +12,6 @@
 <!ENTITY closeTabCmd2.accesskey "e">
 <!ENTITY closeOtherTabsCmd2.label "Luk andre faneblade">
 <!ENTITY closeOtherTabsCmd2.accesskey "L">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Senest lukkede faneblade">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -502,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY allowRemoteDebugging.accesskey "r">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Hent">
+<!ENTITY getMsgButton1.label "Hent meddelelser">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar til alle">
