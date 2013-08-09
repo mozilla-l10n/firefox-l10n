@@ -15,11 +15,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; 문제점 보고">
 <!ENTITY  crash_message2 "&brandShortName;가 문제가 생겨 예기치 않게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫 화면에 보일 것입니다.">
-<!ENTITY  crash_send_report_message2 "문제 사항을 고치기 위해 Mozilla에 보내기">
+<!ENTITY  crash_send_report_message3 "문제점을 고치기 위해 &vendorShortName;에 보내기">
 <!ENTITY  crash_include_url2 "방문 했던 페이지의 주소 포함하기">
 <!ENTITY  crash_sorry "죄송합니다">
 <!ENTITY  crash_comment "의견 추가하기 (의견은 공개적으로 불 수 있습니다)">
-<!ENTITY  crash_allow_contact "이 보고서에 대해 Mozilla가 연락하는 것을 허가">
+<!ENTITY  crash_allow_contact2 "이 보고서에 대해 &vendorShortName;가 연락하는 것을 허가함">
 <!ENTITY  crash_email "이메일">
 <!ENTITY  crash_closing_alert "문제점 보고서를 보내지 않고 종료하시겠습니까?">
 <!ENTITY  crash_close_label "닫기">
@@ -41,6 +41,7 @@
 <!ENTITY bookmark_added "북마크 추가">
 <!ENTITY bookmark_removed "북마크 삭제">
 <!ENTITY bookmark_updated "북마크 업데이트">
+<!ENTITY bookmark_options "설정">
 
 <!ENTITY history_today_section "오늘">
 <!ENTITY history_yesterday_section "어제">
@@ -99,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
 <!ENTITY pref_plugins_disabled "사용 안 함">
 <!ENTITY pref_text_size "글자 크기">
-<!ENTITY pref_reflow_on_zoom2 "확대/축소 시 줄 바꿈">
+<!ENTITY pref_reflow_on_zoom3 "더블 탭 시 자동 줄 바꿈">
 <!ENTITY pref_font_size_tiny "매우 작게">
 <!ENTITY pref_font_size_small "작게">
 <!ENTITY pref_font_size_medium "중간">
@@ -130,9 +131,11 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_private_data_downloadFiles "다운로드된 파일">
 
 <!ENTITY datareporting_notification_title "&brandShortName; 통계 &amp; 데이터">
+<!ENTITY datareporting_notification_action_long "공유할 정보 선택하기">
 <!ENTITY datareporting_notification_action "공유 대상 선택하기">
 <!ENTITY datareporting_notification_summary "여러분이 보다 나은 경험을 할 수 있도록 &brandShortName;는 &vendorShortName;에 자동으로 일부 정보를 전송합니다.">
 <!ENTITY datareporting_notification_summary_short "여러분이 보다 나은 경험을 할 수 있도록 &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -141,14 +144,16 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; 상태 검사 보고서">
-<!ENTITY datareporting_fhr_summary "브라우저 성능에 대해 이해할 수 잇도록 돕고 &vendorShortName;와 브라우저 건강 데이터를 공유함">
+<!ENTITY datareporting_fhr_summary2 "브라우저 상태를 &vendorShortName;와 공유하고 성능을 이해할 수 있도록 도움">
+<!ENTITY datareporting_abouthr_title "상태 검사 보고서 보기">
 <!ENTITY datareporting_telemetry_title "데이터 수집">
 <!ENTITY datareporting_telemetry_summary "브라우저의 성능, 사용, 그리고 설정에 대한 데이터를 &vendorShortName;와 공유하여 &brandShortName;가 보다 나아지도록 도움">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;가 오류 보고서를 전송하여 &vendorShortName;가 브라우저를 보다 안정적이고 보안이 강화되도록 도움">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; 오류 보고서">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "오류 보고서">
+<!ENTITY datareporting_wifi_title "&vendorShortName; 위치 기반 서비스">
+<!ENTITY datareporting_wifi_summary "&brandShortName;가 익명의 셀룰러 타워 데이터를 수집하고 전송하도록 허락하여 오픈 웹을 위해 위치 기반 서비스를 향상시키도록 도움">
 
 <!ENTITY pref_update_autodownload "자동 업데이트">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi에서만">
@@ -269,6 +274,15 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "현재 웹 사이트는 인증 되었음">
 <!ENTITY identity_run_by "운영 업체 정보:">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "이 페이지는 안전하지 않은 콘텐츠를 보여주고 있습니다.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName;가 안전하지 않은 콘텐츠를 차단했습니다.">
+<!ENTITY blocked_mixed_content_message_bottom "이 콘텐츠가 차단되어도 대부분의 웹사이트들은 잘 작동할 것입니다.">
+<!ENTITY learn_more "더 알아보기">
+<!ENTITY enable_protection "보호하기">
+<!ENTITY disable_protection "보호하지 않기">
+<!ENTITY keep_blocking "차단 유지">
 
 <!ENTITY private_data_success "개인 정보 삭제 완료">
 <!ENTITY private_data_fail "일부 개인 정보 삭제 안됨">
