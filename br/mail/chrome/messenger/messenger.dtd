@@ -33,7 +33,7 @@
 <!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
 <!ENTITY newIMAccountCmd.accesskey "p">
 <!ENTITY newFeedAccountCmd.label "Kont lanv…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newFeedAccountCmd.accesskey "l">
 <!ENTITY newIMContactCmd.label "Kont darempred…">
 <!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
