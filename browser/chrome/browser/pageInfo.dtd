@@ -19,7 +19,6 @@
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
-
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kòpérëjë">
 <!ENTITY  copy.accesskey        "K">
@@ -27,7 +26,6 @@
 <!ENTITY  selectall.label       "Wëbierzë wszëtkò">
 <!ENTITY  selectall.accesskey   "w">
 <!ENTITY  closeWindow.key       "O">
-
 <!ENTITY  generalTab            "Òglowé">
 <!ENTITY  generalTab.accesskey  "g">
 <!ENTITY  generalURL            "Adres:">
@@ -42,7 +40,6 @@
 <!ENTITY  generalMetaContent    "Zamkłosc">
 <!ENTITY  generalSecurityDetails   "Detale">
 <!ENTITY  generalSecurityDetails.accesskey "D">
-
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Adres:">
@@ -59,12 +56,10 @@
 <!ENTITY  mediaSaveAs.accesskey "Z">
 <!ENTITY  mediaSaveAs2.accesskey "a">
 <!ENTITY  mediaPreview          "Pòdzérk mediów:">
-
 <!ENTITY  feedTab               "Pòwrózczi">
 <!ENTITY  feedTab.accesskey     "P">
 <!ENTITY  feedSubscribe         "Subskribùjë">
 <!ENTITY  feedSubscribe.accesskey "u">
-
 <!ENTITY  permTab               "Przistãp">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Ùżëjë domëslnëch">
@@ -73,34 +68,19 @@
 <!ENTITY  permAllowSession      "Zezwòlë dlô sesji">
 <!ENTITY  permBlock             "Blokùjë">
 <!ENTITY  permissionsFor        "Przistãp dlô:">
-<!ENTITY  permImage             "Ladowanié òbrôzków">
-<!ENTITY  permPopup             "Òtmëkanié wëskakùjącëch òknów">
-<!ENTITY  permCookie            "Zapisywanié kùszków">
-<!ENTITY  permInstall           "Instalacjô rozszerzeniów i mòtiwów">
-<!ENTITY  permGeo               "Ùprzistãpniôj pòłóżenié">
 <!ENTITY  permPlugins           "Włączë wtëkôcze">
-
-<!ENTITY  permIndexedDB              "Zachòwôj zamkłosc offline">
 <!ENTITY  permClearStorage           "Wëczëszczë zamkłosc">
 <!ENTITY  permClearStorage.accesskey "c">
-
-<!ENTITY  permPointerLock2      "Zatacë kùrsor mëszë">
-<!ENTITY  permFullscreen        						"Fùlektranowi trib">
-<!ENTITY permNotifications "Wëskrzënianié wiadłów ">
-
 <!ENTITY  securityTab           "Bezpiek">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Wëdowiédzô bezpiekù dlô ti stronë">
 <!ENTITY  securityView.certView "Wëskrzëni certifikat">
 <!ENTITY  securityView.accesskey "s">
 <!ENTITY  securityView.unknown   "Nieznóny">
-
-
 <!ENTITY  securityView.identity.header   "Juwernota stronë">
 <!ENTITY  securityView.identity.owner    "Miéwca:">
 <!ENTITY  securityView.identity.domain   "strona:">
 <!ENTITY  securityView.identity.verifier "Zwerifikòwóné przez:">
-
 <!ENTITY  securityView.privacy.header                   "Priwatnota i historiô">
 <!ENTITY  securityView.privacy.history                  "Móm na ti stronie ju rëchli bëti?">
 <!ENTITY  securityView.privacy.cookies                  "Móm zapisóné kùszczi dlô ti stronë?">
@@ -109,7 +89,6 @@
 <!ENTITY  securityView.privacy.passwords                "Móm zapisóné parole dlô ti stronë?">
 <!ENTITY  securityView.privacy.viewPasswords            "Wëskrzëni zapisóné parole">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
-
 <!ENTITY  securityView.technical.header                 "Techniczné detale">
 
 

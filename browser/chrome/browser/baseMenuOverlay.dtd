@@ -56,3 +56,7 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "Z">
 
 <!ENTITY showAllAppsCmdMac.label        "Wëskrzëni wszëtczé">
+
+<!ENTITY helpKeyboardShortcuts.label     "Skródzënë klawiaturë">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
+

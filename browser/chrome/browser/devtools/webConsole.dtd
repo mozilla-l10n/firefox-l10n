@@ -17,7 +17,7 @@
 <!ENTITY networkPanel.statusCodeColon             "Kòd statusu:">
 
 
-<!ENTITY networkPanel.requestHeaders              "Żądô nadgłówków">
+<!ENTITY networkPanel.requestHeaders              "Żądô nôdpisów">
 <!ENTITY networkPanel.requestCookie               "Wësli kùszczi">
 <!ENTITY networkPanel.requestBody                 "Żądôj całégò tekstù">
 <!ENTITY networkPanel.requestFormData             "Wësli pòdôwczi z formë">
