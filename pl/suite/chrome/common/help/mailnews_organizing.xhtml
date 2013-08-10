@@ -285,7 +285,7 @@
   <li><strong>Nieczytane</strong> – tylko wiadomości oznaczone jako nieczytane zostaną wyświetlone.</li>
   <li><strong>Etykiety</strong> – po wybraniu <a href="#tagging_messages">Etykiety</a> zostaną wyświetlone wiadomości z wybraną etykietą.</li>
   <li><strong>Użytkownika</strong> – domyślnie dostępnych jest pięć rodzajów skonfigurowanych widoków: <q>Od znajomych</q>, <q>Ostatnie wiadomości</q>, <q>Z ostatnich 5 dni</q>, <q>Pożądane</q> oraz <q>Posiadające załączniki</q>.</li>
-  <li><strong>Dostosuj</strong> – pozwala modyfikować widoki użytkownika.</li>
+  <li><strong>Dostosuj</strong> – pozwala modyfikować oraz tworzyć nowe widoki użytkownika.</li>
 </ul>
 
 <p><strong>Wskazówka</strong>: można szybko zmieniać tryby widoków wiadomości przy pomocy panelu Wyświetl z paska narzędzi wyszukiwania. Jeżeli pasek narzędzi wyszukiwania jest ukryty, należy z menu Widok wybrać Pokaż/Ukryj, a następnie Pasek narzędzi wyszukiwania.</p>
@@ -423,9 +423,22 @@ warunek.</p></li>
   <li>Z menu Narzędzia wybrać Wyszukaj wiadomości. Wyświetlone zostanie okno dialogowe Wyszukaj wiadomości.</li>
   <li>Obok <q>Wyszukaj wiadomości, które</q> należy wybrać z listy konto, grupę dyskusyjną lub folder, w którym ma być prowadzone wyszukiwanie.</li>
   <li>Zaznaczyć <q>Kontynuuj wyszukiwanie w podfolderach</q>, aby wyszukiwać również we wszystkich podfolderach.</li>
-  <li>Zaznaczyć <q>Wyszukaj w lokalnym systemie</q>, aby wyszukiwać jedynie w zapisanych lokalnie wiadomościach z grup dyskusyjnych lub z kont IMAP.
-
-    <p><strong>Uwaga</strong>: opcja będzie niedostępna, jeżeli nie będzie możliwe wyszukiwanie w wiadomościach przechowywanych na serwerze.</p>
+<!-- TODO: start localizing -->
+  <li>Next to <q>Perform search operations on</q>, select an option where to
+    search for messages in newsgroups or IMAP accounts:
+    <ul>
+      <li>Choose <q>Local system</q> to use only the information stored locally
+        for the search without any network activity. This mode includes all
+        major message headers. You can&apos;t search the message body locally
+        unless the account and its folders have been set up for
+        <a href="mailnews_account_settings.xhtml#synchronization_and_storage">synchronization</a>.
+      </li>
+      <li>Choose <q>Remote server</q> to perform all searches on the server
+        where the messages are located. This will allow you to also search for
+        contents in message bodies which have not been synchronized.</li>
+    </ul>
+<!-- TODO: stop localizing -->
+    <p><strong>Uwaga</strong>: menu będzie niedostępne, jeżeli nie będzie możliwe wyszukiwanie w wiadomościach przechowywanych na serwerze (np. w przypadku kont POP).</p>
   </li>
   <li>Wybrać, która z opcji dopasowywania warunków będzie używana w czasie wyszukiwania: spełnianie wszystkich czy dowolnego z kryteriów.</li>
   <li>Użyć rozwijalnych list, aby wybrać kryteria wyszukiwania (przykładowo <q>Temat</q> i <q>zawiera</q>) i następnie wpisać tekst lub frazę do wyszukania.

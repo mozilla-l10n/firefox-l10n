@@ -109,6 +109,9 @@
     <ul>
       <li>Należy określić typ serwera poczty przychodzącej (POP lub IMAP). Nie wszyscy dostawcy internetowi obsługują oba standardy. Więcej informacji w rozdziale <a href="mailnews_account_settings.xhtml#server_settings">Ustawienia kont pocztowych i grup dyskusyjnych &mdash; Konfiguracja serwerów</a>.</li>
       <li>Wprowadzić nazwę serwera poczty przychodzącej.</li>
+<!-- TODO: start localizing -->
+     <li>Check the <q>Leave messages on server</q> checkbox if you want to leave messages on the server so that when you download messages, &brandShortName; does not remove the messages from the server.</li>
+<!-- TODO: stop localizing -->
 	  <li>Jeżeli użytkownik chce, aby to konto było częścią Globalnej skrzynki odbiorczej, to opcja <q>Użyj globalnej skrzynki odbiorczej</q> powinna zostać zaznaczona. Wiadomości będą zachowywane w Lokalnych folderach. W&nbsp;przeciwnym przypadku wiadomości będą zachowywane we własnym folderze konta.
 			
         <p><strong>Uwaga</strong>: domyślnie Kurier Poczty będzie używał jednego serwera poczty wychodzącej (SMTP), nawet jeżeli użytkownik używa różnych kont pocztowych. Nazwa serwera <a href="glossary.xhtml#smtp">SMTP</a> może nie być bezpośrednio wyróżniona w informacjach o ustawieniach konta dostarczonych użytkownikowi. Przykładowo, serwer SMTP może być tym samym komputerem co serwer POP lub IMAP. W razie wątpliwości należy skontaktować się z dostawcą usługi poczty elektronicznej lub administratora systemu.</p>
@@ -143,9 +146,11 @@ są poprawne. W razie wątpliwości należy skontaktować się dostawcą usługi
   <li>Z menu Edycja wybrać Konfigurację kont. Pojawi się okno Konfiguracja konta, gdzie dostępne są opcje:
     <ul>
       <li><strong>Dodaj konto</strong> - należy nacisnąć ten przycisk, aby dodać nowe konto pocztowe lub grup dyskusyjnych. W pokazanych oknach kreatora należy wpisać dokładnie podane informacje dotyczące ustawień konta/serwerów. Korzystając z przycisków Dalej i Wstecz, można się przemieszczać pomiędzy ekranami kreatora. Aby anulować działanie kreatora, należy nacisnąć przycisk Anuluj.</li>
-      <li><strong>Ustaw jako domyślne</strong> - ustawia zaznaczone konto jako domyślne. Konto domyślne jest wyświetlane na początku listy kont w oknie Kuriera Poczty. Dokonane zmiany zostaną zastosowane po ponownym otwarciu okna Kuriera Poczty.
+      <li id="set_as_default"><strong>Ustaw jako domyślne</strong> - ustawia zaznaczone konto jako domyślne. Konto domyślne jest wyświetlane na początku listy kont w oknie Kuriera Poczty. Dokonane zmiany zostaną zastosowane po ponownym otwarciu okna Kuriera Poczty.
 
-        <p>Kurier Poczty będzie automatycznie sprawdzał, czy na koncie domyślnym znajdują się nowe wiadomości. W przypadku, gdy serwer poczty przychodzącej domyślnego konta jest serwerem typu POP, Kurier Poczty nie będzie pobierał wiadomości, dopóki nie zostanie naciśnięty przycisk Pobierz na pasku narzędzi w głównym oknie programu.</p>
+<!-- TODO: start localizing -->
+        <p>The default account determines which address is filled into the From: field when you compose a new mail with either no other mail or news account active (i.e. Local Folders or a blogs &amp; news feeds account is selected), through an external application request, or by following a mailto: link.</p>
+<!-- TODO: stop localizing -->
       </li>
       <li><strong>Usuń konto</strong> - naciśnięcie tego przycisku spowoduje usunięcie konta, wszystkich jego wiadomości i ustawień.</li>
       <li><strong>Serwer poczty wychodzącej (SMTP)</strong>: opcja (znajdująca się na końcu listy kont) pozwala zmodyfikować dane serwerów poczty wychodzącej. Więcej informacji w rozdziale <a href="mailnews_account_settings.xhtml#outgoing_server">Ustawienia Kuriera Poczty &mdash; Serwer poczty wychodzącej (SMTP)</a>.</li>
