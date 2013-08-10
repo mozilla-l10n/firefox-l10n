@@ -119,7 +119,7 @@
 <!ENTITY setDefault.accesskey            "d">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; sélô rapòrtë ò felach, bë pòmòc &vendorShortName; i ùgwësnic sã, że przezérnik je stabilniészim i bezpieczniészim">
-<!ENTITY crashReporterLearnMore.label    "Wëwiedzë sã wicy">
+<!ENTITY crashReporterLearnMore.label    "Wëdowiedzë sã wicy">
 <!ENTITY crashReporterSection.label      "Sélôcz rapòrtów ò awariach">
 <!ENTITY dataChoicesTab.label            "Wëbiérk pòdôwków">
 <!ENTITY enableCrashReporter.accesskey   "a">
