@@ -15,7 +15,7 @@
 <!ENTITY standardPalette.label "Skoueriek">
 <!ENTITY webPalette.label "An holl livioù internet">
 <!ENTITY background.label "Drekleur evit :">
-<!ENTITY background.accessKey "d">
+<!ENTITY background.accessKey "D">
 <!ENTITY table.label "Taolenn">
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Kellig(où)">

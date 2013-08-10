@@ -5,7 +5,6 @@
 <!ENTITY Contact.tab                     "Darempred">
 <!ENTITY Contact.accesskey               "D">
 <!ENTITY Name.box                        "Anv">
-
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -140,12 +140,12 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Naoudi Jabber :">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Lesanv IRC :">
+<!ENTITY IRC.accesskey                  "L">
 
 <!ENTITY Photo.tab                      "Luc'hskeudenn">
 <!ENTITY Photo.accesskey                "u">
 <!ENTITY PhotoDesc.label                "Diuzit unan eus ar re da heul :">
-<!ENTITY IRC.label                      "Lesanv IRC :">
-<!ENTITY IRC.accesskey                  "L">
 <!ENTITY GenericPhoto.label             "Luc'hskeudenn rumm">
 <!ENTITY GenericPhoto.accesskey         "r">
 <!ENTITY DefaultPhoto.label             "Diouer">

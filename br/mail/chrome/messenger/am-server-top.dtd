@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Kadaviñ ar c'hemennadennoù">
 <!ENTITY securitySettings.label "Arventennoù diogelroez">
@@ -34,7 +34,7 @@
 <!ENTITY leaveOnServer.label "Leuskel ar c'hemennadennoù war an dafariad">
 <!ENTITY leaveOnServer.accesskey "s">
 <!ENTITY headersOnly.label "Tapout an talbennoù hepken">
-<!ENTITY headersOnly.accesskey "t">
+<!ENTITY headersOnly.accesskey "T">
 <!ENTITY deleteByAgeFromServer.label "Evit d'an uc'hek">
 <!ENTITY deleteByAgeFromServer.accesskey "u">
 <!ENTITY daysEnd.label "a zeizioù">
@@ -68,17 +68,17 @@
 <!ENTITY alwaysAuthenticate.label "Azgoulenn atav an dilesa pa vez kennasket ouzh an dafariad">
 <!ENTITY alwaysAuthenticate.accesskey "t">
 <!ENTITY newsrcFilePath.label "Restr newsrc :">
-<!ENTITY localPath.label "Kavlec'hiad lec'hel:">
+<!ENTITY newsrcPicker.label "Dizuañ ar restr newsrc">
 <!ENTITY abbreviate.label "Diskouez anvioù ar strolladoù-keleier e penel an teuliad posteloù evel :">
 <!ENTITY abbreviateOn.label "Anvioù klok ('netscape.public.mozilla.mail-news', da skouer)">
 <!ENTITY abbreviateOff.label "Anvioù berraet ('n.p.m.mail-news', da skouer)">
 <!ENTITY advancedButton.label "Kempleshoc'h …">
 <!ENTITY advancedButton.accesskey "K">
 <!ENTITY serverDefaultCharset.label "Bonegañ an arouezennoù dre ziouer :">
+<!ENTITY localPath.label "Kavlec'hiad lec'hel:">
 <!ENTITY localFolderPicker.label "Diuzañ ar c'havlec'hiadoù lec'hel :">
 <!ENTITY browseFolder.label "Furchal…">
 <!ENTITY browseFolder.accesskey "F">
-<!ENTITY newsrcPicker.label "Dizuañ ar restr newsrc">
 <!ENTITY browseNewsrc.label "Furchal…">
 <!ENTITY browseNewsrc.accesskey "F">
 

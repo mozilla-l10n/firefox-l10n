@@ -10,9 +10,9 @@
 <!ENTITY chooseFileLinkButton.label "Diuzañ ur restr…">
 <!ENTITY chooseFileLinkButton.accessKey "D">
 <!ENTITY makeUrlRelative.label "Daveel eo an URL ouzh lec'hiadur ar bajennad">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Eskemm etre an URL daveel ha dizave. Re eo deoc'h enrollañ ar bajennad a-raok kemm an dra-se.">
-
 <!-- Shared by Link and Image dialogs -->
+
 <!ENTITY LinkURLEditField.label "Enankañ lec'hiadur ur bajennad Web, ur restr lec'hel pe ziuzañ un eor anvet pe un talbenn diouzh roll an diflugell :">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "l">

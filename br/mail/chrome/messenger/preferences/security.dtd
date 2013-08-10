@@ -7,12 +7,12 @@
 <!ENTITY itemPasswords.label     "Gerioù-tremen">
 <!ENTITY itemAntiVirus.label     "Enep-viruzoù">
 <!ENTITY itemCookies.label       "Endalc'had Web">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Kefluniañ arventennoù ar posteloù lastez dre ziouer. Kefluniet e vez ur gont evit ar posteloù lastez e Arventennoù ar gont.">
 <!ENTITY manualMark.label "Pa verkan kemennadennoù evel lastez :">
 <!ENTITY manualMark.accesskey "v">
-<!ENTITY manualMarkModeMove.label "Dilec'hiañ anezho betek teuliad &quot;Lastez&quot; ar gont">
+<!ENTITY manualMarkModeMove.label "Dilec&apos;hiañ anezho betek teuliad &quot;Lastez&quot; ar gont">
 <!ENTITY manualMarkModeMove.accesskey "i">
 <!ENTITY manualMarkModeDelete.label "Dilemel anezho">
 <!ENTITY manualMarkModeDelete.accesskey "D">
@@ -24,15 +24,15 @@
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Adderaouekaat ar pleustriñ war ar roadennoù">
 <!ENTITY resetTrainingData.accesskey "A">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "Barrek eo &brandShortName; da zezrannañ kemennadennoù da gavout posteloù c'hwibañ dre glask an doareoù boutin arveret evit ho kwallbakañ.">
 <!ENTITY enablePhishingDetector1.label    "Lavar din hag-eñ emaon o lenn ur postel gant c'hwezh ar c'hwiberezh warnañ">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
 <!ENTITY useDownloadedList.label "Arverañ ur roll bet pellgarget eus posteloù stumm c'hwiberezh warno">
 <!ENTITY useDownloadedList.accesskey "u">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit ho holl kontoù.">
 <!ENTITY useMasterPassword.label        "Implijout ur ger-tremen mestr">
 <!ENTITY useMasterPassword.accesskey    "I">
@@ -41,13 +41,13 @@
 <!ENTITY changeMasterPassword.accesskey "K">
 <!ENTITY savedPasswords.label           "Gerioù-tremen enrollet…">
 <!ENTITY savedPasswords.accesskey       "e">
-
 <!-- Anti Virus -->
+
 <!ENTITY antiVirus.intro      "Gallout a ray &brandShortName; aesaat labour an enep-viruzoù da zielfennañ kemennadennoù ouzh ar viruzoù, a-raok ma vo gwaredet ar c'hemennadennoù war hoc'h urzhiataer.">
 <!ENTITY antiVirus.label      "Aotren an enep-viruzoù da lakaat en dispell ar c'hemennadennoù oc'h erruout.">
-<!ENTITY antiVirus.accesskey  "a">
-
+<!ENTITY antiVirus.accesskey  "A">
 <!-- Cookies -->
+
 <!ENTITY cookies.intro                  "&brandShortName; a ro tro deoc'h spisaat peseurt blogoù, lanvioù keleier, pe lec'hiennoù all zo aotreet da blantañ toupinoù.">
 <!ENTITY acceptCookies.label            "Degemer an toupinoù adalek lec'hiennoù">
 <!ENTITY acceptCookies.accesskey        "D">
@@ -60,7 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "e">
 <!ENTITY showCookies.label              "Diskwel an toupinoù…">
 <!ENTITY showCookies.accesskey          "s">
-
 <!-- Do Not Track -->
+
 <!ENTITY doNotTrack.label               "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
 <!ENTITY doNotTrack.accesskey           "v">

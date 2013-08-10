@@ -36,7 +36,7 @@
 <!ENTITY warnOnSendAccelKey.label             "Kadarnaat pa vez graet gant berradennoù klavier evit kas ur gemennadenn">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Enrollañ emgefre bep">
-<!ENTITY autoSave.accesskey                   "e">
+<!ENTITY autoSave.accesskey                   "E">
 <!ENTITY autoSaveEnd.label                    "a vunutennoù">
 
 <!ENTITY emailCollectionPicker.label           "Ouzhpennañ ent emgefreek ar chomlec'hioù eus ar posteloù kaset d'am :">

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Embann ar bajenn">
 <!ENTITY windowTitleSettings.label    "Arventennoù ar brudañ">
 <!ENTITY publishTab.label             "Brudañ">
 <!ENTITY settingsTab.label            "Arventennoù">
 <!ENTITY publishButton.label          "Brudañ">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Anv al lec'hienn:">
 <!ENTITY siteList.accesskey           "A">
 <!ENTITY siteList.tooltip             "Dibabit da beseurt lec'hienn e fell deoc'h brudañ">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "r">
 <!ENTITY removeButton.label           "Dilemel al lec'hienn">
 <!ENTITY removeButton.accesskey       "l">
-
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Brudañ lec'hiennoù">
 <!ENTITY serverInfo.label             "Stlennoù an dafariad">
 <!ENTITY loginInfo.label              "Stlennoù kennask">

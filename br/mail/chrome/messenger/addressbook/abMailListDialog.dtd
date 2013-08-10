@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Title -->
+
 <!ENTITY mailListWindow.title           "Roll skignañ">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Ouzhpennañ da :">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Roit posteloù da ouzhpennañ er roll-skignañ :">
 <!ENTITY UpButton.label                 "Dilec'hiañ d'ar c'hrec'h">
 <!ENTITY DownButton.label               "Dilec'hiañ d'an diaz">
-
 <!-- Access Keys -->
+
 <!ENTITY addToAddressBook.accesskey     "O">
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "n">

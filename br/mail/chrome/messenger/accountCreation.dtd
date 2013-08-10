@@ -56,6 +56,7 @@
 <!ENTITY switch-to-provisioner.label     "Kaout ur gont nevez">
 <!ENTITY switch-to-provisioner.accesskey "n">
 
+
 <!ENTITY warning.label                   "Diwallit !">
 <!ENTITY incomingSettings.label          "Arventennoù an dafariad degemer:">
 <!ENTITY outgoingSettings.label          "Arventennoù an dafariad kas:">

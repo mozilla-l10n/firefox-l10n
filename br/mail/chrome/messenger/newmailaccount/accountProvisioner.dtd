@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Skrammet eo ar bourchaserien a ginnig chomlec'hioù e-barzh ho rannvro nemetken. Klikit amañ a-benn diskouez an holl bourchaserien.">
 <!ENTITY error.line1 "Diskonfort, n'hallomp kavout chomlec'h postel aliet ebet.">
 <!ENTITY error.line2 "Gallout a rit klask lesanvioù pe dermenoù all a-benn kavout muioc'h a bosteloù">
-
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
+
 <!ENTITY error.suggest.before "Gallout a rit ivez esaeañ unan eus ">
 <!ENTITY error.suggest.middle "ar bourchaserien bosteloù digoust">
 <!ENTITY error.suggest.after ".">
-
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+
 <!ENTITY success.title.before "Demat ">
 <!ENTITY success.title.after ", hegerz eo ar chomlec'hioù da heul evidoc'h :">
 <!ENTITY success.tip "(Gallout a rit ivez klask lesanvioù pe dermenoù all a-benn kavout muioc'h a bosteloù)">

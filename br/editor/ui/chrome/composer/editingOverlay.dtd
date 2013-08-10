@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "Digeriñ ar restr…">
 <!ENTITY openFileCmd.accesskey "i">
 <!ENTITY openFileCmd.key "O">
@@ -14,7 +14,7 @@
 <!ENTITY saveCmd.label "Enrollañ">
 <!ENTITY saveCmd.accesskey "E">
 <!ENTITY saveAsCmd.label "Enrollañ evel…">
-<!ENTITY saveAsCmd.accesskey "e">
+<!ENTITY saveAsCmd.accesskey "E">
 <!ENTITY saveAsChangeEncodingCmd.label "Enrollañ ha kemmañ bonegañ an arouezioù">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY publishCmd.label "Brudañ">
@@ -24,16 +24,15 @@
 <!ENTITY publishAsCmd.accesskey "B">
 <!ENTITY fileRevert.label "Tuginañ">
 <!ENTITY fileRevert.accesskey "u">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "Arventennoù brudañ lec'hiennoù…">
 <!ENTITY publishSettings.accesskey "b">
-
 <!-- Toolbar buttons/items -->
+
 <!ENTITY newToolbarCmd.label "Nevez">
 <!ENTITY newToolbarCmd.tooltip "Sevel ur bajenn embanner nevez">
 <!ENTITY openToolbarCmd.label "Digeriñ">
 <!ENTITY openToolbarCmd.tooltip "Digeriñ ur restr lec'hel">
 <!ENTITY saveToolbarCmd.tooltip "Enrollañ ar restr en ul lec'hiadur lec'hel">
 <!ENTITY publishToolbarCmd.tooltip "Kargañ ar restr etrezek ul lec'hiadur a-bell">
-

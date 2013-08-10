@@ -11,7 +11,7 @@
 <!ENTITY  systemTypeRadio.label         "Arverañ arventennoù proksi ar reizhiad">
 <!ENTITY  systemTypeRadio.accesskey     "A">
 <!ENTITY  WPADTypeRadio.label           "EmZizoleiñ an arventennoù proksi evit ar rouedad-mañ">
-<!ENTITY  WPADTypeRadio.accesskey       "z">
+<!ENTITY  WPADTypeRadio.accesskey       "Z">
 <!ENTITY  manualTypeRadio.label         "Kefluniadur proksi dre zorn:">
 <!ENTITY  manualTypeRadio.accesskey     "z">
 <!ENTITY  autoTypeRadio.label           "URL kefluniañ emgefreek ar proksi:">
@@ -21,7 +21,7 @@
 <!ENTITY  http.label                    "Proksi HTTP :">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Proksi SSL :">
-<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Ostiz SOCKS :">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">

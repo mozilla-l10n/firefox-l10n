@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Skoazell">
 <!ENTITY helpMenu.accesskey "S">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -10,7 +10,7 @@
 <!ENTITY helpMenuWin.label "Skoazell">
 <!ENTITY helpMenuWin.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Titouroù disac'hañ">
-<!ENTITY helpTroubleshootingInfo.accesskey "t">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Notennoù handelv">

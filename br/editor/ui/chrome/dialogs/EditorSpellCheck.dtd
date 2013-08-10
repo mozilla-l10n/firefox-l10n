@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Gwiriañ ar reizhskrivañ">
 
 <!ENTITY misspelledWord.label "Ger skrivet fall :">
@@ -13,15 +13,15 @@
 <!ENTITY suggestions.label "Kinnigoù :">
 <!ENTITY suggestions.accessKey "n">
 <!ENTITY ignoreButton.label "Leuskel a-gostez">
-<!ENTITY ignoreButton.accessKey "l">
+<!ENTITY ignoreButton.accessKey "L">
 <!ENTITY ignoreAllButton.label "Leuskel pep tra a-gostez ">
 <!ENTITY ignoreAllButton.accessKey "t">
 <!ENTITY replaceButton.label "Amsaviñ">
 <!ENTITY replaceButton.accessKey "s">
 <!ENTITY replaceAllButton.label "Amsaviñ pep tra">
-<!ENTITY replaceAllButton.accessKey "E">
+<!ENTITY replaceAllButton.accessKey "e">
 <!ENTITY stopButton.label "Paouez">
-<!ENTITY stopButton.accessKey "p">
+<!ENTITY stopButton.accessKey "P">
 <!ENTITY userDictionary.label "Geriadur personel :">
 <!ENTITY moreDictionaries.label "Pellgargañ muioc'h a c'heriadurioù">
 <!ENTITY addToUserDictionaryButton.label "Ouzhpennañ ar ger">
@@ -29,10 +29,10 @@
 <!ENTITY editUserDictionaryButton.label "Embann…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Gwiriañ ar bajennad en-dro">
-<!ENTITY recheckButton.accessKey "g">
+<!ENTITY recheckButton.accessKey "G">
 <!ENTITY closeButton.label "Serriñ">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Kas">
 <!ENTITY sendButton.accessKey "K">
 <!ENTITY languagePopup.label "Yezh :">
-<!ENTITY languagePopup.accessKey "y">
+<!ENTITY languagePopup.accessKey "Y">

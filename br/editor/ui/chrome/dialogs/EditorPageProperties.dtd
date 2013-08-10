@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Perzhioù ar bajenn">
 <!ENTITY location.label "Lec'hiadur:">
 <!ENTITY lastModified.label "Kemm diwezhañ:">
@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Pajenn nevez, ket enrollet c'hoazh]">
 <!ENTITY EditHEADSource1.label "Arveriaded barrek:">
-<!ENTITY EditHEADSource2.label "Evit embann endalc'hadoù all eus ar gevrenn &lt;head&gt;, implijit &quot;Tarzh HTML&quot; el lañser Gwelout pe er varrenn ostilhoù Embann.">
+<!ENTITY EditHEADSource2.label "Evit embann endalc&apos;hadoù all eus ar gevrenn &lt;head&gt;, implijit &quot;Tarzh HTML&quot; el lañser Gwelout pe er varrenn ostilhoù Embann.">

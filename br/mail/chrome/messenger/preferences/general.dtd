@@ -29,7 +29,7 @@
 <!ENTITY systemsound.label                "Son ar reizhiad dre ziouer evit ur postel nevez">
 <!ENTITY systemsoundMac.label             "Son evezhiañ ar reizhiad ">
 <!ENTITY systemsoundMac.accesskey         "r">
-<!ENTITY systemsound.accesskey            "s">
+<!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Ober gant ar restr son da heul">
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Furchal…">

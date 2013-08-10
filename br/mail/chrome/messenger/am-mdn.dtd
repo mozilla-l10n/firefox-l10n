@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Leuskel anezhañ em boestad-lizheroù">
 <!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Dilec'hiañ hi em zeuliad &quot;Kaset&quot;">
+<!ENTITY moveToSent.label             "Dilec&apos;hiañ hi em zeuliad &quot;Kaset&quot;">
 <!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Pa resevan un azgoulenn evit un testeni-degemer :">
 <!ENTITY returnSome.label             "Aotren an testenioù-degemer evit kemennadennoù zo">
@@ -27,7 +27,7 @@
 <!ENTITY outsideDomain.label          "Ma 'z eo ar c'hasour a-ziavaez ma domani :">
 <!ENTITY outsideDomain.accesskey      "s">
 <!ENTITY otherCases.label             "A-hend-all :">
-<!ENTITY otherCases.accesskey         "a">
+<!ENTITY otherCases.accesskey         "A">
 <!ENTITY askMe.label                  "Goulenn ganin">
 <!ENTITY alwaysSend.label             "Kas bepred">
 <!ENTITY neverSend.label              "Chom hep kas atav">

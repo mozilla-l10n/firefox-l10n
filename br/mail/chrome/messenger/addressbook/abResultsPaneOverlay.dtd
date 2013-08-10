@@ -13,7 +13,7 @@
 <!ENTITY NickName.label                        "Moranv">
 <!ENTITY NickName.accesskey                    "o">
 <!ENTITY SecondEmail.label                     "Postel Ouzhpenn">
-<!ENTITY SecondEmail.accesskey                 "o">
+<!ENTITY SecondEmail.accesskey                 "O">
 <!ENTITY Department.label                      "Departamant">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Titl">

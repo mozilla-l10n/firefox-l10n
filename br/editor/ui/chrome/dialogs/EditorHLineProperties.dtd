@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Perzhioù linennoù a-blaen">
 
 <!ENTITY dimensionsBox.label "Mentoù">
@@ -23,5 +23,5 @@
 <!ENTITY threeDShading.label "Skeudiñ 3M">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Arverañ evel arventenn dre ziouer">
-<!ENTITY saveSettings.accessKey "D">
+<!ENTITY saveSettings.accessKey "d">
 <!ENTITY saveSettings.tooltip "Enrollañ an arventennoù-se da vezañ implijet pa vez enlakaet linennoù a-zremm">

@@ -9,20 +9,20 @@
 <!ENTITY newsSectionHdr.label         "Strolladoù-keleier">
 <!ENTITY subscribeNewsLink.label      "Ardeiñ ar c'houmanantoù da strolladoù-keleier">
 
-<!ENTITY accountsSectionHdr.label     "Kontoù">
-<!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantoù">
-<!ENTITY settingsLink.label           "Gwelout an arventennoù evit ar gont-se">
+<!ENTITY feedsSectionHdr.label        "Strolladoù-keleier ha Blogoù">
+<!ENTITY subscribeFeeds.label         "Ardeiñ ar c'houmanantoù">
+
 <!ENTITY chat.label                   "Flapiñ">
 <!ENTITY movemail.label               "Movemail">
 
+<!ENTITY accountsSectionHdr.label     "Kontoù">
+<!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantoù">
+<!ENTITY settingsLink.label           "Gwelout an arventennoù evit ar gont-se">
 <!ENTITY newAcctLink.label            "Krouiñ ur gont nevez">
+<!ENTITY newAcct.label                "Krouiñ ur gont nevez :">
 
 <!ENTITY advFeaturesSectionHdr.label  "Keweriusterioù kempleshoc'h">
 <!ENTITY searchMsgsLink.label         "Klask er c'hemennadennoù">
-<!ENTITY newAcct.label                "Krouiñ ur gont nevez :">
 <!ENTITY filtersLink.label            "Ardeiñ siloù ar c'hemennadennoù">
 <!ENTITY junkSettings.label           "Arventennoù ar posteloù lastez">
 <!ENTITY offlineLink.label            "Arventennoù ezlinenn">
-
-<!ENTITY feedsSectionHdr.label        "Strolladoù-keleier ha Blogoù">
-<!ENTITY subscribeFeeds.label         "Ardeiñ ar c'houmanantoù">

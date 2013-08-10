@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 
 <!ENTITY MsgSynchronize.label " Pellgargañ ha goubredañ kemennadennoù">
 <!ENTITY MsgSelect.label "Ergorenn evit un arver ezlinenn">
-<!ENTITY MsgSyncDesc.label "Mard hoc'h eus diuzet teuliadoù ar posteloù pe strolladoù keleier evit un arver ezlinenn e vez pellgarget ha/pe goubredet anezho bremañ. A-hend-all, arverit an afell &quot;Diuzañ&quot; evit diuzañ teuliadoù ar posteloù ha strolladoù keleier evit un arver ezlinenn.">
+<!ENTITY MsgSyncDesc.label "Mard hoc&apos;h eus diuzet teuliadoù ar posteloù pe strolladoù keleier evit un arver ezlinenn e vez pellgarget ha/pe goubredet anezho bremañ. A-hend-all, arverit an afell &quot;Diuzañ&quot; evit diuzañ teuliadoù ar posteloù ha strolladoù keleier evit un arver ezlinenn.">
 <!ENTITY MsgSyncDirections.label "Pellgargañ ha/pe goubredañ an hini da heul :">
 <!ENTITY syncTypeMail.label "Kemennadennoù dre bosteloù">
 <!ENTITY syncTypeMail.accesskey "m">

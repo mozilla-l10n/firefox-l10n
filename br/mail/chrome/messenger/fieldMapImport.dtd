@@ -13,7 +13,7 @@
 <!ENTITY fieldMapImport.up.label "Dilec'hiañ da grec'h">
 <!ENTITY fieldMapImport.up.accesskey "l">
 <!ENTITY fieldMapImport.down.label "Dilec'hiañ d'an diaz">
-<!ENTITY fieldMapImport.down.accesskey "d">
+<!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Maeziennoù ar c'harned chomlec'hioù">
 <!ENTITY fieldMapImport.dataTitle "Roadennoù enrollañ da enporzhiañ">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Maezienn an anvioù zo e-barzh an enrolladur kentañ">

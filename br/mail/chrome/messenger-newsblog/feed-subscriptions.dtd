@@ -1,16 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Koumanantoù da lanvioù">
-<!ENTITY subscriptionDesc.label "Notenn : Mar bez dilec'hiet pe gemmet an teuliad evit ul lanv ne vo ket tizhet ar pennadoù bet pellgarget a-raok.">
+
+<!ENTITY feedSubscriptions.label     "Koumanantoù da lanvioù">
+<!ENTITY subscriptionDesc.label      "Notenn : Mar bez dilec'hiet pe gemmet an teuliad evit ul lanv ne vo ket tizhet ar pennadoù bet pellgarget a-raok.">
 
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL al lanv : ">
-<!ENTITY feedLocation.accesskey      "l">
+<!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Bizskrivit ur chomlec'h lanv talvoudek da ouzhpennañ">
 
 <!ENTITY feedFolder.label            "Gwarediñ pennadoù al lanv e :">

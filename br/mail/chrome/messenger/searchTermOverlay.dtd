@@ -8,12 +8,12 @@
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Kenglotañ gant an holl gemennadennoù">
 <!ENTITY matchAllMsgs.accesskey "m">
-
-<!-- LOCALIZATION NOTE  
+<!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY searchTermListAttributesFlexValue "4">
 <!ENTITY searchTermListOperatorsFlexValue "4">
 <!ENTITY searchTermListValueFlexValue "4">

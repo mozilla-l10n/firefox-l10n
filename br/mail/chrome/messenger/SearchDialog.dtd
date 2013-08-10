@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Klask kemennadennoù e-barzh :">
-<!ENTITY searchHeading.accesskey     "k">
+<!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Klask isteuliadoù">
 <!ENTITY searchSubfolders.accesskey  "i">
 <!ENTITY searchOnServer.label        "Loc'hañ an enklask war an dafariad">
@@ -26,8 +26,8 @@
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Enrollañ evel teuliad-klask">
 <!ENTITY saveAsVFButton.accesskey    "a">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Klask e-barzh :">
 <!ENTITY abSearchHeading.accesskey   "s">
 <!ENTITY propertiesButton.label      "Perzhioù">
@@ -35,8 +35,8 @@
 <!ENTITY composeButton.label         "Skrivañ">
 <!ENTITY composeButton.accesskey     "S">
 <!ENTITY abSearchDialogTitle.label   "Klask kempleshoc'h er c'harned posteloù">
-
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Neudennad">
 <!ENTITY fromColumn.label "A-berzh">
 <!ENTITY recipientColumn.label "Degemerer">
@@ -55,8 +55,8 @@
 <!ENTITY starredColumn.label "Steredennet">
 <!ENTITY locationColumn.label "Lec'hiadur">
 <!ENTITY idColumn.label "Urzh degemer">
-
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Klikit evit diuzañ ar bannoù da ziskouez">
 <!ENTITY threadColumn.tooltip "Klikit evit diskouez neudennadoù kemennadennoù"> 
 <!ENTITY fromColumn.tooltip "Klikit evit rummañ dre ar c'haser">

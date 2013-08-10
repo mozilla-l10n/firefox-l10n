@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Assav an estez">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Hum, nec'hus eo.">
 <!ENTITY restorepage.problemDesc    "Diaesterioù en deus &brandShortName; oc'h assav ho prenestroù hag hoc'h ivinelloù. Peurliesañ e c'hoarvez an dra-se abalamour d'ur bajenn digoret nevez zo.">
 <!ENTITY restorepage.tryThis        "Gallout a rit klask :">

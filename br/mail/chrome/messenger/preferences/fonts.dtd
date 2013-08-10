@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhieg">
 <!ENTITY  font.langGroup.khmer                    "Khmereg">
 <!ENTITY  font.langGroup.malayalam                "Malayalameg">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Ment izek an nodrezh :">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "tra ebet">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Hep Serif">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Gwiriañ an nodrezh">
 <!ENTITY  useFixedWidthForPlainText.label         "Arverañ un nodrezh gant ul led digemmus evit ar c'hemennadennoù testenn">
 <!ENTITY  fixedWidth.accesskey                    "A">
 <!ENTITY  useDocumentFonts.label                  "Aotren ar c'hemennadennoù da arverañ nodrezhoù all">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Postel o vont er-maez :">
 <!ENTITY sendDefaultCharset.accesskey     "o">
 <!ENTITY languagesTitle1.label            "Bonegañ an arouezennoù">

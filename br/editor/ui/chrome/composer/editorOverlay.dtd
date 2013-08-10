@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY saveCmd.key "S">
 
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
+
 <!ENTITY pasteNoFormatting.label "Pegañ hep furmaozañ">
 <!ENTITY pasteNoFormatting.accesskey "h">
 <!ENTITY pasteNoFormatting.key "V">
@@ -22,8 +22,8 @@
 <!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ…">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "Enlakaat">
 <!ENTITY insertMenu.accesskey "E">
 <!ENTITY insertLinkCmd.label "Ere…">
@@ -40,17 +40,17 @@
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Arouezennoù hag arouezioù…">
-<!ENTITY insertCharsCmd.accesskey "a">
+<!ENTITY insertCharsCmd.accesskey "A">
 <!ENTITY insertBreakAllCmd.label "Troc'h dindan ar skeudenn(où)">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-
 <!-- Used just in context popup. -->
+
 <!ENTITY createLinkCmd.label "Krouiñ un ere…">
 <!ENTITY createLinkCmd.accesskey "r">
 <!ENTITY editLinkCmd.label "Embann an ere en ur bajennad nevez">
 <!ENTITY editLinkCmd.accesskey "m">
-
 <!-- Font Face SubMenu -->
+
 <!ENTITY FontFaceSelect.tooltip "Diuz un nodrezh">
 <!ENTITY fontfaceMenu.label "Nodrezh">
 <!ENTITY fontfaceMenu.accesskey "N">
@@ -65,17 +65,19 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "Diuzañ ur vent nodrezh">
 <!ENTITY decreaseFontSize.label "Bihanoc'h">
 <!ENTITY decreaseFontSize.accesskey "B">
 <!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Brasoc'h">
 <!ENTITY increaseFontSize.accesskey "s">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Ment">
 <!ENTITY fontSizeMenu.accesskey "e">
@@ -93,8 +95,8 @@
 <!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-ledan">
 <!ENTITY size-xx-largeCmd.accesskey "l">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "Stil testenn">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Tev">
@@ -104,7 +106,7 @@
 <!ENTITY styleItalicCmd.accesskey "S">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Islinennañ">
-<!ENTITY styleUnderlineCmd.accesskey "i">
+<!ENTITY styleUnderlineCmd.accesskey "I">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "En arosod outi">
 <!ENTITY styleStrikeThruCmd.accesskey "r">
@@ -113,7 +115,7 @@
 <!ENTITY styleSubscriptCmd.label "Feur">
 <!ENTITY styleSubscriptCmd.accesskey "F">
 <!ENTITY styleNonbreakingCmd.label "Didorr">
-<!ENTITY styleNonbreakingCmd.accesskey "d">
+<!ENTITY styleNonbreakingCmd.accesskey "D">
 <!ENTITY styleEm.label "Splannaat">
 <!ENTITY styleEm.accesskey "p">
 <!ENTITY styleStrong.label "Splannaat kreñvoc'h">
@@ -162,8 +164,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "L">
 <!ENTITY paragraphPreformatCmd.label "Rakmentrezh">
 <!ENTITY paragraphPreformatCmd.accesskey "m">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "Roll">
 <!ENTITY formatlistMenu.accesskey "l">
 <!ENTITY noneCmd.label "Tra ebet">
@@ -171,11 +173,11 @@
 <!ENTITY listBulletCmd.label "Gant padelligoù">
 <!ENTITY listBulletCmd.accesskey "p">
 <!ENTITY listNumberedCmd.label "Niverennet">
-<!ENTITY listNumberedCmd.accesskey "n">
+<!ENTITY listNumberedCmd.accesskey "N">
 <!ENTITY listTermCmd.label "Termen">
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Despizadenn">
-<!ENTITY listDefinitionCmd.accesskey "d">
+<!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Perzhioù ar rollad…">
 <!ENTITY listPropsCmd.accesskey "l">
 
@@ -186,8 +188,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Perzhioù kempleshoc'h">
 <!ENTITY advancedPropertiesCmd.accesskey "r">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "Desteudañ">
 <!ENTITY alignMenu.accesskey "e">
 <!ENTITY alignLeft.label "Kleiz">
@@ -202,8 +204,8 @@
 <!ENTITY alignJustify.label "Marzekaat">
 <!ENTITY alignJustify.accesskey "r">
 <!ENTITY alignJustify.tooltip "Desteudañ marzekaet">
-
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "Gwiskad">
 <!ENTITY layerSendToBack.tooltip "Kas d'an drekleur">
 <!ENTITY layerBringToFront.tooltip "Kas d'ar rakleur">
@@ -217,12 +219,12 @@
 
 <!ENTITY colorsAndBackground.label "Drekleur ha livioù ar bajennad…">
 <!ENTITY colorsAndBackground.accesskey "u">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "Taolenn">
 <!ENTITY tableMenu.accesskey "T">
-
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Diuzañ">
 <!ENTITY tableSelectMenu.accesskey "D">
 
@@ -232,8 +234,8 @@
 <!ENTITY tableInsertMenu2.accesskey "n">
 <!ENTITY tableDeleteMenu2.label "Dilemel an daolenn">
 <!ENTITY tableDeleteMenu2.accesskey "i">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "Enlakaat">
 <!ENTITY tableInsertMenu.accesskey "E">
 <!ENTITY tableTable.label "Taolenn">
@@ -266,12 +268,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Dilemel">
 <!ENTITY tableDeleteMenu.accesskey "D">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Troc'hañ ar gellig e daou">
@@ -280,8 +282,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Perzhioù an daolenn…">
 <!ENTITY tableProperties.accesskey "o">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "Barrenn lañser">
 <!ENTITY formatToolbar.tooltip "Barrenn ostilhoù mentrezhañ">
 <!ENTITY cutToolbarCmd.tooltip "Troc'hañ">
@@ -307,8 +309,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Dibab al liv evit an drekleur">
 <!ENTITY throbber.tooltip "Mont da bajenn &vendorShortName; ">
 <!ENTITY HighlightColorButton.tooltip "Dibab al liv sklêrijennañ evit an destenn">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ment nodrezh bihanoc'h">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ment nodrezh brasoc'h">
 <!ENTITY boldToolbarCmd.tooltip "Tev">
@@ -324,16 +326,16 @@
 <!ENTITY alignCenterButton.tooltip "Desteudañ an destenn e kreiz">
 <!ENTITY alignRightButton.tooltip "Desteudañ an destenn a-hed ar marz dehou">
 <!ENTITY alignJustifyButton.tooltip "Marzekaat an destenn a-hed ar marzoù kleiz ha dehou">
-
 <!-- Structure Toolbar Context Menu items -->
+
 <!ENTITY structSelect.label         "Diuzañ">
 <!ENTITY structSelect.accesskey     "D">
 <!ENTITY structRemoveTag.label      "Lemel kuit ar c'hlav">
 <!ENTITY structRemoveTag.accesskey  "r">
 <!ENTITY structChangeTag.label      "Kemmañ ar c'hlav">
 <!ENTITY structChangeTag.accesskey  "m">
-
 <!-- TOC manipulation -->
+
 <!ENTITY insertTOC.label          "Enlakaat">
 <!ENTITY insertTOC.accesskey      "E">
 <!ENTITY updateTOC.label          "Hizivaat">

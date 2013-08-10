@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,8 +14,8 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Merdeiñ prevez)">
-
 <!-- Tab context menu -->
+
 <!ENTITY  reloadTab.label                    "Adkargañ an ivinell">
 <!ENTITY  reloadTab.accesskey                "A">
 <!ENTITY  reloadAllTabs.label                "Adkargañ an holl ivinelloù">
@@ -27,12 +27,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Serriñ an ivinelloù all">
 <!ENTITY  closeOtherTabs.accesskey           "S">
-
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+
 <!ENTITY  pinTab.label                       "Spilhennañ an ivinell">
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Dispilhennañ an ivinell">
@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Roll an holl ivinelloù">
 
 <!ENTITY tabCmd.label "Ivinell nevez">
-<!ENTITY tabCmd.accesskey "i">
+<!ENTITY tabCmd.accesskey "I">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Digeriñ ul lec'hiadur…">
 <!ENTITY openLocationCmd.accesskey "l">
@@ -60,7 +60,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Arventennoù ar bajenn…">
-<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printSetupCmd.accesskey "A">
 <!ENTITY printPreviewCmd.label "Alberz ar moullañ">
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Moullañ…">
@@ -89,9 +89,9 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Kregiñ ar mod skramm a-bezh">
-<!ENTITY enterFullScreenCmd.accesskey "S">
+<!ENTITY enterFullScreenCmd.accesskey "s">
 <!ENTITY exitFullScreenCmd.label "Kuitaat ar mod skramm a-bezh">
-<!ENTITY exitFullScreenCmd.accesskey "S">
+<!ENTITY exitFullScreenCmd.accesskey "s">
 <!ENTITY fullScreenCmd.label "Skramm a-bezh">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "s">
@@ -104,7 +104,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.label "Kuzhat ar varrenn ostilhoù">
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Kuitaat ar mod skramm a-bezh">
-<!ENTITY fullScreenExit.accesskey "k">
+<!ENTITY fullScreenExit.accesskey "K">
 <!ENTITY fullscreenAllowButton.label "Aotren">
 <!ENTITY fullscreenExitButton.label "Nac'hañ">
 <!ENTITY fullscreenApproval.value "Aotren ar mod skramm a-bezh ?">
@@ -163,8 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Klask">
 <!ENTITY throbberItem.title           "Meneger an oberiantiz">
 <!ENTITY bookmarksItem.title          "Sinedoù">
-
 <!-- Toolbar items --> 
+
 <!ENTITY appMenuButton.label          "Lañser">
 <!ENTITY appMenuButton.tooltip        "Digeriñ lañser &brandShortName;">
 <!ENTITY homeButton.label             "D'ar gêr">
@@ -184,10 +184,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.unsorted.label "Sinedoù dirummet">
 <!ENTITY viewBookmarksSidebar.label         "Diskouez er varrenn gostez">
 <!ENTITY viewBookmarksToolbar.label         "Gwelout barrenn ostilhoù ar sinedoù">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -201,14 +201,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …">
 <!ENTITY keywordfield.accesskey       "k">
 <!ENTITY search.label                 "Klask war ar genrouedad">
-<!ENTITY search.accesskey             "k">
+<!ENTITY search.accesskey             "K">
 <!ENTITY downloads.label              "Pellgargadurioù">
 <!ENTITY downloads.tooltip            "Gwelout araokadenn ar pellgargadurioù war erounit">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Askouezhioù">
-<!ENTITY addons.accesskey             "a">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Diorroer web">
@@ -232,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.label   "Gwel ergrafañ ersavus">
 <!ENTITY responsiveDesignTool.accesskey "e">
 <!ENTITY responsiveDesignTool.commandkey "M">
-
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -243,13 +242,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
 <!ENTITY scratchpad.label             "Bloc'h-notennañ">
 <!ENTITY scratchpad.accesskey         "B">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
 <!ENTITY chromeDebuggerMenu.label       "Diveuger ar merdeer">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Serriñ barrenn ostilhoù an diorroer">
@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ostilhoù">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.accesskey      "t">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Gweredekaat/Diweredekaat ostilhoù an diorroer">
 <!ENTITY devToolbarOtherToolsButton.label  "Muioc'h a ostilhoù">
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Restr"> 
-<!ENTITY fileMenu.accesskey       "r">
+<!ENTITY fileMenu.accesskey       "R">
 <!ENTITY newNavigatorCmd.label        "Prenestr nevez">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -345,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Bizskrivit un termen da glask pe ur chomlec'h">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Mont d'an ivinell :">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -366,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
@@ -419,7 +419,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.label      "Lakaat ur sined war an ere">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Merkañ ar frammad war ur sined">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY emailPageCmd.label           "Kas an ere dre bostel…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
@@ -463,11 +463,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "p">
 <!ENTITY thisFrameMenu.label              "Ar frammad-se">
 <!ENTITY thisFrameMenu.accesskey          "f">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "Lenn">
 <!ENTITY mediaPlay.accesskey         "L">
 <!ENTITY mediaPause.label            "Ehan">
@@ -510,17 +510,18 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "i">
 <!ENTITY videoHideStats.label        "Kuzhat ar stadegoù">
 <!ENTITY videoHideStats.accesskey    "u">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "Zoum brasaat">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "b">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoum bihanaat">
@@ -621,12 +622,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "hag a zo lañset gant">
 
 <!ENTITY identity.moreInfoLinkText "Muioc'h a stlennoù…">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Ivinelloù merdeer">
 
+<!ENTITY tabsToolbar.label "Ivinelloù merdeer">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
 <!ENTITY syncTabsMenu2.label     "Ivinelloù eus trevnadoù all">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -664,8 +665,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Diuzañ ar c'haozeadennoù">
 <!ENTITY social.chatBar.accesskey "c">
-
 <!-- labels are set dynamically, see browser.properties -->
+
 <!ENTITY social.markpage.accesskey "m">
 <!ENTITY social.marklink.accesskey "M">
 
@@ -683,9 +684,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pointerLock.notification.message "Pouezit war ESC evit diskouez anezhañ en-dro.">
 
 <!ENTITY pluginNotification.showAll.label "Diskouez pep tra">
-<!ENTITY pluginNotification.showAll.accesskey "S">
-
+<!ENTITY pluginNotification.showAll.accesskey "s">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
 <!ENTITY pluginActivateNow.label "Aotren diouzhtu">
 <!ENTITY pluginActivateAlways.label "Aotren ha derc'hel soñj">
 <!ENTITY pluginBlockNow.label "Herzel an enlugellad">

@@ -20,7 +20,7 @@
 <!ENTITY contextIncomingMail.label "Kerc'het kemennadennoù nevez :">
 <!ENTITY contextIncomingMail.accesskey "K">
 <!ENTITY contextManual.label "Lañset dre zorn">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Silañ a-raok dinoadur ar posteloù lastez">
 <!ENTITY contextAfterCls.label "Silañ goude dinoadur ar posteloù lastez">
 
@@ -29,8 +29,8 @@
 
 <!ENTITY filterActionOrderWarning.label "Notenn : Loc'het e vo gwezhioù ar siloù dre un urzh disheñvel.">
 <!ENTITY filterActionOrder.label "Gwelout urzh loc'hañ ar gwezhioù">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Dilec'hiañ ar gemennadenn etrezek">
 <!ENTITY copyMessage.label "Eilañ ar gemennadenn e">
 <!ENTITY forwardTo.label "Kas ar gemennadenn en-dro da">
@@ -51,11 +51,11 @@
 
 <!ENTITY addAction.tooltip "Ouzhpennañ ur gwezh nevez">
 <!ENTITY removeAction.tooltip "Lemel ar gwezh-mañ">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
