@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "뉴스 그룹">
 <!ENTITY feeds.label "피드">
 
-<!ENTITY unsetDefault.tooltip "&brandShortName;에서 &brandShortName;을 기본 클라이언트로 사용하지 않게 할 수는 없습니다. 다른 어플리케이션을 기본으로 사용하려면 해당 어플리케이션의 '기본으로 설정' 창을 이용하세요.">
+<!ENTITY unsetDefault.tooltip "&brandShortName;에서 &brandShortName;를 기본 클라이언트로 사용하지 않게 할 수 없습니다. 다른 어플리케이션을 기본으로 사용하려면 해당 어플리케이션의 '기본으로 설정' 창을 이용하세요.">
 
 <!ENTITY checkOnStartup.label "&brandShortName; 시작할 때 항상 확인">
 <!ENTITY checkOnStartup.accesskey "A">
