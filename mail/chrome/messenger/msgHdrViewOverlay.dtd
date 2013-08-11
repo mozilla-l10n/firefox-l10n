@@ -7,7 +7,7 @@
 <!ENTITY senderField4.label "보낸 사람 ">
 <!ENTITY organizationField4.label "조직 ">
 <!ENTITY replyToField4.label "답장 주소 ">
-<!ENTITY subjectField3.label "제목 ">
+<!ENTITY subjectField4.label "제목 ">
 <!ENTITY ccField4.label "Cc ">
 <!ENTITY bccField4.label "Bcc ">
 <!ENTITY newsgroupsField4.label "뉴스 그룹 ">
