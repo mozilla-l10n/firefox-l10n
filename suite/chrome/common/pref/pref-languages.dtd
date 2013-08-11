@@ -16,9 +16,10 @@
 <!ENTITY languages.customize.active.accesskey "I">
 <!ENTITY languages.customize.others.label "Otros:">
 <!ENTITY languages.customize.others.accesskey "O">
-<!ENTITY languages.customize.Charset.grouplabel "Codif. caracteres predeterminada">
-<!ENTITY languages.customize.DefaultCharset.label "Codificación predet.:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "C">
+<!ENTITY languages.customize.Fallback.grouplabel "Codificación de caracteres para contenido antiguo">
+<!ENTITY languages.customize.Fallback.label "Codificación de caracteres por defecto:">
+<!ENTITY languages.customize.Fallback.accesskey "C">
+<!ENTITY languages.customize.Fallback.desc "Usado para el contenido antiguo que omite declarar su codificación.">
 <!ENTITY languages.customize.others.examples "ej.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label "Arriba">
 <!ENTITY languages.customize.moveUp.accesskey "A">
