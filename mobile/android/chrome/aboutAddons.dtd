@@ -9,4 +9,4 @@
 <!ENTITY addonAction.disable "Desactivar">
 <!ENTITY addonAction.uninstall "Desinstalar">
 <!ENTITY addonAction.undo "Deshacer">
-<!ENTITY addonAction.setDefault "Configurar como predeterminado">
+<!ENTITY addonAction.setDefault "Usar como predeterminado">
