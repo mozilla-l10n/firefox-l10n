@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "받는 사람 ">
-<!ENTITY fromField3.label "보낸 사람 ">
-<!ENTITY senderField3.label "보낸 사람 ">
-<!ENTITY organizationField3.label "조직 ">
-<!ENTITY replyToField3.label "답장 주소 ">
+<!ENTITY toField4.label "받는 사람 ">
+<!ENTITY fromField4.label "보낸 사람 ">
+<!ENTITY senderField4.label "보낸 사람 ">
+<!ENTITY organizationField4.label "조직 ">
+<!ENTITY replyToField4.label "답장 주소 ">
 <!ENTITY subjectField3.label "제목 ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "뉴스 그룹 ">
-<!ENTITY followupToField3.label "전달 ">
-<!ENTITY tagsHdr3.label "태그  ">
-<!ENTITY dateField3.label "보낸 일자 ">
-<!ENTITY userAgentField3.label			"User Agent ">
-<!ENTITY referencesField3.label			"References ">
-<!ENTITY messageIdField3.label			"Message ID ">
-<!ENTITY inReplyToField3.label			"In Reply To ">
-<!ENTITY originalWebsite3.label "웹 사이트 ">
+<!ENTITY ccField4.label "Cc ">
+<!ENTITY bccField4.label "Bcc ">
+<!ENTITY newsgroupsField4.label "뉴스 그룹 ">
+<!ENTITY followupToField4.label "전달 ">
+<!ENTITY tagsHdr4.label "태그  ">
+<!ENTITY dateField4.label "보낸 일자 ">
+<!ENTITY userAgentField4.label			"User Agent ">
+<!ENTITY referencesField4.label			"References ">
+<!ENTITY messageIdField4.label			"Message ID ">
+<!ENTITY inReplyToField4.label			"In Reply To ">
+<!ENTITY originalWebsite4.label "웹 사이트 ">
 
 <!ENTITY editMessageDescription.label "이 메시지는 초안임">
 <!ENTITY editMessageButton.label "편집…">
@@ -33,6 +33,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "메일링 리스트로 답장">
 <!ENTITY hdrFollowupButton1.label		"팔로우업">
 <!ENTITY hdrFollowupButton1.tooltip		"이 뉴스 그룹에 팔로우업 투고">
+<!ENTITY hdrMenuForwardButton.label "다른 이름으로 전달">
 <!ENTITY hdrForwardButton1.label "전달">
 <!ENTITY hdrForwardButton1.tooltip "이 메시지를 전달">
 <!ENTITY hdrJunkButton1.label "스팸 표시">
