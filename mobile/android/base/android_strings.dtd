@@ -58,6 +58,8 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elección de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
+<!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsquedas">
+<!ENTITY pref_search_tip "CONSEJO: añada un sitio web a su lista de proveedores de búsqueda con una pulsación larga en su campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Saber más">
@@ -114,6 +116,10 @@
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "PUF">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
+<!ENTITY pref_search_set_default "Usar como predeterminado">
+<!ENTITY pref_search_default "Predeterminado">
+<!ENTITY pref_search_remove "Eliminar">
+<!ENTITY pref_search_last_toast "No puede eliminar ni desactivar su último buscador.">
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir qué información compartir">
 <!ENTITY datareporting_notification_action "Elegir qué compartir">
@@ -151,9 +157,8 @@
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincr.">
-<!ENTITY wallpaper_success "Fondo de pantalla actualizado">
-<!ENTITY wallpaper_progress "Configurando fondo de pantalla">
-<!ENTITY wallpaper_fail "Imposible configurar el fondo de pantalla">
+<!ENTITY set_image_fail "No se puede establecer la imagen">
+<!ENTITY set_image_chooser_title "Usar imagen como">
 <!ENTITY find_text "Buscar en la página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
@@ -247,11 +252,11 @@
 <!ENTITY updater_downloading_retry2 "Pulse para reintentar">
 <!ENTITY updater_apply_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_apply_select2 "Pulse para actualizar">
-<!ENTITY enter_guest_mode "Entrar en modo invitado">
-<!ENTITY exit_guest_mode "Salir del modo invitado">
-<!ENTITY guest_mode_dialog_continue "Continuar">
-<!ENTITY guest_mode_dialog_cancel "Cancelar">
-<!ENTITY guest_mode_enter_title "Modo invitado">
-<!ENTITY guest_mode_enter_text "Durante el modo invitado, la persona que use &brandShortName; no podrá ver ninguno de sus datos personales de navegación (como sus contraseñas, historial o marcadores guardados).\n\nCuando el invitado acabe, sus datos de navegación serán eliminados.">
-<!ENTITY guest_mode_leave_title "Saliendo del modo invitado">
-<!ENTITY guest_mode_leave_text "&brandShortName; eliminará sus datos de navegación de esta sesión.">
+<!ENTITY new_guest_session "Nueva sesión de invitado">
+<!ENTITY exit_guest_session "Salir de sesión de invitado">
+<!ENTITY guest_session_dialog_continue "Continuar">
+<!ENTITY guest_session_dialog_cancel "Cancelar">
+<!ENTITY new_guest_session_title "&brandShortName; se reiniciará ahora">
+<!ENTITY new_guest_session_text "La persona que lo use no podrá ver ninguno de sus datos de navegación personales (como contraseñas, historial y marcadores guardados).\n\nCuando su invitado acabe, sus datos de navegación serán eliminados y se restaurará su sesión. ">
+<!ENTITY exit_guest_session_title "&brandShortName; se reiniciará ahora">
+<!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión serán eliminados.">
