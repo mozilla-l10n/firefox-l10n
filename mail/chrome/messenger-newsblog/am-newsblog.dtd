@@ -11,6 +11,7 @@
 <!ENTITY useQuickMode.accesskey "B">
 <!ENTITY manageSubscriptions.label "구독 관리…">
 <!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY feedWindowTitle.label "피드 계정 마법사">
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY feeds.accountName            "블로그 및 뉴스 피드">
 <!ENTITY feeds.wizardShortName        "피드">
