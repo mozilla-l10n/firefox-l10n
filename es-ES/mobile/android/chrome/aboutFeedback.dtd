@@ -7,14 +7,15 @@
 <!ENTITY intro.message "Díganos qué piensa sobre &brandShortName; para Android hasta ahora.">
 <!ENTITY intro.happyLink "Me encanta">
 <!ENTITY intro.sadLink "Tengo algunos problemas">
-<!ENTITY support.pre "Si necesita ayuda o tiene un problema con &brandShortName;, por favor visite ">
+<!ENTITY intro.maybeLater "Quizá más tarde">
+<!ENTITY support.pre2 "También puede visitar ">
 <!ENTITY support.link "Asistencia de &brandShortName;">
-<!ENTITY support.post ".">
+<!ENTITY support.post2 " para más información.">
 <!ENTITY happy.header "¡Esto está bien!">
 <!ENTITY happy.message "¿Le gustaría compartir su amor hacia nosotros dándonos una puntuación de 5 estrellas en Google Play?">
 <!ENTITY happy.finePrint "Tardará menos de un minuto y se sentirá bien.">
 <!ENTITY happy.ratingLink "Sí, ir a Google Play">
-<!ENTITY happy.maybeLater "Quizás después">
+<!ENTITY happy.maybeLater2 "Quizá más tarde">
 <!ENTITY happy.noThanks "No, gracias">
 <!ENTITY sad.message "Sentimos si ha tenido algún problema con &brandShortName;. Por favor, díganos qué ha pasado para que podamos arreglarlo.">
 <!ENTITY sad.placeholder "Escriba su opinión aquí">
