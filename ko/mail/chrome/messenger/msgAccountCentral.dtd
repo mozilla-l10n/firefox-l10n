@@ -7,6 +7,10 @@
 <!ENTITY composeMsgLink.label "새 메시지 작성">
 <!ENTITY newsSectionHdr.label "뉴스 그룹">
 <!ENTITY subscribeNewsLink.label "뉴스 그룹 구독">
+
+<!ENTITY chat.label                   "대화">
+<!ENTITY movemail.label               "메일이동">
+
 <!ENTITY accountsSectionHdr.label "계정">
 <!ENTITY subscribeImapFolders.label "폴더 구독 관리">
 <!ENTITY settingsLink.label "계정 설정 보기">
