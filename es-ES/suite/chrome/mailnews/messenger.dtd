@@ -137,7 +137,7 @@
 <!ENTITY sortByStatusCmd.label "Estado">
 <!ENTITY sortByStatusCmd.accesskey "E">
 <!ENTITY sortByTagsCmd.label "Etiquetas">
-<!ENTITY sortByTagsCmd.accesskey "i">
+<!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Estado de correo basura">
 <!ENTITY sortByJunkStatusCmd.accesskey "b">
 <!ENTITY sortBySubjectCmd.label "Asunto">
@@ -145,11 +145,11 @@
 <!ENTITY sortByFromCmd.label "Remitente">
 <!ENTITY sortByFromCmd.accesskey "m">
 <!ENTITY sortByRecipientCmd.label "Destinatario">
-<!ENTITY sortByRecipientCmd.accesskey "s">
+<!ENTITY sortByRecipientCmd.accesskey "i">
 <!ENTITY sortByUnreadCmd.label "Leídos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orden de recepción">
-<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortByOrderReceivedCmd.accesskey "c">
 <!ENTITY sortByAttachmentsCmd.label "Adjuntos">
 <!ENTITY sortByAttachmentsCmd.accesskey "j">
 <!ENTITY sortAscending.label "Ascendente">
