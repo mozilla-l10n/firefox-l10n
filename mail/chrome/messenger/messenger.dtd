@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "받기">
+<!ENTITY getMsgButton.label "받기">
 <!ENTITY newMsgButton.label "쓰기">
 <!ENTITY replyButton.label "회신">
 <!ENTITY replyAllButton.label "모두 회신">
