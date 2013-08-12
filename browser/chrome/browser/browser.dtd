@@ -121,17 +121,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label        "Blêdwizer fan dizze side meitsje">
 <!ENTITY bookmarkThisPageCmd.commandkey   "d">
 <!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Diel dizze side">
-<!ENTITY sharePageCmd.commandkey "s">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Diel dizze keppeling">
-<!ENTITY shareLinkCmd.accesskey "z">
-<!ENTITY shareImageCmd.label "Diel dizze ôfbylding">
-<!ENTITY shareImageCmd.accesskey "z">
-<!ENTITY shareSelectCmd.label "Diel seleksje">
-<!ENTITY shareSelectCmd.accesskey "z">
-<!ENTITY shareVideoCmd.label "Diel dizze fideo">
-<!ENTITY shareVideoCmd.accesskey "z">
+<!ENTITY sharePageCmd.label "Dizze side diele">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "d">
+<!ENTITY shareLinkCmd.label "Dizze keppeling diele">
+<!ENTITY shareLinkCmd.accesskey "d">
+<!ENTITY shareImageCmd.label "Dizze ôfbylding diele">
+<!ENTITY shareImageCmd.accesskey "d">
+<!ENTITY shareSelectCmd.label "Seleksje diele">
+<!ENTITY shareSelectCmd.accesskey "d">
+<!ENTITY shareVideoCmd.label "Dizze fideo diele">
+<!ENTITY shareVideoCmd.accesskey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
 <!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side…">
 <!ENTITY addCurPagesCmd.label         "Blêdwizer foar alle ljepblêden meitsje…">
