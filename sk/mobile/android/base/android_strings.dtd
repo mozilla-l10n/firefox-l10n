@@ -63,24 +63,22 @@
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
+<!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_customize "Prispôsobenie">
-<!ENTITY pref_category_search "Vyhľadávanie">
+<!ENTITY pref_category_search2 "Nastavenia vyhľadávania">
 <!ENTITY pref_category_display "Zobrazovanie">
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
+<!ENTITY pref_category_devtools "Vývojárske nástroje">
+<!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
+<!ENTITY pref_developer_remotedebugging_docs "Ďalšie informácie">
 <!ENTITY pref_category_installed_search_engines "Nainštalované vyhľadávacie moduly">
-
-<!-- collected old strings - remove after determining final strings
-     as part of Bug 877791 -->
-<!ENTITY pref_category_general "Všeobecné">
-<!ENTITY pref_category_privacy "Súkromie a bezpečnosť">
-<!ENTITY pref_category_content "Obsah">
-<!ENTITY pref_header_general "Všeobecné">
-<!ENTITY pref_header_privacy "Súkromie a bezpečnosť">
-<!ENTITY pref_header_content "Obsah">
-<!-- end of old strings -->
-
+<!ENTITY pref_category_add_search_providers "Pridať ďalšie vyhľadávacie moduly">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa.">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
@@ -89,6 +87,7 @@
 <!ENTITY pref_header_privacy_short "Súkromie">
 <!ENTITY pref_header_help "Pomocník">
 <!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Vývojárske nástroje">
 
 <!ENTITY pref_cookies_menu "Súbory cookies">
 <!ENTITY pref_cookies_accept_all "Povolené">
@@ -109,8 +108,11 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
-<!ENTITY pref_reflow_on_zoom3 "Zaostriť text po dvojitom ťuknutí">
-<!ENTITY pref_restore_session "Vždy obnoviť karty">
+<!ENTITY pref_reflow_on_zoom4 "Zaostriť text">
+<!ENTITY pref_restore "Karty">
+<!ENTITY pref_restore_always "Vždy karty">
+<!ENTITY pref_restore_crash "Obnoviť po zlyhaní">
+<!ENTITY pref_restore_never "Nikdy neobnoviť">
 <!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
@@ -146,6 +148,10 @@ size. -->
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
 <!ENTITY pref_vendor_feedback "Odoslať názor">
+<!ENTITY pref_search_set_default "Nastavený ako predvolený">
+<!ENTITY pref_search_default "Predvolený">
+<!ENTITY pref_search_remove "Odstrániť">
+<!ENTITY pref_search_last_toast "Nie je možné odstrániť alebo zakázať posledný vyhľadávací modul.">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -197,9 +203,8 @@ size. -->
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Súkromné">
 <!ENTITY tabs_synced "Synchronizované">
-<!ENTITY wallpaper_success "Tapeta aktualizovaná">
-<!ENTITY wallpaper_progress "Nastavuje sa tapeta">
-<!ENTITY wallpaper_fail "Tapetu nebolo možné nastaviť">
+<!ENTITY set_image_fail "Nie je možné nastaviť obrázok">
+<!ENTITY set_image_chooser_title "Nastaviť obrázok ako">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -332,6 +337,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Záložky a história">
 
+<!ENTITY devtools_remote_debugging_forward "Nezabudnite nastaviť presmerovanie portov!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Je dostupná aktualizácia pre &brandShortName;">
 <!ENTITY updater_start_select2 "Ťuknutím sem ju prevezmete">
@@ -345,12 +352,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Ťuknutím sem ju použijete">
 
 <!-- Guest mode -->
-<!ENTITY enter_guest_mode "Zapnúť režim Hosť">
-<!ENTITY exit_guest_mode "Opustiť režim Hosť">
-<!ENTITY guest_mode_dialog_continue "Pokračovať">
-<!ENTITY guest_mode_dialog_cancel "Zrušiť">
-<!ENTITY guest_mode_enter_title "Režim Hosť">
-<!ENTITY guest_mode_enter_text "Počas prehliadania v režim Hosť nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené heslá, história alebo záložky) uloženým v prehliadači &brandShortName;.\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené.">
+<!ENTITY new_guest_session "Zapnúť režim Hosť">
+<!ENTITY exit_guest_session "Opustiť režim Hosť">
+<!ENTITY guest_session_dialog_continue "Pokračovať">
+<!ENTITY guest_session_dialog_cancel "Zrušiť">
+<!ENTITY new_guest_session_title "&brandShortName; bude teraz reštartovaný">
+<!ENTITY new_guest_session_text "Počas prehliadania v tomto režime nebude mať osoba používajúca zariadenie prístup k akýmkoľvek osobným údajom (ako uložené heslá, história alebo záložky).\n\nPo opustení režimu Hosť budú údaje získané v tomto režime odstránené a bude obnovená vaša posledná relácia.">
 
-<!ENTITY guest_mode_leave_title "Opúšťate režim Hosť">
-<!ENTITY guest_mode_leave_text "&brandShortName; odstráni všetky údaje pochádzajúce z tejto relácie prehliadania.">
+<!ENTITY exit_guest_session_title "&brandShortName; bude teraz reštartovaný">
+<!ENTITY exit_guest_session_text "Údaje pochádzajúce z tejto relácie prehliadania budú odstránené.">
