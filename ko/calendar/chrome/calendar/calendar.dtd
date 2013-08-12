@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "오류 번호:">
 <!ENTITY calendar.error.description "설명:">
 <!ENTITY calendar.error.title "오류가 발생하였습니다.">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "이벤트 추가">
+<!ENTITY calendar.extract.task.button          "태스크 추가">
+<!ENTITY calendar.extract.event.button.tooltip "메시지에서 날짜 정보를 추출하여 캘린더에 이벤트로 추가">
+<!ENTITY calendar.extract.task.button.tooltip  "메시지에서 날짜 정보를 추출하여 캘린더에 태스크로 추가">
