@@ -13,7 +13,6 @@
 <!ENTITY closetab.label        "Zavrieť kartu">
 
 <!ENTITY autocompleteResultsHeader.label  "Vaše výsledky">
-<!ENTITY autocompleteSearchesHeader.label "Vyhľadávania na internete">
 
 <!ENTITY appbarErrorConsole.label   "Otvoriť chybovú konzolu">
 <!ENTITY appbarJSShell.label        "Otvoriť príkazový riadok JavaScriptu">
@@ -25,17 +24,17 @@
 <!ENTITY recentHistoryHeader.label   "Nedávna história">
 <!ENTITY remoteTabsHeader.label      "Karty z iných zariadení">
 
-<!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label): shortened version of startRemoteTabsHeader.label.
-     Needs to be two words or shorter to fit in narrow vertical space.-->
-<!-- LOCALIZATION NOTE (snappedRemoteTabsHeader.label,
-                        snappedBookmarksHeader.label,
-                        snappedHistoryHeader.lavel,
-                        snappedTopSitesHeader.label )
-      The '>' character is not part of the name, but is an indicator of more content. Please do not localize the '>' -->
-<!ENTITY snappedRemoteTabsHeader.label    "Vzdialené karty >">
-<!ENTITY snappedBookmarksHeader.label     "Záložky >">
-<!ENTITY snappedRecentHistoryHeader.label "Nedávna história >">
-<!ENTITY snappedTopSitesHeader.label      "Naj stránky >">
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Naj stránky">
+<!ENTITY narrowBookmarksHeader.label     "Záložky">
+<!ENTITY narrowRecentHistoryHeader.label "Nedávna história">
+<!ENTITY narrowRemoteTabsHeader.label    "Vzdialené karty">
 
 <!ENTITY downloadsHeader.label     "Prevzaté">
 <!ENTITY downloadShowPage.label    "Prejsť na stránku">
