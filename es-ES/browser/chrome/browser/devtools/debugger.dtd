@@ -45,10 +45,10 @@
 <!ENTITY debuggerUI.removeAllWatch "Eliminar todas las expresiones de vigilancia">
 <!ENTITY debuggerUI.removeAllWatch.key "E">
 <!ENTITY debuggerUI.stepping.resume1 "VK_F8">
-<!ENTITY debuggerUI.stepping.resume2 "VK_HYPHEN">
+<!ENTITY debuggerUI.stepping.resume2 "VK_HYPHEN_MINUS">
 <!ENTITY debuggerUI.stepping.stepOver1 "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOver2 "VK_QUOTE">
+<!ENTITY debuggerUI.stepping.stepOver2 "VK_COMMA">
 <!ENTITY debuggerUI.stepping.stepIn1 "VK_F11">
-<!ENTITY debuggerUI.stepping.stepIn2 "VK_SEMICOLON">
+<!ENTITY debuggerUI.stepping.stepIn2 "VK_PERIOD">
 <!ENTITY debuggerUI.stepping.stepOut1 "VK_F11">
-<!ENTITY debuggerUI.stepping.stepOut2 "VK_SEMICOLON">
+<!ENTITY debuggerUI.stepping.stepOut2 "VK_PERIOD">

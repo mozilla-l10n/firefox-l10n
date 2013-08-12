@@ -85,11 +85,11 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
-<!ENTITY pref_reflow_on_zoom4 "Reflujo de texto">
+<!ENTITY pref_reflow_on_zoom4 "Reajuste de texto">
 <!ENTITY pref_restore "Pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
-<!ENTITY pref_restore_crash "Restarurar tras un cuelgue">
-<!ENTITY pref_restore_never "No restarurar nunca">
+<!ENTITY pref_restore_crash "Restaurar tras un cuelgue">
+<!ENTITY pref_restore_never "No restaurar nunca">
 <!ENTITY pref_font_size_tiny "Diminuto">
 <!ENTITY pref_font_size_small "Pequeño">
 <!ENTITY pref_font_size_medium "Mediano">
