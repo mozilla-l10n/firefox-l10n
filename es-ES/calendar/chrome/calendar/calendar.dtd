@@ -21,31 +21,31 @@
 <!ENTITY calendar.events.filter.next31Days.label "Eventos en los próximos 31 días">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventos en este mes del calendario">
 <!ENTITY calendar.unifinder.tree.done.label "Hecho">
-<!ENTITY calendar.unifinder.tree.done.tooltip "Haga clic para ordenar por marca Terminado">
+<!ENTITY calendar.unifinder.tree.done.tooltip "Pulse para ordenar por marca Terminado">
 <!ENTITY calendar.unifinder.tree.priority.label "Prioridad">
-<!ENTITY calendar.unifinder.tree.priority.tooltip "Haga clic para ordenar por prioridad">
+<!ENTITY calendar.unifinder.tree.priority.tooltip "Pulse para ordenar por prioridad">
 <!ENTITY calendar.unifinder.tree.title.label "Título">
-<!ENTITY calendar.unifinder.tree.title.tooltip "Haga clic para ordenar por título">
+<!ENTITY calendar.unifinder.tree.title.tooltip "Pulse para ordenar por título">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Completo">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Haga clic para ordenar por &#037; completo">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Pulse para ordenar por &#037; completo">
 <!ENTITY calendar.unifinder.tree.startdate.label "Inicio">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip "Haga clic para ordenar por fecha de inicio">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip "Pulse para ordenar por fecha de inicio">
 <!ENTITY calendar.unifinder.tree.enddate.label "Fin">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip "Haga clic para ordenar por fecha de finalización">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip "Pulse para ordenar por fecha de finalización">
 <!ENTITY calendar.unifinder.tree.duedate.label "Vencimiento">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip "Haga clic para ordenar por fecha de vencimiento">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip "Pulse para ordenar por fecha de vencimiento">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Completado">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Haga clic para ordenar por completitud">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip "Pulse para ordenar por completitud">
 <!ENTITY calendar.unifinder.tree.categories.label "Categoría">
-<!ENTITY calendar.unifinder.tree.categories.tooltip "Haga clic para ordenar por categoría">
+<!ENTITY calendar.unifinder.tree.categories.tooltip "Pulse para ordenar por categoría">
 <!ENTITY calendar.unifinder.tree.location.label "Lugar">
-<!ENTITY calendar.unifinder.tree.location.tooltip "Haga clic para ordenar por lugar">
+<!ENTITY calendar.unifinder.tree.location.tooltip "Pulse para ordenar por lugar">
 <!ENTITY calendar.unifinder.tree.status.label "Estado">
-<!ENTITY calendar.unifinder.tree.status.tooltip "Haga clic para ordenar por estado">
+<!ENTITY calendar.unifinder.tree.status.tooltip "Pulse para ordenar por estado">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nombre del calendario">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Haga clic para ordenar por nombre del calendario">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip "Pulse para ordenar por nombre del calendario">
 <!ENTITY calendar.unifinder.tree.duration.label "Vence en">
-<!ENTITY calendar.unifinder.tree.duration.tooltip "Haga clic para ordenar por días hasta vencimiento">
+<!ENTITY calendar.unifinder.tree.duration.tooltip "Pulse para ordenar por días hasta vencimiento">
 <!ENTITY calendar.unifinder.close.tooltip "Cerrar búsqueda y lista de eventos">
 <!ENTITY calendar.today.button.tooltip "Ir a hoy">
 <!ENTITY calendar.todaypane.button.tooltip "Mostrar panel Para hoy">
