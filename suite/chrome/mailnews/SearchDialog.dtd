@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "s">
 <!ENTITY searchSubfolders.label      "Hľadať v podpriečinkoch">
 <!ENTITY searchSubfolders.accesskey  "d">
-<!ENTITY searchLocalSystem.label     "Hľadať v lokálnom systéme">
-<!ENTITY searchLocalSystem.accesskey "m">
+<!ENTITY searchOnHeading.label       "Vykonať operácie vyhľadávania na:">
+<!ENTITY searchOnHeading.accesskey   "e">
+<!ENTITY searchOnRemote.label        "vzdialenom serveri">
+<!ENTITY searchOnLocal.label         "lokálnom systéme">
 <!ENTITY resetButton.label           "Obnoviť">
 <!ENTITY resetButton.accesskey       "b">
 <!ENTITY openButton.label            "Otvoriť">

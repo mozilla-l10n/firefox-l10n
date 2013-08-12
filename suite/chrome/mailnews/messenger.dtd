@@ -173,7 +173,7 @@
 <!ENTITY sortThreaded.label "Zreťazené usporiadanie">
 <!ENTITY sortThreaded.accesskey "Z">
 <!ENTITY sortUnthreaded.label "Klasické usporiadanie">
-<!ENTITY sortUnthreaded.accesskey "K">
+<!ENTITY sortUnthreaded.accesskey "d">
 <!ENTITY groupBySort.label "Triedením zoskupiť">
 <!ENTITY groupBySort.accesskey "T">
 <!ENTITY msgsMenu.label "Správy">
