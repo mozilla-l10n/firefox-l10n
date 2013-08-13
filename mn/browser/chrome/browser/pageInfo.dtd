@@ -57,15 +57,6 @@
 <!ENTITY  permAllowSession      "Зорчсон хэсэгт зөвшөөр">
 <!ENTITY  permBlock             "Хорих">
 <!ENTITY  permissionsFor        "Хандах эрхийн сан:">
-<!ENTITY  permImage             "Зурагнуудыг дууд">
-
-<!ENTITY  permCookie            "Күүки суулга">
-
-<!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
-<!ENTITY  permGeo               "Байршлаа мэдэгдэх">
-
-
-
 
 
 

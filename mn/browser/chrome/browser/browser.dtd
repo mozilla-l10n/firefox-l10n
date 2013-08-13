@@ -43,6 +43,10 @@ can reach it easily. -->
 
 <!ENTITY  undoCloseTab.label                 "Самбар хаасан үйлдлийг буц">
 <!ENTITY  undoCloseTab.accesskey             "й">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Самбарыг хаа">
 <!ENTITY  closeTab.accesskey                 "С">
 
@@ -68,12 +72,9 @@ can reach it easily. -->
 
 
 <!ENTITY navbarCmd.label "Хөтлөгч багажит самбар">
-<!ENTITY navbarCmd.accesskey "ж">
 <!ENTITY personalbarCmd.label "Хаягийн Багажит самбар">
 <!ENTITY personalbarCmd.accesskey "м">
 <!ENTITY bookmarksToolbarItem.label "Хаягийн багажит самбарын зүйлс">
-
-
 
 <!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
 <!ENTITY pageSourceCmd.accesskey "ч">
@@ -100,7 +101,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "и">
 <!ENTITY fullscreenAllowButton.label "Зөвшөөр">
 <!ENTITY fullscreenExitButton.label "Үгүй">
-
 
 
 
@@ -151,15 +151,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY locationItem.title           "Байрлал">
 <!ENTITY searchItem.title             "Хайх">
-<!ENTITY throbberItem.title           "Идэвхижлийн заалт">
 <!ENTITY bookmarksItem.title          "Хаягнууд">
 <!-- Toolbar items -->
-
-<!ENTITY homeButton.label             "Эхлэл">
-
-
-
-<!ENTITY feedButton.label             "Бүртгүүл">
 
 
 
@@ -175,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyButton.label            "Түүх">
-<!ENTITY historyButton.tooltip          "Сүүлд зорчсон хуудсуудыг харуул">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Багаж">
@@ -183,8 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Энэ хайлтад түлхүүр үг нэм…">
 <!ENTITY keywordfield.accesskey       "ү">
-<!ENTITY search.label                 "Вэб хайлт">
-<!ENTITY search.accesskey             "а">
+
 <!ENTITY downloads.label              "Татаж авсан файлууд">
 <!ENTITY downloads.tooltip            "Татаж авалтын явцыг харуулна">
 <!ENTITY downloads.accesskey          "Т">
@@ -195,6 +186,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 
 
@@ -229,6 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY devToolbar.keytext                "F2">
+
+
 
 
 
@@ -286,8 +281,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY historyMenu.label "Түүх">
 <!ENTITY historyMenu.accesskey "х">
 <!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
@@ -295,18 +288,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
 
 
-<!ENTITY historyHomeCmd.label "Эхлэл">
 <!ENTITY showAllHistoryCmd2.label "Бүх зорчсон түүхийг харуул">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-
-
-
-
-
-
-
-
-
 
 
 
@@ -370,6 +353,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.accesskey     "д">
 <!ENTITY viewImageCmd.label           "Зургийг харах">
 <!ENTITY viewImageCmd.accesskey       "З">
+
+
 
 
 <!ENTITY viewVideoCmd.label           "Видеог харах">
@@ -505,13 +490,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Шинэ цонх нээ">
 
 
-<!ENTITY cutButton.tooltip              "Тасдаж сана">
-<!ENTITY copyButton.tooltip             "Сануул">
-<!ENTITY pasteButton.tooltip            "Санамж буулга">
-
-
-
-
 
 <!ENTITY quitApplicationCmdWin.label       "Гарах"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "Г">
@@ -577,11 +555,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ашиглаж буй сервер">
 
 <!ENTITY identity.moreInfoLinkText "Нэмэлт мэдээлэл…">
+
+<!ENTITY identity.permissions "Хандах эрх">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-
-
 
 
 
@@ -622,3 +600,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "ж">
+
+
+<!ENTITY throbberItem.title            "Идэвхижлийн заалт">
+
+
+<!ENTITY feedButton.label              "Бүртгүүл">
+
+
+<!ENTITY historyButton.tooltip         "Сүүлд зорчсон хуудсуудыг харуул">
+
+
+
+
+<!ENTITY appMenuSidebars.label         "Хажуу самбарууд">
+
+
+
+
+<!ENTITY appMenuSafeMode.label         "Нэмэлтүүдийг идэвхижүүлээгүй горимд дахин эхлүүлэх…">
+<!ENTITY appMenuSafeMode.accesskey     "Н">
+<!ENTITY cutButton.tooltip             "Тасдаж сана">
+<!ENTITY copyButton.tooltip            "Сануул">
+<!ENTITY pasteButton.tooltip           "Санамж буулга">
+
+<!ENTITY zoomInButton.tooltip          "Томсгох">
+
+
+
+<!-- end of strings to be removed post-Australis -->

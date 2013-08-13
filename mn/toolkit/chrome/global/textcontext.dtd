@@ -17,10 +17,10 @@
 
 <!ENTITY spellAddToDictionary.label "Толь бичигт нэм">
 <!ENTITY spellAddToDictionary.accesskey "э">
-
-
-
-
+<!ENTITY spellUndoAddToDictionary.label "Буцан толь бичиг рүү нэмэх">
+<!ENTITY spellUndoAddToDictionary.accesskey "Б">
+<!ENTITY spellCheckToggle.label "Зөв бичгийн дүрэм шалгах">
+<!ENTITY spellCheckToggle.accesskey "д">
 <!ENTITY spellNoSuggestions.label "(үгийн залруулах алдаа байхгүй байна)">
 <!ENTITY spellDictionaries.label "Хэл">
 <!ENTITY spellDictionaries.accesskey "л">
