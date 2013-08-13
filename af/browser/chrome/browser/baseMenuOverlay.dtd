@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName;-hulp">
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Herbegin met byvoegings gedeaktiveer…">
 <!ENTITY helpSafeMode.accesskey   "H">
 
