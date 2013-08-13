@@ -1,22 +1,57 @@
-<!ENTITY pluginWizard.title "Tirelo ya Sebatli Polaka">
-<!ENTITY pluginWizard.firstPage.title "O amogelesegile mo &pluginWizard.title;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY pluginWizard.title                                  "Tirelo ya Sebatli Polaka">
+<!ENTITY pluginWizard.firstPage.title                        "O amogelesegile mo &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; jaanong e batla dipolaka tse di gona...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; jaanong e batla dipolaka tse di gona…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title "Dikopololo tsa Dipolaka tse di Gona">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Dikopololo tsa Dipolaka tse di Gona">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Dipolaka tse di latelang di gona:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Tobetsa Latelang go tlhoma dipolaka tseno.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI "Dipolaka dingwe di ka tlhoka tshedimosetso ya tlaleletso go tswa mo go wena ka nako ya go tlhoma.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dipolaka dingwe di ka tlhoka tshedimosetso ya tlaleletso go tswa mo go wena ka nako ya go tlhoma.">
 
-<!ENTITY pluginWizard.licensePage.title "Dilaesense tsa Dipolaka">
-<!ENTITY pluginWizard.licensePage.accept.label "Ke a dumelana.">
-<!ENTITY pluginWizard.licensePage.deny.label "Ga ke dumelane (go ka seke ga tlhomiwa polaka).">
+<!ENTITY pluginWizard.licensePage.title                      "Dilaesense tsa Dipolaka">
+<!ENTITY pluginWizard.licensePage.accept.label               "Ke a dumelana.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Ga ke dumelane (go ka seke ga tlhomiwa polaka).">
 
-<!ENTITY pluginWizard.installPluginsPage.title "E tlhoma Dipolaka">
-<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; e tlhoma dipolaka...">
+<!ENTITY pluginWizard.installPluginsPage.title               "E tlhoma Dipolaka">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; e tlhoma dipolaka…">
 
-<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; e feditse go tlhoma dipolaka tse di nang di timetse:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; e feditse go tlhoma dipolaka tse di nang di timetse:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Batla go gongwe malebana le Dipolaka gongwe o batle dipolaka tse di timetseng.">
-<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; e tlhoka go simolodisiwa sešwa gore dipolaka di dire.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Batla go gongwe malebana le Dipolaka gongwe o batle dipolaka tse di timetseng.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; e tlhoka go simolodisiwa sešwa gore dipolaka di dire.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
+<!ENTITY reloadPlugin.pre                                    "">
+
+
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+
+
+
+
+
+
+
+
+<!ENTITY plugin.file                                         "Faele">
 

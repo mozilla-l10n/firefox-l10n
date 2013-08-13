@@ -1,22 +1,25 @@
-<!ENTITY colorsDialog.title "Mebala">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own colors, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY  colorsDialog.title              "Mebala">
 
-<!ENTITY color "Mafoko le Lemorago">
-<!ENTITY textColor.label "Mafoko:">
-<!ENTITY textColor.accesskey "m">
-<!ENTITY backgroundColor.label "Lemorago:">
-<!ENTITY backgroundColor.accesskey "l">
-<!ENTITY useSystemColors.label "Dirisa mebala ya tsamaiso">
-<!ENTITY useSystemColors.accesskey "i">
 
-<!ENTITY underlineLinks.label "Thalela digoke">
-<!ENTITY underlineLinks.accesskey "t">
-<!ENTITY links "Gokaganya Mebala">
-<!ENTITY linkColor.label "Digoke tse di sa Etelwang:">
-<!ENTITY linkColor.accesskey "d">
-<!ENTITY visitedLinkColor.label "Digoke tse di Etetsweng:">
-<!ENTITY visitedLinkColor.accesskey "d">
+
+
+
+<!ENTITY  color                           "Mafoko le Lemorago">
+<!ENTITY  textColor.label                 "Mafoko:">
+<!ENTITY  textColor.accesskey             "M">
+<!ENTITY  backgroundColor.label           "Lemorago:">
+<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  useSystemColors.label           "Dirisa mebala ya tsamaiso">
+<!ENTITY  useSystemColors.accesskey       "i">
+
+<!ENTITY  underlineLinks.label            "Thalela digoke">
+<!ENTITY  underlineLinks.accesskey        "T">
+<!ENTITY  links                           "Gokaganya Mebala">
+<!ENTITY  linkColor.label                 "Digoke tse di sa Etelwang:">
+<!ENTITY  linkColor.accesskey             "D">
+<!ENTITY  visitedLinkColor.label          "Digoke tse di Etetsweng:">
+<!ENTITY  visitedLinkColor.accesskey      "D">

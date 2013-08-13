@@ -1,123 +1,110 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Ian McGreer <mcgreer@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title "Motsamaisi wa Ditifikeiti">
+<!ENTITY certmgr.title                       "Motsamaisi wa Ditifikeiti">
 
-<!ENTITY certmgr.tab.mine "Ditifikeiti tsa Gago">
-<!ENTITY certmgr.tab.others "Tsa Batho ba Bangwe">
-<!ENTITY certmgr.tab.websites "Ditsha tsa Inthanete">
-<!ENTITY certmgr.tab.ca "Beng ba Dithata">
+<!ENTITY certmgr.tab.mine                     "Ditifikeiti tsa Gago">
 
-<!ENTITY certmgr.ca.builtins "Di-CA tse di Ageletsweng teng">
-<!ENTITY certmgr.ca.mycas "Di-CA tse di Tsamaisiwang Ke Wena">
 
-<!ENTITY certmgr.mine "O na le ditifikeiti go tswa kwa ditlamong tseno tse di go supang:">
-<!ENTITY certmgr.others "O na le ditifikeiti mo faeleng tse di supang batho bano:">
-<!ENTITY certmgr.websites "O na le ditifikeiti mo faeleng tse di supang ditsha tseno tsa inthanete:">
-<!ENTITY certmgr.cas "O na le ditifikeiti mo faeleng tse di supang beng ba dithata tsa ditifikeiti:">
+<!ENTITY certmgr.tab.ca                       "Beng ba Dithata">
 
-<!ENTITY certmgr.detail.general_tab.title "Ka kakaretso">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Dintlha">
 
-<!ENTITY certmgr.subjectinfo.label "Rebotswe Go">
-<!ENTITY certmgr.issuerinfo.label "Rebotswe Ke">
-<!ENTITY certmgr.validity.label "Boammaaruri/Go dira">
-<!ENTITY certmgr.fingerprints.label "Dikgatiso tsa menwana">
-<!ENTITY certmgr.certdetail.title "Dintlha tsa Setifikeiti">
-<!ENTITY certmgr.certdetail.cn "Leina le le Tlwaelegileng (CN)">
-<!ENTITY certmgr.certdetail.o "Setlamo (O)">
-<!ENTITY certmgr.certdetail.ou "Yuniti ya Setlamo (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "Palopopo">
-<!ENTITY certmgr.certdetail.sha1fingerprint "Kgatiso ya monwana ya SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "Kgatiso ya monwana ya MD5">
+<!ENTITY certmgr.ca.builtins                  "Di-CA tse di Ageletsweng teng">
+<!ENTITY certmgr.ca.mycas                     "Di-CA tse di Tsamaisiwang Ke Wena">
 
-<!ENTITY certmgr.editcert.title "Tseleganya Boalo jwa Setifikeiti sa Pabalesego">
-<!ENTITY certmgr.editcacert.title "Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA">
-<!ENTITY certmgr.editsslcert.title "Tseleganya boalo jwa boikanyego jwa setifikeiti sa sesha sa inthanete">
-<!ENTITY certmgr.editcert.edittrust "Tseleganya boalo jwa boikanyego:">
-<!ENTITY certmgr.editcert.trustssl "Setifikeiti seno se ka supa ditsha tsa inthanete.">
-<!ENTITY certmgr.editcert.trustemail "Setifikeiti seno se ka supa badirisi ba poso.">
-<!ENTITY certmgr.editcert.trustobjsign "Setifikeiti seno se ka supa badiri ba dirweboleta.">
-<!ENTITY certmgr.editsslcert.edittrust "Tseleganya boalo jwa boikanyego jwa setifikeiti:">
-<!ENTITY certmgr.editsslcert.dotrust "Ikanye boammaaruri jwa setifikeiti seno.">
-<!ENTITY certmgr.editsslcert.donttrust "Se ikanye boammaaruri jwa setifikeiti seno.">
-<!ENTITY certmgr.editemailcert.title "Tseleganya boalo jwa boikanyego jwa setifikeiti sa poso ye eleketoroniki">
-<!ENTITY certmgr.editemailcert.edittrust "Tseleganya boalo jwa boikanyego jwa setifikeiti:">
-<!ENTITY certmgr.editemailcert.dotrust "Ikanye boammaaruri jwa setifikeiti seno.">
-<!ENTITY certmgr.editemailcert.donttrust "Se ikanye boammaaruri jwa setifikeiti seno.">
+<!ENTITY certmgr.mine                         "O na le ditifikeiti go tswa kwa ditlamong tseno tse di go supang:">
+<!ENTITY certmgr.others                       "O na le ditifikeiti mo faeleng tse di supang batho bano:">
 
-<!ENTITY certmgr.deletecert.title "Phimola Setifikeiti">
-<!ENTITY certmgr.deletecert.beforename "O kopile go phimola setifikeiti seno:">
-<!ENTITY certmgr.deletecert.aftername "A o totobetse gore o batla go phimola setifikeiti seno?">
-<!ENTITY certmgr.deleteusercert.title "Phimola Setifikeiti sa Gago">
-<!ENTITY certmgr.deleteusercert.beforename "O kopile go phimola setifikeiti:">
-<!ENTITY certmgr.deleteusercert.aftername "Fa o sena go phimola setifikeiti seno, o ka seke wa tlhola o kgona go buisa poso e e kwadilweng ka khoutu ya sona.">
+<!ENTITY certmgr.cas                          "O na le ditifikeiti mo faeleng tse di supang beng ba dithata tsa ditifikeiti:">
 
-<!ENTITY certmgr.certname "Leina la Setifikeiti">
-<!ENTITY certmgr.tokenname "Sediriswa sa Pabalesego">
-<!ENTITY certmgr.purpose "Mabaka">
-<!ENTITY certmgr.issued "Rebotswe ka La">
-<!ENTITY certmgr.expires "Khutla go dira ka La">
-<!ENTITY certmgr.email "Aterese ya Poso ya Eleketoroniki">
-<!ENTITY certmgr.serial "Palotatelano">
-<!ENTITY certmgr.ocsp_info "Ditifikeiti ga di ise di rurifadiwe ka OCSP. Kgotlha Leba go dira jalo.">
 
-<!ENTITY certmgr.close.label "Close">
-<!ENTITY certmgr.close.accesskey "C">
-<!ENTITY certmgr.view.label "View">
-<!ENTITY certmgr.view.accesskey "V">
-<!ENTITY certmgr.edit.label "Edit">
-<!ENTITY certmgr.edit.accesskey "E">
-<!ENTITY certmgr.editca.label "Edit CA Trust">
-<!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "Add">
-<!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.delete.label "Delete">
-<!ENTITY certmgr.delete.accesskey "D">
-<!ENTITY certmgr.backup.label "Backup">
-<!ENTITY certmgr.backup.accesskey "B">
-<!ENTITY certmgr.backupall.label "Backup All">
-<!ENTITY certmgr.backupall.accesskey "k">
-<!ENTITY certmgr.restore.label "Import">
-<!ENTITY certmgr.restore.accesskey "m">
-<!ENTITY certmgr.details.label "Certificate Fields">
-<!ENTITY certmgr.details.accesskey "F">
-<!ENTITY certmgr.fields.label "Field Value">
-<!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey "C">
+
+
+
+
+<!ENTITY certmgr.subjectinfo.label            "Rebotswe Go">
+<!ENTITY certmgr.issuerinfo.label             "Rebotswe Ke">
+<!ENTITY certmgr.validity.label               "Boammaaruri/Go dira" >
+<!ENTITY certmgr.fingerprints.label           "Dikgatiso tsa menwana">
+<!ENTITY certmgr.certdetail.title             "Dintlha tsa Setifikeiti">
+<!ENTITY certmgr.certdetail.cn                "Leina le le Tlwaelegileng (CN)">
+<!ENTITY certmgr.certdetail.o                 "Setlamo (O)">
+<!ENTITY certmgr.certdetail.ou                "Yuniti ya Setlamo (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Palopopo">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Kgatiso ya monwana ya SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "Kgatiso ya monwana ya MD5">
+
+<!ENTITY certmgr.editcert.title               "Tseleganya Boalo jwa Setifikeiti sa Pabalesego">
+<!ENTITY certmgr.editcacert.title             "Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA">
+
+<!ENTITY certmgr.editcert.edittrust           "Tseleganya boalo jwa boikanyego:">
+
+<!ENTITY certmgr.editcert.trustemail          "Setifikeiti seno se ka supa badirisi ba poso.">
+<!ENTITY certmgr.editcert.trustobjsign        "Setifikeiti seno se ka supa badiri ba dirweboleta.">
+<!ENTITY certmgr.editsslcert.edittrust        "Tseleganya boalo jwa boikanyego jwa setifikeiti:">
+<!ENTITY certmgr.editsslcert.dotrust          "Ikanye boammaaruri jwa setifikeiti seno.">
+<!ENTITY certmgr.editsslcert.donttrust        "Se ikanye boammaaruri jwa setifikeiti seno.">
+<!ENTITY certmgr.editemailcert.title          "Tseleganya boalo jwa boikanyego jwa setifikeiti sa poso ye eleketoroniki">
+<!ENTITY certmgr.editemailcert.edittrust      "Tseleganya boalo jwa boikanyego jwa setifikeiti:">
+<!ENTITY certmgr.editemailcert.dotrust        "Ikanye boammaaruri jwa setifikeiti seno.">
+<!ENTITY certmgr.editemailcert.donttrust      "Se ikanye boammaaruri jwa setifikeiti seno.">
+
+<!ENTITY certmgr.deletecert.title             "Phimola Setifikeiti">
+<!ENTITY certmgr.deletecert.beforename        "O kopile go phimola setifikeiti seno:">
+<!ENTITY certmgr.deletecert.aftername         "A o totobetse gore o batla go phimola setifikeiti seno?">
+<!ENTITY certmgr.deleteusercert.title         "Phimola Setifikeiti sa Gago">
+<!ENTITY certmgr.deleteusercert.beforename    "O kopile go phimola setifikeiti:">
+<!ENTITY certmgr.deleteusercert.aftername     "Fa o sena go phimola setifikeiti seno, o ka seke wa tlhola o kgona go buisa poso e e kwadilweng ka khoutu ya sona.">
+
+<!ENTITY certmgr.certname                     "Leina la Setifikeiti">
+
+
+<!ENTITY certmgr.tokenname                    "Sediriswa sa Pabalesego">
+<!ENTITY certmgr.issued                       "Rebotswe ka La">
+<!ENTITY certmgr.expires                      "Khutla go dira ka La">
+<!ENTITY certmgr.email                        "Aterese ya Poso ya Eleketoroniki">
+<!ENTITY certmgr.serial                       "Palotatelano">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY exceptionMgr.certlocation.url        "Lefelo:">
+
+
+
+
+
+
 

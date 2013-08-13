@@ -1,16 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
-<!ENTITY next.label "Next">
-<!ENTITY next.accesskey "N">
+
 <!ENTITY next.tooltip "Batla tiragalo e e latelang ya setlhopha sa mafoko">
-<!ENTITY previous.label "Previous">
-<!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "Batla tiragalo e e fetileng ya setlhopha sa mafoko">
-<!ENTITY findCloseButton.tooltip "Tswala Bara ya Batla">
-<!ENTITY highlight.label "Sedimosa tsotlhe">
-<!ENTITY highlight.accesskey "t">
-<!ENTITY highlight.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitiveCheckbox.label "Tshwantshanya bogolo jwa ditlhaka">
-<!ENTITY caseSensitiveCheckbox.accesskey "w">
+
+
+
+
+
+
+

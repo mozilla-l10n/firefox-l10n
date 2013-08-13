@@ -1,58 +1,62 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title "Boalo jwa Tsebe">
 
-<!ENTITY basic.tab "Fomete &amp; Diitlhophelwa">
+<!ENTITY printSetup.title    "Boalo jwa Tsebe">
 
-<!ENTITY formatGroup.label "Fomete">
+<!ENTITY basic.tab           "Fomete &amp; Diitlhophelwa">
 
-<!ENTITY orientation.label "Seemo:">
-<!ENTITY portrait "Setshwantsho">
-<!ENTITY landscape "Boalo">
+<!ENTITY formatGroup.label   "Fomete">
 
-<!ENTITY scale.label "Sekale:">
-<!ENTITY scalePercent "&#037;">
+<!ENTITY orientation.label   "Seemo:">
 
-<!ENTITY shrinkToFit.label "Gonyetsa go Lekana Bophara jwa Tsebe">
 
-<!ENTITY optionsGroup.label "Diitlhophelwa">
 
-<!ENTITY printBG.label "Lemorago la Kgatiso (mebala &amp; ditshwantsho)">
 
-<!ENTITY advanced.tab "Meolwane &amp; Ntlhagodimo/Ntlhatlase">
 
-<!ENTITY marginGroup.label "Meolwane (#1)">
-<!ENTITY marginUnits.inches "diintšhe">
-<!ENTITY marginUnits.metric "dimilemetara">
-<!ENTITY marginTop.label "Godimo:">
-<!ENTITY marginBottom.label "Tlase:">
-<!ENTITY marginLeft.label "Molema:">
-<!ENTITY marginRight.label "Moja:">
 
-<!ENTITY headerFooter.label "Dintlhagodimo &amp; dintlhatlase">
 
-<!ENTITY hfLeft.label "Molema:">
-<!ENTITY hfCenter.label "Bogare:">
-<!ENTITY hfRight.label "Moja:">
-<!ENTITY headerLeft.tip "Ntlhagodimo ya molema">
-<!ENTITY headerCenter.tip "Ntlhagodimo ya bogare">
-<!ENTITY headerRight.tip "Ntlhagodimo ya moja">
-<!ENTITY footerLeft.tip "Ntlhatlase ya molema">
-<!ENTITY footerCenter.tip "Ntlhatlase ya bogare">
-<!ENTITY footerRight.tip "Ntlhatlase ya moja">
 
-<!ENTITY hfTitle "Leina">
-<!ENTITY hfTitle.code "[&amp;T]">
-<!ENTITY hfURL "URL">
-<!ENTITY hfURL.code "[&amp;U]">
-<!ENTITY hfDateAndTime "Letlha/Nako">
-<!ENTITY hfDateAndTime.code "&amp;D">
-<!ENTITY hfPage "Tsebe #">
-<!ENTITY hfPage.code "[&amp;P]">
-<!ENTITY hfPageAndTotal "Tsebe # ya #">
-<!ENTITY hfPageAndTotal.code "[&amp;PT]">
-<!ENTITY hfBlank "--ga e na sepe--">
-<!ENTITY hfCustom "Magoro...">
 
-<!ENTITY customPrompt.title "Magoro...">
+
+<!ENTITY optionsGroup.label  "Diitlhophelwa">
+
+
+
+<!ENTITY advanced.tab        "Meolwane &amp; Ntlhagodimo/Ntlhatlase">
+
+<!ENTITY marginGroup.label   "Meolwane (#1)">
+<!ENTITY marginUnits.inches  "diintšhe">
+<!ENTITY marginUnits.metric  "dimilemetara">
+
+
+
+
+
+
+
+
+
+<!ENTITY headerFooter.label  "Dintlhagodimo &amp; dintlhatlase">
+
+<!ENTITY hfCenter.label      "Bogare:">
+
+<!ENTITY headerLeft.tip      "Ntlhagodimo ya molema">
+<!ENTITY headerCenter.tip    "Ntlhagodimo ya bogare">
+<!ENTITY headerRight.tip     "Ntlhagodimo ya moja">
+<!ENTITY footerLeft.tip      "Ntlhatlase ya molema">
+<!ENTITY footerCenter.tip    "Ntlhatlase ya bogare">
+<!ENTITY footerRight.tip     "Ntlhatlase ya moja">
+
+<!ENTITY hfTitle             "Leina">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Letlha/Nako">
+<!ENTITY hfPage              "Tsebe #">
+<!ENTITY hfPageAndTotal      "Tsebe # ya #">
+<!ENTITY hfBlank             "--ga e na sepe--">
+<!ENTITY hfCustom            "Magoro…">
+
+<!ENTITY customPrompt.title  "Magoro…">
 <!ENTITY customPrompt.prompt "Tsenya mafoko a gago a magoro a ntlhagodimo/ntlhatlase">
