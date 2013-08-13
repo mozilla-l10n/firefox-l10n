@@ -4,11 +4,12 @@
 
 <!ENTITY tracking.label                 "Rewindagol">
 
-
-
-
-
-
+<!ENTITY dntTrackingNopref.label2       "Hoto haala lowe hay huunde baɗte cuɓoraaɗe am dewindagol">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2      "Haalan lowe wonde mi yiɗaa rewindeede">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2         "Haalan lowe wonde miɗo yiɗi rewindeede">
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Ɓeydu Humpito">
 
 <!ENTITY  history.label                 "Aslol">
