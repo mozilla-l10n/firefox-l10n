@@ -21,3 +21,14 @@
 <!ENTITY restorepage.listHeader     "၀င်းဒိုးနဲ့ စာအမှတ်များ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "၀င်းဒိုး &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "ကြိုဆိုပါတယ်!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "ကြိုဆိုပါတယ်!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; ဟာ သင်၏ သုံးဆွဲသူ ပရိုဖိုင်အား ရှင်းလင်းပြီးပါပြီ။ အောက်တွင် သင်ဖွင့်ခဲ့သော သုံးခဲ့သော ဝင်းဒိုးများ တပ်ဗ်များ အားပြန်လည်ရယူပြီး သုံးနိုင်ပါသည်။">

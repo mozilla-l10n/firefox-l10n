@@ -46,6 +46,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "စာမျက်နှာအားပိတ်ပစ်ခြင်းအားမလုပ်လိုတော့ပါ။">
 <!ENTITY  undoCloseTab.accesskey             "စ">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Close Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -73,12 +77,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "မီနူးစာရင်း">
 <!ENTITY menubarCmd.accesskey "မ">
 <!ENTITY navbarCmd.label "Nကူးသန်းရန် ခလုတ်တမ်း">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bမှတ်သားချက်များ ခလုတ်တန်း">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
-<!ENTITY addonBarCmd.label "အတ်အွန်ဘား">
-<!ENTITY addonBarCmd.accesskey "အ">
 
 <!ENTITY pageSourceCmd.label "Page Source">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -107,9 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "F">
 <!ENTITY fullscreenAllowButton.label "Allow">
 <!ENTITY fullscreenExitButton.label "ငြင်းပယ်ပါ">
-<!ENTITY fullscreenApproval.value "ဖန်သားပြင်အပြည့် နဲ့အသုံးပြုလိုပါသလား။">
 
-<!ENTITY fullscreenExitHint.value "ဖန်သားပြင်အပြည့် မှထွက်လိုတိုင်း ESC ကိုနှိပ်ပါ။">
 <!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,22 +160,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "နောက်သို့/ရှေ့သို့">
 <!ENTITY locationItem.title           "တည်နေရာ">
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
-<!ENTITY throbberItem.title           "လှုပ်ရှားမှု ညွှန်ပြကိရိယာ">
 <!ENTITY bookmarksItem.title          "မှတ်သားချက်များ">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "စာရင်း">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; မန်နူးစာရင်းအားဖွင့်မည်။">
-<!ENTITY homeButton.label             "ပင်မ">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
 <!ENTITY tabGroupsButton.tooltip      "Strollañ hoc'h ivinelloù">
 
-<!ENTITY feedButton.label             "စာရင်းသွင်းပါ">
-<!ENTITY feedButton.tooltip           "ဤစာမျက်နှာအားစောင့်ကြည့်စာရင်းထဲထည့်မည်။">
-
 <!ENTITY bookmarksButton.label          "မှတ်သားချက်များ">
-<!ENTITY bookmarksButton.tooltip        "သင့်မှတ်သားချက်များကို ​ပြသပါ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "မှတ်သားချက်များ">
@@ -192,7 +182,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "မှတ်တမ်း">
-<!ENTITY historyButton.tooltip          "လတ်တလော သင်ကြည့်ခဲ့တဲ့ စာမျက်နှာများကို ပြသပါ">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Tကိရိယာများ">
@@ -200,8 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Kအဓိကစာလုံးတစ်လုံးရိုက်ထည့်ရှာ...">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "Sဝတ်တွင်ရှာ">
-<!ENTITY search.accesskey             "S">
+
 <!ENTITY downloads.label              "Dဒေါင်းလုဒ်ရယူမှူများ">
 <!ENTITY downloads.tooltip            "ဆွဲချနေမှုများ တိုးတက်တဲ့ အနေအထားကို ပြသပါ">
 <!ENTITY downloads.accesskey          "D">
@@ -213,6 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "eချိတ်ဆက်ပါ...">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -259,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
@@ -316,8 +308,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "(C)စိတ်ကြိုက်ဖန်တီးပါ..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY viewTabsOnTop.label            "ထိပ်ရှိဝတ်စာမျက်နှာများ">
-<!ENTITY viewTabsOnTop.accesskey        "ထ">
 
 <!ENTITY historyMenu.label "(s)မှတ်တမ်း">
 <!ENTITY historyMenu.accesskey "s">
@@ -326,20 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "လတ်​တလော ပိတ်ထားတဲ့ ၀င်းဒိုးများ">
 <!ENTITY historyRestoreLastSession.label "အရင်အသုံးပြုခဲ့သောဆိုက်များအားပြန်ဖွင့်ပြီးသုံးမည်။">
 
-<!ENTITY historyHomeCmd.label "ပင်မ">
 <!ENTITY showAllHistoryCmd2.label "မှတ်တမ်း အားလုံး ဖေါ်ပြပါ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "တည်းဖြတ်ပါ">
 <!ENTITY appMenuCustomize.label "ပြုပြင်သုံးစွဲမည်။">
-<!ENTITY appMenuToolbarLayout.label "ဝတ်ဆိုက်ကြည့်ဘားအပြင်အဆင်">
-<!ENTITY appMenuSidebars.label "ကပ်လျှက်ဘေးဘားများ">
-<!ENTITY appMenuFind.label "ရှာပါ">
-<!ENTITY appMenuUnsorted.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
-<!ENTITY appMenuWebDeveloper.label "ဝတ်ဆိုက်များဖန်တီးသူ">
-<!ENTITY appMenuGettingStarted.label "စတင်အသုံးပြုခြင်း">
-<!ENTITY appMenuSafeMode.label "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
-<!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l ">
 <!ENTITY urlbar.placeholder2          "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်း">
@@ -408,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ပုံ၏သတင်းအချက်အလက်များ">
 <!ENTITY viewImageInfoCmd.accesskey   "ပ">
+
+
 <!ENTITY viewVideoCmd.label           "(i)ဗွီဒီယို ရှုမြင်ပါ">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "နောက်ခံ ရုပ်ပုံကို ရှုမြင်ပါ">
@@ -543,15 +525,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "ဝင်းဒိုးသစ် တခု ‌ဖွင့်ပါ">
 <!ENTITY sidebarCloseButton.tooltip     "ဘေးတန်းကို ပိတ်ပါ">
 
-<!ENTITY cutButton.tooltip              "ဖြတ်ယူပါ ">
-<!ENTITY copyButton.tooltip             "ကူးယူပါ">
-<!ENTITY pasteButton.tooltip            "ပွားပါ">
-
 <!ENTITY fullScreenButton.tooltip       "မြင်ကွင်းအား အပြည့်ချဲ့ကြည့်မည်။">
-
-<!ENTITY zoomOutButton.tooltip          "သေးကြည့်မည်။">
-<!ENTITY zoomInButton.tooltip           "ချဲ့ကြည့်မည်။">
-<!ENTITY zoomControls.label             "ချုံ့ချဲ့ထိန်းချုပ်">
 
 <!ENTITY quitApplicationCmdWin.label       "ထွက်ခွါပါ"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
@@ -622,6 +596,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "၄င်းကို မောင်းနှင်နေတဲ့အရာ">
 
 <!ENTITY identity.moreInfoLinkText "ပိုမို အချက်အလက်...">
+
+<!ENTITY identity.permissions "ပါမစ်ရှင်များ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +613,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 <!ENTITY syncSyncNowItem.accesskey    "ယ">
 <!ENTITY syncToolbarButton.label      "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
-
-<!ENTITY addonBarCloseButton.tooltip  "အတ်အွန်ဘားအားပိတ်မည်။">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "ဆိုရှယ် တူးဘား ခလုပ်">
 <!ENTITY social.notLoggedIn.label   "မ၀င်ရောက်သေးဘူး">
@@ -690,3 +663,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "ယခုခွင့်ပြုလိုက်မယ်">
 <!ENTITY pluginActivateAlways.label "ခွင့်ပြုပြီး ခွင့်ပြုချက်ကို မှတ်ထားမယ်">
 <!ENTITY pluginBlockNow.label "ထပ်ပေါင်းဆော့ဝဲ အားပိတ်">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "အတ်အွန်ဘား">
+<!ENTITY addonBarCmd.accesskey         "အ">
+<!ENTITY throbberItem.title            "လှုပ်ရှားမှု ညွှန်ပြကိရိယာ">
+<!ENTITY appMenuButton.label           "စာရင်း">
+<!ENTITY appMenuButton.tooltip         "&brandShortName; မန်နူးစာရင်းအားဖွင့်မည်။">
+<!ENTITY feedButton.label              "စာရင်းသွင်းပါ">
+<!ENTITY feedButton.tooltip            "ဤစာမျက်နှာအားစောင့်ကြည့်စာရင်းထဲထည့်မည်။">
+<!ENTITY bookmarksButton.tooltip       "သင့်မှတ်သားချက်များကို ​ပြသပါ">
+<!ENTITY historyButton.tooltip         "လတ်တလော သင်ကြည့်ခဲ့တဲ့ စာမျက်နှာများကို ပြသပါ">
+<!ENTITY viewTabsOnTop.label           "ထိပ်ရှိဝတ်စာမျက်နှာများ">
+<!ENTITY viewTabsOnTop.accesskey       "ထ">
+<!ENTITY appMenuEdit.label             "တည်းဖြတ်ပါ">
+<!ENTITY appMenuToolbarLayout.label    "ဝတ်ဆိုက်ကြည့်ဘားအပြင်အဆင်">
+<!ENTITY appMenuSidebars.label         "ကပ်လျှက်ဘေးဘားများ">
+<!ENTITY appMenuFind.label             "ရှာပါ">
+<!ENTITY appMenuUnsorted.label         "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
+<!ENTITY appMenuWebDeveloper.label     "ဝတ်ဆိုက်များဖန်တီးသူ">
+<!ENTITY appMenuGettingStarted.label   "စတင်အသုံးပြုခြင်း">
+<!ENTITY appMenuSafeMode.label         "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
+<!ENTITY appMenuSafeMode.accesskey     "A">
+<!ENTITY cutButton.tooltip             "ဖြတ်ယူပါ ">
+<!ENTITY copyButton.tooltip            "ကူးယူပါ">
+<!ENTITY pasteButton.tooltip           "ပွားပါ">
+<!ENTITY zoomOutButton.tooltip         "သေးကြည့်မည်။">
+<!ENTITY zoomInButton.tooltip          "ချဲ့ကြည့်မည်။">
+<!ENTITY zoomControls.label            "ချုံ့ချဲ့ထိန်းချုပ်">
+<!ENTITY addonBarCloseButton.tooltip   "အတ်အွန်ဘားအားပိတ်မည်။">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "နောက်တနေရာ">
-<!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "စကားစုရဲ့ နောက်ထပ် ​ဖြစ်ပွားမှုကို ရှာဖွေပါ">
-<!ENTITY previous.label "အရင်နေရာ">
-<!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "စကားစုရဲ့ အရင် ​ဖြစ်ပွားမှုကို ရှာဖွေပါ">
-<!ENTITY findCloseButton.tooltip "တန်းလျာ ရှာဖွေမှုကို ပိတ်ပါ">
-<!ENTITY highlight.label "အားလုံးကို မျဉ်းသားပါ">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "စကားစုရဲ့ ​ဖြစ်ပွားမှုအားလုံးကို မျဉ်းသားပါ">
-<!ENTITY caseSensitiveCheckbox.label "စာလုံး တိုက်ဆိုင်ပါ">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+
+
+
+<!ENTITY highlightAll.tooltiptext "စကားစုရဲ့ ​ဖြစ်ပွားမှုအားလုံးကို မျဉ်းသားပါ">
+
+
+
