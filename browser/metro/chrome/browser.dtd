@@ -13,7 +13,6 @@
 <!ENTITY closetab.label        "Stäng flik">
 
 <!ENTITY autocompleteResultsHeader.label  "Dina resultat">
-<!ENTITY autocompleteSearchesHeader.label "Internetsökningar"> 
 
 <!ENTITY appbarErrorConsole.label   "Öppna felkonsol">
 <!ENTITY appbarJSShell.label        "Öppna JavaScript-skal">
