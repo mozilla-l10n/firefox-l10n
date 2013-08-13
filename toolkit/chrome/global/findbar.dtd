@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "Дараах">
-<!ENTITY next.accesskey "Д">
 <!ENTITY next.tooltip "Хайлтын дараагийн олдцыг харуулна">
-<!ENTITY previous.label "Өмнөх">
-<!ENTITY previous.accesskey "Ө">
 <!ENTITY previous.tooltip "Хайлтын өмнөх олдцыг харуулна">
-<!ENTITY findCloseButton.tooltip "Олох самбарыг хаана">
-<!ENTITY highlight.label "Олдсон бүгдийг гэрэлтүүл">
-<!ENTITY highlight.accesskey "б">
-<!ENTITY highlight.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
-<!ENTITY caseSensitiveCheckbox.label "Яг тааруулж ол">
-<!ENTITY caseSensitiveCheckbox.accesskey "г">
+<!ENTITY findCloseButton.tooltip "Олох самбарыг хаах">
+<!ENTITY highlightAll.label "Бүгдийг тодотгох">
+<!ENTITY highlightAll.accesskey "Б">
+<!ENTITY highlightAll.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
+<!ENTITY caseSensitive.label "Үсгээр харьцуулах">
+<!ENTITY caseSensitive.accesskey "х">
+<!ENTITY caseSensitive.tooltiptext "Том жижиг үсгийн ялгаатай хайх">

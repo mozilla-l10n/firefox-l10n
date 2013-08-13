@@ -19,5 +19,5 @@
 <!ENTITY charsetMenuMore4.accesskey    "З">
 <!ENTITY charsetMenuMore5.label        "Дундад Ази">
 <!ENTITY charsetMenuMore5.accesskey    "з">
-
-
+<!ENTITY charsetCustomize.label        "Жагсаалтыг өөрчлөх…">
+<!ENTITY charsetCustomize.accesskey    "Ж">

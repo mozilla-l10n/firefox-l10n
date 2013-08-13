@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName;-н тухай">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        " &brandShortName; нь туршилтын хувилбар бөгөөд зарим тохиолдолд тогтворгүй байх магадлалтай.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Таны системийн хүчин чадал, техник хангамж, системийн хэрэглээ болон тусгай өөрчлөлт зэргийн талаарх мэдээлэлийг автоматаар &vendorShortName;-руу илгээх бөгөөд, энэ зөвхөн &brandShortName; -ийг цаашид илүү сайжруулахад зориулагдах юм.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -14,6 +17,7 @@
 <!ENTITY community.exp.creditsLink  "Дэлхийг хамарсан нөхөрлөл">
 
 
+<!ENTITY community.start2           "&brandShortName;-ийн загварийг ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "— ">
@@ -66,6 +70,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+
+<!ENTITY update.unsupported.start    "Та энэ системийг цаашид шинэчлэх боломжгүй. ">
 
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
