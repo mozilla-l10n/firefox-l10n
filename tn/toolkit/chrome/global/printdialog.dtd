@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printdialog.xul -->
+
 
 <!ENTITY printButton.label "Gatisa">
 
@@ -6,24 +10,34 @@
 
 <!ENTITY fpDialog.title "Boloka Faele">
 
-<!ENTITY fileCheck.label "Gatisetsa mo Faeleng">
-<!ENTITY propertiesButton.label "Ditlhagotshedimosetso...">
+
+
+
 <!ENTITY descText.label "Tlhaloso ya Segatisi:">
 <!ENTITY printer.label "Segatisi">
-<!ENTITY printerInput.label "Leina la Segatisi:">
+
+
 
 <!ENTITY printrangeGroup.label "Seelo sa Kgatiso">
-<!ENTITY allpagesRadio.label "Ditsebe Tsotlhe">
-<!ENTITY rangeRadio.label "Ditsebe">
-<!ENTITY frompageInput.label "go tswa go">
-<!ENTITY topageInput.label "go ya go">
-<!ENTITY selectionRadio.label "Tlhopho">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY copies.label "Dikhopi">
-<!ENTITY numCopies.label "Palo ya dikhopi:">
+
+
 
 <!ENTITY printframeGroup.label "Diforeime tsa Kgatiso">
-<!ENTITY aslaidoutRadio.label "Jaaka e adilwe mo sekerining">
-<!ENTITY selectedframeRadio.label "Foreime e e tlhophilweng">
-<!ENTITY eachframesepRadio.label "Foreime nngwe le nngwe ka go farologanngwa">
+
+
+
+
+
 

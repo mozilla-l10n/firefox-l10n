@@ -1,44 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Boalo jwa Kgolagano">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
 
-<!ENTITY proxyTitle.label "Rulaganya Dikemela go nna le Tetlelesego ya Inthanete">
-<!ENTITY directTypeRadio.label "Kgolagano ka tlhamalalo mo Inthaneteng">
-<!ENTITY directTypeRadio.accesskey "k">
-<!ENTITY WPADTypeRadio.label "Bona ka itiriso boalo jwa kemela jwa letloatiro le">
-<!ENTITY WPADTypeRadio.accesskey "l">
-<!ENTITY manualTypeRadio.label "Thulaganyo ya kemela ka go dira:">
-<!ENTITY manualTypeRadio.accesskey "t">
-<!ENTITY autoTypeRadio.label "URL ya Thulaganyo ya kemela ya itiriso:">
-<!ENTITY autoTypeRadio.accesskey "u">
-<!ENTITY configAutoconfigText.label "Lefelo la Thulaganyo (URL):">
-<!ENTITY configAutoconfigText.accesskey "u">
-<!ENTITY reload.label "Reload">
-<!ENTITY reload.accesskey "e">
-<!ENTITY ftp.label "Kemela ya FTP:">
-<!ENTITY ftp.accesskey "K">
-<!ENTITY gopher.label "Kemela ya Gopher:">
-<!ENTITY gopher.accesskey "K">
-<!ENTITY http.label "HTTP Proxy:">
-<!ENTITY http.accesskey "y">
-<!ENTITY ssl.label "Kemela ya SSL:">
-<!ENTITY ssl.accesskey "K">
-<!ENTITY socks.label "Khomphiutarakgolo ya SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "C">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Segokaganyi:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Ga gona Kemela ya:">
-<!ENTITY noproxy.accesskey "g">
-<!ENTITY noproxyExplain.label "Sekai: .mozilla.org, .net.za, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Dirisetsa dikgatlhong tseno tsa kemela diporotokolo tsotlhe">
-<!ENTITY shareproxy.accesskey "e">
+<!ENTITY  connectionsDialog.title       "Boalo jwa Kgolagano">
+
+
+
+<!ENTITY  proxyTitle.label              "Rulaganya Dikemela go nna le Tetlelesego ya Inthanete">
+
+
+
+
+<!ENTITY  WPADTypeRadio.label           "Bona ka itiriso boalo jwa kemela jwa letloatiro le">
+<!ENTITY  WPADTypeRadio.accesskey       "l">
+<!ENTITY  manualTypeRadio.label         "Thulaganyo ya kemela ka go dira:">
+<!ENTITY  manualTypeRadio.accesskey     "T">
+<!ENTITY  autoTypeRadio.label           "URL ya Thulaganyo ya kemela ya itiriso:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+
+
+<!ENTITY  ftp.label                     "Kemela ya FTP:">
+<!ENTITY  ftp.accesskey                 "K">
+
+
+
+
+<!ENTITY  socks.label                   "Khomphiutarakgolo ya SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "C">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Segokaganyi:">
+
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Ga gona Kemela ya:">
+<!ENTITY  noproxy.accesskey             "G">
+<!ENTITY  noproxyExplain.label          "Sekai: .mozilla.org, .net.za, 192.168.1.0/24">
+
+

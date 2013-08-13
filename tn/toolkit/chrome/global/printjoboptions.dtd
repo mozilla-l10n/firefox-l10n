@@ -1,28 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printJobOptions.title "Ditlhagotshedimosetso tsa Segatisi">
 
-<!ENTITY paperInput.label "Bogolo jwa Pampiri:">
 
-<!ENTITY plexInput.label "Mokgwa wa Plex:">
 
-<!ENTITY resolutionInput.label "Resolušene/boleng:">
 
-<!ENTITY cmdInput.label "Taelo ya Kgatiso:">
 
-<!ENTITY jobTitleInput.label "Leina la Tiro:">
+
+
+
+
+
 
 <!ENTITY colorGroup.label "Mmala:">
-<!ENTITY grayRadio.label "Sekalekotswana">
-<!ENTITY colorRadio.label "Mmala">
 
-<!ENTITY colorspaceInput.label "Sebaka sa mmala:">
+
+
+
+
+
 
 <!ENTITY fontsGroup.label "Difonto:">
-<!ENTITY downloadFonts.label "Kopololela difonto mo segatising?">
+
+
 
 <!ENTITY edgeMarginInput.label "Phatlha go tswa mo losing lwa tsebe go ya kwa molelwaneng">
-<!ENTITY topInput.label "Godimo:">
-<!ENTITY bottomInput.label "Tlase:">
-<!ENTITY leftInput.label "Molema:">
-<!ENTITY rightInput.label "Moja:">
+
+
+
+
+
+
+
+

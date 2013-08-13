@@ -1,22 +1,26 @@
-<!ENTITY window.title "Diphapogo">
-<!ENTITY window.width "36em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY treehead.sitename.label "Setsha">
-<!ENTITY treehead.status.label "Maemo">
-<!ENTITY addpermission.label "Setsha se sentšhwa">
-<!ENTITY removepermission.label "Remove Site">
-<!ENTITY removepermission.accesskey "R">
-<!ENTITY removeallpermissions.label "Remove All Sites">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label "Aterse ya setsha sa inthanete:">
-<!ENTITY block.label "Block">
-<!ENTITY block.accesskey "B">
-<!ENTITY session.label "Allow for Session">
-<!ENTITY session.accesskey "S">
-<!ENTITY allow.label "Allow">
-<!ENTITY allow.accesskey "A">
-<!ENTITY windowClose.key "w">
+<!ENTITY window.title                 "Diphapogo">
 
-<!ENTITY button.close.label "Tswala">
-<!ENTITY button.close.accesskey "T">
+
+<!ENTITY treehead.sitename.label      "Setsha">
+<!ENTITY treehead.status.label        "Maemo">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Tswala">
+<!ENTITY button.close.accesskey       "T">
 

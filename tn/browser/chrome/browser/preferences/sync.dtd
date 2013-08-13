@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Ntšhwafatsa">
+
+<!-- Manage Account -->
+
+
+<!ENTITY changePassword2.label        "Fetola Khunololamoraba…">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Device Settings -->
+
+
+<!-- Footer stuff -->
+<!ENTITY prefs.ppLink.label         "Pholesi ya Bosephiri">

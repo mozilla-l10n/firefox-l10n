@@ -1,45 +1,78 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!-- Tab context menu -->
 
-<!ENTITY viewsourcetitle.preface "Motswedi wa: ">
+<!ENTITY  reloadTab.label                    "Laisa Tab sešwa">
+<!ENTITY  reloadTab.accesskey                "L">
+<!ENTITY  reloadAllTabs.label                "Laisa sešwa Ditab Tsotlhe">
+<!ENTITY  reloadAllTabs.accesskey            "D">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
 
-<!ENTITY nothingAvailable.label "(Ga gona Sepe)">
+<!ENTITY  closeOtherTabs.label               "Tswala Ditab Tse Dingwe">
+<!ENTITY  closeOtherTabs.accesskey           "D">
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  closeTab.label                     "Tswala Tab">
+<!ENTITY  closeTab.accesskey                 "T">
+
 
 <!ENTITY tabCmd.label "Tab e Ntšhwa">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Bula Lefelo...">
+<!ENTITY openLocationCmd.label "Bula Lefelo…">
 <!ENTITY openLocationCmd.accesskey "L">
-<!ENTITY openFileCmd.label "Bula Faele...">
+<!ENTITY openFileCmd.label "Bula Faele…">
 <!ENTITY openFileCmd.accesskey "B">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Boalo jwa Tsebe...">
+
+<!ENTITY printSetupCmd.label "Boalo jwa Tsebe…">
 <!ENTITY printSetupCmd.accesskey "l">
 <!ENTITY printPreviewCmd.label "Tebopele ya Kgatiso">
 <!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printCmd.label "Gatisa...">
+<!ENTITY printCmd.label "Gatisa…">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Tlisateng...">
-<!ENTITY import.accesskey "T">
 
-<!ENTITY goOfflineCmd.label "Dira go Kgaogile Nakwana">
-<!ENTITY goOfflineCmd.accesskey "d">
+
+
 
 <!ENTITY navbarCmd.label "Bara ya Didiriswa ya Tlhotlhomo">
-<!ENTITY navbarCmd.accesskey "B">
 <!ENTITY personalbarCmd.label "Bara ya Didiriswa ya Matshwaotsebe">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Dilwana tsa Bara ya Didiriswa ya Matshwaotsebe">
-<!ENTITY taskbarCmd.label "Bara ya Maemo">
-<!ENTITY taskbarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Motswedi wa Tsebe">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -47,179 +80,225 @@
 <!ENTITY pageInfoCmd.label "Tshedimosetso ya Tsebe">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Sekerini se se Tletseng">
-<!ENTITY fullScreenCmd.accesskey "S">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+
+
+
+
+
+
+
+
 
 <!ENTITY fullScreenMinimize.tooltip "Ngotla">
 <!ENTITY fullScreenRestore.tooltip "Busetsa">
 <!ENTITY fullScreenClose.tooltip "Tswala">
 
-<!ENTITY closeWindow.label "Tswala Fensetere">
 
-<!ENTITY bookmarksMenu.label "Matshwaotsebe">
-<!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY addCurPageAsCmd.label "Bookmark This Page...">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
-<!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page...">
-<!ENTITY addLiveBookmarkMenupopup.label "Add Live Bookmark">
-<!ENTITY addLiveBookmarkMenuitem.label "Add Live Bookmark...">
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs...">
-<!ENTITY addCurPagesCmd.accesskey "T">
-<!ENTITY manBookmarksCmd.label "Organize Bookmarks...">
-<!ENTITY manBookmarksCmd.accesskey "M">
-<!ENTITY bookmarkAllCmd.label "Bookmark All Tabs...">
-<!ENTITY searchBookmarksCmd.label "Search in Bookmarks...">
-<!ENTITY searchBookmarksCmd.accesskey "S">
-<!ENTITY searchBookmarksCmd.commandkey "B">
 
-<!ENTITY backCmd.label "Morago">
-<!ENTITY backCmd.accesskey "M">
-<!ENTITY backButton.tooltip "Boela morago ka tsebe e le nngwe">
-<!ENTITY forwardCmd.label "Pele">
-<!ENTITY forwardCmd.accesskey "P">
-<!ENTITY forwardButton.tooltip "Tsamaela kwa pele ka tsebe e le nngwe">
-<!ENTITY reloadCmd.label "Laisa gape">
-<!ENTITY reloadCmd.accesskey "L">
-<!ENTITY reloadButton.tooltip "Laisa tsebe ya ga jaana gape">
-<!ENTITY stopCmd.label "Emisa">
-<!ENTITY stopCmd.accesskey "E">
-<!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Emisa go laisa tsebe eno">
-<!ENTITY goEndCap.label "Tsamaya">
-<!ENTITY goEndCap.tooltip "Go to the address in the Location Bar">
-<!ENTITY printButton.label "Gatisa">
-<!ENTITY printButton.tooltip "Gatisa tsebe eno">
 
-<!ENTITY locationItem.title "Lefelo">
-<!ENTITY searchItem.title "Phuruphutsa">
-<!ENTITY throbberItem.title "Sesupi sa Tiro">
-<!ENTITY bookmarksItem.title "Matshwaotsebe">
-<!ENTITY updatesItem.title "Dintšhwafatso">
 
-<!ENTITY proxyIcon.tooltip "Goga le go latlhela aekhone eno go tlhama segoke go tla fa tsebeng eno">
-<!-- Toolbar items --> 
+<!ENTITY fullscreenExitButton.label "Ganela">
 
-<!ENTITY homeButton.label "Gae">
 
-<!ENTITY bookmarksButton.label "Matshwaotsebe">
-<!ENTITY bookmarksButton.tooltip "Bontsha matshwaotsebe a gago">
-<!ENTITY bookmarksSidebarCmd.accesskey "B">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label "Hisetori">
-<!ENTITY historyButton.tooltip "Bontsha ditsebe tse o di lebileng fa gautshwane">
-<!ENTITY historySidebarCmd.accesskey "s">
-<!ENTITY historySidebarCmd.commandKey "h">
 
-<!ENTITY toolsMenu.label "Didiriswa">
-<!ENTITY toolsMenu.accesskey "D">
 
-<!ENTITY keywordfield.label "Tsenya Lefoko le le tlhaotsweng la Pheneno eno...">
-<!ENTITY keywordfield.accesskey "L">
-<!ENTITY search.label "Pheneno ya Inthanete">
-<!ENTITY search.accesskey "P">
-<!ENTITY downloads.label "Dikopololo">
-<!ENTITY downloads.tooltip "Bontsha tswelelopele ya dikopololo tse di tsweletseng">
-<!ENTITY downloads.accesskey "D">
-<!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.tooltip "Show and Manage installed Add-ons">
-<!ENTITY addons.accesskey "A">
 
-<!ENTITY javaConsoleCmd.label "Java Console">
-<!ENTITY javaConsoleCmd.accesskey "J">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "C">
 
-<!ENTITY fileMenu.label "Faele">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY newMenu.label "Ntšhwa">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY newNavigatorCmd.label "Fensetere e Ntšhwa">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "F">
 
-<!ENTITY editMenu.label "Tseleganya">
-<!ENTITY editMenu.accesskey "T">
-<!ENTITY undoCmd.label "Dirolola">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY redoCmd.label "Diragape">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "D">
-<!ENTITY cutCmd.label "Sega">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "a">
-<!ENTITY copyCmd.label "Kopolola">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Manega">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "M">
-<!ENTITY deleteCmd.label "Phimola">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Tlhopha Gotlhe">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "G">
-<!ENTITY preferencesCmd.label "Diitlhophelwa...">
-<!ENTITY preferencesCmd.accesskey "D">
-<!ENTITY preferencesCmdUnix.label "Diratwabogolo">
-<!ENTITY preferencesCmdUnix.accesskey "b">
 
-<!ENTITY clearPrivateDataCmd.label "Clear Private Data">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
 
-<!ENTITY viewMenu.label "Leba">
-<!ENTITY viewMenu.accesskey "L">
-<!ENTITY viewToolbarsMenu.label "Dibara tsa Didiriswa">
-<!ENTITY viewToolbarsMenu.accesskey "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY backCmd.label                "Morago">
+<!ENTITY backCmd.accesskey            "M">
+<!ENTITY backButton.tooltip           "Boela morago ka tsebe e le nngwe">
+<!ENTITY forwardCmd.label             "Pele">
+<!ENTITY forwardCmd.accesskey         "P">
+<!ENTITY forwardButton.tooltip        "Tsamaela kwa pele ka tsebe e le nngwe">
+
+
+<!ENTITY reloadCmd.label              "Laisa gape">
+<!ENTITY reloadCmd.accesskey          "L">
+<!ENTITY reloadButton.tooltip         "Laisa tsebe ya ga jaana gape">
+<!ENTITY stopCmd.label                "Emisa">
+<!ENTITY stopCmd.accesskey            "E">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Emisa go laisa tsebe eno">
+
+<!ENTITY printButton.label            "Gatisa">
+<!ENTITY printButton.tooltip          "Gatisa tsebe eno">
+
+<!ENTITY locationItem.title           "Lefelo">
+<!ENTITY searchItem.title             "Phuruphutsa">
+<!ENTITY bookmarksItem.title          "Matshwaotsebe">
+<!-- Toolbar items -->
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+
+<!ENTITY historyButton.label            "Hisetori">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Didiriswa">
+<!ENTITY toolsMenu.accesskey          "D"> 
+
+<!ENTITY keywordfield.label           "Tsenya Lefoko le le tlhaotsweng la Pheneno eno…">
+<!ENTITY keywordfield.accesskey       "L">
+
+<!ENTITY downloads.label              "Dikopololo">
+<!ENTITY downloads.tooltip            "Bontsha tswelelopele ya dikopololo tse di tsweletseng">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+
+
+
+
+
+
+<!ENTITY devToolsCmd.keytext          "F12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+
+<!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+
+
+
+<!ENTITY devToolbar.keytext                "F2">
+
+
+
+
+
+
+
+
+
+<!ENTITY fileMenu.label         "Faele"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "Fensetere e Ntšhwa">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "F">
+
+
+
+<!ENTITY editMenu.label         "Tseleganya"> 
+<!ENTITY editMenu.accesskey       "T"> 
+
+<!ENTITY undoCmd.key            "Z">  
+
+<!ENTITY redoCmd.label            "Diragape">  
+
+<!ENTITY redoCmd.accesskey          "D"> 
+<!ENTITY cutCmd.label           "Sega">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "a"> 
+<!ENTITY copyCmd.label            "Kopolola">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "K"> 
+<!ENTITY pasteCmd.label           "Manega">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "M"> 
+<!ENTITY deleteCmd.label          "Phimola">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "P"> 
+<!ENTITY selectAllCmd.label         "Tlhopha Gotlhe">  
+
+<!ENTITY selectAllCmd.accesskey       "G"> 
+
+
+<!ENTITY preferencesCmdUnix.label       "Diratwabogolo">
+<!ENTITY preferencesCmdUnix.accesskey     "b"> 
+
+
+
+<!ENTITY viewMenu.label         "Leba"> 
+<!ENTITY viewMenu.accesskey       "L"> 
+
+
+<!ENTITY viewToolbarsMenu.label       "Dibara tsa Didiriswa"> 
+<!ENTITY viewToolbarsMenu.accesskey     "D"> 
 <!ENTITY viewSidebarMenu.label "Dibarathoko">
 <!ENTITY viewSidebarMenu.accesskey "a">
-<!ENTITY viewCustomizeToolbar.label "Isa ka magoro...">
-<!ENTITY viewCustomizeToolbar.accesskey "I">
-<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
+<!ENTITY viewCustomizeToolbar.label       "Isa ka magoro…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "I">
 
-<!ENTITY historyMenu.label "History">
-<!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
-<!ENTITY historyUndoMenu.accesskey "R">
-<!-- XXX places only -->
 
-<!ENTITY historyHomeCmd.label "Gae">
-<!ENTITY historyHomeCmd.accesskey "g">
-<!ENTITY historySearchCmd.label "Search in History...">
-<!ENTITY historySearchCmd.accesskey "s">
-<!ENTITY historyShowCmd.label "View All History...">
-<!ENTITY historyShowCmd.accesskey "v">
-<!ENTITY placesToolbarButton.label "Show Bookmarks &amp; History">
-<!ENTITY placesToolbarButton.tooltip "Show Bookmarks &amp; History">
-<!-- XXX remove below if places sticks -->
-<!ENTITY goMenu.label "Tsamaya">
-<!ENTITY goMenu.accesskey "t">
-<!ENTITY goHomeCmd.label "Gae">
-<!ENTITY earlierHistory.label "Hisetori ya Pejana">
-<!ENTITY historyShowSidebarCmd.label "Show in Sidebar">
-<!-- XXX remove above if places sticks -->
 
-<!ENTITY releaseCmd.accesskey "G">
-<!ENTITY releaseCmd.label "Golola Dintlhana">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.accesskey "d">
+
+
+
+
+
+<!ENTITY urlbar.accesskey             "d">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -228,164 +307,312 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-  
  -->
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY searchFocus.commandkey "k">
-<!ENTITY searchFocus.commandkey2 "e">
-<!ENTITY searchFocusUnix.commandkey "j">
 
-<!ENTITY openLinkCmd.label "Bula Segoke mo Fensetereng e Ntšhwa">
-<!ENTITY openLinkCmd.accesskey "F">
-<!ENTITY openLinkCmdInTab.label "Bula Segoke mo Tab e Ntšhwa">
-<!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openLinkInWindowCmd.label "Bula">
-<!ENTITY openLinkInWindowCmd.accesskey "u">
-<!ENTITY openFrameCmd.label "Bula Foreime mo Fensetereng e Ntšhwa">
-<!ENTITY openFrameCmd.accesskey "F">
-<!ENTITY openFrameCmdInTab.label "Bula Foreime mo Tab e Ntšhwa">
-<!ENTITY openFrameCmdInTab.accesskey "T">
-<!ENTITY showOnlyThisFrameCmd.label "Bontsha Foreime Eno Fela">
-<!ENTITY showOnlyThisFrameCmd.accesskey "t">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY reloadFrameCmd.label "Laisa gape Foreime">
-<!ENTITY reloadFrameCmd.accesskey "L">
+<!ENTITY openLinkCmdInTab.label       "Bula Segoke mo Tab e Ntšhwa">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Bula Segoke mo Fensetereng e Ntšhwa">
+<!ENTITY openLinkCmd.accesskey        "F">
+
+
+
+
+<!ENTITY openFrameCmdInTab.label      "Bula Foreime mo Tab e Ntšhwa">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Bula Foreime mo Fensetereng e Ntšhwa">
+<!ENTITY openFrameCmd.accesskey       "F">
+
+
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Laisa gape Foreime">
+<!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Leba Motswedi wa Tlhopho">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Leba Motswedi wa MathML">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Leba Motswedi wa MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label "Leba Motswedi wa Tsebe">
-<!ENTITY viewPageSourceCmd.accesskey "L">
-<!ENTITY viewFrameSourceCmd.label "Leba Motswedi wa Foreime">
+<!ENTITY viewPageSourceCmd.label      "Leba Motswedi wa Tsebe">
+<!ENTITY viewPageSourceCmd.accesskey  "L">
+<!ENTITY viewFrameSourceCmd.label     "Leba Motswedi wa Foreime">
 <!ENTITY viewFrameSourceCmd.accesskey "L">
-<!ENTITY viewPageInfoCmd.label "Leba Tshedimosetso ya Tsebe">
-<!ENTITY viewPageInfoCmd.accesskey "T">
-<!ENTITY viewFrameInfoCmd.label "Leba Tshedimosetso ya Foreime">
-<!ENTITY viewFrameInfoCmd.accesskey "t">
-<!ENTITY viewImageCmd.label "Leba Setshwantsho">
-<!ENTITY viewImageCmd.accesskey "S">
-<!ENTITY viewBGImageCmd.label "Leba Setshwantsho sa Lemorago">
-<!ENTITY viewBGImageCmd.accesskey "a">
-<!ENTITY setDesktopBackgroundCmd.label "Tlhoma Jaaka Lemorago la Teseketopo...">
-<!ENTITY setDesktopBackgroundCmd.accesskey "T">
-<!ENTITY bookmarkPageCmd.label "Tshwaya Tsebe Eno...">
-<!ENTITY bookmarkPageCmd.accesskey "w">
-<!ENTITY bookmarkLinkCmd.label "Tshwayatsebe ya Segoke Seno...">
-<!ENTITY bookmarkLinkCmd.accesskey "S">
-<!ENTITY bookmarkFrameCmd.label "Tshwayatsebe ya Foreime eno...">
-<!ENTITY bookmarkFrameCmd.accesskey "F">
-<!ENTITY sendPageCmd.label "Romela Segoke...">
-<!ENTITY sendPageCmd.accesskey "o">
-<!ENTITY savePageCmd.label "Boloka Tsebe Jaaka...">
-<!ENTITY savePageCmd.accesskey "J">
+<!ENTITY viewPageInfoCmd.label        "Leba Tshedimosetso ya Tsebe">
+<!ENTITY viewPageInfoCmd.accesskey    "T">
+<!ENTITY viewFrameInfoCmd.label       "Leba Tshedimosetso ya Foreime">
+<!ENTITY viewFrameInfoCmd.accesskey   "T">
+
+
+<!ENTITY viewImageCmd.label           "Leba Setshwantsho">
+<!ENTITY viewImageCmd.accesskey       "S">
+
+
+
+
+
+
+<!ENTITY viewBGImageCmd.label         "Leba Setshwantsho sa Lemorago">
+<!ENTITY viewBGImageCmd.accesskey     "a">
+<!ENTITY setDesktopBackgroundCmd.label      "Tlhoma Jaaka Lemorago la Teseketopo…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "T">
+
+
+
+
+
+
+
+
+<!ENTITY savePageCmd.label            "Boloka Tsebe Jaaka…">
+<!ENTITY savePageCmd.accesskey        "J">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2 "P">
-<!ENTITY savePageCmd.commandkey "s">
-<!ENTITY saveFrameCmd.label "Boloka Foreime Jaaka...">
-<!ENTITY saveFrameCmd.accesskey "F">
-<!ENTITY saveLinkCmd.label "Boloka Segoke Jaaka...">
-<!ENTITY saveLinkCmd.accesskey "e">
-<!ENTITY sendLinkCmd.label "Romela Segoke...">
-<!ENTITY sendLinkCmd.accesskey "a">
-<!ENTITY saveImageCmd.label "Boloka Setshwantsho Jaaka...">
-<!ENTITY saveImageCmd.accesskey "l">
-<!ENTITY sendImageCmd.label "Romela Setshwantsho...">
-<!ENTITY sendImageCmd.accesskey "a">
-<!ENTITY copyLinkCmd.label "Kopolola Lefelo la Segoke">
-<!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopolola Lefelo la Setshwantsho">
-<!ENTITY copyImageCmd.accesskey "o">
-<!ENTITY copyImageContentsCmd.label "Kopolola Setshwantsho">
-<!ENTITY copyImageContentsCmd.accesskey "a">
-<!ENTITY blockImageCmd.accesskey "g">
-<!ENTITY metadataCmd.label "Ditlhagotshedimosetso">
-<!ENTITY metadataCmd.accesskey "D">
-<!ENTITY copyEmailCmd.label "Kopolola Aterese ya Poso ya Eleketoroniki">
-<!ENTITY copyEmailCmd.accesskey "P">
-<!ENTITY thisFrameMenu.label "Foreime Eno">
-<!ENTITY thisFrameMenu.accesskey "n">
 
-<!ENTITY textZoomEnlargeCmd.label "Oketsa">
-<!ENTITY textZoomEnlargeCmd.accesskey "O">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY saveFrameCmd.label           "Boloka Foreime Jaaka…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+
+
+<!ENTITY saveLinkCmd.label            "Boloka Segoke Jaaka…">
+<!ENTITY saveLinkCmd.accesskey        "e">
+<!ENTITY saveImageCmd.label           "Boloka Setshwantsho Jaaka…">
+<!ENTITY saveImageCmd.accesskey       "l">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY copyImageCmd.label           "Kopolola Lefelo la Setshwantsho">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Kopolola Setshwantsho">
+<!ENTITY copyImageContentsCmd.accesskey  "a"> 
+
+
+
+
+<!ENTITY copyEmailCmd.label           "Kopolola Aterese ya Poso ya Eleketoroniki">
+<!ENTITY copyEmailCmd.accesskey       "P">
+<!ENTITY thisFrameMenu.label              "Foreime Eno">
+<!ENTITY thisFrameMenu.accesskey          "n">
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
+<!ENTITY mediaPause.label            "Kgaotsa">
+<!ENTITY mediaPause.accesskey        "K">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY textZoomReduceCmd.label "Fokotsa">
-<!ENTITY textZoomReduceCmd.accesskey "F">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Tlwaelegileng">
-<!ENTITY textZoomResetCmd.accesskey "T">
-<!ENTITY textSize.label "Bogolo jwa Mafoko">
-<!ENTITY textSize.accesskey "g">
 
-<!ENTITY newTabButton.tooltip "Bula tab e ntšhwa">
-<!ENTITY newWindowButton.tooltip "Bula fensetere e ntšhwa">
-<!ENTITY sidebarCloseButton.tooltip "Tswala barathoko">
 
-<!ENTITY cutButton.tooltip "Sega">
-<!ENTITY copyButton.tooltip "Kopolola">
-<!ENTITY pasteButton.tooltip "Manega">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY quitApplicationCmdWin.label "Tswaya">
-<!ENTITY quitApplicationCmdWin.accesskey "s">
+<!ENTITY fullZoomResetCmd.label         "Bula sešwa">
+<!ENTITY fullZoomResetCmd.accesskey     "B">
+
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+
+<!ENTITY newTabButton.tooltip           "Bula tab e ntšhwa">
+<!ENTITY newWindowButton.tooltip        "Bula fensetere e ntšhwa">
+
+
+
+<!ENTITY quitApplicationCmdWin.label       "Tswaya"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "s">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label "Tlogela">
-<!ENTITY quitApplicationCmd.accesskey "T">
-<!ENTITY quitApplicationCmdMac.label "Quit">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY quitApplicationCmd.label       "Tlogela"> 
+<!ENTITY quitApplicationCmd.accesskey   "T">
 
-<!ENTITY closeCmd.label "Tswala">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "T">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+
+<!ENTITY closeCmd.label                 "Tswala">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "T">
 
 <!ENTITY pageStyleMenu.label "Setaele sa Tsebe">
 <!ENTITY pageStyleMenu.accesskey "a">
-<!ENTITY pageStyleButton.label "Ditaele tsa Tsebe">
 <!ENTITY pageStyleNoStyle.label "Ga gona Setaele">
-<!ENTITY pageStyleNoStyle.accesskey "g">
+<!ENTITY pageStyleNoStyle.accesskey "G">
 <!ENTITY pageStylePersistentOnly.label "Setaele sa Tsebe sa Ntlha">
-<!ENTITY pageStylePersistentOnly.accesskey "s">
+<!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageStyleIcon.tooltip "Fapogela go setaele se sengwe sa tsebe">
-<!ENTITY pageReportIcon.tooltip "Fetola boalo jo bo kgoreletsang tlhagelelo mo setsheng seno sa inthanete">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Tseleganya Diratwabogolo tsa Kgoreletso ya Tlhagelelo...">
-<!ENTITY editPopupSettings.label "Tseleganya Diitlhophelwa tsa Kgoreletso ya Tlhagelelo...">
-<!ENTITY editPopupSettings.accesskey "T">
+
+
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label "Fetola Ntlha ya Tsebe">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "b">
-<!ENTITY bidiSwitchTextDirectionItem.label "Ananya kwa ditlhaka di lebileng teng">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "n">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY findOnCmd.label "Batla mo Tsebeng Eno...">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Ananya kwa ditlhaka di lebileng teng">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Batla mo Tsebeng Eno…">
 <!ENTITY findOnCmd.accesskey "B">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Batla Gape">
+
+<!ENTITY findAgainCmd.label  "Batla Gape">
 <!ENTITY findAgainCmd.accesskey "a">
-<!ENTITY findAgainCmd.commandkey "g">
+
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddToDictionary.label "Add to dictionary">
-<!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Spell check this field">
-<!ENTITY spellEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
-<!ENTITY spellDictionaries.label "Languages">
-<!ENTITY spellDictionaries.accesskey "l">
-<!ENTITY spellAddDictionaries.label "Add dictionaries...">
-<!ENTITY spellAddDictionaries.accesskey "A">
-<!-- new bookmarks and history -->
 
-<!ENTITY location.status.not_bookmarked "Star (Off)">
-<!ENTITY location.status.bookmarked "Star (On)">
-<!ENTITY location.status.bookmark.tooltip "Add a Bookmark to this page">
+
+<!ENTITY editBookmark.cancel.label                   "Khansela">
+
+
+
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+
+<!ENTITY identity.moreInfoLinkText "Tshedimosetso e Nngwe…">
+
+<!ENTITY identity.permissions "Ditetla">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
+
+
+
+
+
+
+
+
+<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.accesskey   "O">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- labels are set dynamically, see browser.properties -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "B">
+
+
+<!ENTITY throbberItem.title            "Sesupi sa Tiro">
+
+
+<!ENTITY feedButton.label              "Ikwadise">
+
+
+<!ENTITY historyButton.tooltip         "Bontsha ditsebe tse o di lebileng fa gautshwane">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cutButton.tooltip             "Sega">
+<!ENTITY copyButton.tooltip            "Kopolola">
+<!ENTITY pasteButton.tooltip           "Manega">
+
+
+
+
+
+<!-- end of strings to be removed post-Australis -->

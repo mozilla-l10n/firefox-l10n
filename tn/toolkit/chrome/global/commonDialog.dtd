@@ -1,6 +1,13 @@
-<!ENTITY header.label "Setlhogo se Sekhutshwane">
-<!ENTITY message.label "Mafoko mangwe a sampole a tla fano.">
-<!ENTITY editfield0.label "Leina la Modirisi:">
-<!ENTITY editfield1.label "Khunololamoraba:">
-<!ENTITY editfield2.label "Totobatsa Khunololamoraba:">
-<!ENTITY checkbox.label "tlhola">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY header.label     "Setlhogo se Sekhutshwane"> 
+<!ENTITY message.label    "Mafoko mangwe a sampole a tla fano.">
+<!ENTITY editfield0.label "Leina la Modirisi:"> 
+<!ENTITY editfield1.label "Khunololamoraba:"> 
+<!ENTITY checkbox.label   "tlhola">
+<!ENTITY copyCmd.label    "Kopolola">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Tlhopha Gotlhe">
+<!ENTITY selectAllCmd.accesskey "G">

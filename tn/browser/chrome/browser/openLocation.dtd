@@ -1,11 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Tsena mo lefelong la inthanete (URL), gongwe o totobatse faele ya selegae e o batlang go e bula:">
-<!ENTITY chooseFile.label "Tlhopha Faele...">
-<!ENTITY newWindow.label "Fensetere e Ntšhwa">
+
+<!ENTITY enter.label "Tsena mo lefelong la inthanete (URL), gongwe o totobatse faele ya selegae e o batlang go e bula:">  
+<!ENTITY chooseFile.label "Tlhopha Faele…">
 <!ENTITY newTab.label "Tab e Ntšhwa">
-<!ENTITY topWindow.label "Fensetere ya Ga jaana">
+<!ENTITY newWindow.label "Fensetere e Ntšhwa">
+
 <!ENTITY caption.label "Bula Lefelo la Inthanete">
 <!ENTITY openWhere.label "Bula mo:">
-<!ENTITY example.label "Sekai: &vendorURL;">
 <!ENTITY openBtn.label "Bula">

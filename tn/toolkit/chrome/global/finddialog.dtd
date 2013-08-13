@@ -1,16 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from finddialog.xul -->
 
+
 <!ENTITY findDialog.title "Batla mo Tsebeng Eno">
-<!ENTITY findDialogFrame.title "Batla mo Foreiming Eno">
 <!ENTITY findField.label "Batla eng:">
 <!ENTITY findField.accesskey "t">
 <!ENTITY caseSensitiveCheckbox.label "Tshwantshanya bogolo jwa ditlhaka">
 <!ENTITY caseSensitiveCheckbox.accesskey "w">
 <!ENTITY wrapCheckbox.label "Phuthela">
 <!ENTITY wrapCheckbox.accesskey "P">
-<!ENTITY backwardsCheckbox.label "Phuruphutsa go ya kwa morago">
-<!ENTITY backwardsCheckbox.accesskey "g">
-<!ENTITY findField.tooltip "Tlanya lefoko le le lengwe gongwe a le mantsi gore go phuruphudiwe">
 <!ENTITY findButton.label "Batla e e Latelang">
 <!ENTITY findButton.accesskey "B">
 <!ENTITY cancelButton.label "Khansela">

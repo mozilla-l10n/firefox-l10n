@@ -1,120 +1,79 @@
-<!--
-# ***** BEGIN LICENSE BLOCK *****
-# Version: MPL 1.1/GPL 2.0/LGPL 2.1
-#
-# The contents of this file are subject to the Mozilla Public License Version
-# 1.1 (the "License"); you may not use this file except in compliance with
-# the License. You may obtain a copy of the License at
-# http://www.mozilla.org/MPL/
-#
-# Software distributed under the License is distributed on an "AS IS" basis,
-# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-# for the specific language governing rights and limitations under the
-# License.
-#
-# The Original Code is Mozilla Communicator client code.
-#
-# The Initial Developer of the Original Code is Daniel Brooks.
-# Portions created by the Initial Developer are Copyright (C) 2001
-# the Initial Developer. All Rights Reserved.
-#
-# Contributor(s): Daniel Brooks <db48x@yahoo.com>
-#
-# Alternatively, the contents of this file may be used under the terms of
-# either the GNU General Public License Version 2 or later (the "GPL"), or
-# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-# in which case the provisions of the GPL or the LGPL are applicable instead
-# of those above. If you wish to allow use of your version of this file only
-# under the terms of either the GPL or the LGPL, and not to allow others to
-# use your version of this file under the terms of the MPL, indicate your
-# decision by deleting the provisions above and replace them with the notice
-# and other provisions required by the LGPL or the GPL. If you do not delete
-# the provisions above, a recipient may use your version of this file under
-# the terms of any one of the MPL, the GPL or the LGPL.
-#
-# ***** END LICENSE BLOCK *****
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY preface "Tshedimosetso ya: ">
 
-<!ENTITY title "Tshedimosetso ya Tsebe">
-<!ENTITY description "Tshedimosetso ka ga tsebe ya ga jaana">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
+<!ENTITY  copy.label            "Kopolola">
+<!ENTITY  copy.accesskey        "K">
 
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Kopolola">
-<!ENTITY copy.accesskey "K">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Tlhopha Gotlhe">
-<!ENTITY selectall.accesskey "G">
-<!ENTITY closeWindow.key "w">
+<!ENTITY  selectall.label       "Tlhopha Gotlhe">
+<!ENTITY  selectall.accesskey   "G">
 
-<!ENTITY generalTab "Ka kakaretso">
-<!ENTITY generalAccesskey "G">
-<!ENTITY generalTitle "Maemo:">
-<!ENTITY generalURL "Aterese:">
-<!ENTITY generalMode "Mokgwa wa Tliso:">
-<!ENTITY generalType "Mofuta:">
-<!ENTITY generalSize "Bogolo:">
-<!ENTITY generalReferrer "URL e e fetisang:">
-<!ENTITY generalSource "Motswedi wa Khetšhe:">
-<!ENTITY generalSent "Rometswe:">
-<!ENTITY generalModified "Fetotswe:">
-<!ENTITY generalExpires "Felelwa ke nako:">
-<!ENTITY generalEncoding "E a Khoutufatsa:">
-<!ENTITY generalMeta "Mmeta:">
-<!ENTITY generalMetaName "Leina">
-<!ENTITY generalMetaContent "Diteng">
 
-<!ENTITY formsTab "Diforomo">
-<!ENTITY formsAccesskey "F">
-<!ENTITY formAction "Tiro ya diforomo">
-<!ENTITY formMethod "Mokgwa">
-<!ENTITY formName "Leina">
-<!ENTITY formNo "Nomoro">
-<!ENTITY formEncoding "E a Khoutufatsa:">
-<!ENTITY formTarget "Bogorogelo:">
-<!ENTITY formFields "Mafelo:">
-<!ENTITY formLabel "Leibole">
-<!ENTITY formFName "Leina la Lefelo">
-<!ENTITY formType "Mofuta">
-<!ENTITY formCValue "Boleng jwa ga Jaana">
+<!ENTITY  generalTab            "Ka kakaretso">
 
-<!ENTITY linksTab "Digoke">
-<!ENTITY linksAccesskey "L">
-<!ENTITY linkNo "Nomoro">
-<!ENTITY linkName "Leina">
-<!ENTITY linkAddress "Aterese">
-<!ENTITY linkType "Mofuta">
-<!ENTITY linkTarget "Bogorogelo">
-<!ENTITY linkAccessKey "Taetsi ya go Tsena">
 
-<!ENTITY mediaTab "Mmedia">
-<!ENTITY mediaAccesskey "M">
-<!ENTITY mediaHeader "Ditshwantsho mo tsebeng eno">
-<!ENTITY mediaURL "Aterese:">
-<!ENTITY mediaBase "Aterese ya Motheo:">
-<!ENTITY mediaAlt "Refosanya Mafoko:">
-<!ENTITY mediaAltHeader "Refosanya Mafoko">
-<!ENTITY mediaNo "Nomoro">
-<!ENTITY mediaName "Leina">
-<!ENTITY mediaAddress "Aterese">
-<!ENTITY mediaType "Mofuta">
-<!ENTITY mediaCount "Palelo">
-<!ENTITY mediaPlugin "Polaka:">
-<!ENTITY mediaCharset "E a Khoutufatsa:">
-<!ENTITY mediaDimensions "Tekanyo e e totobaditsweng:">
-<!ENTITY mediaPhysDimensions "Tekanyo ya nnete:">
-<!ENTITY mediaEncryption "Mokgwatshireletso:">
-<!ENTITY mediaTitle "Maemo:">
-<!ENTITY mediaLongdesc "Tlhaloso e Telele:">
-<!ENTITY mediaSaveAs "Boloka Jaaka...">
-<!ENTITY mediaSaveAs.accesskey "S">
-<!ENTITY mediaPreview "Tebopele ya Mmedia:">
+<!ENTITY  generalType           "Mofuta:">
+<!ENTITY  generalMode           "Mokgwa wa Tliso:">
+<!ENTITY  generalSize           "Bogolo:">
+<!ENTITY  generalReferrer       "URL e e fetisang:">
+<!ENTITY  generalSource         "Motswedi wa Khetšhe:">
+<!ENTITY  generalModified       "Fetotswe:">
 
-<!ENTITY framesTab "Diforeime">
-<!ENTITY framesTab.accesskey "r">
-<!ENTITY frameName "Leina">
-<!ENTITY frameAddress "Aterese">
-<!ENTITY frameType "Mofuta">
+
+<!ENTITY  generalMetaContent    "Diteng">
+<!ENTITY  generalSecurityDetails   "Dintlha">
+
+
+<!ENTITY  mediaTab              "Mmedia">
+
+<!ENTITY  mediaLocation         "Lefelo:">
+
+<!ENTITY  mediaAltHeader        "Refosanya Mafoko">
+
+
+
+<!ENTITY  mediaCount            "Palelo">
+
+<!ENTITY  mediaLongdesc         "Tlhaloso e Telele:">
+
+<!ENTITY  mediaSaveAs           "Boloka Jaaka…">
+
+
+<!ENTITY  mediaPreview          "Tebopele ya Mmedia:">
+
+
+<!ENTITY  feedSubscribe         "Ikwadise">
+
+
+<!ENTITY  permTab               "Ditetla">
+
+
+
+
+
+<!ENTITY  permBlock             "Kgoreletsa">
+
+
+
+
+
+<!ENTITY  securityTab           "Pabalesego">
+
+<!ENTITY  securityHeader        "Tshedimosetso ya pabalesego ya tsebe eno">
+
+
+<!ENTITY  securityView.unknown   "Ga e itsiwe">
+
+
+
+
+
+
+
+
+
+
+
+
+

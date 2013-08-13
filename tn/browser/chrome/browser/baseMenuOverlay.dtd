@@ -1,49 +1,39 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Ngotla">
-<!ENTITY bringAllToFront.label "Tlisa Tsotlhe fa Pele">
-<!ENTITY zoomWindow.label "Zuma/gogela">
-<!ENTITY windowMenu.label "Fensetere">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY helpMenu.label "Thusa">
-<!ENTITY helpMenu.accesskey "T">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Ngotla">
+<!ENTITY bringAllToFront.label    "Tlisa Tsotlhe fa Pele">
+<!ENTITY zoomWindow.label         "Zuma/gogela">
+<!ENTITY windowMenu.label         "Fensetere">
+
+<!ENTITY helpMenu.label           "Thusa"> 
+<!ENTITY helpMenu.accesskey       "T"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Thusa">
-<!ENTITY helpMenuWin.accesskey "T">
-<!ENTITY aboutCmd.label "Ka ga &brandFullName;">
-<!ENTITY aboutCmd.accesskey "K">
-<!ENTITY helpContents.label "Diteng tsa Thuso">
-<!ENTITY helpContents.accesskey "D">
-<!ENTITY helpContentsMac.label "&brandShortName; Thusa">
-<!ENTITY helpForIEUsers.label "Ya Badirisi ba Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "B">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpMenuWin.label        "Thusa"> 
+<!ENTITY helpMenuWin.accesskey    "T">
 
-<!ENTITY helpReleaseNotes.label "Golola Dintlhana">
-<!ENTITY helpReleaseNotes.accesskey "D">
-<!ENTITY updateCmd.label "Tlhola Dintšhwafatso...">
-<!ENTITY updateCmd.accesskey "d">
 
-<!ENTITY preferencesCmdMac.label "Preferences...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
 
-<!ENTITY servicesMenuMac.label "Services">
 
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Show All">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

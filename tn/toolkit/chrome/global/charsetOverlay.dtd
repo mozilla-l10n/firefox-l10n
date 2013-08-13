@@ -1,21 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label "Khoutufatso ya Matshwao">
-<!ENTITY charsetMenu.accesskey "K">
-<!ENTITY charsetMenuAutodet.label "Temogo-itiriso">
-<!ENTITY charsetMenuAutodet.accesskey "t">
-<!ENTITY charsetMenuMore.label "Dikhoutufatso tse Dingwe">
-<!ENTITY charsetMenuMore.accesskey "d">
-<!ENTITY charsetMenuMore1.label "Yuropa Bophirima">
-<!ENTITY charsetMenuMore1.accesskey "y">
-<!ENTITY charsetMenuMore2.label "Yuropa Botlhaba">
-<!ENTITY charsetMenuMore2.accesskey "Y">
-<!ENTITY charsetMenuMore3.label "Botlhaba jwa Asia">
-<!ENTITY charsetMenuMore3.accesskey "A">
-<!ENTITY charsetMenuMore4.label "Borwa Botlhaba &amp; Borwa Bophirima jwa Asia">
-<!ENTITY charsetMenuMore4.accesskey "B">
-<!ENTITY charsetMenuMore5.label "Bogare Botlhaba">
-<!ENTITY charsetMenuMore5.accesskey "B">
-<!ENTITY charsetMenuUnicode.label "Yunikhoutu">
-<!ENTITY charsetMenuUnicode.accesskey "Y">
-<!ENTITY charsetCustomize.label "Isa Lenane ka magoro...">
-<!ENTITY charsetCustomize.accesskey "i">
+
+<!ENTITY charsetMenu.label             "Khoutufatso ya Matshwao">
+<!ENTITY charsetMenu.accesskey         "K">
+<!ENTITY charsetMenuAutodet.label      "Temogo-itiriso">
+<!ENTITY charsetMenuAutodet.accesskey  "T">
+<!ENTITY charsetMenuMore.label         "Dikhoutufatso tse Dingwe">
+<!ENTITY charsetMenuMore.accesskey     "D">
+<!ENTITY charsetMenuMore1.label        "Yuropa Bophirima">
+<!ENTITY charsetMenuMore1.accesskey    "Y">
+<!ENTITY charsetMenuMore2.label        "Yuropa Botlhaba">
+<!ENTITY charsetMenuMore2.accesskey    "Y">
+<!ENTITY charsetMenuMore3.label        "Botlhaba jwa Asia">
+<!ENTITY charsetMenuMore3.accesskey    "A">
+<!ENTITY charsetMenuMore4.label        "Borwa Botlhaba &amp; Borwa Bophirima jwa Asia">
+<!ENTITY charsetMenuMore4.accesskey    "B">
+<!ENTITY charsetMenuMore5.label        "Bogare Botlhaba">
+<!ENTITY charsetMenuMore5.accesskey    "B">
+<!ENTITY charsetCustomize.label        "Isa Lenane ka magoro…">
+<!ENTITY charsetCustomize.accesskey    "I">

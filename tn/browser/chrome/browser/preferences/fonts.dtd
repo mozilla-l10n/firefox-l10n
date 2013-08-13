@@ -1,71 +1,70 @@
-<!ENTITY fontsDialog.title "Difonto">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY language.label "Fonts for:">
-<!ENTITY language.accesskey "F">
+<!ENTITY  fontsDialog.title                       "Difonto">
 
-<!ENTITY size.label "Bogolo:">
-<!ENTITY size.accesskey1 "z">
-<!ENTITY size.accesskey2 "e">
+<!ENTITY  window.macWidth                         "43em">
 
-<!ENTITY proportional.label "Lekalekanang:">
-<!ENTITY proportional.accesskey "L">
 
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monosepeisi:">
-<!ENTITY monospace.accesskey "M">
-<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY fantasy.label "Fantasi:">
-<!ENTITY fantasy.accesskey "F">
-<!ENTITY cursive.label "Mokwalotshwaraganyo:">
-<!ENTITY cursive.accesskey "M">
 
-<!ENTITY fontsize.units "dipikisele">
 
-<!ENTITY font.langGroup.latin1 "Bophirima">
-<!ENTITY font.langGroup.latin2 "Yuropa Bogare">
-<!ENTITY font.langGroup.japanese "SeJapane">
-<!ENTITY font.langGroup.trad-chinese "SeTšhaena sa Setso (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "SeTšhaena se se Nolofaditsweng">
-<!ENTITY font.langGroup.trad-chinese-hk "SeTšhaena sa Setso (Hong Kong)">
-<!ENTITY font.langGroup.korean "SeKorea">
-<!ENTITY font.langGroup.cyrillic "SeCyrillic">
-<!ENTITY font.langGroup.baltic "SeBaltic">
-<!ENTITY font.langGroup.el "Segerika">
-<!ENTITY font.langGroup.turkish "SeTurk">
-<!ENTITY font.langGroup.unicode "Dipuo Tse Dingwe">
-<!ENTITY font.langGroup.user-def "Modirisi o Tlhalositswe">
-<!ENTITY font.langGroup.thai "SeThai">
-<!ENTITY font.langGroup.hebrew "Sehebera">
-<!ENTITY font.langGroup.arabic "Searabia">
-<!ENTITY font.langGroup.devanagari "SeDevanagari">
-<!ENTITY font.langGroup.tamil "SeTamil">
-<!ENTITY font.langGroup.armenian "SeArmenia">
-<!ENTITY font.langGroup.bengali "SeBengal">
-<!ENTITY font.langGroup.canadian "Tlotlontswe e e Kopantsweng ya Canada">
-<!ENTITY font.langGroup.ethiopic "SeItopia">
-<!ENTITY font.langGroup.georgian "SeGeorgia">
-<!ENTITY font.langGroup.gujarati "SeGujarati">
-<!ENTITY font.langGroup.gurmukhi "SeGurmukhi">
-<!ENTITY font.langGroup.khmer "SeKhmer">
-<!ENTITY font.langGroup.malayalam "SeMalayalam">
+<!ENTITY  size.label                              "Bogolo:">
+
+
+
+<!ENTITY  proportional.label                      "Lekalekanang:">
+<!ENTITY  proportional.accesskey                  "L">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monosepeisi:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Bophirima">
+<!ENTITY  font.langGroup.latin2                   "Yuropa Bogare">
+<!ENTITY  font.langGroup.japanese                 "SeJapane">
+<!ENTITY  font.langGroup.trad-chinese             "SeTšhaena sa Setso (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "SeTšhaena se se Nolofaditsweng">
+<!ENTITY  font.langGroup.trad-chinese-hk          "SeTšhaena sa Setso (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "SeKorea">
+<!ENTITY  font.langGroup.cyrillic                 "SeCyrillic">
+<!ENTITY  font.langGroup.baltic                   "SeBaltic">
+<!ENTITY  font.langGroup.el                       "Segerika">
+<!ENTITY  font.langGroup.turkish                  "SeTurk">
+<!ENTITY  font.langGroup.unicode                  "Dipuo Tse Dingwe">
+<!ENTITY  font.langGroup.user-def                 "Modirisi o Tlhalositswe">
+<!ENTITY  font.langGroup.thai                     "SeThai">
+<!ENTITY  font.langGroup.hebrew                   "Sehebera">
+<!ENTITY  font.langGroup.arabic                   "Searabia">
+<!ENTITY  font.langGroup.devanagari               "SeDevanagari">
+<!ENTITY  font.langGroup.tamil                    "SeTamil">
+<!ENTITY  font.langGroup.armenian                 "SeArmenia">
+<!ENTITY  font.langGroup.bengali                  "SeBengal">
+<!ENTITY  font.langGroup.canadian                 "Tlotlontswe e e Kopantsweng ya Canada">
+<!ENTITY  font.langGroup.ethiopic                 "SeItopia">
+<!ENTITY  font.langGroup.georgian                 "SeGeorgia">
+<!ENTITY  font.langGroup.gujarati                 "SeGujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "SeGurmukhi">
+<!ENTITY  font.langGroup.khmer                    "SeKhmer">
+<!ENTITY  font.langGroup.malayalam                "SeMalayalam">
+<!ENTITY  font.langGroup.oriya                    "SeOriya">
+<!ENTITY  font.langGroup.telugu                   "SeTelugu">
+<!ENTITY  font.langGroup.kannada                  "SeKannada">
+
+<!ENTITY  font.langGroup.tibetan                  "SeTibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label "Minimum font size:">
-<!ENTITY minSize.accesskey "o">
-<!ENTITY minSize.none "Bope">
+
+<!ENTITY minSize.none                             "Bope">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "Serifi">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serifi">
+<!ENTITY  useDefaultFontSerif.label               "Serifi">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serifi">
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own fonts, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
 
-<!ENTITY languages.customize.Charset.grouplabel "Khoutololo ya Matshwao">
-<!ENTITY languages.customize.DefaultCharset.label "Khoutololo ya Matshwao e e rulaganyeditsweng ruri:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "M">
+
+
+
+

@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.width  "700">
+
+
+
+
+
+<!ENTITY file.close.label               "Tswala">
+<!ENTITY file.close.accesskey           "T">
+
+
+
+
+
+
+
+
+<!ENTITY view.unsorted.label            "Sa Tlhomaganngwang">
+<!ENTITY view.unsorted.accesskey        "S">
+<!ENTITY view.sortAscending.label       "Thulaganyo ya Tlhomaganyo ya A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Thulaganyo ya Tlhomaganyo ya A > Z">
+<!ENTITY view.sortDescending.accesskey  "A">
+
+
+
+
+
+
+
+
+<!ENTITY cmd.restore2.label             "Busetsa">
+<!ENTITY cmd.restore2.accesskey         "B">
+
+
+
+<!ENTITY cmd.bookmarkLink.label         "Tshwaya Tsebe Eno…">
+<!ENTITY cmd.bookmarkLink.accesskey     "T">
+
+
+
+
+
+<!ENTITY cmd.open.label                  "Bula">
+<!ENTITY cmd.open.accesskey              "B">
+
+
+
+
+
+
+
+<!ENTITY cmd.properties.label      "Ditlhagotshedimosetso">
+<!ENTITY cmd.properties.accesskey  "t">
+
+
+
+
+<!ENTITY cmd.new_bookmark.label            "Letshwaotsebe le Lentšhwa…">
+<!ENTITY cmd.new_bookmark.accesskey        "L">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY col.name.label          "Leina">
+
+<!ENTITY col.url.label           "Lefelo">
+
+
+
+<!ENTITY col.description.label   "Tlhaloso">
+
+<!ENTITY col.lastmodified.label  "Fetotswe la Bofelo">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY view.label               "Leba">
+<!ENTITY view.accesskey           "a">
+<!ENTITY byDate.label             "Ka Letlha">
+<!ENTITY byDate.accesskey         "L">
+<!ENTITY bySite.label             "Ka Setsha">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Ka Tse di Etetsweng Thata">
+<!ENTITY byMostVisited.accesskey  "E">
+<!ENTITY byLastVisited.label      "Ka Tse di Etetsweng La Bofelo">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "Ka Letlha le Setsha">
+<!ENTITY byDayAndSite.accesskey   "t">

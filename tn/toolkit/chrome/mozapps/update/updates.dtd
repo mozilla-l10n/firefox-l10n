@@ -1,85 +1,64 @@
-<!ENTITY updateWizard.title "Ntšhwafatso ya Serweboleta">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "Ntšhwafatso ya Serweboleta">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
+<!ENTITY  checking.title                  "E tlhola Dintšhwafatso">
 
-<!ENTITY checking.title "E tlhola Dintšhwafatso">
-<!ENTITY checking.label "jaanong &brandShortName; e tlhola dintšhwafatso...">
 
-<!ENTITY cancel.label "Khansela">
-<!ENTITY cancel.accesskey "K">
 
-<!ENTITY noupdatesfound.title "Ga gona dintšhwafatso dipe tse di bonweng">
-<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
-                                           periodically for new updates.">
 
-<!ENTITY updatesfound.title "Ntšhwafatso e Gona">
 
-<!ENTITY moreDetails.label "Dintlha tse Dingwe&#0187;">
-<!ENTITY moreDetails.accesskey "D">
-<!ENTITY clickHere.label "View more information about this update">
+<!ENTITY  noupdatesfound.title            "Ga gona dintšhwafatso dipe tse di bonweng">
 
-<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
-                                           to stop working until they are updated.">
-<!ENTITY listIncompatible.label "Bontsha Lenane">
-<!ENTITY listIncompatible.accesskey "L">
 
-<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
-                                           as soon as possible.">
 
-<!ENTITY license.title "Tumelano ya Laesense">
-<!ENTITY license.intro "To install this update you must agree to this license agreement. 
-                                           Please read it carefully:">
-<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
-                                           below to continue installing this update.">
 
-<!ENTITY license.titleText "Software License Agreement">
-<!ENTITY license.introText "Terms and conditions for using this software.">
-<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY license.accept "I accept the terms of the License Agreement">
-<!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
-<!ENTITY license.decline.accesskey "T">
 
-<!ENTITY downloading.title "E kopolola Ntšhwafatso">
-<!ENTITY downloading.intro "E kopolola ntšhwafatso...">
-<!ENTITY connecting.label "E golagana le dikgatlhong tsa ntšhwafatso...">
-<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
-                                           incremental update it downloaded, so it is now downloading
-                                           the complete update package.">
 
-<!ENTITY details.link "Dintlha">
-<!ENTITY pause.label "Kgaotsa">
-<!ENTITY pause.accesskey "a">
-<!ENTITY close.label "Tswala">
-<!ENTITY close.accesskey "T">
 
-<!ENTITY error.label "There were problems checking for, downloading or installing this 
-                                           update. &brandShortName; could not be updated because:">
-                                           
-<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
-                                           and downloading the latest version:">
-                                           
-<!ENTITY errorpatching.title "Ntšhwafatso e Retetse">
-<!ENTITY errorpatching.intro "The partial Update could not be applied. 
-                                           &brandShortName; will try again by downloading a complete Update.">
 
-<!ENTITY finished.title "Ntšhwafatso e Kopolotswe">
-<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
-                                           be installed the next time &brandShortName; starts.">
 
-<!ENTITY finishedBackground.title "Ntšhwafatso e Siame go ka Tlhoma">
-<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
-                                           Click the link below for more details.">
-<!ENTITY finishedBackground.name "Ntšhwafatsa:">
-<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
-<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
-                                           will install the update the next time it starts.">
 
-<!ENTITY installed.title "Ntšhwafatso e Tlhomilwe">
-<!ENTITY installed.intro "Ntšhwafatso e tlhomilwe ka katlego.">
-<!ENTITY whatsnew.label "Buisa tse dingwe ka ga tse dintšhwa...">
 
-<!ENTITY update.details.label "Dintlha">
-<!ENTITY update.installedOn.label "Tlhomilwe mo:">
-<!ENTITY update.status.label "Maemo:">
+
+
+
+
+<!ENTITY  license.titleText               "Tumelano ya Laesense ya Serweboleta">
+<!ENTITY  license.introText               "Mabaka le dipeelo tsa go dirisa serweboleta seno.">
+<!ENTITY  license.instructionText         "Tsweetswee buisa tumelano e e latelang ya laesense. Dirisa baratshutiso go leba tumelano eno yotlhe.">
+
+
+
+
+
+
+<!ENTITY  downloading.intro               "E kopolola ntšhwafatso…">
+<!ENTITY  connecting.label                "E golagana le dikgatlhong tsa ntšhwafatso…">
+
+
+
+<!ENTITY  details.link                    "Dintlha">
+
+<!ENTITY  error.title                     "Ntšhwafatso e Retetse">
+
+
+
+
+
+
+
+<!ENTITY  finishedPage.title              "Ntšhwafatso e Siame go ka Tlhoma">
+
+
+<!ENTITY  finishedBackground.name         "Ntšhwafatsa:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+
+<!ENTITY  installed.title                 "Ntšhwafatso e Tlhomilwe">
+<!ENTITY  installed.intro                 "Ntšhwafatso e tlhomilwe ka katlego.">
+<!ENTITY  whatsnew.label                  "Buisa tse dingwe ka ga tse dintšhwa…">
+
+<!ENTITY  update.details.label            "Dintlha">
+<!ENTITY  update.installedOn.label        "Tlhomilwe mo:">
+<!ENTITY  update.status.label             "Maemo:">

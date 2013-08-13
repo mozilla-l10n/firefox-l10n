@@ -1,11 +1,7 @@
-<!ENTITY window.width "38em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ocspDialog.title "Tlhomamiso">
-<!ENTITY validation.ocsp.description "&brandShortName; e ka dirisa Porotokolo ya Maemo a Setifikeiti (OCSP) mo Kgolaganong ya Khomphiutara go tlhomamisa ditifikeiti. Tlhoma &brandShortName; go dirisa OCSP ya Khomphiutara jaana:">
-<!ENTITY disableOCSP.label "Se dirise OCSP mo Kgolaganong ya Khomphiutara go tlhomamisa setifikeiti">
-<!ENTITY certOCSP.label "Dirisa OCSP go tlhomamisa fela ditifikeiti tse di totobatsang tirelo ya URL ya OCSP">
-<!ENTITY proxyOCSP.label "Dirisa OCSP mo Kgolaganong ya Khomphiutara go tlhomamisa ditifikeiti o dirisa URL eno le sesaeni:">
-<!ENTITY serviceURL.label "URL ya Tirelo:">
-<!ENTITY serviceURL.accesskey "U">
-<!ENTITY signingCA.label "Sesaeni sa Tsibogo:">
-<!ENTITY signingCA.accesskey "S">
+
+
+
