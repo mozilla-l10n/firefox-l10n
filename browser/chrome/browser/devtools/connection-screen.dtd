@@ -6,14 +6,17 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "Koppel">
+<!ENTITY header     "Koppel aan afgeleë toestel">
 <!ENTITY host       "Gasheer:">
 <!ENTITY port       "Poort:">
-
+<!ENTITY connect    "Koppel">
 <!ENTITY connecting "Verbind tans…">
 
 
 <!ENTITY connectionError "Fout:">
 
-
-
+<!ENTITY errorRefused "Fout: verbinding geweier.">
+<!ENTITY errorUnexpected "Onverwagse fout.">
 
