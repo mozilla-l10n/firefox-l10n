@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "&brandShortName; kuruluyor">
-<!ENTITY  splash_bookmarks_history "Yer imlerinizi ve geçmişinizi güncelliyoruz. Bu işlem bir dakika kadar sürebilir.">
-
 <!ENTITY  no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY  error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
 
@@ -67,20 +64,24 @@
 
 <!ENTITY settings "Ayarlar">
 <!ENTITY settings_title "Ayarlar">
-<!ENTITY pref_category_general "Genel">
-<!ENTITY pref_category_privacy "Gizlilik ve güvenlik">
-<!ENTITY pref_category_content "İçerik">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+
+
+
+
+
+
 <!ENTITY pref_category_datareporting "Veri tercihleri">
-<!ENTITY pref_about_firefox "&brandShortName; hakkında">
+
+
+
+
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Genel">
-<!ENTITY pref_header_privacy "Gizlilik ve güvenlik">
-<!ENTITY pref_header_content "İçerik">
+
+
+
+
 
 <!ENTITY pref_cookies_menu "Çerezler">
 <!ENTITY pref_cookies_accept_all "Etkin">
@@ -101,7 +102,11 @@
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
-<!ENTITY pref_reflow_on_zoom3 "Metni yeniden sıralamak için çift dokunun">
+
+
+
+
+
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
@@ -132,6 +137,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings2 "Site ayarları">
 <!ENTITY pref_private_data_downloadFiles "İndirilmiş dosyalar">
+
+
+<!ENTITY pref_about_firefox "&brandShortName; hakkında">
+
+<!ENTITY pref_vendor_feedback "Geri bildirim gönder">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
 <!ENTITY datareporting_notification_action_long "Hangi bilgilerin paylaşılacağını seç">
@@ -180,12 +190,11 @@ size. -->
 <!ENTITY new_tab "Yeni sekme">
 <!ENTITY new_private_tab "Yeni gizli sekme">
 <!ENTITY close_all_tabs "Tüm sekmeleri kapat">
-<!ENTITY tabs_normal "Sekmeler">
+
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
-<!ENTITY wallpaper_success "Duvar kağıdı güncellendi">
-<!ENTITY wallpaper_progress "Duvar kağıdı ayarlanıyor">
-<!ENTITY wallpaper_fail "Duvar kağıdı ayarlanamadı">
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +240,8 @@ size. -->
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!ENTITY reading_list_failed "Sayfa, Okuma Listenize eklenemedi">
 <!ENTITY reading_list_duplicate "Sayfa zaten Okuma Listenizde">
-<!ENTITY reader "Okuyucu">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
 <!ENTITY masterpassword_remove_title "Ana parolayı kaldır">
@@ -314,6 +324,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "Uygulama">
 
 <!ENTITY searchable_description "Yer imleri ve geçmiş">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName; için güncelleme mevcut">
@@ -326,3 +337,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName; için güncelleme mevcut">
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Devam">
+
+
+
+
+
