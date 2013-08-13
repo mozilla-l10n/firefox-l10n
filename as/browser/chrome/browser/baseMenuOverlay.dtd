@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; সহায়">
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
