@@ -100,7 +100,7 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "連絡資訊">
+<!ENTITY contact.heading                                "聯絡資訊">
 <!ENTITY home.heading                                   "住家">
 <!ENTITY other.heading                                  "其他">
 <!ENTITY phone.heading                                  "電話">
