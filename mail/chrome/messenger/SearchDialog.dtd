@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "寫信">
 <!ENTITY composeButton.accesskey     "W">
+<!ENTITY deleteCardButton.label      "刪除">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "進階通訊錄搜尋">
 
 <!-- Thread Pane -->

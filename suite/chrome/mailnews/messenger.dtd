@@ -530,22 +530,3 @@
 <!ENTITY all.label "全部">
 <!ENTITY all.accesskey "A">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; 認為此郵件為垃圾信">
-<!ENTITY junkBarButton.label "這不是垃圾信">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "為保護您的隱私，&brandShortName; 已阻擋來自遠端的內容。">
-<!ENTITY loadRemoteContentButton.label "顯示遠端內容">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; 認為這封訊息可能是一封詐騙郵件。">
-<!ENTITY removePhishingBarButton.label "不是詐騙信">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "忽略要求">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "傳送回條">
-<!ENTITY mdnBarSendButton.accesskey "S">
-
