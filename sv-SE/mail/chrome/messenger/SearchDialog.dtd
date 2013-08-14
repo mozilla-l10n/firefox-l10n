@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "E">
 <!ENTITY composeButton.label         "Skriv">
 <!ENTITY composeButton.accesskey     "r">
+<!ENTITY deleteCardButton.label      "Ta bort">
+<!ENTITY deleteCardButton.accesskey  "T">
 <!ENTITY abSearchDialogTitle.label   "Avancerad sökning i adressbok">
 
 <!-- Thread Pane -->
