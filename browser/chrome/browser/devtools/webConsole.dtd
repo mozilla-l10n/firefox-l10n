@@ -57,5 +57,5 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY findCmd.key "F">
 <!ENTITY clearOutputCmd.key "K">
-<!ENTITY btnPageLogging.accesskey2 "e">
-<!ENTITY clearOutputCtrl.key "a">
+<!ENTITY btnPageLogging.accesskey2 "R">
+<!ENTITY clearOutputCtrl.key "L">
