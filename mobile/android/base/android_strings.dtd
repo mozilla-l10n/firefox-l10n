@@ -16,7 +16,7 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message2 "&brandShortName; fikk et problem og krasjet. Faner som var åpne vil være tilgjengelig på &brandShortName; sin Startside etter du starter på nytt.">
-<!ENTITY  crash_send_report_message2 "Fortell Mozilla om dette krasjet så de kan rette det">
+<!ENTITY  crash_send_report_message3 "Fortell &vendorShortName; om dette krasjet så de kan rette det">
 <!ENTITY  crash_include_url2 "Inkluder adressen til nettstedet problemet oppstod på">
 <!ENTITY  crash_sorry "Vi beklager">
 <!ENTITY  crash_comment "Legg til en kommentar (kommentarer er offentlig synlige)">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjernet">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
+<!ENTITY bookmark_options "Innstillinger">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Nedlastede filer">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
+<!ENTITY datareporting_notification_action_long "Velg hvilken info som deles">
 <!ENTITY datareporting_notification_action "Velg hva du vil dele">
 <!ENTITY datareporting_notification_summary "For å gi deg en bedre opplevelse vil &brandShortName; automatisk sende noe info til &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "For å gi deg en bedre opplevelse din vil &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Helserapport">
-<!ENTITY datareporting_fhr_summary "Hjelper deg å forstå ytelsen til nettleseren, og sender forskjellig info til &vendorShortName; om helsen til nettleseren din">
+<!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettleserens helse, og hjelper deg å forstå ytelsen til nettleseren">
+<!ENTITY datareporting_abouthr_title "Vis helserapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Sender info om ytelse, bruksmønster, maskinvare og tilpasninger i nettleseren til &vendorShortName;, for å hjelpe oss gjøre &brandShortName; bedre">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapporter for å hjelpe &vendorShortName; med å gjøre nettleseren mer stabil og sikker">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Krasjrapportering">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
+<!ENTITY datareporting_wifi_title "&vendorShortName; stedsangivelse">
+<!ENTITY datareporting_wifi_summary "Hjelp å forbedre geolokasjonstjenester for den åpne verdensveven ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
 
 <!ENTITY pref_update_autodownload "Automatiske oppdateringer">
 <!ENTITY pref_update_autodownload_wifi "Bare over Wi-Fi">
@@ -284,6 +289,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives av">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Denne siden viser innhold som ikke er sikret.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhold som ikke er sikret.">
+<!ENTITY blocked_mixed_content_message_bottom "De fleste nettsted vil fortsatt virke selv om dette innholdet blokkeres.">
+<!ENTITY learn_more "Les mer">
+<!ENTITY enable_protection "Slå på beskyttelse">
+<!ENTITY disable_protection "Slå av beskyttelse">
+<!ENTITY keep_blocking "Fortsett blokkering">
+
 <!ENTITY private_data_success "Privat data slettet">
 <!ENTITY private_data_fail "Klarte ikke slette noen av de privata dataene">
 
@@ -307,11 +321,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Oppdateringer er tilgjengelige for &brandShortName;">
 <!ENTITY updater_start_select2 "Trykk for å laste ned">
- 
+
 <!ENTITY updater_downloading_title2 "Laster ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feilet">
 <!ENTITY updater_downloading_select2 "Trykk for å installere når ferdig nedlastet">
 <!ENTITY updater_downloading_retry2 "Trykk for å prøve igjen">
- 
+
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatere">
