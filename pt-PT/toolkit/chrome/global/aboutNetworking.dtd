@@ -1,10 +1,10 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+ï»¿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Sobre rede">
-<!ENTITY aboutNetworking.warning               "Isto é muito experimental. Não utilize sem a supervisão de um adulto.">
-<!ENTITY aboutNetworking.showNextTime          "Mostrar este aviso da próxima vez">
+<!ENTITY aboutNetworking.warning               "Isto Ã© muito experimental. NÃ£o utilize sem a supervisÃ£o de um adulto.">
+<!ENTITY aboutNetworking.showNextTime          "Mostrar este aviso da prÃ³xima vez">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.http                  "Http">
 <!ENTITY aboutNetworking.sockets               "Sockets">
@@ -22,8 +22,8 @@
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Enviado">
 <!ENTITY aboutNetworking.received              "Recebido">
-<!ENTITY aboutNetworking.family                "Família">
-<!ENTITY aboutNetworking.addresses             "Endereços">
+<!ENTITY aboutNetworking.family                "FamÃ­lia">
+<!ENTITY aboutNetworking.addresses             "EndereÃ§os">
 <!ENTITY aboutNetworking.expires               "Expira (Segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensagens enviadas">
 <!ENTITY aboutNetworking.messagesReceived      "Mensagens recebidas">
