@@ -207,6 +207,7 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
 <!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
+<!ENTITY contextmenu_open_in_reader "Åbn i Læser">
 <!ENTITY contextmenu_remove_history "Fjern">
 <!ENTITY contextmenu_remove_bookmark "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
@@ -241,7 +242,6 @@ size. -->
 <!ENTITY reading_list_removed "Siden er fjernet fra din læseliste">
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
-<!ENTITY reader "Læser">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
