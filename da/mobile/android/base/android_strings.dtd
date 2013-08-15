@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Konfigurer din &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Vi opdaterer dine bogmærker og historik, hvilket kan tage et minut eller deromkring.">
-
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Indstillinger">
 <!ENTITY settings_title "Indstillinger">
-<!ENTITY pref_category_general "Generelt">
-<!ENTITY pref_category_privacy "Privatliv &amp; sikkerhed">
-<!ENTITY pref_category_content "Indhold">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Avancerede">
+<!ENTITY pref_category_customize "Tilpas">
+<!ENTITY pref_category_search2 "Søgeindstillinger">
+<!ENTITY pref_category_display "Vis">
+<!ENTITY pref_category_privacy_short "Privatliv">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datadeling">
-<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Installerede søgetjenester">
+<!ENTITY pref_category_devtools "Udviklerværktøjer">
+<!ENTITY pref_developer_remotedebugging "Remote debugging">
+<!ENTITY pref_developer_remotedebugging_docs "Læs mere">
 <!ENTITY pref_remember_signons "Husk adgangskoder">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Generelt">
-<!ENTITY pref_header_privacy "Privatliv &amp; sikkerhed">
-<!ENTITY pref_header_content "Indhold">
+<!ENTITY pref_header_customize "Tilpas">
+<!ENTITY pref_header_display "Vis">
+<!ENTITY pref_header_privacy_short "Privatliv">
+<!ENTITY pref_header_help "Hjælp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Udviklerværktøjer">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Aktiveret">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom3 "Dobbelttryk for at reformatere teksten">
+<!ENTITY pref_reflow_on_zoom4 "Reformater teksten">
+<!ENTITY pref_restore "Faneblade">
+<!ENTITY pref_restore_always "Gendan altid">
+<!ENTITY pref_restore_crash "Gendan efter et nedbrud">
+<!ENTITY pref_restore_never "Gendan aldrig">
 <!ENTITY pref_font_size_tiny "Ekstra lille">
 <!ENTITY pref_font_size_small "Lille">
 <!ENTITY pref_font_size_medium "Mellem">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline webapplikationsdata">
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
 <!ENTITY pref_private_data_downloadFiles "Hentede filer">
+
+
+<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Giv os din mening">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
 <!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Faneblade">
 <!ENTITY tabs_private "Privat browsing">
 <!ENTITY tabs_synced "Synkroniseret">
-<!ENTITY wallpaper_success "Baggrundsbillede opdateret">
-<!ENTITY wallpaper_progress "Påfører baggrundsbillede">
-<!ENTITY wallpaper_fail "Kunne ikke påføre baggrundsbillede">
+<!ENTITY set_image_fail "Kunne ikke bruge billedet">
+<!ENTITY set_image_chooser_title "Brug billede som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -196,7 +207,6 @@ size. -->
 
 <!ENTITY contextmenu_open_new_tab "Åbn i nyt faneblad">
 <!ENTITY contextmenu_open_private_tab "Åbn i faneblad med privat browsing">
-<!ENTITY contextmenu_open_in_reader "Åbn i Læser">
 <!ENTITY contextmenu_remove_history "Fjern">
 <!ENTITY contextmenu_remove_bookmark "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
@@ -232,6 +242,10 @@ size. -->
 <!ENTITY reading_list_failed "Kunne ikke tilføje siden til din læseliste">
 <!ENTITY reading_list_duplicate "Siden er allerede på din læseliste">
 <!ENTITY reader "Læser">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Flere handlinger">
 
 <!ENTITY masterpassword_create_title "Opret hovedadgangskode">
 <!ENTITY masterpassword_remove_title "Fjern hovedadgangskode">
@@ -291,7 +305,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Denne side viser usikkert indhold.">
-
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokeret usikkert indhold.">
 <!ENTITY blocked_mixed_content_message_bottom "De fleste websteder vil stadig virke, selvom dette indhold er blokeret.">
 <!ENTITY learn_more "Læs mere">
@@ -319,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bogmærker og historik">
 
+<!ENTITY devtools_remote_debugging_forward "Husk at angive viderestilling af port!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Opdatering tilgængelig til &brandShortName;">
 <!ENTITY updater_start_select2 "Tryk for at hente">
@@ -331,4 +346,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Opdatering tilgængelig til &brandShortName;">
 <!ENTITY updater_apply_select2 "Tryk for at opdatere">
 
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Ny gæst-session">
+<!ENTITY exit_guest_session "Luk gæst-session">
+<!ENTITY guest_session_dialog_continue "Fortsæt">
+<!ENTITY guest_session_dialog_cancel "Annuller">
+<!ENTITY new_guest_session_title "&brandShortName; bliver nu genstartet">
+<!ENTITY new_guest_session_text "Brugeren af gæst-sessionen vil ikke kunne se dine personlige browsing-data (som fx gemte adgangskoder, historik og bogmærker).\n\nNår din gæst er færdig, vil vedkommendes browsing-data blive slettet, og din session vil blive åbnet igen.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; bliver nu genstartet">
+<!ENTITY exit_guest_session_text "Dine browsing-data fra denne session vil blive slettet.">
 
