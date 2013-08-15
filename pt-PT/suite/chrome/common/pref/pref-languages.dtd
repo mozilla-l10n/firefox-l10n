@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "As páginas web estão normalmente disponíveis em mais do que um idioma. Escolha os idiomas para mostrar as páginas web por ordem de preferência.">
+<!ENTITY  languages.customize.prefLangDescript          "Algumas páginas web estão disponíveis em diversos idiomas. Escolha os idiomas para as páginas web, por ordem de preferência.">
 <!ENTITY languages.customize.title                      "Idiomas">
 <!ENTITY langtitle.label                                "idiomas para páginas web">
-<!ENTITY languages.customize.prefAddLangDescript        "Seleccione o(s) idiomas) que deseja adicionar.">
-<!ENTITY languages.customize.addButton.label            "Adicionar…">
+<!ENTITY languages.customize.prefAddLangDescript        "Selecione o(s) idiomas) que deseja adicionar.">
+<!ENTITY languages.customize.addButton.label            "Adicionar">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 <!ENTITY languages.customize.deleteButton.label         "Remover">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
@@ -14,11 +17,13 @@
 <!ENTITY languages.customize.active.accesskey           "I">
 <!ENTITY languages.customize.others.label               "Outros:">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Charset.grouplabel         "Codificação de caracteres pré-definida">
-<!ENTITY languages.customize.DefaultCharset.label       "Codificação de caracteres:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.others.accesskey           "O">
+<!ENTITY languages.customize.Fallback.grouplabel        "Codificação de caracteres para conteúdo antigo">
+<!ENTITY languages.customize.Fallback.label      		    "Codificação de caracteres alternativa:">
+<!ENTITY languages.customize.Fallback.accesskey    		  "C">
+<!ENTITY languages.customize.Fallback.desc              "Utilizada para conteúdo antigo que não declara a sua codificação.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
-<!ENTITY languages.customize.others.examples            "ex: pt-br, ar-jo">
+<!ENTITY languages.customize.others.examples            "ex: pt-PT, pt-BR">
 <!ENTITY languages.customize.moveUp.label               "Mover para cima">
 <!ENTITY languages.customize.moveUp.accesskey           "c">
 <!ENTITY languages.customize.moveDown.label             "Mover para baixo">
