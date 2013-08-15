@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -200,8 +205,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "Agregar una palabra clave a esta búsqueda…">
 <!ENTITY keywordfield.accesskey "g">
-<!ENTITY search.label "Búsqueda web">
-<!ENTITY search.accesskey "S">
 <!ENTITY downloads.label "Descargas">
 <!ENTITY downloads.tooltip "Muestra el progreso de las descargas">
 <!ENTITY downloads.accesskey "D">
@@ -327,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión previa">
 
-<!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
@@ -410,6 +412,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewImageInfoCmd.label       "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "Ver descripción">
+<!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Ver video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
@@ -625,6 +629,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "que es provisto por">
 
 <!ENTITY identity.moreInfoLinkText "Más información…">
+
+<!ENTITY identity.permissions "Permisos">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
