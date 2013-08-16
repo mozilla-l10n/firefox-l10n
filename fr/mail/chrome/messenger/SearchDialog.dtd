@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Écrire">
 <!ENTITY composeButton.accesskey     "c">
+<!ENTITY deleteCardButton.label      "Supprimer">
+<!ENTITY deleteCardButton.accesskey  "S">
 <!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d'adresses">
 
 <!-- Thread Pane -->
