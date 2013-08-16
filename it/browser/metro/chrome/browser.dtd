@@ -1,0 +1,62 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext "Cerca o inserisci un indirizzo">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY back.label "Indietro">
+<!ENTITY forward.label "Avanti">
+<!ENTITY newtab.label "Nuova scheda">
+<!ENTITY closetab.label "Chiudi scheda">
+<!ENTITY autocompleteResultsHeader.label "Risultati">
+<!ENTITY appbarErrorConsole.label "Apri console errori">
+<!ENTITY appbarJSShell.label "Apri shell JavaScript">
+<!ENTITY appbarFindInPage2.label "Trova nella pagina">
+<!ENTITY appbarViewOnDesktop2.label "Visualizza sulla scrivania">
+<!ENTITY topSitesHeader.label "Siti principali">
+<!ENTITY bookmarksHeader.label "Segnalibri">
+<!ENTITY recentHistoryHeader.label "Cronologia recente">
+<!ENTITY remoteTabsHeader.label "Schede da altri dispositivi">
+<!ENTITY narrowTopSitesHeader.label "Siti principali">
+<!ENTITY narrowBookmarksHeader.label "Segnalibri">
+<!ENTITY narrowRecentHistoryHeader.label "Cronologia recente">
+<!ENTITY narrowRemoteTabsHeader.label "Schede remote">
+<!ENTITY downloadsHeader.label "Download">
+<!ENTITY downloadShowPage.label "Vai alla pagina">
+<!ENTITY downloadShow2.label "Trova">
+<!ENTITY downloadOpen2.label "Apri">
+<!ENTITY downloadCancel.label "Annulla">
+<!ENTITY downloadPause.label "Pausa">
+<!ENTITY downloadResume.label "Riprendi">
+<!ENTITY downloadRetry.label "Riprova">
+<!ENTITY downloadRemove.label "Rimuovi">
+<!ENTITY downloadDelete.label "Elimina">
+<!ENTITY downloadFailed.label "Non riuscito">
+<!ENTITY allBookmarks.label "Visualizza tutti i segnalibri">
+<!ENTITY consoleHeader.label "Console degli errori">
+<!ENTITY consoleAll.label "Tutti">
+<!ENTITY consoleErrors.label "Errori">
+<!ENTITY consoleWarnings.label "Avvisi">
+<!ENTITY consoleMessages.label "Messaggi">
+<!ENTITY consoleCodeEval.label "Codice:">
+<!ENTITY consoleClear.label "Cancella tutto">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "File sorgente:">
+<!ENTITY consoleErrLine.label "Riga:">
+<!ENTITY consoleErrColumn.label "Colonna:">
+<!ENTITY contextTextCut.label "Taglia">
+<!ENTITY contextTextCopy.label "Copia">
+<!ENTITY contextTextPaste.label "Incolla">
+<!ENTITY contextTextPasteAndGo.label "Incolla e vai">
+<!ENTITY contextTextSelect.label "Seleziona">
+<!ENTITY contextTextSelectAll.label "Seleziona tutto">
+<!ENTITY contextOpenLinkTab.label "Apri link in una nuova scheda">
+<!ENTITY contextCopyLinkHref.label "Copia link">
+<!ENTITY contextBookmarkLinkHref.label "Aggiungi ai segnalibri">
+<!ENTITY contextSaveImageLib.label "Salva in raccolta immagini">
+<!ENTITY contextCopyImage.label "Copia immagine">
+<!ENTITY contextCopyImageLocation.label "Copia indirizzo immagine">
+<!ENTITY contextOpenImageTab.label "Apri immagine in una nuova scheda">
+<!ENTITY contextSaveVideoLib.label "Salva in raccolta video">
+<!ENTITY contextCopyVideoLocation.label "Copia indirizzo video">
+<!ENTITY contextOpenVideoTab.label "Apri video in una nuova scheda">

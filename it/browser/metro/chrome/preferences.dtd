@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.title "Opzioni">
+<!ENTITY optionsHeader.startup.title "Avvio">
+<!ENTITY optionsHeader.homepage.title "Quando si avvia &brandShortName; visualizza:">
+<!ENTITY optionsHeader.homepage.startPage.button "pagina iniziale">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "schede dall'ultima esecuzione">
+<!ENTITY optionsHeader.char.title "Codifica caratteri">
+<!ENTITY optionsHeader.char.autodetect.label "Riconoscimento automatico">
+<!ENTITY optionsHeader.char.options.label "Visualizza opzioni codifica nella barra">
+<!ENTITY clearPrivateData.title "Elimina dati personali">
+<!ENTITY clearPrivateData.label "Rimuovi da questo dispositivo cronologia di navigazione, password, cookie e dati inseriti nei moduli">
+<!ENTITY clearPrivateData.button "Elimina">
+<!ENTITY clearPrivateData.done "Fatto">
+<!ENTITY clearPrivateData.history "Cronologia di navigazione">
+<!ENTITY clearPrivateData.otherdata "Altri dati (password, cache, cookie, ecc.)">
+<!ENTITY clearPrivateData.downloadHist "Cronologia download">
+<!ENTITY clearPrivateData.cookies "Cookie">
+<!ENTITY clearPrivateData.cache "Cache">
+<!ENTITY clearPrivateData.sitePref "Preferenze dei siti">
+<!ENTITY clearPrivateData.formSearchHist "Moduli e cronologia ricerche">
+<!ENTITY clearPrivateData.passwords "Password salvate">
+<!ENTITY clearPrivateData.offline "Dati non in linea dei siti web">
+<!ENTITY clearPrivateData.logins "Accessi effettuati">
+<!ENTITY optionsHeader.privacy.passwords.label "Ricorda password">
+<!ENTITY doNotTrack.title "Antitracciamento">
+<!ENTITY doNotTrack.desc "Opzioni:">
+<!ENTITY doNotTrack.options.trackingNotOkay "richiedi di non essere tracciato">
+<!ENTITY doNotTrack.options.noPreference "non comunicare alcuna preferenza sul tracciamento">
+<!ENTITY doNotTrack.options.trackingOkay "comunica la disponibilità a essere tracciato">
+<!ENTITY optionsHeader.reporting.title "Crash Reporter">
+<!ENTITY optionsHeader.reporting.crashes.label "Invia a Mozilla segnalazioni relative ad arresti anomali di &brandShortName; per migliorarne la stabilità e la sicurezza">
+<!ENTITY optionsHeader.telemetry.title "Telemetria">
+<!ENTITY optionsHeader.telemetry.label "Condividi con Mozilla le statistiche sull'utilizzo di &brandShortName; per contribuire al miglioramento del browser">
