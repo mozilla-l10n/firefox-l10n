@@ -112,9 +112,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "S">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Denegar">
-<!ENTITY fullscreenApproval.value "¿Permitir pantalla completa?">
 
-<!ENTITY fullscreenExitHint.value "Pulse ESC en cualquier momento para salir de pantalla completa">
+<!ENTITY fullscreenExitHint2.value "Pulse ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "S">
 
@@ -217,6 +216,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
 <!ENTITY devtoolsConnect.label        "Conectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
@@ -262,6 +264,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Intercambiar herramientas">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Intercambiar herramientas de desarrollador">
 <!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
