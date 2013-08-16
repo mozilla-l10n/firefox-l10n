@@ -38,6 +38,7 @@
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY btnPageLogging.label "Registrazione">
 <!ENTITY btnPageLogging.tooltip "Registra i messaggi inviati all'oggetto window.console">
+<!ENTITY btnPageLogging.accesskey2 "R">
 <!ENTITY btnConsoleErrors "Errori">
 <!ENTITY btnConsoleInfo "Info">
 <!ENTITY btnConsoleWarnings "Avvisi">
@@ -57,5 +58,4 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY findCmd.key "F">
 <!ENTITY clearOutputCmd.key "K">
-<!ENTITY btnPageLogging.accesskey2 "R">
 <!ENTITY clearOutputCtrl.key "L">
