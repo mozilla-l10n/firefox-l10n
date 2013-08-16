@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!ENTITY sync.flyout.presetup.description1 "Accedi a segnalibri, password e schede aperte da qualunque dispositivo">
+<!ENTITY sync.flyout.presetup.setup.label "Configurazione di &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.title "Configurazione di &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Se già si possiede un account &syncBrand.shortName.label;, selezionare &quot;Collega un dispositivo&quot; sull'altro dispositivo e inserire questo codice.">
+<!ENTITY sync.flyout.setup.description2 "Se ancora non si possiede un account &syncBrand.shortName.label;, è possibile crearne uno utilizzando la versione desktop di &brandShortName;.">
+<!ENTITY sync.flyout.setup.manual.label "Non sono vicino al computer…">
+<!ENTITY sync.flyout.setup.description3 "Attenzione:">
+<!ENTITY sync.flyout.setup.description4 "È possibile selezionare &quot;Collega un dispositivo&quot; in">
+<!ENTITY sync.flyout.setup.description5 "[Desktop] Impostazioni -&gt; Sync">
+<!ENTITY sync.flyout.setup.description6 "[Android] Altro &gt; Impostazioni &gt; Sync">
+<!ENTITY sync.flyout.manualsetup.description1 "Inserire le informazioni sull'account &syncBrand.shortName.label; e la chiave di ripristino generata dal proprio computer">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nome account">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Password">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Chiave di ripristino">
+<!ENTITY sync.flyout.manualsetup.connect.label "Connetti">
+<!ENTITY sync.flyout.setupsuccess.description1 "&brandShortName; è ora connesso all'account &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2 "Il download dei dati &syncBrand.shortName.label; è in corso. Le schede sincronizzate sono disponibili nella pagina iniziale di &brandShortName;.">
+<!ENTITY sync.flyout.setupfailure.description "Impossibile connettersi all'acount &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Annulla">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Riprova">
+<!ENTITY sync.flyout.connected.account "Account:">
+<!ENTITY sync.flyout.connected.device "Dispositivo:">
+<!ENTITY sync.flyout.connected.disconnect "Disconnetti">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "Disconnettere il dispositivo da &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Tutti i dati personali presenti sul dispositivo e sull'account &syncBrand.shortName.label; non verranno modificati.">
+<!ENTITY sync.flyout.connected.cancel "Annulla">
+<!ENTITY sync.flyout.connected.pair "Collega un dispositivo">
+<!ENTITY sync.flyout.pairNewDevice.description "Sul nuovo dispositivo da collegare selezionare &quot;Configurazione di &syncBrand.shortName.label;&quot; e inserire il codice generato dal dispositivo">
+<!ENTITY sync.flyout.pairNewDevice.pair "Collega">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Attenzione:">
+<!ENTITY sync.flyout.pairNewDevice.note2 "È possibile individuare il codice per &syncBrand.shortName.label; in">
+<!ENTITY sync.flyout.pairNewDevice.note3 "[Desktop] Strumenti -&gt; Configurazione di Sync -&gt; Utilizza un account esistente">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Altro &gt; Impostazioni &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Riprovare">
+<!ENTITY sync.flyout.pairSuccess.description1 "Il nuovo dispositivo è stato aggiunto correttamente.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Il download dei dati &syncBrand.shortName.label; è in corso. Le schede remote sono disponibili nella pagina iniziale di &brandShortName;.">
