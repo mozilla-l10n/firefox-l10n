@@ -486,14 +486,3 @@
 <!ENTITY searchButton.accesskey "и">
 <!ENTITY all.label "Все сообщения">
 <!ENTITY all.accesskey "В">
-<!ENTITY junkBarMessage.label "&brandShortName; считает, что это сообщение является спамом.">
-<!ENTITY junkBarButton.label "Не спам">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage.label "В целях безопасности &brandShortName; заблокировал изображения из сети для этого сообщения">
-<!ENTITY loadRemoteContentButton.label "Загрузить содержимое из Интернета">
-<!ENTITY phishingBarMessage.label "&brandShortName; считает, что это сообщение, возможно, является мошенническим">
-<!ENTITY removePhishingBarButton.label "Не мошенническое">
-<!ENTITY mdnBarIgnoreButton.label "Игнорировать запрос">
-<!ENTITY mdnBarIgnoreButton.accesskey "н">
-<!ENTITY mdnBarSendButton.label "Отправить уведомление">
-<!ENTITY mdnBarSendButton.accesskey "п">
