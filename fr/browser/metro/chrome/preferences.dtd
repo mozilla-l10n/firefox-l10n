@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.label                       "Préférences">
+<!ENTITY aboutHeader.label                         "À propos">
+<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
+<!ENTITY aboutHeaderCompany.label                  "Par &vendorShortName;">
+<!ENTITY aboutHeaderPolicy.label                   "Lire la politique de confidentialité de &brandShortName; en ligne">
+<!ENTITY privacy.title                             "Confidentialité et sécurité">
+<!ENTITY doNotTrack.title                          "Indiquer aux sites de ne pas me pister">
+<!ENTITY masterPassword.title                      "Utiliser un mot de passe principal">
+<!ENTITY clearPrivateData2.title                   "Effacer mes traces ">
+<!ENTITY clearPrivateData.button                   "Effacer">
+<!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
+<!ENTITY startup.title                             "Démarrage">
+<!ENTITY homepage.title                            "Au démarrage de &brandShortName;, afficher">
+<!ENTITY homepage.startPage                        "La page de démarrage">
+<!ENTITY homepage.sessionRestore                   "Les onglets de la session précédente">
