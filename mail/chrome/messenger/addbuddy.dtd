@@ -1,8 +1,17 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY addBuddyWindow.title           "Add contact">
-<!ENTITY name.label                     "Username">
-<!ENTITY account.label                  "Account">
+<!--
+# Translator(s):
+#
+# xdaiana <xdaiana@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!ENTITY addBuddyWindow.title           "Adaugă contact">
+<!ENTITY name.label                     "Nume de utilizator">
+<!ENTITY account.label                  "Contul meu">
 

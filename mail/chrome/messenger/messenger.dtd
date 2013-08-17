@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
@@ -10,17 +6,24 @@
 # purica <haliciu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # strainu <narro@strainu.ro>
+# raulmalea <raul.malea@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # stas <stas@nerd.ro>
 # janimo <jani@ubuntu.com>
 # turcan <nicturcan@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# adiroiban <adiroiban@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!ENTITY titledefault.label    "&brandFullName;">
@@ -352,9 +355,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Înapoi">
 <!ENTITY goBackCmd.accesskey "p">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.label "Discuție">
+<!ENTITY goChatCmd.accesskey "d">
+<!ENTITY goChatCmd.commandKey "d">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Dosar">
@@ -498,12 +501,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Gestionar de activitate">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY imAccountsStatus.label "Chat status">
-<!ENTITY imAccountsStatus.accesskey "C">
-<!ENTITY imStatus.available          "Available">
-<!ENTITY imStatus.unavailable        "Unavailable">
-<!ENTITY imStatus.offline            "Offline">
-<!ENTITY imStatus.showAccounts       "Show Accounts…">
+<!ENTITY imAccountsStatus.label "Stare conversație">
+<!ENTITY imAccountsStatus.accesskey "s">
+<!ENTITY imStatus.available          "Disponibil">
+<!ENTITY imStatus.unavailable        "Indisponibil">
+<!ENTITY imStatus.offline            "Neconectat">
+<!ENTITY imStatus.showAccounts       "Afișează conturile…">
 <!ENTITY savedFiles.label "Fișiere salvate">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -540,11 +543,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY archiveButton.label "Arhivează">
 <!ENTITY nextButton.label "Următorul">
-<!ENTITY nextButtonToolbarItem.label "Next Unread">
-<!ENTITY nextMsgButton.label "Next">
+<!ENTITY nextButtonToolbarItem.label "Următorul necitit">
+<!ENTITY nextMsgButton.label "Următor">
 <!ENTITY previousButton.label "Precedentul">
-<!ENTITY previousButtonToolbarItem.label "Previous Unread">
-<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButtonToolbarItem.label "Anteriorul necitit">
+<!ENTITY previousMsgButton.label "Precedent">
 <!ENTITY backButton1.label "Înapoi">
 <!ENTITY goForwardButton1.label "Înainte">
 <!ENTITY deleteItem.title "Șterge">
@@ -558,7 +561,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Nesolicitat">
 <!ENTITY notJunkButton.label "Nu e nesolicitat">
 <!ENTITY addressBookButton.label "Contacte">
-<!ENTITY chatButton.label "Chat">
+<!ENTITY chatButton.label "Discută">
 <!ENTITY glodaSearch.title "Căutare globală">
 <!ENTITY searchItem.title "Căutare rapidă">
 <!ENTITY mailViewsToolbarItem.title "Vederi de mesaje">
@@ -579,9 +582,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
-<!ENTITY nextMsgButton.tooltip "Move to the next message">
+<!ENTITY nextMsgButton.tooltip "Mergi la următorul mesaj">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
-<!ENTITY previousMsgButton.tooltip "Move to the previous message">
+<!ENTITY previousMsgButton.tooltip "Mergi la mesajul anterior">
 <!ENTITY goForwardButton.tooltip "Mergi la mesajul următor">
 <!ENTITY goBackButton.tooltip "Mergi la mesajul precedent">
 <!ENTITY deleteButton.tooltip "Șterge mesajul sau dosarul selectat">
@@ -592,7 +595,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
-<!ENTITY chatButton.tooltip "Show the Chat tab">
+<!ENTITY chatButton.tooltip "Afișare fila Conversație">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 
@@ -633,8 +636,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Abonare…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
-<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Caută mesaje…">
+<!ENTITY folderContextSearchForMessages.accesskey "c">
 <!ENTITY folderContextProperties.label "Proprietăți…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Dosar favorite">
@@ -834,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY search.label.base "Search… #1">
+<!ENTITY search.label.base "Căutare… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in

@@ -1,19 +1,17 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # iulianv <iulianv@email.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
+# xdaiana <xdaiana@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY window.title "Reguli filtrare">
@@ -46,7 +44,7 @@
 <!ENTITY forwardTo.label "Înaintează mesajul către">
 <!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
 <!ENTITY markMessageRead.label "Marchează ca citit">
-<!ENTITY markMessageUnread.label "Mark As Unread">
+<!ENTITY markMessageUnread.label "Marchează ca necitit">
 <!ENTITY markMessageStarred.label "Adaugă steluță">
 <!ENTITY setPriority.label "Schimbă prioritatea în">
 <!ENTITY addTag.label "Etichetează mesaj">

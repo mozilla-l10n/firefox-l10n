@@ -1,33 +1,45 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!--
+# Translator(s):
+#
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!ENTITY windowTitle.label            "Chat Account Wizard">
 
-<!ENTITY accountProtocolTitle.label   "Chat network">
-<!ENTITY accountProtocolInfo.label    "Please choose the network of your chat account.">
-<!ENTITY accountProtocolField.label   "Network:">
-<!ENTITY accountProtocolGetMore.label "Get more…">
+<!ENTITY accountProtocolTitle.label   "Rețea de chat">
+<!ENTITY accountProtocolInfo.label    "Vă rugăm alegeți rețeaua contului dumneavoastră de chat.">
+<!ENTITY accountProtocolField.label   "Rețea:">
+<!ENTITY accountProtocolGetMore.label "Mai multe…">
 
-<!ENTITY accountUsernameTitle.label   "Username">
-<!ENTITY accountUsernameDuplicate.label "This account is already configured!">
+<!ENTITY accountUsernameTitle.label   "Nume de utilizator">
+<!ENTITY accountUsernameDuplicate.label "Acest cont este deja configurat!">
 
-<!ENTITY accountPasswordTitle.label   "Password">
-<!ENTITY accountPasswordInfo.label    "Please enter your password in the box below.">
-<!ENTITY accountPasswordField.label   "Password:">
-<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+<!ENTITY accountPasswordTitle.label   "Parola">
+<!ENTITY accountPasswordInfo.label    "Introduceți parola în căsuța de mai jos.">
+<!ENTITY accountPasswordField.label   "Parola:">
+<!ENTITY accountPasswordManager.label "Parola tastată aici va fi stocată în cadrul gestionarului de parole. Lăsați această căsuță liberă dacă doriți să vi se ceară parola de fiecare dată când vă conectați la acest cont.">
 
-<!ENTITY accountAdvancedTitle.label   "Advanced Options">
-<!ENTITY accountAdvancedInfo.label    "Feel free to skip this step if you want to.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
-<!ENTITY accountAliasGroupbox.caption "Local Alias">
+<!ENTITY accountAdvancedTitle.label   "Opțiuni avansate">
+<!ENTITY accountAdvancedInfo.label    "Dacă doriți, puteți omite acest pas.">
+<!ENTITY accountAdvanced.newMailNotification.label   "Anunță-mă la un nou email">
+<!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
-<!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
-<!ENTITY accountProxySettings.caption "Proxy Settings">
-<!ENTITY accountProxySettings.change.label     "Change…">
-<!ENTITY accountProxySettings.change.accessKey "C">
+<!ENTITY accountAliasInfo.label       "Acesta va apărea numai în conversațiile dumneavoastră atunci când vorbiți, contactele externe nu îl vor vedea.">
+<!ENTITY accountProxySettings.caption "Setări proxy">
+<!ENTITY accountProxySettings.change.label     "Schimbă…">
+<!ENTITY accountProxySettings.change.accessKey "s">
 
-<!ENTITY accountSummaryTitle.label   "Summary">
-<!ENTITY accountSummaryInfo.label    "A summary of the information you entered is displayed below. Please check it before the account is created.">
-<!ENTITY accountSummary.connectNow.label "Connect this account now.">
+<!ENTITY accountSummaryTitle.label   "Rezumatul">
+<!ENTITY accountSummaryInfo.label    "Mai jos puteți vedea un rezumat al informației introduse. Verificați-o înainte de a crea contul.">
+<!ENTITY accountSummary.connectNow.label "Conectează acest cont acum.">
 

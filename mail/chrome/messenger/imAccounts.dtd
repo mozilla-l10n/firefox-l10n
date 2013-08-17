@@ -1,31 +1,44 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!--
+# Translator(s):
+#
+# xdaiana <xdaiana@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
 <!ENTITY accountsWindow.title                "Instant messaging status">
-<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
-<!ENTITY accountManager.newAccount.label     "New Account">
-<!ENTITY accountManager.newAccount.accesskey "N">
-<!ENTITY accountManager.close.label          "Close">
-<!ENTITY accountManager.close.accesskey      "l">
+<!ENTITY accountsWindow.style                "lățime: 28em; înălțime: 19em;">
+<!ENTITY accountManager.newAccount.label     "Cont nou">
+<!ENTITY accountManager.newAccount.accesskey "n">
+<!ENTITY accountManager.close.label          "Închidere">
+<!ENTITY accountManager.close.accesskey      "n">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "a">
+<!ENTITY accountManager.close.commandkey     "n">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title      "No account configured yet">
-<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
-<!ENTITY account.autoSignOn.label     "Sign-on at startup">
+<!ENTITY accountManager.noAccount.title      "Niciun cont configurat încă">
+<!ENTITY accountManager.noAccount.description "Clic pe butonul &accountManager.newAccount.label; pentru a permite &brandShortName; să vă ghideze prin procesul de configurare al acestuia.">
+<!ENTITY account.autoSignOn.label     "Autentificare la pornire">
 <!ENTITY account.autoSignOn.accesskey "S">
-<!ENTITY account.connect.label        "Connect">
-<!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Disconnect">
-<!ENTITY account.disconnect.accesskey "i">
-<!ENTITY account.edit.label           "Properties">
-<!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Move up">
-<!ENTITY account.movedown.label       "Move down">
-<!ENTITY account.cancelReconnection.label         "Cancel reconnection">
-<!ENTITY account.cancelReconnection.accesskey     "a">
-<!ENTITY account.connecting           "Connecting…">
-<!ENTITY account.disconnecting        "Disconnecting…">
-<!ENTITY account.disconnected         "Not Connected">
+<!ENTITY account.connect.label        "Conectare">
+<!ENTITY account.connect.accesskey    "c">
+<!ENTITY account.disconnect.label     "Deconectare">
+<!ENTITY account.disconnect.accesskey "d">
+<!ENTITY account.edit.label           "Proprietăți">
+<!ENTITY account.edit.accesskey       "p">
+<!ENTITY account.moveup.label         "Mută în sus">
+<!ENTITY account.movedown.label       "Mută în jos">
+<!ENTITY account.cancelReconnection.label         "Anulare reconectare">
+<!ENTITY account.cancelReconnection.accesskey     "l">
+<!ENTITY account.connecting           "Conectare…">
+<!ENTITY account.disconnecting        "Deconectare...">
+<!ENTITY account.disconnected         "Deconectat">
 

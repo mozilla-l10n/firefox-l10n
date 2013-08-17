@@ -1,11 +1,18 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!--
+# Translator(s):
+#
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
+#
+-->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY  typeColumn.label            "Tip de conținut">
@@ -28,18 +35,18 @@
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
 
-<!ENTITY attachments.incoming.label   "Incoming">
-<!ENTITY attachments.outgoing.label   "Outgoing">
+<!ENTITY attachments.incoming.label   "Primite">
+<!ENTITY attachments.outgoing.label   "Expediere">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY addCloudFileAccount.label        "Adăugare">
+<!ENTITY addCloudFileAccount.accesskey    "a">
+<!ENTITY addCloudFileAccount.description  "Adaugă un serviciu nou de stocare Filelink">
+<!ENTITY removeCloudFileAccount.label     "Ștergere">
+<!ENTITY removeCloudFileAccount.accesskey "r">
+<!ENTITY authRequired.description         "Autorizația dumneavoastră este necesară pentru a vedea setările pentru acest serviciu de stocare.">
+<!ENTITY authRequired.button.label        "Autorizați">
+<!ENTITY authRequired.button.accesskey    "a">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.label "Oferă partajarea fișierelor mai mari decât">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
 
