@@ -11,7 +11,7 @@
 <!ENTITY appbarErrorConsole.label "Apri console errori">
 <!ENTITY appbarJSShell.label "Apri shell JavaScript">
 <!ENTITY appbarFindInPage2.label "Trova nella pagina">
-<!ENTITY appbarViewOnDesktop2.label "Visualizza sulla scrivania">
+<!ENTITY appbarViewOnDesktop2.label "Apri in Desktop">
 <!ENTITY topSitesHeader.label "Siti principali">
 <!ENTITY bookmarksHeader.label "Segnalibri">
 <!ENTITY recentHistoryHeader.label "Cronologia recente">
