@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutHeader.title "Acerca de">
+<!ENTITY aboutHeader.product.label "&brandShortName;">
+<!ENTITY aboutHeader.company.label "Por &vendorShortName;">
+<!ENTITY aboutHeader.policy.label "Lea la política de privacidad de &brandShortName; en línea">
+<!ENTITY update.checkingForUpdates "Comprobando actualizaciones…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
+<!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
+<!ENTITY update.adminDisabled "Actualizaciones desactivadas por su administrador">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; está siendo actualizado por otra instancia">
+<!ENTITY update.failed.start "La actualización falló. ">
+<!ENTITY update.failed.linkText "Descargar la última versión">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Actualización disponible en ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Descargando actualización — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Aplicando actualización…">
+<!ENTITY channel.description.start "Está usando el canal ">
+<!ENTITY channel.description.end " canal de actualizaciones. ">

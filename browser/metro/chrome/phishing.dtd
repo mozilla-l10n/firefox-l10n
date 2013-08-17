@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "¡Sácame de aquí!">
+<!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
+<!ENTITY safeb.palm.notforgery.label2 "No es una falsificación web…">
+<!ENTITY safeb.palm.reportPage.label "¿Por qué ha sido bloqueado este sitio?">
+<!ENTITY safeb.blocked.malwarePage.title "¡Este sitio es una web atacante!">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio web en <span id='malware_sitename'/> ha sido identificado como una web atacante y ha sido bloqueado basándose en sus preferencias de seguridad.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su equipo para atacar otros o dañar su sistema.</p><p>Algunos sitios atacantes distribuyen intencionalmente software dañino, pero muchos son comprometidos sin el conocimiento o permiso de sus propietarios.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "¡Posible sitio web fraudulento!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Escribir cualquier información personal en esta página puede resultar en un robo de identidad u otro tipo de fraude.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Estos tipos de falsificaciones web son usados en fraudes conocidos como ataques de phishing, en los cuales las páginas fraudulentas y los correos son usados para imitar fuentes en las que confía.</p>">
