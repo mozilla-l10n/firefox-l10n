@@ -1,13 +1,12 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 # janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -53,7 +52,7 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Incoming Server Information">
+<!ENTITY incomingTitle.label "Informații server de intrare">
 <!ENTITY incomingServerTypeDesc.label "Alegeți tipul serverului de primire pe care îl folosiți.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -61,20 +60,20 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY leaveMsgsOnSrvr.label "Păstrează mesajele pe server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "p">
 <!ENTITY portNum.label "Port:">
-<!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY portNum.accesskey "p">
+<!ENTITY defaultPortLabel.label "Implicit:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Incoming Server:">
-<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingServer.description "Introduceți numele serverului de primire (de exemplu, „mail.example.net”).">
+<!ENTITY incomingServer.label "Server de primire:">
+<!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
-<!ENTITY incomingUsername.label "User Name:">
-<!ENTITY incomingUsername.accesskey "U">
+<!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire oferit de furnizorul de servicii de email (de exemplu, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Nume utilizator:">
+<!ENTITY incomingUsername.accesskey "n">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Introduceți numele serverului NNTP (de exemplu, „news.example.net”).">
 <!ENTITY newsServerLabel.label "Server de news:">
@@ -82,37 +81,37 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!ENTITY outgoingTitle.label "Informații server de ieșire">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Outgoing Server:">
-<!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY outgoingUsername.label "Outgoing User Name:">
-<!ENTITY outgoingUsername.accesskey "U">
+<!ENTITY outgoingServer.description "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
+<!ENTITY outgoingServer.label "Server de trimitere:">
+<!ENTITY outgoingServer.accesskey "t">
+<!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
+<!ENTITY outgoingUsername.label "Nume utilizator pentru trimitere:">
+<!ENTITY outgoingUsername.accesskey "n">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!ENTITY modifyOutgoing.suffix "Puteți modifica serverele de ieșire din setările contului.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Va fi folosit serverul de trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, va fi utilizat.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Va fi folosit numele de utilizator pentru trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, va fi utilizat.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
-<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, este identic cu serverul dumneavoastră de primire, numele dumneavoastră de utilizator pentru primire va fi folosit pentru al accesa.">
 
 <!-- Entities for Account name page -->
 

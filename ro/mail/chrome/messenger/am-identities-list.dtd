@@ -1,18 +1,16 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY identitiesListDesc.label "Suport pentru identități multiple">
@@ -22,6 +20,6 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Șterge">
 <!ENTITY identitiesListDelete.accesskey "t">
-<!ENTITY identitiesListClose.label "Close">
-<!ENTITY identitiesListClose.accesskey "C">
+<!ENTITY identitiesListClose.label "Închide">
+<!ENTITY identitiesListClose.accesskey "n">
 

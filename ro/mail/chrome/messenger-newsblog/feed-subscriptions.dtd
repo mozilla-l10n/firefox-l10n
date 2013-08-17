@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
@@ -9,6 +5,9 @@
 # evinteler <emil_vinteler2000@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # secarica <orice@secarica.ro>
+# Marin Bînzari <spartakusmd@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# janimo <jani@ubuntu.com>
 #
 -->
 <!--
@@ -25,17 +24,17 @@
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.label          "URL flux:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+<!ENTITY feedLocation.placeholder    "Introduceți un url de flux valid pentru a fi adăugat">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Stochează articolele în:">
+<!ENTITY feedFolder.accesskey        "s">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
+<!ENTITY quickMode.accesskey         "u">
 
-<!ENTITY locationValidate.label      "Validate">
+<!ENTITY locationValidate.label      "Validează">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
 <!ENTITY button.addFeed.label        "Adaugă">

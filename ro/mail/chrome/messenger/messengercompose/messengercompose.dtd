@@ -1,23 +1,22 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # secarica <orice@secarica.ro>
 # janimo <jani@ubuntu.com>
 # Laudatti <Laudatti@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
 # turcan <nicturcan@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
@@ -97,8 +96,8 @@
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Rename Attachment…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.label "Redenumire atașament…">
+<!ENTITY renameAttachmentCmd.accesskey "r">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -296,12 +295,12 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Convert to…">
-<!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Cancel Upload">
-<!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Regular Attachment">
-<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY convertCloud.label "Convertire la…">
+<!ENTITY convertCloud.accesskey "c">
+<!ENTITY cancelUpload.label "Anulare încărcare">
+<!ENTITY cancelUpload.accesskey "a">
+<!ENTITY convertRegularAttachment.label "Atașament normal">
+<!ENTITY convertRegularAttachment.accesskey "t">
 <!ENTITY attachPage.label "Anexează pagină web…">
 <!ENTITY attachPage.accesskey "w">
 
