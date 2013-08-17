@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -20,10 +22,10 @@
 <!ENTITY next.tooltip "Caută apariția următoare a textului">
 <!ENTITY previous.tooltip "Caută apariția precedentă a textului">
 <!ENTITY findCloseButton.tooltip "Închide bara de căutare">
-<!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
-<!ENTITY caseSensitive.label "Match Case">
-<!ENTITY caseSensitive.accesskey "c">
-<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+<!ENTITY highlightAll.label "Evidențiază toate">
+<!ENTITY highlightAll.accesskey "e">
+<!ENTITY highlightAll.tooltiptext "Evidențiază toate aparițiile textului">
+<!ENTITY caseSensitive.label "Potrivire litere">
+<!ENTITY caseSensitive.accesskey "p">
+<!ENTITY caseSensitive.tooltiptext "Căutare cu potrivire litere">
 

@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -38,11 +39,11 @@
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
-<!ENTITY welcomeback.tabtitle       "Welcome Back!">
+<!ENTITY welcomeback.tabtitle       "Bine ați revenit!">
 
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
-<!ENTITY welcomeback.pageTitle      "Welcome Back!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; successfully reset your profile. Below is a list of windows and tabs you had open; you can restore them or start with a clean slate.">
+<!ENTITY welcomeback.pageTitle      "Bine ați revenit!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; a resetat cu succes profilul dumneavoastră. Mai jos este o listă de ferestre și file pe le-ați deschis; aveți posibilitatea să le restabiliți sau să începeți cu o sesiune nouă.">
 

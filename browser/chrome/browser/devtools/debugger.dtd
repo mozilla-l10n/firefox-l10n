@@ -81,7 +81,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-<!ENTITY debuggerUI.searchPanelOperators    "Operators:">
+<!ENTITY debuggerUI.searchPanelOperators    "Operatori:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
@@ -106,8 +106,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchGoToLine      "Go to line…">
-<!ENTITY debuggerUI.searchGoToLine.key  "L">
+<!ENTITY debuggerUI.searchGoToLine      "Mergi la linia…">
+<!ENTITY debuggerUI.searchGoToLine.key  "m">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
