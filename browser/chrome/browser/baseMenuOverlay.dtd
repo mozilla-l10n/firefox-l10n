@@ -34,6 +34,10 @@
 <!ENTITY productHelp.label        "Manual &brandShortName;">
 <!ENTITY productHelp.accesskey    "M">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
