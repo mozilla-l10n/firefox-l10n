@@ -122,6 +122,8 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
         <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Cofanie się do poprzednio odwiedzonych stron" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
 
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Przywracanie zamkniętych kart i okien" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
+
         <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Zatrzymywanie wczytywania i odświeżanie stron"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
 
         <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Otwieranie stron z Zakładek"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
@@ -1487,7 +1489,7 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="cust-addons-about" nc:name="O dodatkach"  nc:link="customize_help.xhtml#about_add-ons"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-addons-installing" nc:name="Instalowanie dodatków"  nc:link="customize_help.xhtml#installing_add-ons"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Używanie Menedżera dodatków"  nc:link="customize_help.xhtml#using_the_add-on_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-addons-manager" nc:name="Używanie Menedżera dodatków"  nc:link="customize_help.xhtml#using_the_add-ons_manager"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1523,6 +1525,8 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Czcionki" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="appearance_pref_colors" nc:name="Kolory" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
+
+        <rdf:li> <rdf:Description ID="appearance_pref_spelling" nc:name="Pisownia" nc:link="cs_nav_prefs_appearance.xhtml#spelling"/> </rdf:li>
 
       </rdf:Seq>
 
@@ -1572,7 +1576,11 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Nawigacja" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
 
+        <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Znajdź wprowadzając" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
+
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Pamięć podręczna" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
+
+        <rdf:li><rdf:Description ID="advanced_pref_offlineapps" nc:name="Aplikacje trybu offline" nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Serwery proxy" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
 
@@ -1612,6 +1620,10 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="using-priv-help-password" nc:name="Zarządzanie hasłami i nazwami użytkowników" nc:link="using_priv_help.xhtml#using_the_password_manager"/> </rdf:li>
 
+        <rdf:li><rdf:Description ID="using-priv-help-private-data" nc:name="Czyszczenie prywatnych danych" nc:link="using_priv_help.xhtml#clearing_private_data"/> </rdf:li>
+
+        <rdf:li><rdf:Description ID="private-browsing" nc:name="Przeglądanie w prywatnym oknie" nc:link="using_priv_help.xhtml#browsing_in_a_private_window"/> </rdf:li>
+
         <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Szyfrowanie zachowanych poufnych danych" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="images-help-managing" nc:name="Zarządzanie obrazkami" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
@@ -1634,9 +1646,11 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 
       <rdf:Seq>
 
-        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Jakie informacje są przekazywane przez przeglądarkę do witryny internetowej?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_web_site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Jakie informacje są przekazywane przez przeglądarkę do witryny internetowej?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_website"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="Czym są ciasteczka i jak działają?"  		nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/> </rdf:li>
+
+        <rdf:li><rdf:Description ID="privacy-doc-tracking" nc:name="Jak i dlaczego śledzą mnie striny?"  		nc:link="privacy_help.xhtml#why_and_how_are_websites_tracking_me"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="Jak kontrolować wyświetlanie i pobieranie stron WWW zawartych w wiadomościach?"  		nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/> </rdf:li>
 
@@ -1685,10 +1699,6 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Zachowane ciasteczka" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
 
         <rdf:li><rdf:Description ID="cookie_sites" nc:name="Witryny z ciasteczkami" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-
-        <rdf:li><rdf:Description ID="cookie_notify" nc:name="Powiadomienia o ciasteczkach" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
-
-
 
       </rdf:Seq>
 
