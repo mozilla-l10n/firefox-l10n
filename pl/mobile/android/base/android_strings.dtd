@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
 <!ENTITY  crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponowym uruchomieniu.">
-<!ENTITY  crash_send_report_message2 "Prześlij zgłoszenie problemu do Mozilli, aby mogli go rozwiązać">
+<!ENTITY  crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
 <!ENTITY  crash_include_url2 "Załącz adres strony, na której wystąpił problem">
 <!ENTITY  crash_sorry "Przykro nam">
 <!ENTITY  crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
-<!ENTITY  crash_allow_contact "Pozwól Mozilli skontaktować się z tobą w sprawie tego zgłoszenia">
+<!ENTITY  crash_allow_contact2 "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
 <!ENTITY  crash_email "Twój adres e-mail">
 <!ENTITY  crash_closing_alert "Chcesz wyjść bez wysłania zgłoszenia?">
 <!ENTITY  crash_close_label "Zamknij">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Zakładka dodana">
 <!ENTITY bookmark_removed "Zakładka usunięta">
 <!ENTITY bookmark_updated "Zakładka uaktualniona">
+<!ENTITY bookmark_options "Opcje">
 
 <!ENTITY history_today_section "Dziś">
 <!ENTITY history_yesterday_section "Wczoraj">
@@ -99,7 +100,7 @@
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
-<!ENTITY pref_reflow_on_zoom2 "Zsuń palce, by zmienić układ tekstu">
+<!ENTITY pref_reflow_on_zoom3 "Podwójnie dotknij, by zmienić układ tekstu">
 <!ENTITY pref_font_size_tiny "Bardzo mały">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
@@ -130,9 +131,11 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Pobrane pliki">
 
 <!ENTITY datareporting_notification_title "&brandShortName;: statystyki i dane">
-<!ENTITY datareporting_notification_action "Wybierz informacje, które chcesz udostępniać">
+<!ENTITY datareporting_notification_action "Wybierz, co chcesz udostępniać">
+<!ENTITY datareporting_notification_action_long "Wybierz informacje, które chcesz udostępniać">
 <!ENTITY datareporting_notification_summary "Aby ulepszyć przeglądarkę &brandShortName;, &vendorShortName; automatycznie pobiera pewne informacje.">
 <!ENTITY datareporting_notification_summary_short "Aby ulepszyć przeglądarkę &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -140,15 +143,18 @@ size. -->
      chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName;: raport o zdrowie">
-<!ENTITY datareporting_fhr_summary "Pozwala ci zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
+<!ENTITY datareporting_fhr_title "&brandShortName;: raport o zdrowiu">
+<!ENTITY datareporting_fhr_summary2 "Pozwala ci zrozumieć wydajność przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;">
+<!ENTITY datareporting_abouthr_title "Wyświetl mój raport o zdrowiu">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Udostępnia organizacji &vendorShortName; dane o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, aby pomóc nam w ulepszeniu programu &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; przesyła zgłoszenia awarii, aby organizacja &vendorShortName; mogła poprawić stabilność i bezpieczeństwo przeglądarki">
 <!-- Localization note (datareporting_crashreporter_title) : This string matches
      (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
      except in branding. -->
-<!ENTITY datareporting_crashreporter_title "Zgłaszanie awarii programu &brandShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Zgłaszanie awarii">
+<!ENTITY datareporting_wifi_title "Usługi lokalizacji organizacji &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Pomóż nam ulepszyć usługi geolokalizacji dla Otwartej Sieci, pozwalając, by przeglądarka &brandShortName; zbierała i wysyłała anonimowe dane">
 
 <!ENTITY pref_update_autodownload "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
@@ -273,6 +279,15 @@ size. -->
 
 <!ENTITY identity_connected_to "Połączono z">
 <!ENTITY identity_run_by "Witrynę prowadzi:">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
+<!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
+<!ENTITY blocked_mixed_content_message_bottom "Większość witryn działa poprawnie nawet po zablokowaniu tych treści.">
+<!ENTITY learn_more "Dowiedz się więcej">
+<!ENTITY enable_protection "Włącz ochronę">
+<!ENTITY disable_protection "Wyłącz ochronę">
+<!ENTITY keep_blocking "Blokuj nadal">
 
 <!ENTITY private_data_success "Usunięto prywatne dane">
 <!ENTITY private_data_fail "Nie udało się usunąć wszystkich prywatnych danych">
