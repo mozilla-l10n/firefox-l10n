@@ -11,8 +11,13 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY onlineContactsHeader.label    "Prieteni conectați">
 <!ENTITY offlineContactsHeader.label   "Prieteni deconectați">
 <!ENTITY conversationsHeader.label     "Conversații">
@@ -46,17 +51,6 @@
 <!ENTITY addBuddyButton.label          "Adaugă un prieten">
 <!ENTITY joinChatButton.label          "Join Chat">
 <!ENTITY chatAccountsButton.label      "Arată conturile">
-
-<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
-     This is the base of the empty text for the chat search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform (defined in messenger/messenger.dtd).
-     The goal is to convey to the user that typing in the box will allow them
-     to search for conversations and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllChatMessages.label.base "Caută prin toate conversațiile… #1">
 
 <!ENTITY status.available          "Disponibil">
 <!ENTITY status.unavailable        "Indisponibil">

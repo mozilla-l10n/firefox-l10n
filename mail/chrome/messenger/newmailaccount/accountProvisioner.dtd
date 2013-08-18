@@ -12,6 +12,10 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Bun venit la &brandShortName;">
 <!ENTITY header2.label "Doriți o adresă de email nouă?">
 <!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona dumneavoastră. Clic aici pentru a afișa toți furnizorii.">

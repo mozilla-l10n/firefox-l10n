@@ -14,6 +14,10 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
@@ -29,10 +33,10 @@
 <!ENTITY deleteButton.accesskey      "g">
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
 <!ENTITY results.label               "Rezultate">
-<!ENTITY fileHereMenu.label          "Îndosariază aici">
-<!ENTITY fileHereMenu.accesskey      "n">
-<!ENTITY fileButton.label            "Îndosariază">
-<!ENTITY fileButton.accesskey        "n">
+<!ENTITY moveHereMenu.label          "Move Here">
+<!ENTITY moveHereMenu.accesskey      "H">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">

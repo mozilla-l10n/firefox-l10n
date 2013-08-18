@@ -12,6 +12,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Setări avansate pentru cont">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Director pe serverul IMAP:">
@@ -35,8 +39,6 @@
 <!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3Desc.label "Când se descarcă mesaje pop3 de pe acest server, folosește următorul dosar pentru mesajele noi:" >
-<!ENTITY globalInbox.label "Căsuța poștală globală (Contul local)">
-<!ENTITY globalInbox.accesskey "g">
 <!ENTITY accountDirectory.label "Căsuță poștală pentru contul acestui server">
 <!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Căsuța poștală pentru alt cont">

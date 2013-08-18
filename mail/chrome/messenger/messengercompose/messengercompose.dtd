@@ -19,11 +19,15 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fișier"> 
+<!ENTITY fileMenu.label "Fișier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Creează">
 <!ENTITY newMenu.accesskey "C">
@@ -72,20 +76,20 @@
 <!ENTITY printCmd.accesskey "p">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Editare"> 
+<!ENTITY editMenu.label "Editare">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfă">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "D"> 
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY redoCmd.label "Restaurează">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "T"> 
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Inserează">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "I">
@@ -100,10 +104,11 @@
 <!ENTITY renameAttachmentCmd.accesskey "r">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a"> 
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "C">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Caută din nou">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "d">
@@ -111,13 +116,13 @@
 <!ENTITY findPrevCmd.label "Caută înapoi">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "n"> 
+<!ENTITY findPrevCmd.accesskey "n">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vizualizare"> 
+<!ENTITY viewMenu.label "Vizualizare">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY viewToolbarsMenuNew.label "Bare de unelte">
+<!ENTITY viewToolbarsMenuNew.accesskey "t">
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
@@ -129,8 +134,8 @@
 <!ENTITY customizeToolbar.label "Personalizează…">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Listă de contacte"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.label "Listă de contacte">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatare">
@@ -156,8 +161,8 @@
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Notificare asupra stadiului livrării">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format trimitere">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Autodetecție">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Doar text">
@@ -198,13 +203,13 @@
 <!ENTITY preferencesCmd.label "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
-<!ENTITY zoomWindow.label "Lupă"> 
+<!ENTITY zoomWindow.label "Lupă">
 <!ENTITY windowMenu.label "Fereastră">
 
 <!-- Mail Toolbar -->
@@ -216,13 +221,13 @@
 <!ENTITY saveButton.label "Salvează">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Trimite acum acest mesaj"> 
-<!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu"> 
-<!ENTITY quoteButton.tooltip "Citează din mesajul anterior"> 
-<!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte"> 
-<!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
+<!ENTITY sendButton.tooltip "Trimite acum acest mesaj">
+<!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu">
+<!ENTITY quoteButton.tooltip "Citează din mesajul anterior">
+<!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte">
+<!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
-<!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
+<!ENTITY saveButton.tooltip "Salvează acest mesaj">
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
@@ -233,12 +238,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De la:">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr.label "Către:"> 
-<!ENTITY ccAddr.label "Copie:"> 
-<!ENTITY bccAddr.label "Copie ascunsă:"> 
-<!ENTITY replyAddr.label "Răspuns către:"> 
-<!ENTITY newsgroupsAddr.label "Grup news:"> 
-<!ENTITY followupAddr.label "Urmare la:"> 
+<!ENTITY toAddr.label "Către:">
+<!ENTITY ccAddr.label "Copie:">
+<!ENTITY bccAddr.label "Copie ascunsă:">
+<!ENTITY replyAddr.label "Răspuns către:">
+<!ENTITY newsgroupsAddr.label "Grup news:">
+<!ENTITY followupAddr.label "Urmare la:">
 <!ENTITY subject.label "Subiect:">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
