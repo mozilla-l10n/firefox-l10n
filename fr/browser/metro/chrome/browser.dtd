@@ -2,43 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
 <!ENTITY urlbar.emptytext      "Recherche ou adresse">
-<!ENTITY urlbar.accesskey      "d">
 
 <!ENTITY back.label            "Page précédente">
 <!ENTITY forward.label         "Page suivante">
-<!ENTITY reload.label          "Actualiser">
-<!ENTITY stop.label            "Arrêter">
-<!ENTITY go.label              "Aller à">
-<!ENTITY star.label            "Marquer">
-
-<!ENTITY toggleTabsOnly.label  "Toujours afficher les onglets">
-<!ENTITY showTabs.label        "Afficher les onglets">
 <!ENTITY newtab.label          "Nouvel onglet">
 <!ENTITY closetab.label        "Fermer l'onglet">
-<!ENTITY undoclosetab.label    "Annuler la fermeture de l'onglet">
-
-<!ENTITY cut.label             "Couper">
-<!ENTITY copy.label            "Copier">
-<!ENTITY copyAll.label         "Tout copier">
-<!ENTITY copylink.label        "Copier l'adresse du lien">
-<!ENTITY paste.label           "Coller">
-<!ENTITY pasteAndGo.label      "Coller et aller">
-<!ENTITY delete.label          "Supprimer">
-<!ENTITY selectAll.label       "Tout sélectionner">
-
-<!ENTITY appbarFindInPage.label    "Rechercher dans la page">
-<!ENTITY appbarViewOnDesktop.label "Afficher sur le bureau">
-
-<!ENTITY startTopSitesHeader.label        "Les plus visités">
-<!ENTITY startBookmarksHeader.label       "Marque-pages">
-<!ENTITY startHistoryHeader.label         "Historique récent">
-<!ENTITY startRemoteTabsHeader.label      "Onglets d'autres appareils">
 
 <!ENTITY autocompleteResultsHeader.label  "Vos résultats">
-<!ENTITY autocompleteSearchesHeader.label "Recherches Internet"> 
 
-<!ENTITY selectHelper.done         "Terminé">
+<!ENTITY appbarErrorConsole.label   "Ouvrir la console d'erreurs">
+<!ENTITY appbarJSShell.label        "Ouvrir le terminal JavaScript">
+<!ENTITY appbarFindInPage2.label    "Rechercher dans la page">
+<!ENTITY appbarViewOnDesktop2.label "Afficher sur le bureau">
+
+<!ENTITY topSitesHeader.label        "Les plus visités">
+<!ENTITY bookmarksHeader.label       "Marque-pages">
+<!ENTITY recentHistoryHeader.label   "Historique récent">
+<!ENTITY remoteTabsHeader.label      "Onglets d'autres appareils">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Plus visités">
+<!ENTITY narrowBookmarksHeader.label     "Marques-pages">
+<!ENTITY narrowRecentHistoryHeader.label "Historique récent">
+<!ENTITY narrowRemoteTabsHeader.label    "Onglets distants">
 
 <!ENTITY downloadsHeader.label     "Téléchargements">
 <!ENTITY downloadShowPage.label    "Aller à la page">
@@ -52,17 +47,7 @@
 <!ENTITY downloadDelete.label      "Supprimer">
 <!ENTITY downloadFailed.label      "Échec">
 
-<!ENTITY bookmarksHeader.label     "Marque-pages">
 <!ENTITY allBookmarks.label        "Tous les marque-pages">
-
-<!ENTITY identity.unverifiedsite2 "Ce site web ne fournit aucune information sur son identité.">
-<!ENTITY identity.connectedTo2 "Connecté à">
-<!-- Localization note (identity.runBy2)
- The layout of the identity dialog prevents combining this into a single string with
- substitution variables.  If it is difficult to translate the sense of the string
- with that structure, consider a translation which ignores the preceding domain and
- just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "détenu par">
 
 <!ENTITY consoleHeader.label       "Console d'erreurs">
 <!ENTITY consoleAll.label          "Tout">
@@ -76,27 +61,49 @@
 <!ENTITY consoleErrLine.label      "Ligne :">
 <!ENTITY consoleErrColumn.label    "Colonne :">
 
-<!ENTITY contextOpenInNewTab.label    "Ouvrir dans un nouvel onglet">
-<!ENTITY contextViewInNewTab.label    "Afficher dans un nouvel onglet">
-<!ENTITY contextSaveImage.label       "Enregistrer l'image">
-<!ENTITY contextSaveImageTo.label     "Enregistrer l'image sous">
-<!ENTITY contextCopyLink.label        "Copier le lien">
-<!ENTITY contextCopyEmail.label       "Copier l'adresse électronique">
-<!ENTITY contextCopyPhone.label       "Copier le numéro de téléphone">
-<!ENTITY contextCopyImage.label       "Copier l'image">
-<!ENTITY contextShareLink.label       "Partager le lien">
-<!ENTITY contextShareImage.label      "Partager l'image">
-<!ENTITY contextBookmarkLink.label    "Marquer le lien">
-<!ENTITY contextSaveVideo.label       "Enregistrer la vidéo">
-<!ENTITY contextSaveVideoTo.label     "Enregistrer la vidéo sous">
-<!ENTITY contextShareVideo.label      "Partager la vidéo">
-<!ENTITY contextPlayMedia.label       "Lire">
-<!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextVideoTab.label        "Ouvrir dans un nouvel onglet">
-<!ENTITY contextEditBookmark.label    "Modifier">
-<!ENTITY contextRemoveBookmark.label  "Supprimer">
-<!ENTITY contextShortcutBookmark.label "Ajouter à l'écran d'accueil">
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Couper">
+<!ENTITY contextTextCopy.label             "Copier">
+<!ENTITY contextTextPaste.label            "Coller">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Coller et aller">
+<!ENTITY contextTextSelect.label           "Sélectionner">
+<!ENTITY contextTextSelectAll.label        "Tout sélectionner">
 
-<!ENTITY pageactions.password.forget "Oublier le mot de passe">
-<!ENTITY pageactions.reset           "Effacer les préférences de site">
-<!ENTITY pageactions.charEncoding    "Encodage des caractères">
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Ouvrir le lien dans un nouvel onglet">
+<!ENTITY contextCopyLinkHref.label         "Copier le lien">
+<!ENTITY contextBookmarkLinkHref.label     "Marquer le lien">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Enregistrer dans la galerie d'images">
+<!ENTITY contextCopyImage.label            "Copier l'image">
+<!ENTITY contextCopyImageLocation.label    "Copier l'adresse de l'image">
+<!ENTITY contextOpenImageTab.label         "Ouvrir l'image dans un nouvel onglet">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Enregistrer dans la galerie vidéo">
+<!ENTITY contextCopyVideoLocation.label    "Copier l'adresse de la vidéo">
+<!ENTITY contextOpenVideoTab.label         "Ouvrir la vidéo dans un nouvel onglet">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
