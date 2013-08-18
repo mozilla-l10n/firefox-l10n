@@ -15,6 +15,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemFormatting.label             "Formatare">
 <!ENTITY itemTags.label                   "Etichete">
 
@@ -29,16 +33,10 @@
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
-<!ENTITY color.label                      "Culoare:">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Mesaje text">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
-<!ENTITY colors.label                     "Culori">
-<!ENTITY overrideColors.label             "Culori folosite la afișarea mesajelor:">
-<!ENTITY textColor.label                  "Culoare text:">
-<!ENTITY textColor.accesskey              "t">
-<!ENTITY backgroundColor.label            "Culoare fundal:">
-<!ENTITY backgroundColor.accesskey        "C">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Arată simbolurile emotive ca imagini">
@@ -53,12 +51,14 @@
 <!ENTITY removeTagButton.label     "Șterge">
 <!ENTITY removeTagButton.accesskey "t">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Fonturi ">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
 <!ENTITY defaultFont.label       "Font implicit:">
 <!ENTITY defaultFont.accesskey   "F">
 <!ENTITY defaultSize.label       "Mărime:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
+<!ENTITY colorButton.label       "Colors…">
+<!ENTITY colorButton.accesskey   "C">
 

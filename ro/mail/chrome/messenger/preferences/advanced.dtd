@@ -18,6 +18,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Generale">
 <!ENTITY itemDisplay.label       "Citire și afișare">
 <!ENTITY itemUpdate.label        "Actualizare">
@@ -31,13 +35,20 @@
 <!ENTITY telemetryInfoLink.label       "Detalii despre telemetrie">
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkNow.label                "Verifică acum…">
-<!ENTITY checkNow.accesskey            "V">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație…">
 <!ENTITY configEdit.accesskey          "g">
@@ -87,6 +98,9 @@
 <!ENTITY showUpdates.label              "Arată istoricul actualizărilor">
 <!ENTITY showUpdates.accesskey          "A">
 
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
@@ -97,10 +111,10 @@
 <!ENTITY showOffline.label             "Offline...">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Spațiu pe disc">
-<!ENTITY offlineCompact.label "Compactează dosarele dacă asta economisește peste">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "MO">
+<!ENTITY Diskspace                       "Spațiu pe disc">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -123,8 +137,6 @@
 
 <!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "Liste de revocare">
-<!ENTITY viewCRLs.accesskey             "e">
 <!ENTITY validation.label               "Validare">
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">

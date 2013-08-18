@@ -13,6 +13,10 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Nesolicitat">
 <!ENTITY itemPhishing.label      "Înșelătorii prin email">
 <!ENTITY itemPasswords.label     "Parole">
@@ -72,4 +76,7 @@
 <!ENTITY showCookies.label              "Arată cookie-urile...">
 <!ENTITY showCookies.accesskey          "A">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
 

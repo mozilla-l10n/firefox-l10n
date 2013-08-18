@@ -17,6 +17,10 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
 
 <!-- File Menu -->
@@ -179,8 +183,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Numele pentru mesagerie">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Pseudonim">
@@ -213,6 +217,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Acasă">
 <!ENTITY other.heading                                  "Altele">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Serviciu">
 <!-- Special Box Headings, for mailing lists -->
