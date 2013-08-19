@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "سیشن کے لیے اجازت دیں">
 <!ENTITY  permBlock             "بلاک کریں">
 <!ENTITY  permissionsFor        "اجازتیں بر:">
-<!ENTITY  permImage             "نقوش لوڈ کریں">
-<!ENTITY  permPopup             "پاپ اپ دریچے کھولیں">
-<!ENTITY  permCookie            "کوکیاں سیٹ کریں">
-<!ENTITY  permNotifications     "اطلاعات دکھائیں ">
-<!ENTITY  permInstall           "خیالیات یا توسیعات تنصیب کریں">
-<!ENTITY  permGeo               "محل وقوع شیئر کریں">
 <!ENTITY  permPlugins           "پلگ ان متحرک کریں">
-<!ENTITY  permFullscreen        "پوری اسکرین موڈ میں جائیں">
-<!ENTITY  permPointerLock2      "ماؤس پوائنٹر چھپائیں">
 
-<!ENTITY  permIndexedDB              "آف لائن ذخیرہ قائم رکھیں">
 <!ENTITY  permClearStorage           "ذخیرہ خالی کریں">
 <!ENTITY  permClearStorage.accesskey "خ">
 

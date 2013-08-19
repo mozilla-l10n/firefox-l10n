@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
 <!ENTITY  undoCloseTab.label                 "ٹیب بند کالعدم کریں">
 <!ENTITY  undoCloseTab.accesskey             "ک">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "ٹیب بند کالعدم کریں">
 <!ENTITY  closeTab.label                     "ٹیب بند کر دیں">
 <!ENTITY  closeTab.accesskey                 "ب">
 
@@ -73,12 +78,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "مینیو بار">
 <!ENTITY menubarCmd.accesskey "م">
 <!ENTITY navbarCmd.label "گشت کاری ٹول بار">
-<!ENTITY navbarCmd.accesskey "گ">
 <!ENTITY personalbarCmd.label "نشانیاں ٹول بار">
 <!ENTITY personalbarCmd.accesskey "ن">
 <!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو نشانی کگاتا ہے">
-<!ENTITY addonBarCmd.label "اضافہ کریں بار">
-<!ENTITY addonBarCmd.accesskey "ا">
 
 <!ENTITY pageSourceCmd.label "صفحہ ماخذ">
 <!ENTITY pageSourceCmd.accesskey "م">
@@ -107,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "پ">
 <!ENTITY fullscreenAllowButton.label "ہونے دیں">
 <!ENTITY fullscreenExitButton.label "انکار کریں">
-<!ENTITY fullscreenApproval.value "پوری سکرین موڈ میں جانے دیں؟">
 
-<!ENTITY fullscreenExitHint.value "کسی بھی وقت پوری سکرین خروج کرنے کے لیے ESC دبائیں۔">
+<!ENTITY fullscreenExitHint2.value "کسی بھی وقت خروج کرنے کت لیے ESC دبائیں۔">
 <!ENTITY leaveDOMFullScreen.label "ؑپوری سکرین خروج کریں">
 <!ENTITY leaveDOMFullScreen.accesskey "پ">
 
@@ -161,22 +162,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "پیچھے/آگے">
 <!ENTITY locationItem.title           "محل وقوع">
 <!ENTITY searchItem.title             "تلاش کریں">
-<!ENTITY throbberItem.title           "سرگرمی نشان کار">
 <!ENTITY bookmarksItem.title          "نشانیاں">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "مینیو">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; کا مینیو کھولیں">
 <!ENTITY homeButton.label             "گھر">
 
 <!ENTITY tabGroupsButton.label        "گروپ ٹیب کریں">
 <!ENTITY tabGroupsButton.tooltip      "اپنے گروپ ٹیب کریں">
 
-<!ENTITY feedButton.label             "رکن بنیں">
-<!ENTITY feedButton.tooltip           "اس پیج کے ساتھ رکنیت سازی کریں…">
-
 <!ENTITY bookmarksButton.label          "نشانیاں">
-<!ENTITY bookmarksButton.tooltip        "اپنی نشانیا نمائش کریں">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "نشانیاں">
@@ -192,7 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "سابقات">
-<!ENTITY historyButton.tooltip          "حالیہ دیکھے گئے پیج نمائش کریں">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ٹول">
@@ -200,8 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "اس تلاش کے لیے کلیدی لفظ ڈالیں…">
 <!ENTITY keywordfield.accesskey       "ک">
-<!ENTITY search.label                 "ویب تلاش">
-<!ENTITY search.accesskey             "ت">
+
 <!ENTITY downloads.label              "ڈاؤن لوڈ">
 <!ENTITY downloads.tooltip            "جاری ڈاونلوڈز کی حالت دکھائیں">
 <!ENTITY downloads.accesskey          "ڈ">
@@ -213,6 +205,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "جڑیں…">
 <!ENTITY devtoolsConnect.accesskey    "ج">
@@ -259,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "ٹوگل ٹول">
 <!ENTITY devToolboxMenuItem.accesskey      "ٹ">
+<!ENTITY devToolboxMenuItem.keycode        "ا">
+<!ENTITY devToolboxMenuItem.keytext        "ا">
 
 <!ENTITY devToolbarToolsButton.tooltip     "ڈیولپر ٹول بدلیں">
 <!ENTITY devToolbarOtherToolsButton.label  "مزید ٹول">
@@ -316,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "غ">
 <!ENTITY viewCustomizeToolbar.label       "تخصیص کریں…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
-<!ENTITY viewTabsOnTop.label            "ٹیب سب سے اوپر">
-<!ENTITY viewTabsOnTop.accesskey        "ٹ">
 
 <!ENTITY historyMenu.label "سابقات">
 <!ENTITY historyMenu.accesskey "س">
@@ -326,20 +321,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "حالیہ بند کیے گئے دریچے">
 <!ENTITY historyRestoreLastSession.label "پچھلا سیشن بحال کریں">
 
-<!ENTITY historyHomeCmd.label "گھر">
 <!ENTITY showAllHistoryCmd2.label "تمام سابقات دکھائیں">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "تدوین">
 <!ENTITY appMenuCustomize.label "تخصیص کریں">
-<!ENTITY appMenuToolbarLayout.label "ٹول بار لے آوٹ">
-<!ENTITY appMenuSidebars.label "بغلی بار">
-<!ENTITY appMenuFind.label "ڈھونڈیں ...">
-<!ENTITY appMenuUnsorted.label "غیر چھانٹی شدہ نشانیاں">
-<!ENTITY appMenuWebDeveloper.label "ویب تکمیل کار">
-<!ENTITY appMenuGettingStarted.label "شروعات">
-<!ENTITY appMenuSafeMode.label "ایڈ اون نا اہل کر کے پھر شروع کریں ...">
-<!ENTITY appMenuSafeMode.accesskey "پ">
 
 <!ENTITY openCmd.commandkey           "ک">
 <!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
@@ -408,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "ن">
 <!ENTITY viewImageInfoCmd.label       "صفحہ معلومات نظارہ کریں">
 <!ENTITY viewImageInfoCmd.accesskey   "م">
+<!ENTITY viewImageDescCmd.label       "تصریح دیکھیں">
+<!ENTITY viewImageDescCmd.accesskey   "ت">
 <!ENTITY viewVideoCmd.label           "وڈیو دیکھیں">
 <!ENTITY viewVideoCmd.accesskey       "د">
 <!ENTITY viewBGImageCmd.label         "پس منظر نقش نظارہ کریں">
@@ -543,15 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "نیا دریچا کھولیں">
 <!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
 
-<!ENTITY cutButton.tooltip              "کاٹیں">
-<!ENTITY copyButton.tooltip             "نقل کریں">
-<!ENTITY pasteButton.tooltip            "جوڑیں">
-
 <!ENTITY fullScreenButton.tooltip       "دریچہ پوری سکرین میں دکھائیں">
-
-<!ENTITY zoomOutButton.tooltip          "باہر زوم کریں">
-<!ENTITY zoomInButton.tooltip           "اندر زوم کریں">
-<!ENTITY zoomControls.label             "کنٹرول زوم کریں">
 
 <!ENTITY quitApplicationCmdWin.label       "خروج"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "خ">
@@ -622,6 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "جو جلائی جا رہی ہے بر">
 
 <!ENTITY identity.moreInfoLinkText "مزید معلومات…">
+
+<!ENTITY identity.permissions "اجازتیں">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +618,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "ابھی ہمہ وار کریں">
 <!ENTITY syncSyncNowItem.accesskey    "ہ">
 <!ENTITY syncToolbarButton.label      "ہمہ وار">
-
-<!ENTITY addonBarCloseButton.tooltip  "ایڈ اون بار بند کریں">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "سوشل ٹول بار بٹن">
 <!ENTITY social.notLoggedIn.label   "لاگ ان نہیں">
@@ -690,3 +668,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "اب اجازت دیں">
 <!ENTITY pluginActivateAlways.label "اجازت دیں اور یاد رکھيں">
 <!ENTITY pluginBlockNow.label "بلاکپلگ ان">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "گ">
+<!ENTITY addonBarCmd.label             "اضافہ کریں بار">
+<!ENTITY addonBarCmd.accesskey         "ا">
+<!ENTITY throbberItem.title            "سرگرمی نشان کار">
+<!ENTITY appMenuButton.label           "مینیو">
+<!ENTITY appMenuButton.tooltip         "&brandShortName; کا مینیو کھولیں">
+<!ENTITY feedButton.label              "رکن بنیں">
+<!ENTITY feedButton.tooltip            "اس پیج کے ساتھ رکنیت سازی کریں…">
+<!ENTITY bookmarksButton.tooltip       "اپنی نشانیا نمائش کریں">
+<!ENTITY historyButton.tooltip         "حالیہ دیکھے گئے پیج نمائش کریں">
+<!ENTITY viewTabsOnTop.label           "ٹیب سب سے اوپر">
+<!ENTITY viewTabsOnTop.accesskey       "ٹ">
+<!ENTITY appMenuEdit.label             "تدوین">
+<!ENTITY appMenuToolbarLayout.label    "ٹول بار لے آوٹ">
+<!ENTITY appMenuSidebars.label         "بغلی بار">
+<!ENTITY appMenuFind.label             "ڈھونڈیں ...">
+<!ENTITY appMenuUnsorted.label         "غیر چھانٹی شدہ نشانیاں">
+<!ENTITY appMenuWebDeveloper.label     "ویب تکمیل کار">
+<!ENTITY appMenuGettingStarted.label   "شروعات">
+<!ENTITY appMenuSafeMode.label         "ایڈ اون نا اہل کر کے پھر شروع کریں ...">
+<!ENTITY appMenuSafeMode.accesskey     "پ">
+<!ENTITY cutButton.tooltip             "کاٹیں">
+<!ENTITY copyButton.tooltip            "نقل کریں">
+<!ENTITY pasteButton.tooltip           "جوڑیں">
+<!ENTITY zoomOutButton.tooltip         "باہر زوم کریں">
+<!ENTITY zoomInButton.tooltip          "اندر زوم کریں">
+<!ENTITY zoomControls.label            "کنٹرول زوم کریں">
+<!ENTITY addonBarCloseButton.tooltip   "ایڈ اون بار بند کریں">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

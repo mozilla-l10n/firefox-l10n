@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; مدد">
 <!ENTITY productHelp.accesskey    "م">
 <!ENTITY helpMac.commandkey       "؟">
+
+<!ENTITY helpKeyboardShortcuts.label     "کلیدی تختہ تیز راہیں">
+<!ENTITY helpKeyboardShortcuts.accesskey "ک">
+
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
 
