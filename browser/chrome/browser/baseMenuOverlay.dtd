@@ -20,7 +20,8 @@
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpMac.commandkey       "?">
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Sleutelbordkortpaaie">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
 
 <!ENTITY helpSafeMode.label       "Herbegin met byvoegings gedeaktiveer…">
 <!ENTITY helpSafeMode.accesskey   "H">

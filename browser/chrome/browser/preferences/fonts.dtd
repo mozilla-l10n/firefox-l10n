@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Laat bladsye toe om hul eie fonte te kies in plaas van my keuses hierbo">
 <!ENTITY  allowPagesToUse.accesskey               "L">
 
-
-
-
+<!ENTITY languages.customize.Fallback.grouplabel  "Karakterenkodering vir ou inhoud">
+<!ENTITY languages.customize.Fallback.label       "Karakterenkodering om op terug te val:">
+<!ENTITY languages.customize.Fallback.accesskey   "K">
+<!ENTITY languages.customize.Fallback.desc        "Dié karakterenkodering word gebruik vir ou inhoud wat nié 'n enkodering verklaar nie.">
