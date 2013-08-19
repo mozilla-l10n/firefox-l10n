@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label "Tirem-me daqui!">
+<!ENTITY safeb.palm.decline.label "Ignorar este aviso">
+<!ENTITY safeb.palm.notforgery.label2 "Isto não é uma falsificação da web…">
+<!ENTITY safeb.palm.reportPage.label "Porque é que esta página foi bloqueada?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Indicada como página de ataque!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página web <span id='malware_sitename'/> foi indicada como uma página de ataque e foi bloqueada com base nas suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar programas que roubam a sua informação privada, que usam o seu computador para atacar outros ou para danificar o seu sistema.</p><p>Algumas páginas de ataque distribuem de forma intencional software malicioso, mas muitos não pedem autorização aos seus donos.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "Reportado engôdo web!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página em <span id='phishing_sitename'/> foi indicada como um engôdo web e foi bloqueada com base nas suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>As falsificações da web são desenhadas para o enganar e levar a revelar informação pessoal ou financeira ao imitar fontes de confiança.</p><p>Escrever qualquer tipo de informação nesta página pode resultar em roubo de identidade ou outro tipo de fraude.</p>">
