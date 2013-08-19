@@ -30,12 +30,12 @@
 <!ENTITY sync.button.manual.label "Configuración manual">
 <!ENTITY sync.subtitle.nointernet.label "No está disponible una conexión a internet.">
 <!ENTITY sync.subtitle.failaccount.label "La creación de la cuenta en su dispositivo ha fallado.">
-<!ENTITY sync.subtitle.failmultiple.label "¿Tiene más de un Firefox instalado? Actualmente &syncBrand.fullName.label; sólo admite una instalación de Firefox a la vez. Por favor, desinstale las otras instancias para usar &syncBrand.shortName.label;.">
+<!ENTITY sync.subtitle.failmultiple.label "¿Tiene más de un Firefox instalado? Actualmente &syncBrand.fullName.label; sólo admite una instalación de Firefox a la vez. Desinstale las otras instancias para usar &syncBrand.shortName.label;.">
 <!ENTITY sync.title.success.label "Instalación completada">
 <!ENTITY sync.subtitle.success.label1 "Sus datos están ahora siendo descargados en segundo plano. Puede ir a Ajustes para administrar su cuenta o empezar a navegar con &brandShortName;.">
 <!ENTITY sync.settings.label "Configuración">
 <!ENTITY sync.subtitle.manage.label1 "Su cuenta de &syncBrand.fullName.label; ya está configurada. Puede ir a los Ajustes para administrar su cuenta o abrir &brandShortName;.">
-<!ENTITY sync.pair.tryagain.label "Por favor, pruebe de nuevo.">
+<!ENTITY sync.pair.tryagain.label "Vuelva a intentarlo.">
 <!ENTITY sync.pair.connectlocation.label "Para activar su nuevo dispositivo, seleccione “Configurar &syncBrand.shortName.label;“ en el dispositivo, y seleccione “Tengo una cuenta“.">
 <!ENTITY sync.settings.options.label "Opciones">
 <!ENTITY sync.summary.pair.label "Vincule otro dispositivo a su cuenta de &syncBrand.shortName.label;">
@@ -61,9 +61,9 @@
 <!ENTITY sync.notification.oneaccount.label "Sólo está permitida una cuenta de &syncBrand.fullName.label;.">
 <!ENTITY sync.notification.configure.saved "Sus selecciones han sido guardadas.">
 <!ENTITY sync.invalidcreds.label "Nombre de cuenta o contraseña incorrectos.">
-<!ENTITY sync.invalidserver.label "Por favor, introduzca una URL de servidor válida">
+<!ENTITY sync.invalidserver.label "Introduzca una URL de servidor válida">
 <!ENTITY sync.verifying.label "Verificando…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Pruebe de nuevo.">
+<!ENTITY sync.new.recoverykey.status.incorrect "Clave de recuperación incorrecta. Vuelva a intentarlo.">
 <!ENTITY sync.title.send.tab.label "Enviar pestañas a los dispositivos">
 <!ENTITY sync.button.send.label "Enviar">
 <!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
