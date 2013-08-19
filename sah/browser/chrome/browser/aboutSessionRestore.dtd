@@ -21,3 +21,14 @@
 <!ENTITY restorepage.listHeader     "Түннүктэр уонна кыбытыктар">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Түннүк &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Төннүбүккүнэн!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "Төннөн кэлбиккинэн!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; профильгын хос холбоото. Манна арыйа сылдьыбыт түннүктэриҥ уонна кыбытыктарыҥ тиһигэ көстөр; Эн ону сөргүтүөххүн сөп эбэтэр саҥаттан саҕалыаххын сөп.">

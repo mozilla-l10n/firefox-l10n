@@ -74,7 +74,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Бэлиэтэнии">
-
+<!ENTITY existingRecoveryKey.description "Атын тэрилгинэн киирэр буоллаххына Сөргүтэр күлүүскүн бу суолунан баран булуоххун сөп: &syncBrand.shortName.label; - «Ааты салайыы» диэҥҥэ «Мин сөргүтэр күлүүһүм» диэни булаҕын.">
 <!ENTITY verifying.label              "Тургутуу...">
 <!ENTITY resetPassword.label          "Киирии тылы бырах">
 <!ENTITY resetSyncKey.label           "Атын тэрилбин сүтэрбитим">

@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "Аныгыскы">
-<!ENTITY next.accesskey "А">
 <!ENTITY next.tooltip "Этии тиэкискэ бу кэннинээҕи киириитин бул">
-<!ENTITY previous.label "Иннинээҕи">
-<!ENTITY previous.accesskey "И">
 <!ENTITY previous.tooltip "Этии тиэкискэ бу иннинээҕи киириитин бул">
 <!ENTITY findCloseButton.tooltip "Көрдөөһүнү көстүбэт гын">
-<!ENTITY highlight.label "Барытын сырдатан көрдөр">
-<!ENTITY highlight.accesskey "т">
-<!ENTITY highlight.tooltiptext "Этиини тиэкискэ баарын барытын сырдатан көрдөр">
-<!ENTITY caseSensitiveCheckbox.label "Буукуба улаханын-кыратын араар">
-<!ENTITY caseSensitiveCheckbox.accesskey "у">
+<!ENTITY highlightAll.label "Барытын сырдатан көрдөр">
+<!ENTITY highlightAll.accesskey "т">
+<!ENTITY highlightAll.tooltiptext "Этиини тиэкискэ баарын барытын сырдатан көрдөр">
+<!ENTITY caseSensitive.label "Буукуба улаханын-кыратын арааран">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "Буукуба улаханын-кыратын учуоттаан көрдөө">

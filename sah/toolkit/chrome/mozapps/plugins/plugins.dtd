@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Саҥардыы баарын көр...">
 <!ENTITY disabledPlugin                                      "Бу плагиин араарыллыбыт.">
 <!ENTITY blockedPlugin.label                                 "Бу плагиин куттал суох буоллун диэн бүөлэммит.">
-
+<!ENTITY hidePluginBtn.label                                 "Плаагины кистээ">
 <!ENTITY installPlugin                                       "Плагиины туруор...">
 <!ENTITY managePlugins                                       "Плагииннары салайыы...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

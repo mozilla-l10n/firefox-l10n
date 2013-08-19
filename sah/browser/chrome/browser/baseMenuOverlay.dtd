@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; Көмө">
 <!ENTITY productHelp.accesskey    "К">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Кылгас клавиатура">
+<!ENTITY helpKeyboardShortcuts.accesskey "К">
+
 <!ENTITY helpSafeMode.label       "Эбиилэрин арааран баран хат холбоо…">
 <!ENTITY helpSafeMode.accesskey   "х">
 

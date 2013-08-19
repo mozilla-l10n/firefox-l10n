@@ -68,6 +68,7 @@
 <!ENTITY  allowPagesToUse.label                   "Ситим сирдэр бэйэлэрин бичиктэрин туруорары көҥүллээ">
 <!ENTITY  allowPagesToUse.accesskey               "к">
 
-
-
-
+<!ENTITY languages.customize.Fallback.grouplabel  "Кодировкатын иһинээҕитинэн">
+<!ENTITY languages.customize.Fallback.label       "Саппаас кодировкалар:">
+<!ENTITY languages.customize.Fallback.accesskey   "к">
+<!ENTITY languages.customize.Fallback.desc        "Бу кодировка биллибэт кодировкалаах ситим-сирдэргэ туттуллар.">
