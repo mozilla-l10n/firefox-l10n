@@ -10,6 +10,6 @@
 <!ENTITY manage.accesskey "M">
 <!ENTITY select.label "Usar perfil">
 <!ENTITY availableProfiles.label "Perfiles disponibles">
-<!ENTITY introStart.label "Para acceder a su perfil personal, que contiene sus mensajes guardados, configuración y otra información personalizada, por favor elija su perfil de la lista y pulse &start.label; para iniciar su sesión.">
-<!ENTITY introSwitch.label "Para cambiar a otro perfil, que contiene mensajes guardados, configuración y otra información personalizada, por favor elija ese perfil de la lista y pulse &select.label; para comenzar a usar ese perfil.">
+<!ENTITY introStart.label "Para acceder a su perfil personal, que contiene sus mensajes guardados, configuración y otra información personalizada, elija su perfil de la lista y pulse &start.label; para iniciar su sesión.">
+<!ENTITY introSwitch.label "Para cambiar a otro perfil, que contiene mensajes guardados, configuración y otra información personalizada, elija ese perfil de la lista y pulse &select.label; para comenzar a usar ese perfil.">
 <!ENTITY profileManagerText.label "&brandShortName; guarda información sobre sus configuraciones, preferencias, marcadores, mensajes y otros elementos en su perfil de usuario.">
