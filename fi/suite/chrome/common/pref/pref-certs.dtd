@@ -15,3 +15,9 @@
 
 <!ENTITY  pref.certs.title         "Varmenteet">
 <!ENTITY  certs.label              "Varmenteet">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "Käytä OCSP:tä varmenteiden tilan tarkastamiseen">
+<!ENTITY enableOCSP.accesskey                     "K">
+<!ENTITY validation.requireOCSP.description       "Älä hyväksy varmennetta, jos OCSP-palvelimeen ei pystytä muodostamaan yhteyttä">
+<!ENTITY validation.requireOCSP.accesskey         "Ä">

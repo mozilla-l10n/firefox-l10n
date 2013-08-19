@@ -104,6 +104,16 @@
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Poista vaimennus">
 <!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaPlaybackRate.label        "Toistovauhti">
+<!ENTITY mediaPlaybackRate.accesskey    "T">
+<!ENTITY mediaPlaybackRate050.label     "Hidastettu (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "H">
+<!ENTITY mediaPlaybackRate100.label     "Normaali">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Nopeutettu (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "o">
+<!ENTITY mediaPlaybackRate200.label     "Kaksinkertainen">
+<!ENTITY mediaPlaybackRate200.accesskey "K">
 <!ENTITY mediaShowControls.label      "Näytä mediaohjaimet">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Piilota mediaohjaimet">
