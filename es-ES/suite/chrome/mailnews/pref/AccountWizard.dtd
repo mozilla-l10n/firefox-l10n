@@ -6,7 +6,7 @@
 <!ENTITY accountWizard.size "width: 42em; height: 38em;">
 <!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, primero necesita configurar una cuenta.">
 <!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
-<!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para configurar una cuenta. Si no conoce la información solicitada, por favor, contacte con el administrador de su sistema o el proveedor de servicios de internet.">
+<!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para configurar una cuenta. Si no conoce la información solicitada, contacte con el administrador de su sistema o el proveedor de servicios de internet.">
 <!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
 <!ENTITY accountTypeMail.accesskey "c">
@@ -60,7 +60,7 @@
 <!ENTITY accnameLabel.label "Nombre de la cuenta:">
 <!ENTITY accnameLabel.accesskey "A">
 <!ENTITY completionTitle.label "¡Felicidades!">
-<!ENTITY completionText.label "Por favor, compruebe que la información de debajo es correcta.">
+<!ENTITY completionText.label "Compruebe que la información de debajo es correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor de entrada:">
 <!ENTITY serverNamePrefix.label "Nombre del servidor de entrada:">
 <!ENTITY smtpServerNamePrefix.label "Nombre del servidor de salida (SMTP):">
