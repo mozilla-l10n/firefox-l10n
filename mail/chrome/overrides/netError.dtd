@@ -58,13 +58,13 @@
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Contacte con los propietarios del sitio web para informarles de este problema.</li>
+  <li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li>
 </ul>
 ">
 <!ENTITY unsafeContentType.title "Tipo de archivo no seguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Contacte con los propietarios del sitio web para informarles de este problema.</li>
+  <li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li>
 </ul>">
 <!ENTITY netReset.title "La conexión ha sido reiniciada">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -118,7 +118,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>La página que está intentando ver no puede mostrarse porque no se ha podido verificar la autenticidad de los datos recibidos.</li>
-  <li>Contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para informar del problema de este sitio web.</li>
+  <li>Por favor, contacte con los administradores del sitio web para informarles de este problema. De manera alternativa, use la opción del menú Ayuda para informar del problema de este sitio web.</li>
 </ul>
 ">
 <!ENTITY nssBadCert.title "La conexión segura ha fallado">
@@ -149,7 +149,7 @@
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueada por la política de seguridad de contenidos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedido que esta página se cargue de este modo porque la página contiene una política de seguridad de contenidos que lo impide.</p>">
 <!ENTITY corruptedContentError.title "Error por contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>El contenido que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios para informarles de este problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>El contenido que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Por favor, contacte con los propietarios para informarles de este problema.</li></ul>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
@@ -160,4 +160,4 @@
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">

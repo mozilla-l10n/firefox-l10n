@@ -298,7 +298,7 @@
 <!ENTITY event.attendee.usertype.group "Grupo">
 <!ENTITY event.attendee.usertype.resource "Recurso">
 <!ENTITY event.attendee.usertype.room "Sala">
-<!ENTITY timezone.title.label "Especifique la zona horaria">
+<!ENTITY timezone.title.label "Por favor, especifique la zona horaria">
 <!ENTITY event.timezone.custom.label "Más zonas horarias…">
 <!ENTITY read.only.general.label "General">
 <!ENTITY read.only.title.label "Título:">
