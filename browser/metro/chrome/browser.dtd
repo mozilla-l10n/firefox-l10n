@@ -52,11 +52,11 @@
 <!ENTITY contextOpenLinkTab.label "Apri link in una nuova scheda">
 <!ENTITY contextCopyLinkHref.label "Copia link">
 <!ENTITY contextBookmarkLinkHref.label "Aggiungi ai segnalibri">
-<!ENTITY contextSaveImageLib.label "Salva in raccolta immagini">
+<!ENTITY contextSaveImageLib.label "Salva in Immagini">
 <!ENTITY contextCopyImage.label "Copia immagine">
 <!ENTITY contextCopyImageLocation.label "Copia indirizzo immagine">
 <!ENTITY contextOpenImageTab.label "Apri immagine in una nuova scheda">
-<!ENTITY contextSaveVideoLib.label "Salva in raccolta video">
+<!ENTITY contextSaveVideoLib.label "Salva in Video">
 <!ENTITY contextCopyVideoLocation.label "Copia indirizzo video">
 <!ENTITY contextOpenVideoTab.label "Apri video in una nuova scheda">
 <!ENTITY reload.key "r">
