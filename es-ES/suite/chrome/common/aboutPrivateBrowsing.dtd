@@ -14,4 +14,4 @@
 <!ENTITY privatebrowsingpage.normal "En este momento no está usando la &privatebrowsingpage.title;.">
 <!ENTITY privatebrowsingpage.private.label "Abrir una nueva ventana privada">
 <!ENTITY privatebrowsingpage.private.accesskey "A">
-<!ENTITY privatebrowsingpage.info "Para iniciar la &privatebrowsingpage.title;, también puede seleccionar Archivo - Nuevo - Ventana privada. ">
+<!ENTITY privatebrowsingpage.info "Para iniciar la &privatebrowsingpage.title;, también puede seleccionar Archivo - Nuevo - Ventana privada.">
