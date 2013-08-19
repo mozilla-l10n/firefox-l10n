@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Ontdoen sluit van oortjies">
 <!ENTITY  closeTab.label                     "Sluit oortjie">
 <!ENTITY  closeTab.accesskey                 "S">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Toelaat">
 <!ENTITY fullscreenExitButton.label "Weier">
 
+<!ENTITY fullscreenExitHint2.value "Druk enige tyd ESC om te verlaat.">
 <!ENTITY leaveDOMFullScreen.label "Verlaat volskerm">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
 
@@ -161,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Ligging">
 <!ENTITY searchItem.title             "Soek">
 <!ENTITY bookmarksItem.title          "Boekmerke">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Tuis">
 
 <!ENTITY tabGroupsButton.label        "Oortjie-groepe">
 <!ENTITY tabGroupsButton.tooltip      "Groepeer jou oortjies">
@@ -389,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "p">
 <!ENTITY viewImageInfoCmd.label       "Bekyk prentinfo">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "Bekyk beskrywing">
+<!ENTITY viewImageDescCmd.accesskey   "b">
 <!ENTITY viewVideoCmd.label           "Bekyk video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Bekyk agtergrondprent">

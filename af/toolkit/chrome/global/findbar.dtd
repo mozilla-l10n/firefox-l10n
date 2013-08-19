@@ -7,10 +7,10 @@
 
 <!ENTITY next.tooltip "Vind die volgende voorkoms van die frase">
 <!ENTITY previous.tooltip "Vind die vorige voorkoms van die frase">
-
-
-
+<!ENTITY findCloseButton.tooltip "Sluit soekbalk">
+<!ENTITY highlightAll.label "Verlig almal">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Verlig alle voorkomste van die frase">
-
-
-
+<!ENTITY caseSensitive.label "Selfde kas">
+<!ENTITY caseSensitive.accesskey "S">
+<!ENTITY caseSensitive.tooltiptext "Soek met in inagneming van hoof- en kleinletters">

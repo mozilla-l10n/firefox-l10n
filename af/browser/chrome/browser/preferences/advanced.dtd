@@ -34,6 +34,7 @@
 <!ENTITY setDefault.accesskey            "v">
 <!ENTITY isDefault.label                 "&brandShortName; is tans die verstekblaaier">
 
+<!ENTITY dataChoicesTab.label            "Datakeuses">
 
 <!ENTITY healthReportSection.label       "&brandShortName;-gesondheidsverslag">
 <!ENTITY healthReportDesc.label          "Help om die blaaier se werkverrigting te verstaan en deel data met &vendorShortName; oor die blaaier se gesondheid">
@@ -49,8 +50,8 @@
 
 <!ENTITY crashReporterSection.label      "Omvalrapporteerder">
 <!ENTITY crashReporterDesc.label         "&brandShortName; dien omvalverslae in om &vendorShortName; te help om die blaaier meer stabiel en veilig te maak">
-
-
+<!ENTITY enableCrashReporter.label       "Aktiveer omvalrapporteerder">
+<!ENTITY enableCrashReporter.accesskey   "o">
 <!ENTITY crashReporterLearnMore.label    "Meer inligting">
 
 <!ENTITY networkTab.label                "Netwerk">
