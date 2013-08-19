@@ -20,14 +20,14 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "သင့်စိတ်ကြိုက် မီးမြေခွေးအားလွယ်ကူစွာပြုပြင်သုံးစွဲနိုင်ပါသည်။ <a>Choose from thousands of add-ons</a>">
+<!ENTITY abouthome.defaultSnippet2.v1 "သင့်စိတ်ကြိုက် မီးမြေခွေးအားလွယ်ကူစွာပြုပြင်သုံးစွဲနိုင်ပါသည်။ <a>Choose from thousands of add-on</a>">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; သည် ပရဟိတအဖွဲ့အစည်း မိုဇီလာမှ အခမဲ့ ဖြန့်ဖြူးသော Open Source ဆော့ဝဲဖြစ်ပါတယ် <a>Know your rights...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; သည် ပရဟိတအဖွဲ့အစည်း မိုဇီလာမှ အခမဲ့ ဖြန့်ဖြူးသော Open Source ဆော့ဝဲဖြစ်ပါတယ် <a>သိသင့်သောအချက်များ...</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "မှတ်သား လိပ်စာများ">
-<!ENTITY abouthome.historyButton.label   "မှတ်တမ်းများ">
+<!ENTITY abouthome.historyButton.label   "မှတ်တမ်း">
 <!ENTITY abouthome.settingsButton.label  "အပြင်အဆင်များ">
-<!ENTITY abouthome.addonsButton.label    "ပေါင်းထည့်ဆော့ဝဲများ">
+<!ENTITY abouthome.addonsButton.label    "ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY abouthome.appsButton.label      "စျေးကွက်">
 <!ENTITY abouthome.downloadsButton.label "ဆွဲချစရာများ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

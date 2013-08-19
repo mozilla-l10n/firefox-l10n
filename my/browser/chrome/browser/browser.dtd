@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "စာမျက်နှာအားပိတ်ပစ်ခြင်းအားမလုပ်လိုတော့ပါ။">
 <!ENTITY  closeTab.label                     "Close Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Allow">
 <!ENTITY fullscreenExitButton.label "ငြင်းပယ်ပါ">
 
+<!ENTITY fullscreenExitHint2.value "ESC ကီးအားနှိပ်ပြီး အချိန်မရွေးထွက်နိုင်ပါတယ်">
 <!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "တည်နေရာ">
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
 <!ENTITY bookmarksItem.title          "မှတ်သားချက်များ">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "အိမ်">
 
 <!ENTITY tabGroupsButton.label        "Strolladoù ivinelloù">
 <!ENTITY tabGroupsButton.tooltip      "Strollañ hoc'h ivinelloù">
@@ -202,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "eချိတ်ဆက်ပါ...">
@@ -249,8 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Toggle Tools">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
 <!ENTITY devToolbarOtherToolsButton.label  "More Tools">
@@ -388,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ပုံ၏သတင်းအချက်အလက်များ">
 <!ENTITY viewImageInfoCmd.accesskey   "ပ">
-
-
+<!ENTITY viewImageDescCmd.label       "(D) ဖော်ပြချက်အားကြည့်">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "(i)ဗွီဒီယို ရှုမြင်ပါ">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "နောက်ခံ ရုပ်ပုံကို ရှုမြင်ပါ">

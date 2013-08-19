@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     " အဆင့်မြှင့်တင်မှူ ရှိမရှိစစ်...">
 <!ENTITY disabledPlugin                                      "ယခုထပ်ပေါင်းဆော့ဝဲအားပိတ်ထားသှ်">
 <!ENTITY blockedPlugin.label                                 "သင့်ရဲ့ အကာအကွယ်အတွက် ယန္တရားငယ်ကို ပိတ်ဆို့ထားတယ်။">
-
+<!ENTITY hidePluginBtn.label                                 "ပလပ်အင်အား ဖွက်ထားပါ">
 <!ENTITY installPlugin                                       "ပလပ်အင်အားတပ်ဆင်မည်">
 <!ENTITY managePlugins                                       "ပလပ်အင်များအားစီမံမည်">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
