@@ -24,5 +24,5 @@
 <!ENTITY sad.thanksHeader "Gracias por hacérnoslo saber.">
 <!ENTITY sad.thanksMessageTop "Siempre estamos intentando hacer &brandShortName; mejor. Esté seguro que personas reales mirarán su opinión y harán lo mejor posible para resolver su problema.">
 <!ENTITY sad.thanksMessageBottom "U otra cosa.">
-<!ENTITY feedback.privacy "Por favor, por su privacidad, no incluya ninguna información personal identificable en su opinión.">
+<!ENTITY feedback.privacy "Por su privacidad, no incluya ninguna información personal identificable en su opinión.">
 <!ENTITY feedback.send "Enviar opinión">
