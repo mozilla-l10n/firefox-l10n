@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; faaba">
 <!ENTITY productHelp.accesskey    "f">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi…">
 <!ENTITY helpSafeMode.accesskey   "u">
 

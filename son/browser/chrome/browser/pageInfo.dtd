@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Noo fondo goywaati še">
 <!ENTITY  permBlock             "Gagay">
 <!ENTITY  permissionsFor        "Duɲeyan woo še:">
-<!ENTITY  permImage             "Biyey zumandi">
-<!ENTITY  permPopup             "Biiboŋ bata zanfuney feeri">
-<!ENTITY  permCookie            "Aleewawey kayandi">
-<!ENTITY  permNotifications     "Bangandiyaney cebe">
-<!ENTITY  permInstall           "Dobuyaney wala furarey sinji">
-<!ENTITY  permGeo               "Gorodoo žemna">
 <!ENTITY  permPlugins           "Sukarey dirandi">
-<!ENTITY  permFullscreen        "Huru dijikul alhaali ra">
-<!ENTITY  permPointerLock2      "Ncaŋ cebekaa tugu">
 
-<!ENTITY  permIndexedDB              "Bila nda ciyari jišidoo gaabu">
 <!ENTITY  permClearStorage           "Jišidoo koonandi">
 <!ENTITY  permClearStorage.accesskey "C">
 

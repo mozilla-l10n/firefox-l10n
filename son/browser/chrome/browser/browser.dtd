@@ -46,6 +46,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "l">
 <!ENTITY  undoCloseTab.label                 "Nor loku daabuyan taafeeri">
 <!ENTITY  undoCloseTab.accesskey             "t">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Nor lokoo daabu">
 <!ENTITY  closeTab.accesskey                 "d">
 
@@ -73,12 +77,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Šilbayboŋ žeeri">
 <!ENTITY menubarCmd.accesskey "r">
 <!ENTITY navbarCmd.label "Naaruyan goyjinay žeeri">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Doo-šilbawey goyjinay žeeri">
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
-<!ENTITY addonBarCmd.label "Tontoni zuu-žeeri">
-<!ENTITY addonBarCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -107,9 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "D">
 <!ENTITY fullscreenAllowButton.label "Noo fondo">
 <!ENTITY fullscreenExitButton.label "Wanji">
-<!ENTITY fullscreenApproval.value "Dijikul alhaali duɲe?">
 
-<!ENTITY fullscreenExitHint.value "ESC naagu ka fatta dijikul alhaali ra.">
 <!ENTITY leaveDOMFullScreen.label "Dijikul alhaali naŋ">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
@@ -161,22 +160,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Banda/Jine">
 <!ENTITY locationItem.title           "Gorodoo">
 <!ENTITY searchItem.title             "Ceeci">
-<!ENTITY throbberItem.title           "Goy maatekaw">
 <!ENTITY bookmarksItem.title          "Doo-šilbawey">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Šilbayboŋ">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; šilbayboŋ feeri">
-<!ENTITY homeButton.label             "Šintin">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Nor loku margarey">
 <!ENTITY tabGroupsButton.tooltip      "War nor lokey marga">
 
-<!ENTITY feedButton.label             "Boŋ-maa hantum">
-<!ENTITY feedButton.tooltip           "Boŋ-maa hantum moɲoo woo še…">
-
 <!ENTITY bookmarksButton.label          "Doo-šilbawey">
-<!ENTITY bookmarksButton.tooltip        "War doo-šilbawey cebe">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Doo-šilbawey">
@@ -192,7 +182,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Taariki">
-<!ENTITY historyButton.tooltip          "Moɲey kaŋ war kokor ka dii yey cebe">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Goyjinawey">
@@ -200,8 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo še…">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "Tataaru ceeci">
-<!ENTITY search.accesskey             "c">
+
 <!ENTITY downloads.label              "Zumandiyaney">
 <!ENTITY downloads.tooltip            "Sohõda zumandiyaney jinekoyyanoo cebe">
 <!ENTITY downloads.accesskey          "Z">
@@ -213,6 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 <!ENTITY webDeveloperMenu.accesskey   "T">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Ciya…">
 <!ENTITY devtoolsConnect.accesskey    "a">
@@ -259,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
 <!ENTITY devToolboxMenuItem.accesskey      "K">
+
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Kanjari cinakaw goyjinawey">
 <!ENTITY devToolbarOtherToolsButton.label  "Goyjinay ka tonton">
@@ -316,8 +308,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "C">
 <!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ še…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
-<!ENTITY viewTabsOnTop.label            "Nor lokey beene here">
-<!ENTITY viewTabsOnTop.accesskey        "N">
 
 <!ENTITY historyMenu.label "Taariki">
 <!ENTITY historyMenu.accesskey "T">
@@ -326,20 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Zanfun kokor daabantey">
 <!ENTITY historyRestoreLastSession.label "Goywaati bisantaa yeeti">
 
-<!ENTITY historyHomeCmd.label "Šintin">
 <!ENTITY showAllHistoryCmd2.label "Taarikoo kul cebe">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Fasal">
 <!ENTITY appMenuCustomize.label "Hanse war boŋ še">
-<!ENTITY appMenuToolbarLayout.label "Goyjinay zuu-žeeri kanandi…">
-<!ENTITY appMenuSidebars.label "Cerawžeerey">
-<!ENTITY appMenuFind.label "Ceeci…">
-<!ENTITY appMenuUnsorted.label "Doo-šilbawey kaŋ mana fayandi">
-<!ENTITY appMenuWebDeveloper.label "Interneti cinakaw">
-<!ENTITY appMenuGettingStarted.label "Go ma tun">
-<!ENTITY appMenuSafeMode.label "Tunandi taaga nda tontoney kaŋ kayandi…">
-<!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ceeci wala aderesu dam">
@@ -408,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "B">
 <!ENTITY viewImageInfoCmd.label       "Bii alhabar guna">
 <!ENTITY viewImageInfoCmd.accesskey   "B">
+
+
 <!ENTITY viewVideoCmd.label           "Widewo guna">
 <!ENTITY viewVideoCmd.accesskey       "W">
 <!ENTITY viewBGImageCmd.label         "Bandafaari bii guna">
@@ -543,15 +525,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Zanfun taaga feeri">
 <!ENTITY sidebarCloseButton.tooltip     "Ceraw-zuu daabu">
 
-<!ENTITY cutButton.tooltip              "Dunbu">
-<!ENTITY copyButton.tooltip             "Berandi">
-<!ENTITY pasteButton.tooltip            "Dobu">
-
 <!ENTITY fullScreenButton.tooltip       "Zanfunoo cebe dijikul ra">
-
-<!ENTITY zoomOutButton.tooltip          "Nakasandi">
-<!ENTITY zoomInButton.tooltip           "Bebbeerandi">
-<!ENTITY zoomControls.label             "Azzaati juwaley">
 
 <!ENTITY quitApplicationCmdWin.label       "Fatta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "F">
@@ -622,6 +596,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "kaŋ tunandikaa ti">
 
 <!ENTITY identity.moreInfoLinkText "Alhabar tontoni…">
+
+<!ENTITY identity.permissions "Duɲeyaney">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +613,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Sync sohõ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY addonBarCloseButton.tooltip  "Tontoni zuu-žeeri daabu">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Batu goyjinay zuu butoŋ">
 <!ENTITY social.notLoggedIn.label   "Mana huru">
@@ -690,3 +663,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Noo fondo sohõ">
 <!ENTITY pluginActivateAlways.label "Noo fondo nda hongu">
 <!ENTITY pluginBlockNow.label "Sukari gagay">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "Tontoni zuu-žeeri">
+<!ENTITY addonBarCmd.accesskey         "T">
+<!ENTITY throbberItem.title            "Goy maatekaw">
+<!ENTITY appMenuButton.label           "Šilbayboŋ">
+<!ENTITY appMenuButton.tooltip         "&brandShortName; šilbayboŋ feeri">
+<!ENTITY feedButton.label              "Boŋ-maa hantum">
+<!ENTITY feedButton.tooltip            "Boŋ-maa hantum moɲoo woo še…">
+<!ENTITY bookmarksButton.tooltip       "War doo-šilbawey cebe">
+<!ENTITY historyButton.tooltip         "Moɲey kaŋ war kokor ka dii yey cebe">
+<!ENTITY viewTabsOnTop.label           "Nor lokey beene here">
+<!ENTITY viewTabsOnTop.accesskey       "N">
+<!ENTITY appMenuEdit.label             "Fasal">
+<!ENTITY appMenuToolbarLayout.label    "Goyjinay zuu-žeeri kanandi…">
+<!ENTITY appMenuSidebars.label         "Cerawžeerey">
+<!ENTITY appMenuFind.label             "Ceeci…">
+<!ENTITY appMenuUnsorted.label         "Doo-šilbawey kaŋ mana fayandi">
+<!ENTITY appMenuWebDeveloper.label     "Interneti cinakaw">
+<!ENTITY appMenuGettingStarted.label   "Go ma tun">
+<!ENTITY appMenuSafeMode.label         "Tunandi taaga nda tontoney kaŋ kayandi…">
+<!ENTITY appMenuSafeMode.accesskey     "T">
+<!ENTITY cutButton.tooltip             "Dunbu">
+<!ENTITY copyButton.tooltip            "Berandi">
+<!ENTITY pasteButton.tooltip           "Dobu">
+<!ENTITY zoomOutButton.tooltip         "Nakasandi">
+<!ENTITY zoomInButton.tooltip          "Bebbeerandi">
+<!ENTITY zoomControls.label            "Azzaati juwaley">
+<!ENTITY addonBarCloseButton.tooltip   "Tontoni zuu-žeeri daabu">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->
