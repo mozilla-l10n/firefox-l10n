@@ -60,7 +60,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivována">
 <!ENTITY aboutSupport.a11yForceDisabled "Zakázána">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Verze knihovny">
+<!ENTITY aboutSupport.libraryVersionsTitle "Verze knihoven">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historie instalací">
 <!ENTITY aboutSupport.updateHistoryTitle "Aktualizovat historii">
