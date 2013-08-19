@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
 
-<!ENTITY privateBrowsingCmd.commandkey "R">
+<!ENTITY privateBrowsingCmd.commandkey "M">
 
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
