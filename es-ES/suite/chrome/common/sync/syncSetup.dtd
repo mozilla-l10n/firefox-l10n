@@ -37,7 +37,7 @@
 <!ENTITY recoveryKeyEntry.label "Su clave de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey "S">
 <!ENTITY recoveryGenerateNewKey.label "Generar una clave nueva">
-<!ENTITY recoveryKeyBackup.description "Su clave de recuperación es necesaria para acceder a &syncBrand.fullName.label; en otras máquinas. Cree una copia de respaldo. No podemos ayudarle a recuperar su clave de recuperación.">
+<!ENTITY recoveryKeyBackup.description "Su clave de recuperación es necesaria para acceder a &syncBrand.fullName.label; en otras máquinas. Por favor, cree una copia de respaldo. No podemos ayudarle a recuperar su clave de recuperación.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
@@ -50,9 +50,9 @@
 <!ENTITY addDevice.setup.enterCode.label "Luego, introduzca este código:">
 <!ENTITY addDevice.dialog.description.label 'Para activar su nuevo dispositivo, vaya a las preferencias/opciones de &syncBrand.shortName.label; en el dispositivo y seleccione "Conectar".'>
 <!ENTITY addDevice.dialog.enterCode.label "Introduzca el código que proporciona el dispositivo:">
-<!ENTITY addDevice.dialog.tryAgain.label "Vuelva a intentarlo.">
+<!ENTITY addDevice.dialog.tryAgain.label "Por favor, vuelva a intentarlo.">
 <!ENTITY addDevice.dialog.successful.label "El dispositivo ha sido añadido con éxito. La sincronización inicial puede llevar varios minutos y terminará en segundo plano.">
-<!ENTITY addDevice.dialog.recoveryKey.label "Para activar su dispositivo tendrá que escribir su clave de recuperación. Imprima o guarde esta clave y llévela con usted.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Para activar su dispositivo tendrá que escribir su clave de recuperación. Por favor, imprima o guarde esta clave y llévela con usted.">
 <!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
 <!ENTITY existingRecoveryKey.description 'Puede obtener una copia de su clave de recuperación yendo a las preferencias/opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando "Mi clave de recuperación" bajo "Administrar cuenta".'>

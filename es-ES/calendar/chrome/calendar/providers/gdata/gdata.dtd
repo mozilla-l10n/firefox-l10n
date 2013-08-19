@@ -6,7 +6,7 @@
 <!ENTITY gdata.privacy.default.label "Predeterminado de Google">
 <!ENTITY gdata.privacy.default.accesskey "D">
 <!ENTITY gdata.migration.title "Migrar calendarios de sólo lectura">
-<!ENTITY gdata.migration.description "El proveedor de Google Calendar ha detectado que tiene calendarios existentes que sólo pueden acceder a Google Calendar en modo de sólo lectura. Si le gustaría actualizar alguno de estos calendarios, selecciónelos a continuación">
+<!ENTITY gdata.migration.description "El proveedor de Google Calendar ha detectado que tiene calendarios existentes que sólo pueden acceder a Google Calendar en modo de sólo lectura. Si le gustaría actualizar alguno de estos calendarios, por favor, selecciónelos a continuación">
 <!ENTITY gdata.migration.upgrade.label "Actualizar">
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "Comprobar siempre ">

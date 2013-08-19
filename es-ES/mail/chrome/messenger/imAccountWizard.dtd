@@ -4,13 +4,13 @@
 
 <!ENTITY windowTitle.label "Asistente de cuentas de chat">
 <!ENTITY accountProtocolTitle.label "Red de chat">
-<!ENTITY accountProtocolInfo.label "Elija la red de su cuenta de chat.">
+<!ENTITY accountProtocolInfo.label "Por favor, elija la red de su cuenta de chat.">
 <!ENTITY accountProtocolField.label "Red:">
 <!ENTITY accountProtocolGetMore.label "Obtener más…">
 <!ENTITY accountUsernameTitle.label "Nombre de usuario">
 <!ENTITY accountUsernameDuplicate.label "¡Esta cuenta ya está configurada!">
 <!ENTITY accountPasswordTitle.label "Contraseña">
-<!ENTITY accountPasswordInfo.label "Introduzca su contraseña en el campo de debajo.">
+<!ENTITY accountPasswordInfo.label "Por favor, introduzca su contraseña en el campo de debajo.">
 <!ENTITY accountPasswordField.label "Contraseña:">
 <!ENTITY accountPasswordManager.label "La contraseña introducida aquí se guardará en el administrador de contraseñas. Deje esta casilla vacía si quiere que se le solicite su contraseña cada vez que se conecte a ella.">
 <!ENTITY accountAdvancedTitle.label "Opciones avanzadas">
@@ -23,5 +23,5 @@
 <!ENTITY accountProxySettings.change.label "Cambiar…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 <!ENTITY accountSummaryTitle.label "Resumen">
-<!ENTITY accountSummaryInfo.label "A continuación se muestra un resumen de la información que ha introducido. Compruébela antes de que se cree la cuenta.">
+<!ENTITY accountSummaryInfo.label "A continuación se muestra un resumen de la información que ha introducido. Por favor, compruébela antes de que se cree la cuenta.">
 <!ENTITY accountSummary.connectNow.label "Conectar a esta cuenta ahora.">
