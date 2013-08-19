@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "E">
 <!ENTITY searchSubfolders.label      "Etsi alikansioista">
 <!ENTITY searchSubfolders.accesskey  "l">
-<!ENTITY searchLocalSystem.label     "Etsi paikallisesta järjestelmästä">
-<!ENTITY searchLocalSystem.accesskey "p">
+<!ENTITY searchOnHeading.label       "Suorita hakutoiminto:">
+<!ENTITY searchOnHeading.accesskey   "u">
+<!ENTITY searchOnRemote.label        "Etäpalvelimella">
+<!ENTITY searchOnLocal.label         "Paikallisessa järjestelmässä">
 <!ENTITY resetButton.label           "Tyhjennä">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Avaa">
