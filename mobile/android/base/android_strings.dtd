@@ -114,7 +114,7 @@
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio…">
 <!ENTITY pref_private_data_downloadFiles "Ficheros descargados">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
-<!ENTITY pref_vendor_faqs "PUF">
+<!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
 <!ENTITY pref_search_set_default "Usar como predeterminado">
 <!ENTITY pref_search_default "Predeterminado">
@@ -239,7 +239,7 @@
                                            desde Android">
 <!ENTITY bookmarkhistory_import_history "Importar historial
                                       desde Android">
-<!ENTITY bookmarkhistory_import_wait "Por favor, espere…">
+<!ENTITY bookmarkhistory_import_wait "Espere…">
 <!ENTITY suggestions_prompt2 "¿Le gustaría activar las sugerencias de búsqueda de &formatS;?">
 <!ENTITY webapp_generic_name "Aplicaciones">
 <!ENTITY searchable_description "Marcadores e historial">

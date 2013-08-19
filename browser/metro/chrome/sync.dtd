@@ -36,6 +36,6 @@
 <!ENTITY sync.flyout.pairNewDevice.note2 "Puede acceder a &syncBrand.shortName.label; para obtener el código a través">
 <!ENTITY sync.flyout.pairNewDevice.note3 "[Escritorio] Herramientas -&gt; Configurar Sync -&gt; Tengo una cuenta">
 <!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
-<!ENTITY sync.flyout.pairNewDevice.failure "Por favor, vuelva a intentarlo">
+<!ENTITY sync.flyout.pairNewDevice.failure "Vuelva a intentarlo">
 <!ENTITY sync.flyout.pairSuccess.description1 "El nuevo dispositivo ha sido añadido con éxito.">
 <!ENTITY sync.flyout.pairSuccess.description2 "Sus datos de &syncBrand.shortName.label; se están descargando en segundo plano. Sus pestañas remotas pueden encontrarse en la página de inicio de &brandShortName;.">
