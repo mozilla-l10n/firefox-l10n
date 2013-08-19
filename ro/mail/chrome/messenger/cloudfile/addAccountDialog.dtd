@@ -3,6 +3,7 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
 #
 -->
@@ -10,6 +11,7 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -17,7 +19,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Configurare Filelink">
 <!ENTITY addAccountDialog.menuTitle "Selectați un serviciu de stocare online">
-<!ENTITY addAccountDialog.style "lățime: 40em; înălțime-minimă: 20em;">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nume cont:">
 <!ENTITY addAccountDialog.noAccountText "Ne pare rău, dar versiunea curentă a &brandShortName; permite numai un singur cont de la fiecare serviciu de stocare online.">
 <!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
