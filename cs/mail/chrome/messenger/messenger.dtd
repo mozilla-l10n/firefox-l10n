@@ -557,7 +557,7 @@
 <!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
 
 <!-- AppMenu Popup -->
-<!ENTITY appmenuNewMsgCmd.label "Nová zprávae">
+<!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
 <!ENTITY appmenuNewContactCmd.label "Kontakt v adresáři…">
 <!ENTITY appmenuEditMenu.label "Upravit">
 <!ENTITY appmenuQFBMenu.label "Rychlý filtr">
