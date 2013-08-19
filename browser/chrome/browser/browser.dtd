@@ -366,7 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey "n">
 <!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
 <!ENTITY openLinkCmd.accesskey "O">
-<!ENTITY openLinkInPrivateWindowCmd.label "Otevřít odkaz v novém anonymní okně">
+<!ENTITY openLinkInPrivateWindowCmd.label "Otevřít odkaz v novém anonymním okně">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "t">
 <!ENTITY openLinkCmdInCurrent.label "Otevřít odkaz">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
