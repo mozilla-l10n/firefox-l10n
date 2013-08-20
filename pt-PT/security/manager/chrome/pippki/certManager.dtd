@@ -72,14 +72,10 @@
 
 <!ENTITY certmgr.editcert.title "Editar as definições do certificado de segurança">
 <!ENTITY certmgr.editcacert.title "Editar as definições de confiança do certificado CA">
-<!ENTITY certmgr.editsslcert.title "Editar as definições de confiança do sítio web">
 <!ENTITY certmgr.editcert.edittrust "Editar definições de confiança:">
 <!ENTITY certmgr.editcert.trustssl "Este certificado pode identificar sítios web.">
 <!ENTITY certmgr.editcert.trustemail "Este certificado pode identificar utilizador de correio electrónico.">
 <!ENTITY certmgr.editcert.trustobjsign "Este certificado pode identificar produtores de software.">
-<!ENTITY certmgr.editsslcert.edittrust "Editar definições de confiança do certificado:">
-<!ENTITY certmgr.editsslcert.dotrust "Confiar na autenticidade deste certificado.">
-<!ENTITY certmgr.editsslcert.donttrust "Não confiar na autenticidade deste certificado.">
 <!ENTITY certmgr.editemailcert.title "Editar definições de confiança do certificado de correio electrónico">
 <!ENTITY certmgr.editemailcert.edittrust "Editar definições de confiança do certificado:">
 <!ENTITY certmgr.editemailcert.dotrust "Confiar na autenticidade deste certificado.">
