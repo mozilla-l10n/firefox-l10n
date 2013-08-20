@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Negar">
 
-<!ENTITY fullscreenExitHint.value "Pressione, a qualquer momento, ESC para sair do modo de ecrã inteiro">
+<!ENTITY fullscreenExitHint2.value "Pressione ESC, a qualquer momento para sair.">
 <!ENTITY leaveDOMFullScreen.label "Sair do ecrã inteiro">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
