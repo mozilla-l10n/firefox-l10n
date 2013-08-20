@@ -10,19 +10,22 @@
 
 <!ENTITY fileMenu.label                     "Ficheiro">
 <!ENTITY fileMenu.accesskey                 "F">
+
 <!ENTITY quitApplicationCmdWin.label        "Sair">
 <!ENTITY quitApplicationCmdWin.accesskey    "S">
 <!ENTITY quitApplicationCmd.label           "Sair">
 <!ENTITY quitApplicationCmd.accesskey       "S">
-
 <!-- On Mac, we create the Quit and Hide command labels dynamically,
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
-<!ENTITY quitApplicationCmdMac.key          "Q">
 <!ENTITY hideThisAppCmdMac.key              "H">
 <!ENTITY hideOtherAppsCmdMac.label          "Ocultar outras">
 <!ENTITY hideOtherAppsCmdMac.key            "l">
 <!ENTITY showAllAppsCmdMac.label            "Mostrar todas">
+
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
+<!ENTITY quitApplicationCmdUnix.key          "Q">
+
 <!ENTITY editMenu.label                     "Editar">
 <!ENTITY editMenu.accesskey                 "E">
 <!ENTITY undoCmd.label                      "Anular">
