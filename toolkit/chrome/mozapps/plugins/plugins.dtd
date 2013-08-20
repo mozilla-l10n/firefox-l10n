@@ -32,14 +32,14 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
-<!ENTITY missingPlugin "Za prikaz te vsebine je potreben vstavek.">
+<!ENTITY missingPlugin                                       "Za prikaz te vsebine je potreben vstavek.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Dotaknite se za vklop vstavka.">
 <!ENTITY clickToActivatePlugin                               "Vklopi vstavek.">
 <!ENTITY checkForUpdates                                     "Preveri posodobitve …">
 <!ENTITY disabledPlugin                                      "Ta vstavek je onemogočen.">
 <!ENTITY blockedPlugin.label                                 "Ta vstavek je bil zavrnjen iz varnostnih razlogov.">
-
+<!ENTITY hidePluginBtn.label                                 "Skrij vstavek">
 <!ENTITY installPlugin                                       "Namesti vstavek …">
 <!ENTITY managePlugins                                       "Urejanje vstavkov …">
 
