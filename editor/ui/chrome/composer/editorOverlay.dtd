@@ -22,7 +22,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.key "s">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">

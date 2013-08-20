@@ -70,8 +70,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "You can not perform further updates on this system. ">
-<!ENTITY update.unsupported.linkText "Learn more">
+<!ENTITY update.unsupported.start    " Nu puteți efectua actualizări suplimentare pe acest sistem. ">
+<!ENTITY update.unsupported.linkText "Aflați mai multe">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -82,7 +82,7 @@
 <!ENTITY update.downloading.start   "Se descarcă actualizarea — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Se aplică actualizarea…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

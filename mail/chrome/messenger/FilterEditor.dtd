@@ -5,6 +5,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
 # xdaiana <xdaiana@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -66,7 +67,7 @@
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
 
 <!ENTITY addAction.tooltip "Add a new action">
-<!ENTITY removeAction.tooltip "Remove this action">
+<!ENTITY removeAction.tooltip "Elimină această acțiune">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.

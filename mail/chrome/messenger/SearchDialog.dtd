@@ -35,8 +35,8 @@
 <!ENTITY results.label               "Rezultate">
 <!ENTITY moveHereMenu.label          "Move Here">
 <!ENTITY moveHereMenu.accesskey      "H">
-<!ENTITY moveButton.label            "Move To">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY moveButton.label            "Mută în">
+<!ENTITY moveButton.accesskey        "m">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">

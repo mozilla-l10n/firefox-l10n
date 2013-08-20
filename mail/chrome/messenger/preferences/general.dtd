@@ -5,12 +5,14 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # evinteler <emil_vinteler2000@yahoo.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -36,8 +38,8 @@
 <!ENTITY customizeMailAlert.label         "Personalizează…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY showTrayIcon.label               "Show a tray icon">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.label               "Arată o pictogramă în bara de stare">
+<!ENTITY showTrayIcon.accesskey           "p">
 
 <!ENTITY play.label                       "Redă">
 <!ENTITY play.accesskey                   "R">

@@ -6,6 +6,7 @@
 # Laudatti <Laudatti@gmail.com>
 # secarica <orice@secarica.ro>
 # raulmalea <raul.malea@gmail.com>
+# nicubunu <nicubunu@gmail.com>
 #
 -->
 <!--
@@ -19,24 +20,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "To">
-<!ENTITY fromField4.label "From">
-<!ENTITY senderField4.label "Sender">
-<!ENTITY organizationField4.label "Organization">
+<!ENTITY toField4.label "Către">
+<!ENTITY fromField4.label "De la">
+<!ENTITY senderField4.label "Expeditor">
+<!ENTITY organizationField4.label "Organizația">
 <!ENTITY replyToField4.label "Reply to">
 
-<!ENTITY subjectField4.label "Subject">
-<!ENTITY ccField4.label "Cc">
+<!ENTITY subjectField4.label "Subiect">
+<!ENTITY ccField4.label "Copie">
 <!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Newsgroups">
+<!ENTITY newsgroupsField4.label "Grupuri de știri">
 <!ENTITY followupToField4.label "Followup to">
-<!ENTITY tagsHdr4.label "Tags">
-<!ENTITY dateField4.label "Date">
-<!ENTITY userAgentField4.label "User agent">
-<!ENTITY referencesField4.label "References">
-<!ENTITY messageIdField4.label "Message ID">
+<!ENTITY tagsHdr4.label "Etichete">
+<!ENTITY dateField4.label "Data">
+<!ENTITY userAgentField4.label "Agent utilizator">
+<!ENTITY referencesField4.label "Referințe">
+<!ENTITY messageIdField4.label "ID mesaj">
 <!ENTITY inReplyToField4.label "In reply to">
-<!ENTITY originalWebsite4.label "Website">
+<!ENTITY originalWebsite4.label "Sait web">
 
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">
@@ -51,7 +52,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
 <!ENTITY hdrFollowupButton1.label "Urmărește">
 <!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
-<!ENTITY hdrMenuForwardButton.label "Forward As">
+<!ENTITY hdrMenuForwardButton.label "Înaintează ca">
 <!ENTITY hdrForwardButton1.label "Înaintează">
 <!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
 <!ENTITY hdrJunkButton1.label "Nesolicitat">

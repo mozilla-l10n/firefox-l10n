@@ -58,8 +58,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cont existent de email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
-<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMAccountCmd.label "Cont de conversație…">
+<!ENTITY newIMAccountCmd.accesskey "c">
 <!ENTITY newFeedAccountCmd.label "Feed Account…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Chat Contact…">
@@ -456,8 +456,8 @@
 <!ENTITY openConversationCmd.label "Deschide în conversație">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "e">
-<!ENTITY openAttachmentListCmd.label "Attachments">
-<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openAttachmentListCmd.label "Atașamente">
+<!ENTITY openAttachmentListCmd.accesskey "t">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
 <!ENTITY openFeedMessage1.accesskey "O">
 <!ENTITY openFeedWebPage.label "Open as Web Page">
@@ -510,8 +510,8 @@
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY clearRecentHistory.label "Curăță istoricul recent…">
+<!ENTITY clearRecentHistory.accesskey "r">
 <!ENTITY accountManagerCmd.label "Setările conturilor…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -521,7 +521,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Get Messages">
+<!ENTITY getMsgButton1.label "Adu mesajele">
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Tuturor">
@@ -555,7 +555,7 @@
 <!ENTITY folderLocationToolbarItem.title "Amplasare dosar">
 <!ENTITY tagButton.label "Etichetă">
 <!ENTITY compactButton.label "Compactează">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Meniu aplicație">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Căutare avansată în mesaje">
@@ -595,11 +595,11 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
 
 <!-- AppMenu Popup -->
-<!ENTITY appmenuNewMsgCmd.label "New Message">
-<!ENTITY appmenuNewContactCmd.label "Address Book Contact…">
-<!ENTITY appmenuEditMenu.label "Edit">
-<!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
-<!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuNewMsgCmd.label "Mesaj nou">
+<!ENTITY appmenuNewContactCmd.label "Contact în agendă…">
+<!ENTITY appmenuEditMenu.label "Editare">
+<!ENTITY appmenuQFBMenu.label "Bară de filtrare rapidă">
+<!ENTITY appmenuToolbarLayout.label "Aranjamentul barei de unelte…">
 <!ENTITY appmenuSelectThread.label "Select Thread">
 <!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 
@@ -616,8 +616,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Adu mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
-<!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
-<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Deschide în fereastră nouă">
+<!ENTITY folderContextOpenInNewWindow.accesskey "d">
 <!ENTITY folderContextOpenNewTab.label "Deschide în filă nouă">
 <!ENTITY folderContextOpenNewTab.accesskey "D">
 <!ENTITY folderContextNew.label "Subdosar nou…">
@@ -735,24 +735,24 @@
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Înaintează">
 <!ENTITY contextForward.accesskey "a">
-<!ENTITY contextForwardAsMenu.label "Forward As">
-<!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "Inline">
-<!ENTITY contextForwardAsInline.accesskey "I">
-<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsMenu.label "Înaintează ca">
+<!ENTITY contextForwardAsMenu.accesskey "n">
+<!ENTITY contextForwardAsInline.label "Mesaj inclus">
+<!ENTITY contextForwardAsInline.accesskey "i">
+<!ENTITY contextForwardAsAttachmentItem.label "Anexă">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextMultiForwardAsAttachment.label "Retrimite ca anexă">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "r">
 <!ENTITY contextMoveMsgMenu.label "Mută în">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Copiază în">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextKillThreadMenu.label "Ignore Thread">
-<!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
-<!ENTITY contextWatchThreadMenu.label "Watch Thread">
+<!ENTITY contextKillThreadMenu.label "Ignoră conversația">
+<!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.label "Ignoră conversația din interior">
+<!ENTITY contextWatchThreadMenu.label "Urmărește conversația">
 <!ENTITY contextSaveAs.label "Salvează ca…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Tipărește…">

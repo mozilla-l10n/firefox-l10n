@@ -7,6 +7,8 @@
 # iulianv <iulianv@email.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
+# adiroiban <adiroiban@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -140,26 +142,26 @@
 <!ENTITY Notes.label                    "Note:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Chat">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.tab                       "Discuție">
+<!ENTITY Chat.accesskey                 "i">
 <!ENTITY Gtalk.label                    "Google Talk:">
-<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY Gtalk.accesskey                "g">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
-<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Yahoo.accesskey                "y">
 <!ENTITY Skype.label                    "Skype:">
-<!ENTITY Skype.accesskey                "S">
+<!ENTITY Skype.accesskey                "k">
 <!ENTITY QQ.label                       "QQ:">
-<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY QQ.accesskey                   "q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
+<!ENTITY MSN.accesskey                  "m">
 <!ENTITY ICQ.label                      "ICQ:">
-<!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
-<!ENTITY XMPP.accesskey                 "J">
-<!ENTITY IRC.label                      "IRC Nick:">
-<!ENTITY IRC.accesskey                  "R">
+<!ENTITY ICQ.accesskey                  "c">
+<!ENTITY XMPP.label                     "ID Jabber:">
+<!ENTITY XMPP.accesskey                 "j">
+<!ENTITY IRC.label                      "Poreclă IRC:">
+<!ENTITY IRC.accesskey                  "p">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">

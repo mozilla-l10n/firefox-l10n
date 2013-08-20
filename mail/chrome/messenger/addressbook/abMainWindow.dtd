@@ -8,6 +8,7 @@
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# adiroiban <adiroiban@gmail.com>
 #
 -->
 <!--
@@ -217,7 +218,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Acasă">
 <!ENTITY other.heading                                  "Altele">
-<!ENTITY chat.heading                                   "Chat">
+<!ENTITY chat.heading                                   "Discuție">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Serviciu">
 <!-- Special Box Headings, for mailing lists -->

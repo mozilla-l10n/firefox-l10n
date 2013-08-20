@@ -2,12 +2,15 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# adiroiban <adiroiban@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -24,7 +27,7 @@
 <!ENTITY feedsSectionHdr.label        "Fluxuri">
 <!ENTITY subscribeFeeds.label         "Gestionează abonamentele">
 
-<!ENTITY chat.label                   "Chat">
+<!ENTITY chat.label                   "Discuție">
 <!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Conturi">
