@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "存取您的書籤、密碼、與不同裝置中開啟的分頁">
+<!ENTITY sync.flyout.presetup.setup.label      "設定 &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "設定 &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "若您已有 &syncBrand.shortName.label; 帳號，請在您其他的裝置上選擇「與裝置配對」並輸入此代碼。">
+<!ENTITY sync.flyout.setup.description2        "若您沒有 &syncBrand.shortName.label; 帳號，可以在 &brandShortName; 桌面瀏覽器建立一組。">
+<!ENTITY sync.flyout.setup.manual.label        "我不在電腦前…">
+<!ENTITY sync.flyout.setup.description3        "請注意:">
+<!ENTITY sync.flyout.setup.description4        "您也可以在下列位置選擇「與裝置配對」">
+<!ENTITY sync.flyout.setup.description5        "[桌面版] 偏好設定 -&gt; 同步">
+<!ENTITY sync.flyout.setup.description6        "[Android] 更多 &gt; 設定 &gt; 同步">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1  "請輸入您的 &syncBrand.shortName.label; 帳號資訊，以及由您的電腦所產生的救援金鑰">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "帳號名稱">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "密碼">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "救援金鑰">
+<!ENTITY sync.flyout.manualsetup.connect.label           "連線">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "您剛將 &brandShortName; 連結至 &syncBrand.shortName.label; 帳號">
+<!ENTITY sync.flyout.setupsuccess.description2      "正在從背景中下載您的 &syncBrand.shortName.label; 資料。您可以在 &brandShortName; 開始頁找到已同步的分頁">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; 無法連線至您的 &syncBrand.shortName.label; 帳號。">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "取消">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "重試">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "帳號:">
+<!ENTITY sync.flyout.connected.device                     "您的裝置:">
+<!ENTITY sync.flyout.connected.disconnect                 "取消連線">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "取消您的裝置與 &syncBrand.shortName.label; 的連結？">
+<!ENTITY sync.flyout.connected.disconnectWarning          "您的裝置與 &syncBrand.shortName.label; 帳號中的所有個人資料將會被保留。">
+<!ENTITY sync.flyout.connected.cancel                     "取消">
+<!ENTITY sync.flyout.connected.pair                       "與裝置配對">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "在您要配對的新裝置中選擇「設定 &syncBrand.shortName.label;」並輸入裝置產生的代碼">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "配對">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "請注意:">
+<!ENTITY sync.flyout.pairNewDevice.note2                  "您可以在下列位置找到 &syncBrand.shortName.label; 所產生的代碼">
+<!ENTITY sync.flyout.pairNewDevice.note3                  "[桌面版] 工具 -&gt; 設定 Sync -&gt; 我已經有帳號了">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] 更多 &gt; 設定 &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "請再試一次">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "已成功新增裝置。">
+<!ENTITY sync.flyout.pairSuccess.description2             "正在從背景中下載您的 &syncBrand.shortName.label; 資料。您可以在 &brandShortName; 開始頁找到其他裝置已開啟的分頁。">
+
