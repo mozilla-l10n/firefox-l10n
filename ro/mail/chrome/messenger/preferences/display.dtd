@@ -13,6 +13,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -33,8 +34,8 @@
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
-<!ENTITY quotedTextColor.label            "Color:">
-<!ENTITY quotedTextColor.accesskey        "o">
+<!ENTITY quotedTextColor.label            "Culoare:">
+<!ENTITY quotedTextColor.accesskey        "l">
 <!ENTITY displayWidth.label               "Mesaje text">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
 
@@ -52,13 +53,13 @@
 <!ENTITY removeTagButton.accesskey "t">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
+<!ENTITY fontsAndColors1.label   "Fonturi și culori">
 <!ENTITY defaultFont.label       "Font implicit:">
 <!ENTITY defaultFont.accesskey   "F">
 <!ENTITY defaultSize.label       "Mărime:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
-<!ENTITY colorButton.label       "Colors…">
-<!ENTITY colorButton.accesskey   "C">
+<!ENTITY colorButton.label       "Culori...">
+<!ENTITY colorButton.accesskey   "l">
 

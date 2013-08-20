@@ -36,19 +36,19 @@
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
-<!ENTITY scrolling.label               "Scrolling">
-<!ENTITY useAutoScroll.label           "Use autoscrolling">
-<!ENTITY useAutoScroll.accesskey       "U">
-<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
-<!ENTITY useSmoothScrolling.accesskey  "m">
+<!ENTITY scrolling.label               "Derulare">
+<!ENTITY useAutoScroll.label           "Folosește derularea automată">
+<!ENTITY useAutoScroll.accesskey       "f">
+<!ENTITY useSmoothScrolling.label      "Folosește derularea lină">
+<!ENTITY useSmoothScrolling.accesskey  "o">
 
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkDefaultsNow.label        "Check Now…">
-<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY checkDefaultsNow.label        "Verifică acum...">
+<!ENTITY checkDefaultsNow.accesskey    "v">
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație…">
 <!ENTITY configEdit.accesskey          "g">
@@ -98,8 +98,8 @@
 <!ENTITY showUpdates.label              "Arată istoricul actualizărilor">
 <!ENTITY showUpdates.accesskey          "A">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
+<!ENTITY useService.accesskey            "s">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Setări…">

@@ -3,12 +3,14 @@
 #
 # rz <rz@r2dev.ro>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -80,8 +82,8 @@
 
 <!ENTITY numberOfMessages.label                  "Number of messages:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-<!ENTITY numberUnknown.label                     "unknown">
-<!ENTITY sizeOnDisk.label                        "Size on disk:">
+<!ENTITY numberUnknown.label                     "necunoscut">
+<!ENTITY sizeOnDisk.label                        "Spațiu pe disc:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "unknown">
+<!ENTITY sizeUnknown.label                       "necunoscut">
 

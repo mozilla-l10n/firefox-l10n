@@ -5,12 +5,14 @@
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -77,6 +79,6 @@
 <!ENTITY showCookies.accesskey          "A">
 
 <!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "Informează saiturile web că nu vreau să fiu urmărit">
+<!ENTITY doNotTrack.accesskey           "w">
 

@@ -4,6 +4,7 @@
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -22,8 +23,8 @@
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Editează…">
 <!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDefault.label "Set Default">
-<!ENTITY identitiesListDefault.accesskey "S">
+<!ENTITY identitiesListDefault.label "Setează ca implicit">
+<!ENTITY identitiesListDefault.accesskey "i">
 <!ENTITY identitiesListDelete.label "Șterge">
 <!ENTITY identitiesListDelete.accesskey "t">
 <!ENTITY identitiesListClose.label "Închide">

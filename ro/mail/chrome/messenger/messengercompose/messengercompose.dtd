@@ -43,7 +43,7 @@
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloudCmd.accesskey "k">
 <!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -108,7 +108,7 @@
 <!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "C">
-<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmd.key "s">
 <!ENTITY findAgainCmd.label "Caută din nou">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "d">
@@ -299,7 +299,7 @@
 <!ENTITY attachFile.label "Anexează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
-<!ENTITY attachCloud.accesskey "i">
+<!ENTITY attachCloud.accesskey "k">
 <!ENTITY convertCloud.label "Convertire la…">
 <!ENTITY convertCloud.accesskey "c">
 <!ENTITY cancelUpload.label "Anulare încărcare">
