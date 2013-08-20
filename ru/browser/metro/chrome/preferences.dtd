@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY optionsHeader.title "Настройки">
+<!ENTITY optionsHeader.startup.title "Запуск">
+<!ENTITY optionsHeader.homepage.title "При запуске &brandShortName; показать">
+<!ENTITY optionsHeader.homepage.startPage.button "стартовую страницу">
+<!ENTITY optionsHeader.homepage.sessionRestore.button "вкладки с прошлого раза">
+<!ENTITY optionsHeader.char.title "Кодировка">
+<!ENTITY optionsHeader.char.autodetect.label "Автоопределение">
+<!ENTITY optionsHeader.char.options.label "Показать настройки кодировки на панели приложений">
+<!ENTITY clearPrivateData.title "Стирание личных данных">
+<!ENTITY clearPrivateData.label "Стереть на этом устройстве ваш журнал посещений, пароли, куки и данные форм">
+<!ENTITY clearPrivateData.button "Стереть">
+<!ENTITY clearPrivateData.done "Готово!">
+<!ENTITY clearPrivateData.history "Журнал посещений">
+<!ENTITY clearPrivateData.otherdata "Другие данные (пароли, кэш, куки и т.д.)">
+<!ENTITY clearPrivateData.downloadHist "Журнал загрузок">
+<!ENTITY clearPrivateData.cookies "Куки">
+<!ENTITY clearPrivateData.cache "Кэш">
+<!ENTITY clearPrivateData.sitePref "Настройки сайтов">
+<!ENTITY clearPrivateData.formSearchHist "Журнал форм и поиска">
+<!ENTITY clearPrivateData.passwords "Сохранённые пароли">
+<!ENTITY clearPrivateData.offline "Данные автономных веб-сайтов">
+<!ENTITY clearPrivateData.logins "Активные сеансы">
+<!ENTITY optionsHeader.privacy.passwords.label "Запоминать пароли">
+<!ENTITY doNotTrack.title "Отказ от отслеживания">
+<!ENTITY doNotTrack.desc "Сообщать сайтам:">
+<!ENTITY doNotTrack.options.trackingNotOkay "Я не хочу, чтобы меня отслеживали">
+<!ENTITY doNotTrack.options.noPreference "Ничего о моих настройках отслеживания">
+<!ENTITY doNotTrack.options.trackingOkay "Я хочу, чтобы меня отслеживали">
+<!ENTITY optionsHeader.reporting.title "Сообщения о падениях">
+<!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; отправляет сообщения о падениях, чтобы помочь Mozilla сделать ваш браузер более стабильным и безопасным">
+<!ENTITY optionsHeader.telemetry.title "Телеметрия">
+<!ENTITY optionsHeader.telemetry.label "Поделиться статистикой использования &brandShortName; с Mozilla, чтобы помочь нам сделать ваш браузер ещё лучше">

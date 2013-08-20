@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY empty.label "Поиск">
+<!ENTITY newpref.label "Добавить новый параметр">
+<!ENTITY addpref.name "Имя">
+<!ENTITY addpref.value "Значение">
+<!ENTITY cancel.label "Отмена">
+<!ENTITY reset.label "Сбросить">
+<!ENTITY done.label "Готово">
+<!ENTITY integer.label "Целое">
+<!ENTITY string.label "Строка">
+<!ENTITY boolean.label "Логическое">

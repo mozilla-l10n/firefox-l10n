@@ -1,0 +1,77 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY urlbar.emptytext "Введите поисковый запрос или адрес">
+<!ENTITY back.label "Назад">
+<!ENTITY forward.label "Вперёд">
+<!ENTITY newtab.label "Новая вкладка">
+<!ENTITY closetab.label "Закрыть вкладку">
+<!ENTITY autocompleteResultsHeader.label "Ваши результаты">
+<!ENTITY appbarErrorConsole.label "Открыть консоль ошибок">
+<!ENTITY appbarJSShell.label "Открыть оболочку JavaScript">
+<!ENTITY appbarFindInPage2.label "Найти на странице">
+<!ENTITY appbarViewOnDesktop2.label "Показать на десктопе">
+<!ENTITY topSitesHeader.label "Топ сайтов">
+<!ENTITY bookmarksHeader.label "Закладки">
+<!ENTITY recentHistoryHeader.label "Недавняя история">
+<!ENTITY remoteTabsHeader.label "Вкладки с других устройств">
+<!ENTITY narrowTopSitesHeader.label "Топ сайтов">
+<!ENTITY narrowBookmarksHeader.label "Закладки">
+<!ENTITY narrowRecentHistoryHeader.label "Недавняя история">
+<!ENTITY narrowRemoteTabsHeader.label "Удалённые вкладки">
+<!ENTITY downloadsHeader.label "Загрузки">
+<!ENTITY downloadShowPage.label "Перейти на страницу">
+<!ENTITY downloadShow2.label "Найти">
+<!ENTITY downloadOpen2.label "Открыть">
+<!ENTITY downloadCancel.label "Отмена">
+<!ENTITY downloadPause.label "Приостановить">
+<!ENTITY downloadResume.label "Возобновить">
+<!ENTITY downloadRetry.label "Повторить">
+<!ENTITY downloadRemove.label "Удалить">
+<!ENTITY downloadDelete.label "Удалить">
+<!ENTITY downloadFailed.label "Не удалась">
+<!ENTITY allBookmarks.label "Показать все закладки">
+<!ENTITY consoleHeader.label "Консоль ошибок">
+<!ENTITY consoleAll.label "Все">
+<!ENTITY consoleErrors.label "Ошибки">
+<!ENTITY consoleWarnings.label "Предупреждения">
+<!ENTITY consoleMessages.label "Сообщения">
+<!ENTITY consoleCodeEval.label "Код:">
+<!ENTITY consoleClear.label "Очистить">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Источник:">
+<!ENTITY consoleErrLine.label "Строка:">
+<!ENTITY consoleErrColumn.label "Символ:">
+<!ENTITY contextTextCut.label "Вырезать">
+<!ENTITY contextTextCopy.label "Копировать">
+<!ENTITY contextTextPaste.label "Вставить">
+<!ENTITY contextTextPasteAndGo.label "Вставить и перейти">
+<!ENTITY contextTextSelect.label "Выделить">
+<!ENTITY contextTextSelectAll.label "Выделить всё">
+<!ENTITY contextOpenLinkTab.label "Открыть ссылку в новой вкладке">
+<!ENTITY contextCopyLinkHref.label "Копировать ссылку">
+<!ENTITY contextBookmarkLinkHref.label "Заложить ссылку">
+<!ENTITY contextSaveImageLib.label "Сохранить в библиотеку изображений">
+<!ENTITY contextCopyImage.label "Копировать изображение">
+<!ENTITY contextCopyImageLocation.label "Копировать ссылку на изображение">
+<!ENTITY contextOpenImageTab.label "Открыть ссылку в новой вкладке">
+<!ENTITY contextSaveVideoLib.label "Сохранить в библиотеку видео">
+<!ENTITY contextCopyVideoLocation.label "Копировать ссылку на видео">
+<!ENTITY contextOpenVideoTab.label "Открыть видео в новой вкладке">
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "е">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">
