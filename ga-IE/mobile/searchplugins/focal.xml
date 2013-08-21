@@ -2,9 +2,16 @@
 <ShortName>focal.ie</ShortName>
 <Description>focal.ie: Cuardach Comhtháite</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAACXBIWXMAAAsTAAALEwEAmpwYAAACbklEQVRIDdVWPWvcQBA9fxRbuFjMEY5whYsjqFChUsVhFJMfoCLFEa5QYfJDgn%2BAyS9QkeKKFCpSuHBxRQoVKYRRoUIEkUqEIwhzBBFEyJPnLNbaOfvQnYuoWFazO%2B%2FtzrwZae%2Fiw0XvOZ%2F95wSvsf9%2FgsPHQ3SCZ3QipRSHoiiKJEmyLHvcpbV6cPb6rGWiV3Ekpu%2Bmtm2n39M4jvOf%2BejVaHw6xpj9yMrfJeulG3kCHPn8%2Fbk8lpcfL7M0W94ui19FfBP3X%2FRxJdM0o5uo%2BlPpcLqFT7L71hVCRFFULh%2BcNPgclGWJJW%2Fq6VishSEwTGMwGGB3GIa6TxInMMq%2BHAzrPU8%2BDAGCQG7FotD9kWcyWqalr%2BqWtQTQjL4blmJ5b39CgCtvhgBRxqI8kjzBPfG6DS0vhgCSrzfhgNwZITCCyBd5C4t9ZQiSdBXlJhmqJyS0Isi7EkCdBMGmkYx1Vd%2FJSeVm58wNIB4SaK3Xh1rE8WEE0Hw%2BZ%2BF0I0NQ%2B1%2FP6R6TyQS9iNygfc%2FzwIHq2%2FD4cOTyeId39eUq%2BhbZY9t1XRhIWuh0YiEMw0B6Nux6ex2%2BaGgkIPB9n61Eum4z8iFqltkJdSREDx2X3aAauxDAHwFEQYBDxWLnfLtmt6pGyLT6W6FvD18O8bVQl1rzjjcASvg1RA6gMeeN0wJVX7sTAMX%2F5GPEVw9iU0HV%2BVYEKAgkA3CO40C7Km4z34oAKKhHKghot1X2xLEtAVBmsxmVISvcHRD0ql4QBGBCF7Esiw7ejGtbRbNjkwn%2BPBCr%2Bq8pzVr7d0MAUMp2Cx2vuwiRjqpY9lf9lG6y6xFZ%2BQct49VjNnelPgAAAABJRU5ErkJggg%3D%3D</Image>
-<Url type="text/html" method="GET" template="http://focal.ie/Search.aspx">
+<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAACXBIWXMAAAsTAAALEwEAmpwYAAACbklEQVRIDdVWPWvcQBA9fxRbuFjMEY5whYsjqFChUsVhFJMfoCLFEa5QYfJDgn+AyS9QkeKKFCpSuHBxRQoVKYRRoUIEkUqEIwhzBBFEyJPnLNbaOfvQnYuoWFazO+/tzrwZae/iw0XvOZ/95wSvsf9/gsPHQ3SCZ3QipRSHoiiKJEmyLHvcpbV6cPb6rGWiV3Ekpu+mtm2n39M4jvOf+ejVaHw6xpj9yMrfJeulG3kCHPn8/bk8lpcfL7M0W94ui19FfBP3X/RxJdM0o5uo+lPpcLqFT7L71hVCRFFULh+cNPgclGWJJW/q6VishSEwTGMwGGB3GIa6TxInMMq+HAzrPU8+DAGCQG7FotD9kWcyWqalr+qWtQTQjL4blmJ5b39CgCtvhgBRxqI8kjzBPfG6DS0vhgCSrzfhgNwZITCCyBd5C4t9ZQiSdBXlJhmqJyS0Isi7EkCdBMGmkYx1Vd/JSeVm58wNIB4SaK3Xh1rE8WEE0Hw+Z+F0I0NQ+1/P6R6TyQS9iNygfc/zwIHq2/D4cOTyeId39eUq+hbZY9t1XRhIWuh0YiEMw0B6Nux6ex2+aGgkIPB9n61Eum4z8iFqltkJdSREDx2X3aAauxDAHwFEQYBDxWLnfLtmt6pGyLT6W6FvD18O8bVQl1rzjjcASvg1RA6gMeeN0wJVX7sTAMX/5GPEVw9iU0HV+VYEKAgkA3CO40C7Km4z34oAKKhHKghot1X2xLEtAVBmsxmVISvcHRD0ql4QBGBCF7Esiw7ejGtbRbNjkwn+PBCr+q8pzVr7d0MAUMp2Cx2vuwiRjqpY9lf9lG6y6xFZ+Qct49VjNnelPgAAAABJRU5ErkJggg==</Image>
+<Url type="text/html" method="GET" template="http://m.focal.ie/Search.aspx">
   <Param name="term" value="{searchTerms}"/>
 </Url>
-<SearchForm>http://focal.ie/Home.aspx</SearchForm>
+<!-- As of Bug 861164, we can do a client-side detection to determine
+     whether a user is using tablet or a phone(relative to this case).
+     Note: The order of <URL> DOES not affect the way we pick between them.
+-->
+<Url type="application/x-moz-tabletsearch" method="GET" template="http://focal.ie/Search.aspx">
+  <Param name="term" value="{searchTerms}"/>
+</Url>
+<SearchForm>http://m.focal.ie/</SearchForm>
 </SearchPlugin>
