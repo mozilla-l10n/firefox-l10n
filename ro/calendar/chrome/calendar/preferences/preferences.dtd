@@ -15,16 +15,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Opțiuni">
-<!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 50em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 50em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 50em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "General">
 <!ENTITY  paneAlarms.title        "Alarme">
 <!ENTITY  paneCategories.title    "Categorii">
 <!ENTITY  paneViews.title         "Vederi">
 <!ENTITY  paneTimezones.title     "Fus orar">
-<!ENTITY  paneAdvanced.title      "Avansat">
 

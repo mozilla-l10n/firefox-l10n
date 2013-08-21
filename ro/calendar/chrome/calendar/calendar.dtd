@@ -4,6 +4,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # rs <struct_bylighting@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
 # vas_galati <vas_galati@yahoo.com>
 #
@@ -12,6 +13,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -36,26 +38,39 @@
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
 <!ENTITY calendar.events.filter.future.label "Evenimente în viitor">
 <!ENTITY calendar.events.filter.current.label "Ziua selectată">
-<!ENTITY calendar.events.filter.currentview.label "Events in Current View">
+<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea curentă">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Evenimente în această lună">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Gata">
-<!ENTITY calendar.unifinder.tree.priority.label      "Prioritate">
-<!ENTITY calendar.unifinder.tree.title.label         "Titlu">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; completată">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Început">
-<!ENTITY calendar.unifinder.tree.enddate.label       "Sfârșit">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Sfârșit">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Îndeplinită">
-<!ENTITY calendar.unifinder.tree.categories.label    "Categorie">
-<!ENTITY calendar.unifinder.tree.location.label      "Amplasare">
-<!ENTITY calendar.unifinder.tree.status.label        "Stare">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Nume calendar">
-<!ENTITY calendar.unifinder.tree.duration.label      "Termen la">
-<!ENTITY calendar.unifinder.close.tooltip            "Închide căutarea și lista de evenimente">
+<!ENTITY calendar.unifinder.tree.done.label              "Gata">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Click to sort by Done">
+<!ENTITY calendar.unifinder.tree.priority.label          "Prioritate">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Click to sort by Priority">
+<!ENTITY calendar.unifinder.tree.title.label             "Titlu">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Click to sort by Title">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; completată">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Click to sort by &#37; Complete">
+<!ENTITY calendar.unifinder.tree.startdate.label         "Început">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Click to sort by Start Date">
+<!ENTITY calendar.unifinder.tree.enddate.label           "Sfârșit">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Click to sort by End Date">
+<!ENTITY calendar.unifinder.tree.duedate.label           "Sfârșit">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Click to sort by Due Date">
+<!ENTITY calendar.unifinder.tree.completeddate.label     "Îndeplinită">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Click to sort by Completed">
+<!ENTITY calendar.unifinder.tree.categories.label        "Categorie">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Click to sort by Category">
+<!ENTITY calendar.unifinder.tree.location.label          "Amplasare">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Click to sort by Location">
+<!ENTITY calendar.unifinder.tree.status.label            "Stare">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Click to sort by Status">
+<!ENTITY calendar.unifinder.tree.calendarname.label      "Nume calendar">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Click to sort by Calendar Name">
+<!ENTITY calendar.unifinder.tree.duration.label          "Termen la">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Click to sort by Due in">
+<!ENTITY calendar.unifinder.close.tooltip                "Închide căutarea și lista de evenimente">
 
 <!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
 <!ENTITY calendar.todaypane.button.tooltip      "Arată panoul cu ziua de azi" >
@@ -311,7 +326,7 @@
 <!ENTITY calendarproperties.name.label                     "Nume:">
 <!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
 <!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
-<!ENTITY calendarproperties.cache2.label                   "Cache">
+<!ENTITY calendarproperties.cache3.label                   "Offline Support">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
@@ -351,4 +366,10 @@
 <!ENTITY calendar.error.code "Cod de eroare:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Add as event">
+<!ENTITY calendar.extract.task.button          "Add as task">
+<!ENTITY calendar.extract.event.button.tooltip "Extract calendaring information from the message and add it to your calendar as an event">
+<!ENTITY calendar.extract.task.button.tooltip  "Extract calendaring information from the message and add it to your calendar as a task">
 
