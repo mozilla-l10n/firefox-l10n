@@ -2,18 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.label                       "Préférences">
-<!ENTITY aboutHeader.label                         "À propos">
-<!ENTITY aboutHeaderProduct.label                  "&brandShortName;">
-<!ENTITY aboutHeaderCompany.label                  "Par &vendorShortName;">
-<!ENTITY aboutHeaderPolicy.label                   "Lire la politique de confidentialité de &brandShortName; en ligne">
-<!ENTITY privacy.title                             "Confidentialité et sécurité">
-<!ENTITY doNotTrack.title                          "Indiquer aux sites de ne pas me pister">
-<!ENTITY masterPassword.title                      "Utiliser un mot de passe principal">
-<!ENTITY clearPrivateData2.title                   "Effacer mes traces ">
-<!ENTITY clearPrivateData.button                   "Effacer">
-<!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
-<!ENTITY startup.title                             "Démarrage">
-<!ENTITY homepage.title                            "Au démarrage de &brandShortName;, afficher">
-<!ENTITY homepage.startPage                        "La page de démarrage">
-<!ENTITY homepage.sessionRestore                   "Les onglets de la session précédente">
+<!-- ## Sync Flyout Panel ## -->
+<!-- see sync.dtd -->
+
+<!-- ## Options Flyout Panel ## -->
+<!ENTITY optionsHeader.title                                     "Options">
+<!ENTITY optionsHeader.startup.title                             "Démarrage">
+<!ENTITY optionsHeader.homepage.title                            "Au démarrage de &brandShortName;, afficher">
+<!ENTITY optionsHeader.homepage.startPage.button                 "la page de démarrage">
+<!ENTITY optionsHeader.homepage.sessionRestore.button            "les derniers onglets ouverts">
+<!ENTITY optionsHeader.char.title                                "Encodage de caractères">
+<!ENTITY optionsHeader.char.autodetect.label                     "Détection automatique">
+<!ENTITY optionsHeader.char.options.label                        "Afficher les options d'encodage sur la barre de l'application">
+
+<!ENTITY clearPrivateData.title                                  "Effacer mes traces">
+<!ENTITY clearPrivateData.label                                  "Effacer votre historique de navigation, mots de passe, cookies et données de formulaire de cet appareil">
+<!ENTITY clearPrivateData.button                                 "Effacer">
+<!ENTITY clearPrivateData.done                                   "Effectué !">
+<!ENTITY clearPrivateData.history                                "Historique de navigation">
+<!ENTITY clearPrivateData.otherdata                              "Autres données (mots de passe, cache, cookies, etc.)">
+<!ENTITY clearPrivateData.downloadHist                           "Historique des téléchargements">
+<!ENTITY clearPrivateData.cookies                                "Cookies">
+<!ENTITY clearPrivateData.cache                                  "Cache">
+<!ENTITY clearPrivateData.sitePref                               "Préférences de site">
+<!ENTITY clearPrivateData.formSearchHist                         "Historique des formulaires et des recherches">
+<!ENTITY clearPrivateData.passwords                              "Mots de passe enregistrés">
+<!ENTITY clearPrivateData.offline                                "Données de site web hors connexion">
+<!ENTITY clearPrivateData.logins                                 "Connexions actives">
+
+<!ENTITY optionsHeader.privacy.passwords.label                   "Enregistrer les mots de passe">
+<!ENTITY doNotTrack.title                                        "Ne pas me pister">
+<!ENTITY doNotTrack.desc                                         "Indiquer aux sites :">
+<!ENTITY doNotTrack.options.trackingNotOkay                      "que je ne souhaite pas être pisté">
+<!ENTITY doNotTrack.options.noPreference                         "rien en ce qui concerne mes préférences de pistage">
+<!ENTITY doNotTrack.options.trackingOkay                         "que je souhaite être pisté">
+<!ENTITY optionsHeader.reporting.title                           "Rapports de plantage">
+<!ENTITY optionsHeader.reporting.crashes.label                   "&brandShortName; envoie des rapports de plantage pour aider Mozilla à rendre votre navigateur plus stable et sécurisé">
+<!ENTITY optionsHeader.telemetry.title                           "Télémétrie">
+<!ENTITY optionsHeader.telemetry.label                           "Envoie à Mozilla des statistiques d'utilisation de &brandShortName; pour nous aider à améliorer votre navigateur">

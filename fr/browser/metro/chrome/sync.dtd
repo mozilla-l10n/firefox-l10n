@@ -2,30 +2,57 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "Sync">
-<!ENTITY sync.notconnected          "Non connecté">
-<!ENTITY sync.connect               "Connecter">
-<!ENTITY sync.connected             "Connecté">
-<!ENTITY sync.details               "Détails">
-<!ENTITY sync.deviceName            "Cet appareil">
-<!ENTITY sync.disconnect            "Déconnecter">
-<!ENTITY sync.syncNow               "Synchroniser">
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
 
-<!ENTITY sync.setup.title           "Se connecter à Sync">
-<!ENTITY sync.setup.pair            "Pour activer, sélectionnez « Associer un appareil » sur votre autre appareil">
-<!ENTITY sync.fallback              "Je n'ai pas accès à mon ordinateur pour l'instant…">
-<!ENTITY sync.setup.manual          "Saisissez vos informations de compte Sync">
-<!ENTITY sync.account               "Nom du compte">
-<!ENTITY sync.password              "Mot de passe">
-<!ENTITY sync.recoveryKey           "Clé de récupération">
-<!ENTITY sync.customServer          "Utiliser un serveur personnalisé">
-<!ENTITY sync.serverURL             "URL du serveur">
-<!ENTITY sync.setup.connect         "Connexion">
-<!ENTITY sync.setup.cancel          "Annuler">
-<!ENTITY sync.setup.tutorial        "Guide">
-<!ENTITY sync.setup.waiting2        "En attente de l'autre appareil…">
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Accéder à vos marque-pages, vos mots de passe et onglets ouverts depuis tous vos appareils">
+<!ENTITY sync.flyout.presetup.setup.label      "Configurer &syncBrand.shortName.label;">
 
-<!ENTITY sync.pair.title            "Associer un appareil">
-<!ENTITY sync.pair.description      "Pour activer votre nouvel appareil, choisissez «&#x00A0;Configurer la synchronisation&#x00A0;» sur celui-ci.">
-<!ENTITY sync.setup.close           "Fermer">
-<!ENTITY sync.setup.waitingdownload "Vos données sont téléchargées en arrière-plan. Vous pouvez fermer ce dialogue quand vous le désirez.">
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Configurer &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Si vous possédez déjà un compte &syncBrand.shortName.label;, sélectionnez « Associer un appareil » sur votre autre appareil et saisissez ce code.">
+<!ENTITY sync.flyout.setup.description2        "Si vous ne possédez pas de compte &syncBrand.shortName.label;, vous pouvez en créer un sur votre navigateur Firefox de bureau.">
+<!ENTITY sync.flyout.setup.manual.label        "Je n'ai pas accès à mon ordinateur pour l'instant…">
+<!ENTITY sync.flyout.setup.description3        "Note :">
+<!ENTITY sync.flyout.setup.description4        "Vous pouvez sélectionner « Associer un appareil » depuis">
+<!ENTITY sync.flyout.setup.description5        "[Ordinateur] Préférences -&gt; Sync">
+<!ENTITY sync.flyout.setup.description6        "[Android] Plus &gt; Paramètres &gt; Sync">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1  "Veuillez saisir les informations de votre compte &syncBrand.shortName.label; ainsi que la clé de récupération générée par votre ordinateur">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nom du compte">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Mot de passe">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clé de récupération">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Se connecter">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Vous venez de connecter &brandShortName; à votre compte &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Vos données &syncBrand.shortName.label; sont à présent synchronisées en arrière-plan. Vous pouvez retrouver vos onglets synchronisés sur la page de démarrage de &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "&brandShortName; ne parvient pas à se connecter à votre compte &syncBrand.shortName.label;.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Annuler">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Réessayer">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Compte :">
+<!ENTITY sync.flyout.connected.device                     "Votre appareil :">
+<!ENTITY sync.flyout.connected.disconnect                 "Déconnecter">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Déconnecter votre appareil de &syncBrand.shortName.label; ?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "L'ensemble de vos données personnelles présentes sur cet appareil et celles sur votre compte &syncBrand.shortName.label; seront inchangées.">
+<!ENTITY sync.flyout.connected.cancel                     "Annuler">
+<!ENTITY sync.flyout.connected.pair                       "Associer un appareil">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "Sur le nouvel appareil que vous souhaitez associer, sélectionnez « Configurer &syncBrand.shortName.label; » et saisissez le code généré par l'appareil">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Associer">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Note :">
+<!ENTITY sync.flyout.pairNewDevice.note2                  "Pour trouver le code, vous pouvez accéder à &syncBrand.shortName.label; depuis">
+<!ENTITY sync.flyout.pairNewDevice.note3                  "[Ordinateur] Outils -&gt; Configurer Sync -&gt; J'ai un compte">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Plus &gt; Paramètres &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Veuillez réessayer">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "L'appareil a été ajouté.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Vos données &syncBrand.shortName.label; sont à présent synchronisées en arrière-plan. Vous pouvez retrouver vos onglets distants sur la page de démarrage de &brandShortName;">
