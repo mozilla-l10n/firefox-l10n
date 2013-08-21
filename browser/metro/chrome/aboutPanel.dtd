@@ -5,10 +5,10 @@
 <!ENTITY aboutHeader.title "О программе">
 <!ENTITY aboutHeader.product.label "&brandShortName;">
 <!ENTITY aboutHeader.company.label "От &vendorShortName;">
-<!ENTITY aboutHeader.policy.label "Прочтите политику приватности &brandShortName; в сети">
+<!ENTITY aboutHeader.policy.label "Политика приватности &brandShortName;">
 <!ENTITY update.checkingForUpdates "Проверка наличия обновлений…">
 <!ENTITY update.checkingAddonCompat "Проверка совместимости дополнений…">
-<!ENTITY update.noUpdatesFound "Установлена последняя версия &brandShortName;">
+<!ENTITY update.noUpdatesFound "Это последняя версия &brandShortName;">
 <!ENTITY update.adminDisabled "Обновления отключены вашим системным администратором">
 <!ENTITY update.otherInstanceHandlingUpdates "Другой процесс &brandShortName; производит его обновление">
 <!ENTITY update.failed.start "Обновление не удалось. ">
@@ -19,5 +19,5 @@
 <!ENTITY update.downloading.start "Загрузка обновления — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Применение обновления…">
-<!ENTITY channel.description.start "Сейчас вы находитесь на канале обновлений ">
-<!ENTITY channel.description.end " .">
+<!ENTITY channel.description.start "Сейчас вы находитесь на ">
+<!ENTITY channel.description.end " канале обновлений.">
