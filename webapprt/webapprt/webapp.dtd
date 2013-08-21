@@ -8,11 +8,11 @@
 <!ENTITY quitApplicationCmdWin.accesskey "E">
 <!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">
 <!ENTITY hideOtherAppsCmdMac.label "Nascondi altre">
 <!ENTITY hideOtherAppsCmdMac.key "H">
 <!ENTITY showAllAppsCmdMac.label "Mostra tutte">
+<!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
