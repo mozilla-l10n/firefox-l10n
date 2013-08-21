@@ -96,6 +96,19 @@
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Ce cadre">
 <!ENTITY thisFrameMenu.accesskey      "C">
+<!ENTITY mediaPlaybackRate.label        "Vitesse de lecture">
+<!ENTITY mediaPlaybackRate.accesskey    "V">
+<!ENTITY mediaPlaybackRate050.label     "Vitesse lente (×0,5)">
+<!ENTITY mediaPlaybackRate050.accesskey "l">
+<!ENTITY mediaPlaybackRate100.label     "Vitesse normale">
+<!ENTITY mediaPlaybackRate100.accesskey "n">
+<!ENTITY mediaPlaybackRate150.label     "Vitesse rapide (×1,5)">
+<!ENTITY mediaPlaybackRate150.accesskey "r">
+<!ENTITY mediaPlaybackRate200.label     "Vitesse doublée">
+<!ENTITY mediaPlaybackRate200.accesskey "d">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label              "Lire">
 <!ENTITY mediaPlay.accesskey          "L">
 <!ENTITY mediaPause.label             "Pause">
