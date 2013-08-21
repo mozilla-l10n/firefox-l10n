@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "A &brandShortName; beállítása">
-<!ENTITY  splash_bookmarks_history "Frissítjük könyvjelzőit és előzményeit, ez eltarthat egy percig is.">
-
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
 <!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
-<!ENTITY pref_category_general "Általános">
-<!ENTITY pref_category_privacy "Adatvédelem és biztonság">
-<!ENTITY pref_category_content "Tartalom">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Speciális">
+<!ENTITY pref_category_customize "Testreszabás">
+<!ENTITY pref_category_search2 "Keresés beállításai">
+<!ENTITY pref_category_display "Megjelenítés">
+<!ENTITY pref_category_privacy_short "Adatvédelem">
+<!ENTITY pref_category_vendor "&vendorShortName;nak,">
 <!ENTITY pref_category_datareporting "Adatválasztások">
-<!ENTITY pref_about_firefox "A &brandShortName; névjegye">
+<!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
+<!ENTITY pref_category_devtools "Fejlesztői eszközök">
+<!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
+<!ENTITY pref_developer_remotedebugging_docs "További információ">
 <!ENTITY pref_remember_signons "Jelszavak megjegyzése">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Általános">
-<!ENTITY pref_header_privacy "Adatvédelem és biztonság">
-<!ENTITY pref_header_content "Tartalom">
+<!ENTITY pref_header_customize "Testreszabás">
+<!ENTITY pref_header_display "Megjelenítés">
+<!ENTITY pref_header_privacy_short "Adatvédelem">
+<!ENTITY pref_header_help "Súgó">
+<!ENTITY pref_header_vendor "&vendorShortName;nak,">
+<!ENTITY pref_header_devtools "Fejlesztői eszközök">
 
 <!ENTITY pref_cookies_menu "Sütik">
 <!ENTITY pref_cookies_accept_all "Engedélyezve">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
-<!ENTITY pref_reflow_on_zoom3 "Két koppintás az újratördeléshez">
+<!ENTITY pref_reflow_on_zoom4 "Szöveg-újratördelés">
+<!ENTITY pref_restore "Lapok">
+<!ENTITY pref_restore_always "Visszaállítás mindig">
+<!ENTITY pref_restore_crash "Visszaállítás összeomlás után">
+<!ENTITY pref_restore_never "Nincs visszaállítás">
 <!ENTITY pref_font_size_tiny "Apró">
 <!ENTITY pref_font_size_small "Kicsi">
 <!ENTITY pref_font_size_medium "Közepes">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings2 "Oldalbeállítások">
 <!ENTITY pref_private_data_downloadFiles "Letöltött fájlok">
+
+
+<!ENTITY pref_about_firefox "A &brandShortName; névjegye">
+<!ENTITY pref_vendor_faqs "GYIK">
+<!ENTITY pref_vendor_feedback "Visszajelzés">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
 <!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Lap">
 <!ENTITY tabs_private "Privát">
 <!ENTITY tabs_synced "Szinkronban">
-<!ENTITY wallpaper_success "Háttérkép frissítve">
-<!ENTITY wallpaper_progress "Háttérkép beállítása">
-<!ENTITY wallpaper_fail "A háttérkép nem állítható be">
+<!ENTITY set_image_fail "Nem állítható be kép">
+<!ENTITY set_image_chooser_title "Kép beállítása mint">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!ENTITY reading_list_failed "Az oldalt nem sikerült hozzáadni az olvasási listához">
 <!ENTITY reading_list_duplicate "Az oldal már szerepel az Olvasási listában">
-<!ENTITY reader "Olvasó">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "További műveletek">
 
 <!ENTITY masterpassword_create_title "Mesterjelszó létrehozása">
 <!ENTITY masterpassword_remove_title "Mesterjelszó törlése">
@@ -318,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Könyvjelzők és előzmények">
 
+<!ENTITY devtools_remote_debugging_forward "Ne feledje el beállítani a porttovábbítást!">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_start_select2 "Koppintson a letöltéshez">
@@ -330,3 +346,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Frissítés érhető el a &brandShortName;hoz">
 <!ENTITY updater_apply_select2 "Koppintson a frissítéshez">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Új vendég munkamenet">
+<!ENTITY exit_guest_session "Vendég munkamenet elhagyása">
+<!ENTITY guest_session_dialog_continue "Folytatás">
+<!ENTITY guest_session_dialog_cancel "Mégse">
+<!ENTITY new_guest_session_title "A &brandShortName; most újraindul">
+<!ENTITY new_guest_session_text "Az ezt használók nem fogják látni az Ön személyes böngészési adatait (mentett jelszavakat, előzményeket vagy könyvjelzőket).\n\nAmikor a vendég végzett, a böngészési adatai törlésre kerülnek, és az Ön munkamenete visszaállításra kerül.">
+
+<!ENTITY exit_guest_session_title "A &brandShortName; most újraindul">
+<!ENTITY exit_guest_session_text "A munkamenet böngészési adatai törlésre kerülnek.">
