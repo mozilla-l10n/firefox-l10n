@@ -6,9 +6,10 @@
 <!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
 <!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Plus visités">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  awesomebar_bookmarks_title "Marque-pages">
-<!ENTITY  awesomebar_history_title "Historique">
+<!ENTITY  reading_list_title "Liste de lecture">
 <!ENTITY  awesomebar_switch_to_tab "Aller à l\u0027onglet">
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
@@ -218,8 +219,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_open_private_tab "Ouvrir en navigation privée">
 <!ENTITY contextmenu_open_in_reader "Ouvrir dans le lecteur">
-<!ENTITY contextmenu_remove_history "Supprimer">
-<!ENTITY contextmenu_remove_bookmark "Supprimer">
+<!ENTITY contextmenu_remove "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
 <!ENTITY contextmenu_pasteandgo "Coller et ouvrir">
@@ -228,6 +228,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Modifier">
 <!ENTITY contextmenu_subscribe "S\u0027abonner à la page">
 <!ENTITY contextmenu_site_settings "Modifier les paramètres de site">
+<!ENTITY contextmenu_top_bookmarks_edit "Modifier">
+<!ENTITY contextmenu_top_bookmarks_pin "Épingler ce site">
+<!ENTITY contextmenu_top_bookmarks_unpin "Relâcher ce site">
 
 <!ENTITY pref_titlebar_mode "Barre de titre">
 <!ENTITY pref_titlebar_mode_title "Afficher le titre de la page">
@@ -247,7 +250,6 @@ size. -->
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
 
-<!ENTITY reading_list "Liste de lecture">
 <!ENTITY reading_list_added "Page ajoutée à votre liste de lecture">
 <!ENTITY reading_list_removed "Page retirée de votre liste de lecture">
 <!ENTITY reading_list_failed "Impossible d\u0027ajouter la page à votre liste de lecture">
@@ -270,28 +272,21 @@ size. -->
 <!ENTITY button_set "Valider">
 <!ENTITY button_clear "Effacer">
 
-<!ENTITY abouthome_addons_title "Modules pour votre &brandShortName;">
-<!ENTITY abouthome_addons_browse "Parcourir tous les modules pour &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Vos derniers onglets ouverts">
-<!ENTITY abouthome_last_tabs_open "Ouvrir tous les onglets">
-<!ENTITY abouthome_top_sites_title "Les plus visités">
-<!ENTITY abouthome_topsites_edit "Modifier">
-<!ENTITY abouthome_topsites_pin "Épingler ce site">
-<!ENTITY abouthome_topsites_unpin "Relâcher ce site">
-
-<!-- Localization note (abouthome_about_sync2, abouthome_about_apps): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Paramétrer Firefox Sync pour accéder aux marque-pages, à l\u0027historique et aux onglets de vos autres appareils »">
-<!ENTITY abouthome_about_apps3 "Obtenir des applications sur le Firefox Marketplace et découvrir le meilleur de ce qu\u0027offre le Web »">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_history_title "Historique">
+<!ENTITY home_last_tabs_title "Onglets de la session précédente">
+<!ENTITY home_last_tabs_open "Ouvrir tous les onglets">
+<!ENTITY home_last_tabs_empty "Les onglets de la session précédente s\u0027affichent ici.">
+<!ENTITY home_most_recent_title "Plus récents">
+<!ENTITY home_most_recent_empty "Les sites récemment visités s\u0027affichent ici.">
+<!ENTITY home_most_visited_title "Plus visités">
+<!ENTITY home_reading_list_empty "Les articles enregistrés pour plus tard s\u0027affichent ici.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable.. -->
+<!ENTITY home_reading_list_hint "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &#37;I lorsque celle-ci apparaît dans la barre de titre.">
+<!ENTITY home_most_visited_empty "Les sites les plus souvent visités s\u0027affichent ici.">
+<!ENTITY pin_bookmark_dialog_hint "Saisir un mot-clé pour la recherche">
 
 <!ENTITY filepicker_title "Choisir un fichier">
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
