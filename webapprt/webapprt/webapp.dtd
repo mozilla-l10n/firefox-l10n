@@ -8,7 +8,7 @@
 <!ENTITY quitApplicationCmdWin.accesskey "E">
 <!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY quitApplicationCmdUnix.key "Q">
 <!ENTITY hideThisAppCmdMac.key "H">
 <!ENTITY hideOtherAppsCmdMac.label "Nascondi altre">
 <!ENTITY hideOtherAppsCmdMac.key "H">
