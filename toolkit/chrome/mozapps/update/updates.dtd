@@ -21,6 +21,11 @@
 <!ENTITY manualUpdate.space.desc "Даступна параенае абнаўленне бяспекі і ўстойлівасці, але вы не
                                            не маеце дастаковай прасторы, каб усталяваць яго.">
 <!ENTITY manualUpdateGetMsg.label "Вы заўсёды можаце атрымаць апошнюю версію &brandShortName; на:">
+<!ENTITY unsupported.title "System Unsupported">
+<!ENTITY unsupported.label "Your &brandShortName; is out of date, but the latest version is not
+                                           supported on your system. Please upgrade your system, then try again.
+                                           You will not see this notice again, but you can">
+<!ENTITY unsupportedLink.label "падрабязней.">
 <!ENTITY incompatibleCheck.title "Праверка сумяшчальнасці дадаткаў">
 <!ENTITY incompatibleCheck.label "Шукаюцца навейшыя версіі вашых дадаткаў…">
 <!ENTITY clickHere.label "Пабачыць болей падрабязныя звесткі пра гэта абнаўленне">

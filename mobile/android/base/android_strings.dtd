@@ -12,11 +12,11 @@
 <!ENTITY awesomebar_switch_to_tab "Пераключыцца ў устаўку">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY crash_send_report_message2 "Tell Mozilla about this crash so they can fix it">
+<!ENTITY crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
 <!ENTITY crash_include_url2 "Include the address of the page I was on">
 <!ENTITY crash_sorry "We\'re sorry">
 <!ENTITY crash_comment "Каментаваць (каментары прылюдна бачныя)">
-<!ENTITY crash_allow_contact "Allow Mozilla to contact me about this report">
+<!ENTITY crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
 <!ENTITY crash_email "Your email">
 <!ENTITY crash_closing_alert "Exit without sending a crash report?">
 <!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
@@ -33,6 +33,7 @@
 <!ENTITY bookmark_added "Дададзена закладка">
 <!ENTITY bookmark_removed "Закладка выдалена">
 <!ENTITY bookmark_updated "Закладка абноўленая">
+<!ENTITY bookmark_options "Наладжванні">
 <!ENTITY history_today_section "Сёння">
 <!ENTITY history_yesterday_section "Учора">
 <!ENTITY history_week_section "Тыдзень назад">
@@ -77,7 +78,7 @@
 <!ENTITY pref_plugins_tap_to_play "Ляпніце, каб прайграць">
 <!ENTITY pref_plugins_disabled "Забаронена">
 <!ENTITY pref_text_size "Памер тэксту">
-<!ENTITY pref_reflow_on_zoom2 "Прышпіліць для перафарматавання тэксту">
+<!ENTITY pref_reflow_on_zoom3 "Double tap to reflow text">
 <!ENTITY pref_font_size_tiny "Звыш-малы">
 <!ENTITY pref_font_size_small "Малы">
 <!ENTITY pref_font_size_medium "Сярэдні">
@@ -100,15 +101,20 @@
 <!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles "Сцягнутыя файлы">
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_action "Выбраць, чым дзяліцца">
 <!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!ENTITY datareporting_fhr_title "Справаздача пра стан &brandShortName;">
-<!ENTITY datareporting_fhr_summary "Дапамагае вам лепш разумець працавыніковасць вашага азіральніка і падзеляе здаткі з &vendorShortName; пра стан вашага азіральніка">
+<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
+<!ENTITY datareporting_abouthr_title "View my Health Report">
 <!ENTITY datareporting_telemetry_title "Тэлеметрыя">
 <!ENTITY datareporting_telemetry_summary "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
-<!ENTITY datareporting_crashreporter_title "Паведамляльнік пра крахі &brandShortName;">
+<!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
+<!ENTITY datareporting_wifi_title "&vendorShortName; location services">
+<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
 <!ENTITY pref_update_autodownload "Самастойныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_disabled "Забаронены">
@@ -198,6 +204,13 @@
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
 <!ENTITY identity_connected_to "Вы з злучаны з">
 <!ENTITY identity_run_by "які падтрымліваецца">
+<!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
+<!ENTITY blocked_mixed_content_message_bottom "Большасць сеціўных пляцовац будзе працаваць нават калі гэтае змесціва будзе заблакаваным.">
+<!ENTITY learn_more "Падрабязней">
+<!ENTITY enable_protection "Дазволіць ахову">
+<!ENTITY disable_protection "Disable protection">
+<!ENTITY keep_blocking "Трымаць блакаванне">
 <!ENTITY private_data_success "Асабістыя здаткі ачышчаныя">
 <!ENTITY private_data_fail "Асобныя асабістыя здаткі немагчыма ачысціць">
 <!ENTITY bookmarkhistory_button_import "Імпартаваць">

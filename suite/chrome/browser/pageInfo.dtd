@@ -85,6 +85,7 @@
 <!ENTITY permImage "Загружаць выявы">
 <!ENTITY permPopup "Адкрываць вокны-вынырцы">
 <!ENTITY permCookie "Усталёўваць біркі">
+<!ENTITY permNotifications "Паказваць апавяшчэнні">
 <!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
 <!ENTITY permGeo "Дзяліцца месцазнаходжаннем">
 <!ENTITY securityTab "Бяспека">

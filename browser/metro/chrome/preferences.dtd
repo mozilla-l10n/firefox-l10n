@@ -2,16 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHeader.title "Пра">
-<!ENTITY aboutHeader.product.label "&brandShortName;">
-<!ENTITY aboutHeader.company.label "&vendorShortName;">
-<!ENTITY aboutHeader.policy.label "Чытанне палітыкі адсаблення &brandShortName; у сетцы">
 <!ENTITY optionsHeader.title "Наладжванні">
 <!ENTITY optionsHeader.startup.title "Запуск">
 <!ENTITY optionsHeader.homepage.title "Пасля запуску &brandShortName; паказаць">
 <!ENTITY optionsHeader.homepage.startPage.button "Пачатковая старонка">
 <!ENTITY optionsHeader.homepage.sessionRestore.button "устаўкі, якія ў мяне былі апошнім разам">
-<!ENTITY optionsHeader.tabs.title "Заўсёды паказваць устаўкі">
 <!ENTITY optionsHeader.char.title "Кадоўка знакаў">
 <!ENTITY optionsHeader.char.autodetect.label "Сама-вызначэнне">
 <!ENTITY optionsHeader.char.options.label "Паказваць наладжванні кадоўкі на паліцы прыстасавання">
@@ -35,3 +30,5 @@
 <!ENTITY doNotTrack.options.trackingNotOkay "Я не жадаю, каб за мною сачылі">
 <!ENTITY doNotTrack.options.noPreference "Нічога пра маё стаўленне да сачэння">
 <!ENTITY doNotTrack.options.trackingOkay "Я жадаю, каб за мною сачылі">
+<!ENTITY optionsHeader.reporting.title "Паведамляльнік пра крахі">
+<!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; падае справаздачы пра крахі, каб дапамагчы Mozilla зрабіць ваш азіральнік больш устойлівым і бяспечным">

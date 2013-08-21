@@ -20,6 +20,9 @@
 <!ENTITY update.manual.start "Сцязгнуць ">
 <!ENTITY update.manual.linkText "апошнюю версію">
 <!ENTITY update.manual.end "">
+<!ENTITY update.unsupported.start "You can not perform further updates on this system. ">
+<!ENTITY update.unsupported.linkText "Падрабязней">
+<!ENTITY update.unsupported.end "">
 <!ENTITY update.downloading.start "Сцягванне абнаўлення — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY update.applying "Ужыванне абнаўлення…">

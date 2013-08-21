@@ -11,6 +11,7 @@
 <!ENTITY useQuickMode.accesskey "з">
 <!ENTITY manageSubscriptions.label "Кіраваць падпіскамі…">
 <!ENTITY manageSubscriptions.accesskey "К">
+<!ENTITY feedWindowTitle.label "Чараўнік рахунку жывільніка">
 <!ENTITY feeds.accountName "Жывільнікі дзённікаў і навінаў">
 <!ENTITY feeds.wizardShortName "Жывільнікі">
 <!ENTITY feeds.wizardLongName "Жывільнікі дзённікаў і навінаў">
