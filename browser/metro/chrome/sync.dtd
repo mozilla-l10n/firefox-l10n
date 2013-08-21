@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Flyout -->
+<!ENTITY sync.flyout.title                     "&syncBrand.shortName.label;">
+
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1     "Aceda aos seu marcadores, senhas e separadores abertos através de diversos dispositivos">
+<!ENTITY sync.flyout.presetup.setup.label      "Configurar &syncBrand.shortName.label;">
+
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title               "Configurar &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1        "Se já tem uma conta do &syncBrand.shortName.label;, selecione &quot;Emparelhar um dispositivo&quot; no seu outro aparelho e escreva o código.">
+<!ENTITY sync.flyout.setup.description2        "Se não tiver uma conta do &syncBrand.shortName.label;, pode criar uma no navegador &brandShortName; do seu computador.">
+<!ENTITY sync.flyout.setup.manual.label        "Não estou ao pé do meu computador...">
+<!ENTITY sync.flyout.setup.description3        "Nota:">
+<!ENTITY sync.flyout.setup.description4        "Pode selecionar &quot;Emparelhar dispositivo&quot;">
+<!ENTITY sync.flyout.setup.description5        "[Desktop] Preferências -&gt; Sync">
+<!ENTITY sync.flyout.setup.description6        "[Android] Mais &gt; Settings &gt; Sync">
+
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1  "Por favor escreva a informação da sua conta do &syncBrand.shortName.label; e a chave de recuperação gerada pelo seu computador">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Nome da conta">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Senha">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Chave de recuperação">
+<!ENTITY sync.flyout.manualsetup.connect.label           "Ligar">
+
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1      "Acabou de ligar o &brandShortName; à conta &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setupsuccess.description2      "Os seus dados &syncBrand.shortName.label; estão agora a ser transferidos em segundo plano. Os separadores sincronizados podem ser encontrados na página inicial do &brandShortName;">
+
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description       "O &brandShortName; não conseguiu ligar-se à sua conta &syncBrand.shortName.label;t.">
+<!ENTITY sync.flyout.setupfailure.cancelButton      "Cancelar">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton    "Tentar novamente">
+
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account                    "Conta:">
+<!ENTITY sync.flyout.connected.device                     "O seu dispositivo:">
+<!ENTITY sync.flyout.connected.disconnect                 "Desligar">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader    "Desligar o seu dispositivo com o &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning          "Todos os seus dados pessoais neste dispositivo e na conta do &syncBrand.shortName.label; serão mantidos.">
+<!ENTITY sync.flyout.connected.cancel                     "Cancelar">
+<!ENTITY sync.flyout.connected.pair                       "Emparelhar um dispositivo">
+
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description            "No novo aparelho que deseja emparelhar, selecione &quot;Configurar o &syncBrand.shortName.label;&quot; e escreva o código criado pelo aparelho">
+<!ENTITY sync.flyout.pairNewDevice.pair                   "Emparelhar">
+<!ENTITY sync.flyout.pairNewDevice.note1                  "Nota:">
+<!ENTITY sync.flyout.pairNewDevice.note2                  "Pode aceder ao &syncBrand.shortName.label; para encontrar o código através do">
+<!ENTITY sync.flyout.pairNewDevice.note3                  "[Desktop] Ferramentas -&gt; Configurar Sync -&gt; Já tenho uma conta">
+<!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] More &gt; Settings &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure                "Por favor, tente de novo">
+
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1             "O novo dispositivo foi adicionado com sucesso.">
+<!ENTITY sync.flyout.pairSuccess.description2             "Os seus dados do &syncBrand.shortName.label; estão a ser transferidos em segundo plano. Os seus separadores remotos podem ser encontrado na página inicial do &brandShortName;.">
