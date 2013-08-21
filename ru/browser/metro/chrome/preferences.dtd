@@ -9,9 +9,9 @@
 <!ENTITY optionsHeader.homepage.sessionRestore.button "вкладки с прошлого раза">
 <!ENTITY optionsHeader.char.title "Кодировка">
 <!ENTITY optionsHeader.char.autodetect.label "Автоопределение">
-<!ENTITY optionsHeader.char.options.label "Показать настройки кодировки на панели приложений">
+<!ENTITY optionsHeader.char.options.label "Показать настройку кодировки на панели приложения">
 <!ENTITY clearPrivateData.title "Стирание личных данных">
-<!ENTITY clearPrivateData.label "Стереть на этом устройстве ваш журнал посещений, пароли, куки и данные форм">
+<!ENTITY clearPrivateData.label "Стирание на этом устройстве журнала посещений, паролей, кук и данных форм">
 <!ENTITY clearPrivateData.button "Стереть">
 <!ENTITY clearPrivateData.done "Готово!">
 <!ENTITY clearPrivateData.history "Журнал посещений">
@@ -28,9 +28,9 @@
 <!ENTITY doNotTrack.title "Отказ от отслеживания">
 <!ENTITY doNotTrack.desc "Сообщать сайтам:">
 <!ENTITY doNotTrack.options.trackingNotOkay "Я не хочу, чтобы меня отслеживали">
-<!ENTITY doNotTrack.options.noPreference "Ничего о моих настройках отслеживания">
+<!ENTITY doNotTrack.options.noPreference "Ничего о настройках отслеживания">
 <!ENTITY doNotTrack.options.trackingOkay "Я хочу, чтобы меня отслеживали">
 <!ENTITY optionsHeader.reporting.title "Сообщения о падениях">
-<!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; отправляет сообщения о падениях, чтобы помочь Mozilla сделать ваш браузер более стабильным и безопасным">
+<!ENTITY optionsHeader.reporting.crashes.label "&brandShortName; отправляет сообщения о падениях, чтобы помочь Mozilla сделать браузер стабильнее и безопаснее">
 <!ENTITY optionsHeader.telemetry.title "Телеметрия">
-<!ENTITY optionsHeader.telemetry.label "Поделиться статистикой использования &brandShortName; с Mozilla, чтобы помочь нам сделать ваш браузер ещё лучше">
+<!ENTITY optionsHeader.telemetry.label "Поделиться статистикой использования &brandShortName; с Mozilla, чтобы помочь ей улучшить браузер">
