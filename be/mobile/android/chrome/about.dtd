@@ -10,9 +10,9 @@
 <!ENTITY aboutPage.checkForUpdates.link "Знайсці абнаўленні »">
 <!ENTITY aboutPage.checkForUpdates.checking "Пошук абнаўленняў…">
 <!ENTITY aboutPage.checkForUpdates.none "Няма даступных абнаўленняў">
-<!ENTITY aboutPage.checkForUpdates.available "Даступна абнаўленне, пстрыкніце, каб загрузіць">
+<!ENTITY aboutPage.checkForUpdates.available2 "Сцягнуць абнаўлення">
 <!ENTITY aboutPage.checkForUpdates.downloading "Сцягванне абнаўлення…">
-<!ENTITY aboutPage.checkForUpdates.downloaded "Абнаўленне сцягнута, пстрыкніце, каб усталяваць">
+<!ENTITY aboutPage.checkForUpdates.downloaded2 "Усталяваць абнаўленні">
 <!ENTITY aboutPage.faq.label "Пытанні і адказы">
 <!ENTITY aboutPage.support.label "Падтрымка">
 <!ENTITY aboutPage.privacyPolicy.label "Палітыка адасаблення">

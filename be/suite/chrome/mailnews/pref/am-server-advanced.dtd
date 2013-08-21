@@ -23,8 +23,6 @@
 <!ENTITY overrideNamespaces.label "Дазволіць паслугачу адхіляць гэтыя назвапрасторы">
 <!ENTITY overrideNamespaces.accesskey "Д">
 <!ENTITY pop3Desc.label "Калі пошта загружаецца з гэтага pop-паслугача, карыстацца наступнаю папкаю для новай пошты:">
-<!ENTITY globalInbox.label "Агульныя Атрыманыя (у рахунку Мясцовыя Папкі)">
-<!ENTITY globalInbox.accesskey "А">
 <!ENTITY accountDirectory.label "Папка Атрыманыя для рахунку гэтага паслугача">
 <!ENTITY accountDirectory.accesskey "п">
 <!ENTITY deferToServer.label "Папка Атрыманыя іншага рахунку">

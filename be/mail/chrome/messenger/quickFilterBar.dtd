@@ -25,6 +25,11 @@
 <!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
+<!ENTITY quickFilterBar.booleanMode.tooltip "Tag filtering mode">
+<!ENTITY quickFilterBar.booleanModeAny.label "Any of">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "At least one of the selected tag criteria should match">
+<!ENTITY quickFilterBar.booleanModeAll.label "All of">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "All of the selected tag criteria must match">
 <!ENTITY quickFilterBar.textbox.idealWidth "340">
 <!ENTITY quickFilterBar.textbox.minWidth "300">
 <!ENTITY quickFilterBar.textFilter.explanation.label "Сітаваць лісты па:">

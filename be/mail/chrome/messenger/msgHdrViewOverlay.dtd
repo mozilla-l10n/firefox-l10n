@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Да">
-<!ENTITY fromField3.label "Ад">
-<!ENTITY senderField3.label "Дасылальнік">
-<!ENTITY organizationField3.label "Установа">
-<!ENTITY replyToField3.label "Адказаць">
-<!ENTITY subjectField3.label "Тэма">
-<!ENTITY ccField3.label "СА">
-<!ENTITY bccField3.label "ССА">
-<!ENTITY newsgroupsField3.label "Навінакупы">
-<!ENTITY followupToField3.label "Водгук да">
-<!ENTITY tagsHdr3.label "Меціны">
-<!ENTITY dateField3.label "Дата">
-<!ENTITY userAgentField3.label "Дзеяч карыстальніка">
-<!ENTITY referencesField3.label "Спасылкі">
-<!ENTITY messageIdField3.label "Вызначальнік ліста">
-<!ENTITY inReplyToField3.label "У адказ на">
-<!ENTITY originalWebsite3.label "Пляцоўка Сеціва">
+<!ENTITY toField4.label "Да">
+<!ENTITY fromField4.label "Ад">
+<!ENTITY senderField4.label "Адпраўнік">
+<!ENTITY organizationField4.label "Установа">
+<!ENTITY replyToField4.label "Адказ-Да">
+<!ENTITY subjectField4.label "Тэма">
+<!ENTITY ccField4.label "СА">
+<!ENTITY bccField4.label "Сса">
+<!ENTITY newsgroupsField4.label "Навінакупы">
+<!ENTITY followupToField4.label "Водгук-Да">
+<!ENTITY tagsHdr4.label "Меціны">
+<!ENTITY dateField4.label "Дата">
+<!ENTITY userAgentField4.label "Дзеяч карыстальніка">
+<!ENTITY referencesField4.label "Спасылкі">
+<!ENTITY messageIdField4.label "Вызначальнік-Ліста">
+<!ENTITY inReplyToField4.label "In reply to">
+<!ENTITY originalWebsite4.label "Пляцоўка Сеціва">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
 <!ENTITY hdrArchiveButton1.label "У архіў">
@@ -32,6 +32,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Адказаць паштоваму спісу">
 <!ENTITY hdrFollowupButton1.label "Даслаць водгук">
 <!ENTITY hdrFollowupButton1.tooltip "Даслаць водгук у навінакупу">
+<!ENTITY hdrMenuForwardButton.label "Накіраваць як">
 <!ENTITY hdrForwardButton1.label "Накіраваць">
 <!ENTITY hdrForwardButton1.tooltip "Накіраваць гэты ліст">
 <!ENTITY hdrJunkButton1.label "Лухта">

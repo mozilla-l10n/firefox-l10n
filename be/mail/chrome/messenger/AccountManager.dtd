@@ -9,6 +9,8 @@
 <!ENTITY addMailAccountButton.accesskey "Д">
 <!ENTITY addIMAccountButton.label "Дадаць рахунак гутаркі…">
 <!ENTITY addIMAccountButton.accesskey "г">
+<!ENTITY addFeedAccountButton.label "Дадаць рахунак жывільніка…">
+<!ENTITY addFeedAccountButton.accesskey "ж">
 <!ENTITY addOtherAccountButton.label "Дадаць іншы рахунак…">
 <!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "Прызначыць змоўчным">

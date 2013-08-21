@@ -8,7 +8,6 @@
 <!ENTITY showAlertFor.label "Паказаць папярэджанне для">
 <!ENTITY showAlertFor.accesskey "П">
 <!ENTITY showAlertTimeEnd.label "секундаў">
-<!ENTITY showAlertTimeEnd.accesskey "с">
 <!ENTITY showAlertPreviewText.label "Паказваць перадпрагляд тэксту ліста">
 <!ENTITY showAlertPreviewText.accesskey "л">
 <!ENTITY showAlertSubject.label "Паказваць тэму">

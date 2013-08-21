@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description Дадавайце закладкі ў гэтую папку, каб пабачыць іх на прыладапаліцы закладак.
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 #define getting_started У пачатку
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -22,19 +22,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Даведка і дапаможнікі
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Уладкаванне Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+# link title for https://www.mozilla.org/en-US/contribute/
 #define firefox_community Уцягвайцеся
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/about/
+# link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Пра нас
 
 #unfilter emptyLines

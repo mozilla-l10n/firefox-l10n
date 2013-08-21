@@ -25,6 +25,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Рахунак гутаркі…">
 <!ENTITY newIMAccountCmd.accesskey "г">
+<!ENTITY newFeedAccountCmd.label "Рахунак жывільніка…">
+<!ENTITY newFeedAccountCmd.accesskey "ж">
 <!ENTITY newIMContactCmd.label "Гутарковая сувязь…">
 <!ENTITY newIMContactCmd.accesskey "г">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
@@ -456,6 +458,8 @@
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "н">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
+<!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
+<!ENTITY allowRemoteDebugging.accesskey "д">
 <!ENTITY getMsgButton.label "Атрымаць">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
@@ -500,6 +504,8 @@
 <!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
 <!ENTITY replyListButton.tooltip "Адказаць паштоваму спісу">
 <!ENTITY forwardButton.tooltip "Накіраваць вылучаны ліст">
+<!ENTITY forwardAsInline.tooltip "Накіраваць вылучаны ліст як убудаваны тэкст">
+<!ENTITY forwardAsAttachment.tooltip "Накіраваць вылучаны ліст як далучэнне">
 <!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
 <!ENTITY archiveButton.tooltip "Заархівіраваць вылучаныя лісты">
 <!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
@@ -520,6 +526,8 @@
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
 <!ENTITY appmenuButton1.tooltip "Адлюстраваць меню &brandShortName; Menu">
+<!ENTITY buttonMenuForwardAsInline.label "Накіраваць усярэдзіне">
+<!ENTITY buttonMenuForwardAsAttachment.label "Накіраваць як далучэнне">
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
@@ -535,8 +543,8 @@
 <!ENTITY folderSizeColumn.label "Памер">
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты">
 <!ENTITY folderContextGetMessages.accesskey "А">
-<!ENTITY folderContextOpenNewWindow.label "Адчыніць">
-<!ENTITY folderContextOpenNewWindow.accesskey "ч">
+<!ENTITY folderContextOpenInNewWindow.label "Адкрыць у новым акне">
+<!ENTITY folderContextOpenInNewWindow.accesskey "А">
 <!ENTITY folderContextOpenNewTab.label "Адчыніць у новай устаўцы">
 <!ENTITY folderContextOpenNewTab.accesskey "у">
 <!ENTITY folderContextNew.label "Новая падпапка…">
@@ -638,14 +646,24 @@
 <!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Накіраваць">
 <!ENTITY contextForward.accesskey "к">
-<!ENTITY contextForwardAsAttachment.label "Накіраваць як далучэнні">
-<!ENTITY contextForwardAsAttachment.accesskey "Д">
+<!ENTITY contextForwardAsMenu.label "Накіраваць як">
+<!ENTITY contextForwardAsMenu.accesskey "я">
+<!ENTITY contextForwardAsInline.label "Усярэдзіне">
+<!ENTITY contextForwardAsInline.accesskey "у">
+<!ENTITY contextForwardAsAttachmentItem.label "Далучэнне">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "Д">
+<!ENTITY contextMultiForwardAsAttachment.label "Накіраваць як далучэнні">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "л">
 <!ENTITY contextMoveMsgMenu.label "Перамясціць у">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Апошняя">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "А">
 <!ENTITY contextCopyMsgMenu.label "Капіяваць у">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
+<!ENTITY contextKillThreadMenu.label "Ігнараваць нізку">
+<!ENTITY contextKillThreadMenu.accesskey "І">
+<!ENTITY contextKillSubthreadMenu.label "Ігнараваць паднізку">
+<!ENTITY contextWatchThreadMenu.label "Сачыць за нізкай">
 <!ENTITY contextSaveAs.label "Захаваць як…">
 <!ENTITY contextSaveAs.accesskey "Я">
 <!ENTITY contextPrint.label "Друкаваць…">
