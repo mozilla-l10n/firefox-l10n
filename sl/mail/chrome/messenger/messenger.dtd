@@ -28,16 +28,16 @@
 <!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Odpri nov poštni račun …">
 <!ENTITY newCreateEmailAccountCmd.accesskey "R">
-<!ENTITY newExistingEmailAccountCmd.label "Obstoječ poštni račun…">
+<!ENTITY newExistingEmailAccountCmd.label "Obstoječ poštni račun …">
 <!ENTITY newExistingEmailAccountCmd.accesskey "O">
-<!ENTITY newIMAccountCmd.label "Račun za klepet…">
+<!ENTITY newIMAccountCmd.label "Račun za klepet …">
 <!ENTITY newIMAccountCmd.accesskey "č">
+<!ENTITY newFeedAccountCmd.label "Račun za vir …">
+<!ENTITY newFeedAccountCmd.accesskey "r">
 <!ENTITY newIMContactCmd.label "Stik za klepet…">
 <!ENTITY newIMContactCmd.accesskey "i">
 <!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Priponke">
-<!ENTITY openAttachmentCmd.accesskey "K">
 <!ENTITY saveAsMenu.label "Shrani kot">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Datoteko">
@@ -428,6 +428,8 @@
 <!ENTITY openConversationCmd.label "odpri kot pogovor">
 <!ENTITY openConversationCmd.accesskey "g">
 <!ENTITY openConversationCmd.key "g">
+<!ENTITY openAttachmentListCmd.label "Priponke">
+<!ENTITY openAttachmentListCmd.accesskey "k">
 <!ENTITY openFeedMessage1.label "Pri odpiranju sporočil vira">
 <!ENTITY openFeedMessage1.accesskey "r">
 <!ENTITY openFeedWebPage.label "Odpri kot spletno stran">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "N">
+<!ENTITY allowRemoteDebugging.label "Dovoli oddaljeno razhroščevanje">
+<!ENTITY allowRemoteDebugging.accesskey "O">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Prejmi pošto">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "odgovori pošiljatelju in vsem prejemnikom">
 <!ENTITY replyListButton.tooltip "Odgovori poštnemu seznamu">
 <!ENTITY forwardButton.tooltip "Posreduj izbrano sporočilo">
+<!ENTITY forwardAsInline.tooltip "Posreduj izbrano sporočilo medvrstično">
+<!ENTITY forwardAsAttachment.tooltip "Posreduj izbrano sporočilo kot priponko">
 <!ENTITY fileButton.tooltip "Shrani izbrano sporočilo">
 <!ENTITY archiveButton.tooltip "Arhiviraj izbrana sporočila">
 <!ENTITY nextButton.tooltip "Pojdi na naslednje neprebrano sporočilo">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
 <!ENTITY appmenuButton1.tooltip "Prikaže meni programa &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Posreduj medvrstično">
+<!ENTITY buttonMenuForwardAsAttachment.label "Posreduj kot prilogo">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prejmi sporočila">
 <!ENTITY folderContextGetMessages.accesskey "P">
-<!ENTITY folderContextOpenNewWindow.label "Odpri">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Odpri v novem oknu">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
 <!ENTITY folderContextOpenNewTab.accesskey "N">
 <!ENTITY folderContextNew.label "Nova podmapa …">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "m">
 <!ENTITY contextForward.label "Posreduj">
 <!ENTITY contextForward.accesskey "d">
-<!ENTITY contextForwardAsAttachment.label "Posreduj kot priponke">
-<!ENTITY contextForwardAsAttachment.accesskey "p">
+<!ENTITY contextForwardAsMenu.label "Posreduj kot">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Medvrstično">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Priponko">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Posreduj kot priponke">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "e">
 <!ENTITY contextMoveMsgMenu.label "Prestavi v">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "e">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "v">
+<!ENTITY contextKillThreadMenu.label "Prezri nit">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
+<!ENTITY contextWatchThreadMenu.label "Spremljaj nit">
 <!ENTITY contextSaveAs.label "Shrani kot …">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Natisni …">
