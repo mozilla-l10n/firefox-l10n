@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "إعداد &brandShortName;">
-<!ENTITY  splash_bookmarks_history "نقوم بتحديث علاماتك وتأريخ التصفح، وقد يستغرق هذا قريبا من دقيقة.">
-
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
 
@@ -67,20 +64,24 @@
 
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
-<!ENTITY pref_category_general "عام">
-<!ENTITY pref_category_privacy "الخصوصية و السرية">
-<!ENTITY pref_category_content "المحتوى">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+
+
+
+
+
+
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
-<!ENTITY pref_about_firefox "عن &brandShortName;">
+
+
+
+
 <!ENTITY pref_remember_signons "تذكّر كلمات السر">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "عام">
-<!ENTITY pref_header_privacy "الخصوصية و السرية">
-<!ENTITY pref_header_content "المحتوى">
+
+
+
+
 
 <!ENTITY pref_cookies_menu "الكعكات">
 <!ENTITY pref_cookies_accept_all "مفعّلة">
@@ -101,7 +102,11 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-<!ENTITY pref_reflow_on_zoom3 "انقر مرتين لإعادة انسياب النص">
+
+
+
+
+
 <!ENTITY pref_font_size_tiny "ضئيل">
 <!ENTITY pref_font_size_small "صغير">
 <!ENTITY pref_font_size_medium "متوسط">
@@ -132,6 +137,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
 <!ENTITY pref_private_data_downloadFiles "الملفّات المُنزّلة">
+
+
+<!ENTITY pref_about_firefox "عن &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "أخبرنا بتعليقاتك">
 
 <!ENTITY datareporting_notification_title "بيانات و إحصائيات &brandShortName;">
 <!ENTITY datareporting_notification_action_long "اختر أي المعلومات تشارِك">
@@ -180,12 +190,11 @@ size. -->
 <!ENTITY new_tab "لسان جديد">
 <!ENTITY new_private_tab "لسان خاص جديد">
 <!ENTITY close_all_tabs "اغلق كل الألسنة">
-<!ENTITY tabs_normal "الألسنة">
+
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
-<!ENTITY wallpaper_success "حُدّثت الخلفية">
-<!ENTITY wallpaper_progress "تحديد الخلفية">
-<!ENTITY wallpaper_fail "تعذّر تحديد الخلفية">
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +240,8 @@ size. -->
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!ENTITY reading_list_failed "فشلت إضافة الصفحة إلى قائمة القراءة">
 <!ENTITY reading_list_duplicate "الصفحة موجودة في قائمة القراءة">
-<!ENTITY reader "القارئ">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
 <!ENTITY masterpassword_remove_title "أزِل كلمة السر الرئيسية">
@@ -315,6 +325,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "تطبيق">
 
 <!ENTITY searchable_description "العلامات والتأريخ">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
@@ -327,3 +338,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_apply_select2 "المس للتحديث">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "استمر">
+
+
+
+
+
