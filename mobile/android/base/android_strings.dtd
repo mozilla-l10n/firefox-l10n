@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "កំពុង​រៀបចំ &brandShortName;">
-<!ENTITY  splash_bookmarks_history "យើង​កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ និង​ប្រវត្តិ​របស់​អ្នក វា​អាច​ចំណាយ​ពេល​បន្តិចបន្តួច ។">
-
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ ។">
 <!ENTITY  error_loading_file "មាន​កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​បាន​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
-<!ENTITY pref_category_general "ទូទៅ">
-<!ENTITY pref_category_privacy "ភាព​ឯកជន &amp; សុវត្ថិភាព">
-<!ENTITY pref_category_content "មាតិកា">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
+<!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
+<!ENTITY pref_category_search2 "ការ​កំណត់​ការ​ស្វែងរក">
+<!ENTITY pref_category_display "បង្ហាញ">
+<!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
-<!ENTITY pref_about_firefox "អំពី &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "ម៉ាស៊ីន​ស្វែងរក​ដែល​បាន​ដំឡើង">
+<!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
+<!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
+<!ENTITY pref_developer_remotedebugging_docs "ស្វែងយល់​បន្ថែម">
 <!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "ទូទៅ">
-<!ENTITY pref_header_privacy "ភាព​ឯកជន &amp; សុវត្ថិភាព">
-<!ENTITY pref_header_content "មាតិកា">
+<!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
+<!ENTITY pref_header_display "បង្ហាញ">
+<!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
+<!ENTITY pref_header_help "ជំនួយ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 
 <!ENTITY pref_cookies_menu "​ខូគី">
 <!ENTITY pref_cookies_accept_all "បាន​បើក">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
 <!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
-<!ENTITY pref_reflow_on_zoom3 "គោះ​ទ្វេដង​ដើម្បី​បង្ហូរ​អត្ថបទ​ត្រឡប់">
+<!ENTITY pref_reflow_on_zoom4 "លំហូរ​អត្ថបទ​ត្រឡប់">
+<!ENTITY pref_restore "ផ្ទាំង">
+<!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
+<!ENTITY pref_restore_crash "ស្ដារ​បន្ទាប់ពី​គាំង">
+<!ENTITY pref_restore_never "កុំ​ស្ដារ">
 <!ENTITY pref_font_size_tiny "តូច">
 <!ENTITY pref_font_size_small "តូច">
 <!ENTITY pref_font_size_medium "មធ្យម">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់​បណ្ដាញ">
 <!ENTITY pref_private_data_downloadFiles "ទាញ​យក​ឯកសារ">
+
+
+<!ENTITY pref_about_firefox "អំពី &brandShortName;">
+<!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
+<!ENTITY pref_vendor_feedback "ផ្ដល់​មតិ​អ្នកប្រើ">
 
 <!ENTITY datareporting_notification_title "ទិន្នន័យ &brandShortName; stats &amp;">
 <!ENTITY datareporting_notification_action_long "ជ្រើស​ព័ត៌មាន​ណា​ដែល​ត្រូវ​ចែករំលែក">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "ផ្ទាំង">
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY tabs_synced "បាន​ធ្វើ​សមកាលកម្ម">
-<!ENTITY wallpaper_success "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ផ្ទាំង​រូបភាព">
-<!ENTITY wallpaper_progress "កំណត់​ផ្ទាំង​រូបភាព">
-<!ENTITY wallpaper_fail "មិន​អាច​កំណត់​ផ្ទាំង​រូបភាព">
+<!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
+<!ENTITY set_image_chooser_title "កំណត់​រូបភាព​ជា">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_failed "បាន​បរាជ័យ​ក្នុង​ការ​បន្ថែម​ទំព័រ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
-<!ENTITY reader "កម្មវិធី​អាន">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "សកម្មភាព​បន្ថែម">
 
 <!ENTITY masterpassword_create_title "បង្កើតពាក្យ​សម្ងាត់​មេ">
 <!ENTITY masterpassword_remove_title "យក​ពាក្យ​សម្ងាត់​មេ​ចេញ">
@@ -317,6 +331,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webapp_generic_name "កម្មវិធី">
 
 <!ENTITY searchable_description "ចំណាំ និង​ប្រវត្តិ">
+
+<!ENTITY devtools_remote_debugging_forward "កុំ​ភ្លេង​កំណត់​ច្រក​បញ្ជូន​បន្ត!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
@@ -329,3 +345,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
 <!ENTITY updater_apply_select2 "ប៉ះ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">
+<!ENTITY exit_guest_session "ចេញពី​សម័យ​ភ្ញៀវ">
+<!ENTITY guest_session_dialog_continue "បន្ត">
+<!ENTITY guest_session_dialog_cancel "បោះបង់">
+<!ENTITY new_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
+<!ENTITY new_guest_session_text "មនុស្ស​ដែល​ប្រើ​វា នឹង​មិន​អាច​មើល​ឃើញ​ការ​រុករក​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក (ដូចជា​ពាក្យសម្ងាត់, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក) បាន​ទេ។\n\nពេល​អ្នក​បាន​បញ្ចប់​សម័យ​ភ្ញៀវ, ទិន្នន័យ​ការ​រុករក​របស់​ពួកគេ​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​នឹង​ត្រូវ​ស្ដារ។">
+
+<!ENTITY exit_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
+<!ENTITY exit_guest_session_text "ទិន្នន័យ​ការ​រុករក​របស់​សម័យ​នេះ​នឹង​ត្រូ​បាន​លុប។">
