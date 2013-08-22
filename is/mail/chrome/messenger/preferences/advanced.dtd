@@ -105,8 +105,6 @@
 <!ENTITY certs.ask.accesskey "a">
 <!ENTITY viewCertificates.label "Skoða skilríki">
 <!ENTITY viewCertificates.accesskey "k">
-<!ENTITY viewCRLs.label "Afturköllunarlisti">
-<!ENTITY viewCRLs.accesskey "r">
 <!ENTITY validation.label "Sannprófun">
 <!ENTITY validation.accesskey "S">
 <!ENTITY viewSecurityDevices.label "Öryggistæki">

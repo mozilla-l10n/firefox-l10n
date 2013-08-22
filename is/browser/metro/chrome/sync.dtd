@@ -2,36 +2,49 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!-- flyout header -->
-<!ENTITY syncHeader.title "Samkeyra">
-<!-- not connected yet -->
-<!ENTITY sync.setup.description "Fá aðgang að bókamerkjum, lykilorðum, og opnum flipum frá öllum þínum tækjum">
-<!ENTITY sync.setupbutton.label "Setja upp Sync">
-<!-- sync now button -->
-<!ENTITY sync.syncNow2 "Samstilla núna">
-<!-- device name text edit -->
-<!ENTITY sync.deviceName "Þetta tæki">
-<!-- remove this device button -->
-<!ENTITY sync.removebutton.label "Fjarlægja þetta tæki">
-<!ENTITY sync.removewarn.note "Vafragögn á þessu tæki verða óhreyfð, en þú mun ekki lengur geta samstillt gögn með þessum reikningi.">
-<!ENTITY sync.removethrobber.label "Fjarlægja tæki">
-<!ENTITY sync.setup2.title "Setja upp Sync">
-<!ENTITY sync.setup.pair2 "Til að virkja, veldu &#x0022;Para saman tæki&#x0022; á hinu tækinu.">
-<!ENTITY sync.fallback "Ég er ekki nálægt tölvunni…">
-<!ENTITY sync.setup.manual "Sláðu inn upplýsingar um Sync reikninginn þinn">
-<!ENTITY sync.account "Heiti reiknings">
-<!ENTITY sync.password "Lykilorð">
-<!ENTITY sync.recoveryKey "Endurheimtunarlykill">
-<!ENTITY sync.customServer "Nota sérsniðinn netþjón">
-<!ENTITY sync.serverURL "Slóð þjóns">
-<!ENTITY sync.setup.connect2 "Bæta við tæki">
-<!ENTITY sync.setup.cancel "Hætta við">
-<!ENTITY sync.setup.remove "Fjarlægja">
-<!ENTITY sync.setup.tutorial "Sýndu mér hvernig">
-<!ENTITY sync.setup.waiting2 "Bíð eftir tæki…">
-<!ENTITY sync.pair.title "Para saman tæki">
-<!ENTITY sync.pair.button "Para saman tæki">
-<!ENTITY sync.pair.description "Til að virkja nýja tækið þitt, veldu &#x0022;Setja upp Sync&#x0022; á tækinu.">
-<!ENTITY sync.setup.close "Loka">
-<!ENTITY sync.setup.waitingdownload "Verið er að niðurhala gögnunum í bakgrunni. Þú getur lokað þessum glugga hvenær sem er.">
+<!-- Flyout -->
+<!ENTITY sync.flyout.title "&syncBrand.shortName.label;">
+<!-- Flyout when not connected -->
+<!ENTITY sync.flyout.presetup.description1 "Fá aðgang að bókamerkjum, lykilorðum, og opnum flipum á öllum þínum tækjum">
+<!ENTITY sync.flyout.presetup.setup.label "Setja upp &syncBrand.shortName.label;">
+<!-- Flyout when setting up sync -->
+<!ENTITY sync.flyout.setup.title "Setja upp &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.setup.description1 "Ef þú ert með &syncBrand.shortName.label; reikning, veldu &quot;Para tæki&quot; á hinu tækinu og sláðu inn þennan kóða.">
+<!ENTITY sync.flyout.setup.description2 "Ef þú ert ekki með &syncBrand.shortName.label; reikning, geturðu búið til reikning í &brandShortName; vafra.">
+<!ENTITY sync.flyout.setup.manual.label "Ég er ekki nálægt tölvunni minni...">
+<!ENTITY sync.flyout.setup.description3 "Athugasemd:">
+<!ENTITY sync.flyout.setup.description4 "Þú getur valið &quot;Para tæki&quot; með">
+<!ENTITY sync.flyout.setup.description5 "[Tölva] Stillingar -&gt; Sync">
+<!ENTITY sync.flyout.setup.description6 "[Android] Fleiri &gt; Stillingar &gt; Sync">
+<!-- Flyout when setting up manually -->
+<!ENTITY sync.flyout.manualsetup.description1 "Sláðu inn &syncBrand.shortName.label; reikningsupplýsingar og endurheimtu lykilinn sem var búinn af tölvunni þinni">
+<!ENTITY sync.flyout.manualsetup.account.placeholder "Heiti reiknings">
+<!ENTITY sync.flyout.manualsetup.password.placeholder "Lykilorð">
+<!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Endurheimtunarlykill">
+<!ENTITY sync.flyout.manualsetup.connect.label "Tengjast">
+<!-- Flyout when user has just connected -->
+<!ENTITY sync.flyout.setupsuccess.description1 "Það tókst að tengja &brandShortName; við &syncBrand.shortName.label; reikning">
+<!ENTITY sync.flyout.setupsuccess.description2 "Verið er að ná í &syncBrand.shortName.label; gögn í bakgrunni. Samstilltir flipar er hægt að nálgast á &brandShortName; ræsisíðu">
+<!-- Flyout when setup failed -->
+<!ENTITY sync.flyout.setupfailure.description "&brandShortName; tókst ekki að tengjast við &syncBrand.shortName.label; reikning.">
+<!ENTITY sync.flyout.setupfailure.cancelButton "Hætta við">
+<!ENTITY sync.flyout.setupfailure.tryAgainButton "Reyna aftur">
+<!-- Flyout when connected and functioning normally -->
+<!ENTITY sync.flyout.connected.account "Reikningur:">
+<!ENTITY sync.flyout.connected.device "Þitt tæki:">
+<!ENTITY sync.flyout.connected.disconnect "Aftengja">
+<!ENTITY sync.flyout.connected.disconnectWarningHeader "Aftengja tæki við &syncBrand.shortName.label;?">
+<!ENTITY sync.flyout.connected.disconnectWarning "Öll persónuleg gögn á þessu tæki og &syncBrand.shortName.label; reikningnum verða óhreyfð.">
+<!ENTITY sync.flyout.connected.cancel "Hætta við">
+<!ENTITY sync.flyout.connected.pair "Para saman tæki">
+<!-- Flyout when pairing a device -->
+<!ENTITY sync.flyout.pairNewDevice.description "Á nýja tækinu sem þú vilt para við, &quot;Setja upp &syncBrand.shortName.label;&quot; og sláðu inn kóðann sem tækið gefur">
+<!ENTITY sync.flyout.pairNewDevice.pair "Par">
+<!ENTITY sync.flyout.pairNewDevice.note1 "Athugasemd:">
+<!ENTITY sync.flyout.pairNewDevice.note2 "Þú getur farið í &syncBrand.shortName.label; til að finna kóða á">
+<!ENTITY sync.flyout.pairNewDevice.note3 "[Tölva] Verkfæri -&gt; Setja upp Sync -&gt; Ég er með reikning">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Fleiri &gt; Stillingar &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.failure "Vinsamlegast reyndu aftur">
+<!-- Flyout when a device has been successfully paired -->
+<!ENTITY sync.flyout.pairSuccess.description1 "Tókst að bæta við nýju tæki.">
+<!ENTITY sync.flyout.pairSuccess.description2 "Verið er að ná í &syncBrand.shortName.label; gögn í bakgrunni. Fjarlægir flipar er hægt að nálgast á &brandShortName; ræsisíðu.">
