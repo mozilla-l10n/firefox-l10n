@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Pokaži potrdila">
 <!ENTITY viewCertificates.accesskey     "z">
-<!ENTITY viewCRLs.label                 "Preklicana potrdila">
-<!ENTITY viewCRLs.accesskey             "r">
 <!ENTITY validation.label               "Preverjanje">
 <!ENTITY validation.accesskey           "P">
 <!ENTITY viewSecurityDevices.label      "Varnostne naprave">
