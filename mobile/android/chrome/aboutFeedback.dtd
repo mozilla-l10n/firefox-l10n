@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Nach innis thu dhuinn dè do bheachd air &brandShortName; airson Android gu ruige seo?">
 <!ENTITY intro.happyLink           "Tha e glan taghta">
 <!ENTITY intro.sadLink             "Thachair mi ri dhuilgheadas no dhà">
+<!ENTITY intro.maybeLater          "Uaireigin eile 's dòcha">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Ma tha duilgheadas agad le &brandShortName; no cobhair a dhìth, tadhail air ">
+<!ENTITY support.pre2              "'S urrainn dhut air na leanas cuideachd ">
 <!ENTITY support.link              "Taic le &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " airson barrachd fiosrachaidh.">
 
 <!ENTITY happy.header              "Tha sinn fìor thoilichte sin a chluinntinn!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Cha doir e ach mionaid agus bidh sinn fada 'nad chomain.">
 
 <!ENTITY happy.ratingLink          "Nì mi sin, a-null a Google Play leam">
-<!ENTITY happy.maybeLater          "Uaireigin eile 's dòcha">
+<!ENTITY happy.maybeLater2         "Uaireigin eile 's dòcha">
 <!ENTITY happy.noThanks            "Chan eil mi airson sin a dhèanamh, mòran taing">
 
 <!ENTITY sad.message               "Tha sinn duilich gun robh duilgheadas agad le &brandShortName;. Nach innis thu dhuinn dè thachair ach an urrainn dhuinn a chur ceart?">

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "A\u0027 suidheachadh am &brandShortName; agad">
-<!ENTITY  splash_bookmarks_history "Tha sinn ag ùrachadh nan comharran-lìn agad agus faodaidh gum feum sinn mionaid no dhà.">
-
 <!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
 <!ENTITY  error_loading_file "Thachair mearachd fhad \u0027s a dh\u0027fheuchar na faidhlichean a luchdadh a dh\u0027fheumas &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
-<!ENTITY pref_category_general "Coitcheann">
-<!ENTITY pref_category_privacy "Prìobhaideachd ⁊ Tèarainteachd">
-<!ENTITY pref_category_content "Susbaint">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Adhartach">
+<!ENTITY pref_category_customize "Gnàthaich">
+<!ENTITY pref_category_search2 "Roghainnean luirg">
+<!ENTITY pref_category_display "Taisbeanadh">
+<!ENTITY pref_category_privacy_short "Prìobhaideachd">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
-<!ENTITY pref_about_firefox "Mu &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
+<!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
+<!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
+<!ENTITY pref_developer_remotedebugging_docs "Barrachd fiosrachaidh">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Coitcheann">
-<!ENTITY pref_header_privacy "Prìobhaideachd ⁊ Tèarainteachd">
-<!ENTITY pref_header_content "Susbaint">
+<!ENTITY pref_header_customize "Gnàthaich">
+<!ENTITY pref_header_display "Taisbeanadh">
+<!ENTITY pref_header_privacy_short "Prìobhaideachd">
+<!ENTITY pref_header_help "Cobhair">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Innealan an luchd-leasachaidh">
 
 <!ENTITY pref_cookies_menu "Briosgaidean">
 <!ENTITY pref_cookies_accept_all "An comas">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
-<!ENTITY pref_reflow_on_zoom3 "Dèan gnogag dhùbailte gus an teacsa ath-shruthadh">
+<!ENTITY pref_reflow_on_zoom4 "Ath-shruthadh an teacsa">
+<!ENTITY pref_restore "Tabaichean">
+<!ENTITY pref_restore_always "Aisig an-còmhnaidh">
+<!ENTITY pref_restore_crash "Aisig an dèidh tuislidh">
+<!ENTITY pref_restore_never "Na aisig idir">
 <!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings2 "Roghainnean na làraich">
 <!ENTITY pref_private_data_downloadFiles "Faidhlichean a chaidh a luchdadh a-nuas">
+
+
+<!ENTITY pref_about_firefox "Mu &brandShortName;">
+<!ENTITY pref_vendor_faqs "CÀBHA">
+<!ENTITY pref_vendor_feedback "Dè do bheachd?">
 
 <!ENTITY datareporting_notification_title "Stats ⁊ dàta &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Cuir romhad dè am fiosrachadh a thèid a cho-roinneadh">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Tabaichean">
 <!ENTITY tabs_private "Prìobhaideach">
 <!ENTITY tabs_synced "Sioncronaichte">
-<!ENTITY wallpaper_success "Chaidh am pàipear-balla ùrachadh">
-<!ENTITY wallpaper_progress "A\u0027 suidheachadh a\u0027 phàipeir-bhalla">
-<!ENTITY wallpaper_fail "Cha ghabh am pàipear-balla a shuidheachadh">
+<!ENTITY set_image_fail "Cha ghabh an dealbh seo a shuidheachadh">
+<!ENTITY set_image_chooser_title "Suidhich an dealbh mar">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Chaidh an duilleag a thoirt air falbh on liosta leughaidh agad">
 <!ENTITY reading_list_failed "Cha b\u0027 urrainn dhuinn an duilleag a chur ris an liosta leughadh agad">
 <!ENTITY reading_list_duplicate "Tha an duilleag air an liosta leughaidh agad mu thràth">
-<!ENTITY reader "An leughadair">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Gnìomhan a bharrachd">
 
 <!ENTITY masterpassword_create_title "Cruthaich prìomh fhacal-faire">
 <!ENTITY masterpassword_remove_title "Thoir air falbh am prìomh fhacal-faire">
@@ -317,6 +331,8 @@ o Android">
 <!ENTITY webapp_generic_name "Aplacaid">
 
 <!ENTITY searchable_description "Comharran-lìn is an eachdraidh">
+
+<!ENTITY devtools_remote_debugging_forward "Na dìochuimhnich suidheachadh sìneadh air adhart nam port!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
@@ -329,3 +345,14 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Tha ùrachadh ri fhaighinn airson &brandShortName;">
 <!ENTITY updater_apply_select2 "Suath ris gus ùrachadh">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Seisean aoigheachd ùr">
+<!ENTITY exit_guest_session "Fàg an seisean aoigheachd">
+<!ENTITY guest_session_dialog_continue "Lean air adhart">
+<!ENTITY guest_session_dialog_cancel "Sguir dheth">
+<!ENTITY new_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
+<!ENTITY new_guest_session_text "Chan fhaic an neach a chleachdas e gin dhen dàta bhrabhsaidh phearsanta agad (mar fhaclan-faire, an eachdraidh no na comharran-lìn).\n\nNuair a bhios d\u0027 aoigh deiseil, thèid an dàta brabhsaidh aca a sguabadh às agus thèid an seisean agadsa aiseag.">
+
+<!ENTITY exit_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
+<!ENTITY exit_guest_session_text "Thèid dàta brabhsadh an t-seisein seo a sguabadh às.">
