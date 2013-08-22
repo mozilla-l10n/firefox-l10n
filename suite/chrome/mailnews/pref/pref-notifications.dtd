@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Vis et varsel for">
 <!ENTITY showAlertFor.accesskey           "V">
 <!ENTITY showAlertTimeEnd.label           "sekunder">
-<!ENTITY showAlertTimeEnd.accesskey       "s">
 
 <!ENTITY showAlertPreviewText.label       "Vis en forhåndsvisning av meldingsteksten">
 <!ENTITY showAlertPreviewText.accesskey   "f">
