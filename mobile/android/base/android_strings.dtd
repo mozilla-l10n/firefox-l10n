@@ -213,7 +213,7 @@
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
 <!ENTITY home_most_visited_title "Più visitati">
 <!ENTITY home_reading_list_empty "In questa sezione verranno visualizzati gli articoli da leggere.">
-<!ENTITY home_reading_list_hint "Consiglio: è possibile salvare articoli in questo elenco premendo a lungo l’icona &#037;I che appare nella barra del titolo.">
+<!ENTITY home_reading_list_hint "Suggerimento: è possibile salvare articoli in questo elenco premendo a lungo l’icona &#037;I che appare nella barra del titolo.">
 <!ENTITY home_most_visited_empty "In questa sezione verranno visualizzati i siti web più visitati.">
 <!ENTITY pin_bookmark_dialog_hint "Inserire una chiave di ricerca">
 <!ENTITY filepicker_title "Seleziona un file">
