@@ -681,3 +681,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "De meeste websites zullen juist blijven werken zelfs als deze inhoud is geblokkeerd.">
 
 <!ENTITY pointerLock.notification.message "Druk op ESC om het nogmaals te tonen.">
+
+<!ENTITY pluginNotification.showAll.label "Toon alles">
+<!ENTITY pluginNotification.showAll.accesskey "T">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Nu toestaan">
+<!ENTITY pluginActivateAlways.label "Toestaan en onthouden">
+<!ENTITY pluginBlockNow.label "Plug-in blokkeren">
