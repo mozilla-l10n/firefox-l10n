@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Rhannwch eich barn am &brandShortName; ar gyfer Android hyd yma.">
 <!ENTITY intro.happyLink           "Mae'n wych">
 <!ENTITY intro.sadLink             "Rwyf wedi cael rhai problemau">
+<!ENTITY intro.maybeLater          "Rhywbryd eto efallai">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Os oes angen cymorth arnoch neu mae gennych anhawster gyda &brandShortName;, ewch i ">
+<!ENTITY support.pre2              "Gallwch fynd i ">
 <!ENTITY support.link              "Cefnogaeth &brandShortName;">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " am ragor o wybodaeth.">
 
 <!ENTITY happy.header              "Mae hynny'n dda ei glywed!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Mae'n cymryd llai na munud ac mae'n teimlo'n dda.">
 
 <!ENTITY happy.ratingLink          "Iawn, mynd i Google Play">
-<!ENTITY happy.maybeLater          "Rhywbryd Eto Efallai">
+<!ENTITY happy.maybeLater2         "Rhywbryd eto efallai">
 <!ENTITY happy.noThanks            "Dim diolch">
 
 <!ENTITY sad.message               "Mae'n ddrwg gennym glywed eich bod wedi cael anawsterau gyda &brandShortName;. Dywedwch wrthym beth ddigwyddodd fel bod modd i ni ei gywiro.">
