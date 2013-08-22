@@ -10,7 +10,7 @@
 <!ENTITY clearTimeDuration.label          "Časovni obseg brisanja: ">
 <!ENTITY clearTimeDuration.accesskey      "O">
 <!ENTITY clearTimeDuration.lastHour       "Zadnja ura">
-<!ENTITY clearTimeDuratifon.last2Hours     "Zadnji dve uri">
+<!ENTITY clearTimeDuration.last2Hours     "Zadnji dve uri">
 <!ENTITY clearTimeDuration.last4Hours     "Zadnje štiri ure">
 <!ENTITY clearTimeDuration.today          "Danes">
 <!ENTITY clearTimeDuration.everything     "Vse">
