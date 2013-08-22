@@ -217,8 +217,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_open_private_tab "Öppna i privat flik">
 <!ENTITY contextmenu_open_in_reader "Öppna i läsaren">
-<!ENTITY contextmenu_remove_history "Ta bort">
-<!ENTITY contextmenu_remove_bookmark "Ta bort">
+<!ENTITY contextmenu_remove "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
 <!ENTITY contextmenu_share "Dela">
 <!ENTITY contextmenu_pasteandgo "Klistra in och öppna">
