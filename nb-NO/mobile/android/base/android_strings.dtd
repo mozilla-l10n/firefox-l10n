@@ -20,7 +20,7 @@
 <!ENTITY  crash_include_url2 "Inkluder adressen til nettstedet problemet oppstod på">
 <!ENTITY  crash_sorry "Vi beklager">
 <!ENTITY  crash_comment "Legg til en kommentar (kommentarer er offentlig synlige)">
-<!ENTITY  crash_allow_contact "Tillat Mozilla å kontakte meg om denne rapporten">
+<!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakte meg om denne rapporten">
 <!ENTITY  crash_email "Din e-postadresse">
 <!ENTITY  crash_closing_alert "Avslutt uten å sende krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
@@ -101,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å starte">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom2 "Klyp oppdaterer tekstflyt">
+<!ENTITY pref_reflow_on_zoom3 "Dobbelttrykk for å oppdatere tekstflyt">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
