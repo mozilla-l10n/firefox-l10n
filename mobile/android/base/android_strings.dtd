@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Alla sidor">
-<!ENTITY  awesomebar_bookmarks_title "Bokmärken">
-<!ENTITY  awesomebar_history_title "Historik">
-<!ENTITY  awesomebar_switch_to_tab "Byt till flik">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Bokmärken">
+<!ENTITY  history_title "Historik">
+<!ENTITY  reading_list_title "Läslistan">
+
+<!ENTITY  switch_to_tab "Byt till flik">
 
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
 <!ENTITY  crash_message2 "&brandShortName; hade ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
@@ -30,10 +33,7 @@
 
 <!ENTITY choose_file "Välj fil">
 
-<!ENTITY awesomebar_default_text "Ange sökord eller adress">
-
-<!ENTITY remote_tabs "Synkade flikar">
-<!ENTITY remote_tabs_show_all "Visa alla flikar">
+<!ENTITY url_bar_default_text "Ange sökord eller adress">
 
 <!ENTITY bookmark "Bokmärke">
 <!ENTITY bookmark_added "Bokmärkt">
