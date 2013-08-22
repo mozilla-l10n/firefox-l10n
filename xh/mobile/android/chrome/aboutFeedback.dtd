@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Sixelele okucingayo nge-&brandShortName; kwi-Android ukuza kuthi ga ngoku.">
 <!ENTITY intro.happyLink           "Ndiyayithanda">
 <!ENTITY intro.sadLink             "Ndigaxeleke kwiingxaki">
+<!ENTITY intro.maybeLater          "Mhlawumbi kamva">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Ukuba ufuna uncedo okanye unengxaki nge-&brandShortName;, nceda utyelele ">
+<!ENTITY support.pre2              "Kwakhona ungatyelela ">
 <!ENTITY support.link              "i-brandShortName; iNkxaso">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " ukuze ufumane inkcazelo engakumbi.">
 
 <!ENTITY happy.header              "Kuhle ukuva ngoko!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Uthatha ngaphantsi komzuzu kwaye uyaneliseka.">
 
 <!ENTITY happy.ratingLink          "Ewe, yiya kwi-Google Play">
-<!ENTITY happy.maybeLater          "Mhlawumbi ngelinye ixesha">
+<!ENTITY happy.maybeLater2         "Mhlawumbi kamva">
 <!ENTITY happy.noThanks            "Uxolo, enkosi">
 
 <!ENTITY sad.message               "Siyaxolisa ngokuba ube neengxaki nge-&brandShortName; Sixelele okwenzekileyo ukuze sibe nokukulungisa.">
