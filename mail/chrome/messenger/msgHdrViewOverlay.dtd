@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "za ">
-<!ENTITY fromField3.label "od ">
-<!ENTITY senderField3.label "pošiljatelj ">
-<!ENTITY organizationField3.label "organizacija ">
-<!ENTITY replyToField3.label "odgovor-za ">
+<!ENTITY toField4.label "za">
+<!ENTITY fromField4.label "od">
+<!ENTITY senderField4.label "pošiljatelj">
+<!ENTITY organizationField4.label "organizacija">
+<!ENTITY replyToField4.label "odgovor-za">
 
-<!ENTITY subjectField3.label "zadeva ">
-<!ENTITY ccField3.label "kp ">
-<!ENTITY bccField3.label "skp">
-<!ENTITY newsgroupsField3.label "novičarske skupine ">
-<!ENTITY followupToField3.label "nadaljnje delo-za ">
-<!ENTITY tagsHdr3.label "oznake ">
-<!ENTITY dateField3.label "datumu ">
-<!ENTITY userAgentField3.label "uporabnik-agent ">
-<!ENTITY referencesField3.label "sklici ">
-<!ENTITY messageIdField3.label "id sporočila ">
-<!ENTITY inReplyToField3.label "v-odgovoru-na- ">
-<!ENTITY originalWebsite3.label "spletna stran ">
+<!ENTITY subjectField4.label "zadeva">
+<!ENTITY ccField4.label "kp">
+<!ENTITY bccField4.label "skp">
+<!ENTITY newsgroupsField4.label "novičarske skupine">
+<!ENTITY followupToField4.label "nadaljnje delo-za">
+<!ENTITY tagsHdr4.label "oznake">
+<!ENTITY dateField4.label "datumu">
+<!ENTITY userAgentField4.label "uporabnik-agent">
+<!ENTITY referencesField4.label "sklici">
+<!ENTITY messageIdField4.label "id sporočila">
+<!ENTITY inReplyToField4.label "v odgovoru na">
+<!ENTITY originalWebsite4.label "spletna stran">
 
 <!ENTITY editMessageDescription.label "To je osnutek sporočila">
 <!ENTITY editMessageButton.label "Urejaj …">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "odgovori po poštnem seznamu">
 <!ENTITY hdrFollowupButton1.label "nadaljnje delo">
 <!ENTITY hdrFollowupButton1.tooltip "objavi nadaljnje delo v tej skupini">
+<!ENTITY hdrMenuForwardButton.label "posreduj kot">
 <!ENTITY hdrForwardButton1.label "posreduj">
 <!ENTITY hdrForwardButton1.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton1.label "neželeno">
