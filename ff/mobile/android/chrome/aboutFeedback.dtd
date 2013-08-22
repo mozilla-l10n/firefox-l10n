@@ -12,13 +12,12 @@
 <!ENTITY intro.message             "Haalan min ko miiji-ɗaa e &brandShortName; mo Android tawo.">
 <!ENTITY intro.happyLink           "Na waɗi faayiida">
 <!ENTITY intro.sadLink             "Won caɗeele keɓ-mi heen">
+
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-
-<!ENTITY support.pre               "So aɗa sokli ballal walla aɗa jogii caɗeele e &brandShortName;, tiiɗno yillo ">
 <!ENTITY support.link              "Wallitorde &brandShortName;">
-<!ENTITY support.post              ".">
+
 
 <!ENTITY happy.header              "Ɗuun ena weli nande!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +30,7 @@
 <!ENTITY happy.finePrint           "Ɓurataa hojom etee ena moƴƴi sanne.">
 
 <!ENTITY happy.ratingLink          "Yee, yah tp Google Play">
-<!ENTITY happy.maybeLater          "Haa goɗngol">
+
 <!ENTITY happy.noThanks            "Alaa, mi yaafiima">
 
 <!ENTITY sad.message               "Maa njaafo-ɗaa e caɗeele ɗe kɗɓ-ɗaa e &brandShortName; ɗee. Tiiɗno haalan min ko ɗe ngoni ngam min ñawnda-ɗe.">

@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Yuurno Kesɗitine »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Nana yiyloo kesɗitine…">
 <!ENTITY aboutPage.checkForUpdates.none         "Alaa kesɗitine ngoodi">
-<!ENTITY aboutPage.checkForUpdates.available    "Kesɗitinal ena woodi; dobo ngam aawtaade">
+<!ENTITY aboutPage.checkForUpdates.available2   "Aawto kesɗitinal">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Nana aawtoo kesɗitinal…">
-<!ENTITY aboutPage.checkForUpdates.downloaded   "Kesɗitinal aawtaama; dobo ngam aafde">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Aaf kesɗitinal">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Wallitorde">
 <!ENTITY aboutPage.privacyPolicy.label          "Dawirgol Suturo">

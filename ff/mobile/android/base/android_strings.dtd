@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Teelto &brandShortName; maa">
-<!ENTITY  splash_bookmarks_history "Min ngoni ko e hesɗitinde maantore e aslol maa, ena waawi ɓamde hojom walla ɓura.">
-
 <!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
 <!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
 
@@ -14,13 +11,13 @@
 <!ENTITY  awesomebar_history_title "Aslol">
 <!ENTITY  awesomebar_switch_to_tab "Yah to tabbere">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Jaŋtorde Kooke">
+<!ENTITY  crash_reporter_title "Jaŋtorde Kooke &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; hookii. Tabbe maa fof maa kollire e Jaɓɓorgo &brandShortName; tuma nde hurmitinaa.">
-<!ENTITY  crash_send_report_message2 "Jaŋtano Mozilla baɗte ndee hookre ngam ɓe mbaawa ñawndude nde">
+<!ENTITY  crash_send_report_message3 "Jaŋtano &vendorShortName; baɗte ndee hookre ngam ɓe mbaawa ñawndude nde">
 <!ENTITY  crash_include_url2 "Ɗisor heen hello ngo ngonnoo-mi ngoo">
 <!ENTITY  crash_sorry "Amin njaafnoo">
 <!ENTITY  crash_comment "Ɓeydu heen yowre (jowe ena njiyee e peñcu)">
-<!ENTITY  crash_allow_contact "Yamir Mozilla yoo jokkondir e am baɗte ngol jaŋtol">
+<!ENTITY  crash_allow_contact2 "Yamir &vendorShortName; yoo jokkondir e am baɗte ngol jaŋtol">
 <!ENTITY  crash_email "Iimeel maa">
 <!ENTITY  crash_closing_alert "Yaltu tawa a danndaani jaŋtol hookre?">
 <!ENTITY  sending_crash_report "Nana nelda jaŋtol hookre\u2026">
@@ -42,6 +39,7 @@
 <!ENTITY bookmark_added "Maantorol ɓeydaama">
 <!ENTITY bookmark_removed "Maantorol omtaama">
 <!ENTITY bookmark_updated "Maantorol hesɗitinaama">
+<!ENTITY bookmark_options "Cuɓe">
 
 <!ENTITY history_today_section "Hannde">
 <!ENTITY history_yesterday_section "Haŋki">
@@ -66,20 +64,26 @@
 
 <!ENTITY settings "Teelte">
 <!ENTITY settings_title "Teelte">
-<!ENTITY pref_category_general "Kuuɓal">
-<!ENTITY pref_category_privacy "Suturo &amp; Kisal">
-<!ENTITY pref_category_content "Loowdi">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Ceeɓore">
+<!ENTITY pref_category_customize "Heertin">
+<!ENTITY pref_category_search2 "Yiylo teelte">
+<!ENTITY pref_category_display "Jaytino">
+<!ENTITY pref_category_privacy_short "Suturo">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Cuɓe keɓe">
-<!ENTITY pref_about_firefox "Baɗte &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Jiylorɗe aafaaɗe">
+<!ENTITY pref_category_devtools "Kuutorɗe topaajo">
+<!ENTITY pref_developer_remotedebugging "Buggitagol goɗɗungol">
+<!ENTITY pref_developer_remotedebugging_docs "Ɓeydu humpito">
 <!ENTITY pref_remember_signons "Siiftor finndeeji">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Kuuɓal">
-<!ENTITY pref_header_privacy "Suturo &amp; Kisal">
-<!ENTITY pref_header_content "Loowdi">
+<!ENTITY pref_header_customize "Heertin">
+<!ENTITY pref_header_display "Jaytino">
+<!ENTITY pref_header_privacy_short "Suturo">
+<!ENTITY pref_header_help "Ballal">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Kuutorɗe topaajo">
 
 <!ENTITY pref_cookies_menu "Kukiije">
 <!ENTITY pref_cookies_accept_all "Daaƴtaaɗo">
@@ -100,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
 <!ENTITY pref_plugins_disabled "Daaƴaama">
 <!ENTITY pref_text_size "Ɓetol binndi">
-<!ENTITY pref_reflow_on_zoom2 "Ɓottu ngam waltinde binndi">
+
+
+
+
+
 <!ENTITY pref_font_size_tiny "Pamarum">
 <!ENTITY pref_font_size_small "Tokoosum">
 <!ENTITY pref_font_size_medium "Hakindiinde">
@@ -132,26 +140,35 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Teelte lowre">
 <!ENTITY pref_private_data_downloadFiles "Piille gaawtaaɗe">
 
+
+<!ENTITY pref_about_firefox "Baɗte &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Hokku duttinal">
+
 <!ENTITY datareporting_notification_title "&brandShortName; limlimte &amp; keɓe">
+<!ENTITY datareporting_notification_action_long "Suɓo humpito ngo lollintaa">
 <!ENTITY datareporting_notification_action "Suɓo ko lollintee">
 <!ENTITY datareporting_notification_summary "Ngam ƴellitde dawtol maa, &brandShortName; neldat won humpito e jaajol to &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ngam ƴellitde dawtol maa, &brandShortName;…">
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
+<!ENTITY datareporting_fhr_summary2 "Lollinat keɓe to &vendorShortName; baɗte cellal wanngorde maa tee ena walla faamde ñisgol wanngorde maa">
+<!ENTITY datareporting_abouthr_title "Yiyto Jaŋtol Cellal al">
 <!ENTITY datareporting_telemetry_title "Telemeetiri">
 <!ENTITY datareporting_telemetry_summary "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; naatnoytu jaŋte kooke ngam wallude &vendorShortName; ɓeydude yamɗinde e hisnude wanngorde maa">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "Jaŋtorde Kooke &brandShortName;">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
+<!ENTITY datareporting_wifi_title "Carwe nokkuure &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Wallu moƴƴitinde carwe tolnoode Web Udditiiɗo so woppude &brandShortName; roɓindoo tee nelda keɓe humpito seluleer cuuriiɗo">
 
 <!ENTITY pref_update_autodownload "Kesɗitine jaajol">
 <!ENTITY pref_update_autodownload_wifi "E Wifi tan">
@@ -175,12 +192,11 @@ size. -->
 <!ENTITY new_tab "Tabbere Hesere">
 <!ENTITY new_private_tab "Tabbere Suuriinde Hesere">
 <!ENTITY close_all_tabs "Uddu Tabbe Fofo">
-<!ENTITY tabs_normal "Tabbe">
+
 <!ENTITY tabs_private "Cuuriɗum">
 <!ENTITY tabs_synced "Synced">
-<!ENTITY wallpaper_success "Wutte ɓalal hesɗitinaama">
-<!ENTITY wallpaper_progress "Teeltagol wutte ɓalal">
-<!ENTITY wallpaper_fail "Horiima teeltaade wutte ɓalal">
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -226,7 +242,8 @@ size. -->
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
 <!ENTITY reading_list_failed "Horiima ɓeydude hello to Doggol Taro">
 <!ENTITY reading_list_duplicate "Hello ɓeydaanooma e Doggol Taro maa">
-<!ENTITY reader "Tarirde">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
 <!ENTITY masterpassword_remove_title "Momtu Finnde Baabaare">
@@ -283,6 +300,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "yuɓɓini ɗum ko">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY loaded_mixed_content_message "Ngoo hello ena jaytina loowdi ndi hisaani.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; faliima loowdi ndi hisaani.">
+<!ENTITY blocked_mixed_content_message_bottom "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">
+<!ENTITY learn_more "Ɓeydu Humpito">
+<!ENTITY enable_protection "Hurmin kisnugol">
+<!ENTITY disable_protection "Daaƴ kisnugol">
+<!ENTITY keep_blocking "Jokku falaade">
 
 <!ENTITY private_data_success "Keɓe curaaɗe momtaama">
 <!ENTITY private_data_fail "Won e keɓe cuuriiɗe ɗe keɓaani momteede">
@@ -303,6 +329,7 @@ iwde e Android">
 <!ENTITY webapp_generic_name "Jaaɓngal">
 
 <!ENTITY searchable_description "Maantore e aslol">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Kesɗitinal &brandShortName; ena woodi">
@@ -315,3 +342,11 @@ iwde e Android">
 
 <!ENTITY updater_apply_title2 "Kesɗitinal &brandShortName; ena woodi">
 <!ENTITY updater_apply_select2 "Mem ɗoo ngam hesɗitinde">
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Jokku">
+
+
+
+
+
