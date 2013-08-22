@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "O">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Prejmi pošto">
+<!ENTITY getMsgButton1.label "Prejmi sporočila">
 <!ENTITY newMsgButton.label "Sestavi">
 <!ENTITY replyButton.label "Odgovori">
 <!ENTITY replyAllButton.label "Odgovori vsem">
