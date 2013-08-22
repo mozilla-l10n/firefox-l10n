@@ -64,24 +64,26 @@
 
 <!ENTITY settings "Ayarlar">
 <!ENTITY settings_title "Ayarlar">
-
-
-
-
-
-
+<!ENTITY pref_category_advanced "Gelişmiş">
+<!ENTITY pref_category_customize "Özelleştir">
+<!ENTITY pref_category_search2 "Arama ayarları">
+<!ENTITY pref_category_display "Görünüm">
+<!ENTITY pref_category_privacy_short "Gizlilik">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
-
-
-
-
+<!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
+<!ENTITY pref_category_devtools "Geliştirici araçları">
+<!ENTITY pref_developer_remotedebugging "Uzak hata ayıklama">
+<!ENTITY pref_developer_remotedebugging_docs "Daha fazla bilgi">
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
+<!ENTITY pref_header_customize "Özelleştir">
+<!ENTITY pref_header_display "Görünüm">
+<!ENTITY pref_header_privacy_short "Gizlilik">
+<!ENTITY pref_header_help "Yardım">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Geliştirici araçları">
 
 <!ENTITY pref_cookies_menu "Çerezler">
 <!ENTITY pref_cookies_accept_all "Etkin">
@@ -102,11 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Oynatmak için dokunun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
-
-
-
-
-
+<!ENTITY pref_reflow_on_zoom4 "Metin akışı">
+<!ENTITY pref_restore "Sekmeler">
+<!ENTITY pref_restore_always "Her zaman geri yükle">
+<!ENTITY pref_restore_crash "Çökmeden sonra geri yükle">
+<!ENTITY pref_restore_never "Asla geri yükleme">
 <!ENTITY pref_font_size_tiny "Çok küçük">
 <!ENTITY pref_font_size_small "Küçük">
 <!ENTITY pref_font_size_medium "Orta">
@@ -140,7 +142,7 @@ size. -->
 
 
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
-
+<!ENTITY pref_vendor_faqs "SSS">
 <!ENTITY pref_vendor_feedback "Geri bildirim gönder">
 
 <!ENTITY datareporting_notification_title "&brandShortName; istatistikleri ve verileri">
@@ -190,11 +192,11 @@ size. -->
 <!ENTITY new_tab "Yeni sekme">
 <!ENTITY new_private_tab "Yeni gizli sekme">
 <!ENTITY close_all_tabs "Tüm sekmeleri kapat">
-
+<!ENTITY tabs_normal "Sekmeler">
 <!ENTITY tabs_private "Özel">
 <!ENTITY tabs_synced "Eşitlenen">
-
-
+<!ENTITY set_image_fail "Resim ayarlanamadı">
+<!ENTITY set_image_chooser_title "Resmi ayarla">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -242,6 +244,8 @@ size. -->
 <!ENTITY reading_list_duplicate "Sayfa zaten Okuma Listenizde">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Ek eylemler">
 
 <!ENTITY masterpassword_create_title "Ana parola oluştur">
 <!ENTITY masterpassword_remove_title "Ana parolayı kaldır">
@@ -325,6 +329,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Yer imleri ve geçmiş">
 
+<!ENTITY devtools_remote_debugging_forward "Port yönlendirmeyi ayarlamayı unutmayın!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName; için güncelleme mevcut">
@@ -339,9 +344,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Güncellemek için dokunun">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "Yeni ziyaretçi oturumu">
+<!ENTITY exit_guest_session "Ziyaretçi oturumundan çık">
 <!ENTITY guest_session_dialog_continue "Devam">
-
-
+<!ENTITY guest_session_dialog_cancel "İptal">
+<!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
 
 
 

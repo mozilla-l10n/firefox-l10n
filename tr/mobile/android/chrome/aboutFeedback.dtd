@@ -12,12 +12,14 @@
 <!ENTITY intro.message             "Şimdiye dek  Android için &brandShortName; hakkında ne düşündüğünüzü bize söyleyin.">
 <!ENTITY intro.happyLink           "Sevdim">
 <!ENTITY intro.sadLink             "Bazı sorunlarla karşılaştım">
-
+<!ENTITY intro.maybeLater          "Belki daha sonra">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.link              "&brandShortName; Desteği">
 
+<!ENTITY support.pre2              "Daha fazla bilgi için ">
+<!ENTITY support.link              "&brandShortName; Desteği'ni">
+<!ENTITY support.post2             " de ziyaret edebilirsiniz.">
 
 <!ENTITY happy.header              "Harika!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -30,7 +32,7 @@
 <!ENTITY happy.finePrint           "Bir dakikadan kısa sürecek ve kendinizi harika hissedeceksiniz.">
 
 <!ENTITY happy.ratingLink          "Evet, Google Play'e git">
-
+<!ENTITY happy.maybeLater2         "Belki daha sonra">
 <!ENTITY happy.noThanks            "Hayır, teşekkürler">
 
 <!ENTITY sad.message               "&brandShortName; ile ilgili sorunlar yaşamanıza üzüldük. Lütfen bize söyleyin ki düzeltebilelim.">
