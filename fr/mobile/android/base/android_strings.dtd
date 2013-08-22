@@ -196,7 +196,7 @@ size. -->
 <!ENTITY share_title "Partager à l\u0027aide de">
 <!ENTITY share_image_failed "Impossible de partager cette image">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
-<!ENTITY find_in_page "Rechercher dans la page">
+<!ENTITY find_in_page "Rechercher sur la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY tools "Outils">
 <!ENTITY new_tab "Nouvel onglet">
