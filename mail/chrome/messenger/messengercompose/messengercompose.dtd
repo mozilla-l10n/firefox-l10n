@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Išči in zamenjaj …">
 <!ENTITY findCmd.key "f">
 <!ENTITY findCmd.accesskey "I">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Ponovno poišči">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "p">

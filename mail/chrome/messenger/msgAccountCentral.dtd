@@ -9,16 +9,20 @@
 <!ENTITY newsSectionHdr.label         "Novičarske skupine"> 
 <!ENTITY subscribeNewsLink.label      "Naroči se na novičarske skupine"> 
 
+<!ENTITY feedsSectionHdr.label        "Viri">
+<!ENTITY subscribeFeeds.label         "Urejaj naročila">
+
+<!ENTITY chat.label                   "Klepet">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "Računi"> 
 <!ENTITY subscribeImapFolders.label   "Obdelaj naročnine na mape">
 <!ENTITY settingsLink.label           "Pokaži nastavitve za ta račun"> 
 <!ENTITY newAcctLink.label            "Ustvari nov račun"> 
+<!ENTITY newAcct.label                "Ustvari nov račun:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Napredne možnosti"> 
 <!ENTITY searchMsgsLink.label         "Išči po sporočilih"> 
 <!ENTITY filtersLink.label            "Upravljaj s filtri sporočil">
 <!ENTITY junkSettings.label           "Nastavitve neželene pošte">
 <!ENTITY offlineLink.label            "Nastavitve za stanje brez povezave">
-
-<!ENTITY feedsSectionHdr.label        "Viri">
-<!ENTITY subscribeFeeds.label         "Urejaj naročila">
