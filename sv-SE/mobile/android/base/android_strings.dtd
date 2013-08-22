@@ -287,19 +287,8 @@ size. -->
      it is applicable.. -->
 <!ENTITY home_reading_list_hint "TIPS: Spara artiklar till läslistan genom att långtrycka på ikonen &#37;I när den visas i namnfältet.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Ställ in Firefox Sync för att få tillgång till bokmärken, historik och flikar från dina andra enheter&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Hämta appar från Firefox Marketplace och upptäck det bästa som webben har att erbjuda&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Firefox Marketplace">
+<!ENTITY home_most_visited_empty "Webbplatser du besökt oftast visas här.">
+<!ENTITY pin_bookmark_dialog_hint "Skriv in ett söknyckelord">
 
 <!ENTITY filepicker_title "Välj fil">
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
