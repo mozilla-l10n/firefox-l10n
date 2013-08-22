@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Har ir še woo kaŋ war g'a tammahã Android še &brandShortName; ga hala sohõ.">
 <!ENTITY intro.happyLink           "Ay ga bag'a">
 <!ENTITY intro.sadLink             "Ay dii šendayyaŋ">
+<!ENTITY intro.maybeLater          "Wala kala kayna">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Nda war ga baa faaba wala war dii šenday nda &brandShortName;, wa dii ">
+<!ENTITY support.pre2              "War ga hin ka guna da ">
 <!ENTITY support.link              "&brandShortName; faaba">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " ka bay ka tonton.">
 
 <!ENTITY happy.header              "A ga kan nda boro maa woo!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "A ši too miniti hinka nd'a ga binekaanay.">
 
 <!ENTITY happy.ratingLink          "Ayyo, Google Play feeri">
-<!ENTITY happy.maybeLater          "Wala kala kayna">
+<!ENTITY happy.maybeLater2         "Wala kala kayna">
 <!ENTITY happy.noThanks            "Kalaa naŋ">
 
 <!ENTITY sad.message               "W'alhaa naŋ kaŋ war dii šenday fooyaŋ nda &brandShortName;. Har ir še woo kaŋ tee hal'ir ma hin k'a hanse.">

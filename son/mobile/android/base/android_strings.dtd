@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "War brandShortName; kayandi">
-<!ENTITY  splash_bookmarks_history "Ir goo ma war doo-šilbawey nda taarikoo taagandi, kaŋ ga hin ka too miniti foo cine.">
-
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
-<!ENTITY pref_category_general "Hankul">
-<!ENTITY pref_category_privacy "Sutura &amp; saajaw">
-<!ENTITY pref_category_content "Gundekuna">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Jinekoyante">
+<!ENTITY pref_category_customize "Hanse boŋše">
+<!ENTITY pref_category_search2 "Ceeci kayandiyaney">
+<!ENTITY pref_category_display "Cebe">
+<!ENTITY pref_category_privacy_short "Sutura">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
-<!ENTITY pref_about_firefox "&brandShortName; ga">
+<!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
+<!ENTITY pref_category_devtools "Cinakey goyjinawey">
+<!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
+<!ENTITY pref_developer_remotedebugging_docs "Bay ka tonton">
 <!ENTITY pref_remember_signons "Honga šennikufaley">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Hankul">
-<!ENTITY pref_header_privacy "Sutura nda saajaw">
-<!ENTITY pref_header_content "Gundekuna">
+<!ENTITY pref_header_customize "Hanse boŋše">
+<!ENTITY pref_header_display "Cebe">
+<!ENTITY pref_header_privacy_short "Sutura">
+<!ENTITY pref_header_help "Faaba">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Cinakey goyjinawey">
 
 <!ENTITY pref_cookies_menu "Aleewawey">
 <!ENTITY pref_cookies_accept_all "Tunante">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Naagu ka hẽenandi">
 <!ENTITY pref_plugins_disabled "Kayante">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
-<!ENTITY pref_reflow_on_zoom3 "Kar cee hinka ka hantumoo dandi">
+<!ENTITY pref_reflow_on_zoom4 "Hantum sawandi">
+<!ENTITY pref_restore "Nor lokey">
+<!ENTITY pref_restore_always "Yeeti waati kul">
+<!ENTITY pref_restore_crash "Yeeti kaŋyan banda ga">
+<!ENTITY pref_restore_never "Ma ši yeeti abada">
 <!ENTITY pref_font_size_tiny "Kaccu">
 <!ENTITY pref_font_size_small "Kayna">
 <!ENTITY pref_font_size_medium "Sasawante">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Bila-nda-ciyari Interneti nungu bayhayey">
 <!ENTITY pref_private_data_siteSettings2 "Nungu kayandiyaney">
 <!ENTITY pref_private_data_downloadFiles "Tukey zumandi">
+
+
+<!ENTITY pref_about_firefox "&brandShortName; ga">
+<!ENTITY pref_vendor_faqs "Hãayan nda zaabi">
+<!ENTITY pref_vendor_feedback "War goy-banda laasaaboo sanba">
 
 <!ENTITY datareporting_notification_title "&brandShortName; kabuyan &amp; bayhaya">
 <!ENTITY datareporting_notification_action_long "Suuba alhabaroo kaŋ ka žemnandi">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Nor lokey">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY tabs_synced "Hangante">
-<!ENTITY wallpaper_success "Cetakaddasu taagante">
-<!ENTITY wallpaper_progress "Cetakaddasu kayandiyan">
-<!ENTITY wallpaper_fail "Ši hin ka cetakaddasu kayandi">
+<!ENTITY set_image_fail "Ši hin ka bii kayandi">
+<!ENTITY set_image_chooser_title "Bii kayandi sanda">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
 <!ENTITY reading_list_failed "Mana hin ka moɲoo tonton war caw maašeedaa ga">
 <!ENTITY reading_list_duplicate "Moo goo war caw maašeedaa ra">
-<!ENTITY reader "Boŋdeke">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Teera tontonantey">
 
 <!ENTITY masterpassword_create_title "Takaddaɲaa šennikufaloo tee">
 <!ENTITY masterpassword_remove_title "Takaddaɲaa šennikufal kaa">
@@ -317,6 +331,8 @@ Android ra">
 <!ENTITY webapp_generic_name "Porogaramize">
 
 <!ENTITY searchable_description "Doo-šilbawey nda taariki">
+
+<!ENTITY devtools_remote_debugging_forward "Ši dirɲa ka kotay-mee kayandi bisandiyan še!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Taagandiri ga bara &brandShortName; še">
@@ -329,3 +345,14 @@ Android ra">
 
 <!ENTITY updater_apply_title2 "Taagandiri ga bara &brandShortName; še">
 <!ENTITY updater_apply_select2 "Daaru ka taagandi">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Yaw goywaati taaga">
+<!ENTITY exit_guest_session "Yaw goywaati naŋ">
+<!ENTITY guest_session_dialog_continue "Koy jine">
+<!ENTITY guest_session_dialog_cancel "Naŋ">
+<!ENTITY new_guest_session_title "&brandShortName; ga tunandi taaga">
+<!ENTITY new_guest_session_text "Boraa kaŋ ga goy nd\u0027a ši hin ka dii war hunday ceeciyan bayhayey (sanda šennikufal gaabuntey, taariki wala doo-šilbawey).\n\nWaati kaŋ war yawoo ben, ngey ceeciyan bayhayey ga tuusandi nda war goywaatoo ga yeeti dogoo ra.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; ga tunandi taaga">
+<!ENTITY exit_guest_session_text "Goywaatoo woo ceeciyan bayhayey ga tuusandi.">
