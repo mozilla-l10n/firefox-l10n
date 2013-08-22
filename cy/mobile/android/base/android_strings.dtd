@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Gosod &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Rydym yn diweddaru eich nodau tudalen a hanes, gall hyn gymryd munud neu ddau.">
-
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
-<!ENTITY pref_category_general "Cyffredinol">
-<!ENTITY pref_category_privacy "Preifatrwydd a Diogelwch">
-<!ENTITY pref_category_content "Cynnwys">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Uwch">
+<!ENTITY pref_category_customize "Cyfaddasu">
+<!ENTITY pref_category_search2 "Gosodiadau chwilio">
+<!ENTITY pref_category_display "Dangosydd">
+<!ENTITY pref_category_privacy_short "Preifatrwydd">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
-<!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Peiriannau chwilio wedi eu gosod">
+<!ENTITY pref_category_devtools "Offer datblygwyr">
+<!ENTITY pref_developer_remotedebugging "Dadfygio pell">
+<!ENTITY pref_developer_remotedebugging_docs "Dysgu rhagor">
 <!ENTITY pref_remember_signons "Cofio cyfrineiriau">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Cyffredinol">
-<!ENTITY pref_header_privacy "Preifatrwydd a Diogelwch">
-<!ENTITY pref_header_content "Cynnwys">
+<!ENTITY pref_header_customize "Cyfaddasu">
+<!ENTITY pref_header_display "Dangosydd">
+<!ENTITY pref_header_privacy_short "Preifatrwydd">
+<!ENTITY pref_header_help "Cymorth">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Offer datblygu">
 
 <!ENTITY pref_cookies_menu "Cwcis">
 <!ENTITY pref_cookies_accept_all "Galluogwyd">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
 <!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_text_size "Maint testun">
-<!ENTITY pref_reflow_on_zoom3 "Tap dwbl i ail-lunio\u0027r testun">
+<!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
+<!ENTITY pref_restore "Tabiau">
+<!ENTITY pref_restore_always "Adfer bob tro">
+<!ENTITY pref_restore_crash "Adfer ar ôl chwalu">
+<!ENTITY pref_restore_never "Peidio byth adfer">
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan">
 <!ENTITY pref_private_data_downloadFiles "Ffeiliau wedi eu llwytho i lawr">
+
+
+<!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
+<!ENTITY pref_vendor_faqs "Atebion">
+<!ENTITY pref_vendor_feedback "Rhoi adborth">
 
 <!ENTITY datareporting_notification_title "Ystadegau a data &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Dewis pa wybodaeth i\u0027w rannu">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Tabiau">
 <!ENTITY tabs_private "Preifat">
 <!ENTITY tabs_synced "Cydweddwyd">
-<!ENTITY wallpaper_success "Diweddarwyd y papur wal">
-<!ENTITY wallpaper_progress "Gosod papur wal">
-<!ENTITY wallpaper_fail "Methu gosod y papur wal">
+<!ENTITY set_image_fail "Methu gosod delwedd">
+<!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
 <!ENTITY reading_list_failed "Methwyd ychwanegu tudalen i\u0027ch Rhestr Darllen">
 <!ENTITY reading_list_duplicate "Tudalen eisoes ar eich Rhestr Ddarllen">
-<!ENTITY reader "Darllenydd">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Gweithrediadau Ychwanegol">
 
 <!ENTITY masterpassword_create_title "Creu Prif Gyfrinair">
 <!ENTITY masterpassword_remove_title "Tynnu’r Prif Gyfrinair">
@@ -317,6 +331,8 @@ o Android">
 <!ENTITY webapp_generic_name "Ap">
 
 <!ENTITY searchable_description "Nodau Tudalen a hanes">
+
+<!ENTITY devtools_remote_debugging_forward "Peidiwch anghofio gosod blaenyrru porth!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
@@ -329,3 +345,14 @@ o Android">
 
 <!ENTITY updater_apply_title2 "Diweddariad ar gael ar gyfer &brandShortName;">
 <!ENTITY updater_apply_select2 "Cyffwrdd i ddiweddaru">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Sesiwn Gwestai Newydd">
+<!ENTITY exit_guest_session "Gorffen Sesiwn Gwestai">
+<!ENTITY guest_session_dialog_continue "Parhau">
+<!ENTITY guest_session_dialog_cancel "Diddymu">
+<!ENTITY new_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
+<!ENTITY new_guest_session_text "Ni fydd y person sy\u0027n ei ddefnyddio yn gallu gweld dim o\u0027ch data pori personol ( cyfrineiriau, hanes na nodau tudalen).\n\nPan fydd eich gwestai wedi gorffen, bydd eu data pori\u0027n cael ei ddileu a\u0027ch sesiwn chi\u0027n cael ei hadfer.">
+
+<!ENTITY exit_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
+<!ENTITY exit_guest_session_text "Bydd manylion pori\u0027r sesiwn yn cael ei ddileu.">
