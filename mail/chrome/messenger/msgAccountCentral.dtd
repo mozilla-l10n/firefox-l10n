@@ -2,23 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "E-post"> 
-<!ENTITY readMsgsLink.label           "Les meldinger"> 
-<!ENTITY composeMsgLink.label         "Skriv ny melding"> 
+<!ENTITY emailSectionHdr.label        "E-post">
+<!ENTITY readMsgsLink.label           "Les meldinger">
+<!ENTITY composeMsgLink.label         "Skriv ny melding">
 
-<!ENTITY newsSectionHdr.label         "Nyhetsgrupper"> 
-<!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyhetsgrupper"> 
+<!ENTITY newsSectionHdr.label         "Nyhetsgrupper">
+<!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyhetsgrupper">
+
+<!ENTITY feedsSectionHdr.label        "Nyhetskilder">
+<!ENTITY subscribeFeeds.label         "Behandle abonnementer">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Kontoer">
 <!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
-<!ENTITY settingsLink.label           "Vis innstillinger for denne kontoen"> 
-<!ENTITY newAcctLink.label            "Opprett en ny konto"> 
+<!ENTITY settingsLink.label           "Vis innstillinger for denne kontoen">
+<!ENTITY newAcctLink.label            "Opprett en ny konto">
+<!ENTITY newAcct.label                "Opprett en ny konto:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner"> 
+<!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner">
 <!ENTITY searchMsgsLink.label         "Søk i meldinger"> 
 <!ENTITY filtersLink.label            "Lag meldingsfiltre">
 <!ENTITY junkSettings.label           "Innstillinger for uønsket e-post">
 <!ENTITY offlineLink.label            "Innstillinger for frakoblet tilstand">
-
-<!ENTITY feedsSectionHdr.label        "Nyheter og blogger">
-<!ENTITY subscribeFeeds.label         "Behandle abonnement">
