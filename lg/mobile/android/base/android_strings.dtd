@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Okutegeka &brandShortName; yo">
-
-
 <!ENTITY  no_space_to_start_error "Tewali banga linamala &brandShortName; okutandika.">
 <!ENTITY  error_loading_file "Wabadewo ensobi mukutika fayiro ezetagisa okudukanya &brandShortName;">
 
@@ -69,12 +66,19 @@
 
 
 
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_about_firefox "Ebikwata ku &brandShortName;">
+
+
+
+
+
+
+
+
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+
+
 
 
 
@@ -96,6 +100,10 @@
 <!ENTITY pref_plugins_tap_to_play "Konna okuzanya">
 
 <!ENTITY pref_text_size "Obunene bw\u0027enukuta">
+
+
+
+
 
 <!ENTITY pref_font_size_tiny "Ntononyo">
 <!ENTITY pref_font_size_small "Entono">
@@ -124,6 +132,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Bwiino we\u0027ekibanja ekitayungiddwa ku Mutimbangano">
 
 
+
+
+<!ENTITY pref_about_firefox "Ebikwata ku &brandShortName;">
+
+<!ENTITY pref_vendor_feedback "Waayo ekyokuddamu">
 
 
 
@@ -167,7 +180,6 @@ size. -->
 <!ENTITY new_tab "Awaddirira Awapya">
 
 
-<!ENTITY tabs_normal "Awaddirira">
 
 
 
@@ -215,7 +227,8 @@ size. -->
 <!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
 
 
-
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Tonda Akasumulizo Akagula Woona">
 <!ENTITY masterpassword_remove_title "Gjamu Akasumulizo Akakuu">
@@ -291,10 +304,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. -->
 
 
+
 <!-- Updater notifications -->
 
 
 <!ENTITY updater_downloading_title2 "Okutikula &brandShortName;">
+
+
+
+
+
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "Weyongereyo">
 
 
 
