@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Foutcode:">
 <!ENTITY calendar.error.description "Beschrijving:">
 <!ENTITY calendar.error.title "Er is een fout opgetreden">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Toevoegen als gebeurtenis">
+<!ENTITY calendar.extract.task.button          "Toevoegen als taak">
+<!ENTITY calendar.extract.event.button.tooltip "Agendagegevens uit het bericht halen en deze aan uw agenda toevoegen als een gebeurtenis">
+<!ENTITY calendar.extract.task.button.tooltip  "Agendagegevens uit het bericht halen en deze aan uw agenda toevoegen als een taak">
