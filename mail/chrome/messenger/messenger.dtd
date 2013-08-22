@@ -476,7 +476,7 @@
 <!ENTITY allowRemoteDebugging.label "Leyfa fjartengda aflúsun">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Ná í póst">
+<!ENTITY getMsgButton1.label "Ná í póst">
 <!ENTITY newMsgButton.label "Skrifa">
 <!ENTITY replyButton.label "Svara">
 <!ENTITY replyAllButton.label "Svara öllum">
