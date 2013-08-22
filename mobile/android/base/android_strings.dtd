@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "&brandShortName; அமைக்கப்படுகிறது">
-<!ENTITY  splash_bookmarks_history "நாங்கள் உங்கள் புத்தககுறிகளையும் வரலாற்றையும் புதுபிக்கிறோம், இது சுமார் ஒரு நிமிடம் ஆகலாம்.">
-
 <!ENTITY  no_space_to_start_error "&brandShortName;ஐ துவங்க போதிய காலி இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName;ஐ இயக்க தேவையான கோப்புகளை ஏற்றுவதில் ஒரு பிழை ஏற்பட்டுள்ளது">
 
@@ -15,12 +12,12 @@
 <!ENTITY  awesomebar_switch_to_tab "தத்தலுக்கு மாற்று">
 
 <!ENTITY  crash_reporter_title "&brandShortName; சிதைவு அறிக்கையாளர்">
-
-
-
+<!ENTITY  crash_message2 "&brandShortName; சிதைவடைந்துள்ளது. &brandShortName;ஐ மறுதுவங்கும் போது உங்கள் தத்தல்கள் துவக்கப் பக்கத்தில் பட்டியலிடப்பட்டிருக்கும்.">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; க்கு இந்த சிதைவைப்பற்றி தெரிவி எனவேதான் அவர்கள் அதை சரி செய்யமுடியும்">
+<!ENTITY  crash_include_url2 "நான் இருந்த பக்கத்தின் முகவரியை இதில் அடக்கு">
 <!ENTITY  crash_sorry "தவறுக்கு மன்னிக்கவும்">
 <!ENTITY  crash_comment "கருத்தை சேர்க்கவும் (கருத்துக்கள் எல்லாரும் பார்க்கும்படியிருக்கும்)">
-
+<!ENTITY  crash_allow_contact2 "இந்த அறிக்கைக்கு &vendorShortName; என்னை அனுகுமாறு விடு">
 <!ENTITY  crash_email "உங்களின் மின்னஞ்சல்">
 <!ENTITY  crash_closing_alert "விபத்து அறிக்கையை அனுப்பாமலே வெளியேறவா ?">
 <!ENTITY  sending_crash_report "சிதைவு அறிக்கை அனுப்பப்படுகிறது\u2026">
@@ -67,23 +64,33 @@
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
-<!ENTITY pref_category_general "பொதுவான">
-<!ENTITY pref_category_privacy "&amp; தற்பாதுகாப்பு ">
-<!ENTITY pref_category_content "உள்ளடக்கம்">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
+<!ENTITY pref_category_advanced "மேம்பட்டது">
+<!ENTITY pref_category_customize "தனிபயனாக்கு">
+<!ENTITY pref_category_search2 "அமைப்புகளை தேடு">
+<!ENTITY pref_category_display "காண்பி">
+<!ENTITY pref_category_privacy_short "தனியுரிமை">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
+<!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
+<!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
+<!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
+<!ENTITY pref_developer_remotedebugging_docs "மேலும் அறிய">
 <!ENTITY pref_remember_signons "கடவுச்சொற்களை நினைவில் வைத்திரு">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_customize "தனிபயனாக்கு">
+<!ENTITY pref_header_display "காண்பி">
+<!ENTITY pref_header_privacy_short "தனியுரிமை">
+<!ENTITY pref_header_help "உதவி">
 
 
 
 <!ENTITY pref_cookies_menu "குக்கீகள்">
 <!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
-
+<!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3 வது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
+<!ENTITY pref_donottrack_menu "கண்காணிப்பு">
 <!ENTITY pref_donottrack_disallow_tracking "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
 <!ENTITY pref_donottrack_allow_tracking "நான் கண்காணிக்கப்படுவதை விரும்புகிறேன் என்று வலைதளங்களிடம் கூறவும்">
 <!ENTITY pref_donottrack_no_pref "என்னுடைய கண்காணிக்கப்பு விருப்ப முன்னுரிமைகளை வலைதளங்களிடம் சொல்ல வேண்டாம்">
@@ -98,39 +105,50 @@
 <!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_text_size "உரை அளவு">
 
+
+
+
+
 <!ENTITY pref_font_size_tiny "நுண்ணிய">
 <!ENTITY pref_font_size_small "சிறிய">
 <!ENTITY pref_font_size_medium "நடுத்தரம்">
 <!ENTITY pref_font_size_large "பெரிய">
 <!ENTITY pref_font_size_xlarge "மிகப் பெரிய">
-
+<!ENTITY pref_font_size_set "அமை">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "அ">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
-
+<!ENTITY pref_show_product_announcements "தயாரிப்பு அறிவிப்புகளைக் காட்டு">
 <!ENTITY pref_sync "ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
-
+<!ENTITY pref_import_android "ஆன்ட்ராய்டிலிருந்து இறக்குமதி செய்">
 <!ENTITY pref_private_data_history "உலாவும் &amp; பதிவிறக்க வரலாறு">
 <!ENTITY pref_private_data_formdata "படிவம் &amp; தேடல் வரலாறு">
-
+<!ENTITY pref_private_data_cookies2 "குக்கீகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
 <!ENTITY pref_private_data_passwords "சேமிக்கப்பட்ட கடவுச்சொற்கள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
+<!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
 
 
 
+<!ENTITY pref_about_firefox "&brandShortName;ஐ பற்றி">
 
+<!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
 
+<!ENTITY datareporting_notification_title "&brandShortName; நிலவரம் &amp; தரவு">
+<!ENTITY datareporting_notification_action_long "பகிர்வுக்கு எந்த தகவலை தெரிவுசெய்">
+<!ENTITY datareporting_notification_action "பகிர்வுக்கு எதை தெரிவுச்செய்வது">
 
-
-
+<!ENTITY datareporting_notification_summary_short "உங்களுடைய அனுபவத்தை உயர்த்த, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -138,13 +156,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
+<!ENTITY datareporting_fhr_title "&brandShortName; சுகாதார அறிக்கை">
+<!ENTITY datareporting_fhr_summary2 "vendorShortName உடன் தரவை பகிர்கிறது; உங்களுடைய உலாவியின் உடல்நிலைப்பற்றியும் உலாவியின் செயற்ப்பாட்டை புரிந்துக்கொள்ளவும் உதவுகிறது">
+<!ENTITY datareporting_abouthr_title "என் சுகாதார அறிக்கையை பார்">
+<!ENTITY datareporting_telemetry_title "தொலைத்தொடர்பு">
 
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
+<!ENTITY datareporting_wifi_title "&vendorShortName; இடமறியும் சேவைகள்">
 
 
 <!ENTITY pref_update_autodownload "தானியாக்க புதுப்பித்தல்கள்">
@@ -169,7 +190,6 @@ size. -->
 <!ENTITY new_tab "புதிய தத்தல்">
 <!ENTITY new_private_tab "புதிய தனிப்பயன் தத்தல்">
 <!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
-<!ENTITY tabs_normal "தத்தல்கள்">
 
 
 
@@ -182,21 +202,22 @@ size. -->
 
 
 <!ENTITY contextmenu_open_new_tab "புதிய தத்தலில் திறக்கவும்">
-
-
+<!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
+<!ENTITY contextmenu_open_in_reader "வாசிக்கும் படி திற">
 <!ENTITY contextmenu_remove_history "நீக்கு">
 <!ENTITY contextmenu_remove_bookmark "நீக்கு">
 <!ENTITY contextmenu_add_to_launcher "முகப்பு திரையில் சேர்">
 <!ENTITY contextmenu_share "பகிர்">
-
+<!ENTITY contextmenu_pasteandgo "ஒட்டு &amp; செல்">
 <!ENTITY contextmenu_paste "ஒட்டு">
 <!ENTITY contextmenu_copyurl "முகவரியை  நகல் எடு">
 <!ENTITY contextmenu_edit_bookmark "திருத்து">
+<!ENTITY contextmenu_subscribe "பக்கத்திற்கு சந்தாப்படுத்து">
+<!ENTITY contextmenu_site_settings "தள அமைப்புகளை திருத்து">
 
-
-
-
-
+<!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
+<!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
+<!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
 
 <!ENTITY history_removed "பக்கம் நீக்கப்பட்டது">
 
@@ -206,6 +227,8 @@ size. -->
 <!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "தள அமைப்புகள்">
 <!ENTITY site_settings_cancel       "ரத்துசெய்">
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை">
@@ -215,7 +238,8 @@ size. -->
 
 
 
-
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "முதன்மை கடவுச்சொல்லை அமை">
 <!ENTITY masterpassword_remove_title "முதன்மை கடவுச்சொல் நீக்கு">
@@ -227,10 +251,11 @@ size. -->
 <!ENTITY button_yes "ஆம்">
 <!ENTITY button_no "இல்லை">
 
-
+<!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
 
-
+<!ENTITY abouthome_addons_title "உங்களின் &brandShortName; க்கான நீட்சிகள்">
+<!ENTITY abouthome_addons_browse "எல்லா &brandShortName; நீட்சிகளையும் உலாவு">
 
 <!ENTITY abouthome_last_tabs_open "சென்றமுறை இருந்த எல்லா தத்தல்களையும் திறக்கவும்">
 <!ENTITY abouthome_top_sites_title "முதன்மையான தளங்கள்">
@@ -248,12 +273,12 @@ size. -->
      strings above. These strings should be a subset of the strings above and
      generally be the name of the product the string describes. -->
 <!ENTITY abouthome_sync_bold_name "Firefox ஒத்திசைவு">
-
+<!ENTITY abouthome_apps_bold_name2 "பையர்பாக்ஸ் சந்தை">
 
 <!ENTITY filepicker_title "கோப்பினை தேர்வு செய்">
-
+<!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
 <!ENTITY filepicker_image_title "தேர்ந்தெடு அல்லது ஒரு படத்தை எடு">
-
+<!ENTITY filepicker_video_title "ஒரு படத் தேர்வு அல்லது பதிவு">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "நீங்கள் இதனுடன் இணைக்கப்பட்டுள்ளீர்கள்">
@@ -281,14 +306,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "இறக்கு">
 
-
-
+<!ENTITY bookmarkhistory_import_bookmarks "ஆண்ட்ராய்டு புத்தகக்குறிகளை 
+இறக்கு">
+<!ENTITY bookmarkhistory_import_history "ஆண்ட்ராய்டு வரலாற்றை 
+இறக்கு">
 <!ENTITY bookmarkhistory_import_wait "தயவு செய்து காத்திருக்கவும்...">
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
+
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "&brandShortName;இற்கு புதுபித்தல் கிடைக்கிறது">
@@ -298,5 +326,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title_failed2 "பதிவிறக்கம் தோல்வியடைந்தது">
 
 <!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
+
+
+<!-- Guest mode -->
+
+<!ENTITY guest_session_dialog_continue "தொடரவும்">
+
+
+
 
 
