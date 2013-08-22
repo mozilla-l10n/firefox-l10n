@@ -234,6 +234,7 @@ size. -->
 
 <!ENTITY history_removed "Sidan borttagen">
 
+<!ENTITY bookmark_add "Lägg till bokmärke">
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Adress">
