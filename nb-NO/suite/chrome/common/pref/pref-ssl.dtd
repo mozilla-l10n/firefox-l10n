@@ -16,6 +16,8 @@
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; kan varsle deg når sikkerhetsstatusen til nettsiden du viser endres. Sett &brandShortName; til å vise en advarsel og be om tillatelse før:">
 <!ENTITY warn.enteringsecure                "Innlasting av en side som støtter kryptering">
