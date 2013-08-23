@@ -58,7 +58,7 @@
 <!ENTITY  permAllowSession "Dovoli v tej seji">
 <!ENTITY  permBlock "Prepovej">
 <!ENTITY  permissionsFor "Dovoljenja za:">
-<!ENTITY  permPlugins           "Omogoči vstavke">
+<!ENTITY  permPlugins           "Omogoči vtičnike">
 
 <!ENTITY  permClearStorage           "Počisti shrambo">
 <!ENTITY  permClearStorage.accesskey "P">

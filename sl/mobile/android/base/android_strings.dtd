@@ -72,7 +72,7 @@
 <!ENTITY pref_clear_history_confirm "Zgodovina iskanja bo izbrisana">
 <!ENTITY pref_clear_private_data "Počisti zasebne podatke">
 <!ENTITY pref_clear_private_data_confirm "Nastavitve brskanja, med drugim gesla in piškoti, bodo izbrisane">
-<!ENTITY pref_plugins "Vstavki">
+<!ENTITY pref_plugins "Vtičniki">
 <!ENTITY pref_plugins_enabled "Vključeno">
 <!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
 <!ENTITY pref_plugins_disabled "Onemogočeno">
