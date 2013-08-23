@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "v">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Letöltés">
+<!ENTITY getMsgButton1.label "Üzenetek letöltése">
 <!ENTITY newMsgButton.label "Új üzenet">
 <!ENTITY replyButton.label "Válasz">
 <!ENTITY replyAllButton.label "Válasz mindenkinek">

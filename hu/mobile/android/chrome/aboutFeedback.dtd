@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Mondja el, mit gondol eddig a &brandShortName; for Android alkalmazásról.">
 <!ENTITY intro.happyLink           "Szeretem">
 <!ENTITY intro.sadLink             "Problémákba ütköztem">
+<!ENTITY intro.maybeLater          "Talán később">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Ha segítségre van szüksége, vagy problémája van a &brandShortName; alkalmazással, keresse fel a ">
-<!ENTITY support.link              "&brandShortName; támogatás">
-<!ENTITY support.post              " oldalt.">
+<!ENTITY support.pre2              "Felkeresheti a ">
+<!ENTITY support.link              "&brandShortName; támogatást">
+<!ENTITY support.post2             " is további információkért.">
 
 <!ENTITY happy.header              "Örömmel halljuk!">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Csak egy perc, és nagyszerű érzés.">
 
 <!ENTITY happy.ratingLink          "Igen, felkeresem a Google Playt">
-<!ENTITY happy.maybeLater          "Talán később">
+<!ENTITY happy.maybeLater2         "Talán később">
 <!ENTITY happy.noThanks            "Köszönöm, nem">
 
 <!ENTITY sad.message               "Sajnáljuk, hogy problémákkal találkozott a &brandShortName; használatakor. Mondja el, mi történt, hogy kijavíthassuk.">
