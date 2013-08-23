@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# ed62 <eduard.pintilie@gmail.com>
 #
 -->
 <!--
@@ -32,6 +33,6 @@
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
-<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
-<!ENTITY pref.systemcolors.accesskey "c">
+<!ENTITY pref.systemcolors.label "Optimizare culori pentru accesibilitate" >
+<!ENTITY pref.systemcolors.accesskey "O">
 

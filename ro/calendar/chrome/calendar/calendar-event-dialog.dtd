@@ -122,8 +122,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Adaugă legătură…">
 <!ENTITY  event.menu.options.link.accesskey                   "l">
-<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
-<!ENTITY  event.menu.options.timezone2.accesskey              "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Afișare fusuri orare">
+<!ENTITY  event.menu.options.timezone2.accesskey              "f">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nespecificată">
@@ -170,8 +170,8 @@
 <!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
-<!ENTITY event.categories.textbox.label                   "Add a new category" >
-<!ENTITY event.categories.textbox.accesskey               "A">
+<!ENTITY event.categories.textbox.label                   "Adaugă o categorie nouă" >
+<!ENTITY event.categories.textbox.accesskey               "c">
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Participanți:" >
@@ -190,18 +190,18 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repetă:" >
 <!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.until.label                                "Until:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.until.label                                "Până la:">
+<!ENTITY event.until.accesskey                            "P">
 <!ENTITY event.reminder.label                             "Memento:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Descriere:" >
 <!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Anexe:" >
 <!ENTITY event.attachments.accesskey                      "A" >
-<!ENTITY event.attachments.menubutton.label               "Attach">
-<!ENTITY event.attachments.menubutton.accesskey           "A">
-<!ENTITY event.attachments.url.label                      "Webpage…">
-<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.menubutton.label               "Anexează">
+<!ENTITY event.attachments.menubutton.accesskey           "x">
+<!ENTITY event.attachments.url.label                      "Pagina web…">
+<!ENTITY event.attachments.url.accesskey                  "w">
 <!ENTITY event.attachments.popup.remove.label             "Elimină" >
 <!ENTITY event.attachments.popup.remove.accesskey         "E" >
 <!ENTITY event.attachments.popup.open.label               "Deschide" >
@@ -351,13 +351,13 @@
 <!ENTITY event.attendee.role.chair              "Președinte">
 <!ENTITY event.attendee.role.nonparticipant     "Nu participă">
 <!ENTITY event.attendee.usertype.individual     "Individual">
-<!ENTITY event.attendee.usertype.group          "Group">
-<!ENTITY event.attendee.usertype.resource       "Resource">
-<!ENTITY event.attendee.usertype.room           "Room">
+<!ENTITY event.attendee.usertype.group          "Grup">
+<!ENTITY event.attendee.usertype.resource       "Resursă">
+<!ENTITY event.attendee.usertype.room           "Cameră">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
-<!ENTITY event.timezone.custom.label     "More Timezones…">
+<!ENTITY event.timezone.custom.label     "Mai multe fusuri orare…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">

@@ -114,7 +114,7 @@
 <!ENTITY Diskspace                       "Spațiu pe disc">
 <!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
 <!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+<!ENTITY offlineCompactFoldersMB.label   "MB în total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

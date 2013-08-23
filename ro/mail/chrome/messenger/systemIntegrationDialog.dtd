@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # strainu <narro@strainu.ro>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -10,6 +11,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -18,7 +20,7 @@
 
 <!ENTITY systemIntegration.title  "Integrare cu sistemul">
 <!ENTITY acceptIntegration.label  "Setează ca implicit">
-<!ENTITY cancelIntegration.label  "Skip Integration">
+<!ENTITY cancelIntegration.label  "Omiteți integrarea">
 <!ENTITY cancelIntegration2.label  "Renunțare">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 

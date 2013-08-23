@@ -3,12 +3,14 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -20,6 +22,6 @@
 <!ENTITY name.label                     "Cameră">
 <!ENTITY optional.label                 "(opțional)">
 <!ENTITY account.label                  "Contul meu">
-<!ENTITY autojoin.label                 "Auto-join this Chat Room">
+<!ENTITY autojoin.label                 "Conectare automată la această cameră de chat">
 <!ENTITY autojoin.accesskey             "A">
 

@@ -5,6 +5,7 @@
 # raulmalea <raul.malea@gmail.com>
 # strainu <narro@strainu.ro>
 # turcan <nicturcan@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -12,6 +13,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -33,7 +35,7 @@
 <!ENTITY deleteButton.accesskey      "g">
 <!ENTITY searchDialogTitle.label     "Căutare mesaje">
 <!ENTITY results.label               "Rezultate">
-<!ENTITY moveHereMenu.label          "Move Here">
+<!ENTITY moveHereMenu.label          "Mutați aici">
 <!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Mută în">
 <!ENTITY moveButton.accesskey        "m">

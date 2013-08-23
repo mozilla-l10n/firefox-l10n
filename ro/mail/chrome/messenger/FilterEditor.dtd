@@ -6,6 +6,7 @@
 # janimo <jani@ubuntu.com>
 # xdaiana <xdaiana@yahoo.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -13,6 +14,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -34,8 +36,8 @@
 <!ENTITY highestPriorityCmd.label "Cea mai mare">
 
 <!ENTITY contextDesc.label "Aplică filtrul când:">
-<!ENTITY contextIncomingMail.label "Getting New Mail:">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.label "Obține mail nou:">
+<!ENTITY contextIncomingMail.accesskey "m">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filter before Junk Classification">
@@ -45,7 +47,7 @@
 <!ENTITY filterActionDesc.accesskey "E">
 
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
-<!ENTITY filterActionOrder.label "See execution order">
+<!ENTITY filterActionOrder.label "Vedeți ordinea de execuție">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mută mesajul în">
@@ -66,7 +68,7 @@
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
 
-<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY addAction.tooltip "Adăugați o secțiune nouă">
 <!ENTITY removeAction.tooltip "Elimină această acțiune">
 
 <!-- LOCALIZATION NOTE

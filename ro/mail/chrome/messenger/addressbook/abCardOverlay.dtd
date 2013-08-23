@@ -7,6 +7,7 @@
 # iulianv <iulianv@email.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # adiroiban <adiroiban@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
@@ -16,6 +17,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -65,7 +67,7 @@
 <!ENTITY PlainText.label                "Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Necunoscut">
-<!ENTITY chatName.label                 "Chat Name:">
+<!ENTITY chatName.label                 "Numele chatului:">
 
 <!ENTITY allowRemoteContent1.label      "Permite conținutul aflat la distanță.">
 <!ENTITY allowRemoteContent1.accesskey  "r">

@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -38,7 +39,7 @@
 <!ENTITY ispHeaders.accesskey "t">
 
 <!ENTITY junkClassification.label "Selecție">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkActions.label "Destinație și păstrare">
 
 <!ENTITY globalJunkPrefs.label "Global Junk Preferences…">
 <!ENTITY globalJunkPrefs.accesskey "G">

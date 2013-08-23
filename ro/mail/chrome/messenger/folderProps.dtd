@@ -3,6 +3,7 @@
 #
 # rz <rz@r2dev.ro>
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -10,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -80,7 +82,7 @@
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Stare:">
 
-<!ENTITY numberOfMessages.label                  "Number of messages:">
+<!ENTITY numberOfMessages.label                  "Număr de mesaje:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "necunoscut">
 <!ENTITY sizeOnDisk.label                        "Spațiu pe disc:">

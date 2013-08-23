@@ -10,6 +10,7 @@
 # rsandu <razvan.sandu@zando.ro>
 # turcan <nicturcan@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -17,6 +18,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -161,7 +163,7 @@
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Notificare asupra stadiului livrării">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY deliveryFormatMenu.label "Format de trimitere">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Autodetecție">
 <!ENTITY autoFormatCmd.accesskey "A">

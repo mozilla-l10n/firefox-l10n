@@ -5,6 +5,7 @@
 # xdaiana <xdaiana@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -12,6 +13,7 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -22,7 +24,7 @@
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nume cont:">
 <!ENTITY addAccountDialog.noAccountText "Ne pare rău, dar versiunea curentă a &brandShortName; permite numai un singur cont de la fiecare serviciu de stocare online.">
-<!ENTITY addAccountDialog.createAccountText2 "You can send large attachments using one of several online storage services. Please either set up an existing account, or sign up for a new account.">
+<!ENTITY addAccountDialog.createAccountText2 "Puteți trimite atașamente mari folosind unul din mai multe servicii de stocare online. Configurați un cont existent sau înregistrați-vă pentru un cont nou.">
 <!ENTITY addAccountDialog.authorizing "Se verifică autorizația...">
 <!ENTITY addAccountDialog.error "A apărut o eroare la configurarea contului!">
 <!ENTITY addAccountDialog.acceptButton.label "Configurare cont">

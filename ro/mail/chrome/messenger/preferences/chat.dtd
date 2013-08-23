@@ -3,12 +3,14 @@
 #
 # Ursan Marius Bogdan <Creationn@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -34,6 +36,6 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "și setează-mi starea ca Plecat cu acest mesaj de stare:">
 <!ENTITY  andSetStatusToAway.accesskey  "s">
 
-<!ENTITY  sendTyping.label              "Send typing notifications in conversations">
+<!ENTITY  sendTyping.label              "Trimite notificări de tastare în conversații">
 <!ENTITY  sendTyping.accesskey          "t">
 

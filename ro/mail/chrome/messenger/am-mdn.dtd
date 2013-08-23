@@ -1,7 +1,14 @@
 <!--
+# Translator(s):
+#
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -11,7 +18,7 @@
 <!ENTITY pane.title                   "Confirmări de primire">
 <!ENTITY useGlobalPrefs.label         "Folosește pentru acest cont preferințele globale legate de confirmările de primire">
 <!ENTITY useGlobalPrefs.accesskey     "F">
-<!ENTITY globalReceipts.label         "Global Preferences…">
+<!ENTITY globalReceipts.label         "Preferințe globale…">
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Personalizează pentru acest cont">
 <!ENTITY useCustomPrefs.accesskey     "P">

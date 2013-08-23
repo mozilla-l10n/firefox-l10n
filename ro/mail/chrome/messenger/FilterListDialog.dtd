@@ -2,12 +2,16 @@
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -23,15 +27,15 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderTopButton "Move to Top">
-<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton "Mută în partea de sus">
+<!ENTITY reorderTopButton.accessKey "s">
 <!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
 <!ENTITY reorderUpButton.label "Mută sus">
 <!ENTITY reorderUpButton.accesskey "s">
 <!ENTITY reorderDownButton.label "Mută jos">
 <!ENTITY reorderDownButton.accesskey "j">
-<!ENTITY reorderBottomButton "Move to Bottom">
-<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton "Mută în partea de jos">
+<!ENTITY reorderBottomButton.accessKey "j">
 <!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
 <!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
 <!ENTITY filtersForPrefix.label "Filtre pentru:">
@@ -49,7 +53,7 @@
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
-<!ENTITY searchBox.emptyText "Search filters by name…">
+<!ENTITY searchBox.emptyText "Caută filtre după nume…">
 
 
 

@@ -7,6 +7,7 @@
 # raulmalea <raul.malea@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
 # vas_galati <vas_galati@yahoo.com>
+# ed62 <eduard.pintilie@gmail.com>
 #
 -->
 <!--
@@ -45,31 +46,31 @@
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Evenimente în această lună">
 
 <!ENTITY calendar.unifinder.tree.done.label              "Gata">
-<!ENTITY calendar.unifinder.tree.done.tooltip            "Click to sort by Done">
+<!ENTITY calendar.unifinder.tree.done.tooltip            "Clic pentru a sorta după Finalizat">
 <!ENTITY calendar.unifinder.tree.priority.label          "Prioritate">
-<!ENTITY calendar.unifinder.tree.priority.tooltip        "Click to sort by Priority">
+<!ENTITY calendar.unifinder.tree.priority.tooltip        "Clic pentru a sorta după Prioritate">
 <!ENTITY calendar.unifinder.tree.title.label             "Titlu">
-<!ENTITY calendar.unifinder.tree.title.tooltip           "Click to sort by Title">
+<!ENTITY calendar.unifinder.tree.title.tooltip           "Clic pentru a sorta după Titlu">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; completată">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Click to sort by &#37; Complete">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip "Clic pentru a sorta după &#37; Finalizate">
 <!ENTITY calendar.unifinder.tree.startdate.label         "Început">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Click to sort by Start Date">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip       "Clic pentru a sorta după Dată pornire">
 <!ENTITY calendar.unifinder.tree.enddate.label           "Sfârșit">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Click to sort by End Date">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip         "Clic pentru a sorta după Dată finalizare">
 <!ENTITY calendar.unifinder.tree.duedate.label           "Sfârșit">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Click to sort by Due Date">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip         "Clic pentru a sorta după Data scadenței">
 <!ENTITY calendar.unifinder.tree.completeddate.label     "Îndeplinită">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Click to sort by Completed">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip   "Clic pentru a sorta după Terminat">
 <!ENTITY calendar.unifinder.tree.categories.label        "Categorie">
-<!ENTITY calendar.unifinder.tree.categories.tooltip      "Click to sort by Category">
+<!ENTITY calendar.unifinder.tree.categories.tooltip      "Clic pentru a sorta după Categorie">
 <!ENTITY calendar.unifinder.tree.location.label          "Amplasare">
-<!ENTITY calendar.unifinder.tree.location.tooltip        "Click to sort by Location">
+<!ENTITY calendar.unifinder.tree.location.tooltip        "Clic pentru a sorta după Locație">
 <!ENTITY calendar.unifinder.tree.status.label            "Stare">
-<!ENTITY calendar.unifinder.tree.status.tooltip          "Click to sort by Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip          "Clic pentru a sorta după Stare">
 <!ENTITY calendar.unifinder.tree.calendarname.label      "Nume calendar">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Click to sort by Calendar Name">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip    "Clic pentru a sorta după Nume calendar">
 <!ENTITY calendar.unifinder.tree.duration.label          "Termen la">
-<!ENTITY calendar.unifinder.tree.duration.tooltip        "Click to sort by Due in">
+<!ENTITY calendar.unifinder.tree.duration.tooltip        "Clic pentru a sorta după Scadent în">
 <!ENTITY calendar.unifinder.close.tooltip                "Închide căutarea și lista de evenimente">
 
 <!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
@@ -167,7 +168,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tasks… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrare sarcini… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -205,8 +206,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritate">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "Postpone Task">
-<!ENTITY calendar.context.postpone.accesskey          "s">
+<!ENTITY calendar.context.postpone.label              "Sarcină de amânare">
+<!ENTITY calendar.context.postpone.accesskey          "S">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -233,15 +234,15 @@
 <!ENTITY priority.level.high                "Mare">
 <!ENTITY priority.level.high.accesskey      "M">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
-<!ENTITY calendar.context.postpone.1day.label       "1 Day">
-<!ENTITY calendar.context.postpone.1day.accesskey   "D">
-<!ENTITY calendar.context.postpone.1week.label      "1 Week">
-<!ENTITY calendar.context.postpone.1week.accesskey  "W">
+<!ENTITY calendar.context.postpone.1hour.label      "1 oră">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "o">
+<!ENTITY calendar.context.postpone.1day.label       "1 zi">
+<!ENTITY calendar.context.postpone.1day.accesskey   "z">
+<!ENTITY calendar.context.postpone.1week.label      "1 săptămână">
+<!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
-<!ENTITY calendar.copylink.label       "Copy Link Location">
-<!ENTITY calendar.copylink.accesskey   "C">
+<!ENTITY calendar.copylink.label       "Copiază adresa legăturii">
+<!ENTITY calendar.copylink.accesskey   "c">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -256,7 +257,7 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Șterge calendarul">
 <!ENTITY calendar.context.deleteserver.accesskey       "d">
-<!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
+<!ENTITY calendar.context.synccalendars.label          "Sincronizare Calendare">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publică calendarul…">
 <!ENTITY calendar.context.publish.accesskey            "b">
@@ -326,7 +327,7 @@
 <!ENTITY calendarproperties.name.label                     "Nume:">
 <!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
 <!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
-<!ENTITY calendarproperties.cache3.label                   "Offline Support">
+<!ENTITY calendarproperties.cache3.label                   "Suport offline">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
@@ -368,8 +369,8 @@
 <!ENTITY calendar.error.title "A apărut o eroare">
 
 <!-- Extract buttons in message header -->
-<!ENTITY calendar.extract.event.button         "Add as event">
-<!ENTITY calendar.extract.task.button          "Add as task">
-<!ENTITY calendar.extract.event.button.tooltip "Extract calendaring information from the message and add it to your calendar as an event">
-<!ENTITY calendar.extract.task.button.tooltip  "Extract calendaring information from the message and add it to your calendar as a task">
+<!ENTITY calendar.extract.event.button         "Adaugă ca eveniment">
+<!ENTITY calendar.extract.task.button          "Adaugă ca sarcină">
+<!ENTITY calendar.extract.event.button.tooltip "Extrage informații de tip calendar din mesaj și le adaugă în calendar ca un eveniment">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrage informații de tip calendar din mesaj și le adaugă în calendar ca o sarcină">
 
