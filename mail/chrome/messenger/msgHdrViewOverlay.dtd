@@ -6,6 +6,7 @@
 # Laudatti <Laudatti@gmail.com>
 # secarica <orice@secarica.ro>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # nicubunu <nicubunu@gmail.com>
 #
 -->
@@ -14,6 +15,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -24,19 +26,19 @@
 <!ENTITY fromField4.label "De la">
 <!ENTITY senderField4.label "Expeditor">
 <!ENTITY organizationField4.label "Organizația">
-<!ENTITY replyToField4.label "Reply to">
+<!ENTITY replyToField4.label "Răspuns la">
 
 <!ENTITY subjectField4.label "Subiect">
 <!ENTITY ccField4.label "Copie">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Grupuri de știri">
-<!ENTITY followupToField4.label "Followup to">
+<!ENTITY followupToField4.label "Răspundeți la">
 <!ENTITY tagsHdr4.label "Etichete">
 <!ENTITY dateField4.label "Data">
 <!ENTITY userAgentField4.label "Agent utilizator">
 <!ENTITY referencesField4.label "Referințe">
 <!ENTITY messageIdField4.label "ID mesaj">
-<!ENTITY inReplyToField4.label "In reply to">
+<!ENTITY inReplyToField4.label "Ca răspuns la">
 <!ENTITY originalWebsite4.label "Sait web">
 
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
@@ -45,7 +47,7 @@
 <!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
 <!ENTITY hdrSmartReplyButton1.label "Răspuns rapid">
 <!ENTITY hdrReplyButton1.label "Răspunde">
-<!ENTITY hdrReplyButton2.tooltip "Reply to the sender of this message">
+<!ENTITY hdrReplyButton2.tooltip "Răspunde expeditorului acestui mesaj">
 <!ENTITY hdrReplyAllButton1.label "Răspunde tuturor">
 <!ENTITY hdrReplyAllButton1.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">

@@ -8,6 +8,7 @@
 # Marin Bînzari <spartakusmd@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
 # janimo <jani@ubuntu.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -15,6 +16,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -39,7 +41,7 @@
 <!ENTITY quickMode.accesskey         "u">
 
 <!ENTITY locationValidate.label      "Validează">
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">
@@ -51,7 +53,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportă">
 <!ENTITY button.exportOPML.accesskey "x">
-<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+<!ENTITY button.exportOPML.tooltip   "Exportați fluxuri cu structură de dosar; ctrl clic sau ctrl enter pentru a exporta fluxuri ca o listă">
 
 <!ENTITY cmd.close.commandKey        "w">
 

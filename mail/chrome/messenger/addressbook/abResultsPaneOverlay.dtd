@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -40,8 +42,8 @@
 <!ENTITY HomePhone.accesskey                   "a">
 <!ENTITY WorkPhone.label                       "Telefon serviciu">
 <!ENTITY WorkPhone.accesskey                   "s">
-<!ENTITY ChatName.label                        "Chat Name">
-<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY ChatName.label                        "Nume conversație">
+<!ENTITY ChatName.accesskey                    "n">
 <!ENTITY sortAscending.label                   "Crescător">
 <!ENTITY sortAscending.accesskey               "C">
 <!ENTITY sortDescending.label                  "Descrescător">

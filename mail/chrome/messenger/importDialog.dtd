@@ -5,6 +5,7 @@
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # petrescs <petrescs@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -50,7 +51,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Odată importate, le veți putea accesa din  &brandShortName; și/sau agenda de contacte.">
 
 <!ENTITY selectDescription.label  "Vă rog alegeți programul din care doriți să importați:">
-<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
+<!ENTITY selectDescriptionB.label "Vă rugăm selectați un cont existent sau creați un cont nou:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nume:">
 <!ENTITY acctName.accesskey       "n">

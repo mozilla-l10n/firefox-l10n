@@ -4,6 +4,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # adiroiban <adiroiban@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
@@ -11,6 +12,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -34,7 +36,7 @@
 <!ENTITY subscribeImapFolders.label   "Gestionează abonamentele la dosare">
 <!ENTITY settingsLink.label           "Vezi setările acestui cont">
 <!ENTITY newAcctLink.label            "Creează un cont nou">
-<!ENTITY newAcct.label                "Create a new account:">
+<!ENTITY newAcct.label                "Creați un cont nou:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Opțiuni avansate">
 <!ENTITY searchMsgsLink.label         "Caută mesaje">

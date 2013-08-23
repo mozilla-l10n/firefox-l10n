@@ -60,10 +60,10 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Cont de conversație…">
 <!ENTITY newIMAccountCmd.accesskey "c">
-<!ENTITY newFeedAccountCmd.label "Feed Account…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newFeedAccountCmd.label "Cont de flux…">
+<!ENTITY newFeedAccountCmd.accesskey "f">
+<!ENTITY newIMContactCmd.label "Contact conversație…">
+<!ENTITY newIMContactCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "Salvează ca">
@@ -460,9 +460,9 @@
 <!ENTITY openAttachmentListCmd.accesskey "t">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
 <!ENTITY openFeedMessage1.accesskey "O">
-<!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY openFeedWebPage.label "Deschide ca pagină web">
 <!ENTITY openFeedWebPage.accesskey "W">
-<!ENTITY openFeedSummary.label "Open as Summary">
+<!ENTITY openFeedSummary.label "Deschide ca sumar">
 <!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Alternează pagina web și sumarul în panoul de mesaj">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
@@ -488,7 +488,7 @@
 <!ENTITY imStatus.unavailable        "Indisponibil">
 <!ENTITY imStatus.offline            "Neconectat">
 <!ENTITY imStatus.showAccounts       "Afișează conturile…">
-<!ENTITY joinChatCmd.label "Join Chat…">
+<!ENTITY joinChatCmd.label "Conectează-te la chat…">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Fișiere salvate">
 <!ENTITY savedFiles.accesskey "l">
@@ -517,7 +517,7 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "r">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
+<!ENTITY allowRemoteDebugging.label "Permite depanarea de la distanță">
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
@@ -588,11 +588,11 @@
 <!ENTITY chatButton.tooltip "Afișare fila Conversație">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
-<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+<!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
-<!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
+<!ENTITY buttonMenuForwardAsAttachment.label "Redirecționați ca atașament">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Mesaj nou">
@@ -600,13 +600,13 @@
 <!ENTITY appmenuEditMenu.label "Editare">
 <!ENTITY appmenuQFBMenu.label "Bară de filtrare rapidă">
 <!ENTITY appmenuToolbarLayout.label "Aranjamentul barei de unelte…">
-<!ENTITY appmenuSelectThread.label "Select Thread">
-<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
+<!ENTITY appmenuSelectThread.label "Selectează firul">
+<!ENTITY appmenuSelectFlagged.label "Selectează mesajele cu steluță">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etichetă nouă…">
 <!ENTITY addNewTag.accesskey "n">
-<!ENTITY manageTags.label "Manage Tags…">
+<!ENTITY manageTags.label "Gestionează tagurile…">
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
@@ -818,7 +818,7 @@
 <!ENTITY contextUnmute.accesskey "A">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
+<!ENTITY junkBarMessage2.label "&brandShortName; crede că acest mesaj este spam.">
 <!ENTITY junkBarButton1.label "Nu e nesolicitat">
 <!ENTITY junkInfoButton.label "?">
 

@@ -3,12 +3,14 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -16,5 +18,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceeds2GB.title   "YouSendIt">
 <!ENTITY fileExceeds2GB.cancel "Ok">
-<!ENTITY fileExceeds2GB.description "Sending files over 2GB is not supported.">
+<!ENTITY fileExceeds2GB.description "Trimiterea fișierelor de peste 2GB nu este suportată.">
 

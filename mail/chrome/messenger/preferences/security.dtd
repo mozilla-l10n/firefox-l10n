@@ -5,6 +5,7 @@
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -12,6 +13,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -35,7 +37,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "t">
 <!ENTITY markAsReadOnSpam.label "Marchează mesajele detectate ca nesolicitate ca fiind citite">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
+<!ENTITY enableAdaptiveJunkLogging.label "Activează jurnalizarea filtrării adaptive de mesaje nesolicitate">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Arată jurnalul">
 <!ENTITY openJunkLog.accesskey "A">

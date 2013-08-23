@@ -5,12 +5,14 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # strainu <narro@strainu.ro>
 # Nicu <kneekoo@yahoo.com>
+# ed62 <eduard.pintilie@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -37,8 +39,8 @@
 <!ENTITY calendar.subscribe.label                          "Abonare la un calendar aflat la distanță…">
 <!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.synccalendars.label                      "Synchronize Calendars">
-<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.label                      "Sincronizare Calendare">
+<!ENTITY calendar.synccalendars.key                        "S">
 <!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "Publică calendarul…">

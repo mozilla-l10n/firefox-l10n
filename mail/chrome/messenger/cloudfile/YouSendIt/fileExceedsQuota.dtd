@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -9,17 +10,18 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "YouSendIt">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Storage limit reached">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Limita de stocare atinsă">
 <!ENTITY fileExceedsQuota.accept "Actualizare">
 <!ENTITY fileExceedsQuota.cancel "Revocare">
-<!ENTITY fileExceedsQuota.description "You have reached your account storage limit of 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Your current storage usage is #XXX GB.">
-<!ENTITY fileExceedsQuota.description2 "Upgrade today to Pro Plus account and get more storage.">
-<!ENTITY fileExceedsQuota.description3 "You can also choose to delete files in your account to create more space.">
+<!ENTITY fileExceedsQuota.description "Ați atins limita dumneavoastră de stocare a contului de 2GB.">
+<!ENTITY fileExceedsQuota.description1 "Utilizarea dumneavoastră de stocare actuală este de #XXX GB.">
+<!ENTITY fileExceedsQuota.description2 "Treceți astăzi la un cont Pro Plus și obțineți mai mult spațiu.">
+<!ENTITY fileExceedsQuota.description3 "Puteți și să alegeți să ștergeți fișiere din contul dumneavoastră pentru a crea mai mult spațiu.">
 
