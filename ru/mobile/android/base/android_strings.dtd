@@ -4,10 +4,10 @@
 
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
-<!ENTITY awesomebar_all_pages_title "Топ сайтов">
-<!ENTITY awesomebar_bookmarks_title "Закладки">
-<!ENTITY awesomebar_history_title "История">
-<!ENTITY awesomebar_switch_to_tab "Перейти на вкладку">
+<!ENTITY bookmarks_title "Закладки">
+<!ENTITY history_title "История">
+<!ENTITY reading_list_title "Список для чтения">
+<!ENTITY switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
 <!ENTITY crash_send_report_message3 "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить">
@@ -24,9 +24,7 @@
 <!ENTITY launcher_shortcuts_title "Веб-приложения &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
 <!ENTITY choose_file "Выбор файла">
-<!ENTITY awesomebar_default_text "Введите поиск или адрес">
-<!ENTITY remote_tabs "Синхронизированные вкладки">
-<!ENTITY remote_tabs_show_all "Показать все вкладки">
+<!ENTITY url_bar_default_text "Введите поисковый запрос или адрес">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
@@ -166,8 +164,7 @@
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
 <!ENTITY contextmenu_open_private_tab "Открыть в приватной вкладке">
 <!ENTITY contextmenu_open_in_reader "Открыть для чтения">
-<!ENTITY contextmenu_remove_history "Удалить">
-<!ENTITY contextmenu_remove_bookmark "Удалить">
+<!ENTITY contextmenu_remove "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
 <!ENTITY contextmenu_pasteandgo "Вставить и перейти">
@@ -176,10 +173,14 @@
 <!ENTITY contextmenu_edit_bookmark "Изменить">
 <!ENTITY contextmenu_subscribe "Подписаться на страницу">
 <!ENTITY contextmenu_site_settings "Изменить параметры сайта">
+<!ENTITY contextmenu_top_bookmarks_edit "Изменить">
+<!ENTITY contextmenu_top_bookmarks_pin "Закрепить сайт">
+<!ENTITY contextmenu_top_bookmarks_unpin "Открепить сайт">
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
 <!ENTITY history_removed "Страница удалена">
+<!ENTITY bookmark_add "Добавить закладку">
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
@@ -188,7 +189,6 @@
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
-<!ENTITY reading_list "Список для чтения">
 <!ENTITY reading_list_added "Страница добавлена в ваш Список для чтения">
 <!ENTITY reading_list_removed "Страница удалена из вашего Списка для чтения">
 <!ENTITY reading_list_failed "Не удалось добавить страницу в ваш Список для чтения">
@@ -205,18 +205,17 @@
 <!ENTITY button_clear_data "Удалить данные">
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
-<!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
-<!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
-<!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
-<!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
-<!ENTITY abouthome_top_sites_title "Топ сайтов">
-<!ENTITY abouthome_topsites_edit "Изменить">
-<!ENTITY abouthome_topsites_pin "Закрепить сайт">
-<!ENTITY abouthome_topsites_unpin "Открепить сайт">
-<!ENTITY abouthome_about_sync3 "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств »">
-<!ENTITY abouthome_about_apps3 "Загрузите приложения из магазина Firefox и откройте для себя всё самое лучшее, что может предложить Интернет »">
-<!ENTITY abouthome_sync_bold_name "Firefox Sync">
-<!ENTITY abouthome_apps_bold_name2 "Магазин Firefox">
+<!ENTITY home_history_title "История">
+<!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
+<!ENTITY home_last_tabs_open "Открыть все вкладки с прошлого раза">
+<!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
+<!ENTITY home_most_recent_title "Недавно посещённые">
+<!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
+<!ENTITY home_most_visited_title "Часто посещаемые">
+<!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
+<!ENTITY home_reading_list_hint "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на значок &#037;I, когда он появится в строке заголовка.">
+<!ENTITY home_most_visited_empty "Чаще всего посещаемые вами веб-сайты появятся здесь.">
+<!ENTITY pin_bookmark_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
