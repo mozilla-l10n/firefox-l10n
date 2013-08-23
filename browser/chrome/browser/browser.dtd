@@ -453,9 +453,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "o">
 <!ENTITY emailAudioCmd.label          "Pošlji zvok po e-pošti …">
 <!ENTITY emailAudioCmd.accesskey      "o">
-<!ENTITY playPluginCmd.label          "Omogoči vstavek">
+<!ENTITY playPluginCmd.label          "Omogoči vtičnik">
 <!ENTITY playPluginCmd.accesskey      "m">
-<!ENTITY hidePluginCmd.label          "Skrij vstavek">
+<!ENTITY hidePluginCmd.label          "Skrij vtičnik">
 <!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "i">
@@ -698,4 +698,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Dovoli zdaj">
 <!ENTITY pluginActivateAlways.label "Dovoli in si zapomni">
-<!ENTITY pluginBlockNow.label "Zavrni vstavek">
+<!ENTITY pluginBlockNow.label "Zavrni vtičnik">
