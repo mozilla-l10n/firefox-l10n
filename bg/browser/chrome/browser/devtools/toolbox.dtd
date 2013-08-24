@@ -7,40 +7,89 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip    "Затваряне на инструментите за разработчици">
 <!ENTITY toolboxOptionsButton.key      "O">
-<!-- LOCALIZATION NOTE (options.context.label): This is the label for the
-  -  heading of the group of two about:config preferences to toggle chrome
-  -  and remote debugging in the options panel. -->
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
+<!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
+  -  the heading of the advanced settings group in the options panel. -->
 
-<!ENTITY options.context.label         "Advanced settings (requires a browser restart)">
-<!-- LOCALIZATION NOTE (options.enableChrome.label): This is the label for the
+<!ENTITY options.context.advancedSettings "Настройки за напреднали">
+<!-- LOCALIZATION NOTE (options.context.requiresRestart2): This is the requires
+  -  restart label at right of settings that require a browser restart to be
+  -  effective. -->
+
+<!ENTITY options.context.requiresRestart2  "Изисква рестартиране на браузъра">
+<!-- LOCALIZATION NOTE (options.restartButton.label): This is the label for the
+  -  restart button next to options.context.requiresRestart2 label. -->
+
+<!ENTITY options.restartButton.label  "Рестартиране сега">
+<!-- LOCALIZATION NOTE (options.context.triggersPageRefresh2): This is the
+  -  triggers page refresh label next to the settings in the advanced settings
+  -  group in the options panel which trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh2  "Само на текущата сесия, презарежда страницата">
+<!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label    "Enable chrome debugging">
-<!ENTITY options.enableChrome.tooltip  "Turning this option on will allow you to use various developer tools in browser context">
-<!-- LOCALIZATION NOTE (options.enableRemote.label): This is the label for the
+<!ENTITY options.enableChrome.label3    "Активиране на дебъгването на хрома">
+<!ENTITY options.enableChrome.tooltip   "Активирането на тази настройка ще ви позволи в контекста на браузъра да използвате различните инструменти за разработчици">
+<!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableRemote.label    "Enable remote debugging">
-<!ENTITY options.enableRemote.tooltip  "Turning this option on will allow the developer tools to debug remote Firefox instance like Firefox OS">
+<!ENTITY options.enableRemote.label3    "Активиране на отдалеченото дебъгване">
+<!ENTITY options.enableRemote.tooltip   "Активирането на тази настройка ще ви позволи да използвате инструментите за разработчици за дебъгване на отдалечени инстанции на Firefox, като напр. Firefox OS">
+<!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
+  -  options.disableJavaScript.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label2    "Деактивиране на JavaScript">
+<!ENTITY options.disableJavaScript.tooltip   "Активирането на тази настройка ще изключи JavaScript в текущия подпрозорец. Ако подпрозореца или кутията с инструменти се затворят, тази настройка ще бъде забравена.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label     "Default Firefox Developer Tools">
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!ENTITY options.selectDefaultTools.label     "Стандартни инструменти за разработчици на Firefox.">
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Developer Tools installed by add-ons">
+<!ENTITY options.selectAdditionalTools.label  "Инструменти за разработчици, инсталирани от добавки">
+<!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
+  -  the explanation of the * marker on a tool which is currently not supported
+  -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "* Не се поддържа от назначението на текущата кутия с инструменти">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "Choose DevTools theme:">
-<!ENTITY options.darkTheme.label             "Dark theme">
-<!ENTITY options.lightTheme.label            "Light theme">
+<!ENTITY options.selectDevToolsTheme.label   "Избор на тема на DevTools:">
+<!ENTITY options.darkTheme.label             "Тъмна тема">
+<!ENTITY options.lightTheme.label            "Светла тема">
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "Уеб конзола">
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+
+<!ENTITY options.enablePersistentLogging.label    "Активиране на постоянните журнали">
+<!ENTITY options.enablePersistentLogging.tooltip  "Ако активирате тази настройка, уеб конзолата няма да изчиства изхода при всяко отиване на нова страница">
+<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
+  -  heading of the group of JavaScript Profiler preferences in the options
+  -  panel. -->
+
+<!ENTITY options.profiler.label            "Профилатор на JavaScript">
+<!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
+  -  label for the checkbox that toggles the display of the platform data in the,
+  -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
+  -  in about:config, in the options panel. -->
+
+<!ENTITY options.showPlatformData.label    "Показване на платформените данни на Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ако активирате тази настройка, докладите на профилаторът на JavaScript ще включват символите на платформата на Gecko">

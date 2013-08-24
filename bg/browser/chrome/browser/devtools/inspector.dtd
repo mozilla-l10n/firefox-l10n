@@ -1,16 +1,16 @@
-<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+<!ENTITY inspectorHTMLCopyInner.label       "Копиране на вътрешния HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "р">
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+<!ENTITY inspectorHTMLCopyOuter.label       "Копиране на външния HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "в">
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
+<!ENTITY inspectorCopyUniqueSelector.label       "Копиране на уникалния селектор">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "у">
 
-<!ENTITY inspectorHTMLDelete.label          "Delete Node">
-<!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!ENTITY inspectorHTMLDelete.label          "Изтриване на възела">
+<!ENTITY inspectorHTMLDelete.accesskey      "И">
 
-<!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
+<!ENTITY inspector.selectButton.tooltip     "Изберете елемент с мишката">
 
-<!ENTITY inspectorSearchHTML.label          "Search HTML">
+<!ENTITY inspectorSearchHTML.label          "Търсене на HTML">
 <!ENTITY inspectorSearchHTML.key            "F">
