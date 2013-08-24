@@ -214,6 +214,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY remoteWebConsoleCmd.label    "คอนโซลเว็บระยะไกล">
 
 <!ENTITY browserConsoleCmd.label      "คอนโซลเบราว์เซอร์">
+<!ENTITY browserConsoleCmd.commandkey "j">
+<!ENTITY browserConsoleCmd.accesskey  "บ">
 
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
@@ -666,3 +668,40 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "เว็บไซต์ส่วนใหญ่จะทำงานอย่างถูกต้องแม้กระทั่งเนื้อหาถูกปิดกั้น">
 
 <!ENTITY pointerLock.notification.message "กด ESC ได้ตลอดเวลาเพื่อแสดงอีกครั้ง">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "ตัวดีบักเบราเซอร์">
+
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บด้านขวา">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ข">
+
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
+<!ENTITY fullscreenExitHint2.value "กด ESC เพื่อออก">
+
+<!ENTITY identity.permissions "การอนุญาต">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "อนุญาตทันที">
+<!ENTITY pluginActivateAlways.label "อนุญาตและจำไว้">
+<!ENTITY pluginBlockNow.label "ปิดกั้นโปรแกรมเสริม">
+
+<!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
+<!ENTITY pluginNotification.showAll.accesskey "ม">
+
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "ยกเลิกการปิดแท็บ">
+
+<!ENTITY viewImageDescCmd.label       "ดูคำอธิบาย">
+<!ENTITY viewImageDescCmd.accesskey   "ย">
