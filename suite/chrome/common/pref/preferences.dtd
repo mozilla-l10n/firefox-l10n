@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label "Hovedpassord">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Sertifikater">
-<!ENTITY validation.label "Validering">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avansert">
 <!ENTITY down.label "Nedlasting">

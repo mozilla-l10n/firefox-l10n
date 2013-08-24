@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "T">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Hent nye">
+<!ENTITY getMsgButton1.label "Hent meldinger">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar alle">

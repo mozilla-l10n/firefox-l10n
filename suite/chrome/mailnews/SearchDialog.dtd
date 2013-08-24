@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "ø">
 <!ENTITY searchSubfolders.label      "Søk i undermapper">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchLocalSystem.label     "Søk i lokalt system">
-<!ENTITY searchLocalSystem.accesskey "k">
+<!ENTITY searchOnHeading.label       "Utfør søkeoperasjoner på:">
+<!ENTITY searchOnHeading.accesskey   "U">
+<!ENTITY searchOnRemote.label        "Ekstern tjener">
+<!ENTITY searchOnLocal.label         "Lokalt system">
 <!ENTITY resetButton.label           "Tilbakestill">
 <!ENTITY resetButton.accesskey       "T">
 <!ENTITY openButton.label            "Åpne">
