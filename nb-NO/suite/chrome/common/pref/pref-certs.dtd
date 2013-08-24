@@ -15,3 +15,9 @@
 
 <!ENTITY  pref.certs.title         "Sertifikater">
 <!ENTITY  certs.label              "Sertifikater">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "Bruk Online Certificate Status Protocol (OCSP) for å bekrefte gyldigheten til sertifikater">
+<!ENTITY enableOCSP.accesskey                     "B">
+<!ENTITY validation.requireOCSP.description       "Når tilkoblingen til en OCSP-tjener feiler, vurder sertifikatet som ugyldig">
+<!ENTITY validation.requireOCSP.accesskey         "N">
