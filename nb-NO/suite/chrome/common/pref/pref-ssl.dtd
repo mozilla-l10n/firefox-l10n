@@ -8,10 +8,16 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Valg av klientsertifikat">
 
 <!ENTITY pref.ssl.title                     "Sikker tilkobling (SSL)">
-<!ENTITY enable.ssl30.label                 "Tillat SSL 3.0">
-<!ENTITY enable.ssl30.accesskey             "3">
-<!ENTITY enable.tls10.label                 "Tillat TLS 1.0">
-<!ENTITY enable.tls10.accesskey             "T">
+<!ENTITY limit.description                  "Du kan begrense hvilke krypteringsprotokoller som brukes på si8kre tilkoblinger. Velg en enkelt versjon, eller et versjonsområde.">
+<!ENTITY limit.enable.label                 "Tillat:">
+<!ENTITY limit.ssl30.label                  "SSL 3.0">
+<!ENTITY limit.ssl30.accesskey              "3">
+<!ENTITY limit.tls10.label                  "TLS 1.0">
+<!ENTITY limit.tls10.accesskey              "T">
+<!ENTITY limit.tls11.label                  "TLS 1.1">
+<!ENTITY limit.tls11.accesskey              "1">
+<!ENTITY limit.tls12.label                  "TLS 1.2">
+<!ENTITY limit.tls12.accesskey              "2">
 
 <!ENTITY warn.description                   "&brandShortName; kan varsle deg når sikkerhetsstatusen til nettsiden du viser endres. Sett &brandShortName; til å vise en advarsel og be om tillatelse før:">
 <!ENTITY warn.enteringsecure                "Innlasting av en side som støtter kryptering">

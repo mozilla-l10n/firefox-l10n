@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Konfigurer din &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Vi oppdaterer bokmerkene og historikken din, som kan ta en liten stund.">
-
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
 
@@ -16,11 +13,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message2 "&brandShortName; fikk et problem og krasjet. Faner som var åpne vil være tilgjengelig på &brandShortName; sin Startside etter du starter på nytt.">
-<!ENTITY  crash_send_report_message2 "Fortell Mozilla om dette krasjet så de kan rette det">
+<!ENTITY  crash_send_report_message3 "Fortell &vendorShortName; om dette krasjet så de kan rette det">
 <!ENTITY  crash_include_url2 "Inkluder adressen til nettstedet problemet oppstod på">
 <!ENTITY  crash_sorry "Vi beklager">
 <!ENTITY  crash_comment "Legg til en kommentar (kommentarer er offentlig synlige)">
-<!ENTITY  crash_allow_contact "Tillat Mozilla å kontakte meg om denne rapporten">
+<!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakte meg om denne rapporten">
 <!ENTITY  crash_email "Din e-postadresse">
 <!ENTITY  crash_closing_alert "Avslutt uten å sende krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
@@ -42,6 +39,7 @@
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjernet">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
+<!ENTITY bookmark_options "Innstillinger">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -66,20 +64,26 @@
 
 <!ENTITY settings "Innstillinger">
 <!ENTITY settings_title "Innstillinger">
-<!ENTITY pref_category_general "Generelt">
-<!ENTITY pref_category_privacy "Personvern og sikkerhet">
-<!ENTITY pref_category_content "Innhold">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data-innstillinger">
-<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_category_advanced "Avansert">
+<!ENTITY pref_category_customize "Tilpass">
+<!ENTITY pref_category_search2 "Søkeinnstillinger">
+<!ENTITY pref_category_display "Visning">
+<!ENTITY pref_category_privacy_short "Personvern">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Datavalg">
+<!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
+<!ENTITY pref_category_devtools "Utviklerverktøy">
+<!ENTITY pref_developer_remotedebugging "Ekstern debugging">
+<!ENTITY pref_developer_remotedebugging_docs "Les mer">
 <!ENTITY pref_remember_signons "Husk passord">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Generelt">
-<!ENTITY pref_header_privacy "Personvern og sikkerhet">
-<!ENTITY pref_header_content "Innhold">
+<!ENTITY pref_header_customize "Tilpass">
+<!ENTITY pref_header_display "Vis">
+<!ENTITY pref_header_privacy_short "Personvern">
+<!ENTITY pref_header_help "Hjelp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Utviklerverktøy">
 
 <!ENTITY pref_cookies_menu "Infokapsler">
 <!ENTITY pref_cookies_accept_all "Påslått">
@@ -100,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å starte">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
-<!ENTITY pref_reflow_on_zoom2 "Klyp oppdaterer tekstflyt">
+<!ENTITY pref_reflow_on_zoom4 "Oppdatering av tekstflyt">
+<!ENTITY pref_restore "Faner">
+<!ENTITY pref_restore_always "Alltid gjenopprett">
+<!ENTITY pref_restore_crash "Gjenopprett etter krasj">
+<!ENTITY pref_restore_never "Aldri gjenopprett">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
@@ -132,26 +140,35 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nettstedsinnstillinger">
 <!ENTITY pref_private_data_downloadFiles "Nedlastede filer">
 
+
+<!ENTITY pref_about_firefox "Om &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_feedback "Gi tilbakemelding">
+
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
+<!ENTITY datareporting_notification_action_long "Velg hvilken info som deles">
 <!ENTITY datareporting_notification_action "Velg hva du vil dele">
 <!ENTITY datareporting_notification_summary "For å gi deg en bedre opplevelse vil &brandShortName; automatisk sende noe info til &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "For å gi deg en bedre opplevelse din vil &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Helserapport">
-<!ENTITY datareporting_fhr_summary "Hjelper deg å forstå ytelsen til nettleseren, og sender forskjellig info til &vendorShortName; om helsen til nettleseren din">
+<!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettleserens helse, og hjelper deg å forstå ytelsen til nettleseren">
+<!ENTITY datareporting_abouthr_title "Vis helserapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Sender info om ytelse, bruksmønster, maskinvare og tilpasninger i nettleseren til &vendorShortName;, for å hjelpe oss gjøre &brandShortName; bedre">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapporter for å hjelpe &vendorShortName; med å gjøre nettleseren mer stabil og sikker">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Krasjrapportering">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
+<!ENTITY datareporting_wifi_title "&vendorShortName; stedsangivelse">
+<!ENTITY datareporting_wifi_summary "Hjelp å forbedre geolokasjonstjenester for den åpne verdensveven ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
 
 <!ENTITY pref_update_autodownload "Automatiske oppdateringer">
 <!ENTITY pref_update_autodownload_wifi "Bare over Wi-Fi">
@@ -178,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
-<!ENTITY wallpaper_success "Skrivebordsbakgrunn oppdatert">
-<!ENTITY wallpaper_progress "Setter skrivebordsbakgrunn">
-<!ENTITY wallpaper_fail "Klarte ikke sette skrivebordsbakgrunn">
+<!ENTITY set_image_fail "Klarte ikke sette bilde">
+<!ENTITY set_image_chooser_title "Sett bilde som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -226,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Siden er fjernet fra leselisten">
 <!ENTITY reading_list_failed "Klarte ikke legge til siden i leselisten">
 <!ENTITY reading_list_duplicate "Siden er allerede i leselisten">
-<!ENTITY reader "Leser">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Flere handlinger">
 
 <!ENTITY masterpassword_create_title "Lag et hovedpassord">
 <!ENTITY masterpassword_remove_title "Fjern hovedpassordet">
@@ -284,6 +303,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som drives av">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Denne siden viser innhold som ikke er sikret.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhold som ikke er sikret.">
+<!ENTITY blocked_mixed_content_message_bottom "De fleste nettsted vil fortsatt virke selv om dette innholdet blokkeres.">
+<!ENTITY learn_more "Les mer">
+<!ENTITY enable_protection "Slå på beskyttelse">
+<!ENTITY disable_protection "Slå av beskyttelse">
+<!ENTITY keep_blocking "Fortsett blokkering">
+
 <!ENTITY private_data_success "Privat data slettet">
 <!ENTITY private_data_fail "Klarte ikke slette noen av de privata dataene">
 
@@ -304,14 +332,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmerker og historikk">
 
+<!ENTITY devtools_remote_debugging_forward "Ikke glem å konfigurere port-forwarding!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Oppdateringer er tilgjengelige for &brandShortName;">
 <!ENTITY updater_start_select2 "Trykk for å laste ned">
- 
+
 <!ENTITY updater_downloading_title2 "Laster ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feilet">
 <!ENTITY updater_downloading_select2 "Trykk for å installere når ferdig nedlastet">
 <!ENTITY updater_downloading_retry2 "Trykk for å prøve igjen">
- 
+
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengelig for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatere">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Ny gjesteøkt">
+<!ENTITY exit_guest_session "Avslutt gjesteøkt">
+<!ENTITY guest_session_dialog_continue "Fortsett">
+<!ENTITY guest_session_dialog_cancel "Avbryt">
+<!ENTITY new_guest_session_title "&brandShortName; vil nå starte på nytt">
+<!ENTITY new_guest_session_text "Personen som bruker den vil ikke se noen av dine nettleserdata (som lagrede passord, historikk eller bokmerker).\n\nNår gjesten er ferdig vil deres nettleserdata slettes, og din nettleserøkt vil gjenopprettes.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; vil nå starte på nytt">
+<!ENTITY exit_guest_session_text "Nettleserdata fra denne økten vil bli slettet.">

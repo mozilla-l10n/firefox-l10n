@@ -93,6 +93,7 @@
 <!ENTITY  permImage             "Laste inn bilder">
 <!ENTITY  permPopup             "Åpne sprettoppvinduer">
 <!ENTITY  permCookie            "Sette infokapsler">
+<!ENTITY  permNotifications     "Vis varsler">
 <!ENTITY  permInstall           "Installere utvidelser og temaer">
 <!ENTITY  permGeo               "Oppgi sted">
 

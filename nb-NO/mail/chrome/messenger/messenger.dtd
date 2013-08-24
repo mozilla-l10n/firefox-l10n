@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Nettpratkonto …">
 <!ENTITY newIMAccountCmd.accesskey "N">
+<!ENTITY newFeedAccountCmd.label "Nyhetskildekonto …">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "K">
+<!ENTITY allowRemoteDebugging.label "Tillat ekstern debugging">
+<!ENTITY allowRemoteDebugging.accesskey "T">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Svar til avsender og alle mottakere">
 <!ENTITY replyListButton.tooltip "Svar til e-postliste">
 <!ENTITY forwardButton.tooltip "Videresend valgt melding">
+<!ENTITY forwardAsInline.tooltip "Videresend valgt melding som innbundet tekst">
+<!ENTITY forwardAsAttachment.tooltip "Videresend valgt melding som et vedlegg">
 <!ENTITY fileButton.tooltip "Arkiver valgt melding">
 <!ENTITY archiveButton.tooltip "Arkiver valgt melding">
 <!ENTITY nextButton.tooltip "Gå til neste uleste melding">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Videresend innbundet">
+<!ENTITY buttonMenuForwardAsAttachment.label "Videresend som vedlegg">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meldinger">
 <!ENTITY folderContextGetMessages.accesskey "H">
-<!ENTITY folderContextOpenNewWindow.label "Åpne">
-<!ENTITY folderContextOpenNewWindow.accesskey "Å">
+<!ENTITY folderContextOpenInNewWindow.label "Åpne i nytt vindu">
+<!ENTITY folderContextOpenInNewWindow.accesskey "Å">
 <!ENTITY folderContextOpenNewTab.label "Åpne i ny fane">
 <!ENTITY folderContextOpenNewTab.accesskey "p">
 <!ENTITY folderContextNew.label "Ny undermappe …">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "r">
 <!ENTITY contextForward.label "Videresend">
 <!ENTITY contextForward.accesskey "V">
-<!ENTITY contextForwardAsAttachment.label "Videresend som vedlegg">
-<!ENTITY contextForwardAsAttachment.accesskey "d">
+<!ENTITY contextForwardAsMenu.label "Videresend som">
+<!ENTITY contextForwardAsMenu.accesskey "r">
+<!ENTITY contextForwardAsInline.label "Innbundet">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Vedlegg">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "V">
+<!ENTITY contextMultiForwardAsAttachment.label "Videresend som vedlegg">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "d">
 <!ENTITY contextMoveMsgMenu.label "Flytt til">
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Sist brukt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Ignorer tråd">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignorer undertråd">
+<!ENTITY contextWatchThreadMenu.label "Overvåk tråd">
 <!ENTITY contextSaveAs.label "Lagre som …">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "Skriv ut …">

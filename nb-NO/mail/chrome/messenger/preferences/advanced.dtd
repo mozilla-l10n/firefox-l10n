@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Vis sertifikater">
 <!ENTITY viewCertificates.accesskey     "V">
-<!ENTITY viewCRLs.label                 "Tilbakekalling">
-<!ENTITY viewCRLs.accesskey             "T">
 <!ENTITY validation.label               "Validering">
 <!ENTITY validation.accesskey           "a">
 <!ENTITY viewSecurityDevices.label      "Sikkerhetsenheter">
