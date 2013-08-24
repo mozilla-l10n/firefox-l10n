@@ -11,7 +11,7 @@
 <!ENTITY header     "התחברות להתקן מרוחק">
 <!ENTITY host       "שרת מארח:">
 <!ENTITY port       "שער:">
-<!ENTITY connect    "">
+<!ENTITY connect    "התחברות">
 <!ENTITY connecting "התחברות…">
 <!ENTITY availableTabs "לשוניות מרוחקות זמינות:">
 <!ENTITY availableProcesses "תהליכים מרוחקים זמינים:">
