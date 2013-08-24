@@ -18,6 +18,11 @@
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateHistory "История на обновяванията">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показване на историята на обновяванията">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Директория на профила">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
