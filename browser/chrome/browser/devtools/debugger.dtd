@@ -49,10 +49,7 @@
 
 <!ENTITY debuggerUI.showOriginalSource      "แสดงแหล่งต้นฉบับ">
 <!ENTITY debuggerUI.showOriginalSource.key  "O">
-<!-- LOCALIZATION NOTE (debuggerUI.searchPanelTitle): This is the text that
-  -  appears in the filter panel popup as a description. -->
 
-<!ENTITY debuggerUI.searchPanelTitle    "เครื่ิองหมาย">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
@@ -74,11 +71,7 @@
 
 <!ENTITY debuggerUI.searchToken         "ค้นหา">
 <!ENTITY debuggerUI.searchToken.key     "F">
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
-  -  in the source editor's context menu for the line search operation. -->
 
-<!ENTITY debuggerUI.searchLine          "ไปที่บรรทัด…">
-<!ENTITY debuggerUI.searchLine.key      "J">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
@@ -122,8 +115,3 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
-
-<!ENTITY debuggerUI.stepping.resume     "VK_F6">
-<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
-<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
-<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
