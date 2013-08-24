@@ -13,7 +13,7 @@
 <!ENTITY file.close.label               "Lukk">
 <!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Vis">
+<!ENTITY views.label                    "Visning">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Endre visning">
 <!ENTITY view.columns.label             "Vis kolonner">
