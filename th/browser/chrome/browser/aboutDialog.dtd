@@ -79,3 +79,16 @@
 
 <!ENTITY channel.description.start  "คุณกำลังอยู่บนช่องทางปรับรุ่น ">
 <!ENTITY channel.description.end    "">
+
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "โปรเซสอื่นได้ทำการปรับรุ่น &brandShortName; แล้ว">
+
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "คุณไม่สามารถปรับรุ่นบนระบบนี้ได้ ">
+<!ENTITY update.unsupported.linkText "เรียนรู้เพิ่มเติม">
+<!ENTITY update.unsupported.end      "">
