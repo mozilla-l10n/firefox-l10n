@@ -126,3 +126,10 @@
 <!ENTITY verify2.accesskey               "ต">
 <!ENTITY viewSecurityDevices.label       "กลไกความปลอดภัย">
 <!ENTITY viewSecurityDevices.accesskey   "ก">
+
+<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAuto1.label               "ติดตั้งการปรับรุ่นอัตโนมัติ (แนะนำ: ช่วยเพื่อความปลอดภัย)">
+<!ENTITY updateAutoMetro.accesskey       "s">
+<!ENTITY updateAutoMetro.label           "ปรับรุ่นอัตโนมัติจากเครื่องตั้งโต๊ะและ &brandShortName; สำหรับ Windows 8">
+<!ENTITY updateAutoMetroWarn.label       "(&brandShortName; สำหรับ Windows 8 ไม่รองรับการตรวขสอบความเข้ากันได้ของส่วนเสริม)">
+
