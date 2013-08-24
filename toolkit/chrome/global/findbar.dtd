@@ -5,12 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-<!ENTITY next.tooltip "หาตำแหน่งถัดไปของคำค้น">
-<!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของคำค้น">
+<!ENTITY next.tooltip "หาตำแหน่งถัดไปของวลี">
+<!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของวลี">
 <!ENTITY findCloseButton.tooltip "ปิดแถบค้นหา">
 <!ENTITY highlightAll.label "แต้มสีทั้งหมด">
 <!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของคำค้นทั้งหมด">
+<!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของวลีทั้งหมด">
 <!ENTITY caseSensitive.label "ตรงทุกตัวอักษร">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงขนาดตัวอักษร">
