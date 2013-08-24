@@ -102,9 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "อ">
 <!ENTITY fullscreenAllowButton.label "อนุญาต">
 <!ENTITY fullscreenExitButton.label "ไม่อนุญาต">
-<!ENTITY fullscreenApproval.value "อนุญาตให้แสดงผลเต็มจอหรือไม่?">
 
-<!ENTITY fullscreenExitHint.value "กด ESC เมื่อจะออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.accesskey "ม">
 
@@ -195,8 +193,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "ใส่คำสำคัญเพื่อค้นหา…">
 <!ENTITY keywordfield.accesskey       "ค">
-<!ENTITY search.label                 "ค้นเว็บ">
-<!ENTITY search.accesskey             "ค">
 <!ENTITY downloads.label              "ดาวน์โหลด">
 <!ENTITY downloads.tooltip            "แสดงความคืบหน้าของการดาวน์โหลดที่ดำเนินอยู่">
 <!ENTITY downloads.accesskey          "ด">
@@ -315,7 +311,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
 <!ENTITY historyRestoreLastSession.label "เรียกคืนวาระที่แล้ว">
 
-<!ENTITY historyHomeCmd.label "หน้าแรก">
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
