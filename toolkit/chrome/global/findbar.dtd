@@ -1,12 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
-
 
 <!ENTITY next.tooltip "หาตำแหน่งถัดไปของคำค้น">
 <!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของคำค้น">
 <!ENTITY findCloseButton.tooltip "ปิดแถบค้นหา">
-<!ENTITY highlight.tooltiptext "ใช้สีเน้นคำที่เจอทั้งหมด">
+<!ENTITY highlightAll.label "แต้มสีทั้งหมด">
+<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของคำค้นทั้งหมด">
+<!ENTITY caseSensitive.label "ตรงทุกตัวอักษร">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงขนาดตัวอักษร">
