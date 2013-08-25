@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: เกี่ยวกับเบราว์เซอร์ของคุณ
+#define bookmarks_aboutBrowser Firefox: เกี่ยวกับเบราเซอร์ของคุณ
 
 
 
