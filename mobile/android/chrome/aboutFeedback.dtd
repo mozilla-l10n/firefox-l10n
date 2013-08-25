@@ -8,8 +8,8 @@
 
 <!ENTITY pageTitle                 "ปรับรุ่น &brandShortName;">
 
-<!ENTITY intro.message             "บอกเราว่าคุณคิดยังไงกับ &brandShortName; สำหรับ Android บ้าง">
-<!ENTITY intro.happyLink           "ฉันรักสิ่งนี้">
+<!ENTITY intro.message             "บอกเราว่าคุณคิดอย่างไรกับ &brandShortName; สำหรับ Android บ้าง">
+<!ENTITY intro.happyLink           "ฉันชอบมาก">
 <!ENTITY intro.sadLink             "ฉันใช้งานแล้วเกิดปัญหา">
 <!ENTITY intro.maybeLater          "ไว้ทีหลัง">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
