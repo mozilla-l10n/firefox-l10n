@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Ej stum">
 <!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaPlaybackRate.label        "Uppspelningshastighet">
+<!ENTITY mediaPlaybackRate.accesskey    "p">
+<!ENTITY mediaPlaybackRate050.label     "Slow Motion (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate100.label     "Normal hastighet">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Högre hastighet (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "H">
+<!ENTITY mediaPlaybackRate200.label     "Dubbel hastighet">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label      "Visa mediakontroller">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Dölj mediakontroller">
