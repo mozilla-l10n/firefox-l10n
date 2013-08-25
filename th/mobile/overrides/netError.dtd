@@ -36,7 +36,7 @@
 
 <!ENTITY malformedURI.title "รูปแบบที่ตั้งนี้ไม่ถูกต้อง">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>ที่ตั้งเว็บโดยทั่วไปจะอยู่ในรูป 
+<li>ที่อยู่เว็บโดยทั่วไปจะอยู่ในรูป 
 <strong>http://www.example.com/</strong></li> 
 <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับ (เช่น 
 <strong>/</strong>) ได้ถูกต้อง</li> 
