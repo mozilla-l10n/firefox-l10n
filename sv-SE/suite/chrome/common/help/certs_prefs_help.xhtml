@@ -73,7 +73,8 @@
   webbplatser och organisationer.</p>
 
 <p>För att undersöka eller konfigurera certifikat du har lagrade, klicka på
-  Hantera certifikat.</p>
+  Hantera certifikat. Läs <a href="using_certs_help.xhtml#managing_certificates">Managing
+     Certificates</a> för mer information om denna skärmbild.</p>
 
 <h3 id="manage_security_devices">Hantera säkerhetsenheter</h3>
 
@@ -83,7 +84,61 @@
   samtidigt som du använder andra säkerhetsenheter, som t.ex. smartkort.</p>
 
 <p>För att undersöka eller konfigurera dina säkerhetsenheter, klicka på Hantera
-  säkerhetsenheter.</p>
+  säkerhetsenheter.Läs <a href="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Hantera
+    Smart Cards och andra säkerhetsenheter</a> för mer information om denna skärmbild.</p>
+    
+<h3 id="ocsp">OCSP</h3>
 
+A certificate revocation list (CRL) is a list of revoked certificates that
+    is generated and signed by a
+    <a href="glossary.xhtml#certificate_authority">certificate authority (CA)</a>.
+
+<p>The Online Certificate Status Protocol (OCSP) gör det möjligt för
+  Certifikathanteraren att utföra en direktkontroll av ett certifikats
+  giltighet varje gång certifikatet visas eller används. Denna process
+  innefattar kontroll av certifikatet mot en spärrlista över indragna certifikat
+  (CRL), som upprätthålls på en särskild server. Din dator måste vara uppkopplad
+  för att OCSP ska fungera.</p>
+
+<p>För att ange hur Certifikathanteraren ska använda OCSP, välj en av dessa
+  inställningar i sektionen OCSP i inställningarna för Validering:</p>
+
+<ul>
+  <li><strong>Använd Online Certificate Status Protocol (OCSP) för att bekräfta
+    att certifikat är giltiga</strong>: Markera denna inställning om du vill att
+    Certifikathanteraren ska utföra en statuskontroll över nätet varje gång den
+    verifierar ett certifikat. Om denna inställning är avmarkerad, kommer
+    Certifikathanteraren bara att bekräfta certifikatets giltighetsperiod, och
+    att det är korrekt signerat av en CA vars eget CA-certifikat både är listat
+    under fliken Utfärdare (i fönstret Certifikathanteraren) och markerat som
+    betrott att utfärda den typen av certifikat.</li>
+  <li><strong>Validera ett certifikat om det uppger en OCSP-server</strong>:
+    Markera denna inställning för validering över nätet av certifikat som uppger
+    en valideringstjänstadress (URL för tjänsten). Certifikathanteraren
+    säkerställer att certifikatet är listat som giltigt på den adressen, och
+    kontrollerar giltighetsperiod och tillitsinställningar.</li>
+  <li><strong>Validera alla certifikat med följande OCSP-server</strong>:
+    Markera denna inställning om du vill ange en OCSP-server för validering av
+    alla certifikat. Om du markerar denna inställning, ska du också välja det
+    certifikat från rullgardinsmenyn Svarssignerare, vilket identifierar
+    signeraren av OCSP-svar. Med denna inställning kommer Certifikathanteraren
+    bara att erkänna certifikat, som kan verifieras av ett OCSP-svar signerat
+    med svarssignerarcertifikatet (eller signerat med ett certifikat som är
+    knutet till det).
+
+    <p>När du väljer ett Svarssignerarcertifikat från rullgardinsmenyn kommer
+      Certifikathanteraren att fylla i en tjänst-URL (om den är tillgänglig)
+      för den signeraren automatiskt. Om tjänst-URLen inte fylls i automatiskt
+      måste du fylla i den själv; fråga din systemadministratör för detaljer.</p>
+  </li>
+  <li><strong>När anslutningen till en OCSP-server misslyckas, betrakta
+    certifikatet som ogiltigt</strong>: Markera detta om du vill att
+    valideringen ska misslyckas när en anslutning till OCSP-servern inte kan
+    upprättas.</li>
+</ul>
+    
+För mer detaljerad information om certifikatvalidering, läs
+    <a href="using_certs_help.xhtml#controlling_validation">Hur Certifikatvalidering fungerar</a>.</p>
+    
 </body>
 </html>

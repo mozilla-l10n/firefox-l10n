@@ -551,9 +551,7 @@
 <div class="contentsBox">I detta avsnitt:
   <ul>
     <li><a href="#how_validation_works">Hur validering fungerar</a></li>
-    <li><a href="#managing_crls">Hantera spärrlistor</a></li>
     <li><a href="#configuring_ocsp">Konfigurera OCSP</a></li>
-    <li><a href="validation_help.xhtml">Valideringsinställningar</a></li>
   </ul>
 </div>
 
@@ -582,21 +580,11 @@
   låtsas vara certifikatets ägare.</p>
 
 <p>Ett sätt att motverka detta hot är att låta Certifikathanteraren kontrollera
-  en spärrlista över indragna certifikat (CRL) som en del av verifieringsprocessen (se
-  <a href="#managing_crls">Hantera spärrlistor</a> nedan). I typfallet hämtar du 
-  hem en spärrlista till webbläsaren genom att klicka på en länk. Om en 
-  spärrlista finns tillgänglig kommer Certifikathanteraren att kontrollera 
-  varje certifikat utfärdat av samma CA mot listan, som en del av 
-  verifieringsprocessen.</p>
+  en spärrlista över indragna certifikat (CRL) som en del av verifieringsprocessen. 
+  Tyvärr är dessa listor stora och behöver uppdateras frekvent för att vara
+  meningsfulla.</p>
 
-<p>Tillförlitligheten av en spärrlista beror på hur ofta de uppdateras av 
-  servern och hur ofta de kontrolleras av klienten. Du kan konfigurera dina
-  <a href="validation_help.xhtml#automatic_crl_update_preferences">inställningar 
-  för automatisk uppdatering av spärrlista</a> så att en spärrlista blir
-  uppdaterad automatiskt med regelbundna intervaller mot den version som finns
-  på servern.</p>
-
-<p>Ett annat sätt att motverka hotet om komprometterade certifikat är att
+<p>Det bästa sättet att motverka hotet om komprometterade certifikat är att
   använda en speciell server som stöder protokollet Online Certificate Status
   Protocol (OCSP). En sådan server kan besvara förfrågningar från klienter 
   om enskilda certifikate (se
@@ -610,135 +598,6 @@
 
 <p>[<a href="#controlling_validation">Återvänd till början av avsnittet</a>]</p>
 
-<h2 id="managing_crls">Hantera spärrlistor</h2>
-
-<p>En spärrlista (CRL) är en lista på indragna certifikat. En
-  <a href="glossary.xhtml#certificate_authority">certifikatutfärdare (CA)</a>
-  kan t.ex. dra in ett certifikat om det har blivit komprometterat på något
-  sätt &mdash; på liknande sätt som ett kreditkortsföretag kan dra in ditt
-  kreditkort om du rapporterar att det blivit stulet.</p>
-
-<p>Detta avsnitt beskriver hur du importerar och hanterar spärrlistor.</p>
-
-<p>För bakgrundsinformation, se
-  <a href="#how_validation_works">Hur validering fungerar</a>.</p>
-
-<p>För en detaljerad beskrivning av spärrlisteinställningar som du kan styra, se
-  <a href="validation_help.xhtml">Valideringsinställningar</a>.</p>
-
-<div class="contentsBox">I detta avsnitt:
-  <ul>
-    <li><a href="#about_the_next_update_date">Om datumet för <q>Nästa 
-      uppdatering</q></a></li>
-    <li><a href="#importing_crls">Importera spärrlistor</a></li>
-    <li><a href="#viewing_and_managing_crls">Visa och hantera spärrlistor</a></li>
-  </ul>
-</div>
-
-<h3 id="about_the_next_update_date">Om datumet för <q>Nästa uppdatering</q></h3>
-
-<p>Webbläsaren använder de spärrlistor den har tillgängliga för att kontrollera
-  giltigheten hos certifikat utfärdade av motsvarande CA:er. Om ett certifikat
-  är listat som indraget, kommer webbläsaren inte att acceptera det som bevis
-  på en identitet.</p>
-
-<p>En CA publicerar normalt en uppdaterad spärrlista med regelbundet intervall. Varje
-  spärrlista inkluderar ett datum, specificerad i fältet Nästa uppdatering, genom 
-  vilket CA:n talar om när den kommer att publicera nästa uppdatering av den 
-  spärrlistan. Generellt sett bör du hämta den senaste versionen av spärrlistan, om 
-  datumet i fältet Nästa uppdatering är äldre än dagens datum. För att visa 
-  spärrlisteinformation och aktivera automatisk spärrlisteuppdatering, se 
-  <a href="#viewing_and_managing_crls">Visa och hantera spärrlistor</a>.</p>
-
-<p>CA:er är skyldiga att tillhandahålla en ny spärrlista invid datumet för Nästa 
-  uppdatering. Men frånvaron av den senaste versionen av spärrlistan gör
-  inte i sig att certifikatet ogiltigförklaras. Därför kan, om den senaste
-  versionen av spärrlistan inte finns tillgänglig, ett certifikat bekräftas även om
-  den senaste versionen av spärrlistan talar om att det har gått ut. Automatisk
-  spärrlisteuppdatering kan hjälpa till att undvika denna situation.</p>
-
-<h3 id="importing_crls">Importera spärrlistor</h3>
-
-<p>Du kan importera den senaste versionen av en spärrlista från en CA till din 
-  webbläsare. För att importera en spärrlista, följ dessa steg:</p>
-
-<ol>
-  <li>Gå till den URL som specificerats av CA:n eller av din
-    systemadministratör och klicka på länken till den spärrlista som du vill
-    importera.
-    
-    <p>Dialogrutan Status för spärrlisteimport visas.</p>
-  </li>
-  <li>Bekräfta att importen av spärrlistan lyckades och att det var den du ville ha. 
-    I de flesta fall bör du också klicka på Ja, vilket aktiverar automatisk
-    uppdatering av den spärrlista du just importerade.</li>
-  <li>Nästa steg beror på om du klickar på Ja eller Nej i dialogrutan 
-    Status för spärrlisteimport: 
-    <ul>
-      <li><strong>Ja</strong>: Dialogrutan Inställningar för automatisk
-        spärrlisteuppdatering visas. I detta fall, gå vidare till steg 4.</li>
-      <li><strong>Nej</strong>: Dialogrutan Status för spärrlisteimport stängs. Om du
-        ändrar dig vid ett senare tillfälle och beslutar dig för att ändå
-        aktivera automatisk spärrlisteuppdatering, se
-        <a href="#viewing_and_managing_crls">Visa och hantera spärrlistor</a>.</li>
-    </ul>
-  </li>
-  <li>Välj alternativet <q>Aktivera automatisk uppdatering för denna
-    spärrlista</q>.</li>
-  <li>Bestäm hur du vill schemalägga de automatiska uppdateringarna:
-    <ul>
-      <li><strong>Uppdatera [__] dag(ar) före nästa uppdateringsdatum</strong>: 
-        Välj detta alternativ om du vill basera uppdateringsfrekvensen på det 
-        intervall med vilket en ny version av spärrlistan publiceras.</li>
-      <li><strong>Uppdatera en gång var [__] dag</strong>: Välj detta 
-        alternativ om du vill ange ett uppdateringsintervall som inte är 
-        relaterat till nästa uppdateringsdatum för denna spärrlista.</li>
-    </ul>
-  </li>
-  <li>Klicka på OK för att bekräfta dina val.</li>
-</ol>
-
-<h3 id="viewing_and_managing_crls">Visa och hantera spärrlistor</h3>
-
-<p>Du kan visa och hantera spärrlistor som är tillgängliga för webbläsaren genom
-  valideringsinställningarna:</p>
-
-<ol>
-  <li>Öppna menyn <span class="mac">&brandShortName;</span>
-    <span class="noMac">Redigera</span> och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Validering. (Om inga
-    underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
-    att veckla upp listan.)</li>
-  <li>Klicka på Hantera spärrlistor i panelen Validering för att se en lista på
-    spärrlistor som är tillgängliga för Certifikathanteraren.</li>
-</ol>
-
-<p>För att ta bort eller uppdatera en spärrlista, markera den och klicka på 
-  passande knapp.</p>
-
-<p>För att ställa in automatiska uppdateringar av en spärrlista, markera 
-  spärrlistan och klicka på Inställningar. Dialogrutan Inställningar för 
-  automatisk uppdatering av spärrlista visas:</p>
-
-<ol>
-  <li>Välj alternativet <q>Aktivera automatisk uppdatering för denna
-    spärrlista</q>.</li>
-  <li>Bestäm hur du vill schemalägga de automatiska uppdateringarna:
-    <ul>
-      <li><strong>Uppdatera [__] dag(ar) före nästa uppdateringsdatum</strong>: 
-        Välj detta alternativ om du vill basera uppdateringsfrekvensen på det 
-        intervall med vilket en ny version av spärrlistan publiceras.</li>
-      <li><strong>Uppdatera en gång var [__] dag</strong>: Välj detta 
-        alternativ om du vill ange ett uppdateringsintervall som inte är 
-        relaterat till nästa uppdateringsdatum för denna spärrlista.</li>
-    </ul>
-  </li>
-  <li>Klicka på OK för att bekräfta dina val.</li>
-</ol>
-
-<p>[<a href="#controlling_validation">Återvänd till början av
-  avsnittet</a>]</p>
-
 <h2 id="configuring_ocsp">Konfigurera OCSP</h2>
 
 <p>Inställningarna som kontrollerar OCSP är en del av
@@ -748,13 +607,13 @@
 <ol>
   <li>Öppna menyn <span class="mac">&brandShortName;</span>
     <span class="noMac">Redigera</span> och välj Inställningar.</li>
-  <li>Under kategorin Integritet och säkerhet, klicka på Validering. (Om inga
+  <li>Under kategorin Integritet och säkerhet, klicka på Certifikat. (Om inga
     underkategorier är synliga, dubbelklicka på Integritet och säkerhet för
     att veckla upp listan.)</li>
 </ol>
 
 <p>För information om vilka OCSP-alternativ som finns tillgängliga, se
-  <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
+  <a href="certs_prefs_help.xhtml#ocsp">OCSP</a>.</p>
 
 <p>[<a href="#controlling_validation">Återvänd till början av
   avsnittet</a>]</p>
