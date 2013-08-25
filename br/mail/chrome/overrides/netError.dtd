@@ -35,9 +35,9 @@
 <!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh ar grubuilh.</p><ul><li>&brandShortName; ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pouezit war &quot;Klask en-dro&quot; evit trec&apos;haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 '<ul> 
+<li>Pouezit war "Klask en-dro" evit trec&apos;haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li> 
+</ul>'>
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
 <!ENTITY contentEncodingError.longDesc " <ul> <li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">

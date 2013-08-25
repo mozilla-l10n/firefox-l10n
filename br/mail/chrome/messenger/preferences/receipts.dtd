@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label           "P'en em gav un testeni-degemer :">
 <!ENTITY leaveIt.label                 "Leuskel anezhañ em boest-lizheroù">
 <!ENTITY leaveIt.accesskey             "L">
-<!ENTITY moveToSent.label              "Dilec&apos;hiañ anezhañ em zeuliad &quot;Kaset&quot;">
+<!ENTITY moveToSent.label              'Dilec&apos;hiañ anezhañ em zeuliad "Kaset"'>
 <!ENTITY moveToSent.accesskey          "D">
 <!ENTITY requestMDN.label              "Pa resevan un azgoulenn evit un testeni-degemer :">
 <!ENTITY never.label                   "Chom hep kas testeni-degemer atav">

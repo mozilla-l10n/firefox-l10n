@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label " Pellgargañ ha goubredañ kemennadennoù">
 <!ENTITY MsgSelect.label "Ergorenn evit un arver ezlinenn">
-<!ENTITY MsgSyncDesc.label "Mard hoc&apos;h eus diuzet teuliadoù ar posteloù pe strolladoù keleier evit un arver ezlinenn e vez pellgarget ha/pe goubredet anezho bremañ. A-hend-all, arverit an afell &quot;Diuzañ&quot; evit diuzañ teuliadoù ar posteloù ha strolladoù keleier evit un arver ezlinenn.">
+<!ENTITY MsgSyncDesc.label 'Mard hoc&apos;h eus diuzet teuliadoù ar posteloù pe strolladoù keleier evit un arver ezlinenn e vez pellgarget ha/pe goubredet anezho bremañ. A-hend-all, arverit an afell "Diuzañ" evit diuzañ teuliadoù ar posteloù ha strolladoù keleier evit un arver ezlinenn.'>
 <!ENTITY MsgSyncDirections.label "Pellgargañ ha/pe goubredañ an hini da heul :">
 <!ENTITY syncTypeMail.label "Kemennadennoù dre bosteloù">
 <!ENTITY syncTypeMail.accesskey "m">

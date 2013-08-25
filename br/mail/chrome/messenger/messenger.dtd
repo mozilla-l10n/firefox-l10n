@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "A">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Kerc'hat">
+<!ENTITY getMsgButton1.label "Kerc'hat ar c'hemennadennoù ">
 <!ENTITY newMsgButton.label "Skridaozañ">
 <!ENTITY replyButton.label "Respont">
 <!ENTITY replyAllButton.label "Respont d'an holl">

@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Aotren evit an estez">
 <!ENTITY  permBlock             "Herzel">
 <!ENTITY  permissionsFor        "Aotreoù evit :">
-<!ENTITY  permImage             "Kargañ ar skeudennoù">
-<!ENTITY  permPopup             "Digeriñ un diflugell">
-<!ENTITY  permCookie            "Arventennañ an toupinoù">
-<!ENTITY  permNotifications     "Diskouez ar rebuzadurioù">
-<!ENTITY  permInstall           "Staliañ askouezhioù pe neuzioù">
-<!ENTITY  permGeo               "Rannañ ho lec'hiadur">
 <!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
-<!ENTITY  permFullscreen        "Kregiñ ar mod skramm a-bezh">
-<!ENTITY  permPointerLock2      "Kuzhat biz al logodenn">
 
-<!ENTITY  permIndexedDB              "Mirout ar c'hadaviñ ezlinenn">
 <!ENTITY  permClearStorage           "Skarzhañ ar c'hadaviñ">
 <!ENTITY  permClearStorage.accesskey "c">
 

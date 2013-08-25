@@ -12,7 +12,7 @@
 <!ENTITY junkMail.intro "Kefluniañ arventennoù ar posteloù lastez dre ziouer. Kefluniet e vez ur gont evit ar posteloù lastez e Arventennoù ar gont.">
 <!ENTITY manualMark.label "Pa verkan kemennadennoù evel lastez :">
 <!ENTITY manualMark.accesskey "v">
-<!ENTITY manualMarkModeMove.label "Dilec&apos;hiañ anezho betek teuliad &quot;Lastez&quot; ar gont">
+<!ENTITY manualMarkModeMove.label 'Dilec&apos;hiañ anezho betek teuliad "Lastez" ar gont'>
 <!ENTITY manualMarkModeMove.accesskey "i">
 <!ENTITY manualMarkModeDelete.label "Dilemel anezho">
 <!ENTITY manualMarkModeDelete.accesskey "D">

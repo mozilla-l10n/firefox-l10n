@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Titl ar bajenn:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Bizskrivit un titl evit anavezout ar bajenn e-barzh ar prenestr pe ar sinedoù">
-<!ENTITY pageTitleExample.label       "skouer: &quot;Ma fajenn Web&quot;">
+<!ENTITY pageTitleExample.label       'skouer: "Ma fajenn Web"'>
 <!ENTITY filename.label               "Anv ar restr:">
 <!ENTITY filename.accesskey           "n">
 <!ENTITY filename.tooltip             "Bizskrivit un anv evit ar restr-mañ, en ur enderc'hel '.html' evit ur bajenn web">
-<!ENTITY filenameExample.label        "skouer: &quot;mabajenn.html&quot;">
+<!ENTITY filenameExample.label        'skouer: "mabajenn.html"'>
 <!ENTITY setDefaultButton.label       "Arverañ dre ziouer">
 <!ENTITY setDefaultButton.accesskey   "r">
 <!ENTITY removeButton.label           "Dilemel al lec'hienn">

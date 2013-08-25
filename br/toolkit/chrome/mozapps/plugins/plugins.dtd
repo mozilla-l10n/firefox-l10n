@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Klask hizivadurioù…">
 <!ENTITY disabledPlugin                                      "Diweredekaet eo an enlugellad-mañ.">
 <!ENTITY blockedPlugin.label                                 "Harzet eo bet an enlugellad-mañ evit ho tiogel.">
-
+<!ENTITY hidePluginBtn.label                                 "Kuzhat an enlugellad">
 <!ENTITY installPlugin                                       "Staliañ an enlugellad…">
 <!ENTITY managePlugins                                       "Ardeiñ an enlugelladoù…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Gwelout an testenioù">
 <!ENTITY viewCertificates.accesskey     "G">
-<!ENTITY viewCRLs.label                 "Rolloù dizorniañ">
-<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "Gwiriadur">
 <!ENTITY validation.accesskey           "w">
 <!ENTITY viewSecurityDevices.label      "Trevnadoù diogelroez">

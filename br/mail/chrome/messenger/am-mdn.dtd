@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Leuskel anezhañ em boestad-lizheroù">
 <!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Dilec&apos;hiañ hi em zeuliad &quot;Kaset&quot;">
+<!ENTITY moveToSent.label             'Dilec&apos;hiañ hi em zeuliad "Kaset"'>
 <!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Pa resevan un azgoulenn evit un testeni-degemer :">
 <!ENTITY returnSome.label             "Aotren an testenioù-degemer evit kemennadennoù zo">
