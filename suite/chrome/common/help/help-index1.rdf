@@ -652,11 +652,6 @@
          nc:link="certs_help.xhtml#your_certificates"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="import:crls"
-         nc:name="importera spärrlistor"
-         nc:link="using_certs_help.xhtml#importing_crls"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="import:mail"
          nc:name="importera e-post eller inställningar från andra program"
          nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs"/>
@@ -681,11 +676,7 @@
          nc:name="SSL-inställningar"
          nc:link="ssl_help.xhtml#ssl_settings"/>
      </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="settings:validation"
-         nc:name="Valideringsinställningar"
-         nc:link="validation_help.xhtml#validation_settings"/>
-     </rdf:li></rdf:Seq>
+     </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -817,11 +808,7 @@
          nc:name="säkerhetsinställningar"
          nc:link="privsec_help.xhtml"/>
      </rdf:li>
-      <rdf:li>
-       <rdf:Description ID="preferences:validation"
-         nc:name="Valideringsinställningar"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li></rdf:Seq>
+      </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1460,17 +1447,6 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="help-indexAZ.rdf#o">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="OSCP"
-         nc:name="OSCP"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
-</rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
 <rdf:Description about="help-indexAZ.rdf#p">
    <nc:subheadings>
      <rdf:Seq>     <rdf:li>
@@ -1628,11 +1604,6 @@
          nc:link="nav_help.xhtml#using_languages_and_international_content"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="CRLs"
-         nc:name="spärrlistor"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="SSL"
          nc:name="SSL"
          nc:link="ssl_help.xhtml"/>
@@ -1778,35 +1749,6 @@
          nc:name="språk och innehåll från andra länder"
          nc:link="nav_help.xhtml#using_languages_and_international_content"/>
      </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#CRLs">
-   <nc:subheadings>
-     <rdf:Seq>     <rdf:li>
-       <rdf:Description ID="CRLs:auto_upates_for"
-         nc:name="autouppdatering av spärrlista"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:managing"
-         nc:name="hantera spärrlistor"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:preferences"
-         nc:name="inställningar för spärrlistor"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li>    <rdf:li>
-       <rdf:Description ID="CRLs:Next_Update_date"
-         nc:name="Nästa uppdateringsdatum"
-         nc:link="using_certs_help.xhtml#about_the_next_update_date"/>
-     </rdf:li>
-	<rdf:li>
-       <rdf:Description ID="CRLs:about"
-         nc:name="om spärrlistor"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li> </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1977,25 +1919,11 @@
 
 <rdf:Description about="#validation">
    <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="validation:auto_updating_CRLs"
-         nc:name="automatisk uppdatering av spärrlistor"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-          <rdf:li>
-       <rdf:Description ID="validation:CRLs"
-         nc:name="spärrlistor"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="validation:managing_CRLs"
-         nc:name="hantera spärrlistor"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
+     <rdf:Seq>
      <rdf:li>
        <rdf:Description ID="validation:OCSP"
          nc:name="OCSP"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
+         nc:link="certs_prefs_help.xhtml#ocsp"/>
      </rdf:li>
 	<rdf:li>
        <rdf:Description ID="validation:about"
@@ -2005,7 +1933,7 @@
      <rdf:li>
        <rdf:Description ID="validation:settings"
          nc:name="valideringsinställningar"
-         nc:link="validation_help.xhtml#validation_settings"/>
+         nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
