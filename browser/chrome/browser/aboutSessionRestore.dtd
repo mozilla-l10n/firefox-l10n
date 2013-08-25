@@ -10,7 +10,7 @@
 <!ENTITY restorepage.problemDesc    "&brandShortName; มีปัญหาในการเรียกคืนหน้าต่างและแท็บของคุณ สาเหตุอาจจะเกิดจากเว็บที่เพิ่งเปิดไปก่อนหน้านี้">
 <!ENTITY restorepage.tryThis        "คุณสามารถลอง:">
 <!ENTITY restorepage.restoreSome    "เอาแท็บที่คุณคิดว่าก่อให้เกิดปัญหาออกไป">
-<!ENTITY restorepage.startNew       "เริ่มเว็บเบราว์เซอร์ด้วยวาระใหม่">
+<!ENTITY restorepage.startNew       "เริ่มเว็บเบราเซอร์ด้วยวาระใหม่">
 
 <!ENTITY restorepage.tryagainButton "เรียกคืน">
 <!ENTITY restorepage.restore.access "ร">

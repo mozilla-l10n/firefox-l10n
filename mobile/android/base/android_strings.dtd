@@ -156,11 +156,11 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
-<!ENTITY datareporting_fhr_summary2 "แบ่งปันข้อมูลสุขภาวะของเบราว์เซอร์ของคุณให้กับ &vendorShortName; เพื่อช่วยให้คุณเข้าใจประสิทธิภาพของเบราว์เซอร์ของคุณ">
+<!ENTITY datareporting_fhr_summary2 "แบ่งปันข้อมูลสุขภาวะของเบราเซอร์ของคุณให้กับ &vendorShortName; เพื่อช่วยให้คุณเข้าใจประสิทธิภาพของเบราเซอร์ของคุณ">
 <!ENTITY datareporting_abouthr_title "ดูรายงานข้อมูลสุขภาพของฉัน">
 <!ENTITY datareporting_telemetry_title "การวัดและส่งข้อมูลทางไกล">
 <!ENTITY datareporting_telemetry_summary "แบ่งปันข้อมูลประสิทธิภาพ, การใช้งาน, ฮาร์ดแวร์ และการปรับแต่งให้กับ &vendorShortName; เพื่อช่วยให้เราปรับปรุง &brandShortName; ให้ดียิ่งขึ้น">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ส่งรายงานข้อขัดข้องให้กับ &vendorShortName; เพื่อช่วยให้เบราว์เซอร์ของคุณเสถียรและปลอดภัยยิ่งขึ้น">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ส่งรายงานข้อขัดข้องให้กับ &vendorShortName; เพื่อช่วยให้เบราเซอร์ของคุณเสถียรและปลอดภัยยิ่งขึ้น">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
