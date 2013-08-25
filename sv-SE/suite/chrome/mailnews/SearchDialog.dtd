@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "Sök i undermappar">
 <!ENTITY searchSubfolders.accesskey  "u">
-<!ENTITY searchLocalSystem.label     "Sök lokalt">
-<!ENTITY searchLocalSystem.accesskey "l">
+<!ENTITY searchOnHeading.label       "Utför sökningen på:">
+<!ENTITY searchOnHeading.accesskey   "p">
+<!ENTITY searchOnRemote.label        "E-postservern">
+<!ENTITY searchOnLocal.label         "Den egna datorn">
 <!ENTITY resetButton.label           "Rensa">
 <!ENTITY resetButton.accesskey       "R">
 <!ENTITY openButton.label            "Öppna">
