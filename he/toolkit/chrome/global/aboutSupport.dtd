@@ -19,6 +19,11 @@
 <!ENTITY aboutSupport.appBasicsName "שם">
 <!ENTITY aboutSupport.appBasicsVersion "גרסה">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "היסטוריית עדכונים">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "הצגת היסטוריית עדכונים">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "תיקיית פרופיל">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
@@ -44,6 +49,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "שם">
 <!ENTITY aboutSupport.modifiedPrefsValue "ערך">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "העדפות user.js">
+<!ENTITY aboutSupport.userJSDescription "תיקיית הפרופיל שלך מכילה את <a id='prefs-user-js-link'>קובץ user.js</a>, שכולל העדפות שלא נוצרו בידי  &brandShortName;.">
 <!ENTITY aboutSupport.graphicsTitle "גרפיקה">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -58,5 +66,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "היסטוריית התקנות">
 <!ENTITY aboutSupport.updateHistoryTitle "היסטוריית עדכונים">
 
-<!ENTITY aboutSupport.copyToClipboard.label "העתק הכול ללוח">
+<!ENTITY aboutSupport.copyTextToClipboard.label "העתקת טקסט ללוח">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "העתקת נתונים גולמיים ללוח">
 
