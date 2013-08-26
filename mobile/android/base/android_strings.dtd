@@ -88,8 +88,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Adattamento del testo">
 <!ENTITY pref_restore "Schede">
 <!ENTITY pref_restore_always "Ripristina sempre">
-<!ENTITY pref_restore_crash "Ripristina dopo un blocco">
-<!ENTITY pref_restore_never "Non ripristinare mai">
+<!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
 <!ENTITY pref_font_size_medium "Medio">
@@ -237,6 +236,7 @@
 <!ENTITY bookmarkhistory_import_history "Importazione cronologia da Android">
 <!ENTITY bookmarkhistory_import_wait "Attendere…">
 <!ENTITY suggestions_prompt2 "Attivare i suggerimenti di ricerca per &formatS;?">
+<!ENTITY suggestion_for_engine "Cerca &formatS2; in &formatS1;">
 <!ENTITY webapp_generic_name "App">
 <!ENTITY searchable_description "Segnalibri e cronologia">
 <!ENTITY devtools_remote_debugging_forward "Ricordarsi di attivare l’inoltro alla porta (port forwarding).">
