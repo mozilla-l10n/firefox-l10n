@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY netmonitorUI.emptyNotice2 "Perform a request or reload the page to see detailed information about network activity.">
+<!ENTITY netmonitorUI.emptyNotice2 "Выканаць запыт або перазагрузіць старонку, каб пабачыць падрабязныя звесткі пра сеткавую дзейнасць.">
 <!ENTITY netmonitorUI.toolbar.status "√">
 <!ENTITY netmonitorUI.toolbar.method "Сродак">
 <!ENTITY netmonitorUI.toolbar.file "Файл">

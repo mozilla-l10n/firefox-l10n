@@ -17,7 +17,7 @@
 <!ENTITY userAgentField4.label "Дзеяч карыстальніка">
 <!ENTITY referencesField4.label "Спасылкі">
 <!ENTITY messageIdField4.label "Вызначальнік-Ліста">
-<!ENTITY inReplyToField4.label "In reply to">
+<!ENTITY inReplyToField4.label "У адказ на">
 <!ENTITY originalWebsite4.label "Пляцоўка Сеціва">
 <!ENTITY editMessageDescription.label "Чарнавік ліста">
 <!ENTITY editMessageButton.label "Праўка…">
