@@ -489,12 +489,12 @@
 <!ENTITY social.chatBar.accesskey "г">
 <!ENTITY social.markpage.accesskey "с">
 <!ENTITY social.marklink.accesskey "ы">
-<!ENTITY getUserMedia.selectCamera.label "Камера для падзелу:">
-<!ENTITY getUserMedia.selectCamera.accesskey "К">
+<!ENTITY getUserMedia.selectCamera.label "Здымач для падзелу:">
+<!ENTITY getUserMedia.selectCamera.accesskey "З">
 <!ENTITY getUserMedia.selectMicrophone.label "Мікрафон для падзелу:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
-<!ENTITY webrtcIndicatorButton.label "Доступ да камеры / мікрафона">
-<!ENTITY webrtcIndicatorButton.tooltip "Паказвае пляцоўкі, з якімі вы зараз дзеліцеся камерай або мікрафонам">
+<!ENTITY webrtcIndicatorButton.label "Доступ да здымача / мікрафона">
+<!ENTITY webrtcIndicatorButton.tooltip "Паказвае пляцоўкі, з якімі вы зараз дзеліцеся здымачом або мікрафонам">
 <!ENTITY mixedContentBlocked.helplink "Падрабязней">
 <!ENTITY mixedContentBlocked.moreinfo "Большасць сеціўных пляцовац будзе працаваць нават калі гэтае змесціва будзе заблакаваным.">
 <!ENTITY pointerLock.notification.message "Націсніце ESC у любы момант, каб паказаць яго ізноў.">
