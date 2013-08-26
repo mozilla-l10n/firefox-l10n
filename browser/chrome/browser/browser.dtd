@@ -55,7 +55,7 @@
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de herramientas de marcadores">
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -164,30 +164,30 @@
 <!ENTITY remoteWebConsoleCmd.label "Consola web remota">
 <!ENTITY browserConsoleCmd.label "Consola del navegador">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey "n">
+<!ENTITY browserConsoleCmd.accesskey "C">
 <!ENTITY inspectContextMenu.label "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
-<!ENTITY responsiveDesignTool.accesskey "ñ">
+<!ENTITY responsiveDesignTool.accesskey "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY scratchpad.label "Borrador">
-<!ENTITY scratchpad.accesskey "b">
+<!ENTITY scratchpad.accesskey "o">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY chromeDebuggerMenu.label "Depurador del navegador">
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
-<!ENTITY devToolbarMenu.accesskey "d">
+<!ENTITY devToolbarMenu.accesskey "B">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Mostrar herramientas">
-<!ENTITY devToolboxMenuItem.accesskey "T">
+<!ENTITY devToolboxMenuItem.accesskey "M">
 <!ENTITY devToolboxMenuItem.keycode "I">
 <!ENTITY devToolboxMenuItem.keytext "I">
 <!ENTITY devToolbarToolsButton.tooltip "Activar las herramientas para desarrolladores">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
-<!ENTITY getMoreDevtoolsCmd.accesskey "M">
+<!ENTITY getMoreDevtoolsCmd.accesskey "h">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
