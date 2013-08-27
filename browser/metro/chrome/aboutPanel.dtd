@@ -5,7 +5,7 @@
 <!ENTITY aboutHeader.title "Informazioni su">
 <!ENTITY aboutHeader.product.label "&brandShortName;">
 <!ENTITY aboutHeader.company.label "di &vendorShortName;">
-<!ENTITY aboutHeader.policy.label "Leggi online l'informativa sulla privacy di &brandShortName;">
+<!ENTITY aboutHeader.policy.label "Consulta l'informativa sulla privacy di &brandShortName;">
 <!ENTITY update.checkingForUpdates "Ricerca aggiornamenti…">
 <!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
 <!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
