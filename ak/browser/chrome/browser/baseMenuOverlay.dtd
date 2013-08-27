@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; Mboa">
 <!ENTITY productHelp.accesskey    "b">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Kibɔd kwantia">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "Sanhyɛase a woedum nkaho no…">
 <!ENTITY helpSafeMode.accesskey   "S">
 
