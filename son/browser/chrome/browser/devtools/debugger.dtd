@@ -21,9 +21,13 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "Aššiloo goo bata bibi ra: nga kayridogey kay nd'i ga ceebandu fooyaŋ sar ka bisa nd'a.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Fen nda k'aššiloo woo bata-bibandi">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -31,7 +35,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
-<!ENTITY debuggerUI.pauseExceptions     "Hunanzam hasaraw ga">
+<!ENTITY debuggerUI.pauseExceptions     "Hunanzam hasarawey ga">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->

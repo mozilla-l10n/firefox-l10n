@@ -23,7 +23,12 @@
 <!ENTITY restorepage.windowLabel    "Zanfun &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Kubayni koyne!">
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
 
+<!ENTITY welcomeback.pageTitle      "Kubayni koyne!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; na war alhaalo yeeti ka boori. Ne ganda ti zanfun nda nor loku zuwoo kaŋ war n'a feeri; war ga hin k'i yeeri wala ka šintin taaga.">

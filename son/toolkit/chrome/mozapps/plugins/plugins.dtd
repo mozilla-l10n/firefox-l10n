@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Taagandirey ceeci…">
 <!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
 <!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa še.">
-
+<!ENTITY hidePluginBtn.label                                 "Sukari tugu">
 <!ENTITY installPlugin                                       "Sukari sinji...">
 <!ENTITY managePlugins                                       "Sukarey juwal...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

@@ -7,10 +7,10 @@
 
 <!ENTITY next.tooltip "Kalimaɲaŋoo hiino bangayroo ceeci">
 <!ENTITY previous.tooltip "Kalimaɲaŋoo bangayri bisantaa ceeci">
-
-
-
+<!ENTITY findCloseButton.tooltip "Ceeci žeeri daabu">
+<!ENTITY highlightAll.label "Kul šilbay">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Kalimaɲaŋoo bangayrey kul ceeci">
-
-
-
+<!ENTITY caseSensitive.label "Harfu-beeriyan hawgay">
+<!ENTITY caseSensitive.accesskey "g">
+<!ENTITY caseSensitive.tooltiptext "Ceeci nda harfu-beeri maateyan">

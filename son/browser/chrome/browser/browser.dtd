@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Nor loku daabuyan taafeeri">
 <!ENTITY  closeTab.label                     "Nor lokoo daabu">
 <!ENTITY  closeTab.accesskey                 "d">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Noo fondo">
 <!ENTITY fullscreenExitButton.label "Wanji">
 
+<!ENTITY fullscreenExitHint2.value "ESC naagu waati kul ka fatta.">
 <!ENTITY leaveDOMFullScreen.label "Dijikul alhaali naŋ">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
@@ -161,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Gorodoo">
 <!ENTITY searchItem.title             "Ceeci">
 <!ENTITY bookmarksItem.title          "Doo-šilbawey">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Šintin">
 
 <!ENTITY tabGroupsButton.label        "Nor loku margarey">
 <!ENTITY tabGroupsButton.tooltip      "War nor lokey marga">
@@ -202,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 <!ENTITY webDeveloperMenu.accesskey   "T">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Ciya…">
@@ -249,8 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Kanjari goyjinawey">
 <!ENTITY devToolboxMenuItem.accesskey      "K">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Kanjari cinakaw goyjinawey">
 <!ENTITY devToolbarOtherToolsButton.label  "Goyjinay ka tonton">
@@ -388,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "B">
 <!ENTITY viewImageInfoCmd.label       "Bii alhabar guna">
 <!ENTITY viewImageInfoCmd.accesskey   "B">
-
-
+<!ENTITY viewImageDescCmd.label       "Šilbayyan guna">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Widewo guna">
 <!ENTITY viewVideoCmd.accesskey       "W">
 <!ENTITY viewBGImageCmd.label         "Bandafaari bii guna">

@@ -92,4 +92,5 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko goydaari bayhayey cebe">
-
+<!ENTITY options.showPlatformData.tooltip  "Nda war na suubaroo woo tunandi JavaScript alhaalikoy bayrandiyaney goo nda 
+Gecko goydaari jinay tammaasayaŋ">
