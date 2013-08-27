@@ -45,6 +45,7 @@
 <!ENTITY netInterrupt.title "Холболт тасарсан">
 
 
+<!ENTITY notCached.title "Хавтасны хугацаа дууссан">
 
 
 <!ENTITY netOffline.title "Салангид горим">
@@ -114,6 +115,7 @@
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 
 
+<!ENTITY cspFrameAncestorBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
 
@@ -127,4 +129,5 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
+<!ENTITY remoteXUL.title "Алсын XUL ">
 
