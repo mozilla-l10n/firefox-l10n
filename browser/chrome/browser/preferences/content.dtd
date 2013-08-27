@@ -7,21 +7,19 @@
 <!ENTITY  popupExceptions.label       "استثناها…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
-<!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 
-<!ENTITY  defaultFont.label           "قلم پیش‌فرض:">
-<!ENTITY  defaultFont.accesskey       "ض">
+
 <!ENTITY  defaultSize.label           "اندازه:">
-<!ENTITY  defaultSize.accesskey       "ن">
+<!ENTITY  defaultSize.accesskey       "ا">
 
-<!ENTITY  advancedFonts.label         "پیشرفته…">
-<!ENTITY  advancedFonts.accesskey     "ش">
+<!ENTITY  advancedFonts.label         "پیشرفته...">
+<!ENTITY  advancedFonts.accesskey     "پ">
 
-<!ENTITY  colors.label                "رنگ‌ها…">
-<!ENTITY  colors.accesskey            "گ">
+<!ENTITY  colors.label                "رنگها‌...">
+<!ENTITY  colors.accesskey            "ر">
 
 
 <!ENTITY languages.label              "زبان‌ها">
 <!ENTITY chooseLanguage.label         "زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید">
 <!ENTITY chooseButton.label           "انتخاب…">
-<!ENTITY chooseButton.accesskey       "خ">
+<!ENTITY chooseButton.accesskey       "ا">
