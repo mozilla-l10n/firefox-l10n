@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -45,7 +47,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de știri pentru utilizare în mod deconectat…">
 <!ENTITY offlineSelectNntp.accesskey "A">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

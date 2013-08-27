@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -25,7 +26,7 @@
 <!ENTITY paneGeneral.title        "General">
 <!ENTITY paneDisplay.title        "Afișare">
 <!ENTITY paneComposition.title    "Redactare">
-<!ENTITY paneChat.title           "Discută">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Anexe">
 <!ENTITY paneSecurity.title       "Securitate">
 <!ENTITY paneAdvanced.title       "Avansat">

@@ -4,6 +4,7 @@
 # turcan <nicturcan@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 #
 -->
@@ -35,7 +36,7 @@ is displayed at the end of the line. The translations of the
 totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  totalOpenTimeBefore.label       "Show New Mail Alert for">
-<!ENTITY  totalOpenTimeBefore.accesskey   "N">
+<!ENTITY  totalOpenTimeBefore.label       "Arată alerta de mesaj nou pentru">
+<!ENTITY  totalOpenTimeBefore.accesskey   "a">
 <!ENTITY  totalOpenTimeEnd.label          "secunde">
 

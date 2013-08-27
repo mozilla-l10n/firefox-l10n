@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -28,7 +29,7 @@
 <!ENTITY reset.value "Buton reset">
 <!ENTITY file.value "Fișier">
 <!ENTITY hidden.value "ascuns">
-<!ENTITY image.value "imagine">
+<!ENTITY image.value "Imagine">
 <!ENTITY button.value "buton">
 
 <!ENTITY InputSettings.label "Setările câmpului">

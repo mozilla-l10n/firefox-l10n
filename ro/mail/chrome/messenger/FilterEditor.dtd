@@ -40,8 +40,8 @@
 <!ENTITY contextIncomingMail.accesskey "m">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
-<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+<!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj spam">
+<!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj spam">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">

@@ -19,7 +19,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountsWindow.title                "Instant messaging status">
+<!ENTITY accountsWindow.title                "Stare mesagerie instantanee">
 <!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 <!ENTITY accountManager.newAccount.label     "Cont nou">
 <!ENTITY accountManager.newAccount.accesskey "n">
@@ -31,7 +31,7 @@
 <!ENTITY accountManager.noAccount.title      "Niciun cont configurat încă">
 <!ENTITY accountManager.noAccount.description "Clic pe butonul &accountManager.newAccount.label; pentru a permite &brandShortName; să vă ghideze prin procesul de configurare al acestuia.">
 <!ENTITY account.autoSignOn.label     "Autentificare la pornire">
-<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label        "Conectare">
 <!ENTITY account.connect.accesskey    "c">
 <!ENTITY account.disconnect.label     "Deconectare">

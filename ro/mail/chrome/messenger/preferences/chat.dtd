@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# Ursan Marius Bogdan <Creationn@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
@@ -20,8 +20,8 @@
 
 <!ENTITY  startupAction.label         "Când &brandShortName; pornește:">
 <!ENTITY  startupAction.accesskey     "p">
-<!ENTITY  startupOffline.label        "Păstrează-mi conturile de conversații deconectate">
-<!ENTITY  startupConnectAuto.label    "Conectare automată la conturile de conversație">
+<!ENTITY  startupOffline.label        "Păstrează-mi conturile de chat deconectate">
+<!ENTITY  startupConnectAuto.label    "Conectează-mă automat la conturile de chat">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is

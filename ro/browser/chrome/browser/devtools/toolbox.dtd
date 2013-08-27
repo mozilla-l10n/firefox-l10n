@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label3): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label3    "Enable chrome debugging">
+<!ENTITY options.enableChrome.label3    "Activați depanarea chrome">
 <!ENTITY options.enableChrome.tooltip   "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul navigatorului">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the

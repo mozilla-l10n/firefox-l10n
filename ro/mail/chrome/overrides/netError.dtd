@@ -2,16 +2,17 @@
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Vestitorul <vestitorul@yahoo.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -38,7 +39,7 @@
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
-<!ENTITY generic.title "Au.">
+<!ENTITY generic.title "Auu.">
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">

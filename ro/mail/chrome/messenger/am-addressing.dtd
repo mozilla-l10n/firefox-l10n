@@ -3,12 +3,14 @@
 #
 # nicubunu <nicubunu@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -53,9 +55,9 @@
 <!ENTITY includeSigOnForward.label            "Include semnătura pentru mesaje date mai departe">
 <!ENTITY includeSigOnForward.accesskey        "I">
 
-<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
-<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalComposingPrefs.label           "Preferințele globale de redactare…">
+<!ENTITY globalComposingPrefs.accesskey       "r">
 
-<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
-<!ENTITY globalAddressingPrefs.accesskey      "P">
+<!ENTITY globalAddressingPrefs.label          "Preferințe globale pentru adrese…">
+<!ENTITY globalAddressingPrefs.accesskey      "d">
 

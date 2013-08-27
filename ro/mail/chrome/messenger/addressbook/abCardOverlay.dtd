@@ -1,15 +1,12 @@
 <!--
 # Translator(s):
 #
-# rsandu <razvan.sandu@zando.ro>
+# raulmalea <raul.malea@gmail.com>
 # janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # iulianv <iulianv@email.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
-# adiroiban <adiroiban@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -17,7 +14,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -53,7 +49,7 @@
 <!ENTITY PhoneticField2.label           "Fonetic:">
 <!ENTITY DisplayName.label              "Afișat ca:">
 <!ENTITY DisplayName.accesskey          "A">
-<!ENTITY preferDisplayName.label        "Preferă afișarea numelui față de antetul mesajului">
+<!ENTITY preferDisplayName.label        "Prefer întotdeauna afișarea numelui deasupra antetului mesajului">
 <!ENTITY preferDisplayName.accesskey    "P">
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "n">
@@ -62,12 +58,12 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Email suplimentar:">
 <!ENTITY SecondEmail.accesskey          "m">
-<!ENTITY PreferMailFormat.label         "Preferă să primească mesaje în format:">
+<!ENTITY PreferMailFormat.label         "Prefer să primească mesaje în format:">
 <!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Necunoscut">
-<!ENTITY chatName.label                 "Numele chatului:">
+<!ENTITY chatName.label                 "Nume la chat:">
 
 <!ENTITY allowRemoteContent1.label      "Permite conținutul aflat la distanță.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
@@ -144,7 +140,7 @@
 <!ENTITY Notes.label                    "Note:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Chat.tab                       "Discuție">
+<!ENTITY Chat.tab                       "Chat">
 <!ENTITY Chat.accesskey                 "i">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "g">
@@ -162,7 +158,7 @@
 <!ENTITY ICQ.accesskey                  "c">
 <!ENTITY XMPP.label                     "ID Jabber:">
 <!ENTITY XMPP.accesskey                 "j">
-<!ENTITY IRC.label                      "Poreclă IRC:">
+<!ENTITY IRC.label                      "Pseudonim IRC:">
 <!ENTITY IRC.accesskey                  "p">
 
 <!ENTITY Photo.tab                      "Foto">

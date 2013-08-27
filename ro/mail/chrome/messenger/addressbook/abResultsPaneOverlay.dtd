@@ -24,7 +24,7 @@
 <!ENTITY Company.accesskey                     "O">
 <!ENTITY _PhoneticName.label                   "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Poreclă">
+<!ENTITY NickName.label                        "Pseudonim">
 <!ENTITY NickName.accesskey                    "c">
 <!ENTITY SecondEmail.label                     "Email suplimentar">
 <!ENTITY SecondEmail.accesskey                 "l">
@@ -42,7 +42,7 @@
 <!ENTITY HomePhone.accesskey                   "a">
 <!ENTITY WorkPhone.label                       "Telefon serviciu">
 <!ENTITY WorkPhone.accesskey                   "s">
-<!ENTITY ChatName.label                        "Nume conversație">
+<!ENTITY ChatName.label                        "Nume chat">
 <!ENTITY ChatName.accesskey                    "n">
 <!ENTITY sortAscending.label                   "Crescător">
 <!ENTITY sortAscending.accesskey               "C">

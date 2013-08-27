@@ -4,7 +4,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # nicubunu <nicubunu@gmail.com>
-# secarica <orice@secarica.ro>
 # janimo <jani@ubuntu.com>
 # Laudatti <Laudatti@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
@@ -73,16 +72,16 @@
 <!ENTITY sendLaterCmd.accesskey "r">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "j">
-<!ENTITY printCmd.label "Imprimă…">
+<!ENTITY printCmd.label "Tipărește...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Editare">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Desfă">
+<!ENTITY undoCmd.label "Anulează">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "D">
+<!ENTITY undoCmd.accesskey "l">
 <!ENTITY redoCmd.label "Restaurează">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
@@ -92,7 +91,7 @@
 <!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Inserează">
+<!ENTITY pasteCmd.label "Lipește">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteNoFormattingCmd.key "V">
@@ -125,7 +124,7 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte">
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
-<!ENTITY menubarCmd.label "Bara meniului">
+<!ENTITY menubarCmd.label "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
@@ -232,7 +231,7 @@
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
-<!ENTITY pasteButton.tooltip            "Inserează">
+<!ENTITY pasteButton.tooltip            "Lipește">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -244,7 +243,7 @@
 <!ENTITY ccAddr.label "Copie:">
 <!ENTITY bccAddr.label "Copie ascunsă:">
 <!ENTITY replyAddr.label "Răspuns către:">
-<!ENTITY newsgroupsAddr.label "Grup news:">
+<!ENTITY newsgroupsAddr.label "Grup de discuții:">
 <!ENTITY followupAddr.label "Urmare la:">
 <!ENTITY subject.label "Subiect:">
 <!ENTITY subject.accesskey "S">
@@ -277,13 +276,13 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Desfă">
-<!ENTITY undo.accesskey "D">
+<!ENTITY undo.label "Anulează">
+<!ENTITY undo.accesskey "l">
 <!ENTITY cut.label "Taie">
 <!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiază">
 <!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Inserează">
+<!ENTITY paste.label "Lipește">
 <!ENTITY paste.accesskey "I">
 <!ENTITY pasteQuote.label "Lipește ca citat">
 <!ENTITY pasteQuote.accesskey "p">

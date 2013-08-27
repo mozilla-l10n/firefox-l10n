@@ -50,7 +50,7 @@
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
-<!ENTITY insertHLineCmd.label "Linie Orizontală">
+<!ENTITY insertHLineCmd.label "Linie orizontală">
 <!ENTITY insertHLineCmd.accesskey "L">
 <!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
@@ -98,7 +98,7 @@
 <!ENTITY fontSizeMenu.accesskey "M">
 <!ENTITY size-xx-smallCmd.label "ff-mic">
 <!ENTITY size-xx-smallCmd.accesskey "f">
-<!ENTITY size-x-smallCmd.label "f-mic">
+<!ENTITY size-x-smallCmd.label "Foarte mic">
 <!ENTITY size-x-smallCmd.accesskey "f">
 <!ENTITY size-smallCmd.label "Mic">
 <!ENTITY size-smallCmd.accesskey "M">
@@ -106,7 +106,7 @@
 <!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Mare">
 <!ENTITY size-largeCmd.accesskey "M">
-<!ENTITY size-x-largeCmd.label "f-mare">
+<!ENTITY size-x-largeCmd.label "Foarte mare">
 <!ENTITY size-x-largeCmd.accesskey "f">
 <!ENTITY size-xx-largeCmd.label "ff-mare">
 <!ENTITY size-xx-largeCmd.accesskey "f">
@@ -143,7 +143,7 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Cod">
 <!ENTITY styleCode.accesskey "o">
-<!ENTITY styleSamp.label "Exemplu de ieșire">
+<!ENTITY styleSamp.label "Jurnal exemplu">
 <!ENTITY styleSamp.accesskey "x">
 <!ENTITY styleVar.label "Variabilă">
 <!ENTITY styleVar.accesskey "V">
@@ -299,18 +299,18 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bară meniu">
+<!ENTITY menuBar.tooltip "Bara cu meniul">
 <!ENTITY formatToolbar.tooltip "Bară formatare">
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">
-<!ENTITY printToolbarCmd.label "Imprimă">
-<!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
+<!ENTITY printToolbarCmd.label "Tipărește">
+<!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
 <!ENTITY findToolbarCmd.label "Caută">
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
 <!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în zona selectată sau în întreaga pagină">
-<!ENTITY imageToolbarCmd.label "imagine">
+<!ENTITY imageToolbarCmd.label "Imagine">
 <!ENTITY imageToolbarCmd.tooltip "Inserează o nouă imagine sau editează proprietățile imaginii selectate">
 <!ENTITY hruleToolbarCmd.label "Linie">
 <!ENTITY hruleToolbarCmd.tooltip "Inserează o linie orizontală sau editează proprietățile liniei selectate">

@@ -3,8 +3,8 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# strainu <narro@strainu.ro>
 # raulmalea <raul.malea@gmail.com>
+# strainu <narro@strainu.ro>
 # ed62 <eduard.pintilie@gmail.com>
 #
 -->
@@ -24,7 +24,7 @@
 <!ENTITY lightning.toolbar.task.name "Bara de unelte pentru sarcini">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
-<!ENTITY lightning.toolbar.sync.label "Sincronizează">
+<!ENTITY lightning.toolbar.sync.label "Sincronizare">
 <!ENTITY lightning.toolbar.delete.label "Ștergere">
 <!ENTITY lightning.toolbar.edit.label "Editare">
 <!ENTITY lightning.toolbar.gototoday.label "Mergi la ziua de azi">

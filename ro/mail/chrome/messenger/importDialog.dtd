@@ -4,8 +4,8 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# petrescs <petrescs@yahoo.com>
 # raulmalea <raul.malea@gmail.com>
+# petrescs <petrescs@yahoo.com>
 #
 -->
 <!--
@@ -50,7 +50,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Acest asistent va importa mesajele, intrările din agenda de contacte, preferințele și/sau filtrele din alte programe de email, precum și formatul agendei de contacte în &brandShortName;.">
 <!ENTITY importDescription2.label "Odată importate, le veți putea accesa din  &brandShortName; și/sau agenda de contacte.">
 
-<!ENTITY selectDescription.label  "Vă rog alegeți programul din care doriți să importați:">
+<!ENTITY selectDescription.label  "Vă rugăm alegeți tipul de fișier din care doriți să importați:">
 <!ENTITY selectDescriptionB.label "Vă rugăm selectați un cont existent sau creați un cont nou:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nume:">
@@ -61,7 +61,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Termină">
 <!ENTITY cancel.label             "Renunță">
 
-<!ENTITY select.label             "Alegeți ce material se va importa:">
+<!ENTITY select.label             "sau alegeți tipul de date ce se vor importa:">
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">

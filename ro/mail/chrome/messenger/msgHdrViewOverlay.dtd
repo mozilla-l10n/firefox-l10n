@@ -31,7 +31,7 @@
 <!ENTITY subjectField4.label "Subiect">
 <!ENTITY ccField4.label "Copie">
 <!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Grupuri de știri">
+<!ENTITY newsgroupsField4.label "Grupuri de discuții">
 <!ENTITY followupToField4.label "Răspundeți la">
 <!ENTITY tagsHdr4.label "Etichete">
 <!ENTITY dateField4.label "Data">
@@ -53,7 +53,7 @@
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
 <!ENTITY hdrFollowupButton1.label "Urmărește">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.tooltip "Postează un răspuns la acest grup de discuții">
 <!ENTITY hdrMenuForwardButton.label "Înaintează ca">
 <!ENTITY hdrForwardButton1.label "Înaintează">
 <!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">

@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -56,8 +57,8 @@
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Saituri de publicare">
-<!ENTITY serverInfo.label             "Informații server">
-<!ENTITY loginInfo.label              "Informații autentificare">
+<!ENTITY serverInfo.label             "Informații despre server">
+<!ENTITY loginInfo.label              "Informații de autentificare">
 <!ENTITY siteName.label               "Nume sait:">
 <!ENTITY siteName.accesskey           "e">
 <!ENTITY siteName.tooltip             "Un nume scurt care identifică acest sit de publicare (ex.: „SaitulMeu”)">

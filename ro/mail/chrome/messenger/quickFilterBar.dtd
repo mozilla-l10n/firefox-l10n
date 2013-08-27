@@ -2,8 +2,8 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# nicubunu <nicubunu@gmail.com>
 #
 -->
 <!--
@@ -43,7 +43,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Alternează bara de filtrare rapidă">
+         "Afișează bara de filtrare rapidă">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button

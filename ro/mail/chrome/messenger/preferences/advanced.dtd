@@ -22,7 +22,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label       "Generale">
+<!ENTITY itemGeneral.label       "General">
 <!ENTITY itemDisplay.label       "Citire și afișare">
 <!ENTITY itemUpdate.label        "Actualizare">
 <!ENTITY itemNetworking.label    "Rețea și spațiu pe disc">
@@ -45,7 +45,7 @@
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
 <!ENTITY alwaysCheckDefault.label      "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de email">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY searchIntegration.label       "Permite &searchIntegration.engineName; căutarea în mesaje">
+<!ENTITY searchIntegration.label       "Permite la &searchIntegration.engineName; să caute în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkDefaultsNow.label        "Verifică acum...">
 <!ENTITY checkDefaultsNow.accesskey    "v">
@@ -88,7 +88,7 @@
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Suplimente instalate">
 <!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru Thundebird,">
+<!ENTITY whenUpdatesFound.label         "Când sunt găsite actualizări pentru &brandShortName;:">
 <!ENTITY modeAskMe.label                "Întreabă-mă ce vreau să fac">
 <!ENTITY modeAskMe.accesskey            "n">
 <!ENTITY modeAutomatic.label            "Descarcă și instalează actualizarea automat">
@@ -112,8 +112,8 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Spațiu pe disc">
-<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
-<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFolders.label     "Compactează toate dosarele pentru a salva peste">
+<!ENTITY offlineCompactFolders.accesskey "c">
 <!ENTITY offlineCompactFoldersMB.label   "MB în total">
 
 <!-- LOCALIZATION NOTE:
