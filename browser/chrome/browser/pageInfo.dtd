@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Sesi ini dibenarkan">
 <!ENTITY  permBlock             "Sekat">
 <!ENTITY  permissionsFor        "Kebenaran untuk:">
-<!ENTITY  permImage             "Muatkan Imej-imej">
-<!ENTITY  permPopup             "Buka Tetingkap Pop-up">
-<!ENTITY  permCookie            "Tetapkan Cookie">
-<!ENTITY  permNotifications     "Papar Pemberitahuan">
-<!ENTITY  permInstall           "Pasang Sambungan atau tema">
-<!ENTITY  permGeo               "Kongsi Lokasi">
 <!ENTITY  permPlugins           "Plugin Aktif">
-<!ENTITY  permFullscreen        "Masukkan skrin penuh">
-<!ENTITY  permPointerLock2      "Sembunyikan Penunjuk Tetikus">
 
-<!ENTITY  permIndexedDB              "Kekalkan Storan Luartalian">
 <!ENTITY  permClearStorage           "Bersihkan Storan">
 <!ENTITY  permClearStorage.accesskey "B">
 
