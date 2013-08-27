@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Netscape.com
+#define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>R Veera Kumar</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>தங்கமணி அருண்</em:contributor><em:contributor>சாந்தகுமார்</em:contributor><em:contributor>அருண்பிரகாஷ்</em:contributor>
 
 #unfilter emptyLines
