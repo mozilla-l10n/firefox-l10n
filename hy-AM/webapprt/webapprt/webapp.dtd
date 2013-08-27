@@ -34,7 +34,7 @@
 <!ENTITY redoCmd.accesskey                  "Կ">
 <!ENTITY cutCmd.label                       "Կտրել">
 <!ENTITY cutCmd.key                         "Կ">
-<!ENTITY cutCmd.accesskey                   "Կ">
+<!ENTITY cutCmd.accesskey                   "տ">
 <!ENTITY copyCmd.label                      "Պատճենել">
 <!ENTITY copyCmd.key                        "Պ">
 <!ENTITY copyCmd.accesskey                  "Պ">
