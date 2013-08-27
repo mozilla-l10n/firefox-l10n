@@ -88,8 +88,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Перерисовка текста">
 <!ENTITY pref_restore "Вкладки">
 <!ENTITY pref_restore_always "Всегда восстанавливать">
-<!ENTITY pref_restore_crash "Восстанавливать после падения">
-<!ENTITY pref_restore_never "Никогда не восстанавливать">
+<!ENTITY pref_restore_quit "Не восстанавливать после выхода из &brandShortName;">
 <!ENTITY pref_font_size_tiny "Мелкий">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
