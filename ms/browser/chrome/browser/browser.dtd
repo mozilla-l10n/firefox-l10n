@@ -46,6 +46,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Kembalikan Tab Tertutup">
 <!ENTITY  undoCloseTab.accesskey             "u">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -73,12 +77,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "B">
 <!ENTITY navbarCmd.label "Navigasi Bar Alatan">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Penandabuku Bar Alatan">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Penandabuku Bar Alatan Benda">
-<!ENTITY addonBarCmd.label "Bar Add-on ">
-<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -107,9 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "M">
 <!ENTITY fullscreenAllowButton.label "Benarkan">
 <!ENTITY fullscreenExitButton.label "Nafikan">
-<!ENTITY fullscreenApproval.value "Membenarkan skrin penuh?">
 
-<!ENTITY fullscreenExitHint.value "Tekan ESC pada bila-bila masa untuk keluar dari skrin penuh.">
 <!ENTITY leaveDOMFullScreen.label "Keluar dari Muka Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,22 +160,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Undur/Maju Hadapan">
 <!ENTITY locationItem.title           "Lokasi">
 <!ENTITY searchItem.title             "Carian">
-<!ENTITY throbberItem.title           "Penunjuk Aktiviti">
 <!ENTITY bookmarksItem.title          "Penandabuku">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Buka &brandShortName; menu">
-<!ENTITY homeButton.label             "Rerumah">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Tab Kumpulan">
 <!ENTITY tabGroupsButton.tooltip      "Kumpul tab-tab anda">
 
-<!ENTITY feedButton.label             "Langgan">
-<!ENTITY feedButton.tooltip           "Langgan ke laman ini…">
-
 <!ENTITY bookmarksButton.label          "Penandabuku">
-<!ENTITY bookmarksButton.tooltip        "Papar penandabuku anda">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Penandabuku">
@@ -192,7 +182,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Latar">
-<!ENTITY historyButton.tooltip          "Papar laman yang anda telah lihat baru ini">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alatan">
@@ -200,8 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Tambah satu Kata Kunci untuk pencarian ini…">
 <!ENTITY keywordfield.accesskey       "K">
-<!ENTITY search.label                 "Jaringan Pencarian">
-<!ENTITY search.accesskey             "P">
+
 <!ENTITY downloads.label              "Muat Turun">
 <!ENTITY downloads.tooltip            "Paparan perjalanan muat turun sedang bergerak">
 <!ENTITY downloads.accesskey          "T">
@@ -213,6 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Pembangun Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Sambung…">
 <!ENTITY devtoolsConnect.accesskey    "b">
@@ -259,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Tukar Peralatan">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Tukar peralatan pemaju">
 <!ENTITY devToolbarOtherToolsButton.label  "Lagi Alat">
@@ -316,8 +308,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "S">
 <!ENTITY viewCustomizeToolbar.label       "Penyesuaian…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "s">
-<!ENTITY viewTabsOnTop.label            "Tab-tab diatas">
-<!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "Latar">
 <!ENTITY historyMenu.accesskey "t">
@@ -326,20 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Tetingkap yang ditutup semasa">
 <!ENTITY historyRestoreLastSession.label "Pulih Sesi yang sebelum ini">
 
-<!ENTITY historyHomeCmd.label "Laman Utama">
 <!ENTITY showAllHistoryCmd2.label "Pamer Semua Latar">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edit">
 <!ENTITY appMenuCustomize.label "Pengubahsuaian">
-<!ENTITY appMenuToolbarLayout.label "Bentangan Bar Alatan ">
-<!ENTITY appMenuSidebars.label "Bar sebelah">
-<!ENTITY appMenuFind.label "Cari…">
-<!ENTITY appMenuUnsorted.label "Tidak isihan penandabuku">
-<!ENTITY appMenuWebDeveloper.label "Pembangun Web">
-<!ENTITY appMenuGettingStarted.label "Untuk Memulakan">
-<!ENTITY appMenuSafeMode.label "Mulakan semula tanpa Add-ons…">
-<!ENTITY appMenuSafeMode.accesskey "M">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
@@ -408,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Lihat Info Imej">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
+
+
 <!ENTITY viewVideoCmd.label           "Lihat Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Lihat Imej Latar Belakang">
@@ -543,15 +525,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Buka tingkap baharu">
 <!ENTITY sidebarCloseButton.tooltip     "Tutup bar sisi">
 
-<!ENTITY cutButton.tooltip              "Potong">
-<!ENTITY copyButton.tooltip             "Salin">
-<!ENTITY pasteButton.tooltip            "Tampal">
-
 <!ENTITY fullScreenButton.tooltip       "Papar tingkap dalam skrin penuh">
-
-<!ENTITY zoomOutButton.tooltip          "Zum ke luar">
-<!ENTITY zoomInButton.tooltip           "Zum ke dalam">
-<!ENTITY zoomControls.label             "Kawalan Zum">
 
 <!ENTITY quitApplicationCmdWin.label       "Keluar"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "K">
@@ -622,6 +596,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "yang dijalankan oleh">
 
 <!ENTITY identity.moreInfoLinkText "Lebih Banyak Maklumat…">
+
+<!ENTITY identity.permissions "Kebenaran">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +613,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Selarikan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY addonBarCloseButton.tooltip  "Tutupkan Bar Add-on">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Butang Bar Alatan Sosial">
 <!ENTITY social.notLoggedIn.label   "Tidak log masuk">
@@ -690,3 +663,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Benarkan Sekarang">
 
 <!ENTITY pluginBlockNow.label "Sekat Plugin">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "N">
+<!ENTITY addonBarCmd.label             "Bar Add-on ">
+<!ENTITY addonBarCmd.accesskey         "A">
+<!ENTITY throbberItem.title            "Penunjuk Aktiviti">
+<!ENTITY appMenuButton.label           "Menu">
+<!ENTITY appMenuButton.tooltip         "Buka &brandShortName; menu">
+<!ENTITY feedButton.label              "Langgan">
+<!ENTITY feedButton.tooltip            "Langgan ke laman ini…">
+<!ENTITY bookmarksButton.tooltip       "Papar penandabuku anda">
+<!ENTITY historyButton.tooltip         "Papar laman yang anda telah lihat baru ini">
+<!ENTITY viewTabsOnTop.label           "Tab-tab diatas">
+<!ENTITY viewTabsOnTop.accesskey       "T">
+<!ENTITY appMenuEdit.label             "Edit">
+<!ENTITY appMenuToolbarLayout.label    "Bentangan Bar Alatan ">
+<!ENTITY appMenuSidebars.label         "Bar sebelah">
+<!ENTITY appMenuFind.label             "Cari…">
+<!ENTITY appMenuUnsorted.label         "Tidak isihan penandabuku">
+<!ENTITY appMenuWebDeveloper.label     "Pembangun Web">
+<!ENTITY appMenuGettingStarted.label   "Untuk Memulakan">
+<!ENTITY appMenuSafeMode.label         "Mulakan semula tanpa Add-ons…">
+<!ENTITY appMenuSafeMode.accesskey     "M">
+<!ENTITY cutButton.tooltip             "Potong">
+<!ENTITY copyButton.tooltip            "Salin">
+<!ENTITY pasteButton.tooltip           "Tampal">
+<!ENTITY zoomOutButton.tooltip         "Zum ke luar">
+<!ENTITY zoomInButton.tooltip          "Zum ke dalam">
+<!ENTITY zoomControls.label            "Kawalan Zum">
+<!ENTITY addonBarCloseButton.tooltip   "Tutupkan Bar Add-on">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->
