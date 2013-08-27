@@ -16,10 +16,10 @@
 #define bookmarks_heading புத்தகக்குறிகள்
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder புத்தகக்குறிகளுக்கான கருவிப்பட்டி அடைவு
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description இந்த கோப்புறையில் புத்தகக்குறிகள் சேர்ப்பு அவைகளின் புத்தகக்குறிகளுக்கான கருவிப்பட்டையில் காட்டப்படும்
 
 
 # LOCALIZATION NOTE (getting_started):

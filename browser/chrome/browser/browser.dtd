@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "அனுமதி">
 <!ENTITY fullscreenExitButton.label "மறு">
 
+<!ENTITY fullscreenExitHint2.value "வெளியேற எந்த நேரத்திலும் ESC அழுத்தவும்.">
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
 <!ENTITY leaveDOMFullScreen.accesskey "ழ">
 
@@ -136,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
 <!ENTITY addCurPagesCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியீடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
-<!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புக்மார்க்குகள்">
+<!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கம் செய்யப்படாத புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 
 <!ENTITY backCmd.label                "பின்னால்">
@@ -162,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "இடம்">
 <!ENTITY searchItem.title             "தேடுதல்">
 <!ENTITY bookmarksItem.title          "புத்தகக்குறிகள்">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "இல்லம்">
 
 <!ENTITY tabGroupsButton.label        "தத்தல்கள் குழுக்கள்">
 <!ENTITY tabGroupsButton.tooltip      "உங்கள் தத்தல்களை குழுப்படுத்து">
@@ -200,9 +203,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "வலைத்தள டெவலப்பர்">
+<!ENTITY webDeveloperMenu.label       "வலைத்தள உருவாக்குனர்">
 <!ENTITY webDeveloperMenu.accesskey   "வ">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "இணை...">
@@ -243,15 +247,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY chromeDebuggerMenu.label       "உலாவி வழுநீக்கி">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "டெவலப்பர் கருவிப்பட்டை மூடவும்">
+<!ENTITY devToolbarCloseButton.tooltiptext "உருவாக்குனர் கருவிப்பட்டையை மூடவும்">
 <!ENTITY devToolbarMenu.label              "டெவலப்பர் கருவிப்பட்டை">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "கருவிகளை நிலைமாற்று">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "உருவாக்குநர் கருவிகளை நிலைமாற்று">
 <!ENTITY devToolbarOtherToolsButton.label  "இதர கருவிகள்">
@@ -389,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "படத் தகவலைப் பார்">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "விளக்கத்தை பார்க்க">
+<!ENTITY viewImageDescCmd.accesskey   "வ">
 <!ENTITY viewVideoCmd.label           "வீடியோவை காட்டு">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "பின்னணி படத்தைக் காட்டு">
@@ -508,19 +512,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "சிறிதாக்கு">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "ச">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "மறு அமை">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.label         "மீளமை">
+<!ENTITY fullZoomResetCmd.accesskey     "ம">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "உரையை மட்டும் அளவிடு">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "அளவிடு">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoomToggleCmd.accesskey    "உ">
+<!ENTITY fullZoom.label                 "பெரியதாக்கு">
+<!ENTITY fullZoom.accesskey             "ப">
 
 <!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
 <!ENTITY newWindowButton.tooltip        "ஒரு புதிய சாளரத்தைத் திற">
@@ -632,8 +636,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.description "<label/> இலிருந்து பெறும் சேவைகள் செயல்படுத்தப்பட்டுள்ளன. நீங்கள்சேவைகளுக்கான உங்கள் அமைவுகளை <label class='text-link'>துணை நிரல் நிர்வாகியில்</label> மாற்றியமைக்கலாம்.">
 <!ENTITY social.activated.undo.label "அச்சச்சோ, இதை செயல்தவிர்!">
 <!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "மேலும் அறிக…">
-<!ENTITY social.learnMore.accesskey "l">
+<!ENTITY social.learnMore.label "மேலும் அறிய...">
+<!ENTITY social.learnMore.accesskey "ம">
 <!ENTITY social.closeNotificationItem.label "இப்போது வேண்டாம்">
 
 <!ENTITY social.chatBar.commandkey "c">
