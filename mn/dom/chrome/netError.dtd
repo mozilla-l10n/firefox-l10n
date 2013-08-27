@@ -28,6 +28,7 @@
 <!ENTITY netInterrupt.title "Өгөгдлийн дамжуулалт тасарсан">
 
 
+<!ENTITY notCached.title "Хавтасны хугацаа дууссан">
 
 
 <!ENTITY netOffline.title "Салангид байна Алдаа">
@@ -74,10 +75,12 @@
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 
 
+<!ENTITY cspFrameAncestorBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
 
 
+<!ENTITY remoteXUL.title "Алсын XUL ">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
