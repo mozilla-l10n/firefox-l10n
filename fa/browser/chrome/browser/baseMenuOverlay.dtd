@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "راهنمای &brandShortName;">
 <!ENTITY productHelp.accesskey    "ر">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey   "م">
 

@@ -4,11 +4,12 @@
 
 <!ENTITY tracking.label                 "ره‌گیری">
 
+<!ENTITY dntTrackingNopref.label2       "به وب سایت ها هیچ چیزی در مورد تنظیمات ردیابی من نگو">
+<!ENTITY dntTrackingNopref.accesskey    "o">
 
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
 
-
-
-
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "بیشتر بدانید">
 
 <!ENTITY  history.label                 "تاریخچه">
@@ -27,9 +28,9 @@
 <!ENTITY  acceptCookies.accesskey       "ج">
 
 
-
-
-
+<!ENTITY  acceptThirdParty.always.label   "همیشه">
+<!ENTITY  acceptThirdParty.never.label    "هرگز">
+<!ENTITY  acceptThirdParty.visited.label  "از بازدید">
 
 <!ENTITY  keepUntil.label               "نگهداری شوند تا:">
 <!ENTITY  keepUntil.accesskey           "ن">
