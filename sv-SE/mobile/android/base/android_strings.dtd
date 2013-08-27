@@ -112,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Omforma text">
 <!ENTITY pref_restore "Flikar">
 <!ENTITY pref_restore_always "Återställ alltid">
-<!ENTITY pref_restore_crash "Återställ efter krasch">
-<!ENTITY pref_restore_never "Återställ aldrig">
+<!ENTITY pref_restore_quit "Återställ inte när &brandShortName; avslutats">
 <!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
