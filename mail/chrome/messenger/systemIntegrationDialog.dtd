@@ -3,6 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # strainu <narro@strainu.ro>
+# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
@@ -33,6 +34,6 @@
 <!ENTITY checkOnStartup.label "Verifică întotdeauna la pornirea &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
 
-<!ENTITY searchIntegration.label "Permite &searchIntegration.engineName; căutarea în mesaje">
+<!ENTITY searchIntegration.label "Permite la &searchIntegration.engineName; să caute în mesaje">
 <!ENTITY searchIntegration.accesskey "P">
 

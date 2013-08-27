@@ -43,7 +43,7 @@
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arhive de mesaje">
 <!ENTITY keepArchives.label "Păstrează mesajele arhivate în:">
-<!ENTITY keepArchives.accesskey "K">
+<!ENTITY keepArchives.accesskey "h">
 <!ENTITY archiveHierarchyButton.label "Opțiuni de arhivare…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Dosarul „Arhive” din:">

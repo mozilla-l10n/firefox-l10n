@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -36,7 +37,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
+<!ENTITY fullZoomToggleCmd.label        "Focalizare doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "d">
 <!ENTITY fullZoom.label                 "Focalizare">
 <!ENTITY fullZoom.accesskey             "f">

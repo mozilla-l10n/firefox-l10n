@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Marin Bînzari <spartakusmd@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -20,6 +21,6 @@
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Șterge">
 <!ENTITY removeButton.accesskey "t">
-<!ENTITY newMsgHeader.label "Nou antet mesaj:">
+<!ENTITY newMsgHeader.label "Antet de mesaj nou:">
 <!ENTITY newMsgHeader.accesskey "N">
 

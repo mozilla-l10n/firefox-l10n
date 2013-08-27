@@ -1,0 +1,50 @@
+<!--
+# Translator(s):
+#
+# mazilu59 <mazilu59@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# liviu_pvn <it.putnavrancea@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sincronizare">
+<!ENTITY sync.notconnected          "Neconectat">
+<!ENTITY sync.connect               "Conectare">
+<!ENTITY sync.connected             "Conectat">
+<!ENTITY sync.details               "Detalii">
+<!ENTITY sync.deviceName            "Acest dispozitiv">
+<!ENTITY sync.disconnect            "Deconectați">
+<!ENTITY sync.syncNow               "Sincronizați acum">
+
+<!ENTITY sync.setup.title           "Conectare la sincronizare">
+<!ENTITY sync.setup.pair            "Pentru activare, selectați „Împerecheați un dispozitiv” de pe celălalt dispozitiv.">
+<!ENTITY sync.fallback              "Nu sunt aproape de calculatorul meu…">
+<!ENTITY sync.setup.manual          "Introduceți informațiile contului dumneavoastră de sincronizare">
+<!ENTITY sync.account               "Numele contului">
+<!ENTITY sync.password              "Parola">
+<!ENTITY sync.recoveryKey           "Cheia de recuperare">
+<!ENTITY sync.customServer          "Folosiți server personalizat">
+<!ENTITY sync.serverURL             "Adresa severului">
+<!ENTITY sync.setup.connect         "Conectare">
+<!ENTITY sync.setup.cancel          "Renunță">
+<!ENTITY sync.setup.tutorial        "Arată-mi cum">
+<!ENTITY sync.setup.waiting2        "Se așteaptă după celălalt dispozitiv…">
+
+<!ENTITY sync.pair.title            "Împerechează un dispozitiv">
+<!ENTITY sync.pair.description      "Pentru a activa noul dispozitiv, selectați „Setați sincronizarea” pe celălalt dispozitiv.">
+<!ENTITY sync.setup.close           "Închidere">
+<!ENTITY sync.setup.waitingdownload "Datele dumneavoastră sunt în curs de descărcare în fundal. Puteți închide această fereastră oricând.">
+

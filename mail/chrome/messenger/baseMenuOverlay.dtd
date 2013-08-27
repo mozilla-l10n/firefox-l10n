@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -30,7 +31,7 @@
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Note asupra ediției">
 <!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Ce e nou">
+<!ENTITY whatsNewCmd.label "Ce este nou">
 <!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">

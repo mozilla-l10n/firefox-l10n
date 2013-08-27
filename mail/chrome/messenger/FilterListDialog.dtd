@@ -49,7 +49,7 @@
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "a">
 <!ENTITY choosethis.label "alege acest dosar">
-<!ENTITY choosethisnewsserver.label "alege acest server de news">
+<!ENTITY choosethisnewsserver.label "alege acest server de știri">
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 

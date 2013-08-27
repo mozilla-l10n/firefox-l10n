@@ -28,9 +28,9 @@
 <!ENTITY cut.label              "Taie">
 <!ENTITY copy.label             "Copiază">
 <!ENTITY paste.label            "Lipește">
-<!ENTITY print.label            "Imprimă">
+<!ENTITY print.label            "Tipărește">
 <!ENTITY find.label             "Caută">
-<!ENTITY image.label            "imagine">
+<!ENTITY image.label            "Imagine">
 <!ENTITY hline.label            "Linie">
 <!ENTITY table.label            "Tabel">
 <!ENTITY link.label             "Legătură">

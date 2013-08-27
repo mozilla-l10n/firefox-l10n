@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -31,7 +33,7 @@
 <!ENTITY notInToCc.accesskey           "D">
 <!ENTITY outsideDomain.label           "Dacă expeditorul nu este în domeniul meu:">
 <!ENTITY outsideDomain.accesskey       "t">
-<!ENTITY otherCases.label              "Altfel:">
+<!ENTITY otherCases.label              "În toate celelalte cazuri:">
 <!ENTITY otherCases.accesskey          "A">
 <!ENTITY askMe.label                   "Întreabă-mă">
 <!ENTITY alwaysSend.label              "Trimite">

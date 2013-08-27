@@ -2,8 +2,9 @@
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
+# Lucian Oprea <oprea.luci@gmail.com>
 # strainu <narro@strainu.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 # Nicu <kneekoo@yahoo.com>
 # ed62 <eduard.pintilie@gmail.com>
 #
@@ -56,11 +57,11 @@
 <!ENTITY calendar.exit.label                               "Ieșire">
 <!ENTITY calendar.exit.accesskey                           "I">
 
-<!ENTITY calendar.undo.label                               "Desfă">
+<!ENTITY calendar.undo.label                               "Anulează">
 <!ENTITY calendar.undo.key                                 "Z">
-<!ENTITY calendar.undo.accesskey                           "D">
+<!ENTITY calendar.undo.accesskey                           "a">
 
-<!ENTITY calendar.redo.label                               "Refă">
+<!ENTITY calendar.redo.label                               "Revenire">
 <!ENTITY calendar.redo.key                                 "Y">
 <!ENTITY calendar.redo.accesskey                           "R">
 

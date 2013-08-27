@@ -23,7 +23,7 @@
 
 <!ENTITY move.label "Mută mesajele nesolicitate noi în:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Dosarul cu mesaje nesolicitate din:">
+<!ENTITY junkFolderOn.label "Dosarul cu „mesaje nesolicitate” din:">
 <!ENTITY junkFolderOn.accesskey "j">
 <!ENTITY otherFolder.label "Altul:">
 <!ENTITY otherFolder.accesskey "A">
@@ -41,6 +41,6 @@
 <!ENTITY junkClassification.label "Selecție">
 <!ENTITY junkActions.label "Destinație și păstrare">
 
-<!ENTITY globalJunkPrefs.label "Global Junk Preferences…">
-<!ENTITY globalJunkPrefs.accesskey "G">
+<!ENTITY globalJunkPrefs.label "Preferințe globale pentru mesajele spam…">
+<!ENTITY globalJunkPrefs.accesskey "s">
 

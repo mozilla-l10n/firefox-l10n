@@ -1,7 +1,6 @@
 <!--
 # Translator(s):
 #
-# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # raulmalea <raul.malea@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
@@ -39,7 +38,7 @@
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
 
-<!ENTITY attachments.incoming.label   "Primite">
+<!ENTITY attachments.incoming.label   "Primire">
 <!ENTITY attachments.outgoing.label   "Expediere">
 
 <!ENTITY addCloudFileAccount.label        "Adăugare">

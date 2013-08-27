@@ -4,6 +4,7 @@
 # nicubunu <nicubunu@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # janimo <jani@ubuntu.com>
 # rz <rz@r2dev.ro>
 #
@@ -37,7 +38,7 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Verifică mesaje noi la fiecare">
+<!ENTITY biffStart.label "Verifică pentru mesaje noi la fiecare ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "Minute">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
@@ -49,7 +50,7 @@
 <!ENTITY authMethod.label "Metoda de autentificare:">
 <!ENTITY authMethod.accesskey "m">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
-<!ENTITY leaveOnServer.accesskey "z">
+<!ENTITY leaveOnServer.accesskey "v">
 <!ENTITY headersOnly.label "Descarcă doar antetele">
 <!ENTITY headersOnly.accesskey "D">
 <!ENTITY deleteByAgeFromServer.label "Pentru cel mult">
@@ -59,7 +60,7 @@
 <!ENTITY deleteOnServer2.accesskey "P">
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "D">
-<!ENTITY username.label "Numele dumneavoastră de login">
+<!ENTITY username.label "Numele dumneavoastră de autentificare">
 <!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "M">
@@ -72,7 +73,7 @@
 <!ENTITY expungeOnExit.accesskey "o">
 <!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
 <!ENTITY emptyTrashOnExit.accesskey "G">
-<!ENTITY loginAtStartup.label "Verifică mesaje noi la pornire">
+<!ENTITY loginAtStartup.label "Verifică pentru mesaje noi la pornire">
 <!ENTITY loginAtStartup.accesskey "V">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -100,5 +101,5 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Setările contului">
-<!ENTITY accountSettingsDesc.label "Acesta este un cont special, cu care nu este asociată nici o identitate.">
+<!ENTITY accountSettingsDesc.label "Acesta este un cont special. Cu acesta nu sunt asociate identități.">
 

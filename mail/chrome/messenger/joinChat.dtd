@@ -21,7 +21,7 @@
 <!ENTITY joinChatWindow.title           "Pornire conversație">
 <!ENTITY name.label                     "Cameră">
 <!ENTITY optional.label                 "(opțional)">
-<!ENTITY account.label                  "Contul meu">
+<!ENTITY account.label                  "Cont">
 <!ENTITY autojoin.label                 "Conectare automată la această cameră de chat">
 <!ENTITY autojoin.accesskey             "A">
 

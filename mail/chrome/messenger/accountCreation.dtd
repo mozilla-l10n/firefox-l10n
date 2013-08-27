@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
 # silviubogan <silviubogan@yahoo.com>
@@ -24,8 +25,8 @@
 <!ENTITY autoconfigWizard.title          "Setarea contului de email">
 <!ENTITY name.label                      "Numele dumneavoastră:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "First Last">
-<!ENTITY name.text                       "Numele dumneavoastră, așa cum e afișat altora">
+<!ENTITY name.placeholder                "Prenume Nume">
+<!ENTITY name.text                       "Numele dumneavoastră așa cum este afișat altora">
 <!ENTITY email.label                     "Adresa de email:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.placeholder               "email@exemplu.ro">

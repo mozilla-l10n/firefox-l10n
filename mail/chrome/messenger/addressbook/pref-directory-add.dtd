@@ -42,7 +42,7 @@
 <!ENTITY scope.accesskey                   "I">
 <!ENTITY scopeOneLevel.label               "Un nivel">
 <!ENTITY scopeOneLevel.accesskey           "n">
-<!ENTITY scopeSubtree.label                "Sub-arborele">
+<!ENTITY scopeSubtree.label                "Sub-arbore">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Nu întoarce mai mult de">
 <!ENTITY return.accesskey                  "r">

@@ -1,6 +1,7 @@
 <!--
 # Translator(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
@@ -8,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
@@ -39,7 +41,7 @@
 <!ENTITY notInToCc.accesskey          "c">
 <!ENTITY outsideDomain.label          "Dacă expeditorul nu este în domeniul meu:">
 <!ENTITY outsideDomain.accesskey      "x">
-<!ENTITY otherCases.label             "Altfel:">
+<!ENTITY otherCases.label             "În toate celelalte cazuri:">
 <!ENTITY otherCases.accesskey         "A">
 <!ENTITY askMe.label                  "Întreabă-mă">
 <!ENTITY alwaysSend.label             "Trimite">

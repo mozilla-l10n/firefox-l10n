@@ -28,9 +28,9 @@
 
 <!ENTITY editMenu.label          "Editare">
 <!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Desfă">
+<!ENTITY undoCmd.label            "Anulează">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY undoCmd.accesskey          "l">
 <!ENTITY redoCmd.label            "Refă">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">

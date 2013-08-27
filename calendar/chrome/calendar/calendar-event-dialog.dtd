@@ -4,6 +4,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # raulmalea <raul.malea@gmail.com>
+# Lucian Oprea <oprea.luci@gmail.com>
 # Ursan Marius Bogdan <Creationn@gmail.com>
 # Octi <octavianiolu@gmail.com>
 #
@@ -30,9 +31,9 @@
 
 <!ENTITY newevent.status.label                    "Stare" >
 <!ENTITY newevent.status.accesskey                "S" >
-<!ENTITY newevent.eventStatus.none.label          "Nespecificat" >
-<!ENTITY newevent.eventStatus.none.accesskey      "o" >
-<!ENTITY newevent.todoStatus.none.label           "Nespecificat" >
+<!ENTITY newevent.eventStatus.none.label          "Nespecificată" >
+<!ENTITY newevent.eventStatus.none.accesskey      "n" >
+<!ENTITY newevent.todoStatus.none.label           "Nespecificată" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Anulat" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Anulat" >
@@ -64,11 +65,11 @@
 
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Creează">
-<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.accesskey                   "C">
 <!ENTITY  event.menu.item.new.event.label                 "Eveniment">
 <!ENTITY  event.menu.item.new.event.accesskey             "E">
 <!ENTITY  event.menu.item.new.task.label                  "Sarcină">
-<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.task.accesskey              "S">
 <!ENTITY  event.menu.item.new.message.label               "Mesaj">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
 <!ENTITY  event.menu.item.new.contact.label               "Contact în agenda de contacte">
@@ -82,15 +83,15 @@
 <!ENTITY  event.menu.item.delete.label                    "Șterge…">
 <!ENTITY  event.menu.item.delete.accesskey                "g">
 <!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
-<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.page.setup.accesskey            "A">
 <!ENTITY  event.menu.item.print.label                     "Tipărește">
 <!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
-<!ENTITY  event.menu.edit.undo.label                      "Desfă">
-<!ENTITY  event.menu.edit.undo.accesskey                  "D">
-<!ENTITY  event.menu.edit.redo.label                      "Refă">
+<!ENTITY  event.menu.edit.undo.label                      "Anulează">
+<!ENTITY  event.menu.edit.undo.accesskey                  "A">
+<!ENTITY  event.menu.edit.redo.label                      "Revenire">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "Taie">
 <!ENTITY  event.menu.edit.cut.accesskey                   "T">
@@ -178,7 +179,7 @@
 <!ENTITY event.attendees.accesskey                        "a" >
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Început:" >
+<!ENTITY event.from.label                                 "Dată de început:" >
 <!ENTITY event.from.accesskey                             "n">
 <!ENTITY task.from.label                                  "Început:" >
 <!ENTITY task.from.accesskey                              "n">
@@ -188,7 +189,7 @@
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stare:" >
 <!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "Repetă:" >
+<!ENTITY event.repeat.label                               "Repetare:" >
 <!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.until.label                                "Până la:">
 <!ENTITY event.until.accesskey                            "P">
@@ -200,7 +201,7 @@
 <!ENTITY event.attachments.accesskey                      "A" >
 <!ENTITY event.attachments.menubutton.label               "Anexează">
 <!ENTITY event.attachments.menubutton.accesskey           "x">
-<!ENTITY event.attachments.url.label                      "Pagina web…">
+<!ENTITY event.attachments.url.label                      "Pagină web…">
 <!ENTITY event.attachments.url.accesskey                  "w">
 <!ENTITY event.attachments.popup.remove.label             "Elimină" >
 <!ENTITY event.attachments.popup.remove.accesskey         "E" >
@@ -247,17 +248,17 @@
 <!ENTITY event.recurrence.month.label                   "lunar" >
 <!ENTITY event.recurrence.year.label                    "anual" >
 
-<!ENTITY event.recurrence.pattern.every.label           "În fiecare" >
+<!ENTITY event.recurrence.pattern.every.label           "La fiecare" >
 <!ENTITY repeat.units.days.both                         "zi(le)" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "În fiecare zi a săptămânii" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "În fiecare" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "La fiecare" >
 <!ENTITY repeat.units.weeks.both                        "săptămâni" >
 <!ENTITY event.recurrence.on.label                      "Pe:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "În fiecare" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "La fiecare" >
 <!ENTITY repeat.units.months.both                       "luni" >
-<!ENTITY event.recurrence.monthly.every.label           "În fiecare" >
+<!ENTITY event.recurrence.monthly.every.label           "La fiecare" >
 <!ENTITY event.recurrence.monthly.first.label           "Prima">
 <!ENTITY event.recurrence.monthly.second.label          "A doua">
 <!ENTITY event.recurrence.monthly.third.label           "A treia">
@@ -276,7 +277,7 @@
 
 <!ENTITY event.recurrence.every.label                        "La fiecare:" >
 <!ENTITY repeat.units.years.both                             "ani" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "În fiecare" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "La fiecare" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -299,7 +300,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "octombrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "noiembrie" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "decembrie" >
-<!ENTITY event.recurrence.yearly.every.label                 "În fiecare">
+<!ENTITY event.recurrence.yearly.every.label                 "La fiecare">
 <!ENTITY event.recurrence.yearly.first.label                 "Prima">
 <!ENTITY event.recurrence.yearly.second.label                "A doua">
 <!ENTITY event.recurrence.yearly.third.label                 "A treia">

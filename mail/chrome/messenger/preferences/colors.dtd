@@ -18,8 +18,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Allow content to choose its own colors, instead of my selections above">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+<!ENTITY  allowPagesToUse.label           "Permite conținutului să aleagă propriile sale culori, în loc de selecțiile mele de mai sus">
+<!ENTITY  allowPagesToUse.accesskey       "p">
 
 <!ENTITY  color                           "Text și fundal">
 <!ENTITY  textColor.label                 "Text:">

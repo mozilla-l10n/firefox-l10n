@@ -65,13 +65,13 @@
 <!ENTITY accountColumn.label "Cont">
 <!ENTITY statusColumn.label "Stare">
 <!ENTITY sizeColumn.label "Mărime">
-<!ENTITY junkStatusColumn.label "Este nesolicitat">
+<!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
 <!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
-<!ENTITY locationColumn.label "Amplasare">
+<!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordine de primire">
 
 <!-- Thread Pane Tooltips -->

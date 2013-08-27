@@ -25,14 +25,14 @@
 <!ENTITY conversationsHeader.label     "Conversații">
 <!ENTITY searchResultConversation.label "Rezultat căutare">
 <!ENTITY chat.noConv.title             "Conversația va fi afișată aici.">
-<!ENTITY chat.noConv.description       "Folosiți lista de prieteni din panoul stâng pentru a începe o conversație.">
+<!ENTITY chat.noConv.description       "Folosiți lista de prieteni din panoul din stânga pentru a începe o conversație.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; nu are în prezent vreo conversație anterioară stocată pentru acest contact.">
-<!ENTITY chat.noAccount.title             "Încă nu ați configurat un cont de conversație.">
-<!ENTITY chat.noAccount.description       "Permiteți &brandShortName; să vă ghideze prin procesul de configurare al contului de conversație.">
+<!ENTITY chat.noAccount.title             "Încă nu ați configurat un cont de chat.">
+<!ENTITY chat.noAccount.description       "Permiteți &brandShortName; să vă ghideze prin procesul de configurare al contului de chat.">
 <!ENTITY chat.accountWizard.button       "Începe">
-<!ENTITY chat.noConnectedAccount.title             "Conturile dumneavoastră de conversație nu sunt conectate.">
+<!ENTITY chat.noConnectedAccount.title             "Conturile dumneavoastră de chat nu sunt conectate.">
 <!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
-<!ENTITY chat.showAccountManager.button       "Arată starea chatului">
+<!ENTITY chat.showAccountManager.button       "Arată statusul chatului">
 
 <!ENTITY chat.participants             "Participanți:">
 <!ENTITY chat.previousConversations    "Conversații anterioare:">
@@ -56,7 +56,7 @@
 
 <!ENTITY status.available          "Disponibil">
 <!ENTITY status.unavailable        "Indisponibil">
-<!ENTITY status.offline            "Deconectați">
+<!ENTITY status.offline            "Deconectat">
 
 <!ENTITY openLinkCmd.label            "Deschide legătura…">
 <!ENTITY openLinkCmd.accesskey        "d">

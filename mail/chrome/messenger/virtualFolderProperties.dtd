@@ -3,12 +3,14 @@
 #
 # turcan <nicturcan@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
@@ -27,7 +29,7 @@
 <!ENTITY chooseFoldersButton.label "Alege…">
 <!ENTITY chooseFoldersButton.accesskey "A">
 
-<!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și News dar timpul de deschidere al dosarului crește)">
+<!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și Știri dar timpul de deschidere al dosarului crește)">
 <!ENTITY searchOnline.accesskey "o">
 <!ENTITY newFolderButton.label       "Creează">
 <!ENTITY newFolderButton.accesskey   "r">

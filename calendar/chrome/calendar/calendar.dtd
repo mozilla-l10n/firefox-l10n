@@ -83,16 +83,16 @@
 
 <!ENTITY calendar.nextday.label                 "Ziua următoare" >
 <!ENTITY calendar.prevday.label                 "Ziua trecută" >
-<!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextday.accesskey             "u" >
+<!ENTITY calendar.prevday.accesskey             "t" >
 <!ENTITY calendar.nextweek.label                "Săptămâna viitoare" >
 <!ENTITY calendar.prevweek.label                "Săptămâna trecută" >
 <!ENTITY calendar.nextweek.accesskey            "x" >
 <!ENTITY calendar.prevweek.accesskey            "s" >
 <!ENTITY calendar.nextmonth.label               "Luna următoare" >
 <!ENTITY calendar.prevmonth.label               "Luna trecută" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.nextmonth.accesskey           "u" >
+<!ENTITY calendar.prevmonth.accesskey           "t" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Cu o zi înainte" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Cu o zi înapoi" >
@@ -206,7 +206,7 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritate">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "Sarcină de amânare">
+<!ENTITY calendar.context.postpone.label              "Amână sarcina cu">
 <!ENTITY calendar.context.postpone.accesskey          "S">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->

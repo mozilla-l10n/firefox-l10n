@@ -24,7 +24,7 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Adaugă un cont de corespondență…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Adăugare cont de conversație…">
+<!ENTITY addIMAccountButton.label "Adăugare cont de chat…">
 <!ENTITY addIMAccountButton.accesskey "t">
 <!ENTITY addFeedAccountButton.label "Add Feed Account…">
 <!ENTITY addFeedAccountButton.accesskey "F">
