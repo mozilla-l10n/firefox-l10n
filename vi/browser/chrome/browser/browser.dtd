@@ -46,6 +46,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "u">
 <!ENTITY  undoCloseTab.label                 "Hoàn tác Đóng Thẻ">
 <!ENTITY  undoCloseTab.accesskey             "H">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Đóng Thẻ">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -73,12 +77,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Thanh Trình Đơn">
 <!ENTITY menubarCmd.accesskey "a">
 <!ENTITY navbarCmd.label "Thanh Điều Hướng">
-<!ENTITY navbarCmd.accesskey "H">
 <!ENTITY personalbarCmd.label "Thanh Đánh Dấu">
 <!ENTITY personalbarCmd.accesskey "u">
 <!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh Dấu">
-<!ENTITY addonBarCmd.label "Thanh Tiện Ích">
-<!ENTITY addonBarCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Mã nguồn của Trang">
 <!ENTITY pageSourceCmd.accesskey "M">
@@ -107,9 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "c">
 <!ENTITY fullscreenAllowButton.label "Cho phép">
 <!ENTITY fullscreenExitButton.label "Từ chối">
-<!ENTITY fullscreenApproval.value "Cho phép toàn màn hình?">
 
-<!ENTITY fullscreenExitHint.value "Ấn ESC để thoát khỏi chế đệ toàn màn hình.">
 <!ENTITY leaveDOMFullScreen.label "Thoát chế độ Toàn màn hình">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -161,22 +160,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Trước/Sau">
 <!ENTITY locationItem.title           "Địa chỉ">
 <!ENTITY searchItem.title             "Tìm kiếm">
-<!ENTITY throbberItem.title           "Chỉ báo Hoạt động">
 <!ENTITY bookmarksItem.title          "Trang ưa thích">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Trình đơn">
-<!ENTITY appMenuButton.tooltip        "Mở trình đơn &brandShortName;">
-<!ENTITY homeButton.label             "Trang chủ">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Các Nhóm Thẻ">
 <!ENTITY tabGroupsButton.tooltip      "Nhóm các thẻ của bạn">
 
-<!ENTITY feedButton.label             "Đăng kí theo dõi">
-<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
-
 <!ENTITY bookmarksButton.label          "Trang ưa thích">
-<!ENTITY bookmarksButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Trang ưa thích">
@@ -192,7 +182,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Lịch sử">
-<!ENTITY historyButton.tooltip          "Hiển thị các trang bạn đã xem gần đây">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Công cụ">
@@ -200,8 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Tạo một Từ khóa cho Cách tìm kiếm này…">
 <!ENTITY keywordfield.accesskey       "m">
-<!ENTITY search.label                 "Tìm kiếm trên Web">
-<!ENTITY search.accesskey             "m">
+
 <!ENTITY downloads.label              "Trang tải xuống (d)">
 <!ENTITY downloads.tooltip            "Hiển thị tiến trình của các phiên tải xuống">
 <!ENTITY downloads.accesskey          "d">
@@ -213,6 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Kết nối... (e)">
 <!ENTITY devtoolsConnect.accesskey    "e">
@@ -259,6 +249,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Bật tắt công cụ (T)">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+
+
 
 <!ENTITY devToolbarToolsButton.tooltip     "Bật tắt công cụ phát triển">
 <!ENTITY devToolbarOtherToolsButton.label  "Thêm công cụ">
@@ -316,8 +308,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "L">
 <!ENTITY viewCustomizeToolbar.label       "Tùy biến…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "b">
-<!ENTITY viewTabsOnTop.label            "Thẻ nằm Trên cùng">
-<!ENTITY viewTabsOnTop.accesskey        "r">
 
 <!ENTITY historyMenu.label "Lịch sử">
 <!ENTITY historyMenu.accesskey "s">
@@ -326,20 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Các cửa sổ Đã đóng Gần đây">
 <!ENTITY historyRestoreLastSession.label "Khôi phục Phiên làm việc Trước">
 
-<!ENTITY historyHomeCmd.label "Trang chủ">
 <!ENTITY showAllHistoryCmd2.label "Hiển thị Toàn bộ Lược sử">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Chỉnh sửa">
 <!ENTITY appMenuCustomize.label "Tùy biến">
-<!ENTITY appMenuToolbarLayout.label "Bố cục Thanh công cụ…">
-<!ENTITY appMenuSidebars.label "Thanh lề">
-<!ENTITY appMenuFind.label "Tìm…">
-<!ENTITY appMenuUnsorted.label "Các trang đánh dấu Chưa sắp xếp">
-<!ENTITY appMenuWebDeveloper.label "Nhà phát triển Web">
-<!ENTITY appMenuGettingStarted.label "Bắt đầu">
-<!ENTITY appMenuSafeMode.label "Khởi động lại và vô hiệu hóa Tiện ích…">
-<!ENTITY appMenuSafeMode.accesskey "v">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Tìm hoặc nhập địa chỉ">
@@ -408,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "e">
 <!ENTITY viewImageInfoCmd.label       "Xem Thông tin của Hình ảnh">
 <!ENTITY viewImageInfoCmd.accesskey   "e">
+
+
 <!ENTITY viewVideoCmd.label           "Xem Phim">
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Xem Ảnh Nền">
@@ -543,15 +525,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Mở một cửa sổ mới">
 <!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
 
-<!ENTITY cutButton.tooltip              "Cắt">
-<!ENTITY copyButton.tooltip             "Chép">
-<!ENTITY pasteButton.tooltip            "Dán">
-
 <!ENTITY fullScreenButton.tooltip       "Hiển thị cửa sổ trong chế độ toàn màn hình">
-
-<!ENTITY zoomOutButton.tooltip          "Thu nhỏ">
-<!ENTITY zoomInButton.tooltip           "Phóng to">
-<!ENTITY zoomControls.label             "Điều khiển Thu phóng">
 
 <!ENTITY quitApplicationCmdWin.label       "Thoát"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "o">
@@ -622,6 +596,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "thuộc quyền kiểm soát của">
 
 <!ENTITY identity.moreInfoLinkText "Thông tin Chi tiết…">
+
+<!ENTITY identity.permissions "Quyền hạn">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +613,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Đồng bộ Ngay">
 <!ENTITY syncSyncNowItem.accesskey    "a">
 <!ENTITY syncToolbarButton.label      "Đồng bộ">
-
-<!ENTITY addonBarCloseButton.tooltip  "Đóng Thanh Tiện Ích">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Nút hiển thị thanh công cụ mạng xã hội">
 <!ENTITY social.notLoggedIn.label   "Chưa đăng nhập">
@@ -690,3 +663,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Chỉ cho phép bây giờ">
 <!ENTITY pluginActivateAlways.label "Cho phép và ghi nhớ">
 <!ENTITY pluginBlockNow.label "Chặn plugin">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "H">
+<!ENTITY addonBarCmd.label             "Thanh Tiện Ích">
+<!ENTITY addonBarCmd.accesskey         "a">
+<!ENTITY throbberItem.title            "Chỉ báo Hoạt động">
+<!ENTITY appMenuButton.label           "Trình đơn">
+<!ENTITY appMenuButton.tooltip         "Mở trình đơn &brandShortName;">
+<!ENTITY feedButton.label              "Đăng kí theo dõi">
+<!ENTITY feedButton.tooltip            "Đăng kí nhận tin từ trang này…">
+<!ENTITY bookmarksButton.tooltip       "Hiển thị các trang đánh dấu của bạn">
+<!ENTITY historyButton.tooltip         "Hiển thị các trang bạn đã xem gần đây">
+<!ENTITY viewTabsOnTop.label           "Thẻ nằm Trên cùng">
+<!ENTITY viewTabsOnTop.accesskey       "r">
+<!ENTITY appMenuEdit.label             "Chỉnh sửa">
+<!ENTITY appMenuToolbarLayout.label    "Bố cục Thanh công cụ…">
+<!ENTITY appMenuSidebars.label         "Thanh lề">
+<!ENTITY appMenuFind.label             "Tìm…">
+<!ENTITY appMenuUnsorted.label         "Các trang đánh dấu Chưa sắp xếp">
+<!ENTITY appMenuWebDeveloper.label     "Nhà phát triển Web">
+<!ENTITY appMenuGettingStarted.label   "Bắt đầu">
+<!ENTITY appMenuSafeMode.label         "Khởi động lại và vô hiệu hóa Tiện ích…">
+<!ENTITY appMenuSafeMode.accesskey     "v">
+<!ENTITY cutButton.tooltip             "Cắt">
+<!ENTITY copyButton.tooltip            "Chép">
+<!ENTITY pasteButton.tooltip           "Dán">
+<!ENTITY zoomOutButton.tooltip         "Thu nhỏ">
+<!ENTITY zoomInButton.tooltip          "Phóng to">
+<!ENTITY zoomControls.label            "Điều khiển Thu phóng">
+<!ENTITY addonBarCloseButton.tooltip   "Đóng Thanh Tiện Ích">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->
