@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "Trợ giúp &brandShortName;">
 <!ENTITY productHelp.accesskey    "p">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "K">
 
