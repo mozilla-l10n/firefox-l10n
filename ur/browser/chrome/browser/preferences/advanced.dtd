@@ -100,6 +100,7 @@
 <!ENTITY updateAutoAddonWarn.label       "اگر یہ میرے کوئی بھی ایڈ اون نا اہل بنائے گا تو مجھے متنبہ کریں">
 <!ENTITY updateAutoAddonWarn.accesskey   "م">
 
+<!ENTITY updateAutoMetroWarn.label       "(Windows 8 طرز &brandShortName; ایڈ اون موازنت چیک نہیں کرتا)">
 
 <!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
 <!ENTITY updateHistory.accesskey         "ت">

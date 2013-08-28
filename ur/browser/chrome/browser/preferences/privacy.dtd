@@ -5,11 +5,11 @@
 <!ENTITY tracking.label                 "ٹریکنگ">
 
 <!ENTITY dntTrackingNopref.label2       "سائٹوں کو میری سراغ کاری ترجیحات کے بارے میں میں کچھ بھی نہیں بتائیں">
-
+<!ENTITY dntTrackingNopref.accesskey    "o">
 <!ENTITY dntTrackingNotOkay.label2      "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
 <!ENTITY dntTrackingOkay.label2         "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-
+<!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "اور سیکھیں">
 
 <!ENTITY  history.label                 "سابقات">
