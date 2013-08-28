@@ -8,5 +8,5 @@
 <!ENTITY aboutAddons.messageTitle "Ой-ой!">
 <!ENTITY aboutAddons.message "Извините! &brandShortName; работает над тем, чтобы добавить поддержку дополнений.">
 <!ENTITY aboutAddons.goBackToStartStart "Вернуться на ">
-<!ENTITY aboutAddons.goBacktoStartLink "Стартовую страницу &brandShortName;">
-<!ENTITY aboutAddons.goBacktoStartEnd ".">
+<!ENTITY aboutAddons.goBacktoStartLink "Начальную страницу &brandShortName;.">
+<!ENTITY aboutAddons.goBacktoStartEnd " ">
