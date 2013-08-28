@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; Uncedo">
 <!ENTITY productHelp.accesskey    "U">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Izinqumleli Zekhibhodi">
+<!ENTITY helpKeyboardShortcuts.accesskey "I">
+
 <!ENTITY helpSafeMode.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY helpSafeMode.accesskey   "Q">
 

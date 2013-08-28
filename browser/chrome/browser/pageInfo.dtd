@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Vumela Iseshoni">
 <!ENTITY  permBlock             "Nqanda">
 <!ENTITY  permissionsFor        "Imvume ye-:">
-<!ENTITY  permImage             "Layisha Imifanekiso">
-<!ENTITY  permPopup             "Vula iifestile ezizivelelayo">
-<!ENTITY  permCookie            "Seta iikhukhi">
-<!ENTITY  permNotifications     "Bonisa Izaziso">
-<!ENTITY  permInstall           "Fakela iZongezelelo or iMixholo">
-<!ENTITY  permGeo               "Yabelana ngeNdawo">
 <!ENTITY  permPlugins           "Yenza iisoftwe ezincedisayo zisebenze">
-<!ENTITY  permFullscreen        "Faka isikrin esipheleleyo">
-<!ENTITY  permPointerLock2      "Fihla Isalathi SeMawusi">
 
-<!ENTITY  permIndexedDB              "Londoloza ugcino olungekho kwinethiwekhi">
 <!ENTITY  permClearStorage           "Susa ugcino">
 <!ENTITY  permClearStorage.accesskey "C">
 
