@@ -211,26 +211,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "o">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "WWW-ammattilainen">
+<!ENTITY webDeveloperMenu.label       "Web-työkalut (englanninkielisiä)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsConnect.label        "Yhdistä…">
-<!ENTITY devtoolsConnect.accesskey    "Y">
+<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY errorConsoleCmd.label        "Virhekonsoli">
-<!ENTITY errorConsoleCmd.accesskey    "V">
+<!ENTITY errorConsoleCmd.label        "Error Console">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 
-<!ENTITY remoteWebConsoleCmd.label    "Web-konsoli etäyhteydellä">
+<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
 
-<!ENTITY browserConsoleCmd.label      "Selainkonsoli">
+<!ENTITY browserConsoleCmd.label      "Browser Console">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "S">
+<!ENTITY browserConsoleCmd.accesskey  "B">
 
-<!ENTITY inspectContextMenu.label     "Tutki elementtiä">
-<!ENTITY inspectContextMenu.accesskey "T">
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY responsiveDesignTool.label   "Mukautuva suunnittelunäkymä">
-<!ENTITY responsiveDesignTool.accesskey "s">
+<!ENTITY responsiveDesignTool.label   "Responsive Design View">
+<!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -243,25 +243,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Töherryssivu">
-<!ENTITY scratchpad.accesskey         "T">
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
 <!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
   -  application menu item that opens the browser debugger UI in the Tools menu. -->
-<!ENTITY chromeDebuggerMenu.label       "Selaimen virheenjäljitin">
+<!ENTITY chromeDebuggerMenu.label       "Browser Debugger">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Sulje kehitystyökalupalkki">
-<!ENTITY devToolbarMenu.label              "Kehitystyökalupalkki">
-<!ENTITY devToolbarMenu.accesskey          "K">
+<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
+<!ENTITY devToolbarMenu.label              "Developer Toolbar">
+<!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Näytä/Piilota työkalut">
-<!ENTITY devToolboxMenuItem.accesskey      "N">
+<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Näytä tai piilota kehittäjän työkalut">
-<!ENTITY devToolbarOtherToolsButton.label  "Lisää työkaluja">
+<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hae lisää työkaluja">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "t">
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuSidebars.label "Sivupaneeli">
 <!ENTITY appMenuFind.label "Etsi…">
 <!ENTITY appMenuUnsorted.label "Järjestelemättä olevat kirjanmerkit">
-<!ENTITY appMenuWebDeveloper.label "WWW-kehitystyökalut">
+<!ENTITY appMenuWebDeveloper.label "Web-työkalut (englanninkielisiä)">
 <!ENTITY appMenuGettingStarted.label "Alkuun pääseminen">
 <!ENTITY appMenuSafeMode.label "Käynnistä uudelleen lisäosat pois päältä…">
 <!ENTITY appMenuSafeMode.accesskey "K">
