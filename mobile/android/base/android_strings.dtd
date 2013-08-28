@@ -112,8 +112,7 @@
 <!ENTITY pref_reflow_on_zoom4 "重排文字">
 <!ENTITY pref_restore "分頁">
 <!ENTITY pref_restore_always "總是還原">
-<!ENTITY pref_restore_crash "發生錯誤後再還原">
-<!ENTITY pref_restore_never "不要還原">
+<!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
 <!ENTITY pref_font_size_tiny "非常小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
@@ -282,7 +281,7 @@ size. -->
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable.. -->
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!ENTITY home_reading_list_hint "秘訣: 長點標題列中的 &#37;I 圖示，將文件儲存到您的閱讀清單。">
 
 <!ENTITY home_most_visited_empty "您最常開啟的網站將會顯示於此">
@@ -329,6 +328,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "您想要開啟 &formatS; 的搜尋建議功能嗎？">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "使用 &formatS1; 搜尋 &formatS2;">
 
 <!ENTITY webapp_generic_name "程式">
 
