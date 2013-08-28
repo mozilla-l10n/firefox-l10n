@@ -20,6 +20,10 @@
 <!ENTITY  reloadTab.accesskey                "o">
 <!ENTITY  reloadAllTabs.label                "Yeesal yeneen koñ yi">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
 <!ENTITY  closeOtherTabs.label               "Tëj yeneen koñ yi">
 <!ENTITY  closeOtherTabs.accesskey           "y">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -41,6 +45,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "a">
 <!ENTITY  undoCloseTab.label                 "Neenal tëjum koñ bi">
 <!ENTITY  undoCloseTab.accesskey             "N">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY  closeTab.label                     "Tëj koñ bi">
 <!ENTITY  closeTab.accesskey                 "T">
 
@@ -68,12 +76,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Banqaasu njël yi">
 <!ENTITY menubarCmd.accesskey "B">
 <!ENTITY navbarCmd.label "Banqaasu joow">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Sa banqaasu bopp">
 <!ENTITY personalbarCmd.accesskey "b">
 <!ENTITY bookmarksToolbarItem.label "Mbiri banqaasu bopp">
-<!ENTITY addonBarCmd.label "Banqaasu modil yi">
-<!ENTITY addonBarCmd.accesskey "m">
 
 <!ENTITY pageSourceCmd.label "Suulaale cosaan bu xët wi">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -102,9 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "G">
 <!ENTITY fullscreenAllowButton.label "Jox ndigal">
 <!ENTITY fullscreenExitButton.label "Tere">
-<!ENTITY fullscreenApproval.value "Jox ndigal yambalaŋ?">
 
-<!ENTITY fullscreenExitHint.value "Bësal ESC sa soo bëgg génn yambalaŋ.">
 <!ENTITY leaveDOMFullScreen.label "Génn yambalaŋ">
 <!ENTITY leaveDOMFullScreen.accesskey "G">
 
@@ -115,18 +118,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Mandargaal xët wi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
-<!ENTITY sharePageCmd.label "Share This Page">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!ENTITY shareLinkCmd.label "Share This Link">
-<!ENTITY shareLinkCmd.accesskey "s">
-<!ENTITY shareImageCmd.label "Share This Image">
-<!ENTITY shareImageCmd.accesskey "s">
-<!ENTITY shareSelectCmd.label "Share Selection">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Share This Video">
-<!ENTITY shareVideoCmd.accesskey "s">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY subscribeToPageMenupopup.label "Takkoo ak xët wile">
 <!ENTITY subscribeToPageMenuitem.label "Takkoo ak xët wile…">
 <!ENTITY addCurPagesCmd.label "Mandargaal koñ yépp…">
@@ -156,22 +159,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Xët bi jiitu/bi ci topp">
 <!ENTITY locationItem.title           "Màkkaan">
 <!ENTITY searchItem.title             "Wut">
-<!ENTITY throbberItem.title           "Wanekatu yëngu yëngu">
 <!ENTITY bookmarksItem.title          "Mandarga xët yi">
-<!-- Toolbar items --> 
-
-<!ENTITY appMenuButton.label          "Njël">
-<!ENTITY appMenuButton.tooltip        "Ubbi njëlu &brandShortName;">
-<!ENTITY homeButton.label             "Dal bi">
+<!-- Toolbar items -->
 
 <!ENTITY tabGroupsButton.label        "Juugi koñ">
 <!ENTITY tabGroupsButton.tooltip      "Defaral say koñ ay juug">
 
-<!ENTITY feedButton.label             "Takkoo">
-<!ENTITY feedButton.tooltip           "Takkoo ak xët wile…">
-
 <!ENTITY bookmarksButton.label          "Mandarga xët yi">
-<!ENTITY bookmarksButton.tooltip        "Wone say mandarga xët">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
@@ -187,7 +181,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Jaar jaar">
-<!ENTITY historyButton.tooltip          "Wone xët yi ñu seet bu yaggul">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Jumtukaay yi">
@@ -195,8 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Yokk benn caabi baat ci wut bii…">
 <!ENTITY keywordfield.accesskey       "Y">
-<!ENTITY search.label                 "Wut ci web bi">
-<!ENTITY search.accesskey             "W">
+
 <!ENTITY downloads.label              "Yeb yi">
 <!ENTITY downloads.tooltip            "Wone doxub yeb yi">
 <!ENTITY downloads.accesskey          "Y">
@@ -209,23 +201,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Tàllalkatu web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devToolsCmd.keytext          "F12">
+
+
 
 <!ENTITY errorConsoleCmd.label        "Konsol njumte yi">
 <!ENTITY errorConsoleCmd.accesskey    "s">
-<!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY remoteWebConsoleCmd.label    "Konsolu web bu sori">
 
-<!ENTITY browserConsoleCmd.label      "Browser Console">
+
+
 
 <!ENTITY inspectContextMenu.label     "Seetal mbir mii">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Gis gis bu dëppoo">
 <!ENTITY responsiveDesignTool.accesskey "d">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -241,16 +234,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey         "A">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+
+<!ENTITY chromeDebuggerMenu.label       "Dindikatu bog bu joowkat bi">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tëj banqaasu tallal">
 <!ENTITY devToolbarMenu.label              "Banqaasu tallal">
 <!ENTITY devToolbarMenu.accesskey          "q">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
+
+
+
+
 <!ENTITY devToolbarOtherToolsButton.label  "Jumtukaay yu gën bari">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Am yeneeni jumtukaay">
@@ -266,9 +264,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Jagal"> 
 <!ENTITY editMenu.accesskey       "J"> 
-<!ENTITY undoCmd.label            "Undo">  
+
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+
 <!ENTITY redoCmd.label            "Defaat">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "D"> 
@@ -292,7 +290,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Taamu yi">
 <!ENTITY preferencesCmdUnix.accesskey     "u"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -306,8 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Solal…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
-<!ENTITY viewTabsOnTop.label            "Banqaasu koñ yi ci kaw">
-<!ENTITY viewTabsOnTop.accesskey        "k">
 
 <!ENTITY historyMenu.label "Jaar jaar">
 <!ENTITY historyMenu.accesskey "J">
@@ -316,23 +311,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">
 <!ENTITY historyRestoreLastSession.label "Delloosi sesiyoŋ bi jiitu">
 
-<!ENTITY historyHomeCmd.label "Dal">
 <!ENTITY showAllHistoryCmd2.label "Wone jaar jaar bi">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuEdit.label "Jagal">
 <!ENTITY appMenuCustomize.label "Solal">
-<!ENTITY appMenuToolbarLayout.label "Solal banqaasi jumtukaay yi…">
-<!ENTITY appMenuSidebars.label "Pano wet">
-<!ENTITY appMenuFind.label "Wut…">
-<!ENTITY appMenuUnsorted.label "Mandarga xët yu ñu ràññatlewul">
-<!ENTITY appMenuWebDeveloper.label "Tàllalkatu web">
-<!ENTITY appMenuGettingStarted.label "Ci yoonu tambali">
-<!ENTITY appMenuSafeMode.label "Tambaliwaat modil yi suux…">
-<!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Dem ci koñ bi:">
 <!-- 
@@ -355,8 +340,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
-<!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -366,8 +349,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Ubbi buum bi ci palanteer bu bees">
 <!ENTITY openLinkCmd.accesskey        "b">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+
+
 <!ENTITY openLinkCmdInCurrent.label     "Ubbi buum bi">
 <!ENTITY openLinkCmdInCurrent.accesskey "U">
 <!ENTITY openFrameCmdInTab.label      "Ubbi kaadar bi ci koñ bu bees">
@@ -398,6 +381,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "n">
 <!ENTITY viewImageInfoCmd.label       "Bataaxal ci xët bi">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
+
+
 <!ENTITY viewVideoCmd.label           "Wone videyoo bi">
 <!ENTITY viewVideoCmd.accesskey       "v">
 <!ENTITY viewBGImageCmd.label         "Wone nataal bi lalu">
@@ -435,10 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "e">
 <!ENTITY emailAudioCmd.label          "Imeel Wax…">
 <!ENTITY emailAudioCmd.accesskey      "W">
-<!ENTITY playPluginCmd.label          "Activate this plugin">
-<!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Hide this plugin">
-<!ENTITY hidePluginCmd.accesskey      "H">
+
+
+
+
 <!ENTITY copyLinkCmd.label            "Duppi màkkaanu buum bi">
 <!ENTITY copyLinkCmd.accesskey        "m">
 <!ENTITY copyImageCmd.label           "Duppi màkkaanu nataal bi">
@@ -469,19 +454,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Dektu">
 <!ENTITY mediaUnmute.accesskey       "e">
-<!ENTITY mediaPlaybackRate.label     "Play Speed">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normal Speed">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -531,17 +515,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Koñ bu bees">
 <!ENTITY newWindowButton.tooltip        "Palanteer bu bees">
-<!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
 
-<!ENTITY cutButton.tooltip              "Dog">
-<!ENTITY copyButton.tooltip             "Duppi">
-<!ENTITY pasteButton.tooltip            "Taf">
 
 <!ENTITY fullScreenButton.tooltip       "Wone palanteer yambalaŋ">
-
-<!ENTITY zoomOutButton.tooltip          "Wàññi">
-<!ENTITY zoomInButton.tooltip           "Yaatal">
-<!ENTITY zoomControls.label             "Tollu tollu yambalaŋ">
 
 <!ENTITY quitApplicationCmdWin.label       "Génn"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "G">
@@ -551,7 +527,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac.label    "Génn &brandShortName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Tëj">  
 <!ENTITY closeCmd.key                   "W">  
@@ -612,6 +587,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "te boroom di">
 
 <!ENTITY identity.moreInfoLinkText "Yeneen xibaar…">
+
+<!ENTITY identity.permissions "Ndigal yi">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -628,9 +605,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "J">
 <!ENTITY syncToolbarButton.label      "Jàppante">
 
-<!ENTITY addonBarCloseButton.tooltip  "Tëj banqaasu modil yi">
-<!ENTITY toggleAddonBarCmd.key        "/">
-
 <!ENTITY socialToolbar.title        "Butoŋu banqaasu jumtukaay mbooloo">
 <!ENTITY social.notLoggedIn.label   "Jokkoowul">
 
@@ -640,35 +614,69 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleSidebar.label "Wone kaadar bi">
 <!ENTITY social.toggleSidebar.accesskey "W">
 
-<!ENTITY social.addons.label "Manage Services…">
 
 <!ENTITY social.toggleNotifications.label "Wone birali biro bi">
 <!ENTITY social.toggleNotifications.accesskey "b">
 
-<!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Not Now">
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+
+
 <!-- labels are set dynamically, see browser.properties -->
 
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera to share:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microphone to share:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Camera / Microphone Access">
-<!ENTITY webrtcIndicatorButton.tooltip "Display sites you are currently sharing your camera or microphone with">
+
+
+
+
 
 <!ENTITY mixedContentBlocked.helplink "Gëna xam">
-<!ENTITY mixedContentBlocked.moreinfo "Most websites will still work properly even when this content is blocked.">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "n">
+<!ENTITY addonBarCmd.label             "Banqaasu modil yi">
+<!ENTITY addonBarCmd.accesskey         "m">
+<!ENTITY throbberItem.title            "Wanekatu yëngu yëngu">
+<!ENTITY appMenuButton.label           "Njël">
+<!ENTITY appMenuButton.tooltip         "Ubbi njëlu &brandShortName;">
+<!ENTITY feedButton.label              "Takkoo">
+<!ENTITY feedButton.tooltip            "Takkoo ak xët wile…">
+<!ENTITY bookmarksButton.tooltip       "Wone say mandarga xët">
+<!ENTITY historyButton.tooltip         "Wone xët yi ñu seet bu yaggul">
+<!ENTITY viewTabsOnTop.label           "Banqaasu koñ yi ci kaw">
+<!ENTITY viewTabsOnTop.accesskey       "k">
+<!ENTITY appMenuEdit.label             "Jagal">
+<!ENTITY appMenuToolbarLayout.label    "Solal banqaasi jumtukaay yi…">
+<!ENTITY appMenuSidebars.label         "Pano wet">
+<!ENTITY appMenuFind.label             "Wut…">
+<!ENTITY appMenuUnsorted.label         "Mandarga xët yu ñu ràññatlewul">
+<!ENTITY appMenuWebDeveloper.label     "Tàllalkatu web">
+<!ENTITY appMenuGettingStarted.label   "Ci yoonu tambali">
+<!ENTITY appMenuSafeMode.label         "Tambaliwaat modil yi suux…">
+<!ENTITY appMenuSafeMode.accesskey     "T">
+<!ENTITY cutButton.tooltip             "Dog">
+<!ENTITY copyButton.tooltip            "Duppi">
+<!ENTITY pasteButton.tooltip           "Taf">
+<!ENTITY zoomOutButton.tooltip         "Wàññi">
+<!ENTITY zoomInButton.tooltip          "Yaatal">
+<!ENTITY zoomControls.label            "Tollu tollu yambalaŋ">
+<!ENTITY addonBarCloseButton.tooltip   "Tëj banqaasu modil yi">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

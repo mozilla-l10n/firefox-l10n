@@ -19,11 +19,13 @@
 <!ENTITY productHelp.label        "Ndimbalu &brandShortName;">
 <!ENTITY productHelp.accesskey    "N">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Tambaliwaat ak modil yi suux…">
 <!ENTITY helpSafeMode.accesskey   "T">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Xibaari depaane">
 <!ENTITY helpTroubleshootingInfo.accesskey  "X">

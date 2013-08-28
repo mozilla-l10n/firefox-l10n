@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "Bi ci topp">
-<!ENTITY next.accesskey "t">
 <!ENTITY next.tooltip "Seet beneen kaddu bu ni mel">
-<!ENTITY previous.label "Bi jiitu">
-<!ENTITY previous.accesskey "j">
 <!ENTITY previous.tooltip "Seet beneen kaddu bu ni mel te jiitu">
-<!ENTITY findCloseButton.tooltip "Tëj banqaasu wut gi">
-<!ENTITY highlight.label "Melaxal lépp">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "Melaxal kaddu yépp yu ni mel">
-<!ENTITY caseSensitiveCheckbox.label "Sammal jëmmalin bi">
-<!ENTITY caseSensitiveCheckbox.accesskey "S">
+
+
+
+<!ENTITY highlightAll.tooltiptext "Melaxal kaddu yépp yu ni mel">
+
+
+

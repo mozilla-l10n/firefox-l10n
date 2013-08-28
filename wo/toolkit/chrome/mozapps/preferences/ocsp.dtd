@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ocspDialog.title             "Verification">
-<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey         "U">
+
+
 <!ENTITY requireOCSP.label            "Bes bu jokkoo serwëër OCSP lajjee, xamal ni sarsifikaa bi baaxul">
 <!ENTITY requireOCSP.accesskey        "b">

@@ -33,11 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "U">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
 
 <!ENTITY saveFileCmd.label            "Aar">
 <!ENTITY saveFileCmd.accesskey        "A">
@@ -95,19 +93,14 @@
 <!ENTITY helpMenuWin.label            "Ndimbal">
 <!ENTITY helpMenuWin.accesskey        "d">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+
 
 <!ENTITY executeMenu.label            "Def">
 <!ENTITY executeMenu.accesskey        "D">

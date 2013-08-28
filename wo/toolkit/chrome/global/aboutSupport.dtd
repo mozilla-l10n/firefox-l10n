@@ -18,6 +18,9 @@ ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
 <!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
 <!ENTITY aboutSupport.appBasicsName "Tur">
 <!ENTITY aboutSupport.appBasicsVersion "Sumb">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Wayndare jëmmalin">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Sumbu kaggu yi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
-<!ENTITY aboutSupport.updateHistoryTitle "Yeesal jaar jaar bi">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit yi">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Duppi xibaar ci dencandikkaayu kayit yi">
