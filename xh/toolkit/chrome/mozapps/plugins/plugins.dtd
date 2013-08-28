@@ -1,27 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY pluginWizard.title                                  "Inkonzo Yokufumanisa i-Plugin">
+<!ENTITY pluginWizard.title                                  "Inkonzo Yokufumanisa Isifakelo">
 <!ENTITY pluginWizard.firstPage.title                        "Wamkelekile kwi-&pluginWizard.title;">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "I-&brandShortName; ngoku iqwalasela ii-plugin ezikhoyo…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Okukhutshelwayo kwesoftwe encedisayo kuyafumaneka">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Iisoftwe ezincedisayo ezilandelayo ziyafumaneka:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cinezela u-Okulandelayo ukuze ufakele ezi softwe zincedisayo.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Ezinye iisoftwe ezincedisayo zingafuna inkcazelo eyongezelelweyo kuwe ngethuba lokufakela.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Izifakelo ezikhutshelweyo ziyafumaneka">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Izifakelo ezilandelayo ziyafumaneka:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cinezela u-Okulandelayo ukuze ufakele ezi zifakelo.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Ezinye izifakelo zingafuna inkcazelo eyongezelelweyo kuwe ngethuba lokufakela.">
 
-<!ENTITY pluginWizard.licensePage.title                      "Iilayisensi zesoftwe encedisayo">
+<!ENTITY pluginWizard.licensePage.title                      "Iilayisensi Zesifakelo">
 <!ENTITY pluginWizard.licensePage.accept.label               "Ndiyavuma.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Andivumi (i-plugin ayisayi kuhlohlwa).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Andivumi (i-sifakelo asisayi kufakelwa).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Kufakelwa iisoftwe ezincedisayo">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "I-&brandShortName; ifakela iisoftwe ezincedisayo…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Kufakelwa izifakelo">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "I-&brandShortName; ifakela izifakelo…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "I-&brandShortName; igqibile ukufakela iisoftwe ezincedisayo ezilahlekileyo:">
+<!ENTITY pluginWizard.finalPage.description.label            "I-&brandShortName; igqibile ukufakela izifakelo ezingekhoyo:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Fumana okungaphezulu ngeesoftwe ezincedisayo okanye fumana ngesandla iisoftwe ezincedisayo ezingabonakaliyo.">
-<!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze ii-plugin zisebenze.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Fumana okungaphezulu ngezifakelo okanye zifumanele ngokwakho izifakelo ezingekhoyo.">
+<!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; ifuna ukuphinda iqaliswe ukuze izifakelo zisebenze.">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
 
@@ -32,14 +32,14 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
-<!ENTITY missingPlugin                                       "Isoftwe encedisayo iyafuneka ukuze ibonise lo mxholo.">
+<!ENTITY missingPlugin                                       "Isifakelo siyafuneka ukuze sibonise oku kuqulathiweyo.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Cinezela apha ukusebenzisa isoftwe encedisayo.">
-<!ENTITY clickToActivatePlugin                               "Vuselela isoftwe encedisayo.">
+<!ENTITY tapToPlayPlugin                                     "Chwetha apha ukuze isifakelo sisebenze.">
+<!ENTITY clickToActivatePlugin                               "Vuselela isifakelo.">
 <!ENTITY checkForUpdates                                     "Khangela izihlaziyi…">
-<!ENTITY disabledPlugin                                      "Isoftwe encedisayo iqhwalelisiwe.">
-<!ENTITY blockedPlugin.label                                 "Isoftwe encedisayo ithintelwe ukukhusela wena.">
-
+<!ENTITY disabledPlugin                                      "Isifakelo sivaliwe.">
+<!ENTITY blockedPlugin.label                                 "Isifakelo sithintelwe ukukhusela wena.">
+<!ENTITY hidePluginBtn.label                                 "Fihla isifakelo">
 <!ENTITY installPlugin                                       "Fakela isoftwe encedisayo…">
 <!ENTITY managePlugins                                       "Lawula iisoftwe ezincedisayo…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

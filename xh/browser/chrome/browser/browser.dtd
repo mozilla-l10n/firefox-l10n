@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Rhoxisa ukuvala ithebhu">
 <!ENTITY  undoCloseTab.accesskey             "R">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Qhaqha Ukuvala Iithebhu">
 <!ENTITY  closeTab.label                     "Vala ithebhu">
 <!ENTITY  closeTab.accesskey                 "V">
 
@@ -73,12 +78,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Ibha yemenyu">
 <!ENTITY menubarCmd.accesskey "y">
 <!ENTITY navbarCmd.label "Ithulbha yokukhangela">
-<!ENTITY navbarCmd.accesskey "y">
 <!ENTITY personalbarCmd.label "Ithulbha yebhukhmakhi">
 <!ENTITY personalbarCmd.accesskey "y">
 <!ENTITY bookmarksToolbarItem.label "Iiayithem zethulbha yeebhukhmakhi">
-<!ENTITY addonBarCmd.label "Ibha yezongezelelo">
-<!ENTITY addonBarCmd.accesskey "y">
 
 <!ENTITY pageSourceCmd.label "Umthombo wephepha">
 <!ENTITY pageSourceCmd.accesskey "t">
@@ -107,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "e">
 <!ENTITY fullscreenAllowButton.label "Vumela">
 <!ENTITY fullscreenExitButton.label "Khanyela">
-<!ENTITY fullscreenApproval.value "Vumela isikrin esizeleyo?">
 
-<!ENTITY fullscreenExitHint.value "Cinezela ku-ESC nanini na ukuphuma kwisikrin esizeleyo.">
+<!ENTITY fullscreenExitHint2.value "Cofa ESC nangaliphi na ixesha ukuze uphume.">
 <!ENTITY leaveDOMFullScreen.label "Phuma kwisikrin esizeleyo">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
 
@@ -161,22 +162,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Emva/Phambili">
 <!ENTITY locationItem.title           "Indawo">
 <!ENTITY searchItem.title             "Khangela">
-<!ENTITY throbberItem.title           "Isalathisi somsebenzi">
 <!ENTITY bookmarksItem.title          "Iibhukhmakhi">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Imenyu">
-<!ENTITY appMenuButton.tooltip        "Vula i-&brandShortName; imenyu">
 <!ENTITY homeButton.label             "Ekhaya">
 
 <!ENTITY tabGroupsButton.label        "Amaqela ethebhu">
 <!ENTITY tabGroupsButton.tooltip      "Beka iithebhu ngokwamaqela">
 
-<!ENTITY feedButton.label             "Rhuma">
-<!ENTITY feedButton.tooltip           "Rhuma kweli phepha…">
-
 <!ENTITY bookmarksButton.label          "iiBhukhmakhi">
-<!ENTITY bookmarksButton.tooltip        "Bonisa iibhukhmakhi zakho">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
@@ -192,7 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Imbali">
-<!ENTITY historyButton.tooltip          "Bonisa amakhasi owajonge kutshanje">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Izixhobo">
@@ -200,8 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Yongeza Igama Elisentloko koku kukhangela…">
 <!ENTITY keywordfield.accesskey       "I">
-<!ENTITY search.label                 "Ukukhangela iwebhu">
-<!ENTITY search.accesskey             "U">
+
 <!ENTITY downloads.label              "Okukhutshelwayo">
 <!ENTITY downloads.tooltip            "Bonisa inkqubela yokukhutshelwayo okungayekiyo">
 <!ENTITY downloads.accesskey          "O">
@@ -213,6 +205,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Dibanisa…">
 <!ENTITY devtoolsConnect.accesskey    "i">
@@ -259,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
 <!ENTITY devToolboxMenuItem.accesskey      "z">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Izixhobo zomqulunqi zeqhosha elilayita licima">
 <!ENTITY devToolbarOtherToolsButton.label  "Izixhobo ezingaphezulu">
@@ -316,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "i">
 <!ENTITY viewCustomizeToolbar.label       "Lungiselela…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "L">
-<!ENTITY viewTabsOnTop.label            "Iithebhu ezisemantla">
-<!ENTITY viewTabsOnTop.accesskey        "I">
 
 <!ENTITY historyMenu.label "Imbali">
 <!ENTITY historyMenu.accesskey "b">
@@ -326,20 +321,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Iifestile ezivaliweyo kutshanje">
 <!ENTITY historyRestoreLastSession.label "Buyisela iseshoni yangaphambili">
 
-<!ENTITY historyHomeCmd.label "Ekhaya">
 <!ENTITY showAllHistoryCmd2.label "Bonisa yonke imbali">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Hlela">
 <!ENTITY appMenuCustomize.label "Lungiselela">
-<!ENTITY appMenuToolbarLayout.label "Ubume bethulbha…">
-<!ENTITY appMenuSidebars.label "Iibha ezisecaleni">
-<!ENTITY appMenuFind.label "Fumana…">
-<!ENTITY appMenuUnsorted.label "Iibhukhmakhi ezingalandelelaniswanga">
-<!ENTITY appMenuWebDeveloper.label "Umphuhlisi wewebhu">
-<!ENTITY appMenuGettingStarted.label "Qalisa">
-<!ENTITY appMenuSafeMode.label "Qalisa kwakhona ngezongezelelo eziqhwalelisiweyo…">
-<!ENTITY appMenuSafeMode.accesskey "Q">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
@@ -408,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "u">
 <!ENTITY viewImageInfoCmd.label       "Bona iNkcukacha yoMfanekiso">
 <!ENTITY viewImageInfoCmd.accesskey   "u">
+<!ENTITY viewImageDescCmd.label       "Jonga Ingcaciso">
+<!ENTITY viewImageDescCmd.accesskey   "I">
 <!ENTITY viewVideoCmd.label           "Jonga ividiyo">
 <!ENTITY viewVideoCmd.accesskey       "o">
 <!ENTITY viewBGImageCmd.label         "Jonga umfuziselo ongasemva eskrinini">
@@ -543,15 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Vula ifestile entsha">
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha esecaleni">
 
-<!ENTITY cutButton.tooltip              "Sika">
-<!ENTITY copyButton.tooltip             "Kopa">
-<!ENTITY pasteButton.tooltip            "Ncamathelisa">
-
 <!ENTITY fullScreenButton.tooltip       "Bonisa ifestile kwisikrin esipheleleyo">
-
-<!ENTITY zoomOutButton.tooltip          "Sondeza kudana">
-<!ENTITY zoomInButton.tooltip           "Sondeza kufuphi">
-<!ENTITY zoomControls.label             "Yandisa/nciphisa izixhobo zolawulo">
 
 <!ENTITY quitApplicationCmdWin.label       "Phuma"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "h">
@@ -622,6 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ehanjiswa nge">
 
 <!ENTITY identity.moreInfoLinkText "Inkcazelo engaphezulu…">
+
+<!ENTITY identity.permissions "Iimvume">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -637,9 +618,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncToolbarButton.label      "Ungqamaniso">
-
-<!ENTITY addonBarCloseButton.tooltip  "Vala ibha yezongezelelo">
-<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY socialToolbar.title        "Iqhosha lethulbha yokudlala">
 <!ENTITY social.notLoggedIn.label   "Awungenanga">
@@ -690,3 +668,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Vumela ngoku">
 <!ENTITY pluginActivateAlways.label "Vumela yaye ukhumbule">
 <!ENTITY pluginBlockNow.label "Vala izifakelo">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "y">
+<!ENTITY addonBarCmd.label             "Ibha yezongezelelo">
+<!ENTITY addonBarCmd.accesskey         "y">
+<!ENTITY throbberItem.title            "Isalathisi somsebenzi">
+<!ENTITY appMenuButton.label           "Imenyu">
+<!ENTITY appMenuButton.tooltip         "Vula i-&brandShortName; imenyu">
+<!ENTITY feedButton.label              "Rhuma">
+<!ENTITY feedButton.tooltip            "Rhuma kweli phepha…">
+<!ENTITY bookmarksButton.tooltip       "Bonisa iibhukhmakhi zakho">
+<!ENTITY historyButton.tooltip         "Bonisa amakhasi owajonge kutshanje">
+<!ENTITY viewTabsOnTop.label           "Iithebhu ezisemantla">
+<!ENTITY viewTabsOnTop.accesskey       "I">
+<!ENTITY appMenuEdit.label             "Hlela">
+<!ENTITY appMenuToolbarLayout.label    "Ubume bethulbha…">
+<!ENTITY appMenuSidebars.label         "Iibha ezisecaleni">
+<!ENTITY appMenuFind.label             "Fumana…">
+<!ENTITY appMenuUnsorted.label         "Iibhukhmakhi ezingalandelelaniswanga">
+<!ENTITY appMenuWebDeveloper.label     "Umphuhlisi wewebhu">
+<!ENTITY appMenuGettingStarted.label   "Qalisa">
+<!ENTITY appMenuSafeMode.label         "Qalisa kwakhona ngezongezelelo eziqhwalelisiweyo…">
+<!ENTITY appMenuSafeMode.accesskey     "Q">
+<!ENTITY cutButton.tooltip             "Sika">
+<!ENTITY copyButton.tooltip            "Kopa">
+<!ENTITY pasteButton.tooltip           "Ncamathelisa">
+<!ENTITY zoomOutButton.tooltip         "Sondeza kudana">
+<!ENTITY zoomInButton.tooltip          "Sondeza kufuphi">
+<!ENTITY zoomControls.label            "Yandisa/nciphisa izixhobo zolawulo">
+<!ENTITY addonBarCloseButton.tooltip   "Vala ibha yezongezelelo">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->
