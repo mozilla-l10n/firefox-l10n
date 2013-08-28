@@ -44,6 +44,8 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "п">
 <!ENTITY netmonitorUI.summary.editAndResend "Изменить и повторить">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "м">
+<!ENTITY netmonitorUI.context.newTab "Открыть в новой вкладке">
+<!ENTITY netmonitorUI.context.newTab.accesskey "ы">
 <!ENTITY netmonitorUI.custom.newRequest "Новый запрос">
 <!ENTITY netmonitorUI.custom.query "Строка запроса:">
 <!ENTITY netmonitorUI.custom.headers "Заголовки запроса:">

@@ -57,7 +57,7 @@
 <!ENTITY pref_category_datareporting "Выбор данных">
 <!ENTITY pref_category_installed_search_engines "Установленные поисковые системы">
 <!ENTITY pref_category_add_search_providers "Добавить других провайдеров поиска">
-<!ENTITY pref_search_tip "ПОДСКАЗКА: Добавьте любой веб-сайт в список провайдеров поиска путем долгого нажатия на его поле поиска.">
+<!ENTITY pref_search_tip "СОВЕТ: Добавляйте любой веб-сайт в список провайдеров поиска путем долгого нажатия на его поле поиска.">
 <!ENTITY pref_category_devtools "Инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённый отладчик">
 <!ENTITY pref_developer_remotedebugging_docs "Подробнее">
@@ -213,6 +213,7 @@
 <!ENTITY home_most_visited_title "Часто посещаемые">
 <!ENTITY home_reading_list_empty "Статьи, сохранённые вами для последующего чтения, появятся здесь.">
 <!ENTITY home_reading_list_hint "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на значок &#037;I, когда он появится в строке заголовка.">
+<!ENTITY home_reading_list_hint_accessible "СОВЕТ: Сохраняйте статьи в ваш список для чтения путём долгого нажатия на кнопку режима чтения, когда она появится в строке заголовка.">
 <!ENTITY home_most_visited_empty "Чаще всего посещаемые вами веб-сайты появятся здесь.">
 <!ENTITY pin_bookmark_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
