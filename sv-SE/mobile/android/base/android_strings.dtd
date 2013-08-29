@@ -283,6 +283,9 @@ size. -->
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!ENTITY home_reading_list_hint "TIPS: Spara artiklar till läslistan genom att långtrycka på ikonen &#37;I när den visas i namnfältet.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "TIPS: Spara artiklar till läslistan genom att långtrycka på läslägeknappen när den visas i namnfältet.">
 
 <!ENTITY home_most_visited_empty "Webbplatser du besökt oftast visas här.">
 <!ENTITY pin_bookmark_dialog_hint "Skriv in ett söknyckelord">
