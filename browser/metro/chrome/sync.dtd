@@ -8,12 +8,12 @@
 <!ENTITY sync.flyout.setup.title "Configurar &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Si tiene una cuenta &syncBrand.shortName.label;, seleccione &quot;Emparejar un dispositivo&quot; en su otro dispositivo e introduzca este código.">
 <!ENTITY sync.flyout.setup.description2 "Si no tiene una cuenta de &syncBrand.shortName.label;, puede crearse una en su navegador &brandShortName; de escritorio.">
-<!ENTITY sync.flyout.setup.manual.label "No estoy cerca de mi equipo…">
+<!ENTITY sync.flyout.setup.manual.label_2 "No estoy cerca de mi equipo…">
 <!ENTITY sync.flyout.setup.description3 "Nota:">
-<!ENTITY sync.flyout.setup.description4 "Puede seleccionar &quot;Emparejar un dispositivo&quot; a través de">
-<!ENTITY sync.flyout.setup.description5 "[Escritorio] Preferencias -&gt; Sync">
-<!ENTITY sync.flyout.setup.description6 "[Android] Más &gt; Configuración &gt; Sync">
-<!ENTITY sync.flyout.manualsetup.description1 "Introduzca la información de su cuenta &syncBrand.shortName.label; y la clave de recuperación generada por su equipo">
+<!ENTITY sync.flyout.setup.description4_2 "Para encontrar &quot;Emparejar un dispositivo&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[Escritorio] Abra &quot;Opciones&quot; o &quot;Preferencias&quot; y luego seleccione &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Por favor, introduzca la información de su cuenta de &syncBrand.shortName.label; y la clave de recuperación generada por su equipo">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Nombre de cuenta">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Contraseña">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Clave de recuperación">
@@ -33,8 +33,8 @@
 <!ENTITY sync.flyout.pairNewDevice.description "En el nuevo dispositivo que quiere emparejar con éste, seleccione &quot;Configurar &syncBrand.shortName.label;&quot; e introduzca el código que produce el dispositivo">
 <!ENTITY sync.flyout.pairNewDevice.pair "Emparejar">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Nota:">
-<!ENTITY sync.flyout.pairNewDevice.note2 "Puede acceder a &syncBrand.shortName.label; para obtener el código a través">
-<!ENTITY sync.flyout.pairNewDevice.note3 "[Escritorio] Herramientas -&gt; Configurar Sync -&gt; Tengo una cuenta">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Para encontrar el código,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Escritorio] Abra &quot;Opciones&quot; o &quot;Preferencias&quot; y luego siga los pasos: &syncBrand.shortName.label; -&gt; Configurar &syncBrand.shortName.label; -&gt; Ya tengo una cuenta">
 <!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Más gt; Configuración &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure "Vuelva a intentarlo">
 <!ENTITY sync.flyout.pairSuccess.description1 "El nuevo dispositivo ha sido añadido con éxito.">
