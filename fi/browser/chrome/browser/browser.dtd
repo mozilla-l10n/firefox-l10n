@@ -656,7 +656,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webrtcIndicatorButton.tooltip "Näytä sivustot, joiden olet sallinut käyttävän tietokoneesi kameraa tai mikrofonia">
 
 <!ENTITY mixedContentBlocked.helplink "Lue lisää">
-<!ENTITY mixedContentBlocked.moreinfo "Useimmat sivustot toimivat asianmukaisesti vaikka tämä sisältö on estetty.">
+<!ENTITY mixedContentBlocked.moreinfo "Useimmissa tapauksissa sivusto toimii tarkoitetusti huolimatta sisällön estämisestä.">
 
 <!ENTITY pointerLock.notification.message "Paina ESC-näppäintä näyttääksesi sen uudestaan.">
 
