@@ -681,7 +681,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuButton.tooltip         "Avaa &brandShortName;-valikko">
 <!ENTITY feedButton.label              "Tilaa">
 <!ENTITY feedButton.tooltip            "Tilaa sivu…">
-<!ENTITY bookmarksButton.tooltip       "Näytä kirjanmerkir">
+<!ENTITY bookmarksButton.tooltip       "Näytä kirjanmerkit">
 <!ENTITY historyButton.tooltip         "Näytä viimeaikoina vieraillut sivut">
 <!ENTITY viewTabsOnTop.label           "Välilehdet yläpuolella">
 <!ENTITY viewTabsOnTop.accesskey       "V">

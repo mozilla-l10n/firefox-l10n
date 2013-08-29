@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Vastaanottaja ">
-<!ENTITY fromField3.label "Lähettäjä ">
-<!ENTITY senderField3.label "Lähettäjä ">
-<!ENTITY organizationField3.label "Organisaatio ">
-<!ENTITY replyToField3.label "Vastausosoite ">
+<!ENTITY toField4.label "Vastaanottaja ">
+<!ENTITY fromField4.label "Lähettäjä ">
+<!ENTITY senderField4.label "Lähettäjä ">
+<!ENTITY organizationField4.label "Organisaatio ">
+<!ENTITY replyToField4.label "Vastausosoite ">
 
-<!ENTITY subjectField3.label "Aihe ">
-<!ENTITY ccField3.label "Kopio ">
-<!ENTITY bccField3.label "Piilokopio ">
-<!ENTITY newsgroupsField3.label "Ryhmät ">
-<!ENTITY followupToField3.label "Vastausryhmä ">
-<!ENTITY tagsHdr3.label "Avainsanat ">
-<!ENTITY dateField3.label "Päiväys ">
-<!ENTITY userAgentField3.label "Asiakasohjelma ">
-<!ENTITY referencesField3.label "Viittaukset ">
-<!ENTITY messageIdField3.label "Viestitunnus ">
-<!ENTITY inReplyToField3.label "Vastauksena viestiin ">
-<!ENTITY originalWebsite3.label "Verkkosivu ">
+<!ENTITY subjectField4.label "Aihe ">
+<!ENTITY ccField4.label "Kopio ">
+<!ENTITY bccField4.label "Piilokopio ">
+<!ENTITY newsgroupsField4.label "Ryhmät ">
+<!ENTITY followupToField4.label "Vastausryhmä ">
+<!ENTITY tagsHdr4.label "Avainsanat ">
+<!ENTITY dateField4.label "Päiväys ">
+<!ENTITY userAgentField4.label "Asiakasohjelma ">
+<!ENTITY referencesField4.label "Viittaukset ">
+<!ENTITY messageIdField4.label "Viestitunnus ">
+<!ENTITY inReplyToField4.label "Vastauksena viestiin ">
+<!ENTITY originalWebsite4.label "Verkkosivu ">
 
 <!ENTITY editMessageDescription.label "Tämä on luonnos">
 <!ENTITY editMessageButton.label "Muokkaa…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Vastaa postituslistalle">
 <!ENTITY hdrFollowupButton1.label "Vastaa ryhmään">
 <!ENTITY hdrFollowupButton1.tooltip "Lähetä vastaus tähän keskusteluryhmään">
+<!ENTITY hdrMenuForwardButton.label "Välitä">
 <!ENTITY hdrForwardButton1.label "Välitä">
 <!ENTITY hdrForwardButton1.tooltip "Välitä viesti">
 <!ENTITY hdrJunkButton1.label "Roskapostia">

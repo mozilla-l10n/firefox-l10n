@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label  "Palvelin voi korvata nämä nimiavaruudet">
 <!ENTITY overrideNamespaces.accesskey  "a">
 <!ENTITY pop3Desc.label  "Käytä seuraavaa kansiota tämän tilin saapuville sähköposteille:">
-<!ENTITY globalInbox.label  "Saapuvat viestit yhteiseen saapuneet-kansioon">
-<!ENTITY globalInbox.accesskey  "S">
 <!ENTITY accountDirectory.label  "Saapuvat viestit tämän tilin saapuneet-kansioon">
 <!ENTITY accountDirectory.accesskey  "a">
 <!ENTITY deferToServer.label  "Saapuvat viestit toisen tilin saapuneet-kansioon">
