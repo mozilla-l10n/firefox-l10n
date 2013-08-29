@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "v">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label  "Nouda viestit">
+<!ENTITY getMsgButton1.label "Nouda viestit">
 <!ENTITY newMsgButton.label  "Kirjoita">
 <!ENTITY replyButton.label  "Vastaa">
 <!ENTITY replyAllButton.label  "Vastaa kaikille ">
