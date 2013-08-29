@@ -28,7 +28,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Fechar outros separadores">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
@@ -109,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "I">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Negar">
-<!ENTITY fullscreenApproval.value "Permitir ecrã inteiro?">
 
-<!ENTITY fullscreenExitHint.value "Pressione, a qualquer momento, ESC para sair do modo de ecrã inteiro">
+<!ENTITY fullscreenExitHint2.value "Pressione ESC, a qualquer momento para sair.">
 <!ENTITY leaveDOMFullScreen.label "Sair do ecrã inteiro">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
@@ -207,6 +206,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desenvolvedor web">
 <!ENTITY webDeveloperMenu.accesskey   "b">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
 <!ENTITY devtoolsConnect.label        "Ligar…">
 <!ENTITY devtoolsConnect.accesskey    "g">
 
@@ -252,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Trocar ferramentas">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Trocar feramentas do desenvolvedor">
 <!ENTITY devToolbarOtherToolsButton.label  "Mais ferramentas">
