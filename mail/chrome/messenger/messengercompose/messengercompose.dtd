@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label  "Etsi ja korvaa…">
 <!ENTITY findCmd.key  "F">
 <!ENTITY findCmd.accesskey  "E">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label  "Etsi seuraava">
 <!ENTITY findAgainCmd.key  "G">
 <!ENTITY findAgainCmd.accesskey  "s">
