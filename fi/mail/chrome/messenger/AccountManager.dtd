@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "L">
 <!ENTITY addIMAccountButton.label "Lisää pikaviestitili…">
 <!ENTITY addIMAccountButton.accesskey "p">
+<!ENTITY addFeedAccountButton.label "Lisää syötetili…">
+<!ENTITY addFeedAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Lisää muu tili…">
 <!ENTITY addOtherAccountButton.accesskey "m">
 <!ENTITY setDefaultButton.label  "Aseta oletukseksi">
