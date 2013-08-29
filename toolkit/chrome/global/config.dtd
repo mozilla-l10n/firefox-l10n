@@ -36,4 +36,4 @@
 <!ENTITY integer.label "entero">
 <!ENTITY integer.accesskey "E">
 <!ENTITY boolean.label "sí/no">
-<!ENTITY boolean.accesskey "L">
+<!ENTITY boolean.accesskey "s">
