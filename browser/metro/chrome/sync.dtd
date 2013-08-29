@@ -8,12 +8,12 @@
 <!ENTITY sync.flyout.setup.title "Configurazione di &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Se già si possiede un account &syncBrand.shortName.label;, selezionare &quot;Collega un dispositivo&quot; sull'altro dispositivo e inserire questo codice.">
 <!ENTITY sync.flyout.setup.description2 "Se ancora non si possiede un account &syncBrand.shortName.label;, è possibile crearne uno utilizzando la versione desktop di &brandShortName;.">
-<!ENTITY sync.flyout.setup.manual.label "Non sono vicino al computer…">
+<!ENTITY sync.flyout.setup.manual.label_2 "Non sono vicino al computer…">
 <!ENTITY sync.flyout.setup.description3 "Attenzione:">
-<!ENTITY sync.flyout.setup.description4 "È possibile selezionare &quot;Collega un dispositivo&quot; in">
-<!ENTITY sync.flyout.setup.description5 "[Desktop] Impostazioni -&gt; Sync">
-<!ENTITY sync.flyout.setup.description6 "[Android] Altro &gt; Impostazioni &gt; Sync">
-<!ENTITY sync.flyout.manualsetup.description1 "Inserire le informazioni sull'account &syncBrand.shortName.label; e la chiave di ripristino generata dal proprio computer">
+<!ENTITY sync.flyout.setup.description4_2 "Per individuare &quot;Collega un dispositivo&quot;">
+<!ENTITY sync.flyout.setup.description5_2 "[Desktop] Aprire &quot;Opzioni&quot; o &quot;Preferenze&quot; e selezionare &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[Android] Altro &gt; Impostazioni &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Inserire le informazioni sull'account &syncBrand.shortName.label; e la chiave di ripristino generata dal proprio computer">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Nome account">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Password">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Chiave di ripristino">
@@ -33,8 +33,8 @@
 <!ENTITY sync.flyout.pairNewDevice.description "Sul nuovo dispositivo da collegare selezionare &quot;Configurazione di &syncBrand.shortName.label;&quot; e inserire il codice generato dal dispositivo">
 <!ENTITY sync.flyout.pairNewDevice.pair "Collega">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Attenzione:">
-<!ENTITY sync.flyout.pairNewDevice.note2 "È possibile individuare il codice per &syncBrand.shortName.label; in">
-<!ENTITY sync.flyout.pairNewDevice.note3 "[Desktop] Strumenti -&gt; Configurazione di Sync -&gt; Utilizza un account esistente">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Per individuare il codice">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[Desktop] Aprire &quot;Opzioni&quot; o &quot;Preferenze&quot; e selezionare &syncBrand.shortName.label; -&gt; Configurazione di &syncBrand.shortName.label; -&gt; Utilizza un account esistente">
 <!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Altro &gt; Impostazioni &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure "Riprovare">
 <!ENTITY sync.flyout.pairSuccess.description1 "Il nuovo dispositivo è stato aggiunto correttamente.">
