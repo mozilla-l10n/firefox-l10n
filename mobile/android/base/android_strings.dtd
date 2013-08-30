@@ -284,6 +284,10 @@ size. -->
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!ENTITY home_reading_list_hint "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur l\u0027icône &#37;I lorsque celle-ci apparaît dans la barre de titre.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "ASTUCE : Enregistrez des articles dans votre liste de lecture en effectuant un appui long sur le bouton du mode lecture lorsque celui-ci apparaît dans la barre de titre.">
+
 <!ENTITY home_most_visited_empty "Les sites les plus souvent visités s\u0027affichent ici.">
 <!ENTITY pin_bookmark_dialog_hint "Saisir un mot-clé pour la recherche">
 
