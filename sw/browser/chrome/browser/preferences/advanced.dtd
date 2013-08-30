@@ -85,8 +85,13 @@
 <!ENTITY updateTab.label                 "Sasaisha">
 
 <!ENTITY updateApp.label                 "&brandShortName; visasisho:">
-<!ENTITY updateAuto.label                "Sakinisha kiotomatiki visasisho (imependekezwa: usalama umeboreshwa)">
-<!ENTITY updateAuto.accesskey            "S">
+<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+     in preferences.properties -->
+<!ENTITY updateAuto1.label               "Sakinisha kiotomatiki visasisho (imependekezwa: usalama umeboreshwa)">
+<!ENTITY updateAuto1.accesskey           "S">
+
+
 <!ENTITY updateCheck.label               "Kagua visasisho, lakini wacha nichague kama nitazisakinisha">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Kamwe usikague visasisho (haipendekezwi: hatari kwa usalama)">
@@ -94,6 +99,7 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Nionye kama hii italemaza vifaa vyovyote vya nyongeza">
 <!ENTITY updateAutoAddonWarn.accesskey   "N">
+
 
 <!ENTITY updateHistory.label             "Onyesha Historia ya Visasaisho">
 <!ENTITY updateHistory.accesskey         "s">
@@ -124,8 +130,6 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Angalia Vyeti">
 <!ENTITY viewCerts.accesskey             "t">
-<!ENTITY viewCRLs.label                  "Orodha za Ufutaji">
-<!ENTITY viewCRLs.accesskey              "O">
 <!ENTITY verify2.label                   "Uhakikishi">
 <!ENTITY verify2.accesskey               "U">
 <!ENTITY viewSecurityDevices.label       "Vifaa vya Usalama">

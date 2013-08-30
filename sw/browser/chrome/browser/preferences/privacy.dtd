@@ -4,11 +4,10 @@
 
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY dntTrackingNopref.label        "Usieleze tovuti hizi kitu chochote kuhusu pendeleo zangu za ufuatiliaji">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label       "Ambia nyavuti sitaki kufuatiliwa.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Ambia nyavuti sitaki kufuatiliwa.">
+<!ENTITY dntTrackingNopref.accesskey    "o               ">
+
+<!ENTITY dntTrackingNotOkay.accesskey   "n                ">
+
 <!ENTITY dntTrackingOkay.accesskey      "t">
 <!ENTITY doNotTrackInfo.label           "Jifunze Zaidi">
 
@@ -27,11 +26,10 @@
 <!ENTITY  acceptCookies.label           "Kubali vidakuzi kutoka kwa tovuti">
 <!ENTITY  acceptCookies.accesskey       "K">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+
+<!ENTITY  acceptThirdParty.always.label   "Kila wakati">
+<!ENTITY  acceptThirdParty.never.label    "Kamwe">
+
 
 <!ENTITY  keepUntil.label               "Weka hadi:">
 <!ENTITY  keepUntil.accesskey           "W">

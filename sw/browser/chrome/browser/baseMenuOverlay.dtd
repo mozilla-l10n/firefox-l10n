@@ -19,6 +19,9 @@
 <!ENTITY productHelp.label        "&brandShortName; Msaada">
 <!ENTITY productHelp.accesskey    "M">
 <!ENTITY helpMac.commandkey       "?">
+
+
+
 <!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
 <!ENTITY helpSafeMode.accesskey   "A">
 

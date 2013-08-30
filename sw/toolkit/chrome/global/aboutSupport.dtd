@@ -18,6 +18,9 @@ kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidi
 <!ENTITY aboutSupport.appBasicsTitle "Misingi ya Programu">
 <!ENTITY aboutSupport.appBasicsName "Jina">
 <!ENTITY aboutSupport.appBasicsVersion "Toleo">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Mpangilio Orodha wa Maelezo Mafupi">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -60,7 +63,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Toleo za Maktaba">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historia ya Usakinishaji">
-<!ENTITY aboutSupport.updateHistoryTitle "Historia ya Usasaisho">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Nakili matini katika ubao">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nakili data ghafi kwa ubao">
