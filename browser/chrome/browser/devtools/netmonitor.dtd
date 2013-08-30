@@ -183,6 +183,8 @@
 <!ENTITY netmonitorUI.summary.resend      "Tekrar gönder">
 <!-- LOCALIZATION NOTE (debuggerUI.summary.resend.accesskey): This is the access key
   -  for the Resend menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.summary.resend.accesskey  "T">
 <!-- LOCALIZATION NOTE (debuggerUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 
