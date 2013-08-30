@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Configurando &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Estamos actualizando tus marcadores e historial, lo que puede tomar más o menos un minuto.">
-
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
@@ -67,20 +64,31 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacidad y seguridad">
-<!ENTITY pref_category_content "Contenido">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Opcions de datos">
-<!ENTITY pref_about_firefox "Acerca de &brandShortName;">
+<!ENTITY pref_category_advanced "Avanzada">
+<!ENTITY pref_category_customize "Personalizar">
+<!ENTITY pref_category_search2 "Configurar búsqueda">
+<!ENTITY pref_category_display "Pantalla">
+<!ENTITY pref_category_privacy_short "Privacidad">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Opciones de datos">
+<!ENTITY pref_category_installed_search_engines "Buscadores instalados">
+<!ENTITY pref_category_add_search_providers "Agregar más buscadores">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "TRUCO: Podés agregar cualquier sitio web a tu lista de proveedores de búsqueda con una presión larga sobre el campo de búsqueda.">
+<!ENTITY pref_category_devtools "Herramientas de desarrollador">
+<!ENTITY pref_developer_remotedebugging "Depuración remota">
+<!ENTITY pref_developer_remotedebugging_docs "Conocer más">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privacidad y seguridad">
-<!ENTITY pref_header_content "Contenido">
+<!ENTITY pref_header_customize "Personalizar">
+<!ENTITY pref_header_display "Pantalla">
+<!ENTITY pref_header_privacy_short "Privacidad">
+<!ENTITY pref_header_help "Ayuda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Herramientas de desarrollo">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitadas">
@@ -183,9 +191,6 @@ size. -->
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
-<!ENTITY wallpaper_success "Fondo de pantalla actualizado">
-<!ENTITY wallpaper_progress "Estableciendo fondo de pantalla">
-<!ENTITY wallpaper_fail "No se pudo cambiar el fondo de pantalla">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +236,10 @@ size. -->
 <!ENTITY reading_list_removed "Página eliminada de la lista de lectura">
 <!ENTITY reading_list_failed "Falló agregar la página a la lista de lectura">
 <!ENTITY reading_list_duplicate "Página ya agregada a tu lista de lectura">
-<!ENTITY reader "Lector">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Acciones adicionales">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
 <!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
@@ -318,6 +326,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcadores e historial">
 
+<!ENTITY devtools_remote_debugging_forward "¡No te olvidés de derivar los puertos!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualización de &brandShortName; disponible">
 <!ENTITY updater_start_select2 "Tocar para descargar">
@@ -330,3 +340,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_title2 "Actualización de &brandShortName; disponible">
 <!ENTITY updater_apply_select2 "Tocar para actualizar">
 
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Nueva sesión de invitado">
+<!ENTITY exit_guest_session "Salir de sesión de invitado">
+<!ENTITY guest_session_dialog_continue "Continuar">
+<!ENTITY guest_session_dialog_cancel "Cancelar">
+<!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
+<!ENTITY new_guest_session_text "La persona que lo use no podrá ver nada de tus datos personales de navegación (como contraseñas guardadas, historial o marcadores).\n\nCuando el invitado termine, sus datos de navegación se borrarán y tu sesión se restaurará.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; se reiniciará">
+<!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión se borrarán.">
