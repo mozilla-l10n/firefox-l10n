@@ -6,6 +6,6 @@
 <!ENTITY identityTitle.label "Paràmetres de la identitat">
 <!ENTITY identityListDesc.label "Configureu els paràmetres per a aquesta identitat:">
 
-<!ENTITY settingsTab.label       "Configuració">
+<!ENTITY settingsTab.label       "Paràmetres">
 <!ENTITY copiesFoldersTab.label "Còpies i carpetes">
 <!ENTITY addressingTab.label    "Redacció i adreçament">

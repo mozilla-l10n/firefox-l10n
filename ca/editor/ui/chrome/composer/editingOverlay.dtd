@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Obre un fitxer...">
+<!ENTITY openFileCmd.label "Obre un fitxer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Obre un lloc Web...">
+<!ENTITY openRemoteCmd.label "Obre un lloc web…">
 <!ENTITY openRemoteCmd.accesskey "l">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Pàgines recents">
@@ -15,18 +15,18 @@
 <!ENTITY saveCmd.accesskey "D">
 <!ENTITY saveAsCmd.label "Anomena i desa…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "Desa i canvia la codificació dels caràcters">
+<!ENTITY saveAsChangeEncodingCmd.label "Desa i canvia la codificació de caràcters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY publishCmd.label "Publica">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publica com...">
+<!ENTITY publishAsCmd.label "Publica com…">
 <!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY fileRevert.label "Reverteix">
 <!ENTITY fileRevert.accesskey "t">
 <!-- Edit menu items -->
 
-<!ENTITY publishSettings.label "Opcions de la publicació del web...">
+<!ENTITY publishSettings.label "Paràmetres del lloc de publicació…">
 <!ENTITY publishSettings.accesskey "b">
 <!-- Toolbar buttons/items -->
 

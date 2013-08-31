@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Afegeix un altre tipus de compte…">
 <!ENTITY addOtherAccountButton.accesskey "t">
-<!ENTITY setDefaultButton.label "Defineix com a predeterminat">
+<!ENTITY setDefaultButton.label "Defineix per defecte">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Suprimeix el compte">
 <!ENTITY removeButton.accesskey "i">

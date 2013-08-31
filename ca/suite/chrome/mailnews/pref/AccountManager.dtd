@@ -8,7 +8,7 @@
 
 <!ENTITY addAccountButton.label "Afegeix un compte...">
 <!ENTITY addAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Defineix com a predeterminat">
+<!ENTITY setDefaultButton.label "Defineix per defecte">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Suprimeix el compte">
 <!ENTITY removeButton.accesskey "i">

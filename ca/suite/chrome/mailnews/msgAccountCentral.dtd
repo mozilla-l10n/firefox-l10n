@@ -4,7 +4,7 @@
 
 <!ENTITY emailSectionHdr.label        "Correu electrònic"> 
 <!ENTITY readMsgsLink.label           "Llegeix els missatges"> 
-<!ENTITY composeMsgLink.label         "Redacta un nou missatge"> 
+<!ENTITY composeMsgLink.label         "Redacta un missatge nou"> 
 
 <!ENTITY newsSectionHdr.label         "Grups de discussió"> 
 <!ENTITY subscribeNewsLink.label      "Subscriu-me als grups de discussió"> 
