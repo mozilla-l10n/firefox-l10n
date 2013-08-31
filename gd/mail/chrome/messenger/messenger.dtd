@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Faigh post">
+<!ENTITY getMsgButton1.label "Faigh am post">
 <!ENTITY newMsgButton.label "Sgrìobh">
 <!ENTITY replyButton.label "Freagair">
 <!ENTITY replyAllButton.label "Freagair a h-uile">
