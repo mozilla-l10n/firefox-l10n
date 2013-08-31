@@ -12,7 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY useIdle.label "Naudoti komandą IDLE, jei serveris ją supranta">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Didžiausias serverio prisijungimų prie podėlio skaičius">
+<!ENTITY maximumConnectionsNumber.label "Didžiausias leistinas lygiagrečių prisijungimų prie serverio skaičius">
 <!ENTITY maximumConnectionsNumber.accesskey "D">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Šios nuostatos apibrėžia IMAP serverio vardų sritis">
