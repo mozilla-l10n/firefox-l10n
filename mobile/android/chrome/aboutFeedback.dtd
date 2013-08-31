@@ -8,19 +8,27 @@
 <!ENTITY intro.message             "Pasakykite, ką šiuo metu manote apie „Android“ įrenginiams skirtą „&brandShortName;“.">
 <!ENTITY intro.happyLink           "Labai patinka">
 <!ENTITY intro.sadLink             "Susidūriau su keletu problemų">
+<!ENTITY intro.maybeLater          "Galbūt vėliau">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Prireikus pagalbos ar susidūrus su problema naudojantis „&brandShortName;“, kviečiame aplankyti ">
+<!ENTITY support.pre2              "Prireikus daugiau informacijos, kviečiame aplankyti ">
 <!ENTITY support.link              "„&brandShortName;“ žinyno">
-<!ENTITY support.post              " svetainę.">
+<!ENTITY support.post2             " svetainę.">
 
 <!ENTITY happy.header              "Džiugu girdėti!">
+
+<!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
+     but essentially it means that we want you to let others know how much you love Firefox. -->
 <!ENTITY happy.message             "Gal norite pasidalinti savo džiaugsmu, įvertindami mus penkiomis žvaigždutėmis „Google Play“ krautuvėje?">
+
+<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
+     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 <!ENTITY happy.finePrint           "Tai užtruks mažiau nei minutę ir padės pasijusti puikiai.">
+
 <!ENTITY happy.ratingLink          "Taip, atverti „Google Play“">
-<!ENTITY happy.maybeLater          "Galbūt vėliau">
+<!ENTITY happy.maybeLater2         "Galbūt vėliau">
 <!ENTITY happy.noThanks            "Ačiū, ne">
 
 <!ENTITY sad.message               "Apgailestaujame, jog patyrėte nepatogumų, naudodamiesi „&brandShortName;“. Papasakokite, kas nutiko, kad galėtume šią problemą pašalinti.">
