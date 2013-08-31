@@ -5,3 +5,10 @@
 <!ENTITY next.tooltip "Encontrar la siguiente aparición de la frase">
 <!ENTITY previous.tooltip "Buscar la aparición anterior de la frase">
 <!ENTITY findCloseButton.tooltip "Cerrar Barra de Búsqueda">
+
+<!ENTITY highlightAll.label "Destacar todos">
+<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.tooltiptext "Destacar todas las apariciones de la frase">
+<!ENTITY caseSensitive.label "Coincidir mayús./minús.">
+<!ENTITY caseSensitive.accesskey "C">
+<!ENTITY caseSensitive.tooltiptext "Buscar con sensibilidad por las mayúsculas">
