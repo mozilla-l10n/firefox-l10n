@@ -121,7 +121,7 @@
 <!ENTITY aboutCmd.label                                    "Quant al &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "Q">
 
-<!ENTITY updateCmd.label                                   "Comprova si hi ha actualitzacions…">
+<!ENTITY updateCmd.label                                   "Cerca actualitzacions…">
 <!ENTITY updateCmd.accesskey                               "o">
 
 <!ENTITY sunbird.export.calendar.label                     "Exporta el calendari…">

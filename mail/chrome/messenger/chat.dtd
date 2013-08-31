@@ -7,18 +7,18 @@
 <!ENTITY conversationsHeader.label     "Converses">
 <!ENTITY searchResultConversation.label "Resultat de la cerca">
 <!ENTITY chat.noConv.title             "Les converses es mostraran aquí.">
-<!ENTITY chat.noConv.description       "Utilitzeu la llista de contactes del panel de l'esquerra per iniciar una conversa.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName; No existeix cap conversa anterior amb aquest contacte.">
-<!ENTITY chat.noAccount.title             "No heu configurat cap compte de xat.">
-<!ENTITY chat.noAccount.description       "Permetreu que &brandShortName; us guiï durant el procés de creació d'un compte de xat.">
-<!ENTITY chat.accountWizard.button       "Inicia la sessió">
-<!ENTITY chat.noConnectedAccount.title             "Your chat accounts are not connected.">
-<!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
-<!ENTITY chat.showAccountManager.button       "Show chat status">
+<!ENTITY chat.noConv.description       "Utilitzeu la llista de contactes de l'esquerra per iniciar una conversa.">
+<!ENTITY chat.noPreviousConv.description       "Actualment el &brandShortName; no té emmagatzemada cap conversa anterior amb aquest contacte.">
+<!ENTITY chat.noAccount.title             "Encara no heu configurat cap compte de xat.">
+<!ENTITY chat.noAccount.description       "Permeteu que el &brandShortName; us guiï durant el procés de configuració del vostre compte de xat.">
+<!ENTITY chat.accountWizard.button       "Inicia">
+<!ENTITY chat.noConnectedAccount.title             "Els comptes de xat no estan connectats.">
+<!ENTITY chat.noConnectedAccount.description       "Podeu connectar-vos-hi des del diàleg «Estat del xat»:">
+<!ENTITY chat.showAccountManager.button       "Mostra l'estat del xat">
 
 <!ENTITY chat.participants             "Participants:">
 <!ENTITY chat.previousConversations    "Converses prèvies:">
-<!ENTITY chat.ongoingConversation      "Converses sortints">
+<!ENTITY chat.ongoingConversation      "Conversa en curs">
 
 <!ENTITY openConversationCmd.label     "Inicia una conversa">
 <!ENTITY openConversationCmd.accesskey "c">
@@ -33,7 +33,7 @@
 <!ENTITY closeConversationButton.tooltip "Tanca la conversa">
 
 <!ENTITY addBuddyButton.label          "Afegeix un contacte">
-<!ENTITY joinChatButton.label          "Accediu al xat">
+<!ENTITY joinChatButton.label          "Uniu-vos al xat">
 <!ENTITY chatAccountsButton.label      "Mostra els comptes">
 
 <!ENTITY status.available          "Disponible">

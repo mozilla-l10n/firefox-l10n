@@ -72,7 +72,7 @@
 <!ENTITY sendDefaultCharset.label         "Correu de sortida:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label            "Codificacions de caràcters">
-<!ENTITY composingDescription.label       "Defineix les codificacions de caràcters per defecte per rebre i enviar correu">
+<!ENTITY composingDescription.label       "Definiu les codificacions de caràcters per defecte per enviar i rebre correu">
 
 <!ENTITY viewDefaultCharsetList.label     "Correu d'entrada:">
 <!ENTITY viewDefaultCharsetList.accesskey  "e">

@@ -3,37 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "S\u0027està configurant el vostre &brandShortName;">
-<!ENTITY  splash_bookmarks_history "S\u0027estan actualitzant les adreces d\u0027interès i l\u0027historial; això pot trigar una estona.">
-
-<!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
-<!ENTITY  error_loading_file "S\u0027ha produït un error quan es provava de carregar els fitxers necessaris per executar el &brandShortName;">
+<!ENTITY  no_space_to_start_error "No hi ha prou espai lliure per poder iniciar el &brandShortName;.">
+<!ENTITY  error_loading_file "S\u0027ha produït un error en intentar carregar els fitxers necessaris per executar el &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Habituals">
 <!ENTITY  awesomebar_bookmarks_title "D\u0027interès">
 <!ENTITY  awesomebar_history_title "Historial">
 <!ENTITY  awesomebar_switch_to_tab "Canvia a la pestanya">
 
-<!ENTITY  crash_reporter_title "Informe de fallades del &brandShortName;">
+<!ENTITY  crash_reporter_title "Informes de fallada del &brandShortName;">
 <!ENTITY  crash_message2 "El &brandShortName; ha tingut un problema i ha fallat. Es mostraran les vostres pestanyes a la pàgina d\u0027inici del &brandShortName; quan reinicieu. ">
-<!ENTITY  crash_send_report_message3 "Notifiqueu a &vendorShortName; el problema perquè pugui solucionar-ho">
-<!ENTITY  crash_include_url2 "Inclou l\u0027adreça de la pàgina on em trobava">
+<!ENTITY  crash_send_report_message3 "Notifiqueu la fallada a &vendorShortName; per intentar solucionar-la">
+<!ENTITY  crash_include_url2 "Inclou l\u0027adreça de la pàgina on estava">
 <!ENTITY  crash_sorry "Ho lamentem">
 <!ENTITY  crash_comment "Afegeix un comentari (els comentaris són visibles públicament)">
 <!ENTITY  crash_allow_contact2 "Permet que &vendorShortName; pugui contactar amb mi en referència a aquest problema">
 <!ENTITY  crash_email "La vostra adreça electrònica">
-<!ENTITY  crash_closing_alert "Voleu sortir sense enviar un informe d\u0027error?">
-<!ENTITY  sending_crash_report "S\u0027està enviant un informe de fallada\u2026">
+<!ENTITY  crash_closing_alert "Voleu sortir sense enviar un informe de fallada?">
+<!ENTITY  sending_crash_report "S\u0027està enviant l\u0027informe de fallada\u2026">
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
 <!ENTITY  exit_label "Surt">
 
 <!ENTITY  launcher_shortcuts_title "Aplicacions web del &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació Web">
+<!ENTITY  launcher_shortcuts_empty "No s\u0027ha trobat cap aplicació web">
 
 <!ENTITY choose_file "Trieu un fitxer">
 
-<!ENTITY awesomebar_default_text "Escriviu una cerca o una adreça">
+<!ENTITY awesomebar_default_text "Escriviu una cerca o adreça">
 
 <!ENTITY remote_tabs "Pestanyes sincronitzades">
 <!ENTITY remote_tabs_show_all "Mostra totes les pestanyes">
@@ -65,22 +62,28 @@
 <!ENTITY num_tabs2 "&formatD; pestanyes">
 <!ENTITY new_tab_opened "S\u0027ha obert una pestanya nova">
 
-<!ENTITY settings "Opcions">
-<!ENTITY settings_title "Opcions">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privadesa i seguretat">
-<!ENTITY pref_category_content "Contingut">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY settings "Paràmetres">
+<!ENTITY settings_title "Paràmetres">
+<!ENTITY pref_category_advanced "Avançat">
+<!ENTITY pref_category_customize "Personalitza">
+<!ENTITY pref_category_search2 "Paràmetres de cerca">
+<!ENTITY pref_category_display "Visualització">
+<!ENTITY pref_category_privacy_short "Privadesa">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Elecció de dades">
-<!ENTITY pref_about_firefox "Quant al &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
+<!ENTITY pref_category_devtools "Eines per a desenvolupadors">
+<!ENTITY pref_developer_remotedebugging "Depuració remota">
+<!ENTITY pref_developer_remotedebugging_docs "Més informació">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_privacy "Privadesa i seguretat">
-<!ENTITY pref_header_content "Contingut">
+<!ENTITY pref_header_customize "Personalitza">
+<!ENTITY pref_header_display "Visualització">
+<!ENTITY pref_header_privacy_short "Privadesa">
+<!ENTITY pref_header_help "Ajuda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Eines per a desenvolupadors">
 
 <!ENTITY pref_cookies_menu "Galetes">
 <!ENTITY pref_cookies_accept_all "Habilitades">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida de la lletra">
-<!ENTITY pref_reflow_on_zoom3 "Toqueu 2 vegades per ajustar text">
+<!ENTITY pref_reflow_on_zoom4 "Reajusta el text">
+<!ENTITY pref_restore "Pestanyes">
+<!ENTITY pref_restore_always "Restaura-les sempre">
+<!ENTITY pref_restore_crash "Restaura-les després d\u0027una fallada">
+<!ENTITY pref_restore_never "No les restauris mai">
 <!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -120,18 +127,23 @@ size. -->
 <!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
 <!ENTITY pref_use_master_password "Contrasenya mestra">
-<!ENTITY pref_show_product_announcements "Mostra notícies de producte">
-<!ENTITY pref_sync "Sincronitza">
-<!ENTITY pref_search_suggestions "Mostra els suggeriments de cerca">
+<!ENTITY pref_show_product_announcements "Mostra notícies del producte">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_search_suggestions "Mostra suggeriments de cerca">
 <!ENTITY pref_import_android "Importa de l\u0027Android">
 <!ENTITY pref_private_data_history "Historial de navegació i baixades">
 <!ENTITY pref_private_data_formdata "Historial de formularis i cerques">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
 <!ENTITY pref_private_data_passwords "Contrasenyes desades">
 <!ENTITY pref_private_data_cache "Memòria cau">
-<!ENTITY pref_private_data_offlineApps "Dades fora de línia dels llocs web">
+<!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
 <!ENTITY pref_private_data_downloadFiles "Fitxers baixats">
+
+
+<!ENTITY pref_about_firefox "Quant al &brandShortName;">
+<!ENTITY pref_vendor_faqs "PMF">
+<!ENTITY pref_vendor_feedback "Doneu la vostra opinió">
 
 <!ENTITY datareporting_notification_title "Estadístiques i dades del &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Trieu quina informació voleu compartir">
@@ -147,16 +159,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Informe de salut del &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Comparteix la informació de l\u0027ús i rendiment del navegador amb &vendorShortName; per ajudar a millorar-ho">
-<!ENTITY datareporting_abouthr_title "Mostra l\u0027informe d\u0027estat">
+<!ENTITY datareporting_fhr_summary2 "Comparteix dades amb &vendorShortName; sobre la salut del navegador i us ajuda a entendre el rendiment del navegador">
+<!ENTITY datareporting_abouthr_title "Mostra l\u0027informe de salut">
 <!ENTITY datareporting_telemetry_title "Telemesura">
 <!ENTITY datareporting_telemetry_summary "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "El &brandShortName; tramet informes de fallades per ajudar a &vendorShortName; a fer el navegador més estable i segur">
+<!ENTITY datareporting_crashreporter_summary "El &brandShortName; tramet informes de fallada per ajudar a &vendorShortName; a fer el navegador més estable i segur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Informe de fallades">
-<!ENTITY datareporting_wifi_title "Servei d\u0027ubicació de &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "Ajudeu a millorar el servei d\u0027ubicació de l\u0027Open Web, permetent a &brandShortName; recollir dades anònimes de les antenes de telefonia">
+<!ENTITY datareporting_crashreporter_title_short "Informes de fallada">
+<!ENTITY datareporting_wifi_title "Serveis d\u0027ubicació de &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Ajudeu a millorar els serveis d\u0027ubicació per al web obert permetent a &brandShortName; recollir dades anònimes de les antenes de telefonia">
 
 <!ENTITY pref_update_autodownload "Actualitzacions automàtiques">
 <!ENTITY pref_update_autodownload_wifi "Només amb xarxa sense fil">
@@ -168,24 +180,23 @@ size. -->
 <!ENTITY addons "Complements">
 <!ENTITY downloads "Baixades">
 <!ENTITY apps "Aplicacions">
-<!ENTITY char_encoding "Codificació de caràcters">
+<!ENTITY char_encoding "Codificació caràcters">
 
 <!ENTITY share "Comparteix">
 <!ENTITY share_title "Comparteix mitjançant">
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY find_in_page "Cerca a la pàgina">
-<!ENTITY desktop_mode "Sol·licita per a escriptori">
+<!ENTITY desktop_mode "Mostra lloc d\u0027escriptori">
 <!ENTITY tools "Eines">
 <!ENTITY new_tab "Pestanya nova">
 <!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY tabs_normal "Pestanyes">
-<!ENTITY tabs_private "Privada">
-<!ENTITY tabs_synced "Sincronitzada">
-<!ENTITY wallpaper_success "Fons d\u0027escriptori actualitzat">
-<!ENTITY wallpaper_progress "Configuració del fons d\u0027escriptori">
-<!ENTITY wallpaper_fail "No s\u0027ha pogut establir el fons d\u0027escriptori">
+<!ENTITY tabs_private "Privades">
+<!ENTITY tabs_synced "Sincronitzades">
+<!ENTITY set_image_fail "No es pot definir la imatge">
+<!ENTITY set_image_chooser_title "Defineix la imatge com a">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -224,14 +235,17 @@ size. -->
 <!ENTITY site_settings_title3       "Paràmetres del lloc">
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
-<!ENTITY site_settings_no_settings  "No hi ha cap opció per netejar.">
+<!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
 
 <!ENTITY reading_list "Llista de lectura">
 <!ENTITY reading_list_added "S\u0027ha afegit a la vostra pàgina de lectura">
 <!ENTITY reading_list_removed "S\u0027ha suprimit de la vostra pàgina de lectura">
 <!ENTITY reading_list_failed "No s\u0027ha pogut afegir la pàgina a la vostra llista de lectura">
 <!ENTITY reading_list_duplicate "La pàgina ja és a la llista de lectura">
-<!ENTITY reader "Lector">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Accions addicionals">
 
 <!ENTITY masterpassword_create_title "Crea una contrasenya mestra">
 <!ENTITY masterpassword_remove_title "Suprimeix la contrasenya mestra">
@@ -246,7 +260,7 @@ size. -->
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 
-<!ENTITY abouthome_addons_title "Els complements del &brandShortName;">
+<!ENTITY abouthome_addons_title "Complements del &brandShortName;">
 <!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Les pestanyes de l\u0027última vegada">
 <!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\u0027última vegada">
@@ -293,9 +307,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha blocat el contingut no segur.">
 <!ENTITY blocked_mixed_content_message_bottom "La majoria de pàgines web continuen funcionant correctament encara que s\u0027hagi blocat contingut.">
-<!ENTITY learn_more "Aprendre\u0027n més">
-<!ENTITY enable_protection "Habilita la protecció">
-<!ENTITY disable_protection "Inhabilita la protecció">
+<!ENTITY learn_more "Més informació">
+<!ENTITY enable_protection "Activa la protecció">
+<!ENTITY disable_protection "Desactiva la protecció">
 <!ENTITY keep_blocking "Continua blocant">
 
 <!ENTITY private_data_success "S\u0027han netejat les dades privades">
@@ -317,6 +331,8 @@ de l\u0027Android">
 <!ENTITY webapp_generic_name "Aplicacions">
 
 <!ENTITY searchable_description "Adreces d\u0027interès i historial">
+
+<!ENTITY devtools_remote_debugging_forward "No oblideu configurar el reenviament de ports!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
@@ -329,3 +345,14 @@ de l\u0027Android">
 
 <!ENTITY updater_apply_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_apply_select2 "Toqueu per actualitzar">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Sessió de convidat nova">
+<!ENTITY exit_guest_session "Surt de la sessió de convidat">
+<!ENTITY guest_session_dialog_continue "Continua">
+<!ENTITY guest_session_dialog_cancel "Cancel·la">
+<!ENTITY new_guest_session_title "El &brandShortName; es reiniciarà ara">
+<!ENTITY new_guest_session_text "La persona que l\u0027utilitzi no podrà veure cap de les dades de navegació personals (com les contrasenyes desades, l\u0027historial o les adreces d\u0027interès).\n\nQuan el convidat hagi acabat, se suprimiran les seves dades de navegació i es restaurarà la vostra sessió.">
+
+<!ENTITY exit_guest_session_title "El &brandShortName; es reiniciarà ara">
+<!ENTITY exit_guest_session_text "Se suprimiran les dades de navegació d\u0027aquesta sessió.">

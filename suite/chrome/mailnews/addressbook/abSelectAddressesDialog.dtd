@@ -26,6 +26,6 @@
 <!ENTITY addressMessageTo.label              "Adreça el missatge a:"> 
 <!-- Tooltips items -->  
 
-<!ENTITY addressPickerNewButton.tooltip      "Crea una nova targeta de llibreta d'adreces"> 
+<!ENTITY addressPickerNewButton.tooltip      "Crea una targeta de llibreta d'adreces nova"> 
 <!ENTITY addressPickerEditButton.tooltip     "Edita la targeta seleccionada"> 
 

@@ -2,5 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Les opcions es poden canviar utilitzant la pestanya Adjuncions del menú Preferències del &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Les opcions es poden canviar utilitzant la pestanya Adjuncions del menú Opcions del &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Els paràmetres es poden canviar utilitzant la pestanya Adjuncions del menú Preferències del &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Els paràmetres es poden canviar utilitzant la pestanya Adjuncions del menú Opcions del &brandShortName;.">

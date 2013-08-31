@@ -22,7 +22,7 @@
 
 <!ENTITY incoming.label                  "Entrada:">
 <!ENTITY outgoing.label                  "Sortida:">
-<!ENTITY username.label                  "Nom de l'usuari:">
+<!ENTITY username.label                  "Nom d'usuari:">
 <!ENTITY hostname.label                  "Nom del servidor">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
@@ -58,8 +58,8 @@
 
 
 <!ENTITY warning.label                   "Atenció!">
-<!ENTITY incomingSettings.label          "Opcions de recepció:">
-<!ENTITY outgoingSettings.label          "Opcions d'enviament:">
+<!ENTITY incomingSettings.label          "Paràmetres d'entrada:">
+<!ENTITY outgoingSettings.label          "Paràmetres de sortida:">
 <!ENTITY technicaldetails.label          "Detalls tècnics">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
@@ -70,13 +70,13 @@
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "Fet">
-<!ENTITY doneAccount.accesskey           "D">
+<!ENTITY doneAccount.accesskey           "F">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Modifica les opcions">
-<!ENTITY changeSettings.accesskey        "M">
+<!ENTITY changeSettings.label            "Canvia els paràmetres">
+<!ENTITY changeSettings.accesskey        "m">
 
 <!ENTITY contactYourProvider.description "El &brandShortName; us podrà donar accés al vostre correu amb les opcions que heu configurat. Tot i així, hauríeu de comentar a l'administrador o al proveïdor de correu que les connexions no estan bé així. Per a més informació consulteu les PMF del Thunderbird.">
 
