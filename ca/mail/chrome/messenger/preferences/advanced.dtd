@@ -63,12 +63,12 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
 <!-- Update -->
 
-<!ENTITY autoCheck.label                "Comprova automàticament si hi ha actualitzacions del:">
+<!ENTITY autoCheck.label                "Cerca actualitzacions automàticament de:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label       "Complements instal·lats">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
+<!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;:">
 <!ENTITY modeAskMe.label                "Demana'm què vull fer">
 <!ENTITY modeAskMe.accesskey            "D">
 <!ENTITY modeAutomatic.label            "Baixa i instal·la automàticament l'actualització">

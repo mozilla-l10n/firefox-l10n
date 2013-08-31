@@ -30,7 +30,7 @@
 <!ENTITY successful.title "Felicitats.">
 <!ENTITY successful.successMessage "Heu configurat el vostre compte satisfactòriament.">
 <!ENTITY successful.write "Escriviu un correu">
-<!ENTITY successful.write.desc "Feu saber als vostres amics i a la vostra família que teniu una nova adreça electrònica. <br/> Que per això serveixen els comptes de correu, oi?">
+<!ENTITY successful.write.desc "Feu saber als vostres amics i a la vostra família que teniu una adreça electrònica nova. <br/> Que per això serveixen els comptes de correu, oi?">
 <!ENTITY successful.customize "Personalitzeu-vos el &brandShortName; amb alguns complements interessants">
 <!ENTITY successful.customize.desc "Hi ha milers de complements que us permetran personalitzar el &brandShortName; per tal que s'ajusti a les vostres necessitats.">
 <!ENTITY successful.attach "Afegeix una firma personal al meu correu">

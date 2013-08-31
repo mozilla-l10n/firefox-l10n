@@ -86,13 +86,13 @@
 <!-- Tooltips -->
 
 <!ENTITY addressbookToolbar.tooltip                     "Barra d'eines de la llibreta d'adreces">
-<!ENTITY newContactButton.tooltip                       "Crea un nou contacte a la llibreta d'adreces">
-<!ENTITY newlistButton.tooltip                          "Crea una nova llista"> 
+<!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
+<!ENTITY newlistButton.tooltip                          "Crea una llista nova"> 
 <!ENTITY editItemButton.tooltip                         "Edita l'element seleccionat">
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu"> 
 <!ENTITY newIM.tooltip                                  "Envia un missatge instantani o xat"> 
 <!ENTITY deleteItemButton.tooltip                       "Suprimeix l'element seleccionat">
-<!ENTITY throbber.tooltip                               "Va a la pàgina principal del &vendorShortName;">
+<!ENTITY throbber.tooltip                               "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Cerca avançada d'adreces">
 <!-- Dir Tree header -->
 

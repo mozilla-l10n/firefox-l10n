@@ -84,7 +84,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utilitza els per defecte">
+<!ENTITY  permUseDefault        "Utilitza el valor per defecte">
 <!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
 <!ENTITY  permAllowSession      "Permet durant la sessió">
@@ -93,7 +93,7 @@
 <!ENTITY  permImage             "Carregar imatges">
 <!ENTITY  permPopup             "Obrir finestres emergents">
 <!ENTITY  permCookie            "Definir galetes">
-<!ENTITY  permNotifications     "Mostra les notificacions">
+<!ENTITY  permNotifications     "Mostrar notificacions">
 <!ENTITY  permInstall           "Instal·lar extensions o temes">
 <!ENTITY  permGeo               "Compartir la ubicació">
 

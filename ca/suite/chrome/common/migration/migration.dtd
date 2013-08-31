@@ -14,7 +14,7 @@
 <!ENTITY importFromNothing.label         "No importis res">
 <!ENTITY importFromNothing.accesskey     "r">
 
-<!ENTITY importSource.title              "Importació de la configuració i les carpetes de correu">
+<!ENTITY importSource.title              "Importació dels paràmetres i de les dades">
 <!ENTITY importItems.title               "Elements per importar">
 <!ENTITY importItems.label               "Seleccioneu quins elements voleu importar:">
 

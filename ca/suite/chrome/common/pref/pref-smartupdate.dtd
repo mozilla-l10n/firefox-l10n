@@ -8,7 +8,7 @@
 <!ENTITY addOnsAllow.label                    "Permet als llocs web baixar i instal·lar les actualitzacions">
 <!ENTITY addOnsAllow.accesskey                "b">
 <!ENTITY allowedSitesLink.label               "Llocs web permesos">
-<!ENTITY autoAddOnsUpdates.label              "Comprova automàticament si hi ha actualitzacions">
+<!ENTITY autoAddOnsUpdates.label              "Cerca actualitzacions automàticament">
 <!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "diàriament">
 <!ENTITY addOnsDaily.accesskey                "d">
@@ -21,11 +21,11 @@
 <!ENTITY addonManagerLink.label               "Gestiona els complements">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
-<!ENTITY autoAppUpdates.label                 "Comprova automàticament si hi ha actualitzacions">
+<!ENTITY autoAppUpdates.label                 "Cerca actualitzacions automàticament">
 <!ENTITY autoAppUpdates.accesskey             "t">
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "e">
-<!ENTITY appModeAutomatic.label               "Baixa i instal·la automàticament les actualitzacions">
+<!ENTITY appModeAutomatic.label               "Baixa i instal·la automàticament l'actualització">
 <!ENTITY appModeAutomatic.accesskey           "u">
 <!ENTITY appModeAutoAddonWarn.label           "Avisa'm si s'inhabilitarà cap dels meus complements">
 <!ENTITY appModeAutoAddonWarn.accesskey       "n">

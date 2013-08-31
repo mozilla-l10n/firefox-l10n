@@ -9,8 +9,8 @@
 <!ENTITY aboutSupport.showPrivateData.explanationText "(possiblement és informació d'identificació)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nom">
-<!ENTITY aboutSupport.accountsIncomingServer "Servidor de recepció">
-<!ENTITY aboutSupport.accountsOutgoingServers "Servidors d'enviament">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor d'entrada">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidors de sortida">
 <!ENTITY aboutSupport.accountsServerName "Nom">
 <!ENTITY aboutSupport.accountsConnSecurity "Seguretat de la connexió">
 <!ENTITY aboutSupport.accountsAuthMethod "Mètode d'autenticació">

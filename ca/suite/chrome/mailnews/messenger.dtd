@@ -47,7 +47,7 @@
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tots els comptes">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
-<!ENTITY getAllNewMsgCmd.label "Obté tots els nous missatges">
+<!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Recupera els següents 500 missatges dels grups de discussió">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -367,9 +367,9 @@
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "Obre el missatge del canal">
 <!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Pàgina web en una nova finestra">
+<!ENTITY openFeedWebPageInWindow.label "Pàgina web en una finestra nova">
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
-<!ENTITY openFeedSummaryInWindow.label "Resum en una nova finestra">
+<!ENTITY openFeedSummaryInWindow.label "Resum en una finestra nova">
 <!ENTITY openFeedSummaryInWindow.accesskey "R">
 <!ENTITY openFeedWebPageInMP.label "Commuta la pàgina web i el resum en el quadre de missatges">
 <!ENTITY openFeedWebPageInMP.accesskey "q">
@@ -428,7 +428,7 @@
 <!ENTITY searchToolbar.tooltip "Barra de cerca">
 <!ENTITY advancedButton.tooltip "Cerca avançada de missatges">
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
-<!ENTITY newMsgButton.tooltip "Crea un nou missatge">
+<!ENTITY newMsgButton.tooltip "Crea un missatge nou">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
 <!ENTITY replyAllButtonNews.tooltip "Respon al remitent i al grup de discussió">
@@ -441,7 +441,7 @@
 <!ENTITY undeleteButton.tooltip "Recupera el missatge suprimit seleccionat">
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
-<!ENTITY throbber.tooltip "Vés a la pàgina d'inici de &vendorShortName;">
+<!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
 <!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
 <!-- Statusbar -->
@@ -451,7 +451,7 @@
 
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!ENTITY contextOpenNewTab.label "Obre els missatges en una nova pestanya">
+<!ENTITY contextOpenNewTab.label "Obre els missatges en una pestanya nova">
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
@@ -487,9 +487,9 @@
 
 <!ENTITY folderContextGetMessages.label "Obté els missatges del compte">
 <!ENTITY folderContextGetMessages.accesskey "m">
-<!ENTITY folderContextOpenNewWindow.label "Obre">
+<!ENTITY folderContextOpenNewWindow.label "Obre en una finestra nova">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Obre en una nova pestanya">
+<!ENTITY folderContextOpenNewTab.label "Obre en una pestanya nova">
 <!ENTITY folderContextOpenNewTab.accesskey "p">
 <!ENTITY folderContextRename.label "Reanomena">
 <!ENTITY folderContextRename.accesskey "R">

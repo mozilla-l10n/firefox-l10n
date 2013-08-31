@@ -20,7 +20,7 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Mou a una nova finestra">
+<!ENTITY moveToNewWindow.label "Mou a una finestra nova">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY newVirtualFolderCmd.label "Cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "d">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Recupera">
+<!ENTITY getMsgButton1.label "Recupera">
 <!ENTITY newMsgButton.label "Redacta">
 <!ENTITY replyButton.label "Respon">
 <!ENTITY replyAllButton.label "Respon a tots">
@@ -534,7 +534,7 @@
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd.accesskey "p">
-<!ENTITY newMsgButton.tooltip "Crea un nou missatge">
+<!ENTITY newMsgButton.tooltip "Crea un missatge nou">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
 <!ENTITY replyListButton.tooltip "Respon a una llista de correu">
@@ -590,7 +590,7 @@
 <!ENTITY folderContextGetMessages.accesskey "g">
 <!ENTITY folderContextOpenInNewWindow.label "Obre en una finestra nova">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Obre en una nova pestanya">
+<!ENTITY folderContextOpenNewTab.label "Obre en una pestanya nova">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
 <!ENTITY folderContextNew.label "Crea una subcarpeta…">
 <!ENTITY folderContextNew.accesskey "n">
@@ -710,9 +710,9 @@
 <!ENTITY contextForwardAsMenu.label "Reenvia com">
 <!ENTITY contextForwardAsMenu.accesskey "e">
 <!ENTITY contextForwardAsInline.label "Text en el cos">
-<!ENTITY contextForwardAsInline.accesskey "t">
+<!ENTITY contextForwardAsInline.accesskey "T">
 <!ENTITY contextForwardAsAttachmentItem.label "Adjunció">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "a">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Reenvia com adjuncions">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "a">
 <!ENTITY contextMoveMsgMenu.label "Mou a">
