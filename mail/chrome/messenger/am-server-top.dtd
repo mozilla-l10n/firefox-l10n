@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Ainmean goirid (Mar eisimpleir, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Adhartach…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Còdachadh charactairean bunaiteach:">
+<!ENTITY serverDefaultCharset.label "Còdachadh charactaran bunaiteach:">
 <!ENTITY localFolderPicker.label "Tagh an t-eòlaire ionadail">
 <!ENTITY browseFolder.label "Brabhsaich…">
 <!ENTITY browseFolder.accesskey "B">
