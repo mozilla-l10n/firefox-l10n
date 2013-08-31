@@ -8,12 +8,12 @@
 <!ENTITY sync.flyout.setup.title "Настроить &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.setup.description1 "Если у вас есть учётная запись &syncBrand.shortName.label;, выберите на другом вашем устройстве &quot;Соединиться с устройством&quot; и введите этот код.">
 <!ENTITY sync.flyout.setup.description2 "Если у вас нет учётной записи &syncBrand.shortName.label;, вы можете создать её в десктопном браузере &brandShortName;.">
-<!ENTITY sync.flyout.setup.manual.label "Я не рядом с моим компьютером…">
+<!ENTITY sync.flyout.setup.manual.label_2 "Я не рядом с моим компьютером…">
 <!ENTITY sync.flyout.setup.description3 "Примечание:">
-<!ENTITY sync.flyout.setup.description4 "Вы можете выбрать &quot;Соединиться с устройством&quot; через">
-<!ENTITY sync.flyout.setup.description5 "[Десктоп] Настройки -&gt; Синхронизация">
-<!ENTITY sync.flyout.setup.description6 "[Android] Ещё &gt; Параметры &gt; Синхронизация">
-<!ENTITY sync.flyout.manualsetup.description1 "Пожалуйста, введите информацию вашей учётной записи &syncBrand.shortName.label; и Ключ восстановления, сгенерированный вашим компьютером">
+<!ENTITY sync.flyout.setup.description4_2 "Чтобы найти &quot;Соединиться с устройством&quot;,">
+<!ENTITY sync.flyout.setup.description5_2 "[На Десктопе] Откройте меню &quot;Настройки&quot; и выберите панель &quot;&syncBrand.shortName.label;&quot;">
+<!ENTITY sync.flyout.setup.description6_2 "[На Android] Ещё &gt; Параметры &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.manualsetup.description1_2 "Пожалуйста, введите информацию вашей учётной записи &syncBrand.shortName.label; и Ключ восстановления, сгенерированный вашим компьютером">
 <!ENTITY sync.flyout.manualsetup.account.placeholder "Имя учётной записи">
 <!ENTITY sync.flyout.manualsetup.password.placeholder "Пароль">
 <!ENTITY sync.flyout.manualsetup.recoveryKey.placeholder "Ключ восстановления">
@@ -33,9 +33,9 @@
 <!ENTITY sync.flyout.pairNewDevice.description "На вашем новом устройстве, с которым вы хотите связаться, выберите «Настроить &syncBrand.shortName.label;» и введите код, выданный устройством">
 <!ENTITY sync.flyout.pairNewDevice.pair "Связать">
 <!ENTITY sync.flyout.pairNewDevice.note1 "Примечание:">
-<!ENTITY sync.flyout.pairNewDevice.note2 "Вы можете получить доступ к &syncBrand.shortName.label;, чтобы найти код через">
-<!ENTITY sync.flyout.pairNewDevice.note3 "[Десктоп] Инструменты -&gt; Настроить Sync -&gt; У меня есть учётная запись">
-<!ENTITY sync.flyout.pairNewDevice.note4 "[Android] Ещё &gt; Параметры &gt; &syncBrand.shortName.label;">
+<!ENTITY sync.flyout.pairNewDevice.note2_2 "Чтобы найти код,">
+<!ENTITY sync.flyout.pairNewDevice.note3_2 "[На Десктопе] Откройте меню &quot;Настройки&quot; и выполните шаги: &syncBrand.shortName.label; -&gt; Настроить &syncBrand.shortName.label; -&gt; У меня есть учётная запись">
+<!ENTITY sync.flyout.pairNewDevice.note4 "[На Android] Ещё &gt; Параметры &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure "Пожалуйста, попробуйте снова">
 <!ENTITY sync.flyout.pairSuccess.description1 "Новое устройство было успешно добавлено.">
 <!ENTITY sync.flyout.pairSuccess.description2 "Ваши данные &syncBrand.shortName.label; сейчас загружаются в фоновом режиме. Вы можете найти свои удалённые вкладки на Стартовой странице &brandShortName;.">
