@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey          "r">
 <!ENTITY mediaUnmute.label            "Įjungti garsą">
 <!ENTITY mediaUnmute.accesskey        "r">
+<!ENTITY mediaPlaybackRate.label        "Atkūrimo sparta">
+<!ENTITY mediaPlaybackRate.accesskey    "o">
+<!ENTITY mediaPlaybackRate050.label     "Sumažinta (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate100.label     "Normali">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Padidinta (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "P">
+<!ENTITY mediaPlaybackRate200.label     "Dviguba">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label      "Rodyti mygtukus">
 <!ENTITY mediaShowControls.accesskey  "m">
 <!ENTITY mediaHideControls.label      "Nerodyti mygtukų">

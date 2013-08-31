@@ -15,3 +15,10 @@
 
 <!ENTITY  pref.certs.title            "Liudijimai">
 <!ENTITY  certs.label            "Liudijimai">
+
+<!ENTITY validation.ocsp.caption                  "Būsenos paliudijimo tinklu protokolas (OCSP)">
+<!ENTITY enableOCSP.label                         "Tikrinti liudijimų galiojimą OCSP protokolu">
+<!ENTITY enableOCSP.accesskey                     "T">
+<!ENTITY validation.requireOCSP.description       "Nepavykus užmegzti ryšio su OCSP serveriu, laikyti liudijimą negaliojančiu">
+<!ENTITY validation.requireOCSP.accesskey         "N">
+

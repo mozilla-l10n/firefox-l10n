@@ -7,8 +7,10 @@
 <!ENTITY searchHeading.accesskey     "K">
 <!ENTITY searchSubfolders.label      "Ieškoti poaplankiuose">
 <!ENTITY searchSubfolders.accesskey  "e">
-<!ENTITY searchLocalSystem.label     "Ieškoti šiame kompiuteryje">
-<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchOnHeading.label       "Paiešką vykdyti:">
+<!ENTITY searchOnHeading.accesskey   "v">
+<!ENTITY searchOnRemote.label        "Nutolusiame serveryje">
+<!ENTITY searchOnLocal.label         "Šiame kompiuteryje">
 <!ENTITY resetButton.label           "Išvalyti">
 <!ENTITY resetButton.accesskey       "v">
 <!ENTITY openButton.label            "Atverti">

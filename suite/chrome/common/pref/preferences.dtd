@@ -26,7 +26,6 @@
 <!ENTITY masterpass.label            "Pagrindiniai slaptažodžiai">
 <!ENTITY ssl.label                   "SSL">
 <!ENTITY certs.label                 "Liudijimai">
-<!ENTITY validation.label            "Patikra">
 <!ENTITY sync.label                  "Sinchronizavimas">
 <!ENTITY advance.label               "Kitkas">
 <!ENTITY down.label                  "Atsiuntimas">
