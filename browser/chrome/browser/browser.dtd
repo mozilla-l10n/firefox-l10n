@@ -27,6 +27,7 @@
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">
+<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
@@ -299,6 +300,8 @@
 <!ENTITY viewImageCmd.accesskey "i">
 <!ENTITY viewImageInfoCmd.label "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey "f">
+<!ENTITY viewImageDescCmd.label       "Ver descripción">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label "Ver video">
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
@@ -454,6 +457,7 @@
 <!ENTITY identity.connectedTo "Está conectado a">
 <!ENTITY identity.runBy "el cual es corrido por">
 <!ENTITY identity.moreInfoLinkText "Más información…">
+<!ENTITY identity.permissions "Permisos">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
