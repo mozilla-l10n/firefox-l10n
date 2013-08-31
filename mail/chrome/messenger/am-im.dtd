@@ -9,7 +9,7 @@
 <!ENTITY account.name                  "Nom d'usuari:">
 <!ENTITY account.password              "Contrasenya:">
 <!ENTITY account.alias                 "Àlies:">
-<!ENTITY account.newMailNotification   "Notifica el correu nou">
+<!ENTITY account.newMailNotification   "Notifica'm si hi ha correu nou">
 <!ENTITY account.autojoin              "Canals d'unió automàtica:">
 <!ENTITY account.proxySettings.caption "Paràmetres del servidor intermediari:">
 <!ENTITY account.proxySettings.change.label     "Canvia…">

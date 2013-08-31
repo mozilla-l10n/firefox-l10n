@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- for SearchDialog.xul -->
 
-<!ENTITY searchHeading.label         "Cerca elements a:">
-<!ENTITY searchHeading.accesskey     "r">
-<!ENTITY searchSubfolders.label      "Cerca subcarpetes">
-<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY searchHeading.label         "Cerca missatges a:">
+<!ENTITY searchHeading.accesskey     "m">
+<!ENTITY searchSubfolders.label      "Cerca en subcarpetes">
+<!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Executa la cerca al servidor">
 <!ENTITY searchOnServer.accesskey    "s">
 <!ENTITY resetButton.label           "Buida">
@@ -52,7 +52,7 @@
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Llegit">
 <!ENTITY receivedColumn.label "Recepció">
-<!ENTITY starredColumn.label "Destaca">
+<!ENTITY starredColumn.label "Destacat">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
 <!-- Thread Pane Tooltips -->

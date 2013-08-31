@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propietats de la configuració del camp">
+<!ENTITY windowTitle.label "Propietats del conjunt de camps">
 
 <!ENTITY Legend.label "Llegenda">
 <!ENTITY Legend.accesskey "L">
@@ -11,10 +11,10 @@
 <!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Alinea la llegenda:">
 <!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Predeterminat ">
+<!ENTITY AlignDefault.label "Per defecte">
 <!ENTITY AlignLeft.label "Esquerra">
 <!ENTITY AlignCenter.label "Centre">
 <!ENTITY AlignRight.label "Dreta">
 
-<!ENTITY RemoveFieldSet.label "Suprimeix el joc de camps">
+<!ENTITY RemoveFieldSet.label "Suprimeix el conjunt de camps">
 <!ENTITY RemoveFieldSet.accesskey "S">

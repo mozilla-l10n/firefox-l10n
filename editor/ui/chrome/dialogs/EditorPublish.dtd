@@ -36,7 +36,7 @@
 <!ENTITY filename.accesskey           "f">
 <!ENTITY filename.tooltip             "Introduïu un nom per a aquest fitxer, incloent «.html» si es tracta d'una pàgina web">
 <!ENTITY filenameExample.label        "p. ex.,: &quot;lamevapàgina.html&quot;">
-<!ENTITY setDefaultButton.label       "Defineix com a predeterminat">
+<!ENTITY setDefaultButton.label       "Defineix per defecte">
 <!ENTITY setDefaultButton.accesskey   "D">
 <!ENTITY removeButton.label           "Suprimeix el lloc">
 <!ENTITY removeButton.accesskey       "r">

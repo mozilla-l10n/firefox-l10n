@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mode d'edició normal">
 <!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostra les vores de les taules i els noms de les àncores">
+<!ENTITY NormalMode.tooltip "Mostra les vores de les taules i les àncores amb nom">
 <!ENTITY AllTagsModeTab.label "Etiquetes HTML">
 <!ENTITY AllTagsMode.label "Etiquetes HTML">
 <!ENTITY AllTagsMode.accesskey "E">

@@ -104,7 +104,7 @@
 <!ENTITY cookieAllowSessionCookiesMsg.label "Aquest lloc podrà definir galetes només per a la sessió actual.">
 <!ENTITY cookieCookiesDefaultCmd.label "Utilitza els permisos per defecte de les galetes">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "Les galetes d'aquest lloc s'acceptaran o es rebutjaran d'acord amb la configuració per defecte.">
+<!ENTITY cookieCookiesDefaultMsg.label "Les galetes d'aquest lloc s'acceptaran o es rebutjaran d'acord amb els paràmetres per defecte.">
 <!ENTITY cookieBlockCookiesCmd.label "Bloca les galetes d'aquest lloc">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Les galetes d'aquest lloc seran sempre rebutjades">
@@ -117,7 +117,7 @@
 <!ENTITY cookieAllowImagesMsg.label "Les imatges d'aquest lloc sempre es baixaran.">
 <!ENTITY cookieImagesDefaultCmd.label "Utilitza els permisos per defecte de les imatges">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "Les imatges d'aquest lloc es baixaran d'acord amb la configuració per defecte.">
+<!ENTITY cookieImagesDefaultMsg.label "Les imatges d'aquest lloc es baixaran d'acord amb els paràmetres per defecte.">
 <!ENTITY cookieBlockImagesCmd.label "Bloca les imatges d'aquest lloc">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Les imatges d'aquest lloc mai es baixaran.">

@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Us donem la benvinguda, si mai heu fet servir el &syncBrand.fullName.label; abans, caldrà que creeu primer un nou compte.">
+<!ENTITY setup.pickSetupType.description "Us donem la benvinguda, si mai heu fet servir el &syncBrand.fullName.label; abans, caldrà que creeu primer un compte nou.">
 <!ENTITY button.createNewAccount.label "Crea un compte">
 <!ENTITY setup.haveAccount.label "Ja tinc un compte del &syncBrand.fullName.label;">
 <!ENTITY button.connect.label "Connecta">
@@ -65,7 +65,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "No tinc cap dispositiu amb mi">
 <!ENTITY addDevice.setup.description.label  "Per activar-lo, aneu a les opcions del &syncBrand.shortName.label; a l'altre dispositiu i seleccioneu «Afegeix un dispositiu».">
 <!ENTITY addDevice.setup.enterCode.label    "A continuació, introduïu aquest codi:">
-<!ENTITY addDevice.dialog.description.label "Per activar el nou dispositiu, aneu a les opcions del &syncBrand.shortName.label; del dispositiu i seleccioneu «Connecta».">
+<!ENTITY addDevice.dialog.description.label "Per activar el dispositiu nou, aneu a les opcions del &syncBrand.shortName.label; del dispositiu i seleccioneu «Connecta».">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduïu el codi que proporciona el dispositiu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Torneu-ho a provar.">
 <!ENTITY addDevice.dialog.successful.label  "S'ha afegit el dispositiu amb èxit. La sincronització inicial pot portar uns quants minuts i finalitzarà en segon pla.">

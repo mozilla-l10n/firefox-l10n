@@ -7,7 +7,7 @@
 
 <!ENTITY pref.cache.title                "Memòria cau">
 <!ENTITY pref.cache.caption              "Defineix les opcions de la memòria cau">
-<!ENTITY cachePara                       "La memòria cau conserva còpies al disc dur de les pàgines web que es visiten sovint; això redueix el temps de connexió a Internet. (Feu clic a Actualitza per obtenir sempre la darrera versió de la pàgina.)">
+<!ENTITY cachePara                       "La memòria cau conserva còpies al disc dur de les pàgines web que es visiten més sovint. (Feu clic a Actualitza per obtenir sempre la darrera versió de la pàgina.)">
 <!ENTITY cacheCheck.label                "Permet al &brandShortName; gestionar la mida de la meva memòria cau.">
 <!ENTITY cacheCheck.accesskey            "P">
 <!ENTITY diskCacheUpTo.label             "Utilitza fins a">

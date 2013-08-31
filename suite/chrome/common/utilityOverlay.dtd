@@ -103,7 +103,7 @@
 <!ENTITY releaseCmd.accesskey               "v">
 <!ENTITY helpSafeMode.label                 "Reinicia amb els complements inhabilitats">
 <!ENTITY helpSafeMode.accesskey             "R">
-<!ENTITY updateCmd.label                    "Comprova si hi ha actualitzacions…">
+<!ENTITY updateCmd.label                    "Cerca actualitzacions…">
 <!ENTITY updateCmd.accesskey                "C">
 <!ENTITY aboutCmd.label     "Quant al &brandShortName;">
 <!ENTITY aboutCmd.accesskey    "a">

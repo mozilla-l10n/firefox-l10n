@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "Desa i canvia el joc de caràcters">
+<!ENTITY windowTitle.label "Desa i canvia la codificació de caràcters">
 <!ENTITY documentTitleTitle.label "Títol de la pàgina">
-<!ENTITY documentCharsetTitle.label "Joc de caràcters">
-<!ENTITY documentCharsetDesc.label "Seleccioneu el joc de caràcters amb què voleu desar un document:">
+<!ENTITY documentCharsetTitle.label "Codificació de caràcters">
+<!ENTITY documentCharsetDesc.label "Seleccioneu la codificació de caràcters amb què voleu desar un document:">
 <!ENTITY documentExportToText.label "Exporta a text">
 

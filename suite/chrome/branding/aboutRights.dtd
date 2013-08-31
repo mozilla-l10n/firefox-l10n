@@ -25,7 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "Les normes de privadesa dels productes &vendorShortName; les podeu trobar ">
+<!ENTITY rights.intro-point3a "Podeu trobar les polítiques de privadesa dels productes &vendorShortName; ">
 <!ENTITY rights.intro-point3b "aquí">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 4 text for official branded builds -->
@@ -45,7 +45,7 @@
 <!ENTITY rights.webservices-b "Avançat">
 <!ENTITY rights.webservices-c ", a continuació a la pestanya ">
 <!ENTITY rights.webservices-d "Actualització">
-<!ENTITY rights.webservices-e ", cal desmarcar les caselles de &quot;Comprova automàticament s&apos;hi ha actualitzacions de&quot;.">
+<!ENTITY rights.webservices-e ", cal desmarcar les caselles de &quot;Cerca actualitzacions automàticament de&quot;.">
 <!-- points 1-6 text for branded builds -->
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; pot discontinuar o canviar els Serveis en qualsevol moment.">

@@ -48,7 +48,7 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY portNum.label "Port:">
 <!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Predeterminat:">
+<!ENTITY defaultPortLabel.label "Per defecte:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Introduïu el nom del servidor d'entrada (per exemple, «mail.exemple.net»).">
@@ -79,7 +79,7 @@
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-<!ENTITY modifyOutgoing.suffix "Podeu canviar el servidor de sortida anant a les opcions del Correu i dels grups de discussió.">
+<!ENTITY modifyOutgoing.suffix "Podeu canviar els paràmetres del servidor de sortida des dels Paràmetres del compte.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.

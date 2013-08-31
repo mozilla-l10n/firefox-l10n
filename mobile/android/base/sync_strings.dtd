@@ -14,7 +14,7 @@
 <!ENTITY sync.title.pair.label "Vincula un dispositiu">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Per activar un nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» a l\u0027altre dispositiu">
+<!ENTITY sync.subtitle.connect.label "Per activar un dispositiu nou, seleccioneu «Configura el &syncBrand.shortName.label;» a l\u0027altre dispositiu">
 <!ENTITY sync.subtitle.header2.label "Introduïu aquest codi a l\u0027altre dispositiu">
 <!ENTITY sync.subtitle.connectlocation2.label "Seleccioneu «&sync.title.pair.label;» a la secció &syncBrand.shortName.label; de les opcions del Firefox de l\u0027altre dispositiu.">
 <!ENTITY sync.subtitle.pair.label "Per activar-lo, seleccioneu «Vincula un dispositiu»a l\u0027altre dispositiu. ">
@@ -46,20 +46,20 @@
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "S\u0027ha finalitzat la configuració">
-<!ENTITY sync.subtitle.success.label1 "Les vostres dades s\u0027estan baixant en segon pla. Podeu anar a les Opcions per gestionar el vostre compte, o començar a navegar amb el &brandShortName;.">
-<!ENTITY sync.settings.label "Opcions">
-<!ENTITY sync.subtitle.manage.label1 "El vostre compte &syncBrand.fullName.label; ja està configurat. Podeu anar a les opcions per gestionar el vostre compte, o iniciar el &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Les vostres dades s\u0027estan baixant en segon pla. Podeu anar als Paràmetres per gestionar el vostre compte o començar a navegar amb el &brandShortName;.">
+<!ENTITY sync.settings.label "Paràmetres">
+<!ENTITY sync.subtitle.manage.label1 "El vostre compte &syncBrand.fullName.label; ja està configurat. Podeu anar al Paràmetres per gestionar el vostre compte, o iniciar el &brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Torna-ho a provar.">
-<!ENTITY sync.pair.connectlocation.label "Per activar el nou dispositiu, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu, i després seleccioneu «Tinc un compte».">
+<!ENTITY sync.pair.connectlocation.label "Per activar el dispositiu nou, seleccioneu «Configura el &syncBrand.shortName.label;» al dispositiu, i després seleccioneu «Tinc un compte».">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opcions">
 <!ENTITY sync.summary.pair.label "Vinculeu un altre dispositiu al vostre compte de &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "Què sincronitzar">
+<!ENTITY sync.configure.engines.title.label "Què cal sincronitzar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronitza…">
 <!ENTITY sync.configure.engines.title.bookmarks "Adreces d\u0027interès">
 <!ENTITY sync.configure.engines.title.passwords "Contrasenyes">
@@ -91,7 +91,7 @@
 <!ENTITY sync.notification.configure.saved "Les vostres seleccions s\u0027han desat.">
 <!-- Incorrect settings and changing credentials. -->
 
-<!ENTITY sync.invalidcreds.label "El nom del compte o de la contrasenya són incorrectes.">
+<!ENTITY sync.invalidcreds.label "El nom del compte o la contrasenya són incorrectes.">
 <!ENTITY sync.invalidserver.label "Introduïu un URL de servidor vàlid">
 <!ENTITY sync.verifying.label "S\u0027està verificant…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Clau de recuperació incorrecta. Torneu-ho a provar.">
