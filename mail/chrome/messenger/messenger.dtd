@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "n">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Atsiųsti">
+<!ENTITY getMsgButton1.label "Atsiųsti laiškus">
 <!ENTITY newMsgButton.label "Rašyti">
 <!ENTITY replyButton.label "Atsakyti">
 <!ENTITY replyAllButton.label "Ats. visiems">
