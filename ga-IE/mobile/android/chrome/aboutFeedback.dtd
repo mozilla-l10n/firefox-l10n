@@ -12,14 +12,14 @@
 <!ENTITY intro.message "Nocht do thuairim faoi &brandShortName; ar Android go dtí seo.">
 <!ENTITY intro.happyLink "Taitníonn sé liom">
 <!ENTITY intro.sadLink "Bhí fadhbanna agam">
-<!ENTITY intro.maybeLater "Maybe later">
+<!ENTITY intro.maybeLater "B'fhéidir ar ball">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2 "You can also visit ">
+<!ENTITY support.pre2 "Nó is féidir cuairt a thabhairt ar ">
 <!ENTITY support.link "Tacaíocht &brandShortName;">
-<!ENTITY support.post2 " for more information.">
+<!ENTITY support.post2 " chun tuilleadh eolais a fháil.">
 
 <!ENTITY happy.header "Cuireann sé sin gliondar ar ár gcroí!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,8 +31,8 @@
 
 <!ENTITY happy.finePrint "Beidh níos lú ná nóiméad amháin i gceist, agus cuirfidh sé gliondar ar do chroí.">
 
-<!ENTITY happy.ratingLink "Tá, déan cuairt ar Google Play">
-<!ENTITY happy.maybeLater2 "Maybe later">
+<!ENTITY happy.ratingLink "Tá, tabhair cuairt ar Google Play">
+<!ENTITY happy.maybeLater2 "Ar ball">
 <!ENTITY happy.noThanks "Níl">
 
 <!ENTITY sad.message "Tá brón orainn go raibh fadhb agat le &brandShortName;. Abair linn cad é a bhí briste agus deiseoimid é más féidir.">
