@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Feilkode:">
 <!ENTITY calendar.error.description "Skildring:">
 <!ENTITY calendar.error.title "Det oppstod ein feil">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Legg til som hending">
+<!ENTITY calendar.extract.task.button          "Legg til som oppgåve">
+<!ENTITY calendar.extract.event.button.tooltip "Hent ut kalendarinfo frå meldinga og legg til i kalenderen din som ei hending">
+<!ENTITY calendar.extract.task.button.tooltip  "Hent ut kalenderinfo frå meldinga og legg til i kalenderen din som ei oppgåve">
