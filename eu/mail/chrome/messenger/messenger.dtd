@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "z">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Hartu posta">
+<!ENTITY getMsgButton1.label "Eskuratu mezuak">
 <!ENTITY newMsgButton.label "Idatzi">
 <!ENTITY replyButton.label "Erantzun">
 <!ENTITY replyAllButton.label "Erantzun denei">
