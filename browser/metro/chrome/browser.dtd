@@ -1,0 +1,109 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- NAVBAR AND AUTOCOMPLETE -->
+
+<!ENTITY urlbar.emptytext      "Įveskite adresą arba paieškos žodžius">
+
+<!ENTITY back.label            "Atgal">
+<!ENTITY forward.label         "Pirmyn">
+<!ENTITY newtab.label          "Nauja kortelė">
+<!ENTITY closetab.label        "Užverti kortelę">
+
+<!ENTITY autocompleteResultsHeader.label  "Rezultatai">
+
+<!ENTITY appbarErrorConsole.label   "Atverti klaidų pultą">
+<!ENTITY appbarJSShell.label        "Atverti „JavaScript“ apvalkalą">
+<!ENTITY appbarFindInPage2.label    "Ieškoti tinklalapyje">
+<!ENTITY appbarViewOnDesktop2.label "Parodyti darbalaukyje">
+
+<!ENTITY topSitesHeader.label        "Lankomiausios svetainės">
+<!ENTITY bookmarksHeader.label       "Adresynas">
+<!ENTITY recentHistoryHeader.label   "Paskiausiai lankyta">
+<!ENTITY remoteTabsHeader.label      "Kortelės kituose įrenginiuose">
+
+<!-- LOCALIZATION NOTE (narrowTopSitesHeader.label,
+                        narrowBookmarksHeader.label,
+                        narrowHistoryHeader.label,
+                        narrowRemoteTabsHeader.label )
+     are shortened versions of topSitesHeader.label, bookmarksHeader.label, recentHistoryHeader.label
+     and remoteTabsHeader.label. Need to be two words or shorter to fit in narrow vertical space.
+      -->
+<!ENTITY narrowTopSitesHeader.label      "Lankomiausios">
+<!ENTITY narrowBookmarksHeader.label     "Adresynas">
+<!ENTITY narrowRecentHistoryHeader.label "Paskiausios">
+<!ENTITY narrowRemoteTabsHeader.label    "Kortelės kitur">
+
+<!ENTITY downloadsHeader.label     "Atsiuntimai">
+<!ENTITY downloadShowPage.label    "Eiti į tinklalapį">
+<!ENTITY downloadShow2.label       "Ieškoti">
+<!ENTITY downloadOpen2.label       "Atverti">
+<!ENTITY downloadCancel.label      "Atsisakyti">
+<!ENTITY downloadPause.label       "Pristabdyti">
+<!ENTITY downloadResume.label      "Tęsti">
+<!ENTITY downloadRetry.label       "Iš naujo">
+<!ENTITY downloadRemove.label      "Pašalinti iš sąrašo">
+<!ENTITY downloadDelete.label      "Pašalinti">
+<!ENTITY downloadFailed.label      "Nepavyko">
+
+<!ENTITY allBookmarks.label        "Rodyti visą adresyną">
+
+<!ENTITY consoleHeader.label       "Klaidų pultas">
+<!ENTITY consoleAll.label          "Viskas">
+<!ENTITY consoleErrors.label       "Klaidos">
+<!ENTITY consoleWarnings.label     "Įspėjimai">
+<!ENTITY consoleMessages.label     "Pranešimai">
+<!ENTITY consoleCodeEval.label     "Kodas:">
+<!ENTITY consoleClear.label        "Valyti">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Pirminio teksto failas:">
+<!ENTITY consoleErrLine.label      "Eilutė:">
+<!ENTITY consoleErrColumn.label    "Stulpelis:">
+
+<!--  TEXT CONTEXT MENU -->
+<!ENTITY contextTextCut.label              "Iškirpti">
+<!ENTITY contextTextCopy.label             "Kopijuoti">
+<!ENTITY contextTextPaste.label            "Įdėti">
+<!-- unique item that is only added to the url bar context menu -->
+<!ENTITY contextTextPasteAndGo.label       "Įdėti ir atverti">
+<!ENTITY contextTextSelect.label           "Pažymėti">
+<!ENTITY contextTextSelectAll.label        "Pažymėti viską">
+
+<!-- LINK CONTEXT MENU -->
+<!ENTITY contextOpenLinkTab.label          "Atverti saitą naujoje kortelėje">
+<!ENTITY contextCopyLinkHref.label         "Kopijuoti saito adresą">
+<!ENTITY contextBookmarkLinkHref.label     "Įtraukti saitą į adresyną">
+
+<!-- IMAGE CONTEXT MENU -->
+<!-- LOCALIZATION NOTE (contextSaveImageLib.label): saves an image to the users "pictures library"
+     (Explorer -> left hand side navigation pane -> Libraries -> Pictures) -->
+<!ENTITY contextSaveImageLib.label         "Įrašyti į paveikslėlių biblioteką">
+<!ENTITY contextCopyImage.label            "Kopijuoti paveikslą">
+<!ENTITY contextCopyImageLocation.label    "Kopijuoti paveikslo adresą">
+<!ENTITY contextOpenImageTab.label         "Atverti paveikslą naujoje kortelėje">
+
+<!-- VIDEO CONTEXT MENU -->
+<!ENTITY contextSaveVideoLib.label         "Įrašyti į vaizdo įrašų biblioteką">
+<!ENTITY contextCopyVideoLocation.label    "Kopijuoti vaizdo adresą">
+<!ENTITY contextOpenVideoTab.label         "Atverti vaizdą naujoje kortelėje">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

@@ -379,13 +379,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Atverti saistomą objektą naujoje kortelėje">
+<!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
-<!ENTITY openLinkCmd.label            "Atverti saistomą objektą naujame lange">
+<!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
 <!ENTITY openLinkCmd.accesskey        "l">
-<!ENTITY openLinkInPrivateWindowCmd.label "Atverti saistomą objektą naujame privačiojo naršymo lange">
+<!ENTITY openLinkInPrivateWindowCmd.label "Atverti saitą naujame privačiojo naršymo lange">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Atverti saistomą objektą">
+<!ENTITY openLinkCmdInCurrent.label     "Atverti saitą">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
 <!ENTITY openFrameCmd.accesskey       "l">
@@ -421,11 +421,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "f">
 <!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey    "d">
-<!ENTITY bookmarkPageCmd2.label           "Tinklalapį įrašyti į adresyną">
+<!ENTITY bookmarkPageCmd2.label           "Įtraukti tinklalapį į adresyną">
 <!ENTITY bookmarkPageCmd2.accesskey       "r">
-<!ENTITY bookmarkThisLinkCmd.label        "Saitą įrašyti į adresyną">
+<!ENTITY bookmarkThisLinkCmd.label        "Įtraukti saitą į adresyną">
 <!ENTITY bookmarkThisLinkCmd.accesskey    "d">
-<!ENTITY bookmarkThisFrameCmd.label       "Kadrą įrašyti į adresyną">
+<!ENTITY bookmarkThisFrameCmd.label       "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey   "d">
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
