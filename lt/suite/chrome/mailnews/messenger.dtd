@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Visi">
 <!ENTITY all.accesskey "i">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "„&brandShortName;“ laiko, kad šis laiškas yra brukalas">
-<!ENTITY junkBarButton.label "Tai nėra brukalas">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Jūsų privatumo saugumui „&brandShortName;“ užblokavo šio laiško elementus iš tinklo.">
-<!ENTITY loadRemoteContentButton.label "Įkelti elementus iš tinklo">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "„&brandShortName;“ laiko, kad šiame laiške slypi apgaulė.">
-<!ENTITY removePhishingBarButton.label "Nėra apgaulės">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Nepaisyti prašymo">
-<!ENTITY mdnBarIgnoreButton.accesskey "N">
-<!ENTITY mdnBarSendButton.label "Išsiųsti pažymą">
-<!ENTITY mdnBarSendButton.accesskey "s">
