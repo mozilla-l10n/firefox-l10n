@@ -283,6 +283,9 @@ size. -->
      The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. Please keep the spacing around the "&#37;I" string. -->
 <!ENTITY home_reading_list_hint "秘訣: 長點標題列中的 &#37;I 圖示，將文件儲存到您的閱讀清單。">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "秘訣: 當標題列顯示閱讀模式按鈕時，長按該按鈕以將文章儲存至您的閱讀清單。">
 
 <!ENTITY home_most_visited_empty "您最常開啟的網站將會顯示於此">
 <!ENTITY pin_bookmark_dialog_hint "輸入搜尋關鍵字">
