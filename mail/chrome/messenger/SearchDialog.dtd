@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey  "S">
 <!ENTITY composeButton.label         "Rašyti laišką">
 <!ENTITY composeButton.accesskey     "l">
+<!ENTITY deleteCardButton.label      "Pašalinti">
+<!ENTITY deleteCardButton.accesskey  "š">
 <!ENTITY abSearchDialogTitle.label   "Paieška adresų knygoje">
 
 <!-- Thread Pane -->
