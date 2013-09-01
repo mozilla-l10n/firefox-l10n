@@ -5,10 +5,13 @@
 <!ENTITY no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
 
-<!ENTITY awesomebar_all_pages_title "Dažniausios svetainės">
-<!ENTITY awesomebar_bookmarks_title "Adresynas">
-<!ENTITY awesomebar_history_title "Žurnalas">
-<!ENTITY awesomebar_switch_to_tab "Pereiti į kortelę">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY bookmarks_title "Adresynas">
+<!ENTITY history_title "Žurnalas">
+<!ENTITY reading_list_title "Skaitinių sąrašas">
+
+<!ENTITY switch_to_tab "Pereiti į kortelę">
 
 <!ENTITY crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
 <!ENTITY crash_message2 "Programa „&brandShortName;“ susidūrė su problema ir užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
@@ -29,10 +32,7 @@
 
 <!ENTITY choose_file "Parinkite failą">
 
-<!ENTITY awesomebar_default_text "Įveskite ieškomą frazę arba adresą">
-
-<!ENTITY remote_tabs "Sinchronizuotos kortelės">
-<!ENTITY remote_tabs_show_all "Rodyti visas korteles">
+<!ENTITY url_bar_default_text "Įveskite adresą arba paieškos žodžius">
 
 <!ENTITY bookmark "Adresyne">
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
@@ -71,6 +71,11 @@
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
 <!ENTITY pref_category_installed_search_engines "Įdiegtos ieškyklės">
+<!ENTITY pref_category_add_search_providers "Pridėti daugiau ieškyklių">
+<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.-->
+<!ENTITY pref_search_tip "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, ilgiau palaikę nuspaustą jos paieškos lauką.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
 <!ENTITY pref_developer_remotedebugging_docs "Sužinoti daugiau">
@@ -106,8 +111,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Teksto pločio prisitaikymas">
 <!ENTITY pref_restore "Kortelės">
 <!ENTITY pref_restore_always "Visuomet atkurti">
-<!ENTITY pref_restore_crash "Atkurti po strigčių">
-<!ENTITY pref_restore_never "Niekada neatkurti">
+<!ENTITY pref_restore_quit "Neatkurti po „&brandShortName;“ darbo pabaigos">
 <!ENTITY pref_font_size_tiny "Ypač maži">
 <!ENTITY pref_font_size_small "Maži">
 <!ENTITY pref_font_size_medium "Vidutiniai">
@@ -142,6 +146,10 @@ size. -->
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
 <!ENTITY pref_vendor_feedback "Palikti atsiliepimą">
+<!ENTITY pref_search_set_default "Skirti numatytąja">
+<!ENTITY pref_search_default "Numatytoji">
+<!ENTITY pref_search_remove "Pašalinti">
+<!ENTITY pref_search_last_toast "Pašalinti arba išjungti paskutinės ieškyklės neleidžiama.">
 
 <!ENTITY datareporting_notification_title "„&brandShortName;“ statistika ir duomenys">
 <!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
@@ -206,8 +214,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
 <!ENTITY contextmenu_open_in_reader "Atverti skaityklėje">
-<!ENTITY contextmenu_remove_history "Pašalinti">
-<!ENTITY contextmenu_remove_bookmark "Pašalinti">
+<!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_share "Dalintis">
 <!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
@@ -216,6 +223,9 @@ size. -->
 <!ENTITY contextmenu_edit_bookmark "Taisyti">
 <!ENTITY contextmenu_subscribe "Prenumeruoti tinklalapį">
 <!ENTITY contextmenu_site_settings "Keisti svetainės nuostatas">
+<!ENTITY contextmenu_top_bookmarks_edit "Taisyti">
+<!ENTITY contextmenu_top_bookmarks_pin "Įsegti svetainę">
+<!ENTITY contextmenu_top_bookmarks_unpin "Išsegti svetainę">
 
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
@@ -223,6 +233,7 @@ size. -->
 
 <!ENTITY history_removed "Tinklalapis pašalintas">
 
+<!ENTITY bookmark_add "Įtraukti į adresyną">
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
 <!ENTITY bookmark_edit_name "Pavadinimas">
 <!ENTITY bookmark_edit_location "Vieta">
@@ -235,7 +246,6 @@ size. -->
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
 
-<!ENTITY reading_list "Skaitinių sąrašas">
 <!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!ENTITY reading_list_failed "Tinklalapio nepavyko įtraukti į skaitinių sąrašą">
@@ -258,29 +268,25 @@ size. -->
 <!ENTITY button_set "Nurodyti">
 <!ENTITY button_clear "Valyti">
 
-<!ENTITY abouthome_addons_title "Priedai „&brandShortName;“ naršyklei">
-<!ENTITY abouthome_addons_browse "Naršyti visus „&brandShortName;“ priedus">
-<!ENTITY abouthome_last_tabs_title "Kortelės iš pastarojo seanso">
-<!ENTITY abouthome_last_tabs_open "Visos atvertos kortelės iš pastarojo seanso">
-<!ENTITY abouthome_top_sites_title "Dažniausiai lankomos">
-<!ENTITY abouthome_topsites_edit "Keisti">
-<!ENTITY abouthome_topsites_pin "Įsegti svetainę">
-<!ENTITY abouthome_topsites_unpin "Išsegti svetainę">
+<!ENTITY home_history_title "Žurnalas">
+<!ENTITY home_last_tabs_title "Kortelės iš pastarojo seanso">
+<!ENTITY home_last_tabs_open "Atverti visas pastarojo seanso korteles">
+<!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
+<!ENTITY home_most_recent_title "Paskiausios">
+<!ENTITY home_most_recent_empty "Čia išvardijamos Jūsų paskiausiai lankytos svetainės.">
+<!ENTITY home_most_visited_title "Lankomiausios">
+<!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+<!ENTITY home_reading_list_hint "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą &#37;I piktogramą, pasirodančią antraštės juostoje.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Patarimas: straipsnį į skaitinių sąrašą galite įtraukti, palaikydami nuspaustą skaityklės veiksenos piktogramą, pasirodančią antraštės juostoje.">
 
-<!-- Localization note (abouthome_about_sync3, abouthome_about_apps3): The
-     chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
-     clicking this text in the promotions box will perform some action. Note
-     that a non-breaking space (unicode= U+00A0) should be used between this
-     character and the remainder of the string to prevent word wrap. -->
-<!ENTITY abouthome_about_sync3 "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių&#x00A0;»">
-<!ENTITY abouthome_about_apps3 "Įsigykite programų iš „Firefox“ krautuvės ir atraskite geriausia, ką Jums gali pasiūlyti saitynas&#x00A0;»">
-<!-- Localization note (abouthome_sync_bold_name, abouthome_apps_bold_name2):
-     These strings are accentuated as bold text in the "abouthome_about_..."
-     strings above. These strings should be a subset of the strings above and
-     generally be the name of the product the string describes. -->
-<!ENTITY abouthome_sync_bold_name "„Firefox Sync“">
-<!ENTITY abouthome_apps_bold_name2 "„Firefox“ krautuvės">
-
+<!ENTITY home_most_visited_empty "Čia išvardijamos Jūsų dažniausiai lankomos svetainės.">
+<!ENTITY pin_bookmark_dialog_hint "Įveskite paieškos žodį">
 
 <!ENTITY filepicker_title "Parinkite failą">
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
@@ -326,6 +332,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestions_prompt2): The placeholder (&formatS;) will be
      replaced with the name of the search engine. -->
 <!ENTITY suggestions_prompt2 "Ar norite įgalinti „&formatS;“ paieškos siūlymus?">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Ieškoti „&formatS1;“: &formatS2;">
 
 <!ENTITY webapp_generic_name "Programa">
 
