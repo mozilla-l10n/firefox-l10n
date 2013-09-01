@@ -248,7 +248,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "R"> 
 <!ENTITY selectAllCmd.label         "Wëbierzë wszëtkò">  
-<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.key         "W">  
 <!ENTITY selectAllCmd.accesskey       "w"> 
 <!ENTITY preferencesCmd2.label       "Òptacje">
 <!ENTITY preferencesCmd2.accesskey     "Ò">
