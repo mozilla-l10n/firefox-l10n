@@ -43,8 +43,8 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label2,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label2    "Slå Javascript fra">
-<!ENTITY options.disableJavaScript.tooltip   "Denne indstilling slår Javascript fra i det aktuelle faneblad. Indstillingen vil blive glemt, hvis fanebladet eller Værktøj lukkes.">
+<!ENTITY options.disableJavaScript.label2    "Slå JavaScript fra">
+<!ENTITY options.disableJavaScript.tooltip   "Denne indstilling slår JavaScript fra i det aktuelle faneblad. Indstillingen vil blive glemt, hvis fanebladet eller Værktøj lukkes.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
