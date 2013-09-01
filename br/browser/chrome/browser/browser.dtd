@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Serriñ an ivinelloù a-gleiz">
+<!ENTITY  closeTabsToTheEnd.label            "Serriñ an ivinelloù war an tu dehou">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Serriñ an ivinelloù all">
 <!ENTITY  closeOtherTabs.accesskey           "S">

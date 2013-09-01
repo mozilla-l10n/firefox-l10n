@@ -166,12 +166,12 @@
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.label "Unan d'an nebeutañ">
+<!ENTITY quickFilterBar.booleanModeAny.label "Unan da nebeutañ">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
 
-<!ENTITY quickFilterBar.booleanModeAny.tooltip "Unan d'an nebeutañ eus ar merkoù bet diuzet a rank kenglotañ">
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Unan da nebeutañ eus ar c'hlavioù bet diuzet a zlefe kenglotañ">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
