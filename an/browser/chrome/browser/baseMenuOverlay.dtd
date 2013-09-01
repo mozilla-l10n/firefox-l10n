@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "Aduya d'o &brandShortName;">
 <!ENTITY productHelp.accesskey    "A">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Alcorces de teclau">
+<!ENTITY helpKeyboardShortcuts.accesskey "t">
+
 <!ENTITY helpSafeMode.label       "Reiniciar con os complementos desactivaus…">
 <!ENTITY helpSafeMode.accesskey   "R">
 

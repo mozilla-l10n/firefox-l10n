@@ -21,3 +21,14 @@
 <!ENTITY restorepage.listHeader     "Finestras y pestanyas">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+<!ENTITY welcomeback.tabtitle       "Bienveniu de nuevas!">
+<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
+     expressing joy that the user has successfully migrated their stuff and hope
+     that now they have a better experience.  -->
+
+<!ENTITY welcomeback.pageTitle      "Bienveniu de nuevas!">
+<!ENTITY welcomeback.pageInfo       "&brandShortName; ha reiniciau o suyo perfil con exito. Contino s'amuestra una lista con as finestras y pestanyas que yeran ubiertas; puet restaurar-las u iniciar una sesión nueva de raso.">

@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Conta-nos o que piensas dica agora sobre &brandShortName; ta Android.">
 <!ENTITY intro.happyLink           "M'encanta">
 <!ENTITY intro.sadLink             "He trobau bells problemas">
+<!ENTITY intro.maybeLater          "Talment dimpués">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre               "Si te cal aduya u tiens un problema con &brandShortName;, visita ">
+<!ENTITY support.pre2              "Tamién puet visitar ">
 <!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post              ".">
+<!ENTITY support.post2             " ta saber-ne mas.">
 
 <!ENTITY happy.header              "Qué bien!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Será menos d'un minuto, y se siente uno chenial.">
 
 <!ENTITY happy.ratingLink          "Sí, imo-nos-ne ta Google Play">
-<!ENTITY happy.maybeLater          "Talment dimpués">
+<!ENTITY happy.maybeLater2         "Talment dimpués">
 <!ENTITY happy.noThanks            "No, gracias">
 
 <!ENTITY sad.message               "Nos fa duelo que haiga teniu bells problemas con o &brandShortName;. Diga-nos qué escayeixió ta que podamos apanyar-lo.">

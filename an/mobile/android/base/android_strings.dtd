@@ -3,24 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Se ye configurando o suyo &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Se son esviellando as adrezas d'interés y l'historial; podría tardar un ratet.">
-
 <!ENTITY  no_space_to_start_error "No i hai prou espacio disponible ta que &brandShortName; se inicie.">
 <!ENTITY  error_loading_file "S'ha produciu una error en mirar de cargar fichers necesarios ta executar &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Habituals">
 <!ENTITY  awesomebar_bookmarks_title "Marcapachinas">
 <!ENTITY  awesomebar_history_title "Historial">
-<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
+<!ENTITY  awesomebar_switch_to_tab "Cambiar ta la pestanya">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "Informe de fallas d'o &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; ha trobau un problema y se ye blocau. As suyas pestanyas habrán de listar-se en a pachina d'inicio de &brandShortName; malas que reinicie.">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; o problema ta que pueda correchir-lo">
+<!ENTITY  crash_include_url2 "Incluir l'adreza d'a pachina web an que i yera">
 <!ENTITY  crash_sorry "We\'re sorry">
 <!ENTITY  crash_comment "Adhibir un comentario (os comentarios son visibles publicament)">
-<!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
+<!ENTITY  crash_allow_contact2 "Permitir que &vendorShortName; se meta en contacto con yo en referencia a iste problema">
 <!ENTITY  crash_email "O tuyo correu electronico">
 <!ENTITY  crash_closing_alert "Zarrar sin ninviar garra informe de falla?">
 <!ENTITY  sending_crash_report "Se ye ninviando un reporte de fallada\u2026">
@@ -42,7 +39,7 @@
 <!ENTITY bookmark_added "S'ha adhibiu o marcapachinas">
 <!ENTITY bookmark_removed "S'ha suprimiu o marcapachinas">
 <!ENTITY bookmark_updated "S'ha esviellau o marcapachinas">
-<!ENTITY bookmark_options "Options">
+<!ENTITY bookmark_options "Opcions">
 
 <!ENTITY history_today_section "Hue">
 <!ENTITY history_yesterday_section "Ahiere">
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
-<!ENTITY pref_category_general "Cheneral">
-<!ENTITY pref_category_privacy "Privacidat y seguranza">
-<!ENTITY pref_category_content "Conteniu">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_about_firefox "Quanto a &brandShortName;">
+<!ENTITY pref_category_advanced "Abanzau">
+<!ENTITY pref_category_customize "Personalización">
+<!ENTITY pref_category_search2 "Parametros de busca">
+<!ENTITY pref_category_display "Amostrar">
+<!ENTITY pref_category_privacy_short "Privacidat">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Elección de datos">
+<!ENTITY pref_category_installed_search_engines "Motors de busca instalaus">
+<!ENTITY pref_category_devtools "Ferramientas ta desembolicadors">
+<!ENTITY pref_developer_remotedebugging "Debug remoto">
+<!ENTITY pref_developer_remotedebugging_docs "Aprender-ne mas">
 <!ENTITY pref_remember_signons "Recordar as claus">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_general "Cheneral">
-<!ENTITY pref_header_privacy "Privacidat y seguranza">
-<!ENTITY pref_header_content "Conteniu">
+<!ENTITY pref_header_customize "Personalización">
+<!ENTITY pref_header_display "Visualización">
+<!ENTITY pref_header_privacy_short "Privacidat">
+<!ENTITY pref_header_help "Aduya">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Ferramientas ta desembolicadors">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activau">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Toque-lo ta enchegar">
 <!ENTITY pref_plugins_disabled "Desactivaus">
 <!ENTITY pref_text_size "Mida d'a letra">
-<!ENTITY pref_reflow_on_zoom3 "Double tap to reflow text">
+<!ENTITY pref_reflow_on_zoom4 "Adaptación d'o terxto">
+<!ENTITY pref_restore "Pestanyas">
+<!ENTITY pref_restore_always "Restaurar siempre">
+<!ENTITY pref_restore_crash "Restaurar dimpués d'una fallita">
+<!ENTITY pref_restore_never "Nunca no restaurar">
 <!ENTITY pref_font_size_tiny "Muit chicota">
 <!ENTITY pref_font_size_small "Chicota">
 <!ENTITY pref_font_size_medium "Meyana">
@@ -133,12 +140,17 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Preferencias d'o puesto">
 <!ENTITY pref_private_data_downloadFiles "Fichers descargaus">
 
+
+<!ENTITY pref_about_firefox "Quanto a &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_feedback "Ninviar comentarios">
+
 <!ENTITY datareporting_notification_title "Estatisticas y datos de &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
+<!ENTITY datareporting_notification_action_long "Trigue qué información quiere compartir">
 <!ENTITY datareporting_notification_action "Trigar qué compartir">
 <!ENTITY datareporting_notification_summary "Ta amillorar a suya experiencia, &brandShortName; ninvia automaticament quanta información arredol de &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Ta amillorar a suya experiencia, &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -147,16 +159,16 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Informe de salut de &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
+<!ENTITY datareporting_fhr_summary2 "Ninviar a &vendorShortName; información quanto a o estau d'o navegador ta comprender millor as suyas caracteristicas">
+<!ENTITY datareporting_abouthr_title "Amostrar l'informe d'estau">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_summary "Ninviar a &vendorShortName; qualques datos quanto a o rendimiento, uso, hardware y personalización d'o navegador ta aduyar a amillorar &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "Ninviar a &brandShortName; informes de fallas ta aduyar a &vendorShortName; a fer o navegador mas estable y seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title "&vendorShortName; location services">
-<!ENTITY datareporting_wifi_summary "Help improve geolocation services for the Open Web by letting &brandShortName; collect and send anonymous cellular tower data">
+<!ENTITY datareporting_crashreporter_title_short "Informe de fallas">
+<!ENTITY datareporting_wifi_title "Servicios de localización de &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Aduyar a amillorar o servicio de geolocalización d'a Open Web permitindo a &brandShortName; recullir datos anonimos d'as antenas de telefono">
 
 <!ENTITY pref_update_autodownload "Actualizacions automaticas">
 <!ENTITY pref_update_autodownload_wifi "Nomás baixo Wi-Fi">
@@ -166,7 +178,7 @@ size. -->
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
-<!ENTITY downloads "Baixadas">
+<!ENTITY downloads "Descargas">
 <!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificación d'os caracters">
 
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Pestanyas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
-<!ENTITY wallpaper_success "Fondo de pantalla esviellau">
-<!ENTITY wallpaper_progress "Configuración d'o fondo de pantalla">
-<!ENTITY wallpaper_fail "No s'ha puesto establir o fondo de pantalla">
+<!ENTITY set_image_fail "Ista imachen no se puet establir">
+<!ENTITY set_image_chooser_title "Establir imachen como">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "S'ha eliminau d'a suya pachina de lectura">
 <!ENTITY reading_list_failed "No s'ha puesto adhibir a pachina en a suya Lista de lectura">
 <!ENTITY reading_list_duplicate "A pachina ya ye present en a suya lista de lectura">
-<!ENTITY reader "Lector">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Accions adicionals">
 
 <!ENTITY masterpassword_create_title "Creyar una clau mayestra">
 <!ENTITY masterpassword_remove_title "Suprimir a clau mayestra">
@@ -292,11 +306,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loaded_mixed_content_message "This page is displaying content that isn\'t secure.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; has blocked content that isn\'t secure.">
-<!ENTITY blocked_mixed_content_message_bottom "Most websites will still work properly even when this content is blocked.">
-<!ENTITY learn_more "Learn More">
-<!ENTITY enable_protection "Enable protection">
-<!ENTITY disable_protection "Disable protection">
-<!ENTITY keep_blocking "Keep blocking">
+<!ENTITY blocked_mixed_content_message_bottom "A mayoría de pachinas web continan funcionando correctament encara que s'haiga blocau conteniu.">
+<!ENTITY learn_more "Aprender-ne mas">
+<!ENTITY enable_protection "Habilitar a protección">
+<!ENTITY disable_protection "Inhabilitar a protección">
+<!ENTITY keep_blocking "Continar blocando">
 
 <!ENTITY private_data_success "S'ha borrau os datos privaus">
 <!ENTITY private_data_fail "Bells datos privaus no s'han puesto borrar">
@@ -317,15 +331,28 @@ dende Android">
 <!ENTITY webapp_generic_name "Aplicacions">
 
 <!ENTITY searchable_description "Marcapachinas y historia">
+
+<!ENTITY devtools_remote_debugging_forward "Don\'t forget to set up port forwarding!">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Esvielle disponible ta &brandShortName;">
 <!ENTITY updater_start_select2 "Toque-ie ta baixar-la">
 
 <!ENTITY updater_downloading_title2 "Se ye baixando &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "A baixada ha fallau">
+<!ENTITY updater_downloading_title_failed2 "A descarga ha fallau">
 <!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l'esvielle malas que se baixe">
 <!ENTITY updater_downloading_retry2 "Toque-ie ta tornar a prebar-lo">
 
 <!ENTITY updater_apply_title2 "Esvielle disponible ta &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque-ie ta esviellar">
+<!-- Guest mode -->
+
+<!ENTITY new_guest_session "Nueva sesión de convidau">
+<!ENTITY exit_guest_session "Zarrar a sesión de convidau">
+<!ENTITY guest_session_dialog_continue "Continar">
+<!ENTITY guest_session_dialog_cancel "Cancelar">
+<!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
+<!ENTITY new_guest_session_text "A persona que lo faiga servir no podrá accedir a garra dato d'a suya información personal de navegación (como claus, historial, u marcapachinas).\n\nQuan remate a sesión de convidau, ixos datos s'eliminarán y a sesión precedent se restaurará.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; se reiniciará">
+<!ENTITY exit_guest_session_text "Os datos de navegación d'ista sesión se eliminarán.">

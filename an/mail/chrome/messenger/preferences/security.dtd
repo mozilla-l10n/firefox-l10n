@@ -39,8 +39,8 @@
 <!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
 <!ENTITY changeMasterPassword.label     "Change Master Password…">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "Saved Passwords…">
-<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.label           "Claus alzadas…">
+<!ENTITY savedPasswords.accesskey       "a">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.">

@@ -5,7 +5,7 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 
-<!ENTITY downloads.title                  "Baixadas">
+<!ENTITY downloads.title                  "Descargas">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -72,7 +72,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Amostrar todas as baixadas">
+<!ENTITY downloadsHistory.label           "Amostrar todas as descargas">
 <!ENTITY downloadsHistory.accesskey       "A">
 
 <!ENTITY clearDownloadsButton.label       "Limpiar as descargas">

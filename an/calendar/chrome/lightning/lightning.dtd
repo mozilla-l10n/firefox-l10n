@@ -8,39 +8,39 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.preferencesLabel "Calendar">
+<!ENTITY lightning.preferencesLabel "Calandario">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label    "Event…">
-<!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label     "Task…">
-<!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.event.label    "Cita…">
+<!ENTITY lightning.menupopup.new.event.accesskey "C">
+<!ENTITY lightning.menupopup.new.task.label     "Quefer…">
+<!ENTITY lightning.menupopup.new.task.accesskey "Q">
+<!ENTITY lightning.menupopup.new.calendar.label "Calandario…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label               "Open">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Saved Message…">
+<!ENTITY lightning.menupopup.open.label               "Ubrir">
+<!ENTITY lightning.menupopup.open.accesskey           "U">
+<!ENTITY lightning.menupopup.open.message.label       "Mensache alzau…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Calendar File…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
+<!ENTITY lightning.menupopup.open.calendar.label      "Fichero de calandario…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label            "Calendar">
-<!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "Tasks">
-<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+<!ENTITY lightning.menu.view.calendar.label            "Calandario">
+<!ENTITY lightning.menu.view.calendar.accesskey        "C">
+<!ENTITY lightning.menu.view.tasks.label               "Quefers">
+<!ENTITY lightning.menu.view.tasks.accesskey           "Q">
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
-<!ENTITY lightning.menu.eventtask.accesskey            "n">
+<!ENTITY lightning.menu.eventtask.label                "Citas y quefers">
+<!ENTITY lightning.menu.eventtask.accesskey            "i">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+<!ENTITY lightning.calendarproperties.email.label               "Correu electronico:">
 <!-- iMIP Bar (meeting support) -->
 
-<!ENTITY lightning.imipbar.description "This message contains an invitation to an event.">
+<!ENTITY lightning.imipbar.description "Iste mensache contiene una invitación a un cita.">
 <!-- Lightning specific keybindings -->
 
 <!ENTITY lightning.keys.event.showCalendar.key "C">
@@ -49,15 +49,15 @@
 <!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
 
-<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!ENTITY lightning.acctCentral.newCalendar.label "Creyar un calandario nuevo">
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Show Mini-Day">
+<!ENTITY todaypane.showMinimonth.label "Amostrar o Mini-mes">
+<!ENTITY todaypane.showMinimonth.accesskey "A">
+<!ENTITY todaypane.showMiniday.label "Amostrar o Mini-día">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
-<!ENTITY todaypane.showNone.label "Show None">
+<!ENTITY todaypane.showNone.label "No amostrar cosa">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
+<!ENTITY todaypane.showTodayPane.label "Amostrar o panel de hue">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Today Pane">
+<!ENTITY todaypane.statusButton.label "Panel de hue">

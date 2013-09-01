@@ -9,9 +9,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Mira actualizacions »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Se ye mirando si i hai actualizacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No i hai garra actualización">
-<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
+<!ENTITY aboutPage.checkForUpdates.available2   "Baixar l'actualización">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Se ye baixando l'actualización...">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Install update">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalar l'actualización">
 <!ENTITY aboutPage.faq.label                    "PMF">
 <!ENTITY aboutPage.support.label                "Asistencia">
 <!ENTITY aboutPage.privacyPolicy.label          "Politica de privacidat">

@@ -27,7 +27,7 @@
 <!ENTITY view.sortDescending.label      "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importar marcapachinas de l'HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Importar marcapachinas de un HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportar marcapachinas en HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">

@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Permitir en ista sesión">
 <!ENTITY  permBlock             "Bloqueyar">
 <!ENTITY  permissionsFor        "Permisos ta:">
-<!ENTITY  permImage             "Cargar imachens">
-<!ENTITY  permPopup             "Ubrir finestras emerchents">
-<!ENTITY  permCookie            "Establir cookies">
-<!ENTITY  permNotifications     "Amostrar as notificacions">
-<!ENTITY  permInstall           "Instalar extensions u temas">
-<!ENTITY  permGeo               "Compartir a ubicación">
 <!ENTITY  permPlugins           "Activar os plugins">
-<!ENTITY  permFullscreen        "Activar a pantalla completa">
-<!ENTITY  permPointerLock2      "Amaga o putero d'o ratet">
 
-<!ENTITY  permIndexedDB              "Mantener l'almagazenamiento en modo sin connexión">
 <!ENTITY  permClearStorage           "Limpiar l'almagazenamiento">
 <!ENTITY  permClearStorage.accesskey "c">
 
