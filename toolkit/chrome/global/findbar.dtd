@@ -13,7 +13,7 @@
 <!ENTITY caseSensitive.label "Rozeznôwôj wielgòsc lëtrów">
 <!ENTITY caseSensitive.tooltiptext "Szëkôj z rozeznawanim wielgòscë lëtrów">
 <!ENTITY highlightAll.label "Wëbierzë wszëtkò">
-<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.accesskey "W">
 <!ENTITY highlightAll.tooltiptext "Pòdskrzëni wszëtczé wëstąpienia frazë">
 
 

@@ -22,7 +22,7 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kòpérëjë">
 <!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "W">
 <!ENTITY  selectall.label       "Wëbierzë wszëtkò">
 <!ENTITY  selectall.accesskey   "w">
 <!ENTITY  closeWindow.key       "O">
