@@ -4,7 +4,8 @@
 
 <!ENTITY event.title.label                  "Edit Item" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Keep the duration when changing the end date">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "From" >
 <!ENTITY newevent.to.label                  "To" >
@@ -96,8 +97,6 @@
 
 <!ENTITY  event.menu.options.label                            "Options">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attachments.label                "Attach Webpage…">
-<!ENTITY  event.menu.options.attachments.accesskey            "W">
 <!ENTITY  event.menu.options.attendees.label                  "Invite Attendees…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.spellcheck.label                 "Check Spelling…">
@@ -106,8 +105,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Add Link…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Timezone">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Priority">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Not specified">
@@ -146,15 +145,16 @@
 <!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
 <!ENTITY  event.toolbar.spellcheck.label                  "Spellcheck">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
-<!ENTITY  event.toolbar.attachments.label                 "Attach">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Title:" >
-<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.title.textbox.accesskey                    "I">
 <!ENTITY event.location.label                             "Location:" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Category:">
 <!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "Add a new category" >
+<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Attendees:" >
@@ -173,12 +173,18 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repeat:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Until:">
+<!ENTITY event.until.accesskey                            "i">
 <!ENTITY event.reminder.label                             "Reminder:" >
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Description:" >
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Attachments:" >
 <!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "Attach">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Webpage…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Remove" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Open" >
@@ -318,8 +324,6 @@
 <!ENTITY event.freebusy.next.slot               "Next slot " >
 <!ENTITY event.freebusy.previous.slot           " Previous slot" >
 <!ENTITY event.freebusy.zoom                    "Zoom:">
-<!ENTITY event.freebusy.plus                    "Next hour" >
-<!ENTITY event.freebusy.minus                   "Previous hour" >
 <!ENTITY event.freebusy.legend.free             "Free" >
 <!ENTITY event.freebusy.legend.busy             "Busy" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentative" >
@@ -329,13 +333,22 @@
 <!ENTITY event.attendee.role.optional           "Optional Attendee">
 <!ENTITY event.attendee.role.chair              "Chair">
 <!ENTITY event.attendee.role.nonparticipant     "Non Participant">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Group">
+<!ENTITY event.attendee.usertype.resource       "Resource">
+<!ENTITY event.attendee.usertype.room           "Room">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Please Specify the Timezone">
+<!ENTITY event.timezone.custom.label     "More Timezones…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Title:">
+<!ENTITY read.only.event.start.label     "Start Date:">
+<!ENTITY read.only.task.start.label      "Start Date:">
+<!ENTITY read.only.event.end.label       "End Date:">
+<!ENTITY read.only.task.due.label        "Due Date:">
 <!ENTITY read.only.repeat.label          "Repeat:">
 <!ENTITY read.only.location.label        "Location:">
 <!ENTITY read.only.category.label        "Category:">
@@ -350,4 +363,3 @@
 <!ENTITY read.only.description.label     "Description">
 <!ENTITY read.only.documents.label       "Documents">
 <!ENTITY read.only.link.label            "Related Link">
-
