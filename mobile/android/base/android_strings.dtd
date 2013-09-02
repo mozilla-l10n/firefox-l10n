@@ -158,7 +158,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "Escolha que informação partilhar">
 <!ENTITY datareporting_notification_action "Escolha o que partilhar">
 <!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente alguma informação para a &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, &brandShortName;â€¦">
+<!ENTITY datareporting_notification_summary_short "Para melhorar experiência com o &brandShortName;">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
@@ -177,7 +177,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Relator de erro">
 <!ENTITY datareporting_wifi_title "Serviços de localização da &vendorShortName;">
-<!ENTITY datareporting_wifi_summary "HAjuda a melhorar a geolocalização da web permitindo ao &brandShortName; obter e enviar dados anónimos da torre celular">
+<!ENTITY datareporting_wifi_summary "Ajude a melhorar a geolocalização da web permitindo ao &brandShortName; obter e enviar dados anónimos da torre celular">
 
 <!ENTITY pref_update_autodownload "Atualizações automáticas">
 <!ENTITY pref_update_autodownload_wifi "Apenas com Wi-Fi">
