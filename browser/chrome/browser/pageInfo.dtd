@@ -64,7 +64,6 @@
 <!ENTITY  permissionsFor        "ਅਧਿਕਾਰ:">
 <!ENTITY  permPlugins           "ਪਲੱਗਇਨ ਐਕਟੀਵੇਤ">
 
-<!ENTITY  permIndexedDB              "ਆਫਲਾਈਨ ਸਟੋਰੇਜ਼ ਪਰਬੰਧ">
 <!ENTITY  permClearStorage           "ਸਟੋਰੇਜ਼ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  permClearStorage.accesskey "C">
 
