@@ -9,16 +9,20 @@
 <!ENTITY newsSectionHdr.label         "Nyheitsgrupper">
 <!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyheitsgrupper">
 
-<!ENTITY feedsSectionHdr.label        "Nyheits- og bloggkjelder">
+<!ENTITY feedsSectionHdr.label        "Nyheitskjelder">
 <!ENTITY subscribeFeeds.label         "Behandle abonnement">
+
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Kontoar">
 <!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
 <!ENTITY settingsLink.label           "Vis innstillingar for denne kontoen">
-<!ENTITY newAcctLink.label            "Opprett ny konto">
+<!ENTITY newAcctLink.label            "Lag ein ny konto">
+<!ENTITY newAcct.label                "Lag ein ny konto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjonar">
 <!ENTITY searchMsgsLink.label         "Søk i meldingar">
-<!ENTITY filtersLink.label            "Opprett meldingsfilter">
+<!ENTITY filtersLink.label            "Lag meldingsfilter">
 <!ENTITY junkSettings.label           "Innstillingar for uønskt e-post">
 <!ENTITY offlineLink.label            "Innstillingar for fråkopla tilstand">
