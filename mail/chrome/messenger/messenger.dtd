@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "E-mail ophelje">
+<!ENTITY getMsgButton1.label "E-mail ophelje">
 <!ENTITY newMsgButton.label "Opstelle">
 <!ENTITY replyButton.label "Beantwurdzje">
 <!ENTITY replyAllButton.label "Elk beantwurdzje">

@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         	"Toan sertifikaten">
 <!ENTITY viewCertificates.accesskey     	"S">
-<!ENTITY viewCRLs.label                 	"Ynlûklisten">
-<!ENTITY viewCRLs.accesskey             	"Y">
 <!ENTITY validation.label               	"Falidaasje">
 <!ENTITY validation.accesskey           	"F">
 <!ENTITY viewSecurityDevices.label      	"Befeiligingsapparaten">
