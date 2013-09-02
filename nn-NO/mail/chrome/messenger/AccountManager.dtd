@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "e">
 <!ENTITY addIMAccountButton.label "Legg til nettpratkonto …">
 <!ENTITY addIMAccountButton.accesskey "r">
+<!ENTITY addFeedAccountButton.label "Legg til nyheitskjeldekonto …">
+<!ENTITY addFeedAccountButton.accesskey "h">
 <!ENTITY addOtherAccountButton.label "Legg til annan konto …">
 <!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Vel som standard">

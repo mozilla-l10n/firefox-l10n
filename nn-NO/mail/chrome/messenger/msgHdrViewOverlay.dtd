@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Til">
-<!ENTITY fromField3.label "Frå ">
-<!ENTITY senderField3.label "Avsendar">
-<!ENTITY organizationField3.label "Organisasjon">
-<!ENTITY replyToField3.label "Svar til">
+<!ENTITY toField4.label "Til">
+<!ENTITY fromField4.label "Frå">
+<!ENTITY senderField4.label "Avsendar">
+<!ENTITY organizationField4.label "Organisasjon">
+<!ENTITY replyToField4.label "Svar til">
 
-<!ENTITY subjectField3.label "Emne">
-<!ENTITY ccField3.label "Kopi">
-<!ENTITY bccField3.label "Blindkopi">
-<!ENTITY newsgroupsField3.label "Nyheitsgrupper">
-<!ENTITY followupToField3.label "Oppfølging">
-<!ENTITY tagsHdr3.label "Merkelappar">
-<!ENTITY dateField3.label "Dato">
-<!ENTITY userAgentField3.label "Program">
-<!ENTITY referencesField3.label "Referansar">
-<!ENTITY messageIdField3.label "Meldings-ID ">
-<!ENTITY inReplyToField3.label "Som svar til">
-<!ENTITY originalWebsite3.label "Nettstad">
+<!ENTITY subjectField4.label "Emne">
+<!ENTITY ccField4.label "Kopi">
+<!ENTITY bccField4.label "Blindkopi">
+<!ENTITY newsgroupsField4.label "Gruppe">
+<!ENTITY followupToField4.label "Oppfølging">
+<!ENTITY tagsHdr4.label "Merkelappar">
+<!ENTITY dateField4.label "Dato">
+<!ENTITY userAgentField4.label "Program">
+<!ENTITY referencesField4.label "Referansar">
+<!ENTITY messageIdField4.label "Meldings-ID">
+<!ENTITY inReplyToField4.label "Som svar til">
+<!ENTITY originalWebsite4.label "Nettstad">
 
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
 <!ENTITY hdrFollowupButton1.label "Følg opp">
 <!ENTITY hdrFollowupButton1.tooltip "Svar med oppfølging til denne nyheitsgruppa">
+<!ENTITY hdrMenuForwardButton.label "Vidaresend som">
 <!ENTITY hdrForwardButton1.label "Vidaresend">
 <!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
 <!ENTITY hdrJunkButton1.label "Uønskt">

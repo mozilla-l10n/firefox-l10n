@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Tillat tenaren å overstyre desse namneromma">
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3Desc.label "Nye meldingar lasta ned frå POP3-tenaren skal lagrast i denne mappa:" >
-<!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
-<!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">
 <!ENTITY accountDirectory.accesskey "n">
 <!ENTITY deferToServer.label "Innboksen i ein annan konto">
