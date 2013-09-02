@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre2              "ਤੁਸੀਂ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ">
-<!ENTITY support.link              "&brandShortName">
+<!ENTITY support.link              "&brandShortName;">
 <!ENTITY support.post2             "ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।">
 <!ENTITY happy.header              "ਸੁਣਨ ਲਈ ਬਹੁਤ ਵਧੀਆ ਲੱਗਾ!">
 

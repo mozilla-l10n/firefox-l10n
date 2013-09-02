@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  splash_settingup "ਤੁਹਾਡਾ &brandShortName; ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY  splash_bookmarks_history "ਅਸੀਂ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਅੱਪਡੇਟ ਕਰ ਰਹੇ ਹਾਂ, ਜਿਸ ਲਈ ਕਿ ਮਿੰਟ ਕੁ ਲੱਗ ਸਕਦਾ ਹੈ।">
-
 <!ENTITY  no_space_to_start_error "&brandShortName; ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
