@@ -13,13 +13,14 @@
 <!ENTITY intro.happyLink           "ਮੈਨੂੰ ਪਸੰਦ ਹੈ">
 <!ENTITY intro.sadLink             "ਮੈਨੂੰ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆ ਰਹੀਆਂ ਹਨ">
 
+<!ENTITY intro.maybeLater          "ਫੇਰ ਕਦੇ">
+
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "ਜੇ ਤੁਹਾਨੂੰ ਮੱਦਦ ਚਾਹੀਦੀ ਹੈ ਜਾਂ &brandShortName; ਨਾਲ ਕੋਈ ਸਮੱਸਿਆ ਹੈ ਤਾਂ ਖੋਲ੍ਹੋ ਜੀ">
-<!ENTITY support.link              "&brandShortName; ਸਹਿਯੋਗ">
-<!ENTITY support.post              ".">
-
+<!ENTITY support.pre2              "ਤੁਸੀਂ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ">
+<!ENTITY support.link              "&brandShortName">
+<!ENTITY support.post2             "ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।">
 <!ENTITY happy.header              "ਸੁਣਨ ਲਈ ਬਹੁਤ ਵਧੀਆ ਲੱਗਾ!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "ਇਸ ਨੂੰ ਮਿੰਟ ਤੋਂ ਘੱਟ ਲੱਗੇਗਾ ਅਤੇ ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਵੇਗੀ।">
 
 <!ENTITY happy.ratingLink          "ਹਾਂ, ਮੈਨੂੰ ਗੂਗਲ ਪਲੇਅ 'ਚ ਜਾਉ">
-<!ENTITY happy.maybeLater          "ਬਾਅਦ ਵਿੱਚ ਵੇਖਾਂਗੇ">
+<!ENTITY happy.maybeLater2         "ਫੇਰ ਕਦੇ">
 <!ENTITY happy.noThanks            "ਨਹੀਂ ਧੰਨਵਾਦ ਜੀ">
 
 <!ENTITY sad.message               "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ ਕਿ ਤੁਹਾਨੂੰ &brandShortName; ਨਾਲ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆਈਆਂ ਹਨ। ਸਾਨੂੰ ਉਹਨਾਂ ਬਾਰੇ ਦੱਸੋ ਜੀ ਤਾਂ ਕਿ ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਠੀਕ ਕਰ ਸਕੀਏ।">
