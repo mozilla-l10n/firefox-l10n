@@ -39,7 +39,7 @@
 <!ENTITY PrimaryEmail.label             "E-postadresse:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Annen e-post:">
-<!ENTITY SecondEmail.accesskey          "n">
+<!ENTITY SecondEmail.accesskey          "e">
 <!ENTITY PreferMailFormat.label         "Foretrekker å motta meldinger formatert som:">
 <!ENTITY PreferMailFormat.accesskey     "r">
 <!ENTITY PlainText.label                "Ren tekst">
@@ -81,7 +81,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Nettside:">
-<!ENTITY HomeWebPage.accesskey          "N">
+<!ENTITY HomeWebPage.accesskey          "s">
 <!ENTITY Birthday.label                 "Bursdag:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
@@ -111,7 +111,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Nettside:">
-<!ENTITY WorkWebPage.accesskey          "N">
+<!ENTITY WorkWebPage.accesskey          "s">
 
 <!ENTITY Other.tab                      "Annet">
 <!ENTITY Other.accesskey                "t">
@@ -124,14 +124,14 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY Custom4.label                  "Egendefinert 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notater">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.accesskey                "o">
 
 <!ENTITY Chat.tab                       "Nettprat">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "N">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM.accesskey                  "A">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -158,7 +158,7 @@ innhold i HTML-meldinger fra denne kontakten.">
 <!ENTITY BrowsePhoto.label              "Bla gjennom">
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "På nettet">
-<!ENTITY PhotoURL.accesskey             "n">
+<!ENTITY PhotoURL.accesskey             "e">
 <!ENTITY PhotoURL.placeholder           "Lim eller skriv inn nettadressen til et foto">
 <!ENTITY UpdatePhoto.label              "Oppdater">
 <!ENTITY UpdatePhoto.accesskey          "O">

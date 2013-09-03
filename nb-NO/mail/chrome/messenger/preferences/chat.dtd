@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  startupAction.label         "Når &brandShortName; starter:">
-<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupAction.accesskey     "N">
 <!ENTITY  startupOffline.label        "Behold nettprat-kontoene frakoblet">
 <!ENTITY  startupConnectAuto.label    "Koble til nettprat-kontoene automatisk">
 
@@ -14,11 +14,11 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 <!ENTITY  reportIdleAfter.label         "La kontaktene mine vite at jeg er inaktiv etter">
-<!ENTITY  reportIdleAfter.accesskey     "k">
+<!ENTITY  reportIdleAfter.accesskey     "L">
 <!ENTITY  idleTime                      "minutter med inaktivitet">
 
 <!ENTITY  andSetStatusToAway.label      "og sett status til borte med denne statusmeldingen:">
 <!ENTITY  andSetStatusToAway.accesskey  "o">
 
 <!ENTITY  sendTyping.label              "Send varsler om at jeg skriver i samtaler">
-<!ENTITY  sendTyping.accesskey          "n">
+<!ENTITY  sendTyping.accesskey          "S">
