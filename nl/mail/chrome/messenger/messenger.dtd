@@ -561,8 +561,8 @@
 <!ENTITY appmenuButton1.tooltip "Het &brandShortName;-menu weergeven">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "In het bericht doorsturen">
-<!ENTITY buttonMenuForwardAsAttachment.label "Als bijlage doorsturen">
+<!ENTITY buttonMenuForwardAsInline.label "Doorsturen in het bericht">
+<!ENTITY buttonMenuForwardAsAttachment.label "Doorsturen als bijlagen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
