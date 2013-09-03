@@ -537,6 +537,8 @@
 <!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
 <!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
+<!ENTITY forwardAsInline.tooltip "Geselecteerde bericht doorsturen in het bericht">
+<!ENTITY forwardAsAttachment.tooltip "Geselecteerde bericht doorsturen als bijlage">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
 <!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
@@ -557,6 +559,10 @@
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 <!ENTITY appmenuButton1.tooltip "Het &brandShortName;-menu weergeven">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "In het bericht doorsturen">
+<!ENTITY buttonMenuForwardAsAttachment.label "Als bijlage doorsturen">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nieuw bericht">
@@ -707,6 +713,10 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Kopiëren naar">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Conversatie negeren">
+<!ENTITY contextKillThreadMenu.accesskey "C">
+<!ENTITY contextKillSubthreadMenu.label "Subconversatie negeren">
+<!ENTITY contextWatchThreadMenu.label "Conversatie volgen">
 <!ENTITY contextSaveAs.label "Opslaan als…">
 <!ENTITY contextSaveAs.accesskey "O">
 <!ENTITY contextPrint.label "Afdrukken…">
