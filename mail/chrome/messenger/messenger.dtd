@@ -588,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Berichten ophalen">
 <!ENTITY folderContextGetMessages.accesskey "B">
-<!ENTITY folderContextOpenNewWindow.label "Openen">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Openen in nieuw venster">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Openen in nieuw tabblad">
 <!ENTITY folderContextOpenNewTab.accesskey "t">
 <!ENTITY folderContextNew.label "Nieuwe submap…">
