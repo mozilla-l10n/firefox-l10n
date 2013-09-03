@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vere tilgjengelege på &brandShortName; si Startside etter du startar på nytt.">
-<!ENTITY  crash_send_report_message2 "Fortell Mozilla om dette krasjet så dei kan rette det">
+<!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan rette det">
 <!ENTITY  crash_include_url2 "Inkluder adressa til nettstaden problemet oppstod på">
 <!ENTITY  crash_sorry "Vi beklagar">
 <!ENTITY  crash_comment "Legg til ein kommentar (kommentarar er offentleg synlege)">
-<!ENTITY  crash_allow_contact "Tillat Mozilla å kontakte meg om denne rapporten">
+<!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakte meg om denne rapporten">
 <!ENTITY  crash_email "Di e-postadresse">
 <!ENTITY  crash_closing_alert "Avslutt utan å sende krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjerna">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
+<!ENTITY bookmark_options "Innstillingar">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -81,9 +82,9 @@
 <!ENTITY pref_header_privacy "Personvern og sikkerheit">
 <!ENTITY pref_header_content "Innhald">
 
-<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_menu "Infokapslar">
 <!ENTITY pref_cookies_accept_all "påslått">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
+<!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
 <!ENTITY pref_donottrack_menu "Sporing">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spele av">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststorleik">
-<!ENTITY pref_reflow_on_zoom2 "Pinch to reflow text">
+<!ENTITY pref_reflow_on_zoom3 "Dobbelttrykk for å oppdatere tekstflyt">
 <!ENTITY pref_font_size_tiny "Liten">
 <!ENTITY pref_font_size_small "Mindre">
 <!ENTITY pref_font_size_medium "Medium">
@@ -133,26 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Nedlasta filer">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistikk og data">
+<!ENTITY datareporting_notification_action_long "Vel kva info som skal delast">
 <!ENTITY datareporting_notification_action "Vel det du vil dele">
 <!ENTITY datareporting_notification_summary "For å gje deg ei betre oppleving vil &brandShortName; automatisk sende noko info til &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "For å gje deg ei betre oppleving vil &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Helserapport">
-<!ENTITY datareporting_fhr_summary "Hjelper deg å forstå ytinga til nettlesaren, og sender forskjellig info til &vendorShortName; om helsa til nettlesaren din
-  	">
+<!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettlesaren si helse, og hjelper deg å forstå ytinga til nettlesaren">
+<!ENTITY datareporting_abouthr_title "Vis helserapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Sender info om yting, bruksmønster, maskinvare og tilpassingar i nettlesaren til &vendorShortName;, for å hjelpe oss gjere &brandShortName; betre">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; sender krasjrapportar for å hjelpe &vendorShortName; med å gjere nettlesaren meir stabil og trygg">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName; Krasjrapportering">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
+<!ENTITY datareporting_wifi_title "&vendorShortName; stadopplysning">
+<!ENTITY datareporting_wifi_summary "Hjelp til med å forbetre geolokasjonstenester for den opne verdsveven ved å la &brandShortName; samle og sende anonyme basestasjonsdata">
 
 <!ENTITY pref_update_autodownload "Automatiske oppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Berre over Wi-Fi">
@@ -285,8 +289,17 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som vert driven av">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er sikra.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhald som ikkje er trygt.">
+<!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungere sjølv om dette innhaldet vert blokkert.">
+<!ENTITY learn_more "Les meir">
+<!ENTITY enable_protection "Slå på vern">
+<!ENTITY disable_protection "Slå av vern">
+<!ENTITY keep_blocking "Fortset blokkering">
+
 <!ENTITY private_data_success "Private data sletta">
-<!ENTITY private_data_fail "Klarte ikkje å slette nokre private data">
+<!ENTITY private_data_fail "Klarte ikkje å slette enkelte private data">
 
 <!ENTITY bookmarkhistory_button_import "Importer">
 <!ENTITY bookmarkhistory_import_both "Importerer bokmerke og historikk

@@ -20,7 +20,7 @@
 <!ENTITY community.start2           "&brandShortName; er utvikla av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", eit">
+<!ENTITY community.middle2          ", eit ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
 <!ENTITY community.end3             " arbeider saman for å halde verdsveven open, allmenn, og tilgjengeleg for alle.
