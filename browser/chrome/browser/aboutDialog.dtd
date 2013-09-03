@@ -27,7 +27,7 @@
 
 <!ENTITY contribute.start           "Høres dette interessant ut? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Involver deg!">
+<!ENTITY contribute.getInvolvedLink "Engasjer deg!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
