@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "E">
 <!ENTITY addIMAccountButton.label "Chataccount toevoegen…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Feedaccount toevoegen…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Andere account toevoegen…">
 <!ENTITY addOtherAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Als standaard instellen">
