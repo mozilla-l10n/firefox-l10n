@@ -64,7 +64,7 @@
 
 <!ENTITY settings "Indstillinger">
 <!ENTITY settings_title "Indstillinger">
-<!ENTITY pref_category_advanced "Avancerede">
+<!ENTITY pref_category_advanced "Avanceret">
 <!ENTITY pref_category_customize "Tilpas">
 <!ENTITY pref_category_search2 "Søgeindstillinger">
 <!ENTITY pref_category_display "Vis">
@@ -141,7 +141,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Hentede filer">
 
 
-<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Giv os din mening">
 
@@ -168,7 +168,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
 <!ENTITY datareporting_wifi_title "&vendorShortName; positionstjenester">
-<!ENTITY datareporting_wifi_summary "Hjælper Open Web til at forbedre positionstjenester ved at lade &brandShortName; indsamle og anonymt sende oplysninger om mobile sendere.">
+<!ENTITY datareporting_wifi_summary "Hjælp med til at forbedre positionstjenester på det åbne web ved at lade &brandShortName; indsamle og sende anonyme oplysninger om mobilmaster.">
 
 <!ENTITY pref_update_autodownload "Automatiske opdateringer">
 <!ENTITY pref_update_autodownload_wifi "Kun via Wi-Fi">
@@ -332,7 +332,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bogmærker og historik">
 
-<!ENTITY devtools_remote_debugging_forward "Husk at angive viderestilling af port!">
+<!ENTITY devtools_remote_debugging_forward "Husk at opsætte port forwarding!">
 
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Opdatering tilgængelig til &brandShortName;">
@@ -347,8 +347,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "Tryk for at opdatere">
 
 <!-- Guest mode -->
-<!ENTITY new_guest_session "Ny gæst-session">
-<!ENTITY exit_guest_session "Luk gæst-session">
+<!ENTITY new_guest_session "Ny gæstesession">
+<!ENTITY exit_guest_session "Luk gæstesession">
 <!ENTITY guest_session_dialog_continue "Fortsæt">
 <!ENTITY guest_session_dialog_cancel "Annuller">
 <!ENTITY new_guest_session_title "&brandShortName; bliver nu genstartet">
