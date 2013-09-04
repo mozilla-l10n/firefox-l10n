@@ -127,7 +127,7 @@
         <rdf:li> <rdf:Description nc:name="Vyhľadávač" nc:link="glossary.xhtml#search_engine"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Vyrovnávacia pamäť (cache)" nc:link="glossary.xhtml#cache"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Webová stránka" nc:link="glossary.xhtml#web_page"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Webový server" nc:link="glossary.xhtml#web_site"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Webový server" nc:link="glossary.xhtml#website"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="World Wide Web (WWW)" nc:link="glossary.xhtml#world_wide_web"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="WPAD" nc:link="glossary.xhtml#wpad"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="XML" nc:link="glossary.xhtml#xml"/> </rdf:li>

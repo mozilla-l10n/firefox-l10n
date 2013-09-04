@@ -699,3 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Povoliť teraz">
 <!ENTITY pluginActivateAlways.label "Povoliť a zapamätať">
 <!ENTITY pluginBlockNow.label "Zablokovať zásuvný modul">
+
+<!ENTITY tabCrashed.header "Karta zlyhala">
+<!ENTITY tabCrashed.message "Tak toto je nepríjemné. Pokúsili sme sa zobraziť túto webovú stránku, ale bohužial stránka neodpovedá.">
+<!ENTITY tabCrashed.tryAgain "Skúsiť znova">

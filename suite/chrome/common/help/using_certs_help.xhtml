@@ -251,7 +251,7 @@
   informácií o používaní príslušnej karty.</p>
 
 <p>Ďalšie informácie o zobrazení a správe týchto certifikátov nájdete aj v kapitole
-  <a href="certs_help.xhtml#web_site_certificates">Certifikáty webových
+  <a href="certs_help.xhtml#website_certificates">Certifikáty webových
     serverov</a>.
 </p>
 
@@ -518,9 +518,7 @@
 <div class="contentsBox">V tejto kapitole:
   <ul>
     <li><a href="#how_validation_works">Ako funguje overovanie platnosti</a></li>
-    <li><a href="#managing_crls">Správa CRL</a></li>
     <li><a href="#configuring_ocsp">Nastavenie OCSP</a></li>
-    <li><a href="validation_help.xhtml">Nastavenie overovania platnosti</a></li>
   </ul>
 </div>
 
@@ -546,20 +544,12 @@
   Kompromitovaný certifikát môže neautorizovanej osobe (alebo webovému serveru)
   umožniť predstierať, že je vlastníkom certifikátu.</p>
 
-<p>Jedným spôsobom, ako sa brániť tejto hrozbe, je použiť kontrolu Zoznamu zrušených
-  certifikátov (CRL) ako súčasť overovacieho procesu (viď <a href="#managing_crls">Správa
-  CRL</a>). Typicky, kliknutím na odkaz prevezmete CRL do vášho prehliadača. Ak je
-  CRL prítomný, Správca certifikátov ako súčasť overovacieho procesu porovnáva každý
-  certifikát vydaný rovnakou CA s príslušným zoznamom CRL.
-</p>
+<p>One way to combat this threat would be for Certificate Manager to check a
+  previously downloaded certificate revocation list (CRL) as part of the
+  verification process. However, those lists may be large and need to be
+  updated frequently in order to remain current and thus useful.</p>
 
-<p>Spoľahlivosť CRL závisí na tom, ako často je zoznam aktualizovaný serverom
-  a ako často je kontrolovaný klientom. Pomocou
-  <a href="validation_help.xhtml#automatic_crl_update_preferences">automatických
-  aktualizácií CRL</a> môžete nastaviť prehliadač tak, že CRL bude aktualizovaný
-  automaticky v pravidelných intervaloch.</p>
-
-<p>Iným spôsobom, ako sa brániť hrozbe kompromitovaných certifikátov, je použitie
+<p>Preferovaným spôsobom, ako sa brániť hrozbe kompromitovaných certifikátov, je použitie
   špeciálneho servera, ktorý podporuje protokol OCSP (Online Certificate Status
   Protocol). Takýto server môže odpovedať klientom na ich požiadavky na kontrolu
   jednotlivých certifikátov (viď časť <a href="#configuring_ocsp">Nastavenie
@@ -572,142 +562,24 @@
 
 <p>[<a href="#controlling_validation">Návrat na začiatok kapitoly</a>]</p>
 
-<h2 id="managing_crls">Správa CRL</h2>
+<h2 id="configuring_ocsp">Configuring OCSP</h2>
 
-<p>Zoznam zrušených certifikátov (CRL) je zoznam odvolaných certifikátov.
-  <a href="glossary.xhtml#certificate_authority">Certifikačná autorita (CA)</a>
-  môže zrušiť platnosť certifikátu, ak bol napríklad nejakým spôsobom kompromitovaný
-  — podobne ako finančné spoločnosti môžu zrušiť platnosť vašej kreditnej karty,
-  ak im oznámite, že bola ukradnutá.</p>
-
-<p>Táto kapitola popisuje, ako importovať a spravovať zoznamy CRL.</p>
-
-<p>Ďalšie informácie nájdete aj v sekcii
-  <a href="#how_validation_works">Ako funguje overovanie platnosti</a>.</p>
-
-<p>Podrobný popis nastavení CRL nájdete v kapitole
-  <a href="validation_help.xhtml">Nastavenie overovania platnosti</a>.</p>
-
-<div class="contentsBox">V tejto kapitole:
-  <ul>
-    <li><a href="#about_the_next_update_date">O dátume <q>Nasledujúcej
-      aktualizácie</q></a></li>
-    <li><a href="#importing_crls">Importovanie CRL</a></li>
-    <li><a href="#viewing_and_managing_crls">Zobrazenie a správa CRL</a></li>
-  </ul>
-</div>
-
-<h3 id="about_the_next_update_date">O dátume <q>Nasledujúcej aktualizácie</q></h3>
-
-<p>Prehliadač používajúci CRL je schopný kontrolovať platnosť certifikátov vydaných
-  odpovedajúcou CA. Ak je certifikát v zozname zrušených certifikátov, prehliadač
-  ho neakceptuje ako doklad identity.</p>
-
-<p>CA typicky zverejňuje aktualizovaný zoznam CRL v pravidelných intervaloch. Každý CRL
-  obsahuje dátum, uvedený v poli Nasledujúca aktualizácia, kedy CA zverejní ďalšiu
-  aktualizáciu tohto CRL. Vo všeobecnosti, ak je dátum v poli Nasledujúca aktualizácia
-  skorší ako je súčasný dátum, môžete získať aktuálnejšiu verziu tohto CRL. Viac
-  informácií o CRL a nastavení automatickej aktualizácie CRL nájdete v časti
-  <a href="#viewing_and_managing_crls">Zobrazenie a správa CRL</a>.</p>
-
-<p>Certifikačné autority sú povinné vydať nové CRL do dátumu Nasledujúcej aktualizácie.
-  Neprítomnosť najnovšieho CRL však neznamená neplatnosť certifikátu. Z tohto dôvodu, ak
-  nie je najnovší CRL dostupný, certifikát môže byť potvrdený, dokonca i keď najnovší
-  CRL ho zobrazuje ako certifikát po dobe platnosti. Automatická aktualizácia CRL
-  môže pomôcť predísť tejto situácii.</p>
-
-<h3 id="importing_crls">Importovanie CRL</h3>
-
-<p>Najnovšie CRL môžete importovať od CA do vášho prehliadača. Pri importe CRL
-  postupujte nasledovne:</p>
+<p>The settings that control OCSP are part of Certificates preferences. To view
+  Certificates preferences, follow these steps:</p>
 
 <ol>
-  <li>Prejdite na adresu URL špecifikovanú certifikačnou autoritou alebo
-  správcom systému a kliknite na odkaz CRL, ktorý chcete importovať.
-
-    <p>Zobrazí sa dialógové okno Stav importu CRL.</p>
-  </li>
-  <li>Potvrďte informáciu o úspešnom importe CRL a uistite sa, že je to CRL,
-    ktorý ste chceli. Vo väčšine prípadov by ste tiež mali kliknúť na tlačidlo
-    Áno, čím zapnete automatické aktualizácie práve naimportovaného CRL.</li>
-  <li>Ďalšie kroky závisia na tom, čí ste klikli na tlačidlo Áno alebo Nie
-    v dialógovom okne Stav importu CRL:
-    <ul>
-      <li><strong>Áno</strong>: Zobrazí sa dialógové okno s nastaveniami
-        Automatickej aktualizácie CRL. V tomto prípade pokračujte bodom 4.</li>
-      <li><strong>Nie</strong>: Dialógové okno Stav importu CRL sa zatvorí.
-        Ak neskôr zmeníte názor a rozhodnete sa povoliť automatické aktualizácie,
-        pozrite si časť
-        <a href="#viewing_and_managing_crls">Zobrazenie a správa CRL</a>.</li>
-    </ul>
-  </li>
-  <li>Zvoľte voľbu označenú <q>Povoliť automatickú aktualizáciu pre tento CRL</q>.</li>
-  <li>Rozhodnite sa, ako chcete naplánovať automatické aktualizácie:
-    <ul>
-      <li><strong>Aktualizovať [__] dní pred dátumom nasledujúcej aktualizácie</strong>:
-        Zvoľte túto možnosť, ak chcete založiť početnosť aktualizácií na frekvencii,
-        ktorá je definovaná v CRL.</li>
-      <li><strong>Aktualizovať každých [__] dní</strong>: Zvoľte túto voľbu, ak chcete
-        špecifikovať aktualizačný interval nezávisle na dátume Nasledujúcej aktualizácie
-        CRL.</li>
-    </ul>
-  </li>
-  <li>Kliknutím na tlačidlo OK potvrdíte nastavenia.</li>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Certificates. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
 </ol>
 
-<h3 id="viewing_and_managing_crls">Zobrazenie a správa CRL</h3>
+<p>For information about the OCSP options available, see
+  <a href="certs_prefs_help.xhtml#ocsp">Privacy &amp; Security Preferences -
+  Certificates, OCSP</a>.</p>
 
-<p>CRL dostupné prehliadaču môžete zobraziť a spravovať pomocou predvolieb Overovanie:</p>
-
-<ol>
-  <li>Otvorte ponuku <span class="mac">&brandShortName;</span>
-    <span class="noMac">Upraviť</span> a zvoľte položku Možnosti.</li>
-  <li>V kategórii Súkromie a bezpečnosť kliknite na položku Overenie. (Ak nevidíte
-    žiadnu podkategóriu, dvojitým kliknutím na položku Súkromie a bezpečnosť
-    rozbalíte jej ponuku.)</li>
-  <li>Kliknite na tlačidlo Spravovať CRL v sekcii Zoznam uložených certifikátov (CLR).
-    Zobrazí sa dialógové okno Správca zoznamu zrušených certifikátov (CRL).</li>
-</ol>
-
-<p>CRL môžete vymazať alebo aktualizovať, ak ho označíte a kliknete na príslušné tlačidlo.</p>
-
-<p>Ak chcete nastaviť automatické aktualizácie CRL, označte CRL a kliknite na tlačidlo Nastavenie.
-  Zobrazí sa dialógové okno Nastavenie automatickej aktualizácie CRL:</p>
-
-<ol>
-  <li>Zvoľte voľbu označenú <q>Povoliť automatickú aktualizáciu pre tento CRL</q>.</li>
-  <li>Rozhodnite sa, ako chcete naplánovať automatické aktualizácie:
-    <ul>
-      <li><strong>Aktualizovať [__] dní pred dátumom nasledujúcej aktualizácie</strong>:
-        Zvoľte túto možnosť, ak chcete založiť početnosť aktualizácií na frekvencii,
-        ktorá je definovaná v CRL.</li>
-      <li><strong>Aktualizovať každých [__] dní</strong>: Zvoľte túto voľbu, ak chcete
-        špecifikovať aktualizačný interval nezávisle na dátume Nasledujúcej aktualizácie
-        CRL.</li>
-    </ul>
-  </li>
-  <li>Kliknutím na tlačidlo OK potvrdíte nastavenia.</li>
-</ol>
-
-<p>[<a href="#controlling_validation">Návrat na začiatok kapitoly</a>]</p>
-
-<h2 id="configuring_ocsp">Nastavenie OCSP</h2>
-
-<p>Nastavenia, pomocou ktorých je možné ovládať OCSP sú súčasťou predvolieb Overovanie.
-  Dialógové okno s týmito nastaveniami otvoríte takto:</p>
-
-<ol>
-  <li>Otvorte ponuku <span class="mac">&brandShortName;</span>
-    <span class="noMac">Upraviť</span> a zvoľte položku Možnosti.</li>
-  <li>V kategórii Súkromie a bezpečnosť kliknite na položku Overenie. (Ak nevidíte
-    žiadnu podkategóriu, dvojitým kliknutím na položku Súkromie a bezpečnosť
-    rozbalíte jej ponuku.)</li>
-</ol>
-
-<p>Ďalšie informácie o možnostiach nastavení OCSP nájdete v sekcii
-  <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
-
-<p>[<a href="#controlling_validation">Návrat na začiatok kapitoly</a>]</p>
+<p>[<a href="#controlling_validation">Return to beginning of section</a>]</p>
 
 </body>
 </html>

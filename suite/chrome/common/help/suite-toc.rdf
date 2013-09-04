@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!DOCTYPE rdf:RDF SYSTEM "chrome://branding/locale/brand.dtd" >
 
@@ -62,6 +62,7 @@
         <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Prechod na ďalšiu stránku" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Kliknutie na odkaz" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Zopakovanie krokov" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Opätovné otvorenie zavretých okien a kariet" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Zastavenie a opätovné načítanie stránky"  nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Návšteva stránok v záložkách"  nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Prehliadanie na kartách"  nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
@@ -143,7 +144,7 @@
 <rdf:Description about="#mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Getting Started with Mail" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc" nc:name="Getting Started with Mail &amp; Newsgroups" nc:link="mailnews_getting_started.xhtml#getting_started_with_mozilla_mail_and_newsgroups" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-importing-other" nc:name="Importing Mail from Other Programs" nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-read"    nc:name="Reading Messages" nc:link="mailnews_using_mail.xhtml#reading_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send"    nc:name="Sending Messages" nc:link="mailnews_using_mail.xhtml#sending_messages" /> </rdf:li>
@@ -158,7 +159,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-offline" nc:name="Working Offline" nc:link="mailnews_offline.xhtml#working_offline" /> </rdf:li>
         <rdf:li> <rdf:Description ID="sign-encrypt" nc:name="Signing &amp; Encrypting Messages" nc:link="mailnews_security.xhtml#signing_and_encrypting_messages" /> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-account-settings" nc:name="Mail &amp; Newsgroups Account Settings" nc:link="mailnews_account_settings.xhtml#mail_and_newsgroups_account_settings" /> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Mail &amp; Newsgroup Preferences" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-mailprefs" nc:name="Mail &amp; Newsgroups Preferences" nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences" /> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -408,7 +409,7 @@
 <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Setting Up Mail to Work Offline" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name="Setting Up Mail &amp; Newsgroups to Work Offline" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Downloading All Messages for Offline Use" nc:link="mailnews_offline.xhtml#downloading_all_messages_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name="Downloading an Individual Folder" nc:link="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name="Downloading Selected or Flagged Messages" nc:link="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
@@ -810,6 +811,7 @@
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Keyboard Navigation" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Find As You Type" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Cache" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_offlineapps" nc:name="Aplikácie v režime offline" nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Proxies" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="HTTP Networking" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_installation" nc:name="Software Installation" nc:link="cs_nav_prefs_advanced.xhtml#software_installation"/> </rdf:li>
@@ -829,6 +831,8 @@
         <rdf:li><rdf:Description ID="privacy-doc" nc:name="Súkromie na internete" nc:link="privacy_help.xhtml#privacy_on_the_internet"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies" nc:name="Using the Cookie Manager" nc:link="using_priv_help.xhtml#using_the_cookie_manager"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-password" nc:name="Using the Password Manager" nc:link="using_priv_help.xhtml#using_the_password_manager"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-private-data" nc:name="Clearing Private Data" nc:link="using_priv_help.xhtml#clearing_private_data"/> </rdf:li>
+        <rdf:li><rdf:Description ID="private-browsing" nc:name="Browsing in a Private Window" nc:link="using_priv_help.xhtml#browsing_in_a_private_window"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt" nc:name="Encrypting Stored Sensitive Information" nc:link="using_priv_help.xhtml#encrypting_stored_sensitive_information"/> </rdf:li>
         <rdf:li><rdf:Description ID="images-help-managing" nc:name="Správca obrázkov" nc:link="using_priv_help.xhtml#managing_images"/> </rdf:li>
         <rdf:li><rdf:Description ID="pop_up_blocking" nc:name="Ovládanie vyskakovacích okien" nc:link="cs_priv_prefs_popup.xhtml"/> </rdf:li>
@@ -840,8 +844,9 @@
 <rdf:Description about="#privacy-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Aké informácie poskytuje prehliadač webovým stránkam?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_web_site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-visit" nc:name="Aké informácie poskytuje prehliadač webovým stránkam?"  		nc:link="privacy_help.xhtml#what_information_does_my_browser_give_to_a_website"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-cookies" nc:name="Čo sú cookies a ako fungujú?"  		nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privacy-doc-tracking" nc:name="Why and How Are Websites Tracking Me?"  		nc:link="privacy_help.xhtml#why_and_how_are_websites_tracking_me"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-email" nc:name="Ako ovládať webové stránky v e-mailových správach?"  		nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/> </rdf:li>
         <rdf:li><rdf:Description ID="privacy-doc-unauth" nc:name="Ako zabrániť neoprávneným ľuďom získavať o mne informácie?"  		nc:link="privacy_help.xhtml#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me"/> </rdf:li>
       </rdf:Seq>
@@ -852,7 +857,7 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-manage" nc:name="Enabling &amp; Disabling Cookies" nc:link="using_priv_help.xhtml#enabling_and_disabling_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-priv-help-cookies-site" nc:name="Managing Cookies Site-By-Site" nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-priv-help-cookies-site" nc:name="Managing Cookies Website-By-Website" nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-view" nc:name="Viewing Cookies" nc:link="using_priv_help.xhtml#viewing_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-remove" nc:name="Removing Cookies" nc:link="using_priv_help.xhtml#removing_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-cookies-settings" nc:name="Cookie Manager Settings" nc:link="using_priv_help.xhtml#cookie_manager_settings"/> </rdf:li>
@@ -865,8 +870,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Cookie Preferences" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Stored Cookies" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_sites" nc:name="Cookie Sites" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-
+        <rdf:li><rdf:Description ID="cookie_sites" nc:name="Cookie Websites" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -893,6 +897,26 @@
         <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="Doba platnosti hlavného hesla" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="Vynulovanie hlavného hesla" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Ako zvoliť dobré heslo" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#using-priv-help-private-data">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="types_of_private_data" nc:name="Types of Private Data" nc:link="using_priv_help.xhtml#types_of_private_data"/> </rdf:li>
+        <rdf:li><rdf:Description ID="privatedata_prefs" nc:name="Private Data Preferences" nc:link="using_priv_help.xhtml#private_data_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="clear_private_data_now" nc:name="Clear Private Data Now" nc:link="using_priv_help.xhtml#clear_private_data_now"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+<rdf:Description about="#private-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="opening_a_private_window" nc:name="Opening a Private Window" nc:link="using_priv_help.xhtml#opening_a_private_window"/> </rdf:li>
+        <rdf:li><rdf:Description ID="behavior_of_a_private_window" nc:name="Behavior of a Private Window" nc:link="using_priv_help.xhtml#behavior_of_a_private_window"/> </rdf:li>
+        <rdf:li><rdf:Description ID="leaving_the_private_browsing_mode" nc:name="Leaving the Private Browsing Mode" nc:link="using_priv_help.xhtml#leaving_the_private_browsing_mode"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -925,6 +949,20 @@
     </nc:subheadings>
   </rdf:Description>
 
+<rdf:Description about="#sec_gen">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="sec_gen_private_data" nc:name="Private Data" nc:link="using_priv_help.xhtml#private_data_prefs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_cookies" nc:name="Cookies" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_images" nc:name="Images" nc:link="using_priv_help.xhtml#images"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_popup_windows" nc:name="Popup Windows" nc:link="cs_priv_prefs_popup.xhtml#privacy_and_security_preferences_popup_windows"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_passwords" nc:name="Passwords" nc:link="passwords_help.xhtml#passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_master_passwords" nc:name="Master Passwords" nc:link="passwords_help.xhtml#master_passwords"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_ssl" nc:name="SSL" nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/> </rdf:li>
+        <rdf:li><rdf:Description ID="sec_gen_certificates" nc:name="Certificates" nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
 
 <!-- USING CERTIFICATES CONTENT -->
 <rdf:Description about="#using-help-certs">
@@ -986,30 +1024,7 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="using-help-certs-validation-how" nc:name="Ako funguje overovanie platnosti" nc:link="using_certs_help.xhtml#how_validation_works"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls" nc:name="Správa CRL" nc:link="using_certs_help.xhtml#managing_crls"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-help-certs-validation-ocsp" nc:name="Nastavenie OCSP" nc:link="using_certs_help.xhtml#configuring_ocsp"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation_prefs" nc:name="Nastavenie overovania platnosti" nc:link="validation_help.xhtml"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#using-help-certs-validation-crls">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-next" nc:name="O dátume Nasledujúcej aktualizácie" nc:link="using_certs_help.xhtml#about_the_next_update_date"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-import" nc:name="Importovanie CRL" nc:link="using_certs_help.xhtml#importing_crls"/> </rdf:li>
-        <rdf:li><rdf:Description ID="using-help-certs-validation-crls-view" nc:name="Zobrazenie a správa CRL" nc:link="using_certs_help.xhtml#viewing_and_managing_crls"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
-<rdf:Description about="#validation_prefs">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li><rdf:Description ID="validation-prefs" nc:name="Nastavenia overenia" nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-manage" nc:name="Správa CRL" nc:link="validation_help.xhtml#manage_crls"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-import" nc:name="Stav importu CRL" nc:link="validation_help.xhtml#crl_import_status"/> </rdf:li>
-        <rdf:li><rdf:Description ID="validation-crl-auto-update-prefs" nc:name="Nastavenia automatickej aktualizácie CRL" nc:link="validation_help.xhtml#automatic_crl_update_preferences"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1060,8 +1075,8 @@
 <rdf:Description about="#web_certs">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Edit Website Certificate Settings" nc:link="certs_help.xhtml#edit_web_site_certificate_trust_settings"/> </rdf:li>
-        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Delete Website Certificate" nc:link="certs_help.xhtml#delete_web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="edit_web_certs" nc:name="Edit Website Certificate Settings" nc:link="certs_help.xhtml#edit_website_certificate_trust_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="delete_web_certs" nc:name="Delete Website Certificate" nc:link="certs_help.xhtml#delete_website_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1085,7 +1100,7 @@
         <rdf:li><rdf:Description ID="backup_your_cert" nc:name="Certificate Backup" nc:link="cert_dialog_help.xhtml#certificate_backup"/> </rdf:li>
         <rdf:li><rdf:Description ID="which_cert" nc:name="User Identification Request" nc:link="cert_dialog_help.xhtml#user_identification_request"/> </rdf:li>
         <rdf:li><rdf:Description ID="new_ca" nc:name="New Certificate Authority" nc:link="cert_dialog_help.xhtml#new_certificate_authority"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Website Certificates" nc:link="cert_dialog_help.xhtml#web_site_certificates"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cert-dialog-help-website" nc:name="Website Certificates" nc:link="cert_dialog_help.xhtml#website_certificates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
