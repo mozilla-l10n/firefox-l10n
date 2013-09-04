@@ -5,7 +5,6 @@
 <!-- NAVBAR AND AUTOCOMPLETE -->
 
 <!ENTITY urlbar.emptytext      "Zadajte adresu alebo výraz vyhľadávania">
-<!ENTITY urlbar.accesskey      "d">
 
 <!ENTITY back.label            "Naspäť">
 <!ENTITY forward.label         "Dopredu">
@@ -88,3 +87,23 @@
 <!ENTITY contextSaveVideoLib.label         "Uložiť video do Knižnice">
 <!ENTITY contextCopyVideoLocation.label    "Kopírovať umiestnenie videa">
 <!ENTITY contextOpenVideoTab.label         "Otvoriť video na novej karte">
+
+<!-- KEYBOARD SHORTCUTS -->
+<!ENTITY reload.key "r">
+<!ENTITY focusURL.key "l">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY openFile.key "o">
+<!ENTITY savePage.key "s">
+<!ENTITY find.key "f">
+<!ENTITY findNext.key "g">
+<!ENTITY quit.key "q">
+<!ENTITY addBookmark.key "d">
+<!ENTITY newTab.key "t">
+<!ENTITY newTab2.key "n">
+<!ENTITY closeTab.key "w">
+
+<!-- DEVELOPER SHORTCUTS (control+shift+key) -->
+<!ENTITY jsConsole.key "j">
+<!ENTITY optionsFlyout.key "o">
+<!ENTITY syncFlyout.key "s">
+<!ENTITY aboutFlyout.key "a">

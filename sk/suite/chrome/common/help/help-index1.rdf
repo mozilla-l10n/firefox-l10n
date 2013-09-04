@@ -408,7 +408,7 @@
          nc:link="using_certs_help.xhtml#controlling_validation"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Certificates:web_site"
+       <rdf:Description ID="Certificates:website"
          nc:name="identita webovej stránky"
          nc:link="using_certs_help.xhtml#managing_certificates_that_identify_websites"/>
      </rdf:li>
@@ -586,36 +586,6 @@
        <rdf:Description ID="cookies:viewing"
          nc:name="zobrazenie cookies"
          nc:link="using_priv_help.xhtml#viewing_cookies"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="#CRLs">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="CRLs:about"
-         nc:name="čo sú zrušené certifikáty (CRL)"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:auto_upates_for"
-         nc:name="automatická aktualizácia zrušených certifikátov (CRL)"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:managing"
-         nc:name="správa zrušených certifikátov (CRL)"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:Next_Update_date"
-         nc:name="dátum ďalšej aktualizácie"
-         nc:link="using_certs_help.xhtml#about_the_next_update_date"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:preferences"
-         nc:name="nastavenia zrušených certifikátov (CRL)"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -917,11 +887,6 @@
        <rdf:Description ID="import:certificates"
          nc:name="import certifikátov"
          nc:link="certs_help.xhtml#your_certificates"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="import:crls"
-         nc:name="import zrušených ceritifikátov (CRL)"
-         nc:link="using_certs_help.xhtml#importing_crls"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="import:feeds"
@@ -1382,11 +1347,6 @@
 
 <rdf:Description about="help-indexAZ.rdf#o">
    <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="OSCP"
-         nc:name="OSCP"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline"
          nc:name="Režim Offline"/>
@@ -1405,6 +1365,11 @@
        <rdf:Description ID="Offline:general_preferences"
          nc:name="nastavenia režimu offline"
          nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
+     <rdf:li>
+        <rdf:Description ID="Offline:offline_apps"
+          nc:name="Webové aplikácie v režime offline"
+          nc:link="cs_nav_prefs_advanced.xhtml#offline_apps"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Offline:Mail_and_Newsgroups"
@@ -1686,11 +1651,7 @@
          nc:name="nastavenia prehliadania na kartách"
          nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/>
      </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="preferences:validation"
-         nc:name="nastavenia overovania"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li></rdf:Seq>
+    </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1977,11 +1938,7 @@
          nc:name="nastavenia SSL"
          nc:link="ssl_help.xhtml#ssl_settings"/>
      </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="settings:validation"
-         nc:name="nastavenia overovania"
-         nc:link="validation_help.xhtml#validation_settings"/>
-     </rdf:li></rdf:Seq>
+    </rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -2179,16 +2136,6 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="help-indexAZ.rdf#v">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="validation"
-         nc:name="overenie"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
 <rdf:Description about="#validation">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
@@ -2197,29 +2144,14 @@
          nc:link="using_certs_help.xhtml#how_validation_works"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="validation:auto_updating_CRLs"
-         nc:name="automatická aktualizácia zrušených certifikátov (CRL)"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="validation:CRLs"
-         nc:name="zrušené certifikáty (CRL)"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="validation:managing_CRLs"
-         nc:name="správa zrušených certifikátov (CRL)"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="validation:OCSP"
          nc:name="OCSP"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
+         nc:link="certs_prefs_help.xhtml#ocsp"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="validation:settings"
          nc:name="nastavenia overovania"
-         nc:link="validation_help.xhtml#validation_settings"/>
+         nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
