@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Certificaten bekijken">
 <!ENTITY viewCertificates.accesskey     "C">
-<!ENTITY viewCRLs.label                 "Intrekkingslijsten">
-<!ENTITY viewCRLs.accesskey             "I">
 <!ENTITY validation.label               "Validatie">
 <!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
