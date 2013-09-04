@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Aan ">
-<!ENTITY fromField3.label "Van ">
-<!ENTITY senderField3.label "Afzender ">
-<!ENTITY organizationField3.label "Organisatie ">
-<!ENTITY replyToField3.label "Antwoord-naar ">
+<!ENTITY toField4.label "Aan">
+<!ENTITY fromField4.label "Van">
+<!ENTITY senderField4.label "Afzender">
+<!ENTITY organizationField4.label "Organisatie">
+<!ENTITY replyToField4.label "Antwoord-naar">
 
-<!ENTITY subjectField3.label "Onderwerp ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Nieuwsgroepen ">
-<!ENTITY followupToField3.label "Reacties-naar ">
-<!ENTITY tagsHdr3.label "Labels ">
-<!ENTITY dateField3.label "Datum ">
-<!ENTITY userAgentField3.label "Useragent ">
-<!ENTITY referencesField3.label "Referenties ">
-<!ENTITY messageIdField3.label "Bericht-ID ">
-<!ENTITY inReplyToField3.label "In-antwoord-op ">
-<!ENTITY originalWebsite3.label "Website ">
+<!ENTITY subjectField4.label "Onderwerp">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Nieuwsgroepen">
+<!ENTITY followupToField4.label "Reacties-naar">
+<!ENTITY tagsHdr4.label "Labels">
+<!ENTITY dateField4.label "Datum">
+<!ENTITY userAgentField4.label "Useragent">
+<!ENTITY referencesField4.label "Referenties">
+<!ENTITY messageIdField4.label "Bericht-ID">
+<!ENTITY inReplyToField4.label "In-antwoord-op">
+<!ENTITY originalWebsite4.label "Website">
 
 <!ENTITY editMessageDescription.label "Dit is een berichtconcept">
 <!ENTITY editMessageButton.label "Bewerken…">
