@@ -668,6 +668,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "Tillåt och kom ihåg">
 <!ENTITY pluginBlockNow.label "Blockera insticksmodul">
 
+<!ENTITY tabCrashed.header "Fliken kraschade">
+<!ENTITY tabCrashed.message "Tråkigt nog svarade inte webbsidan när vi försökte visa den.">
+<!ENTITY tabCrashed.tryAgain "Försök igen">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
