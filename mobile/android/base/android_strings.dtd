@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Asennetaan &brandShortName;ia">
-<!ENTITY  splash_bookmarks_history "Päivitetään kirjanmerkkejä ja sivuhistoriaa. Tämä voi kestää reilun minuutin.">
-
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Asetukset">
 <!ENTITY settings_title "Asetukset">
-<!ENTITY pref_category_general "Yleiset">
-<!ENTITY pref_category_privacy "Tietosuoja ja turvallisuus">
-<!ENTITY pref_category_content "Sisältö">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
-<!ENTITY pref_category_datareporting "Data-asetukset">
-<!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
+<!ENTITY pref_category_advanced "Lisäasetukset">
+<!ENTITY pref_category_customize "Muokkaa">
+<!ENTITY pref_category_search2 "Hakuasetukset">
+<!ENTITY pref_category_display "Näyttö">
+<!ENTITY pref_category_privacy_short "Tietosuoja">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Tietojen lähettäminen">
+<!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
+<!ENTITY pref_category_devtools "Web-työkalut (englanninkielisiä)">
+<!ENTITY pref_developer_remotedebugging "Remote debugging">
+<!ENTITY pref_developer_remotedebugging_docs "Lue lisää">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Yleiset">
-<!ENTITY pref_header_privacy "Yksityisyys &amp; turvallisuus">
-<!ENTITY pref_header_content "Sisältö">
+<!ENTITY pref_header_customize "Muokkaa">
+<!ENTITY pref_header_display "Näyttö">
+<!ENTITY pref_header_privacy_short "Tietosuoja">
+<!ENTITY pref_header_help "Ohje">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Web-työkalut (englanninkielisiä)">
 
 <!ENTITY pref_cookies_menu "Evästeet">
 <!ENTITY pref_cookies_accept_all "Sallittu">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Toista painamalla">
 <!ENTITY pref_plugins_disabled "Pois käytöstä">
 <!ENTITY pref_text_size "Tekstin koko">
-<!ENTITY pref_reflow_on_zoom3 "Asettele teksti uudestaan painamalla kaksi kertaa nopeasti">
+<!ENTITY pref_reflow_on_zoom4 "Asettele teksti uudestaan">
+<!ENTITY pref_restore "Välilehdet">
+<!ENTITY pref_restore_always "Palauta aina">
+<!ENTITY pref_restore_crash "Palauta kaatumisen jälkeen">
+<!ENTITY pref_restore_never "Älä palauta koskaan">
 <!ENTITY pref_font_size_tiny "Todella pieni">
 <!ENTITY pref_font_size_small "Pieni">
 <!ENTITY pref_font_size_medium "Keskikoko">
@@ -133,6 +140,11 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Sivustoasetukset">
 <!ENTITY pref_private_data_downloadFiles "Ladatut tiedostot">
 
+
+<!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
+<!ENTITY pref_vendor_faqs "UKK">
+<!ENTITY pref_vendor_feedback "Anna palautetta">
+
 <!ENTITY datareporting_notification_title "&brandShortName;in tilastot ja data">
 <!ENTITY datareporting_notification_action_long "Valitse tiedot, jotka voidaan lähettää eteenpäin">
 <!ENTITY datareporting_notification_action "Valitse lähetettävät tiedot">
@@ -147,14 +159,14 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;in terveydentilaraportti">
-<!ENTITY datareporting_fhr_summary2 "Toiminto auttaa ymmärtämään selaimen suorituskykytasoa ja välittää tiedon selaimen terveydentilasta &vendorShortName;lle">
-<!ENTITY datareporting_abouthr_title "Näytä terveydentilaraportti">
-<!ENTITY datareporting_telemetry_title "Selainmittarit">
-<!ENTITY datareporting_telemetry_summary "&brandShortName; kerää suorituskyky- ja laitteistotietoja sekä tietoja selaimeen tehdyistä muokkauksista, ja lähettää ne &vendorShortName;lle, jotta kykenemme tarjoamaan parhaan mahdollisen selauskokemuksen.">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää kaatumisilmoitukset &vendorShortName;lle, jotta voimme tehdä vakaamman ja turvallisemman selaimen">
+<!ENTITY datareporting_fhr_summary2 "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
+<!ENTITY datareporting_abouthr_title "Avaa terveydentilaraportti">
+<!ENTITY datareporting_telemetry_title "Kaukomittaustiedot">
+<!ENTITY datareporting_telemetry_summary "Lähetä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;ia">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä selaimestasi vakaamman ja turvallisen">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Kaatumisten ilmoitusohjelma">
+<!ENTITY datareporting_crashreporter_title_short "Kaatumisilmoitukset">
 <!ENTITY datareporting_wifi_title "&vendorShortName;n paikannuspalvelut">
 <!ENTITY datareporting_wifi_summary "Auta kehittämään parempia avoimen Internetin paikannuspalveluja sallimalla &brandShortName;in kerätä ja lähettää nimettömänä eteenpäin tietoja matkapuhelinverkosta.">
 
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Välilehdet">
 <!ENTITY tabs_private "Yksityinen">
 <!ENTITY tabs_synced "Synkronoitu">
-<!ENTITY wallpaper_success "Taustakuva päivitetty">
-<!ENTITY wallpaper_progress "Asetetaan taustakuvaa">
-<!ENTITY wallpaper_fail "Taustakuvan asettaminen epäonnistui">
+<!ENTITY set_image_fail "Kuvan asettaminen epäonnistui">
+<!ENTITY set_image_chooser_title "Aseta kuva">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Sivu poistettiin lukulistalta">
 <!ENTITY reading_list_failed "Sivun lisääminen lukulistalle epäonnistui">
 <!ENTITY reading_list_duplicate "Sivu on jo lukulistalla">
-<!ENTITY reader "Lukutila">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Muita toimintoja">
 
 <!ENTITY masterpassword_create_title "Aseta pääsalasana">
 <!ENTITY masterpassword_remove_title "Poista pääsalasana">
@@ -318,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Kirjanmerkit ja sivuhistoria">
 
+<!ENTITY devtools_remote_debugging_forward "Don\'t forget to set up port forwarding!">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_start_select2 "Lataa hipaisemalla">
@@ -329,3 +345,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  
 <!ENTITY updater_apply_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_apply_select2 "Päivitä hipaisemalla">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Uusi vierasistunto">
+<!ENTITY exit_guest_session "Lopeta vierasistunto">
+<!ENTITY guest_session_dialog_continue "Jatka">
+<!ENTITY guest_session_dialog_cancel "Peruuta">
+<!ENTITY new_guest_session_title "&brandShortName; käynnistyy uudestaan">
+<!ENTITY new_guest_session_text "Selaimen käyttäjä vierasistunnon aikana ei voi nähdä henkilökohtaisia selaustietojasi (kuten tallennettuja salasanoja, selaushistoriaa tai kirjanmerkkejä).\n\nKun vierastilan käyttö loppuu, sen aikana kertyneet selaustiedot poistetaan ja aikaisempi istunto palautetaan.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; käynnistyy uudestaan">
+<!ENTITY exit_guest_session_text "Tämän istunnon selaustiedot poistetaan.">
