@@ -707,8 +707,14 @@
 <!ENTITY contextReplyList.accesskey "i">
 <!ENTITY contextForward.label "Doorsturen">
 <!ENTITY contextForward.accesskey "s">
-<!ENTITY contextForwardAsAttachment.label "Doorsturen als bijlagen">
-<!ENTITY contextForwardAsAttachment.accesskey "t">
+<!ENTITY contextForwardAsMenu.label "Doorsturen als">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "In het bericht">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Bijlage">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "B">
+<!ENTITY contextMultiForwardAsAttachment.label "Doorsturen als bijlagen">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Verplaatsen naar">
 <!ENTITY contextMoveMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
