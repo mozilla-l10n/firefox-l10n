@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "CA-certificaat bestuderen">
 <!ENTITY downloadCert.viewPolicy.text "CA-beleid en -procedures bestuderen">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Certificaat bestaat">
-<!ENTITY caCertExists.message "Het certificaat bestaat reeds.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Gebruikersidentificatieverzoek">
 <!ENTITY clientAuthAsk.message1 "Deze website vraagt u zich te identificeren met een beveiligingscertificaat:">
