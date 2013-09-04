@@ -80,8 +80,6 @@
 <!ENTITY examineCert.label "Certificaat bekijken">
 <!ENTITY examineCert.accesskey "b">
 
-<!ENTITY serverCrlNextupdate.message "Vraag uw systeembeheerder om assistentie">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genereren van een privésleutel">
 <!ENTITY createCertInfo.msg1 "Bezig met genereren van sleutel… Dit kan enkele minuten duren…">
