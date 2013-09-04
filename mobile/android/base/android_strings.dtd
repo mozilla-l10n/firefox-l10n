@@ -72,11 +72,6 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Opciones de datos">
 <!ENTITY pref_category_installed_search_engines "Buscadores instalados">
-<!ENTITY pref_category_add_search_providers "Agregar más buscadores">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
-     advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "TRUCO: Podés agregar cualquier sitio web a tu lista de proveedores de búsqueda con una presión larga sobre el campo de búsqueda.">
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_docs "Conocer más">
@@ -109,7 +104,10 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
-<!ENTITY pref_reflow_on_zoom3 "Doble golpe para reformatear texto">
+<!ENTITY pref_reflow_on_zoom4 "Reformatear texto">
+<!ENTITY pref_restore "Pestañas">
+<!ENTITY pref_restore_always "Siempre restaurar">
+<!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
 <!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -140,6 +138,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Datos de sitios sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Opciones del sitio">
 <!ENTITY pref_private_data_downloadFiles "Archivos descargados">
+
+
+<!ENTITY pref_about_firefox "ACerca &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Dar opinicón">
 
 <!ENTITY datareporting_notification_title "Estadísticas y datos de &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Elegir que información compartir">
@@ -191,6 +194,8 @@ size. -->
 <!ENTITY tabs_normal "Pestañas">
 <!ENTITY tabs_private "Privadas">
 <!ENTITY tabs_synced "Sincronizadas">
+<!ENTITY set_image_fail "No se puede establecer imagen">
+<!ENTITY set_image_chooser_title "Poner imagen como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
