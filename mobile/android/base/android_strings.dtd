@@ -288,6 +288,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "welke wordt beheerd door">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Deze pagina toont onvelige inhoud.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft de onveile inhoud geblokkeerd.">
+<!ENTITY blocked_mixed_content_message_bottom "De meeste websites werken gewoon zelfs als deze inhoud wordt geblokkeerd.">
+<!ENTITY learn_more "Meer info">
+<!ENTITY enable_protection "Bescherming inschakelen">
+<!ENTITY disable_protection "Bescherming uitschakelen">
+<!ENTITY keep_blocking "Blijven blokkeren">
+
 <!ENTITY private_data_success "Privégegevens gewist">
 <!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
 
