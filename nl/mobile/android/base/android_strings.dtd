@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
 <!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden getoond op de &brandShortName;-startpagina als u opnieuw start.">
-<!ENTITY  crash_send_report_message2 "Mozilla van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
 <!ENTITY  crash_include_url2 "Het adres van de bezochte website meesturen">
 <!ENTITY  crash_sorry "Het spijt ons">
 <!ENTITY  crash_comment "Voeg commentaar toe (commentaar is publiekelijk zichtbaar)">
-<!ENTITY  crash_allow_contact "Mozilla toestaan om contact met mij op te nemen over dit rapport">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; toestaan om contact met mij op te nemen over dit rapport">
 <!ENTITY  crash_email "Uw e-mailadres">
 <!ENTITY  crash_closing_alert "Afsluiten zonder crashrapport verzenden?">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
