@@ -67,7 +67,7 @@
 <!ENTITY pref_category_advanced "Erweitert">
 <!ENTITY pref_category_customize "Anpassung">
 <!ENTITY pref_category_search2 "Sucheinstellungen">
-<!ENTITY pref_category_display "Anzeige">
+<!ENTITY pref_category_display "Ansicht">
 <!ENTITY pref_category_privacy_short "Privatsphäre">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Datenübermittlung">
@@ -79,7 +79,7 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Anpassung">
-<!ENTITY pref_header_display "Anzeige">
+<!ENTITY pref_header_display "Ansicht">
 <!ENTITY pref_header_privacy_short "Privatsphäre">
 <!ENTITY pref_header_help "Hilfe">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -196,7 +196,7 @@ size. -->
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sync">
 <!ENTITY set_image_fail "Kann Grafik nicht verwenden">
-<!ENTITY set_image_chooser_title "Grafik verwenden als">
+<!ENTITY set_image_chooser_title "Grafik verwenden">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
