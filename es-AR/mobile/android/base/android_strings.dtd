@@ -107,7 +107,8 @@
 <!ENTITY pref_reflow_on_zoom4 "Reformatear texto">
 <!ENTITY pref_restore "Pestañas">
 <!ENTITY pref_restore_always "Siempre restaurar">
-<!ENTITY pref_restore_quit "No restaurar después de salir de &brandShortName;">
+<!ENTITY pref_restore_crash "Restaurar después de un cuelgue">
+<!ENTITY pref_restore_never "Nunca restaurar">
 <!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
