@@ -150,10 +150,9 @@ size. -->
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw browser stabieler en veiliger te maken">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title2 "&brandShortName;-crashreporter">
-<!ENTITY datareporting_crashreporter_title "Crashreporter">
+<!ENTITY datareporting_crashreporter_title_short "Crashreporter">
 
 <!ENTITY pref_update_autodownload "Automatische updates">
 <!ENTITY pref_update_autodownload_wifi "Alleen via Wi-Fi">
