@@ -478,6 +478,9 @@
 <!ENTITY pluginActivateNow.label "Временно разрешить">
 <!ENTITY pluginActivateAlways.label "Разрешить и запомнить">
 <!ENTITY pluginBlockNow.label "Заблокировать плагин">
+<!ENTITY tabCrashed.header "Вкладка упала">
+<!ENTITY tabCrashed.message "Ой, вот ведь незадача. Мы пытались показать вам эту веб-страницу, а она не отзывается.">
+<!ENTITY tabCrashed.tryAgain "Попробовать снова">
 <!ENTITY navbarCmd.accesskey "в">
 <!ENTITY addonBarCmd.label "Панель дополнений">
 <!ENTITY addonBarCmd.accesskey "д">
