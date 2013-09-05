@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
 <!ENTITY bookmark_removed "Bladwijzer verwijderd">
 <!ENTITY bookmark_updated "Bladwijzer bijgewerkt">
+<!ENTITY bookmark_options "Opties">
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
