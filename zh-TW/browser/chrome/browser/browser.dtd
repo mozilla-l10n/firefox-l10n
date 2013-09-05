@@ -668,6 +668,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateAlways.label "永遠允許">
 <!ENTITY pluginBlockNow.label "封鎖外掛程式">
 
+<!ENTITY tabCrashed.header "分頁發生錯誤">
+<!ENTITY tabCrashed.message "哎呀，真尷尬，我們試著要顯示此頁面，但網頁沒有回應。">
+<!ENTITY tabCrashed.tryAgain "重試">
+
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
      kept here to avoid warnings from l10n tools like compare-locales on
      l10n-central. They will be definitely removed when Australis is ready
