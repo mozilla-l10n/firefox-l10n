@@ -703,3 +703,9 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
+
+<!ENTITY tabCrashed.header "Pestaña colgada">
+<!ENTITY tabCrashed.message "Bueno, esto es vergonzoso. Tratamos de mostrar esta página web, pero no está respondiendo.">
+<!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
+
+
