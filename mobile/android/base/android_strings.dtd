@@ -16,11 +16,11 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
 <!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden getoond op de &brandShortName;-startpagina als u opnieuw start.">
-<!ENTITY  crash_send_report_message2 "Mozilla van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
 <!ENTITY  crash_include_url2 "Het adres van de bezochte website meesturen">
 <!ENTITY  crash_sorry "Het spijt ons">
 <!ENTITY  crash_comment "Voeg commentaar toe (commentaar is publiekelijk zichtbaar)">
-<!ENTITY  crash_allow_contact "Mozilla toestaan om contact met mij op te nemen over dit rapport">
+<!ENTITY  crash_allow_contact2 "&vendorShortName; toestaan om contact met mij op te nemen over dit rapport">
 <!ENTITY  crash_email "Uw e-mailadres">
 <!ENTITY  crash_closing_alert "Afsluiten zonder crashrapport verzenden?">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
@@ -42,6 +42,7 @@
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
 <!ENTITY bookmark_removed "Bladwijzer verwijderd">
 <!ENTITY bookmark_updated "Bladwijzer bijgewerkt">
+<!ENTITY bookmark_options "Opties">
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
@@ -100,7 +101,7 @@
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_text_size "Tekstgrootte">
-<!ENTITY pref_reflow_on_zoom2 "Tekst aanpassen bij zoomen">
+<!ENTITY pref_reflow_on_zoom3 "Dubbel tikken om tekst aan te passen">
 <!ENTITY pref_font_size_tiny "Zeer klein">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Gemiddeld">
@@ -133,25 +134,29 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles "Gedownloade bestanden">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action_long "Kies welke informatie u wilt delen">
 <!ENTITY datareporting_notification_action "Kies wat u wilt delen">
 <!ENTITY datareporting_notification_summary "Om uw ervaring te verbeteren verzendt &brandShortName; automatisch een aantal gegevens naar &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Om uw ervaring te verbeteren verzendt &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-statusrapport">
-<!ENTITY datareporting_fhr_summary "Helpt u uw browserprestaties te begrijpen en deelt gegevens met &vendorShortName; over uw browserstatus">
+<!ENTITY datareporting_fhr_summary2 "Deelt gegevens met &vendorShortName; over uw browserstatus en helpt u uw browserprestaties te begrijpen">
+<!ENTITY datareporting_abouthr_title "Statusrapport bekijken">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw browser stabieler en veiliger te maken">
-<!-- Localization note (datareporting_crashreporter_title) : This string matches
-     (crashReporterSection.label) in chrome/browser/preferences/advanced.dtd
-     except in branding. -->
-<!ENTITY datareporting_crashreporter_title "&brandShortName;-crashreporter">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Crashreporter">
+<!ENTITY datareporting_wifi_title "&vendorShortName;-locatiediensten">
+<!ENTITY datareporting_wifi_summary "Help geolocatiediensten voor het openweb te verbeteren door &brandShortName; toe te staan mobiele zendmast informatie te verzamen en deze anoniem te verzenden">
 
 <!ENTITY pref_update_autodownload "Automatische updates">
 <!ENTITY pref_update_autodownload_wifi "Alleen via Wi-Fi">
@@ -283,6 +288,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "welke wordt beheerd door">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Deze pagina toont onvelige inhoud.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft de onveile inhoud geblokkeerd.">
+<!ENTITY blocked_mixed_content_message_bottom "De meeste websites werken gewoon zelfs als deze inhoud wordt geblokkeerd.">
+<!ENTITY learn_more "Meer info">
+<!ENTITY enable_protection "Bescherming inschakelen">
+<!ENTITY disable_protection "Bescherming uitschakelen">
+<!ENTITY keep_blocking "Blijven blokkeren">
 
 <!ENTITY private_data_success "Privégegevens gewist">
 <!ENTITY private_data_fail "Sommige privégegevens konden niet worden gewist">
