@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Gestore app">
+<!ENTITY index.projects "App">
+<!ENTITY index.device "Dispositivo">
+<!ENTITY device.screenshot "Screenshot">
+<!ENTITY device.title "Centro controllo dispositivo">
+<!ENTITY device.notConnected "Non connesso. Connettere un dispositivo nella sezione sottostante.">
+<!ENTITY device.startApp "Avvia">
+<!ENTITY device.stopApp "Blocca">
+<!ENTITY device.debugApp "Debug">
+<!ENTITY device.name "Nome">
+<!ENTITY device.app "App">
+<!ENTITY device.privileged "Privilegiata">
+<!ENTITY device.certified "Certificata">
+<!ENTITY device.allow "Permetti">
+<!ENTITY device.prompt "Chiedi">
+<!ENTITY device.deny "Nega">
+<!ENTITY device.installedApps "App installate">
+<!ENTITY device.permissions "Permessi">
+<!ENTITY connection.disconnect "Disconnetti">
+<!ENTITY connection.showDeviceCtrlCenter "Clic per ulteriori dettagli">
+<!ENTITY connection.notConnected "Non connesso">
+<!ENTITY connection.changeHostAndPort "Modifica">
+<!ENTITY connection.startSimulator "Avvia simulatore">
+<!ENTITY connection.saveConnectionInfo "Salva">
+<!ENTITY connection.connecting "Connessione in corso…">
+<!ENTITY connection.disconnecting "Disconnessione in corso…">
+<!ENTITY connection.cancel "Annulla">
+<!ENTITY connection.or "o">
+<!ENTITY projects.localApps "App locali">
+<!ENTITY projects.addApp "Aggiungi">
+<!ENTITY projects.addPackaged "Aggiungi app packaged">
+<!ENTITY projects.addHosted "Aggiungi app hosted">
+<!ENTITY projects.title "App locali">
+<!ENTITY projects.appDetails "Dettagli app">
+<!ENTITY projects.removeApp "Rimuovi">
+<!ENTITY projects.reloadFiles "Aggiorna">
+<!ENTITY projects.installApp "Installa">
+<!ENTITY projects.startApp "Avvia">
+<!ENTITY projects.stopApp "Blocca">
+<!ENTITY projects.debugApp "Debug">
+<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
+<!ENTITY projects.noProject "Nessun progetto collegato. Aggiungi un'app packaged (una cartella) o un'app hosted (link a un file manifesto).">
