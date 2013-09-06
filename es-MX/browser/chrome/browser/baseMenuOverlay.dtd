@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "Ayuda sobre &brandShortName;">
 <!ENTITY productHelp.accesskey    "y">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Atajos de Keyboard">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
 <!ENTITY helpSafeMode.label       "Reiniciar con complementos deshabilitados">
 <!ENTITY helpSafeMode.accesskey   "R">
 

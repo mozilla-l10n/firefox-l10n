@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "Siguiente">
-<!ENTITY next.accesskey "S">
 <!ENTITY next.tooltip "Ir a la siguiente frase encontrada">
-<!ENTITY previous.label "Anterior">
-<!ENTITY previous.accesskey "A">
 <!ENTITY previous.tooltip "Ir a la anterior frase encontrada">
-<!ENTITY findCloseButton.tooltip "Cerrar la barra de búsqueda">
-<!ENTITY highlight.label "Marcar todo">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "Marcar todas las frases encontradas">
-<!ENTITY caseSensitiveCheckbox.label "Coincidir con mayúsculas y minúsculas">
-<!ENTITY caseSensitiveCheckbox.accesskey "C">
+
+
+
+<!ENTITY highlightAll.tooltiptext "Marcar todas las frases encontradas">
+
+
+
