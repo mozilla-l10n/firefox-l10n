@@ -704,3 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "Activer maintenant">
 <!ENTITY pluginActivateAlways.label "Toujours activer">
 <!ENTITY pluginBlockNow.label "Bloquer ce plugin">
+
+<!ENTITY tabCrashed.header "L'onglet a planté">
+<!ENTITY tabCrashed.message "Hum, c'est embarrassant. Nous avons essayé d'afficher cette page web, mais elle ne répond pas.">
+<!ENTITY tabCrashed.tryAgain "Réessayer">
