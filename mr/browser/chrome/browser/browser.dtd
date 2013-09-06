@@ -50,6 +50,7 @@ can reach it easily. -->
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "बंद केलेल्या टॅब्स पूर्ववत करा">
 <!ENTITY  closeTab.label                     "टॅब बंद करा">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -109,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "स्वीकार करा">
 <!ENTITY fullscreenExitButton.label "नकार करा">
 
+<!ENTITY fullscreenExitHint2.value "बाहेर जाण्यासाठी कुठल्याही वेळी ESC दाबा.">
 <!ENTITY leaveDOMFullScreen.label "पडदाभरपासून बाहेर पडा">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -135,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
 <!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखुणा दाखवा">
-
+<!ENTITY unsortedBookmarksCmd.label "विनाक्रम वाचनखुणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी ओळचिन्ह दर्शवा">
 
 <!ENTITY backCmd.label                "मागे">
@@ -160,7 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "मागे/पुढे">
 <!ENTITY locationItem.title           "स्थळ">
 <!ENTITY searchItem.title             "शोधा">
-
+<!ENTITY bookmarksItem.title          "वाचनखुणा">
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label             "घर, आरंभस्थळ">
@@ -204,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "वेब डेव्हलपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "जोडणी करा…">
@@ -251,8 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "साधने बदलवा">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "डेव्हलपर साधने टॉगल करा">
 <!ENTITY devToolbarOtherToolsButton.label  "आणखी साधने">
@@ -286,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "काढून टाका">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "सर्व निवडा">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -390,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "प्रतिमा माहितीचे दृष्य">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "दृश्य वर्णन (D)">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "विडीओ दृष्य">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "पार्श्वभूमीतील चित्राचे दृष्य">

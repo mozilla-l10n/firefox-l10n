@@ -21,6 +21,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "हा स्त्रोत ब्लॅक बॉक्स केला आहे; याचे ब्रेकपॉइंटस् लागू नाहीत, आणि स्टेपिंग याला वगळते.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
