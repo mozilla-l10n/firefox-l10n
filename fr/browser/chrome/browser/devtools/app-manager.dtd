@@ -14,15 +14,15 @@
 <!ENTITY device.debugApp "Déboguer">
 <!ENTITY device.name "Nom">
 <!ENTITY device.app "Application">
-<!ENTITY device.privileged "privilégiée">
-<!ENTITY device.certified "certifiée">
+<!ENTITY device.privileged "Privilégiée">
+<!ENTITY device.certified "Certifiée">
 <!ENTITY device.allow "Autoriser">
 <!ENTITY device.prompt "Demander">
 <!ENTITY device.deny "Refuser">
 <!ENTITY device.installedApps "Applications installées">
-<!ENTITY device.permissions "Autorisations">
+<!ENTITY device.permissions "Permissions">
 
-<!ENTITY connection.disconnect "Déconnecter">
+<!ENTITY connection.disconnect "Se déconnecter">
 <!ENTITY connection.showDeviceCtrlCenter "Cliquer pour plus de détails">
 <!ENTITY connection.notConnected "Non connecté">
 <!ENTITY connection.changeHostAndPort "Modifier">
