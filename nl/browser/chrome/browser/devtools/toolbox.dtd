@@ -49,3 +49,14 @@
 <!ENTITY options.selectDevToolsTheme.label   "Kies het DevTools-thema:">
 <!ENTITY options.darkTheme.label             "Donker thema">
 <!ENTITY options.lightTheme.label            "Licht thema">
+
+!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+  -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Webconsole">
+
+<!-- LOCALIZATION NOTE (options.enablePersistentLogging.label): This is the
+  -  label for the checkbox that toggles persistent logs in the Web Console,
+  -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
+  -  in the options panel. -->
+<!ENTITY options.enablePersistentLogging.label    "Aanhoudende logs inschakelen">
+   12.22 +<!ENTITY options.enablePersistentLogging.tooltip  "Als u deze optie inschakeld zal de webconsole de uitvoer niet elke keer wissen als u naar een nieuwe pagina gaat">
