@@ -6,19 +6,20 @@
 
 <!ENTITY warningDesc.version        "&leinalaletshwao; le ka dirisiwa.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ka nosi le tlisa lesedi ka dilo tsotlhe le go itirisa go &barekisibaleina; go thusa go khutswafatsa &leinalaletshwao; botoka.">
+<!ENTITY warningDesc.telemetryDesc  "Ka nosi le tlisa lesedi ka dilo tsotlhe le go itirisa go &vendorShortName; go thusa go khutswafatsa &brandShortName; botoka.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.exp.mozillaLink  "&barekisibaleina;">
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ke">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "mokgatlho wa mafatshe">
 <!ENTITY community.exp.end          "o bereka mmogo go dirisa maranyane le go tlisa tetla,go botlhe.">
 
-<!ENTITY community.start2           "&letshwaolaleina; le dirilwe ke">
+<!ENTITY community.start2           "&brandShortName; le dirilwe ke">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ba">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.end3             "ba bereka mmogo go dirisa maranyane le go tlisa tetla,go botlhe.">
