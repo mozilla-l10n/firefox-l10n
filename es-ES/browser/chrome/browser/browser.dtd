@@ -178,6 +178,8 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey "B">
+<!ENTITY devAppMgrMenu.label "Administrador de aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey "A">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Mostrar herramientas">
@@ -478,6 +480,9 @@
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
+<!ENTITY tabCrashed.header "La pestaña ha tenido un error">
+<!ENTITY tabCrashed.message "Esto es embarazoso. Hemos intentado mostrar esta página web, pero no está respondiendo.">
+<!ENTITY tabCrashed.tryAgain "Reintentar">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY addonBarCmd.label "Barra de complementos">
 <!ENTITY addonBarCmd.accesskey "A">
