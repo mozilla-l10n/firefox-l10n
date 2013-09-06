@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Gestionnaire d'applications">
+<!ENTITY index.projects "Mes applications">
+<!ENTITY index.device "Mon appareil">
+
+<!ENTITY device.screenshot "Capture d'écran">
+<!ENTITY device.title "Gestionnaire d'appareils">
+<!ENTITY device.notConnected "Non connecté. Veuillez connecter votre appareil ci-dessous.">
+<!ENTITY device.startApp "Démarrer">
+<!ENTITY device.stopApp "Arrêter">
+<!ENTITY device.debugApp "Déboguer">
+<!ENTITY device.name "Nom">
+<!ENTITY device.app "Application">
+<!ENTITY device.privileged "privilégiée">
+<!ENTITY device.certified "certifiée">
+<!ENTITY device.allow "Autoriser">
+<!ENTITY device.prompt "Demander">
+<!ENTITY device.deny "Refuser">
+<!ENTITY device.installedApps "Applications installées">
+<!ENTITY device.permissions "Autorisations">
+
+<!ENTITY connection.disconnect "Déconnecter">
+<!ENTITY connection.showDeviceCtrlCenter "Cliquer pour plus de détails">
+<!ENTITY connection.notConnected "Non connecté">
+<!ENTITY connection.changeHostAndPort "Modifier">
+<!ENTITY connection.startSimulator "Démarrer le simulateur">
+<!ENTITY connection.saveConnectionInfo "Enregistrer">
+<!ENTITY connection.connecting "Connexion…">
+<!ENTITY connection.disconnecting "Déconnexion…">
+<!ENTITY connection.cancel "Annuler">
+<!ENTITY connection.or "ou">
+
+<!ENTITY projects.localApps "Applications locales">
+<!ENTITY projects.addApp "Ajouter">
+<!ENTITY projects.addPackaged "Ajouter une application empaquetée">
+<!ENTITY projects.addHosted "Ajouter une application hébergée">
+<!ENTITY projects.title "Applications locales">
+<!ENTITY projects.appDetails "Détails de l'application">
+<!ENTITY projects.removeApp "Supprimer">
+<!ENTITY projects.reloadFiles "Actualiser">
+<!ENTITY projects.installApp "Installer">
+<!ENTITY projects.startApp "Démarrer">
+<!ENTITY projects.stopApp "Arrêter">
+<!ENTITY projects.debugApp "Déboguer">
+<!ENTITY projects.hostedManifestPlaceHolder "http://exemple.com/application/webapp.manifest">
+<!ENTITY projects.noProject "Aucun lien vers un projet. Ajoutez ci-dessous une application empaquetée (un répertoire) ou une application hébergée (un lien vers un fichier manifeste).">
