@@ -8,7 +8,7 @@
 <!ENTITY setPassword.oldPassword.label "Առկա Գաղտնաբառը.">
 <!ENTITY setPassword.newPassword.label "Նոր Գաղտնաբառը.">
 <!ENTITY setPassword.reenterPassword.label "Նոր Գաղտնաբառը (նորից).">
-<!ENTITY setPassword.meter.label "Գաղտնաբառի որակի չափանշում">
+<!ENTITY setPassword.meter.label "Գաղտնաբառի ապահովությունը">
 <!ENTITY setPassword.meter.loading "Բեռնավորում եմ">
 <!-- Values for resetpassword.xul -->
 

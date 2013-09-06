@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabGroupsButton.label        "Էջանիշի խմբեր">
 <!ENTITY tabGroupsButton.tooltip      "Խմբավորեք Ձեր էջերը">
 
-<!ENTITY bookmarksButton.label          "Էջանիշներ">
+<!ENTITY bookmarksButton.label          "Էջանիշեր">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
@@ -268,8 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Նոր Պատուհան">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ն">
-<!ENTITY newPrivateWindow.label     "Գաղտնի Դիտարկման նոր պատուհան">
-<!ENTITY newPrivateWindow.accesskey "պ">
+<!ENTITY newPrivateWindow.label     "Սկսել Գաղտնի դիտարկում">
+<!ENTITY newPrivateWindow.accesskey "Գ">
 
 <!ENTITY editMenu.label         "Խմբագրել"> 
 <!ENTITY editMenu.accesskey       "Խ"> 
@@ -361,8 +361,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "Բ">
 <!ENTITY openLinkCmd.label            "Հղումը Բացել Նոր Պատուհանում">
 <!ENTITY openLinkCmd.accesskey        "Բ">
-<!ENTITY openLinkInPrivateWindowCmd.label "Բացել հղումը Գաղտնի Դիտարկման նոր պատուհանում">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "պ">
+<!ENTITY openLinkInPrivateWindowCmd.label "Բացել հղումը Գաղտնի Դիտարկմամբ">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "Դ">
 <!ENTITY openLinkCmdInCurrent.label     "Բացել Հղումը">
 <!ENTITY openLinkCmdInCurrent.accesskey "Բ">
 <!ENTITY openFrameCmdInTab.label      "Շրջանակը բացել նոր ներդիրում">

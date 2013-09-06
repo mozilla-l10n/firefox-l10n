@@ -13,7 +13,7 @@
 #define bookmarks_title Էջանիշեր
 
 
-#define bookmarks_heading Էջանիշներ
+#define bookmarks_heading Էջանիշեր
 
 
 #define bookmarks_toolbarfolder Էջանիշերի Վահանակի թղթապանակը
