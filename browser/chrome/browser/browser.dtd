@@ -178,6 +178,8 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Chiudi la Barra sviluppatori">
 <!ENTITY devToolbarMenu.label "Barra sviluppatori">
 <!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devAppMgrMenu.label "Gestione app">
+<!ENTITY devAppMgrMenu.accesskey "G">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Attiva strumenti">
