@@ -33,7 +33,7 @@
 <!ENTITY engine.passwords.label     "Şifrələr">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "l">
 <!ENTITY engine.addons.label        "Eklentiler">
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
@@ -44,4 +44,4 @@
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "İstifadə Şərtləri">
-<!ENTITY prefs.ppLink.label         "Gizlilik Razılaşması">
+<!ENTITY prefs.ppLink.label         "Gizlilik Siyasəti">

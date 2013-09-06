@@ -19,6 +19,10 @@
 <!ENTITY productHelp.label        "&brandShortName; Kömək">
 <!ENTITY productHelp.accesskey    "K">
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Qısa Düymələr">
+<!ENTITY helpKeyboardShortcuts.accesskey "Q">
+
 <!ENTITY helpSafeMode.label       "Sönülü əlavələrlə başlat…">
 <!ENTITY helpSafeMode.accesskey   "r">
 

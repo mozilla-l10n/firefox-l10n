@@ -18,7 +18,7 @@
 <!ENTITY  generalURL            "URL:">
 <!ENTITY  generalType           "Format:">
 <!ENTITY  generalMode           "Göstərmə rejimi:">
-<!ENTITY  generalSize           "Boyut:">
+<!ENTITY  generalSize           "Həcm:">
 <!ENTITY  generalReferrer       "Yönləndirən URL:">
 <!ENTITY  generalSource         "Qaynaq:">
 <!ENTITY  generalModified       "Dəyişmə tarixi:">
@@ -35,7 +35,7 @@
 <!ENTITY  mediaAltHeader        "Alternativ mətn">
 <!ENTITY  mediaAddress          "Adres">
 <!ENTITY  mediaType             "Format">
-<!ENTITY  mediaSize             "Həcmi">
+<!ENTITY  mediaSize             "Həcm">
 <!ENTITY  mediaCount            "Sayğaç">
 <!ENTITY  mediaDimension        "Ölçülər:">
 <!ENTITY  mediaLongdesc         "Ətraflı açıqlama:">
@@ -58,17 +58,8 @@
 <!ENTITY  permAllowSession      "Bu seans üçün icazə ver">
 <!ENTITY  permBlock             "Blokla">
 <!ENTITY  permissionsFor        "İzinler:">
-<!ENTITY  permImage             "Şəkilləri yüklə">
-<!ENTITY  permPopup             "Peyda olan Pəncərələri Aç">
-<!ENTITY  permCookie            "Çərəz Qur">
-<!ENTITY  permNotifications     "Bildirişləri Göstər">
-<!ENTITY  permInstall           "Bildirişləri Göstər">
-<!ENTITY  permGeo               "Ünvanımı paylaş">
 <!ENTITY  permPlugins           "Əlavəni aktivləşdir">
-<!ENTITY  permFullscreen        "Tam ekrana keç">
-<!ENTITY  permPointerLock2      "Siçanın Göstəricisini Gizlət">
 
-<!ENTITY  permIndexedDB              "Offline fayl saxlamanı idarə et">
 <!ENTITY  permClearStorage           "Saxlananları təmizlə">
 <!ENTITY  permClearStorage.accesskey "t">
 

@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-<!-- entities split out from browser.dtd -->
 
 
-<!ENTITY next.label "Növbəti">
-<!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "Bir sonrakı uyğun gələn ifadəni tap">
-<!ENTITY previous.label "Əvvəlki">
-<!ENTITY previous.accesskey "Ə">
 <!ENTITY previous.tooltip "Bir öncəki uyğun gələn ifadəni tap">
-<!ENTITY findCloseButton.tooltip "Axtarış Sətirini Bağla">
-<!ENTITY highlight.label "Hamısını işıqlandır">
-<!ENTITY highlight.accesskey "H">
-<!ENTITY highlight.tooltiptext "Mətndə uyğun gələn bütün ifadələri işıqlandır">
-<!ENTITY caseSensitiveCheckbox.label "Reqistri nəzərə al">
-<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY findCloseButton.tooltip "Axtarış sətrini bağla">
+<!ENTITY highlightAll.label "Hamısını İşıqlandır">
+<!ENTITY highlightAll.accesskey "H">
+<!ENTITY highlightAll.tooltiptext "Mətndə uyğun gələn bütün ifadələri işıqlandır">
+<!ENTITY caseSensitive.label "Böyük/kiçik hərfə həssaslıq">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "Böyük/kiçik hərf həssaslığı ilə axtar">

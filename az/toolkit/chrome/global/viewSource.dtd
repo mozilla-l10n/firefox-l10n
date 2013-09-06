@@ -12,13 +12,13 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Kaynak: ">
 
-<!ENTITY fileMenu.label "Dosya">
-<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.label "Fayl">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Fərqli saxla…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Səhifə nizamı…">
-<!ENTITY pageSetupCmd.accesskey "f">
+<!ENTITY pageSetupCmd.label "Səhifə Nizamı…">
+<!ENTITY pageSetupCmd.accesskey "ı">
 <!ENTITY printPreviewCmd.label "Çapa ön baxış">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Çap et…">

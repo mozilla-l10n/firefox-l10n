@@ -72,8 +72,8 @@
 <!ENTITY certmgr.close.accesskey              "Q">
 <!ENTITY certmgr.view2.label                  "Bax…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Təhlükəsizlik nizamları...">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Güvəniliri Düzəlt…">
+<!ENTITY certmgr.edit3.accesskey              "D">
 <!ENTITY certmgr.editca.label                 "CA təhlükəsizlik redaktə et">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Ekle">

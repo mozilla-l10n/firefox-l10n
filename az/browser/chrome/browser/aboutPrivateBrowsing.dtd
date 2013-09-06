@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                 "Gizli baxış">
-<!ENTITY privatebrowsingpage.title.normal          "Gizli baxışı başladmaq istəyirsiniz?">
+<!ENTITY privatebrowsingpage.title.normal          "Gizli baxışı başlatmaq istəyirsiniz?">
 
 <!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; bu pəncərəyə aid keçmişi xatırlamayacaqdır.">
 <!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Hazırda gizli pəncərədə deyilsiniz.">

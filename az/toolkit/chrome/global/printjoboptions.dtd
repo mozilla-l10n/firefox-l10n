@@ -6,8 +6,8 @@
 
 <!ENTITY printJobOptions.title "Printer xüsusiyyətləri">
 
-<!ENTITY paperInput.label "Sahifənin ölçüsü:">
-<!ENTITY paperInput.accesskey "f">
+<!ENTITY paperInput.label "Kağızın Ölçüsü:">
+<!ENTITY paperInput.accesskey "K">
 
 <!ENTITY plexInput.label "Plex rejimi:">
 <!ENTITY plexInput.accesskey "m">

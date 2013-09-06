@@ -10,8 +10,8 @@
 
 <!ENTITY fpDialog.title "Fərqli saxla">
 
-<!ENTITY fileCheck.label "Dosyaya yazdır">
-<!ENTITY fileCheck.accesskey "D">
+<!ENTITY fileCheck.label "Fayla çap et">
+<!ENTITY fileCheck.accesskey "F">
 <!ENTITY propertiesButton.label "Xüsusiyyətlər…">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Printer açıqlaması:">

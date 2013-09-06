@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
 <!ENTITY  undoCloseTab.label                 "Bağlanan vərəqləri aç">
 <!ENTITY  undoCloseTab.accesskey             "a">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Bağlanmış vərəqləri geri al">
 <!ENTITY  closeTab.label                     "Vərəqi Qapat">
 <!ENTITY  closeTab.accesskey                 "Q">
 
@@ -73,12 +78,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Menyu sətiri">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Naviqasiya alət sətiri">
-<!ENTITY navbarCmd.accesskey "t">
 <!ENTITY personalbarCmd.label "Əlfəcin Paneli">
 <!ENTITY personalbarCmd.accesskey "Ə">
 <!ENTITY bookmarksToolbarItem.label "Əlfəçin alət sətiri obyektləri">
-<!ENTITY addonBarCmd.label "Əlavələr Paneli">
-<!ENTITY addonBarCmd.accesskey "Ə">
 
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -107,9 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "e">
 <!ENTITY fullscreenAllowButton.label "İcazə ver">
 <!ENTITY fullscreenExitButton.label "Reddet">
-<!ENTITY fullscreenApproval.value "Tam ekrana icazə verilsin?">
 
-<!ENTITY fullscreenExitHint.value "Tam ekrandan çıxmaq üçün ESC düyməsinə basın.">
+<!ENTITY fullscreenExitHint2.value "İstənilən zaman çıxmaq üçün ESC düyməsinə basın.">
 <!ENTITY leaveDOMFullScreen.label "Tam ekrandan çıx">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
@@ -161,22 +162,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardItem.title        "Geri/İrəli">
 <!ENTITY locationItem.title           "Ünvan">
 <!ENTITY searchItem.title             "Axtar">
-<!ENTITY throbberItem.title           "Fəaliyyət göstəricisi">
 <!ENTITY bookmarksItem.title          "Əlfəcinlər">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menyu">
-<!ENTITY appMenuButton.tooltip        "&brandShortName; menyusunu aç">
 <!ENTITY homeButton.label             "Ev">
 
 <!ENTITY tabGroupsButton.label        "Vərəq Qrupları">
 <!ENTITY tabGroupsButton.tooltip      "Vərəqlərinizi qruplandırın">
 
-<!ENTITY feedButton.label             "Abunə ol">
-<!ENTITY feedButton.tooltip           "Bu səhifəyə abunə ol…">
-
 <!ENTITY bookmarksButton.label          "Əlfəcinlər">
-<!ENTITY bookmarksButton.tooltip        "Sizin əlfəcinlərinizi göstər">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
@@ -192,7 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Keçmiș">
-<!ENTITY historyButton.tooltip          "Yaxında baxılan səhifələri göstər">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alətlər">
@@ -200,8 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Bu axtarış üçün Açar söz əlavə et…">
 <!ENTITY keywordfield.accesskey       "A">
-<!ENTITY search.label                 "İnternetdə axtarma">
-<!ENTITY search.accesskey             "a">
+
 <!ENTITY downloads.label              "Endirilənlər">
 <!ENTITY downloads.tooltip            "Davam edən yükləmələrin statusunu göstər">
 <!ENTITY downloads.accesskey          "E">
@@ -213,6 +205,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Veb Proqramçı">
 <!ENTITY webDeveloperMenu.accesskey   "V">
+
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Qoşuldu…">
 <!ENTITY devtoolsConnect.accesskey    "Q">
@@ -259,6 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
+<!ENTITY devToolboxMenuItem.keycode        "İ">
+<!ENTITY devToolboxMenuItem.keytext        "İ">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Mühəndis alətlərinini göstər/gizlət">
 <!ENTITY devToolbarOtherToolsButton.label  "Daha çox alət">
@@ -266,8 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY getMoreDevtoolsCmd.label        "Daha Çox Alətlər">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "Ç">
 
-<!ENTITY fileMenu.label         "Dosya"> 
-<!ENTITY fileMenu.accesskey       "s">
+<!ENTITY fileMenu.label         "Fayl"> 
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Yeni pəncərə">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
@@ -316,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "K">
 <!ENTITY viewCustomizeToolbar.label       "Şəxsiləşdir…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
-<!ENTITY viewTabsOnTop.label            "Vərəqlər Başda">
-<!ENTITY viewTabsOnTop.accesskey        "V">
 
 <!ENTITY historyMenu.label "Tarixçə">
 <!ENTITY historyMenu.accesskey "r">
@@ -326,20 +321,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Yeni bağlanmış pəncərələr">
 <!ENTITY historyRestoreLastSession.label "Əvvəlki seansı bərpa et">
 
-<!ENTITY historyHomeCmd.label "Sətirin əvvəli">
 <!ENTITY showAllHistoryCmd2.label "Bütün keçmişi göstər">
 <!ENTITY showAllHistoryCmd.commandkey "K">
 
-<!ENTITY appMenuEdit.label "Nizam">
 <!ENTITY appMenuCustomize.label "Özelleştir">
-<!ENTITY appMenuToolbarLayout.label "Alət sətiri nizamı…">
-<!ENTITY appMenuSidebars.label "Kənar sətirlər">
-<!ENTITY appMenuFind.label "Axtar…">
-<!ENTITY appMenuUnsorted.label "Sıralanmamış Əlfəcinlər">
-<!ENTITY appMenuWebDeveloper.label "Web inkişaf etdirici">
-<!ENTITY appMenuGettingStarted.label "İlk addım">
-<!ENTITY appMenuSafeMode.label "Əlavələr Söndürülmüş halda Yenidən Başlat…">
-<!ENTITY appMenuSafeMode.accesskey "Y">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ünvanl daxil et və ya axtar">
@@ -408,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "Ş">
 <!ENTITY viewImageInfoCmd.label       "Şəkil məlumatlarını göstər">
 <!ENTITY viewImageInfoCmd.accesskey   "r">
+<!ENTITY viewImageDescCmd.label       "İzahatı Göstər">
+<!ENTITY viewImageDescCmd.accesskey   "İ">
 <!ENTITY viewVideoCmd.label           "Videoya bax">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Arxa fon şəklini göstər">
@@ -543,15 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Yeni pəncərə aç">
 <!ENTITY sidebarCloseButton.tooltip     "Kənar bölməni bağla">
 
-<!ENTITY cutButton.tooltip              "Kes">
-<!ENTITY copyButton.tooltip             "Kopyala">
-<!ENTITY pasteButton.tooltip            "Yapıştır">
-
 <!ENTITY fullScreenButton.tooltip       "Pəncərəni tam ekran göstər">
-
-<!ENTITY zoomOutButton.tooltip          "Uzaqlaş">
-<!ENTITY zoomInButton.tooltip           "Yaxınlaş">
-<!ENTITY zoomControls.label             "Yaxınlaşma seçimləri">
 
 <!ENTITY quitApplicationCmdWin.label       "Çıxış"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ı">
@@ -622,6 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "idarə edən:">
 
 <!ENTITY identity.moreInfoLinkText "Daha çox məlumat…">
+
+<!ENTITY identity.permissions "İzinler">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -638,13 +619,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sinxronlaşdırma">
 
-<!ENTITY addonBarCloseButton.tooltip  "Əlavələr sətirini bağla">
-<!ENTITY toggleAddonBarCmd.key        "/">
-
 <!ENTITY socialToolbar.title        "Sosial Alət Sətiri Düyməsi">
 <!ENTITY social.notLoggedIn.label   "Hesab açılmayıb">
 
-<!ENTITY social.ok.label       "OK">
+<!ENTITY social.ok.label       "Oldu">
 <!ENTITY social.ok.accesskey   "O">
 
 <!ENTITY social.toggleSidebar.label "Kənar sətirini göstər">
@@ -690,3 +668,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginActivateNow.label "İndi icazə ver">
 <!ENTITY pluginActivateAlways.label "İcazə ver və Yadda saxla">
 <!ENTITY pluginBlockNow.label "Qoşmanı Blokla">
+<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
+     kept here to avoid warnings from l10n tools like compare-locales on
+     l10n-central. They will be definitely removed when Australis is ready
+     for mozilla-aurora. -->
+
+
+<!ENTITY navbarCmd.accesskey           "t">
+<!ENTITY addonBarCmd.label             "Əlavələr Paneli">
+<!ENTITY addonBarCmd.accesskey         "Ə">
+<!ENTITY throbberItem.title            "Fəaliyyət göstəricisi">
+<!ENTITY appMenuButton.label           "Menyu">
+<!ENTITY appMenuButton.tooltip         "&brandShortName; menyusunu aç">
+<!ENTITY feedButton.label              "Abunə ol">
+<!ENTITY feedButton.tooltip            "Bu səhifəyə abunə ol…">
+<!ENTITY bookmarksButton.tooltip       "Sizin əlfəcinlərinizi göstər">
+<!ENTITY historyButton.tooltip         "Yaxında baxılan səhifələri göstər">
+<!ENTITY viewTabsOnTop.label           "Vərəqlər Başda">
+<!ENTITY viewTabsOnTop.accesskey       "V">
+<!ENTITY appMenuEdit.label             "Düzəlt">
+<!ENTITY appMenuToolbarLayout.label    "Alətlər Paneli Görünüşü…">
+<!ENTITY appMenuSidebars.label         "Kənar sətirlər">
+<!ENTITY appMenuFind.label             "Axtar…">
+<!ENTITY appMenuUnsorted.label         "Sıralanmamış Əlfəcinlər">
+<!ENTITY appMenuWebDeveloper.label     "Web inkişaf etdirici">
+<!ENTITY appMenuGettingStarted.label   "İlk addım">
+<!ENTITY appMenuSafeMode.label         "Əlavələr Söndürülmüş halda Yenidən Başlat…">
+<!ENTITY appMenuSafeMode.accesskey     "Y">
+<!ENTITY cutButton.tooltip             "Kes">
+<!ENTITY copyButton.tooltip            "Kopyala">
+<!ENTITY pasteButton.tooltip           "Yapıştır">
+<!ENTITY zoomOutButton.tooltip         "Uzaqlaş">
+<!ENTITY zoomInButton.tooltip          "Yaxınlaş">
+<!ENTITY zoomControls.label            "Yaxınlaşma seçimləri">
+<!ENTITY addonBarCloseButton.tooltip   "Əlavələr sətirini bağla">
+<!ENTITY toggleAddonBarCmd.key         "/">
+<!-- end of strings to be removed post-Australis -->

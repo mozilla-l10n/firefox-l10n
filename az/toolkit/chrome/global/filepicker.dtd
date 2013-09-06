@@ -9,7 +9,7 @@
 <!ENTITY filterMenuList.label   "Fayl növləri:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Ad">
-<!ENTITY size.label             "Həcmi">
+<!ENTITY size.label             "Həcm">
 <!ENTITY lastModified.label     "Son değişiklik">
 <!ENTITY showHiddenFiles.label  "Gizli fayl və qovluqları göstər">
 <!ENTITY showHiddenFiles.accesskey  "S">

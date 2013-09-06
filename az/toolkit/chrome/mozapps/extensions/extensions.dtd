@@ -140,7 +140,7 @@
 <!ENTITY detail.updateManual.tooltip          "Yeniləmələri avtomatik quraşdırma">
 <!ENTITY detail.home                          "Ana səhifə">
 <!ENTITY detail.repository                    "Əlavənin ID nömrəsi">
-<!ENTITY detail.size                          "Həcmi">
+<!ENTITY detail.size                          "Həcm">
 
 <!ENTITY detail.checkForUpdates.label         "Yeniləmələrə bax…">
 <!ENTITY detail.checkForUpdates.accesskey     "b">

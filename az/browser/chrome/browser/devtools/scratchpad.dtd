@@ -22,8 +22,8 @@
 
 <!ENTITY window.title                 "Qaralama Dəftəri">
 
-<!ENTITY fileMenu.label               "Dosya">
-<!ENTITY fileMenu.accesskey           "D">
+<!ENTITY fileMenu.label               "Fayl">
+<!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "Yeni pəncərə">
 <!ENTITY newWindowCmd.accesskey       "n">
@@ -50,8 +50,8 @@
 <!ENTITY closeCmd.key                 "K">
 <!ENTITY closeCmd.accesskey           "Q">
 
-<!ENTITY editMenu.label               "Nizam">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Düzəlt">
+<!ENTITY editMenu.accesskey           "D">
 
 <!ENTITY run.label                    "Başlat">
 <!ENTITY run.accesskey                "R">
