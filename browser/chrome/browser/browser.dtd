@@ -242,7 +242,7 @@
 <!ENTITY historyUndoWindowMenu.label "Finestre chiuse di recente">
 <!ENTITY historyRestoreLastSession.label "Ripristina la sessione precedente">
 <!ENTITY showAllHistoryCmd2.label "Visualizza la cronologia">
-<!ENTITY showAllHistoryCmd.commandkey "V">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
