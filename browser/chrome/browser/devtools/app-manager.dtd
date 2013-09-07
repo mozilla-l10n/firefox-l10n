@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "應用程式管理員">
+<!ENTITY index.projects "我的應用程式">
+<!ENTITY index.device "我的裝置">
+
+<!ENTITY device.screenshot "擷圖">
+<!ENTITY device.title "裝置控制台">
+<!ENTITY device.notConnected "未連線，請在下方連線到您的裝置。">
+<!ENTITY device.startApp "開始">
+<!ENTITY device.stopApp "停止">
+<!ENTITY device.debugApp "除錯">
+<!ENTITY device.name "名稱">
+<!ENTITY device.app "程式">
+<!ENTITY device.privileged "已授權">
+<!ENTITY device.certified "已驗證">
+<!ENTITY device.allow "允許">
+<!ENTITY device.prompt "提示">
+<!ENTITY device.deny "拒絕">
+<!ENTITY device.installedApps "已安裝的應用程式">
+<!ENTITY device.permissions "權限">
+
+<!ENTITY connection.disconnect "取消連線">
+<!ENTITY connection.showDeviceCtrlCenter "點選以取得更多詳情">
+<!ENTITY connection.notConnected "未連線">
+<!ENTITY connection.changeHostAndPort "變更">
+<!ENTITY connection.startSimulator "開始模擬器">
+<!ENTITY connection.saveConnectionInfo "儲存">
+<!ENTITY connection.connecting "連線中…">
+<!ENTITY connection.disconnecting "正在離線…">
+<!ENTITY connection.cancel "取消">
+<!ENTITY connection.or "或">
+
+<!ENTITY projects.localApps "本機應用程式">
+<!ENTITY projects.addApp "新增">
+<!ENTITY projects.addPackaged "新增應用程式封裝">
+<!ENTITY projects.addHosted "新增架設的應用程式">
+<!ENTITY projects.title "本機應用程式">
+<!ENTITY projects.appDetails "應用程式詳細資訊">
+<!ENTITY projects.removeApp "移除">
+<!ENTITY projects.reloadFiles "更新">
+<!ENTITY projects.installApp "安裝">
+<!ENTITY projects.startApp "開始">
+<!ENTITY projects.stopApp "停止">
+<!ENTITY projects.debugApp "除錯">
+<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
+<!ENTITY projects.noProject "未鏈結專案。在下方新增封裝的應用程式（一格資料夾），或是架設的應用程式（安裝資訊檔的鏈結路徑）。">
+
