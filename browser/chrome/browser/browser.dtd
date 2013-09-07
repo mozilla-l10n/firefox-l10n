@@ -188,6 +188,8 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrollador">
 <!ENTITY devToolbarMenu.label "Barra de desarrollador">
 <!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
+<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Activar herramientas">
@@ -492,7 +494,9 @@
 <!ENTITY social.chatBar.label "Concentrarse en los chats">
 <!ENTITY social.chatBar.accesskey "c">
 <!ENTITY social.markpage.accesskey "m">
+<!ENTITY social.markpageMenu.label "Guardar enlace a…">
 <!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.marklinkMenu.label "Guardar enlace a…">
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
@@ -511,3 +515,7 @@
 <!ENTITY pluginActivateNow.label "Permitir ahora">
 <!ENTITY pluginActivateAlways.label "Permitir y recordar">
 <!ENTITY pluginBlockNow.label "Bloquear complemento">
+
+<!ENTITY tabCrashed.header "Pestaña colgada">
+<!ENTITY tabCrashed.message "Esto es vergonzoso. Hemos intentado mostrar esta página Web, pero no está respondiendo.">
+<!ENTITY tabCrashed.tryAgain "Intentar nuevamente">
