@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup               "&brandShortName;i seadistamine">
-<!ENTITY  splash_bookmarks_history       "Uuendame sinu järjehoidjaid ja ajalugu, see võib võtta minuti või nii.">
-
 <!ENTITY  no_space_to_start_error        "&brandShortName;i käivitamiseks pole piisavalt vaba ruumi.">
 <!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings                        "Sätted">
 <!ENTITY settings_title                  "Sätted">
-<!ENTITY pref_category_general           "Üldine">
-<!ENTITY pref_category_privacy           "Privaatsus ja turvalisus">
-<!ENTITY pref_category_content           "Sisu">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced          "Muud sätted">
+<!ENTITY pref_category_customize         "Kohandamine">
+<!ENTITY pref_category_search2           "Otsingu sätted">
+<!ENTITY pref_category_display           "Kuvamine">
+<!ENTITY pref_category_privacy_short     "Privaatsus">
+<!ENTITY pref_category_vendor            "&vendorShortName;">
 <!ENTITY pref_category_datareporting     "Saadetavad andmed">
-<!ENTITY pref_about_firefox              "&brandShortName;ist">
+<!ENTITY pref_category_installed_search_engines "Paigaldatud otsingumootorid">
+<!ENTITY pref_category_devtools          "Arendajale">
+<!ENTITY pref_developer_remotedebugging  "Remote debugging">
+<!ENTITY pref_developer_remotedebugging_docs "Learn more">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general             "Üldine">
-<!ENTITY pref_header_privacy             "Privaatsus ja turvalisus">
-<!ENTITY pref_header_content             "Sisu">
+<!ENTITY pref_header_customize           "Kohandamine">
+<!ENTITY pref_header_display             "Kuvamine">
+<!ENTITY pref_header_privacy_short       "Privaatsus">
+<!ENTITY pref_header_help                "Abi">
+<!ENTITY pref_header_vendor              "&vendorShortName;">
+<!ENTITY pref_header_devtools            "Arendajale">
 
 <!ENTITY pref_cookies_menu               "Küpsised">
 <!ENTITY pref_cookies_accept_all         "lubatud">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play        "esitamiseks peab puudutama">
 <!ENTITY pref_plugins_disabled           "keelatud">
 <!ENTITY pref_text_size                  "Teksti suurus">
-<!ENTITY pref_reflow_on_zoom3            "Topeltpuudutusel mahutatakse tekst ekraanile">
+<!ENTITY pref_reflow_on_zoom4            "Tekst mahutatakse ekraanile">
+<!ENTITY pref_restore                    "Kaardid">
+<!ENTITY pref_restore_always             "taastatakse alati">
+<!ENTITY pref_restore_crash              "taastatakse pärast veaga sulgumist">
+<!ENTITY pref_restore_never              "jäävad taastamata">
 <!ENTITY pref_font_size_tiny             "tilluke">
 <!ENTITY pref_font_size_small            "väike">
 <!ENTITY pref_font_size_medium           "keskmine">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps   "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
 <!ENTITY pref_private_data_siteSettings2 "Saidi sätted">
 <!ENTITY pref_private_data_downloadFiles "Allalaaditud failid">
+
+
+<!ENTITY pref_about_firefox              "&brandShortName;ist">
+<!ENTITY pref_vendor_faqs                "KKK">
+<!ENTITY pref_vendor_feedback            "Anna tagasisidet">
 
 <!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
 <!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal                     "Kaardid">
 <!ENTITY tabs_private                    "Privaatne">
 <!ENTITY tabs_synced                     "Sünkroniseeritud">
-<!ENTITY wallpaper_success               "Taustapilt uuendatud">
-<!ENTITY wallpaper_progress              "Taustapildi seadistamine">
-<!ENTITY wallpaper_fail                  "Taustapildi seadistamine polnud võimalik">
+<!ENTITY set_image_fail                  "Pilti pole võimalik määrata">
+<!ENTITY set_image_chooser_title         "Määra pilt ...">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
 <!ENTITY reading_list_failed             "Lehe lisamine lugemisnimekirja ebaõnnestus">
 <!ENTITY reading_list_duplicate          "Leht on juba lugemisnimekirjas">
-<!ENTITY reader                          "Luger">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Lisategevused">
 
 <!ENTITY masterpassword_create_title     "Ülemparooli loomine">
 <!ENTITY masterpassword_remove_title     "Ülemparooli eemaldamine">
@@ -318,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description          "Järjehoidjad ja ajalugu">
 
+<!ENTITY devtools_remote_debugging_forward "Don\'t forget to set up port forwarding!">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2            "&brandShortName;ile on saadaval uuendus">
 <!ENTITY updater_start_select2           "Uuenduse allalaadimiseks puuduta.">
@@ -329,3 +345,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2            "&brandShortName;ile on saadaval uuendus">
 <!ENTITY updater_apply_select2           "Uuendamiseks puuduta">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session               "Uus külalisseanss">
+<!ENTITY exit_guest_session              "Välju külalisseansist">
+<!ENTITY guest_session_dialog_continue   "Jätka">
+<!ENTITY guest_session_dialog_cancel     "Loobu">
+<!ENTITY new_guest_session_title         "&brandShortName; taaskäivitub nüüd">
+<!ENTITY new_guest_session_text          "Inimene, kes seda kasutab, ei näe sinu isiklikke veebilehitsemise andmeid (näiteks salvestatud paroolid, ajalugu ja järjehoidjad).\n\nKui külaline on kasutamise lõpetanud, siis kustutatakse tema veebilehitsemise andmed ning sinu seanss taastatakse.">
+
+<!ENTITY exit_guest_session_title        "&brandShortName; taaskäivitub nüüd">
+<!ENTITY exit_guest_session_text         "Selle seansi veebilehitsemise andmed kustutatakse.">
