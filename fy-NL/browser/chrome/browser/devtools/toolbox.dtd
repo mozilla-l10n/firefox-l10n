@@ -63,7 +63,7 @@
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 <!ENTITY options.selectDevToolsTheme.label   "Untwikkeltema kieze:">
-<!ENTITY options.darkTheme.label             "Doker tema">
+<!ENTITY options.darkTheme.label             "Donker tema">
 <!ENTITY options.lightTheme.label            "Ljocht tema">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
