@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey                "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label                            "Tõmba kirjad">
+<!ENTITY getMsgButton1.label                           "Tõmba kirjad">
 <!ENTITY newMsgButton.label                            "Kirjuta">
 <!ENTITY replyButton.label                             "Vasta">
 <!ENTITY replyAllButton.label                          "Vasta kõigile">
