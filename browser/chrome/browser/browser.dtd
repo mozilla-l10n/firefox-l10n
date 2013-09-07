@@ -464,8 +464,10 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
-<!ENTITY social.markpage.accesskey "m">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.markpage.accesskey "P">
+<!ENTITY social.markpageMenu.label "Guardar página en…">
+<!ENTITY social.marklink.accesskey "L">
+<!ENTITY social.marklinkMenu.label "Guardar enlace como">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
