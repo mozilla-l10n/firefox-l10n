@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "إلى ">
-<!ENTITY fromField3.label "مِن ">
-<!ENTITY senderField3.label "المرسِل ">
-<!ENTITY organizationField3.label "المنظمة ">
-<!ENTITY replyToField3.label "رد إلى ">
+<!ENTITY toField4.label "إلى">
+<!ENTITY fromField4.label "من">
+<!ENTITY senderField4.label "المرسِل">
+<!ENTITY organizationField4.label "المنظمة">
+<!ENTITY replyToField4.label "رد إلى">
 
-<!ENTITY subjectField3.label "الموضوع ">
-<!ENTITY ccField3.label "نسخة إلى ">
-<!ENTITY bccField3.label "نسخة مخفاة إلى ">
-<!ENTITY newsgroupsField3.label "المجموعة البريدية ">
-<!ENTITY followupToField3.label "استكمال رد إلى ">
-<!ENTITY tagsHdr3.label "الوسوم ">
-<!ENTITY dateField3.label "التاريخ ">
-<!ENTITY userAgentField3.label "عميل المستخدم ">
-<!ENTITY referencesField3.label "المراجع ">
-<!ENTITY messageIdField3.label "معرّف الرسالة ">
-<!ENTITY inReplyToField3.label "ردًا على ">
-<!ENTITY originalWebsite3.label "الموقع ">
+<!ENTITY subjectField4.label "الموضوع">
+<!ENTITY ccField4.label "ن.ك">
+<!ENTITY bccField4.label "ن.ك.م">
+<!ENTITY newsgroupsField4.label "مجموعات أخبار">
+<!ENTITY followupToField4.label "تابع إلى">
+<!ENTITY tagsHdr4.label "الوسوم">
+<!ENTITY dateField4.label "التاريخ">
+<!ENTITY userAgentField4.label "عميل المستخدم">
+<!ENTITY referencesField4.label "المراجع">
+<!ENTITY messageIdField4.label "معرّف الرسالة">
+<!ENTITY inReplyToField4.label "ردًا على">
+<!ENTITY originalWebsite4.label "الموقع">
 
 <!ENTITY editMessageDescription.label "هذه رسالة مسوّدة">
 <!ENTITY editMessageButton.label "حرّر…">
@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.tooltip "ردّ على القائمة البريدية">
 <!ENTITY hdrFollowupButton1.label "متابعة">
 <!ENTITY hdrFollowupButton1.tooltip "أرسل متابعة إلى مجموعو الأخبار">
+<!ENTITY hdrMenuForwardButton.label "مرّر ك‍">
 <!ENTITY hdrForwardButton1.label "مرّر">
 <!ENTITY hdrForwardButton1.tooltip "مرّر هذه الرسالة">
 <!ENTITY hdrJunkButton1.label "سخام">

@@ -14,6 +14,8 @@
 
 <!ENTITY manageSubscriptions.label "أدر الاشتراكات…"> 
 <!ENTITY manageSubscriptions.accesskey "د">
+
+<!ENTITY feedWindowTitle.label "مرشد حسابات التلقيمات">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "تلقيمات المدونات والأخبار">

@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "اعرض الشهادات">
 <!ENTITY viewCertificates.accesskey     "ش">
-<!ENTITY viewCRLs.label                 "قوائم النقض">
-<!ENTITY viewCRLs.accesskey             "ض">
 <!ENTITY validation.label               "الصلاحية">
 <!ENTITY validation.accesskey           "ص">
 <!ENTITY viewSecurityDevices.label      "أجهزة الأمن">
