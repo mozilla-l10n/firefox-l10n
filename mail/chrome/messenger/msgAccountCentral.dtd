@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label        "تلقيمات المدونات و الأخبار">
 <!ENTITY subscribeFeeds.label         "أدر الاشتراكات">
 
+<!ENTITY chat.label                   "دردشة">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label     "الحسابات">
 <!ENTITY subscribeImapFolders.label   "أدر اشتراكات المجلدات">
 <!ENTITY settingsLink.label           "اعرض إعدادات هذا الحساب">
 <!ENTITY newAcctLink.label            "أنشئ حسابا جديدا">
+<!ENTITY newAcct.label                "أنشئ حسابًا جديدًا:">
 
 <!ENTITY advFeaturesSectionHdr.label  "الميزات المتقدمة">
 <!ENTITY searchMsgsLink.label         "ابحث في الرسائل">

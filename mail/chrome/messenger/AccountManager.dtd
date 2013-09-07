@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "ح">
 <!ENTITY addIMAccountButton.label "أضِف حساب دردشة…">
 <!ENTITY addIMAccountButton.accesskey "د">
+<!ENTITY addFeedAccountButton.label "أضِف حساب تلقيمات…">
+<!ENTITY addFeedAccountButton.accesskey "ت">
 <!ENTITY addOtherAccountButton.label "أضِف حسابًا من نوع آخر…">
 <!ENTITY addOtherAccountButton.accesskey "خ">
 <!ENTITY setDefaultButton.label "اجعله المبدئي">
