@@ -69,7 +69,7 @@
 <!ENTITY options.darkTheme.label             "Donker thema">
 <!ENTITY options.lightTheme.label            "Licht thema">
 
-!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
+<!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 <!ENTITY options.webconsole.label            "Webconsole">
 
