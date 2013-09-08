@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Написання листа: (без теми)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Файл"> 
+<!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Новий">
 <!ENTITY newMenu.accesskey "Н">
@@ -55,20 +55,20 @@
 <!ENTITY printCmd.accesskey "Д">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Редагування"> 
+<!ENTITY editMenu.label "Редагування">
 <!ENTITY editMenu.accesskey "Р">
 <!ENTITY undoCmd.label "Скасувати">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "н"> 
+<!ENTITY undoCmd.accesskey "н">
 <!ENTITY redoCmd.label "Повторити">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "т"> 
+<!ENTITY redoCmd.accesskey "т">
 <!ENTITY cutCmd.label "Вирізати">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р"> 
+<!ENTITY cutCmd.accesskey "р">
 <!ENTITY copyCmd.label "Копіювати">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "п"> 
+<!ENTITY copyCmd.accesskey "п">
 <!ENTITY pasteCmd.label "Вставити">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "т">
@@ -83,7 +83,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "П">
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "с"> 
+<!ENTITY selectAllCmd.accesskey "с">
 <!ENTITY findCmd.label "Знайти і замінити…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "м">
@@ -94,13 +94,13 @@
 <!ENTITY findPrevCmd.label "Знайти попереднє">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "п"> 
+<!ENTITY findPrevCmd.accesskey "п">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Вигляд"> 
+<!ENTITY viewMenu.label "Вигляд">
 <!ENTITY viewMenu.accesskey "В">
-<!ENTITY viewToolbarsMenuNew.label "Панелі інструментів"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "н"> 
+<!ENTITY viewToolbarsMenuNew.label "Панелі інструментів">
+<!ENTITY viewToolbarsMenuNew.accesskey "н">
 <!ENTITY menubarCmd.label "Панель меню">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showCompositionToolbarCmd.label "Панель інструментів написання листа">
@@ -112,8 +112,8 @@
 <!ENTITY customizeToolbar.label "Налаштувати…">
 <!ENTITY customizeToolbar.accesskey "Н">
 
-<!ENTITY addressSidebar.label "Панель контактів"> 
-<!ENTITY addressSidebar.accesskey "к"> 
+<!ENTITY addressSidebar.label "Панель контактів">
+<!ENTITY addressSidebar.accesskey "к">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Формат">
@@ -139,8 +139,8 @@
 <!ENTITY returnReceiptMenu.accesskey "С">
 <!ENTITY dsnMenu.label "Стан сповіщення про доставку">
 <!ENTITY dsnMenu.accesskey "д">
-<!ENTITY outputFormatMenu.label "Формат">
-<!ENTITY outputFormatMenu.accesskey "Ф">
+<!ENTITY deliveryFormatMenu.label "Формат доставки">
+<!ENTITY deliveryFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Автовизначення">
 <!ENTITY autoFormatCmd.accesskey "А">
 <!ENTITY plainTextFormatCmd.label "Звичайний текст">
@@ -181,13 +181,13 @@
 <!ENTITY preferencesCmd.label "Налаштування…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label       "Налаштування">
-<!ENTITY preferencesCmdUnix.accesskey   "Н"> 
+<!ENTITY preferencesCmdUnix.accesskey   "Н">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Згорнути вікно">
 <!ENTITY bringAllToFront.label "Помістити всі на передній план">
-<!ENTITY zoomWindow.label "Розвернути вікно"> 
+<!ENTITY zoomWindow.label "Розвернути вікно">
 <!ENTITY windowMenu.label "Вікно">
 
 <!-- Mail Toolbar -->
@@ -199,13 +199,13 @@
 <!ENTITY saveButton.label "Зберегти">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Відіслати цього листа зараз"> 
-<!ENTITY sendlaterButton.tooltip "Відіслати цей лист пізніше"> 
-<!ENTITY quoteButton.tooltip "Цитувати попереднй лист"> 
-<!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги"> 
-<!ENTITY attachButton.tooltip "Вкласти файл в цей лист"> 
+<!ENTITY sendButton.tooltip "Відіслати цього листа зараз">
+<!ENTITY sendlaterButton.tooltip "Відіслати цей лист пізніше">
+<!ENTITY quoteButton.tooltip "Цитувати попереднй лист">
+<!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
+<!ENTITY attachButton.tooltip "Вкласти файл в цей лист">
 <!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
-<!ENTITY saveButton.tooltip "Зберегти цей лист"> 
+<!ENTITY saveButton.tooltip "Зберегти цей лист">
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">
@@ -216,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Від:">
 <!ENTITY fromAddr.accesskey "д">
-<!ENTITY toAddr.label "Кому:"> 
-<!ENTITY ccAddr.label "Копія:"> 
-<!ENTITY bccAddr.label "Прих. копія:"> 
-<!ENTITY replyAddr.label "Зворотна адреса:"> 
-<!ENTITY newsgroupsAddr.label "Група новин:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
+<!ENTITY toAddr.label "Кому:">
+<!ENTITY ccAddr.label "Копія:">
+<!ENTITY bccAddr.label "Прих. копія:">
+<!ENTITY replyAddr.label "Зворотна адреса:">
+<!ENTITY newsgroupsAddr.label "Група новин:">
+<!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

@@ -9,34 +9,34 @@
 <!ENTITY folderCharsetTab.accesskey              "К">
 <!ENTITY folderCharsetOverride.label             "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
 <!ENTITY folderCharsetOverride.accesskey         "м">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
+<!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "ч">
+<!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Включати листи у цій теці в результати Глобального пошуку">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
      
-<!ENTITY retention.label "Налаштування збереження повідомлень">
+<!ENTITY retention.label "Налаштування збереження листів">
 <!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
 <!ENTITY retentionUseAccount.accesskey "м">
 <!ENTITY daysOld.label "днів">
-<!ENTITY message.label "повідомлень">
-<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі повідомлення можуть бути стерті">
-<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути стерті назавжди. Як локальні копії, так і оригінали на віддаленому сервері.">
-<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути стерті назавжди, включно з оригіналами на віддаленому сервері.">
-<!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
+<!ENTITY message.label "листів">
+<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі листи можуть бути видалені">
+<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди. Як локальні копії, так і оригінали на віддаленому сервері.">
+<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди, включно з оригіналами на віддаленому сервері.">
+<!ENTITY retentionDeleteMsg.label "Видаляти листи старші за">
 <!ENTITY retentionDeleteMsg.accesskey "л">
-<!ENTITY retentionKeepAll.label "Не вилучати повідомлення">
+<!ENTITY retentionKeepAll.label "Не видаляти листи">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Видаляти все крім останніх">
+<!ENTITY retentionKeepRecent.accesskey "о">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionKeepUnreadHidden.label "Завжди видаляти прочитані листи (ігнорувати вік листів)">
 <!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 
 <!ENTITY folderSynchronizationTab.label          "Синхронізація">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.label         "При отриманні нових повідомлень для цього облікового запису, завжди перевіряти цю теку">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
@@ -64,3 +64,10 @@
 <!ENTITY folderQuotaRoot.label                   "Квота:">
 <!ENTITY folderQuotaUsage.label                  "Використано:">
 <!ENTITY folderQuotaStatus.label                 "Стан:">
+
+<!ENTITY numberOfMessages.label                  "Кількість листів:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "невідома">
+<!ENTITY sizeOnDisk.label                        "Розмір на диску:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "невідомий">

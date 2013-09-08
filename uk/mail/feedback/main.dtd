@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY testpilot.brand.label                          "Test Pilot">
+<!ENTITY testpilot.brand.label                          "Випробувач">
 <!-- browser window: menu and status bar -->
-<!ENTITY testpilot.settings.label                       "Settings">
-<!ENTITY testpilot.settings.dataSubmission.label        "Data Submission">
-<!ENTITY testpilot.settings.notifications.label         "Notifications">
-<!ENTITY testpilot.settings.notifyWhen.label            "Notify me when…">
-<!ENTITY testpilot.settings.readyToSubmit.label         "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label              "There's a new study">
-<!ENTITY testpilot.settings.hasNewResults.label         "A study has new results">
+<!ENTITY testpilot.settings.label                       "Налаштування">
+<!ENTITY testpilot.settings.dataSubmission.label        "Відсилання даних">
+<!ENTITY testpilot.settings.notifications.label         "Сповіщення">
+<!ENTITY testpilot.settings.notifyWhen.label            "Сповіщати мене, коли…">
+<!ENTITY testpilot.settings.readyToSubmit.label         "Дослід готовий до надсилання">
+<!ENTITY testpilot.settings.newStudy.label              "Є новий Дослід">
+<!ENTITY testpilot.settings.hasNewResults.label         "Дослід має нові результати">
 <!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Always submit my data (don't ask me)">
-<!ENTITY testpilot.allYourStudies.label                 "All Your User Studies…">
-<!ENTITY testpilot.about.label                          "About Test Pilot">
+<!ENTITY testpilot.allYourStudies.label                 "Всі ваші Досліди…">
+<!ENTITY testpilot.about.label                          "Про Випробувача">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Your Test Pilot Studies">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Current Studies">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Finished Studies">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
-<!ENTITY testpilot.studiesWindow.settings.label         "Settings">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait…">
+<!ENTITY testpilot.studiesWindow.title                  "Ваші випробувані Досліди">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Поточні Досліди">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Завершені Досліди">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Знахідки Дослідів">
+<!ENTITY testpilot.studiesWindow.settings.label         "Налаштування">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Завантаження, будь ласка, зачекайте…">
 
 <!-- raw data dialog -->
-<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Raw Data">
+<!ENTITY testpilot.rawDataWindow.title                  "Випробувач: сирі дані">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip           "Close">
+<!ENTITY testpilot.notification.close.tooltip           "Закрити">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                         "Turn On User Studies">
-<!ENTITY testpilot.feedbackbutton.label                 "Feedback">
-<!ENTITY testpilot.happy.label                          "Firefox Made Me Happy Because…">
-<!ENTITY testpilot.sad.label                            "Firefox Made Me Sad Because…">
-<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird Made Me Happy Because…">
-<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird Made Me Sad Because…">
-<!ENTITY testpilot.broken.label                         "Report this website as broken…">
-<!ENTITY testpilot.idea.label                           "Give us a suggestion…">
+<!ENTITY testpilot.enable.label                         "Увімкнути Дослідження Користувачів">
+<!ENTITY testpilot.feedbackbutton.label                 "Відгук">
+<!ENTITY testpilot.happy.label                          "Firefox мене порадував тим, що…">
+<!ENTITY testpilot.sad.label                            "Firefox мене засмутив тим, що…">
+<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird порадував мене тим, що…">
+<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird засмутив мене тим, що…">
+<!ENTITY testpilot.broken.label                         "Цей сайт поламався…">
+<!ENTITY testpilot.idea.label                           "Підказати ідею…">
