@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Hantera appar">
+<!ENTITY index.projects "Mina appar">
+<!ENTITY index.device "Min enhet">
+
+<!ENTITY device.screenshot "Skärmdump">
+<!ENTITY device.title "Kontrollpanel för enheter">
+<!ENTITY device.notConnected "Ej ansluten. Anslut enheten nedan.">
+<!ENTITY device.startApp "Starta">
+<!ENTITY device.stopApp "Stoppa">
+<!ENTITY device.debugApp "Avlusa">
+<!ENTITY device.name "Namn">
+<!ENTITY device.app "App">
+<!ENTITY device.privileged "Privilegierad">
+<!ENTITY device.certified "Certifierad">
+<!ENTITY device.allow "Tillåt">
+<!ENTITY device.prompt "Fråga">
+<!ENTITY device.deny "Neka">
+<!ENTITY device.installedApps "Installerade appar">
+<!ENTITY device.permissions "Rättigheter">
+
+<!ENTITY connection.disconnect "Koppla ned">
+<!ENTITY connection.showDeviceCtrlCenter "Klicka för fler detaljer">
+<!ENTITY connection.notConnected "Ej ansluten">
+<!ENTITY connection.changeHostAndPort "Ändra">
+<!ENTITY connection.startSimulator "Starta simulator">
+<!ENTITY connection.saveConnectionInfo "Spara">
+<!ENTITY connection.connecting "Ansluter …">
+<!ENTITY connection.disconnecting "Kopplar ned …">
+<!ENTITY connection.cancel "Avbryt">
+<!ENTITY connection.or "eller">
+
+<!ENTITY projects.localApps "Lokala appar">
+<!ENTITY projects.addApp "Lägg till">
+<!ENTITY projects.addPackaged "Lägg till paketerad app">
+<!ENTITY projects.addHosted "Lägg till appar på webben">
+<!ENTITY projects.title "Lokala appar">
+<!ENTITY projects.appDetails "Appdetaljer">
+<!ENTITY projects.removeApp "Ta bort">
+<!ENTITY projects.reloadFiles "Uppdatera">
+<!ENTITY projects.installApp "Installera">
+<!ENTITY projects.startApp "Starta">
+<!ENTITY projects.stopApp "Stoppa">
+<!ENTITY projects.debugApp "Avlusa">
+<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
+<!ENTITY projects.noProject "Inget länkat projekt. Lägg till en ny paketerad app nedan (en mapp) eller en app på webben (länk till en manifest-fil).">
