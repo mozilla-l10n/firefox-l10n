@@ -37,7 +37,7 @@
 <!ENTITY tableInheritColor.label           "(Буде видний фон сторінки)">
 
 <!ENTITY cellSelection.label              "Виділення">
-<!ENTITY cellSelectCell.label             "Кітинок">
+<!ENTITY cellSelectCell.label             "Клітинок">
 <!ENTITY cellSelectRow.label              "Строки">
 <!ENTITY cellSelectColumn.label           "Стовпців">
 <!ENTITY cellSelectNext.label             "Наступної">
