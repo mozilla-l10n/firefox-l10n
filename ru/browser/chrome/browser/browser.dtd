@@ -178,6 +178,8 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
 <!ENTITY devToolbarMenu.accesskey "а">
+<!ENTITY devAppMgrMenu.label "Управление приложениями">
+<!ENTITY devAppMgrMenu.accesskey "в">
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label "Показать/скрыть инструменты">
@@ -463,7 +465,9 @@
 <!ENTITY social.chatBar.label "Переключаться на чаты">
 <!ENTITY social.chatBar.accesskey "ч">
 <!ENTITY social.markpage.accesskey "а">
+<!ENTITY social.markpageMenu.label "Сохранить страницу в…">
 <!ENTITY social.marklink.accesskey "а">
+<!ENTITY social.marklinkMenu.label "Сохранить ссылку в…">
 <!ENTITY getUserMedia.selectCamera.label "Доступ к камере:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">

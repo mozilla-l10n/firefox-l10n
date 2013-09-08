@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY index.title "Управление приложениями">
+<!ENTITY index.projects "Мои приложения">
+<!ENTITY index.device "Мое устройство">
+<!ENTITY device.screenshot "Скриншот">
+<!ENTITY device.title "Центр управления приложениями">
+<!ENTITY device.notConnected "Не подсоединено. Пожалуйста, подсоедините ниже ваше устройство.">
+<!ENTITY device.startApp "Запустить">
+<!ENTITY device.stopApp "Остановить">
+<!ENTITY device.debugApp "Отладка">
+<!ENTITY device.name "Имя">
+<!ENTITY device.app "Приложение">
+<!ENTITY device.privileged "Привилегировано">
+<!ENTITY device.certified "Сертифицировано">
+<!ENTITY device.allow "Разрешить">
+<!ENTITY device.prompt "Запрос">
+<!ENTITY device.deny "Отклонить">
+<!ENTITY device.installedApps "Установленные приложения">
+<!ENTITY device.permissions "Разрешения">
+<!ENTITY connection.disconnect "Отсоединить">
+<!ENTITY connection.showDeviceCtrlCenter "Щёлкните для подробностей">
+<!ENTITY connection.notConnected "Не соединено">
+<!ENTITY connection.changeHostAndPort "Изменить">
+<!ENTITY connection.startSimulator "Запустить симулятор">
+<!ENTITY connection.saveConnectionInfo "Сохранить">
+<!ENTITY connection.connecting "Соединение…">
+<!ENTITY connection.disconnecting "Отсоединение…">
+<!ENTITY connection.cancel "Отмена">
+<!ENTITY connection.or "или">
+<!ENTITY projects.localApps "Локальные приложения">
+<!ENTITY projects.addApp "Добавить">
+<!ENTITY projects.addPackaged "Добавить упакованное приложение">
+<!ENTITY projects.addHosted "Добавить размещённое приложение">
+<!ENTITY projects.title "Локальные приложения">
+<!ENTITY projects.appDetails "Сведения о приложении">
+<!ENTITY projects.removeApp "Удалить">
+<!ENTITY projects.reloadFiles "Обновить">
+<!ENTITY projects.installApp "Установить">
+<!ENTITY projects.startApp "Запустить">
+<!ENTITY projects.stopApp "Остановить">
+<!ENTITY projects.debugApp "Отладка">
+<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
+<!ENTITY projects.noProject "Не связан ни один проект. Добавьте новое упакованное приложение (каталог) или размещенное приложение (ссылка на файл манифеста).">
