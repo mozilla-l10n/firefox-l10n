@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY pluginWizard.title                                  "Служба пошуку плагінів">
 <!ENTITY pluginWizard.firstPage.title                        "Вас вітає &pluginWizard.title;">
 
@@ -32,13 +35,10 @@
 <!ENTITY missingPlugin                                       "Для відображення цього вмісту потрібен плагін.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Тицьніть сюди щоб активувати плагін.">
-<!ENTITY clickToPlayPlugin                                   "Клацніть сюди щоб активувати плагін.">
-<!ENTITY clickToPlayPluginVulnerableUpdateAvailable          "Клацніть сюди щоб активувати вразливий плагін.">
-<!ENTITY clickToPlayPluginVulnerableNoUpdate                 "Клацніть сюди щоб активувати вразливий плагін (оновлення недоступні).">
+<!ENTITY clickToActivatePlugin                               "Активувати плагін.">
 <!ENTITY checkForUpdates                                     "Перевірити оновлення…">
 <!ENTITY disabledPlugin                                      "Цей плагін вимкнено.">
 <!ENTITY blockedPlugin.label                                 "Цей плагін був блокований задля вашого захисту.">
-
 <!ENTITY installPlugin                                       "Встановити плагін…">
 <!ENTITY managePlugins                                       "Керувати плагінами…">
 
@@ -55,3 +55,8 @@
 <!ENTITY report.disabled                                     "Звітування вимкнене.">
 <!ENTITY report.failed                                       "Відіслати не вдалось.">
 <!ENTITY report.unavailable                                  "Звіт недоступний.">
+<!ENTITY report.comment                                      "Додати коментар (коментарі публічно видимі)">
+<!ENTITY report.pageURL                                      "Включити адресу сторінки">
+
+<!ENTITY plugin.file                                         "Файл">
+<!ENTITY plugin.mimeTypes                                    "MIME-типи">
