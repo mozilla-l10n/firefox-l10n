@@ -105,8 +105,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "р">
 <!ENTITY  event.menu.options.link.label                       "Добавить ссылку…">
 <!ENTITY  event.menu.options.link.accesskey                   "Д">
-<!ENTITY  event.menu.options.timezone2.label                   "Часовой пояс">
-<!ENTITY  event.menu.options.timezone2.accesskey               "Ч">
+<!ENTITY  event.menu.options.timezone2.label                  "Часовой пояс">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Ч">
 <!ENTITY  event.menu.options.priority2.label                  "Приоритет">
 <!ENTITY  event.menu.options.priority2.accesskey              "р">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Не определен">
@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey                         "М">
 <!ENTITY event.categories.label                           "Категория:">
 <!ENTITY event.categories.accesskey                       "К">
+<!ENTITY event.categories.textbox.label                   "Добавить новую категорию" >
+<!ENTITY event.categories.textbox.accesskey               "ю">
 <!ENTITY event.calendar.label                             "Календарь:" >
 <!ENTITY event.calendar.accesskey                         "а">
 <!ENTITY event.attendees.label                            "Участники:" >
@@ -171,6 +173,8 @@
 <!ENTITY task.status.accesskey                            "т">
 <!ENTITY event.repeat.label                               "Повтор:" >
 <!ENTITY event.repeat.accesskey                           "П">
+<!ENTITY event.until.label                                "До:">
+<!ENTITY event.until.accesskey                            "о">
 <!ENTITY event.reminder.label                             "Напоминание:" >
 <!ENTITY event.reminder.accesskey                         "и">
 <!ENTITY event.description.label                          "Описание:" >
@@ -178,9 +182,9 @@
 <!ENTITY event.attachments.label                          "Вложения:" >
 <!ENTITY event.attachments.accesskey                      "В" >
 <!ENTITY event.attachments.menubutton.label               "Прикрепить">
-<!ENTITY event.attachments.menubutton.accesskey           "ь">
+<!ENTITY event.attachments.menubutton.accesskey           "П">
 <!ENTITY event.attachments.url.label                      "Веб-страница…">
-<!ENTITY event.attachments.url.accesskey                  "ц">
+<!ENTITY event.attachments.url.accesskey                  "В">
 <!ENTITY event.attachments.popup.remove.label             "Удалить" >
 <!ENTITY event.attachments.popup.remove.accesskey         "ь" >
 <!ENTITY event.attachments.popup.open.label               "Открыть" >
@@ -332,7 +336,7 @@
 <!ENTITY event.attendee.usertype.individual     "Человек">
 <!ENTITY event.attendee.usertype.group          "Группа">
 <!ENTITY event.attendee.usertype.resource       "Ресурс">
-<!ENTITY event.attendee.usertype.room           "Компания">
+<!ENTITY event.attendee.usertype.room           "Комната">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Укажите часовой пояс">
