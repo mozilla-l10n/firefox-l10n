@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Console web distante">
 
-<!ENTITY browserConsoleCmd.label      "Console navigateur">
+<!ENTITY browserConsoleCmd.label      "Console du navigateur">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "n">
 

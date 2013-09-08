@@ -9,7 +9,7 @@
   - documentation on web development on the web. -->
 
 <!ENTITY window.title "Console web">
-<!ENTITY browserConsole.title "Console navigateur">
+<!ENTITY browserConsole.title "Console du navigateur">
 
 <!ENTITY networkPanel.requestURLColon             "URL de la requête :">
 <!ENTITY networkPanel.requestMethodColon          "Méthode de la requête :">
