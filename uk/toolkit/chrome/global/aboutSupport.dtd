@@ -21,6 +21,11 @@
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Історія оновлень">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показати історію оновлень">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Тека профілю">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
@@ -46,6 +51,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значення">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Вподобання user.js">
+<!ENTITY aboutSupport.userJSDescription "Ваша папка профілю містить <a id='prefs-user-js-link'>файл user.js file</a> з вподобаннями, котрі не були створені програмою &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -60,4 +69,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Історія встановлень">
 <!ENTITY aboutSupport.updateHistoryTitle "Історія оновлень">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Копіювати все в буфер обміну">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Копіювати текст у буфер">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Копіювати необроблені дані в буфер">
