@@ -2,15 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Настройки">
-<!ENTITY  prefWindow.titleGNOME   "Настройки &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 51.5em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 54em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 54em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "Основные">
 <!ENTITY  paneAlarms.title        "Оповещения">
 <!ENTITY  paneCategories.title    "Категории">
 <!ENTITY  paneViews.title         "Обзоры">
 <!ENTITY  paneTimezones.title     "Часовой пояс">
-<!ENTITY  paneAdvanced.title      "Дополнительно">
