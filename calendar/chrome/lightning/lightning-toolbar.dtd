@@ -34,3 +34,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "К">
 <!ENTITY lightning.toolbar.month.label               "Місяць">
 <!ENTITY lightning.toolbar.month.accesskey           "М">
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+     from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "Меню програми">
+<!ENTITY lightning.toolbar.appmenuButton.tooltip     "Показує меню програми">
