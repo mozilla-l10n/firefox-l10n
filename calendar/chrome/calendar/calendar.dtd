@@ -308,7 +308,7 @@
 <!ENTITY calendarproperties.name.label                     "Название:">
 <!ENTITY calendarproperties.readonly.label                 "Только для чтения">
 <!ENTITY calendarproperties.firealarms.label               "Показывать оповещения">
-<!ENTITY calendarproperties.cache3.label                    "Автономная работа">
+<!ENTITY calendarproperties.cache2.label                    "Кэшировать">
 <!ENTITY calendarproperties.enabled.label                  "Включите этот календарь">
 <!ENTITY calendarproperties.forceDisabled.label            "Провайдер для этого календаря не найден. Зачастую это происходит после отключения или удаления специальных дополнений.">
 <!ENTITY calendarproperties.unsubscribe.label              "Отменить подписку">
@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Код ошибки:">
 <!ENTITY calendar.error.description "Описание:">
 <!ENTITY calendar.error.title "Произошла ошибка">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Добавить как событие">
+<!ENTITY calendar.extract.task.button          "Добавить как задачу">
+<!ENTITY calendar.extract.event.button.tooltip "Извлечь календарную информацию из сообщения и добавить в календарь как событие">
+<!ENTITY calendar.extract.task.button.tooltip  "Извлечь календарную информацию из сообщения и добавить в календарь как задачу">
