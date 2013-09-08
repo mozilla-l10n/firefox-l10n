@@ -1,4 +1,6 @@
-browser/chrome/browser/devtools/gcli.properties
+https://bitbucket.org/tymofiy/l10n-mozilla-beta/commits/7db1d998cf66c7d2bde7ccbf2474b7144ad21595
+https://bitbucket.org/tymofiy/l10n-mozilla-beta/commits/e6240cf6b56927b42a86accfb8562d3f2212c16d
+
 browser/chrome/browser/devtools/gclicommands.properties
 browser/chrome/browser/devtools/styleeditor.dtd
 browser/chrome/browser/devtools/styleeditor.properties
@@ -14,8 +16,12 @@ dom/chrome/layout/htmlparser.properties
 security/manager/chrome/pipnss/nsserrors.properties (grep SSL_ERROR_RX_UNEXPECTED_NEW_SESSION_TICKET, SEC_ERROR_OUT_OF_SEARCH_LIMITS )
 security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 
-mail/feedback/main.dtd
-mail/feedback/main.properties
+? toolkit/chrome/global/devtools/debugger.properties
+? toolkit/chrome/global/webapps.properties
+
+toolkit/chrome/global/aboutTelemetry*
+
+
 M editor/ui/chrome/composer/editor.dtd
 M editor/ui/chrome/composer/editorOverlay.dtd
 M editor/ui/chrome/dialogs/EditorImageProperties.dtd
@@ -36,6 +42,7 @@ M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
   mail/chrome/messenger-newsblog/newsblog.properties
+? mail/chrome/messenger/viewZoomOverlay.dtd
 
 smtpDescription.label
 
