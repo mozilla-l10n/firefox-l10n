@@ -32,6 +32,6 @@
 <!ENTITY button.importOPML.accesskey "І">
 <!ENTITY button.exportOPML.label     "Експортувати">
 <!ENTITY button.exportOPML.accesskey "Е">
-<!ENTITY button.exportOPML.tooltip   "Експортувати подачі зі структурою тек; натисніть ctrl або ctrl і enter, щоб експорувати подачі як список">
+<!ENTITY button.exportOPML.tooltip   "Експортувати подачі зі структурою тек; натисніть ctrl або ctrl і enter, щоб експортувати подачі як список">
 
 <!ENTITY cmd.close.commandKey        "к">
