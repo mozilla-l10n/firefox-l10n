@@ -16,13 +16,13 @@
 <!ENTITY device.privileged "Привилегировано">
 <!ENTITY device.certified "Сертифицировано">
 <!ENTITY device.allow "Разрешить">
-<!ENTITY device.prompt "Запрос">
-<!ENTITY device.deny "Отклонить">
+<!ENTITY device.prompt "По запросу">
+<!ENTITY device.deny "Отказать">
 <!ENTITY device.installedApps "Установленные приложения">
 <!ENTITY device.permissions "Разрешения">
 <!ENTITY connection.disconnect "Отсоединить">
 <!ENTITY connection.showDeviceCtrlCenter "Щёлкните для подробностей">
-<!ENTITY connection.notConnected "Не соединено">
+<!ENTITY connection.notConnected "Не подсоединено">
 <!ENTITY connection.changeHostAndPort "Изменить">
 <!ENTITY connection.startSimulator "Запустить симулятор">
 <!ENTITY connection.saveConnectionInfo "Сохранить">
