@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Параметри сервера вихідних листів (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
+<!ENTITY smtpDescription.label "Під час налаштування ваших ідентичностей, ви можете використати сервер з цього списку, вибравши його як Вихідний Сервер (SMTP), або ви можете використати типовий сервер з цього списку, вибравши &quot;Використовувати типовий сервер&quot;.">
 
 <!ENTITY smtpListAdd.label  "Додати…">
 <!ENTITY smtpListAdd.accesskey  "д">

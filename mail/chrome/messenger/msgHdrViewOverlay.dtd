@@ -68,6 +68,10 @@
 <!ENTITY otherActionsPrint1.label "Друкувати…">
 <!ENTITY otherActionsPrint1.accesskey "Д">
 
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Початково показувати панель вкладень">
+<!ENTITY startExpandedCmd.accesskey    "в">
+
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Відкрити">
 <!ENTITY openAttachmentCmd.accesskey    "В">

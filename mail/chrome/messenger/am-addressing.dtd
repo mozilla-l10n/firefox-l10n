@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Написання">
+<!ENTITY compositionGroupTitle.label          "Написання">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Писати листи у форматі HTML">
 <!ENTITY useHtml.accesskey                    "С">
@@ -39,3 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey          "в">
 <!ENTITY includeSigOnForward.label            "Включати підпис у пересланих">
 <!ENTITY includeSigOnForward.accesskey        "п">
+
+<!ENTITY globalComposingPrefs.label           "Глобальні налаштування написання…">
+<!ENTITY globalComposingPrefs.accesskey       "Г">
+
+<!ENTITY globalAddressingPrefs.label          "Глобальні налаштування адресації…">
+<!ENTITY globalAddressingPrefs.accesskey      "А">

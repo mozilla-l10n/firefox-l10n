@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "Підтримка декількох ідентифікаторів">
+<!ENTITY identitiesListManageDesc.label "Керуйте ел. адресами цього облікового запису. Перша адреса використовується за замовчанням.">
 <!ENTITY identitiesListAdd.label  "Додати…">
 <!ENTITY identitiesListAdd.accesskey  "Д">
 <!ENTITY identitiesListEdit.label "Змінити…">
 <!ENTITY identitiesListEdit.accesskey "З">
+<!ENTITY identitiesListDefault.label "Встановити типовою">
+<!ENTITY identitiesListDefault.accesskey "т">
 <!ENTITY identitiesListDelete.label "Вилучити">
 <!ENTITY identitiesListDelete.accesskey "В">
 <!ENTITY identitiesListClose.label "Close">
