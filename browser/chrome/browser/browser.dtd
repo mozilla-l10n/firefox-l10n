@@ -132,11 +132,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "P">
 <!ENTITY shareLinkCmd.label "Partager ce lien">
 <!ENTITY shareLinkCmd.accesskey "a">
-<!ENTITY shareImageCmd.label "Partager cette image">
-<!ENTITY shareImageCmd.accesskey "m">
+<!ENTITY shareImageCmd.label "Partager l'image">
+<!ENTITY shareImageCmd.accesskey "t">
 <!ENTITY shareSelectCmd.label "Partager la sélection">
 <!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Partager cette vidéo">
+<!ENTITY shareVideoCmd.label "Partager la vidéo">
 <!ENTITY shareVideoCmd.accesskey "a">
 <!ENTITY subscribeToPageMenupopup.label "S'abonner à cette page">
 <!ENTITY subscribeToPageMenuitem.label "S'abonner à cette page…">
