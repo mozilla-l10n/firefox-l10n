@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Чи використовували ви &syncBrand.fullName.label; дотепер?">
 <!ENTITY setup.choicePage.new.label       "Ніколи">
-<!ENTITY setup.choicePage.existing.label  "Вже використовую цей додаток на іншому пристрої">
+<!ENTITY setup.choicePage.existing2.label "Я вже використовую &syncBrand.shortName.label; на іншому пристрої">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
@@ -33,6 +33,9 @@
 <!ENTITY setup.choosePassword.accesskey  "В">
 <!ENTITY setup.confirmPassword.label     "Підтвердження пароля">
 <!ENTITY setup.confirmPassword.accesskey "д">
+<!ENTITY setup.setupMetro.label     "Синхронізуватись з &brandShortName; в інтерфейсі Windows 8">
+<!ENTITY setup.setupMetro.accesskey "S">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Я погоджуюсь з">
@@ -66,7 +69,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Уведіть код, що надає пристрій:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Спробуйте ще раз.">
 <!ENTITY addDevice.dialog.successful.label  "Пристрій успішно додано. Початкова синхронізація триватиме кілька хвилин і завершиться на тлі.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Щоб активувати ваш пристрій вам треба ввести ключ відновлення. Надрукуйте чи зберезіть цей ключ та візьміть його з собою.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Щоб активувати ваш пристрій вам треба ввести ключ відновлення. Надрукуйте чи збережіть цей ключ та візьміть його з собою.">
 <!ENTITY addDevice.dialog.connected.label   "Пристрій під’єднано">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -78,8 +81,8 @@
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Варіанти синхронізації">
-<!ENTITY syncComputerName.label       "Назва комп’ютера:">
-<!ENTITY syncComputerName.accesskey   "Н">
+<!ENTITY syncDeviceName.label       "Назва пристрою:">
+<!ENTITY syncDeviceName.accesskey   "Н">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
@@ -95,16 +98,16 @@
 <!ENTITY engine.addons.label        "Додатки">
 <!ENTITY engine.addons.accesskey    "Д">
 
-<!ENTITY choice2.merge.main.label      "Об’єднати дані на цьому комп’ютері з моїми даними &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Об’єднати дані на цьому пристрої з моїми даними  &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Рекомендовано:">
-<!ENTITY choice2.client.main.label     "Замінити дані на цьому комп’ютері моїми даними &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Замінити дані на інших пристроях даними з цього комп’ютера">
+<!ENTITY choice2a.client.main.label      "Замінити всі дані на цьому пристрої моїми даними  &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Замінити дані на всіх інших пристроях даними з цього пристрою">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Підтвердіть">
-<!ENTITY confirm.merge.label    "Ви обрали об’єднання даних на цьому комп’ютері з даними на інших пристроях, що використовують синхронізацію  &syncBrand.fullName.label;.">
-<!ENTITY confirm.client2.label         "Увага: Наступні дані &brandShortName; на цьому комп’ютері будуть видалені:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; скопіює дані &syncBrand.fullName.label; на цей комп’ютер.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; увіллє всі дані браузера з цього пристрою у ваш акаунт Sync.">
+<!ENTITY confirm.client3.label         "Увага: наступні дані &brandShortName; на цьому пристрою будуть видалені:">
+<!ENTITY confirm.client2.moreinfo.label "Потім &brandShortName; скопіює ваші дані  &syncBrand.fullName.label; на цей пристрій.">
 <!ENTITY confirm.server2.label         "Увага: На наступних пристроях всі дані будуть замінені на ваші локальні:">
 
 <!-- New & Existing Account: Setup Complete -->
