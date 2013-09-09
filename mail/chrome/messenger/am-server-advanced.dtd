@@ -25,8 +25,6 @@
 <!ENTITY overrideNamespaces.label "Дозволити серверу перекривати ці простори імен">
 <!ENTITY overrideNamespaces.accesskey "І">
 <!ENTITY pop3Desc.label "При отриманні пошти з даного сервера POP3, поміщати її в наступну теку:" >
-<!ENTITY globalInbox.label "Загальна тека «Вхідні» (знаходиться в Локальних теках)">
-<!ENTITY globalInbox.accesskey "т">
 <!ENTITY accountDirectory.label "«Вхідні» для даного облікового запису">
 <!ENTITY accountDirectory.accesskey "а">
 <!ENTITY deferToServer.label "«Вхідні» для іншого облікового запису">
