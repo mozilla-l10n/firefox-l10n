@@ -2,24 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Кому ">
-<!ENTITY fromField3.label "Від ">
-<!ENTITY senderField3.label "Відправник ">
-<!ENTITY organizationField3.label "Організація ">
-<!ENTITY replyToField3.label "Відповідати-до ">
+<!ENTITY toField4.label "Кому">
+<!ENTITY fromField4.label "Від">
+<!ENTITY senderField4.label "Відправник">
+<!ENTITY organizationField4.label "Організація">
+<!ENTITY replyToField4.label "Відповідати до">
 
-<!ENTITY subjectField3.label "Тема ">
-<!ENTITY ccField3.label "Копія ">
-<!ENTITY bccField3.label "Прихована копія ">
-<!ENTITY newsgroupsField3.label "Групи новин ">
-<!ENTITY followupToField3.label "Продовження до ">
-<!ENTITY tagsHdr3.label "Мітки ">
-<!ENTITY dateField3.label "Дата ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "References ">
-<!ENTITY messageIdField3.label "Message ID ">
-<!ENTITY inReplyToField3.label "У відповідь на ">
-<!ENTITY originalWebsite3.label "Сайт ">
+<!ENTITY subjectField4.label "Тема">
+<!ENTITY ccField4.label "Копія">
+<!ENTITY bccField4.label "Прихована копія">
+<!ENTITY newsgroupsField4.label "Група новин">
+<!ENTITY followupToField4.label "Продовження до">
+<!ENTITY tagsHdr4.label "Мітки">
+<!ENTITY dateField4.label "Дата">
+<!ENTITY userAgentField4.label "User agent">
+<!ENTITY referencesField4.label "References">
+<!ENTITY messageIdField4.label "Message ID">
+<!ENTITY inReplyToField4.label "У відповід на">
+<!ENTITY originalWebsite4.label "Сайта">
 
 <!ENTITY editMessageDescription.label "це чернетка">
 <!ENTITY editMessageButton.label "редагувати…">
@@ -32,8 +32,9 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
 <!ENTITY hdrReplyListButton1.label "Відповісти списку">
 <!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.label "Продовжити">
+<!ENTITY hdrFollowupButton1.tooltip "Надіслати як продовження до цієї групи новин">
+<!ENTITY hdrMenuForwardButton.label "Переслати як">
 <!ENTITY hdrForwardButton1.label "Переслати">
 <!ENTITY hdrForwardButton1.tooltip "Переслати цей лист">
 <!ENTITY hdrJunkButton1.label "Спам">
