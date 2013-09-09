@@ -12,10 +12,14 @@
 <!ENTITY feedsSectionHdr.label "Kanály">
 <!ENTITY subscribeFeeds.label "Spravovat odebírání">
 
+<!ENTITY chat.label                   "Chat">
+<!ENTITY movemail.label               "Movemail">
+
 <!ENTITY accountsSectionHdr.label "Účty">
 <!ENTITY subscribeImapFolders.label "Spravovat odebírání složek pošty">
 <!ENTITY settingsLink.label "Zobrazit nastavení pro tento účet">
 <!ENTITY newAcctLink.label "Vytvořit nový účet">
+<!ENTITY newAcct.label                "Vytvořit nový účet:">
 
 <!ENTITY advFeaturesSectionHdr.label "Nastavení">
 <!ENTITY searchMsgsLink.label "Hledat ve zprávách">

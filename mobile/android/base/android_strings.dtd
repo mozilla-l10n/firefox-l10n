@@ -12,17 +12,22 @@
 <!ENTITY awesomebar_all_pages_title "Top stránky">
 <!ENTITY awesomebar_bookmarks_title "Záložky">
 <!ENTITY awesomebar_history_title "Historie">
+<!ENTITY  awesomebar_switch_to_tab "Přepnout na panel">
+
 
 <!ENTITY crash_reporter_title "Oznamovatel pádu">
-<!ENTITY crash_message "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
-<!ENTITY crash_help_message "Pomozte nám prosím opravit tento problém.">
-<!ENTITY crash_send_report_message "Odeslat Mozille hlášení o pádu">
-<!ENTITY crash_include_url "Zahrnout dresu stránky">
+<!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
+<!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
+<!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházel(a)">
+<!ENTITY  crash_sorry "Omlouváme se">
+<!ENTITY  crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
+<!ENTITY  crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktoval(a)">
+<!ENTITY  crash_email "Váš e-mail">
+<!ENTITY  crash_closing_alert "Ukončit bez odesílání informace o pádu?">
+<!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY crash_close_label "Zavřít">
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
-<!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY exit_label "Ukončit">
-<!ENTITY continue_label "Pokračovat">
 
 <!ENTITY launcher_shortcuts_title "&brandShortName; aplikace">
 <!ENTITY launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
@@ -76,6 +81,11 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
+<!ENTITY pref_donottrack_menu "Sledování">
+<!ENTITY pref_donottrack_disallow_tracking "Informovat servery, že nechci být sledován">
+<!ENTITY pref_donottrack_allow_tracking "Informovat servery, že můžu být sledován">
+<!ENTITY pref_donottrack_no_pref "Neinformovat servery o mém nastavení, zda chci být sledován">
+
 <!ENTITY pref_char_encoding "Znaková sada">
 <!ENTITY pref_char_encoding_on "Zobrazit nabídku">
 <!ENTITY pref_char_encoding_off "Nezobrazovat nabídku">
@@ -116,6 +126,31 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
 <!ENTITY pref_private_data_downloadFiles "Stažené soubory">
+
+<!ENTITY datareporting_notification_title "Statistiky a data k aplikaci &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Zvolte, jaké informace chcete sdílet">
+<!ENTITY datareporting_notification_action "Zvolte, co sdílet">
+<!ENTITY datareporting_notification_summary "Z důvodu vylepšení vašeho prohlížení &brandShortName; automaticky odesílá některé informace organizaci &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Z důvodu vylepšení vašeho prohlížení &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Hlášení o zdraví aplikace &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Sdílí data o zdraví vašeho prohlížeče s organizací &vendorShortName; a pomáhá vám porozumět výkonu vašeho prohlížeče">
+<!ENTITY datareporting_abouthr_title "Zobrazit mé Hlášení o zdraví">
+<!ENTITY datareporting_telemetry_title "Telemetrie">
+<!ENTITY datareporting_telemetry_summary "Zaznamenává data o výkonu, používání, hardware a přizpůsobení prohlížeče &brandShortName;. Data o prohlížeči jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
+<!ENTITY datareporting_crashreporter_summary "Odesílá hlášení o pádu prohlížeče &brandShortName; a pomáhá organizaci &vendorShortName; vylepšit jeho stabilitu a bezpečnost.">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
+<!ENTITY datareporting_wifi_title "Geolokační služby od &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Pomáhá vylepšovat geolokační služby pro otevřený web odesíláním anonymních informací o mobilní síti organizaci &brandShortName;.">
 
 <!ENTITY pref_update_autodownload "Automatické aktualizace">
 <!ENTITY pref_update_autodownload_wifi "Pouze pomocí Wi-Fi">
@@ -181,6 +216,7 @@ size. -->
 <!ENTITY reading_list_added "Stránka přidána do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
+<!ENTITY reading_list_duplicate "Stránka je již v Seznamu ke čtení">
 <!ENTITY reader "Čtečka">
 
 <!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
@@ -239,6 +275,15 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "která je provozována">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">      
+<!ENTITY blocked_mixed_content_message_top "Aplikace &brandShortName; zablokovala obsah, který není zabezpečený.">
+<!ENTITY blocked_mixed_content_message_bottom "Většina stránek bude fungovat přesto, že by tento obsah zablokován.">
+<!ENTITY learn_more "Zjistit více">
+<!ENTITY enable_protection "Povolit ochranu">
+<!ENTITY disable_protection "Zakázat ochranu">
+<!ENTITY keep_blocking "Ponehat blokování">
 
 <!ENTITY private_data_success "Důvěrná data vymazána">
 <!ENTITY private_data_fail "Některá data se nepodařilo vymazat">

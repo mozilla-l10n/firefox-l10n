@@ -85,6 +85,9 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
 
+<!ENTITY  installed.title                 "Aktualizace nainstalována">
+<!ENTITY  installed.intro                 "Aktualizace byla úspěšně nainstalována.">
+<!ENTITY  whatsnew.label                  "Přečtěte si více o tom, co je nového…">
 
 <!ENTITY installed.title "Aktualizace nainstalována">
 <!ENTITY installed.intro "Aktualizace byla úspěšně nainstalována.">

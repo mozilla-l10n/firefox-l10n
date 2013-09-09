@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Najít/nahradit…">
 <!ENTITY findCmd.key "f">
 <!ENTITY findCmd.accesskey "r">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Najít další">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "d">
