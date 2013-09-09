@@ -78,4 +78,4 @@
   -  i.e. devtools.webconsole.persistlog a boolean preference in about:config,
   -  in the options panel. -->
 <!ENTITY options.enablePersistentLogging.label    "Aanhoudende logs inschakelen">
-   12.22 +<!ENTITY options.enablePersistentLogging.tooltip  "Als u deze optie inschakeld zal de webconsole de uitvoer niet elke keer wissen als u naar een nieuwe pagina gaat">
+<!ENTITY options.enablePersistentLogging.tooltip  "Als u deze optie inschakeld zal de webconsole de uitvoer niet elke keer wissen als u naar een nieuwe pagina gaat">
