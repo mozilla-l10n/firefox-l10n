@@ -32,12 +32,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Чатовий запис…">
 <!ENTITY newIMAccountCmd.accesskey "Ч">
+<!ENTITY newFeedAccountCmd.label "Обліковий запис стрічок…">
+<!ENTITY newFeedAccountCmd.accesskey "с">
 <!ENTITY newIMContactCmd.label "Чатовий контакт…">
 <!ENTITY newIMContactCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Відкрити збережений лист…">
 <!ENTITY openMessageFileCmd.accesskey "з">
-<!ENTITY openAttachmentCmd.label "Вкладення">
-<!ENTITY openAttachmentCmd.accesskey "е">
 <!ENTITY saveAsMenu.label "Зберегти як">
 <!ENTITY saveAsMenu.accesskey "я">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -428,12 +428,14 @@
 <!ENTITY openConversationCmd.label "Відкрити у Бесіді">
 <!ENTITY openConversationCmd.accesskey "Б">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Відкрити повідомлення стріки новин">
-<!ENTITY openFeedMessage.accesskey "В">
-<!ENTITY openFeedWebPageInWindow.label "Веб-сторінку у новому вікні">
-<!ENTITY openFeedWebPageInWindow.accesskey "с">
-<!ENTITY openFeedSummaryInWindow.label "Підсумок у новому вікні">
-<!ENTITY openFeedSummaryInWindow.accesskey "П">
+<!ENTITY openAttachmentListCmd.label "Вкладення">
+<!ENTITY openAttachmentListCmd.accesskey "в">
+<!ENTITY openFeedMessage1.label "Відкривати повідомлення стрічки новин">
+<!ENTITY openFeedMessage1.accesskey "В">
+<!ENTITY openFeedWebPage.label "Відкривати як веб сторінку">
+<!ENTITY openFeedWebPage.accesskey "е">
+<!ENTITY openFeedSummary.label "Відкривати як підсумок">
+<!ENTITY openFeedSummary.accesskey "п">
 <!ENTITY openFeedWebPageInMP.label "Перемкнути веб сторінку і підсумок у панелі повідомлень">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "м">
+<!ENTITY allowRemoteDebugging.label "Дозволити віддалену відладку">
+<!ENTITY allowRemoteDebugging.accesskey "д">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Отримати">
@@ -535,6 +539,8 @@
 <!ENTITY replyAllButton.tooltip "Відповісти відправнику та всім адресатам">
 <!ENTITY replyListButton.tooltip "Відповісти списку розсилки">
 <!ENTITY forwardButton.tooltip "Переслати вибраний лист">
+<!ENTITY forwardAsInline.tooltip "Переслати вибраний лист як текст">
+<!ENTITY forwardAsAttachment.tooltip "Переслати вибраний лист як вкладення">
 <!ENTITY fileButton.tooltip "Помістити вибраний лист в потрібну теку">
 <!ENTITY archiveButton.tooltip "Архівувати вибрані листи">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного листа">
@@ -554,7 +560,11 @@
 <!ENTITY chatButton.tooltip "Показати вкладку чату">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Усунути вилучені листи з вибраної теки">
-<!ENTITY appmenuButton.tooltip "Показати меню програми">
+<!ENTITY appmenuButton1.tooltip "Показувати меню &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Переслати текстом">
+<!ENTITY buttonMenuForwardAsAttachment.label "Переслати вкладенням">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Новий лист">
@@ -562,6 +572,8 @@
 <!ENTITY appmenuEditMenu.label "Редагувати">
 <!ENTITY appmenuQFBMenu.label "Панель швидкого пошуку">
 <!ENTITY appmenuToolbarLayout.label "Розклад панелей…">
+<!ENTITY appmenuSelectThread.label "Вибрати гілку">
+<!ENTITY appmenuSelectFlagged.label "Вибрати листи з зірочкою">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Нова мітка…">
@@ -576,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Отримати листи">
 <!ENTITY folderContextGetMessages.accesskey "О">
-<!ENTITY folderContextOpenNewWindow.label "Відкрити в новому вікні">
-<!ENTITY folderContextOpenNewWindow.accesskey "н">
+<!ENTITY folderContextOpenInNewWindow.label "Відкрити в новому вікні">
+<!ENTITY folderContextOpenInNewWindow.accesskey "н">
 <!ENTITY folderContextOpenNewTab.label "Відкрити в новій вкладці">
 <!ENTITY folderContextOpenNewTab.accesskey "т">
 <!ENTITY folderContextNew.label "Створити вкладену теку…">
@@ -695,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Переслати">
 <!ENTITY contextForward.accesskey "П">
-<!ENTITY contextForwardAsAttachment.label "Переслати як вкладення">
-<!ENTITY contextForwardAsAttachment.accesskey "к">
+<!ENTITY contextForwardAsMenu.label "Переслати як">
+<!ENTITY contextForwardAsMenu.accesskey "П">
+<!ENTITY contextForwardAsInline.label "Текст">
+<!ENTITY contextForwardAsInline.accesskey "Т">
+<!ENTITY contextForwardAsAttachmentItem.label "Вкладення">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "В">
+<!ENTITY contextMultiForwardAsAttachment.label "Переслати всі як вкладення">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "і">
 <!ENTITY contextMoveMsgMenu.label "Перемістити у">
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Недавні">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "д">
 <!ENTITY contextCopyMsgMenu.label "Копіювати в">
 <!ENTITY contextCopyMsgMenu.accesskey "о">
+<!ENTITY contextKillThreadMenu.label "Ігнорувати гілку">
+<!ENTITY contextKillThreadMenu.accesskey "І">
+<!ENTITY contextKillSubthreadMenu.label "Ігнорувати підгілку">
+<!ENTITY contextWatchThreadMenu.label "Спостерігати за гілкою">
 <!ENTITY contextSaveAs.label "Зберегти як…">
 <!ENTITY contextSaveAs.accesskey "б">
 <!ENTITY contextPrint.label "Друк…">
@@ -791,7 +813,7 @@
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed
+     not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base):
