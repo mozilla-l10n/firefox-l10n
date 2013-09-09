@@ -14,7 +14,6 @@
 <!ENTITY showAlertFor.label               "Waarschuwing bij nieuwe e-mail">
 <!ENTITY showAlertFor.accesskey           "W">
 <!ENTITY showAlertTimeEnd.label           "seconden tonen">
-<!ENTITY showAlertTimeEnd.accesskey       "d">
 
 <!ENTITY showAlertPreviewText.label       "Berichtvoorbeeld tonen">
 <!ENTITY showAlertPreviewText.accesskey   "v">
