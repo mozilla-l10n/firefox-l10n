@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY glodaFacetView.filters.label "Visualizza:">
-<!ENTITY glodaFacetView.loading.label "Ricerca in corso…">
+<!ENTITY glodaFacetView.loading.label "Ricerca…">
 <!ENTITY glodaFacetView.empty.label "Nessun risultato disponibile">
 <!ENTITY glodaFacetView.pageMore.label "Altro »">
