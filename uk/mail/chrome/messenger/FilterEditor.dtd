@@ -27,6 +27,9 @@
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
+<!ENTITY filterActionOrderWarning.label "Примітка: Дії фільтра будуть виконуватись в іншому порядку.">
+<!ENTITY filterActionOrder.label "Подивитись порядок виконання">
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Перемістити повідомлення у">
 <!ENTITY copyMessage.label "Перемістити повідомлення у">

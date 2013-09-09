@@ -70,12 +70,12 @@
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
 <!ENTITY decreaseFontSize.label "Менше">
 <!ENTITY decreaseFontSize.accesskey "М">
-<!ENTITY decreaseFontSize.key "-">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Більше">
 <!ENTITY increaseFontSize.accesskey "Б">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Розмір">
 <!ENTITY fontSizeMenu.accesskey "Р">
