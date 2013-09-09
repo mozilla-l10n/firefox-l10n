@@ -43,6 +43,7 @@
 <!ENTITY bookmark_added "Záložka přidána">
 <!ENTITY bookmark_removed "Záložka odebrána">
 <!ENTITY bookmark_updated "Záložka aktualizována">
+<!ENTITY bookmark_options "Možnosti">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -70,11 +71,14 @@
 <!ENTITY pref_category_general "Obecné">
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
 <!ENTITY pref_category_content "Obsah">
-<!ENTITY pref_category_importexport "Import a export">
+<!ENTITY pref_category_datareporting "Odesílání údajů">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
-<!ENTITY pref_do_not_track "Nechci být sledován">
-<!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Obecné">
+<!ENTITY pref_header_privacy "Soukromí a zabezpečení">
+<!ENTITY pref_header_content "Obsah">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Povolit">
@@ -95,7 +99,7 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
-<!ENTITY pref_reflow_on_zoom2 "Stažením prstů formátovat">
+<!ENTITY pref_reflow_on_zoom3 "Stažením prstů formátovat text">
 <!ENTITY pref_font_size_tiny "Drobné">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
@@ -199,6 +203,12 @@ size. -->
 <!ENTITY contextmenu_paste "Vložit">
 <!ENTITY contextmenu_copyurl "Kopírovat adresu">
 <!ENTITY contextmenu_edit_bookmark "Upravit">
+<!ENTITY contextmenu_subscribe "Odebírat stránku">
+<!ENTITY contextmenu_site_settings "Upravit nastavení stránky">
+
+<!ENTITY pref_titlebar_mode "Hlavička okna">
+<!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
+<!ENTITY pref_titlebar_mode_url "Zobrazit adresu stránky">
 
 <!ENTITY history_removed "Stránka odebrána">
 
@@ -207,7 +217,7 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 
-<!ENTITY site_settings_title2 "Nastavení serveru…">
+<!ENTITY site_settings_title3       "Nastavení serveru">
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
@@ -240,7 +250,6 @@ size. -->
 <!ENTITY abouthome_topsites_edit "Upravit">
 <!ENTITY abouthome_topsites_pin "Připnout stránku">
 <!ENTITY abouthome_topsites_unpin "Odepnout stránku">
-<!ENTITY abouthome_topsites_remove "Odebrat">
 
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
