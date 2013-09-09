@@ -20,6 +20,11 @@
 <!ENTITY reloadTab.accesskey "O">
 <!ENTITY reloadAllTabs.label "Obnovit všechny panely">
 <!ENTITY reloadAllTabs.accesskey "b">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Zavřít panely vpravo">
+<!ENTITY  closeTabsToTheEnd.accesskey        "t">
 <!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
 <!ENTITY closeOtherTabs.accesskey "v">
 
@@ -214,7 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY remoteWebConsoleCmd.label "Vzdálená webová konzola">
 
@@ -241,6 +245,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY scratchpad.accesskey "Z">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
+
+<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
+  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!ENTITY chromeDebuggerMenu.label       "Debugger prohlížeče">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
 <!ENTITY devToolbarMenu.label "Lišta vývoje">
@@ -671,3 +679,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixedContentBlocked.moreinfo "Většina stránek bude fungovat správně, přestože bude takovýto obsah zablokován..">
 
 <!ENTITY pointerLock.notification.message "Pro opětovné zobrazení stiskněte ESC.">
+
+<!ENTITY pluginNotification.showAll.label "Zobrazit vše">
+<!ENTITY pluginNotification.showAll.accesskey "Z">
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Povolit nyní">
+<!ENTITY pluginActivateAlways.label "Povolit a zapamatovat">
+<!ENTITY pluginBlockNow.label "Blokovat zásuvný modul">

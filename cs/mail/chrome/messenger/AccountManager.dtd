@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "p">
 <!ENTITY addIMAccountButton.label "Přidat účet chatu…">
 <!ENTITY addIMAccountButton.accesskey "i">
+<!ENTITY addFeedAccountButton.label "Přidat účet pro kanály…">
+<!ENTITY addFeedAccountButton.accesskey "d">
 <!ENTITY addOtherAccountButton.label "Přidat jiný účet…">
 <!ENTITY addOtherAccountButton.accesskey "j">
 <!ENTITY setDefaultButton.label "Nastavit jako výchozí">
