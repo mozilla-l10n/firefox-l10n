@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label "Certifikáty…">
 <!ENTITY viewCertificates.accesskey "C">
-<!ENTITY viewCRLs.label "Zneplatnění…">
-<!ENTITY viewCRLs.accesskey "Z">
 <!ENTITY validation.label "Ověřování…">
 <!ENTITY validation.accesskey "O">
 <!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení…">

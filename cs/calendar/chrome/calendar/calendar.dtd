@@ -348,3 +348,9 @@
 <!ENTITY calendar.error.code "Kód chyby:">
 <!ENTITY calendar.error.description "Popis:">
 <!ENTITY calendar.error.title "Vyskytla se chyba">
+
+<!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Přidat jako událost">
+<!ENTITY calendar.extract.task.button          "Přidat jako úkol">
+<!ENTITY calendar.extract.event.button.tooltip "Vezme kalendářní informace ze zprávy a přidá je do vašeho kalendáře jako událost">
+<!ENTITY calendar.extract.task.button.tooltip  "Vezme kalendářní informace ze zprávy a přidá je do vašeho kalendáře jako úkol">

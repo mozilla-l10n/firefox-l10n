@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Účet chatu…">
 <!ENTITY newIMAccountCmd.accesskey "c">
+<!ENTITY newFeedAccountCmd.label "Účet kanalů…">
+<!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Kontakty chatu…">
 <!ENTITY newIMContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
@@ -487,6 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Povolit vzdálené ladění">
+<!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Přijmout">
@@ -534,7 +538,9 @@
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
 <!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
 <!ENTITY replyListButton.tooltip "Odpoví na zprávu do e-mailové konference">
-<!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
+<!ENTITY forwardButton.tooltip "Přepošle označnou zprávu">
+<!ENTITY forwardAsInline.tooltip "Přepošle označnou zprávu jako vložený text">
+<!ENTITY forwardAsAttachment.tooltip "Přepošle označnou zprávu jako přílohu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
@@ -555,6 +561,10 @@
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
 <!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Přeposlat jako vložené">
+<!ENTITY buttonMenuForwardAsAttachment.label "Přeposlat jako přílohu">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
@@ -578,8 +588,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Přijmout zprávy">
 <!ENTITY folderContextGetMessages.accesskey "P">
-<!ENTITY folderContextOpenNewWindow.label "Otevřít">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Otevřít v novém okně">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otevřít v novém panelu">
 <!ENTITY folderContextOpenNewTab.accesskey "e">
 <!ENTITY folderContextNew.label "Nová podsložka…">
@@ -697,14 +707,24 @@
 <!ENTITY contextReplyList.accesskey "k">
 <!ENTITY contextForward.label "Přeposlat">
 <!ENTITY contextForward.accesskey "P">
-<!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">
-<!ENTITY contextForwardAsAttachment.accesskey "l">
+<!ENTITY contextForwardAsMenu.label "Přeposlat jako">
+<!ENTITY contextForwardAsMenu.accesskey "e">
+<!ENTITY contextForwardAsInline.label "Vložená">
+<!ENTITY contextForwardAsInline.accesskey "V">
+<!ENTITY contextForwardAsAttachmentItem.label "Příloha">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Přeposlat jako přílohy">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "l">
 <!ENTITY contextMoveMsgMenu.label "Přesunout do">
 <!ENTITY contextMoveMsgMenu.accesskey "s">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Poslední">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "P">
 <!ENTITY contextCopyMsgMenu.label "Kopírovat do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "Ignorovat vlákno">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
+<!ENTITY contextWatchThreadMenu.label "Ignorovat podvlákno">
 <!ENTITY contextSaveAs.label "Uložit jako…">
 <!ENTITY contextSaveAs.accesskey "j">
 <!ENTITY contextPrint.label "Tisk…">
