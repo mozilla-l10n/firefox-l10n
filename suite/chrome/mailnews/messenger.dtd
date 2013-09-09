@@ -529,22 +529,3 @@
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; hält diese Nachricht für Junk-Mail.">
-<!ENTITY junkBarButton.label "Dies ist kein Junk">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Um Ihre Privatsphäre zu schützen, hat &brandShortName; von außen stammende Inhalte in dieser Nachricht blockiert.">
-<!ENTITY loadRemoteContentButton.label "Von außen stammende Inhalte anzeigen">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; hält diese Nachricht für E-Mail-Scam.">
-<!ENTITY removePhishingBarButton.label "Kein Scam">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Anfrage ignorieren">
-<!ENTITY mdnBarIgnoreButton.accesskey "n">
-<!ENTITY mdnBarSendButton.label "Bestätigung senden">
-<!ENTITY mdnBarSendButton.accesskey "B">
