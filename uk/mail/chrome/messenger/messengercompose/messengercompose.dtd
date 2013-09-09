@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Знайти і замінити…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "м">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Знайти наступне">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "у">
