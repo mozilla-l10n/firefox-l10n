@@ -10,3 +10,4 @@
 <!ENTITY addonAction.disable "Zakázat">
 <!ENTITY addonAction.uninstall "Odinstalovat">
 <!ENTITY addonAction.undo "Zpět">
+<!ENTITY addonAction.setDefault                 "Nastavit jako výchozí">

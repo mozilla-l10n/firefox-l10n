@@ -153,6 +153,8 @@
 <!ENTITY event.location.accesskey "M">
 <!ENTITY event.categories.label "Kategorie:">
 <!ENTITY event.categories.accesskey "t">
+<!ENTITY event.categories.textbox.label                   "Přidat novou kategorii" >
+<!ENTITY event.categories.textbox.accesskey               "P">
 <!ENTITY event.calendar.label "Kalendář:">
 <!ENTITY event.calendar.accesskey "l">
 <!ENTITY event.attendees.label "Účastníci:">
