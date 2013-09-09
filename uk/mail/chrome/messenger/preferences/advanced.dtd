@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Перегляд сертифікатів">
 <!ENTITY viewCertificates.accesskey     "с">
-<!ENTITY viewCRLs.label                 "Списки відкликання">
-<!ENTITY viewCRLs.accesskey             "в">
 <!ENTITY validation.label               "Перевірка">
 <!ENTITY validation.accesskey           "р">
 <!ENTITY viewSecurityDevices.label      "Пристрої захисту">
