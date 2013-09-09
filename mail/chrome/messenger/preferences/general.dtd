@@ -21,6 +21,9 @@
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
+<!ENTITY showTrayIcon.label               "Показувати іконку в треї">
+<!ENTITY showTrayIcon.accesskey           "т">
+
 <!ENTITY play.label                       "Програти">
 <!ENTITY play.accesskey                   "П">
 <!ENTITY systemsound.label                "Стандартний системний звук для нової пошти">
