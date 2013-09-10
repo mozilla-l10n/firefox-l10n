@@ -46,6 +46,11 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Tabblad sluiten ongedaan maken">
 <!ENTITY  undoCloseTab.accesskey             "o">
+<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
+when the previous tab-closing operation closed more than one tab. It
+replaces the undoCloseTab.label and will use the same accesskey as the
+undoCloseTab.label so users will not need to learn new keyboard controls. -->
+<!ENTITY  undoCloseTabs.label                "Tabbladen sluiten ongedaan maken">
 <!ENTITY  closeTab.label                     "Tabblad sluiten">
 <!ENTITY  closeTab.accesskey                 "s">
 
