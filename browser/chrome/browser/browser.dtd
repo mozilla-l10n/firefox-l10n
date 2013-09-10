@@ -205,8 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Sleutelwoord voor deze zoektocht toevoegen…">
 <!ENTITY keywordfield.accesskey       "S">
-<!ENTITY search.label                 "Zoeken op het web">
-<!ENTITY search.accesskey             "Z">
+
 <!ENTITY downloads.label              "Downloads">
 <!ENTITY downloads.tooltip            "De voortgang van lopende downloads weergeven">
 <!ENTITY downloads.accesskey          "D">
