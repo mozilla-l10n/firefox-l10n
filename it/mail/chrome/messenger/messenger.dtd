@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "u">
 <!ENTITY allowRemoteDebugging.label "Consentire debug remoto">
 <!ENTITY allowRemoteDebugging.accesskey "g">
-<!ENTITY getMsgButton.label "Scarica posta">
+<!ENTITY getMsgButton1.label "Scarica messaggi">
 <!ENTITY newMsgButton.label "Scrivi">
 <!ENTITY replyButton.label "Rispondi">
 <!ENTITY replyAllButton.label "Rispondi a tutti">
