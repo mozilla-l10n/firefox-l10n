@@ -3,26 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Налаштування вашого &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Ми оновлюємо ваші закладки та історію, це займе десь хвилину.">
-
 <!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
 <!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Часті сайти">
 <!ENTITY  awesomebar_bookmarks_title "Закладки">
 <!ENTITY  awesomebar_history_title "Історія">
+<!ENTITY  awesomebar_switch_to_tab "Switch to tab">
 
 <!ENTITY  crash_reporter_title "Доповідач про аварії &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
-<!ENTITY  crash_help_message "Будь ласка, допоможіть нам виправити цю проблему!">
-<!ENTITY  crash_send_report_message "Надіслати в Mozilla звіт про аварію">
-<!ENTITY  crash_include_url "Включно з адресою сторінки">
+<!ENTITY  crash_message2 "&brandShortName; зіткнувся з проблемою та впав. Ваші вкладки мають бути показані на початковій сторінці &brandShortName; після перезапуску.">
+<!ENTITY  crash_send_report_message3 "Повідомте &vendorShortName; про це падіння щоб ми змогли його виправити">
+<!ENTITY  crash_include_url2 "Включно з адресою відвіданої сторінки">
+<!ENTITY  crash_sorry "Перепрошуємо">
+<!ENTITY  crash_comment "Додати коментар (коментарі публічно видимі)">
+<!ENTITY  crash_allow_contact2 "Дозволити &vendorShortName; зв’язатись з вами стосовно цього звіту">
+<!ENTITY  crash_email "Ваш email">
+<!ENTITY  crash_closing_alert "Вийти після надсилання звіту про аварію?">
+<!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
 <!ENTITY  crash_close_label "Закрити">
 <!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
-<!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
 <!ENTITY  exit_label "Вийти">
-<!ENTITY  continue_label "Продовжити">
 
 <!ENTITY  launcher_shortcuts_title "Веб-програми &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Веб-програм не знайдено">
@@ -38,6 +39,7 @@
 <!ENTITY bookmark_added "Закладку додано">
 <!ENTITY bookmark_removed "Закладку вилучено">
 <!ENTITY bookmark_updated "Закладку оновлено">
+<!ENTITY bookmark_options "Налаштування">
 
 <!ENTITY history_today_section "Сьогодні">
 <!ENTITY history_yesterday_section "Учора">
@@ -54,28 +56,44 @@
 <!ENTITY site_security "Безпека сайта">
 
 <!ENTITY close_tab "Закрити вкладку">
-<!ENTITY new_tab "Нова вкладка">
 <!ENTITY one_tab "1 вкладка">
-<!-- Localization note (num_tabs) : Number of tabs is always more than one.
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs "&#037;d вкладок">
+<!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Нову вкладку відкрито">
 
 <!ENTITY settings "Настройки">
 <!ENTITY settings_title "Настройки">
-<!ENTITY pref_category_general "Загальні">
-<!ENTITY pref_category_privacy "Приватність та безпека">
-<!ENTITY pref_category_content "Вміст">
-<!ENTITY pref_category_importexport "Імпорт та Експорт">
-<!ENTITY pref_about_firefox "Про &brandShortName;">
-<!ENTITY pref_do_not_track "Казати сайтам не слідити за мною">
-<!ENTITY pref_telemetry "Надсилати дані про швидкодію">
+<!ENTITY pref_category_advanced "Додатково">
+<!ENTITY pref_category_customize "Вподобання">
+<!ENTITY pref_category_search2 "Настройки пошуку">
+<!ENTITY pref_category_display "Відображення">
+<!ENTITY pref_category_privacy_short "Приватність">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Вибір даних">
+<!ENTITY pref_category_installed_search_engines "Встановлені пошуковці">
+<!ENTITY pref_category_devtools "Інструменти розробника">
+<!ENTITY pref_developer_remotedebugging "Віддалена відладка">
+<!ENTITY pref_developer_remotedebugging_docs "Дізнатись більше">
 <!ENTITY pref_remember_signons "Пам’ятати паролі">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Вподобання">
+<!ENTITY pref_header_display "Відображення">
+<!ENTITY pref_header_privacy_short "Приватність">
+<!ENTITY pref_header_help "Допомога">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Інструменти розробника">
 
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Увімкнено">
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
 <!ENTITY pref_cookies_disabled "Вимкнено">
+
+<!ENTITY pref_donottrack_menu "Відслідковування">
+<!ENTITY pref_donottrack_disallow_tracking "Казати сайтам, що я не хочу щоб мене відслідковували">
+<!ENTITY pref_donottrack_allow_tracking "Казати сайтам, що я хочу щоб мене відслідковували">
+<!ENTITY pref_donottrack_no_pref "Не казати сайтам нічого про моє ставлення до відслідковування">
 
 <!ENTITY pref_char_encoding "Кодування символів">
 <!ENTITY pref_char_encoding_on "Показувати меню">
@@ -86,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Тицьнути щоб грати">
 <!ENTITY pref_plugins_disabled "Вимкнено">
 <!ENTITY pref_text_size "Розмір тексту">
-<!ENTITY pref_reflow_on_zoom2 "Переформатування тексту">
+<!ENTITY pref_reflow_on_zoom4 "Переформатування тексту">
+<!ENTITY pref_restore "Вкладки">
+<!ENTITY pref_restore_always "Завжди відновлювати">
+<!ENTITY pref_restore_crash "Відновлювати після падіння">
+<!ENTITY pref_restore_never "Ніколи не відновлювати">
 <!ENTITY pref_font_size_tiny "Дрібний">
 <!ENTITY pref_font_size_small "Малий">
 <!ENTITY pref_font_size_medium "Середній">
@@ -115,7 +137,38 @@ size. -->
 <!ENTITY pref_private_data_passwords "Збережені паролі">
 <!ENTITY pref_private_data_cache "Кеш">
 <!ENTITY pref_private_data_offlineApps "Позамережні дані сайтів">
-<!ENTITY pref_private_data_siteSettings "Сайтові вподобання">
+<!ENTITY pref_private_data_siteSettings2 "Налаштування сайта">
+<!ENTITY pref_private_data_downloadFiles "Завантажені файли">
+
+
+<!ENTITY pref_about_firefox "Про &brandShortName;">
+<!ENTITY pref_vendor_faqs "Питання">
+<!ENTITY pref_vendor_feedback "Дати відгук">
+
+<!ENTITY datareporting_notification_title "Статистика та дані &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Обрати якою інформацією ділитись">
+<!ENTITY datareporting_notification_action "Обрати чим ділитись">
+<!ENTITY datareporting_notification_summary "Щоб покращити роботу, &brandShortName; автоматично надсилає деяку інформацію до &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Щоб покращити роботу, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Звіт про здоров’я &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Надсилає до &vendorShortName; дані про здоров’я вашого браузера та допомогає вам дізнатись більше про його швидкодію">
+<!ENTITY datareporting_abouthr_title "Переглянути Звіт про здоров’я">
+<!ENTITY datareporting_telemetry_title "Телеметрія">
+<!ENTITY datareporting_telemetry_summary "Надсилає до &vendorShortName; дані про швидкодію та використання браузера, а також про ваші обладнання та налаштування, щоб допомогти нам зробити &brandShortName; кращим">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; надсилає до  &vendorShortName; звіти про падіння, щоб зробити ваш браузер стабільнішим та безпечнішим">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Звіти про аварії">
+<!ENTITY datareporting_wifi_title "Служби місцезнаходження &vendorShortName;">
+<!ENTITY datareporting_wifi_summary "Допоможіть нам покращити геолокаційні служби для Відкритої Мережі дозволивши &brandShortName;’у збирати та надсилати анонімні дані про мобільні вежі.">
 
 <!ENTITY pref_update_autodownload "Автоматичні оновлення">
 <!ENTITY pref_update_autodownload_wifi "Лише по Wi-Fi">
@@ -136,7 +189,14 @@ size. -->
 <!ENTITY find_in_page "Знайти на сторінці">
 <!ENTITY desktop_mode "Вимагати десктопного сайту">
 <!ENTITY tools "Інструменти">
-<!ENTITY new_pb_tab "Нова потайлива вкладка">
+<!ENTITY new_tab "Нова вкладка">
+<!ENTITY new_private_tab "Нова потайлива вкладка">
+<!ENTITY close_all_tabs "Закрити всі вкладки">
+<!ENTITY tabs_normal "Вкладки">
+<!ENTITY tabs_private "Потайливі">
+<!ENTITY tabs_synced "Синхронізовані">
+<!ENTITY set_image_fail "Неможливо встановити малюнок">
+<!ENTITY set_image_chooser_title "Встановити малюнок як">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -146,6 +206,7 @@ size. -->
 <!ENTITY find_close "Закрити">
 
 <!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
+<!ENTITY contextmenu_open_private_tab "Відкрити в потайливій вкладці">
 <!ENTITY contextmenu_open_in_reader "Відкрити в Читачі">
 <!ENTITY contextmenu_remove_history "Вилучити">
 <!ENTITY contextmenu_remove_bookmark "Вилучити">
@@ -155,9 +216,13 @@ size. -->
 <!ENTITY contextmenu_paste "Вставити">
 <!ENTITY contextmenu_copyurl "Копіювати адресу">
 <!ENTITY contextmenu_edit_bookmark "Редагувати">
+<!ENTITY contextmenu_subscribe "Subscribe to Page">
+<!ENTITY contextmenu_site_settings "Edit Site Settings">
 
-<!-- Localization note (history_removed) : Shown in a toast notificaion
-	 after a page is removed from browser history. -->
+<!ENTITY pref_titlebar_mode "Панель заголовка">
+<!ENTITY pref_titlebar_mode_title "Показувати заголовок сторінки">
+<!ENTITY pref_titlebar_mode_url "Показувати адресу сторінки">
+
 <!ENTITY history_removed "Сторінку вилучено">
 
 <!ENTITY bookmark_edit_title "Редагувати закладку">
@@ -165,7 +230,9 @@ size. -->
 <!ENTITY bookmark_edit_location "Адреса">
 <!ENTITY bookmark_edit_keyword "Ключове слово">
 
-<!ENTITY site_settings_title2       "Настройки сайта…">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Настройки сайта">
 <!ENTITY site_settings_cancel       "Скасувати">
 <!ENTITY site_settings_clear        "Вичистити">
 <!ENTITY site_settings_no_settings  "Нема чого вичищати.">
@@ -174,7 +241,11 @@ size. -->
 <!ENTITY reading_list_added "Сторінку додано у список читання">
 <!ENTITY reading_list_removed "Сторінку вилучено зі списку читання">
 <!ENTITY reading_list_failed "Не вдалось додати сторінку в ваш список читання">
-<!ENTITY reader "Читач">
+<!ENTITY reading_list_duplicate "Сторінка вже у вашому списку читання">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Додаткові дії">
 
 <!ENTITY masterpassword_create_title "Створити головний пароль">
 <!ENTITY masterpassword_remove_title "Вилучити головний пароль">
@@ -194,6 +265,10 @@ size. -->
 <!ENTITY abouthome_last_tabs_title "Ваші вкладки з того разу">
 <!ENTITY abouthome_last_tabs_open "Відкрити всі вкладки з того разу">
 <!ENTITY abouthome_top_sites_title "Часті сайти">
+<!ENTITY abouthome_topsites_edit "Редагувати">
+<!ENTITY abouthome_topsites_pin "Прикріпити сайта">
+<!ENTITY abouthome_topsites_unpin "Відкріпити сайт">
+
 <!-- Localization note (abouthome_about_sync3, abouthome_about_apps2): The
      chevron (ex: "»"; unicode= U+00BB) is used as an arrow to show that
      clicking this text in the promotions box will perform some action. Note
@@ -228,6 +303,15 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "котрий запущено">
 
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Ця сторінка відображає вміст котрий не є безпечним.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокував вміст, котрий не є безпечним.">
+<!ENTITY blocked_mixed_content_message_bottom "Більшість вебсайтів будуть працювати нормально навіть коли цей вміст заблоковано.">
+<!ENTITY learn_more "Дізнатись більше">
+<!ENTITY enable_protection "Увімкнути захист">
+<!ENTITY disable_protection "Вимкнути захист">
+<!ENTITY keep_blocking "Блокувати далі">
+
 <!ENTITY private_data_success "Приватні дані вичищено">
 <!ENTITY private_data_fail "Деякі приватні дані не можна вичистити">
 
@@ -237,14 +321,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Імпортування історії з Андроїду">
 <!ENTITY bookmarkhistory_import_wait "Зачекайте…">
 
-<!-- Localization note (suggestions_prompt): The placeholder (&#037;s) should
-     be kept in the string; this will be replaced with the name of the search
-     engine. -->
-<!ENTITY suggestions_prompt "Хочете увімкнути пошукові підказки &#037;s?">
+<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
+     replaced with the name of the search engine. -->
+<!ENTITY suggestions_prompt2 "Хочете увімкнути пошукові підказки &formatS;?">
 
 <!ENTITY webapp_generic_name "Програми">
 
 <!ENTITY searchable_description "Закладки та історія">
+
+<!ENTITY devtools_remote_debugging_forward "Не забудьте настроїти port forwarding!">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Наявні оновлення для &brandShortName;">
@@ -257,3 +342,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Доступне оновлення для &brandShortName;">
 <!ENTITY updater_apply_select2 "Тицьніть щоб оновити">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Новий гостьовий сеанс">
+<!ENTITY exit_guest_session "Завершити гостьовий сеанс">
+<!ENTITY guest_session_dialog_continue "Продовжити">
+<!ENTITY guest_session_dialog_cancel "Скасувати">
+<!ENTITY new_guest_session_title "&brandShortName; буде перезапущено">
+<!ENTITY new_guest_session_text "Особа, котра користується гостьовим сеансом не побачить жодних ваших особистих даних (паролі, історія, закладки тощо). .\n\nКоли гість завершить роботу, їхні дані перегляду будуть стерті, а ваш сеанс буде відновлено.">
+
+<!ENTITY exit_guest_session_title "&brandShortName; буде перезапущено">
+<!ENTITY exit_guest_session_text "Дані цього сеансу перегляду будуть видалені.">
