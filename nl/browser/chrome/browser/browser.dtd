@@ -330,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesloten vensters">
 <!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
 
-<!ENTITY historyHomeCmd.label "Startpagina">
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
