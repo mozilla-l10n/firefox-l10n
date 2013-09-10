@@ -265,6 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Hulpmiddelen in-/uitschakelen">
 <!ENTITY devToolboxMenuItem.accesskey      "H">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Ontwikkelaarshulpmiddelen in-/uitschakelen">
 <!ENTITY devToolbarOtherToolsButton.label  "Meer hulpmiddelen">	
