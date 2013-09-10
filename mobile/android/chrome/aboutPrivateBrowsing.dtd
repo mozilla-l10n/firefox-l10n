@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title                  "Потайливий режим">
+
+<!ENTITY privatebrowsingpage.issueDesc.private      "Ви відкрили нову потайливу вкладку.">
+<!ENTITY privatebrowsingpage.issueDesc.normal       "Наразі ви не в потайливій вкладці.">
+
+<!ENTITY privatebrowsingpage.description            "В приватних вкладках &brandShortName; не буде писати історію перегляду, пошуків, завантажень та форм. Також не писатимуться куки та тимчасові мережеві файли.  Однак завантажені вами файли та поставлені вами закладки лишаться.">
+<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+
+<!ENTITY privatebrowsingpage.moreInfo               "Хоча цей пристрай і не буде мати історії ваших переглядів, ваш інтернет-провайдер все одно може відстежити які сторінки ви відвідуєте.">
