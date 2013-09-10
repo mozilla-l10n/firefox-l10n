@@ -9,6 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opzioni debugger">
 <!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
 <!ENTITY debuggerUI.pauseExceptions.key "M">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Ignora eccezioni individuate">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all'avvio">
 <!ENTITY debuggerUI.showPanesOnInit.key "V">
 <!ENTITY debuggerUI.showVarsFilter "Visualizza sezione filtro variabili">
