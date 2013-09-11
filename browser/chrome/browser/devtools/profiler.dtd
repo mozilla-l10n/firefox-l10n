@@ -5,3 +5,4 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Profiler strings -->
 
 <!ENTITY importProfile.label "Importar…">
+<!ENTITY startProfiler.tooltip "Empezar a perfilar">

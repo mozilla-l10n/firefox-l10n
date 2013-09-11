@@ -9,6 +9,8 @@
 <!ENTITY debuggerUI.optsButton.tooltip "Opciones del depurador">
 <!ENTITY debuggerUI.pauseExceptions "Pausar en excepciones">
 <!ENTITY debuggerUI.pauseExceptions.key "E">
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorar excepciones atrapadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.key "C">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.key "S">
 
