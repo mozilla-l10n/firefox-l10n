@@ -19,3 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Förhandsgranska flikar i Windows aktivitetsfält">
 <!ENTITY showTabsInTaskbar.accesskey      "F">
+<!ENTITY tabsGroup.label          "Flikar">
