@@ -216,6 +216,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey "w">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
+
 <!ENTITY devtoolsConnect.label "Připojit…">
 <!ENTITY devtoolsConnect.accesskey "P">
 
