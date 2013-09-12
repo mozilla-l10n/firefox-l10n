@@ -30,6 +30,9 @@
 <!ENTITY connection.disconnecting "Disconnessione in corso…">
 <!ENTITY connection.cancel "Annulla">
 <!ENTITY connection.or "o">
+<!ENTITY connection.noSimulatorInstalled "Nessun simulatore installato.">
+<!ENTITY connection.installFirstSimulator "Installa simulatore.">
+<!ENTITY connection.installAnotherSimulator "Aggiungi">
 <!ENTITY projects.localApps "App locali">
 <!ENTITY projects.addApp "Aggiungi">
 <!ENTITY projects.addPackaged "Aggiungi app packaged">
