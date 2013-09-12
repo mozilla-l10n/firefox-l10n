@@ -682,9 +682,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.label "Sélectionner les discussions">
 <!ENTITY social.chatBar.accesskey "S">
 
-<!ENTITY social.markpage.accesskey "e">
+<!ENTITY social.markpageMenu.accesskey "e">
 <!ENTITY social.markpageMenu.label "Envoyer la page à…">
-<!ENTITY social.marklink.accesskey "e">
+<!ENTITY social.marklinkMenu.accesskey "e">
 <!ENTITY social.marklinkMenu.label "Envoyer le lien à…">
 
 <!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
