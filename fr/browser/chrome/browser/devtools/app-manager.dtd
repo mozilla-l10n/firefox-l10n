@@ -32,6 +32,9 @@
 <!ENTITY connection.disconnecting "Déconnexion…">
 <!ENTITY connection.cancel "Annuler">
 <!ENTITY connection.or "ou">
+<!ENTITY connection.noSimulatorInstalled "Aucun simulateur installé.">
+<!ENTITY connection.installFirstSimulator "Installer un simulateur.">
+<!ENTITY connection.installAnotherSimulator "Ajouter">
 
 <!ENTITY projects.localApps "Applications locales">
 <!ENTITY projects.addApp "Ajouter">
