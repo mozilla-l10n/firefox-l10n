@@ -464,9 +464,9 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Seleziona chat">
 <!ENTITY social.chatBar.accesskey "h">
-<!ENTITY social.markpage.accesskey "a">
+<!ENTITY social.markpageMenu.accesskey "a">
 <!ENTITY social.markpageMenu.label "Salva pagina in…">
-<!ENTITY social.marklink.accesskey "S">
+<!ENTITY social.marklinkMenu.accesskey "S">
 <!ENTITY social.marklinkMenu.label "Salva link in…">
 <!ENTITY getUserMedia.selectCamera.label "Fotocamera da condividere:">
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
