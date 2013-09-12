@@ -494,7 +494,6 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Přijmout zprávy">
-<!ENTITY getMsgButton.label "Přijmout">
 <!ENTITY newMsgButton.label "Napsat">
 <!ENTITY replyButton.label "Odpovědět">
 <!ENTITY replyAllButton.label "Odp. všem">

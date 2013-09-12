@@ -44,7 +44,6 @@ can reach it easily. -->
 <!ENTITY moveToNewWindow.accesskey "k">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarkAllTabs.accesskey "d">
-<!ENTITY undoCloseTab.label "Otevřít zavřený panel">
 <!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
