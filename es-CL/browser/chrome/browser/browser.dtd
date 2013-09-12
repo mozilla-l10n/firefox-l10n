@@ -27,7 +27,6 @@
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY undoCloseTab.accesskey "h">
-<!ENTITY  undoCloseTabs.label                "Deshacer cerrar pestañas">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
@@ -81,6 +80,7 @@
 <!ENTITY fullScreenExit.accesskey "S">
 <!ENTITY fullscreenAllowButton.label "Permitir">
 <!ENTITY fullscreenExitButton.label "Denegar">
+<!ENTITY fullscreenExitHint2.value "Presiona ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!ENTITY closeWindow.label "Cerrar ventana">
@@ -164,6 +164,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey "w">
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 <!ENTITY devtoolsConnect.label        "Conectar…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
@@ -189,6 +191,8 @@
 <!ENTITY devToolbar.keytext "F2">
 <!ENTITY devToolboxMenuItem.label          "Activar herramientas">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 <!ENTITY devToolbarToolsButton.tooltip     "Activar las herramientas de desarrollador">
 <!ENTITY devToolbarOtherToolsButton.label "Más herramientas">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más herramientas">
