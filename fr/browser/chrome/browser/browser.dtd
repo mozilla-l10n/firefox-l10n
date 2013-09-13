@@ -710,4 +710,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "L'onglet a planté">
 <!ENTITY tabCrashed.message "Hum, c'est embarrassant. Nous avons essayé d'afficher cette page web, mais elle ne répond pas.">
+<!ENTITY tabCrashed.checkSendReport "Informer &vendorShortName; de ce problème pour qu'il puisse être corrigé.">
 <!ENTITY tabCrashed.tryAgain "Réessayer">
