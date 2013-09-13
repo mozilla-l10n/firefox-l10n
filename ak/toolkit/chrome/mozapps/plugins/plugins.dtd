@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Hwehwɛ ntoso…">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
-
+<!ENTITY hidePluginBtn.label                                 "Suma plagin">
 <!ENTITY installPlugin                                       "Instɔl plagin…">
 <!ENTITY managePlugins                                       "Hwɛ mplagin so…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

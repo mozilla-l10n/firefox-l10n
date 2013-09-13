@@ -22,8 +22,10 @@ ma &brandShortName; tumi sɛ ɔnhwehwɛ mma wo otomatikmu.">
 kwan a wo de bɛinstɔle no.">
 <!ENTITY  manualUpdateGetMsg.label        "Wobetumi anya &brandShortName; vɛɛhyɛn foforo wɔ:">
 
-
-
+<!ENTITY  unsupported.title               "Wɔnnsuo sestem no mu.">
+<!ENTITY  unsupported.label               "Wo &brandShortName; atwa mu, naaso wo sestem no nnsuo vɛɛhyɛn a adi ekyiri koraa no mu. Yɛsrɛ wo to wo sestem no so, na san so sɔ hwɛ. 
+ Wo rennhu nkaebɔ yi bio, naaso wo bɛtumi">
+<!ENTITY  unsupportedLink.label           "asua bi aka ho.">
 
 <!ENTITY  incompatibleCheck.title         "Ɛrehwehwɛ nka-ho biakoyɛ">
 <!ENTITY  incompatibleCheck.label         "Ɛrehwehwɛ wo nkaho no avɛɛhyen foforo…">
