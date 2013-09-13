@@ -20,7 +20,7 @@
 
 
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Borrador">
 
 <!ENTITY fileMenu.label               "Archivo">
 <!ENTITY fileMenu.accesskey           "A">

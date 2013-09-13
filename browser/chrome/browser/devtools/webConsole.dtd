@@ -11,9 +11,9 @@
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola del navegador">
 
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
+<!ENTITY networkPanel.requestURLColon             "URL pedida:">
+<!ENTITY networkPanel.requestMethodColon          "Método de la petición:">
+<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
 
 <!ENTITY networkPanel.requestHeaders              "Cabeceras de la petición">
 <!ENTITY networkPanel.requestCookie               "Cookie enviada">

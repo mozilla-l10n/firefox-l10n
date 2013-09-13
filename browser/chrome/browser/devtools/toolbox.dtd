@@ -7,10 +7,10 @@
 
 <!ENTITY closeCmd.key  "W">
 
-<!ENTITY toolboxCloseButton.tooltip    "Close Developer Tools">
+<!ENTITY toolboxCloseButton.tooltip    "Cerrar herramientas para desarrolladores">
 <!ENTITY toolboxOptionsButton.key      "O">
-
-
+<!ENTITY toolboxNextTool.key           "]">
+<!ENTITY toolboxPreviousTool.key       "[">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -62,7 +62,7 @@
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
 
-<!ENTITY options.toolNotSupported.label  "* No lo soporta la actual caja de herramientas">
+<!ENTITY options.toolNotSupported.label  "* No soportado en la actual caja de herramientas">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
@@ -91,3 +91,5 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
+<!ENTITY options.showPlatformData.label    "Mostrar plataforma de datos de Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Si se activa esta opción, los informes del perfilador de JavaScript incluirán \ nSímbolos plataforma de Gecko">

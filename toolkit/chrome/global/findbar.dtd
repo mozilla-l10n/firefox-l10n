@@ -11,6 +11,6 @@
 
 
 <!ENTITY highlightAll.tooltiptext "Marcar todas las frases encontradas">
-
-
-
+<!ENTITY caseSensitive.label "Coincidir Case">
+<!ENTITY caseSensitive.accesskey "C">
+<!ENTITY caseSensitive.tooltiptext "Buscar distinguiendo mayúsculas y minúsculas">
