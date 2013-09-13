@@ -8,7 +8,7 @@
 <!ENTITY privatebrowsingpage.description "V okně v režimu &privatebrowsingpage.title; si nebude &brandShortName; zaznamenávat žádnou diskovou mezipaměť, cookies nebo hisotrii stránek, hledání nebo formulářů. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
 <!ENTITY privatebrowsingpage.moreinfo "Ačkoliv váš počítač nebude obsahovat záznamy historie vašeho prohlížení, váš poskytovatel Internetu nebo zaměstnavatel může i nadále sledovat, jaké stránky navštěvujete.">
 <!ENTITY privatebrowsingpage.learnmore.label "Zjistit více">
-<!ENTITY privatebrowsingpage.learnmore.accesskey "L">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "Z">
 <!ENTITY privatebrowsingpage.private "&brandShortName; si nebude v tomto okně pamtovat žádnou hisotrii. Pro ukončení režimu &privatebrowsingpage.title; zavřete toto okno.">
 <!ENTITY privatebrowsingpage.switch.label "Přepnout do normáoního okna">
 <!ENTITY privatebrowsingpage.switch.accesskey "P">

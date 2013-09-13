@@ -297,7 +297,7 @@
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Odpovědět odesílateli a do skupiny">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Odpovědět všem příjemcům">
-<!ENTITY replyToAllRecipientsCmd.accesskey "a">
+<!ENTITY replyToAllRecipientsCmd.accesskey "v">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key "l">

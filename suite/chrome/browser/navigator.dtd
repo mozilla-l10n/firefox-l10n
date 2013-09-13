@@ -57,7 +57,7 @@
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 
 <!ENTITY locationBar.tooltip "Vložení vyhledávací podmínky, klíčového slova nebo webové adresy">
-<!ENTITY locationBar.accesskey "d">
+<!ENTITY locationBar.accesskey "U">
 <!ENTITY locationBar.title "Umístění">
 <!ENTITY proxyIcon.tooltip "Přetáhnutím ikony vytvoříte odkaz na tuto stránku">
 
