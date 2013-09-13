@@ -80,7 +80,7 @@
 <!ENTITY fontSizeMenu.label "Velikost">
 <!ENTITY fontSizeMenu.accesskey "l">
 <!ENTITY size-xx-smallCmd.label "Menší">
-<!ENTITY size-xx-smallCmd.accesskey "a">
+<!ENTITY size-xx-smallCmd.accesskey "e">
 <!ENTITY size-x-smallCmd.label "Nejmenší">
 <!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "Malé">
