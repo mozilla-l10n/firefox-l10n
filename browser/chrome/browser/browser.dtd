@@ -393,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "प्रतिमा माहितीचे दृष्य">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "दृश्य वर्णन (D)">
+<!ENTITY viewImageDescCmd.label       "दृश्य वर्णन">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "विडीओ दृष्य">
 <!ENTITY viewVideoCmd.accesskey       "I">
