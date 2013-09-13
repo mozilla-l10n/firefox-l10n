@@ -11,7 +11,7 @@
 <!ENTITY deleteAddrBookCard.label "Smazat">
 <!ENTITY deleteAddrBookCard.accesskey "m">
 <!ENTITY addrBookCardProperties.label "Vlastnosti">
-<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addrBookCardProperties.accesskey   "V">
 <!ENTITY addtoToFieldMenu.label "Přidat do Komu">
 <!ENTITY addtoToFieldMenu.accesskey "K">
 <!ENTITY addtoCcFieldMenu.label "Přidat do Kopie">

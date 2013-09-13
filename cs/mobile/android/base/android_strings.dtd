@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY splash_settingup "Nastavení &brandShortName;">
-<!ENTITY splash_bookmarks_history "Záložky a historie jsou aktualizovány, což může chvilku trvat.">
-
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
@@ -19,11 +16,11 @@
 <!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
 <!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházel(a)">
-<!ENTITY  crash_sorry "Omlouváme se">
-<!ENTITY  crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
-<!ENTITY  crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktoval(a)">
-<!ENTITY  crash_email "Váš e-mail">
-<!ENTITY  crash_closing_alert "Ukončit bez odesílání informace o pádu?">
+<!ENTITY crash_sorry "Omlouváme se">
+<!ENTITY crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
+<!ENTITY crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktoval(a)">
+<!ENTITY crash_email "Váš e-mail">
+<!ENTITY crash_closing_alert "Ukončit bez odesílání informace o pádu?">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY crash_close_label "Zavřít">
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
@@ -68,17 +65,26 @@
 
 <!ENTITY settings "Nastavení">
 <!ENTITY settings_title "Nastavení">
-<!ENTITY pref_category_general "Obecné">
-<!ENTITY pref_category_privacy "Soukromí a bezpečnost">
-<!ENTITY pref_category_content "Obsah">
-<!ENTITY pref_category_datareporting "Odesílání údajů">
-<!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
+<!ENTITY pref_category_advanced "Pokročilé">
+<!ENTITY pref_category_customize "Přizpůsobení">
+<!ENTITY pref_category_search2 "Nastavení vyhledávání">
+<!ENTITY pref_category_display "Zobrazení">
+<!ENTITY pref_category_privacy_short "Soukromí">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_datareporting "Možnosti hlášení">
+<!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
+<!ENTITY pref_category_devtools "Nástroje vývojáře">
+<!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
+<!ENTITY pref_developer_remotedebugging_docs "Zjistit více">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Obecné">
-<!ENTITY pref_header_privacy "Soukromí a zabezpečení">
-<!ENTITY pref_header_content "Obsah">
+<!ENTITY pref_header_customize "Přizpůsobení">
+<!ENTITY pref_header_display "Zobrazení">
+<!ENTITY pref_header_privacy_short "Soukromí">
+<!ENTITY pref_header_help "Nápověda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Nástroje vývojáře">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Povolit">
@@ -99,7 +105,11 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
-<!ENTITY pref_reflow_on_zoom3 "Stažením prstů formátovat text">
+<!ENTITY pref_reflow_on_zoom4 "Stažením prstů formátovat text">
+<!ENTITY pref_restore "Panaly">
+<!ENTITY pref_restore_always "Vždy obnovit">
+<!ENTITY pref_restore_crash "Obnovit po pádu">
+<!ENTITY pref_restore_never "Nikdy neobnovovat">
 <!ENTITY pref_font_size_tiny "Drobné">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
@@ -130,6 +140,10 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
 <!ENTITY pref_private_data_downloadFiles "Stažené soubory">
+
+<!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_feedback "Zpětná vazba">
 
 <!ENTITY datareporting_notification_title "Statistiky a data k aplikaci &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Zvolte, jaké informace chcete sdílet">
@@ -181,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Panely">
 <!ENTITY tabs_private "Anonymní">
 <!ENTITY tabs_synced "Synchronizované">
-<!ENTITY wallpaper_success "Pozadí plochy aktualizováno">
-<!ENTITY wallpaper_progress "Nastavování pozadí plochy">
-<!ENTITY wallpaper_fail "Nastavení pozadí plochy se nezdařilo">
+<!ENTITY set_image_fail "Nelze nastavit obrázek">
+<!ENTITY set_image_chooser_title "Nastavit obrázek jako">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -217,6 +230,8 @@ size. -->
 <!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Nastavení serveru">
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
@@ -227,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
 <!ENTITY reading_list_duplicate "Stránka je již v Seznamu ke čtení">
-<!ENTITY reader "Čtečka">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Další akce">
 
 <!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
 <!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
@@ -314,6 +332,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Záložky a historie">
 
+<!ENTITY devtools_remote_debugging_forward "Nezpomeňte nastavit port pro přesměrování">
+
 <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Dostupná aktualizace aplikace &brandShortName;">
 <!ENTITY updater_start_select2 "Klepněte pro stažení aktualizace">
@@ -325,3 +345,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Dostupná aktualizace aplikace &brandShortName;">
 <!ENTITY updater_apply_select2 "Klepněte pro instalaci aktualizace">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Nová relace pro hosty">
+<!ENTITY exit_guest_session "Ukončit relaci pro hosty">
+<!ENTITY guest_session_dialog_continue "Pokračovat">
+<!ENTITY guest_session_dialog_cancel "Zrušit">
+<!ENTITY new_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
+<!ENTITY new_guest_session_text "Osoba používající tento režim nebude moci vidět vaše osobní data o prohlížení (jako jsou uložená hesla, historie či záložky).\n\nJakmile ukončí režim pro hosty, budou jeho data smazána a vaše relace bude obnovena.">
+
+<!ENTITY exit_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
+<!ENTITY exit_guest_session_text "Data o prohlížení z této relace budou smazána.">

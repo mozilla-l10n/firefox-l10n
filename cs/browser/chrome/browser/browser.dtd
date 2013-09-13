@@ -44,13 +44,12 @@ can reach it easily. -->
 <!ENTITY moveToNewWindow.accesskey "k">
 <!ENTITY bookmarkAllTabs.label "Přidat všechny panely do záložek…">
 <!ENTITY bookmarkAllTabs.accesskey "d">
-<!ENTITY undoCloseTab.label "Otevřít zavřený panel">
+<!ENTITY  undoCloseTab.label                 "Obnovit zavřený panel">
+<!ENTITY undoCloseTab.accesskey "t">
 <!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
 when the previous tab-closing operation closed more than one tab. It
 replaces the undoCloseTab.label and will use the same accesskey as the
 undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                "Obnovit zavřené panely">
-<!ENTITY undoCloseTab.accesskey "t">
 <!ENTITY closeTab.label "Zavřít panel">
 <!ENTITY closeTab.accesskey "Z">
 

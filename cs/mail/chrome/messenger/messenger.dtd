@@ -27,7 +27,7 @@
 <!ENTITY newOtherAccountsCmd.label "Další účty…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Získat nový poštovní účet…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "Z">
+<!ENTITY newCreateEmailAccountCmd.accesskey "s">
 <!ENTITY newExistingEmailAccountCmd.label "Existující poštovní účet…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Účet chatu…">
@@ -35,7 +35,7 @@
 <!ENTITY newFeedAccountCmd.label "Účet kanalů…">
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Kontakty chatu…">
-<!ENTITY newIMContactCmd.accesskey "K">
+<!ENTITY newIMContactCmd.accesskey "n">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložit jako">
@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Přijmout">
+<!ENTITY getMsgButton1.label "Přijmout zprávy">
 <!ENTITY newMsgButton.label "Napsat">
 <!ENTITY replyButton.label "Odpovědět">
 <!ENTITY replyAllButton.label "Odp. všem">
