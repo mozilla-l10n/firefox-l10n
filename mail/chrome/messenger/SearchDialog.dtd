@@ -34,6 +34,8 @@
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Redactar">
 <!ENTITY composeButton.accesskey "e">
+<!ENTITY deleteCardButton.label      "Borrar">
+<!ENTITY deleteCardButton.accesskey  "B">
 <!ENTITY abSearchDialogTitle.label "Búsqueda avanzada en la libreta de direcciones">
 
 <!-- Thread Pane -->
