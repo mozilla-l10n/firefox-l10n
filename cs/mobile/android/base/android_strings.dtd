@@ -242,7 +242,6 @@ size. -->
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!ENTITY reading_list_failed "Přidání stránky do Seznamu ke čtení skončilo chybou">
 <!ENTITY reading_list_duplicate "Stránka je již v Seznamu ke čtení">
-<!ENTITY reader "Čtečka">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->

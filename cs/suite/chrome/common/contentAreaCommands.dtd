@@ -104,6 +104,19 @@
 <!ENTITY mediaMute.accesskey "t">
 <!ENTITY mediaUnmute.label "Vypnout ztlumení">
 <!ENTITY mediaUnmute.accesskey "V">
+<!ENTITY mediaPlaybackRate.label        "Rychlost přehrávání">
+<!ENTITY mediaPlaybackRate.accesskey    "R">
+<!ENTITY mediaPlaybackRate050.label     "Pomalé přehrávání (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "P">
+<!ENTITY mediaPlaybackRate100.label     "Normální rychlost">
+<!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate150.label     "Rychlé přehrávání (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "R">
+<!ENTITY mediaPlaybackRate200.label     "Dvojnásobná rychlost">
+<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label "Zobrazit ovládání">
 <!ENTITY mediaShowControls.accesskey "o">
 <!ENTITY mediaHideControls.label "Skrýt ovládání">
