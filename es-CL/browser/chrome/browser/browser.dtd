@@ -495,7 +495,7 @@
 <!ENTITY social.chatBar.accesskey "c">
 <!ENTITY social.markpage.accesskey "m">
 <!ENTITY social.markpageMenu.label "Guardar enlace a…">
-<!ENTITY social.marklink.accesskey "M">
+<!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "Guardar enlace a…">
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
