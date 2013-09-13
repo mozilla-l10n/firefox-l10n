@@ -12,13 +12,14 @@
 <!ENTITY intro.message "Dejte nám vědět, jak se vám &brandShortName; pro Android líbí.">
 <!ENTITY intro.happyLink "Líbí se mi">
 <!ENTITY intro.sadLink "Narazil jsem na problém">
+<!ENTITY intro.maybeLater          "Možná později">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre "Pokud potřebujete s aplikací &brandShortName; pomoci, navštivte prosím stránky">
-<!ENTITY support.link "Podpora aplikace &brandShortName;">
-<!ENTITY support.post ".">
+<!ENTITY support.pre2 "Pro více informací též můžete navštívit ">
+<!ENTITY support.link "podporu aplikace &brandShortName;">
+<!ENTITY support.post2 ".">
 
 <!ENTITY happy.header "Tak to nás těší!">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint "Zaberete to míň než minutu a budete mít z toho dobrý pocit.">
 
 <!ENTITY happy.ratingLink "Ano, přejít na Google Play">
-<!ENTITY happy.maybeLater "Možná později">
+<!ENTITY happy.maybeLater2 "Možná později">
 <!ENTITY happy.noThanks "Ne, díky">
 
 <!ENTITY sad.message "Je nám líto, že jste s aplikací &brandShortName; narazili na problém. Dejte nám prosím vědět, co se stalo.">
