@@ -46,4 +46,4 @@
 <!ENTITY projects.stopApp "Blocca">
 <!ENTITY projects.debugApp "Debug">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProject "Nessun progetto collegato. Aggiungi un'app packaged (una cartella) o un'app hosted (link a un file manifesto).">
+<!ENTITY projects.noProjects "Nessun progetto presente. Aggiungi un'app packaged (una cartella) o un'app hosted (link a un file manifesto).">
