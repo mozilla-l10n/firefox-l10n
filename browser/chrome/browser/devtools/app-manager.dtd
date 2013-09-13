@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY index.title "Gestionnaire d'applications">
-<!ENTITY index.projects "Mes applications">
-<!ENTITY index.device "Mon appareil">
+<!ENTITY index.projects2 "Applications">
+<!ENTITY index.device2 "Appareil">
 
 <!ENTITY device.screenshot "Capture d'écran">
 <!ENTITY device.title "Gestionnaire d'appareils">
