@@ -105,11 +105,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Afslut fuldskærmstilstand">
 <!ENTITY fullScreenExit.accesskey "A">
-
 <!ENTITY fullscreenAllowButton.label "Tillad">
 <!ENTITY fullscreenExitButton.label "Afvis">
-<!ENTITY fullscreenApproval.value "Tillad fuldskærmstilstand?">
-<!ENTITY fullscreenExitHint.value "Tast ESC for at afslutte visning i fuld skærm.">
+
+<!ENTITY fullscreenExitHint2.value "Tast ESC for at afslutte visning i fuld skærm.">
 <!ENTITY leaveDOMFullScreen.label "Afslut fuldskærmstilstand">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -200,8 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label           "Tilføj et stikord til denne søgning…">
 <!ENTITY keywordfield.accesskey       "s">
-<!ENTITY search.label                 "Søgning">
-<!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Filhentning">
 <!ENTITY downloads.tooltip            "Vis status for filhentning">
 <!ENTITY downloads.accesskey          "F">
@@ -213,6 +210,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+#nedenstående to strenge har jeg ikke styr på funktionen af
+<!ENTITY devToolsCmd.keycode          "VK_F12">
+<!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Opret forbindelse…">
 <!ENTITY devtoolsConnect.accesskey    "f">
@@ -259,6 +259,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Vis værktøjer">
 <!ENTITY devToolboxMenuItem.accesskey      "V">
+<!ENTITY devToolboxMenuItem.keycode        "V">
+<!ENTITY devToolboxMenuItem.keytext        "V">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Vis udviklerværktøjer">
 <!ENTITY devToolbarOtherToolsButton.label  "Flere værktøjer">
@@ -326,7 +328,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Senest lukkede vinduer">
 <!ENTITY historyRestoreLastSession.label "Genskab forrige session">
 
-<!ENTITY historyHomeCmd.label "Hjem">
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 
@@ -408,6 +409,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Vis billededoplysninger">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
+<!ENTITY viewImageDescCmd.label       "Vis beskrivelse">
+<!ENTITY viewImageDescCmd.accesskey   "b">
+#de to nedenstående accesskeys lader til at kollidere
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis baggrundsbillede">
@@ -621,6 +625,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "som ejes af">
 
 <!ENTITY identity.moreInfoLinkText "Flere informationer…">
+
+<!ENTITY identity.permissions "Tilladelser">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
