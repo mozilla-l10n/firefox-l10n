@@ -49,4 +49,4 @@
 <!ENTITY projects.stopApp "Arrêter">
 <!ENTITY projects.debugApp "Déboguer">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemple.com/application/manifest.webapp">
-<!ENTITY projects.noProject "Aucun lien vers un projet. Ajoutez ci-dessous une application empaquetée (un répertoire) ou une application hébergée (un lien vers un fichier manifeste).">
+<!ENTITY projects.noProjects "Aucun projet. Ajoutez ci-dessous une application empaquetée (répertoire local) ou une application hébergée (lien vers un fichier manifeste).">
