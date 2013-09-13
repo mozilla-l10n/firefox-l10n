@@ -26,4 +26,4 @@
 <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
      expressing joy that the user has successfully migrated their stuff and hope
      that now they have a better experience.  -->
-
+<!ENTITY welcomeback.pageInfo       "&brandShortName; reestableció tu pérfil con éxito. A continuación viene una lista de ventanas y pestañas que habias abierto; puedes restaurarlas o hacer borrón y cuenta nueva.">

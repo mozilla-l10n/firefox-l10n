@@ -11,7 +11,7 @@
   -  should be displayed or not. -->
 
 
-<!ENTITY browserStylesLabel    "Browser styles">
+<!ENTITY browserStylesLabel    "Ver estilos">
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
 
@@ -28,5 +28,5 @@
 <!ENTITY noPropertiesFound     "No se encontraron propiedades CSS.">
 <!-- FIXME: notes -->
 
-<!ENTITY computedViewTitle     "Computed">
-<!ENTITY ruleViewTitle         "Rules">
+<!ENTITY computedViewTitle     "Computada">
+<!ENTITY ruleViewTitle         "Reglas">
