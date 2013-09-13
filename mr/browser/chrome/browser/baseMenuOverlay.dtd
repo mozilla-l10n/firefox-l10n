@@ -20,7 +20,7 @@
 <!ENTITY productHelp.accesskey    "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "किबोर्ड शार्टकट्स (K)">
+<!ENTITY helpKeyboardShortcuts.label     "किबोर्ड शार्टकट्स">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "ॲडऑन्स बंद असल्यावर पुनः सुरू करा…">

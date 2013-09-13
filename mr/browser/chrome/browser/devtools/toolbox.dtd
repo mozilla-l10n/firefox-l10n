@@ -92,4 +92,5 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko प्लॅटफॉर्म माहिती दाखवा">
-
+<!ENTITY options.showPlatformData.tooltip  "हा पर्याय सुरू केल्यास, JavaScript प्रोफाइलर रिपोर्ट्समध्ये खालील समाविष्ट होईल 
+Gecko प्लॅटफॉर्म सिम्बल्स">
