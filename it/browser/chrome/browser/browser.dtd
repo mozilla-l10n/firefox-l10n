@@ -484,6 +484,7 @@
 <!ENTITY pluginBlockNow.label "Blocca plugin">
 <!ENTITY tabCrashed.header "La scheda si è chiusa">
 <!ENTITY tabCrashed.message "Oops, questo è imbarazzante. Non è stato possibile visualizzare la pagina web perché il sito non risponde.">
+<!ENTITY tabCrashed.checkSendReport "Segnala questo blocco a &vendorShortName; in modo che il problema possa essere risolto.">
 <!ENTITY tabCrashed.tryAgain "Riprova">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY addonBarCmd.label "Barra dei componenti aggiuntivi">
