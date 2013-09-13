@@ -585,7 +585,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Չեղարկել">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում ին նույնացման ինֆորմացիան:">
+<!ENTITY identity.unverifiedsite2 "Այս վեբ կայքը չի տրամադրում իր նույնացման տեղեկատվությունը:">
 <!ENTITY identity.connectedTo "Դուք կապնվել էք">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
