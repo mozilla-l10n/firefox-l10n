@@ -20,7 +20,7 @@
 <!ENTITY account.disconnect.label "Odpojit">
 <!ENTITY account.disconnect.accesskey "O">
 <!ENTITY account.edit.label "Nastavení účtu">
-<!ENTITY account.edit.accesskey "P">
+<!ENTITY account.edit.accesskey "N">
 <!ENTITY account.moveup.label "Posunout nahoru">
 <!ENTITY account.movedown.label "Posunout dolů">
 <!ENTITY account.cancelReconnection.label "Zrušit připojení">

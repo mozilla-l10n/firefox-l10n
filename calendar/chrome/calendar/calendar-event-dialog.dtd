@@ -158,7 +158,7 @@
 <!ENTITY event.calendar.label "Kalendář:">
 <!ENTITY event.calendar.accesskey "l">
 <!ENTITY event.attendees.label "Účastníci:">
-<!ENTITY event.attendees.accesskey "v">
+<!ENTITY event.attendees.accesskey "a">
 <!ENTITY event.alldayevent.label "Celodenní událost">
 <!ENTITY event.alldayevent.accesskey "c">
 <!ENTITY event.from.label "Začátek:">
