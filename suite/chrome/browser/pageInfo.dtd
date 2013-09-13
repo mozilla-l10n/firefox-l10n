@@ -90,6 +90,7 @@
 <!ENTITY permissionsFor "Povolení pro server:">
 <!ENTITY permImage "Nahrávat obrázky">
 <!ENTITY permPopup "Otevírat vyskakovací okna">
+<!ENTITY permNotifications     "Zobrazovat upozornění">
 <!ENTITY permCookie "Ukládat cookies">
 <!ENTITY permInstall "Instalovat doplňky">
 <!ENTITY permGeo "Prozradit polohu">
