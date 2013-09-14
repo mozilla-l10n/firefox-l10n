@@ -45,5 +45,5 @@
 <!ENTITY projects.startApp "Starta">
 <!ENTITY projects.stopApp "Stoppa">
 <!ENTITY projects.debugApp "Avlusa">
-<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
-<!ENTITY projects.noProject "Inget länkat projekt. Lägg till en ny paketerad app nedan (en mapp) eller en app på webben (länk till en manifest-fil).">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "Inga projekt. Lägg till en ny paketerad app nedan (en lokal mapp) eller en app på webben (länk till en manifest-fil).">
