@@ -32,6 +32,11 @@
 <!ENTITY connection.disconnecting "Kopplar ned …">
 <!ENTITY connection.cancel "Avbryt">
 <!ENTITY connection.or "eller">
+<!ENTITY connection.noSimulatorInstalled "Ingen simulator är installerad.">
+<!ENTITY connection.installOneSimulator "Installera Simulator">
+<!ENTITY connection.installOneSimulatorTooltip "Installera en version av Simulator genom att hämta det relevanta tillägget.">
+<!ENTITY connection.installAnotherSimulator "Lägg till">
+<!ENTITY connection.installAnotherSimulatorTooltip "Installera ytterligare en version av Simulator genom att hämta det relevanta tillägget.">
 
 <!ENTITY projects.localApps "Lokala appar">
 <!ENTITY projects.addApp "Lägg till">
