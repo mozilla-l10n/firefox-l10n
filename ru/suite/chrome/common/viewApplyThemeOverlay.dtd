@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label "Применить тему">
 <!ENTITY applyTheme.accesskey "м">
-<!ENTITY getNewThemesCmd.label "Загрузить новые темы">
-<!ENTITY getNewThemesCmd.accesskey "г">
-<!ENTITY getPersonasCmd.label "Загрузить обои">
-<!ENTITY getPersonasCmd.accesskey "б">
+<!ENTITY getMoreThemesCmd.label "Просмотреть больше тем">
+<!ENTITY getMoreThemesCmd.accesskey "е">
+<!ENTITY getBackgroundsCmd.label "Просмотреть обои">
+<!ENTITY getBackgroundsCmd.accesskey "о">
