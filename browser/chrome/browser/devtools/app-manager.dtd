@@ -7,42 +7,64 @@
 <!ENTITY index.device2 "Appareil">
 
 <!ENTITY device.screenshot "Capture d'écran">
+<!ENTITY device.screenshotTooltip "Ouvrir dans un nouvel onglet une capture d'écran de l'état actuel de l'appareil.">
 <!ENTITY device.title "Gestionnaire d'appareils">
 <!ENTITY device.notConnected "Non connecté. Veuillez connecter votre appareil ci-dessous.">
 <!ENTITY device.startApp "Démarrer">
+<!ENTITY device.startAppTooltip "Démarrer cette application sur l'appareil.">
 <!ENTITY device.stopApp "Arrêter">
+<!ENTITY device.stopAppTooltip "Arrêter cette application sur l'appareil.">
 <!ENTITY device.debugApp "Déboguer">
+<!ENTITY device.debugAppTooltip "Ouvrir les outils de développement connectés à cette application sur l'appareil.">
 <!ENTITY device.name "Nom">
 <!ENTITY device.app "Application">
 <!ENTITY device.privileged "Privilégiée">
 <!ENTITY device.certified "Certifiée">
 <!ENTITY device.allow "Autoriser">
+<!ENTITY device.allowTooltip "Cette permission est autorisée pour les applications de ce type.">
 <!ENTITY device.prompt "Demander">
+<!ENTITY device.promptTooltip "Cette permission nécessite l'accord de l'utilisateur pour les applications de ce type.">
 <!ENTITY device.deny "Refuser">
+<!ENTITY device.denyTooltip "Cette permission est refusée pour les applications de ce type.">
 <!ENTITY device.installedApps "Applications installées">
+<!ENTITY device.installedAppsTooltip "Afficher une liste des applications installées sur l'appareil. Certaines applications, comme les applications certifiées, peuvent être exclues de cette liste.">
 <!ENTITY device.permissions "Permissions">
+<!ENTITY device.permissionsTooltip "Afficher un tableau des permissions accessibles aux différents types d'applications.">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Aide">
 
+<!ENTITY connection.connectTooltip "Se connecter à l'appareil">
 <!ENTITY connection.disconnect "Se déconnecter">
+<!ENTITY connection.disconnectTooltip "Se déconnecter de l'appareil actuel ou du simulateur.">
 <!ENTITY connection.showDeviceCtrlCenter "Cliquer pour plus de détails">
 <!ENTITY connection.notConnected "Non connecté">
 <!ENTITY connection.changeHostAndPort "Modifier">
-<!ENTITY connection.startSimulator "Démarrer le simulateur">
+<!ENTITY connection.changeHostAndPortTooltip "Modifier l'hôte et le port utilisés pour se connecter à l'appareil. (La valeur par défaut est localhost:6000)">
+<!ENTITY connection.startSimulator "Lancer le simulateur">
+<!ENTITY connection.startSimulatorTooltip "Lancer une instance du simulateur et s'y connecter.">
 <!ENTITY connection.saveConnectionInfo "Enregistrer">
+<!ENTITY connection.saveConnectionInfoTooltip "Enregistrer l'hôte et le port.">
 <!ENTITY connection.connecting "Connexion…">
+<!ENTITY connection.cancelConnectTooltip "Annuler la connexion en cours.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Quitter le mode de connexion au simulateur et revenir au formulaire de départ.">
 <!ENTITY connection.disconnecting "Déconnexion…">
 <!ENTITY connection.cancel "Annuler">
 <!ENTITY connection.or "ou">
 <!ENTITY connection.noSimulatorInstalled "Aucun simulateur installé.">
-<!ENTITY connection.installFirstSimulator "Installer un simulateur.">
+<!ENTITY connection.installOneSimulator "Installer un simulateur">
+<!ENTITY connection.installOneSimulatorTooltip "Installer une version du simulateur en téléchargeant un module complémentaire.">
 <!ENTITY connection.installAnotherSimulator "Ajouter">
+<!ENTITY connection.installAnotherSimulatorTooltip "Installer une version supplémentaire du simulateur en téléchargeant un module complémentaire.">
 
 <!ENTITY projects.localApps "Applications locales">
 <!ENTITY projects.addApp "Ajouter">
 <!ENTITY projects.addPackaged "Ajouter une application empaquetée">
+<!ENTITY projects.addPackagedTooltip "Ajouter une nouvelle application empaquetée (un répertoire) depuis votre ordinateur.">
 <!ENTITY projects.addHosted "Ajouter une application hébergée">
+<!ENTITY projects.addHostedTooltip "Ajouter une nouvelle application hébergée (lien vers un fichier manifest.webapp) depuis un site web distant.">
 <!ENTITY projects.title "Applications locales">
 <!ENTITY projects.appDetails "Détails de l'application">
-<!ENTITY projects.removeApp "Supprimer">
+<!ENTITY projects.removeAppFromList "Retirer cette application de le liste des applications sur lesquelles vous travaillez. Elle ne sera pas supprimée de l'appareil ou du simulateur.">
 <!ENTITY projects.reloadFiles "Actualiser">
 <!ENTITY projects.installApp "Installer">
 <!ENTITY projects.startApp "Démarrer">
