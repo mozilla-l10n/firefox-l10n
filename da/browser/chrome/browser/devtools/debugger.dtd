@@ -22,7 +22,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-# nedenstående to strenge er jeg meget usikker på. Den engelske fil har "This source is black boxed: its breakpoints are disabled, and stepping skips through it." og "Stop black boxing this source"
 <!ENTITY debuggerUI.blackBoxMessage.label "Denne kilde er black boxed: dens breakpoints er deaktiverede og stepping springes over.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
@@ -131,14 +130,6 @@
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch      "Fjern alle overvågnings-udtryk">
 <!ENTITY debuggerUI.removeAllWatch.key  "E">
-# det følgende har jeg intet overblik over. Det så således ud tidligere:
-#<!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
-#  -  control the stepping commands in the debugger (continue, step over,
-#  -  step in and step out). -->
-#<!ENTITY debuggerUI.stepping.resume     "VK_F6">
-#<!ENTITY debuggerUI.stepping.stepOver   "VK_F7">
-#<!ENTITY debuggerUI.stepping.stepIn     "VK_F8">
-#<!ENTITY debuggerUI.stepping.stepOut    "VK_F8">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
