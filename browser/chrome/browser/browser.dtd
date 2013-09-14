@@ -77,6 +77,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bogmærkelinje">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bogmærkelinje-elementer">
+
 <!ENTITY addonBarCmd.label "Tilføjelseslinje">
 <!ENTITY addonBarCmd.accesskey "T">
 
@@ -108,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenAllowButton.label "Tillad">
 <!ENTITY fullscreenExitButton.label "Afvis">
 
-<!ENTITY fullscreenExitHint2.value "Tast ESC for at afslutte visning i fuld skærm.">
+<!ENTITY fullscreenExitHint2.value "Tryk ESC for at afslutte visning i fuld skærm.">
 <!ENTITY leaveDOMFullScreen.label "Afslut fuldskærmstilstand">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -210,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-#nedenstående to strenge har jeg ikke styr på funktionen af
+
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
@@ -259,8 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Vis værktøjer">
 <!ENTITY devToolboxMenuItem.accesskey      "V">
-<!ENTITY devToolboxMenuItem.keycode        "V">
-<!ENTITY devToolboxMenuItem.keytext        "V">
+<!ENTITY devToolboxMenuItem.keycode        "I">
+<!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Vis udviklerværktøjer">
 <!ENTITY devToolbarOtherToolsButton.label  "Flere værktøjer">
@@ -411,7 +412,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "i">
 <!ENTITY viewImageDescCmd.label       "Vis beskrivelse">
 <!ENTITY viewImageDescCmd.accesskey   "b">
-#de to nedenstående accesskeys lader til at kollidere
+
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis baggrundsbillede">
