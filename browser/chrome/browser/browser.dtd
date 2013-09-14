@@ -673,6 +673,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY tabCrashed.header "Fliken kraschade">
 <!ENTITY tabCrashed.message "Tråkigt nog svarade inte webbsidan när vi försökte visa den.">
+<!ENTITY tabCrashed.checkSendReport "Meddela &vendorShortName; om den här kraschen så att de kan fixa den.">
 <!ENTITY tabCrashed.tryAgain "Försök igen">
 
 <!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
