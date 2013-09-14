@@ -48,7 +48,7 @@
 <!ENTITY sync.flyout.pairNewDevice.description            "No novo aparelho que deseja emparelhar, selecione &quot;Configurar o &syncBrand.shortName.label;&quot; e escreva o código criado pelo aparelho">
 <!ENTITY sync.flyout.pairNewDevice.pair                   "Emparelhar">
 <!ENTITY sync.flyout.pairNewDevice.note1                  "Nota:">
-<!ENTITY sync.flyout.pairNewDevice.note2_2                "Pode aceder ao &syncBrand.shortName.label; para encontrar o código através do">
+<!ENTITY sync.flyout.pairNewDevice.note2_2                "Para encontrar o código,">
 <!ENTITY sync.flyout.pairNewDevice.note3_2                "[Desktop] Abra as &quot;Opções&quot; ou &quot;Preferências&quot; e siga os passos: &syncBrand.shortName.label; -&gt; Configurar o &syncBrand.shortName.label; -&gt; Já tenho uma conta">
 <!ENTITY sync.flyout.pairNewDevice.note4                  "[Android] Mais &gt; Definições &gt; &syncBrand.shortName.label;">
 <!ENTITY sync.flyout.pairNewDevice.failure                "Por favor, tente de novo">
