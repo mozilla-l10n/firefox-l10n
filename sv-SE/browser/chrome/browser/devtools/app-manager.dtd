@@ -7,30 +7,48 @@
 <!ENTITY index.device2 "Enhet">
 
 <!ENTITY device.screenshot "Skärmdump">
+<!ENTITY device.screenshotTooltip "Öppnar en skärmdump av aktuell enhetsstatus i en ny flik.">
 <!ENTITY device.title "Kontrollpanel för enheter">
 <!ENTITY device.notConnected "Ej ansluten. Anslut enheten nedan.">
 <!ENTITY device.startApp "Starta">
+<!ENTITY device.startAppTooltip "Starta appen på enheten.">
 <!ENTITY device.stopApp "Stoppa">
+<!ENTITY device.stopAppTooltip "Stoppa appen på enheten.">
 <!ENTITY device.debugApp "Avlusa">
+<!ENTITY device.debugAppTooltip "Öppna utvecklarverktygen anslutna till appen på enheten.">
 <!ENTITY device.name "Namn">
 <!ENTITY device.app "App">
 <!ENTITY device.privileged "Privilegierad">
 <!ENTITY device.certified "Certifierad">
 <!ENTITY device.allow "Tillåt">
+<!ENTITY device.allowTooltip "Detta tillstånd gäller för appar av den här typen.">
 <!ENTITY device.prompt "Fråga">
+<!ENTITY device.promptTooltip "Detta tillstånd kräver godkännande av användaren för appar av den här typen.">
 <!ENTITY device.deny "Neka">
+<!ENTITY device.denyTooltip "Detta tillstånd nekas för appar av den här typen.">
 <!ENTITY device.installedApps "Installerade appar">
+<!ENTITY device.installedAppsTooltip "Se en lista på appar installerade på enheten. Vissa appar, såsom certifierade appar, kan saknas i listan.">
 <!ENTITY device.permissions "Rättigheter">
+<!ENTITY device.permissionsTooltip "Se en tabell på tillgängliga tillstånd för olika typer av appar.">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.help "Hjälp">
 
+<!ENTITY connection.connectTooltip "Anslut till enheten.">
 <!ENTITY connection.disconnect "Koppla ned">
+<!ENTITY connection.disconnectTooltip "Koppla ned från aktuell enhet eller simulator.">
 <!ENTITY connection.showDeviceCtrlCenter "Klicka för fler detaljer">
 <!ENTITY connection.notConnected "Ej ansluten">
 <!ENTITY connection.changeHostAndPort "Ändra">
+<!ENTITY connection.changeHostAndPortTooltip "Ändra värd och port som används för att ansluta till enheten. (Standard är localhost:6000)">
 <!ENTITY connection.startSimulator "Starta simulator">
+<!ENTITY connection.startSimulatorTooltip "Starta en instans av Simulator och anslut till den.">
 <!ENTITY connection.saveConnectionInfo "Spara">
+<!ENTITY connection.saveConnectionInfoTooltip "Spara värden och porten.">
 <!ENTITY connection.connecting "Ansluter …">
 <!ENTITY connection.disconnecting "Kopplar ned …">
 <!ENTITY connection.cancel "Avbryt">
+<!ENTITY connection.cancelConnectTooltip "Avbryt den pågående anslutningen.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Avsluta anslutningsläget Simulator och återgå till ursprunglig skärm.">
 <!ENTITY connection.or "eller">
 <!ENTITY connection.noSimulatorInstalled "Ingen simulator är installerad.">
 <!ENTITY connection.installOneSimulator "Installera Simulator">
@@ -41,10 +59,12 @@
 <!ENTITY projects.localApps "Lokala appar">
 <!ENTITY projects.addApp "Lägg till">
 <!ENTITY projects.addPackaged "Lägg till paketerad app">
+<!ENTITY projects.addPackagedTooltip "Lägg till en ny paketerad app (en mapp) från din dator.">
 <!ENTITY projects.addHosted "Lägg till appar på webben">
+<!ENTITY projects.addHostedTooltip "Lägg till en ny app på webben (länk till en manifest.webapp-fil) från en webbplats.">
 <!ENTITY projects.title "Lokala appar">
 <!ENTITY projects.appDetails "Appdetaljer">
-<!ENTITY projects.removeApp "Ta bort">
+<!ENTITY projects.removeAppFromList "Ta bort den här appen från listan på appar du arbetar med. Den tas inte bort från enheten eller simulatorn">
 <!ENTITY projects.reloadFiles "Uppdatera">
 <!ENTITY projects.installApp "Installera">
 <!ENTITY projects.startApp "Starta">
