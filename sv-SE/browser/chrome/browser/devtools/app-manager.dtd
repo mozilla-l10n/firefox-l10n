@@ -5,6 +5,7 @@
 <!ENTITY index.title "Hantera appar">
 <!ENTITY index.projects2 "Appar">
 <!ENTITY index.device2 "Enhet">
+<!ENTITY index.help "Hjälp">
 
 <!ENTITY device.screenshot "Skärmdump">
 <!ENTITY device.screenshotTooltip "Öppnar en skärmdump av aktuell enhetsstatus i en ny flik.">
@@ -72,3 +73,13 @@
 <!ENTITY projects.debugApp "Avlusa">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Inga projekt. Lägg till en ny paketerad app nedan (en lokal mapp) eller en app på webben (länk till en manifest-fil).">
+
+<!ENTITY help.title "Hantera appar">
+<!ENTITY help.close "Stäng">
+<!ENTITY help.intro "Det här verktyget hjälper dig att bygga och installera webbappar på kompatibla enheter (t.ex. Firefox OS). Fliken <strong>Appar</strong> hjälper dig att validera och installera din app. Fliken <strong>Enhet</strong> ger dig information om den anslutna enheten. Använd det nedre verktygsfältet för att ansluta en enhet eller starta simulatorn.">
+<!ENTITY help.usefullLinks "Användbara länkar:">
+<!ENTITY help.linkToAppMgrDoc "<a>Dokumentation: Använda apphanteraren</a>">
+<!ENTITY help.linkToConfiguringDevice "<a>Hur du ställer in en Firefox OS-enhet</a>">
+<!ENTITY help.linkToTroubleShooting "<a>Felsökning</a>">
+<!ENTITY help.linkToSimulatorAddon "<a>Installera tillägget Simulator</a>">
+<!ENTITY help.linkToAdbHelperAddon "<a>Installera tillägget Adb Helper</a>">
