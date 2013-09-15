@@ -486,14 +486,3 @@
 <!ENTITY searchButton.accesskey "C">
 <!ENTITY all.label "Tutti">
 <!ENTITY all.accesskey "T">
-<!ENTITY junkBarMessage.label "&brandShortName; ritiene che questo messaggio sia spam.">
-<!ENTITY junkBarButton.label "Non è spam">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage.label "Per proteggere la privacy, &brandShortName; ha bloccato il contenuto remoto di questo messaggio.">
-<!ENTITY loadRemoteContentButton.label "Mostra contenuto remoto">
-<!ENTITY phishingBarMessage.label "&brandShortName; crede che questo messaggio possa essere una e-mail fraudolenta.">
-<!ENTITY removePhishingBarButton.label "Non fraudolenta">
-<!ENTITY mdnBarIgnoreButton.label "Ignora richiesta">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Invia ricevuta">
-<!ENTITY mdnBarSendButton.accesskey "n">
