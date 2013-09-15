@@ -66,11 +66,10 @@
 <!ENTITY projects.title "Applications locales">
 <!ENTITY projects.appDetails "Détails de l'application">
 <!ENTITY projects.removeAppFromList "Retirer cette application de le liste des applications sur lesquelles vous travaillez. Elle ne sera pas supprimée de l'appareil ou du simulateur.">
-<!ENTITY projects.reloadFiles "Actualiser">
-<!ENTITY projects.installApp "Installer">
-<!ENTITY projects.startApp "Démarrer">
-<!ENTITY projects.stopApp "Arrêter">
+<!ENTITY projects.updateApp "Mettre à jour">
+<!ENTITY projects.updateAppTooltip "Lancer les tests de validation et mettre à jour l'application sur l'appareil connecté">
 <!ENTITY projects.debugApp "Déboguer">
+<!ENTITY projects.debugAppTooltip "Ouvrir les outils de développement connectés à cette application">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://exemple.com/application/manifest.webapp">
 <!ENTITY projects.noProjects "Aucun projet. Ajoutez ci-dessous une application empaquetée (répertoire local) ou une application hébergée (lien vers un fichier manifeste).">
 
