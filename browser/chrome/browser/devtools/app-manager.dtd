@@ -37,8 +37,9 @@
 <!ENTITY connection.connectTooltip "Se connecter à l'appareil">
 <!ENTITY connection.disconnect "Se déconnecter">
 <!ENTITY connection.disconnectTooltip "Se déconnecter de l'appareil actuel ou du simulateur.">
-<!ENTITY connection.showDeviceCtrlCenter "Cliquer pour plus de détails">
-<!ENTITY connection.notConnected "Non connecté">
+<!ENTITY connection.notConnected2 "Non connecté.">
+<!ENTITY connection.connectTo "Se connecter à :">
+<!ENTITY connection.noDeviceFound "Aucun appareil détecté. Veuillez brancher un appareil">
 <!ENTITY connection.changeHostAndPort "Modifier">
 <!ENTITY connection.changeHostAndPortTooltip "Modifier l'hôte et le port utilisés pour se connecter à l'appareil. (La valeur par défaut est localhost:6000)">
 <!ENTITY connection.startSimulator "Lancer le simulateur">
