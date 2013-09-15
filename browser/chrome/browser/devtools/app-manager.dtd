@@ -5,6 +5,7 @@
 <!ENTITY index.title "Управление приложениями">
 <!ENTITY index.projects2 "Приложения">
 <!ENTITY index.device2 "Устройство">
+<!ENTITY index.help "Справка">
 <!ENTITY device.screenshot "Скриншот">
 <!ENTITY device.screenshotTooltip "Открыть скриншот текущего состояния устройства в новой вкладке.">
 <!ENTITY device.title "Центр управления приложениями">
@@ -34,8 +35,9 @@
 <!ENTITY connection.connectTooltip "Подсоединиться к устройству.">
 <!ENTITY connection.disconnect "Отсоединить">
 <!ENTITY connection.disconnectTooltip "Отсоединиться от текущего устройства или симулятора.">
-<!ENTITY connection.showDeviceCtrlCenter "Щёлкните для подробностей">
-<!ENTITY connection.notConnected "Не подсоединено">
+<!ENTITY connection.notConnected2 "Не подсоединено.">
+<!ENTITY connection.connectTo "Соединить с:">
+<!ENTITY connection.noDeviceFound "Ни одно устройство не найдено. Подсоедините устройство">
 <!ENTITY connection.changeHostAndPort "Изменить">
 <!ENTITY connection.changeHostAndPortTooltip "Изменить хост и порт используемый для подсоединения к устройству. (По умолчанию localhost:6000)">
 <!ENTITY connection.startSimulator "Запустить симулятор">
@@ -62,10 +64,18 @@
 <!ENTITY projects.title "Локальные приложения">
 <!ENTITY projects.appDetails "Сведения о приложении">
 <!ENTITY projects.removeAppFromList "Удалить это приложение из списка приложений над которыми вы работаете. Это не удалит его с устройства или симулятора.">
-<!ENTITY projects.reloadFiles "Обновить">
-<!ENTITY projects.installApp "Установить">
-<!ENTITY projects.startApp "Запустить">
-<!ENTITY projects.stopApp "Остановить">
+<!ENTITY projects.updateApp "Обновить">
+<!ENTITY projects.updateAppTooltip "Выполнить валидационные проверки и обновить приложение на подсоединённом устройстве">
 <!ENTITY projects.debugApp "Отладка">
+<!ENTITY projects.debugAppTooltip "Открыть Инструменты разработчика, подсоединенные к этому приложению">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Проектов нет. Добавьте ниже новое упакованное приложение (локальный каталог) или размещенное приложение (ссылку на файл манифеста).">
+<!ENTITY help.title "Управление приложениями">
+<!ENTITY help.close "Закрыть">
+<!ENTITY help.intro "Этот инструмент поможет вам в создании и установке веб-приложений на совместимые устройства (работающие под Firefox OS). Вкладка <strong>Приложения</strong> поможет вам в валидации и установке вашего приложения. Во вкладке <strong>Устройство</strong> отображается информация о подсоединённом устройстве. Используйте нижнюю панель инструментов для подсоединения к устройству или запуска симулятора.">
+<!ENTITY help.usefullLinks "Полезные ссылки:">
+<!ENTITY help.linkToAppMgrDoc "<a>Документация: Использование менеджера приложений</a>">
+<!ENTITY help.linkToConfiguringDevice "<a>Как настроить ваше устройство на Firefox OS</a>">
+<!ENTITY help.linkToTroubleShooting "<a>Решение проблем</a>">
+<!ENTITY help.linkToSimulatorAddon "<a>Установка дополнения Симулятора</a>">
+<!ENTITY help.linkToAdbHelperAddon "<a>Установка дополнения Adb Helper</a>">
