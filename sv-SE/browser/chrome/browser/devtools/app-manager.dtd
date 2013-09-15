@@ -66,11 +66,10 @@
 <!ENTITY projects.title "Lokala appar">
 <!ENTITY projects.appDetails "Appdetaljer">
 <!ENTITY projects.removeAppFromList "Ta bort den här appen från listan på appar du arbetar med. Den tas inte bort från enheten eller simulatorn">
-<!ENTITY projects.reloadFiles "Uppdatera">
-<!ENTITY projects.installApp "Installera">
-<!ENTITY projects.startApp "Starta">
-<!ENTITY projects.stopApp "Stoppa">
+<!ENTITY projects.updateApp "Uppdatera">
+<!ENTITY projects.updateAppTooltip "Kör valideringskontroller och uppdatera appen till den anslutna enheten">
 <!ENTITY projects.debugApp "Avlusa">
+<!ENTITY projects.debugAppTooltip "Öppna utvecklarverktygen som är anslutna till appen">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Inga projekt. Lägg till en ny paketerad app nedan (en lokal mapp) eller en app på webben (länk till en manifest-fil).">
 
