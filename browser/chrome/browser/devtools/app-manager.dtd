@@ -5,6 +5,7 @@
 <!ENTITY index.title "Gestore app">
 <!ENTITY index.projects2 "App">
 <!ENTITY index.device2 "Dispositivo">
+<!ENTITY index.help "Guida">
 <!ENTITY device.screenshot "Screenshot">
 <!ENTITY device.screenshotTooltip "Apri una nuova scheda con lo screenshot dello stato corrente del dispositivo.">
 <!ENTITY device.title "Centro controllo dispositivo">
@@ -69,3 +70,12 @@
 <!ENTITY projects.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a questa app.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nessun progetto presente. Aggiungi un'app packaged (una cartella) o un'app hosted (link a un file manifesto).">
+<!ENTITY help.title "Gestore app">
+<!ENTITY help.close "Chiudi">
+<!ENTITY help.intro "Questo strumento semplifica lo sviluppo e l'installazione di web app su dispositivi compatibili con Firefox OS. La scheda <strong>App</strong> serve per il processo di validazione e installazione dell'app. La scheda <strong>Dispositivo</strong> fornirà informazioni sul dispositivo collegato. Utilizzare la barra degli strumenti per connettere un dispositivo o avviare il simulatore.">
+<!ENTITY help.usefullLinks "Link utili:">
+<!ENTITY help.linkToAppMgrDoc "<a>Documentazione: utilizzare il gestore app</a>">
+<!ENTITY help.linkToConfiguringDevice "<a>Come impostare il proprio dispositivo Firefox OS</a>">
+<!ENTITY help.linkToTroubleShooting "<a>Risoluzione dei problemi</a>">
+<!ENTITY help.linkToSimulatorAddon "<a>Installa il simulatore (comp. aggiuntivo)</a>">
+<!ENTITY help.linkToAdbHelperAddon "<a>Installa Adb Helper (comp. aggiuntivo)</a>">
