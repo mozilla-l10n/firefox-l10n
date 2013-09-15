@@ -18,9 +18,9 @@
 <!ENTITY device.debugApp "Déboguer">
 <!ENTITY device.debugAppTooltip "Ouvrir les outils de développement connectés à cette application sur l'appareil.">
 <!ENTITY device.name "Nom">
-<!ENTITY device.app "Application">
-<!ENTITY device.privileged "Privilégiée">
-<!ENTITY device.certified "Certifiée">
+<!ENTITY device.app "Applications">
+<!ENTITY device.privileged "Privilégiées">
+<!ENTITY device.certified "Certifiées">
 <!ENTITY device.allow "Autoriser">
 <!ENTITY device.allowTooltip "Cette permission est autorisée pour les applications de ce type.">
 <!ENTITY device.prompt "Demander">
@@ -81,5 +81,5 @@
 <!ENTITY help.linkToAppMgrDoc "<a>Documentation : utilisation du gestionnaire d'applications</a>">
 <!ENTITY help.linkToConfiguringDevice "<a>Comment configurer votre appareil Firefox OS</a>">
 <!ENTITY help.linkToTroubleShooting "<a>Dépannage</a>">
-<!ENTITY help.linkToSimulatorAddon "<a>Installer le module complémentaire du simulateur</a>">
+<!ENTITY help.linkToSimulatorAddon "<a>Installer le module complémentaire Simulator</a>">
 <!ENTITY help.linkToAdbHelperAddon "<a>Installer le module complémentaire Adb Helper</a>">
