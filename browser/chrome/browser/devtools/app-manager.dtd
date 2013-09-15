@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY index.title "應用程式管理員">
-<!ENTITY index.projects "我的應用程式">
-<!ENTITY index.device "我的裝置">
+<!ENTITY index.projects2 "應用程式">
+<!ENTITY index.device2 "裝置">
 
 <!ENTITY device.screenshot "擷圖">
 <!ENTITY device.title "裝置控制台">
@@ -32,6 +32,9 @@
 <!ENTITY connection.disconnecting "正在離線…">
 <!ENTITY connection.cancel "取消">
 <!ENTITY connection.or "或">
+<!ENTITY connection.noSimulatorInstalled "未安裝模擬器">
+<!ENTITY connection.installFirstSimulator "安裝模擬器。">
+<!ENTITY connection.installAnotherSimulator "新增">
 
 <!ENTITY projects.localApps "本機應用程式">
 <!ENTITY projects.addApp "新增">
@@ -45,6 +48,6 @@
 <!ENTITY projects.startApp "開始">
 <!ENTITY projects.stopApp "停止">
 <!ENTITY projects.debugApp "除錯">
-<!ENTITY projects.hostedManifestPlaceHolder "http://example.com/app/webapp.manifest">
-<!ENTITY projects.noProject "未鏈結專案。在下方新增封裝的應用程式（一格資料夾），或是架設的應用程式（安裝資訊檔的鏈結路徑）。">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "無專案。在下面新增封裝應用程式（本機資料夾）或架設的應用程式（安裝資訊檔鏈結）。">
 
