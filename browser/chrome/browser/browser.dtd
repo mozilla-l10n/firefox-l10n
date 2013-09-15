@@ -464,9 +464,9 @@
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Enfocar conversaciones">
 <!ENTITY social.chatBar.accesskey "c">
-<!ENTITY social.markpage.accesskey "P">
+<!ENTITY social.markpageMenu.accesskey "d">
 <!ENTITY social.markpageMenu.label "Guardar página en…">
-<!ENTITY social.marklink.accesskey "L">
+<!ENTITY social.marklinkMenu.accesskey "G">
 <!ENTITY social.marklinkMenu.label "Guardar enlace como">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -484,6 +484,7 @@
 <!ENTITY pluginBlockNow.label "Bloquear plugin">
 <!ENTITY tabCrashed.header "La pestaña ha tenido un error">
 <!ENTITY tabCrashed.message "Esto es embarazoso. Hemos intentado mostrar esta página web, pero no está respondiendo.">
+<!ENTITY tabCrashed.checkSendReport "Informar a &vendorShortName; sobre este fallo para que puedan arreglarlo.">
 <!ENTITY tabCrashed.tryAgain "Reintentar">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY addonBarCmd.label "Barra de complementos">
