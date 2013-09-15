@@ -37,8 +37,9 @@
 <!ENTITY connection.connectTooltip "Anslut till enheten.">
 <!ENTITY connection.disconnect "Koppla ned">
 <!ENTITY connection.disconnectTooltip "Koppla ned från aktuell enhet eller simulator.">
-<!ENTITY connection.showDeviceCtrlCenter "Klicka för fler detaljer">
-<!ENTITY connection.notConnected "Ej ansluten">
+<!ENTITY connection.notConnected2 "Ej ansluten.">
+<!ENTITY connection.connectTo "Anslut till:">
+<!ENTITY connection.noDeviceFound "Hittade ingen enhet. Koppla in en enhet">
 <!ENTITY connection.changeHostAndPort "Ändra">
 <!ENTITY connection.changeHostAndPortTooltip "Ändra värd och port som används för att ansluta till enheten. (Standard är localhost:6000)">
 <!ENTITY connection.startSimulator "Starta simulator">
