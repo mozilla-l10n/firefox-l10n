@@ -68,6 +68,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Zapisujem">
 <!ENTITY btnPageLogging.tooltip "Zapisuj poruke poslate ka window.console objektu">
+<!ENTITY btnPageLogging.accesskey "Z">
 <!ENTITY btnConsoleErrors       "Greške">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Upozorenja">
