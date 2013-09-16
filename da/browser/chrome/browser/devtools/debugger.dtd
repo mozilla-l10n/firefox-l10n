@@ -22,12 +22,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "Denne kilde er black boxed: dens breakpoints er deaktiverede og stepping springes over.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Denne kilde er black boxed: dens breakpoints er deaktiverede og den springes over ved stepping.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Fjern denne kilde fra black box.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Stop black boxing af denne kilde.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
@@ -84,7 +84,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken         "Søg">
-<!ENTITY debuggerUI.searchToken.key     "ø">
+<!ENTITY debuggerUI.searchToken.key     "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
