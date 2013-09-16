@@ -10,7 +10,7 @@
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Միանալ &syncBrand.shortName.label;-ին">
-<!ENTITY sync.title.adddevice.label "Ավելացնել &syncBrand.shortName.label; հաշվեկշիռ">
+<!ENTITY sync.title.adddevice.label "Ավելացնել &syncBrand.fullName.label; հաշվեկշիռ">
 <!ENTITY sync.title.pair.label "Կցված սարք">
 <!-- J-PAKE Key Screen -->
 
