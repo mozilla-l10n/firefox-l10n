@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "사행활 보호모드">
+<!ENTITY privatebrowsingpage.title                  "사생활 보호모드">
 
 <!ENTITY privatebrowsingpage.issueDesc.private      "새 사생활 보호 탭을 열었습니다.">
 <!ENTITY privatebrowsingpage.issueDesc.normal       "사생활 보호 모드 탭이 아닙니다.">
