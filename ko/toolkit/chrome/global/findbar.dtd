@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY findCloseButton.tooltip "검색창 닫기">
-<!ENTITY highlight.label "모두 강조">
-<!ENTITY highlight.accesskey "a">
 <!ENTITY next.tooltip "검색와 일치한 문자열을 현재 이후에서 찾습니다.">
 <!ENTITY previous.tooltip "검색어와 일치한 문자열을 현재 이전에서 찾습니다.">
 <!ENTITY highlightAll.label	"모두 강조 표시">
