@@ -163,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY locationItem.title           "Ubicación">
 <!ENTITY searchItem.title             "Buscar">
 <!ENTITY bookmarksItem.title          "Marcadores">
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Inicio">
 
 <!ENTITY tabGroupsButton.label        "Pestañas Grupos">
 <!ENTITY tabGroupsButton.tooltip      "Agrupa tus pestañas">
@@ -204,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desarrollador Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "Conectar…">
@@ -255,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.keytext        "yo">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Activar las herramientas para desarrolladores">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarOtherToolsButton.label  "Más herramientas">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Conseguir más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -390,8 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewImageInfoCmd.label       "Ver información de la imagen">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-
-
+<!ENTITY viewImageDescCmd.label       "Ver la descripción">
+<!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Ver video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ver imagen de fondo">
@@ -425,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "G">
 <!ENTITY emailImageCmd.label          "Enviar imagen…">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.label          "Enviar video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Enviar Audio...">
 <!ENTITY emailAudioCmd.accesskey      "A">

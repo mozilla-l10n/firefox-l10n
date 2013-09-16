@@ -39,7 +39,7 @@
 <!ENTITY checkForUpdates                                     "Buscar actualizaciones…">
 <!ENTITY disabledPlugin                                      "Este plugin está desactivado.">
 <!ENTITY blockedPlugin.label                                 "Este plugin se bloqueó para tu protección.">
-
+<!ENTITY hidePluginBtn.label                                 "Esconder complemento">
 <!ENTITY installPlugin                                       "Instalar plugin…">
 <!ENTITY managePlugins                                       "Administrar plugins…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

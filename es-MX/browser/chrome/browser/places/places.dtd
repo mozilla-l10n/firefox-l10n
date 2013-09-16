@@ -10,29 +10,29 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organizar los marcadores">
 
-<!ENTITY file.close.label               "Cerrar">
+<!ENTITY file.close.label               "Close">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Vistas">
+<!ENTITY views.label                    "Views">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Cambia tu vista">
-<!ENTITY view.columns.label             "Mostrar columnas">
-<!ENTITY view.columns.accesskey         "M">
-<!ENTITY view.sort.label                "Listar">
-<!ENTITY view.sort.accesskey            "L">
-<!ENTITY view.unsorted.label            "Sin ordenar">
-<!ENTITY view.unsorted.accesskey        "S">
+<!ENTITY view.columns.label             "Mostrar Columns">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Sort">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Unsorted">
+<!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "Ordenar A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importar Marcadores de HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Import Marcadores de HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportar Marcadores a HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Export Marcadores a HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importar datos de otro navegador…">
-<!ENTITY importOtherBrowser.accesskey      "a">
+<!ENTITY importOtherBrowser.label          "Importar datos de Another navegador…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Copia…">
 <!ENTITY cmd.backup.accesskey           "C">
@@ -57,25 +57,25 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir todo en pestañas">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
-<!ENTITY cmd.properties.label      "Propiedades">
+<!ENTITY cmd.properties.label      "Properties">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "Ordenar por nombre">
-<!ENTITY cmd.sortby_name.accesskey          "n">
+<!ENTITY cmd.sortby_name.label              "Sort por nombre">
+<!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nuevo marcador…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
 <!ENTITY cmd.new_folder.label              "Nueva carpeta…">
 <!ENTITY cmd.new_folder.accesskey          "u">
-<!ENTITY cmd.context_new_folder.accesskey  "c">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Nuevo separador">
 <!ENTITY cmd.new_separator.accesskey       "v">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcadores dinámicos">
+<!ENTITY cmd.reloadLivebookmark.label      "Reload marcadores dinámicos">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Mover…">
+<!ENTITY cmd.moveBookmarks.label                  "Move…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "Nombre">
@@ -88,16 +88,16 @@
 <!ENTITY col.dateadded.label     "Añadido">
 <!ENTITY col.lastmodified.label  "Última modificación">
 
-<!ENTITY search.label                              "Buscar:">
-<!ENTITY search.accesskey                          "B">
+<!ENTITY search.label                              "Search:">
+<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Importar y respaldar">
+<!ENTITY maintenance.label      "Import y respaldar">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar y respaldar tus marcadores">
 
-<!ENTITY backButton.tooltip  "Ir atrás">
+<!ENTITY backButton.tooltip  "Regresar">
 
 <!ENTITY forwardButton.tooltip  "Ir adelante">
 
