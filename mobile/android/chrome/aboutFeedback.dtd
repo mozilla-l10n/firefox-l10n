@@ -11,14 +11,15 @@
 <!ENTITY intro.header              "잠깐 시간을 내주시겠습니까?">
 <!ENTITY intro.message             "&brandShortName; 모바일 버전에 대해 여러분의 의견을 듣습니다.">
 <!ENTITY intro.happyLink           "정말 좋아요!">
-<!ENTITY intro.sadLink             "문제 있어요!">
+<!ENTITY intro.sadLink             "조금 문제가 있어요">
+<!ENTITY intro.maybeLater          "나중에 하겠습니다">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "만약 &brandShortName;에 대한 질문이나 문제가 있으면,">
+<!ENTITY support.pre2              "더 자세히 알고 싶으시면">
 <!ENTITY support.link              "&brandShortName; 고객 지원">
-<!ENTITY support.post              "을 살펴봐 주십시오.">
+<!ENTITY support.post2             "을 방문해 주십시오.">
 
 <!ENTITY happy.header              "정말 좋아요!">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "평가에 시간은 걸리지 않습니다. 다른 분들에게 도움이 됩니다.">
 
 <!ENTITY happy.ratingLink          "Google Play 이동">
-<!ENTITY happy.maybeLater          "나중에">
+<!ENTITY happy.maybeLater2         "나중에">
 <!ENTITY happy.noThanks            "아니오">
 
 <!ENTITY sad.message               "&brandShortName;에 문제가 있어 죄송합니다. 문제 해결을 위해서 어떠한 문제가 일어났는지 가르쳐 주세요.">
