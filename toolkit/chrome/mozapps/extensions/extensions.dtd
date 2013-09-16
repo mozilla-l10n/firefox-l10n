@@ -91,12 +91,12 @@
 <!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
 <!ENTITY cmd.disableTheme.accesskey           "u">
 <!ENTITY cmd.askToActivate.label              "Preguntar para activar">
-
-
-
-
-
-
+<!ENTITY cmd.askToActivate.tooltip            "Preguntar para usar este complemento cada vez">
+<!ENTITY cmd.alwaysActivate.label             "Siempre Activo">
+<!ENTITY cmd.alwaysActivate.tooltip           "Siempre usar este complemento">
+<!ENTITY cmd.neverActivate.label              "Nunca Activar">
+<!ENTITY cmd.neverActivate.tooltip            "Nunca usar este complento">
+<!ENTITY cmd.stateMenu.tooltip                "Cambia cuando este complemento está activo">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Quitar">

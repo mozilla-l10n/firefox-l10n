@@ -14,8 +14,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "To start Private Browsing, you can also select &basePBMenu.label; &gt; &newPrivateWindow.label;.">
-<!ENTITY privatebrowsingpage.howToStop3                "To stop Private Browsing, you can close this window.">
+<!ENTITY privatebrowsingpage.howToStart3               "Para iniciar la navegación privada, también puedes seleccionar &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privatebrowsingpage.howToStop3                "Para dejar la navegación privada, puedes cerrar esta ventana.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Aunque no se guardará tu historial de navegación en este equipo, tu proveedor de servicios de Internet o el personal de la organización donde trabajas aún pueden rastrear las páginas que visites.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saber más">

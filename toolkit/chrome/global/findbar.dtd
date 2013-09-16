@@ -7,9 +7,9 @@
 
 <!ENTITY next.tooltip "Ir a la siguiente frase encontrada">
 <!ENTITY previous.tooltip "Ir a la anterior frase encontrada">
-
-
-
+<!ENTITY findCloseButton.tooltip "Cerrar la barra de búsqueda">
+<!ENTITY highlightAll.label "Marcar todo">
+<!ENTITY highlightAll.accesskey "t">
 <!ENTITY highlightAll.tooltiptext "Marcar todas las frases encontradas">
 <!ENTITY caseSensitive.label "Coincidir Case">
 <!ENTITY caseSensitive.accesskey "C">
