@@ -29,3 +29,7 @@
 <!ENTITY options.profiler.label "Profiler JavaScript">
 <!ENTITY options.showPlatformData.label "Visualizza dati piattaforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Attivando questa opzione i rapporti del Profiler JavaScript conterranno i simboli della piattaforma Gecko">
+<!ENTITY toolboxZoomIn.key "+">
+<!ENTITY toolboxZoomIn.key2 "=">
+<!ENTITY toolboxZoomOut.key "-">
+<!ENTITY toolboxZoomReset.key "0">
