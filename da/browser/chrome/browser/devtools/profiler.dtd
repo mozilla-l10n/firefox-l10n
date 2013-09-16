@@ -13,8 +13,8 @@
 <!-- LOCALIZATION NOTE (profilerNew.label): This is the label for the
   -  button that creates a new profile. -->
 <!ENTITY profilerNew.label "Ny">
+
 <!-- LOCALIZATION NOTE (profilerStart.label): This is the label for the
-OB
   -  button that starts the profiler. -->
 <!ENTITY profilerStart.label "Start">
 
