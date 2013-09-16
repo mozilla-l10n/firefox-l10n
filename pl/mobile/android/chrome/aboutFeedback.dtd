@@ -12,13 +12,14 @@
 <!ENTITY intro.message             "Powiedz nam, co myślisz o przeglądarce &brandShortName; dla Androida.">
 <!ENTITY intro.happyLink           "Podoba mi się">
 <!ENTITY intro.sadLink             "Mam kilka uwag">
+<!ENTITY intro.maybeLater          "Może później">
 
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre               "Jeśli masz kłopoty z programem &brandShortName;, odwiedź stronę ">
-<!ENTITY support.link              "Pomocy">
-<!ENTITY support.post              ".">
+<!ENTITY support.pre2               "Możesz też zajrzeć na ">
+<!ENTITY support.link              "stronę&nbsp;pomocy&nbsp;Mozilli">
+<!ENTITY support.post2              ", gdzie znajdziesz więcej informacji.">
 
 <!ENTITY happy.header              "Małe pandy radują się">
 
@@ -31,7 +32,7 @@
 <!ENTITY happy.finePrint           "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
 
 <!ENTITY happy.ratingLink          "Tak, przejdź do sklepu Google Play">
-<!ENTITY happy.maybeLater          "Może później">
+<!ENTITY happy.maybeLater2          "Może później">
 <!ENTITY happy.noThanks            "Nie, dziękuję">
 
 <!ENTITY sad.message               "Przykro nam, że &brandShortName; sprawił ci problem. Opisz go nam, żebśmy mogli go naprawić.">
