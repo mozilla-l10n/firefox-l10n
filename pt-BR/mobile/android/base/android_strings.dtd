@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  splash_settingup "Configurando seu &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Estamos atualizando seus favoritos e histórico, o que pode levar alguns minutos.">
-
 <!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
 
@@ -67,20 +64,26 @@
 
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
-<!ENTITY pref_category_general "Geral">
-<!ENTITY pref_category_privacy "Privacidade e segurança">
-<!ENTITY pref_category_content "Conteúdo">
-<!-- Localization note (datareporting_title) : This string matches
-     (dataChoicesTab.label) in chrome/browser/preferences/advanced.dtd except in
-     capitalization. -->
+<!ENTITY pref_category_advanced "Avançado">
+<!ENTITY pref_category_customize "Personalizar">
+<!ENTITY pref_category_search2 "Configurações de pesquisa">
+<!ENTITY pref_category_display "Aparência">
+<!ENTITY pref_category_privacy_short "Privacidade">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_datareporting "Escolha de dados">
-<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
+<!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
+<!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
+<!ENTITY pref_developer_remotedebugging "Depuração remota">
+<!ENTITY pref_developer_remotedebugging_docs "Saiba mais">
 <!ENTITY pref_remember_signons "Memorizar senhas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Geral">
-<!ENTITY pref_header_privacy "Privacidade e segurança">
-<!ENTITY pref_header_content "Conteúdo">
+<!ENTITY pref_header_customize "Personalizar">
+<!ENTITY pref_header_display "Aparência">
+<!ENTITY pref_header_privacy_short "Privacidade">
+<!ENTITY pref_header_help "Ajuda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Ferramentas do desenvolvedor">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativados">
@@ -101,7 +104,11 @@
 <!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
 <!ENTITY pref_plugins_disabled "Desativados">
 <!ENTITY pref_text_size "Tamanho do texto">
-<!ENTITY pref_reflow_on_zoom3 "Duplo toque para ajustar texto">
+<!ENTITY pref_reflow_on_zoom4 "Ajustar texto">
+<!ENTITY pref_restore "Abas">
+<!ENTITY pref_restore_always "Sempre restaurar">
+<!ENTITY pref_restore_crash "Restaurar depois de um travamento">
+<!ENTITY pref_restore_never "Nunca restaurar">
 <!ENTITY pref_font_size_tiny "Minúsculo">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Médio">
@@ -132,6 +139,11 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Dados offline de sites">
 <!ENTITY pref_private_data_siteSettings2 "Config. de sites">
 <!ENTITY pref_private_data_downloadFiles "Downloads concluídos">
+
+
+<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
+<!ENTITY pref_vendor_faqs "Dúvidas frequentes">
+<!ENTITY pref_vendor_feedback "Qual a sua opinião?">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
@@ -183,9 +195,8 @@ size. -->
 <!ENTITY tabs_normal "Abas">
 <!ENTITY tabs_private "Privativas">
 <!ENTITY tabs_synced "Sincronizadas">
-<!ENTITY wallpaper_success "Papel de parede atualizado">
-<!ENTITY wallpaper_progress "Configurando o papel de parede">
-<!ENTITY wallpaper_fail "Não foi possível definir o papel de parede">
+<!ENTITY set_image_fail "Não foi possível definir a imagem">
+<!ENTITY set_image_chooser_title "Definir imagem como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -231,7 +242,10 @@ size. -->
 <!ENTITY reading_list_removed "Página excluída da lista de leitura">
 <!ENTITY reading_list_failed "Falha ao adicionar a página à lista de leitura">
 <!ENTITY reading_list_duplicate "Página já existente em sua lista de leitura">
-<!ENTITY reader "Leitor">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Ações adicionais">
 
 <!ENTITY masterpassword_create_title "Criar senha mestra">
 <!ENTITY masterpassword_remove_title "Excluir a senha mestra">
@@ -315,6 +329,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Favoritos e histórico">
 
+<!ENTITY devtools_remote_debugging_forward "Não esqueça de definir o redirecionamento da porta!">
+
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_start_select2 "Toque para receber">
@@ -326,3 +342,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Atualização disponível para o &brandShortName;">
 <!ENTITY updater_apply_select2 "Toque para atualizar">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Nova sessão de convidado">
+<!ENTITY exit_guest_session "Sair da sessão de convidado">
+<!ENTITY guest_session_dialog_continue "Continuar">
+<!ENTITY guest_session_dialog_cancel "Cancelar">
+<!ENTITY new_guest_session_title "O &brandShortName; irá reiniciar agora">
+<!ENTITY new_guest_session_text "A pessoa que a usar não conseguirá ver seus dados pessoais de navegação (como senhas memorizadas, histórico ou favoritos).\n\nQuando seu convidado tiver acabado, os dados de navegação dele serão excluídos e sua sessão será restaurada.">
+
+<!ENTITY exit_guest_session_title "O &brandShortName; irá reiniciar agora">
+<!ENTITY exit_guest_session_text "Os dados de navegação desta sessão serão excluídos.">
